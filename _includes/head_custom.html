@@ -1,11 +1,38 @@
 {% raw %}
-<link href="https://fonts.cdnfonts.com/css/open-dyslexic" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 
 <style>
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('https://cdn.jsdelivr.net/npm/open-dyslexic@1.0.3/woff/OpenDyslexic-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('https://cdn.jsdelivr.net/npm/open-dyslexic@1.0.3/woff/OpenDyslexic-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('https://cdn.jsdelivr.net/npm/open-dyslexic@1.0.3/woff/OpenDyslexic-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+.main-content,
+.main-content p,
+.main-content li,
+.main-content td {
+  font-family: 'EB Garamond', serif !important;
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
 #accessibility-bar {
   position: fixed;
-  top: 8px;
+  bottom: 12px;
   right: 12px;
   z-index: 9999;
   display: flex;
@@ -13,7 +40,7 @@
   font-size: 13px;
 }
 
-#accessibility-bar button, #accessibility-bar select {
+#accessibility-bar select {
   border: 1px solid #ccc;
   border-radius: 4px;
   padding: 4px 10px;
@@ -21,59 +48,21 @@
   font-size: 13px;
   background: #f5f5f5;
   color: #333;
+  font-family: sans-serif !important;
 }
 
-body.dark-mode {
-  background-color: #1e1e1e !important;
-  color: #d4d4d4 !important;
-}
-body.dark-mode .side-bar {
-  background-color: #252525 !important;
-  color: #d4d4d4 !important;
-}
-body.dark-mode .main-content {
-  background-color: #1e1e1e !important;
-}
-body.dark-mode a {
-  color: #6db3f2 !important;
-}
-body.dark-mode .site-title {
-  color: #d4d4d4 !important;
-}
-body.dark-mode .search-input {
-  background-color: #333 !important;
-  color: #d4d4d4 !important;
-  border-color: #555 !important;
-}
-body.dark-mode .navigation-list-link {
-  color: #d4d4d4 !important;
-}
-body.dark-mode #accessibility-bar button,
-body.dark-mode #accessibility-bar select {
-  background: #333 !important;
-  color: #d4d4d4 !important;
-  border-color: #555 !important;
-}
-body.dark-mode table th,
-body.dark-mode table td {
-  border-color: #555 !important;
-  color: #d4d4d4 !important;
-}
-body.dark-mode table th {
-  background-color: #2a2a2a !important;
-}
-body.dark-mode code {
-  background-color: #2a2a2a !important;
-  color: #d4d4d4 !important;
-}
-
-body.font-hyperlegible,
-body.font-hyperlegible * {
+body.font-hyperlegible .main-content,
+body.font-hyperlegible .main-content p,
+body.font-hyperlegible .main-content li,
+body.font-hyperlegible .main-content td {
   font-family: 'Atkinson Hyperlegible', sans-serif !important;
 }
-body.font-opendyslexic,
-body.font-opendyslexic * {
-  font-family: 'Open Dyslexic', sans-serif !important;
+
+body.font-opendyslexic .main-content,
+body.font-opendyslexic .main-content p,
+body.font-opendyslexic .main-content li,
+body.font-opendyslexic .main-content td {
+  font-family: 'OpenDyslexic', sans-serif !important;
 }
 
 .collapsible-heading {
@@ -98,32 +87,12 @@ body.font-opendyslexic * {
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
+
+  /* --- Selecteur de police --- */
   var bar = document.createElement('div');
   bar.id = 'accessibility-bar';
-  bar.innerHTML = '<button id="dark-toggle" title="Mode sombre">&#x1F319;</button><select id="font-select" title="Police"><option value="default">Police par d\u00e9faut</option><option value="hyperlegible">Atkinson Hyperlegible (malvoyants)</option><option value="opendyslexic">OpenDyslexic (dyslexie)</option></select>';
+  bar.innerHTML = '<select id="font-select" title="Police"><option value="default">Police : EB Garamond</option><option value="hyperlegible">Police : Atkinson Hyperlegible (malvoyants)</option><option value="opendyslexic">Police : OpenDyslexic (dyslexie)</option></select>';
   document.body.appendChild(bar);
-
-  var darkBtn = document.getElementById('dark-toggle');
-  var isDark = localStorage.getItem('darkMode') === 'true';
-
-  function applyDark(d) {
-    if (d) {
-      document.body.classList.add('dark-mode');
-      darkBtn.innerHTML = '&#x2600;&#xFE0F;';
-      darkBtn.title = 'Mode clair';
-    } else {
-      document.body.classList.remove('dark-mode');
-      darkBtn.innerHTML = '&#x1F319;';
-      darkBtn.title = 'Mode sombre';
-    }
-  }
-  applyDark(isDark);
-
-  darkBtn.addEventListener('click', function() {
-    isDark = !isDark;
-    localStorage.setItem('darkMode', String(isDark));
-    applyDark(isDark);
-  });
 
   var fontSelect = document.getElementById('font-select');
   var savedFont = localStorage.getItem('fontChoice') || 'default';
@@ -141,16 +110,18 @@ document.addEventListener('DOMContentLoaded', function() {
     applyFont(this.value);
   });
 
-  var content = document.querySelector('.main-content');
+  /* --- Sections pliables --- */
+  var content = document.getElementById('main-content');
+  if (!content) { content = document.querySelector('.main-content'); }
   if (!content) { return; }
 
-  var headings = content.querySelectorAll('h2, h3, h4');
-  if (headings.length < 3) { return; }
+  var allHeadings = content.querySelectorAll('h1, h2, h3, h4');
+  if (allHeadings.length < 4) { return; }
 
-  var i, heading, level, wrapper, sibling, next, siblingLevel;
+  var i, heading, level, wrapper, sibling, nextSib, siblingLevel;
 
-  for (i = 0; i < headings.length; i++) {
-    heading = headings[i];
+  for (i = 0; i < allHeadings.length; i++) {
+    heading = allHeadings[i];
     heading.classList.add('collapsible-heading', 'open');
     level = parseInt(heading.tagName.charAt(1), 10);
     wrapper = document.createElement('div');
@@ -162,9 +133,9 @@ document.addEventListener('DOMContentLoaded', function() {
         siblingLevel = parseInt(sibling.tagName.charAt(1), 10);
         if (siblingLevel <= level) { break; }
       }
-      next = sibling.nextElementSibling;
+      nextSib = sibling.nextElementSibling;
       wrapper.appendChild(sibling);
-      sibling = next;
+      sibling = nextSib;
     }
 
     if (wrapper.children.length > 0) {
