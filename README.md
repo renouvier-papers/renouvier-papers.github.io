@@ -8,7 +8,7 @@ Renouvier a profondément marqué la pensée française de la seconde moitié du
 
 | Dépôt | Contenu | Statut |
 |-------|---------|--------|
-| [**oeuvres**](https://github.com/renouvier-papers/oeuvres) | Livres et essais | En cours |
+| [**oeuvres**](https://renouvier-papers.github.io/oeuvres/) | Livres et essais | En cours |
 | **critique-philosophique** | *La Critique philosophique* (1872-1889) | À venir |
 | **annee-philosophique** | *L'Année philosophique* (1890-1903) | À venir |
 | **correspondance** | Correspondance de Renouvier | À venir |
