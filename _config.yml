@@ -18,3 +18,5 @@ nav_enabled: true
 toc:
   enabled: true
   heading_level: 2
+
+aux_links: []
