@@ -1,3 +1,5 @@
+---
+---
 # Renouvier Papers
 
 Édition numérique libre des œuvres et des revues de **Charles Renouvier** (Montpellier, 1815 — Prades, 1903), philosophe français, fondateur du néocriticisme.
