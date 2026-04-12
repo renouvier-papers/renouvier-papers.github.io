@@ -1,17 +1,15 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Luciole&display=swap" rel="stylesheet">
+{% raw %}
 <link href="https://fonts.cdnfonts.com/css/open-dyslexic" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 
 <style>
-/* Barre d'accessibilité */
 #accessibility-bar {
   position: fixed;
-  top: 0;
-  right: 0;
+  top: 8px;
+  right: 12px;
   z-index: 9999;
   display: flex;
   gap: 6px;
-  padding: 8px 12px;
   font-size: 13px;
 }
 
@@ -25,154 +23,117 @@
   color: #333;
 }
 
-/* Mode sombre */
 body.dark-mode {
   background-color: #1e1e1e !important;
   color: #d4d4d4 !important;
 }
-
 body.dark-mode .side-bar {
   background-color: #252525 !important;
   color: #d4d4d4 !important;
 }
-
 body.dark-mode .main-content {
   background-color: #1e1e1e !important;
 }
-
 body.dark-mode a {
   color: #6db3f2 !important;
 }
-
 body.dark-mode .site-title {
   color: #d4d4d4 !important;
 }
-
 body.dark-mode .search-input {
   background-color: #333 !important;
   color: #d4d4d4 !important;
   border-color: #555 !important;
 }
-
 body.dark-mode .navigation-list-link {
   color: #d4d4d4 !important;
 }
-
-body.dark-mode .navigation-list-link.active {
-  color: #6db3f2 !important;
-}
-
 body.dark-mode #accessibility-bar button,
 body.dark-mode #accessibility-bar select {
   background: #333 !important;
   color: #d4d4d4 !important;
   border-color: #555 !important;
 }
-
 body.dark-mode table th,
 body.dark-mode table td {
   border-color: #555 !important;
   color: #d4d4d4 !important;
 }
-
 body.dark-mode table th {
   background-color: #2a2a2a !important;
 }
-
 body.dark-mode code {
   background-color: #2a2a2a !important;
   color: #d4d4d4 !important;
 }
 
-/* Polices d'accessibilité */
-body.font-luciole, body.font-luciole * {
-  font-family: 'Luciole', sans-serif !important;
+body.font-hyperlegible,
+body.font-hyperlegible * {
+  font-family: 'Atkinson Hyperlegible', sans-serif !important;
 }
-
-body.font-opendyslexic, body.font-opendyslexic * {
+body.font-opendyslexic,
+body.font-opendyslexic * {
   font-family: 'Open Dyslexic', sans-serif !important;
 }
 
-/* Sections pliables */
 .collapsible-heading {
   cursor: pointer;
   user-select: none;
   position: relative;
   padding-left: 1.2em;
 }
-
 .collapsible-heading::before {
-  content: '▸';
+  content: '\25B8';
   position: absolute;
   left: 0;
   transition: transform 0.2s;
 }
-
 .collapsible-heading.open::before {
   transform: rotate(90deg);
 }
-
-.collapsible-content {
-  overflow: hidden;
-  transition: max-height 0.3s ease;
-}
-
 .collapsible-content.collapsed {
-  max-height: 0 !important;
-  overflow: hidden;
+  display: none;
 }
 </style>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-
-  // --- Barre d'accessibilité ---
   var bar = document.createElement('div');
   bar.id = 'accessibility-bar';
-  bar.innerHTML =
-    '<button id="dark-toggle" title="Mode sombre">🌙</button>' +
-    '<select id="font-select" title="Police">' +
-    '<option value="default">Police par défaut</option>' +
-    '<option value="luciole">Luciole (malvoyants)</option>' +
-    '<option value="opendyslexic">OpenDyslexic (dyslexie)</option>' +
-    '</select>';
+  bar.innerHTML = '<button id="dark-toggle" title="Mode sombre">&#x1F319;</button><select id="font-select" title="Police"><option value="default">Police par d\u00e9faut</option><option value="hyperlegible">Atkinson Hyperlegible (malvoyants)</option><option value="opendyslexic">OpenDyslexic (dyslexie)</option></select>';
   document.body.appendChild(bar);
 
-  // --- Mode sombre ---
   var darkBtn = document.getElementById('dark-toggle');
   var isDark = localStorage.getItem('darkMode') === 'true';
 
-  function applyDark(dark) {
-    if (dark) {
+  function applyDark(d) {
+    if (d) {
       document.body.classList.add('dark-mode');
-      darkBtn.textContent = '☀️';
+      darkBtn.innerHTML = '&#x2600;&#xFE0F;';
       darkBtn.title = 'Mode clair';
     } else {
       document.body.classList.remove('dark-mode');
-      darkBtn.textContent = '🌙';
+      darkBtn.innerHTML = '&#x1F319;';
       darkBtn.title = 'Mode sombre';
     }
   }
-
   applyDark(isDark);
 
   darkBtn.addEventListener('click', function() {
     isDark = !isDark;
-    localStorage.setItem('darkMode', isDark);
+    localStorage.setItem('darkMode', String(isDark));
     applyDark(isDark);
   });
 
-  // --- Sélecteur de police ---
   var fontSelect = document.getElementById('font-select');
   var savedFont = localStorage.getItem('fontChoice') || 'default';
   fontSelect.value = savedFont;
 
-  function applyFont(choice) {
-    document.body.classList.remove('font-luciole', 'font-opendyslexic');
-    if (choice === 'luciole') document.body.classList.add('font-luciole');
-    if (choice === 'opendyslexic') document.body.classList.add('font-opendyslexic');
+  function applyFont(f) {
+    document.body.classList.remove('font-hyperlegible', 'font-opendyslexic');
+    if (f === 'hyperlegible') { document.body.classList.add('font-hyperlegible'); }
+    if (f === 'opendyslexic') { document.body.classList.add('font-opendyslexic'); }
   }
-
   applyFont(savedFont);
 
   fontSelect.addEventListener('change', function() {
@@ -180,43 +141,44 @@ document.addEventListener('DOMContentLoaded', function() {
     applyFont(this.value);
   });
 
-  // --- Sections pliables dans les longs textes ---
   var content = document.querySelector('.main-content');
-  if (!content) return;
+  if (!content) { return; }
 
   var headings = content.querySelectorAll('h2, h3, h4');
-  if (headings.length < 3) return; // Ne pas activer sur les pages courtes
+  if (headings.length < 3) { return; }
 
-  headings.forEach(function(heading) {
+  var i, heading, level, wrapper, sibling, next, siblingLevel;
+
+  for (i = 0; i < headings.length; i++) {
+    heading = headings[i];
     heading.classList.add('collapsible-heading', 'open');
-
-    // Collecter tout le contenu entre ce titre et le prochain titre de même niveau ou supérieur
-    var level = parseInt(heading.tagName.charAt(1));
-    var wrapper = document.createElement('div');
+    level = parseInt(heading.tagName.charAt(1), 10);
+    wrapper = document.createElement('div');
     wrapper.className = 'collapsible-content';
-    var sibling = heading.nextElementSibling;
+    sibling = heading.nextElementSibling;
 
     while (sibling) {
       if (sibling.tagName && /^H[1-6]$/.test(sibling.tagName)) {
-        var siblingLevel = parseInt(sibling.tagName.charAt(1));
-        if (siblingLevel <= level) break;
+        siblingLevel = parseInt(sibling.tagName.charAt(1), 10);
+        if (siblingLevel <= level) { break; }
       }
-      var next = sibling.nextElementSibling;
+      next = sibling.nextElementSibling;
       wrapper.appendChild(sibling);
       sibling = next;
     }
 
     if (wrapper.children.length > 0) {
-      heading.after(wrapper);
+      heading.parentNode.insertBefore(wrapper, heading.nextSibling);
     }
 
     heading.addEventListener('click', function() {
       this.classList.toggle('open');
-      var content = this.nextElementSibling;
-      if (content && content.classList.contains('collapsible-content')) {
-        content.classList.toggle('collapsed');
+      var c = this.nextElementSibling;
+      if (c && c.classList.contains('collapsible-content')) {
+        c.classList.toggle('collapsed');
       }
     });
-  });
+  }
 });
 </script>
+{% endraw %}
