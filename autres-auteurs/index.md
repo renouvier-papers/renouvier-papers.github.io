@@ -10,7 +10,7 @@ has_children: true
 
 | Auteur | Dates | Domaine | Statut |
 |--------|-------|---------|--------|
-| **Gaston Milhaud** | 1858-1918 | Philosophie des sciences, histoire des sciences | À venir |
-| **François Évellin** | 1835-1910 | Métaphysique, philosophie des mathématiques | À venir |
-| **Georges Lechalas** | 1851-1919 | Philosophie des mathématiques, géométrie | À venir |
-| **Auguste Calinon** | 1850-1900 | Philosophie des mathématiques, géométrie non euclidienne | À venir |
+| **Gaston Milhaud** | 1858-1918 | Philosophie des sciences, mathématiques et histoire des sciences | À venir |
+| **François Évellin** | 1835-1910 | Métaphysique et philosophie des mathématiques | À venir |
+| **Georges Lechalas** | 1851-1919 | Philosophie des sciences, mathématiques, physique et esthétique | À venir |
+| **Auguste Calinon** | 1850-1900 | Philosophie des sciences et mathématiques | À venir |
