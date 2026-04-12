@@ -1,0 +1,21 @@
+remote_theme: just-the-docs/just-the-docs
+
+title: Renouvier Papers
+description: Édition numérique des œuvres de Charles Renouvier (1815-1903)
+
+color_scheme: light
+
+search_enabled: true
+search.button: true
+
+back_to_top: true
+back_to_top_text: "Haut de page"
+
+footer_content: "Renouvier Papers · CC BY 4.0 · Créé et maintenu par Arthur Saunier"
+
+nav_enabled: true
+
+# Table des matières automatique sur chaque page
+toc:
+  enabled: true
+  heading_level: 2
