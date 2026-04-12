@@ -18,30 +18,24 @@
   font-weight: normal; font-style: italic;
 }
 
-/* === POLICE PAR DEFAUT === */
+/* === POLICE === */
 body {
   font-family: 'Libertinus Serif', serif !important;
   font-size: 1.1rem;
   line-height: 1.7;
 }
 .side-bar, .side-bar * { font-size: 0.85rem; }
-
-body.font-hyperlegible, body.font-hyperlegible * {
-  font-family: 'Atkinson Hyperlegible', sans-serif !important;
-}
+body.font-hyperlegible, body.font-hyperlegible * { font-family: 'Atkinson Hyperlegible', sans-serif !important; }
 body.font-hyperlegible { font-size: 1.05rem; }
-
-body.font-opendyslexic, body.font-opendyslexic * {
-  font-family: 'OpenDyslexic', sans-serif !important;
-}
+body.font-opendyslexic, body.font-opendyslexic * { font-family: 'OpenDyslexic', sans-serif !important; }
 body.font-opendyslexic { font-size: 1rem; }
 
-/* === MODE CLAIR (defaut) === */
+/* === VARIABLES DE THEME === */
 body {
   --bg: #faf8f5;
   --bg-sidebar: #f3f0eb;
   --text: #2d2d2d;
-  --text-muted: #777;
+  --text-muted: #888;
   --h1-color: #5b3e96;
   --h2-color: #2a7a6f;
   --h3-color: #b5651d;
@@ -52,6 +46,11 @@ body {
   --border: #e0dcd6;
   --quote-bg: #f0eee9;
   --quote-border: #7253ed;
+  --em-color: #8b5e3c;
+  --page-marker: #b0a090;
+  --hr-color: #d0c8be;
+  --fn-color: #7253ed;
+  --strong-color: #3d2f5c;
   --bar-bg: #f5f5f5;
   --bar-text: #333;
   --bar-border: #ccc;
@@ -59,12 +58,11 @@ body {
   --toc-link: #555;
 }
 
-/* === MODE SOMBRE === */
 body.theme-dark {
   --bg: #0d1117;
   --bg-sidebar: #161b22;
   --text: #d4d4d4;
-  --text-muted: #888;
+  --text-muted: #666;
   --h1-color: #c586c0;
   --h2-color: #4ec9b0;
   --h3-color: #ce9178;
@@ -73,8 +71,13 @@ body.theme-dark {
   --link-hover: #8cc5ff;
   --accent: #c586c0;
   --border: #30363d;
-  --quote-bg: #161b22;
+  --quote-bg: #1c2028;
   --quote-border: #c586c0;
+  --em-color: #dcdcaa;
+  --page-marker: #555;
+  --hr-color: #30363d;
+  --fn-color: #c586c0;
+  --strong-color: #e2e2e2;
   --bar-bg: #21262d;
   --bar-text: #d4d4d4;
   --bar-border: #444;
@@ -82,12 +85,11 @@ body.theme-dark {
   --toc-link: #aaa;
 }
 
-/* === MODE DALTONIEN JOUR === */
 body.theme-cb-light {
   --bg: #faf8f5;
   --bg-sidebar: #f3f0eb;
   --text: #2d2d2d;
-  --text-muted: #777;
+  --text-muted: #888;
   --h1-color: #0072B2;
   --h2-color: #E69F00;
   --h3-color: #CC79A7;
@@ -98,6 +100,11 @@ body.theme-cb-light {
   --border: #e0dcd6;
   --quote-bg: #f0eee9;
   --quote-border: #0072B2;
+  --em-color: #D55E00;
+  --page-marker: #b0a090;
+  --hr-color: #d0c8be;
+  --fn-color: #0072B2;
+  --strong-color: #2d2d2d;
   --bar-bg: #f5f5f5;
   --bar-text: #333;
   --bar-border: #ccc;
@@ -105,12 +112,11 @@ body.theme-cb-light {
   --toc-link: #555;
 }
 
-/* === MODE DALTONIEN NUIT === */
 body.theme-cb-dark {
   --bg: #0d1117;
   --bg-sidebar: #161b22;
   --text: #d4d4d4;
-  --text-muted: #888;
+  --text-muted: #666;
   --h1-color: #56B4E9;
   --h2-color: #E69F00;
   --h3-color: #CC79A7;
@@ -119,8 +125,13 @@ body.theme-cb-dark {
   --link-hover: #7cc8f0;
   --accent: #56B4E9;
   --border: #30363d;
-  --quote-bg: #161b22;
+  --quote-bg: #1c2028;
   --quote-border: #56B4E9;
+  --em-color: #F0E442;
+  --page-marker: #555;
+  --hr-color: #30363d;
+  --fn-color: #56B4E9;
+  --strong-color: #e2e2e2;
   --bar-bg: #21262d;
   --bar-text: #d4d4d4;
   --bar-border: #444;
@@ -128,25 +139,30 @@ body.theme-cb-dark {
   --toc-link: #aaa;
 }
 
-/* === APPLICATION DES VARIABLES === */
-body {
-  background-color: var(--bg) !important;
-  color: var(--text) !important;
-}
-.side-bar {
-  background-color: var(--bg-sidebar) !important;
-  border-right: 1px solid var(--border) !important;
-}
+/* === APPLICATION === */
+body { background-color: var(--bg) !important; color: var(--text) !important; }
+.side-bar { background-color: var(--bg-sidebar) !important; border-right: 1px solid var(--border) !important; }
 .side-bar, .side-bar * { color: var(--text) !important; }
 .site-title { color: var(--accent) !important; }
 .main-content { background-color: var(--bg) !important; }
-.main-content a { color: var(--link) !important; }
-.main-content a:hover { color: var(--link-hover) !important; }
+
+/* Titres colores */
 .main-content h1 { color: var(--h1-color) !important; }
 .main-content h2 { color: var(--h2-color) !important; }
 .main-content h3 { color: var(--h3-color) !important; }
 .main-content h4 { color: var(--h4-color) !important; }
 
+/* Liens */
+.main-content a { color: var(--link) !important; }
+.main-content a:hover { color: var(--link-hover) !important; }
+
+/* Italiques (termes philosophiques) */
+.main-content em { color: var(--em-color); }
+
+/* Gras */
+.main-content strong { color: var(--strong-color); }
+
+/* Citations */
 .main-content blockquote {
   background-color: var(--quote-bg) !important;
   border-left: 4px solid var(--quote-border) !important;
@@ -154,103 +170,106 @@ body {
   padding: 12px 16px;
 }
 
+/* Lignes horizontales */
+.main-content hr {
+  border: none;
+  border-top: 2px solid var(--hr-color);
+}
+
+/* Notes de bas de page */
+.main-content .footnote, .main-content sup a { color: var(--fn-color) !important; }
+
+/* Tableaux */
 .main-content table th {
   background-color: var(--bg-sidebar) !important;
   color: var(--text) !important;
   border-color: var(--border) !important;
 }
-.main-content table td {
-  color: var(--text) !important;
-  border-color: var(--border) !important;
-}
+.main-content table td { color: var(--text) !important; border-color: var(--border) !important; }
 
-.main-content code {
+/* Code */
+.main-content code { background-color: var(--bg-sidebar) !important; color: var(--text) !important; }
+
+/* Recherche — corriger le bloc blanc */
+.search, .search-input, .search-input-wrap, .search-results-wrap,
+.main-header, .aux-nav {
   background-color: var(--bg-sidebar) !important;
   color: var(--text) !important;
 }
+.search-input { border-color: var(--border) !important; }
+.search-overlay { background-color: var(--bg) !important; }
+.search-result { border-color: var(--border) !important; }
+.search-result-title { color: var(--link) !important; }
+.search-result-doc { color: var(--text-muted) !important; }
 
-.search-input {
-  background-color: var(--bg) !important;
-  color: var(--text) !important;
-  border-color: var(--border) !important;
-}
-
+/* Navigation */
 .navigation-list-link { color: var(--text) !important; }
 .navigation-list-link.active { color: var(--accent) !important; font-weight: 600; }
-
 .breadcrumb-nav, .breadcrumb-nav * { color: var(--text-muted) !important; }
 .breadcrumb-nav a { color: var(--link) !important; }
 
-/* Pied de page */
-.main-content-wrap + * { color: var(--text-muted) !important; }
-.main-content-wrap + * a { color: var(--link) !important; }
+/* Pied de page principal */
+.main-content-wrap + *, footer { color: var(--text-muted) !important; background-color: var(--bg) !important; }
+.main-content-wrap + * a, footer a { color: var(--link) !important; }
 
 /* Cacher le footer de la sidebar */
 .site-footer.d-md-block { display: none !important; }
 
-/* === PANNEAU PLAN === */
-#toc-overlay {
-  display: none;
-  position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-  background: rgba(0,0,0,0.4); z-index: 10000;
-}
-#toc-overlay.open { display: block; }
+/* Tout le reste du body */
+#main-content-wrap, .page-content { background-color: var(--bg) !important; }
 
-#toc-panel {
-  position: fixed; top: 0; right: -400px;
-  width: 380px; max-width: 85vw; height: 100%;
-  background: var(--panel-bg); z-index: 10001;
-  overflow-y: auto; padding: 24px 20px;
-  box-shadow: -4px 0 20px rgba(0,0,0,0.15);
-  transition: right 0.25s ease;
-  font-size: 0.88rem; line-height: 1.5;
-}
+/* === PANNEAU PLAN === */
+#toc-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.4); z-index: 10000; }
+#toc-overlay.open { display: block; }
+#toc-panel { position: fixed; top: 0; right: -400px; width: 380px; max-width: 85vw; height: 100%; background: var(--panel-bg); z-index: 10001; overflow-y: auto; padding: 24px 20px; box-shadow: -4px 0 20px rgba(0,0,0,0.15); transition: right 0.25s ease; font-size: 0.88rem; line-height: 1.5; color: var(--text); }
 #toc-panel.open { right: 0; }
-#toc-panel .toc-panel-title {
-  font-weight: 700; font-size: 1rem;
-  color: var(--accent); margin-bottom: 16px;
-  padding-bottom: 8px; border-bottom: 2px solid var(--accent);
-}
+#toc-panel .toc-panel-title { font-weight: 700; font-size: 1rem; color: var(--accent); margin-bottom: 16px; padding-bottom: 8px; border-bottom: 2px solid var(--accent); }
 #toc-panel ul { list-style: none; padding-left: 0; margin: 0; }
 #toc-panel ul ul { padding-left: 16px; margin-top: 2px; }
 #toc-panel li { margin-bottom: 4px; }
-#toc-panel a { color: var(--toc-link); text-decoration: none; display: block; padding: 2px 0; }
-#toc-panel a:hover { color: var(--accent); }
-#toc-panel .toc-close {
-  position: absolute; top: 16px; right: 16px;
-  background: none; border: none; font-size: 1.4rem;
-  cursor: pointer; color: var(--text-muted); padding: 4px 8px;
-}
+#toc-panel a { color: var(--toc-link) !important; text-decoration: none; display: block; padding: 2px 0; }
+#toc-panel a:hover { color: var(--accent) !important; }
+#toc-panel .toc-close { position: absolute; top: 16px; right: 16px; background: none; border: none; font-size: 1.4rem; cursor: pointer; color: var(--text-muted); padding: 4px 8px; }
 #toc-panel .toc-close:hover { color: var(--text); }
 
-/* === BARRE ACCESSIBILITE === */
-#accessibility-bar {
-  position: fixed; bottom: 12px; right: 12px;
-  z-index: 9999; display: flex; gap: 6px; font-size: 13px;
+/* === PANNEAU REGLAGES === */
+#settings-btn {
+  position: fixed; bottom: 12px; right: 12px; z-index: 9999;
+  border: 1px solid var(--bar-border); border-radius: 4px;
+  padding: 6px 14px; cursor: pointer; font-size: 13px;
+  background: var(--accent); color: #fff; font-weight: 600;
+  font-family: sans-serif !important;
 }
-#accessibility-bar select,
-#accessibility-bar button {
-  border: 1px solid var(--bar-border);
-  border-radius: 4px; padding: 4px 10px;
-  cursor: pointer; font-size: 13px;
+#settings-btn:hover { opacity: 0.85; }
+
+#settings-panel {
+  display: none; position: fixed; bottom: 48px; right: 12px;
+  z-index: 9998; background: var(--panel-bg); color: var(--text);
+  border: 1px solid var(--border); border-radius: 8px;
+  padding: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+  font-size: 13px; font-family: sans-serif !important;
+  min-width: 200px;
+}
+#settings-panel.open { display: block; }
+#settings-panel label {
+  display: block; margin-bottom: 4px; font-weight: 600;
+  color: var(--text-muted); font-size: 11px; text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+#settings-panel select, #settings-panel button {
+  width: 100%; margin-bottom: 12px;
+  border: 1px solid var(--bar-border); border-radius: 4px;
+  padding: 5px 8px; cursor: pointer; font-size: 13px;
   background: var(--bar-bg); color: var(--bar-text);
   font-family: sans-serif !important;
 }
-#accessibility-bar button#toc-toggle {
-  background: var(--accent); color: #fff;
-  border-color: var(--accent); font-weight: 600;
-}
-#accessibility-bar button#toc-toggle:hover { opacity: 0.85; }
+#settings-panel button { background: var(--accent); color: #fff; font-weight: 600; border-color: var(--accent); }
+#settings-panel button:hover { opacity: 0.85; }
+#settings-panel .settings-divider { border-top: 1px solid var(--border); margin: 8px 0 12px; }
 
 /* === SECTIONS PLIABLES === */
-.collapsible-heading {
-  cursor: pointer; user-select: none;
-  position: relative; padding-left: 1.2em;
-}
-.collapsible-heading::before {
-  content: '\25B8'; position: absolute; left: 0;
-  transition: transform 0.2s;
-}
+.collapsible-heading { cursor: pointer; user-select: none; position: relative; padding-left: 1.2em; }
+.collapsible-heading::before { content: '\25B8'; position: absolute; left: 0; transition: transform 0.2s; }
 .collapsible-heading.open::before { transform: rotate(90deg); }
 .collapsible-content.collapsed { display: none; }
 </style>
@@ -259,11 +278,11 @@ body {
 document.addEventListener('DOMContentLoaded', function() {
 
   /* --- Cacher "Table of contents" auto --- */
-  var headings2 = document.querySelectorAll('.main-content h2');
-  for (var t = 0; t < headings2.length; t++) {
-    if (headings2[t].textContent.trim() === 'Table of contents') {
-      var nxt = headings2[t].nextElementSibling;
-      headings2[t].style.display = 'none';
+  var h2s = document.querySelectorAll('.main-content h2');
+  for (var t = 0; t < h2s.length; t++) {
+    if (h2s[t].textContent.trim() === 'Table of contents') {
+      var nxt = h2s[t].nextElementSibling;
+      h2s[t].style.display = 'none';
       if (nxt && nxt.tagName === 'UL') { nxt.style.display = 'none'; }
     }
   }
@@ -274,125 +293,120 @@ document.addEventListener('DOMContentLoaded', function() {
   var hasToc = false;
 
   if (content) {
-    var pageHeadings = content.querySelectorAll('h1, h2, h3, h4');
-    if (pageHeadings.length >= 4) {
+    var pageH = content.querySelectorAll('h1, h2, h3, h4');
+    if (pageH.length >= 4) {
       hasToc = true;
-
       var overlay = document.createElement('div');
       overlay.id = 'toc-overlay';
       document.body.appendChild(overlay);
 
       var panel = document.createElement('div');
       panel.id = 'toc-panel';
-
       var closeBtn = document.createElement('button');
       closeBtn.className = 'toc-close';
       closeBtn.innerHTML = '&times;';
       panel.appendChild(closeBtn);
-
-      var panelTitle = document.createElement('div');
-      panelTitle.className = 'toc-panel-title';
-      panelTitle.textContent = 'Plan';
-      panel.appendChild(panelTitle);
+      var pTitle = document.createElement('div');
+      pTitle.className = 'toc-panel-title';
+      pTitle.textContent = 'Plan';
+      panel.appendChild(pTitle);
 
       var tocList = document.createElement('ul');
       var stack = [tocList];
-      var lastLevel = 1;
-
-      for (var p = 0; p < pageHeadings.length; p++) {
-        var hd = pageHeadings[p];
-        var lvl = parseInt(hd.tagName.charAt(1), 10);
-        var text = hd.textContent.trim();
-        if (!text) { continue; }
+      var lastLvl = 1;
+      for (var p = 0; p < pageH.length; p++) {
+        var hd = pageH[p];
+        var lv = parseInt(hd.tagName.charAt(1), 10);
+        var tx = hd.textContent.trim();
+        if (!tx) { continue; }
         if (!hd.id) { hd.id = 'heading-' + p; }
-
         var li = document.createElement('li');
         var a = document.createElement('a');
         a.href = '#' + hd.id;
-        a.textContent = text;
-        a.addEventListener('click', function() {
-          panel.classList.remove('open');
-          overlay.classList.remove('open');
-        });
-
-        if (lvl > lastLevel) {
+        a.textContent = tx;
+        a.addEventListener('click', function() { closeToc(); });
+        if (lv > lastLvl) {
           var sub = document.createElement('ul');
-          if (stack[stack.length - 1].lastChild) {
-            stack[stack.length - 1].lastChild.appendChild(sub);
-          }
+          if (stack[stack.length-1].lastChild) { stack[stack.length-1].lastChild.appendChild(sub); }
           stack.push(sub);
-        } else if (lvl < lastLevel) {
-          var diff = lastLevel - lvl;
-          for (var d = 0; d < diff; d++) {
-            if (stack.length > 1) { stack.pop(); }
-          }
+        } else if (lv < lastLvl) {
+          for (var d = 0; d < lastLvl - lv; d++) { if (stack.length > 1) stack.pop(); }
         }
-
         li.appendChild(a);
-        stack[stack.length - 1].appendChild(li);
-        lastLevel = lvl;
+        stack[stack.length-1].appendChild(li);
+        lastLvl = lv;
       }
-
       panel.appendChild(tocList);
       document.body.appendChild(panel);
 
-      function closeToc() {
-        panel.classList.remove('open');
-        overlay.classList.remove('open');
-      }
+      function closeToc() { panel.classList.remove('open'); overlay.classList.remove('open'); }
       overlay.addEventListener('click', closeToc);
       closeBtn.addEventListener('click', closeToc);
     }
   }
 
-  /* --- Barre accessibilite --- */
-  var bar = document.createElement('div');
-  bar.id = 'accessibility-bar';
-  var barHtml = '';
-  if (hasToc) { barHtml += '<button id="toc-toggle">Plan</button>'; }
-  barHtml += '<select id="theme-select" title="Affichage"><option value="light">Clair</option><option value="dark">Sombre</option><option value="cb-light">Daltonien jour</option><option value="cb-dark">Daltonien nuit</option></select>';
-  barHtml += '<select id="font-select" title="Police"><option value="default">Libertinus Serif</option><option value="hyperlegible">Atkinson Hyperlegible</option><option value="opendyslexic">OpenDyslexic</option></select>';
-  bar.innerHTML = barHtml;
-  document.body.appendChild(bar);
+  /* --- Bouton et panneau Reglages --- */
+  var settingsBtn = document.createElement('button');
+  settingsBtn.id = 'settings-btn';
+  settingsBtn.textContent = 'R\u00e9glages';
+  document.body.appendChild(settingsBtn);
 
-  /* Bouton Plan */
+  var sp = document.createElement('div');
+  sp.id = 'settings-panel';
+  var spHtml = '';
   if (hasToc) {
-    document.getElementById('toc-toggle').addEventListener('click', function() {
-      document.getElementById('toc-panel').classList.toggle('open');
-      document.getElementById('toc-overlay').classList.toggle('open');
+    spHtml += '<button id="toc-open-btn">Plan du texte</button>';
+    spHtml += '<button id="toggle-all-btn">Tout replier</button>';
+    spHtml += '<div class="settings-divider"></div>';
+  }
+  spHtml += '<label>Affichage</label>';
+  spHtml += '<select id="theme-select"><option value="light">Clair</option><option value="dark">Sombre</option><option value="cb-light">Daltonien jour</option><option value="cb-dark">Daltonien nuit</option></select>';
+  spHtml += '<label>Police</label>';
+  spHtml += '<select id="font-select"><option value="default">Libertinus Serif</option><option value="hyperlegible">Atkinson Hyperlegible</option><option value="opendyslexic">OpenDyslexic</option></select>';
+  sp.innerHTML = spHtml;
+  document.body.appendChild(sp);
+
+  settingsBtn.addEventListener('click', function(e) {
+    e.stopPropagation();
+    sp.classList.toggle('open');
+  });
+  document.addEventListener('click', function(e) {
+    if (!sp.contains(e.target) && e.target !== settingsBtn) { sp.classList.remove('open'); }
+  });
+
+  /* Plan depuis reglages */
+  if (hasToc) {
+    document.getElementById('toc-open-btn').addEventListener('click', function() {
+      sp.classList.remove('open');
+      document.getElementById('toc-panel').classList.add('open');
+      document.getElementById('toc-overlay').classList.add('open');
     });
   }
 
-  /* Selecteur de theme */
+  /* Theme */
   var themeSelect = document.getElementById('theme-select');
   var savedTheme = localStorage.getItem('themeChoice') || 'light';
   themeSelect.value = savedTheme;
-
   function applyTheme(t) {
     document.body.classList.remove('theme-dark', 'theme-cb-light', 'theme-cb-dark');
-    if (t === 'dark') { document.body.classList.add('theme-dark'); }
-    if (t === 'cb-light') { document.body.classList.add('theme-cb-light'); }
-    if (t === 'cb-dark') { document.body.classList.add('theme-cb-dark'); }
+    if (t !== 'light') { document.body.classList.add('theme-' + t); }
   }
   applyTheme(savedTheme);
-
   themeSelect.addEventListener('change', function() {
     localStorage.setItem('themeChoice', this.value);
     applyTheme(this.value);
   });
 
-  /* Selecteur de police */
+  /* Police */
   var fontSelect = document.getElementById('font-select');
   var savedFont = localStorage.getItem('fontChoice') || 'default';
   fontSelect.value = savedFont;
-
   function applyFont(f) {
     document.body.classList.remove('font-hyperlegible', 'font-opendyslexic');
     if (f === 'hyperlegible') { document.body.classList.add('font-hyperlegible'); }
     if (f === 'opendyslexic') { document.body.classList.add('font-opendyslexic'); }
   }
   applyFont(savedFont);
-
   fontSelect.addEventListener('change', function() {
     localStorage.setItem('fontChoice', this.value);
     applyFont(this.value);
@@ -402,61 +416,49 @@ document.addEventListener('DOMContentLoaded', function() {
   if (content) {
     var allH = content.querySelectorAll('h1, h2, h3, h4');
     if (allH.length >= 4) {
-      var i, hh, lv, wr, sib, nxs, slv;
-
-      for (i = 0; i < allH.length; i++) {
-        hh = allH[i];
+      for (var i = 0; i < allH.length; i++) {
+        var hh = allH[i];
         hh.classList.add('collapsible-heading', 'open');
-        lv = parseInt(hh.tagName.charAt(1), 10);
-        wr = document.createElement('div');
+        var lv = parseInt(hh.tagName.charAt(1), 10);
+        var wr = document.createElement('div');
         wr.className = 'collapsible-content';
-        sib = hh.nextElementSibling;
-
+        var sib = hh.nextElementSibling;
         while (sib) {
           if (sib.tagName && /^H[1-6]$/.test(sib.tagName)) {
-            slv = parseInt(sib.tagName.charAt(1), 10);
-            if (slv <= lv) { break; }
+            if (parseInt(sib.tagName.charAt(1), 10) <= lv) { break; }
           }
-          nxs = sib.nextElementSibling;
+          var nxs = sib.nextElementSibling;
           wr.appendChild(sib);
           sib = nxs;
         }
-
-        if (wr.children.length > 0) {
-          hh.parentNode.insertBefore(wr, hh.nextSibling);
-        }
-
+        if (wr.children.length > 0) { hh.parentNode.insertBefore(wr, hh.nextSibling); }
         hh.addEventListener('click', function() {
           this.classList.toggle('open');
           var c = this.nextElementSibling;
-          if (c && c.classList.contains('collapsible-content')) {
-            c.classList.toggle('collapsed');
-          }
+          if (c && c.classList.contains('collapsible-content')) { c.classList.toggle('collapsed'); }
         });
       }
 
-      /* Bouton tout plier / deplier */
-      var toggleAllBtn = document.createElement('button');
-      toggleAllBtn.id = 'toggle-all';
-      toggleAllBtn.textContent = 'Tout replier';
-      bar.insertBefore(toggleAllBtn, document.getElementById('theme-select'));
-
+      /* Tout plier/deplier */
       var allOpen = true;
-      toggleAllBtn.addEventListener('click', function() {
-        var secs = content.querySelectorAll('.collapsible-content');
-        var hds = content.querySelectorAll('.collapsible-heading');
-        if (allOpen) {
-          for (var j = 0; j < secs.length; j++) { secs[j].classList.add('collapsed'); }
-          for (var k = 0; k < hds.length; k++) { hds[k].classList.remove('open'); }
-          toggleAllBtn.textContent = 'Tout d\u00e9plier';
-          allOpen = false;
-        } else {
-          for (var j = 0; j < secs.length; j++) { secs[j].classList.remove('collapsed'); }
-          for (var k = 0; k < hds.length; k++) { hds[k].classList.add('open'); }
-          toggleAllBtn.textContent = 'Tout replier';
-          allOpen = true;
-        }
-      });
+      var togBtn = document.getElementById('toggle-all-btn');
+      if (togBtn) {
+        togBtn.addEventListener('click', function() {
+          var secs = content.querySelectorAll('.collapsible-content');
+          var hds = content.querySelectorAll('.collapsible-heading');
+          if (allOpen) {
+            for (var j = 0; j < secs.length; j++) { secs[j].classList.add('collapsed'); }
+            for (var k = 0; k < hds.length; k++) { hds[k].classList.remove('open'); }
+            togBtn.textContent = 'Tout d\u00e9plier';
+            allOpen = false;
+          } else {
+            for (var j = 0; j < secs.length; j++) { secs[j].classList.remove('collapsed'); }
+            for (var k = 0; k < hds.length; k++) { hds[k].classList.add('open'); }
+            togBtn.textContent = 'Tout replier';
+            allOpen = true;
+          }
+        });
+      }
     }
   }
 });
