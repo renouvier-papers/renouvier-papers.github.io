@@ -9,12 +9,6 @@ nav_order: 1
 >
 > Source principale : Google Books. Voir aussi : [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k75222g).
 
-## Sommaire
-{:.no_toc}
-
-* TOC
-{:toc}
-
 ---
 
 # Avant-propos
