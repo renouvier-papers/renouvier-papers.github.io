@@ -31,7 +31,8 @@ has_children: true
 | *Les Dilemmes de la métaphysique pure* | 1901 | [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k5525376g) | À faire |
 | *Histoire et solution des problèmes métaphysiques* | 1901 | [Internet Archive](https://archive.org/details/histoireetsolut00renogoog) | À faire |
 | *Le Personnalisme* | 1903 | [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k5529985r) | À faire |
-| *Les Derniers Entretiens* (posth., rec. par L. Prat) | 1930 | [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k86306978) | À faire |
+| *Critique de la doctrine de Kant* (posth., éd. L. Prat) | 1906 | [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k83945s) | À faire |
+| *Les Derniers Entretiens* (posth., éd. L. Prat) | 1930 | [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k86306978) | À faire |
 
 ## Transcriptions existantes ailleurs
 
