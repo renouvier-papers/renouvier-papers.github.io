@@ -37,3 +37,10 @@ Renouvier a profondément marqué la pensée française de la seconde moitié du
 - **Annotations et traductions** (le cas échéant) : tous droits réservés, sauf mention contraire.
 
 Consulter la [licence complète](licence).
+
+## À propos
+ 
+Projet créé et maintenu par Arthur Saunier, doctorant en philosophie des sciences, Université Paul-Valéry Montpellier 3, CRISES.
+ 
+Pour toute question ou suggestion, consulter ma [page institutionnelle](https://crises.www.univ-montp3.fr/fr/user/72589).
+ 
