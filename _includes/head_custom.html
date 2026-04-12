@@ -21,7 +21,7 @@
   font-style: italic;
 }
 
-/* Police par defaut : EB Garamond */
+/* Police par defaut */
 body {
   font-family: 'EB Garamond', serif !important;
   font-size: 1.15rem;
@@ -57,6 +57,13 @@ body.font-opendyslexic * {
 }
 body.font-opendyslexic {
   font-size: 1rem;
+}
+
+/* Cacher la liste auto des pages enfants */
+.main-content .child-pages,
+.main-content > ul:last-child > li > a[href*="premier-essai"],
+nav.list-style-none {
+  display: none;
 }
 
 /* Barre accessibilite */
@@ -105,7 +112,19 @@ body.font-opendyslexic {
 <script>
 document.addEventListener('DOMContentLoaded', function() {
 
-  /* --- Barre accessibilite --- */
+  /* --- Cacher "Table of contents" auto --- */
+  var tocs = document.querySelectorAll('.main-content h2');
+  for (var t = 0; t < tocs.length; t++) {
+    if (tocs[t].textContent.trim() === 'Table of contents') {
+      var tocNext = tocs[t].nextElementSibling;
+      tocs[t].style.display = 'none';
+      if (tocNext && tocNext.tagName === 'UL') {
+        tocNext.style.display = 'none';
+      }
+    }
+  }
+
+  /* --- Selecteur de police --- */
   var bar = document.createElement('div');
   bar.id = 'accessibility-bar';
   bar.innerHTML = '<select id="font-select" title="Police"><option value="default">EB Garamond (serif)</option><option value="sans">Inter (sans-serif)</option><option value="hyperlegible">Atkinson Hyperlegible (malvoyants)</option><option value="opendyslexic">OpenDyslexic (dyslexie)</option></select>';
