@@ -1,5 +1,5 @@
 {% raw %}
-<link href="https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Solway:wght@400;500;700;800&family=Space+Grotesk:wght@400;500;600;700&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 
 <style>
 @font-face {
@@ -18,39 +18,48 @@
   font-weight: normal; font-style: italic;
 }
 
-/* === POLICE === */
+/* === POLICES === */
 body {
-  font-family: 'Libertinus Serif', serif !important;
-  font-size: 1.1rem;
-  line-height: 1.7;
+  font-family: 'Solway', serif !important;
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+.main-content h1, .main-content h2, .main-content h3, .main-content h4 {
+  font-family: 'Space Grotesk', sans-serif !important;
+  font-weight: 600;
+  letter-spacing: -0.01em;
 }
 .side-bar, .side-bar * { font-size: 0.85rem; }
+
 body.font-hyperlegible, body.font-hyperlegible * { font-family: 'Atkinson Hyperlegible', sans-serif !important; }
 body.font-hyperlegible { font-size: 1.05rem; }
 body.font-opendyslexic, body.font-opendyslexic * { font-family: 'OpenDyslexic', sans-serif !important; }
 body.font-opendyslexic { font-size: 1rem; }
 
-/* === VARIABLES DE THEME === */
+/* === VARIABLES === */
 body {
   --bg: #faf8f5;
-  --bg-sidebar: #f3f0eb;
+  --bg-sidebar: #f0ece6;
   --text: #2d2d2d;
   --text-muted: #888;
-  --h1-color: #5b3e96;
-  --h2-color: #2a7a6f;
-  --h3-color: #b5651d;
-  --h4-color: #3a5ea6;
+  --h1-color: #6d3cba;
+  --h2-color: #1a8a7d;
+  --h3-color: #c06820;
+  --h4-color: #2e6bc4;
   --link: #7253ed;
-  --link-hover: #5a3fd6;
+  --link-hover: #4a2ec0;
   --accent: #7253ed;
-  --border: #e0dcd6;
-  --quote-bg: #f0eee9;
+  --border: #ddd6cc;
+  --quote-bg: #eeeae4;
   --quote-border: #7253ed;
-  --em-color: #8b5e3c;
-  --page-marker: #b0a090;
+  --em-color: #9c5b30;
+  --page-marker-color: #a08870;
+  --page-marker-bg: #ede8e0;
   --hr-color: #d0c8be;
   --fn-color: #7253ed;
   --strong-color: #3d2f5c;
+  --hover-bg: #e8e0f8;
+  --hover-text: #4a2ec0;
   --bar-bg: #f5f5f5;
   --bar-text: #333;
   --bar-border: #ccc;
@@ -60,51 +69,57 @@ body {
 
 body.theme-dark {
   --bg: #0d1117;
-  --bg-sidebar: #161b22;
+  --bg-sidebar: #151a22;
   --text: #d4d4d4;
   --text-muted: #666;
-  --h1-color: #c586c0;
-  --h2-color: #4ec9b0;
-  --h3-color: #ce9178;
-  --h4-color: #569cd6;
-  --link: #6db3f2;
-  --link-hover: #8cc5ff;
-  --accent: #c586c0;
-  --border: #30363d;
-  --quote-bg: #1c2028;
-  --quote-border: #c586c0;
-  --em-color: #dcdcaa;
-  --page-marker: #555;
-  --hr-color: #30363d;
-  --fn-color: #c586c0;
-  --strong-color: #e2e2e2;
-  --bar-bg: #21262d;
+  --h1-color: #d19cf5;
+  --h2-color: #5be8d5;
+  --h3-color: #f0a060;
+  --h4-color: #70b0f0;
+  --link: #80a0ff;
+  --link-hover: #b0c8ff;
+  --accent: #d19cf5;
+  --border: #2a3040;
+  --quote-bg: #181e28;
+  --quote-border: #d19cf5;
+  --em-color: #e8d080;
+  --page-marker-color: #606878;
+  --page-marker-bg: #1a2030;
+  --hr-color: #2a3040;
+  --fn-color: #d19cf5;
+  --strong-color: #f0f0f0;
+  --hover-bg: #1e2538;
+  --hover-text: #d19cf5;
+  --bar-bg: #1a2030;
   --bar-text: #d4d4d4;
-  --bar-border: #444;
-  --panel-bg: #161b22;
+  --bar-border: #3a4050;
+  --panel-bg: #151a22;
   --toc-link: #aaa;
 }
 
 body.theme-cb-light {
   --bg: #faf8f5;
-  --bg-sidebar: #f3f0eb;
+  --bg-sidebar: #f0ece6;
   --text: #2d2d2d;
   --text-muted: #888;
   --h1-color: #0072B2;
   --h2-color: #E69F00;
   --h3-color: #CC79A7;
-  --h4-color: #56B4E9;
+  --h4-color: #009E73;
   --link: #0072B2;
-  --link-hover: #005080;
+  --link-hover: #004a75;
   --accent: #0072B2;
-  --border: #e0dcd6;
-  --quote-bg: #f0eee9;
+  --border: #ddd6cc;
+  --quote-bg: #eeeae4;
   --quote-border: #0072B2;
   --em-color: #D55E00;
-  --page-marker: #b0a090;
+  --page-marker-color: #a08870;
+  --page-marker-bg: #ede8e0;
   --hr-color: #d0c8be;
   --fn-color: #0072B2;
   --strong-color: #2d2d2d;
+  --hover-bg: #d8eef8;
+  --hover-text: #0072B2;
   --bar-bg: #f5f5f5;
   --bar-text: #333;
   --bar-border: #ccc;
@@ -114,7 +129,7 @@ body.theme-cb-light {
 
 body.theme-cb-dark {
   --bg: #0d1117;
-  --bg-sidebar: #161b22;
+  --bg-sidebar: #151a22;
   --text: #d4d4d4;
   --text-muted: #666;
   --h1-color: #56B4E9;
@@ -124,98 +139,82 @@ body.theme-cb-dark {
   --link: #56B4E9;
   --link-hover: #7cc8f0;
   --accent: #56B4E9;
-  --border: #30363d;
-  --quote-bg: #1c2028;
+  --border: #2a3040;
+  --quote-bg: #181e28;
   --quote-border: #56B4E9;
   --em-color: #F0E442;
-  --page-marker: #555;
-  --hr-color: #30363d;
+  --page-marker-color: #606878;
+  --page-marker-bg: #1a2030;
+  --hr-color: #2a3040;
   --fn-color: #56B4E9;
   --strong-color: #e2e2e2;
-  --bar-bg: #21262d;
+  --hover-bg: #1a2538;
+  --hover-text: #56B4E9;
+  --bar-bg: #1a2030;
   --bar-text: #d4d4d4;
-  --bar-border: #444;
-  --panel-bg: #161b22;
+  --bar-border: #3a4050;
+  --panel-bg: #151a22;
   --toc-link: #aaa;
 }
 
 /* === APPLICATION === */
 body { background-color: var(--bg) !important; color: var(--text) !important; }
+
+/* Sidebar */
 .side-bar { background-color: var(--bg-sidebar) !important; border-right: 1px solid var(--border) !important; }
 .side-bar, .side-bar * { color: var(--text) !important; }
-.site-title { color: var(--accent) !important; }
-.main-content { background-color: var(--bg) !important; }
+.site-title { color: var(--accent) !important; font-family: 'Space Grotesk', sans-serif !important; font-weight: 700 !important; }
+.navigation-list-link { color: var(--text) !important; border-radius: 4px; transition: background 0.15s, color 0.15s; padding: 2px 6px; }
+.navigation-list-link:hover { background: var(--hover-bg) !important; color: var(--hover-text) !important; }
+.navigation-list-link.active { color: var(--accent) !important; font-weight: 600; background: var(--hover-bg) !important; }
 
-/* Titres colores */
-.main-content h1 { color: var(--h1-color) !important; }
+/* Contenu */
+.main-content { background-color: var(--bg) !important; }
+.main-content h1 { color: var(--h1-color) !important; border-bottom: 2px solid var(--h1-color); padding-bottom: 6px; }
 .main-content h2 { color: var(--h2-color) !important; }
 .main-content h3 { color: var(--h3-color) !important; }
 .main-content h4 { color: var(--h4-color) !important; }
-
-/* Liens */
-.main-content a { color: var(--link) !important; }
+.main-content a { color: var(--link) !important; transition: color 0.15s; }
 .main-content a:hover { color: var(--link-hover) !important; }
-
-/* Italiques (termes philosophiques) */
 .main-content em { color: var(--em-color); }
-
-/* Gras */
 .main-content strong { color: var(--strong-color); }
-
-/* Citations */
-.main-content blockquote {
-  background-color: var(--quote-bg) !important;
-  border-left: 4px solid var(--quote-border) !important;
-  color: var(--text) !important;
-  padding: 12px 16px;
-}
-
-/* Lignes horizontales */
-.main-content hr {
-  border: none;
-  border-top: 2px solid var(--hr-color);
-}
-
-/* Notes de bas de page */
+.main-content blockquote { background-color: var(--quote-bg) !important; border-left: 4px solid var(--quote-border) !important; color: var(--text) !important; padding: 12px 16px; border-radius: 0 4px 4px 0; }
+.main-content hr { border: none; border-top: 2px solid var(--hr-color); }
 .main-content .footnote, .main-content sup a { color: var(--fn-color) !important; }
-
-/* Tableaux */
-.main-content table th {
-  background-color: var(--bg-sidebar) !important;
-  color: var(--text) !important;
-  border-color: var(--border) !important;
-}
+.main-content table th { background-color: var(--bg-sidebar) !important; color: var(--text) !important; border-color: var(--border) !important; }
 .main-content table td { color: var(--text) !important; border-color: var(--border) !important; }
-
-/* Code */
 .main-content code { background-color: var(--bg-sidebar) !important; color: var(--text) !important; }
 
-/* Recherche — corriger le bloc blanc */
+/* Marqueurs de page [p. XX] */
+.page-marker {
+  color: var(--page-marker-color);
+  background: var(--page-marker-bg);
+  font-family: 'Space Grotesk', sans-serif !important;
+  font-size: 0.75em;
+  font-weight: 600;
+  padding: 1px 5px;
+  border-radius: 3px;
+  vertical-align: middle;
+  margin: 0 1px;
+  letter-spacing: 0.02em;
+}
+
+/* Recherche et header */
 .search, .search-input, .search-input-wrap, .search-results-wrap,
-.main-header, .aux-nav {
-  background-color: var(--bg-sidebar) !important;
+.main-header, .aux-nav, .search-overlay {
+  background-color: transparent !important;
   color: var(--text) !important;
 }
-.search-input { border-color: var(--border) !important; }
-.search-overlay { background-color: var(--bg) !important; }
-.search-result { border-color: var(--border) !important; }
-.search-result-title { color: var(--link) !important; }
-.search-result-doc { color: var(--text-muted) !important; }
+.search-input { border-color: var(--border) !important; background-color: var(--bg) !important; color: var(--text) !important; }
 
-/* Navigation */
-.navigation-list-link { color: var(--text) !important; }
-.navigation-list-link.active { color: var(--accent) !important; font-weight: 600; }
+/* Breadcrumbs */
 .breadcrumb-nav, .breadcrumb-nav * { color: var(--text-muted) !important; }
 .breadcrumb-nav a { color: var(--link) !important; }
 
-/* Pied de page principal */
+/* Footer */
 .main-content-wrap + *, footer { color: var(--text-muted) !important; background-color: var(--bg) !important; }
 .main-content-wrap + * a, footer a { color: var(--link) !important; }
-
-/* Cacher le footer de la sidebar */
 .site-footer.d-md-block { display: none !important; }
-
-/* Tout le reste du body */
 #main-content-wrap, .page-content { background-color: var(--bg) !important; }
 
 /* === PANNEAU PLAN === */
@@ -223,52 +222,33 @@ body { background-color: var(--bg) !important; color: var(--text) !important; }
 #toc-overlay.open { display: block; }
 #toc-panel { position: fixed; top: 0; right: -400px; width: 380px; max-width: 85vw; height: 100%; background: var(--panel-bg); z-index: 10001; overflow-y: auto; padding: 24px 20px; box-shadow: -4px 0 20px rgba(0,0,0,0.15); transition: right 0.25s ease; font-size: 0.88rem; line-height: 1.5; color: var(--text); }
 #toc-panel.open { right: 0; }
-#toc-panel .toc-panel-title { font-weight: 700; font-size: 1rem; color: var(--accent); margin-bottom: 16px; padding-bottom: 8px; border-bottom: 2px solid var(--accent); }
+#toc-panel .toc-panel-title { font-family: 'Space Grotesk', sans-serif !important; font-weight: 700; font-size: 1rem; color: var(--accent); margin-bottom: 16px; padding-bottom: 8px; border-bottom: 2px solid var(--accent); }
 #toc-panel ul { list-style: none; padding-left: 0; margin: 0; }
 #toc-panel ul ul { padding-left: 16px; margin-top: 2px; }
 #toc-panel li { margin-bottom: 4px; }
-#toc-panel a { color: var(--toc-link) !important; text-decoration: none; display: block; padding: 2px 0; }
-#toc-panel a:hover { color: var(--accent) !important; }
+#toc-panel a { color: var(--toc-link) !important; text-decoration: none; display: block; padding: 3px 6px; border-radius: 3px; transition: background 0.15s, color 0.15s; }
+#toc-panel a:hover { color: var(--hover-text) !important; background: var(--hover-bg); }
 #toc-panel .toc-close { position: absolute; top: 16px; right: 16px; background: none; border: none; font-size: 1.4rem; cursor: pointer; color: var(--text-muted); padding: 4px 8px; }
 #toc-panel .toc-close:hover { color: var(--text); }
 
 /* === PANNEAU REGLAGES === */
-#settings-btn {
-  position: fixed; bottom: 12px; right: 12px; z-index: 9999;
-  border: 1px solid var(--bar-border); border-radius: 4px;
-  padding: 6px 14px; cursor: pointer; font-size: 13px;
-  background: var(--accent); color: #fff; font-weight: 600;
-  font-family: sans-serif !important;
-}
-#settings-btn:hover { opacity: 0.85; }
-
-#settings-panel {
-  display: none; position: fixed; bottom: 48px; right: 12px;
-  z-index: 9998; background: var(--panel-bg); color: var(--text);
-  border: 1px solid var(--border); border-radius: 8px;
-  padding: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);
-  font-size: 13px; font-family: sans-serif !important;
-  min-width: 200px;
-}
+#settings-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 9997; }
+#settings-overlay.open { display: block; }
+#settings-panel { display: none; position: fixed; bottom: 52px; right: 12px; z-index: 9998; background: var(--panel-bg); color: var(--text); border: 1px solid var(--border); border-radius: 8px; padding: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.12); font-size: 13px; font-family: 'Space Grotesk', sans-serif !important; min-width: 220px; }
 #settings-panel.open { display: block; }
-#settings-panel label {
-  display: block; margin-bottom: 4px; font-weight: 600;
-  color: var(--text-muted); font-size: 11px; text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-#settings-panel select, #settings-panel button {
-  width: 100%; margin-bottom: 12px;
-  border: 1px solid var(--bar-border); border-radius: 4px;
-  padding: 5px 8px; cursor: pointer; font-size: 13px;
-  background: var(--bar-bg); color: var(--bar-text);
-  font-family: sans-serif !important;
-}
-#settings-panel button { background: var(--accent); color: #fff; font-weight: 600; border-color: var(--accent); }
-#settings-panel button:hover { opacity: 0.85; }
-#settings-panel .settings-divider { border-top: 1px solid var(--border); margin: 8px 0 12px; }
+#settings-panel label { display: block; margin-bottom: 4px; font-weight: 600; color: var(--text-muted); font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; }
+#settings-panel select { width: 100%; margin-bottom: 14px; border: 1px solid var(--bar-border); border-radius: 4px; padding: 6px 8px; cursor: pointer; font-size: 13px; background: var(--bar-bg); color: var(--bar-text); font-family: 'Space Grotesk', sans-serif !important; }
+
+/* === BOUTONS FIXES === */
+#toolbar { position: fixed; bottom: 12px; right: 12px; z-index: 9999; display: flex; gap: 6px; font-family: 'Space Grotesk', sans-serif !important; }
+#toolbar button { border: 1px solid var(--bar-border); border-radius: 4px; padding: 6px 12px; cursor: pointer; font-size: 12px; font-weight: 600; font-family: 'Space Grotesk', sans-serif !important; transition: opacity 0.15s; }
+#toolbar button:hover { opacity: 0.8; }
+#toolbar .btn-accent { background: var(--accent); color: #fff; border-color: var(--accent); }
+#toolbar .btn-neutral { background: var(--bar-bg); color: var(--bar-text); border-color: var(--bar-border); }
 
 /* === SECTIONS PLIABLES === */
-.collapsible-heading { cursor: pointer; user-select: none; position: relative; padding-left: 1.2em; }
+.collapsible-heading { cursor: pointer; user-select: none; position: relative; padding-left: 1.2em; transition: color 0.15s; }
+.collapsible-heading:hover { opacity: 0.8; }
 .collapsible-heading::before { content: '\25B8'; position: absolute; left: 0; transition: transform 0.2s; }
 .collapsible-heading.open::before { transform: rotate(90deg); }
 .collapsible-content.collapsed { display: none; }
@@ -287,11 +267,36 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   }
 
-  /* --- Construire le plan --- */
+  /* --- Styliser les marqueurs de page [p. XX] --- */
   var content = document.getElementById('main-content');
   if (!content) { content = document.querySelector('.main-content'); }
-  var hasToc = false;
 
+  if (content) {
+    var walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT, null, false);
+    var textNodes = [];
+    while (walker.nextNode()) { textNodes.push(walker.currentNode); }
+    for (var n = 0; n < textNodes.length; n++) {
+      var node = textNodes[n];
+      if (/\[p\.\s[^\]]+\]/.test(node.textContent)) {
+        var frag = document.createDocumentFragment();
+        var parts = node.textContent.split(/(\[p\.\s[^\]]+\])/g);
+        for (var q = 0; q < parts.length; q++) {
+          if (/^\[p\.\s[^\]]+\]$/.test(parts[q])) {
+            var span = document.createElement('span');
+            span.className = 'page-marker';
+            span.textContent = parts[q];
+            frag.appendChild(span);
+          } else {
+            frag.appendChild(document.createTextNode(parts[q]));
+          }
+        }
+        node.parentNode.replaceChild(frag, node);
+      }
+    }
+  }
+
+  /* --- Construire le plan --- */
+  var hasToc = false;
   if (content) {
     var pageH = content.querySelectorAll('h1, h2, h3, h4');
     if (pageH.length >= 4) {
@@ -299,7 +304,6 @@ document.addEventListener('DOMContentLoaded', function() {
       var overlay = document.createElement('div');
       overlay.id = 'toc-overlay';
       document.body.appendChild(overlay);
-
       var panel = document.createElement('div');
       panel.id = 'toc-panel';
       var closeBtn = document.createElement('button');
@@ -310,7 +314,6 @@ document.addEventListener('DOMContentLoaded', function() {
       pTitle.className = 'toc-panel-title';
       pTitle.textContent = 'Plan';
       panel.appendChild(pTitle);
-
       var tocList = document.createElement('ul');
       var stack = [tocList];
       var lastLvl = 1;
@@ -324,64 +327,61 @@ document.addEventListener('DOMContentLoaded', function() {
         var a = document.createElement('a');
         a.href = '#' + hd.id;
         a.textContent = tx;
-        a.addEventListener('click', function() { closeToc(); });
-        if (lv > lastLvl) {
-          var sub = document.createElement('ul');
-          if (stack[stack.length-1].lastChild) { stack[stack.length-1].lastChild.appendChild(sub); }
-          stack.push(sub);
-        } else if (lv < lastLvl) {
-          for (var d = 0; d < lastLvl - lv; d++) { if (stack.length > 1) stack.pop(); }
-        }
+        a.addEventListener('click', function() { closeTocFn(); });
+        if (lv > lastLvl) { var sub = document.createElement('ul'); if (stack[stack.length-1].lastChild) { stack[stack.length-1].lastChild.appendChild(sub); } stack.push(sub); }
+        else if (lv < lastLvl) { for (var d = 0; d < lastLvl - lv; d++) { if (stack.length > 1) stack.pop(); } }
         li.appendChild(a);
         stack[stack.length-1].appendChild(li);
         lastLvl = lv;
       }
       panel.appendChild(tocList);
       document.body.appendChild(panel);
-
-      function closeToc() { panel.classList.remove('open'); overlay.classList.remove('open'); }
-      overlay.addEventListener('click', closeToc);
-      closeBtn.addEventListener('click', closeToc);
+      function closeTocFn() { panel.classList.remove('open'); overlay.classList.remove('open'); }
+      overlay.addEventListener('click', closeTocFn);
+      closeBtn.addEventListener('click', closeTocFn);
     }
   }
 
-  /* --- Bouton et panneau Reglages --- */
-  var settingsBtn = document.createElement('button');
-  settingsBtn.id = 'settings-btn';
-  settingsBtn.textContent = 'R\u00e9glages';
-  document.body.appendChild(settingsBtn);
+  /* --- Barre d'outils --- */
+  var toolbar = document.createElement('div');
+  toolbar.id = 'toolbar';
 
-  var sp = document.createElement('div');
-  sp.id = 'settings-panel';
-  var spHtml = '';
   if (hasToc) {
-    spHtml += '<button id="toc-open-btn">Plan du texte</button>';
-    spHtml += '<button id="toggle-all-btn">Tout replier</button>';
-    spHtml += '<div class="settings-divider"></div>';
-  }
-  spHtml += '<label>Affichage</label>';
-  spHtml += '<select id="theme-select"><option value="light">Clair</option><option value="dark">Sombre</option><option value="cb-light">Daltonien jour</option><option value="cb-dark">Daltonien nuit</option></select>';
-  spHtml += '<label>Police</label>';
-  spHtml += '<select id="font-select"><option value="default">Libertinus Serif</option><option value="hyperlegible">Atkinson Hyperlegible</option><option value="opendyslexic">OpenDyslexic</option></select>';
-  sp.innerHTML = spHtml;
-  document.body.appendChild(sp);
-
-  settingsBtn.addEventListener('click', function(e) {
-    e.stopPropagation();
-    sp.classList.toggle('open');
-  });
-  document.addEventListener('click', function(e) {
-    if (!sp.contains(e.target) && e.target !== settingsBtn) { sp.classList.remove('open'); }
-  });
-
-  /* Plan depuis reglages */
-  if (hasToc) {
-    document.getElementById('toc-open-btn').addEventListener('click', function() {
-      sp.classList.remove('open');
+    var planBtn = document.createElement('button');
+    planBtn.className = 'btn-accent';
+    planBtn.textContent = 'Plan';
+    planBtn.addEventListener('click', function() {
       document.getElementById('toc-panel').classList.add('open');
       document.getElementById('toc-overlay').classList.add('open');
     });
+    toolbar.appendChild(planBtn);
+
+    var foldBtn = document.createElement('button');
+    foldBtn.className = 'btn-neutral';
+    foldBtn.textContent = '\u00b1 Sections';
+    var allOpen = true;
+    toolbar.appendChild(foldBtn);
   }
+
+  var settingsBtn = document.createElement('button');
+  settingsBtn.className = 'btn-neutral';
+  settingsBtn.id = 'settings-btn';
+  settingsBtn.textContent = 'R\u00e9glages';
+  toolbar.appendChild(settingsBtn);
+  document.body.appendChild(toolbar);
+
+  /* --- Panneau reglages --- */
+  var sOverlay = document.createElement('div');
+  sOverlay.id = 'settings-overlay';
+  document.body.appendChild(sOverlay);
+
+  var sp = document.createElement('div');
+  sp.id = 'settings-panel';
+  sp.innerHTML = '<label>Affichage</label><select id="theme-select"><option value="light">Clair</option><option value="dark">Sombre</option><option value="cb-light">Daltonien jour</option><option value="cb-dark">Daltonien nuit</option></select><label>Police</label><select id="font-select"><option value="default">Solway</option><option value="hyperlegible">Atkinson Hyperlegible</option><option value="opendyslexic">OpenDyslexic</option></select>';
+  document.body.appendChild(sp);
+
+  settingsBtn.addEventListener('click', function(e) { e.stopPropagation(); sp.classList.toggle('open'); sOverlay.classList.toggle('open'); });
+  sOverlay.addEventListener('click', function() { sp.classList.remove('open'); sOverlay.classList.remove('open'); });
 
   /* Theme */
   var themeSelect = document.getElementById('theme-select');
@@ -392,10 +392,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (t !== 'light') { document.body.classList.add('theme-' + t); }
   }
   applyTheme(savedTheme);
-  themeSelect.addEventListener('change', function() {
-    localStorage.setItem('themeChoice', this.value);
-    applyTheme(this.value);
-  });
+  themeSelect.addEventListener('change', function() { localStorage.setItem('themeChoice', this.value); applyTheme(this.value); });
 
   /* Police */
   var fontSelect = document.getElementById('font-select');
@@ -407,10 +404,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (f === 'opendyslexic') { document.body.classList.add('font-opendyslexic'); }
   }
   applyFont(savedFont);
-  fontSelect.addEventListener('change', function() {
-    localStorage.setItem('fontChoice', this.value);
-    applyFont(this.value);
-  });
+  fontSelect.addEventListener('change', function() { localStorage.setItem('fontChoice', this.value); applyFont(this.value); });
 
   /* --- Sections pliables --- */
   if (content) {
@@ -419,14 +413,12 @@ document.addEventListener('DOMContentLoaded', function() {
       for (var i = 0; i < allH.length; i++) {
         var hh = allH[i];
         hh.classList.add('collapsible-heading', 'open');
-        var lv = parseInt(hh.tagName.charAt(1), 10);
+        var lvv = parseInt(hh.tagName.charAt(1), 10);
         var wr = document.createElement('div');
         wr.className = 'collapsible-content';
         var sib = hh.nextElementSibling;
         while (sib) {
-          if (sib.tagName && /^H[1-6]$/.test(sib.tagName)) {
-            if (parseInt(sib.tagName.charAt(1), 10) <= lv) { break; }
-          }
+          if (sib.tagName && /^H[1-6]$/.test(sib.tagName)) { if (parseInt(sib.tagName.charAt(1), 10) <= lvv) break; }
           var nxs = sib.nextElementSibling;
           wr.appendChild(sib);
           sib = nxs;
@@ -439,22 +431,19 @@ document.addEventListener('DOMContentLoaded', function() {
         });
       }
 
-      /* Tout plier/deplier */
-      var allOpen = true;
-      var togBtn = document.getElementById('toggle-all-btn');
-      if (togBtn) {
-        togBtn.addEventListener('click', function() {
+      if (foldBtn) {
+        foldBtn.addEventListener('click', function() {
           var secs = content.querySelectorAll('.collapsible-content');
           var hds = content.querySelectorAll('.collapsible-heading');
           if (allOpen) {
             for (var j = 0; j < secs.length; j++) { secs[j].classList.add('collapsed'); }
             for (var k = 0; k < hds.length; k++) { hds[k].classList.remove('open'); }
-            togBtn.textContent = 'Tout d\u00e9plier';
+            foldBtn.textContent = '\u00b1 Sections';
             allOpen = false;
           } else {
             for (var j = 0; j < secs.length; j++) { secs[j].classList.remove('collapsed'); }
             for (var k = 0; k < hds.length; k++) { hds[k].classList.add('open'); }
-            togBtn.textContent = 'Tout replier';
+            foldBtn.textContent = '\u00b1 Sections';
             allOpen = true;
           }
         });
