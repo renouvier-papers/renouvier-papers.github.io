@@ -1,8 +1,19 @@
 ---
-title: "Traité de logique, t. 1"
-parent: Essais de critique générale
+title: "Tome 1"
+parent: "Premier Essai — Logique"
 grand_parent: Œuvres
 nav_order: 1
+---
+
+> Charles Renouvier, *Essais de critique générale. Premier Essai. Traité de logique générale et de logique formelle*, 2e édition, Paris, Au Bureau de la Critique philosophique, 1875, tome 1, p. V-448.
+>
+> Source principale : Google Books. Voir aussi : [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k75222g).
+
+## Sommaire
+
+* TOC
+{:toc}
+
 ---
 
 # Avant-propos
