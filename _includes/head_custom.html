@@ -107,7 +107,6 @@ nav.list-style-none {
 .collapsible-content.collapsed {
   display: none;
 }
-p:has(a[href*="just-the-docs"]) { display: none; }
 </style>
 
 <script>
@@ -125,6 +124,14 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   }
 
+/* --- Cacher "This site uses Just the Docs" --- */
+var allLinks = document.querySelectorAll('a');
+for (var z = 0; z < allLinks.length; z++) {
+  if (allLinks[z].href && allLinks[z].href.indexOf('just-the-docs') !== -1) {
+    allLinks[z].parentNode.style.display = 'none';
+  }
+}
+  
   /* --- Selecteur de police --- */
   var bar = document.createElement('div');
   bar.id = 'accessibility-bar';
