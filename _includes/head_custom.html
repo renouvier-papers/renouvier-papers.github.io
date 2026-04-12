@@ -59,60 +59,82 @@ body.font-opendyslexic {
   font-size: 1rem;
 }
 
-/* Plan flottant a droite */
-#floating-toc {
+/* Panneau Plan */
+#toc-overlay {
   display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 10000;
+}
+#toc-overlay.open {
+  display: block;
 }
 
-@media (min-width: 1200px) {
-  #floating-toc {
-    display: block;
-    position: fixed;
-    top: 80px;
-    right: 20px;
-    width: 240px;
-    max-height: calc(100vh - 120px);
-    overflow-y: auto;
-    font-size: 0.78rem;
-    line-height: 1.4;
-    border-left: 2px solid #7253ed;
-    padding-left: 12px;
-  }
-  #floating-toc .floating-toc-title {
-    font-weight: 700;
-    margin-bottom: 8px;
-    color: #7253ed;
-    font-size: 0.82rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-  }
-  #floating-toc ul {
-    list-style: none;
-    padding-left: 0;
-    margin: 0;
-  }
-  #floating-toc ul ul {
-    padding-left: 12px;
-  }
-  #floating-toc li {
-    margin-bottom: 3px;
-  }
-  #floating-toc a {
-    color: #555;
-    text-decoration: none;
-  }
-  #floating-toc a:hover {
-    color: #7253ed;
-  }
-  #floating-toc a.active {
-    color: #7253ed;
-    font-weight: 600;
-  }
-
-  /* Reduire la largeur du contenu pour laisser la place au plan */
-  .main-content {
-    max-width: calc(100% - 280px) !important;
-  }
+#toc-panel {
+  position: fixed;
+  top: 0;
+  right: -400px;
+  width: 380px;
+  max-width: 85vw;
+  height: 100%;
+  background: #fff;
+  z-index: 10001;
+  overflow-y: auto;
+  padding: 24px 20px;
+  box-shadow: -4px 0 20px rgba(0, 0, 0, 0.15);
+  transition: right 0.25s ease;
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+#toc-panel.open {
+  right: 0;
+}
+#toc-panel .toc-panel-title {
+  font-weight: 700;
+  font-size: 1rem;
+  color: #7253ed;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #7253ed;
+}
+#toc-panel ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+#toc-panel ul ul {
+  padding-left: 16px;
+  margin-top: 2px;
+}
+#toc-panel li {
+  margin-bottom: 4px;
+}
+#toc-panel a {
+  color: #333;
+  text-decoration: none;
+  display: block;
+  padding: 2px 0;
+}
+#toc-panel a:hover {
+  color: #7253ed;
+}
+#toc-panel .toc-close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  background: none;
+  border: none;
+  font-size: 1.4rem;
+  cursor: pointer;
+  color: #999;
+  padding: 4px 8px;
+}
+#toc-panel .toc-close:hover {
+  color: #333;
 }
 
 /* Cacher le footer de la sidebar */
@@ -138,6 +160,15 @@ body.font-opendyslexic {
   background: #f5f5f5;
   color: #333;
   font-family: sans-serif !important;
+}
+#accessibility-bar button#toc-toggle {
+  background: #7253ed;
+  color: #fff;
+  border-color: #7253ed;
+  font-weight: 600;
+}
+#accessibility-bar button#toc-toggle:hover {
+  background: #5a3fd6;
 }
 
 /* Sections pliables */
@@ -176,57 +207,117 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   }
 
-  /* --- Plan flottant a droite --- */
-  var tocSource = document.querySelector('#markdown-toc');
-  if (tocSource) {
-    var floatingToc = document.createElement('div');
-    floatingToc.id = 'floating-toc';
-    var tocTitle = document.createElement('div');
-    tocTitle.className = 'floating-toc-title';
-    tocTitle.textContent = 'Plan';
-    floatingToc.appendChild(tocTitle);
-    var tocClone = tocSource.cloneNode(true);
-    tocClone.removeAttribute('id');
-    floatingToc.appendChild(tocClone);
-    document.body.appendChild(floatingToc);
+  /* --- Construire le plan depuis les titres de la page --- */
+  var content = document.getElementById('main-content');
+  if (!content) { content = document.querySelector('.main-content'); }
 
-    /* Surligner la section active au scroll */
-    var tocLinks = floatingToc.querySelectorAll('a');
-    var headingIds = [];
-    for (var h = 0; h < tocLinks.length; h++) {
-      var href = tocLinks[h].getAttribute('href');
-      if (href && href.charAt(0) === '#') {
-        headingIds.push({ id: href.substring(1), link: tocLinks[h] });
-      }
-    }
+  var hasToc = false;
 
-    function updateActiveToc() {
-      var scrollPos = window.scrollY + 100;
-      var activeLink = null;
-      for (var j = 0; j < headingIds.length; j++) {
-        var el = document.getElementById(headingIds[j].id);
-        if (el && el.offsetTop <= scrollPos) {
-          activeLink = headingIds[j].link;
+  if (content) {
+    var pageHeadings = content.querySelectorAll('h1, h2, h3, h4');
+    if (pageHeadings.length >= 4) {
+      hasToc = true;
+
+      /* Creer le panneau */
+      var overlay = document.createElement('div');
+      overlay.id = 'toc-overlay';
+      document.body.appendChild(overlay);
+
+      var panel = document.createElement('div');
+      panel.id = 'toc-panel';
+
+      var closeBtn = document.createElement('button');
+      closeBtn.className = 'toc-close';
+      closeBtn.innerHTML = '&times;';
+      panel.appendChild(closeBtn);
+
+      var panelTitle = document.createElement('div');
+      panelTitle.className = 'toc-panel-title';
+      panelTitle.textContent = 'Plan';
+      panel.appendChild(panelTitle);
+
+      var tocList = document.createElement('ul');
+      var stack = [tocList];
+      var lastLevel = 1;
+
+      for (var p = 0; p < pageHeadings.length; p++) {
+        var h = pageHeadings[p];
+        var lvl = parseInt(h.tagName.charAt(1), 10);
+        var text = h.textContent.trim();
+        if (!text) { continue; }
+
+        /* Assurer un id pour le lien */
+        if (!h.id) {
+          h.id = 'heading-' + p;
         }
-      }
-      for (var k = 0; k < tocLinks.length; k++) {
-        tocLinks[k].classList.remove('active');
-      }
-      if (activeLink) {
-        activeLink.classList.add('active');
-      }
-    }
 
-    window.addEventListener('scroll', updateActiveToc);
-    updateActiveToc();
+        var li = document.createElement('li');
+        var a = document.createElement('a');
+        a.href = '#' + h.id;
+        a.textContent = text;
+        a.addEventListener('click', function() {
+          panel.classList.remove('open');
+          overlay.classList.remove('open');
+        });
+
+        if (lvl > lastLevel) {
+          var sub = document.createElement('ul');
+          if (stack[stack.length - 1].lastChild) {
+            stack[stack.length - 1].lastChild.appendChild(sub);
+          }
+          stack.push(sub);
+        } else if (lvl < lastLevel) {
+          var diff = lastLevel - lvl;
+          for (var d = 0; d < diff; d++) {
+            if (stack.length > 1) { stack.pop(); }
+          }
+        }
+
+        li.appendChild(a);
+        stack[stack.length - 1].appendChild(li);
+        lastLevel = lvl;
+      }
+
+      panel.appendChild(tocList);
+      document.body.appendChild(panel);
+
+      function closeToc() {
+        panel.classList.remove('open');
+        overlay.classList.remove('open');
+      }
+
+      overlay.addEventListener('click', closeToc);
+      closeBtn.addEventListener('click', closeToc);
+    }
   }
 
-  /* --- Selecteur de police --- */
+  /* --- Barre accessibilite --- */
   var bar = document.createElement('div');
   bar.id = 'accessibility-bar';
-  bar.innerHTML = '<select id="font-select" title="Police"><option value="default">Libertinus Serif</option><option value="sans">Inter (sans-serif)</option><option value="hyperlegible">Atkinson Hyperlegible (malvoyants)</option><option value="opendyslexic">OpenDyslexic (dyslexie)</option></select>';
+
+  var barHtml = '';
+
+  if (hasToc) {
+    barHtml += '<button id="toc-toggle">Plan</button>';
+  }
+
+  barHtml += '<select id="font-select" title="Police"><option value="default">Libertinus Serif</option><option value="sans">Inter (sans-serif)</option><option value="hyperlegible">Atkinson Hyperlegible (malvoyants)</option><option value="opendyslexic">OpenDyslexic (dyslexie)</option></select>';
+
+  bar.innerHTML = barHtml;
   document.body.appendChild(bar);
 
+  /* Bouton Plan */
+  if (hasToc) {
+    var tocToggle = document.getElementById('toc-toggle');
+    tocToggle.addEventListener('click', function() {
+      var p = document.getElementById('toc-panel');
+      var o = document.getElementById('toc-overlay');
+      p.classList.toggle('open');
+      o.classList.toggle('open');
+    });
+  }
+
+  /* Selecteur de police */
   var fontSelect = document.getElementById('font-select');
   var savedFont = localStorage.getItem('fontChoice') || 'default';
   fontSelect.value = savedFont;
@@ -245,79 +336,76 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 
   /* --- Sections pliables --- */
-  var content = document.getElementById('main-content');
-  if (!content) { content = document.querySelector('.main-content'); }
-  if (!content) { return; }
+  if (content) {
+    var allHeadings = content.querySelectorAll('h1, h2, h3, h4');
+    if (allHeadings.length >= 4) {
 
-  var allHeadings = content.querySelectorAll('h1, h2, h3, h4');
-  if (allHeadings.length < 4) { return; }
+      var i, heading, level, wrapper, sibling, nextSib, siblingLevel;
 
-  var i, heading, level, wrapper, sibling, nextSib, siblingLevel;
+      for (i = 0; i < allHeadings.length; i++) {
+        heading = allHeadings[i];
+        heading.classList.add('collapsible-heading', 'open');
+        level = parseInt(heading.tagName.charAt(1), 10);
+        wrapper = document.createElement('div');
+        wrapper.className = 'collapsible-content';
+        sibling = heading.nextElementSibling;
 
-  for (i = 0; i < allHeadings.length; i++) {
-    heading = allHeadings[i];
-    heading.classList.add('collapsible-heading', 'open');
-    level = parseInt(heading.tagName.charAt(1), 10);
-    wrapper = document.createElement('div');
-    wrapper.className = 'collapsible-content';
-    sibling = heading.nextElementSibling;
+        while (sibling) {
+          if (sibling.tagName && /^H[1-6]$/.test(sibling.tagName)) {
+            siblingLevel = parseInt(sibling.tagName.charAt(1), 10);
+            if (siblingLevel <= level) { break; }
+          }
+          nextSib = sibling.nextElementSibling;
+          wrapper.appendChild(sibling);
+          sibling = nextSib;
+        }
 
-    while (sibling) {
-      if (sibling.tagName && /^H[1-6]$/.test(sibling.tagName)) {
-        siblingLevel = parseInt(sibling.tagName.charAt(1), 10);
-        if (siblingLevel <= level) { break; }
+        if (wrapper.children.length > 0) {
+          heading.parentNode.insertBefore(wrapper, heading.nextSibling);
+        }
+
+        heading.addEventListener('click', function() {
+          this.classList.toggle('open');
+          var c = this.nextElementSibling;
+          if (c && c.classList.contains('collapsible-content')) {
+            c.classList.toggle('collapsed');
+          }
+        });
       }
-      nextSib = sibling.nextElementSibling;
-      wrapper.appendChild(sibling);
-      sibling = nextSib;
+
+      /* Bouton tout plier / deplier */
+      var toggleAllBtn = document.createElement('button');
+      toggleAllBtn.id = 'toggle-all';
+      toggleAllBtn.textContent = 'Tout replier';
+      bar.insertBefore(toggleAllBtn, bar.querySelector('#font-select'));
+
+      var allOpen = true;
+
+      toggleAllBtn.addEventListener('click', function() {
+        var sections = content.querySelectorAll('.collapsible-content');
+        var heads = content.querySelectorAll('.collapsible-heading');
+
+        if (allOpen) {
+          for (var j = 0; j < sections.length; j++) {
+            sections[j].classList.add('collapsed');
+          }
+          for (var k = 0; k < heads.length; k++) {
+            heads[k].classList.remove('open');
+          }
+          toggleAllBtn.textContent = 'Tout d\u00e9plier';
+          allOpen = false;
+        } else {
+          for (var j = 0; j < sections.length; j++) {
+            sections[j].classList.remove('collapsed');
+          }
+          for (var k = 0; k < heads.length; k++) {
+            heads[k].classList.add('open');
+          }
+          toggleAllBtn.textContent = 'Tout replier';
+          allOpen = true;
+        }
+      });
     }
-
-    if (wrapper.children.length > 0) {
-      heading.parentNode.insertBefore(wrapper, heading.nextSibling);
-    }
-
-    heading.addEventListener('click', function() {
-      this.classList.toggle('open');
-      var c = this.nextElementSibling;
-      if (c && c.classList.contains('collapsible-content')) {
-        c.classList.toggle('collapsed');
-      }
-    });
-  }
-
-  /* --- Bouton tout plier / deplier --- */
-  if (allHeadings.length >= 4) {
-    var toggleAllBtn = document.createElement('button');
-    toggleAllBtn.id = 'toggle-all';
-    toggleAllBtn.textContent = 'Tout replier';
-    bar.insertBefore(toggleAllBtn, bar.firstChild);
-
-    var allOpen = true;
-
-    toggleAllBtn.addEventListener('click', function() {
-      var sections = content.querySelectorAll('.collapsible-content');
-      var heads = content.querySelectorAll('.collapsible-heading');
-
-      if (allOpen) {
-        for (var j = 0; j < sections.length; j++) {
-          sections[j].classList.add('collapsed');
-        }
-        for (var k = 0; k < heads.length; k++) {
-          heads[k].classList.remove('open');
-        }
-        toggleAllBtn.textContent = 'Tout d\u00e9plier';
-        allOpen = false;
-      } else {
-        for (var j = 0; j < sections.length; j++) {
-          sections[j].classList.remove('collapsed');
-        }
-        for (var k = 0; k < heads.length; k++) {
-          heads[k].classList.add('open');
-        }
-        toggleAllBtn.textContent = 'Tout replier';
-        allOpen = true;
-      }
-    });
   }
 });
 </script>
