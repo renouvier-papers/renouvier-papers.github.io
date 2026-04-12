@@ -125,10 +125,10 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
 /* --- Cacher "This site uses Just the Docs" --- */
-var allLinks = document.querySelectorAll('a');
-for (var z = 0; z < allLinks.length; z++) {
-  if (allLinks[z].href && allLinks[z].href.indexOf('just-the-docs') !== -1) {
-    allLinks[z].parentNode.style.display = 'none';
+var allElements = document.querySelectorAll('*');
+for (var z = 0; z < allElements.length; z++) {
+  if (allElements[z].childNodes.length <= 3 && allElements[z].textContent.indexOf('Just the Docs') !== -1 && allElements[z].closest('.main-content') === null) {
+    allElements[z].style.display = 'none';
   }
 }
   
