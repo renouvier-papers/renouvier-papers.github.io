@@ -1,5 +1,5 @@
 {% raw %}
-<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@400;700&display=swap" rel="stylesheet">
 
 <style>
 @font-face {
@@ -21,15 +21,45 @@
   font-style: italic;
 }
 
-.main-content,
-.main-content p,
-.main-content li,
-.main-content td {
+/* Police par defaut : EB Garamond */
+body {
   font-family: 'EB Garamond', serif !important;
-  font-size: 1.1rem;
+  font-size: 1.15rem;
   line-height: 1.7;
 }
+.side-bar,
+.side-bar * {
+  font-size: 0.85rem;
+}
 
+/* Sans-serif */
+body.font-sans,
+body.font-sans * {
+  font-family: 'Inter', sans-serif !important;
+}
+body.font-sans {
+  font-size: 1rem;
+}
+
+/* Malvoyants */
+body.font-hyperlegible,
+body.font-hyperlegible * {
+  font-family: 'Atkinson Hyperlegible', sans-serif !important;
+}
+body.font-hyperlegible {
+  font-size: 1.05rem;
+}
+
+/* Dyslexie */
+body.font-opendyslexic,
+body.font-opendyslexic * {
+  font-family: 'OpenDyslexic', sans-serif !important;
+}
+body.font-opendyslexic {
+  font-size: 1rem;
+}
+
+/* Barre accessibilite */
 #accessibility-bar {
   position: fixed;
   bottom: 12px;
@@ -39,8 +69,8 @@
   gap: 6px;
   font-size: 13px;
 }
-
-#accessibility-bar select {
+#accessibility-bar select,
+#accessibility-bar button {
   border: 1px solid #ccc;
   border-radius: 4px;
   padding: 4px 10px;
@@ -51,20 +81,7 @@
   font-family: sans-serif !important;
 }
 
-body.font-hyperlegible .main-content,
-body.font-hyperlegible .main-content p,
-body.font-hyperlegible .main-content li,
-body.font-hyperlegible .main-content td {
-  font-family: 'Atkinson Hyperlegible', sans-serif !important;
-}
-
-body.font-opendyslexic .main-content,
-body.font-opendyslexic .main-content p,
-body.font-opendyslexic .main-content li,
-body.font-opendyslexic .main-content td {
-  font-family: 'OpenDyslexic', sans-serif !important;
-}
-
+/* Sections pliables */
 .collapsible-heading {
   cursor: pointer;
   user-select: none;
@@ -88,10 +105,10 @@ body.font-opendyslexic .main-content td {
 <script>
 document.addEventListener('DOMContentLoaded', function() {
 
-  /* --- Selecteur de police --- */
+  /* --- Barre accessibilite --- */
   var bar = document.createElement('div');
   bar.id = 'accessibility-bar';
-  bar.innerHTML = '<select id="font-select" title="Police"><option value="default">Police : EB Garamond</option><option value="hyperlegible">Police : Atkinson Hyperlegible (malvoyants)</option><option value="opendyslexic">Police : OpenDyslexic (dyslexie)</option></select>';
+  bar.innerHTML = '<select id="font-select" title="Police"><option value="default">EB Garamond (serif)</option><option value="sans">Inter (sans-serif)</option><option value="hyperlegible">Atkinson Hyperlegible (malvoyants)</option><option value="opendyslexic">OpenDyslexic (dyslexie)</option></select>';
   document.body.appendChild(bar);
 
   var fontSelect = document.getElementById('font-select');
@@ -99,7 +116,8 @@ document.addEventListener('DOMContentLoaded', function() {
   fontSelect.value = savedFont;
 
   function applyFont(f) {
-    document.body.classList.remove('font-hyperlegible', 'font-opendyslexic');
+    document.body.classList.remove('font-sans', 'font-hyperlegible', 'font-opendyslexic');
+    if (f === 'sans') { document.body.classList.add('font-sans'); }
     if (f === 'hyperlegible') { document.body.classList.add('font-hyperlegible'); }
     if (f === 'opendyslexic') { document.body.classList.add('font-opendyslexic'); }
   }
@@ -147,6 +165,41 @@ document.addEventListener('DOMContentLoaded', function() {
       var c = this.nextElementSibling;
       if (c && c.classList.contains('collapsible-content')) {
         c.classList.toggle('collapsed');
+      }
+    });
+  }
+
+  /* --- Bouton tout plier / deplier --- */
+  if (allHeadings.length >= 4) {
+    var toggleAllBtn = document.createElement('button');
+    toggleAllBtn.id = 'toggle-all';
+    toggleAllBtn.textContent = 'Tout replier';
+    bar.insertBefore(toggleAllBtn, bar.firstChild);
+
+    var allOpen = true;
+
+    toggleAllBtn.addEventListener('click', function() {
+      var sections = content.querySelectorAll('.collapsible-content');
+      var heads = content.querySelectorAll('.collapsible-heading');
+
+      if (allOpen) {
+        for (var j = 0; j < sections.length; j++) {
+          sections[j].classList.add('collapsed');
+        }
+        for (var k = 0; k < heads.length; k++) {
+          heads[k].classList.remove('open');
+        }
+        toggleAllBtn.textContent = 'Tout d\u00e9plier';
+        allOpen = false;
+      } else {
+        for (var j = 0; j < sections.length; j++) {
+          sections[j].classList.remove('collapsed');
+        }
+        for (var k = 0; k < heads.length; k++) {
+          heads[k].classList.add('open');
+        }
+        toggleAllBtn.textContent = 'Tout replier';
+        allOpen = true;
       }
     });
   }
