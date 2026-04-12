@@ -1,6 +1,7 @@
 ---
 title: "Traité de logique, t. 1"
-parent: Œuvres
+parent: Essais de critique générale
+grand_parent: Œuvres
 nav_order: 1
 ---
 
