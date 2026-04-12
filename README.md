@@ -21,8 +21,10 @@ Renouvier a profondément marqué la pensée française de la seconde moitié du
 - **Transcriptions et balisage** : [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr). Libre réutilisation à condition de créditer le projet.
 - **Annotations et traductions** (le cas échéant) : tous droits réservés, sauf mention contraire.
 
+Consulter la [licence complète](https://renouvier-papers.github.io/oeuvres/LICENSE).
+
 ## Contribuer
 
-Toute aide est bienvenue — relecture, correction, nouvelles transcriptions. Les conventions de transcription sont décrites dans le fichier CONTRIBUTING.md de chaque dépôt.
+Toute aide est bienvenue — relecture, correction, nouvelles transcriptions. Consulter les [conventions de transcription](https://renouvier-papers.github.io/oeuvres/CONTRIBUTING).
 
 Projet créé et maintenu par Arthur Saunier ([@ar-sau](https://github.com/ar-sau)).
