@@ -11,6 +11,6 @@ Charles Renouvier, *Essais de critique générale. Premier Essai. Traité de log
 
 | Tome | Pages | Source | Statut |
 |------|-------|--------|--------|
-| [Tome 1](essai1-logique/tome1) | V-448 | [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k75222g) | ✅ Transcription complète |
-| Tome 2 | | [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k75223t) | À faire |
-| Tome 3 | | [Internet Archive](https://archive.org/details/essaisdecritique02renouoft) | À faire |
+| [Tome 1](essai1-logique/tome1) | V-448 | [Google Books](https://books.google.com/books?id=exsoAAAAYAAJ) | ✅ Transcription complète |
+| Tome 2 | | [Internet Archive](https://archive.org/details/essaisdecritique02renouoft) | À faire |
+| Tome 3 | | [Internet Archive](https://archive.org/details/essaisdecritiqu09renogoog) | À faire |
