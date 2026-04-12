@@ -123,14 +123,6 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     }
   }
-
-/* --- Cacher "This site uses Just the Docs" --- */
-var allElements = document.querySelectorAll('*');
-for (var z = 0; z < allElements.length; z++) {
-  if (allElements[z].childNodes.length <= 3 && allElements[z].textContent.indexOf('Just the Docs') !== -1 && allElements[z].closest('.main-content') === null) {
-    allElements[z].style.display = 'none';
-  }
-}
   
   /* --- Selecteur de police --- */
   var bar = document.createElement('div');
