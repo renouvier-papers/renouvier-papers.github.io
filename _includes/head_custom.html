@@ -1,5 +1,5 @@
 {% raw %}
-<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@400;700&display=swap" rel="stylesheet">
 
 <style>
 @font-face {
@@ -21,10 +21,10 @@
   font-style: italic;
 }
 
-/* Police par defaut */
+/* Police par defaut : Libertinus Serif */
 body {
-  font-family: 'EB Garamond', serif !important;
-  font-size: 1.15rem;
+  font-family: 'Libertinus Serif', serif !important;
+  font-size: 1.1rem;
   line-height: 1.7;
 }
 .side-bar,
@@ -59,12 +59,64 @@ body.font-opendyslexic {
   font-size: 1rem;
 }
 
-/* Cacher la liste auto des pages enfants */
-.main-content .child-pages,
-.main-content > ul:last-child > li > a[href*="premier-essai"],
-nav.list-style-none {
+/* Plan flottant a droite */
+#floating-toc {
   display: none;
 }
+
+@media (min-width: 1200px) {
+  #floating-toc {
+    display: block;
+    position: fixed;
+    top: 80px;
+    right: 20px;
+    width: 240px;
+    max-height: calc(100vh - 120px);
+    overflow-y: auto;
+    font-size: 0.78rem;
+    line-height: 1.4;
+    border-left: 2px solid #7253ed;
+    padding-left: 12px;
+  }
+  #floating-toc .floating-toc-title {
+    font-weight: 700;
+    margin-bottom: 8px;
+    color: #7253ed;
+    font-size: 0.82rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  #floating-toc ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
+  #floating-toc ul ul {
+    padding-left: 12px;
+  }
+  #floating-toc li {
+    margin-bottom: 3px;
+  }
+  #floating-toc a {
+    color: #555;
+    text-decoration: none;
+  }
+  #floating-toc a:hover {
+    color: #7253ed;
+  }
+  #floating-toc a.active {
+    color: #7253ed;
+    font-weight: 600;
+  }
+
+  /* Reduire la largeur du contenu pour laisser la place au plan */
+  .main-content {
+    max-width: calc(100% - 280px) !important;
+  }
+}
+
+/* Cacher le footer de la sidebar */
+.site-footer.d-md-block { display: none !important; }
 
 /* Barre accessibilite */
 #accessibility-bar {
@@ -107,7 +159,6 @@ nav.list-style-none {
 .collapsible-content.collapsed {
   display: none;
 }
-  .site-footer.d-md-block { display: none !important; }
 </style>
 
 <script>
@@ -124,11 +175,56 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     }
   }
-  
+
+  /* --- Plan flottant a droite --- */
+  var tocSource = document.querySelector('#markdown-toc');
+  if (tocSource) {
+    var floatingToc = document.createElement('div');
+    floatingToc.id = 'floating-toc';
+    var tocTitle = document.createElement('div');
+    tocTitle.className = 'floating-toc-title';
+    tocTitle.textContent = 'Plan';
+    floatingToc.appendChild(tocTitle);
+    var tocClone = tocSource.cloneNode(true);
+    tocClone.removeAttribute('id');
+    floatingToc.appendChild(tocClone);
+    document.body.appendChild(floatingToc);
+
+    /* Surligner la section active au scroll */
+    var tocLinks = floatingToc.querySelectorAll('a');
+    var headingIds = [];
+    for (var h = 0; h < tocLinks.length; h++) {
+      var href = tocLinks[h].getAttribute('href');
+      if (href && href.charAt(0) === '#') {
+        headingIds.push({ id: href.substring(1), link: tocLinks[h] });
+      }
+    }
+
+    function updateActiveToc() {
+      var scrollPos = window.scrollY + 100;
+      var activeLink = null;
+      for (var j = 0; j < headingIds.length; j++) {
+        var el = document.getElementById(headingIds[j].id);
+        if (el && el.offsetTop <= scrollPos) {
+          activeLink = headingIds[j].link;
+        }
+      }
+      for (var k = 0; k < tocLinks.length; k++) {
+        tocLinks[k].classList.remove('active');
+      }
+      if (activeLink) {
+        activeLink.classList.add('active');
+      }
+    }
+
+    window.addEventListener('scroll', updateActiveToc);
+    updateActiveToc();
+  }
+
   /* --- Selecteur de police --- */
   var bar = document.createElement('div');
   bar.id = 'accessibility-bar';
-  bar.innerHTML = '<select id="font-select" title="Police"><option value="default">EB Garamond (serif)</option><option value="sans">Inter (sans-serif)</option><option value="hyperlegible">Atkinson Hyperlegible (malvoyants)</option><option value="opendyslexic">OpenDyslexic (dyslexie)</option></select>';
+  bar.innerHTML = '<select id="font-select" title="Police"><option value="default">Libertinus Serif</option><option value="sans">Inter (sans-serif)</option><option value="hyperlegible">Atkinson Hyperlegible (malvoyants)</option><option value="opendyslexic">OpenDyslexic (dyslexie)</option></select>';
   document.body.appendChild(bar);
 
   var fontSelect = document.getElementById('font-select');
