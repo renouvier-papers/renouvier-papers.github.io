@@ -177,9 +177,9 @@ body.theme-cb-dark {
 body { background-color: var(--bg) !important; color: var(--text) !important; }
 .side-bar { background-color: var(--bg-sidebar) !important; border-right: 1px solid var(--border) !important; }
 .side-bar, .side-bar * { color: var(--text) !important; }
-.navigation-list-link { color: var(--text) !important; border-radius: 4px; transition: all 0.15s; padding: 3px 6px; }
-.navigation-list-link:hover { background: var(--hover-bg) !important; color: var(--hover-text) !important; }
-.navigation-list-link.active { color: var(--accent) !important; font-weight: 600; background: var(--hover-bg) !important; }
+.navigation-list-link { color: var(--text) !important; border-radius: 0; transition: all 0.1s; padding: 4px 8px; display: block; }
+.navigation-list-link:hover { background: var(--accent) !important; color: #fff !important; }
+.navigation-list-link.active { background: var(--accent2) !important; color: #fff !important; font-weight: 600; }
 
 .main-content { background-color: var(--bg) !important; }
 .main-content h1 { color: var(--h1-color) !important; border-bottom: 3px solid var(--h1-color); padding-bottom: 6px; }
@@ -219,6 +219,10 @@ body { background-color: var(--bg) !important; color: var(--text) !important; }
 .site-footer.d-md-block { display: none !important; }
 #main-content-wrap, .page-content { background: var(--bg) !important; }
 
+/* Tableaux - forcer le theme */
+table, table tr, table th, table td { background-color: var(--bg) !important; }
+table th { background-color: var(--bg-sidebar) !important; }
+  
 /* === PANNEAU PLAN === */
 #toc-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 10000; }
 #toc-overlay.open { display: block; }
@@ -229,7 +233,7 @@ body { background-color: var(--bg) !important; color: var(--text) !important; }
 #toc-panel ul ul { padding-left: 16px; margin-top: 2px; }
 #toc-panel li { margin-bottom: 3px; }
 #toc-panel a { color: var(--toc-link) !important; text-decoration: none; display: block; padding: 3px 6px; border-radius: 4px; transition: all 0.15s; }
-#toc-panel a:hover { color: var(--hover-text) !important; background: var(--hover-bg); }
+#toc-panel a:hover { color: #fff !important; background: var(--accent) !important; }
 #toc-panel .toc-close { position: absolute; top: 16px; right: 16px; background: none; border: none; font-size: 1.4rem; cursor: pointer; color: var(--text-muted); padding: 4px 8px; }
 #toc-panel .toc-close:hover { color: var(--text); }
 
