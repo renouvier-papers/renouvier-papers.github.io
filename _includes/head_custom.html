@@ -179,10 +179,10 @@ body.theme-cb-dark {
 body { background-color: var(--bg) !important; color: var(--text) !important; }
 .side-bar { background-color: var(--bg-sidebar) !important; border-right: 1px solid var(--border) !important; }
 .side-bar, .side-bar * { color: var(--text) !important; }
-.nav-list-link { color: var(--text) !important; border-radius: 3px !important; transition: all 0.1s !important; padding: 3px 8px !important; display: block !important; background: transparent !important; background-image: none !important; margin-bottom: 2px !important; }
-.nav-list-link:hover, .nav-list-link:focus { background: var(--accent) !important; background-image: none !important; color: #fff !important; box-shadow: none !important; outline: none !important; border: 1px solid var(--accent) !important; padding: 2px 7px !important; }
-.nav-list-link.active { background: var(--accent2) !important; background-image: none !important; color: #fff !important; font-weight: 600 !important; border: 1px solid var(--accent2) !important; padding: 2px 7px !important; }
-.nav-list-item:hover > .nav-list-link { background: var(--accent) !important; background-image: none !important; color: #fff !important; border: 1px solid var(--accent) !important; }
+.nav-list-link { color: var(--text) !important; border-radius: 3px !important; transition: all 0.15s !important; padding: 2px 7px !important; display: block !important; background: transparent !important; background-image: none !important; margin-bottom: 2px !important; border: 1px solid transparent !important; }
+.nav-list-link:hover, .nav-list-link:focus { background: color-mix(in srgb, var(--accent) 20%, transparent) !important; background-image: none !important; color: var(--accent) !important; box-shadow: none !important; outline: none !important; border: 1px solid var(--accent) !important; }
+.nav-list-link.active { background: color-mix(in srgb, var(--accent2) 20%, transparent) !important; background-image: none !important; color: var(--accent2) !important; font-weight: 600 !important; border: 1px solid var(--accent2) !important; }
+.nav-list-item:hover > .nav-list-link { background: color-mix(in srgb, var(--accent) 20%, transparent) !important; background-image: none !important; color: var(--accent) !important; border: 1px solid var(--accent) !important; }
 .nav-list-link::before, .nav-list-link::after { display: none !important; }
 
 .main-content { background-color: var(--bg) !important; }
@@ -237,7 +237,7 @@ table th { background-color: var(--bg-sidebar) !important; }
 #toc-panel ul ul { padding-left: 16px; margin-top: 2px; }
 #toc-panel li { margin-bottom: 3px; }
 #toc-panel a { color: var(--toc-link) !important; text-decoration: none; display: block; padding: 3px 6px; border-radius: 4px; transition: all 0.15s; }
-#toc-panel a:hover { color: #fff !important; background: var(--accent) !important; }
+#toc-panel a:hover { color: var(--accent) !important; background: color-mix(in srgb, var(--accent) 20%, transparent) !important; border: 1px solid var(--accent); border-radius: 3px; }
 #toc-panel .toc-close { position: absolute; top: 16px; right: 16px; background: none; border: none; font-size: 1.4rem; cursor: pointer; color: var(--text-muted); padding: 4px 8px; }
 #toc-panel .toc-close:hover { color: var(--text); }
 
@@ -275,18 +275,30 @@ document.addEventListener('DOMContentLoaded', function() {
   /* --- Coloriser le logo --- */
   var siteTitle = document.querySelector('.site-title');
   if (siteTitle) {
-    var titleText = siteTitle.textContent.trim();
-    var colors = ['var(--accent)', 'var(--accent2)', 'var(--accent3)', 'var(--accent4)'];
-    var titleLink = siteTitle.querySelector('a') || siteTitle;
-    var href = '';
-    if (siteTitle.querySelector('a')) { href = siteTitle.querySelector('a').getAttribute('href'); }
-    var html = '';
-    for (var ci = 0; ci < titleText.length; ci++) {
-      if (titleText[ci] === ' ') { html += ' '; }
-      else { html += '<span style="color:' + colors[ci % colors.length] + '">' + titleText[ci] + '</span>'; }
+    var titleLink = siteTitle.querySelector('a');
+    if (titleLink) {
+      var titleText = titleLink.textContent.trim();
+      var colors = ['var(--accent)', 'var(--accent2)', 'var(--accent3)', 'var(--accent4)'];
+      var html = '';
+      for (var ci = 0; ci < titleText.length; ci++) {
+        if (titleText[ci] === ' ') { html += ' '; }
+        else { html += '<span class="logo-letter" style="color:' + colors[ci % colors.length] + '">' + titleText[ci] + '</span>'; }
+      }
+      titleLink.innerHTML = html;
+      titleLink.addEventListener('mouseenter', function() {
+        var letters = this.querySelectorAll('.logo-letter');
+        for (var l = 0; l < letters.length; l++) { letters[l].style.color = '#fff'; }
+        this.style.background = 'var(--h3-color)';
+        this.style.borderRadius = '3px';
+        this.style.padding = '2px 6px';
+      });
+      titleLink.addEventListener('mouseleave', function() {
+        var letters = this.querySelectorAll('.logo-letter');
+        for (var l = 0; l < letters.length; l++) { letters[l].style.color = colors[l % colors.length]; }
+        this.style.background = 'transparent';
+        this.style.padding = '';
+      });
     }
-    if (href) { titleLink.innerHTML = html; }
-    else { siteTitle.innerHTML = html; }
   }
 
   /* --- Cacher "Table of contents" auto --- */
