@@ -39,6 +39,12 @@ body.font-opendyslexic { font-size: 1rem; }
 .site-title a:hover { background: var(--h3-color) !important; color: #fff !important; border-radius: 3px; padding: 2px 6px; }
 .site-title a:active { background: var(--h4-color) !important; color: #fff !important; }
   
+  .site-title a, .site-title a:hover, .site-title a:active, .site-title a:visited {
+  background: transparent !important;
+  background-image: none !important;
+  text-decoration: none !important;
+}
+  
 /* === MODE CLAIR === */
 body {
   --bg: #f7f8fa;
@@ -97,7 +103,7 @@ body.theme-dark {
   --page-marker-bg: #0a1520;
   --hr-color: #1a2535;
   --fn-color: #ff6b9d;
-  --strong-color: #f0f0f0;
+  --strong-color: #50b0ff;
   --hover-bg: #182028;
   --hover-text: #80d0b0;
   --bar-bg: #101828;
@@ -165,7 +171,7 @@ body.theme-cb-dark {
   --page-marker-bg: #0a1520;
   --hr-color: #1a2535;
   --fn-color: #CC79A7;
-  --strong-color: #e2e2e2;
+  --strong-color: #56B4E9;
   --hover-bg: #152030;
   --hover-text: #56B4E9;
   --bar-bg: #101828;
@@ -184,6 +190,11 @@ body { background-color: var(--bg) !important; color: var(--text) !important; }
 .nav-list-link.active { background: color-mix(in srgb, var(--accent2) 20%, transparent) !important; background-image: none !important; color: var(--accent2) !important; font-weight: 600 !important; border: 1px solid var(--accent2) !important; }
 .nav-list-item:hover > .nav-list-link { background: color-mix(in srgb, var(--accent) 20%, transparent) !important; background-image: none !important; color: var(--accent) !important; border: 1px solid var(--accent) !important; }
 .nav-list-link::before, .nav-list-link::after { display: none !important; }
+
+.nav-list-expander { background: transparent !important; background-image: none !important; border: none !important; color: var(--text-muted) !important; padding: 4px !important; }
+.nav-list-expander:hover { color: var(--accent) !important; background: transparent !important; }
+.nav-list-expander svg { color: var(--text-muted) !important; fill: var(--text-muted) !important; }
+.nav-list-expander:hover svg { color: var(--accent) !important; fill: var(--accent) !important; }
 
 .main-content { background-color: var(--bg) !important; }
 .main-content h1 { color: var(--h1-color) !important; border-bottom: 3px solid var(--h1-color); padding-bottom: 6px; }
