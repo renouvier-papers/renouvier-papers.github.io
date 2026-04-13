@@ -39,7 +39,7 @@ body.font-opendyslexic { font-size: 1rem; }
 .site-title a:hover { background: var(--h3-color) !important; color: #fff !important; border-radius: 3px; padding: 2px 6px; }
 .site-title a:active { background: var(--h4-color) !important; color: #fff !important; }
   
-  .site-title a, .site-title a:hover, .site-title a:active, .site-title a:visited {
+a.site-title, a.site-title:hover, a.site-title:active, a.site-title:visited {
   background: transparent !important;
   background-image: none !important;
   text-decoration: none !important;
@@ -286,7 +286,7 @@ document.addEventListener('DOMContentLoaded', function() {
   /* --- Coloriser le logo --- */
   var siteTitle = document.querySelector('.site-title');
   if (siteTitle) {
-    var titleLink = siteTitle.querySelector('a');
+var titleLink = siteTitle.tagName === 'A' ? siteTitle : siteTitle.querySelector('a');
     if (titleLink) {
       var titleText = titleLink.textContent.trim();
       var colors = ['var(--accent)', 'var(--accent2)', 'var(--accent3)', 'var(--accent4)'];
