@@ -79,10 +79,10 @@ body.theme-dark {
   --text-muted: #607080;
   --h1-color: #ff6b9d;
   --h2-color: #00e5a0;
-  --h3-color: #ffa63d;
+  --h3-color: #ff80a0;
   --h4-color: #50b0ff;
-  --link: #50b0ff;
-  --link-hover: #80c8ff;
+  --link: #e070c0;
+  --link-hover: #f090d8;
   --accent: #ff6b9d;
   --accent2: #00e5a0;
   --accent3: #ffa63d;
@@ -91,13 +91,13 @@ body.theme-dark {
   --quote-bg: #101828;
   --quote-border: #00e5a0;
   --em-color: #ffd700;
-  --page-marker-color: #00e5a0;
-  --page-marker-bg: #0a1a18;
+  --page-marker-color: #50b0ff;
+  --page-marker-bg: #0a1520;
   --hr-color: #1a2535;
   --fn-color: #ff6b9d;
   --strong-color: #f0f0f0;
-  --hover-bg: #152030;
-  --hover-text: #00e5a0;
+  --hover-bg: #182028;
+  --hover-text: #80d0b0;
   --bar-bg: #101828;
   --bar-text: #dce0e8;
   --bar-border: #253040;
@@ -359,7 +359,7 @@ document.addEventListener('DOMContentLoaded', function() {
   /* --- Reglages --- */
   var sOverlay = document.createElement('div'); sOverlay.id = 'settings-overlay'; document.body.appendChild(sOverlay);
   var sp = document.createElement('div'); sp.id = 'settings-panel';
-  sp.innerHTML = '<label>Affichage</label><select id="theme-select"><option value="light">Clair</option><option value="dark">Sombre</option><option value="cb-light">Daltonien jour</option><option value="cb-dark">Daltonien nuit</option></select><label>Police</label><select id="font-select"><option value="default">Solway</option><option value="hyperlegible">Atkinson Hyperlegible</option><option value="opendyslexic">OpenDyslexic</option></select>';
+  sp.innerHTML = '<label>Affichage</label><select id="theme-select"><option value="light">Clair</option><option value="dark">Sombre</option><option value="cb-light">Daltonien jour</option><option value="cb-dark">Daltonien nuit</option></select><label>Police</label><select id="font-select"><option value="default">Par d\u00e9faut (Solway)</option><option value="hyperlegible">Malvoyance (Atkinson Hyperlegible)</option><option value="opendyslexic">Dyslexie (OpenDyslexic)</option>';
   document.body.appendChild(sp);
   settingsBtn.addEventListener('click', function(e) { e.stopPropagation(); sp.classList.toggle('open'); sOverlay.classList.toggle('open'); });
   sOverlay.addEventListener('click', function() { sp.classList.remove('open'); sOverlay.classList.remove('open'); });
