@@ -177,10 +177,11 @@ body.theme-cb-dark {
 body { background-color: var(--bg) !important; color: var(--text) !important; }
 .side-bar { background-color: var(--bg-sidebar) !important; border-right: 1px solid var(--border) !important; }
 .side-bar, .side-bar * { color: var(--text) !important; }
-.navigation-list-link { color: var(--text) !important; border-radius: 0 !important; transition: all 0.1s !important; padding: 4px 8px !important; display: block !important; background: transparent !important; }
-.navigation-list-link:hover, .navigation-list-link:focus { background-color: var(--accent) !important; color: #fff !important; box-shadow: none !important; outline: none !important; }
-.navigation-list-link.active { background-color: var(--accent2) !important; color: #fff !important; font-weight: 600 !important; }
-.navigation-list-item:hover > .navigation-list-link { background-color: var(--accent) !important; color: #fff !important; }
+.navigation-list-link { color: var(--text) !important; border-radius: 0 !important; transition: all 0.1s !important; padding: 4px 8px !important; display: block !important; background: transparent !important; background-image: none !important; }
+.navigation-list-link:hover, .navigation-list-link:focus { background: var(--accent) !important; background-image: none !important; color: #fff !important; box-shadow: none !important; outline: none !important; }
+.navigation-list-link.active { background: var(--accent2) !important; background-image: none !important; color: #fff !important; font-weight: 600 !important; }
+.navigation-list-item:hover > .navigation-list-link { background: var(--accent) !important; background-image: none !important; color: #fff !important; }
+.navigation-list-link::before, .navigation-list-link::after { display: none !important; }
 
 .main-content { background-color: var(--bg) !important; }
 .main-content h1 { color: var(--h1-color) !important; border-bottom: 3px solid var(--h1-color); padding-bottom: 6px; }
@@ -190,7 +191,7 @@ body { background-color: var(--bg) !important; color: var(--text) !important; }
 .main-content a { color: var(--link) !important; transition: color 0.15s; }
 .main-content a:hover { color: var(--link-hover) !important; }
 .main-content em { color: var(--em-color); }
-.main-content strong { color: var(--accent); font-weight: 700; }
+.main-content strong { color: var(--h2-color); font-weight: 700; }
 .main-content blockquote { background: var(--quote-bg) !important; border-left: 4px solid var(--quote-border) !important; color: var(--text) !important; padding: 12px 16px; border-radius: 0 6px 6px 0; }
 .main-content hr { border: none; border-top: 2px solid var(--hr-color); }
 .main-content .footnote, .main-content sup a { color: var(--fn-color) !important; font-weight: 600; }
