@@ -35,6 +35,7 @@ body.font-opendyslexic { font-size: 1rem; }
   font-size: 1.25rem !important;
   letter-spacing: 0.04em !important;
   word-spacing: 0.3em !important;
+    padding: 2px 6px !important;
 }
 .site-title a:hover { background: var(--h3-color) !important; color: #fff !important; border-radius: 3px; padding: 2px 6px; }
 .site-title a:active { background: var(--h4-color) !important; color: #fff !important; }
@@ -69,7 +70,7 @@ body {
   --page-marker-bg: #e4f4f6;
   --hr-color: #d0d4dc;
   --fn-color: #b030a0;
-  --strong-color: #1a1a2e;
+  --strong-color: #4a5888;
   --hover-bg: #dce8f8;
   --hover-text: #2070c0;
   --bar-bg: #eef0f4;
@@ -137,7 +138,7 @@ body.theme-cb-light {
   --page-marker-bg: #e0eef8;
   --hr-color: #d0d4dc;
   --fn-color: #CC79A7;
-  --strong-color: #1a1a2e;
+  --strong-color: #0072B2;
   --hover-bg: #d8eef8;
   --hover-text: #0072B2;
   --bar-bg: #eef0f4;
@@ -188,7 +189,8 @@ body { background-color: var(--bg) !important; color: var(--text) !important; }
 .nav-list-link { color: var(--text) !important; border-radius: 3px !important; transition: all 0.15s !important; padding: 2px 7px !important; display: block !important; background: transparent !important; background-image: none !important; margin-bottom: 2px !important; border: 1px solid transparent !important; }
 .nav-list-link:hover, .nav-list-link:focus { background: color-mix(in srgb, var(--accent) 20%, transparent) !important; background-image: none !important; color: var(--accent) !important; box-shadow: none !important; outline: none !important; border: 1px solid var(--accent) !important; }
 .nav-list-link.active { background: color-mix(in srgb, var(--accent2) 20%, transparent) !important; background-image: none !important; color: var(--accent2) !important; font-weight: 600 !important; border: 1px solid var(--accent2) !important; }
-.nav-list-item:hover > .nav-list-link { background: color-mix(in srgb, var(--accent) 20%, transparent) !important; background-image: none !important; color: var(--accent) !important; border: 1px solid var(--accent) !important; }
+.nav-list-item.active > .nav-list-link { background: transparent !important; background-image: none !important; color: var(--text-muted) !important; font-weight: 400 !important; border: 1px solid transparent !important; }
+.nav-list-item.active > .nav-list-link:hover { background: color-mix(in srgb, var(--accent) 20%, transparent) !important; color: var(--accent) !important; border: 1px solid var(--accent) !important; }
 .nav-list-link::before, .nav-list-link::after { display: none !important; }
 
 .nav-list-expander { background: transparent !important; background-image: none !important; border: none !important; color: var(--text-muted) !important; padding: 4px !important; }
