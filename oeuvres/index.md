@@ -10,7 +10,7 @@ has_children: true
 
 | Œuvre | Éd. | Source | Statut |
 |-------|-----|--------|--------|
-| [Premier Essai — *Traité de logique générale et de logique formelle*](premier-essai) | 2e, 1875 | [Google Books](https://books.google.com/books?id=exsoAAAAYAAJ) | En cours (t. 1 complet) |
+| [Premier Essai — *Traité de logique générale et de logique formelle*](premier-essai) | 2e, 1875 | [Google Books](https://books.google.fr/books?id=LEZTAAAAcAAJ) | En cours (t. 1 complet) |
 | Second Essai — *Traité de psychologie rationnelle* | 2e, 1875 | [Gallica](https://gallica.bnf.fr/ark:/12148/bd6t5935373d) | À faire |
 | Troisième Essai — *Les Principes de la nature* | 2e, 1892 | [Google Books](https://books.google.com/books?id=yRRFnQSzIoQC) | À faire |
 | Quatrième Essai — *Introduction à la philosophie analytique de l'histoire* | 1ère, 1864 | [Google Books](https://books.google.com/books?id=5jwRAAAAYAAJ) | À faire |
