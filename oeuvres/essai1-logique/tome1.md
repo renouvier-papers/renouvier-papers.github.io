@@ -7,7 +7,7 @@ nav_order: 1
 
 > Charles Renouvier, *Essais de critique générale. Premier Essai. Traité de logique générale et de logique formelle*, 2e édition, Paris, Au Bureau de la Critique philosophique, 1875, tome 1, p. V-448.
 >
-> Source principale : Google Books. Voir aussi : [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k75222g).
+> Source principale : [Google Books](https://books.google.fr/books?id=5idiAAAAcAAJ).
 
 ---
 
