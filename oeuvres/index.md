@@ -8,7 +8,7 @@ has_children: true
 
 ## Essais de critique générale
 
-Charles Renouvier publie entre 1854 et 1864 quatre *Essais de critique générale*, qu'il réédite ensuite (à l'exception du quatrième, qui reparaît sous un titre légèrement différent et hors du cycle des *Essais*) entre 1875 et 1892.
+Charles Renouvier publie entre 1854 et 1864 quatre *Essais de critique générale*, qu'il réédite ensuite (à l'exception du quatrième, qui reparaît hors du cycle des *Essais*) entre 1875 et 1892.
 
 | Œuvre | Édition de référence | Tomes | Statut |
 | --- | --- | --- | --- |
