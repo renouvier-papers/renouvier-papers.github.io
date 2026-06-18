@@ -12,8 +12,8 @@ Charles Renouvier publie entre 1854 et 1864 quatre *Essais de critique général
 
 | Œuvre | Édition de référence | Tomes | Statut |
 | --- | --- | --- | --- |
-| [Premier Essai — *Traité de logique générale et de logique formelle*](premier-essai) | 2e éd., 1875 | 3 | En cours |
-| Second Essai — *Traité de psychologie rationnelle* | 2e éd., 1875 | 3 | À faire |
+| [Premier Essai — *Traité de logique générale et de logique formelle*](premier-essai) | 2e éd., 1875 | 3 | ✅ Complet |
+| [Second Essai — *Traité de psychologie rationnelle*](deuxieme-essai) | 2e éd., 1875 | 3 | ⏳ En cours |
 | Troisième Essai — *Les Principes de la nature* | 2e éd., 1892 | 2 | À faire |
 | Quatrième Essai — *Introduction à la philosophie analytique de l'histoire* | 1ère éd., 1864 | 1 | À faire |
 
