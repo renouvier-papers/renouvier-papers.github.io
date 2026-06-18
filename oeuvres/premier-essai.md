@@ -14,5 +14,5 @@ has_children: true
 | Tome | Pages | Source | Statut |
 | --- | --- | --- | --- |
 | [Tome 1](essai1-logique/tome1) | V-448 | [Google Books](https://books.google.fr/books?id=5idiAAAAcAAJ) | ✅ Complet |
-| Tome 2 |  | [Google Books](https://books.google.fr/books?id=KPiNrKRY0lAC) | À faire |
+| [Tome 2](essai1-logique/tome2) | 1-516 | [Google Books](https://books.google.fr/books?id=KPiNrKRY0lAC) | ✅ Complet |
 | Tome 3 |  | [Google Books](https://books.google.fr/books?id=Kf8YAAAAMAAJ) | À faire |
