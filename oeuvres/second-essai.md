@@ -1,5 +1,5 @@
 ---
-title: "Second Essai — Psychologie rationnelle"
+title: "Second Essai — Psychologie"
 parent: Œuvres
 nav_order: 2
 has_children: true
