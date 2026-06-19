@@ -1,6 +1,6 @@
 ---
 title: "Tome 1"
-parent: "Second Essai — Psychologie rationnelle"
+parent: "Second Essai — Psychologie"
 grand_parent: Œuvres
 nav_order: 1
 ---
