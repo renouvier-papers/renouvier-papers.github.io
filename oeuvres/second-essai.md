@@ -14,5 +14,5 @@ has_children: true
 | Tome | Pages | Source | Statut |
 | --- | --- | --- | --- |
 | [Tome 1](essai2-psychologie/tome1) | 1-417 | Google Books | ✅ Complet |
-| Tome 2 |  | Google Books | À faire |
-| Tome 3 |  | Google Books | À faire |
+| [Tome 2](essai2-psychologie/tome2) | 1-422 | Google Books | ✅ Complet |
+| [Tome 3](essai2-psychologie/tome3) | 1-366 | Gallica / BnF | ✅ Complet |
