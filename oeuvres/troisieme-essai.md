@@ -11,5 +11,5 @@ has_children: true
 
 | Tome | Pages | Source | Statut |
 | --- | --- | --- | --- |
-| Tome 1 |  | Google Books | À faire |
-| Tome 2 |  | Google Books | À faire |
+| [Tome 1](essai3-principes/tome1) | I-XCVIII, 1-300 | Google Books | ✅ Complet |
+| [Tome 2](essai3-principes/tome2) | 1-408 | Google Books | ✅ Complet |
