@@ -11,7 +11,8 @@ has_children: true
 
 | Tome | Pages | Source | Statut |
 | --- | --- | --- | --- |
-| Tome 1 |  | Google Books | À faire |
-| Tome 2 |  | Google Books | À faire |
-| Tome 3 |  | Google Books | À faire |
-| Tome 4 |  | Google Books | À faire |
+| [Tome 1](philosophie-analytique/tome1) | 1-579 | Gallica / BnF | ✅ Complet |
+| [Tome 2](philosophie-analytique/tome2) | 1-682 | Gallica / BnF | ✅ Complet |
+| Tome 3 |  | — | À faire |
+| Tome 4 |  | — | À faire |
+
