@@ -7,7 +7,7 @@ nav_order: 2
 
 > Charles Renouvier, *Philosophie analytique de l'histoire : les idées, les religions, les systèmes*, Paris, Ernest Leroux, 1897, tome second.
 >
-> Source : Gallica / Bibliothèque nationale de France (OCR par A. Saunier).
+> Source : Gallica / Bibliothèque nationale de France.
 
 ---
 
