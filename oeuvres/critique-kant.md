@@ -424,9 +424,11 @@ Le second étage de la contradiction est le sujet de la théorie que Kant appell
 
 Le troisième éloge de la contradiction résulte du refus que fait Kant de se soumettre au sacrifice du monde phénoménal après l'avoir accompli de son mieux : « La simple conscience, mais empiriquement déterminée de ma propre existence, prouve l'existence hors de moi des objets de l'espace. » Par ce *dilettante*, — c'est le mot qu'il lui donné pour frapper l'attention, dans la seconde édition de la *Critique de la Raison pure*, Kant affirme, au profit de l'intuition sensible, son principe de n'accepter que l'intuition pour preuve de l'existence réelle des objets. Mais ce fut de sa part une grande équivoque, comme nous le montrerons tout à l'heure, et une contradiction en égard à sa constante déclaration que tout ce qui est dans l'espace est en nous comme l'espace lui-même, lieu de nos représentations.
 
-Schopenhauer résout, au moins logiquement, la triple contradiction de la doctrine, en identifiant avec l'inconditionné le monde phénoménal regardé comme l'état de déchéance de la volonté inconsciente, descen-due de l'acte par dem [^p97-1] l'intellect et de la causalité.[p. 98]### Chapitre VII — La thèse kantienne du monde externe — L'idéalisme transcendantal de Kant.
+Schopenhauer résout, au moins logiquement, la triple contradiction de la doctrine, en identifiant avec l'inconditionné le monde phénoménal regardé comme l'état de déchéance de la volonté inconsciente, descen-due de l'acte pur dans l'ordre de l'intellect et de la causalité.
 
-Prenons quelques textes entre plusieurs qu'on nos motion significatifs et nets, parmi ceux qui, dans la *Critique de la Raison pure*, définissent la réalité de l'objet externe en tant que certifiée pour notre connaissance. Nous les empruntons à la première édition qui nous offre sur le sujet le développement le plus complet et systématique, quoique la seconde édition renferme assez de passages équivalents. Ils nous montreront cette réalité affirmée, affirmée en quel sens l'on même temps placée au-dessus du lecteur, dans les *formes* mêmes où elle semblait affirmée. Citons en premier lieu la formule que nous dirons en être la *négation*. Elle énonce la doctrine indubitable de Kant, l'idéalisme transcendantal souligné par son auteur :
+### Chapitre VII — La thèse kantienne du monde externe — L'idéalisme transcendantal de Kant.
+
+[p. 98] Prenons quelques textes entre plusieurs qu'on nos motion significatifs et nets, parmi ceux qui, dans la *Critique de la Raison pure*, définissent la réalité de l'objet externe en tant que certifiée pour notre connaissance. Nous les empruntons à la première édition qui nous offre sur le sujet le développement le plus complet et systématique, quoique la seconde édition renferme assez de passages équivalents. Ils nous montreront cette réalité affirmée, affirmée en quel sens l'on même temps placée au-dessus du lecteur, dans les *formes* mêmes où elle semblait affirmée. Citons en premier lieu la formule que nous dirons en être la *négation*. Elle énonce la doctrine indubitable de Kant, l'idéalisme transcendantal souligné par son auteur :
 
 « *L'idéalisme transcendantal* enseigne que tous les phénomènes sont des *représentations* seulement, non des choses en elles-mêmes, et que l'espace et le temps sont seulement des *formes sensibles* de notre intuition non des déterminations ou des conditions données des objets comme en eux-mêmes. » Et encore :
 
@@ -783,42 +785,11 @@ On voit que Descartes assimile, se fondant sur le principe de causalité, la con
 
 « Lorsque nous faisons réflexion sur les idées qui sont en nous, il est aisé d'apercevoir qu'il n'y a pas[p. 197]beaucoup de différence entre elles, en tant que nous les considérons simplement comme les dépendances de notre âme ou de notre pensée, mais qu'il y en a beaucoup en tant que l'une représente une chose, et l'autre une autre ; *et même que les premières sont d'autant plus parfaites que ce qu'elles représentent de leur objet a plus de perfection.* Car c'est ainsi que lorsqu'on nous dit que quelqu'un a l'idée d'une machine où il y a beaucoup d'artifice, nous avons raison de nous enquérir comment il a pu avoir cette idée ; à savoir s'il a eu quelque part une telle machine faite par un autre, ou s'il a appris la science des mécaniques, ou s'il est avantagé d'une telle vivacité d'esprit, que de lui-même il ait pu l'inventer sans avoir rien vu de semblable ailleurs, à cause que tout l'artifice qui est représenté dans l'idée qu'a cet homme, ainsi que dans un tableau, doit être en sa première et principale cause, non pas seulement par imitation, mais en effet de la même sorte, ou d'une façon encore plus éminente qu'il n'est représenté. De même, pour ce que nous trouvons en nous l'idée d'un dieu ou d'un être tout parfait, nous pouvons rechercher la cause qui fait que cette idée est en nous... Comme nous savons que nous sommes sujets à beaucoup de défauts et que nous ne possédons pas ces extrêmes perfections dont nous avons l'idée, nous devons conclure qu'elles sont en quelque nature qui est différente de la nôtre, et en effet très parfaite, c'est-à-dire qui est Dieu[^p197-1].
 
-C'est bien là la preuve ontologique que ressortit cette démonstration de l'existence de Dieu de Descartes (qui[p. 198]en a donné et distingué plusieurs), et non à la preuve
-cosmologique, quelque l'argument soit tiré de la cause
-de notre idée, et non pas de l'idée toute seule et de ce
-qu'elle signifie. La raison de la classer ainsi, c'est que
-le principe de *perfection* ou *réalité*, postulé, non démon-
-tré, est le commun fondement de la preuve, soit qu'on
-l'invoque comme cause dont l'esprit qui en sent la force,
-soit qu'on le pose par une affirmation directe, puisque,
-dans ce dernier cas, on reconnaît implicitement à la pré-
-tendue déduction logique d'Anselme, au fond remplacée
-par le postulat.
+C'est bien là la preuve ontologique que ressortit cette démonstration de l'existence de Dieu de Descartes (qui[p. 198]en a donné et distingué plusieurs), et non à la preuve cosmologique, quelque l'argument soit tiré de la cause de notre idée, et non pas de l'idée toute seule et de ce qu'elle signifie. La raison de la classer ainsi, c'est que le principe de *perfection* ou *réalité*, postulé, non démontré, est le commun fondement de la preuve, soit qu'on l'invoque comme cause dont l'esprit qui en sent la force, soit qu'on le pose par une affirmation directe, puisque, dans ce dernier cas, on reconnaît implicitement à la pré-tendue déduction logique d'Anselme, au fond remplacée par le postulat.
 
-Leibniz qui n'admettait que *deux grands principes* :
-celui de la *contradiction* et celui de la *raison suffisante*
-(*Monadologie*, art. 31-32) et ne recourait à rien ni à des
-postulats, s'est au fond beaucoup plus que Descartes
-attaché à la logique de l'identité et de la pure analyse,
-là où il s'en acquittait pas la raison suffisante. Aussi cré-
-ait-il pouvoir conserver intact le raisonnement d'Anselme
-— et de Descartes, car il ne remarque pas que Des-
-cartes l'avait corrigé en couvrant le vice capital du
-syllogisme, mais il lui chercha un autre défaut, auquel
-il attacha une importance exagérée, pour ne rien dire
-de plus. Cette erreur très certaine de Leibniz sur un
-pur point de logique eût pu nous être une consolation du
-mérite de ce célèbre argument comme capable de faire
-illus-on sur la correction par l'éclat de la notion en
-elle-même.
+Leibniz qui n'admettait que *deux grands principes* : celui de la *contradiction* et celui de la *raison suffisante* (*Monadologie*, art. 31-32) et ne recourait à rien ni à des postulats, s'est au fond beaucoup plus que Descartes attaché à la logique de l'identité et de la pure analyse, là où il s'en acquittait pas la raison suffisante. Aussi cré- ait-il pouvoir conserver intact le raisonnement d'Anselme — et de Descartes, car il ne remarque pas que Descartes l'avait corrigé en couvrant le vice capital du syllogisme, mais il lui chercha un autre défaut, auquel il attacha une importance exagérée, pour ne rien dire de plus. Cette erreur très certaine de Leibniz sur un pur point de logique eût pu nous être une consolation du mérite de ce célèbre argument comme capable de faire illus-on sur la correction par l'éclat de la notion en elle-même.
 
-« Voici à p. n po[^p198-1], écrit Leibniz, la force de son ar-
-gument (de l'argument d'Anselme) : Dieu est le plus
-grand, ou, comme parle Descartes, le plus parfait des
-êtres, ou bien c'est un être d'une grandeur et d'une
-perfection suprême, qui en enveloppe tous les degrés.
-C'est là la notion de Dieu. Voici maintenant comment
-l'existence suit de cette notion. C'est quelque chose de[p. 199]plus d'exister que de ne pas exister, ou bien l'existence ajoute un degré à la grandeur ou à la perfection, et, comme l'enseigne M. Descartes, l'existence est elle-même une perfection. Donc ce degré de grandeur et de perfection, ou bien cette perfection qui consiste dans l'existence, ne dans cet être suprême tout grand, tout parfait, car autrement quelque degré lui manquerait, contra sa notion. Et, par conséquent, cet Être suprême existe. Les scolastiques, sans excepter même leur docteur angélique, ont méprisé cet argument et l'ont fait passer pour un paralogisme ; on a eu là ont eu grand tort, et M. Descartes, qui avait étudié assez longtemps la philosophie au collège des Jésuites de la Flèche a eu grande raison de le rétablir. Ce n'est pas un paralogisme, mais c'est une démonstration imparfaite, qui suppose quelque chose qu'il faille encore prouver pour la rendre d'une évidence mathématique ; c'est qu'on suppose tacitement que cette idée de l'Être tout grand, ou tout parfait, est possible et n'implique point de contradiction. Et c'est déjà quelque chose que par cette remarque on prouve que *Supposé que Dieu soit possible, il existe*, et qu'il est le privilège de la seule divinité. On a le droit de présumer la possibilité de tout être, et surtout celle de Dieu, jusqu'à ce que quelqu'un prouve le contraire ; de sorte que cet argument métaphysique donne déjà une conclusion morale démonstrative qui porte que, suivant l'état présent de nos connaissances, il faut juger que Dieu existe et agir conformément à cela.[^p199-1]
+« Voici à peu près, écrit Leibniz, la force de son argument (de l'argument d'Anselme) : Dieu est le plus grand, ou, comme parle Descartes, le plus parfait des êtres, ou bien c'est un être d'une grandeur et d'une perfection suprême, qui en enveloppe tous les degrés. C'est là la notion de Dieu. Voici maintenant comment l'existence suit de cette notion. C'est quelque chose de[p. 199]plus d'exister que de ne pas exister, ou bien l'existence ajoute un degré à la grandeur ou à la perfection, et, comme l'enseigne M. Descartes, l'existence est elle-même une perfection. Donc ce degré de grandeur et de perfection, ou bien cette perfection qui consiste dans l'existence, ne dans cet être suprême tout grand, tout parfait, car autrement quelque degré lui manquerait, contra sa notion. Et, par conséquent, cet Être suprême existe. Les scolastiques, sans excepter même leur docteur angélique, ont méprisé cet argument et l'ont fait passer pour un paralogisme ; on a eu là ont eu grand tort, et M. Descartes, qui avait étudié assez longtemps la philosophie au collège des Jésuites de la Flèche a eu grande raison de le rétablir. Ce n'est pas un paralogisme, mais c'est une démonstration imparfaite, qui suppose quelque chose qu'il faille encore prouver pour la rendre d'une évidence mathématique ; c'est qu'on suppose tacitement que cette idée de l'Être tout grand, ou tout parfait, est possible et n'implique point de contradiction. Et c'est déjà quelque chose que par cette remarque on prouve que *Supposé que Dieu soit possible, il existe*, et qu'il est le privilège de la seule divinité. On a le droit de présumer la possibilité de tout être, et surtout celle de Dieu, jusqu'à ce que quelqu'un prouve le contraire ; de sorte que cet argument métaphysique donne déjà une conclusion morale démonstrative qui porte que, suivant l'état présent de nos connaissances, il faut juger que Dieu existe et agir conformément à cela.[^p199-1]
 
 Cette dernière phrase doit paraître un peu bizarre après la prétention démonstrative de ce qui précède. Quoi qu'il en soit, Leibniz aurait eu à répondre à la réfutation de l'argument par Thomas d'Aquin, s'il ne[p. 200]l'avait pas depuis longtemps, peut-être, perdue de vue, au lieu de dire seulement que les scolastiques avaient eu tort de la rejeter. Ensuite, il n'a pas remarqué que Descartes n'avait admis l'argument qu'en l'appuyant sur cette définition (ou postulat, à vrai dire), « que quand nous disons que quelque attribut est contenu *dans la nature*, ou *dans le concept d'une chose*, c'est de même que si nous disions que cet attribut est vrai de cette chose et qu'on peut assurer qu'il est en elle ». Enfin, cette exigence de Leibniz : que la possibilité de l'existence de Dieu soit démontrée pour donner au syllogisme d'Anselme la rigueur qui lui manque se comprend pas bien. L'objection avait été déjà faite à Descartes et Descartes avait répondu[^p200-1]. Elle n'est pas recevable quand il s'agit d'une thèse qui, de sa nature, affirme dans l'esprit l'idée même, l'idée entière de la perception commune chose réelle, et, par conséquent, s'est sujette en cela à aucune contradiction et prétend passer directement ensuite de l'idée réelle à la chose réelle comme certaine. Mais Leibniz, qui avait dit dans ses écrits formulé ce grief contre les démonstrations de Descartes, avait des idées à lui sur les réels et les possibles en leurs rapports à Dieu. Nous les trouverons mieux à leur place en passant à la preuve cosmologique.
 
@@ -1676,7 +1647,7 @@ Spinoza, se faisant disciple de Descartes, au moment où la philosophie était d
 
 L'abandon de la méthode cartésienne, étroitement liée à la forme de l'*Éthique*, et les progrès de l'idéalisme ont donné à la philosophie aprioriste, depuis Kant, une physionomie qui nous déguise l'influence[p. 437]immense exercée par Spinoza sur la pensée et sur la philosophie allemande depuis la chute du Wolffianisme. Mais outre qu'elle est facile à découvrir dans l'histoire des controverses à l'époque de Lessing et de la jeunesse de Kant, et encore après Kant, il y a un fait de spéculation très saillant qui tranche la question : c'est la méthode à laquelle recouraient les illustres disciples de Kant pour placer, à l'origine des phénomènes et comme principe idéal de leur développement, une hypostase, — quoiqu'ils se soient gardés de lui reconnaître ce nom, — afin de conférer à l'Inconditionné de notre être le rang qui manquait pour ce monde, dont il est la condition, pût sortir de lui, comme le monde de l'*Éthique* sort de la définition de Dieu.
 
-Si l'on se voulons pas rappeler, même sommairement, les différentes manières dont ils se sont acquittés de cette tâche, mais seulement remarquer : 1° qu'ils n'ont pas, sans doute, appelé Dieu ce principe premier nécessaire, comme Spinoza, mais qu'ils lui ont attribué la fonction que Spinoza attribue à Dieu dans sa doctrine ; et le public, en effet, les a regardés comme des panthéistes ; s'ils ont imité Spinoza en imaginant des systèmes d'évolution, mais moins clairs que le sien, du principe qu'ils adoptaient pour la production des phénomènes, on y ajoutait des fins générales de l'histoire que Spinoza, plus préoccupé du salut universel de l'âme, avait dédaignées ; 2° ils ont admis dans toute la force (Fichte lui excepté Fichte[^p407-1]) la détermination absolue des phénomènes, et nié comme Spinoza les fins individuelles des personnes et la personnalité même ; Au total, tout cela, c'est le spinozisme vu largement, et, avant tout, dans son opposition radicale à la méthode qui prend dans l'individu le principe du réel, et dans la conscience et les lois de la pensée le point de départ de la spéculation sur le fond de la nature.
+Si l'on se voulons pas rappeler, même sommairement, les différentes manières dont ils se sont acquittés de cette tâche, mais seulement remarquer : 1° qu'ils n'ont pas, sans doute, appelé Dieu ce principe premier nécessaire, comme Spinoza, mais qu'ils lui ont attribué la fonction que Spinoza attribue à Dieu dans sa doctrine ; et le public, en effet, les a regardés comme des panthéistes ; 2° ils ont imité Spinoza en imaginant des systèmes d'évolution, mais moins clairs que le sien, du principe qu'ils adoptaient pour la production des phénomènes, en y ajoutant des fins générales de l'histoire que Spinoza, plus préoccupé du salut universel de l'âme, avait dédaignées ; 3° ils ont admis dans toute la force (doit-on bien excepter Fichte ?) le déterminisme absolu des phénomènes, et nié comme Spinoza les fins individuelles des personnes et la personnalité divine. Au total, tout cela, c'est le spinozisme vu largement, et, avant tout, dans son opposition radicale à la méthode qui prend dans l'individu le principe du réel, et dans la conscience et les lois de la pensée le point de départ de la spéculation sur le fond de la nature.
 
 [p. 438] Un penseur qui assista en critique éveillé et inquiet au mouvement du kantisme en Allemagne, et qui pénétrait sous le criticisme de façade du réformateur, le dogmatisme métaphysique et la subordination de tous les jugements à des vues panthéistes, pouvait dire, en constatant la puissance d'entraînement de ces admirateurs pour les grands esprits spéculatifs, *que toute philosophie est un panthéisme latent.* Ce même philosophe, qui ne fut pas dupe de la forme idéaliste, subjective, donnée par le premier disciple de Kant à un système qui se trouve être, en son dernier fond, équivalent au panthéisme de forme objective de Spinoza, remarqua que le panthéisme objectif et le panthéisme subjectif sont la même doctrine, écrits sur deux faces opposées d'un cube : On n'a, disait-il, qu'à *retourner le dé.* Cette vérité profonde a été confirmée depuis, si ce n'est par des thèses panthéistes formellement énoncées, au moins par des tendances visibles et par des conclusions à tirer, suffisamment indiquées dans les doctrines de ceux des psychologues, empiristes et idéalistes purs, qui ont en le monde phénoménal sous l'aspect d'une somme de sensations associées, tant réelles que possibles. Sensations ou objets qui sont des sujets et des causes de sensations, que ce soient les unes ou que ce soient les autres qui forment la source absolue et l'enchaînement universel des phénomènes, c'est la même chose avec un changement de point de vue qui s'explique par la nécessité où nous met la forme de notre conscience de distinguer le sujet de l'objet pour la connaissance. Il reste a savoir seulement, après qu'on a constitué, de l'une et de ces manières, un seul équivalent, un objet correspondant à celle des trois *Idées de la Raison* que Kant a appelée *l'Idée du monde,* quelle relation, positive ou négative, il va permettre d'en affirmer avec les deux autres : *l'Idée de l'Âme* et *l'Idée de Dieu.*
 
@@ -1830,7 +1801,6 @@ Cette méthode et cette doctrine sont assez élaborées de nos jours pour se cro
 
 [^p270-1]: Voyez ci-dessus, chap. IV et V.
 
-
 [^p280-1]: *Analytique transcendantale*, l. I, sect. 3, § 10.
 
 [^p283-1]: *Analitique transcendantale*, l. 2, chap. II, sect. 3 (*Déduction transcendantale des purs concepts de l'entendement*, art. 26 et 27). — Cette *deuxième section* est une addition importante faite par Kant, dans la seconde édition de la *Critique*, en vue précisément de préparer les autres éditions futures qui y trouvent plus à lire, et qui sont revues dans un esprit de relations explicites. L'argumentation est singulièrement plus serrée dans la première édition.
@@ -1844,9 +1814,6 @@ Cette méthode et cette doctrine sont assez élaborées de nos jours pour se cro
 [^p302-1]: *Analytique transcendantale*, I, II, chap. ii, sect. 4.
 
 [^p1]: *Critique de la Raison pure*, *Introduction*, « Addition faite dans la seconde édition » et *ibid.*, *Analytique des principes*, *Axiomes de l'intuition* (voir les deux éditions).
-
-
-
 
 [^p357-1]: *Analytique transcendantale*, l. II, chap. II, sect. 3, n° 4 ; *Les postulats de la pensée empirique en général*.
 
@@ -1874,11 +1841,7 @@ Cette méthode et cette doctrine sont assez élaborées de nos jours pour se cro
 
 [^p432-1]: Basé sur la *métaphysique d'Aristote*, par Félix Ravaisson, t. I, p. 581.
 
-[^p407-1]: sic — la mention de Fichte paraît redoublée dans le texte original ; passage douteux.
-
 [^p47-1]: *Critique de la Raison pure*, Remarque sur la deuxième antinomie.
-
-[^p97-1]: [Note illisible sur l'image — le bas de page est masqué par un cachet de bibliothèque.]
 
 [^p115-1]: *Dialectique transcendantale*, t. II, chap. III, sect. 1 et 2.
 
@@ -1891,8 +1854,6 @@ Cette méthode et cette doctrine sont assez élaborées de nos jours pour se cro
 [^p176-1]: *Critique du jugement*, t. II, p. 85.
 
 [^p192-1]: *Pars prior, quaest. II, art. 1.*
-
-[^p198-1]: [Note présente sur l'image en bas de page mais illisible à cette résolution — à vérifier sur l'original.]
 
 [^p199-1]: Leibniz, *Nouveaux essais sur l'entendement*, l. IV, chap. 9.
 
