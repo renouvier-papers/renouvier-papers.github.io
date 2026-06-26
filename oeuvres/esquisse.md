@@ -1,5 +1,5 @@
 ---
-title: "Esquisse d'une classification systématique des doctrines philosophiques"
+title: "Esquisse — Classification des doctrines philosophiques"
 parent: Œuvres
 nav_order: 5
 has_children: true
