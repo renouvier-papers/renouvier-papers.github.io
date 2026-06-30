@@ -5,7 +5,7 @@ description: Édition numérique des œuvres de Charles Renouvier (1815-1903)
 
 color_scheme: light
 
-search_enabled: true
+search_enabled: false
 search.button: true
 
 back_to_top: true
