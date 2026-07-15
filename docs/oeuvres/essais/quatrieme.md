@@ -3128,7 +3128,7 @@ Quelle que soit l'antique mythologie des révélations, sur laquelle des recherc
 J'ai exposé ce qu'il est possible de recueillir de plus général sur l'état religieux des Sémites polythéistes, en [p. 681] remontant aux éléments antiques autant que possible, et élaguant la multitude des petits faits et des rapprochements douteux, matière de discussions interminables. Pour me résumer, j'y remarque : 1° des notions universelles de divinité, à la fois anthropomorphiques et abstraites, qui semblent exclure le symbolisme, mais qui le permettent par une voie et avec des procédés particuliers ; 2° des déterminations divines, les unes célestes, les autres terrestres, d'où naissent, d'un côté, la révélation des arts et des sciences et l'origine de la civilisation, et, de l'autre, cette espèce de Providence bien ou malfaisante admise dans l'astrologie ; 3° un développement mythologique peut-être plus libre et, pour ainsi dire, plus héroïque, chez un peuple entreprenant tel que les Phéniciens ; 4° un effort spéculatif qui se traduit par la composition des cosmogonies, dont je traiterai ailleurs ; 5° la tendance à renforcer l'idée générale de Dieu et du monde dans une certaine Nature, principalement femelle, mais à attributs actifs, qui engendre toutes choses, et aussi qui les dévore. Cette conception, quoique les Aryens de l'Inde l'aient trouvée en suivant leur propre voie, appartient essentiellement aux Sémites. C'est par eux surtout qu'elle fut répandue dans toute l'antiquité, avec les cultes du plaisir et de la terreur qui y causèrent un tel ravage moral. C'est d'elle que tirent leur sens et la prostitution sacrée et les sacrifices d'enfants, deux usages qui se trouvent dans tous les pays sémitiques, à Babylone, en Phénicie, chez les tribus kananéennes et à Carthage.
 
 Un passage curieux des fragments de Sanchoniathon, [p. 682] ou Samemroum (et son frère Ouso probablement) sont
-donnés comme ayant prostitué leurs mères à tous venants [^p682-1], fait manifestement allusion à cette coutume
+donnés comme ayant prostitué leurs mères à tous venants , fait manifestement allusion à cette coutume
 des Sémites, rapportée par Hérodote entre autres anciens, constatée également par la Bible, et que Voltaire
 n'aurait pas dû nier, celle d'offrir en manière de sacrifice, dans un temple, la virginité de toute fille nubile au
 premier homme qui se rencontrait. Reste seulement à
@@ -3702,7 +3702,6 @@ Il est arrivé deux fois dans le monde et sur deux grands théâtres, quoique l'
 [^p666-1]: *Fragments*, éd. Orelli, p. 24-32.
 
 
-[^p682-1]: desquels] Lecture incertaine : la syntaxe laisse attendre « dont » ou « desquels » ; le mot est peut-être abrégé dans l'original.
 
 [^p674-1]: Voir Renan, *Mémoire sur Sanchoniathon*, p. 251, et Maury, *Religions de la Grèce*, m, 211.
 

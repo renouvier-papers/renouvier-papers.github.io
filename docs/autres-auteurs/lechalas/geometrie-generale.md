@@ -596,15 +596,11 @@ Les propriétés des hypersphères sont identiquement les mêmes que celles du p
 
 [p. 44]
 
-⛔ **PAGE 44 — SCAN TROP PÂLE EN HAUT, À RECOPIER/VÉRIFIER SUR L'ORIGINAL** (le haut de page est délavé ; transcription automatique très incertaine — les [?] signalent les passages illisibles). Bas de page lisible : « …la surface d'intersection est le plan de l'espace de plus forte courbure. »
+*(Les deux premiers paragraphes de la page 44 sont trop délavés sur le scan disponible pour une transcription fidèle — à compléter depuis un exemplaire plus net.)*
 
-la même hypersphère, et que le caractère de retournabilité [?] se retrouve [?] dans ces propriétés. Si l'on considère, en outre, l'espace lobatchefskien à courbure [?] nulle [?] de la limitation, cet espace [?] présente des [?] fonctions [?] qui [?] évoquent [?] dans le voisinage [?] à courbure nulle, c'est-à-dire dans le voisinage d'une [?] limitation pour geodesique [?].
+Ces deux espaces isogènes inclus dans un même espace à quatre dimensions lobatchefskien se coupent deux à deux suivant une surface isogène quelconque, pourvu que sa courbure soit algébriquement supérieure ou au moins égale à celle de l'espace donné de plus forte courbure.
 
-*Je suis conduit à regarder ces propriétés du plan euclidi[en] dans les envi-[ronnements] lobachevskiens [?], le même espace isogène à courbure nulle, et s'y joue [?] comme les plans remarll[i]ens [?] à l'espace à deu[x] [?] dimensions [?], dans l'espace lobatchefskien à une courbure pos[itive] égale à celle [?] de la [?] grande sphère.*
-
-*Ces deux espaces isogènes inclus dans un même espace à quatre dimensions lobatchefskien se coupent deux à deux suivant une surface isogène quelconque, pourvu que sa courbure soit algébriquement supérieure ou au moins égale à celle de l'espace donné de plus forte courbure.*
-
-**Dans le cas de l'égalité, la surface d'intersection est le plan de l'espace de plus forte courbure.**[^p44-1]
+Dans le cas de l'égalité, la surface d'intersection est le plan de l'espace de plus forte courbure.[^p44-1]
 
 [p. 45]
 
