@@ -13,6 +13,6 @@ has_children: true
 | --- | --- | --- | --- |
 | [Tome 1](philosophie-analytique/tome1) | 1-579 | Gallica / BnF | ✅ Complet |
 | [Tome 2](philosophie-analytique/tome2) | 1-682 | Gallica / BnF | ✅ Complet |
-| Tome 3 |  | — | À faire |
-| Tome 4 |  | — | À faire |
+| [Tome 3](philosophie-analytique/tome3) | 1-667 | Gallica / BnF | ✅ Complet |
+| [Tome 4](philosophie-analytique/tome4) | 1-782 | Gallica / BnF | ✅ Complet |
 
