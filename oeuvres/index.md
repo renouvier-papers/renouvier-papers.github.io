@@ -23,14 +23,14 @@ Certaines œuvres sont déjà transcrites ailleurs en ligne. Le lien figure alor
 
 | Œuvre | Date | Tomes | Statut |
 | --- | --- | --- | --- |
-| *Manuel de philosophie moderne* | 1842 | 1 | À faire |
+| [*Manuel de philosophie moderne*](manuel-philosophie-moderne) | 1842 | 1 | ✅ Complet |
 | *Manuel de philosophie ancienne* | 1844 | 2 | À faire |
-| *Manuel républicain de l'homme et du citoyen* | 1848 | 1 | À faire |
+| [*Manuel républicain de l'homme et du citoyen*](manuel-republicain) | 1848 | 1 | ✅ Complet |
 | *Science de la morale* | 1869 | 2 | [Transcrit (Michel Serres)](https://www.corpusphilo-michelserres.fr/renouvier-science-morale.html) |
 | *Uchronie* | 1876 | 1 | [Transcrit (Michel Serres)](https://www.corpusphilo-michelserres.fr/renouvier-uchronie.html) |
 | [*Esquisse d'une classification systématique des doctrines philosophiques*](esquisse) | 1885-1886 | 2 | ✅ Complet |
-| *Introduction à la philosophie analytique de l'histoire* (nouv. éd.) | 1896 | 1 | À faire |
-| *Philosophie analytique de l'histoire : les idées, les religions, les systèmes* | 1896-1897 | 4 | ⏳ En cours |
+| [*Introduction à la philosophie analytique de l'histoire*](introduction-1896) (nouv. éd.) | 1896 | 1 | ✅ Complet |
+| [*Philosophie analytique de l'histoire : les idées, les religions, les systèmes*](philosophie-analytique) | 1896-1897 | 4 | ✅ Complet |
 | *La Nouvelle Monadologie* (avec L. Prat) | 1899 | 1 | [Transcrit (Michel Serres)](https://www.corpusphilo-michelserres.fr/renouvier-nouvelle-monadologie.html) |
 | *Victor Hugo, le philosophe* | 1900 | 1 | À faire |
 | *Les Dilemmes de la métaphysique pure* | 1901 | 1 | [Transcrit (Wikisource)](https://fr.wikisource.org/wiki/Les_Dilemmes_de_la_m%C3%A9taphysique_pure) |
