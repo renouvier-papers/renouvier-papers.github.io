@@ -108,9 +108,10 @@ body.font-opendyslexic, body.font-opendyslexic * { font-family:'OpenDyslexic', s
 
 /* =====================  BARRE LATÉRALE (funky : violet + orange)  ===================== */
 .md-sidebar--primary { background:var(--bg); }
-.md-nav__title { display:none; }                          /* pas de titre de rubrique répété */
-/* en vue bureau, on masque le libellé de l'onglet en tête de sidebar (doublon des onglets) */
+/* EN VUE BUREAU SEULEMENT : masquer le titre de rubrique répété + le libellé d'onglet
+   en tête de sidebar. En mobile, ces éléments sont nécessaires au tiroir de navigation. */
 @media screen and (min-width:76.25em) {
+  .md-nav--primary > .md-nav__title { display:none; }
   .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link { display:none; }
 }
 .md-nav__link:hover { color:var(--nav-hover) !important; }
