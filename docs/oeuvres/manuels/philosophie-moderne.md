@@ -2193,7 +2193,7 @@ Il est temps pour la France de revenir définitivement à la philosophie. À ell
 
 [^p74-1]: Lettres, I, 115, au père Mersenne.
 
-[^p74-2]: Lettres, I, 115, au père Maleud, [illisible].
+[^p74-2]: Lettres, I, 115, au père Mesland, jésuite.
 
 [^p75-1]: Médit. mét., V, 1, 2, 3. — Rép. aux obj. de Gassendi, V, 2, 3, et de Hobbes, obj. V, 11.
 

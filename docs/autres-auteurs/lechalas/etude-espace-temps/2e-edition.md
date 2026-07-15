@@ -215,7 +215,7 @@ Pour étudier les propriétés des systèmes satisfaisant à
 
          1    0    γ(12)  γ(13)  γ(14)  γ(15)
          1   γ(12)   0     γ(23)  γ(24)  γ(25)
-         1   γ(13)  γ(23)    0     1     γ(34)  γ(35) [?]
+         1   γ(13)  γ(23)    0     1     γ(34)  γ(35)
          1   γ(14)  γ(24)  γ(34)    0    γ(45)
          1   γ(15)  γ(25)  γ(35)  γ(45)    0      := 0 (4)
 
@@ -292,7 +292,7 @@ Sans développer la géométrie numérique résultant de ce système qui corresp
 
 Il passe ensuite à l'étude du second déterminant, laquelle se fait de la même manière, mais avec plus de difficultés. On trouve que :
 
-*γ*² (12) = ((1 ± *x*₁² ± *y*₁² ± *z*₁)(1 ± *x*₂² ± *y*₂² ± *z*₂²)) / ((1 ± *x*₁*x*₂ ± *y*₁*y*₂ ± *z*₁*z*₂)²) [?]
+*γ*² (12) = ((1 ± *x*₁² ± *y*₁² ± *z*₁)(1 ± *x*₂² ± *y*₂² ± *z*₂²)) / ((1 ± *x*₁*x*₂ ± *y*₁*y*₂ ± *z*₁*z*₂)²)
 
 et que les équations de la ligne droite sont les mêmes qu'avec le premier déterminant [^p20-1]. La recherche de la
 
@@ -1157,7 +1157,7 @@ sens à la distinction de plusieurs espaces à paramètres de même signe mais d
 
 Nous avons formulé cette réflexion dans une note insérée aux *Annales de la Société scientifique de Bruxelles* (année 1895-96), et M. Mansion a essayé de la réfuter dans le même recueil :
 
-« On peut concevoir, dit-il, des espaces de Riemann et de Lobatchefsky, de divers paramètres de la manière suivante : si l'on connaît *b*, longueur, rapportée à une certaine unité, du côté d'un triangle rectangle isoscèle déterminé, dont on ignore s'il est euclidien, riemannien ou lobatchefskien, on pourra supposer, avant toute mesure, que la valeur *a* de l'hypoténuse à n'importe quelle valeur, égale, inférieure ou supérieure à *b*√2. Cela implique la possibilité de valeurs en nombre infini pour *r* et *l*, mais non la possibilité de comparer des longueurs dans deux espaces différents [?] »
+« On peut concevoir, dit-il, des espaces de Riemann et de Lobatchefsky, de divers paramètres de la manière suivante : si l'on connaît *b*, longueur, rapportée à une certaine unité, du côté d'un triangle rectangle isoscèle déterminé, dont on ignore s'il est euclidien, riemannien ou lobatchefskien, on pourra supposer, avant toute mesure, que la valeur *a* de l'hypoténuse à n'importe quelle valeur, égale, inférieure ou supérieure à *b*√2. Cela implique la possibilité de valeurs en nombre infini pour *r* et *l*, mais non la possibilité de comparer des longueurs dans deux espaces différents »
 
 Cela signifie qu'on conçoit la possibilité d'espaces différents, mais qu'on est dans l'impossibilité de comparer les longueurs qui les caractérisent ; on ne peut donc ramener à une même unité les paramètres des divers espaces, ce qui signifie que la distinction conçue ne peut se traduire dans les formules. C'est, dirons-nous, une aspiration à la quatrième dimension, laquelle seule permet de donner une portée effective à une conception supposant implicitement cette quatrième dimension.
 
@@ -1681,7 +1681,7 @@ L'importance du choix des axes et du mouvement-unité se trouve singulièrement 
 
 Ainsi le choix des axes et du mouvement-unité fait d'après le seul examen cinématique de l'univers, qui avait permis de sauver de façon si heureuse les phénomènes de cet ordre, compte un nouvel et éclatant succès : non seulement il permet de donner une description simple des phénomènes, mais il permet aussi de les enchaîner suivant des lois causales qui s'étendent aussi bien aux phénomènes sublunaires qu'aux phénomènes célestes. C'est la grande gloire que M. Duhem, si sévère à certains égards pour Képler et Galilée, leur reconnaît bien haut : grâce à eux, nous demandons aux hypothèses de la physique de sauver à la fois tous les phénomènes de l'univers.
 
-Il nous reste à examiner quelques conclusions il est permis de tirer des succès de la mécanique au point de vue de la nature de l'espace et du temps, de leur caractère relatif ou absolu. Newton a dit, dans une page vraiment frappante de ses *Principes de la Philosophie naturelle* : Si on fait tourner en rond un vase attaché à une corde jusqu'à ce que la corde, à force d'être torse, devienne en quelque sorte inflexible ; si on met ensuite de l'eau dans ce vase et qu'après avoir laissé prendre à l'eau et au vase l'état de repos, on donne à la corde la liberté de se détortiller, le vase acquerra par ce moyen un mouvement qui se conservera très longtemps : au commence-[p. 166]⛔ **PAGE 164 — À RECOPIER À LA MAIN** (transcription automatique bloquée par le filtre de contenu). Note de bas de page de cette page : « Traduction du Chastelet, Paris, 1759, p. 13. »
+Il nous reste à examiner quelques conclusions il est permis de tirer des succès de la mécanique au point de vue de la nature de l'espace et du temps, de leur caractère relatif ou absolu. Newton a dit, dans une page vraiment frappante de ses *Principes de la Philosophie naturelle* : Si on fait tourner en rond un vase attaché à une corde jusqu'à ce que la corde, à force d'être torse, devienne en quelque sorte inflexible ; si on met ensuite de l'eau dans ce vase et qu'après avoir laissé prendre à l'eau et au vase l'état de repos, on donne à la corde la liberté de se détortiller, le vase acquerra par ce moyen un mouvement qui se conservera très longtemps : au commence-[p. 166]*(Page 164 non transcrite — bloquée à l'OCR automatique ; à recopier depuis l'original. Note de bas de page de cette page : « Traduction du Chastelet, Paris, 1759, p. 13. »)*
 
 [p. 167]
 
@@ -2143,7 +2143,7 @@ Cherchons la valeur de *g*₁ : d'une façon générale, toute accélération *f
 
 *dv*₁ = *λ*₁ *λ* *dv*, *dt*₁ = *dt*/
 
-*d*₁ = *dv*₁ / *dt*₁ = *λ*₁ *λ* [?]
+*d*₁ = *dv*₁ / *dt*₁ = *λ*₁ *λ*
 
 [p. 219]
 
@@ -2275,7 +2275,7 @@ Dans ces conditions, nous nous demandons dans quelle mesure le théorème invoqu
 
 [p. 234]
 
-à 10^[?] années à partir de leur mélange qu'il y aurait probabilité de pouvoir observer une séparation partielle des deux gaz, séparation qui aurait d'ailleurs toute chance de disparaître ensuite [^p234-1].
+à 10ⁿ années à partir de leur mélange qu'il y aurait probabilité de pouvoir observer une séparation partielle des deux gaz, séparation qui aurait d'ailleurs toute chance de disparaître ensuite [^p234-1].
 
 Ceci nous montre combien le mécanisme, pris au sens le plus étroit, est peu contraire au principe de la dégradation de l'énergie, si l'on ne voit dans celui-ci qu'une loi expérimentale et non un principe métaphysique. Pour nous, d'ailleurs, qui croyons à la fin nécessaire du temps (voir chap. IX), il apparaît dès lors que la production d'un monde réverti ne s'impose nullement, même dans l'hypothèse du mécanisme au sens étroit du mot.
 
@@ -3131,7 +3131,7 @@ L'exemple, du reste, vient de plus haut, des pionniers de la science. Pour s'en 
 [^p96-1]: Il est clair que le nombre des dimensions est étranger à la question.
 [^p96-2]: Cet argument en faveur de la géométrie euclidienne peut revêtir bien des formes. C'est lui qu'on retrouve dans les *Considérations sur la Postulation d'Euclide*, dans à M. Tary, où l'auteur soutient qu'il serait absurde d'avoir que la connaissance d'un nouvel outil qu'il suffit de déterminer une longueur, lût qu'il se produisît les faits il suffit de déterminer une longueur, lût qu'il se produisît les faits d'angle droit pour déterminer un triangle équilatéral, dont le *nombre 1* permet de trouver le carré de la longueur.
 [^p96-3]: P. 100. Bellavati a repris l'exposé de la géométrie suivante dans des remarques dans la *Revue philosophique* (le cosmographique) où il traite dans le numéro d'avril 1895).
-[^p96-4]: Ainsi que l'indique Bellavati dans un ouvrage publié : *Géométrie*, dont il faut remarquer que Leibniz (*Œuvres mathématiques*, t. 1er vol., pp. 183-211) publiées par Gerhardt, Halle, 1858, P. 190. Mais il faut noter que Leibniz avait dans une définition équivalente : *Recta est linea, cujus pars quaevis est similis toti* (voir *Essai d'une logique scient[?]*)
+[^p96-4]: Ainsi que l'indique Bellavati dans un ouvrage publié : *Géométrie*, dont il faut remarquer que Leibniz (*Œuvres mathématiques*, t. 1er vol., pp. 183-211) publiées par Gerhardt, Halle, 1858, P. 190. Mais il faut noter que Leibniz avait dans une définition équivalente : *Recta est linea, cujus pars quaevis est similis toti* (voir *Essai d'une logique scient*)
 [^p97-1]: *Ibid.* p. 223, note 1. Mais il y a loin d'une définition donnée en passant à une théorie régulière, et la part de Delbœuf reste telle. (1) P. 94.
 [^p99-1]: *Traité de Logique générale et de Logique formelle*, 2e édit., t. I, p. 255.
 [^p99-2]: Même ouvrage, t. II, p. 93.
@@ -3142,7 +3142,7 @@ L'exemple, du reste, vient de plus haut, des pionniers de la science. Pour s'en 
 [^p108-1]: *L'ancienne et les nouvelles géométries*, dans la *Revue philosophique* (voir notamment, dans le numéro d'avril 1894, les pages 373 à 377).
 [^p109-1]: Il est surprenant de voir un homme aussi averti que M. Meyerson méconnaître en lui théorème, ainsi que le caractère de la courbure d'un espace de Lobatchefsky (voir *Identité et Réalité*, p. 39).
 [^p109-2]: Pages 71 à 76.
-[^p115-1]: La terminologie de M. Barbarin pourrait donner lieu à d'autres remarques. Après avoir défini l'hypercycle comme étant la distante d'une droite lobatchefskienne, il montre que cette ligne jouit de la propriété que les médiatrices de toutes ses cordes ont une normale commune : or cela, et la sphère euclidienne sont équidistantes des grandes cercles, jouissent de la même propriété que M. Barbarin prend alors comme définition des sphères, ce qui lui permet de dire que toute circumférence riemannienne est un hypercycle en un sens. Bien entendu, sur toutes les sphères d'Euclide et de Lobatchefsky il n'y a pas d'exactement de droites. M. Barbarin est donc en droit de refuser à ces petits cercles le nom d'hypercycles, et c'est cette distinction entre le monde riemannien et le monde euclidien [?]
+[^p115-1]: La terminologie de M. Barbarin pourrait donner lieu à d'autres remarques. Après avoir défini l'hypercycle comme étant la distante d'une droite lobatchefskienne, il montre que cette ligne jouit de la propriété que les médiatrices de toutes ses cordes ont une normale commune : or cela, et la sphère euclidienne sont équidistantes des grandes cercles, jouissent de la même propriété que M. Barbarin prend alors comme définition des sphères, ce qui lui permet de dire que toute circumférence riemannienne est un hypercycle en un sens. Bien entendu, sur toutes les sphères d'Euclide et de Lobatchefsky il n'y a pas d'exactement de droites. M. Barbarin est donc en droit de refuser à ces petits cercles le nom d'hypercycles, et c'est cette distinction entre le monde riemannien et le monde euclidien
 [^p117-1]: Le géomètre n'est pas seul de mettre en doute les vérités mathématiques. Voir à ce sujet les trois beaux discours « doutés » dans *Bernard, Introduction à l'étude de la médecine expérimentale*, liv. I, ch. II, § 2.
 [^p119-1]: Il est vrai que M. Pillon admet un monde extérieur composé d'êtres sensibles dont les sensations sont en rapport avec les nôtres, mais il se refuse à admettre que nos sensations soient une base dans les rapports existant entre ces êtres sensibles.
 [^p120-1]: Il est vrai que ces dernières affirmations ont disparu dans la 2e édition, mais elles semblent bien conformes à la doctrine professée.
