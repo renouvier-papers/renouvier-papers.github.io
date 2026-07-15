@@ -1,6 +1,5 @@
 ---
-title: "Le Rationnel"
-# Navigation a definir avec Arthur (section Autres auteurs / par auteur)
+title: "Le rationnel"
 ---
 
 # Le Rationnel

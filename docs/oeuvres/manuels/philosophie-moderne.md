@@ -1,8 +1,8 @@
 ---
-title: "Manuel de philosophie moderne (1842)"
-parent: Œuvres
-nav_order: 11
+title: "Manuel de philosophie moderne"
 ---
+
+# Manuel de philosophie moderne
 
 > Charles Renouvier, *Manuel de philosophie moderne*, Paris, Paulin, 1842.
 >
@@ -10,7 +10,7 @@ nav_order: 11
 
 ---
 
-# Préface
+## Préface
 
 [p. v] Une partie de ce livre a été mentionnée honorablement par l'Académie des sciences morales et politiques, à l'occasion d'un concours par elle ouvert sur l'histoire critique du cartésianisme.
 
@@ -42,11 +42,11 @@ Je ne finirai pas sans remercier publiquement mes juges du concours académique,
 
 Qu'il me soit permis aussi de rapporter à un ami, L. Besset, la part qui lui est due de ce livre, dont le sujet a si souvent fourni matière à nos entretiens.
 
-# Première partie — Histoire.
+## Première partie — Histoire.
 
-## Livre premier — De la philosophie avant Descartes
+### Livre premier — De la philosophie avant Descartes
 
-### § Ier — Introduction.
+#### § Ier — Introduction.
 
 [p. 1] 1. La philosophie moderne dont nous nous proposons d'esquisser l'histoire à grands traits relève dans son ensemble de la doctrine originale enseignée, au dix-septième siècle, par un de ces hommes à qui la Providence a donné le génie pour embrasser à la fois dans une seule pensée, et les siècles écoulés et les siècles à venir : nous voulons parler de Descartes. Mais cette doctrine qui signala la venue d'un nouveau monde intellectuel fut aussi comme le couronnement et l'accomplissement imprévu d'une grande époque, où le moyen âge et l'antiquité, de nouveau remis en présence après leur plein développement, se combattirent, se mêlèrent, et, dans leur conflit, donnèrent naissance à l'ère moderne. Nous devons donc aborder cette époque et, [p. 2] avant elle encore, le moyen âge et l'antiquité ; nous le ferons en peu de mots.
 
@@ -99,7 +99,7 @@ Puis ceux qui, partis de la même origine, ont ensuite volé de leurs propres ai
 
 Ceux enfin qui, doués d'un esprit plus critique, ont sapé les fondements d'une chose ancienne quelconque, d'une idée, d'une autorité, et tendu au scepticisme ou à l'indépendance personnelle ; et à côté d'eux, ces autres hommes qui, doués, au contraire, de l'esprit qui invente et organise, ont sur le terrain des sciences, alors nouvelles, accumulé des découvertes et des faits, et préparé de la sorte une réorganisation scientifique sur de nouvelles bases.
 
-### § II.
+#### § II.
 
 **PHILOSOPHIE DE LA RENAISSANCE.**
 
@@ -133,7 +133,7 @@ Dante aussi, dans son *admirable*, avait aperçu les intelligences célestes com
 
 Diverses écoles se chargèrent donc de restituer Aristote, suivant Averroès ou Alexandre d'Aphrodisée, ou leurs propres inspirations. En tant qu'ennemi de l'Église et dépourvu de toute foi, même philosophique, l'aristotélisme vint enfin aboutir à Jules-César Vanini, qui donna le plus triste exemple de légèreté et d'indécision. Avec une très-vaste érudition et une imagination de poëte, il exposait souvent un aristotélisme embelli par de brillantes idées pythagoriciennes [^p15-2], puis il plaisantait sur lui-même et sur tous ceux qui pouvaient se confier à de pareilles idées [^p15-3] : railleur dans ses livres, il fut orthodoxe devant les juges, haineux et méchant au moment de la mort [^p15-4], et les admirables facultés de son esprit, perdues dans l'anarchie philosophique de ce temps, allèrent se heurter misérablement au bûcher du parlement de Toulouse, dix-huit ans avant le discours de la méthode.
 
-### § III.
+#### § III.
 
 [p. 16] Mouvement des esprits dans le seizième siècle.
 
@@ -198,7 +198,7 @@ Les *Soliens*, qui sont les citoyens de la république philosophique de Campanel
 
 On peut donc considérer la philosophie de Campanella comme un immense éclectisme, réalisé sans tact et sans méthode ; Platon, le pythagorisme, la cabale, Télésio, l'astrologie, tout se retrouve dans ce mélange qui clôt une époque plutôt qu'il n'en commence une autre. La foi, l'enthousiasme, un fougueux appétit de l'avenir, pour ainsi dire, y sont partout, mais la vérité avoir elle-même ne s'y développe pas encore.
 
-### § IV — Réforme des sciences
+#### § IV — Réforme des sciences
 
 
 1. Cependant un grand nombre d'esprits, pendant le cours [p. 30] du quinzième et du seizième siècle, restèrent étrangers au mouvement philosophique, d'autres lui furent hostiles ou montrèrent des tendances critiques avec un peu de scepticisme. Dans ce nombre figurent des littérateurs ou des érudits pour lesquels *Virgile* et *Cicéron* étaient plus intéressants qu'*Aristote*, des philosophes qui ne trouvaient à s'appuyer dans aucuns systèmes, enfin des hommes engagés dans la politique ou dans la foi, et que les préoccupations religieuses absorbaient à peu près entièrement. Ainsi se montraient mille nuances diverses de caractère et d'esprit, mélangées souvent d'hésitation et de contradictions, comme il doit arriver dans une époque où tant d'éléments différents fermentent ensemble. *Patrizzi*, le terrible adversaire d'Aristote, celui qui amassa ces arguments sans cesse invoqués depuis contre l'autorité de ses écrits, et appuya d'un si nombreux cortège de preuves la première attaque de *Pic de la Mirandole*, vint tomber ensuite, comme le plus crédule des hommes, dans la foi de *Zoroastre* et d'*Hermès Trismégiste*. Au contraire, *Cornelius Agrippa*, qui avait consacré sa vie à la philosophie occulte, finit par attaquer, avec le scepticisme le plus complet, toutes les branches des connaissances humaines. En Italie, *L. Valla*, en Allemagne, *R. Agricola*, doivent être comptés parmi ces esprits éminemment littéraires qui se servirent de la renaissance des études classiques, pour faire la guerre à la vieille science. L'Espagnol *Vivès* joua le même tour aux Pays-Bas, et le Picard *Lefebvre* en France, ou la ténace scolastique fut par lui mise en présence d'un pur et sage commentaire d'Aristote.
@@ -239,11 +239,11 @@ Aussi, l'école vraiment originale qui caractérise la France au seizième sièc
 
 Il fallait un homme nouveau qui eût les tâtonnements, les commentaires, les interprétations, les gloses n'eussent pas fatigué ; une âme encore vierge de spéculations, à peine sortie de la vie active, pleine d'ardeur et de volonté, une intelligence vive, entière, indépendante, un tempérament fortement personnel ; quelque peu de mépris pour le fatras de la vieille science et pour la routine des contemporains, de l'audace, de la dignité, de la liberté. Alors seulement pouvait se réaliser le vœu de Montaigne : « Les sciences traitent les choses trop finement, « d'une mode artificielle et différente de la commune et natu- « relle... Mon page fait l'amour et l'entend ; lisez-lui Léon, « l'hébreu et Ficin, on parle de lui, de ses pensées, de ses ac- « tions, et si n'y entend rien. Je ne reconnois chez Aristote « la plupart de mes mouvements ordinaires, on les a couverts « et revêtus d'une autre robe pour l'usage de l'école. Dieu « leur doint bien faire : si j'étais du métier, je naturaliscrois l'art « autant comme ils artialisent la nature. »
 
-## Livre deuxième — Exposition de la science humaine au point de vue de Descartes
+### Livre deuxième — Exposition de la science humaine au point de vue de Descartes
 
 [p. 42] ---
 
-### § I^er^ — Descartes lui-même
+#### § I^er^ — Descartes lui-même
 
 
 1. Dans l'une des dernières années du seizième siècle [^p42-1] naquit en Touraine, de parents bretons, un enfant faible et maladif qui se nommait Descartes Duperron. Peu de jours après sa naissance une maladie du poumon, causée par des chagrins, coûta la vie à sa mère. Lui-même garda, jusqu'à l'âge de vingt ans, une pâleur et une toux sèche qui faisaient craindre pour sa vie [^p42-2] ; mais enfin une admirable sérénité d'âme, une vie simple, libre et modérée, un penchant à des occupations actives, mais douces, et à des études vives et variées, en un mot, la plus heureuse philosophie pratique qu'il soit donné à l'homme de suivre l'emporta, et une si belle existence fut conquise sur le mal par la force de la pensée.
@@ -272,7 +272,7 @@ C'est le génie mathématique, ainsi que nous le verrons plus tard, qui fit de D
 
 Cependant le temps passait de méditer librement dans le poêle où naissait le discours de la méthode, de parcourir le monde en militaire amateur, la tête pleine de problèmes mathématiques, de bâtir avec plein désintéressement et presque sans vues pour l'avenir un nouveau système scientifique, et même de répandre des idées par un commerce de lettres au milieu duquel se trouve cette douce et paisible correspondance avec la princesse Élisabeth. Le monde s'était ému, il fallait attaquer et défendre. Il y avait les jésuites à attirer, l'école et Gassendi et Roberval à combattre, les morsures des théologiens [p. 50] d'Utrecht à éviter. On avait beau mépriser les honneurs, les distinctions, les titres [^p50-1], il fallait se faire des protecteurs puissants pour pousser la nouvelle philosophie dans le monde. Une femme avait déjà aimé et compris le philosophe, une autre se présenta, une reine qui voulut s'instruire et fonder une académie. Descartes, appelé en Suède, hésita longtemps : mais enfin il accomplit le grand sacrifice, et succomba, au bout de quelques mois, à la fatigue, au froid et à la saignée. « Je soupire encore, écrivait l'ambassadeur de Suède au beau-frère de Pascal, je soupire en vous l'écrivant, car sa doctrine et son esprit étaient encore au-dessus de sa grandeur, de sa bonté, et de l'innocence de sa vie [^p50-2]. » En 1667, les restes de Descartes furent transportés du cimetière des enfants de Stockholm à Sainte-Geneviève de Paris, mais Louis XIV défendit de prononcer publiquement l'éloge du plus grand homme que la France ait jamais produit.
 
-### § II.
+#### § II.
 
 Définition et division de la philosophie. — Méthode.
 
@@ -340,7 +340,7 @@ Il est donc bien vrai, comme l'annonce le titre du *discours de la méthode*, qu
 
 Cependant il y avait beaucoup à faire encore : d'abord la haute métaphysique à pénétrer, mais il y répugnait ; il laissa franchement à d'autres cette œuvre dangereuse, pour laquelle on ne voulut pas toujours, comme lui, s'en remettre aux théologiens. Puis, tous ces matériaux à ramasser étaient si abondants en physique, quelquefois même si lourds à remuer ! Aussi parut-il sentir qu'il fallait des siècles pour que toutes les vérités sortissent de ses principes ; et cependant il ne songeait pas aux nouveaux faits, souvent si importants, qui surgissent de temps à autre aux yeux du philosophe. Ailleurs, il doute moins et croit la science finie ; il ne demande que de la liberté et les moyens d'expérimenter. La géométrie même lui paraît achevée, malgré l'état d'imperfection de l'algèbre, dont il ne s'occupe pas, se livrant tout entier à considérer la perfection de sa méthode. C'est qu'il avait posé les bases inébranlables, ne lui était-il pas permis de rêver quelquefois l'édifice entier ?
 
-### § III. — Philosophie générale.
+#### § III. — Philosophie générale.
 
 [p. 61] 1. Nous l'avons vu, Descartes avait déjà réuni en une seule doctrine toutes les parties des mathématiques, il avait traité, d'une manière nouvelle, plus d'une question de physique, et cependant il n'avait pris *aucun parti touchant les difficultés qui ont coutume d'être disputées entre les doctes ni commencé à chercher les fondemens d'aucune philosophie plus certaine que la vulgaire* [^p61-1]. Cependant le bruit courait que cet homme qui avait fait, si jeune, de belles découvertes, qui ne cachait ni son mépris pour les idées communes en science, ni les preuves qu'il avait assemblées contre elles, qui enfin menait, dans le monde et dans les camps, la vie d'un sage, devait posséder une philosophie nouvelle ; il la possédait en effet renfermée dans sa méthode, et il ne fallait plus qu'un effort du génie pour l'en faire sortir. Dans le fond, sa philosophie n'est d'abord qu'une déduction vaste de la méthode ; mais une fois que ses lois principales sont posées, elle reconnaît un nouveau point de départ, qui est Dieu ; et alors elle embrasse et justifie cette méthode, dont elle découle, par un admirable cercle vicieux qui est le fond même de la philosophie cartésienne et de notre esprit.
 
@@ -400,7 +400,7 @@ Et il suffit que, concevant deux substances par leurs attributs, nous puissions 
 
 9. — Deux substances sont réellement distinctes quand leurs idées sont complètes et ne s'impliquent en rien l'une l'autre.
 
-### Ontologie.
+#### Ontologie.
 
 11. Toutes ces choses nous paraissent claires et distinctes, et tant que notre pensée ne les perd pas de vue, nous ne pouvons douter de leur vérité. Cependant, dans l'ignorance où nous sommes de notre nature et de son origine, nous ne pouvons savoir si nous ne sommes pas trompés, de sorte qu'il nous resterait toujours, quand les conclusions de notre savoir nous reviendraient à la mémoire, une occasion de douter si nous ne la faisions disparaître le plus tôt possible. C'est ce que nous ferons en prouvant qu'il y a un Dieu et qu'il ne peut nous tromper [^p69-1].
 
@@ -474,9 +474,9 @@ Les idées qui ont leur cause formelle dans la matière sont celles des objets s
 
 31. Maintenant la méthode et la philosophie première sont posées, nous pouvons revenir sur le doute d'où nous sommes partis et mesurer toute la distance parcourue. Pourrions-nous encore confondre les rêves avec les sensations de la veille, à présent que nous connaissons le criterium de la vérité ? Si nous voyons clairement et distinctement une chose, que ce soit en dormant ou en veillant, cette chose est vraie, et la connaissance adéquate ne peut pas être inadéquate par cela seul que nous dormons ; mais cette liaison et cette suite des idées qui sont nécessaires pour arriver à la connaissance adéquate, c'est pendant ce temps que nous appelons la veille, que nous l'éprouvons. Nos journées se suivent, nos idées et nos sensations s'y développent graduellement, au lieu que toutes nos perceptions sont confuses pendant le sommeil. Si elles étaient claires et distinctes, elles seraient vraies, parce que Dieu ne peut nous tromper.
 
-### § IV.
+#### § IV.
 
-## Philosophie mathématique.
+### Philosophie mathématique.
 
 1. Lorsque Ramus voulut substituer la logique naturelle à celle d'*Aristote*, et simplifier ainsi la science, il vit et signala [p. 84] dans les mathématiques un exemple de la méthode universelle que l'esprit humain suit en toutes choses. Il semble que Descartes, plus mathématicien encore que Ramus, n'ait été en cela que son continuateur [^p84-1].
 
@@ -518,7 +518,7 @@ C'est ainsi que la méthode de Descartes est éclairée par sa[^p91-1] [p. 92] g
 
 11. Que manque-t-il donc à la géométrie de Descartes ? Rien en apparence : elle donne un système complet des courbes, et un moyen général d'explorer leurs propriétés. Elle laisse une méthode des tangentes qui pent s'étendre aux maxima et aux minima, d'après la condition du parallélisme de la tangente à l'axe, et en général à la détermination des singularités des courbes. Et puis avec quelle étonnante facilité il résolvait les problèmes de défi de ses antagonistes ! Cependant, et quoique Descartes fût bien éloigné de penser qu'une nouvelle théorie mathématique à bases toutes différentes de la sienne fût possible, quoiqu'il se figurât n'avoir laissé de côté qu'une infinité de déductions faciles que ses descendants auraient le plaisir de faire, sa géométrie n'était encore que superficielle pour ainsi dire. Elle ne pénétrait pas dans l'essence de la quantité ou de la notion que nous avons des grandeurs et de leur génération. Elle ne se les représentait que comme finies, d'ailleurs indéfiniment *ajoutables* et *divisibles*. Enfin, un profond mystère couvrait encore des questions importantes sur la nature de la quantité et du plus grand nombre des opérations algébriques, des incommensurables, des séries, etc., etc. Jusqu'à quel point prépara-t-elle les découvertes postérieures, c'est ce qui nous restera à examiner plus tard.
 
-### § V.
+#### § V.
 
 **Philosophie physique.**
 
@@ -532,7 +532,7 @@ La nature, c'est-à-dire Dieu considéré dans l'ordre qu'il a établi entre les
 
 3. L'objet de la physique est la connaissance du monde matériel, de ses lois et de ses modifications, soit qu'on l'envisage en lui-même ou dans ses rapports avec l'homme. Nous pouvons la diviser en trois parties : l'étendue en général et les principes du mouvement (ici se trouve compris tout ce qu'on a appelé depuis *mécanique* et *propriétés générales des corps*), puis le monde, enfin l'homme.
 
-### Les lois de la matière.
+#### Les lois de la matière.
 
 4. L'essence du corps étant l'étendue, il s'ensuit que, partout où il y a étendue, il y a corps, et que, par conséquent, ce qu'on appelle vide est une chimère. Le néant ne peut avoir d'attribut, et, par conséquent, ce qui a de l'extension n'est nécessairement une substance. Le préjugé du vide tire son origine de ce que nous concevons très-bien qu'un vase existe sans que tel ou tel corps occupe sa concavité, et aussi de ce que le corps qui l'occupe actuellement peut être insensible ou fort peu sensible pour nous. Mais, en réalité, la concavité d'un vase suppose l'extension, et l'extension ne peut pas plus être conçue sans quelque chose d'étendu qu'une montagne sans vallée. Si donc l'on demandait ce qui arriverait au cas où Dieu anéantirait tout le corps contenu dans un vase, il faudrait répondre que les parois s'entre-toucheraient, parce que la distance est une propriété de l'étendue qui ne peut exister sans quelque chose d'étendu [^p94-2].
 
@@ -582,7 +582,7 @@ Par conséquent il est facile d'expliquer comment la moindre force meut un corps
 
 C'est la matière dont nous venons d'exposer les propriétés générales, c'est-à-dire la *quantité des géomètres* divisée, figurée et mue, qui nous servira pour expliquer tous les phénomènes de la nature. Et outre les lois que nous avons exposées, nous n'en voulons pas supposer d'autres que *celles qui suivent infailliblement de ces vérités éternelles sur qui les mathématiciens ont coutume d'appuyer leurs plus certaines et plus évidentes démonstrations* ; *vérités suivant lesquelles Dieu lui-même nous a enseigné qu'il avait disposé toutes choses en nombre, en poids et en mesure* [^p100-2].
 
-### Le monde.
+#### Le monde.
 
 [p. 101] 11. Dieu a créé la matière avec le repos et le mouvement, c'est-à-dire qu'il l'a d'abord divisée et mue de diverses manières. Ses parties ont, dès cet instant, exécuté des révolutions irrégulières comme leurs grosseurs et comme leurs mouvements, de sorte que toute variété est sortie des lois de l'inertie de la matière et de la conservation du mouvement établies et conservées suivant l'immutabilité divine [^p101-1].
 
@@ -614,7 +614,7 @@ Enfin, les planètes les plus rapprochées du soleil font leur révolution en un
 
 *Les mouvemens des planètes* et la position de leurs axes [p. 106] sont sujets à des inégalités ; mais il faudrait s'étonner, d'après les lois que nous avons exposées, s'il ne s'en rencontrait aucune ; et, en général, le mouvement de la matière se communiquant dans toute l'étendue, il doit survenir continuellement de nouvelles modifications dans le monde.
 
-### La terre.
+#### La terre.
 
 18. Suivant toujours les mêmes principes, nous pourrons reconnaître que la terre s'est divisée en trois régions principales, la plus intime formée du premier élément, qui a sans doute conservé sa première agitation, la seconde des parties du premier élément, liées et compactes, la plus extérieure enfin des petites parties du troisième élément, entre lesquelles peut circuler, en outre, parce qu'elles ne sont pas bien étroitement jointes, la matière du second [^p106-1].
 
@@ -662,7 +662,7 @@ C'est lorsque la substance du cerveau s'est desséchée pendant la veille, que s
 
 Enfin, tant que les petits filets qui composent les parties solides en se pliant, s'étendant et s'entreclaçant à l'issue de l'artère, ne sont pas très-étroitement joints les uns aux autres, tant que les vaisseaux par où circulent entre eux les parties fluides sont assez larges, et que celles-ci peuvent les mouvoir comme elles-mêmes sont mues par la matière des deux premiers éléments, il arrive que ces solides ont un mouvement lent de décomposition à leurs extrémités et de composition à leurs racines, mais de telle sorte que celui-ci prévaut et qu'ils s'accroissent continuellement. Si les humeurs qui servent à cette irrigation sont abondantes, elles sont moins agitées et déposent alors toutes les parties branchues qui forment la graisse par juxtaposition ; et si elles sont, au contraire, moins abondantes et plus agitées, elles entretiennent ces parties, et la machine maigrit ; mais lorsque les parties solides se sont entièrement attachées les unes aux autres, elles se serrent et se durcissent de plus en plus ; alors le corps cesse entièrement de croître et même bientôt de se nourrir, et la vieillesse ôte la vie.
 
-### Les passions.
+#### Les passions.
 
 25. Nous avons ainsi parcouru les phénomènes du monde matériel, et établi, comme un terme opposé en quelque sorte à ce monde, un *animal machine* où tous les mouvements physi[p. 116]ques, lumière, chaleur, etc., viennent aboutir, et, suivant toujours les mêmes lois, sont tantôt action à l'égard du monde et passion à l'égard de la machine, tantôt, au contraire, action pour la machine et passion pour le monde. À présent mettons une âme dans la machine, et, au lieu de ces sensations et mouvements purement mécaniques, reconnaissons à convenir qu'à un animal, ou à un homme en celles de ses facultés qui lui sont communes avec l'animal, nous verrons paraître des idées et puis des mouvement volontaires. Un nouveau monde se révèle à nous dans l'homme lui-même.
 
@@ -692,7 +692,7 @@ La *joie* est *une agréable émotion de l'âme en quoi elle consiste la jouissa
 
 Ces passions peuvent se combiner les unes avec les autres, et en produire ainsi un grand nombre de nouvelles qu'il serait difficile d'énumérer. Mais leur classification, leur nature et leurs causes physiques étant suffisamment indiquées, nous pouvons passer à la considération de l'âme, en tant qu'elle est active dans le corps.
 
-### L'action.
+#### L'action.
 
 **27.** La glande qui est le siège du sens commun est tellement suspendue entre les cavités du cerveau qui contiennent les esprits qu'elle peut être mue par eux en autant de diverses façons qu'il y a de diversités sensibles dans les objets. Mais elle peut être aussi diversement mue par l'âme, et la machine du corps est tellement composée que, de cela seul, la glande pousse les esprits qui l'environnent vers les pores du cerveau qui les conduisent par les nerfs dans les muscles, et fait ensuite mouvoir les membres.
 
@@ -704,7 +704,7 @@ Si l'âme veut se souvenir, cette volonté fait que la glande se penche de diver
 
 Le mouvement de la machine étant indépendant de l'âme, il s'ensuit de là que la mort n'arrive pas parce que l'âme quitte le corps, mais que l'âme quitte le corps, au contraire, parce qu'il a cessé de vivre.
 
-### Conclusion.
+#### Conclusion.
 
 29. Nous avons donné le nom de *philosophie physique* à ce chapitre ; il est clair, en effet, que personne ne peut, que Descartes même n'a pu regarder les grandes idées que nous venons d'exposer comme constituant une physique achevée. Il n'y a là qu'un admirable exemple, le premier et le plus complet, si ce n'est même le seul qui ait jamais été donné au monde d'une *systématisation* absolue des connaissances physiques. Il appartenait à l'expérience décrite et préconisée par Bacon, à l'expérience pleinement acceptée par Descartes, et dont Descartes aurait voulu donner l'exemple s'il en eût eu le temps et les moyens [^p123-1], de commencer et de continuer, de génération en génération, la seconde partie de l'œuvre, et de remplacer successivement les théories par des théories meilleures.
 
@@ -724,7 +724,7 @@ Enfin, chaque homme, à l'âge de trente ans, a acquis assez d'expérience sur l
 
 32. Ce dernier précepte nous amène à l'une des plus importantes prescriptions hygiéniques, peut-être même au plus puissant remède que l'homme puisse s'appliquer à lui-même : nous voulons parler de l'influence de l'état de l'âme sur l'état [p. 125] du corps et sur la santé. La joie et le contentement intérieur ont une grande puissance pour guérir, tandis que les passions tristes sont fatales. En général, toutes les fois qu'une certaine passion de l'âme a coïncidé avec un certain état du corps, le retour de cette passion amène, en vertu des lois physiques de l'organisation, le retour de cet état ; la tristesse, par exemple, qui diminue ordinairement l'appétit, peut, dans certains cas, l'augmenter ; et comme nous pouvons, en le voulant bien, lier nos passions à tels ou tels sentiments qui ne nous correspondraient pas toujours naturellement, nous pouvons aussi étendre la volonté jusqu'à la santé, et guérir notre corps après avoir guéri notre âme [^p125-1]. Cette observation nous présente une transition bien naturelle de la physique à la morale.
 
-### § VI — Philosophie morale
+#### § VI — Philosophie morale
 
 
 1. Puisque nous ne pouvons dessiner un corps complet d'éthique tiré de la philosophie de Descartes, il nous suffira d'exposer les deux grands principes d'où l'on peut tirer les règles générales de la conduite de l'homme vis-à-vis de lui-même et du monde extérieur. Là, comme partout, dans les principes, réside la science.
@@ -751,11 +751,11 @@ C'est donc par la connaissance nécessaire que Dieu a mise en nous que nos volon
 
 7. N'oublions jamais enfin que ce n'est pas à nous seuls que [p. 130] nous devons tout rapporter, ni d'après nous seuls que nous devons nous déterminer ; il faut penser, au contraire, que *on ne saurait subsister seul* et se considérer comme une partie d'un tout, *la famille, la patrie, le genre humain*. Ainsi nous apprenons le devoir et le dévouement, dont la conscience nous indique les limites. Habitans de cette terre, citoyens de cet état, membres de cette famille, nous préférons, avec mesure et discrétion, les intérêts du tout, dont nous faisons partie, à nos intérêts propres ; partie du public, et nous regardant comme tels, nous prenons plaisir à faire du bien à tout le monde, et même nous ne craignons pas d'exposer notre vie pour le service d'autrui lorsque l'occasion s'en présente, jusque-là que nous voudrions *aussi perdre notre âme, s'il se pouvoit, pour sauver celle des autres*, en sorte que cette considération est la source et l'origine de toutes les plus héroïques actions que fassent les hommes. Enfin, si nous avons une idée assez vaste de l'étendue de cet univers, si nous ne croyons pas qu'au delà des cieux il n'y a que des espaces imaginaires, et que les cieux sont faits pour la terre et la terre pour l'homme, nous n'abaissons pas les autres créatures pour nous élever nous-mêmes, et, pénétrés de l'idée de la grandeur de l'univers, nous pouvons y penser souvent pour ne pas croire que cette terre est notre principale demeure et cette vie notre meilleure vie [^p130-1].
 
-## Livre troisième — Histoire de la philosophie au temps de Descartes
+### Livre troisième — Histoire de la philosophie au temps de Descartes
 
 [p. 131] ---
 
-### § I^er^ — Origine du sensualisme. — Bacon, Hobbes et Gassendi
+#### § I^er^ — Origine du sensualisme. — Bacon, Hobbes et Gassendi
 
 
 1. Lorsque le *Discours de la méthode* parut en 1637, Bruno et Vanini, les deux plus hauts représentants, l'un de la science religieuse et philosophique, l'autre de la critique acharnée des croyances au seizième siècle, venaient de fermer, par leur mort violente, le cercle où les esprits s'étaient mus jusqu'alors. Bacon avait quitté la terre en léguant au monde une vigoureuse branche de la méthode des sciences ; Galilée allait s'éteindre après avoir ouvert une voie nouvelle, déjà ferme et bien frayée, au génie de l'homme ; enfin Campanella survivait trop longtemps à son siècle ; Spinoza et Locke étaient nés ; Malebranche, Bayle, Newton, Leibnitz devaient naître avant la mort de Descartes ; une ère se fermait, une autre ère était déjà ouverte.
@@ -926,9 +926,9 @@ D'autre part, à cette époque où nous fixerions volontiers la domination défi
 
 Enfin, nous avons vu qu'un des grands caractères de cette ère sociale, qui dure encore après s'être annoncée sous les auspices de l'imprimerie découverte, de la boussole et du Nouveau-Monde, est de vouloir un sage équilibre entre le ciel et la terre. La société chrétienne cherche à s'accommoder à l'état nouveau des esprits. Les jésuites, admirable milice suscitée en ce temps, sortent du cloître et se répandent dans le monde, au lieu de chercher, dans leur puissance, à ramener le monde au cloître. De toutes parts on embellit, on charme la vie matérielle, et la tendance du siècle est à réagir contre toute puissance théocratique et contre toute soumission mystique. Le droit s'élève, l'autorité s'abaisse. Que peut Gassendi, ce prêtre d'un esprit humble et d'une vie tranquille, amoureux du repos, esclave d'*Épicure* et de l'antiquité, d'un côté ; du moyen âge et des solutions théologiques, de l'autre ? Que peut-il, quand l'homme, soulage du poids religieux dont le passé a fatigué ses membres, demande à respirer, à vivre, à penser pour lui-même ? C'est *Pelage* qui, vaincu au sortir de l'antiquité, veut renaître au début des temps modernes ; il veut renaître et il renaît en *Descartes* : nous avons assisté à sa fortune.
 
-### § II.
+#### § II.
 
-### Premières discussions cartésiennes. — Jésuites et Oratoriens.
+#### Premières discussions cartésiennes. — Jésuites et Oratoriens.
 
 1. Lorsqu'au milieu d'une nation ainsi préparée, le fils des vieux Bretons secoua le joug de l'autorité avec une audace que partout ailleurs on eût punie du bûcher, trente ans auparavant, nous ne devons pas être étonnés si son effort fut suivi d'un immense mouvement. La religion même et l'autorité furent contraintes de suivre, car la doctrine nouvelle était providentielle. [p. 183] et ses consequences devaient s'étendre jusqu'à nos jours, et sans doute au delà.
 
@@ -980,7 +980,7 @@ Caterus admit d'ailleurs le critérium logique de Descartes, et, par conséquent
 
 En revanche la philosophie de Descartes se propageait rapidement dans l'Oratoire [^p196-3], devint presque l'alliée du jansénisme, et fut partout considérée par les théologiens comme contenant un peu de levain calviniste ; car, après la mort de Descartes, ses idées désormais publiques se répandirent, essayèrent de [p. 197] tous les terrains, et prirent où elles purent. Les meilleurs esprits commençaient du reste à se faire insensiblement cartésiens, et sur le cartésianisme, toute nouvelle pensée devait se constituer à l'avenir. Mais le seul continent put y avoir part dès les premiers temps. Nous avons vu quelle philosophie enseigna Hobbes. Or, un excès en appelant un autre, quelques-uns de ses compatriotes s'adressèrent à la cabale et à Marsile Ficin ; il dut donc renoncer à fonder immédiatement une puissante école. Ainsi sa philosophie resta dans son intégrité, prête à réclamer, quand le temps serait venu, une grande part dans l'esprit métaphysique anglais, à l'époque ou la réaction néoplatonicienne éteinte, il put se former suivant ses idées, quoique à l'aide d'une méthode différente, un mouvement contre Descartes. Enfin nous avons vu l'Italie, détournée de son cours, suivre la recherche des sciences exactes ou d'innocentes tentatives de restauration antique. Restent donc la France et les Pays-Bas, pour se vouer au développement de la nouvelle doctrine.
 
-### § III — Rapports de la religion et de la philosophie. — Théologiens mystiques, politiques et sceptiques
+#### § III — Rapports de la religion et de la philosophie. — Théologiens mystiques, politiques et sceptiques
 
 
 1. Nous laissons de côté l'histoire de la philosophie platonicienne anglaise dont le règne coïncide avec celui du cartésianisme à son commencement. Ce que nous en devons dire se placera naturellement dans l'aperçu que nous donnerons de la série de la pensée anglaise en traitant des précédents de Locke, et à propos de la révolution qu'il sera à accomplir. Maintenant nous devons nous tenir le plus près possible de la philosophie de Descartes, et continuer l'étude de l'état général des esprits au moment où elle fit son apparition [^p197-1]. Il nous reste pour cela à jeter les yeux sur ceux des savants qui résistèrent à l'entraînement, et pour des raisons diverses, ne suivirent que jusqu'à un certain point la pensée de Descartes, ou s'y re[p. 198]fusèrent entièrement. Ce sont d'un côté les théologiens préoc­cupés de religion et de pratique, de l'autre les sceptiques dont l'école ne fut jamais interrompue, et qui tantôt vinrent en aide aux théologiens, tantôt semblèrent les combattre jusqu'à l'é­poque où, dans la personne de Bayle, ils donnèrent enfin le signal de la guerre acharnée qui leur fut faite au dix-huitième siècle.
@@ -1035,11 +1035,11 @@ Nous avons étudié, dans le cours de ce livre, l'état philosophique et théolo
 
 [^p218-1]
 
-## Livre quatrième — Mouvement direct de la philosophie française depuis Descartes jusqu'à Locke
+### Livre quatrième — Mouvement direct de la philosophie française depuis Descartes jusqu'à Locke
 
 [p. 219] ---
 
-### § Ier — Élèves immédiats de Descartes. — Introduction de sa doctrine en Hollande
+#### § Ier — Élèves immédiats de Descartes. — Introduction de sa doctrine en Hollande
 
 
 1. Descartes étant mort en 1650, et avant lui le père Mersenne, Clerselier, l'un de ceux qui avaient consulté le maître avec le plus de fruit, et celui qui l'avait le plus ouvertement reconnu pour tel, resta le principal représentant du cartésianisme en France. Au surplus, le père Mersenne, homme droit et simple et bon esprit, mais quelque peu bizarre, attaché à l'étude de questions toutes particulières en théologie et en physique, cerveau très-éclectique, passionné pour les discussions et même pour les querelles qu'il excitait entre les plus fortes pensées de son temps et au milieu desquelles il cherchait à apercevoir cette étincelle de vérité qui résulte du choc, n'était peut-être pas plus dévoué à Descartes qu'à Roberval, qu'à Fermat, qu'à Gassendi, qu'à Hobbes ; mais le premier, d'un génie plus indépendant et plus dominateur que tous les autres, exigeait de sa part des condescendances qui ne devaient rien coûter à sa sincère admiration. Le père Mersenne était donc pour Descartes comme un ami, un parent, une personne qui vous a toujours vue, qui vous a senti grandir, et vous aime, [p. 220] et désire vos succès. Ce n'était pas, ce ne pouvait pas être un élève ni une bannière pour quelque parti que ce fût [^p220-1].
@@ -1096,7 +1096,7 @@ Cependant les reproches que Leibnitz adressait aux élèves de Descartes n'en é
 
 Les tendances de Clauberg [^p234-2] furent analogues à celles de Geulynex, en ce qu'il exagéra le principe de distinction de l'âme [p. 235] et du corps, et crut à la possibilité d'une séparation des deux substances même pendant la vie. Il eut des extases et prétendit connaître et pouvoir enseigner la nature intime de l'âme [^p235-1]. C'est une grande scission déjà d'avec les premières idées de Descartes, mais ce n'est certes ni cette interprétation nouvelle et complète ni ce développement systématique de sa doctrine, que nous allons trouver dans Spinoza.
 
-### § II — Spinoza
+#### § II — Spinoza
 
 
 1. Le premier génie que Descartes suscita dans l'ordre des temps, est celui de Spinoza [^p235-2]. Spinoza enseignait encore la philosophie cartésienne en Hollande, qu'il était déjà l'auteur d'un livre ou de nouvelles opinions religieuses étaient professées, ou de nouvelles opinions philosophiques se faisaient jour. Ce livre, qui eut un immense retentissement et causa de grands scandales, en exposant pour la première fois les écritures telles qu'elles sont à la face des juifs et des chrétiens, et en produisant de la bible une interprétation digne de l'esprit moderne, c'est le *Traité théologico-politique*.
@@ -1181,7 +1181,7 @@ Quelle que soit, au surplus, la forme de gouvernement à laquelle on s'arrête, 
 
 Il y a, dans ce système politique, plusieurs éléments mêlés, que notre plan ne nous permet pas d'analyser, et bien moins encore de discuter. Remarquons seulement que le droit individuel y occupe une grande place, et que, si l'on excepte cette opinion si dure et si injuste de Spinoza sur les femmes et cette institution de l'esclavage que, du reste, il laisse indéterminée, on peut encore aujourd'hui y trouver beaucoup à réfléchir ; la patrie de Spinoza est sans doute pour beaucoup dans ce résultat, car si le mépris pour les hommes domine dans sa doctrine, si les masses populaires y sont condamnées à l'ignorance, aux passions et à la servilité, si l'amour et la sympathie mutuelle n'ont place, ni dans l'origine de la société, ni dans sa fin, on peut encore s'étonner cependant que les habitudes de sa pensée ne l'aient pas conduit à un plan de gouvernement plutôt théocratique que populaire.
 
-### § III.
+#### § III.
 
 [p. 267] Malebranche.
 
@@ -1221,7 +1221,7 @@ Cependant, quand les propositions de Spinoza se furent répandues et qu'elles eu
 
 12. Quant à la morale de Malebranche, on peut en deviner la tendance d'après ce que nous avons dit de sa doctrine religieuse et métaphysique. L'une des questions qui furent le plus débattues entre Arnaud et lui, est celle de savoir si la volupté est un bien. Malebranche soutenait l'affirmative, mais il gémissait de ce que le péché, par l'effet du dérèglement, se trouve attaché au mal moral, et demandait à Dieu la grâce de lui rendre les plaisirs moins vifs [^p277-2]. [p. 278] La pensée des joies mondaines martyrisait cet homme qu'un défaut de grâces corporelles et de vivacité d'esprit avait fait amant de la solitude ; le monde, il le méprisait, mais il le trouvait heureux, et son exaltation religieuse et l'ascétisme de son âme s'en élevaient encore. Plus son amour se divinisait sous l'influence de l'Esprit Saint qui le faisait entrer en communion avec l'*Homme-Dieu* ; plus il devenait dur, impitoyable même pour la créature. La raison suprême, l'ordre universel, tel était pour lui le principe unique de la morale. Qu'un homme fût charitable par vanité, ou qu'il le fût dans l'intérêt futur de son âme, ou bien encore qu'il le fût par amour et par commisération, toujours ne lui paraissait que passion et qu'humanité, parce que toute vertu est dans l'amour de l'ordre éternel que la raison nous fait connaître et dans la soumission de toute puissance à la puissance unique, et de toute gloire à la gloire de Dieu ; la puissance de la terre devait être employée, selon lui, à fortifier par la crainte l'obéissance à la raison, et à détruire ce préjugé de l'homme qui croit que la raison n'est pas la force. Ainsi, le devoir des grands comme celui des petits ne lui semblait être que la soumission à un ordre immuable, parce que la créature n'existe que pour Dieu, et que tout le temps qu'elle n'emploie pas pour lui n'est qu'un vol et qu'un *sacrilège* [^p278-1].
 
-### § IV — Leibnitz
+#### § IV — Leibnitz
 
 
 1. Leibnitz n'était encore qu'un enfant, et déjà, comme un grand esprit qui se connaît et qui, dans sa force, a pris la résolution de laisser la science humaine plus avancée qu'il ne la trouvait, il avait parcouru tous les degrés de la philosophie antérieure à son temps, et s'était ainsi rendu compte de l'état de la pensée dans le genre humain. Il avait étudié la scolastique, puis les anciens, Aristote, Platon, Plotin ; il s'était fixé quelque temps dans l'*atomisme*, qui lui souriait d'abord comme propre à rendre aisément raison des phénomènes physiques. Enfin il délibérait à quinze ans dans le bois de Rosendal, s'il [p. 279] garderait les formes substantielles [^p279-1] ; ce fut le *mécanisme* qui l'emporta , et il commença à étudier les mathématiques dont Huyghens lui ouvrit les profondeurs [^p279-2].
@@ -1266,7 +1266,7 @@ Il nous semble donc que les deux preuves principales de l'existence de Dieu donn
 
 Ce n'est donc pas là, ce n'est pas dans ces pauvres querelles et dans ces misérables dissidences qu'il faut chercher le génie original de Leibniz ; mais le système des monades représente la création philosophique de ce grand homme, et la véritable extension donnée aux idées métaphysiques de ses devanciers. Nous en avons dit toute l'importance.
 
-### § V.
+#### § V.
 
 Développement de la philosophie mathématique de Descartes.
 
@@ -1314,7 +1314,7 @@ Nous développerons plus au long, dans notre conclusion, cette théorie du calcu
 
 Il a été rigoureusement établi de nos jours [^p298-2] que l'idée de l'indéfini de Descartes, car c'est elle qui a été mise en œuvre dans les essais de systématisation du calcul différentiel par celui des quantités finies et de leurs développements en séries indéfinies [^p298-3], est aussi impuissante que cette singulière théorie des petites erreurs successivement introduites et corrigées [^p298-4] à rendre un compte philosophique du calcul infinitésimal. Et, bien que ce travail ait été fait dans l'intérêt d'une doctrine purement rationaliste, il peut nous enseigner à accepter franchement, et non sous les dénominations *d'évanouissants* ou de *fluxions*, ou sous le masque de *limites* et de *dérivées*, l'infi[p. 299]*tésimal* que le réalisme cartésien nous fait conclure de la division indéfinie de la matière, de même qu'il nous conduit à déduire l'infinité du monde de la multiplication indéfinie de son étendue.
 
-### § VI.
+#### § VI.
 
 DÉVELOPPEMENT DE LA PHILOSOPHIE PHYSIQUE DE DESCARTES.
 
@@ -1368,11 +1368,11 @@ Nous croyons donc que l'on doit regarder la théorie créée par Huyghens et per
 
 Les physiciens éviteraient ainsi de poser une contradiction au début de leurs traités, en donnant à la matière deux propriétés générales, la *divisibilité*, *l'impénétrabilité*, qui ne peuvent évidemment aller de front, si l'une est vraie, l'autre fausse pour la matière telle qu'elle se présente à nous, et, au contraire, l'une fausse et l'autre vraie pour la matière réelle, c'est-à-dire pour les atomes.
 
-## Livre cinquième — Mouvement inverse de la philosophie depuis Descartes jusqu'à Kant
+### Livre cinquième — Mouvement inverse de la philosophie depuis Descartes jusqu'à Kant
 
 [p. 315] ---
 
-### § Ier — Métaphysiciens anglais du dix-huitième siècle
+#### § Ier — Métaphysiciens anglais du dix-huitième siècle
 
 
 1. Après Leibnitz, à l'époque où nous sommes parvenus dans notre analyse historique, le développement de la philosophie pure chez les modernes est terminé. Plus tard, on pourra modifier l'expression de la méthode, on pourra placer sous un jour plus ou moins éclatant certaines parties de la vérité, mais le fond de la doctrine mathématique des idées, on, si l'on veut, de la philosophie de la raison pure, est invariablement fixé ; et il est facile de prouver l'impossibilité d'une logique rigoureuse et d'une ontologie solide dont les éléments ne se rencontreraient pas dans cette philosophie du dix-septième siècle qui représente l'esprit moderne tout entier.
@@ -1413,9 +1413,9 @@ En effet, alors, en étudiant les qualités sensibles, avait considéré la plup
 
 45. Nous venons d'indiquer la marche logique des idées dans l'école anglaise. Il nous reste à signaler, d'une part, quel[p. 331]ques philosophes qui essayèrent de garder une place au milieu du mouvement principal, ou plutôt qui, moins préoccupés de philosophie pure que de théologie ou de physique, se tinrent à côté de l'école ; d'autre part, ceux qui, sur divers points, étudièrent, propagèrent l'opinion régnante et donnèrent lieu à de vives querelles. Les premiers sont Clarke et Newton. Nous reparlerons de Newton, mais disons ici que tous deux tinrent entre Descartes ou l'école mathématique et rationnelle, et l'école empirique de Bacon, de Gassendi et de Locke, un rang analogue à celui qu'avait occupé H. Morus, sauf ses opinions cabalistiques. Profondément religieux tous deux, ils attribuèrent cependant à Dieu l'espace comme organe, et ne conçurent pas le monde sous la raison atomique. Clarke s'efforça particulièrement d'établir les preuves de l'immortalité de l'âme et de l'existence de Dieu [^p331-1] ; mais l'école de Locke ne put être maintenue dans les bornes théologiques. Collins démontra que toutes les actions de l'homme sont déterminées, ainsi que ses volontés et ses actes, par leurs causes, de sorte que la liberté est impossible [^p331-2]. Dodwell, Coward, Hartley, ensuite Priestley [^p331-3], voulurent prouver la matérialité de l'âme ; enfin Mandeville, partant de la définition du bien par *l'utile*, doua le sensualisme d'un nouveau système de morale, et entreprit l'apologie des vices par la considération de leur indispensable utilité dans la société actuelle [^p331-4]. En un mot, ce fut dans ce siècle un déchainement universel contre la théologie ; les médecins et prirent une grande part, et il n'y eut là ni unité ni vraie doctrine. Une infinité de débats commencèrent et se continuèrent sans méthode, c'est-à-dire au hasard, et il serait inutile de rechercher ici quelle veine heureuse ou malheureuse de raisonnements put trouver chacun de ces enfants perdus de la philosophie. Nous essayerons, dans [p. 332] notre conclusion, de porter la lumière au milieu de cet éternel combat des esprits dans lequel il n'y a pas de vaincus.
 
-### § II.
+#### § II.
 
-### Métaphysiciens français du dix-huitième siècle.
+#### Métaphysiciens français du dix-huitième siècle.
 
 1. Le cartésianisme dominait enfin dans les écoles, et déjà son règne passait dans l'opinion. Les sciences commençaient à se séparer du tronc principal ; il y avait des mathématiciens, il y avait des physiciens, il y avait des chimistes, et la métaphysique tombait en discrédit auprès des diverses classes de savants. D'un autre côté, la critique des institutions civiles et religieuses allait croissant et devenait de plus en plus libre. Enfin, au milieu d'une préoccupation exclusive des choses de la terre, la philosophie s'éloignait, repoussée par la réaction générale qui avait lieu contre tout ce qui tendait à n'occuper l'homme que de Dieu et de son plus lointain avenir.
 
@@ -1455,7 +1455,7 @@ L'ignorance a toujours suscité le matérialisme dans les temps modernes. C'est 
 
 *Le Système de la nature* a, comme les théories de Lamettrie, [p. 344] beaucoup 'emprunté à la physique de Descartes, mais les recherches des sensualistes sont certainement pour quelque chose dans tous ces ouvrages. Au contraire, il semble qu'à mesure que l'école mécanique s'est fortifiée, elle s'est rapprochée de sa première origine. Ainsi le traité de Cabanis, qui nous présente à son apogée, et avec toute la rigueur qu'une physiologie très-avancée peut lui donner, la doctrine mécanique pure, rappelle à chaque instant les théories du monde et de l'homme de Descartes. Les *esprits animaux* ne font que changer de nom : ils deviennent la *sensibilité*, dont le siége est dans les nerfs et dans le cerveau[^p344-1]. Cette sensibilité se jette-t-elle abondamment dans certains canaux, elle s'anime dans les autre, et ainsi la douleur peut quelquefois n'être pas sentie. *L'organe sensitif a la faculté d'entrer en action par lui-même et de recevoir les impressions dont les causes agissent immédiatement dans son sein*[^p344-2] ; la matière est *susceptible d'acquérir* un grand nombre de propriétés entièrement nouvelles par l'effet des *combinaisons* que le *mouvement doit toujours amener*[^p344-3]. Tout cela c'est de la physiologie cartésienne pure, sauf que l'on ne part pas de notions claires et distinctes et que l'on attribue à la matière des propriétés qu'on ne conçoit pas bien. Alors on doit supposer qu'elle a originairement *plusieurs de ces propriétés*, sans quoi il ne s'établirait entre ses diverses parties que des *rapports mécaniques*, ce qui fait qu'elle n'est plus la matière, et qu'il faudrait la nommer autrement, ou bien on doit se résigner à comprendre comme une élasticité, une attraction qu'on lui attribue déjà très-gratuitement peuvent à la longue se changer en sensibilité, puis en facultés d'abstraire et de généraliser. Mais une fois qu'on a pris son parti, on comprend parfaitement que le *système sensitif réagisse sur lui-même pour produire le sentiment, et sur les autres parties pour produire le mouvement* ; ou que le *cerveau digère les impressions et fixe la sécrétion de la pensée*[^p344-4]. Cabanis sentit cependant qu'il fallait aborder nécessairement la métaphysique. et que son système ne pouvait être justifié que par un panthéisme à l'égard duquel il ne jouissait qu'un rôle accessoire et sous un certain [p. 345] point de vue des choses [^p345-1]. Rendons grâce avec tous les philosophes de nos jours à Maine-Biran, qui rendit la vieille philosophie à la France [^p345-2], et à tous ceux qui depuis lui ont mis obstacle par leurs publications, par leurs recherches et par leur enseignement, à ce que l'on pût encore une fois dans l'avenir s'emparer de la moitié des idées d'un grand homme et triompher de l'ignorance de l'autre moitié.
 
-### § III.
+#### § III.
 
 DE LA PHILOSOPHIE NATURELLE AU DIX-HUITIÈME SIÈCLE.
 
@@ -1494,7 +1494,7 @@ Ni substaret, reliquorum non firi hilum.* »
 
 8. Maintenant laissons la philosophie naturelle en général, pour dire quelques mots de celle de ces parties qui, prenant son objet à la limite même du corps et de la pensée, se propose de découvrir les lois de la vie chez les animaux. Dès la fin du dix-septième siècle, après la réforme cartésienne, les physiologistes se partagent en cartésiens du mécanisme et en vitalisme, en prenant ce mot dans le sens général où nous l'avons entendu jusqu'ici. L'école chimique était en décadence, et les *formes* d'Aristote allaient disparaître définitivement avec l'*arché* de Paracelse et de Vanhelmont. Stahl, en créant l'*animisme*, supposa à l'âme une faculté d'étendue et de mouvement, et lui donna la direction matérielle du corps ; et dans le cours du dix-huitième siècle on remplaça l'action générale de l'âme par des propriétés vitales attachées aux diverses parties du corps. Enfin Bichat doua les tissus d'une *sensibilité* et d'une *contractilité* organiques qui président à la nutrition, expliqua la circulation par l'excitation de la sensibilité nerveuse due à l'affluence du sang, et, en général, distribua le corps en une multitude d'organes vivants qui, soumis à des lois générales, exécutent cependant leurs fonctions avec une sorte de discernement, choisissent et rejettent, attirent, transmettent, s'assimilent, sécrètent, vies partielles, en un mot, harmonisées en une vie générale[^p355-2]. Mais la physiologie mécanique existe toujours et se développe comme la contre-partie de cette belle doctrine[^p355-3].
 
-### § IV.
+#### § IV.
 
 De l'origine et des éléments de la restauration philosophique au dix-neuvième siècle.
 
@@ -1526,15 +1526,15 @@ Mais en établissant dogmatiquement le premier que l'indépendance, l'infinité,
 
 9. C'est vers le milieu du dix-huitième siècle qu'une nouvelle révélation fut faite à la science, et un nouvel élément d'une grande importance ajouta à tous ceux qui constituent la grandeur de l'ère moderne. Vico créa la philosophie de l'histoire. Vico naquit à Naples, patrie de Campanella et de Bruno ; c'est un révélateur après deux autres ; à la philosophie née de Descartes et à la méthode des sciences, il essaya d'ajouter une philosophie, une méthode et une science nouvelles. C'est l'histoire de l'humanité. Vico reprocha à Descartes, dont il aimait la métaphysique, d'avoir fondé une méthode incomplète, et il en avait le droit, lui qui la complétait en amenant parmi les sciences la poésie, l'histoire, la philologie, que Descartes avait méprisées pour leur inconsistance ou pour leur obscurité. Depuis Vico, de nombreuses tentatives ont été faites pour découvrir et pour formuler la loi du développement de l'humanité ; cette science immense s'est divisée en une multitude de branches, et l'un des grands caractères de notre siècle est de poursuivre sa fondation dans mille diversités, par la spéculation et par l'étude des faits. Depuis Vico aussi, quoique indépendamment de ses ouvrages, l'idée du progrès de l'humanité, indiquée par Bacon, Pascal et Leibniz, a été analysée par Turgot, Condorcet et Saint-Simon. Elle tend, grâce à d'incessantes recherches, à se constituer scientifiquement sur ses véritables lois. Des doctrines de politique générale ou d'organisation sociale, incomplètes et hâtives, il est vrai, sont sorties déjà de ces premiers travaux ; d'autres sont résultées de l'application de la science aux relations matérielles et aux travaux industriels de l'humanité. Enfin, et comme pour donner une base métaphysique et religieuse aux spéculations futures qui semblent devoir embrasser la sphère entière de l'évolution humaine pour la régler à priori, l'étude de l'histoire des religions et des philosophies avance de plus en plus l'humanité dans la connaissance d'elle-même, et un jour viendra où les dogmes, les opinions et les pratiques se développeront régulièrement, sans crainte et sans résistance.
 
-# Deuxième Partie.
+## Deuxième Partie.
 
 [p. 369] Doctrine.
 
-## Livre sixième.
+### Livre sixième.
 
 Détermination de la méthode et de son contenu immédiat.
 
-### § Ier.
+#### § Ier.
 
 Du fondement de la connaissance.
 
@@ -1596,7 +1596,7 @@ Que la science triomphe donc au début de la logique ; n'at-elle pas plein pouvo
 
 A moins que les idées ne se refusassent mutuellement leur contrôle aux yeux de la science, que la pensée n'entrât en lice [p. 377] contre elle-même et ne se combattit, qui sait si, du sein de la contradiction, un nouvel appel à la croyance ne pourrait pas devenir nécessaire ?
 
-### § II — Du principe de la contradiction
+#### § II — Du principe de la contradiction
 
 
 1. Puisqu'il lui est enfin permis d'avancer, le savant ne doit-il pas, au début, et pour mieux assurer sa marche, esquisser une méthode, rechercher quels procédés il convient de suivre pour découvrir la vérité dans les sciences et pour éviter l'erreur ?
@@ -1647,9 +1647,9 @@ Le principe des contraires est dans la simultanéité de l'idée d'être et de l
 
 20. Celui qui aura fait ce grand pas pourrait-il avoir encore quelque peine à comprendre le monde un et multiple, éternel et passager ? Un immense horizon ne lui sera-t-il pas ouvert dans le développement indéfini de l'être au sein du néant ? s'étonnera-t-il si les contraires se confondent éternellement et à chaque instant se séparent, si le temps coule incessamment du sein de l'Éternel et de nouveau s'y vient perdre, si le fini s'abîme dans l'infini dont cependant il s'échappe, et si l'un se fait multiple et se brise en une infinité d'éclats, tandis que l'immortelle unité reluit dans chacun d'eux et dans leur ensemble ? Ce sont les ordres de celui en qui ce monde sublime a son origine, son essence et sa fin, sans jamais cesser d'être autre que lui cependant, parce que l'auteur infini d'une infinité nouvelle a jeté le temps par-dessus l'éternité, l'espace par-dessus le point, et la vie par-dessus l'être.
 
-## Livre septième — Essai de reconstitution de la tradition philosophique en France
+### Livre septième — Essai de reconstitution de la tradition philosophique en France
 
-### § Ier — Des principes premiers de la philosophie dans l'histoire
+#### § Ier — Des principes premiers de la philosophie dans l'histoire
 
 
 [p. 390] 1. Il serait aisé de montrer que l'histoire de la philosophie n'est que celle de l'esprit de l'homme, en tant qu'il s'attache, sous diverses influences et dans un certain ordre de lieux et de temps, à telle ou telle des révélations volées qui lui sont faites. En général, et dans chacune de ces circonstances, l'histoire nous montrerait le philosophe prenant à tâche de nier et de combattre les révélations contraires, et transportant dans la science ce principe de notre vie de tous les jours, *refuser d'un côté pour accorder de l'autre*, et ne comprendre une affirmation qu'à la condition d'une négation corrélative. Telle est, en effet, notre misérable logique, partout empreinte de stérilité et de mort, quand l'esprit comme l'œil ne voit la lumière que par l'opposition des ténèbres.
@@ -1742,7 +1742,7 @@ Dès qu'il nous est permis d'appliquer rigoureusement au monde sensible les lois
 
 Il nous reste à parcourir et à rassembler tous les éléments de la restauration d'une philosophie cartésienne et française ; car tel est, selon nous, *l'éclectisme* dont nous allons parler.
 
-### § II — Aperçu de ce que pourrait être aujourd'hui une philosophie française
+#### § II — Aperçu de ce que pourrait être aujourd'hui une philosophie française
 
 
 1. Si, parmi les questions philosophiques que l'on peut poser et discuter aujourd'hui, nous avons mis hors de ligne le critérium de la certitude, la méthode, le principe des contraires, et l'absolue vérité des termes opposés, tels que la méthode les présente ; si nous avons réussi à élever tous ces points au-dessus du doute et de la recherche, en les fixant comme autant de positions inébranlables de la croyance humaine étudiée en soi et dans son histoire ; il s'ensuit qu'une doctrine primitive ainsi constituée ne peut pas être envahie par l'éclectisme, comparée à des doctrines contraires, et finalement modifiée ou rejetée. En effet, cette doctrine résulte précisément d'une comparaison à la fois historique et dogmatique, d'une analyse intime et d'un mélange nécessaire de tous les premiers éléments de la croyance et de la raison. Elle est véritablement l'éclectisme, de sorte qu'il ne peut exister pour elle des doctrines contraires ; elle les admet et les justifie toutes ; elle les [^p411-1] [p. 412] oppose les unes aux autres en ce qu'elles ont d'exclusif ; elle les accueille et les explique au contraire partout où elles sont basées sur la conscience, fondement unique et de la foi, et de la connaissance, et de la raison.

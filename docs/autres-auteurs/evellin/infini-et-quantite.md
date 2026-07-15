@@ -1,6 +1,5 @@
 ---
 title: "Infini et quantité"
-# Navigation a definir avec Arthur (section Autres auteurs / par auteur)
 ---
 
 # Infini et quantité

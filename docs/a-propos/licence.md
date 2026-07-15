@@ -1,6 +1,5 @@
 ---
-title: Licence
-nav_order: 10
+title: "Licence"
 ---
 
 # Droits et licences

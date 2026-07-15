@@ -33,6 +33,7 @@ extra_javascript:
 markdown_extensions:
 - toc:
     permalink: false
+    toc_depth: 3
 - footnotes
 - attr_list
 - md_in_html

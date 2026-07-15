@@ -1,9 +1,8 @@
 ---
-title: "Tome 2"
-parent: "Troisième Essai — Principes de la nature"
-grand_parent: Œuvres
-nav_order: 2
+title: "Tome II"
 ---
+
+# Tome II
 
 > Charles Renouvier, *Essais de critique générale. Troisième Essai. Les Principes de la nature*, 2e édition corrigée et augmentée, Paris, 1892, tome 2.
 >
@@ -11,7 +10,7 @@ nav_order: 2
 
 ---
 
-## IX. Suite. — Question des espèces.
+### IX. Suite. — Question des espèces.
 
 [p. 1] Il ne faut pas confondre la doctrine de la *chaîne des êtres* avec les théories plus récentes du développement progressif de l'organisation dans le monde. La première fut suggérée à C. Bonnet par les hypothèses (axiomes prétendus) de la *raison suffisante*, ou enchaînement prédéterminé des phénomènes quelconques, et de la *continuité parfaite* des existences et opérations de la nature (monadologie leibnizienne). Je ne sais si Leibniz, indubitablement le premier promoteur de la philosophie de l'histoire naturelle, eût accepté volontiers la variabilité indéfinie des espèces et leur déroulement chronologique. Il pensait que l'espèce peut changer, au moins dans ces cas, relativement rares, où l'œuvre de la génération ap- [p. 2] pelle, suivant lui, un animal spermatique de bas ordre au rang des animaux *élus* des classes supérieures, l'homme compris. De plus, on regardait de son temps les métamorphoses comme forçant le naturaliste à réunir sous l'unité d'un seul mot animal plusieurs espèces différentes. Ces motifs et, en outre, une raison générale d'analogie auraient pu incliner le philosophe à croire que la coordination des espèces admet des lois dans le temps, comme elle en admet dans l'étendue. Mais d'autre part la thèse du *prétablissement* de l'harmonie des monades devait le conduire à celle de la *préformation* ou *préorganisation* des corps, c'est-à-dire de ces groupes de monades subordonnables à une monade centrale. Cela posé, il était naturel que cette préformation fût entendue d'abord dans le sens le plus étroit, sous la loi la plus simple, de manière à exclure en général les changements de forme et d'espèce dans l'évolution présente des êtres ; en un mot, que toutes les *machines divines*, ces *automates naturels impérissables*, fussent regardées comme construites à l'avance pour la série entière des générations qui les lient, et pour tantôt se *développer* vivantes avec des dimensions sensibles, tantôt se concentrer ou s'*envelopper* dans la mort apparente, ne variant jamais que de grandeur depuis l'infiniment petit jusqu'aux proportions appréciables. [p. 3] C. Bonnet se fixa à ce point de vue et l'expliqua plus clairement. Il éloigna l'idée que ce pût être le corps même de l'animal qui se réduisît pour se conserver dans l'*enveloppement* de la mort. C'est au *germe* incorruptible, siège de la personnalité dans telle partie du cerveau, quand c'est de l'homme qu'il s'agit, qu'il donna la fonction de perpétuer la vie individuelle. En même temps il propagea, sans la déclarer précisément prouvée, l'hypothèse de l'*emboîtement* indéfini des germes, au sein d'une même espèce, hypothèse que les savants tardèrent peu à trouver incompatible avec les faits. Ces théories portèrent Bonnet à croire à l'invariabilité des formes spécifiques, en général, et à rejeter, soit dans le futur, dans les espérances d'immortalité des animaux et de l'homme, soit dans un lointain passé, aux époques de violentes et subites révolutions géologiques, tous les changements graves en dehors de ceux qui lui semblaient acquis à l'observation, dans les métamorphoses. Ces dernières, aussi bien que les plus hautes palingénésies réservées à l'avenir, ou accomplies jadis, étaient toujours fondées à ses yeux sur le développement de types matériellement préexistants et contenus dans leurs précédents.
 
@@ -109,11 +108,11 @@ de ses disciples *monistes*.
 
 Il y a une autre question sur laquelle le naturaliste philosophe cède visiblement plus aux doctrines répandues qu'il ne suit ses propres prémisses. En effet, celles-ci mènent à concevoir un arbre de croissance de l'ensemble des êtres, où se dessinent, à partir du tronc commun, la divergence des caractères et le renouvellement successif des formes spécifiques. Aucun cataclysme total n'a d'ailleurs désolé le monde dans le passé ; la géologie permet presque de l'assurer. Les espèces aujourd'hui régnantes descendent ainsi des espèces éteintes et des plus anciennes, dont elles ont perdu la ressemblance. Mais ni la *concurrence pour la vie* ni la *sélection naturelle* n'ont dû plutôt garantir l'élévation et le progrès des types que servir à leur décadence. Ces causes, ainsi que les faits observables à l'aide desquels on peut en apprécier l'action, sont également aptes à contraindre un végétal, un animal, à s'élever ou à s'abaisser, selon les cas, dans ses fonctions et dans ses organes. Le système doit donc avouer, et il avoue que *des rétrogradations sont possibles*, et aussi que la masse immense des formes inférieures ne progresse point ou ne progresse plus, *n'ayant nul besoin de progresser pour continuer d'être*. Mais alors pourquoi parler d'un *progrès continuel vers la perfection* ? [p. 34] Cette thèse du progrès, fondée si peu profondément et si peu garantie, est elle-même bien faiblement accentuée pour nous, quand nous plaçons la perfection relative d'un être dans le fait de la spécialisation de ses fonctions, indépendamment de l'énergie et de l'intensité avec lesquelles il réalise son type, et quand nous envisageons dans l'avenir l'envahissement probable des espèces les plus communes et les plus humbles. Enfin, il n'y a que la question des origines et des fins humaines qui puisse donner au progrès son sens moral, le seul qui soit bien intelligible.
 
-### Observations et développements.
+#### Observations et développements.
 
-#### A
+##### A
 
-#### *Question du progrès ontogénique.*
+##### *Question du progrès ontogénique.*
 
 Parmi les naturalistes hautement compétents à qui on puisse recourir pour s'informer de la signification d'une loi de progrès des êtres, considérés à différentes époques géologiques, il est à propos de s'adresser à ceux qui ont eu les vues les plus opposées sur la cause de ce progrès, et de comparer leurs définitions. Ces dernières sont à peu près les mêmes chez tous, et elles sont peu satisfaisantes pour le philosophe.
 
@@ -161,7 +160,7 @@ Ce point de vue, qui subordonne l'évolution à sa fin, et qui montre cette fin 
 
 C.
 
-### L'hypothèse des créations successives.
+#### L'hypothèse des créations successives.
 
 On sait que les premiers arguments de valeur scientifique en faveur du système des « révolutions [p. 54] de la surface du globe »,  — si ce n'est même la première idée nette de la pluralité de ces cataclysmes que l'opinion, avant lui, réduisait au « déluge » des traditions populaires, — appartiennent à Cuvier, créateur de l'anatomie comparée, auteur de la doctrine générale qui met en rapport la succession des terrains géologiques avec celle des animaux vivants aux époques correspondantes. Mais on peut lire le *Discours* du grand naturaliste [^p54-1] : on y trouvera la thèse des révolutions terrestres grandes et subtiles, de leurs alternatives, du renouvellement de la vie à chacun de ces moments, et de l'absence de lien généalogique entre les espèces fossiles et les espèces actuelles ; on n'y trouvera pas une doctrine de la *création*. La théorie des cataclysmes a fait place aujourd'hui à celle des actions continues et toutes d'ordre commun, en géologie. Mais ces théories sont, l'une comme l'autre, indifférentes à l'idée philosophique ou religieuse de création, pour qui ne s'éloigne point du terrain des sciences. Je ne sais si, en cherchant bien, on découvrirait le mot *création* employé par Cuvier dans une acception générale et de commun langage, pour désigner le fait ou la cause naturelle de l'apparition d'espèces nouvelles, ou même de genres nouveaux, après l'entière destruction des animaux antérieurs ; mais assurément on ne citera point un passage où il se soit permis de donner à ce mot un sens [p. 55] théologique. Hæckel, animé d'une sorte de fanatisme antireligieux, a eu le tort de faire cette confusion, en exposant les idées de Cuvier [^p55-1].
 
@@ -204,9 +203,9 @@ mêmes idées que leur déplaisaient sous l'ancienne
 forme, et dont le déterminisme et le panthéisme sont
 les dénominations usuelles.
 
-#### E. Le darwinisme réduit à sa plus simple expression.
+##### E. Le darwinisme réduit à sa plus simple expression.
 
-### Le darwinisme réduit à sa plus simple expression.
+#### Le darwinisme réduit à sa plus simple expression.
 
 Ainsi que d'autres découvertes illustres, l'idée de
 Charles Darwin de transporter à l'histoire naturelle
@@ -280,9 +279,9 @@ du développement, et du progrès de l'organisation [p. 73] s'éliminent. La seu
 
 Ce sont deux questions très diverses, d'autant plus qu'on les soumettrait à une méthode expérimentale plus sévère, de savoir si l'espèce peut varier, *et dans quelles limites*, sous l'action des agents physiques, principalement exercée sur l'œuf ou l'embryon ; et de savoir si l'espèce peut être amenée à changer à l'aide de sélections artificielles longtemps prolongées. La première de ces questions a été admirablement formulée par Claude Bernard, qui n'en a pas regardé l'exploration comme au-dessus des ressources de l'analyse chimique et physiologique [^p75-1]. La seconde, à laquelle est suspendue, après tout, la vérification de l'hypothèse de Darwin, semble inabordable, à moins d'une longue association de travaux et d'une organisation de l'atelier scientifique que nous ne sommes pas près d'atteindre.
 
-## X. Critique des systèmes de cosmogonie morale.
+### X. Critique des systèmes de cosmogonie morale.
 
-### Critique des doctrines de cosmogonie morale.
+#### Critique des doctrines de cosmogonie morale.
 
 [p. 76] J'ai rapidement parcouru les indications que la science s'efforce de fournir, au sujet de l'origine du monde solaire, de l'origine et de la nature de la vie et des espèces, de la fixité ou des variations de celles-ci, et de la loi de leur développement. Il est clair que l'hypothèse et l'induction la plus libre, la part des possibilités et des doutes grandissent sans mesure lorsque l'on passe des sciences mathématiques et expérimentales aux sciences descriptives et historiques, et des objets abstraits, ou éloignés de l'homme, à ceux qui l'approchent, qui le touchent, et tiennent engagés ses intérêts les plus chers. Dans les hauteurs où le savoir n'arrive pas encore quoi qu'on en dise, mais seulement la croyance appuyée sur des inductions diversement probables, le savant est malgré lui un philosophe, et le philosophe est tenu d'être un savant : deux conditions qui ne sont pas remplies d'une manière satisfaisante, parce que la *philosophie* n'est pas encore assez devenue la *critique*, et que la critique elle-même ne trouve pas réunies des matériaux sûrs ou suffisants pour diminuer autant qu'il le faudrait l'intervention du sentiment individuel et des préventions dans ce qu'elle [p. 77] voudrait recommander de croyances. J'ai cepen-
 dant essayé de dégager un principe supérieur
@@ -537,11 +536,11 @@ Dans cette ignorance, il y a, nous l'avons dit, une ressource encore. C'est de r
 
 Si nous ne nous laissons pas arrêter par cette [p. 120] crainte. nous aurons à voir à quelles conditions nous devons satisfaire, et à quelles conditions nous devons rester soumis dans nos hypothèses, pour être strictement fidèles à la méthode à la fois logique, rationnelle et d'expérience possible que nous suivons depuis le commencement de ces *Essais* ; et nous serons conduits par un postulat nouveau, le postulat de la théodicée et du péché originel, à des vues imprévues, inaccoutumées, audacieuses, quoique terre à terre, en un sens, et absolument opposées aux habitudes d'esprit nées de la métaphysique et de la théologie infinitistes. Que le philosophe qui refuse de nous suivre jusque-là, détourne sa vue du problème, dès lors inscrutable, de l'origine et du tout. Qu'il regarde à la fin et à l'avenir. C'est là qu'il trouvera la seule explication du mal qui soit à sa portée : je veux dire l'espérance.
 
-### Observations et développements.
+#### Observations et développements.
 
-#### A
+##### A
 
-#### Kant et la doctrine de l'évolution.
+##### Kant et la doctrine de l'évolution.
 
 Kant ne s'est pas montré moins hardi en parlant des hypothèses possibles sur le développement de la nature à la surface de la terre que dans ses vues sur l'*Histoire du ciel* ; mais il a toujours expressément déclaré que, pour l'esprit humain, il n'y avait d'ex- [p. 121] plication *des choses* que dans la supposition qu'elles sont *des fins de la nature*.
 
@@ -623,7 +622,7 @@ de l'Idée de Hegel, ou de la Volonté de Schopenhauer
 avant qu'elle se fît matière et phénomène ; tâchons
 de nous représenter sous une forme réellement intel- [p. 132] ligible le *substratum intelligible de la nature*, antérieur aux règnes actuels de la vie ; rappelons-nous ce que le philosophe qui nous renvoie à ce *substratum* a pensé : 1º de la nébuleuse comme origine de notre monde physique, 2º de la vue naturaliste de la descendance des espèces d'une mère commune, 3º d'un premier état de l'Homme, où la nécessité des lois naturelles et les mobiles de la sensibilité n'avaient pas encore dévié la raison soumise au pur dictamen de son autonomie, 4º du péché radical, qui consiste en cette incompréhensible déviation, 5º enfin, de ce libre arbitre nouménal, intemporel, en dehors de la causalité absolue, maîtresse aujourd'hui de la nature, duquel Schopenhauer a tiré son opinion de l'éternité des caractères individuels : rapprochons toutes ces thèses de Kant, sera-t-il bien téméraire d'imaginer que l'une des hypothèses qui ont dû traverser son esprit, mais à laquelle un vieux penchant de métaphysique abstruse a empêché qu'il ne s'arrêtât, est celle de l'existence ancienne, avant le cours actuel du temps, avant la terre, avant la nébuleuse peut-être, — et néanmoins dans le temps et dans l'espace encore, non dans le vide de la pensée, — d'une autre humanité et d'une autre nature dont le monde présent ne renferme plus que les restes après la refonte et la transformation des germes qu'il a laissés ?
 
-### B
+#### B
 
 [p. 133] *L'évolutionisme de Hegel et l'évolutionisme de H. Spencer.*
 
@@ -679,9 +678,9 @@ Il y a, pour l'évolutionisme chrétien, quelque chose de plus fâcheux encore q
 
 Il est de toute évidence que l'esprit des textes bibliques est celui d'une doctrine de création de l'homme dans une condition de bien-être, au sein d'une nature inoffensive, heureuse ; que le péché est, selon cet esprit, commis sciemment par l'homme en violation d'un commandement du Créateur, et que la source du mal physique est là, savoir, rattachée à celle du mal moral. Ces trois conditions sont également violées par l'évolutionisme créationiste qui prend pour l'œuvre de Dieu le monde mauvais, objet des justes malédictions des pessimistes.
 
-## XI. L'origine de l'homme.
+### XI. L'origine de l'homme.
 
-### L'origine de l'homme.
+#### L'origine de l'homme.
 
 L'origine de l'homme dans le monde actuel n'est pas, comme celle de la nature, un problème insondable pour les sciences naturelles. Sans[p. 154]doute, on ne peut rechercher légitimement, dans ces sciences, le principe le plus reculé de la loi qui associe les fonctions humaines, non plus que de tout autre être ; car cela aussi c'est la nature, et il n'est pas une des données de la nature, il n'est pas une de ses méthodes qui ne soit employée dans la constitution et le fonctionnement de l'homme. Mais si la question est de déterminer les conditions dans lesquelles apparut pour la première fois, dans notre monde, cet être tout entier, tel que nous le voyons, elle ne semble pas hors de la portée logique de nos investigations. Seulement, ce qui ne surpasse pas ici l'essence du savoir surpasse, quoi qu'on en ait dit, les forces de la science, et toutes les parties du problème sont enveloppées d'épaisses ténèbres.
 
@@ -781,9 +780,9 @@ En le supposant métaphysiquement acceptable, en admettant qu'on puisse, à l'ex
 
 Dans toutes les hypothèses que nous avons parcourues, l'impénétrable obscurité de l'origine physique de l'homme, si elle était dissipée, laisserait subsister celle de l'origine de l'être moral. Est-il donc impossible de trouver autre chose ?
 
-## XII. Les origines premières et morales.
+### XII. Les origines premières et morales.
 
-### Les origines premières et morales.
+#### Les origines premières et morales.
 
 Il faut que le problème de l'origine de l'humanité soit entouré de bien singulières ténèbres pour que le monde entier, savants et ignorants, en tout temps, ait détourné les yeux de la moins invraisemblable des hypothèses à faire sur *le matériel* de cet événement, et qu'au premier moment où cette hypothèse a osé se risquer et paraître au grand jour, se trouvant appuyée par une théorie générale de la succession des espèces, l'un de auteurs originaux de la nouvelle théorie ait senti le besoin de la compléter, de lui emprunter à elle-même un moyen, un procédé pour atteindre *le moral*, et enfin n'ait pas craint de proposer, à cet effet, l'idée vraiment extraordinaire pour un homme de science, l'idée de faire de l'espèce humaine une création domestique, [p. 181] un produit de sélection et d'élevage, dû à l'art
 d'un ou de plusieurs êtres supérieurs. On ne
@@ -1165,7 +1164,7 @@ tendent ramener aux lois du monde physique les
 lois spécifiques de l'humanité et de la con-
 science.
 
-# Appendice
+## Appendice
 
 [p. 269] A. — De l'accord de la méthode phénoméniste avec les doctrines de la création et de la réalité de la nature.
 
@@ -1387,9 +1386,9 @@ Il faut qu'on nous accorde de considérer notre monde, abstraction faite de tout
 
 Dieu et l'unité de Dieu, après la vie future et la liberté, forment le troisième des postulats dont nous nous proposons non d'étudier ici les motifs moraux, les raisons de croyance, mais de reconnaître et de définir la forme intellectuelle, dans la théorie phénoméniste des lois. A cet endroit de la spéculation dirigée par la raison pratique, une nouvelle question, et la plus difficile de toutes, se pré- [p. 342] sente : c'est celle de l'origine du mal, qui exige des considérations d'un autre genre et qui a été traitée dans les derniers chapitres du présent *Essai* sur les *Principes de la nature*.
 
-## B. 
+### B. 
 
-### Avant-propos
+#### Avant-propos
 
 [p. 343] La belle étude qui fait le sujet de cet appendice m'a été fournie par un ami qui s'est attaché d'une grande ardeur philosophique à l'hypothèse de la création de l'humanité et de la nature en l'état d'un organisme universel et réellement parfait, laissant aux individus la liberté. Cette hypothèse, dont les lignes principales sont tracées dans le § XII, ci-dessus, de mes *Principes de la Nature*, comprend l'idée sommaire de l'Œuvre divine et de la société primitive, et de sa perversion, suivie de la ruine entière du monde, d'où la nature actuelle serait sortie en traversant la période occupée par la formation des nébuleuses et par la constitution des astres (soleils et planètes) dans les espaces célestes. Mais, chez moi, la haute conjecture s'arrête, intimidée, devant les développements qu'elle comporterait, et qui exigent, comme il arrive dans les grandes vues intéressant l'ordre physique, un supplément d'hypothèses accessoires, appelées à satisfaire, autant que possible, aux conditions de la science acquise et de l'expérience. Dans un cas [p. 344] où il s'agit de théodicée, en même temps que de cosmogonie et d'eschatologie, les conditions à remplir ajoutent leurs difficultés à celles qui abondent dans l'ordre matériel et sur le présent théâtre de la seule vie que nous connaissions.
 
@@ -1409,7 +1408,7 @@ L'hypothèse qui place la chute dans une vie antérieure est la réponse la plus
 
 Ces tentatives sont aléatoires, disons-nous. Cependant, si l'on part de l'idée de chute comme d'une donnée qui s'impose au cœur ; si l'on veut disculper non seulement la bonté mais l'amour même de Dieu ; si l'on tient davantage le sentiment pour pressentiment de vérité ; en un mot si l'on spécule en théologien (en théologien criticiste toujours), alors on sen- [p. 348] tira jusqu'aux hypothèses ultimes par lesquelles se peut « boucler » la question, quelque chose de la fermeté particulière à leur point de départ. Ce point de départ est pour nous dans la théorie de la chute qui est comme la conclusion du *Troisième* des *Essais de Critique générale* de M. Renouvier (seconde édition). Il sera utile de résumer à grands traits cette cosmogonie, sans revenir sur les inférences scientifiques qui la justifient, mais sans toutefois nous interdire, chemin faisant, quelques remarques philosophiques additionnelles. Après cet exposé des possibilités et même des vraisemblances physiques et métaphysiques de la chute *anténébulaire*, nous relèverons à son tour la probabilité morale de la préexistence humaine, et enfin nous verrons peut-être quelque chose des lumières acquises dans cette sphère se projeter sur les deux questions de l'animalité et de l'avortement des germes, qui sont restées les plus embarrassantes de celles que soulève l'hypothèse générale [^p348-1].
 
-## I
+### I
 
 Le milieu matériel dans lequel nous vivons est une sorte d'annexe de nos corps individuels, et qui nous est commune à tous, sans dépendre de nous, sauf en une très faible mesure. Il n'est pas pour nous un instrument (*ὄργανον*) adéquat à nos besoins, à nos [p. 349] désirs, à nos volontés. Aussi l'appelons-nous *inorganique*. Affirmer un monde parfait, absolument subordonné à des consciences moralement libres et en partie solidaires entre elles grâce à une communauté de matière, c'est dire que l'univers fut d'abord (sous la forme d'un globe unique, immense) un véritable organe au service de ces consciences qui le gouvernaient et qui en constituaient, pour ainsi parler, l'âme collective. L'homme exerçait des pouvoirs en quelque sorte divins sur la nature : par le seul fait de ses volitions il disposait dans une certaine mesure des vibrations moléculaires lumineuses, calorifiques, électriques, cause des phénomènes physiques et météorologiques. La loi du monde plaçait enfin l'état intime du milieu matériel sous la dépendance des passions, en le rendant altérable par les passions mauvaises, comme nos organes propres sont altérables par celles-ci. Ce lien des phénomènes physiques et moraux n'était pas plus merveilleux dans le macrocosme qu'il ne l'est à présent dans le microcosme.
 
@@ -1429,7 +1428,7 @@ Quand le défilé des êtres individuels sera enfin terminé, et que, suivant un
 
 [p. 354] Arrêtons-nous un instant sur de curieuses analogies qui s'offrent ici à la pensée. Chacun sait que les formations astronomiques et géologiques répondent à d'incalculables amas de siècles. Pourquoi donc cette grande nuit, cet univers livré sans partage à la matière ? Tout s'explique dans notre hypothèse. La chute est un amoindrissement de l'être, un anéantissement relatif de l'œuvre divine (anéantissement qui sera d'ailleurs réel en ce qui concerne les méchants à l'heure mystérieuse où, l'épreuve morale étant finie, leur vie s'éteindra à jamais par leur propre faute). Dès lors, tandis que la création primitive s'en va en lambeaux, et que les espaces se remplissent d'inhabitables fournaises, les consciences sont annihilées pendant des siècles ; elle se réveillent un moment à la pâle lumière de ce monde, puis retombent dans leur sommeil en attendant le réveil définitif. Mais ce n'est pas tout. L'époque du réveil terrestre n'est même pas identique pour tous les êtres. Leurs phalanges, au lieu de s'avancer toutes ensemble, comme primitivement, dans une marche de front à travers la durée, défilent lentement à tour de rôle : la simultanéité des existences est remplacée par leur successivité. Il est même intéressant de comparer le fait physiologique de la génération avec l'hypothèse de l'organisme universel. Par la génération, en effet, tous les êtres se tiennent littéralement, et forment aujourd'hui encore un corps unique et immense, qui se dissout sur un point à [p. 355] mesure qu'il croît sur un autre, toujours obligé de rendre par un bout ce qu'il prend par l'autre bout au monde inorganique, sans retrouver jamais l'état de plénitude. L'univers est tombé de l'état statique dans l'état de division et d'écoulement, de l'intégralité dans la dissolution. Mais ces réflexions nous conduisent à celles qui concernent plus particulièrement la probabilité morale de la préexistence humaine.
 
-## II
+### II
 
 Suivons pas à pas les phases de notre destinée présente et ultérieure. Pour chacune d'elles, mettons simplement notre hypothèse en regard des faits, si troublants pour quiconque ne veut attribuer la production d'aucun mal au Créateur. Nous allons voir s'établir entre ces faits et cette hypothèse une correspondance extrêmement frappante. Commençons par ce qui regarde l'économie actuelle.
 
@@ -1488,7 +1487,7 @@ C'est ici que l'hypothèse de la préexistence nous apporte le plus de lumière.
 
 Chacun alors restera, quant à ses aptitudes personnelles, intellectuelles et physiques, quant à leur nature, à leur nombre, à leur degré de développement, ce qu'il se sera fait. Il sentira sienne une telle œuvre, en embrassant son passé tout entier, en apercevant sa vie terrestre comme un épisode de sa [p. 364] grande vie, et cette grande vie comme un élément de la vie collective, et tous les biens et tous les maux comme la sanction de la loi morale. Enfin notre mémoire se reportant jusqu'à l'instant de l'acte créateur lui-même, et le passé de l'univers s'éclairant pour chacun au moyen des souvenirs de tous, nous atteindrions, par une immortalité en quelque sorte régressive, toute l'amplitude de conscience logiquement réalisable en dessous de Dieu. Ces idées répondent à ce qu'il y a de possible dans le rêve insensé des *renanistes*, qui imaginent l'humanité immortelle — ou Dieu lui-même ! non pas *étant* mais *devenant*, — se faisant graduellement par la science et l'industrie. Elles y répondent d'un point de vue moral, comme on vient de l'exposer, et même d'un point de vue religieux, car il est loisible de croire que, dans ce rapprochement graduel des consciences créées et de la conscience créatrice, le divin démiurge lui-même, le « vieillard des mondes », éclairera de ses révélations la construction du temple éternel.
 
-## III
+### III
 
 Les consciences humaines ne sont pas les seules qui intéressent la théodicée. À côté d'elles existent des consciences inférieures en nombre incalculable, formant à vrai dire la presque totalité de l'univers vivant, réparties en rangs d'autant plus pressés qu'ils sont plus inférieurs, comme si de l'un à l'autre [p. 365] il y avait compensation à la qualité par la quantité, et toutes, absolument toutes, atteintes par le mal.
 
@@ -1536,7 +1535,7 @@ Que si des bêtes proprement dites nous descendons aux animaux les plus infimes,
 
 Si on admet la solution proposée ci-dessus pour le problème de la théodicée en ce qui touche les animaux, l'univers parfait peut être conçu, au point de vue idéaliste, comme un concert de consciences disposées dans un ordre hiérarchique, de l'homme à l'atome, pour être, selon les degrés qu'elles occupent, les associées, les amies, les servantes, les esclaves les unes des autres. On peut remarquer en passant que cela explique le nombre immense des êtres inférieurs à l'homme : au sein de l'ordre parfait, ils n'étaient pas simplement *dans* la nature, ils étaient la nature même. L'animalité primordiale, considérée dans ses couches psychiques supérieures, est un ensemble de consciences annexes, en quelque sorte supplémentaires de la conscience humaine, et qui, des fins ultimes leur étant assurées à toutes, deviennent contingentement, par voie de remorque, quelque chose de ce que la conscience humaine est libre- [p. 376] ment. De là, pour elles, participation à une vertu d'emprunt, qu'accompagne un paradis immérité, comme à un péché d'emprunt, qu'une souffrance immérités suit également. Les animaux étant en partie faits pour eux-mêmes, et en partie faits pour l'homme, Dieu seul a pu établir une juste pondération entre ces deux sphères de finalité, mais nous pouvons être certains que dans chaque espèce, la faculté de souffrir est proportionnée, comme elle doit l'être, aux degrés de la solidarité où elle fut instituée avec l'homme.
 
-## IV
+### IV
 
 Non seulement la théodicée doit, après s'être occupée de l'homme, s'occuper des innombrables consciences d'ordre inférieur qui entourent ce dernier, mais elle doit porter son regard jusque sur des êtres, bien plus petits que des infusoires, et plus nombreux à eux seuls que tous les êtres ensemble, — qui restent arrêtés au seuil même de la vie : nous voulons parler des germes perdus.
 
@@ -1601,9 +1600,9 @@ Quand nous laissons à nos résultats acquis un tel caractère de généralité,
 
 • • •
 
-# Index alphabétique
+## Index alphabétique
 
-## A
+### A
 
 [p. 391] Accommodation au mal, I, 232.
 
@@ -1748,7 +1747,7 @@ Cuvier ; sa définition de la vie, I, 207, 222.
 — Son idée de la création, II, 54.
 — Sa définition de l'espèce, II, 60, 62.
 
-## D
+### D
 
 Darwin (Ch.), II, 27 sq., 68 sq., 73, 169, 190.
 — Son opinion sur le progrès des espèces, II, 39 sq., 47, 258.
@@ -1772,7 +1771,7 @@ Dualisme (du bien et du mal), II, 84 sq. 110.
 Dumas (J.-B.), I, 144.
 Durée : La — en tant que perception, I, 71, 73.
 
-## E
+### E
 
 Élasticité : sa définition, son explication, I, 100.
 Élatisme (Sens général de l'), II, 284 sq.
@@ -1813,7 +1812,7 @@ Existence (L' — en général), I, 77.
 Expérience et entendement, vi.
 — dans les sciences, lxvi.
 
-## F
+### F
 
 Famille (Loi de), II, 352, 360 sq., 355 sq., 380.
 Faye (H.), I, 255, 287 sq.
@@ -1829,7 +1828,7 @@ Force : notion de la — en mécanique, I, 122.
 Forme et matière, I, 224 sq.
 Fourier (Charles) ; sa doctrine cosmogonique, II, 112 sq.
 
-## G
+### G
 
 [p. 397] Geoffroy Saint-Hilaire, I, 249 ; II, 15, 16, 19.
 Généalogique (Doctrine). *Voyez* Descendance.
@@ -1847,7 +1846,7 @@ Guerre (La — dans la nature), I, 230 ; II, 191, 194.
 — *Voyez* Concurrence.
 — (Dans l'état social), II, 219.
 
-## H
+### H
 
 Habitude (Loi de l'), xxiii.
 Haeckel (E.) ; son opinion du progrès des espèces, II, 37, 58.
@@ -1875,7 +1874,7 @@ Hume (David): le vrai et le faux de sa théorie de la cause, I, 155.
 Hylozoïsme, I, 131, 132.
 Hypothèse: son usage dans les sciences, lxxvii.
 
-## I
+### I
 
 Idéalisme, II, 300 sq., 295, 316 sq., 319 sq.
 — égoïste, I, 14; II, 321, 322.
@@ -1896,7 +1895,7 @@ Inconnaissable (l'*I* — de Spencer), II, 136, 139, 153, 278.
 Indéfini (l'*I* — dans la mesure mathématique), I, 63.
 Individualité: différences individuelles, II, 27, 28.
 
-## L
+### L
 
 [p. 399] Lamarck : sa théorie de l'origine de la vie, I, 241, 243 sq. ; II, 40.
 — Son idée sur la cause première, I, 247.
@@ -1965,7 +1964,7 @@ Lucrèce, I, 40, 42.
 
 Lumière ; sa théorie mécanique, I, 108 sq.
 
-## M
+### M
 
 Mal (Doctrines sur l'origine du), II, 76 sq., 180 sq., 264, 365 sq.
 — (Nature et définition du), II, 116 sq.
@@ -2019,7 +2018,7 @@ Mouvement (Origine du), I, 296, 297.
 Mouvements célestes (Principes généraux des), II, 232 sq.
 Mythographes de l'antiquité, I, 242; II, 275, 276.
 
-## N
+### N
 
 Nature: la — personnifiée, I, 246.
 — Son interprétation morale, I, 230, 234.
@@ -2036,7 +2035,7 @@ Nombre (Loi du), I, 53 sq. Voyez infini.
 — Le — et l'infini dans l'école pythagorique, II, 90, 283, 284.
 Nouméne (Le — Kantien, et ses analogues), II, 131, 140, 141, 298.
 
-## O
+### O
 
 Œuf, I, 220; II, 185, 186.
 Optimisme, I, 293; II, 50, 106 sq., 115 sq., 118, 190, 264, 265, 325, 385. [p. 403] *Organisme* et organes, I, 181, 188, 190, 203, 217 ; II, 294, 295.
@@ -2046,7 +2045,7 @@ Optimisme, I, 293; II, 50, 106 sq., 115 sq., 118, 190, 264, 265, 325, 385. [p. 4
 
 *Originel* (Péché). Voyez *péché*.
 
-## P
+### P
 
 *Paléontologie* (La loi en), II, 9 sq., 31 sq.
 
@@ -2121,7 +2120,7 @@ Proportions : loi des — dans les combinaisons chimiques, I, 140 sq.
 Pulsation : loi universelle, I, 75, 190.
 Pythagoriciens (Cosmogonie des), II, 90, 283.
 
-## R
+### R
 
 Raison (Fonction de la), xi, xv, xvii.
 Raison suffisante (Principe de la), I, 255, 336, 297.
@@ -2138,7 +2137,7 @@ Reynaud (Jean) : son idée de l'infini, I, 361.
 Rythme (dans l'évolution), I, 295 sq.
 Royer (M^me Cl.-A.), II, 168.
 
-### S
+#### S
 
 Saint-Venant (De) : son travail sur la composition de la matière, I, 30, 47, 48, 52.
 — Sur la force répulsive, I, 138.
@@ -2206,7 +2205,7 @@ Symbolique : caractère de la connaissance selon H. Spencer, II, 139, 140.
 
 Symbolisme des récits bibliques, II, 176, 189, 345.
 
-## T
+### T
 
 Téléologie naturelle, xxxvii.
 
@@ -2224,14 +2223,14 @@ Transformisme : sa définition, II, 70, 216, 270 sq. [p. 407] Transformisme; ses
 Transmigrations (Hypothèse des), II, 80.
 Transmutation des métaux, I, 148.
 
-## U
+### U
 
 Unité de Dieu et des lois, xcvi sq.; II, 339 sq.
 — de composition organique, II, 15 sq., 122, 123.
 Universaux (Question scolastique des), xci.
 Universel; *F* — et l'individuel, II, 136, 141, 181, 237.
 
-## V
+### V
 
 Vanini (Lucilio), I, 228.
 Vertige mental, xxxiv.
@@ -2246,12 +2245,12 @@ Voie lactée; explication de son apparence, I, 216.
 Volonté (Fonction de la), xxv, xxxii.
 — La — chez Schopenhauer, *I*, 156; II, 82.
 
-## W
+### W
 
 Wallace (A.-R.), II, 40, 172, 173, 180 sq.
 Wolf (C.), I, 234, 277.
 
-# Errata
+## Errata
 
 [p. 408] T. I, page 60, ligne 24 : vicieuse ; *lisez :* si vicieuse.
 — page 148, ligne 11 : permutation ; *lisez :* transmutation.

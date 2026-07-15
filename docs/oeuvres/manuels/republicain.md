@@ -1,10 +1,10 @@
 ---
-title: "Manuel républicain de l'homme et du citoyen"
-parent: Œuvres
-nav_order: 12
+title: "Manuel républicain"
 ---
 
-# Manuel républicain de l'homme et du citoyen
+# Manuel républicain
+
+## Manuel républicain de l'homme et du citoyen
 
 *Charles Renouvier — Paris, Pagnerre, 1848. Source : Gallica (BnF).*
 
@@ -12,9 +12,9 @@ nav_order: 12
 
 [p. 3]
 
-# PREMIÈRE PARTIE.
+## PREMIÈRE PARTIE.
 
-## CHAPITRE PREMIER — Fin morale de l'homme.
+### CHAPITRE PREMIER — Fin morale de l'homme.
 
 *L'Instituteur.* La religion vous enseigne comment vous devez vous conduire en cette vie pour vous rendre digne d'une félicité éternelle. Moi, je ne vous parle qu'au nom de la République, dans laquelle nous allons vivre, et de cette morale que tout homme sent au fond de son cœur. Je veux vous instruire des moyens d'être heureux sur la terre, et le premier mot que j'ai à vous dire est celui-ci : Perfectionnez-vous. Vous ne deviendrez vraiment heureux qu'en devenant meilleur.
 
@@ -64,7 +64,7 @@ L'injustice et la haine seront vaincues deux fois. Le méchant, dans un autre mo
 
 Vous avez rappelé les paroles du Christ et les deux préceptes qui y sont contenus : « Aimer Dieu, aimer le prochain. » A mon tour, je vous rappellerai que Jésus-Christ a dit du second commandement, l'amour du prochain, qu'il était *semblable au premier*, l'amour de Dieu. Il a dit aussi de ces deux commandements ensemble, qu'ils enfermaient toute la loi et les prophètes. Méditez ceci, et n'oubliez jamais que le plus sûr moyen de faire connaître combien vous aimez Dieu, c'est de travailler de toutes vos forces au bien de ce prochain pour qui Jésus-Christ lui-même a donné sa vie.
 
-## CHAPITRE DEUXIÈME — Fin morale de la société.
+### CHAPITRE DEUXIÈME — Fin morale de la société.
 
 *L'Instituteur.* Il n'y a pas deux morales, une pour l'homme pris à part, une autre pour la société de tous les hommes pris ensemble. Mais, ce qui est bien pour chacun est bien pour tous. Si je pouvais réunir tout ce qu'il y a d'hommes sur la terre, et si je les voyais maîtres de leur propre sort, je leur dirais : « Travaillez et gouvernez-vous de manière à vous rendre meilleurs et heureux les uns les autres. » Ainsi la société a été créée pour le même but que l'homme. D'ailleurs, l'homme ne peut pas atteindre
 
@@ -80,7 +80,7 @@ De même qu'il faut que chacun de nous soit juste et charitable envers ses frèr
 
 Je dis donc que tous les hommes doivent, par le moyen des lois qu'ils se font, de l'instruction qu'ils se donnent, et de toute action qu'ils ont les uns sur les autres, se faciliter leur perfectionnement et s'approcher toujours plus de la fraternité pour laquelle ils furent créés.
 
-## CHAPITRE TROISIÈME — De la République et de l'autorité dans une République.
+### CHAPITRE TROISIÈME — De la République et de l'autorité dans une République.
 
 *L'Élève.* Comment les hommes peuvent-ils s'entendre pour marcher tous ensemble à leur perfectionnement et pratiquer la fraternité?
 
@@ -118,7 +118,7 @@ Je dis donc que tous les hommes doivent, par le moyen des lois qu'ils se font, d
 
 *L'Instituteur.* La souveraineté du Peuple doit être, en réalité, l'exercice de la force de tous dans les bornes de la justice et suivant un esprit de fra-[p. 11]ternité. Tout souverain, et le Peuple plus qu'un autre si c'est possible, a des devoirs à remplir et des droits à respecter.
 
-## CHAPITRE QUATRIÈME — Devoirs de l'homme et du citoyen.
+### CHAPITRE QUATRIÈME — Devoirs de l'homme et du citoyen.
 
 *L'Élève.* Qu'appelez-vous un devoir ?
 
@@ -176,7 +176,7 @@ Le troisième est de prêter toujours appui à la justice et à la loi, soit dan
 
 Le dernier que j'indiquerai est de consentir librement aux sacrifices qui pourraient demander ou le salut de la patrie ou l'intérêt de toute communauté dont on est membre.
 
-## CHAPITRE CINQUIÈME — Droits de l'homme et du citoyen.
+### CHAPITRE CINQUIÈME — Droits de l'homme et du citoyen.
 
 *L'Élève.* Voilà bien des devoirs et des devoirs très-pénibles. Comment peut-on être heureux dans une République ?
 
@@ -210,7 +210,7 @@ de force, ils s'en seraient autrefois dépouillés en leur propre nom et au nom 
 
 *L'Instituteur.* On peut les réduire à deux : la liberté et l'égalité.
 
-## CHAPITRE SIXIÈME — De la liberté.
+### CHAPITRE SIXIÈME — De la liberté.
 
 *L'Élève.* Qu'est-ce que la liberté?
 
@@ -280,7 +280,7 @@ jugé ni puni qu'après avoir été entendu, et qu'en vertu d'une loi qui exista
 
 Afin que chacun soit libre, il faut que personne ne le soit sans restriction. Mais une République est l'état qui concilie le mieux les intérêts et la dignité de chacun avec les intérêts et la dignité de tout le monde.
 
-## CHAPITRE SEPTIÈME — De la sûreté et de la propriété.
+### CHAPITRE SEPTIÈME — De la sûreté et de la propriété.
 
 *L'Élève.* N'a-t-on pas mis souvent la sûreté et la propriété au nombre des droits de l'homme ?
 
@@ -334,7 +334,7 @@ grand nombre qui ne possède pas ou qui possède si peu de richesses?
 
 [p. 23]
 
-## CHAPITRE HUITIÈME — De la liberté de l'industrie.
+### CHAPITRE HUITIÈME — De la liberté de l'industrie.
 
 *L'Élève.* Un citoyen a-t-il le droit d'entreprendre dans la République le travail qui lui convient et d'y mettre le prix qu'il lui plaît? la République, ne peut-elle lui interdire aucun commerce, aucune industrie? ne peut-elle intervenir dans son travail ou dans ses relations avec ceux qu'il fait travailler?
 
@@ -354,7 +354,7 @@ grand nombre qui ne possède pas ou qui possède si peu de richesses?
 
 *L'Instituteur.* Tout ce que je puis vous dire, c'est qu'elle se fondera sur deux choses : 1° l'association des travailleurs; 2° le règlement de l'industrie et du commerce par les lois de la République. Mais, c'est un sujet sur lequel je ne m'étendrai pas davantage en ce moment; il n'est pas nécessaire de vous rendre si savant. Moi-même, j'attends les Représentants du Peuple et j'espère apprendre à leur école beaucoup de choses que j'ignore.
 
-## CHAPITRE NEUVIÈME — De l'égalité.
+### CHAPITRE NEUVIÈME — De l'égalité.
 
 *L'Élève.* Vous avez parcouru tous les droits qui dépendent de la liberté : dites-moi maintenant ce que c'est que l'égalité.
 
@@ -376,7 +376,7 @@ La devise de la République est : *Liberté, Égalité, Fraternité.* S'il n'y a
 
 [p. 26]
 
-## CHAPITRE DIXIÈME — Devoirs et droits de la République.
+### CHAPITRE DIXIÈME — Devoirs et droits de la République.
 
 *L'Instituteur.* Il faut, et il est indispensable qu'une République fraternelle reconnaisse et assure deux droits à tous les citoyens :
 
@@ -398,9 +398,9 @@ C'est le devoir de la République de respecter les droits et les libertés que j
 
 [p. 27]
 
-# DEUXIÈME PARTIE.
+## DEUXIÈME PARTIE.
 
-## CHAPITRE ONZIÈME — De l'état actuel de la France et de la convocation d'une Assemblée constituante.
+### CHAPITRE ONZIÈME — De l'état actuel de la France et de la convocation d'une Assemblée constituante.
 
 *L'Instituteur.* Je vous ai parlé du Peuple souverain.
 
@@ -444,7 +444,7 @@ L'Assemblée constituante décidera quelles sortes d'assemblées feront la loi a
 
 L'Assemblée constituante nous fera dans notre vieille patrie comme une France nouvelle. Et vive cette France, éternellement rajeunie par la sève de ses enfants ! Vive la fraternité des enfants de la France !
 
-## CHAPITRE DOUZIÈME — Des réformes que la Constituante pourrait faire.
+### CHAPITRE DOUZIÈME — Des réformes que la Constituante pourrait faire.
 
 *L'Élève.* Vous avez tellement élevé mes idées en me parlant de la République et de la morale républicaine, que je crois sortir des ténèbres et voir le
 

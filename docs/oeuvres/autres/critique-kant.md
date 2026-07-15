@@ -1,8 +1,8 @@
 ---
 title: "Critique de la doctrine de Kant"
-parent: Œuvres
-nav_order: 8
 ---
+
+# Critique de la doctrine de Kant
 
 > Charles Renouvier, *Critique de la doctrine de Kant*, ouvrage posthume publié par Louis Prat, Paris, Félix Alcan, 1906.
 >

@@ -1,9 +1,8 @@
 ---
-title: "Tome 3"
-parent: "Second Essai — Psychologie"
-grand_parent: Œuvres
-nav_order: 3
+title: "Tome III"
 ---
+
+# Tome III
 
 > Charles Renouvier, *Essais de critique générale. Deuxième Essai. Traité de psychologie rationnelle d'après les principes du criticisme*, 2e édition, Paris, Au Bureau de la Critique philosophique, 1875, tome 3, p. 1-366.
 >
@@ -11,9 +10,9 @@ nav_order: 3
 
 ---
 
-# Deuxième partie — La certitude (suite)
+## Deuxième partie — La certitude (suite)
 
-## XVIII. De la certitude des sciences et de leur classification rationnelle.
+### XVIII. De la certitude des sciences et de leur classification rationnelle.
 
 [p. 1] Pour se fonder régulièrement et procéder à leurs constructions propres, les sciences ont toujours dû demander et demandent qu'on leur accorde :
 
@@ -197,9 +196,9 @@ Au reste, j'ai soin de m'en tenir à tracer les sections les plus générales, l
 
 Dans le tableau qui offrirait un résumé facile de ce chapitre, et que je me dispense de donner, il faudrait attacher moins d'importance à l'essai de classification en lui-même qu'aux vérités de méthode [p. 62] qui s'y trouveraient inscrites. D'ailleurs le contenu en serait purement théorique. Si l'on y joignait les arts, ce qui serait l'objet d'un travail nouveau, on pourrait les considérer parallèlement aux sciences dont ils supposent toujours une application quelconque, et de plus comme des dépendances particulières des catégories de causalité et de finalité. Un art, en effet, est cet ensemble et cette suite de moyens mis en œuvre plus ou moins spontanément, ou selon les lois de la science, pour atteindre une fin déterminée. Ce serait ensuite à la distinction des ordres de fins qu'on demanderait une division rationnelle des arts. Enfin, les subdivisions se tireraient des espèces de l'œuvre et de sa matière.
 
-### Observations et développements.
+#### Observations et développements.
 
-#### A. De la classification des sciences de M. Herbert Spencer.
+##### A. De la classification des sciences de M. Herbert Spencer.
 
 Depuis que le chapitre précédent est écrit, j'ai trouvé dans la *Classification des sciences* par Herbert Spencer, des vues semblables aux miennes, quoique en un langage différent, et une réfutation de la « hiérarchie des sciences » on ne peut plus radicale et concluante. Malheureusement, M. Spencer n'est pas, ce me semble, fidèle jusqu'au hout au véritable esprit des idées qu'il met d'abord en avant, et son système de l'évolution l'entraîne à donner à sa clas- [p. 63] sification un caractère qui n'est pas simplement formel ou logique, ainsi qu'il conviendrait, mais suppose la science des sciences matériellement accomplie.
 
@@ -257,11 +256,11 @@ Il existe, en effet, deux tendances et comme deux courants opposés dans ce qu'o
 
 B
 
-### Un mot sur la morale comme science.
+#### Un mot sur la morale comme science.
 
 En disant que le jour de la séparation de la morale, ou de sa constitution comme science, n'était pas encore venu, en rappelant les dissensions de doctrine et même de méthode qui divisent les penseurs sur les questions éthiques, politiques et même économiques, je n'ai entendu rien de plus que ce que pourrait aussi bien dire de la géométrie un géomètre, si par le fait on disputait encore de la vérité des principes de cette science et de la meilleure définition de son objet. Ni les débats sur la nature des grandeurs ou même sur le fondement réel des postulats, ni les hypothèses qu'on imaginerait pour servir d'origine à la spéculation géométrique et déduire une suite de propositions, n'empêcheraient la doctrine euclidéenne d'exister [p. 76] avec ses définitions, ses axiomes, ses postulats, ses théorèmes et ses problèmes résolus. De même, et malgré les divisions des rationalistes, des utilitaires, des mystiques, il est possible de construire sur des principes nettement formulés un corps de doctrine renfermant tout l'ordre moral et fournissant à ses applications. En ce sens, l'éthique peut dès à présent se donner comme une science et proposer ses solutions dans tous les problèmes qui concernent le droit, le devoir et les institutions sociales. En essayant de composer une *Science de la morale*, ainsi qu'on l'a fait plus d'une fois et plus ou moins heureusement, suivant les principes du criticisme, on a du moins constaté que l'œuvre est *formellement* possible. Quant à l'existence *matérielle*, il semblerait bien que tout manque, alors que manque l'acceptation *générale*, le consentement universel. Mais la morale criticiste, semblable à la doctrine entière de ce nom, reconnaît pour l'un de ses premiers principes la nécessité pour *l'agent moral* de faire de sa conviction son œuvre personnelle. Ce point sera éclairci dans le chapitre qui suit.
 
-## XIX. Complément de la définition de la certitude. Du contrat personnel et du contrat social.
+### XIX. Complément de la définition de la certitude. Du contrat personnel et du contrat social.
 
 [p. 77] Récapitulons quelques points principaux acquis pour nous dans notre étude de la certitude.
 
@@ -370,9 +369,9 @@ J'inclinerais à faire une remarque inverse au su[p. 106]jet de la probabilité 
 
 L'autre partie de la probabilité morale est essentiellement de mon sujet. Je veux parler des vérités de croyance touchant le monde et l'homme, l'ordre des causes et des fins, les destinées des êtres, mais de celles-là seulement dont l'investigation est permise après qu'on a banni la fausse certitude, les chimères ontologiques et la métaphysique des infinis. L'étude des fonctions humaines et l'analyse abstraite des fondements de l'affirmation nous ont préparé les éléments d'une philosophie des probables. J'ai donné de cette philosophie et de sa méthode un premier aperçu, en traitant de la liberté, que je trouvais impliquée dans la question de la certitude, et, avant, dans la critique même des fonctions de la volonté. J'essaierai maintenant de la mettre en œuvre, en m'enfermant strictement dans les limites de la raison générale, et appelant à mon aide les inductions convenables tirées de la nature humaine et du principe de moralité qui en est le premier moteur.
 
-# Troisième partie — Les probabilités touchant l'ordre moral du monde. L'immortalité, la liberté, la divinité.
+## Troisième partie — Les probabilités touchant l'ordre moral du monde. L'immortalité, la liberté, la divinité.
 
-## XX. De l'immortalité comme loi téléologique de la nature.
+### XX. De l'immortalité comme loi téléologique de la nature.
 
 [p. 108] La science de l'ordre universel et de ce qu'on appelle Dieu, nom commun donné à des sujets bien divers et même contradictoires, a leurré cent écoles de philosophes. La raison de tant d'illusions et d'erreurs est dans l'objet même de la recherche, que l'on voulait être la cause première, la fin dernière et la nature *adéquate* de tout ce qui est. Les constructeurs de l'impossible épopée sont des poëtes, sublimes quelquefois, et quelquefois très-plats, qui se battent les flancs de leurs ailes fantastiques, hors des milieux connus ou concevables, dans le vide de la substance pure, s'efforçant d'atteindre, à travers l'infini et ses contradictions, la parfaite chimère de l'être ab- [p. 109] solu. Mais ils restent en place, et, les yeux fixés les uns sur les autres, disputent pendant les siècles à qui vole le mieux et le plus haut.
 
@@ -547,7 +546,7 @@ Lorsque j'envisage les lois de l'exercice légitime de la raison pratique, les d
 
 Il me reste à développer ce que j'indique ici, à reprendre pour le compte d'un criticisme conséquent les trois thèses de la raison pratique, *liberté*, *immortalité*, *divinité*, et à déterminer le sens à la fois le plus universel et le plus rationnel de ces deux dernières.
 
-## XXII. De la liberté et de la destinée immortelle de l'homme
+### XXII. De la liberté et de la destinée immortelle de l'homme
 
 [p. 161] Je résumerai brièvement les motifs à l'appui de la thèse de la liberté, la question devant paraître épuisée après qu'elle a été traitée à deux reprises, d'abord dans l'analyse des fonctions réfléchies de la conscience, ensuite dans celle des conditions de la certitude.
 
@@ -641,7 +640,7 @@ Le mal physique, réduit à ce qui serait sa forme absolue, la mort sans paling�
 
 Et le mal physique, en cette essence relative où il paraît lui-même une loi du progrès : l'imperfection et toutes ses formes, la douleur et les transformations douloureuses, la lutte et tous les phénomènes de la destruction actuelle, ce mal, qu'on pourrait appeler naturel, est inhérent à la donnée même de la nature. Sans pouvoir en scruter l'origine, nous sommes libres de croire qu'il forme un ensemble de moyens établis par les premiers actes des êtres et adaptés à leurs fins ultérieures.
 
-## XXIII. De la croyance la plus large en la divinité.
+### XXIII. De la croyance la plus large en la divinité.
 
 [p. 185] La première, la plus essentielle et universelle croyance en la divinité résulte de cette même généralisation de la notion des fins, où déjà la thèse de l'immortalité nous a paru nécessaire pour la satisfaction de la conscience. Je dis première, essentielle, universelle, philosophiquement parlant, non historiquement, parce que l'ordre du développement logique est et doit être souvent l'inverse de l'ordre historique.
 
@@ -661,9 +660,9 @@ On voit que la croyance de raison pratique procède à la fois et très-ouvertem
 
 Après avoir posé la plus universelle possible des formules de la divinité qui n'impliquent point contradiction, ni ne se réduisent à des idées purement négatives et à une connaissance illusoire, je dois chercher si la notion que je me forme de Dieu permet une interprétation anthropomorphique, ou l'exige ou l'interdit. Dans le cas où la loi morale et l'ordre de finalité seraient donnés éminemment dans l'univers, en la personne d'un ou de plusieurs êtres supérieurs à tous ceux que nous connaissons, et dont la durée, l'intelligence, le pouvoir, la sagesse, rendraient à la fois suffisantes et assurées les actions productives ou ordonnatrices des phénomènes, l'idée de Dieu deviendrait plus déterminée, conforme aux images que nous sommes portés à modeler d'après l'expérience, accessible enfin aux esprits que les plus hautes généralisations ne touchent point. Ce développement des croyances humaines, dont l'histoire constate une sorte de nécessité, est-il ratior-
 
-## XXIV.
+### XXIV.
 
-### Des moyens physiques de l'immortalité.
+#### Des moyens physiques de l'immortalité.
 
 [p. 197] Avant d'aborder sous un autre point de vue la question de la nature de Dieu, il convient de placer ce qui nous reste à dire de l'immortalité, quant aux moyens que l'ordre général des fins peut comporter pour le développement des consciences. Notre principe est cet ordre de bonté que nous supposons. Nous n'espérons pas en découvrir le système matériel, ce qui ne serait rien moins que pénétrer et expliquer la nature entière, ou l'ensemble des conditions les plus intimes et les plus reculées de l'existence. Mais nous voudrions indiquer la simple possibilité physique des voies de salut des personnes, et marquer l'esprit des hypothèses qui permettraient de sonder cet inconnu profond, sans admettre ni miracle dans le monde, ni abstraction violente dans les théories, retenant au contraire nos inductions dans le champ [p. 198] des phénomènes au fond semblables à ceux dont l'investigation compose nos sciences.
 
@@ -769,7 +768,7 @@ Il n'y a plus ici qu'un mot à ajouter. La *formule organique de l'évolution*, 
 
 Ce complément des hypothèses palingénésiques n'est autre chose, on le voit, qu'un système de récompenses et de peines attachées à l'exercice de [p. 244] la vie présente, et sous l'espèce des vies de nature supérieure ou inférieure qui la suivent en vertu de l'ordre du monde. La définition de ces vies surpasse l'esprit et les forces de la philosophie morale : il appartient à des religions d'essayer de les préciser en précisant aussi la nature de Dieu. En sa généralité, la donnée des récompenses ou des peines, celle des vies qui les renferment et, pour ainsi dire, les composent, se rattache à la notion la plus générale de la divinité, à Dieu comme Bien, comme réalité externe de l'harmonie des lois du cosmos et du progrès des personnes. Que ce Dieu soit lui-même personnel, ou que nous ne puissions autrement déterminer ce qu'il est qu'en posant l'extériorité de l'ordre et l'universalité des lois morales, nous verrons toujours dans le système des rémunérations une grande loi de la nature, et non de purs effets de la sentence d'un juge. Nous le devons ainsi, car le plan du monde, en toute hypothèse, est manifestement réglé par des lois générales ; et la volonté des agents libres ayant sa place en ce monde, y doit avoir aussi la place naturelle de ses œuvres et des conséquences de ses œuvres. Mais, enfin, le moment est venu de s'expliquer sur cette question de la nature de Dieu, que nous avons si longtemps ajournée.
 
-## XXV. Des hypothèses rationnelles sur la nature de Dieu.
+### XXV. Des hypothèses rationnelles sur la nature de Dieu.
 
 [p. 245] Notre point de vue de la thèse divine est le plus favorable possible à l'opinion de la personnalité de Dieu. Les philosophes qui spéculent sur la perfection métaphysique de l'être et sur la substance aux attributs infinis sont logiquement impuissants, l'histoire l'a prouvé, à extraire de leurs formules autre chose que la vaine ontologie qu'ils y ont insérée. Ils ne sortent de leurs chimères qu'en ajoutant une contradiction aux contradictions déjà entassées. Mais ici, nous partons d'une notion suprême, obtenue en généralisant les attributs les plus spéciaux de la personne. Rien ne sera donc si aisé, ce semble, que de personnaliser l'objet divin admis déjà dans notre croyance. Ce n'est pas tout : les démonstrations de l'existence de Dieu fondées sur la causalité ou sur l'essence nécessaire, ont été renversées par le criticisme. Celle qui est tirée de l'ordre du monde, et qui n'est pas plus solide que les autres sous la forme vulgaire des [p. 246] *théologies de la nature*, va prendre, au contraire, une apparence imposante pour nous qu'il abordons après avoir reconnu un ordre cosmique moral et les destinées immortelles des êtres. Ainsi, sous ce rapport encore, la personnalité de Dieu semble nous être indiquée comme la conclusion attendue et le couronnement presque nécessaire des probabilités de la raison pratique. Nous allons voir cependant qu'il est difficile de prendre un parti, impossible de le justifier, quel qu'il soit, par des motifs semblables à ceux qui nous ont guidés jusqu'ici.
 
@@ -843,9 +842,9 @@ L'exposition qui précède était réclamée pour le [p. 268] complément de not
 
 Fin du Deuxième Essai.
 
-## Formulaire du Traité de Psychologie rationnelle.
+### Formulaire du Traité de Psychologie rationnelle.
 
-### A. L'analyse des fonctions humaines.
+#### A. L'analyse des fonctions humaines.
 
 [p. 269] L'homme est une fonction particulière de toutes les fonctions données dans le monde, et qui tombent sous la connaissance : toutes les catégories sont impliquées dans la représentation de l'homme pour l'homme, aussi bien que dans la représentation du monde pour l'homme.
 
@@ -957,7 +956,7 @@ On remarque en effet chez l'homme un élément représentatif proprement dit, à
 
 Ces grandes fonctions sont indissolubles chez l'homme, non qu'un phénomène humain quelconque les implique toujours toutes et au même degré, mais en ce sens que l'homme normal est leur synthèse, et que, prises dans un certain ordre, chacune d'elles suppose données toutes les précédentes.
 
-### 7. Finalité : *Passion, Instinct, Habitude.*
+#### 7. Finalité : *Passion, Instinct, Habitude.*
 
 La *Passion* est la fonction donnée dans la synthèse d'un *État* et d'une *Tendance* de la conscience (la tendance étant simultanément relative à un état initial et à un état final, et par suite séparément négative de chacun d'eux).
 
@@ -1139,7 +1138,7 @@ Puisque tant de motifs de *croire* à la liberté sont réunis, que les thèses 
 
 Si nous reconnaissons n'avoir d'aucun objet, fût-il même tout rationnel, un genre de certitude où notre personne au fond ne se trouve en jeu, il ne faudra pas nous étonner d'avoir été conduits à [p. 308] voir dans la liberté affirmée un acte de la liberté. Mais il est juste que l'acte éminent de la personnalité soit l'affirmation qu'elle est appelée à faire d'elle-même.
 
-### B. La question de la certitude.
+#### B. La question de la certitude.
 
 Le contraire de la certitude est l'incertitude. L'homme incertain est celui qui en présence d'une représentation sensible ou intellectuelle, doute de ses propres fonctions et des rapports qu'elles posent, ou de la réalité d'un objet qu'ils semblent impliquer ;
 
@@ -1257,7 +1256,7 @@ Ce grand changement exigerait, en théorie, que les droits d'une conscience ne t
 
 Mais cette universalité consentante est une idée moins réalisée que poursuivie, ou simplement supposée. La pratique la fausse en voulant l'obtenir. L'unité et l'ordre libre, impossibles dans l'actualité des faits, ne se retrouvent en quelque manière que dans une loi de variation et de développement, lorsqu'un peuple est capable de substituer la chaîne du progrès à celle des traditions rompues.
 
-### C. La classification des sciences.
+#### C. La classification des sciences.
 
 [p. 326] La fondation et les travaux des sciences impliquent les thèses de réalité appartenant au premier ordre de la certitude et relatives, les unes à l'usage des lois de la conscience, les autres aux données synthétiques du monde externe. L'analyse et la définition des thèses de *choses* sont l'objet et la fin des sciences constituées, et ne sauraient en être le commencement, malgré les longues illusions qu'on s'est faites à cet égard. L'éclaircissement et la coordination des thèses de *principes* n'appartiennent qu'à la critique générale. Les sciences partent en tout des mêmes synthèses que la connaissance vulgaire, et sont impuissantes à les dominer *a priori*.
 
@@ -1279,7 +1278,7 @@ L'*hypothèse* est un moyen de recherche, en même temps que de coordination pro
 
 Il n'y a pas de sciences qu'on puisse appeler constituées, en dehors des classes ainsi définies. On peut, pour plus de clarté, les réunir dans le tableau suivant, sans prétendre à beaucoup près ni épuiser, ni même définir trop rigoureusement les subdivisions, qui n'ont souvent d'intérêt que pour la division du travail entre les savants.
 
-### Formulaire
+#### Formulaire
 
 [p. 330] *Logiques* (ont pour objet les relations abstraites et générales de) | *Poiologie* (qualité)……… { A. Logique formelle.
 | | A. Grammaire générale.
@@ -1319,7 +1318,7 @@ Des sciences........ { Logique. Cosmique. Éthique. Esthétique. Linguistique. E
 
 Des notions morales........ { Anthropologique.... { Histoire de la philosophie. Histoire de la philosophie. Histoire des religions. Histoire de l'art. Histoire des faits économiques et politiques, etc., etc.
 
-### D. Les probabilités morales.
+#### D. Les probabilités morales.
 
 [p. 334] La croyance, plus ou moins généralisée parmi les hommes, reste en possession de tout le domaine des jugements qui ne sont pas compris dans ce premier ordre de la certitude dont on a vu les bornes, ou qui ne s'y ramènent pas progressivement par la voie des sciences.
 
@@ -1449,7 +1448,7 @@ Les motifs de se déterminer dans cet ordre de questions n'ont plus la même gé
 
 Fin du formulaire.
 
-## Note finale
+### Note finale
 
 [p. 357] reproduisant une explication de l'auteur donnée en tête de la première édition de cet ouvrage.
 

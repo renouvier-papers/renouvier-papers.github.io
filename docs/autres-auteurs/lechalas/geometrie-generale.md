@@ -1,6 +1,5 @@
 ---
 title: "Introduction à la géométrie générale"
-# Navigation a definir avec Arthur (section Autres auteurs / par auteur)
 ---
 
 # Introduction à la géométrie générale

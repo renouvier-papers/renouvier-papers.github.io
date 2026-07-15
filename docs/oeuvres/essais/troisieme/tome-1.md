@@ -1,9 +1,8 @@
 ---
-title: "Tome 1"
-parent: "Troisième Essai — Principes de la nature"
-grand_parent: Œuvres
-nav_order: 1
+title: "Tome I"
 ---
+
+# Tome I
 
 > Charles Renouvier, *Essais de critique générale. Troisième Essai. Les Principes de la nature*, 2e édition corrigée et augmentée, Paris, 1892, tome 1.
 >
@@ -11,9 +10,9 @@ nav_order: 1
 
 ---
 
-# Introduction — Résumé des principes de la psychologie rationnelle
+## Introduction — Résumé des principes de la psychologie rationnelle
 
-## A. L'analyse des fonctions humaines.
+### A. L'analyse des fonctions humaines.
 
 [p. I] L'homme est une fonction particulière de toutes les fonctions données dans le monde, et qui tombent sous la connaissance : toutes les catégories sont impliquées dans la représentation de l'homme pour l'homme, aussi bien [p. II] que dans la représentation du monde pour l'homme.
 
@@ -268,7 +267,7 @@ Et en effet, cette action, bien examinée, n'offre à l'analyse rien au delà de
 
 La volonté n'est pas moins pour cela la cause éminente, dès qu'elle se montre. C'est elle qui, propre à l'homme, comme une sorte de représentation automotive, décide des autres représentations actuelles, qui, à leur tour, sont suivies des mouvements, comme ils le sont chez les animaux, où cette représentation supérieure n'existe pas.
 
-### 9. Personnalité : *Liberté*. — La *Personnalité* réunit toutes les catégories, du point de vue de l'homme, et se caractérise définitivement [p. XXXIV] quand, la *Causalité* et la *Finalité* une fois bien étudiées, le *Soi* et le *Non-Soi* se posent avec la plus grande distinction possible dans la *Conscience*.
+#### 9. Personnalité : *Liberté*. — La *Personnalité* réunit toutes les catégories, du point de vue de l'homme, et se caractérise définitivement [p. XXXIV] quand, la *Causalité* et la *Finalité* une fois bien étudiées, le *Soi* et le *Non-Soi* se posent avec la plus grande distinction possible dans la *Conscience*.
 
 Mais la conscience humaine n'aurait pas cette suprême individualité qui semble résulter de l'analyse, si les imaginations et les passions auxquelles se subordonne l'organisme dans certaines séries de phénomènes, suivaient elles-mêmes une loi générale et nécessaire de développement, en sorte que l'automotivité des représentations ne fût qu'apparente. La question de la liberté est donc celle de la personnalité même.
 
@@ -322,7 +321,7 @@ Puisque tant de motifs de *croire* à la liberté sont réunis, que les thèses 
 
 Si nous reconnaissons n'avoir d'aucun objet, fût-il même tout rationnel, un genre de certitude où notre personne au fond ne se trouve en jeu, il ne faudra pas nous étonner d'avoir été conduits à voir dans la liberté affirmée un acte de la liberté. Mais il est juste que l'acte éminent de la personnalité soit l'affirmation qu'elle est appelée à faire d'elle-même.
 
-## B. La question de la certitude.
+### B. La question de la certitude.
 
 [p. XLIV] Le contraire de la certitude est l'incertitude. L'homme incertain est celui qui, en présence d'une représentation sensible ou intellectuelle, doute de la rectitude de ses propres fonctions et des rapports qu'elles posent, ou de la réalité d'un objet qu'ils semblent impliquer ;
 
@@ -440,7 +439,7 @@ Mais cette universalité consentante est une idée moins réalisée que poursuiv
 
 ---
 
-## C. La classification des sciences.
+### C. La classification des sciences.
 
 [p. LXIV] La fondation et les travaux des sciences impliquent les thèses de réalité appartenant au premier ordre de la certitude et relatives, les unes, à l'usage des lois de la conscience, les autres, aux données synthétiques du monde externe. L'analyse et la définition des thèses de *choses* sont l'objet et la fin des sciences constituées, et ne sauraient en être le commencement, malgré les longues illusions qu'on s'est fait à cet égard. L'éclaircissement et la coordination des thèses de *principes* n'appartiennent qu'à la critique générale. Les sciences partent en tout des mêmes synthèses que la connaissance vulgaire, et sont impuissantes à les dominer *a priori*.
 
@@ -507,7 +506,7 @@ CRITIQUE
 
 Le tableau ci-contre est une esquisse de la division des études philosophiques et morales, tant générales que particulières, considérées à ce point de vue.
 
-## D. Les probabilités morales.
+### D. Les probabilités morales.
 
 [p. LXXII] La croyance, plus ou moins généralisée parmi les hommes, reste en possession de tout le domaine des jugements qui ne sont pas compris dans ce premier ordre de la certitude dont on a vu les bornes, ou qui ne s'y ramènent pas progressivement par la voie des sciences.
 
@@ -641,7 +640,7 @@ Est-ce donc le dernier mot de la *Critique de la connaissance* ? On peut faire u
 
 Si nous pesons bien cet argument, la philo- [p. XCVIII] sophie critique, nécessairement bornée par sa thèse du premier commencement, posant la limite extrême de la connaissance, ne s'arrêtera pas avant d'avoir atteint le point le plus élevé de la théorie des postulats de la raison : l'unité de la conscience première. Le *premier commencement* deviendra *l'acte de la création*. L'impénétrable est alors Dieu *cause de soi*, comme quelques théologiens et philosophes l'ont nommé, c'est-à-dire Dieu antérieur à son œuvre et à lui-même [^pXCVIII-1].
 
-## I. Résumé. Plan.
+### I. Résumé. Plan.
 
 [p. 1] Lorsque Descartes fit du doute universel un moment préparatoire du système des connaissances certaines, on lui objecta l'impossibilité de soustraire l'entendement au joug des pensées dont en effet l'on ne doute pas. Lui-même fut loin de porter l'effort à cet égard jusqu'aux limites du possible. Les dogmes traditionnels de la philosophie, la substantialité, la causalité, s'imposèrent à lui sans critique, comme si ces grandes abstractions réalisées eussent pu partager l'évidence première des phénomènes. Il est difficile à un philosophe d'échapper aux conditions de son éducation et de son siècle ; il lui est impossible, en réglant les premières données qu'il accepte et [p. 2] veut tenir pour indubitables, de ne point les choisir et les disposer de manière à préparer la déduction commode des propositions dont il est d'avance persuadé, et qu'il destine à former son établissement définitif.
 
@@ -671,7 +670,7 @@ Je commence par traiter du fond et des modes premiers et universels de l'existen
 
 Ainsi ce nouvel *Essai* doit s'envisager beaucoup moins en lui-même que comme une transition de la logique à l'histoire, par la physique et l'histoire naturelle, et seulement autant que la critique peut se flatter de sonder l'intervalle.
 
-## II. La nature de l'être sous l'aspect le plus général.
+### II. La nature de l'être sous l'aspect le plus général.
 
 J'ai étudié l'Homme et ses fonctions, défini la Certitude, la Liberté, la Croyance, enfin conclu de la Loi morale aux destinées de la Personne et à l'ordre suprême du Monde. Je reviens main- [p. 12] tenant à l'idée de la Nature ; je m'efforce de la poser dans le plus haut degré de généralité où elle soit encore accessible à la connaissance, et de scruter les rapports intimes qu'elle soutient avec la loi de personnalité.
 
@@ -719,7 +718,7 @@ Et si nous ne considérons pas, ainsi que Leibniz, au fond, le faisait, un être
 
 Celui qui aura regardé en face le problème de la cause, si l'on persiste à l'appeler problème, qui dès lors en aura compris l'insolubilité, — et il suffit pour cela qu'il envisage, d'un côté, la force dans sa propre conscience où il en possède le type unique pour lui, et d'un autre côté un effet de cette force posé extérieurement, c'est-à-dire une force donnée extérieurement, et entre deux le vide complet de la connaissance, — celui-là se fera de l'ordre du monde une idée véritable, une idée, la plus haute et la plus irréductible de toutes, après celle de la donnée première ou actuelle des phénomènes quelconques. Que maintenant il étende aux autres formes essentielles de la Relation cet aveu qui vaut science ; que de plus il reconnaisse le fait de la liberté dans la conscience humaine, après s'être rendu compte [p. 24] de ce que ce fait entraîne sur la question de la génération des phénomènes, et après avoir lu, compris et rejeté ce que les philosophes ont écrit en faveur de l'absolu, de l'infini, de la substance et de la préexistence éternelle des choses : la carrière interminable de l'analyse et des théories secondaires s'ouvre devant lui, mais il lui reste peu à approfondir en philosophie.
 
-## III. Suite. — L'être physique. L'atomisme.
+### III. Suite. — L'être physique. L'atomisme.
 
 Suite. — L'être physique. L'atomisme.
 
@@ -765,9 +764,9 @@ On pourrait vouloir concilier le plein avec la liberté humaine en supposant une
 
 On serait donc amené à poser un accord spontané entre les conséquences attachées aux déterminations imprévues et imprévoyables des agents libres et la suite continue des révolutions dans l'espace d'une matière toujours et partout solidaire. Si maintenant on supposait cette harmonie donnée anticipativement, et l'ordre total des mouvements réglé par une loi indéfectible, c'est donc que l'on voudrait concilier la liberté et la nécessité. Il y a contradiction. Si l'on préférait admettre que chaque détermination locomotive libre entraîne, à l'instant où elle se décide, un mouvement nouveau qui commence simultanément dans toutes les parties de l'étendue, on se jetterait dans une hypothèse incompréhensible en dehors [p. 46] de toute loi. Si enfin on bornait l'harmonie à une sphère limitée de l'espace autour du sujet libre, c'est-à-dire au moindre milieu annulaire dont le mouvement de ce sujet exige la révolution, il faudrait pourtant que la circulation spontanée de cette portion variable et accidentelle de la matière se produisît en vertu d'un accord basé sur une loi générale, antérieure, constante, ce qui ne se comprendrait plus, car on se serait retiré tout moyen et tout fondement de généralisation. Et je ne suppose pas qu'on eût recours à Dieu (*deus ex machina*) comme les disciples de Descartes. Nous connaissons le précipice de cette sorte de physique théologique : le système des *causes occasionnelles*. Mais on ne trouverait pas d'autre ressource. C'est pour arriver là qu'on aurait mis de côté tout ce que l'expérience nous suggère si naturellement sur l'individualité des corps, sur la propagation du mouvement, sur sa naissance et sa communication par les actions et réactions des êtres élémentaires, par leurs oscillations dans des intervalles vides. Et, je le répète, en me reportant au début de cette analyse, on ne parviendra jamais à se faire une idée de la manière dont une circonférence matérielle pleine, par exemple, tournant autour de son centre dans son plan, pourrait devoir sa révolution à l'impulsion de l'un des éléments solidaires qui la composent. A cet égard, l'ar[p. 47]gumentation des atomistes est irréfutable [^p47-1].
 
-### Observations et développements.
+#### Observations et développements.
 
-#### A. Impossibilité de la matière continue.
+##### A. Impossibilité de la matière continue.
 
 Saint-Venant a résumé dans les termes suivants [^p47-2] l'état de la question physico-mathématique de la composition de la matière. Rien n'a pu le changer depuis.
 
@@ -824,7 +823,7 @@ Supposons cette suite donnée, nous pourrons former une autre suite toute et exc
 
 J'ai recueilli un certain nombre de manières de démontrer ce théorème ; j'en ai essayé moi-même quelques autres. Celle-ci me parait la plus simple et absolument irréfragable.
 
-### C
+#### C
 
 [p. 56] Les intégrations en mathématique et en physique.
 
@@ -874,7 +873,7 @@ Nous avons dit de l'atome (ci-dessus, p. 38) : « Sa nature ne se définit que p
 
 On demanderait aussi bien et mieux, plus généralement, comment la méthode qui n'admet que des phénomènes et des lois peut s'accorder avec la reconnaissance réelle des êtres de la nature, avec tout ce qu'exige théoriquement et pratiquement la croyance commune, et qui est aussi la nôtre, aux existences externes, individuelles, et au monde entier de la vie. Cette question n'est donc que celle à laquelle nous avons répondu en montrant le vide de la notion de substance appliquée à la définition prétendue des êtres, soit matériels, soit personnels, puis en développant les idées les plus générales de fonction et de loi dans leur sens concret. Elles renferment, en ce sens, et permettent de présenter sous une forme, la seule scientifique, et même la seule intelligible au fond, tout ce que nous savons ou d'un corps ou d'une conscience, c'est-à-dire les relations tant internes qu'externes qui les constituent et au delà desquelles il n'y a pas de connaissance possible [^p68-1]. Or le monadisme est une théorie générale de l'existence où il est facile de considérer l'idée de *substance*, appliquée à toutes les monades, comme l'expression générale et symbolique de l'unité de l'être individuel, et l'idée d'*âme* comme cette même idée relative soit au principe élémentaire, soit surtout au principe hégé- [p. 69] monique d'une composition et d'un organisme de monades, tels que sont les êtres vivants et animés. Si l'on s'enquiert de la vraie notion leibnizienne de la monade, on s'apercevra, en écartant les termes substantialistes, abstraits et vides, qu'elle consiste toute en la position d'une loi qui assemble en un seul faisceau les trois grandes *qualités internes* constitutives de l'être sensible : la *perception* et l'*appétit*, joints à la *force*, principe du changement. C'est une vraie définition de l'être représentatif que Leibniz donne de cette façon ; lui-même ne rejette pas d'une manière absolue l'application du terme d'*âme* aux plus inférieures de ces *fonctions* (comme nous les nommons en phénoménologie rationnelle) qu'il appelle des *entéléchies* ; et si nous ajoutons à cela que sa théorie du temps et de l'espace, et celle des actions externes, ou de la causalité, sont à peu près celles que le criticisme phénoméniste s'approprie, nous conclurons que l'on peut, sans beaucoup d'efforts d'interprétation, réduire à des questions de mots la différence entre cette dernière méthode et la partie de la monadologie leibnizienne relative à la notion de l'être. (Voir Leibniz, *Monadologie*, §§ I-III et VIII-XIX, et l'appendice, à la fin du second volume du présent ouvrage, où il est traité de l'*accord de la méthode phénoméniste avec les doctrines de la création et de la réalité de la nature*).
 
-## IV. Suite. — Vue générale du fond de la nature.
+### IV. Suite. — Vue générale du fond de la nature.
 
 [p. 70] Suite. — Vue générale du fond de la nature.
 
@@ -979,7 +978,7 @@ originaire, ni la régression infinie dans le passé [p. 78] ne réussissaient �
 
 La partie en quelque sorte extérieure des forces, leur efficacité dans les sphères où elles s'étendent, les communications qui en résultent, représentent donc une harmonie des êtres, un [p. 79] ordre, des lois, lois toujours inhérentes à toutes les définitions possibles de ces êtres eux-mêmes. Cet ordre existe d'abord entre les pulsations les plus simples qui se réunissent pour composer les fonctions des êtres élémentaires ; il se retrouve dans les composés, pour former des fonctions physiques plus complexes ; dans les corps vivants, où il réduit à l'unité d'un tout les produits de tant d'énergies de genres différents ; enfin, dans les êtres personnels, dont l'individualité, la permanence et la mémoire, c'est-à-dire la conscience même, n'ont pas d'autre fondement. Il ne change pas de nature quand il se produit entre des phénomènes appartenant à des groupes différents, entre un mouvement et un autre mouvement, une représentation et une autre représentation, une conscience et les objets de ses déterminations, au lieu de relier seulement, dans le temps et dans l'espace, les éléments de chacun de ces groupes individuels qui sont les êtres, ou, moins que cela, les actions dernières dont la répétition périodique définit l'existence d'un atome en un point donné. Ce sont toujours des lois, rien que des lois, qui font du monde cet ensemble d'êtres qu'il est ; et comme des phénomènes incohérents ne pourraient ni connaître ni être connus, je répète pour terminer que ces lois sont une partie intrinsèque de l'existence, et ne peuvent pas plus qu'elle être expliquées ou mises en problème.
 
-### Observations et développements.
+#### Observations et développements.
 
 [p. 80] **A**
 
@@ -1030,7 +1029,7 @@ Une illusion ou un sophisme ne saurait être le principe d'une idée vraiment gr
 
 B
 
-#### Kant et la critique de l'infini.
+##### Kant et la critique de l'infini.
 
 C'est un grand malheur pour la philosophie, que la critique de Kant ne se soit pas solidement fixée sur une question dont l'importance, au point de vue critique précisément, surpasse celle de toute autre : la question de l'infini en nombre. L'aspect général du criticisme, ses conclusions, la nature de son influence sur les esprits, encore aujourd'hui si incertaine et si mêlée, eussent été entièrement changées. La racine de l'erreur, chez Kant, n'est pas dans les notions de nombre, de multiplication et de sommation, un génie si logique et si mathématique ne pouvait guère se tromper sur ce point, mais elle est encore plus profonde ; elle porte sur les idées de l'être, de la réalité et du phénomène. Eclaircissons cela.
 
@@ -1040,7 +1039,7 @@ Les antinomies kantiennes relatives à cette question nous disent : « Le monde 
 
 Mais le monde phénoménal, le monde sensible, le monde considéré dans la représentation, nous vient ici avec une équivoque bien extraordinaire, qui se reproduit fréquemment dans la *Critique de la raison pure*. Si les phénomènes de ce monde, depuis qu'il existe, sont des représentations distinctes les unes des autres, données dans des consciences réelles ; si ce n'est pas par pure politesse que le philosophe parle de *nos* représentations et de *nos* facultés quand il pourrait ou devrait dire partout : *mes* représentations, *mes* facultés ; s'il fait la grâce à ses contemporains, et puis aux hommes de l'histoire et des anciens âges, d'admettre leur existence, s'il ne croit pas que les animaux soient des apparences illusoires ; si les phénomènes de l'univers physique, encore bien que réductibles à la sensibilité, lui paraissent sous ce rapport même (et comment pourrait-il en être autrement ?) constituer de certaines manières d'être, il est logiquement impossible qu'il [p. 88] refuse à tous ces phénomènes divers, et réels comme phénomènes, le caractère numérique. Il faut donc qu'ils aient formé et qu'ils forment des nombres, *un nombre*, et que ce nombre soit fini ou infini. Mais l'infini est contradictoire. Donc *la thèse* est vraie et *l'antithèse* est fausse. Kant s'est refusé à le reconnaître. Est-ce donc que son genre d'idéalisme était au fond un monisme absolu, et l'univers, à ses yeux, une pure apparence ? Il est difficile d'en décider.
 
-## V. Conjectures sur le fond des lois naturelles. — Physique spéciale.
+### V. Conjectures sur le fond des lois naturelles. — Physique spéciale.
 
 La presque totalité des phénomènes qui composent l'histoire physique des êtres nous est profondément inconnue. Nous posons quelques principes sur ce que j'ai appelé le fond de la nature ; nous atteignons par l'expérience un très petit nombre des faits du passé ; nous observons dans le présent les grandes résultantes d'une multitude de forces dont les éléments sont cachés, et l'intervalle jeté entre nos connaissances rationnelles les plus générales et les phénomènes particuliers qui s'accumulent pour la moindre de nos sensations laisse à peine paraître de loin en loin quelques-unes de nos découvertes ou de nos hypothèses les plus heureuses. Contre une des [p. 89] grandes lois naturelles, définie et confirmée de­puis deux siècles à peine, la loi de la gravi­tation, nous pourrions en soupçonner, dans la masse de nos observations, autant d'ignorées qu'il y a de classes importantes des fonctions des corps : cohésion, élasticité, mouvement commu­niqué, chaleur, lumière, électricité, affinités, pro­priétés organiques. Si nous croyons savoir quel­que chose de plus de la lumière, c'est grâce à une hypothèse suggérée par l'analogie des phéno­mènes optiques et des phénomènes acoustiques ; encore l'*éther* n'est-il pas coërcible comme l'air, jusqu'à présent du moins, et son existence reste douteuse, et nous ne pénétrons rien du rapport d'un tel fluide élastique avec nos organes sen­sibles, non plus que de ceux-ci avec les sensa­tions elles-mêmes.
 
@@ -1113,9 +1112,9 @@ Quand nous laissons de côté les prétendus fluides électriques, sur ce motif,
 
 Le caractère fondamental des actions électriques paraît être une orientation commune des molécules des corps où elles se produisent. Dans cet état, la matière se *polarise*, c'est-à-dire que les attractions et répulsions s'y exercent et s'y étendent en un sens déterminé, suivant lequel se placent probablement les axes de figure des molécules affectées. La polarité régit, selon toute apparence, des classes importantes de phénomènes en intervenant dans les lois de la lumière et de la chaleur. Ici elle est le fait capital et caractéristique. On sait qu'elle appartient au magnétisme comme à l'électricité, et suivant une relation très simple : les *courants* électriques et les aimants ont une action réciproque qui tend à placer les corps de telle manière que les lignes joignant leurs pôles soient respectivement perpendiculaires. Or cette relation, que l'expérience a fait connaître, s'explique par la répulsion mutuelle des éléments, qui acquièrent dans l'aimant et dans le courant des propriétés polaires. D'une autre part, les courants électriques s'influencent, et tendent à donner aux éléments qu'ils parcourent des directions parallèles entre elles, de sorte qu'on a pu considérer un aimant comme un courant hélicoïdal, obtenir sur ce fondement des [p. 120] aimants électriques, et arriver à reconnaître l'identité des forces électriques et magnétiques. La seule différence qui subsiste entre les états des corps à fonctions magnétiques et des corps qui traversent des courants est celle qui peut appartenir aux effets des mêmes forces, tantôt statiques, tantôt dynamiques.
 
-### Observations et développemens.
+#### Observations et développemens.
 
-#### A
+##### A
 
 La matière, le mouvement et la force.
 
@@ -1131,7 +1130,7 @@ Les progrès les plus récents de l'application de l'électricité aux machines 
 
 Tout ceci bien examiné, si nous ajoutons que la réduction de la force au mouvement, en physique, satisfait mal à l'idée philosophique de force et de cause, il est clair qu'on doit chercher ailleurs l'éclaircissement de cette dernière.
 
-#### B. La physique de Kant.
+##### B. La physique de Kant.
 
 Les *Principes de la nature* de Kant dépassent, pour la rigueur des concepts et la profondeur des vues, non seulement tout ce qui s'enseignait de son temps, et ce qu'on a enseigné depuis dans les écoles, ce qui serait bien peu dire, mais aussi et de fort loin les tentatives dogmatiques de ses successeurs dans le domaine de la physique. Ils s'opposent à ces dernières en ce qu'ils sont vraiment scientifiques, et *métaphysiques* de nom seulement, c'est-à-dire d'une [p. 125] entière généralité, exempts d'hypothèses ontologiques sur la matière et la force ; et ils diffèrent des notions mal éclaircies, ou vagues, ou faussement empiriques dont se contentent les professeurs, par un caractère d'abstraction logique et de positivité précise des définitions, auquel ils doivent d'occuper dignement la place réservée dans le criticisme à la critique des idées les plus générales sur le monde matériel. Il ne faut que les compléter par la théorie kantienne du ciel, partie plus concrète et hypothétique du même sujet, dont nous parlerons plus loin, et l'on aura un système général de philosophie physique, qui reste jusqu'à présent la seule construction de ce genre appuyée sur des notions correctes, et ne réclamerait que des changements d'ordre secondaire. Il faudrait surtout en éliminer une partie factice, qui a pour objet la distribution et la classification des chapitres de l'ouvrage. L'auteur s'oblige à en arranger les matières dans un ordre conforme à son tableau artificiel des catégories, et se jette, là comme ailleurs et presque partout, dans une recherche de rapports obscurs, difficiles, forcés, qui rebutent le lecteur, à moins qu'il ne prenne le parti de n'en tenir point compte et de considérer lui-même les divisions du sujet indépendamment de la classification des concepts, cette partie manquée de l'analytique transcendantale. Alors tout devient clair.
 
@@ -1149,7 +1148,7 @@ Les explications de Kant sur la masse et l'inertie ne sont pas moins satisfaisan
 
 Enfin, Kant a parfaitement compris que la loi de l'inertie, — impossibilité pour un corps de changer son état de repos ou de mouvement sans cause extérieure, — n'est autre chose qu'un corollaire du con- [p. 131] cept du sujet passif et abstrait de la science physique et mécanique. « L'inertie de la matière n'est et ne signifie rien, dit-il, que le *manque de vie* de la matière *en tant que matière*. On appelle *vie*, dans une substance, le pouvoir qu'elle a de se déterminer à agir en vertu d'un principe interne... Or, nous ne connaissons pour une substance d'autre principe interne qui puisse la déterminer à changer d'état que le *désir* ; nous ne connaissons d'autre activité interne que la *pensée*, et avec elle ce qui en dépend, le *sentiment* du plaisir et de la peine et le *désir* ou la volonté. Mais ces principes de détermination et ces actions ne font point partie des représentations des sens externes, ni par conséquent des déterminations de la matière en tant que matière. Donc toute matière comme telle est *privée de vie*... Dans la science de la nature, en effet, il est nécessaire de connaître d'abord les lois de la matière en tant que matière, et de les purifier de l'immixtion de toutes les autres causes efficientes avant que de l'unir à ces dernières, afin de bien discerner quel effet produit chacune de ces causes prise à elle seule et comment elle le produit. La possibilité d'une science propre de la nature repose tout entière sur la loi de l'inertie (jointe à la loi de la persistance de la substance). L'*hylozoïsme*, qui est le contraire de cette loi, est par là aussi la mort de toute science vraie de la nature [^p131-1]. » [p. 132] Il faudrait cependant ajouter, mais ceci n'est plus dans les idées de Kant, que, en dehors de cette science des abstractions de l'ordre matériel, science nécessaire et fondamentale, ainsi qu'il le dit, un *hylozoïsme* bien entendu serait à plus juste titre une *science propre de la nature*, une *science vraie de la nature*, s'il nous était possible de pénétrer mieux que par des hypothèses encore trop vagues dans l'être intime des êtres qui n'ont à nos yeux que des fonctions mécaniques.
 
-## VI. Suite. — Phénomènes chimiques.
+### VI. Suite. — Phénomènes chimiques.
 
 L'étude des phénomènes en est venue au point d'offrir une transition, avec identification probable, entre des phénomènes autrefois distingués profondément et répartis entre la physique et la chimie. Non seulement la chaleur fait et défait les combinaisons, mais sa mesure se montre liée à la nature spécifique des différents corps et est une circonstance capitale de leurs réactions. Il existe également une dépendance entre les fonctions de la lumière et la composition des corps. [p. 133] Toutes les actions chimiques impliquent une production d'électricité ; et, réciproquement, c'est une opinion appuyée sur beaucoup de faits, que tout phénomène électrique se lie à un développement des *affinités*, c'est-à-dire des forces propres à modifier la composition élémentaire des corps. Si l'électricité est statique, ces forces pourraient, dans cette hypothèse, n'être pas portées au degré suffisant pour amener l'action chimique déclarée ; si l'électricité est dynamique, on peut concevoir une série de décompositions et de recompositions effectuées dans le trajet d'un courant, de molécule à molécule : ce n'est alors qu'aux pôles d'une *pile*, où le courant est interrompu, que se produiraient des effets permanents de composition et de décomposition ; et ils s'y produisent en effet avec une grande énergie, accompagnés de tous les autres modes de la force physique.
 
@@ -1195,7 +1194,7 @@ En général, les relations géométriques et mécaniques (car sous l'arithméti
 
 Si mon plan comportait toute une philosophie des sciences, au lieu de se borner à l'éclaircis[p. 151]sement critique des principes de la nature, il me resterait à parler d'un sujet dont l'intérêt théorique est grand, et qui d'ailleurs embrasse à peu près toute la chimie : je veux dire la nomenclature, les substitutions et les rôles que les premiers composés ou certains de leurs éléments prennent en des séries de formation plus complexe. Mais la science est en révolution à cet égard, le débat est avant tout technique, entre chimistes, et ne conclut pas encore. Dans ces questions, l'atomistique principalement est en jeu, et l'on manque d'une conception qui s'impose à tous. Dans d'autres, que je laisse également de côté, les lois des combinaisons ne sont pas exclusivement chimiques, et tout au moins intéressent des fonctions biologiques, ainsi que le prouvent les belles découvertes récentes sur la fermentation et sur les altérations morbides de l'organisme animal. Ce qu'on pourra dire un jour de général et de philosophique sur des sujets de cette nature intéressera essentiellement la biologie. Mais aujourd'hui traiter de la chimie propre des corps vivants, et vouloir rester en même temps dans les généralités, ce serait, il faut l'avouer, marcher en parfaites ténèbres.
 
-### Observations et développements.
+#### Observations et développements.
 
 [p. 152] **A**
 
@@ -1207,7 +1206,7 @@ En résumé, la force doit s'entendre : 1° d'un état subjectif des êtres, à 
 
 L'extension de la réalité de l'action et de la cause, et [p. 156] l'attribution d'un degré de conscience aux êtres de la nature dès qu'ils atteignent l'individualité et des propriétés spécifiques, et par conséquent aux sujets des études chimiques, sont des thèses qui ne peuvent manquer de rappeler la doctrine métaphysique de Schopenhauer qui regarde la volonté comme le principe de l'être. Mais j'ai à peine besoin de rappeler les différences qui vont à exclure toute comparaison possible. Je n'admets pas une volonté antérieure à la conscience, aveugle par conséquent, et à laquelle ne convient pas même le nom de *force* tel que je l'ai expliqué. Je n'admets pas d'agent universel de ce nom, ou de toute autre dénomination, dont les individus ne seraient que des émanations. Je n'admets pas une matière qui serait l'incarnation de cet agent, tout en n'ayant pas d'existence en dehors de ma représentation, et je n'admets pas une théorie de la causalité qui établit le déterminisme universel et absolu. Sous ces réserves énormes, je suis plein d'admiration pour le génie métaphysique de Schopenhauer.
 
-#### B. La doctrine atomistique actuelle.
+##### B. La doctrine atomistique actuelle.
 
 La plupart des chimistes sont loin de regarder comme démontrée la nécessité logique d'exclure *a priori* les hypothèses du plein et du continu pour rendre compte de la constitution et des propriétés de [p. 157] la matière ; mais, en réalité, et contre l'ordinaire de ce qui s'observe dans l'histoire des sciences, au lieu de travailler à faire rentrer dans une théorie antérieurement conçue les faits successivement découverts, c'est par les faits qu'ils se voient forcés d'user du langage et d'accepter les explications d'une théorie. Cette théorie est celle qui regarde la matière comme composée d'éléments distincts, partout soumis à des déterminations numériques, séparés par des intervalles vides, et doués de propriétés spécifiques par lesquelles ils contractent des liaisons diverses, — la question *physique* restant réservée, de savoir si ou comment ces éléments *chimiques* tiennent eux-mêmes ces propriétés spécifiques de leurs états de composition par rapport à de définitifs atomes, centres inétendus de forces attractives et répulsives[^p157-1].
 
@@ -1215,7 +1214,7 @@ La philosophie est responsable de l'hésitation des chimistes. Ils professeraien
 
 Mais il faut se garder de confondre l'atomisme, en ses traits généraux que je viens de rappeler, avec la « théorie atomique » aujourd'hui reçue, — ou du moins employée, à raison de certains avantages qu'elle offre pour le groupement et la notation des faits, — par ceux des chimistes qui ne repoussent pas systématiquement les hypothèses. Cette théorie ajoute, en effet, au principe de l'atomisme des vues particulières, et qui ne s'imposent pas au même titre, sur la constitution des corps gazeux et sur la formation des composés chimiques. On y suppose que tous les gaz renferment, à volume égal, sous les mêmes conditions, le même nombre de molécules, en sorte que, des poids moléculaires des différents corps on puisse déduire des *poids atomiques* qui leur sont proportionnels (hypothèse connue sous les noms d'Avogadro et Ampère) ; et on y suppose, de plus, que toutes les combinaisons, tous les changements de composition chimique se font par des substitutions d'atomes à atomes de différentes espèces, chaque corps composé se formant de molécules dans lesquelles se lient des atomes divers, et chaque corps simple étant déjà considéré lui-même comme formé de molécules où ses propres atomes sont unis et comme combinés. Ce système très séduisant est sujet à des objections d'un caractère technique, et [p. 160] tirées des faits [^p160-1], auxquelles on répond par des hypothèses subsidiaires. Il est donc encore à l'état de discussion parmi les chimistes. Mais, encore une fois, il importe de maintenir une distinction profonde entre le jugement qu'on en peut porter et celui qui s'appliquerait aux principes philosophiques de l'atomisme.
 
-#### C. Les affinités et le mécanisme.
+##### C. Les affinités et le mécanisme.
 
 La tendance générale, de plus en plus accusée, de la physico-chimie étant la réduction des phénomènes au mécanisme, et de la science à sa forme la plus abstraite et la plus éloignée des n tions de la vie, l'idée des affinités électives dans les corps, et par suite celle de la spécificité, dont ces actions portent témoignage, devaient naturellement s'affaiblir et subir à la fin la transformation exigée par le point de vue mécanique. De même que l'idée générale de l'attraction, dans les phénomènes de la gravitation, avait pu, chez Newton tout d'abord, et chez les mathématiciens ses successeurs, s'éliminer de la théorie de la chute des corps et des révolutions célestes, et se définir par une loi des mouvements *sans hypothèse*, — tout en restant une idée du domaine public, en [p. 161] dehors de la science, — de même ces attractions spéciales et variables qui, sous le nom d'*affinités*, semblaient présider aux phénomènes d'union et de désunion des corps, aux échanges de leurs éléments et aux très étonnantes modifications de leurs propriétés, devaient, dès que cela serait possible, être bannies de la pensée et du langage des savants. Le caractère d'*élection* qui appartient aux affinités chimiques prête aux corps, en effet, des qualités encore bien plus afférentes à l'ordre de la vie, que ne fait la commune attraction des molécules matérielles quelconques. Mais ce progrès réclamé par l'abstraction physique est difficile ; il est entrevu, aujourd'hui, plutôt qu'obtenu pleinement ; on ne fait qu'apercevoir les linéaments généraux d'une loi mécanique propre à représenter et à mesurer les effets des affinités.
 
@@ -1253,7 +1252,7 @@ La critique de Stallo est donc fondée sur le principe de relativité ; il deman
 
 Je suis loin de contester les principes généraux de cette critique ; ils sont aussi les miens, et j'en ai reproduit avec satisfaction les formules en leur application à l'objet de la physico-chimie. Mais je réclame une importante distinction, que l'auteur a omis de faire, entre le réalisme dogmatique et le réalisme de langage, entre celui qui pose sciemment des abstractions, telles que le point siège de force, et la force même, comme dénomination affectée à une quantité définie d'accélération en puissance, et celui qui pense vraiment désigner ainsi des entités. Il n'y a pas jusqu'à l'atome de l'atomistique ancienne qui ne fût susceptible d'un emploi correct, s'il se trouvait que le corpuscule solide, impénétrable, et le choc des corps parfaitement durs, fournissent le point de vue le plus avantageux pour la construction d'une théorie des phénomènes du mouvement. La monade Leibnitienne, que Stallo attaque, n'est pas autant qu'il le croit un absolu, puisqu'elle n'a point d'existence corporelle, et que, idéalement, elle est une fonction de phénomènes de perception et d'appétition. Enfin l'étendue, la durée et le mouvement ne s'imposent pas moins, en leurs notions, à ceux qui les tiennent pour des lois de la représentation qu'à ceux qui prennent l'espace et le temps pour des attributs de substances, et la vitesse pour quelque chose qui est réellement dans le mobile. [p. 172] Ces remarques étaient nécessaires ici, parce qu'en traitant des hypothèses de la physique mécanique et, en général, de la réduction de la physique au mécanisme, j'ai pu paraître m'exposer à des objections semblables à celles que Stallo développe si bien contre des erreurs de jugement qui ne sont en effet que trop répandues parmi les savants. Mais je crois m'être assez expliqué sur la manière dont il convient de comprendre ces hypothèses.
 
-## VII. Suite. — Phénomènes biologiques.
+### VII. Suite. — Phénomènes biologiques.
 
 Suite. — Phénomènes biologiques.
 
@@ -1357,9 +1356,9 @@ chaque représentation partielle renferme un élément,
 et qui se retrouve dans les rapports généraux
 de la nature.
 
-### Observations et développements.
+#### Observations et développements.
 
-#### A. La synthèse chimique et la vie.
+##### A. La synthèse chimique et la vie.
 
 Aucun savant, en France, n'a distingué, ce semble,
 en termes plus nets, les *fonctions vitales* d'avec
@@ -1377,7 +1376,7 @@ Un ou deux passages de cette déclaration, mais surtout l'absence de toute indic
 
 A ce point de vue, ce n'est plus comme synthèse chimique, c'est comme synthèse biologique qu'on a à envisager la vie ; et cette dernière synthèse, si, d'un côté, elle est matière d'observation et d'expérience, de l'autre, elle est inséparable de la considération philosophique de cette solidarité et de cette harmonie [p. 205] des parties essentielles de l'organisme dont le principe ne se trouve que dans la loi générale de finalité naturelle. Quant à l'expérience biologique, elle n'a plus pour sujet les réactions chimiques, qu'autant que celles-ci intéressent la composition ou le fonctionnement des organes, et elle devient nécessairement expérience sur le vivant, quand c'est sur les lois de la vie que porte l'investigation et que doivent porter les conclusions.
 
-#### B.
+##### B.
 
 Les définitions de la vie de Cuvier et de Bichat.
 
@@ -1490,7 +1489,7 @@ Mais, dira un lecteur préoccupé, comme on l'est d'ordinaire, des dogmes des ph
 
 ---
 
-### La matière et la forme en biologie.
+#### La matière et la forme en biologie.
 
 L'emploi de la terminologie aristotélique : *matière* et *forme*, aujourd'hui si délaissée, quoique Kant encore en ait fait un assez grand usage, peut avoir quelque utilité pour exprimer le vrai rapport des matériaux aux qualités de la vie. L'idée que le mot [p. 225] *forme* éveille pour nous, dans son acception générale et philosophique, ne s'éloigne guère de celles qu'Aristote rendait, selon l'occurrence, par des termes relatifs à l'espèce, à l'essence, aux qualités dominantes des choses, et à ce qu'elles sont en acte, par opposition à leur matière indéterminée et à leur existence potentielle. La notion de *matière* est beaucoup plus changée, non pas autant cependant qu'elle le paraît, et c'est ici la première remarque à faire. Sans doute, à la place de ce sujet indéfini des formes et de tout devenir, que les anciens envisageaient, et qui, nécessairement plus voisin d'une abstraction à leurs yeux qu'aux nôtres, se réduisait en dernière analyse à un non-être pour les philosophes, hormis dans l'école de Démocrite [^p225-1], l'analyse chimique nous a donné des corps réels, irréductibles et toutefois palpables, à propriétés bien définies : un hydrogène, un oxygène, un carbone, un azote et quelques autres, qui sont des composants matériels du végétal et de l'animal vivant. Approfondissons, cependant ; comme nous ne pénétrons par la science, on le sait, ni sous le rapport de la quantité ni sous celui des propriétés, jusqu'à la raison d'être dernière de ces corps élé- [p. 226] mentaires, nous sommes obligés de les considérer eux-mêmes comme étant déjà des *formes*, et notre idée de matière recule. Ce sont de vraies formes, en effet, qu'ils tiennent de leurs qualités physiques et chimiques, de leurs poids spécifiques, de leurs chaleurs spécifiques, de leurs affinités diverses, des actions variées qu'ils exercent sur les autres corps tant composés que simples, tant organisés et vivants qu'inorganiques. Ils remplissent, quoique formes, des fonctions de matière pour les composés chimiques où ils entrent ; mais ces derniers ont des propriétés nouvelles, profondément différentes souvent ; ils sont donc des formes qui succèdent à des formes, et la relation de matière à forme fuit et nous échappe encore une fois. Qu'est-ce que la matière ?
 
@@ -1500,15 +1499,15 @@ Prenons un autre point de vue, afin de nous bien rendre compte de ce qu'est la f
 
 Lorsque Lucilio Vanini, voulant repousser l'accusation d'athéisme devant le parlement de Toulouse, qui le condamna au bûcher, arguait, à ce qu'on rap- [p. 229] porte, d'un *grain de blé* qui, disait-il, ne pouvait être regardé comme une *production de la nature*, attendu que, de semence en semence, il fallait remonter au premier grain, lequel devait nécessairement avoir un auteur, il entendait très probablement que la forme ne pouvait procéder de la matière, qu'elle était, au moins à l'origine, un acte; et cet acte, il le rapportait à Dieu, tandis que la nature était, pour son argument, le développement matériel des formes créées. Cette interprétation, conforme au principe aristotélique de l'acte, est la seule qui donne au raisonnement une base, pourvu qu'on ait d'abord écarté l'hypothèse du *procès à l'infini*, qui permettrait de remonter toujours dans la génération des formes, semblables ou différentes, les unes par les autres, sans rencontrer plus de limites qu'il n'y en a dans l'idée de matière, sous l'aspect de puissance. Mais quand l'infini, qui implique contradiction, est ôté, la forme ne se comprend plus que comme un acte et une création, que l'idée de matière par elle-même ne peut renfermer. La matière, comme telle, n'existe plus que par rapport à la forme, et, si l'on veut aller au fond *réel* des choses, il faut dire qu'elle est elle-même une forme instrumentale et subordonnée, au service de formes supérieures.
 
-#### E
+##### E
 
-##### La microbie et les vivisections.
+###### La microbie et les vivisections.
 
 [p. 230] Ce n'est pas ici le lieu des questions de morale. Cependant la science de la vie y confine. On l'a bien vu, quand, après l'introduction, dans cette science, du principe de la lutte pour l'existence, l'idée est venue à plusieurs que la nature, par sa loi de la survivance des plus forts ou des plus aptes, enseignait à l'homme sa voie, et que cette loi du sacrifice des faibles, qui a présidé, dit-on, à la marche aveugle du progrès des êtres, devait être à l'avenir la méthode clairvoyante et volontaire de l'ascension de l'espèce humaine dans la moralité et le bonheur. Le changement de sens de la maxime stoïcienne : *Sequere naturam*, dépend du fait de considérer dans la nature l'aspect universel de la lutte au lieu de l'aspect des harmonies, que l'on préférait autrefois, et de substituer à la nature idéale, à l'harmonie propre de l'homme, c'est-à-dire à la justice et à la paix, la partie de sa nature en accord avec la violence et la perversité des choses. L'imitation et la recherche de la conformité étant des principes d'ordre qu'on ne saurait écarter de l'entendement humain et du cœur humain, tout penseur profond qui s'appliquera avec bonne volonté au dilemme de la conduite réglée sur la nature s'apercevra que la question morale, en ceci, exige qu'on décide si la nature physique, de [p. 231] laquelle suit *l'ordre naturel des choses* opposé à l'*ordre moral de la pensée*, est la *nature normale* ou la nature *corrompue*.
 
 Quant au fait de la Guerre naturelle, auquel il faut se borner ici, il n'est pas niable. J'ai essayé plus haut de l'envisager dans son principe scientifique radical, dans l'antagonisme de l'ordre physique brut et de celui de la vie, et je crois y avoir réussi, malgré la commune répugnance à voir ainsi les choses. Dans l'histoire des êtres vivants, il est plus visible. En vain le finalisme vulgaire étalait les merveilles de la « Théologie de l'eau » et autres ingénieuses théologies naturelles ; les harmonies les plus frappantes et les plus multipliées ne parvenaient pas à voiler l'énormité de la condition la plus générale de l'entretien de la vie, à savoir le sacrifice même de la vie, la nécessité de la mort, la mort donnée constamment aux uns par les autres et pour des vies destinées à des fins semblables. Considérant l'homme en particulier, son état de tout temps reconnu de guerre contre les animaux, qui semblait d'abord réduit à des termes assez simples, a peu à peu plus très justement saisi les imaginations, en se présentant, à mesure des progrès de l'observation scientifique, comme une guerre surtout des animaux contre l'homme, guerre incessante, intestine encore plus qu'extérieure, qui rend sa vie en tout plus précaire qu'on ne consentait à la voir. L'étude du parasitisme et celle des *infiniment petits* ouvrent sur le monde de la vie [p. 232] des aperçus désolants. Pascal, s'il revenait, trouverait le « divertissement » plus que jamais explicable sans être plus justifiable. Les maladies, toutes ou la plupart ramenées aux lois de la microbie, assombrissent la vue qu'on avait d'une forme de la misère humaine qu'il était moins pénible d'attribuer à des causes inanimées et à l'accident qu'à l'institution profonde de la vie. Ce n'est pas tout ; à la connaissance de la microbie font suite, pour lutter contre ce mal, l'étude des moyens de le combattre par les inoculations, et, de plus en plus, la pratique des vivisections, cet unique moyen de bien éprouver ce qui tue, et pourquoi il tue, ou ce qui guérit. Or les inoculations, — où vont-elles s'arrêter ? — ne sont pas autre chose que l'adaptation, l'accommodation au mal ; donc un mal pour un bien, mais un mal, quelque chose, au physique, comme ce que sont, au moral, les violences faites et les peines infligées dans l'intérêt de la paix et de la justice. D'un côté, solidarité qu'on recherche avec le mal matériel pour l'adoucir en l'étendant ; de l'autre, solidarité à laquelle on se résigne avec le péché plutôt que de renoncer à la défense personnelle, et de périr. Et les vivisections sont pour le cœur un scandale, même auprès des travaux incessants auxquels les hommes se livrent, dans un autre ordre de faits, pour assurer leur conservation en inventant de nouveaux et terribles moyens de se détruire les uns les autres. Le destin de l'humanité est cruel.
 
-## VIII. Critique des doctrines cosmogoniques physiques.
+### VIII. Critique des doctrines cosmogoniques physiques.
 
 [p. 233] Critique des doctrines cosmogoniques physiques.
 
@@ -1623,9 +1622,9 @@ propres à la modifier. D'autres, aujourd'hui plus [p. 250] nombreux, attribuent
 
 Je conclus de là que la vie, son principe propre et les fins pour lesquelles elle se manifeste, ne doivent pas s'éliminer des théories de la nature. Si l'on veut éviter aux sciences naturelles la ressource fâcheuse du recours à des philosophies discréditées, et en tout cas incompatibles avec les procédés scientifiques, il faut envisager dans l'objet de la recherche les propriétés irréductibles que le substantialisme et le causalisme physico-chimique ont voulu vainement en exclure. Les questions universelles de cause et de fin ne resteront pas moins essentiellement posées à la critique. D'autres problèmes encore bien généraux, et qui sont tout ensemble de son ressort et de celui de l'investigation naturaliste, appelée à fournir les données, figureront longtemps encore aux confins de la science, soustraits, si possible, aux anciens systèmes, soumis à l'analyse, à l'induction et au contrôle des principes suprêmes de la rationalité. De ce nombre sont prin[p. 251]cipalement les lois d'unité ou de multiplicité des espèces, de leur enchaînement dans le temps, et du progrès des êtres organisés, soit continu, soit à des époques successives de la nature.
 
-### Observations et développements.
+#### Observations et développements.
 
-#### A
+##### A
 
 Kant et Herschell. — La théorie du ciel.
 
@@ -1687,7 +1686,7 @@ Cette observation nous amène à reconnaître une lacune dans la théorie de Kan
 
 ---
 
-### L'hypothèse de Laplace. — Le système des tourbillons.
+#### L'hypothèse de Laplace. — Le système des tourbillons.
 
 Kant, en son hypothèse générale sur la formation du système solaire, ne s'appuie nullement, nous l'avons vu, sur la contraction d'un corps nébuleux originaire, soumis aux lois du refroidissement, et il se montre, comme cela devait être de son temps, assez en peine d'expliquer l'état d'incandescence d'un corps central formé par de pures actions mécaniques sous l'influence de l'attraction newtonienne. Des idées obscures et vagues lui tiennent lieu de la loi thermodynamique inconnue. Mais, par une singularité des plus curieuses, l'idée d'employer le refroidissement, la contraction et les effets variables de la force centrifuge sur des corps en circulation à différentes distances d'un centre, cette idée, qui est l'hypothèse même de Laplace appliquée à l'atmosphère du Soleil, s'est présentée à Kant pour l'explication de l'anneau de Saturne. Il a supposé pour cela la haute température de l'atmosphère de Saturne, ce [p. 274] qu'il n'avait pas fait pour la matière diffuse de l'ensemble du système à son origine :
 

@@ -1,7 +1,5 @@
 ---
-title: Correspondance
-nav_order: 5
-has_children: true
+title: "Correspondance"
 ---
 
 # Correspondance de Charles Renouvier

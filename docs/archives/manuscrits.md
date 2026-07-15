@@ -1,7 +1,5 @@
 ---
-title: Manuscrits
-nav_order: 6
-has_children: true
+title: "Manuscrits"
 ---
 
 # Manuscrits et brouillons

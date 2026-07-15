@@ -1,6 +1,5 @@
 ---
-title: "Étude sur l'espace et le temps"
-# Navigation a definir avec Arthur (section Autres auteurs / par auteur)
+title: "1re édition"
 ---
 
 # Étude sur l'espace et le temps

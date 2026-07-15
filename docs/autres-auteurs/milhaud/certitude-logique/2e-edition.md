@@ -1,6 +1,5 @@
 ---
-title: "Essai sur les conditions et les limites de la certitude logique (2e édition)"
-# Navigation a definir avec Arthur (section Autres auteurs / par auteur)
+title: "2e édition"
 ---
 
 # Essai sur les conditions et les limites de la certitude logique (2e édition)

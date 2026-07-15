@@ -1,6 +1,5 @@
 ---
-title: Contribuer
-nav_order: 9
+title: "Contribuer"
 ---
 
 # Contribuer au projet
