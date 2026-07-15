@@ -1,0 +1,165 @@
+/* =========================================================================
+   RENOUVIER PAPERS — identité sur MkDocs Material (refonte « mistral »)
+   ========================================================================= */
+@font-face { font-family:'OpenDyslexic'; src:url('https://cdn.jsdelivr.net/npm/open-dyslexic@1.0.3/woff/OpenDyslexic-Regular.woff') format('woff'); font-weight:normal; font-style:normal; }
+@font-face { font-family:'OpenDyslexic'; src:url('https://cdn.jsdelivr.net/npm/open-dyslexic@1.0.3/woff/OpenDyslexic-Bold.woff') format('woff'); font-weight:bold; font-style:normal; }
+@font-face { font-family:'OpenDyslexic'; src:url('https://cdn.jsdelivr.net/npm/open-dyslexic@1.0.3/woff/OpenDyslexic-Italic.woff') format('woff'); font-weight:normal; font-style:italic; }
+
+/* pas de saccade latérale quand la barre de défilement apparaît/disparaît */
+html { scrollbar-gutter: stable; }
+
+/* =====================  PALETTES (4 modes)  ===================== */
+/* CLAIR — crème chaud */
+body {
+  --bg:#f7f3ea; --bg-header:#efe6d3; --bg-sidebar:#f1e9d9; --text:#2a241c; --text-muted:#7c7362;
+  --h1-color:#e63946; --h2-color:#0096a8; --h3-color:#e87800; --h4-color:#06a870;
+  --link:#b030a0; --link-hover:#8a2080;
+  --accent:#e63946; --accent2:#0096a8; --accent3:#e87800; --accent4:#06a870;
+  --tab-accent:#e87800; --nav-hover:#e87800; --nav-active:#7a2e55;   /* aubergine */
+  --border:#e6dcc6; --quote-bg:#f1e9d9; --quote-border:#0096a8; --em-color:#c83868;
+  --page-marker-color:#0096a8; --page-marker-bg:#e6f1ee; --hr-color:#e2d7c0;
+  --fn-color:#b030a0; --strong-color:#6a4a2a; --hover-bg:#efe6d2;
+  --bar-bg:#f1e9d9; --bar-text:#2a241c; --bar-border:#ddd0b6; --panel-bg:#fffdf7;
+}
+/* SOMBRE */
+body.theme-dark {
+  --bg:#0a0e17; --bg-header:#0f1520; --bg-sidebar:#0f1520; --text:#dce0e8; --text-muted:#607080;
+  --h1-color:#ff6b9d; --h2-color:#00e5a0; --h3-color:#ff80a0; --h4-color:#50b0ff;
+  --link:#e070c0; --link-hover:#f090d8;
+  --accent:#ff6b9d; --accent2:#00e5a0; --accent3:#ffa63d; --accent4:#50b0ff;
+  --tab-accent:#ffa63d; --nav-hover:#ffa63d; --nav-active:#d68cb2;   /* aubergine clair */
+  --border:#1a2535; --quote-bg:#101828; --quote-border:#00e5a0; --em-color:#ffd700;
+  --page-marker-color:#50b0ff; --page-marker-bg:#0a1520; --hr-color:#1a2535;
+  --fn-color:#ff6b9d; --strong-color:#50b0ff; --hover-bg:#182028;
+  --bar-bg:#101828; --bar-text:#dce0e8; --bar-border:#253040; --panel-bg:#0f1520;
+}
+/* DALTONIEN JOUR — crème chaud */
+body.theme-cb-light {
+  --bg:#f7f3ea; --bg-header:#efe6d3; --bg-sidebar:#f1e9d9; --text:#2a241c; --text-muted:#7c7362;
+  --h1-color:#0072B2; --h2-color:#E69F00; --h3-color:#CC79A7; --h4-color:#009E73;
+  --link:#0072B2; --link-hover:#004a75;
+  --accent:#0072B2; --accent2:#E69F00; --accent3:#CC79A7; --accent4:#009E73;
+  --tab-accent:#E69F00; --nav-hover:#E69F00; --nav-active:#0072B2;
+  --border:#e6dcc6; --quote-bg:#f1e9d9; --quote-border:#0072B2; --em-color:#D55E00;
+  --page-marker-color:#0072B2; --page-marker-bg:#e3eef7; --hr-color:#e2d7c0;
+  --fn-color:#CC79A7; --strong-color:#0072B2; --hover-bg:#efe6d2;
+  --bar-bg:#f1e9d9; --bar-text:#2a241c; --bar-border:#ddd0b6; --panel-bg:#fffdf7;
+}
+/* DALTONIEN NUIT */
+body.theme-cb-dark {
+  --bg:#0a0e17; --bg-header:#0f1520; --bg-sidebar:#0f1520; --text:#dce0e8; --text-muted:#607080;
+  --h1-color:#56B4E9; --h2-color:#E69F00; --h3-color:#CC79A7; --h4-color:#009E73;
+  --link:#56B4E9; --link-hover:#7cc8f0;
+  --accent:#56B4E9; --accent2:#E69F00; --accent3:#CC79A7; --accent4:#009E73;
+  --tab-accent:#E69F00; --nav-hover:#E69F00; --nav-active:#56B4E9;
+  --border:#1a2535; --quote-bg:#101828; --quote-border:#56B4E9; --em-color:#F0E442;
+  --page-marker-color:#56B4E9; --page-marker-bg:#0a1520; --hr-color:#1a2535;
+  --fn-color:#CC79A7; --strong-color:#56B4E9; --hover-bg:#152030;
+  --bar-bg:#101828; --bar-text:#dce0e8; --bar-border:#253040; --panel-bg:#0f1520;
+}
+
+/* =====================  REMAP → jetons Material  ===================== */
+body[data-md-color-scheme] {
+  --md-default-bg-color:var(--bg); --md-default-fg-color:var(--text);
+  --md-default-fg-color--light:var(--text-muted); --md-default-fg-color--lighter:var(--text-muted);
+  --md-default-fg-color--lightest:var(--border);
+  --md-primary-fg-color:var(--bg-header); --md-primary-bg-color:var(--text); --md-primary-bg-color--light:var(--text-muted);
+  --md-accent-fg-color:var(--accent);
+  --md-typeset-color:var(--text); --md-typeset-a-color:var(--link);
+  --md-code-bg-color:var(--bg-sidebar); --md-code-fg-color:var(--text);
+  --md-footer-bg-color:var(--bg-header); --md-footer-bg-color--dark:var(--bg-header); --md-footer-fg-color:var(--text-muted);
+}
+
+/* =====================  POLICES  ===================== */
+body { font-family:'Solway', serif; font-size:1.02rem; line-height:1.7; }
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4 { font-family:'Google Sans Code', monospace; font-weight:700; letter-spacing:-0.02em; }
+.md-tabs__link, .md-nav__item { font-family:'Google Sans Code', monospace; }
+.md-nav { font-size:0.7rem; }
+body.font-hyperlegible, body.font-hyperlegible * { font-family:'Atkinson Hyperlegible', sans-serif !important; }
+body.font-opendyslexic, body.font-opendyslexic * { font-family:'OpenDyslexic', sans-serif !important; }
+
+/* =====================  EN-TÊTE + LOGO  ===================== */
+.md-header { color:var(--text); box-shadow:none; border-bottom:1px solid var(--border); }
+.md-header__title { font-family:'Silkscreen', cursive !important; font-size:0.72rem !important; letter-spacing:0.02em; color:var(--text) !important; cursor:pointer; }
+/* logo toujours visible (ne se cache pas au scroll) ; pas de bascule vers le titre de page */
+.md-header__title .md-header__topic:first-child { position:static !important; opacity:1 !important; transform:none !important; }
+.md-header__title .md-header__topic + .md-header__topic { display:none !important; }
+.md-header__button.md-logo { display:none !important; }
+
+/* =====================  ONGLETS  ===================== */
+.md-tabs { background:var(--bg-header); color:var(--text); border-bottom:1px solid var(--border); }
+.md-tabs__link { font-size:0.72rem; text-transform:uppercase; letter-spacing:0.06em; opacity:1; color:var(--text-muted); font-weight:500; }
+.md-tabs__link:hover { color:var(--text); }
+.md-tabs__item--active .md-tabs__link, .md-tabs__link--active { color:var(--text) !important; font-weight:700; border-bottom:2px solid var(--tab-accent); padding-bottom:2px; }
+
+/* =====================  RECHERCHE (propre, Solway)  ===================== */
+.md-search__form { background:var(--panel-bg); box-shadow:none; border:1px solid var(--border); border-radius:8px !important; overflow:hidden; }
+.md-search__form:hover { background:var(--panel-bg); }
+.md-search__input { background:transparent; color:var(--text); border:none; font-family:'Solway', serif; }
+.md-search__input::placeholder { color:var(--text-muted); font-family:'Solway', serif; }
+.md-search__icon svg { color:var(--text-muted) !important; fill:var(--text-muted) !important; }
+/* quand la recherche est ouverte : champ et boîte de résultats forment UN seul panneau arrondi */
+[data-md-toggle=search]:checked ~ .md-header .md-search__form { border-radius:8px 8px 0 0 !important; border-bottom:none; }
+.md-search__output { border-radius:0 0 8px 8px !important; border:1px solid var(--border); border-top:none; box-shadow:0 12px 32px rgba(0,0,0,.18); overflow:hidden; }
+.md-search__scrollwrap { border-radius:0 0 8px 8px; }
+.md-search__output, .md-search__scrollwrap { background:var(--panel-bg); }
+.md-search-result__meta { background:var(--bg-sidebar); color:var(--text-muted); }
+.md-search-result__link:hover, .md-search-result__link[data-md-state=active] { background:var(--hover-bg); }
+
+/* =====================  BARRE LATÉRALE (funky : violet + orange)  ===================== */
+.md-sidebar--primary { background:var(--bg); }
+.md-nav__title { display:none; }                          /* pas de titre de rubrique répété */
+/* en vue bureau, on masque le libellé de l'onglet en tête de sidebar (doublon des onglets) */
+@media screen and (min-width:76.25em) {
+  .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link { display:none; }
+}
+.md-nav__link:hover { color:var(--nav-hover) !important; }
+.md-nav__link--active, a.md-nav__link--active { color:var(--nav-active) !important; font-weight:700; }
+/* les parents du fil actif : discrets (pas tous en gras) */
+.md-nav__item--active > .md-nav__link:not(.md-nav__link--active) { color:var(--text) !important; font-weight:400; }
+
+/* =====================  CONTENU  ===================== */
+.md-main, .md-content { background:var(--bg); }
+.md-typeset { color:var(--text); }
+.md-typeset h1 { color:var(--h1-color); border-bottom:3px solid var(--h1-color); padding-bottom:6px; }
+.md-typeset h2 { color:var(--h2-color); }
+.md-typeset h3 { color:var(--h3-color); }
+.md-typeset h4 { color:var(--h4-color); }
+.md-typeset a { color:var(--link); }
+.md-typeset a:hover { color:var(--link-hover); }
+.md-typeset em { color:var(--em-color); }
+.md-typeset strong { color:var(--strong-color); font-weight:700; }
+.md-typeset blockquote { background:var(--quote-bg); border-left:4px solid var(--quote-border); color:var(--text); padding:12px 16px; border-radius:0 6px 6px 0; }
+.md-typeset hr { border-top:2px solid var(--hr-color); }
+.md-typeset .footnote a, .md-typeset sup a { color:var(--fn-color); font-weight:600; }
+.md-typeset table:not([class]) th { background:var(--bg-sidebar); color:var(--text); }
+.md-typeset table:not([class]) td { color:var(--text); }
+.md-typeset code { background:var(--bg-sidebar); color:var(--text); }
+.md-nav--secondary .md-nav__link--active, .md-nav--secondary .md-nav__link:hover { color:var(--nav-hover) !important; }
+
+/* pied de page */
+.md-footer-meta { background:var(--bg-header); }
+.md-copyright, .md-copyright__highlight { color:var(--text-muted); }
+
+/* =====================  MARQUEURS DE PAGE [p. N]  ===================== */
+.page-marker { color:var(--page-marker-color); background:var(--page-marker-bg); font-family:'Google Sans Code', monospace; font-size:0.72em; font-weight:600; padding:1px 6px; border-radius:3px; vertical-align:middle; margin:0 1px; border:1px solid var(--page-marker-color); opacity:0.85; }
+
+/* =====================  BARRE D'OUTILS + RÉGLAGES  ===================== */
+#rp-toolbar { position:fixed; bottom:12px; right:12px; z-index:9999; display:flex; gap:6px; font-family:'Google Sans Code', monospace; }
+#rp-toolbar button { border-radius:4px; padding:6px 12px; cursor:pointer; font-size:12px; font-weight:700; font-family:'Google Sans Code', monospace; border:none; transition:all .15s; }
+#rp-toolbar button:hover { transform:translateY(-1px); box-shadow:0 2px 8px rgba(0,0,0,.15); }
+#rp-toolbar .btn-fold { background:var(--accent2); color:#fff; }
+#rp-toolbar .btn-settings { background:var(--bar-bg); color:var(--bar-text); border:1px solid var(--bar-border); }
+#rp-settings-overlay { display:none; position:fixed; inset:0; z-index:9997; }
+#rp-settings-overlay.open { display:block; }
+#rp-settings { display:none; position:fixed; bottom:52px; right:12px; z-index:9998; background:var(--panel-bg); color:var(--text); border:1px solid var(--border); border-radius:8px; padding:16px; box-shadow:0 4px 20px rgba(0,0,0,.15); font-size:13px; font-family:'Google Sans Code', monospace; min-width:230px; }
+#rp-settings.open { display:block; }
+#rp-settings label { display:block; margin-bottom:4px; font-weight:600; color:var(--text-muted); font-size:10px; text-transform:uppercase; letter-spacing:.08em; }
+#rp-settings select { width:100%; margin-bottom:14px; border:1px solid var(--bar-border); border-radius:4px; padding:6px 8px; cursor:pointer; font-size:13px; background:var(--bar-bg); color:var(--bar-text); font-family:'Google Sans Code', monospace; }
+
+/* =====================  SECTIONS PLIABLES  ===================== */
+.collapsible-heading { cursor:pointer; user-select:none; position:relative; padding-left:1.2em; }
+.collapsible-heading:hover { opacity:.75; }
+.collapsible-heading::before { content:'\25B8'; position:absolute; left:0; transition:transform .2s; font-size:.8em; }
+.collapsible-heading.open::before { transform:rotate(90deg); }
+.collapsible-content.collapsed { display:none; }

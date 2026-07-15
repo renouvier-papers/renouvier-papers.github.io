@@ -1,9 +1,0 @@
-// Empêche le texte des onglets de passer sous le bouton déplier/replier
-.nav-list .nav-list-item .nav-list-link {
-  padding-right: 3rem !important;
-}
-
-// Supprime la barre de défilement horizontale de la barre latérale gauche
-.site-nav {
-  overflow-x: hidden;
-}

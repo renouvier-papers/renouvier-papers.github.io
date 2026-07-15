@@ -1,0 +1,204 @@
+# ⚠️ Généré par generate_site.py
+site_name: Renouvier Papers
+site_url: https://renouvier-papers.github.io/
+site_description: Édition numérique libre des œuvres de Charles Renouvier (1815-1903)
+copyright: Renouvier Papers · Arthur Saunier · CC BY 4.0
+extra:
+  generator: false
+docs_dir: docs
+theme:
+  name: material
+  language: fr
+  font: false
+  favicon: assets/favicon.svg
+  custom_dir: overrides
+  palette:
+    scheme: default
+  features:
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.indexes
+  - navigation.top
+  - navigation.tracking
+  - navigation.instant
+  - navigation.instant.progress
+  - toc.follow
+  - search.suggest
+  - search.highlight
+  - content.code.copy
+extra_css:
+- assets/stylesheets/rp.css
+extra_javascript:
+- assets/javascripts/rp.js
+markdown_extensions:
+- toc:
+    permalink: false
+- footnotes
+- attr_list
+- md_in_html
+- tables
+- admonition
+plugins:
+- search:
+    lang: fr
+nav:
+- Accueil:
+  - index.md
+  - Contribuer: a-propos/contribuer.md
+  - Licence: a-propos/licence.md
+- Œuvres:
+  - oeuvres/index.md
+  - Premiers Manuels:
+    - Manuel de philosophie moderne: oeuvres/manuels/philosophie-moderne.md
+    - Manuel de philosophie ancienne:
+      - Tome I: oeuvres/manuels/philosophie-ancienne/tome-1.md
+      - Tome II: oeuvres/manuels/philosophie-ancienne/tome-2.md
+    - Manuel républicain: oeuvres/manuels/republicain.md
+  - Essais de critique générale:
+    - Premier Essai:
+      - Tome I: oeuvres/essais/premier/tome-1.md
+      - Tome II: oeuvres/essais/premier/tome-2.md
+      - Tome III: oeuvres/essais/premier/tome-3.md
+    - Deuxième Essai:
+      - Tome I: oeuvres/essais/deuxieme/tome-1.md
+      - Tome II: oeuvres/essais/deuxieme/tome-2.md
+      - Tome III: oeuvres/essais/deuxieme/tome-3.md
+    - Troisième Essai:
+      - Tome I: oeuvres/essais/troisieme/tome-1.md
+      - Tome II: oeuvres/essais/troisieme/tome-2.md
+    - Quatrième Essai: oeuvres/essais/quatrieme.md
+  - Philosophie analytique de l'histoire:
+    - Introduction: oeuvres/philosophie-analytique/introduction.md
+    - Tome I: oeuvres/philosophie-analytique/tome-1.md
+    - Tome II: oeuvres/philosophie-analytique/tome-2.md
+    - Tome III: oeuvres/philosophie-analytique/tome-3.md
+    - Tome IV: oeuvres/philosophie-analytique/tome-4.md
+  - Autres ouvrages:
+    - Science de la morale:
+      - Tome I: oeuvres/autres/science-morale/tome-1.md
+      - Tome II: oeuvres/autres/science-morale/tome-2.md
+    - Uchronie: oeuvres/autres/uchronie.md
+    - Esquisse d'une classification des doctrines:
+      - Tome I: oeuvres/autres/esquisse/tome-1.md
+      - Tome II: oeuvres/autres/esquisse/tome-2.md
+    - La Nouvelle monadologie: oeuvres/autres/nouvelle-monadologie.md
+    - Victor Hugo, le philosophe: oeuvres/autres/victor-hugo.md
+    - Les Dilemmes de la métaphysique pure: oeuvres/autres/dilemmes.md
+    - Histoire et solution des problèmes métaphysiques: oeuvres/autres/histoire-solution.md
+    - Le Personnalisme: oeuvres/autres/personnalisme.md
+    - Les derniers entretiens: oeuvres/autres/derniers-entretiens.md
+    - Critique de la doctrine de Kant: oeuvres/autres/critique-kant.md
+- Revues:
+  - revues/index.md
+  - La Critique philosophique — 1re série:
+    - 1re année (1872):
+      - Tome I: revues/critique-philosophique/serie-1/1872/tome-1.md
+      - Tome II: revues/critique-philosophique/serie-1/1872/tome-2.md
+    - 2e année (1873):
+      - Tome I: revues/critique-philosophique/serie-1/1873/tome-1.md
+      - Tome II: revues/critique-philosophique/serie-1/1873/tome-2.md
+    - 3e année (1874):
+      - Tome I: revues/critique-philosophique/serie-1/1874/tome-1.md
+      - Tome II: revues/critique-philosophique/serie-1/1874/tome-2.md
+    - 4e année (1875):
+      - Tome I: revues/critique-philosophique/serie-1/1875/tome-1.md
+      - Tome II: revues/critique-philosophique/serie-1/1875/tome-2.md
+    - 5e année (1876):
+      - Tome I: revues/critique-philosophique/serie-1/1876/tome-1.md
+      - Tome II: revues/critique-philosophique/serie-1/1876/tome-2.md
+    - 6e année (1877):
+      - Tome I: revues/critique-philosophique/serie-1/1877/tome-1.md
+      - Tome II: revues/critique-philosophique/serie-1/1877/tome-2.md
+    - 7e année (1878):
+      - Tome I: revues/critique-philosophique/serie-1/1878/tome-1.md
+      - Tome II: revues/critique-philosophique/serie-1/1878/tome-2.md
+    - 8e année (1879):
+      - Tome I: revues/critique-philosophique/serie-1/1879/tome-1.md
+      - Tome II: revues/critique-philosophique/serie-1/1879/tome-2.md
+    - 9e année (1880):
+      - Tome I: revues/critique-philosophique/serie-1/1880/tome-1.md
+      - Tome II: revues/critique-philosophique/serie-1/1880/tome-2.md
+    - 10e année (1881):
+      - Tome I: revues/critique-philosophique/serie-1/1881/tome-1.md
+      - Tome II: revues/critique-philosophique/serie-1/1881/tome-2.md
+    - 11e année (1882):
+      - Tome I: revues/critique-philosophique/serie-1/1882/tome-1.md
+      - Tome II: revues/critique-philosophique/serie-1/1882/tome-2.md
+    - 12e année (1883):
+      - Tome I: revues/critique-philosophique/serie-1/1883/tome-1.md
+      - Tome II: revues/critique-philosophique/serie-1/1883/tome-2.md
+    - 13e année (1884):
+      - Tome I: revues/critique-philosophique/serie-1/1884/tome-1.md
+      - Tome II: revues/critique-philosophique/serie-1/1884/tome-2.md
+  - La Critique philosophique — nouvelle série:
+    - 1re année (1885):
+      - Tome I: revues/critique-philosophique/serie-2/1885/tome-1.md
+      - Tome II: revues/critique-philosophique/serie-2/1885/tome-2.md
+    - 2e année (1886):
+      - Tome I: revues/critique-philosophique/serie-2/1886/tome-1.md
+      - Tome II: revues/critique-philosophique/serie-2/1886/tome-2.md
+    - 3e année (1887):
+      - Tome I: revues/critique-philosophique/serie-2/1887/tome-1.md
+      - Tome II: revues/critique-philosophique/serie-2/1887/tome-2.md
+    - 4e année (1888):
+      - Tome I: revues/critique-philosophique/serie-2/1888/tome-1.md
+      - Tome II: revues/critique-philosophique/serie-2/1888/tome-2.md
+    - 5e année (1889):
+      - Tome I: revues/critique-philosophique/serie-2/1889/tome-1.md
+      - Tome II: revues/critique-philosophique/serie-2/1889/tome-2.md
+  - L'Année philosophique:
+    - 1re année (1890): revues/annee-philosophique/1890.md
+    - 2e année (1891): revues/annee-philosophique/1891.md
+    - 3e année (1892): revues/annee-philosophique/1892.md
+    - 4e année (1893): revues/annee-philosophique/1893.md
+    - 5e année (1894): revues/annee-philosophique/1894.md
+    - 6e année (1895): revues/annee-philosophique/1895.md
+    - 7e année (1896): revues/annee-philosophique/1896.md
+    - 8e année (1897): revues/annee-philosophique/1897.md
+    - 9e année (1898): revues/annee-philosophique/1898.md
+    - 10e année (1899): revues/annee-philosophique/1899.md
+    - 11e année (1900): revues/annee-philosophique/1900.md
+    - 12e année (1901): revues/annee-philosophique/1901.md
+    - 13e année (1902): revues/annee-philosophique/1902.md
+    - 14e année (1903): revues/annee-philosophique/1903.md
+    - 15e année (1904): revues/annee-philosophique/1904.md
+    - 16e année (1905): revues/annee-philosophique/1905.md
+    - 17e année (1906): revues/annee-philosophique/1906.md
+    - 18e année (1907): revues/annee-philosophique/1907.md
+    - 19e année (1908): revues/annee-philosophique/1908.md
+    - 20e année (1909): revues/annee-philosophique/1909.md
+- Archives:
+  - archives/index.md
+  - Correspondance: archives/correspondance.md
+  - Manuscrits: archives/manuscrits.md
+- Autres auteurs:
+  - autres-auteurs/index.md
+  - Georges Lechalas:
+    - Étude sur l'espace et le temps:
+      - 1re édition: autres-auteurs/lechalas/etude-espace-temps/1re-edition.md
+      - 2e édition: autres-auteurs/lechalas/etude-espace-temps/2e-edition.md
+    - Introduction à la géométrie générale: autres-auteurs/lechalas/geometrie-generale.md
+  - Gaston Milhaud:
+    - Essai sur la certitude logique:
+      - 1re édition: autres-auteurs/milhaud/certitude-logique/1re-edition.md
+      - 2e édition: autres-auteurs/milhaud/certitude-logique/2e-edition.md
+    - Le rationnel: autres-auteurs/milhaud/le-rationnel.md
+  - François Évellin:
+    - Infini et quantité: autres-auteurs/evellin/infini-et-quantite.md
+    - La raison pure et les antinomies: autres-auteurs/evellin/raison-pure-antinomies.md
+  - Louis Couturat:
+    - De l'infini mathématique: autres-auteurs/couturat/infini-mathematique.md
+    - La Logique de Leibniz: autres-auteurs/couturat/logique-de-leibniz.md
+    - Les principes des mathématiques: autres-auteurs/couturat/principes-des-mathematiques.md
+    - Pour la langue internationale: autres-auteurs/couturat/langue-internationale.md
+- Recherche:
+  - recherche/index.md
+  - Bibliographies:
+    - Travaux de Renouvier: recherche/bibliographies/travaux-de-renouvier.md
+    - Travaux sur Renouvier: recherche/bibliographies/travaux-sur-renouvier.md
+  - Œuvres à déplier:
+    - Compliquer les Essais pour les expliquer: recherche/complications/essais.md
+    - La physique tardive de Renouvier: recherche/complications/physique-tardive.md
+  - Linguistique informatique:
+    - Lexicométrie: recherche/linguistique/lexicometrie.md
+    - Les arguments en forme logique: recherche/linguistique/arguments.md
