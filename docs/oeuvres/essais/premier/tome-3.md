@@ -254,9 +254,9 @@ En supposant une loi analogue à la loi de Newton, Laplace ne songe pas qu'on po
 
 Il est vrai de dire en général que, sous la loi de la nature et sous d'autres lois imaginables quelconques, un change-
 
-    L'équation étant *j* = *f* (*m* + *m*′) *r* il suffirait de conserver les masses invariables en multipliant les dimensions :
+L'équation étant *j* = *f* (*m* + *m*′) *r* il suffirait de conserver les masses invariables en multipliant les dimensions :
 
-    *kj* = *f* (*m* + *m*′) *kr*. [p. 54] ment proportionnel de toutes les figures de l'univers, indéfiniment agrandies ou réduites, aurait lieu sans aucun changement des apparences des phénomènes, pourvu que certains éléments autres que l'étendue, et liés par la loi même à celle-ci, fussent modifiés en même temps de la manière convenable. Il n'est guère de vérités plus utiles à approfondir que celle-là. Elle a produit des chefs-d'œuvre littéraires, en manière de jeu seulement : Gulliver, Micromégas. Mise à son rang en philosophie, elle est assez forte pour obliger les penseurs qui voudront y donner une suffisante attention à renoncer au réalisme vulgaire du Temps en soi et de l'Espace en soi, et par suite à se rapprocher de la doctrine criticiste.
+*kj* = *f* (*m* + *m*′) *kr*. [p. 54] ment proportionnel de toutes les figures de l'univers, indéfiniment agrandies ou réduites, aurait lieu sans aucun changement des apparences des phénomènes, pourvu que certains éléments autres que l'étendue, et liés par la loi même à celle-ci, fussent modifiés en même temps de la manière convenable. Il n'est guère de vérités plus utiles à approfondir que celle-là. Elle a produit des chefs-d'œuvre littéraires, en manière de jeu seulement : Gulliver, Micromégas. Mise à son rang en philosophie, elle est assez forte pour obliger les penseurs qui voudront y donner une suffisante attention à renoncer au réalisme vulgaire du Temps en soi et de l'Espace en soi, et par suite à se rapprocher de la doctrine criticiste.
 
 ### XLV. Question de la synthèse totale eu égard à la durée des phénomènes.
 

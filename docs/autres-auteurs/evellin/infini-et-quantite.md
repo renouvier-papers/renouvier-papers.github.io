@@ -498,7 +498,7 @@ Un nombre déterminé en soi indéterminé pour l'entendement : à dans la réal
 
 Voici maintenant quelques-unes des objections d'Euler :
 
-I. Dans le système de la divisibilité à l'infini, ce mot de dernières particules m'est absolument incompréhensible.
+I. Dans le système de la divisibilité à l'infini, ce mot de dernières particules m'est absolument incompréhensible.[^p51-I]
 
 Rien de plus naturel : mais la question est de savoir si le système est vrai. *Igitur*, dans l'abstrait comme dans l'indéterminé, est également rationnel dans le déterminé et le concret.
 
@@ -1523,31 +1523,6 @@ On se fera une idée, si incomplète qu'elle soit, de l'utilité spéciale et du
 est simplement l'indéterminé infiniment petit ou infinitésimal que Leibnitz emploie dans le calcul sous un signe particulier, mais en le traitant comme une grandeur réelle jusqu'au moment où il supprime, pour résoudre certaines classes de problèmes, tous ceux des termes des relations qui seraient nuls, si l'infinitésimal était nul. »
 
 Que font donc, après Leibniz, tous ceux qui se servent de l'algorihme infinitésimal ? Ils introduisent les grandeurs fictives que nous venons de définir dans les formules qui expriment les conditions du problème posé, et, lorsqu'elles lui ont communiqué un aspect nouveau et favorable à la solution, ils les écartent de la scène où elles ont joué le rôle principal, pour ne laisser en présence les uns des autres que les données primitives, c'est-à-dire, les quantités fixes qui, seules, sont en question. Paraître un moment, pour représenter une différence infiniment petite, soit au sens du pro-
-
-descendante dont les termes additionnés reproduisent toujours la même somme :
-
-5 + 1 = 6
-4 + 2 = 6
-3 + 3 = 6
-2 + 4 = 6
-1 + 5 = 6
-0 + 6 = 6.
-
-« Maintenant, au lieu d'additionner ces termes, multiplions-les. Le produit le plus grand, cas de maximum, est celui où les deux nombres (facteurs) sont égaux : 3 × 3 = 9. Le produit minimum est celui où l'un des facteurs est zéro : 0 × 6 = 0. Pour généraliser, appelons *a* une ligne droite donnée, et *x* une partie de cette ligne, l'autre partie sera *a* − *x*. Pour que le rectangle, produit des deux parties, soit un maximum, il faut que *x* soit égal à (*a* − *x*) ou que *x* = *a*/2. Si l'on désigne par *z* un accroissement infiniment petit de *x*, de manière que *x* + *z* = *x* + 0, on aura :
-
-*x* (*a* − *x*) = *x* + *r* (*a* − *x* − *r*),
-
-d'où
-
-*z* (*a* − 2*x*) − *z*² = 0,
-
-et en dernière analyse :
-
-*a* − 2*x* = 0,
-
-ou
-
-*x* = *a*/2.
 
 [p. 154]
 
@@ -2846,7 +2821,7 @@ L'originalité de la théorie qu'on propose est tout entière dans la distinctio
 
 Cavalieri a exposé sa méthode dans l'ouvrage qui a pour titre : *Geometria indivisibilibus continuorum nova quadam ratione promota*. Nous insisterons plus loin sur la conception fondamentale de Cavalieri, et sur l'infinité des lignes et des plans qu'il imagine pour mesurer les surfaces et les volumes.
 [^p134-2]: 2. Roberval a composé un traité des *Indivisibles*. En voici un passage important :
-« Pour tirer des conclusions, dit-il, par le moyen des indivisibles, il faut supposer que toute ligne, soit droite, soit courbe, se peut diviser en une infinité de parties ou en petites lignes ; toutes lignes entières, on qui suivent entre elles telle progression que l'on voudra, comme de carré à carré, de cube à cube, de carré-carré à carre-carré ou selon quelque autre puissance, et ces petites lignes ainsi se terminent à telle chose choisie ; au lieu de dire que toutes les petites lignes sont à telle chose en certaine raison, on dira que tous les points sont à telle chose, en ladite raison. Par tout ce discours on peut comprendre que la multitude infinie de points se prend pour une infinité de petites lignes et compose la ligne entière ; l'infinité de petites lignes représente l'infinité de superficies qui composent la superficie totale ; l'infinité de superficies représente l'infinité de petits solides qui composent ensemble le solide total. » *Traité des indivisibles*. (Cité par Hoüel, *Hist. des math.*, p. 441.)
+« Pour tirer des conclusions, dit-il, par le moyen des indivisibles, il faut supposer que toute ligne, soit droite, soit courbe, se peut diviser en une infinité de parties ou en petites lignes ; toutes lignes entières, on qui suivent entre elles telle progression que l'on voudra, comme de carré à carré, de cube à cube, de carré-carré à carre-carré ou selon quelque autre puissance, et ces petites lignes ainsi se terminent à telle chose choisie ; au lieu de dire que toutes les petites lignes sont à telle chose en certaine raison, on dira que tous les points sont à telle chose, en ladite raison. Par tout ce discours on peut comprendre que la multitude infinie de points se prend pour une infinité de petites lignes et compose la ligne entière ; l'infinité de petites lignes représente l'infinité de superficies qui composent la superficie totale ; l'infinité de superficies représente l'infinité de petits solides qui composent ensemble le solide total. » *Traité des indivisibles*. (Cité par Hoëfer, *Hist. des math.*, p. 441.)
 [^p134-3]: 3. Pascal écrit à Carcavi : « Je ne nulle difficulté d'user de ce langage dans la géométrie : la somme des lignes, ou la somme des surfaces, et ainsi, quand je considère par exemple le demi-diamètre d'un cercle *CP*, divisé en un nombre infini de parties égales par les points dont il sont menées les ordonnées *ZM*, je ne ferai nulle difficulté de me servir de cette expression : la somme des ordonnées, qui semble ne pas être géométrique à ceux qui n'entend-ont pas la doctrine des indivisibles, et qui s'imaginent que c'est pécher contre la géométrie que d'exprimer un plan par un nombre indéfini de lignes, ce qui ne vient que d'un peu de manque d'intelligence… » (*Œuvres complètes de Pascal*, t. II, p. 344. Paris, 1880.)
 [^p138-1]: La méthode des indivisibles, sans sortir du point de vue où on doit se placer la science, tenait néanmoins quelque compte de la donnée objective. Voici comment, d'ordinaire, on procédait dans cette méthode pour démontrer un théorème. Il s'agissait, je suppose, de prouver que deux pyramides de même base et de même hauteur sont aussi de même volume. On commençait par les regarder l'une et l'autre comme composées d'une infinité de surfaces planes ; puis on affirmait que ces surfaces planes étaient de même forme à un nombre égal de part et d'autre ; la conclusion nécessaire était que les volumes des pyramides, qui sont les sommes respectives de ces éléments, sont égaux entre eux. Une telle démonstration étant exacte et justifiée par l'expérience, il fait qu'aucun des principes ou des postulats sur lesquels elle repose ne soit faux ; il est donc parfaitement vrai, ce qui, pour notre thèse, n'est pas d'un médiocre intérêt : 1° Que le nombre des surfaces planes est de part et d'autre infini, c'est-à-dire indéterminé pour nous ; 2° Que deux hauteurs égales doivent être traversées par un nombre égal de surfaces, car quelque indéterminé que soit pour nous le nombre des points qui donnent naissance à ces hauteurs, il doit être en soi le même pour des hauteurs qui sont les mêmes ; 3° Que les points qui engendrent ces deux hauteurs, se succédant ici et là en deux files parallèles et symétriques, se répondent mutuellement, et peuvent, également éloignés qu'ils sont de bases égales, donner naissance qu'à des surfaces de même grandeur. Outre qu'il met en son vrai jour le sens usuel du terme infini, ce théorème confirme la théorie des limites en ceci, que l'idée, si deux lignes indéterminées quant au nombre de leurs éléments doivent néanmoins en posséder le même nombre quand elles ont une même longueur, c'est, à n'en pas douter, parce que « l'indéterminé pour nous » est le « déterminé en soi ». Dans l'hypothèse contraire, il est clair que l'affirmation du même nombre n'aurait pas de sens, et la preuve qu'on veut faire deviendrait par suite impossible. Un théorème analogue et non moins curieux est celui qui a pour objet l'évaluation de l'aire du triangle. Nous ne le citons ici que pour donner une idée de la méthode des doubles rapports, méthode qu'on mesurait au volume dans la géométrie des indivisibles. Il servira d'ailleurs à donner une idée des thèses contraires que nous allons dût étaler, dans le premier cas dont nous parlons, au terme infini. Soit donné un triangle. Abaissons de son sommet sur la base une perpendiculaire. Partagerons cette perpendiculaire en une infinité de parties égales, et menons par chacun des points de division une parallèle à la base et terminée par les deux autres côtés du triangle.
 
@@ -2867,13 +2842,7 @@ Ce théorème, emprunté au remarquable ouvrage de Carnot qui a pour titre *Réf
 [^p148-1]: Voir les premiers chapitres, relatifs à la quantité en soi.
 [^p149-1]: C'est à l'aide du terme infini qu'on introduit cette réserve dans les formules mathématiques.
 [^p152-1]: Renouvier, *Critique philosophique*, 6e année, no 2.
-[^p152-2]: Voici, d'après Hoüel, le problème auquel il est fait allusion dans ces lignes de Renouvier. Il offre un véritable intérêt, parce qu'il peut donner, même aux esprits les moins familiers avec la méthode infinitésimale, une idée de l'algorithme de Leibniz. 
-« Supposons qu'il s'agisse de partager en deux une ligne, de manière que le produit de ces deux parties soit le plus grand possible. Pour mieux nous faire comprendre, donnons à cette ligne une valeur numérique, par exemple 6. Ce nombre peut se partager de telle façon qu'on ait d'un côté une progression ascendante, et de l'autre une progression descendante dont les termes additionnés reproduisent toujours la même somme :
-[^p153-*]: Maintenant, au lieu d'additionner ces termes, multiplions-les. Le produit le plus grand, cas de maximum, est celui où les deux nombres (facteurs) sont égaux : 3 × 3 = 9. Le produit minimum est celui où l'un des facteurs est zéro : 0 × 6 = 0. Pour généraliser, appelons *a* une ligne droite donnée, et *x* une partie de cette ligne, l'autre partie sera *a* − *x*. Pour que le rectangle, produit des deux parties, soit un maximum, il faut que *x* soit égal à (*a* − *x*) ou que *x* = *a*/2. Si l'on désigne par *z* un accroissement infiniment petit de *x*, de manière que *x* + *z* = *x* + 0, on aura :
-*x*(*a* − *x*) = (*x* + *z*)(*a* − *x* − *z*),
-d'où *z*(*a* − 2*x*) − *z*² = 0,
-et en dernière analyse : *a* − 2*x* = 0,
-ou *x* = *a*/2.
+[^p152-2]: Voici, d'après Hoëfer, le problème auquel il est fait allusion dans ces lignes de Renouvier. Il offre un véritable intérêt, parce qu'il peut donner, même aux esprits les moins familiers avec la méthode infinitésimale, une idée de l'algorithme de Leibniz. « Supposons qu'il s'agisse de partager en deux une ligne, de manière que le produit de ces deux parties soit le plus grand possible. Pour mieux nous faire comprendre, donnons à cette ligne une valeur numérique, par exemple 6. Ce nombre peut se partager de telle façon qu'on ait d'un côté une progression ascendante, et de l'autre une progression descendante dont les termes additionnés reproduisent toujours la même somme : 5 + 1 = 6 ; 4 + 2 = 6 ; 3 + 3 = 6 ; 2 + 4 = 6 ; 1 + 5 = 6 ; 0 + 6 = 6. « Maintenant, au lieu d'additionner ces termes, multiplions-les. Le produit le plus grand, cas de maximum, est celui où les deux nombres (facteurs) sont égaux : 3 × 3 = 9. Le produit minimum est celui où l'un des facteurs est zéro : 0 × 6 = 0. Pour généraliser, appelons *a* une ligne droite donnée, et *x* une partie de cette ligne, l'autre partie sera *a* − *x*. Pour que le rectangle, produit des deux parties, soit un maximum, il faut que *x* soit égal à (*a* − *x*) ou que *x* = *a*/2. Si l'on désigne par *e* un accroissement infiniment petit de *x*, de manière que *x* + *e* = *x* + 0, on aura : *x* (*a* − *x*) = *x* + *e* (*a* − *x* − *e*), d'où *e* (*a* − 2*x*) − *e*² = 0, et en dernière analyse : *a* − 2*x* = 0, ou *x* = *a*/2. »
 [^p154-1]: Lettre à Varignon, Dutens, III, 379.
 [^p155-1]: Nous faisons toutes nos réserves en ce qui concerne la possibilité infinitésimale du cercle ; nous restons ici au point de vue purement intuitif du géomètre.
 [^p155-2]: Le procédé qui consiste à enrouler un fil sur la circonférence d'un cerceau et à comparer la longueur de ce fil développé à la longueur du diamètre du même cerceau est un procédé analogue, le fil ne dessinant jamais une forme exactement circulaire.
