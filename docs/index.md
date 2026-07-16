@@ -17,3 +17,5 @@ transcriptions numériques fidèles et librement consultables.
 Utilisez le **menu horizontal en haut** pour parcourir les **Œuvres**, les **Revues**,
 les **Archives**, les **Autres auteurs** et la **Recherche** ; les pages **Contribuer**
 et **Licence** sont dans la barre latérale.
+
+Projet créé et maintenu par **Arthur Saunier**, doctorant en philosophie des sciences, Université de Montpellier Paul-Valéry, CRISES ([page institutionnelle](https://crises.www.univ-montp3.fr/fr/user/72589)).
