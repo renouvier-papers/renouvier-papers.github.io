@@ -4,7 +4,7 @@ title: "Introduction à la géométrie générale"
 
 # Introduction à la géométrie générale
 
-*Georges Lechalas (ingénieur en chef des Ponts et Chaussées) — Paris, Gauthier-Villars, « Actualités scientifiques », 1904. Source : Google Livres.*
+*Georges Lechalas (ingénieur en chef des Ponts et Chaussées) — Paris, Gauthier-Villars, « Actualités scientifiques », 1904. Source : Google Livres et Gallica (BnF).*
 
 ---
 
@@ -596,11 +596,15 @@ Les propriétés des hypersphères sont identiquement les mêmes que celles du p
 
 [p. 44]
 
-*(Les deux premiers paragraphes de la page 44 sont trop délavés sur le scan disponible pour une transcription fidèle — à compléter depuis un exemplaire plus net.)*
+hypersphère située dans un espace où elle soit retournante, et il suffit de considérer un espace lobatchefskien à quatre dimensions pour y voir une hypersphère donnée être retournante ou non, suivant que l'espace à trois dimensions dans lequel on l'envisage a, ou non, même géodésique qu'elle.
 
-Ces deux espaces isogènes inclus dans un même espace à quatre dimensions lobatchefskien se coupent deux à deux suivant une surface isogène quelconque, pourvu que sa courbure soit algébriquement supérieure ou au moins égale à celle de l'espace donné de plus forte courbure.
+De même, l'horisphère a toutes les propriétés du plan euclidien, sauf la retournabilité, et cette retournabilité, on la lui conférera si, parti d'un espace lobatchefskien à quatre dimensions, on y place une horisphère dans un espace isogène à courbure nulle, c'est-à-dire dans un espace ayant l'horicycle pour géodésique[^p44-1].
 
-Dans le cas de l'égalité, la surface d'intersection est le plan de l'espace de plus forte courbure.[^p44-1]
+Enfin les sphères lobatchefskiennes présentent toutes les propriétés des sphères euclidiennes, si on les envisage dans ce même espace isogène à courbure nulle, et apparaissent comme des plans riemanniens si l'espace à trois dimensions choisi dans l'espace lobatchefskien à quatre dimensions a une courbure positive égale à celle de la sphère, c'est-à-dire si elle y est grande sphère.
+
+Ces divers espaces isogènes inclus dans un même espace à quatre dimensions lobatchefskien se coupent deux à deux suivant une surface isogène quelconque, pourvu que sa courbure soit algébriquement supérieure ou au moins égale à celle de l'espace donné de plus forte courbure.
+
+Dans le cas de l'égalité, la surface d'intersection est le plan de l'espace de plus forte courbure.
 
 [p. 45]
 
