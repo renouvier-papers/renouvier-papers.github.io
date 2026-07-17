@@ -746,7 +746,7 @@ Fermée, la page tient en quatre mots. Chaque terme s'ouvre sur ce qu'il contien
 
 ## Note de méthode
 
-Cette page suit les règles de ses deux sœurs — [Compliquer les Essais pour les expliquer](../essais/) et [La physique du personnalisme](../physique-tardive/) : le pli conserve tout ; les voies non prises restent visibles ; la profondeur se compte aux filets ; le parcours se souvient ; la typographie dit qui parle, sérif pour Renouvier, linéale pour le commentaire.
+Cette page suit les règles de ses deux sœurs — [Compliquer les Essais pour les expliquer](essais.md) et [La physique du personnalisme](physique-tardive.md) : le pli conserve tout ; les voies non prises restent visibles ; la profondeur se compte aux filets ; le parcours se souvient ; la typographie dit qui parle, sérif pour Renouvier, linéale pour le commentaire.
 
 Elle en ajoute une, qui lui est propre. **Ici, le commentaire porte une accusation** — celle d'avoir bougé sans le dire. Il ne peut donc rien avancer qui ne soit vérifiable dans les fichiers du site : chaque variante est donnée dans ses deux états, chaque expression déclarée absente d'un état a été comptée dans les deux, et l'appareil de comparaison est décrit sous le pli « l'outil », avec ce qu'il a dû écarter.
 
