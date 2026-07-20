@@ -287,6 +287,8 @@ Fermée, la page tient en quatre mots. Chaque terme s'ouvre sur ce qu'il contien
 #dp .dp-poste--socle { border-left-style: dotted; }
 #dp .dp-signe { font-family: var(--dp-serif); font-weight: 700; text-align: center; color: var(--dp-muted); }
 #dp .dp-poste--plus .dp-signe { color: var(--dp-accent); }
+#dp .dp-renvoi { margin: .95rem 0 0; font-size: .8rem; color: var(--dp-muted); }
+#dp .dp-renvoi a { color: var(--dp-accent); }
 </style>
 <div class="dp-outils">
 <button class="dp-bouton" type="button" data-dp="tout">Tout déplier</button>
@@ -453,6 +455,15 @@ Fermée, la page tient en quatre mots. Chaque terme s'ouvre sur ce qu'il contien
 <span class="dp-source">Esquisse, t. II, p. 305</span>
 </div>
 
+<div class="dp-note">
+<span class="dp-etiquette">Pascal ? Classé ailleurs — et depuis longtemps</span>
+<p>Une Observation du ch. XII démonte le pari pascalien thèse à thèse. La troisième — l'intérêt nous <em>somme</em> de conclure — Renouvier l'expose ainsi :</p>
+<div class="dp-cite">
+<p>Notre intérêt est d'affirmer que c'est la croix qui a raison. Ceci se prouve par le <em>calcul des chances</em> […].</p>
+<span class="dp-source">Deuxième Essai, ch. XII, Observations et développements, A — Pascal et la théorie du vertige moral. Renouvier exposant la troisième thèse de Pascal.</span>
+</div>
+<p>Le dossier est rangé sous un titre qui juge : le <em>vertige moral</em> — l'intérêt qui fait tourner la tête, non la balance qui pèse. Voilà pourquoi, en 1886, le pari revient « de Locke » : non la sommation par l'enjeu, mais la croyance déjà engagée dans l'acte.</p>
+</div>
 <p class="dp-epigraphe">p. 348 — l'argument théorique, et la synthèse</p>
 <div class="dp-cite">
 <p>La plus haute conception à laquelle [nous a] conduit notre méthode, après que nous avons exclu l'absolu […], c'est la conscience première et universelle, auteur du monde, libre créateur[s] d'êtres libres. La preuve de l'unité de cet <em>Être suprême</em>, nous l'avons trouvée […] dans le fait de l'existence de lois générales et harmoniques établissant les rapports uniformes des phénomènes et la communication des consciences. Cette harmonie, en effet, implique l'unité d'une conscience qui la conçoit et la réalise […].</p>
@@ -461,6 +472,7 @@ Fermée, la page tient en quatre mots. Chaque terme s'ouvre sur ce qu'il contien
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Une seule inférence, faite deux fois</span>
 <p>Regardez la forme des deux arguments, et non leur matière. <strong>Ordre moral universel → ordre divin. Lois universelles → conscience une.</strong> C'est le même pas, franchi une fois par la morale et une fois par la théorie : de l'universalité à l'unité.</p>
+<p class="dp-renvoi">Ce joint — de l'unité des lois à la conscience une — est le seul trait ondulé du <a href="/recherche/logique-philosophique/systeme-en-formules/">Système en formules</a> : un raccord qui tient, en travaillant.</p>
 <p>Renouvier ne démontre jamais autrement — c'est déjà le dispositif de son dernier livre, où la logique et la physique arrivent séparément aux mêmes personnes. Deux routes qui ne se ressemblent pas, un seul point.</p>
 </div>
 <div class="dp-note">
@@ -486,7 +498,7 @@ Fermée, la page tient en quatre mots. Chaque terme s'ouvre sur ce qu'il contien
 <p>En corrigeant cette troisième édition du résumé de mes <em>Essais</em>, j'ai tenu à conserver fidèlement la trace de la marche de mes idées. Dans cette intention, je me suis contenté de mettre sous une forme dubitative la conclusion qui, dans les deux premières éditions, se présentait seule et sans réserve ; et j'ai ajouté à celle-ci une conclusion définitive plus avancée dans le sens des postulats.</p>
 <span class="dp-source">Troisième Essai, Introduction, note</span>
 </div>
-<p>Les deux derniers états ont été alignés mot à mot : <strong>94,8 % identiques</strong>. C'est ce qui rend les divergences lisibles. Elles sont trois, et elles font exactement ce que la note annonce.</p>
+<p>Les deux derniers états ont été alignés mot à mot : <strong>94,3 % identiques</strong>. C'est ce qui rend les divergences lisibles. Elles sont trois, et elles font exactement ce que la note annonce.</p>
 
 <details class="dp-pli" data-rang="variante 1">
 <summary class="dp-titre"><span class="dp-rang">un mot</span><span class="dp-texte">La forme dubitative — « sont » devient « semblent »</span></summary>
@@ -652,8 +664,9 @@ Fermée, la page tient en quatre mots. Chaque terme s'ouvre sur ce qu'il contien
 <div class="dp-marche"><span class="dp-marche-num">1854</span><span><strong>Premier Essai, ch. LIII.</strong> Une conscience du tout est contradictoire. Donc « l'hypothèse d'une pluralité primitive de consciences distinctes, dans le monde, semble donc la seule rationnelle ».</span></div>
 <div class="dp-marche dp-marche--pli"><span class="dp-marche-num">1864</span><span>Première édition du résumé du Deuxième Essai, en tête du <em>Troisième</em>. « […] le Soi et le Non-soi <em>sont posés</em> avec la plus grande distinction possible dans <em>la synthèse de</em> la Conscience. » Et déjà : « ces fonctions ont des <em>variables indépendantes</em> réelles ».</span></div>
 <div class="dp-marche dp-marche--pli"><span class="dp-marche-num">1875</span><span>Deuxième édition du résumé, rejetée à la fin du Deuxième Essai. « Deux directions de l'esprit <em>sont</em> possibles, légitimes. » Le texte s'arrête sur <em>Fin du formulaire</em>.</span></div>
-<div class="dp-marche"><span class="dp-marche-num">1885-86</span><span><strong>Esquisse, t. II</strong> — tout y est, en trois étages que la note de 1892 désigne dans le désordre. <em>p. 108</em> : même la science croit, donc croire est légitime. <em>p. 305</em> : le pari de Locke, l'ordre moral universel est un ordre divin. <em>p. 348</em> : la conscience première, une, libre, finie, « qui conçoit et réalise » l'harmonie des lois. <em>p. 355 sq.</em> : « Comment je suis arrivé à cette conclusion », 24 600 mots — le mobile avoué, et la théorie de l'aveu.</span></div>
+<div class="dp-marche"><span class="dp-marche-num">1885-86</span><span><strong>Esquisse, t. II</strong> — tout y est, en trois étages que la note de 1892 désigne dans le désordre. <em>p. 108</em> : même la science croit, donc croire est légitime. <em>p. 305</em> : le pari de Locke, l'ordre moral universel est un ordre divin. <em>p. 348</em> : la conscience première, une, libre, finie, « qui conçoit et réalise » l'harmonie des lois. <em>p. 355 sq.</em> : « Comment je suis arrivé à cette conclusion », près de 25 000 mots — le mobile avoué, et la théorie de l'aveu.</span></div>
 <div class="dp-marche dp-marche--pli"><span class="dp-marche-num">1892</span><span>Troisième édition du résumé, remontée en tête du Troisième Essai. Trois variantes : <em>semblent</em>, <em>prise</em>, et 218 mots de conclusion nouvelle. Note de l'auteur signalant l'opération et renvoyant à l'Esquisse.</span></div>
+<div class="dp-marche"><span class="dp-marche-num">1899</span><span><em>La Nouvelle Monadologie</em> — le chaînon que la préface de 1903 désignera elle-même : la théorie des monades y est « exposée » avant d'y être « reprise à fond ». <a href="/oeuvres/autres/nouvelle-monadologie/">Transcription sur ce site</a>.</span></div>
 <div class="dp-marche"><span class="dp-marche-num">1903</span><span><strong>Le Personnalisme</strong>, préface : « le vrai nom », et « dès son origine ». <em>Étude sur la perception externe et sur la force</em>, dernier mot : « et c'est l'harmonie préétablie ».</span></div>
 </div>
 <div class="dp-note dp-note--cle">
@@ -669,12 +682,12 @@ Fermée, la page tient en quatre mots. Chaque terme s'ouvre sur ce qu'il contien
 <div class="dp-corps">
 <p>Une page qui accuse un philosophe de s'être contredit doit montrer ses instruments. Voici les miens, avec leurs défauts.</p>
 <ul class="dp-liste">
-<li><strong>Les deux états ont été alignés mot à mot</strong>, après normalisation (pagination, appels de note, italiques, guillemets, césures). Résultat : 16 078 mots contre 16 644, et <strong>94,8 % de correspondance</strong>.</li>
+<li><strong>Les deux états ont été alignés mot à mot</strong>, après normalisation (pagination, appels de note, italiques, guillemets, césures). Résultat : 16 212 mots contre 16 811, et <strong>94,3 % de correspondance</strong>.</li>
 <li><strong>Les deux tomes viennent de numérisations différentes</strong> — Gallica pour 1875, Google Books pour 1892. L'océrisation produit donc un bruit réel : les divergences d'une ou deux lettres sur un mot ont été écartées comme suspectes.</li>
 <li><strong>Un « ajout de 93 mots » a été rejeté</strong> : c'était le tableau de classification des sciences, transcrit en texte d'un côté et en HTML de l'autre par l'édition numérique. Un diff mesure aussi les choix de son éditeur moderne.</li>
 <li><strong>Seuls les blocs longs et contigus ont été retenus</strong> — un OCR ne fabrique pas 218 mots de suite, ni ne corrige un accord.</li>
-<li><strong>Trois absences apparentes n'étaient que des artefacts de transcription</strong>, et il faut le dire puisque cette page reproche à un philosophe d'avoir bougé sans le dire. La définition de la substance semblait supprimée en 1875 : elle est intacte, ma recherche butait sur les astérisques d'italique du fichier. La formule « variables indépendantes » semblait disparue en 1892 : elle y est, mais coupée par une césure de fin de ligne — « des <em>va- riables indépendantes</em> ». Et le premier alignement donnait 94,6 % : les mêmes césures y créaient des divergences fantômes. Après correction, 94,8 %. <strong>Sur ces textes, une chaîne cherchée telle quelle ne prouve rien ; il faut normaliser avant de conclure à une absence.</strong></li>
-<li><strong>La numérisation de l'<em>Esquisse</em> est fautive par endroits.</strong> Les citations en ont été choisies dans les zones saines ; les deux restitutions nécessaires sont entre crochets : « à laquelle [nous a] conduit notre méthode » (le fichier porte une phrase cassée) et « libre créateur[s] d'êtres libres » (le fichier accorde au pluriel un sujet singulier). Aucune n'affecte le sens ; toutes deux sont signalées ici plutôt que corrigées en silence.</li>
+<li><strong>Trois absences apparentes n'étaient que des artefacts de transcription</strong>, et il faut le dire puisque cette page reproche à un philosophe d'avoir bougé sans le dire. La définition de la substance semblait supprimée en 1875 : elle est intacte, ma recherche butait sur les astérisques d'italique du fichier. La formule « variables indépendantes » semblait disparue en 1892 : elle y est, mais coupée par une césure de fin de ligne — « des <em>va- riables indépendantes</em> ». Et le premier alignement donnait 94,6 % : les mêmes césures y créaient des divergences fantômes. Une fois les césures recollées et la méthode figée — mots en minuscules, apostrophes comprises ; pagination, appels de note et marques d'italique retirés ; identité mesurée par les plus longs blocs communs, rapportés à la moyenne des deux textes —, le chiffre s'établit à 94,3 %. <strong>Sur ces textes, une chaîne cherchée telle quelle ne prouve rien ; il faut normaliser avant de conclure à une absence.</strong></li>
+<li><strong>La numérisation de l'<em>Esquisse</em> est fautive par endroits.</strong> Les citations en ont été choisies dans les zones saines ; les deux restitutions nécessaires sont entre crochets : « à laquelle [nous a] conduit notre méthode » (le fichier porte « à laquelle je me suis conduire notre méthode », leçon cassée ; restitution conjecturale) et « libre créateur[s] d'êtres libres » (le fichier accorde au pluriel un sujet singulier). Aucune n'affecte le sens ; toutes deux sont signalées ici plutôt que corrigées en silence.</li>
 </ul>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Ce que cette page ne dit pas</span>
@@ -746,7 +759,7 @@ Fermée, la page tient en quatre mots. Chaque terme s'ouvre sur ce qu'il contien
 
 ## Note de méthode
 
-Cette page suit les règles de ses deux sœurs — [Compliquer les Essais pour les expliquer](essais.md) et [La physique du personnalisme](physique-tardive.md) : le pli conserve tout ; les voies non prises restent visibles ; la profondeur se compte aux filets ; le parcours se souvient ; la typographie dit qui parle, sérif pour Renouvier, linéale pour le commentaire.
+Cette page suit les règles de ses deux sœurs — [Compliquer les Essais pour les expliquer](../essais/) et [La physique du personnalisme](../physique-tardive/) : le pli conserve tout ; les voies non prises restent visibles ; la profondeur se compte aux filets ; le parcours se souvient ; la typographie dit qui parle, sérif pour Renouvier, linéale pour le commentaire.
 
 Elle en ajoute une, qui lui est propre. **Ici, le commentaire porte une accusation** — celle d'avoir bougé sans le dire. Il ne peut donc rien avancer qui ne soit vérifiable dans les fichiers du site : chaque variante est donnée dans ses deux états, chaque expression déclarée absente d'un état a été comptée dans les deux, et l'appareil de comparaison est décrit sous le pli « l'outil », avec ce qu'il a dû écarter.
 

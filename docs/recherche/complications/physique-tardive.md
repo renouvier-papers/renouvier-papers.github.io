@@ -281,6 +281,8 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
   #dp .dp-trou { border-left: 0; border-right: 0; border-top: 1px dashed var(--dp-rule); border-bottom: 1px dashed var(--dp-rule); min-width: 0; }
   #dp .dp-rive { padding: .85rem .8rem; }
 }
+#dp .dp-renvoi { margin: .95rem 0 0; font-size: .8rem; color: var(--dp-muted); }
+#dp .dp-renvoi a { color: var(--dp-accent); }
 </style>
 <div class="dp-outils">
 <button class="dp-bouton" type="button" data-dp="tout">Tout déplier</button>
@@ -467,6 +469,7 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 <p>Ce n'est pas une conversion tardive. C'est ce qui reste sur la table quand on a tout enlevé. Renouvier n'a pas rejoint Leibniz : il est arrivé, en démolissant, au seul endroit où Leibniz avait campé.</p>
 </div>
 </div>
+<p class="dp-renvoi">L'enchaînement complet — la force est volonté, rien ne passe, donc des monades, donc une harmonie — est mis en notation, avec le statut logique de chaque pas, sur <a href="/recherche/logique-philosophique/systeme-en-formules/">Le système en formules</a>.</p>
 </details>
 
 <details class="dp-pli" data-rang="la correction">
@@ -475,11 +478,11 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 <p>Renouvier prend les monades, mais il n'accepte pas le paquet. Le chapitre XLVI s'appelle <em>De la correction à apporter à la monadologie leibnitienne</em>, et il isole exactement deux pièces à retirer :</p>
 <div class="dp-cite">
 <p>Deux points de doctrine des plus considérables, qui peuvent sembler inhérents à la monadologie, parce qu'ils le sont au leibnitianisme, sont cependant tout à fait indépendants de la théorie […] des monades, et doivent en être séparés. L'une concerne la notion de l'activité, l'autre la notion de l'infini.</p>
-<span class="dp-source">Étude, ch. XLVI</span>
+<span class="dp-source">Étude, ch. XLVI — « [des] » : le fichier porte « les », coquille de numérisation</span>
 </div>
 <p>La première correction porte sur la liberté, et Renouvier en donne la formule la plus nette de toute son œuvre — une formule d'algébriste :</p>
 <div class="dp-cite">
-<p>Leibniz ne formule pas l'harmonie comme loi de causalité, simplement en ce sens que les actes et les états des êtres soient fonctions les uns des autres dans le cours des phénomènes. Il demande qu'il ne puisse entrer <em>aucune variable indépendante</em> dans les équations qui règlent les déterminations mutuelles.</p>
+<p>Leibniz ne formule pas l'harmonie comme loi de causalité, simplement en ce sens que les actes et les états des êtres soient fonctions les uns [des] autres dans le cours des phénomènes. Il demande qu'il ne puisse entrer <em>aucune variable indépendante</em> dans les équations qui règlent les déterminations mutuelles.</p>
 <span class="dp-source">Étude, ch. XLVI</span>
 </div>
 <div class="dp-note dp-note--cle">
@@ -625,6 +628,15 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 <p><em>La doctrine des monades et les idées générales de la physique moderne.</em> Une métaphysique de 1714 mise en face de la thermodynamique, de la théorie cinétique des gaz et du principe de relativité. Renouvier ne demande pas qu'on l'excuse : il soutient que la monadologie, corrigée, est la seule doctrine où les notions premières de la physique cessent d'être des mots.</p>
 </div>
 </div>
+<div class="dp-note">
+<span class="dp-etiquette">Le chaînon de 1899 — désigné par l'auteur lui-même</span>
+<p>Entre l'<em>Esquisse</em> (1886) et ce livre-ci (1903), il y a un ouvrage entier, et c'est la préface du <em>Personnalisme</em> qui le nomme :</p>
+<div class="dp-cite">
+<p>La théorie cosmogonique et eschatologique du personnalisme, abordée dans les <em>Essais de critique générale</em>, <em>Troisième Essai</em> (2<sup>e</sup> édit.) et exposée dans la <em>Nouvelle monadologie</em> est reprise à fond dans l'ouvrage que nous publions aujourd'hui.</p>
+<span class="dp-source">Le Personnalisme, préface</span>
+</div>
+<p>« Exposée » en 1899, « reprise à fond » en 1903 : la généalogie est signée. Ce dossier s'en tient aux deux bornes que la préface relie ; le chaînon, lui, est <a href="/oeuvres/autres/nouvelle-monadologie/">transcrit sur ce site</a> et attend sa page.</p>
+</div>
 </details>
 
 <details class="dp-pli" data-rang="le pli de Renouvier">
@@ -746,7 +758,7 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 
 ## Note de méthode
 
-Cette page suit les mêmes six règles que ses deux sœurs, [Compliquer les Essais pour les expliquer](essais.md) et [Comment je suis arrivé à cette conclusion](evolution.md) : le pli conserve tout ; les sœurs restent visibles ; la profondeur se compte aux filets ; le parcours se souvient ; la typographie dit qui parle — sérif pour Renouvier, linéale pour le commentaire ; et les paliers sont de l'auteur quand ils existent.
+Cette page suit les mêmes six règles que sa sœur, [Compliquer les Essais pour les expliquer](../essais/) : le pli conserve tout ; les sœurs restent visibles ; la profondeur se compte aux filets ; le parcours se souvient ; la typographie dit qui parle — sérif pour Renouvier, linéale pour le commentaire ; et les paliers sont de l'auteur quand ils existent.
 
 Ici, ils existent. Le chapitre L, *Résumé des thèses principales*, est le troisième formulaire de Renouvier, et l'essentiel de cette page en vient.
 

@@ -248,6 +248,8 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 @media (max-width: 44rem) {
   #dp .dp-marche { grid-template-columns: 1fr; gap: .15rem; }
 }
+#dp .dp-renvoi { margin: .95rem 0 0; font-size: .8rem; color: var(--dp-muted); }
+#dp .dp-renvoi a { color: var(--dp-accent); }
 </style>
 <div class="dp-outils">
 <button class="dp-bouton" type="button" data-dp="tout">Tout déplier</button>
@@ -261,11 +263,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <details class="dp-pli" data-rang="titre">
 <summary class="dp-titre"><span class="dp-rang">le mot</span><span class="dp-texte">Essais</span></summary>
 <div class="dp-corps">
-<p>Le mot n'est pas de la modestie. Un <em>essai</em>, ici, c'est un examen qui ne connaît pas son résultat d'avance — l'exact contraire d'un <em>système</em>. Renouvier passera sa vie à reprocher à Hegel et à Comte d'avoir su la fin avant d'avoir commencé.</p>
-<div class="dp-cite">
-<p>Hegel et Comte, aussi bien que Bossuet et Vico, traitent l'histoire comme Eudoxe et Ptolémée traitaient l'astronomie, avec leurs sphères idéales.</p>
-<span class="dp-source">Quatrième Essai, § XXXII</span>
-</div>
+<p>Le mot n'est pas de la modestie. Un <em>essai</em>, ici, c'est un examen qui ne connaît pas son résultat d'avance — l'exact contraire d'un <em>système</em>. Renouvier passera sa vie à reprocher à Hegel et à Comte d'avoir su la fin avant d'avoir commencé — et l'image qui règle leur compte, celle des sphères de Ptolémée, attend au bout de cette page, dans le dernier pli du Quatrième Essai.</p>
 <p>Quatre essais, donc : quatre examens, sur quatre objets, avec un seul outil. Cet outil a neuf pièces, il est monté dans le premier livre, et il ne changera plus jamais.</p>
 </div>
 </details>
@@ -339,6 +337,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 </div>
 <p>Renouvier consacre un chapitre entier et une centaine de pages d'observations à refonder là-dessus la fraction, l'incommensurable, la limite, les tangentes, les quadratures — c'est-à-dire le calcul infinitésimal — sans jamais admettre un infini en acte. C'est le prix à payer, et il le paie <em>(Premier Essai, ch. XXXII)</em>.</p>
 </div>
+<p class="dp-renvoi">Ce raisonnement — deux définitions, un choc — est démonté jeton par jeton sur <a href="/recherche/logique-philosophique/systeme-en-formules/">Le système en formules</a>.</p>
 </details>
 
 <details class="dp-pli" data-rang="détail">
@@ -450,6 +449,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 </div>
 <p>D'où la formule qui tient lieu de devise à tout le criticisme français : <strong>« Tout phénomène est donné par rapport à d'autres phénomènes. »</strong></p>
 </div>
+<p class="dp-renvoi">Les neuf lignes se réduisent à une seule opération — la synthèse de deux contraires corrélatifs —, mise en notation sur <a href="/recherche/logique-philosophique/systeme-en-formules/">Le système en formules</a>.</p>
 </details>
 
 <details class="dp-pli" data-rang="détail">
@@ -614,6 +614,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 </div>
 <p>Voilà toute l'affaire : les antinomies ne sont pas une fatalité de la raison, elles sont la punition d'une ambition. Elles ne surgissent que si l'on veut connaître le tout. Renoncez à cela, et la raison redevient cohérente.</p>
 </div>
+<p class="dp-renvoi">Les neuf échecs tiennent en un lemme — le Tout n'a pas de vis-à-vis — formalisé sur <a href="/recherche/logique-philosophique/systeme-en-formules/">Le système en formules</a>.</p>
 </details>
 </div>
 </details>
@@ -636,6 +637,15 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <div class="dp-cite">
 <p>Le chapitre de la certitude n'a pas sa place marquée dans ce <em>traité</em>. Il formera contre tout usage, mais en toute raison, la clef de voûte d'un édifice qu'il s'agit de fonder […] ; il n'en sera pas la première pierre.</p>
 <span class="dp-source">Premier Essai, ch. I</span>
+</div>
+<div class="dp-note">
+<span class="dp-etiquette">Et même la statistique ne donne qu'une probabilité — il le dit</span>
+<p>Le chapitre s'adosse à une Observation entière — première pièce que cette page prélève dans les <em>Observations et développements</em>, comme promis. L'argument : le hasard a une signature, la loi des grands nombres, et cette signature est précisément l'<em>absence</em> de loi individuelle. Des actes libres la porteraient. Mais lisez le verdict jusqu'au bout :</p>
+<div class="dp-cite">
+<p>[…] les applications du calcul des probabilités sont par elles-mêmes une vérification <em>probable</em> de l'existence effective de la liberté. La loi des grands nombres est la loi des faits qui ne reconnaissent point d'autre loi.</p>
+<span class="dp-source">Deuxième Essai, ch. XIII, Observations et développements, A — De l'interprétation de la loi dite des <em>grands nombres</em></span>
+</div>
+<p>Une vérification <em>probable</em> — l'italique est de lui. Même son meilleur indice empirique, Renouvier refuse de l'appeler preuve. Le pari reste entier, et c'est voulu.</p>
 </div>
 <div class="dp-note">
 <span class="dp-etiquette">Descartes à l'envers</span>
@@ -722,7 +732,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <p>« Où sa place se trouvait naturellement marquée ». En 1859, le résumé du premier livre servait de porte d'entrée au second. En 1875, Renouvier le renvoie à la fin du premier. Le pli n'a pas changé de contenu : il a changé de charnière.</p>
 <div class="dp-note">
 <span class="dp-etiquette">Et le pli suivant existe en deux états</span>
-<p>Le <em>Formulaire du Traité de Psychologie rationnelle</em> ouvrait le Troisième Essai en 1864 ; il clôt le Deuxième en 1875 ; il rouvre le Troisième en 1892, sous le titre <em>Introduction — Résumé des principes de la psychologie rationnelle</em>, avec les mêmes quatre sections et la même première phrase. <strong>Trois états du même texte, sur vingt-huit ans.</strong> Les deux derniers sont identiques à 94,8 % au mot — l'écart tient en 566 mots, soit 3,5 %. Et Renouvier signale en note qu'il corrige là « cette troisième édition du résumé de mes <em>Essais</em> », qu'il a mis une conclusion « sous une forme dubitative » et en a ajouté une autre, « plus avancée dans le sens des postulats ».</p>
+<p>Le <em>Formulaire du Traité de Psychologie rationnelle</em> ouvrait le Troisième Essai en 1864 ; il clôt le Deuxième en 1875 ; il rouvre le Troisième en 1892, sous le titre <em>Introduction — Résumé des principes de la psychologie rationnelle</em>, avec les mêmes quatre sections et la même première phrase. <strong>Trois états du même texte, sur vingt-huit ans.</strong> Les deux derniers sont identiques à 94,3 % au mot — l'écart tient en 599 mots, soit 3,7 %. Et Renouvier signale en note qu'il corrige là « cette troisième édition du résumé de mes <em>Essais</em> », qu'il a mis une conclusion « sous une forme dubitative » et en a ajouté une autre, « plus avancée dans le sens des postulats ».</p>
 <p>Autrement dit : <strong>le palier a une histoire, et elle est datée.</strong> On peut lire le même résumé à trois âges et voir un homme changer d'avis sur Dieu, en note. C'est l'objet d'une page voisine, <a href="../evolution/">Comment je suis arrivé à cette conclusion</a>.</p>
 </div>
 </div>
@@ -936,7 +946,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Deux ordres de certitude, et une bascule entre les deux</span>
 <p>Le <strong>premier ordre</strong> (ch. XVI) est ce qu'on ne peut pas ne pas affirmer : l'être de la conscience, l'être du monde. Le <strong>second ordre</strong> (ch. XVII) est tout le reste — et il dépend de la liberté, parce qu'y affirmer, c'est vouloir affirmer. D'où la phrase qui fait tourner le livre : « Le principe de ces principes est la liberté. »</p>
-<p>Conséquence : il n'y a pas de vérité sans quelqu'un qui la veuille. Et comme il y a plusieurs personnes, la vérité passe par un accord — ce qui explique qu'un traité de psychologie finisse sur le <em>contrat social</em>.</p>
+<p>Conséquence : il n'y a pas de vérité sans quelqu'un qui la veuille. Sur <a href="/recherche/logique-philosophique/systeme-en-formules/">Le système en formules</a>, ce joint est le seul souligné double de toute la charpente. Et comme il y a plusieurs personnes, la vérité passe par un accord — ce qui explique qu'un traité de psychologie finisse sur le <em>contrat social</em>.</p>
 </div>
 </div>
 </details>
