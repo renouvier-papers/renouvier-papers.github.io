@@ -305,8 +305,8 @@ Le corpus est celui de la page [Lexicométrie](/recherche/linguistique/lexicomet
 <div class="dp-corps">
 <p>Trois familles d'étiquettes, trois degrés de certitude — et rien d'autre.</p>
 <p><strong>Les classes fermées.</strong> Déterminants, pronoms, prépositions, conjonctions, négations, formes conjuguées d'<em>être</em> et d'<em>avoir</em> : ces listes sont finies et connues en entier. Un mot y figure ou n'y figure pas ; l'étiquette est sûre. Elles couvrent à elles seules plus de la moitié de tout texte français.</p>
-<p><strong>Les désinences sans ambiguïté.</strong> Une forme en <em>-erait</em> est un conditionnel ; une forme en <em>-aient</em> hors conditionnel est un imparfait ; une forme en <em>-èrent</em> est un passé simple — <em>sauf exceptions, toutes listées</em>. Car le français tend des pièges : <em>fait</em>, <em>sait</em> et <em>parfait</em> ne sont pas des imparfaits ; <em>diffèrent</em> et <em>considèrent</em> sont des présents, non des passés simples ; <em>vrai</em> n'est pas un futur, et <em>considérons</em> non plus ; <em>considérait</em> (imparfait de <em>considérer</em>) se distingue de <em>considérerait</em> (conditionnel) par un seul <em>e</em>. Chaque piège rencontré dans le corpus a été tranché individuellement, et la liste des décisions est publiée au dernier pli.</p>
-<p><strong>Les adverbes en <em>-ment</em>.</strong> <em>Nécessairement</em> est un adverbe, <em>mouvement</em> est un nom, <em>forment</em> est un verbe : aucune règle mécanique ne les départage tous. Les terminaisons sûres (<em>-quement</em>, <em>-ellement</em>, <em>-amment</em>…) sont traitées par règle ; le reste, mot par mot. Résidu non classé : 910 occurrences sur plus d'un million — moins d'un mot sur mille.</p>
+<p><strong>Les désinences sans ambiguïté.</strong> Une forme en <em>-erait</em> est un conditionnel ; une forme en <em>-aient</em> hors conditionnel est un imparfait ; une forme en <em>-èrent</em> est un passé simple — <em>sauf exceptions, toutes listées</em>. Car le français tend des pièges : <em>fait</em>, <em>sait</em> et <em>parfait</em> ne sont pas des imparfaits ; <em>diffèrent</em> et <em>considèrent</em> sont des présents, non des passés simples ; <em>vrai</em> n'est pas un futur, et <em>considérons</em> non plus ; <em>considérait</em> (imparfait de <em>considérer</em>) se distingue de <em>considérerait</em> (conditionnel) par un seul <em>e</em>. Chaque piège rencontré dans le corpus a été tranché individuellement ; les principales décisions sont au dernier pli, et leur intégralité — dictionnaires et programme — dans la page <a href="/recherche/linguistique/methode/">Méthode et reproductibilité</a>.</p>
+<p><strong>Les adverbes en <em>-ment</em>.</strong> <em>Nécessairement</em> est un adverbe, <em>mouvement</em> est un nom, <em>forment</em> est un verbe : aucune règle mécanique ne les départage tous. Les terminaisons sûres (<em>-quement</em>, <em>-ellement</em>, <em>-amment</em>…) sont traitées par règle ; le reste, mot par mot. Résidu non classé : 918 occurrences sur plus d'un million — moins d'un mot sur mille.</p>
 <table class="dp-tab">
 <thead><tr><th>strate</th><th>mots étiquetés</th></tr></thead>
 <tbody>
@@ -328,10 +328,10 @@ Le corpus est celui de la page [Lexicométrie](/recherche/linguistique/lexicomet
 <thead><tr><th>pronom</th><th>1875</th><th>1886</th><th>1903</th><th>1892</th></tr></thead>
 <tbody>
 <tr><td><strong>je, j'</strong></td><td><strong>53,6</strong></td><td><strong>27,2</strong></td><td><strong>5,4</strong></td><td class="dp-t92">19,7</td></tr>
-<tr><td>me, m', moi</td><td>21,2</td><td>10,7</td><td>4,9</td><td class="dp-t92">7,1</td></tr>
-<tr><td>nous</td><td>66,4</td><td>47,0</td><td>65,8</td><td class="dp-t92">52,0</td></tr>
-<tr><td>on</td><td>71,7</td><td>65,2</td><td>44,1</td><td class="dp-t92">72,2</td></tr>
-<tr><td>il, ils</td><td>127,8</td><td>136,3</td><td>117,9</td><td class="dp-t92">109,5</td></tr>
+<tr><td>me, m', moi</td><td>21,2</td><td>10,6</td><td>4,9</td><td class="dp-t92">7,1</td></tr>
+<tr><td>nous</td><td>66,4</td><td>47,0</td><td>65,8</td><td class="dp-t92">52,1</td></tr>
+<tr><td>on</td><td>71,7</td><td>65,3</td><td>44,1</td><td class="dp-t92">72,2</td></tr>
+<tr><td>il, ils</td><td>127,9</td><td>136,3</td><td>118,0</td><td class="dp-t92">109,7</td></tr>
 </tbody>
 </table>
 <p>D'un livre à l'autre, le <em>je</em> est divisé par dix. L'auteur des <em>Essais</em> parle en son nom à chaque page — il expose, il maintient, il répond :</p>
@@ -356,7 +356,7 @@ Le corpus est celui de la page [Lexicométrie](/recherche/linguistique/lexicomet
 <thead><tr><th>strate</th><th>ne… pas</th><th>ne… point</th><th>part de <em>point</em></th><th><em>ne</em> pour 10 000 mots</th></tr></thead>
 <tbody>
 <tr><td>1875</td><td>2 613</td><td>554</td><td><strong>17,5 %</strong></td><td>163</td></tr>
-<tr><td>1885-1886</td><td>2 288</td><td>329</td><td>12,6 %</td><td>135</td></tr>
+<tr><td>1885-1886</td><td>2 286</td><td>329</td><td>12,6 %</td><td>136</td></tr>
 <tr><td>1903</td><td>951</td><td>143</td><td>13,1 %</td><td>135</td></tr>
 <tr><td class="dp-t92"><em>1892</em></td><td class="dp-t92">499</td><td class="dp-t92">86</td><td class="dp-t92">14,7 %</td><td class="dp-t92">138</td></tr>
 </tbody>
@@ -366,7 +366,7 @@ Le corpus est celui de la page [Lexicométrie](/recherche/linguistique/lexicomet
 <p>Elle n'est pas positivement logique, et c'est pour cette raison qu'on ne voit point le devoir figurer dans les tables de catégories.</p>
 <span class="dp-source">Le Personnalisme, p. 47</span>
 </div>
-<p>— où l'on notera que les deux négations cohabitent dans la même phrase, <em>pas</em> pour le constat, <em>point</em> pour la pointe. Ensuite, la densité globale : les <em>Essais</em> nient davantage (163 <em>ne</em> pour 10 000 mots contre 135 ensuite). Un traité polémique se construit contre — contre Hume, contre Hegel, contre l'infini actuel ; la prose tardive expose plus qu'elle ne réfute, et sa grammaire le sait.</p>
+<p>— où l'on notera que les deux négations cohabitent dans la même phrase, <em>pas</em> pour le constat, <em>point</em> pour la pointe. Ensuite, la densité globale : les <em>Essais</em> nient davantage (163 <em>ne</em> pour 10 000 mots contre 135-136 ensuite). Un traité polémique se construit contre — contre Hume, contre Hegel, contre l'infini actuel ; la prose tardive expose plus qu'elle ne réfute, et sa grammaire le sait.</p>
 </div>
 </details>
 
@@ -377,10 +377,10 @@ Le corpus est celui de la page [Lexicométrie](/recherche/linguistique/lexicomet
 <table class="dp-tab">
 <thead><tr><th>connecteur</th><th>1875</th><th>1886</th><th>1903</th><th>1892</th></tr></thead>
 <tbody>
-<tr><td><strong>donc</strong></td><td><strong>15,7</strong></td><td>10,4</td><td><strong>8,4</strong></td><td class="dp-t92">11,6</td></tr>
-<tr><td>si</td><td>36,4</td><td>27,2</td><td>24,9</td><td class="dp-t92">29,2</td></tr>
-<tr><td>mais</td><td>46,8</td><td>42,2</td><td>37,2</td><td class="dp-t92">42,8</td></tr>
-<tr><td>ainsi</td><td>16,7</td><td>16,3</td><td>11,9</td><td class="dp-t92">14,0</td></tr>
+<tr><td><strong>donc</strong></td><td><strong>15,8</strong></td><td>10,4</td><td><strong>8,4</strong></td><td class="dp-t92">11,6</td></tr>
+<tr><td>si</td><td>36,5</td><td>27,2</td><td>24,9</td><td class="dp-t92">29,2</td></tr>
+<tr><td>mais</td><td>46,8</td><td>42,2</td><td>37,2</td><td class="dp-t92">42,9</td></tr>
+<tr><td>ainsi</td><td>16,7</td><td>16,3</td><td>11,9</td><td class="dp-t92">14,1</td></tr>
 <tr><td>en effet</td><td>6,2</td><td>4,0</td><td>3,7</td><td class="dp-t92">6,9</td></tr>
 <tr><td>lorsque</td><td>3,6</td><td>1,8</td><td>0,9</td><td class="dp-t92">3,6</td></tr>
 <tr><td>au contraire</td><td>3,3</td><td>2,3</td><td>1,9</td><td class="dp-t92">2,4</td></tr>
@@ -469,7 +469,7 @@ Le corpus est celui de la page [Lexicométrie](/recherche/linguistique/lexicomet
 <p><strong>Ambiguïtés assumées.</strong> <em>Il</em> inclut l'impersonnel (<em>il faut</em>) : la chute du <em>je</em> n'en dépend pas. <em>Que</em> n'est pas ventilé entre relatif, conjonction et adverbe : on ne l'interprète jamais seul. <em>En</em>, <em>le</em>, <em>leur</em> cumulent leurs emplois : ils ne portent aucune conclusion de cette page. La segmentation en phrases protège les abréviations courantes ; ses erreurs résiduelles pèsent également sur les quatre strates, donc pas sur leurs écarts.</p>
 <p><strong>Dictionnaires de décision (extraits).</strong> Écartés de l'imparfait : <em>fait, ait, sait, aient, parfait, satisfait, imparfait, bienfait, souhait, trait, attrait, extrait, portrait, abstrait, soustrait, retrait, distrait</em>. Écartés du passé simple (présents en <em>-èrent</em> et voisins) : <em>diffèrent, demeurent, tirent, figurent, suggèrent, opèrent, concourent, altèrent, meurent, attirent, acquièrent, mesurent, considèrent, préfèrent, espèrent</em>. Écartés du futur : <em>vrai, barbara</em> (le mode syllogistique !), et les présents en <em>-rons</em> des verbes en <em>-rer</em> (<em>considérons, ignorons, comparons…</em>). Distinction fine : <em>-erait</em> = conditionnel, <em>-érait</em> = imparfait (<em>considérerait</em> / <em>considérait</em>). Imparfaits repêchés hors règle : <em>offrait, découvrait, démontrait, souffrait, ouvrait</em>. En <em>-ment</em>, classés noms : <em>mouvement, sentiment, développement, moment, jugement, fondement, entendement, commencement, changement, raisonnement, élément, événement…</em> ; classés verbes : <em>forment, réclament, affirment, expriment…</em> ; <em>comment</em> à part. Toute forme non couverte par une règle ou une liste reste sans étiquette et compte au résidu (0,088 % des mots).</p>
 <p><strong>Delta de Burrows.</strong> Segments de 20 000 mots (18 pour 1875, 19 pour 1886, 8 pour 1903, 4 pour 1892) ; 120 mots-outils les plus fréquents du corpus commun ; fréquences centrées-réduites sur l'ensemble des segments ; distance = moyenne des écarts absolus. Le classement d'un segment se fait par distance au profil moyen de chaque strate.</p>
-<p><strong>Reproductibilité.</strong> Comme pour la page voisine : un unique programme de dépouillement, des règles toutes énoncées ci-dessus, les transcriptions publiques de ce site. Refaites le comptage : vous retrouverez ces nombres — c'est la définition même du protocole.</p>
+<p><strong>Reproductibilité.</strong> Comme pour la page voisine : un unique programme de dépouillement, des règles énoncées, les transcriptions publiques de ce site. La page <a href="/recherche/linguistique/methode/">Méthode et reproductibilité</a> publie le programme intégral, les dictionnaires complets et des valeurs-témoins de vérification. Refaites le comptage : vous retrouverez ces nombres — c'est la définition même du protocole.</p>
 </div>
 </details>
 

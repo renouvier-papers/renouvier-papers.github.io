@@ -316,7 +316,7 @@ Le pari du comptage : un auteur ne sait pas tout ce que sa langue fait. Chaque p
 <p>Deux strates de taille presque égale, une troisième moitié moindre mais largement suffisante ; toutes les fréquences de cette page sont donc rapportées <em>pour 10 000 mots</em>, ce qui rend les trois livres comparables. Le tome de 1892 est mis à part : c'est la révision tardive d'un texte écrit sous l'Empire, un composé de deux dates — on le garde comme <em>point de contrôle</em>, et il jouera ce rôle à merveille dans la page voisine.</p>
 <div class="dp-note">
 <span class="dp-etiquette">Ce qui est compté, ce qui ne l'est pas</span>
-<p>Est compté : tout le texte de Renouvier, préfaces, formulaires et notes comprises — y compris les passages où il cite autrui (Mill, Spencer, Hume…), qui font partie du livre publié et qu'aucun procédé automatique ne saurait excommunier proprement. N'est pas compté : l'appareil du site (titres de chapitres reproduits en balisage, indications de pagination, mentions d'édition). Les mots coupés par les changements de page ou de ligne des transcriptions — trois cent vingt et une césures — ont été recollés avant tout calcul.</p>
+<p>Est compté : tout le texte de Renouvier, préfaces, formulaires et notes comprises — y compris les passages où il cite autrui (Mill, Spencer, Hume…), qui font partie du livre publié et qu'aucun procédé automatique ne saurait excommunier proprement. N'est pas compté : l'appareil du site (titres de chapitres reproduits en balisage, indications de pagination, mentions d'édition). Les mots coupés par les changements de page ou de ligne des transcriptions — trois cent vingt et une césures — ont été recollés avant tout calcul, selon trois règles dénombrées dans la page <a href="/recherche/linguistique/methode/">Méthode et reproductibilité</a>.</p>
 </div>
 </div>
 </details>
@@ -328,10 +328,10 @@ Le pari du comptage : un auteur ne sait pas tout ce que sa langue fait. Chaque p
 <table class="dp-tab">
 <thead><tr><th>strate</th><th>phrases</th><th>longueur moyenne</th><th>médiane</th></tr></thead>
 <tbody>
-<tr><td><strong>1875</strong></td><td>9 747</td><td>38,5 mots</td><td>32</td></tr>
-<tr><td><strong>1885-1886</strong></td><td>8 076</td><td><strong>49,4 mots</strong></td><td><strong>42</strong></td></tr>
-<tr><td><strong>1903</strong></td><td>3 711</td><td>46,9 mots</td><td>41</td></tr>
-<tr><td class="dp-t92"><em>1892</em></td><td class="dp-t92">2 215</td><td class="dp-t92">40,1 mots</td><td class="dp-t92">33</td></tr>
+<tr><td><strong>1875</strong></td><td>9 757</td><td>38,6 mots</td><td>32</td></tr>
+<tr><td><strong>1885-1886</strong></td><td>8 078</td><td><strong>49,5 mots</strong></td><td><strong>42</strong></td></tr>
+<tr><td><strong>1903</strong></td><td>3 710</td><td>46,9 mots</td><td>41</td></tr>
+<tr><td class="dp-t92"><em>1892</em></td><td class="dp-t92">2 216</td><td class="dp-t92">40,1 mots</td><td class="dp-t92">33</td></tr>
 </tbody>
 </table>
 <p>Dix mots de plus en moyenne, dix de plus en médiane : entre les <em>Essais</em> et l'<em>Esquisse</em>, la phrase de Renouvier change de gabarit, et ne reviendra plus en arrière. La raison saute aux yeux dès qu'on lit : le traité de 1875 découpe — propositions numérotées, formulaires, définitions — quand l'<em>Esquisse</em> déroule, balance les doctrines l'une contre l'autre, tient des séries entières dans une seule période. En voici une, prise à la première page du tome II :</p>
@@ -350,11 +350,11 @@ Le pari du comptage : un auteur ne sait pas tout ce que sa langue fait. Chaque p
 <table class="dp-tab">
 <thead><tr><th>1875 — le traité</th><th>1885-1886 — la classification</th><th>1903 — la physique</th></tr></thead>
 <tbody>
-<tr><td>syllogisme (51)</td><td>bonheur (98)</td><td>corps (126)</td></tr>
+<tr><td>syllogisme (52)</td><td>bonheur (98)</td><td>corps (126)</td></tr>
 <tr><td>catégories (45)</td><td>évolution (51)</td><td>forces (62)</td></tr>
-<tr><td>expérience (44)</td><td>doctrine (51)</td><td>perception (60)</td></tr>
+<tr><td>expérience (44)</td><td>doctrine (51)</td><td>perception (61)</td></tr>
 <tr><td>synthèse (38)</td><td>plaisir (48)</td><td>monades (52)</td></tr>
-<tr><td>proposition (36)</td><td>morale (46)</td><td>chaleur (47)</td></tr>
+<tr><td>proposition (35)</td><td>morale (46)</td><td>chaleur (48)</td></tr>
 <tr><td>induction (32)</td><td>devoir (45)</td><td>Boscovich (47)</td></tr>
 <tr><td>prémisses (25)</td><td>Platon (44)</td><td>molécules (34)</td></tr>
 <tr><td>Mill (24)</td><td>infini (35)</td><td>gravitation (26)</td></tr>
@@ -380,10 +380,10 @@ Le pari du comptage : un auteur ne sait pas tout ce que sa langue fait. Chaque p
 <tbody>
 <tr><td>catégorie(s)</td><td>8,4</td><td>0,9</td><td>1,7</td><td class="dp-t92">5,3</td></tr>
 <tr><td>représentation(s)</td><td>12,0</td><td>4,3</td><td>5,7</td><td class="dp-t92">13,8</td></tr>
-<tr><td>fonction(s)</td><td>10,9</td><td>3,0</td><td>5,8</td><td class="dp-t92">18,9</td></tr>
-<tr><td>science(s)</td><td>20,1</td><td>9,3</td><td>7,9</td><td class="dp-t92">18,0</td></tr>
+<tr><td>fonction(s)</td><td>10,9</td><td>3,0</td><td>5,8</td><td class="dp-t92">19,0</td></tr>
+<tr><td>science(s)</td><td>20,0</td><td>9,3</td><td>7,9</td><td class="dp-t92">18,0</td></tr>
 <tr><td>vérité(s)</td><td>12,0</td><td>7,2</td><td>2,8</td><td class="dp-t92">4,4</td></tr>
-<tr><td><strong>certitude</strong></td><td><strong>6,5</strong></td><td><strong>3,0</strong></td><td><strong>0,6</strong></td><td class="dp-t92">4,6</td></tr>
+<tr><td><strong>certitude</strong></td><td><strong>6,5</strong></td><td><strong>3,0</strong></td><td><strong>0,6</strong></td><td class="dp-t92">4,7</td></tr>
 </tbody>
 </table>
 <p>La chute de <em>certitude</em> est la plus parlante : le Deuxième Essai lui consacrait son sous-titre même, et le mot s'éteint — divisé par dix. Non que la chose soit abandonnée : elle est acquise, donc tue.</p>
@@ -392,7 +392,7 @@ Le pari du comptage : un auteur ne sait pas tout ce que sa langue fait. Chaque p
 <thead><tr><th>mot</th><th>1875</th><th>1886</th><th>1903</th><th>1892</th></tr></thead>
 <tbody>
 <tr><td>Dieu</td><td>2,8</td><td>8,4</td><td>6,5</td><td class="dp-t92">4,7</td></tr>
-<tr><td>création</td><td>0,8</td><td>6,1</td><td>6,3</td><td class="dp-t92">4,2</td></tr>
+<tr><td>création</td><td>0,8</td><td>6,1</td><td>6,3</td><td class="dp-t92">4,3</td></tr>
 <tr><td>créateur</td><td>0,4</td><td>2,3</td><td>4,3</td><td class="dp-t92">0,9</td></tr>
 <tr><td>péché</td><td>0,0</td><td>0,5</td><td>1,1</td><td class="dp-t92">0,2</td></tr>
 <tr><td>mal</td><td>2,9</td><td>8,6</td><td>5,3</td><td class="dp-t92">2,7</td></tr>
@@ -403,12 +403,12 @@ Le pari du comptage : un auteur ne sait pas tout ce que sa langue fait. Chaque p
 <thead><tr><th>mot</th><th>1875</th><th>1886</th><th>1903</th><th>1892</th></tr></thead>
 <tbody>
 <tr><td>corps</td><td>7,6</td><td>3,2</td><td><strong>27,8</strong></td><td class="dp-t92">30,0</td></tr>
-<tr><td>force(s)</td><td>14,7</td><td>7,6</td><td><strong>35,8</strong></td><td class="dp-t92">31,3</td></tr>
-<tr><td>matière</td><td>5,7</td><td>9,6</td><td>18,4</td><td class="dp-t92">24,6</td></tr>
+<tr><td>force(s)</td><td>14,7</td><td>7,6</td><td><strong>35,9</strong></td><td class="dp-t92">31,4</td></tr>
+<tr><td>matière</td><td>5,8</td><td>9,6</td><td>18,4</td><td class="dp-t92">24,6</td></tr>
 <tr><td>monade(s)</td><td>0,5</td><td>0,7</td><td><strong>10,1</strong></td><td class="dp-t92">1,8</td></tr>
 </tbody>
 </table>
-<p><strong>4. Les chassés-croisés.</strong> <em>Liberté</em> tombe de 12,5 à 3,3 — non par reniement : parce que la cause est entendue, le mot cède la place au mot d'exécution, <em>volonté</em>, qui reste imperturbable (8,8 → 9,2 → 10,9). <em>Croyance</em> culmine dans l'<em>Esquisse</em> (6,0 → 11,5 → 6,5), le livre du pari ; <em>infini</em> aussi (5,2 → 16,2 → 9,4), le livre qui classe les doctrines selon leur réponse à l'infini ; <em>nécessité</em> de même (5,7 → 8,3 → 1,3) — on ne discute la nécessité que tant qu'elle est l'adversaire du jour.</p>
+<p><strong>4. Les chassés-croisés.</strong> <em>Liberté</em> tombe de 12,5 à 3,3 — non par reniement : parce que la cause est entendue, le mot cède la place au mot d'exécution, <em>volonté</em>, qui reste imperturbable (8,9 → 9,2 → 10,9). <em>Croyance</em> culmine dans l'<em>Esquisse</em> (6,0 → 11,5 → 6,6), le livre du pari ; <em>infini</em> aussi (5,2 → 16,2 → 9,4), le livre qui classe les doctrines selon leur réponse à l'infini ; <em>nécessité</em> de même (5,7 → 8,3 → 1,3) — on ne discute la nécessité que tant qu'elle est l'adversaire du jour.</p>
 <p>Quant au tome de contrôle, il est exactement l'hybride que sa date double annonçait : l'appareil des <em>Essais</em> (<em>fonction</em> 18,9, <em>représentation</em> 13,8) sur le sujet du dernier livre (<em>corps</em> 30,0, <em>matière</em> 24,6) — c'est le tome des principes de la nature, révisé tard.</p>
 <p class="dp-renvoi">Ces courbes chiffrent ce que la page <a href="/recherche/complications/evolution/">Comment je suis arrivé à cette conclusion</a> établissait par les textes : la lecture datait la bascule, le comptage en donne l'amplitude.</p>
 </div>
@@ -427,10 +427,10 @@ Le pari du comptage : un auteur ne sait pas tout ce que sa langue fait. Chaque p
 <summary class="dp-titre"><span class="dp-rang">tout est refaisable</span><span class="dp-texte">Note de méthode</span></summary>
 <div class="dp-corps">
 <p><strong>Corpus.</strong> Trois strates closes avant tout calcul : quatre tomes de la seconde édition des <em>Essais</em> (Premier Essai t. II–III, Deuxième Essai t. II–III, 1875) ; les deux tomes de l'<em>Esquisse</em> (1885-1886) ; <em>Le Personnalisme</em> avec son Étude (1903). Le Troisième Essai t. I (2ᵉ éd., 1892) sert de point de contrôle et n'entre dans aucun calcul de spécificité. Tout le texte de Renouvier est compté, citations d'autrui comprises ; l'appareil du site (balisage des titres, marqueurs de pagination, notices d'édition) est retiré.</p>
-<p><strong>Préparation.</strong> Les mots coupés par les changements de page ou de ligne des transcriptions ont été recollés (321 césures). Les élisions sont détachées (<em>l'espace</em> → <em>l'</em> + <em>espace</em>), le trait d'union d'époque après <em>très-</em> est dénoué, les inversions du type <em>est-il</em>, <em>dit-on</em> sont rendues à leurs deux mots. Pas de lemmatisation : <em>force</em> et <em>forces</em> sont comptés séparément, puis regroupés à la main quand la ligne du tableau l'indique.</p>
+<p><strong>Préparation.</strong> Les mots coupés par les changements de page ou de ligne des transcriptions ont été recollés — trois règles de recollage, dénombrées dans la page <a href="/recherche/linguistique/methode/">Méthode et reproductibilité</a>. Les élisions sont détachées (<em>l'espace</em> → <em>l'</em> + <em>espace</em>), le trait d'union d'époque après <em>très-</em> est dénoué, les inversions du type <em>est-il</em>, <em>dit-on</em> sont rendues à leurs deux mots. Pas de lemmatisation : <em>force</em> et <em>forces</em> sont comptés séparément, puis regroupés à la main quand la ligne du tableau l'indique.</p>
 <p><strong>Mesures.</strong> Fréquences rapportées pour 10 000 mots. Richesse lexicale par tranches de 10 000 mots (moyenne des tranches), seule façon de comparer des livres de tailles différentes. Longueur des phrases après protection des abréviations courantes (M., ch., t., etc.). Spécificités calculées par la loi hypergéométrique (méthode Lafon) : chaque strate contre la réunion des trois ; S est le logarithme décimal, changé de signe, de la probabilité d'obtenir par hasard une fréquence au moins aussi extrême.</p>
 <p><strong>Limites.</strong> Le comptage ignore le sens : il ne distingue pas <em>mal</em> substantif de <em>mal</em> adverbe, ni ne sait qui parle quand Renouvier cite. Les ordres de grandeur sont robustes à ces flous ; les décimales, non. On ne conclut ici que sur les premiers.</p>
-<p><strong>Reproductibilité.</strong> Toutes les valeurs de cette page sortent d'un unique programme de dépouillement appliqué aux transcriptions publiées sur ce site ; quiconque refait le comptage avec les mêmes règles retrouvera les mêmes nombres.</p>
+<p><strong>Reproductibilité.</strong> Toutes les valeurs de cette page sortent d'un unique programme de dépouillement appliqué aux transcriptions publiées sur ce site. La page <a href="/recherche/linguistique/methode/">Méthode et reproductibilité</a> publie ce programme en entier, avec les règles, les dictionnaires complets et des valeurs-témoins : quiconque refait le comptage retrouvera ces nombres — et peut le vérifier en cinq minutes.</p>
 </div>
 </details>
 
