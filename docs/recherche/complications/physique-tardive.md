@@ -758,7 +758,7 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 
 ## Note de méthode
 
-Cette page suit les mêmes six règles que sa sœur, [Compliquer les Essais pour les expliquer](../essais/) : le pli conserve tout ; les sœurs restent visibles ; la profondeur se compte aux filets ; le parcours se souvient ; la typographie dit qui parle — sérif pour Renouvier, linéale pour le commentaire ; et les paliers sont de l'auteur quand ils existent.
+Cette page suit les mêmes six règles que sa sœur, [Compliquer les Essais pour les expliquer](essais.md) : le pli conserve tout ; les sœurs restent visibles ; la profondeur se compte aux filets ; le parcours se souvient ; la typographie dit qui parle — sérif pour Renouvier, linéale pour le commentaire ; et les paliers sont de l'auteur quand ils existent.
 
 Ici, ils existent. Le chapitre L, *Résumé des thèses principales*, est le troisième formulaire de Renouvier, et l'essentiel de cette page en vient.
 
