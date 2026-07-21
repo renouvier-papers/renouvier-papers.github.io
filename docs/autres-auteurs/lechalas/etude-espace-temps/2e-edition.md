@@ -4,15 +4,15 @@ title: "2e édition"
 
 # 2e édition
 
-> Georges Lechalas, *Étude sur l'espace et le temps*, 2e édition, Paris, Félix Alcan, « Bibliothèque de philosophie contemporaine », 1896.
+> Georges Lechalas, *Étude sur l'espace et le temps*, 2e édition, Paris, Félix Alcan, « Bibliothèque de philosophie contemporaine », 1909.
 >
 > Source : microfilm, Columbia University Libraries.
 
 ---
 
-[p. None]
+[p. I]
 
-## Preface
+## Préface
 
 En présentant la première édition de cette *Etude*, vers la fin de l'année 1895, nous appelions l'attention sur la limitation du sujet, qui ne comprenait ni la genèse des idées de temps et d'espace, ni, d'une façon générale, le temps psychologique auquel de courtes allusions étaient seulement consacrées. Cet avertissement s'applique également à la présente édition, qui ne constitue nullement un ouvrage nouveau. Toutefois, le changement de format suffit à marquer qu'il ne s'agit pas non plus d'une simple réimpression, plus ou moins revue. Il y a donc lieu de signaler les principales différences existant entre les deux éditions.
 
