@@ -5,6 +5,8 @@ title: "Le rationnel"
 # Le rationnel
 
 > Gaston Milhaud, *Le Rationnel. Études complémentaires à l'Essai sur la certitude logique*, Paris, Félix Alcan, 1898.
+>
+> Source : Gallica / Bibliothèque nationale de France.
 
 ---
 

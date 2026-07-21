@@ -5,6 +5,8 @@ title: "Infini et quantité"
 # Infini et quantité
 
 > François Évellin, *Infini et quantité. Étude sur le concept de l'infini en philosophie et dans les sciences*, Paris, Librairie Germer Baillière et Cie, 1880.
+>
+> Source : Gallica / Bibliothèque nationale de France.
 
 ---
 
@@ -1842,7 +1844,7 @@ que telle suite; mais il est aisé de comprendre que l'indétermination inhéren
 
 coïncide point avec MP, la fraction *MZ*/*RZ* est plus grande que *T¹*/*M*[^p178-1]. Ces deux fractions ne deviennent rigoureusement égales qu'au moment où MZ et RZ se réduisent à 0. Il est vrai qu'alor
 
-![Fig. 4.]
+*Fig. 4.*
 
 *MZ*/*RZ* est aussi bien égale à toute autre quantité qu'à *TP*/*MP* puisque *0*/*0* est une quantité absolument arbitraire ; mais, parmi les di-[p. 179]verses valeurs qu'on peut attribuer à *MZ*/*MP* et *TP*/*MP* est la seule qui soit assujettie à la loi de continuité et déterminée par elle; car, si l'on construisait une courbe dont l'abscisse fût la quantité indéfiniment petite MZ et l'ordonnée proportionnelle à *MZ*/*RZ*, celle qui répondrait à l'abscisse nulle serait représentée par *TP*/*MP* et non par une quantité arbitraire. Or c'est ce qui distingue les quantités évanouissantes de celles qui sont simplement nulles. Ainsi, quoiqu'en général on ait :
 
