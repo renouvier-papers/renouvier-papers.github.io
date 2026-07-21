@@ -4,7 +4,9 @@ title: "Introduction à la géométrie générale"
 
 # Introduction à la géométrie générale
 
-*Georges Lechalas (ingénieur en chef des Ponts et Chaussées) — Paris, Gauthier-Villars, « Actualités scientifiques », 1904. Source : Google Livres et Gallica (BnF).*
+> Georges Lechalas, *Introduction à la géométrie générale*, Paris, Gauthier-Villars, « Actualités scientifiques », 1904.
+>
+> Source : Google Livres et Gallica (BnF).
 
 ---
 

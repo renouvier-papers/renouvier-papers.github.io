@@ -2,9 +2,11 @@
 title: "La raison pure et les antinomies"
 ---
 
-# Essai sur les conditions et les limites de la certitude logique (2e édition)
+# La raison pure et les antinomies
 
-*Gaston Milhaud — 2e édition revue, Paris, Félix Alcan, 1898. Source : Google Livres.*
+> François Évellin, *La raison pure et les antinomies*, Paris, Félix Alcan, 1907.
+>
+> Source : Gallica / Bibliothèque nationale de France.
 
 ---
 

@@ -4,9 +4,9 @@ title: "Manuel républicain"
 
 # Manuel républicain
 
-## Manuel républicain de l'homme et du citoyen
-
-*Charles Renouvier — Paris, Pagnerre, 1848. Source : Gallica (BnF).*
+> Charles Renouvier, *Manuel républicain de l'homme et du citoyen*, Paris, Pagnerre, 1848.
+>
+> Source : Gallica (BnF).
 
 ---
 

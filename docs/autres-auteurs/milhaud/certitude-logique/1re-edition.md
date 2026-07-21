@@ -2,9 +2,11 @@
 title: "1re édition"
 ---
 
-# Essai sur les conditions et les limites de la certitude logique
+# 1re édition
 
-*Gaston Milhaud — 1re édition, Paris, Félix Alcan, « Bibliothèque de philosophie contemporaine », 1894. Source : Google Livres.*
+> Gaston Milhaud, *Essai sur les conditions et les limites de la certitude logique*, 1re édition, Paris, Félix Alcan, « Bibliothèque de philosophie contemporaine », 1894.
+>
+> Source : Google Livres.
 
 ---
 

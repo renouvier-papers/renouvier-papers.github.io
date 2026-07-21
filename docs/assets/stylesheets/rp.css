@@ -164,3 +164,34 @@ body.font-opendyslexic, body.font-opendyslexic * { font-family:'OpenDyslexic', s
 .collapsible-heading::before { content:'\25B8'; position:absolute; left:0; transition:transform .2s; font-size:.8em; }
 .collapsible-heading.open::before { transform:rotate(90deg); }
 .collapsible-content.collapsed { display:none; }
+
+/* =====================  PAGES « DÉPLIANTS »  =====================
+   Ces pages (Œuvres à déplier, Logique philosophique, Linguistique
+   informatique) embarquent leur propre <style>. Les règles ci-dessous
+   le corrigent depuis l'extérieur : elles sont ici, et non dans les
+   fichiers d'Arthur, parce que ceux-ci sont remplacés régulièrement. */
+
+/* 1. La barre d'outils se cale SOUS l'en-tête au lieu de passer dessus.
+      (les pages posent « top:0; z-index:5 » ; l'en-tête Material est à 4) */
+:root { --rp-header-h: 2.45rem; }                    /* mobile : en-tête seul */
+@media screen and (min-width: 76.25em) {
+  :root { --rp-header-h: 4.9rem; }                   /* + barre d'onglets */
+}
+body #dp .dp-outils { top: var(--rp-header-h); z-index: 3; }
+
+/* 2. Les segments de titre deviennent des « briques » manifestement cliquables.
+      Sans étiquette de rang (masquée pour ces plis), rien ne signalait qu'un
+      mot du titre s'ouvre : guillemets + filet + flèche le disent. */
+body #dp .dp-pli[data-rang="titre"] > .dp-titre::before { display: none; }
+body #dp .dp-pli[data-rang="titre"] > .dp-titre .dp-texte {
+  display: inline-flex; align-items: baseline; gap: .4em;
+  border: 1px solid var(--dp-rule); border-radius: 4px;
+  padding: .04em .5em .14em;
+  transition: border-color .18s ease, background .18s ease, color .15s ease;
+}
+body #dp .dp-pli[data-rang="titre"] > .dp-titre .dp-texte::before { content: "«"; opacity: .45; font-weight: 400; }
+body #dp .dp-pli[data-rang="titre"] > .dp-titre .dp-texte::after  { content: "»\00a0\00a0\25B8"; opacity: .45; font-weight: 400; }
+body #dp .dp-pli[data-rang="titre"][open] > .dp-titre .dp-texte::after { content: "»\00a0\00a0\25BE"; }
+body #dp .dp-pli[data-rang="titre"] > .dp-titre:hover .dp-texte {
+  border-color: var(--dp-accent); background: var(--dp-faint);
+}

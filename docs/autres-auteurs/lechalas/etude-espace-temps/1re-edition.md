@@ -2,9 +2,11 @@
 title: "1re édition"
 ---
 
-# Étude sur l'espace et le temps
+# 1re édition
 
-*Georges Lechalas (ingénieur en chef des Ponts et Chaussées) — 1re édition, Paris, Félix Alcan, « Bibliothèque de philosophie contemporaine », 1896. Source : Google Livres.*
+> Georges Lechalas, *Étude sur l'espace et le temps*, 1re édition, Paris, Félix Alcan, « Bibliothèque de philosophie contemporaine », 1896.
+>
+> Source : Google Livres.
 
 ---
 

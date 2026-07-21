@@ -117,12 +117,34 @@
     });
   }
 
+  /* ---- tiroir mobile : sur l'accueil, ouvrir sur les grandes rubriques ----
+     Material « zoome » le tiroir sur la rubrique de la page courante. Sur
+     l'accueil (qui vit dans la rubrique « Accueil »), on n'y voyait donc que
+     Contribuer et Licence, et il fallait la flèche de retour pour atteindre
+     Œuvres, Revues, etc. On remonte d'un cran, mais UNIQUEMENT à l'ouverture
+     du tiroir et sur l'accueil : ailleurs, le tiroir garde son rôle utile
+     (afficher le menu latéral de la rubrique où l'on se trouve), et la barre
+     latérale du bureau n'est pas concernée. */
+  function drawerRootOnHome() {
+    var drawer = document.getElementById('__drawer');
+    if (!drawer || drawer.dataset.rpHomeNav) return;
+    drawer.dataset.rpHomeNav = '1';
+    drawer.addEventListener('change', function () {
+      if (!this.checked) return;                                  // seulement à l'ouverture
+      if (location.pathname.replace(/\/+$/, '') !== '') return;    // seulement sur l'accueil
+      var nav = document.querySelector('.md-nav--primary');
+      if (!nav) return;
+      nav.querySelectorAll('.md-nav__toggle').forEach(function (t) { t.checked = false; });
+    });
+  }
+
   function init() {
     var content = document.querySelector('.md-content');
     makeTitleHome();
     buildToolbar();
     pageMarkers(content);
     collapsibleSections(content);
+    drawerRootOnHome();
   }
 
   // instant-nav de Material si présent, sinon chargement classique

@@ -2,9 +2,9 @@
 title: "Le rationnel"
 ---
 
-# Le Rationnel
+# Le rationnel
 
-*Gaston Milhaud (agrégé de mathématiques, chargé de cours à l'Université de Montpellier) — « Études complémentaires à l'Essai sur la certitude logique ». Paris, Félix Alcan, 1898.*
+> Gaston Milhaud, *Le Rationnel. Études complémentaires à l'Essai sur la certitude logique*, Paris, Félix Alcan, 1898.
 
 ---
 

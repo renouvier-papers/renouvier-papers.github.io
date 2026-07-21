@@ -2,9 +2,11 @@
 title: "2e édition"
 ---
 
-# Essai sur les conditions et les limites de la certitude logique (2e édition)
+# 2e édition
 
-*Gaston Milhaud — 2e édition revue, Paris, Félix Alcan, 1898. Source : Google Livres.*
+> Gaston Milhaud, *Essai sur les conditions et les limites de la certitude logique*, 2e édition revue, Paris, Félix Alcan, 1898.
+>
+> Source : Google Livres.
 
 ---
 

@@ -2,9 +2,11 @@
 title: "2e édition"
 ---
 
-# Étude sur l'espace et le temps (2e édition)
+# 2e édition
 
-*Georges Lechalas (ingénieur en chef des Ponts et Chaussées) — 2e édition, Paris, Félix Alcan, « Bibliothèque de philosophie contemporaine », 1896. Source : microfilm Columbia University Libraries.*
+> Georges Lechalas, *Étude sur l'espace et le temps*, 2e édition, Paris, Félix Alcan, « Bibliothèque de philosophie contemporaine », 1896.
+>
+> Source : microfilm, Columbia University Libraries.
 
 ---
 

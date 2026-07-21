@@ -4,7 +4,7 @@ title: "Infini et quantité"
 
 # Infini et quantité
 
-*F. Evellin (agrégé de philosophie, professeur au lycée Saint-Louis) — « Étude sur le concept de l'infini en philosophie et dans les sciences ». Paris, Librairie Germer Baillière et Cie, 1880.*
+> François Évellin, *Infini et quantité. Étude sur le concept de l'infini en philosophie et dans les sciences*, Paris, Librairie Germer Baillière et Cie, 1880.
 
 ---
 
