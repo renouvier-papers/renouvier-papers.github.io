@@ -8,6 +8,8 @@ description: "La charpente logique du néocriticisme, terme à terme et joint à
 Renouvier a lui-même fixé le cahier des charges de cette page, au seuil du Deuxième Essai :
 
 > J'arrive aux catégories empiriquement ; je les fixe par hypothèse, et je les propose pour être vérifiées.
+> 
+> Charles Renouvier, *Essais de critique générale. Deuxième Essai. Traité de psychologie rationnelle d'après les principes du criticisme*, 2e éd. revue et considérablement augmentée, Paris, Au Bueau de la *Critique philosophique*, t. I, p. 2.
 
 Cette page prend l'offre au mot. Elle ne raconte pas le système : elle le démonte, avec l'outil que Renouvier respectait par-dessus tout — la logique formelle. Le système entier tient d'abord en **une formule** ; chaque terme s'ouvre ensuite sur sa dérivation, jusqu'aux définitions.
 
