@@ -778,7 +778,7 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 <div class="dp-note">
 <span class="dp-etiquette">Même les probabilités ne sauvent pas la mise — il le dit</span>
 <p>Le chapitre XIII convoque le calcul des probabilités (la loi des grands nombres vérifiée par l'expérience est compatible avec des possibles réellement égaux). Verdict de l'auteur, dès 1864 : ce calcul « fournit ainsi, selon sa nature, une sorte de probabilité, plutôt qu'une démonstration de la liberté comme réelle ». Une <em>probabilité de la liberté</em> — pas une preuve. Le pari reste entier.</p>
-<p class="lg-invite">source : Formulaire du Traité de Psychologie rationnelle, 1864 — d'après la transcription fournie par l'éditeur du site.</p>
+<p class="lg-invite">source : Formulaire du Traité de Psychologie rationnelle : 1864 (1ère éd. du 2ème Essai), p. XXXVII ; 1875 (2ème éd. du 3ème Essai), p. 307.</p>
 </div>
 </div>
 </details>
@@ -989,7 +989,7 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 <p><strong>Comment lire cette page.</strong> Le <span style="font-family: var(--dp-serif); font-style: italic;">sérif</span> cite Renouvier mot pour mot ; la linéale — y compris chaque formule — est notre commentaire. Le trait sous un joint dit sa nature : plein, déduit ; pointillé, défini ; tirets, supposé ; double, choisi ; ondulé, raccordé sous tension.</p>
 <p><strong>Ce que la forme peut, et ce qu'elle ne peut pas.</strong> Une formalisation teste la <em>validité</em> : si les prémisses, alors la conclusion. Elle ne teste ni la vérité des prémisses, ni la justesse des définitions — elle les met à nu, c'est tout son office, et c'est déjà beaucoup : trois des grandes querelles autour de ce système (Cantor, la force, la substance) se révèlent être des querelles de :=, pas de théorèmes.</p>
 <p><strong>Le vertige, pour finir.</strong> Dans ce système, la certitude est une clef de voûte, pas une première pierre — « le principe de ces principes est la liberté ». Chaque ⊢ de cette page, du moment qu'on l'<em>affirme</em>, repose donc sur ⊢₆. L'audit lui-même est un acte. Renouvier n'aurait pas voulu qu'il en fût autrement.</p>
-<p><strong>Sources.</strong> Toutes les citations ont été vérifiées à la lettre dans les fichiers du site, à deux exceptions signalées sur place : les extraits de 1864 suivent la transcription fournie par l'éditeur du site ; l'épigraphe est au chapitre I du Deuxième Essai. Les symboles (σ, Ω, ⊢ et le reste) sont de nous.</p>
+<p><strong>Sources.</strong> Œuvres de Charles Renouvier, disponibles sur ce site. Les symboles (σ, Ω, ⊢ et le reste) sont de nous.</p>
 <p><strong>Ce qui manque encore — et c'est une invitation.</strong> Descendre d'un étage : formaliser chaque catégorie avec ses Observations, mettre en forme le calcul des probabilités du chapitre XIII, et donner sa page à la contestation — chaque statut de l'audit est discutable, et la page est construite pour qu'on puisse la prendre en défaut. « Je les propose pour être vérifiées » : nous aussi.</p>
 </div>
 
