@@ -22,7 +22,7 @@ DOSSIER = "/mnt/project"
 FICHIERS = {   # strate -> liste de fichiers (transcriptions du site)
     "1875": ["essai-1-tome-2.md", "essai-1-tome-3.md",
              "essai-2-tome-2.md", "essai-2-tome-3.md"],
-    "1886": ["esquisse-tome-1", "esquisse-tome-2"],
+    "1886": ["esquisse-tome-1.md", "esquisse-tome-2.md"],
     "1903": ["personnalisme.md"],
     "1892": ["essai-3-tome-1.md"],          # point de contrôle
 }

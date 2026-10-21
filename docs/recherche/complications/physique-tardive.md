@@ -7,9 +7,9 @@ description: "Le Personnalisme, suivi d'une étude sur la perception externe et 
 
 En 1854, un homme de trente-neuf ans entreprend de démolir la métaphysique. Il y passera un demi-siècle : pas de chose en soi, pas de substance, pas d'infini, pas d'absolu — des fétiches, tous, des mots qu'on a pris pour des dieux.
 
-En 1903, à quatre-vingt-huit ans, mourant, il publie son dernier livre. Les derniers mots en sont : *et c'est l'harmonie préétablie*.
+En 1903, l'année de sa mort, à quatre-vingt-huit ans, il publie le dernier livre paru de son vivant. Les derniers mots en sont : *et c'est l'harmonie préétablie*.
 
-Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement — c'est le seul endroit où le fil pouvait aboutir. Fermée, la page tient en un titre. Chaque terme s'ouvre sur ce qu'il contient ; ce qu'il contient s'ouvre encore. **Rien ne disparaît quand vous ouvrez** : les voies que vous n'avez pas prises restent là, repliées, à côté de celle que vous avez prise.
+Cette page déplie ce dernier livre. Ce n'est pas un reniement : c'est l'aboutissement d'un chemin dont la page Comment je suis arrivé à cette conclusion montre le tournant, en 1886. Fermée, la page tient en un titre. Chaque terme s'ouvre sur ce qu'il contient ; ce qu'il contient s'ouvre encore. **Rien ne disparaît quand vous ouvrez** : les voies que vous n'avez pas prises restent là, repliées, à côté de celle que vous avez prise.
 
 <div class="dp" id="dp">
 <style>
@@ -303,7 +303,7 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 </div>
 <div class="dp-note">
 <span class="dp-etiquette">Trois parties, et la troisième surprend</span>
-<p>Le Personnalisme proprement dit tient en trois parties : la <strong>métaphysique</strong>, la <strong>sociologie</strong>, l'<strong>eschatologie</strong>. Une doctrine de la connaissance, une doctrine de la société, une doctrine des fins dernières. Le même homme, dans le même livre, fonde la logique et se demande ce que deviennent les personnes après la fin du monde.</p>
+<p>Le Personnalisme proprement dit tient en trois parties : la <strong>métaphysique</strong>, la <strong>sociologie</strong>, l'<strong>eschatologie</strong>. Une doctrine de la connaissance, une doctrine de la société, une doctrine des fins dernières. Le même homme, dans le même livre, fonde la connaissance sur la personne et se demande ce que deviennent les personnes après la fin du monde.</p>
 </div>
 </div>
 </details>
@@ -323,8 +323,8 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 </div>
 <div class="dp-note">
 <span class="dp-etiquette">Mais laquelle des deux porte l'autre ? Renouvier tranche</span>
-<p>On serait tenté de dire les deux moitiés indissociables. Ce serait aller plus loin que le texte. La préface dit que l'Étude « a pour objet l'éclaircissement de ce problème <strong>en rapport avec la doctrine personnaliste</strong> » : la doctrine est là <em>avant</em>, l'Étude l'éclaire. Et la même préface date le personnalisme de 1854 — donc bien avant toute théorie de la force.</p>
-<p>Le rapport juste n'est pas la dépendance, c'est la <strong>convergence par l'autre bout</strong>. Le personnalisme est établi par la logique, puis par la morale. L'Étude part de l'extrémité opposée — les corps, la thermodynamique, l'éther — et retombe sur des personnes. Ce n'est pas un fondement : c'est une vérification indépendante, et c'est plus fort qu'une indissociabilité. Deux routes qui ne se ressemblent pas, un seul point d'arrivée.</p>
+<p>On serait tenté de dire les deux moitiés indissociables. Ce serait aller plus loin que le texte. La préface dit que l'Étude « a pour objet l'éclaircissement de ce problème <strong>en rapport avec la doctrine personnaliste</strong> » : la doctrine est là <em>avant</em>, l'Étude l'éclaire. Et la même préface date le personnalisme de 1854 — donc bien avant la théorie de la force que développe l'Étude.</p>
+<p>Le rapport juste n'est pas la dépendance, c'est la <strong>convergence par l'autre bout</strong>. Le personnalisme est établi par la logique, puis par la morale. L'Étude part de l'extrémité opposée — les corps, la thermodynamique, l'éther — et retombe sur des personnes. Ce n'est pas un fondement : c'est une confirmation par l'autre bout. Deux routes qui ne se ressemblent pas, un seul point d'arrivée.</p>
 </div>
 </div>
 </details>
@@ -337,7 +337,7 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 <li><strong>La perception externe</strong> — comment se peut-il que les changements d'un objet, « qui sont autre chose que ces sensations », soient <em>suivis</em> de sensations en moi ? <em>(le corps vers moi)</em></li>
 <li><strong>La force</strong> — comment se fait-il que « des désirs et des actes de volonté, phénomènes internes d'une conscience, soient régulièrement suivis de certains changements de l'objet externe » ? <em>(moi vers le corps)</em></li>
 </ul>
-<p>Renouvier pose la seconde question dans la préface et la laisse tomber sans ménagement :</p>
+<p>Renouvier pose la seconde question dans la préface, sans détour :</p>
 <div class="dp-cite">
 <p>Qu'est-ce que ce mécanisme ? La question de la <em>force</em>, ou de la <em>nature de la force</em>, se pose à cet endroit.</p>
 <span class="dp-source">Le Personnalisme, préface</span>
@@ -347,13 +347,13 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 </details>
 
 <p class="dp-epigraphe">— le livre en une phrase —</p>
-<p class="dp-these">Entre ma volonté et mon bras qui se lève, rien ne passe. Entre le caillou et ma sensation du caillou, rien ne passe non plus. Cinquante chapitres pour établir ce vide — et, pour finir, une seule doctrine qui puisse s'en accommoder : le monde physique est fait de personnes.</p>
+<p class="dp-these">Entre ma volonté et mon bras qui se lève, rien ne passe. Entre le caillou et ma sensation du caillou, rien ne passe non plus. Cinquante chapitres pour établir ce vide — et, pour finir, une seule doctrine qui puisse s'en accommoder : le monde physique est fait d'êtres conscients, à tous les degrés — de monades.</p>
 
 <details class="dp-pli" data-rang="palier">
 <summary class="dp-titre"><span class="dp-rang">↓ déplier</span><span class="dp-texte">Le livre en un paragraphe</span></summary>
 <div class="dp-corps">
-<p>Renouvier pose <strong>deux questions qui n'en font qu'une</strong> : comment un corps produit-il ma sensation, et comment ma volonté produit-elle un mouvement ? Il consacre dix-huit chapitres à examiner toutes les réponses données depuis Descartes — Locke, Condillac, Maine de Biran, Berkeley, Reid, Hamilton, Bain, Mill, Taine, Kant, James — puis vingt-cinq de plus à examiner toutes les physiques : l'inertie, la masse, l'énergie, la thermodynamique, l'éther, la gravitation. Le résultat est partout le même : <strong>rien ne passe</strong>. Aucun intermédiaire n'est perçu, aucune transmission n'est intelligible. Alors il retourne le problème. Le seul endroit au monde où nous connaissions une force par le dedans, c'est le vouloir : <strong>la force est la volonté</strong>, et le mot que la physique emploie lui est « secrètement emprunté ». Donc les forces de la nature sont des volontés ; donc les éléments du monde physique sont des agents mentaux — « on peut les appeler des <strong>monades</strong> ». Mais des monades ne peuvent pas se toucher, puisque rien ne passe : il faut donc que leurs états s'accordent sans agir les uns sur les autres, et <strong>c'est l'harmonie préétablie</strong>. Celle de Leibniz, à deux corrections près, qui sont les deux thèses de toute une vie : pas d'<strong>infini</strong>, et une <strong>variable indépendante</strong> dans les équations du monde.</p>
-<p class="dp-chapo">Chacun des sept termes en gras s'ouvre ci-dessous. Vous pouvez vous arrêter ici : ce paragraphe est vrai. Vous pouvez aussi tirer sur un fil.</p>
+<p>Renouvier pose <strong>deux questions qui n'en font qu'une</strong> : comment un corps produit-il ma sensation, et comment ma volonté produit-elle un mouvement ? Il consacre dix-huit chapitres à examiner toutes les réponses données depuis Descartes — Locke, Condillac, Maine de Biran, Berkeley, Reid, Hamilton, Bain, Mill, Taine, Kant, James — puis vingt-cinq de plus à examiner toutes les physiques : l'inertie, la masse, l'énergie, la thermodynamique, l'éther, la gravitation. Le résultat est partout le même : <strong>rien ne passe</strong>. Aucun intermédiaire n'est perçu, aucune transmission n'est intelligible. Alors il retourne le problème. Le seul endroit au monde où nous connaissions une force par le dedans, c'est le vouloir : <strong>la force est la volonté</strong>, et le mot que la physique emploie lui doit une signification « secrètement empruntée ». Donc les forces de la nature sont des volontés ; donc les éléments du monde physique sont des agents mentaux — « on peut les appeler des <strong>monades</strong> ». Mais des monades ne peuvent pas se toucher, puisque rien ne passe : il faut donc que leurs états s'accordent sans agir les uns sur les autres, et <strong>c'est l'harmonie préétablie</strong>. Celle de Leibniz, à deux corrections près, qui sont les deux thèses de toute une vie : pas d'<strong>infini</strong>, et une <strong>variable indépendante</strong> dans les équations du monde.</p>
+<p class="dp-chapo">Chacun des sept termes en gras s'ouvre ci-dessous. Vous pouvez vous arrêter ici : ce paragraphe dit l'essentiel. Vous pouvez aussi tirer sur un fil.</p>
 
 <details class="dp-pli" data-rang="la figure">
 <summary class="dp-titre"><span class="dp-rang">le pont</span><span class="dp-texte">deux questions qui n'en font qu'une</span></summary>
@@ -382,7 +382,7 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 </div>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Ce que le trou n'est pas</span>
-<p>Ce n'est pas une ignorance provisoire que la science comblera. Renouvier ne dit pas : <em>on ne sait pas encore comment le vouloir meut le bras</em>. Il dit qu'aucune hypothèse ne peut être formée, parce qu'il n'y a rien à passer d'un côté à l'autre — et que les cinquante chapitres de l'Étude sont l'inventaire méthodique des tentatives ratées pour combler ce trou. L'impuissance n'est pas dans notre savoir : elle est dans la question.</p>
+<p>Ce n'est pas une ignorance provisoire que la science comblera. Renouvier ne dit pas : <em>on ne sait pas encore comment le vouloir meut le bras</em>. Il dit qu'aucun intermédiaire n'est perçu, et qu'aucune hypothèse rationnelle ne s'offre pour faire comprendre cette liaison ; une bonne part de l'Étude passe en revue les tentatives faites pour la comprendre. L'impuissance n'est pas un retard de notre savoir : elle tient à la nature de la question.</p>
 </div>
 </div>
 </details>
@@ -390,7 +390,7 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 <details class="dp-pli" data-rang="le résultat">
 <summary class="dp-titre"><span class="dp-rang">l'inventaire</span><span class="dp-texte">rien ne passe</span></summary>
 <div class="dp-corps">
-<p>Dix-huit chapitres, dix-huit théories de la perception externe, dix-huit échecs. Renouvier les prend une par une, dans l'ordre historique, et il n'en sort aucune debout : le XVII<sup>e</sup> siècle, Locke, Condillac, Destutt de Tracy, Maine de Biran, Berkeley, Reid, Brown, Hamilton, Spencer, Bain, Stuart Mill, Taine, Kant, les Allemands — Herbart, Lotze, Wundt, Helmholtz — et pour finir William James.</p>
+<p>Dix-huit chapitres, autant d'examens de la perception externe. Renouvier prend les théories une par une, par écoles plutôt que dans l'ordre chronologique, et presque aucune n'en sort debout : le XVII<sup>e</sup> siècle, Locke, Condillac, Destutt de Tracy, Maine de Biran, Berkeley, Reid, Brown, Hamilton, Spencer, Bain, Stuart Mill, Taine, Kant, les Allemands — Herbart, Lotze, Wundt, Helmholtz — et pour finir William James.</p>
 <p>La conclusion tombe au chapitre L, et elle est plus radicale qu'on ne l'attend :</p>
 <div class="dp-cite">
 <p>Une telle perception n'existe pas, mais seulement des idées que la présence de ces corps fait naître en nous, et qui sont des signes de cette présence et de leur extériorité, dont nous ne doutons pas.</p>
@@ -424,18 +424,18 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 <span class="dp-source">Étude, ch. XX — L'idée de force au point de vue scientifique</span>
 </div>
 <div class="dp-note dp-note--cle">
-<span class="dp-etiquette">« Secrètement emprunté »</span>
-<p>C'est l'expression décisive, et il faut mesurer ce qu'elle fait. La physique se croit débarrassée de l'anthropomorphisme ; elle l'a mis dans son vocabulaire de base. Chaque fois qu'un mécanicien écrit <em>F</em>, il parle en douce le langage du vouloir — car il n'y en a pas d'autre pour dire ce que ce signe désigne.</p>
+<span class="dp-etiquette">« Secrètement empruntée »</span>
+<p>C'est l'expression décisive, et il faut mesurer ce qu'elle fait. La physique se croit débarrassée de l'anthropomorphisme ; elle l'a mis dans son vocabulaire de base. Tant que le mécanicien entend par <em>F</em> autre chose qu'un terme de sa loi, il parle à son insu le langage du vouloir.</p>
 <p>Deux issues, alors. Ou bien on avoue l'emprunt et l'on retire le mot : reste une pure succession constante, une loi sans force, et c'est ce que les physiciens ont fini par faire, « réduire [la force] à sa valeur nominale ». Ou bien on prend l'emprunt au sérieux, et l'on demande si les agents ne <em>seraient</em> pas volontaires. Renouvier choisit la seconde.</p>
 </div>
-<p>Il n'est pas seul à ce carrefour. Le chapitre XX s'ouvre sur William James, qui vient de « répudier l'hypothèse de l'entité-force, cause transitive, et fixer l'idée de force dans l'effort mental ». Le vieux Français de quatre-vingt-huit ans et l'Américain de soixante-et-un se rencontrent là, à la même date, sur la même intuition.</p>
+<p>Il n'est pas seul à ce carrefour. Le chapitre XX s'ouvre sur William James, dont on a vu la théorie « répudier l'hypothèse de l'entité-force, cause transitive, et fixer l'idée de force dans l'effort mental ». Le Français et l'Américain, de vingt-sept ans son cadet, se rencontrent sur la même intuition.</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="la conséquence">
 <summary class="dp-titre"><span class="dp-rang">le mot</span><span class="dp-texte">monades</span></summary>
 <div class="dp-corps">
-<p>Si la force est volonté, et si les corps sont faits de forces, alors les corps sont faits de volontés. Renouvier lâche le mot au dernier chapitre, entre deux tirets, comme on pose une évidence dont on sait qu'elle va coûter cher :</p>
+<p>Si la force est volonté, et si les corps sont faits de forces, alors les corps sont faits de volontés. Renouvier, qui a déjà mis le mot dans les titres des chapitres XLV à XLVII (et, dans la première partie du volume, au chapitre XI), le reprend au dernier chapitre, entre deux tirets :</p>
 <div class="dp-cite">
 <p>Il faut donc, après avoir défini les forces de la nature par des agents mentaux, — on peut les appeler des <em>monades</em>, — définir l'efficacité externe de leurs actions, phénomènes internes, par un ordre général de la nature […].</p>
 <span class="dp-source">Étude, ch. L</span>
@@ -465,7 +465,7 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 </div>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Mesurez la chute</span>
-<p>Un homme a écrit six mille pages contre la métaphysique. Il a démoli la chose en soi, la substance, l'absolu, l'infini, l'atome, l'entité-force ; il a traité de fétichisme toute philosophie qui prend un mot pour une chose ; il a corrigé Kant, réfuté Hegel, mis Comte au-dessous de Ptolémée. Il meurt en 1903. Le dernier mot qu'il ait fait imprimer est <em>harmonie préétablie</em>.</p>
+<p>Un homme a écrit des milliers de pages contre la métaphysique. Il a démoli la chose en soi, la substance, l'absolu, l'infini, l'entité-force ; il a traité de fétichisme toute philosophie qui prend un mot pour une chose ; il a corrigé Kant, réfuté Hegel, mis Comte au-dessous de Ptolémée. Il meurt en 1903. Le dernier mot qu'il ait fait imprimer est <em>harmonie préétablie</em>.</p>
 <p>Ce n'est pas une conversion tardive. C'est ce qui reste sur la table quand on a tout enlevé. Renouvier n'a pas rejoint Leibniz : il est arrivé, en démolissant, au seul endroit où Leibniz avait campé.</p>
 </div>
 </div>
@@ -478,49 +478,49 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 <p>Renouvier prend les monades, mais il n'accepte pas le paquet. Le chapitre XLVI s'appelle <em>De la correction à apporter à la monadologie leibnitienne</em>, et il isole exactement deux pièces à retirer :</p>
 <div class="dp-cite">
 <p>Deux points de doctrine des plus considérables, qui peuvent sembler inhérents à la monadologie, parce qu'ils le sont au leibnitianisme, sont cependant tout à fait indépendants de la théorie […] des monades, et doivent en être séparés. L'une concerne la notion de l'activité, l'autre la notion de l'infini.</p>
-<span class="dp-source">Étude, ch. XLVI — « [des] » : le fichier porte « les », coquille de numérisation</span>
+<span class="dp-source">Étude, ch. XLVI, p. 497</span>
 </div>
-<p>La première correction porte sur la liberté, et Renouvier en donne la formule la plus nette de toute son œuvre — une formule d'algébriste :</p>
+<p>La première correction porte sur la liberté. Renouvier procède par contraste, et en algébriste : il énonce « en termes mathématiques rigoureux » ce que Leibniz exige, et qu'il refuse :</p>
 <div class="dp-cite">
 <p>Leibniz ne formule pas l'harmonie comme loi de causalité, simplement en ce sens que les actes et les états des êtres soient fonctions les uns [des] autres dans le cours des phénomènes. Il demande qu'il ne puisse entrer <em>aucune variable indépendante</em> dans les équations qui règlent les déterminations mutuelles.</p>
-<span class="dp-source">Étude, ch. XLVI</span>
+<span class="dp-source">Étude, ch. XLVI, p. 497 — « [des] » : la transcription porte « les », coquille de numérisation</span>
 </div>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">La liberté, définie en langage d'équation</span>
-<p>Voilà ce qu'est la liberté chez Renouvier, dépouillée de toute éloquence : <strong>une variable indépendante dans les équations du monde.</strong> Chez Leibniz, il n'y en a aucune — la monade est un « automate incorporel », son développement est spontané mais entièrement prédéterminé par Dieu, et « rien ne peut entrer dans aucune ou sortir d'aucune ». L'accord est parfait parce que tout a été calculé d'avance.</p>
+<p>Voilà ce qu'est la liberté chez Renouvier, dépouillée de toute éloquence : <strong>une variable indépendante dans les équations du monde.</strong> Chez Leibniz, il n'y en a aucune — la monade est un « automate incorporel », son développement est spontané mais entièrement prédéterminé par Dieu, et les monades « n'ont point de fenêtres, par lesquelles quelque chose y puisse entrer ou sortir » (Leibniz, Monadologie, § 7). L'accord est parfait parce que tout a été calculé d'avance.</p>
 <p>Renouvier garde l'accord et y introduit une variable libre. Le monde reste harmonique ; il cesse d'être écrit.</p>
 </div>
 <div class="dp-note">
 <span class="dp-etiquette">Et la formule l'attendait depuis trente-neuf ans</span>
-<p>On croirait la trouvaille d'un vieillard qui règle enfin son compte à Leibniz. Elle est de <strong>1864</strong>, dans le <em>Formulaire</em> qui résume le Deuxième Essai, et Renouvier ne l'a pas retouchée en trois éditions :</p>
+<p>On croirait la trouvaille tardive d'un homme qui en finit avec Leibniz. Elle est de <strong>1864</strong>, dans le <em>Formulaire</em> qui résume le Deuxième Essai, et Renouvier ne l'a pas retouchée en trois éditions :</p>
 <div class="dp-cite">
 <p>En tant que la <em>Volonté</em> intervient dans les autres fonctions de la conscience (et que l'apparence est fidèle), ces fonctions ont des <em>variables indépendantes</em> réelles, et elles-mêmes ne <em>sont</em> pas simplement, mais <em>se font</em>.</p>
-<span class="dp-source">Formulaire du Traité de Psychologie rationnelle, 1864 — inchangé en 1875 et 1892</span>
+<span class="dp-source">Formulaire du Traité de Psychologie rationnelle, 1864 ; même texte en 1875 (Deuxième Essai, t. III, p. 292) et en 1892 (Troisième Essai, t. I, p. XXVI)</span>
 </div>
-<p>Il n'a donc pas cherché sa réponse à Leibniz : il l'avait sous la main depuis quarante ans, et il la sort au moment exact où elle sert. « Elles ne <em>sont</em> pas simplement, mais <em>se font</em> » — la phrase de 1864 dit déjà tout ce que 1903 opposera à l'automate incorporel.</p>
+<p>Il n'a donc pas cherché sa réponse à Leibniz : il l'avait sous la main depuis trente-neuf ans, et il la sort au moment exact où elle sert. « Elles ne <em>sont</em> pas simplement, mais <em>se font</em> » — la phrase de 1864 dit déjà tout ce que 1903 opposera à l'automate incorporel.</p>
 </div>
-<p>Et Renouvier remarque, ce qui est le trait de génie du chapitre, que les deux défauts n'en font qu'un : l'infinitisme de Leibniz est « bien lié d'ailleurs au plan de prédéterminisme absolu de l'harmonie préétablie, telle qu'il l'a définie ». L'infini et la nécessité tiennent ensemble. Retirez l'un, l'autre tombe.</p>
+<p>Et Renouvier remarque que les deux défauts se tiennent : l'infinitisme de Leibniz est « bien lié d'ailleurs au plan de prédéterminisme absolu de l'harmonie préétablie, telle qu'il l'a définie ». L'infini et la nécessité vont ensemble chez Leibniz ; Renouvier rejette l'un et l'autre.</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="cinquante ans après">
 <summary class="dp-titre"><span class="dp-rang">le fil</span><span class="dp-texte">infini</span></summary>
 <div class="dp-corps">
-<p>Ouvrez le Premier Essai, 1854 : « l'infini et le nombre sont contradictoires entre eux ». Ouvrez le chapitre L du dernier livre, 1903 :</p>
+<p>Ouvrez le Formulaire du Premier Essai (rédigé en 1859, cité dans l'état de 1875) : « l'infini et le nombre sont contradictoires entre eux ». Ouvrez le chapitre L du dernier livre, 1903 :</p>
 <div class="dp-cite">
 <p>Parmi les hypothèses qui ont le plus grand cours dans les doctrines philosophiques et dans les sciences physiques, celle qui définit les corps comme composés de parties infinies réelles d'une matière indéfiniment divisible — ou encore d'éléments eux-mêmes non corporels, mais en nombre infini — sont réfutables par le principe du tout et du nombre. Le tout actuel de parties sans fin est un concept contradictoire en soi.</p>
 <span class="dp-source">Étude, ch. L</span>
 </div>
-<p><strong>Quarante-neuf ans, et pas une virgule de changée.</strong> C'est le même argument, servant au même office : interdire qu'une chose réelle soit composée d'une infinité de parties. En 1854 il abolissait la chose en soi ; en 1903 il abolit la matière continue — et il abolit aussi, du même coup, l'infinité des monades de Leibniz.</p>
+<p><strong>Quarante-neuf ans, et le même argument</strong>, sous deux formules différentes, servant au même office : interdire qu'une chose réelle soit composée d'une infinité de parties. En 1854 il abolissait la chose en soi ; en 1903 il abolit la matière continue — et il abolit aussi, du même coup, l'infinité des monades de Leibniz.</p>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Il n'a pourtant pas cessé d'y travailler</span>
 <p>Une note du livre montre un homme de quatre-vingt-huit ans en train d'affiner l'outil de sa jeunesse. Il y concède que pour la <em>quantité géométrique</em> — le continu de l'espace et du temps — l'infini actuel ne se réfute pas directement par contradiction : le continu se divise « à l'infini », ce qui est justement, note-t-il, « le contraire d'être <em>en nombre infini</em> ». La démonstration directe ne vaut que « pour les choses, pour les phénomènes positifs et distincts ».</p>
-<p>Un demi-siècle de polémique aura donc servi à cela : distinguer <em>aller à l'infini</em> (permis) et <em>être en nombre infini</em> (contradictoire). C'est une correction, et elle est de sa main.</p>
+<p>La distinction entre <em>aller à l'infini</em> (l'indéfini, permis) et <em>être en nombre infini</em> (contradictoire) est aussi vieille que le Premier Essai. Ce qui est neuf, c'est l'aveu que, pour le continu géométrique, la démonstration directe ne vaut pas. C'est une précision, et elle est de sa main.</p>
 </div>
 <div class="dp-note">
 <span class="dp-etiquette">Et il répond à ses adversaires vivants</span>
 <p>Une autre note prend Leibniz sur le fait, en latin — <em>l'infini, à proprement parler, composé de parties, n'est ni un, ni un tout</em> —, et Renouvier ajoute : « C'est la même que nous retrouvons, pour le fond, chez les partisans actuels de cet infini. Elle lève, d'après eux, la contradiction impliquée par l'infini actuel ». Sa riposte tient en une ligne : « les notions de tout et de partie étant incontestablement corrélatives », un infini composé de parties qui ne serait pas un tout n'est pas une réponse, c'est un refus de la question.</p>
-<p>Il ne nomme personne. Il n'en avait pas besoin : en 1903, tout le monde savait de qui il parlait — et ce site héberge les deux camps, Évellin pour le fini, Couturat pour l'infini.</p>
+<p>Il ne nomme personne ; ses lecteurs pouvaient mettre des noms — et ce site héberge les deux camps, Évellin pour le fini, Couturat pour l'infini.</p>
 </div>
 </div>
 </details>
@@ -541,7 +541,7 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 </ul>
 <div class="dp-note">
 <span class="dp-etiquette">L'ordre est le même que celui des Essais</span>
-<p>Métaphysique, sociologie, eschatologie : la connaissance, la société, les fins. C'est, en trois parties et cinquante ans plus tard, le trajet des quatre <em>Essais de critique générale</em> — la logique, l'homme, la nature, l'histoire. Renouvier a passé sa vie à refaire le même parcours, chaque fois plus vite et plus bas.</p>
+<p>Métaphysique, sociologie, eschatologie : la connaissance, la société, les fins. On y reconnaît, en raccourci, le trajet des <em>Essais de critique générale</em>, de la connaissance à l'histoire.</p>
 </div>
 </div>
 </details>
@@ -549,15 +549,15 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 <details class="dp-pli" data-rang="essai">
 <summary class="dp-titre"><span class="dp-rang">1903 · seconde moitié</span><span class="dp-texte">Étude sur la perception externe et sur la force</span></summary>
 <div class="dp-corps">
-<p class="dp-chapo">Cinquante chapitres. De l'objet vers le sujet : le même trajet, à l'envers. Sept mouvements, et le dernier chapitre replie tout.</p>
+<p class="dp-chapo">Cinquante chapitres. De l'objet vers le sujet : le même trajet, à l'envers. Quatre mouvements, et le dernier chapitre replie tout.</p>
 
 <details class="dp-pli" data-rang="I-XVIII">
 <summary class="dp-titre"><span class="dp-rang">le procès</span><span class="dp-texte">Deux siècles de théories de la perception, une par une</span></summary>
 <div class="dp-corps">
-<p>C'est la plus grande histoire critique de la perception externe écrite en français, et elle est enterrée dans l'appendice d'un livre que personne ne lit. Renouvier avait quatre-vingt-huit ans.</p>
+<p>C'est l'une des plus amples histoires critiques de la perception externe écrites en français, restée dans l'ombre d'un titre qui la présente comme une suite. Renouvier avait quatre-vingt-huit ans.</p>
 <ul class="dp-liste">
 <li><strong>I</strong> — La perception externe dans les doctrines du XVII<sup>e</sup> siècle.</li>
-<li><strong>II-V</strong> — Locke et Condillac ; Destutt de Tracy ; <em>La volonté locomotrice de Maine de Biran</em>.</li>
+<li><strong>II-V</strong> — Locke et Condillac ; Destutt de Tracy ; Maine de Biran : la perception externe, puis <em>la volonté locomotrice</em>.</li>
 <li><strong>VI-IX</strong> — Berkeley ; Reid ; Brown ; Reid, Brown et Hamilton.</li>
 <li><strong>X-XIII</strong> — Hamilton et Herbert Spencer ; Alexandre Bain ; Stuart Mill ; H. Taine.</li>
 <li><strong>XIV-XV</strong> — L'idéalisme kantien ; les théories génésiques en Allemagne : Herbart, Lotze, Wundt, Helmholtz.</li>
@@ -567,7 +567,7 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">La forme du procès</span>
 <p>Ce n'est pas une revue de littérature, c'est un réquisitoire, et il est monté comme tel. Chaque doctrine est prise à l'endroit où elle croit avoir comblé le trou, et c'est toujours là qu'elle casse. Il faut dix-huit chapitres non parce que les réponses sont nombreuses, mais parce qu'il faut les avoir <em>toutes</em> épuisées pour avoir le droit de dire, au chapitre L, qu'il n'y en a aucune.</p>
-<p>Et l'ordre n'est pas neutre : le dernier examiné est James, le seul vivant, le seul qui ait mis la force dans l'effort mental. Le procès s'achève sur le seul allié.</p>
+<p>Et l'ordre n'est pas neutre : le dernier examiné est James, qui met la force dans l'effort mental — comme l'avait fait, avant lui, Maine de Biran. Le procès s'achève sur un allié.</p>
 </div>
 </div>
 </details>
@@ -586,7 +586,7 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 </ul>
 <div class="dp-note">
 <span class="dp-etiquette">Une digression qui n'en est pas une</span>
-<p>Le chapitre XIX s'intitule <em>Digression sur la liberté du vouloir</em>, et il tombe pile à la charnière : juste après le dernier chapitre sur la perception, juste avant le premier sur la force. Ce n'est pas une digression, c'est le pivot. Il fallait avoir établi que la volonté est libre avant de pouvoir dire que la force est la volonté — sans quoi les monades seraient les automates de Leibniz.</p>
+<p>Le chapitre XIX s'intitule <em>Digression sur la liberté du vouloir</em>, et il tombe pile à la charnière : juste après le dernier chapitre sur la perception, juste avant le premier sur la force. Ce n'est pas une digression, c'est le pivot. Il fallait avoir posé la liberté du vouloir avant de pouvoir dire que la force est la volonté — sans quoi les monades seraient les automates de Leibniz.</p>
 </div>
 </div>
 </details>
@@ -594,8 +594,9 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 <details class="dp-pli" data-rang="XXVI-XLIV">
 <summary class="dp-titre"><span class="dp-rang">les physiques</span><span class="dp-texte">Hirn, l'éther, l'énergie, Descartes, Kant, Boscovich, la gravitation</span></summary>
 <div class="dp-corps">
-<p>Dix-neuf chapitres, et c'est un cours de physique théorique de 1903 — vu par un philosophe de quatre-vingt-huit ans qui vérifie, un par un, si les mots des savants veulent dire quelque chose.</p>
+<p>Dix-neuf chapitres, et c'est une revue critique de la physique, de Descartes et Boscovich à la thermodynamique — vu par un philosophe de quatre-vingt-huit ans qui vérifie, un par un, si les mots des savants veulent dire quelque chose.</p>
 <ul class="dp-liste">
+<li><strong>XXVI</strong> — chapitre dont la numérisation n'a pas conservé le titre.</li>
 <li><strong>XXVII-XXXI</strong> — Le système de l'entité force de A. Hirn ; le système du potentiel de R. Pictet ; la théorie physique de l'éther ; <em>doutes sur l'existence d'un milieu matériel interplanétaire</em> ; la force comme travail et comme chaleur.</li>
 <li><strong>XXXII-XXXIV</strong> — Question des forces vives, théorie de l'énergie ; <em>accord des actions libres avec la constance de l'énergie</em> ; les origines de la thermodynamique.</li>
 <li><strong>XXXV-XXXVI</strong> — La cosmogonie et la physique de Descartes, les tourbillons ; la matière et les forces dans la cosmogonie de Kant.</li>
@@ -604,7 +605,7 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 </ul>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Le chapitre XXXIII, qui est le plus courageux</span>
-<p><em>Accord des actions libres avec la constance de l'énergie.</em> C'est l'objection qu'on lui oppose depuis toujours, et il l'affronte de face : si l'énergie se conserve, une volonté libre qui ferait quoi que ce soit dans le monde physique en créerait ou en détruirait. Toute la physique du XIX<sup>e</sup> siècle est contre lui, et il le sait, et il n'esquive pas.</p>
+<p><em>Accord des actions libres avec la constance de l'énergie.</em> C'est l'objection classique, et il l'affronte de face : si l'énergie se conserve, une volonté libre qui ferait quoi que ce soit dans le monde physique semble devoir en créer ou en détruire. Sa réponse est double. La loi n'est démontrée que pour un système fermé, « sans qu'aucune force nouvelle s'introduise du dehors » : l'invoquer contre le libre arbitre est un cercle, qu'il reproche aux philosophes déterministes, non aux physiciens. Et la volonté n'a pas à créer d'énergie : elle peut n'être que la « cause occasionnelle » d'un passage du potentiel au cinétique — un déclic, une « rupture d'équilibre » — qui laisse la somme intacte.</p>
 </div>
 <div class="dp-note">
 <span class="dp-etiquette">Pourquoi Boscovich occupe trois chapitres</span>
@@ -625,25 +626,25 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 </ul>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Le titre du chapitre XLVII est un défi</span>
-<p><em>La doctrine des monades et les idées générales de la physique moderne.</em> Une métaphysique de 1714 mise en face de la thermodynamique, de la théorie cinétique des gaz et du principe de relativité. Renouvier ne demande pas qu'on l'excuse : il soutient que la monadologie, corrigée, est la seule doctrine où les notions premières de la physique cessent d'être des mots.</p>
+<p><em>La doctrine des monades et les idées générales de la physique moderne.</em> Une métaphysique de 1714 mise en face de la thermodynamique et de la théorie cinétique des gaz. Renouvier ne demande pas qu'on l'excuse : il soutient que la monadologie, corrigée, est la seule doctrine où les notions premières de la physique cessent d'être des mots.</p>
 </div>
 </div>
 <div class="dp-note">
 <span class="dp-etiquette">Le chaînon de 1899 — désigné par l'auteur lui-même</span>
-<p>Entre l'<em>Esquisse</em> (1886) et ce livre-ci (1903), il y a un ouvrage entier, et c'est la préface du <em>Personnalisme</em> qui le nomme :</p>
+<p>Entre l'<em>Esquisse</em> (1886) et ce livre-ci (1903), la préface du <em>Personnalisme</em> nomme elle-même deux étapes, dont un livre entier :</p>
 <div class="dp-cite">
 <p>La théorie cosmogonique et eschatologique du personnalisme, abordée dans les <em>Essais de critique générale</em>, <em>Troisième Essai</em> (2<sup>e</sup> édit.) et exposée dans la <em>Nouvelle monadologie</em> est reprise à fond dans l'ouvrage que nous publions aujourd'hui.</p>
 <span class="dp-source">Le Personnalisme, préface</span>
 </div>
-<p>« Exposée » en 1899, « reprise à fond » en 1903 : la généalogie est signée. Ce dossier s'en tient aux deux bornes que la préface relie ; le chaînon, lui, est <a href="/oeuvres/autres/nouvelle-monadologie/">transcrit sur ce site</a> et attend sa page.</p>
+<p>« Exposée » en 1899, « reprise à fond » en 1903 : la généalogie est signée. Ce dossier s'en tient au dernier des trois ouvrages que la préface relie.</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="le pli de Renouvier">
 <summary class="dp-titre"><span class="dp-rang">ch. L</span><span class="dp-texte">Résumé des thèses principales. Conclusion</span></summary>
 <div class="dp-corps">
-<p>Il l'a encore fait. Comme à la fin du Premier Essai, comme à la fin du Deuxième, le dernier chapitre replie le livre entier en propositions nues — sans preuves, sans exemples, sans polémique. Il ne l'appelle plus <em>Formulaire</em> ; c'en est un.</p>
-<p>Vingt-cinq paragraphes, et voici les articulations dans l'ordre :</p>
+<p>Il l'a encore fait. Comme à la fin du Premier Essai, comme à la fin du Deuxième, le dernier chapitre replie l'Étude entière en propositions nues — sans preuves, sans exemples, sans polémique. Il ne l'appelle plus <em>Formulaire</em> ; c'en est un.</p>
+<p>Quatre pages (p. 531-534), douze paragraphes, et voici les articulations dans l'ordre :</p>
 <ul class="dp-liste">
 <li>La volonté ne peut être ni définie ni expliquée ; elle peut seulement être <em>évoquée</em> chez ceux qui l'ont comme nous.</li>
 <li>Entre elle et le mouvement, aucun intermédiaire n'est perçu.</li>
@@ -659,10 +660,10 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 </ul>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Trois formulaires, trois époques, un seul geste</span>
-<p>1875 : <em>Formulaire du Traité de logique générale</em>, à la fin du Premier Essai. 1875 : <em>Formulaire du Traité de Psychologie rationnelle</em>, à la fin du Deuxième, et repris en tête du Troisième en 1892. 1903 : <em>Résumé des thèses principales</em>, à la fin du dernier livre.</p>
-<p>Renouvier a plié chacun de ses livres et rangé le pli à la sortie. Il l'a fait trois fois en trente ans, sans jamais le dire, et personne ne le lui a demandé. C'est un homme qui, à chaque fois qu'il achevait un ouvrage, en fabriquait le dépliant.</p>
+<p>1859 : <em>Formulaire du Traité de logique générale</em>, publié avec le Deuxième Essai, puis placé à la fin du Premier en 1875. 1864 : <em>Formulaire du Traité de Psychologie rationnelle</em>, en tête du Troisième, puis à la fin du Deuxième en 1875, et de nouveau en tête du Troisième en 1892. 1903 : <em>Résumé des thèses principales</em>, à la fin du dernier livre.</p>
+<p>Renouvier a plié trois de ses livres et rangé le pli à la sortie, de 1859 à 1903 — et il en a parlé : la Note finale du Deuxième Essai raconte le déplacement du premier Formulaire. C'est un homme qui, au terme de ses grands ouvrages, en fabriquait volontiers le dépliant.</p>
 </div>
-<p class="dp-chapo">Si vous ne deviez lire qu'une page de ce livre de six cents, ce serait celle-là. Elle commence à la page 531.</p>
+<p class="dp-chapo">Si vous ne deviez lire qu'un chapitre de ce livre de plus de cinq cents pages, ce serait celui-là. Il commence à la page 531.</p>
 </div>
 </details>
 </div>
@@ -673,12 +674,12 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 <details class="dp-pli" data-rang="palier">
 <summary class="dp-titre"><span class="dp-rang">1854 → 1903</span><span class="dp-texte">Ce que ce livre doit aux Essais, et ce qu'il leur fait</span></summary>
 <div class="dp-corps">
-<p>Cette page a une sœur, qui déplie les <em>Essais de critique générale</em>. On peut lire l'une sans l'autre, mais on perdrait la seule chose qui compte : ce livre-ci est l'aboutissement d'une déduction commencée un demi-siècle plus tôt, et il ne s'en cache pas une seconde.</p>
+<p>Cette page a une sœur, qui déplie les <em>Essais de critique générale</em>. On peut lire l'une sans l'autre, mais on perdrait la seule chose qui compte : ce livre-ci est l'aboutissement d'une déduction commencée un demi-siècle plus tôt, et il le revendique dès sa préface.</p>
 <div class="dp-cadre">
 <table class="dp-miroir dp-double">
 <thead><tr><th>Ce qui est posé</th><th class="dp-tete-non">Dans les Essais</th><th class="dp-tete-oui">Dans le dernier livre</th></tr></thead>
 <tbody>
-<tr><td>Le pivot</td><td class="dp-non">1854 — « l'infini et le nombre sont contradictoires entre eux »</td><td class="dp-oui">1903 — « le tout actuel de parties sans fin est un concept contradictoire en soi »</td></tr>
+<tr><td>Le pivot</td><td class="dp-non">1859 (Formulaire) — « l'infini et le nombre sont contradictoires entre eux »</td><td class="dp-oui">1903 — « le tout actuel de parties sans fin est un concept contradictoire en soi »</td></tr>
 <tr><td>La substance</td><td class="dp-non">1854 — un fétiche : un mot pris pour une chose</td><td class="dp-oui">1903 — « une substance est une conscience »</td></tr>
 <tr><td>La personnalité</td><td class="dp-non">1854 — la neuvième catégorie : soi, non-soi, conscience</td><td class="dp-oui">1903 — la texture du monde physique : les monades</td></tr>
 <tr><td>La force</td><td class="dp-non">1854 — la septième catégorie : acte, puissance, force</td><td class="dp-oui">1903 — la volonté, et rien d'autre</td></tr>
@@ -690,9 +691,9 @@ Cette page déplie le livre qui va de l'un à l'autre. Ce n'est pas un reniement
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Ce que la colonne de droite fait à celle de gauche</span>
 <p>On lit d'ordinaire les <em>Essais</em> comme une critique : un inventaire de ce qu'on ne peut pas savoir. La colonne de droite montre à quoi servait l'inventaire. Les neuf catégories de 1854 étaient données comme des lois de la <em>représentation</em> — des formes de notre connaissance, pas des propriétés des choses. En 1903, la neuvième est devenue ce dont le monde est fait.</p>
-<p>Autrement dit, le criticisme a fini en métaphysique. Non par fatigue, ni par une faiblesse de vieillard : parce que après avoir démontré que rien ne passe entre une conscience et un corps, il ne restait qu'une façon de tenir le monde ensemble — que le corps aussi soit une conscience. Renouvier n'a pas abandonné sa critique. Il l'a suivie jusqu'au bout, et elle l'a mené là.</p>
+<p>Autrement dit, le criticisme a fini en métaphysique. Non par fatigue, ni par une faiblesse de vieillard : parce qu'après avoir établi qu'aucun intermédiaire n'est perçu ni intelligible entre une conscience et un corps, il ne restait qu'une façon de tenir le monde ensemble — que le corps aussi soit fait d'êtres conscients. Renouvier n'a pas abandonné sa critique. Il l'a suivie jusqu'au bout, et elle l'a mené là.</p>
 </div>
-<p class="dp-chapo">Un homme qui aurait voulu se contredire aurait mis cinquante ans à s'en apercevoir. Celui-là a mis cinquante ans à arriver.</p>
+<p class="dp-chapo">Il a mis cinquante ans à arriver, sans quitter sa méthode.</p>
 </div>
 </details>
 
@@ -762,8 +763,8 @@ Cette page suit les mêmes six règles que sa sœur, [Compliquer les Essais pour
 
 Ici, ils existent. Le chapitre L, *Résumé des thèses principales*, est le troisième formulaire de Renouvier, et l'essentiel de cette page en vient.
 
-**Deux réserves d'établissement du texte.** La numérisation a perdu le titre d'un chapitre entre le III (Destutt de Tracy) et le VI (Berkeley) : le seul titre subsistant dans cet intervalle est *La volonté locomotrice de Maine de Biran*, dont le numéro manque. Les regroupements « II-V » et « XXVI-XLIV » proposés ci-dessus sont donc des commodités de lecture, pas des divisions de l'auteur : Renouvier n'a pas donné de titres de parties à son Étude, seulement cinquante chapitres à la file.
+**Deux réserves d'établissement du texte.** La numérisation a perdu le titre du chapitre XXVI : le XXV y est directement suivi du XXVII. Les regroupements « II-V » et « XXVI-XLIV » proposés ci-dessus sont des commodités de lecture, pas des divisions de l'auteur : Renouvier n'a pas donné de titres de parties à son Étude, seulement cinquante chapitres à la file.
 
-**Ce qui reste à faire.** *Le Personnalisme* proprement dit — métaphysique, sociologie, eschatologie — n'est ici qu'esquissé : cette page déplie l'Étude, c'est-à-dire la moitié du volume que son titre présente comme un appendice. Le reste attend son étage.
+**Ce qui reste à déplier.** *Le Personnalisme* proprement dit — métaphysique, sociologie, eschatologie — n'est ici qu'esquissé : cette page déplie l'Étude, c'est-à-dire la moitié du volume que son titre présente comme une suite.
 
 **Source.** Charles Renouvier, *Le Personnalisme, suivi d'une étude sur la perception externe et sur la force*, Paris, Félix Alcan, 1903. Numérisation Gallica / Bibliothèque nationale de France. Renouvier meurt le 1<sup>er</sup> septembre de la même année.

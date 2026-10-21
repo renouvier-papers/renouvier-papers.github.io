@@ -6,4 +6,4 @@ hide:
 
 # Recherche
 
-Bibliographies, expérimentations de lecture et travaux de linguistique informatique autour de l'œuvre de Renouvier.
+Bibliographies, lectures dépliées des œuvres, essais de logique philosophique et travaux de linguistique informatique autour de l'œuvre de Renouvier.

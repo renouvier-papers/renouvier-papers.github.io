@@ -9,9 +9,9 @@ Renouvier a lui-même fixé le cahier des charges de cette page, au seuil du Deu
 
 > **« J'arrive aux catégories empiriquement ; je les fixe par hypothèse, et je les propose pour être vérifiées. »**
 > 
-> Charles Renouvier, *Essais de critique générale. Deuxième Essai. Traité de psychologie rationnelle d'après les principes du criticisme*, 2e éd. revue et considérablement augmentée, Paris, Au Bueau de la *Critique philosophique*, 1875, t. I, p. 2.
+> Charles Renouvier, *Essais de critique générale. Deuxième Essai. Traité de psychologie rationnelle d'après les principes du criticisme*, 2e éd. revue et considérablement augmentée, Paris, Au Bureau de la *Critique philosophique*, 1875, t. I, p. 2.
 
-Cette page prend l'offre au mot. Elle ne raconte pas le système : elle le démonte, avec l'outil que Renouvier respectait par-dessus tout — la logique formelle. Le système entier tient d'abord en **une formule** ; chaque terme s'ouvre ensuite sur sa dérivation, jusqu'aux définitions.
+Cette page prend l'offre au mot. Elle ne raconte pas le système : elle le démonte, avec un outil que Renouvier pratiquait lui-même — la logique formelle, à laquelle le Premier Essai consacre plusieurs chapitres. Le système entier tient d'abord en **une formule** ; chaque terme s'ouvre ensuite sur sa dérivation, jusqu'aux définitions.
 
 Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but de cette page est précisément de les distinguer : il y a ceux qui **déduisent**, ceux qui **définissent**, celui qui **suppose** sans le dire, ceux qui **choisissent** — et un qui **raccorde** deux époques du système sous tension. Le style du trait qui souligne chaque connecteur dit de quel joint il s'agit.
 
@@ -370,18 +370,18 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 <div id="lg-nombre">
 <span class="dp-etiquette">terme — Nombre</span>
 <p><strong>Nombre</strong> := un tout — la synthèse de l'un et du multiple, σ(Un, Multiple). Dire « il y en a sept », c'est avoir <em>fini</em> de compter : le nombre est un achèvement.</p>
-<div class="dp-cite"><p>[…] le <em>nombre</em>, c'est-à-dire […] le <em>tout</em> qui est la synthèse de l'un et du multiple […]</p><span class="dp-source">Formulaire du Traité de logique générale</span></div>
+<div class="dp-cite"><p>[…] le <em>nombre</em>, c'est-à-dire […] le <em>tout</em>, qui est la synthèse de l'un et du multiple […]</p><span class="dp-source">Formulaire du Traité de logique générale</span></div>
 <p class="lg-etat">rôle : le « := » sur lequel Cantor divergera — voir « le pivot »</p>
 </div>
 
 <div id="lg-et">
 <span class="dp-etiquette">connecteur — ∧ (« et »)</span>
-<p>La conjonction : « A ∧ B » n'est vraie que si A et B le sont ensemble. C'est l'opération la plus innocente de la logique — et c'est elle que le pivot met en accusation : peut-on poser <em>ensemble</em> Infini et Nombre ?</p>
+<p>La conjonction : « A ∧ B » n'est vraie que si A et B le sont ensemble. C'est l'opération la plus innocente de la logique — et c'est sur elle que porte le pivot : peut-on poser <em>ensemble</em> Infini et Nombre ?</p>
 </div>
 
 <div id="lg-implique">
 <span class="dp-etiquette">connecteur — → (« si… alors »)</span>
-<p>L'implication : « A → B » n'est fausse que si A est vrai et B faux. Ici : si quelque chose était à la fois nombre et infini, alors contradiction. La contraposée fait tout le travail du système : puisque ⊥ est inacceptable, l'antécédent ne l'est pas non plus.</p>
+<p>L'implication : « A → B » n'est fausse que si A est vrai et B faux. Ici : si quelque chose était à la fois nombre et infini, alors contradiction. La contraposée fait tout le travail du système : puisque ⊥ est inacceptable, l'antécédent l'est aussi.</p>
 </div>
 
 <div id="lg-absurde">
@@ -402,7 +402,7 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 
 <div id="lg-ensoi">
 <span class="dp-etiquette">terme — ChoseEnSoi</span>
-<p>Ce qui existerait hors de toute représentation, tel quel, sans témoin. Le kantisme la garde inconnaissable ; Renouvier la déclare contradictoire — quatre fois, sur ses quatre supports :</p>
+<p>Ce qui existerait hors de toute représentation, tel quel, sans témoin. Le kantisme la garde inconnaissable ; Renouvier la déclare contradictoire — à commencer par l'espace, le temps, la matière et le mouvement, qu'on prétendrait exister en soi :</p>
 <div class="dp-cite"><p>L'espace, le temps, la matière, le mouvement, s'ils étaient en soi, impliqueraient le continu en soi, et par suite un nombre infini de parties en soi de ce continu, ce qui est absurde […]</p><span class="dp-source">Formulaire du Traité de logique générale</span></div>
 </div>
 
@@ -444,13 +444,13 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 
 <div id="lg-poss">
 <span class="dp-etiquette">connecteur — ◇ (« possible »)</span>
-<p>Chez Renouvier, le possible est strictement logique : est possible ce dont la position n'implique pas ⊥. ◇Liberté ne dit donc pas que la liberté <em>est</em> — seulement qu'elle a le droit d'être. Toute la différence entre ⊢₄ et ⊢₆ tient dans ce losange.</p>
+<p>Le ◇ retenu ici est le possible logique : est possible ce dont la position n'implique pas ⊥. Renouvier connaît aussi des possibles réels, mais ils ne servent pas à ce pas. ◇Liberté ne dit donc pas que la liberté <em>est</em> — seulement qu'elle a le droit d'être. Toute la différence entre ⊢₄ et ⊢₆ tient dans ce losange.</p>
 </div>
 
 <div id="lg-liberte">
 <span class="dp-etiquette">terme — Liberté</span>
 <p>Le pouvoir de commencer une série. En langage de 1864, jamais retouché en trois éditions :</p>
-<div class="dp-cite"><p>[…] ces fonctions ont des <em>variables indépendantes</em> réelles, et elles-mêmes ne <em>sont</em> pas simplement, mais <em>se font</em>.</p><span class="dp-source">Formulaire du Traité de Psychologie rationnelle, 1864</span></div>
+<div class="dp-cite"><p>[…] ces fonctions ont des <em>variables indépendantes</em> réelles, et elles-mêmes ne <em>sont</em> pas simplement, mais <em>se font</em>.</p><span class="dp-source">Formulaire du Traité de Psychologie rationnelle, 1864 ; même texte en 1875 (Deuxième Essai, t. III, p. 292) et en 1892 (Troisième Essai, t. I, p. XXVI)</span></div>
 </div>
 
 <div id="lg-d5">
@@ -462,19 +462,19 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 <div id="lg-croyable">
 <span class="dp-etiquette">terme — Croyable(Liberté)</span>
 <p>La croyance est libre partout où la raison n'a pas prononcé ⊥ — et là seulement.</p>
-<div class="dp-cite"><p>[…] les croyances qui, sans prétendre dépasser ces bornes en s'obstinant dans l'affirmation d'objets que la raison a déclarés contradictoires, demeurent libres de s'étendre au delà […]</p><span class="dp-source">Formulaire du Traité de logique générale</span></div>
+<div class="dp-cite"><p>[…] les croyances, qui, sans prétendre dépasser ces bornes en s'obstinant dans l'affirmation d'objets que la raison a déclarés contradictoires, demeurent libres de s'étendre au delà […]</p><span class="dp-source">Formulaire du Traité de logique générale</span></div>
 </div>
 
 <div id="lg-d6">
 <span class="dp-etiquette">⊢₆ — LE PARI</span>
-<p>Le seul joint souligné double de la charpente. Ce n'est pas une déduction : le dilemme du chapitre XIII a établi qu'aucune preuve n'existe, d'aucun côté. C'est un <strong>acte</strong> — et si la liberté est réelle, cet acte est précisément ce qu'il affirme.</p>
+<p>Le seul joint souligné double de la ligne-système ; l'étage tardif en ajoutera un second, en 1903. Ce n'est pas une déduction : le dilemme du chapitre XIII a établi qu'aucune preuve n'existe, d'aucun côté. C'est un <strong>acte</strong> — et si la liberté est réelle, cet acte est précisément ce qu'il affirme.</p>
 <div class="dp-cite"><p>Alors c'est à la liberté qu'il appartient de déclarer si la liberté est ou non.</p><span class="dp-source">Deuxième Essai, ch. XIII</span></div>
 <p class="lg-etat">statut : choix — signalé par l'auteur. voir « la liberté »</p>
 </div>
 
 <div id="lg-d7">
 <span class="dp-etiquette">⊢₇ — de la liberté à la personne</span>
-<p>La Personne := la conscience — σ(Soi, Non-Soi) — en tant que ses actes ont des variables indépendantes. La neuvième catégorie devient le nom du système entier ; l'étage tardif l'étendra vers le haut (conscience première, 1886) et vers le bas (monades, 1903).</p>
+<p>La Personne := la conscience — σ(Soi, Non-Soi) — en tant que ses actes ont des variables indépendantes. La neuvième catégorie devient le nom du système entier ; l'étage tardif l'étendra vers le haut (conscience première, 1886) et vers le bas (monades, 1899-1903).</p>
 <p class="lg-etat">statut : définition — voir « l'étage tardif »</p>
 </div>
 
@@ -512,7 +512,7 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 </div>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Où la bataille a vraiment lieu</span>
-<p>La déduction est inattaquable : <em>achevé et inachevable</em>, ensemble, c'est ⊥. Toute la charge repose donc sur les deux <strong>:=</strong> — et c'est exactement là que Cantor frappera. Sa définition : Nombre(x) := classe d'équivalence par bijection. <em>Achevé</em> n'y figure plus ; un ensemble est donné par sa condition d'appartenance, non par un comptage qui finit. Les deux camps sont logiquement irréprochables ; <strong>ils ne se battent pas sur un théorème, ils se battent sur un :=</strong>. La forme rend ce déplacement visible — c'est tout ce qu'elle peut faire, et ce n'est pas rien.</p>
+<p>La déduction est inattaquable : <em>achevé et inachevable</em>, ensemble, c'est ⊥. Toute la charge repose donc sur les deux <strong>:=</strong> — et c'est exactement là que Cantor frappera. Son critère : deux ensembles ont même nombre (même puissance) s'ils sont en bijection — d'où, chez Frege puis Russell, la définition du nombre comme classe d'équivalence. <em>Achevé</em> n'y figure plus ; un ensemble est donné par sa condition d'appartenance, non par un comptage qui finit. Les deux camps sont logiquement irréprochables ; <strong>ils ne se battent pas sur un théorème, ils se battent sur un :=</strong>. La forme rend ce déplacement visible — c'est tout ce qu'elle peut faire, et ce n'est pas rien.</p>
 </div>
 </div>
 </details>
@@ -534,6 +534,8 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 <button class="lg-t" type="button" data-lg="infparties">∞Parties(X)</button>
 <button class="lg-c lg-c--op" type="button" data-lg="implique">→</button>
 <button class="lg-t" type="button" data-lg="absurde">⊥</button>
+<span class="lg-x">&nbsp;·&nbsp;</span>
+<button class="lg-t" type="button" data-lg="continu">Continu(X)</button>
 <span class="lg-x">&nbsp;·&nbsp;</span>
 <button class="lg-c lg-c--val" type="button" data-lg="e2">⊢</button>
 <button class="lg-c lg-c--op" type="button" data-lg="non">¬</button><button class="lg-t" type="button" data-lg="ensoi">EnSoi(X)</button>
@@ -569,7 +571,7 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 </div>
 <div id="lg-e1">
 <span class="dp-etiquette">→ en tirets — la prémisse à découvert</span>
-<p><strong>EnSoi ⇒ ToutActuel</strong> : hors de tout esprit, pas de « en puissance ». C'est le maillon que la déduction du Formulaire saute — non qu'il soit indéfendable : il est défendu ailleurs (voir l'encart), mais il n'est pas <em>dans</em> le pas. Un kantien qui garde la chose en soi avec des « parties potentielles » refuse exactement ceci.</p>
+<p><strong>EnSoi ⇒ ToutActuel</strong> : hors de tout esprit, pas de « en puissance ». C'est le maillon que la déduction du Formulaire saute — non qu'il soit indéfendable : il est défendu ailleurs (voir l'encart), mais il n'est pas <em>dans</em> le pas. Un réaliste qui prête au continu en soi des parties seulement « potentielles », à la manière d'Aristote, refuse exactement ceci ; un kantien n'en a pas besoin, puisque pour Kant l'espace et le temps ne sont pas des choses en soi.</p>
 <p class="lg-etat">statut : prémisse à découvert</p>
 </div>
 <div id="lg-actuel">
@@ -586,8 +588,8 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 </div>
 <div id="lg-e2">
 <span class="dp-etiquette">⊢ — le rejet de l'antécédent</span>
-<p>Puisque la conséquence est ⊥, l'antécédent tombe : pas de chose en soi — pour les quatre supports que sont l'espace, le temps, la matière, le mouvement. Le kantisme perd son arrière-monde par l'arithmétique.</p>
-<p class="lg-etat">statut : déduction (une fois la prémisse accordée)</p>
+<p>Puisque la conséquence est ⊥, l'antécédent tombe : ni l'espace, ni le temps, ni la matière, ni le mouvement n'existent en soi. Le réalisme qui les tenait pour des choses perd son objet par l'arithmétique.</p>
+<p class="lg-etat">statut : déduction (une fois accordées la prémisse à découvert et la continuité de X)</p>
 </div>
 </div>
 
@@ -634,7 +636,7 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 <details class="dp-pli" data-rang="rouage 4">
 <summary class="dp-titre"><span class="dp-rang">⊢₃</span><span class="dp-texte">Ω — un seul lemme, deux théorèmes positifs</span></summary>
 <div class="dp-corps">
-<p>La quatrième partie du Premier Essai fait échouer les neuf catégories sur le monde. Mis en forme, les neuf échecs se révèlent être <strong>un seul lemme</strong> :</p>
+<p>La quatrième partie du Premier Essai éprouve les catégories une à une sur le monde ; le Formulaire en résume les échecs en huit articles, l'étendue et la durée allant ensemble. Mis en forme, ces échecs se révèlent être <strong>un seul lemme</strong> :</p>
 <div class="lg-bloc">
 <p class="lg-formule">
 <button class="lg-t" type="button" data-lg="omegadef">Ω</button>
@@ -648,7 +650,7 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 </p>
 <div class="lg-console" aria-live="polite"></div>
 </div>
-<p>Mais deux catégories, en échouant, <em>produisent</em>. La succession et la causalité, appliquées à Ω, ne rendent pas seulement l'ignorance — elles rendent deux théorèmes :</p>
+<p>Mais deux catégories, en échouant, <em>produisent</em>. Le devenir et la causalité, appliqués à Ω, ne rendent pas seulement l'ignorance — elles rendent deux théorèmes :</p>
 <div class="lg-bloc">
 <p class="lg-formule">
 <button class="lg-t" type="button" data-lg="passe">PasséEffectif(Ω)</button>
@@ -668,7 +670,7 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 <p>[…] une conscience enveloppant la totalité des phénomènes cesse de répondre à la notion de conscience […]</p>
 <span class="dp-source">Formulaire du Traité de logique générale</span>
 </div>
-<p>En 1854, Renouvier en tire la pluralité des consciences premières. Et notez que le texte code déjà, dans le théorème des causes premières, la question qui occupera sa vie : « une <strong>ou plusieurs</strong> causes premières » — le Formulaire laisse l'article indécis. L'histoire de cette indécision est la page <a href="/recherche/complications/evolution/">Comment je suis arrivé à cette conclusion</a>.</p>
+<p>Le Formulaire en tire que la pluralité des consciences premières « semble » la seule hypothèse rationnelle. Et notez que le texte code déjà, dans le théorème des causes premières, la question qui occupera sa vie : « une <strong>ou plusieurs</strong> causes premières » — le Formulaire laisse l'article indécis. L'histoire de cette indécision est la page <a href="/recherche/complications/evolution/">Comment je suis arrivé à cette conclusion</a>.</p>
 </div>
 </div>
 </details>
@@ -779,8 +781,8 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 </div>
 <div class="dp-note">
 <span class="dp-etiquette">Même les probabilités ne sauvent pas la mise — il le dit</span>
-<p>Le chapitre XIII convoque le calcul des probabilités (la loi des grands nombres vérifiée par l'expérience est compatible avec des possibles réellement égaux). Verdict de l'auteur, dès 1864 : ce calcul « fournit ainsi, selon sa nature, une sorte de probabilité, plutôt qu'une démonstration de la liberté comme réelle ». Une <em>probabilité de la liberté</em> — pas une preuve. Le pari reste entier.</p>
-<p class="lg-invite">source : Formulaire du Traité de Psychologie rationnelle : 1864 (1ère éd. du 2ème Essai), p. XXXVII ; 1875 (2ème éd. du 3ème Essai), p. 307.</p>
+<p>Le chapitre XIII convoque le calcul des probabilités (la loi des grands nombres vérifiée par l'expérience est compatible avec des possibles réellement égaux). Verdict du Formulaire, dès 1864 : ce calcul « fournit ainsi, selon sa nature, une sorte de probabilité, plutôt qu'une démonstration de la liberté comme réelle ». Une <em>probabilité de la liberté</em> — pas une preuve. Le pari reste entier.</p>
+<p class="lg-invite">source : Formulaire du Traité de Psychologie rationnelle — 1864 (Troisième Essai, 1re éd.), p. XXXVII ; 1875 (Deuxième Essai, 2e éd., t. III), p. 307 ; 1892 (Troisième Essai, 2e éd., t. I), p. XLII.</p>
 </div>
 </div>
 </details>
@@ -801,7 +803,7 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 </div>
 <div id="lg-l2b">
 <span class="dp-etiquette">→ — la seconde branche</span>
-<p>Si je suis déterminé, mon jugement — quel qu'il soit, vrai ou faux — était inévitable : il ne prouve rien non plus. « C'est une manière d'être dans le vrai, que de suivre une loi nécessaire en affirmant le faux » : la nécessité, vraie, avale toute preuve, y compris la sienne.</p>
+<p>Si je suis déterminé, mon jugement — quel qu'il soit, vrai ou faux — était inévitable : il ne prouve rien non plus. « C'est une manière d'être dans le <em>vrai</em>, que de suivre une loi nécessaire en affirmant le <em>faux</em> des autres hommes » (Formulaire, 1875, t. III, p. 302) : la nécessité, vraie, avale toute preuve, y compris la sienne.</p>
 </div>
 <div id="lg-l3">
 <span class="dp-etiquette">⊢ — l'impasse démontrée</span>
@@ -853,7 +855,7 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Pourquoi ondulé — les deux forces qui tirent sur ce joint</span>
 <p><strong>Ce qui pousse</strong> : le phénoménisme de 1854 lui-même. Une loi n'existe que représentée ; les lois sont les mêmes pour toutes les consciences ; une loi une exige « une conscience une et universelle donnée à cet objet ». Rien d'étranger n'entre — c'est la prémisse de jeunesse qui produit Dieu.</p>
-<p><strong>Ce qui tire en face</strong> : le chapitre LIII, resté debout. Une conscience du Tout est ⊥ — elle n'aurait pas de non-soi. Le raccord de Renouvier passe au millimètre : C₀ n'enveloppe pas Ω ; son non-soi, ce sont ses créatures libres ; elle est « souverain Auteur et siège suprême de ces lois […] mais non un être existant en dehors de ces lois » — et finie, le pivot y veille. <strong>Reste l'objection qu'un kantien ferait</strong> : la communauté des catégories pourrait être un fait sans auteur. Renouvier répond par sa définition — une loi non représentée n'existe pas —, ce qui reconduit le débat à un :=. Le joint tient, mais il travaille. L'histoire de sa pose est sur la page <a href="/recherche/complications/evolution/">Comment je suis arrivé à cette conclusion</a>.</p>
+<p><strong>Ce qui tire en face</strong> : le chapitre LIII, resté debout. Une conscience du Tout est ⊥ — elle n'aurait pas de non-soi. Le raccord de Renouvier passe au millimètre : C₀ n'enveloppe pas Ω ; son non-soi, ce sont ses créatures libres ; on peut, dit le résumé de 1892, l'envisager « comme le souverain Auteur et siège suprême de ces lois […], mais non comme un être existant en dehors de ces lois » — et finie, le pivot y veille. <strong>Reste l'objection qu'un kantien ferait</strong> : la communauté des catégories pourrait être un fait sans auteur. Renouvier répond par sa définition — une loi non représentée n'existe pas —, ce qui reconduit le débat à un :=. Le joint tient, mais il travaille. L'histoire de sa pose est sur la page <a href="/recherche/complications/evolution/">Comment je suis arrivé à cette conclusion</a>.</p>
 </div>
 
 <p class="dp-epigraphe">1903 — le choix sur la force</p>
@@ -889,7 +891,7 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 </div>
 <div class="dp-note">
 <span class="dp-etiquette">Le second choix — argumenté, mais choix</span>
-<p>La disjonction est réelle, et la première branche est respectable : c'est celle des « mathématiciens et physiciens » qui ont « dû l'abandonner, ou du moins la réduire à sa valeur nominale ». Renouvier prend l'autre, pour une raison qu'il donne : la branche nominale renonce à comprendre ; la sienne comprend — au prix de peupler la matière de volontés. La forme classe : ∨-élimination par décision motivée, pas par théorème. Le détail est sur <a href="/recherche/complications/physique-tardive/">La physique du personnalisme</a>.</p>
+<p>La disjonction est réelle, et la première branche est respectable : c'est celle des « mathématiciens et physiciens » qui ont « dû l'abandonner, ou du moins la réduire à sa valeur nominale ». Renouvier prend l'autre, pour une raison qu'il donne : la branche nominale renonce à comprendre ; la sienne comprend — au prix de peupler la matière de volontés. La forme classe : ce n'est ni une ∨-élimination (raisonnement par cas) ni un syllogisme disjonctif (qui exigerait de réfuter l'autre branche) — c'est le choix motivé d'une branche, pas un théorème. Le détail est sur <a href="/recherche/complications/physique-tardive/">La physique du personnalisme</a>.</p>
 </div>
 </div>
 </details>
@@ -914,17 +916,17 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 </div>
 <div id="lg-c0">
 <span class="dp-etiquette">terme — ConsciencePremière</span>
-<div class="dp-cite"><p>[…] la conscience première et universelle, auteur du monde, libre créateur[s] d'êtres libres.</p><span class="dp-source">Esquisse, t. II, p. 348 — « créateur[s] » : coquille de numérisation, rétablie</span></div>
+<div class="dp-cite"><p>[…] la conscience première et universelle, auteur du monde, libre créateur d'êtres libres.</p><span class="dp-source">Esquisse, t. II, p. 348 — la transcription porte « créateurs », coquille corrigée ici</span></div>
 <p>Une — l'article que la case « une ou plusieurs » attendait depuis 1854. Finie, par le pivot. Libre, par le pur commencement.</p>
 </div>
 <div id="lg-ou">
 <span class="dp-etiquette">connecteur — ∨ (« ou »)</span>
-<p>La disjonction : au moins l'une des deux branches. En choisir une quand aucun théorème ne ferme l'autre, c'est une ∨-élimination par décision — le geste exact de 1903 sur la force.</p>
+<p>La disjonction : au moins l'une des deux branches. En choisir une quand aucun théorème ne ferme l'autre n'est pas une règle logique, c'est une décision — le geste exact de 1903 sur la force.</p>
 </div>
 <div id="lg-source">
 <span class="dp-etiquette">terme — Source(idée de Force)</span>
-<div class="dp-cite"><p>[…] cette signification est premièrement donnée dans la conscience de l'effort volontaire, et de là secrètement empruntée pour l'usage universel qu'on en fait.</p><span class="dp-source">Étude sur la perception externe et sur la force</span></div>
-<p>Un constat génétique : le mot vient du vouloir. De là ne suit pas encore que la force <em>soit</em> volonté — d'où la disjonction, et le choix.</p>
+<div class="dp-cite"><p>L'expérience nous fait connaître les modifications mutuelles des mouvements des corps en leurs rencontres ; mais c'est par une illusion mentale seulement, que nous appliquons à leurs rapports […] les idées de force, impulsive ou résistante, avec une signification secrètement empruntée aux cas où les agents seraient supposés volontaires.</p><span class="dp-source">Étude sur la perception externe et sur la force, ch. XX, p. 352</span></div>
+<p>Un constat génétique : le sens de l'idée de force vient du vouloir. De là ne suit pas encore que la force <em>soit</em> volonté — d'où la disjonction, et le choix.</p>
 </div>
 <div id="lg-nominale">
 <span class="dp-etiquette">terme — Force := ValeurNominale</span>
@@ -942,11 +944,11 @@ Mais l'essentiel est ailleurs. Tous les « donc » ne se valent pas, et le but d
 </div>
 <div id="lg-rienpasse">
 <span class="dp-etiquette">terme — RienNePasse</span>
-<div class="dp-cite"><p>[…] aucun intermédiaire n'est perçu, aucun véhicule de l'action d'un phénomène sur l'autre […]</p><span class="dp-source">Étude sur la perception externe et sur la force</span></div>
+<div class="dp-cite"><p>[…] aucun intermédiaire n'est perçu, aucune hypothèse rationnelle ne s'offre, au delà du fait lui-même, et de notre idée de cause, et d'une liaison vérifiée, qui puisse nous faire comprendre cette liaison elle-même […]</p><span class="dp-source">Étude sur la perception externe et sur la force, ch. L, p. 531</span></div>
 </div>
 <div id="lg-monades">
 <span class="dp-etiquette">terme — Monades</span>
-<div class="dp-cite"><p>[…] on peut les appeler des monades […]</p><span class="dp-source">Étude, ch. XLVI</span></div>
+<div class="dp-cite"><p>[…] on peut les appeler des monades […]</p><span class="dp-source">Étude, ch. L, p. 533-534</span></div>
 <p>Des agents mentaux sans fenêtres — Leibniz corrigé deux fois : des variables indépendantes en plus (la liberté), l'infini en moins. L'« automate incorporel » cesse d'être automate.</p>
 </div>
 <div id="lg-harmonie">

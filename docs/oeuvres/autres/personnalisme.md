@@ -881,7 +881,7 @@ Destult de Tracy décrit nos impressions, qui ne démontrent qu'elles-mêmes, lo
 
 « L'espace est la propriété d'être étendu, considérée séparément de tout corps à qui elle puisse appartenir : c'est une idée abstraite ; c'est le néant personnifié par la faculté que nous avons de nous mouvoir quand rien ne nous comme chose ne nous en empêche, *quand le rien nous le permet*... » S'il en est ainsi, on ne voit pas en quoi l'opinion de l'idéologue qui, apparemment, ne nie pas la géométrie, s'éloigne de la définition leibnitienne de l'espace : *ordo coexistentium* ; mais on se demande comment il fait pour concilier le réel de l'étendue du corps avec le néant de la portion [p. 242] ## Chapitre IV — La perception externe chez Maine de Biran
 
-LA PERCEPTION EXTERNE CHEZ MAINE DE BIRAN
+### Chapitre IV — La perception externe chez Maine de Biran
 
 Maine de Biran, en son premier ouvrage : *Influence de l'habitude sur la faculté de penser*, se rattache à la thèse de Destutt de Tracy : il admet que la faculté loco-motrice est le point de départ d'où, par l'exercice et par l'expérience, le moi prend connaissance de lui-même. Et d'abord, toutes les facultés intellectuelles dérivent, dit-il, de celle de sentir, ou recevoir *des impressions*, et il ne se propose que de les analyser, c'est-à-dire d'analyser *des effets*, la nature *des forces* nous étant inconnue. La faculté
 
@@ -913,7 +913,7 @@ La doctrine des monades exige, et il est d'ailleurs conforme à toute vue physio
 
 degré quelconque de le voir se réaliser si lie à l'imagination que nous en avons, nous pouvons bien dire que nous posons une condition de sa futurition, condition nécessaire et suffisante pour de nombreuses classes de cas ; mais quand ce mouvement se produit, nous n'avons pas le droit de le regarder comme notre œuvre simple et exclusive, attendu que son accomplissement n'a eu lieu que parce que nos organes ont les dispositions voulues à cet effet, avec les limitations et les déterminations dont parle Leibniz : choses qui ne sont connues de notre conscience que par expérience, et qui peuvent manquer, même entièrement, car elle ne se connaît aucun rapport *nécessaire* avec elles.
 
-### La volonté locomotrice de Maine de Biran
+### Chapitre V — La volonté locomotrice de Maine de Biran
 
 « Nous trouvons, dit Maine de Biran, profondément empreinte en nous la notion de cause, ou de force, et ce sentiment n'est autre que celui de notre existence même, dont celui de l'activité est inséparable ; car nous ne pouvons nous connaître comme personnes individuelles sans nous sentir causes relatives à certains effets ou mouvements produits dans le corps organique. » On ne saurait mieux dire ; nous pouvons même aller plus loin, et remarquer, en observant les premiers mouvements de l'enfant, qu'il a parfaitement l'impulsion à l'acte et le sentiment d'agir sur des corps qui ne sont pas *lui*, avant de savoir que son action ne les atteint qu'à travers ses organes comme intermédiaires. Et quand la réflexion est venue, on ne se *sent* pas être cause en sentant les effets ; on se *sait* cause, parce qu'on a, outre la conscience de la *force active*, ou puissance, la connaissance acquise de l'efficacité et des [p. 250] limites de ce pouvoir sur les organes, par eux, sur les corps extérieurs, et enfin l'information actuelle de la production des effets qui se trouvent actuellement possibles.
 

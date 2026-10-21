@@ -7,9 +7,9 @@ description: "Les quatre Essais de critique générale de Charles Renouvier, dé
 
 *Ex-pliquer*, c'est déplier. *Com-pliquer*, c'est plier ensemble. On n'explique jamais un livre : on le déplie — et pour le déplier, il faut d'abord admettre qu'il a été plié.
 
-Cette page est un dépliant. Fermée, elle tient en trois mots. Chaque terme s'ouvre sur ce qu'il contient ; ce qu'il contient s'ouvre encore. **Rien ne disparaît quand vous ouvrez** : les voies que vous n'avez pas prises restent là, repliées, à côté de celle que vous avez prise. Tout ouvert, vous avez les quatre Essais.
+Cette page est un dépliant. Fermée, elle tient en trois mots. Chaque terme s'ouvre sur ce qu'il contient ; ce qu'il contient s'ouvre encore. **Rien ne disparaît quand vous ouvrez** : les voies que vous n'avez pas prises restent là, repliées, à côté de celle que vous avez prise. Tout ouvert, vous avez le plan raisonné des quatre Essais, et de quoi y entrer.
 
-Une précision, qui est aussi une découverte : **Renouvier avait commencé ce travail.** Il a résumé chacun de ses Essais dans un texte qu'il appelait un *Formulaire*, et il a placé ces formulaires aux charnières de l'œuvre — à la fin d'un Essai, en tête du suivant. Les paliers intermédiaires de ce dépliant ne sont donc pas inventés : ils sont de sa main.
+Une précision, qui est aussi une découverte : **Renouvier avait commencé ce travail.** Il a résumé ses deux premiers Essais dans des textes qu'il appelait des *Formulaires*, et il les a placés aux charnières de l'œuvre — à la fin d'un Essai, en tête du suivant. Pour ces deux livres, les paliers intermédiaires de ce dépliant ne sont donc pas inventés : ils sont de sa main.
 
 <div class="dp" id="dp">
 <style>
@@ -258,12 +258,12 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <span class="dp-compteur" id="dp-compteur" aria-live="polite"></span>
 </div>
 
-<p class="dp-chapo">Charles Renouvier — <em>Essais de critique générale</em>, 1854-1864 ; seconde édition, 1875-1892.</p>
+<p class="dp-chapo">Charles Renouvier — <em>Essais de critique générale</em>, 1854-1864 ; seconde édition, 1875-1896.</p>
 
 <details class="dp-pli" data-rang="titre">
 <summary class="dp-titre"><span class="dp-rang">le mot</span><span class="dp-texte">Essais</span></summary>
 <div class="dp-corps">
-<p>Le mot n'est pas de la modestie. Un <em>essai</em>, ici, c'est un examen qui ne connaît pas son résultat d'avance — l'exact contraire d'un <em>système</em>. Renouvier passera sa vie à reprocher à Hegel et à Comte d'avoir su la fin avant d'avoir commencé — et l'image qui règle leur compte, celle des sphères de Ptolémée, attend au bout de cette page, dans le dernier pli du Quatrième Essai.</p>
+<p>Le mot n'est pas de la modestie. Un <em>essai</em>, ici, c'est un examen qui ne connaît pas son résultat d'avance — l'exact contraire d'un <em>système</em>. Renouvier reprochera sans relâche à Hegel et à Comte d'avoir su la fin avant d'avoir commencé ; l'image par laquelle il les juge, celle des sphères de Ptolémée, se trouve au bout de cette page, dans le dernier pli du Quatrième Essai.</p>
 <p>Quatre essais, donc : quatre examens, sur quatre objets, avec un seul outil. Cet outil a neuf pièces, il est monté dans le premier livre, et il ne changera plus jamais.</p>
 </div>
 </details>
@@ -271,7 +271,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <details class="dp-pli" data-rang="titre">
 <summary class="dp-titre"><span class="dp-rang">le mot</span><span class="dp-texte">de critique</span></summary>
 <div class="dp-corps">
-<p>Le mot vient de Kant, et Renouvier ne s'en cache pas une seconde :</p>
+<p>Le mot vient de Kant, et Renouvier le revendique :</p>
 <div class="dp-cite">
 <p>J'avoue donc nettement que je continue Kant ; et, comme une ambition est bonne et nécessaire chez quiconque ose proposer ses pensées au public, la mienne serait de poursuivre sérieusement en France l'œuvre de la critique, manquée en Allemagne.</p>
 <span class="dp-source">Premier Essai, préface de la première édition</span>
@@ -280,7 +280,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <span class="dp-etiquette">En clair</span>
 <p><em>Critique</em> ne veut pas dire dénigrer. Cela veut dire : avant de dire ce qu'est le monde, examiner de quel droit on en parle. La critique n'est pas une doctrine du monde, c'est l'inventaire des titres de créance de la raison.</p>
 </div>
-<p>Reste ce « manquée en Allemagne », qui est une déclaration de guerre polie. Renouvier tient que Kant a ouvert le bon chantier et l'a mal fermé — et il passera quarante ans à le fermer autrement.</p>
+<p>Reste ce « manquée en Allemagne » : Renouvier tient que Kant a ouvert le bon chantier sans l'achever, et il passera un demi-siècle à le reprendre sur d'autres bases.</p>
 </div>
 </details>
 
@@ -294,28 +294,28 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <li><strong>La nature</strong> — que sont la matière, la vie, l'espèce, l'origine ? <em>(Troisième Essai)</em></li>
 <li><strong>L'histoire</strong> — que fait l'humanité de sa propre expérience ? <em>(Quatrième Essai)</em></li>
 </ul>
-<p>C'est tout ce que « générale » veut dire — et c'est énorme : rien n'y échappe, ni la géométrie, ni les passions, ni Darwin, ni les religions de l'Égypte.</p>
+<p>C'est tout ce que « générale » veut dire, et l'ambition est considérable : rien n'y échappe, ni la géométrie, ni les passions, ni Darwin, ni les religions de l'Égypte.</p>
 </div>
 </details>
 
 <p class="dp-epigraphe">— le livre en une phrase —</p>
-<p class="dp-these">Un outil à neuf pièces, appliqué quatre fois. Sur le monde entier, il échoue neuf fois : c'est la limite de la science. Sur l'homme, il réussit neuf fois, et la neuvième s'appelle la liberté.</p>
+<p class="dp-these">Un outil à neuf pièces, appliqué quatre fois. Sur le monde pris comme un tout, il échoue à chaque catégorie — Renouvier compte huit échecs, l'étendue et la durée allant ensemble : c'est la limite de la science. Sur l'homme, chaque catégorie donne une fonction, et la neuvième s'appelle la liberté.</p>
 
 <details class="dp-pli" data-rang="palier">
 <summary class="dp-titre"><span class="dp-rang">↓ déplier</span><span class="dp-texte">Le livre en un paragraphe</span></summary>
 <div class="dp-corps">
-<p>Renouvier part d'une impossibilité qu'il tient pour démontrée : <strong>le nombre ne peut pas être infini</strong>. Il en tire que rien ne nous est donné <em>en soi</em> : les choses ne nous sont données qu'en <strong>représentation</strong>, et ce qu'il y a à connaître en elles, ce sont leurs liaisons constantes — des <strong>lois</strong>. Ces lois se ramènent à <strong>neuf relations irréductibles</strong>, les catégories, toutes bâties sur le même modèle : deux termes contraires, et leur synthèse. Ces neuf pièces sont le seul outil de toute l'œuvre, et <strong>les quatre Essais en sont les quatre applications</strong>. Appliqué au monde pris comme un tout, l'outil casse — neuf fois, une fois par catégorie : c'est la <strong>limite extrême de la connaissance</strong>. Appliqué à l'homme, il tient — neuf fois, et la neuvième catégorie, la personnalité, donne la <strong>liberté</strong>. Une science qui s'arrête, une liberté qui commence : le champ demeuré libre est celui de la <strong>croyance</strong>, donc d'une morale, donc d'une <strong>histoire sans sens de l'Histoire</strong>. Et d'un Essai à l'autre, aux charnières, Renouvier a glissé un <strong>formulaire</strong> qui replie le précédent.</p>
-<p class="dp-chapo">Chacun des neuf termes en gras s'ouvre ci-dessous. Vous pouvez vous arrêter ici : ce paragraphe est vrai. Vous pouvez aussi tirer sur un fil.</p>
+<p>Renouvier part d'une impossibilité qu'il tient pour démontrée : <strong>le nombre ne peut pas être infini</strong>. Il en tire que rien ne nous est donné <em>en soi</em> : les choses ne nous sont données qu'en <strong>représentation</strong>, et ce qu'il y a à connaître en elles, ce sont leurs liaisons constantes — des <strong>lois</strong>. Ces lois se ramènent à <strong>neuf relations irréductibles</strong>, les catégories, toutes bâties sur le même modèle : deux termes contraires, et leur synthèse. Ces neuf pièces sont le seul outil de toute l'œuvre, et <strong>les quatre Essais en sont les quatre applications</strong>. Appliqué au monde pris comme un tout, l'outil casse à chaque catégorie — huit échecs dans le Formulaire, l'étendue et la durée allant ensemble : c'est la <strong>limite extrême de la connaissance</strong>. Appliqué à l'homme, il tient — neuf fois, et la neuvième catégorie, la personnalité, donne la <strong>liberté</strong>. Une science qui s'arrête, une liberté qui commence : le champ demeuré libre est celui de la <strong>croyance</strong>, donc d'une morale, donc d'une <strong>histoire sans sens de l'Histoire</strong>. Et aux deux premières charnières, Renouvier a glissé un <strong>formulaire</strong> qui replie l'Essai précédent.</p>
+<p class="dp-chapo">Chacun des dix termes en gras s'ouvre ci-dessous. Vous pouvez vous arrêter ici : ce paragraphe dit l'essentiel. Vous pouvez aussi tirer sur un fil.</p>
 
 <details class="dp-pli" data-rang="terme">
 <summary class="dp-titre"><span class="dp-rang">le pivot</span><span class="dp-texte">le nombre ne peut pas être infini</span></summary>
 <div class="dp-corps">
-<p>C'est Renouvier lui-même qui emploie le mot, et il le met entre guillemets comme s'il en mesurait le poids :</p>
+<p>Le mot « pivot » est de Renouvier lui-même, qui écrit « pivotale » entre guillemets :</p>
 <div class="dp-cite">
 <p>[…] une doctrine dont l'idée « pivotale » a procédé chez moi d'une méditation prolongée sur le sens, et sur la seule justification rationnelle possible des méthodes transcendantes en géométrie.</p>
 <span class="dp-source">Premier Essai, avant-propos de la seconde édition</span>
 </div>
-<p>Traduction : tout ce système est né d'un problème de mathématiques. Voici la thèse, dans les termes du <em>Formulaire</em> par lequel Renouvier résume lui-même son premier livre :</p>
+<p>Autrement dit : l'idée directrice du système est née d'une réflexion sur les fondements du calcul infinitésimal. Voici la thèse, dans les termes du <em>Formulaire</em> par lequel Renouvier résume lui-même son premier livre :</p>
 <div class="dp-cite">
 <p>L'espace, le temps, la matière, le mouvement, s'ils étaient en soi, impliqueraient le continu en soi, et par suite un nombre infini de parties en soi de ce continu, ce qui est absurde, parce que l'infini et le nombre sont contradictoires entre eux.</p>
 <span class="dp-source">Formulaire du Traité de logique générale</span>
@@ -335,26 +335,26 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <p>Renouvier ne dit pas qu'on ne peut pas <em>imaginer</em> l'infini, ni qu'il faut cesser de faire des mathématiques. Il vise une chose précise : l'infini <strong>donné en acte</strong>, achevé, réellement là. Il maintient l'autre infini, qu'il appelle l'<strong>indéfini</strong> : on peut toujours ajouter un, toujours diviser encore. Ce qu'on ne peut pas, c'est <em>avoir ajouté</em> une infinité de fois.</p>
 <p>Toute la différence est entre <em>on peut toujours</em> (vrai) et <em>c'est déjà fait</em> (contradictoire).</p>
 </div>
-<p>Renouvier consacre un chapitre entier et une centaine de pages d'observations à refonder là-dessus la fraction, l'incommensurable, la limite, les tangentes, les quadratures — c'est-à-dire le calcul infinitésimal — sans jamais admettre un infini en acte. C'est le prix à payer, et il le paie <em>(Premier Essai, ch. XXXII)</em>.</p>
+<p>Renouvier consacre un chapitre entier et plus de soixante-dix pages d'observations à refonder là-dessus la fraction, l'incommensurable, la limite, les tangentes, les quadratures — c'est-à-dire le calcul infinitésimal — sans jamais admettre un infini en acte. C'est le prix à payer, et il le paie <em>(Premier Essai, ch. XXXII)</em>.</p>
 </div>
-<p class="dp-renvoi">Ce raisonnement — deux définitions, un choc — est démonté jeton par jeton sur <a href="/recherche/logique-philosophique/systeme-en-formules/">Le système en formules</a>.</p>
+<p class="dp-renvoi">Ce raisonnement — deux définitions et leur incompatibilité — est décomposé pas à pas, en notation logique, sur <a href="/recherche/logique-philosophique/systeme-en-formules/">Le système en formules</a>.</p>
 </details>
 
 <details class="dp-pli" data-rang="détail">
 <summary class="dp-titre"><span class="dp-rang">l'enjeu</span><span class="dp-texte">Ce qu'une querelle de mathématiciens vient faire dans une morale</span></summary>
 <div class="dp-corps">
-<p>C'est ici que le pivot pivote. Suivez la chaîne :</p>
+<p>C'est ici que la thèse sur le nombre devient décisive. Suivez la chaîne :</p>
 <ul class="dp-liste">
-<li>Si le nombre est fini, une série effective de choses passées ne peut pas être infinie.</li>
+<li>Si tout nombre est fini, une série effective de choses passées ne peut pas être infinie.</li>
 <li>Donc le monde a commencé, et la série des causes s'arrête : il y a des <strong>causes premières</strong>.</li>
 <li>Une cause première n'est pas causée — sans quoi elle ne serait pas première.</li>
 <li>Donc quelque chose peut commencer sans être déterminé par ce qui précède.</li>
 <li>Donc le <strong>libre arbitre</strong> n'est pas une absurdité logique. Il devient possible ; restera à décider s'il est réel — ce sera l'affaire du Deuxième Essai, et il faudra trois cents pages.</li>
 </ul>
-<p>Tout le personnalisme de Renouvier — la liberté, la morale, la République, la critique des religions — pend à ce fil, et le fil est une thèse sur le nombre. Voilà pourquoi il ne cède pas d'un pouce là-dessus, et pourquoi ses adversaires ont toujours attaqué à cet endroit.</p>
+<p>Tout le personnalisme de Renouvier — la liberté, la morale, la République, la critique des religions — pend à ce fil, et le fil est une thèse sur le nombre. Voilà pourquoi il ne cède rien là-dessus, et pourquoi ses critiques — Couturat notamment, dans <em>De l'infini mathématique</em> (1896) — l'ont attaqué à cet endroit.</p>
 <div class="dp-note">
 <span class="dp-etiquette">Le rapport de force</span>
-<p>Renouvier écrit avant Cantor. La théorie des ensembles donnera plus tard un sens mathématique cohérent à l'infini actuel, et l'on a souvent cru que cela réglait son compte à Renouvier. Ce n'est pas si simple : sa thèse ne porte pas sur ce qu'on peut définir sans contradiction dans une théorie, mais sur ce qui peut être <em>donné</em>, réellement, dans une série de phénomènes. Le débat n'est pas clos — il a seulement changé de camp.</p>
+<p>Le Premier Essai paraît vingt ans avant les premiers travaux de Cantor (1874), et Renouvier ne le nomme dans aucune des œuvres transcrites ici, même quand il vise, en 1903, « les partisans actuels de cet infini ». La théorie des ensembles donnera plus tard un sens mathématique cohérent à l'infini actuel, et l'on a souvent cru que cela réglait son compte à Renouvier. Ce n'est pas si simple : sa thèse ne porte pas sur ce qu'on peut définir sans contradiction dans une théorie, mais sur ce qui peut être <em>donné</em>, réellement, dans une série de phénomènes. Le débat n'est pas clos : il s'est déplacé, des mathématiques vers la question de ce qui peut être réellement donné.</p>
 </div>
 </div>
 </details>
@@ -379,26 +379,26 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 </div>
 <div class="dp-note">
 <span class="dp-etiquette">Piège de vocabulaire</span>
-<p>Renouvier prévient lui-même en note : ses mots <em>objectif</em> et <em>subjectif</em> sont pris « dans un sens tout opposé à l'usage vulgaire ». Chez lui, ce sont les deux éléments internes de toute représentation, pas deux mondes. Si vous lisez avec le lexique kantien en tête, vous ne comprendrez rien — c'est le premier obstacle du livre, et il est purement lexical.</p>
+<p>Renouvier prévient lui-même en note : ses mots <em>objectif</em> et <em>subjectif</em> sont pris « dans un sens tout opposé à l'usage vulgaire ». Chez lui, ce sont les deux éléments internes de toute représentation, pas deux mondes. Si vous lisez avec le sens courant en tête, vous comprendrez à rebours : la vérité « objective » est chez lui l'« accord de la pensée avec elle-même », la vérité « subjective » l'« accord de la pensée avec les phénomènes hors d'elle » (t. II, p. 246).</p>
 </div>
-<p>De là vient l'énoncé qui commande tout le reste : <strong>il n'y a pas de chose en soi</strong>. Non par décret, mais par le pivot : une chose en soi serait un continu en soi, donc un nombre infini de parties en soi. Renouvier refait cette démonstration quatre fois de suite — pour l'espace, le temps, la matière, le mouvement <em>(ch. VIII à XI)</em>. C'est le même argument qui tourne quatre fois.</p>
+<p>De là vient l'énoncé qui commande tout le reste : <strong>il n'y a pas de chose en soi</strong>. Non par décret : pour l'espace, le temps, la matière et le mouvement, par le pivot — en soi, ils seraient des continus faits d'une infinité actuelle de parties <em>(ch. VIII à XI : le même argument quatre fois)</em> ; pour le reste, par l'analyse de la représentation <em>(ch. XII à XIV)</em>.</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="terme">
 <summary class="dp-titre"><span class="dp-rang">le mot</span><span class="dp-texte">lois</span></summary>
 <div class="dp-corps">
-<p>Si tout est phénomène, que reste-t-il à connaître ? Les liaisons constantes entre phénomènes. Renouvier enchaîne alors quatre définitions, et la quatrième est une bombe.</p>
+<p>Si tout est phénomène, que reste-t-il à connaître ? Les liaisons constantes entre phénomènes. Renouvier enchaîne alors quatre définitions, et la dernière renverse l'ontologie.</p>
 <div class="dp-cite">
 <p>Une <em>loi</em> est un <em>phénomène complexe</em> constamment impliqué dans d'autres <em>phénomènes</em>. […] Une <em>fonction</em> est une <em>loi</em>, considérée en tant que les variations de certains phénomènes composants entraînent des variations déterminées de certains autres. Un <em>être</em> est une fonction.</p>
 <span class="dp-source">Formulaire du Traité de logique générale</span>
 </div>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">En clair</span>
-<p>« Un être est une fonction. » Autrement dit : il n'y a pas de socle sous les apparences. Une pierre n'est pas une substance qui aurait des propriétés — c'est une régularité assez stable pour qu'on la traite comme une chose. <em>Être</em>, chez Renouvier, ce n'est pas un verbe d'existence : c'est le nom d'un nœud de rapports qui tient.</p>
-<p>Retenez la formule : elle vous attend au tournant. Le Deuxième Essai s'ouvrira sur « L'homme est une fonction particulière de toutes les fonctions données dans le monde ». Ce n'est pas une image. C'est la même définition, appliquée à vous.</p>
+<p>« Un être est une fonction. » Autrement dit : il n'y a pas de socle sous les apparences. Une pierre n'est pas une substance qui aurait des propriétés — c'est une régularité assez stable pour qu'on la traite comme une chose. <em>Un être</em>, chez Renouvier, n'est pas un support caché sous les phénomènes : c'est un ensemble de rapports assez stable pour recevoir un nom.</p>
+<p>Retenez la formule : elle vous attend au tournant. Le Formulaire du Deuxième Essai s'ouvrira sur « L'homme est une fonction particulière de toutes les fonctions données dans le monde ». Ce n'est pas une image. C'est la même définition, appliquée à vous.</p>
 </div>
-<p>Croire le contraire — croire qu'un mot abstrait désigne une chose qui existe à part — porte un nom chez lui, et le nom est méchant : <strong>le fétichisme en philosophie</strong>. C'est le titre du chapitre qui clôt la première partie <em>(ch. XV)</em>. La substance, l'absolu, l'infini, l'être en général : autant de fétiches, des mots qu'on a pris pour des dieux.</p>
+<p>Croire le contraire — croire qu'un mot abstrait désigne une chose qui existe à part — porte chez lui un nom polémique : <strong>le fétichisme en philosophie</strong>. C'est le titre du chapitre qui clôt la première partie <em>(ch. XV)</em>. La substance, l'absolu, l'infini, l'être en général : autant de fétiches, des mots qu'on a pris pour des dieux.</p>
 </div>
 </details>
 
@@ -429,7 +429,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <p>Les catégories sont : la relation (trois formes : <em>distinct, identique, déterminé</em>) ; le nombre (<em>un, multiple, tout</em>) ; la position (<em>point, espace, étendue</em>) ; la succession (<em>instant, temps, durée</em>) ; la qualité (<em>différence, genre, espèce</em>) ; le devenir (<em>rapport, non-rapport, changement</em>) ; la causalité (<em>acte, puissance, force</em>) ; la finalité (<em>état, tendance, passion</em>) ; la personnalité (<em>soi, non-soi, conscience</em>).</p>
 <span class="dp-source">Deuxième Essai, ch. I — De la nature humaine relativement aux catégories</span>
 </div>
-<p class="dp-chapo">Ces neuf lignes sont le squelette des chapitres XXVI à XL du Premier Essai. Vous venez de lire trois cents pages.</p>
+<p class="dp-chapo">Ces neuf lignes sont le squelette des chapitres XXVI à XL du Premier Essai. Vous venez de lire, en neuf lignes, près de huit cents pages.</p>
 
 <details class="dp-pli" data-rang="détail">
 <summary class="dp-titre"><span class="dp-rang">comment lire</span><span class="dp-texte">Ce que ces neuf lignes veulent dire</span></summary>
@@ -441,7 +441,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 </div>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">La conséquence, qui est terrible pour la métaphysique</span>
-<p>Les mots par lesquels la philosophie a toujours cru toucher le fond — <strong>l'un, le simple, l'infini, l'absolu</strong> — sont des termes de gauche isolés de leur contraire. Pris seuls, ils ne désignent rien. Ce ne sont pas des objets difficiles : ce sont des moitiés de rapport à qui l'on a coupé l'autre moitié.</p>
+<p>Les mots par lesquels la philosophie a toujours cru toucher le fond — <strong>l'un, le simple, l'infini, l'absolu</strong> — sont des termes qui n'ont de sens que par corrélation à leurs contraires, et qu'on prend isolément. Pris seuls, ils ne désignent rien. Ce ne sont pas des objets difficiles : ce sont des moitiés de rapport à qui l'on a coupé l'autre moitié.</p>
 </div>
 <div class="dp-cite">
 <p>Les termes les plus généraux et les plus abstraits, à l'aide desquels on essaye de surmonter les rapports : l'un, le simple, l'infini, l'absolu, ne sont eux-mêmes représentés que par corrélation à des termes contraires, et séparément ne sont aucune chose et n'en qualifient aucune.</p>
@@ -455,14 +455,14 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <details class="dp-pli" data-rang="détail">
 <summary class="dp-titre"><span class="dp-rang">le seuil</span><span class="dp-texte">Pourquoi cinq d'un côté et quatre de l'autre</span></summary>
 <div class="dp-corps">
-<p>Les neuf catégories ne sont pas à égalité, et Renouvier le dit dans un passage que personne ne cite. Il y a une coupure après la cinquième.</p>
+<p>Les neuf catégories ne sont pas à égalité, et Renouvier le dit dans un passage peu remarqué. Il y a une coupure après la cinquième.</p>
 <div class="dp-cite">
 <p>Otée l'une quelconque des cinq premières catégories, rien de représenté ne subsiste. […] Les autres catégories, le Devenir, la Causalité, la Finalité, la Personnalité, ne s'appliquent pas toujours et d'une manière immédiate à tout sujet qu'on se représente ; mais il n'est pas de fonction représentative, objective, à laquelle elles ne soient inhérentes.</p>
 <span class="dp-source">Deuxième Essai, ch. I</span>
 </div>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">En clair</span>
-<p>Les <strong>cinq premières</strong> font la chose : sans relation, sans nombre, sans lieu, sans date, sans genre, il n'y a pas d'objet du tout. Les <strong>quatre dernières</strong> ne sont pas toujours dans l'objet — un caillou ne poursuit pas de fin — mais elles sont toujours dans <em>l'acte</em> de se le représenter : pour penser quoi que ce soit, il faut durer, vouloir, viser, et être quelqu'un.</p>
+<p>Les <strong>cinq premières</strong> font la chose : sans relation, sans nombre, sans lieu, sans date, sans genre, il n'y a pas d'objet du tout. Les <strong>quatre dernières</strong> ne sont pas toujours dans l'objet — un caillou ne poursuit pas de fin — mais elles sont toujours dans <em>l'acte</em> de se le représenter : pour penser quoi que ce soit, il faut changer, agir, viser, et être quelqu'un.</p>
 <p>Les cinq premières sont du côté de ce qui est vu. Les quatre dernières sont du côté de celui qui voit. C'est pourquoi la personnalité est la neuvième : elle est le bout de cette pente, et non un ajout.</p>
 </div>
 </div>
@@ -475,7 +475,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <ul class="dp-liste">
 <li><strong>L'origine.</strong> Kant lit ses catégories dans une table de logique héritée. Renouvier les obtient par analyse de la représentation, et il avoue le procédé sans fard : « J'arrive aux catégories empiriquement ; je les fixe par hypothèse, et je les propose pour être vérifiées. »</li>
 <li><strong>L'unité.</strong> Chez Kant, quatre familles hétérogènes. Chez Renouvier, une seule racine — la relation — dont les huit autres sont des espèces.</li>
-<li><strong>L'ajout.</strong> Renouvier en a une que Kant n'a pas : <strong>la personnalité</strong>. Elle n'est pas la dernière par hasard.</li>
+<li><strong>La nouveauté.</strong> Plusieurs de ses catégories manquent chez Kant — la position et la succession, qui étaient chez lui des formes de l'intuition, le devenir, la finalité —, et la plus lourde de conséquences est <strong>la personnalité</strong>. Elle n'est pas la dernière par hasard.</li>
 </ul>
 <div class="dp-cite">
 <p>Sous un autre point de vue, celui de l'homme, nécessairement imposé à l'homme, la loi de <em>personnalité</em> est encore une loi universelle. Tout, pour nous, est relatif à la <em>conscience</em>.</p>
@@ -483,7 +483,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 </div>
 <div class="dp-note">
 <span class="dp-etiquette">Pourquoi c'est décisif</span>
-<p>Il y a donc deux catégories universelles, pas une : la <em>relation</em>, sous le point de vue des choses ; la <em>personnalité</em>, sous le point de vue de l'homme. Les sept autres se rangent entre elles. En faisant de la conscience une catégorie — une condition de toute représentation, et non un objet parmi d'autres — Renouvier a déjà écrit la conclusion de son œuvre entière : le <strong>personnalisme</strong>. Le mot viendra quarante ans plus tard ; la chose est ici, dans une liste de neuf.</p>
+<p>Il y a donc deux catégories universelles, pas une : la <em>relation</em>, sous le point de vue des choses ; la <em>personnalité</em>, sous le point de vue de l'homme. Les sept autres se rangent entre elles. En faisant de la conscience une catégorie — une condition de toute représentation, et non un objet parmi d'autres — Renouvier a déjà écrit la conclusion de son œuvre entière : le <strong>personnalisme</strong>. Le mot ne deviendra le nom de la doctrine qu'en 1903 ; la chose est ici, dans une liste de neuf.</p>
 </div>
 </div>
 </details>
@@ -495,12 +495,12 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <div class="dp-corps">
 <p>Voici ce qu'aucun sommaire ne montre, et qui fait des quatre Essais un seul livre. Les neuf catégories ne sont pas un chapitre de l'œuvre : elles en sont <strong>l'unique outil</strong>. Une fois monté, il ne changera plus. Tout le reste consiste à l'appliquer, dans l'ordre, à quatre objets de plus en plus concrets.</p>
 <ul class="dp-liste">
-<li><strong>Au monde pris comme un tout</strong> — quatrième partie du Premier Essai. L'outil casse. Neuf fois.</li>
+<li><strong>Au monde pris comme un tout</strong> — quatrième partie du Premier Essai. L'outil casse, à chaque catégorie.</li>
 <li><strong>À l'homme</strong> — première partie du Deuxième Essai. L'outil tient. Neuf fois.</li>
 <li><strong>À la nature</strong> — Troisième Essai. L'être, la matière, la vie, l'espèce, l'origine.</li>
 <li><strong>À l'histoire</strong> — Quatrième Essai. Là où l'interdit logique devient un interdit historiographique.</li>
 </ul>
-<p>Les deux premières applications se répondent ligne à ligne. C'est le <strong>double miroir</strong>, et il est reconstitué ici pour la première fois à partir des deux tables que Renouvier a laissées : celle des neuf échecs, à la fin du Premier Essai ; celle des neuf fonctions, dans le <em>Formulaire</em> du Deuxième.</p>
+<p>Les deux premières applications se répondent catégorie par catégorie. C'est le <strong>double miroir</strong>, reconstitué ici à partir des deux tables que Renouvier a laissées : celle des échecs, à la fin du Premier Essai (huit articles, l'étendue et la durée réunies) ; celle des neuf fonctions, dans le <em>Formulaire</em> du Deuxième (dans un ordre un peu différent). Le tableau les aligne.</p>
 <div class="dp-cadre">
 <table class="dp-miroir dp-double">
 <thead><tr><th>Catégorie</th><th class="dp-tete-non">Sur le monde, elle échoue</th><th class="dp-tete-oui">Sur l'homme, elle donne</th></tr></thead>
@@ -508,9 +508,9 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <tr><td>Relation</td><td class="dp-non">Le tout n'est le terme d'aucun rapport.</td><td class="dp-oui">Comparaison, Attention, Réflexion</td></tr>
 <tr><td>Nombre</td><td class="dp-non">Les phénomènes font un nombre, que nul ne peut compter.</td><td class="dp-oui">Numération</td></tr>
 <tr><td>Position</td><td class="dp-non">Le monde est mesuré, il n'est pas mesurable.</td><td class="dp-oui">Imagination</td></tr>
-<tr><td>Succession</td><td class="dp-non">Un passé infini est contradictoire : il y eut un commencement, et il est inexplicable.</td><td class="dp-oui">Mémoire, Prévision</td></tr>
+<tr><td>Succession</td><td class="dp-non">Traitée avec l'étendue : le monde est mesuré dans la durée, il n'est pas mesurable.</td><td class="dp-oui">Mémoire, Prévision</td></tr>
 <tr><td>Qualité</td><td class="dp-non">Le tout enveloppe tous les genres : aucun ne le spécifie.</td><td class="dp-oui">Raison, Jugement, Raisonnement</td></tr>
-<tr><td>Devenir</td><td class="dp-non">Le monde devient, mais on ne peut comparer le monde au monde.</td><td class="dp-oui">Pensée</td></tr>
+<tr><td>Devenir</td><td class="dp-non">Le monde devient, mais on ne peut comparer le monde au monde ; il a commencé, et ce commencement est inexplicable.</td><td class="dp-oui">Pensée</td></tr>
 <tr><td>Causalité</td><td class="dp-non">Il faut des causes premières ; on n'en peut rien dire.</td><td class="dp-oui">Volonté</td></tr>
 <tr><td>Finalité</td><td class="dp-non">Ni premier but ni but dernier ne sont assignables.</td><td class="dp-oui">Passion, Instinct, Habitude</td></tr>
 <tr><td>Personnalité</td><td class="dp-non">Une conscience du tout cesserait d'être une conscience.</td><td class="dp-oui">Liberté</td></tr>
@@ -522,14 +522,14 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <p>Le même outil, la même neuvième pièce. Sur le monde, elle interdit : il ne peut pas y avoir de conscience du tout, car une conscience qui envelopperait tout n'aurait plus de non-soi, et cesserait donc d'être une conscience. Sur l'homme, elle donne : la personnalité, c'est-à-dire la <strong>liberté</strong>.</p>
 <p>Voilà Renouvier en une phrase, et voilà pourquoi les quatre Essais forment un tout : <strong>la connaissance échoue sur le tout et réussit sur la personne.</strong> Le monde n'a pas de sommet ; il a des personnes. Le personnalisme n'est pas une doctrine que Renouvier aurait ajoutée à sa logique — c'est ce qui reste quand la logique a fini de démolir.</p>
 </div>
-<p class="dp-chapo">La colonne de gauche est en gris parce qu'elle dit non. Celle de droite est la seule chose que Renouvier ait jamais eu à gagner.</p>
+<p class="dp-chapo">La colonne de gauche, en gris, énumère des impossibilités ; celle de droite, ce que l'analyse de l'homme établit.</p>
 
 <details class="dp-pli" data-rang="détail">
 <summary class="dp-titre"><span class="dp-rang">la table</span><span class="dp-texte">D'où viennent ces deux colonnes</span></summary>
 <div class="dp-corps">
-<p>Aucune des deux n'est de moi. Elles sont chacune dans un <em>Formulaire</em>, et il suffisait de les mettre côte à côte.</p>
-<p>À gauche : la dernière section du <em>Formulaire du Traité de logique générale</em> énumère les échecs de la synthèse totale, numérotés « 1° à l'égard de la relation… 2° à l'égard de la totalité… », dans l'ordre exact des chapitres XLII à LIII du tome III.</p>
-<p>À droite : la section A du <em>Formulaire du Traité de Psychologie rationnelle</em> énumère les fonctions humaines, numérotées de 1 à 9, chacune sous le nom de sa catégorie. On y lit textuellement « 1. Relation : <em>Comparaison, Attention, Réflexion</em> », « 3. Position : <em>Imagination</em> », « 4. Succession : <em>Mémoire</em> », et pour finir « 9. Personnalité : <em>Liberté</em> ».</p>
+<p>Aucune des deux n'est de l'éditeur. Elles sont chacune dans un <em>Formulaire</em>, et il suffisait de les mettre côte à côte.</p>
+<p>À gauche : la dernière section du <em>Formulaire du Traité de logique générale</em> énumère les huit échecs de la synthèse totale (l'étendue et la durée réunies au 3°), numérotés « 1° à l'égard de la relation… 2° à l'égard de la totalité… », dans l'ordre exact des chapitres XLII à LIII du tome III.</p>
+<p>À droite : la section A du <em>Formulaire du Traité de Psychologie rationnelle</em> énumère les fonctions humaines, numérotées de 1 à 9, chacune sous le nom de sa catégorie — à deux nuances près : le nombre y devient « Quantité », et l'ordre change (5. Devenir, 6. Qualité, 7. Finalité, 8. Causalité). On y lit textuellement « 1. Relation : <em>Comparaison, Attention, Réflexion</em> », « 3. Position : <em>Imagination</em> », « 4. Succession : <em>Mémoire</em> », et pour finir « 9. Personnalité : <em>Liberté</em> ».</p>
 <div class="dp-cite">
 <p>La conscience des phénomènes comme limités, écartés d'espace et déterminés d'étendue, est l'<em>Imagination</em>.</p>
 <span class="dp-source">Formulaire du Traité de Psychologie rationnelle, A, 3</span>
@@ -564,7 +564,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 </div>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">La soudure</span>
-<p>Le Troisième Essai s'achève sur « L'origine de l'homme » et « Les origines premières et morales ». Le Quatrième s'ouvre sur « Des commencements de l'humanité ». Il n'y a pas de couture : le troisième livre dépose l'homme au seuil, le quatrième le fait entrer. Quatre volumes séparés de dix à quarante ans, et pas un centimètre de jeu.</p>
+<p>Le Troisième Essai s'achève sur « L'origine de l'homme » et « Les origines premières et morales ». Le Quatrième, après un plan d'études (§ I), s'ouvre sur « Des commencements de l'humanité » (§ II). Il n'y a pas de couture : le troisième livre dépose l'homme au seuil, le quatrième le fait entrer. Quatre livres parus en dix ans, de 1854 à 1864, et l'enchaînement est exact.</p>
 </div>
 </div>
 </details>
@@ -574,9 +574,9 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <details class="dp-pli" data-rang="terme">
 <summary class="dp-titre"><span class="dp-rang">le miroir</span><span class="dp-texte">limite extrême de la connaissance</span></summary>
 <div class="dp-corps">
-<p>C'est le titre de la quatrième et dernière partie du Premier Essai, et Renouvier y met sa question en sous-titre, comme on pose un couteau sur une table :</p>
+<p>C'est le titre de la quatrième et dernière partie du Premier Essai, et Renouvier y met sa question en sous-titre :</p>
 <p class="dp-epigraphe">Une synthèse unique et totale des phénomènes est-elle possible ?</p>
-<p><strong>La quatrième partie est le miroir de la troisième.</strong> La troisième construit les neuf catégories, une par une. La quatrième les reprend <em>dans le même ordre</em> et les applique au monde entier. Neuf fois, neuf échecs.</p>
+<p><strong>La quatrième partie est le miroir de la troisième.</strong> La troisième construit les neuf catégories, une par une. La quatrième les reprend <em>dans le même ordre</em> et les applique au monde entier. Une catégorie après l'autre, un échec après l'autre.</p>
 <div class="dp-cadre">
 <table class="dp-miroir">
 <thead><tr><th>Catégorie</th><th>Construite en III</th><th>Appliquée au monde en IV</th></tr></thead>
@@ -601,20 +601,20 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <details class="dp-pli" data-rang="détail">
 <summary class="dp-titre"><span class="dp-rang">le coup</span><span class="dp-texte">Là où Renouvier cesse de continuer Kant</span></summary>
 <div class="dp-corps">
-<p>Tout le monde connaît les antinomies de Kant : quatre couples de propositions contraires — le monde a un commencement / il n'en a pas — dont Kant établit que <em>la thèse et l'antithèse sont également démontrables</em>. De cette égalité insoluble, il tire l'idéalisme transcendantal.</p>
-<p>Renouvier tient cette égalité pour une erreur. C'est son seul coup de force, mais il porte :</p>
+<p>On connaît les antinomies de Kant : quatre couples de propositions contraires — le monde a un commencement / il n'en a pas — dont Kant établit que <em>la thèse et l'antithèse sont également démontrables</em>. De cette égalité insoluble, il tire une preuve indirecte de l'idéalisme transcendantal.</p>
+<p>Renouvier tient cette égalité pour une erreur, et c'est là qu'il rompt avec Kant :</p>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">L'antinomie se tranche</span>
 <p>Thèse et antithèse ne sont pas à égalité. La thèse (fini, commencement, nombre déterminé) est simplement vraie. L'antithèse (infini en acte) est <strong>contradictoire</strong> — ce n'est pas une seconde démonstration, c'est un énoncé qui ne veut rien dire. En accordant à l'infini la même dignité logique qu'au fini, Kant s'est laissé prendre à un fétiche, et il a bâti son idéalisme sur une balance faussée.</p>
 </div>
-<p>Le chapitre XLII et ses observations portent un titre sans ambiguïté : <em>Réfutation des antinomies kantiennes</em>. Renouvier montre au passage que ses propres catégories ne produisent, elles, aucune antinomie : leurs deux termes contraires étant abstraits et corrélatifs, ils ne s'appliquent jamais séparément à rien, et ne peuvent donc pas se contredire.</p>
+<p>Les Observations du chapitre XLII s'ouvrent sur un titre sans ambiguïté : <em>Réfutation des antinomies kantiennes</em>. Renouvier montre au passage que ses propres catégories ne produisent, elles, aucune antinomie : leurs deux termes contraires étant abstraits et corrélatifs, ils ne s'appliquent jamais séparément à rien, et ne peuvent donc pas se contredire.</p>
 <div class="dp-cite">
-<p>[…] les catégories, par elles-mêmes, ne conduisent point à l'antinomie […]. Mais elles ne subsistent que parce qu'on se refuse à borner la science à la considération des relatifs.</p>
+<p>[…] les catégories, par elles-mêmes, ne conduisent point à l'antinomie […]. D'autres antinomies semblent résulter de la tentative de détermination de la <em>chose en général</em> […]. Mais elles ne subsistent que parce qu'on se refuse à borner la science à la considération des relatifs.</p>
 <span class="dp-source">Formulaire du Traité de logique générale</span>
 </div>
 <p>Voilà toute l'affaire : les antinomies ne sont pas une fatalité de la raison, elles sont la punition d'une ambition. Elles ne surgissent que si l'on veut connaître le tout. Renoncez à cela, et la raison redevient cohérente.</p>
 </div>
-<p class="dp-renvoi">Les neuf échecs tiennent en un lemme — le Tout n'a pas de vis-à-vis — formalisé sur <a href="/recherche/logique-philosophique/systeme-en-formules/">Le système en formules</a>.</p>
+<p class="dp-renvoi">Les échecs de la synthèse totale tiennent en un lemme — le Tout n'a pas de vis-à-vis — formalisé sur <a href="/recherche/logique-philosophique/systeme-en-formules/">Le système en formules</a>.</p>
 </details>
 </div>
 </details>
@@ -622,7 +622,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <details class="dp-pli" data-rang="terme">
 <summary class="dp-titre"><span class="dp-rang">le mot</span><span class="dp-texte">liberté</span></summary>
 <div class="dp-corps">
-<p>La neuvième pièce de la machine, appliquée à l'homme. C'est le sommet du Deuxième Essai, et le seul endroit de l'œuvre où Renouvier doit décider au lieu de démontrer.</p>
+<p>La neuvième pièce de la machine, appliquée à l'homme. C'est le sommet du Deuxième Essai, et le premier endroit de l'œuvre où Renouvier doit décider au lieu de démontrer.</p>
 <p>Car il commence par saborder l'argument que tout le monde attend :</p>
 <div class="dp-cite">
 <p>On voit à quel point se trompent les philosophes qui regardent la liberté humaine comme un fait d'expérience. Si cela était, en disputerait-on ? Qui jamais a contesté l'existence d'un fait sensible en le sentant ?</p>
@@ -631,16 +631,16 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Le nœud, qui est vertigineux</span>
 <p>Si je suis libre, c'est librement que je juge être libre — donc mon jugement ne prouve rien. Si je suis déterminé, c'est nécessairement que je juge, vrai ou faux — donc mon jugement ne prouve rien non plus. Renouvier l'écrit sans ciller : « c'est à la liberté qu'il appartient de déclarer si la liberté est ou non ».</p>
-<p>Aucune preuve n'est possible, ni pour, ni contre. Il faut donc <em>choisir</em> — et ce choix est le premier acte libre, celui qui fonde tous les autres. La liberté ne se démontre pas : elle s'affirme, et l'affirmation est déjà son exercice.</p>
+<p>Aucune preuve n'est possible, ni pour, ni contre. Il faut donc <em>choisir</em> — et ce choix est lui-même un acte libre. La liberté ne se démontre pas : elle s'affirme, et l'affirmation est déjà son exercice.</p>
 </div>
-<p>De là le renversement du plan : la certitude n'est pas le point de départ de la philosophie, c'en est le terme. Renouvier l'annonce dès la troisième page du Premier Essai, vingt ans avant d'y arriver :</p>
+<p>De là le renversement du plan : la certitude n'est pas le point de départ de la philosophie, c'en est le terme. Renouvier l'annonce dès la troisième page du Premier Essai ; c'est le Deuxième, cinq ans plus tard, qui tiendra la promesse :</p>
 <div class="dp-cite">
 <p>Le chapitre de la certitude n'a pas sa place marquée dans ce <em>traité</em>. Il formera contre tout usage, mais en toute raison, la clef de voûte d'un édifice qu'il s'agit de fonder […] ; il n'en sera pas la première pierre.</p>
 <span class="dp-source">Premier Essai, ch. I</span>
 </div>
 <div class="dp-note">
 <span class="dp-etiquette">Et même la statistique ne donne qu'une probabilité — il le dit</span>
-<p>Le chapitre s'adosse à une Observation entière — première pièce que cette page prélève dans les <em>Observations et développements</em>, comme promis. L'argument : le hasard a une signature, la loi des grands nombres, et cette signature est précisément l'<em>absence</em> de loi individuelle. Des actes libres la porteraient. Mais lisez le verdict jusqu'au bout :</p>
+<p>Le chapitre s'adosse à une Observation entière — pièce prélevée dans les <em>Observations et développements</em>, que cette page n'ouvre qu'exceptionnellement. L'argument : le hasard a une signature, la loi des grands nombres, et cette signature est précisément l'<em>absence</em> de loi individuelle. Des actes libres la porteraient. Mais lisez le verdict jusqu'au bout :</p>
 <div class="dp-cite">
 <p>[…] les applications du calcul des probabilités sont par elles-mêmes une vérification <em>probable</em> de l'existence effective de la liberté. La loi des grands nombres est la loi des faits qui ne reconnaissent point d'autre loi.</p>
 <span class="dp-source">Deuxième Essai, ch. XIII, Observations et développements, A — De l'interprétation de la loi dite des <em>grands nombres</em></span>
@@ -651,14 +651,14 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <span class="dp-etiquette">Descartes à l'envers</span>
 <p>Descartes commence par la certitude ; Renouvier finit par elle. Sa raison est imparable : chercher d'abord la certitude, ce serait juger de la valeur de la raison avant d'avoir examiné la raison. La certitude n'est pas le sol : c'est le toit. Et le toit, une fois posé, s'appelle la liberté.</p>
 </div>
-<p>Et c'est ici, dans les <em>Observations</em> du chapitre XIV — sous les titres « La philosophie de Jules Lequier » puis « Comment trouver, comment chercher une première vérité ? » —, que Renouvier a publié les fragments de son ami noyé, à qui il devait l'idée que la liberté doit être choisie. Le texte le plus abrupt du siècle sur la liberté a été sauvé de l'oubli dans les notes de bas de page d'un traité de psychologie.</p>
+<p>Et c'est ici, dans les <em>Observations</em> du chapitre XIV — sous les titres « La philosophie de Jules Lequier » puis « Comment trouver, comment chercher une première vérité ? » —, puis dans celles du chapitre XVII, que Renouvier a publié les fragments de son ami Jules Lequier, mort en 1862, à qui il devait l'idée que la liberté doit être choisie. En 1859, ces pages tenaient dans une note ; la seconde édition leur donne place à la suite des chapitres.</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="terme">
 <summary class="dp-titre"><span class="dp-rang">le mot</span><span class="dp-texte">croyance</span></summary>
 <div class="dp-corps">
-<p>Ici, presque tous les lecteurs se trompent, et dans le même sens. On croit lire : <em>la raison s'arrête, donc croyez ce qu'il vous plaît.</em> C'est le contraire.</p>
+<p>Ici, le contresens est fréquent, et toujours le même. On croit lire : <em>la raison s'arrête, donc croyez ce qu'il vous plaît.</em> C'est le contraire.</p>
 <div class="dp-cite">
 <p>Les bornes de la connaissance ainsi reconnues, deux choses restent intactes. Ce sont d'abord les croyances, qui, sans prétendre dépasser ces bornes en s'obstinant dans l'affirmation d'objets que la raison a déclarés contradictoires, demeurent libres de s'étendre au delà et bien loin de ce que l'analyse peut ou pourra jamais atteindre.</p>
 <span class="dp-source">Formulaire du Traité de logique générale</span>
@@ -666,9 +666,9 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">La règle, en une ligne</span>
 <p>La croyance est libre là où la raison <strong>ne démontre pas</strong>. Elle est interdite là où la raison <strong>démontre une contradiction</strong>.</p>
-<p>Ce n'est pas un partage de territoire, c'est une hiérarchie. La raison ne se retire pas : elle trace la frontière, et elle en garde un côté. Un Dieu infini en acte est proscrit — non parce qu'il déplaît, parce qu'il ne veut rien dire. Une pluralité de consciences premières, en revanche, est permise, et Renouvier y croira.</p>
+<p>Ce n'est pas un partage de territoire, c'est une hiérarchie. La raison ne se retire pas : elle trace la frontière, et elle en garde un côté. Un Dieu infini en acte est proscrit — non parce qu'il déplaît, parce qu'il ne veut rien dire. Une pluralité de consciences premières, en revanche, est permise : Renouvier jugera d'abord qu'elle « semble » la seule hypothèse rationnelle, avant de l'abandonner en 1886.</p>
 </div>
-<p>C'est tout le programme de la troisième partie du Deuxième Essai, dont le titre énumère ce qui reste debout : <em>Les probabilités touchant l'ordre moral du monde. L'immortalité, la liberté, la divinité.</em> Les trois postulats de Kant, repris un à un — mais cette fois sans chose en soi, sans infini, et par des probabilités morales au lieu d'une raison pratique posée d'autorité. Renouvier va jusqu'à écrire un chapitre entier intitulé <em>Examen des thèses de la raison pratique de Kant</em>, et un autre <em>Des hypothèses rationnelles sur la nature de Dieu</em>.</p>
+<p>C'est tout le programme de la troisième partie du Deuxième Essai, dont le titre énumère ce qui reste debout : <em>Les probabilités touchant l'ordre moral du monde. L'immortalité, la liberté, la divinité.</em> Les trois postulats de Kant, repris un à un — mais cette fois sans chose en soi, sans infini, et sous forme de probabilités morales plutôt que de postulats nécessaires. Renouvier va jusqu'à écrire un chapitre entier intitulé <em>Examen des thèses de la raison pratique de Kant</em>, et un autre <em>Des hypothèses rationnelles sur la nature de Dieu</em>.</p>
 <div class="dp-note">
 <span class="dp-etiquette">Un Dieu qui n'est pas infini</span>
 <p>La conclusion est parmi les plus étranges du siècle, et elle suit du pivot comme le reste : puisque l'infini en acte est contradictoire, un Dieu infini est contradictoire. Reste un Dieu fini — « la personne divine est ainsi soustraite aux attributs infinis que la métaphysique appelait des <em>perfections</em> et qui la détruisaient. Mais la vraie <em>perfection</em> lui reste […] : la perfection de justice et de bonté ». Renouvier ajoute que rien alors ne prouve plus l'unité de Dieu plutôt que sa pluralité. Un traité de logique de 1854 aboutit, en 1875, à rendre le polythéisme rationnellement recevable.</p>
@@ -692,33 +692,33 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <p>La quatrième partie du Premier Essai a interdit la <strong>synthèse totale</strong> : on ne peut pas connaître le tout. Or que fait une philosophie de l'histoire, chez Bossuet, chez Vico, chez Hegel, chez Comte ? Elle fait exactement la synthèse totale de l'histoire humaine : un plan, un sens, une fin. Elle est donc interdite — non par goût, par la même démonstration.</p>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Le titre est une conséquence</span>
-<p>Le Quatrième Essai s'appelle <em>Introduction à la philosophie <strong>analytique</strong> de l'histoire</em>. Ce mot n'est pas un ornement : il est l'exact opposé de <em>synthétique</em>. Renouvier ne peut pas faire de philosophie synthétique de l'histoire, puisqu'il a démontré au tome III du Premier Essai que la synthèse totale est impossible. L'interdit logique est devenu, mot pour mot, un interdit historiographique.</p>
+<p>Le Quatrième Essai s'appelle <em>Introduction à la philosophie <strong>analytique</strong> de l'histoire</em>. Ce mot n'est pas un ornement : il est l'exact opposé de <em>synthétique</em>. Renouvier ne peut pas faire de philosophie synthétique de l'histoire, puisqu'il a démontré, dans la quatrième partie du Premier Essai, que la synthèse totale est impossible. L'interdit logique devient un interdit de méthode en histoire.</p>
 </div>
-<p>Il annonce d'ailleurs sa méthode par ce qu'il refuse, et la liste des refus est la vraie table des matières :</p>
+<p>Il annonce d'ailleurs sa méthode par ce qu'il refuse :</p>
 <div class="dp-cite">
 <p>Traitée dans un système apriorique, elle défigure les faits, ou elle les dédaigne ; elle en rejette et elle en interpole, afin de disposer plus commodément les autres en série.</p>
 <span class="dp-source">Quatrième Essai, § I</span>
 </div>
-<p>Deux façons de manquer l'histoire : sans idée, ou avec une idée d'avance. La voie étroite entre les deux, c'est l'analyse — des faits établis, des inductions tirées de ce que la personne humaine a de constant, et rien de plus.</p>
+<p>Deux façons de manquer l'histoire : sans critique, ou avec un système fixé d'avance. La voie étroite entre les deux, c'est l'analyse — des faits établis, des inductions tirées de ce que la personne humaine a de constant, et rien de plus.</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="terme">
 <summary class="dp-titre"><span class="dp-rang">l'escalier</span><span class="dp-texte">formulaire</span></summary>
 <div class="dp-corps">
-<p>Voici la trouvaille, et elle est de Renouvier. À la charnière de chaque Essai, il a placé un texte qui replie le précédent en propositions nues — sans preuves, sans exemples, sans polémique. Il appelle cela un <strong>formulaire</strong>. Et il les a déplacés, réédités, corrigés pendant trente ans.</p>
+<p>Voici la trouvaille, et elle est de Renouvier. Aux deux premières charnières de l'œuvre, il a placé un texte qui replie l'Essai précédent en propositions nues — sans preuves, sans exemples, sans polémique. Il appelle cela un <strong>formulaire</strong>. Et il les a déplacés, réédités, corrigés pendant trente ans.</p>
 <div class="dp-escalier">
 <div class="dp-marche"><span class="dp-marche-num">Essai I</span><span>Traité de logique générale — 3 tomes, 54 chapitres</span></div>
-<div class="dp-marche dp-marche--pli"><span class="dp-marche-num">le pli</span><span>Formulaire du Traité de logique générale — 30 pages. En tête du Deuxième Essai en 1859 ; déplacé à la fin du Premier en 1875.</span></div>
+<div class="dp-marche dp-marche--pli"><span class="dp-marche-num">le pli</span><span>Formulaire du Traité de logique générale — 23 pages (t. III, p. 269-291). En tête du Deuxième Essai en 1859 ; déplacé à la fin du Premier en 1875.</span></div>
 <div class="dp-marche"><span class="dp-marche-num">Essai II</span><span>Traité de psychologie rationnelle — 3 tomes, 25 chapitres</span></div>
 <div class="dp-marche dp-marche--pli"><span class="dp-marche-num">le pli</span><span>Formulaire du Traité de Psychologie rationnelle — sections A, B, C, D. Trois éditions : en tête du Troisième Essai en 1864 ; à la fin du Deuxième en 1875 ; <em>et</em> de nouveau en tête du Troisième en 1892, où Renouvier signale ses propres repentirs en note.</span></div>
 <div class="dp-marche"><span class="dp-marche-num">Essai III</span><span>Les Principes de la nature — 2 tomes, 12 chapitres</span></div>
-<div class="dp-marche dp-marche--pli"><span class="dp-marche-num">le pli</span><span>« I. Résumé. Plan. » — où les trois premiers Essais sont récapitulés et l'homme déposé au seuil de l'histoire.</span></div>
+<div class="dp-marche dp-marche--pli"><span class="dp-marche-num">le pli</span><span>« I. Résumé. Plan. » — ouverture du Troisième Essai : les deux premiers y sont récapitulés, le troisième annoncé jusqu'au « seuil même de l'histoire ». Ce n'est pas un formulaire, et le Quatrième n'en a pas.</span></div>
 <div class="dp-marche"><span class="dp-marche-num">Essai IV</span><span>Introduction à la philosophie analytique de l'histoire — 32 paragraphes</span></div>
 </div>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Ce que ça veut dire pour cette page</span>
-<p>Le niveau intermédiaire d'un dépliant — le palier entre le titre et le livre — n'a pas eu à être inventé ici. <strong>Il existe, verbatim, de la main de l'auteur.</strong> Renouvier a plié ses propres livres, et il a rangé les plis aux charnières, là où l'on ne va jamais : à la fin des tomes, avant les notes.</p>
+<p>Le niveau intermédiaire d'un dépliant — le palier entre le titre et le livre — n'a pas eu à être inventé ici. <strong>Pour les deux premiers Essais, il est de la main de l'auteur.</strong> Renouvier a plié ses propres livres et rangé les plis aux charnières, là où on les cherche rarement : à la fin des tomes, avant les notes.</p>
 </div>
 
 <details class="dp-pli" data-rang="détail">
@@ -732,7 +732,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <p>« Où sa place se trouvait naturellement marquée ». En 1859, le résumé du premier livre servait de porte d'entrée au second. En 1875, Renouvier le renvoie à la fin du premier. Le pli n'a pas changé de contenu : il a changé de charnière.</p>
 <div class="dp-note">
 <span class="dp-etiquette">Et le pli suivant existe en deux états</span>
-<p>Le <em>Formulaire du Traité de Psychologie rationnelle</em> ouvrait le Troisième Essai en 1864 ; il clôt le Deuxième en 1875 ; il rouvre le Troisième en 1892, sous le titre <em>Introduction — Résumé des principes de la psychologie rationnelle</em>, avec les mêmes quatre sections et la même première phrase. <strong>Trois états du même texte, sur vingt-huit ans.</strong> Les deux derniers sont identiques à 94,3 % au mot — l'écart tient en 599 mots, soit 3,7 %. Et Renouvier signale en note qu'il corrige là « cette troisième édition du résumé de mes <em>Essais</em> », qu'il a mis une conclusion « sous une forme dubitative » et en a ajouté une autre, « plus avancée dans le sens des postulats ».</p>
+<p>Le <em>Formulaire du Traité de Psychologie rationnelle</em> ouvrait le Troisième Essai en 1864 ; il clôt le Deuxième en 1875 ; il rouvre le Troisième en 1892, sous le titre <em>Introduction — Résumé des principes de la psychologie rationnelle</em>, avec les mêmes quatre sections et la même première phrase. <strong>Trois états du même texte, sur vingt-huit ans.</strong> Les deux derniers concordent à 94,3 % au mot ; l'état de 1892 compte 599 mots de plus que celui de 1875 (16 811 contre 16 212). Et Renouvier signale en note qu'il corrige là « cette troisième édition du résumé de mes <em>Essais</em> », qu'il a mis une conclusion « sous une forme dubitative » et en a ajouté une autre, « plus avancée dans le sens des postulats ».</p>
 <p>Autrement dit : <strong>le palier a une histoire, et elle est datée.</strong> On peut lire le même résumé à trois âges et voir un homme changer d'avis sur Dieu, en note. C'est l'objet d'une page voisine, <a href="../evolution/">Comment je suis arrivé à cette conclusion</a>.</p>
 </div>
 </div>
@@ -748,17 +748,17 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <details class="dp-pli" data-rang="essai">
 <summary class="dp-titre"><span class="dp-rang">Essai I · 1854 / 1875</span><span class="dp-texte">Traité de logique générale et de logique formelle</span></summary>
 <div class="dp-corps">
-<p class="dp-chapo">Trois tomes, cinquante-quatre chapitres, quatre parties. C'est le socle : les trois autres Essais en dépendent, et lui ne dépend de rien.</p>
+<p class="dp-chapo">Trois tomes, cinquante-quatre chapitres, quatre parties. C'est le socle : les trois autres Essais en dépendent, et lui ne dépend d'aucun d'eux.</p>
 
 <details class="dp-pli" data-rang="entrée">
 <summary class="dp-titre"><span class="dp-rang">ch. I</span><span class="dp-texte">L'aveu du départ : « il faut tomber droit au milieu de la raison »</span></summary>
 <div class="dp-corps">
-<p>Le livre s'ouvre sur trois questions de six mots, qui sont déjà tout le problème :</p>
+<p>Le livre s'ouvre sur trois questions en six mots, qui sont déjà tout le problème :</p>
 <div class="dp-cite">
 <p>Tout langage et toute science procèdent par composition et décomposition. Mais que composons-nous ainsi, que décomposons-nous ? Des <em>mots</em> ? des <em>idées</em> ? des <em>choses</em> ?</p>
 <span class="dp-source">Premier Essai, ch. I</span>
 </div>
-<p>Puis, aussitôt, l'aveu — et c'est peut-être le plus beau moment d'honnêteté de tout le XIX<sup>e</sup> siècle philosophique :</p>
+<p>Puis, aussitôt, l'aveu — d'une franchise rare :</p>
 <div class="dp-cite">
 <p>[…] la critique de la connaissance se meut dans un cercle inévitable. Quelque vérité, quelque rapport que j'entreprenne d'expliquer, de prouver, je suis contraint de proposer d'autres rapports que je n'explique pas. Comment expliquer en effet ce que supposerait une première explication quelconque ? et que ne supposé-je point dès mes premières lignes ? Ou le <em>procès à l'infini</em>, qui est impossible, ou le <em>cercle</em> qu'on nomme <em>vicieux</em> : lisez les sceptiques.</p>
 <p>Donc il faut tomber droit au milieu de la raison et s'y livrer.</p>
@@ -775,7 +775,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <p>La preuve, c'est vous. Il n'y en a pas d'autre. Cela dit aussi pourquoi ce livre est si dur : il ne s'agit pas de vous convaincre, il s'agit que vous refassiez le chemin.</p>
 <div class="dp-note">
 <span class="dp-etiquette">Et un avertissement, qu'il faut prendre au sérieux</span>
-<p>« Mais c'est en vain qu'on s'efforcerait d'épargner au lecteur l'attention ou même le travail. Un vice de la philosophie, dans quelques livres, est une certaine <em>fausse lucidité</em>. Je ne connais pas de science qui soit claire en ce sens-là. » — Cette page-ci vise la lucidité vraie : elle vous fait entrer, elle ne vous dispense pas.</p>
+<p>« Mais c'est en vain qu'on s'efforcerait d'épargner au lecteur l'attention ou même le travail. Un vice de la philosophie, dans quelques livres, est une certaine <em>fausse lucidité</em>. Je ne connais pas de science qui soit claire en ce sens-là. » (préface de la première édition) — Cette page-ci vise la lucidité vraie : elle vous fait entrer, elle ne vous dispense pas.</p>
 </div>
 </div>
 </details>
@@ -794,9 +794,9 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 </ul>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Le truc, une fois pour toutes</span>
-<p>Les sept chapitres de « preuve » ne sont pas sept arguments. C'est <strong>un seul argument, appliqué sept fois</strong> — le pivot qui tourne :</p>
+<p>Les quatre premiers chapitres de « preuve » (VIII-XI) ne sont pas quatre arguments. C'est <strong>un seul argument, appliqué quatre fois</strong> — le pivot qui tourne :</p>
 <p><em>Si X était en soi, X serait un continu en soi ; un continu en soi a un nombre infini de parties en soi ; un nombre infini est contradictoire ; donc X n'est pas en soi.</em></p>
-<p>Remplacez X par : l'espace, le temps, la matière, le mouvement. Vous avez les chapitres VIII à XI. Une fois que vous tenez le schéma, ces cent pages se lisent en diagonale — et c'est le bon usage : on ne lit pas sept fois une démonstration qu'on a comprise une fois.</p>
+<p>Remplacez X par : l'espace, le temps, la matière, le mouvement. Vous avez les chapitres VIII à XI. Les ch. XII à XIV, eux, prouvent autrement, par l'analyse de la représentation. Une fois le schéma compris, VIII à XI se lisent plus vite : c'est la même démonstration quatre fois.</p>
 </div>
 <div class="dp-note">
 <span class="dp-etiquette">Le mot « fétichisme »</span>
@@ -827,7 +827,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 </div>
 <div class="dp-note">
 <span class="dp-etiquette">Le rapport de force</span>
-<p>C'est aussi ici que Renouvier accepte publiquement une formule positiviste — « la réduction de la connaissance aux lois des phénomènes » — tout en refusant l'école : il lui reproche de ne pas analyser ses propres notions premières, de nier dogmatiquement ce qu'on peut croire, et d'avoir gardé de Saint-Simon des ambitions d'organisation « chimériques à mon gré, et peu libérales ». Le partage est net : la méthode, oui ; l'Église positiviste, non.</p>
+<p>C'est dans la préface de la première édition que Renouvier accepte publiquement une formule positiviste — « la réduction de la connaissance aux lois des phénomènes » — tout en refusant l'école : il lui reproche de ne pas analyser ses propres notions premières, de nier dogmatiquement ce qu'on peut croire, et d'avoir gardé de Saint-Simon des ambitions d'organisation « chimériques à mon gré, et peu libérales ». Le partage est net : la méthode, oui ; l'Église positiviste, non.</p>
 </div>
 </div>
 </details>
@@ -842,14 +842,14 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 </ul>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Le sens du titre</span>
-<p>« Logique <em>générale</em> et logique <em>formelle</em> » : ce n'est pas une redondance, c'est l'ordre de dérivation. La logique générale, ce sont les catégories — les lois de ce qui est. La logique formelle — syllogisme, contradiction, induction — n'est pas un art de raisonner posé à côté : elle <strong>sort</strong> des catégories, et de deux seulement. « La <em>logique</em> est renfermée tout entière dans les lois générales de la relation et de la qualité. » Renouvier ne fait pas de la logique une technique : il la fait descendre de sa métaphysique.</p>
+<p>« Logique <em>générale</em> et logique <em>formelle</em> » : ce n'est pas une redondance, c'est l'ordre de dérivation. La logique générale, ce sont les catégories — les lois de la représentation. La logique formelle — syllogisme, contradiction, induction — n'est pas un art de raisonner posé à côté : elle <strong>sort</strong> des catégories, et de deux seulement. « La <em>logique</em> est renfermée tout entière dans les lois générales de la relation et de la qualité. » Renouvier ne fait pas de la logique une technique : il la fait descendre de sa théorie des catégories.</p>
 </div>
 
 <details class="dp-pli" data-rang="ch. XXXII">
 <summary class="dp-titre"><span class="dp-rang">le chapitre</span><span class="dp-texte">XXXII — là où le pivot est vissé</span></summary>
 <div class="dp-corps">
 <p>Titre complet : <em>Mesure de la position par le nombre. Valeurs positives et négatives. — Mesure du continu par le nombre : les fractions, les incommensurables, les limites. — Question de l'infini.</em></p>
-<p>C'est le chapitre le plus technique du livre et le plus important. Renouvier y doit faire une chose difficile : sauver toute la mathématique — les fractions, les incommensurables, les tangentes, les quadratures, le calcul différentiel — <strong>sans jamais admettre un infini en acte</strong>. Ses <em>Observations et développements</em> y consacrent une centaine de pages, sous deux titres :</p>
+<p>C'est le chapitre le plus technique du livre et le plus important. Renouvier y doit faire une chose difficile : sauver toute la mathématique — les fractions, les incommensurables, les tangentes, les quadratures, le calcul différentiel — <strong>sans jamais admettre un infini en acte</strong>. Ses <em>Observations et développements</em> y consacrent plus de soixante-dix pages (t. I, p. 376-448), sous deux titres :</p>
 <ul class="dp-liste">
 <li><em>A. De la théorie des valeurs négatives</em> — le sens du symbole négatif, les imaginaires, les exposants négatifs.</li>
 <li><em>B. Théorie de l'indéfini et des limites</em> — la fraction, l'incommensurable, la géométrie élémentaire, les tangentes, les rectifications et quadratures, les principes du calcul de l'indéfini, et pour finir Auguste Comte et la philosophie des mathématiques.</li>
@@ -870,13 +870,13 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <p>Tout le tome III. C'est le miroir de la partie III : les neuf catégories, reprises dans l'ordre, appliquées au monde entier, et brisées une à une. <em>(Voir la table, plus haut, sous « limite extrême de la connaissance » ; et le double miroir sous « les quatre applications ».)</em></p>
 <ul class="dp-liste">
 <li><strong>XLI-XLII</strong> — Les antinomies : celles du système des catégories, puis les autres. Définition du monde. <em>Réfutation des antinomies kantiennes.</em></li>
-<li><strong>XLIII à LIII</strong> — La synthèse totale, éprouvée neuf fois : nombre <em>(XLIII)</em>, étendue <em>(XLIV)</em>, durée <em>(XLV)</em>, division interne <em>(XLVI)</em>, vide et plein <em>(XLVII)</em>, espèce <em>(XLVIII)</em>, devenir <em>(XLIX)</em>, évolution <em>(L)</em>, cause <em>(LI)</em>, fin <em>(LII)</em>, conscience <em>(LIII)</em>.</li>
+<li><strong>XLIII à LIII</strong> — La synthèse totale, éprouvée catégorie par catégorie : nombre <em>(XLIII)</em>, étendue <em>(XLIV)</em>, durée <em>(XLV)</em>, division interne <em>(XLVI)</em>, vide et plein <em>(XLVII)</em>, espèce <em>(XLVIII)</em>, devenir <em>(XLIX)</em>, évolution <em>(L)</em>, cause <em>(LI)</em>, fin <em>(LII)</em>, conscience <em>(LIII)</em>.</li>
 <li><strong>LIV</strong> — Des problèmes en deçà de la connaissance possible. Conclusion.</li>
 </ul>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Le dernier échec est le plus lourd</span>
 <p>Le chapitre LIII demande s'il peut y avoir une conscience du monde entier. Renouvier répond non, et sa raison est purement logique : la conscience est la synthèse du soi et du non-soi ; une conscience qui envelopperait tout n'aurait pas de non-soi ; elle cesserait donc d'être une conscience.</p>
-<p>Et il en tire une conséquence dont il vivra : puisqu'une conscience unique et totale est contradictoire, « l'hypothèse d'une <strong>pluralité primitive de consciences distinctes</strong>, dans le monde, semble donc la seule rationnelle ». Le monde n'a pas de sommet. Il a des personnes. Tout le personnalisme est né dans ce chapitre, à la fin d'un traité de logique, comme le résidu d'une impossibilité.</p>
+<p>Et il en tire une conséquence dont il vivra : puisqu'une conscience unique et totale est contradictoire, « l'hypothèse d'une <strong>pluralité primitive de consciences distinctes</strong>, dans le monde, semble donc la seule rationnelle ». Le monde n'a pas de sommet. Il a des personnes. Le personnalisme a ici l'une de ses sources — c'est le Formulaire qui le dit en résumant ce chapitre (t. III, p. 289) : il naît, à la fin d'un traité de logique, comme le résidu d'une impossibilité.</p>
 </div>
 </div>
 </details>
@@ -884,7 +884,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <details class="dp-pli" data-rang="le pli de Renouvier">
 <summary class="dp-titre"><span class="dp-rang">fin du tome III</span><span class="dp-texte">Formulaire du Traité de logique générale</span></summary>
 <div class="dp-corps">
-<p>Une trentaine de pages, à la fin du dernier tome, après la mention « FIN DU PREMIER ESSAI ». Renouvier y récrit son livre entier en propositions nues, sans preuves, sans exemples, sans polémique. Il ouvre ainsi :</p>
+<p>Vingt-trois pages (t. III, p. 269-291), à la fin du dernier tome, après la mention « FIN DU PREMIER ESSAI ». Renouvier y récrit son livre entier en propositions nues, sans preuves, sans exemples, sans polémique. Il ouvre ainsi :</p>
 <div class="dp-cite">
 <p>Les définitions, principes et conclusions qui suivent sont acquis pour nous à la suite d'une analyse de raison pure, sous la réserve d'un examen à faire de la nature et de la valeur de notre certitude.</p>
 <span class="dp-source">Formulaire, première phrase</span>
@@ -892,9 +892,9 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Renouvier avait déjà fait ce dépliant</span>
 <p>Le <em>Formulaire</em> est le livre plié. Il contient tout et il ne démontre rien — il énonce. Il suit l'ordre du traité, et sa dernière section énumère les huit échecs de la synthèse totale, numérotés « 1° à l'égard de la relation… 2° à l'égard de la totalité… », dans l'ordre exact des chapitres XLII à LIII.</p>
-<p>Autrement dit : <strong>le Formulaire est le plan de la quatrième partie</strong>, et il donne la clé de l'architecture entière. Renouvier l'a mis à la fin, où presque personne ne va. Cette page-ci ne fait, au fond, que le remettre au début.</p>
+<p>Autrement dit : <strong>sa dernière section est le plan de la quatrième partie</strong>, et l'ensemble donne la clé de l'architecture entière. Renouvier l'a mis à la fin, où on le cherche rarement. Cette page-ci ne fait, au fond, que le remettre au début.</p>
 </div>
-<p>Conseil de lecture, s'il n'en fallait qu'un : lisez le <em>Formulaire</em> en premier, puis le traité. Trente pages avant six cents. Renouvier a écrit son propre résumé et l'a rangé derrière la porte de sortie.</p>
+<p>Conseil de lecture, s'il n'en fallait qu'un : lisez le <em>Formulaire</em> en premier, puis le traité. Vingt-trois pages avant plus de douze cents. Renouvier a écrit son propre résumé et l'a rangé derrière la porte de sortie.</p>
 </div>
 </details>
 </div>
@@ -917,12 +917,12 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <li><strong>VI</strong> — De la conscience en général et des méthodes psychologiques.</li>
 <li><strong>VII-VIII</strong> — L'homme comme passion ; la passion, l'instinct, l'habitude.</li>
 <li><strong>IX-X</strong> — L'homme comme volonté ; <em>lois de dégradation de la conscience réfléchie</em>.</li>
-<li><strong>XI-XII</strong> — Les rapports des fonctions volontaires avec l'organisme, puis avec la conscience.</li>
+<li><strong>XI-XII</strong> — Les rapports des fonctions passionnelles et volontaires avec l'organisme ; ceux de la passion avec la conscience.</li>
 <li><strong>XIII</strong> — <em>La liberté ; état de la question ; solution provisoire.</em></li>
 </ul>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Le mot « provisoire » est à prendre au sérieux</span>
-<p>La première partie s'arrête sur une « solution provisoire » du problème de la liberté. Provisoire, parce que Renouvier vient de montrer qu'aucune preuve n'est possible : l'analyse rend la liberté <em>probable</em>, rien de plus. Pour aller plus loin il faut d'abord savoir ce qu'est croire — d'où la deuxième partie, sur la certitude. La liberté ne sera tranchée qu'après, au chapitre XXII, et par un acte, pas par un argument.</p>
+<p>La première partie s'arrête sur une « solution provisoire » du problème de la liberté. Provisoire, parce que Renouvier vient de montrer qu'aucune preuve n'est possible : l'analyse rend la liberté <em>probable</em>, rien de plus. Pour aller plus loin il faut d'abord savoir ce qu'est croire — d'où la deuxième partie, sur la certitude. La liberté ne sera tranchée qu'après, au chapitre XVII, et par un acte, pas par un argument ; le chapitre XXII n'en résumera que les motifs.</p>
 </div>
 <div class="dp-note">
 <span class="dp-etiquette">Le vertige</span>
@@ -934,7 +934,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <details class="dp-pli" data-rang="partie II">
 <summary class="dp-titre"><span class="dp-rang">ch. XIV-XIX</span><span class="dp-texte">La certitude</span></summary>
 <div class="dp-corps">
-<p>Six chapitres, et la question que Descartes mettait en premier arrive ici en vingt-quatrième position du parcours total.</p>
+<p>Six chapitres, et la question que Descartes mettait en premier n'arrive qu'au quatorzième chapitre du Deuxième Essai, après les cinquante-quatre du Premier.</p>
 <ul class="dp-liste">
 <li><strong>XIV</strong> — Définition générale de la certitude dans une conscience. <em>(Ses Observations publient Jules Lequier.)</em></li>
 <li><strong>XV</strong> — De quelques théories célèbres de la certitude.</li>
@@ -946,7 +946,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Deux ordres de certitude, et une bascule entre les deux</span>
 <p>Le <strong>premier ordre</strong> (ch. XVI) est ce qu'on ne peut pas ne pas affirmer : l'être de la conscience, l'être du monde. Le <strong>second ordre</strong> (ch. XVII) est tout le reste — et il dépend de la liberté, parce qu'y affirmer, c'est vouloir affirmer. D'où la phrase qui fait tourner le livre : « Le principe de ces principes est la liberté. »</p>
-<p>Conséquence : il n'y a pas de vérité sans quelqu'un qui la veuille. Sur <a href="/recherche/logique-philosophique/systeme-en-formules/">Le système en formules</a>, ce joint est le seul souligné double de toute la charpente. Et comme il y a plusieurs personnes, la vérité passe par un accord — ce qui explique qu'un traité de psychologie finisse sur le <em>contrat social</em>.</p>
+<p>Conséquence : il n'y a pas de certitude, au second ordre, sans une volonté qui affirme. Sur <a href="/recherche/logique-philosophique/systeme-en-formules/">Le système en formules</a>, ce joint est le premier des deux soulignés doubles. Et comme il y a plusieurs personnes, la vérité passe par un accord — ce qui explique qu'un traité de psychologie finisse sur le <em>contrat social</em>.</p>
 </div>
 </div>
 </details>
@@ -954,7 +954,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <details class="dp-pli" data-rang="partie III">
 <summary class="dp-titre"><span class="dp-rang">ch. XX-XXV</span><span class="dp-texte">Les probabilités touchant l'ordre moral du monde. L'immortalité, la liberté, la divinité</span></summary>
 <div class="dp-corps">
-<p>Le titre suffit à situer la manœuvre : ce sont les trois postulats de la raison pratique de Kant — liberté, immortalité, Dieu — repris un par un. Mais Renouvier n'en fait pas des postulats : il en fait des <strong>probabilités morales</strong>, et il ose leur consacrer un chapitre de réfutation frontale.</p>
+<p>Le titre suffit à situer la manœuvre : ce sont les trois postulats de la raison pratique de Kant — liberté, immortalité, Dieu — repris un par un. Mais Renouvier les traite en <strong>probabilités morales</strong>, sans renoncer au mot de postulat, et il consacre un chapitre entier à examiner les thèses de Kant.</p>
 <ul class="dp-liste">
 <li><strong>XX</strong> — De l'immortalité comme loi téléologique de la nature.</li>
 <li><strong>XXI</strong> — <em>Examen des thèses de la raison pratique de Kant.</em></li>
@@ -966,7 +966,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Où mène le pivot, tout au bout</span>
 <p>Un Dieu infini en acte étant contradictoire, il ne reste qu'un Dieu <em>fini</em> — une personne, à qui manquent les « perfections » de la métaphysique mais à qui restent la justice et la bonté. Et si Dieu est une personne parmi d'autres, alors rien ne prouve plus qu'il soit un seul : Renouvier écrit noir sur blanc que « deux directions de l'esprit sont possibles, légitimes », l'unité et la pluralité.</p>
-<p>Suivez la ligne depuis le début : une thèse sur le nombre, en 1854, aboutit en 1875 à rendre le polythéisme rationnellement recevable. C'est la même déduction qui court sur vingt et un ans et huit tomes.</p>
+<p>Suivez la ligne depuis le début : une thèse sur le nombre, en 1854, aboutit en 1875 à rendre le polythéisme rationnellement recevable. C'est la même déduction qui court sur vingt et un ans et six tomes.</p>
 </div>
 </div>
 </details>
@@ -989,7 +989,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <span class="dp-etiquette">Relisez cette phrase après « lois »</span>
 <p>« Un être est une fonction », disait le Formulaire du Premier Essai. « L'homme est une fonction particulière », dit celui du Deuxième. Ce n'est pas une variation de style : c'est la définition générale, appliquée au cas de l'homme. Et la suite de la phrase donne le programme du double miroir — les mêmes catégories pour l'homme et pour le monde.</p>
 </div>
-<p class="dp-chapo">Ce formulaire est aussi l'ouverture du Troisième Essai. C'est le seul texte de Renouvier qui existe à deux endroits et en deux âges.</p>
+<p class="dp-chapo">Ce formulaire est aussi l'ouverture du Troisième Essai. Il existe ainsi à deux endroits de l'œuvre et en trois états (1864, 1875, 1892).</p>
 </div>
 </details>
 </div>
@@ -1015,7 +1015,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 </div>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">La descente</span>
-<p>Les quatre Essais forment une descente continue de l'abstrait au concret : les catégories, puis l'homme, puis la nature, puis l'histoire. Chaque livre finit là où le suivant commence, et Renouvier le dit à chaque fois. Ce n'est pas une série d'ouvrages sur des sujets voisins : c'est un seul mouvement, en quatre paliers, qui met vingt-cinq ans à descendre.</p>
+<p>Les quatre Essais forment une descente continue de l'abstrait au concret : les catégories, puis l'homme, puis la nature, puis l'histoire. Chaque livre finit là où le suivant commence, et Renouvier le dit à chaque fois. Ce n'est pas une série d'ouvrages sur des sujets voisins : c'est un seul mouvement, en quatre paliers, publié en dix ans (1854-1864).</p>
 </div>
 </div>
 </details>
@@ -1034,11 +1034,11 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">La même machine, un cran plus bas</span>
 <p>La section C du formulaire précédent avait rangé les sciences sous les catégories. Ces chapitres font le travail : les fonctions <em>mécaniques</em> n'impliquent que Nombre, Position, Succession et Devenir ; les fonctions <em>chimiques et physiques</em> ajoutent la Qualité ; les fonctions <em>biologiques</em> apportent enfin la Causalité, la Finalité et la conscience.</p>
-<p>C'est une échelle des êtres construite avec les neuf pièces : chaque étage de la nature se définit par le nombre de catégories qu'il faut pour le décrire. Un caillou en demande quatre. Un vivant les demande toutes.</p>
+<p>C'est une échelle des êtres construite avec les neuf pièces : chaque étage de la nature se définit par le nombre de catégories qu'il faut pour le décrire. Un pur mouvement en demande quatre, outre la relation, présente partout ; un caillou, corps physique et chimique, y ajoute la qualité ; un vivant les demande toutes.</p>
 </div>
 <div class="dp-note">
 <span class="dp-etiquette">Et l'atome ?</span>
-<p>Il tombe, évidemment. Un atome au sens strict serait un simple, un indivisible en soi — donc un terme de gauche sans son contraire, donc un fétiche. Renouvier ne peut pas plus admettre l'atome que l'infini : ce sont les deux bouts de la même erreur, le trop petit absolu et le trop grand absolu.</p>
+<p>Il change de sens. Renouvier rejette l'atome entendu comme « une espèce d'étendue concrétée », substrat indivisible où reviendraient le continu et l'infini ; mais il garde le mot pour les éléments derniers de la nature, en nombre fini : « Nommons-les librement des atomes, puisque nous avons écarté l'interprétation vicieuse de ce mot » (t. I, ch. III, p. 30). Le pivot ne supprime pas l'atome : il en exige un, bien entendu.</p>
 </div>
 </div>
 </details>
@@ -1060,13 +1060,13 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 </div>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Le chapitre le plus étrange de toute l'œuvre</span>
-<p>Au chapitre XII, Renouvier avance une hypothèse dont il faut mesurer l'audace : l'humanité et la nature auraient été créées à l'état d'« organisme universel et réellement parfait, laissant aux individus la liberté » ; cette liberté aurait causé la perversion de la société primitive ; d'où « la ruine entière du monde, d'où la nature actuelle serait sortie en traversant la période occupée par la formation des nébuleuses et par la constitution des astres ».</p>
+<p>Dans la seconde édition (1892), au chapitre XII, Renouvier avance une hypothèse dont il faut mesurer l'audace ; il la résume ainsi dans l'avant-propos de l'appendice B (t. II, p. 343) : l'humanité et la nature auraient été créées à l'état d'« organisme universel et réellement parfait, laissant aux individus la liberté » ; cette liberté aurait causé la perversion de la société primitive ; d'où « la ruine entière du monde, d'où la nature actuelle serait sortie en traversant la période occupée par la formation des nébuleuses et par la constitution des astres ».</p>
 <p>Traduisez : la nébuleuse primitive de Laplace, les étoiles, les planètes, la mort, la lutte pour la vie — tout cela serait le <em>débris</em> d'une chute morale. Le cosmos n'est pas le décor du drame : il en est le résultat.</p>
 <p>Et Renouvier, qui n'était pas homme à reculer, recule : « chez moi, la haute conjecture s'arrête, intimidée ».</p>
 </div>
 <div class="dp-note">
 <span class="dp-etiquette">Pourquoi il y est obligé</span>
-<p>Ce n'est pas un accès de mysticisme. C'est une contrainte. Si le nombre est fini, le monde a commencé. S'il a commencé, il y a des causes premières. Si le mal existe et que Dieu est bon, la cause première du mal ne peut pas être Dieu : il faut donc une liberté première, et une faute. La cosmogonie de Renouvier est la seule qui reste debout quand on a interdit l'infini <em>et</em> refusé de faire de Dieu l'auteur du mal.</p>
+<p>Ce n'est pas un accès de mysticisme, mais ce n'est pas non plus une déduction : Renouvier l'appelle une « haute conjecture ». Elle s'accorde pourtant avec ses thèses. Si tout nombre est fini, le monde a commencé ; s'il a commencé, il y a des causes premières ; et si, comme il le tient depuis 1886, ces causes remontent à un Dieu créateur et juste, la cause première du mal ne peut pas être Dieu : il faut une liberté première, et une faute. La cosmogonie de 1892 est la plus cohérente avec l'interdit de l'infini <em>et</em> le refus de faire de Dieu l'auteur du mal.</p>
 </div>
 </div>
 </details>
@@ -1076,7 +1076,7 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <details class="dp-pli" data-rang="essai">
 <summary class="dp-titre"><span class="dp-rang">Essai IV · 1864</span><span class="dp-texte">Introduction à la philosophie analytique de l'histoire</span></summary>
 <div class="dp-corps">
-<p class="dp-chapo">Trente-deux paragraphes, cinq parties. Le seul des quatre Essais où l'on croise des dieux égyptiens, des tribus polynésiennes et des tablettes assyriennes — et c'est le même livre que le premier.</p>
+<p class="dp-chapo">Trente-deux paragraphes, cinq parties. Le seul des quatre Essais où l'on croise des dieux égyptiens, des tribus polynésiennes et des tablettes assyriennes — et c'est le même outil que dans le premier.</p>
 
 <details class="dp-pli" data-rang="§ I">
 <summary class="dp-titre"><span class="dp-rang">le plan</span><span class="dp-texte">Ce que « analytique » interdit</span></summary>
@@ -1086,10 +1086,10 @@ Une précision, qui est aussi une découverte : **Renouvier avait commencé ce t
 <p>Abordée sans critique, l'histoire ne peut que multiplier, en les amplifiant, ces mêmes phénomènes incohérents que donne déjà l'expérience individuelle toute seule quand la loi morale ne règle pas la conduite et le jugement. Traitée dans un système apriorique, elle défigure les faits, ou elle les dédaigne ; elle en rejette et elle en interpole, afin de disposer plus commodément les autres en série.</p>
 <span class="dp-source">Quatrième Essai, § I</span>
 </div>
-<p>Deux façons de manquer l'histoire, donc : sans idée, ou avec une idée d'avance. La voie étroite entre les deux, c'est ce qu'il appelle l'analyse : des faits établis par les sciences historiques, des inductions tirées de ce que la personne humaine a de constant, et rien de plus.</p>
+<p>Deux façons de manquer l'histoire, donc : sans critique, ou avec un système fixé d'avance. La voie étroite entre les deux, c'est ce qu'il appelle l'analyse : des faits établis par les sciences historiques, des inductions tirées de ce que la personne humaine a de constant, et rien de plus.</p>
 <div class="dp-note dp-note--cle">
 <span class="dp-etiquette">Il faut avoir lu les trois autres</span>
-<p>Ce livre est illisible seul, et voici pourquoi. La quatrième partie du <strong>Premier Essai</strong> a démontré que la synthèse totale est impossible : une philosophie de l'histoire au sens de Hegel <em>est</em> une synthèse totale, donc elle est interdite avant même d'être examinée sur pièces. Le <strong>Deuxième</strong> a fourni la seule chose qui reste pour juger — une personne libre, avec ses passions, sa mémoire et son vertige : les renvois y sont constants (§ V pour le langage, § XI et XII pour le vertige, § XXV pour Dieu). Le <strong>Troisième</strong> a déposé l'homme au seuil.</p>
+<p>Ce livre est illisible seul, et voici pourquoi. La quatrième partie du <strong>Premier Essai</strong> a démontré que la synthèse totale est impossible : une philosophie de l'histoire au sens de Hegel <em>est</em> une synthèse totale, donc elle est interdite avant même d'être examinée sur pièces. Le <strong>Deuxième</strong> a fourni la seule chose qui reste pour juger — une personne libre, avec ses passions, sa mémoire et son vertige : les renvois y sont constants (§ V pour le langage, § XI et XII pour le vertige, § XXV pour Dieu — numérotation du Deuxième Essai de 1859). Le <strong>Troisième</strong> a déposé l'homme au seuil.</p>
 <p>Le Quatrième Essai est ce qui reste de la philosophie de l'histoire quand on a retiré le droit de conclure sur le tout : des faits, des lois partielles, et une conscience pour juger.</p>
 </div>
 </div>
@@ -1199,8 +1199,8 @@ Ce dépliant obéit à six règles. Elles sont notées ici pour que le lecteur s
 3. **La profondeur se voit.** Chaque niveau ajoute un filet à gauche. On compte les filets comme on compte les plis d'un papier ouvert.
 4. **Le parcours se souvient.** Un pli jamais ouvert porte une pastille pleine ; une fois ouvert, elle se creuse. Le compteur dit combien de plis restent inexplorés. C'est la réponse au seul problème sérieux de ce format : savoir, une fois au fond, ce qu'on n'a pas vu.
 5. **La typographie dit qui parle.** Sérif : Renouvier, verbatim, avec sa référence. Linéale : le commentaire. Aucun mot n'est prêté à Renouvier qu'il n'ait écrit.
-6. **Les paliers sont de l'auteur quand ils existent.** Renouvier a résumé lui-même chacun de ses Essais dans un *Formulaire*. Partout où c'était possible, le niveau intermédiaire est le sien, cité, et non une paraphrase.
+6. **Les paliers sont de l'auteur quand ils existent.** Renouvier a résumé lui-même ses deux premiers Essais dans un *Formulaire*. Partout où c'était possible, le niveau intermédiaire est le sien, cité, et non une paraphrase.
 
-**Ce qui reste à déplier.** Les *Observations et développements* de la seconde édition n'ont pas été ouverts : Renouvier avertit qu'il n'y « introduit aucun changement de quelque importance dans l'esprit ni dans les preuves ni dans les conclusions ». Ils discutent Mill, Hamilton, Spencer, Comte, et publient Lequier ; ils ne touchent pas la charpente. Ils feront un étage supplémentaire.
+**Ce qui reste à déplier.** Les *Observations et développements* de la seconde édition n'ont été ouverts qu'en passant (Premier Essai, ch. XXXII ; Deuxième Essai, ch. XIII et XIV). Ce sont les ajouts de 1875 : Renouvier, qui n'introduit dans son texte « aucun changement de quelque importance dans l'esprit ni dans les preuves ou les conclusions », y joint « des explications et des critiques relatives pour la plupart à l'état actuel de la philosophie ou des systèmes » (avant-propos, t. I, p. VI). Ils discutent Mill, Hamilton, Spencer, Comte, et publient Lequier ; ils ne touchent pas la charpente. Ils feront un étage supplémentaire.
 
 **Sources.** Premier Essai : *Traité de logique générale et de logique formelle*, 2ᵉ éd., Au Bureau de la Critique philosophique, 1875, 3 t. — Deuxième Essai : *Traité de psychologie rationnelle d'après les principes du criticisme*, 2ᵉ éd. revue et considérablement augmentée, même éditeur, 1875, 3 t. — Troisième Essai : *Les Principes de la nature*, 2ᵉ éd. corrigée et augmentée, 1892, 2 t. — Quatrième Essai : *Introduction à la philosophie analytique de l'histoire*, Ladrange, 1864.
