@@ -1,13 +1,13 @@
 ---
 title: "Étiquetage morpho-syntaxique"
-description: "La grammaire de Renouvier comptée à découvert — pronoms, négations, connecteurs, temps — et ce qu'elle date."
+description: "La grammaire de Renouvier (pronoms, négations, connecteurs, temps), comptée à découvert, et ce qu'elle date."
 ---
 
 # Étiquetage morpho-syntaxique
 
-Étiqueter un texte, c'est écrire sous chaque mot sa nature — pronom, préposition, verbe à l'imparfait. Les étiqueteurs automatiques le font par apprentissage statistique, avec un taux d'erreur mesurable en moyenne mais impossible à localiser mot par mot. Cette page fait le choix inverse : **n'étiqueter que ce qui est sûr, et publier chaque règle.** Classes grammaticales fermées (on peut lister *tous* les déterminants du français), désinences verbales sans ambiguïté, dictionnaires de décision établis mot par mot. Couverture : 59 % des mots du corpus ; le reste est laissé sans étiquette plutôt qu'étiqueté au risque d'erreur.
+Étiqueter un texte, c'est écrire sous chaque mot sa nature (pronom, préposition, verbe à l'imparfait). Les étiqueteurs automatiques le font par apprentissage statistique, avec un taux d'erreur mesurable en moyenne mais impossible à localiser mot par mot. Cette page fait le choix inverse : **n'étiqueter que ce qui est sûr, et publier chaque règle.** Elle recourt aux classes grammaticales fermées (on peut lister *tous* les déterminants du français), aux désinences verbales sans ambiguïté et à des dictionnaires de décision établis mot par mot. La couverture est de 59 % des mots du corpus ; le reste est laissé sans étiquette plutôt qu'étiqueté au risque d'erreur.
 
-Le corpus est celui de la page [Lexicométrie](/recherche/linguistique/lexicometrie/) : les **Essais** de 1875, l'**Esquisse** de 1885-1886, **Le Personnalisme** de 1903, et le tome révisé de 1892 en point de contrôle. Mais on ne compte plus ici les mots pleins — on compte la grammaire : les pronoms, les négations, les connecteurs, les temps. C'est la couche de la langue qu'un auteur surveille le moins. Elle a beaucoup à dire. **Rien ne disparaît quand vous ouvrez.**
+Le corpus, celui de la page [Lexicométrie](/recherche/linguistique/lexicometrie/), réunit les **Essais** de 1875, l'**Esquisse** de 1885-1886 et **Le Personnalisme** de 1903, avec le tome révisé de 1892 pour point de contrôle. On compte ici non plus les mots pleins, mais la grammaire (pronoms, négations, connecteurs, temps), soit la couche de la langue qu'un auteur surveille le moins, et qui a beaucoup à dire. **Ouvrir un pli ne fait rien disparaître.**
 
 <div class="dp" id="dp">
 <style>
@@ -303,10 +303,10 @@ Le corpus est celui de la page [Lexicométrie](/recherche/linguistique/lexicomet
 <details class="dp-pli" data-rang="protocole">
 <summary class="dp-titre"><span class="dp-rang">la règle du jeu</span><span class="dp-texte">Étiqueter à découvert</span></summary>
 <div class="dp-corps">
-<p>Trois familles d'étiquettes, trois degrés de certitude — et rien d'autre.</p>
-<p><strong>Les classes fermées.</strong> Déterminants, pronoms, prépositions, conjonctions, négations, formes conjuguées d'<em>être</em> et d'<em>avoir</em> : ces listes sont finies et connues en entier. Un mot y figure ou n'y figure pas ; l'appartenance à la classe est sûre, même quand la fonction exacte (<em>le</em> article ou pronom, <em>que</em> relatif ou conjonction) ne l'est pas. Elles couvrent à elles seules plus de la moitié de tout texte français.</p>
-<p><strong>Les désinences sans ambiguïté.</strong> Une forme en <em>-erait</em> est un conditionnel ; une forme en <em>-aient</em> hors conditionnel est un imparfait ; une forme en <em>-èrent</em> est un passé simple — <em>sauf exceptions, toutes listées</em>. Car le français tend des pièges : <em>fait</em>, <em>sait</em> et <em>parfait</em> ne sont pas des imparfaits ; <em>diffèrent</em> et <em>considèrent</em> sont des présents, non des passés simples ; <em>vrai</em> n'est pas un futur, et <em>considérons</em> non plus ; <em>considérait</em> (imparfait de <em>considérer</em>) se distingue de <em>considérerait</em> (conditionnel) par une seule syllabe. Chaque piège rencontré dans le corpus a été tranché individuellement ; les principales décisions sont au dernier pli, et leur intégralité — dictionnaires et programme — dans la page <a href="/recherche/linguistique/methode/">Méthode et reproductibilité</a>.</p>
-<p><strong>Les adverbes en <em>-ment</em>.</strong> <em>Nécessairement</em> est un adverbe, <em>mouvement</em> est un nom, <em>forment</em> est un verbe : aucune règle mécanique ne les départage tous. Les terminaisons sûres (<em>-quement</em>, <em>-ellement</em>, <em>-amment</em>…) sont traitées par règle ; le reste, mot par mot. Résidu non classé : 918 occurrences sur plus d'un million — moins d'un mot sur mille.</p>
+<p>On n'emploie que trois familles d'étiquettes, correspondant à trois degrés de certitude.</p>
+<p><strong>Les classes fermées.</strong> Déterminants, pronoms, prépositions, conjonctions, négations et formes conjuguées d'<em>être</em> et d'<em>avoir</em> forment des listes finies, connues en entier. Un mot y figure ou n'y figure pas ; l'appartenance à la classe est sûre, même quand la fonction exacte (<em>le</em> article ou pronom, <em>que</em> relatif ou conjonction) ne l'est pas. Elles couvrent à elles seules plus de la moitié de tout texte français.</p>
+<p><strong>Les désinences sans ambiguïté.</strong> Une forme en <em>-erait</em> est un conditionnel ; une forme en <em>-ait</em> ou <em>-aient</em> hors conditionnel, un imparfait ; une forme en <em>-èrent</em>, un passé simple. Ces règles valent <em>sauf exceptions, toutes listées</em>, car le français tend des pièges. Ainsi, <em>fait</em>, <em>sait</em> et <em>parfait</em> ne sont pas des imparfaits ; <em>diffèrent</em> et <em>considèrent</em> sont des présents, non des passés simples ; ni <em>vrai</em> ni <em>considérons</em> ne sont des futurs ; <em>considérait</em> (imparfait de <em>considérer</em>) se distingue de <em>considérerait</em> (conditionnel) par une seule syllabe. Chaque piège rencontré dans le corpus a été tranché individuellement. Les principales décisions figurent au dernier pli, leur intégralité (dictionnaires et programme) dans la page <a href="/recherche/linguistique/methode/">Méthode et reproductibilité</a>.</p>
+<p><strong>Les adverbes en <em>-ment</em>.</strong> <em>Nécessairement</em> est un adverbe, <em>mouvement</em> un nom, <em>forment</em> un verbe, et aucune règle mécanique ne les départage tous. Les terminaisons sûres (<em>-quement</em>, <em>-ellement</em>, <em>-amment</em>…) sont traitées par règle, le reste mot par mot. Le résidu non classé compte 918 occurrences sur plus d'un million, soit moins d'un mot sur mille.</p>
 <table class="dp-tab">
 <thead><tr><th>strate</th><th>mots étiquetés</th></tr></thead>
 <tbody>
@@ -316,14 +316,14 @@ Le corpus est celui de la page [Lexicométrie](/recherche/linguistique/lexicomet
 <tr><td class="dp-t92"><em>1892</em></td><td class="dp-t92">58,4 %</td></tr>
 </tbody>
 </table>
-<p>Les 41 % restants — l'essentiel des noms, adjectifs et verbes au présent — demeurent volontairement sans étiquette. On perd en couverture ce qu'on gagne en certitude : chaque chiffre des plis suivants est vérifiable à la main.</p>
+<p>Les 41 % restants (l'essentiel des noms, adjectifs et verbes au présent) demeurent volontairement sans étiquette. On perd en couverture ce qu'on gagne en certitude. Chaque chiffre des plis suivants est ainsi vérifiable à la main.</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="voix">
 <summary class="dp-titre"><span class="dp-rang">le paradoxe</span><span class="dp-texte">Le « je » s'efface dans <em>Le Personnalisme</em></span></summary>
 <div class="dp-corps">
-<p>Fréquences pour 10 000 mots des pronoms personnels — la mesure la plus simple de l'appareil, et le résultat le plus étonnant de toute l'étude :</p>
+<p>Les fréquences des pronoms personnels pour 10 000 mots, mesure la plus simple de l'appareil, livrent le résultat le plus étonnant de toute l'étude.</p>
 <table class="dp-tab">
 <thead><tr><th>pronom</th><th>1875</th><th>1886</th><th>1903</th><th>1892</th></tr></thead>
 <tbody>
@@ -334,24 +334,24 @@ Le corpus est celui de la page [Lexicométrie](/recherche/linguistique/lexicomet
 <tr><td>il, ils</td><td>127,9</td><td>136,3</td><td>118,0</td><td class="dp-t92">109,7</td></tr>
 </tbody>
 </table>
-<p>D'un livre à l'autre, le <em>je</em> est divisé par dix. L'auteur des <em>Essais</em> parle en son nom à chaque page — il expose, il maintient, il répond :</p>
+<p>D'un livre à l'autre, le <em>je</em> est divisé par dix. L'auteur des <em>Essais</em> parle en son nom à chaque page, qu'il expose, maintienne ou réponde :</p>
 <div class="dp-cite">
 <p>Il est vrai que je ne comprends la loi de finalité que sous condition d'une conscience posée, apte à poursuivre un but.</p>
 <span class="dp-source">Deuxième Essai, t. III, p. 247</span>
 </div>
-<p>L'auteur du <em>Personnalisme</em> a quasiment cessé de dire <em>je</em>. Sa phrase type est impersonnelle, à sujet abstrait :</p>
+<p>L'auteur du <em>Personnalisme</em> a presque cessé de dire <em>je</em>. Sa phrase type est impersonnelle, à sujet abstrait :</p>
 <div class="dp-cite">
 <p>La justice subjective comporte donc une limitation mutuelle des actes des agents moraux.</p>
 <span class="dp-source">Le Personnalisme, p. 36</span>
 </div>
-<p>Voilà le paradoxe : la doctrine prend le nom de la <em>personne</em> au moment précis où la première personne quitte la prose. Il se dissout si l'on distingue deux choses que le mot <em>personnel</em> confond : la thèse et le ton. La thèse — toute vérité est affirmée par quelqu'un — n'a jamais été aussi ferme ; le ton n'a plus besoin de la porter, car elle est portée par le système entier. Le <em>je</em> des <em>Essais</em> était un instrument de combat ; le combat gagné, l'instrument se range. Reste le <em>nous</em> de méthode, qui fléchit dans l'Esquisse mais retrouve en 1903 son niveau de 1875 (66,4 → 47,0 → 65,8) : l'auteur et son lecteur marchant ensemble — ce pronom-là était constitutif, il demeure.</p>
+<p>Le paradoxe est que la doctrine prend le nom de la <em>personne</em> au moment précis où la première personne quitte la prose. Il se dissout si l'on distingue deux choses que le mot <em>personnel</em> confond, la thèse et le ton. La thèse (toute vérité est affirmée par quelqu'un) n'a jamais été aussi ferme ; le ton n'a plus besoin de la porter, car elle est portée par le système entier. Le <em>je</em> des <em>Essais</em> était un instrument de combat ; le combat gagné, l'instrument se range. Reste le <em>nous</em> de méthode, qui fléchit dans l'Esquisse mais retrouve en 1903 son niveau de 1875 (66,4 → 47,0 → 65,8). Pronom de l'auteur et de son lecteur marchant ensemble, il était constitutif et demeure.</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="négation">
 <summary class="dp-titre"><span class="dp-rang">l'archaïsme tenu</span><span class="dp-texte">Point ou pas</span></summary>
 <div class="dp-corps">
-<p>Le français du XIXᵉ siècle a deux négations pleines : <em>ne… pas</em>, la moderne, et <em>ne… point</em>, l'ancienne, déjà littéraire. Part de <em>point</em> parmi les deux, et densité totale de la négation :</p>
+<p>Le français du XIXᵉ siècle connaît deux négations pleines, la moderne <em>ne… pas</em> et l'ancienne <em>ne… point</em>, déjà littéraire. Suivent la part de <em>point</em> parmi les deux et la densité totale de la négation.</p>
 <table class="dp-tab">
 <thead><tr><th>strate</th><th>ne… pas</th><th>ne… point</th><th>part de <em>point</em></th><th><em>ne</em> pour 10 000 mots</th></tr></thead>
 <tbody>
@@ -361,19 +361,19 @@ Le corpus est celui de la page [Lexicométrie](/recherche/linguistique/lexicomet
 <tr><td class="dp-t92"><em>1892</em></td><td class="dp-t92">499</td><td class="dp-t92">86</td><td class="dp-t92">14,7 %</td><td class="dp-t92">138</td></tr>
 </tbody>
 </table>
-<p>Deux faits. D'abord, <em>point</em> recule après les <em>Essais</em> mais ne meurt pas : il se stabilise autour d'une négation sur huit, jusqu'au bout — l'élégance d'époque est tenue, pas abandonnée. En 1903 encore :</p>
+<p>Deux faits ressortent. D'abord, <em>point</em> recule après les <em>Essais</em> sans disparaître et se stabilise jusqu'au bout autour d'une négation sur huit, signe que l'élégance d'époque est tenue, non abandonnée. Il figure encore en 1903 :</p>
 <div class="dp-cite">
 <p>Elle n'est pas positivement logique, et c'est pour cette raison qu'on ne voit point le devoir figurer dans les tables de catégories.</p>
 <span class="dp-source">Le Personnalisme, p. 47</span>
 </div>
-<p>— où l'on notera que les deux négations cohabitent dans la même phrase, <em>pas</em> pour le constat, <em>point</em> pour la pointe. Ensuite, la densité globale : les <em>Essais</em> nient davantage (163 <em>ne</em> pour 10 000 mots contre 135-136 ensuite). Un traité polémique se construit contre — contre Hume, contre Hegel, contre l'infini actuel ; la prose tardive expose plus qu'elle ne réfute, et sa grammaire le sait.</p>
+<p>Les deux négations cohabitent ici dans la même phrase, <em>pas</em> pour le constat, <em>point</em> pour la pointe. Ensuite, la densité globale montre que les <em>Essais</em> nient davantage (163 <em>ne</em> pour 10 000 mots, contre 135-136 par la suite). Un traité polémique se construit par opposition, contre Hume, contre Hegel, contre l'infini actuel ; la prose tardive expose plus qu'elle ne réfute, et sa grammaire en porte la trace.</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="démonstration">
 <summary class="dp-titre"><span class="dp-rang">l'armature</span><span class="dp-texte">L'appareil démonstratif décline</span></summary>
 <div class="dp-corps">
-<p>Les connecteurs sont l'armature visible du raisonnement. Presque tous baissent — et le détail est instructif (pour 10 000 mots) :</p>
+<p>Les connecteurs forment l'armature visible du raisonnement. Presque tous baissent, et le détail (pour 10 000 mots) est instructif.</p>
 <table class="dp-tab">
 <thead><tr><th>connecteur</th><th>1875</th><th>1886</th><th>1903</th><th>1892</th></tr></thead>
 <tbody>
@@ -390,20 +390,20 @@ Le corpus est celui de la page [Lexicométrie](/recherche/linguistique/lexicomet
 <tr><td>parce que</td><td>3,2</td><td>3,0</td><td>4,3</td><td class="dp-t92">1,1</td></tr>
 </tbody>
 </table>
-<p><em>Donc</em> presque divisé par deux, <em>si</em> et <em>ainsi</em> en net repli, <em>lorsque</em> divisé par quatre : la machine à inférer tourne moins vite. Mais <em>car</em> tient, et <em>cependant</em> comme <em>parce que</em> montent — la justification résiste mieux que la déduction ; la concession est partagée (<em>cependant</em> monte, <em>pourtant</em> est divisé par deux). On passe d'une prose qui <em>démontre</em> à une prose qui <em>explique</em>.</p>
-<p>La ponctuation raconte la même histoire : 20,8 points d'interrogation pour 10 000 mots dans les <em>Essais</em>, 9,6 dans l'<em>Esquisse</em>, 6,8 dans <em>Le Personnalisme</em> — divisés par trois. Le traité de 1875 pense par questions, en salves :</p>
+<p><em>Donc</em> est presque divisé par deux, <em>si</em> et <em>ainsi</em> sont en net repli, et <em>lorsque</em> est divisé par quatre. La machine à inférer tourne moins vite. Mais <em>car</em> tient, et <em>cependant</em> comme <em>parce que</em> montent, signe que la justification résiste mieux que la déduction. La concession est partagée (<em>cependant</em> monte, <em>pourtant</em> est divisé par deux). On passe d'une prose qui <em>démontre</em> à une prose qui <em>explique</em>.</p>
+<p>La ponctuation va dans le même sens, avec 20,8 points d'interrogation pour 10 000 mots dans les <em>Essais</em>, 9,6 dans l'<em>Esquisse</em> et 6,8 dans <em>Le Personnalisme</em>, soit trois fois moins. Le traité de 1875 pense par questions, en salves :</p>
 <div class="dp-cite">
 <p>Mais qu'est-ce qu'une probabilité morale ? Qu'est-ce qu'un motif de croire ? Qu'est-ce que croire ?</p>
 <span class="dp-source">Deuxième Essai, t. II, p. 90</span>
 </div>
-<p>Trois questions en treize mots, chacune creusant sous la précédente — c'est la respiration même du criticisme militant. La prose de 1903 a rangé ce soufflet : elle pose, elle déroule, elle conclut sans interpeller.</p>
+<p>Ces trois questions en treize mots, chacune creusant sous la précédente, sont la respiration même du criticisme militant. La prose de 1903, qui a rangé ce soufflet, pose, déroule et conclut sans interpeller.</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="temps">
-<summary class="dp-titre"><span class="dp-rang">les modes</span><span class="dp-texte">Le traité conjecture, l'histoire raconte</span></summary>
+<summary class="dp-titre"><span class="dp-rang">les modes</span><span class="dp-texte">Le traité conjecture, l'histoire rapporte</span></summary>
 <div class="dp-corps">
-<p>Quatre temps verbaux identifiables par leur seule terminaison, une fois les pièges écartés (pour 10 000 mots) :</p>
+<p>Une fois les pièges écartés, quatre temps verbaux sont identifiables par leur seule terminaison (fréquences pour 10 000 mots).</p>
 <table class="dp-tab">
 <thead><tr><th>strate</th><th>imparfait</th><th>conditionnel</th><th>futur</th><th>passé simple</th></tr></thead>
 <tbody>
@@ -413,29 +413,29 @@ Le corpus est celui de la page [Lexicométrie](/recherche/linguistique/lexicomet
 <tr><td class="dp-t92"><em>1892</em></td><td class="dp-t92">39,8</td><td class="dp-t92">48,4</td><td class="dp-t92">19,6</td><td class="dp-t92">0,6</td></tr>
 </tbody>
 </table>
-<p>Chaque livre a son mode dominant, et c'est son portrait. Les <em>Essais</em> sont le règne du <strong>conditionnel</strong> : un traité critique pèse des hypothèses, envisage ce qui s'ensuivrait, écarte ce qu'on ne saurait conclure —</p>
+<p>Chaque livre a son mode dominant, qui en trace le portrait. Les <em>Essais</em> sont le règne du <strong>conditionnel</strong>, mode du traité critique, qui pèse des hypothèses, envisage ce qui s'ensuivrait et écarte ce qu'on ne saurait conclure :</p>
 <div class="dp-cite">
 <p>La réciproque simple <em>eq</em> = <em>e</em> (non <em>m</em>) n'est pas généralement vraie, et de ce qu'une espèce de <em>m</em> est espèce de l'autre que <em>q</em>, on ne saurait conclure qu'une espèce de <em>q</em> soit espèce de l'autre que <em>m</em>.</p>
 <span class="dp-source">Premier Essai, t. II, p. 18</span>
 </div>
-<p>L'<em>Esquisse</em> fait basculer la prose dans l'<strong>imparfait</strong>, le temps de l'historien des doctrines — ce que tel penseur <em>admettait</em>, ce qu'il <em>démontrait</em> :</p>
+<p>L'<em>Esquisse</em> fait basculer la prose dans l'<strong>imparfait</strong>, temps de l'historien des doctrines, qui rapporte ce que tel penseur <em>admettait</em> ou ce qu'il <em>démontrait</em> :</p>
 <div class="dp-cite">
 <p>Il démontrait que la pluralité est impossible, à l'aide toujours du grand axiome éléatique de la <em>non existence du non être</em>.</p>
 <span class="dp-source">Esquisse, t. I, p. 41</span>
 </div>
-<p>Et <em>Le Personnalisme</em>, livre-bilan, reste dans l'imparfait — celui, surtout, de l'historien des théories de la perception et de la physique. Le <strong>futur</strong>, lui, s'éteint (divisé par 2,7). C'est qu'il était pour une bonne part le futur d'architecte, celui qui annonce la suite du traité :</p>
+<p>Dans <em>Le Personnalisme</em>, livre-bilan, la prose demeure dans l'imparfait, surtout celui de l'historien des théories de la perception et de la physique. Le <strong>futur</strong>, en revanche, s'éteint (divisé par 2,7), car il était pour une bonne part le futur d'architecte, celui qui annonce la suite du traité :</p>
 <div class="dp-cite">
 <p>Puis des considérations accessoires la corroborent, notamment celle qui se tire des faits dits de hasard et de la loi des grands nombres, comme nous le verrons tout à l'heure.</p>
 <span class="dp-source">Deuxième Essai, t. II, p. 90</span>
 </div>
-<p>Moins d'annonces, c'est moins d'échafaudage : le dernier livre n'a plus de chantier à promettre. Quant au <strong>passé simple</strong>, il est marginal partout — deux à quatre formes pour 10 000 mots, presque zéro dans le tome de contrôle : Renouvier ne narre pas, même quand il fait de l'histoire ; il tient les doctrines au bout de son imparfait, à distance constante du présent où il juge.</p>
+<p>Moins d'annonces signifie moins d'échafaudage, le dernier livre n'ayant plus de chantier à promettre. Quant au <strong>passé simple</strong>, il est marginal partout, avec deux à quatre formes pour 10 000 mots et presque aucune dans le tome de contrôle. Renouvier ne narre pas, même quand il fait de l'histoire ; il tient les doctrines au bout de son imparfait, à distance constante du présent où il juge.</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="datation">
-<summary class="dp-titre"><span class="dp-rang">le clou</span><span class="dp-texte">La grammaire date les textes : le test de 1892</span></summary>
+<summary class="dp-titre"><span class="dp-rang">l'épreuve</span><span class="dp-texte">Dater les textes par la grammaire : le test de 1892</span></summary>
 <div class="dp-corps">
-<p>Dernière expérience, la plus forte. La stylométrie sait depuis longtemps que les mots-outils — <em>de</em>, <em>que</em>, <em>mais</em>, <em>ne</em>, <em>donc</em>… — forment une signature involontaire, stable chez un auteur mais sensible à ses époques. On a donc découpé chaque strate en segments de 20 000 mots, mesuré la fréquence des 120 mots-outils les plus courants dans chaque segment, et calculé la distance moyenne entre segments (Delta de Burrows) :</p>
+<p>Reste la dernière expérience, la plus forte. La stylométrie sait depuis longtemps que les mots-outils (<em>de</em>, <em>que</em>, <em>mais</em>, <em>ne</em>, <em>donc</em>…) forment une signature involontaire, stable chez un auteur mais sensible à ses époques. On a donc découpé chaque strate en segments de 20 000 mots, mesuré dans chaque segment la fréquence des 120 mots-outils les plus courants, puis calculé la distance moyenne entre segments (Delta de Burrows).</p>
 <table class="dp-tab">
 <thead><tr><th>comparaison</th><th>distance</th></tr></thead>
 <tbody>
@@ -445,8 +445,8 @@ Le corpus est celui de la page [Lexicométrie](/recherche/linguistique/lexicomet
 <tr><td>1875 ↔ 1903</td><td><strong>1,279</strong></td></tr>
 </tbody>
 </table>
-<p>Les distances entre époques sont, dans l'ensemble, supérieures aux distances internes, mais l'écart est faible et pas général : la distance entre 1885-1886 et 1903 (1,074) reste inférieure à la dispersion interne de 1875 (1,117). Les trois strates se distinguent sans s'opposer nettement, et les mots-outils ne sont pas indifférents au genre : un traité n'emploie pas <em>je</em> ou <em>nous</em> comme une histoire des doctrines. Les distances respectent du moins la chronologie : 1875 et 1903 sont les plus éloignés, 1885-1886 se place entre les deux. Trois points ne suffisent pas à établir une évolution continue ; ils sont compatibles avec elle.</p>
-<p>D'où le test. Le tome de contrôle porte la date de 1892, mais c'est la révision d'un texte écrit sous l'Empire, vers 1864 — un composé de deux mains du même homme à trente ans d'écart. Si la signature grammaticale date vraiment les textes, elle doit voir sous la date de couverture. On a demandé à chacun de ses quatre segments de quelle strate il est le plus proche :</p>
+<p>Dans l'ensemble, les distances entre époques sont supérieures aux distances internes, mais l'écart est faible et non général, puisque la distance entre 1885-1886 et 1903 (1,074) reste inférieure à la dispersion interne de 1875 (1,117). Les trois strates se distinguent sans s'opposer nettement, et les mots-outils ne sont pas indifférents au genre, un traité n'employant pas <em>je</em> ou <em>nous</em> comme une histoire des doctrines. Du moins les distances respectent-elles la chronologie, 1875 et 1903 étant les plus éloignés et 1885-1886 se plaçant entre les deux. Trois points ne suffisent pas à établir une évolution continue ; ils sont compatibles avec elle.</p>
+<p>Ce constat appelle un test. Le tome de contrôle porte la date de 1892, mais c'est la révision d'un texte écrit sous l'Empire, vers 1864, et donc un composé de deux mains du même homme à trente ans d'écart. Si la signature grammaticale date effectivement les textes, elle doit voir sous la date de couverture. On a cherché, pour chacun de ses quatre segments, la strate dont il est le plus proche.</p>
 <table class="dp-tab">
 <thead><tr><th>segment</th><th>dist. 1875</th><th>dist. 1886</th><th>dist. 1903</th><th>verdict</th></tr></thead>
 <tbody>
@@ -456,20 +456,20 @@ Le corpus est celui de la page [Lexicométrie](/recherche/linguistique/lexicomet
 <tr><td>1892 — 4ᵉ</td><td>0,797</td><td><strong>0,728</strong></td><td>0,742</td><td><strong>1886</strong></td></tr>
 </tbody>
 </table>
-<p>Trois segments sur quatre votent 1875 — mais le premier ne compte pas : il couvre pour l'essentiel l'Introduction de 1892, qui reprend le Résumé des principes de la psychologie rationnelle déjà présent dans la strate 1875 (Deuxième Essai, t. III), au point que 81 % de ses mots s'y retrouvent à l'identique. Restent trois segments indépendants : deux votent 1875, un 1885-1886. Le résultat est compatible avec une syntaxe restée proche de celle des <em>Essais</em> ; il ne prouve pas que la révision de 1892 a laissé intacte la langue de 1864. Le dernier segment penche vers la langue tardive : une inflexion que la statistique constate sans pouvoir, seule, l'assigner à telle ou telle couche de la révision — c'est ici que le comptage passe le relais à la philologie.</p>
-<p class="dp-renvoi">Laquelle a déjà fait sa part : la page <a href="/recherche/complications/evolution/">Comment je suis arrivé à cette conclusion</a> compare mot à mot les états successifs de l'Introduction, c'est-à-dire du premier segment, celui qui vote 1875 : les repentirs de 1892 ont échappé à la grammaire, et l'inflexion du quatrième segment vient d'ailleurs, des derniers chapitres du tome.</p>
+<p>Trois segments sur quatre votent 1875, mais le premier ne compte pas. Il couvre pour l'essentiel l'Introduction de 1892, qui reprend le Résumé des principes de la psychologie rationnelle déjà présent dans la strate 1875 (Deuxième Essai, t. III), au point que 81 % de ses mots s'y retrouvent à l'identique. Des trois segments indépendants qui restent, deux votent 1875 et un 1885-1886. Le résultat est compatible avec une syntaxe restée proche de celle des <em>Essais</em>, sans prouver que la révision de 1892 ait laissé intacte la langue de 1864. Quant au dernier segment, il penche vers la langue tardive, inflexion que la statistique constate sans pouvoir, seule, l'assigner à telle ou telle couche de la révision. Ici, le comptage passe le relais à la philologie.</p>
+<p class="dp-renvoi">Celle-ci a déjà fait sa part, puisque la page <a href="/recherche/complications/evolution/">Comment je suis arrivé à cette conclusion</a> compare mot à mot les états successifs de l'Introduction, c'est-à-dire du premier segment, celui qui vote 1875. Les repentirs de 1892 ont échappé à la grammaire, et l'inflexion du quatrième segment vient d'ailleurs, des derniers chapitres du tome.</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="méthode">
 <summary class="dp-titre"><span class="dp-rang">les décisions</span><span class="dp-texte">Note de méthode, pièges et dictionnaires</span></summary>
 <div class="dp-corps">
-<p><strong>Corpus et préparation</strong> : identiques à la page <a href="/recherche/linguistique/lexicometrie/">Lexicométrie</a> (strates closes, césures recollées, élisions détachées, inversions <em>est-il</em> dénouées — sans quoi les pronoms inversés échapperaient au comptage).</p>
+<p><strong>Corpus et préparation</strong> sont identiques à ceux de la page <a href="/recherche/linguistique/lexicometrie/">Lexicométrie</a> (strates closes, césures recollées, élisions détachées, inversions <em>est-il</em> dénouées, sans quoi les pronoms inversés échapperaient au comptage).</p>
 <p><strong>Classes fermées retenues.</strong> Déterminants (articles, démonstratifs, possessifs, indéfinis) ; pronoms personnels (sujets et compléments), qui servent au pli sur les personnes ; prépositions ; conjonctions de coordination et de subordination ; adverbes de négation ; formes conjuguées d'<em>être</em> et d'<em>avoir</em> ; une liste d'adverbes de haute fréquence (<em>ainsi</em>, <em>aussi</em>, <em>encore</em>, <em>toujours</em>…).</p>
-<p><strong>Ambiguïtés assumées.</strong> <em>Il</em> inclut l'impersonnel (<em>il faut</em>) : la chute du <em>je</em> n'en dépend pas. <em>Que</em> n'est pas ventilé entre relatif, conjonction et adverbe : on ne l'interprète jamais seul. <em>En</em>, <em>le</em>, <em>leur</em> cumulent leurs emplois : ils ne portent aucune conclusion de cette page. La segmentation en phrases protège les abréviations courantes ; ses erreurs résiduelles ne sont pas mesurées ; on suppose qu'elles pèsent à peu près également sur les quatre strates, donc peu sur leurs écarts.</p>
-<p><strong>Dictionnaires de décision (extraits).</strong> Écartés de l'imparfait : <em>fait, ait, sait, aient, parfait, satisfait, imparfait, bienfait, souhait, trait, attrait, extrait, portrait, abstrait, soustrait, retrait, distrait</em>. Écartés du passé simple (présents en <em>-èrent</em> et voisins) : <em>diffèrent, demeurent, tirent, figurent, suggèrent, opèrent, concourent, altèrent, meurent, attirent, acquièrent, mesurent, considèrent, préfèrent, espèrent</em>. Écartés du futur : <em>vrai, barbara</em> (le mode syllogistique !), et les présents en <em>-rons</em> des verbes en <em>-rer</em> (<em>considérons, ignorons, comparons…</em>). Distinction fine : <em>-erait</em> = conditionnel, <em>-érait</em> = imparfait (<em>considérerait</em> / <em>considérait</em>). Imparfaits repêchés hors règle : <em>offrait, découvrait, démontrait, souffrait, ouvrait</em>. En <em>-ment</em>, classés noms : <em>mouvement, sentiment, développement, moment, jugement, fondement, entendement, commencement, changement, raisonnement, élément, événement…</em> ; classés verbes : <em>forment, réclament, affirment, expriment…</em> ; <em>comment</em> à part. Toute forme non couverte par une règle ou une liste reste sans étiquette et compte au résidu (0,088 % des mots).</p>
+<p><strong>Ambiguïtés assumées.</strong> <em>Il</em> inclut l'impersonnel (<em>il faut</em>), ce qui n'affecte pas la chute du <em>je</em>. <em>Que</em> n'étant pas ventilé entre relatif, conjonction et adverbe, on ne l'interprète jamais seul. <em>En</em>, <em>le</em> et <em>leur</em>, qui cumulent leurs emplois, ne portent aucune conclusion de cette page. Le découpage en phrases protège les abréviations courantes ; ses erreurs résiduelles, non mesurées, sont supposées peser à peu près également sur les quatre strates, donc peu sur leurs écarts.</p>
+<p><strong>Dictionnaires de décision (extraits).</strong> Écartés de l'imparfait : <em>fait, ait, sait, aient, parfait, satisfait, imparfait, bienfait, souhait, trait, attrait, extrait, portrait, abstrait, soustrait, retrait, distrait</em>. Écartés du passé simple (présents en <em>-èrent</em> et voisins) : <em>diffèrent, demeurent, tirent, figurent, suggèrent, opèrent, concourent, altèrent, meurent, attirent, acquièrent, mesurent, considèrent, préfèrent, espèrent</em>. Écartés du futur : <em>vrai, barbara</em> (le mode syllogistique), et les présents en <em>-rons</em> des verbes en <em>-rer</em> (<em>considérons, ignorons, comparons…</em>). Distinction fine : <em>-erait</em> = conditionnel, <em>-érait</em> = imparfait (<em>considérerait</em> / <em>considérait</em>). Imparfaits réintégrés hors règle : <em>offrait, découvrait, démontrait, souffrait, ouvrait</em>. En <em>-ment</em>, classés noms : <em>mouvement, sentiment, développement, moment, jugement, fondement, entendement, commencement, changement, raisonnement, élément, événement…</em> ; classés verbes : <em>forment, réclament, affirment, expriment…</em> ; <em>comment</em> à part. Toute forme en <em>-ment</em> non couverte par une règle ou une liste reste sans étiquette et compte au résidu (0,088 % des mots).</p>
 <p><strong>Delta de Burrows.</strong> Segments de 20 000 mots (18 pour 1875, 19 pour 1886, 8 pour 1903, 4 pour 1892) ; 120 mots-outils les plus fréquents du corpus commun ; fréquences centrées-réduites sur l'ensemble des segments ; distance = moyenne des écarts absolus. Le classement d'un segment se fait par distance au profil moyen de chaque strate.</p>
-<p><strong>Reproductibilité.</strong> Comme pour la page voisine : un unique programme de dépouillement, des règles énoncées, les transcriptions publiques de ce site. La page <a href="/recherche/linguistique/methode/">Méthode et reproductibilité</a> publie le programme intégral, les dictionnaires complets et des valeurs-témoins de vérification. Refaites le comptage : vous retrouverez ces nombres — c'est la définition même du protocole.</p>
+<p><strong>Reproductibilité.</strong> Comme pour la page voisine, tout repose sur un unique programme de dépouillement, des règles énoncées et les transcriptions publiques de ce site. La page <a href="/recherche/linguistique/methode/">Méthode et reproductibilité</a> publie le programme intégral, les dictionnaires complets et des valeurs-témoins. Que quiconque refait le comptage retrouve ces nombres, telle est la définition même du protocole.</p>
 </div>
 </details>
 
@@ -535,8 +535,8 @@ Le corpus est celui de la page [Lexicométrie](/recherche/linguistique/lexicomet
 
 ## Note de méthode
 
-Cette page suit les règles des dépliants de la sous-section « Œuvres à déplier » — [Compliquer les Essais pour les expliquer](../complications/essais.md) et [La physique du personnalisme](../complications/physique-tardive.md) : le pli conserve tout ; les voies non prises restent visibles ; la profondeur se compte aux filets ; le parcours se souvient ; la typographie dit qui parle, sérif pour Renouvier, linéale pour le commentaire.
+Cette page suit les règles des dépliants de la sous-section « Œuvres à déplier », [Compliquer les Essais pour les expliquer](../complications/essais.md) et [La physique du personnalisme](../complications/physique-tardive.md). Le pli y conserve tout, les voies non prises restent visibles, la profondeur se compte aux filets, le parcours se souvient et la typographie dit qui parle (sérif pour Renouvier, linéale pour le commentaire).
 
-Elle en ajoute une, qui lui est propre : **aucun nombre n'y figure qui ne sorte du programme publié** sur la page [Méthode et reproductibilité](methode.md), appliqué aux transcriptions du site ; chaque citation est donnée avec son tome et sa page.
+Elle en ajoute une qui lui est propre, selon laquelle **aucun nombre n'y figure qui ne sorte du programme publié** sur la page [Méthode et reproductibilité](methode.md), appliqué aux transcriptions du site ; chaque citation est donnée avec son tome et sa page.
 
 **Sources.** *Essais de critique générale*, 2ᵉ éd., Au Bureau de la Critique philosophique, 1875 : *Premier Essai*, t. II–III ; *Deuxième Essai*, t. II–III. — *Esquisse d'une classification systématique des doctrines philosophiques*, t. I (1885) et t. II (1886). — *Le Personnalisme, suivi d'une étude sur la perception externe et sur la force*, Félix Alcan, 1903. — Point de contrôle : *Troisième Essai, Les Principes de la nature*, 2ᵉ éd. corrigée et augmentée, 1892, t. I. Transcriptions intégrales de ce site ; étiquetage et comptages sur ces transcriptions.

@@ -4,17 +4,15 @@ title: "Licence"
 
 # Droits et licences
 
-Ce projet comporte trois types de contenus soumis à des régimes distincts.
+Les contenus du site relèvent de trois régimes distincts.
 
 ## 1. Textes originaux
 
-Les textes de Charles Renouvier (1815-1903) et des autres auteurs présents sur ce site sont dans le **domaine public**.
+Les textes de Charles Renouvier (1815-1903) et des autres auteurs publiés sur ce site appartiennent au **domaine public**.
 
 ## 2. Transcriptions et balisage
 
-Les transcriptions numériques et le balisage (structuration, pagination, mise en forme) sont placés sous licence :
-
-**Creative Commons Attribution 4.0 International (CC BY 4.0)**
+Les transcriptions numériques et le balisage (structuration, pagination, mise en forme) sont placés sous la licence **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
 Vous êtes autorisé à :
 
@@ -29,6 +27,6 @@ Texte intégral de la licence : [creativecommons.org/licenses/by/4.0](https://cr
 
 ## 3. Annotations et traductions
 
-Les annotations, introductions, commentaires et traductions éventuellement présents sur ce site sont, sauf mention contraire, **tous droits réservés**.
+Sauf mention contraire, les annotations, introductions, commentaires et traductions éventuellement présents sur ce site sont soumis au régime **tous droits réservés**.
 
-Pour toute demande de réutilisation de ces contenus, veuillez contacter le responsable du projet.
+Toute demande de réutilisation de ces contenus est à adresser au responsable du projet.
