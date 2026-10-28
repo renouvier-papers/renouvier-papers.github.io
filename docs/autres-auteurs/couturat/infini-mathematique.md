@@ -6644,7 +6644,7 @@ La manière de faire cette vérification est bien connue : on échange les corps
 
 [p. 372]
 
-[page non transcrite : le fichier source img/p_372.png ne reproduit pas la page 372, mais un second scan de la page 371 (en-tête « CH. I. — DE LA MESURE DES GRANDEURS · 371 »). L'OCR ocr/p_372.txt est identique. La page 372 — fin du § 6 et § 7 de l'imprimé — est absente du corpus et doit être rescannée.]
+[Page manquante dans la numérisation utilisée, qui reproduit deux fois la page 371.]
 
 [p. 373]
 

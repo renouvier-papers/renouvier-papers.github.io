@@ -1,13 +1,13 @@
 ---
 title: "Méthode et reproductibilité"
-description: "Données, règles, dictionnaires complets et programme intégral du dépouillement — tout ce qu'il faut pour refaire les chiffres."
+description: "Données, règles, dictionnaires complets et programme intégral du dépouillement, soit tout ce qu'il faut pour refaire les chiffres."
 ---
 
 # Méthode et reproductibilité
 
-Les deux pages voisines — [Lexicométrie](/recherche/linguistique/lexicometrie/) et [Étiquetage morpho-syntaxique](/recherche/linguistique/etiquetage-morphosyntaxique/) — avancent des nombres. Un nombre qu'on ne peut pas refaire n'est pas un résultat : c'est une anecdote. Cette page contient donc tout ce qu'il faut pour refaire ceux-là : les données identifiées, chaque règle de préparation et de calcul énoncée, les dictionnaires de décision au complet, **le programme intégral**, et un mode d'emploi de vérification avec valeurs-témoins.
+Les deux pages voisines, [Lexicométrie](/recherche/linguistique/lexicometrie/) et [Étiquetage morpho-syntaxique](/recherche/linguistique/etiquetage-morphosyntaxique/), avancent des nombres. Or un nombre que l'on ne peut refaire est une anecdote, non un résultat. Cette page réunit donc tout ce qu'il faut pour refaire ces nombres, à savoir les données identifiées, chaque règle de préparation et de calcul énoncée, les dictionnaires de décision au complet, **le programme intégral** et un mode d'emploi de vérification avec valeurs-témoins.
 
-Rien ici n'est aléatoire, rien n'est appris : la chaîne est déterministe de bout en bout. Deux exécutions sur les mêmes fichiers donnent les mêmes nombres, à la machine près. Si vous trouvez un écart, c'est le plus souvent que nos deux copies du texte diffèrent — le programme signale tout écart de plus de 0,5 % sur le nombre de mots —, sinon qu'il y a une erreur, la nôtre ou la vôtre. **Rien ne disparaît quand vous ouvrez.**
+La chaîne, où rien n'est aléatoire ni appris, est déterministe de bout en bout. Deux exécutions sur les mêmes fichiers donnent les mêmes nombres, à la machine près. Un écart constaté tient le plus souvent à une différence entre les deux copies du texte, la nôtre et celle du lecteur (le programme signale tout écart de plus de 0,5 % sur le nombre de mots), sinon à une erreur, d'un côté ou de l'autre. **Ouvrir un pli ne fait rien disparaître.**
 
 <div class="dp" id="dp">
 <style>
@@ -303,19 +303,19 @@ Rien ici n'est aléatoire, rien n'est appris : la chaîne est déterministe de b
 <details class="dp-pli" data-rang="principe">
 <summary class="dp-titre"><span class="dp-rang">le contrat</span><span class="dp-texte">Ce que « reproductible » veut dire ici</span></summary>
 <div class="dp-corps">
-<p>Quatre conditions, toutes remplies ou la page ne vaut rien :</p>
-<p><strong>1. Données publiques.</strong> Le corpus est fait des transcriptions intégrales publiées sur ce site — pas d'un état privé du texte. Quiconque lit les mêmes pages part des mêmes octets.</p>
-<p><strong>2. Règles énoncées.</strong> Chaque transformation — ce qu'on retire, ce qu'on recolle, comment on découpe les mots et les phrases, comment on calcule — est écrite en toutes lettres au pli suivant, et une seconde fois, sous forme exécutable, dans le programme.</p>
-<p><strong>3. Programme publié.</strong> Le pli « Le programme, intégral » contient le code complet du dépouillement, sans dépendance cachée : Python 3, les bibliothèques de calcul numpy et scipy, rien d'autre. Pas de modèle statistique appris, pas de tirage aléatoire : la chaîne est déterministe.</p>
+<p>La page ne vaut que si quatre conditions sont toutes remplies :</p>
+<p><strong>1. Données publiques.</strong> Le corpus est fait des transcriptions intégrales publiées sur ce site, et non d'un état privé du texte. Quiconque lit les mêmes pages part des mêmes octets.</p>
+<p><strong>2. Règles énoncées.</strong> Chaque transformation (ce qu'on retire, ce qu'on recolle, comment on découpe les mots et les phrases, comment on calcule) est écrite en toutes lettres dans le pli « Les règles, une à une », puis une seconde fois, sous forme exécutable, dans le programme.</p>
+<p><strong>3. Programme publié.</strong> Le pli « Le programme, intégral » contient le code complet du dépouillement, sans dépendance cachée, puisqu'il ne requiert que Python 3 et les bibliothèques de calcul numpy et scipy. La chaîne, sans modèle statistique appris ni tirage aléatoire, est déterministe.</p>
 <p><strong>4. Résultats confrontables.</strong> Le programme imprime, dans l'ordre, tous les tableaux des deux pages voisines. Le dernier pli donne des valeurs-témoins pour une vérification en cinq minutes.</p>
-<p>Une conséquence assumée : quand la consolidation du programme a déplacé un chiffre d'un dixième par rapport à un premier dépouillement de travail, ce sont <em>les pages</em> qui ont été corrigées, jamais le programme qui a été ajusté pour retrouver un nombre. Le code fait foi.</p>
+<p>Ce contrat entraîne une conséquence assumée. Lorsque la consolidation du programme a déplacé un chiffre d'un dixième par rapport à un premier dépouillement de travail, ce sont <em>les pages</em> qui ont été corrigées, jamais le programme qui a été ajusté pour retrouver un nombre. Le code fait foi.</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="données">
 <summary class="dp-titre"><span class="dp-rang">les octets de départ</span><span class="dp-texte">Les données, identifiées et contrôlées</span></summary>
 <div class="dp-corps">
-<p>Huit fichiers, quatre strates. Les effectifs de la dernière colonne sont ceux que le programme attend : il compare son propre décompte à ces valeurs et avertit si l'écart dépasse 0,5 % — le garde-fou qui détecte une copie divergente du texte.</p>
+<p>Huit fichiers forment quatre strates. Les effectifs de la dernière colonne sont ceux qu'attend le programme, qui compare son propre décompte à ces valeurs et avertit si l'écart dépasse 0,5 %. Ce garde-fou détecte une copie divergente du texte.</p>
 <table class="dp-tab">
 <thead><tr><th>strate</th><th>volumes (transcriptions du site)</th><th>mots attendus</th></tr></thead>
 <tbody>
@@ -325,8 +325,8 @@ Rien ici n'est aléatoire, rien n'est appris : la chaîne est déterministe de b
 <tr><td class="dp-t92"><em>1892</em></td><td class="dp-t92">Troisième Essai, t. I (2ᵉ éd.)</td><td class="dp-t92">88 913</td></tr>
 </tbody>
 </table>
-<p><strong>Ce qui est retiré</strong> avant tout comptage : l'en-tête technique de chaque fichier, la notice d'édition, le balisage des titres de chapitres, les marqueurs de pagination, les appels de note numériques (ceux de la forme [^p246-1] ne le sont pas : chacun laisse un jeton parasite « p », environ 0,1 % du texte), les marques typographiques d'italique. <strong>Ce qui est gardé</strong> : tout le texte de Renouvier, préfaces, formulaires et citations d'autrui compris.</p>
-<p><strong>Ce qui est recollé.</strong> Les transcriptions coupent des mots en trois circonstances, toutes réparées avant comptage (le programme publié n'imprime pas ces nombres de cas ; on les obtient en comptant les substitutions de chaque règle) :</p>
+<p><strong>Ce qui est retiré</strong> avant tout comptage comprend l'en-tête technique de chaque fichier, la notice d'édition, le balisage des titres de chapitres, les marqueurs de pagination, les appels de note numériques (ceux de la forme [^p246-1] ne sont pas retirés et laissent chacun un jeton parasite « p », environ 0,1 % du texte) et les marques typographiques d'italique. <strong>Ce qui est gardé</strong> englobe tout le texte de Renouvier, préfaces, formulaires et citations d'autrui compris.</p>
+<p><strong>Ce qui est recollé.</strong> Les transcriptions coupent des mots en trois circonstances, toutes réparées avant comptage (le programme publié n'imprime pas ces nombres de cas ; on les obtient en comptant les substitutions de chaque règle).</p>
 <table class="dp-tab">
 <thead><tr><th>règle</th><th>motif</th><th>exemple</th><th>cas</th></tr></thead>
 <tbody>
@@ -335,27 +335,27 @@ Rien ici n'est aléatoire, rien n'est appris : la chaîne est déterministe de b
 <tr><td>c</td><td>marqueur de page enclavé dans le mot</td><td>« mouve[p. 218]ment »</td><td>506</td></tr>
 </tbody>
 </table>
-<p>La règle c est de loin la plus fréquente — et la plus sournoise : sans elle, 506 mots deviendraient 1 012 fragments, dont des dizaines de faux « ment » isolés. C'est le genre de défaut qu'on ne soupçonne qu'en inspectant ses propres résidus : nous l'avons trouvé parce qu'un premier comptage donnait 49 occurrences du « mot » <em>ment</em>.</p>
+<p>La règle c est de loin la plus fréquente, et la plus insidieuse. Sans elle, 506 mots deviendraient 1 012 fragments, dont des dizaines de faux « ment » isolés. On ne soupçonne ce genre de défaut qu'en inspectant ses propres résidus. Nous l'avons trouvé parce qu'un premier comptage donnait 49 occurrences du « mot » <em>ment</em>.</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="règles">
 <summary class="dp-titre"><span class="dp-rang">la chaîne</span><span class="dp-texte">Les règles, une à une</span></summary>
 <div class="dp-corps">
-<p><strong>Découpage en mots.</strong> Un mot est une suite de lettres, traits d'union internes compris (<em>peut-être</em>, <em>c'est-à-dire</em> restent entiers), apostrophe finale comprise pour les élisions. Trois normalisations d'époque : les élisions sont détachées (<em>l'espace</em> → <em>l'</em> + <em>espace</em>) ; le trait d'union du XIXᵉ siècle après <em>très-</em> est dénoué (<em>très-grand</em> → <em>très grand</em>) ; les inversions verbe-pronom sont rendues à leurs mots (<em>est-il</em> → <em>est</em> + <em>il</em>, <em>a-t-on</em> → <em>a</em> + <em>on</em>) — sans quoi tout pronom inversé échapperait au comptage des personnes. Tous les comptages se font en minuscules.</p>
-<p><strong>Découpage en phrases.</strong> Coupe après point, point d'interrogation, point d'exclamation ou points de suspension suivis d'une majuscule ou d'un guillemet ouvrant — après avoir protégé une liste close d'abréviations (M., MM., Mme, Mlle, St, etc., ch., liv., art., sect., vol., t., p., pp., fig., no, cf., ibid., op., cit., trad., éd., Voy., les initiales isolées et le signe §). Seules comptent les phrases d'au moins dix lettres. Les erreurs résiduelles de ce découpage ne sont pas mesurées ; on suppose qu'elles pèsent à peu près également sur les quatre strates, et donc peu sur les écarts entre elles, qui seuls sont interprétés.</p>
-<p><strong>Fréquences.</strong> Toujours rapportées pour 10 000 mots de la strate. Les regroupements (<em>force(s)</em>, <em>je, j'</em>) sont indiqués sur la ligne même du tableau qui les utilise — il n'y a pas de lemmatisation cachée.</p>
-<p><strong>Richesse lexicale.</strong> Nombre de mots différents par tranches consécutives de 10 000 mots, moyenné sur les tranches — seule façon de comparer des livres de tailles différentes, la richesse brute croissant mécaniquement avec la taille.</p>
-<p><strong>Spécificités.</strong> Méthode hypergéométrique de Lafon (1980). Pour un mot de fréquence totale K dans la réunion des trois strates (N mots), et de fréquence k dans une strate de taille n : si le mot y est sur-représenté, on calcule la probabilité d'observer <em>au moins</em> k occurrences en tirant n mots sans remise parmi N ; s'il y est sous-représenté, la probabilité d'en observer <em>au plus</em> k. L'indice publié est S = ±log₁₀ de cette probabilité (positif : sur-représentation). Seuil de calcul : K ≥ 20 ; seuil d'affichage : S ≥ 8 pour les palmarès, qui ne retiennent que les sur-représentations (les valeurs négatives, comme S = −46 pour <em>création</em> en 1875, sont calculées mais non imprimées). La strate de contrôle de 1892 n'entre ni dans N ni dans aucun calcul de spécificité.</p>
-<p><strong>Étiquetage.</strong> Trois voies, dans cet ordre : classes fermées (listes exhaustives du pli suivant), désinences verbales sûres avec dictionnaires d'exceptions, formes en <em>-ment</em> par règles suffixales et listes. Toute forme non couverte reste sans étiquette ; le taux de couverture est publié (58-59 % selon la strate) ainsi que le résidu.</p>
-<p><strong>Delta de Burrows.</strong> Chaque strate est découpée en segments consécutifs de 20 000 mots (18 segments pour 1875, 19 pour 1886, 8 pour 1903, 4 pour 1892). On mesure la fréquence, dans chaque segment, des 120 mots-outils les plus fréquents du corpus commun ; chaque mot-outil est centré-réduit sur l'ensemble des segments, ceux de 1892 compris ; la distance entre deux segments est la moyenne des écarts absolus. La datation d'un segment de 1892 est la strate dont le profil moyen lui est le plus proche. La liste exacte des 120 mots-outils est imprimée par le programme à chaque exécution : ce sont les formes les plus fréquentes des trois strates datées parmi une liste fermée de 178 mots grammaticaux (<code>FERMEES</code>), établie à la main.</p>
+<p><strong>Découpage en mots.</strong> Un mot est une suite de lettres, traits d'union internes compris (<em>peut-être</em>, <em>c'est-à-dire</em> restent entiers), apostrophe finale comprise pour les élisions. Trois normalisations d'époque détachent les élisions (<em>l'espace</em> → <em>l'</em> + <em>espace</em>), dénouent le trait d'union du XIXᵉ siècle après <em>très-</em> (<em>très-grand</em> → <em>très grand</em>) et rendent les inversions verbe-pronom à leurs mots (<em>est-il</em> → <em>est</em> + <em>il</em>, <em>a-t-on</em> → <em>a</em> + <em>on</em>), sans quoi tout pronom inversé échapperait au comptage des personnes. Tous les comptages se font en minuscules.</p>
+<p><strong>Découpage en phrases.</strong> Après protection d'une liste close d'abréviations (M., MM., Mme, Mlle, St, etc., ch., liv., art., sect., vol., t., p., pp., fig., no, cf., ibid., op., cit., trad., éd., Voy., les initiales isolées et le signe §), le texte est coupé après point, point d'interrogation, point d'exclamation ou points de suspension suivis d'une majuscule ou d'un guillemet ouvrant. Seules comptent les phrases d'au moins dix lettres. Les erreurs résiduelles de ce découpage, non mesurées, sont supposées peser à peu près également sur les quatre strates, et donc peu sur les écarts entre elles, qui seuls sont interprétés.</p>
+<p><strong>Fréquences.</strong> Toute fréquence est rapportée pour 10 000 mots de la strate. Les regroupements (<em>force(s)</em>, <em>je, j'</em>) sont indiqués sur la ligne même du tableau qui les utilise, ce qui exclut toute lemmatisation cachée.</p>
+<p><strong>Richesse lexicale.</strong> Nombre moyen de mots différents par tranches consécutives de 10 000 mots, seule façon de comparer des livres de tailles différentes, la richesse brute croissant mécaniquement avec la taille.</p>
+<p><strong>Spécificités.</strong> Méthode hypergéométrique de Lafon (1980). Soit un mot de fréquence totale K dans la réunion des trois strates (N mots) et de fréquence k dans une strate de taille n. S'il y est sur-représenté, on calcule la probabilité d'observer <em>au moins</em> k occurrences en tirant n mots sans remise parmi N ; s'il y est sous-représenté, la probabilité d'en observer <em>au plus</em> k. L'indice publié est S = ±log₁₀ de cette probabilité, positif en cas de sur-représentation. Le seuil de calcul est K ≥ 20, le seuil d'affichage S ≥ 8 pour les palmarès, qui ne retiennent que les sur-représentations (les valeurs négatives, comme S = −46 pour <em>création</em> en 1875, sont calculées mais non imprimées). La strate de contrôle de 1892 n'entre ni dans N ni dans aucun calcul de spécificité.</p>
+<p><strong>Étiquetage.</strong> Trois voies se succèdent, d'abord les classes fermées (listes exhaustives du pli suivant), puis les désinences verbales sûres avec dictionnaires d'exceptions, enfin les formes en <em>-ment</em> par règles suffixales et listes. Toute forme non couverte reste sans étiquette ; le taux de couverture est publié (58-59 % selon la strate), ainsi que le résidu.</p>
+<p><strong>Delta de Burrows.</strong> Chaque strate est découpée en segments consécutifs de 20 000 mots (18 segments pour 1875, 19 pour 1886, 8 pour 1903, 4 pour 1892). On mesure dans chaque segment la fréquence des 120 mots-outils les plus fréquents du corpus commun ; chaque mot-outil est centré-réduit sur l'ensemble des segments, ceux de 1892 compris ; la distance entre deux segments est la moyenne des écarts absolus. Chaque segment de 1892 reçoit la date de la strate dont le profil moyen lui est le plus proche. Le programme imprime à chaque exécution la liste exacte des 120 mots-outils, formes les plus fréquentes des trois strates datées parmi une liste fermée de 178 mots grammaticaux (<code>FERMEES</code>), établie à la main.</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="dictionnaires">
 <summary class="dp-titre"><span class="dp-rang">les décisions</span><span class="dp-texte">Les dictionnaires, complets par construction</span></summary>
 <div class="dp-corps">
-<p>Le principe : aucune décision de classement n'existe hors du programme. Les listes qu'on lit dans le code du pli suivant ne sont pas des extraits de quelque chose de plus grand — elles <em>sont</em> la totalité des décisions. En voici l'inventaire :</p>
+<p>Le principe veut qu'aucune décision de classement n'existe hors du programme. Les listes que l'on lit dans le code du pli suivant <em>sont</em> la totalité des décisions, et non des extraits d'un ensemble plus vaste. Suit leur inventaire.</p>
 <table class="dp-tab">
 <thead><tr><th>ensemble</th><th>rôle</th><th>formes</th></tr></thead>
 <tbody>
@@ -369,15 +369,15 @@ Rien ici n'est aléatoire, rien n'est appris : la chaîne est déterministe de b
 <tr><td>FERMEES</td><td>classes grammaticales fermées (couverture, mots-outils)</td><td>178</td></tr>
 </tbody>
 </table>
-<p>Deux règles générales complètent ces listes, parce qu'elles sont sûres sans exception rencontrée dans ce corpus : une forme en <em>-erait</em> est un conditionnel, une forme en <em>-érait</em> un imparfait (<em>considérerait</em> / <em>considérait</em> : un seul <em>e</em> les sépare) ; et les terminaisons adverbiales productives (<em>-quement</em>, <em>-ellement</em>, <em>-amment</em>, <em>-ivement</em>…) classent d'office. Chaque forme qui échappe aux règles et aux listes reste sans étiquette et grossit le résidu publié — 918 occurrences en <em>-ment</em>, soit 0,088 % du corpus. Qui veut contester un classement n'a qu'un mot à chercher dans le code : la décision y est, nominative.</p>
+<p>Deux règles générales complètent ces listes, parce qu'elles sont sûres sans exception rencontrée dans ce corpus. Selon l'une, une forme en <em>-erait</em> est un conditionnel et une forme en <em>-érait</em> un imparfait (un seul <em>e</em> sépare <em>considérerait</em> de <em>considérait</em>) ; selon l'autre, les terminaisons adverbiales productives (<em>-quement</em>, <em>-ellement</em>, <em>-amment</em>, <em>-ivement</em>…) classent d'office. Chaque forme qui échappe aux règles et aux listes reste sans étiquette et grossit le résidu publié (918 occurrences en <em>-ment</em>, soit 0,088 % du corpus). Qui veut contester un classement n'a qu'un mot à chercher dans le code, où la décision figure nommément.</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="programme">
 <summary class="dp-titre"><span class="dp-rang">le juge de paix</span><span class="dp-texte">Le programme, intégral</span></summary>
 <div class="dp-corps">
-<p>Voici le programme complet — celui-là même qui a produit chaque nombre des deux pages voisines. Dépendances : Python 3, numpy, scipy. Adapter la variable <code>DOSSIER</code> et, si besoin, les noms de fichiers du dictionnaire <code>FICHIERS</code> aux chemins locaux des transcriptions ; l'exécution prend quelques dizaines de secondes et imprime tous les tableaux, dans l'ordre des pages.</p>
-<p class="dp-note"><strong>Télécharger le fichier :</strong> <a href="/recherche/linguistique/depouillement.py" download><code>depouillement.py</code></a> — servi tel quel, identique octet pour octet au code reproduit ci-dessous. Le télécharger plutôt que le copier évite toute altération à la transcription.</p>
+<p>Ci-dessous figure le programme complet, celui-là même qui a produit chaque nombre des deux pages voisines. Il requiert Python 3, numpy et scipy. Adapter la variable <code>DOSSIER</code> et, si besoin, les noms de fichiers du dictionnaire <code>FICHIERS</code> aux chemins locaux des transcriptions. L'exécution prend quelques dizaines de secondes et imprime tous les tableaux, dans l'ordre des pages.</p>
+<p class="dp-note"><strong>Télécharger le fichier :</strong> <a href="/recherche/linguistique/depouillement.py" download><code>depouillement.py</code></a> (servi tel quel, identique octet pour octet au code reproduit ci-dessous). Le télécharger plutôt que le copier évite toute altération à la transcription.</p>
 <pre style="font-size:.72em; line-height:1.5; overflow-x:auto;"><code>#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # ============================================================================
@@ -783,7 +783,7 @@ for k, i in enumerate(idx[&quot;1892&quot;]):
 <details class="dp-pli" data-rang="vérifier">
 <summary class="dp-titre"><span class="dp-rang">en cinq minutes</span><span class="dp-texte">Vérifier — mode d'emploi et valeurs-témoins</span></summary>
 <div class="dp-corps">
-<p><strong>1.</strong> Récupérer les huit transcriptions au format Markdown dans le dépôt du site — docs/oeuvres/essais/premier/tome-2.md et tome-3.md, docs/oeuvres/essais/deuxieme/tome-2.md et tome-3.md, docs/oeuvres/autres/esquisse/tome-1.md et tome-2.md, docs/oeuvres/autres/personnalisme.md, docs/oeuvres/essais/troisieme/tome-1.md — et les enregistrer sous les noms que leur donne <code>FICHIERS</code> dans le programme (essai-1-tome-2.md, etc.). <strong>2.</strong> Télécharger <a href="/recherche/linguistique/depouillement.py" download><code>depouillement.py</code></a> (ou copier le programme du pli précédent) ; régler <code>DOSSIER</code>. <strong>3.</strong> Exécuter : <code>python3 depouillement.py</code>. <strong>4.</strong> Confronter la sortie aux tableaux des deux pages — ou, plus vite, aux témoins ci-dessous, choisis pour couvrir toute la chaîne (préparation, lexique, grammaire, stylométrie) :</p>
+<p><strong>1.</strong> Récupérer les huit transcriptions au format Markdown dans le dépôt du site (docs/oeuvres/essais/premier/tome-2.md et tome-3.md, docs/oeuvres/essais/deuxieme/tome-2.md et tome-3.md, docs/oeuvres/autres/esquisse/tome-1.md et tome-2.md, docs/oeuvres/autres/personnalisme.md, docs/oeuvres/essais/troisieme/tome-1.md) et les enregistrer sous les noms que leur donne <code>FICHIERS</code> dans le programme (essai-1-tome-2.md, etc.). <strong>2.</strong> Télécharger <a href="/recherche/linguistique/depouillement.py" download><code>depouillement.py</code></a> (ou copier le programme du pli précédent) ; régler <code>DOSSIER</code>. <strong>3.</strong> Exécuter <code>python3 depouillement.py</code>. <strong>4.</strong> Confronter la sortie aux tableaux des deux pages ou, plus vite, aux témoins ci-dessous, choisis pour couvrir toute la chaîne (préparation, lexique, grammaire, stylométrie).</p>
 <table class="dp-tab">
 <thead><tr><th>témoin</th><th>valeur attendue</th></tr></thead>
 <tbody>
@@ -797,7 +797,7 @@ for k, i in enumerate(idx[&quot;1892&quot;]):
 <tr><td>datation des 4 segments de 1892</td><td>1875 · 1875 · 1875 · 1886</td></tr>
 </tbody>
 </table>
-<p>Un écart sur les mots de la strate signale des fichiers différents (le programme l'aura déjà dit) ; un écart ailleurs, à fichiers identiques, signale une erreur — la nôtre ou la vôtre — et mérite d'être signalé : c'est ainsi que ces pages s'amendent. Les limites de fond, elles, restent celles dites dans les deux pages : citations d'autrui comptées avec leur hôte, ambiguïtés assumées (<em>il</em> impersonnel, <em>que</em> non ventilé), couverture d'étiquetage de 59 % par choix de certitude. La reproductibilité ne rend pas ces choix indiscutables ; elle les rend discutables précisément — c'est toute la différence.</p>
+<p>Un écart sur les mots de la strate signale des fichiers différents (le programme l'aura déjà dit) ; un écart ailleurs, à fichiers identiques, indique une erreur, d'un côté ou de l'autre, et mérite d'être signalé, car ces pages s'amendent ainsi. Les limites de fond, elles, restent celles qu'énoncent les deux pages, à savoir les citations d'autrui comptées avec leur hôte, les ambiguïtés assumées (<em>il</em> impersonnel, <em>que</em> non ventilé) et une couverture d'étiquetage de 59 % par choix de certitude. La reproductibilité ne rend pas ces choix indiscutables, mais discutables avec précision.</p>
 </div>
 </details>
 
@@ -863,8 +863,8 @@ for k, i in enumerate(idx[&quot;1892&quot;]):
 
 ## Note de méthode
 
-Cette page suit les règles des dépliants de la sous-section « Œuvres à déplier » — [Compliquer les Essais pour les expliquer](../complications/essais.md) et [La physique du personnalisme](../complications/physique-tardive.md) : le pli conserve tout ; les voies non prises restent visibles ; la profondeur se compte aux filets ; le parcours se souvient.
+Cette page suit les règles des dépliants de la sous-section « Œuvres à déplier », [Compliquer les Essais pour les expliquer](../complications/essais.md) et [La physique du personnalisme](../complications/physique-tardive.md). Le pli y conserve tout, les voies non prises restent visibles, la profondeur se compte aux filets et le parcours se souvient.
 
-Elle en ajoute une, qui lui est propre : **tout ce qui y est décrit s'exécute** — le programme publié est celui qui produit les nombres des deux pages voisines, et chacun peut le vérifier sur les transcriptions du site.
+Elle en ajoute une qui lui est propre, selon laquelle **tout ce qui y est décrit s'exécute** ; le programme publié est celui qui produit les nombres des deux pages voisines, et chacun peut le vérifier sur les transcriptions du site.
 
 **Sources.** Transcriptions intégrales de ce site (huit volumes, listés au pli « Les données »). Méthode des spécificités : P. Lafon, « Sur la variabilité de la fréquence des formes dans un corpus », *Mots*, 1, 1980. Delta : J. F. Burrows, « 'Delta' : a Measure of Stylistic Difference and a Guide to Likely Authorship », *Literary and Linguistic Computing*, 17, 2002.

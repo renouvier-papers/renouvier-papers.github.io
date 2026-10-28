@@ -2322,27 +2322,7 @@ La symétrie semblait, avons-nous dit, exiger que le sort des réprouvés fût u
 
 Il faut distinguer ici ce qu'exigeait la logique, en admettant le principe de la limitation des destinées, et ce que des sentiments humains, la barbarie des idées ont ajouté. Autant la logique voulait que le « monde, » le monde des phénomènes incertains, des tentations, des chutes et des *relèvements* eût une fin : qu'à un certain moment, ce qui devait *être* fait fût fait et accompli, et le passé ne pouvant pas n'avoir pas été, et la perité n'étant point possible entre le vrai juste et le vaincu de l'épreuve. Si d'après cela il était interdit de méjuger, pour les âmes moralement perdues, des moyens de retour au bien qui n'eussent été qu'une continuation, et dès lors indéfinie, du monde mortel en leur faveur, il était du moins permis de supposer l'extinction du pécheur par l'effet propre du péché. Le péché n'est-il pas réellement cause de mort, selon l'ordre de la nature, à la suite d'un manquement grave à ses lois, ainsi qu'il l'est de la vie spirituelle, aux termes de l'Écriture ?
 
-Il était possible également de supposer qu'un second degré du mystère de la rédemption se tenait en réserve dans les conseils divins pour la réconciliation finale des pécheurs. Les Pères les plus illustres de l'Église d'Orient, notamment les deux Grégoires, ont recouru à cet expédient pour éviter de déformer l'œuvre bonne de Dieu en l'imaginant souillie à sa fin par la présence éternelle d'un enfer. L'Église latine, au contraire, sur les pas de saint Augustin, principalement, a apporté en théologie, dans l'interprétation de la « colère de Dieu, » dans celle des sentiments prêtés aux élus à l'égard des damnés, l'esprit impitoyable qui, après quelques hésitations, dirigea aussi sa politique temporelle vis-à-vis de l' « hérésie » mère de damnation. La doctrine eschatologique du christianisme se fixa ainsi dans le seu- [p. 682]Corrections apportées aux notes de bas de page de la page 682. Voici l'état attendu du corps et de la note :
-
-**Corps du texte (extrait concerné) :** L'appel `[^p682-1]` est déjà correctement placé après *Primo Amore*. Le bloc de vers qui suit immédiatement dans le corps (`*La somma Sapienza…*` jusqu'à `(Dante, *Enfl inferno*…)`) est un doublon de la définition de note ; il doit être supprimé du corps.
-
-**Note corrigée :**
-
-`[^p682-1]` : trois erreurs de transcription corrigées d'après l'IMAGE :
-1. `Facemi` → `Fecemi` (première ligne du quatrain)
-2. `cose creature` → `cose create` (troisième ligne)
-3. `Enfl` → `Enf°` (abréviation dans la référence Dante)
-
-La définition finale doit être :
-
-```
-*La somma Sapienza el primo Amore.*
-*Dinanzi a me non fur cose create,*
-*Se non etterne : ed io eterno duro.*
-(Dante, *Enf° inferno*, cant. III. C'est l'Enfer qui parle.)
-```
-
-Aucun autre appel de note ni aucune autre définition ne concerne la page 682. Toutes les autres notes du fichier (`[^p3-1]`, `[^p6-1]`, etc.) sont inchangées.
+Il était possible également de supposer qu'un second degré du mystère de la rédemption se tenait en réserve dans les conseils divins pour la réconciliation finale des pécheurs. Les Pères les plus illustres de l'Église d'Orient, notamment les deux Grégoires, ont recouru à cet expédient pour éviter de déformer l'œuvre bonne de Dieu en l'imaginant souillie à sa fin par la présence éternelle d'un enfer. L'Église latine, au contraire, sur les pas de saint Augustin, principalement, a apporté en théologie, dans l'interprétation de la « colère de Dieu, » dans celle des sentiments prêtés aux élus à l'égard des damnés, l'esprit impitoyable qui, après quelques hésitations, dirigea aussi sa politique temporelle vis-à-vis de l' « hérésie » mère de damnation. La doctrine eschatologique du christianisme se fixa ainsi dans le seu- [p. 682] [Page non transcrite.]
 
 
 [^p3-1]: Platon, *La République*, livre IV.
@@ -3474,11 +3454,6 @@ Aucun autre appel de note ni aucune autre définition ne concerne la page 682. T
 [^p670-2]: V. Michelet, *Hist. de France*, t. XIII, p. 419 : — *Du prêtre, de la femme et de la famille*, pp. 163, 166 sq., 113 sq.
 
 [^p672-1]: Plotin, *Ennéades*, éd. Creuzer, t. II, 541, 569, 571 ; t. III, 317, 414.
-
-*La somma Sapienza el primo Amore.*
-*Dinanzi a me non fur cose creature,*
-*Se non etterne : ed io eterno duro.*
-(Dante, *Enfl inferno*, cant. III. C'est l'Enfer qui parle.)
 
 [^p149-1]: *Voyez Le lotus de la bonne loi*, traduction d'Eugène Burnouf, note VII, p. 348.
 

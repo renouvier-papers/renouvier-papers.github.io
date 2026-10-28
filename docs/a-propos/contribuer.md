@@ -4,26 +4,26 @@ title: "Contribuer"
 
 # Contribuer au projet
 
-Merci de votre intérêt. Ce document décrit les conventions à suivre pour produire des transcriptions cohérentes et utilisables.
+Les contributions sont les bienvenues. Ce document fixe les conventions qui garantissent des transcriptions cohérentes et exploitables.
 
 ## Comment contribuer
 
-1. **Signaler une erreur** : ouvrez une *issue* sur le [dépôt GitHub](https://github.com/renouvier-papers/renouvier-papers.github.io) en indiquant le fichier, le numéro de page `[p. XX]` et la correction proposée.
-2. **Corriger une transcription** : soumettez une *pull request* avec vos corrections. Indiquez dans le message de commit la page et la nature de la correction.
-3. **Transcrire un nouveau texte** : ouvrez d'abord une *issue* pour signaler que vous commencez le travail, afin d'éviter les doublons. Suivez les conventions ci-dessous.
+1. **Signaler une erreur** : ouvrir une *issue* sur le [dépôt GitHub](https://github.com/renouvier-papers/renouvier-papers.github.io) en indiquant le fichier, le numéro de page `[p. XX]` et la correction proposée.
+2. **Corriger une transcription** : soumettre une *pull request* contenant les corrections, en précisant dans le message de commit la page concernée et la nature de la correction.
+3. **Transcrire un nouveau texte** : ouvrir d'abord une *issue* annonçant le travail, afin d'éviter les doublons, puis suivre les conventions ci-dessous.
 
 ## Conventions de transcription
 
 ### Pagination
 
-Les numéros de pages sont insérés dans le texte entre crochets, au début du passage correspondant à la nouvelle page :
+Les numéros de page s'insèrent dans le texte entre crochets, au début du passage qui ouvre chaque nouvelle page :
 
 ```
 ... fin de la page précédente. [p. 42] Début de la nouvelle page...
 ```
 
-- Pages en chiffres romains pour les préfaces : `[p. V]`, `[p. XII]`
-- Pages en chiffres arabes pour le corps du texte : `[p. 1]`, `[p. 427]`
+- Chiffres romains pour les préfaces : `[p. V]`, `[p. XII]`
+- Chiffres arabes pour le corps du texte : `[p. 1]`, `[p. 427]`
 
 ### Hiérarchie des titres
 
@@ -34,12 +34,12 @@ Les numéros de pages sont insérés dans le texte entre crochets, au début du 
 #### Titre de sous-sous-section
 ```
 
-On n'utilise pas plus de quatre niveaux.
+La hiérarchie ne dépasse pas quatre niveaux.
 
 ### Mise en forme
 
 - **Italiques** : restituer les italiques de l'original avec `*italique*`.
-- **Petites capitales** : transcrire en texte normal.
+- **Petites capitales** : transcrire en texte courant.
 - **Guillemets** : conserver les guillemets français « » de l'original.
 - **Tirets** : conserver les tirets longs (—) de l'original.
 
@@ -47,7 +47,7 @@ On n'utilise pas plus de quatre niveaux.
 
 - **Conserver l'orthographe d'époque** : « très-grand », « long-temps », etc.
 - **Conserver la ponctuation d'origine**.
-- **Ne pas moderniser** : le but est une transcription fidèle.
+- **Ne pas moderniser** : la transcription vise la fidélité.
 
 ### Notes de bas de page
 
@@ -65,14 +65,14 @@ Ce passage est important[^1].
 
 ### Artefacts de numérisation
 
-Supprimer systématiquement « Digitized by Google », les en-têtes et pieds de page répétés, les numéros de pages imprimés.
+Supprimer systématiquement la mention « Digitized by Google », les en-têtes et pieds de page répétés ainsi que les numéros de page imprimés.
 
 ## Qualité attendue
 
-Avant de soumettre une transcription, assurez-vous que :
+Avant de soumettre une transcription, vérifier que :
 
-- Toutes les pages sont présentes et numérotées
-- Les titres de chapitres sont correctement balisés
-- Les italiques sont restitués
-- Les artefacts de numérisation sont supprimés
-- Une relecture complète a été faite
+- toutes les pages sont présentes et numérotées ;
+- les titres de chapitres sont correctement balisés ;
+- les italiques sont restitués ;
+- les artefacts de numérisation sont supprimés ;
+- une relecture complète a été faite.

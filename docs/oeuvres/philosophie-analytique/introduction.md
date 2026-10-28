@@ -3290,7 +3290,7 @@ Dans le déluge élohiste, les animaux entrent par paires dans l'arche ; suivant
 
 [^p535-1]: Voyez plus haut, chap. iv, p. 236.
 
-[^p535-2]: Lorsque le philosophe Damascius, au vi° siècle — note en bas de page à compléter à la page suivante.
+[^p535-2]: Lorsque le philosophe Damascius, au vi° siècle […] [La suite de cette note n'est pas transcrite.]
 
 [^p537-1]: Bon à G. Smith, dont les documents proviennent des fouilles de H. Layard et de Ménantque. Ce n'est « sur beaucoup de points » (v. *Chaldean Account of Genesis*, dont les notes sont traductions des copies faites par ordre d'Assourbanippal [viie siècle] et des tablettes en argile provenant des fouilles de Mossoul) ; il s'agit de longues récitations à formes archaïques. L'exemplaire employé par les scribes d'Assourbanippal provenait de la bibliothèque d'Ourrouk, en 1853 ou là auparavant ; l'original de la bibliothèque *khi-ssa* avait probablement trait, en 1700 ans avant notre ère. Il est de longue récitations à formes archaïques. L'exemplaire employé par les scribes d'Assourbanippal provenait de la bibliothèque d'Ourrouk, et il est antérieur, 1645 ans auparavant, au conquérant assidu Kourdour Nakhhounia (v. ci-dessus, p. 529).
 

@@ -5,9 +5,9 @@ description: "Trois états de la langue de Renouvier (1875, 1885-1886, 1903), co
 
 # Lexicométrie
 
-La philologie lit ; la lexicométrie compte. Trois ensembles de textes de Renouvier transcrits sur ce site — quatre tomes des **Essais** dans leur seconde édition de 1875 (les t. II et III des deux premiers), l'**Esquisse** de 1885-1886, **Le Personnalisme** de 1903 — forment trois états datés de la même langue : près d'un million de mots passés dans un seul appareil de mesure. Fréquences, longueur des phrases, spécificités de chaque époque, trajectoires d'un livre à l'autre.
+La philologie lit ; la lexicométrie compte. Trois ensembles de textes de Renouvier transcrits sur ce site, soit quatre tomes des **Essais** dans leur seconde édition de 1875 (les t. II et III des deux premiers), l'**Esquisse** de 1885-1886 et **Le Personnalisme** de 1903, forment trois états datés de la même langue. Près d'un million de mots passent dans un seul appareil de mesure, qui établit les fréquences, la longueur des phrases, les spécificités de chaque époque et les trajectoires d'un livre à l'autre.
 
-Le pari du comptage : un auteur ne sait pas tout ce que sa langue fait. Chaque pli ci-dessous donne ses chiffres, ses exemples — en romain à empattements quand c'est Renouvier lettre à lettre — et sa règle de calcul. **Rien ne disparaît quand vous ouvrez.**
+Compter, c'est parier qu'un auteur ne sait pas tout ce que fait sa langue. Chaque pli ci-dessous donne ses chiffres, ses exemples (en romain à empattements lorsqu'ils citent Renouvier lettre à lettre) et sa règle de calcul. **Ouvrir un pli ne fait rien disparaître.**
 
 <div class="dp" id="dp">
 <style>
@@ -303,7 +303,7 @@ Le pari du comptage : un auteur ne sait pas tout ce que sa langue fait. Chaque p
 <details class="dp-pli" data-rang="corpus">
 <summary class="dp-titre"><span class="dp-rang">la règle du jeu</span><span class="dp-texte">Trois états d'une langue, délimités avant de compter</span></summary>
 <div class="dp-corps">
-<p>Un corpus mal borné produit des chiffres exacts qui ne veulent rien dire. Celui-ci est donc délimité avant tout calcul, et une fois pour toutes : trois strates datées, chacune faite de volumes entiers, tels que transcrits sur ce site.</p>
+<p>Un corpus mal borné produit des chiffres exacts qui ne signifient rien. Celui-ci est donc délimité avant tout calcul, une fois pour toutes, en trois strates datées, chacune faite de volumes entiers tels que transcrits sur ce site.</p>
 <table class="dp-tab">
 <thead><tr><th>strate</th><th>œuvres</th><th>édition</th><th>mots</th></tr></thead>
 <tbody>
@@ -313,10 +313,10 @@ Le pari du comptage : un auteur ne sait pas tout ce que sa langue fait. Chaque p
 <tr><td class="dp-t92"><em>contrôle 1892</em></td><td class="dp-t92">Troisième Essai, t. I</td><td class="dp-t92">2ᵉ éd., remaniée d'un texte de 1864</td><td class="dp-t92">88 913</td></tr>
 </tbody>
 </table>
-<p>Deux strates de taille presque égale, une troisième moitié moindre mais largement suffisante ; toutes les fréquences de cette page sont donc rapportées <em>pour 10 000 mots</em>, ce qui rend les trois livres comparables. Le tome de 1892 est mis à part : c'est la révision tardive d'un texte paru sous l'Empire (1864), un composé de deux dates, que l'on garde comme <em>point de contrôle</em>. Une réserve s'impose : son Introduction reprend le <em>Résumé des principes de la psychologie rationnelle</em>, dont l'état de 1875 figure déjà dans la strate 1875 (Deuxième Essai, t. III) ; le premier cinquième du tome n'est donc pas indépendant de cette strate.</p>
+<p>Deux strates sont de taille presque égale ; la troisième, moitié moindre, reste largement suffisante. Toutes les fréquences de cette page sont donc rapportées <em>pour 10 000 mots</em>, ce qui rend les trois livres comparables. Révision tardive d'un texte paru sous l'Empire (1864), le tome de 1892 est un composé de deux dates, tenu à part comme <em>point de contrôle</em>. Son Introduction reprend toutefois le <em>Résumé des principes de la psychologie rationnelle</em>, dont l'état de 1875 figure déjà dans la strate 1875 (Deuxième Essai, t. III), si bien que le premier cinquième du tome n'est pas indépendant de cette strate.</p>
 <div class="dp-note">
-<span class="dp-etiquette">Ce qui est compté, ce qui ne l'est pas</span>
-<p>Est compté : tout le texte des volumes retenus, préfaces, formulaires et notes comprises (les t. I des Essais, et donc leurs préfaces, sont hors corpus) — y compris les passages où il cite autrui (Mill, Spencer, Hume…), qui font partie du livre publié et qu'aucun procédé automatique ne saurait excommunier proprement. N'est pas compté : l'appareil du site (titres de chapitres reproduits en balisage, indications de pagination, mentions d'édition). Les mots coupés par les changements de page ou de ligne des transcriptions — huit cent vingt-neuf césures, dans les quatre strates — ont été recollés avant tout calcul, selon trois règles dénombrées dans la page <a href="/recherche/linguistique/methode/">Méthode et reproductibilité</a>.</p>
+<span class="dp-etiquette">Le champ du comptage</span>
+<p>Est compté tout le texte des volumes retenus, préfaces, formulaires et notes comprises (les t. I des Essais, et donc leurs préfaces, sont hors corpus), jusqu'aux passages où l'auteur cite autrui (Mill, Spencer, Hume…), qui font partie du livre publié et qu'aucun procédé automatique ne saurait écarter proprement. N'est pas compté l'appareil du site (titres de chapitres reproduits en balisage, indications de pagination, mentions d'édition). Avant tout calcul, les mots coupés par les changements de page ou de ligne des transcriptions (huit cent vingt-neuf césures dans les quatre strates) ont été recollés selon trois règles dénombrées dans la page <a href="/recherche/linguistique/methode/">Méthode et reproductibilité</a>.</p>
 </div>
 </div>
 </details>
@@ -324,7 +324,7 @@ Le pari du comptage : un auteur ne sait pas tout ce que sa langue fait. Chaque p
 <details class="dp-pli" data-rang="mesure">
 <summary class="dp-titre"><span class="dp-rang">première surprise</span><span class="dp-texte">La phrase s'allonge de dix mots</span></summary>
 <div class="dp-corps">
-<p>Les mesures d'ensemble d'abord. La richesse du vocabulaire est remarquablement stable — par tranches de 10 000 mots, on rencontre environ 2 000 mots différents dans les <em>Essais</em>, 2 080 dans les deux livres suivants : Renouvier n'appauvrit ni n'enfle sa langue. Ce qui change, c'est la phrase.</p>
+<p>Les mesures d'ensemble montrent d'abord une richesse du vocabulaire remarquablement stable. Par tranches de 10 000 mots, on compte environ 2 000 mots différents dans les <em>Essais</em> et 2 080 dans les deux livres suivants. Renouvier n'appauvrit donc ni n'enfle sa langue. Le changement porte sur la phrase.</p>
 <table class="dp-tab">
 <thead><tr><th>strate</th><th>phrases</th><th>longueur moyenne</th><th>médiane</th></tr></thead>
 <tbody>
@@ -334,19 +334,19 @@ Le pari du comptage : un auteur ne sait pas tout ce que sa langue fait. Chaque p
 <tr><td class="dp-t92"><em>1892</em></td><td class="dp-t92">2 216</td><td class="dp-t92">40,1 mots</td><td class="dp-t92">33</td></tr>
 </tbody>
 </table>
-<p>Dix mots de plus en moyenne, dix de plus en médiane : entre les <em>Essais</em> et l'<em>Esquisse</em>, la phrase de Renouvier change de gabarit, et ne reviendra plus en arrière. La raison saute aux yeux dès qu'on lit : le traité de 1875 découpe — propositions numérotées, formulaires, définitions — quand l'<em>Esquisse</em> déroule, balance les doctrines l'une contre l'autre, tient des séries entières dans une seule période. En voici une, prise à la première page du tome II :</p>
+<p>Allongée de dix mots en moyenne et de dix en médiane, la phrase de Renouvier change de gabarit entre les <em>Essais</em> et l'<em>Esquisse</em>, et ne reviendra plus en arrière. La lecture en livre aussitôt la raison. Le traité de 1875 découpe (propositions numérotées, formulaires, définitions), quand l'<em>Esquisse</em> déroule, balance les doctrines l'une contre l'autre et tient des séries entières dans une seule période, comme celle-ci, prise à la première page du tome II :</p>
 <div class="dp-cite">
 <p>Il m'a semblé qu'à la condition de faire mes plus sincères efforts pour qu'aucune ne perdit rien de sa véritable physionomie et de son énergie propre, je ne pourrais qu'ajouter à la clarté de toutes les thèses d'une même série : — <em>la cause</em>, <em>l'infini</em>, <em>l'évolution</em>, <em>la nécessité</em>, <em>le bonheur</em>, — en les considérant du point de vue des thèses de la série opposée : — <em>l'idée</em>, <em>le fait</em>, <em>la création</em>, <em>la liberté</em>, <em>le devoir</em>, — sans m'obliger à balancer cette critique par une critique inverse, et feindre une indifférence que je n'éprouve pas.</p>
 <span class="dp-source">Esquisse, t. II, p. 1</span>
 </div>
-<p>Près de cent mots, deux séries de cinq thèses, une confession finale : la phrase est devenue l'unité de la comparaison des doctrines. Le point de contrôle va dans le même sens : le tome révisé en 1892, dont le texte remonte à 1864 et dont l'Introduction reprend le Résumé de 1875, garde la phrase courte des <em>Essais</em> — 40 mots de moyenne, 33 de médiane. La longueur de phrase y suit l'époque de rédaction plutôt que la date de publication.</p>
+<p>Avec près de cent mots, deux séries de cinq thèses et une confession finale, la phrase est devenue l'unité de la comparaison des doctrines. Le point de contrôle va dans le même sens, puisque le tome révisé en 1892, dont le texte remonte à 1864 et dont l'Introduction reprend le Résumé de 1875, garde la phrase courte des <em>Essais</em> (40 mots de moyenne, 33 de médiane). La longueur de phrase y suit l'époque de rédaction plutôt que la date de publication.</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="spécificités">
 <summary class="dp-titre"><span class="dp-rang">l'empreinte de chaque livre</span><span class="dp-texte">Ce que chaque époque est seule à dire</span></summary>
 <div class="dp-corps">
-<p>Pour chaque mot, on peut calculer la probabilité d'observer dans une strate une fréquence au moins aussi forte si le mot était réparti au hasard entre les strates (méthode dite des spécificités, loi hypergéométrique). On note S l'ordre de grandeur de cette improbabilité : S&nbsp;=&nbsp;20 signifie une chance sur 10²⁰. Voici, pour chaque époque, une sélection parmi les mots pleins les plus sur-représentés (S ≥ 8 ; liste complète dans la sortie du programme) :</p>
+<p>Pour chaque mot, on peut calculer la probabilité d'observer dans une strate une fréquence au moins aussi forte si le mot était réparti au hasard entre les strates (méthode dite des spécificités, loi hypergéométrique). On note S l'ordre de grandeur de cette improbabilité ; ainsi, S&nbsp;=&nbsp;20 signifie une chance sur 10²⁰. Suit, pour chaque époque, une sélection parmi les mots pleins les plus sur-représentés (S ≥ 8 ; liste complète dans la sortie du programme).</p>
 <table class="dp-tab">
 <thead><tr><th>1875 — le traité</th><th>1885-1886 — la classification</th><th>1903 — la physique</th></tr></thead>
 <tbody>
@@ -361,11 +361,11 @@ Le pari du comptage : un auteur ne sait pas tout ce que sa langue fait. Chaque p
 <tr><td>Mill (24)</td><td>Hume (23)</td><td>Reid (26)</td></tr>
 </tbody>
 </table>
-<p>Ces colonnes sont une sélection, mais chaque mot y sort du calcul aveugle, et l'ensemble récite pourtant la table des matières d'une vie. Le traité de logique a pour signature ses outils (<em>syllogisme</em>, <em>prémisses</em>, <em>catégories</em>) et son adversaire de travail (<em>Mill</em>) ; l'<em>Esquisse</em>, ses thèses morales (<em>bonheur</em>, <em>devoir</em>, <em>plaisir</em>) et ses classiques (<em>Platon</em>, <em>Hume</em>) ; <em>Le Personnalisme</em>, sa matière (<em>corps</em>, <em>molécules</em>, <em>chaleur</em>) et ses interlocuteurs (<em>Boscovich</em>, <em>Reid</em>).</p>
+<p>Ces colonnes sont une sélection, mais chaque mot y est issu du calcul aveugle. L'ensemble dresse pourtant la table des matières d'une vie. Le traité de 1875 a pour signature ses outils (<em>syllogisme</em>, <em>prémisses</em>, <em>catégories</em>) et son adversaire de travail (<em>Mill</em>) ; l'<em>Esquisse</em>, ses thèses morales (<em>bonheur</em>, <em>devoir</em>, <em>plaisir</em>) et ses classiques (<em>Platon</em>, <em>Hume</em>) ; <em>Le Personnalisme</em>, sa matière (<em>corps</em>, <em>molécules</em>, <em>chaleur</em>) et ses interlocuteurs (<em>Boscovich</em>, <em>Reid</em>).</p>
 <div class="dp-note">
-<span class="dp-etiquette">Les intruses : q, b, m</span>
-<p>En tête absolue des spécificités de 1875 ne figurent pas des mots, mais des lettres : <em>q</em> (S&nbsp;=&nbsp;118), <em>b</em> (82), <em>m</em> (77), et des paires comme <em>eq</em>. Ce sont les lettres des formules de la théorie de la proposition et du syllogisme (Premier Essai, ch. XXXIII à XXXV) — le calcul les détecte comme un vocabulaire à part entière, propre à 1875 et à lui seul. Il a raison : c'est exactement ce qu'elles sont.</p>
-<p class="dp-renvoi">Une autre page met le système en formules, avec ses propres symboles : <a href="/recherche/logique-philosophique/systeme-en-formules/">Le système en formules</a>.</p>
+<span class="dp-etiquette">Les intruses q, b et m</span>
+<p>En tête absolue des spécificités de 1875 figurent non des mots, mais des lettres, <em>q</em> (S&nbsp;=&nbsp;118), <em>b</em> (82) et <em>m</em> (77), ainsi que des paires comme <em>eq</em>. Elles appartiennent aux formules de la théorie de la proposition et du syllogisme (Premier Essai, ch. XXXIII à XXXV), et le calcul les détecte à bon droit comme un vocabulaire à part entière, propre à 1875 et à lui seul.</p>
+<p class="dp-renvoi">La page <a href="/recherche/logique-philosophique/systeme-en-formules/">Le système en formules</a> formalise le système avec ses propres symboles.</p>
 </div>
 </div>
 </details>
@@ -373,8 +373,8 @@ Le pari du comptage : un auteur ne sait pas tout ce que sa langue fait. Chaque p
 <details class="dp-pli" data-rang="trajectoires">
 <summary class="dp-titre"><span class="dp-rang">le film</span><span class="dp-texte">Quatre mouvements, mot à mot</span></summary>
 <div class="dp-corps">
-<p>Les spécificités photographient chaque livre ; les trajectoires font le film. Fréquences pour 10 000 mots, de gauche à droite : 1875, 1885-1886, 1903 — la colonne italique donne le point de contrôle de 1892.</p>
-<p><strong>1. L'appareil technique se replie.</strong> Le vocabulaire qui fait la machinerie des <em>Essais</em> n'est plus guère prononcé ensuite : le système est posé, il n'est plus répété.</p>
+<p>Les spécificités photographient chaque livre ; les trajectoires font le film. On lit de gauche à droite les fréquences pour 10 000 mots (1875, 1885-1886, 1903), la colonne italique donnant le point de contrôle de 1892.</p>
+<p><strong>1. L'appareil technique se replie.</strong> Le vocabulaire qui constitue la machinerie des <em>Essais</em> n'est plus guère employé ensuite, car le système, une fois posé, n'est plus répété.</p>
 <table class="dp-tab">
 <thead><tr><th>mot</th><th>1875</th><th>1886</th><th>1903</th><th>1892</th></tr></thead>
 <tbody>
@@ -386,8 +386,8 @@ Le pari du comptage : un auteur ne sait pas tout ce que sa langue fait. Chaque p
 <tr><td><strong>certitude</strong></td><td><strong>6,5</strong></td><td><strong>3,0</strong></td><td><strong>0,6</strong></td><td class="dp-t92">4,7</td></tr>
 </tbody>
 </table>
-<p>La chute de <em>certitude</em> est la plus parlante : le Deuxième Essai lui consacrait toute sa deuxième partie, et le mot s'éteint — divisé par dix. Non que la chose soit abandonnée : elle est acquise, donc tue.</p>
-<p><strong>2. Le tournant théologique s'imprime dans les mots.</strong> En 1875, <em>création</em> est un mot presque introuvable (sa rareté y est elle-même une spécificité : S&nbsp;=&nbsp;−46). Après la bascule des années 1880, il s'installe et ne repart plus.</p>
+<p>La chute de <em>certitude</em> est la plus parlante. Le Deuxième Essai lui consacrait toute sa deuxième partie, et le mot s'éteint, divisé par dix. Loin d'être abandonnée, la chose est acquise, donc tue.</p>
+<p><strong>2. Le tournant théologique s'imprime dans les mots.</strong> En 1875, <em>création</em> est presque introuvable (sa rareté y est elle-même une spécificité, S&nbsp;=&nbsp;−46). Après la bascule des années 1880, le mot s'installe durablement.</p>
 <table class="dp-tab">
 <thead><tr><th>mot</th><th>1875</th><th>1886</th><th>1903</th><th>1892</th></tr></thead>
 <tbody>
@@ -398,7 +398,7 @@ Le pari du comptage : un auteur ne sait pas tout ce que sa langue fait. Chaque p
 <tr><td>mal</td><td>2,9</td><td>8,6</td><td>5,3</td><td class="dp-t92">2,7</td></tr>
 </tbody>
 </table>
-<p><strong>3. La physique fait irruption.</strong> Le dernier livre parle un lexique que les <em>Essais</em> ne connaissaient presque pas :</p>
+<p><strong>3. La physique fait irruption.</strong> Le dernier livre emploie un lexique que les <em>Essais</em> ne connaissaient presque pas.</p>
 <table class="dp-tab">
 <thead><tr><th>mot</th><th>1875</th><th>1886</th><th>1903</th><th>1892</th></tr></thead>
 <tbody>
@@ -408,29 +408,29 @@ Le pari du comptage : un auteur ne sait pas tout ce que sa langue fait. Chaque p
 <tr><td>monade(s)</td><td>0,5</td><td>0,7</td><td><strong>10,1</strong></td><td class="dp-t92">1,8</td></tr>
 </tbody>
 </table>
-<p><strong>4. Les chassés-croisés.</strong> <em>Liberté</em> tombe de 12,5 à 3,3 — non par reniement : parce que la cause est entendue, le mot cède la place à celui qui désigne la faculté à l'œuvre, <em>volonté</em>, qui reste à peu près stable (8,9 → 9,2 → 10,9). <em>Croyance</em> culmine dans l'<em>Esquisse</em> (6,0 → 11,5 → 6,6), le livre du pari ; <em>infini</em> aussi (5,2 → 16,2 → 9,4), le livre qui classe les doctrines selon leur réponse à l'infini ; <em>nécessité</em> de même (5,7 → 8,3 → 1,3) — on ne discute la nécessité que tant qu'elle est l'adversaire du jour.</p>
-<p>Quant au tome de contrôle, il réunit l'appareil des <em>Essais</em> (<em>fonction(s)</em> 19,0, <em>représentation(s)</em> 13,8) et le sujet du dernier livre (<em>corps</em> 30,0, <em>matière</em> 24,6). Une part de ce mélange tient à sa composition : la moitié des occurrences de <em>fonction(s)</em> (85 sur 169) se trouvent dans l'Introduction, qui reprend le Résumé de 1875 ; sur le reste du tome, la fréquence tombe à 12,2.</p>
-<p class="dp-renvoi">Ces courbes chiffrent ce que la page <a href="/recherche/complications/evolution/">Comment je suis arrivé à cette conclusion</a> établissait par les textes : la lecture datait la bascule, le comptage en donne l'amplitude.</p>
+<p><strong>4. Les chassés-croisés.</strong> <em>Liberté</em> tombe de 12,5 à 3,3, non par reniement, mais parce que, la cause étant entendue, le mot cède la place à celui qui désigne la faculté à l'œuvre, <em>volonté</em>, qui reste à peu près stable (8,9 → 9,2 → 10,9). <em>Croyance</em> culmine dans l'<em>Esquisse</em> (6,0 → 11,5 → 6,6), le livre du pari ; <em>infini</em> aussi (5,2 → 16,2 → 9,4), le livre qui classe les doctrines selon leur réponse à l'infini ; <em>nécessité</em> de même (5,7 → 8,3 → 1,3), car on ne discute la nécessité que tant qu'elle est l'adversaire du jour.</p>
+<p>Quant au tome de contrôle, il réunit l'appareil des <em>Essais</em> (<em>fonction(s)</em> 19,0, <em>représentation(s)</em> 13,8) et le sujet du dernier livre (<em>corps</em> 30,0, <em>matière</em> 24,6). Ce mélange tient en partie à sa composition, la moitié des occurrences de <em>fonction(s)</em> (85 sur 169) se trouvant dans l'Introduction, qui reprend le Résumé de 1875 ; sur le reste du tome, la fréquence tombe à 12,2.</p>
+<p class="dp-renvoi">Ces courbes chiffrent ce que la page <a href="/recherche/complications/evolution/">Comment je suis arrivé à cette conclusion</a> établissait par les textes. La lecture datait la bascule ; le comptage en donne l'amplitude.</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="paradoxe">
-<summary class="dp-titre"><span class="dp-rang">contre-épreuve</span><span class="dp-texte">Le personnalisme sans le mot « personne »</span></summary>
+<summary class="dp-titre"><span class="dp-rang">contre-épreuve</span><span class="dp-texte">Le personnalisme sans inflation du mot « personne »</span></summary>
 <div class="dp-corps">
-<p>On attendrait que le livre nommé <em>Le Personnalisme</em> soit saturé de son propre nom. Les chiffres disent autre chose : <em>personne(s)</em> passe de 6,2 à 7,8 pour 10 000 mots — une hausse à peine perceptible — et <em>personnalisme</em> lui-même, que Renouvier employait déjà dans l'<em>Esquisse</em> en un autre sens (la personnification propre aux mythologies), n'atteint que 0,6. Pendant ce temps <em>conscience</em>, le grand mot des <em>Essais</em>, recule de moitié (21,4 → 11,0), et c'est <em>monade</em> qui fait le travail (0,5 → 10,1).</p>
-<p>Le baptême ne s'accompagne donc d'aucune inflation : en 1903, la personne n'est pas un thème qu'on répète, c'est le cadre de toute l'enquête. Ce qui monte, c'est le vocabulaire de ce que l'Étude examine : corps, forces, perception, monades.</p>
-<p class="dp-renvoi">La contre-épreuve grammaticale est plus étonnante encore — le pronom <em>je</em> s'efface au moment même où la doctrine prend le nom de la personne : voir <a href="/recherche/linguistique/etiquetage-morphosyntaxique/">Étiquetage morpho-syntaxique</a>, où l'on compte non plus les mots pleins, mais la grammaire.</p>
+<p>On attendrait que le livre intitulé <em>Le Personnalisme</em> soit saturé de son propre nom. Or <em>personne(s)</em> passe de 6,2 à 7,8 pour 10 000 mots, hausse à peine perceptible, et <em>personnalisme</em> lui-même, que Renouvier employait déjà dans l'<em>Esquisse</em> en un autre sens (la personnification propre aux mythologies), n'atteint que 0,6. Parallèlement, <em>conscience</em>, le grand mot des <em>Essais</em>, recule de moitié (21,4 → 11,0), tandis que le travail revient à <em>monade</em> (0,5 → 10,1).</p>
+<p>Le baptême ne s'accompagne donc d'aucune inflation. En 1903, la personne, au lieu d'être un thème que l'on répète, forme le cadre de toute l'enquête. Le vocabulaire qui monte est celui des objets qu'examine l'Étude (corps, forces, perception, monades).</p>
+<p class="dp-renvoi">Plus étonnante encore, la contre-épreuve grammaticale montre que le pronom <em>je</em> s'efface au moment même où la doctrine prend le nom de la personne (voir <a href="/recherche/linguistique/etiquetage-morphosyntaxique/">Étiquetage morpho-syntaxique</a>, où l'on compte non plus les mots pleins, mais la grammaire).</p>
 </div>
 </details>
 
 <details class="dp-pli" data-rang="méthode">
-<summary class="dp-titre"><span class="dp-rang">tout est refaisable</span><span class="dp-texte">Note de méthode</span></summary>
+<summary class="dp-titre"><span class="dp-rang">tout peut se refaire</span><span class="dp-texte">Corpus, préparation et mesures</span></summary>
 <div class="dp-corps">
-<p><strong>Corpus.</strong> Trois strates closes avant tout calcul : quatre tomes de la seconde édition des <em>Essais</em> (Premier Essai t. II–III, Deuxième Essai t. II–III, 1875) ; les deux tomes de l'<em>Esquisse</em> (1885-1886) ; <em>Le Personnalisme</em> avec son Étude (1903). Le Troisième Essai t. I (2ᵉ éd., 1892) sert de point de contrôle et n'entre dans aucun calcul de spécificité. Tout le texte de Renouvier est compté, citations d'autrui comprises ; l'appareil du site (balisage des titres, marqueurs de pagination, notices d'édition) est retiré.</p>
-<p><strong>Préparation.</strong> Les mots coupés par les changements de page ou de ligne des transcriptions ont été recollés — trois règles de recollage, dénombrées dans la page <a href="/recherche/linguistique/methode/">Méthode et reproductibilité</a>. Les élisions sont détachées (<em>l'espace</em> → <em>l'</em> + <em>espace</em>), le trait d'union d'époque après <em>très-</em> est dénoué, les inversions du type <em>est-il</em>, <em>dit-on</em> sont rendues à leurs deux mots. Pas de lemmatisation : <em>force</em> et <em>forces</em> sont comptés séparément, puis regroupés à la main quand la ligne du tableau l'indique.</p>
-<p><strong>Mesures.</strong> Fréquences rapportées pour 10 000 mots. Richesse lexicale par tranches de 10 000 mots (moyenne des tranches), seule façon de comparer des livres de tailles différentes. Longueur des phrases après protection des abréviations courantes (M., ch., t., etc.). Spécificités calculées par la loi hypergéométrique (méthode Lafon) : chaque strate contre la réunion des trois ; S est le logarithme décimal, changé de signe, de la probabilité d'obtenir par hasard une fréquence au moins aussi extrême.</p>
-<p><strong>Limites.</strong> Le comptage ignore le sens : il ne distingue pas <em>mal</em> substantif de <em>mal</em> adverbe, ni ne sait qui parle quand Renouvier cite. Les ordres de grandeur sont robustes à ces flous ; les décimales, non. On ne conclut ici que sur les premiers.</p>
-<p><strong>Reproductibilité.</strong> Toutes les valeurs de cette page sortent d'un unique programme de dépouillement appliqué aux transcriptions publiées sur ce site. La page <a href="/recherche/linguistique/methode/">Méthode et reproductibilité</a> publie ce programme en entier, avec les règles, les dictionnaires complets et des valeurs-témoins : quiconque refait le comptage retrouvera ces nombres — et peut le vérifier en cinq minutes.</p>
+<p><strong>Corpus.</strong> Trois strates, closes avant tout calcul, réunissent respectivement quatre tomes de la seconde édition des <em>Essais</em> (Premier Essai t. II–III, Deuxième Essai t. II–III, 1875), les deux tomes de l'<em>Esquisse</em> (1885-1886) et <em>Le Personnalisme</em> avec son Étude (1903). Le Troisième Essai t. I (2ᵉ éd., 1892) sert de point de contrôle et n'entre dans aucun calcul de spécificité. Tout le texte de Renouvier est compté, citations d'autrui comprises ; l'appareil du site (balisage des titres, marqueurs de pagination, notices d'édition) est retiré.</p>
+<p><strong>Préparation.</strong> Trois règles, dénombrées dans la page <a href="/recherche/linguistique/methode/">Méthode et reproductibilité</a>, ont permis de recoller les mots coupés par les changements de page ou de ligne des transcriptions. Les élisions sont détachées (<em>l'espace</em> → <em>l'</em> + <em>espace</em>), le trait d'union d'époque après <em>très-</em> est dénoué, et les inversions du type <em>est-il</em>, <em>dit-on</em> sont rendues à leurs deux mots. Sans lemmatisation, <em>force</em> et <em>forces</em> sont comptés séparément, puis regroupés à la main quand la ligne du tableau l'indique.</p>
+<p><strong>Mesures.</strong> Fréquences rapportées pour 10 000 mots. Richesse lexicale par tranches de 10 000 mots (moyenne des tranches), seule façon de comparer des livres de tailles différentes. Longueur des phrases après protection des abréviations courantes (M., ch., t., etc.). Spécificités calculées par la loi hypergéométrique (méthode Lafon), chaque strate étant comparée à la réunion des trois ; S est le logarithme décimal, changé de signe, de la probabilité d'obtenir par hasard une fréquence au moins aussi extrême.</p>
+<p><strong>Limites.</strong> Ignorant le sens, le comptage ne distingue pas <em>mal</em> substantif de <em>mal</em> adverbe, ni ne sait qui parle quand Renouvier cite. Les ordres de grandeur sont robustes à ces imprécisions ; les décimales, non. On ne conclut ici que sur les premiers.</p>
+<p><strong>Reproductibilité.</strong> Toutes les valeurs de cette page proviennent d'un unique programme de dépouillement appliqué aux transcriptions publiées sur ce site. La page <a href="/recherche/linguistique/methode/">Méthode et reproductibilité</a> publie ce programme en entier, avec les règles, les dictionnaires complets et des valeurs-témoins. Quiconque refait le comptage retrouvera ces nombres, vérifiables en cinq minutes.</p>
 </div>
 </details>
 
@@ -496,8 +496,8 @@ Le pari du comptage : un auteur ne sait pas tout ce que sa langue fait. Chaque p
 
 ## Note de méthode
 
-Cette page suit les règles des dépliants de la sous-section « Œuvres à déplier » — [Compliquer les Essais pour les expliquer](../complications/essais.md) et [La physique du personnalisme](../complications/physique-tardive.md) : le pli conserve tout ; les voies non prises restent visibles ; la profondeur se compte aux filets ; le parcours se souvient ; la typographie dit qui parle, sérif pour Renouvier, linéale pour le commentaire.
+Cette page suit les règles des dépliants de la sous-section « Œuvres à déplier », [Compliquer les Essais pour les expliquer](../complications/essais.md) et [La physique du personnalisme](../complications/physique-tardive.md). Le pli y conserve tout, les voies non prises restent visibles, la profondeur se compte aux filets, le parcours se souvient et la typographie dit qui parle (sérif pour Renouvier, linéale pour le commentaire).
 
-Elle en ajoute une, qui lui est propre : **ses nombres sont ceux que calcule le programme publié** sur la page [Méthode et reproductibilité](methode.md), appliqué aux transcriptions du site (le décompte des césures recollées excepté, que la page Méthode donne à part) ; chaque citation est donnée avec son tome et sa page.
+Elle en ajoute une qui lui est propre, selon laquelle **ses nombres sont ceux que calcule le programme publié** sur la page [Méthode et reproductibilité](methode.md), appliqué aux transcriptions du site (le décompte des césures recollées excepté, que la page Méthode donne à part) ; chaque citation est donnée avec son tome et sa page.
 
 **Sources.** *Essais de critique générale*, 2ᵉ éd., Au Bureau de la Critique philosophique, 1875 : *Premier Essai*, t. II–III ; *Deuxième Essai*, t. II–III. — *Esquisse d'une classification systématique des doctrines philosophiques*, t. I (1885) et t. II (1886). — *Le Personnalisme, suivi d'une étude sur la perception externe et sur la force*, Félix Alcan, 1903. — Point de contrôle : *Troisième Essai, Les Principes de la nature*, 2ᵉ éd. corrigée et augmentée, 1892, t. I. Transcriptions intégrales de ce site ; comptages sur ces transcriptions.
