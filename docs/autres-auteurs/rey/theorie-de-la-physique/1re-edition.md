@@ -10,9 +10,7 @@ title: "La Théorie de la physique chez les physiciens contemporains (1re éd. 1
 
 ---
 
-[p. I]
-
-PRÉFACE
+[p. I] PRÉFACE
 
 -
 
@@ -52,9 +50,7 @@ science .
 C'est au fond la légitimité de
 la science
 
-[p. II]
-
-II
+[p. II] II
 PRÉFACE .
 
 positive, la possibilité d'une connaissance de l'objet,
@@ -97,11 +93,7 @@ directrice qui m'a poussé à entreprendre ce travail . Ce
 but m'assignait à la fois la méthode qu'il me fallait
 suivre et le domaine que je devais explorer.
 La méthode ne pouvait être qu'une enquête auprès
-des physiciens contemporains. Et là, la tâche était sin-
-
-[p. III]
-
-gulièrement facilitée par ce fait que certains physiciens
+des physiciens contemporains. Et là, la tâche était sin-[p. III]gulièrement facilitée par ce fait que certains physiciens
 et des plus considérables - s'occupent aujourd'hui
 de la philosophie de la physique en donnant à ce mot
 le sens, presque positiviste, d'un point de vue général,
@@ -139,11 +131,7 @@ raine et sur la théorie actuelle de cette science, est
 une partie de la matière nécessaire à une telle philo-
 sophie [^pIII-1].
 
-[^pIII-1]: Le présent travail n'est , d'ailleurs , que la première partie d'un travail plus étendu que j'espère continuer . REY. b
-
-[p. IV]
-
-2.
+[^pIII-1]: Le présent travail n'est , d'ailleurs , que la première partie d'un travail plus étendu que j'espère continuer . REY. b [p. IV] 2.
 - CONCLUSIONS QUE CE TRAVAIL SEMBLE AUTORISER
 A l'aide de cette méthode, je dis tout de suite que,
 parti d'abord avec l'idée que la science physique était
@@ -205,9 +193,7 @@ jours , dans le domaine du sentiment et de la croyance, la méta-
 physique . Elle progresserait, comme la science, par collaborations
 simultanées et successives .
 
-[p. V]
-
--
+[p. V] -
 
 2° Que ce fonds de vérités était l'ensemble des résul-
 tats purement expérimentaux .
@@ -258,9 +244,7 @@ il n'en saura rien .
 
 Décembre 1905.
 
-[p. 1]
-
-LA THÉORIE
+[p. 1] LA THÉORIE
 DE LA PHYSIQUE
 
 CHEZ LES PHYSICIENS
@@ -332,11 +316,7 @@ On peut d'abord s'attacher à déterminer le développe-
 ment du contenu de la science
 : faire l'histoire des décou
 REY.
-1
-
-[p. 2]
-
-vertes et des théories, ou la monographie des
+1 [p. 2] vertes et des théories, ou la monographie des
 savants ,
 chercher la filiation des découvertes et des théories , ou les
 influences réciproques des savants , considérer le rapport du
@@ -380,11 +360,7 @@ artificiel et ce serait préparer toutes
 espèces de méprises et d'erreurs que de faire l'histoire de
 l'esprit scientifique en l'isolant de l'esprit philosophique .
 Mais , déjà à partir du xvIII° siècle, la science et la phi-
-losophie s'engagent de plus en plus dans les voies diver-
-
-[p. 3]
-
-ET INTÉRÊTS DIVERS QU'IL PRÉSENTE .
+losophie s'engagent de plus en plus dans les voies diver-[p. 3]ET INTÉRÊTS DIVERS QU'IL PRÉSENTE .
 3
 
 gentes : la division du travail l'exige, ainsi que la division.
@@ -428,11 +404,7 @@ relatives à la valeur objective de la physique . Elle s'effor-
 cera de les dégager à travers les conceptions générales
 que les physiciens se font de la physique.
 Il est vrai que cette question est capitale dans toute forme
-du savoir, et qu'elle a le mérite d'être, de toutes les ques-
-
-[p. 4]
-
-tions générales qui se posent relativement à l'esprit des
+du savoir, et qu'elle a le mérite d'être, de toutes les ques-[p. 4]tions générales qui se posent relativement à l'esprit des
 sciences physico-chimiques
 contemporaines , celle
 qui a
@@ -483,9 +455,7 @@ tement fondée à le faire ses principes d'explication : la décou-
 verte est à ce prix. Mais au moment même où la science
 dépasse, par ses hypothèses, les étroites frontières de la
 
-[p. 5]
-
-ET INTÉRÊTS DIVERS QU'IL PRÉSENTE .
+[p. 5] ET INTÉRÊTS DIVERS QU'IL PRÉSENTE .
 5
 
 certitude rigoureuse, elle se mêle à la philosophie et peu à
@@ -493,7 +463,7 @@ peu se fond en elle, souvent par des transitions à peine
 sensibles .
 La philosophie, au lieu de fournir du dehors et d'en
 haut des explications qui toujours risquent d'être incompé-
-tentes , des jugements de valeur a priori, n'a-t-elle pas alors ,
+tentes , des jugements de valeur *a priori*, n'a-t-elle pas alors ,
 si elle veut conserver son importance, à utiliser toute la
 riche documentation que lui fournit la science, à la suivre
 d'abord et à la continuer ensuite ? De même qu'elle peut
@@ -532,11 +502,7 @@ dogme la foi dans la science ? Il me semble que oui, mais
 il me semble qu'aussi, à y bien réfléchir, on est forcé, avec
 Renan, d'admettre que la science seule peut fonder au-
 jourd'hui une croyance et imposer une loi. La philosophie
-ne peut avoir d'autre tâche que l'unification et la critique
-
-[p. 6]
-
-de notre savoir, ou si l'on aime mieux, pour donner une
+ne peut avoir d'autre tâche que l'unification et la critique [p. 6] de notre savoir, ou si l'on aime mieux, pour donner une
 définition qui ne rappelle aucune école et puisse être ac-
 ceptée par les métaphysiciens de race, elle a pour tâche de
 savoir le plus que nous pourrons, de reculer toujours plus
@@ -581,9 +547,7 @@ accordions tous à reconnaître pour de la vérité ; et que
 
 1
 
-[p. 7]
-
-ET INTÉRÊTS DIVERS QU'IL PRÉSENTE .
+[p. 7] ET INTÉRÊTS DIVERS QU'IL PRÉSENTE .
 7
 
 tous , nous puissions utiliser comme tel dans ceux de nos
@@ -628,11 +592,7 @@ une continuité directe entre la science et la philosophie , à
 la fois, par la critique méthodologique à laquelle se livrent
 les savants, et par les hypothèses générales qui sont les
 plus précieux instruments, les instruments spécifiques , de
-ses méthodes . La philosophie dans la recherche sur la
-
-[p. 8]
-
-nature des choses comme dans la critique de la connais-
+ses méthodes . La philosophie dans la recherche sur la [p. 8] nature des choses comme dans la critique de la connais-
 sance , peut parfaitement se présenter comme une promo-
 tion de la science. Les physiciens, loin de répudier les spé-
 culations philosophiques, les tenants et aboutissants philo-
@@ -682,9 +642,7 @@ des sommets nuageux sur la terre ferme, et de lui offrir,
 avec une mission indispensable, une méthode et un objet
 positifs.
 
-[p. 9]
-
-ET INTÉRÊTS DIVERS QU'IL PRÉSENTE .
+[p. 9] ET INTÉRÊTS DIVERS QU'IL PRÉSENTE .
 9
 
 III .
@@ -730,11 +688,7 @@ ne doit ni prévenir ni intervenir.Aussi, avant d'entreprendre
 la métaphysique de la connaissance, et de la science, et
 avant d'aborder la métaphysique ontologique qui traite de
 la nature de l'objet à connaître et de l'agent de la connais-
-sance, il est non seulement légitime, mais nécessaire d'es-
-
-[p. 10]
-
-sayer une étude d'un ordre tout à fait différent, bien qu'elle
+sance, il est non seulement légitime, mais nécessaire d'es-[p. 10]sayer une étude d'un ordre tout à fait différent, bien qu'elle
 y achemine.
 J'entends par logique tout autre chose : un art rationnel
 fondé sur des études
@@ -781,9 +735,7 @@ vraie, quels que soient les moyens qui l'aient fait acquérir,
 l'ensemble des procédés par lesquels on prouvera qu'elle
 est vraie .
 
-[p. 11]
-
-ET INTÉRÊTS DIVERS QU'IL PRÉSENTE .
+[p. 11] ET INTÉRÊTS DIVERS QU'IL PRÉSENTE .
 11
 
 J'ai cru [^p11-1] un moment qu'une étude attentive des faits pour-
@@ -829,14 +781,12 @@ ministrer la preuve, dans l'ordre de connaissances dont
 fait partie la proposition considérée .
 Ceci posé, comment constituer l'art logique ? Certains
 considérant la raison comme une faculté transcendante , et
-un primum datum, croient qu'en développant a priori ses
+un primum datum, croient qu'en développant *a priori* ses
 lois essentielles, nous arriverons peu à peu à établir une
 
 [^p11-1]: Cf. un article de La Revue philosophique , « Ce que devient la Logique » .
 
-[p. 12]
-
-méthode universelle pour établir indiscutablement la vérité
+[p. 12] méthode universelle pour établir indiscutablement la vérité
 de nos conclusions . D'autres, au contraire, croient que ce
 résultat ne pourra être obtenu que par une méthode ana-
 logue à celle qu'ont suivie tous les autres arts rationnels
@@ -889,9 +839,7 @@ Mais à côté de la logique du discours, de la logique for-
 melle, il y aura encore à construire la logique de toutes les
 démarches de la pensée, dans tous les ordres de la con
 
-[p. 13]
-
-ET INTÉRÊTS DIVERS QU'IL PRÉSENTE .
+[p. 13] ET INTÉRÊTS DIVERS QU'IL PRÉSENTE .
 13
 
 naissance , c'est-à-dire la logique des différentes sciences .
@@ -937,11 +885,7 @@ peut contribuer.
 Si je me borne à la période contemporaine, c'est que les
 physiciens ne se sont appliqués à la discussion suivie et
 minutieuse de leurs méthodes que dans
-cette période,
-
-[p. 14]
-
-excepté à l'époque de la Renaissance, où d'ailleurs la
+cette période, [p. 14] excepté à l'époque de la Renaissance, où d'ailleurs la
 discussion se borna à la critique de la scolastique et fut
 faite plutôt du point de vue de la science en général que du
 point de vue particulier des sciences physico-chimiques
@@ -988,9 +932,7 @@ gences . Peut-être eût-il été plus fécond de chercher en quoi
 i
 1
 
-[p. 15]
-
-ET INTÉRÊTS DIVERS QU'IL PRÉSENTE .
+[p. 15] ET INTÉRÊTS DIVERS QU'IL PRÉSENTE .
 15
 
 et jusqu'où ils s'accordaient, de préciser la nature et les
@@ -1040,9 +982,7 @@ de détail, des luttes mémorables entre les savants
 : en
 optique, par exemple, ou dans la théorie de la chaleur.
 
-[p. 16]
-
-Mais la façon même dont s'engagent et se suivent ces com
+[p. 16] Mais la façon même dont s'engagent et se suivent ces com
 bats montre que les deux camps ont des idées directrices
 communes . On croit à une explication purement mécanique
 de la nature; on postule que la physique n'est qu'une com-
@@ -1089,9 +1029,7 @@ une expression hypothétique de l'expérience; c'était un
 dogme.
 Les critiques du mécanisme traditionnel qui furent for
 
-[p. 17]
-
-ET INTÉRÊTS DIVERS QU'IL PRÉSENTE.
+[p. 17] ET INTÉRÊTS DIVERS QU'IL PRÉSENTE.
 17
 
 mulées pendant toute la seconde moitié du xix
@@ -1141,11 +1079,7 @@ mots ? Pouvons-nous croire en la possibilité d'une physique
 qui serait un savoir effectif ? Ou bien devons-nous renoncer
 à cette idée ? C'était déjà le problème que Kant se posait
 
-[^p17-1]: LE ROY, Revue de métaphysique et de morale, septembre 1899, p. 550. REY. 2
-
-[p. 18]
-
-dans la préface de la Critique de la Raison pure. A cette
+[^p17-1]: LE ROY, Revue de métaphysique et de morale, septembre 1899, p. 550. REY. 2 [p. 18] dans la préface de la Critique de la Raison pure. A cette
 époque, il s'agissait de le résoudre par la dialectique, par
 une discussion d'idées .
 
@@ -1197,9 +1131,7 @@ tinct aveugle de croyance, des préjugés, des superstitions ,
 du mystère au nom duquel on peut tout affirmer : ce qui
 énervera , faussera, détruira les forces de compréhension et
 
-[p. 19]
-
-ET INTÉRÊTS DIVERS QU'IL PRÉSENTE .
+[p. 19] ET INTÉRÊTS DIVERS QU'IL PRÉSENTE .
 19
 
 de connaissance. Et tout le monde accordera que le positi-
@@ -1243,11 +1175,7 @@ S'il apparaît au contraire que rien dans le développe-
 ment actuel de la physique n'autorise à considérer cette
 crise comme fatale et irrémédiable, si tout nous incline
 à croire que le problème de la connaissance de la nature,
-par suite de la possibilité des sciences physico-chimiques ,
-
-[p. 20]
-
-reste intact, dans la forme même où il a évolué depuis la
+par suite de la possibilité des sciences physico-chimiques , [p. 20] reste intact, dans la forme même où il a évolué depuis la
 Renaissance jusqu'au positivisme, la méthode rationnelle
 et positive reste la suprême éducatrice de l'esprit humain ,
 dans le domaine qui lui est accessible, bien entendu. Don-
@@ -1262,17 +1190,13 @@ Ce travail n'est donc pas seulement un travail théorique ,
 mais il peut encore répondre à des préoccupations graves
 et actuelles .
 
-[p. 21]
-
-PREMIÈRE PARTIE
+[p. 21] PREMIÈRE PARTIE
 
 L'ANALYSE
 DES
 DOCTRINES
 
-[p. 23]
-
-LIVRE PREMIER
+[p. 23] LIVRE PREMIER
 
 LE MÉCANISME TRADITIONNEL
 
@@ -1323,11 +1247,7 @@ entre ces faits; si bien que les uns paraissent les causes
 immédiates qui produisent les autres; ces rapports de cause
 à effet constituent les lois, qui expliquent les principales
 propriétés offertes par l'observation. Mais ces rapports
-de cause à effet peuvent à leur tour être considérés comme
-
-[p. 24]
-
-des faits nouveaux. Les expliquer, ce sera trouver de nou-
+de cause à effet peuvent à leur tour être considérés comme [p. 24] des faits nouveaux. Les expliquer, ce sera trouver de nou-
 veaux rapports plus généraux qui relieront, par leur inter-
 médiaire , les faits, dont on était parti de prime abord, à
 des causes plus lointaines, et ainsi de suite. Comme on le
@@ -1382,9 +1302,7 @@ mécanisme actuel l'a lui-même abandonné. Cette constata-
 tion était donc essentielle dans cette étude. Si dans la phy-
 sique contemporaine on peut constater des écoles, si les
 
-[p. 25]
-
--
+[p. 25] -
 philosophies ont ensuite pu étayer leurs doutes
 ou leurs
 croyances
@@ -1435,11 +1353,7 @@ est vrai , avec des modifications), tout en abandonnant l'idée
 qu'ils aient, comme les théories qui les précèdent, une
 valeur ontologique quelconque. Les physiciens qui ne sont
 pas mécanistes , -
-soit qu'ils substituent une autre théorie
-
-[p. 26]
-
-au mécanisme, l'énergétique, et qu'ils rejettent tout élé-
+soit qu'ils substituent une autre théorie [p. 26] au mécanisme, l'énergétique, et qu'ils rejettent tout élé-
 ment figuré , - soit qu'ils ne tiennent plus absolument à
 une théorie exclusive de toute autre, par une sorte de
 criticisme physique,
@@ -1487,9 +1401,7 @@ tonienne , par la considération de forces fictives de liaisons .
 Pour Lagrange, les corps « sont des milieux continus dont
 les divers éléments impénétrables les uns aux autres se
 
-[p. 27]
-
-LE MÉCANISME TRADITIONNEL .
+[p. 27] LE MÉCANISME TRADITIONNEL .
 27
 
 gênent mutuellement... », en sorte que la présence de cha-
@@ -1540,9 +1452,7 @@ optiques de Maxwell) . [^p27-4]
 [^p27-3]: Id. , p. 254.
 [^p27-4]: Id.
 
-[p. 28]
-
-28
+[p. 28] 28
 L'ANALYSE DES DOCTRINES ,
 
 Mais, là encore, que l'on imagine de toutes pièces cer-
@@ -1590,9 +1500,7 @@ motion de la mécanique analytique de Lagrange. La phy
 
 [^p28-1]: DUHEM, Revue générale des Sciences , 1903 , p . 254.
 
-[p. 29]
-
-sique était traditionnellement exposée à partir de cette
+[p. 29] sique était traditionnellement exposée à partir de cette
 mécanique, et en supposant d'abord les abstractions que
 comporte cette mécanique. Il s'agissait essentiellement de
 présenter une théorie des phénomènes naturels, en évitant
@@ -1639,9 +1547,7 @@ en eux-mêmes ,
 [^p29-1]: A. COMTE , Cours de Philosophie positive , I , p . 445 .
 [^p29-2]: A. COMTE, Cours de Philosophie positive, I, p . 445.
 
-[p. 30]
-
-sans aucun égard aux modalités de leur production réelle
+[p. 30] sans aucun égard aux modalités de leur production réelle
 :
 << De là résulte évidemment, pour me conformer au lan-
 gage adopté, la faculté de remplacer à volonté toute force
@@ -1694,9 +1600,7 @@ mouvement supposé connu [^p30-2] » .
 [^p30-1]: Id. , p. 451 .
 [^p30-2]: Id. , p. 446.
 
-[p. 31]
-
-L'application de ces forces peut, ou bien immobiliser le
+[p. 31] L'application de ces forces peut, ou bien immobiliser le
 corps, le maintenir en équilibre, ou bien le mettre en mou-
 vement. Le problème général se subdivisait donc en deux
 principaux problèmes secondaires : le problème de la sta-
@@ -1743,9 +1647,7 @@ sur les propriétés de l'équilibre, pour y puiser un prin-
 
 [^p31-1]: Id., p. 556.
 
-[p. 32]
-
-cipe direct de statique qui pût offrir toute la généralité
+[p. 32] cipe direct de statique qui pût offrir toute la généralité
 nécessaire , Lagrange s'est arrêté à choisir le principe des
 vitesses virtuelles devenu désormais si célèbre par l'usage
 immense et capital qu'il en a fait [^p32-1] » .
@@ -1783,9 +1685,7 @@ riotte).
 [^p32-1]: Id. , p. 492 .
 [^p32-2]: « En appelant P, P' , P" , les forces proposées, et suivant la notation ordinaire de Lagrange, Pr, Pr' , Pr" , etc. , les vitesses correspondantes, ce principe se trouve immédiatement exprimé par l'équation Pdr + P'dr + P"dr + = 0 . ou plus brièvement Pdr = 0 dans laquelle, par les travaux de Lagrange, la mécanique ration.
 
-[p. 33]
-
-que, dans la statique ainsi traitée, on trouve une suite de
+[p. 33] que, dans la statique ainsi traitée, on trouve une suite de
 cas en quelque sorte intermédiaires entre les solides et les
 fluides , lorsqu'on considère les questions relatives aux corps
 solides susceptibles de changer de forme jusqu'à un certain
@@ -1827,11 +1727,7 @@ fermée . » (СоMTE, Id. , p. 495.)
 1. Id. , p. 527 .
 
 REY.
-3
-
-[p. 34]
-
-constitution de la matière. Une simple complication des
+3 [p. 34] constitution de la matière. Une simple complication des
 conditions permettra de figurer avec les mêmes éléments
 l'état liquide ou l'état solide . Nous devons imaginer des
 éléments
@@ -1891,9 +1787,7 @@ nouilli et de Clausius
 cales dont l'orifice supérieur soit fermé par un piston
 chargé d'un certain poids. Remplissons ce vase d'une foule
 
-[p. 35]
-
-LE MÉCANISME TRADITIONNEL .
+[p. 35] LE MÉCANISME TRADITIONNEL .
 35
 
 de corpuscules très petits, agités en tous sens
@@ -1973,11 +1867,7 @@ proportionnels aux densités .
 
 manifestées en diverses circonstances par la même masse
 
-d'air enfermée dans un même espace, il nous est facile de
-
-[p. 36]
-
-mesurer le degré de chaleur de cet air, pourvu que nous
+d'air enfermée dans un même espace, il nous est facile de [p. 36] mesurer le degré de chaleur de cet air, pourvu que nous
 adoptions une définition conventionnelle d'un degré double,
 triple, etc... de chaleur ; définition qui est arbitraire et nul-
 lement imposée par la nature des choses ; on peut, ce me
@@ -2034,9 +1924,7 @@ phénomènes
 
 [^p36-1]: DUHEM, Revue générale des Sciences , 1903, p . 171-172.
 
-[p. 37]
-
-LE MÉCANISME TRADITIONNEL .
+[p. 37] LE MÉCANISME TRADITIONNEL .
 37
 
 électriques par les actions du milieu, et préparassent - la
@@ -2089,9 +1977,7 @@ physionomie de la science physique est donc nettement des
 [^p37-1]: DUHEM , Le Mixte , p . 147 .
 [^p37-2]: Id. , p. 148 .
 
-[p. 38]
-
-sinée . On croit qu'elle est assise désormais sur des bases
+[p. 38] sinée . On croit qu'elle est assise désormais sur des bases
 inébranlables; et je me suis servi des opinions d'Auguste
 Comte, parce que sa philosophie relativiste et sa crainte
 des hypothèses trop hasardées dans le champ des sciences
@@ -2137,9 +2023,7 @@ mécanique supposait des éléments : les points matériels, et
 
 [^p38-1]: Voir à ce sujet A. TANNERY , Aug. Comte, historien des sciences , 1905.
 
-[p. 39]
-
-des principes qui établissaient entre ces éléments des rela-
+[p. 39] des principes qui établissaient entre ces éléments des rela-
 tions fondamentales . La physique, en revêtant d'une figure
 concrète ces masses et ces liaisons , en les réalisant en
 quelque sorte, construisait l'Univers comme le géomètre
@@ -2160,9 +2044,7 @@ nuant .
 La pensée humaine allait bientôt avoir en face d'elle une
 nature de cristal .
 
-[p. 40]
-
-CHAPITRE
+[p. 40] CHAPITRE
 II
 
 Les faits qui incitèrent à critiquer et à réformer
@@ -2211,11 +2093,7 @@ tait de conclure une identité entre le mouvement et la cha-
 leur : la chaleur ne devait avoir d'autre facteur qu'un mou-
 vement, continuation logique du mouvement qui l'avait pro-
 voquée, mais non visible à notre sens grossier de la vue,
-alors que le premier l'était. La plupart des physiciens ont, en
-
-[p. 41]
-
-effet, accepté cette théorie. Mais il est aisé de remarquer
+alors que le premier l'était. La plupart des physiciens ont, en [p. 41] effet, accepté cette théorie. Mais il est aisé de remarquer
 aussi
 qu'une
 fois
@@ -2265,11 +2143,7 @@ une aile de l'édifice, comme une particularisation d'un sys-
 tème plus général, particularisation qui se bornait à consi-
 dérer l'énergie de position et de mouvement. L'édifice tout
 entier serait plus harmonieux, plus simple, plus logique ,
-plus intelligible, s'il se fondait sur la notion d'énergie, au
-
-[p. 42]
-
-sens le plus général du mot, et sur les deux grands prin-
+plus intelligible, s'il se fondait sur la notion d'énergie, au [p. 42] sens le plus général du mot, et sur les deux grands prin-
 cipes relatifs à l'énergie. Par là, la théorie énergétique se
 construisit en opposition au mécanisme traditionnel .
 b) Une autre raison devait donner à l'énergétique une
@@ -2312,11 +2186,7 @@ celle du condenseur (niveau après l'utilisation). Il faut une
 chute de température .
 Si donc l'on ne dispose pas d'une force extérieure au
 système , si l'on considère un système clos et fini, il arrive
-un moment où il est impossible que le système puisse
-
-[p. 43]
-
-engendrer du travail, car il est en équilibre parfaitement
+un moment où il est impossible que le système puisse [p. 43] engendrer du travail, car il est en équilibre parfaitement
 stable, toute l'eau dont on disposait étant au niveau le plus
 bas, si c'est un système hydraulique, ou toutes les parties
 étant à la même température, si c'est un système thermique.
@@ -2360,11 +2230,7 @@ passer d'une déduction nécessaire des données de l'expé-
 rience . Maxwell, Helmholtz, Gibbs, et bien d'autres se
 sont essayés au difficile problème de donner une figuration
 mécanique de cette loi. Et pourtant la plupart des phy-
-siciens contemporains se refusent encore à dire qu'il ait
-
-[p. 44]
-
-été résolu d'une façon satisfaisante en se plaçant au point
+siciens contemporains se refusent encore à dire qu'il ait [p. 44] été résolu d'une façon satisfaisante en se plaçant au point
 de vue du mécanisme traditionnel. Ces discussions mon-
 trent bien les difficultés que rencontrait ce dernier. On se
 trouve donc en face d'un très gros
@@ -2408,9 +2274,7 @@ notions
 
 [^p44-1]: On ne parlera de la revision particulière des principes fonda- mentaux de la physique qu'autant qu'il sera nécessaire pour l'intei- ligence de ces modifications , puisque l'objet de ce travail porte sur l'esprit de la science et non sur son contenu, et parce que les savants seuls ont qualité pour traiter des questions qui concernent les prin- cipes de la science et leur revision.
 
-[p. 45]
-
-abstraites pures et simples, des concepts de quantités non
+[p. 45] abstraites pures et simples, des concepts de quantités non
 figurées . Elle remplace ce qui était langage sensible, termes
 de perception, comme les masses , les mouvements, les
 liaisons , les chocs , les mécanismes, par un langage d'idées ,
@@ -2450,11 +2314,7 @@ senter. Puisque là était la pierre d'achoppement, là de-
 vaient être aussi les principes que la physique avait besoin
 d'ajouter aux principes de la mécanique pour se constituer
 scientifiquement. La réforme devait donc demander à la
-thermodynamique les fondements de sa nouvelle doctrine ,
-
-[p. 46]
-
-et les trouver dans le principe de la conservation de l'éner-
+thermodynamique les fondements de sa nouvelle doctrine , [p. 46] et les trouver dans le principe de la conservation de l'éner-
 gie et le principe de Carnot-Clausius, bases de la thermo-
 dynamique. La notion d'énergie devenait ainsi la subs-
 tructure de la physique nouvelle . C'est pourquoi la physique
@@ -2485,9 +2345,7 @@ innovations sont loin d'être toutes heureuses .
 
 [^p46-1]: La physique électronique qui doit être rangée parmi les théories d'esprit général mécaniste tend à imposer actuellement sa systéma- tisation à la physique. Elle est d'esprit mécaniste, bien que les principes fondamentaux de la physique ne soient plus fournis par la mécanique, mais par les données expérimentales de la théorie de l'électricité, parce que : 1° Elle emploie des éléments figures , matériels , pour représenter les propriétés physiques et leurs lois ; elle s'exprime en termes de perception. 2° Si elle ne considère plus les phénomènes physiques comme des cas particuliers des phénomènes mécaniques, elle considère les phénomènes mécaniques comme un cas particulier des phénomènes physiques . Les lois de la mécanique sont donc toujours en conti- nuitė directe avec les lois de la physique ; et les notions de la mécanique restent du même ordre que les notions physico-chimiques , Dans le mécanisme traditionnel , c'étaient les mouvements calqués
 
-[p. 47]
-
-Aussi , à côté d'elles, trouve-t-on des physiciens , qui, tout
+[p. 47] Aussi , à côté d'elles, trouve-t-on des physiciens , qui, tout
 en approuvant quelques-unes des critiques adressées par
 l'école conceptuelle au vieux mécanisme, n'acceptent pas
 intégralement les réformes qu'elle propose. D'accord avec
@@ -2540,9 +2398,7 @@ rapport avec l'expérience , reste absolument identique à celle du
 mécanisme , et à la conception de la physique depuis la Renais-
 sance.
 
-[p. 48]
-
-Elle renonce à toute critique hostile pour s'en tenir à une
+[p. 48] Elle renonce à toute critique hostile pour s'en tenir à une
 critique bienveillante, utile, favorable.
 Enfin, se reliant d'une façon continue à la tradition méca-
 niste, mais en la modifiant sous l'influence de l'école con-
@@ -2585,9 +2441,7 @@ l'école mécaniste admet toujours et
 d'une façon essentielle, des éléments figuratifs , empruntés
 à la représentation du mouvement.
 
-[p. 49]
-
-LIVRE II
+[p. 49] LIVRE II
 
 LA CRITIQUE DU MÉCANISME
 :
@@ -2646,11 +2500,7 @@ rience ; elle n'est qu'une méthode pour la représenter.
 nomie de la théorie physique ; pas de métaphysique. [^p49-4] [^p49-5]
 
 [^p49-4]: Auto-
-[^p49-5]: Ran- kine est le continuateur de la tradition mécaniste, il ne fait que REY. 4
-
-[p. 50]
-
-la corriger dans le sens de l'esprit qui l'a suggérée elle-même , dans
+[^p49-5]: Ran- kine est le continuateur de la tradition mécaniste, il ne fait que REY. 4 [p. 50] la corriger dans le sens de l'esprit qui l'a suggérée elle-même , dans
 le sens de l'esprit moderne .
 6. En quel sens il convient d'inter-
 préter la modification la plus profonde que Rankine apporte au
@@ -2698,9 +2548,7 @@ relations de ces phénomènes réels [^p50-2] .
 [^p50-1]: RANKINE : Outlines of the Science of Evergetics (Proceedings of the philosophical society of Glascow), III, 1848-1855, § 1, p. 382.
 [^p50-2]: Id.
 
-[p. 51]
-
-LA CRITIQUE DU MÉCANISME
+[p. 51] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 51
 
@@ -2749,9 +2597,7 @@ forme en physique théorique, par la découverte du système
 [^p51-3]: Id.
 [^p51-4]: Id.
 
-[p. 52]
-
-de principes le plus simple dont on puisse déduire les lois
+[p. 52] de principes le plus simple dont on puisse déduire les lois
 qui formulent l'expérience. Ce système n'est pas naturel ,
 immédiat, comme dans les sciences directement abstraites .
 Il est médiat et dérivé; il n'est pas le commencement de la
@@ -2801,9 +2647,7 @@ classe d'objets ou de phénomènes dont les lois sont déjà
 [^p52-2]: Id.
 [^p52-3]: Id.
 
-[p. 53]
-
-LA CRITIQUE DU MÉCANISME
+[p. 53] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 53
 
@@ -2854,9 +2698,7 @@ cas qu'une seule science
 [^p53-1]: Id.
 [^p53-2]: Id.
 
-[p. 54]
-
-présente tout entière sous la forme abstractive : la méca-
+[p. 54] présente tout entière sous la forme abstractive : la méca-
 nique [^p54-1]. Oui , il y a une science capable dès maintenant de
 se présenter sous cette forme : la physique
 .
@@ -2903,9 +2745,7 @@ branches de la physique sur la mécanique sans s'aperce [^p54-2]
 [^p54-2]: Id.
 [^p54-3]: Id. , § 3 .
 
-[p. 55]
-
-LA CRITIQUE DU MÉCANISME
+[p. 55] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 55
 
@@ -2952,9 +2792,7 @@ admise, avec autant de dogmatisme que si l'on se bornait
 [^p55-1]: Id. , § 4, p. 383.
 [^p55-2]: Id. , § 5, p. 384.
 
-[p. 56]
-
-à constater l'expérience. On en arrive à ne plus distin-
+[p. 56] à constater l'expérience. On en arrive à ne plus distin-
 guer , tant l'hypothèse est entrée dans nos mœurs scienti-
 fiques, entre ce qui est hypothèse et ce qui est expérience .
 Le public, puis les savants, ont fini par leur donner même
@@ -3003,9 +2841,7 @@ On connotera chacune d'elles par un terme convenable .
 [^p56-2]: Id.
 [^p56-3]: Id. , § 6 , p. 385 .
 
-[p. 57]
-
-LA CRITIQUE DU MÉCANISME
+[p. 57] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 57
 
@@ -3058,11 +2894,9 @@ physiques : la possibilité d'être modifié 1.
 
 [^p57-1]: Id. , § 6 , p . 385 .
 
-[p. 58]
-
-Si alors il est possible de formuler des lois générales
+[p. 58] Si alors il est possible de formuler des lois générales
 concernant l'énergie, ces lois pourront être applicables ,
-mutatis mutandis, à toute branche de la physique, et consti-
+*mutatis mutandis*, à toute branche de la physique, et consti-
 tueront un système de principes sur lequel pourra se fonder
 une physique théorique d'après la méthode abstractive. On
 voit maintenant pourquoi Rankine a donné à sa théorie le
@@ -3111,9 +2945,7 @@ nous présente que des phénomènes individuels . Tout doit
 [^p58-1]: Id. , § 7, 385 .
 [^p58-2]: Id. , § 7 .
 
-[p. 59]
-
-LA CRITIQUE DU MÉCANISME
+[p. 59] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 59
 
@@ -3161,11 +2993,7 @@ Il reste donc nominaliste, ce qui le laisse, au point de vue
 historique, l'héritier de la lignée des physiciens issue de la
 Renaissance .
 Mais il n'en est pas moins vrai, et c'est en cela qu'il
-innove, qu'au lieu de prendre pour principes des objets
-
-[p. 60]
-
-individuels, des éléments matériels, qu'on suppose exister
+innove, qu'au lieu de prendre pour principes des objets [p. 60] individuels, des éléments matériels, qu'on suppose exister
 réellement, il part de la considération des propriétés géné-
 rales : il commence par définir des concepts abstraits , et
 non des choses, des existences individuelles. Certes , il ne
@@ -3212,9 +3040,7 @@ nisse les moyens de mesurer les accidents , même absolus .
 
 [^p60-1]: Id. , § 8 , p. 386 .
 
-[p. 61]
-
-LA CRITIQUE DU MÉCANISME
+[p. 61] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 61
 
@@ -3274,9 +3100,7 @@ sure de la masse
 
 [^p61-1]: Id. , § 8.
 
-[p. 62]
-
-moyen des efforts requis pour produire en elles des varia-
+[p. 62] moyen des efforts requis pour produire en elles des varia-
 tions de quelques accidents particuliers . » L'accident passif
 conventionnellement employé à ce but est la vitesse [^p62-1] .
 Toutes les fois qu'un accident varie à cause d'un effort,
@@ -3328,9 +3152,7 @@ gènes » , dit Rankine, et il cite l'expérience de Joule sur
 [^p62-2]: Id. , § 8 .
 [^p62-3]: Id. , § 8 .
 
-[p. 63]
-
-LA CRITIQUE DU MÉCANISME
+[p. 63] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 63
 
@@ -3388,9 +3210,7 @@ représentation, une formule relative et non un principe
 [^p63-1]: Id. , § 9 , p. 390.
 [^p63-2]: Id.
 
-[p. 64]
-
-substantiel . Dans le développement de la physique théo-
+[p. 64] substantiel . Dans le développement de la physique théo-
 rique, il continue donc la tradition moderne, en précisant
 son relativisme .
 On a vu , d'ailleurs , que dans le domaine de la mécanique ,
@@ -3435,11 +3255,7 @@ prèscientifique et scolastique à l'autre .
 5.
 A partir de ce moment, d'ailleurs , la différence .
 entre l'exposé de Rankine et le mécanisme traditionnel ,
-n'est plus que dans la forme et le physicien anglais recon-
-
-[p. 65]
-
-LA CRITIQUE DU MÉCANISME
+n'est plus que dans la forme et le physicien anglais recon-[p. 65]LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 65
 
@@ -3495,11 +3311,7 @@ naissances nouvelles. L'ancienne logique formelle a suffi-
 samment montré son impuissance avec la scolastique. Elle
 
 REY.
-5
-
-[p. 66]
-
-est bonne pour le discours pratique, la dialectique des
+5 [p. 66] est bonne pour le discours pratique, la dialectique des
 concepts communs. Elle n'a pas la précision, la sûreté,
 la puissance de déduction de
 la forme mathématique .
@@ -3553,11 +3365,7 @@ nement, à toute dialectique extérieurs qui voudraient la
 critiquer. L'expérience est la véracité même, la mesure
 de toute vérité. Ce que Rankine cherche, c'est à la débar-
 rasser de tout élément qui viendrait l'altérer ou la déguiser.
-Comme il craint d'en trouver avec la méthode hypothétique,
-
-[p. 67]
-
-LA CRITIQUE DU MÉCANISME
+Comme il craint d'en trouver avec la méthode hypothétique, [p. 67] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 67
 
@@ -3612,11 +3420,7 @@ arbitraire ni inutile. Représentant le système des choses de
 l'expérience, elle est une classification descriptive naturelle
 de ces choses .
 A quoi bon cette classification ? D'abord à nous repré-
-senter méthodiquement l'expérience si complexe et si con-
-
-[p. 68]
-
-fuse ; elle est une méthode conforme à la méthode carté-
+senter méthodiquement l'expérience si complexe et si con-[p. 68]fuse ; elle est une méthode conforme à la méthode carté-
 sienne, en ce qu'elle cherche une expression claire et dis-
 tincte du donné .
 Mais elle n'est pas seulement une méthode d'exposition .
@@ -3660,9 +3464,7 @@ une valeur méthodologique plus rigoureuse, plus scienti-
 fique, plus directe et plus efficace. Tout ce qu'elle a perdu
 comme réalité, elle l'a gagné et au-delà, comme méthode.
 
-[p. 69]
-
-LA CRITIQUE DU MÉCANISME
+[p. 69] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 69
 
@@ -3714,9 +3516,7 @@ il ignore si , au sujet de ces faits, on peut se poser une ques-
 tion métaphysique, relative à une nature dont ils ne seraient
 que l'apparence .
 
-[p. 70]
-
-Ce point de vue devait fatalement conduire à la cons-
+[p. 70] Ce point de vue devait fatalement conduire à la cons-
 truction d'une théorie physique, autonome. Et toutes les
 divergences que l'on rencontre dans cette construction en la
 comparant à celle du mécanisme traditionnel, ont pour but
@@ -3760,9 +3560,7 @@ comme des intuitions du réel, des éléments substantiels ,
 
 [^p70-1]: Si des physiciens actuels d'ailleurs restent attachés, et en grand nombre, au mécanisme , ce n'est plus par une conjecture métaphysique et une restauration de l'ontologisme du mécanisme traditionnel . C'est simplement parce qu'ils croient, d'après des expé- riences nouvelles , que les faits physiques se systématisent effecti- vement autour des faits de la mécanique ou à leur suite . L'auto- nomie de la théorie physique et sa positivité restent sauvegardées . L'œuvre de Rankine a laissé des traces indélébiles .
 
-[p. 71]
-
-LA CRITIQUE DU MÉCANISME
+[p. 71] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 71
 
@@ -3816,11 +3614,7 @@ particuliers dont elle est le cadre, et un cadre
 qu'ils
 imposent. Les principes de la théorie, ce sont des
 lois
-présentées par l'expérience réelle, révélées par des cas sin
-
-[p. 72]
-
-72
+présentées par l'expérience réelle, révélées par des cas sin [p. 72] 72
 L'ANALYSE DES DOCTRINES .
 
 guliers comme les expériences de Joule et de Mayer, et
@@ -3863,9 +3657,7 @@ ne peut exister sans l'autre
 elles sont fonction l'une de
 l'autre .
 
-[p. 73]
-
-CHAPITRE
+[p. 73] CHAPITRE
 II
 
 Les idées de Mach et l'énergétique d'Ostwald .
@@ -3927,11 +3719,7 @@ le mécanisme. Elle est un nouveau
 progrès dans la voie concrète
 ouverte par le mécanisme. - 2. Comment elle se situe dans le déve-
 loppement de l'esprit traditionnel de la physique moderne : elle
-est au mécanisme ce que la géométrie analytique est à la géo-
-
-[p. 74]
-
-V.
+est au mécanisme ce que la géométrie analytique est à la géo-[p. 74]V.
 
 -3 .
 métrie synthétique, ce que la mécanique analytique de Lagrange
@@ -3994,7 +3782,7 @@ avait
 été conçue, en
 somme, comme une réforme de la théorie physique dans
 un sens moins conjectural. C'était pour supprimer la part
-de l'arbitraire, du symbole, de l'idée a priori, de l'imagi-
+de l'arbitraire, du symbole, de l'idée *a priori*, de l'imagi-
 nation individuelle qu'il avait été conduit à formuler les
 principes d'une nouvelle physique théorique.
 Loin de trouver une antinomie entre l'énergétique et la
@@ -4007,9 +3795,7 @@ exposée. La mécanique rationnelle, voilà donc le modèle
 qu'il se propose. Il veut, comme le mécanisme se
 l'était
 
-[p. 75]
-
-LA CRITIQUE DU MÉCANISME
+[p. 75] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE.
 75
 
@@ -4066,9 +3852,7 @@ faisante . Ils mettront en évidence les attaches de la nou-
 velle conception avec l'expérience, ses bases expérimen-
 tales et objectives .
 
-[p. 76]
-
-De tous les savants qui bifurquent dans cette voie, Mach
+[p. 76] De tous les savants qui bifurquent dans cette voie, Mach
 et Ostwald sont peut-être ceux qui se sont astreints à
 analyser de plus près l'esprit qu'elle implique et les rai-
 sons qui faisaient abandonner l'ancienne. On suivra sur-
@@ -4115,9 +3899,7 @@ construction qui soit aussi uniforme que possible , partant
 
 [^p76-1]: MACH, La Mécanique , tr. fr. , p. 397.
 
-[p. 77]
-
-LA CRITIQUE DU MÉCANISME
+[p. 77] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 77
 
@@ -4164,9 +3946,7 @@ toute sa vie pour le xvme siècle, un sentiment de mélanco [^p77-3]
 [^p77-3]: Die Principien der Wärmelehre , p . 410 ; Populär- Wissens- chaftliche Vorlesungen, p. 16, 75, 219 , 243 ; Analyse der Empfin- dungen , p . 209 .
 [^p77-4]: La Mécanique, tr. fr . , p . 477.
 
-[p. 78]
-
-lique regret [^p78-1]. » Si la science affranchit de l'ignorance,
+[p. 78] lique regret [^p78-1]. » Si la science affranchit de l'ignorance,
 certes elle ne peut être une construction arbitraire . Cette
 phrase implique qu'il y a une
 vérité
@@ -4210,9 +3990,7 @@ grandes lois physiques, les premiers principes sont tous
 [^p78-1]: Id. , p. 429.
 [^p78-2]: MACH, La Mécanique , tr. fr. , p. 465.
 
-[p. 79]
-
-LA CRITIQUE DU MÉCANISME
+[p. 79] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 79
 
@@ -4256,9 +4034,7 @@ Mais elles ne sont qu'une excuse , elles ne sont pas une
 [^p79-1]: ANDRADE (Revue de métaphysique , mars 1899, p. 178), développe la même idée que Mach : le mécanisme est dû à des associations d'idées fortuites ; ces associations d'idées ont leur cause dans l'ordre historique fortuit des découvertes qui concernent les phénomènes naturels.
 [^p79-2]: MACH, La Mécanique , trad. fr. , p. 466.
 
-[p. 80]
-
-légitimation. L'hypothèse est
+[p. 80] légitimation. L'hypothèse est
 artificielle, et
 les
 raisons
@@ -4309,9 +4085,7 @@ semble de la physique par rapport à la mécanique ?
 
 [^p80-1]: Id. , p. 465.
 
-[p. 81]
-
-LA CRITIQUE DU MÉCANISME
+[p. 81] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 81
 
@@ -4363,11 +4137,7 @@ forme plus simple, plus commode, plus systématique
 l'ensemble des connaissances physiques ? On diminue le
 
 [^p81-1]: MACH, La Mécanique , tr. fr. , p. 467.
-[^p81-2]: Die Principien der Wärmelehre , p . 396 . REY. 6
-
-[p. 82]
-
-nombre des faits fondamentaux et des principes, puisqu'on
+[^p81-2]: Die Principien der Wärmelehre , p . 396 . REY. 6 [p. 82] nombre des faits fondamentaux et des principes, puisqu'on
 les réduit aux faits fondamentaux et aux principes de la
 mécanique, en supprimant toutes les notions primordiales
 qu'il faudrait autrement postuler dans chacune des branches
@@ -4430,9 +4200,7 @@ nisme arrive à fournir une hypothèse adéquate et com-
 
 [^p82-1]: OSTWALD, Revue générale des Sciences , 15 décembre 1895, p. 1070.
 
-[p. 83]
-
-LA CRITIQUE DU MÉCANISME
+[p. 83] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE.
 83
 
@@ -4474,9 +4242,7 @@ forme de positions et de mouvements. Un travail effectué , [^p83-2]
 [^p83-1]: MACH , La Mécanique , tr . fr. , p. 468 .
 [^p83-2]: Les mécanistes ont répondu d'ailleurs sur ce point à leurs adversaires , qu'une hypothèse peut faciliter considérablement l'intelligence de faits nouveaux en leur substituant des idées déjà familières , et son efficacité est dès lors prouvée » (MACH, La Méca- nique, p. 468) . Aucun énergétiste, à ma connaissance, n'a répondu d'une façon convaincante à cette contre-objection . Mach se contente de la reproduire sans essayer sa réfutation, puisque je lui emprunte l'énoncé ci-dessus . Mais apparemment aucun énergétiste non plus ne l'a trouvée suffisante pour modifier sa critique du mécanisme. L'historien ne peut que constater leur silence sur ce point. La critique pourrait s'y arrêter sérieusement et y trouver un argument capital en faveur des hypothèses mécanistes .
 
-[p. 84]
-
-(un déplacement mécanique) ne produira pas nécessairement
+[p. 84] (un déplacement mécanique) ne produira pas nécessairement
 de la force vive, mais encore de la chaleur, de l'électricité,
 etc. , etc.; de même une force vive peut ne pas être produite
 par un déplacement mécanique, mais par une destruction
@@ -4529,9 +4295,7 @@ et Mach élève la comparaison au
 [^p84-1]: MACH, La Mécanique , trad. fr. , p. 468 , 469 .
 [^p84-2]: Id.
 
-[p. 85]
-
-LA CRITIQUE DU MÉCANISME
+[p. 85] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 85
 
@@ -4583,11 +4347,7 @@ est extrêmement particulière et partielle [^p85-3]. Elle représente
 
 [^p85-1]: Die Principien der Wärmelehre, p. 391 ; Populär-Wissens- chaftliche Vorlesungen , p . 266-268 .
 [^p85-2]: Id. , p. 469, 470.
-[^p85-3]: ANDRADE, dans l'article de la Revue de métaphysique déjà
-
-[p. 86]
-
-dans la physique la période des origines, une période de
+[^p85-3]: ANDRADE, dans l'article de la Revue de métaphysique déjà [p. 86] dans la physique la période des origines, une période de
 savoir restreint, une quantité minime de faits expérimen-
 taux, en comparaison de ceux dont nous disposons actuel-
 lement, et qu'il nous faut utiliser, si le travail scientifique
@@ -4636,9 +4396,7 @@ Sciences du 15 novembre 1895 .
 sique qui résulte de l'atomisme) .
 2. Principien der Wärmelehre , p. 461.
 
-[p. 87]
-
-LA CRITIQUE DU MÉCANISME
+[p. 87] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 87
 
@@ -4687,11 +4445,7 @@ s'engager, combat de tous les instants et où souvent l'esprit
 scientifique manqua d'être vaincu et de disparaître. En
 tout cas , souvent, il dut s'incliner. Ce combat avait pour
 théâtre la pensée des savants eux-mêmes : leur esprit scien-
-tifique eut à lutter contre les idées préconçues et latentes ,
-
-[p. 88]
-
-déposées en eux par une éducation théologique et par le
+tifique eut à lutter contre les idées préconçues et latentes , [p. 88] déposées en eux par une éducation théologique et par le
 milieu, en un mot, contre leur propre esprit religieux.
 Aussi les principes de la physique -- alors à peu près
 réduite à la mécanique
@@ -4733,9 +4487,7 @@ sique un effort continuel [^p88-2] .
 [^p88-1]: MACH, La Mécanique , tr. fr. , p. 346, 419.
 [^p88-2]: « Pendant toute la durée des xvi et xvu siècles, et jusqu'à la fin du xvii , la tendance universelle était de voir dans chacune des lois physiques une ordonnance particulière du Créateur. Un observa- teur attentif voit pourtant cette idée se transformer graduellement. Tandis que, pour Descartes et Leibniz, la physique et la théologie sont encore fort mêlées , plus tard on aperçoit un effort marqué, si pas pour écarter complètement la théologie , du moins pour la séparer nettement de la physique. La théologie est reléguée soit au commencement , soit à la fin des traités de physique; chaque fois que la chose est possible ,le domaine théologique est restreint à la création et laisse, à partir de là, le champ libre à la physique. » Vers la fin du xvm siècle, on est frappé par un revivement en apparence tout à fait subit , mais qui, au fond, est une conséquence nécessaire du processus de développement que nous avons décrit. Lagrange, après avoir, dans une œuvre de jeunesse, voulu baser
 
-[p. 89]
-
-LA CRITIQUE DU MÉCANISME
+[p. 89] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 89
 
@@ -4806,11 +4558,7 @@ pensée libre. Celui qui, à travers la littérature seulement, a pu parti-
 ciper à cet essor et à cette libération , conserve toute la vie pour
 le xvm
 siècle un sentiment de mélancolique regret. >>> (MACH, La
-Mécanique , tr . fr . , 427, 19.)
-
-[p. 90]
-
-90
+Mécanique , tr . fr . , 427, 19.) [p. 90] 90
 L'ANALYSE DES DOCTRINES .
 
 sera, elle n'aura pas à les renier. Elle ne rompra plus la
@@ -4860,9 +4608,7 @@ des exigences de l'esprit scientifique. Mais sa méthode
 [^p90-2]: Id. , p. 430.
 [^p90-3]: Id. , p. 433.
 
-[p. 91]
-
-LA CRITIQUE DU MÉCANISME
+[p. 91] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 91
 
@@ -4909,9 +4655,7 @@ matériel et l'outillage de la démonstration euclidienne, et [^p91-2]
 [^p91-1]: MACH, Die Principien der Wärmelehre , p. 429 .
 [^p91-2]: d. , p. 456, 457.
 
-[p. 92]
-
-cela sans transgresser aucune des règles de la méthode
+[p. 92] cela sans transgresser aucune des règles de la méthode
 mathématique, ni aucun des principes fondamentaux posés
 par les géomètres ? Bien au contraire, il va jusqu'au bout
 dans l'application de ces règles. Il réduit la démonstration
@@ -4955,9 +4699,7 @@ et constructive, qui est le véritable commencement de la
 
 [^p92-1]: Id. , p. 461.
 
-[p. 93]
-
-LA CRITIQUE DU MÉCANISME
+[p. 93] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 93
 
@@ -5012,9 +4754,7 @@ misses à l'énergétisme. Que sont ces principes ? Des défi
 [^p93-1]: MACH, La Mécanique , tr . fr . , p . 435 .
 [^p93-2]: MACH , Die Geschichte und die Würzel des Satzes von der Erhaltung der Arbeit, p. 46, Principien der Wärmelehre , p. 438 et 461.
 
-[p. 94]
-
-nitions arbitraires ? En aucune façon. Les conventions fon-
+[p. 94] nitions arbitraires ? En aucune façon. Les conventions fon-
 damentales d'un langage suggéré par l'expérience ? Pas
 davantage . Ou, s'il y a suggestion, c'est une suggestion
 latente et inconsciente dont la nature et la forme sont tout
@@ -5056,9 +4796,7 @@ gestif du processus par lequel les sciences de la nature se [^p94-2] [^p94-407]
 [^p94-2]: Id. , p . 221 , 222. Die Principien der Wärmelehre , p. 67 et 68,
 [^p94-407]: Populär-Wiss . Vorles . , p . 16, 219, 251.
 
-[p. 95]
-
-LA CRITIQUE DU MÉCANISME
+[p. 95] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 95
 
@@ -5113,9 +4851,7 @@ qu'elles
 
 [^p95-1]: MACH. , La Mécanique , tr. fr . , p. 7.
 
-[p. 96]
-
-peuvent bien occasionner telle ou telle direction dans le
+[p. 96] peuvent bien occasionner telle ou telle direction dans le
 développement considéré ; mais celui-ci n'était possible que
 dans un domaine bien délimité par la nature même des
 phénomènes . De ce que la Réforme a eu pour cause oсса-
@@ -5157,7 +4893,7 @@ l'inconscient, et explicitées nettement par
 ces savants
 à
 l'occasion de faits précis . L'appareil déductif, à partir de
-principes présentés comme a priori, ne fait que déguiser
+principes présentés comme *a priori*, ne fait que déguiser
 l'observation antérieure des faits . C'est toujours un fait,
 avoué ou non, qui fonde le principe et soutient la déduc-
 tion. La prétendue démonstration des principes ou la soi-
@@ -5173,9 +4909,7 @@ Zählen und
 Messen dans le volume d'essais dédié à Zeller , Analyse der Emp[in-
 dungen , p . 116, 233 .
 
-[p. 97]
-
-LA CRITIQUE DU MÉCANISME
+[p. 97] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 97
 
@@ -5241,9 +4975,7 @@ cause qui la propage au centre.
 REY.
 7
 
-[p. 98]
-
--
+[p. 98] -
 >> DÉFINITION VII.
 La quantité accélératrice de la force
 centripète est proportionnelle à la vitesse qu'elle produit
@@ -5301,9 +5033,7 @@ rience . Les autres définitions sont des règles de calcul ou
 
 [^p98-1]: MACH, La Mécanique, p . 235, 236, 238 .
 
-[p. 99]
-
-LA CRITIQUE DU MÉCANISME
+[p. 99] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 99
 
@@ -5352,11 +5082,7 @@ tales , l'ordre ou l'enchaînement des principes. Mais le sens
 de ces principes, le contenu de la science ne le sont point,
 parce qu'ils ne sont, en définitive, que le développement
 de faits, indépendants de nos vues personnelles , parce
-qu'ils dérivent de l'expérience . Les résultats de la recherche
-
-[p. 100]
-
-100
+qu'ils dérivent de l'expérience . Les résultats de la recherche [p. 100] 100
 L'ANALYSE DES DOCTRINES .
 
 et le contenu réel de la science évoluent donc, mais d'une
@@ -5397,9 +5123,7 @@ tact avec l'objet a fini par imprimer sur notre esprit.
 
 [^p100-1]: Ceci explique et aide à résoudre les nombreux problèmes de priorité que rencontre sur sa route l'historien de la physique. Et le fait même que ces problèmes se posent est, pour Mach, une confirmation de ses vues sur les principes de la physique théorique. Il a longuement montré que de multiples manifestations d'une même idée, à un même moment, sont fréquentes ; elles sont dues au déve- loppement nécessaire des idées générales de la physique sous la pression des faits, aux nécessités de l'expérience objective.
 
-[p. 101]
-
-LA CRITIQUE DU MÉCANISME
+[p. 101] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 101
 
@@ -5450,11 +5174,7 @@ les recherches expérimentales antérieures . La continuité du
 processus scientifique n'est donc rompue en aucun endroit,
 pas plus que les liens qui, en le rattachant à l'expérience ,
 assurent son objectivité. Seulement la fonction de la con-
-naissance réagit naturellement sur l'expérience dont elle a
-
-[p. 102]
-
-subi l'influence . Si la connaissance est une empreinte de
+naissance réagit naturellement sur l'expérience dont elle a [p. 102] subi l'influence . Si la connaissance est une empreinte de
 l'objet sur l'esprit, elle est en même temps un travail de
 l'esprit sur l'objet ou plutôt sur la connaissance immédiate
 qu'il en a. La connaissance est l'acte commun du connais-
@@ -5494,9 +5214,7 @@ de la mécanique dans celui de la psychologie et de la
 [^p102-2]: MACH, Populár-Wissenschaftliche Vorlesungen , p . 221, 222 et 243 sq.
 [^p102-3]: MACH, Die Principien der Wärmelehre, p. 437 sq. Populär- Wissenschaftliche Vorlesungen, p. 267 sq.
 
-[p. 103]
-
-LA CRITIQUE DU MÉCANISME
+[p. 103] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 103
 
@@ -5545,9 +5263,7 @@ respecter une certaine perspective, en ce sens que l'angle
 [^p103-1]: MACH, La Mécanique, tr. fr . , p. 397.
 [^p103-2]: Die Principien der Wärmelehre , p. 436.
 
-[p. 104]
-
-sous lequel il voit l'objet ne dépend pas de lui, mais des
+[p. 104] sous lequel il voit l'objet ne dépend pas de lui, mais des
 résidus latents que l'expérience a déposés en lui 1 .
 La systématisation n'est même pas maîtresse de
 ses
@@ -5607,9 +5323,7 @@ rien là qui puisse prêter à une interprétation
 subjectiviste ou
 sceptique.
 
-[p. 105]
-
-LA CRITIQUE DU MÉCANISME
+[p. 105] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 105
 
@@ -5659,11 +5373,7 @@ le sens purement formaliste et scolastique qu'on pourrait
 être tenté de lui donner : il n'exprime pas du tout un enchaî- [^p105-2]
 
 [^p105-1]: MACH, La Mécanique , p . 491, 492.
-[^p105-2]: MACH, La Mécanique , p. 434. 1
-
-[p. 106]
-
-nement de propositions arbitraires et vides de tout contenu
+[^p105-2]: MACH, La Mécanique , p. 434. 1 [p. 106] nement de propositions arbitraires et vides de tout contenu
 expérimental. Aussi, sortie de l'expérience, imposée par
 elle, vérifiée ou plutôt remplie tout entière par ses résultats,
 la systématisation est apte à rendre de nouveaux services à
@@ -5714,11 +5424,7 @@ Une chose est une abstraction . Un nom est un symbole pour un
 complexe d'éléments dont on ne considère pas la variation. Nous
 désignons le complexe entier par un mot, par un symbole unique ,
 lorsque nous avons besoin de rappeler en une fois toutes les impres-
-sions qui le composent. Plus tard, parvenus à un degré supérieur,
-
-[p. 107]
-
-LA CRITIQUE DU MÉCANISME
+sions qui le composent. Plus tard, parvenus à un degré supérieur, [p. 107] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 107
 
@@ -5771,9 +5477,7 @@ les espaces, les durées (ce que nous appelons d'habitude des sensa-
 tions) , qui sont les véritables éléments du monde . » (MACH, La Méca-
 nique, p. 450, 451) .
 
-[p. 108]
-
-sociation nouvelle, bien que la pensée poursuive toujours
+[p. 108] sociation nouvelle, bien que la pensée poursuive toujours
 un but utilitaire, puisqu'elle cherche à s'adapter, et à nous
 adapter à l'objet, elle se rapproche, au contraire, progres-
 sivement- sans jamais peut-être les atteindre
@@ -5811,9 +5515,7 @@ tion est quelque chose de relatif. Une sensation n'est ce
 
 [^p108-1]: On sait que la loi psychophysique (loi de Fechner) établit que pour qu'une sensation semble prendre une intensité plus grande , il faut que l'excitation soit d'autant plus forte que la sensation consi- dérée est elle-même plus forte. L'augmentation d'intensité d'une sensation, ou plus exactement l'apparition d'une sensation plus intense est donc relative à l'intensité de la sensation précédente. Ajoutez 2 grammes à 2 grammes, vous sentez l'augmentation de poids . Ajoutez 2 grammes à 1 kilogramme, vous ne sentez plus rien du tout. Il faut ajouter à peu près 300 grammes , d'après l'expérience, pour que l'on s'aperçoive que le poids primitif de 1 kilogramme a augmenté.
 
-[p. 109]
-
-LA CRITIQUE DU MÉCANISME
+[p. 109] LA CRITIQUE DU MÉCANISME
 L'ATTITUDE HOSTILE .
 109
 
@@ -5860,11 +5562,7 @@ devront être analysées par les sciences psychologiques .
 Voici un morceau de soufre ;
 il est éclairé ou dans
 l'ombre ; il cristallise de telle façon, il s'électrise de telle
-autre ; il donne telle ou telle sensation de résistance, de
-
-[p. 110]
-
-forme , de consistance, de température, selon qu'une colonne
+autre ; il donne telle ou telle sensation de résistance, de [p. 110] forme , de consistance, de température, selon qu'une colonne
 de mercure est plus ou moins haute dans un tube capil-
 laire . Toutes ces relations qui déterminent les sensations
 que j'ai du soufre me seront données, quels que soient mon
@@ -5910,9 +5608,7 @@ sous la réserve des erreurs humaines
 n'en subsiste pas
 moins comme nécessaire . Nous tenons un certain nombre
 
-[p. 111]
-
-LA CRITIQUE DU MÉCANISME
+[p. 111] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 111
 
@@ -5962,11 +5658,7 @@ se débarrasse
 d'un résultat mauvais ou douteux . Elle substitue à une rela-
 tion moins conforme, une relation qui l'est davantage
 : ce
-cas n'arrive d'ordinaire que pour les détails, ou s'il porte
-
-[p. 112]
-
-sur une relation générale , c'est que cette relation était hypo-
+cas n'arrive d'ordinaire que pour les détails, ou s'il porte [p. 112] sur une relation générale , c'est que cette relation était hypo-
 thétique. Ou bien la relation nouvelle, tout en laissant
 debout les anciennes , est incompatible avec elle. C'est là
 le cas le plus ordinaire, c'est aussi le plus intéressant, car
@@ -6011,9 +5703,7 @@ physique, conservation de la matière ». Dès lors, pourquoi
 attribuerions-nous plus de réalité à la matière même du
 fluide au sein duquel se forment les tourbillons ? Pour
 
-[p. 113]
-
-LA CRITIQUE DU MÉCANISME
+[p. 113] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 113
 
@@ -6054,11 +5744,7 @@ arrêterons nos discussions aux bornes que Hertz lui-même
 n'avait pas franchies [^p113-1]. »,
 A ce que je crois, c'est fort mal représenter les intentions
 
-[^p113-1]: P. DUHEM, L'Evolution de la mécanique (Revue générale des Sciences , 15 mars 1903, p . 253). Cette critique est bien curieuse sous la plume de Duhem. On verra, en effet, au chapitre suivant, qu'il s'efforce de construire une physique théorique purement mathéma- tique, donc sans matière , et qu'il fait reposer cette physique sur les principes relatifs à l'énergie. REY. 8
-
-[p. 114]
-
-d'Ostwald. Ces intentions sont réalistes et objectivistes. Il
+[^p113-1]: P. DUHEM, L'Evolution de la mécanique (Revue générale des Sciences , 15 mars 1903, p . 253). Cette critique est bien curieuse sous la plume de Duhem. On verra, en effet, au chapitre suivant, qu'il s'efforce de construire une physique théorique purement mathéma- tique, donc sans matière , et qu'il fait reposer cette physique sur les principes relatifs à l'énergie. REY. 8 [p. 114] d'Ostwald. Ces intentions sont réalistes et objectivistes. Il
 ne veut pas vider le monde de son contenu réel. Il veut
 empêcher qu'on masque ce contenu réel par des additions
 imaginaires ou qu'on l'élimine, au contraire, par des sub-
@@ -6097,9 +5783,7 @@ ces relations retracer leur ordre et leur système. Ces rela-
 
 [^p114-1]: MACH : Die Principien der Wämelhere , p. 452 sq. et p. 424 sq. Id. Analyse der Empfindungen , p. 25 , p. 66 sq. Id. Die Geschichte und die Würzel des Satzes von der Erhaltung der Arbeit, p. 35.
 
-[p. 115]
-
-LA CRITIQUE DU MÉCANISME
+[p. 115] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 115
 
@@ -6148,9 +5832,7 @@ plus le besoin de cette mise en évidence de l'enchaînement
 des caractéristiques, parce que la science poussée plus loin,
 1. MACH, la Mécanique , p. 451.
 
-[p. 116]
-
-nous montre , dans la cause et l'effet, des relations qui sont
+[p. 116] nous montre , dans la cause et l'effet, des relations qui sont
 fonction l'une de l'autre [^p116-1], qui s'impliquent et s'unissent
 indissolublement dans une même expression, des relations
 qui sont elles-mêmes en relation entre elles . L'expérience
@@ -6199,9 +5881,7 @@ Si donc la relation causale est une abstraction, un moyen [^p116-2]
 [^p116-2]: La Mécanique, p. 463 (tr . fr .) .
 [^p116-3]: Id. , p. 451, 452 .
 
-[p. 117]
-
-LA CRITIQUE DU MÉCANISME
+[p. 117] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 117
 
@@ -6248,11 +5928,7 @@ sens de Mill , c'est-à-dire sur une simple association d'idées .
 Mais ils résultent des propriétés réelles des sensations et de
 la nature des phénomènes .
 Et voilà comment on peut comprendre, ce qui
-serait
-
-[p. 118]
-
-118
+serait [p. 118] 118
 L'ANALYSE DES DOCTRINES .
 
 incompréhensible dans toute autre interprétation de la
@@ -6306,9 +5982,7 @@ dans le Répertoire de la physique expérimentale de Carl
 
 [^p118-1]: MACH, La Mécanique , p. 433, 434.
 
-[p. 119]
-
-LA CRITIQUE DU MÉCANISME
+[p. 119] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 119
 
@@ -6359,9 +6033,7 @@ manière, on réalisait ce qui semblait le plus pressant
 [^p119-1]: OSTWALD, La Déroute de l'Atomisme contemporain (Revue géné- rale des Sciences , 1895 , p. 958) .
 [^p119-2]: Voir MACH, La Mécanique, préface de la traduction française ; Mach y revendique le droit de priorité sur Kirchoff, qui d'ailleurs n'aurait appliqué que partiellement ses idées .
 
-[p. 120]
-
-rattacher la nouvelle
+[p. 120] rattacher la nouvelle
 idée à la théorie mécanique alors
 régnante, mais l'idée perdait son principal caractère [^p120-1]. >>>
 Ce caractère est l'équivalence de
@@ -6411,9 +6083,7 @@ contenu de l'expérience , l'objet, et le seul objet de la con-
 [^p120-3]: Id. , p . 957. Comparer cette citation avec la critique que Duhem fait d'Ostwald dans la citation de la page 113 et dans laquelle il sou- tient qu'Ostwald réduit la réalité physique à..... l'espace.
 [^p120-4]: Id. , p. 956 .
 
-[p. 121]
-
-LA CRITIQUE DU MÉCANISME
+[p. 121] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 121
 
@@ -6475,9 +6145,7 @@ tives, et en employant des représentations purement con [^p121-4]
 [^p121-3]: Id. , p. 954.
 [^p121-4]: Id. , p. 956.
 
-[p. 122]
-
-122
+[p. 122] 122
 L'ANALYSE DES DOCTRINES .
 
 ceptuelles,
@@ -6535,9 +6203,7 @@ donc du domaine dont l'homme est la mesure, restent hors
 [^p122-1]: Id., p. 957.
 [^p122-2]: W. OSTWALD, Lettre sur l'Energétique (Revue générale des Sciences , 1895, р . 1070).
 
-[p. 123]
-
-LA CRITIQUE DU MÉCANISME
+[p. 123] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 123
 
@@ -6585,9 +6251,7 @@ matique.
 
 [^p123-1]: Id., p. 955.
 
-[p. 124]
-
-1.
+[p. 124] 1.
 
 VI.
 CONCLUSIONS
@@ -6643,9 +6307,7 @@ tenir au langage ordinaire et introduire cette inutile com-
 plication ? ... L'expérience tout entière est un absolu, et il
 n'y a pas d'absolu à chercher derrière l'expérience, du
 
-[p. 125]
-
-LA CRITIQUE DU MÉCANISME
+[p. 125] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 125
 
@@ -6690,11 +6352,7 @@ Toute distinction, tout dualisme d'objet et de sujet, doivent
 s'effacer devant les résultats que la science physique consi-
 dère comme définitifs. Il n'y a plus que le fait nécessaire :
 << Voilà ce qu'est le monde physique », telle est la conclu-
-sion-limite du physicien ; quant à chercher s'il pourrait être
-
-[p. 126]
-
-autre qu'il n'est, c'est absurde. Il est ce qu'il est, quelle que
+sion-limite du physicien ; quant à chercher s'il pourrait être [p. 126] autre qu'il n'est, c'est absurde. Il est ce qu'il est, quelle que
 soit l'opération par laquelle il s'est posé nécessairement
 comme il est. Pour nous il sera toujours cela et ne pourra
 être autre chose que cela. Nature et esprit se sont pénétrés
@@ -6743,11 +6401,7 @@ conserve même, comme ensemble partiel, l'ensemble des
 résultats construits avec les seuls principes de la méca-
 nique. Ceci est très net chez Mach. Seulement Mach, et
 plus nettement Ostwald, ne voient plus là qu'une branche
-de la physique. A côté de cette branche, il faut en déve-
-
-[p. 127]
-
-LA CRITIQUE DU MÉCANISME
+de la physique. A côté de cette branche, il faut en déve-[p. 127]LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 127
 
@@ -6789,9 +6443,7 @@ Elles n'ont pas été atteintes, non plus que les idées fonda-
 mentales de la méthode positive et rationnelle, appliquée à
 la nature depuis la Renaissance .
 
-[p. 128]
-
-CHAPITRE
+[p. 128] CHAPITRE
 III
 
 La structure de la théorie physique
@@ -6850,9 +6502,7 @@ Conclusions .
 [^p128-2]: Objectivité de la science physique. - 3. Valeur métho- dologique de la théorie. - 4. Autonomie de la physique .
 [^p128-5]: Dans quel sens , sur le terrain scientifique , Duhem entend restaurer les notions qualitatives . - I. LE POINT DE VUE DE DUHEM
 
-[p. 129]
-
-LA CRITIQUE DU MÉCANISME
+[p. 129] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE.
 129
 
@@ -6909,11 +6559,7 @@ Quant aux hypothèses mécanistes imaginées pour rendre
 compte de ces liaisons , ce sont des fictions de l'esprit, pra
 
 REY.
-9
-
-[p. 130]
-
-tiquement utiles, mais des fictions, et ce ne seront jamais
+9 [p. 130] tiquement utiles, mais des fictions, et ce ne seront jamais
 que des fictions. On peut en imaginer une infinité d'équi-
 valentes , de même que, pour correspondre, on peut com-
 biner une infinité de systèmes de signaux.
@@ -6969,11 +6615,7 @@ rimental de physique, c'est une tentative illusoire ; autant
 vaudrait essayer d'énoncer une idée sans employer aucun
 signe parlé ou écrit [^p130-1].....
 
-[^p130-1]: « Regnault étudie la compressibilité des gaz ; il prend une certaine quantité de gaz, il l'enferme dans un tube de verre ; il maintient la température constante ; il mesure la pression que sup- porte le gaz et le volume qu'il occupe. Voilà, dira-t-on, l'observation minutieuse et précise de certains phénomènes , de certains faits. Assurément, devant Regnault, entre ses mains , entre les mains de ses aides , des faits se sont produits ; est-ce le récit de ces faits que Regnault a consigné pour contribuer à l'avancement de la phy-
-
-[p. 131]
-
-LA CRITIQUE DU MÉCANISME
+[^p130-1]: « Regnault étudie la compressibilité des gaz ; il prend une certaine quantité de gaz, il l'enferme dans un tube de verre ; il maintient la température constante ; il mesure la pression que sup- porte le gaz et le volume qu'il occupe. Voilà, dira-t-on, l'observation minutieuse et précise de certains phénomènes , de certains faits. Assurément, devant Regnault, entre ses mains , entre les mains de ses aides , des faits se sont produits ; est-ce le récit de ces faits que Regnault a consigné pour contribuer à l'avancement de la phy-[p. 131]LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 131
 
@@ -7039,11 +6681,7 @@ la comparaison des masses. Pour former la seconde, la valeur de
 la pression supportée par le gaz, il a fallu user des notions si pro-
 fondes ,
 si difficiles à acquérir de pression, de forces , de liaison ,
-appeler en aide des lois mathématiques de l'hydrostatique, fondées
-
-[p. 132]
-
-pection des effets produits sur le corps entier ; c'est à celui-
+appeler en aide des lois mathématiques de l'hydrostatique, fondées [p. 132] pection des effets produits sur le corps entier ; c'est à celui-
 ci, non à celui-là, que ressemble le physicien.
 
 ... <<<< Les vérifications expérimentales ne sont pas la base
@@ -7115,9 +6753,7 @@ expérimentale , Revue des questions scientifiques , juillet 1894, p. 192 à
 
 [^p132-1]: DUHEM, La physique expérimentale (Revue des questions scien- tifiques , juillet 1894, p. 192 , 197) .
 
-[p. 133]
-
-LA CRITIQUE DU MÉCANISME
+[p. 133] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 133
 
@@ -7161,9 +6797,7 @@ achèvement, dès qu'elle est confrontée avec l'expérience,
 
 [^p133-1]: DUHEM, Physique de croyant (Annales de philosophie chrétienne, novembre 1905, р. 137) .
 
-[p. 134]
-
-son arbitraire et sa diversité jusque-là possibles, s'éva-
+[p. 134] son arbitraire et sa diversité jusque-là possibles, s'éva-
 nouissent
 momentanément du moins, tant que des con-
 naissances nouvelles ne viendront point la contredire .
@@ -7215,9 +6849,7 @@ duit, n'a aucun sens .
 << Selon H. Hertz des théories sont identiques lorsqu'elles
 conduisent aux mêmes équations. « A cette question (dit
 
-[p. 135]
-
-LA CRITIQUE DU MÉCANISME
+[p. 135] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 135
 
@@ -7273,9 +6905,7 @@ de la science ? Elle n'est plus simultanée, mais elle se
 
 [^p135-1]: Références des deux citations consécutives : DUHEM, Les théo- ries électriques de Maxwell, p. 221, 223 : les mots soulignés le sont parmoi.
 
-[p. 136]
-
-manifeste aussi bien, dès que nous considérons plusieurs
+[p. 136] manifeste aussi bien, dès que nous considérons plusieurs
 moments
 successifs. La
 physique
@@ -7316,9 +6946,7 @@ sait bien la comprendre, ne fait qu'élargir à mesure ce
 champ, lever peu à peu certaines restrictions, réintégrer
 les considérations jugées d'abord négligeables .
 
-[p. 137]
-
-LA CRITIQUE DU MÉCANISME
+[p. 137] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 137
 
@@ -7371,9 +6999,7 @@ limites trop restreintes pour servir de cadre général
 à
 l'explication des phénomènes de la nature.
 
-[p. 138]
-
-2. - On pourrait objecter, Duhem le sait bien, que si
+[p. 138] 2. - On pourrait objecter, Duhem le sait bien, que si
 peut-être la mécanique classique ne semble pas suffire à
 une interprétation de l'univers, c'est qu'en l'état actuel, cet
 univers est encore, malgré les progrès de la science, bien
@@ -7424,9 +7050,7 @@ mènes sensibles les plus simples et les plus immédiatement
 donnés à l'observation.
 << Une observation quelque peu attentive des phénomènes
 
-[p. 139]
-
-LA CRITIQUE DU MÉCANISME
+[p. 139] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 139
 
@@ -7477,12 +7101,10 @@ hypothèse que laissent complètement indéterminée les con
 
 [^p139-1]: DUHEM , L'évolution de la mécanique (Revue générale des Sciences , 1905. p. 184).
 
-[p. 140]
-
-ditions du problème et qui est purement arbitraire, revient
+[p. 140] ditions du problème et qui est purement arbitraire, revient
 à n'en fournir jamais aucune. A tout le moins abandonne-
 t-on alors toute prétention à l'objectivité. Le mouvement
-caché est le deus ex machina du physicien à court d'expli-
+caché est le *deus ex machina* du physicien à court d'expli-
 cations . Loin d'être le substitut d'une interprétation ulté-
 rieure plus proche des faits, il est la porte ouverte à l'arbi-
 traire, un aveu continuel d'ignorance .
@@ -7526,9 +7148,7 @@ tuant la continuité à la discontinuité, elle prête à des cal-
 culs plus simples et plus rigoureux ; nous lui devons la
 préférence. >>
 
-[p. 141]
-
-LA CRITIQUE DU MÉCANISME
+[p. 141] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 141
 
@@ -7574,9 +7194,7 @@ phosphore blanc en phosphore rouge. Ces changements
 [^p141-1]: Cf. la théorie d'Ostwald.
 [^p141-2]: DUHEM, Réflexions au sujet des théories physiques (Revue des questions scientifiques , janvier 1892. p. 161). (Italique indiquée par moi).
 
-[p. 142]
-
-seront , pour elle , des mouvements ; la scolastique les aurait
+[p. 142] seront , pour elle , des mouvements ; la scolastique les aurait
 nommés mouvements d'altération .
 
 <<< L'examen de tels mouvements n'emplira pas encore
@@ -7620,9 +7238,7 @@ et qu'elles seront dépassées, transformées quand il s'agira
 
 [^p142-1]: DUHEM, L'évolution de la mécanique (Revue générale des Scien- ces, 1903. p . 306).
 
-[p. 143]
-
-LA CRITIQUE DU MÉCANISME
+[p. 143] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 143
 
@@ -7671,11 +7287,7 @@ la théorie, qui déterminent les dispositions de son contenu,
 tandis que les définitions traçaient seulement le contour de
 son domaine.
 Ceci posé, les conventions préliminaires sur lesquelles
-il fait reposer la thermodynamique sont, pour lui, le fon-
-
-[p. 144]
-
-dement de la mécanique générale et par là commandent à
+il fait reposer la thermodynamique sont, pour lui, le fon-[p. 144]dement de la mécanique générale et par là commandent à
 tout le champ de la physique. Elles sont énoncées avec une
 négligence absolue de toute intuition expérimentale . Les
 voici :
@@ -7723,9 +7335,7 @@ discontinues très petites séparées par des intervalles vides
 
 [^p144-1]: DUHEM , Commentaire aux principes de la Thermodynamique, Journal de mathématiques pures et appliquées , 1892, p. 271 .
 
-[p. 145]
-
-LA CRITIQUE DU MÉCANISME
+[p. 145] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 145
 
@@ -7770,11 +7380,7 @@ qu'ils nomment l'impénétrabilité de la matière .
 ne représentent que des apparences. Lorsque nous croyons
 
 REY.
-10
-
-[p. 146]
-
-voir les deux corps A et B s'unir pour former un nouveau
+10 [p. 146] voir les deux corps A et B s'unir pour former un nouveau
 corps C, les parties a extrêmement petites dont l'ensemble
 discontinu constitue chacun de ces deux corps demeurent
 en réalité distinctes ; les petites parties du corps A s'inter-
@@ -7824,9 +7430,7 @@ Les grandeurs désignées par ces variables seront par
 [^p146-2]: Id. , 274.
 [^p146-3]: DUHEM, Traité élémentaire de mécanique chimique, 29) .
 
-[p. 147]
-
-LA CRITIQUE DU MÉCANISME
+[p. 147] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 147
 
@@ -7875,9 +7479,7 @@ seulement l'état du système, mais encore la grandeur et la
 [^p147-1]: DUHEM, Commentaire aux principes de la Thermodynamique (Journal des Mathématiques pures et appliquées , 1892, p. 276) .
 [^p147-2]: Id. , p. 276.
 
-[p. 148]
-
-direction de la vitesse dont est animée la matière remplis-
+[p. 148] direction de la vitesse dont est animée la matière remplis-
 sant chacun des éléments de volume du système [^p148-1] » .
 Les variables α, β , ... λ, se subdivisent ensuite en deux
 groupes : celles qui ne peuvent plus varier par rapport au
@@ -7931,9 +7533,7 @@ comme exacte ... , nous conviendrons de... , etc. Il a surtout
 [^p148-1]: Id. , p. 277.
 [^p148-2]: Id . , p. 285 .
 
-[p. 149]
-
-LA CRITIQUE DU MÉCANISME
+[p. 149] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 149
 
@@ -7981,11 +7581,7 @@ par ses quantités .
 Ceci est bien curieux. C'est pour mettre la théorie d'ac-
 cord avec la réalité concrète que Duhem réforme la méca-
 nique. Et en parcourant sa mécanique nouvelle, l'expé-
-rience n'y est jamais mentionnée. Même dans les exposés
-
-[p. 150]
-
-les plus formels de la mécanique rationnelle classique -
+rience n'y est jamais mentionnée. Même dans les exposés [p. 150] les plus formels de la mécanique rationnelle classique -
 et on sait que dans ces derniers temps presque tous les
 exposés (français et allemands du moins) ont été aussi for-
 mels que possible
@@ -8025,9 +7621,7 @@ d'une mathématique universelle à laquelle se réduiraient
 toutes les lois du monde matériel. Mais l'arbitraire qui
 préside au mathématisme de Duhem montre facilement que
 
-[p. 151]
-
-LA CRITIQUE DU MÉCANISME
+[p. 151] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 151
 
@@ -8078,11 +7672,7 @@ ment élevées ; ce symbole que nous nommons température
 absolue ne peut, par les procédés de mesure dont nous
 disposons , être traduit en quelque chose qui ait un sens
 concret, à moins que sa valeur numérique ne demeure
-comprise entre un certain minimum et un certain maxi-
-
-[p. 152]
-
-mum . D'ailleurs, aux températures suffisamment basses ,
+comprise entre un certain minimum et un certain maxi-[p. 152]mum . D'ailleurs, aux températures suffisamment basses ,
 ce
 symbole
 que la thermodynamique nomme un
@@ -8134,9 +7724,7 @@ truite , elle n'en devrait pas moins être rejetée parce qu'elle
 [^p152-1]: DUHEM, L'évolution de la mécanique (Revue générale des Scien- ces, 1903, p. 304).
 [^p152-2]: DUHEM, Revue des questions scientifiques , 1892, p. 173.
 
-[p. 153]
-
-LA CRITIQUE DU MÉCANISME
+[p. 153] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 153
 
@@ -8188,9 +7776,7 @@ mesure qu'une science progresse, qu'elle s'éloigne de la
 
 [^p153-1]: DUHEM, L'évolution de la mécanique (Revue générale des Scien- ces, 1903, p . 304).
 
-[p. 154]
-
-simple connaissance empirique, de la constatation des lois
+[p. 154] simple connaissance empirique, de la constatation des lois
 les plus grossières, le rôle joué par la théorie dans l'inter-
 prétation des faits d'expérience va grandissant : lorsqu'une
 science commence, lorsqu'elle n'est en quelque sorte que le
@@ -8239,9 +7825,7 @@ mulera donc (comme on l'a vu dans l'exposé des conditions
 
 [^p154-1]: DUHEM, La physique expérimentale (Revue des question scien- tifiques , juillet 1894. p. 187). :
 
-[p. 155]
-
-LA CRITIQUE DU MÉCANISME
+[p. 155] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 155
 
@@ -8307,9 +7891,7 @@ quences de l'hypothèse et les faits de l'expérience est une
 
 -
 
-[p. 156]
-
-condition sine qua non de l'admission des conventions pro-
+[p. 156] *condition sine qua non* de l'admission des conventions pro-
 posées.
 L'hypothèse parfaite serait celle qui serait une simple
 traduction en langage mathématique, des lois physiques
@@ -8360,9 +7942,7 @@ rie physique, en même temps que son autonomie relative,
 
 [^p156-1]: DUHEM, Les théories électriques de Maxwell (Revue des ques- tions scientifiques du 20 janvier 1901).
 
-[p. 157]
-
-LA CRITIQUE DU MÉCANISME
+[p. 157] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 157
 
@@ -8407,9 +7987,7 @@ représentera pas, d'une façon matérielle et sensible, des
 éléments , à la combinaison desquels se réduiraient pure-
 ment et simplement ces qualités .
 
-[p. 158]
-
-158
+[p. 158] 158
 L'ANALYSE DES DOCTRINES .
 
 8.
@@ -8481,9 +8059,7 @@ que physicien ; si, positiviste intransigeant, il tient pour
 
 [^p158-1]: DUHEM , Physique de croyant (Annales de philosophie chrétienne, novembre 1905, р. 138).
 
-[p. 159]
-
-LA CRITIQUE DU MÉCANISME
+[p. 159] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 159
 
@@ -8528,9 +8104,7 @@ cien de poser cette affirmation : Au fur et à mesure qu'elle
 [^p159-1]: Id. p. 138, 139, 140.
 [^p159-2]: Id. p. 141.
 
-[p. 160]
-
-progresse, la théorie physique devient plus semblable à une
+[p. 160] progresse, la théorie physique devient plus semblable à une
 classification naturelle, qui est son idéal et sa fin [^p160-1]. >>
 
 IV. - CONCLUSIONS
@@ -8575,9 +8149,7 @@ sur leurs domaines respectifs, encore bien moins s'identi
 [^p160-1]: Id. , p. 143 .
 [^p160-2]: MACH, explicitement en réponse à un article intitulé « la phi- losophie de Маси » .
 
-[p. 161]
-
-LA CRITIQUE DU MÉCANISME
+[p. 161] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 161
 
@@ -8627,11 +8199,7 @@ les
 essences des
 objets qui
 REY.
-11
-
-[p. 162]
-
-tombent sous ses sens se rapprochent-elles les unes des
+11 [p. 162] tombent sous ses sens se rapprochent-elles les unes des
 autres ? Ce sont questions auxquelles il ne lui est point per-
 mis de répondre [^p162-1]. >>>
 Mais il n'y a pas de doute, si l'on approfondit sa pensée
@@ -8672,9 +8240,7 @@ actif de progrès .
 [^p162-1]: DUHEM , Physique de croyant (Annales de philosophie chré- tienne, novembre 1905. p. 134).
 [^p162-2]: Id. , p. 143 .
 
-[p. 163]
-
-LA CRITIQUE DU MÉCANISME
+[p. 163] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 163
 
@@ -8722,11 +8288,7 @@ Mais qu'on n'aille pas s'empresser de considérer
 cette physique nouvelle comme un retour à la physique de la
 scolastique . Duhem a souvent prêté à cette interprétation
 par ses propres expressions, lorsqu'il ne distingue pas net-
-tement ce qui est pensée exclusivement scientifique, tirée,
-
-[p. 164]
-
-comme il le dit, de la pratique quotidienne du laboratoire ,
+tement ce qui est pensée exclusivement scientifique, tirée, [p. 164] comme il le dit, de la pratique quotidienne du laboratoire ,
 et ce qui est tendance métaphysique, philosophie des
 sciences. Au point de vue philosophique, en effet, il y a
 une analogie incontestable entre la forme donnée à la théo-
@@ -8765,9 +8327,7 @@ la science moderne), et leur homogénéité fondamentale.
 Tout ce qu'on doit maintenir, c'est de ne pas aller plus vite
 dans cette homologation de la nature que ne l'autorise l'ex
 
-[p. 165]
-
-LA CRITIQUE DU MÉCANISME
+[p. 165] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 165
 
@@ -8812,9 +8372,7 @@ une précision qu'elle n'aurait pu atteindre sans revêtir cette
 forme schématique que l'on nomme physique théorique ou
 physique mathématique .
 
-[p. 166]
-
-166
+[p. 166] 166
 L'ANALYSE DES DOCTRINES .
 
 « Dès lors à chacun des éléments que l'analyse logique
@@ -8864,9 +8422,7 @@ uns des autres, de les prévoir les uns par les autres, de les
 
 [^p166-1]: DUHEM, Le Mixte et la combinaison chimique , p. 202 , 205.
 
-[p. 167]
-
-LA CRITIQUE DU MÉCANISME
+[p. 167] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 167
 
@@ -8890,9 +8446,7 @@ que les prétentions de devancer l'expérience, d'homogé-
 néiser les phénomènes dans le cadre de la mécanique, et
 de vouloir s'ériger en métaphysique .
 
-[p. 169]
-
-LIVRE III
+[p. 169] LIVRE III
 LA CRITIQUE DU MÉCANISME
 (Suite)
 L'ATTITUDÉ SIMPLEMENT CRITIQUE
@@ -8948,11 +8502,7 @@ continué à le considérer comme un type scientifique, sus-
 ceptible d'évolution, de progrès , certes, mais qui a sa légi-
 timité .
 Ils ont tout simplement critiqué sa valeur comme
-mode de connaissance, de même qu'ils ont critiqué celle
-
-[p. 170]
-
-170
+mode de connaissance, de même qu'ils ont critiqué celle [p. 170] 170
 L'ANALYSE DES DOCTRINES .
 
 de la mathématique sans songer à la réformer ou à lui
@@ -9021,11 +8571,7 @@ les solutions que le problème comporte.
 Mais comment nous assurons-nous , sans déployer tout l'appareil
 de l'analyse mathématique, de la conformité des lois de l'électro-
 statiqueet de l'électrodynamique avec les principes de la dynamique ?
-C'est par une série de comparaisons. Quand nous voudrons ana-
-
-[p. 171]
-
-CRITIQUE DU MÉCANISME
+C'est par une série de comparaisons. Quand nous voudrons ana-[p. 171]CRITIQUE DU MÉCANISME
 : L'ATTITUDE SIMPLEMENT CRITIQUE . 171
 
 Ils ont montré que la connaissance humaine, la science
@@ -9075,15 +8621,13 @@ plus précis » (p. 7, 8).
 1. On peut rapprocher de Poincaré, bien qu'il ait des divergences
 profondes , parmi les critiques de la physique moderne, Bouasse
 (Introduction aux théories de la mécanique, articles dans la Revue
-générale des sciences , la Revue de Métaphysique et de Morale , etc.),
+générale des sciences , la *Revue de Métaphysique et de Morale* , etc.),
 Andrade, l'école américaine épistémologique, et G. Milhaud
 (cette
 école et ce dernier se plaçant à un point de vue plus philosophique
 que scientifique, et sortant par là du cadre de cette étude).
 
-[p. 172]
-
-miers points profonds de divergence entre l'école critique
+[p. 172] miers points profonds de divergence entre l'école critique
 et l'école conceptuelle. Ces dernières rapprochent étroite-
 ment les sciences physico-chimiques et les sciences mathé-
 matiques . Elles ont étendu purement et simplement une
@@ -9131,9 +8675,7 @@ ses seules ressources .
 
 [^p172-1]: POINCARÉ , Science et hypothèse , p. 3 .
 
-[p. 173]
-
-Poincaré ne reculerait devant aucune des conséquences
+[p. 173] Poincaré ne reculerait devant aucune des conséquences
 de cette théorie. On peut imaginer autant de systèmes, de
 signes qu'on voudra pour représenter les mêmes rapports .
 Le même texte se traduit en une infinité de langues. Seule-
@@ -9180,9 +8722,7 @@ matique qui soit abstraite de l'expérience et qui soit imposée
 [^p173-1]: POINCARÉ , Science et hypothèse , p . 66.
 [^p173-2]: Id. , p. 91.
 
-[p. 174]
-
-par elle. Il n'y a pas de mathématique objective. Après
+[p. 174] par elle. Il n'y a pas de mathématique objective. Après
 avoir passé en revue l'arithmétique, la géométrie, même la
 mécanique, Poincaré écrit : « En mécanique, nous serions
 conduits à des conclusions analogues, et nous verrions que
@@ -9198,7 +8738,7 @@ pas plus dans le raisonnement par lequel elles généra-
 lisent, que dans l'objet, (la grandeur mathématique), sur
 lequel elles opèrent [^p174-2].
 La notion de nombre est l'œuvre de l'esprit ; l'espace géo-
-métrique n'est même pas une forme, une loi a priori de
+métrique n'est même pas une forme, une loi *a priori* de
 l'exercice de nos sens . L'espace sensible (visuel, tactile,
 musculaire) est, par nature et essentiellement, différent de
 l'espace géométrique. Celui-ci résulte d'une définition, d'un
@@ -9225,11 +8765,7 @@ qu'une science expérimentale soit le simple décalque de
 
 [^p174-1]: Id. , p. 25 .
 [^p174-2]: Id., p. 23 , 24, 65, 66, 90 , 92, 109 .
-[^p174-3]: POINCARÉ , Science et hypothèse , p. 24. - une
-
-[p. 175]
-
-l'expérience . Tout le monde aujourd'hui s'accorde à recon-
+[^p174-3]: POINCARÉ , Science et hypothèse , p. 24. - une [p. 175] l'expérience . Tout le monde aujourd'hui s'accorde à recon-
 naître que dans la plus expérimentale, la plus concrète des
 sciences, on simplifie le réel, on abstrait, on rectifie, on
 prend des moyennes, on symbolise puisqu'on généralise .
@@ -9269,9 +8805,7 @@ considère comme aussi évidente, dans ce fait que les expé
 [^p175-1]: Id. , p. 90.
 [^p175-2]: Id. , p. 91 .
 
-[p. 176]
-
-riences qui ont déterminé notre choix n'ont rien de com-
+[p. 176] riences qui ont déterminé notre choix n'ont rien de com-
 mun avec l'objet des sciences mathématiques. « Ces expé-
 riences portent sur les propriétés des corps solides, sur la
 propagation rectiligne de la lumière. Ce sont des expé-
@@ -9293,9 +8827,7 @@ force, contre cette extension.
 
 1. POINCARÉ , Science et hypothèse , p. 164.
 
-[p. 177]
-
-CHAPITRE
+[p. 177] CHAPITRE
 II
 
 Critique des sciences physiques [^p177-1]. Le second et le troisième genres d'hypothèses, (le premier étant
@@ -9348,11 +8880,7 @@ caré à en distinguer.deux grandes classes
 thèses que suggère directement l'observation des faits ; et
 les hypothèses qui , sans pouvoir jamais être vérifiées expé-
 
-[^p177-1]: POINCARÉ, Science et hypothèse , p. 5 . REY. 12
-
-[p. 178]
-
-178
+[^p177-1]: POINCARÉ, Science et hypothèse , p. 5 . REY. 12 [p. 178] 178
 L'ANALYSE DES DOCTRINES .
 
 rimentalement, mais aussi sans pouvoir jamais être en
@@ -9399,9 +8927,7 @@ Le contenu de la physique se divisera ainsi en deux
 ensembles , caractérisés chacun par le genre d'hypothèses
 qui se trouve à leur base, et corollairement, par la nature
 
-[p. 179]
-
-CRITIQUE DU MÉCANISME
+[p. 179] CRITIQUE DU MÉCANISME
 : L'ATTITUDE SIMPLEMENT CRITIQUE . 179
 
 essentielle de la démarche de la pensée et des résultats
@@ -9449,9 +8975,7 @@ de cette matière , avec nécessité 2 .
 [^p179-1]: POINCARÉ, Revue de Métaphysique , mai 1902, p. 270, 271 .
 [^p179-2]: POINCARÉ, Revue de Métaphysique, mai 1902, p. 266.
 
-[p. 180]
-
-Le fait scientifique, si l'on veut préciser, n'est autre
+[p. 180] Le fait scientifique, si l'on veut préciser, n'est autre
 chose qu'un fait brut qu'on débarrasse des caractères qua-
 litatifs qui en faisaient une impression individuelle. Sur ce
 fait ont opéré l'abstraction et la généralisation . Mais pour
@@ -9499,9 +9023,7 @@ la nature profonde. Comme l'impression individuelle, les
 
 [^p180-1]: Id. , p. 268 .
 
-[p. 181]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE . 181
+[p. 181] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE . 181
 
 énoncés 1º, 2º et 3º, sont des constatations de faits, ou plu-
 tôt ils sont le seul et même fait exprimé de trois façons
@@ -9557,9 +9079,7 @@ langage et les conventions adoptées, ce seront en dernière [^p181-2]
 [^p181-3]: Voir plus haut, p. 172.
 [^p181-4]: POINCARÉ , Revue de Métaphysique , р. 269 .
 
-[p. 182]
-
-analyse nos sens qui viendront confirmer ou infirmer la
+[p. 182] analyse nos sens qui viendront confirmer ou infirmer la
 vérité de la proposition, sa correspondance ou sa non-cor-
 respondance avec le fait [^p182-1] .
 Or, reprenons nos
@@ -9612,9 +9132,7 @@ employons . Loin d'altérer le fait objectif, ce que le savant
 [^p182-3]: Id. , p. 273 .
 [^p182-4]: Id. , p. 272 .
 
-[p. 183]
-
-met de pensée dans son travail de correction et d'élabora-
+[p. 183] met de pensée dans son travail de correction et d'élabora-
 tion, doit lui permettre de l'atteindre avec plus de précision
 et d'exactitude [^p183-1] .
 Dans la physique expérimentale, tout part donc des faits
@@ -9657,9 +9175,7 @@ qu'alors la critique de Poincaré doive arriver à des conclu
 [^p183-1]: Id. , p. 272, 273 .
 [^p183-2]: POINCARÉ, Science et hypothèse, p. 167.
 
-[p. 184]
-
-sions sinon identiques, au moins analogues à celles aux-
+[p. 184] sions sinon identiques, au moins analogues à celles aux-
 quelles avait abouti son examen des sciences mathéma-
 tiques . Le nom seul de physique mathématique a l'air de
 l'y convier.
@@ -9713,9 +9229,7 @@ jours une promotion de l'expérience .
 
 1. POINCARÉ , Science et hypothèse , p . 168 .
 
-[p. 185]
-
-7.
+[p. 185] 7.
 b) La physique mathématique est un prolongement
 nécessaire de la physique expérimentale .
 La partie expérimentale de la physique dirige déjà la
@@ -9759,9 +9273,7 @@ qu'on ne saurait non plus dissimuler. « Toute généralisa
 [^p185-3]: Id., p. 170 .
 [^p185-4]: Id., p. 171 .
 
-[p. 186]
-
-tion, dit- il, suppose dans une certaine mesure la croyance
+[p. 186] tion, dit- il, suppose dans une certaine mesure la croyance
 à l'unité et à la simplicité de la nature. » Des réserves
 peuvent être faites sur cette simplicité -
 c'est sur ce der-
@@ -9806,9 +9318,7 @@ pour la physique de prendre la forme mathématique . Ce
 [^p186-1]: POINCARÉ, Science et hypothèse, p. 173 .
 [^p186-2]: Id. , p. 212.
 
-[p. 187]
-
-n'est pas seulement parce qu'on a à exprimer des lois numé-
+[p. 187] n'est pas seulement parce qu'on a à exprimer des lois numé-
 riques , c'est parce que dans toute théorie physique, le phé-
 nomène observable est dû à la superposition d'un grand
 nombre de phénomènes élémentaires tous semblables entre
@@ -9837,9 +9347,7 @@ peut mettre en équation 1.
 
 1. POINCARÉ, Science et hypothèse, p. 186, 188.
 
-[p. 188]
-
-CHAPITRE
+[p. 188] CHAPITRE
 III
 
 Critique des sciences physiques ( Suite)
@@ -9916,9 +9424,7 @@ qu'elles ne sont que le moyen de les appliquer : les hypothèses
 
 -
 
-[p. 189]
-
-III .
+[p. 189] III .
 
 complètement indifférentes , qui ne seront jamais
 ni
@@ -9981,11 +9487,7 @@ lui paraît avoir rendu nécessaire .
 Le mécanisme traditionnel considérait que les générali-
 sations théoriques n'étaient que des copies de l'expérience ,
 depuis celles qui sont les plus près des faits jusqu'aux abs-
-tractions les plus hautes, jusqu'aux principes fondamen
-
-[p. 190]
-
-taux.
+tractions les plus hautes, jusqu'aux principes fondamen [p. 190] taux.
 Il prétendait déduire tous les faits physiques des
 principes de la mécanique rationnelle, tels qu'ils étaient
 établis par l'école de Lagrange. Enfin, l'édifice du méca-
@@ -10028,9 +9530,7 @@ aux mêmes principes.
 Ainsi, la tendance mécaniste suppose toujours qu'un
 principe est de même nature qu'une loi expérimentale. Il
 
-[p. 191]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE . 191
+[p. 191] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE . 191
 
 n'en diffère que par le degré de généralité. Il peut, par con-
 séquent, toujours être infirmé ou vérifié par l'expérience.
@@ -10069,17 +9569,13 @@ peler que la mathématique se fonde, d'après lui, sur des
 décrets, des conventions de l'esprit, et en aucune façon sur
 l'expérience . Les conventions en tirant toute leur fécondité
 de la puissance créatrice de l'esprit, constituent seules ces
-jugements synthétiques a priori, qui permettent à la mathé-
+jugements synthétiques *a priori*, qui permettent à la mathé-
 matique de n'être pas une tautologie analytique, mais une
 science capable de progrès et de généralisation .
 Or, la physique théorique est une physique mathéma-
 tique. Si l'on s'en tenait à ce qu'il a été dit jusqu'ici, on se
 trouverait devant une inextricable difficulté. La physique
-théorique d'une part est un prolongement de l'expérience et
-
-[p. 192]
-
-d'autre part, une théorie physique se développe toujours
+théorique d'une part est un prolongement de l'expérience et [p. 192] d'autre part, une théorie physique se développe toujours
 par les procédés, les raisonnements propres à la mathéma-
 tique, c'est-à-dire des procédés, des raisonnements absolu-
 ment indépendants de l'expérience . Pourtant si la physique
@@ -10131,9 +9627,7 @@ une condition et à une seule : c'est que la loi empirique, si
 
 [^p192-1]: POINCARÉ, Sur la valeur objective de la Science (Revue de Méta- physique et de Morale, mai 1902, p. 274).
 
-[p. 193]
-
-!
+[p. 193] !
 
 générale qu'on la suppose, soit érigée en principe, par un
 travail nouveau de l'esprit, qui la rende définitive, qui la
@@ -10182,11 +9676,7 @@ rapports objectifs avec le train qu'il annonce.
 Voilà comment la physique mathématique participe à la
 
 REY.
-13
-
-[p. 194]
-
-fois de la physique, c'est-à-dire de la science expérimen-
+13 [p. 194] fois de la physique, c'est-à-dire de la science expérimen-
 tale et de la mathématique, du réel et de la convention, de
 l'expérience et de la logique. Et voilà pourquoi aussi on
 verra plus loin, en examinant la validité des principes,
@@ -10195,7 +9685,7 @@ tenir, en ce moment, à l'étude de leur nature, on peut con-
 clure : les principes, si l'on considère leur formation, sortent
 de l'expérience ; si l'on considère leur rôle, ils la dépassent.
 La nature des principes de la physique a beaucoup d'ana-
-logie avec celle des jugements synthétiques a priori qui,
+logie avec celle des jugements synthétiques *a priori* qui,
 pour Kant, rendent la physique possible. Les catégories
 transcendantes à l'expérience comme lois de l'entendement
 ne dirigeaient-elles pas d'une façon immanente le sourd
@@ -10237,18 +9727,16 @@ pratique.
 
 [^p194-1]: POINCARÉ , Sur la valeur de la Science (Revue de Métaphysique, mai 1902 , p. 275, 276) .
 
-[p. 195]
-
-Reste une objection grave. Ce travail que l'on a fait à
+[p. 195] Reste une objection grave. Ce travail que l'on a fait à
 propos de lois très générales, ne pourrait-il être fait à pro-
 pos de toutes les propositions de la physique expérimen-
 tale, et ne pourrait-on alors transformer la physique en une
-science a priori, créée tout entière par le savant, et sem-
+science *a priori*, créée tout entière par le savant, et sem-
 blable en tout et pour tout à la théorie physique telle que
 la conçoivent Duhem et l'école résolument antimécaniste ?
 Poincaré ne rend-il pas par ce côté, tout ce qu'il retirait
 jusqu'ici à la critique secessionniste ?
-A priori, rien ne s'opposerait à une interprétation de ce
+*A priori*, rien ne s'opposerait à une interprétation de ce
 genre . Poincaré la déclare pourtant inacceptable, par une
 double argumentation. D'abord la transformation des lois
 empiriques en principes laisse subsister les lois empiriques
@@ -10282,9 +9770,7 @@ tifique un sens bien différent du sens qu'il a dans le lan
 
 [^p195-1]: Id. , p. 276.
 
-[p. 196]
-
-gage vulgaire . Ce terme ne signifie pas que l'œuvre scien-
+[p. 196] gage vulgaire . Ce terme ne signifie pas que l'œuvre scien-
 tifique est un procédé facile ou habile, choisi pour un agré-
 ment particulier et individuel . Il n'a rien à faire avec la
 convenance du savant, tandis qu'un objet n'est, au sens vul-
@@ -10326,9 +9812,7 @@ celle des deux figures A' et B' entre elles . Pourquoi ce dé
 [^p196-1]: Id. , p. 276.
 [^p196-2]: POINCARÉ , Revue de Métaphysique, mai 1902, p. 277.
 
-[p. 197]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE . 197
+[p. 197] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE . 197
 
 tour est-il avantageux ? Parce que la relation de A et B
 était compliquée, mais différait peu de celle de A' et B' qui
@@ -10371,11 +9855,7 @@ aspect
 <<Nous avons une relation entre deux corps A et B, que
 nous avons remplacée par une relation entre deux figures
 A' et B' ; mais cette même relation entre ces deux mêmes
-figures A' et B' aurait pu tout aussi bien remplacer avan
-
-[p. 198]
-
-tageusement une relation entre deux autres corps A" et
+figures A' et B' aurait pu tout aussi bien remplacer avan [p. 198] tageusement une relation entre deux autres corps A" et
 B" , entièrement différentes de A et B. Et cela de bien des
 manières . Si l'on n'avait pas inventé les principes et la géo.
 métrie , après avoir étudié les relations de A et B, il fau-
@@ -10426,9 +9906,7 @@ Voilà une conclusion qu'on est accoutumé à passer sous
 [^p198-1]: Revue de Métaphysique, mai 1902, p. 277, 278 .
 [^p198-2]: D'après POINCARÉ , Science et hypothèse, p. 162 sq.
 
-[p. 199]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE . 199
+[p. 199] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE . 199
 
 silence, en général, quand on revendique
 l'autorité de
@@ -10483,9 +9961,7 @@ si le système métrique est vrai ou faux [^p199-3] » .
 [^p199-2]: Id. , p. 163.
 [^p199-3]: Id. , p. 163.
 
-[p. 200]
-
--
+[p. 200] -
 11.
 Les principes de la mécanique et de la physique
 ont donc « une très haute valeur, ils représentent comme la
@@ -10535,9 +10011,7 @@ une loi expérimentale
 [^p200-1]: D'après POINCARÉ , Science et hypothèse, p. 195 .
 [^p200-2]: Id. , p. 196.
 
-[p. 201]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE . 201
+[p. 201] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE . 201
 
 vérifiée dans un certain nombre de cas particuliers. On
 l'érige à la suite d'abstractions convenables en un principe
@@ -10594,11 +10068,7 @@ vrai ,
 comme avant. La science, au lieu de considérer le principe
 de la conservation de la masse comme universel, se con-
 tentera de le considérer comme partiel .
-Elle décidera qu'il est exact dans certaines limites , et ces
-
-[p. 202]
-
-202
+Elle décidera qu'il est exact dans certaines limites , et ces [p. 202] 202
 L'ANALYSE DES DOCTRINES .
 
 limites définissent précisément le cercle des phénomènes
@@ -10651,9 +10121,7 @@ Rien n'aura infirmé le principe primitif. Il y aura seu-
 lement des faits où son application doit cesser, parce qu'ils
 ne présenteront plus à l'observation directe les éléments
 
-[p. 203]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE . 203
+[p. 203] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE . 203
 
 et les conditions que les faits primitifs avaient permis d'iso-
 ler et d'abstraire .
@@ -10695,11 +10163,7 @@ figurés, les modèles mécaniques, les représentations con-
 crètes (tourbillons, atomes, fluides, agencements de méca-
 nismes matériels) en la réalité desquels croyait trop volon-
 tiers la physique classique.
-Mais les mêmes relations et les mêmes principes forment
-
-[p. 204]
-
-toujours l'ossature de toutes ces représentations concrètes .
+Mais les mêmes relations et les mêmes principes forment [p. 204] toujours l'ossature de toutes ces représentations concrètes .
 Ils résistent aux prises du temps comme de la critique. Ils
 se complètent, certes , à chaque découverte nouvelle ; ils se
 compliquent aussi, à mesure que s'approfondit l'étude de
@@ -10751,9 +10215,7 @@ le
 [^p204-1]: Science et hypothèse , p. 189, 190.
 [^p204-2]: Id. , p. 190.
 
-[p. 205]
-
-développement de la pièce qui nous raconte l'histoire des
+[p. 205] développement de la pièce qui nous raconte l'histoire des
 phénomènes naturels. Mais pourvu que les rapports que
 l'on établit entre ces images soient bien identiques aux rap-
 ports qui existent entre les objets réels , et que ces rap-
@@ -10798,9 +10260,7 @@ Quelles qu'elles soient, il faut qu'il y en ait [^p205-2] .
 [^p205-1]: Science et hypothèse , p. 191, 192, 193 .
 [^p205-2]: Id. , Cf. notamment cette expression : les images que nous sommes forcés de mettre à leur place. (leur, i. e. des relations véri- tables).
 
-[p. 206]
-
-Sous une divergence précise d'interprétation, on trouve
+[p. 206] Sous une divergence précise d'interprétation, on trouve
 encore ici la conservation en fait d'une caractéristique du
 mécanisme classique . Le mécanisme ne
 se borne pas
@@ -10862,10 +10322,8 @@ En résumé, Poincaré combat le mécanisme cris-
 tallisé sous la forme qu'il revêtait dans la première moitié
 du XIXe siècle, en insistant sur la relativité de la science.
 
-[p. 207]
-
-Il conclut à cette relativité non à l'aide d'arguments philo-
-sophiques , et d'une dialectique a priori, mais en s'ap-
+[p. 207] Il conclut à cette relativité non à l'aide d'arguments philo-
+sophiques , et d'une dialectique *a priori*, mais en s'ap-
 puyant sur les faits que lui fournit le contenu de la science
 actuelle, sur des raisons positives. Il s'oppose à ce que
 l'on transforme les théories des sciences physico-chimiques
@@ -10912,11 +10370,7 @@ seraient
 compatibles
 avec la théorie classique
 » . En
-d'autres termes, le mécanisme traditionnel est trop large
-
-[p. 208]
-
-et par suite trop vague. Les nouveaux principes, résultat
+d'autres termes, le mécanisme traditionnel est trop large [p. 208] et par suite trop vague. Les nouveaux principes, résultat
 des découvertes nouvelles, imposées par l'expérience qui
 n'a pas infirmé les anciens (il faut se rappeler qu'ils ne
 peuvent être faux en eux-mêmes) sont féconds et néces-
@@ -10962,9 +10416,7 @@ de toute force, mais assujettie à se mouvoir sur une sur-
 [^p208-2]: Science et hypothèse, р. 153 , 154.
 [^p208-3]: Id., p. 154.
 
-[p. 209]
-
-face, prendra la ligne géodésique, c'est-à-dire le chemin le
+[p. 209] face, prendra la ligne géodésique, c'est-à-dire le chemin le
 plus court.
 <<<Cette molécule semble connaître le point où on veut la
 mener, prévoir le temps qu'elle mettra à l'atteindre en sui-
@@ -10980,9 +10432,7 @@ bleraient pas se substituer aux causes efficientes 1. >>>
 REY.
 14
 
-[p. 210]
-
-CHAPITRE IV
+[p. 210] CHAPITRE IV
 
 Conclusions relatives à l'école critique [^p210-1]. La valeur objective de la science.
 2. Le maintien de l'es-
@@ -11028,9 +10478,7 @@ aux quantités négligeables, nous pouvons sans danger faire
 
 [^p210-1]: Science et hypothèse, p. 172, 176.
 
-[p. 211]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE . 211
+[p. 211] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE . 211
 
 i
 
@@ -11089,11 +10537,7 @@ comme leur atmosphère
 naturelle
 et
 vraisemblablement
-nécessaire . Il faudrait citer ici les pages qui concluent une
-
-[p. 212]
-
-212
+nécessaire . Il faudrait citer ici les pages qui concluent une [p. 212] 212
 L'ANALYSE DES DOCTRINES .
 
 étude sur la physique et le mécanisme [^p212-1]. Je me contenterai
@@ -11144,9 +10588,7 @@ sibles aux phénomènes réversibles , et par là à une théo-
 [^p212-2]: Id. , p. 205 , 206 .
 [^p212-3]: Id.
 
-[p. 213]
-
-}
+[p. 213] }
 
 rie mécanique. « En résumé, les phénomènes ancienne-
 ment connus se classent de mieux en mieux ; mais des
@@ -11189,11 +10631,7 @@ l'unité des phénomènes naturels
 
 [^p213-1]: Id. , p. 210, 211 , 191 , et Revue de Métaphysique , mai 1902, p. 291.
 [^p213-2]: Science et hypothèse , p. 212 .
-[^p213-3]: POINCARÉ (Science et hypothèse, p. 202 , 203) a remarqué que deux tendances inverses se manifestent dans l'histoire du développe- ment de la physique : une tendance vers l'unité, par la découverte de liens nouveaux entre des phénomènes épars, une tendance vers la discrimination par la découverte de phénomènes nouveaux qui viennent rompre certains liens présumés. De ces deux tendances inverses , laquelle l'emportera ? « Si c'est la première, la Science est possible. » (p . 203.)
-
-[p. 214]
-
-et de leurs lois, est renforcée encore dans l'exposé de
+[^p213-3]: POINCARÉ (Science et hypothèse, p. 202 , 203) a remarqué que deux tendances inverses se manifestent dans l'histoire du développe- ment de la physique : une tendance vers l'unité, par la découverte de liens nouveaux entre des phénomènes épars, une tendance vers la discrimination par la découverte de phénomènes nouveaux qui viennent rompre certains liens présumés. De ces deux tendances inverses , laquelle l'emportera ? « Si c'est la première, la Science est possible. » (p . 203.) [p. 214] et de leurs lois, est renforcée encore dans l'exposé de
 Poincaré par les progrès continus qu'il se plaît à noter
 dans les théories particulières : comme il nous le montre,
 elles se complètent sur leurs bases primitives ; elles ne
@@ -11242,9 +10680,7 @@ nous font connaître la nature, ne retenir que ce qu'il est
 
 [^p214-1]: Science et hypothèse, p. 210.
 
-[p. 215]
-
-possible d'exprimer quantitativement, c'est-à-dire les rela-
+[p. 215] possible d'exprimer quantitativement, c'est-à-dire les rela-
 tions de ces sensations .
 Réduction du qualitatif au quantitatif, de l'hétérogène à
 l'homogène , voilà encore un des caractères nécessaires des
@@ -11288,9 +10724,7 @@ classe les phénomènes naturels en un certain nombre de
 [^p215-1]: Revue de Métaphysique, mai 1902 , p. 289.
 [^p215-2]: Id. , p. 266.
 
-[p. 216]
-
-groupes par leurs similitudes. Dans chaque groupe, се
+[p. 216] groupes par leurs similitudes. Dans chaque groupe, се
 que l'on a dit d'un phénomène pourra se répéter identique-
 ment de tous les autres
 : ce sera la formule d'une loi natu-
@@ -11329,9 +10763,7 @@ ce qui veut dire la plus aisée à transmettre, la plus com
 
 [^p216-1]: Id. , p . 287. POINCARÉ cherche (p. 281 à 288) les divers sens du mot contingent, et ce qu'il faut entendre par nécessaire . De ce fait que les physiciens, bien qu'admettant que toute loi n'est qu'appro- chée, constatent que la loi approche de plus en plus, et que la nature est constituée par des faits qui se répètent à peu près identique- ment , par des relations , des séquences semblables , il conclut que la nature physique constitue un déterminisme et que les lois physiques sont nécessaires .
 
-[p. 217]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE . 217
+[p. 217] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE . 217
 
 mode (au sens que Poincaré a donné à ce mot). La phy-
 sique est donc de tout ce que nous sentons, percevons, con-
@@ -11384,9 +10816,7 @@ qu'un éclair au milieu d'une longue nuit. Mais c'est cet
 [^p217-3]: Valeur de la science , p. 271 .
 [^p217-4]: Id. , p. 275 .
 
-[p. 219]
-
-LIVRE IV
+[p. 219] LIVRE IV
 
 LES CONTINUATEURS DU MÉCANISME
 LES HYPOTHÈSES FIGURATIVES
@@ -11426,11 +10856,7 @@ les limites de l'expérience, et la continuité du développe-
 ment scientifique. Elle conclut à un positivisme expérimen-
 tal en même temps qu'à la légitimité de la physique mathé-
 matique, à la possibilité d'une organisation rationnelle des
-résultats empiriques. La critique de la science physique
-
-[p. 220]
-
-dans la seconde moitié du XIXe siècle n'est que le dévelop-
+résultats empiriques. La critique de la science physique [p. 220] dans la seconde moitié du XIXe siècle n'est que le dévelop-
 pement des tendances générales de la science moderne.
 Elle apporte , en somme, à la physique classique les modifi-
 cations qui paraissent nécessaires à son progrès , les cor-
@@ -11469,11 +10895,7 @@ l'histoire du mécanisme, c'est encore, sauf des exceptions
 rares et bien partielles, l'histoire de la physique .
 Seulement l'impartialité historique - et à son défaut le
 simple bon sens - forcent d'un autre côté à constater que
-le mécanisme est allé se transformant, et évoluant à son
-
-[p. 221]
-
-tour, comme le contenu de la physique lui-même, au fur
+le mécanisme est allé se transformant, et évoluant à son [p. 221] tour, comme le contenu de la physique lui-même, au fur
 et à mesure des découvertes qu'il créait. C'est cette histoire
 et cette évolution qu'il importe maintenant de retracer dans
 ses grandes lignes . [^p221-2].
@@ -11522,9 +10944,7 @@ sant et trop métaphysique, trop réaliste.
 [^p221-1]: KIRCHHOFF , Uber das Ziel Naturwissenschaften , passim . , tr. fr . , p. 9 et 23 sq.
 [^p221-2]: HELMHOLTZ, Populārwiss . Vorl. vol. I, p . 92 sq.
 
-[p. 222]
-
-Du Bois-Reymond a dit plus récemment (1881)
+[p. 222] Du Bois-Reymond a dit plus récemment (1881)
 :
 <<< La science naturelle ou, pour parler plus exactement,
 la connaissance scientifique de la nature, ou la connaissance
@@ -11575,9 +10995,7 @@ proclamer la relativité de la connaissance. Le mécanisme
 
 [^p222-1]: Cité par STALLO : La matière et la Physique moderne, p. 6 et 7.
 
-[p. 223]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES.
+[p. 223] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES.
 223
 
 qu'il considère comme le fondement nécessaire des sciences
@@ -11629,9 +11047,7 @@ nomène physique peuvent être déduits de la configuration [^p223-1]
 
 [^p223-1]: On the dynamical evidence of the molecular constitution of Bodies : Nature, 4 et 11 mars 1875.
 
-[p. 224]
-
-et du mouvement d'un système matériel, on dit que son
+[p. 224] et du mouvement d'un système matériel, on dit que son
 explication est complète
 : « Nous ne pouvons pas conce-
 voir qu'une explication ultérieure soit nécessaire ou pos-
@@ -11681,9 +11097,7 @@ objective ,
 [^p224-2]: Id., p. 142.
 [^p224-3]: Id. , p. 93 .
 
-[p. 225]
-
-c'est-à-dire embrassant dans sa description tous les cas
+[p. 225] c'est-à-dire embrassant dans sa description tous les cas
 particuliers des théories mécanistes .
 
 3. - Il faut d'ailleurs prévenir tout malentendu sur ce
@@ -11736,11 +11150,7 @@ sation des phénomènes psysico-chimiques ; et elle pose que
 la systématisation de ces phénomènes sera nécessairement
 
 REY.
-15
-
-[p. 226]
-
-en dernière analyse, une formule figurative. Pour résumer :
+15 [p. 226] en dernière analyse, une formule figurative. Pour résumer :
 en partant du mouvement et des notions qu'il suggère, c'est-
 à-dire des notions dont la mécanique a commencé l'étude , et
 en les compliquant convenablement, on doit arriver à repré-
@@ -11797,11 +11207,7 @@ illicite , de l'idée qu'on a de la mathématique, à l'idée qu'on
 se fait de la physique. La physique ne ressemble-t-elle pas
 alors à ce que l'on voudrait qu'elle fût, ou à ce que l'on
 croit qu'elle est ? et non à ce qu'elle est ? C'est ce que
-répondraient, c'est, on va le voir, ce que répondent en fait,
-
-[p. 227]
-
-les physiciens et les chimistes de laboratoire, qui se rat--
+répondraient, c'est, on va le voir, ce que répondent en fait, [p. 227] les physiciens et les chimistes de laboratoire, qui se rat--
 tachent presque tous au mécanisme .
 Milhaud, bien qu'il soit lui-même mathématicien, ne fait-il
 pas à peu près cette objection à Poincaré à propos de l'ou-
@@ -11846,9 +11252,7 @@ la façon même dont subjectivement la question se présente
 
 [^p227-1]: Revue de Métaphysique , novembre 1903, p. 787, 788. -
 
-[p. 228]
-
-à eux, d'imaginer pour les retrouver une analyse embar-
+[p. 228] à eux, d'imaginer pour les retrouver une analyse embar-
 rassée et difficile .
 Bien qu'ils veuillent être avant tout objectifs, lorsqu'ils
 s'appliquent ensuite à la physique, bien qu'ils cherchent
@@ -11889,11 +11293,7 @@ matique . Les progrès de la physique, d'une part, et les
 progrès de la mathématique, d'autre part, ont amené au
 XIX
 siècle une fusion étroite entre ces deux sciences. La
-physique a posé à la mathématique la plupart des pro-
-
-[p. 229]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHESES FIGURATIVES.
+physique a posé à la mathématique la plupart des pro-[p. 229]CONTINUATEURS DU MÉCANISME, HYPOTHESES FIGURATIVES.
 229
 
 blèmes nouveaux qu'elle a eus à résoudre. Elle lui a
@@ -11941,11 +11341,7 @@ théorie
 faisait
 corps avec l'expérience : elle en était la généralisation
 spontanée et nécessaire ; elle était, pour le dire d'un mot,
-l'induction fondée sur l'expérience. Et la synonymie que
-
-[p. 230]
-
-230
+l'induction fondée sur l'expérience. Et la synonymie que [p. 230] 230
 L'ANALYSE DES DOCTRINES .
 
 l'on a toujours établie entre méthode inductive et méthode
@@ -12005,9 +11401,7 @@ donc des données réelles et objectives, et conféraient par
 suite leur objectivité à toute la construction dont ils étaient
 l'unique matériel .
 
-[p. 231]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES.
+[p. 231] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES.
 231
 
 Mais peu à peu, les développements de la physique
@@ -12050,11 +11444,7 @@ esprit non prévenu, on croit se trouver en face d'un déve-
 loppement arbitraire .
 L'aspect inductif disparaît aussi. Les éléments primor-
 diaux deviennent des principes abstraits, des formes extrê-
-mement générales. Le concept, la notion a remplacé par
-
-[p. 232]
-
-tout l'élément réel. La théorie n'est pas fondée sur les faits ;
+mement générales. Le concept, la notion a remplacé par [p. 232] tout l'élément réel. La théorie n'est pas fondée sur les faits ;
 déduction parfaite, elle développe une formule et n'a plus
 d'autres conditions limites que le principe de contradic-
 tion, partant, semble-t-il, plus d'autre certitude que la cer-
@@ -12069,9 +11459,7 @@ de la physique, et son éloignement apparent des
 faits
 objectifs .
 
-[p. 233]
-
-I.
+[p. 233] I.
 
 II .
 
@@ -12133,9 +11521,7 @@ de
 
 [^p233-1]: Remarque sur la méthode . - Il n'est guère possible de suivre pour exposer la théorie mécaniste la méthode qui a été suivie pour les autres conceptions de la physique. Ces conceptions , en effet , avaient été exposées d'une façon explicite par l'un ou par quelques- uns de leurs adeptes. En analysant les travaux de ces savants , il était possible de définir complètement l'esprit général qui animait leurs écoles . Mais avec le mécanisme tout change. D'abord c'est une doctrine plus plastique : on n'en finirait pas à vouloir exposer toutes ses nuances ; ce fait ne doit pas d'ailleurs étonner, étant donné le nombre de ses adeptes . Ensuite, il n'en est à ma connais- sance aucun qui se soit proposé de définir et d'exposer entièrement la théorie de la physique mécaniste. Elle paraît si naturelle, la tra- dition aidant, qu'on ne songe pas à l'analyser .
 
-[p. 234]
-
-234
+[p. 234] 234
 L'ANALYSE DES DOCTRINES .
 
 l'expérience . Ces éléments sont ceux
@@ -12265,9 +11651,7 @@ la tâche de définir leur esprit général. Et c'est chez les philosophes,
 ou tout au moins en songeant à eux, qu'il faudra chercher bien
 souvent les traits fondamentaux du mécanisme scientifique.
 
-[p. 235]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES.
+[p. 235] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES.
 235
 
 saire de la science et par les critiques accumulées contre
@@ -12310,9 +11694,7 @@ sur l'expérience, et sera essentiellement une hypothèse
 vérifiable .
 Les mécanistes adoptent sur ce point les opinions de
 
-[p. 236]
-
-Comte. Toute hypothèse doit être proscrite si une de ses
+[p. 236] Comte. Toute hypothèse doit être proscrite si une de ses
 conséquences est infirmée par l'expérience, ou si elle n'est
 pas elle-même vérifiable par l'expérience. Lorsque l'hypo-
 thèse n'est pas vérifiable directement dans son intégrité,
@@ -12361,11 +11743,7 @@ relation nécessaire, analytique ,
 Ce n'est pas en fait que se pose d'abord l'accord de la théo-
 rie et de l'expérience ; c'est en droit que la théorie sort de
 l'expérience et y retourne, et que telle expérience entraîne
-telle théorie, ou telle théorie, telle expérience. Il y a là une
-
-[p. 237]
-
-propriété qui repose sur la nature des choses, c'est-à-dire
+telle théorie, ou telle théorie, telle expérience. Il y a là une [p. 237] propriété qui repose sur la nature des choses, c'est-à-dire
 sur la nature du phénomène , et sur la nature de la science .
 La théorie traduit l'expérience objective,
 et cela d'une
@@ -12409,11 +11787,7 @@ qu'ici examinées disaient extension donnée par l'esprit ,
 modification apportée par l'esprit, abstraction, rectification,
 altération, correction [^p237-1]. Faut-il rappeler que tous les psy
 
-[^p237-1]: « Ainsi on ne se borne pas à généraliser l'expérience, on la corrige. » (POINCARÉ, Science et hypothèse , p. 170.)
-
-[p. 238]
-
-chologues proclament le pouvoir créateur de l'esprit dans
+[^p237-1]: « Ainsi on ne se borne pas à généraliser l'expérience, on la corrige. » (POINCARÉ, Science et hypothèse , p. 170.) [p. 238] chologues proclament le pouvoir créateur de l'esprit dans
 la généralisation ? Ce pouvoir créateur, les théories précé-
 dentes admettaient toutes, et la philosophie contemporaine
 souvent encore renchérit sur elles,
@@ -12461,11 +11835,7 @@ rience est composée d'éléments identiques .
 Cette nécessité pour la généralisation scientifique
 d'être un décalque de l'expérience et de n'être que cela,
 est si nettement dans l'esprit mécaniste, que le mécanisme
-n'hésite pas , comme on le verra, à formuler des hypo
-
-[p. 239]
-
-thèses contradictoires, dans toutes les parties où la science
+n'hésite pas , comme on le verra, à formuler des hypo [p. 239] thèses contradictoires, dans toutes les parties où la science
 physique possède des données
 insuffisantes
 pour
@@ -12508,9 +11878,7 @@ Cf.
 
 [^p239-1]: Cf. MAXWELL : Traité de l'électricité. Tous les critiques , en particulier Poincaré, et surtout Duhem , en ont remarqué l'inconsts- tence logique, et même les contradictions. Il est pourtant sorti de l'influence qu'il a exercée une riche moisson de découvertes . aussi les « modèles mécaniques » de la physique anglaise. Ils peuvent être contradictoires, et pourtant féconds. En tout cas les physiciens anglais se soucient peu qu'ils soient on non contradictoires .
 
-[p. 240]
-
-raisonnement et du concept purs. On ne peut s'empêcher
+[p. 240] raisonnement et du concept purs. On ne peut s'empêcher
 ici de songer au mot si connu de Newton
 : « Hypothèses
 non fingo
@@ -12556,9 +11924,7 @@ de ces principes ne seraient pas encore découvertes [^p240-1] » . Et
 
 [^p240-1]: Optique , p. 377.
 
-[p. 241]
-
-dans sa première regula philosphandi, il énonce nettement
+[p. 241] dans sa première regula philosphandi, il énonce nettement
 que tout principe doit être une vraie cause, ou en dériver
 :
 une vraie cause, c'est-à-dire une chose réelle, une donnée
@@ -12602,9 +11968,7 @@ d'un nombre immense de phénomènes [^p241-2]. »
 [^p241-1]: Par exemple, dans la loi de l'attraction universelle, telle que la comprend Newton.
 [^p241-2]: BERTHELOT, Lettre à Renan, in Dialogues philosophiques de Renan , 3º édit. , 1856. REY. 16
 
-[p. 242]
-
-<<< Pour atteindre à de si grands résultats , pour enchaî-
+[p. 242] <<< Pour atteindre à de si grands résultats , pour enchaî-
 ner une telle multitude de phénomènes par les liens d'une
 même loi générale et conforme à la nature des choses,
 l'esprit humain a suivi une méthode simple et invariable .
@@ -12652,9 +12016,7 @@ pondre à leur ordre de subordination. Mais tôt ou tard
 
 [^p242-1]: Id. , p. 203.
 
-[p. 243]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES.
+[p. 243] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES.
 243
 
 l'expérience les rectifiera. Elles n'atteignent pas la belle
@@ -12666,7 +12028,7 @@ lointaines et par suite des relations les plus étendues aux-
 quelles nous a fait remonter l'expérience. Berthelot dira
 par exemple : « La physique et la chimie se ramènent dès
 lors à la mécanique, non en vertu d'aperçus obscurs et
-incertains, non à la suite de raisonnements a priori, mais
+incertains, non à la suite de raisonnements *a priori*, mais
 au moyen de notions indubitables, toujours fondées sur
 l'observation ou sur l'expérience et qui tendent à établir
 par l'étude directe des transformations réciproques des
@@ -12700,9 +12062,7 @@ la science.
 
 [^p243-1]: Id. , p. 203 .
 
-[p. 244]
-
-Contre cette doctrine, le mécanisme ne cesse de protester.
+[p. 244] Contre cette doctrine, le mécanisme ne cesse de protester.
 Il n'en resterait pas moins que l'expérience est toujours
 revisable, et que le mécanisme introduirait une métaphy-
 sique et une scolastique nouvelles, s'il n'inscrivait en tête
@@ -12747,9 +12107,7 @@ devient alors très difficile et, je crois même, logiquement
 
 [^p244-1]: Cité par Poincaré , Science et hypothèse , p. 127.
 
-[p. 245]
-
-impossible de croire que des données empiriques analo-
+[p. 245] impossible de croire que des données empiriques analo-
 gues pourraient ne pas
 admettre
 une même
@@ -12807,9 +12165,7 @@ La Discontinuité de la matière
 Revue du Mois
 (mars 1906) p. 323 .
 
-[p. 246]
-
-8.
+[p. 246] 8.
 -
 Il n'en reste pas moins que le mécanisme admet très
 bien un progrès continu dans la synthèse mécaniste, par
@@ -12860,9 +12216,7 @@ determinée l'expérience, c'est-à-dire dans leur portée et leur
 1. PERRIN
 : Traité de Chimie physique, t. I, Préface, p . XI .
 
-[p. 247]
-
-nature véritables, les principes déjà posés . Le mécanisme
+[p. 247] nature véritables, les principes déjà posés . Le mécanisme
 se sera complété. Il n'aura pas été renversé. Il ne peut
 l'être, à moins que l'expérience tout entière le soit; mais à
 cette hypothèse folle, il n'est rien qui puisse résister, pas
@@ -12880,7 +12234,7 @@ l'expérience, le mécanisme s'efforce de donner aux prin-
 cipes issus de l'expérience, le caractère apodictique de la
 nécessité géométrique, caractère que les philosophes ne
 veulent accorder d'ordinaire qu'à l'intuition ou à la forme
-a priori. Les théories physiques doivent être les représen-
+*a priori*. Les théories physiques doivent être les représen-
 tations sensibles des choses . Par un agencement des don-
 nées sensibles , qui ont été retenues d'après les indications
 de l'expérience, comme les principes élémentaires et pri-
@@ -12909,11 +12263,7 @@ s'ins-
 pireront le plus directement possible de cas déterminés
 présentés dans l'expérience.
 Ainsi, quand d'une part l'expérience nous fait atteindre
-des éléments réels tels qu'avec leur aide et avec elle seule,
-
-[p. 248]
-
-nous puissions reconstruire expérimentalement, réellement,
+des éléments réels tels qu'avec leur aide et avec elle seule, [p. 248] nous puissions reconstruire expérimentalement, réellement,
 les phénomènes physiques , sans qu'il soit besoin de faire
 appel à d'autres principes, et quand, d'autre part, l'ana-
 lyse de ces éléments nous fait toujours retomber sur des
@@ -12952,7 +12302,7 @@ possible à nos connaissances, puisse expliquer l'énergie
 du mouvement », ces formules ne marquent nullement un
 retour à on ne
 sait quelle intuition cartésienne, quelle
-<< nature simple, » ou quelle catégorie a priori de l'enten-
+<< nature simple, » ou quelle catégorie *a priori* de l'enten-
 dement. Elles sont simplement des constatations expérimen-
 tales, et si on veut bien les entendre, il faut se débarrasser
 de tout bagage conceptualiste . Là où le mot conception est
@@ -12966,9 +12316,7 @@ L'expérience derrière le mouvement ne
 
 [^p248-1]: La Chaleur, p. 186.
 
-[p. 249]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 249] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 249
 
 révèle que du mouvement. Le mouvement est donc une
@@ -13016,11 +12364,7 @@ par l'application d'un travail » et que le mot énergie désigne
 la quantité de travail que peut effectuer un corps, sa cара-
 cité de travail. Dans cette transformation, si l'on convient
 de choisir une unité de chaleur et une unité de travail,
-l'expérience montre que pour chaque unité de chaleur
-
-[p. 250]
-
-engendrée, une certaine quantité d'énergie mécanique dis-
+l'expérience montre que pour chaque unité de chaleur [p. 250] engendrée, une certaine quantité d'énergie mécanique dis-
 paraît, toujours identique,
 constante
 et réciproquement.
@@ -13067,11 +12411,7 @@ grâce à une théorie moléculaire de la matière.
 L'expérience 1 fait elle-même le départ du général
 et
 du primitif, du complexe et du dérivé. L'expérience nous
-force à considérer le mouvement comme le terme néces
-
-[p. 251]
-
-saire sous lequel nous puissions nous représenter l'énergie
+force à considérer le mouvement comme le terme néces [p. 251] saire sous lequel nous puissions nous représenter l'énergie
 cinétique. Nous ne pouvons pas nous représenter une action,
 un travail effectif, sans nous représenter un mouvement ,
 et le mouvement est lié par une loi constante à la capacité
@@ -13119,9 +12459,7 @@ Traité d'électricité, se contente de montrer que les phéno [^p251-1]
 
 [^p251-1]: MAXWELL, Théorie de la Chaleur, p. 386 à 391.
 
-[p. 252]
-
-mènes électromagnétiques se déduisent d'un système d'équa-
+[p. 252] mènes électromagnétiques se déduisent d'un système d'équa-
 tions différentielles, calquées sur les six équations diffé-
 rentielles fondamentales de la dynamique de Lagrange. Il
 prouve la possibilité d'une explication, dont la charpente
@@ -13173,11 +12511,7 @@ L'œuvre de Maxwell montre cette possibilité. Elle ne pou-
 vait aller plus loin. Voilà pourquoi il ne reste de cette
 œuvre qu'un système de six équations différentielles .
 Il
-n'en pouvait rien rester d'autre. Cela ne veut pas dire que,
-
-[p. 253]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES.
+n'en pouvait rien rester d'autre. Cela ne veut pas dire que, [p. 253] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES.
 253
 
 pour Maxwell et Hertz, on n'arrivera pas à fonder sur des
@@ -13224,9 +12558,7 @@ physique mathématique [^p253-1] .
 
 [^p253-1]: L'antique antithèse métaphysique du sujet et de l'objet y trans- paraît. Le sujet a ses exigences particulières ; l'ensemble de ces exigences établissent les conditions d'intelligibilité. L'objet a ses caractères spécifiques que révèle l'expérience pure ; l'ensemble de ces caractères spécifiques , voilà ce qui constitue l'objectivité. Ce qui satisfait aux conditions d'intelligibilité forme ce qu'on appelle le
 
-[p. 254]
-
-Le grand problème que, partout, pour maintenir l'objec-
+[p. 254] Le grand problème que, partout, pour maintenir l'objec-
 tivité de la physique, il a fallu résoudre, l'obstacle qu'on a
 surmonté avec difficulté et non sans laisser quelquefois
 une
@@ -13328,9 +12660,7 @@ rement pas de discontinuité .
 L'intelligible n'est qu'un extrait de
 l'expérience . L'abstraction n'altère pas ; elle précise la formule.
 
-[p. 255]
-
-rejoindre les deux bouts de la chaîne après l'avoir brisée.
+[p. 255] rejoindre les deux bouts de la chaîne après l'avoir brisée.
 Le mécanisme ne connaît pas cette préoccupation. Le
 problème pour lui n'existe pas, car il a gardé purement
 et simplement la tradition de la Renaissance, et la pensée
@@ -13393,11 +12723,7 @@ matière même de la représentation . L'algèbre des modernes, c'est
 la longue chaine de raisons toutes simples et faciles qui satisfait
 l'esprit par son « évidence » et sa « certitude » . Représentable et
 intelligible sont donc synthétisés , ramenés à une absolue et féconde
-unité avec la géométrie analytique. La méthode que Descartes pro-
-
-[p. 256]
-
-Le mécanisme prend comme terrain solide de construc-
+unité avec la géométrie analytique. La méthode que Descartes pro-[p. 256]Le mécanisme prend comme terrain solide de construc-
 tion, l'unité profonde de l'intelligible et de l'expérience, du
 pensable et du représentable, du rationnel et du percep-
 tible. Et il n'est pas sorti de ce terrain. Il l'a toujours
@@ -13456,7 +12782,7 @@ conception
 claire et distincte du monde, à
 l'aide d'éléments représentables.
 Mieux encore, il ne distingue pas représentable et intelligible. Ce que
-nous disons de Descartes peut se répéter mutatis mutandis des esprits
+nous disons de Descartes peut se répéter *mutatis mutandis* des esprits
 plus empiriques
 : Bacon ou Hobbes . Ils partent de l'autre bout de
 la chaîne
@@ -13480,9 +12806,7 @@ tiques à l'égard de la physique se présentent surtout parmi ceux
 qui se sont nourris de cette philosophie idéaliste, et en forment
 comme l'extrême aboutissant .
 
-[p. 257]
-
-sophes anti-mécanistes .
+[p. 257] sophes anti-mécanistes .
 Il soutiendra toujours, au con-
 traire, que la contradiction n'était qu'apparente et super-
 ficielle. Au fond, la raison exigeait le principe et répu-
@@ -13542,11 +12866,7 @@ commodité, mieux que d'autres à être compris de l'esprit,
 
 -
 
-[^p257-1]: W. THOMSON, in Revue générale des sciences , 1903, p. 258. REY. 17
-
-[p. 258]
-
-que le mécanisme pourrait invoquer aussi bien et souvent
+[^p257-1]: W. THOMSON, in Revue générale des sciences , 1903, p. 258. REY. 17 [p. 258] que le mécanisme pourrait invoquer aussi bien et souvent
 mieux que les autres interprétations de la physique théo-
 rique, ne lui paraîtraient pas suffisantes. Il ne suppose
 pas que la connaissance de la nature doit être dirigée pour
@@ -13590,9 +12910,7 @@ il
 
 [^p258-1]: BOUSSINESQ : Leçons synthétiques de mécanique générale, p. 1.
 
-[p. 259]
-
-serait absurde de conclure qu'elle n'y arrivera jamais. Le
+[p. 259] serait absurde de conclure qu'elle n'y arrivera jamais. Le
 mécanisme doit arguer à son avantage que le progrès de
 la physique dans toutes ses branches, jusqu'ici, l'a toujours
 rapprochée de la mécanique, et que toutes les théories à
@@ -13636,11 +12954,7 @@ Ainsi, le mécanisme est un nominalisme véritable
 : car
 pour lui non seulement il n'existe que des individus ; mais
 
-[^p259-1]: Il importe de noter que les expressions : particulier et général,
-
-[p. 260]
-
-encore toute connaissance véritable est une connaissance
+[^p259-1]: Il importe de noter que les expressions : particulier et général, [p. 260] encore toute connaissance véritable est une connaissance
 de l'individuel . Au rebours de la maxime d'Aristote et de
 la scolastique, « il n'y a de science que le général, » le
 mécanisme , aussi bien par le point de départ de la recher-
@@ -13715,9 +13029,7 @@ au
 
 :
 
-[p. 261]
-
-Qu'est-ce qui caractérise alors la progression du raison-
+[p. 261] Qu'est-ce qui caractérise alors la progression du raison-
 nement scientifique, car il est incontestable que ce raison-
 nement suit une progression rigoureuse ? Là encore l'oppo-
 sition avec la scolastique se précise. La marche essentielle
@@ -13758,9 +13070,7 @@ moyenne que sa simplicité avait déjà permis d'apercevoir
 
 [^p261-1]: Comment cette marche est-elle possible ? Elle n'est possible que si l'on part d'un fait privilégié , dirait Bacon, d'une réalité immé- diatement aperçue par l'esprit , dira Descartes, et si l'on peut réduire progressivement d'autres faits au premier et aux propriétés et aux relations qu'il implique nécessairement. Le développement historique du mécanisme n'est qu'une adaptation de ce processus général à l'objet de la physique.
 
-[p. 262]
-
-et d'énoncer, avant même que ces faits nouveaux soient
+[p. 262] et d'énoncer, avant même que ces faits nouveaux soient
 connus .
 
 Le mécanisme, pour appuyer cette vue, pourrait citer
@@ -13801,7 +13111,7 @@ On a souvent présenté cette affirmation comme un
 postulat du mécanisme. Le mécanisme
 serait le
 résultat
-d'une croyance a priori et d'une idée préétablie relatives
+d'une croyance *a priori* et d'une idée préétablie relatives
 à l'homogénéité de la matière. Il semble qu'on renverse
 ainsi l'ordre logique et psychologique des assises de la
 théorie mécaniste . L'homogénéité de la matière n'est ni un
@@ -13812,9 +13122,7 @@ façon systématique (car c'est d'une méthode analogue que
 
 [^p262-1]: Cf. Rıвот, Evolution des idées générales , p. 38. (Paris, F. Alcan.)
 
-[p. 263]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHESES FIGURATIVES.
+[p. 263] CONTINUATEURS DU MÉCANISME , HYPOTHESES FIGURATIVES.
 263
 
 relèvent au fond toutes les découvertes antérieures , mais
@@ -13860,11 +13168,7 @@ la mécanique, une science mathématique.
 Quelle est, en effet, la condition essentielle qui permet
 d'appliquer la méthode mathématique et de procéder mathé-
 matiquement ? On a défini souvent la mathématique
-la
-
-[p. 264]
-
-science de la mesure ; et bien que cette définition soit très
+la [p. 264] science de la mesure ; et bien que cette définition soit très
 incomplète et très insuffisante, il n'en reste pas moins
 que la mathématique, comme l'indique le nom de quelques-
 unes de
@@ -13901,7 +13205,7 @@ mathématique, comme elle est la fin de toutes les sciences ,
 si une loi est un rapport précis, et si un rapport précis
 est une relation métrique entre des grandeurs .
 Or, il est facile de le voir, l'homogénéité de l'objet est
-la condition sine qua non de la possibilité de la mesure .
+la *condition sine qua non* de la possibilité de la mesure .
 On ne mesure que ce qui est composé de parties homogènes
 entre elles et à l'unité choisie, que ce qui peut être consi-
 déré comme constitué par une addition indéfinie de l'unité
@@ -13910,9 +13214,7 @@ elle-même .
 Avec le mécanisme, le problème est donc tellement sim-
 plifié qu'il est résolu d'avance . Par son homogénéité, con
 
-[p. 265]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES.
+[p. 265] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES.
 265
 
 séquence nécessaire de tout le système, l'objet de la science
@@ -13959,11 +13261,7 @@ physique théorique. S'il est un mérite qu'on ne peut dénier
 C'est aussi celui de la facilité et de la simplicité.
 Les critiques du mécanisme lui ont reproché souvent
 la complexité de certaines explications particulières . Et
-il s'est trouvé incontestablement chez certains savants , chez
-
-[p. 266]
-
-ceux qui se recommandaient le plus manifestement du
+il s'est trouvé incontestablement chez certains savants , chez [p. 266] ceux qui se recommandaient le plus manifestement du
 mécanisme , des hypothèses
 figuratives
 fort compliquées
@@ -14015,9 +13313,7 @@ tique des gaz, ou
 ce qui revient au même - en aban-
 donnant le détail pour fixer les grandes lignes de l'en
 
-[p. 267]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 267] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 267
 
 semble , comme dans les systèmes d'équations différen-
@@ -14065,11 +13361,7 @@ La conciliation n'est même pas à chercher. Les critiques
 des savants sont pleinement valables ; les hypothèses méca-
 nistes trop pressées d'entrer dans le détail des phénomènes
 sont d'une complication inouïe. Le mécanisme proclame
-par là même sa croyance en la non simplicité des lois natu
-
-[p. 268]
-
-relles , d'accord avec tous les travaux scientifiques du xix
+par là même sa croyance en la non simplicité des lois natu [p. 268] relles , d'accord avec tous les travaux scientifiques du xix
 siècle . Ce qu'il affirme quand il dit que la nature est une,
 c'est que tous les phénomènes en dernière
 analyse
@@ -14122,9 +13414,7 @@ lorsqu'elles
 
 [^p268-1]: Voir à ce sujet J. PERRIN, La Discontinuité de la matière (Revue du mois , mars 1906, p. 323).
 
-[p. 269]
-
-seront expérimentalement vérifiées en elles-mêmes ou par
+[p. 269] seront expérimentalement vérifiées en elles-mêmes ou par
 leurs conséquences . Faire des hypothèses est un moment
 nécessaire de la méthode, et une exigence de la découverte .
 Toute loi a été d'abord une hypothèse. Et pourvu que le
@@ -14171,11 +13461,7 @@ tions qu'il peut éprouver en ouvrant les yeux ou en tournant la
 tête. Dès lors, les hypothèses moléculaires peuvent prendre une
 portée que la comparaison suivante indique suffisamment.
 On aurait certainement pu, sans l'aide du microscope, arriver à
-penser que les maladies contagieuses étaient dues à la multiplica
-
-[p. 270]
-
-rience possible 1.
+penser que les maladies contagieuses étaient dues à la multiplica [p. 270] rience possible 1.
 L'hypothèse deviendra théorie lorsque
 l'expérience de possible sera devenue réelle . L'objectivité
 la plus stricte est donc toujours l'aboutissant du mécanisme,
@@ -14204,7 +13490,7 @@ discussions
 dialectiques
 
 tion de très petits êtres vivants . On aurait pu, guidé par cette idée
-a priori , découvrir à peu près toute la technique pastorienne. On
+*a priori* , découvrir à peu près toute la technique pastorienne. On
 aurait fait ainsi de la science déductive et guéri les maladies con-
 tagieuses , mais suivant une voie condamnée par les partisans de la
 seule méthode inductive, tout au moins jusqu'au jour où le micros-
@@ -14226,9 +13512,7 @@ de la légitimité de leur méthode, les atomistes ont su les prouver
 à nouveau par d'éclatantes découvertes dont la théorie corpuscu-
 laire a su faire un ensemble harmonieux. »
 
-[p. 271]
-
-qui
+[p. 271] qui
 permettraient au
 savant, comme à l'historien des
 sciences, de les négliger. Mais outre qu'elles ne sont pas
@@ -14269,11 +13553,7 @@ saire du réel . Il veut chasser l'arbitraire aprioristique. A
 mesure qu'il le chasse, cet arbitraire revient au galop.
 Avec cette critique, il faut, pour ne pas sombrer dans
 l'équivoque, s'habituer à un renversement complet des
-termes usuels. Ce que jusqu'ici on appelait subjectif, les
-
-[p. 272]
-
-nuances individuelles et spécifiques du fait de conscience ,
+termes usuels. Ce que jusqu'ici on appelait subjectif, les [p. 272] nuances individuelles et spécifiques du fait de conscience ,
 devient le type de l'objectivité. Et en revanche, le fond objec-
 tif constant et permanent que révèle à l'observation et à
 l'expérimentation tout un ensemble d'images, devient l'alté-
@@ -14315,11 +13595,7 @@ victions idéalistes, que le réel, l'objectif, ce soit dans le
 phénomène
 qu'il
 observe, à
-travers un microscope, la
-
-[p. 273]
-
-nuance que l'éclairement donna à l'objet, l'altération indi-
+travers un microscope, la [p. 273] nuance que l'éclairement donna à l'objet, l'altération indi-
 viduelle et spécifique que son imagination sous l'empire
 d'une idée préconçue a failli un moment y introduire, les
 petites hallucinations même que la fatigue de son œil lui
@@ -14361,11 +13637,7 @@ rimental, les conventions métriques , n'ont d'autre but que
 de le dégager et de le communiquer avec autant d'exacti-
 
 REY.
-18
-
-[p. 274]
-
-tude et de précision que possible. L'expérience, pratiquée
+18 [p. 274] tude et de précision que possible. L'expérience, pratiquée
 dans les sciences physico-chimiques, vise donc à la plus
 grande objectivité possible, et l'obtient. Et c'est bien par
 une telle expérience que se fonde, et se fonde uniquement
@@ -14401,9 +13673,7 @@ Si l'existence objective, c'est ce qui peut affecter nos sens,
 les sciences physico-chimiques, dans l'interprétation méca-
 niste, ont une valeur objective complète.
 
-[p. 275]
-
-CHAPITRE
+[p. 275] CHAPITRE
 111
 
 Les Tendances actuelles du Mécanisme comparées
@@ -14480,11 +13750,7 @@ l'énergétique.
 
 Si rapidement qu'on fasse l'histoire antérieure du
 mécanisme, on est frappé de l'allure dogmatique du système .
-Certes, il fait bien une place à l'hypothèse, mais il la fait
-
-[p. 276]
-
-restreinte. Il ne vient pas à l'idée d'un physicien du xvir ou
+Certes, il fait bien une place à l'hypothèse, mais il la fait [p. 276] restreinte. Il ne vient pas à l'idée d'un physicien du xvir ou
 du xvm
 siècle d'apporter des restrictions à la portée, à la
 valeur, à la légitimité de ses inductions. Emettre un doute
@@ -14543,9 +13809,7 @@ lorsqu'on
 s'est
 aperçu que tous ces cadres craquaient par endroits les uns
 
-[p. 277]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES.
+[p. 277] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES.
 277
 
 après les autres, et qu'il fallait compliquer étrangement la
@@ -14596,11 +13860,7 @@ de
 Lagrange, la mécanique céleste de Laplace sont dans leurs
 grandes lignes des promotions de la physique newtonienne.
 Le « vieux mécanisme > se fait donc remarquer par son
-assurance dogmatique. Le « nouveau mécanisme », celui
-
-[p. 278]
-
-qui s'est développé et enrichi dans la seconde moitié du
+assurance dogmatique. Le « nouveau mécanisme », celui [p. 278] qui s'est développé et enrichi dans la seconde moitié du
 xIx siècle , celui que j'analyse ici, l'a-t-il suivi dans cette
 voie?
 
@@ -14643,9 +13903,7 @@ complexité de l'énigme à déchiffrer, les insuffisances des
 premières explications. Une science jeune affirme volon-
 tiers et hardiment ; l'expérience ne l'a pas encore mise en
 
-[p. 279]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 279] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 279
 
 garde. Mais l'expérience ne tarde pas à remplacer l'audace
@@ -14698,11 +13956,7 @@ l'étaient point encore, Descartes
 décrivait
 et
 systéma-
-tisait, avec une imagination hardie, ainsi le mécanisme
-
-[p. 280]
-
-280
+tisait, avec une imagination hardie, ainsi le mécanisme [p. 280] 280
 L'ANALYSE DES DOCTRINES .
 
 actuel , suivant en cela un de ses plus grands promoteurs ,
@@ -14748,9 +14002,7 @@ ser ce que permet cette constatation 1 .
 
 1. BOLTZMANN , Über die Prinzipien der Mechanick, p . 35 (Leipzig, 1903.)
 
-[p. 281]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
+[p. 281] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
 281
 
 4.
@@ -14797,11 +14049,7 @@ visent à mettre en lumière la métaphysique consciente et
 inconsciente contenue dans le mécanisme .
 L'ouvrage de
 Stallo sur la Matière et la physique moderne est bien remar-
-quable à ce point de vue. La méthode de Stallo consiste à
-
-[p. 282]
-
-282
+quable à ce point de vue. La méthode de Stallo consiste à [p. 282] 282
 L'ANALYSE DES DOCTRINES .
 
 chercher ce qu'il appelle les causes d'erreur constantes de
@@ -14847,9 +14095,7 @@ peut être faite à bon droit .
 
 Il y a plus . Le mécanisme actuel, qui se présente à son
 
-[p. 283]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES.
+[p. 283] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES.
 283
 
 tour comme un phénoménisme expérimental, ne diffère pas
@@ -14892,11 +14138,7 @@ cipe d'épargne de la pensée, dans Mach, joue un rôle con-
 sidérable, et ce principe guide tous ceux qui se rattachent à
 l'école énergétique. Si Ostwald considère que l'atomisme a
 fait son temps , c'est qu'il trouve que les théories auxquelles
-on est amené, lorsqu'on veut raccorder les lois de la phy
-
-[p. 284]
-
-sique expérimentale aux constructions atomiques, sont trop
+on est amené, lorsqu'on veut raccorder les lois de la phy [p. 284] sique expérimentale aux constructions atomiques, sont trop
 compliquées. Il y a là, dans l'état actuel de la science, une
 dépense de force inutile. La systématisation doit employer
 les moyens qui paraissent à l'esprit les plus commodes ,
@@ -14940,11 +14182,7 @@ son rôle .
 On pourrait encore sur ce point se méprendre et trouver
 que le mécanisme est ici infidèle à son point de vue phé-
 noméniste . Le phénomène, dira-t-on, n'est-il point,
-par
-
-[p. 285]
-
-définition, le résultat de la collaboration de l'activité de
+par [p. 285] définition, le résultat de la collaboration de l'activité de
 l'esprit et de l'expérience externe ? Si l'on admet que la
 connaissance est relative, on admet que la connaissance ne
 se fait qu'à travers
@@ -14994,11 +14232,7 @@ rience perceptive. La systématisation se fait donc au moyen
 de concepts par lesquels l'esprit cherche à manier com-
 modément les phénomènes, et ces concepts ou principes
 sont formés par l'esprit, avec le concours de l'expérience
-certes, mais aussi en vue de l'utilisation facile par l'esprit
-
-[p. 286]
-
-des données de cette expérience. Le mécanisme, au con-
+certes, mais aussi en vue de l'utilisation facile par l'esprit [p. 286] des données de cette expérience. Le mécanisme, au con-
 traire, asseoit ses théories sur des éléments représentables ,
 soit qu'il les tire de l'expérience, soit qu'il les conjecture
 comme pouvant être retrouvés un jour dans l'expérience,
@@ -15039,11 +14273,7 @@ ceux qui étaient primitivement connus, on en conclut que la
 systématisation à laquelle devait aboutir une théorie qui
 veut être le décalque de l'expérience, est une systématisa-
 tion mécaniste. Et voilà comment le mécanisme phénomé
-niste reste bien le mécanisme, et continue à se différen
-
-[p. 287]
-
-cier de l'énergétisme, tout en s'étant rapproché singulière-
+niste reste bien le mécanisme, et continue à se différen [p. 287] cier de l'énergétisme, tout en s'étant rapproché singulière-
 ment, par un autre côté, de cette théorie, si on le compare
 au mécanisme traditionnel.
 
@@ -15093,11 +14323,7 @@ la mécanique étaient les principes et les
 choses ; on les rendait indépendants de toute condition
 empruntée à la nécessité de la connaissance et de la repré-
 sentation .
-Il en résulta ceci : La masse ou la quantité de matière
-
-[p. 288]
-
-était quelque chose de tangible et de visible. On pouvait
+Il en résulta ceci : La masse ou la quantité de matière [p. 288] était quelque chose de tangible et de visible. On pouvait
 la concevoir existant comme elle était perçue ; de même
 pour le mouvement, mais la force ? ... N'était-on pas en pré-
 sence d'une notion toute subjective ? Pouvait-on se repré-
@@ -15139,11 +14365,7 @@ nalisme , à la clarté et à la distinction, à l'intelligibilité con-
 sidérées à juste titre comme les conquêtes définitives de
 l'esprit moderne . De là, les erreurs qu'on multiplie dans
 l'interprétation de la pensée de Newton .
-Les philosophes qui par définition sont les plus systé-
-
-[p. 289]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES.
+Les philosophes qui par définition sont les plus systé-[p. 289]CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES.
 289
 
 matiques et les plus généralisateurs des hommes, ne pou-
@@ -15193,11 +14415,7 @@ sentable à la réflexion commune que s'il est rapporté à des
 l'atomisme .
 Les deux conceptions se mêlèrent dans l'esprit de cer-
 
-[^p289-1]: STALLO, La matière et la Physique moderne , p. 11, 12. (F. Alcan ! REY. 19
-
-[p. 290]
-
-tains philosophes peu savants, ou de certains savants peu
+[^p289-1]: STALLO, La matière et la Physique moderne , p. 11, 12. (F. Alcan ! REY. 19 [p. 290] tains philosophes peu savants, ou de certains savants peu
 philosophes . L'atomisme devint la pierre
 angulaire du
 mécanisme [^p290-1], tel qu'on l'expose dans la première moitié du
@@ -15244,9 +14462,7 @@ trique de la matière et arrivent à nier la constance de la
 
 [^p290-1]: STALLO, La matière et la Physique moderne , p. 12 .
 
-[p. 291]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 291] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 291
 
 masse en en faisant une fonction du mouvement . Tous sont
@@ -15293,17 +14509,13 @@ historiques , les progrès de la mécanique eux-mêmes, les
 intransigeances des savants et de ceux qui parlèrent en
 leur nom ont restreint parfois son sens .
 Aujourd'hui , et depuis le dernier tiers du xix siècle, il
-n'est pas possible de se méprendre. La multiplicité des
-
-[p. 292]
-
-hypothèses et des conceptions que nous trouvons dans le
+n'est pas possible de se méprendre. La multiplicité des [p. 292] hypothèses et des conceptions que nous trouvons dans le
 mécanisme actuel, parallèlement à l'unité de l'esprit géné-
 ral , sa résistance au dogmatisme et au réalisme métaphy-
 siques, n'autorisent plus que cette définition : le mécanisme
 est la théorie qui considère les sciences physico-chimiques
 comme continues avec la mécanique, comme fondées sur
-la représentation de mouvement qui est, in abstracto , l'objet
+la représentation de mouvement qui est, *in abstracto* , l'objet
 de la mécanique. Plus simplement encore le mécanisme est
 la théorie qui considère les phénomènes (ici les phénomènes
 physico-chimiques) comme adéquatement représentables par
@@ -15346,9 +14558,7 @@ cette systématique phénoméniste, et qui ne veut plus être
 que phénoméniste, de très importants caractères .
 a) C'est d'abord la remise à très longue échéance d'une
 
-[p. 293]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 293] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 293
 
 systématisation définitive. Personne n'a plus la prétention
@@ -15410,9 +14620,7 @@ vous faites bien une idée de l'énormité de ce nombre : il est égal
 à 8.330 fois le nombre de secondes qui se sont écoulées depuis la
 naissance du Christ jusqu'à nos jours .
 
-[p. 294]
-
-294
+[p. 294] 294
 L'ANALYSE DES DOCTRINES .
 
 arrivaient à avoir, grâce à certaines concordances expéri-
@@ -15471,11 +14679,7 @@ gnétisme , si l'atome est constitué par de petits corps électrisés très
 c'est-à-
 dire si l'atome a précisément la constitution que les conditions précé-
 dentes ont fait admettre. La masse de la matière paraît ainsi être
-entièrement due à un phénomène électromagnétique. La loi fonda-
-
-[p. 295]
-
-des lois de l'électromagnétisme ; elles en formeraient comme
+entièrement due à un phénomène électromagnétique. La loi fonda-[p. 295]des lois de l'électromagnétisme ; elles en formeraient comme
 un cas spécial dans des limites bien déterminées. La cons-
 tance de la masse, notre principe de l'inertie ne seraient
 plus valables que pour les vitesses moyennes des corps ,
@@ -15535,9 +14739,7 @@ PELLAT, Le nouvel état de la matière
 scientifique ,
 29 avril 1905, p. 518, 519) .
 
-[p. 296]
-
-gouverneraient toujours les phénomènes qu'elles gouvernent
+[p. 296] gouverneraient toujours les phénomènes qu'elles gouvernent
 actuellement. Et puis,
 c'est par une série d'extensions
 généralisatrices
@@ -15592,9 +14794,7 @@ la méthode heuristique. Lors donc que l'on prétend retrou-
 
 [^p296-1]: LIPPMANN, préface à la Théorie moderne des phénomènes phy- siques de Righi , p. 4.
 
-[p. 297]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES.
+[p. 297] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES.
 297
 
 ver dans un cercle de plus en plus étendu la même expé-
@@ -15645,9 +14845,7 @@ presque forcée de cette prétention orgueilleuse. Elle serait
 aujourd'hui un non-sens ou un contre-sens dans le méca-
 nisme nouveau, beaucoup plus modeste.
 
-[p. 298]
-
-Aussi professe-t-il avec la plus grande netteté que la sys-
+[p. 298] Aussi professe-t-il avec la plus grande netteté que la sys-
 tématisation n'a de valeur et de sens que pour assigner les
 très grandes lignes de l'ordre général des phénomènes. Il
 ne s'agit plus de construire une nature exactement con-
@@ -15710,9 +14908,7 @@ progrès de la science remettront les choses en place ; mais
 ces hypothèses contradictoires toutes à la fois peuvent se
 déduire de la théorie générale, car elles supposent aussi
 
-[p. 299]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 299] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 299
 
 bien les unes que les autres, les éléments primitifs et les
@@ -15767,9 +14963,7 @@ l'hypothèse particulière à laquelle elle se rallie, touchant la source
 de l'énergie dégagée par le adium, qu'on tienne compte des autres ,
 car elles peuvent avoir leur intérêt et leur fécondité.
 
-[p. 300]
-
--300
+[p. 300] -300
 L'ANALYSE DES DOCTRINES .
 
 Or, la plupart des reproches superficiels qu'on a faits
@@ -15810,11 +15004,7 @@ l'ancien mécanisme,
 c'est
 la démons
 
-[^p300-1]: « Il me semble que le vrai sens de la question : Comprenons-nous -ou ne comprenons-nous pas un sujet particulier de physique ? est celui-ci : Pouvons-nous faire un modèle mécanique correspondant ?... Je ne suis jamais satisfait, tant que je n'ai pas pu faire un modèle mécanique de l'objet ; si je puis faire un modèle mécanique, je com- prends : tant que je ne puis pas faire un modèle mécanique, je ne comprends pas. » (W. THOMSON : Lectures on molecular dynamics , D. 132.)
-
-[p. 301]
-
-tration mathématique de la
+[^p300-1]: « Il me semble que le vrai sens de la question : Comprenons-nous -ou ne comprenons-nous pas un sujet particulier de physique ? est celui-ci : Pouvons-nous faire un modèle mécanique correspondant ?... Je ne suis jamais satisfait, tant que je n'ai pas pu faire un modèle mécanique de l'objet ; si je puis faire un modèle mécanique, je com- prends : tant que je ne puis pas faire un modèle mécanique, je ne comprends pas. » (W. THOMSON : Lectures on molecular dynamics , D. 132.) [p. 301] tration mathématique de la
 possibilité d'une
 explication
 mécanique ,
@@ -15872,9 +15062,7 @@ donc qu'une espèce du genre mécanisme. De ce que les théories
 actuelles inclinent vers le cinétisme, on n'a pas le droit d'absorber
 en lui toutes les possibilités du mécanisme.
 
-[p. 302]
-
-présence ou la possibilité d'un travail. L'énergie désigne
+[p. 302] présence ou la possibilité d'un travail. L'énergie désigne
 <<<tout ce qui, directement ou indirectement, est propre à se
 transformer en travail >>>; les corps pesants en mouvement
 dans l'espace, la chaleur, l'électricité, le ressort tendu, la
@@ -15919,9 +15107,7 @@ ou susceptible de l'être, a grandi en allant d'Aristote à
 
 [^p302-1]: J. BOUSSINESQ : Leçons synthétiques de mécanique générale, p. 1.
 
-[p. 303]
-
-Descartes et à Newton, des idées de qualités ou de change-
+[p. 303] Descartes et à Newton, des idées de qualités ou de change-
 ments d'état, qui ne se dessinent pas, à l'aide de formes ou
 de mouvements locaux qui se dessinent ou se voient [^p303-1] » .
 11.
@@ -15965,9 +15151,7 @@ déduire les formules analytiques de la mécanique, des for-
 
 [^p303-1]: BOUSISNESQ : Théorie analytique de la Chaleur, t. I. p. xv.
 
-[p. 304]
-
-mules de l'énergétique, tandis que, dans la théorie électro-
+[p. 304] mules de l'énergétique, tandis que, dans la théorie électro-
 nique, on rendra compte de mouvements
 perceptibles
 à
@@ -16003,9 +15187,7 @@ aussi peut-être le secret des critiques que lui adressent ceux
 qui, plus exclusivement mathématiciens, sont aussi plus
 exclusivement des manieurs d'idées .
 
-[p. 305]
-
-DEUXIÈME
+[p. 305] DEUXIÈME
 PARTIE
 
 CONSÉQUENCES PHILOSOPHIQUES
@@ -16015,9 +15197,7 @@ CONSÉQUENCES PHILOSOPHIQUES
 RFY
 20
 
-[p. 307]
-
-LIVRE V
+[p. 307] LIVRE V
 
 L'ESPRIT GÉNÉRAL DE LA PHYSIQUE CONTEM-
 PORAINE ET LA VALEUR DE LA SCIENCE
@@ -16064,11 +15244,7 @@ Par une déduction logique inévitable, en suivant cette vue
 jusqu'au bout, la physique n'aurait rien d'objectif.
 Elle se résoudrait en une théorie ou en un système de
 théories arbitraires, et chaque physicien pourrait avoir son
-système ou sa physique. L'expérience n'aurait donc que
-
-[p. 308]
-
-308
+système ou sa physique. L'expérience n'aurait donc que [p. 308] 308
 CONSÉQUENCES PUILOSOPHIQUES .
 
 de bien lointains rapports avec elle. En un mot, la seconde
@@ -16112,13 +15288,9 @@ tion fidèle de la nature telle qu'elle nous apparaît, une des-
 cription systématique .
 4º Cette objectivité, qui a son garant dans l'expérience,
 est forcément limitée par l'expérience actuelle. Lorsqu'on
-s'appuyait sur des intuitions a priori, cette objectivité pou-
+s'appuyait sur des intuitions *a priori*, cette objectivité pou-
 vait prétendre à n'avoir aucune limite ; les principes intui-
-tifs devaient trouver leur application dans tous les phé-
-
-[p. 309]
-
-nomènes physico-chimiques et suffire à les expliquer tous .
+tifs devaient trouver leur application dans tous les phé-[p. 309]nomènes physico-chimiques et suffire à les expliquer tous .
 On conçoit, par contre, qu'une science fondée sur l'expé-
 rience ne peut plus admettre de telles prétentions . Elle ne
 sait que ce que l'expérience lui a enseigné . L'avenir reste
@@ -16161,11 +15333,7 @@ tenu de la science, il faut ajouter que, bien que les avis
 diffèrent sur cette forme d'exposition, la construction des
 Sciences physico-chimiques tend à être une, quelles que
 soient les écoles auxquelles appartiennent les physiciens .
-a) On en vient à peu de choses près à un arrangement ana
-
-[p. 310]
-
-310
+a) On en vient à peu de choses près à un arrangement ana [p. 310] 310
 CONSÉQUENCES PHILOSOPHIQUES .
 
 logue. Et b) en tout cas s'il y a des divergences, elles
@@ -16213,9 +15381,7 @@ t-il pas qu'il y a dans les fondements de la théorie physique
 une accommodation des choses aux besoins logiques de la
 pensée ? Seul le mécanisme reste nettement objectif, mais
 
-[p. 311]
-
-LA VALEUR DE LA PHYSIQUE .
+[p. 311] LA VALEUR DE LA PHYSIQUE .
 311
 
 toutes les écoles précédentes déclarent que cette objectivité
@@ -16261,9 +15427,7 @@ de ses conséquences en défaut, la théorie doit être rejetée .
 Toutes les conséquences de la théorie sont donc nécessai-
 rement objectives.
 
-[p. 312]
-
-312
+[p. 312] 312
 CONSÉQUENCES PHILOSOPHIQUES .
 
 Mais de ce que les conséquences de la théorie sont néces-
@@ -16280,7 +15444,7 @@ qu'en réalité, dans l'œuvre vivante du physicien,
 on part toujours de l'expérience et que l'arbitraire est stric-
 tement limité par ses données ? Claude Bernard avait déjà
 remarqué dans son introduction à la médecine expérimen-
-tale qu'il ne peut pas y avoir de point de départ a priori.
+tale qu'il ne peut pas y avoir de point de départ *a priori*.
 Même dans les sciences mathématiques, et il cite à l'appui
 de son dire un témoignage d'Euler, les prémisses sont
 nécessairement fournies par l'observation de relations entre
@@ -16289,7 +15453,7 @@ Le théoricien , pour marquer l'indépendance de la théorie
 vis-à-vis de l'expérience, pour mettre d'une façon plus frap-
 pante le procédé constructif de l'esprit dans la partie théo-
 rique, peut bien supposer les choses renversées et montrer
-que partant d'un point de départ a priori, la théorie, quelle
+que partant d'un point de départ *a priori*, la théorie, quelle
 qu'elle soit, ne cesse d'être valable, si ses conséquences sont
 toutes vérifiées par l'expérience : Il veut montrer que là
 est la seule condition de validité de la théorie .
@@ -16310,9 +15474,7 @@ nous donne pas, ou ne nous donne pas d'une façon pré-
 cise, toutes les relations dont nous aurions besoin pour
 construire la théorie d'un phénomène, nous devons y sup
 
-[p. 313]
-
-LA VALEUR DE LA PHYSIQUE .
+[p. 313] LA VALEUR DE LA PHYSIQUE .
 313
 
 pléer par nombre de conjectures . Ces conjectures , ces hypo-
@@ -16357,11 +15519,7 @@ Contre cette tendance métaphysique et antiscientifique,
 il fallait une réaction vigoureuse. Les savants
 n'ont pas
 hésité, et les mécanistes comme les autres . Ils ont, en même
-temps, fait le départ de l'expérience et de l'hypothèse et
-
-[p. 314]
-
-311
+temps, fait le départ de l'expérience et de l'hypothèse et [p. 314] 311
 CONSÉQUENCES PHILOSOPHIQUES .
 
 montré le rôle énorme que joue l'hypothèse dans la théo-
@@ -16375,7 +15533,7 @@ est, par définition, une connaissance de
 l'objet. Dans la science physique, cette définition est mieux
 que partout ailleurs à sa place ; et elle est plus nette que
 partout ailleurs. La physique s'est établie comme science
-en s'opposant à la spéculation a priori de la scolastique.
+en s'opposant à la spéculation *a priori* de la scolastique.
 Elle s'est fondée contre l'arbitraire d'un raisonnement dia-
 lectique et vide, contre l'idée préconçue devant laquelle on
 veut à toute force faire plier les faits. L'expérience est ce
@@ -16409,9 +15567,7 @@ quement les mêmes résultats .
 Les mesures , et les théories en vertu desquelles on les
 fait, enferment nécessairement une part de convention, car
 
-[p. 315]
-
-LA VALEUR DE LA PHYSIQUE .
+[p. 315] LA VALEUR DE LA PHYSIQUE .
 315
 
 elles sont des signes et un langage. Il est trop évident qu'un
@@ -16456,11 +15612,7 @@ demander, l'objet ne consiste, au point de vue psycholo-
 gique, comme au point de vue philosophique, pour s'en
 tenir aux données positives, qu'en un système de relations
 cohérent et fixe. Toute perception, et, au-dessous de la per-
-ception, toute image de rêve, si confuse et si élémentaire
-
-[p. 316]
-
-316
+ception, toute image de rêve, si confuse et si élémentaire [p. 316] 316
 CONSÉQUENCES PHILOSOPHIQUES .
 
 qu'elle soit, puisque le subjectivisme prend parfois pour
@@ -16501,11 +15653,7 @@ cette relation, serait-elle plus réelle que les relations qu'as-
 signe la chimie entre le poids des composants et celui du
 composé ? Je ne puis voir la différence, ou si j'en vois une ,
 c'est en faveur des secondes qui sont incontestablement
-plus précises , plus fixes, plus universelles. En me mettant
-
-[p. 317]
-
-au point de vue subjectif le plus absolu,
+plus précises , plus fixes, plus universelles. En me mettant [p. 317] au point de vue subjectif le plus absolu,
 il me semble
 que j'ai le droit de dire : Toutes nos connaissances, et par
 suite tous nos états de conscience sont du même ordre. Si
@@ -16551,9 +15699,7 @@ les
 marques de la supériorité psychologique de l'espèce. Notre
 science l'a prolongée.
 
-[p. 318]
-
-318
+[p. 318] 318
 CONSÉQUENCES PHILOSOPHIQUES .
 
 Les erreurs commises, les changements de point de vue
@@ -16574,9 +15720,7 @@ sa théorie s'accordent avec les résultats de l'expérience,
 prouve que la théorie a une valeur objective et n'a de sens
 que par sa valeur objective.
 
-[p. 319]
-
-1.
+[p. 319] 1.
 
 -
 
@@ -16616,14 +15760,10 @@ Le sens intuitif ou rationnel est celui qu'il prend dans
 la philosophie du concept et dans la philosophie scolas-
 tique, dans la théorie réaliste des universaux. Il érige en
 réalités absolues les conséquences du raisonnement spécu-
-latif à partir d'une donnée a priori de l'esprit. Il fait du
+latif à partir d'une donnée *a priori* de l'esprit. Il fait du
 sujet la mesure de l'objet.
 2.
-Contre ce réalisme, le nominalisme, et l'empirisme
-
-[p. 320]
-
-320
+Contre ce réalisme, le nominalisme, et l'empirisme [p. 320] 320
 CONSÉQUENCES PHILOSOPHIQUES .
 
 qui lui esthistoriquement lié, se présentent comme des réac-
@@ -16676,11 +15816,7 @@ apport
 extérieur. On
 pourrait
 presque dire que l'expérience a une double origine
-: l'in-
-
-[p. 321]
-
-tuition sensible ou empirique à laquelle on réserve plus
+: l'in-[p. 321]tuition sensible ou empirique à laquelle on réserve plus
 particulièrement le nom d'expérience, et l'intuition interne
 ou rationnelle, la lumière naturelle qui, elle aussi, nous
 révèle des existences objectives . L'intuition sensible n'aura
@@ -16726,11 +15862,7 @@ assurer d'une façon inébranlable la vérité scientifique.
 L'objectivité de la science a donc pour garantie, soit une
 
 REY.
-21
-
-[p. 322]
-
-322
+21 [p. 322] 322
 CONSÉQUENCES PHILOSOPHIQUES .
 
 4
@@ -16793,11 +15925,7 @@ lyse de certaines notions , l'habitude peut nous faire croire
 à un résidu fixe , résistant, stable, qui ne résulte pas de
 l'expérience et n'est pas une simple coïncidence de sensa-
 tions ; mais il n'y a là qu'un effet de l'habitude. Qu'on ana-
-lyse ce résidu, et bientôt il se résout en traces laissées par
-
-[p. 323]
-
-l'expérience sensible. Avec un peu de subtilité et d'efforts ,
+lyse ce résidu, et bientôt il se résout en traces laissées par [p. 323] l'expérience sensible. Avec un peu de subtilité et d'efforts ,
 on a vite fait d'arriver à concevoir l'habitude détruite, rem-
 placée par une habitude contradictoire (Stuart Mill). N'est-ce
 pas la preuve que nous pourrions fort bien penser autre-
@@ -16840,11 +15968,7 @@ un système que l'expérience, méthodiquement et convena-
 blement consultée, pourra peu à peu nous révéler. La pos-
 sibilité des sciences physico-chimiques, comme la possibi-
 lité de toute science sort de là. Et le problème de l'objec-
-tivité en même temps qu'il se pose est résolu, puisque les
-
-[p. 324]
-
-324
+tivité en même temps qu'il se pose est résolu, puisque les [p. 324] 324
 CONSÉQUENCES PHILOSOPHIQUES .
 
 sciences n'existeront
@@ -16906,11 +16030,7 @@ sous la condition de leur respect nécessaire (toute théorie
 doit être conforme au principe d'identité et de contradic-
 tion, et aux autres principes ,
 s'il y en a
-qui fondent la
-
-[p. 325]
-
-démonstration mathématique) n'a pas de valeur objective
+qui fondent la [p. 325] démonstration mathématique) n'a pas de valeur objective
 par elle-même. C'est dire nettement que si elle peut en
 avoir une, ce ne seront pas les catégories de l'esprit ou l'in-
 tuition qui la lui fourniront. Tout ce qui vient de l'esprit sera
@@ -16949,11 +16069,7 @@ un caractère objectif.
 De même avec Poincaré : ce qui donne un caractère con-
 ventionnel aux principes de la physique, avec toutes les
 réserves qui doivent être faites sur le sens de ce mot « con-
-ventionnel » dans la philosophie de ce savant, c'est la recti
-
-[p. 326]
-
-326
+ventionnel » dans la philosophie de ce savant, c'est la recti [p. 326] 326
 CONSÉQUENCES PHILOSOPHIQUES .
 
 fication par l'esprit de la relation expérimentale, la substi-
@@ -17007,9 +16123,7 @@ tischen Physik in neuerer Zeit .
 (Naturwissenschaftliche Rundschau ,
 14 octobre 1899, 517.)
 
-[p. 327]
-
-LA VALEUR DE LA PHYSIQUE .
+[p. 327] LA VALEUR DE LA PHYSIQUE .
 327
 
 appelle la « Phénoménologie mathématique » (qui corres-
@@ -17053,11 +16167,7 @@ uniquement expérimental .
 
 Ainsi les lois propres à l'esprit peuvent intéresser la
 logique ou les mathématiques pures ; elles n'ont qu'un rap-
-port contingent avec la physique. Elles ne fondent rien dans
-
-[p. 328]
-
-328
+port contingent avec la physique. Elles ne fondent rien dans [p. 328] 328
 CONSÉQUENCES PHILOSOPHIQUES .
 
 le domaine physique ; seule l'expérience peut rendre une
@@ -17069,9 +16179,7 @@ de l'expérience, et par suite des lois naturelles (pour ren-
 verser la proposition cartésienne) . Mais ce rôle, il peut le
 jouer d'une manière ou d'une autre, pourvu qu'il le joue.
 
-[p. 329]
-
-CHAPITRE
+[p. 329] CHAPITRE
 III
 
 Le Relativisme de la physique contemporaine.
@@ -17122,11 +16230,7 @@ siècle .
 C'est peut-être un des points où l'on peut constater le
 mieux l'action directe des réflexions générales qui consti-
 tuent la philosophie sur les sciences particulières. Cette
-action est, logiquement, indiscutable, puisqu'un système
-
-[p. 330]
-
-330
+action est, logiquement, indiscutable, puisqu'un système [p. 330] 330
 CONSÉQUENCES PHILOSOPHIQUES .
 
 de philosophie ne fait qu'analyser d'abord et concentrer ou
@@ -17171,9 +16275,7 @@ influences nécessaires , constantes et considérables par leur
 importance et leurs effets qu'exercent mutuellement, l'une
 sur l'autre , la science et la philosophie . Mieux encore, c'est
 
-[p. 331]
-
-LA VALEUR DE LA PHYSIQUE .
+[p. 331] LA VALEUR DE LA PHYSIQUE .
 331
 
 une illustration de l'influence nécessaire, constante et consi-
@@ -17223,11 +16325,7 @@ quoi de la création jusqu'en ses derniers détails. Il aurait
 le même savoir, sinon le même pouvoir. Dum Deus calcu-
 lat, fit mundus ; et ce calcul divin, c'est celui dont Leibniz
 formule les lois. Pour Newton, temps et espace sont des
-attributs de la divinité ; et Newton pense avoir établi les
-
-[p. 332]
-
-332
+attributs de la divinité ; et Newton pense avoir établi les [p. 332] 332
 CONSÉQUENCES PHILOSOPHIQUES .
 
 principes absolus de la science du temps et de l'espace.
@@ -17261,7 +16359,7 @@ de la contingence dans le monde, c'est que les consé-
 quences des principes de la science n'ont pas été toutes
 réalisées . Cette contingence ne s'oppose donc pas à ce que
 le monde soit tout entier pénétrable par notre science.
-Elle s'oppose peut-être à ce qu'a priori, nous prenions
+Elle s'oppose peut-être à ce qu'*a priori*, nous prenions
 pour réalisées toutes les conséquences des principes
 (et
 encore pour Spinoza, ceci serait sujet à discussion). Mais
@@ -17279,11 +16377,7 @@ mécaniciens et physiciens du xvun
 siècle et de la pre-
 mière moitié du xix pour s'en rendre compte, en particu-
 lier les travaux de Lagrange, de Laplace, de Poisson, etc.
-Partisans du plein et du continu, comme partisans du
-
-[p. 333]
-
-vide et des atomes, qu'on adopte l'hypothèse des tourbil-
+Partisans du plein et du continu, comme partisans du [p. 333] vide et des atomes, qu'on adopte l'hypothèse des tourbil-
 lons dans un fluide primitivement homogène, ou les chocs
 de petites masses dans le vide, dans tous les cas, le méca-
 nicien ou le physicien croit par son hypothèse s'élever à
@@ -17331,11 +16425,7 @@ intuition
 
 intellectuelle . C'est dans leur esprit, à la lumière de la
 
-:
-
-[p. 334]
-
-334
+: [p. 334] 334
 CONSÉQUENCES PHILOSOPHIQUES .
 
 raison cartésienne, qu'ils voyaient ces prétendus résultats
@@ -17389,9 +16479,7 @@ Non point qu'il rompe en visière, comme on l'a dit trop
 
 :
 
-[p. 335]
-
--
+[p. 335] -
 
 souvent, avec le rationalisme. La physique tout entière,
 même dans la conception énergétique, - celle qu'on pour-
@@ -17437,11 +16525,7 @@ pour des raisons psychologiques ou métaphysiques qui ne
 sont ni de son ressort, ni de notre sujet, mais sous l'influence
 de ces raisons peut-être, pour des raisons proprement phy-
 siques et expérimentales qui, seules, nous intéressent ici.
-La physique moderne ne croit plus pouvoir dire un jour :
-
-[p. 336]
-
-336
+La physique moderne ne croit plus pouvoir dire un jour : [p. 336] 336
 CONSÉQUENCES PHILOSOPHIQUES .
 
 Voici le système de l'univers physique, parce que, ne
@@ -17485,11 +16569,7 @@ qu'elle ne pourra jamais donner un résultat de l'expérience
 comme le terme de la recherche . L'unité simple et absolue
 dont l'univers physique se compose par simple addition,
 
-[^p336-1]: Voir en particulier Jean Perrin : Préface des <<< Principes de Chimie physique » , et la « Discontinuité de la matière » . (Revue du Mois , de mars 1906.)
-
-[p. 337]
-
-l'ancien atome ou le fluide homogène, matrice universelle
+[^p336-1]: Voir en particulier Jean Perrin : Préface des <<< Principes de Chimie physique » , et la « Discontinuité de la matière » . (Revue du Mois , de mars 1906.) [p. 337] l'ancien atome ou le fluide homogène, matrice universelle
 de toute existence matérielle, autant d'instruments de la
 connaissance qui ne peuvent plus figurer que dans un
 musée d'antiquités historiques. L'atome indécomposable, à
@@ -17545,11 +16625,7 @@ ait un sens tout à fait nouveau, et tout à fait relativiste .
 L'élément, donnée de l'expérience ou supposé donnée
 
 REY.
-22
-
-[p. 338]
-
-338
+22 [p. 338] 338
 CONSÉQUENCES PHILOSOPHIQUES .
 
 de l'expérience, s'il s'agit d'un élément dont l'existence n'est
@@ -17596,9 +16672,7 @@ autre période qui commence, et dont la théorie cinétique
 
 [^p338-1]: Essai critique sur l'hypothèse des atomes dans la science con- temporaine. (Paris, F. Alcan.)
 
-[p. 339]
-
-LA VALEUR DE LA PHYSIQUE .
+[p. 339] LA VALEUR DE LA PHYSIQUE .
 339
 
 des gaz serait comme l'avant-coureur, ce n'est certes pas
@@ -17647,11 +16721,7 @@ sensations , et que celles-ci dépendent de la constitution de
 notre esprit, autant, sinon plus , que de la constitution des
 choses , à supposer qu'il y ait des choses indépendamment
 de l'esprit .
-Il ajoute encore, comme déduction nécessaire ,
-
-[p. 340]
-
-340
+Il ajoute encore, comme déduction nécessaire , [p. 340] 340
 CONSÉQUENCES PHILOSOPHIQUES .
 
 que tout ce que nous connaissons n'est pas un objet, mais
@@ -17699,9 +16769,7 @@ la physionomie de la physique contemporaine .
 
 [^p340-1]: Voir à ce sujet la note au sujet du mouvement absolu et des idées de Painlevé, p. 394.
 
-[p. 341]
-
-CHAPITRE
+[p. 341] CHAPITRE
 IV
 
 Rôle et place de l'hypothèse.
@@ -17747,14 +16815,10 @@ d'hui qu'elle a atteint le terme de cette évolution. Elle est
 devenue dans le sens le plus plein et le plus complet du
 mot une science positive .
 Les constructions ambitieuses présentées comme domi-
-natrices de l'expérience, tout ce qui peut rappeler l'a priori
+natrices de l'expérience, tout ce qui peut rappeler l'*a priori*
 ou une nécessité autre que les coïncidences empiriques ,
 ont disparu. Rien n'étonnerait plus un physicien, pourvu
-que l'expérience le lui présentât, tant il est habitué à ne
-
-[p. 342]
-
-342
+que l'expérience le lui présentât, tant il est habitué à ne [p. 342] 342
 CONSÉQUENCES PHILOSOPHIQUES .
 
 rien affirmer que d'après l'expérience, et tant il est prêt à
@@ -17816,9 +16880,7 @@ n'étaient pas des hypothèses . Certaines parties pouvaient
 
 [^p342-1]: A. Houllevigne, par exemple , dans un article de la Revue de Paris du 1" juillet 1905 : « Les frontières des Sciences » .
 
-[p. 343]
-
-LA VALEUR DE LA PHYSIQUE .
+[p. 343] LA VALEUR DE LA PHYSIQUE .
 343
 
 être considérées comme hypothétiques, mais les grandes
@@ -17873,9 +16935,7 @@ place dans le développement de la science . Elle n'était qu'un
 moment préparatoire dans l'imagination du savant à propos
 d'une recherche de détail .
 
-[p. 344]
-
-344
+[p. 344] 344
 CONSÉQUENCES PHILOSOPHIQUES .
 
 3.
@@ -17940,9 +17000,7 @@ sur
 l'évidence de la relation
 simple, clef de voûte de la théorie physique, ne met pas en
 
-[p. 345]
-
-LA VALEUR DE LA PHYSIQUE .
+[p. 345] LA VALEUR DE LA PHYSIQUE .
 345
 
 doute et ne peut plus mettre en doute les fondements de ses
@@ -17985,9 +17043,7 @@ jours être limitée par des expériences nouvelles, où ces
 principes sont insuffisants et qui en appellent d'autres .
 Mais cela est encore vrai pour le mécanisme contempo-
 
-[p. 346]
-
-316
+[p. 346] 316
 CONSÉQUENCES PHILOSOPHIQUES .
 
 rain. Ce dernier admet bien que les relations simples dont
@@ -18038,9 +17094,7 @@ liers , sont extrêmement souples et plastiques , pourquoi elles
 effleurent plutôt les phénomènes superficiellement, qu'elles
 ne prétendent les approfondir. C'est par indications que
 
-[p. 347]
-
-LA VALEUR DE LA PHYSIQUE .
+[p. 347] LA VALEUR DE LA PHYSIQUE .
 347
 
 procède toute théorie générale dans la physique actuelle .
@@ -18084,11 +17138,7 @@ celles-ci ne
 peuvent être que des hypothèses . Et le rôle et la place faits
 à l'hypothèse ont amené nécessairement dans tout le domaine
 des généralisations , c'est-à-dire dans toute la physique théo-
-rique les divergences des écoles. Ces divergences ont leur
-
-[p. 348]
-
-348
+rique les divergences des écoles. Ces divergences ont leur [p. 348] 348
 CONSÉQUENCES PHILOSOPHIQUES .
 
 raison d'être, et leur raison d'être fatale, dans ce fait que
@@ -18131,9 +17181,7 @@ sur ce point. La physique expérimentale est un centre fixe
 contre lequel ne peut prévaloir aucun changement de théo-
 rie, aucune modification d'interprétation. La physique de
 
-[p. 349]
-
-LA VALEUR DE LA PHYSIQUE .
+[p. 349] LA VALEUR DE LA PHYSIQUE .
 349
 demain retrouvera toutes nos expériences bien faites et sera
 obligée de s'y conformer, strictement, comme la physique
@@ -18181,9 +17229,7 @@ sicien qui mettra en doute, et actuellement, et pour l'ave-
 nir, les résultats d'une expérience méthodiquement criti-
 quée.
 
-[p. 350]
-
-CHAPITRE
+[p. 350] CHAPITRE
 V
 
 Rôle et nature des théories physiques .
@@ -18229,11 +17275,7 @@ ciens s'accordent à dire qu'on ne peut distinguer ces deux
 sortes d'éléments que par une analyse artificielle et dans
 une certaine mesure arbitraire . La science réelle, concrète,
 les mêle intimement à tous les moments de son évolution .
-Tous les physiciens mécanistes aujourd'hui considèrent
-
-[p. 351]
-
-l'hypothèse comme une partie intégrante des sciences phy-
+Tous les physiciens mécanistes aujourd'hui considèrent [p. 351] l'hypothèse comme une partie intégrante des sciences phy-
 sico-chimiques, mêlée à toutes leurs opérations et laissant
 partout un
 résidu.
@@ -18286,9 +17328,7 @@ expérimental n'est pas l'unité d'une combinaison où se
 [^p351-1]: Lucien POINCARÉ in Revue Pédagogique, 1905.
 [^p351-2]: Cf. , la théorie des principes de la Physique , dans POINCARÉ : La Science et l'hypothèse . Le titre même de cet ouvrage indique la position de l'auteur dans cette question.
 
-[p. 352]
-
-352
+[p. 352] 352
 CONSÉQUENCES PHILOSOPHIQUES .
 
 rencontrent confusément mêlés les éléments composants . Ce
@@ -18331,11 +17371,7 @@ aller au-devant des causes par les effets. Cette phrase pour-
 rait se traduire
 : L'expérience sert à aller au-devant de la
 théorie , de l'intuition rationnelle, par l'intuition sensible .
-L'inverse de cette proposition représenterait assez exacte-
-
-[p. 353]
-
-ment la théorie de la théorie physique chez les physiciens
+L'inverse de cette proposition représenterait assez exacte-[p. 353]ment la théorie de la théorie physique chez les physiciens
 actuels
 : La théorie sert à aller au-devant de l'expérience ;
 l'intuition subjective suggère la possibilité d'une intuition
@@ -18388,11 +17424,7 @@ on oubliait assez vite son caractère d'hypothèse ; insistant
 sur ses parties durables, on donnait à la théorie une valeur
 
 REY.
-23
-
-[p. 354]
-
-354
+23 [p. 354] 354
 CONSÉQUENCES PHILOSOPHIQUES .
 
 ontologique . De là, les excès du mécanisme classique ; de
@@ -18433,11 +17465,7 @@ aucune façon les altérer ni en diminuer la solidité, quelle
 que soit la part d'hypothèses et d'artifices qu'elle contienne,
 car elle n'intervient qu'à titre d'instrument, et elle ne laisse
 dans les résultats acquis grâce à elle, que la part acceptée
-et garantie par l'expérience, la part qui ne s'est trouvée ni
-
-[p. 355]
-
-hypothétique , ni artificielle. L'acquis scientifique reste donc
+et garantie par l'expérience, la part qui ne s'est trouvée ni [p. 355] hypothétique , ni artificielle. L'acquis scientifique reste donc
 intact, sur la garantie de l'expérience et dans la mesure où
 cette garantie est valable.
 
@@ -18481,11 +17509,7 @@ objective. La théorie physique, ou plutôt la physique théo-
 rique, ensemble des théories physiques d'une même forme ,
 n'est qu'un organon.
 L'examen critique des théories physiques ne relève donc
-ni de la vérification scientifique immédiate , ni de cette partie
-
-[p. 356]
-
-356
+ni de la vérification scientifique immédiate , ni de cette partie [p. 356] 356
 CONSÉQUENCES PHILOSOPHIQUES .
 
 de la philosophie qui dépasse les résultats les plus géné-
@@ -18531,9 +17555,7 @@ dans la science à un moment différent de celui où inter-
 
 viennent les méthodes d'expérimentation, et pour un but
 
-[p. 357]
-
-LA VALEUR DE LA PHYSIQUE .
+[p. 357] LA VALEUR DE LA PHYSIQUE .
 357
 
 différent. Elle provoque l'idée qu'auront ensuite à contrôler
@@ -18588,11 +17610,7 @@ science claire et distincte dans son objet et ses procédés
 généraux, depuis plus de deux mille ans, alors que les
 sciences physico-chimiques n'offrent un pareil état que
 depuis trois siècles ? Qu'y a-t-il d'étonnant alors à ce que la
-forme théorique de la physique ne soit pas arrêtée ? Pour
-
-[p. 358]
-
-358
+forme théorique de la physique ne soit pas arrêtée ? Pour [p. 358] 358
 CONSÉQUENCES PHILOSOPHIQUES .
 
 quoi s'étonner des divergences entre les idées des physiciens
@@ -18623,9 +17641,7 @@ objectivité imposent à l'arbitraire dans le choix de la théo-
 rie, et aux divergences qu'il entraîne, des limites assez
 étroites .
 
-[p. 359]
-
-CHAPITRE
+[p. 359] CHAPITRE
 VI
 
 Valeur de savoir des sciences physico-chimiques .
@@ -18674,11 +17690,7 @@ vue de l'utilité .
 Il est incontestable que tout ensemble de connaissances
 a des conséquences pratiques ; tout savoir est matérielle-
 ment utile
-: c'est une des affirmations les plus nettes et les
-
-[p. 360]
-
-360
+: c'est une des affirmations les plus nettes et les [p. 360] 360
 CONSÉQUENCES PHILOSOPHIQUES .
 
 plus légitimes des savants et des philosophes de la Renais-
@@ -18735,9 +17747,7 @@ arriva, de mauvaise science et de mauvaise philosophie.
 Les esprits critiques, les philosophes le leur firent bien voir .
 Et nous avons eu , après les attaques de la philosophie contre
 
-[p. 361]
-
-LA VALEUR DE LA PHYSIQUE .
+[p. 361] LA VALEUR DE LA PHYSIQUE .
 361
 
 la science, un retour offensif de la métaphysique dans le
@@ -18780,11 +17790,7 @@ connaissances scientifiques, en particulier de nos connais-
 sances mécaniques, physiques et chimiques. Ces dernières
 connaissances forment un ensemble partiel qui, par ses pro-
 grès , a, d'une part, concentré l'attention de la critique philo-
-sophique et, d'autre part, fort étonné l'univers dans ses
-
-[p. 362]
-
-362
+sophique et, d'autre part, fort étonné l'univers dans ses [p. 362] 362
 CONSÉQUENCES PHILOSOPHIQUES .
 
 applications pratiques. Si bien que les sciences physiques
@@ -18830,9 +17836,7 @@ par son utilité, s'en rapproche en ce qu'il est une création
 arbitraire du génie humain.
 Comme le vulgaire s'appuyait surtout sur la valeur de
 
-[p. 363]
-
-LA VALEUR DE LA PHYSIQUE .
+[p. 363] LA VALEUR DE LA PHYSIQUE .
 363
 
 savoir des sciences physiques pour attaquer, railler ou
@@ -18875,11 +17879,7 @@ qu'il a pour les premiers, le léger dédain que l'on sent chez
 lui , malgré toute l'envie qu'il a de le dissimuler, pour ceux
 qui ont besoin d'un rapport matériel dans la théorie phy-
 sique, tout cela nous montre déjà que pour lui la physique
-est avant tout un savoir, une connaissance théorétique et
-
-[p. 364]
-
-364
+est avant tout un savoir, une connaissance théorétique et [p. 364] 364
 CONSÉQUENCES PHILOSOPHIQUES .
 
 non une technique pratique. Il n'y a qu'à se rappeler les
@@ -18926,9 +17926,7 @@ connaissance ? Dans cet outillage
 complexe que
 l'espèce
 
-[p. 365]
-
--
+[p. 365] -
 
 humaine a élaboré pour connaître , - pour connaître selon
 sa nature et ses besoins, bien entendu, mais on sait qu'il ne
@@ -18975,9 +17973,7 @@ encore les conceptions mécanistes qui, par les représen-
 tations concrètes et maniables, tirées de machines usuelles ,
 ont préparé les applications pratiques de la physique .
 
-[p. 366]
-
-366
+[p. 366] 366
 CONSÉQUENCES PHILOSOPHIQUES .
 
 Aussi , est-on quelquefois étonné de voir la critique s'en
@@ -19037,11 +18033,7 @@ Certes, des
 physiciens
 peuvent, à côté de leurs connaisances scientifiques, avoir
 des croyances qui portent sur des problèmes d'ordre méta-
-physique. Mais ils ne confondent jamais croyance et con
-
-[p. 367]
-
-naissance . La
+physique. Mais ils ne confondent jamais croyance et con [p. 367] naissance . La
 relativité des
 connaissances
 physico-chi-
@@ -19085,11 +18077,7 @@ est inconnue des physiciens. Ils n'accordent une valeur de
 savoir qu'à la méthode scientifique. Ainsi, tandis que, pour
 ses contempteurs, la méthode scientifique n'a qu'une valeur
 pratique et que d'autres méthodes , seules, ont une valeur
-théorique, une valeur de savoir, pour les physiciens, au
-
-[p. 368]
-
-368
+théorique, une valeur de savoir, pour les physiciens, au [p. 368] 368
 CONSÉQUENCES PHILOSOPHIQUES .
 
 contraire,
@@ -19136,9 +18124,7 @@ et par l'action qu'il subit. Elle admet une conformité avec le
 donné empirique, conçu comme nécessaire . Il y a donc
 dans ces théories diverses une part d'objectif. La science a
 
-[p. 369]
-
-LA VALEUR DE LA PHYSIQUE .
+[p. 369] LA VALEUR DE LA PHYSIQUE .
 369
 
 pour tâche de la dégager, et par là, d'établir une vérité
@@ -19153,9 +18139,7 @@ modité, valeur pratique.
 REY.
 24
 
-[p. 370]
-
-CHAPITRE
+[p. 370] CHAPITRE
 VII
 
 L'accord des théories physico-chimiques.
@@ -19212,11 +18196,7 @@ organisé de manière différente et que les hypothèses, les
 anticipations de l'expérience, puissent être multiples .
 Mais , bien que les divergences théoriques ne puissent
 atteindre la valeur de la science physique, on peut encore
-prétendre sans paradoxe qu'elles sont beaucoup plus appa
-
-[p. 371]
-
-rentes que réelles. Jusque dans ses hypothèses et ses théo-
+prétendre sans paradoxe qu'elles sont beaucoup plus appa [p. 371] rentes que réelles. Jusque dans ses hypothèses et ses théo-
 ries , dans ses procédés de systématisation et de découverte ,
 
 il règne dans la physique une unité profonde qui reflète
@@ -19229,7 +18209,7 @@ comme aux orientations de la recherche . Et, à son tour,
 l'accord, dans toutes leurs grandes lignes, de toutes les
 théories physiques touchant l'organisation générale du con-
 tenu expérimental de la physique, peut prouver, en quelque
-sorte a posteriori, l'objectivité de ce contenu .
+sorte *a posteriori*, l'objectivité de ce contenu .
 2.
 On peut distinguer dans l'histoire de la physique ,
 comme dans toute histoire, de grandes périodes qui se dif-
@@ -19259,11 +18239,7 @@ mathématique, par le contenu, la matière de la théorie et
 la nature de son objet. La physique théorique est donc
 fonction de la physique expérimentale, par suite de l'ac-
 quis scientifique d'une époque donnée . Nécessairement alors ,
-la physique a pendant un certain temps , - l'acquis scienti
-
-[p. 372]
-
-372
+la physique a pendant un certain temps , - l'acquis scienti [p. 372] 372
 CONSÉQUENCES PHILOSOPHIQUES .
 
 fique ne se modifiant pas à chaque instant d'une manière
@@ -19315,9 +18291,7 @@ la physique, si peu nombreuses qu'elles soient, il avait pu
 faire constater des différences irréductibles avec la période
 précédente. Il n'aurait plus existé, en effet, de physique se
 
-[p. 373]
-
-LA VALEUR DE LA PHYSIQUE .
+[p. 373] LA VALEUR DE LA PHYSIQUE .
 373
 
 -
@@ -19369,11 +18343,7 @@ complétées, elles ont progressé. Les phénomènes résiduels
 de l'hypothèse de Copernic, qui supposent encore le mou-
 vement des
 planètes
-circulaire, a amené évolutivement
-
-[p. 374]
-
-374
+circulaire, a amené évolutivement [p. 374] 374
 CONSÉQUENCES PHILOSOPHIQUES .
 
 l'hypothèse elliptique de Kepler. Evolution et non révolu-
@@ -19417,9 +18387,7 @@ Seulement, la mathématique a ce privilège d'avoir un
 objet d'une particulière simplicité. Aussi par ses progrès ,
 par le temps considérable, si on la compare aux autres
 
-[p. 375]
-
-LA VALEUR DE LA PHYSIQUE .
+[p. 375] LA VALEUR DE LA PHYSIQUE .
 375
 
 sciences , depuis lequel elle a arrêté en gros ses méthodes ,
@@ -19461,11 +18429,7 @@ l'accord final des théories, au moins dans leurs lignes géné-
 rales . Tous sous-entendent que les divergences ne sont que
 temporaires. Ce sont des divergences sur des moyens acces-
 soires que le savant emploie pour atteindre les résultats
-qu'il vise. Mais ces moyens accessoires, nécessités par l'in
-
-[p. 376]
-
-376
+qu'il vise. Mais ces moyens accessoires, nécessités par l'in [p. 376] 376
 CONSÉQUENCES PHILOSOPHIQUES .
 
 suffisance de nos connaissances, ne sont pas à proprement
@@ -19525,11 +18489,7 @@ soit qu'ils les impliquent, des principes qui ont été élaborés
 par les physiciens depuis la Renaissance . C'était la meilleure
 façon de montrer l'unité de la physique actuelle et l'unité
 de son devenir. Et l'on comprend que le savant ait pu con-
-clure un de ses articles antérieurs à ses conférences , par
-
-[p. 377]
-
-ces mots
+clure un de ses articles antérieurs à ses conférences , par [p. 377] ces mots
 : « Tout compte fait, on s'est
 rapproché de
 l'unité . »
@@ -19575,11 +18535,7 @@ les
 restrictions
 qu'apportent les manifestations de
 l'énergie autre que
-l'énergie mécanique. Et dans la théorie mécaniste, on con
-
-[p. 378]
-
-378
+l'énergie mécanique. Et dans la théorie mécaniste, on con [p. 378] 378
 CONSÉQUENCES PHILOSOPHIQUES .
 
 sidère qu'il faut partir des éléments les plus simples et les
@@ -19621,9 +18577,7 @@ d'une règle sociale. Selon l'éducation ou la tournure d'es-
 prit, l'imagination se présente, comme l'ont remarqué tous
 les psychologues, sous une forme abstraite ou concrète.
 
-[p. 379]
-
-LA VALEUR DE LA PHYSIQUE .
+[p. 379] LA VALEUR DE LA PHYSIQUE .
 379
 
 Les uns ont une difficulté considérable à se représenter des
@@ -19664,11 +18618,7 @@ nistes seront l'œuvre des esprits à tournure concrète et ser-
 viront surtout à l'investigation et à la découverte. D'où il
 semble qu'on puisse conclure que c'est à deux formes par-
 ticulières de l'imagination que sont dues les divergences
-théoriques . Chaque savant est porté vers la méthode qui
-
-[p. 380]
-
-380
+théoriques . Chaque savant est porté vers la méthode qui [p. 380] 380
 CONSÉQUENCES PHILOSOPHIQUES .
 
 convient le mieux à son genre d'esprit. Les divergences
@@ -19720,9 +18670,7 @@ xvi° siècle , sont les noms qu'on donne à ce communisme
 
 [^p380-1]: Préface du 1" volume (La dynamique chimique) des « Leçons de chimie physique professées à l'Université de Berlin » .
 
-[p. 381]
-
-de la compréhension, la science est vraiment l'œuvre de
+[p. 381] de la compréhension, la science est vraiment l'œuvre de
 la raison ; elle est rationnelle dans ses moindres parties ,
 parce qu'elle vise toujours à la nécessité et qu'elle ne vise
 qu'à cela . Elle se désintéresse en elle-même de toute utili-
@@ -19765,11 +18713,7 @@ leurs caractères essentiels permettent de désigner de ce
 nom ?
 Mais par là même, on voit la part de subjectivité qui
 entre dans l'objectivité de la science. Il est exact qu'elle
-est une création de l'homme, un instinct de l'espèce, un pro
-
-[p. 382]
-
-382
+est une création de l'homme, un instinct de l'espèce, un pro [p. 382] 382
 CONSÉQUENCES PHILOSOPHIQUES .
 
 duit commun à toutes les sociétés humaines dès qu'elles
@@ -19827,11 +18771,7 @@ faillite officielle a existé peut-être dans l'imagination des
 littérateurs et des polémistes. Il semble impossible de trou-
 ver à cette thèse un fondement sérieux dans les idées que
 les physiciens se font de leur science et des résultats qu'ils
-obtiennent ; et à qui s'adresser, sinon aux physiciens pour
-
-[p. 383]
-
-résoudre cette question ? La physique, décret arbitraire de
+obtiennent ; et à qui s'adresser, sinon aux physiciens pour [p. 383] résoudre cette question ? La physique, décret arbitraire de
 l'esprit, la physique, qui ne serait plus expérimentale et
 objective, la physique, qui ne serait plus une science de
 la nature, qui ne serait plus la « science physique », voilà
@@ -19876,11 +18816,7 @@ des physiciens pour qui la qualité est l'essence des choses
 (Ostwald, Duhem, peut-être Lippmann), des physiciens
 pour qui cette essence consiste dans la quantité (le plus
 grand nombre des
-cinétistes). Interférant avec ces deux
-
-[p. 384]
-
-384
+cinétistes). Interférant avec ces deux [p. 384] 384
 CONSÉQUENCES PHILOSOPHIQUES .
 
 :
@@ -19921,9 +18857,7 @@ moins dans une certaine mesure) aussi bien que pour l'art
 fin de
 compte tous obligés de dire : « La science, c'est nous. »
 
-[p. 385]
-
-LIVRE
+[p. 385] LIVRE
 VI
 
 QUELQUES INDICATIONS SUR LA PHILOSOPHIE
@@ -19974,11 +18908,7 @@ croyance, parce
 qu'elles
 défi-
 REY.
-25
-
-[p. 386]
-
-386
+25 [p. 386] 386
 CONSÉQUENCES PHILOSOPHIQUES .
 
 nissent la vérité scientifique par opposition à ce qui dépend
@@ -20029,11 +18959,7 @@ rationnel
 n'avaient aucune valeur en physique. Elle a soutenu que
 tous les principes de cette science avaient d'abord répugné
 à la raison humaine. Puis, d'autre part, elle s'est attachée
-à dissoudre l'expérience, à lui enlever toute fixité d'abord
-
-[p. 387]
-
-en affirmant sa contingence, à lui enlever ensuite toute indé-
+à dissoudre l'expérience, à lui enlever toute fixité d'abord [p. 387] en affirmant sa contingence, à lui enlever ensuite toute indé-
 pendance à l'égard des fonctions constructives et créatrices
 de l'esprit. La science est devenue, du fait de cette analyse
 dissolvante, une sorte de jeu esthétique, un art qui fuyait
@@ -20072,11 +18998,7 @@ chose d'artificiel. La théorie de Kant, par là même, se
 trouva sapée par la base. Puisque les catégories étaient une
 explication rationnelle d'un fait, une sorte de déduction « a
 consequente » , dès que le fait était mis en doute, l'explica-
-tion devenait caduque ; toute la théorie ne pouvait être
-
-[p. 388]
-
-388
+tion devenait caduque ; toute la théorie ne pouvait être [p. 388] 388
 CONSÉQUENCES PHILOSOPHIQUES .
 
 qu'inutile et erronée, à mesure qu'on attaquait la néces-
@@ -20124,11 +19046,7 @@ la nécessité
 elle-même
 devient d'ordre empirique. L'expérience permet, en face
 des critiques qui essayent de faire rentrer la vérité physique
-dans le domaine de la croyance , des affirmations catégo
-
-[p. 389]
-
-riques et, sur le terrain du phénoménisme, une sorte, de
+dans le domaine de la croyance , des affirmations catégo [p. 389] riques et, sur le terrain du phénoménisme, une sorte, de
 dogmatisme renouvelé. Les savants ne demandent plus de
 garantie à la raison, à des principes transcendants l'expé-
 rience sensible. En tout cas, s'il en est encore qui tiennent
@@ -20173,9 +19091,7 @@ nées scientifiques . Aussi la critique sceptique de la science
 
 [^p389-1]: Exemple : la mathématique pour Poincaré ; la théorie physique (la théorie seulement) pour Duhem .
 
-[p. 390]
-
-390
+[p. 390] 390
 CONSÉQUENCES PHILOSOPHIQUES .
 
 eut chaque fois raison de lutter contre le dogmatisme tra-
@@ -20193,9 +19109,7 @@ plus adéquate, et rétablit un dogmatisme nouveau, en s'ins-
 pirant d'une analyse plus méthodique et plus exacte des
 sciences , telles qu'elles existent, et de leur esprit.
 
-[p. 391]
-
-CHAPITRE
+[p. 391] CHAPITRE
 II
 
 Indication sur des notions d'expérience et de vérite
@@ -20240,11 +19154,7 @@ hasardeuse . Mais ce que l'historien peut d'ores et déjà déga-
 ger, c'est tout un ensemble de vues philosophiques assez
 concordantes qui correspondent à peu près à l'attitude nou-
 velle de la science. Elles en expriment l'esprit philoso-
-phique . Et l'opinion générale ne s'y est pas trompée ; elle
-
-[p. 392]
-
-392
+phique . Et l'opinion générale ne s'y est pas trompée ; elle [p. 392] 392
 CONSÉQUENCES PHILOSOPHIQUES .
 
 a désigné l'ensemble de ces vues, la synthèse de ses ten-
@@ -20291,9 +19201,7 @@ emprunté au positivisme son esprit philosophique, ses ten-
 
 [^p392-1]: Je crois donner à ce terme son véritable sens historique et cri- tique, bien qu'on l'ait employé indûment pour désigner une tout autre doctrine de même que le terme « nominalisme » .
 
-[p. 393]
-
-INDICATIONS TOUCHANT LA THÉORIE DE LA CONNAISSANCE . 393
+[p. 393] INDICATIONS TOUCHANT LA THÉORIE DE LA CONNAISSANCE . 393
 
 dances profondes, et c'est à travers la philosophie anglaise
 du xıx
@@ -20333,9 +19241,7 @@ considère ces relations comme construites par l'esprit,
 [^p393-1]: Voir notamment les Principes de Biologie ; et dans les Prin- cipes de psychologie, l'idée de la « correspondance>>> et l'usage qui en est fait. Comparer avec l'idée d'adaptation dans la psychologie scientifique contemporaine.
 [^p393-2]: En émettant des idées analogues , le pragmatisme, s'il aban- donne l'agnosticisme mystique vers lequel la mode le pousse, aura, lui aussi , comme la critique sceptique de la science, à laquelle il tient par des liens nombreux, rendu service au rationalisme expé- rimental de demain .
 
-[p. 394]
-
-394
+[p. 394] 394
 CONSÉQUENCES PHILOSOPHIQUES .
 
 sont toutes deux artificielles et dialectiques. Jusque-là, on
@@ -20387,9 +19293,7 @@ un
 [^p394-1]: Ainsi se pourrait justifier l'espoir le plus lointain de toutes les sciences : trouver un principe unique dont les autres lois puissent être déduites , sans exception.
 [^p394-2]: Painlevé a fait remarquer que, pour l'ensemble des faits qui constituent notre système solaire , la seule explication qui réponde au principe de causalité est celle qui admet le mouvement absolu des éléments du système par rapport à un trièdre de référence dont le sommet est au centre de gravité du système et qui s'oriente d'après les étoiles fixes les plus éloignées. Il importe d'observer que cette remarque tout à fait dans l'esprit mécaniste confirme nettement ce qui a été dit ici : -
 
-[p. 395]
-
-4.
+[p. 395] 4.
 La tâche de la philosophie est, d'ailleurs , loin
 d'être terminée. Il faudrait analyser encore ce fait ultime
 :
@@ -20446,9 +19350,7 @@ aux choses ; elle est elle-même une chose ; elle est nécessaire et
 objective , et il n'y a pas d'autre objet qu'elle, si bien qu'elle peut
 comporter le qualificatif d'absolu .
 
-[p. 396]
-
-396
+[p. 396] 396
 CONSÉQUENCES PHILOSOPHIQUES .
 
 poser entre nos certitudes. Même en admettant au début de
@@ -20490,11 +19392,7 @@ toire de l'acquisition de cette vérité, résultat humain et
 nécessaire d'une évolution humaine et nécessaire, dans les
 limites de l'humaine nature .
 Empirisme radical, dogmatisme radical .
-Exigences de l'expérience, exigences de la raison, deux
-
-[p. 397]
-
-expressions qui ne marquent qu'une différence de points
+Exigences de l'expérience, exigences de la raison, deux [p. 397] expressions qui ne marquent qu'une différence de points
 de vue , mais qui ont un contenu identique, qui ont un seul
 et même contenu . Le rationnel n'est que la formule abs-
 traite des lois de l'expérience. L'expérience n'est que l'enve-
@@ -20537,9 +19435,7 @@ théorie de la simplicité des lois de la nature, qui posaient
 les éléments réels avec lesquels on recomposait tout le reste ,
 ne signifie pas autre chose au point de vue philosophique .
 
-[p. 398]
-
-398
+[p. 398] 398
 CONSÉQUENCES PHILOSOPHIQUES .
 
 Mais la physique contemporaine et le mécanisme actuel
@@ -20603,11 +19499,7 @@ N'a-t-on pas , au fond, fait dévier petit à petit et par des
 nuances insensibles le sens réel du mot « expérience >> ?
 Replacé dans ses conditions d'existence, dans la science
 expérimentale qui la précise et l'affine, l'expérience nous
-ramène à la nécessité et à la vérité ; l'empirisme rejoint
-
-[p. 399]
-
-ce rationalisme qui ne veut pas dépasser la science, mais
+ramène à la nécessité et à la vérité ; l'empirisme rejoint [p. 399] ce rationalisme qui ne veut pas dépasser la science, mais
 l'exprimer dans sa plénitude.
 Seulement, le mouvement de réaction contre le rationa-
 lisme métaphysique et transcendant n'aura pas été stérile .
@@ -20648,9 +19540,7 @@ celle qui absorbe l'expérience dans un système rationnel ,
 qui achève l'intuition empirique et sensible, par l'organisa-
 tion logique, donne un système équivalent à la réalité .
 
-[p. 400]
-
-400
+[p. 400] 400
 CONSÉQUENCES PHILOSOPHIQUES .
 
 Hyperboliquement, d'autres peut-être
@@ -20671,9 +19561,7 @@ oiseuse .
 L'existence du monde est pour nous immanente à notre
 façon de le concevoir.
 
-[p. 401]
-
-PRÉFACE
+[p. 401] PRÉFACE
 
 TABLE DES MATIÈRES
 
@@ -20710,9 +19598,7 @@ III . [^p401-2]
 [^p401-1]: Généralités sur l'état de la physique contemporaine.
 [^p401-2]: La crise de la physique contemporaine. - 3. La question que l'état général de la physique contemporaine amène à poser : La physique est-elle une science objective ? Intérêt général de cette question. 15 . REY. 26
 
-[p. 402]
-
-CH.
+[p. 402] CH.
 I.
 
 PREMIÈRE
@@ -20802,9 +19688,7 @@ Pages
 
 40
 
-[p. 403]
-
-TABLE DES MATIÈRES .
+[p. 403] TABLE DES MATIÈRES .
 403
 
 II.
@@ -20894,9 +19778,7 @@ Pages
 [^p403-1]: Certaines expressions de Mach pourraient faire croire à une théorie sceptique.
 [^p403-2]: Ce serait une méprise : la foi de
 
-[p. 404]
-
-Mach en l'objectivité de la physique ; son scepticisme ne vise
+[p. 404] Mach en l'objectivité de la physique ; son scepticisme ne vise
 que la thèse particulière du mécanisme traditionnel
 III . - Partie négative (Suite).
 générale du mécanisme.
@@ -20972,9 +19854,7 @@ L'énergétique d'Ostwald.
 [^p404-4]: L'énergie est l'invariant universel,le fond commun et réel de toute sensation .
 [^p404-5]: L'objectivité de la physique énergé- tique d'Ostwald. Pages 76 78 87 118
 
-[p. 405]
-
-VI . - Conclusion . [^p405-1]. Objectivité de la physique.
+[p. 405] VI . - Conclusion . [^p405-1]. Objectivité de la physique.
 2. Son expérimentalisme.
 - 3. Adaptation de l'esprit aux choses .
 4. L'esprit de la
@@ -21056,9 +19936,7 @@ PRÉLIMINAIRES
 
 [^p405-1]: Le point de vue général qui caractérise cette attitude : Pas de propositions reconstitutives : indifférence envers la forme particulière de la théorie dans l'état actuel de la science ; aussi penchant vers la conservation des formes tra- ditionnelles , tant qu'il ne sera pas impossible de faire autre- Pages 124 126 137 140 160
 
-[p. 406]
-
-I.
+[p. 406] I.
 
 ment. On se bornera à en déterminer la valeur exacte, à n'être
 pas dupe des représentations théoriques . [^p406-2]. Point de départ
@@ -21131,9 +20009,7 @@ PRINCIPES
 [^p406-3]: Généralités : La difficulté soulevée par la physique mathé- matique : les deux termes physique et mathématique semblent incompatibles , d'après les prémisses posées . - 5. Comment elle est résolue . - 6. La nature des principes : Les principes de la physique mathématique sont, à un point de vue, des notions analogues aux notions mathématiques : le troisième genre d'hypothèses (les hypothèses qui ne pourront jamais être fausses) permet de soustraire la physique théorique à la revision continuelle de l'expérience, et de lui donner une rigueur et un aspect mathématiques . - 7. Mais , à un autre point de vue, ces principes psychologiquement se fondent sur l'expérience.
 [^p406-8]: En quel sens il faut entendre la « commo- dité » qui les a fait choisir, et la liberté de ce choix 177 189 190
 
-[p. 407]
-
-II .
+[p. 407] II .
 La validité des principes .
 avec la doctrine classique.
 
@@ -21204,9 +20080,7 @@ CONCLUSIONS RELATIVES A L'ÉCOLE CRITIQUE [^p407-1] [^p407-2] [^p407-4]
 [^p407-2]: Le maintien de l'esprit traditionnel de la physique moderne, en écartant sim- plement la valeur ontologique des théories physiques . La réalité des rapports et le règne de la quantité . d'ensemble . Pages 198 200 3.
 [^p407-4]: Vue 210 LIVRE IV Les continuateurs du mécanisme, les hypothèses figuratives CH. I. GÉNÉRALITÉS
 
-[p. 408]
-
-I.
+[p. 408] I.
 
 II.
 
@@ -21296,9 +20170,7 @@ Ils appellent nécessairement une substructure figurée.
 
 237
 
-[p. 409]
-
-Opposition , sur ce point, du mécanisme et des doctrines précé-
+[p. 409] Opposition , sur ce point, du mécanisme et des doctrines précé-
 demment
 examinées.
 Le
@@ -21407,9 +20279,7 @@ conceptuelles de l'énergétique .
 sur le mécanisme contemporain
 275
 
-[p. 410]
-
-DEUXIÈME PARTIE
+[p. 410] DEUXIÈME PARTIE
 CONSÉQUENCES PHILOSOPHIQUES
 
 LIVRE V
@@ -21489,11 +20359,7 @@ de la physique contemporaine
 CH. IV.
 ROLE ET PLACE DE L'HYPOTHÈSE
 
-[^p410-1]: Paradoxe : la physique ne veut être que le décalque de l'expérience , et jamais l'hypothèse n'y a eu un rôle plus Pages 307 319 329
-
-[p. 411]
-
-étendu .
+[^p410-1]: Paradoxe : la physique ne veut être que le décalque de l'expérience , et jamais l'hypothèse n'y a eu un rôle plus Pages 307 319 329 [p. 411] étendu .
 2. C'est que l'hypothèse et la liberté de Thypothèse
 sont un moment essentiel de la méthode expérimentale, et
 caractérisent l'attitude positive vis-à-vis de l'attitude dogma-
@@ -21557,9 +20423,7 @@ VALEUR DE SAVOIR DES SCIENCES PHYSICO-CHIMIQUES
 [^p411-4]: Vérification de cette assertion pour les physiciens contemporains ; a) Duhem ; b) Mach ; c) Poincaré ; d) Le mécanisme .
 [^p411-5]: Les physiciens contemporains s'accordent même à dire que la science phy- sique est la seule connaissance possible de la nature maté- rielle, quelle que soit sa relativité. La valeur pratique de la science ne peut que dériver de sa valeur théorétique et par suite la prouver. Pages 341 350 363
 
-[p. 412]
-
-CH.
+[p. 412] CH.
 VII .
 L'ACCORD
 DES

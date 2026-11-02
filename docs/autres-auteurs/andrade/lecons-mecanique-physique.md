@@ -30,9 +30,7 @@ Un système rigide peut être géométriquement représenté par trois droites p
 
 Le déplacement d'un point par rapport à un système rigide en tant que la situation du point est définie, à chaque instant de la durée, constitue le mouvement de ce point.
 
-[p. 2]
-
-REPÈRES DU MOUVEMENT.
+[p. 2] REPÈRES DU MOUVEMENT.
 
 Le mouvement est donc une notion essentiellement relative, et subordonnée à deux repères : 1º le repère géométrique, ou système rigide de comparaison ; 2º le repère dans ia durée, ou l'horloge.
 
@@ -52,19 +50,15 @@ d0
 
 Le système de coordonnées le plus apte à traduire l'addition géométrique des vecteurs est le système de coordonnées cartésiennes.
 
-[p. 3]
-
-Le système rigide est représenté par les trois arêtes d'un
+[p. 3] Le système rigide est représenté par les trois arêtes d'un
 
 Z trièdre trirectangle OX, ΟΥ, ΟΖ et la situation d'un point M par rapport à ce système, est défini par les projections du vecteur OM sur chacune des arêtes du
 
-#### M
 
 Y
 
 0
 
-#### X
 
 trièdre (axes de coordonnées). Ces projections sont, bien entendu, des droites dirigées et regardées comme positives ou négatives suivant que leurs directions sont celles des arêtes respectives du trièdre ou celles de leurs prolongements. Le trièdre une fois constitué et nommé, on peut associer à l'ordre alphabétique de la permutation des lettres x, y, z une « orientation du trièdre ».
 
@@ -78,9 +72,7 @@ Dans le cas de la figure, la poupée voit la rotation considérée s'effectuer d
 
 Dans le cas de la nouvelle figure ', où ZOX étant le plan du papier, l'axe OY vient en avant de la feuille, la rotation est contraire et dirigée de gauche à droite. On dit que la [^p3-1]
 
-[p. 4]
-
-REPÈRES DU MOUVEMENT.
+[p. 4] REPÈRES DU MOUVEMENT.
 
 figure 1 représente un système d'axes d'orientation directe, et la figure 2 un système d'axes d'orientation rétrograde.
 
@@ -92,7 +84,6 @@ lesquels on représente des rotations
 
 dans les formules.
 
-#### X
 
 Les trois coordonnées cartésiennes
 
@@ -116,7 +107,6 @@ suivante le système sphérique
 
 associé au trièdre OXYZ.
 
-#### M
 
 Adoptons l'axe des Z comme
 
@@ -130,7 +120,6 @@ point OXY et consiY
 
 dérons le vecteur Osa direcm
 
-#### X
 
 m
 
@@ -144,11 +133,7 @@ ZOM = 0 = angle polaire
 
 OMr
 
-distance Le passage des coordonnées sphériques aux coordonnées
-
-[p. 5]
-
-cartésiennes associées se fait au moyen des formules immédiates
+distance Le passage des coordonnées sphériques aux coordonnées [p. 5] cartésiennes associées se fait au moyen des formules immédiates
 
 x = r sin 0 cos
 
@@ -204,11 +189,7 @@ y ' = y cos a + z sin a
 
 y sin z + z cos a
 
-les coordonnées x ' et x sont d'ailleurs égales ;
-
-[p. 6]
-
-REPÈRES DU MOUVEMENT.
+les coordonnées x ' et x sont d'ailleurs égales ; [p. 6] REPÈRES DU MOUVEMENT.
 
 ainsi, on a, pour la transformation des coordonnées cartésiennes considérées,
 
@@ -268,7 +249,6 @@ Cμ =
 
 CC'= a
 
-#### C
 
 a B0
 
@@ -280,11 +260,7 @@ triangle sphérique A.B.C., dont les
 
 éléments sont représentés avec la notation
 
-Ao habituelle par A, B, C, a, b, c, on aura
-
-[p. 7]
-
-b -(180 ° — С)
+Ao habituelle par A, B, C, a, b, c, on aura [p. 7] b -(180 ° — С)
 
 ' = 90°
 
@@ -332,9 +308,7 @@ Les étoiles proprement dites jouent ici un rôle infiniment précieux ; grâce 
 
 Au point de vue géométrique, on peut dire que les étoiles définissent physiquement à chaque instant l'orientation invariable du trièdre de coordonnées de l'astronome. Elles fournissent des directions fixes approchées, les seules que l'on possédât jusqu'au jour où la mécanique céleste donna, par ses lois mêmes, le moyen de rattacher aux changements de la configuration intérieure du système solaire envisagé
 
-[p. 8]
-
-REPÈRES DU MOUVEMENT.
+[p. 8] REPÈRES DU MOUVEMENT.
 
 isolément la définition incessante de directions fixes absolues.
 
@@ -350,9 +324,7 @@ La première horloge seule se prête à une division indéfinie de la durée et 
 
 Soient sur une sphère, dont l'œil de l'observateur est
 
-[p. 9]
-
-LES le centre, M la perspective d'un astre, P le pôle (Nord) et y le point de l'équinoxe du
+[p. 9] LES le centre, M la perspective d'un astre, P le pôle (Nord) et y le point de l'équinoxe du
 
 printemps ;
 
@@ -360,7 +332,6 @@ les deux
 
 coorP
 
-#### M
 
 données angulaires du point M sont 7 PM=R, ascension droite comptée touY jours positive de 0° à 360 ° dans le sens direct autour de P, et l'angle au centre ô proportionnel à l'arc PM, compris entre 0° et 180 °, qui prend le nom de distance polaire de l'astre. R et 6 sont les coordonnées équatoriales.
 
@@ -376,7 +347,6 @@ A 1 ° L'angle
 
 IIM = L, longitude comptée de 0º à 360° dans le sens direct autour
 
-#### M
 
 3 de II de 0 ° à 360 ° ;
 
@@ -416,9 +386,7 @@ cosẞ + cos o sin & sin L
 
 sin ô cos R = sin ẞ cos L
 
-[p. 10]
-
-COORDONNÉES ASTRONOMIQUES.
+[p. 10] COORDONNÉES ASTRONOMIQUES.
 
 dans ces formules • désigne l'obliquité de l'écliptique, l'arc PП.
 
@@ -454,9 +422,7 @@ y
 
 tg x = X
 
-[p. 11]
-
-LES
+[p. 11] LES
 
 On sait que le système de coordonnées équatoriales et le système de coordonnées écliptiques ne sont pas rigoureusement fixes par rapport aux étoiles.
 
@@ -470,9 +436,7 @@ Adoptant ce nombre, Hipparque s'en servit pour prévoir d'après les observation
 
 Si le retour du soleil aux mêmes étoiles est possible, c'est que les étoiles gardent une situation invariable par rapport au pôle de l'écliptique.[^p11-1]
 
-[p. 12]
-
-LA PRÉCESSION.
+[p. 12] LA PRÉCESSION.
 
 Si donc on suppose avec Hipparque l'équateur fixe et le plan de l'écliptique fixe également, la précession de l'équinoxe égale à trois jours en 200 ans, ou à 0,015 par an, raccourcit l'année de 05, 015.
 
@@ -490,9 +454,7 @@ Le fait géométrique de la précession s'était encore révélé à Hipparque d
 
 En réalité, ce n'est pas seulement le plan de l'équateur terrestre dont l'orientation par rapport aux étoiles change lentement, mais progressivement ; l'écliptique lui-même
 
-[p. 13]
-
-LES représente un plan variable par rapport aux étoiles, mais ces changements étaient beaucoup trop faibles pour être aperçus d'Hipparque.
+[p. 13] LES représente un plan variable par rapport aux étoiles, mais ces changements étaient beaucoup trop faibles pour être aperçus d'Hipparque.
 
 Pour terminer avec ces généralités sur les principaux repères des mouvements des astres, nous rappellerons la définition de la durée du jour solaire moyen.
 
@@ -514,9 +476,7 @@ En d'autres termes
 
 86400 secondes de temps sidéral valent 86164 secondes de temps moyen. Nous verrons un peu plus loin que l'année sidérale est, sauf de petites fluctuations périodiques, constante, or le mouvement de précession n'étant pas constant et éprouvant de petites variations extrêmement lentes dont la mécanique céleste assigne la valeur, il en résulte que l'année tropique est variable, l'année tropique est aujourd'hui plus courte de 12 secondes environ que l'année tropique du temps d'Hipparque.
 
-[p. 14]
-
-LA PRÉCESSION.
+[p. 14] LA PRÉCESSION.
 
 Voilà ce que l'astronome aidé de la mécanique peut aujourd'hui affirmer.
 
@@ -552,9 +512,7 @@ soleil, mais qu'elle en était peu éloignée. Telle est l'hypothèse de l'excen
 
 Soient C le centre de l'orbite du soleil, supposée circulaire
 
-[p. 16]
-
-L'EXCENTRIQUE.
+[p. 16] L'EXCENTRIQUE.
 
 et parcourue uniformément, T la position de la terre, Tr et Cy ' deux droites parallèles dirigées vers la direction
 
@@ -628,11 +586,7 @@ p = 206265"
 
 e sin m
 
-1- ecos m
-
-[p. 17]
-
-ou, en négligeant des termes en e²,
+1- ecos m [p. 17] ou, en négligeant des termes en e²,
 
 p = 206265" e sin m
 
@@ -658,7 +612,6 @@ d'où, en ajoutant et remplaçant m par L. + nt
 
 ದ
 
-#### L
 
 Lo + nt + 206265 " e sin (L. + nt — ๘)
 
@@ -678,9 +631,7 @@ L = Lo + nt + 1 °56 ′ sin. (Lo + nt
 
 2
 
-[p. 18]
-
-L'EXCENTRIQUE.
+[p. 18] L'EXCENTRIQUE.
 
 1
 
@@ -736,11 +687,7 @@ Indiquons, d'abord, comment l'étude progressive des mouvements des planètes pe
 
 L'observation permet de saisir par interpolation
 
-les moments où les longitudes du soleil et de la planète étudiée ou bien sont égales, ou bien diffèrent de 180°. Ces moments que les astronomes s'attachaient à déterminer avec précision, se succèdent périodiquement à des intervalles de temps distants d'une durée égale à la révolution synodique
-
-[p. 19]
-
-de la planète. Si n'est le moyen mouvement de la planète et n le moyen mouvement connu de la terre dans son mouvement autour du soleil, tous les deux exprimés en degrés
+les moments où les longitudes du soleil et de la planète étudiée ou bien sont égales, ou bien diffèrent de 180°. Ces moments que les astronomes s'attachaient à déterminer avec précision, se succèdent périodiquement à des intervalles de temps distants d'une durée égale à la révolution synodique [p. 19] de la planète. Si n'est le moyen mouvement de la planète et n le moyen mouvement connu de la terre dans son mouvement autour du soleil, tous les deux exprimés en degrés
 
 360 par jour
 
@@ -776,9 +723,7 @@ et à chaque conjonction déduire de la latitude observable, vue de la terre, la
 
 ; or le triangle STP, donne de suite :
 
-[p. 20]
-
-OBSERVATIONS DES PLANÈTES.
+[p. 20] OBSERVATIONS DES PLANÈTES.
 
 Sin. (β΄ — β)
 
@@ -822,9 +767,7 @@ Il y parvint grâce à l'extrême attention qu'il accorda aux perturbations que 
 
 Le grand observateur danois découvrit aussi une inégalité importante du mouvement de la lune, mais c'est surtout par ses observations précises accumulées qu'il a servi la science ; il prépara les matériaux que l'audacieuse imagination de Képler allait utiliser.
 
-[p. 21]
-
-L'œuvre
+[p. 21] L'œuvre
 
 Képler n'avait pas, pour reconnaître la fausseté de la théorie de l'excentrique, le secours de la mesure plus moderne des diamètres apparents du soleil, mais fort heureusement les variations proportionnelles de distance de la terre au soleil sont notablement plus faibles que les variade Képler.
 
@@ -848,9 +791,7 @@ T
 
 S
 
-[p. 22]
-
-LOIS DE KÉPLER.
+[p. 22] LOIS DE KÉPLER.
 
 Or Képler reconnut qu'il était impossible de relier les positions diverses de P par une courbe circulaire.
 
@@ -866,9 +807,7 @@ Mais ce n'était là qu'un premier pas dans la connaissance théorique du mouvem
 
 Képler reconnut que les vitesses par jour en longitudes aux deux moments où Mars passe au périhélie et à l'aphélie (extrémités du grand axe de l'ellipse décrite) sont en raison inverse des carrés des distances au soleil de Mars à ces mêmes époques.
 
-[p. 23]
-
-Siretr ' sont ces distances et al et AL'ces vitesses en longitude, on a
+[p. 23] Siretr ' sont ces distances et al et AL'ces vitesses en longitude, on a
 
 ALAL
 
@@ -898,7 +837,6 @@ Un point M décrit une ellipse de manière que le rayon vecteur SM, qui joint le
 
 Po
 
-#### X
 
 S
 
@@ -918,7 +856,6 @@ solution
 
 que Képler
 
-#### M
 
 donna de ce problème avant l'apparition du calcul intégral :
 
@@ -926,9 +863,7 @@ ASoient P. la position de Mars au périhélie, v l'angle P.SM ou anomalie vraie,
 
 c = ae (e désigne l'excentricité de l'ellipse). Évaluons d'abord l'aire du secteur elliptique P.SM au moyen d'une variable convenable ; cette aire peut, comme on sait, être regardée comme la projection d'un secteur bordé par
 
-[p. 24]
-
-PROBLÈME DE KÉPLER.
+[p. 24] PROBLÈME DE KÉPLER.
 
 un arc de cercle ; décrivons sur le grand axe A.P. de l'ellipse comme diamètre une circonférence, et considérons un mobile M'se mouvant sur cette circonférence dans le même sens suivant lequel le point M décrit l'ellipse, ces deux points étant assujettis à avoir constamment une commune projection X sur A.P. ; envisageons l'aire du triangle mixtiligne ayant P.S et SM'comme côtés et l'arc de cercle P.M'comme base, si l'on fait tourner ce triangle autour de P.S et d'un angle & dont le cosinus égale le rapport du petit au grand axe de l'ellipse ou √1- e², ce triangle se projettera suivant l'aire du secteur elliptique cherchée ; celle-ci sera donc égale au produit de l'aire du triangle mixtiligne P.SM'par vie².
 
@@ -988,9 +923,7 @@ e sin unt
 
 qui porte le nom d'équation de Képler.
 
-[p. 25]
-
-Pour exprimer vetren fonction de u, rappelons une propriété bien connue de l'ellipse ; en désignant par z la projection de OM sur le vecteur OS, on a
+[p. 25] Pour exprimer vetren fonction de u, rappelons une propriété bien connue de l'ellipse ; en désignant par z la projection de OM sur le vecteur OS, on a
 
 r
 
@@ -1000,7 +933,6 @@ ex
 
 d'ailleurs
 
-#### X
 
 a cos u donc r = a (1 — e cos u) enfin l'équation polaire de l'ellipse
 
@@ -1062,9 +994,7 @@ résument la théorie du mouvement elliptique. C'est au moyen de ces formules qu
 
 Et c'est alors que, les ayant trouvées conformes aux observations, il annonça à l'empereur Rodolphe que Mars était enfin prisonnier sur parole. La loi des aires est générale et régit le mouvement elliptique de chaque planète, du moins à l'approximation nouvelle.
 
-[p. 26]
-
-TROISIÈME LOI DE KÉPLER.
+[p. 26] TROISIÈME LOI DE KÉPLER.
 
 La loi des aires justifie la correction empirique, signalée tout à l'heure, qui peut être faite à la théorie de l'excentrique. Soit compté le temps t à partir d'une époque quelconque ; négligeant e, on a, comme on l'a vu en nommant L, la longitude moyenne et L la longitude vraie,
 
@@ -1102,7 +1032,6 @@ la loi des aires donne alors
 
 d'où à cette approximation
 
-#### L
 
 Lo + nt + 2e sin (Lo + nt
 
@@ -1120,9 +1049,7 @@ est conforme à la correction empirique signalée plus haut.
 
 Dans le dernier ouvrage de Képler intitulé les Harmonies du Monde, et après des rêveries étranges on trouve une troisième loi qui fut le couronnement de l'œuvre de Képler.
 
-[p. 27]
-
-Les distances moyennes des diverses planètes au soleil sont proportionnellement les suivantes Mercure
+[p. 27] Les distances moyennes des diverses planètes au soleil sont proportionnellement les suivantes Mercure
 
 a = 0,39 Vénus
 
@@ -1184,9 +1111,7 @@ a
 
 = 29,46
 
-[p. 28]
-
-L'ACCÉLÉRATION.
+[p. 28] L'ACCÉLÉRATION.
 
 3
 
@@ -1204,7 +1129,6 @@ Considérons un mouvement décrit dans un certain système
 
 #### V
 
-#### M
 
 M'
 
@@ -1212,7 +1136,6 @@ P
 
 P
 
-#### D
 
 0
 
@@ -1224,9 +1147,7 @@ de coordonnées et devant une certaine horloge ; soit M la position actuelle à 
 
 Supposons que le vecteur MM'tende vers une direction
 
-[p. 29]
-
-MM'
+[p. 29] MM'
 
 dt
 
@@ -1246,9 +1167,7 @@ petit du temps dt, cela résulte immédiatement de la définition de la vitesse 
 
 Avant de retracer l'œuvre de Newton, observons déjà que la notion d'accélération est toute entière subordonnée
 
-[p. 30]
-
-ACCÉLÉRATION KÉPLÉRIENNE.
+[p. 30] ACCÉLÉRATION KÉPLÉRIENNE.
 
 au système de coordonnées et à l'horloge qui enregistrent le mouvement. Cette remarque a d'importantes conséquences, sur lesquelles je reviendrai plus loin.
 
@@ -1274,9 +1193,7 @@ encore rien au problème physique approximativement résolu par Kepler.
 
 Au contraire, lorsque Newton eut découvert le principe de l'égalité de l'action et de la réaction, une généralisation immédiate de l'accélération des mouvements Képlériens le conduisit à la découverte de l'attraction réciproque, qui reste encore aujourd'hui le dernier mot du physicien dans le problème des mouvements intérieurs du système solaire.
 
-[p. 31]
-
-Telles sont les découvertes mémorables qu'il nous reste à retracer.
+[p. 31] Telles sont les découvertes mémorables qu'il nous reste à retracer.
 
 Newton résolut d'abord la question suivante
 
@@ -1328,9 +1245,7 @@ a² (1 — e²)
 
 dès lors, menons par le second foyer un vecteur égal et parallèle à v ; puis, faisons tourner ce second vecteur
 
-[p. 32]
-
-LOI DE NEWTON.
+[p. 32] LOI DE NEWTON.
 
 d'un quadrant dans le sens RÉTROGRADE. Ce vecteur sera égal à
 
@@ -1412,9 +1327,7 @@ SA GRANDEUR EST DONC INVERSEMENT PROPORTIONNELLE AU CARRÉ DE LA DISTANCE DE LA 
 
 SOLEIL ; quant à la direction de l'accélération, nous savons qu'elle coïncide avec celle de la vitesse du point figuratif des vitesses ; or, cette dernière vitesse, après une rotation rétrograde d'un quadrant autour du second foyer, est devenue la vitesse circulaire du point H, perpendiculaire au rayon SH ; une rotation DIRECTE d'un quadrant autour du point H ramènera la vitesse du point figuratif à son orientation convenable ; on obtient alors la direction HS, pour direction de l'accélération cherchée de la planète P.
 
-[p. 33]
-
-LES
+[p. 33] LES
 
 Donc
 
@@ -1438,9 +1351,7 @@ Voyons maintenant sous l'influence de quelles idées Newton a pu corriger les lo
 
 3
 
-[p. 34]
-
-LA
+[p. 34] LA
 
 FORCE.
 
@@ -1464,9 +1375,7 @@ De plus, nous avons une idée à priori : c'est l'idée de l'indépendance des c
 
 Voici un wagon qui descend, lentement d'abord, une pente douce, plusieurs hommes s'opposent à son mouvement et le retiennent, ils ont chacun la sensation d'un effort isolé
 
-[p. 35]
-
-LES et ils diront instinctivement : notre effort total fait équilibre à la tendance que le wagon a à descendre.
+[p. 35] LES et ils diront instinctivement : notre effort total fait équilibre à la tendance que le wagon a à descendre.
 
 Où sera dans cette expérience si simple la mesure de l'effort individuel, et la mesure de l'effort collectif ? La notion de l'effort est-elle trop subjective, retenons le wagon au moyen d'un ressort tendu ou de plusieurs ressorts tendus ;
 
@@ -1482,9 +1391,7 @@ Nous reviendrons dans un autre chapitre sur les conditions multiples qu'implique
 
 Lorsque deux corps viennent à agir l'un sur l'autre par un contact, ils éprouvent là mutuellement des pressions qui sont égales et contraires.
 
-[p. 36]
-
-ACTIONS MUTUELLES PLANÉTAIRES.
+[p. 36] ACTIONS MUTUELLES PLANÉTAIRES.
 
 Tel est dans son cas le plus simple le principe de l'égalité de l'action et de la réaction. On va voir comment Newton l'a généralisé.
 
@@ -1510,11 +1417,7 @@ Newton admit, par voie de généralisation, que tous les éléments du système 
 
 Dans cette hypothèse soient x, y, z, les coordonnées cartésiennes absolues de la planète P₁ de masse m₁ ; soient x, y,
 
-j les coordonnées cartésiennes d'une autre planète [ij] de
-
-[p. 37]
-
-masse m ; enfin soient x, y。 こ。les coordonnées absolues du soleil et m. sa masse ; dans les idées de Newton, on aurait pour les équations des mouvements absolus de n planètes.
+j les coordonnées cartésiennes d'une autre planète [ij] de [p. 37] masse m ; enfin soient x, y。 こ。les coordonnées absolues du soleil et m. sa masse ; dans les idées de Newton, on aurait pour les équations des mouvements absolus de n planètes.
 
 X — X
 
@@ -1686,9 +1589,7 @@ dans lequel ne figurent que des coordonnées relatives au système de coordonné
 
 Telles sont les équations différentielles qui servent de point de départ à la mécanique céleste.
 
-[p. 38]
-
-PESANTEUR
+[p. 38] PESANTEUR
 
 UNIVERSELLE.
 
@@ -1714,9 +1615,7 @@ Voici la marche de ce mémorable calcul, fait aujourd'hui avec toute la précisi
 
 Certaines planètes ont des satellites qui circulent autour d'elles suivant les lois très approchées du mouvement elliptique, et qui reproduisent ainsi autour de la planète un petit monde en miniature, image du monde solaire.
 
-[p. 39]
-
-Notre terre a un satellite, c'est la lune ; si a est le demi grand axe de l'orbite lunaire parcourue pendant la période T, l'accélération produite par l'attraction de la terre à l'unité de distance est, comme on l'a vu,
+[p. 39] Notre terre a un satellite, c'est la lune ; si a est le demi grand axe de l'orbite lunaire parcourue pendant la période T, l'accélération produite par l'attraction de la terre à l'unité de distance est, comme on l'a vu,
 
 4π ' α³3
 
@@ -1774,9 +1673,7 @@ de l'égalité
 
 م • précédente suppose le système lune-terre soumis à la seule action mutuelle des deux astres ; en ce cas, comme le montrent les équations III (quand on y fait m₁ = 0) il faut compter comme masse attractive produisant le moyen
 
-[p. 40]
-
-PESANTEUR UNIVERSELLE.
+[p. 40] PESANTEUR UNIVERSELLE.
 
 mouvement lunaire, non pas seulement la masse de la terre, mais la somme des masses de la terre et de la lune. or la seconde est évaluée par les astronomes
 
@@ -1818,15 +1715,12 @@ L'accélération produite par le soleil sur un corps placé à la distance D. es
 
 l'accélération du soleil sur la lune
 
-#### M
 
 Do2 aux moments de la conjonction et de l'opposition est
 
 2
 
-#### M
 
-#### M
 
 el
 
@@ -1842,11 +1736,9 @@ la différence
 
 2
 
-#### M
 
 Do2
 
-#### M
 
 (D。
 
@@ -1866,7 +1758,6 @@ est sensiblement égale à
 
 a
 
-#### M
 
 Do
 
@@ -1874,11 +1765,7 @@ Do
 
 0
 
-0
-
-[p. 41]
-
-ainsi aux syzygies (conjonctions et oppositions) le soleil produit une diminution de la pesanteur de la lune vers la
+0 [p. 41] ainsi aux syzygies (conjonctions et oppositions) le soleil produit une diminution de la pesanteur de la lune vers la
 
 2 M
 
@@ -1886,7 +1773,6 @@ Do
 
 Do
 
-#### M
 
 Do
 
@@ -1964,9 +1850,7 @@ On substituera dans le premier membre de l'équation E T en secondes
 
 sur ce parallèle que la pesanteur dépouillée de la force
 
-[p. 42]
-
-PESANTEUR UNIVERSELLE.
+[p. 42] PESANTEUR UNIVERSELLE.
 
 centrifuge due à la rotation de la terre représente l'attraction d'une sphère homogène de rayon p. On a d'ailleurs
 
@@ -1998,11 +1882,7 @@ Mais nous arrêterons ici notre excursion sur le domaine astronomique.
 
 Il nous reste à apprécier l'influence que la découverte de l'attraction a exercée sur la mécanique générale.
 
-- Il est impossible de nier que les conceptions dyna
-
-[p. 43]
-
-miques de Galilée n'aient conduit Newton vers la découverte de l'attraction.
+- Il est impossible de nier que les conceptions dyna [p. 43] miques de Galilée n'aient conduit Newton vers la découverte de l'attraction.
 
 Mais si la notion de la force a joué un rôle historique dans cette mémorable découverte, il faut bien convenir que son rôle astronomique est purement cinématique.
 
@@ -2072,9 +1952,7 @@ Y
 
 d62
 
-[p. 45]
-
-LES
+[p. 45] LES
 
 On a d'ailleurs pour toute fonction u de t envisagée comme fonction de 6.
 
@@ -2178,9 +2056,7 @@ do
 
 d02
 
-[p. 46]
-
-CHANGEMENTS DE REPÈRES.
+[p. 46] CHANGEMENTS DE REPÈRES.
 
 Soit m la masse du point en mouvement, si la force motrice est F = mj sous la première horloge et o
 
@@ -2222,7 +2098,6 @@ Z
 
 S
 
-#### X
 
 S
 
@@ -2232,7 +2107,6 @@ position de O '. L'axe et
 
 0
 
-#### X
 
 la grandeur de cette rotation sont évidemment
 
@@ -2242,9 +2116,7 @@ indépendants du point
 
 O' choisi dans le corps
 
-[p. 47]
-
-S', puisque cette rotation définit le changement d'orientation du corps.
+[p. 47] S', puisque cette rotation définit le changement d'orientation du corps.
 
 On conclut de là que si l'on considère un point M'lié invariablement au système rigide S', la vitesse de ce point dans son mouvement par rapport à S est la somme géométrique de la vitesse du point o ' et de la vitesse du point M'entraîné dans la rotation. Si le point M', au lieu d'être lié invariablement au système rigide, est en mouvement relatif par rapport à ce système, il suffit d'imaginer que du temps t au temps t + dt sa trajectoire C'est entraînée avec S'et que le mobile M', d'abord maintenu fixe sur cette trajectoire, n'éprouve son déplacement relatif qu'après l'arrivée du système S'en sa seconde position ; de là résulte immédiatement que la vitesse du point mobile par rapport au système S est la somme géométrique de la vitesse d'entraînement du point M'(entraîné fixe sur S') et de sa vitesse relative.
 
@@ -2266,17 +2138,14 @@ B core
 
 l'accéléra-
 
-#### D
 
 tion de M'dans
 
 H son mouvement
 
-#### M
 
 A
 
-#### D
 
 par
 
@@ -2292,9 +2161,7 @@ sera
 
 commode, pour cette recherche, de rattacher l'accélération à la déviation, et considérant les déplacements entre les époques tett + dt infiniment voisines, de prendre pour point O '
 
-[p. 48]
-
-THÉORÈME DE CORIOLIS.
+[p. 48] THÉORÈME DE CORIOLIS.
 
 la position M'du mobile à l'époque t. Il s'agit de situer d'abord exactement le point mobile à l'époque t + dt. Et d'abord, nous allons situer exactement la trajectoire. Pour cela, donnons au système S'une TRANSLATION curviligne égale au déplacement continu M'N du point M'par rapport à S, la trajectoire M'C'vient alors en ND'; puis faisons tourner cette trajectoire autour de l'axe NI avec une vitesse angulaire convenable 2, elle viendra en NE ' ; soit, d'ailleurs, M'H ' le déplacement relatif de M', le point H ' vient en v après la première translation et de ven v ' après le second mouvement de rotation.
 
@@ -2314,9 +2181,7 @@ BH
 
 Hv + vv
 
-[p. 49]
-
-LES
+[p. 49] LES
 
 2 d'où, en multipliant par
 
@@ -2400,9 +2265,7 @@ v. sin a dt² Ω
 
 4
 
-[p. 50]
-
-L'ÉCOLE DU FIL.
+[p. 50] L'ÉCOLE DU FIL.
 
 2 vv' donc enfin la limite numérique de
 
@@ -2426,11 +2289,7 @@ Force motrice dans le système S = Force motrice dans le système S'+ mj + mjo
 
 Il y a en mécanique une seconde école que l'on pourrait appeler l'école statique ou des liaisons, ou encore l'école du fil
 
-Le point de vue préféré de cette école repose sur la conception de certains corps de masse négligeable envisagés à l'état de tension, c'est-à-dire capables d'acquérir une certaine forme et une certaine dimension, au-delà desquelles
-
-[p. 51]
-
-celles- ci ne varient plus que fort peu, mais servent à transmettre des efforts analogues à l'effort musculaire, et très considérables.
+Le point de vue préféré de cette école repose sur la conception de certains corps de masse négligeable envisagés à l'état de tension, c'est-à-dire capables d'acquérir une certaine forme et une certaine dimension, au-delà desquelles [p. 51] celles- ci ne varient plus que fort peu, mais servent à transmettre des efforts analogues à l'effort musculaire, et très considérables.
 
 Tel est un fil.
 
@@ -2450,9 +2309,7 @@ Pour rendre plus nette la réponse à cette question, revenons sur les définiti
 
 Elle pourrait modifier brusquement la vitesse et il y aurait
 
-[p. 52]
-
-L'ÉCOLE DU FIL.
+[p. 52] L'ÉCOLE DU FIL.
 
 alors lieu de distinguer entre une vitesse FINISSANTE et une vitesse COMMENÇANTE de valeurs inégales.
 
@@ -2486,11 +2343,7 @@ do
 
 2
 
-Y' — r = 0' — 3 (46)
-
-[p. 53]
-
-donc
+Y' — r = 0' — 3 (46) [p. 53] donc
 
 sauf l'introduction
 
@@ -2530,11 +2383,7 @@ intéressant d'observer que l'on peut donner une définition cinématique des ma
 
 Considérons deux corps solides de dimensions négligeables A et B, auxquels nous sommes libres de donner des impulsions et qui, abandonnés ensuite à eux-mêmes, ont un mouvement continu quelconque dans un certain système de coordonnées, nous pouvons disposer des impulsions initiales pour amener bientôt les corps à se choquer.
 
-L'expérience indique que lorsque les corps arrivent en contact avec des directions de vitesses qui amèneraient,
-
-[p. 54]
-
-UNE DÉFINITION DES MASSES.
+L'expérience indique que lorsque les corps arrivent en contact avec des directions de vitesses qui amèneraient, [p. 54] UNE DÉFINITION DES MASSES.
 
 si elles se maintenaient, une pénétration des masses, les deux corps éprouvent des changements de vitesse qui, dans un intervalle de temps assez court, si les corps restent en contact, sont très considérables par rapport aux effets que les autres causes ambiantes continues peuvent produire.
 
@@ -2566,9 +2415,7 @@ pour A et après le choc
 
 on verrait de même que Au ′ = レ
 
-[p. 55]
-
-le changement d'horloge ne change pas non plus la relation entre Au et Au', puisque la relation est homogène par rapport à Au et Au΄.
+[p. 55] le changement d'horloge ne change pas non plus la relation entre Au et Au', puisque la relation est homogène par rapport à Au et Au΄.
 
 Tout ceci suppose, par la continuité de W, que les systèmes de coordonnées soient simples spectateurs du choc, mais qu'ils n'y participent pas.
 
@@ -2586,9 +2433,7 @@ Si on adopte l'horloge absolue dont il a été question plus haut, le coefficien
 
 - Si l'on rapproche la définition cinématique des masses de la définition classique, on voit qu'on les conciliera en admettant que le choc des deux corps développe des actions mutuelles qui, agissant pendant chaque élément infiniment
 
-[p. 56]
-
-LES LIAISONS.
+[p. 56] LES LIAISONS.
 
 petit dt de la durée courte mais finie du choc, sont deux à deux égales et contraires. C'est le postulat de l'égalité de l'action et de la réaction sous sa forme la plus simple : la pression mutuelle de deux corps en contact.
 
@@ -2602,11 +2447,7 @@ De même que la découverte de l'attraction est l'œuvre d'un géomètre éminem
 
 S'il est possible de reconstituer la réalité par des abstractions isolées, nous devons, dans la méthode de Lagrange, nous représenter l'univers physique comme le résultat de la fusion de ces éléments abstraits : la masse, la force et les liaisons de positions.
 
-Sans doute, on peut, et c'est là une idée de Poisson, remplacer toutes les liaisons par des forces, appliquées à des points matériels libres, mais alors la force sans l'appui des liaisons n'a plus que la définition cinématique dont on a parlé plus haut, et pour lui donner un appui sûr, on fait appel à l'existence de l'espace absolu dans lequel le mou
-
-[p. 57]
-
-vement naturel des corps serait un mouvement rectiligne, qui, devant une horloge absolue, serait uniforme.
+Sans doute, on peut, et c'est là une idée de Poisson, remplacer toutes les liaisons par des forces, appliquées à des points matériels libres, mais alors la force sans l'appui des liaisons n'a plus que la définition cinématique dont on a parlé plus haut, et pour lui donner un appui sûr, on fait appel à l'existence de l'espace absolu dans lequel le mou [p. 57] vement naturel des corps serait un mouvement rectiligne, qui, devant une horloge absolue, serait uniforme.
 
 Au contraire la force subordonnée aux liaisons et à la plus simple d'entre elles la liaison fil représente une réalité (au moins approximative) et qui subsiste indépendamment de toute hypothèse sur le mouvement naturel des corps libres.
 
@@ -2630,9 +2471,7 @@ général
 
 de l'équilibre. des liaisons, c'est-à-dire dont les déplacements sont dans une dépendance connue, trouver les conditions de l'équilibre
 
-[p. 58]
-
-ÉQUILIBRE SUR UN CORPS RIGIDE.
+[p. 58] ÉQUILIBRE SUR UN CORPS RIGIDE.
 
 de plusieurs forces données appliquées en ces points.
 
@@ -2646,11 +2485,7 @@ Nous entendrons par liaison des points M dans le système S une dépendance entr
 
 Au lieu de prendre sur chaque point M une force de grandeur et de direction constantes, on peut concevoir une force qui varie d'une manière continue avec la position du point M à l'égard du système S.
 
-Qu'on adopte l'un ou l'autre point de vue, dans tous les cas d'équilibre réalisables pour des solides naturels ayant des dimensions comparables dans tous les sens, on constate après l'application des forces une légère déformation et quelquefois un léger déplacement par rapport aux appuis, en sorte que la forme d'équilibre réalisée est un peu différente de celle qui était d'abord essayée, et cela par le
-
-[p. 59]
-
-jeu des liaisons ou des forces moléculaires, mais ce qu'on peut affirmer, c'est que, dans la position d'équilibre définitive, si on vient à rigidifier le corps, les forces appliquées devront
+Qu'on adopte l'un ou l'autre point de vue, dans tous les cas d'équilibre réalisables pour des solides naturels ayant des dimensions comparables dans tous les sens, on constate après l'application des forces une légère déformation et quelquefois un léger déplacement par rapport aux appuis, en sorte que la forme d'équilibre réalisée est un peu différente de celle qui était d'abord essayée, et cela par le [p. 59] jeu des liaisons ou des forces moléculaires, mais ce qu'on peut affirmer, c'est que, dans la position d'équilibre définitive, si on vient à rigidifier le corps, les forces appliquées devront
 
 satisfaire aux conditions d'équilibre
 
@@ -2674,9 +2509,7 @@ résistant,
 
 on pourra supprimer sur chaque point en équilibre tout système de forces séparément en équilibre sur ce point.
 
-[p. 60]
-
-POSTULATS DE LA STATIQUE.
+[p. 60] POSTULATS DE LA STATIQUE.
 
 Sous le bénéfice de cette remarque on voit immédiatement que le principe peut être encore étendu.
 
@@ -2698,9 +2531,7 @@ Troisième postulat.
 
 Si deux forces non nulles se font équilibre sur un corps rigide libre, elles ont même ligne d'action et sont égales et contraires.
 
-[p. 61]
-
-Quatrième postulat. Étant données deux forces concourantes non en équilibre APPLIQUÉES A UN MÊME POINT MATÉRIEL, il existe toujours une force capable de leur faire équilibre ; la force égale et directement contraire à celle-ci porte le nom de résultante des deux premières.
+[p. 61] Quatrième postulat. Étant données deux forces concourantes non en équilibre APPLIQUÉES A UN MÊME POINT MATÉRIEL, il existe toujours une force capable de leur faire équilibre ; la force égale et directement contraire à celle-ci porte le nom de résultante des deux premières.
 
 107
 
@@ -2720,25 +2551,20 @@ la composition de deux forces est invariante et continue.
 
 Le cinquième postulat montre que la résultante de deux forces égales est dirigé dans leur plan suivant la bissec
 
-[p. 62]
-
-PARALLELOGRAMME DES FORCES.
+[p. 62] PARALLELOGRAMME DES FORCES.
 
 trice de leur angle. On conclut de là un théorème bien connu que nous allons rappeler. Observons d'abord que si on applique suivant les quatre côtés d'un losange des forces égales agissant suivant ces côtés mais deux à deux parallèles et de sens contraire ce système de quatre forces est en équilibre.
 
 Considérons ensuite deux forces commensurables Fet
 
-#### C
 
 C2
 
 A
 
-#### C
 
 ←
 
-#### D
 
 B
 
@@ -2746,11 +2572,7 @@ F ' et soient AB, AC les vecteurs qui les représentent dont les longueurs sont 
 
 Remplaçons d'abord les forces données par leur commune mesure appliquée successivement en AB, BB, AC₁, CC2, C₂C.
 
-Ajoutons sur les côtés de chaque losange les forces tracées sur la figure et dont chaque groupe ponctué à l'intérieur d'un losange est en équilibre. Soit R la résultante des forces AB, AC. Considérons alors l'équilibre au point A des trois forces F, F ', — R. Mais le système des deux forces données ainsi complété par les forces au losange admet d'autres
-
-[p. 63]
-
-groupes de forces en équilibre, ce sont, en outre de la force — R, les forces qui agissent sur un côté commun à deux losanges ou suivant les portions des côtés AB, AC.
+Ajoutons sur les côtés de chaque losange les forces tracées sur la figure et dont chaque groupe ponctué à l'intérieur d'un losange est en équilibre. Soit R la résultante des forces AB, AC. Considérons alors l'équilibre au point A des trois forces F, F ', — R. Mais le système des deux forces données ainsi complété par les forces au losange admet d'autres [p. 63] groupes de forces en équilibre, ce sont, en outre de la force — R, les forces qui agissent sur un côté commun à deux losanges ou suivant les portions des côtés AB, AC.
 
 Ces forces constituent des groupes supprimables conformément au postulat 2, et il ne reste finalement que les forces ponctuées agissant suivant les côtés BD et CD, lesquelles peuvent toutes être appliquées au point D.
 
@@ -2764,11 +2586,9 @@ Le postulat de continuité étend cette conclusion au cas où les deux forces Fe
 
 teurs, signes représenA
 
-#### C
 
 F tatifs des deux forces pris comme côtés contigus.
 
-#### D
 
 On sait alors comment le théorème peut se compléter. Soit AE pris sur la diagonale AD ou
 
@@ -2776,9 +2596,7 @@ On sait alors comment le théorème peut se compléter. Soit AE pris sur la diag
 
 B
 
-[p. 64]
-
-COMPOSITION ANALYTIQUE.
+[p. 64] COMPOSITION ANALYTIQUE.
 
 tion de la force
 
@@ -2794,7 +2612,6 @@ Car soit XY une première solution et X'Y ' une seconde
 
 X'
 
-#### X
 
 Y
 
@@ -2802,11 +2619,7 @@ Y solution, si
 
 et
 
-sont différents, on verra sans difficulté
-
-[p. 65]
-
-que le groupe de forces X, Y et le groupe de forces X ', Y ' ne saurait avoir des résultantes dirigées suivant la même
+sont différents, on verra sans difficulté [p. 65] que le groupe de forces X, Y et le groupe de forces X ', Y ' ne saurait avoir des résultantes dirigées suivant la même
 
 X' = Y'
 
@@ -2864,9 +2677,7 @@ F (a) R
 
 5
 
-[p. 66]
-
-COMPOSITION ANALYTIQUE.
+[p. 66] COMPOSITION ANALYTIQUE.
 
 la résultante des forces R, et R, peut se trouver d'une première manière et dirigée suivant la bissectrice des axes Ox et oY, elle aura pour valeur
 
@@ -2910,9 +2721,7 @@ Faisons x = y on trouve alors
 
 g (2x) + 1 = 2 g² (x)
 
-[p. 67]
-
-π Six est compris entre O et, et si on admet que g (x)
+[p. 67] π Six est compris entre O et, et si on admet que g (x)
 
 est positif, cette équation mise sous la forme
 
@@ -2968,9 +2777,7 @@ car l'équation fonctionnelle (E) appartient aussi à la fonction cos x, d'aille
 
 2
 
-[p. 68]
-
-COMPOSITION ANALYTIQUE.
+[p. 68] COMPOSITION ANALYTIQUE.
 
 g (x) et cos (x) limite des quantités égales
 
@@ -3016,11 +2823,7 @@ La résultante R des deux forces rectangulaires X et Y est donc la diagonale du 
 
 La résultante de deux forces quelconques s'en déduit, car considérons dans le plan des deux forces un système d'axes Ox et Oy, soit F la première force représentée par ses projections X et Y, qui sont aussi ses composantes suivant les axes, et soit F ' la seconde force représentée par ses projections X ', Y', qui sont aussi ses composantes X ' Y'.
 
-Les deux forces Fet F ' équivalent aux quatre forces Xet X ', Yet Y', car les deux premières dirigées suivant l'axe des X ont pour résultante X + X' et les deux dernières ont pour résultante Y + Y' ; la résultante des deux
-
-[p. 69]
-
-forces Fet F ' a donc pour composantes et AUSSI pour projections suivant les axes X + X ', Y + Y '.
+Les deux forces Fet F ' équivalent aux quatre forces Xet X ', Yet Y', car les deux premières dirigées suivant l'axe des X ont pour résultante X + X' et les deux dernières ont pour résultante Y + Y' ; la résultante des deux [p. 69] forces Fet F ' a donc pour composantes et AUSSI pour projections suivant les axes X + X ', Y + Y '.
 
 Mais le vecteur qui a pour projections suivant les axes X + X ' et Y + Y' est la diagonale du parallélogramme construit sur Fet F ' comme côtés contigus.
 
@@ -3054,9 +2857,7 @@ Supposons de plus que l'opération exprimée par le symbole + jouisse des propri
 
 3º Elle est continue, c'est-à-dire que si ɛ désigne un
 
-[p. 70]
-
-LES MOUFLES.
+[p. 70] LES MOUFLES.
 
 vecteur dont la longueur tend vers zéro et les deux vecteurs A et A + = dont les directions font un angle & et si A + ε = α.
 
@@ -3072,11 +2873,7 @@ Un moufle théorique se compose de deux châssis, l'un fixe A, l'autre mobile B 
 
 il est d'ailleurs fixé sur la première poulie A ou s'enroule avant d'embrasser celle-ci sur des poulies fixes g, g, d'où il peut se rattacher à la dernière poulie du châssis supérieur d'un moufle antérieur et ainsi de suite jusqu'au premier moufle de la série.
 
-Chacun des moufles peut supporter en son milieu un poids Q qu'il est facile de calculer. Soit n le nombre des poulies de B. Coupons le système des fils par un plan XY
-
-[p. 71]
-
-et considérons le châssis mobile et ses fils de support arrêtés à ce plan ; si on néglige les poids des fils, le châssis supérieur sera supporté par 2n tensions Tégales à P. La théorie des forces parallèles donne immédiatement 2nT = Q, et comme T = P (en négligeant le poids des fils) 2nP = Q.
+Chacun des moufles peut supporter en son milieu un poids Q qu'il est facile de calculer. Soit n le nombre des poulies de B. Coupons le système des fils par un plan XY [p. 71] et considérons le châssis mobile et ses fils de support arrêtés à ce plan ; si on néglige les poids des fils, le châssis supérieur sera supporté par 2n tensions Tégales à P. La théorie des forces parallèles donne immédiatement 2nT = Q, et comme T = P (en négligeant le poids des fils) 2nP = Q.
 
 A
 
@@ -3092,11 +2889,9 @@ A
 
 9
 
-#### C
 
 Y
 
-#### X
 
 B
 
@@ -3120,9 +2915,7 @@ liaisons.
 
 équilibre que si chacun des points est lui-même en équilibre, ce qui exige que chaque résultante R soit nulle.
 
-[p. 72]
-
-LE TRAVAIL VIRTUEL.
+[p. 72] LE TRAVAIL VIRTUEL.
 
 Il n'en est plus de même si les points sont soumis à des liaisons.
 
@@ -3140,9 +2933,7 @@ Si un système n'est pas à liaisons complètes on peut, en renforçant des liai
 
 Considérons un système de points à liaisons complètes et supposons qu'un déplacement suffisamment petit de l'ensemble de ces points soit géométriquement possible et supposons d'abord que les forces se réduisent à une seule TANGENTE A LA TRAJECTOIRE et dans le sens d'un déplacement POSSIBLE ; nous posons en principe que l'équilibre ne saurait alors avoir lieu. Si au contraire il s'exerce en sens inverse du seul déplacement possible, l'équilibre aura lieu, nous l'admettons.
 
-[p. 73]
-
-Envisageons maintenant un système de points à liaisons complètes, soumis à des forces quelconques, nous pouvons supprimer toutes les forces et remplacer chaque force par un fil passant sur des poulies de renvoi convenablement placées, et attaché au châssis inférieur d'un moufle spécial au point considéré.
+[p. 73] Envisageons maintenant un système de points à liaisons complètes, soumis à des forces quelconques, nous pouvons supprimer toutes les forces et remplacer chaque force par un fil passant sur des poulies de renvoi convenablement placées, et attaché au châssis inférieur d'un moufle spécial au point considéré.
 
 Le
 
@@ -3164,13 +2955,10 @@ a
 
 α
 
-#### M
 
 M'
 
-[p. 74]
-
-LE TRAVAIL VIRTUEL.
+[p. 74] LE TRAVAIL VIRTUEL.
 
 inférieur relié à M s'élève donc de ds cos & et le fil de support à 2n brins qui relient les deux châssis glisse sur lui-même de la quantité
 
@@ -3196,11 +2984,7 @@ Si le système n'est pas à liaisons complètes, la condition trouvée est évid
 
 Montrons que la condition est encore suffisante.
 
-En effet, si les liaisons sont incomplètes et qu'un mouvement se produise on peut toujours compléter les liaisons de manière à rendre le système à liaisons complètes, tout en permettant le mouvement en question, les liaisons surajoutées n'auront aucune fatigue et le même mouve
-
-[p. 75]
-
-ment se produira, on aurait donc un déplacement élémentaire défini dans lequel le travail total serait négatif, ce qui correspondrait à un mouvement de remonte du poids, dans la réalisation des forces par le système de moufles de Lagrange.
+En effet, si les liaisons sont incomplètes et qu'un mouvement se produise on peut toujours compléter les liaisons de manière à rendre le système à liaisons complètes, tout en permettant le mouvement en question, les liaisons surajoutées n'auront aucune fatigue et le même mouve [p. 75] ment se produira, on aurait donc un déplacement élémentaire défini dans lequel le travail total serait négatif, ce qui correspondrait à un mouvement de remonte du poids, dans la réalisation des forces par le système de moufles de Lagrange.
 
 Lorsque le système est à liaisons renversables, on peut imaginer deux systèmes de déplacements infiniment petits, égaux et contraires pour lesquels le travail virtuel prenant des valeurs égales et de signes contraires, devrait rester nul ou négatif, il est donc nul.
 
@@ -3216,9 +3000,7 @@ Rapportons
 
 les forces à un système de coordonnées cartésien orthogonal et cherchons la somme des travaux virtuels des forces relativement à un déplacement quelconque du solide.
 
-[p. 76]
-
-ÉQUILIBRE DU CORPS RIGIDE.
+[p. 76] ÉQUILIBRE DU CORPS RIGIDE.
 
 Le travail de la force F relative à un déplacement qui a pour projections δα, δι, δz sera, dans le système de coordonnées employé, et d'après la remarque de tout à l'heure
 
@@ -3268,11 +3050,7 @@ ce qui réduit la partie correspondante du travail virtuel à Χξ.
 
 Le travail est une expression linéaire des w et des
 
-; en égalant à zéro les coefficients de ces variables qui sont
-
-[p. 77]
-
-indépendantes pour un solide libre on aura exprimé le principe du travail virtuel appliqué à ce corps.
+; en égalant à zéro les coefficients de ces variables qui sont [p. 77] indépendantes pour un solide libre on aura exprimé le principe du travail virtuel appliqué à ce corps.
 
 On déduit de là pour les conditions d'équilibre d'un corps solide libre
 
@@ -3310,9 +3088,7 @@ De la manière la plus générale, on peut concevoir la liaison entre plusieurs 
 
 Considérons donc un système de points soumis à des
 
-[p. 78]
-
-PRINCIPE DE D'ALEMBERT.
+[p. 78] PRINCIPE DE D'ALEMBERT.
 
 liaisons quelconques et actuellement en mouvement continu : les liaisons sont respectées, chaque point a une vitesse et une accélération bien définies à l'époque t, ce qui veut dire, comme on l'a déjà dit, que ces quantités existent et ont mêmes valeurs, soit qu'on considère une courte durée qui précède l'instant actuel, soit qu'on considère une courte durée qui soit cet instant.
 
@@ -3336,9 +3112,7 @@ l'autre que nous nommons la déviation perdue. Considérons les forces qui, sur 
 
 Elle est bien perdue.
 
-[p. 79]
-
-Or, d'Alembert regarde comme évident que lorsque tend vers zéro, les forces perdues tendent vers une limite que nous appellerons les forces perdues actuelles et que ces forces doivent se faire équilibre sur le système à liaisons statiques
+[p. 79] Or, d'Alembert regarde comme évident que lorsque tend vers zéro, les forces perdues tendent vers une limite que nous appellerons les forces perdues actuelles et que ces forces doivent se faire équilibre sur le système à liaisons statiques
 
 définies
 
@@ -3362,11 +3136,7 @@ Gauss a réuni les deux principes dans un énoncé qui résume de la manière la
 
 Soit AMB la trajectoire naturelle du point M faisant partie du système à liaisons, la trajectoire véritable n'existant réellement qu'en AM ; nous faisons agir entre les époques tett +
 
-la force F. La trajectoire AM va se continuer non plus par la courbe MB, mais par la courbe MC,
-
-[p. 80]
-
-THÉORÈME DE GAUSS.
+la force F. La trajectoire AM va se continuer non plus par la courbe MB, mais par la courbe MC, [p. 80] THÉORÈME DE GAUSS.
 
 tangente en A à la première ; soient, à l'époque t + 0, M'' la vraie position du point Met M'la position qu'il aurait dans le mouvement prolongé.
 
@@ -3406,11 +3176,7 @@ donc, en vertu de l'équation F,
 
 ΣΜΡΗ > ΣΜΜ΄΄Η
 
-Si on compare les positions des points en vertu des liaisons en Pet les positions H où ils seraient venus sous
-
-[p. 81]
-
-2 l'action des forces données s'ils
+Si on compare les positions des points en vertu des liaisons en Pet les positions H où ils seraient venus sous [p. 81] 2 l'action des forces données s'ils
 
 étaient libres de toute liaison, on peut appeler avec Gauss, la somme Em PH², la contrainte du système, on aura donc ce théorème :
 
@@ -3442,9 +3208,7 @@ Considérons dans un système de repères donné un ensemble de points matériel
 
 6
 
-[p. 82]
-
-POSTULAT DE D'ALEMBERT.
+[p. 82] POSTULAT DE D'ALEMBERT.
 
 moyen de prédire l'accélérationj de chacun de ces points en fonction de sa vitesse V, du temps t et des positions de ce point par rapport à d'autres, et par rapport au système et en fonction de certains paramètres physiques dont la dépendance avec le mouvement du corps est supposée connue par l'expérience.
 
@@ -3454,11 +3218,7 @@ Pendant le choc nous avons vu que les variations brusques de vitesses sont régi
 
 Nous n'avons aucune preuve d'un pareil fait, dont nous ne doutons guère cependant.
 
-De même quand nous admettons qu'un fil après avoir
-
-[p. 83]
-
-modifié le mouvement d'un corps ne modifie pas la relation fonctionnelle, dont on parlait plus haut, entre les accélérations des corps en présence, supposés libres, leurs vitesses et certaines variables physiques définissables ; nous n'en avons aucune preuve directe ; si la tension du fil a agi à l'époque t, une fois son effet produit, elle ne modifie plus le cours naturel des choses.
+De même quand nous admettons qu'un fil après avoir [p. 83] modifié le mouvement d'un corps ne modifie pas la relation fonctionnelle, dont on parlait plus haut, entre les accélérations des corps en présence, supposés libres, leurs vitesses et certaines variables physiques définissables ; nous n'en avons aucune preuve directe ; si la tension du fil a agi à l'époque t, une fois son effet produit, elle ne modifie plus le cours naturel des choses.
 
 Mais alors une question se pose : y a-t-il une relation nécessaire entre l'accélération naturelle J du point supposé libre et l'accélération j qu'il prend en vertu de liaisons connues ; évidemment oui ! Nous supposons, bien entendu, ces liaisons incapables de modifier le cours naturel des choses actuel, c'est-à-dire la relation qui existe entre les éléments du mouvement, positions, vitesses, accélérations et certaines variables physiques que nous supposons non modifiées par les liaisons.
 
@@ -3472,9 +3232,7 @@ T'= m X (J -- j)
 
 L'ensemble des forces T'doit se faire équilibre sur les liaisons, car autrement elles auraient communiqué à l'un au moins des corps du système une nouvelle poussée.
 
-[p. 84]
-
-POSTULAT DE D'ALEMBERT.
+[p. 84] POSTULAT DE D'ALEMBERT.
 
 On peut encore dire que les réactions exercées par des liaisons réversibles sont toujours des forces qui forment un système en équilibre sur ces liaisons.
 
@@ -3492,9 +3250,7 @@ Le principe de d'Alembert peut être appliqué pendant tout le cours du mouvemen
 
 Le cours naturel des choses dans les phénomènes de pesanteur, c'est que l'accélération de tout corps libre dans sa chute libre rectiligne ou non est constante et égale à g, dirigée suivant la verticale. Adoptons cet état naturel de mouvement d'un corps libre et supposons que plusieurs points liés entre eux d'une manière invariable forment un corps rigide mobile en toute liberté autour d'un axe horizontal, le seul mouvement possible d'un point du corps de masse mest un mouvement circulaire autour de l'axe.
 
-[p. 85]
-
-Cherchons l'accélération réelle d'un point dans un mouvement circulaire. Rappelons-nous la définition de l'accélération.
+[p. 85] Cherchons l'accélération réelle d'un point dans un mouvement circulaire. Rappelons-nous la définition de l'accélération.
 
 Par un point I, menons à chaque instant un vecteur IA représentatif de la vitesse de M ; et cherchons la vitesse du point figuratif A ; nous savons que cette vitesse sera l'accélération de M ;
 
@@ -3534,9 +3290,7 @@ dw
 
 Emgx — Emr2 dt
 
-[p. 86]
-
-MOUVEMENT PRODUCTEUR DE FORCE.
+[p. 86] MOUVEMENT PRODUCTEUR DE FORCE.
 
 d'ailleurs, si čest la valeur de x relative au centre de gravité G du corps de masse totale M.
 
@@ -3566,11 +3320,7 @@ On voit nettement par cet exemple que le principe de d'Alembert n'est intervenu 
 
 Au point de vue expérimental, nous regardons les solides naturels comme des assemblages de particules situées à des distances peu variables les unes des autres ; or, dans la pure statique du corps rigide, nous avons regardé comme supprimable toute paire de forces égales et con Cas où un mouvement produit de la force.
 
-traires ayant même ligne d'action ; l'expérience conduit à modifier sensiblement ce point de vue ; elle nous conduit à nous préoccuper des surfaces sur lesquelles des forces, tensions ou pressions se répartissent, et une paire de forces
-
-[p. 87]
-
-du genre de celles dont on vient de parler n'est supprimable que si les tensions, par unité de surface, ne dépassent pas une limite donnée et si les pressions (obliques ou normales) exercées à la surface du corps et rapportées en chaque élément à l'unité de surface ne dépassent pas certaines valeurs que l'expérience indique. Ces tensions, ces pressions n'ont pas besoin, pour le moment, d'être définies avec précision, car nous reviendrons, par la suite, sur ces considérations ; je veux seulement indiquer pour le moment comment certains mouvements imposés peuvent produire à l'intérieur d'un solide naturel de nouveaux efforts élastiques.
+traires ayant même ligne d'action ; l'expérience conduit à modifier sensiblement ce point de vue ; elle nous conduit à nous préoccuper des surfaces sur lesquelles des forces, tensions ou pressions se répartissent, et une paire de forces [p. 87] du genre de celles dont on vient de parler n'est supprimable que si les tensions, par unité de surface, ne dépassent pas une limite donnée et si les pressions (obliques ou normales) exercées à la surface du corps et rapportées en chaque élément à l'unité de surface ne dépassent pas certaines valeurs que l'expérience indique. Ces tensions, ces pressions n'ont pas besoin, pour le moment, d'être définies avec précision, car nous reviendrons, par la suite, sur ces considérations ; je veux seulement indiquer pour le moment comment certains mouvements imposés peuvent produire à l'intérieur d'un solide naturel de nouveaux efforts élastiques.
 
 Considérons d'abord un certain système de repères où les particules libres aient un mouvement naturel connu, dont le déterminisme pourrait, à la rigueur, dépendre d'autres particules ; supposons que ces mêmes particules, au lieu d'être isolées, soient assemblées pour former les éléments d'un solide naturel, le principe de d'Alembert permettra de former les équations du mouvement du solide, exactement comme nous l'avons fait pour le pendule composé, les forces efficaces ne fatiguent pas les liaisons, la fatigue des liaisons proviendra uniquement des forces perdues.
 
@@ -3582,9 +3332,7 @@ Le principe du travail virtuel élimine ces liaisons, et il faut des hypothèses
 
 C'est ainsi que la statique du corps rigide ayant pour premier soin d'éliminer les tensions mutuelles intérieures par
 
-[p. 88]
-
-PENDULE.
+[p. 88] PENDULE.
 
 le premier de ses postulats ne saurait rien apprendre sur celles-ci qui dépendent de la théorie de l'élasticité. Il nous suffit de considérer l'équilibre puisque le principe de d'Alembert ramène précisément la recherche du mouvement à la considération d'un certain équilibre auxiliaire.
 
@@ -3602,9 +3350,7 @@ Fz, F, + mo²r, F, — mr dt
 
 et ce qu'il importe de considérer dans l'équilibre élastique à l'intérieur du corps ce sont les fatigues produites par ces forces perdues sur les différents points intérieurs du corps.
 
-[p. 89]
-
-Dans le cas simple du mouvement uniforme les composantes se réduisent à
+[p. 89] Dans le cas simple du mouvement uniforme les composantes se réduisent à
 
 Fz, F, + mw²r, Fi
 
@@ -3618,9 +3364,7 @@ Il est important de nous rappeler que les forces perdues sont indépendantes des
 
 Cette remarque suffit à la mécanique industrielle. Ainsi considérons le système d'un corps qui tourne sur ses appuis, uniformément autour d'un axe, les fatigues des liaisons proviendraient des forces F,, F, + mo'r, F., mais celles-ci ne dépendent nullement des repères géométriques auxquels il nous plaît de rapporter le mouvement. Il y aura lieu de tenir compte des forces perdues non seulement pour le corps qui tourne, mais pour ses appuis.
 
-[p. 90]
-
-FORCE CENTRIFUGE.
+[p. 90] FORCE CENTRIFUGE.
 
 Pour achever cette analyse de la notion de la force centrifuge, étudions et comparons les réactions qu'un corps entraîné dans un mouvement de rotation éprouve : 1º dans le cas où il est à une distance invariable de l'axe ; 2° dans le cas où il pourrait glisser librement sur une barre qui rencontre l'axe perpendiculairement.
 
@@ -3658,11 +3402,7 @@ Calculons la réaction mR de la barre sur le point, soient R, et R, les projecti
 
 de l'axe de rotation.
 
-Exprimons l'équilibre du point libre sous l'influence des réactions de la barre et de la force perdue, qui a pour composantes, suivant les directions n, t, 2,
-
-[p. 91]
-
-mo²r + Jn
+Exprimons l'équilibre du point libre sous l'influence des réactions de la barre et de la force perdue, qui a pour composantes, suivant les directions n, t, 2, [p. 91] mo²r + Jn
 
 do
 
@@ -3724,9 +3464,7 @@ dt
 
 S = R
 
-[p. 92]
-
-INVARIANCE DES RÉACTIONS.
+[p. 92] INVARIANCE DES RÉACTIONS.
 
 Deux des composantes des réactions sont égales, l'une d'elles est précisément la force centrifuge.
 
@@ -3752,9 +3490,7 @@ L'objection paraît d'autant plus fondée que la démonstration de Lagrange que 
 
 Ces machines moufles, à vrai dire, ne jouent qu'un rôle schématique auxiliaire, mais l'hypothèse de l'absence de
 
-[p. 94]
-
-UNE
+[p. 94] UNE
 
 OBJECTION.
 
@@ -3770,9 +3506,7 @@ On lui demande de déterminer la force tangentielle qu'il faut combiner avec la 
 
 Ceci suffit à nous montrer que le phénomène du frottement est trop complexe au point de vue physique pour nous aider à constituer les premiers principes de la méca
 
-[p. 95]
-
-LES nique et nous conserverons la notion des liaisons comme l'image la plus simple de la science des forces et du mouvement.
+[p. 95] LES nique et nous conserverons la notion des liaisons comme l'image la plus simple de la science des forces et du mouvement.
 
 Mais même en adoptant ce point de vue, nous avons vu que le principe de d'Alembert ne peut suffire à la formation des équations du mouvement que si l'accélération naturelle est connue.
 
@@ -3796,9 +3530,7 @@ principe
 
 des aires.
 
-[p. 96]
-
-PRINCIPE DES AIRES.
+[p. 96] PRINCIPE DES AIRES.
 
 En effet, soient M. et M, deux points exerçant l'un sur l'autre une action mutuelle, F₁ comptée par exemple positive comme répulsive, les équations du mouvement de chacun de ces points seront, par la définition même de la force capable de prédire le mouvement :
 
@@ -3828,7 +3560,6 @@ Vij
 
 deyi
 
-#### M
 
 = ΣΕ
 
@@ -3918,9 +3649,7 @@ Xi
 
 C" désignant une constante.
 
-[p. 97]
-
-Or, si on adopte des coordonnées polaires dans le plan ry, on aura :
+[p. 97] Or, si on adopte des coordonnées polaires dans le plan ry, on aura :
 
 Xi = Pi COS φι
 
@@ -3988,9 +3717,7 @@ Nous démontrerons tout à l'heure que si on possède une
 
 7
 
-[p. 98]
-
-MOUVEMENT DU CENTRE DE GRAVITÉ.
+[p. 98] MOUVEMENT DU CENTRE DE GRAVITÉ.
 
 horloge absolue, on peut définir des directions fixes à chaque instant par rapport aux points matériels observables.
 
@@ -4062,9 +3789,7 @@ ce qui démontre le théorème, car les premiers membres de ces équations ont, 
 
 )
 
-[p. 99]
-
-Remarque. — Le principe des aires est applicable dans le mouvement relatif par rapport au centre de gravité, car soit posé :
+[p. 99] Remarque. — Le principe des aires est applicable dans le mouvement relatif par rapport au centre de gravité, car soit posé :
 
 Χ₁ = ξο + ξί
 
@@ -4124,9 +3849,7 @@ di égalité qui démontre la remarque susdite.
 
 - Seconde application du principe des aires : Orientation de l'espace absolu déduite des mouvements relatifs d'un système isolé. Considérons un ensemble S de points matériels observables obéissant dans un certain espace E à la loi de l'action et de la réaction dynamiques ; on considère à chaque instant des axes fixes dans l'espace E, et on peut se proposer de rattacher à chaque instant la position des axes considérés à la situation actuelle des points matériels supposés tous observables ; il suffit pour cela d'avoir une horloge marquant le temps absolu. On peut considérer un problème plus général déduit du précédent en supposant que les corps du système S soient dans l'espace E soumis
 
-[p. 100]
-
-PRINCIPE DES AIRES.
+[p. 100] PRINCIPE DES AIRES.
 
 à leurs actions mutuelles réciproques et en outre à une pesanteur commune à tous les points, variable d'ailleurs en intensité et en direction. Le deuxième problème se ramène au premier, car les équations du mouvement dans l'espace E étant alors pour chaque masse mi
 
@@ -4190,13 +3913,10 @@ ou si on appelle xo, yo, zo, les coordonnées du centre de gravité G du systèm
 
 d'xo
 
-#### X
 
 di [^p100-1]
 
-[p. 101]
-
-si on veut les mouvements par rapport au centre de gravité, c'est-à-dire par rapport à un espace E. ayant pour origine le point C et pour axes des axes parallèles aux axes de E, on fera :
+[p. 101] si on veut les mouvements par rapport au centre de gravité, c'est-à-dire par rapport à un espace E. ayant pour origine le point C et pour axes des axes parallèles aux axes de E, on fera :
 
 X₁ = x +
 
@@ -4282,9 +4002,7 @@ les équations (4) ne seront pas modifiées.
 
 Ainsi, qu'il s'agisse du problème réduit ou du problème
 
-[p. 102]
-
-FORMULES POUR LES
+[p. 102] FORMULES POUR LES
 
 ROTATIONS.
 
@@ -4322,9 +4040,7 @@ Ay = γα
 
 Az = xy- px
 
-[p. 103]
-
-LES
+[p. 103] LES
 
 L'ordre des rotations a, en effet, une influence sur les rotations finies, mais un changement dans l'ordre des rotations n'amène dans le déplacement du point M que des variations infiniment petites par rapport à ce déplacement luimême, et par conséquent n'influera pas pour la détermination des vitesses, en sorte qu'en posant
 
@@ -4348,9 +4064,7 @@ qx
 
 En s'appuyant sur ce théorème d'Euler, qui montre que tout déplacement d'une figure qui a un point fixe peut être obtenu par une rotation effectuée autour d'un axe passant par ce point, il serait aisé d'établir que pdt, qdt, rdt, sont aux infiniment petits du second ordre près, les projections sur les axes de coordonnées de la rotation odt qui d'après Euler produirait le déplacement infiniment du corps rigide considéré pendant le temps dt. Les formules [^p103-1]
 
-[p. 104]
-
-FORMULES POUR
+[p. 104] FORMULES POUR
 
 LES ROTATIONS.
 
@@ -4370,7 +4084,6 @@ y
 
 bb'b"
 
-#### C
 
 c'
 
@@ -4420,9 +4133,7 @@ da db de
 
 di' di' de
 
-[p. 105]
-
-Considérons maintenant
+[p. 105] Considérons maintenant
 
 le point des
 
@@ -4462,9 +4173,7 @@ dv = (0
 
 pw + dt
 
-[p. 106]
-
-FORMULES POUR LES ROTATIONS.
+[p. 106] FORMULES POUR LES ROTATIONS.
 
 On vérifie, d'ailleurs, que ce système jouit des propriétés suivantes
 
@@ -4510,9 +4219,7 @@ V : = py
 
 qx + H
 
-[p. 107]
-
-Or, sur des plans fixes qui coïncideraient avec les positions actuelles des plans de s, les théorèmes des aires relativement à ces plans seraient l, m, n, désignant les projections d'un vecteur fixe sur les axes mobiles
+[p. 107] Or, sur des plans fixes qui coïncideraient avec les positions actuelles des plans de s, les théorèmes des aires relativement à ces plans seraient l, m, n, désignant les projections d'un vecteur fixe sur les axes mobiles
 
 Σm (xVy — y Vxz) = n
 
@@ -4552,9 +4259,7 @@ Fy, =- Fsin + F Cosp
 
 | Y ' = — X sino + Y cos q
 
-[p. 108]
-
-ORIENTATION ABSOLUE.
+[p. 108] ORIENTATION ABSOLUE.
 
 produit sur les quantités L M N, qui se changent en L'M'N'la même substitution
 
@@ -4620,9 +4325,7 @@ pE + qD — C + v
 
 En sorte qu'en désignant par P., Qo, R, les composantes fixes du vecteur (l, m, n) sur les axes fixes primitifs on aura, pour la détermination des neuf cosinus, le système :
 
-[p. 109]
-
-LES pA-- qF — E + λ = aPo + a ' Qo + a ' 'Ro
+[p. 109] LES pA-- qF — E + λ = aPo + a ' Qo + a ' 'Ro
 
 0 pF + qB — rD + μ = bP. + b'Q. + b''R。 — pE — qD +
 
@@ -4684,7 +4387,6 @@ Co
 
 "
 
-#### C
 
 1
 
@@ -4698,9 +4400,7 @@ Ao Le système précédent pourra donc être intégré, pourvu que l'on connaiss
 
 Je vais montrer que les quantités p, q, r peuvent être déterminées à chaque instant du mouvement, et en parti
 
-[p. 110]
-
-ORIENTATION ABSOLUE.
+[p. 110] ORIENTATION ABSOLUE.
 
 culier au début, sans aucune intégration, du moins lorsque les corps en présence sont suffisamment nombreux. Je m'appuierai à cet effet sur le théorème de Coriolis que nous avons déjà vu et sur la distribution des accélérations dans un corps rigide qui pivote autour d'un point fixe, que je vais maintenant indiquer. Soit OA le vecteur représentatif de la vitesse de rotation & actuelle, soit OA' le vecteur représentatif de la rotation w ' à l'instant t + dt, on peut le considérer comme la résultante géométrique du vecteur OA et du vecteur OI, auquel on donne le nom d'accélération angulaire élémentaire, l'accélération angulaire étant représentée par le vecteur dirigé lim. Of nous la désidi' gnerons par a.
 
@@ -4720,11 +4420,7 @@ La première composante est dirigée suivant la perpendiculaire MP à OA (MP =
 
 désigne la distance du point M à OH, elle sera égale à ασ.
 
-Si p, q, r sont les composantes de w suivant les axes, et
-
-[p. 111]
-
-si π, χ, ρ sont les composantes de l'accélération angulaire, on pourra calculer l'accélération du point M de coordonnées x, y, z ; ce calcul, que le théorème des projections rend intuitif, nous donne pour les composantes de l'accélération y d'entraînement du point M :
+Si p, q, r sont les composantes de w suivant les axes, et [p. 111] si π, χ, ρ sont les composantes de l'accélération angulaire, on pourra calculer l'accélération du point M de coordonnées x, y, z ; ce calcul, que le théorème des projections rend intuitif, nous donne pour les composantes de l'accélération y d'entraînement du point M :
 
 p (px + qy + rz) — (p² + q² + r²) x
 
@@ -4818,9 +4514,7 @@ I at + mi
 
 Vij
 
-[p. 112]
-
-ORIENTATION ABSOLUE.
+[p. 112] ORIENTATION ABSOLUE.
 
 en considérant un point particulier du système (x, y, z) de masse m., on éliminera les E, H, Z et on aura les relations
 
@@ -4868,17 +4562,13 @@ F
 
 B
 
-#### D
 
 E
 
-#### D
 
 C[^p112-1]
 
-[p. 113]
-
-LES
+[p. 113] LES
 
 Or, ce déterminant est égal à :
 
@@ -4932,9 +4622,7 @@ ghk > DEF
 
 8
 
-[p. 114]
-
-LE PLAN INVARIABLE.
+[p. 114] LE PLAN INVARIABLE.
 
 L'expression (11) est donc toujours positive à moins que les n corps ne soient en ligne droite avec l'origine des coordonnées.
 
@@ -4950,11 +4638,7 @@ Quelques remarques sur le principe de la conservation du mouvement du centre de 
 
 Si dans un système isolé, dont la définition a déjà été donnée, le centre de gravité est au repos, il reste toujours en repos, en sorte que si un corps solide vient à se relacher de ses liens rigides, puis à reprendre son ancienne forme, son centre de gravité aura la même situation qu'avant.
 
-Cela résulte de ce que le mouvement d'un système isolé admet dans l'espace absolu les intégrales
-
-[p. 115]
-
-dxi
+Cela résulte de ce que le mouvement d'un système isolé admet dans l'espace absolu les intégrales [p. 115] dxi
 
 ΣΜ
 
@@ -5036,9 +4720,7 @@ dxi
 
 Les équations analogues ont lieu par rapport à des axes fixes ou du moins par rapport à des axes qui définissent l'espace E où le système est isolé, sans pesanteur commune à tous ses points ; si le système est isolé, avec pesanteur
 
-[p. 116]
-
-AXES PERMANENTS.
+[p. 116] AXES PERMANENTS.
 
 commune à tous ses points on a vu plus haut que les équations sont encore valables dans le mouvement autour du centre de gravité.
 
@@ -5050,9 +4732,7 @@ Io • désignant la vitesse de rotation actuelle du corps rigide, mais il ne fa
 
 Nous devons exprimer l'équilibre autour du point O de toutes les forces d'inertie.
 
-[p. 117]
-
-LES
+[p. 117] LES
 
 Nous avons déjà donné les conditions de cet équilibre en coordonnées cartésiennes, mais sans développer ces conditions, on voit que si les forces d'inertie dues à la force centrifuge née de la rotation w, sont déjà en équilibre, les forces d'inertie dues à l'accélération angulaire devront être aussi en équilibre, mais d'après la composition des moments ou des aires justifiée plus haut (p. 103), celles-ci donnent lieu à un moment représenté par un vecteur dirigé suivant l'accélération angulaire et égale au produit de cette accélération multipliée par le moment d'inertie du corps par rapport à cet axe, ce dernier moment d'inertie étant différent de zéro (hormis le cas où le corps se réduisait à une droite dirigée suivant l'accélération angulaire), le second équilibre partiel, conséquence du premier équilibre partiel, exige donc que l'accélération angulaire soit nulle et réciproquement. Ainsi la condition nécessaire et suffisante pour que la rotation
 
@@ -5076,9 +4756,7 @@ P, q, r désignant les projections de
 
 sur les axes, les conditions d'équilibre des forces X, Y, Z autour de l'origine sont :
 
-[p. 118]
-
-AXES PERMANENTS.
+[p. 118] AXES PERMANENTS.
 
 Σ
 
@@ -5118,11 +4796,7 @@ est prise comme axe des
 
 L'étude de la distribution des moments d'inertie montre que l'on peut toujours satisfaire à ces équations pour trois droites rectangulaires passant par le centre de gravité. On donne à ces droites un nom qui rappelle la propriété qu'on vient de démontrer : on les appelle des axes permanents de rotation.
 
-Lorsque le corps solide isolé dans l'espace E est au repos autour de son centre de gravité, il garde une orientation
-
-[p. 119]
-
-invariable par rapport à l'espace E. Il est essentiel d'observer que le raisonnement ci-dessus s'applique à un corps solide capable d'un mouvement continu. Mais il ne s'applique nullement à un corps qui, après déformations, reviendrait à sa première forme ; tout ce que le principe des aires permet d'affirmer, c'est que lorsqu'un corps isolé, d'abord au repos, a repris sa première forme solide après s'être déformé, il n'aura aucune vitesse de rotation par rapport à son centre de gravité, mais on commettrait une erreur grave en affirmant que malgré sa déformation, le corps doit reprendre finalement la même orientation par rapport à l'espace E où il est isolé.
+Lorsque le corps solide isolé dans l'espace E est au repos autour de son centre de gravité, il garde une orientation [p. 119] invariable par rapport à l'espace E. Il est essentiel d'observer que le raisonnement ci-dessus s'applique à un corps solide capable d'un mouvement continu. Mais il ne s'applique nullement à un corps qui, après déformations, reviendrait à sa première forme ; tout ce que le principe des aires permet d'affirmer, c'est que lorsqu'un corps isolé, d'abord au repos, a repris sa première forme solide après s'être déformé, il n'aura aucune vitesse de rotation par rapport à son centre de gravité, mais on commettrait une erreur grave en affirmant que malgré sa déformation, le corps doit reprendre finalement la même orientation par rapport à l'espace E où il est isolé.
 
 Voici un exemple très simple que j'emprunte à M. Appell où va se produire un changement d'orientation, malgré le retour du système à sa première forme. Imaginons un système idéal pesant contenu dans un cylindre homogène qui peut se mouvoir sans frottement sur un plan horizontal.
 
@@ -5134,9 +4808,7 @@ Le principe de la conservation des aires autour du point O sera alors applicable
 
 Les hommes placés dans le cylindre ne pourront se déplacer qu'en prenant un point d'appui dans le cylindre, et il n'y a là que des forces intérieures mutuelles ; quant à la pesanteur, elle est commune à toutes les masses du
 
-[p. 120]
-
-LA ROUE DE M. APPELL.
+[p. 120] LA ROUE DE M. APPELL.
 
 système. Nous aurions donc là un système isolé si nous n'avions pas la réaction du plan sur le cylindre.
 
@@ -5182,11 +4854,7 @@ même
 
 diamètre
 
-d'une section droite centrale ; les deux hommes
-
-[p. 121]
-
-de masse
+d'une section droite centrale ; les deux hommes [p. 121] de masse
 
 sont sur le même diamètre en deux points C et D symétriques par rapport à O.
 
@@ -5238,9 +4906,7 @@ reviennent
 
 à
 
-[p. 122]
-
-LA ROUE DE
+[p. 122] LA ROUE DE
 
 APPELL.
 
@@ -5314,11 +4980,7 @@ x =
 
 (1 + 2 ma²) (1 + 2 ma² + µ. b²)
 
-2
-
-[p. 123]
-
-ce qui montre que la roue a bien tourné d'un angle ẞ — α non nul.
+2 [p. 123] ce qui montre que la roue a bien tourné d'un angle ẞ — α non nul.
 
 Dans les dessins figurés on a supposé un roulement pour mieux représenter les phases du mouvement, mais il est clair qu'en l'absence de frottement ce roulement ne peut se produire.
 
@@ -5332,9 +4994,7 @@ C'est ce qui arrive précisément dans la chute d'un chat abandonné sans vitess
 
 Il y a deux ans, la chute du chat donna lieu à d'intéressantes remarques à l'Académie des sciences ; vers cette époque, je causais du phénomène avec un philosophe tout
 
-[p. 124]
-
-LA CHUTE DU CHAT.
+[p. 124] LA CHUTE DU CHAT.
 
 disposé à croire que les expériences de M. Marey allaient donner un démenti aux lois de la mécanique, et ce philosophe avec humeur affirmait : « < Comme
 
@@ -5366,9 +5026,7 @@ r'in=
 
 (Xi — Th) 2 + Yi — Yh) 2 + (-2
 
-[p. 125]
-
-Soit J ; l'accélération naturelle et je l'accélération réelle, on aura
+[p. 125] Soit J ; l'accélération naturelle et je l'accélération réelle, on aura
 
 Σκ Fik
 
@@ -5408,9 +5066,7 @@ solide qui est en contact avec certaines parties de l'animal.
 
 Parmi les conditions qui expriment l'équilibre du solide regardé comme libre, puisqu'on tient compte des réactions, se trouve le théorème des moments ; on trouve ainsi en prenant les moments par rapport à un axe arbitraire oz une équation analogue à l'équation des moments dont le premier membre se rapporte au corps solide, en contact avec
 
-[p. 126]
-
-FORCES
+[p. 126] FORCES
 
 MUTUELLES.
 
@@ -5438,9 +5094,7 @@ La manière de faire, adoptée plus haut, a l'inconvénient de mettre en jeu les
 
 Ainsi, pour en revenir aux préoccupations de notre philosophe, on peut dire qu'un animal a le pouvoir de produire de la force en utilisant des points d'appui sur un système extérieur, ou même en utilisant les points d'appui réciproques que se prêtent les diverses parties de son corps les unes par rapport aux autres, mais ces forces produites sont mutuelles, la mécanique n'affirme à leur égard rien de plus, rien de moins.
 
-[p. 127]
-
-Plaçons-nous désormais dans cet espace absolu défini à Nouvelle hypoun mouvement de translation uniforme près. On suppose généralement que la force absolue, c'est-à-dire le produit de la masse par l'accélération naturelle absolue, est une fonction de la position du corps et d'autres éléments physiques actuellement définissables. On dit qu'un système de masses ou de points matériels comporte une fonction des forces U,
+[p. 127] Plaçons-nous désormais dans cet espace absolu défini à Nouvelle hypoun mouvement de translation uniforme près. On suppose généralement que la force absolue, c'est-à-dire le produit de la masse par l'accélération naturelle absolue, est une fonction de la position du corps et d'autres éléments physiques actuellement définissables. On dit qu'un système de masses ou de points matériels comporte une fonction des forces U,
 
 si xi, Yi,
 
@@ -5500,9 +5154,7 @@ dx
 
 dzi
 
-[p. 128]
-
-INTÉGRALE DES FORCES VIVES.
+[p. 128] INTÉGRALE DES FORCES VIVES.
 
 la somme de ces travaux relatifs à un déplacement infiniment petit du système sera :
 
@@ -5604,11 +5256,7 @@ dt
 
 dt)= Xdx + Y dy ; + Z ; dz
 
-ou encore en désignant par v₁ la vitesse du point :
-
-[p. 129]
-
-2
+ou encore en désignant par v₁ la vitesse du point : [p. 129] 2
 
 dzi
 
@@ -5654,9 +5302,7 @@ instant la position du système, les valeurs de ces variables
 
 9
 
-[p. 130]
-
-STABILITÉ.
+[p. 130] STABILITÉ.
 
 envisagées en une position d'équilibre du système vérifient les équations
 
@@ -5724,11 +5370,7 @@ dqk Ces conditions seraient en particulier remplies si la fonction U se trouvait
 
 La distinction des deux cas est essentielle, on va le voir, pour la stabilité.
 
-On dit que des forces fonctions des paramètres q sont en équilibre stable sur le système à liaisons fixes considérées lorsque chacune des masses m, étant supposée écartée suffisamment peu de sa position d'équilibre M₁ °, et abandonnée là avec une vitesse initiale suffisamment petite, l'écart du
-
-[p. 131]
-
-point à sa position d'équilibre et sa vitesse resteront toujours en valeur absolue inférieurs à des limites assignables.
+On dit que des forces fonctions des paramètres q sont en équilibre stable sur le système à liaisons fixes considérées lorsque chacune des masses m, étant supposée écartée suffisamment peu de sa position d'équilibre M₁ °, et abandonnée là avec une vitesse initiale suffisamment petite, l'écart du [p. 131] point à sa position d'équilibre et sa vitesse resteront toujours en valeur absolue inférieurs à des limites assignables.
 
 Si pour une position donnée du système la fonction U est maxima, l'équilibre sera stable.
 
@@ -5782,9 +5424,7 @@ sont positives.
 
 leur minimum nécessairement différent de zéro et positif. D'autre part soient λολο... λο des valeurs des à assez petites en valeur absolue pour que l'on ait
 
-[p. 132]
-
-STABILITÉ ET INSTABILITÉ.
+[p. 132] STABILITÉ ET INSTABILITÉ.
 
 U (0, 0... 0)
 
@@ -5824,11 +5464,7 @@ Le second membre de cette égalité est formé de 3 crochets dont les deux derni
 
 et dont le premier est négatif, mais en valeur absolue supérieur à ɛ, le second membre serait donc négatif, ce qui est absurde puisque le premier membre est essentiellement positif, il est donc impossible dans ces conditions qu'aucun A atteigne la valeur p.
 
-Récemment un géomètre russe a démontré, pour la preM. Liapounof. mière fois, la réciproque de cette proposition et fait voir que Théorème de
-
-[p. 133]
-
-lorsqu'il existe une fonction des forces, la stabilité de l'équilibre exige que cette fonction soit maxima. M. Hadamard a retrouvé de son côté le même théorème que nous nous contenterons ici d'énoncer.
+Récemment un géomètre russe a démontré, pour la preM. Liapounof. mière fois, la réciproque de cette proposition et fait voir que Théorème de [p. 133] lorsqu'il existe une fonction des forces, la stabilité de l'équilibre exige que cette fonction soit maxima. M. Hadamard a retrouvé de son côté le même théorème que nous nous contenterons ici d'énoncer.
 
 On se rappelle que dans les systèmes à liaisons, le renforcement des liaisons renforce l'équilibre.
 
@@ -5894,11 +5530,7 @@ Les mêmes mots,
 
 d'ailleurs, reviennent sans cesse sur la bouche de ceux qui aiment mieux agir sur la nature que discourir élégamment sur elle.
 
-Ces mots expriment aussi bien la préoccupation du chercheur que la vanité des explications puériles et purement verbales, et cela suffit pour expliquer l'intérêt que
-
-[p. 135]
-
-présente encore l'analyse des idées si variables qui courent sous ces mots.
+Ces mots expriment aussi bien la préoccupation du chercheur que la vanité des explications puériles et purement verbales, et cela suffit pour expliquer l'intérêt que [p. 135] présente encore l'analyse des idées si variables qui courent sous ces mots.
 
 Qu'est-ce qu'une force ?
 
@@ -5920,9 +5552,7 @@ L'École classique.
 
 Pour bien comprendre le point de vue de l'école classique, il importe de se rappeler que les fondateurs de la mécanique furent aussi les fondateurs de l'astronomie, et que, contrairement à l'opinion du bon La Fontaine, la mécanique céleste est infiniment plus simple que la mécanique terrestre.
 
-[p. 136]
-
-L'ÉCOLE CLASSIQUE.
+[p. 136] L'ÉCOLE CLASSIQUE.
 
 Galilée créa la notion d'accélération, dont le rôle cinématique devait être si utile à l'astronomie ; rappelons brièvement l'importance de ce rôle.
 
@@ -5936,11 +5566,7 @@ Le système de coordonnées de la mécanique céleste a pour origine le centre d
 
 La mécanique céleste rattache ainsi à l'horloge absolue, que ses principes réclament, la détermination de directions absolues.
 
-L'accord des tables astronomiques et des observations
-
-[p. 137]
-
-signifie que dans cet espace invariable l'accélération de chaque planète et du soleil est efficacement prédite par la loi de Newton.
+L'accord des tables astronomiques et des observations [p. 137] signifie que dans cet espace invariable l'accélération de chaque planète et du soleil est efficacement prédite par la loi de Newton.
 
 La mécanique eut ainsi, à ses débuts, un système du monde à expliquer, et le succès de ce premier essai explique aussi tout naturellement le point de vue préféré de l'école classique.
 
@@ -5954,9 +5580,7 @@ En astronomie, le mot force n'ajoute rien au point de vue cinématique, il retra
 
 L'astronome ne s'intéresse d'ailleurs qu'au point de vue cinématique.
 
-[p. 138]
-
-L'ÉCOLE NOUVELLE.
+[p. 138] L'ÉCOLE NOUVELLE.
 
 L'École du fil, ou École des liaisons. — Lagrange et Reech.
 
@@ -5976,11 +5600,7 @@ On dira qu'un fil F possède une tension simple, double, triple, etc., si cette 
 
 C'est là une image, qui n'a de signification précise que dans la mesure où est tolérable l'approximation qui néglige la masse du fil et le regarde comme indifférent à tous les mouvements latéraux.
 
-Cette image traduit alors un fait réel, la composition des
-
-[p. 139]
-
-forces, car les tensions de plusieurs fils tirant un même corps sont individuellement observables.
+Cette image traduit alors un fait réel, la composition des [p. 139] forces, car les tensions de plusieurs fils tirant un même corps sont individuellement observables.
 
 La seconde école envisage la réalité comme suffisamment exprimée par la superposition de ces trois abstractions envisagées d'abord séparément :
 
@@ -6008,9 +5628,7 @@ Nous admettons avec Reech comme fondement de
 
 la dynamique que la force qui a produit cette variation
 
-[p. 140]
-
-L'ÉCOLE NOUVELLE.
+[p. 140] L'ÉCOLE NOUVELLE.
 
 brusque d'accélération sur une masse donnée est proportionnelle au vecteur qui représente la variation géométrique J — j.
 
@@ -6040,9 +5658,7 @@ Ces considérations ne semblent définir le rôle dynamique de la force qu'au mo
 
 apparaît, car nous n'avons considéré que la force qui trouble le mouvement à l'époque t.
 
-[p. 141]
-
-Ces considérations, toutefois, s'appliquent encore lorsque l'accélération n'éprouvant aucune variation brusque, on compare cependant entre eux le mouvement réel et un mouvement possible particulier qui aurait avec le mouvement réel une vitesse commune.
+[p. 141] Ces considérations, toutefois, s'appliquent encore lorsque l'accélération n'éprouvant aucune variation brusque, on compare cependant entre eux le mouvement réel et un mouvement possible particulier qui aurait avec le mouvement réel une vitesse commune.
 
 Quant au mouvement possible choisi comme mouvement naturel il dépend de l'état de nos connaissances physiques.
 
@@ -6058,9 +5674,7 @@ Quoi qu'il en soit, si nous comparons le mouvement réel où l'accélération es
 
 m (J — j)
 
-[p. 142]
-
-L'ÉCOLE NOUVELLE.
+[p. 142] L'ÉCOLE NOUVELLE.
 
 La connaissance de la force et du mouvement naturel déterminent le mouvement d'un point libre par des équations différentielles du second ordre.
 
@@ -6082,11 +5696,7 @@ On connaît la manière dont Reech s'exprimait sur certain théorème d'hydrodyn
 
 Mon théorème de Newton, retrouvé par M. Bertrand.
 
-D'ailleurs, Reech lui-même semble avoir méconnu le lien qui rattache ses idées à celles de Lagrange ; je suis persuadé, pour ma part, que la qualité liaison des corps de Reech était dans la pensée de Lagrange, chez qui le génie de
-
-[p. 143]
-
-l'analyste ne doit pas faire oublier la profondeur du mécanicien et du philosophe.
+D'ailleurs, Reech lui-même semble avoir méconnu le lien qui rattache ses idées à celles de Lagrange ; je suis persuadé, pour ma part, que la qualité liaison des corps de Reech était dans la pensée de Lagrange, chez qui le génie de [p. 143] l'analyste ne doit pas faire oublier la profondeur du mécanicien et du philosophe.
 
 L'idée originale de Reech peut d'ailleurs être débarrassée de la conception des liaisons.
 
@@ -6118,9 +5728,7 @@ Telle est la formule nouvelle, qui ne fait pas mention des repères géométriqu
 
 Ce principe doit être honoré pour avoir servi d'image à Galilée et à Newton, mais c'est une image superflue dont
 
-[p. 144]
-
-L'ÉCOLE NOUVELLE.
+[p. 144] L'ÉCOLE NOUVELLE.
 
 la mécanique proprement dite peut et doit se passer, comme elle se passe du principe de la conservation de la force.
 
@@ -6148,9 +5756,7 @@ et des déformations.
 
 Déformation fondamentale et rotation moyenne.[^p145-1]
 
-[p. 146]
-
-DÉFORMATION SUR UN POINT.
+[p. 146] DÉFORMATION SUR UN POINT.
 
 sous ce dernier aspect, ce centre portera le nom de point physique.
 
@@ -6180,7 +5786,6 @@ u – u, v – v₁, w — w₁ ; soient x y z ; x, y, z les coordonnées carté
 
 x ' = x₁
 
-#### X
 
 y' = y- y
 
@@ -6250,9 +5855,7 @@ dy
 
 dz
 
-[p. 147]
-
-CORPS DÉFORMABLES.
+[p. 147] CORPS DÉFORMABLES.
 
 Soient a, b, c, les cosinus directeurs de la droite ɛ en sorte que
 
@@ -6334,7 +5937,6 @@ ob + dx
 
 dv
 
-#### C
 
 dw
 
@@ -6350,7 +5952,6 @@ Oc + dx
 
 dw de = dt
 
-#### C
 
 ces équations et l'identité :
 
@@ -6372,9 +5973,7 @@ de déterminent 0,
 
 ' d'di
 
-[p. 148]
-
-ROTATION MOYENNE.
+[p. 148] ROTATION MOYENNE.
 
 On trouve ainsi :
 
@@ -6498,9 +6097,7 @@ r = 1 /dv
 
 du
 
-[p. 149]
-
-CORPS DÉFORMABLES.
+[p. 149] CORPS DÉFORMABLES.
 
 et les relations (1) s'écriront alors :
 
@@ -6584,9 +6181,7 @@ dt
 
 + C
 
-[p. 150]
-
-THÉORÈME DE BELTRAMI.
+[p. 150] THÉORÈME DE BELTRAMI.
 
 les quantités A, B, C, vérifiant la condition
 
@@ -6674,7 +6269,6 @@ Z
 
 dt
 
-#### C
 
 dt
 
@@ -6682,9 +6276,7 @@ dt
 
 la surface indicatrice envisagée comme surface physique se transforme donc en la surface qui a pour équation
 
-[p. 151]
-
-CORPS DÉFORMABLES.
+[p. 151] CORPS DÉFORMABLES.
 
 di
 
@@ -6704,7 +6296,6 @@ B1+ B
 
 2
 
-#### X
 
 = K
 
@@ -6778,9 +6369,7 @@ les valeurs de K, K, K, peuvent être calculées aisément, car en désignant pa
 
 k₁ p²
 
-[p. 152]
-
-THÉORÈME D'HELMHOLTZ.
+[p. 152] THÉORÈME D'HELMHOLTZ.
 
 les angles de la droite AB mais en nommant 01,
 
@@ -6912,9 +6501,7 @@ Contractions angulaires ou glissements transversaux.
 
 cos y = aa + bb₁ + cc₁
 
-[p. 153]
-
-CORPS DÉFORMABLES.
+[p. 153] CORPS DÉFORMABLES.
 
 en différenciant on aura, par les formules (2)
 
@@ -7048,9 +6635,7 @@ dy
 
 21, 22, 23 sont les vitesses de dilatation axiales βιβ, β sont les vitesses de contraction angulaire axiales.
 
-[p. 154]
-
-ROTATION MOYENNE.
+[p. 154] ROTATION MOYENNE.
 
 Autour de A, imaginons une sphère concentrique, de rayons, et remplie d'une matière homogène de densité μ ; imaginons que chaque particule de cette sphère soit animée d'une vitesse égale à la vitesse du point du milieu qui coïncide avec lui, le produit de la masse de chaque particule par sa vitesse est ce qu'on appelle la quantité de mouvement de cette masse. On peut assimiler ces vecteurs à des forces, et effectuer la réduction ordinaire de la sta Propriétés de la rotation moyenne.
 
@@ -7094,9 +6679,7 @@ dx
 
 dy or, l'homogénéité supposée de la sphère donne de suite
 
-[p. 155]
-
-CORPS DÉFORMABLES.
+[p. 155] CORPS DÉFORMABLES.
 
 Σμγ΄ = 0
 
@@ -7176,9 +6759,7 @@ du
 
 dy
 
-[p. 156]
-
-ROTATION MOYENNE.
+[p. 156] ROTATION MOYENNE.
 
 sont nulles, mais nous avons vu qu'elles représentent les vitesses des contractions angulaires des angles des axes.
 
@@ -7236,9 +6817,7 @@ vdt
 
 on aura
 
-[p. 158]
-
-ELLIPSOÏDE DE DÉFORMATION.
+[p. 158] ELLIPSOÏDE DE DÉFORMATION.
 
 d
 
@@ -7368,9 +6947,7 @@ d
 
 h
 
-[p. 159]
-
-CORPS DÉFORMABLES.
+[p. 159] CORPS DÉFORMABLES.
 
 et en portant dans l'équation de la sphère on aura, toujours en négligeant les termes en dt²
 
@@ -7444,9 +7021,7 @@ B'BA "
 
 c'est-à-dire en faisant
 
-[p. 160]
-
-DILATATIONS
+[p. 160] DILATATIONS
 
 PRINCIPALES.
 
@@ -7524,9 +7099,7 @@ S₁ = (1+, dt)
 
 1-28 dt [^p160-1]
 
-[p. 161]
-
-CORPS DÉFORMABLES.
+[p. 161] CORPS DÉFORMABLES.
 
 cette équation devient, en divisant par dt³, (28
 
@@ -7592,9 +7165,7 @@ A3=
 
 l'équation (4) s'écrira [^p161-1][^p161-2]
 
-[p. 162]
-
-DÉFORMATION
+[p. 162] DÉFORMATION
 
 SUPERFICIELLE.
 
@@ -7616,9 +7187,7 @@ Soient a, b, c, les cosinus directeurs de la normale à l'élément, cherchons c
 
 Considérons dans l'élément une droite physique dont les cosinus directeurs sont α, β, γ, on aura la relation [^p162-1]
 
-[p. 163]
-
-CORPS DÉFORMABLES.
+[p. 163] CORPS DÉFORMABLES.
 
 Les termes en
 
@@ -7690,9 +7259,7 @@ ada + bôb + côc = 0
 
 les équations précédentes et le théorème d'Euler sur les fonctions homogènes donnent alors
 
-[p. 164]
-
-THÉORÈME DE M.
+[p. 164] THÉORÈME DE M.
 
 BERTRAND.
 
@@ -7808,9 +7375,7 @@ d
 
 Ces équations homogènes ne seront compatibles que si l'on a :
 
-[p. 165]
-
-CORPS DÉFORMABLES.
+[p. 165] CORPS DÉFORMABLES.
 
 dw
 
@@ -7916,9 +7481,7 @@ dx dx + dx dx2 +doc. dxs = 0
 
 si on pose, en dénommant les fonctions indifféremment par fou par p
 
-[p. 166]
-
-COORDONNÉES CURVILIGNES.
+[p. 166] COORDONNÉES CURVILIGNES.
 
 2
 
@@ -8030,9 +7593,7 @@ s =
 
 k- 1
 
-[p. 167]
-
-CORPS DÉFORMABLES.
+[p. 167] CORPS DÉFORMABLES.
 
 on aura
 
@@ -8122,9 +7683,7 @@ relative à une direction dont les cosinus directeurs relatifs à ce trièdre so
 
 en coordonnées curvilignes.
 
-[p. 168]
-
-COORDONNÉES CURVILIGNES.
+[p. 168] COORDONNÉES CURVILIGNES.
 
 La distance infiniment petite & des deux points AB est, d'après la remarque faite tout à l'heure
 
@@ -8280,9 +7839,7 @@ doe
 
 د
 
-[p. 169]
-
-CORPS DÉFORMABLES.
+[p. 169] CORPS DÉFORMABLES.
 
 d'ailleurs dans le système d'axes (X1, X2, X3)
 
@@ -8458,9 +8015,7 @@ doa
 
 dpi
 
-[p. 170]
-
-TRANSFORMATION DE AF.
+[p. 170] TRANSFORMATION DE AF.
 
 Voici une application analytique de cette formule concernant la transformation de l'expression :
 
@@ -8594,9 +8149,7 @@ associons ensemble une file de parallélipipèdes du réseau ayant même section
 
 La partie principale de l'intégrale relative à cette file est :
 
-[p. 172]
-
-INTÉGRATION GÉOMÉTRIQUE PAR PARTIES.
+[p. 172] INTÉGRATION GÉOMÉTRIQUE PAR PARTIES.
 
 dF dx
 
@@ -8638,9 +8191,7 @@ Si on désigne par x1, x2,........ X2p- 1, X2p les valeurs croissantes de x qui 
 
 MM......... Мгр.
 
-[p. 173]
-
-CORPS DÉFORMABLES.
+[p. 173] CORPS DÉFORMABLES.
 
 l'intégrale à calculer est
 
@@ -8670,7 +8221,6 @@ A
 
 dx
 
-#### X
 
 Хар-1
 
@@ -8722,9 +8272,7 @@ dx
 
 dx
 
-[p. 174]
-
-DISTRIBUTION SOLÉNOÏDALE.
+[p. 174] DISTRIBUTION SOLÉNOÏDALE.
 
 l'intégrale de surface SFA) cos (1.0) do étendue à la surface S ; en d'autres termes
 
@@ -8786,9 +8334,7 @@ sera nulle ; on peut d'ailleurs, en désignant par R le vecteur qui a pour proje
 
 Radw
 
-[p. 175]
-
-CORPS DÉFORMABLES.
+[p. 175] CORPS DÉFORMABLES.
 
 dw
 
@@ -8874,9 +8420,7 @@ T
 
 १ et qu'on appelle depuis Helmholtz des lignes tourbillonnaires, puis considérons l'ensemble de ces lignes qui s'appuient sur le contour d'une aire plane ayant deux dimensions infiniment petites, nous formons ainsi un tube tourbillon ou tube tourbillonnaire, limitons ce tube à deux sections planes par exemple, l'intégrale
 
-[p. 176]
-
-THÉORÈME DE STOKES.
+[p. 176] THÉORÈME DE STOKES.
 
 étendue à toute la surface ainsi limitée est nulle, mais en tout point de la surface latérale de ce canal 2 = 0.
 
@@ -8904,9 +8448,7 @@ C'est ce que va confirmer le théorème suivant.
 
 Considérons une courbe fermée C, gauche ou plane, sur laquelle s'appuie une certaine surface, supposons qu'on adopte un sens de parcours de la courbe C ; on peut associer alors à ce sens de parcours un sens de la normale à un élément abcd de surface ; en effet, si par une déformation continue, on passe de la courbe C au contour abcd, on définit un sens de parcours de ce dernier ; le sens de Théorème d'Hankel, quelquefois nommé théorème de Stokes.
 
-[p. 177]
-
-CORPS DÉFORMABLES.
+[p. 177] CORPS DÉFORMABLES.
 
 la normale à l'élément, associé à ce sens, sera tel qu'un observateur reposant sur le plan tangent à l'élément, en un point intérieur à celui-ci,
 
@@ -8918,9 +8460,7 @@ d
 
 Y
 
-#### C
 
-#### C
 
 harmonie avec l'orientation du trièdre de coordonnées.
 
@@ -8948,7 +8488,6 @@ Nous supposerons que a croît dans le sens 12
 
 βι 23. Ceci posé, envisageons
 
-#### C
 
 α 2 l'intégrale de surface :
 
@@ -8960,9 +8499,7 @@ On a donc par définition
 
 12
 
-[p. 178]
-
-THÉORÈME D'HANKEL.
+[p. 178] THÉORÈME D'HANKEL.
 
 J =
 
@@ -9116,9 +8653,7 @@ du dy
 
 [
 
-[p. 179]
-
-CORPS DÉFORMABLES.
+[p. 179] CORPS DÉFORMABLES.
 
 ou encore dx du dx da [
 
@@ -9216,7 +8751,6 @@ dẞ
 
 dB
 
-#### C
 
 prise le long de la courbe C.
 
@@ -9246,9 +8780,7 @@ dz
 
 la portion considérée de l'intégrale J sera donc
 
-[p. 180]
-
-PROPRIÉTÉ DES SURFACES
+[p. 180] PROPRIÉTÉ DES SURFACES
 
 TOURBILLONNAIRES.
 
@@ -9270,11 +8802,9 @@ on calculera de la même manière les deux autres intégrales doubles, et l'on a
 
 2J f(udx + vdy + wdz !
 
-#### C
 
 l'intégrale f(udx + vedy + wds) relative à une courbe L
 
-#### L
 
 quelconque porte le nom de flux relatif à cette ligne.
 
@@ -9290,7 +8820,6 @@ aussi Q = 0. En ce cas, l'intégrale
 
 [ udx + vdy + wdz
 
-#### L
 
 ne dépend que des extrémités du chemin Let non des points intermédiaires. Pour deux courbes Let L', terminées aux mêmes extrémités, on aura
 
@@ -9302,9 +8831,7 @@ Cette condition, par exemple, cesserait d'être remplie pour un milieu qui n'occ
 
 Nous supposerons dans la question suivante que les courbes Let L'restent dans une région telle que la condition précédente soit naturellement remplie.
 
-[p. 181]
-
-CORPS DÉFORMABLES.
+[p. 181] CORPS DÉFORMABLES.
 
 On peut alors se poser la question suivante
 
@@ -9424,9 +8951,7 @@ udx + vdy + wds devient une expression de la forme
 
 Adz + Bdẞ + Ca
 
-[p. 182]
-
-DÉRIVÉE DU FLUX.
+[p. 182] DÉRIVÉE DU FLUX.
 
 Par hypothèse, si on fait
 
@@ -9470,9 +8995,7 @@ L₁
 
 8 désignant des variations relatives au milieu envisagé à une même époque t nous désignerons par d les variations relatives à des quantités attachées à un même point physique.
 
-[p. 183]
-
-CORPS DÉFORMABLES.
+[p. 183] CORPS DÉFORMABLES.
 
 La dérivée du flux sera dès lors
 
@@ -9546,7 +9069,6 @@ dt
 
 1
 
-#### L
 
 T, et To se rapportant aux extrémités de la courbe L₁.
 
@@ -9556,9 +9078,7 @@ En ce cas on aura T₁ = To.
 
 Posons maintenant
 
-[p. 184]
-
-ACCÉLÉRATION ROTATOIRE.
+[p. 184] ACCÉLÉRATION ROTATOIRE.
 
 djz
 
@@ -9622,9 +9142,7 @@ js = dz
 
 On dit en ce cas qu'il existe une fonction des accélérations. Nous supposons, dans ce qui va suivre, que cette condition soit réalisée.
 
-[p. 185]
-
-CORPS DÉFORMABLES.
+[p. 185] CORPS DÉFORMABLES.
 
 D'ailleurs,
 
@@ -9678,9 +9196,7 @@ et comme ceci a lieu quelle que soit l'étendue de la surface on conclut :
 
 ΩΝ = 0
 
-[p. 186]
-
-THÉORÈME DE LAGRANGE.
+[p. 186] THÉORÈME DE LAGRANGE.
 
 et comme
 
@@ -9724,9 +9240,7 @@ Corollaire.
 
 Les lignes tourbillonnaires intersections de deux surfaces physiques seront aussi des lignes physiques.
 
-[p. 187]
-
-CORPS DÉFORMABLES.
+[p. 187] CORPS DÉFORMABLES.
 
 Ce théorème est dû à Helmholtz, la démonstration qui en est donnée ici appartient à Thomson.
 
@@ -9764,9 +9278,7 @@ L'égalité précédente montre que sur les mêmes surfaces on aura
 
 N
 
-[p. 188]
-
-THÉORÈMES
+[p. 188] THÉORÈMES
 
 D'HELMHOLTZ.
 
@@ -9816,7 +9328,6 @@ varie seul
 
 M2 A
 
-#### M
 
 A '
 
@@ -9832,9 +9343,7 @@ fi (x, y, 3) =
 
 م formant un système triple orthogonal.
 
-[p. 189]
-
-CORPS DÉFORMABLES.
+[p. 189] CORPS DÉFORMABLES.
 
 La partie principale de l'intégrale 22 do relative à
 
@@ -9846,17 +9355,14 @@ hh
 
 l'intégrale curviligne équivalente sera :
 
-#### M
 
 A'
 
 Α΄
 
-#### M
 
 Suos +Subs -Subs -Sus A
 
-#### M
 
 M2
 
@@ -9944,11 +9450,7 @@ Nous regarderons, d'ailleurs, les molécules comme formant un système libre. L'
 
 L'équilibre d'un système de particules isolées s'exprime très aisément, comme nous le verrons, au moins théoriquement.
 
-Mais la conception de fonctions de points isolés, et surtout a conception de leurs dérivées demande quelques éclair-
-
-[p. 191]
-
-CORPS DÉFORMABLES.
+Mais la conception de fonctions de points isolés, et surtout a conception de leurs dérivées demande quelques éclair-[p. 191]CORPS DÉFORMABLES.
 
 cissements. Il s'agit en somme de la distinction du continu mathématique et du continu physique.
 
@@ -9978,9 +9480,7 @@ Et si, dans l'intérieur du petit domaine, ona
 
 3) = A. (x — x.) + Bo (y — yo) + Co (3 — 2) + Ф
 
-[p. 192]
-
-DÉRIVÉES PHYSIQUES.
+[p. 192] DÉRIVÉES PHYSIQUES.
 
 désignant une forme quadratique approchée des zx — xo, Y -Y,
 
@@ -10050,9 +9550,7 @@ dy
 
 Soient xi, Yi, zi les coordonnées cartésiennes du centre de gravité d'une particule M, du corps envisagé dans un premier état d'équilibre que nous appellerons équilibre naturel. Nous désignerons par A, B, C, les projections de la résultante des forces intérieures exercées par les molécules du L'équilibre élastique.
 
-[p. 193]
-
-CORPS DÉFORMABLES.
+[p. 193] CORPS DÉFORMABLES.
 
 corps sur la molécule M₁ ; soient P, Q, R, les projections d'une force extérieure,
 
@@ -10100,9 +9598,7 @@ Xk et, soient X, Y, Zi les variations de la force extérieure appliquée en M₁
 
 13
 
-[p. 194]
-
-ÉQUILIBRE ÉLASTIQUE.
+[p. 194] ÉQUILIBRE ÉLASTIQUE.
 
 Soit U la fonction des forces moléculaires, nous la supposons développable en série de Taylor par rapport aux puissances des ξ, η, ζ ; désignons par Ux le terme homogène de degré a de ce développement, on aura :
 
@@ -10176,9 +9672,7 @@ Ces équations sont du 1er degré en ξεηιζε, ξη η ζε, et s'il y a n m
 
 Comme les molécules ne sauraient être données individuellement, la méthode précédente est purement formelle.
 
-[p. 195]
-
-CORPS DÉFORMABLES..
+[p. 195] CORPS DÉFORMABLES..
 
 Nous supposerons d'abord que la fonction des forces ne Hypothèse redépende que de la configuration du système, c'est-à-dire des distances mutuelles des molécules prises deux à deux.
 
@@ -10246,9 +9740,7 @@ La comparaison des valeurs de Ret R + e donne d'ailleurs
 
 م ou, en faisant :
 
-[p. 196]
-
-NOUVELLES HYPOTHÈSES.
+[p. 196] NOUVELLES HYPOTHÈSES.
 
 { P1 = 2 (DxD ; = Dy Dy + D2D %)
 
@@ -10306,11 +9798,7 @@ Nous pouvons partager les distances mutuelles en trois groupes
 
 Si les volumes considérés sont grands par rapport au rayon d'activité moléculaire, l'importance du troisième groupe est négligeable devant celle des deux autres.
 
-Dans ces conditions nous admettons que l'on a ;
-
-[p. 197]
-
-CORPS DÉFORMABLES.
+Dans ces conditions nous admettons que l'on a ; [p. 197] CORPS DÉFORMABLES.
 
 U — U' + U'
 
@@ -10418,9 +9906,7 @@ On aura en se reportant aux valeurs de
 
 1, p. et en vertu de (3)
 
-[p. 198]
-
-RÉDUCTION DE W.
+[p. 198] RÉDUCTION DE W.
 
 P₁ = 2aDx² + 2x2 Dy² + 2x3Dz² + 23 Dx Dy + 23, Dy Dz + 2BD : Dr P2 =
 
@@ -10522,9 +10008,7 @@ dyi
 
 au + R = 0
 
-[p. 199]
-
-CORPS DÉFORMABLES.
+[p. 199] CORPS DÉFORMABLES.
 
 Si donc P₁ = Q₁ = R₁ = 0 on aura
 
@@ -10622,9 +10106,7 @@ près que ceux de la forme linéaire des a et β ; les 27 coefficients se rédui
 
 1
 
-[p. 200]
-
-RÉDUCTIONS PARTICULIÈRES.
+[p. 200] RÉDUCTIONS PARTICULIÈRES.
 
 Cette hypothèse n'est pas toujours admissible (exemple : cas d'un gaz). L'hypothèse des forces centrales adoptée par Cauchy et Poisson réduit encore le nombre de 21 coefficients des a et ẞ dans la forme quadratique de ces quantités qui coïncide avec les deux derniers termes de la formule (2) appliquée à l'élément Δτ.
 
@@ -10674,9 +10156,7 @@ coefficient de 2 a₁₂ = coefficient de Ba²
 
 coefficient de 2 βεβα[^p200-1]
 
-[p. 201]
-
-CORPS DÉFORMABLES.
+[p. 201] CORPS DÉFORMABLES.
 
 Les relations de ce type sont au nombre de 6, elles sont linéaires et on peut démontrer qu'il n'y en a point d'autres linéaires.
 
@@ -10726,9 +10206,7 @@ d
 
 des trois rapport aux neuf dérivées partielles de dy di
 
-[p. 202]
-
-CORPS
+[p. 202] CORPS
 
 ISOTROPES.
 
@@ -10830,9 +10308,7 @@ dy
 
 2
 
-[p. 203]
-
-CORPS DÉFORMABLES.
+[p. 203] CORPS DÉFORMABLES.
 
 toutes ces sommes ∑ qu'on vient d'écrire sont des sommes de trois termes dont un seul est écrit, les deux autres termes dérivent de celui-ci par la permutation circulaire effectuée simultanément sur les groupes de lettres correspondantes
 
@@ -10884,9 +10360,7 @@ dy dx
 
 ()
 
-[p. 204]
-
-CORDS
+[p. 204] CORDS
 
 ISOTROPES.
 
@@ -10954,7 +10428,6 @@ dz dy
 
 de dy
 
-#### C
 
 Σ
 
@@ -10980,9 +10453,7 @@ d
 
 2
 
-[p. 205]
-
-CORPS DÉFORMABLES.
+[p. 205] CORPS DÉFORMABLES.
 
 On tire de la définition de B
 
@@ -11074,9 +10545,7 @@ Théorème I.
 
 Si les a et les ẞ sont nuls dans toute la masse du corps, il n'y a pas de déformation proprement dite, mais le corps se déplace à la manière d'un solide invariable.
 
-[p. 206]
-
-CORPS ISOTROPES.
+[p. 206] CORPS ISOTROPES.
 
 Supposons en effet que l'on ait :
 
@@ -11184,9 +10653,7 @@ en ayant égard maintenant aux relations < = 0
 
 β = 0.
 
-[p. 207]
-
-CORPS DÉFORMABLES.
+[p. 207] CORPS DÉFORMABLES.
 
 On trouve enfin :
 
@@ -11254,9 +10721,7 @@ II =
 
 Poro la relation entre les II se traduirait par l'égalité à zéro
 
-[p. 208]
-
-CORPS
+[p. 208] CORPS
 
 ISOTROPES.
 
@@ -11290,9 +10755,7 @@ Ainsi pour les corps isotropes les 27 coefficients se réduisent à trois λ, μ
 
 Si les forces extérieures sont nulles dans l'état d'équilibre naturel, les trois coefficients se réduisent à deux (v = y= 0).
 
-[p. 209]
-
-CORPS DÉFORMABLES.
+[p. 209] CORPS DÉFORMABLES.
 
 Si les forces sont centrales, les trois coefficients se réduisent encore à deux (λ = μ).
 
@@ -11326,9 +10789,7 @@ On peut parvenir à la considération de l'équilibre élastique par quelques hy
 
 Ce n'est pas la méthode que nous suivrons, mais je veux seulement présenter à ce sujet une remarque.
 
-[p. 211]
-
-CORPS DÉFORMABLES.
+[p. 211] CORPS DÉFORMABLES.
 
 Les forces extérieures (pesanteur et forces analogues) se réduisent à une résultante de l'ordre de de ou du troisième ordre infinitésimal, passant par G, et à un couple du cinquième ordre ayant un axe passant par G ; les pressions sont des forces qui s'exercent sur l'étendue de la surface de de, et elles se groupent par forces du second ordre ;
 
@@ -11360,9 +10821,7 @@ Zdr ou
 
 Nous considérerons aussi des pressions données exercées sur la surface limite du corps ; chacune de ces pressions
 
-[p. 212]
-
-ÉQUILIBRE ÉLASTIQUE.
+[p. 212] ÉQUILIBRE ÉLASTIQUE.
 
 est rapportée à un élément do de la surface, envisagé dans le premier état.
 
@@ -11408,9 +10867,7 @@ variations virtuelles
 
 et SWde désignant toujours la fonction des forces moléculaires on aura [^p212-1][^p212-2]
 
-[p. 213]
-
-CORPS DÉFORMABLES.
+[p. 213] CORPS DÉFORMABLES.
 
 Posons dW
 
@@ -11564,9 +11021,7 @@ dy
 
 desde dy d dr
 
-[p. 214]
-
-PRESSIONS INTÉRIEURES.
+[p. 214] PRESSIONS INTÉRIEURES.
 
 et deux
 
@@ -11584,7 +11039,6 @@ dB
 
 dC
 
-#### X
 
 = 0
 
@@ -11656,9 +11110,7 @@ C"n
 
 on est ainsi conduit par le calcul lui-même à la notion des pressions intérieures.
 
-[p. 215]
-
-CORPS DÉFORMABLES.
+[p. 215] CORPS DÉFORMABLES.
 
 - Les équations (9) sont des équations aux dérivées partielles du premier ordre par rapport aux trois fonctions inconnues ξ, η, ζ, aux variables x, y, z. Lorsque les forces X, Y, Z sont connues dans toute la masse et que les pressions sont connues à la surface, l'intégration du système (9)
 
@@ -11686,9 +11138,7 @@ P = P = P = 0 à la surface
 
 W₂ dr = 0 W. désignant la partie quadratique de W.
 
-[p. 216]
-
-LES THÉORÈMES D'EXISTENCE.
+[p. 216] LES THÉORÈMES D'EXISTENCE.
 
 Or, en faisant δξ, δη, δζ, respectivement proportionnels à ξ, η, ζ, en trouve que
 
@@ -11710,9 +11160,7 @@ Mais ces théorèmes d'existence intéressent les mathématiciens purs qui, suiv
 
 Ces théorèmes d'existence dont le fameux principe de Dirichlet est l'un des plus simples présentent des difficultés particulières ; ils ont fait l'objet d'études de plusieurs géomètres, au premier rang desquels il faut citer : Schwarz, Neumann, Poincaré, Picard.
 
-[p. 217]
-
-CORPS DÉFORMABLES.
+[p. 217] CORPS DÉFORMABLES.
 
 Envisagés du point de vue de la continuité physique, ces théorèmes paraissent presque évidents, mais l'évidence présumée s'évanouit dès qu'on quitte le domaine de la continuité physique et qu'on se cantonne dans le domaine de la continuité mathématique.
 
@@ -11768,9 +11216,7 @@ dz
 
 les valeurs de ces intégrales forment un ensemble de nombres positifs N.
 
-[p. 218]
-
-INDICATIONS DU CALCUL DES VARIATIONS.
+[p. 218] INDICATIONS DU CALCUL DES VARIATIONS.
 
 A cet ensemble, on peut associer, comme on sait, un nombre m nul ou positif, tel que l'on ait
 
@@ -11830,9 +11276,7 @@ dz
 
 dx² + dy² + do = 0[^p218-1]
 
-[p. 219]
-
-CORPS DÉFORMABLES.
+[p. 219] CORPS DÉFORMABLES.
 
 On conclut de là que la fonction U doit satisfaire à l'équation (11) et par suite qu'elle est la fonction V cherchée.
 
@@ -11864,7 +11308,6 @@ n =
 
 B
 
-#### C
 
 #### I
 
@@ -11928,9 +11371,7 @@ II + BII +
 
 II[^p220-1]
 
-[p. 221]
-
-CORPS DÉFORMABLES.
+[p. 221] CORPS DÉFORMABLES.
 
 D'ailleurs, lorsque les ξ, η. ζ sont nuls, le déterminant
 
@@ -11990,9 +11431,7 @@ Relations entre les A, B, C... et les pressions rapportées aux éléments actue
 
 Soient a, b, c, les cosinus directeurs de la normale và l'élément do envisagé dans le premier état.
 
-[p. 222]
-
-PRESSIONS
+[p. 222] PRESSIONS
 
 ACTUELLES.
 
@@ -12072,9 +11511,7 @@ dz
 
 Soit do, l'étendue nouvelle de l'élément do, et soient toujours N1, N2, N3, T1, T2, T3, les composantes actuelles des pressions rapportées aux éléments actuels, on aura d'après les formules (10) et en négligeant toujours les quantités du second ordre :
 
-[p. 223]
-
-CORPS DÉFORMABLES.
+[p. 223] CORPS DÉFORMABLES.
 
 -A ==
 
@@ -12142,7 +11579,6 @@ do
 
 ces formules donnent lieu à deux autres groupes de formules dérivés de celui-ci par deux permutations circulaires simultanées effectuées sur les éléments de chaque ligne horizontale du tableau suivant.
 
-#### X
 
 y
 
@@ -12176,9 +11612,7 @@ On peut alors simplifier les relations (15) et écrire très approximativement :
 
 -A" -T
 
-[p. 224]
-
-ÉQUATIONS RÉDUITES.
+[p. 224] ÉQUATIONS RÉDUITES.
 
 Lorsque les pressions sont rapportées aux éléments actuels les équations de l'équilibre élastique sont :
 
@@ -12202,7 +11636,6 @@ dTd TdN3
 
 =
 
-#### X
 
 dT3 à l'intérieur
 
@@ -12294,9 +11727,7 @@ dz
 
 - Z
 
-[p. 225]
-
-CORPS DÉFORMABLES.
+[p. 225] CORPS DÉFORMABLES.
 
 et à la surface :
 
@@ -12500,9 +11931,7 @@ dz
 
 15
 
-[p. 226]
-
-DISCONTINUITÉ DES HARMONIQUES.
+[p. 226] DISCONTINUITÉ DES HARMONIQUES.
 
 Prévision
 
@@ -12598,9 +12027,7 @@ les quantités définies au moyen de W₂ par les équations de l'équilibre él
 
 soient ξ' η ' ζ', trois autres fonctions quelconques, et X'Y'Z '
 
-[p. 227]
-
-CORPS DÉFORMABLES.
+[p. 227] CORPS DÉFORMABLES.
 
 P ' P ' P ' les valeurs correspondantes de X, Y, Z P P P,
 
@@ -12670,9 +12097,7 @@ P
 
 У tel est le lemme de M. Poincaré.[^p227-1]
 
-[p. 228]
-
-DISCONTINUITÉ DES HARMONIQUES.
+[p. 228] DISCONTINUITÉ DES HARMONIQUES.
 
 Il comprend comme cas très particulier le théorème de Green.
 
@@ -12768,9 +12193,7 @@ l'identité précédente devient :
 
 Or si des vibrations périodiques distinctes formaient un ensemble continu serait distinct de zéro et son fac
 
-[p. 229]
-
-CORPS DÉFORMABLES.
+[p. 229] CORPS DÉFORMABLES.
 
 teur nul se réduirait pour deux systèmes de vibrations infiniment voisins à
 
@@ -12814,9 +12237,7 @@ Nous représenterons d'ailleurs la fonction W. (ξ, η, ζ) par W₂ (ε).
 
 Ceci posé, envisageons le problème de minimum suivant.
 
-[p. 230]
-
-PRÉVISION DES HARMONIQUES.
+[p. 230] PRÉVISION DES HARMONIQUES.
 
 Considérons tous les groupes de fonctions ξ, η, ζ, qui satisfont à la condition
 
@@ -12878,9 +12299,7 @@ SWade +
 
 3) dr = 0
 
-[p. 231]
-
-CORPS DÉFORMABLES.
+[p. 231] CORPS DÉFORMABLES.
 
 Le nombre 4 est précisément le minimum de -fw :
 
@@ -12942,9 +12361,7 @@ F2
 
 なか + ζζ) do + h = (0)
 
-[p. 232]
-
-PRÉVISION DES HARMONIQUES.
+[p. 232] PRÉVISION DES HARMONIQUES.
 
 d'autre part, en faisant :
 
@@ -12998,9 +12415,7 @@ rendent minima l'intégrale
 
 W. (ρι) ατ
 
-[p. 233]
-
-CORPS DÉFORMABLES.
+[p. 233] CORPS DÉFORMABLES.
 
 2 Si k² est le minimum de cette intégrale le groupe kι, ξί, η, ζ₁ satisfait aux équations (J) et (E).
 
@@ -13054,9 +12469,7 @@ j=1
 
 j = 1
 
-[p. 234]
-
-INDÉPENDANCE DES HARMONIQUES.
+[p. 234] INDÉPENDANCE DES HARMONIQUES.
 
 On va voir que les A, sont tous nuls ; en effet, soit kun nombre entier particulier compris dans la suite
 
@@ -13108,9 +12521,7 @@ k = 0
 
 On aura pour les six premières solutions, six déplacements indépendants du solide rigide ; si l'on avait encore k₁ = o, on aurait un septième déplacement de solide rigide, qui nécessairement serait une fonction linéaire des six pre
 
-[p. 235]
-
-CORPS DÉFORMABLES.
+[p. 235] CORPS DÉFORMABLES.
 
 miers déplacements, mais ceci est contraire au théorème précédent. Donc les nombres k, forment une suite non décroissante à partir de k₁ qui n'est pas nul.
 
@@ -13176,9 +12587,7 @@ Considérons les forces parallèles à l'axe des x et qui sont :
 
 dx parallèle à la face antérieure.
 
-[p. 237]
-
-CORPS DÉFORMABLES.
+[p. 237] CORPS DÉFORMABLES.
 
 On aura donc
 
@@ -13222,9 +12631,7 @@ j = X
 
 p dx [^p237-1][^p237-2]
 
-[p. 238]
-
-LES FLUIDES.
+[p. 238] LES FLUIDES.
 
 On a donc en (1) 3 équations aux 5 fonctions inconnues : υ, υ, ω, ρ, p.
 
@@ -13284,9 +12691,7 @@ U' = Udp
 
 d
 
-[p. 239]
-
-CORPS DÉFORMABLES.
+[p. 239] CORPS DÉFORMABLES.
 
 Donc les théorèmes d'Helmholtz sur les tourbillons sont applicables.
 
@@ -13334,9 +12739,7 @@ Telles sont les conditions aux limites qu'il faut adjoindre aux équations (1) e
 
 u, v, w, p, ρ.
 
-[p. 240]
-
-LES
+[p. 240] LES
 
 FLUIDES.
 
@@ -13446,9 +12849,7 @@ dy
 
 dz
 
-[p. 241]
-
-CORPS DÉFORMABLES.
+[p. 241] CORPS DÉFORMABLES.
 
 la méthode du dernier multiplicateur fournira une nouvelle intégrale du système 5.
 
@@ -13546,9 +12947,7 @@ D (a, b, c) — D (xo Yor) D (a, b c)
 
 16
 
-[p. 242]
-
-INTÉGRALES DE CAUCHY.
+[p. 242] INTÉGRALES DE CAUCHY.
 
 Éliminons des équations (5) la fonction U' par les identités
 
@@ -13652,9 +13051,7 @@ da de
 
 revenons aux variables d'Euler on aura :
 
-[p. 243]
-
-CORPS DÉFORMABLES.
+[p. 243] CORPS DÉFORMABLES.
 
 du dz
 
@@ -13794,9 +13191,7 @@ on aura donc aussi :
 
 p = q = r = 0
 
-[p. 244]
-
-AUTRE ASPECT DES THÉORÈMES D'HELMHOLTZ.
+[p. 244] AUTRE ASPECT DES THÉORÈMES D'HELMHOLTZ.
 
 c'est le théorème de Lagrange, contenu comme on le voit dans les intégrales de Cauchy.
 
@@ -13908,9 +13303,7 @@ s
 
 en vertu des équations de continuité, se transforme ; car en désignant par de le volume transformé du volume primitif da db dc :
 
-[p. 245]
-
-CORPS DÉFORMABLES.
+[p. 245] CORPS DÉFORMABLES.
 
 pdr = po da db dc
 
@@ -13996,9 +13389,7 @@ T =
 
 dt
 
-[p. 246]
-
-FORMULES DE CLEBSCH.
+[p. 246] FORMULES DE CLEBSCH.
 
 Donc en posant :
 
@@ -14098,9 +13489,7 @@ uôi + vòy + wδα = δ (S + φο) + m。。 Nous savions déjà que nous pouvi
 
 udx + vdy + wdz == ô q + m d Mais nous avons ici quelque chose de plus : met peuvent être supposés indépendants de t, seule la fonction = S + po peut renfermer t.
 
-[p. 247]
-
-CORPS DÉFORMABLES.
+[p. 247] CORPS DÉFORMABLES.
 
 mo et. sont d'ailleurs, nous le savons, deux intégrales de surfaces tourbillonnaires ; en écrivant que met
 
@@ -14222,9 +13611,7 @@ U dv d =
 
 dx
 
-[p. 249]
-
-CORPS DÉFORMABLES.
+[p. 249] CORPS DÉFORMABLES.
 
 Ces formules supposent l'existence des dérivées partielles de U et de Vet la continuité de U et V.
 
@@ -14300,9 +13687,7 @@ Il peut arriver que la fonction V tout en ayant ses dérivées uniformes ne soit
 
 Considérons, par exemple, un domaine D en forme de tore et un fluide en circulation dans ce tore, supposons
 
-[p. 250]
-
-FORMULE DE GREEN.
+[p. 250] FORMULE DE GREEN.
 
 d'ailleurs qu'il existe une fonction des vitesses, cette fonction peut ne pas être uniforme.
 
@@ -14384,9 +13769,7 @@ dn
 
 et elle a une conséquence analytique intéressante qui
 
-[p. 251]
-
-CORPS DÉFORMABLES.
+[p. 251] CORPS DÉFORMABLES.
 
 trouve son application dans bien des questions de Physique mathématique.
 
@@ -14446,9 +13829,7 @@ dx
 
 La recherche d'une fonction U satisfaisant à l'équation de Laplace, (on la dit harmonique), à l'intérieur de Det prenant des valeurs données à l'avance (U) sur la frontière de D constitue le fameux problème de Dirichlet dont nous avons déjà parlé plus haut.
 
-[p. 252]
-
-FORMULE DE GREEN.
+[p. 252] FORMULE DE GREEN.
 
 Autre formule de Green.
 
@@ -14510,11 +13891,7 @@ dni
 
 dr
 
-Le second nombre a donc pour limite — 4V′, V' désignant la valeur de la fonction V en D ;
-
-[p. 253]
-
-CORPS DÉFORMABLES.
+Le second nombre a donc pour limite — 4V′, V' désignant la valeur de la fonction V en D ; [p. 253] CORPS DÉFORMABLES.
 
 d'où cette formule :
 
@@ -14632,9 +14009,7 @@ R
 
 Rdni dw + 4π
 
-[p. 254]
-
-SECOND THÉORÈME DE STOKES.
+[p. 254] SECOND THÉORÈME DE STOKES.
 
 posons comme dans la cinématique des déformations du
 
@@ -14806,9 +14181,7 @@ Les trois parties de l'intégrale
 
 R
 
-[p. 255]
-
-CORPS DÉFORMABLES.
+[p. 255] CORPS DÉFORMABLES.
 
 se transformeront de même et l'on aura
 
@@ -14924,9 +14297,7 @@ dYm
 
 d + α
 
-[p. 256]
-
-SECOND
+[p. 256] SECOND
 
 THÉORÈME DE STOKES.
 
@@ -15016,9 +14387,7 @@ dw'R [A ' cos (n'y) — B ' cos (n'x)]
 
 faisons dans cette identité B ' = w ', C'= — v ', A ' = 0. Le premier membre de l'identité actuelle coïncide au signe près avec le second terme de 4πα ; celui-ci peut donc s'écrire
 
-[p. 257]
-
-CORPS DÉFORMABLES.
+[p. 257] CORPS DÉFORMABLES.
 
 d
 
@@ -15126,9 +14495,7 @@ w ' cos (n'x) — u ' cos (n'z) R +
 
 17
 
-[p. 258]
-
-SECOND THÉORÈME DE STOKES.
+[p. 258] SECOND THÉORÈME DE STOKES.
 
 posons alors
 
@@ -15238,9 +14605,7 @@ dx ++
 
 dz
 
-[p. 259]
-
-CORPS DÉFORMABLES.
+[p. 259] CORPS DÉFORMABLES.
 
 or, on a
 
@@ -15370,9 +14735,7 @@ Z = dy
 
 dx
 
-[p. 260]
-
-SECOND THÉORÈME DE STOKES.
+[p. 260] SECOND THÉORÈME DE STOKES.
 
 forme d'où résulte immédiatement l'identité
 
@@ -15482,9 +14845,7 @@ dzdx
 
 dy
 
-[p. 261]
-
-CORPS DÉFORMABLES.
+[p. 261] CORPS DÉFORMABLES.
 
 on tire :
 
@@ -15594,9 +14955,7 @@ r R
 
 Z = π
 
-[p. 262]
-
-MOUVEMENT PLAN D'UN LIQUIDE.
+[p. 262] MOUVEMENT PLAN D'UN LIQUIDE.
 
 donc
 
@@ -15680,9 +15039,7 @@ VL + R² + L
 
 )
 
-[p. 263]
-
-CORPS DÉFORMABLES.
+[p. 263] CORPS DÉFORMABLES.
 
 et en négligeant R, devant L on pourra prendre :
 
@@ -15776,9 +15133,7 @@ dx dy
 
 dy dx
 
-[p. 264]
-
-VORTEX UNIQUE PERMANENT.
+[p. 264] VORTEX UNIQUE PERMANENT.
 
 ou AZ = F (Z). D'ailleurs Z = Ce est l'équation des trajectoires.
 
@@ -15866,9 +15221,7 @@ R₁ la continuité des vitesses exige que A
 
 ωα².
 
-[p. 265]
-
-CORPS DÉFORMABLES.
+[p. 265] CORPS DÉFORMABLES.
 
 Les vitesses tangentielles sont alors, dans le noyau
 
@@ -15980,9 +15333,7 @@ Xj
 
 T
 
-[p. 266]
-
-TOURBILLONS SIMULTANÉS TRÈS DÉLIÉS.
+[p. 266] TOURBILLONS SIMULTANÉS TRÈS DÉLIÉS.
 
 Les 2 n équations précédentes admettent 4 n intégrales ; en voici d'évidentes
 
@@ -16034,7 +15385,6 @@ donc
 
 Ce résultat, où l'origine est quelconque, contient les précédents. On peut déduire de ces intégrales précédentes une nouvelle forme. On a
 
-#### X
 
 Xdxi
 
@@ -16118,9 +15468,7 @@ Je ne suivrai pas cette marche, difficile et minutieuse.
 
 Dans ce qui suit, nous n'emprunterons à la théorie de l'élasticité que la notion des pressions intérieures, et nous
 
-[p. 268]
-
-MODULE DE RUPTURE.
+[p. 268] MODULE DE RUPTURE.
 
 définirons plus loin les pièces que l'on considère dans la théorie de la résistance des matériaux, et les hypothèses simplifiantes adoptées sur leurs déformations élastiques.
 
@@ -16156,9 +15504,7 @@ Lorsque le rapport f atteint progressivement une certaine Charge de rupture.
 
 valeur p, la limite d'élasticité est d'abord dépassée, puis la rupture se produit sous la charge e qui porte le nom de charge ou module de rupture.
 
-[p. 269]
-
-RÉSISTANCE DES SOLIDES.
+[p. 269] RÉSISTANCE DES SOLIDES.
 
 Pour déterminer les dimensions des pièces, on peut exiger qu'en aucun point de la pièce, la pression ou tension par unité de surface ne dépasse une certaine fraction empirique
 
@@ -16200,9 +15546,7 @@ Cette limite Pest relative à la répétition d'efforts élastiques de même sen
 
 Voici quelques nombres obtenus par Wöhler et que j'emprunte au bel ouvrage de M. Maurice Lévy ' et qui sont relatifs à un essieu en fer :[^p269-1]
 
-[p. 270]
-
-EXPÉRIENCES DE WÖHLER.
+[p. 270] EXPÉRIENCES DE WÖHLER.
 
 Valeur de la tension maxima
 
@@ -16256,9 +15600,7 @@ p + : déterminent cette rupture immédiatement.
 
 max le maximum en valeur absolue de l'autre. Dans chacun des deux derniers cas, on adoptera pour modules de sécurité théorique un effort élastique R pour le second cas, R₂ pour le troisième cas tels que :
 
-[p. 271]
-
-RÉSISTANCE DES SOLIDES.
+[p. 271] RÉSISTANCE DES SOLIDES.
 
 les hypothèses
 
@@ -16312,9 +15654,7 @@ R2
 
 ρι[^p271-1]
 
-[p. 272]
-
-LES TROIS MODULES D'ÉLASTICITÉ.
+[p. 272] LES TROIS MODULES D'ÉLASTICITÉ.
 
 1 Module de sédésignant une fraction, choisie de sentiment, on pose curitépratique.
 
@@ -16360,9 +15700,7 @@ Nous considérerons une pièce engendrée par une aire plane A dont le centre de
 
 seront supposées petites non seulement par rapport à la longueur de L, mais encore par rapport aux divers rayons de courbure de l'arc L. La courbe L porte le nom de fibre moyenne, lorsque l'espace ainsi engendré par l'aire A est supposé rempli d'une matière homogène et élastique.
 
-[p. 273]
-
-RÉSISTANCE DES SOLIDES.
+[p. 273] RÉSISTANCE DES SOLIDES.
 
 Il arrivera quelquefois que l'aire mobile A varie lentement, la variation de ses dimensions restant petite par rapport à l'arc décrit sur la ligne moyenne qui demeure le lieu des centres de gravité de l'aire A.
 
@@ -16380,9 +15718,7 @@ G sant par le centre de gravité G₁, de la section A, et en couple M₁. Comme
 
 18
 
-[p. 274]
-
-HYPOTHÈSES NOUVELLES.
+[p. 274] HYPOTHÈSES NOUVELLES.
 
 Relativement aux signes de M., N., T, on fait les conventions suivantes : on prend comme direction positive de N la tangente en G, à la courbe L, dirigée dans le sens G des ares croissants au delà de A, lorsque la courbe es t parcourue de A. à A₁, on complète avec une direction Gy de la normale et une direction G₁ = perpendiculaire au pla de Z un trièdre G₁x, G₁y, G₁
 
@@ -16410,9 +15746,7 @@ Dans la plupart des cas on admet que les sections A restent normales à la fibre
 
 Dans cette manière de voir les sections sont censées supportées par l'ensemble des fibres normales parallèles à la fibre neutre.
 
-[p. 275]
-
-RÉSISTANCE DES SOLIDES.
+[p. 275] RÉSISTANCE DES SOLIDES.
 
 Les efforts élastiques exercés sur la section A' par la
 
@@ -16444,9 +15778,7 @@ nE ds l'élément do transmettra donc de la partie antérieure à la partie post
 
 ndw normalement à la section.
 
-[p. 276]
-
-FORCES ET DÉFORMATIONS CORRESPONDANTES.
+[p. 276] FORCES ET DÉFORMATIONS CORRESPONDANTES.
 
 Si u est la distance de l'élément do à une droite passant par Get perpendiculaire au plan du tableau (distance comptée positive dans le sens Gy) le moment de cette force élastique sera
 
@@ -16466,9 +15798,7 @@ ces intégrales de surface étant prises dans toute l'étendue S de la section A
 
 Pour calculer ces intégrales, il nous faut évaluer ads qui est une fonction linéaire de u ; en effet la section A ' tourne par rapport à la section A et si on appelle o la quantité dont elle tourne dans le sens positif des moments, on aura pour le raccourcissement ads [^p276-1]
 
-[p. 277]
-
-RÉSISTANCE DES SOLIDES.
+[p. 277] RÉSISTANCE DES SOLIDES.
 
 Or que E soit variable ou non, posons :
 
@@ -16510,9 +15840,7 @@ Mds
 
 on en déduit pour la compression n d'une fibre générale qui s'est raccourcie de
 
-[p. 278]
-
-FIBRE NEUTRE ET CENTRE DES PRESSIONS.
+[p. 278] FIBRE NEUTRE ET CENTRE DES PRESSIONS.
 
 (ods + ωι = 8 ds
 
@@ -16570,13 +15898,10 @@ On trouve ainsi que ce centre est dans le plan de la courbe L à une distance u 
 
 u' = -N
 
-#### M
 
 N
 
-[p. 279]
-
-RÉSISTANCE DES SOLIDES.
+[p. 279] RÉSISTANCE DES SOLIDES.
 
 la comparaison des valeurs de u et u ' montre que
 
@@ -16616,15 +15941,12 @@ G'
 
 Y
 
-#### C
 
 C'
 
 Considérons deux sections infiniment voisines A et A ' normales en Get G ' à la courbe moyenne.
 
-[p. 280]
-
-FORMULE APPLICABLE AUX RESSORTS.
+[p. 280] FORMULE APPLICABLE AUX RESSORTS.
 
 Le déplacement de la section A' par rapport à la section A, peut se résoudre en une translation G'y ' = ôds, et en une rotation & autour de y' par lesquelles A' vient en A" puis en -A"".
 
@@ -16652,7 +15974,6 @@ Po
 
 et par conséquent en vertu des formules (4)
 
-#### M
 
 ΕΙ
 
@@ -16662,9 +15983,7 @@ ES
 
 1[^p280-1][^p280-2]
 
-[p. 281]
-
-RÉSISTANCE DES SOLIDES.
+[p. 281] RÉSISTANCE DES SOLIDES.
 
 d'y
 
@@ -16694,7 +16013,6 @@ dx
 
 la formule (6) devient alors :
 
-#### M
 
 (7)
 
@@ -16742,9 +16060,7 @@ ES
 
 G
 
-[p. 282]
-
-DÉTERMINATION DES DÉPLACEMENTS ÉLASTIQUES.
+[p. 282] DÉTERMINATION DES DÉPLACEMENTS ÉLASTIQUES.
 
 L'effet dû aux rotations successives se calcule tout aussi aisément : la petite rotation & de la section de G (xy) par rapport à la section voisine antérieure distante de ds produit sur le point G₁ (x, y) un déplacement dont les projections des axes OX, OY, fixes, seront :
 
@@ -16806,7 +16122,6 @@ D'ailleurs l'angle résultant o dont a tourné la section G₁ est :
 
 S1
 
-#### M
 
 El ds (8 bis)
 
@@ -16814,9 +16129,7 @@ El ds (8 bis)
 
 S
 
-[p. 283]
-
-RÉSISTANCE DES SOLIDES.
+[p. 283] RÉSISTANCE DES SOLIDES.
 
 Nous admettrons que le glissement y de la section A ' par rapport à la section A qui sur la fibre moyenne en est distante de ds est lié à l'effort tranchant T par la formule
 
@@ -16862,7 +16175,6 @@ Wo (У₁ — Yo) +
 
 So
 
-#### X
 
 Y
 
@@ -16886,7 +16198,6 @@ M (r — r) ds
 
 So
 
-#### X
 
 Y
 
@@ -16906,9 +16217,7 @@ Yo
 
 i
 
-[p. 284]
-
-THÉORÈME GÉNÉRAL.
+[p. 284] THÉORÈME GÉNÉRAL.
 
 Soient F, et F, les composantes parallèles aux axes fixes
 
@@ -17000,9 +16309,7 @@ fait connaître par de simples différentiations l'effort tranchant
 
 et la compression.
 
-[p. 285]
-
-RÉSISTANCE DES SOLIDES.
+[p. 285] RÉSISTANCE DES SOLIDES.
 
 Remarque. Le moment de flexion est toujours une fonction continue, alors même que des forces finies agiraient en des points isolés de la pièce, mais N, et T, peuvent varier brusquement lorsque la section A, vient à passer par le point d'application effectif d'une force isolée.
 
@@ -17092,9 +16399,7 @@ Ndy = Yds — Тах
 
 on peut alors écrire les formules (9) sous la forme :
 
-[p. 286]
-
-NOUVELLES FORMULES.
+[p. 286] NOUVELLES FORMULES.
 
 У
 
@@ -17106,7 +16411,6 @@ $1
 
 + JES dy
 
-#### X
 
 ds_
 
@@ -17154,7 +16458,6 @@ So
 
 $1
 
-#### M
 
 2 = 0
 
@@ -17168,7 +16471,6 @@ Pour une poutre droite horizontale, soumise à des charges verticales N = 0 ; pr
 
 น₁ = 0
 
-#### X
 
 M (x -x)
 
@@ -17200,19 +16502,15 @@ Mx
 
 Wo (X₁ — xo) +
 
-#### X
 
 X1
 
 Supprimant les accents nous pourrons écrire pour l'y de la fibre déformée :
 
-[p. 287]
-
-RÉSISTANCE DES SOLIDES.
+[p. 287] RÉSISTANCE DES SOLIDES.
 
 x
 
-#### X
 
 Md.c
 
@@ -17222,7 +16520,6 @@ M.c
 
 ΕΙ dx
 
-#### X
 
 ?/ = w. (x — xo) +
 
@@ -17232,7 +16529,6 @@ Xo
 
 En différentiant on aura
 
-#### X
 
 Md.x
 
@@ -17256,7 +16552,6 @@ d'y
 
 dx
 
-#### M
 
 ΕΙ
 
@@ -17294,9 +16589,7 @@ a
 
 #### LV
 
-[p. 289]
-
-RÉSISTANCE DES SOLIDES.
+[p. 289] RÉSISTANCE DES SOLIDES.
 
 Dans l'ensemble des deux figures ci-jointes, les lignes d'action des forces ont été numérotées en chiffres romains et les grandeurs des forces en chiffres arabes correspondants. Nous adopterons cette convention.
 
@@ -17330,9 +16623,7 @@ O est le pôle de ce polygone, les rayons vecteurs tracés de O sont les rayons 
 
 19
 
-[p. 290]
-
-POLYGONES FUNICULAIRES.
+[p. 290] POLYGONES FUNICULAIRES.
 
 Lorsque les forces données sont toutes parallèles, tous les côtés du polygone des forces sont dirigés suivant une mème droite, la distance de O à cette droite porte alors le nom de distance polaire.
 
@@ -17348,9 +16639,7 @@ Les forces dirigées suivant les côtés fermés du polygone funiculaire forment
 
 Si le corps considéré n'est pas rigide le système de forces donné est équivalent aux deux mêmes forces plus des paires de forces égales et contraires non appliquées au nème atome, et ayant pour lignes d'action soit les côtés
 
-[p. 291]
-
-RÉSISTANCE DES SOLIDES.
+[p. 291] RÉSISTANCE DES SOLIDES.
 
 du polygone funiculaire, soit les lignes d'action des forces primitivement données.
 
@@ -17378,9 +16667,7 @@ A
 
 #### I
 
-#### D
 
-#### C
 
 B
 
@@ -17394,9 +16681,7 @@ On formera ainsi deux figures ABCD et O, 1-2, 2-3, 3-1, chacune formée de 6 lig
 
 A chaque segment de l'une répond dans l'autre un segment parallèle correspondant ; mais à trois segments de l'une formant triangle ou point correspondent dans l'autre un groupe de trois segments formant point, ou triangle.
 
-[p. 292]
-
-POLYGONES FUNICULAIRES.
+[p. 292] POLYGONES FUNICULAIRES.
 
 Théorème.
 
@@ -17420,9 +16705,7 @@ Problème I.
 
 Étant donné un système plan de forces trouver deux forces les équilibrant, sachant que les lignes d'action données de ces deux forces sont parallèles à la résultante.
 
-[p. 293]
-
-RÉSISTANCE DES SOLIDES.
+[p. 293] RÉSISTANCE DES SOLIDES.
 
 H a 1
 
@@ -17444,9 +16727,7 @@ AV
 
 #### I
 
-[p. 294]
-
-QUELQUES PROBLÈMES.
+[p. 294] QUELQUES PROBLÈMES.
 
 Soient I, II, III, IV les lignes d'action des forces données et Vet VI les lignes d'action des composantes parallèles à la direction ab de la résultante (donnée par le polygone des forces).
 
@@ -17490,9 +16771,7 @@ Problème ΙΠ.
 
 Décomposer une force en deux autres
 
-[p. 295]
-
-RÉSISTANCE DES SOLIDES.
+[p. 295] RÉSISTANCE DES SOLIDES.
 
 parallèles à la première et ayant des lignes d'action données.
 
@@ -17504,11 +16783,9 @@ Soit III la ligne d'action de la force donnée et soient I et II les lignes d'ac
 
 #### II
 
-#### M
 
 0
 
-#### M
 
 1
 
@@ -17518,7 +16795,6 @@ Joignons ces points à un point N₂2 arbitraire sur I, joignons N₂ M₂ et Ng
 
 2
 
-#### M
 
 2 N. M., et par le point où cette
 
@@ -17542,9 +16818,7 @@ statique.
 
 Si deux systèmes plans de forces S et S'sont équivalents et si, relativement à un même pôle, à un même point de
 
-[p. 296]
-
-PROPRIÉTÉS DES POLYGONES FUNICULAIRES.
+[p. 296] PROPRIÉTÉS DES POLYGONES FUNICULAIRES.
 
 départ du polygone des forces, et à un même point de départ des polygones funiculaires, on construit les polygones des forces Pet P ' relatifs, respectivement, aux deux systèmes S et S', leurs deux côtés extrêmes coïncideront respectivement.
 
@@ -17576,9 +16850,7 @@ F2
 
 R
 
-[p. 297]
-
-RÉSISTANCE DES SOLIDES.
+[p. 297] RÉSISTANCE DES SOLIDES.
 
 la résultante R est d'ailleurs donnée sur le polygone des forces par le segment ab et sa ligne d'action peut être fournie par la construction d'un polygone funiculaire.
 
@@ -17600,9 +16872,7 @@ Si on considère les côtés correspondants de deux polygones funiculaires relat
 
 se coupent sur une même droite parallèle à celle qui joint les pôles des deux polygones.
 
-[p. 298]
-
-CAS DES FORCES PARALLÈLES.
+[p. 298] CAS DES FORCES PARALLÈLES.
 
 D'après la 3º propriété, il suffit de démontrer que l'intersection P de deux côtés correspondants appartient à la
 
@@ -17656,9 +16926,7 @@ Cette remarque conduit à des conséquences intéressantes
 
 pour les polygones funiculaires de forces parallèles.
 
-[p. 299]
-
-RÉSISTANCE
+[p. 299] RÉSISTANCE
 
 DES
 
@@ -17678,17 +16946,13 @@ SOLIDES.
 
 5 B
 
-#### L
 
 A
 
 R
 
-#### C
 
-[p. 300]
-
-CAS DES FORCES PARALLÈLES.
+[p. 300] CAS DES FORCES PARALLÈLES.
 
 Soient les forces parallèles (I, II, III, IV ; 1, 2, 3, 4).
 
@@ -17718,9 +16982,7 @@ a'b' × p = [(2.3), 1] × h
 
 Or la résultante partielle R, mesurée par la distance I, (2.3) est indépendante du polygone funiculaire. Le produit a'b ' × p est donc constant.
 
-[p. 301]
-
-RÉSISTANCE DES SOLIDES.
+[p. 301] RÉSISTANCE DES SOLIDES.
 
 De cette propriété résulte un moyen simple de rattacher les tracés de deux polygones funiculaires.
 
@@ -17766,17 +17028,13 @@ R+dR
 
 г
 
-#### M
 
 M'
 
-#### C
 
 et a l'angle que ωμ fait avec l'axe des x dans le sens positif des rotations.
 
-[p. 302]
-
-COURBES FUNICULAIRES.
+[p. 302] COURBES FUNICULAIRES.
 
 En projetant sur chacun des axes le contour fermé ωμμ'ω, on a :
 
@@ -17836,9 +17094,7 @@ est infiniment petit
 
 – R0 + νμ' = 0
 
-[p. 303]
-
-RÉSISTANCE DES SOLIDES.
+[p. 303] RÉSISTANCE DES SOLIDES.
 
 Soient Fods et F₂ds les projections de la force élémentaire sur la tangente et la normale orientée, on aura
 
@@ -17862,7 +17118,6 @@ Adoptons comme axe des y la direction commune des Cas des forces forces
 
 paralleles.
 
-#### X
 
 0
 
@@ -17898,9 +17153,7 @@ si on se donne la force P rapportée à l'élément de longueur normal
 
 Fd = Pdx
 
-[p. 304]
-
-COURBES FUNICULAIRES.
+[p. 304] COURBES FUNICULAIRES.
 
 et par suite l'on aura
 
@@ -17964,9 +17217,7 @@ x
 
 Pour une poutre droite à plusieurs appuis on appliquera la susdite remarque à une travée.
 
-[p. 306]
-
-REMARQUES SUR LES MOMENTS DE FLEXION.
+[p. 306] REMARQUES SUR LES MOMENTS DE FLEXION.
 
 Le moment de la compression est toujours nul.
 
@@ -18010,9 +17261,7 @@ px
 
 formule qui justifie la proposition énoncée.
 
-[p. 307]
-
-RÉSISTANCE DES SOLIDES.
+[p. 307] RÉSISTANCE DES SOLIDES.
 
 - Enfin on remarquera que d'après un théorème plus général établi plus haut on a
 
@@ -18042,7 +17291,6 @@ R'
 
 G
 
-#### C
 
 charges normales. l'appui de gauche de la poutre horiA zontale et considéB
 
@@ -18096,9 +17344,7 @@ R = P
 
 R' = P
 
-[p. 308]
-
-POUTRE DROITE SUR DEUX APPUIS SIMPLES.
+[p. 308] POUTRE DROITE SUR DEUX APPUIS SIMPLES.
 
 Si le point G d'abcisse x est entre A et C, le moment de flexion en ce point sera :
 
@@ -18146,11 +17392,9 @@ l — x
 
 1
 
-#### X
 
 2, désignant la somme relative aux forces à gauche de G, La désignant une somme relative aux forces à droite de G. On peut d'ailleurs écrire
 
-#### X
 
 μ =
 
@@ -18160,9 +17404,7 @@ P (1 — x)
 
 S'il y avait une force finie au point G, son moment nul peut être compris dans l'une ou l'autre des deux sommes.
 
-[p. 309]
-
-RÉSISTANCE DES SOLIDES.
+[p. 309] RÉSISTANCE DES SOLIDES.
 
 Soit une somme s'étendant à toute la travée, on pourra écrire
 
@@ -18196,7 +17438,6 @@ x 1
 
 xp (x — 1) d
 
-#### X
 
 0
 
@@ -18204,7 +17445,6 @@ xp (x — 1) d
 
 1
 
-#### X
 
 1
 
@@ -18216,7 +17456,6 @@ pzdz + xpdz μ =
 
 1
 
-#### X
 
 0 0
 
@@ -18234,7 +17473,6 @@ pdz
 
 0
 
-#### X
 
 Si la charge est uniforme, on a :
 
@@ -18246,9 +17484,7 @@ T = p (x
 
 )
 
-[p. 310]
-
-REPRÉSENTATION DES MOMENTS DE FLEXION.
+[p. 310] REPRÉSENTATION DES MOMENTS DE FLEXION.
 
 Le calcul serait tout aussi facile si la charge uniforme ne régnait que sur une partie de la poutre.
 
@@ -18270,9 +17506,7 @@ de l'échelle des forces.
 
 Le moment de flexion est le produit de S par la distance du point C à la droite a ' b ' ; or on a vu, plus haut, que ce produit est encore égal au produit de a'b ' par la distance polaire p, c'est-à-dire, par la distance de O à la droite ba.
 
-[p. 311]
-
-RÉSISTANCE DES SOLIDES.
+[p. 311] RÉSISTANCE DES SOLIDES.
 
 2
 
@@ -18300,7 +17534,6 @@ B
 
 #### II
 
-#### D
 
 ةح
 
@@ -18308,9 +17541,7 @@ B
 
 ८
 
-[p. 312]
-
-DROITE FONDAMENTALE D'UNE TRAVÉE.
+[p. 312] DROITE FONDAMENTALE D'UNE TRAVÉE.
 
 L'effort tranchant en Gest précisément la force R mesurée comme on vient de le voir par le segment.
 
@@ -18346,9 +17577,7 @@ M = zp
 
 +
 
-[p. 313]
-
-RÉSISTANCE DES SOLIDES.
+[p. 313] RÉSISTANCE DES SOLIDES.
 
 Or la parenthèse est la portion d'ordonnée comprise entre le polygone et la droite qui a pour équation :
 
@@ -18384,7 +17613,6 @@ composition
 
 graphique.
 
-#### M
 
 p si pest la distance
 
@@ -18392,17 +17620,13 @@ polaire, cette ordonnée est, le produit
 
 dx représente donc l'aire infiniment petite aa ' bb ' ; or, si on arrête les ordonnées à la corde A ' B ' du
 
-#### M
 
 P[^p313-1]
 
-[p. 314]
-
-EMPLOI DE FORCES FICTIVES.
+[p. 314] EMPLOI DE FORCES FICTIVES.
 
 polygone funiculaire cette aire est la différence des aires aa'bb ' et aa'aa '.
 
-#### M
 
 Ainsi la force fictive
 
@@ -18450,9 +17674,7 @@ Représentons
 
 l'aire du polygone par un rectangle de base arbitraire ẞ fixe et de hauteur η, η représentera la force descendante et elle devra être appliquée suivant l'ordonnée du centre de gravité de l'aire du premier polygone.
 
-[p. 315]
-
-RÉSISTANCE DES SOLIDES.
+[p. 315] RÉSISTANCE DES SOLIDES.
 
 De même si on décompose l'aire du trapèze en deux triangles par la diagonale A'B '', la force ascendante pourra être décomposée en deux forces
 
@@ -18524,15 +17746,12 @@ Mdx
 
 descendantes ou ascendantes suivant le signe de M, la fibre moyenne de la poutre déformée coïncide avec
 
-[p. 316]
-
-POUTRE SIMPLE MI -APPUYÉE, MI — ENCASTRÉE.
+[p. 316] POUTRE SIMPLE MI -APPUYÉE, MI — ENCASTRÉE.
 
 l'une des courbes funiculaires relatives à ces charges, ayant une distance polaire égale à l'unité de longueur.
 
 En effet, on a vu que l'équation différentielle de la fibre moyenne déformée est :
 
-#### M
 
 ΕΙ
 
@@ -18562,15 +17781,12 @@ A
 
 B
 
-#### M
 
 Telle est la proposition qui résume la théorie de la poutre considérée. Pour la démontrer, envisageons la fibre moyenne déformée AMB.
 
 C'est une courbe funiculaire des charges fictives considérées, donc les tangentes extrêmes se coupent en un point de la résultante ; mais l'une de ces tangentes est la droite AB, donc la résultante passe par l'appui simple B.
 
-[p. 317]
-
-RÉSISTANCE DES SOLIDES.
+[p. 317] RÉSISTANCE DES SOLIDES.
 
 1º Théorie graphique.
 
@@ -18614,13 +17830,10 @@ III, IV, B. ; soit p sa distance polaire ; la base des ordonnées destinées à 
 
 dx aient une
 
-#### M
 
 P résultante passant par B ; mais ces charges fictives peuvent se
 
-[p. 318]
-
-POUTRE SIMPLE MI — APPUYÉE MI — ENCASTRÉE.
+[p. 318] POUTRE SIMPLE MI — APPUYÉE MI — ENCASTRÉE.
 
 résoudre en une différence de charges dues au moment de flexion des charges données et en une charge ascendante égale à l'aire inconnue du triangle B. A, A..
 
@@ -18652,13 +17865,10 @@ ou l'aire du triangle A. C. B., et elle passera par le centre de gravité G. de 
 
 Pour décomposer la force C. D. XXen deux, passant
 
-#### X
 
 l'une par g premier tiers de la poutre, voisin de l'encasrement, l'autre par B, prenons BH = C. D. puis menons
 
-[p. 319]
-
-RÉSISTANCE DES SOLIDES.
+[p. 319] RÉSISTANCE DES SOLIDES.
 
 ਚ
 
@@ -18690,9 +17900,7 @@ A
 
 A
 
-[p. 320]
-
-CAS D'UNE CHARGE 'UNIQUE.
+[p. 320] CAS D'UNE CHARGE 'UNIQUE.
 
 gH, et par le point y pied de l'ordonnée de G., du point y menons K parallèle à gII jusqu'à sa rencontre K avec BII ; menons enfin A. A₁ = BK, joignons A, B, je dis que A, B, sera la base de la mesure des moments de flexion véritable.
 
@@ -18722,11 +17930,7 @@ Traçons la parabole de sommet Set passant par les extrémités A et B de la pou
 
 ; prenons sur l'ordonnée du point A encastré une longueur égale à IS et joignons A, B.
 
-Cette droite sera la base de la mesure des ordonnées qui,
-
-[p. 321]
-
-RÉSISTANCE DES SOLIDES.
+Cette droite sera la base de la mesure des ordonnées qui, [p. 321] RÉSISTANCE DES SOLIDES.
 
 arrêtées au polygone funiculaire, représentent les véritables moments de flexion.
 
@@ -18760,9 +17964,7 @@ IS = ದl
 
 21
 
-[p. 322]
-
-THÉORIE ANALYTIQUE.
+[p. 322] THÉORIE ANALYTIQUE.
 
 u.dx
 
@@ -18814,9 +18016,7 @@ B
 
 y
 
-[p. 323]
-
-RÉSISTANCE DES SOLIDES.
+[p. 323] RÉSISTANCE DES SOLIDES.
 
 Prenons comme origine l'extrémité non encastrée de la poutre. Le moment de flexion M sera de la forme :
 
@@ -18832,7 +18032,6 @@ M = μ + Αχ
 
 On va déterminer A en exprimant que les forces fictives
 
-#### M
 
 ΕΙ dx ont une résultante passant par l'origine ; la somme des moments de ces forces par rapport à B sera donc nulle, donc
 
@@ -18860,9 +18059,7 @@ Ej xdx + A
 
 0
 
-[p. 324]
-
-POUTRE MI-APPUYÉE, MI-ENCASTRÉE.
+[p. 324] POUTRE MI-APPUYÉE, MI-ENCASTRÉE.
 
 d'où
 
@@ -18890,11 +18087,9 @@ El xlx
 
 0
 
-#### M
 
 μ
 
-#### X
 
 xdx
 
@@ -18916,7 +18111,6 @@ P(1 — x).
 
 0
 
-#### X
 
 μ
 
@@ -18936,9 +18130,7 @@ Dada
 
 0
 
-[p. 325]
-
-RÉSISTANCE DES SOLIDES.
+[p. 325] RÉSISTANCE DES SOLIDES.
 
 Si la poutre est homogène et de section constante, on a :
 
@@ -19002,9 +18194,7 @@ devra donc se réduire à une force horizontale ; celle- ci doit donc être null
 
 Si la poutre est homogène à section constante, la théorie graphique conduira encore à décomposer l'aire polygonale déjà considérée en deux forces passant par le premier et le dernier tiers de la poutre et la détermination de ces
 
-[p. 326]
-
-POUTRE DOUBLEMENT ENCASTRÉE.
+[p. 326] POUTRE DOUBLEMENT ENCASTRÉE.
 
 deux composantes fera connaître encore la base des ordonnées représentatives des véritables moments de flexion.
 
@@ -19022,7 +18212,6 @@ Le théorème des projections et le théorème des moments expriment cet équili
 
 1
 
-#### M
 
 ΕΙ d.x = 0,
 
@@ -19084,9 +18273,7 @@ pedo
 
 si la poutre est de section symétrique en son milieu, on peut prendre ce point pour origine, alors
 
-[p. 327]
-
-RÉSISTANCE DES SOLIDES.
+[p. 327] RÉSISTANCE DES SOLIDES.
 
 + 2
 
@@ -19104,7 +18291,6 @@ Suxdx
 
 dx
 
-#### L
 
 A B =
 
@@ -19146,9 +18332,7 @@ T
 
 0 Si la section est constante et si l'origine est prise à une extrémité de la poutre on a :
 
-[p. 328]
-
-POUTRE DOUBLEMENT ENCASTRÉE.
+[p. 328] POUTRE DOUBLEMENT ENCASTRÉE.
 
 1
 
@@ -19236,7 +18420,6 @@ On trouvera sans difficulté Charges isolées.
 
 ι
 
-#### X
 
 ΣΡα +
 
@@ -19250,7 +18433,6 @@ X- 1
 
 0
 
-#### X
 
 1 1 +
 
@@ -19262,15 +18444,12 @@ Pa (1-2)2 0
 
 1
 
-[p. 329]
-
-RÉSISTANCE DES SOLIDES.
+[p. 329] RÉSISTANCE DES SOLIDES.
 
 Et pour des charges élémentaires Charges continues.
 
 Gdz
 
-#### X
 
 nefansfunin
 
@@ -19366,9 +18545,7 @@ A
 
 ข
 
-[p. 331]
-
-RÉSISTANCE DES SOLIDES.
+[p. 331] RÉSISTANCE DES SOLIDES.
 
 Soient A — 1, A, A1 + 1 les trois appuis consécutifs de deux travées de longueurs 14 et 14 + 1, soit toujours M le moment de flexion en un point quelconque de la poutre, appliquons sur la travée 14 des forces fictives élémentaires
 
@@ -19410,9 +18587,7 @@ Soit
 
 En désignant par H -1 H + 1 les points des ordonnées des appuis extrêmes qui sont au niveau de l'appui moyen on a :
 
-[p. 332]
-
-THÉORÈME DES TROIS APPUIS.
+[p. 332] THÉORÈME DES TROIS APPUIS.
 
 Ti +1
 
@@ -19448,9 +18623,7 @@ Ti+ 1 Ait1
 
 et par suite [^p332-1][^p332-2]
 
-[p. 333]
-
-RÉSISTANCE DES SOLIDES.
+[p. 333] RÉSISTANCE DES SOLIDES.
 
 En désignant par z, sous le signe fles abcisses relatives à chaque travée, le développement de l'équation précédente sera
 
@@ -19522,9 +18695,7 @@ Mx
 
 El dx = y — y.[^p333-1]
 
-[p. 334]
-
-PROPRIÉTÉ D'UNE TRAVÉE DE RIVE.
+[p. 334] PROPRIÉTÉ D'UNE TRAVÉE DE RIVE.
 
 et si les deux appuis sont de niveau
 
@@ -19584,9 +18755,7 @@ El
 
 0
 
-[p. 335]
-
-RÉSISTANCE DES SOLIDES.
+[p. 335] RÉSISTANCE DES SOLIDES.
 
 on
 
@@ -19636,9 +18805,7 @@ y
 
 Donc, aussi la ligne de fermeture (base des ordonnées représentatives des moments) pivotera aussi autour d'un point fixe d'abcisse u, car si Z est l'ordonnée de la ligne de fermeture, on a :
 
-[p. 336]
-
-TRANSFORMATION DU THÉORÈME FONDAMENTAL.
+[p. 336] TRANSFORMATION DU THÉORÈME FONDAMENTAL.
 
 Z × p = (μ — Μ)
 
@@ -19688,9 +18855,7 @@ est nul aux deux appuis
 
 M = Al + B
 
-[p. 337]
-
-RÉSISTANCE DES SOLIDES.
+[p. 337] RÉSISTANCE DES SOLIDES.
 
 et si a désigne la valeur de
 
@@ -19724,15 +18889,12 @@ Vi Μ = μ + Με
 
 Vi On trouverait de même dans la seconde travée
 
-#### M
 
 (Ui + 1 — x) + (Mi + 1 — Pi + 1)
 
 pour la travée li +1
 
-#### X
 
-#### M
 
 Uit 1
 
@@ -19824,9 +18986,7 @@ lit
 
 22
 
-[p. 338]
-
-TRANSFORMATION DU THÉORÈME FONDAMENTAL.
+[p. 338] TRANSFORMATION DU THÉORÈME FONDAMENTAL.
 
 formule dans laquelle on a posé pour abréger
 
@@ -19882,9 +19042,7 @@ Toutes ces intégrales définies sont calculables quand on connaît les charges,
 
 +1[^p338-1]
 
-[p. 339]
-
-RÉSISTANCE DES SOLIDES.
+[p. 339] RÉSISTANCE DES SOLIDES.
 
 (pour w≤ 2 : 4 = P(-a) x
 
@@ -19970,9 +19128,7 @@ Gi+14 + 13
 
 4
 
-[p. 340]
-
-THÉORÈME DES DEUX MOMENTS.
+[p. 340] THÉORÈME DES DEUX MOMENTS.
 
 Si dans la relation fondamentale on fait Théorème des
 
@@ -20030,7 +19186,6 @@ x² dx
 
 ET +14+
 
-#### M
 
 2
 
@@ -20080,9 +19235,7 @@ vili
 
 0
 
-[p. 341]
-
-RÉSISTANCE DES SOLIDES.
+[p. 341] RÉSISTANCE DES SOLIDES.
 
 en remplaçant u ; par 1 — v, cette relation devient :
 
@@ -20156,9 +19309,7 @@ x (l ; — x) dx
 
 Ni+1 li+1[^p341-1]
 
-[p. 342]
-
-POINTS CORRESPONDANTS.
+[p. 342] POINTS CORRESPONDANTS.
 
 dans les deux sens et le théorème des deux moments fera alors connaître, par son emploi dans les deux sens, 2 n points où les moments de flexion seront connus.
 
@@ -20216,9 +19367,7 @@ li
 
 Wi+1
 
-[p. 343]
-
-RÉSISTANCE DES SOLIDES.
+[p. 343] RÉSISTANCE DES SOLIDES.
 
 par hypothèse
 
@@ -20264,9 +19413,7 @@ Mon seul but, dans ces leçons de mécanique générale, était de donner une pl
 
 On voit d'ailleurs que les résultats obtenus par la théorie, intéressants pour la pratique, mettent aussi en œuvre des
 
-[p. 344]
-
-DIMENSION DES PIÈCES.
+[p. 344] DIMENSION DES PIÈCES.
 
 méthodes géométriques élégantes et qui méritent d'être connues pour elles-mêmes.
 
@@ -20318,9 +19465,7 @@ fmax et l'on aura
 
 Fmax [^p344-1]
 
-[p. 345]
-
-RÉSISTANCE DES SOLIDES.
+[p. 345] RÉSISTANCE DES SOLIDES.
 
 Fmax (12)
 
@@ -20352,7 +19497,6 @@ fumin = Mimax Xu
 
 #### I
 
-#### M
 
 Mmin
 
@@ -20382,15 +19526,12 @@ d'après la formule de Launhardt.
 
 c'est-à-dire enfin :
 
-#### M
 
 Mmax
 
 Momaxx [^p345-1]
 
-[p. 346]
-
-DIMENSION DES PIÈCES.
+[p. 346] DIMENSION DES PIÈCES.
 
 Soient Mmax et
 
@@ -20466,9 +19607,7 @@ Puis si on veut une seconde approximation on opérera ainsi :
 
 Soient u et u ' les éloignements à la fibre moyenne des fibres extrêmes.
 
-[p. 347]
-
-RÉSISTANCE DES SOLIDES.
+[p. 347] RÉSISTANCE DES SOLIDES.
 
 Sous l'influence de la flexion seule ces fibres éprouvent des tensions élastiques de signes contraires de valeurs :
 
@@ -20554,9 +19693,7 @@ No
 
 오[^p347-1]
 
-[p. 348]
-
-DIMENSION DES PIÈCES.
+[p. 348] DIMENSION DES PIÈCES.
 
 No
 
@@ -20570,9 +19707,7 @@ nouvelle valeur de -.
 
 น
 
-[p. 349]
-
-POSTFACE
+[p. 349] POSTFACE
 
 Les questions de mécanique physique, qui ont fait l'objet de la deuxième et de la troisième partie de ces leçons, sont subordonnées, d'une part, à deux hypothèses physiques très générales : le principe de l'inertie et l'existence d'une fonction des forces moléculaires et, d'autre part, à certaines autres hypothèses physiques plus spéciales.
 
@@ -20582,9 +19717,7 @@ Il n'est pas superflu d'insister encore sur les raisons de cette exclusion.
 
 Les lois générales du mouvement sont résumées dans le principe de la moindre contrainte dû à Gauss ; or nous savons que ce principe a une signification indépendante des repères géométriques du mouvement, et dans une certaine mesure, de l'horloge, tandis qu'au contraire le prin
 
-[p. 350]
-
-POSTFACE.
+[p. 350] POSTFACE.
 
 cipe de l'inertie est subordonné à un système absolu de repères comme à une horloge absolue.
 
@@ -20604,9 +19737,7 @@ Plus la mécanique rationnelle sera large, j'allais dire tolérante, plus elle p
 
 Dirai-je toute ma pensée, et après avoir montré l'inutilité
 
-[p. 351]
-
-POSTFACE.
+[p. 351] POSTFACE.
 
 du principe de l'inertie pour la mécanique rationnelle, oserai-je affirmer que ce principe ne paraît pas se prêter à la variété des phénomènes physiques ?
 
@@ -20622,9 +19753,7 @@ Il paraît que des expériences ont été essayées par Hertz dans cet ordre d'i
 
 Ainsi, les phénomènes électriques comparés entre eux, gardent bien l'allure mécanique, mais entre leur méca
 
-[p. 352]
-
-POSTFACE.
+[p. 352] POSTFACE.
 
 nisme particulier et le mécanisme des corps qui nous sont palpables, nul lien n'a été saisi jusqu'à présent.
 
@@ -20650,9 +19779,7 @@ Soit S'un autre système (coordonnées et horloge) dans lequel des phénomènes 
 
 Ce que l'expérience (négative) semble autoriser parfois à admettre, c'est que les déterminismes isolés dans Set dans S'ne sont pas modifiés par le mouvement relatif de S'par rapport à S : en d'autres termes les systèmes S et S'sont isolés. Les philosophes purs regretteront peut-être
 
-[p. 353]
-
-POSTFACE.
+[p. 353] POSTFACE.
 
 qu'il en soit ainsi ; avouons pourtant que s'il en était autrement, la marche progressive des sciences eût été impossible.
 
@@ -20668,17 +19795,9 @@ En tous cas, la mécanique rationnelle survivrait au principe de l'inertie si ce
 
 23
 
-[p. 354]
+[p. 354] [p. 355] NOTES
 
-[p. 355]
-
-NOTES
-
-[p. 356]
-
-[p. 357]
-
-NOTES
+[p. 356] [p. 357] NOTES
 
 NOTE I
 
@@ -20710,9 +19829,7 @@ Soient A et B deux forces égales faisant l'angle 2 x ;
 
 faisons tourner le système des deux forces d'un angle 2 y autour de la bissectrice de l'angle extérieur des deux forces
 
-[p. 358]
-
-NOTES.
+[p. 358] NOTES.
 
 A et B ; par cette rotation les deux forces viennent occuper les positions A' et B ' ; désignons par 2 z les deux angles égaux (B, A ') et (A, B ') et exprimons que les compositions des quatre forces envisagées dans les deux modes de groupement :
 
@@ -20746,9 +19863,7 @@ les variables x, y, z sont d'ailleurs les trois côtés d'un triangle sphérique
 
 est l'hypoténuse, on a donc :[^p358-1][^p358-2][^p358-3]
 
-[p. 359]
-
-NOTES.
+[p. 359] NOTES.
 
 Or d'après une propriété bien connue des grandeurs proportionnelles, cette dernière équivalence exprime que l'on a
 
@@ -20786,9 +19901,7 @@ La seconde démonstration donnée dans cet ouvrage a d'ailleurs le même caract�
 
 Dans la note suivante je généraliserai cette remarque et je ferai voir que le théorème d'Euler sur les rotations finies permet de fonder une théorie de l'équivalence des vecteurs qui est la clef des propriétés métriques dans les trois géométries d'Euclide, de Lobatchewsky et de Riemann.
 
-[p. 360]
-
-NOTE
+[p. 360] NOTE
 
 #### II
 
@@ -20808,9 +19921,7 @@ D'une manière générale on peut dire que toute la portion de la géométrie qu
 
 La composition des rotations finies successives et la trigonométrie sphérique qui en est l'expression constituent en
 
-[p. 361]
-
-NOTES.
+[p. 361] NOTES.
 
 effet un domaine géométrique indépendant du postulatum d'Euclide.
 
@@ -20836,9 +19947,7 @@ Joignons la position variable du point M au point O, nous formons un angle MOA =
 
 Les angles sont des quantités numériquement représentables et homogènes ; nous pouvons donc appliquer à la quantité u toute notion propre au domaine du nombre, l'une de ces notions est la suivante, qui est bien souvent utilisée en analyse
 
-[p. 362]
-
-NOTES.
+[p. 362] NOTES.
 
 « Toute quantité variable qui va sans cesse en croissant. tout en restant moindre qu'une quantité
 
@@ -20846,19 +19955,15 @@ fixe donnée, a nécessairement une limite. »
 
 Or, si par le point O nous menons une droite X'Y ' perpendiculaire à OA, la droite OM est nécessairement située
 
-#### X
 
 0
 
 Y'
 
-#### L
 
 น
 
-#### L
 
-#### M
 
 M'
 
@@ -20882,9 +19987,7 @@ La droite OL et sa symétrique OL'par rapport à OA sont nommées par Lobatchews
 
 Lorsque la limite de l'angle u est égal à l'angle droit les deux droites OL, OL'se confondent avec la droite X'Y' ; telle est l'hypothèse d'Euclide ; ainsi admettre avec Euclide que d'un point on ne peut mener qu'une parallèle à une
 
-[p. 363]
-
-NOTES.
+[p. 363] NOTES.
 
 droite, c'est affirmer que la limite de l'angle u est égale à l'angle droit.
 
@@ -20938,11 +20041,7 @@ dans cette formule k désigne une certaine longueur constante que j'appellerai l
 
 Voici cette définition
 
-y désignant un nombre variable, les fonctions sin y,
-
-[p. 364]
-
-NOTES.
+y désignant un nombre variable, les fonctions sin y, [p. 364] NOTES.
 
 cos y, tang y sont définies par les séries convergentes suivantes
 
@@ -21016,9 +20115,7 @@ sin (2 π + y) = sin y
 
 cos (2 π + y) = cos y
 
-[p. 365]
-
-NOTES.
+[p. 365] NOTES.
 
 ces propriétés si importantes, masquées dans la définition primitive par séries, sont intimement liées aux formules d'addition et à la définition de π
 
@@ -21066,9 +20163,7 @@ II (x) = e
 
 montre que lorsque x tend vers zéro l'angle de paralléπ lisme II(x) tend vers, c'est-à-dire un angle droit ; ainsi dans la géométrie de Lobatchewsky si I (x) n'est pas constant et égal à un droit comme dans la géométrie d'Euclide, du moins I(x) diffère, pour a petit, très peu d'un angle droit.
 
-[p. 366]
-
-NOTES.
+[p. 366] NOTES.
 
 En d'autres termes, pour des figures tracées à l'intérieur d'une sphère de petit rayon €, les relations trigonométriques seront sensiblement les mêmes dans les deux géométries, ou encore, si on considère & comme une variable infiniment petite, l'assimilation des deux trigonométries dans le domaine considéré n'entraîne que des erreurs de l'ordre de ɛ.
 
@@ -21090,9 +20185,7 @@ des forces concourantes s'interprète commodément dans l'espace euclidien par l
 
 Mais il faut bien se garder de conclure de là que la com
 
-[p. 367]
-
-NOTES.
+[p. 367] NOTES.
 
 position des forces concourantes soit dans la dépendance du postulatum d'Euclide.
 
@@ -21120,9 +20213,7 @@ Quant à ce fait que la trigonométrie sphérique est commune aux deux géométr
 
 Nous verrons aussi que le rôle du théorème du travail virtuel est encore le même dans les deux géométries.
 
-[p. 368]
-
-NOTES.
+[p. 368] NOTES.
 
 La statique générale.
 
@@ -21164,9 +20255,7 @@ ce qu'on exprimera par l'égalité
 
 A + B = A₁
 
-[p. 369]
-
-NOTES.
+[p. 369] NOTES.
 
 Si les forces A, B, C, D sont envisagées dans l'ordre énoncé, on répétera plusieurs fois l'opération précédente et si l'on pose :
 
@@ -21208,9 +20297,7 @@ désigne une force variable ayant même
 
 24
 
-[p. 370]
-
-NOTES.
+[p. 370] NOTES.
 
 point d'application que la force donnée A, la force As aura pour limite en intensité et direction la force A lorsque l'intensité de ɛ tend vers zéro.
 
@@ -21254,9 +20341,7 @@ g(x) = h (-x)
 
 En décomposant la force R en deux autres rectangulaires
 
-[p. 371]
-
-NOTES.
+[p. 371] NOTES.
 
 reproduisant le système primitif qui aurait tourné d'un angle 0, on est conduit aux relations fonctionnelles
 
@@ -21306,9 +20391,7 @@ d'où cette nouvelle relation
 
 α[^p371-1]
 
-[p. 372]
-
-NOTES.
+[p. 372] NOTES.
 
 Nous en tirerons les fonctions yet h quand nous connaîtrons la fonction
 
@@ -21344,9 +20427,7 @@ On a d'ailleurs
 
 φ (0) = 1[^p372-1]
 
-[p. 373]
-
-NOTES.
+[p. 373] NOTES.
 
 La relation (1) donne alors :
 
@@ -21370,7 +20451,6 @@ R cos a
 
 R sin z
 
-#### X
 
 Y =
 
@@ -21386,9 +20466,7 @@ Deux systèmes de forces Set S'sont équivalents s'il est possible par l'introdu
 
 A la définition précédente équivaut évidemment la suivante :
 
-[p. 374]
-
-NOTES.
+[p. 374] NOTES.
 
 Deux systèmes Set S'sont équivalents si par des adjonctions de groupes de forces en équilibre sur un même point (constant pour chaque groupe) et par des suppressions de groupes du même genre, le système devient équivalent à zéro.
 
@@ -21416,11 +20494,9 @@ Y
 
 φ
 
-#### X
 
 de la force R seront
 
-#### X
 
 R sin 0 cos
 
@@ -21432,9 +20508,7 @@ En envisageant deux trièdres trirectangles ayant un axe ox ', ox commun et appl
 
 De plus, on verra ainsi que les composantes X, Y, Z peuvent encore s'exprimer ainsi
 
-[p. 375]
-
-NOTES.
+[p. 375] NOTES.
 
 X = R cos (R,)
 
@@ -21464,7 +20538,6 @@ P
 
 P perpendiculaire à la même droite, et
 
-#### X
 
 passant par le milieu de MM', désignons cette résultante par :
 
@@ -21486,9 +20559,7 @@ R
 
 les deux forces R appliquées en Met M'auront pour résul
 
-[p. 376]
-
-NOTES.
+[p. 376] NOTES.
 
 tante 2 R cos β, ẞ étant l'angle sous lequel R coupe la perpendiculaire XY menée au milieu de MM'
 
@@ -21524,9 +20595,7 @@ On pourrait aussi envisager l'hypothèse
 
 F (x) = cos [^p376-1]
 
-[p. 377]
-
-NOTES.
+[p. 377] NOTES.
 
 On tomberait alors sur la géométrie de Riemann où les droites d'un plan sont analogues aux grands cercles d'une sphère.
 
@@ -21572,9 +20641,7 @@ la formule (4) donnerait alors
 
 1
 
-[p. 378]
-
-NOTES.
+[p. 378] NOTES.
 
 Lobatchewsky ou sur celles de Riemann suivant que Ψ (p) < 1 ou que Ψ (p) > 1. D'autre part, l'existence de tels groupes est assurée ; car on sait que les vitesses de rotations possibles sont des vecteurs pour lesquels il existe des modes d'équivalence ou que la composition de ces vecteurs est indépendante des postulatums d'Euclide.
 
@@ -21610,7 +20677,6 @@ e
 
 a
 
-#### X
 
 chdx = ksh
 
@@ -21620,9 +20686,7 @@ a
 
 0
 
-[p. 379]
-
-NOTES.
+[p. 379] NOTES.
 
 de là on conclut que la résultante R de deux forces Pet Q perpendiculaires de même sens sur une même droite MM'en ses extrémités partage le segment MM'en deux parties x et y telles que l'on aura
 
@@ -21660,9 +20724,7 @@ Théorème.
 
 Quand un corps rigide reçoit un déplacement infiniment petit, la somme des travaux virtuels d'une paire de forces équivalente à zéro l'est aussi.
 
-[p. 380]
-
-NOTES.
+[p. 380] NOTES.
 
 En effet, on peut réaliser le déplacement du solide en déplaçant une droite du corps (sans spécification des points de cette droite), puis en donnant au corps une rotation et un glissement le long de cette droite.
 
@@ -21676,7 +20738,6 @@ IJ la plus courte distance de AB et de
 
 A' A'B'¹.
 
-#### X
 
 F
 
@@ -21708,9 +20769,7 @@ Les forces Fa et Fr ne travailleront chacune que dans le glissement axial de la 
 
 La condition nécessaire et suffisante pour que plusieurs forces se fassent équilibre sur un corps rigide est que Théorème.[^p380-1]
 
-[p. 381]
-
-NOTES.
+[p. 381] NOTES.
 
 pour tout déplacement infiniment petit du solide, la somme des travaux virtuels des forces données soit égale à zéro.
 
@@ -21732,7 +20791,6 @@ k
 
 y
 
-#### X
 
 sh.
 
@@ -21762,9 +20820,7 @@ R
 
 P à AB.[^p381-1]
 
-[p. 382]
-
-NOTES.
+[p. 382] NOTES.
 
 Nous
 
@@ -21832,9 +20888,7 @@ un couple de centre O et de bras de levier AB.
 
 Tous les couples de même centre se composent par leurs axes comme en statique euclidienne, le lecteur s'en assu
 
-[p. 383]
-
-NOTES.
+[p. 383] NOTES.
 
 rera bien facilement ; on voit donc que le système des forces est équivalent à un couple de centre O et à une force unique passant par O.
 
@@ -21874,9 +20928,7 @@ do
 
 E désignant le volume décrit par le déplacement de l'élément de surface rigide do
 
-[p. 384]
-
-NOTES.
+[p. 384] NOTES.
 
 La somme de ces travaux sera donc (puisque p = constante)
 
@@ -21924,7 +20976,6 @@ x'
 
 k = une quantité proportionnelle au moment
 
-#### X
 
 Psh
 
@@ -21936,9 +20987,7 @@ Un arc de cercle de rayon x et d'angle au centre a peut géométriques. être re
 
 αφ (α)
 
-[p. 385]
-
-NOTES.
+[p. 385] NOTES.
 
 Le théorème du travail virtuel détermine la fonction
 
@@ -21996,9 +21045,7 @@ k
 
 23
 
-[p. 386]
-
-NOTES.
+[p. 386] NOTES.
 
 La détermination de la constante a définie plus haut va résulter de l'application du théorème de l'équilibre des pressions sur une courbe fermée, nous prendrons comme courbe fermée un demi-cercle et son diamètre de fermeture.
 
@@ -22032,7 +21079,6 @@ et soit T
 
 la tangente à la circonférence que A Le théorème des moments.
 
-#### X
 
 F
 
@@ -22054,7 +21100,6 @@ autour de XX,
 
 aura pour mesure
 
-#### X
 
 A
 
@@ -22070,11 +21115,7 @@ se nomme le moment de la force F par rapport
 
 r duit kT sh à l'axe XX.
 
-Si on effectue la réduction de Poinsot dont il a été ques-
-
-[p. 387]
-
-NOTES.
+Si on effectue la réduction de Poinsot dont il a été ques-[p. 387]NOTES.
 
 tion plus haut, relativement à un point O de l'axe XX, le couple résultant relatif à cette décomposition, peut être décomposée en un couple d'axe XX et un couple perpendiculaire, le moment du premier couple est précisément le moment de F par rapport à XX.
 
@@ -22084,7 +21125,6 @@ Enfin pour terminer ces aperçus j'indiquerai encore deux démonstrations statiq
 
 1º Soient dans un plan P, AX et BY deux droites perpendiculaires à AB et soit BM = ",
 
-#### X
 
 Y soit M'
 
@@ -22092,7 +21132,6 @@ le point symétrique de M par rapport à AB, aux points Met M', appliquons deux 
 
 #### I
 
-#### M
 
 laires au plan P d'un même côté et égales, ces deux forces auront pour résultante la
 
@@ -22106,7 +21145,6 @@ u
 
 Prenons les moments de ces forces par rapport à AX et soient po la distance BA
 
-#### M
 
 et
 
@@ -22120,15 +21158,12 @@ la distance MI du point Mà AX, la somme des moments des composantes sera
 
 shchsh
 
-[p. 388]
-
-NOTES.
+[p. 388] NOTES.
 
 2º Considérons le tronc de cône engendré par la droite BM tournant autour de AX ; la résultante des pressions
 
 exercées uniformément sur la
 
-#### X
 
 surface
 
@@ -22148,7 +21183,6 @@ avec AX de la normale à cette
 
 #### I
 
-#### M
 
 B
 
@@ -22212,9 +21246,7 @@ de
 
 COS
 
-[p. 389]
-
-NOTES.
+[p. 389] NOTES.
 
 d'ailleurs, en différentiant la relation précédemment obtenue :
 
@@ -22256,9 +21288,7 @@ Voici d'abord deux formes du postulatum d'Euclide qui résultent immédiatement 
 
 2º Si dans un espace, des forces perpendiculaires aux côtés d'un triangle QUELCONQUE proportionnelles aux longueurs de ces côtés et appliquées aux milieux de ces côtés se font équilibre, l'espace considéré est Euclidien.
 
-[p. 390]
-
-NOTES.
+[p. 390] NOTES.
 
 Voici une proposition plus inattendue :
 
@@ -22270,7 +21300,6 @@ ou dans celui de Riemann ne saurait exister la plus simple de nos machines simpl
 
 En effet concevons 2 barres AB et CD placées toutes deux
 
-#### X
 
 A
 
@@ -22302,9 +21331,7 @@ B
 
 P
 
-#### C
 
-#### D
 
 sur les premières poulies
 
@@ -22312,7 +21339,6 @@ puis sur les quatre autres
 
 et sur une cinquième pou-
 
-#### M
 
 B P
 
@@ -22320,9 +21346,7 @@ lie M dont le centre est sur l'axe XY ; appliquons à la poulie M une force P ag
 
 On peut toujours régler les dimensions des pièces de manière que le fil arrive perpendiculairement sur la ligne des centres des deux poulies supérieures, laquelle ligne des centres a une longueur égale à 2p ; coupons les fils par un plan UV quelconque, l'équilibre de la barre AB s'exprimera par l'équation :
 
-[p. 391]
-
-NOTES.
+[p. 391] NOTES.
 
 F = 2Tch p
 
@@ -22348,9 +21372,7 @@ Donc enfin les propriétés mécaniques attribuées aux fils flexibles rectilign
 
 - Toute la géométrie de Lobatchewsky comme celle de Riemann pourrait être développée au point de vue statique d'où je me suis placé, mais je crois avoir insisté suffisamment pour que les développements auxquels je fais allusion n'offrent plus de difficulté.[^p391-1]
 
-[p. 392]
-
-NOTE
+[p. 392] NOTE
 
 #### III
 
@@ -22360,7 +21382,6 @@ en l'absence d'une fonction des forces.
 
 Soient
 
-#### X
 
 X'
 
@@ -22402,9 +21423,7 @@ Je suppose de plus que chacune de ces formes est définie et négative ; je dés
 
 six constantes positives dont les trois dernières ne soient
 
-[p. 393]
-
-NOTES.
+[p. 393] NOTES.
 
 pas proportionnelles aux premières, et je considère les forces Fet F ' définies par leurs composantes
 
@@ -22502,9 +21521,7 @@ di²
 
 do
 
-[p. 394]
-
-NOTES.
+[p. 394] NOTES.
 
 Ces équations différentielles linéaires auront, comme on sait, pour intégrales fondamentales des fonctions de t de la forme
 
@@ -22550,9 +21567,7 @@ intermédiaire entre
 
 b
 
-[p. 395]
-
-NOTES.
+[p. 395] NOTES.
 
 α
 
@@ -22566,9 +21581,7 @@ et et l'on
 
 Remarque. — La composition des stabilités qui est impossible en général, est au contraire assurée lorsque les forces dérivent d'une fonction des forces. C'est ce que montrent les théorèmes de Lagrange et de M. Liapounof.
 
-[p. 396]
-
-NOTE IV
+[p. 396] NOTE IV
 
 Sur les mouvements relatifs à la surface de la terre
 
@@ -22582,9 +21595,7 @@ A l'époque où Foucault fit l'expérience du Panthéon, Poinsot fit pour la pre
 
 Cette rotation serait encore un reflet de la rotation du globe terrestre.
 
-[p. 397]
-
-NOTES.
+[p. 397] NOTES.
 
 Dans sa note (Comptes rendus de l'Académie des sciences pour 1851), Poinsot indiquait, comme expérience possible, l'expérience suivante :
 
@@ -22602,9 +21613,7 @@ Le système est d'abord au repos ; la détente de ressorts intérieurs modifie b
 
 Quelle vitesse de rotation va-t-il prendre autour de la verticale ? -Appliquons le théorème des moments autour de la verticale.
 
-[p. 398]
-
-NOTES.
+[p. 398] NOTES.
 
 Les forces de chaque particule du système sont, au lieu de l'observateur
 
@@ -22670,9 +21679,7 @@ dx
 
 dt
 
-[p. 399]
-
-NOTES.
+[p. 399] NOTES.
 
 Le théorème des moments par rapport à la verticale donne à chaque instant t :
 
@@ -22742,7 +21749,6 @@ m
 
 dz
 
-#### X
 
 dt
 
@@ -22768,9 +21774,7 @@ d
 
 d
 
-[p. 400]
-
-NOTES.
+[p. 400] NOTES.
 
 Si nous supposons au contraire que le système rigidifié à l'époque t n'ait qu'un point fixe, désignons par :
 
@@ -22828,9 +21832,7 @@ I — Io
 
 d [^p400-1]
 
-[p. 401]
-
-NOTES.
+[p. 401] NOTES.
 
 - Faire I = I. et le terme en p subsiste
 
@@ -22880,9 +21882,7 @@ Le réservoir A et le réservoir B ' de même forme et de
 
 26
 
-[p. 402]
-
-NOTES.
+[p. 402] NOTES.
 
 même capacité avaient été préalablement remplis d'un mélange d'eau et de glycérine.
 
@@ -22912,9 +21912,7 @@ Un troisième type d'expériences consisterait à mettre en évidence simultané
 
 amplifier toutes deux ; j'ai commencé de nouvelles recherches dans cette direction en m'astreignant de plus à ne plus employer de liquides, mais ces recherches sont loin d'être terminées.
 
-[p. 403]
-
-NOTES.
+[p. 403] NOTES.
 
 L'idée de Poinsot est certainement intéressante, mais pour curieuses qu'elles soient, des expériences de ce genre qui mettent en jeu de petites impulsions arrêtées par le frottement de pivots ou par la torsion des fils ne peuvent pas produire de rotations continues appréciables.
 
@@ -22926,11 +21924,7 @@ Il m'a paru néanmoins que l'idée de Poinsot méritait d'être répandue.
 
 Un plus habile expérimentateur pourra sans doute lui trouver une réalisation plus simple que la mienne.
 
-[p. 404]
-
-[p. 405]
-
-ERRATA
+[p. 404] [p. 405] ERRATA
 
 Page 4, ligne 20 ; au lieu de « sur le point » lire : « sur le plan ».
 
@@ -22986,9 +21980,7 @@ points d'une même surface fermée (ici une sphère).
 
 (
 
-[p. 406]
-
-ERRATA.
+[p. 406] ERRATA.
 
 Page 160, ligne 1, formule ; les trois derniers termes de la forme F
 
@@ -23036,9 +22028,7 @@ lire
 
 dR2
 
-[p. 407]
-
-TABLE DES MATIÈRES
+[p. 407] TABLE DES MATIÈRES
 
 ## Introduction.....
 
@@ -23068,9 +22058,7 @@ La précession..
 
 7
 
-[p. 408]
-
-TABLE DES MATIÈRES.
+[p. 408] TABLE DES MATIÈRES.
 
 #### II
 
@@ -23206,9 +22194,7 @@ M. Liapounof..
 
 116
 
-[p. 409]
-
-TABLE DES MATIÈRES.
+[p. 409] TABLE DES MATIÈRES.
 
 #### V
 
@@ -23266,9 +22252,7 @@ Transformation de AF.........
 
 170
 
-[p. 410]
-
-TABLE DES MATIÈRES.
+[p. 410] TABLE DES MATIÈRES.
 
 #### III
 
@@ -23382,9 +22366,7 @@ Forme probable de la solution générale...
 
 228
 
-[p. 411]
-
-TABLE DES MATIÈRES.
+[p. 411] TABLE DES MATIÈRES.
 
 #### VII
 
@@ -23456,9 +22438,7 @@ Théorème général............
 
 284
 
-[p. 412]
-
-TABLE DES MATIÈRES.
+[p. 412] TABLE DES MATIÈRES.
 
 #### II
 
@@ -23540,9 +22520,7 @@ POSTFACE..
 
 349
 
-[p. 413]
-
-TABLE DES MATIÈRES.
+[p. 413] TABLE DES MATIÈRES.
 
 NOTES
 

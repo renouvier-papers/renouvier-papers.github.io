@@ -10,15 +10,9 @@ title: "La Philosophie de Charles Renouvier"
 
 ---
 
-[p. 1]
+[p. 1] LA PHILOSOPHIE DE RENOUVIER
 
-LA PHILOSOPHIE DE RENOUVIER
-
-[p. 2]
-
-[p. 3]
-
-BIBLIOTHEQUE D'HISTOIRE DE
+[p. 2] [p. 3] BIBLIOTHEQUE D'HISTOIRE DE
 
 LA
 
@@ -54,9 +48,7 @@ LIBRARY
 
 DAVIS
 
-[p. 4]
-
-NOTE
+[p. 4] NOTE
 
 Ces études représentent le résumé du Cours Public que Gaston Milhaud consacra, en 1905, à la Faculté de Montpellier, à la Philosophie de Renouvier.
 
@@ -76,9 +68,7 @@ J. M.
 
 ## Introduction
 
-[p. 6]
-
-a
+[p. 6] a
 
 [p. 7]
 
@@ -92,9 +82,7 @@ siècle.
 
 Il a fait, il est vrai. et il fera probablement moins de bruit dans le monde. Vous comprendrez mieux pourquoi, à mesure que ce cours avancera. En peu de mots, cependant, il est possible d'en faire pressentir les raisons, qui tiennent surtout à la nature même des doctrines. La philosophie d'Auguste Comte est infiniment plus extérieure ; elle rejette, comme métaphysique, non pas seulement toute analyse subtile de la pensée, non pas seulement tout ce qui pourrait rappeler les efforts tendant, depuis Thalès jusqu'à Hégel, à éclaircir quelqu'un des éternels problèmes que s'obstine à poser l'âme humaine ;
 
-mais même elle exclut toute idée, toute notion qui ne se présente pas dans des conditions de positivité suffisante, c'est-à-dire, en somme, toute idée qui ne s'exprime pas en éléments connus directement vérifiables. En outre, et par,
-
-[p. 8]
+mais même elle exclut toute idée, toute notion qui ne se présente pas dans des conditions de positivité suffisante, c'est-à-dire, en somme, toute idée qui ne s'exprime pas en éléments connus directement vérifiables. En outre, et par, [p. 8]
 
 ## Introduction
 
@@ -178,7 +166,7 @@ la
 
 République. Peut-être, à ce moment, notre philosophe était-il à la veille de prendre une part plus active à la vie publique, — et il serait aisé d'imaginer pour lui, par une méthode qui lui était chère, une existence toute différente de ce que fut la sienne, si seulement le coup d'Etat ne s'était pas produit. Il venait ruiner ses espérances, et Renouvier allait, pendant toute la durée du second empire, s'enfoncer plus que jamais dans la méditation philosophique.
 
-C'est la seconde période, la période féconde, où il publie successivement, de 1854 à 1864, les quatre Essais de Critique générale, — et, en 1869, la Science de la Morale. Son système est, dès lors, complètement fixé ; sa construction
+C'est la seconde période, la période féconde, où il publie successivement, de 1854 à 1864, les quatre *Essais de Critique générale*, — et, en 1869, la *Science de la Morale*. Son système est, dès lors, complètement fixé ; sa construction
 
 [p. 13]
 
@@ -204,7 +192,7 @@ Ce qu'il a produit pendant soixante-sept ans, je veux dire depuis sa sortie de l
 
 ses procédés d'éloquence, répondit vertement un jour : « Ce qui fait qu'à mon avis M. Renouvier ne sera jamais, malgré toute sa science, un vrai philosophe, c'est qu'il ne sait pas écrire... »
 
-Cette sorte de reproche avait le don d'agacer Renouvier. Il a eu à cœur d'y répondre : « Je croyais et je crois, dit-il, dans une note du Deuxième Essai, qu'on peut être à la fois un vrai philosophe et savoir écrire, quoiqu'il me semble certain, à consulter les faits, que tous ceux qui ont su écrire, n'ont pas été de vrais philosophes, et vice versa. » L'exagération flagrante de cette remarque montre assez que, sur cette question, Renouvier perdait son sangfroid. « Les philosophes, dit-il ailleurs, sont des poètes ou des savants. Poètes, ils sont intraduisibles ; savants, allonsnous demander à Viète où à Fermat de mettre leurs théorèmes à la portée du salon de conversation ?... Je prétends å la science à mon tour..., je veux donc
+Cette sorte de reproche avait le don d'agacer Renouvier. Il a eu à cœur d'y répondre : « Je croyais et je crois, dit-il, dans une note du Deuxième Essai, qu'on peut être à la fois un vrai philosophe et savoir écrire, quoiqu'il me semble certain, à consulter les faits, que tous ceux qui ont su écrire, n'ont pas été de vrais philosophes, et *vice versa*. » L'exagération flagrante de cette remarque montre assez que, sur cette question, Renouvier perdait son sangfroid. « Les philosophes, dit-il ailleurs, sont des poètes ou des savants. Poètes, ils sont intraduisibles ; savants, allonsnous demander à Viète où à Fermat de mettre leurs théorèmes à la portée du salon de conversation ?... Je prétends å la science à mon tour..., je veux donc
 
 être
 
@@ -230,7 +218,7 @@ Quant à sa dialectique, elle tire en partie sa force de son insistance et comme
 
 En fait, l'ensemble des travaux de Renouvier n'a pas encore été l'objet de nombreuses études. La plus ancienne est le résumé de Ravaisson, dans son Rapport sur la Philosophie française au xxx
 
-siècle (1867). C'est là une date dans l'histoire du néocriticisme ; elle marque le moment où il commence à compter décidément pour les professeurs de l'Université. La génération des jeunes philosophes qui, aux environs'de cette époque, se préparaient à l'agrégation, s'en est trouvée plus ou moins imprégnée. Citons au hasard les noms de Brochard, Liard, Dauriac, Marion, Boirac... Dix ans plus tard, dans la Revue philosophique de M. Ribot, Beurier donnait, en trois substantiels articles, un exposé très complet des thèses essentielles de Renouvier. Puis, si je laisse de côté les études et discussions visant plus particulièrement telle ou telle partie du système, comme la morale, par exemple, je
+siècle (1867). C'est là une date dans l'histoire du néocriticisme ; elle marque le moment où il commence à compter décidément pour les professeurs de l'Université. La génération des jeunes philosophes qui, aux environs'de cette époque, se préparaient à l'agrégation, s'en est trouvée plus ou moins imprégnée. Citons au hasard les noms de Brochard, Liard, Dauriac, Marion, Boirac... Dix ans plus tard, dans la *Revue philosophique* de M. Ribot, Beurier donnait, en trois substantiels articles, un exposé très complet des thèses essentielles de Renouvier. Puis, si je laisse de côté les études et discussions visant plus particulièrement telle ou telle partie du système, comme la morale, par exemple, je
 
 [p. 16]
 
@@ -252,7 +240,7 @@ Poret dont nous connaissons bien la valeur par le témoignage d'un autre de ses 
 
 ## Introduction
 
-ce qui s'appelait philosophie ne renfermait des vérités organiques, et que la science et la société étaient appelées à se reconstruire a priori, dans le cours même de la génération à laquelle j'appartenais, conformément à un plań révélé, auquel ne pouvaient manquer de se rallier tous les membres de l'humanité. Cette folie ne tint pas chez moi jusqu'à la vingtième année ; mais elle me laissa en héritage un cruel désenchantement et, en même temps, un goût maladif pour les synthèses absolues et un dédain puéril pour les procédés analytiques et les connaissances modestes [^p17-1]. »
+ce qui s'appelait philosophie ne renfermait des vérités organiques, et que la science et la société étaient appelées à se reconstruire *a priori*, dans le cours même de la génération à laquelle j'appartenais, conformément à un plań révélé, auquel ne pouvaient manquer de se rallier tous les membres de l'humanité. Cette folie ne tint pas chez moi jusqu'à la vingtième année ; mais elle me laissa en héritage un cruel désenchantement et, en même temps, un goût maladif pour les synthèses absolues et un dédain puéril pour les procédés analytiques et les connaissances modestes [^p17-1]. »
 
 Ce témoignage est très précieux : nous sentons à quel point Renouvier se laissa prendre par les théories saint-simoniennes ; mais, s'il a judicieusement indiqué ce qu'elles lui avaient donné de goût pour les grandes synthèses, il n'a pas eu conscience peut-être de toutes les traces profondes qu'elles lui ont laissées. Certes, il bataillera à toute occasion contre les adeptes de celui qu'il appelera le charlatan Saint-Simon ; il dénoncera sans cesse, dans la plupart de ses écrits, la grande erreur de leur philosophie de l'histoire, qui a empoisonné les esprits du xxx siècle, en leur infusant la croyance au progrès nécessaire ; au nom de la liberté, il combattra le besoin d'autorité et d'organisation extérieure qui les anime ; au nom de la justice, il rejettera la morale du maître trop exclusivement fondée sur l'amour. Mais si, par-dessous les solutions nouvelles qu'il donnera à certains problèmes, nous pénétrons jusqu'aux préoccupations mêmes qui l'amènent à les poser, à les discuter, jusqu'aux sources d'où vient l'ardeur qu'il y apporte, nul doute alors qu'il reste chez Renouvier des traces durables de son passage à travers le Saint-Simonisme.
 
@@ -280,9 +268,7 @@ Au reste, ces deux inspirations, l'une plus proprement humanitaire, l'autre reli
 
 qui se rattachent de près ou de loin au Saint-Simonisme, mais ce sont également celles des Fouriéristes. Or Fourier est un des esprits pour qui Renouvier témoigne toujours le plus de bienveillance et de sympathie. Il discute ses théories bien des fois ; mais, même quand il semble s'en éloigner le plus, il sent le besoin de montrer toute l'estime qu'elles méritent et toute la valeur sinon des solutions trop précises qu'elles apportent, au moins des tendances vraiment philosophiques qu'elles révèlent. Assurément, de seize à vingt ans, à l'âge le plus favorable aux impressions profondes, l'âme de Renouvier a été en partie façonnée par les mêmes courants qui ont abouti à ce socialisme idéaliste des hommes de 1848, et ont imprégné leurs pensées d'une sensibilité quasi mystique.
 
-Ainsi nous nous refusons à accepter le jugement d'après lequel Renouvier aurait répudié, dès sa vingtième année, toutes les voix du dehors qu'il avait si passionnément écoutées. Ce qui est vrai, c'est qu'elles ne suffisent certes pas à nous le faire comprendre ; c'est que cet esprit, ouvert d'abord à tous les courants de la pensée contemporaine et pénétré d'une sorte de philosophie sociale voisine, dans toutes ses applications, de l'action et même de la politique immédiate, ce jeune homme qui refuse d'écouter les leçons de Poret, va tout à coup tressaillir, comme à la rencontre sinon de la vérité, au moins du chemin qui y conduit sûrement, à la lecture... des Principes de Descartes. Oui, tout comme Spinoza,
-
-[p. 20]
+Ainsi nous nous refusons à accepter le jugement d'après lequel Renouvier aurait répudié, dès sa vingtième année, toutes les voix du dehors qu'il avait si passionnément écoutées. Ce qui est vrai, c'est qu'elles ne suffisent certes pas à nous le faire comprendre ; c'est que cet esprit, ouvert d'abord à tous les courants de la pensée contemporaine et pénétré d'une sorte de philosophie sociale voisine, dans toutes ses applications, de l'action et même de la politique immédiate, ce jeune homme qui refuse d'écouter les leçons de Poret, va tout à coup tressaillir, comme à la rencontre sinon de la vérité, au moins du chemin qui y conduit sûrement, à la lecture... des Principes de Descartes. Oui, tout comme Spinoza, [p. 20]
 
 ## Introduction
 
@@ -374,19 +360,11 @@ qu'il reconnaissait ne pouvoir se laisser imposer à titre de simple dictamen de
 
 Nous sommes, avec ce Manuel de 1842, au seuil même de la carrière philosophique de Renouvier, et il semble que nous ayons épuisé la liste des actions extérieures qui se sont exercées sur sa pensée. Sans doute, ses méditations sur les systèmes philosophiques, et notamment sur Leibniz, sur Kant, sur Hume, aideront à fixer de mieux en mieux sa doctrine, lorsque, à la clarté décisive de la loi du Nombre, cette doctrine tendra à devenir une synthèse de la monadologie de Leibniz, du phénoménisme de Hume et du criticisme de Kant ; les causeries avec Lequier élargiront de plus en plus le rôle de la liberté dans la vie intellectuelle de l'homme, comme dans sa vie morale et sociale. Mais il semble que, dès maintenant, tout ce qui pouvait venir du dehors ait suffisamment déterminé, chez Renouvier, l'élan qui se continuera pendant plus de soixante ans, sous l'effort spontané et libre de sa propre réflexion.
 
-[p. 28]
-
-[p. 29]
-
-RENOUVIER EN
+[p. 28] [p. 29] RENOUVIER EN
 
 1842
 
-[p. 30]
-
-[p. 31]
-
-RENOUVIER EN 1842
+[p. 30] [p. 31] RENOUVIER EN 1842
 
 En 1836, Renouvier a soumis à l'Institut un mémoire sur le Cartésianisme. Ce mémoire complété devient le Manuel de Philosophie moderne, publié en 1842. C'est là un document fort précieux, qui nous permet de saisir chez Renouvier, au début de sa carrière philosophique, un certain nombre de tendances, dont les unes se transformeront, et dont
 
@@ -398,11 +376,7 @@ D'abord, ce qui est manifeste, c'est son attachement à la philosophie des idée
 
 siècle, mathématiciens comme eux, sont leurs vrais successeurs et ont fondé la philosophie moderne. Toute la philosophie issue de Bacon et de Locke est prétentieuse et vaine.
 
-Il y a dans les idées, ainsi entendues, deux éléments distincts : l'un est l'ensemble des qualités de clarté, de précision et d'intelligibilité, — qui fait d'elles les notions premières de toute science ; l'autre est l'activité de l'esprit qui les conçoit ou qui les forme. Chez le plus grand des Idéalistes. chez Platon, ces deux éléments sont très frappants et correspondent l'un à la théorie de la réminiscence, l'autre à celle 'de l'amour. Chez Descartes, c'est le premier qui domine ;
-
-[p. 32]
-
-RENOUVIER EN 1842 tout au plus trouverait-on le second dans la notion de la liberté divine capable de créer les vérités éternelles. Chez Renouvier, au contraire, le premier élément s'atténuera peu à peu ; les notions intelligibles et les représentations sensibles seront moins radicalement séparées ;
+Il y a dans les idées, ainsi entendues, deux éléments distincts : l'un est l'ensemble des qualités de clarté, de précision et d'intelligibilité, — qui fait d'elles les notions premières de toute science ; l'autre est l'activité de l'esprit qui les conçoit ou qui les forme. Chez le plus grand des Idéalistes. chez Platon, ces deux éléments sont très frappants et correspondent l'un à la théorie de la réminiscence, l'autre à celle 'de l'amour. Chez Descartes, c'est le premier qui domine ; [p. 32] RENOUVIER EN 1842 tout au plus trouverait-on le second dans la notion de la liberté divine capable de créer les vérités éternelles. Chez Renouvier, au contraire, le premier élément s'atténuera peu à peu ; les notions intelligibles et les représentations sensibles seront moins radicalement séparées ;
 
 les catégories,
 
@@ -418,9 +392,7 @@ C'est par un acte de foi, où l'évidence n'est qu'une illusion, que les Cartés
 
 il pourra étudier la notion en tant qu'elle implique un être ou qu'elle pose un objet ; mais il se trouvera devant un mur
 
-[p. 33]
-
-RENOUVIER EN 1842 infranchissable tant qu'il pourra penser que l'être est un peut-être, que l'être est moi, et qu'en moi la vie se joue sous trois masques, celui de l'être, celui du sujet, celui de l'objet, et que l'être est tour à tour objet et sujet dans cette éternelle comédie. — Il pleurera donc dans sa solitude, il pleureralles ailes coupées en présence d'une création dans laquelle il voudrait s'élancer ; il maudira le savoir et se tordra les mains en désirant n'avoir jamais pensé.
+[p. 33] RENOUVIER EN 1842 infranchissable tant qu'il pourra penser que l'être est un peut-être, que l'être est moi, et qu'en moi la vie se joue sous trois masques, celui de l'être, celui du sujet, celui de l'objet, et que l'être est tour à tour objet et sujet dans cette éternelle comédie. — Il pleurera donc dans sa solitude, il pleureralles ailes coupées en présence d'une création dans laquelle il voudrait s'élancer ; il maudira le savoir et se tordra les mains en désirant n'avoir jamais pensé.
 
 Homme, réjouis-toi cependant ! Ta pensée sera fécondée. Garde le savoir, mais appelle la croyance [^p33-1]. » Et Renouvier montre la croyance faisant son premier office, qui est de nous conduire à affirmer « < d'une part, la réalité des idées ou essences qui sont le point de départ du savoir, c'est-à-dire la réalité de leur être subjectif et de leur être objectif ; d'autre part, la réalité des rapports qu'envisage la raison [^p33-2] ».
 
@@ -430,9 +402,7 @@ ses plus anciennes impressions et à ses plus fortes tendances ». Il est pourta
 
 Cette première application de la croyance est, d'ailleurs, bientôt insuffisante. L'esprit en possession de la réalité de ses idées ne tarde pas à être frappé du caractère contradictoire qu'il trouve partout, soit qu'il envisage le sujet, soit qu'il envisage l'objet.
 
-[p. 34]
-
-RENOUVIER EN 1842
+[p. 34] RENOUVIER EN 1842
 
 D'une part, en effet, le sujet est un ; il a le sentiment profond de son unité ; et, en même temps, il a conscience de la multiplicité des états qui composent son être ; il est donc à la fois un et multiple. En outre, l'être qu'il implique est sans cesse associé au non-être ; ce qui était en lui n'est plus, ce qui est ne sera pas tout à l'heure ; il est soumis au devenir, au changement, il est donc à la fois de l'être et du non-être. En outre encore, il se sent libre, il se sent le maître de ses résolutions, il a conscience de vouloir librement, et pourtant s'il examine de près les états qui précèdent une volition, il aperçoit toujours des motifs auxquels il peut la relier comme il relie un effet à sa cause ; il est donc à la fois libre et déterminé. Et ainsi de suite...
 
@@ -440,9 +410,7 @@ D'autre part, du côté de l'objet, c'est plus saisissant encore. « L'objet est
 
 Bref, partout nous sommes conduits au contradictoire. Quel parti le savant doit-il prendre « au milieu des ruines que nous venons de remuer ? Il peut d'abord s'attacher à l'un des côtés du contradictoire, le développer et nier tout ce qui s'en sépare ; mais alors il se détourne de l'une des faces de la raison et par suite de la raison elle-même. Il peut encore entrer dans la docte ignorance, qui s'exprime ainsi : je sais que je ne sais rien ; mais le savant est un homme, et ce qu'il a de mieux à faire, c'est d'invoquer une seconde fois la croyance et de se jeter dans ses bras, c'est de fonder sur elle seule la conciliation des contraires et de pénétrer ainsi dans une voie nouvelle, dans une nouvelle science ». Que la science triomphe au début de la logique ! avait dit Renouvier, quand il avait fait entendre le premier appel à
 
-[p. 35]
-
-RENOUVIER EN 1842 la croyance. Il dit de même ici : « Il faut repousser loin la vieille logique, dont le principe est qu'une même chose ne peut pas être, et n'être pas en même temps [^p35-1]. »
+[p. 35] RENOUVIER EN 1842 la croyance. Il dit de même ici : « Il faut repousser loin la vieille logique, dont le principe est qu'une même chose ne peut pas être, et n'être pas en même temps [^p35-1]. »
 
 Ainsi la croyance aboutit à nous faire affirmer comme vérité essentielle et fondamentale la fusion des contradictoires. Et c'est là le dernier mot de la méthode philosophique, seule féconde, qui est issue de Descartes et qu'avait préparée le scepticisme d'une part, en dénonçant le contradictoire, la religion chrétienne d'autre part en reconnaissant les mystères.
 
@@ -452,15 +420,9 @@ Ces mots sont les premiers où Renouvier parle de Dieu dans la Doctrine qui term
 
 1
 
-[p. 36]
+[p. 36] RENOUVIER EN 1842 Il semble bien qu'il entende appliquer à l'affirmation de l'être infini les deux degrés de sa croyance, celle qui conduit à la réalité de l'idée, et celle qui voit dans la fusion des contradictoires que réalise l'infini la condition de la suprême réalité. Mais le ton et le langage donnent l'impression que, à l'exemple de Descartes et des Cartésiens, c'est d'un même coup qu'il pose l'existence de sa pensée et celle de Dieu. Parlant de l'argument ontologique, il va jusqu'à déclarer que la réfutation de Kant ne prouve rien, et que ce n'est pas à qui formule cet argument de faire la preuve de sa validité, mais à qui veut le réfuter de faire la preuve de la prétendue illusion qu'il impliquerait. En réalité et en dépit de l'appel à la croyance, l'esprit religieux de Renouvier ne semble même pas sentir autant que Descartes le besoin d'appuyer l'affirmation ontologique de l'être infini sur des raisons persuasives. Il s'adapte, en tous cas, merveileusement à l'état d'âme des Cartésiens, et c'est d'eux que dérive tout naturellement sa métaphysique.
 
-RENOUVIER EN 1842 Il semble bien qu'il entende appliquer à l'affirmation de l'être infini les deux degrés de sa croyance, celle qui conduit à la réalité de l'idée, et celle qui voit dans la fusion des contradictoires que réalise l'infini la condition de la suprême réalité. Mais le ton et le langage donnent l'impression que, à l'exemple de Descartes et des Cartésiens, c'est d'un même coup qu'il pose l'existence de sa pensée et celle de Dieu. Parlant de l'argument ontologique, il va jusqu'à déclarer que la réfutation de Kant ne prouve rien, et que ce n'est pas à qui formule cet argument de faire la preuve de sa validité, mais à qui veut le réfuter de faire la preuve de la prétendue illusion qu'il impliquerait. En réalité et en dépit de l'appel à la croyance, l'esprit religieux de Renouvier ne semble même pas sentir autant que Descartes le besoin d'appuyer l'affirmation ontologique de l'être infini sur des raisons persuasives. Il s'adapte, en tous cas, merveileusement à l'état d'âme des Cartésiens, et c'est d'eux que dérive tout naturellement sa métaphysique.
-
-Il juge à quel point le passage du sujet au monde est plus difficile que le passage du sujet à Dieu ; et alors, ce Dieu se trouvant connu en particulier comme la cause infinie du sujet fini, il lui paraît naturel, pour échapper à la difficulté d'affirmer l'existence du monde, qu'on songe à s'arrêter à cet être infini qui comprendrait tout dans sa plénitude, et le moi et le monde. C'est presque déjà ce qu'il sent chez Malebranche ; c'est, en tous cas, ce qu'il n'est pas surpris de trouver chez Spinoza. Mais ce panthéisme n'est qu'une façade de la vérité ; celle-ci doit se trouver dans la conciliation des contraires, c'est-à-dire du panthéisme et de l'idéalisme ; et cette conciliation se trouve faite par Leibniz. Dieu est créateur des monades, il est leur essence, il a réglé leurs rapports par l'harmonie préétablie, et ce sont là autant de concessions faites au panthéisme ; d'autre part, les monades sont par elles-mêmes des sujets ayant un développement et une vie propres. « Leibniz fut, comme on l'a dit, un grand éclectique,
-
-[p. 37]
-
-RENOUVIER EN 1842 et dans le sens le plus noble de ce mot, lorsqu'entrant après Spinoza dans la philosophie, il revint à Descartes en agrandissant singulièrement sa doctrine, contint comme lui par l'idéalisme le panthéisme, et, grâce aux monades, donna de l'univers la notion la plus complète qui en eût jamais été proposée : un panthéisme absolu, Dieu seul actif et tout puissant, au fond même seule essence de cette infinité de monades qu'il a créées et qu'il conserve par un même acte dans une immuable et universelle harmonie ; et au sein de ce Dieu cependant, la moindre nomade douée d'une force ou d'une vie éternelle et exécutant librement la suite infinie de ses modifications ordonnées [^p37-1]. » Renouvier n'apporte à la Monadologie leibnitienne qu'une seule modification : tandis que pour Leibniz, l'étendue n'est qu'un rapport abstrait, Renouvier la réalise, à l'exemple d'ailleurs de Malebranche et de Spinoza, dans l'être qu'il connaît seul, c'est-à-dire dans la monade, qu'elle s'appelle moi, ou Dieu, ou l'une des monades en nombre infini qui remplissent le moindre élément de matière. L'étendue de Dieu est infinie ; celle de la monade infiniment petite..
+Il juge à quel point le passage du sujet au monde est plus difficile que le passage du sujet à Dieu ; et alors, ce Dieu se trouvant connu en particulier comme la cause infinie du sujet fini, il lui paraît naturel, pour échapper à la difficulté d'affirmer l'existence du monde, qu'on songe à s'arrêter à cet être infini qui comprendrait tout dans sa plénitude, et le moi et le monde. C'est presque déjà ce qu'il sent chez Malebranche ; c'est, en tous cas, ce qu'il n'est pas surpris de trouver chez Spinoza. Mais ce panthéisme n'est qu'une façade de la vérité ; celle-ci doit se trouver dans la conciliation des contraires, c'est-à-dire du panthéisme et de l'idéalisme ; et cette conciliation se trouve faite par Leibniz. Dieu est créateur des monades, il est leur essence, il a réglé leurs rapports par l'harmonie préétablie, et ce sont là autant de concessions faites au panthéisme ; d'autre part, les monades sont par elles-mêmes des sujets ayant un développement et une vie propres. « Leibniz fut, comme on l'a dit, un grand éclectique, [p. 37] RENOUVIER EN 1842 et dans le sens le plus noble de ce mot, lorsqu'entrant après Spinoza dans la philosophie, il revint à Descartes en agrandissant singulièrement sa doctrine, contint comme lui par l'idéalisme le panthéisme, et, grâce aux monades, donna de l'univers la notion la plus complète qui en eût jamais été proposée : un panthéisme absolu, Dieu seul actif et tout puissant, au fond même seule essence de cette infinité de monades qu'il a créées et qu'il conserve par un même acte dans une immuable et universelle harmonie ; et au sein de ce Dieu cependant, la moindre nomade douée d'une force ou d'une vie éternelle et exécutant librement la suite infinie de ses modifications ordonnées [^p37-1]. » Renouvier n'apporte à la Monadologie leibnitienne qu'une seule modification : tandis que pour Leibniz, l'étendue n'est qu'un rapport abstrait, Renouvier la réalise, à l'exemple d'ailleurs de Malebranche et de Spinoza, dans l'être qu'il connaît seul, c'est-à-dire dans la monade, qu'elle s'appelle moi, ou Dieu, ou l'une des monades en nombre infini qui remplissent le moindre élément de matière. L'étendue de Dieu est infinie ; celle de la monade infiniment petite..
 
 En résumé, nous trouvons dans la première philosophie de Renouvier beaucoup d'éléments essentiels que nous retrou-verons plus tard : 1º Un a-priorisme, dans la théorie de la connaissance, qui s'exprimera de préférence, il est vrai, sous une forme analogue au criticisme kantien ;
 
@@ -468,11 +430,7 @@ En résumé, nous trouvons dans la première philosophie de Renouvier beaucoup d
 
 3º Une tendance mystique, qui lui fait rejeter le principe de contradiction lui-même. — Sous une forme moins naïve et plus complexe, elle se manifestera de nouveau à la fin de sa vie ;
 
-4º Un attachement étroit à la philosophie de l'esprit, qui lui fera toujours concevoir l'être sous la forme de l'esprit (substantiel d'abord, puis phénoménal et toujours personnel) ;
-
-[p. 38]
-
-RENOUVIER EN 1842 et, plus généralement, une conception de l'Univers en luimême et dans son rapport avec Dieu conforme à celle de la Monadologie leibnitienne ;
+4º Un attachement étroit à la philosophie de l'esprit, qui lui fera toujours concevoir l'être sous la forme de l'esprit (substantiel d'abord, puis phénoménal et toujours personnel) ; [p. 38] RENOUVIER EN 1842 et, plus généralement, une conception de l'Univers en luimême et dans son rapport avec Dieu conforme à celle de la Monadologie leibnitienne ;
 
 par où la métaphysique de Renouvier sera toujours plus ou moins leibnitienne.
 
@@ -480,19 +438,11 @@ Mais, en outre, cette première philosophie est imprégnée d'infinitisme. L'inf
 
 c'est au plus haut degré la fusion des contradictions, ce mystère auquel la croyance nous invite à nous attacher comme à la suprême réalisation de l'être. Et il y a là deux affirmations : d'une part le caractère contradictoire de l'infini, d'autre part l'affirmation de sa réalité. Sur le premier point, Renouvier ne variera jamais ; sur le second, au contraire, il prendra un jour une attitude diamétralement opposée ; et, dès lors, il proscrira l'infini avec la dernière violence.
 
-[p. 39]
+[p. 39] RENOUVIER
 
-RENOUVIER
+INFINITISTE [p. 40] e
 
-INFINITISTE
-
-[p. 40]
-
-e
-
-[p. 41]
-
-RENOUVIER
+[p. 41] RENOUVIER
 
 INFINITISTE
 
@@ -500,9 +450,7 @@ De 1842 à 1850,
 
 si nous laissons de côté, pour le moment, les préoccupations morales, politiques et sociales, et que nous n'ayons en vue que les travaux plus proprement philosophiques de Renouvier, nous n'avons pas grand changement à signaler. Mais, comme il nous le dira lui-même plus tard, tout l'effort de sa réflexion, d'où naîtra une orientation nouvelle, est dirigé sur le problème de l'infini. Il ne se sent pas complètement rassuré par l'attitude qu'il a prise à l'égard de l'infini et de la contradiction ; certes il maintiendra cette attitude quelques années encore, mais il a cœur d'étudier tout particulièrement dans l'histoire de la pensée philosophique tant ancienne que moderne (Manuel de philosophie ancienne et articles donnés à l'Encyclopédie nouvelle, notamment l'article Philosophie), ce qui touche à l'infini et aux antinomies, pendant qu'il réfléchit assez souvent, d'après son propre témoignage, aux principes sur les quels repose le calcul de l'infini en mathématiques. II sent le besoin de rapprocher ses premières convictions sur l'infini, de celles des grands penseurs de tous les temps, et de les soumettre à l'épreuve de la science elle-même. Essayons de comprendre comment les deux sortes de suggestions qui lui viennent de l'histoire des idées et des mathématiques ont pu se trouver d'accord pendant si longtemps avec ses affirmations infinitistes.
 
-[p. 42]
-
-RENOUVIER
+[p. 42] RENOUVIER
 
 INFINITISTE
 
@@ -510,9 +458,7 @@ INFINITISTE
 
 L'infini chez les Grecs, c'était l'élément auquel manquaient les déterminations nécessaires à l'existence. Il entrait dans la composition des choses, mais à la condition qu'un autre principe s'y joignît, un principe de détermination. L'infini était l'élément inférieur, incomplet, insuffisant, au-dessous de l'être. Il était le principe du multiple, de l'imparfait, du mauvais, tandis que l'élément formel donnait l'unité, l'ordre, l'harmonie, la clarté, la précision, le bien. C'est là, du moins, ce qui se présentait avec des nuances diverses chez tous les penseurs grecs d'avant l'ère chrétienne. Les premiers Ioniens déjà forment le monde avec leur ἄπειρον, demandant au mouvement de lui donner les délimitations nécessaires pour qu'il devienne toute chose. Les Pythagoriciens proclament les deux principes, le fini et l'infini, et le jour où naît la tradition des oppositions fameuses, le fini correspond au droit, à la lumière, au bien, etc. Platon conserve une attitude analogue, et nous retrouvons chez lui l'élément inférieur et déficient soit dans l'ἄπειρον du Philèbe, auquel le πέρας est nécessaire pour « faire cesser l'inimitié entre les contraires, et produire entre eux la proportion et l'accord en y introduisant le nombre », soit dans le réceptacle indéterminé du Timée, qui est le fond commun de toutes les choses différentes, soit dans la dyade indéterminée, qui, d'après Aristote, serait un aspect de la matière chez Platon. Avec Aristote lui-même, l'infini est en puissance dans la matière que le principe formel détermine et fait passer à l'acte. Et ce sont ces notions, diversement mêlées, qui se retrouvent quelques siècles encore chez les philosophes grecs, jusqu'à ce que, par la fusion de l'esprit oriental et de la pensée grecque, les Alexandrins nous appor tent, sous le même mot d'infini, l'idée de la plus haute et de la suprême unité. L'infini était jadis ce à quoi il manque des déterminations et des limites, ce qui est au-dessous des déter
 
-[p. 43]
-
-RENOUVIER
+[p. 43] RENOUVIER
 
 INFINITISTE minations et des limites ; désormais, il exprimera ce qui est au-dessus de toute détermination, de toute limite assignable. Et c'est là la notion qui passera de la philosophie alexandrine dans la tradition chrétienne ; c'est celle, en particulier, que trouveront tout naturellement sur leur chemin les grands Cartésiens du xvi° siècle, ceux que Renouvier s'est donné pour maîtres. Nous sommes avec eux à l'extrême opposé de l'attitude des anciens Grecs : sans la plus petite hésitation, ils voient dans l'infini l'idée la plus positive, d'où dérive le fini par privation.
 
@@ -520,9 +466,7 @@ Nous n'avons pas particulièrement envisagé l'infini quanti tatif ; mais ces r�
 
 et encore, Aristote donne lui-même l'exemple d'être infinitiste sans s'en douter, quand il affirme l'éternité du passé ; mais c'est là une croyance instinctive qu'il partage avec tous les anciens Grecs et même avec tous les peuples anciens. Si l'on eût exprimé devant un penseur de l'antiquité anti-chrétienne le besoin d'un premier commencement absolu pour l'univers, il eût ouvert de grands yeux et eût traité de fou celui qui eût manifesté de telles exigences. C'est, assurément, un point sur lequel la tradition chrétienne a produit un retournement dans les esprits. Mais, lorsque Aristote a le sentiment que, dans une circonstance quelconque, il s'agit d'affirmer l'infini quantitatif actuel, et non pas seulement l'infini en puissance, il le repousse avec horreur. De cette horreur la Physique nous apporte un long et continuel témoignage. Au contraire, nous voyons Descartes parler en toute tranquillité de nombre infini. Par respect pour les formules aristotéliciennes dont la scolastique entretient la tradition, il songe à s'en défendre et prend parfois quelques pré
 
-[p. 44]
-
-RENOUVIER
+[p. 44] RENOUVIER
 
 INFINITISTE cautions pour laisser entendre qu'il s'agit d'indéfini et non d'infini. Mais après lui, en tous cas, les restrictions disparaissent, chez Malebranche d'abord, puis chez Spinoza, qu'on peut dire ivre d'infini, et chez Leibniz..
 
@@ -536,9 +480,7 @@ Le mathématicien, quand il reste dans l'abstrait pur, manie sans doute l'indéf
 
 Etant donnée une longueur déterminée égale à 1, qu'un mobile doit parcourir, nous pouvons envisager la première moitié du chemin 1/2, puis la moitié de ce qui reste à parcourir 1/4, puis 1/8, puis 1/16, et ainsi de suite indéfiniment. Mais, cette fois, la suite infinie est achevée ; elle est inépui-sable, mais elle est épuisée, car le mobile franchit le chemin total.. Et le mathématicien, appliquant ses calculs soit à l'espace décrit, soit à la durée du mouvement, dira que les termes en nombre infini 1/2, 1/4, 1/8,... ont une somme parfaitement déterminée et égale à 1. C'est là le problème que soulèvent les arguments de Zénon d'Elée. Descartes réfutant l'argument de l'Achille, qui au fond ne diffère pas du précédent, semble dire qu'il suffit, pour comprendre, et faire
 
-[p. 45]
-
-RENOUVIER
+[p. 45] RENOUVIER
 
 INFINITISTE disparaître la contradiction, de ne parler que d'indéfini. Renouvier a à cœur de prouver qu'en dépit de son intention Descartes passe bien véritablement à l'infini pour utiliser la formule algébrique, qui donne la somme des termes d'une progression géométrique au cas où la progression est illimitée. « Descartes, dit-il, est au sein du calcul infinitésimal, et, en approfondissant sa propre solution,
 
@@ -554,9 +496,7 @@ des raisonnements indirects, qui démontraient par l'absurde, c'est-à-dire indi
 
 Qu'il s'agisse de la mesure d'une grandeur incommensurable, c'est-à-dire d'une mesure qui ne peut s'exprimer ni
 
-[p. 46]
-
-RENOUVIER
+[p. 46] RENOUVIER
 
 INFINITISTE par un nombre entier, ni par une fraction,
 
@@ -574,25 +514,15 @@ D'ailleurs, on ne songe même pas à prendre la moindre précaution, quand on pa
 
 Ainsi « la doctrine proprement infinitésimale est inévitable
 
-[p. 47]
-
-RENOUVIER
+[p. 47] RENOUVIER
 
 INFINITISTE et vraie ; et de là le chemin est aisé à regarder les contradictions inhérentes à l'existence de l'infini comme imposées à l'esprit pour l'intelligence de la nature,
 
 l'infini lui-même comme le mystère suprême des choses, et les couples de propositions contradictoires comme le dernier mot de la vérité sur l'essence de Dieu et du monde » [^p47-1].
 
-[p. 48]
+[p. 48] [p. 49] LA LOI DU NOMBRE
 
-[p. 49]
-
-LA LOI DU NOMBRE
-
-[p. 50]
-
-[p. 51]
-
-LA
+[p. 50] [p. 51] LA
 
 LOI DU NOMBRE
 
@@ -612,11 +542,7 @@ Renouvier revient bien des fois à l'étude de la méthode infinitésimale en g�
 
 infinitiste
 
-était plus ou moins liée à ses tendances mystiques. Elle pouvait aussi provenir en partie de l'influence d'Auguste Comte sur
-
-[p. 52]
-
-le jeune mathématicien. Nous savons qu'il avait lu, pendant qu'il était élève de Mathématiques Spéciales, le premier volume du Cours de Philosophie positive, et qu'il avait considéré comme une bonne fortune de pouvoir connaître, à ce moment même, la philosophie mathématique de Comte. Or, sur une question qui touche à l'infini de quantité, sur la nature et la signification des différentielles et même des infiniments petits, il trouvait là exprimées quelques idées étranges. La notion de l'infinitésimal y est donnée comme obscure et même comme illogique, quoique aboutissant à des résultats merveilleux. Peut-être n'y avait-il pas loin d'une semblable conception à l'affirmation irrationnelle et mystique, comme dira plus tard Renouvier lui-même, des contradictions qu'à ses yeux réalisait l'infini mathématique. Mais ses réflexions finissent par le conduire à une interprétation de la méthode infinitésimale, qui l'éloigne de Comte et le rapproche de Leibniz, si mal compris à cet égard par Auguste Comte [^p52-1]. D'un mot, sous l'apparence de l'infini, c'est l'indéfini seul qui entre vraiment dans la pensée du mathématicien ; c'est un fini variable et capable de différer aussi peu qu'on veut de sa limite, mais non de l'atteindre en épuisant l'infini.
+était plus ou moins liée à ses tendances mystiques. Elle pouvait aussi provenir en partie de l'influence d'Auguste Comte sur [p. 52] le jeune mathématicien. Nous savons qu'il avait lu, pendant qu'il était élève de Mathématiques Spéciales, le premier volume du Cours de Philosophie positive, et qu'il avait considéré comme une bonne fortune de pouvoir connaître, à ce moment même, la philosophie mathématique de Comte. Or, sur une question qui touche à l'infini de quantité, sur la nature et la signification des différentielles et même des infiniments petits, il trouvait là exprimées quelques idées étranges. La notion de l'infinitésimal y est donnée comme obscure et même comme illogique, quoique aboutissant à des résultats merveilleux. Peut-être n'y avait-il pas loin d'une semblable conception à l'affirmation irrationnelle et mystique, comme dira plus tard Renouvier lui-même, des contradictions qu'à ses yeux réalisait l'infini mathématique. Mais ses réflexions finissent par le conduire à une interprétation de la méthode infinitésimale, qui l'éloigne de Comte et le rapproche de Leibniz, si mal compris à cet égard par Auguste Comte [^p52-1]. D'un mot, sous l'apparence de l'infini, c'est l'indéfini seul qui entre vraiment dans la pensée du mathématicien ; c'est un fini variable et capable de différer aussi peu qu'on veut de sa limite, mais non de l'atteindre en épuisant l'infini.
 
 S'agit-il d'une grandeur incommensurable avec l'unité, il faut dire franchement qu'il n'en existe pas de mesure exacte : mais ce qui existe toujours, et cela suffit pour les calculs, c'est la mesure d'une grandeur commensurable dont la différence avec la grandeur donnée tombe au-dessous de toute valeur assignable.
 
@@ -624,11 +550,7 @@ Est-il question de la racine carrée d'un nombre qui n'est pas carré parfait,
 
 cette racine n'existe pas ; mais on sait trouver des nombres fractionnaires dont la différence peut tomber au-dessous de toute valeur donnée, et dont les carrés comprennent le nombre considéré.
 
-La méthode qui voulait, dans les exemples de ce genre,
-
-[p. 53]
-
-LA
+La méthode qui voulait, dans les exemples de ce genre, [p. 53] LA
 
 LOI DU
 
@@ -648,9 +570,7 @@ fixent dans les notions
 
 claires de l'indéfini, de l'indéterminé et de l'arbitraire [^p53-1] ». Voilà
 
-[p. 54]
-
-LA LOI DU NOMBRE détruit, avec l'infini mathématique, le fondement le plus solide sur lequel Renouvier pensait pouvoir édifier sa croyance au caractère antinomique de la réalité ; voilà ruiné le grand fait scientifique, au nom duquel Renouvier pouvait se permettre de mépriser la vieille logique et de fouler aux pieds le principe de contradiction.
+[p. 54] LA LOI DU NOMBRE détruit, avec l'infini mathématique, le fondement le plus solide sur lequel Renouvier pensait pouvoir édifier sa croyance au caractère antinomique de la réalité ; voilà ruiné le grand fait scientifique, au nom duquel Renouvier pouvait se permettre de mépriser la vieille logique et de fouler aux pieds le principe de contradiction.
 
 Mais alors,
 
@@ -664,9 +584,7 @@ C'est la philosophie de Renouvier tout entière qui semble découler de cette no
 
 1º L'attachement rigoureux au principe de contradiction sera désormais la règle première de toute pensée et de toute affirmation portant sur la réalité. Toutes les fois qu'aux yeux de Renouvier ce principe se trouvera en jeu, les conclusions seront catégoriques, apodictiques. Il se prononcera avec une nécessité impérieuse, quel que soit le domaine où se posent les problèmes, quelle que soit l'obscurité qui continue à envelopper les points isolés sur lesquels porteront ses affrmations. Il ne renoncera pas pour cela à la croyance ; bien au contraire, celle-ci tendra à devenir un mode normal de la connaissance ; elle permettra toujours de dépasser l'évidence des phénomènes directement observables ; elle jouera son rôle dans tous les problèmes de métaphysique, notamment : de sorte qu'il ne faudra pas confondre Renouvier avec un intellectualiste, qui rejetterait tout ce qui n'est pas donné
 
-[p. 55]
-
-LA LOI DU NOMBRE logiquement, et qu'il n'y aura, au contraire, aucune exagération à le rapprocher de Kant pour le rôle de plus en plus marqué des préoccupations morales dans sa philosophie. Mais, partout où l'esprit cherche la vérité, se trouve une limite qu'il ne peut franchir : c'est la contradictoire ; et si, pour l'éviter, il est rejeté vers quelque affirmation, quand même elle serait inconcevable, il doit s'y tenir avec fermeté. Ce sera là la source d'un positivisme logique dominant la métaphysique de Renouvier, chassant impitoyablement sous le titre de chimères toutes les notions qui impliquent à ses yeux le contradictoire, et donnant au système une apparence de solidité rigoureuse qui semble parfois justifier le dogmatisme du maître.
+[p. 55] LA LOI DU NOMBRE logiquement, et qu'il n'y aura, au contraire, aucune exagération à le rapprocher de Kant pour le rôle de plus en plus marqué des préoccupations morales dans sa philosophie. Mais, partout où l'esprit cherche la vérité, se trouve une limite qu'il ne peut franchir : c'est la contradictoire ; et si, pour l'éviter, il est rejeté vers quelque affirmation, quand même elle serait inconcevable, il doit s'y tenir avec fermeté. Ce sera là la source d'un positivisme logique dominant la métaphysique de Renouvier, chassant impitoyablement sous le titre de chimères toutes les notions qui impliquent à ses yeux le contradictoire, et donnant au système une apparence de solidité rigoureuse qui semble parfois justifier le dogmatisme du maître.
 
 2º L'infini restera, ainsi qu'il l'a toujours été depuis les premières pages de Renouvier, comme le véhicule de la contradiction. Il réalisait autrefois par là « le mystère suprême des choses » ; désormais, il servira à dénoncer la chimère. La fusion sera si étroite entre le contradictoire et l'infini, qu'au principe de contradiction nous pouvons substituer celui qui exclut l'infini. Ce sera le postulat fondamental de la nouvelle philosophie de Renouvier, et qu'il appelle lui-même « la loi du Nombre »
 
@@ -682,9 +600,7 @@ Renouvier dira non encore.
 
 Mais qu'importe ? Il n'est pas nécessaire que nous comprenions
 
-[p. 56]
-
-LA LOI DU NOMBRE tout, que nous connaissions tout : la raison doit s'incliner devant la nécessité de fuir le contradictoire, et cela l'oblige en particulier à affirmer le commencement absolu du monde.
+[p. 56] LA LOI DU NOMBRE tout, que nous connaissions tout : la raison doit s'incliner devant la nécessité de fuir le contradictoire, et cela l'oblige en particulier à affirmer le commencement absolu du monde.
 
 De même, l'univers est fini. La matière n'est pas divisible à l'infini : le continu est une chimère.
 
@@ -698,9 +614,7 @@ Nous ne le croyons pas. De deux choses l'une : ou bien cette loi est une de cell
 
 Ou bien la loi du Nombre s'impose, — et c'est ce que répète assez souvent Renouvier, au nom du principe de contradiction. C'est qu'alors on oublie qu'en dehors de ces deux hypothèses : que des choses définies pour la pensée aient un
 
-[p. 57]
-
-LA
+[p. 57] LA
 
 LOI
 
@@ -720,17 +634,9 @@ il arrive quelquefois qu'elle sert d'argument décisif aux yeux de Renouvier, qu
 
 sans qu'au fond elle épuise toutes les raisons qui ont déterminé l'attitude du penseur. Et, en outre, il est de nombreux points intéressants dans l'œuvre de Renouvier qui en sont indépendants.
 
-[p. 58]
+[p. 58] [p. 59] PREMIER ESSAI DE CRITIQUE GÉNÉRALE
 
-[p. 59]
-
-PREMIER ESSAI DE CRITIQUE GÉNÉRALE
-
-[p. 60]
-
-[p. 61]
-
-PREMIER ESSAI DE CRITIQUE GÉNÉRALE [^p61-1]
+[p. 60] [p. 61] PREMIER ESSAI DE CRITIQUE GÉNÉRALE [^p61-1]
 
 Quelles sont les choses que nous connaissons, dont nous parlons, que nous soumettons à des analyses ou à des syntheses ? Que ces choses soient des notions, des sentiments, des volitions, ou des corps, des animaux, des peuples, etc., ce sont des représentations. Et c'est presque une tautologie que cette affirmation, car les choses qui ne sont pas représentations, qui ne sont pas représentées, qui n'ont pas d'apparence, ne peuvent pas nous occuper.
 
@@ -738,11 +644,7 @@ Quelles sont les choses que nous connaissons, dont nous parlons, que nous soumet
 
 Toute représentation est à double face, en ce sens qu'elle admet toujours deux aspects, l'un représentatif, l'autre représenté. Si l'on adoptait le langage kantien, on dirait que ces aspects sont l'un subjectif, l'autre objectif. Renouvier adopte une terminologie contraire, et nomme objectif le premier et subjectif le second. D'une manière générale, objectif désignera pour lui ce qui est objet de connaissance ; et subjectif, ce qui est de la nature d'un sujet, c'est-à-dire d'une chose représentée.
 
-Les représentations sont posées indépendamment de la distinction du moi et du non-moi. Elles ont bien pour caractère commun la conscience, où chacun peut être tenté de
-
-[p. 62]
-
-reconnaître son moi ; mais la conscience et le moi ne me définissent pas ; ils appartiennent à toute représentation claire et complète.
+Les représentations sont posées indépendamment de la distinction du moi et du non-moi. Elles ont bien pour caractère commun la conscience, où chacun peut être tenté de [p. 62] reconnaître son moi ; mais la conscience et le moi ne me définissent pas ; ils appartiennent à toute représentation claire et complète.
 
 D'ailleurs, la représentation n'implique que ses propres éléments, et l'on n'y saurait trouver la trace d'un représenté. sujet en soi, échappant à la représentation. La connaissance ne reçoit point de représenté sans représentatif, point de représentatif sans représenté, et c'est dans une représentation qu'elle reçoit l'un et l'autre. La représentation ne sort d'ellemême que pour poser la représentation, la représentation à d'autres titres, sous d'autres caractères, c'est-à-dire en d'autres rapports, mais encore et toujours et partout la représentation. Ainsi la chose en soi est une chimère.
 
@@ -754,25 +656,15 @@ Du côté des représentatifs,
 
 attribut intellectif,
 
-attribut actif, attribut affectif..., il est clair que les deux derniers s'évanouissent aussitôt qu'on essaie de les mettre à part de leurs relations. On en peut dire autant des idées particulières. Restent les idées générales, et, parmi elles, surtout celle de substance. C'est l'idée d'un substratum qu'on place sous les
-
-[p. 63]
-
-phénomènes. La substance serait ce qui pense, ce qui sent, etc... Mais tout le monde avoue qu'elle n'est connue que par ses modes, lesquels, par définition même, ne sont pas en soi. Même remarque pour l'idée plus générale encore d'être. Si on la dépouille de tout caractère impliquant relation, elle ne garde alors plus rien en soi, elle n'a rien qui la distingue du néant.
+attribut actif, attribut affectif..., il est clair que les deux derniers s'évanouissent aussitôt qu'on essaie de les mettre à part de leurs relations. On en peut dire autant des idées particulières. Restent les idées générales, et, parmi elles, surtout celle de substance. C'est l'idée d'un substratum qu'on place sous les [p. 63] phénomènes. La substance serait ce qui pense, ce qui sent, etc... Mais tout le monde avoue qu'elle n'est connue que par ses modes, lesquels, par définition même, ne sont pas en soi. Même remarque pour l'idée plus générale encore d'être. Si on la dépouille de tout caractère impliquant relation, elle ne garde alors plus rien en soi, elle n'a rien qui la distingue du néant.
 
 Essaiera-t-on, pour sauver la chose en soi, de songer a une substance universelle, absolue, éternelle, enveloppant l'infinité passée, actuelle et future de ses déterminations ? On se heurterait trop vite à la contradiction.
 
 Bref, la chose en soi n'est rien pour le savoir, rien pour nous. C'était une idole, qu'il fallait avant tout abattre, pour pouvoir aborder ensuite au pays de la lumière et des réalités toutes nues. « L'idole qu'on doit abattre offusque d'abord la vue ; son antiquité et sa divinité prétendue imposent aux plus hardis, et, telle est la force du préjugé, que chacun s'attend à voir la nature entière s'abîmer quand tombera le dieu. Les coups mêmes qu'on lui porte ont quelque chose de fantastique et rendent des sons étranges. Mais l'œuvre 'de révolution n'est pas plus tôt accomplie qu'un étonnement tout nouveau se produit : l'idole est connue pour ce qu'elle est, on touche le bois qui est vermoulu, et, lorsque enfin elle tombe en poussière, il se trouve que rien n'est changé autour d'elle ; chaque chose a conservé sa place et son nom, il ne s'est point fait de vide dans la réalité » [^p63-1].
 
-Cette réalité n'est pas faite d'une poussière incohérente de phénomènes. Les phénomènes se composent et sont en relation les uns avec les autres ; ils sont liés, entrelacés ; la composition et la relation sont soumises à des ordres perma-
+Cette réalité n'est pas faite d'une poussière incohérente de phénomènes. Les phénomènes se composent et sont en relation les uns avec les autres ; ils sont liés, entrelacés ; la composition et la relation sont soumises à des ordres perma-[p. 64]nents, à des lois. Les êtres différents qui composent le monde sont des phénomènes constitués en synthèses régulières, soumises à des lois, ou encore caractérisées par leurs fonctions. Il y a des lois et fonctions de l'ordre subjectif, qu'étudient les sciences du monde inorganique et du monde vivant ; et il y a les lois et fonctions de l'ordre objectif ou représentatif, ou les catégories, lois si générales qu'on peut les dire conditions de toute connaissance et de toute expérience. Le philosophe doit en dresser la liste. La classification de Kant est artificielle et arbitraire. 1 ° Il a eu tort de ne pas voir dans la catégorie de relation la clef de toutes les autres ; 2° il a distingué l'espace et le temps des catégories, comme formes de nature spéciale (intuition sensible), quand on doit déclarer que chaque catégorie a sa forme propre et irréductible, et quand c'est cette propriété même qui fait une catégorie ; 3º il a présenté un partage de la connaissance en trois branches, sensibilité, entendement, raison, qui est mal fondé, et auquel il est plus exact de substituer la distinction des catégories ; 4 ° Kant a eu le tort de ne pas faire une catégorie de la personnalité ; 5° il aurait dû de même compter la finalité et le devenir comme catégories ; 6º sa classification des jugements est artificielle. Ces critiques générales, auxquelles Renouvier ajoute une série d'autres moins importantes, n'empêchent pas, dit-il, la classification kantienne des catégories d'avoir une très grande valeur. Kant a eu le mérite « de mettre en lumière la forme des lois irréductibles de la connaissance, la forme ternaire : thèse, antithèse, synthèse. [Ainsi, pour la quantité : unité, pluralité, totalité ; pour la qualité : réalité, négation, limitation, etc.] De plus, il a parfaitement défini la nature et l'objet des catégories, lois et règles aprioriques de la représentation, formes constantes affectées par la matière de la connaissance, par les phénomènes ». C'est à lui que Renouvier semble se rattacher vraiment, en présentant à son tour son système de catégories, si différent qu'il soit du sien. Le tableau qu'il nous offre est le suivant :
 
-[p. 64]
-
-nents, à des lois. Les êtres différents qui composent le monde sont des phénomènes constitués en synthèses régulières, soumises à des lois, ou encore caractérisées par leurs fonctions. Il y a des lois et fonctions de l'ordre subjectif, qu'étudient les sciences du monde inorganique et du monde vivant ; et il y a les lois et fonctions de l'ordre objectif ou représentatif, ou les catégories, lois si générales qu'on peut les dire conditions de toute connaissance et de toute expérience. Le philosophe doit en dresser la liste. La classification de Kant est artificielle et arbitraire. 1 ° Il a eu tort de ne pas voir dans la catégorie de relation la clef de toutes les autres ; 2° il a distingué l'espace et le temps des catégories, comme formes de nature spéciale (intuition sensible), quand on doit déclarer que chaque catégorie a sa forme propre et irréductible, et quand c'est cette propriété même qui fait une catégorie ; 3º il a présenté un partage de la connaissance en trois branches, sensibilité, entendement, raison, qui est mal fondé, et auquel il est plus exact de substituer la distinction des catégories ; 4 ° Kant a eu le tort de ne pas faire une catégorie de la personnalité ; 5° il aurait dû de même compter la finalité et le devenir comme catégories ; 6º sa classification des jugements est artificielle. Ces critiques générales, auxquelles Renouvier ajoute une série d'autres moins importantes, n'empêchent pas, dit-il, la classification kantienne des catégories d'avoir une très grande valeur. Kant a eu le mérite « de mettre en lumière la forme des lois irréductibles de la connaissance, la forme ternaire : thèse, antithèse, synthèse. [Ainsi, pour la quantité : unité, pluralité, totalité ; pour la qualité : réalité, négation, limitation, etc.] De plus, il a parfaitement défini la nature et l'objet des catégories, lois et règles aprioriques de la représentation, formes constantes affectées par la matière de la connaissance, par les phénomènes ». C'est à lui que Renouvier semble se rattacher vraiment, en présentant à son tour son système de catégories, si différent qu'il soit du sien. Le tableau qu'il nous offre est le suivant :
-
-[p. 65]
-
-PREMIER ESSAI DE CRITIQUE GÉNÉRALE
+[p. 65] PREMIER ESSAI DE CRITIQUE GÉNÉRALE
 
 Relation (Distinction, identification, détermination).
 
@@ -808,9 +700,7 @@ il procède synthétiquement. Et c'est ainsi qu'il convient de corriger la
 
 5
 
-[p. 66]
-
-PREMIER ESSAI DE CRITIQUE GÉNÉRALE distinction fameuse qu'a faite Kant des jugements synthétiques et des jugements analytiques.
+[p. 66] PREMIER ESSAI DE CRITIQUE GÉNÉRALE distinction fameuse qu'a faite Kant des jugements synthétiques et des jugements analytiques.
 
 Toute la représentation ne consiste pas dans les rapports généraux qui la dirigent ; ceux-ci sont des cadres où doit pénétrer la matière qu'apporte l'expérience, « l'ensemble des relations de fait, dans leurs modes concrets, dans leurs modes variables, en un mot les rapports effectifs de nombre, étendue et durée, les espèces, les changements, les causes, les fins. les personnes, le monde [^p66-1] ». Jusqu'où peut aller la connaissance du monde ? Et d'abord qu'est-ce que ce monde ? C'est la synthèse des phénomènes objets d'une expérience possible sous une conscience quelconque.
 
@@ -828,9 +718,7 @@ Les phénomènes donnés (actuels, passés ou prédéterminés) ne sauraient for
 
 Mais il est au-dessus de notre pouvoir de
 
-[p. 67]
-
-PREMIER ESSAI DE CRITIQUE GÉNÉRALE déterminer ces limites et ce commencement.
+[p. 67] PREMIER ESSAI DE CRITIQUE GÉNÉRALE déterminer ces limites et ce commencement.
 
 La division des phénomènes a également une limite, qui exclut le plein et le continu.
 
@@ -854,9 +742,7 @@ contradiction ne nous oblige pas à affirmer la fin du monde ; à plus forte rai
 
 Une conscience enveloppant la totalité des phénomènes cesse de répondre à la notion de conscience, attendu que l'opposition du soi ou non-soi s'évanouit, dès que la conscience est identique avec le monde. On essaie de
 
-[p. 68]
-
-PREMIER ESSAI DE CRITIQUE GÉNÉRALE convevoir une conscience première, d'où seraient émanées les autres : l'émanation est une image obscure, et même conbien on conçoit cette conscience première comme ayant créé des choses et des consciences autres qu'elle-même. Mais on se heurte à des difficultés insondables, si l'on veut concevoir l'acte créateur ; on se heurte à la contradiction, si on attribue à cette conscience première la connaissance de tous les possibles à venir.
+[p. 68] PREMIER ESSAI DE CRITIQUE GÉNÉRALE convevoir une conscience première, d'où seraient émanées les autres : l'émanation est une image obscure, et même conbien on conçoit cette conscience première comme ayant créé des choses et des consciences autres qu'elle-même. Mais on se heurte à des difficultés insondables, si l'on veut concevoir l'acte créateur ; on se heurte à la contradiction, si on attribue à cette conscience première la connaissance de tous les possibles à venir.
 
 L'hypothèse d'une pluralité primitive de consciences distinctes semble seule rationnelle ; mais, quant à déterminer leur nature, leur hiérarchie, leurs rapports, leurs actions, leurs fins, cela serait chimérique.
 
@@ -866,9 +752,7 @@ Telle est, dans les grandes lignes, la matière du Premier Essai.
 
 Nous y reviendrons dans la prochaine leçon, pour caractériser de plus près l'attitude de Renouvier et la nature de ses conclusions.
 
-[p. 69]
-
-PREMIER ESSAI DE CRITIQUE GÉNÉRALE
+[p. 69] PREMIER ESSAI DE CRITIQUE GÉNÉRALE
 
 Quand on ouvre le premier Essai de critique générale, on est frappé de ce que le ton n'est plus du tout celui des études métaphysiques antérieures, notamment de la conclusion da premier manuel et de l'article « Philosophie » de l'Encyclopédie nouvelle. Renouvier veut rompre avec la vieille métaphysique ; il veut construire une philosophie de la connaissance en s'adressant au sens commun, et ne faisant appel qu'à des notions
 
@@ -878,29 +762,21 @@ Ce dernier rapprochement est d'autant plus naturel que l'attitude de Renouvier e
 
 puis la préoccupation des limites de la connaissance possible, en ce qui concerne le monde : tout cela rappelle étrangement l'attitude d'Aug. Comte.
 
-La différence est pourtant très grande entre les deux penseurs, même quand ils semblent dire la même chose. Comte reste sur le terrain de la science objective, et ne se préoccupe en aucune manière du « représentatif » et de ses lois. Nous ne trouvons pas trace chez lui du moindre essai d'analyse des conditions de la pensée et de la connaissance. Par son effort, au contraire, Renouvier reste dans la tradition philosophique et particulièrement dans la tradition kantienne, et l'on peut dire que son phénoménisme dérive en ligne droite de la Critique de la Raison pure. Peu importe qu'il croie devoir faire appel à la loi du nombre pour donner des démonstrations spéciales de l'idéalité de
+La différence est pourtant très grande entre les deux penseurs, même quand ils semblent dire la même chose. Comte reste sur le terrain de la science objective, et ne se préoccupe en aucune manière du « représentatif » et de ses lois. Nous ne trouvons pas trace chez lui du moindre essai d'analyse des conditions de la pensée et de la connaissance. Par son effort, au contraire, Renouvier reste dans la tradition philosophique et particulièrement dans la tradition kantienne, et l'on peut dire que son phénoménisme dérive en ligne droite de la *Critique de la Raison pure*. Peu importe qu'il croie devoir faire appel à la loi du nombre pour donner des démonstrations spéciales de l'idéalité de
 
 l'espace et du temps ; l'esprit de ce phénoménisme tel qu'il se
 
-[p. 70]
-
-PREMIER ESSAI DE CRITIQUE GÉNÉRALE dégage de l'ensemble des analyses de Renouvier, c'est celui même de Kant. Le noumène de Kant, c'est exactement la substance inconnaissable et inaccessible de Renouvier,
+[p. 70] PREMIER ESSAI DE CRITIQUE GÉNÉRALE dégage de l'ensemble des analyses de Renouvier, c'est celui même de Kant. Le noumène de Kant, c'est exactement la substance inconnaissable et inaccessible de Renouvier,
 
 sauf que le premier surajoute comme une sorte de dogme la croyance à son existence, et que le second juge ce dogme inutile. Mais, en dehors du noumène, Kant a expliqué la réalité et l'objectivité de la connaissance scientifique ; il a expliqué les choses et les êtres, par la permanence, la constance des lois qui relient entre elles toutes les manifestations phénoménales, et c'est là, en sommes, l'idée essentielle de Renouvier.
 
-Mais il ne faut rien exagérer, ni prendre trop à la lettre la déclaration par laquelle Renouvier se donne simplement comme le continuateur de Kant. Sans revenir sur la solution des antinomies par la loi du nombre ni sur le rejet du noumène, si l'on va au fond du problème des catégories, c'est-àdire du problème fondamental du criticisme kantien, il y a une distance appréciable entre les deux penseurs. Je ne vise pas, par là, seulement les différences que mentionne Renouvier lui-même, et dont quelques-unes, comme la séparation des intuitions sensibles et des catégories de l'entendement, correspondent à des divergences générales et profondes. Je vise surtout la notion même de la catégorie chez l'un et chez l'autre. Pour Kant, il s'agit de conditions a priori que l'esprit humain, par sa nature même, impose à tous les éléments matériels de connaissance ; ce sont des lois de l'esprit à travers lesquelles, nécessairement, il connaîtra les choses. Cette opposition de l'esprit et des choses n'a plus de sens chez Renouvier, qui ne se trouve plus en présence que des représentations ; et les catégories sont seulement les lois générales, auxquelles nous constatons qu'elles sont soumises. Ce sont des faits généraux comparables à ceux que les sciences découvriront dans les choses, ou dans les représentations vues du côté subjectif (pour parler comme Renouvier). Il peut bien être question encore de forme, opposée à matière, comme pour Kant, mais non tout à fait dans le même sens. « J'appelle
+Mais il ne faut rien exagérer, ni prendre trop à la lettre la déclaration par laquelle Renouvier se donne simplement comme le continuateur de Kant. Sans revenir sur la solution des antinomies par la loi du nombre ni sur le rejet du noumène, si l'on va au fond du problème des catégories, c'est-àdire du problème fondamental du criticisme kantien, il y a une distance appréciable entre les deux penseurs. Je ne vise pas, par là, seulement les différences que mentionne Renouvier lui-même, et dont quelques-unes, comme la séparation des intuitions sensibles et des catégories de l'entendement, correspondent à des divergences générales et profondes. Je vise surtout la notion même de la catégorie chez l'un et chez l'autre. Pour Kant, il s'agit de conditions *a priori* que l'esprit humain, par sa nature même, impose à tous les éléments matériels de connaissance ; ce sont des lois de l'esprit à travers lesquelles, nécessairement, il connaîtra les choses. Cette opposition de l'esprit et des choses n'a plus de sens chez Renouvier, qui ne se trouve plus en présence que des représentations ; et les catégories sont seulement les lois générales, auxquelles nous constatons qu'elles sont soumises. Ce sont des faits généraux comparables à ceux que les sciences découvriront dans les choses, ou dans les représentations vues du côté subjectif (pour parler comme Renouvier). Il peut bien être question encore de forme, opposée à matière, comme pour Kant, mais non tout à fait dans le même sens. « J'appelle
 
-[p. 71]
-
-PREMIER ESSAI DE CRITIQUE GÉNÉRALE forme, dit Renouvier, à propos de la loi de relation, ce qu'une relation a de général et par quoi elle embrasse un nombre indéfini de relations d'ailleurs distinctes ; le nombre, l'étendue, etc., sont des formes suivant ce langage ; et j'entends par la matière ce qui est propre à une relation donnée dans un phénomène tout à fait individuel et différent de tout autre phénomène : ce nombre concret, cet intervalle déterminé sensible, cette sensation, l'objet particulier représenté dans cette sensation, etc., sont des matières qui entrent dans les relations où elles se subordonnent à des formes communes. » Les éléments formels sont donc les rapports généraux, et les éléments matériels sont les choses particulières auxquelles ils s'appliquent, et qui sont données par l'expérience. Celle-ci ne saurait donner le général. C'est pourquoi les catégories, quoique passant nécessairement sous les conditions de l'expérience pour se manifester, « se présentent pourtant comme supérieures à l'expérience, capables de l'envelopper, propres à la conduire et à lui imposer des règles »,
+[p. 71] PREMIER ESSAI DE CRITIQUE GÉNÉRALE forme, dit Renouvier, à propos de la loi de relation, ce qu'une relation a de général et par quoi elle embrasse un nombre indéfini de relations d'ailleurs distinctes ; le nombre, l'étendue, etc., sont des formes suivant ce langage ; et j'entends par la matière ce qui est propre à une relation donnée dans un phénomène tout à fait individuel et différent de tout autre phénomène : ce nombre concret, cet intervalle déterminé sensible, cette sensation, l'objet particulier représenté dans cette sensation, etc., sont des matières qui entrent dans les relations où elles se subordonnent à des formes communes. » Les éléments formels sont donc les rapports généraux, et les éléments matériels sont les choses particulières auxquelles ils s'appliquent, et qui sont données par l'expérience. Celle-ci ne saurait donner le général. C'est pourquoi les catégories, quoique passant nécessairement sous les conditions de l'expérience pour se manifester, « se présentent pourtant comme supérieures à l'expérience, capables de l'envelopper, propres à la conduire et à lui imposer des règles »,
 
 mais logiquement, et comme le général enveloppe le particulier et le conditionne. Il n'y a plus, ici, pour Renouvier de problème proprement métaphysique : il ne se pose pas la question de l'origine de la connaissance et de l'innéité. Si les catégories. sont antérieures à l'expérience, c'est logiquement ; comme la loi de la gravitation universelle conditionne celles de la chute des corps, et comme celles-ci conditionnent le mouvement de tel projectile.
 
-Cela se comprend mieux encore, si l'on songe qu'il est permis de rapprocher ici Renouvier d'Aristote lui-même. Ecoutons-le d'ailleurs : « < Aristote s'est, le premier, servi du mot catégorie. Il désigne sous ce nom les termes principaux auxquels peuvent se ramener les choses qu'on énonce. Le problème qu'il se propose en essayant d'énumérer ces termes, est bien au fond celui qu'aujourd'hui nous énonçons ainsi : définir et classer les rapports irréductibles et fondamentaux de la représentation... D'ailleurs, les rapports géné-
-
-[p. 72]
-
-PREMIER ESSAI DE CRITIQUE GÉNÉRALE raux, dont je parle, n'étant pas des faits d'expérience, en tant que généraux, il faut nécessairement les concevoir comme régulateurs de l'expérience [^p72-1]. »
+Cela se comprend mieux encore, si l'on songe qu'il est permis de rapprocher ici Renouvier d'Aristote lui-même. Ecoutons-le d'ailleurs : « < Aristote s'est, le premier, servi du mot catégorie. Il désigne sous ce nom les termes principaux auxquels peuvent se ramener les choses qu'on énonce. Le problème qu'il se propose en essayant d'énumérer ces termes, est bien au fond celui qu'aujourd'hui nous énonçons ainsi : définir et classer les rapports irréductibles et fondamentaux de la représentation... D'ailleurs, les rapports géné-[p. 72]PREMIER ESSAI DE CRITIQUE GÉNÉRALE raux, dont je parle, n'étant pas des faits d'expérience, en tant que généraux, il faut nécessairement les concevoir comme régulateurs de l'expérience [^p72-1]. »
 
 Renouvier,
 
@@ -912,9 +788,7 @@ il s'éloigne d'eux, comme de Spencer, et il le répète assez souvent, en ce qu
 
 ou en ce qu'ils attribuent à l'expérience les données fondamentales des sciences mathématiques. Et c'est ce qui fait l'originalité de Renouvier, de s'opposer à la fois aux philosophes dogmatiques et aux empiristes, en même temps qu'à la fois il touche de très près aux uns et aux autres. Quant, par exemple, on est frappé de l'entendre parler comme Hume à propos de la cause, quelle surprise n'a-t-on pas aussitôt après de le voir poser avec le système de ses relations, de ses fonctions, de ses rapports, une sorte d'harmonie universelle telle que l'a conçue Leibniz, dit-il, et telle que l'ont préparée tous les Cartésiens ? (D'ailleurs, il fait prévoir comment il corrigera cette conception de
 
-[p. 73]
-
-PREMIER ESSAI DE CRITIQUE GÉNÉRALE Leibniz par l'admission des actes libres dans l'ensemble des déterminations.)
+[p. 73] PREMIER ESSAI DE CRITIQUE GÉNÉRALE Leibniz par l'admission des actes libres dans l'ensemble des déterminations.)
 
 Rapproché de la pensée contemporaine, quel effet produit le premier Essai de critique générale ? Il nous semble très actuel et très vivant. D'abord, parce qu'il est très peu métaphysique, et qu'en somme, même dans ses études sur la substance et sur les catégories, il ne cesse de se placer à un point de vue positif. Il observe, il note les données distinctes de la pensée, il décrit, mais n'explique pas. L'objet de ses analyses et de ses descriptions étant d'ailleurs uniquement la représentation, cela achève de placer Renouvier au point de vue même de la connaissance scientifique. Et c'est pourquoi les développements dont il a rempli la deuxième édition sont souvent de très riches aperçus sur les principes et les méthodes de l'analyse, de la géométrie, de la mécanique et des sciences naturelles. Tantôt Renouvier s'y montre très réaliste (je ne dis pas empiriste), comme dans les sciences du nombre et de la géométrie, rattachant nécessairement tous leurs énoncés aux conditions générales de la pensée ; tantôt il a le sens des constructions utiles et commodes échafaudées par le savant, comme dans les principes de la dynamique, et dans l'étude des notions de force et d'inertie... Toujours il se montre un homme de son temps, dont les discussions (si j'en excepte son horreur de l'infini) ont gardé de nos jours, leur intérêt puissant.
 
@@ -932,9 +806,7 @@ Mais il arrive que, d'euxmêmes, certains problèmes cessent de se poser, soit q
 
 et
 
-[p. 74]
-
-PREMIER ESSAI DE CRITIQUE GÉNÉRALE une évolution naturelle de la pensée, ils en viennent à se poser autrement, soit que, consciemment ou non, nous ayons un jour le sentiment que nous nous étions fait illusion sur leur véritable intérêt. Or, ne semble-t-il pas en être ainsi de la vieille question métaphysique des choses en soi ?
+[p. 74] PREMIER ESSAI DE CRITIQUE GÉNÉRALE une évolution naturelle de la pensée, ils en viennent à se poser autrement, soit que, consciemment ou non, nous ayons un jour le sentiment que nous nous étions fait illusion sur leur véritable intérêt. Or, ne semble-t-il pas en être ainsi de la vieille question métaphysique des choses en soi ?
 
 Essayez donc de dire à un physicien de notre temps que les innombrables travaux sur les propriétés calorifiques, électriques, lumineuses, magnétiques de la matière, sur certains états nouveaux de cette matière, sur ses propriétés radioactives,
 
@@ -948,9 +820,7 @@ il accordera sans peine l'impossibilité pour ses recherches de se terminer jama
 
 Est-ce le besoin d'unité ou de stabilité, de permanence, qui justifierait ce problème de la substance inconnaissable ? Mais la science poursuit autrement cette unité, cette permanence, et sur le terrain des phénomènes, des lois et des causes, s'efforce avec succès de les atteindre toujours davantage... Est-ce le besoin, au contraire, de contester l'unité fondamentale des choses et des êtres, et de reléguer dans une sorte de substance inférieure tout ce qui est mouvement, force, matière, pour en dégager d'autres substances plus riches ou plus pures ?... La lecture de Renouvier est, à cet égard, des plus édifiantes. Nul plus que lui ne sent la nécessité de séparer
 
-[p. 75]
-
-PREMIER ESSAI DE CRITIQUE GÉNÉRALE radicalement les choses hétérogènes.
+[p. 75] PREMIER ESSAI DE CRITIQUE GÉNÉRALE radicalement les choses hétérogènes.
 
 Il affirme l'irréductibilité des faits chimiques aux faits mécaniques, des faits organiques aux faits physico-chimiques, des faits psychiques aux faits organiques..., et il l'affirme précisément parce qu'il ne s'embarrasse plus de la chose en soi. Du point de vue où se confondent les choses et les synthèses régulières de phénomènes, comment pourrait-on entendre, par exemple, la réduction du biologique au physico-chimique ? Si le chimiste parvient à faire naître un organisme vivant dans son creuset, cela empêchera-t-il qu'avant cette naissance il n'y avait pas d'organisme, d'adaptation, de vie, tandis qu'il s'en trouve après ?
 
@@ -974,9 +844,7 @@ et de Malebranche.
 
 En fait, sentons-nous seulement le besoin de demander aujourd'hui, à propos d'un philosophe, s'il est spiritualiste ou matérialiste, au sens que donnaient autrefois à ces mots les problèmes métaphysiques de la substance ? Ne faudrait-il pas répondre en tous cas le plus souvent, ou bien que nous n'en savons rien, si familière que nous soit sa pensée profonde, — ou bien que ni l'une ni l'autre épithète ne lui sont applicables ? Il y a et il y aura toujours deux catégories d'esprit, dont les unes ne verront dans le monde que forces brutales et nécessité, et dont les autres laisseront une place à l'idée, à la pensée, à l'énergie de l'effort humain... Mais, de moins en moins, croyons-nous, ils réduiront leurs préoccu
 
-[p. 76]
-
-PREMIER ESSAI DE CRITIQUE GÉNÉRALE pations à la subtilité insaisissable des difficultés que posait le vieux spiritualisme substantialiste.
+[p. 76] PREMIER ESSAI DE CRITIQUE GÉNÉRALE pations à la subtilité insaisissable des difficultés que posait le vieux spiritualisme substantialiste.
 
 Si le souci de la chose en soi s'atténue dans le mouvement naturel et spontané de la pensée philosophique, il est clair que le problème des catégories, surtout au sens général où l'a posé Renouvier, doit être plus que jamais le problème fondamental de toute critique de la connaissance et de la science. S'agit-il de tenter une classification des sciences, voyez si l'une des
 
@@ -988,27 +856,15 @@ Mettons en question, et c'est un des problèmes les plus passionnants pour nos c
 
 que, dans toute pensée, par cela même qu'elle s'exprime et se communique, à plus forte raison dès qu'elle prétend devenir une vérité humaine, se trouve une dose d'idéal, et s'il était vrai que nous ne pouvons même pas traduire les faits et ce que nous nommons les réalités positives sans les dépasser quelque peu ; s'il était vrai que, dans les sciences exactes elles-mêmes, la vérité la plus simple ne se peut énoncer que comme un postulat dépassant l'expérience ; bref, s'il était vrai que l'esprit pense toujours sous l'aspect de l'idéal, n'oserait-on pas davantage parler de vérité à propos d'idéal moral ?
 
-Renouvier rattache les considérations morales à la catégorie de la fina-
-
-[p. 77]
-
-PREMIER ESSAI DE CRITIQUE GÉNÉRALE lité ; mais c'est, en somme, par un détour. J'aimerais mieux franchement inscrire l'idéal comme une des lois les plus générales de la pensée.
+Renouvier rattache les considérations morales à la catégorie de la fina-[p. 77]PREMIER ESSAI DE CRITIQUE GÉNÉRALE lité ; mais c'est, en somme, par un détour. J'aimerais mieux franchement inscrire l'idéal comme une des lois les plus générales de la pensée.
 
 Aussi bien, d'ailleurs, il ne s'agissait pas ici de refaire la table des catégories de Renouvier, mais de montrer qu'avec de semblables préoccupations il se plaçait au cœur même des problèmes les plus actuels.
 
 D'un mot encore, par son premier Essai de critique générale, Renouvier a bien suivi le mouvement qui entraîne la pensée philosophique, s'il est vrai que celle-ci tende à devenir, de plus en plus, humaine.
 
-[p. 78]
+[p. 78] [p. 79] LE DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE
 
-[p. 79]
-
-LE DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE
-
-[p. 80]
-
-[p. 81]
-
-LE DEUXIEME ESSAI DE CRITIQUE GÉNÉRALE
+[p. 80] [p. 81] LE DEUXIEME ESSAI DE CRITIQUE GÉNÉRALE
 
 Le deuxième Essai de critique générale a pour objet la psychologie. A la suite d'une analyse des fonctions humaines, il pose avec les problèmes de la volonté, de la liberté, de la certitude, les bases fondamentales de la philosophie de Renouvier.
 
@@ -1034,9 +890,7 @@ Les fonctions de l'entendement se laissent diviser, toujours d'après la distinc
 
 6
 
-[p. 82]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE numération ; à la position, l'imagination ; à la succession. la mémoire. La pensée est la fonction du devenir de la conscience.
+[p. 82] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE numération ; à la position, l'imagination ; à la succession. la mémoire. La pensée est la fonction du devenir de la conscience.
 
 « Les phénomènes de conscience...
 
@@ -1052,9 +906,7 @@ appartiennent en puissance à l'enfant, qui les met en acte pour communiquer ave
 
 En somme, aux six premières catégories correspondent la raison et l'entendement, réunis sous le nom d'Intelligence. Il n'y a pas entre l'entendement et la raison plus de différence qu'il n'y en a entre une catégorie et l'ensemble de quelques autres. Leur caractère commun est de subordonner le représentatif au représenté. Des trois dernières catégories (finalité, causalité, personnalité) dépendent maintenant la passion et
 
-[p. 83]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE la volonté, qui subordonnent au contraire le représenté au représentatif.
+[p. 83] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE la volonté, qui subordonnent au contraire le représenté au représentatif.
 
 La passion est la fonction donnée dans la synthèse d'un'état et d'une tendance de la conscience. Ou bien elle est développante, si la fin est à atteindre, a pour objet le bien ou le mal, le beau ou le laid, et s'appelle désir ou aversion, amour ou haine, espérance ou crainte, etc. Ou bien la passion est possédante, si la fin est possédée (joie ou tristesse, amitié ou inimitié, admiration ou mépris, etc.).
 
@@ -1064,11 +916,7 @@ peur, colère, etc.). La passion chez l'animal ou chez l'homme peut être, suiva
 
 Je dois m'excuser de résumer en aussi peu de mots toute cette première partie du deuxième essai, si pleine de fines analyses, mais j'ai hâte d'arriver aux questions qui nous placent surtout au cœur de la philosophie de Renouvier, et d'abord à l'étude de la volonté.
 
-La volonté est caractérisée par le fait que nous nous sentons capables de suspendre, ou de prolonger, ou de susciter des représentations. Elle est quelque chose de plus que la spontanéité. Celle-ci s'observe déjà dans l'organisme le plus simple, qui ne se réduit pas uniquement aux effets des actions extérieures, qui a comme une prédisposition fixe en lui-même, qui est capable de réaction sur le dehors. Elle s'observe encore dans certains faits de conscience qui se suivent, comme dans les rêves, ou dans les mouvements locaux et changements internes qui naissent des passions... Mais, dans tous ces cas, il y a loi, nécessité. « Quant aux autres représentations de conscience se joint celle d'appeler,
-
-[p. 84]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE suspendre ou bannir ces mêmes représentations ; quand le pouvoir qui résulte de la généralisation de ce phénomène paraît établi grâce à ces faits d'attention, d'abstraction systé-matique, de réflexion soutenue et variée, dont l'ensemble est une véritable analyse automotive ; quand l'indépendance de la
+La volonté est caractérisée par le fait que nous nous sentons capables de suspendre, ou de prolonger, ou de susciter des représentations. Elle est quelque chose de plus que la spontanéité. Celle-ci s'observe déjà dans l'organisme le plus simple, qui ne se réduit pas uniquement aux effets des actions extérieures, qui a comme une prédisposition fixe en lui-même, qui est capable de réaction sur le dehors. Elle s'observe encore dans certains faits de conscience qui se suivent, comme dans les rêves, ou dans les mouvements locaux et changements internes qui naissent des passions... Mais, dans tous ces cas, il y a loi, nécessité. « Quant aux autres représentations de conscience se joint celle d'appeler, [p. 84] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE suspendre ou bannir ces mêmes représentations ; quand le pouvoir qui résulte de la généralisation de ce phénomène paraît établi grâce à ces faits d'attention, d'abstraction systé-matique, de réflexion soutenue et variée, dont l'ensemble est une véritable analyse automotive ; quand l'indépendance de la
 
 représentation
 
@@ -1088,11 +936,7 @@ crée, n'empêche pas
 
 le moi d'apparaître « comme un fragment d'un ordre total » ;
 
-les passions,
-
-[p. 85]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE quelle que soit l'individualité qui s'y montre, nous dominent et constituent des chaînes qui nous soumettent aux lois du monde. « Mais, lorsque paraît ce pouvoir..., cette représentation toujours possible qui se pose avant toutes les représentations, pour elles, contre elles, pour elle-même et contre elle-même, on peut dire l'individualité humaine constituée. La synthèse de la mémoire avec ce pouvoir élève la conscience au point culminant, et constitue essentiellement ce que nos langues et nos lois nomment une personne [^p85-1]. »
+les passions, [p. 85] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE quelle que soit l'individualité qui s'y montre, nous dominent et constituent des chaînes qui nous soumettent aux lois du monde. « Mais, lorsque paraît ce pouvoir..., cette représentation toujours possible qui se pose avant toutes les représentations, pour elles, contre elles, pour elle-même et contre elle-même, on peut dire l'individualité humaine constituée. La synthèse de la mémoire avec ce pouvoir élève la conscience au point culminant, et constitue essentiellement ce que nos langues et nos lois nomment une personne [^p85-1]. »
 
 La volonté a son rôle dans toutes les fonctions, mais surtout, se trouve à la racine de l'attention et de la réflexion,
 
@@ -1100,11 +944,7 @@ lesquels caractérisent l'homme et le distinguent de l'animal. Par ces deux fonc
 
 Mais cet empire de la raison par la volonté ne se réalise pas constamment ni aisément. L'énergie de l'homme est un état normal, mais violent ; c'est un état de lutte, qui est loin d'être permanent. Il y a d'abord dans la vie de l'homme de nombreux états et actes organiques ou instinctifs, en tous cas échappant presque complètement à la volonté. Tels sont tous les faits qui se produisent pendant le sommeil ; tels sont les songes et les séries de représentations qui les composent ; tel est l'état de somnambulisme naturel.
 
-Durant la veille et dans la vie normale, au moins en appa-
-
-[p. 86]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE rence, la volonté peut avoir plus ou moins d'action : 1º sur les mouvements organiques ;
+Durant la veille et dans la vie normale, au moins en appa-[p. 86]DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE rence, la volonté peut avoir plus ou moins d'action : 1º sur les mouvements organiques ;
 
 2º sur les affirmations.
 
@@ -1116,9 +956,7 @@ Comment faut-il l'entendre ? Dans ses définitions, Renouvier n'a jamais parlé 
 
 D'autre part, l'analyse des cas de mouvements consécutifs d'une imagination ou de la simple représentation'du mouvement comme possible (vertige) montre bien qu'il faut séparer, à l'occasion du mouvement, la préreprésentation et le processus organique qui s'ensuit. Poussant cette indication jusqu'au bout, Renouvier n'admet pas que les mouvements volontaires soient directement produits par la volonté. Celle-ci à ses yeux suscite la représentation, la maintient et écarte toute autre qui lui serait contraire. « La volonté n'est ni un fait biologique ni un fait directement lié à des faits biologiques. Elle produit la locomotion dans certains cas, en ce sens seulement qu'elle appelle ou qu'elle cesse de suspendre une représentation, laquelle, en possession exclusive de la conscience, est immédiatement suivie du mouvement : ceci à raison des lois qui rattachent les fonctions organiques à celles de la sensibilité, de l'entendement et de la passion. L'effort, le nisus, ne doit pas être fixé dans le rapport de la volition, comme d'une sorte de ressort mystique, avec
 
-[p. 87]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE l'acte propre du mobile matériel...
+[p. 87] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE l'acte propre du mobile matériel...
 
 [^p87-1] » Maine de Biran se trompait, quand il croyait pouvoir établir la parfaite connexité de l'effort voulu et de la sentation musculaire, ce qui l'amenait à l'aperception immédiate et certaine de la causalité libre. Il confondait la volition et l'organe, et omettait l'élément qui les sépare : l'imagination du mouvement prévu [^p87-2].
 
@@ -1134,9 +972,7 @@ La folie enfin, dans ce qu'elle a de plus général, réside surtout dans les af
 
 D'ailleurs, ce vertige mental s'étend bien au delà des faits que d'ordinaire on considère plus proprement comme
 
-[p. 88]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE morbides ; nous avons constamment à nous tenir en garde contre lui, et Renouvier l'analyse dans un certain nombre de cas particulièrement intéressants. Ecoutez-le nous décrire le vertige d'ordre mystique : « Le cas fondamental, où l'on voit des populations entières céder au même vertige, s'observe sous l'influence de la foi au merveilleux, quand l'imagination crée ou transforme des événements qui puissent répondre à l'attente des consciences. Il s'agit de constater des miracles, de vérifier des prophéties. Quelques hommes se trouvent capables de voir et d'entendre ce qu'ils attendent, et par cela seul qu'ils l'attendent ; un plus grand nombre, d'avoir vu ou entendu ; presque tous d'altérer de bonne foi la vérité des faits qu'on leur transmet : les récits qui passent par la filière des masses reçoivent l'amendement des passions de chacun, une moyenne s'établit et le peuple se voit enfin en possession d'un système de témoignage et de traditions qui ne témoignent et ne propagent que sa propre pensée. C'est ainsi que les religions se fondent sur des miracles, et que, même au temps d'incrédulité relative, il n'est pas impossible de rencontrer
+[p. 88] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE morbides ; nous avons constamment à nous tenir en garde contre lui, et Renouvier l'analyse dans un certain nombre de cas particulièrement intéressants. Ecoutez-le nous décrire le vertige d'ordre mystique : « Le cas fondamental, où l'on voit des populations entières céder au même vertige, s'observe sous l'influence de la foi au merveilleux, quand l'imagination crée ou transforme des événements qui puissent répondre à l'attente des consciences. Il s'agit de constater des miracles, de vérifier des prophéties. Quelques hommes se trouvent capables de voir et d'entendre ce qu'ils attendent, et par cela seul qu'ils l'attendent ; un plus grand nombre, d'avoir vu ou entendu ; presque tous d'altérer de bonne foi la vérité des faits qu'on leur transmet : les récits qui passent par la filière des masses reçoivent l'amendement des passions de chacun, une moyenne s'établit et le peuple se voit enfin en possession d'un système de témoignage et de traditions qui ne témoignent et ne propagent que sa propre pensée. C'est ainsi que les religions se fondent sur des miracles, et que, même au temps d'incrédulité relative, il n'est pas impossible de rencontrer
 
 des
 
@@ -1150,11 +986,7 @@ prodiges
 
 contemporains... [^p88-1] ».
 
-Renouvier montre une autre application des phénomènes du vertige mental dans l'effet des pratiques habituelles en matière de religion. « La plupart des hommes contractent des habitudes d'opinion et de croyances par suite de la répétition et de l'imitation, soit que la réflexion y ait ou non présidé à l'origine ou y soit intervenue depuis. Un vertige qui agit dès l'enfance devient souvent insurmontable, et c'est ainsi qu'on est de la religion de ses pères. Mais prenons l'homme fait, maître de sa raison et capable de l'exercer. Toute représentation prolongée ou répétée devient une tentation ; donc celui-là même qui réfléchit est naturellement conduit de la pratique à la théorie, dans chaque ordre de con-
-
-[p. 89]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE ception. L'imagination prend peu à peu les formes appropriées aux objets dont on la frappe, et la pensée s'exerce à découvrir des motifs de faire ce qu'on fait, d'assurer ce qu'on assure, et à s'en persuader. Il suffit de mentir un peu d'abord ; on est de bonne foi plus tard. Qui veut croire croira
+Renouvier montre une autre application des phénomènes du vertige mental dans l'effet des pratiques habituelles en matière de religion. « La plupart des hommes contractent des habitudes d'opinion et de croyances par suite de la répétition et de l'imitation, soit que la réflexion y ait ou non présidé à l'origine ou y soit intervenue depuis. Un vertige qui agit dès l'enfance devient souvent insurmontable, et c'est ainsi qu'on est de la religion de ses pères. Mais prenons l'homme fait, maître de sa raison et capable de l'exercer. Toute représentation prolongée ou répétée devient une tentation ; donc celui-là même qui réfléchit est naturellement conduit de la pratique à la théorie, dans chaque ordre de con-[p. 89]DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE ception. L'imagination prend peu à peu les formes appropriées aux objets dont on la frappe, et la pensée s'exerce à découvrir des motifs de faire ce qu'on fait, d'assurer ce qu'on assure, et à s'en persuader. Il suffit de mentir un peu d'abord ; on est de bonne foi plus tard. Qui veut croire croira
 
 : « Faites comme si vous croyiez, pliez la machine », disait Pascal. La méthode
 
@@ -1164,9 +996,7 @@ Quel remède faut-il appliquer au vertige mental ? Le traitement médical physiq
 
 Le dernier mot de l'éducation dont je parle, celui qui comprend tout, quand on le creuse, est savoir douter, apprendre à douter. Et n'est-ce pas aussi le secret du bon sens ?
 
-[p. 90]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE L'ignorant doute peu et le fou ne doute jamais. Si les hommes savaient douter, il n'y aurait point de fous parmi eux, intellectuellement parlant : et, si l'éducation du genre humain n'est pas une utopie, ce n'en est pas non plus une que la disparition graduelle de la folie en tant que maladie mentale et aliénation de la conscience [^p90-1] ».
+[p. 90] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE L'ignorant doute peu et le fou ne doute jamais. Si les hommes savaient douter, il n'y aurait point de fous parmi eux, intellectuellement parlant : et, si l'éducation du genre humain n'est pas une utopie, ce n'en est pas non plus une que la disparition graduelle de la folie en tant que maladie mentale et aliénation de la conscience [^p90-1] ».
 
 Comme application de cette théorie du vertige mental, Renouvier nous donne, dans la 2ª édition de la Psychologie, une brève mais très originale étude sur Pascal. Il fait tenir sa pensée dans cinq thèses principales
 
@@ -1184,9 +1014,7 @@ auxquelles
 
 s'appliquerait aussi bien son raisonnement ; puis conclut, à propos de la dernière thèse, qu'elle est purement et simplement une provocation au vertige mental. « La cinquième thèse, thèse pratique succédant aux thèses d'observation et de raisonnement, consiste à engager le sujet intellectuel, le penseur inquiet et découragé qui veut se reposer dans une croyance, et ne sait s'en faire une par lui-même et dans sa raison, à employer toutes les ressources de volonté qui lui restent à se créer des habitudes systématiques, avant de les connaître bonnes, et de se placer ainsi dans une situation d'esprit telle que ses déterminations imaginatives et passionnelles deviennent à la fin fatales dans un sens prévu. C'est l'homme qui, voulant se jeter dans un précipice et n'en ayant pas le courage, est
 
-[p. 91]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE invité par un psychologiste à se mettre sur le bord et à regarder assidûment le fond, dans l'espoir que le vertige le prendra et lui fera faire ce qu'il craint. Ainsi les thèses de Pascal se résument en ces mots : une provocation au vertige moral. Seulement, ici, ce que le psychologiste conseillait, il l'avait fait lui-même, et disait s'en trouver bien : « Sachez que ce discours... [^p91-1]. »
+[p. 91] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE invité par un psychologiste à se mettre sur le bord et à regarder assidûment le fond, dans l'espoir que le vertige le prendra et lui fera faire ce qu'il craint. Ainsi les thèses de Pascal se résument en ces mots : une provocation au vertige moral. Seulement, ici, ce que le psychologiste conseillait, il l'avait fait lui-même, et disait s'en trouver bien : « Sachez que ce discours... [^p91-1]. »
 
 Nous avons insisté sur cette théorie du vertige mental, d'abord pour l'intérêt qu'elle présente en elle-même ; ensuite, parce qu'il faudra la connaître et s'en souvenir
 
@@ -1194,9 +1022,7 @@ quand nous aurons parlé de la croyance, et du rôle que Renouvier y reconnaît 
 
 pour se garder de le confondre avec ceux qui, voulant atteindre à la certitude, s'abandonnent et ferment les yeux.
 
-[p. 92]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE
+[p. 92] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE
 
 LIBERTÉ ET CERTITUDE
 
@@ -1210,9 +1036,7 @@ Aux partisans de la nécessité, on peut opposer les objections suivantes
 
 3º Si tout est nécessaire, il n'y a plus de vérité. « L'erreur est, en effet, nécessaire aussi bien que la vérité, et leurs titres sont pareils à cela près du nombre des hommes qui tiennent pour l'une ou pour l'autre, et qui demain peut chan
 
-[p. 93]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE ger. » Cet argument, le plus original de ceux que présente ici Renouvier, ne se comprend bien que si l'on se souvient de sa théorie du vertige mental, et que lorsqu'on a vu sa théorie de la certitude. Il n'y aura pas de vérité, digne de certitude, s'il n'y a pas possibilité de douter, de suspendre son jugement, de soumettre ses affirmations à une libre critique.
+[p. 93] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE ger. » Cet argument, le plus original de ceux que présente ici Renouvier, ne se comprend bien que si l'on se souvient de sa théorie du vertige mental, et que lorsqu'on a vu sa théorie de la certitude. Il n'y aura pas de vérité, digne de certitude, s'il n'y a pas possibilité de douter, de suspendre son jugement, de soumettre ses affirmations à une libre critique.
 
 4º Si les notions de moralité et de vérité disparaissent dans l'hypothèse de la nécessité, il faut rejeter aussi l'idée d'un progrès humain.
 
@@ -1226,9 +1050,7 @@ Les théories de la nécessité et de la liberté d'indifférence ont un vice co
 
 Et
 
-[p. 94]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE si, dans cette autre formule : la volonté est à elle-même son motif, on comble les mêmes lacunes, il vient : l'acte formé 'de volonté, d'intelligence et de passion, duquel fait partie la représentation d'un état jugé la conséquence de cet acte, détermine effectimement cet état.
+[p. 94] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE si, dans cette autre formule : la volonté est à elle-même son motif, on comble les mêmes lacunes, il vient : l'acte formé 'de volonté, d'intelligence et de passion, duquel fait partie la représentation d'un état jugé la conséquence de cet acte, détermine effectimement cet état.
 
 Du moins, voilà comment Renouvier conçoit la liberté, du point de vue de la conscience, et comme fait représentatif.
 
@@ -1240,9 +1062,7 @@ Pardon ! répond Renouvier :
 
 « Personne ne conteste, quelque opinion qu'on puisse avoir de la liberté morale, qu'il y ait des actions humaines diversement probables, en raison des tendances établies dans une certaine société, et des causes qui les favorisent dans une certaine mesure » ; mais il ne s'agit alors que de la cause abstraite des actes considérés dans leurs moyennes approximatives et dans leurs résultantes, et nullement de la cause active de chaque acte individuel. La loi des grands nombres, que d'aucuns invoquent contre la liberté, n'est au contraire que la mise en formule de l'égale possibilité d'une série de cas, c'est-à-dire, en somme, d'une indétermination complète, de sorte que, si on voulait la faire intervenir dans le problème de la liberté, elle serait plutôt favorable à celle-ci.
 
-[p. 95]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE
+[p. 95] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE
 
 En outre, il n'est nullement question, à propos des actes libres, d'une exception à la causalité. Les actes libres ont une cause : c'est « l'homme dans l'ensemble et la plénitude de ses fonctions ». Loin d'être isolés, ils se rattachent étroitement aux données antérieures des passions et de la connaissance ; le fait de la liberté consiste seulement en ce qu'un autre ordre aurait été possible.
 
@@ -1252,9 +1072,7 @@ On est certain, quand on voit, quant on sait ou quant on croit. Le troisième te
 
 Erreur ! il exprime le fait le plus général ; car voir et savoir, c'est bien plutôt croire que l'on voit, croire que l'on sait. — Voyons de
 
-[p. 96]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE plus près les éléments qui font cette croyance exempte de doute ; en d'autres termes, analysons les conditions de la certitude.
+[p. 96] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE plus près les éléments qui font cette croyance exempte de doute ; en d'autres termes, analysons les conditions de la certitude.
 
 Quand je suis incertain, cela peut tenir à trois causes ; ou bien les données de la sensibilité et de l'entendement sont insuffisantes ; elles manquent de clarté, de sécurité, de rigueur ; la représentation intellectuelle est incomplète. Je ne comprends pas ou je ne suis pas sûr,
 
@@ -1274,11 +1092,7 @@ A.
 
 Elément volontaire.
 
-Il n'y a lieu d'en parler que si l'on écarte l'hypothèse de la nécessité, car celle-ci entraîne que la volonté se fonde dans la passion ou dans l'intelligence, que l'erreur soit nécessaire et qu'aucune preuve n'existe de certitude. Avec la liberté, se trouve rétabli le pouvoir de doute et de contrôle critique à propos de toute affirmation, quelle qu'elle soit. Qu'on n'invoque pas l'évidence avec laquelle s'offre et s'impose telle ou telle connaissance. Il ne saurait en être question que pour les faits de conscience, qui sont assurément les données irréductibles. Mais, dès qu'on les dépasse et qu'il s'agit seulement d'affirmer la réa-
-
-[p. 97]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE lité extérieure du moindre objet correspondant à une sensation, l'évidence disparaît, la réflexion, et, par conséquent, la volonté a son office à remplir. Dans toutes les opérations de la pensée intervient la mémoire ; or sur quelle garantie s'appuie-t-elle au delà du sentiment actuel d'après lequel on pense ne pas se tromper ? Le jugement et le raisonnement impliquent toujours l'exercice de la mémoire ; et, d'ailleurs, nous savons bien qu'en dépit de leur évidence ils conduisent parfois au sophisme et à l'équivoque. Mais, même en admettant la valeur logique des raisonnements, ceux-ci ne portent la conscience au delà du point où ils la trouvent que s'il intervient dans leurs séries des synthèses, que l'on accepte telles qu'elles s'offrent. Or, ou bien ce sont des données de l'expérience, auxquelles s'appliquent les remarques suggérées par le moindre fait de perception, ou bien il s'agit de principes qui affirment certains rapports généraux des représentations, mais dont aucun en réalité ne se dégage complètement de la réflexion. Le principe de contradiction lui-même n'a-t-il pas été contesté ?
+Il n'y a lieu d'en parler que si l'on écarte l'hypothèse de la nécessité, car celle-ci entraîne que la volonté se fonde dans la passion ou dans l'intelligence, que l'erreur soit nécessaire et qu'aucune preuve n'existe de certitude. Avec la liberté, se trouve rétabli le pouvoir de doute et de contrôle critique à propos de toute affirmation, quelle qu'elle soit. Qu'on n'invoque pas l'évidence avec laquelle s'offre et s'impose telle ou telle connaissance. Il ne saurait en être question que pour les faits de conscience, qui sont assurément les données irréductibles. Mais, dès qu'on les dépasse et qu'il s'agit seulement d'affirmer la réa-[p. 97]DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE lité extérieure du moindre objet correspondant à une sensation, l'évidence disparaît, la réflexion, et, par conséquent, la volonté a son office à remplir. Dans toutes les opérations de la pensée intervient la mémoire ; or sur quelle garantie s'appuie-t-elle au delà du sentiment actuel d'après lequel on pense ne pas se tromper ? Le jugement et le raisonnement impliquent toujours l'exercice de la mémoire ; et, d'ailleurs, nous savons bien qu'en dépit de leur évidence ils conduisent parfois au sophisme et à l'équivoque. Mais, même en admettant la valeur logique des raisonnements, ceux-ci ne portent la conscience au delà du point où ils la trouvent que s'il intervient dans leurs séries des synthèses, que l'on accepte telles qu'elles s'offrent. Or, ou bien ce sont des données de l'expérience, auxquelles s'appliquent les remarques suggérées par le moindre fait de perception, ou bien il s'agit de principes qui affirment certains rapports généraux des représentations, mais dont aucun en réalité ne se dégage complètement de la réflexion. Le principe de contradiction lui-même n'a-t-il pas été contesté ?
 
 B.
 
@@ -1290,9 +1104,7 @@ A propos de toutes nos affirmations, il accompagne l'élément volontaire. La cl
 
 7
 
-[p. 98]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE sion et la volonté... Le signe radical de la volonté, la marque essentielle de ce développement achevé qui
+[p. 98] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE sion et la volonté... Le signe radical de la volonté, la marque essentielle de ce développement achevé qui
 
 fait l'homme capable de spéculation sur toutes choses,
 
@@ -1302,11 +1114,9 @@ Parmi les penseurs qui l'on précédé, le seul dont Renouvier ait le sentiment 
 
 qu'il déclare devoir à Jules Lequier,
 
-c'est l'auteur de la Critique de la Raison pratique. Mais une distance très grande l'éloigne encore de Kant, qui, en séparant radicalement la raison théorique et la raison pratique, partage artificiellement et faussement l'homme en deux, et méconnaît l'étroite indissolubilité de tous les éléments qui interviennent dans toute certitude, soit qu'elle affirme ou qu'elle nie.
+c'est l'auteur de la *Critique de la Raison pratique*. Mais une distance très grande l'éloigne encore de Kant, qui, en séparant radicalement la raison théorique et la raison pratique, partage artificiellement et faussement l'homme en deux, et méconnaît l'étroite indissolubilité de tous les éléments qui interviennent dans toute certitude, soit qu'elle affirme ou qu'elle nie.
 
-[p. 99]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE
+[p. 99] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE
 
 Comment s'établit en fait, chez l'homme, cette « assiette morale » qu'est la certitude, à propos des divers problèmes qui se posent ? Il faut distinguer plusieurs ordres d'affirmations. Au premier rang sont les « thèses de réalité ». La première pose la conscience identique et permanente avec ses fonctions et ses lois. C'est la réalité de la personne représentée à elle-même.
 
@@ -1318,9 +1128,7 @@ La quatrième établit la conformité des lois du monde et des êtres qui le com
 
 La volonté libre avait certes un rôle dès ces premières affirmations ; mais, en fait, elles sont formulées par tous les hommes, comme d'instinct, et sans que l'on songe à soulever le problème de la liberté. Il ne saurait en être de même, dès que nous dépassons ce premier ordre de connaissances, et que nous abordons le domaine où apparaissent les innombrables systèmes philosophiques et que domine le problème même de la liberté. Au second ordre de certitude, c'est donc elle-même que la liberté affirmera, si elle s'y sent conduite par des motifs moraux suffisants ; Renouvier nous fait assister à la délibération dernière, en reprenant toutes les raisons déjà indiquées en faveur de la liberté. Il peut insister davantage, maintenant, sur le rôle qu'a la volonté dans la vérité et la certitude. Enfin, il nous montre la liberté comme faisant la personne humaine, l'empêchant d'être un rouage et comblant ainsi la seule lacune qui semblait subsister après la disparition de la substance. La liberté qui, sans contredire aucun des principes directeurs de la science, apparaît comme le seul fondement de la moralité, de la vérité, la seule justification de la certitude, le fondement de la personne, la liberté met décidément fin au doute sur sa propre réalité et fixe la croyance en elle-même.
 
-[p. 100]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE
+[p. 100] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE
 
 Il me reste à résumer la fin de la Phsychologie, plus exactement, le contenu du troisième volume de la deuxième édition. Je le ferai brièvement, puis je présenterai quelques réflexions générales sur le Deuxième Essai.
 
@@ -1330,9 +1138,7 @@ Renouvier rattache ensuite à la Critique ce que l'on nomme les sciences morales
 
 Sauf qu'il n'est plus question des intuitions de la sensibilité, et que tous les jugements ne sont plus synthétiques, comme nous l'avons expliqué dans une leçon antérieure, les sciences mathématiques sont, pour Renouvier aussi bien que
 
-[p. 101]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE pour Kant, entièrement a priori ; elles se présentent comme développements naturels des catégories de quantité. Pour ce qui est des sciences physiques, remarquons la distinction entre l'histoire et la science théorique, qui fait également le fond de la classification de Cournot, et se retrouve, systématiquement utilisée, chez M. Goblot.
+[p. 101] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE pour Kant, entièrement *a priori* ; elles se présentent comme développements naturels des catégories de quantité. Pour ce qui est des sciences physiques, remarquons la distinction entre l'histoire et la science théorique, qui fait également le fond de la classification de Cournot, et se retrouve, systématiquement utilisée, chez M. Goblot.
 
 Une fois épuisé, avec cette classification des sciences, ce qui appartient au premier ordre de certitude, Renouvier va s'élever jusqu'aux probabilités morales, et aux postulats qui affirment, en même temps que la liberté, l'immortalité et la divinité. Il sent avant tout le besoin de compléter la définition de la certitude, qui, jusqu'ici, réduisait l'homme à luimême. Au
 
@@ -1346,9 +1152,7 @@ sa croyance, Renouvier ajoute une sorte de « contrat social », qui règle l'ac
 
 est pas qu'il faille compter sur un consentement universel, tout à fait irréalisable, pas plus qu'il n'y a lieu d'attribuer une trop grande valeur à l'opinion de la majorité des hommes. Mais l'homme supporterait difficilement de s'en tenir à des jugements isolés, « même si la conscience dans laquelle il est enfermé lui parlait hautement, irrécusablement... Plusieurs, après qu'ils sont descendus en eux-mêmes, n'y trouvent que le désert ou le chaos, le silence ou mille voix confuses, et dans leur effroi, pressés de se fuir, se donnent au premier système qui passe. L'ombre de la certitude, une autorité extérieure leur tient lieu de conscience, et souvent ils pensent croire encore plutôt qu'ils ne croient. D'autres, mais plus rares, en se sondant avec énergie et persistance, ont fait jaillir les sources vives de la certitude. Leurs âmes sont d'abord pénétrées de joie ; mais, ensuite, elles se sentent malheureuses jusqu'à ce qu'elles aient com
 
-[p. 102]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE muniqué leur bien aux autres âmes. Il n'y a plus de repos pour elles dans l'isolement ; il faut qu'une société se forme de toutes celles qui puisent aux mêmes eaux, il faut qu'une voix commune appelle à les partager toutes celles qui en sont altérées. Ainsi se fondent les philosophies et les religions, qui sont aussi des systèmes qui passent, mais qui règnent en passant, ordonnent des sociétés, établissent des traditions, préparent des abris aux consciences [^p102-1] ». L'homme s'adapte donc instinctivement au contrat social. En même temps, celui-ci conduit nécessairement à l'autorité, contre laquelle luttera la liberté individuelle, tendant à transformer sans cesse et à épurer les traditions. Mais, quoi qu'il en soit, il faut accepter, en fait, parmi les éléments de la certitude, et dans une mesure assurément variable, des motifs tirés'd'une sorte de conscience collective.
+[p. 102] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE muniqué leur bien aux autres âmes. Il n'y a plus de repos pour elles dans l'isolement ; il faut qu'une société se forme de toutes celles qui puisent aux mêmes eaux, il faut qu'une voix commune appelle à les partager toutes celles qui en sont altérées. Ainsi se fondent les philosophies et les religions, qui sont aussi des systèmes qui passent, mais qui règnent en passant, ordonnent des sociétés, établissent des traditions, préparent des abris aux consciences [^p102-1] ». L'homme s'adapte donc instinctivement au contrat social. En même temps, celui-ci conduit nécessairement à l'autorité, contre laquelle luttera la liberté individuelle, tendant à transformer sans cesse et à épurer les traditions. Mais, quoi qu'il en soit, il faut accepter, en fait, parmi les éléments de la certitude, et dans une mesure assurément variable, des motifs tirés'd'une sorte de conscience collective.
 
 La croyance, plus ou moins généralisée parmi les hommes, s'applique à des jugements sur lesquels la controverse restera toujours possible, et à propos desquels on ne peut parler que de probabilités morales. Renouvier examine ceux que Kant a nommés les postulats de la Raison pratique. Et, d'abord, il nous dit ce qui le sépare de Kant.
 
@@ -1358,11 +1162,7 @@ La croyance, plus ou moins généralisée parmi les hommes, s'applique à des ju
 
 3º Pour obtenir par l'immortalité le souverain bien, c'està-dire l'accord du bonheur et de la vertu, il a cru devoir encore sortir du monde sensible et phénoménal, et tomber dans le miracle.
 
-4 ° Il a cherché l'harmonie de la nature et de la moralité dans un Créateur, dont il fait une essence absolue, non an-
-
-[p. 103]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE thropomorphe,
+4 ° Il a cherché l'harmonie de la nature et de la moralité dans un Créateur, dont il fait une essence absolue, non an-[p. 103]DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE thropomorphe,
 
 une
 
@@ -1376,9 +1176,7 @@ Renouvier posera les mêmes croyances, mais sans vouloir dépasser les lois conn
 
 En ce qui concerne d'abord l'immortalité des êtres individuels, il en trouve une première raison dans les fins de la nature elle-même. L'étude des organismes vivants montre la nature comme un système de moyens et de fins. C'est là une vérité d'expérience, que ne contredit nullement la théorie des conditions d'existence, et qui n'a rien à voir d'ailleurs avec l'emploi vicieux des causes finales particulières dans les théories physiques. Or, cette loi téléologiste de la nature signifie, en termes communs, qu'il y a une destinée des êtres vivants. Celle-ci semble avoir un terme ; mais, si nous avons quelques raisons morales qui la légitiment, l'induction qui nous ferait prolonger indéfiniment cette destinée présentt-elle quelque impossibilité ? Qu'on ne dise pas : la nature fait tout pour l'espèce et sacrifie les individus. Une abstraction posée comme but à la loi téléologique ne suffit pas à contenter la conscience humaine. « Ce progrès, chimérique au fond, et qui ne profite à rien de réel, si ce n'est que la réalité ne possède jamais qu'un moment de l'infinie durée ; ce progrès qu'on fait luire à mes yeux, qu'on ose me promettre, comme s'il pouvait m'intéresser, est le produit d'une hypocrisie que le panthéisme ancien ne connaissait pas. Qu'importe que le mieux vienne, si le mieux doit périr comme a péri le bien, pour faire place à un mieux supérieur qui n'aura pas la vertu de durer davantage ? Consolerons-nous Sisyphe en lui promettant de l'anéantir, ensuite de lui donner des successeurs capables d'élever son rocher de plus en plus haut sur la pente fatale ? Son rocher qui retombera toujours ? Des successeurs qui s'anéantiront toujours et seront toujours remplacés ? Mais la montagne est infinie ! Mais, dans cet infini, le rocher s'élève ! Oui, le rocher retombe toujours. Ce
 
-[p. 104]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE rocher, c'est la vie individuelle ; si haut qu'elle monte, tout n'est-il pas perdu, dès qu'elle redescend aussi bas que si elle n'eût jamais quitté son néant ? [^p104-1] »
+[p. 104] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE rocher, c'est la vie individuelle ; si haut qu'elle monte, tout n'est-il pas perdu, dès qu'elle redescend aussi bas que si elle n'eût jamais quitté son néant ? [^p104-1] »
 
 Renouvier écarte les hypothèses courantes qui font vivre au delà de la mort des âmes séparées de tout organisme et de toute propriété extensive, comme s'il était prouvé que, par là, elles eussent plus de stabilité. Ce dont une induction naturelle pourra poser la prolongation, c'est la personne telle que nous la connaissons, c'est-à-dire inséparable d'un certain organisme, qui peut d'ailleurs être différent du premier, sans que l'expérience puisse nous renseigner sur la loi qui lierait l'organisme actuel à l'organisme futur. Les hypothèses ne manquent pas pour combler cette lacune. Citons, entre autres, l'hypothèse de la palingénésie cosmique, qui, ne nous éloigne pas beaucoup de ce que Renouvier écrira à la fin de sa vie, dans le Personnalisme : on suppose des mondes successifs, séparés par des intervalles quelconques, et reliés par une loi telle, que les personnes ayant vécu dans l'un reparaissent pour se continuer dans un autre...
 
@@ -1390,25 +1188,19 @@ Mais en outre, et surtout, la liberté une fois reconnue, et avec elle la réali
 
 Enfin, affirmer la réalité de la loi morale dans le monde
 
-[p. 105]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE c'est affirmer l'existence de Dieu.
+[p. 105] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE c'est affirmer l'existence de Dieu.
 
 D'ailleurs, la personne de Dieu est nécessairement soumise aux lois générales de toute connaissance et de toute existence. Les catégories valent pour elle comme pour nous, et, d'autre part, elle est soustraite aux attributs infinis que la métaphysique appelait des perfections et qui la détruisaient. Ainsi la personne divine ne peut être conçue que sur le type de la personne humaine. Elle a la vraie perfection, celle qui n'implique point contradiction, si haut qu'on la conçoive, la perfection de justice et de bonté ; mais elle a commencé ; elle est finie dans l'espace, et ne possède nullement la prescience de l'indéfinité des possibles. Et, enfin, nous n'avons aucun motif rationnel de trancher pour le moment, dans un sens ou dans l'autre, la question de l'unité ou de la pluralité de Dieu.
 
 Le deuxième essai, après le premier, marque-t-il un moment nouveau de la pensée de Renouvier ? Je ne le crois pas. La Psychologie est la suite, le complément naturel de la Logique ; les deux ouvrages forment un ensemble philosophique, dont l'unité de doctrine et d'allure est saisissante. Pour la doctrine, il est peu de points essentiels du second essai qui ne se trouvent ébauchés ou tout au moins annoncés dans le premier. Et quant à l'attitude générale, qui veut exclure le mystère, le métaphysique, la chimère inconnue ou inconcevable, et entend se maintenir sur le terrain de la seule connaissance possible ; on la retrouve, sauf peut-être une exception sur laquelle nous reviendrons tout à l'heure. jusque dans la partie de la Psychologie qui vise les problèmes de la vie future et de la divinité. Là même, en effet, Renouvier fait effort pour se placer au point de vue de la connaissance positive et scientifique ; il demande seulement qu'on applique à certains faits connus l'induction naturelle et normale dont use le savant. Il refuse absolument de se
 
-[p. 106]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE réfugier dans le miracle ; l'anthropomorphisme qu'il apporte dans sa conception de la divinité, et sa représentation de la personne future, après la mort, sur le type unique que nous a révélé l'expérience, sont des conséquences directes de cette attitude. Ce qui surprend le plus dans les possibilités ou les probabilités de Renouvier s'y rattache tout naturellement. Voyez, par exemple, son hypothèse de la palingénésie cosmique. Nous avons peine à accepter ces intervalles plus ou moins longs, pendant lesquels la personne cesse d'exister pour renaître ensuite... Mais, aux yeux de Renouvier, le discontinu de la durée et de l'existence est, en vertu du principe du nombre, une loi primitive, à laquelle toutes choses réelles sont soumises. La vie actuelle d'une personne est une suite de moments séparés par des intervalles plus ou moins petits. Qu'importe que ces intervalles grandissent ? Son hypothèse n'altère donc pas les caractères fondamentaux sous lesquels est donnée l'existence présente.
+[p. 106] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE réfugier dans le miracle ; l'anthropomorphisme qu'il apporte dans sa conception de la divinité, et sa représentation de la personne future, après la mort, sur le type unique que nous a révélé l'expérience, sont des conséquences directes de cette attitude. Ce qui surprend le plus dans les possibilités ou les probabilités de Renouvier s'y rattache tout naturellement. Voyez, par exemple, son hypothèse de la palingénésie cosmique. Nous avons peine à accepter ces intervalles plus ou moins longs, pendant lesquels la personne cesse d'exister pour renaître ensuite... Mais, aux yeux de Renouvier, le discontinu de la durée et de l'existence est, en vertu du principe du nombre, une loi primitive, à laquelle toutes choses réelles sont soumises. La vie actuelle d'une personne est une suite de moments séparés par des intervalles plus ou moins petits. Qu'importe que ces intervalles grandissent ? Son hypothèse n'altère donc pas les caractères fondamentaux sous lesquels est donnée l'existence présente.
 
 Une fois cependant, et en dépit de ses efforts pour tenir à l'écart les vieilles chimères des métaphysiciens, Renouvier semble bien sortir de ce positivisme semi empirique, semi rationnel, où il a engagé sa pensée ; c'est à propos de la question fondamentale de la liberté. De quel ordre, en effet, est donc la réalité dont il poursuit si avidement la certitude ? C'est la réalité d'une possibilité, avant qu'elle passe à l'acte ;
 
 c'est une réalité qui par sa nature échappe à toute expérience, et ne semble guère moins dépasser la représentation que le noumène lui-même. Si l'on veut encore, c'est la négation de la nécessité dans le domaine des faits ; mais cette nécessité elle-même n'est qu'un autre absolu, la réalité d'une impossibilité pour les choses, avant qu'elles soient, d'être autrement qu'elles ne seront. Renouvier a-t-il vraiment pu porter l'effort de sa philosophie sur le choix qu'elle allait faire entre ces deux réalités, sans entrer sur le terrain d'une métaphysique à laquelle il prétend s'opposer ?... Mes doutes à cet égard se trouvent renforcés par quelques impressions
 
-[p. 107]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE que je vous communique. D'abord Renouvier revient sans cesse sur ce problème de la liberté, et chaque retour, souvent inattendu, donne le sentiment qu'à ses yeux tous les arguments déjà accumulés ne suffisaient pas encore. « On ne démontre pas la liberté, dit-il, dans ses derniers entretiens à son ami M. Prat ; experto crede Roberto. »
+[p. 107] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE que je vous communique. D'abord Renouvier revient sans cesse sur ce problème de la liberté, et chaque retour, souvent inattendu, donne le sentiment qu'à ses yeux tous les arguments déjà accumulés ne suffisaient pas encore. « On ne démontre pas la liberté, dit-il, dans ses derniers entretiens à son ami M. Prat ; experto crede Roberto. »
 
 Et puis, n'y a-t-il pas quelque flottement dans l'idée même qu'il se fait de la liberté ? Quand il raconte l'histoire de sa pensée [^p107-1], il rattache clairement son affirmation de la liberté à sa découverte de la loi du nombre, qui lui fait paraître naturel un commencement absolu ;
 
@@ -1420,9 +1212,7 @@ a
 
 été le commencement du monde. Or cette conception diffère de celle qui rattache la volition à la personne humaine, au point de donner un sens à cette affirmation de Renouvier : les actes libres ont une cause, qui est l'homme dans la plénitude de ses fonctions ; elle diffère de celle qui s'oppose avec tant d'insistance à la liberté d'indifférence. Du moins, c'est là mon impression, et je serais tenté d'en trouver une justification dans ce fait, peu ordinaire chez Renouvier, que la loi du nombre, et les contradictions qu'elle dénonce dans le système de la nécessité et de la chaîne totale et continue des choses, à certains moments, ne pèsent pas lourd dans la balance ; lorsqu'on récapitule tous les arguments en faveur de la liberté (Psych. t. III), il n'en est même plus question. Cette conception n'est pas la seule qui apparaisse pour disparaître ensuite dans les analyses qui remplissent la Psychologie. Si on lit attentivement le chapitre relatif au vertige mental, ne sent-on pas que la volonté libre est le pouvoir d'épurer nos affirmations
 
-[p. 108]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE des éléments qui les éloignent du vrai et du bien ? En d'autres termes, la volonté se confondrait avec le pouvoir de guider notre entendement dans la voie de la vérité et de la moralité, par la lutte contre les préjugés, les superstitions, les jugements de parti pris, etc... Qu'on ne dise pas, à propos de la démence, qu'il y a direction vicieuse de la volonté, écrirait Renouvier, mais bien insuffisance de volonté. Il suffirait que la volonté fût plus intense pour provoquer une réflexion qui conduirait aux jugements droits.
+[p. 108] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE des éléments qui les éloignent du vrai et du bien ? En d'autres termes, la volonté se confondrait avec le pouvoir de guider notre entendement dans la voie de la vérité et de la moralité, par la lutte contre les préjugés, les superstitions, les jugements de parti pris, etc... Qu'on ne dise pas, à propos de la démence, qu'il y a direction vicieuse de la volonté, écrirait Renouvier, mais bien insuffisance de volonté. Il suffirait que la volonté fût plus intense pour provoquer une réflexion qui conduirait aux jugements droits.
 
 Ailleurs [^p108-1] :
 
@@ -1432,9 +1222,7 @@ Ailleurs [^p108-1] :
 
 Bref, je ne sais s'il n'y a pas quelque inconséquence dans l'ardeur de Renouvier à poursuivre, à la suite de J. Lequier, un problème qui l'emporte au delà du terrain scientifique et humain où il avait pris jusque-là nettement position. On dira que cette inconséquence va donner, en tout cas, le fondement de toute sa philosophie morale, qui pour beaucoup est la partie la plus importante de l'œuvre de Renouvier. Soit ! Mais, d'abord, c'est une question de savoir s'il n'eût pu prendre à l'égard de la liberté la même attitude qu'à l'égard
 
-[p. 109]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE de la substance, et faire reposer pratiquement ses conceptions morales et sociales sur les faits qui composent la vie de l'homme, y compris la volonté, l'énergie, le sentiment de la responsabilité... Et, par la façon même dont il nous présentera la science de la morale, Renouvier lui-même nous fournira ici un argument. Et, enfin, si, comme beaucoup d'autres métaphysiciens, il a senti le besoin de franchir les limites du connaissable et de l'expérience, nous nous bornerons à dire que le reproche qu'il adresse particulièrement à Kant de faire appel au mystère, au miracle, à l'absolu, perd alors beaucoup de sa force et de sa valeur.
+[p. 109] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE de la substance, et faire reposer pratiquement ses conceptions morales et sociales sur les faits qui composent la vie de l'homme, y compris la volonté, l'énergie, le sentiment de la responsabilité... Et, par la façon même dont il nous présentera la *science de la morale*, Renouvier lui-même nous fournira ici un argument. Et, enfin, si, comme beaucoup d'autres métaphysiciens, il a senti le besoin de franchir les limites du connaissable et de l'expérience, nous nous bornerons à dire que le reproche qu'il adresse particulièrement à Kant de faire appel au mystère, au miracle, à l'absolu, perd alors beaucoup de sa force et de sa valeur.
 
 Cela, d'ailleurs, n'est point pour diminuer l'intérêt profond du deuxième essai, qui me semble surtout résider quelle que soit l'attitude qu'on prenne à l'égard du problème métaphysique de la liberté
 
@@ -1442,19 +1230,15 @@ dans l'analyse de la volonté, du vertige mental et de la certitude. Ce qui est 
 
 Renouvier a-t-il pu apprécier toute l'influence de ces idées sur notre état d'esprit d'aujourd'hui, ou, tout au moins, leur accord avec nos tendances actuelles à vouloir dépasser un intellectualisme par trop simpliste ? Je n'ose l'affirmer, et la raison en est bien claire : c'est que, dans la voie même où il s'est engagé et où vont aussi quelques-uns d'entre nous, nous l'avons dépassé.
 
-[p. 110]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE
+[p. 110] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE
 
 Nous avons su douter, comme nous le demandait le maître, et il nous a paru bien difficile,
 
 sans parler de ce qui est donné comme probabilités morales,
 
-d'accepter le dogmatisme tranquille avec lequel il range dans les thèses incontestées de réalité une foule de vérités qui découlent pour lui des catégories, soit analytiquement, soit par des synthèses nécessaires. Tels sont les énoncés des sciences mathématiques, qu'il classe toutes parmi les sciences logiques. Kant admettait que l'intuition a priori de l'espace comprenait implicitement tous les jugements que le géomètre n'a plus qu'à lire dans cette intuition. La nature propre de l'intuition disparaît pour Renouvier, et pourtant la matière qui enveloppera la catégorie d'espace est aussi inséparable de la forme que pour Kant. Il en est de même des autres catégories de quantité, nombre, succession, etc. Mais l'auteur de la Critique de la Raison pure était au moins parti de l'impression de clarté, d'évidence et de nécessité, qui accompagne les sciences théoriques, sans se demander quelle était la valeur de cette impression. Renouvier nous a suffisamment mis en garde contre les illusions de l'évidence et a trop insisté sur les éléments passionnels et volontaires de la certitude, pour que nous ne lui demandions pas compte, à lui, de cette nécessité. -Et, d'ailleurs, ne dit-il pas lui-même que la nécessité des jugements auxquels nous donnons ce caractère n'est pas de nature intellectuelle, mais bien plutôt de nature passionnelle ? Ces jugements, d'après lui, nous permettent de mettre de l'ordre dans le monde et de faire la science ; nous en avons besoin, si nous voulons croire à la connaissance possible des choses. On ne saurait mieux marquer la valeur pratique des principes et des postulats des sciences rationnelles ; mais comment ne pas y reconnaître, en même temps, le choix le meilleur que fait l'esprit dans ses constructions, le plus simple, le plus commode, le plus conforme à tous ses besoins, au lieu de cette sorte d'apodictique et d'absolu que laisse subsister Renouvier, au point de renfermer toute la matière
+d'accepter le dogmatisme tranquille avec lequel il range dans les thèses incontestées de réalité une foule de vérités qui découlent pour lui des catégories, soit analytiquement, soit par des synthèses nécessaires. Tels sont les énoncés des sciences mathématiques, qu'il classe toutes parmi les sciences logiques. Kant admettait que l'intuition *a priori* de l'espace comprenait implicitement tous les jugements que le géomètre n'a plus qu'à lire dans cette intuition. La nature propre de l'intuition disparaît pour Renouvier, et pourtant la matière qui enveloppera la catégorie d'espace est aussi inséparable de la forme que pour Kant. Il en est de même des autres catégories de quantité, nombre, succession, etc. Mais l'auteur de la *Critique de la Raison pure* était au moins parti de l'impression de clarté, d'évidence et de nécessité, qui accompagne les sciences théoriques, sans se demander quelle était la valeur de cette impression. Renouvier nous a suffisamment mis en garde contre les illusions de l'évidence et a trop insisté sur les éléments passionnels et volontaires de la certitude, pour que nous ne lui demandions pas compte, à lui, de cette nécessité. -Et, d'ailleurs, ne dit-il pas lui-même que la nécessité des jugements auxquels nous donnons ce caractère n'est pas de nature intellectuelle, mais bien plutôt de nature passionnelle ? Ces jugements, d'après lui, nous permettent de mettre de l'ordre dans le monde et de faire la science ; nous en avons besoin, si nous voulons croire à la connaissance possible des choses. On ne saurait mieux marquer la valeur pratique des principes et des postulats des sciences rationnelles ; mais comment ne pas y reconnaître, en même temps, le choix le meilleur que fait l'esprit dans ses constructions, le plus simple, le plus commode, le plus conforme à tous ses besoins, au lieu de cette sorte d'apodictique et d'absolu que laisse subsister Renouvier, au point de renfermer toute la matière
 
-[p. 111]
-
-DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE de ces constructions dans les formes elles-mêmes, dans les lois générales de la pensée, dans les conditions irréductibles de la connaissance ?
+[p. 111] DEUXIÈME ESSAI DE CRITIQUE GÉNÉRALE de ces constructions dans les formes elles-mêmes, dans les lois générales de la pensée, dans les conditions irréductibles de la connaissance ?
 
 S'il eût ouvert les yeux sur ces conséquences naturelles de sa propre théorie de la certitude, il eût été aussi amené à contrôler le genre de nécessité qu'implique sa loi du nombre. et ce serait une grande erreur qui ne ferait plus ombre sur sa philosophie. Mais tout cela ne pouvait guère se produire, parce que Renouvier a le tempérament d'un dogmatique, et que son doute méthodique, comme celui de tous les dogmatiques, a pour principal effet chez lui d'assurer davantage la sérénité de toutes ses affirmations.
 
@@ -1462,19 +1246,11 @@ Aussi bien, et c'est la dernière remarque que je veux vous soumettre, il est co
 
 Renouvier l'a senti par moments, mais n'en a peut-être pas assez tenu compte, et a abouti à une certitude dont on voudrait voir l'objectivité mieux justifiées.
 
-[p. 112]
-
-[p. 113]
-
-TROISIÈME ET QUATRIÈME ESSAI DE CRITIQUE GÉNÉRALE
+[p. 112] [p. 113] TROISIÈME ET QUATRIÈME ESSAI DE CRITIQUE GÉNÉRALE
 
 8
 
-[p. 114]
-
-[p. 115]
-
-Troisième et Quatrième Essai de Critique Générale
+[p. 114] [p. 115] Troisième et Quatrième Essai de Critique Générale
 
 #### I
 
@@ -1488,11 +1264,7 @@ Ou bien donc on ne conserve que le représenté et l'on élimine tous les caract
 
 Ou bien les représentés n'ont aucune réalité et seule l'aptitude représentative est accordée à l'être : c'est la doctrine de l'idéalisme pur.
 
-Ou, enfin, tout être réunit les deux éléments de la représentation et existe à titre de représentation pour soi : c'est la
-
-[p. 116]
-
-116 TROISIÈME ET QUATRIÈME ESSAIS DE CRITIQUE GÉNÉRALE doctrine de la réalité complète, seule compatible avec les principes posés dans les deux premiers Essais.
+Ou, enfin, tout être réunit les deux éléments de la représentation et existe à titre de représentation pour soi : c'est la [p. 116] 116 TROISIÈME ET QUATRIÈME *ESSAIS DE CRITIQUE GÉNÉRALE* doctrine de la réalité complète, seule compatible avec les principes posés dans les deux premiers Essais.
 
 « Il n'y a donc qu'une notion possible de l'être individuel posé dans la nature, pour soi et en général : c'est la notion générale de la représentation pour soi. »>
 
@@ -1504,9 +1276,7 @@ De cette harmonie totale nous pouvons considérer à part, et avant toute expér
 
 Si l'on voulait voir dans l'atome une sorte de substrat des phénomènes physiques, fait d'étendue concrétée, et, dans le vide, un être d'étendue pure, nous devrions rejeter l'un et l'autre pour éviter l'infini réalisé. C'est autrement que nous
 
-[p. 117]
-
-TROISIÈME ET QUATRIÈME ESSAIS DE CRITIQUE GÉNÉRALE 117 les concevrons pour les affirmer. Nous nous représentons les actions des êtres s'exerçant en certaines circonscriptions limi tées, en certains lieux assignables, et non en d'autres,
+[p. 117] TROISIÈME ET QUATRIÈME *ESSAIS DE CRITIQUE GÉNÉRALE* 117 les concevrons pour les affirmer. Nous nous représentons les actions des êtres s'exerçant en certaines circonscriptions limi tées, en certains lieux assignables, et non en d'autres,
 
 et, de plus, nous concevons que, parmi ces lieux circonscrits à trois dimensions, et tels qu'un espace quelconque en contient toujours nécessairement un nombre fini, il en est où ne s'exerce aucune action, qui ne servent, au moins actuellement. à la détermination locale d'aucun phénomène : ce sont pour Renouvier les lieux vides.
 
@@ -1520,11 +1290,7 @@ cela est supposé, par exemple, dans les fonctions atomiques, attractions et ré
 
 On a souvent rattaché l'existence du vide à la nécessité d'affirmer le mouvement. Descartes a cependant répondu en montrant que le plein n'oblige qu'à changer la nature du mouvement, et de propagé qu'il était, à le rendre solidaire. Mais cette solidarité de toutes les séries de masses qui entrent dans un système universel, exclut l'initiative motrice des êtres individuels, et implique la nécessité de toutes les modifications du système à un moment quelconque. Ainsi précisé, le vieil argument des atomistes contre le plein reprend toute sa force.
 
-Renouvier, par sa conception du vide et de l'atome, rejette le continu de l'espace : on devine qu'il rejettera de même le continu de la durée des phénomènes, et se le représentera sous une suite d'actions élémentaires instantanées. Les intervalles élémentaires qui limitent ces actions sont extrêmement petits, près de ceux que nous observons ; de même que sont extrêmement petits les intervalles qui séparent, dans l'espace, deux points où siègent les forces locales. Et c'est ce qui fait
-
-[p. 118]
-
-118 TROISIÈME ET QUATRIÈME ESSAIS DE CRITIQUE GÉNÉRALE que le calcul de l'indéfini s'adapte si bien aux problèmes de composition et décomposition élémentaires. Mais il ne faut pas s'y méprendre : le continu est une illusion des sens.
+Renouvier, par sa conception du vide et de l'atome, rejette le continu de l'espace : on devine qu'il rejettera de même le continu de la durée des phénomènes, et se le représentera sous une suite d'actions élémentaires instantanées. Les intervalles élémentaires qui limitent ces actions sont extrêmement petits, près de ceux que nous observons ; de même que sont extrêmement petits les intervalles qui séparent, dans l'espace, deux points où siègent les forces locales. Et c'est ce qui fait [p. 118] 118 TROISIÈME ET QUATRIÈME *ESSAIS DE CRITIQUE GÉNÉRALE* que le calcul de l'indéfini s'adapte si bien aux problèmes de composition et décomposition élémentaires. Mais il ne faut pas s'y méprendre : le continu est une illusion des sens.
 
 Ce qui se dégage de la vue générale du fond de la nature, c'est pour Renouvier la grande loi du discontinu, de l'intermittence. Elle s'applique non seulement aux phénomènes élémentaires dont il vient d'être question, mais encore « aux forces les plus élevées, aux moments de la représentation humaine comme à ceux des fonctions organiques et de tous les faits composants de l'ordre du monde... Le monde est une pulsation immense composée d'un nombre inassignable, quoique à chaque instant déterminé, de pulsations élémentaires de divers ordres, dont l'harmonie plus ou moins étroite ou compréhensive, plus ou moins aveugle ou clairvoyante, établie et développée en une multitude de degrés ou de genres, s'accomplit par la naissance des êtres autonomes, dans lesquels elle tend à devenir, de purement spontanée qu'elle était, volontaire et libre [^p118-1]. »
 
@@ -1536,21 +1302,15 @@ puis dans l'examen critique auquel il soumet les hypothèses cosmogoniques et le
 
 Deux choses sont surtout à noter dans ce troisième Essai : la monadologie,
 
-la loi d'intermittence de la nature. Ni l'une ni l'autre ne nous surprennent beaucoup. Par la monadologie, Renouvier reste fidèle à cette philosophie de l'esprit,
+la loi d'intermittence de la nature. Ni l'une ni l'autre ne nous surprennent beaucoup. Par la monadologie, Renouvier reste fidèle à cette philosophie de l'esprit, [p. 119] TROISIÈME ET QUATRIÈME *ESSAIS DE CRITIQUE GÉNÉRALE* 119 dont il a puisé le germe dans le Cogito de Descartes, et qui, déjà en 1842, le conduisait avec quelques réserves aux monades leibnitiennes. La disparition de la substance ne l'empêche pas de rester, avec la représentation, au cœur même du Cogito, et d'en tirer comme une conséquence naturelle la notion la plus générale de l'existence. Quant à l'harmonie des monades, posée comme un fait universel pour expliquer les relations et les lois, elle n'a jamais cessé, depuis la première édition de la logique, c'est-à-dire aussitôt que le phé noménisme a été consciemment affirmé, de traduire l'idée que Renouvier se faisait de la causalité.
 
-[p. 119]
-
-TROISIÈME ET QUATRIÈME ESSAIS DE CRITIQUE GÉNÉRALE 119 dont il a puisé le germe dans le Cogito de Descartes, et qui, déjà en 1842, le conduisait avec quelques réserves aux monades leibnitiennes. La disparition de la substance ne l'empêche pas de rester, avec la représentation, au cœur même du Cogito, et d'en tirer comme une conséquence naturelle la notion la plus générale de l'existence. Quant à l'harmonie des monades, posée comme un fait universel pour expliquer les relations et les lois, elle n'a jamais cessé, depuis la première édition de la logique, c'est-à-dire aussitôt que le phé noménisme a été consciemment affirmé, de traduire l'idée que Renouvier se faisait de la causalité.
-
-Quant à la loi d'intermittence et à la grande pulsation qu'est le monde, ce sont d'abord, théoriquement et a priori, des conséquences de la loi du nombre, qui par là sont soumises aux critiques que nous avons adressées à cette loi. Ce sont aussi, sans doute, des postulats dont Renouvier trouve une vérification dans les sciences de la nature. Cela est intéressant dans la mesure ou l'on pourrait dire qu'en les énoncant on met en relief les tendances des conceptions scientifiques à s'imprégner d'atomisme et de discontinuité ; mais a la condition de ne pas dépasser cette attitude, et de ne pas rejeter de la science les tendances contraires.
+Quant à la loi d'intermittence et à la grande pulsation qu'est le monde, ce sont d'abord, théoriquement et *a priori*, des conséquences de la loi du nombre, qui par là sont soumises aux critiques que nous avons adressées à cette loi. Ce sont aussi, sans doute, des postulats dont Renouvier trouve une vérification dans les sciences de la nature. Cela est intéressant dans la mesure ou l'on pourrait dire qu'en les énoncant on met en relief les tendances des conceptions scientifiques à s'imprégner d'atomisme et de discontinuité ; mais a la condition de ne pas dépasser cette attitude, et de ne pas rejeter de la science les tendances contraires.
 
 #### II
 
-Le quatrième Essai [^p119-1] nous ramène à l'homme. Les deux premiers ont épuisé le problème logique, psychologique, abstrait. C'est maintenant à l'histoire qu'il faut demander les informations complémentaires indispensables à la science. Mais cette histoire ne doit pas être faite a priori, de parti pris ; elle doit se passer d'hypothèse cosmique, ou théologique, ou physiologique ; elle doit être analytique. Et c'est sous le titre d'Introduction à la philosophie analytique de Phistoire que se présente le quatrième Essai.
+Le quatrième Essai [^p119-1] nous ramène à l'homme. Les deux premiers ont épuisé le problème logique, psychologique, abstrait. C'est maintenant à l'histoire qu'il faut demander les informations complémentaires indispensables à la science. Mais cette histoire ne doit pas être faite *a priori*, de parti pris ; elle doit se passer d'hypothèse cosmique, ou théologique, ou physiologique ; elle doit être analytique. Et c'est sous le titre d'Introduction à la philosophie analytique de Phistoire que se présente le quatrième Essai.
 
-[p. 120]
-
-120 TROISIÈME ET QUATRIÈME ESSAIS DE CRITIQUE GÉNÉRALE
+[p. 120] 120 TROISIÈME ET QUATRIÈME *ESSAIS DE CRITIQUE GÉNÉRALE*
 
 Renouvier y traite d'abord des origines morales de l'homme, puis expose les antiques diversités ethniques, linguisti ques, morales, religieuses, d'un certain nombre de familles.
 
@@ -1562,11 +1322,7 @@ historique qui va de Descartes à Fichte, Renouvier nous présente sa solution. 
 
 la prudence, la tempérance, la force ou le courage, et les vices contraires,
 
-ont leur origine dans le conflit des passions,
-
-[p. 121]
-
-TROISIÈME ET QUATRIÈME ESSAIS DE CRITIQUE GÉNÉRALE 121 qui naît lui-même de la pluralité des fins que l'homme se propose en vertu de sa nature. L'homme devient de plus en plus raisonnable, selon qu'il connaît et limite par des conditions de temps et classe par ordre d'importance et de valeur les biens qui l'attirent.
+ont leur origine dans le conflit des passions, [p. 121] TROISIÈME ET QUATRIÈME *ESSAIS DE CRITIQUE GÉNÉRALE* 121 qui naît lui-même de la pluralité des fins que l'homme se propose en vertu de sa nature. L'homme devient de plus en plus raisonnable, selon qu'il connaît et limite par des conditions de temps et classe par ordre d'importance et de valeur les biens qui l'attirent.
 
 D'autre part, un fond naturel de bienveillance et de sympathie pour les autres hommes, c'est-à-dire une disposition à se reconnaître en communauté de biens et de maux avec eux, se trouve en antagonisme avec le souci du bien personnel immédiatement sensible, ce qui est l'origine de phénomènes moraux d'un nouveau genre. Ceux-ci ne s'établissent pas dans la conscience aussi simplement que nous paraissons croire. Les services mutuels, qu'une bienveillance spontanée et gratuite fait naître, tendent à devenir obligatoires. Chacun attend d'autrui ce qu'il est ou se croit disposé à lui faire dans un cas semblable, et ainsi se trouvent introduites « des notions de réciprocité et d'égalité, qui changent du tout au tout la nature des premiers sentiments que nous supposions. L'une des idées originales de l'homme s'est témoignée clairement à la conscience, aussi éclatante, aussi impérieuse dès l'abord qu'elle pourra jamais l'être. Cette idée est la justice [^p121-1] ».
 
@@ -1574,25 +1330,17 @@ Il est facile de comprendre, alors, comment ont pu naître les mauvais sentiment
 
 il devenait sujet aux illusions qui déforment en sens contraire ce que lui doivent les autres et ce qu'il leur doit, ainsi qu'aux sophismes de justification de toutes sortes d'actes, qui, en réalité, ne sont inspirés que par certaines passions. Et ainsi le mal prenait naissance et progressait, -
 
-pouvant ensuite recevoir la plus grande extension par la loi de la solidarite
-
-[p. 122]
-
-122 TROISIÈME ET QUATRIÈME ESSAIS DE CRITIQUE GÉNÉRALE humaine. La solidarité se montre d'abord dans la communication des penchants, des vertus et des vices, par voie d'imitation dans une même famille ; puis elle agit entre des familles différentes. D'autre part, les actes répétés deviennent chez un individu des habitudes, et celles-ci, prenant une valeur sociale, deviennent des usages et des coutumes, bientôt consacrés par des lois, qui ne tardent pås elles-mêmes à apparaître comme indiscutables et naturelles. Et ainsi, par l'habitude et la loi de solidarité, les premières aberrations de la conscience individuelle s'étendent et se généralisent dans des masses humaines. Selon le degré de déchéance où s'arrête, à certains moments, chacune des grandes familles, les pensées et les sentiments collectifs, les actes coutumiers, constituent une race éthique, dont le caractère domine toutes les influences physiques et naturelles (climat, race proprement dite, etc.). Les divers groupements présentent d'ailleurs des caractères très différents.
+pouvant ensuite recevoir la plus grande extension par la loi de la solidarite [p. 122] 122 TROISIÈME ET QUATRIÈME *ESSAIS DE CRITIQUE GÉNÉRALE* humaine. La solidarité se montre d'abord dans la communication des penchants, des vertus et des vices, par voie d'imitation dans une même famille ; puis elle agit entre des familles différentes. D'autre part, les actes répétés deviennent chez un individu des habitudes, et celles-ci, prenant une valeur sociale, deviennent des usages et des coutumes, bientôt consacrés par des lois, qui ne tardent pås elles-mêmes à apparaître comme indiscutables et naturelles. Et ainsi, par l'habitude et la loi de solidarité, les premières aberrations de la conscience individuelle s'étendent et se généralisent dans des masses humaines. Selon le degré de déchéance où s'arrête, à certains moments, chacune des grandes familles, les pensées et les sentiments collectifs, les actes coutumiers, constituent une race éthique, dont le caractère domine toutes les influences physiques et naturelles (climat, race proprement dite, etc.). Les divers groupements présentent d'ailleurs des caractères très différents.
 
 Partout se conclut entre les individus d'une même société une sorte de contrat tacite, qui se traduit dans le droit positif. Au-dessus de ce droit et de toutes les conventions qu'il consacre provisoirement, subsiste et se développe la notion d'une injustice universelle. Et les évolutions sociales ne sont autre chose que des phénomènes de balancement en sens divers entre cette justice universelle telle qu'elle est sentie à un moment donné, et la sphère des obligations auxquelles on attribue une valeur positive dans le même temps.
 
 Ici se trouve, en quelques pages saisissantes, comme un exposé général de toutes les révolutions qui ont voulu substituer quelque chose du droit idéal au droit positif. Ecoutez ces réflexions, et, pour en sentir toute la justesse, pensez, par exemple, aux efforts actuels du peuple russe contre le régime traditionnel qu'a consacré l'autocratie des tsars : « Depuis l'origine des délibérations de l'humanité sur les lois qu'il lui convient de s'imposer, un antagonisme n'a cessé d'exister entre les partisans d'un minimum de moralité, réglé par la
 
-[p. 123]
-
-TROISIÈME ET QUATRIÈME ESSAIS DE CRITIQUE GÉNÉRALE 123 coutume actuelle, et le nombre plus restreint des justes, qui, poussés par la passion du bien, instruits par la culture de la raison, prétendent aller au mieux en toutes choses. Les moyens termes sont tenus dans le débat par la multitude des opinions... Mais la foule elle-même, à de longs intervalles, en vient à s'accorder dans un idéal, c'est-à-dire à concevoir un ordre préférable à l'ordre établi, et auquel il ne manquerait, pour s'y substituer, que telles ou telles sanctions selon l'esprit des temps. Bientôt les intérêts avertis travaillent en tout sens, les passions s'animent, l'intelligence combine les projets, puis des désordres éclatent, auxquels il faut porter remède, et de deux choses l'une : ou l'autorité traditionnelle, exaltée par la crainte et par la lutte, reste victorieuse, un grand déploiement de violence rejette la société en arrière ; ou des progrès s'accomplissent non sans compromis, phases et retours divers, même dans les révolutions les plus radicales, non sans violence encore et sans de déplorables horreurs, mais enfin pour le bien des générations futures et surtout pour la satisfaction de l'immuable justice. C'est celle-ci qui, toujours présente à l'esprit humain, entre progressivement dans les faits, à mesure que le mal démasque recule devant elle. C'est l'idée qui, de mieux en mieux analysée, plus exactement suivie en ses applications, passe dans la réalité, et parvient à faire caractériser comme droits et devoirs positifs, reconnus en convention ou cénacle, définis légalement ou religieusement, et, dès lors, strictement obligatoires, des rapports sociaux auparavant renfermés dans une sphère plus haute du bien et de la pensée, où les mieux inspirés savaient seuls et très difficilement les atteindre, encore moins s'y conformer [^p123-1]. »
+[p. 123] TROISIÈME ET QUATRIÈME *ESSAIS DE CRITIQUE GÉNÉRALE* 123 coutume actuelle, et le nombre plus restreint des justes, qui, poussés par la passion du bien, instruits par la culture de la raison, prétendent aller au mieux en toutes choses. Les moyens termes sont tenus dans le débat par la multitude des opinions... Mais la foule elle-même, à de longs intervalles, en vient à s'accorder dans un idéal, c'est-à-dire à concevoir un ordre préférable à l'ordre établi, et auquel il ne manquerait, pour s'y substituer, que telles ou telles sanctions selon l'esprit des temps. Bientôt les intérêts avertis travaillent en tout sens, les passions s'animent, l'intelligence combine les projets, puis des désordres éclatent, auxquels il faut porter remède, et de deux choses l'une : ou l'autorité traditionnelle, exaltée par la crainte et par la lutte, reste victorieuse, un grand déploiement de violence rejette la société en arrière ; ou des progrès s'accomplissent non sans compromis, phases et retours divers, même dans les révolutions les plus radicales, non sans violence encore et sans de déplorables horreurs, mais enfin pour le bien des générations futures et surtout pour la satisfaction de l'immuable justice. C'est celle-ci qui, toujours présente à l'esprit humain, entre progressivement dans les faits, à mesure que le mal démasque recule devant elle. C'est l'idée qui, de mieux en mieux analysée, plus exactement suivie en ses applications, passe dans la réalité, et parvient à faire caractériser comme droits et devoirs positifs, reconnus en convention ou cénacle, définis légalement ou religieusement, et, dès lors, strictement obligatoires, des rapports sociaux auparavant renfermés dans une sphère plus haute du bien et de la pensée, où les mieux inspirés savaient seuls et très difficilement les atteindre, encore moins s'y conformer [^p123-1]. »
 
 Parfois, dans les sociétés livrées à la force et au mensonge, parvenues au dernier degré de l'abaissement, les hom-
 
-[p. 124]
-
-124 TROISIÈME ET QUATRIÈME ESSAIS DE CRITIQUE GÉNÉRALE mes désespèrent de la justice ; c'est alors par le cœur et non par la raison que la moralité renaît.
+[p. 124] 124 TROISIÈME ET QUATRIÈME *ESSAIS DE CRITIQUE GÉNÉRALE* mes désespèrent de la justice ; c'est alors par le cœur et non par la raison que la moralité renaît.
 
 On réagit par une sorte d'abnégation de son activité, par le don de soi, par le sacrifice ; et certaines créations religieuses sont sorties de ces dispositions des âmes les plus pures dans une société corrompue.
 
@@ -1610,33 +1358,21 @@ Il ne sépare certes pas la justice de tout fondement passionnel : c'est bien à
 
 « L'homme de l'amour est homme de passion, car l'amour est une passion, si purs d'ailleurs et si désintéressés que soient les mobiles ; il est donc par lui-même sans règle cer
 
-[p. 125]
-
-TROISIÈME ET QUATRIÈME ESSAIS DE CRITIQUE GÉNÉRALE 125 taine ; tout lui est exception et cas particuliers ; s'il ne nie point les lois rationnelles de la conduite, il est du moins disposé à les faire fléchir en mille occasions ; ainsi le mal se transfigure en bien à ses yeux ; il vole pour donner, il ment pour être utile ou agréable à ses dupes. Il peut même en venir à faire du crime une vertu politique, pour peu qu'il y ait prétexte de salut public, et c'est encore lui qui, dans une sphère plus humble, élève le mensonge habituel au rang de vertu privée, sous le nom de politesse. Mais l'homme de justice subordonne la passion à la raison et les circonstances à la règle, ce qui doit sembler triste, si son cœur est froid, mais ce qui paraîtra sublime, si lui aussi il aime... » [^p125-1].
+[p. 125] TROISIÈME ET QUATRIÈME *ESSAIS DE CRITIQUE GÉNÉRALE* 125 taine ; tout lui est exception et cas particuliers ; s'il ne nie point les lois rationnelles de la conduite, il est du moins disposé à les faire fléchir en mille occasions ; ainsi le mal se transfigure en bien à ses yeux ; il vole pour donner, il ment pour être utile ou agréable à ses dupes. Il peut même en venir à faire du crime une vertu politique, pour peu qu'il y ait prétexte de salut public, et c'est encore lui qui, dans une sphère plus humble, élève le mensonge habituel au rang de vertu privée, sous le nom de politesse. Mais l'homme de justice subordonne la passion à la raison et les circonstances à la règle, ce qui doit sembler triste, si son cœur est froid, mais ce qui paraîtra sublime, si lui aussi il aime... » [^p125-1].
 
 Les
 
 institutions et les mœurs diverses se sont formées pour le bien ou le mal de l'humanité, selon qu'ont prédominé tour à tour dans les nations ces deux grandes forces sociales : d'un côté la justice et le droit, de l'autre l'esprit de domination avec l'amour ; le plus souvent, d'ailleurs, avec ce mélange inextricable qui met chez l'homme les vertus et les vices en dépendance mutuelle. Les prétendues philosophies de l'histoire que nous ont données les théologiens ou les pen_seurs, tels que Kant, Hegel, Saint-Simon, Auguste Comte, Fourier, soit par la simplicité artificielle à laquelle elles ramènent le développement de l'humanité, soit par la loi nécessaire que, sous une forme ou sous une autre, elles prescrivent à ce développement, sont pour Renouvier entachées d'erreur. Il reprend à sa façon, n'empruntant ses documents qu'aux données de la critique historique, le récit des croyances et de la vie religieuse des races primitives (race noire, tribus américaines, Chine, Egypte, Aryens, Hébreux, Sémites). Enfin, il dégage de ses études ces conclusions fort importantes sur lesquelles il reviendra incessamment dans tous ses écrits :
 
-1º Il y a une morale distincte de l'histoire et dont celle-ci est fonction. Jamais, en effet, un idéal ne cessa de s'opposer
-
-[p. 126]
-
-126 TROISIÈME ET QUATRIÈME ESSAIS DE CRITIQUE GÉNÉRALE au réel dans la conscience de l'homme, ni à l'origine quand le mal n'existait pas encore en fait, ni plus tard quand il fut né et accru par l'habitude individuelle et sociale, par la solidarité. Mais, d'autre part, la morale à son tour est une fonction de l'histoire ; car c'est l'homme de l'expérience dont la moralité corrompue fait les lois injustes, les religions menteuses, les sociétés perverses, et qui tantôt les juge et les condamne, mais tantôt aussi n'y trouve rien à reprendre, en vertu de principes qui lui viennent de la solidarité et du passé.
+1º Il y a une morale distincte de l'histoire et dont celle-ci est fonction. Jamais, en effet, un idéal ne cessa de s'opposer [p. 126] 126 TROISIÈME ET QUATRIÈME *ESSAIS DE CRITIQUE GÉNÉRALE* au réel dans la conscience de l'homme, ni à l'origine quand le mal n'existait pas encore en fait, ni plus tard quand il fut né et accru par l'habitude individuelle et sociale, par la solidarité. Mais, d'autre part, la morale à son tour est une fonction de l'histoire ; car c'est l'homme de l'expérience dont la moralité corrompue fait les lois injustes, les religions menteuses, les sociétés perverses, et qui tantôt les juge et les condamne, mais tantôt aussi n'y trouve rien à reprendre, en vertu de principes qui lui viennent de la solidarité et du passé.
 
 2º Rien n'est plus faux et en même temps plus propre à nous affaiblir, à nous énerver, et à démoraliser l'histoire, que la loi du progrès nécessaire guidant depuis ses origines l'évolution de l'humanité, en dehors des efforts de notre liberté. Renouvier acceptera, après de patientes études historiques, qu'on parle de progrès pour qualifier le développement de la civilisation européenne, qui s'est trouvée hériter des conquêtes morales et des travaux de plusieurs grandes races, diversement douées et diversement méritantes. Mais il rejette avec la plus grande énergie toute idée d'un progrès continu et fatal, soit qu'on y tienne aucun compte de la liberté, soit qu'on accepte ses fluctuations, mais pour déclarer que toutes les déviations de la voie du bien se détruisent mutuellement. Cette dernière explication psychologique du progrès, quoiqu'elle ne sacrifie pas la liberté, heurte de front la théorie, qu'a exposée Renouvier, de la formation du développement et de la généralisation du mal par les lois de l'habitude et de la solidarité. Là où l'homme est sorti de l'état de déchéance où il était parvenu, ce n'a pu être que par une restauration de sa nature normale, due surtout « à l'empire de la réflexion, et au développement de la volonté libre en face de la conscience sans voile. »>
 
-Ce quatrième Essai sert d'introduction à la fois à la Science de la morale, dont je parlerai dans la prochaine leçon, et à la Philosophie analytique de l'histoire, qui paraîtra beaucoup plus tard. il contient toutes les idées essentielles
+Ce quatrième Essai sert d'introduction à la fois à la *Science de la morale*, dont je parlerai dans la prochaine leçon, et à la Philosophie analytique de l'histoire, qui paraîtra beaucoup plus tard. il contient toutes les idées essentielles
 
-[p. 127]
+[p. 127] TROISIÈME ET QUATRIÈME *ESSAIS DE CRITIQUE GÉNÉRALE* 127 que ces travaux ultérieurs n'auront plus qu'à développer, et c'est pourquoi il est à la fois fort important, et fort malaisé à résumer. Mais, en même temps, il est d'une lecture facile et attachante, et le mieux que je puisse faire après cette analyse trop brève, est de vous y renvoyer.
 
-TROISIÈME ET QUATRIÈME ESSAIS DE CRITIQUE GÉNÉRALE 127 que ces travaux ultérieurs n'auront plus qu'à développer, et c'est pourquoi il est à la fois fort important, et fort malaisé à résumer. Mais, en même temps, il est d'une lecture facile et attachante, et le mieux que je puisse faire après cette analyse trop brève, est de vous y renvoyer.
-
-[p. 128]
-
-[p. 129]
-
-LA SCIENCE
+[p. 128] [p. 129] LA SCIENCE
 
 DE
 
@@ -1646,45 +1382,35 @@ MORALE
 
 9
 
-[p. 130]
-
-[p. 131]
-
-LA SCIENCE DE LA MORALE
+[p. 130] [p. 131] LA *SCIENCE DE LA MORALE*
 
 J'ai déjà fait allusion, dans ma première leçon, aux préoccupations morales, politiques et sociales de Renouvier avant 1850, et j'ai cité le Manuel républicain de l'homme et du citoyen. C'est ce livre, vous vous le rappelez, qui causa, le 5 juillet 1848, la chute du ministère Carnot. Il faut lire, dans la nouvelle édition que vient d'en publier M. Thomas, le compte rendu de cette séance mémorable, et la réponse, toute vibrante d'indignation, que Renouvier adressa à la majorité de ce jour. (Préface de l'auteur à la deuxième édition.)
 
 « N'est-ce pas vivre de l'homme, leur crie-t-il, que vivre de ce qui est toute sa vie, de ce sans quoi il manque de substance, n'engendre plus, s'étiole et meurt avec sa race ?... Hommes d'Etat, qui vous efforcez de nous gouverner, si vous croyez en l'aveugle fatalité, si la force est votre dieu, le hasard votre loi, si l'homme vous semble fait pour suivre la morale de la baleine et du lion, l'état de la société doit vous sembler légitime autant que naturel. Mais, alors, cessez de nous vanter votre civilisation : ce n'est qu'un habit pailleté qui recouvre la pourriture. Cachez-nous bien aussi ce grand mot de République, puisque tout ici-bas sera toujours pour quelques-uns !... Ne me parlez plus de fraternité, de charité ; je vous répondrais : mensonge, hypocrisie ! Ne me dites pas non plus que la liberté est bonne et qu'elle veut ces choses. Oui, la liberté est divine, mais non point la liberté seule, sans le cœur, sans la raison, sans l'ordre. Votre liberté pure est une idole que je nomme anarchie, et cette idole se nourrit de sang humain... »
 
-[p. 132]
+[p. 132] LA *SCIENCE DE LA MORALE*
 
-LA SCIENCE DE LA MORALE
-
-Mais revenons au Manuel lui-même que Renouvier avait rédigé quelques mois auparavant, dans toute l'illusion de ses espérances. Si l'on trouve déjà en germe dans ce livre quelques-uns des traits importants de ce qui sera la morale individuelle et sociale de Renouvier, il y a loin cependant du vague christianisme dont il est imprégné, et de l'optimisme simple et naïf dont il témoigne, à l'état d'esprit d'où sortira la Science de la morale. L'auteur du Manuel nous offre comme un résumé général des aspirations, des illusions, de la religiosité sentimentale des hommes de ce temps. Ce que l'on attend et ce qu'on l'on souhaite de voir se réaliser, c'est la morale de Jésus : « Il est visible que nous sommes venus à ce point de l'histoire où toute conscience réclame, en secret du moins, l'application sociale de la doctrine du Christ [^p132-1]. »
+Mais revenons au Manuel lui-même que Renouvier avait rédigé quelques mois auparavant, dans toute l'illusion de ses espérances. Si l'on trouve déjà en germe dans ce livre quelques-uns des traits importants de ce qui sera la morale individuelle et sociale de Renouvier, il y a loin cependant du vague christianisme dont il est imprégné, et de l'optimisme simple et naïf dont il témoigne, à l'état d'esprit d'où sortira la *Science de la morale*. L'auteur du Manuel nous offre comme un résumé général des aspirations, des illusions, de la religiosité sentimentale des hommes de ce temps. Ce que l'on attend et ce qu'on l'on souhaite de voir se réaliser, c'est la morale de Jésus : « Il est visible que nous sommes venus à ce point de l'histoire où toute conscience réclame, en secret du moins, l'application sociale de la doctrine du Christ [^p132-1]. »
 
 « Le temps est venu, dit-il ailleurs [^p132-2], où la morale, enseignée jusqu'ici dans les églises au nom de Jésus-Christ, doit entrer dans les assemblées des hommes qui font des gouvernements et des lois. » L'égoïsme doit disparaître et faire place à l'amour du prochain, lequel se confond avec l'amour de Dieu [^p132-3]. L'homme doit être juste, et « la justice parfaite est le premier degré de la perfection ; mais, après le premier, il y en a un second : c'est la parfaite fraternité [^p132-4] ».
 
-On peut juger par le parallèle de l'homme de justice et de l'homme d'amour, que j'ai cité dans ma dernière leçon, quel chemin a parcouru à cet égard l'esprit de Renouvier. La science de la morale sera elle-même tout entière fondée sur la justice.
+On peut juger par le parallèle de l'homme de justice et de l'homme d'amour, que j'ai cité dans ma dernière leçon, quel chemin a parcouru à cet égard l'esprit de Renouvier. La *science de la morale* sera elle-même tout entière fondée sur la justice.
 
 Le Manuel pose avant tout des devoirs, et il définit, d'ailleurs le devoir, comme simple affirmation de la conscience et du cœur : « Le devoir est un acte ou une règle d'agir auxquels nous nous sentons obligés par la conscience ou par le
 
-[p. 133]
-
-LA SCIENCE DE LA MORALE cœur. » Les droits n'apparaissent qu'en second lieu, et en déduisent de l'existence des devoirs. La science de la morale supprimera cette distinction des deux moments où s'affirment les uns et les autres : ils seront posés simultanément dans la relation réciproque qu'implique la justice.
+[p. 133] LA *SCIENCE DE LA MORALE* cœur. » Les droits n'apparaissent qu'en second lieu, et en déduisent de l'existence des devoirs. La *science de la morale* supprimera cette distinction des deux moments où s'affirment les uns et les autres : ils seront posés simultanément dans la relation réciproque qu'implique la justice.
 
 En ce qui concerne les préoccupations économiques et politiques, le Manuel contient déjà l'essentiel de ce que Renouvier dira toute sa vie,
 
-soucieux de faire cesser les inégalités sociales et d'empêcher « les pauvres d'être dévorés par les riches ». Mais, ici encore, une différence appréciable permettra de distinguer la Science de la morale du Manuel républicain. En 1848, Renouvier ne fait guère que refléter les idées de Fourier, de Proudhon et de Louis Blanc, en prêchant les avantages de l'association volontaire, en dénonçant les vices du commerce et des intermédiaires entre la production et la consommation, entre le travail et le capital ; en demandant à l'Etat de garantir le droit au travail et de concourir à son organisation... Les mêmes idées, quelque différence dans le rôle de l'Etat, qu'il amoindrira dans la Science de la morale,
+soucieux de faire cesser les inégalités sociales et d'empêcher « les pauvres d'être dévorés par les riches ». Mais, ici encore, une différence appréciable permettra de distinguer la *Science de la morale* du Manuel républicain. En 1848, Renouvier ne fait guère que refléter les idées de Fourier, de Proudhon et de Louis Blanc, en prêchant les avantages de l'association volontaire, en dénonçant les vices du commerce et des intermédiaires entre la production et la consommation, entre le travail et le capital ; en demandant à l'Etat de garantir le droit au travail et de concourir à son organisation... Les mêmes idées, quelque différence dans le rôle de l'Etat, qu'il amoindrira dans la *Science de la morale*,
 
 veut se retrouver dans cet ouvrage ; mais, alors, tout aura sa place dans la philosophie du maître, et se trouvera rattaché à sa doctrine personnelle.
 
 avec
 
-Après ces quelques remarques générales, j'aborde sans plus tarder la Science de la morale. Elle comprend deux parties : la morale pure, la morale appliquée. Mais cette distinction, qui n'a nullement le sens habituel, demande à être expliquée : c'est elle qui fait l'originalité propre de la morale de Renouvier. La première, la morale rationnelle ou la morale pure, est celle qui conviendrait à l'état de paix, c'est-à-dire à une société dont tous les membres s'acquitteraient les uns à l'égard des autres de toutes leurs obligations, où il n'y aurait nul désaccord entre ce que chacun attend des autres et ce
+Après ces quelques remarques générales, j'aborde sans plus tarder la *Science de la morale*. Elle comprend deux parties : la morale pure, la morale appliquée. Mais cette distinction, qui n'a nullement le sens habituel, demande à être expliquée : c'est elle qui fait l'originalité propre de la morale de Renouvier. La première, la morale rationnelle ou la morale pure, est celle qui conviendrait à l'état de paix, c'est-à-dire à une société dont tous les membres s'acquitteraient les uns à l'égard des autres de toutes leurs obligations, où il n'y aurait nul désaccord entre ce que chacun attend des autres et ce
 
-[p. 134]
-
-LA SCIENCE DE LA MORALE qu'il reçoit d'eux, où, par conséquent, il ne saurait y avoir aucun conflit entre le cœur et la raison et où seraient réalisées à la fois la justice et l'amour. La morale appliquée est celle qui convient à l'homme de l'expérience, à l'homme de l'histoire, aux sociétés telles qu'elles se trouvent constituées, avec le mal qui les pénètre, avec la guerre qui est l'état permanent, avec l'obligation pour chacun non pas seulement de remplir ses devoirs, mais aussi de se défendre. C'est la morale de l'état de guerre, et c'est la seule pratiquement réalisable, l'autre restant comme un idéal qui permet à chaque instant de mesurer la distance où l'on est.
+[p. 134] LA *SCIENCE DE LA MORALE* qu'il reçoit d'eux, où, par conséquent, il ne saurait y avoir aucun conflit entre le cœur et la raison et où seraient réalisées à la fois la justice et l'amour. La morale appliquée est celle qui convient à l'homme de l'expérience, à l'homme de l'histoire, aux sociétés telles qu'elles se trouvent constituées, avec le mal qui les pénètre, avec la guerre qui est l'état permanent, avec l'obligation pour chacun non pas seulement de remplir ses devoirs, mais aussi de se défendre. C'est la morale de l'état de guerre, et c'est la seule pratiquement réalisable, l'autre restant comme un idéal qui permet à chaque instant de mesurer la distance où l'on est.
 
 #### I
 
@@ -1696,9 +1422,7 @@ cela est-il à faire ou à ne pas faire ? Dois-je faire ou ne pas faire ? Je peu
 
 La sphère élémentaire de la morale concerne l'individu supposé seul et séparé du monde. Il sera guidé dans l'action par un intérêt plus grand, ou plus durable, ou d'une nature plus raisonnable, et sera amené à faire ainsi preuve d'une vertu ou raison pratique qui, envisagée plus particulièrement dans la volonté, s'appellera force ; dans l'entendement, prudence ; par rapport aux sens, à l'imagination et aux passions, tempérance. Le devoir être ou devait faire, d'après ce qui est conçu raisonnablement comme le meilleur, et est ainsi
 
-[p. 135]
-
-LA SCIENCE DE LA MORALE posé comme un idéal, constitue le devoir de l'agent envers lui-même. On peut parler d'obligation, — non dans le sens ordinaire du mot, — mais pour traduire : 1° le sentiment obscur qui nous porte à vouloir le perfectionnement de notre personne ; 2° le jugement non analytique, mais synthétique, qui consiste en ce que, toutes les fois que la raison envisage une fin comme devant être atteinte en vertu de ses lois, elle l'envisage en même temps comme devant être recherchée par l'application de la volonté. On ne saurait parler de droit à l'égard de soi-même.
+[p. 135] LA *SCIENCE DE LA MORALE* posé comme un idéal, constitue le devoir de l'agent envers lui-même. On peut parler d'obligation, — non dans le sens ordinaire du mot, — mais pour traduire : 1° le sentiment obscur qui nous porte à vouloir le perfectionnement de notre personne ; 2° le jugement non analytique, mais synthétique, qui consiste en ce que, toutes les fois que la raison envisage une fin comme devant être atteinte en vertu de ses lois, elle l'envisage en même temps comme devant être recherchée par l'application de la volonté. On ne saurait parler de droit à l'égard de soi-même.
 
 Si nous replaçons l'homme en présence de la nature et des animaux, nous entrons dans la sphère moyenne de la morale.
 
@@ -1710,9 +1434,7 @@ Pour la première fois, l'agent tient compte ici d'autres fins que des siennes. 
 
 sans
 
-[p. 136]
-
-LA SCIENCE DE LA MORALE qu'on sache ou puisse savoir en quoi ce bien doit consister, constitue, à lui seul, la condition de la moralité, C'est la loi formelle de la conscience.
+[p. 136] LA *SCIENCE DE LA MORALE* qu'on sache ou puisse savoir en quoi ce bien doit consister, constitue, à lui seul, la condition de la moralité, C'est la loi formelle de la conscience.
 
 Les
 
@@ -1752,9 +1474,7 @@ il signale les contradictions et les erreurs qui résultent chez Kant de ce qu'i
 
 Que deviennent les devoirs de bonté ? A en croire Kant, il faudrait distinguer les devoirs stricts et les devoirs larges. Les devoirs de bonté seraient alors rangés dans la deuxième
 
-[p. 137]
-
-LA SCIENCE DE LA MORALE catégorie ? De pareilles distinctions sont à supprimer, sans quoi nous ne faisons pas de science. Si l'on entend que l'homme doit cultiver ses bons sentiments, soit, c'est alors d'un devoir envers soi-même qu'il s'agit. On peut encore parler de devoirs de bonté envers les autres, mais à la condition : 1º de voir dans ces autres leur nature sensible (souffrance physique ou morale) et non leur personne ; 2° de subordonner les devoirs de bonté à ceux de justice, à l'égard desquels seul les personnes ont un droit.
+[p. 137] LA *SCIENCE DE LA MORALE* catégorie ? De pareilles distinctions sont à supprimer, sans quoi nous ne faisons pas de science. Si l'on entend que l'homme doit cultiver ses bons sentiments, soit, c'est alors d'un devoir envers soi-même qu'il s'agit. On peut encore parler de devoirs de bonté envers les autres, mais à la condition : 1º de voir dans ces autres leur nature sensible (souffrance physique ou morale) et non leur personne ; 2° de subordonner les devoirs de bonté à ceux de justice, à l'égard desquels seul les personnes ont un droit.
 
 en
 
@@ -1764,9 +1484,7 @@ il est pourtant un cas où la justice elle-même le fait rejeter. Il faut que ch
 
 « Si l'empire suprême de la justice nous paraît dur, dit Renouvier, c'est que nous ne remarquons pas assez combien il est nécessaire, combien la règle de la conduite humaine, la raison, est indispensable à la garantie, à la durée et à la bonne administration de nos biens, et que nous ne savons pas nous rendre compte des désordres qu'entraîne partout et toujours le sentiment pris pour mobile exclusif des actes : c'est aussi que nous ne sentons pas la beauté du juste, et que nous lui reprochons d'exclure les affections qu'il ne fait que régler, nous laissant tromper peut-être par l'hypocrisie de ceux qui couvrent leur insensibilité sous le manteau d'une froide et fausse raison. Si, enfin, l'empire de la justice nous semble insuffisant pour le bonheur des hommes, c'est que nous sommes malheureusement privés de ce spectacle que la terre n'a jamais contemplé... En réalité, ce monde où la raison commanderait serait un monde où la bonté, libre enfin
 
-[p. 138]
-
-LA SCIENCE DE LA MORALE des chaînes dont l'iniquité la charge de toutes parts, nous paraîtrait régner toute seule [^p138-1]. »
+[p. 138] LA *SCIENCE DE LA MORALE* des chaînes dont l'iniquité la charge de toutes parts, nous paraîtrait régner toute seule [^p138-1]. »
 
 A la justice et à la loi morale doivent se subordonner tous ces mobiles que Kant a eu grand tort d'écarter du devoir, et que toutes les écoles ont reconnus,
 
@@ -1784,9 +1502,7 @@ mais d'un droit empirique, fait par l'histoire, et qui représente un effort pou
 
 Dès lors, aussi, la loi morale pure ne saurait plus être notre seul guide ; un principe vient s'y ajouter, qui tient compte de l'état de guerre, et qui est la droit de défense.
 
-[p. 139]
-
-LA SCIENCE DE LA MORALE
+[p. 139] LA *SCIENCE DE LA MORALE*
 
 L'homme a le droit de défense personnelle contre toute agression, droit naturellement limité par le devoir de ne pas s'abandonner à la passion, de choisir les moyens de défense les moins incompatibles avec l'ordre de moralité où la défense serait inutile, et de les combiner, autant que possible, à l'aide d'une entente avec ceux des associés qui ont des droits et des devoirs communs.
 
@@ -1796,11 +1512,7 @@ De même, à la suite d'une analyse des passions qui reprend et complète celle 
 
 D'une manière générale, les droits, à l'état de guerre, procèdent tous du principe de la défense. Les problèmes particuliers se résolvent en tenant compte des éléments suivants 1º morale pure ; 2° le principe de la défense ; 3º nécessité d'atténuer le conflit entre le bien idéal et les nécessités acquises.
 
-Ainsi, quand les déviations d'une société vont jusqu'à la suppression de toutes les libertés, jusqu'aux formes diverses de l'esclavage des corps ou de l'esclavage des âmes (intolérance), le droit de défense peut aller jusqu'à la révolte et la violence, mais en cas exceptionnel : les hommes ont,
-
-[p. 140]
-
-LA SCIENCE DE LA MORALE en effet, le devoir des ménagements et du choix des moyens les plus utiles, parce qu'ils sont tenus à quelque respect de la société, — qui, telle qu'elle est, conserve dans la guerre une part de paix,
+Ainsi, quand les déviations d'une société vont jusqu'à la suppression de toutes les libertés, jusqu'aux formes diverses de l'esclavage des corps ou de l'esclavage des âmes (intolérance), le droit de défense peut aller jusqu'à la révolte et la violence, mais en cas exceptionnel : les hommes ont, [p. 140] LA *SCIENCE DE LA MORALE* en effet, le devoir des ménagements et du choix des moyens les plus utiles, parce qu'ils sont tenus à quelque respect de la société, — qui, telle qu'elle est, conserve dans la guerre une part de paix,
 
 pour ne pas s'exposer à des maux pires qu'elle n'en renferme.
 
@@ -1808,9 +1520,7 @@ Ainsi, encore, tous les détails du droit domestique, du droit économique, du d
 
 A propos du droit économique, nous retrouvons quelquesunes des idées du Manuel républicain, présentées avec plus de précision, et beaucoup moins de confiance en l'intervention de l'Etat. La propriété se justifie comme liée au développement de la personne. Si l'origine historique a été condamnable, il y a prescription. On ne saurait songer à renverser d'un coup, par la violence, les inégalités sociales qui en résultent ; ce serait mauvais et ne réussirait pas. Il faut que la société garantisse à chacun, à défaut de propriété, le droit au travail ; ce sera rendu possible en particulier par l'établissement de l'impôt progressif, qui servira à assurer une meilleure répartition de la propriété. Quant aux salaires, on ne peut compter sur l'Etat pour empêcher qu'ils ne se réduisent strictement aux besoins de l'ouvrier, et pour permettre à celui-ci de tirer de son travail un revenu destiné à lui constituer aussi une propriété, ce qui serait naturel dans la société idéale. Il vaut mieux s'en remettre à la liberté, à l'initiative individuelle, qui sera surtout efficace sous forme
 
-[p. 141]
-
-LA SCIENCE DE LA MORALE d'associations volontaires. « La plupart des systèmes qu'on appelle socialistes, dit Renouvier, sont des combinaisons de la vérité pure avec une erreur énorme et ne peuvent ni s'essayer, ni seulement se proposer à la pratique, par des moyens d'autorité, sans amener aussitôt de grands troubles et finalement une rétrogradation sociale.. Au contraire, cette liberté, qui, dans l'état actuel des choses, semble n'être que la liberté de la lutte et sur laquelle pèse la responsabilité visible de tant de maux, qui n'apporte en théorie qu'une simple faculté, sans moyens propres, intrinsèques, de se diriger et de réaliser des biens quelconques, renferme cependant la méthode unique de toutes les réformes possibles. La liberté est grosse de tous les biens non moins que de tous les maux [^p141-1]... »
+[p. 141] LA *SCIENCE DE LA MORALE* d'associations volontaires. « La plupart des systèmes qu'on appelle socialistes, dit Renouvier, sont des combinaisons de la vérité pure avec une erreur énorme et ne peuvent ni s'essayer, ni seulement se proposer à la pratique, par des moyens d'autorité, sans amener aussitôt de grands troubles et finalement une rétrogradation sociale.. Au contraire, cette liberté, qui, dans l'état actuel des choses, semble n'être que la liberté de la lutte et sur laquelle pèse la responsabilité visible de tant de maux, qui n'apporte en théorie qu'une simple faculté, sans moyens propres, intrinsèques, de se diriger et de réaliser des biens quelconques, renferme cependant la méthode unique de toutes les réformes possibles. La liberté est grosse de tous les biens non moins que de tous les maux [^p141-1]... »
 
 Je ne suivrai pas Renouvier dans tous les problèmes que soulève le droit politique (formes de gouvernement, régime représentatif, principe des majorités, etc...). Je noterai seulement, à propos de la pénalité, quelques jugements intéressants
 
@@ -1820,9 +1530,7 @@ Après le droit politique, vient le droit extrasocial, c'està-dire le droit de 
 
 i
 
-[p. 142]
-
-LA SCIENCE DE LA MORALE que l'on prétend justifier par l'intérêt de la personne à qui l'on ment
+[p. 142] LA *SCIENCE DE LA MORALE* que l'on prétend justifier par l'intérêt de la personne à qui l'on ment
 
 En ce qui concerne les nations, c'est-à-dire entre ces groupes de volontés et de personnes qui se sont rapprochées, abstraction faite de la variété des races, des langues, etc..., Renouvier invoque les mêmes règles qu'à propos des individus. Il condamne sans restriction toute guerre agressive, y compris surtout celles que l'on couvre du prétexte hypocrite de civilisation,
 
@@ -1830,67 +1538,47 @@ et n'admet comme légitime que la guerre défensive. Si une grande nation, comme
 
 C'est là un idéal qui dépasse les conditions empiriques de la réalité et de l'histoire. La paix du monde n'est possible que quand la justice parfaite régnera à l'intérieur des Etats et cela n'aura lieu que quand les individus qui les composent la feront eux-mêmes régner dans leur cœur : « Ces vues optimistes... font dépendre la paix générale de la volonté de quelques personnes, et supposent cette volonté persévérante à travers les changements intérieurs des Etats. Mais les gouvernants ne sont pas, en général, capables des vertus dont les gouvernés n'ont point en eux profondément les éléments. Ceux-là, outre qu'ils participent aux plus injustes passions des nations qu'ils conduisent, sont dominés par d'autres qui leur sont particulières, ont un orgueil et des ambitions propres et se dirigent par la raison d'Etat, qui est le contraire de la morale et du droit, par conséquent de la paix [^p142-1]... » Les idées de justice, de travail et de paix ont encore à conquérir le monde. Si ce pouvait être chose faite, la paix régnerait d'elle-même.
 
-[p. 143]
-
-LA SCIENCE DE LA MORALE
+[p. 143] LA *SCIENCE DE LA MORALE*
 
 L'ouvrage se termine par quelques considérations sur le progrès.
 
 Pour l'humanité dans l'individu, comme pour l'humanité dans le corps social, la marque du progrès, c'est la mesure de liberté ou d'autonomie employée et respectée ; la mesure de liberté non exercée ou perdue est le critère de la décadence. Ainsi entendu, le progrès des sociétés est-il continu ? Suit-il la marche régulière qu'on lui attribue ? -Non, et la preuve, c'est que le Moyen Age a été une période de décadence par rapport à l'antiquité républicaine. C'est là une thèse que Renouvier s'efforce d'établir avec la plus grande énergie contre les écoles historiques du xix siècle, issues du saintsimonisme, qui, en réaction contre les théories révolutionnaires, ont grandi le rôle du Moyen Age dans la marche de l'humanité. La transformation de l'esclavage en servage, qui en elle-même réalisait un progrès, n'a pas été due à une volonté réfléchie et à un principe moral, mais au régime spécial où était descendu l'empire romain, et à l'adaptation toute naturelle du servage aux mœurs des Barbares. Et, en tout cas, elle allait coïncider pour bien des siècles avec le total abandon des pensées de liberté pour tous les hommes... « En soi, le sentiment de l'idéal de bonté fut un progrès sur les mœurs antiques. Il ne semble pas douteux que l'enseignement de l'Eglise ait en cela travaillé efficacement à l'amélioration du cœur humain. D'ailleurs, de ce que l'on nie qu'il y ait progrès dans le passage d'une époque à une autre, on n'est point obligé d'y contester tous les progrès assignables, non plus que de les envisager tous quand on adopte l'affirmation contraire. Mais, en tant que l'idéal de bonté se substitua à l'idéal de justice, ce fut une rétrogradation essentielle qui renferme tout le sens, l'esprit et l'explication du Moyen Age, et qui eût été poussée au dernier degré imaginable, suivant ce que l'on voit chez les nations bouddhistes, sans la conservation latente et qui parut longtemps presque désespérée, des principes de dignité et de liberté. C'est que
 
-[p. 144]
-
-LA SCIENCE DE LA MORALE la justice est la grande, l'unique sauvegarde, et que la bonté n'est qu'une passion, sujette aux altérations et au plus complet renversement là où manque la raison [^p144-1]... »
+[p. 144] LA *SCIENCE DE LA MORALE* la justice est la grande, l'unique sauvegarde, et que la bonté n'est qu'une passion, sujette aux altérations et au plus complet renversement là où manque la raison [^p144-1]... »
 
 Le progrès ne se réalise pas de lui-même. C'est aux hommes à le réaliser par la liberté, qui doit être à la fois le moyen et le but des agents raisonnables. Il ne s'agit plus, d'ailleurs, de la liberté problématique, dont le sentiment seul avait servi à Renouvier jusqu'ici, mais de la liberté profonde et vraie, en laquelle il rappelle toutes ses raisons de croire. « « La liberté, fondement de la justice et même de la raison, l'autorité partant de la personne, allant à la personne libre, toutes les vérités, tous les biens moraux posant sur la personne, et l'établissement des relations sociales légitimes demandé aux libres décisions de la personne, voilà la fin et le moyen du progrès de tous les agents raisonnables, l'origine de l'essence du devoir de chacun. C'est la conclusion et la profession de foi de ce livre [^p144-2]. » Renouvier aurait pu dire que c'est là la conclusion et la profession de foi de toute sa philosophie.
 
-Quelle impression donne la Science de la morale ? Celle d'une œuvre originale, personnelle, doublement intéressante par l'effort théorique de maintenir la morale pure, et même d'en chercher un fondement, en même temps que par la préoccupation de tenir compte de toutes les réalités historiques ; par son caractère d'étude de philosophie traditionnelle en même temps que par l'écho que nous y trouvons de toutes les grandes questions politiques, économiques, sociales, que peuvent de moins en moins éluder les hommes de notre temps.
+Quelle impression donne la *Science de la morale* ? Celle d'une œuvre originale, personnelle, doublement intéressante par l'effort théorique de maintenir la morale pure, et même d'en chercher un fondement, en même temps que par la préoccupation de tenir compte de toutes les réalités historiques ; par son caractère d'étude de philosophie traditionnelle en même temps que par l'écho que nous y trouvons de toutes les grandes questions politiques, économiques, sociales, que peuvent de moins en moins éluder les hommes de notre temps.
 
 La morale théorique prétend, comme le néocriticisme en général d'ailleurs, se rattacher à Kant. C'est peut-être cette
 
-[p. 145]
-
-LA SCIENCE DE LA MORALE affirmation et le désir de la justifier depuis les premières pages du premier Essai de critique générale, en dépit des divergences les plus profondes, qui nuit le plus à la Science de la morale. Et, de fait, on n'y trouve plus vraiment que la terminologie du maître. Sous les mots qui traduisaient ce qu'il y avait d'absolu, d'inconditionnel, de catégorique, dans la pensée kantienne, qui voulaient si radicalement séparer le monde de la moralité de celui de la nature, des affections, de l'expérience, sous ces mêmes mots employés par Renouvier, nous avons bien de la peine à ne pas sentir tout autre chose. La primauté de la raison pratique ne supprime plus la notion plus ou moins claire d'un bien à poursuivre, soit qu'il s'agisse de l'agent isolé, soit qu'il s'agisse d'un bien commun à plusieurs individus vivant en société. Renouvier n'ose même pas garder, pour le moment au moins, le mot impératif. Il retient, il est vrai, celui d'obligation ; mais, en réalité, par toutes ses concessions aux morales empiriques, il donne l'impression de s'en éloigner beaucoup moins par le fond de ses idées que par son langage. C'est là la source des contradictions que M. Fouillée a fort justement signalées. Mais c'est aussi peut-être ce qui donne à la morale de Renouvier, en dépit de ses propres affirmations, plus d'intérêt et plus d'actualité.
+[p. 145] LA *SCIENCE DE LA MORALE* affirmation et le désir de la justifier depuis les premières pages du premier Essai de critique générale, en dépit des divergences les plus profondes, qui nuit le plus à la *Science de la morale*. Et, de fait, on n'y trouve plus vraiment que la terminologie du maître. Sous les mots qui traduisaient ce qu'il y avait d'absolu, d'inconditionnel, de catégorique, dans la pensée kantienne, qui voulaient si radicalement séparer le monde de la moralité de celui de la nature, des affections, de l'expérience, sous ces mêmes mots employés par Renouvier, nous avons bien de la peine à ne pas sentir tout autre chose. La primauté de la raison pratique ne supprime plus la notion plus ou moins claire d'un bien à poursuivre, soit qu'il s'agisse de l'agent isolé, soit qu'il s'agisse d'un bien commun à plusieurs individus vivant en société. Renouvier n'ose même pas garder, pour le moment au moins, le mot impératif. Il retient, il est vrai, celui d'obligation ; mais, en réalité, par toutes ses concessions aux morales empiriques, il donne l'impression de s'en éloigner beaucoup moins par le fond de ses idées que par son langage. C'est là la source des contradictions que M. Fouillée a fort justement signalées. Mais c'est aussi peut-être ce qui donne à la morale de Renouvier, en dépit de ses propres affirmations, plus d'intérêt et plus d'actualité.
 
 L'opposition de l'état de guerre à l'état de paix, comme de la seule réalité à l'utopie, fournit dans la morale appliquée une méthode claire et fort séduisante. N'a-t-elle pas ses dangers cependant ? Si, par exemple, des formules telles que celles-ci : « On ne doit pas la justice aux injustes, la tolérance aux intolérants », passent dans la pratique des faits, ne peut-il y avoir prétexte aux pires injustices ? Je ne peux m'empêcher d'être troublé à la lecture de ces lignes qui visent l'état de guerre de deux partis religieux : « Si l'un des deux se fonde sur les vraies notions morales et sociales, que l'autre nie, celui-là possède la conscience vraie dont le second n'a que l'apparence : il a donc et il a seul un droit réel et un
 
 10
 
-[p. 146]
+[p. 146] LA *SCIENCE DE LA MORALE* devoir réel d'intolérance, qui se confondent avec le droit et le devoir de conserver et de défendre les premiers principes et intérêts de la personne et de la société [^p146-1]. » Mais je sais bien que le problème n'est pas simple, et, somme toute, la morale appliquée de Renouvier reste un des efforts les plus intéressants que je connaisse pour sortir de l'absolu, sans renoncer à un idéal moral, et pour reconnaître toute la complexité de la vie sociale, tout en essayant d'y faire pénétrer plus de raison et plus de justice.
 
-LA SCIENCE DE LA MORALE devoir réel d'intolérance, qui se confondent avec le droit et le devoir de conserver et de défendre les premiers principes et intérêts de la personne et de la société [^p146-1]. » Mais je sais bien que le problème n'est pas simple, et, somme toute, la morale appliquée de Renouvier reste un des efforts les plus intéressants que je connaisse pour sortir de l'absolu, sans renoncer à un idéal moral, et pour reconnaître toute la complexité de la vie sociale, tout en essayant d'y faire pénétrer plus de raison et plus de justice.
-
-[p. 147]
-
-LA POLÉMIQUE
+[p. 147] LA POLÉMIQUE
 
 LE PROBLÈME DU MAL ET LA THÉORIE DES TROIS MONDES
 
-[p. 148]
-
-[p. 149]
-
-LA POLÉMIQUE
+[p. 148] [p. 149] LA POLÉMIQUE
 
 Le Problème du Mal et la Théorie des Trois Mondes
 
-Après la Science de la Morale, la doctrine est arrêtée. Elle touche à toutes les questions théoriques et pratiques, et elle fournit à toutes une solution précise et ferme. L'ambition de Renouvier est alors de la répandre, d'en pénétrer les esprits, et, pour tous les besoins du cœur et de la raison, pour tous les problèmes que pose la vie des individus ou des sociétés, d'en faire désormais le fondement de toute croyance et de toute action.
+Après la *Science de la Morale*, la doctrine est arrêtée. Elle touche à toutes les questions théoriques et pratiques, et elle fournit à toutes une solution précise et ferme. L'ambition de Renouvier est alors de la répandre, d'en pénétrer les esprits, et, pour tous les besoins du cœur et de la raison, pour tous les problèmes que pose la vie des individus ou des sociétés, d'en faire désormais le fondement de toute croyance et de toute action.
 
 En 1867, il avait commencé, avec son ami Pilon, la publication de l'Année philosophique, que devaient bientôt interrompre les événements de 1870 [^p149-1]. Au lendemain de la guerre, le désir des deux amis devient plus ardent encore d'apporter à notre malheureux pays le secours d'une philosophie qu'ils croyaient pouvoir mettre à l'épreuve de toutes les difficultés. Ce ne fut plus tous les ans, mais toutes les semaines, qu'ils voulurent parler au grand public, et ils fondèrent la Revue de critique philosophique, qui devait se compléter en 1878 par la Revue de critique religieuse.
 
 La variété des sujets traités par Renouvier dans ce journal est extrême : politique, religion, littérature, sans compter
 
-[p. 150]
+[p. 150] LA POLÉMIQUE. — LE PROBLÈME DU MAL
 
-LA POLÉMIQUE. — LE PROBLÈME DU MAL
+naturellement tous les problèmes philosophiques, à propos desquels il reprend l'exposé cent fois renouvelé de ses théories, en même temps qu'il discute et réfute avec vivacité, et parfois avec violence, les systèmes qui s'y opposent. Le lecteur de la Revue peut, certes, s'éclairer sur tous les points de la doctrine ; mais ce n'est pas là, à mes yeux, ce qui fait le plus grand intérêt de cette collection. Après les Essais et après la *Science de la Morale*, les articles plus proprement philosophiques ne font guère que répéter, sous des formes variées et à propos de mille occasions diverses, les thèses déjà connues. Ce qui est véritablement captivant, ce sont les innombrables études que Renouvier nous offre, au jour le jour, sur les questions d'ordre politique, religieux ou social. Il y apporte d'abord un très grand talent de polémiste : par la vigueur de son langage, par l'énergie de ses critiques, par le courage et la sincérité de toutes ses opinions, il apparaît comme le modèle idéal du journaliste. Mais, en outre, il a su pénétrer assez profondément dans les grands problèmes qui se posent, pour que, trente ans plus tard, ses articles semblent actuels et présentent, aujourd'hui encore, le plus vivant intérêt. Voyez, par exemple, les études sur la liberté d'Enseignement, sur les Congrégations, sur l'Eglise catohlique, sur la séparation des Eglises et de l'Etat. Voyez sa violente protestation, à propos de l'avancement du capitaine Garcin, celui qui avait fait fusillé Millière sans aucun souci des formes légales ; voyez sa guerre sans merci contre le mensonge utile, l'hypocrisie, contre toute autorité extérieure qui détruit la liberté et annihile la personne humaine, et surtout contre la raison d'Etat... On a publié récemment le Manuel républicain de 48, et on a bien fait, mais je crois qu'il serait facile et plus opportun encore d'extraire de la Revue de critique philosophique, où elles dorment ensevelies au fond de quelques vieilles bibliothèques, et de réunir en volumes, destinés au grand public, toute une
 
-naturellement tous les problèmes philosophiques, à propos desquels il reprend l'exposé cent fois renouvelé de ses théories, en même temps qu'il discute et réfute avec vivacité, et parfois avec violence, les systèmes qui s'y opposent. Le lecteur de la Revue peut, certes, s'éclairer sur tous les points de la doctrine ; mais ce n'est pas là, à mes yeux, ce qui fait le plus grand intérêt de cette collection. Après les Essais et après la Science de la Morale, les articles plus proprement philosophiques ne font guère que répéter, sous des formes variées et à propos de mille occasions diverses, les thèses déjà connues. Ce qui est véritablement captivant, ce sont les innombrables études que Renouvier nous offre, au jour le jour, sur les questions d'ordre politique, religieux ou social. Il y apporte d'abord un très grand talent de polémiste : par la vigueur de son langage, par l'énergie de ses critiques, par le courage et la sincérité de toutes ses opinions, il apparaît comme le modèle idéal du journaliste. Mais, en outre, il a su pénétrer assez profondément dans les grands problèmes qui se posent, pour que, trente ans plus tard, ses articles semblent actuels et présentent, aujourd'hui encore, le plus vivant intérêt. Voyez, par exemple, les études sur la liberté d'Enseignement, sur les Congrégations, sur l'Eglise catohlique, sur la séparation des Eglises et de l'Etat. Voyez sa violente protestation, à propos de l'avancement du capitaine Garcin, celui qui avait fait fusillé Millière sans aucun souci des formes légales ; voyez sa guerre sans merci contre le mensonge utile, l'hypocrisie, contre toute autorité extérieure qui détruit la liberté et annihile la personne humaine, et surtout contre la raison d'Etat... On a publié récemment le Manuel républicain de 48, et on a bien fait, mais je crois qu'il serait facile et plus opportun encore d'extraire de la Revue de critique philosophique, où elles dorment ensevelies au fond de quelques vieilles bibliothèques, et de réunir en volumes, destinés au grand public, toute une
-
-collection d'études de Renouvier qui, en dehors de l'intérêt historique qu'elles pré-
-
-[p. 151]
-
-ET LA THÉORIE DES TROIS MONDES sentent malgré tout par les faits qui en sont l'occasion, offriraient ainsi aux Français de 1905 une lecture très attachante et très utile.
+collection d'études de Renouvier qui, en dehors de l'intérêt historique qu'elles pré-[p. 151]ET LA THÉORIE DES TROIS MONDES sentent malgré tout par les faits qui en sont l'occasion, offriraient ainsi aux Français de 1905 une lecture très attachante et très utile.
 
 D'une manière générale, en politique, la sympathie de Renouvier va aux républicains les plus avancés de son temps, mais en réalité il les dépasse : sauf qu'il rejette le collectivisme, comme contraire à ses yeux au libre épanouissement de la personne humaine, et qu'il maintient la propriété individuelle, il est très près de ce que nous appellerions aujourd'hui les socialistes parlementaires. En matière religieuse, il lutte avec la même énergie contre l'Eglise catholique et contre l'athéisme. Il sera fidèle à cette attitude, quand il demandera, quoique indépendant de toute Eglise, d'être accompagné au cimetière par un pasteur protestant.
 
@@ -1898,9 +1586,7 @@ En même temps que paraît la Critique philosophique, Renouvier publie, en 1876,
 
 En 1866, l'Esquisse d'une classification systématique des doctrines philosophiques nous donne une histoire totale de la pensée philosophique ramenée aux oppositions fondamentales : chose-idée, fini-infini, nécessité-liberté, évidencecroyance, etc., qui, par le choix décisif de l'un des deux termes, permettent de définir le néocriticisme par rapport aux autres doctrines. Une opposition nouvelle doit ici nous arrêter, qui va, par ses conséquences, marquer un tournant dans la pensée de Renouvier : évolution-création. Certes, nous savons, depuis le premier Essai, que le néocriticisme rejette comme contradictoire l'évolution du monde à travers un passé sans fin, et qu'un de ses postulats exigés par la loi
 
-[p. 152]
-
-LA POLÉMIQUE. — LE PROBLÈME DU MAL'du nombre est le commencement du monde. Mais Renouvier ne s'était pas prononcé sur la nature de ce commencement, et il avait nié la création : « S'il n'y a pas tout à fait contradiction, quant à la lettre, écrivait-il dans la Logique, à supposer que la représentation dans une conscience donnée suscite la représentation dans une conscience qui n'est pas donnée, car ce serait bien là le fait de la création d'une conscience par une autre, il y a une étrangeté telle que, pour haut et traditionnel qu'un tel dogme paraisse (encore n'est-il pas antique), on ne peut que le qualifier de fantaisie illustre et gigantesque. L'origine en est facile à démêler dans ce même effort d'abstraction poussée à l'absolu qui a produit les dogmes de l'unité pure, de la simplicité absolue et de l'infinité actuelle. La création est l'acte de la plus que puissance [^p152-1]. » D'autre part, si la croyance en Dieu était posée dans les premiers Essais, au nom de la raison pratique, Renouvier avait placé au delà de la limite de la connaissance la question de l'unité ou de la pluralité de Dieu. L'Esquisse d'une classification systématique des
+[p. 152] LA POLÉMIQUE. — LE PROBLÈME DU MAL'du nombre est le commencement du monde. Mais Renouvier ne s'était pas prononcé sur la nature de ce commencement, et il avait nié la création : « S'il n'y a pas tout à fait contradiction, quant à la lettre, écrivait-il dans la Logique, à supposer que la représentation dans une conscience donnée suscite la représentation dans une conscience qui n'est pas donnée, car ce serait bien là le fait de la création d'une conscience par une autre, il y a une étrangeté telle que, pour haut et traditionnel qu'un tel dogme paraisse (encore n'est-il pas antique), on ne peut que le qualifier de fantaisie illustre et gigantesque. L'origine en est facile à démêler dans ce même effort d'abstraction poussée à l'absolu qui a produit les dogmes de l'unité pure, de la simplicité absolue et de l'infinité actuelle. La création est l'acte de la plus que puissance [^p152-1]. » D'autre part, si la croyance en Dieu était posée dans les premiers Essais, au nom de la raison pratique, Renouvier avait placé au delà de la limite de la connaissance la question de l'unité ou de la pluralité de Dieu. L'Esquisse d'une classification systématique des
 
 doctrines,
 
@@ -1908,9 +1594,7 @@ ainsi que l'histoire de sa pensée qui termine le second volume, nous font assis
 
 impliquent l'unité d'une conscience qui conçoit cette harmonie et la réalise ». Désormais, il entendra sous le nom de Dieu une personne, réalisant la perfection de la bonté et de la justice ainsi que la toutepuissance, et ayant créé l'harmonie qui, il l'a toujours dit, est un dés aspects du monde. Il remarquait encore, dans la première édition du Troisième Essai, pour différencier sa Monadologie de celle de Leibniz, qu'il rejetait le caractère
 
-[p. 153]
-
-ET LA THÉORIE DES TROIS MONDES préétabli de l'harmonie universelle ; cette distinction cessera maintenant, et la deuxième édition du Troisième Essai (1892) corrigera sur ce point les affirmations premières.
+[p. 153] ET LA THÉORIE DES TROIS MONDES préétabli de l'harmonie universelle ; cette distinction cessera maintenant, et la deuxième édition du Troisième Essai (1892) corrigera sur ce point les affirmations premières.
 
 Mais cette attitude nouvelle place Renouvier en présence d'un problème redoutable, qui a préoccupé les théologiens de tous les temps : je veux parler du problème du mal. Si un Dieu parfaitement bon et parfaitement juste a créé le monde, comment expliquer le mal, le mal moral et le mal physique ?
 
@@ -1918,9 +1602,7 @@ L'objection n'effraie plus Renouvier dès 1886, comme nous pouvons en juger par 
 
 « Sur l'existence du mal, peu de mots suffisent ici. Pour démontrer qu'elle est incompatible avec l'hypothèse du Créateur bon et tout-puissant, il faudrait prouver ou qu'il n'y a pas d'agents libres dans le monde, ou que la liberté des agents n'explique pas le mal, ou enfin que la création des agents libres est un acte contraire à la sagesse et à la bonté du Créateur [^p153-1]... » Et on ne démontre point cela. « Le postulat de la liberté se présente immédiatement pour répondre à la question de l'origine du mal, et ne peut pas ne pas se présenter. Nous savons, de connaissance directe, que le libre arbitre est une origine du mal. l'origine du mal appelé moral. Nous ne savons pas comment le mal moral a été l'antécédent et la cause première et formelle du mal physique... ; mais nous ne sommes pas obligés de le savoir, ni tenus de formuler sur ce sujet des hypothèses pour lesquelles trop de profondes données nous manquent ; et il suffit que nous apparaisse une probabilité morale, en principe, de ces sortes d'hypothèses qui ne paraissent gratuites qu'en voulant se préciser, pour que nous soyons fondés à ramener, en notre postulat, toutes les espèces du mal à l'unité de celle-là, dont l'essence intime et la raison d'être
 
-[p. 154]
-
-LA POLÉMIQUE.
+[p. 154] LA POLÉMIQUE.
 
 LE PROBLÈME DU MAL nous est parfaitement connue [^p154-1]. » Ainsi l'attitude de Renouvier, à ce moment, est déjà la suivante : Dieu a créé les êtres libres ; la liberté a été l'origine du mal moral, et ce mal moral a produit le mal physique, d'où toutes les désharmonies matérielles et morales dont ce monde nous offre le spectacle.
 
@@ -1930,9 +1612,7 @@ Quand on ouvre la Nouvelle Monadologie
 
 [^p154-2], on est frappé de ce que le ton a décidément changé ; il ressemble prodigieusement à celui du spiritualisme classique, quand ce n'est pas à celui de la théologie, et il faut ouvrir les yeux et y regarder à deux fois pour constater que l'essentiel de la doctrine subsiste. C'est ainsi qu'on trouve employés couramment le terme de substance, ainsi que les mots esprit, ame ; que le problème du mal devient celui de la chute ; que, dans l'explication du mal moral par la liberté, les passions et, en
 
-[p. 155]
-
-ET LA THÉORIE DES TROIS MONDES particulier, l'orgueil humain jouent un rôle de plus en plus marqué, comme si l'opposition chrétienne de la nature et de la vertu avait fini par pénétrer aussi dans la pensée de Renouvier.
+[p. 155] ET LA THÉORIE DES TROIS MONDES particulier, l'orgueil humain jouent un rôle de plus en plus marqué, comme si l'opposition chrétienne de la nature et de la vertu avait fini par pénétrer aussi dans la pensée de Renouvier.
 
 Quant au fond même de l'ouvrage, il témoigne, de la part de son auteur, de deux préoccupations essentielles. D'une part, il veut donner à l'exposé complet de ses thèses le cadre de la monadologie,
 
@@ -1946,27 +1626,17 @@ la théorie des Trois Mondes que le Personnalisme va complètement exposer. Rés
 
 Puisqu'un Dieu parfaitement bon et tout-puissant a créé le monde, il n'a pu le créer que parfait ; l'optimisme de Leibnitz d'après lequel le monde, tel qu'il est, aurait été pour le Créateur le meilleur possible, n'est pas soutenable. Seule est admissible, sauf à la dépouiller de ses éléments fabuleux, la doctrine symbolique du paradis primitif et du péché originel, et la théorie de Renouvier n'est autre chose que cette doctrine transformée en une hypothèse qu'il essaie de présenter comme positive. Les hommes ont été créés dans un état tel, que la justice régnait tout naturellement, que la loi morale n'avait nul besoin d'être impérative, se présentant à l'entendement et à la volonté comme les lois logiques, et que la paix et la fraternité se trouvaient réalisées. En outre, Dieu avait doué les hommes des connaissances nécessaires pour disposer de toutes les forces naturelles, et pour les adapter harmonieusement à leur existence. Comment, par le jeu
 
-[p. 156]
-
-LA POLÉMIQUE. — LE PROBLÈME DU MAL
+[p. 156] LA POLÉMIQUE. — LE PROBLÈME DU MAL
 
 même de la liberté que Dieu a donnée aux personnes, la société des hommes s'est éloignée de cet état de paix pour entrer dans le mal moral, c'est ce qu'on peut comprendre par ce que Renouvier a dit bien des fois, quoique le problème ne fût pas d'abord posé tel qu'il est maintenant, depuis la première Introduction à la Philosophie analytique de l'Histoire. Ajoutez, comme je l'ai déjà fait observer, qu'il fait plus grande aujourd'hui la part des passions, et notamment de l'orgueil de la vie, c'est-à-dire de « l'état d'âme de l'homme qui, enivré du sentiment de son moi, refuse de porter le joug de l'altruisme, même sous la forme de raison, et ne peut s'y soustraire qu'en pliant toute chose à son vouloir [^p156-1] ». Vous comprenez que la passion antisociale ait pu se développer par la haine et par la guerre. Elle va détruire non pas seulement la société idéale de la création, mais la nature physique, d'abord parfaite elle aussi, du monde matériel.
 
 Et, en effet, ce n'est pas seulement l'humanité morale qui nous donne aujourd'hui le spectacle du mal, ce sont aussi les désharmonies de la nature. Les hommes souffrent et meurent. Les forces physiques que, par l'effort de la science, nous arrivons à dompter parfois, nous sont le plus souvent une gêne et un péril ; la loi de la gravitation nous fait un travail du plus simple mouvement de locomotion ; et nous avons sans cesse à nous ingénier pour parer aux ennuis et aux dangers qu'offrent les éléments. Il y a loin assurément des conditions actuelles à celles qu'a pu seules réaliser d'abord un Créateur tout bon et tout-puissant. Reste à savoir comment la déviation morale de la société humaine a pu aboutir à une telle altération de l'univers physique.
 
-L'astronomie, la mécanique et la physique sont d'accord pour faire remonter le système solaire, tel qu'il est aujourd'hui, à une nébuleuse primitive, formée d'une seule masse diffuse. Mais aucun système religieux, philosophique, scien-
-
-[p. 157]
-
-ET LA THÉORIE DES TROIS MONDES tifique, n'a pu raisonnablement, sans sacrifier le supérieur à l'inférieur, concilier avec la Création cette nébuleuse primitive et l'évolution dont elle est le point de départ. Tout s'éclaire, si l'on y voit les débris du monte antérieur que fut vraiment celui de la Création. Par leurs connaissances
+L'astronomie, la mécanique et la physique sont d'accord pour faire remonter le système solaire, tel qu'il est aujourd'hui, à une nébuleuse primitive, formée d'une seule masse diffuse. Mais aucun système religieux, philosophique, scien-[p. 157]ET LA THÉORIE DES TROIS MONDES tifique, n'a pu raisonnablement, sans sacrifier le supérieur à l'inférieur, concilier avec la Création cette nébuleuse primitive et l'évolution dont elle est le point de départ. Tout s'éclaire, si l'on y voit les débris du monte antérieur que fut vraiment celui de la Création. Par leurs connaissances
 
 et leur puissance, les premiers hommes peuvent se comparer aux Titans des mythologies anciennes. Nous ne saurions imaginer l'étendue de leurs moyens d'action ni la force de destruction dont ils disposaient. Renouvier nous les montre, d'abord vivant sur un globe unique, homogène, qui réalisait toutes les conditions d'harmonie réclamées par une vie parfaite, puis transformant peu à peu l'ordre et les proportions des masses qu'ils déplacent, formant çà et là d'énormes accumulations de matière, changeant la nature de la gravitation, donnant lieu aux pires désordres en lançant de grandes masses sans combiner la force d'impulsion avec la loi d'attraction, et finalement faisant aboutir le monde primitif après une série de fractures, de chocs, d'explosions de toutes sortes, à ce gigantesque amas de débris qui constitua la nébuleuse solaire.
 
-L'existence première des hommes a pris fin en même temps. Mais les germes qui enveloppaient les monades humaines étaient immortels ; ils ont pu se trouver eux-mêmes à un état tel de division qu'ils ont ensuite bravé les plus énormes températures, et qu'ils ont servi de point de départ au développement d'organismes nouveaux, lesquels ont parcouru la série animale indiquée par la science moderne, pour aboutir à la reconstitution des personnes humaines primitives [^p157-1], le même germe, pouvant d'ailleurs reproduire un certain nombre de fois la même personne. L'humanité terrestre ainsi constituée est celle à laquelle s'appliquent toutes les études historiques de Renouvier, qu'il reprend et résume une der-
-
-[p. 158]
-
-LE PROBLÈME DU MAL
+L'existence première des hommes a pris fin en même temps. Mais les germes qui enveloppaient les monades humaines étaient immortels ; ils ont pu se trouver eux-mêmes à un état tel de division qu'ils ont ensuite bravé les plus énormes températures, et qu'ils ont servi de point de départ au développement d'organismes nouveaux, lesquels ont parcouru la série animale indiquée par la science moderne, pour aboutir à la reconstitution des personnes humaines primitives [^p157-1], le même germe, pouvant d'ailleurs reproduire un certain nombre de fois la même personne. L'humanité terrestre ainsi constituée est celle à laquelle s'appliquent toutes les études historiques de Renouvier, qu'il reprend et résume une der-[p. 158]LE PROBLÈME DU MAL
 
 LA POLÉMIQUE.
 
@@ -1976,19 +1646,13 @@ A l'issue de ce monde, Renouvier entrevoit celui où se réalisera décidément 
 
 Au cours du rétablissement de la société universelle de ces hommes immortels, quels que soient les modes actuellement imprévoyables de leur naissance et de leur intégration organique, en harmonie avec les lois du monde parfait, ils viendront au jour pour se reconnaître en retrouvant la mémoire de leur vie passée, de leurs relations, des événements et de l'histoire de la terre et des terriens, tous ceux qui ont été liés par le sang, l'amitié, les idées et croyances communes ou contraires, la paix ou la guerre. Cette révélation par le souvenir et cette reconnaissance sont l'entrée du ciel, avec la contemplation des nouveaux cieux et de la nouvelle terre, avec la libre expansion de la vie, le sûr maniement des forces dont les hommes n'avaient possédé depuis la chute qu'une connaissance superficielle, en partie douloureusement acquise, et l'usage toujours restreint et pénible. Voilà le ciel physique, mais le ciel du cœur est au-dessus. Nous sommes moins capables d'en prendre directement l'idée que d'en approcher le sentiment par voie de contraste, en songeant aux amours aveugles, inconstantes ou troublées, dont l'anta
 
-[p. 159]
-
-ET LA THÉORIE DES TROIS MONDES gonisme des sexes et l'anarchie des relations sexuelles sont la cause en notre monde, et à nos vagues désirs, à nos volontés ignorantes, à nos fins manquées, ou que toujours tranche la mort, à l'impuissance de la personne mortelle de régir pour le bien son entourage et ses relations, et enfin, ce qui est le fond de tout, de se régir elle-même et de se satisfaire [^p159-1]. »
+[p. 159] ET LA THÉORIE DES TROIS MONDES gonisme des sexes et l'anarchie des relations sexuelles sont la cause en notre monde, et à nos vagues désirs, à nos volontés ignorantes, à nos fins manquées, ou que toujours tranche la mort, à l'impuissance de la personne mortelle de régir pour le bien son entourage et ses relations, et enfin, ce qui est le fond de tout, de se régir elle-même et de se satisfaire [^p159-1]. »
 
 Il y a, dans ce livre du Personnalisme, plus que l'exposé d'une hypothèse ; il y a l'expression d'un sentiment religieux, qui, pour vouloir se dégager des dogmes confessionnels, n'en est pas moins ardent. Si vous en doutiez, reportez-vous à l'entretien dernier où, quelques mois après avoir écrit ce livre, Renouvier disait ses espérances à son ami M. Prat. Par la sérénité confiante et tranquille qu'il lui donnait en face de la mort, ce grandiose roman des Trois Mondes s'illuminait d'une étincelle de vie et revêtait la plus haute consécration d'expérience dont soient capables les religions et les métaphysiques.
 
 Peu de temps après la mort de Renouvier, un comité s'est fondé pour lui élever un buste qui serait placé dans la cour de notre Université, à côté ou en face de celui d'Auguste Comte. Permettez-moi d'exprimer le vœu que nos concitoyens s'intéressent à cet acte de piété philosophique.
 
-Charles Renouvier, Auguste Comte ! Que d'efforts de pensée sincère, que d'idées fécondes, dont ces deux bustes, rapprochés l'un de l'autre, conserveront le souvenir ! A ceux de nos jeunes gens qui, préoccupés de la conduite de la vie, tourneront vers eux leur regard inquiet, j'imagine que Comte et Renouvier parleront ainsi : « Vis pour autrui, dira l'un, celui des deux qui est athée. Soumets-toi, pour le bonheur de l'humanité, à l'ordre total, à l'ordre extérieur du monde et de la nature, à l'ordre social auquel aboutissent tous les siècles passés... Défie-toi de ton imagination et de ton orgueil-
-
-[p. 160]
-
-LE PROBLÈME DU MAL
+Charles Renouvier, Auguste Comte ! Que d'efforts de pensée sincère, que d'idées fécondes, dont ces deux bustes, rapprochés l'un de l'autre, conserveront le souvenir ! A ceux de nos jeunes gens qui, préoccupés de la conduite de la vie, tourneront vers eux leur regard inquiet, j'imagine que Comte et Renouvier parleront ainsi : « Vis pour autrui, dira l'un, celui des deux qui est athée. Soumets-toi, pour le bonheur de l'humanité, à l'ordre total, à l'ordre extérieur du monde et de la nature, à l'ordre social auquel aboutissent tous les siècles passés... Défie-toi de ton imagination et de ton orgueil-[p. 160]LE PROBLÈME DU MAL
 
 LA POLÉMIQUE.
 
@@ -1998,19 +1662,13 @@ leuse raison. Sache voir et connaître les réalités concrètes, positives, et 
 
 Et Renouvier dira : « Développe ta personnalité, exerce ta volonté, ton énergie. Prend garde de te réduire à un rouage inerte et passif dans la société, qui n'a de valeur que par les individus qui la composent. Aime tes semblables, mais sache que l'amour ne peut rien, ou même devient funeste là où manque la justice. Que le souci des réalités concrètes et positives n'emprisonne pas ta pensée. Qe le respect du passé et'de l'histoire n'arrache pas l'idéal de ton âme. Garde-toi de jamais confondre le bien et le mal, le juste et l'injuste, le vrai et le faux. Ne t'incline devant aucune idole ; ne pense jamais qu'une institution ou une tradition quelconque tire du fait de son existence, et même des services qu'elle a pu rendre à une société corrompue, une sorte d'inviolabilité qui la soustraie à la libre critique de la raison. Ne crois pas surtout aux prétendues lois que suit l'humanité pour évoluer vers un progrès énigmatique qui se réaliserait de lui-même. Il n'y aura de progrès que celui que tu feras ; il n'y aura de justice, de paix, de liberté, que celles que tu sauras conquérir... » Voilà
 
-[p. 161]
-
-ET LA THÉORIE DES TROIS MONDES ce que diront, entre autres choses, Comte et Renouvier à ceux de nos étudiants qui seront assez sérieux pour solliciter leurs conseils. Et ce sera l'éducation parfaite que ce contact avec deux esprits si dissemblables, mais également profonds. Ils représentent, l'un et l'autre, comme les deux aspects de toute pensée philosophique, au point que leurs tendances opposées, en pénétrant ensemble dans l'âme de nos jeunes gens, concourront à une conception plus riche, plus complexe, et par cela même plus vraie, de leurs devoirs.
+[p. 161] ET LA THÉORIE DES TROIS MONDES ce que diront, entre autres choses, Comte et Renouvier à ceux de nos étudiants qui seront assez sérieux pour solliciter leurs conseils. Et ce sera l'éducation parfaite que ce contact avec deux esprits si dissemblables, mais également profonds. Ils représentent, l'un et l'autre, comme les deux aspects de toute pensée philosophique, au point que leurs tendances opposées, en pénétrant ensemble dans l'âme de nos jeunes gens, concourront à une conception plus riche, plus complexe, et par cela même plus vraie, de leurs devoirs.
 
 Montpellier, Université.
 
 11
 
-[p. 162]
-
-[p. 163]
-
-TABLE DES MATIÈRES
+[p. 162] [p. 163] TABLE DES MATIÈRES
 
 ## Introduction
 

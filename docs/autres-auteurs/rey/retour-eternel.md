@@ -10,9 +10,7 @@ title: "Le Retour éternel et la philosophie de la physique (1927)"
 
 ---
 
-[p. 5]
-
-AVANT-PROPOS
+[p. 5] AVANT-PROPOS
 
 Nous avons étudié dans des travaux antérieurs la
 physique contemporaine au point de vue de la con-
@@ -38,11 +36,7 @@ des hypothèses logiques ,
 Nous allons essayer de déterminer maintenant, en
 passant de la forme méthodologique de la science et
 de sa valeur, à son contenu, dans quelles directions
-essentielles s'organise ce contenu. Loin de nous l'in-
-
-[p. 6]
-
-tention d'analyser ce contenu . C'est l'œuvre des phy-
+essentielles s'organise ce contenu. Loin de nous l'in-[p. 6]tention d'analyser ce contenu . C'est l'œuvre des phy-
 siciens . Plus loin de nous encore l'idée de le rendre
 accessible . La seule bonne vulgarisation est aussi
 l'œuvre des physiciens , et il n'y a eu de bonne vulga-
@@ -81,9 +75,7 @@ lestes . >>>
 
 << Cette vie, telle que tu la vis actuellement , telle
 
-[p. 7]
-
-AVANT-PROPOS
+[p. 7] AVANT-PROPOS
 7
 
 que tu l'as vécue, il faudra que tu la revives encore
@@ -119,9 +111,7 @@ représentations . >>
 (Auguste Blanqui , L'Eternité par les astres , 1871 ,
 publié en 1872.)
 
-[p. 9]
-
-PRÉFACE
+[p. 9] PRÉFACE
 
 I
 
@@ -151,11 +141,7 @@ tinction qui ne se laisse méconnaître par personne :
 Laquelle ? Ce serait une longue recherche de l'établir.
 Contentons-nous ici de faire remarquer que la philo-
 sophie est avant tout, réflexion sur l'activité humaine
-pour la comprendre : pratique, morale, sociale, reli
-
-[p. 10]
-
-gieuse, politique, économique, aussi bien qu'artis-
+pour la comprendre : pratique, morale, sociale, reli [p. 10] gieuse, politique, économique, aussi bien qu'artis-
 tique ou intellectuelle .
 Or, il n'y a pas d'activité humaine sans réflexion
 Ellessont inséparables.Mais làoù elles sont peut-être
@@ -192,11 +178,7 @@ versibilité . C'est l'idée que les phénomènes évoluent
 d'une façon cyclique, c'est la loi du retour éternel ,
 déjà aperçue par la sagesse orientale, en tout cas net-
 tement par la philosophie grecque, avec Héraclite et
-avec la théorie plus ou moins astrologique de la
-
-[p. 11]
-
-grande année. Elle reparaît avec toutes les spécula-
+avec la théorie plus ou moins astrologique de la [p. 11] grande année. Elle reparaît avec toutes les spécula-
 tions de la Renaissance. Elle reste indiscutée jusqu'au
 milieu du siècle dernier, où brusquement elle semble
 incompatible avec l'expérience, dans l'interprétation
@@ -234,11 +216,7 @@ pendant le dernier cinquantenaire du xixe siècle nous
 paraît précisément un « fait privilégié » pour l'étude
 du retour éternel, parce que jamais cette idée n'a été
 aussi clairement mise en question. La théorie éner-
-gétiste en physique, la philosophie énergétiste, ose
-
-[p. 12]
-
-rions-nous dire, nous présente un moment historique
+gétiste en physique, la philosophie énergétiste, ose [p. 12] rions-nous dire, nous présente un moment historique
 complet de ses origines à sa fin , puisqu'on peut dire,
 croyons-nous, que la question est, momentanément
 du moins, tranchée contre elle. Nous voulons chercher
@@ -277,9 +255,7 @@ philosophique sur un point de la théorie de la connais-
 sance
 : la nature de la connaissance scientifique.
 
-[p. 13]
-
-et la philosophie de la physique
+[p. 13] et la philosophie de la physique
 
 PREMIÈRE PARTIE
 
@@ -312,11 +288,7 @@ Troisième étape .
 Son caractère expérimental.
 Quatrième étape : l'énergie interne etl'expérience.
 VII.
-L'universalisation du principe et l'expérience,
-
-[p. 14]
-
-Le mécanisme et le retour éternel.
+L'universalisation du principe et l'expérience, [p. 14] Le mécanisme et le retour éternel.
 
 Depuis Galilée et Descartes , l'évolution philoso-
 phique de la physique jusqu'à la fin du xixe siècle
@@ -357,9 +329,7 @@ un mot, les machines qui ont leur explication néces-
 saire et suffisante dans les lois de la mécanique,
 ont manifestement servi de modèle, depuis Galilée et
 
-[p. 15]
-
-CONSERVATION DE L'ÉNERGIE ET L'EXPÉRIENCE 15
+[p. 15] CONSERVATION DE L'ÉNERGIE ET L'EXPÉRIENCE 15
 
 Descartes jusqu'à Lagrange et Laplace, pour la
 représentation qu'on se faisait de la machine-univers .
@@ -406,11 +376,7 @@ machine parfaite, assurant le retour éternel du nom-
 bre infini de ses cycles identiques. Compliquez sans
 mesure cette représentation. Vous avez le « Monde >> de
 Descartes , celui de Newton, celui de Laplace...
-Certes , l'univers peut avoir été créé (Descartes ,
-
-[p. 16]
-
-Galilée, Newton sont des croyants sincères). Il pourra
+Certes , l'univers peut avoir été créé (Descartes , [p. 16] Galilée, Newton sont des croyants sincères). Il pourra
 être anéanti . Mais ces événements ne peuvent arriver
 que par une décision du Créateur. Celui-ci a néan-
 moins dans sa toute-sagesse, dans sa toute-science,
@@ -451,9 +417,7 @@ C'est qu'on ne peut plus concevoir celui-ci sur le
 modèle des machines simples, des machines qui.trans-
 forment de l'énergie mécanique en travail, et pour
 
-[p. 17]
-
-CONSERVATION DE L'ÉNERGIE ET L'EXPÉRIENCE 17
+[p. 17] CONSERVATION DE L'ÉNERGIE ET L'EXPÉRIENCE 17
 
 ainsi dire presque du travail en travail. C'était bien
 lorsqu'on ne connaissait en somme pas d'autre type
@@ -492,11 +456,7 @@ deuxième partie de notre étude, auront pour but
 d'apprécier le bien fondé de cette ambition. Si en
 grande partie, notamment en ce qui concerne le
 premier de ses principes, la conservation de l'énergie,
-ce bien fondé ne peut faire de doute, nous verrons
-
-[p. 18]
-
-qu'une interpolation trop audacieuse du principe de
+ce bien fondé ne peut faire de doute, nous verrons [p. 18] qu'une interpolation trop audacieuse du principe de
 Carnot provoquera , rendra inévitable la critique qui
 remettra en pleine vigueur la conception du retour
 éternel et l'imposera encore une fois à la physique ,
@@ -536,9 +496,7 @@ d'énergie à une conception anticinétique de la réalité
 
 [^p18-1]: Quoi qu'en pense Duhem : Evolution des théories de la mécanique, fin du ch. III.
 
-[p. 19]
-
-CONSERVATION DE L'ÉNERGIE ET L'EXPÉRIENCE 19
+[p. 19] CONSERVATION DE L'ÉNERGIE ET L'EXPÉRIENCE 19
 
 physique. La notion newtonienne de force prête à
 l'équivoque. Mais la notion leibnitienne d'énergie,
@@ -579,9 +537,7 @@ latente », comme il l'appelle, et c'est la somme de la
 force vive et de la force latente, ou morte, de l'énergie
 potentielle et de l'énergie cinétique qui est constante.
 
-[p. 22]
-
-Elles ont bien avec elle ceci de commun, comme
+[p. 22] Elles ont bien avec elle ceci de commun, comme
 nous l'avons déjà noté, qu'elles ont une couleur dyna-
 miste. A la matière inerte elle substitue un pouvoir,
 une capacité qui donne à l'univers matériel quelque
@@ -620,9 +576,7 @@ le Discours de métaphysique. La chute des corps, la
 puissance nécessaire pour faire remonter un poids à la
 hauteur d'où il est tombé : voilà les expériences types
 
-[p. 23]
-
-CONSERVATION DE L'ÉNERGIE ET L'EXPÉRIENCE 23
+[p. 23] CONSERVATION DE L'ÉNERGIE ET L'EXPÉRIENCE 23
 
 :
 
@@ -665,9 +619,7 @@ la configuration spatiale, le temps, le poids...
 
 [^p23-1]: Nous ne voulons pas dire par là qu'une réalité mathé- matique, c'est-à-dire avec intuition purement intellectuelle, soit illusoire. Cela, c'est une autre question. Nous disons simplement que la force de la mécanique rationnelle n'a pas une réalité sensible immédiate. Elle se déduit ration- nellement et indirectement de certaines relations entre données sensibles . 2
 
-[p. 24]
-
-Les deux premières étapes expérimentales du principe
+[p. 24] Les deux premières étapes expérimentales du principe
 de la conservation de l'énergie.
 
 Le travail ne serait-il même pas le fait primordial ,
@@ -707,11 +659,7 @@ disparaître)
 comme une machine dont la puissance se restaurerait
 par une réversibilité parfaite, sans fournir d'autre tra-
 vailutile il est vrai. D'où conservation de la somme de
-la puissance et du travail qui peuvent s'interchanger ,
-
-[p. 25]
-
-CONSERVATION DE L'ÉNERGIE ET L'EXPÉRIENCE 25
+la puissance et du travail qui peuvent s'interchanger , [p. 25] CONSERVATION DE L'ÉNERGIE ET L'EXPÉRIENCE 25
 
 la machine étant l'organe de cet interchange. Et
 c'est la première généralisation qu'opère l'esprit , ou
@@ -729,7 +677,7 @@ chine.
 L'induction qui transporte à l'univers et à tous
 les événements physico-chimiques de cet univers , les
 relations qu'on a tirées de l'observation de quelques
-machines simples, comporte évidemment de l'a priori ,
+machines simples, comporte évidemment de l'*a priori* ,
 comme toutes les inductions [^p25-1], puisqu'elles sont
 toutes des dépassements de l'expérience, des inter-
 polations ; mais le principe de la conservation de
@@ -743,9 +691,7 @@ totale.
 
 [^p25-1]: Ce qui ne veut pas dire qu'une induction soit une hypothèse bien qu'il y ait souvent voisinage entre elles. Sur le terrain de la méthodologie des sciences, une hypo- thèse c'est une construction a priori que l'expérience ne peut vérifier, dans l'état actuel des choses du moins. Une induction au contraire, c'est une proposition vérifiée par une expérience qui peut se répéter indéfiniment, sous cer- taines conditions bien déterminées. Le seul a priori, c'est ici l'interpolation qui nous fait supposer que l'expérience se répétera toujours semblablement. Exemple : Hypothèse, la théorie de l'éther de Lord Kelvin. Induction ; la cons- tance de la vitesse de la lumière dans l'expérience de Mi- chelson. Et dans les deux cas on vérifie des propositions, non des faits.
 
-[p. 26]
-
-H. Poincaré a insisté sur ce fait, mais nous pouvions
+[p. 26] H. Poincaré a insisté sur ce fait, mais nous pouvions
 déjà mesurer les variations de l'énergie potentielle
 entre des limites données : un poids que l'on monte
 par exemple . On peut mesurer, en essayant d'at-
@@ -785,9 +731,7 @@ une loi expérimentale et la notion d'énergie ou de
 travail comme une donnée de l'expérience scienti-
 fique.
 
-[p. 27]
-
-CONSERVATION DE L'ÉNERGIE ET L'EXPÉRIENCE 27
+[p. 27] CONSERVATION DE L'ÉNERGIE ET L'EXPÉRIENCE 27
 
 IV
 
@@ -825,9 +769,7 @@ impossible de mettre en évidence ces mouvements [^p27-1]
 
 [^p27-1]: Exemple : quand de l'énergie cinétique est consom- mée et disparaît pour élever un poids à une certaine hauteur, on voit, par la suite, en laissant retomber ce poids, que cette énergie s'était transformée en énergie potentielle, dont la quantité était strictement égale à la quantité d'énergie cinétique consommée, et qui se manifeste intégralement (aux fuites près) par la chute ultérieure du poids.
 
-[p. 28]
-
-moléculaires , de les mesurer, et de faire le produit des
+[p. 28] moléculaires , de les mesurer, et de faire le produit des
 masses et des vitesses des molécules, Joule et Mayer
 eurent indépendamment l'un de l'autre, en expéri-
 mentateurs exacts, le génie de laisser de côté les
@@ -863,9 +805,7 @@ terrain strictement expérimental. Sadi-Carnot , dans
 
 [^p28-1]: Vérification dans les limites des erreurs d'expérience ne signifie pas : vérification approximative. Cette expres- sionsignifie que les écarts, par rapport àunnombre moyen, se distribuent absolument au hasard, autour de ce nombre (d'après des théorèmes de probabilités) et en même temps s'expliquent par les conditions physiques déterminées de l'expérience.
 
-[p. 29]
-
-CONSERVATION DE L'ÉNERGIE ET L'EXPÉRIENCE 29
+[p. 29] CONSERVATION DE L'ÉNERGIE ET L'EXPÉRIENCE 29
 
 les dernières pages qu'il a écrites, avait bien posé
 'd'une façon très nette et très précise l'idée de la trans-
@@ -882,7 +822,7 @@ On a donc raison de faire remonter la loi de l'équi-
 valence de la chaleur et du travail à Joule et à Mayer ,
 parce que tous deux ont essayé de demander l'idée et
 la loi à l'expérience et de les fonder sur elle. La physi-
-que énergétiste veut éliminer tout l'a priori, toutes les
+que énergétiste veut éliminer tout l'*a priori*, toutes les
 hypothèses utilisées par le mécanisme. L'extension
 de la loi de conservation des systèmes mécaniques,
 aux systèmes à la fois mécaniques et thermiques ,
@@ -906,11 +846,7 @@ VI
 Quatrième étape : l'énergie interne et l'expérience .
 
 Dans une quatrième étape, tout aussi expérimen-
-tale que les précédentes, la physique a élaboré une
-
-[p. 30]
-
-notion, corollaire direct, presque immédiat, de ce qui
+tale que les précédentes, la physique a élaboré une [p. 30] notion, corollaire direct, presque immédiat, de ce qui
 précède. Tout système naturel (c'est-à-dire tout corps
 naturel) peut être représenté par de l'énergie mécani-
 que et de l'énergie thermique, puisqu'il a une masse,
@@ -949,9 +885,7 @@ Mais cela n'importe pas, comme nous l'avons vu .
 
 [^p30-1]: Du moins, dans l'état des connaissances physiques antérieures aux théories électroniques et de la relativité.
 
-[p. 31]
-
-CONSERVATION DE L'ÉNERGIE ET L'EXPÉRIENCE 31
+[p. 31] CONSERVATION DE L'ÉNERGIE ET L'EXPÉRIENCE 31
 
 Cette notion d'énergie interne est toute voisine de
 lanotion d'énergie potentielle, à laquelle elle se réduit
@@ -1000,9 +934,7 @@ les laboratoires
 
 [^p31-1]: Leçons traduites en français par l'abbé Moigno, sous le titre de Corrélation des forces physiques (1851) .
 
-[p. 32]
-
-qu'entre certaines limites, sur certains ordres de gran-
+[p. 32] qu'entre certaines limites, sur certains ordres de gran-
 deur des phénomènes, toutes réserves qui portent
 sur quelque induction expérimentale que ce soit, la
 physique énergétiste pouvait à bon droit se vanter
@@ -1042,9 +974,7 @@ concrets
 d'abord empiriques, instinctifs (comme la marche ou
 la perception des distances et des temps) . Or notion
 
-[p. 33]
-
-CONSERVATION DE L'ÉNERGIE ET L'EXPÉRIENCE 33
+[p. 33] CONSERVATION DE L'ÉNERGIE ET L'EXPÉRIENCE 33
 
 d'énergie et principe de conservation ne sont que la
 traduction, immédiate pour la première, progressive
@@ -1067,9 +997,7 @@ au sens commun, à l'empirisme le plus vulgaire. C'est
 là la morale qui se dégage des grandes étapes de l'his-
 toire du principe de la conservation de l'énergie .
 
-[p. 34]
-
-CHAPITRE II
+[p. 34] CHAPITRE II
 
 LA CRITIQUE DU PRINCIPE
 
@@ -1105,11 +1033,7 @@ l'abstraction du sens commun, en ce qu'elle est réelle .
 Elle est un morceau d'expérience, détachée du reste,
 parce que les conditions dans lesquelles nous est
 donné le réel, la détachent d'elles-mêmes . Elle n'est
-pas un schéma appauvri du réel, mais une pièce né
-
-[p. 35]
-
-cessaire de ce réel, comme un rouage ou un ressort
+pas un schéma appauvri du réel, mais une pièce né [p. 35] cessaire de ce réel, comme un rouage ou un ressort
 dans la machine qui n'existe elle-même que par l'ar-
 ticulationde ses parties : chaque partie est aussi réelle
 que toute autre et que l'ensemble. Cet élément réel,
@@ -1146,9 +1070,7 @@ c'est un fait d'observation, et les observateurs que [^p35-1]
 
 [^p35-1]: Thermodynamique, Paris, Gauthier-Villars, 1908, p. IX et Science et hypothèse (Flammarion, collection de Philosophie scientifique), p. 148 sq.
 
-[p. 36]
-
-c'est un théorème de mathématiques ». Il en a été
+[p. 36] c'est un théorème de mathématiques ». Il en a été
 longtemps ainsi pour le principe de la conservation
 de l'énergie. Il n'en est plus de même aujourd'hui :
 personne n'ignore que c'est un fait expérimental » .
@@ -1185,11 +1107,7 @@ nature elle-même, puis enfin dans les systèmes qui
 ne sont pas exclusivement des mouvements, que ce
 qui sort, mesuré conformément à la définition du tra-
 
-[^p36-1]: Id. , p. VI. 0
-
-[p. 37]
-
-vail, est égal à ce qui entre, mesuré conformément à
+[^p36-1]: Id. , p. VI. 0 [p. 37] vail, est égal à ce qui entre, mesuré conformément à
 la même définition .
 Si rien n'est entré, mais si du travail a été produit
 comme lorsqu'il s'agit d'énergie potentielle qui s'ac-
@@ -1212,7 +1130,7 @@ les faits en question, sur le terrain de la physique ?
 Nous avouons ici ne pas le voir. Physiquement, la loi
 de conservation n'est pas plus simple, ni moins simple
 qu'une autre généralisation : elle est la seule qui s'a-
-juste aux faits, à l'expérience in concreto . Elle n'est
+juste aux faits, à l'expérience *in concreto* . Elle n'est
 au fond que cela. Elle postule évidemment, comme
 toute induction, la répétition indéfinie de la vérifica-
 tion . Au sens où Jules Tannery définit l'infini mathé-
@@ -1226,11 +1144,7 @@ nature l'abstrait du concret, et le rationnel de l'ex-
 périmental , peut-être ne verra-t-on pas une très
 grande différence entre affirmer qu'après un nombre
 entier, il y en a toujours un autre, et affirmer qu'après
-une expérience vérifiant la loi de conservation de
-
-[p. 38]
-
-l'énergie, il y en a toujours une autre. Ces deux pro-
+une expérience vérifiant la loi de conservation de [p. 38] l'énergie, il y en a toujours une autre. Ces deux pro-
 cédés logiques, en tout cas, ne laissent pas d'avoir un
 air de famille : le passage à la limite, une des lois
 sans doute les plus profondes de notre activité intel-
@@ -1271,11 +1185,7 @@ esprit et l'expérience .
 somme
 
 Mais en poursuivant la lecture de la préface de
-Poincaré, nous voyons bien pourquoi il a posé cette
-
-[p. 39]
-
-objection. Encore une fois, il a raisonné en mathéma-
+Poincaré, nous voyons bien pourquoi il a posé cette [p. 39] objection. Encore une fois, il a raisonné en mathéma-
 ticien, et non en physicien. Mathématiquement en
 effet, l'expression que la physique a donnée à la loi de
 conservation n'est que la plus simple d'une infinité
@@ -1315,9 +1225,7 @@ Toute proposition physique pour être vraiment
 [^p39-1]: Id. , p. X.
 [^p39-2]: Id. , p. XII .
 
-[p. 40]
-
-vraie aurait sans doute besoin que l'on tienne compte
+[p. 40] vraie aurait sans doute besoin que l'on tienne compte
 de tout l'univers. Hyperboliquement, le mouve-
 ment de ma plume, sur
 cette
@@ -1361,11 +1269,7 @@ ajoute alors : « mais il est impossible d'en
 trouver une définition générale. Si l'on veut énoncer
 le principe dans toute sa généralité et en l'appliquant
 
-[^p40-1]: Id. , p. IX,
-
-[p. 41]
-
-à l'univers [tout à l'heure ne nous montrait-il pas
+[^p40-1]: Id. , p. IX, [p. 41] à l'univers [tout à l'heure ne nous montrait-il pas
 qu'il fallait l'appliquer à tous les possibles pour lui
 donner un sens ? ] on le voit pour ainsi dire s'évanouir
 et il ne reste plus que ceci : « Il y a quelque chose qui
@@ -1404,11 +1308,7 @@ polation est liée à une intégration qui, comme toute
 intégration, introduit une cause toute arbitraire .
 Mais la constante arbitraire, par cela même qu'elle
 reste une constante, ne gênerait en rien l'expression
-d'un principe de conservation. Et l'interpolation n'est
-
-[p. 42]
-
-autre que l'induction justifiée par une confirmation
+d'un principe de conservation. Et l'interpolation n'est [p. 42] autre que l'induction justifiée par une confirmation
 indéfinie de l'expérience, sans aucune divergence jus-
 qu'ici.
 L'évolution ultérieure de la science physique a
@@ -1446,9 +1346,7 @@ changement négatif mesuré par un nombre égal et
 
 [^p42-1]: Jean Perrin : Traité de Chimie physique, vol. I, Les principes, p. 93-94.
 
-[p. 43]
-
-designe contraire. C'est la formule mêmedu principe
+[p. 43] designe contraire. C'est la formule mêmedu principe
 de la conservation de l'énergie. L'énergie est donc
 ce qui reste constant par rapport à tout changement
 présenté par un système, alias, dans toute transfor-
@@ -1489,17 +1387,13 @@ ne pas donner à propos du .
 principe grand sens à l'opposition de ces deux expres-
 sions. « Apostériorisme », sans doute, puisque c'est
 toute l'expérience humaine qui est derrière. Pas em-
-pirisme pourtant, car l'empirisme postule que l'ex-
-
-[p. 44]
-
-périence eût pu être entièrement autre (Hume, Mill)
+pirisme pourtant, car l'empirisme postule que l'ex-[p. 44]périence eût pu être entièrement autre (Hume, Mill)
 qu'elle est contingente. Nous, nous pensons qu'elle
 dégage peu à peu une organisation nécessaire dont le
 principe en question n'est qu'une des articulations .
-Ceplan nécessaire est-il a priori ? Pas au sens innéiste
+Ceplan nécessaire est-il *a priori* ? Pas au sens innéiste
 pourtant , puisque l'expérience coexiste avec lui . Mais
-a priori tout de même, en ce sens qu'expérience et
+*a priori* tout de même, en ce sens qu'expérience et
 conscience ne font sans doute qu'un. Les lois de la
 première sont les principes de la seconde. La conti-
 nuité de l'objet et du sujet préexiste à la coupure.
@@ -1509,9 +1403,7 @@ Sous un certain angle, notre monde n'est-il pas créé
 L'énergie est une notion tirée de l'expérience, mais
 est et reste une notion.
 
-[p. 45]
-
-LIVRE
+[p. 45] LIVRE
 II
 
 LA DÉGRADATION DE L'ÉNERGIE
@@ -1545,17 +1437,13 @@ I
 Le principede Carnot,
 leprincipede conservation et l'expérience .
 
-Ce qu'il y a d'assez curieux dans l'histoire des prin
-
-[p. 46]
-
-cipes relatifs à l'énergie, c'est qu'on a souvent douté
+Ce qu'il y a d'assez curieux dans l'histoire des prin [p. 46] cipes relatifs à l'énergie, c'est qu'on a souvent douté
 de l'origine expérimentale du principe de la conser-
 vation de l'énergie, et qu'on n'a presque jamais douté
 du caractère expérimental du principe de Carnot.
 On l'a même toujours, dans la critique philosophique
 de la science, opposé en quelque sorte comme la re-
-vendication de l'expérience contre les efforts a priori
+vendication de l'expérience contre les efforts *a priori*
 de l'esprit,la limite et presque la protestation apportée
 par la nature contre nos prétentions constructives .
 Or, s'il y a interpolation dans le principe de la con-
@@ -1588,11 +1476,7 @@ tionnelles , tandis que le principe de Carnot leur fai-
 sait échec . C'est en partant des lois de conservation
 qu'on a édifié les hypothèses mécanistes. La critique
 de la science mécaniste, et la critique de la science
-tout court , puisqu'alors elle était foncièrement mé-
-
-[p. 47]
-
-LE PRINCIPE DE CARNOT ET L'EXPÉRIENCE
+tout court , puisqu'alors elle était foncièrement mé-[p. 47]LE PRINCIPE DE CARNOT ET L'EXPÉRIENCE
 47
 
 caniste, se sont donc déclanchées sur les principes de
@@ -1633,11 +1517,7 @@ physiques considérés peut être envisagé comme une
 résultante de la loi des grands nombres, la moyenne
 d'un ensemble très complexe. Il ne vaut que là où
 nous sommes très loin des éléments constitutifs de
-3
-
-[p. 48]
-
-cet ensemble. Ce qui revient au même, il ne vaut que
+3 [p. 48] cet ensemble. Ce qui revient au même, il ne vaut que
 comme une très haute probabilité en présence de
 phénomènes
 produits par un très grand nombre
@@ -1680,9 +1560,7 @@ plaira de les choisir au hasard ; ce serait alors miracle
 
 1
 
-[p. 49]
-
-LE PRINCIPE DE CARNOT ET L'EXPÉRIENCE
+[p. 49] LE PRINCIPE DE CARNOT ET L'EXPÉRIENCE
 49
 
 si les conséquences de ces principes s'accordaient avec
@@ -1722,9 +1600,7 @@ tions, on en déduit les conséquences et l'on voit si cela
 
 [^p49-1]: On retrouve historiquement des anticipations à pres- que toutes les découvertes scientifiques. Et l'on se plaint qu'une intuition spéciale soit restée de longues années stérile. Mais c'est qu'on met dans cette intuition ce que l'on a appris depuis. Telle quelle, elle est restée inutilisée, parce qu'elle était inutilisable.
 
-[p. 50]
-
-colle ; on s'arrête quand ça colle tant bien que mal ».
+[p. 50] colle ; on s'arrête quand ça colle tant bien que mal ».
 Mais ce n'est pas seulement pour les principes qu'on
 opère ainsi, en dehors même de la volonté consciente
 de l'opérateur : c'est dans toute recherche, même la
@@ -1763,9 +1639,7 @@ jamais aucune science ne serait sortie, réagit sur les
 images sensibles par sa volonté de recherche, sa vo-
 lonté de connaître et de comprendre. Mais cet arbi
 
-[p. 51]
-
-LE PRINCIPE DE CARNOT ET L'EXPÉRIENCE
+[p. 51] LE PRINCIPE DE CARNOT ET L'EXPÉRIENCE
 51
 
 traire et ce choix inclus dans toute expérience, partie
@@ -1806,9 +1680,7 @@ l'idée de l'équivalence de la chaleur et du travail .
 
 [^p51-1]: Il les met en doute à la fin même de son mémoire ; et il exprime nos idées actuelles d'une façon exacte dans les dernières notes manuscrites que nous ayons de lui (1831) .
 
-[p. 52]
-
-Il y sera amené peu à peu par ses réflexions mêmes :
+[p. 52] Il y sera amené peu à peu par ses réflexions mêmes :
 entendez par des considérations expérimentales , car
 toutes ses réflexions se rattachent étroitement à cel-
 les-ci. Il ne veut que tirer la leçon des faits . Ses ré-
@@ -1823,7 +1695,7 @@ treprend d'étudier, et d'étudier expérimentalement.
 -
 
 La physique de son temps n'avait là-dessus que
-des idées a priori, très lointaines des faits, puisque
+des idées *a priori*, très lointaines des faits, puisque
 d'une part, elle cherchait encore le mouvement per-
 pétuel , productif de travail, et d'autre part les moyens
 d'augmenter le rendement des machines à feu par .
@@ -1856,9 +1728,7 @@ il assimile le fonctionnement d'une machine à feu,
 à celui d'une machine à poids, ou d'une machine
 hydraulique .
 
-[p. 53]
-
-LE PRINCIPE DE CARNOT ET L'EXPÉRIENCE
+[p. 53] LE PRINCIPE DE CARNOT ET L'EXPÉRIENCE
 53
 
 De même que dans ces dernières , l'agent, la chaleur
@@ -1899,11 +1769,7 @@ dissant et en augmentant de volume. A ce moment,
 la machine théoriquement encore ne gagne ni ne perd
 rien de la quantité de chaleur qui lui a été apportée
 tout à l'heure - aux fuites près qui sont impossibles
-à éviter, mais qu'on peut mesurer. Seule la tempéra
-
-[p. 54]
-
-ture décroît , pendant que le volume augmente et que
+à éviter, mais qu'on peut mesurer. Seule la tempéra [p. 54] ture décroît , pendant que le volume augmente et que
 la machine travaille [^p54-1] .
 L'échappement de la masse de vapeur enfermée
 dans le cylindre se fait alors dans l'atmosphère ou
@@ -1944,9 +1810,7 @@ identique.
 
 [^p54-1]: On appelle isotherme la première opération, adiaba- tique, la seconde.
 
-[p. 55]
-
-CHAPITRE
+[p. 55] CHAPITRE
 II
 
 LE PRINCIPE DE CARNOT ET LA LOGIQUE
@@ -1993,11 +1857,7 @@ réellement le schéma de la machine thermique par-
 faite, à peu près comme l'image du « gaz parfait>> nous
 donne le schéma d'un état de la matière où les pro-
 priétés vers lesquelles tendent les gaz à mesure qu'ils
-s'éloignent de leur point de liquéfaction, c'est-à-dire
-
-[p. 56]
-
-de l'état liquide, sont intégralement réalisées. Cette
+s'éloignent de leur point de liquéfaction, c'est-à-dire [p. 56] de l'état liquide, sont intégralement réalisées. Cette
 idéalisation du cycle opératoire de la machine ther-
 mique, c'est le cycle de Carnot .
 D'abord nous supposerons que le cylindre est lui-
@@ -2035,11 +1895,7 @@ nécessairement plus basse que la première, mais qui
 lui est symétrique.
 Enfin nous comprimons la masse gazeuse dans le
 cylindre rendu de nouveau imperméable à la chaleur,
-pour lui restituer la température initiale : c'est la
-
-[p. 57]
-
-seconde opération adiabatique,
+pour lui restituer la température initiale : c'est la [p. 57] seconde opération adiabatique,
 inverse de la pre-
 mière.
 Le cycle est fermé. Et tout peut recommencer.
@@ -2078,11 +1934,7 @@ travail. Elle peut rester toujours la même, comme la
 matière même du cylindre et du piston. Elle est un
 des agencements de la machine qui supporte l'action
 de celle-ci, mais ne le modifie pas autrement. Que ce
-soit de l'huile, un gaz, de l'éther, etc., le rendement
-
-[p. 58]
-
-de la machine entre les deux isothermes et les deux
+soit de l'huile, un gaz, de l'éther, etc., le rendement [p. 58] de la machine entre les deux isothermes et les deux
 adiabatiques sera toujours le même. Premier point
 qui était capital pour Carnot, car il cherchait préci-
 sément, comme toute son époque, si l'on pouvait en
@@ -2119,11 +1971,7 @@ indestructible de calorique. Cette erreur laissait in-
 tacte la vérité de la conclusion : à savoir que dans
 toute machine thermique, et par suite dans toute
 transformation physico-chimique où intervient du
-calorique , c'est-à-dire où se manifeste à un moment
-
-[p. 59]
-
-donné de la chaleur, le travail produit grâce à cette
+calorique , c'est-à-dire où se manifeste à un moment [p. 59] donné de la chaleur, le travail produit grâce à cette
 chaleur, le travail produit par le calorique, dépend de
 la différence de température. Il n'y a pas que cela,
 comme nous le verrons tout à l'heure, puisqu'il y a
@@ -2165,11 +2013,7 @@ d'une machine à l'égard des températures extrêmes
 qui sont observées dans le cycle des transformations
 qui s'y accomplissent, voilà ce que l'expérience a
 permis d'établir, voilà la première étape de l'établis-
-sement du principe de Carnot. Comme on voit, elle
-
-[p. 60]
-
-n'est valable que pour le cas où la considération des
+sement du principe de Carnot. Comme on voit, elle [p. 60] n'est valable que pour le cas où la considération des
 quantités de chaleur et des températures intervien-
 nent dans le cycle des opérations. Elle n'est valable
 que pour la machine à feu .
@@ -2187,7 +2031,7 @@ un peu différente de sa forme ultérieure, mais qui
 n'enlève rien à sa généralité théorique ; au contraire .
 La question qui se pose maintenant est de savoir
 si le schéma idéal sur lequel nous avons raisonné expé-
-rimentalement, si l'on peut dire, vaut a fortiori pour
+rimentalement, si l'on peut dire, vaut *a fortiori* pour
 tout cycle de transformations quel qu'il soit, pourvu
 que nous ayons à y considérer à côté de l'énergie
 mécanique des quantités de chaleur, c'est-à-dire de
@@ -2198,17 +2042,15 @@ le sens d'une perfection absolue ce que l'expérience
 nous apprend du fonctionnement de ces machines.
 Nous avons éliminé les fuites. Il semble bien que, par
 là même, tout ce que Carnot conclut de son cycle
-doive a fortiori s'affirmer de toute machine. Mais on
-peut démontrer cet a fortiori. Carnot l'a fait.
+doive *a fortiori* s'affirmer de toute machine. Mais on
+peut démontrer cet *a fortiori*. Carnot l'a fait.
 Il
 vaut mieux tenir une démonstration qu'une présomp-
 tion. La démonstration de Carnot repose sur une [^p60-1]
 
 [^p60-1]: Nous n'ignorons pas l'ambiguïté de l'expression : énergie calorifique. On peut se demander légitimement au- jourd'hui si la chaleur est une forme de l'énergie, et non moins légitimement répondre que non. Mais dans la phy- sique énergétique la considération de la forme thermique de l'énergie est au contraire nécessaire et fondamentale.
 
-[p. 61]
-
-notion délicate : la notion qu'on a appelée depuis la
+[p. 61] notion délicate : la notion qu'on a appelée depuis la
 notion de réversibilité. C'est cette notion qu'il s'agit
 d'analyser et de comprendre, car, en rigueur, le théo-
 rème de Carnot ne vaut que pour un cycle réversible
@@ -2248,11 +2090,7 @@ que dans l'autre, faire passer le système par une série
 de points donnés, entre une position initiale et une
 position finale, et le faire repasser,par une série d'états
 exactement inverses, de la position finale à la position
-initiale . Certes , dans la réalité, les modifications du
-
-[p. 62]
-
-système ne seront jamais exactement réversibles , pas
+initiale . Certes , dans la réalité, les modifications du [p. 62] système ne seront jamais exactement réversibles , pas
 plus qu'il ne peut être un système exactement isolé.
 Et il faut faire appel à une intervention extérieure
 pour renverser le mouvement. C'est entendu. Mais
@@ -2290,11 +2128,7 @@ supposant des vitesses infiniment petites appliquées
 aux différents points de ce système, et compatibles
 avec les liaisons de ce système [^p62-1]. Ici, pour définir
 
-[^p62-1]: Cf. Duhem, Evol. de la Méc. , Rev. gén. Sc. , 1903, p. 305-306. <<Dans le schéma mathématique par lequel la physique
-
-[p. 63]
-
-la modification réversible, nous dirons que c'est une
+[^p62-1]: Cf. Duhem, Evol. de la Méc. , Rev. gén. Sc. , 1903, p. 305-306. <<Dans le schéma mathématique par lequel la physique [p. 63] la modification réversible, nous dirons que c'est une
 modification virtuelle, non réelle, d'un système, sous
 l'influence de forces infiniment petites et qui s'ac-
 
@@ -2342,11 +2176,7 @@ de quantités infinimentpetites de deux corps. » Duhem,L'é-
 volution de la mécanique, Rev. gén. des Sciences, 1903, p. 305,
 col. 2.
 Duhem ajoute : « L'emploi de ces modifications virtuelles
-est un artifice de raisonnement, un procédé de calcul : il
-
-[p. 64]
-
-complissent d'une façon infiniment lente. Aucune
+est un artifice de raisonnement, un procédé de calcul : il [p. 64] complissent d'une façon infiniment lente. Aucune
 modification réelle ne peut être parfaitement réver-
 sible. Mais quantité de modifications réelles tendent
 à la limite vers une modification réversible. Si bien
@@ -2388,9 +2218,7 @@ Et cela a une signification physique, et c'est la modification
 contraire qui, elle, n'en a point et est irréalisable, impos-
 sible.
 
-[p. 65]
-
-dans les conditions identiques. Le système repasse en
+[p. 65] dans les conditions identiques. Le système repasse en
 sens inverse par des états infiniment voisins des
 premiers, infiniment voisins aussi d'états d'équilibre ,
 mais infiniment peu déséquilibrés dans l'autre sens .
@@ -2450,9 +2278,7 @@ non seulement le système peut revenir de son état
 final à son état initial en retraversant en sens inverse
 tous les états mécaniques intermédiaires par lesquels il
 
-[p. 66]
-
--
+[p. 66] -
 
 a passé de celui-ci à celui-là ; mais encore le système,
 dans sa transformation inverse, emprunte à chacune
@@ -2484,7 +2310,7 @@ bien une difficulté au point de vue de la transforma-
 tion isotherme, car à la même température rigoureu-
 sement, il n'y a pas d'échange de chaleur,
 il y a
-équilibre parfait, statu quo strict. Mais, comme on
+équilibre parfait, *statu quo* strict. Mais, comme on
 voit, cette difficulté est du même ordre que celle que
 nous avions rencontrée quand pour approcherprogres-
 sivement de la définition de la modification réversi-
@@ -2496,11 +2322,7 @@ sible est une limite virtuelle constituée par une série
 virtuelle d'états d'équilibre . Là encore, nous pouvons
 et devons supposer qu'avec une différence de tempéra-
 ture aussi petite que nous voulons, nous parviendrons
-d'une façon infiniment lente à céder de la chaleur à
-
-[p. 67]
-
-notre système ou à lui en faire absorber, à lui faire
+d'une façon infiniment lente à céder de la chaleur à [p. 67] notre système ou à lui en faire absorber, à lui faire
 gagner une quantité de chaleur prise positivement en
 sens direct et une égale quantité de chaleur prise
 négativement en sens inverse.
@@ -2544,11 +2366,7 @@ fonctionne qu'avec une chute de température .
 Revenons à notre expérience fondamentale : les
 transformations-types qui se passent dans le cylindre
 de la machine à vapeur, pendant un coup de piston .
-Dans cette machine, on peut renverser la vapeur,
-
-[p. 70]
-
-Dans une modification réversible exclusivement
+Dans cette machine, on peut renverser la vapeur, [p. 70] Dans une modification réversible exclusivement
 mécanique, il est déjà facile de voir que le rendement
 est maximum puisque la résistance vaincue est stric-
 tement égale à la puissance : toute l'énergie du poids
@@ -2582,14 +2400,10 @@ ble extérieurement au système. C'est le ressort de la
 démonstration de Carnot. Une transformation irré-
 versible dont le rendement dépasserait celui d'une
 transformation réversible entre les mêmes états initial
-et final serait une création de travail ex nihilo . Carnot
+et final serait une création de travail *ex nihilo* . Carnot
 s'appuyait toujours sur l'hypothèse de l'indestructi-
 bilité du calorique, dans cette démonstration, mais
-la conclusion n'en est pas moins juste. Et elle se dé-
-
-[p. 71]
-
-montre aujourd'hui aisément à partir des vues de
+la conclusion n'en est pas moins juste. Et elle se dé-[p. 71]montre aujourd'hui aisément à partir des vues de
 Clausius, par un raisonnement au fond voisin de celui
 de Carnot.
 Ainsi la conclusion s'affirme sans équivoque ni
@@ -2631,13 +2445,9 @@ indéfiniment
 possibles,
 pourvu qu'on ne leur demandât pas de création
 d'énergie. Sous la kaléidoscopie des transformations
-de l'énergie, un fond éternel, un statu quo éternel de-
+de l'énergie, un fond éternel, un *statu quo* éternel de-
 meure : l'énergie interne de l'Univers, dont les appa-
-4
-
-[p. 72]
-
-rences d'incessant changement constituent, prises en
+4 [p. 72] rences d'incessant changement constituent, prises en
 totalité , un cycle fermé.
 Mais avec le principe de Carnot tout change. Avec
 lui, nous atteignions aussi un état idéal. En concré-
@@ -2677,9 +2487,7 @@ tout cycle irréversible, Carnot, dans les dernières
 
 [^p72-1]: Poincaré, Thermodynamique, p. 47 ( § 44).
 
-[p. 73]
-
-notes que nous avons de sa main, revint d'ailleurs
+[p. 73] notes que nous avons de sa main, revint d'ailleurs
 complètement. Il avait déjà mis en doute l'hypo-
 thèse de la conservation du calorique dans les derniè-
 res pages de son fameux mémoire (1824) . En 1831 [^p73-1]
@@ -2721,9 +2529,7 @@ survenue (1832), ce fut à Clausius que revint l'hon-
 [^p73-1]: Resté inédit jusqu'en 1871.
 [^p73-2]: Cité par Poincaré. Id. , p. 54 ( § 48).
 
-[p. 74]
-
-neur d'avoir dans la même
+[p. 74] neur d'avoir dans la même
 direction retrouvé les
 idées de Carnot, mais en leur donnant la forme sur
 laquelle s'édifiait la doctrine de l'impossibilité du
@@ -2731,9 +2537,7 @@ retour éternel et de la mort de l'Univers . C'est ce
 mouvement d'idées que l'enchaînement historique
 nous amène maintenant à analyser .
 
-[p. 75]
-
-I.
+[p. 75] I.
 
 II.
 III.
@@ -2782,9 +2586,7 @@ et parce qu'il y a un champ de gravitation [^p75-1] ,
 
 [^p75-1]: La machine c'est en réalité ici la roue, l'eau et la terre, le centre de gravité de la terre .
 
-[p. 76]
-
-établi logiquement à la suite de cette théorie, devrait
+[p. 76] établi logiquement à la suite de cette théorie, devrait
 donc tomber aussi .
 Ce fut la gloire de Clausius d'avoir aperçu que ce
 principe, dans son contenu essentiel, dans ce qu'il
@@ -2824,9 +2626,7 @@ se passe dans la machine à vapeur et dans le cycle de
 Carnot . Ce n'est pas expérimentalement une égale
 quantité de chaleur qui est empruntée à la source
 
-[p. 77]
-
-LES
+[p. 77] LES
 CORRECTIONS DE
 CLAUSIUS
 77
@@ -2865,17 +2665,13 @@ fication réversible. Et il reste vrai, par une démons-
 tration analogue à celle de Carnot,que toute modifica-
 tion irréversible a un rendement moindre. Les con-
 clusions que nous allons voir tirées du principe de
-Carnot sont donc a fortiori vraies , de toutes les modi-
+Carnot sont donc *a fortiori* vraies , de toutes les modi-
 fications naturelles, puisque celles-ci sont en général
 irréversibles .
 Seulement, bien entendu aussi, une transformation
 irréversible n'est pas, comme l'avait cru d'abord
 Carnot, une perte, une destruction d'énergie. L'éner-
-gie, toutes fuites étant comptées, se conserve intégra
-
-[p. 78]
-
-lement. Ce qui se perd, c'est, par suite de l'abaisse-
+gie, toutes fuites étant comptées, se conserve intégra [p. 78] lement. Ce qui se perd, c'est, par suite de l'abaisse-
 ment de la température nécessaire, la quantité de
 cette énergie qui peut être utilisée ultérieurement ;
 c'est l'énergie utilisable et non pas l'énergie tout
@@ -2920,9 +2716,7 @@ La forme définitive du principe dans toute son
 universalité , celle dont on peut déduire toutes les
 autres, est celle que lui a donnée finalement Clausius :
 
-[p. 79]
-
-LES CORRECTIONS DE
+[p. 79] LES CORRECTIONS DE
 CLAUSIUS
 79
 
@@ -2965,9 +2759,7 @@ d'une source plus froide encore.
 (1) En toute rigueur, aujourd'hui, nous dirions haute-
 ment improbable. Nous verrons cela ultérieurement.
 
-[p. 80]
-
-Pouvons-nous par ce biais répété autant de fois
+[p. 80] Pouvons-nous par ce biais répété autant de fois
 qu'on voudra, transformer en travail toutela quan-
 tité de chaleur fournie par la première source chaude
 à notre premier cycle considéré, fournie par la source
@@ -3006,9 +2798,7 @@ appelle la température normale lue sur un thermo-
 mètre à gaz parfait dont le O serait reporté à un point
 fixe qui est dans la graduation centigrade à peu près
 
-[p. 81]
-
-LES
+[p. 81] LES
 CORRECTIONS
 DE CLAUSIUS
 81
@@ -3055,9 +2845,7 @@ température du 0 absolu est donc rejetée à l'infini .
 
 [^p81-1]: Un cycle réversible peut toujours être décomposé en une somme de cycles de Carnot de cette sorte.
 
-[p. 82]
-
-C'est ce qu'a montré Poincaré. Brunhes (1) expose ce
+[p. 82] C'est ce qu'a montré Poincaré. Brunhes (1) expose ce
 fait d'une façon plus concrète « la difficulté thermo-
 dynamique qu'il y aurait à passer de 10 degrés à
 5 degrés
@@ -3105,9 +2893,7 @@ sur lesquelles nous reviendrons plus loin. Nous n'exposons
 pour le moment que le point de vue thermodynamique
 parce qu'il restera celui de l'énergétisme.
 
-[p. 83]
-
-LES
+[p. 83] LES
 CORRECTIONS
 DE
 CLAUSIUS
@@ -3152,11 +2938,7 @@ jamais restaurer son état initial pas plus que tout
 autre état quel qu'il soit, même infiniment voisin
 de son état final, sur le terrain de la thermodyna-
 mique pure. La machine aura rendu son maximum,
-et elle restera inerte à tout jamais. Nous sommes à
-
-[p. 84]
-
-l'extrême opposé des intentions fondamentales du
+et elle restera inerte à tout jamais. Nous sommes à [p. 84] l'extrême opposé des intentions fondamentales du
 cinétisme
 : un mouvement
 sans
@@ -3202,11 +2984,9 @@ que dans l'établissement du principe de conserva-
 tion.
 Certes l'énergie n'est bien qu'un concept mathéma-
 tique, une intégrale qui nous permet de comprendre
-et rend intelligible l'expérience. Mais a fortiori, la
+et rend intelligible l'expérience. Mais *a fortiori*, la
 
-[p. 85]
-
-LES CORRECTIONS
+[p. 85] LES CORRECTIONS
 DE
 CLAUSIUS
 85
@@ -3252,9 +3032,7 @@ réversible. Ce mot
 entropie signifie en grec : qui fait retour sur soi-même,
 involution .
 
-[p. 86]
-
-Dans une transformation réversible fermée, en
+[p. 86] Dans une transformation réversible fermée, en
 effet, comme l'est le cycle de Carnot, c'est-à-dire où
 l'état final du système a été ramené à l'état initial ,
 la variation d'entropie est nulle. En effet, l'état final
@@ -3293,9 +3071,7 @@ Ainsi parallèlement à ce fait que jamais la chaleur
 ne peut se transformer intégralement en travail, dans
 une transformation physico-chimique sensible, paral
 
-[p. 87]
-
-LES CORRECTIONS DE CLAUSIUS
+[p. 87] LES CORRECTIONS DE CLAUSIUS
 87
 
 lèlement à ce fait qu'une partie de l'énergie doit tou-
@@ -3338,11 +3114,7 @@ Nous oserions dire que la grandeur, la propriété
 appelée entropie chiffre philosophiquement l'impuis-
 sance de transformabilité d'un système. Plus elle
 croît dans un système et plus est grande la valeur
-de transformation déjà acquise, mais, corollairement ,
-
-[p. 88]
-
-moindre est sa possibilité de transformation future .
+de transformation déjà acquise, mais, corollairement , [p. 88] moindre est sa possibilité de transformation future .
 Tout système tend spontanément vers une moindre
 puissance de transformation, vers un état d'équilibre
 d'où, de lui-même et spontanément, il ne sortira plus.
@@ -3382,9 +3154,7 @@ quantités d'énergie mises enjeu par latransformation.
 Rien ne se crée et rien ne se perd dans la somme totale
 des capacités de travail d'une part, des quantités de
 
-[p. 89]
-
-LES CORRECTIONS
+[p. 89] LES CORRECTIONS
 DE
 CLAUSIUS
 89
@@ -3428,11 +3198,7 @@ salise le fonctionnement des machines en général,
 quelles qu'elles soient, des machines d'où l'on ne
 retire, toutes fuites compensées, que ce qu'on y a
 mis , et d'où l'on retire en tenant compte de toutes ces
-fuites tout ce qu'on y a mis , le principe de Carnot uni
-
-[p. 90]
-
-versalise le fonctionnement de la seule machine à feu .
+fuites tout ce qu'on y a mis , le principe de Carnot uni [p. 90] versalise le fonctionnement de la seule machine à feu .
 Et dans cette universalisation il est obligé de considé-
 rer la chaleur comme une forme particulière - bien
 particulière -
@@ -3473,11 +3239,9 @@ l'établir en toute rigueur, il a fallu un détour purement
 abstrait .
 Le principe n'est plus fondé, si l'on ne
 conçoit pas la modification réversible.
-Mais , dira-t-on, il permet des conclusions a fortiori
+Mais , dira-t-on, il permet des conclusions *a fortiori*
 
-[p. 91]
-
-LES
+[p. 91] LES
 CORRECTIONS
 DE
 CLAUSIUS
@@ -3513,9 +3277,7 @@ sible. La rationalisation, mieux l'intellectualisation [^p91-1]
 [^p91-1]: Bouasse, Thermodynamique, 2e édit. , p. 129.
 [^p91-2]: Voici l'expression purement technique, à laquelle, par exemple , s'arrête M. Bouasse : <<Il reste une fonction T = f (t) de la température repérée au moyen d'un thermomètre quelconque, fonction que nous appellerons température absolue, telle que pour toute trans- formation par voie réversible, infiniment petite dQ = dS T est une différentielle exacte. d Qest la quantité de chaleur absorbée par le corps qui se transforme ;1 : Test le facteur intégrant de d Q ». Bouasse : Thermodynamique, 2e éd., vol. I (première partie) , p. 128 ( § 95) .
 
-[p. 92]
-
-qu'on retrouve dans toute loi scientifique, n'est
+[p. 92] qu'on retrouve dans toute loi scientifique, n'est
 qu'un amenuisement de l'expérience.
 Mais ici la rationalisation, l'intellectualisation, vont
 peut-être plus loin. On a modifié l'expérience avant
@@ -3557,9 +3319,7 @@ raison qui condamne les interpolations universelles
 du principe de Carnot, tentées par l'énergétisme, et
 qui a permis de se laisser aller à nouveau, et d'une
 
-[p. 93]
-
-LES CORRECTIONS DE CLAUSIUS
+[p. 93] LES CORRECTIONS DE CLAUSIUS
 93
 
 façon plus sûre, à l'inclination philosophique vers
@@ -3581,7 +3341,7 @@ notion du progrès , s'impose d'une façon indiscutable.
 Mais qu'on y prenne bien garde. Ce n'est pas parce
 que le principe nécessite une abstraction très poussée
 pour s'établir qu'il faudrait en conclure que l'antici-
-pation de l'esprit, l'a priori que manifeste cette abs-
+pation de l'esprit, l'*a priori* que manifeste cette abs-
 traction ne s'adaptent pas exactement à l'expérience,
 dans les limites où le principe est applicable. Rien
 n'autoriserait un pareil soupçon .
@@ -3601,11 +3361,7 @@ bales. Il est l'adaptation la plus étroite de notre esprit
 principe de conservation de l'énergie, et le principe
 de Nernst [^p93-1] , de principe fondamental de la ther-
 
-[^p93-1]: Qui définit la valeur de l'entropie au 0 absolu, dans
-
-[p. 94]
-
-modynamique, son titre souverain, ne peuvent être
+[^p93-1]: Qui définit la valeur de l'entropie au 0 absolu, dans [p. 94] modynamique, son titre souverain, ne peuvent être
 mis en question. Sa valeur technique est absolument
 sauve . Sur elle reposent toute notre science des trans-
 formations physico-chimiques, et partant, tout l'art
@@ -3647,9 +3403,7 @@ où nous prendrions pour « individus » les molécules,
 certaines conditions restrictives, et fixe la constante arbi-
 traire de la fonction intégrale qu'est l'entropie.
 
-[p. 95]
-
-LES CORRECTIONS
+[p. 95] LES CORRECTIONS
 DE
 CLAUSIUS
 95
@@ -3671,9 +3425,7 @@ de la physiologie .
 
 5
 
-[p. 96]
-
-LIVRE
+[p. 96] LIVRE
 III
 .
 
@@ -3716,11 +3468,7 @@ qu'il est capable de mettre en œuvre. Cette fonction
 c'est son énergie interne. Et nous avons déjà dit que
 c'était en somme le signalement physico-chimique
 d'un système. Elle est une somme d'énergies qui
-se présentent sous des formes diverses et sont suscep
-
-[p. 97]
-
-tibles de s'échanger les unes les autres, d'après des
+se présentent sous des formes diverses et sont suscep [p. 97] tibles de s'échanger les unes les autres, d'après des
 rapports
 d'équivalence bien déterminés.
 Mais de
@@ -3738,7 +3486,7 @@ Le rôle
 éminent du principe de Carnot est précisément de
 nous assurer de l'orientation des transformations des
 systèmes , et de nous faire prévoir celles qui, seules ,
-parmi toutes les transformations a priori imaginables
+parmi toutes les transformations *a priori* imaginables
 pourront être réalisées .
 Rappelons-nous comment Clausius a analysé et
 mis au point le principe de Carnot pour l'accorder au
@@ -3761,11 +3509,7 @@ L'entropie, nous l'avons déjà signalé, est une
 fonction abstraite, déterminée uniquement par le
 calcul. Il est à peu près impossible de lui faire corres-
 pondre un contenu intuitif, si ce n'est d'une façon
-symbolique : un symbole intuitif peut être un procédé
-
-[p. 98]
-
-pratique et pédagogique commode. Il n'augmente pas
+symbolique : un symbole intuitif peut être un procédé [p. 98] pratique et pédagogique commode. Il n'augmente pas
 notre savoir. L'idéal scientifique, l'idéal de toute
 connaissance est, croyons-nous, puisqu'il s'agit en
 fin de compte de savoir quelque chose du réel, de
@@ -3803,11 +3547,7 @@ elles nous permettent d'exprimer toute la réalité
 énergétique du système .
 Si bien qu'on peut écrire une loi générale du dépla-
 cement de l'équilibre, et un théorème d'équilibre qui
-rappelle le théorème du centre de gravité de l'ancienne
-
-[p. 99]
-
-mécanique, mais qui est beaucoup plus large, et se
+rappelle le théorème du centre de gravité de l'ancienne [p. 99] mécanique, mais qui est beaucoup plus large, et se
 réduit comme lui à une recherche de minimum et de
 maximum : Toute transformation naturelle et spontanée
 tend vers une valeur maxima de l'entropie. Cette valeur
@@ -3844,11 +3584,7 @@ de ces états à l'autre , c'est-à-dire les modalités de la
 transformation, puisqu'une transformation réversible
 ne dépend que de ces deux états . Bien entendu, il faut
 que l'état initial et l'état final soient des états d'équi-
-libre, ce qui est aussi le cas général , car on peut d'or-
-
-[p. 100]
-
-dinaire diviser un système en portions qui, par un
+libre, ce qui est aussi le cas général , car on peut d'or-[p. 100]dinaire diviser un système en portions qui, par un
 isolement brusque du reste du système, seront en
 état d'équilibre.
 La formation de ces fonctions est due à Massieu et
@@ -3892,11 +3628,7 @@ condensation de toute l'histoire d'un système. Et
 c'est un des plus grands moyens à la fois de connais-
 sance, de prévision et d'utilisation que l'énergétique
 ait apportés à la science.
-Avec la première fonction, nous pouvons conclure
-
-[p. 101]
-
-qu'à température constante, la variation de telle des
+Avec la première fonction, nous pouvons conclure [p. 101] qu'à température constante, la variation de telle des
 variables indépendantes données produira une trans-
 formation qui absorbera ou dégagera de la chaleur,
 selon que la force extérieure correspondante décroîtra
@@ -3935,9 +3667,7 @@ quement avec toute l'orientation pragmatiste que [^p101-1]
 [^p101-1]: Cf. Becquerel, Thermodynamique, p. 208 sq.
 [^p101-2]: Id. , p. 210.
 
-[p. 102]
-
-nous croyons entrevoir dans la philosophie de l'éner-
+[p. 102] nous croyons entrevoir dans la philosophie de l'éner-
 gétisme. C'est ce que nous allons examiner.
 
 III
@@ -3982,9 +3712,7 @@ Or le travail mécanique est le signe du « pouvoir >>>
 dont l'énergie est susceptible. Il en est la mesure
 humaine.
 
-[p. 103]
-
-On pourra bien faire remarquer, on doit faire re-
+[p. 103] On pourra bien faire remarquer, on doit faire re-
 marquer, que, dans l'expression de Helmholtz aussi
 bien que dans les expressions de Duhem (potentiel
 thermodynamique) , la signification humaine de la
@@ -4021,11 +3749,7 @@ psychologique,la tendance de la pensée reste la même .
 Ils sont tournés tous deux vers l'utilisation humaine
 de l'énergie.
 Dans la nature, le travail mécanique n'est qu'une
-forme de l'énergie comme toutes les autres. Il n'a de
-
-[p. 104]
-
-privilège que celui qu'il prend à nos yeux d'hommes ,
+forme de l'énergie comme toutes les autres. Il n'a de [p. 104] privilège que celui qu'il prend à nos yeux d'hommes ,
 parce que c'est lui que nous utilisons, et que c'est par
 rapport à lui que nous estimons la valeur des énergies
 naturelles . En réalité la diminution du pouvoir de
@@ -4066,11 +3790,7 @@ une expression toute anthropomorphique. Elle n'a
 qu'une valeur humaine, subjective.
 Nous verrons d'ailleurs que si nous pouvions avoir
 prise sur les molécules, sur les atomes , directement et
-isolément, les choses n'auraient peut-être plus pour
-
-[p. 105]
-
-nous cette apparence inéluctable. Elles seraient en
+isolément, les choses n'auraient peut-être plus pour [p. 105] nous cette apparence inéluctable. Elles seraient en
 tout cas susceptibles d'en prendre exceptionnelle-
 ment une autre. Et la rareté de l'exception ne fait
 rien à l'affaire. Si rare qu'elle soit, elle se réalisera
@@ -4114,11 +3834,7 @@ mot utile pour lui retirer tout ce qu'il a pu de son
 caractère humain. Mais il ne l'a pas éliminé complè-
 tement. On retrouve l'emprise psychologique qui lui
 fait considérer que cette partie de l'énergie, qui reste
-capable de se transformer spontanément en travail
-
-[p. 106]
-
-mécanique, doit être mise à part, dans l'évolution de
+capable de se transformer spontanément en travail [p. 106] mécanique, doit être mise à part, dans l'évolution de
 l'énergie totale [^p106-1].
 Au fond c'est la partie d'énergie qui peut faire
 quelque chose, à notre échelle, dans le monde de
@@ -4155,9 +3871,7 @@ pragmatisme de derrière la tête.
 
 [^p106-1]: Nous aurons à revenir ultérieurement du reste sur cet effort d'objectivité qui, au moment où l'on réintègre dans la science des éléments restés jusque-là subjectifs et où l'on réhabilite certaines formes de subjectivité, perce quand même et vient réclamer sa part. Il y a là une donnée psychologique qui nous semble précieuse pour caractériser l'esprit scientifique.
 
-[p. 107]
-
-Transformation compensée et non compensée .
+[p. 107] Transformation compensée et non compensée .
 
 On pourrait dire la même chose d'une expression
 antérieure et plus générale que Clausius a tirée de la
@@ -4195,9 +3909,7 @@ l'a appelé l'énergie non compensée, tandis que la seule
 énergie calorifique absorbée dans la transformation
 réversible correspondante est l'énergie compensée.
 
-[p. 108]
-
-On les nomme encore chaleur compensée et cha-
+[p. 108] On les nomme encore chaleur compensée et cha-
 leur non compensée, si on les évalue en calories.
 L'énergie non compensée représente le travail de la
 résistance passive, c'est-à-dire l'énergie absorbée en
@@ -4234,11 +3946,7 @@ Et ce départ, nous avons été conduit à le faire par
 cette tendance psychologique qui nous amène à con-
 sidérer, à part et d'une façon privilégiée, le travail
 mécanique, la transformation en travail mécanique,
-parce que c'est celle-là qui nous intéresse, humaine
-
-[p. 109]
-
-ment parlant. Mais absolument parlant, elle est de
+parce que c'est celle-là qui nous intéresse, humaine [p. 109] ment parlant. Mais absolument parlant, elle est de
 l'énergie comme toutes les autres et doit être comptée
 sur le même rang : ce qu'affirme le principe de con-
 servation de l'énergie.
@@ -4280,9 +3988,7 @@ ambages, énergie utile. Et nous avons ici la mise en
 que nous avons soupçonné jusqu'ici, sous des déno-
 minations qui s'efforçaient d'être plus objectives.
 
-[p. 110]
-
-Il est certain que l'énergétisme, chez nombre de
+[p. 110] Il est certain que l'énergétisme, chez nombre de
 ses représentants, qui ont réfléchi sur leur doctrine,
 a donné la main au pragmatisme, à la philosophie
 de l'action. Ce n'est pas un hasard, ni une contin-
@@ -4331,11 +4037,7 @@ utilisable avec l'énergie utile, car la première n'est
 encore en général qu'une partie de la seconde. Elle
 est cette partie de l'énergie utile dont le travail n'est
 pas employé à vaincre les résistances passives, dont
-le travail est utilisé, ou utilisable à la fin que nous
-
-[p. 111]
-
-assignons au système. Le caractère de subjectivité
+le travail est utilisé, ou utilisable à la fin que nous [p. 111] assignons au système. Le caractère de subjectivité
 devient encore ici plus manifeste.
 
 VI
@@ -4375,9 +4077,7 @@ de Carnot lui-même (1 ) ». [^p111-1]
 
 [^p111-1]: Urbain, L'énergétique des réactions chimiques, p. 121.
 
-[p. 112]
-
-Un tel énoncé a été donné en 1884 par M. Le Châ-
+[p. 112] Un tel énoncé a été donné en 1884 par M. Le Châ-
 telier qui lui a attribué plus récemment la forme
 suivante : « Toute variation de l'un des facteurs de
 l'équilibre tend à produire une variation de l'état
@@ -4415,11 +4115,7 @@ changement d'équilibre dans le sens où ce change-
 ment va se produire. Mais on voit que l'interprétation
 de certains effets par le principe suppose dans la
 nature une qualité assez subjective : la résistance,
-l'opposition au sens de la transformation qui va s'ef
-
-[p. 113]
-
-fectuer, comme si la nature elle-même était contraire
+l'opposition au sens de la transformation qui va s'ef [p. 113] fectuer, comme si la nature elle-même était contraire
 au changement , et amie de la stabilité.
 Les premières formes du principe, les commentaires
 auxquels elles ont donné lieu, sont d'ailleurs à l'é-
@@ -4458,9 +4154,7 @@ blée par la tendance à voir la convention et l'arbi- [^p113-1]
 [^p113-1]: Chwolson, Traité de Physique, t. III, p. 477.
 [^p113-2]: A. Pérot, Cours de l'Ecole Polytechnique, extrait d'une citationde J. Becquerel, Thermodynamique, p. 257.
 
-[p. 114]
-
-traire dans les principes et dans les théories ,- dans
+[p. 114] traire dans les principes et dans les théories ,- dans
 tout ce qui vise à donner une signification à la loi
 scientifique, une explication et une compréhension
 de cette loi, bref un savoir philosophique,-tout cela
@@ -4499,11 +4193,7 @@ motifs sérieux. Seulement si l'on ne reconnaît pas
 que ces motifs, pour sérieux et légitimes qu'ils soient,
 ne sont tirés que d'un aspect partiel de la science, il
 faut bien alors avouer
-et l'on ne s'est pas laissé
-
-[p. 115]
-
-prier pour le faire
+et l'on ne s'est pas laissé [p. 115] prier pour le faire
 qu'on tourne le dos à la pensée
 philosophique qui avait suscité depuis la Renais-
 sance une tout autre direction de la pensée scienti-
@@ -4518,9 +4208,7 @@ est une conséquence du savoir. Elle n'en est ni la fin
 unique ni la fin suprême. Surtout, conditionnée par
 lui, elle ne le conditionne pas .
 
-[p. 116]
-
-CHAPITRE II
+[p. 116] CHAPITRE II
 
 LES EFFORTS POUR SORTIR DU SUBJECTIVISME
 SUR LE TERRAIN DE L'ÉNERGÉTISME
@@ -4580,11 +4268,7 @@ croyons-nous , un essai d'interprétation de l'énergé-
 tique sur un autre clivage.
 Ce qui donne à l'énergétisme sa couleur pragma-
 tiste et humaniste , c'est d'abord la canalisation du
-développement de la science vers les applications pra
-
-[p. 117]
-
-tiques, telle qu'elle s'aperçoit dans nombre de travaux
+développement de la science vers les applications pra [p. 117] tiques, telle qu'elle s'aperçoit dans nombre de travaux
 de l'école . C'est d'autre part et surtout, le point de
 vue qualitatif et partant subjectif - au sens carté-
 siendu mot
@@ -4624,9 +4308,7 @@ résister contre la violence que lui fait la volonté hu- [^p117-1]
 [^p117-1]: Qu'on pourrait définir la réduction des phénomènes physiques aux seuls systèmes de la mécanique rationnelle classique.
 [^p117-2]: Revue générale des Sciences, 28 février 1891 .
 
-[p. 118]
-
-maine, pour l'utiliser, a disparu. La Nature ne résiste
+[p. 118] maine, pour l'utiliser, a disparu. La Nature ne résiste
 plus . Elle n'a plus non plus cette tendance à la sta-
 bilité, cette sorte de persévérance finaliste dans l'être
 de son équilibre qui sourdissait sous le principe, et
@@ -4669,9 +4351,7 @@ là de contradiction avec le principe de Carnot. Ce der-
 (1)
 Cf. J. Becquerel, Thermodynamique, p. 257.
 
-[p. 119]
-
-EFFORTS POUR SORTIR DU
+[p. 119] EFFORTS POUR SORTIR DU
 SUBJECTIVISME
 119
 
@@ -4715,11 +4395,7 @@ nous allons chercher une expression universelle qui
 indique objectivement la façon dont toutes les trans-
 formations naturelles se comportent vis-à-vis de
 
-6
-
-[p. 120]
-
-l'action de l'opérateur : un critère objectif. Et c'est
+6 [p. 120] l'action de l'opérateur : un critère objectif. Et c'est
 cet effort caractéristique qui nous intéresse au point
 de vue philosophique, car il montre là soit une ten-
 dance de l'esprit humain, soit une manière d'être du
@@ -4758,11 +4434,7 @@ dépense du travail pour entretenir le mouvement
 périodique : le travail destiné à vaincre les résistances
 passives , d'une part, et à assurer, d'autre part, le
 rétablissement des différences de température néces-
-saires au cours des transformations internes du sys
-
-[p. 121]
-
-tème. Nous retrouvons ici le principe de Carnot et
+saires au cours des transformations internes du sys [p. 121] tème. Nous retrouvons ici le principe de Carnot et
 nous pouvons écrire, en conséquence, que le système
 est en équilibre stable lorsque l'énergie utilisable est
 minima.
@@ -4799,11 +4471,7 @@ stable. Voilà le principe absolument général destiné à
 remplacer les lois de Moutier et Robin, et le principe
 de M. Le Châtelier. Le critérium est transporté de
 l'intention de l'opérateur à la nature objective des
-modifications naturelles . On voit que l'énoncé est
-
-[p. 122]
-
-beaucoup plus objectif, et que tout le travail de
+modifications naturelles . On voit que l'énoncé est [p. 122] beaucoup plus objectif, et que tout le travail de
 M. Gouy a été dirigé par un effort opiniâtre d'objec-
 tivité, en partant de considérations subjectives et
 anthropomorphiques : l'utilisation par l'homme des
@@ -4844,9 +4512,7 @@ et non de tendances par rapport à l'action que nous
 tentons d'exercer sur elle .
 Les effets , les fins que nous poursuivons pour notre
 
-[p. 123]
-
-EFFORTS POUR SORTIR DU
+[p. 123] EFFORTS POUR SORTIR DU
 SUBJECTIVISME
 123
 
@@ -4888,11 +4554,7 @@ même, dans un but utilitaire. C'était le point le
 plus sensible . L'énergétisme sorti des spéculations
 sur la machine à feu, sur le rendement des machines ,
 sur les transformations à cycles périodiques provo-
-quées par l'homme pour utiliser au mieux possible
-
-[p. 124]
-
-toutes
+quées par l'homme pour utiliser au mieux possible [p. 124] toutes
 
 les énergies naturelles, avait tout naturellement porté
 d'abord l'empreinte de ces recherches. L'idée de
@@ -4938,9 +4600,7 @@ d'ordre tout à fait différent) , peut s'apparenter mal-
 gré tout à une tradition physique antérieure au méca-
 nisme galiléo-cartésien .
 
-[p. 125]
-
-EFFORTS POUR SORTIR DU
+[p. 125] EFFORTS POUR SORTIR DU
 SUBJECTIVISME
 125
 
@@ -4991,11 +4651,7 @@ Tout d'abord en séparant nettement la réalité physi-
 que de ce qu'ils considéraient comme l'apparence
 sensible .
 Ils substituent à des événements carac-
-térisés par les diverses impressions qu'ils font sur
-
-[p. 126]
-
-nos sens , l'étendue et le mouvement, c'est-à-dire les
+térisés par les diverses impressions qu'ils font sur [p. 126] nos sens , l'étendue et le mouvement, c'est-à-dire les
 modifications, avec le temps , du repérage dans l'éten-
 due. Pour eux le mouvement n'est rien de plus : un
 déplacement par rapport à des repères avec lesquels,
@@ -5038,9 +4694,7 @@ l'objectivité, sans être entravés par la construction
 intelligible que le mécanisme substituait à l'expé-
 rience sensible ?
 
-[p. 127]
-
-EFFORTS POUR SORTIR DU
+[p. 127] EFFORTS POUR SORTIR DU
 SUBJECTIVISME
 127
 
@@ -5089,9 +4743,7 @@ un facteur de capacité, formé de parties homogènes,
 
 [^p127-1]: Le 0 absolu étant en dehors de ces limites .
 
-[p. 128]
-
-les unes aux autres, comme toute quantité scalaire.
+[p. 128] les unes aux autres, comme toute quantité scalaire.
 Les parties par suite s'additionnent les unes avec
 les autres , en toutes proportions. Le poids en est
 l'image la plus vulgaire et la plus expressive , dans
@@ -5128,11 +4780,7 @@ la hauteur d'un son. Nous savons définir une vitesse
 double d'une autre, une température double d'une
 autre, un intervalle double d'un autre. Seulement
 tandis qu'un objet affecté d'une certaine vitesse,
-d'une certaine température, ajouté à un autre objet
-
-[p. 129]
-
-affecté de la même vitesse et de la même température
+d'une certaine température, ajouté à un autre objet [p. 129] affecté de la même vitesse et de la même température
 font deux objets et ainsi de suite, leur vitesse, leur
 température restent les mêmes .Elles n'ont pas doublé.
 Pour les doubler, il faut procéder autrement que par
@@ -5224,9 +4872,7 @@ fie pas, puisqu'on peut maintenir la spécificité quali-
 tative de chaque modalité énergétique, et la spéci-
 ficité qualitative de chacun des facteurs. Mais si nous
 
-[p. 130]
-
-:
+[p. 130] :
 
 observons la façon dont toute énergie se révèle à
 nous en créant à ses dépens du travail mécanique :
@@ -5269,11 +4915,7 @@ l'Univers . Elle le crée en suivant une loi progressive
 de nivellement .
 Certes, il reste toujours dans cette conception des
 éléments qui heurtent notre idéal d'objectivité. Nous
-y reviendrons , dans nos conclusions. Mais dès à pré-
-
-[p. 131]
-
-sent nous pouvons dire qu'un nivellement progressif
+y reviendrons , dans nos conclusions. Mais dès à pré-[p. 131]sent nous pouvons dire qu'un nivellement progressif
 entraîne une dénivellation originelle maxima . Cette
 dénivellation maxima ne paraît pas pouvoir être re-
 jetée dans le temps à l'infini, en arrière de nous, car le
@@ -5311,11 +4953,7 @@ qui est gênante au point de vue d'un idéal d'objecti-
 vité. Une seule tentative a été faite pour la réduire :
 celle de M. Selme. Et bien qu'elle aboutisse à un
 échec technique, elle a, au point de vue psycholo-
-gique, son importance. Elle décèle merveilleusement
-
-[p. 132]
-
-ce besoin d'objectivité, ressort premier de la connais-
+gique, son importance. Elle décèle merveilleusement [p. 132] ce besoin d'objectivité, ressort premier de la connais-
 sance scientifique, au sein même de l'énergétisme .
 
 VI
@@ -5354,11 +4992,7 @@ delà de l'expérience classique : Nous entendons par
 là l'ensemble admirablement cohérent des expérien-
 ces d'où est sortie la thermodynamique, et dont les
 conclusions, dans la phase de l'histoire des idées où
-nous en sommes, n'avaient jamais encore été dé-
-
-[p. 133]
-
-menties
+nous en sommes, n'avaient jamais encore été dé-[p. 133]menties
 (1 ) . La tendance est de nouveau si impé-
 rieuse , l'idéal des physiciens modernes s'impose avec
 tant de poids , que sans attendre les conclusions aux-
@@ -5396,9 +5030,7 @@ quantité de mouvement, ou de l'électricité. [^p133-1]
 
 [^p133-1]: Elles le seront ensuite par l'existence expérimentale des fluctuations, comme nous le verrons ultérieurement et par l'expérience classique qui sert d'étai à la théorie ciné- tique des gaz.
 
-[p. 134]
-
-Est-il possible d'universaliser la réversibilité, c'est-
+[p. 134] Est-il possible d'universaliser la réversibilité, c'est-
 à-dire de
 considérer
 l'irréversibilité, comme une
@@ -5438,11 +5070,7 @@ l'expérience terrestre, la seule que nous ayons à notre
 disposition, nous fait assister à la croissance, à une
 création continue, de l'entropie, c'est-à-dire à la dé-
 gradation de l'énergie, c'est que notre terre fait partie
-d'un système qui se trouve évoluer dans sa phase
-
-[p. 135]
-
-vieillissante ou caduque. Cette caducité aurait son
+d'un système qui se trouve évoluer dans sa phase [p. 135] vieillissante ou caduque. Cette caducité aurait son
 terme, non dans une fin absolue, mais dans une fin
 relative qui sera susceptible d'un processus inverse de
 régénérescence, opposé à celui de la dégénérescence.
@@ -5484,11 +5112,7 @@ nouvelle, on arrivera au résultat poursuivi par Ran-
 kine : ramener l'irréversibilité à la réversibilité, non
 plus d'une façon cyclique, mais d'une façon perma-
 nente comme nous ramenons la qualité à la figure et
-au mouvement. Voilà la voie suivie par M. Selme . Il
-
-[p. 136]
-
-s'agit en somme de réduire l'irréversibilité, et finale-
+au mouvement. Voilà la voie suivie par M. Selme . Il [p. 136] s'agit en somme de réduire l'irréversibilité, et finale-
 ment de la nier au profit de la réversibilité .
 Pour retrouver un caractère d'universalité plus
 objectif que la spécificité, Ostwald cherchait à re-
@@ -5499,7 +5123,7 @@ même, et leurs lois ont des analogies qui rétablissent
 aussi une universabilité objective. Mais, en plus, dis-
 paraît le caractère d'évolution unilatérale de toutes
 les énergies , caractère qui , lui aussi, par le terminus a
-quo et le terminus ad quem qu'il introduit, fait échec à
+quo et le *terminus ad quem* qu'il introduit, fait échec à
 l'effort vers une parfaite objectivité. L'énergie calori-
 fique se comporterait de même que l'énergie mécani-
 que . Elle présenterait les mêmes chances de transfor-
@@ -5526,11 +5150,7 @@ les moules logiques dans lesquels la raison voudrait,
 pour sa propre satisfaction, la faire entrer .
 C'est sur de tout autres raisons que M. Selme
 appuie son interprétation. Et de façon assez subtile
-pour qu'elle ait pu sourire à quelques physiciens, et
-
-[p. 137]
-
-séduire d'abord un esprit aussi averti que celui de Le
+pour qu'elle ait pu sourire à quelques physiciens, et [p. 137] séduire d'abord un esprit aussi averti que celui de Le
 Dantec .
 L'œuvre de M. Selme est double. D'abord il montre
 que le principe de Carnot tel qu'il est établi pour les
@@ -5561,17 +5181,13 @@ mique générale .
 
 VIII
 
-Déduction a priori des principes de l'énergie .
+Déduction *a priori* des principes de l'énergie .
 En affranchissant « la mécanique du préjugé selon
 lequel la matière perceptible est seule objective », on
 déduit, par les seuls moyens de l'analyse vectorielle,
 ces deux principes des principes généralisés de la
 dynamique et des équations canoniques de Lagrange .
-<<En mécanique, un système isolé, un système qui
-
-[p. 138]
-
-pourrait être considéré comme soustrait à toute dé-
+<<En mécanique, un système isolé, un système qui [p. 138] pourrait être considéré comme soustrait à toute dé-
 pendance de son entourage, aurait une énergie totale,
 somme de son énergie potentielle et de son énergie
 cinétique, constante .
@@ -5598,7 +5214,7 @@ s'accomplit le cycle... Il est indispensable que le sys-
 tème décrive bien un cycle fermé ». Et M. Selme cri-
 tique les expériences par lesquelles on a cherché à
 vérifier la constance de ce rapport, « comme si ce
-rapport n'était pas constant a priori ».
+rapport n'était pas constant *a priori* ».
 La constance de ce rapport, démontré comme un
 théorème de mécanique, n'est autre que le principe
 d'équivalence entre la chaleur et le travail .
@@ -5610,9 +5226,7 @@ torielles , a pour objet d'assurer l'objectivité parfaite
 des principes , ainsi soustraits à tout subjectivisme
 expérimental, ou à tout arbitraire méthodologique .
 
-[p. 139]
-
-EFFORTS POUR SORTIR DU
+[p. 139] EFFORTS POUR SORTIR DU
 SUBJECTIVISME
 139
 
@@ -5659,11 +5273,7 @@ M. Selme s'est efforcé d'arriver à cette conclusion
 d'une façon purement démonstrative, donc objective.
 Le détour qu'il emploie à cette fin est purement
 technique et aprioristique. Il revient en somme à dire
-ceci : en formant certaines fonctions des coordonnées
-
-[p. 140]
-
-et des vitesses des systèmes décrits d'une façon pure-
+ceci : en formant certaines fonctions des coordonnées [p. 140] et des vitesses des systèmes décrits d'une façon pure-
 ment géométrique, on peut, en partant des équations
 fondamentales de Lagrange, écrire que des grandeurs
 déterminées , dites « moments généralisés », par rap-
@@ -5673,7 +5283,7 @@ dans ces conditions déterminées, de représenter les
 extensions . Celles-ci sont donc conservatives .
 
 Ce premier résultat, M. Selme prétend le démon-
-trer a priori comme un théorème de dynamique géné-
+trer *a priori* comme un théorème de dynamique géné-
 ralisée. Dès lors il s'appliqnerait à toute expérience
 en tant que forme mathématique générale. Il aurait
 une très grande importance. L'entropie est une exten-
@@ -5701,11 +5311,7 @@ not, une extension universelle. Et il est débarrassé
 de tous les commentaires de Clausius qui en sont
 considérés comme une perpétuelle déformation.
 On voit combien est important, pour le but que
-se propose M. Selme, de faire du principe de la conser
-
-[p. 141]
-
-vation de l'énergie un simple théorème de mécanique
+se propose M. Selme, de faire du principe de la conser [p. 141] vation de l'énergie un simple théorème de mécanique
 généralisée, démontré en dehors de tout appel à
 l'expérience,
 et s'imposant à toute
@@ -5742,9 +5348,7 @@ les autres du nom des intensités en les considérant
 
 [^p141-1]: Nous sommes obligé d'employer ici quelques termes techniques sans pouvoir songer à les expliquer (il faudrait tout un cours d'analyse et de mécanique, mais cela importe peu). Nous voulons simplement donner l'impression que la méthode est exclusivement mathématique et qu'il s'agit de démonstrations a priori, more geometrico. Les résultats et conclusions, qui seuls importent, au point de vue d'une signification précise, seront énoncés en langage ordinaire.
 
-[p. 142]
-
-comme des forces généralisées, à condition, enfin,
+[p. 142] comme des forces généralisées, à condition, enfin,
 d'en déduire certaines expressions géométriques dont
 l'analyse et la mécanique nous fournissent le type,
 nous démontrons le théorème de la conservation de
@@ -5786,11 +5390,7 @@ teur de pression, un vecteur thermique, un vecteur
 de champ électrique ou magnétique, permanent ou
 en mouvement, le point matériel, le volume, l'en-
 tropie, la charge électrique ou le pôle sont mus dans
-le sens où les potentiels décroissent. Toute extension
-
-[p. 143]
-
-tend ainsi à passer des hauts aux bas niveaux...
+le sens où les potentiels décroissent. Toute extension [p. 143] tend ainsi à passer des hauts aux bas niveaux...
 Toute forme d'énergie tend à passer des endroits où
 elle a une intensité élevée à ceux où elle en a une
 moindre ; tous les phénomènes naturels sont dus à ce
@@ -5829,11 +5429,7 @@ une portée générale qui s'étend à toute forme d'é-
 nergie.
 « Les déductions exagérées que l'on a faites sur la
 
-7
-
-[p. 144]
-
-dégradation de l'énergie,
+7 [p. 144] dégradation de l'énergie,
 l'illusoire considération
 d'énergies dites nobles et le fait de ravaler la chaleur
 au rang d'une énergie de rebut, tombent dès que le
@@ -5874,9 +5470,7 @@ vent se balancer. Et nous voilà revenus au retour
 
 [^p144-1]: Selme , Principe de Carnot contre Principe de Clau- sius, p. 45, 46, 47de l'exemplaire dactylographié.
 
-[p. 145]
-
-EFFORTS
+[p. 145] EFFORTS
 POUR SORTIR DU
 SUBJECTIVISME
 145
@@ -5923,9 +5517,7 @@ d'innombrables résistances passives (des frottements [^p145-1]
 [^p145-2]: Ibid.
 [^p145-3]: Ibid.
 
-[p. 146]
-
-agissant sur lui), c'est parce que son énergie ciné-
+[p. 146] agissant sur lui), c'est parce que son énergie ciné-
 tique fuit dans l'ambiance, s'y dissémine à l'état de
 trépidations , de bruit, d'ondes diverses d'élasticité
 rayonnante ou à l'état de remous d'air, de tourbillons
@@ -5961,16 +5553,14 @@ soins . Mais cette déformation elle-même est, en der-
 nière analyse, toute subjective. Elle consiste à négliger
 certaines fuites qui par rapport au but cherché sont
 ou indifférentes ou nuisibles. Si au lieu de considérer
-isolément et in abstracto nos artifices, nous les repla-
+isolément et *in abstracto* nos artifices, nous les repla-
 çons dans la nature, si nous ne les considérons plus
 comme un empire dans un empire, bref si, au lieu de
 les considérer subjectivement, nous nous efforçons de
 
 [^p146-1]: Ibid., p. 56. -
 
-[p. 147]
-
-les considérer avec une entière objectivité, tout
+[p. 147] les considérer avec une entière objectivité, tout
 change. La chaleur et l'entropie n'ont plus aucune
 particularité spéciale. Elles sont l'une, une énergie,
 comme toutes les autres , l'autre un vecteur-extension
@@ -6009,9 +5599,7 @@ morcelant, se subdivisant jusqu'à pouvoir glisser à
 
 [^p147-1]: Ibid. , p. 75.
 
-[p. 148]
-
-travers les mailles de nos réseaux... Cependant ce
+[p. 148] travers les mailles de nos réseaux... Cependant ce
 qui est perdu pour nous ne l'est pas pour la Nature.
 Tout ce que nous lui laissons lui retourne. Et puis,
 s'il est certain que toute énergie potentielle tend à se
@@ -6052,9 +5640,7 @@ gements d'état que subit un système faisant croître [^p148-1]
 
 [^p148-1]: Ibid. , p. 79 et 80.
 
-[p. 149]
-
-sans cesse son entropie » (préface de M. P. Duhem
+[p. 149] sans cesse son entropie » (préface de M. P. Duhem
 à la Thermodynamique de M. Marchis), nous nous
 rappelons qu'une sorte de direction fatale oriente
 aussi certains résultats du calcul, lorsque ce calcul
@@ -6094,9 +5680,7 @@ que l'on sait faire l'inverse. Pour la puissance élas- [^p149-1]
 
 [^p149-1]: Ibid., p. 63 et 64.
 
-[p. 150]
-
-tique d'un gaz, mêmes possibilités réciproques, si
+[p. 150] tique d'un gaz, mêmes possibilités réciproques, si
 l'on prend les précautions que le bon sens suggère ;
 il importe que l'entourage immédiat se trouve équi-
 librer le gaz donné [^p150-1] « de même qu'un mobile peut
@@ -6136,9 +5720,7 @@ rentes, tout comme il y a disparition d'énergie de
 [^p150-1]: Ibid. , p. 77.
 [^p150-2]: Ibid. , p. 70 et 71.- (3) Ibid., p. 73. - (4) Ibid. , p. 74. - (5) Ibid., p. 77.
 
-[p. 151]
-
-EFFORTS POUR SORTIR DU
+[p. 151] EFFORTS POUR SORTIR DU
 SUBJECTIVISME
 151
 
@@ -6183,9 +5765,7 @@ C'est manifestement (presque toutes les lignes des
 [^p151-2]: Ibid., p. 1.
 [^p151-3]: Ibid. , p. 83.
 
-[p. 152]
-
-dernières citations que nous avons faites le procla-
+[p. 152] dernières citations que nous avons faites le procla-
 ment) pour donner à l'énergétisme un caractère objec-
 tif complet, pour le dépouiller de tout anthropomor-
 phisme tiré des applications de la science, pour rem-
@@ -6231,9 +5811,7 @@ ment apparent de la quantité d'électricité : « des
 électriciens ne confondent pas la charge ou masse
 d'électricité libre (et variable selon le diélectrique)
 
-[p. 153]
-
-EFFORTS POUR SORTIR DU
+[p. 153] EFFORTS POUR SORTIR DU
 SUBJECTIVISME
 153
 
@@ -6272,7 +5850,7 @@ et sa troisième raison ont disparu .
 Or,les hypothèses de M.Selme sur la conservation de
 l'entropie sont précisément de ce dernier ordre . Elles
 sont inventées pour forcer l'expérience qui y répugne ,
-à cadrer avec une déduction a priori . Cela est si vrai,
+à cadrer avec une déduction *a priori* . Cela est si vrai,
 que M. Selme nous propose deux moyens, au choix,
 de concilier sa déduction, plus précisément sa thermo-
 dynamique rationnelle, avec l'expérience : « 1º quand
@@ -6281,9 +5859,7 @@ système où il semblait n'en pas exister auparavant,
 
 [^p153-1]: Ibid. , p. 58.
 
-[p. 154]
-
-cela peut être dû [^p154-1] à ce que cette entropie ou ces
+[p. 154] cela peut être dû [^p154-1] à ce que cette entropie ou ces
 coulombs, invariables de quantité, ne deviennent per-
 ceptibles que parce que l'intensité où ils sont portés
 devient assez haute pour leur faire franchir un seuil
@@ -6322,11 +5898,7 @@ arbitrairement la constitution d'un système tel que
 les compensations indécelables, imaginées de toutes
 pièces, comblent exactement l'écart avec les expé-
 
-[^p154-1]: C'est nous qui soulignons l'expression où s'étale l'arbitraire que ne soutient aucune expérience,
-
-[p. 155]
-
-EFFORTS POUR SORTIR DU
+[^p154-1]: C'est nous qui soulignons l'expression où s'étale l'arbitraire que ne soutient aucune expérience, [p. 155] EFFORTS POUR SORTIR DU
 SUBJECTIVISME
 155
 
@@ -6375,11 +5947,7 @@ pas en croissant, si, comme de juste, le système « isolé »
 comprend tous les systèmes qui interviennent à un
 titre quelconque dans l'expérience .
 Tous reposent sur ce postulat commun : n'arriver
-au résultat cherché, en partant des conditions don
-
-[p. 156]
-
-nées , que par des transformations réversibles, des
+au résultat cherché, en partant des conditions don [p. 156] nées , que par des transformations réversibles, des
 cycles de Carnot. Mais nous savions d'avance que si
 nous n'opérons que par des modifications réversi-
 bles , l'entropie se conservera. L'intégrale de Clausius
@@ -6422,9 +5990,7 @@ que dans toute modification irréversible, l'entropie
 
 [^p156-1]: Revue Scientifique ( Revue Rose) , 11-18-25 août 1917.
 
-[p. 157]
-
-EFFORTS POUR SORTIR DU
+[p. 157] EFFORTS POUR SORTIR DU
 SUBJECTIVISME
 157
 
@@ -6469,9 +6035,7 @@ concevoir des lignes droites et des cercles parfaits .
 Les mécaniciens raisonnent, quatre-vingt-dix-neuf
 fois sur cent,comme si les frottements n'existaient pas .
 
-[p. 158]
-
-Ce qu'ils étudient les uns et les autres, ce sont des cas
+[p. 158] Ce qu'ils étudient les uns et les autres, ce sont des cas
 limites , imaginaires, débarrassés de toutes les compli-
 cations inhérentes au réel.
 << Les thermodynamistes doivent, de même, s'ha-
@@ -6511,9 +6075,7 @@ créée . Où se trouve la source froide d'où cette entro- [^p158-1]
 [^p158-1]: Michaud, loc, cit., p. 495-496.
 [^p158-2]: Ibid. , p. 492.
 
-[p. 159]
-
-EFFORTS POUR SORTIR DU
+[p. 159] EFFORTS POUR SORTIR DU
 SUBJECTIVISME
 159
 
@@ -6556,9 +6118,7 @@ tion. Que devient le travail de la résistance passive ? [^p159-1]
 [^p159-1]: Ibid. , p. 493 .
 [^p159-2]: Selme, op. cit., p. 58.
 
-[p. 160]
-
-...
+[p. 160] ...
 
 Le travail de la résistance ohmique se retrouve dans
 la chaleur de Joule. Comme il n'y aurait pas d'accrois-
@@ -6598,11 +6158,7 @@ même vice radical de méthode : l'appel à l'arbitraire
 invisible, que n'a jamais décelé aucune expérience, [^p160-1]
 
 [^p160-1]: Selme, op. cit., p. 58.
-[^p160-2]: Ibid. , p. 62,
-
-[p. 161]
-
-EFFORTS POUR SORTIR DU
+[^p160-2]: Ibid. , p. 62, [p. 161] EFFORTS POUR SORTIR DU
 SUBJECTIVISME
 161
 
@@ -6622,7 +6178,7 @@ l'effort de l'énergétisme. Ne perdons pas, dans les
 constructions nouvelles, ce gain méthodologique in-
 contestable de tout le mouvement de pensée que nous
 avons analysé ici. Surtout ne perdons pas ce précieux
-avantage sur l'ontologisme a priori du mécanisme
+avantage sur l'ontologisme *a priori* du mécanisme
 traditionnel : Ne construire nos théories que pour
 l'expérience, et non torturer l'expérience ou y ajouter
 arbitrairement pour confirmer nos théories. Nous
@@ -6645,11 +6201,7 @@ moins en première apparence, en apparence globale
 comme nous verrons bientôt .
 D'après la thermodynamique traditionnelle, empor-
 tée, par son élan, comme il est naturel, dans sa criti-
-que du mécanisme, de la pensée mécaniste surtout,
-
-[p. 162]
-
-plus loin qu'il ne convenait, « l'énergie calorifique,
+que du mécanisme, de la pensée mécaniste surtout, [p. 162] plus loin qu'il ne convenait, « l'énergie calorifique,
 même dans le cas des transformations réversibles,
 apparaîtrait comme une forme inférieure, dégradée
 de l'énergie. Essayons de montrer qu'il n'en est rien .
@@ -6689,9 +6241,7 @@ d'échauffer ou de refroidir réversiblement un corps [^p162-1]
 
 [^p162-1]: Michaud, op. cit. , p. 494.
 
-[p. 163]
-
-EFFORTS POUR SORTIR DU
+[p. 163] EFFORTS POUR SORTIR DU
 SUBJECTIVISME
 163
 
@@ -6734,9 +6284,7 @@ proximation du moins, tout notre Univers réel. [^p163-1]
 [^p163-1]: Ibid. , p. 494 et 495.
 [^p163-2]: B. Brunhes, La dégradation de l'énergie, Bibliothèque de philosophie scientifique, Paris, Flammarion, 1908.
 
-[p. 164]
-
-Mais il faut tout de même admettre la réserve que
+[p. 164] Mais il faut tout de même admettre la réserve que
 nous avons faite, car nous allons voir avec la théorie
 cinétique des gaz, cet Univers se doubler d'un Univers
 qui le sous-tend, est aussi réel que lui, puisqu'il ne fait
@@ -6774,11 +6322,7 @@ d'hui corps avec elle : l'accroissement de l'entropie
 dans le monde réel. Si donc il y a un pas de fait vers le
 retour éternel, en ce sens que les systèmes astronomi-
 ques sont capables de retrouver, pour ainsi dire, leur
-qualité énergétique, ce rehaussement n'est que re-
-
-[p. 165]
-
-EFFORTS POUR SORTIR DU
+qualité énergétique, ce rehaussement n'est que re-[p. 165]EFFORTS POUR SORTIR DU
 SUBJECTIVISME
 165
 
@@ -6823,9 +6367,7 @@ de l'astre , doivent s'échapper de l'atmosphère et de la
 
 [^p165-1]: Comme il est à peu près certain, ainsi que nous le verrons à la fin de ce travail.
 
-[p. 166]
-
-sphère de gravitation de l'astre. Dans les nébuleuses
+[p. 166] sphère de gravitation de l'astre. Dans les nébuleuses
 où la gravité est très faible, le phénomène doit se pro-
 duire sur unegrande échelle .
 Or ces molécules à grande vitesse et à grande force
@@ -6866,9 +6408,7 @@ tion .
 [^p166-1]: Arrhenius, L'évolution des mondes , p. 207.
 [^p166-2]: Journal de Chimie physique, 1919, p. 616.
 
-[p. 167]
-
-EFFORTS POUR SORTIR DU
+[p. 167] EFFORTS POUR SORTIR DU
 SUBJECTIVISME
 167
 
@@ -6911,9 +6451,7 @@ Le résultat qu'impose le calcul dans les circons- [^p167-1]
 
 [^p167-1]: Id., p. 210. 8
 
-[p. 168]
-
-.
+[p. 168] .
 
 tances très particulières où sont les masses de gaz qui
 constituent nos deux nébuleuses, c'est que l'écart des
@@ -6958,9 +6496,7 @@ rences de températures deviendront plus petites, un
 
 [^p168-1]: Thermodynamique, p. 256.
 
-[p. 169]
-
-temps admettant l'infini pour limite, comme l'a bien
+[p. 169] temps admettant l'infini pour limite, comme l'a bien
 montré H. Poincaré. Sans fin encore, car le 0 absolu
 est une limite asymptotique placée à l'infini par la
 façon même dont est établie l'échelle thermodyna-
@@ -6987,9 +6523,7 @@ où le jeu des combinaisons, à lui seul, peut et doit
 faire ressortir l'ordre, si rares que soient les combi-
 naisons qui ramènent de l'ordre .
 
-[p. 171]
-
-DEUXIÈME PARTIE
+[p. 171] DEUXIÈME PARTIE
 
 LE RETOUR AU RETOUR ÉTERNEL
 
@@ -7035,9 +6569,7 @@ L'équipartition de l'énergie .
 La troisième étape : les gaz réels.
 X. - L'équation de Van der Waals .
 
-[p. 172]
-
-Les raisons du recul de l'énergétisme
+[p. 172] Les raisons du recul de l'énergétisme
 sur le terrain scientifique.
 
 Est-ce pour des raisons théoriques que l'énergéti-
@@ -7073,11 +6605,7 @@ tance relative grandissait de plus en plus en physique
 par rapport au reste.
 Quant à la théorie de la connaissance qui sous-tend
 l'énergétisme positiviste et pragmatiste, redisons-le ,
-elle n'a jamais été admise parles physiciens que jus-
-
-[p. 173]
-
-qu'à un certain point. Qu'il ne faille pas donner un
+elle n'a jamais été admise parles physiciens que jus-[p. 173]qu'à un certain point. Qu'il ne faille pas donner un
 sens ontologique à toutes les représentations, surtout
 aux détails des représentations, qu'il faille dire en gros
 pour reprendre sous une autre forme plus générale
@@ -7114,11 +6642,7 @@ tique, il paraît alors presque comme la seule attitude
 possible. C'est ce qui est arrivé, avec la ruine du mé-
 canisme traditionnel, et qui a rallié au positivisme
 tant de savants par probité. Mais il en restait quel-
-ques autres, tout aussi probes, qui persévéraient
-
-[p. 174]
-
-dans l'autre voie (heureusement encore, car les gran-
+ques autres, tout aussi probes, qui persévéraient [p. 174] dans l'autre voie (heureusement encore, car les gran-
 des découvertes sont le plus souvent parties de là) .
 Pour le plus grand biende la science donc, à propor-
 tions variables, il y a toujours eu des esprits aventu-
@@ -7162,11 +6686,7 @@ théoriciens représentaientjustement la tendance criti-
 que dans la physique mécaniste. Celle-ci devait alors
 se construire mathématiquement dans la forme des
 équations de la mécanique, en laissant de côté les
-corpuscules, les atomes, les masses invisibles, héritage
-
-[p. 175]
-
-de Galilée, de Descartes [^p175-1], de Huyghens, des Ber-
+corpuscules, les atomes, les masses invisibles, héritage [p. 175] de Galilée, de Descartes [^p175-1], de Huyghens, des Ber-
 nouilli, ou les forces centrales, les forces attractives et
 répulsives sorties de l'école Newtonienne. Mais dès
 que le mécanisme essayait de comprendre et de se
@@ -7202,9 +6722,7 @@ Le premier ordre de discussions est précieux, car il a
 [^p175-1]: Pour Descartes, l'état corpusculaire de la matière était un état second produit dans un état primitif où la matière est un continu (l'espace et le plein).
 [^p175-2]: Nous ne voulons ici ni exposer d'une façon technique la théorie cinétique des gaz, ni en faire une vulgarisation, mais retenir seulement de cette théorie les points qui nous paraissent plus particulièrement intéresser la réflexion phi- losophique.
 
-[p. 176]
-
-amené des précisions, des clartés graduelles dans la
+[p. 176] amené des précisions, des clartés graduelles dans la
 théorie.
 Il l'a débarrassée peu à peu des questions
 oiseuses et gênantes sur lesquelles porte principale-
@@ -7245,11 +6763,7 @@ prenons pas pour éternelles, et ayons grand soin de
 les ignorer, quand nous essayons de nous représenter
 philosophiquement son vivant organisme .
 C'est le sort commun de toutes les théories scienti-
-fiques et la condition de tout progrès dans la science :
-
-[p. 177]
-
-on cherche à comprendre avant que de connaître,
+fiques et la condition de tout progrès dans la science : [p. 177] on cherche à comprendre avant que de connaître,
 nous voulons dire avant qu'on ait dans les mains tous
 les éléments nécessaires à la compréhension, si ja-
 mais , même sur la question la plus simple, on peut
@@ -7286,11 +6800,7 @@ leur nature que la loi de Mariotte venait de mettre
 sous tous les yeux ? Une alternative se pose : la struc-
 ture des gaz est continue ou discontinue. La considé-
 rerons-nous en hypostasiant directement leur force
-élastique, comme continue : grossièrement un tissu
-
-[p. 178]
-
-de caoutchouc, une multitude de petits ressorts en
+élastique, comme continue : grossièrement un tissu [p. 178] de caoutchouc, une multitude de petits ressorts en
 contact permanent ? A la rigueur une telle représen-
 tation pourrait rendre compte de quelques effets ,
 entre des limites très étroites. Mais comment expli-
@@ -7327,11 +6837,7 @@ quatre fois plus nombreux : la pression croît du dou-
 ble, du triple, du quadruple et ainsi de suite. Inver-
 sement, si le volume du récipient augmente du dou-
 ble, ou triple, ou quadruple, le nombre des chocs
-diminue à tout instant en même proportion et par
-
-[p. 179]
-
-suite la pression. Nous avons la loi de Boyle-Ma-
+diminue à tout instant en même proportion et par [p. 179] suite la pression. Nous avons la loi de Boyle-Ma-
 riotte.
 
 Du même coup, nous avons la représentation re-
@@ -7370,11 +6876,7 @@ Nous comprenons du même coup que les gaz rem-
 plissent presque immédiatement toutes les capacités
 qu'on leur offre, la vitesse de ces molécules étant fort
 grande (de l'ordre de celle d'une balle de fusil) . Nous
-comprenons encore leur diffusion les uns dans les
-
-[p. 180]
-
-autres , ainsi que l'égalisation immédiate de leur tem-
+comprenons encore leur diffusion les uns dans les [p. 180] autres , ainsi que l'égalisation immédiate de leur tem-
 pérature quand on les mélange, en les prenant à des
 températures différentes .
 Il y a plus : cette image nous fait même toucher du
@@ -7417,16 +6919,12 @@ nous
 représente
 les
 résultantes
-moyennes d'une quantité immense d'actions, de faits
-
-[p. 181]
-
-particuliers , dont il est impossible d'atteindre les
+moyennes d'une quantité immense d'actions, de faits [p. 181] particuliers , dont il est impossible d'atteindre les
 presque innombrables individualités . Une « forme >>
 mathématique : entendons par là un ensemble théo-
 rique qui permet de formuler en les reliant entre elles
 les lois qui nous sont apportées par l'expérience.
-Partant, on sera capable de calculer a priori les ré-
+Partant, on sera capable de calculer *a priori* les ré-
 sultats des mesures expérimentales et, s'il y a lieu,
 des applications techniques. De ces formes mathé-
 matiques , la théorie cinétique des gaz réalise l'une
@@ -7446,7 +6944,7 @@ hypothèses du départ, conçues pourtant en dehors
 de toute expérience. Si bien que le tissu si fin, si sim-
 ple, si l'on n'en considère que les fils, si compliqué
 bientôt dès qu'ils s'entrelacent dans la trame, ce tissu
-arrive, a priori, à reproduire les arabesques des expé-
+arrive, *a priori*, à reproduire les arabesques des expé-
 riences de deux siècles, sur les objets en première
 apparence les plus différents. Il les enveloppe à peu
 près sans plis ni déchirures .
@@ -7459,11 +6957,7 @@ de Maxwell.
 C'est d'abord le théorème de distribution des vi-
 tesses dû à Maxwell. Une hypothèse le domine et le
 conditionne, ou plutôt c'est l'hypothèse même - au
-sens que donne la méthodologie mathématique à ce
-
-[p. 182]
-
-mot
+sens que donne la méthodologie mathématique à ce [p. 182] mot
 
 -
 
@@ -7508,11 +7002,7 @@ le symbole de la sphère d'action immédiate (aux dis-
 tances très petites du centre de gravité) , elle est peut-
 être plus voisine de la réalité qu'on serait d'abord
 tenté de le croire . L'état de chaos moléculaire n'est
-autre chose que le concept de gaz parfait, dans la
-
-[p. 183]
-
-théorie cinétique : l'ensemble des phénomènes phy-
+autre chose que le concept de gaz parfait, dans la [p. 183] théorie cinétique : l'ensemble des phénomènes phy-
 siques qu'on peut considérer comme résultant de
 l'intervention d'un très grand nombre de molécules
 quasi-ponctuelles et qui obéissent aux lois de la
@@ -7550,11 +7040,7 @@ voisines que l'on veut de la régularité et de la néces-
 sité parfaites , à mesure que croît le nombre des indi-
 vidus sur lesquels elles portent. L'hypothèse du chaos
 moléculaire réclame premièrement que les mouve-
-ments et les chocs moléculaires ne modifient pas la
-
-[p. 184]
-
-densité moléculaire du gaz , c'est-à-dire le nombre des
+ments et les chocs moléculaires ne modifient pas la [p. 184] densité moléculaire du gaz , c'est-à-dire le nombre des
 molécules par élément de volume du gaz. Deuxième-
 ment , elle exige que « dans chaque élément de volume,
 les molécules possèdent des vitesses dont les direc-
@@ -7599,9 +7085,7 @@ de Maxwell , dont la démonstration ne laisse plus rien
 
 [^p184-1]: Bloch, La théorie cinétique des gaz, p. 7.
 
-[p. 185]
-
-et de Jeans. Elle est d'ailleurs infinie par l'ensemble
+[p. 185] et de Jeans. Elle est d'ailleurs infinie par l'ensemble
 de ses conséquences
 expérimentales . Le théorème
 a pour but d'établir l'expression du nombre des
@@ -7640,11 +7124,7 @@ sité du gaz et son volume, son poids par unité de
 volume, on pourra immédiatement former les expres-
 sions mécaniques fondamentales : sa pression
 et
-son énergie moléculaire, en fonction de la masse et de
-
-[p. 186]
-
-la vitesse des molécules. Ici encore on va atteindre des
+son énergie moléculaire, en fonction de la masse et de [p. 186] la vitesse des molécules. Ici encore on va atteindre des
 formules globales , des moyennes qui se trouveront
 vérifiées par des expériences globales, à notre échelle .
 Elles résultent d'une multitude d'éléments indivi-
@@ -7692,9 +7172,7 @@ ou vitesse efficace, dont on déduit facilement la vi-
 tesse moyenne dont nous avons parlé d'abord et qui
 en est à très peu près les douze treizièmes.
 
-[p. 187]
-
-Il est alors très facile sans aucune hypothèse nou-
+[p. 187] Il est alors très facile sans aucune hypothèse nou-
 velle, d'évaluer l'énergie moléculaire totale d'une
 masse donnée d'un gaz parfait . Nous connaissons sa
 masse qui est la somme des masses de ses molécules et
@@ -7731,11 +7209,7 @@ de liquéfaction du gaz, c'est-à-dire encore, aussi près
 que possible des conditions du chaos moléculaire dé-
 signé sous le nom de gaz parfait. De là, il résulte que
 le nombre des molécules dans tous les gaz peut être
-considéré pratiquement comme identique pour un
-
-[p. 188]
-
-même volume, une même température et une même
+considéré pratiquement comme identique pour un [p. 188] même volume, une même température et une même
 pression (Loi d'Avrogado et d'Ampère) .
 
 VI
@@ -7774,11 +7248,7 @@ mêmes conditions de température et de pression.
 Les gaz quelle que soit leur densité se comportent
 donc comme s'ils étaient constitués par le même
 nombre d'éléments moléculaires. Ce nombre qui est
-une constante universelle est le nombre ou la cons-
-
-[p. 189]
-
-tante d'Avrogado-Ampère dont nous
+une constante universelle est le nombre ou la cons-[p. 189]tante d'Avrogado-Ampère dont nous
 venons de
 parler.
 Les mesures expérimentales extrêmes de ce nom-
@@ -7816,11 +7286,7 @@ rigoureusement sur les principes de la mécanique
 rationnelle et sur les lois du choc élastique d'une part,
 sur le calcul des probabilités d'autre part, voilà en
 quoi consiste la théorie cinétique des gaz, et voilà ce
-qui nous permet d'atteindre, avec une approximation
-
-[p. 190]
-
-sans cesse grandissante, les lois expérimentales. A
+qui nous permet d'atteindre, avec une approximation [p. 190] sans cesse grandissante, les lois expérimentales. A
 son aide, nous pouvons exprimer les grandes lois déjà
 connues . A son aide nous avons pu en prévoir d'au-
 tres, comme ce fait surprenant, au premier abord,
@@ -7860,9 +7326,7 @@ de l'état gazeux. Elle ne porte que sur les résultantes
 les plus superficielles, si l'on peut dire : elle n'ex-
 prime que des moyennes-enveloppes .
 
-[p. 191]
-
-Il nous faut maintenant considérer les molécules
+[p. 191] Il nous faut maintenant considérer les molécules
 du gaz. Et dans une seconde enveloppe, en quelque
 sorte intérieure à la première, nous prendrons en
 considération sa composition
@@ -7908,11 +7372,7 @@ de la nature des gaz, et leur rapport conserver une
 valeur invariable =
 = 1,666. C'est ce que l'expé
 
-9
-
-[p. 192]
-
-rience confirme de la façon la plus remarquable, pour
+9 [p. 192] rience confirme de la façon la plus remarquable, pour
 les gaz monoatomiques .
 
 Argon
@@ -7985,9 +7445,7 @@ de rotation propres à la molécule et aux atomes qui
 
 [^p192-1]: Nous empruntons ces nombres à Eug. Bloch, Théorie cinétique des gaz, p. 161 .
 
-[p. 193]
-
-la composent, à côté de ses mouvements de transla-
+[p. 193] la composent, à côté de ses mouvements de transla-
 tion par rapport aux autres molécules .
 L'expérience montre alors que les chaleurs molé-
 culaires ne sont plus absolument indépendantes des
@@ -8028,11 +7486,7 @@ L'équipartition de l'énergie.
 
 L'interprétation de ce fait a conduit Maxwell et
 Boltzmann au principe de l'équipartition de l'énergie.
-Il est très difficile de donner de ce principe une
-
-[p. 194]
-
-interprétation qui ne soitpas d'ordre exclusivement
+Il est très difficile de donner de ce principe une [p. 194] interprétation qui ne soitpas d'ordre exclusivement
 mathématique sans en fausser la signification. Et
 cependant notre effort doit viser à chercher, si elles
 en ont une, la signification réelle, de formules qui
@@ -8070,11 +7524,7 @@ place à aucune équivoque, c'est-à-dire aux para-
 mètres qui sont indépendants les uns des autres .
 Tous les événements qui concernent la trajectoire
 d'une molécule, son mouvement de translation, pour-
-ront être assignés en les rapportant au trièdre de
-
-[p. 195]
-
-référence de la géométrie analytique, c'est-à-dire aux
+ront être assignés en les rapportant au trièdre de [p. 195] référence de la géométrie analytique, c'est-à-dire aux
 coordonnées de la position de la molécule, à chaque
 instant selon les trois dimensions de l'espace. Et ces
 trois paramètres nécessaires sont suffisants . Si nous
@@ -8113,9 +7563,7 @@ générale [^p195-1]
 
 [^p195-1]: Les dérivées de ces trois coordonnées par rapport au temps.
 
-[p. 196]
-
-que l'énergie cinétique moyenne par rapport à l'une
+[p. 196] que l'énergie cinétique moyenne par rapport à l'une
 quelconque des coordonnées de vitesse possède une
 valeur invariable identique pour chacune de ces coor-
 
@@ -8156,11 +7604,7 @@ toujours parR la constantedesgaz parfaits2= 2,97
 
 et son rapport avecla chaleur spécifique sous pression
 constante qui est voisine de 5 est d'après le calcul
-de 53 (1,666) ; ce qui, nous l'avons vu, estbien lenom-
-
-[p. 197]
-
-bre autour duquel oscillent de très près toutes les
+de 53 (1,666) ; ce qui, nous l'avons vu, estbien lenom-[p. 197]bre autour duquel oscillent de très près toutes les
 mesures expérimentales .
 Avec les gaz diatomiques l'énergie se répartit
 autrement , puisqu'elle est absorbée en partie par les
@@ -8214,11 +7658,7 @@ simple dans la répartition de cette énergie selon les
 différents paramètres, nécessaires et suffisants pour
 définir le mouvement de la molécule : de telle façon
 que les deux coefficients de chaleur spécifique sous
-volume constant et sous pression constante soient
-
-[p. 198]
-
-eux-mêmes des rapports constants, pour chaque type
+volume constant et sous pression constante soient [p. 198] eux-mêmes des rapports constants, pour chaque type
 moléculaire. Et l'expérience vérifie remarquablement
 les résultats du calcul .
 Au degré d'approximation où nous sommes , puis-
@@ -8257,11 +7697,7 @@ Et maintenant à l'intérieur encore de cette seconde
 enveloppe, nous allons atteindre des moyennes plus
 serrées encore . Nous allons tenir compte des particu-
 larités qui séparent en bloc les gaz réels des gaz
-parfaits . L'expérience depuis longtemps avait révélé
-
-[p. 199]
-
-des écarts systématiques avec les lois générales des
+parfaits . L'expérience depuis longtemps avait révélé [p. 199] des écarts systématiques avec les lois générales des
 gaz, lorsque la température de ceux-ci s'abaissait
 près du point de liquéfaction, ou lorsque la pression
 devenait très forte, ce qui d'ailleurs rapproche égale-
@@ -8298,11 +7734,7 @@ gazeuse sont plus voisines, c'est-à-dire à mesure qu'on
 se rapproche du changement de l'état gazeux à l'état
 liquide, soit que la pression augmente, soit que la
 température s'abaisse .
-L'expérience ici, comme ailleurs, ne nous renseigne
-
-[p. 200]
-
-que d'une manière globale. Elle est à notre échelle ;
+L'expérience ici, comme ailleurs, ne nous renseigne [p. 200] que d'une manière globale. Elle est à notre échelle ;
 partant
 elle
 est grossièrement synthétique.
@@ -8353,11 +7785,7 @@ même un édifice, très complexe. Bien plus d'après nos
 idées actuelles sur la matière, sur l'atome, ce n'est
 pas seulement la forme réelle et matérielle de celui-ci
 (si elle existe) qui importe, c'est ce qu'on a appelé
-sa sphère de protection, la région d'espace, qu'il
-
-[p. 201]
-
-rend impénétrable dans les conditions ordinaires à
+sa sphère de protection, la région d'espace, qu'il [p. 201] rend impénétrable dans les conditions ordinaires à
 une force donnée, ici, aux forces que développent les
 autres corpuscules similaires dans leur course.
 Cette sphère de protection à la périphérie de
@@ -8394,11 +7822,7 @@ correction de même sens qui vient s'ajouter à la
 première.
 Le résultat c'est que le volume total ne peut plus
 se réduire d'une façon strictement parallèle à l'aug-
-mentation des pressions. Il reste toujours plus grand ,
-
-[p. 202]
-
-puisque sa partie incompressible, irréductible, grandit
+mentation des pressions. Il reste toujours plus grand , [p. 202] puisque sa partie incompressible, irréductible, grandit
 sans cesse aux dépens de l'espace libre. Jusqu'à ce
 que tout l'espace libre étant supprimé au bénéfice
 des sphères moléculaires incompressibles qui l'occu-
@@ -8438,9 +7862,7 @@ mais il n'en est pas de même contre la paroi. Ici des
 
 [^p202-1]: « Tout se passe comme si le volume total du gaz était simplement diminué de la quantité b, représentant le vo- lume propre des molécules » : P (V-b) = RT. b s'appelle la constante de covolume. En réalité les corrections ulté- ricures de la théorie n'en feront plus une constante.
 
-[p. 203]
-
-forces attractives non compensées doivent se manifes-
+[p. 203] forces attractives non compensées doivent se manifes-
 ter vers l'intérieur, puisque du côté de la paroi il n'y
 a plus de molécules,donc point de forces attractives
 vers l'extérieur. Ces forces tendent nécessairement à
@@ -8455,7 +7877,7 @@ nérale des gaz parfaits, à mesure que ce volume dimi-
 nue lui-même . D'où un nouveau terme de correction
 qui s'ajoute au précédent et nous donne l'équation
 de Van der Waals (1) .
-Les termes sont déterminés a priori, évidemment,
+Les termes sont déterminés *a priori*, évidemment,
 mais en vertu d'hypothèses logiques. Ces hypothèses
 logiques sont bien les substituts
 d'actions
@@ -8484,9 +7906,7 @@ a
 c'est l'équation de Van der Waals .
 (2) Par exemple pour les isothermes des gaz.
 
-[p. 204]
-
-En particulier l'équation nous permet d'assigner
+[p. 204] En particulier l'équation nous permet d'assigner
 très exactement pour celui des gaz réels dont les irré-
 gularités ont les premières attiré l'attention, le gaz
 carbonique, les courbes isothermes trouvées expéri-
@@ -8522,11 +7942,7 @@ logique de faits bruts de l'expérience (ici les lois de
 Mariotte et de Gay-Lussac), et à déduire de cette hy-
 pothèse par le calcul certaines conséquences qui se
 
-[^p204-1]: P (V - b) = RTe a RTV
-
-[p. 205]
-
-prêtent à la vérification, à la corroboration expéri-
+[^p204-1]: P (V - b) = RTe a RTV [p. 205] prêtent à la vérification, à la corroboration expéri-
 mentales . Il y a d'ailleurs choc en retour , action et
 réaction continues, entre la construction et les con-
 frontations avec l'expérience,amendements incessants
@@ -8551,9 +7967,7 @@ Mais , somme toute, cela recouvre la plus grande
 partie des phénomènes relatifs à l'état gazeux d'u
 vêtement convenablement mesuré sur l'expériend .
 
-[p. 206]
-
-CHAPITRE II
+[p. 206] CHAPITRE II
 
 LE CINÉTISME A LA POURSUITE DU RÉEL
 
@@ -8579,7 +7993,7 @@ tales de la théorie qui nous permettent de serrer de
 plus en plus la constitution des gaz réels, en partant
 de l'image idéale des gaz parfaits . C'est une logique
 construite à partir de prémisses rationnelles , d'abord
-posées a priori. Elle rejoint de proche en proche la
+posées *a priori*. Elle rejoint de proche en proche la
 réalité physique, en tenant compte à mesure des com-
 plexités qui, logiquement, raisonnablement, doivent
 s'ajouter à l'extrême simplisme du point de départ ,
@@ -8598,9 +8012,7 @@ ces
 actions . Les gaz seraient sans frottement intérieur,
 sans viscosité .
 
-[p. 207]
-
-Or, les gaz réels ont tous une certaine viscosité.
+[p. 207] Or, les gaz réels ont tous une certaine viscosité.
 Plongeons dans une enceinte occupée par un gaz
 deux lames planes parallèles, de grande surface,
 et très rapprochées l'une de l'autre. Si nous dépla-
@@ -8639,11 +8051,7 @@ large lame introduit dans la masse gazeuse, primi-
 tivement en équilibre statistique, les diverses couches
 gazeuses que nous pouvons découper parallèlement
 aux lames n'ont plus de vitesse moyenne identique.
-La vitesse de la lame augmente celle des couches qui
-
-[p. 208]
-
-se trouvent derrière elle (donc entre les deux lames)
+La vitesse de la lame augmente celle des couches qui [p. 208] se trouvent derrière elle (donc entre les deux lames)
 et d'une façon proportionnelle à leur distance de la
 lame (comme le vérifie l'expérience). La seconde pla-
 que est donc entraînée dans le sens du mouvement
@@ -8681,11 +8089,7 @@ Le parcours moyen est inversement proportionnel
 à la densité du gaz à température constante ; il est
 donc inversement proportionnel à la pression : moins
 est grand le volume occupé par un même nombre
-de molécules et plus sont fréquentes les rencontres
-
-[p. 209]
-
-entre elles, donc moindres les distances parcourues
+de molécules et plus sont fréquentes les rencontres [p. 209] entre elles, donc moindres les distances parcourues
 entredeux de ces rencontres : ceci est presque intuitif.
 Mais alors le coefficient de viscosité du gaz doit
 être à peu près indépendant de la pression, puisque
@@ -8724,11 +8128,7 @@ les pressions moyennes , soit les conclusions tirées
 de la théorie cinétique. Il est logique qu'alors le
 rapprochement des molécules, et les forces inter-
 moléculaires qui en naissent, introduisent des effets
-nouveaux qui se superposent à ceux de l'état d'un
-
-[p. 210]
-
-gaz beaucoup plus proche de cet état idéal qu'on a
+nouveaux qui se superposent à ceux de l'état d'un [p. 210] gaz beaucoup plus proche de cet état idéal qu'on a
 appelé parfait.
 
 III
@@ -8767,9 +8167,7 @@ atomique des gaz. Avec les gaz dont l'atomicité est
 
 [^p210-1]: Qu'il ne faut pas confondre avec la vitesse quadra- tique moyenne,supérieure d'environ 1/13e à celle-ci, ni avec la vitesse la plus probable qui lui est au contraire inférieure.
 
-[p. 211]
-
-supérieure à 2,
+[p. 211] supérieure à 2,
 l'expérience s'avère d'ailleurs plus
 flottante, quand on la rapporte aux résultats du
 calcul. Mais nous savons que le contraire serait sur-
@@ -8808,11 +8206,7 @@ Mariotte, et à celle de Gay-Lussac et à l'équation
 d'état des gaz parfaits PV = RT, - que tous les gaz
 sous une pression et à une température identiques
 sont, à volume égal, constitués par le même nombre
-de molécules . Le même nombre, à très peu près ,
-
-[p. 212]
-
-étant donné qu'il s'agit déjà de nombres énormes
+de molécules . Le même nombre, à très peu près , [p. 212] étant donné qu'il s'agit déjà de nombres énormes
 pour de très petits volumes (27 quintillions , c'est-à-
 dire 27 milliards de milliards par centimètre cube).
 Estimé, comme il est d'usage, par molécules-grammes
@@ -8838,9 +8232,7 @@ bonique de 3,19 × 10-8.
 
 [^p212-1]: 0 cm. 000 000 024.
 
-[p. 213]
-
-I.
+[p. 213] I.
 II.
 III. -
 
@@ -8882,11 +8274,7 @@ lions de fois à la seconde, en moyenne toutes les
 fois qu'elles ont parcouru un dixième de millimètre .
 Leur diamètre est de quelques dix millionièmes de
 millimètre. Leur surface totale, par centimètre cube,
-est de plusieurs mètres carrés (7 pour l'argon). Leur
-
-[p. 214]
-
-masse et leur poids sont, pour l'hydrogène, de
+est de plusieurs mètres carrés (7 pour l'argon). Leur [p. 214] masse et leur poids sont, pour l'hydrogène, de
 1 gramme 66 × 10-8 (c'est-à-dire en faisant pré-
 céder 166 de 23 zéros après la virgule qui
 suit
@@ -8934,9 +8322,7 @@ postulats de la théorie
 ciné
 tique.
 
-[p. 215]
-
-Les gaz ultrararéfiés.
+[p. 215] Les gaz ultrararéfiés.
 
 L'étude des gaz ultrararéfiés rend en quelque sorte
 visible la structure des gaz demandée par la théorie
@@ -8976,11 +8362,7 @@ théorie cinétique des gaz, soit dans l'effusion des gaz
 dans la diffusion des gaz,sont autant de confirmations
 puissantes de la théorie. Les expériences de Knudsen
 ont vérifié le calcul qui détermine la masse ou le
-10
-
-[p. 216]
-
-volume de gaz effusés pendant un temps donné en
+10 [p. 216] volume de gaz effusés pendant un temps donné en
 fonction des grandeurs caractéristiques de la théorie.
 Mais c'est surtout la diffusion des gaz dont nous
 ne pouvons
@@ -9020,9 +8402,7 @@ culaire, les moyennes n'étant plus applicables .
 
 [^p216-1]: Formé par exemple d'un récipient à deux comparti- ments communiquant entre eux avec un robinet.
 
-[p. 217]
-
-C'est en poursuivant cette tâche que Maxwell a
+[p. 217] C'est en poursuivant cette tâche que Maxwell a
 été amené à poser une loi générale d'action inter-
 moléculaire entre les molécules constitutives des gaz.
 Il faudrait attribuer à celles-ci, au presque contact ,
@@ -9060,11 +8440,7 @@ niste, le chef-d'œuvre des théories mécanistes . Avec
 les seules lois de la mécanique et les seules propriétés
 mécaniques nous arrivons à donner des gaz , de leurs
 propriétés et de leurs lois un modèle intuitif remar-
-quablement satisfaisant. La physique actuelle n'a
-
-[p. 218]
-
-fait que préciser d'une part, compléter de l'autre, ce
+quablement satisfaisant. La physique actuelle n'a [p. 218] fait que préciser d'une part, compléter de l'autre, ce
 modèle. Rien ne l'a amené à y renoncer. Tout au
 contraire, dans les années récentes, lui a donné plus
 de vogue, plus d'amplitude et plus de profondeur.
@@ -9104,9 +8480,7 @@ voyons ; l'autre nous en donne la raison. Elle la
 cherche, mais il serait impossible de dire qu'elle
 court le risque de la manquer.
 
-[p. 219]
-
-Il y a là une belle illustration, au point de vue de
+[p. 219] Il y a là une belle illustration, au point de vue de
 la théorie de la connaissance. Mais ce n'est pas ici
 notre objet.
 Au point de vue du contenu de la science et de la
@@ -9145,11 +8519,7 @@ plus, ils considèrent que le réel n'est rien autre que
 cela : un ensemble de sensations qui changent . L'être
 est absorbé dans la notion du devenir. On substantifie
 ce devenir sans y rien ajouter, sans en rien retrancher .
-Au contraire , ce que la théorie cinétique des gaz
-
-[p. 220]
-
-cherche avant tout, c'est sous les changements sen-
+Au contraire , ce que la théorie cinétique des gaz [p. 220] cherche avant tout, c'est sous les changements sen-
 sibles , une structure permanente, sous le devenir,
 l'être. Celui-ci est au premier comme l'apparence à
 la réalité. Certaines de nos sensations possibles sont
@@ -9190,9 +8560,7 @@ permettre de se développer avec un égal bonheur,
 en se prêtant un mutuel secours, la théorie énergé-
 tique et la théorie cinétique des gaz .
 
-[p. 221]
-
-LIVRE
+[p. 221] LIVRE
 II
 
 LES PROBABILITÉS ET L'INDIVIDUEL
@@ -9233,11 +8601,7 @@ C'est que le mélange des gaz constitue essentielle-
 ment, lui, une transformation par voie irréversible .
 C'est là que la friction doit se faire entre le point de
 vue de l'ancienne mécanique et le point de vue éner-
-gétique. Et c'est là qu'il faut, ou que la théorie ciné
-
-[p. 222]
-
-tique des gaz avoue l'impuissance de son effort expli-
+gétique. Et c'est là qu'il faut, ou que la théorie ciné [p. 222] tique des gaz avoue l'impuissance de son effort expli-
 catif, ou qu'elle passe outre à l'énergétisme, et le
 dépasse.
 Pendant la plus grande partie du XIXe siècle,
@@ -9274,11 +8638,7 @@ sa marche de l'extérieur vers l'intérieur. Sous l'effort
 qui la porte à faire coïncider de plus en plus les résul-
 tats de ses calculs et ceux de l'expérience elle appro-
 fondit constamment la nature du réel. Les relations
-mathématiques s'y enfoncent comme un coin, et
-
-[p. 223]
-
-notre connaissance de la structure des choses grandit ,
+mathématiques s'y enfoncent comme un coin, et [p. 223] notre connaissance de la structure des choses grandit ,
 à mesure que se précisent et s'accumulent les rapports
 que l'expérience, les mesures expérimentales, permet-
 tent de formuler entre les choses .
@@ -9320,11 +8680,7 @@ efficaces
 des
 résolutions
 individuelles .
-Le grand nombre des individus laisse apercevoir
-
-[p. 224]
-
-une résultante, une loi numérique générale. C'est
+Le grand nombre des individus laisse apercevoir [p. 224] une résultante, une loi numérique générale. C'est
 cette loi générale que nous révèle l'expérience. Il
 nous est impossible de dire, en face d'un individu,
 qu'il se mariera ou non dans l'année. Mais nous
@@ -9362,11 +8718,7 @@ effets globaux que seuls on observe.
 Aussi peut-on considérer les molécules comme
 sphériques , quelles que soient leurs irrégularités de
 forme, pourvu qu'elles se rapprochent de toutes les
-irrégularités possibles, et par suite qu'elles se com
-
-[p. 225]
-
-pensent. Leur choc y'est envisagé comme s'il se
+irrégularités possibles, et par suite qu'elles se com [p. 225] pensent. Leur choc y'est envisagé comme s'il se
 produisait entre corps élastiques, d'après l'obser-
 vation globale qui définit un gaz, bien que nous.
 ignorions les modalités réellesde ce choc. L'expérience
@@ -9409,11 +8761,7 @@ mons ces lois, ne sont-elles pas de même nature ? Et
 cela jusqu'aux principes mêmes que nous avons été
 conduits à poser comme fondamentaux, que nous
 avons été contraints de poser comme tels, sur la foi
-d'une expérience toujours globale, quelle que soit
-
-[p. 226]
-
-la petitesse des masses en expérience. Car cette peti-
+d'une expérience toujours globale, quelle que soit [p. 226] la petitesse des masses en expérience. Car cette peti-
 tesse est toujours une énormité colossale par rapport
 l'infinité des éléments moléculaires auxquels nous
 conduit la déduction, à partir de cette même expé-
@@ -9455,11 +8803,7 @@ Ces phénomènes
 exceptionnels
 rentreraient
 dans la catégorie des différenciations individuelles
-trop petites pour être observées isolément . Celles-ci
-
-[p. 227]
-
-se compenseraient dans toutes les observations glo-
+trop petites pour être observées isolément . Celles-ci [p. 227] se compenseraient dans toutes les observations glo-
 bales qui, seules, nous sont permises .
 Le principe de Carnot et la fonction de Clausius ,
 l'entropie, sont liés à la considération des tempéra-
@@ -9499,11 +8843,7 @@ mais dont l'une est à 20 degrés et l'autre à 10, nous
 ne trouvons bientôt plus dans les deux ballons qu'une
 température uniforme voisine de 15degrés ? Les mo-
 lécules dont la vitesse moyenne était plus grande
-dans le ballon le plus chaud, et les molécules dont la
-
-[p. 228]
-
-vitesse moyenne était moins grande dans le ballon
+dans le ballon le plus chaud, et les molécules dont la [p. 228] vitesse moyenne était moins grande dans le ballon
 le plus froid se sont mêlées très rapidement de telle
 sorte que la vitesse moyenne est devenue moins
 grande dans le premier ballon et plus grande dans
@@ -9542,9 +8882,7 @@ Que faudrait-il pour qu'elle changeât ? Il faudrait
 qu'un des ballons se réchauffât, et l'autre se refroi-
 dît. Or cela ne peut se faire, d'après le principe de
 
-[p. 229]
-
-Carnot, que si je mets, après avoir interrompu toute
+[p. 229] Carnot, que si je mets, après avoir interrompu toute
 communication entre mes deux ballons, le ballon
 que je veux refroidir en contact avec une source plus
 froide que lui, celui que je veux réchauffer en contact
@@ -9586,9 +8924,7 @@ légitimité par ce fait qu'aucune expérience ne le
 contredit, plus précisément qu'on peut toujours ima-
 giner un biais qui le mette d'accord avec l'expérience.
 
-[p. 230]
-
-Ici plus de biais possible. Et le principe de Carnot
+[p. 230] Ici plus de biais possible. Et le principe de Carnot
 serait simplement une loi expérimentale vérifiée
 entre certaines limites, et sous certaines réserves,
 comme tant d'autres, en particulier, comme toutes
@@ -9628,9 +8964,7 @@ remonter à la nature le cours auquel le principe l'a
 contrainte , dans les transformations spontanées et
 purement naturelles .
 
-[p. 231]
-
-Mais le démon de Maxwell, du point de vue de la
+[p. 231] Mais le démon de Maxwell, du point de vue de la
 thermodynamique classique et énergétiste, est un
 personnage purement imaginaire. Comme la jument
 de Roland, il a toutes les qualités, sauf une : celle
@@ -9672,9 +9006,7 @@ sens commun qui aurait dans des mesures énormes
 d'instruments infiniment plus grossissants et plus
 sensibles, le démentirait peut-être .
 
-[p. 232]
-
-Le mouvement brownien.
+[p. 232] Le mouvement brownien.
 
 C'est du moins la conclusion à laquelle nous sommes
 amenés par certaines expériences qui sont à la limite
@@ -9716,9 +9048,7 @@ rante, ou en changeant sa couleur (Gouy).
 [^p232-1]: Du nom de Brown, botaniste anglais qui l'a décou- vert en 1827, mais sans même en entrevoir l'explication,
 [^p232-2]: Jean Perrin, Les atomes, 13e édit., p. 120.
 
-[p. 233]
-
-plus actif que ces fluides sont moins visqueux. Aussi
+[p. 233] plus actif que ces fluides sont moins visqueux. Aussi
 est-il à peine perceptible dans la glycérine, et au
 contraire extrêmement vif dans les gaz (Bodoszewski ,
 Zsygmondy)....
@@ -9759,11 +9089,7 @@ se compenser. Ils ne sont bientôt plus décelables . Et
 nous retombons sur les images ordinaires de notre
 expérience. La particule restera indéfiniment en repos ,
 du moment que son centre de gravité est le plus bas
-qu'il puisse être, là où nous l'observons. Sinon, elle
-
-[p. 234]
-
-ne prendra plus que le mouvement total, dirigé,
+qu'il puisse être, là où nous l'observons. Sinon, elle [p. 234] ne prendra plus que le mouvement total, dirigé,
 ordonné de la gravitation, ou tout autre mouvement
 dirigé qui lui sera imprimé par les forces extérieures.
 Mais tant qu'elle reste assez petite pour osciller
@@ -9801,11 +9127,7 @@ n'est plus alors qu'une loi de statistique, un théo-
 rème de probabilité, dont le champ d'application
 dépend d'une hypothèse limitative .
 Que nous dirait-il en effet dans le cas du mouvement
-brownien, s'il y était applicable ? En le prenant sous
-
-[p. 235]
-
-sa forme la plus intuitive, mais tout aussi stricte et
+brownien, s'il y était applicable ? En le prenant sous [p. 235] sa forme la plus intuitive, mais tout aussi stricte et
 exacte que les autres, il nous dit qu'il est impossible de
 transformer de la chaleur en travail sans faire passer
 de la chaleur d'un corps plus chaud sur un corps plus
@@ -9842,11 +9164,7 @@ de Carnot se trouvent en échec, puisque le principe
 lui-même est ici inapplicable .
 Un cycle, classiquement irréversible, peut être par-
 couru, sans dépense de travail auxiliaire .
-En interprétation cinétique une molécule aban
-
-[p. 236]
-
-donne de sa vitesse, en communiquant une impulsion
+En interprétation cinétique une molécule aban [p. 236] donne de sa vitesse, en communiquant une impulsion
 à la parcelle, donc se refroidit, puisque la tempéra-
 ture est fonction de la vitesse.Cette impulsion acquise
 aux dépens du refroidissement des quelques molécu-
@@ -9885,11 +9203,7 @@ Carnot est un effet statistique, une loi de statistique,
 comme la constance du nombre des mariages, des
 naissances, des décès , dès qu'on observe une popula-
 tion assez nombreuse .
-Mais l'expérience qui suit isolément les individus
-
-[p. 237]
-
-moléculaires ignore le principe de Carnot, de même
+Mais l'expérience qui suit isolément les individus [p. 237] moléculaires ignore le principe de Carnot, de même
 que la prédiction du moment exact de la mort est
 impossible pour tel ou tel individu particulier.
 Il est même, à notre sens, métaphorique, d'exposer
@@ -9936,11 +9250,7 @@ Cette conclusion s'impose immédiatement, si nous-
 prenons la forme la plus abstraite qu'on lui ait donnée
 (Langevin-Perrin), quand on en fait le principe d'évo-
 lution des systèmes à partir d'une certaine complexité ,
-si nous prenons, comme nous y sommes amenés, pour
-
-[p. 238]
-
-éléments les molécules : « Un système ne repasse
+si nous prenons, comme nous y sommes amenés, pour [p. 238] éléments les molécules : « Un système ne repasse
 jamais deux fois par le même état ». Mais, dans le
 mouvement brownien, le système (parcelle et molé-
 cule) peut repasser et en réalité repasse par le même
@@ -9977,9 +9287,7 @@ Un principe en physique est d'une définition plus
 
 [^p238-1]: Ceci n'est pas rigoureusement exact parce que les molécules sont pesantes. Mais les molécules les plus rapides (àplus grande énergie cinétique) à la limite de l'atmosphère terrestre peuvent être soustraites à la gravité.
 
-[p. 239]
-
-complexe. Il se caractérise par deux propriétés essen-
+[p. 239] complexe. Il se caractérise par deux propriétés essen-
 tielles . Il est universel, mais dans un domaine ; et
 dans ce domaine il est universel parce qu'il sous-tend
 toutes les lois particulières à ce domaine. Celles-ci le
@@ -9988,8 +9296,8 @@ une fonction logique, identique dans tout un domaine,
 par quoi nous devons caractériser un principe. Et ce
 domaine d'applicabilité du principe, nous ne pouvons
 jamais établir qu'il est , au sens pleindu mot,universel.
-Nous ne pouvons l'établir ni a priori ni a posteriori.
-A priori , dira-t-on que le principe est une évidence
+Nous ne pouvons l'établir ni *a priori* ni *a posteriori*.
+*A priori* , dira-t-on que le principe est une évidence
 rationnelle ? Ceci serait impossible pour le principe
 de Carnot et ne pourrait l'être que pour des principes
 dérivés de celui d'identité et de contradiction ; mais,
@@ -10002,28 +9310,26 @@ raison mal
 informée à une raison mieux informée
 d'elle-même, d'une raison partielle à une raison plus
 profonde ?
-A posteriori , il n'y a pas d'universalité possible.
+*A posteriori* , il n'y a pas d'universalité possible.
 L'expérience est toujours à la merci, a toujours été
 à la merci d'une expérience nouvelle ; en réalité, ces
-principes ne sont ni entièrement a priori, ni entière-
-ment a posteriori .
+principes ne sont ni entièrement *a priori*, ni entière-
+ment *a posteriori* .
 Il y aurait de ce point de vue toute une critique à
 faire de la théorie que Poincaré donne des principes.
-Que les principes soient a priori, et par conséquent en
+Que les principes soient *a priori*, et par conséquent en
 partie conventionnels vis-à-vis de l'expérience, donc
 dans une certaine mesure arbitraires , c'est, dans l'état
 actuel de l'épistemologie, incontestable. Un principe
 est une universalisation, une interpolation et une
 extrapolation de l'expérience. En conséquence il la
 dépasse, et dans la mesure où il la dépasse, il est arbi-
-traire et conventionnel, a priori. Il est définition, ou
+traire et conventionnel, *a priori*. Il est définition, ou
 conséquence de définitions.
 
 11
 
-[p. 240]
-
-Il n'est pas seulement une extrapolation, il est
+[p. 240] Il n'est pas seulement une extrapolation, il est
 encore une schématisation de l'expérience. Pour arri-
 ver à formuler un principe, il faut négliger les parti-
 cularités de l'expérience réelle, abstraire précisément
@@ -10042,7 +9348,7 @@ ception de modification virtuelle et de modification
 réversible, à l'aide, et à la seule aide desquelles, est
 établi le principe de-Carnot .
 Maintenant, que les principes soient également
-a posteriori , c'est aussi incontestable. Le principe
+*a posteriori* , c'est aussi incontestable. Le principe
 est une émanation de l'expérience. C'est un centre
 de convergence d'une multitude d'expériences. Et si
 un fait scientifique, voire une loi, peuvent être établis
@@ -10051,7 +9357,7 @@ par exemple, ou le fait de la composition de l'eau, le
 principe, lui, ne peut être admis (et non établi) que
 sur un ensemble d'expériences vérifiant lois et faits
 qui l'impliquent ou le supposent. Il est donc large-
-ment a posteriori. Partant, il est fonction des vérifi-
+ment *a posteriori*. Partant, il est fonction des vérifi-
 cations et des applications expérimentales. Il n'est
 valide qu'autant qu'il est applicable. En dehors du
 domaine d'application, il n'a plus de sens. Il n'est
@@ -10062,9 +9368,7 @@ son universalité est relative .
 C'est ce qui est maintenant bien établi pour le
 principe de Carnot .
 
-[p. 241]
-
-Le principe de Carnot, loi d'improbabilité.
+[p. 241] Le principe de Carnot, loi d'improbabilité.
 
 Son domaine d'ailleurs est immense, s'il est rigou-
 reusement délimité. C'est notre expérience habituelle ,
@@ -10101,11 +9405,7 @@ très grand nombre de brassages
 milliers , par exemple), nous vérifierons un théorème
 d'analyse combinatoire qui nous apprend que par
 rapport au nombre total des brassages, celui qui nous
-fait revenir à l'état initial : nos six billes alignées dans
-
-[p. 242]
-
-l'ordre initial (1 , 2, 3, 4, 5, 6), se présentent dans la
+fait revenir à l'état initial : nos six billes alignées dans [p. 242] l'ordre initial (1 , 2, 3, 4, 5, 6), se présentent dans la
 
 1
 proportion
@@ -10148,11 +9448,7 @@ température uniforme de 20 degrés. Et si notre sys-
 tème est thermiquement bien isolé, ce sera toute notre
 vie la même température de 20 degrés que repérera
 dans toute l'étendue du gaz notre thermomètre.
-Nos deux systèmes ont strictement obéi au prin-
-
-[p. 243]
-
-cipe de Carnot. Toute matière observable à notre
+Nos deux systèmes ont strictement obéi au prin-[p. 243]cipe de Carnot. Toute matière observable à notre
 échelle obéira toujours de même et rigoureusement
 au principe de Carnot. Pas plus que notre système
 des deux poudres, elle ne repassera par son état
@@ -10182,9 +9478,7 @@ haute, cette inimaginable improbabilité. Voilà pour-
 quoi il n'est jamais démenti dans une expérience à
 notre échelle.
 
-[p. 244]
-
-CHAPITRE
+[p. 244] CHAPITRE
 II
 
 L'INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
@@ -10225,14 +9519,12 @@ Mais la notion doit être prise, en thermodynamique
 classique,d'une façon plus anthropomorphique encore;
 elle évoque
 l'idée, de manière très différente sans
-doute, mais enfin, mutatis mutandis ,l'idée d'une évolu-
+doute, mais enfin, *mutatis mutandis* ,l'idée d'une évolu-
 tion quasi-organique. Le système physico-chimique a
 une sorte de vieillissement tel que son aptitude à se
 transformer diminue à mesure qu'il se transforme, -
 
-[p. 245]
-
-INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
+[p. 245] INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
 245
 
 par voie irréversible bien entendu, comme dans toute
@@ -10272,11 +9564,7 @@ d'une façon exacte, précise, et qui plus est, certaine ,
 cette plus grande probabilité de l'état moyen uni-
 forme, par rapport à un état plus tranché. Mais ne
 les numérotons pas comme dans l'expérience faite
-avec nos six billes tout à l'heure. Ne les numérotons
-
-[p. 246]
-
-point, de façon que les grains de même couleur soient
+avec nos six billes tout à l'heure. Ne les numérotons [p. 246] point, de façon que les grains de même couleur soient
 interchangeables, comme les molécules de même vi-
 tesse dans un gaz.
 Prenons seulement 10 grains blancs et 10 grains
@@ -10314,9 +9602,7 @@ expérience de tout à l'heure, aux 20 éléments de la
 
 [^p246-1]: Cet exemple, sous une forme un peu différente, a été donné par Guye, L'évolution physico-chimique, p. 38 sq.
 
-[p. 247]
-
-INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
+[p. 247] INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
 247
 
 =
@@ -10369,11 +9655,7 @@ quel il évolue alors fatalement ne permet même pas
 d'imaginer la chance exceptionnelle qui pourrait
 arrêter ou dévier cette évolution fatale.
 L'entropie est donc liée à la probabilité. Elle est
-fonction de la probabilité. Le système évolue toujours
-
-[p. 248]
-
-1
+fonction de la probabilité. Le système évolue toujours [p. 248] 1
 RETOUR ÉTERNEL ET PHILOSOPHIE DE LA PHYSIQUE
 248
 
@@ -10417,9 +9699,7 @@ rique , atteint , dans la réalité, une proportion fan-
 tastique, inimaginable. Aussi l'expérience ne nous
 montre-t-elle jamais que lui.
 
-[p. 249]
-
-INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
+[p. 249] INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
 249
 
 Dégradation de l'énergie et désordre.
@@ -10466,11 +9746,7 @@ quantité d'énergie et sous certaines formes , par rap-
 port au reste des énergies d'un système.
 C'est ce
 qu'exprime l'idée de la dégradation de l'énergie.
-Comme on l'a vu, cette idée peut fournir de nouvelles
-
-[p. 250]
-
-formules du principe de Carnot : formules exactes
+Comme on l'a vu, cette idée peut fournir de nouvelles [p. 250] formules du principe de Carnot : formules exactes
 dans la réalité sensible et sur lesquelles repose une
 bonne partie des développements de la thermodyna-
 mique.
@@ -10509,9 +9785,7 @@ moléculaire du gaz en équilibre .
 Deux masses d'un gaz à des températures diffé-
 rentes nous présentent un ordonnancement dans les
 
-[p. 251]
-
-INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
+[p. 251] INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
 251
 
 mouvements moléculaires : ceux de l'une ont une
@@ -10559,11 +9833,7 @@ nisation (ce ralentissement d'ensemble) se superposera
 tion de travail mécanique. Une fois cette organisation
 supprimée, et l'énergie calorifique à une température [^p251-1]
 
-[^p251-1]: Déplacement du point d'application de la force, sans la direction de cette force, multiplié par la force elle-même,
-
-[p. 252]
-
-constante, il n'y a plus production de travail : le
+[^p251-1]: Déplacement du point d'application de la force, sans la direction de cette force, multiplié par la force elle-même, [p. 252] constante, il n'y a plus production de travail : le
 mouvement est de nouveau entièrement désordonné
 et chaotique.
 La chaleur est donc simplement de l'énergie méca-
@@ -10603,9 +9873,7 @@ Cette direction d'ensemble c'est sa trace historique. [^p252-1]
 
 [^p252-1]: Guye, L'évolution physico-chimique, p. 70.
 
-[p. 253]
-
-INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
+[p. 253] INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
 253
 
 De même un système chimique n'évolue qu'autant
@@ -10652,11 +9920,7 @@ marteau . Le marteau tombe sur l'enclume, fournis-
 sant un travail mécanique appréciable. Aux mouve-
 ments désordonnés des molécules s'est superposé
 un mouvement d'ensemble de toutes ces molécules,
-mouvement bien ordonné, de haut en bas, sous l'effet
-
-[p. 254]
-
-de la pesanteur. Après le choc, plus d'énergie ciné-
+mouvement bien ordonné, de haut en bas, sous l'effet [p. 254] de la pesanteur. Après le choc, plus d'énergie ciné-
 tique. Celle-ci puisqu'elle n'a pas été employée à
 autre chose, s'est entièrement dégradée en une aug-
 mentation de température . Augmentation de tempé-
@@ -10696,9 +9960,7 @@ système est plus basse, et que les températures ont
 une limitę. L'entropie n'a pas cessé d'augmenter,
 si nous tenons compte de la distance du marteu à
 
-[p. 255]
-
-INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
+[p. 255] INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
 255
 
 l'enclume et de la gravitation, depuis le début de
@@ -10738,11 +10000,7 @@ cinétique , voilà la différence des deux systèmes .
 Différence presque nulle pour la physique. Considéra-
 ble pour sa philosophie .
 Pour la physique, la différence est presque nulle,
-parce que c'estunpeut-êtredontnous avons vu l'infime
-
-[p. 256]
-
-chance de réalisation pour un système aussi complexe
+parce que c'estunpeut-êtredontnous avons vu l'infime [p. 256] chance de réalisation pour un système aussi complexe
 que celui de notre enclume et de notre marteau . C'est
 un peut-être de style, un impossible dans la réalité.
 Mais, ce qui nous intéresse pour le moment, c'est ce
@@ -10784,9 +10042,7 @@ moins . Ceci est indubitable. Une moyenne n'est qu'un
 un pourcentage près . Ce pourcentage a beau se réduire
 dans des proportions qui tendent à l'annuler, lorsque
 
-[p. 257]
-
-INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
+[p. 257] INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
 257
 
 le nombre des individus sur lequel porte la statistique
@@ -10837,9 +10093,7 @@ effet statistique
 possible se ren-
 contre dans l'expression mathématique des lois phy-
 
-[p. 258]
-
-=
+[p. 258] =
 
 siques toutes les fois que celles-ci sont figurées par
 une fonction exponentielle négative (de la forme
@@ -10881,9 +10135,7 @@ influent tantôt en un sens, tantôt en un autre . Par
 suite de leur grand nombre il y a compensation . La
 représentation d'une loi physique sous cette forme
 
-[p. 259]
-
-INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
+[p. 259] INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
 259
 
 peut donc être l'indice que nous n'avons pas affaire
@@ -10923,11 +10175,7 @@ postulat, au principe de la théorie cinétique des gaz :
 la structure moléculaire de la matière se manifes-
 tant de la façon la plus simple à l'état gazeux.
 De toutes ces preuves d'ordre expérimental nous
-n'avons à retenir ici que les confirmations qui se
-
-[p. 260]
-
-rencontrent précisément au moment où sous les lois
+n'avons à retenir ici que les confirmations qui se [p. 260] rencontrent précisément au moment où sous les lois
 de grand nombre, commence à se faire sentir l'indivi-
 dualité moléculaire : les faits de fluctuations, les
 écarts par rapport à la moyenne théorique, consé-
@@ -10969,9 +10217,7 @@ visibles . Nous savons qu'on en reste bien loin, même
 avec l'ultramicroscope. D'ailleurs avec les vitesses des
 molécules , l'observation serait malaisée.
 
-[p. 261]
-
-INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
+[p. 261] INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
 261
 
 Comme le dit Guye [^p261-1] « c'est donc dans la plupart
@@ -11015,9 +10261,7 @@ rences de densité, des différences de structure, innom-
 [^p261-1]: L'évolution physico-chimique, p. 60.
 [^p261-2]: Guye, Id. , p. 59.
 
-[p. 262]
-
-brables, qui en font un vrai milieu discontinu, il
+[p. 262] brables, qui en font un vrai milieu discontinu, il
 diffractera à la lumière.Et cette diffraction est l'image
 visible , sensible d'une discontinuité et d'une différen-
 ciation foncières. Une lumière plus ou moins bleuâtre
@@ -11058,9 +10302,7 @@ la concordance des prévisions auxquelles conduit le
 calcul et des mesures expérimentales est si remarqua-
 ble, que le bleu du ciel peut être considéré comme
 
-[p. 263]
-
-INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
+[p. 263] INTERPRÉTATION CINÉTIQUE DE L'ENTROPIE
 263
 
 un des faits les plus concluants en faveur de la théorie
@@ -11103,9 +10345,7 @@ tielle négative. L'atome est lui-même un complexe.
 [^p263-1]: Guye, Id. , p. 61 .
 [^p263-2]: Guye, Id., p. 60. 12
 
-[p. 264]
-
-L'application des calculs statistiques y serait alors
+[p. 264] L'application des calculs statistiques y serait alors
 justifiée, soit que le nombre des éléments de ce com-
 plexe fût considérable, soit- ce qui est infiniment
 plus probable,
@@ -11126,9 +10366,7 @@ réalité pour ainsi dire expérimentale (1) ».
 
 (1) Guye, Id. , p. 79. Les derniers mots soulignés par nous.
 
-[p. 265]
-
-TROISIÈME PARTIE
+[p. 265] TROISIÈME PARTIE
 
 ÉPILOGUE :
 A LA SUITE DE LA PHYSIQUE CINÉTISTE
@@ -11153,7 +10391,7 @@ MÉTAPHYSIQUE DU RETOUR ÉTERNEL
 
 Rétrospective.
 Les idées qui mènent la science.
-Le retour éternel est-il un artifice a priori de l'es-
+Le retour éternel est-il un artifice *a priori* de l'es-
 'prit ?
 Le retour éternel et le principe d'identité.
 La confusion originaire du subjectif et de l'objectif.
@@ -11178,12 +10416,8 @@ I
 
 Rétrospective.
 
-D'une façon aussi objective que possible, en procé
-
-[p. 266]
-
-dant simplement en historien, sans idée préconçue, ni
-thèse philosophique a priori, comme nous le voulions,
+D'une façon aussi objective que possible, en procé [p. 266] dant simplement en historien, sans idée préconçue, ni
+thèse philosophique *a priori*, comme nous le voulions,
 nous croyons qu'on peut résumer ainsi l'histoire de la
 physique moderne. Le mécanisme sous les formes les
 plus variées s'est d'abord efforcé de représenter
@@ -11224,9 +10458,7 @@ ment tourbillonnaire corollaire de la conservation du
 mouvement) . L'Univers dans son tout est un système
 à marche cyclique. C'est une machine parfaite .
 
-[p. 267]
-
-Quand,au XVIIIe siècle, la physique veut abandon-
+[p. 267] Quand,au XVIIIe siècle, la physique veut abandon-
 ner les dernières idées théologiques, elle n'a qu'à les
 passer sous silence. L'Univers peut marcher tout seul.
 Il est machine parfaite. Parmi les idées métaphy-
@@ -11265,11 +10497,7 @@ basse, l'écart diminuant sans cesse entre les tempéra-
 tures extrêmes. L'Univers va s'ankyloser peu à peu.Et
 de cet état il ne pourra absolument plus sortir. La se-
 cousse est si profonde qu'on peut bientôt proclamer la
-déroute de l'ancien mécanisme, la faillite de la science,
-
-[p. 268]
-
-si l'on identifie la science à la pensée qui l'a guidée
+déroute de l'ancien mécanisme, la faillite de la science, [p. 268] si l'on identifie la science à la pensée qui l'a guidée
 depuis trois siècles. C'est, dans la physique, une crise
 philosophique (car la philosophie n'est jamais absente
 de la science) . Et cette crise, c'est l'énergétisme .
@@ -11308,11 +10536,7 @@ destin qui le veut. Le mouvement qui tend toujours à
 être de plus en plus désordonné, se trouvera coor-
 donné à nouveau pour un nouveau cycle proche des
 anciens
-inéluctablement. De même le 0 doit fatale-
-
-[p. 269]
-
-ment sortir un certain nombre de fois à la roulette, et
+inéluctablement. De même le 0 doit fatale-[p. 269]ment sortir un certain nombre de fois à la roulette, et
 distribuer sa prébende à la cagnotte : la seule éventua-
 lité certaine du jeu et la seule qui importe au jeu .
 D'ailleurs les violations continuelles, mais dans des
@@ -11350,11 +10574,7 @@ velle illustration de la parole de Renan; si vraie et
 si riche pour qui la comprend : « Ce sont les idées qui
 mènent le monde ».
 Une leçon philosophique peut-elle se dégager de
-cette histoire ? Ou, si l'on préfère et moins ambitieu
-
-[p. 270]
-
-sement : cette histoire a-t-elle une signification phi-
+cette histoire ? Ou, si l'on préfère et moins ambitieu [p. 270] sement : cette histoire a-t-elle une signification phi-
 losophique ? Répondre non, serait vraiment absurde.
 Alors quelle signification ?
 
@@ -11402,11 +10622,7 @@ riode où elles ont joué leur rôle. Il y a, par contre,
 celles qu'on retrouve toujours et partout : le gros
 œuvre de la charpente : l'idée d'objet, de matière,
 de loi, d'invariance, d'identité, d'analogie, de conser-
-vation, de similitude, d'action, de la possibilité de
-
-[p. 271]
-
-la déduction, etc. Ces idées maîtresses ont d'ail-
+vation, de similitude, d'action, de la possibilité de [p. 271] la déduction, etc. Ces idées maîtresses ont d'ail-
 leurs une histoire riche de détails, et où leur sens a
 évolué, sans cependant qu'il y ait jamais eu dis-
 continuité dans leur fond et leur rôle .
@@ -11448,11 +10664,7 @@ retrouve toujours et partout, mais avec des fortunes
 très diverses, tantôt attaquées, repoussées, tantôt
 considérées comme indiscutables, tantôt en première
 place, tantôt presque effacées. En général elles vont
-par couples : thèses et antithèses, ce qui explique leur
-
-[p. 272]
-
-effacement alternatif, les critiques ou la confiance
+par couples : thèses et antithèses, ce qui explique leur [p. 272] effacement alternatif, les critiques ou la confiance
 qu'elles suggèrent. Ces « idées à éclipses » sont peut-
 être les plus intéressantes pour l'histoire des idées
 comme pour le philosophe, le métaphysicien et le
@@ -11492,9 +10704,7 @@ retour éternel, comme si elle était un de ses besoins
 impérieux. Elle tend à l'organiser dans le gros œuvre
 de sa charpente.
 
-[p. 273]
-
-III
+[p. 273] III
 Le retour éternel et l'apriorisme.
 
 Pourquoi, et qu'est-ce que cela signifie ?
@@ -11534,11 +10744,7 @@ simple arbitraire de l'hypothèse commode, jusqu'aux
 besoins impérieux de l'esprit. Hypothèse commode,
 comme toute l'hypothèse mécaniste dont elle est une
 des bases essentielles, voilà ce qui apparaît au premier
-plan dans l'idée cyclique. Un système qui peut, qui
-
-[p. 274]
-
-doit repasser autant de fois qu'on le veut par les
+plan dans l'idée cyclique. Un système qui peut, qui [p. 274] doit repasser autant de fois qu'on le veut par les
 mêmes états est un système plus général et plus sim-
 ple qu'un système qui évolue indéfiniment vers une
 fin particulière. Il présente un maximum de stabilité
@@ -11576,11 +10782,7 @@ La raison se construit en fonction de l'action, en
 tée à ce que nous pouvons retrouver, abstraction
 faite de sa nouveauté sans cesse continuée, dans la
 vie universelle. Les systèmes fermés, cycliques sont,
-comme on voit,des pièces essentielles de la conception
-
-[p. 275]
-
-qu'une intelligence rationnelle peut se faire du monde .
+comme on voit,des pièces essentielles de la conception [p. 275] qu'une intelligence rationnelle peut se faire du monde .
 En construisant à partir du réel, mais d'un réel bien
 partiel , la « matière » objet de la science, elle doit
 construire des systèmes qui se ferment comme les
@@ -11620,12 +10822,8 @@ De fil en aiguille nous voilà ramenés, à la genèse
 près , et aussi à cela près que l'organisation de l'intel-
 ligence est dynamique au lieu d'être statique, nous
 ne disons pas à Kant, mais à une théorie législatrice
-du donné. Nous ne créons plus l'objet de notre science,
-
-[p. 276]
-
-en voulant agir sur le donné, mais nous le plions à
-certaines lois a priori .
+du donné. Nous ne créons plus l'objet de notre science, [p. 276] en voulant agir sur le donné, mais nous le plions à
+certaines lois *a priori* .
 Or la loi la plus fondamentale de l'intelligence,
 c'est bien le principe d'identité. Nous expliquons,
 nous comprenons les choses, en montrant qu'elles
@@ -11665,9 +10863,7 @@ l'absurde, par la critique adverse .
 Si tout ce que nous disons revient à dire A est A
 nous ne pouvons rien faire qu'égaler zéro à lui-même.
 
-[p. 277]
-
-Evidemment, la construction de la connaissance, la
+[p. 277] Evidemment, la construction de la connaissance, la
 construction de cette connaissance privilégiée qui ,
 au sein de la connaissance ordinaire, en est la perle
 et le couronnement, la connaissance
@@ -11705,11 +10901,7 @@ célèbre adage : causa adæquat effectus . C'est celui
 que Ribot, dans son livre sur l'évolution des idées
 générales , considérait comme le terme-limite de la
 causalité scientifique. Nous avons nous-même adopté
-ce sens après lui et de la même façon, en cherchant à
-
-[p. 278]
-
-fonder, grâce à cette acception, l'induction sur la
+ce sens après lui et de la même façon, en cherchant à [p. 278] fonder, grâce à cette acception, l'induction sur la
 possibilité de la déduction .
 Seulement tandis qu'avec Ribot, nous donnons à
 cette signification une valeur relationnelle, la scolas-
@@ -11748,9 +10940,7 @@ bien réfléchir, croyons-nous, elle doit être critiquée
 comme la précédente . Elle joue sur le mot identifica-
 tion comme l'autre sur le mot identité.
 
-[p. 279]
-
-Ou l'identification a son sens plein : Et sans aller
+[p. 279] Ou l'identification a son sens plein : Et sans aller
 jusqu'à la limite, admettons au moins qu'on puisse
 mettre le signe « égal » entre tous les termes sur
 lesquels elle porte. Et alors les configurations sont
@@ -11791,11 +10981,7 @@ qu'il s'impose à la raison ou qu'il est imposé par la rai-
 son : le continu seul étant irrationnel et pouvant
 d'ailleurs être rationalisé à son tour ?
 Notre conclusion ne peut être ambiguë. Une identi-
-fication ontologique est un non sens, tout comme
-
-[p. 280]
-
-une identité ontologique. Le principe d'identité ne
+fication ontologique est un non sens, tout comme [p. 280] une identité ontologique. Le principe d'identité ne
 peut avoir qu'un sens relationnel. Qu'entendons-nous
 par là ?
 Examinons , chez celui qui l'a formulé le premier, le
@@ -11835,9 +11021,7 @@ qu'établir des rapports entre des données . Le donné
 lui-même, par une sympathie presque indéfinissable,
 peut bien soutenir une action dans une large mesure
 
-[p. 281]
-
--
+[p. 281] -
 
 inconsciente, car elle est imprégnée d'instinct ou
 de sentiment. Mais dès que nous voulons prendre
@@ -11884,11 +11068,7 @@ infinie. Sur elle notre connaissance jette le filet de
 l'ordre sous lequel elle s'étale et se dispose .
 Au fond le principe dit d'identité est un principe
 d'ordre. On n'identifie pas, on ordonne, on organise.
-Nous verrons tout à l'heure dans quelle mesure, pour
-
-[p. 282]
-
-quoi et comment. Pour le moment nous sommes en-
+Nous verrons tout à l'heure dans quelle mesure, pour [p. 282] quoi et comment. Pour le moment nous sommes en-
 core en plein sur le terrain de la philosophiekantienne.
 Nous allons en sortir.
 
@@ -11926,11 +11106,7 @@ réel sans réserves . Nous serions bien embarrassés de
 le prouver. Disons que c'est la forme du réel que nous
 pouvons appréhender, de la façon la plus plausible,
 antérieurement à tout travail de connaissance.
-Est-elle déjà une résultante construite dans les pro-
-
-[p. 283]
-
-fondeurs d'un inconscient ineffable ? N'est-elle qu'une
+Est-elle déjà une résultante construite dans les pro-[p. 283]fondeurs d'un inconscient ineffable ? N'est-elle qu'une
 façon grossière, sommaire, malgré toute sa richesse ,
 d'appréhender un réel sous-jacent plus profond ?
 Une appréhension plus primitive, et moins évoluée
@@ -11969,11 +11145,7 @@ suivre,
 c'est quand on passe, sans plus, des états de
 conscience à ma conscience, de la représentation à ma
 représentation, des images, aux images de ma pensée.
-Si Hume n'avait pas compliqué son hypothèse par
-
-[p. 284]
-
-celle d'atomes psychologiques, qui ne paraissent guère
+Si Hume n'avait pas compliqué son hypothèse par [p. 284] celle d'atomes psychologiques, qui ne paraissent guère
 répondre à l'expérience, l'orientation de sa théorie qui
 fait du moi, du « je », une concrétion secondaire nous
 paraîtrait encore la bonne. Le flux d'être dans lequel
@@ -12016,9 +11188,7 @@ des civilisations a atteints, et son évolution semble
 se faire de même, moins nette en général, voilà
 tout .
 
-[p. 285]
-
-La notion d'objet et le retour éternel.
+[p. 285] La notion d'objet et le retour éternel.
 
 Ce qui caractérise l'objet , la matière, sur quoi porte
 la connaissance scientifique dans notre civilisation,
@@ -12053,9 +11223,7 @@ Inconscience-conscience ; déterminisme-liberté [^p285-2] ;
 [^p285-1]: Nous ne pouvons nous représenter d'être qu'en une conscience, ou en fonction d'une conscience. Quelque chose qui ne saurait pas qu'il est, ou dont l'existence ne serait pas sue, est rigoureusement et par définition, un néant.
 [^p285-2]: Nous ne cherchons pas ici si ces propriétés sont réelles ou illusoires. Nous les prenons dans l'expérience comme le résultat de l'évolution dont nous venons de parler. De même, certaines indiquent plutôt une tendance vers la propriété, que sa possession intégrale et indiscutable.
 
-[p. 286]
-
-inertie-activité ; réductible à la quantité-irréducti-
+[p. 286] inertie-activité ; réductible à la quantité-irréducti-
 ble à la quantité ou
 qualité pure ; multiplicité-
 unité
@@ -12080,8 +11248,8 @@ durée irréversible, de création sans cesse continuée et
 contingente, de finalité, d'orientation vers un terme
 en tout cas, semblent caractéristiques du sujet .
 Et déjà sur la question débattue nous pouvons
-conclure. Il n'y a pas d'imposition a priori de l'esprit
-aux choses, ni a posteriori des choses à l'esprit, de
+conclure. Il n'y a pas d'imposition *a priori* de l'esprit
+aux choses, ni *a posteriori* des choses à l'esprit, de
 contrainte exercée par l'un sur l'autre dans la loi
 de retour éternel à laquelle est subordonné l'objet,
 comme dans toutes les autres lois constitutives ou
@@ -12098,13 +11266,11 @@ les premières directives qui sont soit des principes [^p286-1]
 
 [^p286-1]: Nous entendons par causalité fonctionnelle le sens criticiste et positiviste donné par Kant, Comte, St-Millet Mach, par exemple, à la causalité : une succession ou une concomitance pures et simples, un ordre dans l'apparition des faits, une covariance et non une production des faits.
 
-[p. 287]
-
-universels communs à l'objet et au sujet, soit des
+[p. 287] universels communs à l'objet et au sujet, soit des
 principes qui peuvent ne s'appliquer qu'à l'un ou à
 l'autre. Mais ils appartiennent par leur origine et leur
 genèse aussi bien à l'un qu'à l'autre. Ils sont tout
-autant a posteriori qu'a priori ; ou plutôt les deux
+autant *a posteriori* qu'*a priori* ; ou plutôt les deux
 termes n'ont plus de sens .
 L'idée de retour éternel est de ces derniers . Elle
 appartient à cette partie de l'Univers de la conscience,
@@ -12139,11 +11305,7 @@ passé d'une histoire de l'esprit humain, c'est-à-dire
 dans un bien petit fragment de l'Univers de la cons-
 cience. Elles s'élaborent avec la connaissance, puisque
 
-13
-
-[p. 288]
-
-la connaissance est sans cesse évolutrice : une création
+13 [p. 288] la connaissance est sans cesse évolutrice : une création
 continuée. Le savoir se fait ; il n'a jamais été tout fait,
 même dans ses parties les plus simples et les plus
 essentielles . Il n'est jamais fait. Il se gagne. C'est au
@@ -12180,11 +11342,7 @@ l'a fait est un des titres immortels du philosophe des
 philosophes : Descartes) . L'objet ne retient du réel
 que ces caractères, qui pour cela ont été appelés
 objectifs . L'esprit garde pour lui tout le reste.
-Mais prenons -y garde : là encore, il ne faut pas croire
-
-[p. 289]
-
-àun objet tout fait, définitif, statique, pas plus qu'à
+Mais prenons -y garde : là encore, il ne faut pas croire [p. 289] àun objet tout fait, définitif, statique, pas plus qu'à
 un sujet dont nous aurions à jamais épuisé l'intuition .
 Il faut les concevoir d'une façon dynamique. C'est
 pourquoi l'histoire des idées, l'histoire de la pensée,
@@ -12226,11 +11384,7 @@ ments du réel sont rejetés de l'objet, et réservés au
 sujet. Ils n'appartiennent pas à la matière, car nous
 pouvons appeler maintenant l'objet de ce nom plus
 correct emprunté au vocabulaire du sens commun ;
-ils appartiennent à l'esprit. Depuis l'aurore des scien
-
-[p. 290]
-
-ces de la matière ou de lascience tout court (car il n'y
+ils appartiennent à l'esprit. Depuis l'aurore des scien [p. 290] ces de la matière ou de lascience tout court (car il n'y
 a peut-être de sciences de la vie, de sciences psycholo-
 giques ou sociales,que dans la mesure où il peut y avoir
 matérialisation, objectivation des faits sur lesquels
@@ -12267,11 +11421,7 @@ du monde seraient données : il ne se passerait plus
 rien ce qui, en y réfléchissant, équivaut à: il n'y aurait
 plus rien. Enfin l'idée d'irréversibilité est liée à la
 conception que l'énergétisme se fait de l'énergie, de
-la spécificité des formes de l'énergie, en particulier
-
-[p. 291]
-
-de la chaleur. C'est la philosophie de la qualité qui
+la spécificité des formes de l'énergie, en particulier [p. 291] de la chaleur. C'est la philosophie de la qualité qui
 reparaît sous l'armure mathématique de la technique.
 Or, qualités , affirmation d'une orientation dans
 l'Univers, le haut et le bas dans l'échelle des tempéra-
@@ -12310,11 +11460,7 @@ sant pour étreindre plus de réel et l'étreindre en le
 serrant davantage. Mais il est resté le cinétisme, la
 doctrine du retour éternel dont l'histoire contempo-
 raine est en train de ramener le triomphe.
-Le sens de cette victoire nouvelle - après tant
-
-[p. 292]
-
-d'autres
+Le sens de cette victoire nouvelle - après tant [p. 292] d'autres
 de cette réapparition toujours plus nette
 de l'idée, après les critiques que des faits nouveaux
 ont semblé à plusieurs reprises suggérer pour l'anéan-
@@ -12353,11 +11499,7 @@ jectivité , éliminés d'abord par des schémas trop
 simplistes de l'objet, y reviennent. Et alors le tra-
 vail doit recommencer. Ainsi le principe de Carnot
 et l'énergétisme ont traduit tout un domaine nou-
-veau et immense introduit dans l'objet de la phy-
-
-[p. 293]
-
-sique, jusque-là confinée à l'énergie mécanique, et à
+veau et immense introduit dans l'objet de la phy-[p. 293]sique, jusque-là confinée à l'énergie mécanique, et à
 la machine à simple transformation de mouvements .
 Le travail d'élaboration dont nous venons de faire
 l'histoire c'est , après la nécessité de faire entrer dans
@@ -12385,7 +11527,7 @@ l'Univers
 objectif, de
 porter sa fin en lui-même et de s'y acheminer sponta-
 nément. De même qu'il n'est pas dans sa nature de
-commencer ex nihilo . Qu'il soit créé ou qu'il soit
+commencer *ex nihilo* . Qu'il soit créé ou qu'il soit
 éternel, il est organisé comme une machine qui peut
 marcher
 éternellement .
@@ -12400,11 +11542,7 @@ vement perpétuel, ce mouvement perpétuel refusé à
 l'imperfection de la machine humaine, reflet d'une
 intelligence finie. Et pour sortir des symboles théo-
 logiques qui ont enveloppé le berceau du mécanisme
-et les efforts d'objectivité de la Renaissance et du
-
-[p. 294]
-
-xvIIe siècle, disons, pour notre compte, en un langage
+et les efforts d'objectivité de la Renaissance et du [p. 294] xvIIe siècle, disons, pour notre compte, en un langage
 plusmoderne :
 Pour que la matière se suffise à elle-même et soit
 indépendante de nos concepts et de nos images, pour
@@ -12443,13 +11581,9 @@ sance à une fin subjective ?
 Ce serait bien mal nous comprendre. Nous nous
 sommes déjà efforcé d'éviter l'équivoque en esquis-
 sant sur ce point un fragment de théorie de la con-
-naissance, en refusant aussi bien un idéalisme a priori
+naissance, en refusant aussi bien un idéalisme *a priori*
 qui imposerait les lois du sujet à l'objet, qu'un empi-
-risme brutal qui ferait du sujet le miroir où se reflète
-
-[p. 295]
-
-l'objet. Mais il faut marquer ici avec plus de force et
+risme brutal qui ferait du sujet le miroir où se reflète [p. 295] l'objet. Mais il faut marquer ici avec plus de force et
 plus de netteté la position réaliste dans laquelle nous
 nous situons .
 L'objet n'est pas création du sujet, pas même orga-
@@ -12477,9 +11611,7 @@ La clôture de la période historique que nous avons
 de l'expérience c'est-à-dire du réel . Nous ne pourrions
 mieux conclure qu'en nous efforçant de le montrer.
 
-[p. 296]
-
-CHAPITRE II
+[p. 296] CHAPITRE II
 
 LA RÉALISATION DU RETOUR ÉTERNEL
 
@@ -12520,11 +11652,7 @@ la métrique spatiale, la physique de l'espace pur ?
 Cette condensation d'expériences continuera jus-
 qu'aux remaniements profonds de la période énergé-
 tiste . Ceux-ci sont l'aveu de la défaite d'un schéma
-trop simpliste dans la poursuite de l'objectif. Ils ame
-
-[p. 297]
-
-nèrent d'abord cette idée que l'énergie thermique est
+trop simpliste dans la poursuite de l'objectif. Ils ame [p. 297] nèrent d'abord cette idée que l'énergie thermique est
 irréductible aux énergies mécaniques, qu'elle doit
 avoir dans la construction de l'Univers physique une
 place à part, à cause de l'irréversibilité qu'elle en-
@@ -12556,7 +11684,7 @@ II
 La chaleur n'est pas une forme de l'énergie.
 
 L'expérience nous amène donc à la conclusion sui-
-vante, et non point les vues a priori de l'esprit
+vante, et non point les vues *a priori* de l'esprit
 :
 la chaleur n'est pas une forme spécifique de l'énergie.
 Ce n'est même pas une forme de l'énergie. C'est un
@@ -12567,9 +11695,7 @@ ne savons utiliser que du mouvement ordonné, c'est-
 à-dire un mouvement d'ensemble global, et non pas
 le mouvement des particules ultimes de la matière.
 
-[p. 298]
-
-Le mouvement ordonné tend vers le mouvement dé-
+[p. 298] Le mouvement ordonné tend vers le mouvement dé-
 sordonné à mesure que les circonstances exception-
 nelles qui l'ordonnent disparaissent. Car le mouve-
 ment spontané, sous les seules normes de la loi d'iner-
@@ -12608,11 +11734,7 @@ se répéter indéfiniment, chaque distribution n'enga-
 geant en rien celle qui la précède ou la suit . C'est le
 principe premier du calcul des probabilités au jeu de
 la rouge et de la noire. Chaque coup est nouveau, et
-après chaque coup, il n'y a aucune raison pour qu'une
-
-[p. 299]
-
-couleur sorte plutôt qu'une autre. La même pourrait
+après chaque coup, il n'y a aucune raison pour qu'une [p. 299] couleur sorte plutôt qu'une autre. La même pourrait
 donc théoriquement sortir indéfiniment. En fait,
 expérimentalement, nous savons qu'il n'en est rien.
 Nous savons même que plus on prolonge le jeu, les
@@ -12650,11 +11772,7 @@ dre au moins , pour avoir quelque chance de la cons-
 tater, je ne dis pas 10 milliards de siècles ,
 ce qui ne
 
-[^p299-1]: Brunhes : La dégradation de l'énergie, p. 338 et 340, d'après Boltzmann, Leçons sur la théorie des gaz,
-
-[p. 300]
-
-{
+[^p299-1]: Brunhes : La dégradation de l'énergie, p. 338 et 340, d'après Boltzmann, Leçons sur la théorie des gaz, [p. 300] {
 
 fait qu'un nombre de siècles égal à l'unité suivie de
 10 zéros - mais un nombre de siècles représenté par
@@ -12696,11 +11814,7 @@ Une dernière remarque entre beaucoup d'autres-
 moins importantes - doit appeler l'attention. L'ex-
 périence humaine est un fragment bien minuscule
 devant l'expérience, qui pourrait fonder à l'état brut
-notre confiance dans le retour éternel. Nous retrou-
-
-[p. 301]
-
-vons là l'hypercritique de toute induction et de tout
+notre confiance dans le retour éternel. Nous retrou-[p. 301]vons là l'hypercritique de toute induction et de tout
 savoir, et nous avons montré qu'elle n'était receva-
 ble que si l'on renonçait à tout savoir. Il faudrait
 même renoncer à la critique qui, elle aussi , ne vaut
@@ -12730,18 +11844,14 @@ mémoire le plus simple qui affirme un lien entre le
 souvenir et ce dont il est le souvenir .
 Mais ce n'est pas là donner à ces faits , je ne sais
 quoi de subjectif, et justifier une intervention de
-l'esprit et de l'a priori qui les modifierait ou les altére-
+l'esprit et de l'*a priori* qui les modifierait ou les altére-
 rait . La part de l'esprit n'est pas un motif de scepti-
 cisme, ni même un argument de critique. L'esprit se
 laisse imprégner par le réel. Il travaille dans la con-
 naissance, à dégager les lois du réel, à la suite de cette
 imprégnation . Or l'imprégnation n'est-ce pas l'ex-
 trapolation elle-même, l'universalisation de la trace
-retrouvée par lui sur le sable mouvant où il cherche
-
-[p. 302]
-
-ses pistes ? L'esprit, dans la connaissance,est essen-
+retrouvée par lui sur le sable mouvant où il cherche [p. 302] ses pistes ? L'esprit, dans la connaissance,est essen-
 tiellement le pouvoir de se répéter, comme il est le
 pouvoir de créer les nombres en ajoutant l'unité à
 elle-même, son premier acte aux autres. Constituer
@@ -12779,11 +11889,7 @@ dirimant à l'extrapolation : la paroi lisse qu'il faut
 tourner, ou devant laquelle il faut redescendre. Le
 principe de Clausius nous a amené en face de la paroi
 lisse quand nous avons rencontré les premières traces
-des fluctuations . La théorie cinétique des gaz, la théo
-
-[p. 303]
-
-rie des probabilités appliquées aux faits de la thermo-
+des fluctuations . La théorie cinétique des gaz, la théo [p. 303] rie des probabilités appliquées aux faits de la thermo-
 dynamique n'ont, jusqu'ici, pas rencontré l'obstacle .
 L'extrapolation indéfinie, interdite à la thermodyna-
 mique classique, est permise à la théorie cinétique.
@@ -12820,11 +11926,7 @@ rationnelle du sujet , relativement à la connaissance .
 VI
 
 Improbable et probable .
-On peut s'étonner pourtant, au point de vue ration
-
-[p. 304]
-
-nel, voire expérimental, du caractère paradoxal d'une
+On peut s'étonner pourtant, au point de vue ration [p. 304] nel, voire expérimental, du caractère paradoxal d'une
 évolution qui procède d'un état improbable vers des
 états de probabilité croissante ; on peut s'étonner
 encore d'un évanouissement progressifdu mouvement
@@ -12861,11 +11963,7 @@ sairement que l'apparition des « complexions », des
 événements les plus probables. La fréquence en est
 moindre voilà tout : « A qui dispose du temps, rien
 d'impossible » pour reprendre le mot d'Hésiode ; et
-l'Univers objectif - toutes réserves faites sur l'idée
-
-[p. 305]
-
-de création
+l'Univers objectif - toutes réserves faites sur l'idée [p. 305] de création
 dispose du temps.Du moins il est cons-
 truit comme s'il en disposait. Ce n'est que d'une vo-
 lonté extérieure à lui qu'a pu venir un premier com-
@@ -12904,11 +12002,7 @@ au galop. Le temps est relatif (au sens philosophique
 vulgaire et non Einsteinien du mot). Une journée pour
 un éphémère peut paraître comme notre vie : une se-
 conde pour des êtres encore bien plus éphémères,
-peut paraître l'infini. Inversement, la durée d'une
-
-[p. 306]
-
-galactie, d'un système sidéral, peut être comptée
+peut paraître l'infini. Inversement, la durée d'une [p. 306] galactie, d'un système sidéral, peut être comptée
 comme une seconde pour une pensée qui vivrait dans
 l'inverse rapport avec la pensée humaine. Le temps
 effroyable, pour nous, hommes, 100
@@ -12953,9 +12047,7 @@ sement : révolutions qui se déroulent de façon cycli-
 que, révolutions comme dans nos machines, si nous
 nous donnons le temps .
 
-[p. 307]
-
-Or, la pensée, même la pensée humaine, par son
+[p. 307] Or, la pensée, même la pensée humaine, par son
 idée de l'infini, entendue aussi pauvrement qu'on le
 voudra, au sens d'indéfini par exemple, la pensée
 humaine, par son pouvoir de répétition qui n'est autre
@@ -12992,11 +12084,7 @@ une évolution , il y a une suite de révolutions (au sens
 astronomique du mot), révolutions qui repassent à
 peu près par les mêmes points . Le Dr Le Bon ( 1 ) a [^p307-1]
 
-[^p307-1]: Epigraphe de l'Evolution de la matière. En 1881, la même année que Nietzsche, il avait formulé l'hypothèse
-
-[p. 308]
-
-de la façon la plus expressive formulé un principe
+[^p307-1]: Epigraphe de l'Evolution de la matière. En 1881, la même année que Nietzsche, il avait formulé l'hypothèse [p. 308] de la façon la plus expressive formulé un principe
 d'évolution en disant : Rien ne se crée,tout se perd.
 De même André Lalande en opposant dissolution à
 évolution. Mais la physique contemporaine s'est
@@ -13010,7 +12098,7 @@ qui est ? Et comment se fait-il, si l'objet se suffit à
 lui-même, que tout ne se soit déjà perdu ? Une exi-
 gence
 nce du sujet, en somme pour les mêmes motifs :
-car la raison ne peut s'expliquer ni création ex nihilo,
+car la raison ne peut s'expliquer ni création *ex nihilo*,
 ni retour ad nihilum. Elle peut les formuler ; elle
 pourrait
 les
@@ -13047,9 +12135,7 @@ du retour éternel dans un autre ouvrage L'homme et les
 sociétés. Et, comme on voit, nos conclusions se rapprochent
 beaucoup plus de celle-ci que de celle-là.
 
-[p. 309]
-
-mondes antithétiques, contraires, mais non contra-
+[p. 309] mondes antithétiques, contraires, mais non contra-
 dictoires , puisqu'ils ne font qu'un, en vérité.
 Comme dans le mythe du Banquet ces deux unités
 de l'être , séparées mais non étrangères, se recherchent
@@ -13088,9 +12174,7 @@ niment petit de ta vie reviennent pour toi, et tout cela
 dans la même suite et le même ordre -- et aussi cette
 araignée et ce clair de lune entre les arbres , et aussi
 
-[p. 310]
-
--
+[p. 310] -
 
 cet instant et moi-même. L'éternel sablier de l'exis-
 tence sera retourné toujours à nouveau
@@ -13138,9 +12222,7 @@ loi suprême de l'objet, le retour éternel est lié dans [^p310-1]
 [^p310-1]: Nietzsche, Le gai savoir, tr. fr. , p. 295, op. 341 .
 [^p310-2]: Id. , Werke, XII, 122 ( Œuvres posthumes), trad. de Henri Lichtenberger in La Philosophie de Nietzsche, p. 162 (Paris, Alcan) .
 
-[p. 311]
-
-l'unité du réel à l'éternité tout court, loi suprêmede
+[p. 311] l'unité du réel à l'éternité tout court, loi suprêmede
 lapensée.
 << Combien il te faudrait aimer la vie et que tu
 t'aimes toi-même pour ne plus désirer autre chose
@@ -13178,11 +12260,7 @@ progrès , et non d'un retour,bien qu'elle ne soit qu'une
 manière appauvrie et toute humaine d'apercevoir
 
 [^p311-1]: Nietzsche, Le gai savoir, tr. fr. , p. 296.
-[^p311-2]: Nietzsche, Ainsi parla Zarathustra.Werke, p. 461-471. Mêmes pages dans la traduction française de H. Albert. Cité ici d'après la traduction de Henri Lichtenberger dans La philosophie de Nietzsche, Paris, Alcan. 1
-
-[p. 312]
-
-l'infini et la qualité, d'apercevoir la pensée pure, qui,
+[^p311-2]: Nietzsche, Ainsi parla Zarathustra.Werke, p. 461-471. Mêmes pages dans la traduction française de H. Albert. Cité ici d'après la traduction de Henri Lichtenberger dans La philosophie de Nietzsche, Paris, Alcan. 1 [p. 312] l'infini et la qualité, d'apercevoir la pensée pure, qui,
 elle, ne se laisse exprimer, au delà du temps etde la
 durée, que par l'éternité .
 L'humaine pensée, l'humaine conscience, notre
@@ -13219,11 +12297,7 @@ elle aussi, intelligence et raison, tandis que son objet
 est seulement intelligibilité et rationalité.
 « Est » entendons : « tendent à être ». La pensée
 humaine et son objet n'atteindraient leur fin qu'à la
-limite, qui est inaccessible. Mais toute définition est
-
-[p. 313]
-
-limite. Plutôt, toute définition nous fait passer à la
+limite, qui est inaccessible. Mais toute définition est [p. 313] limite. Plutôt, toute définition nous fait passer à la
 limite. Elle appartient à la catégorie de l'idéal . Ne
 serait-ce pas en cela qu'elle touche la vérité ? et par
 ce qu'elle transcende d'un coup d'état rationnel, les
@@ -13265,11 +12339,7 @@ Mais le choix aspire toujours à s'éclairer et tend vers l'in-
 telligible. C'est lui qui, au lieu du hasard, reflète, mais à un
 degré plus intime, la rationalité de l'être, dans sa plénitude,
 donc dans sa liberté, laquelle ne fait qu'un avec ce qui nous
-apparaît comme nécessaire,
-
-[p. 314]
-
-CONCLUSION
+apparaît comme nécessaire, [p. 314] CONCLUSION
 
 < Mais c'est la pensée qui est le tout >
 (H. Poincaré.)
@@ -13303,9 +12373,7 @@ d'une multiplicité régie par le principe d'addivité,
 d'organisation incessante des éléments avec eux-mê-
 mes : cette nature et cette loi s'impliquent.
 
-[p. 315]
-
-Voilà pourquoi, à notre sens, toute connaissance
+[p. 315] Voilà pourquoi, à notre sens, toute connaissance
 de la matière, de l'objet, toute physique tend à s'or-
 donner à la loi du retour éternel.
 Aussi la loi du retour éternel se présente-t-elle à
@@ -13343,11 +12411,7 @@ irréductible toute cette part de subjectif qui est notre
 Pourrions-nous dire que nous sommes en face d'une
 pensée qui s'explicite à la fois en géométrique et en
 psychologique, en intuition intellectuelle et ration-
-nelle, et en intuition interne, en intuition tout court
-
-[p. 316]
-
-presque dans l'acception que M. Bergson adonnée à
+nelle, et en intuition interne, en intuition tout court [p. 316] presque dans l'acception que M. Bergson adonnée à
 ce mot ? la première, créatrice de la science et de l'ob-
 jet ; la seconde, créatrice du monde des valeurs et de
 notre propre personnalité ?
@@ -13385,9 +12449,7 @@ Juillet 1925.
 
 [^p316-1]: Spinoza, Ethices, V. prop. XXIII, scholie, FIN
 
-[p. 317]
-
-TABLE DES MATIÈRES
+[p. 317] TABLE DES MATIÈRES
 
 AVANT-PROPOS
 PRÉFACE
@@ -13444,11 +12506,7 @@ Carnot.- III. La seconde étape logique : lamodification
 
 45
 
-55
-
-[p. 318]
-
-réversible.- IV. Réversibilité logique du cycle de Carnot.
+55 [p. 318] réversible.- IV. Réversibilité logique du cycle de Carnot.
 -V. Cycle de Carnot et rendement maximum.
 testament scientifique de Carnot.
 CHAPITRE III. - Les corrections de Clausius .
@@ -13497,7 +12555,7 @@ tendances.
 V.La réaction d'Ostwald : l'unité de l'énergie
 et ses difficultés . - VI . La réaction de Rankine : la décon-
 centration de l'énergie, son échec.
-Selme .- VIII . Déduction a priori des principes de l'éner-
+Selme .- VIII . Déduction *a priori* des principes de l'éner-
 gie.- IX. Conservation de l'entropie.
 X. Principede
 Carnot: principe de conservation.
@@ -13533,11 +12591,7 @@ IV. Les
 
 116
 
-171
-
-[p. 319]
-
-moyennes et la théorie cinétique.- V. La première étape
+171 [p. 319] moyennes et la théorie cinétique.- V. La première étape
 de la théorie : théorème de distribution des vitesses de
 Maxwell.
 VI. Les gaz parfaits.- VII. La seconde étape :
@@ -13609,7 +12663,7 @@ CHAPITRE I. - Métaphysique du retour éternel .
 ..
 
 I. Rétrospective. -II. Les idées qui mènent la science. -
-III. Le retour éternel est-il un artifice a priori de l'esprit.
+III. Le retour éternel est-il un artifice *a priori* de l'esprit.
 IV. Le retour éternel et le principe d'identité.
 V. La
 confusion originaire du subjectif et de l'objectif.
@@ -13621,9 +12675,7 @@ subjectif et le retour éternel.-VIII. L'objetdoit se suffire
 
 265
 
-[p. 320]
-
-I. L'expérience etle cinétisme.- II. La chaleur n'est pas une
+[p. 320] I. L'expérience etle cinétisme.- II. La chaleur n'est pas une
 forme de l'énergie.
 III. Il est nécessaire que le principe
 de Carnot soit violé. - IV. Extrapolation et connaissance.

@@ -10,9 +10,7 @@ title: "Les Origines humaines et l'évolution de l'intelligence (1928)"
 
 ---
 
-[p. V]
-
-Duck
+[p. V] Duck
 1-7-86
 20525
 
@@ -52,9 +50,7 @@ veuille le lecteur n'y voir que des pierres d'attente, mises
 là dès maintenant pour écarter aussi tôt que possible cer-
 taines erreurs d'interprétation. Mon but final cependant
 
-[p. VI]
-
-VI
+[p. VI] VI
 AVANT-PROPOS
 
 reste métaphysique ; mais, avant de l'atteindre ou même
@@ -92,9 +88,7 @@ lyse de l'exigence idéaliste, pourquoi aussi je m'en tiens
 cette fois à une brève esquisse des moyens par lesquels
 invente la vie. L'examen de ces questions, joint à celui de
 
-[p. VII]
-
-AVANT-PROPOS
+[p. VII] AVANT-PROPOS
 VII
 
 certaines conséquences
@@ -105,9 +99,7 @@ verra que les deux Cours préliminaires forment à leur façon
 un tout, qui déjà prête à étude autonome, parce qu'il
 possède une relative, mais réelle indépendance.
 
-[p. 1]
-
-LES ORIGINES HUMAINES
+[p. 1] LES ORIGINES HUMAINES
 ET L'ÉVOLUTION DE L'INTELLIGENCE
 
 I
@@ -134,11 +126,7 @@ de philosophie conjuguées, un corps de principes dont il reste à
 poursuivre l'application. Le moment est donc venu de faire un
 pas de plus et d'aborder en face le problème capital des origines
 
-[^p1-1]: Voir la Revue des Cours et Conférences, nos du 15 décembre 1926 au 15 juillet 1927 Ces pages, augmentées d'une préface, ont été ensuite réunies en un volume paru à la librairie Boivin, sous le même titre : L'exi- gence idéaliste et le fait de l'évolution. 1
-
-[p. 2]
-
-humaines, du même point de vue et dans le même esprit toujours .
+[^p1-1]: Voir la Revue des Cours et Conférences, nos du 15 décembre 1926 au 15 juillet 1927 Ces pages, augmentées d'une préface, ont été ensuite réunies en un volume paru à la librairie Boivin, sous le même titre : L'exi- gence idéaliste et le fait de l'évolution. 1 [p. 2] humaines, du même point de vue et dans le même esprit toujours .
 Telle sera en effet la tâche que nous allons entreprendre main-
 tenant.
 Faut-il redire la principale conclusion naguère obtenue
@@ -176,9 +164,7 @@ façon, nécessaire d'en faire l'épreuve. De là, très naturellement
 introduit, le double objet de ce Cours: une enquête sur les ori-
 gineshumaines, avec l'intentionde discerner surtout les voies dans
 
-[p. 3]
-
-LE PHÉNOMÈNE HUMAIN
+[p. 3] LE PHÉNOMÈNE HUMAIN
 3
 
 lesquelles s'est accomplie l'évolution de l'intelligence. Nous
@@ -220,9 +206,7 @@ philosophie. Les deux disciplines, primitivement confondues, ne [^p3-1]
 
 [^p3-1]: Évolution créatrice, p. 212-213.
 
-[p. 4]
-
-deviennent séparables qu'au terme du voyage; et elles commen-
+[p. 4] deviennent séparables qu'au terme du voyage; et elles commen-
 cent l'étape ensemble, sur un terrain commun, distinguées seule-
 ment par l'orientation que prennent leurs espérances .
 De ce principe, une application s'impose à nous sans plus
@@ -259,9 +243,7 @@ les conclusions ultérieures : péril d'anthropocentrisme générateur
 d'anthropomorphisme. Il y a donc nécessité pratique d'adopter
 d'abord la seconde attitude. Pour commencer, dès lors, nous nous
 
-[p. 5]
-
-LE PHÉNOMÈNE HUMAIN
+[p. 5] LE PHÉNOMÈNE HUMAIN
 5
 
 abstiendrons provisoirement de toute métaphysique, nous nous
@@ -303,9 +285,7 @@ morphologie ont esquissé l'ébauche d'une soudure, attentives à
 
 -
 
-[p. 6]
-
-voir effectivement dans l'Homme un élément de leurs systèmes,
+[p. 6] voir effectivement dans l'Homme un élément de leurs systèmes,
 etun élément essentiel. Toutefois, parce que leur spécialité même
 les détourne des considérations proprement fonctionnelles, parce
 qu'elles se restreignent donc à un domaine et opèrent avec des
@@ -342,9 +322,7 @@ de ce qui dépasse l'ordre phénoménal, mais sans rien non plus
 en méconnaître de ce qu'une observation par l'extérieur ferait
 noter au sujet de n'importe quelle espèce vivante nouvellement
 
-[p. 7]
-
-LE PHÉNOMÈNE HUMAIN
+[p. 7] LE PHÉNOMÈNE HUMAIN
 7
 
 découverte en quelque recoin inexploré du monde ou à la surface
@@ -386,11 +364,7 @@ Au cours de cette recherche, nous aurons à consulter divers
 documents . Par-dessus tout, des mémoires techniques : ce sera
 notre source majeure ; puis, quelques livres généraux et déjà
 presque philosophiques, dus eux-mêmes, pour la plupart, à des
-savants . Les uns et les autres seront mentionnés,chemin faisant,
-
-[p. 8]
-
-au fur et à mesure de leur utilisation. Mais je dois indiquer tout
+savants . Les uns et les autres seront mentionnés,chemin faisant, [p. 8] au fur et à mesure de leur utilisation. Mais je dois indiquer tout
 de suite et à part une source d'un autre genre, où j'ai puisé sans
 réserve, surtout pour les premières leçons. Déjà, dans le précédent
 volume, je citais à maintes reprises le nom d'un paléontologiste
@@ -423,9 +397,7 @@ ce point de vue strictement zoologique, nous essaierons de noter
 
 [^p8-1]: Ce qui fait, soit dit en passant, que, malgré tout, j'en reste seul res- ponsable. Quant à l'inspiration philosophique de ce Cours, elle demeure celle qui qui fut définie dans l'Avant-propos et les premières Leçons du pré- cédent volume :: un Idéalisme d'un genre assez particulier, non idéologique ni déductif, mais ami de l'expérience concrète, qui voit au principe pe et au fond de l'être moins des choses que des actions ; et, a fortiori, rien ne permet de l'attribuer tel quel à personne autre que moi-même .
 
-[p. 9]
-
-LE PHÉNOMÈNE HUMAIN
+[p. 9] LE PHÉNOMÈNE HUMAIN
 9
 
 en purs naturalistes les caractères distinctifs de l'Homme. J'en
@@ -468,9 +440,7 @@ paléontologiste, quand il étudie la morphologie humaine » [^p9-2] .
 [^p9-1]: Par comparaison aux Anthropomorphes.
 [^p9-2]: Teilhard, Conférence inédite. - Même référence pour les passages ci- dessous mis entre guillemets, sauf indication contraire.
 
-[p. 10]
-
-10
+[p. 10] 10
 LES
 ORIGINES HUMAINES
 
@@ -512,9 +482,7 @@ qu'il avait chaque fois de principal, par l'intervention de formes
 incomplètement spécialisées. En tout point de bifurcation ou
 plutôt de rayonnement verticillaire dans la série multiplement
 
-[p. 11]
-
-LE PHÉNOMÈNE HUMAIN
+[p. 11] LE PHÉNOMÈNE HUMAIN
 11
 
 ramifiée des vivants, on observe une circonstance qui se répète
@@ -553,11 +521,7 @@ savant, il ne semble déraciné, isolé, sans commune mesure avec
 ses voisins morphologiques .
 Pour corriger pleinement la première impression et ne pas
 tomber dans l'excès contraire, pour sauvegarder la grandeur du
-fait humain sans le détacher de son cadre expérimental ni con
-
-[p. 12]
-
-tredire ses modestes apparences, il faut que le regard se porte
+fait humain sans le détacher de son cadre expérimental ni con [p. 12] tredire ses modestes apparences, il faut que le regard se porte
 sur un deuxième caractère zoologique de l'Humanité, non moins
 positif que le précédent, mais qui déjà commence à révéler en
 plus vraie lumière, bien que toujours d'un point de vue extérieur,
@@ -595,9 +559,7 @@ d'égale valeur. Le moment n'est pas venu encore de discuter com-
 
 [^p12-1]: Boule, Les Hommes fossiles, 2e éd., p . 66 .
 
-[p. 13]
-
-LE PHÉNOMÈNE HUMAIN
+[p. 13] LE PHÉNOMÈNE HUMAIN
 13
 
 plètement la question, plus complexe et plus grave qu'elle ne
@@ -636,11 +598,7 @@ jusque-là, ont présidé à la classification. C'est possible. Je ne
 vois néanmoins, pour cela, aucune raison valable de négliger
 un tel caractère, car il porte sur un trait de comportement
 aussi réel et positif que nul autre, aussi accessible à l'observa-
-tion externe. De ce qu'avant d'atteindre l'Homme on ne s'est pas
-
-[p. 14]
-
-servi du caractère intellectuel comme d'un principe classificateur,
+tion externe. De ce qu'avant d'atteindre l'Homme on ne s'est pas [p. 14] servi du caractère intellectuel comme d'un principe classificateur,
 s'ensuit-il qu'on ne doive jamais s'en servir ? Ce serait oublier
 que, pour établir les compartiments successifs du cadre dichoto-
 mique antérieur, on a changé à maintes reprises le type des con-
@@ -659,7 +617,7 @@ les regarder comme si différents des autres, comme incompa-
 rables ? On n'y est pas autorisé de prime abord. Et qu'on ne
 craigne pas, en admettant les faits du psychisme, de rompre
 d'avance avec les cadres de la physico-chimie : nous n'en savons
-rien a priori, toutes possibilités de réduction ultérieure (autant
+rien *a priori*, toutes possibilités de réduction ultérieure (autant
 qu'elles existent) restant ouvertes après comme avant.
 Au surplus, les cadres de classification valables pour l'époque
 actuelle doivent être parfois remaniés en paléontologie. Faut-il
@@ -677,9 +635,7 @@ ci offrent des traits de reptiles, des traits de mammifères, et ne
 sont vraiment ni l'un ni l'autre. Ceux-là sont rangés communé-
 ment dans la classe des Poissons ; ils en diffèrent cependant par
 
-[p. 15]
-
-LE PHÉNOMÈNE HUMAIN
+[p. 15] LE PHÉNOMÈNE HUMAIN
 15
 
 des caractères essentiels : extériorité du squelette, manque de
@@ -726,9 +682,7 @@ usuelle. Mais je n'en parlerai pas moins de règne humain . Seule-
 
 [^p15-1]: On l'a soutenu dernièrement, bien qu'à vrai dire cela paraisse assez difficile à constater en toute certitude.
 
-[p. 16]
-
-ment je n'attacherai à ce terme que le sens d'une domination
+[p. 16] ment je n'attacherai à ce terme que le sens d'une domination
 sur la Terre , domination qui appartient aujourd'hui à l'Homme ,
 de même que, pendant le Secondaire, elle appartenait aux Rep-
 tiles . Telle sera notre perspective dans l'analyse du second carac-
@@ -765,9 +719,7 @@ c'est là un caractère d'importance majeure aux yeux du natura-
 liste,-l'Humanité constitue un tout morphologique d'une sim-
 plicité, d'une homogénéité surprenantes. Nous l'avons déjà re
 
-[p. 17]
-
-LE PHÉNOMÈNE HUMAIN
+[p. 17] LE PHÉNOMÈNE HUMAIN
 17
 
 connu avec le P. Teilhard : « Très peu de chose, ostéologiquement
@@ -811,11 +763,7 @@ il crée des formes nouvelles.De nos jours, les travaux de labora-
 toire accroissent à l'infini ce pouvoir humain ; et voici que le
 combat est commencé contre l'insecte et le microbe. L'élan
 
-2
-
-[p. 18]
-
-grandit incoercible. Rien ne vaut pour lui disputer l'empire.
+2 [p. 18] grandit incoercible. Rien ne vaut pour lui disputer l'empire.
 Si, çà et là, d'autres groupes vivants paraissent rivaliser encore
 de capacité cosmopolite avec l'Homme,« c'est bien souvent qu'il
 les porte avec lui et les fait bénéficier de son étrange pouvoir de
@@ -844,9 +792,7 @@ représente.
 [^p18-1]: Transport involontaire d'insectes, par exemple ; puis importation voulue d'ennemis ou de parasites pour les détruire .
 [^p18-2]: Natural History, New-York, vol. XXII, 1922.
 
-[p. 19]
-
-II
+[p. 19] II
 
 LES CARACTÉRISTIQUES DE L'HUMANITÉ
 
@@ -870,7 +816,7 @@ négliger ou méconnaître sans défigurer ou rendre inexplicable,
 même au regard de la science pure, le fait de l'invasion humaine,
 du règne humain. Ces deux nouveaux aspects, ce sont : 1º l'u-
 sage, par les individus, de l'instrument artificiel ; 2º la réalisa-
-tion, par la collectivité, d'une liaison organique sui generis ,
+tion, par la collectivité, d'une liaison organique *sui generis* ,
 principe d'unité consciemment cohérente. Nous allons étudier
 ce deuxième couple de caractéristiques plus profondes. Ce
 sera l'achèvement du travail préliminaire entrepris dans
@@ -879,9 +825,7 @@ précédente leçon et qui tend à différencier le groupe humain de
 
 [^p19-1]: Relativement, comparativement.
 
-[p. 20]
-
-tout autre. Ce sera, enoutre, un commencementd'explicationdéjà .
+[p. 20] tout autre. Ce sera, enoutre, un commencementd'explicationdéjà .
 On peut dire en premier lieu qu'avec l'Homme, la vie entre
 dans une phase nouvelle de son progrès : la phase instrumentale.
 Voilà un point qu'il sera facile de mettre en lumière.
@@ -925,9 +869,7 @@ A vrai
 dire, les feuilles sont plutôt collées que cousues, la soie étant émise à l'état
 liquide et ne se solidifiant qu'après coup.
 
-[p. 21]
-
-LES CARACTÉRISTIQUES DE L'HUMANITÉ
+[p. 21] LES CARACTÉRISTIQUES DE L'HUMANITÉ
 21
 
 l'artifice ne va guère loin ; ce qui est le plus digne d'attention
@@ -970,9 +912,7 @@ riche et plus indépendante, etc. Dans ces divers cas, vraiment ,
 (1)Evolution créatrice, p. 151-152.- Je ne retiens de ce passage, pour le
 moment, que l'opposition entre naturel animal et artificiel humain.
 
-[p. 22]
-
-il y a une spécialité instrumentale par genre, par famille ou par
+[p. 22] il y a une spécialité instrumentale par genre, par famille ou par
 ordre zoologique ; la classe même, l'embranchement et le règne
 se laissent définir d'une façon homologue. Il en va d'ailleurs
 tout pareillement quand on entre davantage dans le détail des
@@ -1009,9 +949,7 @@ moindre degré, les Abeilles offrent des exemples si remarquables .
 Toujours, bien que sous des modalités diverses, le cas normal ,
 dans le monde infra-humain, est que l'outil se confonde avec
 
-[p. 23]
-
-LES CARACTÉRISTIQUES DE L'HUMANITÉ
+[p. 23] LES CARACTÉRISTIQUES DE L'HUMANITÉ
 23
 
 le corps, que le vivant passe dans son invention,quel'organisme
@@ -1053,11 +991,7 @@ Cette dernière proposition peut paraître un peu étrange. A la
 réflexion, cependant, on s'apercevra tout à fait plausible. Si
 vraiment (comme on n'en peut guère douter) les différenciations
 somatiques, dont se préoccupent tant les zoologistes, sont liées
-à la transformation des organes en outils, l'Homme- capable
-
-[p. 24]
-
-de fabriquer des outils sans s'y incarner- échappe désormais
+à la transformation des organes en outils, l'Homme- capable [p. 24] de fabriquer des outils sans s'y incarner- échappe désormais
 tout naturellement à la servitude de devoir se transformer cor-
 porellement pour agir ; il devient capable de progresser sans
 changer de forme, de varier à l'infini son action sans modifier
@@ -1095,9 +1029,7 @@ groupe humain, le même individu peut être tour à tour cheval,
 
 [^p24-1]: Je continue en tout ceci à résumer, presque textuellement parfois et sauf intercalation de commentaires, un travail inédit du P. Teilhard, où il a exprimé les résultats de nos méditations communes.
 
-[p. 25]
-
-LES CARACTÉRISTIQUES DE L'HUMANITÉ
+[p. 25] LES CARACTÉRISTIQUES DE L'HUMANITÉ
 25
 
 taupe, oiseau ou poisson. Seul parmi les animaux, l'Homme a,
@@ -1139,9 +1071,7 @@ armes, les premiers outils. On n'a pas oublié la querelle mémo-
 
 [^p25-1]: Evolution créatrice, p. 149-151.
 
-[p. 26]
-
-rable qui s'éleva autour de la découverte de Boucher de Perthes
+[p. 26] rable qui s'éleva autour de la découverte de Boucher de Perthes
 dans la carrière de Moulin-Quignon. La question était de savoir
 si l'on avait affaire à des haches véritables ou à des fragments
 de silex brisés accidentellement. Mais que, si c'étaient des ha-
@@ -1178,9 +1108,7 @@ déplacent sur un chariot, tandis que le cristallin est réglé par son
 
 1) L'Adaptation, p. 382-384
 
-[p. 27]
-
-LES CARACTÉRISTIQUES DE L'HUMANITÉ
+[p. 27] LES CARACTÉRISTIQUES DE L'HUMANITÉ
 27
 
 ligament suspenseur et les procès ciliaires ; la chambre noire
@@ -1220,11 +1148,7 @@ donc l'importance du caractère que nous analysons. Seulement,
 Car les mêmes faits montrent la constance d'une particularité
 significative : la ruse de l'animal n'utilise jamais que des moyens
 tirés de l'organisme lui même et de ses ressources propres, de
-ses produits ou de ses modifications, tandis que l'appareil com
-
-[p. 28]
-
-biné par l'Homme reste extérieur à son corps, la technique
+ses produits ou de ses modifications, tandis que l'appareil com [p. 28] biné par l'Homme reste extérieur à son corps, la technique
 dont il use étrangère à sa physiologie. C'est là précisément le
 caractère que je voulais signaler
 et qui définit l'originalité
@@ -1264,9 +1188,7 @@ puissantes lignées apparues au sein des formes vivantes », cet
 immense événement n'est encore presque rien auprès d'un autre
 fait capital que révèle aussi l'inspection de la couche humaine.
 
-[p. 29]
-
-LES CARACTÉRISTIQUES DE L'HUMANITÉ
+[p. 29] LES CARACTÉRISTIQUES DE L'HUMANITÉ
 29
 
 « L'Humanité ne fait pas simplement servir sa domination
@@ -1311,9 +1233,7 @@ supérieur, aucune collectivité vivante
 que ce soit la biosphèr
 -
 
-[p. 30]
-
-dans sa totalité ou une fraction naturelle de celle-ci, une faune
+[p. 30] dans sa totalité ou une fraction naturelle de celle-ci, une faune
 par exemple
 « n'est concevable pour la science autrement
 que parcourue et animée par certaines forces de solidarité qui
@@ -1355,11 +1275,7 @@ du naturel où l'homme a imprimé sa marque propre, c'est pour
 cela que « nous méconnaissons des analogies aussi claires que
 celles de l'oiseau et de l'avion, du poisson et du sous-marin »,
 ou tant d'autres qu'on pourrait énumérer. Sous l'influence du
-même préjugé néfaste, ne voyons-nous pas depuis des années,
-
-[p. 31]
-
-LES CARACTÉRISTIQUES DE L'HUMANITÉ
+même préjugé néfaste, ne voyons-nous pas depuis des années, [p. 31] LES CARACTÉRISTIQUES DE L'HUMANITÉ
 31
 
 sans comprendre, « se former sous nos yeux l'étonnant réseau
@@ -1415,9 +1331,7 @@ organisme individuel ? Mais il n'y aurait rien de pareillement
 il faut l'avouer
 -
 
-[p. 32]
-
-déraisonnable à chercher le terme de comparaison du côté de ces
+[p. 32] déraisonnable à chercher le terme de comparaison du côté de ces
 grandes unités naturelles collectives auxquelles j'ai déjà fait
 plusieurs fois allusion et que la biologie moderne considère de
 plus enplus comme des réalités très positives.
@@ -1457,9 +1371,7 @@ groupes sociaux que l'on connaisse dans le règne animal offrent
 Briffault, The Evolution of Human Species, dans la revue Scientia
 de juin 1927.
 
-[p. 33]
-
-LES CARACTÉRISTIQUES DE L'HUMANITÉ
+[p. 33] LES CARACTÉRISTIQUES DE L'HUMANITÉ
 33
 
 sans exception un même caractère : celui d'associations conju-
@@ -1497,12 +1409,8 @@ constat est possible du dehors, par une observation externe,
 semblable à celle du naturaliste ; et nous en avons relevé quatre
 principales : faible différenciation morphologique, extension de
 
-[^p33-1]: Briffault, loc. cit. 3
-
-[p. 34]
-
-règne, ouverture d'une phase instrumentale dans l'histoire de
-la vie, enfin unité sui generis du groupe humain. A ces caractères
+[^p33-1]: Briffault, loc. cit. 3 [p. 34] règne, ouverture d'une phase instrumentale dans l'histoire de
+la vie, enfin unité *sui generis* du groupe humain. A ces caractères
 déjà si originaux, s'en rattache un dernier, plus profond et plus
 singulier encore, qui en procède pour une part et pour une autre
 part les explique. Il est temps de conclure, et nous le ferons en
@@ -1542,9 +1450,7 @@ un seul Tout dans lequel chaque élément, unifié d'abord en soi
 
 -
 
-[p. 35]
-
-LES CARACTÉRISTIQUES DE L'HUMANITÉ
+[p. 35] LES CARACTÉRISTIQUES DE L'HUMANITÉ
 35
 
 à ses propres yeux, est aussi conscient de son agrégation aux
@@ -1585,9 +1491,7 @@ efficace, qui aura des répercussions indélébiles sur l'avenir de
 
 [^p35-1]: Teilhard, mémoire inédit.
 
-[p. 36]
-
-l'élan vital ; un facteur jusque-là inconnu intervient au cours
+[p. 36] l'élan vital ; un facteur jusque-là inconnu intervient au cours
 de toute l'évolution ultérieure : le pouvoir de grève, devant le
 travail et même devant la vie. A partir de l'Homme, est donc
 inaugurée une phase entièrement nouvelle de l'être, où se re-
@@ -1608,9 +1512,7 @@ compte
 à
 l'Humanité dans la Nature ?
 
-[p. 37]
-
-III
+[p. 37] III
 
 LA NOOSPHÈRE ET L'HOMINISATION
 
@@ -1644,9 +1546,7 @@ intérieure manifestée par les autres grandes nappes animales,
 
 -
 
-[p. 38]
-
-38
+[p. 38] 38
 LES ORIGINES HUMAINES
 
 que cette homogénéité n'est au fond qu'apparente et que,
@@ -1691,9 +1591,7 @@ doxe humain s'en trouve atténué. Toutefois, parce que l'Hu-
 
 -
 
-[p. 39]
-
-LA NOOSPHÈRE ET L'HOMINISATION
+[p. 39] LA NOOSPHÈRE ET L'HOMINISATION
 39
 
 -
@@ -1742,9 +1640,7 @@ qui consiste à immerger notre groupe, à titre de sous-ordre ou
 
 [^p39-1]: Se borner à l'infra-humain d'aujourd'hui ou s'arrêter aux formes ter- tiaires de la vie ce sont là deuxhypothèses équivalentes.
 
-[p. 40]
-
-de famille, au milieu des Singes »
+[p. 40] de famille, au milieu des Singes »
 [^p40-1]. Mais
 elle
 aurait, par
@@ -1783,9 +1679,7 @@ tères purement corporels adoptés jusque-là par la Systéma-
 
 [^p40-1]: Teilhard, Mémoire inédit .-De même pour les divers passages mis plus loin entre guillemets sans autre indication. Je suis pas à pas ce mé- moire, qui résume nos idées communes ; mais je le complète aussi et prends d'ailleurs trop de libertés avec le texte pour en faire, sauf par accident. une citation expresse.
 
-[p. 41]
-
-LA NOOSPHÈRE ET L'HOMINISATION
+[p. 41] LA NOOSPHÈRE ET L'HOMINISATION
 41
 
 tique pour hiérarchiser les êtres, et la suprême originalité du
@@ -1828,9 +1722,7 @@ d'atmosphère, auxquelles a recours la Physique duGlobe, quand
 
 [^p41-1]: L'exigence idéaliste et le fait de l'évolution, p . 104-111, 120-123, 159- 196, 263-264.
 
-[p. 42]
-
-elle étudie la chaleur centrale, la pesanteur profonde, la cons-
+[p. 42] elle étudie la chaleur centrale, la pesanteur profonde, la cons-
 titution ou l'élasticité de l'écorce, la distribution des continents
 ou des montagnes, le régime des mers, la circulation des vents,
 le jeu des météores, etc. Eh bien ! La notion de Biosphère est
@@ -1868,9 +1760,7 @@ on commence aujourd'hui à
 (2) Sur la chimie de la biosphère, je ne puis que renvoyer aux travaux si
 intéressants de M. Vernadsky.
 
-[p. 43]
-
-LA NOOSPHÈRE ET L'HOMINISATION
+[p. 43] LA NOOSPHÈRE ET L'HOMINISATION
 43
 
 entrevoir l'anatomie, puis la physiologie. Que l'on en étudie
@@ -1913,11 +1803,7 @@ que les notions analogues de la Physique. Cela tient
 la re-
 marque en a été déjà faite -
 à ce que la matière brute ne pos-
-sède qu'une existence toute en surface et en dehors, sans rien
-
-[p. 44]
-
-de pareil nulle part à l'implication de tendances profondes qui
+sède qu'une existence toute en surface et en dehors, sans rien [p. 44] de pareil nulle part à l'implication de tendances profondes qui
 constitue l'individualité vraie. D'où, en elle, à prendre les choses
 avec rigueur, une absence d'unités naturelles élémentaires et,
 par conséquent aussi, d'unités d'ordre supérieur. La critique
@@ -1956,9 +1842,7 @@ rant que la Terre vit et que c'est pourquoi existe réellement une
 [^p44-1]: Scientia, décembre 1918 .
 [^p44-2]: D'où l'explication du fait constaté par M. Nageotte : un greffon mort prend mieux et plus facilement qu'un greffon vivant, parce que c'est un appartement vide, sans locataires, où les cellules de l'organisme porteur émigrent et s'installent sans résistance .
 
-[p. 45]
-
-LA NOOSPHÈRE ET L'HOMINISATION
+[p. 45] LA NOOSPHÈRE ET L'HOMINISATION
 45
 
 individualité terrestre. Mais de tout cela résulte aussi que la
@@ -1997,11 +1881,7 @@ croissante, les types d'or-
 ganisation animale, vertébrée, mammifère, primate. Il s'agit,
 chaque fois, d'un groupe d'habitudes contractées définitive-
 ment par la Vie et qui constituent autant de paliers dans
-une ascension progressive. Tous préparent de loin ou de près
-
-[p. 46]
-
-une libération de
+une ascension progressive. Tous préparent de loin ou de près [p. 46] une libération de
 la conscience immanente à
 l'effort
 vital.
@@ -2036,15 +1916,13 @@ et lui faisant suite, une sphère humaine, la sphère de la réflexion,
 de l'invention consciente et libre, de la pensée proprement dite :
 bref, la sphère de l'esprit ou Noosphère. Après quoi, il faut con-
 cevoir, à l'origine de cette grande unité nouvelle, unphénomène
-sui generis de transformation vitale, affectant tout l'ensemble
+*sui generis* de transformation vitale, affectant tout l'ensemble
 biosphérique : l'Hominisation . L'Humanité apparaît alors comme
 un ordre nouveau de réalité, soutenant avec le monde inférieur
 de la vie un rapport équivalent à celui qu'on discerne plus bas
 entre la vie et la matière. Du point de vue « phénomène » , l'Hu
 
-[p. 47]
-
-LA NOOSPHÈRE ET L'HOMINISATION
+[p. 47] LA NOOSPHÈRE ET L'HOMINISATION
 47
 
 manité prolonge laVie ; mais elle constitue, cependant, à elle
@@ -2083,11 +1961,7 @@ métaphysique. Or-dois-je le répéter ?- je me place, pour le
 moment, au seul point de vue du phénomène. De ce point de
 vue, il apparaît incontestablement qu'un âge fut où la vie, -
 même si métaphysiquement on l'affirme déjà préexistante alors ,
-par exemple à titre de tendance, de virtualité diffuse, - dumoins
-
-[p. 48]
-
-n'avait pas commencé à prendre corps en phénomènes chimiques
+par exemple à titre de tendance, de virtualité diffuse, - dumoins [p. 48] n'avait pas commencé à prendre corps en phénomènes chimiques
 définis , n'appartenait donc pas encore au plan phénoménal
 où se confine la science positive. Sans doute n'est-ce là qu'une
 vérité relative, non pas une interprétation dernière. Mais il n'en
@@ -2125,9 +1999,7 @@ tive et traversée comme elle de multiples courants : c'est la Noo- [^p48-1]
 
 [^p48-1]: Voir L'exigence idéaliste et le fait de l'évolution, VIII, en particulier ρ. 136-137.
 
-[p. 49]
-
-LA NOOSPHÈRE ET L'HOMINISATION
+[p. 49] LA NOOSPHÈRE ET L'HOMINISATION
 49
 
 sphère, jaillie, émanée de la Biosphère, et qui finit par acquérir
@@ -2169,9 +2041,7 @@ pliquer iciune fois de plus,peut-être même en un sens renforcé ?
 
 4
 
-[p. 50]
-
-Rien n'empêche, dans notre perspective, que la naissance de
+[p. 50] Rien n'empêche, dans notre perspective, que la naissance de
 l'Homme ait été l'effet d'une invention authentique, une genèse
 de nouveauté irréductible. Toutes les analogies, au contraire,
 nous porteraient d'avance à l'admettre ; et je n'ai pas besoin
@@ -2208,11 +2078,7 @@ avec l'impression que cette conjecture n'est qu'un rêve. C'est,
 je le crois comme le P. Teilhard, « qu'ils n'auront pas ouvert
 suffisamment les yeux sur l'extraordinaire singularité de l'avè-
 nement humain ». Je leur demanderais, moi aussi, en ce cas, de
-réfléchir davantage aux données indéniables déjà recueillies,
-
-[p. 51]
-
-LA NOOSPHÈRE ET L'HOMINISATION
+réfléchir davantage aux données indéniables déjà recueillies, [p. 51] LA NOOSPHÈRE ET L'HOMINISATION
 51
 
 puis d'accepter l'inévitable longueur des discussions, d'où seules
@@ -2251,9 +2117,7 @@ d'état physique des corps ou à la génération des figures géo-
 
 [^p51-1]: Goupure d'ordre qualitatif qui n'exclut pas, on va le voir, continuité de génération.
 
-[p. 52]
-
-métriques, montrent déjà indiscutable et suggèrent en pleine
+[p. 52] métriques, montrent déjà indiscutable et suggèrent en pleine
 évidence à l'esprit, dès les plans inférieurs du réel, aux niveaux
 de phénoménalité qui précèdent la vie.
 <<Considérons, par exemple, un cône; et, dans ce cône, suivons
@@ -2291,9 +2155,7 @@ rait sans racines sur les grandes eaux dumonde: ils ne sont sen-
 
 [^p52-1]: Leur tort n'est pas de la voir, mais de ne voir qu'elle.
 
-[p. 53]
-
-LA NOOSPHÈRE ET L'HOMINISATION
+[p. 53] LA NOOSPHÈRE ET L'HOMINISATION
 53
 
 sibles qu'à la discontinuité qualitative [^p53-1]. Ce sont là manifes-
@@ -2334,9 +2196,7 @@ rapide peut-être - relie les termes extrêmes, le long d'un che-
 [^p53-2]: L'exigence idéaliste et le fait de l'évolution, p. 91-92, 95-96, 119-120, etpassim.
 [^p53-3]: Nouvelle application de la thèse générale sur la substantialité du chan- gement.
 
-[p. 54]
-
-min qui reste sans coupure sur le plan des phénomènes. Seule-
+[p. 54] min qui reste sans coupure sur le plan des phénomènes. Seule-
 ment, l'introduction de telles vues a une conséquence fort impor-
 tante en Systématique. Ce n'est pas un élargissement des anciens
 cadres qui permettra jamais de trouver à l'Homme une place
@@ -2371,9 +2231,7 @@ mutuels rapports offrent l'aspect décrit ci-dessus [^p54-1]. «Aussitôt
 
 [^p54-1]: Ai-je besoin de dire qu'en dépit des mots inévitables,ce n'est pas spa- tialement que se distinguent Biosphère et Noosphère ? A bien des égards , elles se compénètrent ; mais la seconde est une transfiguration de la pre- mière .
 
-[p. 55]
-
-LA NOOSPHÈRE ET L'HOMINISATION
+[p. 55] LA NOOSPHÈRE ET L'HOMINISATION
 55
 
 -
@@ -2419,9 +2277,7 @@ tion. Grâce à elle, nous aurons mis le doigt sur ce qu'il y a d'ab- [^p55-1]
 
 [^p55-1]: En dépit des guillemets, les citations ne sont ici qu'approximatives exactes pour le sens, un peu retouchées dans la forme.
 
-[p. 56]
-
-surde et de vrai tout ensemble dans cette parole colportée par
+[p. 56] surde et de vrai tout ensemble dans cette parole colportée par
 tant d'incompétences : l'Homme descend du Singe. Cette parole
 est vraie (sous certaines réserves, sur lesquelles nous revien-
 drons), si par elle on entend dire que, dans la perspective géo-
@@ -2459,11 +2315,7 @@ l'Homme ; et voilà aussi, par surcroît, la conception qui pourra
 le mieux nous aider à comprendre le jeu de l'invention vitale,
 en dehors même de l'Humanité. Une fois admises la réalité
 positive et la spécificité du phénomène que nous avons appelé
-Hominisation, c'est-à-dire passage de la Biosphère à la Noosphère,
-
-[p. 57]
-
-LA NOOSPHÈRE ET L'HOMINISATION
+Hominisation, c'est-à-dire passage de la Biosphère à la Noosphère, [p. 57] LA NOOSPHÈRE ET L'HOMINISATION
 57
 
 nonseulement l'Homme cesse d'être dans le monde une excrois-
@@ -2472,9 +2324,7 @@ explications transformistes : dernier point à mettre en lumière
 par l'étude attentive d'un double rapport où l'Homme s'explique
 par la Nature et, réciproquement, la Nature par l'Homme.
 
-[p. 58]
-
-IV
+[p. 58] IV
 
 LE DOUBLE RAPPORT DE L'HOMME A LA NATURE
 PREMIÈRE
@@ -2508,9 +2358,7 @@ prendre les arguments qui établissent la longueur des temps
 
 [^p58-1]: L'exigence idéaliste et le fait de l'évolution, VI et VII.
 
-[p. 59]
-
-LA PERSPECTIVE TRANSFORMISTE
+[p. 59] LA PERSPECTIVE TRANSFORMISTE
 59
 
 géologiques, l'étroite connexion de leurs périodes,que personne
@@ -2548,11 +2396,7 @@ nouissements, apparaissent, d'après la stratigraphie, à des épo-
 ques échelonnées et successives ; ils n'ont pas le même âge.
 Tout se présente, à cet égard, comme pour les plissements et
 déhiscences de l'écorce terrestre, pour les chaînes de montagnes ou
-les étages de terrains : fût-on désormais en face d'immobilités
-
-[p. 60]
-
-rigoureuses, on devrait toujours admettre une formation gra-
+les étages de terrains : fût-on désormais en face d'immobilités [p. 60] rigoureuses, on devrait toujours admettre une formation gra-
 duelle au cours des temps anciens. Le débat relève dès lors
 essentiellement d'une méthode historique.
 Or, de ce point de vue, il est classique d'insister sur la misère,
@@ -2580,9 +2424,7 @@ reptilien à l'origine de certains Oiseaux. En second lieu, il
 
 [^p60-1]: On cite néanmoins des gisements exceptionnels, dont voici pêle-mêle plusieurs exemples : cinérites du Cantal où des feuilles pliocènes se re- trouvent jusqu'au menu détail, - troncs d'arbres du permien d'Autun silicifiés si délicatement qu'au microscope s'y laissent voir les fibres, les vaisseaux, les cellules,-calcaires lithographiques d'Allemagne (Solenhofen) livrant des empreintes de méduses jurassiques,-ambre oligocène de la Bal- tique qui englobe, inaltérés et complets, divers insectes , formations cam- briennes du Mont Stephen (Colombie britannique) avec leurs trilobites con- servés au point qu'il a été possible de lire l'anatomie de leurs parties molles, glace fossile de Sibérie où furent découverts, frigorifiés, des Mammouths dont les tissus musculaires étaient restés si intacts « qu'on en pu faire une réaction de Wassermann avec le sérum d'éléphants actuels (Gagnebin, vol . I des Cahiers de Philosophie de la Nature, 1. 11 , Vrin, 1927.) Ce sont là d'heureuses chances, mais extrêmement rares.
 
-[p. 61]
-
-LA PERSPECTIVE TRANSFORMISTE
+[p. 61] LA PERSPECTIVE TRANSFORMISTE
 61
 
 -
@@ -2627,9 +2469,7 @@ types fossiles ont été recueillis dans les couches d'un même lac
 observé à propos d'Ichthyosaures) est infiniment rare et d'ailleurs ne prouve
 rien en faveur du transformisme .
 
-[p. 62]
-
--
+[p. 62] -
 
 pliocène sans communication avec d'autres bassins et où, d'autre
 part, on n'observe parmi les formes successives aucune trace
@@ -2672,9 +2512,7 @@ mieux, dont je dois maintenant
 pour préparer un nouveau
 -
 
-[p. 63]
-
-LA PERSPECTIVE TRANSFORMISTE
+[p. 63] LA PERSPECTIVE TRANSFORMISTE
 63
 
 pas- exposer en deux mots le principe, tel qu'il ressort d'une
@@ -2712,11 +2550,7 @@ même de la science, que le critèredu sensible, quel qu'en soit le
 rôle, est insuffisant comme critère de réalité. Il arrive, eneffet, que
 plus se développe la science, plus elle se diversifie ; et, ense diver-
 sifiant, elle se voit contrainte bientôt d'admettre des genres divers
-de perception. La perception du sens est laperception initiale,
-
-[p. 64]
-
-qui marque l'époque d'ouverture, d'entrée en matière. Puis, à
+de perception. La perception du sens est laperception initiale, [p. 64] qui marque l'époque d'ouverture, d'entrée en matière. Puis, à
 mesure que l'esprit devientdavantage capable d'expérience péné-
 trante et délicate, à mesure aussi devient évident pour lui que
 cette perception du sens n'est pas compétente uniformément
@@ -2752,9 +2586,7 @@ j'aperçois ceci : l'appréhension de réalité n'a lieu qu'à la con-
 
 [^p64-1]: L'autre côté de la Lune, par exemple. Mais la micro-physique sur tout offre des cas de ce genre.
 
-[p. 65]
-
-LA PERSPECTIVE TRANSFORMISTE
+[p. 65] LA PERSPECTIVE TRANSFORMISTE
 65
 
 dition que l'objet en cause m'apparaisse dans un cadre qui le
@@ -2791,11 +2623,7 @@ contraire .
 Il faut donc reconnaître que le point de vue dernier du savant ,
 dans lejugement de réalité, diffère très profondémentdu point de
 
-[^p65-1]: Il suffit d'un peu d'attention critique pour se rendre compte que l'exemple apparemment contraire d'un ballon témoigne au fond dans le même sens . 5
-
-[p. 66]
-
-vuecommun initial. Pour le savant, ce qui réalise une apparence
+[^p65-1]: Il suffit d'un peu d'attention critique pour se rendre compte que l'exemple apparemment contraire d'un ballon témoigne au fond dans le même sens . 5 [p. 66] vuecommun initial. Pour le savant, ce qui réalise une apparence
 en fin de compte, c'est avant tout la force de son insertion dans
 l'ensemble du savoir acquis ; et, secondairement, c'est l'assimi-
 lation que cette apparence procure entre les esprits des hommes,
@@ -2842,9 +2670,7 @@ fois il s'agit d'un objet qu'il serait contradictoire de supposer
 
 [^p66-1]: On pourrait soutenir que les fameux paradoxes, dans la théorie de la relativité, sont en définitive des effets d'interférence entre les deux notions dréel. !
 
-[p. 67]
-
-LA PERSPECTIVE TRANSFORMISTE
+[p. 67] LA PERSPECTIVE TRANSFORMISTE
 67
 
 perceptible, quelque point de vue que l'on adoptat. L'atome,
@@ -2884,11 +2710,7 @@ du transformisme on doive, en maintes circonstances, parler de
 fait authentiquement réel, non de simple conjecture, nous venons
 de revoir sous un nouveau jour les raisons générales qui
 l'im-
-posent ; et le sens de l'affirmation s'est en outre précisé. Du même
-
-[p. 68]
-
-coup, réponse est donnée,décisive, à l'objectionque j'avais entre-
+posent ; et le sens de l'affirmation s'est en outre précisé. Du même [p. 68] coup, réponse est donnée,décisive, à l'objectionque j'avais entre-
 pris d'examiner d'abord. Hypothèse, non point fait, prétendent
 quelques-uns : leur assertion n'a souvent consistance que si l'on
 se borne, par système, aux seules perspectives empiristes [^p68-1] .
@@ -2924,9 +2746,7 @@ doute, il y a de certains moments où les êtres naissent : on veut
 
 [^p68-1]: L'erreur d'appréciation qu'ils commettent consiste à croire qu'en dehors des cas de perception sensible directe, il n'y a plus qu'hypothèse.
 
-[p. 69]
-
-LA PERSPECTIVE TRANSFORMISTE
+[p. 69] LA PERSPECTIVE TRANSFORMISTE
 69
 
 dire par là qu'ils franchissent un seuil, qu'ils entrent distincte-
@@ -2960,11 +2780,7 @@ tion directe, le paléontologiste n'est guère à même de faire usage
 immédiat [^p69-2] .Aussi bien ce rapport est-il en cause pour nous . [^p69-1]
 
 [^p69-1]: Déterminisme, bien entendu, qui n'exclut aucunement parmi ses facteurs une puissance inventive et créatrice.
-[^p69-2]: Le pur biologiste non plus,dans la pratique : au moins doit-il y ad- joindre, comme signe signe discriminant et pour ne pas impliquer une hypothèse de monophylétisme, la stérilité des hybrides. Mais ce dernier critère peut tomber endéfaut ; on sait aujourd'hui que les possibilités ou impossibilités d'i terfécondation varient avec les conditions du milieu : là-dessus, l'ex
-
-[p. 70]
-
-70
+[^p69-2]: Le pur biologiste non plus,dans la pratique : au moins doit-il y ad- joindre, comme signe signe discriminant et pour ne pas impliquer une hypothèse de monophylétisme, la stérilité des hybrides. Mais ce dernier critère peut tomber endéfaut ; on sait aujourd'hui que les possibilités ou impossibilités d'i terfécondation varient avec les conditions du milieu : là-dessus, l'ex [p. 70] 70
 LES
 ORIGINES HUMAINES
 
@@ -3006,9 +2822,7 @@ connexion sous-entendue entre descendance et ressemblance
 périence ne laisse aucun doute, en tout cas pour les êtres inférieurs, plus
 malléables et moins clos .
 
-[p. 71]
-
-LA PERSPECTIVE TRANSFORMISTE
+[p. 71] LA PERSPECTIVE TRANSFORMISTE
 71
 
 d'une part celle-ci n'est pas forcément preuve de celle-là, d'autre
@@ -3048,9 +2862,7 @@ définitive , il n'est de vraiment acceptable que la notion de l'es-
 
 [^p71-1]: Membres et ceintures des Vertébrés Tétrapodes : Critique morphologique du transformisme, Paris, Doin, 1924.
 
-[p. 72]
-
-pèce définie, comme le suggèreM. Bergson [^p72-1], parla tendance à
+[p. 72] pèce définie, comme le suggèreM. Bergson [^p72-1], parla tendance à
 l'accentuation progressive de certains caractères plutôt que par
 la possession exclusive et statique de tels ou tels d'entre eux. Une
 définition de ce genre met au premier plan la variabilité, d'ail-
@@ -3088,9 +2900,7 @@ cadres purement conceptuels, des abstractions sans correspon-
 
 [^p72-1]: Evolution créatrice, p. 115-116.
 
-[p. 73]
-
-LA PERSPECTIVE TRANSFORMISTE
+[p. 73] LA PERSPECTIVE TRANSFORMISTE
 73
 
 dance à rien d'objectif, des conventions de langage arbitraires
@@ -3129,11 +2939,7 @@ morphologiques dont le morcelage n'a qu'une valeur pratique et
 approximative : telle est la part de vérité qui reste à l'attitude
 nominaliste. Que deviennent alors les groupes d'extension supé-
 rieure ? On sera peut-être tenté de croire que, pour eux, s'accuse
-encore davantage la vérité du nominalisme. Il faut se détromper
-
-[p. 74]
-
-à cet égard : l'expérience des formes vivantes montre bientôt
+encore davantage la vérité du nominalisme. Il faut se détromper [p. 74] à cet égard : l'expérience des formes vivantes montre bientôt
 tout autre chose .
 Simplifions d'abord le problème, en ne retenant pour examen,
 comme particulièrement nets et susceptibles d'objectivité, que
@@ -3169,9 +2975,7 @@ blable se retrouve du reste partout ; et quant aux types fonda-
 
 [^p74-1]: Morphologie et Transformisme, dans le vol. I des Cahiers de Philo- sophie de la Nature (Vrin, 1927), p. 98 et 119.
 
-[p. 75]
-
-LA PERSPECTIVE TRANSFORMISTE
+[p. 75] LA PERSPECTIVE TRANSFORMISTE
 75
 
 mentaux (embranchements ou règnes), on les voit coexister
@@ -3209,11 +3013,7 @@ tinction entre deux processus de dérivation et de naissance .
 Voilà ce qu'il faut bien préciser. Ne faisons pas desindividus ,
 isolément pris, les seuls supports de réalité authentique. Lors-
 qu'on entre dans une voie d'analyse orientée vers les types de
-plus en plus généraux, une classification nouvelle se dessine,
-
-[p. 76]
-
-d'allure moins schématisante, où ces types,- au lieu de rester
+plus en plus généraux, une classification nouvelle se dessine, [p. 76] d'allure moins schématisante, où ces types,- au lieu de rester
 simples termes abstraits d'une échelle d'implications idéales , -
 se réalisent concrètement à leur tour sous les espèces de la bio-
 sphère et de ses divisions majeures. J'ai dit, dans un travail an-
@@ -3252,9 +3052,7 @@ lution , p . 105-106.
 (2) Cf. Dalbiez, Revue thomiste, juillet-août 1926, cité parVialleton, dans
 le mémoire indiqué plus haut, p. 66 et 111 .
 
-[p. 77]
-
-LA PERSPECTIVE TRANSFORMISTE
+[p. 77] LA PERSPECTIVE TRANSFORMISTE
 77
 
 -
@@ -3298,9 +3096,7 @@ pu être le Primate, le Mammifère, le Vertébré, sans plus
 
 [^p77-1]: Voir notamment les leçons VII et XV.
 
-[p. 78]
-
-tains groupes , à certains âges, ont pu en jouer le rôle.Voilà ce
+[p. 78] tains groupes , à certains âges, ont pu en jouer le rôle.Voilà ce
 qui découle de nos observations antérieures et ce qui fait tomber
 la première objection. Je ne m'appesantirai pas davantage là-
 dessus . Mais, par contre, la question des séries appelle un com-
@@ -3337,9 +3133,7 @@ batraciennes des plus anciens Reptiles. Sans doute, il y a beau-
 [^p78-1]: Au point de vue «forme », s'entend.
 [^p78-2]: Osborn, L'origine et l'évolution de la vie, trad . Sartiaux, Paris, Masson, 1921, p. 222.
 
-[p. 79]
-
-LA PERSPECTIVE TRANSFORMISTE
+[p. 79] LA PERSPECTIVE TRANSFORMISTE
 79
 
 coupde lacunes: j'ai naguère expliqué pourquoi [^p79-1]. Sans doute
@@ -3380,9 +3174,7 @@ tion morphologique n'est concevable, qui réaliserait passage
 [^p79-1]: VII Leçon du Cours précédent.
 [^p79-2]: Notez cependant le cas de l'Homme.
 
-[p. 80]
-
-direct d'une forme adulte à une forme adulte : ce passagen'est
+[p. 80] direct d'une forme adulte à une forme adulte : ce passagen'est
 possible qu'à travers un embryon. En termes plus précis, le rap-
 prochement transitif suppose intercalée une phase de refonte
 embryologique, sans la considération de laquelle on n'arriverait
@@ -3427,9 +3219,7 @@ jourd'hui d'en retrouver des traces .
 On voit finalement les raisons majeures qui empêchent d'ad-
 mettre, pour les types généraux plus que pour les espèces, fixité
 
-[p. 81]
-
-LA PERSPECTIVE TRANSFORMISTE
+[p. 81] LA PERSPECTIVE TRANSFORMISTE
 81
 
 ni séparation absolues. L'ordre systématique n'apparaît nulle
@@ -3458,9 +3248,7 @@ de la prochaine leçon.
 
 6
 
-[p. 82]
-
-V
+[p. 82] V
 
 LE DOUBLE RAPPORT DE L'HOMME A LA NATURE
 DEUXIÈME PARTIE : L'INVENTION VITALE
@@ -3491,9 +3279,7 @@ des mécanismes corpusculaires est indispensable pour la recherche
 et la capture des énergies cosmiques, pour le développement de
 nos prises et même de nos vues sur la structure instantanée du
 
-[p. 83]
-
-L'INVENTION VITALE
+[p. 83] L'INVENTION VITALE
 83
 
 monde ; autant elle s'affaiblit, s'émousse, et n'est plus que d'un
@@ -3531,11 +3317,7 @@ hétérogène au reste du monde animal, plaquée artificiellement
 sur laBiosphère, sans attaches ou racines, on pourrait comprendre
 qu'elle fût traitée en « plus obscur » dont il n'est raisonnable
 d'attendre, pour illuminer les démarches de l'évolution, aucune
-clarté légitime. Au contraire, puisque vraiment (comme nous
-
-[p. 84]
-
-avons dû l'admettre) la nappe humaine
+clarté légitime. Au contraire, puisque vraiment (comme nous [p. 84] avons dû l'admettre) la nappe humaine
 malgré le changement
 n'est
 critique, profond, essentiel, que marque son apparition
@@ -3573,9 +3355,7 @@ une grande part, la clef même de l'évolution. Notez du reste que,
 
 [^p84-1]: Teilhard, La Paléontologie et l'apparition de l'Homme, dans la Revue de Philosophis, 1923, p. 23 du tiré àpart.
 
-[p. 85]
-
-L'INVENTION VITALE
+[p. 85] L'INVENTION VITALE
 85
 
 le long des diverses lignes évolutives, on retrouve partout des
@@ -3613,11 +3393,7 @@ mesure des faits nouveaux, « ce n'est pas du transformisme »,
 assurent-ils . Pourquoi ainsi accorder à d'anciennes conceptions,
 à elles seules, un pareil privilège, un véritable monopole ? Sous
 le nom de transformisme, nous devons entendre un principe de
-méthode, une souple direction de pensée, bref une tendance
-
-[p. 86]
-
-complexe et plastique, prête à recevoir mille modalités diverses.
+méthode, une souple direction de pensée, bref une tendance [p. 86] complexe et plastique, prête à recevoir mille modalités diverses.
 Trop facile vraiment serait la prétention d'en avoir pour jamais
 réglé le compte avec une interdiction de franchir les bornes de je
 ne sais quelle orthodoxie . Sans doute, au regard d'une critique
@@ -3655,9 +3431,7 @@ l'interprétation transformiste.
 [^p86-1]: Cf. Vialleton, L'Importance de la Morphologie, extrait du Montpellier médical, 1er août 1926.
 [^p86-2]: Les Hommes fossiles , 2e éd., p. 453.
 
-[p. 87]
-
-L'INVENTION VITALE
+[p. 87] L'INVENTION VITALE
 87
 
 Nous arrivons ainsi à un deuxième point. Lorsqu'on regarde avec
@@ -3695,11 +3469,7 @@ rance en preuve. Ce que l'on doit admettre, c'est une antiquité
 des tiges maîtresses plus grande que d'abord on n'avait cru .
 Mais qu'en déduire ? Notons en premier lieu combien risquent
 d'être illusoires les jugements d'apparitions ou de disparitions
-simultanées . Pour traduire avec exactitude les données vraiment
-
-[p. 88]
-
-positives, on doit se borner à dire qu'avant ou après telle date
+simultanées . Pour traduire avec exactitude les données vraiment [p. 88] positives, on doit se borner à dire qu'avant ou après telle date
 géologique nul représentant de telle forme n'est connu, et rien
 de plus : comment tirer de là une preuve quelconque pour ou
 contre les thèses de descendance àpartir d'une souche commune ?
@@ -3735,9 +3505,7 @@ vie, est-on obligé de concevoir encore un autre mode phénoménal : [^p88-1]
 
 [^p88-1]: L'exigence idéaliste et le fait de l'évolution : VII, p. 120-123; IX, p. 143- 145 ; XV, p. 263-264.
 
-[p. 89]
-
-L'INVENTION VITALE
+[p. 89] L'INVENTION VITALE
 89
 
 aiguillage, orientation, prise d'habitude. Rien de tout cela n'est
@@ -3775,9 +3543,7 @@ tation graduelle de la taille ; 2º spécialisation progressive ; 3º irré-
 [^p89-1]: Cf. Vialleton, Les arbres généalogiques et leur signification, Comptes rendus de l'Association des Anatomistes, 1926 ; Morphologie et Transfor- misme, Cahiers de Philosophie de la Nature » , vol . I, p . 112-116.
 [^p89-2]: L'exigence idéaliste et lefait de l'évolution : VI, p. 86-87;VII, p. 113-114.
 
-[p. 90]
-
-versibilité de l'évolution (Dollo). Il en résulte pour les souches
+[p. 90] versibilité de l'évolution (Dollo). Il en résulte pour les souches
 un triple caractère, d'où l'on peut inférer qu'elles doivent nor-
 malement disparaître sans traces et ainsi demeurer pour nous
 anonymes . Ajoutons en deuxième réponse la faible valeur intrin-
@@ -3814,9 +3580,7 @@ bien évidemment, celle dont il est le moins possible que subsiste
 jamais un reste fossilisé. Une dernière fois, dès lors, se confirme
 la même réponse à l'objection des souches.
 
-[p. 91]
-
-L'INVENTION VITALE
+[p. 91] L'INVENTION VITALE
 91
 
 Mais, pour finir, une quatrième difficulté, un peu différente,
@@ -3859,9 +3623,7 @@ façon de symbole. Voici deux êtres chez qui le squelette est pour
 
 [^p91-1]: Membres et Ceintures des Vertébrés tétrapodes, Paris, Doin, 1924. Thèses résumées dans l'article Morphologie et Transformisme (vol. I des Cahiers de Philosophie de la Nature, Paris, Vrin, 1927).
 
-[p. 92]
-
-l'un extérieur au corps, pour l'autre intérieur : qui ne voit l'im-
+[p. 92] l'un extérieur au corps, pour l'autre intérieur : qui ne voit l'im-
 possibilité d'une transition continue, puisqu'il faudrait admettre
 un stade intermédiaire où le squelette, en cours de déplacement,
 traverserait les organes essentiels ? C'est donc à titre nécessaire
@@ -3899,9 +3661,7 @@ qui n'accepte comme authentique et justement nommée qu'une
 [^p92-1]: L'exigence idéaliste et le fait de l'évolution, XII, p . 204-207.
 [^p92-2]: Annales Hébert, t . VI, 1912.
 
-[p. 93]
-
-L'INVENTION VITALE
+[p. 93] L'INVENTION VITALE
 93
 
 évolution allant d'un pas toujours égalpar accumulation de mini-
@@ -3938,11 +3698,7 @@ des transformations vitales. Encore doit-on la compliquer en
 supposant diverses voies plus ou moins sinueuses, plus ou moins [^p93-1]
 
 [^p93-1]: En Physique, par exemple, à propos des atomes et, d'une façor géné- rale, partout où se pose la question des rapports entre continu et discon- tinu.
-[^p93-2]: L'exigence idéaliste et le fait de l'évolution : VI, p. 91-92 et 95-96 ; VII, p. 119-120 ; XII, p . 199-200,
-
-[p. 94]
-
-changeantes aussi, où se partage en mille détours sans cesse mo-
+[^p93-2]: L'exigence idéaliste et le fait de l'évolution : VI, p. 91-92 et 95-96 ; VII, p. 119-120 ; XII, p . 199-200, [p. 94] changeantes aussi, où se partage en mille détours sans cesse mo-
 difiés l'unité originelle du flot.
 Plaçons-nous dans une perspective de ce genre. Alors, sans
 rompre la continuité fondamentale, nous ne sommes plus obligés
@@ -3981,9 +3737,7 @@ Nous savons que l'essence du réel, c'est le devenir même, le chan-
 L
 (1) L'exigence idéaliste el le fait de l'évolution, avent-propos, p . XIV.
 
-[p. 95]
-
-L'INVENTION VITALE
+[p. 95] L'INVENTION VITALE
 95
 
 gement, avec l'ordre qu'il manifeste, non point un support immo-
@@ -4025,9 +3779,7 @@ comprise. La plupart des contradicteurs prennent ainsi une fausse
 sophique, nullement incompatible avec les idées d'invention ou même de
 liberté ?
 
-[p. 96]
-
-attitude, croyant ruiner celle-là quand ils montrent l'insuffi-
+[p. 96] attitude, croyant ruiner celle-là quand ils montrent l'insuffi-
 sance de celle-ci. Pour dissiper les malentendus, tout se ramène
 finalement àbienposer leproblème. En réalité, nous avons affaire
 à deux familles de courbes représentatives. La première est celle
@@ -4064,9 +3816,7 @@ comment précis de la dépendance originelle : voilà, par contre,
 ce qui reste encore à déterminer, mieux qu'on ne l'a réussi jadis,
 en accordant cette fois large mesure aux conceptions nouvelles.
 
-[p. 97]
-
-L'INVENTION VITALE
+[p. 97] L'INVENTION VITALE
 97
 
 Assurés de nos bases, nous allons maintenant essayer d'entre-
@@ -4102,11 +3852,7 @@ terne. Sans insister davantage sur une double critique trop
 connue, j'ai entrepris précisément de démontrer l'existence et
 de déterminer la nature de ce facteur complémentaire, peut-être
 
-[^p97-1]: Histoire des sciences biologiques , dans l'Histoire de laNation française, publiée sous la direction de M. Hanotaux (Paris, Plon) . 7
-
-[p. 98]
-
-même plus profond et plus décisif, qui d'ailleurs permet de conci-
+[^p97-1]: Histoire des sciences biologiques , dans l'Histoire de laNation française, publiée sous la direction de M. Hanotaux (Paris, Plon) . 7 [p. 98] même plus profond et plus décisif, qui d'ailleurs permet de conci-
 lier toute chose, qui complète sans rien exclure.
 L'insuffisance des théories classiques est aujourd'hui assez
 généralement reconnue. On s'accorde sur l'exacte portée des
@@ -4142,15 +3888,13 @@ dizaine d'espèces distinctes » (3). Voilà donc un phénomène sur
 
 (1 ) M. Vialleton, dans les ouvrages cités plus haut, insiste longuementet
 avec beaucoup de raison là- dessus .
-(2) C'est ainsi (Vialleton, loc. cit.) qu'il a toujours fallu des bactéries ou
+(2) C'est ainsi (Vialleton, *loc. cit.*) qu'il a toujours fallu des bactéries ou
 des étres à chlorophylle pour la première capture de l'énergie, des fixateurs
 de sels minéraux pour maintenir la salure des mers à un taux compatible
 avec la vie, des destructeurs de débris organiques, etc.
 (3) Gagnebin, vol. I des Cahiers de Philosophie de la Nature, p. 20-21.
 
-[p. 99]
-
-L'INVENTION VITALE
+[p. 99] L'INVENTION VITALE
 99
 
 lequel mordent les théories classiques ; et néanmoins, quelque
@@ -4162,7 +3906,7 @@ dû précédemment reprendre les choses d'un peu haut. Notre
 point de départ a été l'analyse d'un contraste fondamental entre
 la vie et la matière. On parle volontiers d'une réduction future
 des phénomènes biologiques à ceux de la physico-chimie. J'ai
-prissoindenerien dire jamais qui limite a priori le domaine d'une
+prissoindenerien dire jamais qui limite *a priori* le domaine d'une
 telle espérance en tant que vue excitatrice de recherche, en tant
 que méthode. Mais je me suis attaché aussi à faire entendre
 pourquoi elle n'exclut aucunement, pourquoi elle appellerait
@@ -4189,9 +3933,7 @@ faite (2). L'essentiel en est résumé par la formule suivante : vie et
 
 [^p99-1]: Voir L'exigence idéaliste et le fait de l'évolution, notamment p. 41-42, 244-246, et leçor XV. (2)Loc. cit. , II et V.
 
-[p. 100]
-
-matière se définissent comme deur types d'ordre phénoménal inverses
+[p. 100] matière se définissent comme deur types d'ordre phénoménal inverses
 l'un de l'autre. La matière brute obéit à un double principe éner-
 gétique : 1º conservation quantitative, au moins en surface et à
 la limite ; 20 dégradation qualitative, sans que nulle part sur ce
@@ -4230,9 +3972,7 @@ physiciens, pas d'inertie. Une meilleure image serait donc celle
 d'une couleurqui déteint. Quoi qu'il en soit, le fait essentiel pour
 nous est celui de l'irréversibilité. A quoi tient-il ? Un mot peut
 
-[p. 101]
-
-L'INVENTION VITALE
+[p. 101] L'INVENTION VITALE
 101
 
 suffire à le faire entendre. Les autres formes de l'énergie corres-
@@ -4274,9 +4014,7 @@ représente un phénomène essentiellement improbable et que,
 par suite, elle se distingue profondément de la pure matière
 physico-chimique.
 
-[p. 102]
-
-Comment il est possible de développer une telle vue, je me
+[p. 102] Comment il est possible de développer une telle vue, je me
 suis efforcé de l'établir dans le Cours précédent [^p102-1]. Inutile de
 reprendre ici intégralement la démonstration. Toutefois l'exposé
 actuel serait trop lourdement boiteux, si rien n'y rappelait ce
@@ -4313,9 +4051,7 @@ diminue encore. De plus, lacoexistence de plusieurs de ces subs-
 
 [^p102-1]: Op. cit., V, p. 70-79, et VIII, p. 134-137.
 
-[p. 103]
-
-L'INVENTION VITALE
+[p. 103] L'INVENTION VITALE
 103
 
 tances en un même lieu et leur association en proportions conve-
@@ -4355,11 +4091,7 @@ c'est ce que signifie le fameux démon de Maxwell. Il nous faut
 tirer parti de cette indication. En termes plus positifs, l'instru-
 ment artificiel, œuvre de l'intelligence, représente à la fois , par
 ses effets, le triomphe de la vie et, en soi, le comble de l'impro-
-bable. Là est le plus efficace moyen de défense, par le plus haut
-
-[p. 104]
-
-pouvoir de réaliser des conjonctures avantageuses, trop impro-
+bable. Là est le plus efficace moyen de défense, par le plus haut [p. 104] pouvoir de réaliser des conjonctures avantageuses, trop impro-
 bables intrinsèquement pour que la matière physico-chimique,
 laissée à elle-même, les rencontre jamais. Pratiquement nulle,
 d'autre part, est la probabilité pour que le jeu des forces brutes
@@ -4380,7 +4112,7 @@ nous sommes dès lors engagés .
 Il doit y avoir au plus intime de la vie et depuis l'origine,
 comme principe et moteur primordial, quelque puissance d'in-
 vention à concevoir
-mutatis mutandis - d'après le modèle
+*mutatis mutandis* - d'après le modèle
 dont l'humanité offre l'exemplaire typique et parfait. Toutes
 nos recherches aboutissent à suggérer cette hypothèse. Mais
 comment lui faire prendre corps positif, jusqu'à devenir objet de
@@ -4391,9 +4123,7 @@ Biosphère par la Noosphère. A ce problème, la prochaine leçon
 tentera de donner au moins un commencement de réponse, par
 la définition d'une méthode .
 
-[p. 105]
-
-VI
+[p. 105] VI
 
 LE DOUBLE RAPPORT DE L'HOMME À LA NATURE
 TROISIÈME PARTIE : LES PREUVES POSSIBLES
@@ -4422,11 +4152,7 @@ condition d'être entendue au sens large, qui est le sens « intelli-
 gent », la science la plus scrupuleuse doit,elle aussi, admettre des
 facteurs d'une autre sorte. Peut-être leur introduction ne sert-elle
 qu'à comprendre, non à exploiter : le savant néanmoins s'en dé-
-sintéressera-t-il ? Tel sera mon point de vue ici. Je soutiens
-
-[p. 106]
-
-toutefois qu'on peut, même alors, concevoir des preuves décisives ,
+sintéressera-t-il ? Tel sera mon point de vue ici. Je soutiens [p. 106] toutefois qu'on peut, même alors, concevoir des preuves décisives ,
 authentiquement expérimentates; et voici dans quelles directions .
 
 -
@@ -4467,9 +4193,7 @@ faisons jouer, dans la démonstration, le rôle majeur à des re-
 coupements d'exigences théoriques, à des intersections de fais-
 ceaux lumineux .
 
-[p. 107]
-
-LES PREUVES POSSIBLES
+[p. 107] LES PREUVES POSSIBLES
 107
 
 Jusqu'à présent, l'idée d'une puissance d'invention inhérente
@@ -4496,7 +4220,7 @@ par une comparaison plus serrée entre les démarches de
 l'in-
 vention et celles de la vie .
 Les analogies abondent, allant jusqu'au détail.Le Cours pré-
-cédent les a relevées d'ensemble (p. 43-45 du volume et passim) .
+cédent les a relevées d'ensemble (p. 43-45 du volume et *passim*) .
 Qu'il me suffise de redire ici les similitudes principales
 :
 
@@ -4515,11 +4239,7 @@ ou commencements partiels) sont cachés, secrets et humbles,
 
 (1). L'exigence idéaliste el le fait de l'évolution, XII .
 (2) Op . cit. , XIII.
-(3) Op. cit., p. 234-243
-
-[p. 108]
-
-crépusculaires, fuyants, comme ensevelis sous une apparence
+(3) *Op. cit.*, p. 234-243 [p. 108] crépusculaires, fuyants, comme ensevelis sous une apparence
 de repos durable ; et pareillement les incubations d'idées neuves,
 leurs amorces larvaires .
 3º Influence des conditions générales , liaison de l'effort indivi-
@@ -4557,9 +4277,7 @@ la biosphère ou de la noosphère.- Chaque fois, c'est tout un plan
 d'organisation qui se définit, pareil à un principe inépuisable en
 applications diverses .
 
-[p. 109]
-
-LES PREUVES POSSIBLES
+[p. 109] LES PREUVES POSSIBLES
 109
 
 On pourrait multiplier sans fin les traits de ressemblance,
@@ -4605,9 +4323,7 @@ chose, tout événement de l'histoire paléontologique, par le jeu
 
 [^p109-1]: Pages 217-218 du volume précédent.- Les faits de parasitisme té- moignent souvent dans le même sens.
 
-[p. 110]
-
-des mêmes causes qu'on voit encore aujourd'hui à l'œuvre autour
+[p. 110] des mêmes causes qu'on voit encore aujourd'hui à l'œuvre autour
 de nous. Certes, je ne conteste ni les mérites ni, à son rang, la
 légitimité d'une telle attitude. Néanmoins un actualisme intem-
 pérant, exclusif, donc trop étroit, risquerait d'égarer sur une
@@ -4647,9 +4363,7 @@ meaux, continue sans doute le mouvement de la vie avec plus
 ou moins de puissance et de durée, mais surtout par effet de vi-
 tesse acquise, d'inertie. De petits progrès sont encore possibles .
 
-[p. 111]
-
-LES PREUVES POSSIBLES
+[p. 111] LES PREUVES POSSIBLES
 111
 
 Vite
@@ -4693,9 +4407,7 @@ un sens, mais antérieure à celle de l'Homme. Seulement, ce succès
 
 ( 1) L'exigence idéaliste et le fait de l'évolution , XI .
 
-[p. 112]
-
-précoce a euson revers.Toutle reste de l'organisme ayant été d'une
+[p. 112] précoce a euson revers.Toutle reste de l'organisme ayant été d'une
 certaine façon sacrifié à la spécialisation immédiatement avanta-
 geuse, l'Insecte -
 de minime taille -
@@ -4732,9 +4444,7 @@ spéciaux : pas de mâchoire, bouche en forme de ventouse, une
 
 [^p112-1]: Erik A. Stensið, Resultater avde Norske Statsunderstotlede Spitzbergen- ekspeditioner,nº 12, The downtonian and devonian Vertebrate of Spitzbergen, Oslo, 1927.
 
-[p. 113]
-
-LES PREUVES POSSIBLES
+[p. 113] LES PREUVES POSSIBLES
 113
 
 seule narine, etc.) peut à peu près seule être prise comme repré-
@@ -4778,11 +4488,7 @@ les formes dures à l'époque d'apogée du groupe [^p113-2] ; puis les
 autres durer plus longtemps, à cause de leur plasticité plus
 
 [^p113-1]: Série multiplement ramifiée, bien entendu.
-[^p113-2]: Lorsque le milieu est favorable à leur type d'organisation, qui l'ex- prime en quelque manière. 8
-
-[p. 114]
-
-flexible. Pour les Poissons proprement dits, nous ne sommes
+[^p113-2]: Lorsque le milieu est favorable à leur type d'organisation, qui l'ex- prime en quelque manière. 8 [p. 114] flexible. Pour les Poissons proprement dits, nous ne sommes
 pas encore très loin (relativement) du moment de croissance et
 de victoire : d'où la distribution actuelle des formes, quand on
 en fait le recensement. Au contraire, dans un premier cycle
@@ -4816,9 +4522,7 @@ vues . Mais je veux au moins signaler des analogies qui s'offrent
 [^p114-1]: Corrélation que noue peut-être la plus ou moins grande mesure de dé- chets non brûlés .
 [^p114-2]: Ces derniers sont d'ailleurs ou peuvent être de deux sortes:ceux qui acceptent de végéter amoindris ou ceux qui représentent les embryons d'espèces plus hautes, les premiers à la fin des ères et les seconds au commen- cement.
 
-[p. 115]
-
-LES PREUVES POSSIBLES
+[p. 115] LES PREUVES POSSIBLES
 115
 
 en foule. Institutions, sociétés, disciplines de conduite ou sys-
@@ -4857,11 +4561,7 @@ de l'inertie, les formes animale, vertébrée, mammifère, primate.
 Dans ces divers cas, se manifeste au sein de la vie quelque
 chose qui déjà ressemble par l'allure créatrice à ce qu'on appelle
 
-[^p115-1]: Pages 44-45, 185-186 et 196 du volume sur l'Exigence idéaliste et le fail de l'évolution ,
-
-[p. 116]
-
-chez l'Homme invention. Là est sans doute le facteur principal
+[^p115-1]: Pages 44-45, 185-186 et 196 du volume sur l'Exigence idéaliste et le fail de l'évolution , [p. 116] chez l'Homme invention. Là est sans doute le facteur principal
 de l'évolution en tant que progressive.
 De celle-ci, en définitive, après chaque bifurcation de la vie,
 chaque nouvel aiguillage, deux types ultérieurs paraissent nette-
@@ -4900,9 +4600,7 @@ du transformisme. Un travail régulier, tendant à ce résultat, est
 possible : par circonscription toujours plus approchée de points
 d'ombre, où échoue le mécanisme, parce que là s'accomplissent
 
-[p. 117]
-
-LES PREUVES POSSIBLES
+[p. 117] LES PREUVES POSSIBLES
 117
 
 desprocessus qui reproduisent les démarches de l'invention. Vient
@@ -4940,11 +4638,7 @@ temps désormais d'en faire un examen direct .
 Au cours d'une première étude, nos recherches montaientde la
 Nature vers l'Homme, qu'il s'agissait de situer dans la perspec-
 tive transformiste. Le moment est venu d'une contre-partie an-
-noncée à maintes reprises déjà. Rétrospectivement, l'Humanité
-
-[p. 118]
-
-éclaire toute la vie antérieure, d'abord en tant que groupe zoolo-
+noncée à maintes reprises déjà. Rétrospectivement, l'Humanité [p. 118] éclaire toute la vie antérieure, d'abord en tant que groupe zoolo-
 gique le plus jeune, le plus frais, presque naissant, où se laisse
 discerner encore vive la différentielle d'évolution, puis en tant
 que groupe qui est le nôtre, parce que, de ce chef, nous dis-
@@ -4981,9 +4675,7 @@ compte.
 
 [^p118-1]: P. Teilhard, d'après un inédit De même, pour les citations sui vantes.
 
-[p. 119]
-
-LES PREUVES POSSIBLES
+[p. 119] LES PREUVES POSSIBLES
 119
 
 « Le transformisme, expérimentalement construit, nous incline
@@ -5023,11 +4715,7 @@ tions divergentes, caractérisées chacune par un certain type
 d'organisation fondamentale ; des habitudes contraires y sont
 acquises , chaque espèce travaillant pour son propre compte et
 accentuant son mode particulier de structure et decomportement ;
-ces habitudes enfin se traduisent par d'intimes différences de
-
-[p. 120]
-
-chimismes, d'où résulte une interstérilité qui sépare les groupes
+ces habitudes enfin se traduisent par d'intimes différences de [p. 120] chimismes, d'où résulte une interstérilité qui sépare les groupes
 de plus en plus. Cela est vrai en gros ; toutefois il ne faut rien
 exagérer. Des liens subsistent, profonds et nombreux : par l'in-
 fluence de la source primitive unique (ou du moins la proximité
@@ -5065,9 +4753,7 @@ compréhensif, qui échappe aux objections en les assimilant.
 Voilà, sommairement esquissée telle que les zoologistes la re-
 constituent, l'image des mouvements et démarches de la vie.
 
-[p. 121]
-
-LES PREUVES
+[p. 121] LES PREUVES
 POSSIBLES
 121
 
@@ -5109,9 +4795,7 @@ certaines précisions excessives [^p121-1]. Cela posé, remarque l'auteur,
 
 [^p121-1]: M. Osborn se complaît à des énonciations d'âges probables : 600.000 ans par exemplepour pour l'homme de Néanderthal, 1.250.000 pour celui de Piltdown. Rigoureusement, c'est plus que la science n'autorise. Mais il re faut voir, dans ces nombres d'années, qu'un moyen de faire entendre à l'imagination l'énorme longueur de certaines périodes.
 
-[p. 122]
-
-on se figure trop souvent que la primitive industrie humaine
+[p. 122] on se figure trop souvent que la primitive industrie humaine
 requérait seulement l'exercice d'une intelligence rudimentaire,
 presque animale. Ce n'est peut-être pas si évident qu'on le sup-
 pose. Il a fallu à l'Homme, pour la fabrication des premiers
@@ -5148,9 +4832,7 @@ dont la connaissance demeure mélangée d'hypothèses. Laissons-
 le donc ; et, pour avoir du tout à fait positif, du certain, de l'in-
 contestable, regardons encore plus près de nous. Le mouvement
 
-[p. 123]
-
-LES PREUVES POSSIBLES
+[p. 123] LES PREUVES POSSIBLES
 123
 
 général de la vie a ses répliques. Au sein même de la nappe
@@ -5189,11 +4871,7 @@ plutôt que de changer ; et voici, tout à côté, le peuple vigoureux,
 conquérant, qui croît sans arrêt, appelle à soi toute la sève et
 semble représenter, non seulement l'extrémité active d'un rameau
 secondaire , mais la flèche même de l'Humanité. Voici mainte-
-nant les groupes simples où tout le monde fait une même chose ;
-
-[p. 124]
-
-et voici les nations compliquées, inventives, où les individus se
+nant les groupes simples où tout le monde fait une même chose ; [p. 124] et voici les nations compliquées, inventives, où les individus se
 répartissent en toutes sortes de catégories spécialisées. Voici
 encore les longues périodes d'immobilité, l'hiver des peuples,
 durant lequel rien ne bouge ; et voici les phases d'éclosion, au
@@ -5230,9 +4908,7 @@ des radiations positives qui en proviennent et qui l'entourent ,
 car elle se décharge sur ces dernières de tout un travail dont elle
 n'aura plus à s'alourdir, à peu près comme le métazoaire a besoin
 
-[p. 125]
-
-LES PREUVES POSSIBLES
+[p. 125] LES PREUVES POSSIBLES
 125
 
 du protozoaire, l'animal du végétal, etc.: savoir « mou », si j'ose
@@ -5272,9 +4948,7 @@ et ses démarches, au niveau de l'animalité, comportent moins
 
 ( 1) L'exigence idéaliste el le fail de l'évolution, XIV et XV.
 
-[p. 126]
-
-encore conscience claire. On ne propose pas davantage de revenir
+[p. 126] encore conscience claire. On ne propose pas davantage de revenir
 paresseusement à je ne sais quelle mythologie de « forces vitales>>
 qui dispenserait d'analyser les énergies élémentaires que la Vie
 a tissées dans l'ombre pour réaliser sur le plan du phénomène ses
@@ -5314,9 +4988,7 @@ aucun doute, pour être plus et mieux, pour grandir en pouvoir
 et en conscience. Etvoilà l'éclair qui illumine la Biosphère jusque
 dans ses profondeurs, dès l'instant où on a rétabli le contact
 
-[p. 127]
-
-LES PREUVES POSSIBLES
+[p. 127] LES PREUVES POSSIBLES
 127
 
 naturel entre son enveloppe humaine et ses nappes les plus
@@ -5355,11 +5027,7 @@ l'hominisation. En vertu d'une exigence difficile à comprendre,
 sans doute, mais dont les faits nous imposent d'admettre la réa-
 lité, nous constatons que le psychisme animal ne pouvait aller
 indéfiniment vers l'unification, sans se voir comme acculé à
-un changement de nature. Une comparaison que l'on connaît
-
-[p. 128]
-
-bien est encore une fois de mise.Aforce de se rétrécir, de se con-
+un changement de nature. Une comparaison que l'on connaît [p. 128] bien est encore une fois de mise.Aforce de se rétrécir, de se con-
 centrer, les sections du cône doivent être suivies par le sommet
 ponctiforme. Pareillement, en raison des lois organiques du mou-
 vement qui l'animait, la conscience terrestre, un beau jour, est
@@ -5397,9 +5065,7 @@ centré dans les zones psychiques et dans l'établissement d'or-
 ganisations collectives, paraît de moins en moins lié à une re-
 fonte morphologique. D'autre part, la Vie terrestre, dont la sève
 
-[p. 129]
-
-LES PREUVES
+[p. 129] LES PREUVES
 POSSIBLES
 129
 
@@ -5431,9 +5097,7 @@ paléontologie, préhistoire, métaphysique.
 
 9
 
-[p. 130]
-
-VII
+[p. 130] VII
 
 LA FORME HUMΑΙΝΕ
 
@@ -5463,9 +5127,7 @@ ou des outils ayant appartenu à l'Homme lui-même. Toute lu-
 
 [^p130-1]: P. Teilhard, La paléontologie et l'apparition de l'Homme,article publié dans la Revue de Philosophie, mars-avril 1923.
 
-[p. 131]
-
-LA FORME HUMAINE
+[p. 131] LA FORME HUMAINE
 131
 
 mière nouvelle, projetée sur le développement général de la Vie ,
@@ -5512,9 +5174,7 @@ l'anatomie suggère irrésistiblement l'idée d'une embryogénie
 
 correspondante.
 
-[p. 132]
-
-Ne considérons, pour abréger, qu'une des parties de la bio-
+[p. 132] Ne considérons, pour abréger, qu'une des parties de la bio-
 sphère : le groupe des Vertébrés, par exemple. On y observe les
 adaptations d'un type fondamental aux différents milieux, aux
 différentes modalités de vie. De là des sous-groupes diversifiés à
@@ -5551,9 +5211,7 @@ voit se produire, dans un certain ton, un rayonnement de formes
 spécialisées, en relations organiques l'une avec l'autre ; et un
 liond'histoire est visible entre ces moments, ces phases ; de sorte
 
-[p. 133]
-
-LA FORME HUMAINE
+[p. 133] LA FORME HUMAINE
 133
 
 qu'une même loi générale s'applique, dans la coexistence et dans
@@ -5591,11 +5249,7 @@ comme l'enveloppe de toute notre expérience : y renoncer serait
 se mettre en dehors du droit commun de la connaissance posi-
 tive.
 Un grand fait domine la phase actuelle de la pensée : nous
-sommes en train de découvrir le temps . Jusqu'ici, ce n'était qu'un
-
-[p. 134]
-
-milieu inerte, un réceptacle indifférent et homogène, où les êtres
+sommes en train de découvrir le temps . Jusqu'ici, ce n'était qu'un [p. 134] milieu inerte, un réceptacle indifférent et homogène, où les êtres
 flottaient comme suspendus, juxtaposés en amas accidentel et
 amorphe, chacun d'eux pouvant surgir n'importe où etn'importe
 quand. Ainsi conçu, le temps n'atteignait pas le fond des êtres ;
@@ -5632,9 +5286,7 @@ l'une l'autre. Rien n'est plus faux ; et je me suis précédemment
 
 [^p134-1]: P. Teilhard, Conférence inédite.- Un rapprochement s'impose entre le fait que je signale ici et la philosophie bergsonienne de la durée.
 
-[p. 135]
-
-LA FORME HUMAINE
+[p. 135] LA FORME HUMAINE
 135
 
 efforcé de le bien mettre en lumière [^p135-1]. Ce qui est exact, c'est
@@ -5673,9 +5325,7 @@ une valeur nouvelle a donc pris naissance, vraiment incompa-
 
 [^p135-1]: L'exigence idéaliste et le fait de l'évolution, avant-propos du volume et début de la XIV leçon.
 
-[p. 136]
-
-rable et transcendante ; mais on ne saurait lui assigner de date
+[p. 136] rable et transcendante ; mais on ne saurait lui assigner de date
 mathématique, non plus qu'apercevoir à cette occasion la
 moindre déchirure dans la trame des phénomènes. Eh bien
 !
@@ -5714,9 +5364,7 @@ comment on classe les Primates : en Lémuriens, Simiens , Homi-
 niens . Cette gradation est ascendante, au moins en gros , sous le
 double rapport de la structure et de l'ancienneté. Le premier
 
-[p. 137]
-
-LA FORME HUMAINE
+[p. 137] LA FORME HUMAINE
 137
 
 groupe, celui des Lémuriens, comprend des êtres qui ne sont plus
@@ -5757,9 +5405,7 @@ des singes . Avec les progrès dela zoologie et de l'anatomie com-
 
 (1 ) Paris, Masson, 2e édition, p . 65-78 et 448-454.
 
-[p. 138]
-
-parée, ces analogies morphologiques se sont précisées singulière-
+[p. 138] parée, ces analogies morphologiques se sont précisées singulière-
 ment. On a reconnu que l'Homme, observé détail par détail dans
 son organisation corporelle, diffère moins des Anthropomorphes
 que ceux-ci des Singes inférieurs : proposition confirmée par de
@@ -5796,9 +5442,7 @@ de deux mois et demi [^p138-1]. » C'est ainsi qu'on a été conduit, par
 
 [^p138-1]: Boule, loc. cit., p. 449, en note.
 
-[p. 139]
-
-LA FORME HUMAINE
+[p. 139] LA FORME HUMAINE
 139
 
 cette nouvelle voie encore, à supposer une descendance à partir
@@ -5844,9 +5488,7 @@ plus conceptuel que réel en ce qu'il offre de commun ; la seconde, [^p139-1]
 
 [^p139-1]: L'exigence idéaliste et le fait de l'évolution , p. 56-57.
 
-[p. 140]
-
-au contraire, est déjà orientée vers un type
+[p. 140] au contraire, est déjà orientée vers un type
 spécifique défini,
 vite reconnaissable et, en somme, d'apparition précoce. Dès lors,
 un doute est possible : ce qu'on observe, est-ce répétition authen-
@@ -5883,9 +5525,7 @@ conclusions classiques : il faudrait toujours maintenir le même [^p140-1]
 
 [^p140-1]: Formule de M. Bergson. Les arguments ici exposés résument un tra- vail de M. Vialleton (voir Cahiers de Philosophie de laNature,volume I con- sacré au Transformisme, Paris, Vrin, 1927).
 
-[p. 141]
-
-LA FORME HUMAINE
+[p. 141] LA FORME HUMAINE
 141
 
 rapport fondamental du présent au passé. Mais il y a mieux. Sans
@@ -5927,9 +5567,7 @@ mais qui se retrouvent à l'état normal et constant chez des ani-
 
 [^p141-1]: L'exigence idéaliste et le fait de l'évolution, passage cité plus haut.
 
-[p. 142]
-
-maux voisins : effets de régression ou d'atavisme, retours à un
+[p. 142] maux voisins : effets de régression ou d'atavisme, retours à un
 état de choses ancien, réapparitions de traits appartenant à des
 types inférieurs. Tels sont aussi les organes rudimentaires
 : dis-
@@ -5966,9 +5604,7 @@ tels que le Macaque, et encore plus éloignée avec les Platyrhi-
 [^p142-1]: Où se laissent discerner peut-être quelques indices d'utilisation ac- cessoire, sans rapport d'ailleurs avec son origine.
 [^p142-2]: Loc. cit. , p. 450.
 
-[p. 143]
-
-LA FORME HUMAINE
+[p. 143] LA FORME HUMAINE
 143
 
 niens du Nouveau Monde. » Enfin, et je termine là-dessus, « la
@@ -6009,9 +5645,7 @@ exécute une série debonds,plutôt qu'il ne marche ou necourt[^p143-2] .
 [^p143-1]: Boule, loc. cit., p. 75.
 [^p143-2]: Je parle surtout des Anthropomorphes les plus voisins de l'Homme .
 
-[p. 144]
-
-L'Homme, au contraire, a une attitude parfaitement droite ; et
+[p. 144] L'Homme, au contraire, a une attitude parfaitement droite ; et
 diverses remarques doivent être faites à cet égard sur quelques
 particularités corrélatives. La première concerne la place du trou
 occipital, situé sous le crâne au lieu d'être en arrière, si bien que
@@ -6053,9 +5687,7 @@ le Gorille jusqu'au milieu des jambes, chez l'Orang presque jus-
 D'autres savent à l'occasion courir, en formant une sorte de balancier avec
 leurs bras étendus, l'un en avant, l'autre en arrière.
 
-[p. 145]
-
-LA FORME HUMAINE
+[p. 145] LA FORME HUMAINE
 145
 
 qu'aux chevilles. Chez l'Homme, au contraire, les bras sont
@@ -6099,11 +5731,7 @@ une autre considération, complémentaire de la précédente.
 L'accroissement du cerveau dans la boîte cranienne le divise en
 lobes séparés par des scissures, le plisse, en multiplie, en creuse
 
-10
-
-[p. 146]
-
-et complique les circonvolutions.En outre,par effet de la même
+10 [p. 146] et complique les circonvolutions.En outre,par effet de la même
 cause, le cerveau déborde sur le cervelet et le recouvre. Ces dispo-
 sitions s'accusent visiblement, lorsqu'on passe des Lémuriens aux
 vrais Singes , puis de ceux-ci à l'Homme. D'invisibles consé-
@@ -6146,9 +5774,7 @@ gale puissance d'inventer habitudes ou démarches : n'y a-t-il
 pas, d'un cerveau à l'autre, toute la distance du fermé à l'ouvert ?
 On se demande souvent, avec Agassiz, enquoi les facultés men
 
-[p. 147]
-
-LA FORME HUMAINE
+[p. 147] LA FORME HUMAINE
 147
 
 tales d'un enfant diffèrent de celles d'un jeune Chimpanzé. Elles
@@ -6181,9 +5807,7 @@ qui nous conduira au seuil même de la question décisive, celle de
 l'hominisation, puisqu'elle portera sur les grandes étapes de
 l'évolution d'où est sorti l'Homme.
 
-[p. 148]
-
-VIII
+[p. 148] VIII
 
 LES RACINES PALÉONTOLOGIQUES DE L'HUMANITÉ
 
@@ -6215,9 +5839,7 @@ dépit de ce que semble dire une formule devenue courante, n'est
 réellement affirmée telle quelle par aucun savant ; elle paraît
 aujourd'hui abandonnée, si même ils l'ont jamais admise, par
 
-[p. 149]
-
-LES RACINES PALEONTOLOGIQUES DE L'HUMANITÉ
+[p. 149] LES RACINES PALEONTOLOGIQUES DE L'HUMANITÉ
 149
 
 tous les vrais naturalistes [^p149-1]. Les grands Singes anthropomor-
@@ -6260,9 +5882,7 @@ connues, lacune portant sur toute une longue série transition-
 [^p149-1]: Boule, Les Hommes fossiles, p. 453, en note.
 [^p149-2]: Bulletin of the American Museum of Natural History.
 
-[p. 150]
-
-nelle ; 2º la possibilité d'expliquer les innombrables analogies
+[p. 150] nelle ; 2º la possibilité d'expliquer les innombrables analogies
 entre Homme et Singe par une convergence ou un parallélisme
 d'évolutions indépendantes. Assurément, ce n'est pas inaccep-
 table ; et il y a même plusieurs raisons très positives qui inclinent
@@ -6303,9 +5923,7 @@ relations , deux schémas possibles, et deux seulement : un bou-
 quet de fusées ou une pièce d'artifice à explosions échelonnées ,
 un artichaut ou une arborescence. Eh bien ! Quelle différence y
 
-[p. 151]
-
-LES RACINES PALÉONTOLOGIQUES DE L'HUMANITÉ
+[p. 151] LES RACINES PALÉONTOLOGIQUES DE L'HUMANITÉ
 151
 
 aurait-il pour nous à choisir une hypothèse ou l'autre ? Dans un
@@ -6343,11 +5961,7 @@ très larges traits pour les plus anciennes époques, en augmentant
 un peu le nombre des détails à mesure que nous approcherons de
 la période contemporaine. Je m'en tiendrai d'ailleurs à un sim-
 ple aperçu, limité aux faits les mieux établis et aux seuls résul-
-tats qui nous seront utiles par la suite. Pour ce résumé, un mé
-
-[p. 152]
-
-moire du P. Teilhard [^p152-1] nous servira de guide. Ilprésente excel-
+tats qui nous seront utiles par la suite. Pour ce résumé, un mé [p. 152] moire du P. Teilhard [^p152-1] nous servira de guide. Ilprésente excel-
 lemment un tableau des principales données. Le mieux sera de
 s'en tenir à une analyse et à un commentaire de ce travail, à une
 véritable
@@ -6389,9 +6003,7 @@ presque partout marquée par
 
 [^p152-1]: La Paléontologie et l'apparition de l'Homme, dans la Revue de Philo- sophie,mars-avril 1923 .
 
-[p. 153]
-
-LES RACINES PALÉONTOLOGIQUES DE L'HUMANITÉ
+[p. 153] LES RACINES PALÉONTOLOGIQUES DE L'HUMANITÉ
 153
 
 unblancdans la série des couches géologiques,-période durant
@@ -6430,9 +6042,7 @@ genres de vie où ils se confinent de plus en plus étroitement,
 
 [^p153-1]: Teilhard, loc. cit. - Sauf avis contraire,toutes les citations suivantes proviennent de la même source .
 
-[p. 154]
-
-quelques-uns d'entre eux
+[p. 154] quelques-uns d'entre eux
 les futurs Primates
 s'orientent
 suivant d'autres voies. Leurs membres, leurs organes, conser-
@@ -6469,9 +6079,7 @@ tiaires d'Europe et d'Amérique septentrionale, les Tupaïdés sont [^p154-1]
 [^p154-1]: Perrier, La Terre avant l'histoire, p. 378-379 .- Rapprocher de certaines vues-non exemptes de quelque exagération, d'ailleurs- émises récemment par M. Bolk, suivant qui les principaux caractères somatiques de l'Homme représenteraient des états fœtaux devenus permanents, tandis qu'ils poursuivraient leur évolution chez les autres Primates (Bolk, Le problème de l'Anthropogénèse, dans le Bulletin de l'Association des Anatomistes, 1926).
 [^p154-2]: Cf. Gervais, Histoire naturelle des Mammifères , 1854, t. I, p . 226.
 
-[p. 155]
-
-LES RACINES PALÉONTOLOGIQUES DE L'HUMANITÉ
+[p. 155] LES RACINES PALÉONTOLOGIQUES DE L'HUMANITÉ
 155
 
 représentés par des formes variées et nombreuses. Leur famille,
@@ -6509,11 +6117,7 @@ sent plus anciens, comme famille, que les Tarsidés. En tout cas,
 ils sont morphologiquement plus extérieurs que ces derniers au
 groupe des Primates supérieurs. C'est donc par eux qu'il nous
 faut commencer. »
-Ceux des Lémuriens qui vivent encore de nos jours se distin
-
-[p. 156]
-
-guent des Singes proprement dits (sans parler de la différence
+Ceux des Lémuriens qui vivent encore de nos jours se distin [p. 156] guent des Singes proprement dits (sans parler de la différence
 intellectuelle) par tout un ensemble de caractères anatomiques
 très nets : longueur du museau, revêtement pileux de la figure,
 nombre des prémolaires, forme des incisives, construction de
@@ -6550,9 +6154,7 @@ Passons maintenant aux Tarsidés. Leur histoire est moins
 connue, pour deux raisons. D'une part, ils ne survivent aujour-
 d'hui que par une seule forme, très rare. D'autre part, la taille
 
-[p. 157]
-
-LES RACINES PALEONTOLOGIQUES DE L'HUMANITÉ
+[p. 157] LES RACINES PALEONTOLOGIQUES DE L'HUMANITÉ
 157
 
 -
@@ -6593,11 +6195,7 @@ ses vestiges fossilisés . >>>
 Pour discerner les premiers Singes authentiques, il faut, dans
 l'état actuel de nos connaissances, franchir un large intervalle
 obscur et descendre jusqu'aux temps oligocènes (commencement
-de la seconde moitié du Tertiaire). A ce moment-là, Lémuriens
-
-[p. 158]
-
-et Tarsidés ont déserté l'Occident et nous perdons leurs traces.
+de la seconde moitié du Tertiaire). A ce moment-là, Lémuriens [p. 158] et Tarsidés ont déserté l'Occident et nous perdons leurs traces.
 
 « L'Europe et l'Amérique du Nord semblent vides de Primates .
 En revanche, l'Afrique et l'Amérique du Sud se découvrent
@@ -6644,9 +6242,7 @@ des conjectures lancées naguère par Ameghino : impossible d'y
 
 1
 
-[p. 159]
-
-LES RACINES PALÉONTOLOGIQUES DE L'HUMANITÉ
+[p. 159] LES RACINES PALÉONTOLOGIQUES DE L'HUMANITÉ
 159
 
 voir aujourd'hui plus qu'un simple roman, sans nulle consis-
@@ -6685,11 +6281,7 @@ Anthropomorphes. On ne saurait prétendre qu'avec eux nous
 tenions les ancêtres mêmes de l'Homme. Du moins en sont-ils
 particulièrement le second, d'assez proches cousins. Toutefois,
 pour découvrir sans conteste les Anthropomorphes eux-mêmes,
-il nous faut de nouveau franchir un intervalle, quitter le
-
-[p. 160]
-
-160
+il nous faut de nouveau franchir un intervalle, quitter le [p. 160] 160
 LES
 ORIGINES
 HUMAINES
@@ -6733,9 +6325,7 @@ témoignage de ses caractères synthétiques ou plutôt indécis,
 qu'il se laisse placer sans peine à l'origine commune des Chimpan-
 zés, des Orangs et des Gorilles. Par certains aspects de sa mandi
 
-[p. 161]
-
-LES RACINES PALÉONTOLOGIQUES DE L'HUMANITÉ
+[p. 161] LES RACINES PALÉONTOLOGIQUES DE L'HUMANITÉ
 161
 
 bule, il apparaît comme plus élevé dans la série des Primates que
@@ -6776,11 +6366,7 @@ habitaient, en ce temps-là, l'Ancien Continent. Les dernières
 découvertes faites par M. Pilgrim, dans le Tertiaire supérieur des
 Siwaliks, en apportent la preuve ; alors que les grands Singes
 
-11
-
-[p. 162]
-
-(Gorille, Chimpanzé, Orang, Gibbon) sont si rares aujourd'hui
+11 [p. 162] (Gorille, Chimpanzé, Orang, Gibbon) sont si rares aujourd'hui
 et si localisés dans leur habitat, ils ont été variés et nombreux en
 Asie méridionale à l'époque où s'achevaient les derniers plisse-
 ments des chaînes sous-himalayennes. Quelle que soit la diffi-
@@ -6816,9 +6402,7 @@ différenciation et de leur expansion, que, mêlé à une faune d'ori-
 
 [^p162-1]: De nouveaux documents publiés par M. Pilgrim (un palais) atténuent (s'ils ne la font pas évanouir) cette première apparence.
 
-[p. 163]
-
-LES RACINES PALÉONTOLOGIQUES DE L'HUMANITÉ
+[p. 163] LES RACINES PALÉONTOLOGIQUES DE L'HUMANITÉ
 163
 
 gine africaine ou asiatique, l'Homme fait un peu partout son
@@ -6856,11 +6440,7 @@ tifs. Cette rareté des documents provient de causes générales
 que j'analysais naguère ; mais elle en admet ici une de plus :
 lavie arboricole des êtres en question, peu favorable de toute
 évidence à une conservation de restes fossiles. Des anciens Pri-
-mates, nous ne possédons guère que quelques mâchoires, et
-
-[p. 164]
-
-d'importantes lacunes sont probables. De là mille incertitudes ,
+mates, nous ne possédons guère que quelques mâchoires, et [p. 164] d'importantes lacunes sont probables. De là mille incertitudes ,
 mille difficultés d'interprétation. Où découvrir un principe de
 lecture ? On sait avec quelle réserve doivent être admis les juge-
 ments fondés sur la loi de corrélation organique. Dans le cas
@@ -6897,9 +6477,7 @@ nécessaires , il est permis de voir là un effet du rôle joué,dans le
 progrès de la vie, par le facteur d'invention dont, une fois de
 plus, le jeu devient ainsi manifeste. C'est l'intervention de ce
 
-[p. 165]
-
-LES RACINES PALEONTOLOGIQUES DE L'HUMANITÉ
+[p. 165] LES RACINES PALEONTOLOGIQUES DE L'HUMANITÉ
 165
 
 facteur qui détermine aux points majeurs de transition l'appa-
@@ -6938,9 +6516,7 @@ quels se retrouve par intervalles une disposition semblable.
 
 [^p165-1]: On le trouvera dans le travail déjà cité du P. Teilhard. Divers au- teurs ont donné de tel graphiques d'ensemble poussés jusqu'à l'Homme inclus et d'ailleurs assez différents les uns des autres, au moins quant au détail .
 
-[p. 166]
-
-2º Les centres de rayonnement principal, de même que les
+[p. 166] 2º Les centres de rayonnement principal, de même que les
 points secondaires de raccord et de bifurcation, restent toujours
 problématiques, sinon quant à leur existence, du moins quant
 à leur place exacte et surtout quant à la morphologie précise de
@@ -6980,9 +6556,7 @@ et de la main ; et ces derniers sont en connexion évidente avec
 
 [^p166-1]: L'exigence id aliste et le fait de l'évolution, VII.
 
-[p. 167]
-
-LES RACINES PALÉONTOLOGIQUES DE L'HUMANITÉ
+[p. 167] LES RACINES PALÉONTOLOGIQUES DE L'HUMANITÉ
 167
 
 tout le reste de l'organisme. Or il apparaît, par l'étude même
@@ -7020,11 +6594,7 @@ l'appliquait à la théorie de l'art ou de la science, et jugez de même
 en ce qui concerne la vie. Toute réalité profonde est mouvement
 et répugne donc à un traitement de ce genre. En particulier,
 puisque l'évolution est créatrice, je veux dire puisqu'elle cons-
-titue un progrès de genèse véritable au cours duquel apparaît
-
-[p. 168]
-
-par intervalles de l'irréductiblement nouveau, il y a quelque
+titue un progrès de genèse véritable au cours duquel apparaît [p. 168] par intervalles de l'irréductiblement nouveau, il y a quelque
 chose de contraire à la nature du réel dans la prétention de défi-
 nir le terme d'après la simple analyse du début : le fleuve reçoit
 des affluents , la vie et la pensée franchissent par moments des
@@ -7032,9 +6602,7 @@ seuils de nouveauté originale. Voilà le principe qu'il ne faudra
 point perdre de vue en étudiant, à partir des faits qui viennent
 de nous occuper, l'apparition même de l'Homme .
 
-[p. 169]
-
-IX
+[p. 169] IX
 
 L'APPARITION DE L'HOMME
 
@@ -7063,11 +6631,7 @@ Entre l'Homme et les Primates, ne sont guère connus jusqu'ici
 avec certitude que des rapports morphologiques et chronolo-
 giques. On entre dans les voies de l'hypothèse, dès que se pose
 une question de généalogie proprement dite . Pense-t-on à une
-simple descendance ? Divers savants suggèrent alors des solu
-
-[p. 170]
-
-tions diverses, qu'il est possible de réduire à quatre types, selon
+simple descendance ? Divers savants suggèrent alors des solu [p. 170] tions diverses, qu'il est possible de réduire à quatre types, selon
 que la branche humaine est rattachée à une branche plus récente
 ou plus ancienne de l'arbre primate : aux Anthropomorphes ,
 aux Catarhiniens, aux Platyrhiniens, ou même aux Tarsidés .
@@ -7108,9 +6672,7 @@ Quant à la date, un premier fait est hors de doute : en l'état
 ci, qui semblent d'abord plus intimes, sont dus à desphénomènes de conver-
 gence, dont le rôle perturbateur s'étend peut-être jusqu'à l'ordre biochimique.
 
-[p. 171]
-
-L'APPARITION DE L'HOMME
+[p. 171] L'APPARITION DE L'HOMME
 171
 
 présent de notre documentation, l'existence de l'Homme n'est
@@ -7150,9 +6712,7 @@ insensibles . La question de « l'Homme tertiaire » n'a donc pas ,
 
 [^p171-1]: Il s'agit de trouvailles faites par M. Reid Moir en 1910 et depuis Ipswich et à Foxhall. Cf. H. Breuil, L'Anthropologie, 1922 .
 
-[p. 172]
-
-172
+[p. 172] 172
 LES
 ORIGINES HUMAINES
 
@@ -7194,9 +6754,7 @@ l'Asie méridionale, Inde et Insulinde. En premier lieu, cette
 
 [^p172-1]: Boule. Les Hommes fossiles, 2e éd., p. 468.
 
-[p. 173]
-
-L'APPARITION DE L'HOMME
+[p. 173] L'APPARITION DE L'HOMME
 173
 
 région, à l'époque décisive, nous apparaît comme un grand labo-
@@ -7235,9 +6793,7 @@ elles ont découvert quelques éléments qui commencent à jeter
 
 [^p173-1]: Cependant M. Osborn, après les récentes expéditions américaines en Mongolie, préfère la région nord de l'Asie centrale. Mais il ne justifie guère sa préférence.
 
-[p. 174]
-
-un pont entre les Anthropomorphes miocènes et l'Homo sapiens
+[p. 174] un pont entre les Anthropomorphes miocènes et l'Homo sapiens
 actuel, des intermédiaires morphologiques, sinon généalogiques .
 Le moment n'est pas venu encore de nous appesantir sur ces
 moyens termes. Il faut cependant énumérer les principales trou-
@@ -7274,9 +6830,7 @@ le nom de Pithecanthropus erectus [^p174-1]. En résumé, nous avons
 
 [^p174-1]: Dans quelques publications récentes, le Dr Dubois atténue légèrement
 
-[p. 175]
-
-L'APPARITION DE L'HOMME
+[p. 175] L'APPARITION DE L'HOMME
 175
 
 affaire à un intermédiaire morphologique à peu près idéal .
@@ -7325,9 +6879,7 @@ résultats des plus récentes fouilles, notons plusieurs pièces ayant appartenu
 à des enfants et qui ont permis d'en reconstruire le crâne (La Ferrassie,
 1909 ; La Quina, 1911 ; Gibraltar, 1926) .
 
-[p. 176]
-
-descendance.Du second- Homo Heidelbergensis - nous ne pos-
+[p. 176] descendance.Du second- Homo Heidelbergensis - nous ne pos-
 sédons qu'un seul débris : la mâchoire de Mauer, très massive,
 dépourvue de menton, avec de nombreux traits simiens, malgré
 des dents franchement humaines ; il semble plus primitif encore,
@@ -7372,9 +6924,7 @@ ou l'Homme de Néanderthal, seraient des dégénérés. Cette vue
 
 [^p176-1]: P. Teilhard, mémoire déjà cité sur La Paléontologie et l'apparition de l'Homme.
 
-[p. 177]
-
-L'APPARITION DE L'HOMME
+[p. 177] L'APPARITION DE L'HOMME
 177
 
 des choses ne paraît pas scientifique. Outre qu'on ne voit pas
@@ -7412,11 +6962,7 @@ néanderthaloïde, rien sans doute ne subsiste plus aujourd'hui .
 « Mais brusquement, vers la fin de la dernière époque glaciaire , [^p177-2]
 
 [^p177-1]: Zoologiquement parlant.
-[^p177-2]: P. Teilhard, loc. cit. 12
-
-[p. 178]
-
-178
+[^p177-2]: P. Teilhard, loc. cit. 12 [p. 178] 178
 LES
 ORIGINES HUMAINES
 
@@ -7461,9 +7007,7 @@ des véritables rapports, et surtout qu'à notre point de vue ce
 [^p178-1]: Au moins connue de nous.
 [^p178-2]: P. Teilhard, loc. cit. Cf. Boule, Les Hommes fossiles, chap. IX.
 
-[p. 179]
-
-L'APPARITION DE L'HOMME
+[p. 179] L'APPARITION DE L'HOMME
 179
 
 ne sont pas les courbes de descendance qui offrent l'intérêt
@@ -7508,9 +7052,7 @@ ensemble à une même date, comme si l'éventail des formes s'é-
 
 -
 
-[p. 180]
-
-180
+[p. 180] 180
 LES
 ORIGINES HUMAINES
 
@@ -7555,9 +7097,7 @@ pendant - quant à son origine - du groupe qui en constitue
 aujourd'hui morphologiquement l'entourage le plus proche, ni
 -quant à sa genèse graduelle et à son apparition finale-d'une
 
-[p. 181]
-
-L'APPARITION DE L'HOMME
+[p. 181] L'APPARITION DE L'HOMME
 181
 
 longue phase de l'histoire biosphérique dont il représente à la
@@ -7599,11 +7139,7 @@ des écarts morphologiques et l'ampleur des changements qui
 leur correspondent ou les accompagnent dans l'ordre du psy-
 chisme.
 D'un tel point de vue, tout s'éclaire. A chaque phase du phé-
-nomène son degré de valeur, sa juste place. L'évolution du corps
-
-[p. 182]
-
-ne fait que préparer l'Homme : c'est l'éclosion de l'intelligence
+nomène son degré de valeur, sa juste place. L'évolution du corps [p. 182] ne fait que préparer l'Homme : c'est l'éclosion de l'intelligence
 réfléchie qui constitue l'événement essentiel, qui marque l'œuvre
 décidément hominisante. Il se peut d'ailleurs que, rendue possible
 par les remaniements morphologiques préalables, elle réagisse
@@ -7645,9 +7181,7 @@ rompre cependant la continuité phylétique.
 On voit aussi en pleine lumière, dans
 notre perspective, le
 
-[p. 183]
-
-L'APPARITION DE L'HOMME
+[p. 183] L'APPARITION DE L'HOMME
 183
 
 défaut inhérent aux schémas d'arborescence : ils incitent
@@ -7688,11 +7222,7 @@ le plus ordinairement, ils ne sont pas viables à l'état d'individu
 explicitement réalisé, de type qui dure pour son propre compte ;
 et l'on doit donc s'attendre, contrairement aux vues que fe-
 raient admettre les schémas d'arborescences, à ne les jamais
-découvrir parmi les fossiles. Est-ce à dire qu'il soit impossible
-
-[p. 184]
-
-d'en concevoir l'insertion dans la trame des phénomènes
+découvrir parmi les fossiles. Est-ce à dire qu'il soit impossible [p. 184] d'en concevoir l'insertion dans la trame des phénomènes
 ?
 L'heure n'est pas venue d'approfondir ce point ; et je me bor-
 nerai à une indication. L'œuf, le germe, l'embryon, à des degrés
@@ -7719,9 +7249,7 @@ soit considérée en elle-même la naissance de la réflexion, carac-
 téristique principale de l'avènement humain. Et tel va êtrel'objet
 de la prochaine leçon.
 
-[p. 185]
-
-X
+[p. 185] X
 
 LA DESCENTE DES ARBRES
 
@@ -7758,11 +7286,7 @@ Pour saisir l'Humanité autant que faire se peut à son point de
 naissance, il faut évidemment remonter plus haut que les tribus
 nomades et chasseresses de la plus ancienne préhistoire : car leurs
 membres étaient déjà tout à fait des Hommes , avec une industrie,
-l'usage du feu. etc. D'autre part,la différenciation parfaite entre
-
-[p. 186]
-
-main et pied n'est certainementpas antérieure au Miocène ;et, en
+l'usage du feu. etc. D'autre part,la différenciation parfaite entre [p. 186] main et pied n'est certainementpas antérieure au Miocène ;et, en
 tout cas, les premières annonces de la forme Primate n'apparais-
 sent pas avant l'Eocène. L'hominisation s'est donc, sans aucun
 doute, accomplie au cours du Tertiaire (plutôt dans la seconde
@@ -7795,9 +7319,7 @@ bres . C'est là qu'ils se retirent pour le sommeil, là qu'ils cherchent
 
 [^p186-1]: Il y a, sur ce point, opposition de vues entre M. Gregory et M. Osborn (cf. deux conférences qui se répondent et forment antithèse, dans la revue américaine Science, 20 mai et 24 juin 1927) . M. Gregory, conservant les idées de Darwin etde Huxley, rattache étroitement l'Homme au Singe. M. Os- born,àl'inverse, repousse la théorie longtemps classiqueetpensequel'Homme, issu d'une ligne séparée de trèsbonneheure, fut, dès l'origine, habitant des plaines. On verra que j'adopte une solution intermédiaire, attentive aux arguments avancés de part et d'autre.
 
-[p. 187]
-
-leur nourriture (fruits, bourgeons, œufs, insectes). Ils descendent
+[p. 187] leur nourriture (fruits, bourgeons, œufs, insectes). Ils descendent
 bien sur le sol, mais en excursionseulement, et ils ne s'y déplacent
 qu'avec une certaine maladresse, tandis qu'ils circulent avec une
 extrême agilité parmi les branches . A la rigueur, on pourrait
@@ -7834,9 +7356,7 @@ Considérons, d'autre part, la main humaine. Selon M. Osborn , [^p187-1]
 
 [^p187-1]: Du moins pour son alimentation ordinaire et sauf le cas, non pri- mitif, d'opérations magiques ou d'actes rituels plus ou moins superstitieux.
 
-[p. 188]
-
-quand on la compareà celle des Singes, elle paraît trop différente
+[p. 188] quand on la compareà celle des Singes, elle paraît trop différente
 pouravoirjamais appartenu à un être se mouvantcomme eux dans
 les arbres ; le pouce, notamment, eût été alors une gêne, sinon
 même un grave danger : de sorte que le pré-Homme, s'il avait
@@ -7879,9 +7399,7 @@ carnassiers ? L'Homme n'avait pour lui ni la force, ni la taille, ni
 
 [^p188-1]: Non plus que la forme et la proportion des membres, qui indiquent une attitude ancienne de suspension par les bras.
 
-[p. 189]
-
-la vitesse : pas de crocs, de cornes, de griffes, de cuirasse, de
+[p. 189] la vitesse : pas de crocs, de cornes, de griffes, de cuirasse, de
 venin : homo nudus et inermis . Il n'a jamais eu comme arme
 véritable que la supériorité de son cerveau, manifestée par l in-
 vention de l'instrument artificiel. Trop faible pour lutterde front ,
@@ -7918,9 +7436,7 @@ intéresse plus, ou c'est un pré-homme déjà descendu des arbres.
 
 [^p189-1]: Cette méthode utilise la plante des pieds,non les genoux, comme on le voit chez les Pygmées d'Afrique .
 
-[p. 190]
-
-Enfin, si l'Homme et le Singe grimpent différemment, le temps
+[p. 190] Enfin, si l'Homme et le Singe grimpent différemment, le temps
 écoulé entre eux ou l'écart entre leurs branches suffisent pour
 faire comprendre qu'il se soit accompli de l'un à l'autre une re-
 fonte morphologique entraînant diversité de démarche.
@@ -7964,9 +7480,7 @@ que plus près de ce dernier.Quelques-uns de ses caractères sont ,
 
 [^p190-1]: M. Osborn, en particulier, attribue déjà aux plus anciens précurseurs de l'Homme, dès l'Eocène peut-être, l'attitude érigée du bipède.
 
-[p. 191]
-
-malgré tout, nettement simiens [^p191-1] : il devait reposer principale-
+[p. 191] malgré tout, nettement simiens [^p191-1] : il devait reposer principale-
 ment sur son côté externe, et le gros orteil s'écartait beaucoup
 des autres doigts (disposition qui se rencontre chez les Négritos
 et les Veddahs, dont les pieds, devenus ou redevenus préhensiles ,
@@ -8003,9 +7517,7 @@ aisément avec l'idée que nos ancêtres immédiats furent des arbo-
 [^p191-2]: Les Hommes fossiles, 2º éd., p. 223.
 [^p191-3]: Op . cit., p. 226.
 
-[p. 192]
-
-192
+[p. 192] 192
 LES
 ORIGINES HUMAINES
 
@@ -8054,9 +7566,7 @@ par rapport aux
 Singes- une plus ancienne indépendance de la lignée humaine.
 (2) Ou, du moins, y remonte sans peine.
 
-[p. 193]
-
-ailleurs un complément de ressources alimentaires : le mouve-
+[p. 193] ailleurs un complément de ressources alimentaires : le mouve-
 ment de descente ne fut-il pas, en principe, déterminé par quel-
 que chose de ce genre ? Cependant l'exemple des Singes actuels ,
 sous un climat tropical, montre que le pré-Homme aurait pu se
@@ -8094,9 +7604,7 @@ duire l'hominisation, car l'invention de la pierre taillée ou la dé-
 couverte du feu et de son usage ne sont guère devenues possibles
 13
 
-[p. 194]
-
--
+[p. 194] -
 que par l'exode hors des forêts : auparavant, les matériaux li-
 thiques devaient manquer et, d'autre part, le feu
 avec les
@@ -8134,9 +7642,7 @@ la taupe fouissant pour s'abriter ; bref, et en tout cas, lapertedes [^p194-1]
 [^p194-1]: Sans doute les bûcherons allument aujourd'hui des feux sous bois, dans les clairières : mais peut-on accorder l'usage de leurs artifices protec- teurs à des pré-hommes qui ne savaient même pas produire le feu, moins encore le diriger ?
 [^p194-2]: Cf. Cornish, Les Animaux vivants du Monde, trad. par E. Guilmoto, t. I, ch. I (Flammarion).
 
-[p. 195]
-
-ébauches de mains proprement dites : voilà ce qu'on s'attendrait à
+[p. 195] ébauches de mains proprement dites : voilà ce qu'on s'attendrait à
 voir chez l'arboricole rejeté à terre. Dès lors, le cas de l'Homme
 est singulier. La genèse ou plutôt le remodelage des pieds paraîtra
 normal ; mais étrange, au contraire, la conservation et surtout le
@@ -8172,11 +7678,7 @@ ressources que celle-ci apportait ont pu faire affronter des obsta-
 cles nouveaux plutôt que la seule pression des nécessités accroître
 ces ressources. Le besoin de nourriture carnée a pu égale-
 ment être motif immédiat de descente ; mais le régime carné ,
-disions-nous , offre quelque chose d'artificieldans les conditions où
-
-[p. 196]
-
-196
+disions-nous , offre quelque chose d'artificieldans les conditions où [p. 196] 196
 LES
 ORIGINES HUMAINES
 
@@ -8215,9 +7717,7 @@ par excellence l'organe de son tâtonnement, ce mot devant être [^p196-1]
 
 [^p196-1]: Peut-être l'Homme diffère-t-il surtout du Singe précisément comme l'initiative d'invention diffère de l'habitude orthogénétique.
 
-[p. 197]
-
-ici entendu au sens littéral . De lå une perspective, presque néces-
+[p. 197] ici entendu au sens littéral . De lå une perspective, presque néces-
 saire, dans laquelle je vais esquisser un schéma de théorie à propos
 de l'hominisation. On dit parfois que l'Homme est un animal qui
 a sacrifié ses pattes de devant pour tâter l'Univers. La formule
@@ -8254,11 +7754,7 @@ de Néanderthal, les plus anciens des Hommes fossiles dont nous
 connaissions le squelette entier, c'est-à-dire dans les deux groupes
 qui, en l'état actuel de notre documentation, malgré l'énorme
 intervalle qui les sépare, encadrent l'époque et la lignée du pré-
-Homme,au sens et avec les réserves quej'ai dites. Cela revient, en
-
-[p. 198]
-
-définitive, à nous représenter le pré-Homme au niveaupsychique
+Homme,au sens et avec les réserves quej'ai dites. Cela revient, en [p. 198] définitive, à nous représenter le pré-Homme au niveaupsychique
 des grands Singes anthropomorphes, mais sous des traits mor-
 phologiques plus rapprochés de ceux quel'on rencontre au début
 et à la fin du segment d'évolution qui concerne l'Homme. Hypo-
@@ -8294,11 +7790,7 @@ longueurs inégales. De là un effort vers la station debout, effort
 suscité aussi par le besoin de voir au-dessus de la brousse : à quoi
 il faut joindre sans doute un effet du changement de nourriture,
 qui entraîne des modifications dans les
-sécrétions internes et,
-
-[p. 199]
-
-par suite, dans le développement. Là demeurent valables, cha-
+sécrétions internes et, [p. 199] par suite, dans le développement. Là demeurent valables, cha-
 cune pour sa part et à son rang, les explications darwiniennes ou
 lamarckiennes, pourvu qu'on n'oublie pas de laisser à l'énergie
 d'invention le rôle primordial. Toujours est-il que l'effort, nous le
@@ -8335,11 +7827,7 @@ exécuter ; désormais, n'ayant plusde traction àexercer pour sai-
 sir les objets et les déplacer, n'étant plus étirées par ces trac-
 tions qui interviennent pour une part dans leur allongement
 
-[^p199-1]: P. 380-381 et 382-384,
-
-[p. 200]
-
-et ont sans doute provoqué la conformation spéciale dela tête des
+[^p199-1]: P. 380-381 et 382-384, [p. 200] et ont sans doute provoqué la conformation spéciale dela tête des
 herbivores, elles se raccourcissent, se ramassent; et l'on passe
 ainsi du museau de renard des Makis et autres Lémuriens à la
 face camuse des Singes ; ce raccourcissement ne va pas sans un
@@ -8374,11 +7862,7 @@ tractant, exercer aucune pression sur le cerveau ; au contraire,
 ils tendent à écarter les frontaux et les pariétaux, à mettre le
 cerveau plus à l'aise, et contribuent par conséquent à favoriser
 son développement. La tête s'équilibre sur la colonne vertébrale
-de manière à faire une égale saillie en avant et en arrière ; elle
-
-[p. 201]
-
-se développe également en hauteur, et de là découlent des con-
+de manière à faire une égale saillie en avant et en arrière ; elle [p. 201] se développe également en hauteur, et de là découlent des con-
 séquences importantes. Le développement du crâne et du cer-
 veau en avant entraîne naturellement dans cette direction la
 base du nez, tandis que la rétraction des mâchoires laisse les
@@ -8414,11 +7898,7 @@ fois différées, qui a permis au pré-Homme de libérer cette
 puissance et, du coup, l'a fait Homme. Ainsi, en un sens, la
 réflexion n'aurait pas commencé absolument, puisqu'elle
 était
-immanente à la conscience qui accompagne toute vie ; et, en
-
-[p. 202]
-
-202
+immanente à la conscience qui accompagne toute vie ; et, en [p. 202] 202
 LES
 ORIGINES HUMAINES
 
@@ -8462,9 +7942,7 @@ droit en avant sans se réfléchir, sans se concentrer ; elle s'oublie
 [^p202-1]: On rapprochera les vues qui vont suivre de celles qu'a souvent émises M. Pierre Janet dans ses cours du Collège de France, notamment dans le cours de 1927 dont une publication sténographique a été faite par la li- brairie Chahine.
 [^p202-2]: L'exigence idéaliste et le fait de l'évolution .
 
-[p. 203]
-
-etse perd, disais-je, à mesure qu'elle s'éveille. Mais supposons, au
+[p. 203] etse perd, disais-je, à mesure qu'elle s'éveille. Mais supposons, au
 contraire, que le geste d'exécution se trouve provisoirement
 empêché par une cause quelconque, le cerveau et la main ayant
 toutefois assez d'indépendance dans leur jeu pour que l'arrêt
@@ -8501,11 +7979,7 @@ fruit qu'il est malaisé d'atteindre. Qu'implique son attitude ? La
 différence est grande avec le guet du fauve à l'affût. L'attente, ici,
 n'est pas immobilité passive, ni la tension empire exclusif d'une
 idée qui fait le vide autour d'elle. L'une se réalise activement par
-mille essais réitérés à travers de perpétuelles variantes ; l'autre
-
-[p. 204]
-
-enveloppe richesse toujours accrue. C'est pourquoi on peut alors
+mille essais réitérés à travers de perpétuelles variantes ; l'autre [p. 204] enveloppe richesse toujours accrue. C'est pourquoi on peut alors
 parler vraiment d'attention, laquelle suppose, non point arrêt
 d'idée fixe, mais polarisation d'activité perceptive en éveil, et
 n'est donc possible qu'à l'être qui dispose de multiples ressources
@@ -8540,9 +8014,7 @@ l'emploi des ustensiles humains pour manger, réussir quelques
 
 [^p204-1]: Evolution créatrice, p. 194. (2)Au moins faut-il reconnaître qu'il est, pour cela, bien trop facilement distrait par la moindre circonstance accidentelle.
 
-[p. 205]
-
-petites opérations numériques avec des brins de paille, etc. Mais
+[p. 205] petites opérations numériques avec des brins de paille, etc. Mais
 tout cela ne va pas bien loin et surtout n'est presque jamais ac-
 compli spontanément : il y a dressage possible, point ou guère
 d'invention méditée. Les recueils d'anecdotes sur l'intelligence
@@ -8562,7 +8034,7 @@ blèmes pratiques, dans l'usage de ruses, d'artifices, de détours
 habiles ; mais ils ont toujours besoin de tenir à portée de vue
 directe les éléments de ces combinaisons.Très faible,presque nulle
 demeure en somme leur capacité d'opérations mentales sur de
-simples images remémorées. A fortiori, aucune puissance d'abs-
+simples images remémorées. *A fortiori*, aucune puissance d'abs-
 traction proprement dite ; aucune idée, semble-t-il, qui se dé-
 tache du sensible immédiat. On ne saurait donc prétendre que
 le Singe, même le mieux doué, réfléchisse vraiment. Cela tient
@@ -8577,11 +8049,7 @@ stade morphologique suprême. L'exemple du Singe ne montre
 pas cette mutation ultime : toutefois il permet d'entrevoir com-
 ment elle a pu se produire.
 Le cerveau et la main, après s'être mutuellement perfectionnés
-dans les arbres par les exercices que je décrivais tout à l'heure,
-
-[p. 206]
-
-206.
+dans les arbres par les exercices que je décrivais tout à l'heure, [p. 206] 206.
 LES
 ORIGINES HUMAINES
 
@@ -8621,11 +8089,7 @@ plusieurs plans, une sorte de stratigraphie dans sa structure ; et
 il ne s'agit de découvrirque le premier début,le moment de nais-
 sance, la couche initiale. Plus tard, changera le point d'applica-
 tion du pouvoir réflexif : il passera des choses de la matière aux
-valeurs du monde spirituel, des réalités de la nature extérieure à
-
-[p. 207]
-
-celles de l'ordre social, de l'objet au sujet, de l'action à la pensée,
+valeurs du monde spirituel, des réalités de la nature extérieure à [p. 207] celles de l'ordre social, de l'objet au sujet, de l'action à la pensée,
 du but au comment de l'œuvre. L'Homme finira par réfléchir
 sur sa réflexion même. Mais le langage lui sera nécessaire pour
 cela ; et nous n'en sommes encore, pourrait-on dire, qu'à la phase
@@ -8660,17 +8124,11 @@ logie et de comportement biologique. D'autres facteurs vont
 intervenir désormais, dont le premier sans doute est le facteur
 social, avec tout ce qu'il implique ou suscite. Ces facteurs ap-
 pellent examen à leur tour, mais suivant des voies différentes .
-Ils feront l'objet de nos prochaines études, où la Paléontologie
-
-[p. 208]
-
-sera quittée pour la Préhistoire. C'est donc unnouveau cycle de
+Ils feront l'objet de nos prochaines études, où la Paléontologie [p. 208] sera quittée pour la Préhistoire. C'est donc unnouveau cycle de
 recherches , relevant de méthodes nouvelles, que nous allons en-
 treprendre maintenant .
 
-[p. 209]
-
-XI
+[p. 209] XI
 
 LES DONNÉES DE LA PRÉHISTOIRE
 
@@ -8703,11 +8161,7 @@ craindrions-nous ici de nous borner à « tenir les deux bouts de la
 
 み
 
-14
-
-[p. 210]
-
-210
+14 [p. 210] 210
 LES
 ORIGINES HUMAINES
 
@@ -8747,11 +8201,7 @@ parti pour l'interprétation des phénomènes, spécialement en
 ce qui concerne la théorie de la connaissance ; et le besoin se
 faisait sentir, pressant, de ce qu'il apporte ou invite à consi-
 dérer. C'est qu'en effet l'étude critique de la Raison semble
-épuisée aujourd'hui, au moins momentanément. Je crois qu'on a
-
-[p. 211]
-
-tiré tout ce qu'on pouvait obtenir d'un examen de nos facultés
+épuisée aujourd'hui, au moins momentanément. Je crois qu'on a [p. 211] tiré tout ce qu'on pouvait obtenir d'un examen de nos facultés
 actuelles par analyse réflexive. On ne gagnera plus rien en pré-
 cision, on ne résoudra pas les difficultés subsistantes, on ne fera
 désormais qu'opposer sans fin les mêmes thèses contraires dans
@@ -8787,9 +8237,7 @@ un désir de collaboration sympathique et active, le dessein de
 
 [^p211-1]: Je laisserai toutefois de côté ici une assez grande part de son livre, celle qui en fait une étude sociologique » .
 
-[p. 212]
-
-concourir à mettre davantage en lumière ce que sa méthode
+[p. 212] concourir à mettre davantage en lumière ce que sa méthode
 et sa thèse me paraissent avoir de foncièrement juste et vrai.
 Je compléterai d'ailleurs ses vues et, au besoin, les corrigerai
 au moyen des autres sources mentionnées tout à l'heure, dont je
@@ -8828,9 +8276,7 @@ car le seul point à noter ici est la structure stratifiée de l'intelligence ad
 et normale.
 (3) En l'abrégeant, bien entendu, et même en l'altérant.
 
-[p. 213]
-
-à son tour M. Weber au début de son livre. La conception de
+[p. 213] à son tour M. Weber au début de son livre. La conception de
 Comte reste en somme assez médiocrement « positive » . Sans mé-
 connaître ce qu'il y entre de vérité, retenons seulement le ca-
 ractère trop statique d'une pareille liste d'états, son étroitesse
@@ -8867,11 +8313,7 @@ fonction technique et fabricatrice d'outils, d'engins mécaniques ,
 bref la faculté de construire et d'utiliser pratiquement des objets
 matériels comme transformateurs ou multiplicateurs d'énergie .
 Ces deux types d'aptitude et de conduite se révèlent nettement
-séparables dans l'observation de tous les jours avec la visible
-
-[p. 214]
-
-différence de mentalité entre praticiens et théoriciens, et aussi
+séparables dans l'observation de tous les jours avec la visible [p. 214] différence de mentalité entre praticiens et théoriciens, et aussi
 dans l'histoire où la diversité des époques et des civilisations
 montre tantôt la prédominance de l'un des types et tantôt celle
 de l'autre .
@@ -8905,9 +8347,7 @@ entre d'abord dans l'examen de la préhistoire ; et ainsi ferai-je,
 
 [^p214-1]: On verra que je conclus, en fin de compte, à une tendance vers un rythme alternatif des tendances : sorte de tendance du second ordre, qui ne me semble réussir à se manifester, si la comparaison est suivie jusqu'au bout, ni à l'é- shelle des menues rides, ni à celle des mouvements de marées, mais seu- lement (et à peu près) au niveau moyen des vagues .
 
-[p. 215]
-
-plus même que lui, avant de passer aux observations d'histoire
+[p. 215] plus même que lui, avant de passer aux observations d'histoire
 proprement dite, puis à l'analyse du moment contemporain.
 Je sais bien tout ce que les recherches préhistoriques, dans
 leur état actuel, comportent de difficultés et d'incertitudes :
@@ -8948,9 +8388,7 @@ désormais habitudes mortes
 -
 -
 
-[p. 216]
-
-les enveloppent ainsi que des bandelettes,
+[p. 216] les enveloppent ainsi que des bandelettes,
 au point , par
 exemple, que l'outil, devenu objet de culte passif, est conservé
 tel quel avecun respect superstitieux, les conduites maintenues
@@ -8989,11 +8427,7 @@ une petite querelle à M. Weber. Il ne cite guère que les écrits
 de Mortillet et de ses continuateurs. Documentation insuffisante
 et, ce qui est plus grave, un peu suspecte. Certes, je ne veux pas
 nier ni amoindrir les éminents services rendus par Gabriel de
-Mortillet . Toutefois, ses successeurs immédiats, si méritoires
-
-[p. 217]
-
-qu'aient été leurs propres travaux, ont, après lui, constitué une
+Mortillet . Toutefois, ses successeurs immédiats, si méritoires [p. 217] qu'aient été leurs propres travaux, ont, après lui, constitué une
 École qui, ainsi qu'il arrive si fréquemment, a exagéré les dé-
 fauts du maître. Pour ce qui est de celui-ci même, bornons-nous
 ånoter tout de suite que plusieurs de ses conclusions principales
@@ -9035,11 +8469,7 @@ ordres de grandeur.
 Encore y faut-il apporter beaucoup de réserve. Les chrono-
 mètres astronomiques, tels que le déplacement de l'axe terrestre
 ou la variation d'excentricité de l'orbite, sont tombés en com-
-plet discrédit. Les chronomètres géologiques- dépôt de limons
-
-[p. 218]
-
-alluviaux ou lacustres, extension de deltas aux embouchures
+plet discrédit. Les chronomètres géologiques- dépôt de limons [p. 218] alluviaux ou lacustres, extension de deltas aux embouchures
 des fleuves , cônes de déjection des cours d'eau, vitesse de retrait
 des glaciers,creusement des gorges, recul des cascades, oscillations
 du niveau de la mer, émersion ou immersion des plages, corro-
@@ -9074,11 +8504,7 @@ tants pour la thèse que nous avons en vue.
 Un mot d'abord, en nous bornant d'ailleurs aux très grandes
 lignes, sur la classification des temps préhistoriques et leur divi-
 sion en étages successifs. Comment parvient-on à fixer les prin-
-cipaux termes de la série ? Trois méthodes pour cela : stratigra-
-
-[p. 219]
-
-phique, paléontologique, archéologique, chacune utile et même
+cipaux termes de la série ? Trois méthodes pour cela : stratigra-[p. 219]phique, paléontologique, archéologique, chacune utile et même
 nécessaire, mais insuffisante à elle seule, de sorte qu'il faut
 donc les employer concurremment. Elles appellent cependant
 quelques remarques. En premier lieu, considérons la méthode
@@ -9115,11 +8541,7 @@ où ces traces se rencontrent. Si l'âge des anciennes alluvions
 de laTamise, de la Somme, de la Garonne, où abondent les outils
 de type chelléen, peut être approximativement déterminé, on
 est loin de savoir au juste quelle est l'ancienneté des graviers du
-Zambèze ou des dépôts latéritiques de Madras dans lesquels se
-
-[p. 220]
-
-recueillent des pierres taillées de même forme. Ceux-ci sont peut-
+Zambèze ou des dépôts latéritiques de Madras dans lesquels se [p. 220] recueillent des pierres taillées de même forme. Ceux-ci sont peut-
 être bien plus vieux que celles-là [^p220-1]. » D'autre part, les divers
 types de taille peuvent correspondre à des besoins divers ou à
 des populations différentes, mais contemporaines. On voit donc
@@ -9160,9 +8582,7 @@ Renne [^p220-3] : au début, faune des toundras (climat très froid) ;
 [^p220-2]: Avec, d'ordinaire, la transition préalable de l'Acheuléen.
 [^p220-3]: Ce nom traduit un fait ethnographique plutôt que paléontologique : le grand rôle joué désormais par le Renne dans la vie des Hommes .
 
-[p. 221]
-
-puis faune des steppes
+[p. 221] puis faune des steppes
 (climat froid encore et surtout sec) ;
 le Bison abonde ; - à partir de là, domine la méthode archéo-
 logique, sur l'application de laquelle je vais insister.
@@ -9208,11 +8628,7 @@ en connexion avec les fossiles d'une faune très ancienne, remon-
 tant jusqu'à la phase chaude du quaternaire inférieur ; inver
 sement, on a rencontré, près de Santander, des quartzites amyg-
 daloïdes en plein moustérien supérieur ; et les faits de ce genre
-sont assez nombreux : donc pas de séparation chronologique
-
-[p. 222]
-
-tranchée ou (si l'on préfère) possibilité d'interversions au moins
+sont assez nombreux : donc pas de séparation chronologique [p. 222] tranchée ou (si l'on préfère) possibilité d'interversions au moins
 locales . D'autre part, toutes les transitions ne sont pas équi-
 valentes . Le dernier terme de la série, l'azilien, doit plutôt en
 être détaché, comme représentant le passage du Paléolithique
@@ -9251,11 +8667,7 @@ Ensuite, on entre dans la Protohistoire : c'est l'âge des métaux
 (cuivre, bronze, fer) . Après encore, et à des dates variables sui-
 
 ( 1 ) Congrès international d'Anthropologie et d'Archéologie préhistoriques ,
-Compte rendu de la XIV. session, Genève, 1912,
-
-[p. 223]
-
-vant les pays [^p223-1], s'ouvre l'Histoire. Aujourd'hui enfin com-
+Compte rendu de la XIV. session, Genève, 1912, [p. 223] vant les pays [^p223-1], s'ouvre l'Histoire. Aujourd'hui enfin com-
 mence peut-être un âge nouveau : celui de l'acier, a-t-on dit
 quelquefois ; mais nous aurons à préciser cela plus tard.
 Ces diverses remarques ne sont pas sans portée ni consé-
@@ -9292,9 +8704,7 @@ Le plus vieux débris humain que l'on connaisse actuellement
 [^p223-1]: Plus de 3.500 ans avant J.-C. pour l'Egypte, au temps de Jules César pour la Gaule, vers le 1x siècle de notre ère pour la Russie, sans parler des peuplades qui, de nos jours , étaient encore à l'âge de pierre, lorsque les Européens entrèrent en relations avec elles.
 [^p223-2]: Sans doute y en eut-il beaucoup d'autreset neconnaissons-nous qu'un petit nombre des essais préparatoires vers la forme parfaite.
 
-[p. 224]
-
--
+[p. 224] -
 
 est la mâchoire de Mauer trouvée en 1907, à 24 mètres de pro-
 fondeur, dans une sablière, près de Heidelberg. Les conditions
@@ -9338,9 +8748,7 @@ panzé. Contraste si fort qu'on s'est demandé si l'association [^p224-1]
 
 [^p224-1]: Peut-être sera-t-on mieux fixé si, un jour, se confirme l'annonce faite récemment que des morceaux de membres auraient été découverts au cours de nouvelles fouilles, complétant un peu l'Homme en question.
 
-[p. 225]
-
-était légitime, si c'étaient là les restes d'un être unique ou de
+[p. 225] était légitime, si c'étaient là les restes d'un être unique ou de
 deux : et la controverse n'est pas close. La première hypothèse
 paraît cependant la plus probable, car il demeure malgré tout
 quelque peu invraisemblable d'expliquer par un simple hasard
@@ -9382,11 +8790,7 @@ les caractères étonnamment uniformes de ce groupe,lesquels ne se
 retrouvent en nul autre - fût-ce des plus inférieurs
 - parmi
 
-15
-
-[p. 226]
-
-ceux qui nous sont connus [^p226-1]. Quand on découvrit le premier
+15 [p. 226] ceux qui nous sont connus [^p226-1]. Quand on découvrit le premier
 vestige de ce type humain, la calotte cranienne de Néanderthal ,
 on pensa d'abord-à cause de la voûte surbaissée, des énormes
 arcades soucilières, - qu'il pouvait s'agir des restes d'un indi-
@@ -9423,9 +8827,7 @@ die de l'Homo Neanderthalensis [^p226-4], fourniront au lecteur tous les
 [^p226-3]: On ignore tout à fait ce qu'ont pu devenir les Hommes chelléens.
 [^p226-4]: D'aborddans son grand mémoire desAnnales de Paléontologie, 1911-
 
-[p. 227]
-
-renseignements désirables. Il me suffira de résumer d'après
+[p. 227] renseignements désirables. Il me suffira de résumer d'après
 eux, en quelques traits sommaires, la diagnose du type de Néan-
 derthal. Voici les caractères fondamentaux à retenir :
 
@@ -9472,9 +8874,7 @@ Les Hommes fossiles , où sont synthétisés les résultats acquis, compte même
 tenu des squelettes (malheureusement non publiés encore) qu'a livrés l'abri
 sous roche de La Ferrassie .
 
-[p. 228]
-
-228
+[p. 228] 228
 LES
 ORIGINES HUMAINES
 
@@ -9518,11 +8918,7 @@ diocrement organisée, avec une importance relative des terri-
 toires sensitivo-moteurs et des centres d'association qui suggère
 l'idée d'un psychisme grossier, en juste correspondance à l'état
 misérable de l'outillage lithique, plus primitif à bien des égards
-que celui de Chelles et surtoutde Saint-Acheul ; - les fonctions
-
-[p. 229]
-
-du langage, selon M. Boule, ne devaient pas elles-mêmes dé-
+que celui de Chelles et surtoutde Saint-Acheul ; - les fonctions [p. 229] du langage, selon M. Boule, ne devaient pas elles-mêmes dé-
 passer alors un état rudimentaire .
 Ces points établis, comment situer l'Homme de Néanderthal ?
 Sans doute, il doit être plus ancien que ses gisements ; mais on
@@ -9565,9 +8961,7 @@ ancien n'appartient pas à notre ascendance directe .
 
 -
 
-[p. 230]
-
-De là une conséquence dont la portée s'imposeimmédiatement :
+[p. 230] De là une conséquence dont la portée s'imposeimmédiatement :
 l'Homme de Néanderthal représente un rameau humain aujour-
 d'hui desséché. Si c'est le témoin d'une espèce distincte, il faut
 ajouter aussi d'une espèce éteinte. A partir du paléolithique supé-
@@ -9607,9 +9001,7 @@ d'une documentation
 extra-européenne ; et ceci nous amène
 devant une remarque additionnelle .
 
-[p. 231]
-
-Au type néanderthaloïde, il convient en effet de rattacher
+[p. 231] Au type néanderthaloïde, il convient en effet de rattacher
 l'Homme de Rhodésie, que représente le crâne de Broken Hill
 trouvé en 1921. Vous savez en quoi consista la trouvaille : un
 crâne (malheureusement privé de sa mandibule) et quelques autres
@@ -9646,9 +9038,7 @@ que les trois formes ont une origine commune ; elles ont dû se
 
 [^p231-1]: Les Hommes fossiles, p. 407-408 .
 
-[p. 232]
-
-répandre et vivre longtemps sur de vastes territoires. Chez nous,
+[p. 232] répandre et vivre longtemps sur de vastes territoires. Chez nous,
 l'Homme de Néanderthal semble disparaître assez brusquement
 après la période glaciaire, mais peut-être ne s'agit-il pas d'une
 extinction totale. Il a pu continuer à vivre dans d'autres régions.
@@ -9685,9 +9075,7 @@ Nègres, Blancs et Jaunes » [^p232-1] . De là le second fait à retenir :
 
 [^p232-1]: Boule, Les Hommes fossiles , p. 317.
 
-[p. 233]
-
-au Paléolithique supérieur, la forme de l'Homo sapiens est défi-
+[p. 233] au Paléolithique supérieur, la forme de l'Homo sapiens est défi-
 nitivement acquise, et même déjà ses grandes variétés se des-
 sinent. Mais, encore une fois, pas de continuité généalogique
 saisissable . Les Hommes du Paléolithique supérieur surgissent
@@ -9699,9 +9087,7 @@ nous arrivons à l'Humanité actuelle , dont il nous faut maintenant
 étudier la formation : nouveau problème qui relève de données
 d'un autre genre.
 
-[p. 234]
-
-XII
+[p. 234] XII
 
 LA FORMATION DE L'HUMANITÉ ACTUELLE
 
@@ -9733,9 +9119,7 @@ du phénomène ? On me permettra d'ouvrir à cet égard une pa-
 renthèse, de risquer une courte digression qui, d'ailleurs, ne sera
 pas inutile.
 
-[p. 235]
-
-LA FORMATION DE L'HUMANITÉ ACTUELLE
+[p. 235] LA FORMATION DE L'HUMANITÉ ACTUELLE
 235
 
 Le problème est double ou, si l'on préfère, il comporte deux
@@ -9743,7 +9127,7 @@ degrés, deux moments : problème de l'espèce unique à laquelle
 tous les Hommes appartiendraient, problème du couple unique
 d'où proviendraient tous les Hommes . Ces deux problèmes sont
 susceptibles de recevoir,dans une certaine mesure, des solutions
-indépendantes . A priori, l'unicité de l'espèce n'entraîne pas celle
+indépendantes . *A priori*, l'unicité de l'espèce n'entraîne pas celle
 de la souche, une même forme spécifique ayant pu apparaître
 plusieurs fois, commencer en plusieurs points simultanés ou suc-
 cessifs . Inversement, il ne serait pas absurde en soi que tous les
@@ -9773,11 +9157,7 @@ une seule espèce, les autres (comme ceux de Neanderthal) cons-
 tituant des rameaux désormais flétris, desséchés, sans descen
 dance.
 A vrai dire, si l'on va au fond des choses, le problème de l'es-
-pèce unique est peut-être illusoire en partie, dénué de significa
-
-[p. 236]
-
-236
+pèce unique est peut-être illusoire en partie, dénué de significa [p. 236] 236
 LES ORIRINES HUMAINES
 
 tion bien précise, de portée surtout ; car - la remarque en a
@@ -9821,9 +9201,7 @@ religieux. Le naturaliste, à lui seul, n'y penserait même pas.
 Peut-être cependant aurait-il tort. De quoi il faut dire au moins
 un mot.
 
-[p. 237]
-
-LA FORMATION DE L'HUMANITÉ ACTUELLE
+[p. 237] LA FORMATION DE L'HUMANITÉ ACTUELLE
 237
 
 Observons d'abord les phénomènes de descendance et cher-
@@ -9864,11 +9242,7 @@ régression
 ascendante, se
 dé-
 doublent sans cesse, mais sans cesse également se confondent.
-Précisons comme ci-dessus, en nous bornant à passer de fils en
-
-[p. 238]
-
-père. Soit un homme aujourd'hui vivant : il a un ancêtre paléoli-
+Précisons comme ci-dessus, en nous bornant à passer de fils en [p. 238] père. Soit un homme aujourd'hui vivant : il a un ancêtre paléoli-
 thique et un seul, si haut que l'on remonte,j'entends un ancêtre
 direct en ligne mâle ininterrompue. Or, au cours des ontogénèses,
 il ne se crée pas de tiges absolument nouvelles, sans
@@ -9909,9 +9283,7 @@ s'impose une limite quelconque au degré de ces dernières [^p238-1]. De
 
 [^p238-1]: D'ailleurs le même schéma convient également au système des géné- rations animales, à l'histoire entière de l'évolution.
 
-[p. 239]
-
-LA FORMATION DE L'HUMANITÉ ACTUELLE
+[p. 239] LA FORMATION DE L'HUMANITÉ ACTUELLE
 239
 
 là, par intervalles,- et quelles qu'aient été les origines , - possi-
@@ -9956,11 +9328,7 @@ Ma réponse est que le brassage
 humain, qui aujourd'hui n'est que partiel en effet, bien qu'avec
 une tendance à l'accroissement, a dû être beaucoup plus général
 au cours des temps préhistoriques, surtout pendant les périodes
-originelles. Seulement, pour s'en rendre compte, il faut se placer
-
-[p. 240]
-
-à un autre niveau de phénomènes, à l'échelle des durées paléon-
+originelles. Seulement, pour s'en rendre compte, il faut se placer [p. 240] à un autre niveau de phénomènes, à l'échelle des durées paléon-
 tologiques.... Et je saisis cette occasion de fermer la parenthèse,
 de clore la digression, le roman, de revenir sur un terrain plus
 positif, en résumant ici les grandes lignes d'une remarquable
@@ -9996,9 +9364,7 @@ saires des migrations humaines et encore elle qui détermine, par [^p240-1923]
 [^p240-1]: Congrès de l'Association française pour l'avancement des Sciences,
 [^p240-1923]: Toutes les citations qui suivent, sauf indication contraire, sont empruntées à ce travail.
 
-[p. 241]
-
-LA FORMATION DE L'HUMANITÉ ACTUELLE
+[p. 241] LA FORMATION DE L'HUMANITÉ ACTUELLE
 241
 
 comparaison entre les données archéologiques des différentes
@@ -10039,11 +9405,7 @@ généalogiquement ni entre elles ni avec nous.
 D'où vinrent au juste, et à quelle époque, les Hommes de Pilt-
 down et de Heidelberg ? Impossible de le dire. Une seule chose
 
-16
-
-[p. 242]
-
-est sûre : c'est que rien ne permet de lesmettre en série [^p242-1] et que
+16 [p. 242] est sûre : c'est que rien ne permet de lesmettre en série [^p242-1] et que
 leurs ancêtres demeurent jusqu'ici inconnus. Même ignorance,
 quant à leur postérité. On en perd aussitôt les traces ; car si, à la
 rigueur, un lien peut être supposé entre le second et l'Homme de
@@ -10076,9 +9438,7 @@ caractères physiques. Or, ces
 [^p242-3]: Boule. Les Hommes fossiles, p. 246 .
 [^p242-4]: Boule, op. cit ., p. 245-246.
 
-[p. 243]
-
-LA FORMATION DE L'HUMANITÉ ACTUELLE
+[p. 243] LA FORMATION DE L'HUMANITÉ ACTUELLE
 243
 
 derthaliens dans notre pays, devaient exister antérieurement
@@ -10101,7 +9461,7 @@ l'ancêtre
 de l'Homo sapiens, puisque les deux espèces ont eu des repré-
 sentants contemporains. L'origine de l'Homo sapiens doit être
 cherchée dans un passé beaucoup plus lointain quenous ne pou-
-vions le supposer a priori. » Elle doit être également cherchée au
+vions le supposer *a priori*. » Elle doit être également cherchée au
 delà de l'horizon européen .
 Revenons alors, d'après M. Breuil, à l'histoire des migrations
 humaines. « Au lendemain du maximum de la dernière glacia-
@@ -10120,11 +9480,7 @@ néanderthalienne... et, bien qu'un contact
 ait certainement
 existé entre les deux éléments, rien ne permet depenser qu'une
 fusion même légère ait eu lieu, soit que les nouveaux venus aient
-exterminé comme des bêtes les premiers occupants, soit que
-
-[p. 244]
-
-l'interfécondité n'existât pas entre eux ». Les nouvelles races,
+exterminé comme des bêtes les premiers occupants, soit que [p. 244] l'interfécondité n'existât pas entre eux ». Les nouvelles races,
 déjà, sont distinctes, presque autant que nos races contempo-
 raines . L'une d'elles, représentéepar les squelettes de Grimaldi ,
 est de caractère négroïde, avec un type féminin semblable aux
@@ -10165,9 +9521,7 @@ tion contemporaine de la race qui ya
 prolifié depuis ?
 Le
 
-[p. 245]
-
-LA FORMATION DE L'HUMANITÉ ACTUELLE
+[p. 245] LA FORMATION DE L'HUMANITÉ ACTUELLE
 245
 
 problème de l'origine des races devait donc, il y a 20.000 ans ,
@@ -10208,11 +9562,7 @@ débris vivants de formes entomologiques anciennes,émigrées ou
 disparues ». Parmi ces peuplades, qui ont laissé çà et là des
 « blocs erratiques », témoins de leur passage, on observe toutes
 sortes de types intermédiaires, prédifférenciés, qui forment de
-proche en proche des chaînons entre les races actuelles les plus
-
-[p. 246]
-
-disparates .C'est une continuité qui se dessine peu àpeu, enmême
+proche en proche des chaînons entre les races actuelles les plus [p. 246] disparates .C'est une continuité qui se dessine peu àpeu, enmême
 temps qu'une mise en place graduelle.
 Ainsi, à diverses reprises, le réservoir asiatique s'épancha,
 tantôt vers un point du globe, tantôt vers un autre. L'Anthropo-
@@ -10251,9 +9601,7 @@ question ; dès lors, elle préexistait sans doute, sur place ou ail-
 leurs ; et c'est pourquoi on peut conclurepour elle à une contem-
 poranéité avec les Néanderthaliens finissants . Où chercher alors
 
-[p. 247]
-
-LA FORMATION DE L'HUMANITÉ ACTUELLE
+[p. 247] LA FORMATION DE L'HUMANITÉ ACTUELLE
 247
 
 les origines de nos Négroïdes ? Leurs caractères mêmes, je l'ai
@@ -10291,9 +9639,7 @@ migration . Assurément un doute peut subsister sur le sens dans
 [^p247-1]: On a contesté récemment l'existence de ce pont, sans faire valoir toutefois de raisons décisives ; au surplus, bien d'autres exemples mon- trent qu'une continuité de terre n'était pas indispensable.
 [^p247-2]: Une statuette représentant un jeune homme, trouvée avec les autres, ne la présente pas, mais attribue au personnage des formes sveltes, élan- cées; et il en est de même dans la réalité (coïncidence remarquable) chez les Boschimans- Hottentots .
 
-[p. 248]
-
-lequel a été parcourue la route. Plusieurs indices, toutefois, sont
+[p. 248] lequel a été parcourue la route. Plusieurs indices, toutefois, sont
 en faveur d'une antériorité de la civilisation lithique africaine,
 comme de la faune représentée par les gravures
 et
@@ -10332,12 +9678,10 @@ race .
 (2) Boule, Les Hommes fossiles, p. 312.
 Des squelettes Négroïdes ont
 (3) Boule, Les Hommes fossiles, p. 284.
-été signalés aussi dans le Néolithique de l'Illyrie et des Balkans (loc. cit.,
+été signalés aussi dans le Néolithique de l'Illyrie et des Balkans (*loc. cit.*,
 en note).
 
-[p. 249]
-
-LA FORMATION DE L'HUMANITÉ ACTUELLE
+[p. 249] LA FORMATION DE L'HUMANITÉ ACTUELLE
 249
 
 et de
@@ -10376,9 +9720,7 @@ par eux. A quoi il faut ajouter que nous ne savons pas davan-
 
 [^p249-1]: Tout ce que l'on peut dire, d'après les faunes associées, c'est que l'Aurignacien deGrimaldi paraît antérieur à celui du Périgord et que, dans l'un des plus vieux foyers de la Grotte du Prince, les fouilles ont rencontré plusieurs fragments de Cassis rufa, un coquillage dont l'habitat le plus voisin d'Europe est l'île de Socotora, au sud de la péninsule arabique.
 
-[p. 250]
-
-tage, du moins précisément, quelles furent leurs destinées ulté-
+[p. 250] tage, du moins précisément, quelles furent leurs destinées ulté-
 rieures à partir de l'Azilien,-soit que, refoulés par de nouveaux
 envahisseurs , ils aient suivi le Renne dans sa retraite vers les
 zones circumpolaires où les Hyperboréens actuels, qui en conti-
@@ -10416,11 +9758,7 @@ saillant, au Néolithique et dès l'Azilien, c'est (à notre point de
 vue) l'arrivée des Brachycéphales en Europe. Toutefois leurs
 prédécesseurs ne disparaissent pas devant eux, comme le prouve
 l'extraordinaire mélange observé dans la station bavaroise d'Of-
-net. Mais je n'essaierai point ici de retracer lagenèse ou la diver-
-
-[p. 251]
-
-LA FORMATION DE L'HUMANITÉ ACTUELLE
+net. Mais je n'essaierai point ici de retracer lagenèse ou la diver-[p. 251]LA FORMATION DE L'HUMANITÉ ACTUELLE
 251
 
 sification progressive, ni les mouvements migratoires des trois
@@ -10457,9 +9795,7 @@ plastiques et molles, puis de proche en proche entre les races
 
 [^p251-1]: Les noms de la première et de la troisième (dolichocéphales) indiquent suffisamment leurs points d'origine immédiate au moment où elles entrent en scène ; quant à la seconde (brachycéphale), qui pénètre comme un coin entre les précédentes, elle est venue d'Asie, ainsi que le montrent notam- ment les quelques caractères mongoloïdes qu'elle a présentés d'abord et perdus peu à peu.
 
-[p. 252]
-
-plus récentes et plus voisines suivant les hasards de leurs
+[p. 252] plus récentes et plus voisines suivant les hasards de leurs
 multiples rencontres.
 Il ne m'appartient pas d'étudier ici,du point de vue anthropo-
 logique, la composition totale de l'Humanité présente, ni le che-
@@ -10497,9 +9833,7 @@ par leur développement, par leur ampleur et leur séparation
 bien nette, masquent les souches modestesdont ils ont tiré leur
 origine certainement très lointaine ». Il est difficile de discerner
 
-[p. 253]
-
-LA FORMATION DE L'HUMANITÉ ACTUELLE
+[p. 253] LA FORMATION DE L'HUMANITÉ ACTUELLE
 253
 
 si leur point de départ s'attache au sol infra-humain en des points
@@ -10538,19 +9872,13 @@ Hommes qui, sur place et par leurs propres moyens, de « mous-
 tériens » sont devenus « aurignaciens ». Est-il possible de saisir
 une continuité quelconque et un rythme d'évolution ? En tout [^p253-1]
 
-[^p253-1]: Cf. le beau livre de M. Raoul Allier, Le Non-Civilisé et Nous : diffé- rence irréductible ou identité foncière ? (Paris, Payot, 1927.)
-
-[p. 254]
-
-cas, à cause des migrations ou invasions et des substitutions par-
+[^p253-1]: Cf. le beau livre de M. Raoul Allier, Le Non-Civilisé et Nous : diffé- rence irréductible ou identité foncière ? (Paris, Payot, 1927.) [p. 254] cas, à cause des migrations ou invasions et des substitutions par-
 fois violentes qui en résultèrent, la seule Anthropologie ne permet
 pas de conclure. Il faut passer de l'analyse des races à l'analyse
 des civilisations ; et telle, en effet, va être maintenant notre ten-
 tative .
 
-[p. 255]
-
-XIII
+[p. 255] XIII
 
 L'ÉCLOSION DE L'INTELLIGENCE
 
@@ -10579,11 +9907,7 @@ tiale observable au cours de l'évolution individuelle, où - sans
 nul animisme- l'enfant, par de multiples expériences toutes
 pratiques, se familiarise avec le maniement des corps solides .
 La supposition d'une pareille ère de positivité primitive, plutôt
-vécue que réfléchie, paraît une pièce capitale de la démonstra
-
-[p. 256]
-
-tion tentée en faveur de quelque loi d'alternance réglant le
+vécue que réfléchie, paraît une pièce capitale de la démonstra [p. 256] tion tentée en faveur de quelque loi d'alternance réglant le
 progrès humain. Or, dès l'époque de Chelles et de Saint-Acheul,
 on trouve des silex taillés et des éclats de débitage concentrés sur
 certains points ennombre tel qu'ils marquent, sans doute possible,
@@ -10629,9 +9953,7 @@ reconnaître que ces brisures et ces marques avaient été produites par les
 dents de Squales ou de Carnassiers dont les mêmes dépôts contiennent les
 restes.
 
-[p. 257]
-
-L'ÉCLOSION DE L'INTELLIGENCE
+[p. 257] L'ÉCLOSION DE L'INTELLIGENCE
 257
 
 travail dont on voulait qu'ils portassent la marque est vraiment
@@ -10669,11 +9991,7 @@ signe d'un travail humain pourrait avoir été produit par des
 actions purement physiques : ainsi l'éclatement par le feu qui
 n'a eu peut-être d'autre cause qu'un incendie spontané, ainsi en-
 
-[^p257-1]: Boule, Les Hommes fossiles, p. 130 et 131. - On ne trouve d'éolithes quedans les gisements de silex, mais là on en trouve toujours : ils sont liés à des terrains, non à desstations archéologiques, et d'autre part demeurent exactement semblables, quel que soit l'âge des premiers. 17
-
-[p. 258]
-
-core les apparences de taille grossière que sont capables de déter-
+[^p257-1]: Boule, Les Hommes fossiles, p. 130 et 131. - On ne trouve d'éolithes quedans les gisements de silex, mais là on en trouve toujours : ils sont liés à des terrains, non à desstations archéologiques, et d'autre part demeurent exactement semblables, quel que soit l'âge des premiers. 17 [p. 258] core les apparences de taille grossière que sont capables de déter-
 miner des chocs, des pressions, des changements brusques de
 température (une forte gelée par exemple) ou enfin les vagues
 de la mer (et on sait que la plupart des éolithes se rencontrent
@@ -10709,9 +10027,7 @@ d'un préhistorien aussi compétent et averti que l'abbé Breuil [^p258-3] .
 [^p258-2]: Il ne s'agit plus alors d'éolithes proprement dits, mais de silexque M. ReidMoir, leurpremierinventeur, déclare taillés suivant untype nouveau, le type « rostro-caréné » .
 [^p258-3]: Qui, d'ailleurs, si je suis bien renseigné, insiste plus en fin de
 
-[p. 259]
-
-L'ÉCLOSION DE L'INTELLIGENCE
+[p. 259] L'ÉCLOSION DE L'INTELLIGENCE
 259
 
 C'est quelque chose, évidemment. Néanmoins, et malgré tout,
@@ -10752,9 +10068,7 @@ d'Ipswich.
 riques.-Telle est aussi l'opinion de M.Boule; mais il y aurait peut-être là
 matière à discussion (voir p. 174-175).
 
-[p. 260]
-
-rale, toutes les probabilités sont assurément pour l'existence,
+[p. 260] rale, toutes les probabilités sont assurément pour l'existence,
 dès le Tert aire, d'Anthropoïdes précurseurs de l'Homme, de
 pré-Hommes utilisant des cailloux qu'ils ne savaient pas encore
 tailler suivant des formes typiques. Aussitôt que l'Homme appa-
@@ -10793,9 +10107,7 @@ pendant préciser), a dû être mis en acte avant que s'éveille la
 
 [^p260-1]: Boule, Les Hommes fossiles, p. 112.
 
-[p. 261]
-
-L'ÉCLOSION DE L'INTELLIGENCE
+[p. 261] L'ÉCLOSION DE L'INTELLIGENCE
 261
 
 puissance de réflexion spéculative. Seulement, à nous en teni
@@ -10843,9 +10155,7 @@ thèse que j'ai développée, bien que la plus vraisemblable en elle-même, gard
 encore cependant quelque chose d'un symbole, d'un mythe « pour fixr les
 idées » .
 
-[p. 262]
-
-que celui-ci apparaît nettement : il y a des foyers paléolithiques
+[p. 262] que celui-ci apparaît nettement : il y a des foyers paléolithiques
 tout à fait anciens . Sans doute le feu se révéla-t-il d'abord dans
 les incendies naturels que provoquent la foudre ou les fermenta-
 tions spontanées . Mais il a dû attirer bien vite et fortement
@@ -10892,9 +10202,7 @@ tout d'abord le garder seulement et le nourrir, sibien qu'il s'agit
 
 comme
 
-[p. 263]
-
-L'ÉCLOSION DE L'INTELLIGENCE
+[p. 263] L'ÉCLOSION DE L'INTELLIGENCE
 263
 
 presque d'une simple domestication , - le feu, qui exige ainsi
@@ -10935,9 +10243,7 @@ décharge réflexe, non réfléchie, et l'invention ultérieure du signe
 
 [^p263-1]: L'exemple du Perroquet le prouve clairement.
 
-[p. 264]
-
-voulu, conventionnel, doncmobile, qui seule aboutirait à un lan-
+[p. 264] voulu, conventionnel, doncmobile, qui seule aboutirait à un lan-
 gage proprement dit. Sans doute, il n'est pas illégitime, si on le
 veut , d'élargir le sens de ce dernier terme. Parlons alors de « lan-
 gage animal » ; mais entendons toutefois qu'il s'agit, sous un tel
@@ -10972,9 +10278,7 @@ l'association de plusieurs individus, un commencement de com-
 
 [^p264-1]: On sait que la Pie, lorsqu'un danger menace, ne jette le cri d'alarme que si elle n'est pas seule, mais également que si elle-même est exposée au péril.
 
-[p. 265]
-
-L'ÉCLOSION DE L'INTELLIGENCE
+[p. 265] L'ÉCLOSION DE L'INTELLIGENCE
 265
 
 munication significative. Maisonn'iraitpasloin dans cette voie, si
@@ -11013,11 +10317,7 @@ de conscience, notre fond le plus intime étant au moins mélangé
 d'influences reçues dont restent solidaires nos plus libres initia-
 tives. Ce fait plonge d'ailleurs ses racines dans l'animalité anté-
 cédente ; c'est là, encore une fois, que les origines premières en
-doivent être cherchées. Gardons-nous cependant avec soin d'an
-
-[p. 266]
-
-266
+doivent être cherchées. Gardons-nous cependant avec soin d'an [p. 266] 266
 LES
 ORIGINES HUMAINES
 
@@ -11064,9 +10364,7 @@ Scientia, numéro de juin 1927 : R. Briffault,
 The Evolution of Human
 Species (traduction par M. H. de Varigny, un peu retouchée).
 
-[p. 267]
-
-L'ÉCLOSION DE L'INTELLIGENCE
+[p. 267] L'ÉCLOSION DE L'INTELLIGENCE
 267
 
 de l'homme un an. Le lionceau est virtuellement indépendant à
@@ -11106,11 +10404,7 @@ du premier trimestre, le corps augmente en poids d'environ
 poids du cerveau a doublé ; en 3 ans , il a triplé. Cette croissance
 n'est pas, comme pour les autres organes, d'ordre nutritif et due
 à la reproduction cellulaire : elle est entièrement fonctionnelle .
-Elle se produit sous l'influence directe de l'exercice, de l'éduca
-
-[p. 268]
-
-tion ; si les organes des sens, yeux ou oreilles, sont détruits ou
+Elle se produit sous l'influence directe de l'exercice, de l'éduca [p. 268] tion ; si les organes des sens, yeux ou oreilles, sont détruits ou
 incapables de fonctionner, le développement cérébral correspon-
 dant fait défaut. » Voilà, en substance, pour quelles raisons l'ap-
 titude à la vie indépendante reçoit alors une marque sociale plus
@@ -11149,9 +10443,7 @@ l'unique support des phénomènes collectifs est l'association de
 la mère et de sa progéniture, association bornée du reste à la pé-
 riode et aux rapports strictement nécessaires pour l'élevage des
 
-[p. 269]
-
-L'ÉCLOSION DE L'INTELLIGENCE
+[p. 269] L'ÉCLOSION DE L'INTELLIGENCE
 269
 
 jeunes ; après quoi, tout s'arrête au stade confus, soit de lahorde
@@ -11196,9 +10488,7 @@ et
 
 [^p269-1]: Ce langage « antennal , semble d'ailleurs d'une extrême pauvreté, tout proche des simples cris-signaux dont je parlais ci-dessus .
 
-[p. 270]
-
-270
+[p. 270] 270
 LES
 ORIGINES HUMAINES
 
@@ -11213,7 +10503,7 @@ groupe. J'ai trop insisté tout à l'heure sur ces conditions biolo-
 giques et n'y reviens plus
 d'autant qu'elles préparent sans
 réaliser. Malgré tout, on doit admettre, au principe de la société
-humaine et a fortiori du langage humain, une métamorphose
+humaine et *a fortiori* du langage humain, une métamorphose
 décisive, une hominisation, non mécanique, mais inventée, dont
 l'acte essentiel, nous l'avons reconnu, ne fait qu'un avec l'éveil
 de la conscience réfléchie. A partir de là, d'ailleurs, tout marche
@@ -11242,9 +10532,7 @@ Essayons de définir, au moins en gros, le cycle des réactions.
 Par le seul jeu des facteurs biologiques, dès avant qu'apparaisse
 l'ordre proprement humain, à mesure que s'éclaircit la conscience
 
-[p. 271]
-
-L'ÉCLOSION DE L'INTELLIGENCE
+[p. 271] L'ÉCLOSION DE L'INTELLIGENCE
 271
 
 animale (tout en restant conscience directe), un rapprochement
@@ -11282,11 +10570,7 @@ stance, les enchaînements d'ouverture. On voit, dans une sem-
 blable perspective, que la société a d'abord le pas sur le langage,
 au titre de facteur initiant. Puis la réaction se renverse. Après
 quoi, sous l'influence de la réflexion médiatrice, tout se mêle,
-tout se pénètre, tout participe à un mouvement de croissance
-
-[p. 272]
-
-272
+tout se pénètre, tout participe à un mouvement de croissance [p. 272] 272
 LES
 ORIGINES HUMAINES
 
@@ -11331,9 +10615,7 @@ semble de ressources opératoires. Du même genre est enfin, à
 [^p272-1]: Pourl'explicationde ce terme,voir : Bergson, L'Energie spirituelle, VI.
 [^p272-2]: Op. cit. , p . 86.
 
-[p. 273]
-
-L'ÉCLOSION DE L'INTELLIGENCE
+[p. 273] L'ÉCLOSION DE L'INTELLIGENCE
 273
 
 un stade plus haut, la pensée de l'inventeur mécanicien
@@ -11374,11 +10656,7 @@ ficiels, dont le Singe déjà possède au moins une faculté embryon-
 naire. Moyen tout d'abord d'écarter les bêtes et d'améliorer
 la vie, le feu a dû voir très vite grandir son rôle hominisant,
 avec la guerre devenue chasse, avec l'arme transformée en outil
-18
-
-[p. 274]
-
-avec la domestication donnant naissance au foyer. C'est autour
+18 [p. 274] avec la domestication donnant naissance au foyer. C'est autour
 de lui que s'opéra le suprême concours des activités fondamen-
 tales: technique, réflexion, entr'aide,langage, qu'il suppose pour
 une part et à la fois promeut. Voilàpar excellence l'invention
@@ -11417,15 +10695,13 @@ Nous venons de risquer l'essai d'entrevoir comment a pu
 tion de notre tentative et quelle en doit êtrefinalement définie la
 portée ? L'intelligence, à prendre le mot dans l'acception la plus
 
-[p. 275]
-
-L'ÉCLOSION DE L'INTELLIGENCE
+[p. 275] L'ÉCLOSION DE L'INTELLIGENCE
 275
 
 large, est pour elle-même un fait premier, dont il serait chimé-
 riqued'attendre que l'on parvînt jamais à découvrir une absolue
 genèse. C'est ce que montre directement l'analyse de l'exigence
-idéaliste [^p275-1] et ce que, d'autre part, confirme a posteriori l'examen
+idéaliste [^p275-1] et ce que, d'autre part, confirme *a posteriori* l'examen
 critique de toutes les constructions ou déductions tentées par
 les philosophes [^p275-2]. Mais cependant l'intelligence comporte sans
 abus d'être appelée un « fait>> : du point de vue phénoménal ou
@@ -11463,9 +10739,7 @@ créatrice.
 [^p275-1]: Ci . L'exigence idéaliste et le fait de l'évolution, Avant-propos.
 [^p275-2]: Cf. Bergson, Evolution créatrice, p 204-207
 
-[p. 276]
-
-Revenons aux phénomènes. Du psychisme biosphérique pri-
+[p. 276] Revenons aux phénomènes. Du psychisme biosphérique pri-
 mitif, source commune, ont dérivé au cours des âges , dans les
 voies de la vie animale, deux courants d'activité peu à peu
 séparés l'un de l'autre, le long desquels se réalisèrentdeux modes
@@ -11500,9 +10774,7 @@ trait marqué la place naturelle. Même au point de départ
 
 [^p276-1]: Je prends ces termes, très largement chacun, au sens usuel, sans nulle prétention d'analyse rigoureuse. (2)Tout instinct véritable a dû être inventé : il a donc été d'abord intel- ligent ; mais on voit bien sans doute qu'en parlant ainsi je donne au terme intelligence » une signification beaucoup plus large que celle dont useM. Bergsondans le chapitre II de L'Evolution créatrice.
 
-[p. 277]
-
-L'ÉCLOSION DE L'INTELLIGENCE
+[p. 277] L'ÉCLOSION DE L'INTELLIGENCE
 277
 
 dans l'animalité inférieure, ce ne sont pas les résultats du déve-
@@ -11541,11 +10813,7 @@ un compte exhaustif de ce qui reste, malgré tout, leplus éclatant
 exemple d'évolution créatrice, je veux dire ce changement d'atti-
 tude, ce retournement que représente, par l'attention désormais
 prêtée aux conflits du désir et de l'effet, l'entrée dans les voies
-hominisantes,
-
-[p. 278]
-
-De cette conversion caractéristique, où il faut reconnaître
+hominisantes, [p. 278] De cette conversion caractéristique, où il faut reconnaître
 plus que nulle part ailleurs un vrai commencement, l'expérience
 manuelle ne fut d'abord que la simple occasion suggestive, une
 sorte d'exercice préparatoire ; et la conscience réfléchie qu'elle
@@ -11585,9 +10853,7 @@ du même coup s'analyse, la pensée trouve le support qui la dé-
 tache et l'isole de la réaction corporelle immédiate, le moyen
 d'échapper à l'entraînement de la décharge motrice, irrésistible
 
-[p. 279]
-
-L'ÉCLOSION DE L'INTELLIGENCE
+[p. 279] L'ÉCLOSION DE L'INTELLIGENCE
 279
 
 tant qu'elle reste massive.Ainsi peut naître la conscience intellec-
@@ -11603,9 +10869,7 @@ rythmée qui en témoigne. Nous avons plutôt conclu jusqu'ici à
 l'unité de tendance profonde. L'examen positif des faits confir-
 mera-t-il nos pressentiments métaphysiques ?
 
-[p. 280]
-
-XIV
+[p. 280] XIV
 
 LE PROGRÈS HUMAIN
 
@@ -11635,9 +10899,7 @@ unehomogénéité absolue : elle représente un feuillet du livre total,
 un chapitre et non une page. Plus les documents se multiplient et
 se précisent, plus la nécessité s'impose de subdiviser davantage
 
-[p. 281]
-
-LE PROGRÈS HUMAIN
+[p. 281] LE PROGRÈS HUMAIN
 281
 
 encore. Toutefois ces détails d'analyse n'ont pas une extrême
@@ -11675,11 +10937,7 @@ partir de l'Aurignacien : des lacunes archéologiques apparaissent
 alors plus fréquentes et plus étendues en des pointsplus nombreux,
 comme si commençait à ce moment une ère nouvelle de migra-
 tions plus accentuées. Ajoutons que ces faits, déjà nettement
-sensibles à propos de l'outillage industriel, s'accusent davan
-
-[p. 282]
-
-tage encore si l'on envisage les œuvres d'art. A en observer la
+sensibles à propos de l'outillage industriel, s'accusent davan [p. 282] tage encore si l'on envisage les œuvres d'art. A en observer la
 répartition géographique, à voir combien rares ou médiocres ou
 du moins relativement récentes elles deviennent à mesure qu'on
 s'éloigne d'une certaine zone autour des Pyrénées, on dirait que
@@ -11716,9 +10974,7 @@ mité des terrains d'alluvion et graviers fluviatiles. Vers la fin
 seulement, sous l'influence du climat changé, il s'installe à de-
 meure dans les cavernes (abris sous roche ou grottes conquises
 
-[p. 283]
-
-LE PROGRÈS HUMAIN
+[p. 283] LE PROGRÈS HUMAIN
 283
 
 d'ordinaire sur les bêtes), le froid des glaciations l'obligeant à
@@ -11757,9 +11013,7 @@ dès ces temps reculés, l'Homme vivait socialement. Cela posé,
 
 [^p283-1]: Op. cit., p. 85 notamment. - Il atténue l'affirmation dans le numéro déjà cité du Bulletin de la Société française de Philosophie.
 
-[p. 284]
-
-aucun sociologue ne contestera que, puisqu'ily avait rudiment de
+[p. 284] aucun sociologue ne contestera que, puisqu'ily avait rudiment de
 société, il devait y avoir aussi rudiment de religion. L'une et
 l'autre sans doute n'étaient pas moins rudimentaires que l'in-
 dustrie elle-même ; et c'est pourquoi nous n'en retrouvons à peu
@@ -11789,9 +11043,7 @@ tout à fait absente. Même conclusion à propos de la mâchoire
 
 [^p284-1]: Les signes principaux d'une sépulture intentionnelle dans ce cas sont l'existence d'une fosse où gisait le corps, de pierres disposées autour de la tête pour la caler, d'os plats qui la recouvraient ; ajoutez d'autres indices tels que, semble-t-il, des restes de repas funéraires, une caverne trop sur- baissée pour avoir pu être utilisable comme habitation, etc. Depuis, MM. Capitan et Peyrony ont découvert (la Ferrassie, 1910) d'autres sque- lettes moustériens visiblement « abrités ». Sans doute, on peut hésiter sur la signification précise de telles sépultures. Elles indiquent peut-être surtout qu'on avait peur des morts. Mais cela même suppose croyance en une certaine survie et pareille croyance a toujours quelque chose de reli- gieux.
 
-[p. 285]
-
-LE PROGRÈS HUMAIN
+[p. 285] LE PROGRÈS HUMAIN
 285
 
 de Mauer, si l'on note l'espace réduit qu'elle devait laisser aux
@@ -11833,11 +11085,7 @@ et le même biseautage que ceux de nos graveurs modernes,
 pointes solutréennes en feuille de laurier, aiguilles de La Made-
 
 [^p285-1]: Boule, Les Hommes fossiles, p. 53-54.
-[^p285-2]: Cf. H.Breuil, Les subdivisions du Paléolithique supérieur et leur signifi cation, Congrès international d'Anthropologie, Genève, 1912,
-
-[p. 286]
-
-leine dont les Romains n'eurent pas l'équivalent,etc.) ; on voit
+[^p285-2]: Cf. H.Breuil, Les subdivisions du Paléolithique supérieur et leur signifi cation, Congrès international d'Anthropologie, Genève, 1912, [p. 286] leine dont les Romains n'eurent pas l'équivalent,etc.) ; on voit
 naitre et grandir le travail de l'os, de l'ivoire, de la corne ; cer-
 taines formes de polissage commencent à se montrer. C'est avec
 raison que M. Weber souligne ces faits significatifs . Mais, con-
@@ -11876,11 +11124,7 @@ une importance caractéristique, ce serait un flagrant anachro-
 nisme que de l'interpréter déjà en signe de désintéressement con-
 templatif, de pure intention décorative. Les analogies parlent
 autrement. C'est un art de chasseurs : presque pas de végétaux
-représentés, figures humaines assez raresetd'ordinairemédiocres ;
-
-[p. 287]
-
-LE PROGRÈS HUMAIN
+représentés, figures humaines assez raresetd'ordinairemédiocres ; [p. 287] LE PROGRÈS HUMAIN
 287
 
 l'art de chasseurs qui, certes, savent très bien voir la réalité,
@@ -11918,9 +11162,7 @@ nous voyons, dans le monde entier,
 
 [^p287-1]: L'animal tué à la chasse est dépecé sur le terrain et on n'en rapporte au campement que les parties utiles. Au contraire, pour les animaux dont est fait l'élevage et parmi lesquels, d'ailleurs, il ya toujours plusde femelles quede mâles, plus dejeunes que de vieux. C'est pourquoi l'observation des débris de cuisine permet de conclure dans le sens indiqué.
 
-[p. 288]
-
-288
+[p. 288] 288
 LES
 ORIGINES HUMAINES
 
@@ -11956,9 +11198,7 @@ il y a maintenant des ateliers étendus, de véritables puitsoumines [^p288-1]
 [^p288-4]: Orientation, trépanation, coloration, ligottage ou décharnement des cadavres .
 [^p288-5]: Dolmens qui sont des tombeaux ; menhirs, cromlechs, alignements, dont le sens plus lus obscur est néanmoins certainement en rapport avec des idées et des rites .
 
-[p. 289]
-
-LE PROGRÈS HUMAIN
+[p. 289] LE PROGRÈS HUMAIN
 289
 
 pour l'extraction des matériaux, et les objets fabriqués donnent
@@ -11995,11 +11235,7 @@ l'intérieur de retraites presque inaccessibles, îlots de refuge,
 districts fermés de survivance végétante [^p289-1] .Tous ces cas divers
 se produisirent sans doute au cours des temps préhistoriques. Mais
 
-[^p289-1]: Un exemple de ce genre, bien curieux, vient d'être étudié par M. Mau- rice Legendre, Las Jurdes, Etude de Géographie humaine, Bibliothèque de l'Ecole des Hautes Etudes Hispaniques, fascicule XIII, 1927. 19
-
-[p. 290]
-
-il y eut parfois aussi des substitutions massives de races, avec
+[^p289-1]: Un exemple de ce genre, bien curieux, vient d'être étudié par M. Mau- rice Legendre, Las Jurdes, Etude de Géographie humaine, Bibliothèque de l'Ecole des Hautes Etudes Hispaniques, fascicule XIII, 1927. 19 [p. 290] il y eut parfois aussi des substitutions massives de races, avec
 une hétérogénéité si net'e qu'elle fait penser inévitablement
 aux hypothèses polygénistes ; ily eut des conquêtes et des inva-
 sions , de sorte qu'au moins on ne peut guère parler, en maintes
@@ -12037,9 +11273,7 @@ inconnues, sont venues mêler et superposer leurs sédiments ».
 On voit par exemple des Hommes de Chancelade, mongoloides ,
 provoquer à l'âge du Renne chez nous une véritable « Renais
 
-[p. 291]
-
-LE PROGRÈS HUMAIN
+[p. 291] LE PROGRÈS HUMAIN
 291
 
 sance
@@ -12083,9 +11317,7 @@ métaux, a dû être marquée par l'achèvement d'un intense pro- [^p291-1]
 
 [^p291-1]: Dr Henri Martin, L'Atelier solutréen duRoc (Charente)etsafrisesculptée, dans L'Anthropologie, 1928, nº 1.
 
-[p. 292]
-
-grès technique, puisque nous voyons tous les outils manuels,
+[p. 292] grès technique, puisque nous voyons tous les outils manuels,
 dont nous nous servons encore aujourd'hui, et presque tous les
 arts élémentaires, tels qu'ils sont restés en usage,déjà connus à
 l'aurore de la civilisation hellénique,sinonmême un ou deux mil-
@@ -12122,9 +11354,7 @@ ment original n'apparaît, rien de comparable aux industries du
 bronze ou du fer, à l'agriculture, à la taille du silex, rien qui
 change au fond le patrimoine de technique sur lequel on vit :
 
-[p. 293]
-
-LE PROGRÈS HUMAIN
+[p. 293] LE PROGRÈS HUMAIN
 293
 
 à ce point de vue, la révolution postnéolithique[^p293-1] est ladernière
@@ -12168,9 +11398,7 @@ mais cependant restreinte encore, assez du moins pour que tout
 
 [^p293-1]: Je veux dire celle qui marque la transition entre l'âge de la pierre polie et celui des métaux.
 
-[p. 294]
-
-lemonde s'y connaisse et entr'aide : véritable cellule de la société
+[p. 294] lemonde s'y connaisse et entr'aide : véritable cellule de la société
 morale depuis lors jusqu'à nous, cadre élémentaire toujours in-
 changé de nos conceptions spirituelles fondamentales. Ensuite
 se sont bien créés de grands Etats,qui introduisirent une autre
@@ -12207,9 +11435,7 @@ moire collective, d'une tradition, d'une culture. En même temps
 devient possible, aux heures de repos, un regard de curiosité sur
 leschosesde la nature environnante : c'est le début de la spécu
 
-[p. 295]
-
-LE PROGRÈS HUMAIN
+[p. 295] LE PROGRÈS HUMAIN
 295
 
 lation contemplative et désintéressée. Notamment, chez ceux
@@ -12249,11 +11475,7 @@ le judéo-christianisme qui conquiert le monde et transforme
 l'âme, avec la révélation des perspectives de la charité pure et
 de l'au-delà spirituel. Que signifie ce nouveau cycle du progrès ?
 Nous apporte-t-il quelque surcroît de lumière sur la marche de
-l'effort humain ? Y trouve-t-on, mieux que précédemment, un
-
-[p. 296]
-
-indice de périodicité indiscutable ? Tel se pose à nous mainte-
+l'effort humain ? Y trouve-t-on, mieux que précédemment, un [p. 296] indice de périodicité indiscutable ? Tel se pose à nous mainte-
 nant le problème. Si étrange que soit l'ambition de le résoudre à
 ce degré où les documents n'ont plus denombre, j'en dois néan-
 moins risquer la tentative. Le moment est donc venu d'aban-
@@ -12292,11 +11514,7 @@ civilisation insulaire rayonnait au loin. Par l'attrait qu'elle
 exerçait , elle tenta les nations guerrières. Quand elle se fut ré-
 pandue sur le pourtour égéen, la suprématie passa des Crétois
 aux Achéens crétisés, de Cnosse à Mycènes : c'était une dé-
-chéance. Quand elle eut pour frontière le Nord de la Thessalie,
-
-[p. 297]
-
-LE PROGRÈS HUMAIN
+chéance. Quand elle eut pour frontière le Nord de la Thessalie, [p. 297] LE PROGRÈS HUMAIN
 297
 
 elle attira les barbares Doriens : ce fut la ruine. Mais les se-
@@ -12337,9 +11555,7 @@ morale. Après les grandes audaces métaphysiques du début,
 [^p297-1]: Glotz, La Civilisation égéenne. p. 451-452 (1923, Collection Berr)
 [^p297-2]: Glotz, op. cit., p. 69.
 
-[p. 298]
-
-ce qui retient de préférence l'esprit de l'homme, c'est bientôt
+[p. 298] ce qui retient de préférence l'esprit de l'homme, c'est bientôt
 uneméditation assidue de sa destinée : recherche de sagesse har-
 monieuse au niveau de lanature, puis de perfection intérieure
 dans une perspective d'au-delà. Sans doute, pour qui doit s'en
@@ -12373,11 +11589,7 @@ ment était alors déjà singulièrement perfectionné ; dans les
 ruines de Cnossos,on a trouvé des conduites pour l'écoulement
 des eaux, ayant un profil parabolique dûment approprié à la
 
-[^p298-1]: Bulletin de la Société française de Philosophie, séances des 29 janvier et 5 février 1914. 2) Weber, loc. cit . - Cf. Glotz, op. cit. p. 135-136,
-
-[p. 299]
-
-LE PROGRÈS HU MAIN
+[^p298-1]: Bulletin de la Société française de Philosophie, séances des 29 janvier et 5 février 1914. 2) Weber, loc. cit . - Cf. Glotz, op. cit. p. 135-136, [p. 299] LE PROGRÈS HU MAIN
 299
 
 forme de la veine liquide. D'autre part, les travaux et construc-
@@ -12394,7 +11606,7 @@ fait certain, c'est que le travail sur la matière était alors méprisé,
 tenu pour « servile>> : de sorte que le penseur, le sage s'en détour-
 nait, privé ainsi d'expérience fécondante et suggestive. De cela,
 voici une preuve, que j'emprunte presque textuellement à
-M. Meyerson (loc. cit.) . On a découvert depuis peu un fragment
+M. Meyerson (*loc. cit.*) . On a découvert depuis peu un fragment
 demanuscrit qui remonte à l'époque alexandrine et qui donne les
 noms des sept ingénieurs les plus éminents de l'antiquité : presque
 tous nous étaient jusqu'ici inconnus ; et pourtant on ne saurait
@@ -12416,11 +11628,7 @@ d'affranchis . Ajoutez d'ailleurs une autre circonstance : le bon
 marché du labeur servile. On connaît le prix courant d'un es-
 clave dans le monde romain : à peu près 400 francs de notre
 monnaie (d'avant-guerre) ; il y eut même des époques (après
-la campagne de Lucullus par exemple) ou ce prix moyen des
-
-[p. 300]
-
-cendit bien plus bas encore :jusqu'à environ 4 francs. Et l'on
+la campagne de Lucullus par exemple) ou ce prix moyen des [p. 300] cendit bien plus bas encore :jusqu'à environ 4 francs. Et l'on
 faisait travailler l'esclave sans répit. Comment d'autres pro-
 cédés de production auraient-ils pu soutenir la concurrence au
 point de vue économique ? L'invention de machines était ainsi
@@ -12458,9 +11666,7 @@ loin : le Poète, l'Artiste, le Politique,le Philosophe, ce dernier
 au suprême sommet, voué au culte exclusif de la Raison et de
 la Cité.
 
-[p. 301]
-
-LE PROGRÈS HUMAIN
+[p. 301] LE PROGRÈS HUMAIN
 301
 
 Ceci nous ramène vers le rapport qu'aperçoit M. Weber entre
@@ -12498,11 +11704,7 @@ Ce que le patrimoine humain doit à l'Antiquité classique, c'est
 avant tout une puissance nouvelle de réflexion explicite et maî-
 tresse de soi : l'idée de la dialectique, de l'harmonie rationnelle,
 de la réalité supra-sensible du beau et du vrai. Nous aurions là
-un merveilleux exemple en faveur de la loi d'oscillation alter
-
-[p. 302]
-
-nante, s'il ne fallait compter un dernier apport dont l'impor-
+un merveilleux exemple en faveur de la loi d'oscillation alter [p. 302] nante, s'il ne fallait compter un dernier apport dont l'impor-
 tance n'est guère moindre : la socialisation de certaines techniques
 antérieures , laquelle constitue à son tour une façon de technique
 au second degré, dans le triple domaine des Travaux publics,
@@ -12537,11 +11739,7 @@ avons déjà vu intervenir. Le régime corporatif, par abus de ré-
 glementation, a desservi l'initiative technique. Les œuvres de
 la main sont toujours qualifiées de « serviles » et interdites aux
 « nobles » s'ils ne veulent pas déroger. Quant à l'activité spécu-
-lative, elle offre des caractères mixtes. Dans l'ordre mathé-
-
-[p. 303]
-
-LE PROGRÈS HUMAIN
+lative, elle offre des caractères mixtes. Dans l'ordre mathé-[p. 303]LE PROGRÈS HUMAIN
 303
 
 matique, manifeste est longtemps l'infériorité, fût-ce par rap-
@@ -12580,11 +11778,7 @@ secondaire.
 Seulement, il y a quelque chose qui rompt ce cadre : il y a
 le Christianisme. J'estime pour ma part que, lorsque M. Weber
 dresse le bilan de la phase homogène qu'à ses yeux représente
-l'Antiquité jointe auMoyen Age, il diminue partrop l'importance
-
-[p. 304]
-
-et l'originalité du facteur chrétien. J'accorde qu'à suivre seule-
+l'Antiquité jointe auMoyen Age, il diminue partrop l'importance [p. 304] et l'originalité du facteur chrétien. J'accorde qu'à suivre seule-
 ment le progrès de l'intelligence, on n'ait point à insister beau-
 coup sur une forme de vie en somme différente. Quelques remar-
 ques cependant étaient nécessaires, si brèves qu'elles dussent
@@ -12626,9 +11820,7 @@ connaître la grandeur du progrès accompli dans la voie religieuse,
 puis, à travers elle et de proche en proche, dans toutes les
 voies de la pensée humaine, - etqui consiste en l'intuition d'un
 
-[p. 305]
-
-LE PROGRÈS HUMAIN
+[p. 305] LE PROGRÈS HUMAIN
 305
 
 au-delà spirituel : idéal ae vie intérieure et mystique, si nouveau
@@ -12668,11 +11860,7 @@ mieux comprise, entre discipline expérimentale et pur empi-
 risme. Le premier besoin du savant est d'avoir des idées ; sa tech-
 nique n'a de force pénétrante, elle ne vaut et même n'existe
 
-20
-
-[p. 306]
-
-qu'imprégnée de théorie ; là, et là seulement, elle trouve détermi-
+20 [p. 306] qu'imprégnée de théorie ; là, et là seulement, elle trouve détermi-
 nation inspiratrice, guide capable de lui apprendre sur quel
 point porter ses ressources : que servirait de multiplier au
 hasard les merveilles de précision ou de mainmise ? ne faut-il
@@ -12709,9 +11897,7 @@ qu'on aura moins obéi à quelque préoccupation de les obtenir.
 J'accorde qu'en parlant ainsi plusieurs n'entendent proscrire
 peut-être qu'une hantise trop grossière de l'utilité pratique im
 
-[p. 307]
-
-LE PROGRÈS HUMAIN
+[p. 307] LE PROGRÈS HUMAIN
 307
 
 médiate. Pareille attitude reste, malgré tout, conciliable avec un
@@ -12752,9 +11938,7 @@ de s'approfondir[^p307-1]. Etc'est encore le siècle dumouvementspécu-
 
 [^p307-1]: Inutile de dire que je ne l'envisage pas sous l'angle politique, mais comme témoin d'une aspiration idéaliste (qui, du reste, s'est parfois dé- gradée en idéologie).
 
-[p. 308]
-
-latif d'où est sorti, armé de ses méthodes propres, le groupe des
+[p. 308] latif d'où est sorti, armé de ses méthodes propres, le groupe des
 disciplines apparentées à l'Histoire. Ne sont-ce point là des pro-
 grès comparables à ceux de la technique, égaux en importance
 bien qu'irréductiblement distincts ?L'esprit de l'Homme en est
@@ -12793,9 +11977,7 @@ inventent. Seule, au premier abord, l'intuition religieuse pour-
 rait paraître en sommeil relatif, si l'on ne savait quel profond
 travail s'accomplit souterrainement à l'heure actuelle dans le
 
-[p. 309]
-
-LE PROGRÈS HUMAIN
+[p. 309] LE PROGRÈS HUMAIN
 309
 
 secret des âmes. Le caractère dominant de notre époque se des-
@@ -12842,9 +12024,7 @@ longue
 des anciens Egyptologues, on ne
 dépasserait pas le 5º millénaire avant J.-C.
 
-[p. 310]
-
-beaucoup trop tard, quand déjà la période la plus intéressante
+[p. 310] beaucoup trop tard, quand déjà la période la plus intéressante
 est finie, puis à cause du facteur de perturbation que représentent
 les parents avec leurs suggestions hâtives et qu'on demeure im-
 puissant à éliminer. Pas davantage ne peut exercer une fonction
@@ -12883,9 +12063,7 @@ pendant que des prédominances relatives sont possibles par in-
 tervalles , de telle sorte qu'on relève çà et là certaines différences
 de phases dans l'évolution des deux tendances parallèles, cor
 
-[p. 311]
-
-LE PROGRÈS HUMAIN
+[p. 311] LE PROGRÈS HUMAIN
 311
 
 tains décalages entre les époques de leur passage au maximum
@@ -12924,11 +12102,7 @@ raison des XVIIe et XVIIIe siècles français montre le premier plus
 spéculatif et le second plus technique. Tout cela, d'ailleurs, se laisse
 facilement comprendre. Chacun de nous peut trouver, dans
 son travail propre, des modèles de ce processus rythmique, avec
-l'alternative de la fatigue et du repos, de l'expérience et de la
-
-[p. 312]
-
-théorie. Et il envademême à l'échelle du travailcollectif:chaque
+l'alternative de la fatigue et du repos, de l'expérience et de la [p. 312] théorie. Et il envademême à l'échelle du travailcollectif:chaque
 mouvement, après une certaine durée, s'épuise et doit céder la
 place au mouvement complémentaire. Il est rare, en particulier,
 que science et philosophie marchent tout à fait du même pas. La
@@ -12960,9 +12134,7 @@ franchit un seuil. Comme une heureuse chance nous fait vivre
 aujourd'hui l'une de ces grandes heures créatrices, on ne jugera
 point superflu de tenter un effort pour la saisir au vif.
 
-[p. 313]
-
-XV
+[p. 313] XV
 
 LA CRISE CONTEMPORAINE
 
@@ -12992,11 +12164,7 @@ pousse des racines au plus lointaindes temps, il résume l'histoire
 entière de la vie, de sorte qu'en lui mieux que nulle part ailleurs
 se dévoile et se manifeste le mystère de l'évolution créatrice.
 Valeur privilégiée du présent ! L'Humanité, dont l'avènement
-nous est apparu d'un ordre de grandeur comparable à celui de
-
-[p. 314]
-
-la Vie elle-même, « elle ne date que d'hier ; et, en nous penchant
+nous est apparu d'un ordre de grandeur comparable à celui de [p. 314] la Vie elle-même, « elle ne date que d'hier ; et, en nous penchant
 sur les dernières centaines de millénaires, nous la voyons sortir,
 à peine formée, des ombres de son berceau. Bien mieux que cela :
 l'Humanité date vraiment d'aujourd'hui, elle naît encore à
@@ -13034,9 +12202,7 @@ forme en dominateur, en maître. Distinction qui, dès lecommen- [^p314-1]
 
 [^p314-1]: P. Teilhard, Conférence inédite, que j'utilise très librement pour les raisons déjà exposées et dans le même esprit toujours.
 
-[p. 315]
-
-LA CRISE CONTEMPORAINE
+[p. 315] LA CRISE CONTEMPORAINE
 315
 
 cement, fut grande et qui devint décisive au cours du temps.
@@ -13079,11 +12245,7 @@ de l'éther ; il explore et analyse les abîmes atomiques et sidé-
 raux ; il trouve d'infinis lointains à son passé, d'infinis accrois-
 sements à sonpouvoir sur les corps, d'infinies profondeurs d'es-
 pérance à l'envol de ses initiatives. Simultanément, il se hausse
-d'un degré sur l'échelle de la réflexion, en prenant conscience
-
-[p. 316]
-
-deses bornes actuelles. Et voilà proprement l'ouverture d'un
+d'un degré sur l'échelle de la réflexion, en prenant conscience [p. 316] deses bornes actuelles. Et voilà proprement l'ouverture d'un
 cycle nouveau : l'âge de la machine et de l'industrie savante,
 qui est aussi l'âge de la critique. Double innovation appar-
 tenant, cette fois encore, aux deux ordres de l'activité hu-
@@ -13124,9 +12286,7 @@ sauf de brefs épisodes, - on n'observe aucun fléchissement réel
 
 -
 
-[p. 317]
-
-LA CRISE CONTEMPORAINE
+[p. 317] LA CRISE CONTEMPORAINE
 317
 
 de l'intérêt pour la vie spéculative : est-il besoin d'autre preuve
@@ -13165,11 +12325,7 @@ Il ne peut être question ici que de proposer quelques thèmes
 de méditation, presque sans commentaires, comme précédem-
 ment à propos du progrès humain.
 Aucune hésitation, quant au choix du premier de ces thèmes .
-Dès le plus sommaire coup d'œiljeté autour de nous, un faitqui
-
-[p. 318]
-
-frappe aussitôt les regards, celui de tous qui se détache le mieux,
+Dès le plus sommaire coup d'œiljeté autour de nous, un faitqui [p. 318] frappe aussitôt les regards, celui de tous qui se détache le mieux,
 c'est le développement de la technique industrielle. Sous ce rap-
 port, la condition humaine subit visiblement, de nos jours, une
 transformation immense et d'une rapidité vertigineuse. Le pro-
@@ -13208,9 +12364,7 @@ tions disparues... Dans une grande ville moderne, les édifices ,
 
 [^p318-1]: Op. cit., p. 294-297.
 
-[p. 319]
-
-LA CRISE CONTEMPORAINE
+[p. 319] LA CRISE CONTEMPORAINE
 319
 
 les voies de communication, les appareils de transport, les den-
@@ -13250,11 +12404,7 @@ d'innombrables combinaisons cinématiques. La machine-outil
 remplace l'instrument manuel. Une science raffinée, loin au delà
 des vieilles recettes métallurgiques, apprend à mettre la main
 sur la texture intime et sur la
-vie » des métaux, en même
-
-[p. 320]
-
-comme
+vie » des métaux, en même [p. 320] comme
 
 temps qu'elle multiplie les alliages appropriés à telle ou telle
 fin. Aux classiques matériaux de construction, pierre et bois,
@@ -13293,9 +12443,7 @@ direct à la main, l'unique moyen de transformer la matière ,
 
 [^p320-1]: L'Homme commence toujours par calquer le nouveau sur l'ancien : l'automobile sur la voiture à chevaux, le bateau à vapeur sur le voilier, l'outil de bronze ou de cuivre sur le silex primitif.
 
-[p. 321]
-
-LA CRISE CONTEMPORAINE
+[p. 321] LA CRISE CONTEMPORAINE
 321
 
 d'en recueillir les potentialités énergétiques. Aujourd'hui, que
@@ -13338,9 +12486,7 @@ Biosphère [^p321-3] ?
 [^p321-2]: Au point de vue théorique, l'importance de l'électricité n'est pas moindre, puisqu'on tend à y ramener presque le tout de la matière (sauf lagravitation).
 [^p321-3]: Voir sur ce point, dans la Revue générale des Sciences, septembre 1925, 21
 
-[p. 322]
-
-Mais revenons au présent. D'un autre point de vue, il convient
+[p. 322] Mais revenons au présent. D'un autre point de vue, il convient
 de noter le développement des moyens de transport et de com-
 munication rapide : chemins de fer, navigation à vapeur, cyclisme
 et automobilisme, aviation, télégraphie et téléphonie avec ou sans
@@ -13380,9 +12526,7 @@ pénètrent ; un financier, un commerçant, un homme de pensée
 un intéressant et curieux article de M. Vernadsky : I'autotrophie de l'Huma
 nité.
 
-[p. 323]
-
-LA CRISE CONTEMPORAINE
+[p. 323] LA CRISE CONTEMPORAINE
 323
 
 ou d'action étendent jusqu'au bout du monde, à chaque minute,
@@ -13419,11 +12563,7 @@ d'hui avec une extrême vitesse, qui emporte, qui force à remanier
 les institutions les plus traditionnelles et les plus fondamen-
 tales ( 1) . D'où un état de crise multiforme, dont on ne saurait [^p323-1]
 
-[^p323-1]: La famille même est touchée, prise dans le branle universel. On pour- rait presque dire, en guise de symbole très expressif et à peine hyperbolique dans sa simplification, que l'électricité tue le foyer. Lenouveau régime éco nomique, par le changement d'échelle qu'il impose, agit dans le même sens :
-
-[p. 324]
-
-exagérer l'ampleur. N'en retenons qu'un point, à titre d'exemple.
+[^p323-1]: La famille même est touchée, prise dans le branle universel. On pour- rait presque dire, en guise de symbole très expressif et à peine hyperbolique dans sa simplification, que l'électricité tue le foyer. Lenouveau régime éco nomique, par le changement d'échelle qu'il impose, agit dans le même sens : [p. 324] exagérer l'ampleur. N'en retenons qu'un point, à titre d'exemple.
 Sur combien peu de têtes repose, malgré tout, notre civilisa-
 tion ! Pour sentir ce qu'elle a ainsi d'instable et de précaire, il
 suffit de compter le petit nombre des peuples qui, efficacement,
@@ -13463,9 +12603,7 @@ directrice, disons du mécanisme et de la durée, dans le travail lui-même ;
 elle reparaît donc à tous les échelons de la hiérarchie sociale. Maisjene sau-
 rais ici m'arrêter au détail explicatif.
 
-[p. 325]
-
-LA CRISE CONTEMPORAINE
+[p. 325] LA CRISE CONTEMPORAINE
 325
 
 résume tous les autres, qui surtout en montre à nu le rapport au
@@ -13503,12 +12641,10 @@ port un peu intime avec l'Occident. Que faut-il augurer de cette
 traversent et de leur supériorité technique.
 (2) Je ne fais pas mienne la thèse, qui appellerait sans doute plus d'une
 réserve ou du moins exigerait des preuves longuement critiquées. Mais je
-raisonne en ce moment par a fortiori, ne cherchant qu'à discerner un cas
+raisonne en ce moment par *a fortiori*, ne cherchant qu'à discerner un cas
 indiscutable.
 
-[p. 326]
-
-rencontre ? On parle souvent de « péril jaune ». La seule forme
+[p. 326] rencontre ? On parle souvent de « péril jaune ». La seule forme
 sous laquelle on en puisse raisonnablement accueillir l'idée,
 ce serait en somme celle-ci : ces civilisations, qui semblent en-
 dormies et comme sclérosées, représentent-elles un type ou un
@@ -13547,9 +12683,7 @@ raine et réaliser sous forme claire et vivante la synthèse de sa
 technique et de sa foi .
 Je n'insisterai pas davantage. On se demandera peut-être
 
-[p. 327]
-
-LA CRISE CONTEMPORAINE
+[p. 327] LA CRISE CONTEMPORAINE
 327
 
 même pourquoi je viens d'énumérer pêle-mêle et d'une si rapide
@@ -13592,11 +12726,7 @@ pression de l'avoir à peine hier découverte. Non moins diffi-
 cile de raconter les progrès accomplis depuis cent ans par les
 sciences de la matière. Est-il même nécessaire de remonter si
 haut ? Sous nos yeux, la Physique,- à laquelle vient se joindre
-et semélanger la Chimie, - traverse une crise de totale refonte,
-
-[p. 328]
-
-subit une entière métamorphose, égale aux plus novatrices d'au-
+et semélanger la Chimie, - traverse une crise de totale refonte, [p. 328] subit une entière métamorphose, égale aux plus novatrices d'au-
 trefois. Une grande synthèse, étrangement neuve elle aussi, est
 sur le point de se réaliser. Des mondes insoupçonnés se laissent
 conquérir : les Radiations, les Atomes ; tandis qu'avec la Théorie
@@ -13637,9 +12767,7 @@ mations les plus modérées, que la galaxie mesurede 20.000 à
 
 [^p328-1]: Soit approximativement 10 trillions de kilomètres
 
-[p. 329]
-
-LA CRISE CONTEMPORAINE
+[p. 329] LA CRISE CONTEMPORAINE
 329
 
 9.000 dans le sens transversal. Mais ce n'est pas tout, et voici
@@ -13680,9 +12808,7 @@ mogonie. A quelles frontières s'arrêtera le pouvoir humain de
 
 [^p329-1]: J'adopte ici la conception des « univers-iles », qui reste la plus pro- bable.
 
-[p. 330]
-
-330
+[p. 330] 330
 LES
 ORIGINES HUMAINES
 
@@ -13725,9 +12851,7 @@ trevues par les psychologues des applications d'un type autre-
 fois insoupçonné. Mais surtout des normes
 d'intelligibilité
 
-[p. 331]
-
-LA CRISE CONTEMPORAINE
+[p. 331] LA CRISE CONTEMPORAINE
 331
 
 s'élaborent,
@@ -13771,9 +12895,7 @@ déchaîné dans la Nature une force de première grandeur dont
 
 [^p331-1]: Leçon II, p. 35-36-C'est à un travail inédit du P. Teilhard, déjà cité alors, que j'emprunte (avec beaucoup de liberté toujours) les quelques phrases placées ci-dessous entre guillemets .
 
-[p. 332]
-
-l'œuvre géogénique est immense : voilà le fait positifque nous
+[p. 332] l'œuvre géogénique est immense : voilà le fait positifque nous
 avons étudié d'abord. Nous sommes là, en vérité, devant un
 phénomène d'importance planétaire, peut-être cosmique. Cette
 force nouvelle, c'est l'intelligence humaine, la volonté réfléchie
@@ -13814,9 +12936,7 @@ sable des destinées de la Vie ( 1) .
 
 1) Certes, ce n'est point là tout le problème de la moralité ; mais c'est la
 
-[p. 333]
-
-LA CRISE CONTEMPORAINE
+[p. 333] LA CRISE CONTEMPORAINE
 333
 
 <<Cette crise de l'action humaine est, par nature, aussi vieille
@@ -13859,9 +12979,7 @@ de l'hominisation parvenu à un tournant de l'exigence créatrice.
 face qui en apparaît la première, lorsqu'on se place, comme nous l'avons
 toujours fait dans ce Cours, au point de vue dù phénomène humain.
 
-[p. 334]
-
-Nous avons à réviser la vieille table des valeurs ; nous avons
+[p. 334] Nous avons à réviser la vieille table des valeurs ; nous avons
 à réajuster l'action autant que la connaissance.
 De cette crise que traverse la moralité contemporaine, il est
 facile de mettre en lumière les principaux facteurs. Je les énumère
@@ -13898,9 +13016,7 @@ de ruse, de force et d'audace, précieuses pour une existence de
 chasseurs , furent assez vraisemblablement génératrices de crimes,
 lorsque s'établit un régime de vie sédentaire qui demandait
 
-[p. 335]
-
-LA CRISE CONTEMPORAINE
+[p. 335] LA CRISE CONTEMPORAINE
 335
 
 d'autres vertus ; et il fallut sans doute quelque temps pour
@@ -13943,11 +13059,7 @@ soif d'unité, mais d'unité organique et vivante : n'est-ce pas le
 signe qu'on peut espérer en lui ? n'est-ce pas le témoignage
 d'une motion créatrice qui le travaille et l'inspire ?
 Sans doute, ce serait une illusion que de croire à un progrès
-nécessaire et fatal, sans risques ni défaillances. L'Homme de
-
-[p. 336]
-
-viendra ce qu'il aura voulu devenir ; et, tel que nous le voyons
+nécessaire et fatal, sans risques ni défaillances. L'Homme de [p. 336] viendra ce qu'il aura voulu devenir ; et, tel que nous le voyons
 à l'heure présente, on ne saurait admettre, et loin de là, qu'il
 veuille toujours l'Esprit. Mais, en dépit des étroitesses comme
 des méconnaissances, le ferment chrétien est en lui, principe
@@ -13989,9 +13101,7 @@ Je pourrais clore ici une enquête qui se proposait d'étudier seu-
 
 [^p336-1]: Au sens étymologique, non théologique du mot.
 
-[p. 337]
-
-LA CRISE CONTEMPORAINE
+[p. 337] LA CRISE CONTEMPORAINE
 337
 
 lement le phénomène de l'Homme et de ses origines. Quel rôle
@@ -14006,9 +13116,7 @@ un suprême retour aux thèses de départ .
 
 22
 
-[p. 338]
-
-XVI
+[p. 338] XVI
 
 CONCLUSIONS
 
@@ -14041,9 +13149,7 @@ rieures, ce problème demanderait le développement d'un troi-
 
 :
 
-[p. 339]
-
-CONCLUSIONS
+[p. 339] CONCLUSIONS
 339
 
 sième Cours. Nous sommes convenus ici de nous restreindre
@@ -14087,11 +13193,7 @@ manité. Ici est donc le lieu naturel de cet épilogue. Sans doute,
 il y aurait matière, avant et après la crise d'hominisation fon-
 damentale, pour une étude plus complète qui s'appliquerait à
 
-:
-
-[p. 340]
-
-340
+: [p. 340] 340
 LES ORIGINES
 HUMAINES
 
@@ -14138,9 +13240,7 @@ puissance la détermination d'un certain ensemble de cellules
 
 (1 ) L'exigence idéaliste et le fait de l'évolution, p. 210-214 et 261-264.
 
-[p. 341]
-
-CONCLUSIONS
+[p. 341] CONCLUSIONS
 341
 
 identiques. « Enfin, chaque déterminant renferme des parti-
@@ -14181,9 +13281,7 @@ Aquoi il faut ajouter que, lorsqu'on échoue à influencer le ger-
 [^p341-1]: Henneguy, La vie cellulaire, Collection Payot, 1923, p. 137.
 [^p341-2]: Archives d'Anatomie microscopique, t. XV, 1923. On sait que l'As- caris est un Nématode, parasite du Cheval. Ce ver atteint d'assez grandes dimensions (20 à 30 centimètres) et il offre des particularités simplifiantes (4chromosomes seulement, et même 2 quelquefois). Or a réussi à er suivre au point de vue chimique le cycle germinatif.
 
-[p. 342]
-
-men à travers le soma, peut-être est-ce tout simplement qu'on
+[p. 342] men à travers le soma, peut-être est-ce tout simplement qu'on
 s'y prend trop tard : le germen adulte pourrait être aujour-
 d'hui fermé aux actions du soma et ne l'avoir pas été, du
 moins si hermétiquement , alors que se formaient les types.
@@ -14223,9 +13321,7 @@ de caractères qui préexistaient à l'état latent. Le problème de-
 viendrait ainsi plus facile à résoudre .
 Si rares néanmoins que ces cas soient reconnus, il faut définir
 
-[p. 343]
-
-CONCLUSIONS
+[p. 343] CONCLUSIONS
 343
 
 le mécanisme alors mis en jeu, d'où résulte qu'une variation
@@ -14266,9 +13362,7 @@ en jeu, les corrélations externes et internes. Comment, dès lors,
 
 [^p343-1]: L'hérédité ressemble à une sorte d'inertie.
 
-[p. 344]
-
-est-il possible de concevoir que s'accomplisse en fin de compte
+[p. 344] est-il possible de concevoir que s'accomplisse en fin de compte
 l'inscription patrimoniale des changements survenus dans le
 soma ? Par un circuit indirect, un circuit d'influences coor-
 données dont voici les deux moments principaux : 1º 'action
@@ -14305,13 +13399,11 @@ sion des accommodats, pour aboutir à faire entièrement rejeter
 leur aptitude à prendre consistance héréditaire, suppose presque
 toujours une interprétation des faits inspirée de postulats théo-
 riques préalables, si bien que les choses changent d'aspect
-aussitôt que l'on cesse de juger a priori impossible une trans-
+aussitôt que l'on cesse de juger *a priori* impossible une trans-
 
 [^p344-1]: Voir p. 182 de ce volume.
 
-[p. 345]
-
-CONCLUSIONS
+[p. 345] CONCLUSIONS
 345
 
 -
@@ -14358,11 +13450,7 @@ paraisse capable de certains
 résultats
 positifs. Une conclusion s'impose donc en fin de compte : les
 critiques ne mordent que sur des conceptions trop étroites ; et ,
-de plus larges voies étant ouvertes par l'analogie de l'invention ,
-
-[p. 346]
-
-libre carrière se trouve laissée dès lors au jeu de l'argument
+de plus larges voies étant ouvertes par l'analogie de l'invention , [p. 346] libre carrière se trouve laissée dès lors au jeu de l'argument
 principal qui découle de l'exigence transformiste.
 Voilà, brièvement indiqué, ce que j'avais à dire sur la trans-
 mission de l'acquis. Entre les divers problèmes qui nous solli-
@@ -14399,9 +13487,7 @@ est inséparable de celle que nous avions entreprise déjà tout
 à l'heure et laissée incomplète.
 On ne saurait pousser la discussion plus loin qu'en faisant
 
-[p. 347]
-
-CONCLUSIONS
+[p. 347] CONCLUSIONS
 347
 
 intervenir certaines données cytologiques récentes,sur la struc-
@@ -14437,9 +13523,7 @@ en est presque toujours trop tardive, introduite seulement après
 [^p347-1]: On pourra, sur ces diverses questions, se reporter à deux excellents résumés d'ensemble : 1° Henneguy, La vie cellulaire, Paris, Payot, 1923 ; 2º A. Brachet, L'œuf et les facteurs de l'ontogénèse, Paris, Doin, 1917. — Voir aussi : A. Brachet, La Vie créatrice des Formes, Paris, Alcan, 1927.
 [^p347-2]: Cf. Henneguy, Chromatine et chromosomes au point de vue de la trans- mission des caractères héréditaires, article paru dans Scientia en 1925. - On voit immédiatement la portée de cette remarque dans une discussion de la théorie chromosomique.
 
-[p. 348]
-
-fermeture et fixation du germen. Peut-être n'est-ce là qu'un
+[p. 348] fermeture et fixation du germen. Peut-être n'est-ce là qu'un
 accident de notre technique. Dans la réalité naturelle, au cours
 d'une ontogénèse, la différenciation de l'œuf est le plus souvent
 précoce, non pas cependant tout à fait primitive : elle se fait
@@ -14478,9 +13562,7 @@ période nouvelle, celle de maturation. Cette période comprend
 
 (1 ) A. Brachet, La vie créatrice des Formes, p. 157-158
 
-[p. 349]
-
-CONCLUSIONS
+[p. 349] CONCLUSIONS
 349
 
 deux phases : 10 phase de petit accroissement, surtout nuclé-
@@ -14523,9 +13605,7 @@ provoque l'apparition de monstruosités diverses ; mais « les dévia-
 [^p349-1]: Brachet, La Vie créatrice des Formes, p. 169
 [^p349-2]: Brachet, L'œuf et les facteurs de l'ontogénèse, p. 107.
 
-[p. 350]
-
-tions de la normale ne se font jamais que dans un cadre déter-
+[p. 350] tions de la normale ne se font jamais que dans un cadre déter-
 miné par la nature de l'œuf en expérience » : par exemple:<<<des
 œufs de Tritons peuvent donner des monstres très variés, mais
 ce sont toujours des Tritons, si mal conformés qu'ils soient » [^p350-1].
@@ -14559,9 +13639,7 @@ dans une ère de vie latente où presque tous les processus vitaux
 [^p350-2]: L'exigence idéaliste et le fait de l'évolution, p. 212-213.-Uneerreur d'impression a fait alors omettre le nom de M. Labbé : je saisis l'occasion de le rétablir. Voir, de ce savant : 1º dans la Revue générale des Sciences, 30 décembre 1923, L'action biologique du PH ascendant de l'eau de mer et l'Allélogénèse ; 30 novembre 1924, Une lignée orthogénétique expérimentale ; 2ºdans Scientia, mai 1925, L'Allélagénèse et l'Hérédité.
 [^p350-3]: L'action de celui-ci est directe pour les œufs pondus avantfécondation.
 
-[p. 351]
-
-CONCLUSIONS
+[p. 351] CONCLUSIONS
 351
 
 semblent suspendus : c'est un état d'intoxication et d'asphyxie,
@@ -14600,11 +13678,7 @@ La différence est typique, par exemple, entre la Grenouille et
 leTriton : deux formes dont chacune constitue, pourdesraisons
 d'ordre pratique, un excellent matériel de laboratoire, mais qui
 ne donnentpas lieu aux mêmes observations. Certaines propriétés
-du germe et des localisations germinales n'existent pas chez la
-
-[p. 352]
-
-première ou du moins y sont trop dissimulées pour qu'on ait pu
+du germe et des localisations germinales n'existent pas chez la [p. 352] première ou du moins y sont trop dissimulées pour qu'on ait pu
 les saisir : ce qui joue alors le rôle de centre organisateur, c'est ,
 dans une certaine mesure, la partie moyenne du croissant gris ,
 laquelle semble assez complexe. Tout est beaucoup plus simple
@@ -14643,9 +13717,7 @@ organisateur d'un Crapaud sur un œuf de Triton ; il n'y a pas
 [^p352-1]: Brachet, La Vie créatrice des Formes, p. 153.
 [^p352-2]: Op. cit., p. 154.
 
-[p. 353]
-
-CONCLUSIONS
+[p. 353] CONCLUSIONS
 353
 
 seulement subi son développement autonome, il a aussi pro-
@@ -14676,7 +13748,7 @@ Maintenant, un pas de plus doit être fait. L'embryologie ne
 parle que d'ontogénèse : il en faut transposer les enseignements
 dans l'ordre phylogénétique. Je crois que c'est possible et que,
 de nouveau, on est conduit à entrevoir en ce sens un rôle de la
-biosphère. Pourquoi repousserait-on a priori l'idée que des
+biosphère. Pourquoi repousserait-on *a priori* l'idée que des
 causes d'altération germinale en procèdent, l'hypothèse même
 d'une activation déterminante qu'elle effectuerait directement ?
 Ce ne serait, après tout, qu'une sorte de parthénogénèse, qui ne
@@ -14685,11 +13757,7 @@ expérimentale.Génération agame,fécondation accomplie en dehors
 
 1) Op . cit., p. 155
 
-23
-
-[p. 354]
-
-354
+23 [p. 354] 354
 LES
 ORIGINES HUMAINES
 
@@ -14732,9 +13800,7 @@ nettement sensible dans les plantes (Blaringhem) ; et de même,
 
 [^p354-1]: Cf. L'exigence idéaliste et le fait de l'évolution , p . 120-123 et 263-264.
 
-[p. 355]
-
-CONCLUSIONS
+[p. 355] CONCLUSIONS
 355
 
 rité, par exemple, montrent que s'amoindrit la solidité des cor-
@@ -14772,11 +13838,7 @@ une labilité subsiste. S'il y a des exceptions, elles ne concernent
 que des êtres en bouts de séries phylétiques, tout à fait durcis,
 aux habitudes figées, mécanisées. Dans le cas général, il n'en [^p355-1]
 
-[^p355-1]: Brachet, L'œuf et les facteurs de l'ontogénèse, p 2951
-
-[p. 356]
-
-va pas ainsi . D'abord, pas de spécificité cellulaire qui ne soit
+[^p355-1]: Brachet, L'œuf et les facteurs de l'ontogénèse, p 2951 [p. 356] va pas ainsi . D'abord, pas de spécificité cellulaire qui ne soit
 acquise ; et de même ensuite, aux divers étages de l'organisme.
 Considérons surtout les êtres inférieurs, et plus encore les êtres
 jeunes (car les premiers peuvent se durcir, bien qu'à des stades
@@ -14807,9 +13869,7 @@ les a pas encore marquées de traces indélébiles. Dans les cas
 
 [^p356-1]: Il faut reconnaître « non seulement aux blastomères, mais aux diffé- rentes parties du germe, une potentialité réelle, c'est-à-dire qui se réalise effectivement dans un développement normal, et une potentialité totale plus étendue que la première, tenue en réserve en quelque sorte et qui ne pourra se manifester que dans des conditions déterminées. La potentialité réelle du blastomère droit ou gauche de l'œuf divisé d'un Amphibien est de former les moitiés correspondantes de l'embryon et de l'être adulte. Sa potentialité totale, c'est de pouvoir édifier un être entier quand, séparé de son congénère, il peut subirles remaniementsnécessaires.» (Brachet,La Vie créatrice des Formes, p. 150-151.)
 
-[p. 357]
-
-CONCLUSIONS
+[p. 357] CONCLUSIONS
 357
 
 où cette autonomie devient complète, les parties isolées récu-
@@ -14851,9 +13911,7 @@ déterminisme. Or, l'homologue de tous les faits précédents se
 taines constatatiors, leurs thèses ne valant au plus que pour l'état actuel des
 habitudes vitales .
 
-[p. 358]
-
-retrouve dans le domaine des types. Là aussi, les caractères
+[p. 358] retrouve dans le domaine des types. Là aussi, les caractères
 s'étagent, quant à leur fixité ; là aussi, existe une période sen-
 sible où peuvent changer les habitudes ; là aussi, doit être admise
 une labilité initiale. On distingue volontiers dans un être les
@@ -14891,9 +13949,7 @@ pour la naissance d'une variation susceptible de se fixer spéci-
 fiquement, je n'ai pas voulu chercher, à vrai dire,une « preuve >
 embryologique. Désormais, au moins en majeure part, le méca
 
-[p. 359]
-
-CONCLUSIONS
+[p. 359] CONCLUSIONS
 359
 
 nisme de l'ontogénèse paraît définitivement monté, clos automa-
@@ -14933,9 +13989,7 @@ condamnées à bon droit certaines formes particulières, et d'autre
 
 [^p359-1]: Ancienneté relative, bien entendu, un être mou en tant que mammi- fèrepouvantpar exemple être déjà durci en tant que vertébré.
 
-[p. 360]
-
-part au mauvais choix de la place que lui veulent donner quel-
+[p. 360] part au mauvais choix de la place que lui veulent donner quel-
 ques-uns de ses défenseurs. La notion en doit être élargie et
 précisée comme je viens de le dire, et le vrai lieu reconnu aux
 rares moments de genèse primordiale où apparurent des types
@@ -14971,9 +14025,7 @@ en outre, nous ont retenus, le second à l'instant : 1ºl'observation
 
 [^p360-1]: Ilnefautpas oublier que la naissance d'une variation spécifique n'est pas indifféremment possible à n'importe quelle époque, mais qu'elle a dû toujours supposer au contraire un certain état d'ensemble delabiosphère.
 
-[p. 361]
-
-CONCLUSIONS
+[p. 361] CONCLUSIONS
 361
 
 de l'Homme fournit le type exemplaire de l'acte inventif
@@ -15016,9 +14068,7 @@ des arguments directs qui furent discutés à cet égard, l'exemple
 
 (1 ) L'exigence idéaliste et le fait de l'évolution, I.
 
-[p. 362]
-
-des homologues sociologiques suffirait à
+[p. 362] des homologues sociologiques suffirait à
 l'établir,
 d'autant
 mieux qu'on les trouve précisément à l'œuvre dans les actes
@@ -15055,9 +14105,7 @@ support et agent des énergies de la biosphère, dans la mesure
 [^p362-1]: Voir ci-dessus, p. 63-68 .
 [^p362-2]: Voir ci-dessus, p.44 Rien là d'un vague hylozoïsme, lequel consis- terait au contraire à ne se représenter la vie que sous figure individuelle. Qu'on n'aille donc point objecter que la Terre ne se reproduit pas ! La reproduction n'est un acte nécessaire de la vie que lorsque celle-ci est mor- celée en individus éphémères. S'ensuit-il que l'on parle métaphorique- ment si l'on invoque la vie de l'esprit ?
 
-[p. 363]
-
-CONCLUSIONS
+[p. 363] CONCLUSIONS
 363
 
 où il se montre chargé de potentiel biosphérique [^p363-1] . Dans ces
@@ -15097,9 +14145,7 @@ demander sous quelle forme subsiste en soi la Pensée première,
 
 [^p363-1]: Voir ci-dessus, p . 182 .
 
-[p. 364]
-
-364
+[p. 364] 364
 LES
 ORIGINES HUMAINES
 
@@ -15144,9 +14190,7 @@ Autre point à ne pas perdre de vue : il n'est besoin
 [^p364-1]: L'exigence idéaliste et le fait de l'évolution, Avant-propos et p. 267.
 [^p364-2]: L'exigence idéaliste et le fait de l'évolution, I et II .
 
-[p. 365]
-
-CONCLUSIONS
+[p. 365] CONCLUSIONS
 365
 
 d'expliquer que la puissance du psychisme à jouer un rôle de
@@ -15187,11 +14231,9 @@ pas faire suite naturelle aux précédentes, mais qui en constitue
 l'indispensable complément. Les analogies sont toujours dan-
 gereuses. En particulier, le mode humain du psychisme n'est
 
-(1 ) Ibid., p. 261 .
+(1 ) *Ibid.*, p. 261 .
 
-[p. 366]
-
-pas le seul ; une synthèse est à opérer entre lui et divers autres,
+[p. 366] pas le seul ; une synthèse est à opérer entre lui et divers autres,
 inférieurs ou divergents. Bien entendu, il est impossible d'é-
 largir maintenant nos recherches à ce point. Toutefois l'occa-
 sion était à saisir d'en marquer les prolongements
@@ -15229,11 +14271,7 @@ d'ailleurs celles de l'instinct ; et les unes comme les autres, vers
 la frontière corporelle, paraissent en liaison intime avec le chi-
 misme des sécrétions internes et les phénomènes de nutrition
 profonde. C'est de ce côté qu'on trouverait assurément de quoi
-comprendre les contre-coups physiques des émotions et per-
-
-[p. 367]
-
-CONCLUSIONS
+comprendre les contre-coups physiques des émotions et per-[p. 367]CONCLUSIONS
 367
 
 ceptions, les effets extérieurs, les répercussions matérielles de
@@ -15274,9 +14312,7 @@ dans la préface : les chapitres le reprennent aussitôt ; c'est que
 
 [^p367-1]: L'exigence idéaliste et lefaitde l'évolution, XIV et XV, passim.
 
-[p. 368]
-
-la vie est marche en avant, que l'idée de direction lui est essen-
+[p. 368] la vie est marche en avant, que l'idée de direction lui est essen-
 tiellement jointe ;même une plante apparaît comme un système
 de comportements prospectifs ; - 3º le mécanisme n'explique
 jamais que le détail des phénomènes ; mais une explication
@@ -15320,9 +14356,7 @@ quand elle remonte le cours du temps
 ou la chaîne des causes
 à des opérations de morcelage qui
 
-[p. 369]
-
-CONCLUSIONS
+[p. 369] CONCLUSIONS
 369
 
 laissent toujours un résidu devant elle, qui ne peuvent donc
@@ -15368,11 +14402,7 @@ de la plus récente. Et il y a plus. En fin de compte, la clef du
 phénomène évolutif n'est vraiment découverte que par l'observa-
 tion de l'Homme en qui la Vie se transfigure et s'élève à une
 
-24
-
-[p. 370]
-
-puissance et valeur nouvelle de réalité. Seule a vertu d'explica-
+24 [p. 370] puissance et valeur nouvelle de réalité. Seule a vertu d'explica-
 tion métaphysique cette montée inventive. Ai-je besoinde re-
 dire les trois grandes étapes de l'ascension ? Matière et vie sont,
 dès le principe, orientées en sens inverse l'une de l'autre ; puis ,
@@ -15411,9 +14441,7 @@ alors que la vie lui paraît improbable. Mais ensuite, à mesure
 que l'étude s'approfondit et progresse, il découvre l'insuffisance
 du point de départ, la nécessité d'un remaniement ; et la véri
 
-[p. 371]
-
-CONCLUSIONS
+[p. 371] CONCLUSIONS
 371
 
 table perspective s'établit. Finalement, la critique de l'homi-
@@ -15434,9 +14462,7 @@ de fait. Elle fera le thème d'une enquête qui doit un jour suivre
 et conclure celle-ci, et que l'on peut annoncer déjà sous ce
 titre : Les Epoques de l'Intelligence.
 
-[p. 373]
-
-TABLE DES MATIÈRES
+[p. 373] TABLE DES MATIÈRES
 
 AVANT-PROPOS .
 
@@ -15519,9 +14545,7 @@ V
 
 82
 
-[p. 374]
-
--
+[p. 374] -
 VI .
 LE DOUBLE RAPPORT DE L'HOMME À LA NATURE .
 TROISIÈME PARTIE : LES PREUVES POSSIBLES .
@@ -15627,9 +14651,7 @@ Les migrations
 ....
 234
 
-[p. 375]
-
-XIV .
+[p. 375] XIV .
 
 XV .
 

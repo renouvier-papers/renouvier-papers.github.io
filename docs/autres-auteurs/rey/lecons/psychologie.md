@@ -10,9 +10,7 @@ title: "Psychologie (1908)"
 
 ---
 
-[p. V]
-
-PRÉFACE
+[p. V] PRÉFACE
 
 150
 
@@ -51,9 +49,7 @@ méthodes scientifiques et le développement des sciences , notions
 יאטיסרבינואהו
 םילשורי
 
-[p. VI]
-
-qui me paraissent indispensables pour avoir de ces méthodes
+[p. VI] qui me paraissent indispensables pour avoir de ces méthodes
 une idée juste , bien que très sommaire ; enfin quelques notions
 de logique formelle sacrifiées dans la première édition ;
 3º EN MORALE , de donner des notions de morale théorique
@@ -94,9 +90,7 @@ empruntant à ceux qui, par leur étude patiente et spécialisée,
 ont appris à les connaître , les principaux résultats de leurs
 recherches , c'est ce que j'ai voulu et exclusivement voulu . Ce
 
-[p. VII]
-
-PRÉFACE
+[p. VII] PRÉFACE
 VIE
 
 n'est donc pas un cours , mais la documentation matérielle ,
@@ -149,9 +143,7 @@ chacun son intégrité. Ceci a eu l'avantage de faire en même
 
 1
 
-[p. VIII]
-
-VIII
+[p. VIII] VIII
 PRÉFACE
 
 temps de ce recueil de faits un recueil de lectures
@@ -183,9 +175,7 @@ cée à la fin du volume .
 dialectique excessive et d'y développer l'esprit scientifique... » ( Liard, Le nouveau plan
 d'études de l'enseignement secondaire . Paris , 1903 , Cornély , éditeur.)
 
-[p. IX]
-
-CONSEILS AUX ÉLÈVES
+[p. IX] CONSEILS AUX ÉLÈVES
 
 SUR LA MANIÈRE DE SE SERVIR DE CE LIVRE
 
@@ -231,9 +221,7 @@ Ce sommaire ne doit pas dispenser l'élève d'un résumé plus
 
 il complète de ses propres réflexions les faits fournis par le texte .
 
-[p. X]
-
-X
+[p. X] X
 PREFACE
 X
 
@@ -246,9 +234,7 @@ placé à la fin du volume indique, pour chaque question, les endroits
 principaux où il en est parlé ou qu'il peut être intéressant de
 consulter .
 
-[p. 1]
-
-LIVRE PREMIER
+[p. 1] LIVRE PREMIER
 
 INTRODUCTION
 
@@ -318,9 +304,7 @@ de certains phénomènes, comme les phénomènes astronomiques, les
 particularités saillantes présentées par d'autres attirèrent l'attention
 et suscitèrent le désir de connaître avec plus d'exactitude et de vérité.
 
-[p. 2]
-
-L'étonnement ressenti à ces premières remarques fut, selon le mot de
+[p. 2] L'étonnement ressenti à ces premières remarques fut, selon le mot de
 Platon , le commencement de la science. Les besoins de la vie quoti-
 dienne poussaient encore à étudier la nature d'une façon réfléchie
 et méthodique , car les erreurs où conduisaient fatalement les opi-
@@ -365,9 +349,7 @@ l'école pythagoricienne, deux siècles plus tard elle s'en est nettement
 séparée . Platon n'admettait pas qu'on fût philosophe sans être géo-
 mètre ; mais la géométrie se passait dès lors de la philosophie. >>>
 
-[p. 3]
-
-(Th . Ribot, Psychologie anglaise, préface.) Cette rapidité à s'orga-
+[p. 3] (Th . Ribot, Psychologie anglaise, préface.) Cette rapidité à s'orga-
 niser en science particulière s'explique par la nature des mathéma-
 tiques , qui s'occupent des propriétés les plus simples et les plus
 générales que puissent manifester les objets : leur nombre , leur
@@ -416,9 +398,7 @@ de là une tendance
 invincible à dépasser constamment les limites de chacune d'elles et
 à aborder des problèmes plus généraux .
 
-[p. 4]
-
-nelles
+[p. 4] nelles
 quashory
 
 ?
@@ -482,9 +462,7 @@ culier les sciences s'occupant des hommes et de leurs relations
 mutuelles , qui, extrêmement complexes et difficiles, sont à peine
 commencées . Il en résulte que la plupart du temps les sciences ne
 
-[p. 5]
-
-INTRODUCTION : LA SCIENCE ET LA PHILOSOPHIE
+[p. 5] INTRODUCTION : LA SCIENCE ET LA PHILOSOPHIE
 5
 
 nous peuvent rien dire touchant les circonstances de nos actions ;
@@ -538,9 +516,7 @@ Il est donc nécessaire de compléter les connaissances scientifiques
 
 4
 
-[p. 6]
-
-P
+[p. 6] P
 
 proprement dites par un ensemble de spéculations qui constituent
 comme un essai de science universelle : c'est cet ensemble que l'on
@@ -596,11 +572,7 @@ les résultats de cette méthode expérimentale .
 fait naître dans
 les
 résultats
-une différence très nette , qui va encore nous servir à caractériser la
-
-[p. 7]
-
-philosophie . Dans un travail scientifique, sil'on enregistre un résul-
+une différence très nette , qui va encore nous servir à caractériser la [p. 7] philosophie . Dans un travail scientifique, sil'on enregistre un résul-
 tat, c'est qu'il a été vérifié . La preuve en est toujours possible . Mais ,
 dans les recherches philosophiques, il ne peut plus être question
 de vérification, puisqu'on dépasse ce qu'on peut prouver scienti-
@@ -644,9 +616,7 @@ critique les résultats scientifiques , pour donner, hypothétiquement,
 une explication totale quiserve à guider et à expliquer notre activité .
 C'est essentiellement une critique générale .
 
-[p. 8]
-
-8
+[p. 8] 8
 LÀ PHILOSOPHIE
 
 B. Rapports des sciences et de la philosophie . 一Mais ces
@@ -699,9 +669,7 @@ nature et de la réalité . [^p8-1]
 
 [^p8-1]: Cf. Pascal , Préface du « Traité sur le Vide » ; Descartes , Discours de la Méthode, I'ºpartie.
 
-[p. 9]
-
-INTRODUCTION
+[p. 9] INTRODUCTION
 : LA SCIENCE ET LA PIIILOSOPHIE
 9
 
@@ -751,11 +719,7 @@ parfois d'une façon désintéressée ,
 sans aucune utilité directe . Elle crée alors les œuvres d'art . L'étude
 des procédés par lesquels nous les créons est l'objet de l'esthétique .
 4° Toutes ces études théoriques et pratiques nous conduiront à
-une vue d'ensemble sur la nature, sur nous-mêmes , sur notre place
-
-[p. 10]
-
-10
+une vue d'ensemble sur la nature, sur nous-mêmes , sur notre place [p. 10] 10
 LA PHILOSOPHIE
 
 dans l'univers et notre destinée . Cette vue d'ensemble , c'est la
@@ -805,9 +769,7 @@ seigne en rien sur la véritable nature des choses. C'est par la
 réflexion , indépendante de toute attache avec les procédés scienti-
 fiques ou techniques (en cela cette conception diffère radicalement
 
-[p. 11]
-
-INTRODUCTION : LA SCIENCE ET LA PIHILOSOPHIE
+[p. 11] INTRODUCTION : LA SCIENCE ET LA PIHILOSOPHIE
 11
 
 de celle que nous avons développée jusqu'ici puisque , pour nous ,
@@ -854,11 +816,7 @@ ment d'introduire dans cette conception traditionnelle .
 Les novateurs ont tous plus ou moins directement subi l'in-
 fluence d'Auguste Comte qui , par son système philosophique , le
 positivisme , a joué un rôle considérable dans l'histoire des idées
-au xix siècle . On peut caractériser la pensée de tous ceux qui ont
-
-[p. 12]
-
-12
+au xix siècle . On peut caractériser la pensée de tous ceux qui ont [p. 12] 12
 LA PHILOSOPHIE
 
 !
@@ -909,9 +867,7 @@ de science : poésie ennuyeuse et mal écrite pour les uns , vraiment
 divine pour les autres . » (Ribot, la Psychologie anglaise contempo-
 raine , p . 17 , 18 , 19.)
 
-[p. 13]
-
-Que penser de ces modifications ? La discussion est encore pen-
+[p. 13] Que penser de ces modifications ? La discussion est encore pen-
 dante, et chacune des deux thèses a ses
 défenseurs ; aucune ne
 peut donc
@@ -961,11 +917,7 @@ les autres sciences positives , se séparer absolument des spéculations
 philosophiques .
 << Toute réalité, en effet, quelle qu'elle soit, peut donner lieu à [^p13-1]
 
-[^p13-1]: Quoiqu'on ait pu observer depuis une dizaine d'années un retour offensif de la métaphysique dans le domaine de la psychologie et que celle- ci ait peut - être d'abord trop attendu de certaines de ses méthodes scientifiques , et trop présumé de ses forces 2
-
-[p. 14]
-
-une double connaissance, selon qu'on veut en pénétrer la nature et
+[^p13-1]: Quoiqu'on ait pu observer depuis une dizaine d'années un retour offensif de la métaphysique dans le domaine de la psychologie et que celle- ci ait peut - être d'abord trop attendu de certaines de ses méthodes scientifiques , et trop présumé de ses forces 2 [p. 14] une double connaissance, selon qu'on veut en pénétrer la nature et
 le fond, ou qu'on prétend seulement en saisir ce qui s'en manifeste
 à notre intuition, ce qui en apparaît à nos sens, ou , d'un seul mot,
 le phénomène . Dans le premier cas , la connaissance est philoso-
@@ -1013,9 +965,7 @@ de la métaphysique, disent-ils , c'est la réflexion . Or la réflexion , [^p14
 
 [^p14-1]: Hannequin, Introduction à la psychologie , chap . 1 .
 
-[p. 15]
-
-INTRODUCTION
+[p. 15] INTRODUCTION
 LA SCIENCE ET LA PHILOSOPHIE
 15
 
@@ -1073,9 +1023,7 @@ méthode propre, méthode expérimentale analogue à la méthode
 employée dans toutes les autres sciences de la nature . Par là on
 voit qu'elle n'a rien de commun avec la philosophie .
 
-[p. 16]
-
-16
+[p. 16] 16
 LA PHILOSOPHIE
 
 Il est même d'une sagesse élémentaire de commencer par établir
@@ -1124,9 +1072,7 @@ la forme, le développement, la nature des sociétés et des civilisa-
 
 [^p16-1]: Cf. LOGIQUE , P. 641 et 655 .
 
-[p. 17]
-
-INTRODUCTION
+[p. 17] INTRODUCTION
 LA SCIENCE ET LA PHILOSOPHIE
 17
 
@@ -1177,11 +1123,7 @@ semblent bien continuer l'évolution suivie jusqu'ici par l'esprit
 humain, aient apporté des résultats notables ,
 il est bien diffi-
 cile de séparer d'une façon absolue, autrement qu'en théorie ,
-ces recherches des spéculations philosophiques . On retrouvera
-
-[p. 18]
-
-d'ailleurs la question à propos de l'étude particulière de chacune
+ces recherches des spéculations philosophiques . On retrouvera [p. 18] d'ailleurs la question à propos de l'étude particulière de chacune
 d'elles .
 Mais , dès à présent, pour avoir une vue complète et impartiale
 de la question, il est bon de mentionner une opinion que professent
@@ -1190,7 +1132,7 @@ prendre l'état actuel et momentané des choses pour leur état défi-
 nitif : les questions de valeur, d'appréciation , qu'on retrouve toutes
 les fois qu'on veut donner des règles, et non se contenter d'expli-
 quer des faits, ne sont pas du domaine de la science, car elles
-exigent la constitution dialectique et a priori d'un idéal qui dépasse
+exigent la constitution dialectique et *a priori* d'un idéal qui dépasse
 les faits , et en vertu duquel on les juge. Ces questions ne seraient
 donc jamais susceptibles d'un traitement scientifique . Elles seraient
 toujours du domaine de la spéculation purement spirituelle , relè-
@@ -1225,11 +1167,7 @@ pales manifestations, en sont l'introduction presqu'obligatoire .
 Mais cette unité provient essentiellement du but final que l'on se
 propose : élaborer des idées générales relativement à l'ensemble des
 choses et à la destinée humaine . Ce n'est pas une unité qui résulte
-soit de la méthode employée dans la recherche, puisqu'on voit que ,
-
-[p. 19]
-
-INTRODUCTION : LA SCIENCE ET LA PHILOSOPHIE
+soit de la méthode employée dans la recherche, puisqu'on voit que , [p. 19] INTRODUCTION : LA SCIENCE ET LA PHILOSOPHIE
 19
 
 d'un avis présqu'unanime, la méthode de la psychologie est tout
@@ -1257,9 +1195,7 @@ thétique , de logique, de morale et de métaphysique . C'est ce point
 de vue qui sans doute fit jusqu'à nos jours réunir toutes ces re-
 cherches sous le nom traditionnel de philosophie .
 
-[p. 21]
-
-PSYCHOLOGIE
+[p. 21] PSYCHOLOGIE
 
 LIVRE II
 
@@ -1300,11 +1236,7 @@ die, ce qu'on appelle son objet, et essayer de le définir, ce qui défi-
 nira la science elle-même .
 Or, la psychologie est une science, et, si nous voulons la définir,
 nous avons à chercher quel est l'objet, le groupe de phénomènes
-sur lequel elle porte. On prétend d'ordinaire qu'elle étudie l'âme ,
-
-[p. 22]
-
-22
+sur lequel elle porte. On prétend d'ordinaire qu'elle étudie l'âme , [p. 22] 22
 LA CONSCIENCE
 
 c'est-à-dire ce principe que chacun peut constater en soi, qui le fait
@@ -1356,9 +1288,7 @@ est objectif, tout ce qui ne
 dépend pas de moi , tout ce qui m'est donné de l'extérieur, et est
 connu des autres comme de moi-même .
 
-[p. 23]
-
-CARACTÈRES PROPRES DU FAIT PSYCHOLOGIQUE
+[p. 23] CARACTÈRES PROPRES DU FAIT PSYCHOLOGIQUE
 23
 
 A. Caractères subjectifs .- a) Voici un morceau de soufre ; il
@@ -1417,9 +1347,7 @@ viepsychologique supérieure, paraissent sans relation avec l'espace),
 que les états de conscience peuvent être simultanés ,- enfin que
 leur intensité et leur durée sont des grandeurs mesurables .
 
-[p. 24]
-
-24
+[p. 24] 24
 LA CONSCIENCE
 
 b) La conscience est un changement, un devenir perpétuel . Si
@@ -1472,9 +1400,7 @@ Mais cela suppose nécessairement que l'ordre primitif peut être
 changé, que la conscience peut détacher certains états de la trame
 dans laquelle ils étaient engagés, les isoler, les mettre à part, pour
 
-[p. 25]
-
-CARACTERES PROPRES DU FAIT PSYCHOLOGIQUE
+[p. 25] CARACTERES PROPRES DU FAIT PSYCHOLOGIQUE
 25
 
 établir ensuite l'ordre nouveau et fusionner des éléments antérieu-
@@ -1527,9 +1453,7 @@ sur nous-mêmes , une conscience . Or l'observation nous montre que
 l'irritation primitive se transforme en mouvements spontanés et
 adaptés chez les animaux doués d'un système nerveux , et chez ceux-
 
-[p. 26]
-
-26
+[p. 26] 26
 LA CONSCIENCE
 
 Cylindre
@@ -1597,11 +1521,7 @@ Dendrites
 (
 filets
 àarborescences
-)
-
-[p. 27]
-
-réponse à ces excitations . Le neurone paraît du reste garder de
+) [p. 27] réponse à ces excitations . Le neurone paraît du reste garder de
 l'énergie en réserve et peut mouvoir directement la fibre muscu-
 laire , sans qu'il y ait eu action externe . Les modifications du système
 nerveux, dont nous ignorons la vraie nature, et que l'on appelle
@@ -1647,11 +1567,7 @@ qu'elles ont entraînées . Certaines impressions sont conservées pour
 ainsi dire à l'état latent dans les réseaux neuriques qui constituent
 les centres , et elles peuvent, sans nouvelle impression extérieure ,
 donner lieu à des mouvements réactifs bien définis . Certaines asso-
-ciations et certaines directions surtout se conservent avecpersistance ,
-
-[p. 28]
-
-28
+ciations et certaines directions surtout se conservent avecpersistance , [p. 28] 28
 LA CONSCIENCE
 
 les fibres associatives présentant sans doute une facilité plus grande
@@ -1702,9 +1618,7 @@ Avec ces centres, les mouvements deviennent plus complexes , plus
 importants, plus précis. Impressions et réactions sont coordonnées
 et assez bien appropriées les unes aux autres , surtout chez les ani
 
-[p. 29]
-
-CARACTÈRES PROPRES DU FAIT PSYCHOLOGIQUE
+[p. 29] CARACTÈRES PROPRES DU FAIT PSYCHOLOGIQUE
 29
 maux dont les centres supérieurs à ceux-ci sont peu développés :
 
@@ -1836,11 +1750,7 @@ A droite : Coupe schématique du cerveau indiquant la forme et la place de ces c
 
 <<Dans la mesure où l'on a pu, par la section de la moelle épinière
 
-3
-
-[p. 30]
-
-30
+3 [p. 30] 30
 LA CONSCIENCE
 
 et par l'excitation des parties situées au-dessous de la section , pro-
@@ -1886,11 +1796,7 @@ la multitude des mouvements corporels qui y peuvent répondre :
 << Une grenouille, privée de son cerveau , mais ayant conservé l'en-
 céphale moyen , paraît encore en possession des appareils moteurs
 nécessaires à l'exercice des mouvements spontanés, mais ne se meut ,
-semble-t-il, que si une excitation sensible déterminée l'y pousse. Il
-
-[p. 31]
-
-lui manque l'aptitude àprendre une initiative . Elle a sur la grenouille,
+semble-t-il, que si une excitation sensible déterminée l'y pousse. Il [p. 31] lui manque l'aptitude àprendre une initiative . Elle a sur la grenouille,
 simplement réduite à lamoelle épinière, l'avantage d'être déterminée
 par des excitations sensibles , plus fines . Tandis que la grenouille,
 réduite à la moelle épinière , n'est pas naturellement excitée par la
@@ -1964,11 +1870,7 @@ figure : Surface externe d'un hémisphère.
 si on la jette dans l'eau , l'excitation produite par le mouvement
 des molécules liquides la fait nager. Mais elle a toujours besoin
 pour se mouvoir d'une impulsion extérieure . » (Id.)
-ɛ Nous rencontrons enfin les hémisphères cérébraux ou cerveau
-
-[p. 32]
-
-32
+ɛ Nous rencontrons enfin les hémisphères cérébraux ou cerveau [p. 32] 32
 LA CONSCIENCE
 
 proprement dit : « Le cerveau forme la clefde voûte de l'ingénieuse
@@ -2063,9 +1965,7 @@ tude immense des modifications nerveuses, comme la pensée dont
 il est ainsi l'organe tend à ramener à l'unité toutes les données
 de la conscience .
 
-[p. 33]
-
-CARACTÈRES PROPRES DU FAIT PSYCHOLOGIQUE
+[p. 33] CARACTÈRES PROPRES DU FAIT PSYCHOLOGIQUE
 33
 
 3º Fonction de dissociation .
@@ -2119,9 +2019,7 @@ cience . [^p33-1]
 
 [^p33-1]: Voir, dans la LOGIQUE (p . 655), l'examen de cette méthode .
 
-[p. 34]
-
-34
+[p. 34] 34
 LA CONSCIENCE
 
 Cette définition est importante au point de vue de la méthode
@@ -2151,9 +2049,7 @@ même titre que la biologie ; car, par ses caractères objectifs, le fait
 psychologique est susceptible de mesure et par suite susceptible
 d'être soumis à des observations et à des expériences précises .
 
-[p. 35]
-
-CHAPITRE III
+[p. 35] CHAPITRE III
 
 INDÉPENDANCE DE LA PSYCHOLOGIE PAR RAPPORT
 
@@ -2199,9 +2095,7 @@ système nerveux . Cabanis a dit :
 comme le foie sécrète la bile » , et Maudsley : « L'homme n'est pas
 une plus mauvaise machine sans la conscience qu'avec elle . »
 
-[p. 36]
-
-36
+[p. 36] 36
 LA CONSCIENCE
 
 La conscience n'est donc qu'un reflet, un luxe , un témoin inactif,
@@ -2245,9 +2139,7 @@ si tout se réduisait à des phénomènes organiques . Il s'ensuit que la
 psychologie est une science légitime et nécessaire et nécessairement
 indépendante de la physiologie .
 
-[p. 37]
-
-INDÉPENDANCE DE LA PSYCHOLOGIE
+[p. 37] INDÉPENDANCE DE LA PSYCHOLOGIE
 37
 
 II.
@@ -2289,11 +2181,7 @@ Nous ne concevons pas comment, en s'additionnant, des proces-
 sus nerveux peuvent arriver à prendre conscience d'eux-mêmes , à
 savoir eux-mêmes ce qu'ils sont. Notre système nerveux sait ce qu'il
 est, connaît les états qui l'affectent, les mouvements qu'il produit.
-Or , entre cette propriété et toutes les modifications organiques qui
-
-[p. 38]
-
-38
+Or , entre cette propriété et toutes les modifications organiques qui [p. 38] 38
 LA CONSCIENCE
 
 se passent au sein de ce système, il y a une différence indéniable .
@@ -2344,9 +2232,7 @@ indépendante de la physiologie, ce n'est pas dire autre chose .
 de lui-même et de ce qui lui arrive , voilà le caractère fondamental
 qui nécessite, pour le fait psychologique , une étude distincte de celle
 
-[p. 39]
-
-INDÉPENDANCE DE LA PSYCHOLOGIE
+[p. 39] INDÉPENDANCE DE LA PSYCHOLOGIE
 39
 
 des autres phénomènes naturels . Si nous voulons maintenant con-
@@ -2400,11 +2286,7 @@ chimiques ?
 D'ailleurs les procédés physiologiques d'expérimentation ne sont,
 en psychologie, qu'un biais pour atteindre autre chose que le fait
 physiologique , à savoir le fait de conscience, tandis qu'en physio-
-logie ils sont dirigés directement vers la connaissance des faits
-
-[p. 40]
-
-40
+logie ils sont dirigés directement vers la connaissance des faits [p. 40] 40
 LA CONSCIENCE
 
 physiologiques . Aussi, en physiologie , ne fait-on jamais intervenir
@@ -2451,11 +2333,7 @@ extérieures qui les ont produites , mais indépendamment de notre
 conscience et de notre organisation individuelle, ce qui est l'objet
 des sciences autres que la psychologie, la nature nous présente un
 nouvel ordre de faits à étudier : nos sensations dans leur rapport
-avec notre conscience et notre organisation propre; et l'on voit que
-
-[p. 41]
-
-ce nouvel ordre de faits est suffisamment différencié des autres
+avec notre conscience et notre organisation propre; et l'on voit que [p. 41] ce nouvel ordre de faits est suffisamment différencié des autres
 pour faire l'objet d'une science nouvelle, la psychologie .
 
 ΙΙΙ .
@@ -2504,11 +2382,7 @@ ment les circonstances semblables dans lesquelles il agit de nouveau :
 propres aux reproductions d'actes qui dépendent de la conscience .
 2º La dissociation dans la conscience a aussi des propriétés parti-
 culières .
-Cette dissociation n'existe pas seulement dans le domaine
-
-[p. 42]
-
-42
+Cette dissociation n'existe pas seulement dans le domaine [p. 42] 42
 LA CONSCIENCE
 
 psychologique . Mais la dissociation psychologique, au lieu d'être
@@ -2557,11 +2431,7 @@ ne pas avoir influé sur l'organisme, surtout quand on songe que
 la conscience parait surtout destinée à éclairer et à diriger les actes ,
 à protéger et à augmenter la puissance de l'organisme . Le fait de
 conscience entre donc dans la chaîne des faits naturels comme un
-chaînon indispensable accompagnant d'autres chaînons qui le
-
-[p. 43]
-
-déterminent , c'est certain , mais suivi à son tour d'autres chaînons
+chaînon indispensable accompagnant d'autres chaînons qui le [p. 43] déterminent , c'est certain , mais suivi à son tour d'autres chaînons
 qu'il détermine . A lenégliger , à ne considérer que les chainons qui
 relèvent d'une étude physiologique, on ne pourrait souvent plus
 suivre la chaîne ; elle nous apparaîtrait comme brisée .
@@ -2578,9 +2448,7 @@ pour elle-même, en dehors du pur mécanisme physiologique , puis-
 qu'elle vient s'y superposer au moment où celui-ci n'est plus suffi -
 sant pour assurer l'existence de l'être considéré .
 
-[p. 44]
-
-CHAPITRE IV
+[p. 44] CHAPITRE IV
 
 CLASSIFICATION DES FAITS PSYCHOLOGIQUES
 
@@ -2629,9 +2497,7 @@ dans notre vie psychologique, une attitude de bien-être ou de mal-
 être ; puis nous dirigeons nos mouvements et réagissons sur les causes
 extérieures de ces impressions, en vertu de la connaissance que nous
 
-[p. 45]
-
-CLASSIFICATION DES FAITS PSYCHOLOGIQUES
+[p. 45] CLASSIFICATION DES FAITS PSYCHOLOGIQUES
 45
 
 en avons et de la tonalité qu'elles ont déterminée. On peut donc
@@ -2684,11 +2550,7 @@ lulipètes des neurones, nerfs sensitifs) , qui recueillent et amènent les
 impressions auxcentres ; les éléments efférents (cylindres-axes et nerfs
 moteurs ) , qui transmettent l'énergie nerveuse aux organes moteurs .
 
-4
-
-[p. 46]
-
-46
+4 [p. 46] 46
 LA CONSCIENCE
 
 Les nerfs afférents enfin constituent deux systèmes , le système
@@ -2735,9 +2597,7 @@ cience, quels que soientlespoints saillants qui fixentnotre attention, en
 se séparant de l'ensemble, est avant tout une unité organique, sem-
 blable à celle de l'être vivant dont elle n'est que l'aspect interne :
 
-[p. 47]
-
-CLASSIFICATION DES FAITS PSYCHOLOGIQUES
+[p. 47] CLASSIFICATION DES FAITS PSYCHOLOGIQUES
 47
 
 elle est constamment et à la fois, quoique à des degrés très différents ,
@@ -2789,11 +2649,7 @@ apparence immédiates des sensations (connaissance sensible) ;
 les
 faits actifs sont les impulsions instinctives . Réfléchis , élaborés , nous
 avons dans l'ordre affectif le sentiment, combinaison d'émotions
-atténuées, intellectualisées et beaucoup plus durables ; dans l'ordre
-
-[p. 48]
-
-48
+atténuées, intellectualisées et beaucoup plus durables ; dans l'ordre [p. 48] 48
 LA CONSCIENCE
 
 représentatif, la connaissance intellectuelle , c'est-à-dire les idées ou
@@ -2851,11 +2707,7 @@ et qui est toujours, dans une certaine mesure, voulue et réfléchie .
 C. Subdivision des faits de conscience spontanés en deux
 classes : faits complexes et faits élémentaires .
 Les événe-
-ments de la vie psychologique spontanée se divisent eux-mèmes
-
-[p. 49]
-
-en deux classes
+ments de la vie psychologique spontanée se divisent eux-mèmes [p. 49] en deux classes
 : les événements complexes et les événements
 simples ou élémentaires qu'il est difficile d'observer directement ,
 et isolés .
@@ -2899,9 +2751,7 @@ simples de conscience que l'analyse introspective (d'une façon vague)
 et l'expérience nous permettent de nous représenter . C'est avec eux
 que commence l'étude psychologique proprement dite .
 
-[p. 50]
-
-50
+[p. 50] 50
 LA CONSCIENCE
 
 III .
@@ -2958,9 +2808,7 @@ L'habitude, qui ne fait qu'un avec la mémoire, répète d'une fa-
 absolument conscients . Les tics sont de cet ordre . De même cer-
 tains besoins et certaines inclinations émotives .
 
-[p. 51]
-
-CLASSIFICATION DES FAITS PSYCHOLOGIQUES
+[p. 51] CLASSIFICATION DES FAITS PSYCHOLOGIQUES
 51
 
 3º Les faits conscients peuvent résulter d'un travail préparatoire
@@ -3012,11 +2860,7 @@ mique, qui est un état latent d'activité, d'élaboration, d'incubation .
 On pourrait donner à profusion des preuves de cette rumination
 inconsciente . Le fait bien connu qu'un travail intellectuel gagne à
 être interrompu ; qu'en le reprenant on le trouve souvent éclairci ,
-transformé , même achevé, » en est un exemple. (Ribot , Essai sur
-
-[p. 52]
-
-52
+transformé , même achevé, » en est un exemple. (Ribot , Essai sur [p. 52] 52
 LA CONSCIENCE
 
 l'imagination créatrice , p . 283.) La plus grande partie du travail
@@ -3062,11 +2906,7 @@ et motrices paraissent le plus souvent subordonnés à notre fonction
 représentative : c'est cet aspect que nous présente la vie psycholo-
 gique supérieure , celle de « l'homme blanc, adulte et civilisé » .
 Si bien qu'il convient, pour savoir clairement de quoi l'on parle ,
-de connaître d'abord cette fonction représentative, qui éclaire en
-
-[p. 53]
-
-quelque sorte toutes les autres et comprend de toutes les manifes-
+de connaître d'abord cette fonction représentative, qui éclaire en [p. 53] quelque sorte toutes les autres et comprend de toutes les manifes-
 tations de la conscience celles qui sont les plus immédiatement
 accessibles .
 Nous étudierons donc d'abord les faits représentatifs , en renver-
@@ -3115,9 +2955,7 @@ Fonctions géné- 2º Association .
 rales de la conscience .
 conscience. 3º Attention.
 
-[p. 54]
-
-54
+[p. 54] 54
 LA CONSCIENCE
 
 B. ÉTUDES DE FAITS PSYCHOLOGIQUES PARTICULIERS .
@@ -3170,9 +3008,7 @@ Rapports du physique et du moral .
 La personnalité.
 L'automatisme psychologique .
 
-[p. 55]
-
-CHAPITRE V
+[p. 55] CHAPITRE V
 
 L'INCONSCIENT
 OU AUTOMATISME PSYCHOLOGIQUE
@@ -3213,9 +3049,7 @@ N'y a-t-il pas contradiction à parler d'un inconscient qui joue un
 rôle dans la conscience ? d'un fait psychologique inconscient, puisque
 le caractère essentiel du fait psychologique , c'est d'être conscient ?
 
-[p. 56]
-
-56
+[p. 56] 56
 LA CONSCIENCE
 
 C'est la solution de ce problème qu'ont
@@ -3268,9 +3102,7 @@ science est un reflet qu'ils produisent dans certaines circonstances .
 Rien d'étonnant donc à ce que tout fait conscient soit le produit
 d'éléments inconscients et d'opérations inconscientes .
 
-[p. 57]
-
-c) Quelques idéalistes , en particulier Leibniz dont se réclament
+[p. 57] c) Quelques idéalistes , en particulier Leibniz dont se réclament
 beaucoup de philosophes contemporains (Renouvier entre autres),
 renversent complètement le point de vue matérialiste . Pour eux
 tout est conscience et pensée : la matière n'est que l'enveloppe de
@@ -3316,11 +3148,7 @@ l'ordinaire , accompagne le travail des centres nerveux est absent. >>>
 Comment expliquer qu'il soit présent dans certains cas , absent en
 d'autres ? Comment passer de l'organisme au conscient? La théorie
 physiologique se refuse à répondre à cette question qui est du
-domaine métaphysique des origines de la conscience. Elle ne
-
-[p. 58]
-
-58
+domaine métaphysique des origines de la conscience. Elle ne [p. 58] 58
 LA CONSCIENCE
 
 dit pas, comme la philosophie matérialiste le disait tout à l'heure ,
@@ -3372,9 +3200,7 @@ particulière et élémentaire des phénomènes conscients , mais ils sont
 en dehors de la conscience de notre activité générale ; ils ne sont
 pas rattachés au moi.
 
-[p. 59]
-
-L'INCONSCIENT OU AUTOMATISME PSYCHOLOGIQUE
+[p. 59] L'INCONSCIENT OU AUTOMATISME PSYCHOLOGIQUE
 59
 
 Des observations précises rendent cette conception très vraisem-
@@ -3429,11 +3255,7 @@ sibles le mouvement libre et naturel des représentations et leur
 lutte mutuelle. Plus tard, les idées fixes elles-mêmes ne peuvent
 être maintenues et développées. Enfin, il se produit une absence
 complète d'images et de pensées . Les impressions sensibles ne sont
-plus élaborées , la mémoire est presque éteinte, et le langage en
-
-[p. 60]
-
-60
+plus élaborées , la mémoire est presque éteinte, et le langage en [p. 60] 60
 LA CONSCIENCE
 
 majeure partie aboli... L'absence de connexion ne caractérise pas
@@ -3483,11 +3305,7 @@ verse . Ici est le côté hardi de l'hypothèse : ces auteurs supposent
 que la suprématie de la conscience subliminale est une réversion,
 un retour à l'état ancestral . Chez les animaux supérieurs et chez
 
-[^p60-1]: Ces conclusions seront éclaircies et développées dans la suite de ces études , notamment p . 194. 1
-
-[p. 61]
-
-l'homme primitif, toutes les actions trophiques entraient, d'après
+[^p60-1]: Ces conclusions seront éclaircies et développées dans la suite de ces études , notamment p . 194. 1 [p. 61] l'homme primitif, toutes les actions trophiques entraient, d'après
 eux, dans la conscience et étaient réglées par elle; au cours de l'évo-
 lution, cela s'est organisé : la conscience supérieure a laissé à la
 conscience subliminale le soin de gouverner silencieusement la vie
@@ -3532,11 +3350,7 @@ nuité croissante ou décroissante de la conscience ; on a même pu
 soutenir que la conscience « répugne à la continuité ! >>>
 « En somme, les deux théories rivales sont également impuis
 
-5
-
-[p. 62]
-
-62
+5 [p. 62] 62
 LA CONSCIENCE
 
 santes à pénétrer dans la nature intimes du facteur inconcient. >>>>
@@ -3589,9 +3403,7 @@ conclusions
 auxquelles arrivaient presque tous les
 psychologues antérieurs . Traitant leur objet d'une façon abstraite
 
-[p. 63]
-
-LINCONSCIENT OU AUTOMATISME PSYCHOLOGIQUE
+[p. 63] LINCONSCIENT OU AUTOMATISME PSYCHOLOGIQUE
 63
 
 et idéologique, ils considéraient la conscience comme une suite
@@ -3640,11 +3452,7 @@ lui-même constamment, l'équilibre ne peut être qu'instable
 : il
 faudra ou que l'habitude acquise se transforme, ou que s'y adjoignent
 de nouvelles habitudes ; de nouvelles modifications se produiront
-donc dans l'ètre vivant ; de nouvelles oscillations amèneront un
-
-[p. 64]
-
-64
+donc dans l'ètre vivant ; de nouvelles oscillations amèneront un [p. 64] 64
 LA CONSCIENCE
 
 nouvel étatd'équilibre et ainsi de suite, à peu près sans fin . Mais , dira-
@@ -3695,9 +3503,7 @@ b) Application de la théorie de l'évolution à la psychologie. - Les
 ściences psychologiques, dans leur état actuel, font intervenir à leur
 tour cette théorie dans toutes leurs considérations , dans tous leurs
 
-[p. 65]
-
-L'INCONSCIENT OU AUTOMATISME PSYCHOLOGIQUE
+[p. 65] L'INCONSCIENT OU AUTOMATISME PSYCHOLOGIQUE
 65
 
 essais d'explication. L'organisme pyschologique est étroitement
@@ -3746,11 +3552,7 @@ peuvent alors être , soit utiles , c'est-à-dire l'équilibrer , l'adapter au
 milieu , soit nuisibles , c'est-à-dire provoquer sa déchéance et même
 sa mort . Il faut de toute nécessité qu'un tri puisse se faire entre
 les actes utiles et les actes nuisibles ; sans cela l'animal, faisant in-
-différemment les uns ou les autres, marchera vers sa ruine . D'après
-
-[p. 66]
-
-66
+différemment les uns ou les autres, marchera vers sa ruine . D'après [p. 66] 66
 LA CONSCIENCE
 
 la théorie de l'évolution et le principe de la sélection naturelle ,
@@ -3795,9 +3597,7 @@ tendu à supprimer tous les ètres chez qui les actes nuisibles s'accom
 
 [^p66-1]: Scientifiquement , cette assertion est bien osée , car il est impossible de prévoir ce que réserve l'avenir. La vie , elle aussi , est apparue longtemps comme une donnée pre- mière inexplicable . Beaucoup de savants pensent aujourd'hui qu'on pourra l'expliquer en la réduisant à une combinaison particulièrement instable et complexe d'éléments inorganiques . Et il est indéniable que les progrès de la chimie organique, les innom- brables synthèses de matières organiques réalisées déjà à ce jour ne permettent pas de dédaigner cette hypothèse .
 
-[p. 67]
-
-L'INCONSCIENT OU AUTOMATISME PSYCHOLOGIQUE
+[p. 67] L'INCONSCIENT OU AUTOMATISME PSYCHOLOGIQUE
 67
 
 pagnaient de plaisir, parce qu'ils étaient conduits à les répéter sans
@@ -3847,11 +3647,7 @@ les souvenirs de cas semblables ou voisins, pour faire face avec
 toutes les expériences anciennes aux difficultés nouvelles . La con-
 science se présente en un mot comme l'agent le plus puissant d'évo-
 lution qui ait pu assurer l'existence d'êtres très complexes et
-appelés à vivre dans les circonstances les plus diverses . Sans la
-
-[p. 68]
-
-68
+appelés à vivre dans les circonstances les plus diverses . Sans la [p. 68] 68
 LA CONSCIENCE
 
 conscience il est vraisemblable que l'animalité aurait été limitée à
@@ -3896,9 +3692,7 @@ plique progressivement jusqu'à perdre sa spontanéité et devenir
 enfin réfléchie, dans les formes les plus élevées de la conscience
 humaine .
 
-[p. 69]
-
-LIVRE
+[p. 69] LIVRE
 III
 
 LES FONCTIONS GÉNÉRALES DE LA CONSCIENCE
@@ -3951,11 +3745,7 @@ serons sous les aspects nets et clairs les plus élémentaires qu'elles
 offrent dans la consciencehumaine : 1º la mémoire et l'habitude pour
 l'assimilation ; 2º les lois de l'association pour l'intégration ; 3°lat-
 tention pour la discrimination. Cela nous permettra d'en établir la
-physionomie générale
-
-[p. 70]
-
-70
+physionomie générale [p. 70] 70
 LES FONCTIONS GÉNÉRALES DE LA CONSCIENCE
 
 I.
@@ -4005,9 +3795,7 @@ genre, puisqu'on retrouve de suite les images du jour précédent,
 dès que l'influence d'arrêt, exercée par le sommeil, n'existe plus .
 Même lorsqu'une image paraît entièrement oubliée, il ne faut pas
 
-[p. 71]
-
-FONCTION D'ASSIMILATION .
+[p. 71] FONCTION D'ASSIMILATION .
 71
 MÉMOIRE ET HABITUDE
 
@@ -4064,11 +3852,7 @@ reviviscence complète se manifeste chez les tempéraments émotion-
 nels . « Les gens irascibles, au seul nom , à la seule pensée de leur
 ennemi , ressentent la colère à l'état naissant. Le peureux frissonne
 et pâlit au seul souvenir du danger couru ... Plusieurs personnes
-affirment que le souvenir d'une émotion les secoue aussi vivement
-
-[p. 72]
-
-72
+affirment que le souvenir d'une émotion les secoue aussi vivement [p. 72] 72
 LES FONCTIONS GÉNÉRALES DE LA CONSCIENCE
 
 que l'émotion primitive. » Les états affectifs sont donc assujettis
@@ -4118,9 +3902,7 @@ images affectives ; 4° le type moteur, en qui la mémoire motrice
 est particulièrement développée (personnes remarquablement aptes
 aux exercices physiques , etc. ).
 
-[p. 73]
-
-FONCTION D'ASSIMILATION .
+[p. 73] FONCTION D'ASSIMILATION .
 73
 MÉMOIRE ET HABITUDE
 
@@ -4174,11 +3956,7 @@ DEUXIÈME LOI
 : Clarté et distinction de l'état primitif. - Mais cer-
 tains états peuvent être très vifs et ne pas laisser une image
 nette et facile à reproduire; les états affectifs, par exemple . C'est
-qu'ils sont très confus et très indistincts . Plus l'état primaire est
-
-[p. 74]
-
-74
+qu'ils sont très confus et très indistincts . Plus l'état primaire est [p. 74] 74
 LES FONCTIONS GÉNÉRALES DE LA CONSCIENCE
 
 clair et distinct, et mieux et plus longtemps il sera retenu par la
@@ -4236,9 +4014,7 @@ Mais on aurait une vue tout àfait partielle de la
 conservation psychologique, si l'on en restait à cette étude descrip-
 tive et à la seule observation interne. La conservation est liée à des
 
-[p. 75]
-
-FONCTION D'ASSIMILATION,
+[p. 75] FONCTION D'ASSIMILATION,
 75
 MÉMOIRE ET HABITUDE
 
@@ -4297,11 +4073,7 @@ sauf un point : l'absence de la conscience » (au moins en appa-
 rence) . (Id. , 7.) La conscience intervient-elle effectivement, rien n'est
 changé dans le fait biologique d'une façon appréciable ; depuis
 
-((
-
-[p. 76]
-
-l'automatisme musculaire le plus simplejusqu'aux cas les plus com-
+(( [p. 76] l'automatisme musculaire le plus simplejusqu'aux cas les plus com-
 plexes de mémoire consciente , il y a continuité constante au point
 de vue physiologique .
 
@@ -4312,7 +4084,7 @@ tions de l'organisme sont nécessaires pour l'établissement de la
 mémoire , quels changements a subis le système nerveux, quand un
 groupe de mouvements est définitivement organisé (habitude) ... II
 nous est impossible, dans cette recherche, de ne pas faire une part
-à l'hypothèse . Mais, en évitant toute conception a priori , en nous
+à l'hypothèse . Mais, en évitant toute conception *a priori* , en nous
 tenant près des faits , en nous appuyant sur ce qu'on sait de l'action
 nerveuse, nous évitons toute grosse chance d'erreur. Le premier
 point à établir est relatif au siège de la conversation et des images :
@@ -4350,9 +4122,7 @@ image implique d'abord une modification particulière imprimée
 
 -
 
-[p. 77]
-
-FONCTION D'ASSIMILATION .
+[p. 77] FONCTION D'ASSIMILATION .
 77
 MÉMOIRE ET HABITUDE
 
@@ -4412,11 +4182,7 @@ que ce qui a contribué à cette illusion, c'est l'artifice de langage
 qui nous fait considérer un mouvement, une perception, une idée,
 une image, un sentiment comme une chose , comme une unité. La
 
-6
-
-[p. 78]
-
-réflexion montre pourtant bien vite que chacune de ces prétendues
+6 [p. 78] réflexion montre pourtant bien vite que chacune de ces prétendues
 unités est composée d'éléments nombreux et hétérogènes ; qu'elle
 est une association, un groupe, une fusion, un complexus , une
 multiplicité. » (Id. , 15 sq. ) Nous verrons que le fait de conscience le
@@ -4476,9 +4242,7 @@ Cette conception de l'élément conservé assimile, comme on le voit,
 
 1
 
-[p. 79]
-
-FONCTION D'ASSIMILATION
+[p. 79] FONCTION D'ASSIMILATION
 79
 MÉMOIRE ET HABITUDE
 
@@ -4529,9 +4293,7 @@ duite est pour ainsi dire incorporée ou incarnée dans la structure
 de l'encéphale . Nous touchons ici à la raison dernière de la mémoire
 dans l'ordre biologique : elle est une imprégnation . »
 
-[p. 80]
-
-80
+[p. 80] 80
 LES FONCTIONS GÉNÉRALES DE LA CONSCIENCE
 
 B.- Reproduction du souvenir : lois de l'habitude proprement dite .
@@ -4596,9 +4358,7 @@ TROISIÈME LOI : La répétition habituelle diminue l'effort de repro-
 duction .
 Si chaque fois la répétition augmente la tendance à la
 
-[p. 81]
-
-FONCTION D'ASSIMILATION.
+[p. 81] FONCTION D'ASSIMILATION.
 81
 MÉMOIRE ET HABITUDE
 
@@ -4655,11 +4415,7 @@ faits affectifs tendent très peu et très difficilement à réapparaître...
 La raison en est que les faits affectifs agréables ou douloureux
 dépendent essentiellement de différences très fortes qui s'effec-
 tuent dans la quantité d'énergie dont dispose notre organisation .
-Ils sont liés soit à une augmentation, soit à une diminution de
-
-[p. 82]
-
-82
+Ils sont liés soit à une augmentation, soit à une diminution de [p. 82] 82
 LES FONCTIONS GÉNÉRALES DE LA CONSCIENCE
 
 cette énergie . Or la reproduction des faits psychologiques, atté-
@@ -4712,9 +4468,7 @@ qui, par tous ses effets tend à faciliter, et à renforcer l'activité .
 Elle
 est donc essentiellement active et ne tend à diminuer notre
 
-[p. 83]
-
-FONCTION D'ASSIMILATION .
+[p. 83] FONCTION D'ASSIMILATION .
 MÉMOIRE ET HABITUDE
 83
 
@@ -4781,11 +4535,7 @@ que celles de la conservation . On peut remarquer toutefois que la
 circulation (qui est liée intimement d'ailleurs à la nutrition) joue
 un rôle prépondérant, et présente avec la reproduction des varia-
 tions corrélatives : la fièvre à ses divers degrés s'accompagne d'une
-suractivité de la mémoire , d'une surproduction des gestes habi
-
-[p. 84]
-
-84
+suractivité de la mémoire , d'une surproduction des gestes habi [p. 84] 84
 LES FONCTIONS GÉNÉRALES DE LA CONSCIENCE
 
 tuels .
@@ -4838,9 +4588,7 @@ mémoire
 : la
 reconnaissance, qui est proprement psychologique et ne peut se
 
-[p. 85]
-
-FONCTION D'ASSIMILATION .
+[p. 85] FONCTION D'ASSIMILATION .
 85
 MÉMOIRE ET HABITUDE
 
@@ -4891,11 +4639,7 @@ psychologique, sont au fond une seule et même réalité.
 D'où vient cette qualité de déjà vu et cette assimilation à un état
 antérieur qui constituent la reconnaissance? En général la netteté
 et la vivacité des souvenirs ordinaires sont beaucoup plus faibles
-que celles des états primaires : les images visuelles sont moins colo
-
-[p. 86]
-
-86
+que celles des états primaires : les images visuelles sont moins colo [p. 86] 86
 LES FONCTIONS GÉNÉRALES DE LA CONSCIENCE
 
 rées , plus ternes . Pour certains individus, elles sont comme des
@@ -4944,9 +4688,7 @@ théorique de la localisation dans le temps l'est du même coup, car [^p86-1]
 
 [^p86-1]: Cf. PERCEPTION INTERNE , P. 188 .
 
-[p. 87]
-
-FONCTION D'ASSIMILATION .
+[p. 87] FONCTION D'ASSIMILATION .
 MÉMOIRE ET HABITUDE
 87
 
@@ -4999,11 +4741,7 @@ terne et moins précise . » D'ailleurs , W. James a montré avec force
 absolument semblables » , ce qui rend cette superposition impos-
 sible. Mais il y a des états de conscience voisins qui sont accom-
 pagnés par des réactions motrices habituelles identiques, parce que
-notre système musculaire ne dispose que d'un nombre relativement
-
-[p. 88]
-
-88
+notre système musculaire ne dispose que d'un nombre relativement [p. 88] 88
 LES FONCTIONS GÉNÉRALES DE LA CONSCIENCE
 
 restreint d'habitudes bien enregistrées ; la même réaction motrice
@@ -5011,9 +4749,7 @@ habituelle répondra donc à toutes les excitations à peu près sem-
 blables, et « la reconnaissance n'est que l'écho conscient » de cette
 identité des réponses motrices . (D'après le même ouvrage, p . 100-104.)
 
-[p. 89]
-
-CHAPITRE VII
+[p. 89] CHAPITRE VII
 
 FONCTION D'ASSIMILATION
 : HABITUDE ET MÉMOIRE (suite)
@@ -5067,9 +4803,7 @@ lequel elle se greffe .
 On peut appeler la première théorie, théorie psychologique pure ,
 la seconde , théorie physiologique .
 
-[p. 90]
-
-a) LE PUR PSYCHOLOGISME doit montrer que la mémoire n'est en
+[p. 90] a) LE PUR PSYCHOLOGISME doit montrer que la mémoire n'est en
 aucune façon la restauration d'un état conservé tel quel par la
 conscience comme une empreinte matérielle . Pour cela il distingue
 nettement entre la mémoire pure ou mémoire psychique , et la con-
@@ -5117,9 +4851,7 @@ l'intuition » , de dégager nettement ce qui apparaît, aux regards
 de la seule conscience , pure de toute représentation tirée du milieu
 extérieur , comme le caractère propre de l'activité psychologique .
 
-[p. 91]
-
-FONCTION D'ASSIMILATION
+[p. 91] FONCTION D'ASSIMILATION
 : HABITUDE ET MÉMOIRE
 91
 
@@ -5177,9 +4909,7 @@ c) Que deviennent nos souvenirs quand nous n'y pensons pas ?
 Cette question , au fond, n'est qu'un cas particulier de la question de
 l'inconscient. Et sa solution dépendrait à la fois d'une théorie sur
 
-[p. 92]
-
-!
+[p. 92] !
 
 f
 
@@ -5231,9 +4961,7 @@ de revivre . Seulement, les nécessités de l'action, le moment consi-
 déré, découpent dans cette synthèse, et isolent, grâce à l'attention ,
 une image ou un groupe d'images particulières , qui font saillie
 
-[p. 93]
-
-FONCTION D'ASSIMILATION
+[p. 93] FONCTION D'ASSIMILATION
 HABITUDE ET MÉMOIRE
 93
 
@@ -5289,11 +5017,7 @@ clusions opposées
 mène physique et mécanique ; c'était la conséquence des lois de la
 matière , inerte par elle-même , continuant le mouvement commencé
 
-7
-
-[p. 94]
-
-i
+7 [p. 94] i
 
 jusqu'à ce qu'un obstacle vienne le modifier . Aux lois aveugles
 obéissaient tous les corps de la nature, y compris le nôtre (les
@@ -5345,9 +5069,7 @@ VIE . [^p94-1]
 
 [^p94-1]: Voir, pour plus de détails, Théorie de l'instinct dans ses rapports avec l'habitude , p. 406.
 
-[p. 95]
-
-FONCTION D'ASSIMILATION
+[p. 95] FONCTION D'ASSIMILATION
 HABITUDE ET MÉMOIRE
 95
 comme moins riche que la matière brute, puisque le balancier
@@ -5401,9 +5123,7 @@ de ce avec quoi elle est liée. >> Tout être tend à persévérer dans son
 être, si on entend, par ce mot être , le système complexe formé par
 un organisme vivant et son milieu .
 
-[p. 96]
-
-96
+[p. 96] 96
 LES FONCTIONS GÉNÉRALES DE LA CONSCIENCE
 
 c) COMMENT AGIT L'HABITUDE DANS L'ÈTRE VIVANT
@@ -5458,9 +5178,7 @@ d'habitude se modifie et progresse en créant de nouvelles habi-
 tudes , puisque les habitudes anciennes devaient plutôt tendre à la
 faire rester identique à elle-même . Comment une seconde nature se
 
-[p. 97]
-
-FONCTION D'ASSIMILATION : MÉMOIRE ET HABITUDE
+[p. 97] FONCTION D'ASSIMILATION : MÉMOIRE ET HABITUDE
 97
 
 P
@@ -5518,9 +5236,7 @@ tôt la disparition de l'organisme . Sculs subsistent les ètres chez qui
 יאטיסרבינואהו
 םילשורי
 
-[p. 98]
-
-les excitations du milieu multiplient les mouvements utiles ; ces
+[p. 98] les excitations du milieu multiplient les mouvements utiles ; ces
 mouvements deviennent, en se répétant, des habitudes adaptatrices ,
 le milieu
 s'accommodant
@@ -5576,9 +5292,7 @@ goûts , les formes d'esprit, etc. Ribot, dans son livre l'hérédité, cite
 des familles où l'on est musicien (les Bach, les Mozart), peintre (les
 Carrache) , mathématicien (les Bernouilli), de père en fils . L'esprit
 
-[p. 99]
-
-FONCTION D'ASSIMILATION
+[p. 99] FONCTION D'ASSIMILATION
 : MÉMOIRE ET HABITUDE
 99
 
@@ -5635,9 +5349,7 @@ a) Amnésies générales . — On les subdivise en : 1º amnésies tem-
 poraires ; 2º amnésies périodiques ; 3º amnésies à forme progres-
 sive ; 4º amnésies congénitales .
 
-[p. 100]
-
-1º Les amnésies temporaires se produisent d'une façon brusque ,
+[p. 100] 1º Les amnésies temporaires se produisent d'une façon brusque ,
 et finissent de même . Leur durée est variable, quelques minutes
 ou plusieurs années ; elles peuvent nécessiter une rééducation com-
 plète du sujet, ou le priver seulement des souvenirs concernant la
@@ -5687,9 +5399,7 @@ Les habitudes affectives sont plus résistantes que les acquisitions
 intellectuelles , et cela, parce qu'elles sont plus profondes en nous
 que les habitudes intellectuelles , qui sont acquises . L'amnésie des
 
-[p. 101]
-
-FONCTION D'ASSIMILATION : MÉMOIRE ET HABITUDE
+[p. 101] FONCTION D'ASSIMILATION : MÉMOIRE ET HABITUDE
 101
 
 sentiments se produit donc lorsque la personnalité se dissout com-
@@ -5742,9 +5452,7 @@ cas d'amnésie des signes
 : le malade ne peut parler, ni écrire ; et
 il n'y a cependant ni paralysie de la langue ni paralysie du bras.
 
-[p. 102]
-
-C'est un oubli complet de la façon dont on exécute les signes néces-
+[p. 102] C'est un oubli complet de la façon dont on exécute les signes néces-
 saires .
 Cette amnésie des signes est surtout une maladie de la
 mémoire motrice ; car le malade conserve ses idées , ses souvenirs ,
@@ -5801,9 +5509,7 @@ b) Les excitations partielles sont nettement délimitées
 partie de la mémoire seule qui sort de la normale. On ne peut
 découvrir de loi qui les règle .
 
-[p. 103]
-
-FONCTION D'ASSIMILATION : MÉMOIRE ET HABITUDE
+[p. 103] FONCTION D'ASSIMILATION : MÉMOIRE ET HABITUDE
 103
 
 Exemple
@@ -5855,9 +5561,7 @@ Exemple d'illusion de la mémoire
 « Un malade apprenant la
 mort d'une personne qu'il connaissait fut saisi d'une terreur indéfi-
 
-[p. 104]
-
-104
+[p. 104] 104
 LES FONCTIONS GÉNÉRALES DE LA CONSCIENCE
 
 nissable, parce qu'il lui sembla qu'ilavait déjà ressenti cette impres-
@@ -5901,9 +5605,7 @@ de pathologique . Elles sont l'effet constant et normal de l'habitude
 la condition du progrès de l'esprit. Nous n'avons qu'à exercer nos
 facultés de contrôle avec soin, pour n'en pas être dupes .
 
-[p. 105]
-
-CHAPITRE VIII
+[p. 105] CHAPITRE VIII
 
 L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
 
@@ -5954,11 +5656,7 @@ souvent comme une pure conséquence de la mémoire, puisqu'elles
 expliquent l'ordre de reproduction, mais il est aisé de voir qu'elles
 sont une fonction tout à fait différente
 : elles commandent à cet ordre ,
-luidonnent une physionomie nouvelle et originale , sont la condition
-
-[p. 106]
-
-de toute combinaison psychologique et par là jouent un rôle nou-
+luidonnent une physionomie nouvelle et originale , sont la condition [p. 106] de toute combinaison psychologique et par là jouent un rôle nou-
 veau et bien distinct. Comme l'avait vu la psychologie anglaise , dite
 psychologic associationiste , les lois de l'association sont la manifesta-
 tion d'une des fonctions primordiales de la conscience : la fonction
@@ -6006,9 +5704,7 @@ elle y perçoit nettement, après coup, le travail associatif : le rêve, la
 rêverie , l'imagination reproductrice, les émotions, les perceptions ,
 les actes impulsifs nous en fourniront des exemples . Dans ces deux
 
-[p. 107]
-
-L'ASSOCIATION ET LA FONCTION DINTÉGRATION
+[p. 107] L'ASSOCIATION ET LA FONCTION DINTÉGRATION
 107
 
 cas , l'automatisme de l'association la fait dépendre de l'habitude ;
@@ -6056,9 +5752,7 @@ qualitative . Celle-ci a lieu entre des propriétés qui sans doute ne
 peuvent pas s'identifier, mais qui paraissent néanmoins de même
 famille . » Une couleur rouge rappelle celle du sang.
 
-[p. 108]
-
-c) « Une ressemblance encore plus éloignée , c'est la ressemblance
+[p. 108] c) « Une ressemblance encore plus éloignée , c'est la ressemblance
 de rapports ou analogie . Ici, la représentation d'un rapport entre les
 parties ou les propriétés d'un objet suscite la représentation d'un
 autre objet, entre les parties ou propriétés duquel existe un rap-
@@ -6112,9 +5806,7 @@ B. Association par contiguïté :
 DEUXIÈME LOL : Une represen-
 tation qui se présente toujours simultanément avec une autre , ou
 
-[p. 109]
-
-L'ASSOCIATION
+[p. 109] L'ASSOCIATION
 109
 
 -
@@ -6168,11 +5860,7 @@ dales ... Arrivé au neuvième mois le cerveau de l'enfant est achevé
 dans son ensemble... Mais son développement se combine et se
 perfectionne dans le détail ; on voit encore apparaître de nouvelles
 
-8
-
-[p. 110]
-
-fibres médullaires jusqu'à la fin de la deuxième année ... En mesu-
+8 [p. 110] fibres médullaires jusqu'à la fin de la deuxième année ... En mesu-
 rant l'épaisseur comparative des couches de fibres tangentielles ,
 on voit qu'elle augmente certainement jusqu'à quarante ou cin-
 quante ans . Les cellules ne croissent pas en nombre, mais en éten-
@@ -6228,9 +5916,7 @@ vores de communication plus spéciales qui abondent surtout dans
 les circonvolutions ne renfermant pas de centres moteurs . <<Elles
 comprennent : 1º les fibres tangentielles , qui sont intra-corticales ... :
 
-[p. 111]
-
-L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
+[p. 111] L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
 111
 
 fibresarques
@@ -6330,9 +6016,7 @@ Centres d'association (face externe du cerveau).
 
 CENTRES ET FIBRES D'ASSOCIATION .
 
-[p. 112]
-
-112
+[p. 112] 112
 LES FONCTIONS GÉNÉRALES DE LA CONSCIENCE
 
 2º les fibres arquées tendues d'une circonvolution à l'autre ; 3° les
@@ -6390,9 +6074,7 @@ D'ailleurs ses partisans , comme Claparède, considèrent comme la
 principale objection qui peut être faite à la seconde théorie la diffi-
 culté qu'elle a à relier l'association consciente à la transmission
 
-[p. 113]
-
-L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
+[p. 113] L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
 113
 
 d'énergie à travers les connexions nerveuses . On s'imagine difficile-
@@ -6449,9 +6131,7 @@ mentions sur ses ressorts intimes, et que nous voyions ce qui se
 passe dans le cerveau . Aussi la psychologie scientifique , qui est
 expérimentale et physiologique , a-t-elle une inclination vers elle .
 
-[p. 114]
-
-De plus l'association par contiguïté n'est guère autre chose qu'une
+[p. 114] De plus l'association par contiguïté n'est guère autre chose qu'une
 habitude . Elle répète dans la conscience l'ordre dans lequel ses états
 se sont déjà présentés, et se présentent d'habitude . Le principe de
 l'habitude , sans rien supposer d'autre , suffit donc à rendre compte
@@ -6506,9 +6186,7 @@ continuation d'actes semblables. Une preuve indirecte peut en
 être donnée dans ce fait que « l'association par ressemblance atteint
 son maximum de facilité et d'intensité lorsque le cerveau est dans
 
-[p. 115]
-
-L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
+[p. 115] L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
 115
 un état de vitalité exubérante ou de forte tension . C'est ce qui
 arrive chez le voyant, chez le poète ou chez le penseur que
@@ -6556,11 +6234,7 @@ Il ne suffit pas en effet que l'ètre vivant garde les souvenirs et les
 habitudes que lui ont fait acquérir les expériences passées . Il faut
 encore qu'il puisse se servir de ces souvenirs et de ces habitudes
 selon les circonstances , par suite , qu'il associe à certaines représen-
-tations , certains souvenirs et certaines habitudes qui les accom
-
-[p. 116]
-
-pagnent d'ordinaire . Il a ainsi immédiatement tous les éléments
+tations , certains souvenirs et certaines habitudes qui les accom [p. 116] pagnent d'ordinaire . Il a ainsi immédiatement tous les éléments
 nécessaires à l'acte que les circonstances exigent de lui . Il sera encore-
 mieux armé pour la vie, s'il peut associer à ces représentations non
 seulement tout ce qui y est relié d'ordinaire, et d'une façon habi-
@@ -6604,9 +6278,7 @@ et la douleur ne nous présentent-ils pas en un seul état la syn-
 thèse d'impressions très nombreuses et très rapides ?
 Pour sortir de ce domaine très hypothétique , l'observation nous
 
-[p. 117]
-
-L'ASSOCIATION ET LA FONCTION DINTEGRATION
+[p. 117] L'ASSOCIATION ET LA FONCTION DINTEGRATION
 117
 
 montre incontestablement, alors , l'œuvre de l'association , dans la
@@ -6659,9 +6331,7 @@ de la psychologie une science , car il n'y a pas de science sans [^p117-1] [^p11
 [^p117-1]: Cf. , pour plus de détails , les parties de cet ouvrage où il est traité spécialement des opérations ici mentionnées .
 [^p117-2]: Cf. , pour le détail de cette réduction : l'activité créatrice de l'esprit (p. 278) , la théorie des principes rationnels (p . 948) et la genèse de la conscience morale (p . 700) . !
 
-[p. 118]
-
-un essai de réduction du complexe au simple , sans la recherche
+[p. 118] un essai de réduction du complexe au simple , sans la recherche
 d'une unité profonde de développement au-dessous des diversités
 apparentes . Elle a aussi fait entrevoir la possibilité de découvrir
 par une observation et une expérimentation scientifiques
@@ -6705,9 +6375,7 @@ futurs , en consolidant les acquisitions anciennes, que le ressort
 interne de cette évolution . Telles sont du moins les idées les plus
 répandues dans la psychologie actuelle .
 
-[p. 119]
-
-CHAPITRE
+[p. 119] CHAPITRE
 IX
 
 L'ATTENTION ET LA FONCTION DE DISCRIMINATION
@@ -6769,9 +6437,7 @@ extrêmement grossie et puissante : la surprise , l'attention volontaire
 ou réflexion , et la méditation , ou réflexion opiniâtre et poursuivie
 avec méthode et durée .
 
-[p. 120]
-
-III .
+[p. 120] III .
 CONDITIONS PSYCHOLOGIQUES .
 
 -
@@ -6823,9 +6489,7 @@ tanées fussent appréhendées d'un seul coup et fixées par l'attention . [^p12
 
 [^p120-1]: On peut noter deux états différents de distraction. Le premier, c'est l'abolition presque totale de l'attention . La conscience ne se fixe sur rien, devient instable et se dissout . Le deuxième a pour cause une attention trop vive à un état particulier, qui empêche alors d'appréhender tout ce qui ne concerne pas cet état (distractions des savants , de l'homme vivement intéressé par une idée ou une action, etc.) . Les effets dans les deux cas sont les mêmes . La conscience ne discerne plus suffisamment les impres- sions qui la frappent.
 
-[p. 121]
-
-L'ATTENTION ET LA FONCTION DE DISCRIMINATION
+[p. 121] L'ATTENTION ET LA FONCTION DE DISCRIMINATION
 121
 
 Les expériences de Wundt etJevons sontnettement pour l'affirmative ,
@@ -6882,11 +6546,7 @@ de telle sorte que les impressions du monde extérieur soient toutes
 science,
 sans qu'aucune prédomine et entraîne une adaptation
 motrice appropriée , serait bien mal armé pour sa conservation . >>>
-(Th . Ribot. )
-
-[p. 122]
-
-122
+(Th . Ribot. ) [p. 122] 122
 LES FONCTIONS GÉNÉRALES DE LA CONSCIENCE
 
 Par là s'explique cette intéressante remarque des psycho-physi-
@@ -6941,9 +6601,7 @@ celle qui, en français, désigne un penseur vif, mais superficiel ,
 comme incapable d'une œuvre de longue haleine . » Le bâillement,
 le soupir qui suivent un effort soutenu d'attention sont probable
 
-[p. 123]
-
-L'ATTENTION ET LA FONCTION DE DISCRIMINATION
+[p. 123] L'ATTENTION ET LA FONCTION DE DISCRIMINATION
 123
 
 ment les effets du ralentissement de la respiration. La bouche
@@ -6992,11 +6650,7 @@ les cas où les conditions sont grossies, puis nous passerons au cas
 général. L'attention donnée à une impression extérieure « contracte
 le frontal... En se contractant, il tire à lui le sourcil , l'élève et
 détermine des rides transversales sur le front : par suite l'œil est
-grand ouvert, bien éclairé... La réflexion (attention à un fait interne)
-
-[p. 124]
-
-124
+grand ouvert, bien éclairé... La réflexion (attention à un fait interne) [p. 124] 124
 LES FONCTIONS GÉNÉRALES DE LA CONSCIENCE
 
 s'exprime d'une autre manière presque inverse . Elle agit sur l'orbi-
@@ -7049,9 +6703,7 @@ sensoriel prend volontairement la position appropriée à la percep-
 tion de l'excitation... A chaque instant il nous arrive plusieurs
 impressions , et, comme l'attention ne peut se tourner que vers une
 
-[p. 125]
-
-L'ATTENTION ET LA FONCTION DE DISCRIMINATION
+[p. 125] L'ATTENTION ET LA FONCTION DE DISCRIMINATION
 125
 
 seule d'entre elles, un choix estnécessaire . » (Höffding, 154.) Ce choix
@@ -7104,11 +6756,7 @@ est contradictoire dans les termes . Conscience suppose différencia-
 tion d'un état d'avec un autre , discrimination , comme , au point de
 vue physiologique, activité nerveuse suppose variation de l'énergie
 
-9
-
-[p. 126]
-
-126
+9 [p. 126] 126
 LES FONCTIONS GÉNÉRALES DE LA CONSCIENCE
 
 du système
@@ -7172,9 +6820,7 @@ celles de l'attention spontanée .
 Quant à l'attention
 volontaire qui se produit par un effort
 
-[p. 127]
-
-L'ATTENTION ET LA FONCTION DE DISCRIMINATION
+[p. 127] L'ATTENTION ET LA FONCTION DE DISCRIMINATION
 127
 
 conscient, réfléchi et pour un but que nous déterminons nous-
@@ -7231,11 +6877,7 @@ donc comme une opération éminemment active de l'esprit . Voulons-
 nous faire attention à quelque chose, nous tendons pour ainsi dire
 toute notre énergie mentale sur cet objet, si bien que, dans certains
 cas , par une sorte d'hallucination , nous voyons ce que nous voulons
-voir, et non ce qui est réellement . Les conditions biologiques de
-
-[p. 128]
-
-128
+voir, et non ce qui est réellement . Les conditions biologiques de [p. 128] 128
 LES FONGTIONS GÉNÉRALES DE LA CONSCIENCE
 
 l'attention ne peuvent donc être que les effets dont cette faculté est
@@ -7288,9 +6930,7 @@ disponible . Cet état de conscience tire son aspect et son contenu de [^p128-2]
 [^p128-1]: Voir p . 342 .
 [^p128-2]: Voir p . 426 .
 
-[p. 129]
-
-L'ATTENTION ET LA FONCTION DE DISCRIMINATION
+[p. 129] L'ATTENTION ET LA FONCTION DE DISCRIMINATION
 129
 
 toutes les modifications organiques qui s'exercent en ce moment,
@@ -7338,11 +6978,7 @@ sommeil . Un cortège si important de modifications organiques nous
 montre bien quelle grande place l'attention tient dans notre vie
 psychique, aussi bien que dans notre vie organique. » (Nayrac,
 Revue Scientifique 1906, I, p. 423.) L'attention, inséparable de
-l'effort et de la volonté (les partisans de la théorie psychologique
-
-[p. 130]
-
-disent même qu'elle leur est identique , et tous s'accordent pour
+l'effort et de la volonté (les partisans de la théorie psychologique [p. 130] disent même qu'elle leur est identique , et tous s'accordent pour
 voir dans ces trois phénomènes des phénomènes très voisins) est,
 dans l'organisme psychologique, le grand facteur de l'adaptation.
 Elle dirige la formation des nouvelles habitudes, qui viennent
@@ -7393,9 +7029,7 @@ nouvelles
 sensations
 du même
 
-[p. 131]
-
-L'ATTENTION ET LA FONCTION DE DISCRIMINATION
+[p. 131] L'ATTENTION ET LA FONCTION DE DISCRIMINATION
 131
 
 ordre , différentes même des précédentes quant à l'intensité ou à
@@ -7442,9 +7076,7 @@ devient stable , fixe, qui ne peut être délogé de la conscience. Ce [^p131-1]
 
 [^p131-1]: Voir l'étude particulière de tous ces faits, dans la suite de l'ouvrage, pour plus de détails sur le rôle de l'attention .
 
-[p. 132]
-
-n'est plus un simple antagoniste de l'association spontanée bornant
+[p. 132] n'est plus un simple antagoniste de l'association spontanée bornant
 son rôle à la gouverner ; c'est un pouvoir destructeur, tyrannique ;
 qui s'asservit tout, qui ne permet à la prolifération des idées de
 se faire que dans un seul sens , qui emprisonne le courant de la
@@ -7494,9 +7126,7 @@ comme toutes les forces naturelles , peut s'appliquer jusqu'à l'extra-
 vagance , mais ne peut que se transformer ; au fond , elle ne change
 pas de nature . C'est comme un vent léger qui devient tempête . >>>
 
-[p. 133]
-
-L'ATTENTION ET LA FONCTION DE DISCRIMINATION
+[p. 133] L'ATTENTION ET LA FONCTION DE DISCRIMINATION
 133
 
 << 3º Le troisième groupe comprend une infirmité congénitale ;
@@ -7545,11 +7175,7 @@ manifestement la sensation présente pour s'appliquer à un état
 possible » , par l'intermédiaire (association) de l'image actuelle d'un
 état passé (mémoire) .
 (Id. , p . 90 et 91. ) « Ces détails suffisent,
-croyons -nous , à mettre en lumière l'unité profonde des processus
-
-[p. 134]
-
-134
+croyons -nous , à mettre en lumière l'unité profonde des processus [p. 134] 134
 LES FONCTIONS GÉNÉRALES DE LA CONSCIENCE
 
 physiologiques de la reconnaissance , de l'association et de l'atten-
@@ -7563,9 +7189,7 @@ nies du milieu .
 L'habitude et l'adaptation sont à la base de tout ce processus , dirigé
 en somme par l'utilité pratique .
 
-[p. 135]
-
-LIVRE
+[p. 135] LIVRE
 IV
 
 LES FAITS REPRÉSENTATIFS
@@ -7629,11 +7253,7 @@ conscience très simples , immédiatement consécutifs , semble-t-il , à
 une impression
 qui émane de l'objet
 et s'exerce sur nos or-
-ganes sensoriels : ce sont les sensations . Elles jouent dans la vie
-
-[p. 136]
-
-36
+ganes sensoriels : ce sont les sensations . Elles jouent dans la vie [p. 136] 36
 LES FAITS REPRÉSENTATIFS
 
 •
@@ -7689,9 +7309,7 @@ sont très restreintes et très grossières . La sensibilité y commence à
 peine à se distinguer de l'irritabilité, qui est la propriété élémentaire
 du tissu vivant. Les différents sens sont sortis par évolution de cette
 
-[p. 137]
-
-LES ÉLÉMENTS
+[p. 137] LES ÉLÉMENTS
 : LES SENSATIONS
 137
 
@@ -7742,9 +7360,7 @@ l'ouïe
 (expériences
 de Helmholtz , W. James , Anderson) .
 
-[p. 138]
-
-138
+[p. 138] 138
 LES FAITS REPRÉSENTATIFS
 
 6) L'ASPECT DES SENSATIONS DÉPEND AUSSI DE LA RAPIDITÉ AVEC LA-
@@ -7802,11 +7418,7 @@ f) TONALITÉ DE LA SENSATION . –
 Une sensation influe toujours sur
 la vie organique de l'individu , d'où un état agréable ou désagréable ,
 qui constitue comme le ton de la sensation . Cette tonalité est en
-raison inverse de la clarté, de la représentativité de la sensation ;
-
-[p. 139]
-
-LES ÉLÉMENTS
+raison inverse de la clarté, de la représentativité de la sensation ; [p. 139] LES ÉLÉMENTS
 : LES SENSATIONS
 139
 
@@ -7862,11 +7474,7 @@ l'on peut considérer que toute sensation éveille très vraisemblable-
 ment dans la conscience la notion de durée et que celle- ci est un
 caractère primitif de la sensation (Bourdon).
 1) ÉTENDUE OU EXTENSIVITÉ DES SENSATIONS .
-Jusqu'à ces dernières
-
-[p. 140]
-
-140
+Jusqu'à ces dernières [p. 140] 140
 LES FAITS REPRÉSENTATIFS
 
 années , la psychologie considérait que la sensation était par elle-
@@ -7922,9 +7530,7 @@ a) LES ORGANES SENSORIELS .
 particulières relatives à chaque sens . - D'une façon générale, les sens
 se composent d'une quantité énorme de petits filaments nerveux
 
-[p. 141]
-
-LES ÉLÉMENTS
+[p. 141] LES ÉLÉMENTS
 : LES SENSATIONS
 145
 qui sont les arborescences terminales des prolongements de tête
@@ -7975,11 +7581,7 @@ calorique .
 pression serait une action chimique déterminée par l'énergie dépen-
 sée dans le mouvement excitatoire , action chimique qui modifierait
 
-10
-
-[p. 142]
-
-142
+10 [p. 142] 142
 LES FAITS REPRÉSENTATIFS
 
 l'état des terminaisons sensorielles . Wundt distinguait les sens en
@@ -8030,9 +7632,7 @@ aux centres par les nerfs, qui les relient aux organes sensoriels . La
 physiologie est très peu avancée sur la nature de ce phénomène de
 transmission . Certains y voient la propagation d'un mouvement on
 
-[p. 143]
-
-LES ÉLÉMENTS : LES SENSATIONS
+[p. 143] LES ÉLÉMENTS : LES SENSATIONS
 143
 
 dulatoire (l'onde nerveuse ou l'influx nerveux), analogue , peut-
@@ -8084,11 +7684,7 @@ nerfs sensoriels paraissent destinés à une première élaboration des
 modifications nerveuses . Et cette élaboration consiste sans doute en
 une
 synthèse qui rassemble, combine , et fond en un tout, des
-impressions multiples, car le nombre des fibres que ces centres
-
-[p. 144]
-
-144
+impressions multiples, car le nombre des fibres que ces centres [p. 144] 144
 LES FAITS REPRÉSENTATIFS
 
 envoient aux centres supérieurs est infiniment moins considérable
@@ -8164,9 +7760,7 @@ faut pas perdre de vue, dans toute cette question, c'est la nature.
 extrêmement compliquée des processus qui ont lieu dans le cerveau >>>
 et dont nous ignorons à peu près tout.
 
-[p. 145]
-
-LES ÉLÉMENTS
+[p. 145] LES ÉLÉMENTS
 : LES SENSATIONS
 145
 d) DURÉE DU TRAVAIL PHYSIOLOGIQUE .- On n'a pas de peine à com-
@@ -8216,9 +7810,7 @@ réaction motrice) ;
 << 7º Le temps requis pour produire la contraction musculaire . >>>
 (Th . Ribot , Psychologic allemande, p. 15, 19) .
 
-[p. 146]
-
-146
+[p. 146] 146
 LES FAITS REPRÉSENTATIFS
 
 Ces temps sont connus, sauf le premier, « qui n'a pu être étudié
@@ -8269,9 +7861,7 @@ a d'abord été faite pour les sensations de l'ouïe . Dans un son très
 bas , l'oreille distingue déjà avec un peu d'attention les pulsations
 successives dont le total fournit la sensation. Des appareils absolu
 
-[p. 147]
-
-LES ÉLÉMENTS
+[p. 147] LES ÉLÉMENTS
 : LES SENSATIONS
 147
 
@@ -8339,9 +7929,7 @@ Il nous reste à étudier maintenant l'action extérieure ou
 (RALES .
 -
 
-[p. 148]
-
-148
+[p. 148] 148
 LES FAITS REPRÉSENTATIFS
 
 excitation qui vient impressionner l'organisme. Ici encore
@@ -8395,9 +7983,7 @@ que ce mouvement ait une certaine intensité. Au-dessous , tout se
 passe comme si aucun ébranlement n'était communiqué à l'organe
 sensoriel . Il y a donc un minimum d'excitation qui est défini par la
 
-[p. 149]
-
-LES ÉLÉMENTS
+[p. 149] LES ÉLÉMENTS
 : LES SENSATIONS
 149
 
@@ -8455,11 +8041,7 @@ pas constamment des sensations de chaleur. Il faut donc déterminer
 de combien cette température de la peau, où l'on ne sent ni chaud
 ni froid , doit être élevée ou abaissée pour produire le minimum
 de chaud et de froid. Or, cette température varie suivant l'instant,
-et la partie du corps . Pour la main, elle est à peu près 18 °4′, et il
-
-[p. 150]
-
-150
+et la partie du corps . Pour la main, elle est à peu près 18 °4′, et il [p. 150] 150
 LES FAITS REPRÉSENTATIFS
 
 faut alors 1/8° de degré, en plus ou en moins, pour qu'on sente une
@@ -8511,9 +8093,7 @@ mesure et la lumière qui doit être mesurée, c'est-à-dire notre œil .
 Nous considérons l'ombre projetée par la règle sur le tableau : en
 même temps on éloigne de plus en pluslalumière. Par suite, l'ombre
 
-[p. 151]
-
-LES ÉLÉMENTS
+[p. 151] LES ÉLÉMENTS
 : LES SENSATIONS
 151
 
@@ -8561,11 +8141,7 @@ entend des bruits qui, pendant le jour, passent inaperçus , le tictac
 de la pendule, le léger vent coulis qui passe par la cheminée, etc.
 A un poids de 10 grammes que vous tenez dans la main ajoutez un
 autre poids de 10 grammes, vous sentirez clairement la différence ;
-mais, si vous ajoutez ce poids de 10 grammes à un quintal, la dif
-
-[p. 152]
-
-152
+mais, si vous ajoutez ce poids de 10 grammes à un quintal, la dif [p. 152] 152
 LES FAITS REPRÉSENTATIFS
 
 férence n'est plus sentie ... Que signifient ces phénomènes ? Ils signi-
@@ -8617,9 +8193,7 @@ imperceptible .
 La deuxième méthode , dite des cas vrais et faux, consiste à prendre
 des excitations, des poids , par exemple, différant très pew, et à les
 
-[p. 153]
-
-LES ÉLÉMENTS
+[p. 153] LES ÉLÉMENTS
 : LES SENSATIONS
 153
 
@@ -8678,9 +8252,7 @@ de1/3
 de 1/17°
 de 1/100°
 
-[p. 154]
-
-154
+[p. 154] 154
 LES FAITS REPRÉSENTATIFS
 
 Ces nombres ont permis d'énoncer la loi générale suivante « qui
@@ -8729,9 +8301,7 @@ Elle nous donne des renseignements importants sur la nature de
 la sensation : « Elle nous apprend qu'il n'y a point égalité ni équi-
 valence entre les variations d'intensité objective (excitation) et les
 
-[p. 155]
-
-LES ÉLÉMENTS
+[p. 155] LES ÉLÉMENTS
 LES SENSATIONS
 155
 
@@ -8781,11 +8351,7 @@ par rapport à ces états : elle exprime non seulement une impression
 donnée, mais aussi la différence qu'il y a entre cette impression
 etles impressions antécédentes ou concomitantes . (Voir loi de Weber. )
 En un mot , elle est relative à un ensemble : elle se présente comme
-une comparaison élémentaire et spontanée (Höffding) ; c'est,du reste,
-
-[p. 156]
-
-156
+une comparaison élémentaire et spontanée (Höffding) ; c'est,du reste, [p. 156] 156
 LES FAITS REPRÉSENTATIFS
 
 nous le savons , un des caractères généraux de la conscience elle-
@@ -8844,9 +8410,7 @@ lier
 : ils ne sont sentis que fondus ensemble . Elle est toujours
 partie intégrante d'une synthèse plus large encore, qui lui donne
 
-[p. 157]
-
-LES ÉLÉMENTS
+[p. 157] LES ÉLÉMENTS
 : LES SENSATIONS
 157
 
@@ -8898,11 +8462,7 @@ résultante par des composantes qui n'ont rien de commun avec
 elle , est absurde . D'ailleurs , qu'est-ce que ces éléments physio-
 logiques ? Ce sont des images nous représentant des organes d'une
 
-11
-
-[p. 158]
-
-158
+11 [p. 158] 158
 LES FAITS REPRÉSENTATIFS
 
 forme particulière , impressionnés par des particules matérielles ;
@@ -8951,9 +8511,7 @@ qu'il soit , rotatoire, ondulatoire ou tout autre , ne ressemble en rien
 à la sensation de l'amer, du jaune, du froid ou de la douleur. Nous
 ne pouvons convertir aucune des deux conceptions en l'autre, et
 
-[p. 159]
-
-LES ÉLÉMENTS
+[p. 159] LES ÉLÉMENTS
 : LES SENSATIONS
 159
 
@@ -9005,9 +8563,7 @@ que la seconde théorie a le droit de l'analyser et de parler des rap-
 ports mesurables qu'elle découvre entre ses propriétés et ses con-
 ditions physiologiques et physiques .
 
-[p. 160]
-
-160
+[p. 160] 160
 LES FAITS REPRÉSENTATIFS
 
 VI.
@@ -9062,11 +8618,7 @@ comme Taine , Strong, être de véritables sensations . Ce sont plutôt
 des états spéciaux capables d'accompagner n'importe quelle sensa-
 tion et qui ont des conditions toutes différentes de celles des sen-
 sations . Malgré tous les efforts que l'on a faits il a été impossible de
-trouver un organe sensoriel du plaisir et de la douleur . Les sensa-
-
-[p. 161]
-
-LES ÉLÉMENTS
+trouver un organe sensoriel du plaisir et de la douleur . Les sensa-[p. 161]LES ÉLÉMENTS
 : LES SENSATIONS
 161
 
@@ -9123,9 +8675,7 @@ refroidissement de la peau, mais simplement à une hyperesthésie des
 nerfs du froid , qui leur font sentir tout contact et en particulier le
 souffle de l'air comme un froid très vif .
 
-[p. 162]
-
-162
+[p. 162] 162
 LES FAITS REPRÉSENTATIFS
 
 -
@@ -9179,9 +8729,7 @@ d'odeur piquante donnée par l'ammoniaque . Pour les sensations
 de saveur , l'acreté, l'astringeance, l'irritation, la chaleur, la fraî-
 cheur , appartiennent nécessairement aux sensations cutanées .
 
-[p. 163]
-
-LES ÉLÉMENTS
+[p. 163] LES ÉLÉMENTS
 : LES SENSATIONS
 163
 
@@ -9218,9 +8766,7 @@ question, tout ouvrage, toute discussion, où ce terme est employé,
 des différents sens qu'il peut avoir, et toujours préciser soi-même
 le sens où on le prend .
 
-[p. 164]
-
-CHAPITRE XI
+[p. 164] CHAPITRE XI
 
 L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LES PERCEPTIONS
@@ -9275,9 +8821,7 @@ et nous apparaissent comme pro-
 duites directement par nous-mèmes ; elles nous donnent alors la
 notion de notre propre personnalité, de notre moi : c'est la percep
 
-[p. 165]
-
-L'ACTIVITÉ SPONTANÉE
+[p. 165] L'ACTIVITÉ SPONTANÉE
 : LES PERCEPTIONS ET LES IMAGES
 165
 
@@ -9329,9 +8873,7 @@ de l'espace , et dans un endroit donné.
 Elle est donc étendue et
 localisée .
 
-[p. 166]
-
-466
+[p. 166] 466
 LES FAITS REPRÉSENTATIFS
 
 II .
@@ -9381,9 +8923,7 @@ de plus, les sensations correspondant aux impressions antérieures
 sont conservées ou encore reproduites dans la mémoire, tandis que
 les impressions suivantes se produisent tour à tour . » (Höffding, 152.)
 
-[p. 167]
-
-L'ACTIVITÉ SPONTANÉE
+[p. 167] L'ACTIVITÉ SPONTANÉE
 : LES PERCEPTIONS ET LES IMAGES
 167
 
@@ -9441,11 +8981,7 @@ Compayré) un atlas visuel
 qui nous représente les différents points de notre corps , et les dif-
 férents points du milieu où nous nous trouvons placés . Les deux
 atlas s'associent entre eux, et une perception quelconque comprend
-essentiellement une image constitutive visuelle de l'objet représenté,
-
-[p. 168]
-
-168
+essentiellement une image constitutive visuelle de l'objet représenté, [p. 168] 168
 LES FAITS REPRÉSENTATIFS
 
 carla vue , à cause de son champ d'action , devient vite prédomi-
@@ -9493,9 +9029,7 @@ perceptions extérieures sont tous rapportés à despoints précis de l'es-
 pace. Si bien que ce qui ne coïncide pas avec cette forte organisa-
 tion etce repérage est rejeté dans le domaine de l'irréel et du rêve .
 
-[p. 169]
-
-L'ACTIVITÉ SPONTANÉE
+[p. 169] L'ACTIVITÉ SPONTANÉE
 : LES PERCEPTIONS ET LES IMAGES
 169
 
@@ -9545,11 +9079,7 @@ liers se délimitent, grâce à des perceptions et à des expérimentations
 faites avee le toucher et en mouvant un ou plusieurs organes . >>>
 (Hoff'ding, 263.)
 L'aveugle opéré par Franz (1840) ne fut pas capable de former
-l'image d'un carré ou d'un disque jusqu'à ce qu'il eût éprouvé aux
-
-[p. 170]
-
-170
+l'image d'un carré ou d'un disque jusqu'à ce qu'il eût éprouvé aux [p. 170] 170
 LES FAITS REPRÉSENTATIFS
 
 extrémités des doigts la même sensation que s'il eût réellement tou-
@@ -9603,11 +9133,7 @@ logue à la nôtre, ainsi que le montre l'observation de Platner.
 rents (par exemple de droite à gauche et de gauche à droite, de
 haut en bas et de bas en haut) la série successive de nos sensations ,
 ce qui nous les fait considérer comme permanentes et simultanées .
-Car, dans le temps , l'ordre des sensations ne dépend pas de nous ;
-
-[p. 171]
-
-L'ACTIVITÉ SPONTANÉE
+Car, dans le temps , l'ordre des sensations ne dépend pas de nous ; [p. 171] L'ACTIVITÉ SPONTANÉE
 : LES PERCEPTIÓNS ET LES IMAGES
 174
 
@@ -9659,9 +9185,7 @@ les objets touchaient ses yeux . L'opéré de Franz (1840) prenait un
 dé pour un carré, une boule pour un disque et une pyramide pour
 un triangle . Tous les objets étaient plats .
 
-[p. 172]
-
-172
+[p. 172] 172
 LES FAITS REPRÉSENTATIFS
 
 La perception de la distance comme celle de l'étendue ne peut
@@ -9714,9 +9238,7 @@ Vimage totale de notre corps . Nous avons une confirmation de
 l'exactitude de ce processus dans les illusions des amputés . L'am-
 puté continue à sentir les douleurs et les impressions de contact
 
-[p. 173]
-
-L'ACTIVITÉ SPONTANÉE
+[p. 173] L'ACTIVITÉ SPONTANÉE
 : LES PERCEPTIONS ET LES IMAGES
 173
 
@@ -9766,11 +9288,7 @@ rieur comme une seule chose qui agirait successivement sur lui ;
 avec plus de force , par exemple, quand il pose la main sur une
 surface que lorsqu'ily met le doigt; avec moins de force quand il la
 
-12
-
-[p. 174]
-
-174
+12 [p. 174] 174
 LES FAITS REPRÉSENTATIFS
 
 1
@@ -9821,9 +9339,7 @@ le signe d'un acte pratique à exécuter qu'elle éveille tous les élé-
 ments d'information (images antérieures ) nécessaires à cet acte .
 Les conditions générales de la perception sont donc les conditions
 
-[p. 175]
-
-L'ACTIVITÉ SPONTANÉE
+[p. 175] L'ACTIVITÉ SPONTANÉE
 : LES PERCEPTIONS ET LES IMAGES
 175
 
@@ -9871,11 +9387,7 @@ plus haute de celui de la reconnaissance, et un cas particulier de
 T'habitude et de l'adaptation organiques, lorsque s'y mêle ety inter-
 vient la conscience .
 Les excitations sensorielles provoquent en nous des mouvements ;
-mais ces excitations sensorielles sont infiniment plus nombreuses
-
-[p. 176]
-
-176
+mais ces excitations sensorielles sont infiniment plus nombreuses [p. 176] 176
 LES FAITS REPRÉSENTATIFS
 
 que les mouvements dont nous disposons pour y répondre . Il en
@@ -9921,9 +9433,7 @@ une seule indication devient l'équivalent d'une multitude d'autres ,
 et abrège considérablement notre travail en économisant nos efforts .
 Pourquoi cette synthèse se fait-elle chez tous les individus , de
 
-[p. 177]
-
-L'ACTIVITÉ SPONTANÉE
+[p. 177] L'ACTIVITÉ SPONTANÉE
 . LES PERCEPTIONS ET LES IMAGES
 177
 
@@ -9971,11 +9481,7 @@ croyance à l'existence réelle d'images multiples empruntées au sou-
 venir (notions d'étendue, de distance, localisations , sensations di-
 verses) , suscitées par une
 sensation et qui
-se combinent avec
-
-[p. 178]
-
-178
+se combinent avec [p. 178] 178
 LES FAITS REPRÉSENTATIFS
 
 elle ; hallucination encore, puisque nous savons que tout cela est le
@@ -10018,9 +9524,7 @@ montrer aussi qu'elle est une synthèse associative . A la donnée . [^p178-1]
 
 [^p178-1]: Les illusions nombreuses connues sous le nom d'erreurs des sens viennent préci- sément de ce que l'éducation de ces derniers n'est jamais parfaite ; nous nous atten- dons à l'existence réelle de proprietés qui ne sont que des images subjectives suscitées par l'objet , alors que celui -ci ne les présente pas réellement. L'expérience nous apprend ensuite que notre attente est déçue . Epicure avait déjà exprimé cette remarque , devenue classique, en disant que les sens ne nous trompent jamais , mais que l'erreur vient de ce que nous ajoutons de notre propre cru à leurs données , de l'interprétation que nous en faisons grâce aux souvenirs de notre expérience passée . A l'origine nous étendons même cette objectivation toute image : le sauvage, le jeune enfant distinguent mal le rêve et l'imagination de la réalité. Certaines maladies mentales , les désorganisations passagères de la conscience aux moments où l'on s'endort amènent des confusions analogues . tant elle est naturelle à
 
-[p. 179]
-
-L'ACTIVITÉ SPONTANÉE
+[p. 179] L'ACTIVITÉ SPONTANÉE
 : LES PERCEPTIONS ET LES IMAGES
 179
 
@@ -10072,11 +9576,7 @@ la sélection des images, joue ici un rôle manifeste .
 D'une façon évidente aussi, dès que l'on a compris le rôle de
 l'attention ,
 se manifeste le ressort intime de la perception exté-
-ricure . C'est en dernière analyse la théorie de l'évolution qui nous
-
-[p. 180]
-
-180
+ricure . C'est en dernière analyse la théorie de l'évolution qui nous [p. 180] 180
 LES FAITS REPRÉSENTATIFS
 
 permet encore de l'apercevoir. Si l'attention a choisi certaines
@@ -10125,9 +9625,7 @@ réserver le mot de perception à la fonction, et d'employer celui
 de percept , pour le résultat . Mais on est forcé de tenir compte des
 locutions usuelles . Il suffit de faire attention au langage employé et
 
-[p. 181]
-
-L'ACTIVITÉ SPONTANÉE
+[p. 181] L'ACTIVITÉ SPONTANÉE
 : LES PERCEPTIONS ET LES IMAGES
 181
 
@@ -10144,9 +9642,7 @@ qu'on étend quelquefois au domaine des idées : une idée peut être
 appelée la représentation d'une classe d'objets, bien qu'on trouve
 rarement cette acception .
 
-[p. 182]
-
-1 .
+[p. 182] 1 .
 
 II.
 
@@ -10196,9 +9692,7 @@ diate, tout comme la perception d'un objet extérieur, avant l'analyse .
 De même que la perception externe posait
 avec force, en face des illusions, du rêve , de l'hallucination , l'exis
 
-[p. 183]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+[p. 183] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LES PERCEPTIONS
 183
 
@@ -10250,11 +9744,7 @@ Synthèse de la per-
 A. Combinaison des sensations .
 sonnalité : ses différents stades .
 C'est à la suite de l'étude
-pénétrante de Hume que la psychologie a fait l'analyse de la per
-
-[p. 184]
-
-184
+pénétrante de Hume que la psychologie a fait l'analyse de la per [p. 184] 184
 LES
 FAITS REPRÉSENTATIFS
 
@@ -10308,9 +9798,7 @@ toujours relative » , et ses éléments sont quelquefois en lutte . Son
 caractère composé, sporadique « n'apparaît pas seulement au début
 de la vie psychologique , mais aussi ultérieurement dans les crises
 
-[p. 185]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+[p. 185] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LES PERCEPTIONS
 185
 
@@ -10359,11 +9847,7 @@ perception externe . Elles nous montrent une combinaison d'états
 blable à la perception interne normale. Sur la personnalité qu'on
 peut appeler primitive et fondamentale, dont il subsiste des restes
 altérés, se greffenttour à tour deuxpersonnalités nouvelles non seu-
-lement très distinctes, mais qui s'excluent totalement . » (Th . Ribot,
-
-[p. 186]
-
-186
+lement très distinctes, mais qui s'excluent totalement . » (Th . Ribot, [p. 186] 186
 LES FAITS REPRÉSENTATIFS
 
 Maladies de la personnalité, 65. ) Les malades se sentent étrangers
@@ -10424,11 +9908,7 @@ peuvent, toutefois , être communs .
 e
 
 Ce qui peut-être est plus surprenant encore, c'est la double
-personnalité simultanée, les synthèses se développant parallèle-
-
-[p. 187]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+personnalité simultanée, les synthèses se développant parallèle-[p. 187]L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LES PERCEPTIONS
 187
 
@@ -10483,9 +9963,7 @@ la perception externe et en s'opposant à elle. Cette distinction se
 fait grâce aux sensations cénesthétiques et musculaires (sens vital
 et sens de l'effort) .
 
-[p. 188]
-
-188
+[p. 188] 188
 LES FAITS REPRÉSENTATIFS
 
 << Il faut qu'il y ait un ensemble fixe et dominateur de sensations,
@@ -10540,9 +10018,7 @@ comme fragments du dedans , comme états internes . Bien plus,
 << ils sont affectés d'une contradiction qui les nie comme objets ex-
 ternes » , car ces derniers forment autour de nous un enchainement
 
-[p. 189]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE : LES PERCEPTIONS
+[p. 189] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE : LES PERCEPTIONS
 189
 
 serré qui s'impose d'une façon absolue,
@@ -10594,11 +10070,7 @@ sente en un tout unique dans le champ de la conscience . Et nos
 états se coordonnent dans cette vie intérieure d'une façon aussi
 étroite et sûre que dans la représentation du monde extérieur .
 
-13
-
-[p. 190]
-
-190
+13 [p. 190] 190
 LES FAITS REPRÉSENTATIFS
 
 III .
@@ -10657,9 +10129,7 @@ tissus, l'unité à peu près constante del'appareil digestif établit néan-
 moins entre eux un certain nombre de rapports qui font que chaque
 individu ne peut demeurer absolument étranger à ce qui se passe
 
-[p. 191]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+[p. 191] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LES PERCEPTIONS
 191
 
@@ -10713,9 +10183,7 @@ toutes les individualités particulières ...
 excellence (Cf. chap . I et IV), est le signe visible d'un progrès
 vers une individualité ... plus harmonique. Mais cette centrali-
 
-[p. 192]
-
-192
+[p. 192] 192
 LES FAITS REPRÉSENTATIFS
 
 sation ne s'établit pas d'emblée . Chez les annélides, les gan-
@@ -10778,9 +10246,7 @@ psychologique des consciences élémentaires , la fusion de toute l'ac-
 tivité interne . Elle est le retentissement de l'unité physio-psycho-
 logique .
 
-[p. 193]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+[p. 193] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LES PERCEPTIONS
 193
 
@@ -10829,11 +10295,7 @@ tout ce qu'elle peut présenter de mystérieux. Les êtres ne se sont
 développés , n'ont vécu, en prenant peu à peu leur apparence
 actuelle, que grâce à cette coordination , infiniment plus étroite,
 plus une que la synthèse mécanique telle que nous la rencontrons
-dans le monde extérieur. Elle est d'ailleurs la seule qui pouvait
-
-[p. 194]
-
-194
+dans le monde extérieur. Elle est d'ailleurs la seule qui pouvait [p. 194] 194
 LES FAITS REPRÉSENTATIFS
 
 se réaliser dans le domaine psychologique, puisque celui-ci ne se
@@ -10882,9 +10344,7 @@ champ de notre conscience ne sont pas tous sur le même plan
 sont plus ou moins clairs et distincts , plus ou moins éclairés et
 paraissent aussi plus ou moins sous notre domination directe plus
 
-[p. 195]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+[p. 195] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LES PERCEPTIONS
 195
 
@@ -10935,11 +10395,7 @@ on le verra plus loin, et achève la notion de notre personnalité
 il n'apparaît d'ailleurs que dans une vie intérieure très évoluée
 (l'enfant, le sauvage, l'ignorent) . On peut, avec Paulhan , appeler
 pouvoir personnel, cette partie de notre personnalité, qui lui donne
-son unité la plus haute et la plus complète, mais aussi la dernière
-
-[p. 196]
-
-196
+son unité la plus haute et la plus complète, mais aussi la dernière [p. 196] 196
 LES FAITS REPRÉSENTATIFS
 
 à apparaître et la plus fragile, et on lui oppose notre spontanéité ,
@@ -10989,9 +10445,7 @@ moyens psychologiques (suggestions dans le somnambulisme arti-
 ficiel), et alors , à mesure que l'une d'elles apparaît, l'état particulier
 du corps , qui lui est lié, apparaît aussi.
 
-[p. 197]
-
-CHAPITRE XIII
+[p. 197] CHAPITRE XIII
 
 L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LES PERCEPTIONS
@@ -11049,11 +10503,7 @@ identique à soi, comme une personnalité . C'est du moins l'explica-
 tion à laquelle on est amené, si l'on reste placé au point de vue de
 la psychologie expérimentale .
 Mais nos souvenirs peuvent, il est facile de le
-constater par
-
-[p. 198]
-
-198
+constater par [p. 198] 198
 LES FAITS REPRÉSENTATIFS
 
 l'expérience , s'affranchir de Tordre qu'ils ont dans le temps ; ils
@@ -11103,9 +10553,7 @@ traces de ce qui l'a affectée . C'est en ce sens qu'il y a des images
 affectives et une mémoire affective , des images motrices et une mé-
 moire motrice qui rejoint, par transitions continues , l'habitude .
 
-[p. 199]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+[p. 199] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LES PERCEPTIONS
 199
 
@@ -11153,11 +10601,7 @@ laquelle nous inventons, c'est-à-dire , par laquelle progresse notre
 intelligence ; elle a ainsi une toute autre valeur, une toute autre por-
 tée que l'imagination reproductrice , qui n'est qu'un cas particulier
 de la perception, et se borne à peu près à répéter nos souvenirs .
-Pourtant cette dernière les groupe déjà dans un autre ordre , et, en
-
-[p. 200]
-
-200
+Pourtant cette dernière les groupe déjà dans un autre ordre , et, en [p. 200] 200
 LES FAITS REPRÉSENTATIFS
 
 ce sens , elle prélude à l'imagination créatrice . On ne peut donc
@@ -11209,11 +10653,7 @@ Cet effacement est plus ou moins grand selon les divers esprits
 et c'est ce qu'on exprime vulgairement en disant que les hommes
 ont plus ou moins de mémoire, en employant ce mot dans ce sens
 restreint , on devrait dire
-: plus ou moins d'imagination reproduc-
-
-[p. 201]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+: plus ou moins d'imagination reproduc-[p. 201]L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LES PERCEPTIONS
 201
 
@@ -11266,11 +10706,7 @@ Combien de fois arrive-t-il en cherchant quelqu'un dans une foule ,
 de croire l'avoir trouvé .
 3° L'image est , en général, pendant un instant si courtqu'ilsoit , prise
 pour ia réalité, lorsqu'elle est très vive . C'est ce qu'on appelle l'illu-
-lusion ; si cette méprise se prolongeait, l'illusion deviendrait hallu
-
-[p. 202]
-
-202
+lusion ; si cette méprise se prolongeait, l'illusion deviendrait hallu [p. 202] 202
 LES FAITS REPRÉSENTATIFS
 
 cination; mais , à l'état normal, comme nous le verrons en étudiant
@@ -11320,11 +10756,7 @@ pas qu'elle tient à la précédente ; c'est que l'idée qui semble la
 précédente ne l'est pas véritablement, entre les deux étaient les
 intermédiaires que l'habitude , l'inattention, la promptitude de
 l'opération nous ont empêchés de remarquer ; ces intermédiaires
-ont servi de transition invisible ... Hobbes , l'un des premiers fonda-
-
-[p. 203]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+ont servi de transition invisible ... Hobbes , l'un des premiers fonda-[p. 203]L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LES PERCEPTIONS
 203
 
@@ -11383,9 +10815,7 @@ qu'une qualité .
 Les images sont altérées inconsciemment par
 l'esprit qui , dans une certaine mesure , est dupe de cette altération .
 
-[p. 204]
-
-204
+[p. 204] 204
 LES FAITS REPRÉSENTATIFS
 
 De nombreuses observations ont montré cette altération continue ,
@@ -11437,9 +10867,7 @@ séquent, deux courants qui se feront constamment sentir dans la
 conscience, et dont tantôt l'un, tantôt l'autre aura la prépondé-
 rance » , selon le moment ou l'individu . « L'un est déterminé par la
 
-[p. 205]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE : LES PERCEPTIONS
+[p. 205] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE : LES PERCEPTIONS
 205
 
 sensation actuelle et par les représentations qu'elle tend à exciter
@@ -11495,11 +10923,7 @@ la perception , il y a dépendance du phénomène par rapport à des
 excitations externes et qu'ici le phénomène dépend uniquement
 des centres nerveux supérieurs . Mais , dans ces centres , les parties
 
-14
-
-[p. 206]
-
-206
+14 [p. 206] 206
 LES FAITS REPRÉSENTATIFS
 
 affectées sont les mêmes, car une même lésion cérébrale entraîne
@@ -11559,9 +10983,7 @@ ciations présentées par le hasard. Elle nous permet de mener une
 vie de souvenirs et de pensées et non plus exclusivement de sensa-
 tions et de perceptions . On a très justement comparé ces représen
 
-[p. 207]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+[p. 207] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LES PERCEPTIONS
 207
 
@@ -11595,9 +11017,7 @@ prit, ou à son activité rationnelle. Une imaginatiou reproductrice
 trop précise et trop riche peut alourdir l'esprit, en l'encombrant
 d'un bagage peu maniable .
 
-[p. 208]
-
-CHAPITRE
+[p. 208] CHAPITRE
 XIV
 
 L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
@@ -11655,9 +11075,7 @@ acte est une notion, un concept, une idée , ou, plus précisément, une
 
 ےہ
 
-[p. 209]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 209] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 209
 
@@ -11710,11 +11128,7 @@ a) Tout à fait en bas se placera l'idée que l'on peut se faire d'un
 seul objet en synthétisant les différentes perceptions et souvenirs
 que l'on en a eus : par exemple l'idée que je me fais de la table
 sur laquelle j'écris , qui fusionne toutes les images que j'ai pu
-avoir, chaque fois que j'ai vu cette table. Ces idées, très concrètes
-
-[p. 210]
-
-210
+avoir, chaque fois que j'ai vu cette table. Ces idées, très concrètes [p. 210] 210
 LES FAITS REPRÉSENTATIFS
 
 encore , forment la transition naturelle de la perception au concept :
@@ -11764,9 +11178,7 @@ s'opèrent en même temps et réagissent l'une sur l'autre. Nous ne
 les séparons que pour la commodité de l'étude analytique . L'abs-
 traction a d'ailleurs une tendance à précéder la généralisation .
 
-[p. 211]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 211] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 211
 
@@ -11817,11 +11229,7 @@ a= d — (b + c) . S'il en était ainsi, bet c seraient conservés tels
 quels dans la conscience ; il n'y aurait pas d'abstraction . D'autre
 part, la représentation du tout d ne pouvant être supprimée purement
 et simplement, bet cne peuvent être totalement anéantis . Ils sub-
-sistent donc à l'état de résidus qu'on peut désigner par x, et la
-
-[p. 212]
-
-212
+sistent donc à l'état de résidus qu'on peut désigner par x, et la [p. 212] 212
 LES FAITS REPRÉSENTATIFS
 
 représentation abstraite est non pas a, mais a + x renforcée ou A.
@@ -11879,9 +11287,7 @@ l'expérience où une qualité déterminée nous est donnée comme partie
 intégrante de groupes très différents : « Une impression totale dont
 les éléments ne nous auraient jamais été donnés à partdans l'expé
 
-[p. 213]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 213] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 213
 
@@ -11934,11 +11340,7 @@ et générales qui dépassent l'idée individuelle .
 la relation individuelle pure, on entre dans une
 hiérarchie de
 notions qui , à part le caractère commun à toutes d'être générales,
-sont de nature fort hétérogène ... Il faut fixer les principaux éche
-
-[p. 214]
-
-214
+sont de nature fort hétérogène ... Il faut fixer les principaux éche [p. 214] 214
 LES FAITS REPRÉSENTATII S
 
 lons de cette hiérarchie et, pour cela, il faut une notation objec-
@@ -11985,9 +11387,7 @@ réciproque des images concrètes, une nouvelle image, « dont on
 peut dire à bon droit qu'elle représente les autres, puisqu'elle en
 est en quelque sorte la moyenne, corrige cette erreur » . Mais il
 
-[p. 215]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 215] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 215
 
@@ -12037,11 +11437,7 @@ où se présentent les mêmes propriétés .
 3º Ce travail arrive à son terme , et se dissimule alors presque
 complètement, dansles concepts complètement élaborés ou concepts
 supérieurs . Ils ont pour marque propre de n'être plus représentables
-par une image quelconque. « Tout se réduit, en apparence du
-
-[p. 216]
-
-216
+par une image quelconque. « Tout se réduit, en apparence du [p. 216] 216
 LES FAITS REPRÉSENTATIFS
 
 moins, au mot seul » (Th . Ribot) , et nous ajouterons : à sa défi-
@@ -12092,9 +11488,7 @@ Ribot, et même dès ce stade, d'après Ruyssen , en somme , dès que
 nous avons à faire à quelque représentation qui ressemble plus à
 une idée qu'à une image, la représentation ne se pose pas d'une
 
-[p. 217]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 217] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 217
 
@@ -12146,11 +11540,7 @@ presque automatiquement. C'est alors un jugement implicite , où
 la croyance , l'adhésion de l'esprit est à peu près immédiate , sans
 que l'on ait besoin d'analyser Topération pour la confirmer . Telle
 est la première forme du jugement, la plus rudimentaire ; ce n'est
-que par les nombreuses erreurs auxquelles elle peut amener, qu'on
-
-[p. 218]
-
-218
+que par les nombreuses erreurs auxquelles elle peut amener, qu'on [p. 218] 218
 LES FAITS REPRÉSENTATIFS
 
 a été conduit, peu à peu, à en analyser les termes, à vérifier scru-
@@ -12200,9 +11590,7 @@ T'habitude ,
 l'attention et l'association
 : et elle montre, dès ses
 
-[p. 219]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 219] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 219
 
@@ -12257,11 +11645,7 @@ un signe . Jusqu'à présent, en effet, nous n'avons défini l'idée que
 par des actes théoriques, des opérations possibles, des virtualités
 (c'est une habitude, une possibilité indéfinic de substitutions) et non
 pas quelque chose de réel pour la conscience . Il fallait absolument
-que celle-ci trouvat un symbole réel qui matérialisat et figurat
-
-[p. 220]
-
-220
+que celle-ci trouvat un symbole réel qui matérialisat et figurat [p. 220] 220
 LES FAITS REPRÉSENTATIFS
 
 l'idée , lui donnât une existence effective . Ce signe , dans l'espèce
@@ -12316,9 +11700,7 @@ amphibies .
 (( Avec
 le
 
-[p. 221]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 221] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 221
 
@@ -12391,11 +11773,7 @@ grande partie de ses progrès, on conçoit que le degré du dévelop-
 pement de la troisième frontale soit un des meilleurs signes pour
 estimer la valeur cérébrale . >>>
 
-15
-
-[p. 222]
-
-222
+15 [p. 222] 222
 LES FAITS REPRÉSENTATIFS
 
 4º Insuffisance des plis d'union : les plis d'anastomose sont moins
@@ -12448,9 +11826,7 @@ Au premier abord, cela pourtant ne semble pas se révéler à l'ob-
 servation
 : « Si à certaines images génériques correspondent bien
 
-[p. 223]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 223] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 223
 
@@ -12497,11 +11873,7 @@ conditions physiologiques, sauf en ce qui concerne la parole , sont
 très mal connues : elles sont en général ce qui distingue au point
 de vue physiologique l'écorce cérébrale de l'homme adulte et civi-
 lisé, du cerveau des races inférieures , du cerveau de l'enfant et
-du cerveau animal. Cette indétermination ne nous empêche pas
-
-[p. 224]
-
-224
+du cerveau animal. Cette indétermination ne nous empêche pas [p. 224] 224
 LES FAITS REPRÉSENTATIFS
 !
 
@@ -12541,9 +11913,7 @@ puisqu'il n'y a vraiment de connaissance organisée que
 
 [^p224-1]: Le problème de la valeur des idées générales et de leur nature (qu'avons-nous dans l'esprit quand nous pensons une idée générale?) a été un de ceux qui ont le plus passionné les philosophes du moyen âge . La scolastique est remplie des discussions entre réalistes ( disciples de Platon et d'Aristote) , conceptualistes (Abélard) et nomi- nalistes (Roscelin) . Les réalistes croient que toutes nos idées sont des intuitions immédiates de l'esprit, d'une vérité absolue. Les conceptualistes vont moins loin ; pour eux nos idées sont des rapports établis entre les images perceptives par l'esprit et corres- pondent à des rapports entre les phénomènes . Les nominalistes enfin pensentque l'idée n'existe pas , qu'il n'y a que des images particulières et des noms ; la généralité consiste à appliquer le même mot à plusieurs images . Ils représentent donc le scepticisme contre les dogmatiques , réalistes ou conceptualistes . D'après ce que nous avons dit, les idées ne nécessitent aucune intuition spéciale pour leur formation, et nous sommes sur ce point d'accord avec le nominalisme ; mais elles existent en tant que symboles établis par l'expérience, comme substituts communs à des images perceptives multiples. (Voir MÉTAPHYSIQUE .)
 
-[p. 225]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 225] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 225
 
@@ -12596,11 +11966,7 @@ en entités , en êtres réels, alors qu'elles sont de simples habitudes
 des signes . « De même que le papier symbole, s'il n'est finalement
 convertible en objets de consommation... , est un pur néant qu'on
 peut entasser dans sa caisse sans rien posséder que des apparences ;
-de même, si les plus hauts symbolesde l'abstraction ne sont réduc
-
-[p. 226]
-
-226
+de même, si les plus hauts symbolesde l'abstraction ne sont réduc [p. 226] 226
 LES FAITS REPRÉSENTATIFS
 
 tibles aux données de l'expérience , on peut, comme il arrive trop
@@ -12649,9 +12015,7 @@ donc dans l'esprit quand il pensera à une idée générale soit la [^p226-1]
 
 [^p226-1]: Langue de perroquet.
 
-[p. 227]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 227] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 227
 
@@ -12699,11 +12063,7 @@ Mais , alors , l'idée générale ne semble-t-elle pas complètement
 étrangère à la réalité, puisque il n'y a dans l'esprit, quand nous la
 pensons , que des éléments qui n'ont aucun rapport ou que très peu
 de rapport avec cette réalité ? Sasubstructure psychologique étant un
-signe , elle -même ne peut être qu'un symbole, commode peut-être ,
-
-[p. 228]
-
-228
+signe , elle -même ne peut être qu'un symbole, commode peut-être , [p. 228] 228
 LES FAITS REPRÉSENTATIFS
 
 i
@@ -12758,9 +12118,7 @@ gurées ; et les conceptualistes , que si les éléments de la réalité
 étaient altérés par cet acte de l'esprit, ou plutôt restaient tels que
 la perception nous les donnait, à tout le moins cet acte nous faisait
 
-[p. 229]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 229] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 229
 
@@ -12807,11 +12165,7 @@ On peut même dire une connaissance plus exacte, sans paradoxe ,
 car les objets de la connaissance ne sont pas des individualités iso-
 lées , comme nos images perceptives nous les représentent ; ils ont,
 au contraire , entre eux une multitude de rapports plus ou moins
-cachés que les idées nous font connaître . Comme ces rapports sont
-
-[p. 230]
-
-230
+cachés que les idées nous font connaître . Comme ces rapports sont [p. 230] 230
 LES FAITS REPRÉSENTATIFS
 
 ceux suivant lesquels les choses agissent les unes sur les autres ,
@@ -12847,9 +12201,7 @@ et le plus utilement
 
 notre réflexion » . (Id. , p . 155.)
 
-[p. 231]
-
-CHAPITRE
+[p. 231] CHAPITRE
 XV
 
 L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
@@ -12905,11 +12257,7 @@ vivant et change ; il se forme lentement et s'élabore en se pré-
 cisant, en devenant de plus en plus clair et distinct : cette élabo-
 ration se fait par des rapports nouveaux, aperçus et posés par la
 pensée , c'est-à-dire par des rapprochements entre le concept consi-
-déré et d'autres concepts . Quand je dis , par exemple, que les planètes
-
-[p. 232]
-
-232
+déré et d'autres concepts . Quand je dis , par exemple, que les planètes [p. 232] 232
 LES FAITS REPRESENTATIFS
 
 sont sphériques, je donne à mon concept de planète une propriété
@@ -12963,9 +12311,7 @@ Tous
 les solides sont pesants ; le soleil est
 brillant : voilà des jugements où les propriétés affirmées sont
 
-[p. 233]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE : LES CONCEPTS
+[p. 233] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE : LES CONCEPTS
 233
 
 abstraites des sujets dont on les affirme par simple inspection . Ils
@@ -13017,9 +12363,7 @@ Ensuite , nous cherchons à relier les éléments dissociés
 c'est
 alors la tâche du jugement synthétique et du raisonnement inductif.
 
-[p. 234]
-
-234
+[p. 234] 234
 LES FAITS REPRÉSENTATIFS
 
 Et c'est sur les rapports alors clairs et distincts établis par ces syn-
@@ -13068,9 +12412,7 @@ valeur.
 <<Il est clair que, dans les deux premiers stades, il n'y a pas de juge-
 ment . C'est au troisième qu'il commencerait à apparaître : par con
 
-[p. 235]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 235] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 235
 
@@ -13119,11 +12461,7 @@ croyance . Stuart Mill remarque avec raison que nous pouvons très
 bien concevoir les choses d'une manière et les croire d'une autre ;;
 c'est ainsi que le mouvement apparent du soleil autour de la terre ...
 ne nous empêche pas d'affirmer que la terre tourne autour du soleil .
-<<L'association constitue une série purement subjective , soumise
-
-[p. 236]
-
-236
+<<L'association constitue une série purement subjective , soumise [p. 236] 236
 LES FAITS REPRÉSENTATIFS
 
 aux hasards de l'expérience journalière et aux caprices de lamémoire
@@ -13172,9 +12510,7 @@ pose à d'autres faits ; il ne se confond pas avec lui. Le doute reste [^p236-1]
 
 [^p236-1]: Au moins , car on verra au chapitre suivant que certains psychologues doutent de cette nécessité et prétendent que toute affirmation est toujours une croyance .
 
-[p. 237]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 237] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 237
 
@@ -13232,11 +12568,7 @@ réactions répétées à vide, ces tendances , sont l'origine première du
 contraste entre le sentiment du réel et celui de l'irréel , du donné
 et du possible . Le sentiment de l'irréel est peut-être la première
 
-16
-
-[p. 238]
-
-238
+16 [p. 238] 238
 LES FAITS REPRÉSENTATIFS
 
 origine du doute, et c'est « l'émotion propre à une attention habi-
@@ -13283,9 +12615,7 @@ posent un doute conscient et une réflexion souvent très longue . [^p238-1]
 
 [^p238-1]: Remarquons-le en passant : celte constatation psychologique a une importance pé- dagogique très grande . L'enseignement véritable s'adresse à la réflexion et repose sur le libre examen , etc.
 
-[p. 239]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 239] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 239
 d) LES FACTEURS DE LA CROYANCE .
@@ -13335,11 +12665,7 @@ même , l'abaissement, ou des anomalies de l'intelligence .
 croyance dépend encore dela volonté, puisque la volonté est un pou-
 voir créateur d'habitudes et notre grand pouvoir d'adaptation . Ce ròle
 de la volonté dans le jugement se traduit intérieurement par le sen-
-timent d'effort qui accompagne souvent notre activité intellectuelle
-
-[p. 240]
-
-240
+timent d'effort qui accompagne souvent notre activité intellectuelle [p. 240] 240
 LES FAITS REPRÉSENTATIFS
 
 et l'attention, dite pour cela volontaire . Comme tous nos jugements
@@ -13386,9 +12712,7 @@ l'adaptation, que nous avons rencontrés à l'origine même de la vie
 psychologique , puis dans toutes les manifestations de la vie repré-
 sentative et qui plongent par leurs racines dans la vie biologique .
 
-[p. 241]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 241] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 241
 
@@ -13439,9 +12763,7 @@ Cet étroit rapport physio-psychologique entre le jugement et
 l'adaptation motrice confirme de tous points et explique les résul-
 tats de l'analyse psychologique du jugement.
 
-[p. 242]
-
-242
+[p. 242] 242
 LES FAITS REPRÉSENTATIFS
 
 V.
@@ -13493,9 +12815,7 @@ Aussi le jugement a-t-il apparu
 comme l'opération intellectuelle essentielle : « Penser, c'est juger » ,
 disait Kant, c'est-à-dire affirmer des rapports .
 
-[p. 243]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 243] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 243
 
@@ -13546,9 +12866,7 @@ qu'implique le jugement sontune seule et même chose .
 Ce reproche, considéré en lui-même, ne nous paraît pas fondé,
 et nous maintenons notre analyse psychologique et la théorie dont
 
-[p. 244]
-
-[ 244
+[p. 244] [ 244
 LES FAITS REPRÉSENTATIFS
 
 le germe est dans Descartes et a été développé par toute la philo-
@@ -13569,9 +12887,7 @@ simple jugement, d'une simple affirmation . Ce n'est que par de
 nouvelles opérations mentales que la croyance s'imposera comme
 nécessaire et certaine : par le raisonnement .
 
-[p. 245]
-
-CHAPITRE XVI
+[p. 245] CHAPITRE XVI
 
 LES CONCEPTS (suite)
 
@@ -13636,11 +12952,7 @@ pour tous les cas identiques
 : « Au début, nous n'obtenons pas
 toutes nos opinions et tous nos jugements par le moyen du raison-
 nement proprement dit. C'est, au contraire, le cours spontané de
-nos représentations qui paraît être en nous l'élément véritablement
-
-[p. 246]
-
-246
+nos représentations qui paraît être en nous l'élément véritablement [p. 246] 246
 LES FAITS REPRÉSENTATIFS
 
 fécond . Nos idées se meuvent souvent par sauts, elles se lient ins-
@@ -13697,9 +13009,7 @@ cohérente ,
 indiquer grossièrement cette évolution de la simple
 croyance vers la nécessité logique ; etc'est ce que nous allons faire.
 
-[p. 247]
-
-LES CONCEPTS
+[p. 247] LES CONCEPTS
 247
 
 II.
@@ -13749,11 +13059,7 @@ valent à une conclusion d'ordre pratique, c'est une anticipation...
 et cet état diffère de la simple suggestion associative en ce que
 l'esprit est moins occupé du souvenir des brûlures passées que de
 l'attente d'une répétition du même fait dans le cas présent ; c'est-à-
-dire qu'il se rappelle moins le fait d'avoir été brûlé qu'il ne tire la
-
-[p. 248]
-
-i
+dire qu'il se rappelle moins le fait d'avoir été brûlé qu'il ne tire la [p. 248] i
 LES FAITS REPRÉSENTATIFS
 248
 
@@ -13807,11 +13113,7 @@ posé, et les moyens sont imaginés pour l'atteindre . » (Id . , 36. )
 Cet acte consiste en un enchaînement d'images génériques ,
 et en
 l'attente d'une
-conformité dans la suite de cet enchaînement ;
-
-[p. 249]
-
-LES
+conformité dans la suite de cet enchaînement ; [p. 249] LES
 CONCEPTS
 249
 
@@ -13863,9 +13165,7 @@ quoi il vient. Il nous est impossible de le deviner par la seule
 intuition de la pensée. Nous ne pouvons que le constater par l'expé-
 rience.
 
-[p. 250]
-
-250
+[p. 250] 250
 LES FAITS REPRÉSENTATIFS
 
 2° LE RAISONNEMENT DÉDUCTIF .
@@ -13925,9 +13225,7 @@ dont la première donnée n'est que l'ensemble ou le total>> (Id. , 418) . [^p25
 
 [^p250-1]: Voir la théorie philosophique du fondement de l'induction en logique, p . 633.
 
-[p. 251]
-
-LES CONCEPTS
+[p. 251] LES CONCEPTS
 251
 La notion d'identité est donc posée par l'esprit comme la règle , la
 source universelle d'après laquelle il se reconnaît le droit de dé-
@@ -13975,11 +13273,7 @@ en juxtaposant des éléments déjà connus ; par suite, les lois qui
 régissent ces éléments suffisent à rendre compte de tous ces cas
 nouveaux et doivent recevoir une acception plus générale . Il est
 vrai que cette généralisation n'est pas la conséquence directe et
-immédiate de la méthode déductive . Elle est due, comme on le
-
-[p. 252]
-
-252
+immédiate de la méthode déductive . Elle est due, comme on le [p. 252] 252
 LES FAITS REPRÉSENTATIFS
 
 verra dans l'analyse de la méthode mathématique, à ce qu'il inter-
@@ -14026,9 +13320,7 @@ comme le jugement analytique, sur une habitude acquise, tandis
 que l'induction, comme le jugement synthétique, est la formation
 d'une habitude nouvelle , une adaptation, une découverte .
 
-[p. 253]
-
-LES CONCEPTS
+[p. 253] LES CONCEPTS
 253
 
 De plus, dans les sciences de la nature, l'expérience qui fonde
@@ -14079,11 +13371,7 @@ et les tatonnements , est dans l'ordre de l'activité organique . C'est
 une habitude mentale indéfectible, comme le mouvement devenu
 automatique , est une habitude organique indéfectible .
 
-17
-
-[p. 254]
-
-254
+17 [p. 254] 254
 LES FAITS REPRÉSENTATIFS
 
 Nous avons vu , à propos du jugement, que toute connaissance
@@ -14131,9 +13419,7 @@ aux concepts définitifs dans lesquels elles se condenseront, for-
 meront un immense système, qui nous représentera exactement,
 adéquatement, l'univers dans lequel nous vivons .
 
-[p. 255]
-
-LES CONCEPTS
+[p. 255] LES CONCEPTS
 255
 
 Les rapports établis entre nos idées deviendront les rapports
@@ -14186,9 +13472,7 @@ pas encore partie denotre nature, parce qu'elle étonne encore, et ne
 rentre pas dans le système rigide, stéréotypé de nos habitudes ,
 elle ne rend pas complètement compte d'elle -même .
 
-[p. 256]
-
-256
+[p. 256] 256
 LES FAITS REPRÉSENTATIFS
 
 Le jugement était une croyance , un arrêt dans l'incessante mobi-
@@ -14238,9 +13522,7 @@ beaucoup plus libre , est la source des hypothèses et des adaptations
 mentales risquées, matière fertile que viendra travailler ensuite le
 raisonnement .
 
-[p. 257]
-
-CHAPITRE XVII
+[p. 257] CHAPITRE XVII
 
 LES CONCEPTS (suite)
 
@@ -14300,11 +13582,7 @@ est un instrument d'analyse, car le concept isolant toutes les pro-
 priétés communes à un groupe d'objets , le mot devient l'équivalent
 de ces propriétés, et les représente nettement au milieu de tous les
 détails insignifiants que comporte chaque objet réel . Il fixe le résul-
-tat de l'abstraction , et par suite rend notre idée claire, en mettant
-
-[p. 258]
-
-238
+tat de l'abstraction , et par suite rend notre idée claire, en mettant [p. 258] 238
 LES FAITS REPRÉSENTATIFS
 
 en relief les qualités qu'elle a retenues du réel, et celles-là scule-
@@ -14354,9 +13632,7 @@ doit aux systèmes d'idées que le langage a permis . Le langage n'a
 donc pas seulement étayé le concept à son origine : il a permis , en
 en faisant quelque chose de social , tout l'essor de la pensée humaine.
 
-[p. 259]
-
-LES CONCEPTS
+[p. 259] LES CONCEPTS
 : LES SIGNES
 : RAPPORTS DU LANGAGE ET DE LA PENSÉE
 259
@@ -14413,11 +13689,7 @@ térieur ou antérieur à la pensée ? Certains soutenaient que , pour
 nommer une idée , il faut d'abord l'avoir ; on avait donc formé
 l'idée ,
 puis peu à peu on lui avait associé un nom.
-D'autres ,
-
-[p. 260]
-
-260
+D'autres , [p. 260] 260
 LES FAITS REPRÉSENTATIFS
 
 avec nonmoins de raison, montraient que la pensée était impos-
@@ -14465,11 +13737,7 @@ T'humanité, la plupart des émotions ;
 5º Les signes artificiels ou conventionnels, système très restreint
 de signes chargés d'indiquer certains faits ou certaines décisions
 (signes de télégraphie électrique ou aérienne, signaux des chemins
-de fer, de la navigation, etc. ) ;
-
-[p. 261]
-
-LES CONCEPTS
+de fer, de la navigation, etc. ) ; [p. 261] LES CONCEPTS
 : LES SIGNES
 : RAPPORTS DU LANGAGE ET DE LA PENSÉE
 261
@@ -14522,11 +13790,7 @@ ils
 sortent de la vie affective et inconsciente pour entrer dans la vie intel-
 lectuelle et semi-consciente et devenirun véritable germe de langage
 conceptuel
-: « Pour les fourmis , des observateurs , tels Kirby et
-
-[p. 262]
-
-262
+: « Pour les fourmis , des observateurs , tels Kirby et [p. 262] 262
 LES FAITS REPRÉSENTATIFS
 
 Spencer, Burmeister , Huber , Franklin , affirment qu'elles usent d'un
@@ -14593,9 +13857,7 @@ Le langage-signal.
 Mais ce lan-
 -
 
-[p. 263]
-
-LES CONCEPTS
+[p. 263] LES CONCEPTS
 : LES SIGNES
 : RAPPORTS DU LANGAGE ET DE LA PENSÉE
 263
@@ -14649,11 +13911,7 @@ battent le blé, les marins qui rament, les soldats qui marchent,
 émettent des articulations plus ou moins vibrantes, des bruits,
 exclamations , bourdonnements , chants , etc. Or ces sons offrent les
 caractères requis pour constituer le langage articulé ;
-ils sont
-
-[p. 264]
-
-264
+ils sont [p. 264] 264
 LES FAITS REPRÉSENTATIFS
 
 communs à tous , ils sont intelligibles, étant associés par tous aux
@@ -14714,9 +13972,7 @@ il possédait assez de signes naturels (tons , gestes spontanés ou imi-
 
 [^p264-1]: Consulter sur tout ceci : Expression des émotions , p . 339 .
 
-[p. 265]
-
-LES CONCEPTS
+[p. 265] LES CONCEPTS
 : LES SIGNES
 : RAPPORTS DU LANGAGE ET DE LA PENSÉE
 265
@@ -14770,9 +14026,7 @@ pratique qu'une véritable connaissance . Toute connaissance relati
 
 [^p265-1]: L'intelligence est en effet employée , au sens large , pour désigner la fonction repré- sentative , la fonction de la connaissance dans sa totalité . Elle est l'ensemble des faits représentatifs (sensations , percepts, concepts) . Elle comprend alors à la fois sensibilité (pensée par images ) et entendement (pensée par concepts) .
 
-[p. 266]
-
-266
+[p. 266] 266
 LES FAITS REPRÉSENTATIFS
 
 vement claire qui distingue l'objet connu, en tant qu'objet, d'une
@@ -14826,9 +14080,7 @@ tées, ayant perdu leur signification propre et réduites au rang de
 particules déterminantes , au rang des affixes avec un sens défini .
 Les affixes peuvent être placés avant la racine (comme dans les
 
-[p. 267]
-
-LES CONCEPTS
+[p. 267] LES CONCEPTS
 : LES SIGNES
 : RAPPORTS DU LANGAGE ET DE LA PENSÉE
 267
@@ -14879,11 +14131,7 @@ plus simple et plus uniforme . Les nuances de syntaxe qu'indiquait
 dans les langues synthétiques la place des mots , sont ici exprimés
 par des mots nouveaux .
 3º « Dans les langues monosyllabiques, tous les mots sont des
-racines invariables ; il n'y a ni déclinaison, ni conjugaison, ni aucune
-
-[p. 268]
-
-268
+racines invariables ; il n'y a ni déclinaison, ni conjugaison, ni aucune [p. 268] 268
 LES FAITS REPRÉSENTATIFS
 
 modification des mots, et leur rapport dans une proposition n'est
@@ -14932,9 +14180,7 @@ au procédé des enfants qui veulent dire tout à la fois, les idées
 surgissent toutes ensembles et forment un conglomérat » (Ribot , 85) .
 Le langage serait passé d'un état protoplasmique et amorphe à une
 
-[p. 269]
-
-LES CONCEPTS
+[p. 269] LES CONCEPTS
 LES SIGNES
 RAPPORTS DU LANGAGE ET DE LA PENSÉE
 269
@@ -14986,11 +14232,7 @@ découverte de rapports encore inaperçus et en se précisant par des
 analyses non encore tentées (hypothèse de V. Henry , dans Anti-
 nomies linguistiques .
 
-18
-
-[p. 270]
-
-270
+18 [p. 270] 270
 LES FAITS REPRÉSENTATIFS
 
 Avec les deux dernières hypothèses l'évolution du langage se ma-
@@ -15045,9 +14287,7 @@ vérifier encore une fois toutes les conclusions précédentes . L'enfant
 semble repasser en raccourci, comme antérieurement l'embryon,
 par les principales étapes de l'évolution de l'espèce .
 
-[p. 271]
-
-LES CONCEPTS
+[p. 271] LES CONCEPTS
 : LES SIGNES
 : RAPPORTS DU LANGAGE ET DE LA PENSÉE
 271
@@ -15083,7 +14323,7 @@ les formes , « un paletot avec une barbe et une grosse voix
 des papa;un bateau à vapeur, une cafetière à esprit-de-vin ,
 tous
 les objets qui sifflent, font du bruit, et jettent de lafumée sont des
-fafer (chemin de fer) . » (Ruyssen, op. cit. , p . 131. )
+fafer (chemin de fer) . » (Ruyssen, *op. cit.* , p . 131. )
 
 IV.
 CONDITIONS PHYSIOLOGIQUES
@@ -15100,11 +14340,7 @@ deux hémisphères, sur celui qui fonctionne à l'état habituel (le
 gauche chez les droitiers... ). Quand ils sont détruits , ils sont très
 difficilement suppléés par le côté opposé... Le centre du langage
 articulé occupe le pied de la première frontale du côté gauche .
-Pitres a décrit autrefois un faisceau pédiculo-frontal inférieur qui,
-
-[p. 272]
-
-272
+Pitres a décrit autrefois un faisceau pédiculo-frontal inférieur qui, [p. 272] 272
 LES FAITS REPRÉSENTATIFS
 
 de cette région, irait au bulbe en passant par le bras antérieur de
@@ -15154,9 +14390,7 @@ psychologique se trouve dans La parole intérieure de Egger . Enfin ,
 un plus petit nombre pense en se parlant à eux-mêmes leur propre
 pensée , ce sont les verbo-moteurs . On cite des gens qui, en écrivant
 
-[p. 273]
-
-LES CONCEPTS
+[p. 273] LES CONCEPTS
 : LES SIGNES
 RAPPORTS DU LANGAGE ET DE LA PENSÉE
 273
@@ -15212,9 +14446,7 @@ du langage se trouve dans la première temporale et, enfin, le centre
 des images visuelles de l'écriture dans le lobule postérieur de la
 pariétale inférieure .
 
-[p. 274]
-
-274
+[p. 274] 274
 LES FAITS REPRÉSENTATIFS
 
 V.
@@ -15262,9 +14494,7 @@ tions motrices les plus simples, et qui précèdent notre vie psycho-
 logique véritable, et même la conditionnent . Or , nous avons vu que
 ces réactions , par cela même qu'elles répondent chacune à des exci
 
-[p. 275]
-
-LES CONCEPTS
+[p. 275] LES CONCEPTS
 : LES SIGNES
 : RAPPORTS DU LANGAGE ET DE LA PENSÉE
 275
@@ -15318,9 +14548,7 @@ du crâne . » (Ruyssen, p . 94. ) [^p275-1]
 
 [^p275-1]: Voir p . 105 sq .
 
-[p. 276]
-
-276
+[p. 276] 276
 LES FAITS REPRÉSENTATIFS
 
 Si cela est exact , il y a des substitutions (toutes celles qui forment
@@ -15371,11 +14599,7 @@ des mots qui les dénomment. Les écritures égyptienne, chinoise ,
 japonaise,
 nous représentent ce passage de
 l'écriture idéogra-
-phique à l'écriture phonétique . L'écriture reste toujours syllabique,
-
-[p. 277]
-
-LES CONCEPTS
+phique à l'écriture phonétique . L'écriture reste toujours syllabique, [p. 277] LES CONCEPTS
 : LES SIGNES
 : RAPPORTS DU LANGAGE ET DE LA PENSÉE
 277
@@ -15394,9 +14618,7 @@ artificielle se superposer aux signes naturels originaires , encore
 qu'il reste dans cette utilisation des signes naturels une grande part
 de subconscient .
 
-[p. 278]
-
-1 .
+[p. 278] 1 .
 
 11 .
 
@@ -15455,11 +14677,7 @@ développement. Après l'analyse des phénomènes, il est naturel de
 poser les éléments d'une synthèse qui permette d'en comprendre
 l'évolution . Est-il besoin de faire remarquer que cette tâche nou-
 velle suppose une science très avancée, puisqu'elle est, en quelque
-sorte , l'achèvement de la science ; la psychologie, science naissante ,
-
-[p. 279]
-
-LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
+sorte , l'achèvement de la science ; la psychologie, science naissante , [p. 279] LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
 279
 
 ne permet donc de l'entreprendre que d'une façon très rudimen-
@@ -15510,11 +14728,7 @@ velles habitudes ou adaptation . L'activité créatrice est l'activité grace
 tudes acquises qui constituent notre nature, parmi tous ces essais ,
 ceux
 qui paraissent répondre le mieux aux circonstances pour
-lesquelles ils sont tentés . Elle systématise , rectifie et choisit. Elle
-
-[p. 280]
-
-280
+lesquelles ils sont tentés . Elle systématise , rectifie et choisit. Elle [p. 280] 280
 LES FAITS REPRÉSENTATIFS
 
 oriente et dirige, sinon d'une façon toujours très claire et très dis-
@@ -15554,11 +14768,7 @@ III.
 CONDITIONS PSYCHOLOGIQUES
 
 Il est trop évident que l'imagination n'est créatrice que par
-métaphore ; elle puise tous ses éléments dans la réserve des sou-
-
-[p. 281]
-
-venirs conservés dans notre conscience , et sans laquelle celle-ci
+métaphore ; elle puise tous ses éléments dans la réserve des sou-[p. 281]venirs conservés dans notre conscience , et sans laquelle celle-ci
 serait une forme vide et inexistante
 : L'imagination, et c'est pour-
 quoi nous l'étudions en dernier lieu, ne peut s'exercer que sur les
@@ -15624,11 +14834,7 @@ tion aucune ; que ce n'est pas une assertion gratuite, qu'elle est au
 contraire rigoureusement justifiée par les faits et que l'on est en
 droit de soutenir les deux propositions suivantes : Toutes les formes
 de l'imagination créatrice impliquent des éléments affectifs (plaisir
-ou peine, espoir, dépit, colère, espérance, crainte : d'où la nervo
-
-[p. 282]
-
-282
+ou peine, espoir, dépit, colère, espérance, crainte : d'où la nervo [p. 282] 282
 LES FAITS REPRÉSENTATIFS
 
 sité spéciale des artistes, des inventeurs, etc.) . Toutes les disposi-
@@ -15682,11 +14888,7 @@ conscience une irruption brusque , mais qui suppose un travail
 latent, souvent très long. Elle a ses analogues dans d'autres états
 psychiques bien connus : par exemple, une passion qui s'ignore et
 qui, après une longue période d'incubation , se révèle par un acte ;
-ou bien une résolution soudaine, après des délibérations sans fin
-
-[p. 283]
-
-qui ne paraissaient pas devoir aboutir . Absence d'effort, et en appa-
+ou bien une résolution soudaine, après des délibérations sans fin [p. 283] qui ne paraissaient pas devoir aboutir . Absence d'effort, et en appa-
 rence de préparation .
 <<J'ai eu dans ma vie quelques bonnes rencontres , dit Dubois-
 Reymond, et j'ai souvent remarqué qu'elles me venaient involon-
@@ -15740,11 +14942,7 @@ nature des composants disparaît pour donner naissance à un phé-
 nomène nouveau qui a sa physionomie propre et distincte . La
 construction de l'idéal n'est pas simplement un groupement des
 expériences passées : dans sa totalité , il a sa figure à lui , dans
-laquelle on n'aperçoit pas plus de lignes composantes que , dans
-
-[p. 284]
-
-284
+laquelle on n'aperçoit pas plus de lignes composantes que , dans [p. 284] 284
 LES FAITS REPRÉSENTATIFS
 
 l'eau , l'oxygène et l'hydrogène. Dans aucune création scientifique ou
@@ -15799,9 +14997,7 @@ dance à la folie . L'expression moderne de cette théorie se trouve
 dans la formule de Moreau de Tours
 : « Le génie est une névrose . >>>
 
-[p. 285]
-
-« Lombroso , dans un livre qui fourmille en documents suspects et
+[p. 285] « Lombroso , dans un livre qui fourmille en documents suspects et
 manifestement faux (l'Homme de génie) , trouvant la théorie de son
 prédécesseur trop vague, prétendit la préciser en substituant à la
 névrose en général une névrose déterminée, l'épilepsie larvée . Les
@@ -15844,11 +15040,7 @@ suggestive des contemporains ; les effets merveilleux de « la foi qui
 guérit » , c'est-à-dire les miracles de toutes les religions ,dans tous les
 temps et dans tous les lieux . » (Id.)
 
-19
-
-[p. 286]
-
-286
+19 [p. 286] 286
 LES FAITS REPRÉSENTATIFS
 
 V. -
@@ -15892,9 +15084,7 @@ mais , pour s'exercer sur les images motrices, les synthèses créatrices
 n'en existent pas moins . Le jeu est très important à considérer parce
 qu'il est le prélude de l'activité esthétique qui, chez l'homme , sera
 
-[p. 287]
-
-LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
+[p. 287] LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
 287
 
 une des principales manifestations de l'imagination créatrice . Groos
@@ -15944,11 +15134,7 @@ La folie infantile n'est qu'un délire des muscles
 L'imagination créatrice vraiment
 intellectuelle apparait avec
 l'illusion et les combinaisons d'images auxquelles un enfant se
-complait volontiers dans la rêverie ; mais elle n'est encore, à ce
-
-[p. 288]
-
-288
+complait volontiers dans la rêverie ; mais elle n'est encore, à ce [p. 288] 288
 LES FAITS REPRÉSENTATIFS
 
 1
@@ -15997,11 +15183,7 @@ leurs rapsodes pendant des heures , éprouvant toutes les émotions
 appropriées aux incidents du récit . C'est le prélude à la création, un
 état semi-passif, semi-actif, une période d'apprentissage qui leur
 permettra de créer à leur tour. Aussi les premiers essais sont faits
-de réminiscences et plutôt imités que créés ... Un enfant de trois
-
-[p. 289]
-
-ans et demi voit un boiteux cheminant le long d'une route ; il
+de réminiscences et plutôt imités que créés ... Un enfant de trois [p. 289] ans et demi voit un boiteux cheminant le long d'une route ; il
 s'écrie
 : « Maman, vois ce pauvre homme avec sa mauvaise jambe ,
 puis le roman commence
@@ -16048,9 +15230,7 @@ ces créations s'élaborent d'ailleurs d'une façon collective ; elles s'en-
 richissent, grâce aux rapports des hommesdans la société ; elles sont
 des habitudes sociales .
 
-[p. 290]
-
-290
+[p. 290] 290
 LES FAITS REPRÉSENTATIFS
 
 B. L'activité créatrice dans
@@ -16104,9 +15284,7 @@ chez la plupart des artistes , certaines tendances à l'exclusion de
 
 -
 
-[p. 291]
-
-LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
+[p. 291] LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
 291
 
 certaines autres . On l'a dit bien souvent : les grands hommes doivent
@@ -16155,11 +15333,7 @@ tion d'idées nouvelles :
 « Etre fertile en hypothèses , telle est la
 première méthode pour trouver >> (Voir AssoC. DESIDÉES) . Ces asso-
 ciations d'idées se manifestent par une vocation particulière qui se
-marque par la nécessité, la fatalité de la création , et souvent aussi
-
-[p. 292]
-
-292
+marque par la nécessité, la fatalité de la création , et souvent aussi [p. 292] 292
 LES FAITS REPRÉSENTATIFS
 
 par la précocité : « A neuf ans ,
@@ -16202,11 +15376,7 @@ comme condition nécessaire une très grande force d'analyse et
 d'abstraction , puisqu'il faut que ces ressemblances , toujours très
 lointaines , soient isolées de l'amas confus des détails qui les
 masquent et empêchent un esprit moins subtil de les aperce-
-voir. Cette puissance d'analyse et d'abstraction caractérise le génie
-
-[p. 293]
-
-scientifique . Dans les sciences expérimentales elle devient l'esprit
+voir. Cette puissance d'analyse et d'abstraction caractérise le génie [p. 293] scientifique . Dans les sciences expérimentales elle devient l'esprit
 d'observation , car c'est par l'examen attentif des phénomènes qu'elle
 s'exerce .
 
@@ -16255,11 +15425,7 @@ des éléments dont dispose la mémoire, mais les images garderont
 ici leur
 individualité concrète, au lieu de devenir un schéma
 abstrait . L'aptitude à conserver dans toute leur fraîcheur telles
-ou telles images détermine les aptitudes artistiques spéciales (le
-
-[p. 294]
-
-294
+ou telles images détermine les aptitudes artistiques spéciales (le [p. 294] 294
 LES FAITS REPRÉSENTATIFS
 
 mouvement et la ligne pour le sculpteur, les couleurs pour le
@@ -16309,9 +15475,7 @@ de caractères dont peu d'intelligences eussent pu s'affranchir . >>>
 
 (Bain, p . 489 ; cité par Rabier, p. 229.)
 
-[p. 295]
-
-LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
+[p. 295] LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
 295
 a et b) « Pour l'œil d'un observateur vulgaire , qu'était-ce que la
 vapeur ? un amas de nuages dans le ciel ou un sifflement au bout
@@ -16366,11 +15530,7 @@ nation peut franchir comme d'un élan , pour identifier des choses
 différentes , de même plus une comparaison est prise de loin , tout
 en restant juste, plus elle est belle, plus elle suppose de génie
 poétique . Qu'elle vient de loin, dit justement M. Bain, et qu'elle
-est belle l'image d'Homère qui compare Apollon descendant de
-
-[p. 296]
-
-296
+est belle l'image d'Homère qui compare Apollon descendant de [p. 296] 296
 LES FAITS REPRÉSENTATIFS
 
 l'Olympe à la nuit qui tombe des montagnes
@@ -16431,9 +15591,7 @@ arts pratiques , parce que, stimulés par la nécessité et cherchant
 
 -
 
-[p. 297]
-
-LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
+[p. 297] LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
 297
 
 partout la satisfaction de nos besoins , nous tournons et retournons
@@ -16478,9 +15636,7 @@ rapport de signe à chose signifiée, lequel se trouvait enveloppé dans
 l'emploi de tel geste ou de tel cri pour désigner tel objet particu-
 lier . » (Rabier, pp . 218, 220.)
 
-[p. 298]
-
-CHAPITRE XIX
+[p. 298] CHAPITRE XIX
 
 LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
 
@@ -16544,11 +15700,7 @@ de
 l'entendement, de la raison, etc.) . Nous indiquerons sommairement
 quelques-unes de leurs solutions , quand nous reprendrons'la ques-
 tion au point de vue métaphysique (p . 949) . La psychologie n'a
-qu'à chercher quelles sont les idées les plus générales qui orientent
-
-[p. 299]
-
-toute notre activité psychologique quand elle cherche à nous donner
+qu'à chercher quelles sont les idées les plus générales qui orientent [p. 299] toute notre activité psychologique quand elle cherche à nous donner
 une connaissance systématique du réel .
 La connaissance systématique du réel commence avec la percep-
 tion qui organise nos images sensibles, et se continue par l'enten-
@@ -16592,11 +15744,7 @@ est précisément ce principe en vertu duquel les qualités (attributs)
 sont attribuées à un sujet ou en sont exclues, en vertu duquel, par
 suite , on considère des apparences diverses comme appartenant à un
 même sujet identique et permanent.
-Les idées de relation (les objets de notre reconnaissance sont tous
-
-[p. 300]
-
-300
+Les idées de relation (les objets de notre reconnaissance sont tous [p. 300] 300
 LES FAITS REPRÉSENTATIFS
 
 liés entre eux), de loi (qui n'est que l'énoncé des relations néces-
@@ -16649,9 +15797,7 @@ de notre œil , comme sur un tableau sans perspective ; - et la
 notion de distance , selon laquelle les objets se situent en pro-
 fondeur .
 
-[p. 301]
-
-LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
+[p. 301] LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
 301
 
 Nous avons étudié l'acquisition de ces notions à propos de la
@@ -16704,11 +15850,7 @@ uniforme et continu telle que nous la donnent l'horloge et le calen-
 drier, ces atlas auxiliaires dont nous avons parlé et qui nous
 servent actuellement à mesurer ou plutôt à répérer la durée con-
 
-20
-
-[p. 302]
-
-302
+20 [p. 302] 302
 LES FAITS REPRÉSENTATIFS
 
 11
@@ -16767,9 +15909,7 @@ conscience d'une succession . L'ouïe a été appelée le sens du temps
 par excellence . Cette thèse a été soutenue notamment par Mach ;
 comme dans une mélodie, nous pouvons séparer le rythme des
 
-[p. 303]
-
-LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
+[p. 303] LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
 303
 
 sons qui la constituent, il en conclut que le rythme forme une série
@@ -16826,11 +15966,7 @@ presqu'exlusif à la respiration quoique, d'après lui, l'origine de
 notre notion de la durée doive être cherchée dans la conscience de
 
 l'effort musculaire en général, et qu'il ait sa primitive mesure dans
-le rythme des processus corporels ; cependant l'élévation et l'abais
-
-[p. 304]
-
-304
+le rythme des processus corporels ; cependant l'élévation et l'abais [p. 304] 304
 LES FAITS REPRÉSENTATIFS
 
 sement graduel du sentiment d'effort qui accompagne
@@ -16886,11 +16022,7 @@ quantité de ce recouvrement détermine le sentiment de durée
 occupée ;
 2º Les autres admettent des sensations et des intervalles ; toute-
 fois ceux-ci ne sont plus des images, mais des sensations internes
-de tension , d'effort : élément plutôt subconscient que la conscience
-
-[p. 305]
-
-peut pourtant saisir par observation ou induction . Cette théorie a
+de tension , d'effort : élément plutôt subconscient que la conscience [p. 305] peut pourtant saisir par observation ou induction . Cette théorie a
 plus que la première un caractère actif. La forme la plus nette et
 la plus complète de ce mode d'explication est celle de Münsterberg,
 exposée précédemment .
@@ -16937,9 +16069,7 @@ apparente contradiction psychologique . Cependant les deux cas
 s'expliquent également par la quantité des états de conscience . Le
 premier est plein d'événements , le second est plein d'efforts . Après
 
-[p. 306]
-
-LES FAITS REPRÉSENTATIFS
+[p. 306] LES FAITS REPRÉSENTATIFS
 306
 
 trois ou quatre jours d'un voyage fertile en incidents , il semble
@@ -17026,11 +16156,7 @@ Une
 
 On n'a jamais pu se proposer de remonter au delà que par des
 
-abstractions métaphysiques, et encore présupposaient-elles implici-
-
-[p. 307]
-
-tement ce principe : par exemple , Hegel qui pose que l'être est dirigé
+abstractions métaphysiques, et encore présupposaient-elles implici-[p. 307]tement ce principe : par exemple , Hegel qui pose que l'être est dirigé
 par le principe opposé : le principe de l'identité des contradictoires .
 On s'aperçoit facilement que ce n'est que le principe d'identité
 appliqué dans l'absolu à ce qui apparaît à notre esprit comme s'oppo-
@@ -17077,9 +16203,7 @@ former des phénomènes, et qui sont toujours des approximations
 guidées dans une certaine mesure par la pratique et valables seule-
 ment pour notre esprit ; mais bien sur la nature intime des choses .
 
-[p. 308]
-
-308
+[p. 308] 308
 LES FAITS REPRÉSENTATIFS
 
 La notion d'identité était substantifiée A est A signifiait rigoureuse-
@@ -17129,9 +16253,7 @@ ciation par ressemblance un peu plus précise qu'est l'analogie
 jusque-là remontent ses origines ) mais s'en différencie en ce qu'elle
 a toujours par les caractères d'uniformité et de constance qu'elle
 
-[p. 309]
-
-LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
+[p. 309] LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
 309
 
 apporte avec elle, un commencement de généralisation, une plus
@@ -17181,11 +16303,7 @@ beaucoup d'hommes qui ne s'élèvent guère au delà, se résout en
 une association d'idées permanentes , résultat de la répétition et
 de l'habitude .
 << Mais tout cela n'est qu'une conception extérieure de la cau-
-salité , de sa forme , non de sa nature ; c'est une vue du dehors ,
-
-[p. 310]
-
-310
+salité , de sa forme , non de sa nature ; c'est une vue du dehors , [p. 310] 310
 LES FAITS REPRÉSENTATIFS
 
 un acheminement. Le caractère propre de cette période, c'est de
@@ -17236,11 +16354,7 @@ philosophes et des savants ont propagé cette notion et l'ont rendue
 assez familière . Elle n'en reste pas moins une conception tardive ,
 ignorée de la plus grande portion du genre humain . La recherche
 scientifique a commencé par établir des lois (c'est-à-dire des rapports
-invariables de cause à effet) entre certains groupes de phénomènes, à
-
-[p. 311]
-
-établir une loi de causalité valable pour eux, rien que pour eux ;
+invariables de cause à effet) entre certains groupes de phénomènes, à [p. 311] établir une loi de causalité valable pour eux, rien que pour eux ;
 mais
 le transfert de cette loi à tout le connu et l'inconnu ne s'est
 produit que peu à peu , et même de nos jours, il n'est pas complet,
@@ -17297,11 +16411,7 @@ l'admettent couramment dans
 l'ordre
 social,
 croient tout possible, reconstruisent la
-société
-
-[p. 312]
-
-312
+société [p. 312] 312
 LES FAITS REPRÉSENTATIFS
 
 humaine de fond en comble au gré de leurs rêves . Pour conclure ,
@@ -17352,9 +16462,7 @@ ne pas affirmer que la notion de causalité universelle, d'uniformité
 du cours de la nature , de déterminisme rigoureux (et autres for-
 mules analogues) est acquise, superposée, que cette notion soit
 
-[p. 313]
-
-LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
+[p. 313] LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
 313
 
 applicable à toute l'expérience, quoique l'expérience ne soit pas épui-
@@ -17406,9 +16514,7 @@ plupart des philosophes idéalistes et spiritualistes du dernier siècle ,
 Fichte , Schelling, Hegel, en Allemagne , Ravaisson , Lachelier , en
 France , suivront , dans cette direction , certaines indications de Kant.
 
-[p. 314]
-
-314
+[p. 314] 314
 LES FAITS REPRÉSENTATIFS
 
 La notion de succession invariable ou principe de causalité efficiente
@@ -17457,11 +16563,7 @@ son nom, celui qui étudie le monde physique voit nécessairement
 les changements du dehors . Il considère la cause non plus comme
 un facteur interne révélé par la conscience , mais comme une suc-
 cession donnée par les sens . Antécédents, conséquents , succession
-invariable , telles sont pour lui les seules données utiles. Conditions
-
-[p. 315]
-
-égalent cause ; et la détermination importante n'est pas celle d'une
+invariable , telles sont pour lui les seules données utiles. Conditions [p. 315] égalent cause ; et la détermination importante n'est pas celle d'une
 entité agissante, mais d'un rapport constant. C'est à cette conception
 de la cause, la seule qui soit scientifique, que convient la définition
 de Stuart Mill
@@ -17482,7 +16584,7 @@ tale . On a dit justement que la théorie mécanique de l'univers (cor-
 rélation des forces , conservation et transformation de l'énergie, etc. )
 est la forme contemporaine du concept de la causalité naturelle .
 Exprimée dès l'antiquité sous la forme d'une anticipation méta-
-physique (ex nihilo nihil), elle entre au xvn° siècle dans sa phase
+physique (*ex nihilo* nihil), elle entre au xvn° siècle dans sa phase
 scientifique et s'achève dans le nôtre . Les physiciens qui l'ont établie
 sur l'expérience et le calcul ont bien vu , d'ailleurs , la conséquence
 qui en découle . Pour n'en citer qu'un, R. Mayer, dans sa Mechanik
@@ -17512,11 +16614,7 @@ et perdre une partie de son énergie . Mais tout cela est sans impor-
 tance pour nous . Tant vaut la doctrine de la conservation de l'éner-
 gie , tant vaut le concept actuel de la causalité naturelle . Il s'agis-
 sait simplement de suivre l'évolution de ce concept jusqu'à ce jour ,
-demontrer comment il s'est transformé, mais sans rien préjuger de
-
-[p. 316]
-
-316
+demontrer comment il s'est transformé, mais sans rien préjuger de [p. 316] 316
 LES FAITS REPRÉSENTATIFS
 
 l'avenir , et surtout sans lui attribuer une valeur absolue . » (Ribot,
@@ -17564,11 +16662,7 @@ chose du monde la mieux partagée »
 (Descartes) . Pourquoi , en
 effet, contractons-nous tous , malgré les différences de nos caractères
 et de nos expériences, les mêmes habitudes générales ? Mais cette
-généralité même ne nous permet-elle pas de le comprendre ? Ces
-
-[p. 317]
-
-habitudes sont celles que pouvait faire contracter n'importe quel
+généralité même ne nous permet-elle pas de le comprendre ? Ces [p. 317] habitudes sont celles que pouvait faire contracter n'importe quel
 acte et qui étaient nécessaires pour adapter
 notre organisation
 psychologique à n'importe quelles circonstances . « Le retour régu-
@@ -17624,9 +16718,7 @@ psychologique du jugement, 345.)
 
 21
 
-[p. 319]
-
-LIVRE
+[p. 319] LIVRE
 V
 
 LES FAITS AFFECTIFS
@@ -17694,11 +16786,7 @@ psychologique des faits que nous étudions . Nous devons donc le
 considérer comme le phénomène élémentaire de la vie affective .
 Les autres n'en sont que des formes plus complexes et plus évoluées .
 Cette simplicité absolue des affections de plaisir et de douleur est
-ce qui rend impossible d'en donner une définition. Ce sont des états
-
-[p. 320]
-
-320
+ce qui rend impossible d'en donner une définition. Ce sont des états [p. 320] 320
 LES FAITS AFFECTIFS
 
 que l'on constate directement par l'observation interne, t dont la
@@ -17750,9 +16838,7 @@ ment vital ou cénesthésie, « tonalité fondamentale qui résulte de
 l'état total de l'organisme, de la marche normale ou anormale des
 mouvements vitaux, particulièrement des fonctions végétatives » .
 
-[p. 321]
-
-LES ÉLÉMENTS .
+[p. 321] LES ÉLÉMENTS .
 LE PLAISIR ET LA DOULEUR
 321
 
@@ -17804,11 +16890,7 @@ qu'il produit la syncope>> ; le plaisir, par contre , active la circulation ,
 surtout à la tête (expériences de Lehmann) . La douleur diminue
 notablement l'acide carbonique exhalé dans la respiration, qui de-
 vient irrégulière et instable : il y a donc aussi ralentissement de
-cette fonction . Le plaisir, au contraire, l'accélère, et par suite élève
-
-[p. 322]
-
-322
+cette fonction . Le plaisir, au contraire, l'accélère, et par suite élève [p. 322] 322
 LES FAITS AFFECTIFS
 
 la température du corps . Mêmes observations par
@@ -17869,9 +16951,7 @@ supposent donc ces tendances primitives dont l'expression orga-
 nique nous est donnée dans les modifications corporelles que nous
 venons d'étudier .
 
-[p. 323]
-
-LES ÉLÉMENTS . -- LE PLAISIR ET LA DOULEUR
+[p. 323] LES ÉLÉMENTS . -- LE PLAISIR ET LA DOULEUR
 323
 
 V.
@@ -17922,11 +17002,7 @@ dit-il .
 Les malades
 incomplètement endormis sententtrès bien le contactdes instruments ,
 mais ne ressentent aucune douleur. D'autre part, le plaisir ou la
-douleur retardent toujours sur la sensation proprement dite. Il faut
-
-[p. 324]
-
-324
+douleur retardent toujours sur la sensation proprement dite. Il faut [p. 324] 324
 LES FAITS AFFECTIFS
 
 donner le temps aux manifestations motrices et organiques de se
@@ -17976,9 +17052,7 @@ plaisir ou comme douleur, selon les circonstances où il s'exerce , et
 la manière dont il s'exerce . Un fait d'observation courante montre
 que le plaisir poussé à l'excès ou trop prolongé se transforme en
 
-[p. 325]
-
-LES ÉLÉMENTS . - LE PLAISIR ET LA DOULEUR
+[p. 325] LES ÉLÉMENTS . - LE PLAISIR ET LA DOULEUR
 325
 
 4
@@ -18029,9 +17103,7 @@ qu'elles le sont avec exagération : « L'opposition du plaisir et de la [^p325-
 
 [^p325-1]: Ce fait,joint à celui qui relie le plaisir et la douleur aux processus élémentaires de la vie organique , rend très problématique l'existence d'états neutres, c'est-à-dire sans plaisir et sans douleur d'aucune espèce . Ils coïncideraient avec l'arrêt complet de toute activité , c'est-à-dire de tout processus vital .
 
-[p. 326]
-
-326
+[p. 326] 326
 LES FAITS AFFECTIFS
 
 douleur est donc une expression de l'opposition entre le progrès et
@@ -18085,9 +17157,7 @@ s'accomplit
 momentanée . Les effets heureux seront bien postérieurs et seront
 accompagnés d'un soulagement certain . De même un poison pour
 
-[p. 327]
-
-LES ÉLÉMENTS .
+[p. 327] LES ÉLÉMENTS .
 327
 LE PLAISIR ET LA DOULEUR
 
@@ -18140,11 +17210,7 @@ de l'adaptation, la sélection naturelle a dû éliminer tous les êtres
 tant soit peu complexes chez qui ces données conscientes n'exis-
 taient pas,
 si bien qu'aujourd'hui toute activité consciente ne
-peut nous apparaître qu'avec ses données . Aussi le plaisir et la
-
-[p. 328]
-
-328
+peut nous apparaître qu'avec ses données . Aussi le plaisir et la [p. 328] 328
 LES FAITS AFFECTIFS
 
 douleur sont-ils considérés par tous les psychologues comme la
@@ -18196,9 +17262,7 @@ vivement, le rythme y étant beaucoup plus inégal. En un mot, le
 plaisir et la douleur sont toujours relatifs, et, par suite , ne doivent
 jouer qu'un rôle relatif dans la direction générale de l'être : « Il ne
 
-[p. 329]
-
-LES ÉLÉMENTS .
+[p. 329] LES ÉLÉMENTS .
 LE PLAISIR ET LA DOULEUR
 329
 
@@ -18249,9 +17313,7 @@ p . 378. ) La douleur n'existe au contraire que relativement au plaisir
 normal qu'elle nous pousse constamment à chercher, en poursui-
 vant le progrès de notre être .
 
-[p. 330]
-
-330
+[p. 330] 330
 LES FAITS AFFECTIFS
 
 NOTE
@@ -18285,9 +17347,7 @@ celles-ci
 : affections , états ou faits élémentaires de plaisir et de
 douleur .
 
-[p. 331]
-
-CHAPITRE
+[p. 331] CHAPITRE
 XXI
 
 L'ACTIVITÉ
@@ -18354,11 +17414,7 @@ introduisent déjà dans une région assez élevée de la vie
 affective générale .
 « L'émotion est, dans l'ordre affectif, l'équivalent de la percep-
 tion dans l'ordre intellectuel, un état complexe, synthétique » ;
-plaisirs et douleurs y jouent le même rôle que les sensations
-
-[p. 332]
-
-332
+plaisirs et douleurs y jouent le même rôle que les sensations [p. 332] 332
 LES FAITS AFFECTIFS
 
 simples dans nos perceptions . Elle est, comme tout état spontané,
@@ -18418,9 +17474,7 @@ fonder sur l'analyse des facteurs et non sur le raisonnement .
 
 !
 
-[p. 333]
-
-L'ACTIVITÉ AFFECTIVE SPONTANÉE
+[p. 333] L'ACTIVITÉ AFFECTIVE SPONTANÉE
 : LES ÉMOTIONS ET LES PASSIONS
 333
 
@@ -18482,11 +17536,7 @@ généralisés et associés à des états intellectuels complexes .
 
 - Les états désagréables sont
 
-22
-
-[p. 334]
-
-334
+22 [p. 334] 334
 LES
 FAITS AFFECTIFS
 
@@ -18550,9 +17600,7 @@ ration .
 9º Emotion sexuelle .
 L'émotion sexuelle se caractérise par une
 
-[p. 335]
-
-L'ACTIVITÉ AFFECTIVE SPONTANÉE : LES ÉMOTIONS ET LES PASSIONS
+[p. 335] L'ACTIVITÉ AFFECTIVE SPONTANÉE : LES ÉMOTIONS ET LES PASSIONS
 335
 
 A
@@ -18605,11 +17653,7 @@ le train prosaïque de la vie. A un moment donné, des circonstances
 quelconques suscitent un choc, c'est l'émotion... Qu'au lieu de dis-
 paraître , l'émotion reste fixe ou qu'elle se répète incessamment,
 toujours la même avec les légères modifications qu'exige le passage
-de l'état aigu à l'état chronique : c'est la passion , qui est l'émotion
-
-[p. 336]
-
-3 36
+de l'état aigu à l'état chronique : c'est la passion , qui est l'émotion [p. 336] 3 36
 LES FAITS AFFECTIFS
 
 en permanence . Malgré d'apparentes éclipses, elle est toujours là ,
@@ -18658,9 +17702,7 @@ centrale, prennent une direction déterminée, et c'est alors qu'il y a
 la vie représentative, et les facteurs empruntés à cette dernière
 vont contribuer à différencier les émotions et à les organiser .
 
-[p. 337]
-
-L'ACTIVITÉ AFFECTIVÉ SPONTANÉE
+[p. 337] L'ACTIVITÉ AFFECTIVÉ SPONTANÉE
 : LES ÉMOTIONS ET LES PASSIONS
 337
 
@@ -18711,11 +17753,7 @@ sentir une brusque sympathie pour un jeune homme qui ressemble
 sion, la pitié et beaucoup d'émotions altruistes ont une origine
 analogue .
 4° « Plus considérable est le changement subi par le sentiment
-primitif quand l'élément intellectuel nouveau est relié non par la
-
-[p. 338]
-
-338
+primitif quand l'élément intellectuel nouveau est relié non par la [p. 338] 338
 LES
 FAITS
 AFFECTIFS
@@ -18770,9 +17808,7 @@ de l'émotion se ramènent à des troubles circulatoires résultant de
 l'action des nerfs vaso - moteurs .
 Les nerfs vaso -moteurs modifiant
 
-[p. 339]
-
-L'ACTIVITÉ AFFECTIVE SPONTANÉE
+[p. 339] L'ACTIVITÉ AFFECTIVE SPONTANÉE
 : LES ÉMOTIONS ET LES PASSIONS
 339
 
@@ -18828,11 +17864,7 @@ et les muscles grêles de la face ; puis , elle envahit successivement
 les bras , les jambes, le tronc du corps . Les mouvements de la queue
 chez le chien et le chat, de l'oreille chez le cheval et beaucoup
 d'autres analogues chez les animaux sont des illustrations de cette
-loi . » (Th . Ribot, 126 sq.) Cette loi explique surtout les mouvements
-
-[p. 340]
-
-240
+loi . » (Th . Ribot, 126 sq.) Cette loi explique surtout les mouvements [p. 340] 240
 LES FAITS AFFECTIFS
 
 soustraits à la domination de la volonté et qui paraissent incohérents
@@ -18883,9 +17915,7 @@ l'antithèse , qui ferait accompagner certaines émotions de gestes
 contraires à ceux qui expriment l'émotion opposée ;
 troisième
 
-[p. 341]
-
-L'ACTIVITÉ AFFECTIVE SPONTANÉE
+[p. 341] L'ACTIVITÉ AFFECTIVE SPONTANÉE
 : LES ÉMOTIONS ÉT LES PASSIONS
 341
 
@@ -18932,11 +17962,7 @@ des deux états n'est pas immédiatement produit par l'autre , que
 les manifestations corporelles doivent d'abord sr'inteposer entre
 eux. Pour s'exprimer d'une façon rationnelle, il faudrait dire
 : nous
-sommes tristes parce que nous pleurons , irrités parce que nous
-
-[p. 342]
-
-342
+sommes tristes parce que nous pleurons , irrités parce que nous [p. 342] 342
 LES FAITS AFFECTIFS
 
 frappons , effrayés parce que nous tremblons, et non pas que nous
@@ -18990,9 +18016,7 @@ Mais la propriété représentative des faits de conscience s'isole
 absolument de la propriété affective (retard du plaisir ou de la dou-
 leur, suppression totale de l'état affectif et persistance des états
 
-[p. 343]
-
-L'ACTIVITÉ AFFECTIVE SPONTANÉE
+[p. 343] L'ACTIVITÉ AFFECTIVE SPONTANÉE
 : LES ÉMOTIONS ET LES PASSIONS
 343
 
@@ -19041,11 +18065,7 @@ plus aucune émotion ni pour elle ni pour les autres , manifestait
 particulier de la sensibilité intestinale) . Cette anesthésie a coïncidé
 très exactement avec l'abolition de la vie aflective .
 Cette hypothèse dite physiologique, et plutôt physio-psycholo-
-gique, que paraît adopter de plus en plus la psychologie scientifique
-
-[p. 344]
-
-344
+gique, que paraît adopter de plus en plus la psychologie scientifique [p. 344] 344
 LES FAITS AFFECTIFS
 
 et expérimentale, n'a cependant pas fait abandonner une autre
@@ -19094,11 +18114,7 @@ vité vitale de l'ame . » (Dumas , la Joie et la Tristesse , 402 et 404.)
 On voit que la tendance intellectualiste né-
 
 glige les facteurs organiques des phénomènes affectifs pour ne
-considérer que l'état de conscience sous sa forme la plus claire ,
-
-[p. 345]
-
-L'ACTIVITÉ AFFECTIVE SPONTANÉE
+considérer que l'état de conscience sous sa forme la plus claire , [p. 345] L'ACTIVITÉ AFFECTIVE SPONTANÉE
 : LES ÉMOTIONS ET LES PASSIONS
 345
 
@@ -19155,11 +18171,7 @@ comme tout ce qui appartient à la vie affective, d'être grossière et
 confuse
 (Voir ce qui a été dit du plaisir et de la douleur) . Elle est
 une première approximation . La vie représentative , en se greffant
-sur la vie affective , en se développant à côté et au-dessus d'elle , la
-
-[p. 346]
-
-346
+sur la vie affective , en se développant à côté et au-dessus d'elle , la [p. 346] 346
 LES FAITS AFFECTIFS
 
 précise, la rend plus nuancée , plus fine , surtout laisse l'individu
@@ -19230,7 +18242,7 @@ dite , et en même temps une intensité que ne connaîtra jamais le
 sentiment proprement dit,
 beaucoup plus pondéré et réfléchi.
 
-L'idée fixe , d'après Ribot (Revue philosophique, mai et juin 1906) ,
+L'idée fixe , d'après Ribot (*Revue philosophique*, mai et juin 1906) ,
 
 caractérise la passion qui est une forme intellectualisée de la vie
 
@@ -19252,9 +18264,7 @@ toute passion et qui maintient l'idée fixe » . Nous retrouvons avec
 
 cette tendance les facteurs organiques et moteurs, origine de tout
 
-[p. 347]
-
-L'ACTIVITÉ AFFECTIVE SPONTANÉE
+[p. 347] L'ACTIVITÉ AFFECTIVE SPONTANÉE
 : LES ÉMOTIONS ET LES PASSIONS
 347
 
@@ -19306,11 +18316,7 @@ mauvaises ?
 Tous les progrès ont été au commencement des anomalies , et
 l'évolution ne peut s'expliquer que par une déformation du type
 normal . Rousseau n'a-t-il pas dit : « L'homme qui pense est un être
-dépravé. >>> Les premières déformations dans le sens intellectuel
-
-[p. 348]
-
-348
+dépravé. >>> Les premières déformations dans le sens intellectuel [p. 348] 348
 LES FAITS AFFECTIFS
 
 ont été des anomalies
@@ -19345,9 +18351,7 @@ nuisible à l'individu ainsi qu'à la société, et se manifeste comme
 un facteur de trouble ou de régression plutôt que comme un fac-
 teur d'adaptation et de progrès .
 
-[p. 349]
-
-CHAPITRE
+[p. 349] CHAPITRE
 XXII
 
 LA VIE AFFECTIVE ÉLABORÉE
@@ -19397,11 +18401,7 @@ tant un soutien continu . L'émotion a gagné en durée et en stabilité
 ce qu'elle a perdu en violence et en brusquerie : elle s'est atténuée
 tout en élargissant son champ .
 
-23
-
-[p. 350]
-
-350
+23 [p. 350] 350
 LES FAITS AFFECTIFS
 
 Supposons l'atténuation plus prononcée , l'organisation plus forte ,
@@ -19456,9 +18456,7 @@ souvenir . La source de toute poésie, de toute morale et de toute
 religion supérieures ne se trouve que là où l'émotion n'a pas son
 objet immédiatement présent. » (Höffding, 340.) Par la distance et
 
-[p. 351]
-
-LA VIE AFFECTIVE ÉLABORÉE
+[p. 351] LA VIE AFFECTIVE ÉLABORÉE
 : LES SENTIMENTS
 351
 
@@ -19520,11 +18518,7 @@ IV. - CONDITIONS PHYSIOLOGIQUES
 Si nous cherchons au-dessous de
 ces
 facteurs intellectuels les
-causes du mouvement idéal qui les amène à la conscience, nous
-
-[p. 352]
-
-352
+causes du mouvement idéal qui les amène à la conscience, nous [p. 352] 352
 LES FAITS AFFECTIFS
 
 sommes amenés à une
@@ -19588,9 +18582,7 @@ ravage ? ... Et les procédés employés pour susciter, raviver ou ren [^p352-1]
 
 [^p352-1]: Remargne importante . - Voir pour plus de détails sur les inclinaisons le chapitre suivant, surtoutle 2 II .
 
-[p. 353]
-
-LA VIE AFFECTIVE ÉLABORÉE
+[p. 353] LA VIE AFFECTIVE ÉLABORÉE
 : LES SENTIMENTS
 353
 
@@ -19638,11 +18630,7 @@ traites , froides et décolorées .
 A. Transformation de l'émotion en sentiment.
 La preuve
 la plus nette qu'on en puisse apporter, c'est de montrer que les
-sentiments ne sont que des émotions transformées . D'après Th . Ribot,
-
-[p. 354]
-
-354
+sentiments ne sont que des émotions transformées . D'après Th . Ribot, [p. 354] 354
 LES FAITS AFFECTIFS
 
 les procédés de transformations sont réductibles à trois
@@ -19697,9 +18685,7 @@ sa forme complète, se traduirait par la prostration, les larmes , etc.;
 d'autre part, une notion intellectuelle, celle de l'irréparable, de
 l'irrémédiable , de l'inanité de tout effort...
 
-[p. 355]
-
-LA VIE AFFECTIVE ÉLABORÉE : LES SENTIMENTS
+[p. 355] LA VIE AFFECTIVE ÉLABORÉE : LES SENTIMENTS
 355
 
 3º « La transformation par composition est un terme général sous
@@ -19754,11 +18740,7 @@ sent la distinction entre un sentiment et une émotion ou une pas-
 sion , et ne les confond pas :
 « Il y a des états affectifs qui expriment les appétits, besoins ,
 tendances inhérents à notre organisation psychologique. Ils consti-
-tuent le cours régulier ét ordinaire de la vie qui, chez la moyenne
-
-[p. 356]
-
-356
+tuent le cours régulier ét ordinaire de la vie qui, chez la moyenne [p. 356] 356
 LES FAITS AFFECTIFS
 
 des hommes , n'est faite ni d'émotions , ni de passions , mais d'élats
@@ -19809,9 +18791,7 @@ abstraction , empêche de voir les détails , émousse la finesse nécessaire
 à l'action , car l'action est toujours subordonnée à des circonstances
 particulières et spécifiques . Le flair , le tact, la finesse, la délicatesse
 
-[p. 357]
-
-LA VIE AFFECTIVE ÉLABORÉE
+[p. 357] LA VIE AFFECTIVE ÉLABORÉE
 : LES SENTIMENTS
 357
 
@@ -19832,9 +18812,7 @@ historiquement, et on entend encore aujourd'hui, la classification
 générale de faits affectifs . En ce sens, cette question est traitée ici ,
 p . 320 , surtout p . 332 sq . , et p . 350 .
 
-[p. 358]
-
-1.
+[p. 358] 1.
 11.
 
 111.
@@ -19907,9 +18885,7 @@ ensemble d'une façon inséparable.
 La vie affective s'intercale en quelque sorte nécessairement dans
 la vie motrice : elle y a ses conditions antécédentes et ses effets .
 
-[p. 359]
-
-LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
+[p. 359] LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
 359
 
 II .
@@ -19957,11 +18933,7 @@ sciente , la sensibilité organique, qui est la préparation etl'ébauche
 de la vie affective supérieure, consciente. La sensibilité vitale est
 au sentir conscient ce que la mémoire organique est à la mémoire
 au sens courant du mot .
-Cette sensibilité vitale est la propriété de recevoir des excitations
-
-[p. 360]
-
-360
+Cette sensibilité vitale est la propriété de recevoir des excitations [p. 360] 360
 LES FAITS AFFECTIFS
 
 et de réagir en conséquence (D'après Ribot, Psychologie des senti-
@@ -20023,9 +18995,7 @@ tissu , chaque organe , n'a
 qu'un but, exercer son activité, et l'individu physiologique n'est
 pas autre chose que l'expression convergente de toutes ces tendances .
 
-[p. 361]
-
-Elles peuvent se présenter sous une double forme : ou bien elles
+[p. 361] Elles peuvent se présenter sous une double forme : ou bien elles
 expriment un manque , un déficit ; l'élément anatomique,le tissu ,
 l'organisme a besoin de quelque chose . Sous cette forme la tendance
 est impérieuse , irrésistible, telle la faim du carnassier qui englou-
@@ -20072,11 +19042,7 @@ sentations claires . » (Höffding , Psychologie, 303. )
 Nous pénétrons avec le désir dans le domaine de la volonté, au
 point de vue moteur, de l'imagination et de la pensée abstraite
 au point de vue représentatif : ce qui explique que le désir puisse
-s'attacher fréquemment à des objets irréalisables et soit souvent
-
-[p. 362]
-
-362
+s'attacher fréquemment à des objets irréalisables et soit souvent [p. 362] 362
 LES FAITS AFFECTIFS
 
 chimérique, que le sentiment qui toujours l'implique ait, toujours
@@ -20130,11 +19096,7 @@ agisse d'abord sans savoir où il va, sans quoi il n'agirait jamais ou
 agirait bien tard ,
 ce qui n'est pas. Au second moment, il est
 guidé par l'expérience , il repose sur le plaisir et la peine expéri-
-mentés , il cherche l'un et fuit l'autre ... C'est la forme définitive , et
-
-[p. 363]
-
-elle embrasse l'immense majorité des cas . Cependant, même chez
+mentés , il cherche l'un et fuit l'autre ... C'est la forme définitive , et [p. 363] elle embrasse l'immense majorité des cas . Cependant, même chez
 l'adulte , le désir vague, sans objet , sans but déterminé , se rencontre ;
 nous en avons vu des exemples .
 La tendance aveugle, quand elle a atteint son but, s'y complaît et
@@ -20179,11 +19141,7 @@ tudes de l'homme civilisé s'expliqueraient par l'influence obscurcie
 exercée sur nous par les habitudes des hommes primitifs . Touthomme
 a en luides tendances latentes qu'un événement fortuit peut révéler .
 On peut les dire aussi héréditaires, puisqu'elles sont dans un orga-
-nisme hérité . (D'après Ribot, Psychologie des sentiments , p . 174.)
-
-[p. 364]
-
-364
+nisme hérité . (D'après Ribot, Psychologie des sentiments , p . 174.) [p. 364] 364
 LES FAITS AFFECTIFS
 
 2º L'inconscient personnel venant de la cénesthésie , c'est-à-dire des
@@ -20243,11 +19201,7 @@ par une simple analogie .
 Cette seconde manière a une portée
 plus haute, et peut passer d'un individu à plusieurs , à une classe ,
 à des classes . Cette possibilité d'un transfert illimité a été un fac-
-teur moral et social de premier ordre . Il a permis l'extension des
-
-[p. 365]
-
-sentiments sympathiques du clan fermé à des groupes de plus en
+teur moral et social de premier ordre . Il a permis l'extension des [p. 365] sentiments sympathiques du clan fermé à des groupes de plus en
 plus distants (D'après Ribot, Psychologie des sentiments , p . 174-175) .
 4° Formation du contenu CONSCIENT des inclinations par l'asso-
 ciation affective .
@@ -20311,11 +19265,7 @@ nerait à la tendance primordiale qu'a l'être à se conserver dans son
 tal : grâce aux représentations qui lui sont liées, elle se dirigerait
 constamment vers tout ce qui peutaccroître les forces de l'individu ,
 
-24
-
-[p. 366]
-
-366
+24 [p. 366] 366
 LES FAITS AFFECTIFS
 
 et l'éloignerait de tout ce qui peut les diminuer . Les mouvements
@@ -20373,9 +19323,7 @@ rien de si impétueux que ses désirs, rien de si caché que ses des-
 
 -
 
-[p. 367]
-
-LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
+[p. 367] LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
 367
 
 seins, rien de si habile que sa conduite. Ses souplesses ne se peuvent
@@ -20424,11 +19372,7 @@ sans lequel cette valeur n'a pas de fondement, et grâce auquel elle
 a primitivement pu naître, peut être complètement oublié . L'avare
 aime l'argent pour l'argent ; bien plus, il renonce même tout à fait
 aux biens que l'argent peut procurer. >>>L'état affectif qui s'attachait
-d'abord aux biens que l'argent procure s'attache à l'argent lui
-
-[p. 368]
-
-368
+d'abord aux biens que l'argent procure s'attache à l'argent lui [p. 368] 368
 LES FAITS AFFECTIFS
 
 même , et la représentation de ces biens a disparu . Un déplace-
@@ -20481,9 +19425,7 @@ tout élément organique ?
 b) L'imitation .- Mais , en acceptant cette dernière hypothèse, nous
 allons voir qu'il y a autant de raisons , et aussi concluantes , pour faire
 
-[p. 369]
-
-LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
+[p. 369] LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
 369
 
 1
@@ -20533,11 +19475,7 @@ entraîne la veuve de l'Inde à suivre son mari dans la mort , le vieux
 Celte à débarrasser ses compagnons d'une bouche inutile par une
 fin volontaire, tout cela, n'est - ce pas de l'altruisme ? On traitera ces
 pratiques de superstitions ; qu'importe , pourvu qu'elles témoignent
-d'une aptitude à se donner. » (Durkheim, Division du travail, 214.)
-
-[p. 370]
-
-370
+d'une aptitude à se donner. » (Durkheim, Division du travail, 214.) [p. 370] 370
 LES FAITS AFFECTIFS
 
 d) Les considérations sociologiques nous permettent même d'aller
@@ -20595,9 +19533,7 @@ pas encore à autrui . C'est une solidarité aussi biologique que psycho-
 logique, et à laquelle nous pouvons donner le nom de sympathie
 (car elle en est la forme la plus basse), ou de tendance égo-altruiste .
 
-[p. 371]
-
-LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
+[p. 371] LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
 371
 
 L'activité affective est d'abord attachée à la conservation et à la
@@ -20653,11 +19589,7 @@ tive, l'émotion tendre
 (bienveillance, compassion, pitié, etc.) . Ce
 n'est plus la sympathie pure et simple , c'est un composé binaire .
 L'habitude commune de ne considérer les phénomènes que sous
-leur forme complète, supérieure, en masque souvent l'origine et
-
-[p. 372]
-
-372
+leur forme complète, supérieure, en masque souvent l'origine et [p. 372] 372
 LES FAITS AFFECTIFS
 
 la composition. Pour comprendre d'ailleurs qu'il y a ici dualité ,
@@ -20707,11 +19639,7 @@ térioriser et à s'aliéner .
 Reste à chercher sous quelle forme elle a fait son entrée dans le
 monde , quelle a été sa première manifestation . A cet égard il n'y a
 que trois hypothèses possibles : l'instinct sexuel (ce qui est bien peu
-vraisemblable), l'état grégeaire , c'est-à-dire l'instinct de sociabilit
-
-[p. 373]
-
-sous sa forme rudimentaire , la vie en bande , en horde ou en trou-
+vraisemblable), l'état grégeaire , c'est-à-dire l'instinct de sociabilit [p. 373] sous sa forme rudimentaire , la vie en bande , en horde ou en trou-
 peaux , sans organisation bien définie, ou l'amour maternel (la fusion
 de ces deux dernières hypothèses paraît le plus probable). (D'après
 Ribot .)
@@ -20760,9 +19688,7 @@ obligation , d'une règle, de ce qui doit être fait ou évité
 l'apparition du sentiment moral... Toute morale réelle qui a vécu ,
 qui a fourni sa pleine carrière, présente deux périodes principales .>>>
 
-[p. 374]
-
-374
+[p. 374] 374
 LES FAITS AFFECTIFS
 
 L'une instinctive , spontanée , inconsciente,
@@ -20811,11 +19737,7 @@ Peaux Rouges , des partis s'étaient formés pour supprimer l'anthro-
 pophagie ; bien plus, les tortures intligées aux prisonniers de guerre .
 Les promoteurs de cette abolition , individus ou groupes, ont été
 des inventeurs . On connaît l'universalité des sacrifices humains ...
-Comment ont-ils disparu ? Il n'y a sur ce point qu'ignorance ou
-
-[p. 375]
-
-légende ; mais ils n'ont disparu que par l'œuvre des hommes . >>>
+Comment ont-ils disparu ? Il n'y a sur ce point qu'ignorance ou [p. 375] légende ; mais ils n'ont disparu que par l'œuvre des hommes . >>>
 (Id. , p . 299-300 . )
 Tout ceci justifie le titre d'inventeurs donné aux promoteurs de
 doctrines morales ; ce sont des hommes d'une supériorité morate
@@ -20861,9 +19783,7 @@ il est toujours précédé d'un apprentissage de gestes . Tout
 emploi de signes, en somme , n'est guère possible , chez les animaux
 comme chez l'homme, que par l'imitation.
 
-[p. 376]
-
-376
+[p. 376] 376
 LES FAITS AFFECTIFS
 
 -1
@@ -20921,11 +19841,7 @@ même famille , que l'on ne s'imite de bande à bande, de famille à
 famille . La vie commune est donc un facteur important de l'imi-
 tation .
 
-<<C'est l'imitation, développée par la vie commune , qui facilitera
-
-[p. 377]
-
-ensuite , par une sorte de choc en retour, le sentiment d'union dans
+<<C'est l'imitation, développée par la vie commune , qui facilitera [p. 377] ensuite , par une sorte de choc en retour, le sentiment d'union dans
 la communauté en particulier, dans le clan de la cité, et ensuite
 dans des sphères de plus en plus larges ,
 à mesure que s'étend
@@ -20977,11 +19893,7 @@ la tendance à la sociabilité . Elle se développe par la sympathie , la
 solidarité , la vie commune , mais par un choc en retour , où elle
 rend souvent plus qu'elle ne reçoit, elle développé sympathie , soli-
 darité et vie commune .
-Seulement elle est une collaboratrice inconsciente etpassive . C'est
-
-[p. 378]
-
-378
+Seulement elle est une collaboratrice inconsciente etpassive . C'est [p. 378] 378
 LES FAITS AFFECTIFS
 
 }
@@ -21038,9 +19950,7 @@ dans les phénomènes des sociétés, aussi bien dans leurs similitudes
 que dans leurs différences , a l'imitation pour cause .
 << Aussi n'est-ce pas sans raison qu'on donne généralement l'épi-
 
-[p. 379]
-
-1
+[p. 379] 1
 
 thète de naturel, en tout ordre de faits sociaux , aux ressemblances
 spontanées , non suggérées , qui s'y produisent entre sociétés diffé-
@@ -21077,9 +19987,7 @@ se développe comme un moyen (inconscient d'abord, et qui le
 reste souvent ensuite) , de se mettre d'accord avec cette très impor-
 tante partie du milieu qu'est le milieu social.
 
-[p. 381]
-
-LIVRE VI
+[p. 381] LIVRE VI
 
 LES FAITS ACTIFS
 
@@ -21134,11 +20042,7 @@ car la conscience telle que nous l'observons n'intervient en aucune
 façon dans leur formation , leur direction , leur développement ; elle
 n'y a que des conditions lointaines ou des concomitants indirects.
 
-25
-
-[p. 382]
-
-382
+25 [p. 382] 382
 LES FAITS AFFECTIFS
 
 Le mouvement psychologique élémentaire est celui qui, au con-
@@ -21188,9 +20092,7 @@ physique des centres nerveux, le mouvement s'explique encore
 d'une façon toute chimique . Le système nerveux ne fait pas inter-
 venir ses propriétés spécifiques dans la production du mouvement .
 
-[p. 383]
-
-LES ÉLÉMENTS .
+[p. 383] LES ÉLÉMENTS .
 LE RÉFLEXE PSYCHIQUE
 383
 
@@ -21246,11 +20148,7 @@ C. Le réflexe psychique.
 Nous donnerons le nom de réflexe
 psychique à cette dernière catégorie de réflexes , la plus complexe
 de toutes . Elle peut être considérée comme l'élément de la motricité
-psychologique , car on trouve une série continue de degrés entre elle
-
-[p. 384]
-
-384
+psychologique , car on trouve une série continue de degrés entre elle [p. 384] 384
 LES FAITS ACTIFS
 
 et l'activité consciente la plus haute ( Höffding , Richet, Spencer) .
@@ -21306,9 +20204,7 @@ vibration plus ou moins intense de la moelle selon l'intensité plus
 ou moins grande du choc extérieur qui produit la vibration ner-
 veuse. » (Id.)
 
-[p. 385]
-
-LES ÉLÉMENTS .
+[p. 385] LES ÉLÉMENTS .
 LE RÉFLEXE PSYCHIQUE
 385
 
@@ -21359,9 +20255,7 @@ plication psychologique , appréciation plus fine, prédominance plus
 grande de la qualité de l'excitation, et coordination plus délicate,
 plus indirecte, donc plus parfaite .
 
-[p. 386]
-
-386
+[p. 386] 386
 LES FAITS ACTIFS
 
 Le réflexe d'acquisition touche aux actes beaucoup plus complexes
@@ -21419,9 +20313,7 @@ vement. En même temps elle détermine toujours dans une certaine
 mesure la forme, la durée , l'intensité, la direction du réflexe . Car
 la conscience est affectée non seulement par la quantité, mais par
 
-[p. 387]
-
-LES ÉLÉMENTS .
+[p. 387] LES ÉLÉMENTS .
 387
 LE RÉFLEXE PSYCHIQUE
 
@@ -21474,9 +20366,7 @@ A. Conditions organiques .- 1º L'ORGANE RÉFLEXE [^p387-1]. - Un réflexe
 
 [^p387-1]: Voir les figurations schématiques de l'organe du réflexe non psychique et du réflexe psychique , p . 430, fig. 1 et 2 .
 
-[p. 388]
-
-388
+[p. 388] 388
 LES
 FAITS ACTIFS
 
@@ -21526,9 +20416,7 @@ ment
 : « Le mouvement de réponse à l'irritation est d'autant plus
 fort pour des irritations égales que l'équilibre de la cellule est
 
-[p. 389]
-
-LES ÉLÉMENTS .
+[p. 389] LES ÉLÉMENTS .
 389
 LE RÉFLEXE PSYCHIQUE
 
@@ -21591,9 +20479,7 @@ centres encéphaliques est caractéristique du réflexe psychique .
 3º La réaction réflexe résulte de la fusion de plusieurs secousses
 ou contractions musculaires élémentaires .
 
-[p. 390]
-
-390
+[p. 390] 390
 LES FAITS ACTIFS
 
 La fibre musculaire ne se contracte qu'un temps appréciable
@@ -21653,9 +20539,7 @@ main, la planchette des spirites
 trois roulettes mobiles en tous sens, munie d'un crayon en son
 centre, et sur laquelle on appuie la main) , la plume électrique
 
-[p. 391]
-
-LES ÉLÉMENTS . - LE RÉFLEXE PSYCHIQUE
+[p. 391] LES ÉLÉMENTS . - LE RÉFLEXE PSYCHIQUE
 391
 
 composée « d'une aiguille animée , par des courants, d'un mouvement
@@ -21708,11 +20592,7 @@ de rotation du cylindre, on saura ce que représente comme temps
 un centimètre de l'abscisse . Si l'on exerce une pression, le stylet
 s'élèvera ou s'abaissera au-dessus de l'abscisse , suivant l'intensité
 du phénomène auquel il obéit . Comme en même temps le cylindre
-continue à tourner, il en résultera que le stylet ne tracera pas
-
-[p. 392]
-
-392
+continue à tourner, il en résultera que le stylet ne tracera pas [p. 392] 392
 LES FAITS ACTIFS
 
 simplement une ligne droite ; le stylet tracera une courbe (une
@@ -21760,9 +20640,7 @@ constant, de sorte que la chronophotographie donne exactement et
 à la fois la forme et le temps . » (Binet, Id. ) La cinématographie
 peut reconstituer le mouvement à l'aide de ces épreuves .
 
-[p. 393]
-
-LES ÉLÉMENTS .
+[p. 393] LES ÉLÉMENTS .
 LE RÉFLEXE PSYCHIQUE
 393
 
@@ -21822,11 +20700,7 @@ querons encore à tous les degrés de l'activité, l'état affectif a une
 influence prédominante : il est une tendance à l'acte beaucoup plus
 forte que la simple représentation de l'excitation , et, si celle- ci
 n'était pas accompagnée de plaisir ou de douleur, le mouvement
-consécutif serait nul ou très faible. Car la quantité d'énergie dé
-
-[p. 394]
-
-394
+consécutif serait nul ou très faible. Car la quantité d'énergie dé [p. 394] 394
 LES FAITS ACTIFS
 
 gagée par l'excitation externe est trop minime pour produire le
@@ -21881,9 +20755,7 @@ mouvements dans les êtres inférieurs et au début de la vie des
 né,
 premiers mouvements consécutifs à l'état cataleptique dans
 
-[p. 395]
-
-LES ÉLÉMENTS .
+[p. 395] LES ÉLÉMENTS .
 LE RÉFLEXE PSYCHIQUE
 395
 
@@ -21930,9 +20802,7 @@ qu'on adopte , considérer la volonté ( motricité) comme la plus pri-
 mitive ou bien comme la plus complexe et la plus dérivée de toutes
 les manifestations psychiques . » (Höffding, 406. )
 
-[p. 396]
-
-CHAPITRE
+[p. 396] CHAPITRE
 XXV
 
 L'ACTIVITÉ MOTRICE SPONTANÉE
@@ -22006,9 +20876,7 @@ caractère général et superficiel qui nous fournit une première
 démarcation , c'est la complexité de l'acte instinctif par rapport à
 l'acte réflexe . Nous appelons instinctifs non un mouvement, si
 
-[p. 397]
-
-L'ACTIVITÉ MOTRICE SPONTANÉE .
+[p. 397] L'ACTIVITÉ MOTRICE SPONTANÉE .
 397
 L'INSTINCT
 
@@ -22059,11 +20927,7 @@ voqué par une irritation unique presque nulle... (Richet, 94). L'acte
 instinctif paraît même émaner, la plupart du temps, d'une excita-
 tion tout interne, et de tendances affectives , sans stimulus externe .
 
-26
-
-[p. 398]
-
-398
+26 [p. 398] 398
 LES FAITS ACTIFS
 
 L'oiseau voit constamment des brins d'herbe ; cependant les actes
@@ -22112,9 +20976,7 @@ premier mouvement jusqu'au dernier ; il ne saurait y avoir d'hési-
 tation , puisqu'il faudrait pour cela qu'il y eût conscience plus ou
 moins nette du but à atteindre .
 
-[p. 399]
-
-L'ACTIVITE MOTRICE SPONTANÉE. - L'INSTINGT
+[p. 399] L'ACTIVITE MOTRICE SPONTANÉE. - L'INSTINGT
 399
 
 g) Par suite , l'instinct ne peut pas être le résultat de l'éducation
@@ -22176,9 +21038,7 @@ psychologiques . Ces deux points de vue sont absolument paral-
 lèles, la complication rendant nécessaire un accroissement d'in-
 fluence de la conscience .
 
-[p. 400]
-
-400
+[p. 400] 400
 LES FAITS ACTIFS
 
 A. Instincts primaires. - Les réflexes d'acquisition forment la
@@ -22231,9 +21091,7 @@ voile de soie, auquel la chrysalide peut être fermement suspendue,
 mais qui, placée dans une boîte recouverte d'un couvercle en
 mousseline, s'aperçoit que ce voile n'est pas nécessaire et suspend
 
-[p. 401]
-
-L'ACTIVITÉ MOTRICE SPONTANÉE .
+[p. 401] L'ACTIVITÉ MOTRICE SPONTANÉE .
 401
 L'INSTINCT
 
@@ -22287,11 +21145,7 @@ dances ou images kinesthésiques .
 B. Éléments représentatifs d'excitation (perceptions).- Les
 images motrices se déroulent toujours à l'eccasion d'une excitation
 
-1
-
-[p. 402]
-
-402
+1 [p. 402] 402
 LES FAITS ACTIFS
 
 externe.
@@ -22345,9 +21199,7 @@ A. Conditions organiques de production. - Au point de vue
 physiologique , la seule ligne de démarcation entre le réflexe et
 l'instinct, c'est que ce dernier est plus complexe et plus actif, tout
 
-[p. 403]
-
-L'ACTIVITÉ MOTRICE SPONTANÉE .
+[p. 403] L'ACTIVITÉ MOTRICE SPONTANÉE .
 403
 L'INSTINCT
 
@@ -22394,11 +21246,7 @@ se manifestent aussi très nettement dans des êtres chez lesquels
 les hémisphères du cerveau n'ont aucune importance (instinct de
 nutrition des nouveau-nés) . Il est donc probable que des mouve-
 ments instinctifs peuvent provenir aussi des centres inférieurs de
-l'encéphale . » (Höffding, 411. )
-
-[p. 404]
-
-404
+l'encéphale . » (Höffding, 411. ) [p. 404] 404
 LES FAITS ACTIFS
 
 B. Les mouvements dans l'instinct.
@@ -22449,9 +21297,7 @@ et de beaucoup, sur l'impulsion instinctive . Plus un être obéit à
 l'instinct, et plus aussi il est émotif.
 L'homme primitif, l'enfant, l'animal ont une vie beaucoup plus
 
-[p. 405]
-
-L'ACTIVITÉ MOTRICE SPONTANÉE .
+[p. 405] L'ACTIVITÉ MOTRICE SPONTANÉE .
 405
 L'INSTINCT
 
@@ -22505,11 +21351,7 @@ fois formés, se modifient, lorsque le milieu vient à changer, si ce
 changement est assez peu sensible pour ne pas présenter un danger
 immédiat pour l'individu . Alors les excitations nouvelles amèneront
 des mouvements nouveaux etdéformeront, dans une certaine mesure ,
-la trame ancienne . Ceux qui seront suivis de conséquences nuisibles ,
-
-[p. 406]
-
-406
+la trame ancienne . Ceux qui seront suivis de conséquences nuisibles , [p. 406] 406
 LES FAITS ACTIFS
 
 partant d'états douloureux, s'élimineront, et ceux qui seront utiles
@@ -22557,9 +21399,7 @@ diaires entre l'instinct et l'intelligence , entre l'automatisme et la
 volonté, ont suggéré une explication de l'instinct qui contredirait
 ce que nous venons de dire sur la nature de ce phénomène . Bien
 
-[p. 407]
-
-L'ACTIVITÉ MOTRICE SPONTANÉE .
+[p. 407] L'ACTIVITÉ MOTRICE SPONTANÉE .
 L'INSTINCT
 407
 
@@ -22619,9 +21459,7 @@ La première forme de la théorie
 
 finaliste rétablit sous l'inconscience et lafatalité apparente des mou-
 
-[p. 408]
-
-408
+[p. 408] 408
 LES FAITS ACTIFS
 
 1
@@ -22676,9 +21514,7 @@ travailler à leur but avec la plus grande sûreté ou précision sans
 le connaître, sans en avoir la moindre représentation .
 » (Janet et
 
-[p. 409]
-
-L'ACTIVITÉ MOTRICE SPONTANÉE .
+[p. 409] L'ACTIVITÉ MOTRICE SPONTANÉE .
 409
 L'INSTINCT
 
@@ -22738,9 +21574,7 @@ gane . Les tissus se différencieront et s'organiseront en vue de ces
 
 [^p409-1]: Voir théorie de l'habitude, p . 93 .
 
-[p. 410]
-
-410
+[p. 410] 410
 LES FAITS ACTIFS
 
 mouvements . C'est ainsi que se fera l'adaptation de l'être et de son
@@ -22793,9 +21627,7 @@ DENCE HISTORIQUE DU
 FINALISME .
 Nous voyons que la théorie de
 
-[p. 411]
-
-L'ACTIVITÉ MOTRICE SPONTANÉE .
+[p. 411] L'ACTIVITÉ MOTRICE SPONTANÉE .
 411
 L'INSTINCT
 
@@ -22850,9 +21682,7 @@ traire , on a toujours vu que là où l'ignorance des faits avait d'abord
 fait croire à la finalité, une observation plus sagace l'avait ensuite
 progressivement éliminée .
 
-[p. 412]
-
-CHAPITRE
+[p. 412] CHAPITRE
 XXVI
 
 L'ACTIVITÉ MOTRICE ÉLABORÉE
@@ -22912,9 +21742,7 @@ termes qu'ils supposent, excitation, élaboration centrale, exécution,
 seuls l'excitation et le mouvement exécuté peuvent être conscients
 dans le réflexe , l'excitation et l'exécution elle-même (images mo
 
-[p. 413]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE . - LES VOLITIONS
+[p. 413] L'ACTIVITÉ MOTRICE ÉLABORÉE . - LES VOLITIONS
 413
 
 trices) dans l'instinct.
@@ -22979,11 +21807,7 @@ la tête. >>>
 
 -
 
-27
-
-[p. 414]
-
-314
+27 [p. 414] 314
 LES FAITS ACTIFS
 
 Cette distinction, d'ailleurs , est superficielle et arbitraire comme
@@ -23032,9 +21856,7 @@ plexes, plus aussi la différenciation psychologique fait de progrès .
 Il est également évident qu'un temps plus long est nécessaire pour
 que la réaction ait lieu, quand ce sont plusieurs activités différentes
 
-[p. 415]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 415] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 LES VOLITIONS
 415
 
@@ -23095,11 +21917,7 @@ et représente
 l'activité raisonnable au sens courant du mot . La tendance à l'acte
 n'est ni instantanée, ni violente; mais il y a encore un lien entre
 l'idée et l'acte, et celui-ci s'accomplit d'une façon réfléchie et mo-
-dérée : c'est l'acte volontaire sous sa forme la plus délibérée et la
-
-[p. 416]
-
-416
+dérée : c'est l'acte volontaire sous sa forme la plus délibérée et la [p. 416] 416
 LES FAITS ACTIFS
 
 plus consciente .
@@ -23161,9 +21979,7 @@ préparatoire , qu'un côté partiel, puisque dans l'acte volontaire il
 intervient d'autres facteurs que les phénomènes affectifs ; nous
 verrons même qu'il faut que ceux-ci se subordonnent aux motifs
 
-[p. 417]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 417] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 417
 LES VOLITIONS
 
@@ -23215,11 +22031,7 @@ des moyens en vue de l'acte . « Du côté psychologique et intérieur,
 rien ne distingue le jugement au sens logique du mot, c'est-à-dire
 une affirmation théorique, de la volition; sinon que celle-ci se tra-
 duit par un acte et qu'elle est ainsi un jugement mis à exécution ...
-Elle est analogue au jugement, avec cette différence que l'un exprime
-
-[p. 418]
-
-418
+Elle est analogue au jugement, avec cette différence que l'un exprime [p. 418] 418
 LES FAITS ACTIFS
 
 un rapport de convenance ou de disconvenance entre des idées , l'autre
@@ -23290,9 +22102,7 @@ coup moins direct et immédiat que dans le réflexe. Dans l'acte
 volontaire, il y a rupture complète entre l'excitation externe et la
 réponse motrice . Non seulement l'excitation est la plupart du temps
 
-[p. 419]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 419] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 LES VOLITIONS
 419
 
@@ -23354,11 +22164,7 @@ régions déterminées du corps, si bien qu'en ces points de l'écorce
 se trouve figurée l'origine de tous les mouvements de la région
 corporelle correspondante .
 Hitzig (1870) a reconnu l'excitabilité de l'écorce et indiqué la plu-
-part des centres moteurs . Charcot a confirmé ces localisations par
-
-[p. 420]
-
-420
+part des centres moteurs . Charcot a confirmé ces localisations par [p. 420] 420
 LES FAITS ACTIFS
 
 << des observations
@@ -23408,9 +22214,7 @@ Remarquons encore que ces centres corticaux sont en rapport
 étroit avec le système sympathique, par l'intermédiaire de la couche
 optique . Ils influent directement ainsi sur les nerfs sécréteurs et
 
-[p. 421]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 421] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 LES VOLITIONS
 421
 
@@ -23483,11 +22287,7 @@ convulsions limitées au pouce... Dans la zone motrice inféricure
 existent des centres contigus , mais distincts, pour le facial intérieur
 (centre buccal) , la langue,le pharynx (centre de la déglutition) , le
 larynx (centre de la phonation) . »
-<< Tous les centres musculaires ne sont pas connus. On ignore le
-
-[p. 422]
-
-422
+<< Tous les centres musculaires ne sont pas connus. On ignore le [p. 422] 422
 LES FAITS ACTIFS
 
 0)
@@ -23539,9 +22339,7 @@ mérations de cellules nerveuses , surtout des grandes cellules pyra-
 midales , dont les cylindres-axes deviennentles fibres constitutivesdu
 faisceau pyramidal ou du faisceau géniculé. Par ces faisceaux elles
 
-[p. 423]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 423] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 LES VOLITIONS
 423
 
@@ -23637,9 +22435,7 @@ Les plus petites cellules sont dans les centres moteurs de la face .>>>
 
 [^p423-1]: Le μ = 1/1000 ° de millimètre.
 
-[p. 424]
-
-424
+[p. 424] 424
 LES FAITS ACTIFS
 
 Les centres ne contiennent pas que des cellules pyramidales
@@ -23687,11 +22483,7 @@ tion dans ces derniers temps, conclut que le cervelet communique ,
 on pourrait dire injecte, aux autres centres nerveux , une force
 lente, tranquille et continue... Cette influence , dit Luciani, se ma-
 nifeste de trois manières : par une action sthénique, qui augmente
-l'énergie potentielle dont disposent les appareils neuro -musculaires ;
-
-[p. 425]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+l'énergie potentielle dont disposent les appareils neuro -musculaires ; [p. 425] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 425
 LES VOLITIONS
 
@@ -23741,9 +22533,7 @@ court qu'il soit, si rapide que semble la résolution, le temps du
 mouvement volontaire le plus simple est plus long que le temps d'un
 mouvement automatique .
 
-[p. 426]
-
-426
+[p. 426] 426
 LES FAITS ACTIFS
 
 C. Inhibition (résolution) . - L'organisme physiologique de la
@@ -23800,9 +22590,7 @@ qu'elles sont produites : ce serait la synthèse des sensations muscu-
 laires qui nous avertiraient de l'effet produit- etnous serviraient,
 par leurs images, à corriger ou à reproduire ensuite le mouvement
 
-[p. 427]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 427] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 427
 LES VOLITIONS
 
@@ -23831,11 +22619,7 @@ V.
 NATURE DE
 LA VOLONTÉ [^p427-1]
 
-[^p427-1]: La volonté, synthèse de la vie psychique supérieure . De même que le réflexe et l'instinct sont la synthèse des formes inférieures de la vie psychique, la volonté est la synthèse de toute notre activité élaborée et pleinement consciente. Elle expose la su- prématie de l'idée (motif) et du sentiment (mobile) sur l'image et l'émotion passionnelle . B. Prédominance des faits affectifs. Les idées, par leurs associations rapides et complexes, et par la sûreté de leurs infor- mations , seraient certes les directrices par excellence de nos actes volontaires . Elles apportent, avec la science, une vue claire et dis- tincte des conditions de l'action et de ses conséquences . Elles per- mettent la délibération précise, la résolution intelligente et sûre, grâce à la facilité avec laquelle nous les manions et à la certitude de nos raisonnements . Malheureusement elles n'ont guère de pou
-
-[p. 428]
-
-428
+[^p427-1]: La volonté, synthèse de la vie psychique supérieure . De même que le réflexe et l'instinct sont la synthèse des formes inférieures de la vie psychique, la volonté est la synthèse de toute notre activité élaborée et pleinement consciente. Elle expose la su- prématie de l'idée (motif) et du sentiment (mobile) sur l'image et l'émotion passionnelle . B. Prédominance des faits affectifs. Les idées, par leurs associations rapides et complexes, et par la sûreté de leurs infor- mations , seraient certes les directrices par excellence de nos actes volontaires . Elles apportent, avec la science, une vue claire et dis- tincte des conditions de l'action et de ses conséquences . Elles per- mettent la délibération précise, la résolution intelligente et sûre, grâce à la facilité avec laquelle nous les manions et à la certitude de nos raisonnements . Malheureusement elles n'ont guère de pou [p. 428] 428
 LES FAITS ACTIFS
 
 voir sur nous . Il ne faut pas exagérer leur impuissance ; elles sont
@@ -23883,9 +22667,7 @@ risées , subissant en quelque sorte la loi, ou de périr, ou de se cou-
 ler en des canaux qui sont les tendances particulières organisées ? >>>
 (Id. , 49.) En un mot, notre caractère est surtout déterminé parnotre
 
-[p. 429]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 429] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 LES VOLITIONS
 429
 
@@ -23944,11 +22726,7 @@ nation, puisqu'elle
 permettait une adaptation plus
 consciente
 
-28
-
-[p. 430]
-
-430
+28 [p. 430] 430
 LES FAITS ACTIFS
 
 Neurone descentres
@@ -24067,9 +22845,7 @@ grâce au trajet Ka, Ma.
 (Les flèches indiquent la direction suivie par le courant nerveux; le pointillé, la voie utilisée ;
 le trait plein, le trajet conscient .)
 
-[p. 431]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE.
+[p. 431] L'ACTIVITÉ MOTRICE ÉLABORÉE.
 431
 LES VOLITIONS
 
@@ -24095,8 +22871,8 @@ ce que nous venons de dire que l'acte volontaire est un processus
 dérivé, une résultante, une conséquence .
 Il ne peut pas y avoir
 d'acte volontaire antérieur aux mouvements réflexes et instinctifs ;
-il ne peut pas y avoir de direction a priori imposée aux mouvements
-pas plus qu'il n'y a d'idées a priori , ou de sentiments innés , du
+il ne peut pas y avoir de direction *a priori* imposée aux mouvements
+pas plus qu'il n'y a d'idées *a priori* , ou de sentiments innés , du
 moins
 au point de vue psychologique (car la question doit être
 réservée au point de vue métaphysique) . Dans notre conscience se
@@ -24134,9 +22910,7 @@ l'instinct , puisqu'il n'en est que l'évolution plus haute et plus
 complexe , ce qui explique que les êtres qui ont le plus d'instincts
 nous paraissent aussi les plus intelligents .
 
-[p. 432]
-
-432
+[p. 432] 432
 LES FAITS ACTIFS
 
 On objecte souvent à cette affirmation l'exemple de l'homme .
@@ -24191,9 +22965,7 @@ pleinement consciente, c'est-à-dire l'ensemble des états psycholo
 
 [^p432-1]: Pour le problème métaphysique de la liberté, voir p. 964 .
 
-[p. 433]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE.
+[p. 433] L'ACTIVITÉ MOTRICE ÉLABORÉE.
 433
 LES VOLITIONS
 
@@ -24250,9 +23022,7 @@ possibilité d'un choix , la manifestation d'un pouvoir libre , de notre
 propre puissance , de notre bon plaisir . Aussi éveille-t-elle insensi-
 blement le sentiment de notre responsabilité .
 
-[p. 434]
-
-434
+[p. 434] 434
 LES FAITS ACTIFS
 
 Enfin l'acte , au lieu de se déclancher automatiquement, est sus-
@@ -24305,9 +23075,7 @@ peuples peu cultivés qui représentent encore pour ainsi dire
 l'enfance de l'humanité , est entièrement spontanée, automatique ;
 les premiers mouvements chez l'enfant sont des réflexes ; bientôt
 
-[p. 435]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 435] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 LES VOLITIONS
 435
 
@@ -24355,11 +23123,7 @@ on peut déjà dire voulu . C'est le moi qui agit, c'est-à-dire la syn-
 thèse d'éléments représentatifs et affectifs pleinement conscients .
 Mais ensuite l'acte est soustrait aux prises de la personnalité ; il
 tend vers l'automatisme .
-Or, on sait que chez l'enfant, chez le primitif, chez le dégénéré, le
-
-[p. 436]
-
-436
+Or, on sait que chez l'enfant, chez le primitif, chez le dégénéré, le [p. 436] 436
 LES FAITS ACTIFS
 
 malade , le fou , ou simplement le faible, chez tous ceux qui n'ont
@@ -24385,9 +23149,7 @@ L'acte volontaire n'est donc, en dernière analyse, que l'acte dont
 le facteur prédominant est notre réflexion . Cette réalité psycholo--
 gique se révèle surtout dans la délibération .
 
-[p. 437]
-
-CHAPITRE XXVII
+[p. 437] CHAPITRE XXVII
 
 FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT DE L'ACTIVITÉ
 
@@ -24436,11 +23198,7 @@ a deux sens
 1 ° Un homme qui a du caractère est un homme qui a de la
 volonté, chez qui l'activité est consciente , réfléchie au plus haut
 point, chez qui l'instinct, l'inclination sont en général refoulés au
-second plan ou asservis . L'éducation s'est faite , comme nous l'avons
-
-[p. 438]
-
-438
+second plan ou asservis . L'éducation s'est faite , comme nous l'avons [p. 438] 438
 LES FAITS ACTIFS
 
 décrit , par la subordination de l'activité affective et impulsive à
@@ -24486,9 +23244,7 @@ synthétique de toute la vie psychologique . Aussi la psychologie sur
 ce point est-elle très peu avancée . Elle ne s'est guère élevée plus
 haut qu'à des essais de classification .
 
-[p. 439]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 439] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 LES VOLITIONS
 439
 
@@ -24537,9 +23293,7 @@ réagir toujours constante avec elle-même, une convergence géné
 
 [^p439-1]: « Le bon sens est la chose du monde la mieux partagée » , dit Descartes , au début du Discours de la Méthode . Par bon sens, il entend la raison .
 
-[p. 440]
-
-440
+[p. 440] 440
 LES FAITS ACTIFS
 
 rale des tendances, des instincts et des désirs , et la stabilité, qui
@@ -24603,9 +23357,7 @@ vements simples
 et primitifs , la contraction et l'expansion . La
 tendance à la contraction est la source de toutes les impulsions et
 
-[p. 441]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE . - LES VOLITIONS
+[p. 441] L'ACTIVITÉ MOTRICE ÉLABORÉE . - LES VOLITIONS
 441
 
 réactions par lesquelles l'animal agit dans le sens de sa conser-
@@ -24654,11 +23406,7 @@ partie de leurs conditions nécessaires , en tout cas, les plus simples ,
 les plus élémentaires, les plus proches des origines .
 Il faut donc
 nous attendre à ce que cette marque individuelle , qui s'applique à
-toute vie psychologique, ait elle aussi ses conditions dans les moda
-
-[p. 442]
-
-442
+toute vie psychologique, ait elle aussi ses conditions dans les moda [p. 442] 442
 LES FAITS ACTIFS
 
 lités particulières sous lesquelles se présente chez chaque individu
@@ -24708,9 +23456,7 @@ Au-dessus de cette première couche d'éléments conditionnants du
 caractère, couche organique et profonde, la plus résistante aux alté-
 rations morbides , ou aux effets de l'éducation , il en est une seconde
 
-[p. 443]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 443] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 443
 LES VOLITIONS
 
@@ -24770,11 +23516,7 @@ l'antériorité intime de la personne et sa capacité de se déterminer
 elle-même , ne peut supposer le passage des degrés inférieurs
 aux supérieurs
 sans supposer une action du dehors , ne fût-ce
-que pour dégager le ressort interne. Dans le développement de
-
-[p. 444]
-
-444
+que pour dégager le ressort interne. Dans le développement de [p. 444] 444
 LES FAITS ACTIFS
 
 l'esprit plus encore que dans celui du corps, il est difficile de sépa-
@@ -24825,9 +23567,7 @@ miner un caractère .
 Il faut qu'elle se maintienne ou se répète
 toujours la même dans des circonstances identiques ou analogues .
 
-[p. 445]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 445] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 LES VOLITIONS
 445
 La marque propre d'un vrai caractère, c'est d'apparaître dès l'enfance
@@ -24879,11 +23619,7 @@ mesure ? Ne l'est-elle pas du tout. La morale, le droit pénal et la
 pédagogie ont un intérêt très vif à la solution de ce problème , car
 c'est de cette solution que dépend leur utilité pratique. Si le carac
 
-29
-
-[p. 446]
-
-446
+29 [p. 446] 446
 LES FAITS ACTIFS
 
 tère n'est pas modifiable, il ne sert à rien en effet de chercher à le
@@ -24939,9 +23675,7 @@ tère amorphe est éducable ? Et est-il toujours souhaitable de tendre
 vers un caractère entier , facilement étroit et aveugle . Le modifier ,
 progresser, n'est-ce pas aussi la marque de l'intelligence ? Un vraž
 
-[p. 447]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE . - LES VOLITIONS
+[p. 447] L'ACTIVITÉ MOTRICE ÉLABORÉE . - LES VOLITIONS
 447
 
 caractère peut être un caractère de brute ou un très mauvais carac-
@@ -24995,9 +23729,7 @@ instincts ,
 l'automatisme psychologique (le subconscient) et les
 habitudes . La encore l'éducation a peu de prise, sauf sur les habi-
 
-[p. 448]
-
-448
+[p. 448] 448
 LES FAITS ACTIFS
 
 1
@@ -25057,9 +23789,7 @@ claire ,
 réfléchie , entre souvent en conflit avec tous les éléments spontanés
 plus ou moins confus qui ne sont pas reliés à elle, ou le sont d'une
 
-[p. 449]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE.
+[p. 449] L'ACTIVITÉ MOTRICE ÉLABORÉE.
 LES VOLITIONS
 449
 
@@ -25113,9 +23843,7 @@ On peut d'ailleurs préciser par
 des faits quelques points de ces conclusions très générales , forcé-
 ment hypothétiques , sur l'éducation du caractère .
 
-[p. 450]
-
-450
+[p. 450] 450
 LES FAITS ACTIFS
 
 Le problème n'est que la suite de celui que nous avons posé en
@@ -25175,11 +23903,7 @@ sciente et volontaire, continue son rôle . La volonté devient ainsi
 un élément essentiel dans toute notre vie intellectuelle supérieure .
 C'est elle qui la rend méthodique et nous donne le goût toujours
 plus vif du vrai, en même temps qu'elle nous fournit le contrôle
-nécessaire à toutes les opérations que nous tentons pour l'atteindre ;
-
-[p. 451]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE.
+nécessaire à toutes les opérations que nous tentons pour l'atteindre ; [p. 451] L'ACTIVITÉ MOTRICE ÉLABORÉE.
 LES VOLITIONS
 451
 
@@ -25227,11 +23951,7 @@ l'Education de la Volonté , étudie surtout les moyens moraux qu'ou-
 bliait trop sans doute M. de Fleury et, à son tour, il néglige peut-
 être avec excès les ressources que peut fournir l'hygiène et la thé-
 rapeutique, malgré son chapitre sur l'hygiène corporelle . On trouvera
-dans son ouvrage une très intéressante étude sur les moyens de
-
-[p. 452]
-
-452
+dans son ouvrage une très intéressante étude sur les moyens de [p. 452] 452
 LES FAITS ACTIFS
 
 développer et de fortifier le pouvoir personnel , de favoriser les sen-
@@ -25283,9 +24003,7 @@ habitudes
 antérieures (sentimentales et passionnelles),
 on peut
 
-[p. 453]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE . - LES VOLITIONS
+[p. 453] L'ACTIVITÉ MOTRICE ÉLABORÉE . - LES VOLITIONS
 453
 
 faire appel à l'habitude et à l'automatisme pour lutter
@@ -25306,9 +24024,7 @@ et abètissez-vous » ; abêtissez-vous , c'est-à-dire agissez de plus en
 plus automatiquement dans toutes les pratiques qui se rattachent
 au sentiment que vous voulez faire naître .
 
-[p. 454]
-
-CHAPITRE
+[p. 454] CHAPITRE
 XXVIII
 
 CONCLUSION
@@ -25369,9 +24085,7 @@ action directe sur le corps . Enfin, pour toutes les opérations supé-
 rieures de l'esprit, on déclarait que « c'était sans organe que l'on
 pense » .
 
-[p. 455]
-
-CONCLUSION .
+[p. 455] CONCLUSION .
 LE PHYSIQUE ET LE MORAL
 455
 
@@ -25420,11 +24134,7 @@ s'expliquer par des actions mécaniques . L'analogie ne permet
 vraiment d'attribuer la sensibilité au plaisir et à la douleur et, par
 suite, la conscience, dont elle est le premier signe, qu'aux orga-
 nismes doués d'éléments nerveux .
-Il faut s'en tenir là pour le
-
-[p. 456]
-
-456
+Il faut s'en tenir là pour le [p. 456] 456
 LES FAITS ACTIFS
 
 moment et noter le progrès de la conscience avec la complication
@@ -25481,9 +24191,7 @@ Ainsi les
 modifications
 physiques sont considérées comme précédant les faits psycho
 
-[p. 457]
-
-CONCLUSION .
+[p. 457] CONCLUSION .
 LE PHYSIQUE ET LE MORAL
 457
 logiques ou tout au moins comme données en même temps .
@@ -25529,11 +24237,7 @@ Il en résulte que, chez
 les êtres assez simples, vivant dans un milieu peu différencié ,
 l'acte conscient doit être l'exception ; l'acte automatique, la règle .
 Il en résulte encore que, dans les organismes plus compliqués et
-chez l'homme lui-même, un très grand nombre d'actes simples
-
-[p. 458]
-
-458
+chez l'homme lui-même, un très grand nombre d'actes simples [p. 458] 458
 LES FAITS ACTIFS
 
 répondant à des circonstances très simples, doivent être automa-
@@ -25600,9 +24304,7 @@ frontales des hémisphères) se trouve une quantité innombrable de
 centres inférieurs commandantàdes mouvements qui ne paraissent
 pas absolument aveugles .
 
-[p. 459]
-
-CONCLUSION.
+[p. 459] CONCLUSION.
 LE PHYSIQUE ET LE MORAL
 459
 
@@ -25654,12 +24356,10 @@ tend à la subordonner à son controle : accentuer cette subordina-
 tion, voilà l'œuvre de la vie psychologique supérieure et voilà la
 tâche la plus haute que l'éducation individuelle peut se proposer .
 
-[p. 461]
+[p. 461] OUVRAGES A CONSULTER "
 
-OUVRAGES A CONSULTER "
-
-Sur toutes les questions de psychologie et de philosophie , lire la Revue philosophique;
-la Revue de Métaphysique et de Morale; l'Année philosophique ; l'Année psychologique ;
+Sur toutes les questions de psychologie et de philosophie , lire la *Revue philosophique*;
+la *Revue de Métaphysique et de Morale*; l'Année philosophique ; l'Année psychologique ;
 l'Année sociologique ; le Journal de psychologie normale et pathologique .
 
 PSYCHOLOGIE
@@ -25697,11 +24397,7 @@ Bain , l'Esprit et le Corps (Paris , ALCAN) .
 Grasset , Anatomie des centres nerveux (Paris , J.-B. BAILLIÈRE) .
 Debierre , La moelle épinière et l'encéphale (Paris , ALCAN) . [^p461-1]
 
-[^p461-1]: Cette bibliographie n'a pas la prétention d'être complète : elle indique seulement les ouvrages auxquels on a eu recours pour l'établissement de ces Leçons - et qui sont les plus importants ou les plus récents sur la question, partant ceux qu'on peut se pro- curer le plus aisément. A cause de cela, ont été éliminés tous les ouvrages étrangers non traduits, bien qu'il y en ait d'une importance considérable, tels que les Principles of psychology de W. James , ou The Human mind de J. Sully, les ouvrages de Wundt , d'Ebbinghaus , etc. 30
-
-[p. 462]
-
-462
+[^p461-1]: Cette bibliographie n'a pas la prétention d'être complète : elle indique seulement les ouvrages auxquels on a eu recours pour l'établissement de ces Leçons - et qui sont les plus importants ou les plus récents sur la question, partant ceux qu'on peut se pro- curer le plus aisément. A cause de cela, ont été éliminés tous les ouvrages étrangers non traduits, bien qu'il y en ait d'une importance considérable, tels que les Principles of psychology de W. James , ou The Human mind de J. Sully, les ouvrages de Wundt , d'Ebbinghaus , etc. 30 [p. 462] 462
 OUVRAGES A CONSULTER
 
 -
@@ -25750,7 +24446,7 @@ MÉMOIRE
 Ribot, les Maladies de la mémoire (Paris , ALCAN) .
 Bergson , Matière et Mémoire (Paris , ALCAN) .
 Le Dantec , Théorie nouvelle de la vie (Paris, ALCAN) .
-Ravaisson , l'Habitude ( N° 1 de la Revue de métaphysique et de morale , année 1894) .
+Ravaisson , l'Habitude ( N° 1 de la *Revue de métaphysique et de morale* , année 1894) .
 
 II .
 ATTENTION
@@ -25777,9 +24473,7 @@ les Émotions (trad. Dumas) (Paris , ALCAN) .
 Ribot, Psychologie des sentiments ; — la Logique des Sentiments ; – Essai sur les passions
 (Paris , ALCAN) .
 
-[p. 463]
-
-OUVRAGES A CONSULTER
+[p. 463] OUVRAGES A CONSULTER
 463
 
 Dumas , la Tristesse et la Joie ; — les États intellectuels dans la mélancolie ; — le Sourire
@@ -25858,9 +24552,7 @@ CONCEPTS
 
 Ribot, Évolution des idées générales (Paris , ALCAN) .
 
-[p. 464]
-
-464
+[p. 464] 464
 OUVRAGES A CONSULTER
 
 V.
@@ -25899,9 +24591,7 @@ Bain, les Emotions et la Volonté (Paris , ALCAN) .
 Lapie, Logique de la volonté (Paris , ALCAN) ,
 Bertrand, la Psychologie de l'effort (Paris , ALCAN) .
 
-[p. 465]
-
-INDEX ALPHABÉTIQUE
+[p. 465] INDEX ALPHABÉTIQUE
 
 A
 
@@ -26049,9 +24739,7 @@ Déduction : 250-253 .
 Délibération : 414.
 Discernement (temps de), 425 .
 
-[p. 466]
-
-466
+[p. 466] 466
 INDEX ALPHABÉTIQUE
 
 Discrimination : cf. Attention .
@@ -26249,9 +24937,7 @@ finalité (théorie métaphysique de l'-)
 Irritabilité
 : 382 .
 
-[p. 467]
-
-INDEX ALPHABÉTIQUE
+[p. 467] INDEX ALPHABÉTIQUE
 467
 J
 
@@ -26473,16 +25159,14 @@ ments : 349 ; - et imagination : 282.
 Résistance : cf. Effort .
 Résolution : 416-417 .
 
-[p. 468]
-
-468
+[p. 468] 468
 INDEX ALPHABETIQUE
 
 S
 
 Scepticisme : cf. théorie de la Connaissance
 
-(passim).
+(*passim*).
 
 Sentiments : 349-356 ; classification des - :
 
@@ -26541,9 +25225,7 @@ nature de la
 :427;
 éducation de la -: 429 .
 
-[p. 469]
-
-PSYCHOLOGIE
+[p. 469] PSYCHOLOGIE
 
 PRÉFACE .
 
@@ -26643,11 +25325,7 @@ Classification des faits psychologiques .
 11.
 Le développement de la vie consciente ; manifestations directes ; vie
 consciente , spontanée et réfléchie .
-47
-
-[p. 470]
-
-470
+47 [p. 470] 470
 TABLE DES MATIÈRES
 
 111.
@@ -26780,9 +25458,7 @@ Détermination du fait
 1
 135
 
-[p. 471]
-
-TABLE DES MATIÈRES
+[p. 471] TABLE DES MATIÈRES
 471
 
 Pages.
@@ -26924,11 +25600,7 @@ Nature du jugement ; son rôle .
 232
 234
 240
-242
-
-[p. 472]
-
-472
+242 [p. 472] 472
 TABLE DES MATIÈRES
 
 CHAPITRE XVI
@@ -27075,9 +25747,7 @@ Nature et rôle du plaisir et de la douleur.
 321
 323
 
-[p. 473]
-
-CHAPITRE XXI
+[p. 473] CHAPITRE XXI
 
 L'activité affective spontanée. Les émotions et les passions .
 
@@ -27210,9 +25880,7 @@ VI.
 Les théories del'instinct et leurs rapports avec les théories de l'habitude .
 405
 
-[p. 474]
-
-CHAPITRE XXVI
+[p. 474] CHAPITRE XXVI
 
 L'activité motrice élaborée . Les volitions .
 

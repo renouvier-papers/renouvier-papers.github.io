@@ -10,9 +10,7 @@ title: "Les Arguments de Zénon d'Élée contre le mouvement"
 
 ---
 
-[p. 1]
-
-LES ARGUMENTS
+[p. 1] LES ARGUMENTS
 
 DE ZÉNON
 
@@ -42,9 +40,7 @@ est considérable
 
 . Dans les [^p1-1]
 
-[p. 2]
-
-temps modernes, leur renommée n'a pas été moins grande : Bayle les expose et les défend avec une ampleur extrême et une complaisance visible
+[p. 2] temps modernes, leur renommée n'a pas été moins grande : Bayle les expose et les défend avec une ampleur extrême et une complaisance visible
 
 ; Hamilton les croit faux, mais les juge irréfutables
 
@@ -68,9 +64,7 @@ Si les admirateurs de la dialectique de Zénon sont nombreux et
 
 autorisés, les contradicteurs ne lui ont pas manqué non plus, à commencer [^p2-1][^p2-2][^p2-3][^p2-4][^p2-5]
 
-[p. 3]
-
-par
+[p. 3] par
 
 Aristote, qui
 
@@ -104,9 +98,7 @@ sans vouloir se prononcer sur la valeur absolue de ces arguments, estime que « 
 
 fait est, dit M. Renouvier, que ces sophismes occupent, dans l'histoire de la philosophie ancienne, une place analogue à celle que les antinomies de Kant ont prise de nos jours ; et, dans l'ordre de la vérité philoso-[^p3-1][^p3-2][^p3-3][^p3-4][^p3-5][^p3-6][^p3-7]
 
-[p. 4]
-
-phique,
+[p. 4] phique,
 
 selon moi, une place plus importante qu'ils ne perdront jamais
 
@@ -156,9 +148,7 @@ difficulté à laquelle puisse donner lieu cet argument, c'est celle d'une expos
 
 « Le quatrième argument de Zénon est tiré [^p5-1][^p5-2]
 
-[p. 6]
-
-de masses égales entre elles qui, dans une enceinte donnée, ou dans un stade, marcheraient avec des
+[p. 6] de masses égales entre elles qui, dans une enceinte donnée, ou dans un stade, marcheraient avec des
 
 vitesses égales à l'encontre les unes des
 
@@ -202,9 +192,7 @@ et C de même dimension marchant avec des vitesses égales, en sens inverse l'un
 
 l'autre, et passant au moment même de leur rencontre devant un troisième corps A, de même dimension qu'eux, mais im-[^p6-1][^p6-2]
 
-[p. 7]
-
-mobile. Il est évident que les deux corps B et C mettront à
+[p. 7] mobile. Il est évident que les deux corps B et C mettront à
 
 passer l'un
 
@@ -222,9 +210,7 @@ est nécessaire pour passer devant B, tout en lui étant égal
 
 Il n'est pas difficile de découvrir où est le vice de l'argument. Zénon prend pour accordé que le temps nécessaire pour passer devant un corps [^p7-1]
 
-[p. 8]
-
-de dimension donnée avec une
+[p. 8] de dimension donnée avec une
 
 vitesse donnée est le même, que ce corps soit en mouvement ou non. Or c'est là une absurdité manifeste, tellement manifeste même, que
 
@@ -282,11 +268,7 @@ supprimer les deux mots
 
 XIVETT
 
-qu'il suppose avoir été in-
-
-[p. 10]
-
-troduits dans le texte par un copiste inintelligent, et il traduit ¹ :
+qu'il suppose avoir été in-[p. 10]troduits dans le texte par un copiste inintelligent, et il traduit ¹ :
 
 « Si toujours une chose est en repos quand elle est dans un espace égal à elle-même,
 
@@ -326,9 +308,7 @@ tout
 
 doit être [^p10-1]
 
-[p. 11]
-
-en repos ou en mouvement. La flèche qui vole est donc en repos pendant tout le temps de sa course 4. »
+[p. 11] en repos ou en mouvement. La flèche qui vole est donc en repos pendant tout le temps de sa course 4. »
 
 M. Zeller à qui nous empruntons ce texte de Simplicius
 
@@ -352,11 +332,7 @@ il est à tout $ instant en repos ou en mouvement. Mais, dans
 
 2. Philosophie des Grecs.
 
-(Traduct. Em. Boutroux, tom. II, p. 79.)
-
-[p. 12]
-
-l'instant indivisible, il n'y a point de mouvement ; donc, à chaque instant de sa course, le mobile est en repos.
+(Traduct. Em. Boutroux, tom. II, p. 79.) [p. 12] l'instant indivisible, il n'y a point de mouvement ; donc, à chaque instant de sa course, le mobile est en repos.
 
 La différence capitale
 
@@ -410,11 +386,7 @@ Mais
 
 ce
 
-raisonnement n'im-
-
-[p. 13]
-
-plique-t-il pas une véritable pétition de principe ;. attendu que les partisans de la réalité objective du mouvement, qui
+raisonnement n'im-[p. 13]plique-t-il pas une véritable pétition de principe ;. attendu que les partisans de la réalité objective du mouvement, qui
 
 accorderont à coup sûr qu'un corps est toujours dans un espace égal à lui-même, n'accorderont jamais
 
@@ -452,11 +424,7 @@ adoptée, puisqu'ici, comme chez Simplicius,
 
 la preuve repose sur l'impossibilité du mouvement dans l'instant indivisible. Le raisonnement tel que le donne M. Zeller est irréprochable comme celui du commentateur grec ; toute la question est de savoir lequel des deux est le plus conforme au texte d'Aristote. Le savant historien de la Philosophie des Grecs prétend que son interprétation
 
-2
-
-[p. 14]
-
-dedic du εἶναι κατὰ τὸ ἴσον est celle de Themistius et de Simplicius. Pour Simplicius, nous croyons avoir montré qu'il se trompe. Quant à Themistius, voici comment il paraphrase le texte d'Aristote : « Si,
+2 [p. 14] dedic du εἶναι κατὰ τὸ ἴσον est celle de Themistius et de Simplicius. Pour Simplicius, nous croyons avoir montré qu'il se trompe. Quant à Themistius, voici comment il paraphrase le texte d'Aristote : « Si,
 
 disait Zénon,
 
@@ -480,7 +448,6 @@ cette
 
 façon d'entendre l'argument est précisément celle de
 
-#### M
 
 Renouvier à qui Themistius semble
 
@@ -500,11 +467,7 @@ divergence de l'interprétation de M. Zeller avec la nôtre qui est celle de Sim
 
 Αεὶ μὲν γὰρ ἕκαστον τῶν κινουμένων
 
-ἐν τῷ νῦν τὸ ἴσον ἑαυτῷ κατέχει διάστημα. (Themistius, p. 56 à 394.)
-
-[p. 15]
-
-mes d'accord sur le fond et sur la signification vraie
+ἐν τῷ νῦν τὸ ἴσον ἑαυτῷ κατέχει διάστημα. (Themistius, p. 56 à 394.) [p. 15] mes d'accord sur le fond et sur la signification vraie
 
 de
 
@@ -534,9 +497,7 @@ et
 
 de tous les commentateurs anciens, qui sont unanimes à reconnaître que l'argument de Zénon suppose la composition du temps au moyen d'instants indivisibles'.[^p15-1]
 
-[p. 16]
-
-Ainsi, tant au point de vue philologique qu'au point de vue de l'argument même, nous croyons devoir conserver en
+[p. 16] Ainsi, tant au point de vue philologique qu'au point de vue de l'argument même, nous croyons devoir conserver en
 
 entier le texte d'Aristote, et expliquer comme nous l'avons fait. La flèche qui vole
 
@@ -602,9 +563,7 @@ il traduit d'une façon qui, comme nous pensons l'avoir montré, ne semble pas t
 
 rencontré M. Renouvier, et aussi celui où s'est heurté M. Zeller, la conservation des deux mots grecs qu'ils ont cru devoir supprimer paraît donc indispensable.
 
-[p. 17]
-
-Il est
+[p. 17] Il est
 
 évident qu'ils devaient
 
@@ -712,9 +671,7 @@ capitale,
 
 que [^p18-1]
 
-[p. 19]
-
-Zénon
+[p. 19] Zénon
 
 raisonnant
 
@@ -768,11 +725,7 @@ manières
 
 d'interpréter l'Achille, ou plutôt d'en poser les bases. Dans la Flèche que nous venons d'étudier, Zénon niait que le mouvement pût avoir lieu dans l'élément du temps, c'est-à-dire dans l'instant indivisible ; et nous avons vu que cette proposition
 
-était la
-
-[p. 20]
-
-base même de son argumentation. Dans l'Achille au contraire,
+était la [p. 20] base même de son argumentation. Dans l'Achille au contraire,
 
 il accorde qu'un déplacement du mobile puisse avoir lieu dans l'instant indivisible ; et ce
 
@@ -800,11 +753,7 @@ ellemême, mais
 
 elle
 
-dut lui paraître s'imposer à quiconque admettrait la réalité du mouvement, fût- ce hypothétiquement, et dans le dessein d'en montrer l'absurdité. Ajoutons en passant que l'Achille ainsi compris a des rapports d'étroite
-
-[p. 21]
-
-parenté avec l'argument du Stade, le dernier des quatre que rapporte Aristote, puisque l'un et l'autre tendent au même but, prouver que le mouvement tel qu'il est donné dans la représentation est en opposition avec la raison.
+dut lui paraître s'imposer à quiconque admettrait la réalité du mouvement, fût- ce hypothétiquement, et dans le dessein d'en montrer l'absurdité. Ajoutons en passant que l'Achille ainsi compris a des rapports d'étroite [p. 21] parenté avec l'argument du Stade, le dernier des quatre que rapporte Aristote, puisque l'un et l'autre tendent au même but, prouver que le mouvement tel qu'il est donné dans la représentation est en opposition avec la raison.
 
 Telles
 
@@ -840,7 +789,6 @@ c'est d'admettre que le temps y est pris comme continu. Cette interprétation
 
 est en particulier celle de
 
-#### M
 
 Renouvier, qui pense comme nous que l'Achille et la Flèche sont destinés à se compléter réciproquement, mais qui les oppose l'un à l'autre en ce que, suivant lui, le temps serait pris discontinu dans la Flèche et continu dans l'Achille, tandis qu'à notre
 
@@ -848,11 +796,7 @@ avis
 
 il serait formé d'instants
 
-en
-
-[p. 22]
-
-nombre infini dans la Flèche,
+en [p. 22] nombre infini dans la Flèche,
 
 et d'instants en nombre fini dans l'Achille.
 
@@ -886,11 +830,7 @@ la
 
 distance qu'elle a parcourue, et même une distance beaucoup plus grande, de sorte qu'en passant il aura mis la main sur elle.
 
-Nous avons signalé deux interprétations possibles de l'Achille, et nous venons d'établir que, quelle que soit celle des deux que l'on choisisse,
-
-[p. 23]
-
-l'argument est faux ; mais n'en existerait-il pas une troisième ? Non, dirons-nous, et voici pourquoi. Relativement au temps,
+Nous avons signalé deux interprétations possibles de l'Achille, et nous venons d'établir que, quelle que soit celle des deux que l'on choisisse, [p. 23] l'argument est faux ; mais n'en existerait-il pas une troisième ? Non, dirons-nous, et voici pourquoi. Relativement au temps,
 
 trois hypothèses seulement sont possibles : ou bien le temps est composé d'un nombre infini d'instants, et dans ce cas il ne peut pas y avoir de mouvement du tout, ainsi que la Flèche a pour objet de le montrer, de sorte qu'il ne
 
@@ -918,11 +858,7 @@ M. Renouvier accepte la conclusion de l'Achille, « parce que le
 
 concept d'une
 
-quantité continue étant le même que celui de l'addition
-
-[p. 24]
-
-de parties indéfinies, ou de la soustraction de parties inépuisables, il est absurde de supposer que
+quantité continue étant le même que celui de l'addition [p. 24] de parties indéfinies, ou de la soustraction de parties inépuisables, il est absurde de supposer que
 
 l'indéfini
 
@@ -978,9 +914,7 @@ quantité
 
 continue quelconque ; et tout ce [^p24-1][^p24-2]
 
-[p. 25]
-
-que la
+[p. 25] que la
 
 démonstration
 
@@ -1018,9 +952,7 @@ contraire que la vraie question, c'est la question du quand et non celle du comm
 
 celle du comment ne se pose même pas. Les deux [^p25-1][^p25-2][^p25-3][^p25-4]
 
-[p. 26]
-
-coureurs se rencontreront en courant, cela est assez clair.
+[p. 26] coureurs se rencontreront en courant, cela est assez clair.
 
 Mais,
 
@@ -1092,9 +1024,7 @@ argument,
 
 et [^p26-1][^p26-2]
 
-[p. 27]
-
-voyons
+[p. 27] voyons
 
 si l'on est bien fondé
 
@@ -1130,11 +1060,7 @@ troisième argument.
 
 « Dans le parcours d'une ligne continue, dit-il, la moitié doit toujours être parcourue avant le tout, puis le quart avant la seconde moitié, puis le hui1.
 
-« Μὴ κινεῖσθαι διὰ τὸ πρότερον εἰς τὸ ἥμισυ δεῖν ἀφικέσθαι τὸ φερόμενον ἢ πρὸς τὸ τέλος. » (Loc. cit.)
-
-[p. 29]
-
-tième
+« Μὴ κινεῖσθαι διὰ τὸ πρότερον εἰς τὸ ἥμισυ δεῖν ἀφικέσθαι τὸ φερόμενον ἢ πρὸς τὸ τέλος. » (*Loc. cit.*) [p. 29] tième
 
 avant le troisième
 
@@ -1182,9 +1108,7 @@ difficulté
 
 se produirait [^p29-1][^p29-2][^p29-3]
 
-[p. 30]
-
-encore,
+[p. 30] encore,
 
 et
 
@@ -1230,11 +1154,7 @@ Nous sera-t-il permis de prendre pour accordé que la Dichotomie tend à prouver
 
 et nos adversaires euxmêmes sont au fond absolument de notre avis, puisque, suivant eux, ce que Zénon veut établir, c'est que le mouvement ne peut être supposé réel sans contradiction.
 
-S'il pouvait rester sur
-
-[p. 31]
-
-ce point le moindre doute, nous n'aurions qu'à renvoyer aux textes cités plus haut
+S'il pouvait rester sur [p. 31] ce point le moindre doute, nous n'aurions qu'à renvoyer aux textes cités plus haut
 
 ',
 
@@ -1254,9 +1174,7 @@ doute
 
 aussi celui de la tortue. Entre vingt passages de l'ouvrage cité plus haut, où il est affirmé nettement que dans l'Achille le mouvement est supposé, il nous suffira de citer le texte de l'argument tel que l'éminent auteur le traduit lui-même d'Aristote : « < Le plus lent, dans sa course, ne peut à aucun moment être a.teint par le plus rapide, car il faut [^p31-1]
 
-[p. 32]
-
-auparavant que celui qui poursuit soit arrivé là d'où celui qui fuit
+[p. 32] auparavant que celui qui poursuit soit arrivé là d'où celui qui fuit
 
 s'est déjà
 
@@ -1292,9 +1210,7 @@ reconnaît que « Zénon ne suppose le mouvement que pour en montrer
 
 l'absurdité. » Il l'admet même tellement que, à son avis, la course s'effectue d'une manière réelle, mais dans un espace différent de l'espace continu que nous nous représentons,[^p32-1][^p32-2]
 
-[p. 33]
-
-puisque, « < si l'espace franchi par les deux coureurs
+[p. 33] puisque, « < si l'espace franchi par les deux coureurs
 
 était
 
@@ -1340,9 +1256,7 @@ C'est l'opinion expresse de Stuart Mill 2. Mais en particulier, pour l'identité
 
 dire qu'il y a entre [^p33-1][^p33-2]
 
-[p. 34]
-
-ces auteurs unanimité. Aristote est sur ce point parfaitement explicite : « L'argument de l'Achille, dit-il, est le même que celui de la division en deux parties,
+[p. 34] ces auteurs unanimité. Aristote est sur ce point parfaitement explicite : « L'argument de l'Achille, dit-il, est le même que celui de la division en deux parties,
 
 sauf qu'ici la grandeur donnée n'est point divisée de
 
@@ -1376,9 +1290,7 @@ entre deux extrêmes sont en nombre infini ;
 
 or il est impossible, de l'aveu de tout le monde, de parcourir des points [^p34-1][^p34-2]
 
-[p. 35]
-
-en nombre infini. Dans nos premiers écrits sur le mouvement, nous
+[p. 35] en nombre infini. Dans nos premiers écrits sur le mouvement, nous
 
 résolvions la difficulté en faisant observer que
 
@@ -1400,9 +1312,7 @@ franchir
 
 cet espace, et de plus celui qui le séparait de la tortue au moment du [^p35-1]
 
-[p. 36]
-
-départ, c'est ce que l'on a tort de contester suivant Aristote,
+[p. 36] départ, c'est ce que l'on a tort de contester suivant Aristote,
 
 si l'on admet d'une part
 
@@ -1460,11 +1370,7 @@ raisons très solides et très probantes qui
 
 συμβεβηκὸς
 
-ἄπειρα διελήλυθεν, ἁπλῶς δ'ού. (Ibid.)
-
-[p. 37]
-
-militent en faveur de la Dichotomie. Les deux causes qu'on a confondues sont absolument distinctes. La Dichotomie rétablie dans ses droits et débarrassée d'une accointance dangereuse a pour
+ἄπειρα διελήλυθεν, ἁπλῶς δ'ού. (*Ibid.*) [p. 37] militent en faveur de la Dichotomie. Les deux causes qu'on a confondues sont absolument distinctes. La Dichotomie rétablie dans ses droits et débarrassée d'une accointance dangereuse a pour
 
 elle l'assentiment
 
@@ -1532,9 +1438,7 @@ Dans la
 
 Dichotomie il est démontré, comme nous venons de le dire,[^p38-1]
 
-[p. 39]
-
-que le mouvement ne peut exister d'une façon absolue, ce qui laisse intacte la question de savoir s'il ne peut pas être donné dans la représentation,
+[p. 39] que le mouvement ne peut exister d'une façon absolue, ce qui laisse intacte la question de savoir s'il ne peut pas être donné dans la représentation,
 
 et
 
@@ -1572,11 +1476,7 @@ comme possible, n'est pas ce qu'il devrait être, puisqu'il devrait être tel qu
 
 la
 
-réalité, il l'atteint très promptement. Mais la démonstration de cette thèse n'a pas été faite, nous l'avons vu encore, et ne pouvait pas
-
-[p. 40]
-
-l'être, parce qu'elle est erronée. Le mouvement une fois admis comme possible,
+réalité, il l'atteint très promptement. Mais la démonstration de cette thèse n'a pas été faite, nous l'avons vu encore, et ne pouvait pas [p. 40] l'être, parce qu'elle est erronée. Le mouvement une fois admis comme possible,
 
 et c'est dans la représentation seulement que cette possibilité
 
@@ -1618,9 +1518,7 @@ qu'elle
 
 doit être, et n'est en rien contradictoire.
 
-[p. 41]
-
-Une chose du reste prouve clairement combien peu Zénon entrevoyait le sens et la portée vraie de ses arguments
+[p. 41] Une chose du reste prouve clairement combien peu Zénon entrevoyait le sens et la portée vraie de ses arguments
 
 contre le mouvement, et combien peu il se rendait compte de sa propre pensée. Dans la Flèche, ce qu'il entreprend d'établir, c'est, disons-nous, que le mouvement dans le temps et dans l'espace
 
@@ -1658,9 +1556,7 @@ cela même qu'ils ne peuvent être composés, ni par conséquent supposés réel
 
 . Ainsi la Flèche et l'Achille vont direc-[^p41-1]
 
-[p. 42]
-
-tement à l'encontre de la Dichotomie, puisqu'ils supposent possible ce que la Dichotomie avait démontré absurde, ce qui ne laisse pas
+[p. 42] tement à l'encontre de la Dichotomie, puisqu'ils supposent possible ce que la Dichotomie avait démontré absurde, ce qui ne laisse pas
 
 d'être assez singulier chez un logicien qu'on prétend si
 
@@ -1690,9 +1586,7 @@ soi, et la pensée comme en étant l'expression adéquate et la reproduction fid
 
 ont besoin d'être composés, soit ; mais le temps et l'espace absolus, ou à titre provisoire, peu importe, puisqu'ils sont divisibles.
 
-[p. 43]
-
-fût signalé et détruit plus radicalement qu'il ne put l'être,
+[p. 43] fût signalé et détruit plus radicalement qu'il ne put l'être,
 
 postérieurement à Zénon, du reste,
 
@@ -1704,11 +1598,7 @@ et leurs successeurs. Que Zénon ait échoué dans sa tentative, il n'y a donc p
 
 par sa Dichotomie que le temps dans lequel il vivait, que l'espace et le mouvement qu'il voyait de ses yeux étaient choses contradictoires, tandis qu'en réalité il avait établi que toutes ces choses sont de pures données dé la représentation, et n'ont point de réalité objective et absolue ; c'est-à-dire qu'il avait prouvé la thèse de Kant.
 
-Du reste, quel qu'ait été le succès de sa tentative, son mérite n'en reste pas moins grand,
-
-[p. 44]
-
-pour avoir
+Du reste, quel qu'ait été le succès de sa tentative, son mérite n'en reste pas moins grand, [p. 44] pour avoir
 
 le premier
 
@@ -1728,9 +1618,7 @@ la négation sophistique de la science. Mais, dans la suite, la spéculation pla
 
 de Zénon, nous devons reconnaître qu'elle tient une place considérable dans l'histoire de la science ¹. »[^p44-1]
 
-[p. 45]
-
-TABLE
+[p. 45] TABLE
 
 5
 

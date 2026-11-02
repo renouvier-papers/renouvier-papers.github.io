@@ -10,9 +10,7 @@ title: "La Pensée intuitive. Tome I : Au-delà du discours (1929)"
 
 ---
 
-[p. V]
-
-PRÉFACE
+[p. V] PRÉFACE
 
 LaMétaphysique est souvent décriée parce qu'elle est souvent
 méconnue . Ses détracteurs l'opposent à la Science comme l'ima-
@@ -48,9 +46,7 @@ ne pas induire d'une vitalité si persistante que la Métaphysique
 
 -
 
-[p. VI]
-
-- et
+[p. VI] - et
 doit répondre à quelque tendance profonde, essentielle,
 par conséquent légitime, - de l'esprit humain ? En présence
 d'un tel fait, au moins faut-il reconnaître qu'une question reste
@@ -86,11 +82,7 @@ reprises au Collège de France. Des fragments de ce cours ont
 d'ailleurs été déjà publiés par divers périodiques (Revue bleue,
 1922 ; Vers l'Unité, 1925) d'après des Conférences données aux
 mêmes dates . Enfin plusieurs passages sont repris d'articles
-parus auparavant dans la Revue de Métaphysique et de Morale
-
-[p. VII]
-
-(1899-1900, 1901 et 1905), dans la Correspondance de l'Union
+parus auparavant dans la *Revue de Métaphysique et de Morale* [p. VII] (1899-1900, 1901 et 1905), dans la Correspondance de l'Union
 pour la Vérité (1906) et dans le Bulletin de la Société fran-
 
 çaise de Philosophie (1908).
@@ -99,9 +91,7 @@ L'ouvrage comprend deux parties : I, Au delà du Discours .
 quent suffisamment le double objet : un mouvement d'aller , puis
 de retour .
 
-[p. 1]
-
-LA PENSÉE INTUITIVE
+[p. 1] LA PENSÉE INTUITIVE
 
 CHAPITRE
 I
@@ -133,9 +123,7 @@ en nous menant peu à peu vers elle .
 
 1
 
-[p. 2]
-
-...
+[p. 2] ...
 
 Ce n'est pas une affaire très simple que de définir la Phi-
 losophie . On s'y heurte à plus d'une difficulté. Il est d'ail-
@@ -176,9 +164,7 @@ que l'a constituée une tradition maintenant séculaire, est
 
 -
 
-[p. 3]
-
-surtout une certaine façon de percevoir et de penser, je dirai
+[p. 3] surtout une certaine façon de percevoir et de penser, je dirai
 même une certaine façon de vivre et d'agir, brefune attitude,
 une démarche, une méthode, une discipline. Ce qu'il faut
 chercher en elle de propre, de spécifique, c'est donc une
@@ -208,11 +194,7 @@ que matière que ce soit, contre l'emprise des préjugés ; qui
 s'efforce vers la pleine conscience et autonomiedu jugement ;
 qui voudrait porter la lumière de la réflexion critiquejus-
 qu'à la racine même de son être et de sa pensée, jusqu'au
-principe le plus secret de ses affirmations, de ses états, de
-
-[p. 4]
-
-ses démarches ; qui se propose, notamment, de comprendre
+principe le plus secret de ses affirmations, de ses états, de [p. 4] ses démarches ; qui se propose, notamment, de comprendre
 et d'apprécier l'acte par lequel est élaborée la science ou
 constitué le sens commun ; bref, qui tend à résoudre en unité
 supérieure la dualité du sujet et de l'objet.
@@ -244,11 +226,7 @@ supérieure la dualité del'action et de la pensée .
 Ainsi le philosophe est essentiellement l'hommed'un triple
 effort : 1º effort de critique, vers la pleine clartéde conscience ;
 2º effort de spéculation, vers une connaissance profonde,
-intime et désintéressée du réel ; 3º effort de sagesse, vers le
-
-[p. 5]
-
-discernement des réalités spirituelles et la réalisation des va-
+intime et désintéressée du réel ; 3º effort de sagesse, vers le [p. 5] discernement des réalités spirituelles et la réalisation des va-
 leurs idéales .
 Quelque chose fait d'ailleurs le lien de ces
 trois moments solidaires et forme centre dans l'organisme
@@ -283,11 +261,7 @@ la science théorique : elles ne prouvent jamais que la misère
 et l'infirmité de leurs auteurs. Ily a, en vérité, des problèmes
 ultimes qui se posent nécessairement, inéluctablement à tout
 homme de science, à tout homme d'action, s'il entend deve-
-nir maître de soi et de ses œuvres ; et ces problèmes, la phi
-
-[p. 6]
-
-losophie seule a qualité pour en connaître : leur existence lui
+nir maître de soi et de ses œuvres ; et ces problèmes, la phi [p. 6] losophie seule a qualité pour en connaître : leur existence lui
 assure donc une raison d'être indestructible. Tel est le prin-
 cipeque nous nous attacherons d'abord à mettre en lumière,
 avant de discuter la méthode qui permet d'aboutir dans la voie
@@ -316,11 +290,7 @@ sommaire, de vue synoptique en raccourci . Assurément il ne
 saurait être question d'approfondir ni même d'esquisser une
 solution effective de ces problèmes ; force nous sera de res-
 treindre nos remarques àdes généralités assez larges pour n'en-
-gager par avance aucune thèse trop déterminée. Mais je crois
-
-[p. 7]
-
-quecela estpossible, sans tomber de ce chef dans la banalité
+gager par avance aucune thèse trop déterminée. Mais je crois [p. 7] quecela estpossible, sans tomber de ce chef dans la banalité
 ou l'imprécision ; et tout mon effort va tendre à éviter ce
 double écueil, en restant néanmoins objectif et impartial,
 autant que le comporte la nature du sujet.
@@ -350,9 +320,7 @@ pensée génératrice, - par une révision réfléchie des œuvres de
 connaissance jadis accomplies dans la pénombre des sponta-
 néités primitives. Là en est au moins le point de départ, la
 
-[p. 8]
-
--
+[p. 8] -
 phase initiale et préparatoire, le moment d'ouverture. Et puis-
 que les sciences ,
 dans l'acception la plus largedu terme, les
@@ -390,11 +358,7 @@ ble, à l'enquête scientifique, à la création d'art, à l'organisa-
 tion morale et socialedela vie, est une pensée directe, naïve,
 pratique, tournée vers les choses, amie des résultats, qui part
 de principes adoptés d'instinct, qui s'abandonne aux impul-
-sions motrices de certaines habitudes fondamentales primiti
-
-[p. 9]
-
-vement contractées, puis qui va droitdevant soi sans s'exami-
+sions motrices de certaines habitudes fondamentales primiti [p. 9] vement contractées, puis qui va droitdevant soi sans s'exami-
 ner ni s'approfondir elle-même. La Philosophie, au contraire,
 veut êtrepensée de la pensée, pensée faisant retour sur son his-
 toire et sur son œuvre, connaissance qui aspire à se connaître,
@@ -424,11 +388,7 @@ sans rapports avec celle-ci .
 Au contraire la Philosophie, à ce stade, est en contact
 direct avec les sciences ; elle est philosophie des sciences . Est-
 
-il besoin de longs discours pour la justifier à ce titre ? La re
-
-[p. 10]
-
-cherche qu'elle institue, légitime et nécessaire en tout temps,
+il besoin de longs discours pour la justifier à ce titre ? La re [p. 10] cherche qu'elle institue, légitime et nécessaire en tout temps,
 répond en outre à une inquiétude contemporaine.
 Voici
 quelques années déjà que savants et philosophes aspirent à
@@ -458,11 +418,7 @@ autre rôle, un autre office, un autre pouvoir que ceuxde créer
 ou d'entretenir autour du laboratoire une atmosphère favo-
 rable à l'invention. Prenons-la simplement comme Critique.
 Même ainsi conçue trop étroitement, son rapport à la science
-est celui d'une interprétation à une donnée, d'une théorie à
-
-[p. 11]
-
-un fait. D'une certaine manière, elle domine donc la science,
+est celui d'une interprétation à une donnée, d'une théorie à [p. 11] un fait. D'une certaine manière, elle domine donc la science,
 puisqu'elle a pour tâche de l'expliquer, de lajuger, puisqu'elle
 en détermine la signification, la valeur et la borne. Si la phi-
 losophie a besoin de la science pour trouver un corps qui la
@@ -494,11 +450,7 @@ La Science, d'autre part, reçoit toutes
 faites certaines
 formes de représentation intelligible : nombre, temps, espace,
 etc., au moins quant à leur substance ; elle se règle sur cer-
-tains principes recteurs admis à titre de postulats, qu'elle
-
-[p. 12]
-
-emprunte sans critique au sens commun et auxquels elle ne
+tains principes recteurs admis à titre de postulats, qu'elle [p. 12] emprunte sans critique au sens commun et auxquels elle ne
 fait subir que des retouches secondaires. Principes et formes,
 elle les accepte au fond les yeux fermés ; elle s'en sert, elle
 les utilise et les applique, mais elle ne les scrute pas en eux-
@@ -529,9 +481,7 @@ son attitude même crée un au-delà, un noumène, le mirage
 d'une chose en soi. Et finalement nous ne saurions apprendre
 d'elle seule à quelle distance elle nous laisse de la réalité pure.
 
-[p. 13]
-
-Enfin, qui nous assure que la pensée scientifique soit toute
+[p. 13] Enfin, qui nous assure que la pensée scientifique soit toute
 la pensée ? Il se pourrait au contraire que la Science ne repré-
 sentât pour l'esprit qu'un mode particulier
 d'attitude et
@@ -563,11 +513,7 @@ impuissante à juger elle-même de ce qu'elle-même représente
 et vaut dans la vie totale de l'esprit.
 Ces brèves remarques suffisent à mettre en évidence par
 contraste un premier rôle nécessaire et inaliénable de la Phi-
-losophie. Tandis que la Science implique irrévocablement
-
-[p. 14]
-
-multiplicité de points de vue, la Philosophie, disions-nous,
+losophie. Tandis que la Science implique irrévocablement [p. 14] multiplicité de points de vue, la Philosophie, disions-nous,
 est recherche de l'unité intégrale. A elle donc de comprendre
 l'expérience en tant que démarche du sujet, de découvrir ce
 qui la fonde comme vérité, de résoudre ainsi le dualisme
@@ -587,7 +533,7 @@ ou, comme disait Lachelier, science du sujet. Et, sous cet
 angle, il est facile d'énumérer quelques-uns de ses princi-
 paux problèmes : elle est doctrine des concepts universels,
 analyse et critique des idées régulatrices de l'entendement,
-recherche des lois rationnelles a priori qui régissent l'expé-
+recherche des lois rationnelles *a priori* qui régissent l'expé-
 rience à tous ses niveaux successifs , bref détermination de ce
 qui constitue l'apport du sujet dans l'acte de connaître, tout
 cela en vue d'approfondir la notion même de vérité, de définir
@@ -597,11 +543,7 @@ de conscience intellectuelle : sa mission a une autre face. En
 
 effet le savant reste toujours, presque par définition, un spé-
 cialiste ; et je n'ai pas besoin d'insister après Auguste Comte
-sur le péril mortel que ferait courir à l'esprit l'abus de la
-
-[p. 15]
-
-spécialisation. De là un second office du philosophe : main-
+sur le péril mortel que ferait courir à l'esprit l'abus de la [p. 15] spécialisation. De là un second office du philosophe : main-
 tenir l'idéal d'unité dans le savoir et travailler à une œuvre
 
 d'unification croissante.
@@ -632,11 +574,7 @@ scientifiques et dont la science ne pourrait se charger sans un
 cercle vicieux. Notez bien qu'à cet égard je range la Psycho-
 logie et la Sociologie parmi les sciences positives : c'est pour-
 quoi j'ai pris soin de dire que je prenais le mot « science >>>
-dans l'acception la plus large. Sans doute la Philosophie,
-
-[p. 16]
-
-envisageant toute chose dans ses rapports à l'activité spiri-
+dans l'acception la plus large. Sans doute la Philosophie, [p. 16] envisageant toute chose dans ses rapports à l'activité spiri-
 tuelle, a des liens particuliers avec les sciences morales , avec
 la psychologie surtout ; et nous aurons à y revenir. Ces
 liens cependant sont toujours de même genre que ceux que
@@ -669,9 +607,7 @@ réel plus loin que le regarddu savant. Et il nous faut consi-
 dérer maintenant la nouvelle phase du savoir ainsi préparée
 et rendue possible.
 
-[p. 17]
-
-*
+[p. 17] *
 
 **
 
@@ -687,7 +623,7 @@ l'examen de la réflexion comme issue d'un travail utilitaire de
 
 l'esprit en vue de la vie courante. Au moins faut-il admettre
 qu'un souci d'utilité s'y mêle dès le principe et sans doute la
-déforme, dans une proportion inconnue a priori, mais qui
+déforme, dans une proportion inconnue *a priori*, mais qui
 doit être fort grande : car il n'est pas vraisemblable , - bien
 au contraire, - que la nature, en nous organisant, ait tendu
 spécialement à fairede nousdes philosophes. Surdeux points ,
@@ -709,11 +645,7 @@ elle s'intéresse moins aux transitions qu'aux états ; elle ne
 vise qu'à l'objet défini et stable, devenu chose ou terme, prêt
 -au maniement industriel ou discursif, où elle voit pour cette
 
-2
-
-[p. 18]
-
-raison le fondement élémentaire de l'existence ; et ainsi, dans
+2 [p. 18] raison le fondement élémentaire de l'existence ; et ainsi, dans
 sa hantise d'utilité encore, elle méconnaît le devenir, seul
 vraiment réel. Dès que l'esprit s'éveille à la curiosité spécu-
 lative, il ne peut donc se contenter des notions partiales que
@@ -743,11 +675,7 @@ Supposons maintenant accomplie cette œuvre de réforme,
 dont je parlais, il y a un instant, comme du principal bénéfice
 que procure la Théorie de la connaissance tournée en critique
 de la relativité commune. Conscience a donc été prise des
-limites où s'enferme spontanément la pensée sous l'empire
-
-[p. 19]
-
-des préoccupations pratiques. Du même coup se trouve déter-
+limites où s'enferme spontanément la pensée sous l'empire [p. 19] des préoccupations pratiques. Du même coup se trouve déter-
 minée la direction de l'effort nouveau qu'il faut entreprendre
 pour se libérer de leurs entraves. La Science, parce qu'elle
 est à base de perception sensible, découpe en fragments la
@@ -778,9 +706,7 @@ par la perception commune ou scientifique, en accomplissant
 un retour vers la conscience vive, elle institue ce que nous
 appellerons avec M. Bergson une recherche d'immédiat. Que
 
-[p. 20]
-
-ممه
+[p. 20] ممه
 
 pouvons-nous, que devons-nous penser des choses physiques
 ou morales, lorsque nous les considérons indépendamment de
@@ -813,11 +739,7 @@ s'agit surtout de nous remettre dans les voies de la pensée
 libre. Au principe de chaque attitude générale adoptée pour la
 recherche, une métaphysique est toujours latente, je veuxdire
 unjugementplus ou moins réfléchi sur le fond et sur le tout
-des choses. Il y a donc des partis absolus que nulle intention
-
-[p. 21]
-
-de positivité nedispense d'avoir à prendre, n'empêche que l'on
+des choses. Il y a donc des partis absolus que nulle intention [p. 21] de positivité nedispense d'avoir à prendre, n'empêche que l'on
 prenne clairement ou sourdement en effet
 prenons-les du
 moins autant que possible enconnaissance de cause et après
@@ -853,11 +775,7 @@ réalise qu'en s'incarnant, ne se trouve que par un sacrifice où
 
 il semble d'abord se perdre ; l'individualité lui est une étape
 vers la personnalité, la perception égoïste un acheminement à
-la connaissancepure : tout cela n'est rien d'autre au fond que
-
-[p. 22]
-
-lamarque desa finitude actuelle. En un mot, l'homme com-
+la connaissancepure : tout cela n'est rien d'autre au fond que [p. 22] lamarque desa finitude actuelle. En un mot, l'homme com-
 mence par être corps ; chaque moment de son ascension à la
 lumière obéit à la même loi de limitation originelle ; cette loi
 préside à l'action comme au discours en chacune de leurs
@@ -887,11 +805,7 @@ applique à la représentation du sujet, à l'analyse de ses états et
 de ses actes. Aussi est-elle bien science, non philosophie.
 Mais , après cela, il reste à saisir l'esprit comme pure énergie
 créatrice, comme invention, comme liberté ; ou mieux, afin de
-n'introduire dans l'énoncé du problème aucune thèse trop
-
-[p. 23]
-
-hâtive, il reste à le retrouver tel qu'il est réellement au plus
+n'introduire dans l'énoncé du problème aucune thèse trop [p. 23] hâtive, il reste à le retrouver tel qu'il est réellement au plus
 intime de soi,
 tel qu'il s'apparaît à lui-même lorsque, se
 détournant de toute préoccupation étrangère, il s'exerce à la
@@ -922,11 +836,7 @@ par transition continue et directe ce renversement d'attitude .
 Les autres sciences ne l'obtiendront que par son intermédiaire.
 Plus généralement, grâce à elle, parce que d'une certaine
 manière toute réalité lui appartient, nous apercevons le double
-aspect de l'expérience universelle : multiplicité de juxtapo
-
-[p. 24]
-
-sition spatiale et continuité de compénétration mouvante,
+aspect de l'expérience universelle : multiplicité de juxtapo [p. 24] sition spatiale et continuité de compénétration mouvante,
 extension superficielle et profondeur intensive, déploiement
 et intériorité ; d'où résulte libre carrière pour deux façons de
 connaître : science et philosophie, l'une et l'autre susceptible
@@ -955,11 +865,7 @@ La Métaphysique n'est donc pas du tout, comme d'aucuns
 l'ont prétendu, le rêve ou la divination imaginative de l'in-
 connaissable, pas plus d'ailleurs qu'une quintessence d'idéo-
 logie sublimée. Son rôle n'est pas de disserter sur je ne sais
-quels objets transcendants à l'expérience, ni de reconstruire
-
-[p. 25]
-
-l'expérience a priori par le seul jeu dialectique de la raison
+quels objets transcendants à l'expérience, ni de reconstruire [p. 25] l'expérience *a priori* par le seul jeu dialectique de la raison
 abstraite, ni même de reconnaître au loin et dans les nuages
 de la conjecture, comme limite ou enveloppe de la raison et de
 l'expérience, un X indéterminable. Non, l'instrument de la
@@ -992,9 +898,7 @@ spéculative, que la Métaphysique, c'est la connaissance abso-
 lue, le savoir ne faisant plus qu'un avec l'être, sans voiles, ni
 limites, ni morcellement, ni arrêt .
 
-[p. 26]
-
-Sans doute n'est-ce là qu'un lointain idéal, un sommet
+[p. 26] Sans doute n'est-ce là qu'un lointain idéal, un sommet
 d'achèvement et de perfection, un point de fuite inaccessi-
 ble: mais ilmarque ladirection du chemin, il définit la pers-
 pective. Seules en sont réalisables des approximations défi-
@@ -1025,9 +929,7 @@ une dernière indication d'ensemble doit être donnée encore,
 touchant la double manière de comprendre l'unification du
 savoir et la façon dont laphilosophie assure sa propre unité.
 
-[p. 27]
-
-Interrogeons-nous sur le but idéal que nous visons d'ins-
+[p. 27] Interrogeons-nous sur le but idéal que nous visons d'ins-
 tinct lorsque nous cherchons le savoir. A quelles conditions
 serions-nous pleinement satisfaits de notre œuvre ? Aussitôt
 cette question posée, voici qu'apparaît une dualité d'inspira-
@@ -1056,9 +958,7 @@ créance à nos yeux que dans la mesure où ils sont substituts [^p27-1]
 
 [^p27-1]: Conférences d'Oxford sur La Perception du Changement.
 
-[p. 28]
-
-de perception défaillante ou moyens de perception accrue. C'est
+[p. 28] de perception défaillante ou moyens de perception accrue. C'est
 parce quenotreperception commune procède par lueurs fugiti-
 ves, par éclairs intermittents, que nous ne nous en contentons
 pas, que nous éprouvons le besoin d'en soutenir et d'en rac-
@@ -1093,11 +993,7 @@ intensifier notre puissance perceptive jusqu'à la
 rendre capable de saisir d'une seule vue immédiate toute ri-
 chesse et toute profondeur de réalité ?
 
-Mais, d'autre part, ne manquerait-il pas toujours quelque
-
-[p. 29]
-
-chose à une connaissance de ce genre, non seulement pour
+Mais, d'autre part, ne manquerait-il pas toujours quelque [p. 29] chose à une connaissance de ce genre, non seulement pour
 êtremaniable, mais encore pour être complète, quand ce ne
 serait que le discernement abstrait des divers systèmes de
 schématisations et mises en perspective, des divers tableaux
@@ -1126,11 +1022,7 @@ commun nenous les livre que déjà élaborés, transformés, dé-
 naturés, préparés en somme pour l'usage pratique plus que
 pour la connaissance pure. La science doit intervenir pour
 compléter la table des données; puis la critique, pour en
-épurer chaque terme. Cedouble travail est conduit et animé
-
-[p. 30]
-
-par un certain idéal de connaissance vraie, d'intellection par-
+épurer chaque terme. Cedouble travail est conduit et animé [p. 30] par un certain idéal de connaissance vraie, d'intellection par-
 faite ; l'investigation de la nature, puis le retour à l'immédiat
 doivent être dirigés conformément à certains critères tirés de
 lui. N'est-ce pas alors par cet idéal sous-entendu qu'il con-
@@ -1164,9 +1056,7 @@ pourrait-on dire, cherche ce qui est réel, mais il reste à la
 
 A
 
-[p. 31]
-
-Philosophie la tâche de se demander ce que c'est que réalité.
+[p. 31] Philosophie la tâche de se demander ce que c'est que réalité.
 Rappelons-nous les conclusions de la critique moderne sur les
 rapports entre théorie et fait : il n'y a pas de fait brut, un
 fait n'existe que par son insertion dans un milieu théorique,
@@ -1195,11 +1085,7 @@ avec ces conceptions divergentes et, semble-t-il, également
 légitimes, entre deux formes d'idéal suprême pour la connais-
 sance, deux types d'unification philosophique ? Pour prévenir
 toute méprise, il faut ajouter maintenant qu'à travers ce conflit
-même, des rapports s'établissent, des passages d'une concep-
-
-[p. 32]
-
-tion à l'autre, lesquelles - plus profondément - paraissent
+même, des rapports s'établissent, des passages d'une concep-[p. 32]tion à l'autre, lesquelles - plus profondément - paraissent
 complémentaires etnon pas antagonistes. Dans la première,
 c'est le retourà l'intuition immédiate qui joue le rôle de prin-
 cipe unifiant ; et il répond en effet à cet office, puisqu'il com-
@@ -1239,9 +1125,7 @@ et pour l'accomplissement de laquelle est inévitable un
 
 -
 
-[p. 33]
-
-recours, au besoin transitoire, à l'autre type de philosophie.
+[p. 33] recours, au besoin transitoire, à l'autre type de philosophie.
 Mais inversement plaçons-nous de prime abord dans cette
 seconde perspective. Nous voici voués à l'enquête, à l'exa-
 men de ce que présupposent toute mise en problème, tout
@@ -1276,11 +1160,7 @@ mine et dont le mouvement l'entraîne. Mais le devenir de la
 
 raison ne va point sans doute au hasard. Comment toutefois
 
-3
-
-[p. 34]
-
-le soumettre à n'importe quels principes de discours ? Seul,
+3 [p. 34] le soumettre à n'importe quels principes de discours ? Seul,
 sous peine de cercle vicieux, un acte d'invention intuitive en
 peut être jugé source et règle. D'autre part, n'est-il pas
 indéniable que,
@@ -1314,11 +1194,7 @@ sée spéculative . Retour à l'immédiat, au donné pur, descente
 recueillie aux profondeurs de l'être pour en percevoir sym-
 pathiquement dans ce qu'il a de plus intime et de plus
 secret le rythme de respiration et de croissance : telle a tou-
-jours été l'ambition du philosophe. Il est, hélas ! trop évi
-
-[p. 35]
-
-dentqu'une semblable fusion dans la lumière ne sera jamais
+jours été l'ambition du philosophe. Il est, hélas ! trop évi [p. 35] dentqu'une semblable fusion dans la lumière ne sera jamais
 totale et parfaite ici-bas. Quelque chose pourtant nous en
 est préfiguré par l'intuition artistique ; et il y a là comme une
 sorte de promesse ou de prophétie, de pressentiment --- intui-
@@ -1351,11 +1227,7 @@ de contraction qualifiante, inaperçus de la conscience qui
 préside au morcelage usuel ; enfin il évoque une âme de
 sympathie pénétrante et d'universelle communion où s'éva-
 nouit la distance qui nous séparait du dehors ; et la beauté
-qu'il cherche n'est qu'une vérité plus profonde, une vérité
-
-[p. 36]
-
-de contact et de fusion, d'amitié divinatrice, non plus de
+qu'il cherche n'est qu'une vérité plus profonde, une vérité [p. 36] de contact et de fusion, d'amitié divinatrice, non plus de
 simple entente extérieure et comme diplomatique. Eh bien !
 Le philosophe poursuit une fin analogue. Seulement la Phi-
 losophie est un art qui prend pour objets la matière et la vie
@@ -1390,11 +1262,7 @@ dynamisme d'une
 dialectique
 d'implications
 rationnelles,
-nous tenions le principe d'un mouvement de pensée auto
-
-[p. 37]
-
-nome, explicatif des choses parce qu'il est générateur de leur
+nous tenions le principe d'un mouvement de pensée auto [p. 37] nome, explicatif des choses parce qu'il est générateur de leur
 vérité. La Philosophie, sous cette seconde forme, ressemble-
 rait surtout à la Science ,
 à une science approfondie et spi-
@@ -1430,9 +1298,7 @@ en unité supérieure la dualité de la perception et du
 
 -
 
-[p. 38]
-
-concept, que tel soit le fruit de la démarche intuitive bien
+[p. 38] concept, que tel soit le fruit de la démarche intuitive bien
 comprise : il appartient à la Philosophie elle-même de le
 montrer, comme d'en établir les voies et moyens . Et je n'ai
 pas besoin de souligner l'importance d'une semblable recher-
@@ -1466,9 +1332,7 @@ philosophie, ce n'est pas un homme, à vrai dire, mais une
 sorte de machine capable de percevoir et d'analyser, un insen-
 sible instrumentde vision et de raisonnement. Eh bien, non !
 
-[p. 39]
-
-Cela est faux ; et pareille rupture d'unité équivaudrait à la
+[p. 39] Cela est faux ; et pareille rupture d'unité équivaudrait à la
 négationmême de la Philosophie. Une philosophie, au con-
 traire, quandon en forme l'idée dans sa plénitude, ce n'est
 pas seulement un jeu de discours plus ou moins habile et
@@ -1505,11 +1369,7 @@ réserve de
 l'homme qui s'engage tout entier. Elle poursuit une œuvre
 d'ascèse et de création, œuvre de vie non moins que de
 science ou d'art, dont la nature même exige que les dé-
-marches d'expérience ou de raisonnement qui l'engendrent,
-
-[p. 40]
-
-}
+marches d'expérience ou de raisonnement qui l'engendrent, [p. 40] }
 
 loin de se confiner dans une perspective de sèche idéologie ,
 ni même de pure contemplation esthétique, se fassent exer-
@@ -1536,9 +1396,7 @@ solidaires dans un indéchirable progrès de conscience vivante ,
 - jen'ai besoin qued'un mot pour le dire ; et je passe désor-
 mais à la question de méthode, véritable objet de ce livre.
 
-[p. 41]
-
-CHAPITRE
+[p. 41] CHAPITRE
 II
 
 La pensée vivante .
@@ -1573,11 +1431,7 @@ d'eux et doit être étudiée ensuite comme facteur du réel ,
 comme règle de la vie. Enfin la science nous montre l'homme
 faisant partie du monde et s'expliquant par lui à titre de
 résultat ; mais réciproquement la critique s'empare de la
-science et l'explique par l'homme, par l'activité de l'esprit, à
-
-[p. 42]
-
-titre de fait humain. Il faut que ces contrariétés soient réso-
+science et l'explique par l'homme, par l'activité de l'esprit, à [p. 42] titre de fait humain. Il faut que ces contrariétés soient réso-
 lues, que soit convertie en synthèse lumineuse la grande
 corrélation multiforme dont nous avons sans cesse parlé au
 cours du premier chapitre ; et c'est la tâche même de la Phi-
@@ -1608,11 +1462,7 @@ l'histoire , qui prétendaient représenter à l'intelligence hu-
 maine le système des choses, l'univers : elles ne forment pas
 une suite. Ce ne sont que des œuvres d'art, puissantes et sug-
 gestives , mais fragiles, excitatrices de pensée, mais transi-
-toires ; des poèmes grandioses, mais que la froide raison ne
-
-[p. 43]
-
-saurait avouer ; des symboles admirables , mais éphémères, du
+toires ; des poèmes grandioses, mais que la froide raison ne [p. 43] saurait avouer ; des symboles admirables , mais éphémères, du
 rêve éternel qui lance les hommes vers un inaccessible idéal .
 Différentes les unes des autres, ces constructions se ressem-
 blent toutes néanmoins en ce qu'elles sont toutes également
@@ -1643,11 +1493,7 @@ n'est qu'une matrice de sciences ; elle consiste moins à
 résoudre des problèmes qu'à en poser ; elle a pour mission
 essentielle de faire apparaître des mystères, là où d'abord on
 n'en voyait pas . Nous éveiller du sommeil dogmatique, voilà
-son seul rôle vraiment légitime. Prise en elle-même, ce n'est
-
-[p. 44]
-
-qu'une inquiétude incurablement mobile et changeante, je ne
+son seul rôle vraiment légitime. Prise en elle-même, ce n'est [p. 44] qu'une inquiétude incurablement mobile et changeante, je ne
 sais quelle prestigieuse contemplation des choses de l'âme ou
 de la nature sous des incidences indéfiniment variées. Elle
 demeure finalement impuissante à se fonder sous forme com-
@@ -1680,9 +1526,7 @@ faits. Il y a en philosophie plus de points décidément fixés
 que d'aucuns ne se plaisent à le prétendre. Ils sont même,
 aujourd'hui , si bien fixés souvent qu'on les remarque àpeine.
 
-[p. 45]
-
-La meilleure part du sens commun est faite justement de ces
+[p. 45] La meilleure part du sens commun est faite justement de ces
 résultats que la philosophie a parachevés. Avant de sembler
 presque des truismes, ils furent un jour de géniales intui-
 tions ; et l'on ne saurait y voir désormais une simple banalité
@@ -1716,11 +1560,7 @@ chemin faisant une foule de problèmes partiels. Aussi bien ,
 l'histoire en fait foi, fût-ce à propos des plus hautes et der-
 nières questions, le désaccord est beaucoup moins sensible
 entre les maîtres qu'entre les disciples ; on pourrait soutenir
-que les grands métaphysiciens se complètent plutôt qu'ils ne
-
-[p. 46]
-
-se contredisent et que ce sont surtout les écoles de commen-
+que les grands métaphysiciens se complètent plutôt qu'ils ne [p. 46] se contredisent et que ce sont surtout les écoles de commen-
 tateurs issues d'eux qui les opposent en schématisant leurs
 doctrines .
 Aquoi bon d'ailleurs chercher si loin? Inutile de recourir
@@ -1753,9 +1593,7 @@ une distance de vingt siècles. Y a-t-il preuve plus éclatante
 que quelque chose est acquis à la philosophie et qu'à cet
 égard une tradition peut et doit être transmise ?
 
-[p. 47]
-
-Toutefois ce n'est là encore qu'une justification accessoire.
+[p. 47] Toutefois ce n'est là encore qu'une justification accessoire.
 Il en est d'autres plus importantes et plus profondes, sur les-
 quelles j'insisterai un peu davantage .
 La ressemblance de la philosophie à l'art, voilà ce qui
@@ -1789,9 +1627,7 @@ d'intelligence (1) .
 
 (1 ) On trouvera ces vues clairement produites par M. Gilson dans un
 
-[p. 48]
-
-A pareille thèse, la réponse est facile. De ce que l'artiste
+[p. 48] A pareille thèse, la réponse est facile. De ce que l'artiste
 invente et crée plutôt qu'il ne découvre, de ce qu'il aspire en
 effet moins à dévoiler ce qui déjà existe qu'à introduire, dans
 l'univers, des formes de vie et de conscience plus hautes et
@@ -1819,13 +1655,9 @@ même temps que l'infléchir suivant des directions nouvelles ;
 et ce n'est pas parce qu'une sensibilité constitue alors le
 milieu du fait, parce que la signification de celui-ci intéresse
 
-article publié par la Revue de Métaphysique et de Morale, janvier 1916 .
+article publié par la *Revue de Métaphysique et de Morale*, janvier 1916 .
 Il ne faut d'ailleurs pas ranger M. Gilson parmi les contempteurs de la
-Métaphysique,
-
-[p. 49]
-
-notre faculté d'émotion, qu'on serait fondé à conclure autre-
+Métaphysique, [p. 49] notre faculté d'émotion, qu'on serait fondé à conclure autre-
 ment : car la sensibilité, la faculté de s'émouvoir, la capacité
 virtuelle d'un objet à les mettre en branle de telle ou telle
 manière, tout cela, c'est encoredu réel authentique, dont la
@@ -1859,11 +1691,7 @@ celles qu'apporte une investigation systématique et, autant
 que possible, exhaustive. Enfin elle met en jeu tous les réduc-
 teurs critiques, tous les réactifs de vérité : son idéal serait
 
-4
-
-[p. 50]
-
-fusion de l'analyse et du sentiment devenus intérieurs l'un à
+4 [p. 50] fusion de l'analyse et du sentiment devenus intérieurs l'un à
 l'autre ( 1) . Par ailleurs, l'art est sans doute beaucoup plus
 complexe que je ne l'ai dit ; et, si on peut l'envisager du
 point de vue « connaissance », il serait excessif de le réduire
@@ -1897,9 +1725,7 @@ particulier sur l'utilitarisme du sens commun, ainsi que sur la critique de
 la perception et du discours.
 (2) Ire Conférence surLa Perception du Changement, Oxford, 1911 .
 
-[p. 51]
-
-tuitives tout autres que celles dont l'homme dispose, une
+[p. 51] tuitives tout autres que celles dont l'homme dispose, une
 faculté de perception qui ne devrait rien aux sens ou à la
 conscience : faculté mystérieuse dont àjuste titre il ne décou-
 vrait aucune trace en nous et dont l'idée même paraît presque
@@ -1928,11 +1754,7 @@ Enfin, d'un autre point de vue, la même conclusion repa-
 raît encore. L'impression d'une philosophie toujours in-
 stable vient au non-initié dece qu'iln'en connaît l'histoire que
 sous l'aspect de systèmes qui se remplacent et se réfutent
-mutuellement. Mais un examen plus profond change l'appa
-
-[p. 52]
-
-rence des choses. Ne croyons pas que les systèmes se soient
+mutuellement. Mais un examen plus profond change l'appa [p. 52] rence des choses. Ne croyons pas que les systèmes se soient
 purement et simplement culbutés l'un l'autre dans une
 
 ruine réciproque : disons plutôt qu'ils se sont succédé dialec-
@@ -1962,11 +1784,7 @@ bure transparaît dans leur successiondynamique. Ainsi tombe
 tout à fait l'objection discutée, si l'on prend garde qu'il existe,
 à côté du discours conceptuel ou plutôtimmanente à lui , une
 pensée intuitive, avec une méthode correspondante, dont c'est
-la tâche principale de la Philosophie que de dégager la
-
-[p. 53]
-
-notion et à laquelle c'est le rôle essentiel de l'éducation phi-
+la tâche principale de la Philosophie que de dégager la [p. 53] notion et à laquelle c'est le rôle essentiel de l'éducation phi-
 losophique que de former l'esprit.
 Les problèmes que scrute le philosophe ont tous un même
 caractère : ils demeurent posés devant l'esprit humain depuis
@@ -1996,11 +1814,7 @@ que de la définir .
 **
 
 A cet effet, une considération capitale doit être présentée .
-Pour l'introduire, voici une page de M. Bergson, qui nous
-
-[p. 54]
-
-sera précieuse . J'aurais pu la prendre comme épigraphe ; et
+Pour l'introduire, voici une page de M. Bergson, qui nous [p. 54] sera précieuse . J'aurais pu la prendre comme épigraphe ; et
 tout d'abord je la cite [^p54-1], parce qu'elle pose nettement le
 problème dont nous allons nous occuper :
 « La pensée réelle, concrète, vivante, est chose dont les
@@ -2034,9 +1848,7 @@ même ; vous y trouverez moins des états que des directions,
 
 [^p54-1]: L'Énergie spirituelle, p. 47-48 .
 
-[p. 55]
-
-et vous verrez qu'elle est essentiellement un changement
+[p. 55] et vous verrez qu'elle est essentiellement un changement
 continuel et continu de direction intérieure....
 »
 A vrai dire, et pourdes raisons qui seront développées tout
@@ -2067,11 +1879,7 @@ d'ordinaire, le psychologue soucieux de critique ne s'intéresse
 à peu près qu'aux époques d'arrêt et de clôture, aux remous
 stationnaires des tournants, aux vasques où le flot se rassemble
 et s'endort ; voici qu'il substitue à l'écoulement du devenir
-un système solidifié de rapports entre stations conceptuelles,
-
-[p. 56]
-
-comme si, pour connaître la trajectoire que trace un mobile,
+un système solidifié de rapports entre stations conceptuelles, [p. 56] comme si, pour connaître la trajectoire que trace un mobile,
 on n'avait besoin que d'observer quelques points remarquables
 de la courbe une fois décrite. Combien la réalité vécue se
 prête mal à un tel traitement ! Gardons-nous de surfaire
@@ -2100,11 +1908,7 @@ D'autre part, plusieurs plans de pensée se déploient et
 s'échelonnent depuis l'abstrait pur jusqu'au pur concret,
 depuis la région où règne le sommeil du symbole pétrifié
 jusqu'à celle où s'allume et vibre la conscience de l'action
-vive, en passant par le concept et l'image. De là, pour la
-
-[p. 57]
-
-pensée, deux types de démarche, selon qu'elle s'étale en sur-
+vive, en passant par le concept et l'image. De là, pour la [p. 57] pensée, deux types de démarche, selon qu'elle s'étale en sur-
 face parmi des termes homogènes juxtaposés sur un seul
 plan ou que, resserrée en pointe pénétrante, elle va en pro-
 fondeur d'un plan à l'autre, selon qu'elle s'analyse ou qu'elle
@@ -2133,11 +1937,7 @@ quel que soit le type de démarche que l'on envisage, mais
 s'imposent avec une force particulière quand il s'agit de péné-
 tration intuitive en profondeur à travers plusieurs plans suc-
 cessifs de pensée, parce que, dans ce cas, on n'aurait à peu
-près rien du véritable travail de l'esprit, si l'on n'en retenait
-
-[p. 58]
-
-que les points de repos apparaissant par intervalles, vu que
+près rien du véritable travail de l'esprit, si l'on n'en retenait [p. 58] que les points de repos apparaissant par intervalles, vu que
 l'hétérogénéité de ces époques empêche de nouer entre
 elles
 des liens proprement logiques. C'est donc à propos de l'in-
@@ -2173,9 +1973,7 @@ se place au pointde vue psychologique : il se demande en quoi consiste
 l'effort intellectuel. Nous aurons surtout à transposer cette psychologie en
 critique.
 
-[p. 59]
-
-être surtout, par schémas d'une autre sorte, par schémas
+[p. 59] être surtout, par schémas d'une autre sorte, par schémas
 dynamiques . Voilà l'instrument cherché, l'organe de la pensée
 intuitive, son véhicule et son outil ; voilà donc l'élément dont
 
@@ -2206,11 +2004,7 @@ genèse. Et représentation de quelle espèce ? On entend d'or-
 dinaire par schéma une figure simplifiée, réduite à l'indication
 de traits essentiels, d'une silhouette, s'il s'agit de représenter
 un objet sensible ; une manière de diagramme faisant fonction
-de métaphore graphique, s'il s'agit au contraire de représenter
-
-[p. 60]
-
-quelque relationidéale. Ce n'est pas toutà fait en ce sens que
+de métaphore graphique, s'il s'agit au contraire de représenter [p. 60] quelque relationidéale. Ce n'est pas toutà fait en ce sens que
 j'emploie le mot, lorsquejeparle de schéma dynamique. Une
 similitudeme fera mieux comprendre.On connaît la distinction
 faite par William James, dans la vie psychologique, entre les
@@ -2242,11 +2036,7 @@ Seulement
 c'est une représentation d'un
 nouveau genre,
 pour laquelle doit être créé un état civil nouveau. L'erreur
-serait de vouloir construire une combinaison de concepts
-
-[p. 61]
-
-équivalente au schéma dynamique : celui-ci reste une réalité
+serait de vouloir construire une combinaison de concepts [p. 61] équivalente au schéma dynamique : celui-ci reste une réalité
 irréductible, à penser directement, et les meilleures formules
 descriptives ne peuvent servir qu'à suggérer ce travail d'intui-
 tion originale. J'essaierai toutefois dedonner quelques indica-
@@ -2275,11 +2065,7 @@ tions successives. Le schéma dynamique ne se laisse donc
 définir que dynamiquement, par sa fonction même, sa fonc-
 tion évocatrice d'images etde concepts: représentations expli-
 cites qu'il déposeaucours desontrajet sansybornersa course,
-représentations d'ailleurs qui, pourun même schéma, ne sont
-
-[p. 62]
-
-d'avance ni déterminées rigoureusement ni tout à fait quelcon-
+représentations d'ailleurs qui, pourun même schéma, ne sont [p. 62] d'avance ni déterminées rigoureusement ni tout à fait quelcon-
 ques, représentations concourantes et qui ontencommun quel-
 que chose comme une même puissance logique. Les représen-
 tations suscitées font peu à peu un corps au schéma ; ce sont
@@ -2308,11 +2094,7 @@ de mettre en lumière, à leur occasion et par leur moyen,
 l'existence, la nature, les caractères, le fonctionnement du
 schéma dynamique dans la vie réelle de la pensée. A cet égard,
 mieux vaut multiplier les observations, quitte à nous con-
-tenter pour chacune d'un bref signalement. C'est en effet
-
-[p. 63]
-
-leur accumulation même qui sera surtout significative, en
+tenter pour chacune d'un bref signalement. C'est en effet [p. 63] leur accumulation même qui sera surtout significative, en
 faisant voir comment on découvre ici matière à la constitution
 d'une psychologie et d'une logique nouvelles, dont nous
 n'aurons d'ailleurs à dégager ensuite que deux
@@ -2348,9 +2130,7 @@ ble presque jamais susceptible d'être défini statiquement. Pas
 
 (1 ) Homogènes au moins par l'usage qu'on en fait.
 
-[p. 64]
-
-de sens intrinsèque univoque ; ou du moins un sens qui
+[p. 64] de sens intrinsèque univoque ; ou du moins un sens qui
 reste, pour une large part, indéterminé. De là ces phénomè-
 nes de déviation, de dérive, si difficiles parfois à éviter et qui
 faussent le raisonnement. Des termes tels que Raison, Nature ,
@@ -2382,9 +2162,7 @@ nementde mots qui constitue un discours ! M. Bergson [^p64-2]
 [^p64-1]: On sait le parti qu'un grandpoète peut tirerdu mot le plus banal.
 [^p64-2]: L'Energie spirituelle, p. 48-49.
 
-[p. 65]
-
-exprime à merveille ce que nous avons à faire « quand nous
+[p. 65] exprime à merveille ce que nous avons à faire « quand nous
 serrons de près notre pensée pour la saisir toute vivante et
 pour la faire passer, vivante encore, dans l'âme d'autrui. Les
 mots auront beau alors
@@ -2417,11 +2195,7 @@ dant par une connaissance qui soit transmissible. Comment
 s'y prendre à cet effet ? En toute rigueur, l'immédiat est
 peut-être inexprimable. Oui ; mais ce que l'on ne peut dire,
 
-5
-
-[p. 66]
-
-il est possible de le suggérer. De quelle manière ? En le cer-
+5 [p. 66] il est possible de le suggérer. De quelle manière ? En le cer-
 nant de métaphores concourantes, en amenant la conscience
 par lejeu convergent de ces métaphores à l'attitude requise
 pour vivre l'immédiat
@@ -2457,9 +2231,7 @@ renoncer aux morcelages, abstractions, mises enperspective, que
 [^p66-1]: H. BERGSON, Introduction à la Métaphysique, dans la Revue de Méta- physique et deMorale, janvier 1903, p. 7 .
 [^p66-2]: Encore ce point est-il presque toujours un point de ramification, où plusieurs systèmes sont tangents à la fois, chacun dans une direction.
 
-[p. 67]
-
-constituent les théories ou constats du sens commun, de la
+[p. 67] constituent les théories ou constats du sens commun, de la
 science positive etde la dialectique rationaliste, non plus qu'aux
 efforts de concentration ou dilution qualifiantes où se complaît
 la perception esthétique. Non, c'est au contraire, après en
@@ -2488,11 +2260,7 @@ relativité. L'effort d'intuition, avec son instrument propre, le
 schéma dynamique, tend à rétablir l'infinité continue artificiel-
 lement abolie, à retrouver l'intégrale richesse virtuelle et sur-
 tout le devenir vif dujaillissement spectral. Voilà comment le
-schéma dynamique apporte le moyende penser les systèmes et
-
-[p. 68]
-
-les grandes familles qu'ils forment dans une direction de vérité
+schéma dynamique apporte le moyende penser les systèmes et [p. 68] les grandes familles qu'ils forment dans une direction de vérité
 absolue, en les montrant complémentaires plutôt qu'antago-
 nistes ; et c'est lui également qui réalise notre rêve de syn-
 thèse entre science et art, parce qu'il suscite, mutuellement
@@ -2528,9 +2296,7 @@ forment, se développent, se groupent ou se dispersent, se
 séparent ou se pénètrent, s'analysent ou se composent, nouées
 etdénouées sans fin end'innombrables figures de danse. Pour
 
-[p. 69]
-
--
+[p. 69] -
 
 qu'elles s'organisent en système intelligible, il suffit, mais il
 faut qu'un principe de convergence apparaisse, les traverse,
@@ -2564,11 +2330,7 @@ tique et primitive de l'intelligence. Ne faisons pas du concept
 un élément de pensée irréductible, une sorte d'atome, de facteur
 premier : quand ils'agirait duplus simple en apparence, l'ana-
 lyse y découvre toujours une enveloppe, un nœud dejuge-
-ments, comparable à un point défini par le concours de plu
-
-[p. 70]
-
-sieurs droites. M. Brunschvicg a souvent insisté là-dessus [^p70-1] .
+ments, comparable à un point défini par le concours de plu [p. 70] sieurs droites. M. Brunschvicg a souvent insisté là-dessus [^p70-1] .
 On ne peutpenser un concept, ni purement en extensionpuis-
 qu'on ne saurait pas alors ceque l'on pense, ni purement en
 compréhension puisqu'on ne saurait pas alors à quoi l'on
@@ -2599,9 +2361,7 @@ termes préexistants. A ceux-là s'applique une conception du
 
 [^p70-1]: Cf. , parexemple, Les étapes de la philosophie mathématique, p. 476 .
 
-[p. 71]
-
-rapport dont j'emprunte la formule à M. Louis Weber ( 1 )
+[p. 71] rapport dont j'emprunte la formule à M. Louis Weber ( 1 )
 :
 <<Penserun rapport, c'est avant tout penser une coexistence...
 Lapenséed'un rapport est l'acte par lequel l'esprit rapproche
@@ -2634,9 +2394,7 @@ que le principe d'un mouvement d'analyse générateur de dé- [^p71-1]
 
 [^p71-1]: Revue philosophique, 1894 .
 
-[p. 72]
-
-terminations conceptuelles particulières, une méthode et un
+[p. 72] terminations conceptuelles particulières, une méthode et un
 programme de conceptualisation ? On en a dit très juste-
 ment (1 ) : « C'est une idée au delà de laquelle on en aperçoit
 d'autres ; et ce n'est pas dans l'idée [^p72-2], mais dans cet au-delà
@@ -2670,9 +2428,7 @@ Un peu davantage doit nous retenir l'examen de la pensée [^p72-1]
 [^p72-1]: DUGAS, Le psittacisme et la pensée symbolique, Paris, Alcan, 1896, p. 127 , 129 .
 [^p72-2]: En tant que résultat clos.
 
-[p. 73]
-
-quand elle exécute une œuvre, non plus d'analyse ou de rai-
+[p. 73] quand elle exécute une œuvre, non plus d'analyse ou de rai-
 sonnement, mais d'expérience et d'intuition. Il sera naturel,
 cette fois encore, de monter graduellement des cas les plus
 simples aux plus complexes .
@@ -2707,9 +2463,7 @@ tielle, non d'actualités distinctes. Et même ce qu'il possède
 
 [^p73-1]: Article cité sur l'effort intellectuel, p. 165-172 .
 
-[p. 74]
-
-ainsi est-il moins « savoir » que « pouvoir » : pouvoir de
+[p. 74] ainsi est-il moins « savoir » que « pouvoir » : pouvoir de
 retrouver, de réaliser, comme etquand ilveut. On touche ici
 du doigt la tendance dynamique du schéma simple en soi,
 mais développable en représentations effectives multiples.
@@ -2739,11 +2493,7 @@ organique, sa convergence et son mouvement d'ensemble.
 Serait-ce possible s'il n'existait une manière de penser autre
 que celle qui aligne pas à pas images ou concepts en jalons
 explicites ? Cette pensée en implication, cette pensée par élans
-de lumière immédiate, elle existe en effet. Conscience en est
-
-[p. 75]
-
-prise, très vive, lorsque, sentant soudain qu'on possède la
+de lumière immédiate, elle existe en effet. Conscience en est [p. 75] prise, très vive, lorsque, sentant soudain qu'on possède la
 solution d'un problème, on croit d'abord qu'on va pouvoir
 l'expliquer en quelques mots, tant elle semble tenir peu de
 place dans l'intuition, où elle s'ébauche dynamiquement,
@@ -2775,11 +2525,7 @@ gnification. Mais comment s'exécute ce travail ? Inutile d'y
 insister . M. Bergson [^p75-1], ici encore, a dit l'essentiel des cir-
 constances qui nous intéressent, particulièrement sur l'exem-
 
-[^p75-1]: Article cité sur l'effort intellectuel, p. 178-184. ailleurs ces vues : ef. Une philosophie nouvelle, p. 23-28. - J'ai commenté
-
-[p. 76]
-
-ple de la lecture et de l'audition. Fait à constater, texte à
+[^p75-1]: Article cité sur l'effort intellectuel, p. 178-184. ailleurs ces vues : ef. Une philosophie nouvelle, p. 23-28. - J'ai commenté [p. 76] ple de la lecture et de l'audition. Fait à constater, texte à
 lire, discours à entendre, peu importe : l'allure générale du
 phénomène reste la même. Ce serait une grave erreur que de
 se figurer l'esprit allant de l'appréhension d'images données
@@ -2808,11 +2554,7 @@ raissent, jugées illusoires ; d'autres se renforcent et se préci-
 sent ; le projet de signification lui-même semodifie graduelle-
 ment, s'il le faut . D'où va-et-vient de l'esprit entre la matière
 sensible et la forme intelligible, négociations et concessions
-mutuelles, enfin déterminationréciproque. Au boutd'un temps
-
-[p. 77]
-
-variable suivant les cas,
+mutuelles, enfin déterminationréciproque. Au boutd'un temps [p. 77] variable suivant les cas,
 l'équilibre
 vérifiant s'établit : une
 perception a été parfaite. Onvoit que, dans cette œuvre com-
@@ -2853,9 +2595,7 @@ profondeur, dynamiquement, ce que le discours des images
 explicites racontera plus tard en termes statiques, comme du
 tout fait étalé sur un seul plan.
 
-[p. 78]
-
-De la perception à l'action, le passage est immédiat. On ne
+[p. 78] De la perception à l'action, le passage est immédiat. On ne
 seradonc pas surpris de retrouver àpropos de l'agir les mêmes
 particularités qu'à propos du percevoir. M. Bergson [^p78-1] a ré-
 sumé sur ce point, d'après Binet, ce que nous apprend
@@ -2886,9 +2626,7 @@ déterminant l'une l'autre, où il n'y ait de fixité que dans la
 [^p78-1]: Article cité sur l'effort intellectuel, p. 172-174.
 [^p78-2]: Ibid., p.189-192 .
 
-[p. 79]
-
-directiond'ensemble etdans le sens général de marche, où se
+[p. 79] directiond'ensemble etdans le sens général de marche, où se
 résume surtout une impulsion de méthode, avec des res-
 sources prêtes pour toutes les éventualités ; bref, un plan qui
 soit schéma dynamique.
@@ -2919,11 +2657,7 @@ jettissement à des faits bruts que n'informerait aucune théorie,
 ni raideur d'adhésion à des théories qui prétendraient se
 constituer d'avance et au dessus des faits : la pensée féconde
 relie au lieude disjoindre. Il faut que l'esprit obtienne réci-
-proque immanence du penser et de l'agir, qu'il se transporte
-
-[p. 80]
-
-sur un plan supérieur en un point central où se ramasse dé-
+proque immanence du penser et de l'agir, qu'il se transporte [p. 80] sur un plan supérieur en un point central où se ramasse dé-
 sormais une et simple toute son expérience d'ordinaire épar-
 pillée, qu'il perçoive d'ailleurs ce donné comme une tension
 d'énergies plutôt qu'un déploiement de choses, qu'alors il y
@@ -2938,7 +2672,7 @@ Venons enfin, si déjà nous n'y sommes, à ce qu'il y a de
 moins discursif dans l'esprit, à ce qui exige le plus impérieu-
 sement un mouvement de pensée en profondeur, aux démar-
 ches d'invention. Nulle part sans doute ne se manifestent
-mieux l'existence et le fonctionnement opératoire sui generis
+mieux l'existence et le fonctionnement opératoire *sui generis*
 du schéma dynamique. Si j'ai parlé d'abord et longuement des
 autres faits , plus ordinaires, plus extérieurs, de la vie spiri-
 tuelle, c'est queje voulais ménager les transitions, en com-
@@ -2956,11 +2690,7 @@ ainsi le schéma dynamique. Pour le montrer tout de suite, il
 suffira de citer,
 d'après M. Bergson toujours,
 -
-- un
-
-[p. 81]
-
-exemple familier à tout le monde et peut-être plus simple-
+- un [p. 81] exemple familier à tout le monde et peut-être plus simple-
 ment révélateur encore que les précédents . « Quiconque s'est
 essayé à la composition littéraire sait bien que, lorsque le
 sujet a été longuement étudié, tous les documents recueillis,
@@ -2993,11 +2723,7 @@ rappelais ailleurs [^p81-2] comment se fait une invention quel-
 conque. « Trouver, c'est résoudre un problème ; et pour
 
 [^p81-1]: Introduction àla Métaphysique, dans la Revue de Métaphysique et de Morale, janvier 1903, p. 35.
-[^p81-2]: Unephilosophie nouvelle, p. 155. 6
-
-[p. 82]
-
-résoudre un problème, il faut commencer toujours par le
+[^p81-2]: Unephilosophie nouvelle, p. 155. 6 [p. 82] résoudre un problème, il faut commencer toujours par le
 supposer résolu. Or en quoi consiste une telle hypothèse ?
 Ce n'est point une vue anticipée de la solution, car alors tout
 serait fini ; ce n'est pas non plus une simple formule mettant
@@ -3027,11 +2753,7 @@ sables et qui cherche à se remplir, à expliciter ses puissances.
 Cette forme appelle, évoque à l'existence, attire des images,
 des concepts, capables de l'actualiser. Ceux-ci viennent en
 foule s'offrir à elle, soit qu'elle les cueille dans la continuité
-du réel ou de l'idéal en y projetant, -- modèles de morcelage
-
-[p. 83]
-
-nouveau, - je ne sais quelles prophétiques esquisses qui,
+du réel ou de l'idéal en y projetant, -- modèles de morcelage [p. 83] nouveau, - je ne sais quelles prophétiques esquisses qui,
 émanées de son exigence intérieure, descendent vers le donné,
 soit au contraire qu'elle accroche d'aventure telle donnée toute
 
@@ -3064,9 +2786,7 @@ une conclusion ferme : l'existence du schéma dynamique est
 un fait. La difficulté de l'apercevoir et de le saisir vient de
 ce qu'il s'évanouit, une fois son œuvre achevée ; mais, sans
 
-[p. 84]
-
-:
+[p. 84] :
 
 lui, tout le dynamisme de la vie intellectuelle deviendrait
 incompréhensible. Je dirai, en terminant, pourquoi la Philo-
@@ -3098,11 +2818,7 @@ fond en conscience d'action vécue,
 est-il d'autre organe,
 d'autre instrument possible que le schéma dynamique ?
 Apprendre à penser par schémas dynamiques maintenus
-ouverts sur un horizon de vérité plus large que ne le mon
-
-[p. 85]
-
-trent les systèmes déposés par eux de moment en moment le
+ouverts sur un horizon de vérité plus large que ne le mon [p. 85] trent les systèmes déposés par eux de moment en moment le
 long du chemin, c'est la Philosophie même ; et l'objection
 discutée au début de ce chapitre ne trouble, en définitive, que
 les esprits trop pesants pour se dégager des cadres de matière
@@ -3124,9 +2840,7 @@ aux problèmes de l'expérience immédiate et de l'acte intuitif,
 maintenant que nous connaissons le moyen qui rend possibles
 cet acte et cette expérience.
 
-[p. 86]
-
-CHAPITRE
+[p. 86] CHAPITRE
 III
 
 Le retour à l'immédiat
@@ -3158,9 +2872,7 @@ nouvelle. Une réforme de l'esprit semble donc nécessaire, une
 
 [^p86-1]: J'entends parler ici d'action au sens vulgaire du mot, non pas d'action spirituelle profonde.
 
-[p. 87]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 87] LE RETOUR A L'IMMÉDIAT
 87
 
 véritable conversion. Retour au donné authentique, plus haut
@@ -3195,9 +2907,7 @@ naître une réalité extérieure. Après avoir pris conscience de
 
 [^p87-1]: Matière etMémoire, chap. iv, p. 203.
 
-[p. 88]
-
-l'utilitarisme spontané, de l'effet déformateur et perturbateur
+[p. 88] l'utilitarisme spontané, de l'effet déformateur et perturbateur
 qu'il a sur tous nos jugements, nous voudrions sortir de la
 relativitéoù il nous laisse, échapper cependant à la dissolution
 d'un doute universel, enfin nous prémunir contre les faux
@@ -3228,9 +2938,7 @@ serait tout fait d'avance, qui serait chose à recevoir telle
 quelle : une sorte de résultat primitif, si l'on ose parler ainsi .
 Outre que nous n'aurions là aucune source d'intelligibilité
 
-[p. 89]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 89] LE RETOUR A L'IMMÉDIAT
 89
 
 véritable, car la matérialité brute n'est pas productrice de
@@ -3262,11 +2970,7 @@ susdites ne seraient toujours pas résolues ; elles pèseraient
 toujours sur nous ; et nous nous heurterions en plus à celle
 de faire surgir une matérialité quelconque à partir d'une don-
 née initialepurement formelle, une réalité qualitative à partir
-d'une abstraction. Et quant à joindre les deux systèmes,
-
-[p. 90]
-
-empirisme et rationalisme, en prenant un double point de
+d'une abstraction. Et quant à joindre les deux systèmes, [p. 90] empirisme et rationalisme, en prenant un double point de
 départ, cette juxtaposition brutale soulèverait dès le début un
 problème d'accord, insoluble puisqu'il serait inhérent à la
 première hypothèse . Comment donc peut débuter le savoir ?
@@ -3297,9 +3001,7 @@ ment, parce qu'immanente à l'effort même qui voudrait la
 discuter : celle de l'activité pensante ; et cette affirmation ne
 fait qu'un avec son objet : fait et raison à la fois, perception
 
-[p. 91]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 91] LE RETOUR A L'IMMÉDIAT
 91
 
 d'existence réelle et création de lumière intelligible, expérience
@@ -3332,9 +3034,7 @@ de conscience naissante, jaillissements d'action vive, antérieurs
 
 [^p91-1]: Je reprends et développe, ici et dans les pages qui suivent, quel- ques indications trop brèves données ailleurs : cf. Une philosophie nouvelle, p. 129-140.
 
-[p. 92]
-
-ou réfléchi d'utilisation pratique. Elles sont alors vécues plu-
+[p. 92] ou réfléchi d'utilisation pratique. Elles sont alors vécues plu-
 tôt que conçues : ce sont des époques de vie désintéressée,
 ce nesont pas encore des matériaux de science préparés pour
 l'insertion dans le discours, non plusque des éléments adap-
@@ -3365,11 +3065,7 @@ matière par rapport à la vie. L'action immédiate, en d'autres
 termes, c'est la pensée sous la forme radicale et originelle qui
 précède les dissociations de tout genre etqui les commande.
 
-[^p92-1]: Action spirituelle profonde, cette fois,
-
-[p. 93]
-
-LE RETOUR A L'IMMÉDIAT
+[^p92-1]: Action spirituelle profonde, cette fois, [p. 93] LE RETOUR A L'IMMÉDIAT
 93
 
 Je reviendrai bientôt là-dessus : que ces rapides formules suf-
@@ -3401,9 +3097,7 @@ pour le même objet et qu'il faut bien se résigner à reprendre.
 
 [^p93-1]: Matière et Mémoire, chap. 1, p. 1.- Cf. Bulletin de la Société fran- çaise de Philosophie, 1908 : Vocabulaire philosophique, observations à l'article«Immédiat » . - L'« image» ici considéréeest à ce que l'on appelle courammentdece nom dans le même rapport que l'intuition au concept. Pour la distinguer, par lasuite,nous conviendrons dedire imageimmédiate.
 
-[p. 94]
-
-Oublions provisoirement les controverses philosophiques, les
+[p. 94] Oublions provisoirement les controverses philosophiques, les
 thèses de réalisme et d'idéalisme aux nuances multiples .
 Tâchons de nous refaire une simplicité d'enfant, une can-
 deur virginale de regard limpide et neuf, qui nous dégage
@@ -3441,9 +3135,7 @@ perceptions pures, soit qu'on les prenne comme elles existent
 virtuelles au principe du sens commun, soit qu'on les envisage
 comme elles se réalisent en fait au terme d'une expérience
 
-[p. 95]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 95] LE RETOUR A L'IMMÉDIAT
 95
 
 consommée. Et tels aussi, en tout ordre, se présentent les
@@ -3477,11 +3169,7 @@ mière époque, la phase d'absolue valeur, évanouissante il est
 vrai ? Eh bien ! Voilà le modèle de ce qu'il faut entendre par
 immédiat ;
 voilà l'exemplaire d'immédiat que l'observation
-psychologique nous permetde saisir au vif en nous-mêmes et
-
-[p. 96]
-
-dont il importe avant tout de retenir la notion comme terme
+psychologique nous permetde saisir au vif en nous-mêmes et [p. 96] dont il importe avant tout de retenir la notion comme terme
 de référence .
 Cette notion d'immédiat, je reconnais qu'elle soulève bien
 des problèmes, bien des difficultés ; et nous nepourrons que
@@ -3518,9 +3206,7 @@ quej'en ai : il coïncide avec elle.De l'action priseen soi, vécue
 ne saurait aucunement douter : consciente, elle saisit l'être
 adéquatement, puisqu'ellele pose et le constitue. Rien, d'autre
 
-[p. 97]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 97] LE RETOUR A L'IMMÉDIAT
 97
 
 part, ne la précède,puisque rien n'estdonné que par elle et en
@@ -3553,11 +3239,7 @@ ce dans l'expression d'une ignorance ou d'un doute, c'est
 toujours et forcément un pareil sens de vie et d'action. Nous
 voulons, je suppose, discuter le problème du mouvement : à
 
-7
-
-[p. 98]
-
-quelque doctrine que nous devions aboutir, notre point de
+7 [p. 98] quelque doctrine que nous devions aboutir, notre point de
 départ et de repère aura toujours été le sentiment immédiat
 de la mobilité, qui seul donne sens à l'énoncé de la question
 et seul procurepour en juger la solution conceptuelle un irré-
@@ -3589,9 +3271,7 @@ formule même de l'objection en cause, le philosophe cherche
 un point de départ, et un pointde départ qui soit vrai : il dis-
 tingue donc entre commencement de fait et commencementde
 
-[p. 99]
-
-LA RETOUR A L'IMMÉDIAT
+[p. 99] LA RETOUR A L'IMMÉDIAT
 99
 
 droit. A ce titre, il ne reçoit pas telle quelle, quoique souvent
@@ -3627,9 +3307,7 @@ toujours, à savoir le faitmême de la mobilité, ainsi que son
 apparition nécessaire, sous la forme communément perçue,
 dans les conditions de perspective où nos sens le perçoivent.
 
-[p. 100]
-
-Mais le sens commun ne se contente pas de vivre naïvement
+[p. 100] Mais le sens commun ne se contente pas de vivre naïvement
 le fait,
 il l'interprète aussitôt : morcelage, mise en rapport
 avec certains repères, puis oubli de cette relativité factice.
@@ -3665,9 +3343,7 @@ M. Bergson dans une discussion avec Fouillée : cf. Bulletin de la Société
 française de Philosophie , 1908, Vocabulaire philosophique, observations à
 l'article « Immédiat ».
 
-[p. 101]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 101] LE RETOUR A L'IMMÉDIAT
 101
 
 c'est lui d'abordqui donne un sens au terme réalité : nous
@@ -3703,9 +3379,7 @@ et d'ailleurs relativité à quoi ? Absurde serait l'idée d'une dé- [^p101-1]
 
 [^p101-1]: On trouvera de ce fait un exemple frappant dans l'ouvrage de M. Bergson : Durée et Simultanéité : A propos de la Théorie d'Einstein, Paris, Alcan, 1922 .
 
-[p. 102]
-
-pendance entre l'immédiat et notre constitution cérébrale,
+[p. 102] pendance entre l'immédiat et notre constitution cérébrale,
 celui-lavariant en fonctiondecelle-ci et ne faisant que l'expri-
 mer : car notre cerveau lui-même est un groupe d'images ,
 doncune partie de l'univers matériel, donnée elle aussi dans
@@ -3734,11 +3408,7 @@ fondé d'un langage quipostule distinction préalable de l'objec-
 tif et du subjectif, alors qu'en réalité le sujet (comme l'objet)
 est dans la perception, moment second et dérivé, non pas
 (aumoins de prime abord) la perception dans le sujet. En
-somme, douter que la perception immédiate soit infaillible,
-
-[p. 103]
-
-LE RETOUR A L'IMMÉDIAT
+somme, douter que la perception immédiate soit infaillible, [p. 103] LE RETOUR A L'IMMÉDIAT
 103
 
 peu importe le motif : cela implique toujours le même abus
@@ -3771,11 +3441,7 @@ il doit l'être, en termes qui n'exigent recours à aucune chose
 en soi et qui ne sous-entendent non plus, accomplie d'avance
 à l'heure où s'éveille la pensée, aucune analyse conceptuelle.
 Cedernier point est capital, on n'y saurait trop insister.
-Qui s'en est bien rendu compte a compris pourquoi l'immé
-
-[p. 104]
-
-diatement donné n'est pas de l'individuel : car le tenir pour
+Qui s'en est bien rendu compte a compris pourquoi l'immé [p. 104] diatement donné n'est pas de l'individuel : car le tenir pour
 tel reviendrait à supposer que l'individu pensant préexiste à
 la pensée meme, tandis qu'au contraire c'est au sein de la
 pensée; qui n'est pas encore ma pensée, que je me constitue
@@ -3809,9 +3475,7 @@ l'immédiat est absolument
 incontestable, toute contestation
 en présupposant la vérité pour se produire elle-même .
 
-[p. 105]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 105] LE RETOUR A L'IMMÉDIAT
 105
 
 Ainsi tombent les objections préjudicielles dressées par-
@@ -3842,11 +3506,7 @@ Tant de difficultés s'entremêlent autour de la notion d'im-
 médiat qu'on ne saurait en avoir raison d'un seul coup . Force
 est, au contraire, d'y revenir à de nombreuses reprises par de
 multiples et patientes retouches . J'en avais averti déjà. Nul
-ne s'étonnera donc s'il nous faut maintenant rétrograder en
-
-[p. 106]
-
-apparence jusqu'à notre point de départ pour une discussion
+ne s'étonnera donc s'il nous faut maintenant rétrograder en [p. 106] apparence jusqu'à notre point de départ pour une discussion
 de terminologie qui s'impose, mais n'aurait pu être plutôt
 menée àbien .
 Qu'est-ce finalement que l'immédiat ? Quel sens tout à fait
@@ -3877,9 +3537,7 @@ mun telle que l'appréhende aujourd'hui la conscience lors-
 (1.) Cf. R. BERTHELOT, Un romantisme utilitaire : II, le pragmatisme chez
 Bergson, p. 209 et suiv.
 
-[p. 107]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 107] LE RETOUR A L'IMMÉDIAT
 107
 
 qu'elle se laisse aller à ses habitudes acquises : donnée qui
@@ -3912,11 +3570,7 @@ et même, àcertains égards, opposés. Car laconscience actuelle
 n'est pas la conscience primitive, la conscience pure et libre.
 Au cours de son développement empirique, elle s'est transfor-
 mée, altérée, surchargée ici et ailleurs oblitérée. Sous l'influ-
-ence du besoin pratique, du langage, de l'habitude, elle s'est
-
-[p. 108]
-
-falsifiée ou du moins schématisée . Aussi l'immédiat entendu
+ence du besoin pratique, du langage, de l'habitude, elle s'est [p. 108] falsifiée ou du moins schématisée . Aussi l'immédiat entendu
 
 selon le deuxième sens du mot, loin de marquer aujourd'hui
 pour nous le moment d'ouverture dans la recherche, l'appré-
@@ -3948,9 +3602,7 @@ l'avons cru. Si quelque perception possède un caractère de
 révélation infaillible, ce ne peut être en toute hypothèse que
 celle de l'immédiat au second sens que ce mot comporte.
 
-[p. 109]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 109] LE RETOUR A L'IMMÉDIAT
 109
 
 Qui ne voit poindre là un péril de confusion entre les deux
@@ -3982,11 +3634,7 @@ diat, on le qualifie volontiers d'originel, de primitif. En quel
 sens convient-il de prendre tous ces termes? S'agit-il d'ori-
 gine dans le temps, et le primitifen cause relève-t-il de l'his-
 toire ? Ou bien faut-il penser à un commencement radical ,
-àun commencement en profondeur dans l'actuel ? Autrement
-
-[p. 110]
-
-dit, il est nécessaire de préciser en quoi consiste le retour à
+àun commencement en profondeur dans l'actuel ? Autrement [p. 110] dit, il est nécessaire de préciser en quoi consiste le retour à
 l'immédiat : est-ce un retour au plus lointain passé de la
 conscience ou bien un retour à la pureté intérieure de son
 exercice présent ? En quelle mesure, même, le mot « retour »
@@ -4017,9 +3665,7 @@ là une thèse qui se dégage de la philosophie entière depuis
 Descartes et que rien n'autorise à contredire. Si donc une
 perception immédiate nous met directement en présence de
 
-[p. 111]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 111] LE RETOUR A L'IMMÉDIAT
 111
 
 la réalité pure, du moins n'y pouvons-nous accéder que par
@@ -4054,9 +3700,7 @@ même » [^p111-1] : car ce serait encore une fois supposer antérieure
 
 [^p111-1]: Bulletin de la Sociétéfrançaise de Philosophie, août 1908 : vocabulaire philosophique article<<<Immédiat », critique.
 
-[p. 112]
-
-opposés l'un à l'autre. Qualifions plutôt d'immédiate la con-
+[p. 112] opposés l'un à l'autre. Qualifions plutôt d'immédiate la con-
 naissance ressaisie dans son principe de pensée-action, lequel
 sans doute remonte plus haut que la dualité précédente et la
 contient au lieu d'y être contenu, mais dans l'ordre de l'actua-
@@ -4087,9 +3731,7 @@ tement ouvert. L'immédiat métaphysique est psychologique-
 ment de l'ultime : il doit être laborieusement dégagé, but
 lointain d'une longue marche régressive. En quoi consiste
 
-[p. 113]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 113] LE RETOUR A L'IMMÉDIAT
 113
 
 maintenant cette régression critique ? Est-ce même régression
@@ -4146,11 +3788,7 @@ a donné lieu à bien des méprises. L'enfant débute-t-il par
 la perception de l'immédiat ? On n'est fondé à répondre oui
 que par contraste et relativement. Dans la mesure où elle
 
-8
-
-[p. 114]
-
-est plus fraîche, plus candide, plus naïvement vécue sans
+8 [p. 114] est plus fraîche, plus candide, plus naïvement vécue sans
 utilisation égoïste ni revêtement de symboles, et dans cette
 mesure seulement, la perception du premier âge peut être
 dite intuitive et immédiate, quand on la compare à celle de
@@ -4183,9 +3821,7 @@ diat authentique. Mais il n'a qu'une existence transitoire,
 évanouissante, presque virtuelle. Sitôt jailli, sitôt éteint : iné-
 vitable dès lors qu'une inquiétude s'éveille. Comment affirmer
 
-[p. 115]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 115] LE RETOUR A L'IMMÉDIAT
 115
 
 que la conscience a en effet retenu le vrai commencement tel
@@ -4219,11 +3855,7 @@ ce fait que l'immédiat peut être intellectuel aussi bien que
 sensible, que même la vraie place en est au dessus du point
 de ramification discursive où divergent les entités abstraites
 entre lesquelles on voudrait nous contraindre de choisir. La
-recherche de l'immédiat suppose exercice d'analyse réflexive
-
-[p. 116]
-
-non moins qu'apprentissage de perceptionpure. Mais récipro-
+recherche de l'immédiat suppose exercice d'analyse réflexive [p. 116] non moins qu'apprentissage de perceptionpure. Mais récipro-
 quement celui-ci reste nécessaire autant que celui-là; et l'er-
 reur ne serait pas moindre, qui ferait de l'immédiatje ne sais
 quoi d'élémentaire, de « radical » au sens logique ou dialec-
@@ -4265,9 +3897,7 @@ Rappelons d'abord quelques points essentiels précédemment
 établis, dont l'ensemble constitue en substance la critique
 fondamentale du sens commun :
 
-[p. 117]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 117] LE RETOUR A L'IMMÉDIAT
 117
 
 1º Que la connaissance de sens commun marque en fait
@@ -4304,9 +3934,7 @@ commençante, àun mélange d'aspiration désintéressée et d'uti-
 
 ( 1 ) Cf. Une philosophie nouvelle, p. 13-16 et 132 .
 
-[p. 118]
-
-litarisme perturbateur. Celui-ci, du reste, - au début, à tout
+[p. 118] litarisme perturbateur. Celui-ci, du reste, - au début, à tout
 le moins, - étouffe presque totalement celle-là, qui ne s'en
 dégage qu'avec beaucoup de peine etde lenteur. De quoi, au
 surplus, preuve positive a été faite par une double critique :
@@ -4336,9 +3964,7 @@ habitudes de perception et de discours ont été prises par l'es-
 [^p118-1]: Jeviens de reprendre et de mettre au point définitif mes études an- ciennes sur ce thème dans un mémoire intitulé Continu et Discontinu dans la matière ( Cahiers de la Nouvelle Journée, 1929) .
 [^p118-2]: Cf. les Conférences données àOxford en 1911 par M. Bergson sur La perception du changement et la première leçon de mon Cours sur L'exi- gence idéaliste et lefait de l'évolution (Paris, Boivin, 1927).
 
-[p. 119]
-
-LA RETOUR A L'IMMÉDIAT
+[p. 119] LA RETOUR A L'IMMÉDIAT
 119
 
 prit, qui,- vraisemblablement,- persistent invétérées en lui .
@@ -4347,7 +3973,7 @@ mité à changer les postulats du sens commun ; et elle ne
 renonce pas aux plus fondamentaux : elle se propose d'en
 tirer le meilleur parti possible pour la connaissance, avec
 un minimum d'amendement . Sans doute la science ne s'en-
-ferme a priori dans aucune forme de représentation intelli-
+ferme *a priori* dans aucune forme de représentation intelli-
 gible. La réforme qu'elle accomplit a beau n'être que par-
 tielle et très prudente ; elle est aussi continue, de sorte
 qu'elle peut finir par aller assez loin : la Théorie de la
@@ -4376,9 +4002,7 @@ tions utilitaires inconscientes. « Certes, dit M. Bergson [^p119-3] ,
 [^p119-2]: Ibid. , p . 161 .
 [^p119-3]: Matière et Mémoire, p. 206.
 
-[p. 120]
-
-l'entreprise serait chimérique de vouloir s'affranchir des con-
+[p. 120] l'entreprise serait chimérique de vouloir s'affranchir des con-
 ditions fondamentales de la perception extérieure. Mais la
 question est de savoir si certaines conditions, que nous tenons
 d'ordinaire pour fondamentales, ne concerneraient pas l'usage
@@ -4410,9 +4034,7 @@ là que la philosophie devient littéralement « métaphysique »,
 
 ( 1) Une philosophie nouvelle, p. 19.
 
-[p. 121]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 121] LE RETOUR A L'IMMÉDIAT
 121
 
 par là qu'elle parvient à dépasser la science positive, en se
@@ -4455,9 +4077,7 @@ simple décret d'oubli ne suffirait pas à refaire un esprit libre
 
 ----
 
-[p. 122]
-
-et neuf, capable de percevoir purement le donné, et c'est
+[p. 122] et neuf, capable de percevoir purement le donné, et c'est
 pourquoi,- ainsi que nous l'avions reconnu également,- il
 y a une discipline régulière d'accès à l'immédiat. En quoi
 consiste aujuste cettediscipline, nous le verrons bientôt. Mais ,
@@ -4488,9 +4108,7 @@ culative. On voit alors sans peineà quoi répond la mise du
 
 [^p122-1]: On en trouvera le principe dans mon volume sur L'exigence idéa- liste et le fait de l'évolution, leçon II .
 
-[p. 123]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 123] LE RETOUR A L'IMMÉDIAT
 123
 
 réel sous les formes perturbatrices du discours et de l'utilité .
@@ -4531,9 +4149,7 @@ sance de la diversité des plans d'expérience et réduction
 
 [^p123-1]: Cf. lemémoire déjà cité : Continu et Discontinu dansla matière.
 
-[p. 124]
-
--
+[p. 124] -
 
 de tous ces plans à celui du sens commun, ce dernier
 défini par les notions de fait brut et de constat passif ; -
@@ -4565,11 +4181,7 @@ ne sais quelle vision passive d'un donné fait d'avance, qui
 nous apparaîtrait soudain et que nous n'aurions qu'à recevoir,
 à lire paresseusement dans un éclair de divination révélatrice.
 Non, elle surgit au contraire, cette intuition, comme terme
-final d'un long effort ; elle est peu à peu évoquée, suscitée,
-
-[p. 125]
-
-LE RETOUR A L'IMMÉDIAT
+final d'un long effort ; elle est peu à peu évoquée, suscitée, [p. 125] LE RETOUR A L'IMMÉDIAT
 125
 
 par un travail complexe de recherche graduellement mûrie,
@@ -4605,9 +4217,7 @@ garantie capable d'écarter toute suspicion. Le déplacement
 
 [^p125-1]: RevuedeMétaphysique et de Morale, mai 1897, p. 386.
 
-[p. 126]
-
-d'évidence opéré si souvent par M. Bergson engendre naturel-
+[p. 126] d'évidence opéré si souvent par M. Bergson engendre naturel-
 lement une inquiétude. Pour trancher ce doute, ce qu'il nous
 faut, ce sont des critères d'immédiat. Or, à quels signes déci-
 sifs pourrons-nous reconnaître que nous avons en effet touché
@@ -4643,9 +4253,7 @@ que rien de plus clair ne se présente pour les expliquer et
 que d'ailleurs l'esprit n'éprouve nul besoin de les éclaircir.
 Ce sont des données de perception sans théorie, de percep
 
-[p. 127]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 127] LE RETOUR A L'IMMÉDIAT
 127
 
 tion naïvement vécue, vérifiables à nouveau , chaque fois qu'on
@@ -4678,11 +4286,7 @@ même ou retourner contre elle ; et il y aurait donc manifeste
 contradiction à prétendre ensuite la construire discursivement
 à son tour. L'opératoire, voilà l'immédiat dans l'ordre de
 l'Analyse mathématique. Il en va du reste semblablement dans
-tous les domaines du connaissable . Les données immédiates ,
-
-[p. 128]
-
-ce sont les actes de conscience opératoire, saisis au vif. C'est
+tous les domaines du connaissable . Les données immédiates , [p. 128] ce sont les actes de conscience opératoire, saisis au vif. C'est
 ceque nous a montré notamment l'analyse du Cogito carté-
 sien ; c'est ce que nous retrouverions partout et toujours.
 Ainsi un premier critère d'immédiat est bien celui que je
@@ -4723,9 +4327,7 @@ de M. Bergson fournitdes exemples à l'appui.
 
 -
 
-[p. 129]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 129] LE RETOUR A L'IMMÉDIAT
 129
 
 marque extérieure à laquelle l'intuition vraie de l'immédiat se
@@ -4757,11 +4359,7 @@ comme simple et de l'autre comme indéfiniment composé,
 les deux aspects sont loin d'avoir la même importance, ou
 plutôt lemême degréde réalité. Lasimplicité appartient alors
 
-[^p129-1]: Evolution créatrice, p. 97 . 9
-
-[p. 130]
-
-à l'objet même, et l'infini de complication à des vues que
+[^p129-1]: Evolution créatrice, p. 97 . 9 [p. 130] à l'objet même, et l'infini de complication à des vues que
 nous prenons sur l'objet en tournant autour de lui, aux sym-
 boles juxtaposés par lesquels nos sens ou notre intelligence
 nous le représentent, plus généralement à des éléments d'ordre
@@ -4791,9 +4389,7 @@ et qui prête en même temps à une énumération conceptuelle [^p130-1]
 
 [^p130-1]: Introduction à la Métaphysique, dans la Revue de Métaphysique et de Morale, janvier 1903 , p. 3 .
 
-[p. 131]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 131] LE RETOUR A L'IMMÉDIAT
 131
 
 inépuisable, si on prétend le traduire en formules. Eh bien !
@@ -4825,11 +4421,7 @@ le mettre endoute, et qui subsiste ainsi avec une fécondité
 toujours simple et toujours inépuisée.
 Ce critère de simplicité est un des plus puissants, des
 plus efficaces, pourvu sans doute qu'il ne s'agisse pas de sim-
-plicité obtenue par appauvrissement, par schématisation, mais
-
-[p. 132]
-
-bien de cette simplicité infiniment riche à laquelle finit par
+plicité obtenue par appauvrissement, par schématisation, mais [p. 132] bien de cette simplicité infiniment riche à laquelle finit par
 aboutir l'expérience consommée ; un de ceux aussi dont il
 est le plus facile de donner des exemples , de montrer l'em-
 ploi et le rôle dans les divers ordres de la vie spirituelle. Je
@@ -4851,7 +4443,7 @@ c'est normalement d'après un
 ensemble de réactions intérieures au savoir discursif qu'on
 décide et qu'on juge, touchant même la perception immé-
 diate . Mais , dans ces conditions, qu'est-ce à dire ? Nouvelle
-difficulté. Ne voilà-t-il pas, posé a priori, un idéal d'expé-
+difficulté. Ne voilà-t-il pas, posé *a priori*, un idéal d'expé-
 rience vraie, qui préforme l'intuition de l'immédiat, quand
 celle-ci devrait être première ? Ne voilà-t-il pas le prétendu
 primitif subordonné à une construction discursive préalable
@@ -4860,11 +4452,7 @@ sentation suspectes ? Ne voilà-t-il pas des théories chargées
 de définir ou au moins d'évoquer cela même qui, par hypo-
 thèse, devrait les précéder toutes ? Ainsi l'idée de l'immédiat
 semble devenir le produit d'une élaboration conceptuelle ;
-elle semble construite conceptuellement au moyen d'abstrac-
-
-[p. 133]
-
-LE RETOUR A L'IMMÉDIAT
+elle semble construite conceptuellement au moyen d'abstrac-[p. 133]LE RETOUR A L'IMMÉDIAT
 133
 
 tions tissées ensemble, caractérisée conceptuellement par um
@@ -4898,11 +4486,7 @@ base de perception pure, donc implique un élément d'immé.
 diat. Dès lors, loin que l'investigation puisse être limitée à
 l'immédiat commun, elle doit porter sur toutes les formes
 d'expérience et de perception que rendent possibles et réali-
-sent les techniques les plus diverses. Et en outre, un idéal
-
-[p. 134]
-
-d'expérience vraie, de perception absolue, conforme aux
+sent les techniques les plus diverses. Et en outre, un idéal [p. 134] d'expérience vraie, de perception absolue, conforme aux
 intimes exigences de la pensée, commande en effet, dans
 la perspective de l'immédiat, nos jugements de valeur
 sur l'expérience toujours fragmentaire, sur la perception
@@ -4936,16 +4520,14 @@ lique à la perception concrète. Il définit ce que nous devons
 entendre par état pur de la donnée : l'état où elle se pré-
 sente à nous au moment où se réalise comme action vécue,
 comme époque de vie effective, la prise de conscience. Et
-si cet idéal peut être dit a priori, c'est en ce sens qu'il gou-
+si cet idéal peut être dit *a priori*, c'est en ce sens qu'il gou-
 verne la phase d'épuration critique dans la recherche, non
 au sens où pareille expression signifierait forme d'origine
 subjective , puisque ceci supposerait déjà faite la dualité du
 sujet et de l'objet, au delà de laquelle précisément il s'agit
 de remonter. Au cours de ce travail régressif, sans doute
 
-[p. 135]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 135] LE RETOUR A L'IMMÉDIAT
 135
 
 on effectue des constructions théoriques. Par rapport au
@@ -4995,11 +4577,7 @@ produit
 d'élaborations
 conceptuelles ,
 un système d'abstractions construit par le raisonnement.
-Autant vaudrait dire que cette capacité de vue simple à
-
-[p. 136]
-
-laquelle on arrive à force de labeur quand on a réussi à
+Autant vaudrait dire que cette capacité de vue simple à [p. 136] laquelle on arrive à force de labeur quand on a réussi à
 dominer une science, à en posséder la maîtrise, est un rac-
 courci matériellement composé de toutes les vues fragmen-
 taires traversées avant d'y parvenir. Le rôle du raisonnement
@@ -5035,9 +4613,7 @@ lachose en soi, que la discussion traditionnelle du réalisme
 ontologique montre tout à fait impensable et dénuée de
 sens ? On voit la difficulté qu'il s'agit de résoudre. Elle
 
-[p. 137]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 137] LE RETOUR A L'IMMÉDIAT
 137
 
 concerne le problème des rapports entre intuition immé-
@@ -5070,11 +4646,7 @@ par des comparaisons intrinsèques. Eh bien ! Cette fois en-
 core, le second sens convient seul. L'immédiat n'a rien
 d'une matière statiquement posée, rien d'une chose. Voyons-y
 plutôt un pôle idéal suscité par un mouvement de conver-
-gence ou, plus précisément encore, le caractère même de ce
-
-[p. 138]
-
-mouvement ; et comprenons en outre qu'il y a, pour chaque
+gence ou, plus précisément encore, le caractère même de ce [p. 138] mouvement ; et comprenons en outre qu'il y a, pour chaque
 science et pour chaque problème, un degré d'immédiat né-
 cessaire et suffisant : celui qui est atteint quand tout l'objet
 de la recherche a été converti en action vive, en progrès de
@@ -5107,9 +4679,7 @@ dans et par le mouvement de discours qui nous y mène ; on
 le connaît, on le possède,
 bien que réfractaire à se laisser
 
-[p. 139]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 139] LE RETOUR A L'IMMÉDIAT
 139
 
 -
@@ -5147,9 +4717,7 @@ où il travaille à cette résolution particulière : telle, entre
 autres,
 la sensation de lumière pour le physicien qui cons-
 
-[p. 140]
-
--
+[p. 140] -
 truit l'optique . Mais ce donné lui-même relève d'un autre mo-
 ment de la science, de sorte que celle-ci,
 dans la mesure
@@ -5186,9 +4754,7 @@ avancée tout à l'heure qu'il y a des degrés dans l'immédiat
 et que toute solution d'un problème particulier est toujours
 obtenue par retour à un certain degré correspondant d'im
 
-[p. 141]
-
-LE RETOUR A L'IMMÉDIAT
+[p. 141] LE RETOUR A L'IMMÉDIAT
 141
 
 médiat. Il s'agit alors de découvrir comment se pose réelle-
@@ -5218,9 +4784,7 @@ nés par deux voies convergentes en face de l'acte d'intuition,
 dont le retour à l'immédiat ne constitue que la préface ou
 plutôt la première phase.
 
-[p. 142]
-
-CHAPITRE IV
+[p. 142] CHAPITRE IV
 
 L'acte
 d'intuition
@@ -5255,9 +4819,7 @@ pline. Nous nous appliquerons d'ailleurs à scruter les cho-
 ses d'un regard direct plutôt qu'à faire l'exégèse d'une doc-
 trine, quelle qu'elle soit.
 
-[p. 143]
-
-L'ACTE D'INTUITION
+[p. 143] L'ACTE D'INTUITION
 143
 
 H. Poincaré dit quelque part ( 1)
@@ -5300,9 +4862,7 @@ toute grande philosophie lui donne une réponse, - il est [^p143-1]
 [^p143-1]: La Valeurde la Science, p. 153 .
 [^p143-2]: Science et Méthode, p. 137.
 
-[p. 144]
-
-devenu aujourd'hui très nettement un problème central. Les
+[p. 144] devenu aujourd'hui très nettement un problème central. Les
 écrits de M. Bergson, entre tous, l'ont rendu plus actuel que
 jamais. On en parle sans cesse ; on le discute avec ardeur
 et abondance. Mais il faut bien reconnaître que beaucoup,
@@ -5339,9 +4899,7 @@ Seulement, voilà ce que d'au-
 cuns n'arrivent pas à voir. Tant de métaphores ont troublé.
 Elles ont éveillé une inquiétude. On ne leur a trouvé qu'une
 
-[p. 145]
-
-L'ACTE D'INTUITION
+[p. 145] L'ACTE D'INTUITION
 145
 
 valeur esthétique, imaginative, une valeur de poème ou de
@@ -5386,11 +4944,7 @@ réduite (ou guère s'en faut) à quelques vagues anecdotes .
 Lacune de grave
 conséquence. On oppose trop souvent,
 
-10
-
-[p. 146]
-
-d'une manière trop tranchée, l'ordrede la preuve et l'ordre de
+10 [p. 146] d'une manière trop tranchée, l'ordrede la preuve et l'ordre de
 la découverte, celui de la vérité et celui de l'invention. Volon-
 
 tiers, on dit qu'on trouve comme on peut, à travers des ima-
@@ -5437,9 +4991,7 @@ l'acte d'intuition en lui-même et,
 
 [^p146-1]: Science etMéthode, p. 50-53 .
 
-[p. 147]
-
-L'ACTE D'INTUITION
+[p. 147] L'ACTE D'INTUITION
 147
 
 pour cela, d'en éclaircir tout d'abord l'idée.
@@ -5479,11 +5031,7 @@ désirable qu'elle ne servit pas seulement à nommer ce qui
 n'est pas clair dans les démarches de la connaissance. Le tort
 de ses adversaires, et deplusieurs parmi ceuxqui l'admettent,
 qui la vantent, consiste à en traiter conceptuellement, à en
-chercher une formule, malgré l'espèce de contradiction inhé
-
-[p. 148]
-
-rente à un procédé de ce genre. Aucune combinaison de con-
+chercher une formule, malgré l'espèce de contradiction inhé [p. 148] rente à un procédé de ce genre. Aucune combinaison de con-
 cepts n'en fournira jamais l'équivalent. De l'intuition, on ne
 saurait en somme avoir valablement qu'une intuition : préci-
 sément parce qu'elle est réalité originale et irréductible ; et
@@ -5515,9 +5063,7 @@ révélatrice de réalité vive actuellement présente, prisedu de-
 dans et non d'un point de vue extérieur, immédiate et non
 discursive, spécifique et non symbolique, enfin adéquate à son
 
-[p. 149]
-
-L'ACTE D'INTUITION
+[p. 149] L'ACTE D'INTUITION
 149
 
 objet parce qu'elle coïncide avec lui. Ce sont bien là lescarac-
@@ -5550,11 +5096,7 @@ telle intuition décisive. L'intuition, toutefois, n'est pas seule-
 ment ni toujoursdivination de ce genre, anticipation plus ou
 moins confuse et enveloppéede ce qu'une analyse explicite
 révélera ultérieurement comme n'étant au fond que du ration-
-nel ; avec les mêmes caractères, elle peut être consommation
-
-[p. 150]
-
-aussi bien que préface de savoir analytique ; un exemple en est
+nel ; avec les mêmes caractères, elle peut être consommation [p. 150] aussi bien que préface de savoir analytique ; un exemple en est
 alors l'état de possession simple où s'élève le savant devenu
 maître de son objet. Pareil fait se retrouve à tous les étages de
 la vie spirituelle. De quelque démarche qu'il s'agisse ,- et
@@ -5590,9 +5132,7 @@ cevoir une réalité morale aussi bien qu'une réalité physique,
 
 [^p150-1]: Encas d'ambiguïté à craindre, on pourra dire « percevoir intuiti- vement » .
 
-[p. 151]
-
-L'ACTE D'INTUITION
+[p. 151] L'ACTE D'INTUITION
 151
 
 une vérité intelligible aussi bien qu'une qualité sensible, un
@@ -5626,11 +5166,7 @@ n'être qu'un regard rétrospectif ouvert sur des faits acquis . On
 imagine souvent l'intuition comme sorte de vue
 passive, de
 lecture où l'esprit ne ferait que recevoir statiquement une
-donnée. Rien de plus faux : du moins n'est-ce là que le plus
-
-[p. 152]
-
-bas degré de l'intuition. Au contraire, quand on l'envisage
+donnée. Rien de plus faux : du moins n'est-ce là que le plus [p. 152] bas degré de l'intuition. Au contraire, quand on l'envisage
 sous sa forme la plus haute, l'intuition porte essentiellement
 sur un acte, non point sur une chose morte ; elle est elle-même
 un acte,
@@ -5662,9 +5198,7 @@ d'une action génératrice de synthèse qualifiante ; et l'intuition
 ( 1 ) Vocabulaire technique et critique de la Philosophie, par A. Lalande :
 observations de M. Bergson à l'article « Immédiat » .
 
-[p. 153]
-
-L'ACTE D'INTUITION
+[p. 153] L'ACTE D'INTUITION
 153
 
 parfaite n'est endéfinitive rien d'autre que l'actualité d'une
@@ -5701,9 +5235,7 @@ loin, à en prendre des vues superficielles et instantanées.
 de Coussange, Alcan, 1916. — La lettre de M. Bergson est reproduite à
 la fin du volume.
 
-[p. 154]
-
--
+[p. 154] -
 Identité de l'acte intuitif et de l'acte conscient, - iden-
 tité conçue d'ailleurs comme une limite ,
 telle est la no-
@@ -5740,9 +5272,7 @@ indivisible. Ainsi sont connues les « natures simples » ; ainsi
 les indéfinissables, les axiomes. De même, on dit qu'un en-
 semble est connu intuitivement, quand il est connu comme
 
-[p. 155]
-
-L'ACTE D'INTUITION
+[p. 155] L'ACTE D'INTUITION
 155
 
 simple, dans son unité synthétique, à l'état de concentra-
@@ -5777,9 +5307,7 @@ analogie ou mieux l'identité avec une connaissance du genre
 de celle que l'on obtient par conscience, mais cette fois s'agis-
 sant de conscience sensible .
 
-[p. 156]
-
-Maintenant, pour préciser davantage, deux voies s'offrent à
+[p. 156] Maintenant, pour préciser davantage, deux voies s'offrent à
 nous , tracées dans l'histoire des doctrines. Au sens cartésien ,
 
 l'intuition consiste essentiellement en l'immédiate aperception
@@ -5818,9 +5346,7 @@ fiée de leurs thèses. Quoi qu'il en soit, et quelques réserves
 qu'appelle au fond une semblable dualité, il sera commode
 néanmoins d'en faire usage provisoirement, pour une étape
 
-[p. 157]
-
-L'ACTE D'INTUITION
+[p. 157] L'ACTE D'INTUITION
 157
 
 nouvelle d'approximation.
@@ -5848,7 +5374,7 @@ pour la signifier, aucun terme équivalent n'était substituable
 que, je l'envisage la première. Mais il faut bien noter avec
 quelle nuance précise d'interprétation : car on n'est pas resté
 communément, du moins en toute rigueur, au sens originel
-fixé par la Critique de la Raison pure .
+fixé par la *Critique de la Raison pure* .
 Rappelez-vous la formule de Kant. Au contraire du concept,
 qui apparaît comme un substitut mental du réel, et qui sans
 doute prétend y correspondre, mais qui peut fort bien n'y pas
@@ -5857,15 +5383,13 @@ un objet en ce qu'il a de singulier et, de cet objet, elle donne
 
 [^p157-1]: A. LALANDE, Vocabulaire technique et critique de la Philosophie.
 
-[p. 158]
-
-directement l'existence même avec le caractère propre [^p158-1] . Du
+[p. 158] directement l'existence même avec le caractère propre [^p158-1] . Du
 reste, aux yeux de Kant, il n'y a pour l'homme semblable
 intuition que du sensible. A deux degrés toutefois et, pour
 ainsi dire, à deux niveaux : soit intuition empirique d'une
 qualité qui affecte nos sens, d'une couleur par exemple,
 soit
-intuition pure d'une forme a priori (telle que l'espace ou le
+intuition pure d'une forme *a priori* (telle que l'espace ou le
 temps) qui exerce une fonction de synthèse unifiante par rap-
 port au divers du donné. Le pouvoir d'intuition, avec ses
 limites, est alors inscrit statiquement dans la structure fonda-
@@ -5893,9 +5417,7 @@ c'est le rôle réservé au sensible comme véhicule. Toutefois les
 
 [^p158-1]: Je me réfère ici aux textes de l'Esthétique transcendantale.
 
-[p. 159]
-
-L'ACTE D'INTUITION
+[p. 159] L'ACTE D'INTUITION
 159
 
 différences restent profondes. Car, chez Kant, si l'on prend
@@ -5903,7 +5425,7 @@ avec Delbos ( 1) l'exemple de l'espace, l'intuition porte sur
 une forme créée par l'esprit au cours d'une activité qui n'a
 rienen soi de logique, ni même strictement d'intellectuel,
 mais est immanente à la sensibilité, et que l'expérience révèle
-en fait, mais qui en droit fonde celle-ci : activité sui generis
+en fait, mais qui en droit fonde celle-ci : activité *sui generis*
 par laquelle se trouve posée une loi de spatialisation, une loi
 contraignant les impressions de la sensibilité à se constituer
 spatialement, loi intimée d'ailleurs à la faculté de percevoir
@@ -5929,9 +5451,7 @@ on s'y attendrait le moins, par exemple enmathématique pure, [^p159-1]
 [^p159-1]: Revuede Métaphysique et deMorale, novembre 1895.
 [^p159-2]: La Valeurde la Science, chap. 1.
 
-[p. 160]
-
-la chose n'est pas douteuse ni contestée par personne. Les
+[p. 160] la chose n'est pas douteuse ni contestée par personne. Les
 analystes, pour ne citer qu'eux, l'invoquent sans cesse. Tou-
 jours ils ont parlé d'une démarche de l'esprit autre que le rai-
 sonnement explicite, que le discours transitif, d'une démarche
@@ -5963,9 +5483,7 @@ trait ininterrompu sur le tableau : c'était le continu ; on n'en
 disait rien d'autre. Et maintenant encore, sans même parler
 de l'enseignement élémentaire, ce n'est guère à autre chose
 
-[p. 161]
-
-L'ACTE D'INTUITION
+[p. 161] L'ACTE D'INTUITION
 161
 
 que le mathématicien pense en pratique, chaque fois qu'il
@@ -6005,11 +5523,7 @@ ne devons pas omettre : elle peut aussi induire en erreur, de
 fait elle aparfois trompé. Considérons en effet l'image qu'elle
 nous donne d'une courbe et d'une droite : deux bandes aussi
 
-11
-
-[p. 162]
-
-étroites qu'on le veut, mais où subsiste toujours et inévitable-
+11 [p. 162] étroites qu'on le veut, mais où subsiste toujours et inévitable-
 ment je ne sais quel résidu d'épaisseur évanouissante. Alors
 ces deux bandes, il est toujours possible de les disposer de
 façon que la droite touche la courbe sans la traverser. Cela,
@@ -6041,9 +5555,7 @@ nous dire que cette forme est particulière, ni surtout en quoi.
 Pareille insuffisance provient précisément de ce que l'intuition
 est ici vue contemplative d'une sorte d'objet, de matière, de
 
-[p. 163]
-
-L'ACTE D'INTUITION
+[p. 163] L'ACTE D'INTUITION
 163
 
 résultat clos, et non pas conscience vive d'activité opératoire
@@ -6082,9 +5594,7 @@ un exemple de ce qui, à première vue, ne saurait être ima-
 sur les principes de l'Analyse mathématique, publiées par la Revue des
 Courset Conférences en juin et juillet 1924.
 
-[p. 164]
-
-giné ni figuré : une courbe continue sans tangente nulle
+[p. 164] giné ni figuré : une courbe continue sans tangente nulle
 part. C'est la considération d'une chaîne formée de cercles,
 dont chacun touche le précédent et le suivant et engendre
 de
@@ -6140,9 +5650,7 @@ partout sur le segment, je veux dire dans chaque inter-
 [^p164-1]: E. BOREL, Leçons sur la Théorie des Fonctions, chap. III.
 [^p164-2]: E. BOREL, L'Espace et la Temps (Alcan, 1923), p. 121-123.
 
-[p. 165]
-
-L'ACTE D'INTUITION
+[p. 165] L'ACTE D'INTUITION
 165
 
 valle partiel, si petit qu'il soit et n'importe où on le place.
@@ -6198,11 +5706,7 @@ sans fin.
 Il
 
 arrive
-parfois que tout ou partie des portions à enlever
-
-[p. 166]
-
-l'ait été déjà précédemment [^p166-1] ; mais peu importe. A la
+parfois que tout ou partie des portions à enlever [p. 166] l'ait été déjà précédemment [^p166-1] ; mais peu importe. A la
 limite, par l'ensemble de l'opération, nous aurons enlevé
 du mètre
 initial
@@ -6257,9 +5761,7 @@ son erreur, qui persiste à lui apparaître comme une évi-
 [^p166-1]: Parceque les points de division décimétrique se retrouvent parmi ceux de division centimétrique, etc.
 [^p166-2]: Si le segment donné pesait goo grammes, ce qui en subsistera fina- lement pèsera encore plus de 800 grammes
 
-[p. 167]
-
-L'ACTE D'INTUITION
+[p. 167] L'ACTE D'INTUITION
 167
 
 dente vérité . Tannery ajoutait d'ailleurs avec beaucoup de
@@ -6322,11 +5824,7 @@ L'intuition ima-
 
 ginative ressemble en somme, dans le principal de ses
 rôles,
-à l'intuition de l'enfant au seuil de la vie cons
-
-[p. 168]
-
-ciente : elle est initiatrice et prophétique, mais provisoire,
+à l'intuition de l'enfant au seuil de la vie cons [p. 168] ciente : elle est initiatrice et prophétique, mais provisoire,
 valable
 seulement dans la mesure où elle finit par être
 vérifiée. C'est donc l'intuition dialectique ou
@@ -6385,9 +5883,7 @@ semble. Ce qui joue alors le principal rôle, c'est l'idée de
 
 et
 
-[p. 169]
-
-L'ACTE D'INTUITION
+[p. 169] L'ACTE D'INTUITION
 169
 
 pleine clarté intellectuelle ou d'évidence obtenue instanta-
@@ -6430,9 +5926,7 @@ lutive. L'exemple du nombre entier [^p169-1] suffirait à le mettre
 
 [^p169-1]: Cf. BRUNSCHVICG, Les étapes de la philosophie mathématique .
 
-[p. 170]
-
-en lumière : il n'existe pas d'atomes logiques absolus, d'élé-
+[p. 170] en lumière : il n'existe pas d'atomes logiques absolus, d'élé-
 ments qui ne seraient pas à leur tour des centres de relations
 elles-mêmes analysables. Dans la réalité de sa vie, la science
 est constituée par un double effort, vers les principes autant
@@ -6463,11 +5957,7 @@ ratoires dont j'ai parlé à propos de l'immédiat, rien n'existe
 qui ne soit système unifié et non atome. C'est donc bien tou-
 jours à une intuition d'ensemble que nous sommes ramenés.
 J'en dirais autant des propositions, chacune expressive
-d'un rapport, dont celles qui paraissent représenter des élé-
-
-[p. 171]
-
-L'ACTE D'INTUITION
+d'un rapport, dont celles qui paraissent représenter des élé-[p. 171]L'ACTE D'INTUITION
 171
 
 - oublié pour
@@ -6505,11 +5995,7 @@ prospectivement pour l'invention ,
 rétrospectivement pour l'intellection, - quej'aurais mauvaise
 grâce à m'y attarder encore. La logique ne suffit pas, et même
 ne se suffit pas. Pour lui ouvrir carrière comme pour en clore
-les évolutions, il faut un acte de perception simple, capable
-
-[p. 172]
-
-de saisir un ensemble dans son unité organique ou plutôt
+les évolutions, il faut un acte de perception simple, capable [p. 172] de saisir un ensemble dans son unité organique ou plutôt
 dans ce raccourci de tension potentielle condensée que le
 schéma dynamique exprime. Ainsi seulement se réalisent, au
 seuil de la recherche, le discernement de la voie à suivre et,
@@ -6549,9 +6035,7 @@ allons tenter de faire maintenant ; et un point surtout va
 
 [^p172-1]: Cf. H. POINCARE, La Valeurde la Science, p. 25-29.
 
-[p. 173]
-
-L'ACTE D'INTUITION
+[p. 173] L'ACTE D'INTUITION
 173
 
 nous retenir à cet égard. Est-ce d'un être ou d'un acte,
@@ -6587,9 +6071,7 @@ plus un caractère provisoire ou subordonné : elle se suffit
 [^p173-1]: BRUNSCHVICG, Les étapes de la philosophie mathématique p. 142.
 [^p173-2]: Id., ibid.
 
-[p. 174]
-
-vraie par soi. Mais, de plus en plus, c'est à condition d'en-
+[p. 174] vraie par soi. Mais, de plus en plus, c'est à condition d'en-
 tendre l'intuition comme démarche de pensée active, dyna-
 mique, opératoire. Et toutes nos recherches nous font abou-
 tir à la même conclusion .
@@ -6632,9 +6114,7 @@ que nous aussi aboutissons .
 
 [^p174-1]: X. LÉON, La philosophie de Fichte, p. 14 .
 
-[p. 175]
-
-L'ACTE D'INTUITION
+[p. 175] L'ACTE D'INTUITION
 175
 
 D'autre part, Kant est victime ici, encore une fois, de sa
@@ -6675,11 +6155,7 @@ significative .
 Impossibilité de s'en tenir à une disjonctiondu sensible et
 de l'intellectuel : voilà, en fin de compte, à quel centre
 nous aboutissons par toutes les voies. Avec cette conclusion,
-une deuxième étape de nos recherches a pris fin : celle qui
-
-[p. 176]
-
-concernait la seconde variété classique de l'intuition. Avec
+une deuxième étape de nos recherches a pris fin : celle qui [p. 176] concernait la seconde variété classique de l'intuition. Avec
 elle, nous ne sommes plus exposés à l'erreur. Toutefois l'in-
 tuition cartésienne ou rationnelle, comme nous venons de
 la décrire, ne vaut encore que dans un certain domaine de
@@ -6718,9 +6194,7 @@ ristique.
 
 Allons tout de suite au bout du chemin dont je viens de
 
-[p. 177]
-
-L'ACTE D'INTUITION
+[p. 177] L'ACTE D'INTUITION
 177
 
 marquer l'amorce. « On appelle intuition cette espèce de
@@ -6753,11 +6227,7 @@ et on en tire une conséquence abusive : à savoir, que l'intui-
 tion , -- quel qu'en soit le genre,
 est capable d'induire en
 
-[^p177-1]: Introduction à la métaphysique, dans la Revue de Métaphysique et de Morale, janvier 1903 , p. 3 . 12
-
-[p. 178]
-
-erreur, qu'elle peut être illusoire, qu'elle exige intervention
+[^p177-1]: Introduction à la métaphysique, dans la Revue de Métaphysique et de Morale, janvier 1903 , p. 3 . 12 [p. 178] erreur, qu'elle peut être illusoire, qu'elle exige intervention
 d'une preuve discriminante établie après coup par réflexion
 critique. Je ne prétends certes pas nier les faits qu'on invoque
 à cet égard. Mais peut-être l'interprétation n'en est-elle pas
@@ -6775,7 +6245,7 @@ modifiée
 par cette épreuve ; et cela ne laisse pas que de diminuer
 l'importance de l'argument qu'on voulait faire valoir contre
 l'autonomie de l'intuition. En tout cas, lorsque le contrôle
-a posteriori fait reconnaître que l'intuition a été maîtresse de
+*a posteriori* fait reconnaître que l'intuition a été maîtresse de
 vérité, n'en concluons pas qu'il lui ajoute cette vérité dont
 elle serait par elle-même dépourvue, qu'elle n'aurait pas de soi
 compétence pour fonder, et qu'ainsi il se la subordonne. Une
@@ -6792,9 +6262,7 @@ d'analyse et de synthèse discursives . Mais, séparée du dis-
 cours, ce ne serait plus qu'un rêve, une âme errante à la
 recherche d'un corps qui la réalise, qui l'amène à la précision.
 
-[p. 179]
-
-L'ACTE D'INTUITION
+[p. 179] L'ACTE D'INTUITION
 179
 
 De fait, l'intuition n'est jamais désincarnée. A peine surgie,
@@ -6828,9 +6296,7 @@ elle peut aussi la suivre et la récompenser. >>
 
 [^p179-1]: Vocabulaire technique et critique de la Philosophie, par A. Lalande : observations à l'article « Intuition » .
 
-[p. 180]
-
-Descartes ne nous prescrit-il pas « les dénombrements et les
+[p. 180] Descartes ne nous prescrit-il pas « les dénombrements et les
 exercices qui rendent la pensée de plus en plus agile, au
 point que ce qui était d'abord successif et discursif, peut fina-
 lement être embrassé tout d'une vue, simplici mentis intui-
@@ -6861,9 +6327,7 @@ teurs ont pu déposer, à leur insu, au fond de leurs observa- [^p180-1]
 [^p180-1]: Loc. cit.
 [^p180-2]: Introduction à la métaphysique, dans la Revue deMétaphysique et de Morale, janvier 1903, p. 36.
 
-[p. 181]
-
-L'ACTE D'INTUITION
+[p. 181] L'ACTE D'INTUITION
 181
 
 tions . Ainsi seulement se dégage la matérialité brute des faits
@@ -6898,9 +6362,7 @@ naissance, en précisant le sens des corrections qu'ils attendent,
 
 [^p181-1]: Une Philosophie nouvelle, p. 34 .
 
-[p. 182]
-
-en évoquant ainsi peu à peu le pressentiment des retouches
+[p. 182] en évoquant ainsi peu à peu le pressentiment des retouches
 qui les rendront meilleurs. Toutefois la critique serait impuis-
 santeà elle seule, puisqu'elle ne connaît de lapensée que l'état
 antérieur à la transformation qu'il s'agit d'obtenir. Un sursaut
@@ -6913,7 +6375,7 @@ les divers aspects et lejeu multiforme du réel, selon les modes
 ordinaires de l'intelligence. Puis, une fois mûrie, il faut
 qu'elle retourne au discours et se convertisse en concepts pour
 s'éprouver en se produisant, pour se vérifier en s'appliquant.
-Le moment caractéristique et décisif, le moment sui generis
+Le moment caractéristique et décisif, le moment *sui generis*
 de l'intuition est celui où se fait le raccord des deux mouve-
 ments contraires, où l'enquête préparatoire peu à peu unifiée
 s'enroule
@@ -6935,9 +6397,7 @@ révélateur du réel parce qu'il se résume, par delà tous les
 symboles de discours, en un geste de perception simple et
 directe, immanente, où s'abolit un instant, dans un éclair de
 
-[p. 183]
-
-L'ACTE D'INTUITION
+[p. 183] L'ACTE D'INTUITION
 183
 
 communion vécue, la coupure si jalousement conservée d'or-
@@ -6974,9 +6434,7 @@ discours, comme la pensée qui se concentre à la pensée qui
 terme « intelligence » une signification beaucoup plus restreinte que dans
 l'Introduction à la métaphysique.
 
-[p. 184]
-
-se détend. Elle est la pensée qui se donne, en contraste avec
+[p. 184] se détend. Elle est la pensée qui se donne, en contraste avec
 la pensée qui
 se
 sépare.
@@ -7015,9 +6473,7 @@ qu'illusion et artifice. Par là, on a dissocié certains aspects de
 (1 ) Cf. R. BERTHELOT, Bulletin de la Société française de Philosophie,
 séance du 31 janvier 1907.
 
-[p. 185]
-
-L'ACTE D'INTUITION
+[p. 185] L'ACTE D'INTUITION
 185
 
 l'esprit réellement inséparables ; on a mis en contraste abusif
@@ -7056,11 +6512,7 @@ synthèse intégrale qui enveloppe aussi bien science et critique.
 Dans ces conditions, volontarisme et sentimentalisme ne mar-
 quent nullement les tendances véritables d'une
 doctrine de
-l'intuition immédiate. Ce sont en effet deux conceptions qui,
-
-[p. 186]
-
-avant de se définir et pour se constituer, supposent accom-
+l'intuition immédiate. Ce sont en effet deux conceptions qui, [p. 186] avant de se définir et pour se constituer, supposent accom-
 plie déjà une certaine dissociation conceptuelle, tandis que
 l'intuition immédiate veut remonter plus haut que toute disso-
 ciation de ce genre. Mais l'intellectualisme n'estpas moins
@@ -7095,9 +6547,7 @@ dre avec l'attente paresseuse d'une grâce de révélation surhu-
 maine . Je n'ai pas besoin de dire ce qui
 résulterait d'une
 
-[p. 187]
-
-L'ACTE D'INTUITION
+[p. 187] L'ACTE D'INTUITION
 187
 
 pareille attitude, si on se laissait aller à la prendre. L'intui-
@@ -7130,11 +6580,7 @@ encore possédé aujourd'hui par tous en pleine lumière de
 conscience ; le troisième ne fait que commencer d'apparaître
 et n'est pratiqué vraiment que par un petit nombre d'initia-
 teurs . C'est à lui néanmoins qu'a toujours été dû ce qui s'est
-fait de plus grandet de plus neuf dans la science et dans la
-
-[p. 188]
-
-philosophie , L'important estde montrer qu'il s'agit bien alors
+fait de plus grandet de plus neuf dans la science et dans la [p. 188] philosophie , L'important estde montrer qu'il s'agit bien alors
 d'une conduite. Voilà le point sur lequelje voudrais insister
 maintenant, afin de mettre enévidence que l'intuition véritable
 relève d'une discipline régulière, d'une méthode, et qu'elle
@@ -7174,9 +6620,7 @@ tines conceptuelles ; qu'il se libère de l'égoïsme séparateur ;
 que, par une sorte de renoncement à ses habitudes, il soit
 amené, en face des réalités qui vont se produire, à un étatde
 
-[p. 189]
-
-L'ACTE D'INTUITION
+[p. 189] L'ACTE D'INTUITION
 189
 
 docilité, de pureté perceptive ; qu'il devienne ainsi capable de
@@ -7216,9 +6660,7 @@ voilà essentiellement l'intuition. Pour la décrire, on peut évo-
 quer indifféremment l'effort spéculatif ou l'effort moral ; de
 l'un à l'autre, il y a possibilité de transposition ; et ici ou là
 
-[p. 190]
-
--
+[p. 190] -
 
 onvoit sans peine la différence entre la simplicité antérieure
 àla complication discursive, qui n'appartient qu'à lapré-in-
@@ -7257,9 +6699,7 @@ d'idées proprement dites, par-dessus la broussaille des sym-
 boles, avec ce réalisme transcendant au discours, dont la
 simplicité n'est pas appauvrissement, mais consommation de
 
-[p. 191]
-
-L'ACTE D'INTUITION
+[p. 191] L'ACTE D'INTUITION
 191
 
 richesse, et où l'idéaliste le plus intransigeant ne peut voir
@@ -7293,9 +6733,7 @@ vellede connaître. Ce qui a crû, c'est notre capacité d'élan [^p191-1]
 [^p191-1]: Revue de Métaphysiqueet de Morale, novembre 1911 , p. 810.
 [^p191-2]: Loc. cit. , p. 825 .
 
-[p. 192]
-
-créateur. Le résultat de l'acte intuitif apparaît moins comme
+[p. 192] créateur. Le résultat de l'acte intuitif apparaît moins comme
 un souvenir clos qui se serait ajouté aux souvenirs antérieurs ,
 que comme un branle communiqué à notre pouvoir d'inven-
 tion, comme une aptitude condensée en un moment de cons-
@@ -7329,9 +6767,7 @@ expresses, qui possède son objet par le dedans, sous forme
 d'accord sympathique avec lui, d'intime communion vécue. Il
 faudrait toutefois éviter alors une méprise. L'intuition n'est
 
-[p. 193]
-
-L'ACTE D'INTUITION
+[p. 193] L'ACTE D'INTUITION
 193
 
 pas identique à l'instinct : ce ne serait en tout cas que « l'ins-
@@ -7368,11 +6804,7 @@ faites, à la déduction linéaire ; il se
 
 [^p193-1]: L'Évolution créatrice, p. 192. Cf. sur ce point, dans laRevuedu Mois, 10juin 1912, ma NoteA propos de l'intuition bergsonienne.
 [^p193-2]: Car, selon M. Bergson, si la vie nepeut être profondément connue que par intuition, celle-ci est capable de s'appliquer même à la matière.
-[^p193-3]: Je rappelle ici des indications données dans mon volume Une Philo- sophie nouvelle, p. 33 et 135-134. Cf. le discours prononcé par M. Bergson à ladistribution des prix du Concours général en 1895 : Le bon sens et les études classiques . - 13
-
-[p. 194]
-
-préoccupe surtout de situer et de peser sans rien méconnaître ;
+[^p193-3]: Je rappelle ici des indications données dans mon volume Une Philo- sophie nouvelle, p. 33 et 135-134. Cf. le discours prononcé par M. Bergson à ladistribution des prix du Concours général en 1895 : Le bon sens et les études classiques . - 13 [p. 194] préoccupe surtout de situer et de peser sans rien méconnaître ;
 
 il arrête le développement de chaque principe et de chaque
 méthode au point précis où une application brutale et indis-
@@ -7427,11 +6859,7 @@ docteurs de la vie mystique, tels qu'on peut les observer sur le
 
 vif dans les témoignages de ceux qui les vécurent ou même,
 
-chacun, s'il consent à l'épreuve, dans sa propre histoire inté-
-
-[p. 195]
-
-L'ACTE D'INTUITION
+chacun, s'il consent à l'épreuve, dans sa propre histoire inté-[p. 195]L'ACTE D'INTUITION
 195
 
 rieure. A ne retenir que les écrits des Maîtres, nous sommes
@@ -7464,11 +6892,7 @@ qu'on ne suppose, bienque trop rares parmi les dialecticiens,
 -quand ceux-là, d'expérience, affirment la possibilité de ces
 états, etque rien n'est plus véritable ni même,en un certain
 sens, plus positif. Pourquoi donc tant d'incompréhensions, et
-de si graves ? C'est que nulle analyse, nulle combinaison de
-
-[p. 196]
-
-concepts ne supplée ici à la pratique vécue. Il serait vain
+de si graves ? C'est que nulle analyse, nulle combinaison de [p. 196] concepts ne supplée ici à la pratique vécue. Il serait vain
 d'attendre pleine lumière, en l'espèce, de quelque jeu de for-
 mules, de quelques pauvres exemples mis en discours. On ne
 résume pas une vie : mais on peut la vivre, et il le faut, si
@@ -7513,9 +6937,7 @@ de l'analyse, au delà et au dessus d'elle, mais une simpli-
 
 -
 
-[p. 197]
-
-L'ACTE D'INTUITION
+[p. 197] L'ACTE D'INTUITION
 197
 
 citéqui estconsommation de richesse concrète et non appau-
@@ -7557,11 +6979,7 @@ cernement des esprits » . Nous aurons bientôt à revenir sur
 tout cela. Retenons-en surtout, à titre provisoire, qu'on se
 tromperait lourdement si l'on pensait trouver, sous le nom de
 pensée intuitive, je ne sais quelle faculté acquise d'avance,
-uniformément présente en chacun, toute prête à fonctionner
-
-[p. 198]
-
-sans apprentissage préalable et à répondre avec compétence
+uniformément présente en chacun, toute prête à fonctionner [p. 198] sans apprentissage préalable et à répondre avec compétence
 dès qu'on l'interroge. La vraie intuition, au contraire, est
 chose très rare, quidemande toujours un long effort et dont
 les hommes sont inégalement capables. D'où l'on aurait
@@ -7598,9 +7016,7 @@ donné, et l'empêchait d'agir plutôt qu'il ne prescrivait ce
 
 ( 1 ) Revue de Metaphysique et de Morale, novembre 1911 , p. 811-812 .
 
-[p. 199]
-
-L'ACTE D'INTUITION
+[p. 199] L'ACTE D'INTUITION
 199
 
 qu'il y avait à faire. Il me semble que l'intuition se comporte
@@ -7636,9 +7052,7 @@ devant l'affirmation d'autrui. Ayant quitté en effet la courbe
 de sapensée pour suivre tout droit la tangente, il est devenu
 extérieur à lui-même . Il rentre en lui en revenant à l'intuition .
 
-[p. 200]
-
-De ces départs etde ces retours sont faits les zigzags d'une
+[p. 200] De ces départs etde ces retours sont faits les zigzags d'une
 doctrine qui «
 se développe », c'est-à-dire qui se perd, se
 retrouve et se corrige indéfiniment elle-même. »
@@ -7672,9 +7086,7 @@ comme relative à l'époque où le philosophe a vécu ; mais ce [^p200-1]
 
 [^p200-1]: Loc. cit. , p. 813 .
 
-[p. 201]
-
-L'ACTE D'INTUITION
+[p. 201] L'ACTE D'INTUITION
 201
 
 n'estqu'une apparence. Le philosophe eût pu venir plusieurs
@@ -7712,9 +7124,7 @@ qui en révèle mieux que nul concept la tendance originale et
 
 [^p201-1]: Loc. cit. , p. 811 et818 .
 
-[p. 202]
-
-profonde, image caractéristique où transparaît
+[p. 202] profonde, image caractéristique où transparaît
 l'esprit de
 la doctrine, où vient s'en condenser la lettre, et à laquelle
 de préférence il faut s'adresser « pour obtenir le signe décisif,
@@ -7747,9 +7157,7 @@ c'est alors qu'interviennent de plus efficaces démarches, sem-
 blables à celles de l'oraison .
 L'intuition est donc, en définitive, une œuvre difficile .
 
-[p. 203]
-
-L'ACTE D'INTUITION
+[p. 203] L'ACTE D'INTUITION
 203
 
 Pas de doute que l'esprit y coure de grands
@@ -7788,9 +7196,7 @@ p. 47-48 .
 Cf. mon volume L'exigence idéaliste et le fait de l'évolution, Boivin ,
 1927, notamment p. 4-15, 35-36 et 108-109.
 
-[p. 204]
-
-pathie profonde avec la réalité, surtout avec ses facteurs pri-
+[p. 204] pathie profonde avec la réalité, surtout avec ses facteurs pri-
 maires, la vie et la conscience.
 Nous resterons dans cette ligne de pensée en consacrant
 une seconde partie du présent ouvrage à étudier la discipline
@@ -7800,9 +7206,7 @@ problème de la vérification. Des
 exemples suivis jusqu'au détail préciseront alors, en les ren-
 dant plus concrètes, nos conclusions antérieures.
 
-[p. 205]
-
-TABLE DES MATIÈRES
+[p. 205] TABLE DES MATIÈRES
 
 PRÉFACE
 

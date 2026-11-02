@@ -10,9 +10,7 @@ title: "La Théorie de la physique chez les physiciens contemporains (2e éd. 19
 
 ---
 
-[p. V]
-
-Philos, spec ,
+[p. V] Philos, spec ,
 Terquem
 10-14-26
 13547
@@ -43,9 +41,7 @@ ce qu'il pouvait donner, au point de vue scientifique.
 
 [^pV-1]: Sauf le premier chapitre qui résumait et concluait la première partie Nous avons supprimé également l'Introduction qui se rap portait surtout à la seconde partie. Enfin, en attendant l'achèvement d'un second volume sur le début du xx siècle, nous avons esquissé une note très sommaire sur l'évolution philosophique de la théorie de la physique jusqu'à nos jours.
 
-[p. VI]
-
-VI
+[p. VI] VI
 LA THÉORIE DE LA PHYSIQUE
 
 Il avait mis en garde contre une tradition qui avait pesé
@@ -87,11 +83,7 @@ ni à y changer.
 Quant à la seconde partie de cette réédition : la conti-
 nuation du mécanisme, ou comme nous définissions déjà
 ce dernier, lato-sensu, l'emploi des hypothèses figuratives
-et ceque nous appellerions volontiers, l'usage de l'intui-
-
-[p. VII]
-
-tion empiro-intellectuelle, nous aurions beaucoup à y
+et ceque nous appellerions volontiers, l'usage de l'intui-[p. VII]tion empiro-intellectuelle, nous aurions beaucoup à y
 ajouter; nous aurions précisément trop à ajouter pour le
 pouvoir faire dans ce volume, car ce que nous avons à y
 ajouter, c'est la matière de plusieurs volumes que nous
@@ -127,9 +119,7 @@ mécanique rationnelle de Galilée-Newton-Lagrange (prin-
 Ainsi qu'un autre volume publié vers la même époque, mais écrit
 aussi avant 1905 : L'Energétique et le Mécanisme (Alcan, 1908).
 
-[p. VIII]
-
-VIII
+[p. VIII] VIII
 LA THÉORIE DE LA PHYSIQUE"
 
 cipes de l'inertie, de la relativité du mouvement, et de
@@ -171,11 +161,7 @@ siciens actuels que nous continuons à appeler des méca-
 nistes ont employé le mot mécanisme pour lui opposer la
 théorie électro-magnétique, bien plus large, nous conser-
 vons l'acception philosophique et générate du mot, celle
-qui s'applique à tous les physiciens depuis le xvu siècle ,
-
-[p. IX]
-
-depuis Galilée, qu'ils fussent cinétistes ou dynamistes , ato-
+qui s'applique à tous les physiciens depuis le xvu siècle , [p. IX] depuis Galilée, qu'ils fussent cinétistes ou dynamistes , ato-
 mistes ou partisans du plein, partisansdes tourbillons et des
 ondulations ou partisans des forces attractives et de l'émis-
 sion. Nous le conservons parce qu'il est conforme à l'usage
@@ -206,9 +192,7 @@ raine peut fournir à la philosophie de la connaissance . [^pIX-1]
 
 [^pIX-1]: Par opposition à toute théorie qui ne considère le mouvement local que comme une espèce de mouvement (physique aristotéli- cienne et scolastique par exemple) et distingue par suite qualitati- vement diverses sortes de changements d'état physique, dontle chan- gement mécanique n'estqu'un cas (l'énergétisme ou Duhem d'après Rankine par exemple).
 
-[p. 1]
-
-LIVRE PREMIER
+[p. 1] LIVRE PREMIER
 
 LE MÉCANISME TRADITIONNEL
 
@@ -251,11 +235,7 @@ propriétés offertes par l'observation. Mais ces rapports
 de cause à effet peuvent à leur tour être considérés comme
 
 REY.
-1
-
-[p. 2]
-
-2
+1 [p. 2] 2
 L'ANALYSE DES DOCTRINES .
 
 !
@@ -302,9 +282,7 @@ mécanisme actuel l'a lui-même abandonné . Cette constata-
 tion était donc essentielle dans cette étude. Si dans la phy-
 sique contemporaine on peut constater des écoles, si les
 
-[p. 3]
-
-LE MÉCANISME TRADITIONNEL .
+[p. 3] LE MÉCANISME TRADITIONNEL .
 3
 
 philosophies ont ensuite pu étayer leurs doutes- ou leurs
@@ -351,11 +329,7 @@ nisme actuel conserve ces deux caractères
 est vrai , avec des moditications),touten abandonnant l'idée
 qu'ils aient, comme les théories qui les précèdent, une
 valeur ontologique quelconque. Les physiciens qui ne sont
-pasmécanistes, - soit qu'ils substituent une autre théorie
-
-[p. 4]
-
-4
+pasmécanistes, - soit qu'ils substituent une autre théorie [p. 4] 4
 L'ANALYSE DES DOCTRINES .
 
 1
@@ -407,9 +381,7 @@ les divers éléments impénétrables les uns aux autres se
 
 -
 
-[p. 5]
-
-LE MÉCANISME TRADITIONNEL .
+[p. 5] LE MÉCANISME TRADITIONNEL .
 5
 
 gênent mutuellement... » , en sorte que la présence de cha-
@@ -454,9 +426,7 @@ optiques de Maxwell). [^p5-1] [^p5-3] [^p5-4]
 [^p5-3]: Id. , p. 254 .
 [^p5-4]: ld.
 
-[p. 6]
-
-6
+[p. 6] 6
 L'ANALYSE DES DOCTRINES .
 
 Mais, là encore, que l'on imagine de toutes pièces cer-
@@ -501,9 +471,7 @@ nique analytique de Lagrange. La physique était tradition [^p6-1]
 
 [^p6-1]: DUHEM, Revue générale des Sciences , 1903, p. 254.
 
-[p. 7]
-
-LE MÉCANISME TRADITIONNEL .
+[p. 7] LE MÉCANISME TRADITIONNEL .
 7
 
 nellement exposée à partir de cette mécanique, et en suppo-
@@ -549,9 +517,7 @@ mouvements sont simplement considérés en eux-mêmes . [^p7-1]
 [^p7-1]: А. СомTE, Cours de Philosophie positive , I, p. 445.
 [^p7-2]: А. СОМТЕ, Сours de Philosophie positive , I, p. 445.
 
-[p. 8]
-
-8
+[p. 8] 8
 L'ANALYSE DES DOCTRINES.
 
 sans aucun égard aux modalités de leur production réelle :
@@ -597,9 +563,7 @@ mouvement supposé connu
 [^p8-1]: Id. , p. 451 .
 [^p8-2]: Id. , p. 446.
 
-[p. 9]
-
-LE MÉCANISME TRADITIONNEL .
+[p. 9] LE MÉCANISME TRADITIONNEL .
 9
 
 L'application de ces forces peut, ou bien immobiliser le
@@ -644,9 +608,7 @@ sur les propriétés de l'équilibre, pour y puiser un prin- [^p9-1]
 
 [^p9-1]: Id. , p. 556.
 
-[p. 10]
-
-10
+[p. 10] 10
 L'ANALYSE DES DOCTRINES.
 
 cipe direct de statique qui pût offrir toute la généralité
@@ -684,11 +646,7 @@ riotte) .
 << Cette conception paraîtra d'autant plus philosophique [^p10-1] [^p10-2]
 
 [^p10-1]: Id., p. 492 .
-[^p10-2]: En appelant P, P', P", les forces proposées, et suivant la notation ordinaire de Lagrange, Pr, Pr', Pr", etc., les vitesses correspondantes, ce principe se trouve immédiatement exprimé par l'équation Pdr + P'dr' + P"dr" + ... = 0 . ou plus brièvement Pdr = 0 dans laquelle, par les travaux de Lagrange, la mécanique ration-
-
-[p. 11]
-
-LE MÉCANISME TRADITIONNEL .
+[^p10-2]: En appelant P, P', P", les forces proposées, et suivant la notation ordinaire de Lagrange, Pr, Pr', Pr", etc., les vitesses correspondantes, ce principe se trouve immédiatement exprimé par l'équation Pdr + P'dr' + P"dr" + ... = 0 . ou plus brièvement Pdr = 0 dans laquelle, par les travaux de Lagrange, la mécanique ration-[p. 11]LE MÉCANISME TRADITIONNEL .
 II
 
 que, dans la statique ainsi traitée, on trouve une suite de
@@ -731,9 +689,7 @@ nelle tout entière peut être regardée comme implicitement ren-
 fermée. » (СоMTE, Id., p. 495) .
 1. ld., p. 527.
 
-[p. 12]
-
-12
+[p. 12] 12
 L'ANALYSE DES DOCTRINES .
 
 constitution de la matière. Une simple complication des
@@ -779,9 +735,7 @@ verti-
 cales dont l'orifice supérieur soit fermé par un piston
 chargé d'un certain poids . Remplissons ce vase d'une foule
 
-[p. 13]
-
-LE MÉCANISME TRADITIONNEL .
+[p. 13] LE MÉCANISME TRADITIONNEL .
 13
 
 1
@@ -827,11 +781,7 @@ ticité dus à un accroissement déterminé de chaleur sont
 proportionnels aux densités .
 « Connaissant des valeursproportionnelles aux élasticités
 manifestées en diverses circonstances par la même masse
-d'air enfermée dans un même espace, il nous est facile de
-
-[p. 14]
-
-14
+d'air enfermée dans un même espace, il nous est facile de [p. 14] 14
 I
 L'ANALYSE DES DOCTRINES .
 
@@ -877,9 +827,7 @@ gnées par eux, soit qu'elles expliquassent les phénomènes [^p14-1]
 
 [^p14-1]: DUHEM, Revue générale des Sciences, 1903, p . 171-172 .
 
-[p. 15]
-
-LE MÉCANISME TRADITIONNEL.
+[p. 15] LE MÉCANISME TRADITIONNEL.
 15
 
 électriques par les actions du milieu, et préparassent la
@@ -924,9 +872,7 @@ physionomie de la science physique estdonc nettement des- [^p15-2]
 [^p15-1]: DUHEM, Le Mixte, p. 147.
 [^p15-2]: Id ., p. 148 .
 
-[p. 16]
-
-sinée . On croit qu'elle est assise désormais sur des bases
+[p. 16] sinée . On croit qu'elle est assise désormais sur des bases
 inébranlables : et je me suis servi des opinions d'Auguste
 Comte, parce que sa philosophie relativiste et sa crainte
 des hypothèses trop hasardées dans le champ des sciences
@@ -970,9 +916,7 @@ mécanique supposait des éléments : les points matériels, et [^p16-1]
 
 [^p16-1]: Voir à ce sujet A. TANNERY, Aug. Comte, historien des sciences, 1905.
 
-[p. 17]
-
-LE MÉCANISME TRADITIONNEL .
+[p. 17] LE MÉCANISME TRADITIONNEL .
 17
 
 des principes qui établissaient entre ces éléments des rela-
@@ -998,9 +942,7 @@ nature de cristal.
 Ray,
 2
 
-[p. 18]
-
-CHAPITRE
+[p. 18] CHAPITRE
 II
 
 Les faits qui incitèrent à critiquer et à réformer
@@ -1047,9 +989,7 @@ vement, continuation logique du mouvement qui l'avait pro-
 voquée, mais non visible à notre sens grossier de la vue,
 alors que le premier l'était. Laplupart des physiciens ont, en
 
-[p. 19]
-
-LE MÉCANISME TRADITIONNEL .
+[p. 19] LE MÉCANISME TRADITIONNEL .
 19
 
 effet, accepté cette théorie. Mais il est aisé de remarquer
@@ -1096,11 +1036,7 @@ plus intelligible, s'il se fondait sur la notion d'énergie, au
 
 १
 
-hels ic
-
-[p. 20]
-
-20
+hels ic [p. 20] 20
 L'ANALYSE DES DOCTRINES .
 
 sens le plus général du mot, et sur les deux grands prin-
@@ -1143,9 +1079,7 @@ Si donc l'on ne dispose pas d'une force extérieure au
 système, si l'on considère un système clos et fini , il arrive
 un moment où il est impossible que le système puisse
 
-[p. 21]
-
-LE MÉCANISME TRADITIONNEL .
+[p. 21] LE MÉCANISME TRADITIONNEL .
 21
 
 engendrer du travail, car il est en équilibre parfaitement
@@ -1185,11 +1119,7 @@ tale, ne peut, au nom d'une vue théorique, se passer d'une
 déduction nécessaire des données de l'expérience . Maxwell,
 Helmholtz , Gibbs, et bien d'autres se sont essayés au diffi-
 cile problème de donner une figuration mécanique de cette
-loi . Et pourtant la plupart des physiciens , jusque vers
-
-[p. 22]
-
-22
+loi . Et pourtant la plupart des physiciens , jusque vers [p. 22] 22
 L'ANALYSE DES DOCTRINES . [^p22-1]
 
 la fin du XIXe siècle, se refusent encore à dire qu'il ait
@@ -1226,9 +1156,7 @@ autant qu'on l'a dit quelquefois à la conception antérieure
 [^p22-1]: Les conceptions de Biltzman, et l'interprétation statistique du principe de Carnot, laquelle s'accorde avec les postulats de la théorie cinétique des gaz, n'ont rallié l'assentiment à peu près général que tout récemment, avec la renaissance du cinétisme, d'ailleurs .
 [^p22-2]: On ne parlera de la revision particulière des principes fonda- mentaux dela physique qu'autant qu'il sera nécessaire pour l'intelli- gencede ces modificatioins puisque l'objet de ce travail porte sur l'esprit de la science etnon sur son contenu, et parceque les savants seuls ont qualité pour trater des questions qui concernent les prin- cipes de la science et leur revision.
 
-[p. 23]
-
-LE MÉCANISME TRADITIONNEL .
+[p. 23] LE MÉCANISME TRADITIONNEL .
 23
 -mais qui, en tout cas, la modifie profondément. Cette
 conception nouvelle, on peut l'appeler conceptuelle, parce
@@ -1269,11 +1197,7 @@ naturel de les chercher dans cette partie nouvelle de la
 science que le mécanisme se montrait impuissant à repré-
 senter. Puisque là était la pierre d'achoppement, là de-
 
-L
-
-[p. 24]
-
-24
+L [p. 24] 24
 L'ANALYSE DES DOCTRINES .
 
 vaient être aussi les principes que la physique avait besoin
@@ -1312,9 +1236,7 @@ innovations sont loin d'être toutes heureuses .
 
 [^p24-1]: La physique électronique doit être rangée parmi les théories d'esprit général mécaniste tend à imposer actuellement sa systéma- tisation à la physique. Elle est d'esprit mécaniste, bien que les prin- cipes fondamentaux de la physique ne soient plus fournis par la mécanique, mais par les données expérimentales de la théorie de l'électricité , parce que: 1º Elle emploie des éléments figurés, matė- riels, pour représenter les propriétés physiques et leurs lois ; elle s'exprime en termes de perception. 2ºSi elle ne considère plus les phénomènes physiques comme des cas particuliers des phénomènes mécaniques, elle considère les
 
-[p. 25]
-
-LE MÉCANISME TRADITIONNEL .
+[p. 25] LE MÉCANISME TRADITIONNEL .
 25
 
 Aussi , à côté d'elles, trouve-t-on des physiciens, qui, tout
@@ -1367,9 +1289,7 @@ rapport avec l'expérience, reste absolument identique à celle du
 mécanisme, et à la conception de la physique depuis la Renais-
 sance.
 
-[p. 26]
-
-26
+[p. 26] 26
 L'ANALYSE DES DOCTRINES .
 
 théories physiques, sans se faire illusion de l'objectivité
@@ -1414,9 +1334,7 @@ d'une façon essentielle, des éléments figuratifs, empruntés
 
 -
 
-[p. 27]
-
-LIVRE
+[p. 27] LIVRE
 II
 
 LA CRITIQUE DU MÉCANISME
@@ -1469,11 +1387,7 @@ mentaux . - 3. La théorie physique tire toute sa valeur de l'expé-
 rience ; elle n'est qu'une méthode pour la représenter. - 4. Auto-
 nomie de la théorie physique ; pas de métaphysique.
 5. Ran-
-kine est le continuateur de la tradition mécaniste, il ne fait que
-
-[p. 28]
-
-28
+kine est le continuateur de la tradition mécaniste, il ne fait que [p. 28] 28
 L'ANALYSE DES DOCTRINES .
 
 la corriger dans le sens de l'esprit qui l'a suggérée elle-même, dans
@@ -1517,9 +1431,7 @@ relations de ces phénomènes réels [^p28-2] .
 [^p28-1]: RANKINE : Outlines of the Science of Energetics (Proceedings of the philosophical society of Glasgow) , III, 1848-1855, § 1, p. 382 .
 [^p28-2]: Id.
 
-[p. 29]
-
-LA CRITIQUE DU MÉCANISME
+[p. 29] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE
 29
 
@@ -1563,9 +1475,7 @@ forme en physique théorique, parla découverte du système [^p29-3]
 [^p29-3]: Id.
 [^p29-4]: Id.
 
-[p. 30]
-
-30
+[p. 30] 30
 L'ANALYSE DES DOCTRINES .
 
 de principes le plus simple dont on puisse déduire les lois
@@ -1609,9 +1519,7 @@ classe d'objets ou de phénomènes dont les lois sont déjà
 [^p30-2]: Id .
 [^p30-3]: Id.
 
-[p. 31]
-
-LA CRITIQUE DU MÉCANISME
+[p. 31] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE
 3 г
 
@@ -1656,9 +1564,7 @@ cas qu'une seule science : Oui , il y a une science qui se [^p31-1]
 [^p31-1]: Id.
 [^p31-2]: Id.
 
-[p. 32]
-
-32
+[p. 32] 32
 L'ANALYSE DES DOCTRINES .
 
 présente tout entière sous la forme abstractive : la méca-
@@ -1706,9 +1612,7 @@ branches de la physique sur la mécanique sans s'aperce [^p32-3]
 [^p32-2]: Id.
 [^p32-3]: Id. , § 3.
 
-[p. 33]
-
-LA CRITIQUE DU MÉCANISME
+[p. 33] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE
 33
 
@@ -1754,11 +1658,7 @@ foi l'habitude d'expliquer, par l'hypothèse universellement
 admise, avec autant de dogmatisme que si l'on se bornait
 
 [^p33-1]: Id., §4, p. 383.
-[^p33-2]: ld . , § 5, p. 384. RBY. 3
-
-[p. 34]
-
-34
+[^p33-2]: ld . , § 5, p. 384. RBY. 3 [p. 34] 34
 L'ANALYSE DES DOCTRINES .
 à constater l'expérience. On en arrive à ne plus distin-
 guer, tant l'hypothèse est entrée dans nos mœurs scienti-
@@ -1803,9 +1703,7 @@ On connotera chacune d'elles par un terme convenable . [^p34-3]
 [^p34-2]: Id .
 [^p34-3]: Id. , § 6, p . 385.
 
-[p. 35]
-
-LA CRITIQUE DU MÉCANISME
+[p. 35] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE
 35
 
@@ -1850,14 +1748,12 @@ physiques : la possibilité d'être modifié ¹ . [^p35-1]
 
 [^p35-1]: Id. , § 6, p. 385.
 
-[p. 36]
-
-36
+[p. 36] 36
 L'ANALYSE DES DOCTRINES .
 
 Si alors il est possible de formuler des lois générales
 concernant l'énergie, ces lois pourront être applicables ,
-mutatis mutandis, à toute branche de la physique et consti-
+*mutatis mutandis*, à toute branche de la physique et consti-
 tueront un système de principes sur lequel pourra se fonder
 une physique théorique d'après la méthode abstractive . On
 voit maintenant pourquoi Rankine a donné à sa théorie le
@@ -1897,9 +1793,7 @@ nous présente que des phénomènes individuels. Tout doit
 [^p36-1]: ld. , § 7, 385 .
 [^p36-2]: Id. , § 7 .
 
-[p. 37]
-
-LA CRITIQUE DU MÉCANISME
+[p. 37] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE
 37
 
@@ -1941,11 +1835,7 @@ Il reste donc nominaliste, ce qui le laisse, au point de vue
 historique, l'héritier de la lignée des physiciens issue de la
 Renaissance .
 Mais il n'en est pas moins vrai, et c'est en cela qu'il
-innove, qu'au lieu de prendre pour principes des objets
-
-[p. 38]
-
-38
+innove, qu'au lieu de prendre pour principes des objets [p. 38] 38
 L'ANALYSE DES DOCTRINES .
 
 individuels , des éléments matériels, qu'on suppose exister
@@ -1992,9 +1882,7 @@ nisse les moyens de mesurer les accidents, même absolus .
 
 [^p38-1]: Id. , § 8, p . 386.
 
-[p. 39]
-
-LA CRITIQUE DU MÉCANISME
+[p. 39] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 39
 
@@ -2046,9 +1934,7 @@ sure de la masse : les masses peuvent être comparées au [^p39-1]
 
 [^p39-1]: Id . , § 8 .
 
-[p. 40]
-
-40
+[p. 40] 40
 L'ANALYSE DES DOCTRINES.
 
 moyen des efforts requis pour produire en elles des varia-
@@ -2093,9 +1979,7 @@ gènes » , dit Rankine, et il cite l'expérience de Joule sur
 [^p40-2]: Id. , § 8.
 [^p40-3]: Id. , § 8 .
 
-[p. 41]
-
-LA CRITIQUE DU MÉCANISME
+[p. 41] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 41
 
@@ -2140,9 +2024,7 @@ représentation, une formule relative et non un principe
 1 Id. , § 9 , p. 390 .
 2. Id.
 
-[p. 42]
-
-substantiel. Dans le développement de la physique théo-
+[p. 42] substantiel. Dans le développement de la physique théo-
 rique , il continue donc la tradition moderne, en précisant
 son relativisme .
 On a vu , d'ailleurs, que dans le domaine de la mécanique,
@@ -2180,11 +2062,7 @@ préscientifique etscolastique à l'autre .
 5.
 A partir de ce moment, d'ailleurs, la différence
 entre l'exposé de Rankine et le mécanisme traditionnel,
-n'est plus que dans la forme et le physicien anglais recon-
-
-[p. 43]
-
-LA CRITIQUE DU MÉCANISME
+n'est plus que dans la forme et le physicien anglais recon-[p. 43]LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 43
 
@@ -2231,11 +2109,7 @@ quences de l'expérience, afin de les prévoir d'une façon
 précise , pour qu'on puisse faire servir d'une façon assurée
 toutes les connaissances acquises à la découverte des con-
 naissances nouvelles . L'ancienne logique formelle a suffi-
-samment montré son impuissance avec la scolastique. Elle
-
-[p. 44]
-
-44
+samment montré son impuissance avec la scolastique. Elle [p. 44] 44
 L'ANALYSE DES DOCTRINES .
 
 est bonne pour le discours pratique, la dialectique des
@@ -2276,11 +2150,7 @@ nement, à toute dialectique extérieure qui voudraient la
 critiquer. L'expérience est la véracité même, la mesure
 de toute vérité. Ce que Rankine cherche , c'est à la débar-
 rasser de tout élément qui viendrait l'altérer ou la déguiser.
-Comme il craint d'en trouver avec la méthode hypothétique,
-
-[p. 45]
-
-LA CRITIQUE DU MÉCANISME
+Comme il craint d'en trouver avec la méthode hypothétique, [p. 45] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 45
 
@@ -2326,11 +2196,7 @@ arbitraire ni inutile. Représentant le système des choses de
 l'expérience, elle est une classification descriptive naturelle
 de ces choses .
 A quoi bon cette classification ? D'abord à nous repré-
-senter méthodiquement l'expérience si complexe et si con
-
-[p. 46]
-
-46
+senter méthodiquement l'expérience si complexe et si con [p. 46] 46
 L'ANALYSE DES DOCTRINES .
 
 fuse; elle est une méthode conforme à la méthode carté-
@@ -2373,9 +2239,7 @@ une valeur méthodologique plus rigoureuse, plus scienti-
 fique, plus directe et plus efficace. Tout ce qu'elle a perdu
 comme réalité, elle l'a gagné etau-delà, comme méthode.
 
-[p. 47]
-
-LA CRITIQUE DU MÉCANISME
+[p. 47] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE.
 47
 
@@ -2424,9 +2288,7 @@ scientifique, à chercher en dehors des conjectures sur une
 nature dernière de la matière, constituée par les seuls élé-
 ments de la mécanique, les fondements de la physique
 
-[p. 48]
-
--
+[p. 48] -
 
 théorique . De là, la construction énergétique qui est bien
 propre à la physique, et se passe d'une identification hypo-
@@ -2466,9 +2328,7 @@ mais où vérité, réalité, objectivité, doivent être prises en
 
 [^p48-1]: Si des physiciens actuels d'ailleurs restent attachés, et en grand nombre, au mécanisme, ce n'est plus par une conjecture métaphysique et une restauration de l'ontologisme du mécanisme traditionnel. C'est simplement parce qu'ils croient, d'après des expé- riences nouvelles, que les faits physiques se systématisent effecti- vement autour des faits de la mécanique ou à leur suite. L'auto- nomie de la théorie physique et sa posivité restent sauvegardées . L'œuvre de Rankine a laissé des traces indélébiles .
 
-[p. 49]
-
-LA CRITIQUE DU MÉCANISME
+[p. 49] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 49
 
@@ -2518,11 +2378,7 @@ se répète dans toute réalité physique, mais ce n'est pas une
 entité, une qualité substantialisée. La théorie conceptuelle
 
 REY.
-4
-
-[p. 50]
-
-de la physique ne rappelle en rien la philosophie du con-
+4 [p. 50] de la physique ne rappelle en rien la philosophie du con-
 cept. L'usage que Rankine fait du concept, usage symbo-
 lique, est aux antipodes de l'usage qu'en faisait la scolas-
 tique. La théorie physique n'est pas un ordre rationnel
@@ -2541,9 +2397,7 @@ logique se confond avec l'ordonnance de la nature ; l'une
 ne peut exister sans l'autre ; elles sont fonction l'une de
 l'autre .
 
-[p. 51]
-
-CHAPITRE
+[p. 51] CHAPITRE
 II
 
 Les idées de Mach et l'énergétique d'Ostwald.
@@ -2597,9 +2451,7 @@ ouverte par le mécanisme.- 2. Comment elle se situe dans le déve-
 loppement de l'esprit traditionnel de la physique moderne : elle
 est au mécanisme ce que la géométrie analytique est à la géo-
 
-[p. 52]
-
-52
+[p. 52] 52
 L'ANALYSE DES DOCTRINES .
 
 -
@@ -2657,7 +2509,7 @@ I. - INTRODUCTION
 L'énergétique de Rankine avait été conçue, en
 somme, comme une réforme de la théorie physique dans
 un sens moins conjectural. C'était pour supprimer la part
-de l'arbitraire, du symbole, de l'idée a priori, de l'imagi-
+de l'arbitraire, du symbole, de l'idée *a priori*, de l'imagi-
 nation individuelle qu'il avait été conduit à formuler les
 principes d'une nouvelle physique théorique .
 Loin de trouver une antinomie entre l'énergétique et la
@@ -2669,9 +2521,7 @@ est traditionnellement
 exposée . La mécanique rationnelle, voilà donc le modèle
 qu'il se propose. Il veut, comme le mécanisme se l'était
 
-[p. 53]
-
-LA CRITIQUE DU MÉCANISME
+[p. 53] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 53
 
@@ -2721,9 +2571,7 @@ les attaches de la nou-
 velle conception avec l'expérience, ses bases expérimen-
 tales et objectives .
 
-[p. 54]
-
-54
+[p. 54] 54
 L'ANALYSE DES DOCTRINES .
 
 De tous les savants qui bifurquent dans cette voie, Mach
@@ -2769,9 +2617,7 @@ construction qui soit aussi uniforme que possible, partant [^p54-1]
 
 [^p54-1]: MACH , La Mécanique, tr . fr . , p . 397 .
 
-[p. 55]
-
-LA CRITIQUE DU MÉCANISME
+[p. 55] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 55
 
@@ -2816,9 +2662,7 @@ toute sa vie pour le xvm siècle, un sentiment de mélanco- [^p55-1] [^p55-3] [^
 [^p55-3]: Die Principien der Wärmelehre, p. 410 ; Populär-Wissens- chaftliche Vorlesungen, p. 16, 75, 219, 243; Analyse der Empfin- dungen , p . 209.
 [^p55-4]: La Mécanique, tr. fr. , p. 477 .
 
-[p. 56]
-
-56
+[p. 56] 56
 L'ANALYSE DES DOCTRINES .
 
 lique regret¹ .
@@ -2861,9 +2705,7 @@ grandes lois physiques, les premiers principes sont tous [^p56-1]
 [^p56-1]: Id., p. 429.
 [^p56-2]: MACH, La Mécanique, tr. fr. , p. 465.
 
-[p. 57]
-
-LA CRITIQUE DU MÉCANISME
+[p. 57] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 57
 
@@ -2905,9 +2747,7 @@ Mais elles ne sont qu'une excuse, elles ne sont pas une
 [^p57-1]: ANDRADE (Revue de Métaphysique, mars 1899, p. 178) , développe la même idée que Mach :le mécanisme est dû à des associations d'idées fortuites ; ces associations d'idées ont leur cause dans l'ordre historique fortuit des découvertes qui concernent les phénomènes naturels .
 [^p57-2]: MACH, La Mécanique, trad . fr. , p . 466.
 
-[p. 58]
-
-58
+[p. 58] 58
 L'ANALYSE DES DOCTRINES .
 
 légitimation .
@@ -2953,9 +2793,7 @@ semble de la physique par rapport à lamécanique ? [^p58-1]
 
 [^p58-1]: Id. , p. 466 .
 
-[p. 59]
-
-LA CRITIQUE DU MÉCANISME
+[p. 59] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE.
 59
 
@@ -3002,9 +2840,7 @@ l'ensemble des connaissances physiques ? On diminue le [^p59-1]
 [^p59-1]: MACH , La Mécanique, tr . fr . , p . 467.
 [^p59-2]: Die Principien der Wärmelehre , p. 396 .
 
-[p. 60]
-
-60
+[p. 60] 60
 L'ANALYSE DES DOCTRINES .
 
 nombre des fails fondamentaux et des principes, puisqu'on
@@ -3052,9 +2888,7 @@ générale des
 Sciences, 15 décembre 1895,
 p. 1070 .
 
-[p. 61]
-
-LA CRITIQUE DU MÉCANISME
+[p. 61] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 61
 
@@ -3093,9 +2927,7 @@ forme de positions et de mouvements. Un travail effectué, [^p61-1] [^p61-2]
 [^p61-1]: MACH , La Mécanique, tr. fr. , p . 468.
 [^p61-2]: Les mécanistes ont répondu d'ailleurs sur ce point à leurs adversaires , qu'une hypothèse « peut faciliter considérablement l'intelligence de faits nouveaux en leur substituant des idées déjà familières , son efficacité est dès lors prouvée » (MACH, La Méca- nique, p. 468). Aucun énergétiste, à ma connaissance n'a répondu d'une façon convaincante à cette contre-objection. Mach se contente de la reproduire sans essayer sa réfutation, puisque je lui emprunte l'énoncé ci-dessus. Mais apparemment aucun énergétistenon plus ne l'a trouvée suffisante pour modifier sa critique du mécanisme. L'his- torien ne peut que constater leur silence sur ce point. La critique pourrait s'y arrêter sérieusement ety trouver un argumenl capital en faveur des hypothèses mécanistes .
 
-[p. 62]
-
-(undéplacement mécanique) ne produira pas nécessairement
+[p. 62] (undéplacement mécanique) ne produira pas nécessairement
 de la force vive, mais encore de la chaleur, de l'électricité,
 etc. , etc.; de même une force vive peut ne pas être produite
 par un déplacement mécanique, mais par une destruction
@@ -3139,9 +2971,7 @@ particulier avec celle de l'ensemble total » . Ils ont conti- [^p62-1]
 [^p62-1]: MACH, La Mécanique, trad. fr., p. 468, 469.
 [^p62-2]: Id.
 
-[p. 63]
-
-LA CRITIQUE DU MÉCANISME
+[p. 63] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 63
 
@@ -3188,11 +3018,7 @@ particulière et partielle [^p63-3]. Elle représente dans la physique [^p63-1]
 
 [^p63-1]: Die Principien der Wärmelehre, p. 391 ; Populär-Wissens- chaftliche Vorlesungen, p . 266-268 .
 [^p63-2]: La Mécanique tr. fr. p. 469, 470.
-[^p63-3]: ANDRADE, dans l'article de la Revue de métaphysique déjà
-
-[p. 64]
-
-64
+[^p63-3]: ANDRADE, dans l'article de la Revue de métaphysique déjà [p. 64] 64
 L'ANALYSE DES DOCTRINES .
 
 la période des origines , une période de savoir restreint,
@@ -3234,9 +3060,7 @@ Sciences du 15 novembre 1895 .
 qui résulte de l'atomisme) .
 2. Principien der Wärmelehre, p. 461.
 
-[p. 65]
-
-LA CRITIQUE DU MÉCANISME
+[p. 65] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 65
 
@@ -3286,11 +3110,7 @@ théâtre la pensée des savants eux-mêmes : leur espritscien-
 tifique eut à lutter contre les idées préconçues et latentes ,
 
 REY ,
-5
-
-[p. 66]
-
-66
+5 [p. 66] 66
 L'ANALYSE DES DOCTRINES .
 
 déposées en eux par une éducation théologique et par le
@@ -3324,9 +3144,7 @@ un effort continuel [^p66-2]. [^p66-1]
 [^p66-1]: MACH, La Mécanique, tr. fr. , p. 346, 419 .
 [^p66-2]: « Pendant toute la durée des xviet xvII° siècles, et jusqu'à la fin du xvm , la tendance universelle était de voir dans chacune des lois physiques une ordonnance particulière du Créateur. Un observa- teur attentif voit pourtant cette idée se transformer graduellement. Tandis que, pour Descartes et Leibniz, la physique et la théologie sont encore fort mèlées, plus tard on aperçoit un effort marqué, si pas pour écarter complètement la théologie, du moins pour la séparer nettement de la physique. La théologie est reléguée soit au commencement, soità la fin des traités de physique ; chaque fois que lachose est possible, le domaine théologique est restreint à la création et laisse, à partir de là, le champ libre à la physique . >>Vers la fin du xvme siècle, on est frappé par un revivement en apparence tout à fait subit, mais qui au fond,estune conséquence nécessaire du processus de développement que nous avons décrit. Lagrange, après avoir, dans une œuvre de jeunesse, voulu baser
 
-[p. 67]
-
-LA CRITIQUE DU MÉCANISME
+[p. 67] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 67
 
@@ -3377,11 +3195,7 @@ se touchent et se prêtent un mutuel secours dans la lutte pour la
 pens e libre . Celui qui à travers la littérature seulement, a pu parti-
 ciper à cet essor et a cette libération, conserve toute la vie pour
 le xvme siècle un sentiment de mélancolique regret. >> (MACH, La
-Mécanique, tr. fr. , 427, 19.)
-
-[p. 68]
-
-68
+Mécanique, tr. fr. , 427, 19.) [p. 68] 68
 L'ANALYSE DES DOCTRINES .
 
 sera , elle n'aura pas à les renier. Elle ne rompra plus la
@@ -3426,9 +3240,7 @@ des exigences de l'esprit scientifique . Mais sa méthode [^p68-1] [^p68-3]
 [^p68-2]: Id . , p. 430 .
 [^p68-3]: Id . , p. 433 .
 
-[p. 69]
-
-LA CRITIQUE DU MÉCANISME
+[p. 69] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 69
 
@@ -3472,9 +3284,7 @@ matériel et l'outillage de la démonstration euclidienne , et
 1. MACH, Die Principien der Wärmelehre, p . 429.
 2. Id. , p. 456, 457.
 
-[p. 70]
-
-70
+[p. 70] 70
 L'ANALYSE DES DOCTRINES .
 
 cela sans transgresser aucune des règles de la méthode
@@ -3523,9 +3333,7 @@ et constructive, qui est le véritable commencement de la [^p70-1]
 
 [^p70-1]: ld., p. 461 .
 
-[p. 71]
-
-LA CRITIQUE DU MÉCANISME
+[p. 71] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE.
 71
 
@@ -3571,9 +3379,7 @@ misses à l'énergétisme. Que sont ces principes ? Des défi- [^p71-1]
 [^p71-1]: MACH , La Mécanique . tr. fr. , p. 435.
 [^p71-2]: MACH, Die Geschichte und die Wurzel des Satzes von der Erhaltung der Arbeit, p. 46, Principien der Wärmelehre, p. 438 et461 .
 
-[p. 72]
-
-72
+[p. 72] 72
 L'ANALYSE DES DOCTRINES .
 
 nitions arbitraires ? En aucune façon . Les conventions fon-
@@ -3618,9 +3424,7 @@ gestif du processus par lequel les sciences de la nature se [^p72-1] [^p72-2]
 [^p72-1]: MACH, Populär- Wissenschaftliche Vorlesungen (Essai sur la trans- formation et l'adaptation de la pensée scientifique), p. 243 sq. , et aussi , p . 16, 75, 219 .
 [^p72-2]: Die Principien der Wärmelehre, p. 67 et 68, 407.- Populär- Wiss . Vorles . , p . 16 , 219 , 251 .
 
-[p. 73]
-
-LA CRITIQUE DU MÉCANIŞME
+[p. 73] LA CRITIQUE DU MÉCANIŞME
 : L'ATTITUDE HOSTILE .
 73
 
@@ -3664,9 +3468,7 @@ causes . Elle n'agissent pas à vide. Elles agissent sur une [^p73-1]
 
 [^p73-1]: MACH. , La Mécanique, tr. fr. , p . 7 .
 
-[p. 74]
-
-74
+[p. 74] 74
 L'ANALYSE DES DOCTRINES .
 
 matière
@@ -3706,7 +3508,7 @@ par Galilée , Huyghens et Newton, ne sont que des antici-
 pations latentes de l'expérience générale , accumulées dans
 l'inconscient, et explicitées nettement par ces savants à
 l'occasion de faits précis. L'appareil déductif, à partir de
-principes présentés comme a priori, ne fait que déguiser
+principes présentés comme *a priori*, ne fait que déguiser
 l'observation antérieure des faits . C'est toujours un fait,
 avoué on non, qui fonde le principe et soutient la déduc-
 tion . La prétendue démonstration des principes ou la soi-
@@ -3715,9 +3517,7 @@ tablement une constatation expérimentale¹. Certes , ceci [^p74-1]
 
 [^p74-1]: Die Principien der Wärmelchre , 67sq , p. 546. - Analyse der Empfindungen , p. 116, 233 .
 
-[p. 75]
-
-LA CRITIQUE DU MÉCANISME
+[p. 75] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 75
 
@@ -3778,9 +3578,7 @@ La quantité absolue de la force cen-
 tripète est plus grande ou moindre , selon l'efficacité de la
 cause qui la propage au centre.
 
-[p. 76]
-
-76
+[p. 76] 76
 L'ANALYSE DES DOCTRINES .
 
 > DÉFINITION VII .
@@ -3835,9 +3633,7 @@ rience . Les autres définitions sont des règles de calcul ou
 
 [^p76-1]: MACH, La Mécanique, p. 235, 236, 238 .
 
-[p. 77]
-
-LA CRITIQUE DU MÉCANISME
+[p. 77] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 77
 
@@ -3878,11 +3674,7 @@ tales, l'ordre ou l'enchaînement des principes . Mais le sens
 de ces principes, le contenu de la science ne le sont point,
 parce qu'ils ne sont, en définitive, que le développement
 de faits, indépendants de nos vues personnelles, parce
-qu'ils dérivent de l'expérience. Les résultats de larecherche
-
-[p. 78]
-
-78
+qu'ils dérivent de l'expérience. Les résultats de larecherche [p. 78] 78
 L'ANALYSE DES DOCTRINES .
 
 et le contenu réel de la science évoluent donc, mais d'une
@@ -3922,9 +3714,7 @@ tact avec l'objet a fini par imprimer sur notre esprit. [^p78-1]
 
 [^p78-1]: Ceci explique et aide à résoudre les nombreux problèmes de priorité que rencontre sur sa route l'historien de la physique. Et le fait même que ces problèmes se posent est, pourMach, une confirmation de ses vues sur les principes de la physique théorique. Il a longuement montré que de multiples manifestations d'une même idée, à un même moment, sont fréquentes; elles sont dues au deve- loppement nécessaire des idées générales de la physique sous la pression des faits, aux nécessités de l'expérience objective.
 
-[p. 79]
-
-LA CRITIQUE DU MÉCANISME : L'ATTITUDE HOSTILE .
+[p. 79] LA CRITIQUE DU MÉCANISME : L'ATTITUDE HOSTILE .
 79
 
 4.
@@ -3971,11 +3761,7 @@ les recherches expérimentales antérieures. La continuité du
 processus scientifique n'est donc rompue en aucun endroit,
 pas plus que les liens qui, en le rattachant à l'expérience ,
 assurent son objectivité. Seulement la fonction de la con-
-naissance réagit naturellement sur l'expérience dont elle a
-
-[p. 80]
-
-80
+naissance réagit naturellement sur l'expérience dont elle a [p. 80] 80
 L'ANALYSE DES DOCTRINES .
 
 subi l'influence . Si la connaissance est une empreinte de
@@ -4016,9 +3802,7 @@ de la mécanique dans celui de la psychologie et de la [^p80-2]
 [^p80-2]: MACH, Populär- Wissenschaftliche Vorlesungen , p . 221 , 222 et 243 sq.
 [^p80-3]: MACH , Die Principien der Wärmelehre, p. 437 sq.- Populär- Wissenschaftliche Vorlesungen , p. 267 sq.
 
-[p. 81]
-
-LA CRITIQUE DU MÉCANISME
+[p. 81] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 81
 
@@ -4063,11 +3847,7 @@ jection qu'il choisit pour le représenter. Et encore il doit
 respecter une certaine perspective, en ce sens que l'angle
 
 [^p81-1]: MACH, La Mécanique, tr. fr . , p. 397 .
-[^p81-2]: Die Principien der Wärmelehre, p. 436. RBY. 6
-
-[p. 82]
-
-82
+[^p81-2]: Die Principien der Wärmelehre, p. 436. RBY. 6 [p. 82] 82
 L'ANALYSE DES DOCTRINES .
 
 sous lequel il voit l'objet ne dépend pas de lui, mais des
@@ -4121,9 +3901,7 @@ d'une physique théorique en elle-même une et nécessaire. Il n'y a
 rien là qui puisse prêter à une interprétation subjectiviste ou scep-
 tique.
 
-[p. 83]
-
-LA CRITIQUE DU MÉCANISME
+[p. 83] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 83
 
@@ -4171,9 +3949,7 @@ le sens purement formaliste et scolastique qu'on pourrait
 [^p83-1]: MACH, La Mécanique, p. 491, 492.
 [^p83-2]: MACH . La Mécanique , p. 434 .
 
-[p. 84]
-
-84
+[p. 84] 84
 L'ANALYSE DES DOCTRINES .
 
 nement de propositions arbitraires et vides de tout contenu
@@ -4206,11 +3982,7 @@ tions , voilà le phénomène brut, l'objet [^p84-2] .
 La science a pour but de nous donner une copie de cet [^p84-1]
 
 [^p84-1]: Analyse der Empfindungen, p. 1-8 .
-[^p84-2]: « Lorsque nous faisons dans la pensée la copie d'un phénomène, jamais celle-ci n'est faite d'après le fait global, mais bien d'après celui de ses côtés qui nous a semblé important. Dans cette opéra- tion, nous avons un but qui est le produit indirect ou immédiat d'un intérêt pratique. Nos copies sont toujours des abstractions et, ici encore l'on peut constater cette même tendance à l'économie. ►La nature est composée des éléments donnés par les sens . L'homme primitif saisit d'abord certains complexes de ces éléments, ceux qui se manifestent avec une stabilité relative et qui ont pour lui de l'importance. Les mots les plus anciens sont des noms pour des choses, et, dans cette pure désignation, se reconnaît déjà une abstraction de tout l'entourage de la chose et des petites variations continuelles subies par ce complexe, qui , moins importantes, ne sont pas observées . Il n'y a dans la nature aucune chose invariable . Une chose est une abstraction. Un nom est un symbole pour un complexe d'éléments dont on ne considère pas la variation . Nous désignons le complexe entier par un mot, par un symbole unique, lorsque nous avons besoin de rappeler en une fois toutes les impres- sions qui le composent. Plus tard, parvenus à un degré supérieur,
-
-[p. 85]
-
-LA CRITIQUE DU MÉCANISME
+[^p84-2]: « Lorsque nous faisons dans la pensée la copie d'un phénomène, jamais celle-ci n'est faite d'après le fait global, mais bien d'après celui de ses côtés qui nous a semblé important. Dans cette opéra- tion, nous avons un but qui est le produit indirect ou immédiat d'un intérêt pratique. Nos copies sont toujours des abstractions et, ici encore l'on peut constater cette même tendance à l'économie. ►La nature est composée des éléments donnés par les sens . L'homme primitif saisit d'abord certains complexes de ces éléments, ceux qui se manifestent avec une stabilité relative et qui ont pour lui de l'importance. Les mots les plus anciens sont des noms pour des choses, et, dans cette pure désignation, se reconnaît déjà une abstraction de tout l'entourage de la chose et des petites variations continuelles subies par ce complexe, qui , moins importantes, ne sont pas observées . Il n'y a dans la nature aucune chose invariable . Une chose est une abstraction. Un nom est un symbole pour un complexe d'éléments dont on ne considère pas la variation . Nous désignons le complexe entier par un mot, par un symbole unique, lorsque nous avons besoin de rappeler en une fois toutes les impres- sions qui le composent. Plus tard, parvenus à un degré supérieur, [p. 85] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 85
 
@@ -4258,9 +4030,7 @@ les espaces, les durées (ce que nous appelons d'habitude des sensa-
 tions), qui sont les véritables éléments du monde » . (MACH, La Méca-
 nique, p. 450, 451) .
 
-[p. 86]
-
-86
+[p. 86] 86
 L'ANALYSE DES DOCTRINES .
 
 sociation nouvelle, bien que la pensée poursuive toujours
@@ -4296,9 +4066,7 @@ la sensation est quelque chose de relatif. Une sensation [^p86-1]
 
 [^p86-1]: On sait que la loi psychophysique (loi de Fechner, établit que pour qu'une sensation semble prendre une intensité plus grande, il faut que l'excitation soit d'autant plus forte quela sensation consi- dérée est elle-même plus forte. L'augmentation d'intensité d'une sensation, ou plus exactement l'apparition d'une sensation plus intense est donc relative à l'intensité de la sensation précédente. Ajoutez 2 grammes à 2 grammes, vous sentez l'augmentation de poids. Ajoutez 2 grammes à 1 kilogramme, vous ne sentez plus rien du tout. Il faut à peu près 300 grammes, d'après l'expérience, pour que l'on s'aperçoive que le poids primitif de 1 kilogramme a augmenté.
 
-[p. 87]
-
-LA CRITIQUE DU MÉCANISME
+[p. 87] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 87
 
@@ -4340,11 +4108,7 @@ devront être analysées par les sciences psychologiques .
 Voici un morceau de soufre ; il
 est éclairé ou dans
 l'ombre ; il cristallise de telle façon, il s'électrise de telle
-autre ; il donne telle ou telle sensation de résistance, de
-
-[p. 88]
-
-88
+autre ; il donne telle ou telle sensation de résistance, de [p. 88] 88
 L'ANALYSE DES DOCTRINES .
 
 forme , de consistance, de température , selon qu'unecolonne
@@ -4390,9 +4154,7 @@ moins comme 'nécessaire . Nous tenons un certain nombre
 
 -
 
-[p. 89]
-
-LA CRITIQUE DU MÉCANISME
+[p. 89] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 89
 
@@ -4435,11 +4197,7 @@ et alors
 nous la rectifions . Notre science se débarrasse
 d'un résultat mauvais ou douteux. Elle substitue à une rela-
 tion moins conforme, une relation qui l'est davantage : ce
-cas n'arrive d'ordinaire que pour les détails, ou s'il porte
-
-[p. 90]
-
-90
+cas n'arrive d'ordinaire que pour les détails, ou s'il porte [p. 90] 90
 L'ANALYSE DES DOCTRINES .
 
 sur une relation générale, c'est que cette relation était hypo-
@@ -4482,9 +4240,7 @@ physique, conservation de la matière » . Dès lors, pourquoi
 attribuerions -nous plus de réalité à la matière même du
 fluide au sein duquel se forment les tourbillons ? Pour
 
-[p. 91]
-
-LA CRITIQUE DU MÉCANISME
+[p. 91] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE.
 91
 
@@ -4527,9 +4283,7 @@ n'avaitpas franchies ¹ .>>> [^p91-1]
 
 [^p91-1]: P. DUHEM , L'Evolution de la mécanique ( Revue générale des Sciences, 15 mars 1903, p. 253) . Cette critique est bien curieuse sous la plume de Duhem. On verra, en effet, au chapitre suivant, qu'il s'efforce de construire une physique théorique purement mathéma- tique, donc sans matière, et qu'il fait reposer cette physique sur les principes relatifs à l'énergie.
 
-[p. 92]
-
-92
+[p. 92] 92
 L'ANALYSE DES DOCTRINES .
 
 A ce que je crois, c'est fort mal représenter les intentions
@@ -4570,9 +4324,7 @@ ces relations retracer leur ordre et leur système . Ces rela- [^p92-1]
 
 [^p92-1]: MACH : Die Principien der Wärmelehre , 432 sq. et p. 424 sq. - Id. Analyse der Empfindungen, p. 25, p. 66 sq. Id. Die Geschichte und die Wurzel des Satzes der Erhaltung der Arbeit, p. 35. -
 
-[p. 93]
-
-LA CRITIQUE DU MÉCANISME
+[p. 93] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 93
 
@@ -4621,9 +4373,7 @@ des caractéristiques, parce que la science poussée plus loin, [^p93-1]
 
 [^p93-1]: MACH, la Mécanique, p. 451 .
 
-[p. 94]
-
-94
+[p. 94] 94
 L'ANALYSE DES DOCTRINES .
 
 nous montre, dans la cause et l'effet, des relations qui sont
@@ -4670,9 +4420,7 @@ Si donc la relation causale est une abstraction, un moyen [^p94-3]
 [^p94-2]: La Mécanique. p. 463 (tr. fr.) ,
 [^p94-3]: Id . p . 451 , 452 .
 
-[p. 95]
-
-LA CRITIQUE DU MÉCANISME : L'ATTITUDE HOSTILE .
+[p. 95] LA CRITIQUE DU MÉCANISME : L'ATTITUDE HOSTILE .
 95
 
 provisoire dont le rôle est d'économiser le travail, ce n'est
@@ -4712,11 +4460,7 @@ le seraient s'ils restaient fondés sur la séquence causale , au
 sens de Mill, c'est-à-dire sur une simple association d'idées .
 Mais ils résultent des propriétés réelles des sensations et de
 la nature des phénomènes .
-Et voilà comment on peut comprendre, ce qui serait
-
-[p. 96]
-
-96
+Et voilà comment on peut comprendre, ce qui serait [p. 96] 96
 L'ANALYSE DES DOCTRINES .
 
 incompréhensible dans toute autre interprétation de la
@@ -4768,9 +4512,7 @@ dans le Répertoire de la physique expérimentale de Carl
 
 [^p96-1]: MACH, La mécanique , p. 433, 434.
 
-[p. 97]
-
-LA CRITIQUE DU MÉCANISME
+[p. 97] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE.
 97
 
@@ -4812,11 +4554,7 @@ manière, on réalisait ce qui semblait le plus pressant :
 rattacher la nouvelle idée à la théorie mécanique alors
 
 [^p97-1]: OSTWALD, La Déroute de l'Atomisme contemporain (Revue générale des Sciences , 1895, p. 958).
-[^p97-2]: Voir MACH, La Mécanique, préface de la traduction française ; Mach y revendique ledroit de priorité sur Kirchoff, qui d'ailleurs n'aurait appliqué que partiellement ses idées . REY. 7
-
-[p. 98]
-
-98
+[^p97-2]: Voir MACH, La Mécanique, préface de la traduction française ; Mach y revendique ledroit de priorité sur Kirchoff, qui d'ailleurs n'aurait appliqué que partiellement ses idées . REY. 7 [p. 98] 98
 L'ANALYSE DES DOCTRINES .
 
 régnante , mais l'idée perdait son principal caractère [^p98-1].
@@ -4861,9 +4599,7 @@ naissance .
 [^p98-3]: Id. , p . 957. Comparer cette citation avec la critique que Duhem fait d'Ostwald dans la citation de la page 113et dans laquelle il sou- tient qu'Ostwald réduit la réalité physique à... l'espace.
 [^p98-4]: Id. , p. 956.
 
-[p. 99]
-
-LA CRITIQUE DU MÉCANISME
+[p. 99] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 99
 
@@ -4911,9 +4647,7 @@ tives , et en employant des représentations purement con-
 [^p99-3]: ld., p. 954.
 [^p99-4]: Id. , p. 956.
 
-[p. 100]
-
-100
+[p. 100] 100
 L'ANALYSE DES DOCTRINES .
 
 ceptuelles, un formulaire mathématique de description,
@@ -4960,9 +4694,7 @@ donc du domaine dont l'homme est la mesure, restent hors [^p100-1]
 [^p100-1]: Id. , p. 957 .
 [^p100-2]: W. OSTWALD, Lettre sur l'Energétique (Revue générale des Sciences, 1895, p. 1070) .
 
-[p. 101]
-
-LA CRITIQUE DU MÉCANISME
+[p. 101] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 101
 
@@ -5005,9 +4737,7 @@ matique .
 
 Id. , p. 955.
 
-[p. 102]
-
-102
+[p. 102] 102
 L'ANALYSE DES DOCTRINES .
 
 !
@@ -5055,9 +4785,7 @@ tenir au langage ordinaire et introduire cette inutile com-
 plication ? ... L'expérience tout entière est un absolu, et il
 n'y a pas d'absolu à chercher derrière l'expérience, du
 
-[p. 103]
-
-LA CRITIQUE DU MÉCANISME
+[p. 103] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE.
 103
 
@@ -5098,11 +4826,7 @@ Toute distinction, tout dualisme d'objet et de sujet, doivent
 s'effacer devant les résultats que la science physique consi-
 dère comme définitifs. Il n'y a plus que le fait nécessaire :
 <<Voilà ce qu'est le monde physique » , telle est la conclu-
-sion-limite du physicien ; quant à chercher s'il pourrait être
-
-[p. 104]
-
-104
+sion-limite du physicien ; quant à chercher s'il pourrait être [p. 104] 104
 L'ANALYSE DES DOCTRINES .
 
 autre qu'il n'est, c'est absurde. Il est ce qu'il est, quelle que
@@ -5149,11 +4873,7 @@ conserve même, comme ensemble partiel, l'ensemble des
 résultats construits avec les seuls principes de la méca-
 nique . Cela est très net chez Mach. Seulement Mach , et
 plus nettement Ostwald, ne voient plus là qu'une branche
-de la physique. A côté de cette branche, il faut en déve-
-
-[p. 105]
-
-LA CRITIQUE DU MÉCANISME
+de la physique. A côté de cette branche, il faut en déve-[p. 105]LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 105
 
@@ -5193,9 +4913,7 @@ Elles n'ont pas été atteintes, non plus que les idées fonda-
 mentales de la méthode positive et rationnelle, appliquée à
 la nature depuis la Renaissance.
 
-[p. 106]
-
-CHAPITRE
+[p. 106] CHAPITRE
 III
 
 La structure de la théorie physique
@@ -5251,9 +4969,7 @@ Rankine a donné une idée de la méthode nouvelle,
 et on a pris contact avec elle en suivant son application aux
 définitions fondamentales de la physique. Mach et Ostwald
 
-[p. 107]
-
-LA CRITIQUE DU MÉCANISME : L'ATTITUDE HOSTILE.
+[p. 107] LA CRITIQUE DU MÉCANISME : L'ATTITUDE HOSTILE.
 107
 
 ont montré ensuite comment cette méthode se prête, mieux
@@ -5300,11 +5016,7 @@ sciences ne font que constater entre les phénomènes des
 relations, des liaisons qui sont nécessaires pour en tracer
 une description exacte, description qui permet la prévision .
 Quant aux hypothèses mécanistes imaginées pour rendre
-compte de ces liaisons, ce sont des fictions de l'esprit, pra
-
-[p. 108]
-
-108
+compte de ces liaisons, ce sont des fictions de l'esprit, pra [p. 108] 108
 L'ANALYSE DES DOCTRINES .
 
 tiquement utiles , mais des fictions, et ce ne serontjamais
@@ -5350,11 +5062,7 @@ rimental de physique, c'est une tentative illusoire ; autant
 vaudrait essayer d'énoncer une idée sans employer aucun
 signe parlé ou écrit ¹..... [^p108-1]
 
-[^p108-1]: « Regnault étudie la compressibilité des gaz; il prend une certaine quantité de gaz, il l'enferme dans un tube de verre ; il maintient la température constante ; il mesure la pression que sup- porte le gaz et le volume qu'il occupe. Voilà, dira-t- on, l'observation minutieuse et précise de certains phénomènes, de certains faits. Assurément, devant Regnault, entre ses mains, entre les mains de ses aides , des faits se sont produits ; est-ce le récit de ces faits que Regnault a consigné pour contribuer à l'avancement de la phy-
-
-[p. 109]
-
-LA CRITIQUE DU MÉCANISME
+[^p108-1]: « Regnault étudie la compressibilité des gaz; il prend une certaine quantité de gaz, il l'enferme dans un tube de verre ; il maintient la température constante ; il mesure la pression que sup- porte le gaz et le volume qu'il occupe. Voilà, dira-t- on, l'observation minutieuse et précise de certains phénomènes, de certains faits. Assurément, devant Regnault, entre ses mains, entre les mains de ses aides , des faits se sont produits ; est-ce le récit de ces faits que Regnault a consigné pour contribuer à l'avancement de la phy-[p. 109]LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 109
 
@@ -5407,11 +5115,7 @@ et de mécanique céleste qui justifient l'emploi de la balance dans
 la comparaison des masses. Pour former la seconde, la valeur de
 la pression supportée par le gaz, il a fallu user des notions si pro-
 fondes, si difficiles à acquérir de pression, de forces, de liaison,
-appeler en aide des lois mathématiques de l'hydrostatique, fondées
-
-[p. 110]
-
-110
+appeler en aide des lois mathématiques de l'hydrostatique, fondées [p. 110] 110
 L'ANALYSE DES DOCTRINES.
 
 pection des effets produits sur le corps entier ; c'est à celui-
@@ -5476,9 +5180,7 @@ expérimentale, Revue des questions scientifiques, juillet 1894, p. 192 à
 
 [^p110-1]: DUHEM, La physique expérimentale (Revue des questions scienti- fiques, juillet 1894, p. 192, 197).
 
-[p. 111]
-
-LA CRITIQUE DU MÉCANISME
+[p. 111] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 III
 
@@ -5521,9 +5223,7 @@ achèvement, dès qu'elle est confrontée avec l'expérience,
 
 [^p111-1]: DUHEM, Physique de croyant (Annales de philosophie chrétienne, novembre 1905, р. 137).
 
-[p. 112]
-
-112
+[p. 112] 112
 L'ANALYSE DES DOCTRINES .
 
 son arbitraire et sa diversité jusque-là possibles, s'éva-
@@ -5571,9 +5271,7 @@ duit, n'a aucun sens .
 « Selon H. Hertz des théories sont identiques lorsqu'elles
 conduisent aux mêmes équations . « A cette question (dit
 
-[p. 113]
-
-LA CRITIQUE DU MÉCANISME : L'ATTITUDE HOSTILE.
+[p. 113] LA CRITIQUE DU MÉCANISME : L'ATTITUDE HOSTILE.
 113
 
 H. Hertz) : « Qu'est-ce que la théorie de Maxwell ? » je ne
@@ -5613,11 +5311,7 @@ ne vaut que pour un moment du temps . ne retrouvons-nous
 pas cette multiplicité au fur et à mesure des développements
 de la science ? Elle n'est plus simultanée, mais elle se [^p113-1]
 
-[^p113-1]: Références des deux citations consécutives : DUHEM, Les théo- ries électriques de Maxwell, p. 221, 223 : les mots soulignés le sont parmoi. RBY 8
-
-[p. 114]
-
-114
+[^p113-1]: Références des deux citations consécutives : DUHEM, Les théo- ries électriques de Maxwell, p. 221, 223 : les mots soulignés le sont parmoi. RBY 8 [p. 114] 114
 L'ANALYSE DES DOCTRINES.
 
 manifeste aussi bien, dès que nous considérons plusieurs
@@ -5658,9 +5352,7 @@ sait bien la comprendre, ne fait qu'élargir à mesure се
 champ, lever peu à peu certaines restrictions, réintégrer
 les considérations jugées d'abord négligeables .
 
-[p. 115]
-
-LA CRITIQUE DU MÉCANISME
+[p. 115] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE.
 115
 
@@ -5712,9 +5404,7 @@ somme, la mécanique de Lagrange reste enfermée dans des
 limites trop restreintes pour servir de cadre général à
 l'explication des phénomènes de la nature.
 
-[p. 116]
-
-116
+[p. 116] 116
 L'ANALYSE DES DOCTRINES.
 
 2. - On pourrait objecter, Duhem le sait bien, que si
@@ -5764,9 +5454,7 @@ mènes sensibles les plus simples et les plus immédiatement
 donnés à l'observation .
 < Une observation quelque peu attentive des phénomènes
 
-[p. 117]
-
-LA CRITIQUE DU MÉCANISME
+[p. 117] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 117
 
@@ -5814,15 +5502,13 @@ hypothèse que laissent complètement indéterminée les con- [^p117-1] [^p117-1
 [^p117-1]: DUHEM , L'évolution de la mécanique (Revue générale des Sciences ,
 [^p117-1905]: p . 184) .
 
-[p. 118]
-
-118
+[p. 118] 118
 L'ANALYSE DES DOCTRINES .
 
 ditions du problème et qui est purement arbitraire , revient
 à n'en fournir jamais aucune . A tout le moins abandonne-
 t-on alors toute prétention à l'objectivité . Le mouvement
-caché est le deus ex machina du physicien à court d'expli-
+caché est le *deus ex machina* du physicien à court d'expli-
 cation. Loin d'être le substitut d'une interprétation ulté-
 rieure plus proche des faits, il est la porte ouverte à l'arbi-
 traire, un aveu continuel d'ignorance .
@@ -5861,9 +5547,7 @@ tuant la continuité à la discontinuité, elle prête à des cal-
 culs plus simples et plus rigoureux ; nous lui devons la
 préférence. »
 
-[p. 119]
-
-LA CRITIQUE DU MÉCANISME
+[p. 119] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE.
 119
 
@@ -5912,9 +5596,7 @@ des
 questions scientifiques, janvier 1892. p. 161.) (Italiques indiquées par
 moi).
 
-[p. 120]
-
-120
+[p. 120] 120
 L'ANALYSE DES DOCTRINES ,
 
 seront, pour elle, des mouvements ; la scolastique les aurait
@@ -5960,9 +5642,7 @@ et qu'elles seront dépassées, transformées quand il s'agira [^p120-1] [^p120-
 [^p120-1]: DUHEM, L'évolution de la mécanique (Revue générale des Sciences
 [^p120-1903]: p . 306) .
 
-[p. 121]
-
-LA CRITIQUE DU MÉCANISME
+[p. 121] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 121
 
@@ -6007,11 +5687,7 @@ tandis que les définitions traçaient seulement le contour de
 son domaine.
 Ceci posé , les conventions préliminaires sur lesquelles
 
-il fait reposer la thermodynamique sont, pour lui, le fon
-
-[p. 122]
-
-122
+il fait reposer la thermodynamique sont, pour lui, le fon [p. 122] 122
 L'ANALYSE DES DOCTRINES .
 
 dement de la mécanique générale et par là commandent à
@@ -6060,9 +5736,7 @@ discontinues très petites séparées par des intervalles vides
 
 [^p122-1]: DUHEM. Commentaire aux principes de la Thermodynamique, Journal de mathématiques pures et appliquées, 1892, p. 271.
 
-[p. 123]
-
-LA CRITIQUE DU MÉCANISME
+[p. 123] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE
 HOSTILE .
 123
@@ -6104,11 +5778,7 @@ corps continu A, et la matière que renfermait un élément
 de volume du corps continu B. C'est cette impossibilité
 qu'ils nomment l'impénétrabilité de la matière .
 <<Pour ces physiciens les mots mélange, combinaison,
-ne représentent que des apparences. Lorsque nous croyons
-
-[p. 124]
-
-124
+ne représentent que des apparences. Lorsque nous croyons [p. 124] 124
 L'ANALYSE DES DOCTRINES .
 
 voir les deux corps A et B s'unir pour former un nouveau
@@ -6155,9 +5825,7 @@ Les grandeurs désignées par ces variables seront par [^p124-1] [^p124-3]
 [^p124-2]: Id . , 274 .
 [^p124-3]: DUHEM , Traité élémentaire de mécanique chimique, 29) .
 
-[p. 125]
-
-LA CRITIQUE DU MÉCANISME
+[p. 125] LA CRITIQUE DU MÉCANISME
 L'ATTITUDE HOSTILE .
 125
 
@@ -6200,9 +5868,7 @@ seulement l'état du système, mais encore la grandeur et la [^p125-1]
 [^p125-1]: DUHEM, Commentaire aux principes de la Thermodynamique (Journal des Mathématiques pures et appliquées, 1892, p . 276) .
 [^p125-2]: Id., p. 276 .
 
-[p. 126]
-
-126
+[p. 126] 126
 L'ANALYSE DES DOCTRINES .
 
 direction de la vitesse dont est animée la matière remplis-
@@ -6248,9 +5914,7 @@ comme exacte... , nous conviendrons de... , etc. Il a surtout [^p126-1]
 [^p126-1]: Id . , p . 277 .
 [^p126-2]: Id. , p . 285 .
 
-[p. 127]
-
-LA CRITIQUE DU MÉCANISME
+[p. 127] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 127
 
@@ -6292,11 +5956,7 @@ par ses quantités .
 Ceci est bien curieux. C'est pour mettre la théorie d'ac-
 cord avec la réalité concrète que Duhem réforme la méca-
 nique. Et en parcourant sa mécanique nouvelle, l'expé-
-rience n'y est jamais mentionnée. Même dans les exposés
-
-[p. 128]
-
-128
+rience n'y est jamais mentionnée. Même dans les exposés [p. 128] 128
 L'ANALYSE DES DOCTRINES .
 
 les plus formels de la mécanique rationnelle classique-
@@ -6338,9 +5998,7 @@ d'une mathématique universelle à laquelle se réduiraient
 toutes les lois du monde matériel. Mais l'arbitraire qui
 préside au mathématisme de Duhem montre facilement que
 
-[p. 129]
-
-LA CRITIQUE DU MÉCANISME
+[p. 129] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 129
 
@@ -6391,11 +6049,7 @@ concret, à moins que sa valeur numérique ne demeure
 comprise entre un certain minimum et un certain maxi
 
 REY.
-9
-
-[p. 130]
-
-130
+9 [p. 130] 130
 L'ANALYSE DES DOCTRINES .
 
 mum . D'ailleurs, aux températures suffisamment basses,
@@ -6441,9 +6095,7 @@ truite, elle n'en devrait pas moins être rejetée parce qu'elle [^p130-1]
 [^p130-1]: DUHEM , L'évolution de la mécanique (Revue générale des Sciences , 1903, p. 304) .
 [^p130-2]: DUHEM, Revue des questions seientifiques, 1892, p. 173.
 
-[p. 131]
-
-LA CRITIQUE DU MÉCANISME
+[p. 131] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 131
 
@@ -6492,9 +6144,7 @@ mesure qu'une science progresse, qu'elle s'éloigne de la [^p131-1]
 
 [^p131-1]: DUHEM, L'évolution de la mécanique (Revue générale des Scien- ces, 1903, p. 304).
 
-[p. 132]
-
-132
+[p. 132] 132
 L'ANALYSE DES DOCTRINES .
 
 simple connaissance empirique, de la constatation des lois
@@ -6545,9 +6195,7 @@ mulera donc (comme on l'a vu dans l'exposé des conditions [^p132-1]
 
 [^p132-1]: DUHEM, La physique expérimentale (Revue des questions scienti- fiques, juillet 1894. p. 187).
 
-[p. 133]
-
-LA CRITIQUE DU MÉCANISME : L'ATTITUDE HOSTILE .
+[p. 133] LA CRITIQUE DU MÉCANISME : L'ATTITUDE HOSTILE .
 133
 
 de la thermodynamique) les définitions nécessaires pour
@@ -6605,12 +6253,10 @@ quences de l'hypothèse et les faits de l'expérience est une
 
 -
 
-[p. 134]
-
-134
+[p. 134] 134
 L'ANALYSE DES DOCTRINES.
 
-condition sine qua non de l'admission des conventions pro-
+*condition sine qua non* de l'admission des conventions pro-
 posées .
 L'hypothèse parfaite serait celle qui serait une simple
 traduction en langage mathématique, des lois physiques
@@ -6652,9 +6298,7 @@ rie physique, en même temps que son autonomie relative, [^p134-1]
 
 [^p134-1]: DUHEM, Les théories électriques de Maxwell (Revue des questions scientifiques du 20 janvier 1901).
 
-[p. 135]
-
-LA CRITIQUE DU MÉCANISME
+[p. 135] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 135
 
@@ -6699,9 +6343,7 @@ représentera pas, d'une façon matérielle et sensible, des
 éléments , à la combinaison desquels se réduiraient pure-
 ment et simplement ces qualités .
 
-[p. 136]
-
-136
+[p. 136] 136
 L'ANALYSE DES DOCTRINES .
 
 8.
@@ -6759,9 +6401,7 @@ que physicien ; si, positiviste intransigeant, il tient pour [^p136-1]
 
 [^p136-1]: DUHEM , Physique de croyant (Annales de philosophie chrétienne, novembre 1905, р. 138) .
 
-[p. 137]
-
-LA CRITIQUE DU MÉCANISME
+[p. 137] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE.
 137
 
@@ -6805,9 +6445,7 @@ cien de poser cette affirmation : Au fur et à mesure qu'elle [^p137-1]
 [^p137-1]: Id. p. 138, 139, 140.
 [^p137-2]: Id. p. 141 .
 
-[p. 138]
-
-138
+[p. 138] 138
 L'ANALYSE DES DOCTRINES .
 
 progresse, la théorie physique devient plus semblable à une
@@ -6852,9 +6490,7 @@ sur leurs domaines respectifs , encore bien moins s'identi- [^p138-2]
 [^p138-1]: Id. , p. 143 .
 [^p138-2]: MACH, explicitement en réponse à un article intitulé « laphi- losophie de MACH. »
 
-[p. 139]
-
-LA CRITIQUE DU MÉCANISME
+[p. 139] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 139
 
@@ -6899,11 +6535,7 @@ ontologique suivant lequel se classent les choses inanimées .
 Quelle est la nature de cet ordre dont il affirme l'existence ?
 Par quelle
 sorte
-d'affinité les essences des objets qui
-
-[p. 140]
-
-140
+d'affinité les essences des objets qui [p. 140] 140
 L'ANALYSE DES DOCTRINES.
 
 tombent sous ses sens se rapprochent-elles les unes des
@@ -6946,9 +6578,7 @@ actif de progrès . [^p140-1] [^p140-2]
 [^p140-1]: DUHEM , Physique de croyant (Annales de philosophie chrétienne, novembre 1905. р. 134).
 [^p140-2]: Id. , p. 143.
 
-[p. 141]
-
-LA CRITIQUE DU MÉCANISME
+[p. 141] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 141
 
@@ -6994,11 +6624,7 @@ Mais qu'on n'aille pas s'empresser de considérer
 cette physique nouvelle comme un retour à laphysique de la
 scolastique. Duhem a souvent prêté à cette interprétation
 par ses propres expressions, lorsqu'il ne distingue pas net-
-tement ce qui est pensée exclusivement scientifique, tirée,
-
-[p. 142]
-
-142
+tement ce qui est pensée exclusivement scientifique, tirée, [p. 142] 142
 L'ANALYSE DES DOCTRINES .
 
 comme il le dit, de la pratique quotidienne du laboratoire,
@@ -7038,11 +6664,7 @@ dialectique syllogistique ne doit plus nous empêcher de voir
 les rapports entre les phénomènes (les lois naturelles de
 la science moderne), et leur homogénéité fondamentale.
 Tout ce qu'on doit maintenir, c'est de ne pas aller plus vite
-dans cette homologation de la nature que ne l'autorise l'ex-
-
-[p. 143]
-
-LA CRITIQUE DU MÉCANISME
+dans cette homologation de la nature que ne l'autorise l'ex-[p. 143]LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE.
 143
 
@@ -7086,9 +6708,7 @@ une précision qu'elle n'aurait pu atteindre sans revêtir cette
 forme schématique que l'on nomme physique théorique ou
 physique mathématique .
 
-[p. 144]
-
-144
+[p. 144] 144
 L'ANALYSE DES DOCTRINES .
 
 <<Dès lors à chacun des éléments que l'analyse logique
@@ -7132,9 +6752,7 @@ uns des autres, de les prévoir les uns par les autres, de les [^p144-1]
 
 [^p144-1]: DUHEM, Le Mixte et la combinaison chimique, p. 202, 205.
 
-[p. 145]
-
-LA CRITIQUE DU MÉCANISME
+[p. 145] LA CRITIQUE DU MÉCANISME
 : L'ATTITUDE HOSTILE .
 145
 
@@ -7158,9 +6776,7 @@ de vouloir s'ériger en métaphysique .
 REY.
 10
 
-[p. 147]
-
-LIVRE III
+[p. 147] LIVRE III
 
 LA CRITIQUE DU MÉCANISME (Suite)
 
@@ -7203,9 +6819,7 @@ caractéristiques des sciences mathématiques. [^p147-5] [^p147-6]
 [^p147-5]: Conclusion : Les mathématiques ne sont pas objectives .
 [^p147-6]: L'expérience n'y a aucun rôle générateur.
 
-[p. 148]
-
-148
+[p. 148] 148
 L'ANALYSE DES DOCTRINES .
 
 de la mathématique sans songer à la réformer ou à lui
@@ -7262,11 +6876,7 @@ les solutions que le problème comporte.
 Mais comment nous assurons-nous, sans déployer tout l'appareil
 de l'analyse mathématique, de la conformité des lois de l'électro-
 statique et de l'électrodynamique avec les principes de la dynamique?
-C'estparune série de comparaisons. Quand nous voudrons ana-
-
-[p. 149]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE.
+C'estparune série de comparaisons. Quand nous voudrons ana-[p. 149]CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE.
 149
 
 Ils ont montré que la connaissance humaine, la science
@@ -7309,14 +6919,12 @@ précis » (p. 7, 8)
 1. Onpeut rapprocher de Poincaré, bien qu'il ait des divergences
 profondes , parmi les critiques de la physique moderne, Bouasse
 (Introduction aux théories de la mécanique, articles dans la Revue
-générale des sciences , la Revue de Métaphysique et de Morale, etc. ),
+générale des sciences , la *Revue de Métaphysique et de Morale*, etc. ),
 Andrade, l'école américaine épistemologique, et G. Milhaud (cette
 école et ce dernier se plaçant à un point de vue plus philosophique
 que scientifique, et sortant par là du cadre de cette étude) .
 
-[p. 150]
-
-150
+[p. 150] 150
 L'ANALYSE DES DOCTRINES .
 
 miers points profonds de divergence entre l'école critique
@@ -7363,9 +6971,7 @@ signes qu'on voudra pour représenter les mêmes rapports .
 
 1. POINCARÉ, Science et hypothèse, p . 3 .
 
-[p. 151]
-
-CRITIQUE DU MÉCANISME
+[p. 151] CRITIQUE DU MÉCANISME
 : L'ATTITUDE SIMPLEMENT CRITIQUE .
 151
 
@@ -7413,9 +7019,7 @@ avoir passé en revue l'arithmétique, la géométrie, même la [^p151-1] [^p151
 [^p151-1]: POINCARE, Science et hypothèse , p. 66.
 [^p151-2]: Id. , p . 91 .
 
-[p. 152]
-
-152
+[p. 152] 152
 L'ANALYSE DES DOCTRINES . [^p152-1]
 
 mécanique, Poincaré écrit : « En mécanique, nous serions
@@ -7430,7 +7034,7 @@ pas plus dans le raisonnement par lequel elles généra-
 lisent, que dans l'objet, (la grandeur mathématique), sur
 lequel elles opèrent [^p152-2].
 La notion de nombre est l'œuvre de l'esprit ; l'espace géo-
-métrique n'est même pas une forme, une loi a priori de
+métrique n'est même pas une forme, une loi *a priori* de
 l'exercice de nos sens. L'espace sensible (visuel, tactile ,
 musculaire) est, par nature et essentiellement, différent de
 l'espace géométrique. Celui-ci résulte d'une définition, d'un
@@ -7459,9 +7063,7 @@ l'expérience. Tout le monde aujourd'hui s'accorde à recon-
 [^p152-2]: Id. , p . 23 , 24, 65 , 66, 90, 92 , 109.
 [^p152-3]: POINCARÉ, Science et hypothèse . p. 24. - une 4
 
-[p. 153]
-
-CRITIQUE DU MÉCANISME
+[p. 153] CRITIQUE DU MÉCANISME
 : L'ATTITUDE SIMPLEMENT CRITIQUE .
 153
 
@@ -7506,9 +7108,7 @@ riences qui ont déterminé notre choix n'ont rien de com
 [^p153-1]: Id. , p. 90 .
 [^p153-2]: Id. , p. 91 .
 
-[p. 154]
-
-154
+[p. 154] 154
 L'ANALYSE DES DOCTRINES .
 
 mun avec l'objet des sciences mathématiques. « Ces expé-
@@ -7528,9 +7128,7 @@ force, contre cette extension.
 
 1. POINCARÉ, Science et hypothèse, p. 164 .
 
-[p. 155]
-
-CHAPITRE
+[p. 155] CHAPITRE
 11
 
 Critique des sciences physiques
@@ -7589,9 +7187,7 @@ les hypothèses qui, sans pouvoir jamais être vérifiées expé
 
 [^p155-1]: POINCARÉ, Science et hypothèse, p. 5.
 
-[p. 156]
-
-156
+[p. 156] 156
 L'ANALYSE DES DOCTRINES .
 
 rimentalement, mais aussi sans pouvoir jamais être en
@@ -7636,9 +7232,7 @@ Le contenu de la physique se divisera ainsi en deux
 ensembles, caractérisés chacun par le genre d'hypothèses
 qui se trouve à leur base, et corollairement, par la nature
 
-[p. 157]
-
-CRITIQUE DU MÉCANISME
+[p. 157] CRITIQUE DU MÉCANISME
 : L'ATTITUDE SIMPLEMENT CRITIQUE .
 157
 
@@ -7684,9 +7278,7 @@ de cette matière, avec nécessité 2 . [^p157-1]
 [^p157-1]: POINCARE. Revue de Métaphysique, mai 1902, p. 270, 271 .
 [^p157-2]: POINCARÉ, Revue de Métaphysique, mai 1902, p. 266.
 
-[p. 158]
-
-158
+[p. 158] 158
 L'ANALYSE DES DOCTRINES .
 
 Le fait scientifique, si l'on veut préciser, n'est autre
@@ -7734,9 +7326,7 @@ la nature profonde. Comme l'impressiou individuelle, les [^p158-1]
 
 [^p158-1]: Id . , p . 268 .
 
-[p. 159]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE.
+[p. 159] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE.
 159
 
 -
@@ -7786,9 +7376,7 @@ langage et les conventions adoptées, ce seront en dernière [^p159-1]
 [^p159-3]: Voir plus haut, p. 172.
 [^p159-4]: POINCARE, Revue de Métaphysique , p. 269.
 
-[p. 160]
-
-160
+[p. 160] 160
 L'ANALYSE DES DOCTRINES .
 
 analyse nos sens qui viendront confirmer ou infirmer la
@@ -7842,9 +7430,7 @@ employons. Loin d'altérer le fait objectif, ce que le savant [^p160-3]
 [^p160-3]: Id . , p. 273 .
 [^p160-4]: Id. , p. 272 .
 
-[p. 161]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
+[p. 161] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
 161
 
 met de pensée dans son travail de correction et d'élabora-
@@ -7892,11 +7478,7 @@ beaucoup plus loin des faits et de l'expérience . Il semble
 qu'alors la critique de Poincaré doive arriver à des conclu- [^p161-1]
 
 [^p161-1]: Id. , p . 272, 273.
-[^p161-2]: POINCARÉ, Science et hypothèse, p. 167 . REY. 11
-
-[p. 162]
-
-162
+[^p161-2]: POINCARÉ, Science et hypothèse, p. 167 . REY. 11 [p. 162] 162
 L'ANALYSE DES DOCTRINES .
 
 sions sinon identiques, au moins analogues à celles aux-
@@ -7945,9 +7527,7 @@ jours une promotion de l'expérience. [^p162-1]
 
 [^p162-1]: POINCARÉ, Science et hypothèse, p. 168 .
 
-[p. 163]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE.
+[p. 163] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE.
 163
 
 7.
@@ -7991,9 +7571,7 @@ qu'onne saurait non plus dissimuler. « Toute généralisa- [^p163-4]
 [^p163-3]: ld . , p. 170.
 [^p163-4]: Id. , p . 171 .
 
-[p. 164]
-
-164
+[p. 164] 164
 L'ANALYSE DES DOCTRINES .
 
 tion , dit- il , suppose dans une certaine mesure la croyance
@@ -8037,9 +7615,7 @@ pour la physique de prendre la forme mathématique. Ce [^p164-2]
 [^p164-1]: POINCARÉ , Science et hypothèse, p. 173.
 [^p164-2]: Id. , p. 212.
 
-[p. 165]
-
-n'est pas seulement parce qu'ona à exprimer des lois numé-
+[p. 165] n'est pas seulement parce qu'ona à exprimer des lois numé-
 riques, c'est parce que dans toute théorie physique, le phé-
 nomène observable est dû à la superposition d'un grand
 nombre de phénomènes élémentaires tous semblables entre
@@ -8065,9 +7641,7 @@ peut mettre en équation ¹ . [^p165-1]
 
 [^p165-1]: POINCARÉ, Science et hypothèse, p. 186, 188.
 
-[p. 166]
-
-CHAPITRE
+[p. 166] CHAPITRE
 III
 
 Critique des sciences physiques (Suite)
@@ -8128,9 +7702,7 @@ qu'elles ne sontque le moyen de les appliquer : les hypothèses
 
 -
 
-[p. 167]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
+[p. 167] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
 167
 
 complètement indifférentes, qui ne seront jamais ni vraies, ni
@@ -8184,9 +7756,7 @@ sations théoriques n'étaient que des copies de l'expérience,
 depuis celles qui sontles plus près des faits jusqu'aux abs-
 tractions les plus hautes, jusqu'aux principes fondamen-
 
-[p. 168]
-
-168
+[p. 168] 168
 L'ANALYSE DES DOCTRINES .
 
 2. -
@@ -8236,9 +7806,7 @@ Ainsi, la tendance mécaniste
 suppose toujours qu'un
 principe est de même nature qu'une loi expérimentale. Il
 
-[p. 169]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE.
+[p. 169] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE.
 169
 
 n'en diffère que par le degré de généralité. Il peut, parcon-
@@ -8283,11 +7851,7 @@ tique . Si l'on s'en tenait à ce qu'il a été dit jusqu'ici, on se
 trouverait devant une inextricable difficulté. La physique
 théorique d'une part est un prolongement de l'expérience et
 
-2
-
-[p. 170]
-
-170
+2 [p. 170] 170
 L'ANALYSE DES DOCTRINES .
 
 d'autre part, une théorie physique se développe toujours
@@ -8333,9 +7897,7 @@ une condition et à une seule : c'est que la loi empirique, si [^p170-1]
 
 [^p170-1]: POINCARÉ, Surla valeur objective de la Science (Revue deMéta- physique et de Morale, mai 1902, p . 274) .
 
-[p. 171]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
+[p. 171] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
 171
 
 générale qu'on la suppose, soit érigée en principe, par un
@@ -8383,11 +7945,7 @@ notions mathématiques, il serait aussi absurde de deman-
 der s'il peut être infirmé ou confirmé par l'expérience, que
 de demander à l'aiguilleur si le signal qu'il meut a quelques
 rapports objectifs avec le train qu'il annonce .
-Voilà comment la physique mathématique participe à la
-
-[p. 172]
-
-172
+Voilà comment la physique mathématique participe à la [p. 172] 172
 L'ANALYSE DES DOCTRINES .
 
 fois de la physique, c'est-à-dire de la science expérimen-
@@ -8432,17 +7990,15 @@ tale, et ne pourrait-on alors transformer la physique en une
 POINCARÉ, Sur la valeur de la Science (Revue de Métaphysique,
 mai 1902, p. 275,276).
 
-[p. 173]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
+[p. 173] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
 173
 
-science a priori, créée tout entière par le savant, et sem-
+science *a priori*, créée tout entière par le savant, et sem-
 blable en tout et pour tout à la théorie physique telle que
 la conçoivent Duhem et l'école résolument antimécaniste ?
 Poincaré ne rend-il pas par ce côté, tout ce qu'il retirait
 jusqu'ici à la critique sécessionniste ?
-A priori, rien ne s'opposerait à une interprétation de ce
+*A priori*, rien ne s'opposerait à une interprétation de ce
 genre . Poincaré la déclare pourtant inacceptable, par une
 double argumentation. D'abord la transformation des lois
 empiriques en principes laisse subsister les lois empiriques
@@ -8481,9 +8037,7 @@ convenance du savant, tandis qu'un objet n'est, au sens vul-
 
 [^p173-1]: Id. , p. 276 .
 
-[p. 174]
-
-174
+[p. 174] 174
 L'ANALYSE DES DOCTRINES .
 
 gaire, commode que pour la convenance de qui l'emploie.
@@ -8527,9 +8081,7 @@ est simple ; de sorte que cette relation compliquée peut être
 [^p174-1]: 1d. , p . 276 .
 [^p174-2]: POINCARÉ, Revue de Métaphysique , mai 1902 , p . 277 .
 
-[p. 175]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE.
+[p. 175] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE.
 175
 
 remplacée par la relation simple entreA' et B' et par deux
@@ -8569,11 +8121,7 @@ A' et B' ; mais cette même relation entre ces deux mêmes
 figures A' et B' aurait pu tout aussi bien remplacer avan-
 tageusement une relation entre deux autres corps A" et
 B", entièrement différents de A et B. Et cela de bien des
-manières . Si l'on n'avait pas inventé les principes et lagéo
-
-[p. 176]
-
-176
+manières . Si l'on n'avait pas inventé les principes et lagéo [p. 176] 176
 L'ANALYSE DES DOCTRINES .
 
 métrie , après avoir étudié les relations de A et B, il fau-
@@ -8626,9 +8174,7 @@ Poincaré en matière de physique, pour discréditer la valeur [^p176-1]
 [^p176-1]: Revue de Métaphysique, mai 1902 , p. 277 , 278.
 [^p176-2]: D'après POINCARÉ, Science et hypothèse, p. 162 sq.
 
-[p. 177]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
+[p. 177] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
 177
 
 où la validité des théories scientifiques. Elle vaut la peine
@@ -8673,11 +8219,7 @@ si le système métrique est vrai ou faux [^p177-1] ».
 
 [^p177-1]: Science et hypothèse, p. 163. Cf. 157, 133, 134, 119, 127, 128 , 129.
 [^p177-2]: Id. , p . 163.
-[^p177-3]: Id. , p . 163 . REY 12
-
-[p. 178]
-
-178
+[^p177-3]: Id. , p . 163 . REY 12 [p. 178] 178
 L'ANALYSE DES DOCTRINES .
 
 ont donc « une très haute valeur, ils représententcomme la
@@ -8723,9 +8265,7 @@ une loi expérimentale : la conservation de la masse. On l'a [^p178-1] [^p178-2]
 [^p178-1]: D'après POINCARE, Science et hypothèse , p. 195 .
 [^p178-2]: Id. , p. 196 .
 
-[p. 179]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
+[p. 179] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
 179
 
 vérifiée dans un certain nombre de cas particuliers. On
@@ -8769,11 +8309,7 @@ rèmes considérés restera vrai, le principe restera vrai,
 comme avant. La science, au lieu de considérer le principe
 de la conservation de la masse comme universel, se conten-
 tera de le considérer comme partiel .
-Elle décidera qu'il est exact dans certaines limites, et ces
-
-[p. 180]
-
-180
+Elle décidera qu'il est exact dans certaines limites, et ces [p. 180] 180
 L'ANALYSE DES DOCTRINES .
 
 limites définissent précisément le cercle des phénomènes
@@ -8817,9 +8353,7 @@ Rien n'aura infirmé le principe primitif. Il y aura seule-
 ment des faits où son application doit cesser, parce qu'ils
 ne présenteront plus à l'observation directe les éléments
 
-[p. 181]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
+[p. 181] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
 181
 
 et les conditions que les faits primitifs avaient permis d'iso-
@@ -8867,11 +8401,7 @@ figurés , les modèles mécaniques, les représentations con-
 crètes (tourbillons , atomes, fluides, agencements de méca-
 nismes matériels) en la réalité desquels croyait trop volon-
 tiers la physique classique.
-Mais les mêmes relations et les mêmes principes forment
-
-[p. 182]
-
-182
+Mais les mêmes relations et les mêmes principes forment [p. 182] 182
 L'ANALYSE DES DOCTRINES .
 
 toujours l'ossature de toutes ces représentations concrètes.
@@ -8914,9 +8444,7 @@ elles sont chargées de rendre facilement accessible le
 [^p182-1]: Science et hypothèse, p. 189, 190 .
 [^p182-2]: Id., p. 190.
 
-[p. 183]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
+[p. 183] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
 183
 
 développement de la pièce qui nous raconte l'histoire des
@@ -8959,9 +8487,7 @@ Quelles qu'elles soient, il faut qu'ily en ait [^p183-2]. [^p183-1]
 [^p183-1]: Science et hypothèse, p. 191, 192, 193.
 [^p183-2]: Id., Cf. notamment cette expression : les images que nous sommes forcés de mettre à leur place (leur, i. e. des relations véri- tables).
 
-[p. 184]
-
-184
+[p. 184] 184
 L'ANALYSE DES DOCTRINES .
 
 Sous une divergence précise d'interprétation, on trouve
@@ -9006,13 +8532,11 @@ En résumé, Poincaré combat le mécanisme cris-
 tallisé sous la forme qu'il revêtait dans la première moitié
 du xix siècle, en insistant sur la relativité de la science.
 
-[p. 185]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE.
+[p. 185] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE.
 185
 
 Il conclut à cette relativité non à l'aide d'arguments philo-
-sophiques , et d'une dialectique a priori, mais en s'ap-
+sophiques , et d'une dialectique *a priori*, mais en s'ap-
 puyant sur les faits que lui fournit le contenu de la science
 actuelle, sur des raisons positives. Il s'oppose à ce que l'on
 transforme les théories des sciences physico-chimiques par
@@ -9057,9 +8581,7 @@ d'autres termes, le mécanisme traditionnel est trop large
 
 -
 
-[p. 186]
-
-186
+[p. 186] 186
 L'ANALYSE DES DOCTRINES.
 
 etpar suite trop vague. Les nouveaux principes, résultat
@@ -9105,9 +8627,7 @@ de toute force, mais assujettie à se mouvoir sur une sur [^p186-2] [^p186-3]
 [^p186-2]: Science et hypothèse, p. 153, 154.
 [^p186-3]: Id. , p. 154.
 
-[p. 187]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
+[p. 187] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
 187
 
 face, prendra la ligne géodésique, c'est-à-dire le chemin le
@@ -9123,9 +8643,7 @@ bleraient pas se substituer aux causes efficientes ¹ . »
 
 1. Science et hypothèse, p. 154 .
 
-[p. 188]
-
-CHAPITRE IV
+[p. 188] CHAPITRE IV
 
 Conclusions relatives à l'école critique
 
@@ -9162,9 +8680,7 @@ généralisation 1. Si la nature en elle-même n'est point
 
 [^p188-1]: Science et hypothèse , p. 172, 176.
 
-[p. 189]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE.
+[p. 189] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE.
 189
 
 simple , grâce à la loi des grands nombres et des moyennes ,
@@ -9218,11 +8734,7 @@ exemples positifs, et par une analyse de faits, que l'évo-
 lution des sciences physico-chimiques se poursuit d'une
 façon normale et continue depuis la Renaissance, par con-
 séquent que le mécanisme se développe, loin de rétro-
-céder, à mesure que ces sciences se développent, et qu'il est
-
-[p. 190]
-
-190
+céder, à mesure que ces sciences se développent, et qu'il est [p. 190] 190
 L'ANALYSE DES DOCTRINES .
 
 comme leur atmosphère naturelle et vraisemblablement.
@@ -9265,9 +8777,7 @@ brownien, qui échapperait au principe de Carnot, per- [^p190-1] [^p190-3]
 [^p190-2]: Id., p. 205 , 206.
 [^p190-3]: Id.
 
-[p. 191]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
+[p. 191] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
 191
 
 mettent d'entrevoir la réduction des phénomènes irréver-
@@ -9305,11 +8815,7 @@ bilité de science³. [^p191-1] [^p191-2] [^p191-3]
 
 [^p191-1]: Id. , p. 210, 211, 191, et Revuede Métaphysique, mai 1902, p. 291 .
 [^p191-2]: Science et hypothèse, p. 212.
-[^p191-3]: POINCARÉ (Science et hypothèse, p. 202, 203) a remarqué que deux tendances inverses se manifestent dans l'histoire du développe- ment de la physique : une tendance vers l'unité, par la découverte de liens nouveaux entre des phénomènes épars, une tendance vers la discrimination par la découverte de phénomènes nouveaux qui
-
-[p. 192]
-
-192
+[^p191-3]: POINCARÉ (Science et hypothèse, p. 202, 203) a remarqué que deux tendances inverses se manifestent dans l'histoire du développe- ment de la physique : une tendance vers l'unité, par la découverte de liens nouveaux entre des phénomènes épars, une tendance vers la discrimination par la découverte de phénomènes nouveaux qui [p. 192] 192
 L'ANALYSE DES DOCTRINES .
 
 Cette constatation des progrès de la thèse essentielle du
@@ -9358,9 +8864,7 @@ inverses , laquelle l'emportera ? « Si c'est la première, la Science est
 possible. » (p. 203.)
 1. Science et hypothèse , p. 210.
 
-[p. 193]
-
-CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
+[p. 193] CRITIQUE DU MÉCANISME : L'ATTITUDE SIMPLEMENT CRITIQUE .
 193
 
 nomènes physico-chimiques les uns aux autres, par suite
@@ -9401,11 +8905,7 @@ de Clarke, reproduire les lois éternelles de l'absolu. Scien-
 tifiquement, le mot absolu est un mot vide de sens. Poin- [^p193-1]
 
 [^p193-1]: Revue deMétaphysique, mai 1902, p. 289.
-[^p193-2]: Id. , p. 266. REY. 13
-
-[p. 194]
-
-194
+[^p193-2]: Id. , p. 266. REY. 13 [p. 194] 194
 L'ANALYSE DES DOCTRINES .
 
 caré se garderait de le restaurer. Mais dans les limites de
@@ -9444,9 +8944,7 @@ vu . L'objet, au contraire, c'est ce que tous les sujets per- [^p194-1]
 
 [^p194-1]: Id. , p . 287. POINCARE cherche (p. 281 à 288) les divers sens du mot contingent, et ce qu'il faut entendre par nécessaire. De ce fait que les physiciens, bien qu'admettant que toute loi n'est qu'appro- chée, constatent que la loi approche de plus en plus, etque la nature est constituée par des faits qui se répètent à peu près identique- ment, par des relations, des séquences semblables, il conclutque la nature physique constitue un déterminisme et que les lois physiques sont nécessaires .
 
-[p. 195]
-
-CRITIQUE DU MÉCANISME : L'ATTITUD
+[p. 195] CRITIQUE DU MÉCANISME : L'ATTITUD
 ATTITUDE SIMPLEMENT CRITIQUE . 195
 
 cevront de même, les rapports universels, indépendants
@@ -9494,9 +8992,7 @@ avoir de sens . [^p195-2]
 [^p195-2]: Id. , p. 292 .
 [^p195-3]: Valeur de la science, p. 271 .
 
-[p. 196]
-
-196
+[p. 196] 196
 L'ANALYSE DES DOCTRINES .
 
 <<<Et cependant - étrange contradiction pour ceux qui
@@ -9509,9 +9005,7 @@ qu'un éclair au milieu d'une longue nuit. Mais c'est cet
 
 1. Id. p. 275.
 
-[p. 197]
-
-LIVRE IV
+[p. 197] LIVRE IV
 
 LES CONTINUATEURS DU MÉCANISME
 LES HYPOTHÈSES FIGURATIVES
@@ -9549,11 +9043,7 @@ continuité du développement scientifique. Elles aboutissent
 à un positivisme expérimental en même temps qu'elles
 établissent la légitimité de la physique mathématique et
 la possibilité d'une organisation rationnelle des résultats
-empiriques. La critique de la science physique dans la
-
-[p. 198]
-
-198
+empiriques. La critique de la science physique dans la [p. 198] 198
 L'ANALYSE DES DOCTRINES .
 
 seconde moitié du xix
@@ -9599,9 +9089,7 @@ Seulement l'impartialité historique - et à son défaut le
 simple bon sens -forcentd'un autre côté à constater que la
 tradition mécaniste estallée se transformant, etévoluantàson
 
-[p. 199]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
+[p. 199] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
 199
 
 tour, comme le contenu de la physique lui-même, au fur
@@ -9642,9 +9130,7 @@ taphysique , trop réaliste .
 [^p199-1]: KIRCHOFF , Uber das Ziel der Naturwissenschaften , passim . , et pr. , p. 9 et 23 sq.
 [^p199-2]: HELMHOLTZ, Populärwiss. Vorl. vol . I, p. 92 sq.
 
-[p. 200]
-
-200
+[p. 200] 200
 L'ANALYSE DES DOCTRINES .
 
 Du Bois-Reymond a dit plus récemment (1881) :
@@ -9689,9 +9175,7 @@ proclamer la relativité de la connaissance. Le mécanisme [^p200-1]
 
 [^p200-1]: Cité par STALLO : La matière et la Physique moderne, p. 6 et 7.
 
-[p. 201]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 201] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 201
 
 qu'il considère comme le fondement nécessaire des sciences
@@ -9738,9 +9222,7 @@ nomène physique peuvent être déduits de la configuration [^p201-1]
 
 [^p201-1]: On the dynamical evidence of the molecular constitution ofBo- dies in Nature, 4 et 11 mars 1875.
 
-[p. 202]
-
-202
+[p. 202] 202
 L'ANALYSE DES DOCTRINES .
 
 et du mouvement d'un système matériel, on dit que son
@@ -9787,9 +9269,7 @@ particuliers des théories mécanistes . [^p202-3].- Il faut d'ailleurs préveni
 [^p202-2]: Id. , p. 142.
 [^p202-3]: Id. , p. 93 .
 
-[p. 203]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 203] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 203
 
 point. Je ne dis pas que tous les physiciens soient restés
@@ -9832,11 +9312,7 @@ la systématisation de ces phénomènes sera nécessairement
 en dernière analyse, une formule figurative. Pour résumer :
 en partant du mouvement et des notions qu'il suggère, c'est-
 à-dire des notions dont la mécanique a commencé l'étude ,
-on doit arriver à représenter l'objet de la physique dans sa
-
-[p. 204]
-
-204
+on doit arriver à représenter l'objet de la physique dans sa [p. 204] 204
 L'ANALYSE DES DOCTRINES .
 
 totalité. Tout s'y passe comme dans une machine, mécani-
@@ -9882,9 +9358,7 @@ pas à peu près cette objection à Poincaré à propos de l'ou-
 vrage de ce dernier : La Science et l'hypothèse : « Une
 chimère qui ne se montre pas, mais qui se devine, y trouble
 
-[p. 205]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
+[p. 205] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
 205
 
 -
@@ -9932,9 +9406,7 @@ par leurs coutumes antérieures. Et jusque dans la concep- [^p205-1]
 
 [^p205-1]: Revue deMétaphysique, novembre 1903, p. 787, 788 .
 
-[p. 206]
-
-206
+[p. 206] 206
 L'ANALYSE DES DOCTRINES .
 
 tion énergétique qui a voulu construire plus solidement et
@@ -9979,9 +9451,7 @@ la mathématique a rendu à la physique d'immenses ser-
 vices . Elle lui a fourni, par ses méthodes, ses procédés, et
 uombre de ses résultats dans l'analyse, algébrique ou géo
 
-[p. 207]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 207] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 207
 
 métrique, par l'étude de certaines fonctions, une langue
@@ -10041,9 +9511,7 @@ cis, enalla chercher le modèle dans le langage précis de
 
 la mathématique. La théorie, par la force même des pro-
 
-[p. 208]
-
-208
+[p. 208] 208
 L'ANALYSE DES DOCTRINES .
 
 grès de la science, devenant chaque jour plus abstraite,
@@ -10086,9 +9554,7 @@ mença la période formelle, c'est-à-dire laphysique mathé-
 matique, purement mathématique, la physique mathéma-
 tique, non plus branche de la physique, si on peut ainsi
 
-[p. 209]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 209] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 209
 
 parler, mais branche de la mathématique
@@ -10133,11 +9599,7 @@ titude logique .
 Ainsi s'expliquent historiquement, par la forme mathé-
 
 BEY,
-14
-
-[p. 210]
-
-210
+14 [p. 210] 210
 L'ANALYSE DES DOCTRINES .
 
 matique qu'a prise la physique théorique, par l'impor-
@@ -10149,9 +9611,7 @@ de la physique, et son éloignement apparent des
 faits
 objectifs .
 
-[p. 211]
-
-CHAPITRE
+[p. 211] CHAPITRE
 II
 
 Les traits fondamentaux du mécanisme actuel
@@ -10191,11 +9651,7 @@ tions
 sensibles,
 c'est-à-dire au moyen d'éléments réels tirés de
 
-[^p211-1]: Remarque sur la méthode.- Il n'est guère possible de suivre pour exposer la théorie mécaniste la méthode qui a été suivie pour les autres conceptions de la physique. Ces conceptions , en effet , avaient été exposées d'une façon explicite par l'un ou par quelques- uns de leurs adeptes. En analysant les travaux de ces savants, il était possible de définir complètement l'esprit général qui animait leurs écoles . Mais avec le mécanisme tout change. D'abord c'est une doctrine plus plastique : on n'en finirait pas à vouloir exposer toutes ses nuances ; ce fait ne doit pas d'ailleurs étonner, étant donné le nombre de ses adeptes . Ensuite, il n'en est à ma connais- sance aucun qui se soit proposé de définir et d'exposer entièrement la théorie de la physique mécaniste. Elle parait si naturelle, la tra- dition aidant, qu'on ne songe pas à l'analyser. On conçoit facilement qu'on cherche plutôt à analyser avec soin
-
-[p. 212]
-
-212
+[^p211-1]: Remarque sur la méthode.- Il n'est guère possible de suivre pour exposer la théorie mécaniste la méthode qui a été suivie pour les autres conceptions de la physique. Ces conceptions , en effet , avaient été exposées d'une façon explicite par l'un ou par quelques- uns de leurs adeptes. En analysant les travaux de ces savants, il était possible de définir complètement l'esprit général qui animait leurs écoles . Mais avec le mécanisme tout change. D'abord c'est une doctrine plus plastique : on n'en finirait pas à vouloir exposer toutes ses nuances ; ce fait ne doit pas d'ailleurs étonner, étant donné le nombre de ses adeptes . Ensuite, il n'en est à ma connais- sance aucun qui se soit proposé de définir et d'exposer entièrement la théorie de la physique mécaniste. Elle parait si naturelle, la tra- dition aidant, qu'on ne songe pas à l'analyser. On conçoit facilement qu'on cherche plutôt à analyser avec soin [p. 212] 212
 L'ANALYSE DES DOCTRINES .
 
 III .
@@ -10269,9 +9725,7 @@ laštâche de définir leur esprit général. Et c'est chez les philosophes,
 outout au moins en songeant àeux, qu'il faudra chercher bien
 souvent les traits fondamentaux du mécanisme scientifique.
 
-[p. 213]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 213] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 213
 
 saire de la science et par les critiques accumulées contre
@@ -10311,11 +9765,7 @@ soit confirmé par elle. On le prétend du moins. Et toute
 hypothèse si hasardée et générale qu'elle soit sera fondée
 sur l'expérience, et sera essentiellement une hypothèse
 vérifiable .
-Les mécanistes adoptent sur ce point les opinions de
-
-[p. 214]
-
-214
+Les mécanistes adoptent sur ce point les opinions de [p. 214] 214
 L'ANALYSE DES DOCTRINES .
 
 Comte. Toute hypothèse doit être proscrite si une de ses
@@ -10358,9 +9808,7 @@ rie et de l'expérience ; c'est en droit que la théorie sort de
 l'expérience et y retourne, et que teile expérience entraîne
 telle théorie , ou telle théorie, telle expérience. Il y a là une
 
-[p. 215]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 215] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 215
 
 propriété qui repose sur la nature des choses, c'est-à-dire
@@ -10410,9 +9858,7 @@ altération , correction [^p215-1]. Faut-il rappeler que tous les psy-
 
 [^p215-1]: « Ainsi on ne se borne pas à généraliser l'expérience, on la cor- rige » (POINCARÉ, Science et hypothèse, p. 170).
 
-[p. 216]
-
-216
+[p. 216] 216
 L'ANALYSE DES DOCTRINES .
 
 chologues proclament le pouvoir créateur de l'esprit dans
@@ -10458,9 +9904,7 @@ d'être un décalque de l'expérience et de n'être que cela,
 est si nettement dans l'esprit mécaniste, que le mécanisme
 n'hésite pas, comme on le verra, à formuler des hypо
 
-[p. 217]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
+[p. 217] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
 217
 
 thèses contradictoires, dans toutes les parties où la science
@@ -10498,9 +9942,7 @@ fréquemment chez ses représentants : c'est la méfiance du
 
 [^p217-1]: Cf. MAXWELL : Traité de l'électricité . Tous les critiques , en par- ticulier Poincaré, et surtout Duhem, en ont remarqué l'inconsis- tencelogique, et même les contradictions. Il est pourtant sorti de l'influence qu'il a exercée une riche moisson de découvertes .-Cf. aussi les « modèles mécaniques » de la physique anglaise. Ils peuvent être contradictoires, et pourtant féconds. En tout cas les physiciens anglais se soucient peu qu'ils soient ou non contradictoires.
 
-[p. 218]
-
-218
+[p. 218] 218
 L'ANALYSE DES DOCTRINES .
 
 raisonnement et du concept purs. On ne peut s'empêcher
@@ -10544,9 +9986,7 @@ de ces principes ne seraient pas encore découvertes ¹ » Et [^p218-1]
 
 [^p218-1]: Optique, question XXXI.
 
-[p. 219]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
+[p. 219] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
 219
 
 dans sa première regula philosphandi, il énonce nettement
@@ -10588,9 +10028,7 @@ d'un nombre immense de phénomènes [^p219-2]. »
 [^p219-1]: Par exemple, dans la loi de l'attraction universelle, telle que la comprend Newton .
 [^p219-2]: BERTHELOT, Lettre à Renan, in Dialogues philosophiques de Renan, 3ª édit . , 1886 .
 
-[p. 220]
-
-220
+[p. 220] 220
 L'ANALYSE DES DOCTRINES .
 
 << Pour atteindre à de si grands résultats, pour enchaîner
@@ -10635,9 +10073,7 @@ pondre à leur ordre de subordination. Mais tôt ou tard [^p220-1]
 
 [^p220-1]: Id. , p. 203.
 
-[p. 221]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 221] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 221
 
 l'expérience les rectifiera. Elles n'atteignent pas la belle
@@ -10649,7 +10085,7 @@ lointaines et par suite des relations les plus étendues aux-
 quelles nous a fait remonter l'expérience. Berthelot dira
 par exemple : « La physique et la chimie se ramènent dès
 lors à la mécanique, non en vertu d'aperçus obscurs et
-incertains, non à la suite de raisonnements a priori, mais
+incertains, non à la suite de raisonnements *a priori*, mais
 au moyen de notions indubitables, toujours fondées sur
 l'observation ou sur l'expérience et qui tendent à établir
 par l'étude directe des transformations réciproques des
@@ -10681,9 +10117,7 @@ créatrice et libre de l'esprit dans la science . [^p221-1]
 
 [^p221-1]: Id. , p. 203 .
 
-[p. 222]
-
-222
+[p. 222] 222
 L'ANALYSE DES DOCTRINES .
 
 Contre cette doctrine , le mécanisme ne cesse de protester.
@@ -10727,9 +10161,7 @@ devient alors très difficile et, je crois même, logiquement [^p222-1]
 
 [^p222-1]: Cité par Poincaré , Science et hypothèse, р . 127 .
 
-[p. 223]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHESES FIGURATIVES .
+[p. 223] CONTINUATEURS DU MÉCANISME , HYPOTHESES FIGURATIVES .
 223
 
 impossible de croire que des données empiriques analogues
@@ -10775,11 +10207,7 @@ unité de composition .
 1. J. PERRIN
 La Discontinuité de la matière
 (mars 1906) p. 323.
-- Revue du Mois
-
-[p. 224]
-
-224
+- Revue du Mois [p. 224] 224
 L'ANALYSE DES DOCTRINES .
 
 8.- Il n'en restepas moins que le mécanisme admet très
@@ -10823,9 +10251,7 @@ déterminée l'expérience, c'est-à- dire dans leurportée et leur
 
 1. PERRIN : Traité de Chimie physique, t. I, Préface p . XI.
 
-[p. 225]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES.
+[p. 225] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES.
 225
 
 nature véritables, les principes déjà posés. Le mécanisme
@@ -10842,7 +10268,7 @@ l'expérience, le mécanisme s'efforce de donner aux prin-
 cipes issus de l'expérience, le caractère apodictique de la
 nécessité géométrique, caractère que les philosophes ne
 veulent accorder d'ordinaire qu'à l'intuition ou à la forme
-a priori . Les théories physiques doivent être les représen-
+*a priori* . Les théories physiques doivent être les représen-
 tations sensibles des choses. Par un agencement des don-
 nées sensibles,- qui ont été retenues d'après les indica-
 tions de l'expérience comme les principes élémentaires et
@@ -10873,11 +10299,7 @@ Ainsi , quand d'une part l'expérience nous fait atteindre
 des éléments réels tels qu'avec leur aide et avec elle seule,
 
 REY,
-15
-
-[p. 226]
-
-226
+15 [p. 226] 226
 L'ANALYSE DES DOCTRINES .
 
 nous puissions reconstruire expérimentalement, réellement,
@@ -10912,7 +10334,7 @@ ler plus loin et de concevoir qu'une addition quelconque,
 possible à nos connaissances, puisse expliquer l'énergie
 du mouvement » . Ces formules ne marquent nullement un
 retour à on ne sait quelle intuition cartésienne, quelle
-<<nature simple, » ou quelle catégorie a priori de l'enten-
+<<nature simple, » ou quelle catégorie *a priori* de l'enten-
 dement. Elles sont simplement des constatations expérimen-
 tales, et si on veut bien les entendre, il faut se débarrasser
 de tout bagage conceptualiste. Là où le mot conception est
@@ -10925,9 +10347,7 @@ que lui-même . L'expérience derrière le mouvement ne [^p226-1]
 
 [^p226-1]: La Chaleur, p. 386.
 
-[p. 227]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES.
+[p. 227] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES.
 227
 
 révèle que du mouvement. Le mouvement est donc une
@@ -10971,11 +10391,7 @@ par l'application d'un travail » et que le mot énergie désigne
 la quantité de travail que peut effectuer un corps, sa capa-
 cité de travail. Dans cette transformation, si l'on convient
 de choisir une unité de chaleur et une unité de travail,
-l'expérience montre que pour chaque unité de chaleur
-
-[p. 228]
-
-228
+l'expérience montre que pour chaque unité de chaleur [p. 228] 228
 L'ANALYSE DES DOCTRINES .
 
 engendrée, une certaine quantité d'énergie mécanique dis-
@@ -11020,9 +10436,7 @@ fait elle-même le départ du général et [^p228-1]
 
 [^p228-1]: MAXWELL, Théorie de la Chaleur, p. 386 à 391 .
 
-[p. 229]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 229] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 229
 
 du primitif, du complexe et du dérivé. L'expérience nous
@@ -11069,11 +10483,7 @@ Il est bon de prévenir tout de suite un malentendu que
 pourrait faire naître la lecture partielle ou isolée de cer-
 tainsphysiciens.
 Maxwell, par exemple, dans le Traité d'électricité, se
-contente de montrer que les phénomènes électromagné
-
-[p. 230]
-
-230
+contente de montrer que les phénomènes électromagné [p. 230] 230
 L'ANALYSE DES DOCTRINES .
 
 tiques se
@@ -11118,11 +10528,7 @@ mécanique, de représenter les phénomènes électriques .
 L'œuvre de Maxwell montre cette possibilité . Elle ne pou-
 vait aller plus loin. Voilà pourquoi il ne reste de cette
 œuvre qu'un système de six équations différentielles. Il
-n'en pouvait rien rester d'autre. Cela ne veut pas dire que,
-
-[p. 231]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
+n'en pouvait rien rester d'autre. Cela ne veut pas dire que, [p. 231] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
 231
 
 pour Maxwell et Hertz, on n'arrivera pas à fonder sur des
@@ -11167,11 +10573,7 @@ de l'une ou de l'autre selon les théories, voilà à quoi se
 réduisaient en dernière analyse les constructions de la
 physique mathématique ¹ . [^p231-1]
 
-[^p231-1]: L'antique antithèse métaphysique du sujet et de l'objet y trans- paraît. Le sujet a ses exigences particulières ; l'ensemble de ces exigences établit les conditions d'intelligibilité. L'objet a ses caractères spécifiques que révèle l'expérience pure ; l'ensemble de ces caractères spécifiques, voilà ce qui constitue l'objectivité. Ce qui satisfait aux conditions d'intelligibilité forme ce qu'on appelle le rationnel, l'intelligible, la raison. En face de l'intelligible, se
-
-[p. 232]
-
-232
+[^p231-1]: L'antique antithèse métaphysique du sujet et de l'objet y trans- paraît. Le sujet a ses exigences particulières ; l'ensemble de ces exigences établit les conditions d'intelligibilité. L'objet a ses caractères spécifiques que révèle l'expérience pure ; l'ensemble de ces caractères spécifiques, voilà ce qui constitue l'objectivité. Ce qui satisfait aux conditions d'intelligibilité forme ce qu'on appelle le rationnel, l'intelligible, la raison. En face de l'intelligible, se [p. 232] 232
 L'ANALYSE DES DOCTRINES .
 
 Le grand problème que, partout, pour maintenir l'objec-
@@ -11236,9 +10638,7 @@ discontinuité
 l'expérience . L'abstraction n'altère pas ; elle précise laformule.
 Ainsi, si l'on part de laraison,commeles cartésiens, on la retrouve
 
-[p. 233]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 233] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 233
 
 rejoindre les deux bouts de la chaîne après l'avoir brisée .
@@ -11294,11 +10694,7 @@ la longue chaîne de raisons toutes simples et faciles qui satisfait
 l'esprit par son « évidence » et sa « certitude » . Représentable et
 intelligible sont donc synthétisés, ramenés à une absolue et féconde
 unité avec la géométrie analytique. La méthode que Descartes pro-
-pose n'est rien autre qu'une extension conforme à cette première
-
-[p. 234]
-
-234
+pose n'est rien autre qu'une extension conforme à cette première [p. 234] 234
 L'ANALYSE DES DOCTRINES .
 
 Le mécanisme prend comme terrain solide de construc-
@@ -11332,7 +10728,7 @@ comme dans sa Dioptrique , comme dans les Principes , ne vise qu'à
 se former une conception claire et distincte du monde, à l'aide
 d'éléments représentables. Mieux encore, il ne distingue pas repré-
 sentable et intelligible. Ce que nous disons de Descartes peut se
-répéter mutatis mutandis des esprits plus empiriques
+répéter *mutatis mutandis* des esprits plus empiriques
 : Bacon ou
 Hobbes . Ils partent de l'autre bout de la chaîne- encore qu'on ait
 beaucoup exagéré l'apriorisme cartésien en matière de physique ;
@@ -11353,9 +10749,7 @@ comme l'extrême aboutissant .
 
 1
 
-[p. 235]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
+[p. 235] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
 235
 
 sophes anti-mécanistes. Il soutiendra toujours, au con-
@@ -11415,9 +10809,7 @@ dans la chaîne des théories. Ces raisons de choix que le
 
 [^p235-1]: W. THOMSON, in Revue générale des sciences , 1903, p. 258.
 
-[p. 236]
-
-236
+[p. 236] 236
 L'ANALYSE DES DOCTRINES .
 
 mécanisme pourrait invoquer aussi bien et souvent mieux
@@ -11461,9 +10853,7 @@ ments. Mais de ce qu'elle n'y est pas encore arrivée, il [^p236-1]
 
 [^p236-1]: BOUSSINESQ : Leçons synthétiques de mécanique générale, p. 1 .
 
-[p. 237]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 237] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 237
 
 serait absurde de conclure qu'elle n'y arrivera jamais. Le
@@ -11504,11 +10894,7 @@ rimentale des principes et la représentabilité nécessaire des
 éléments . Elle ne forme d'ailleurs avec elles qu'un seul tout ;
 elles sont toutes trois liées ensemble indissolublement ¹ . [^p237-1]
 
-[^p237-1]: Il importe de noter que les expressions : particulier et général , marche du particulier au général ou du général au particulier ne se rencontrent guère chez les fondateurs de la tradition méca- niste. Le mot général recouvrait une marchandise qu'avaient trop
-
-[p. 238]
-
-238
+[^p237-1]: Il importe de noter que les expressions : particulier et général , marche du particulier au général ou du général au particulier ne se rencontrent guère chez les fondateurs de la tradition méca- niste. Le mot général recouvrait une marchandise qu'avaient trop [p. 238] 238
 L'ANALYSE DES DOCTRINES.
 
 Ainsi , le mécanisme est un nominalisme véritable
@@ -11570,9 +10956,7 @@ commune, son corps matériel si l'on peutdire. Laconception de la
 notion commune et celle de la nature simple, nous aident à com-
 prendre l'élément du mécanisme. Car celui-ci en dérive.
 
-[p. 239]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES. 239
+[p. 239] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES. 239
 
 Q'est-ce qui caractérise alors la progression du raison-
 nement scientifique, car il est incontestable que ce raison-
@@ -11610,9 +10994,7 @@ moyenne que sa simplicité avait déjà permis d'apercevoir [^p239-1]
 
 [^p239-1]: Comment cette marche est-elle possible ? Elle n'est possible que si l'on part d'un fait privilégié, dirait Bacon, d'une réalité immé- diatement aperçue par l'esprit, dira Descartes, et si l'on peut réduire progressivement d'autres faits au premier et aux propriétés et aux relations qu'il implique nécessairement. Ledéveloppement historique du mécanisme n'est qu'une adaptation de ce processus général à l'objet de la physique.
 
-[p. 240]
-
-240
+[p. 240] 240
 L'ANALYSE DES DOCTRINES .
 
 et d'énoncer, avant même que ces faits nouveaux soient
@@ -11659,7 +11041,7 @@ phénomènes mécaniques. La nature est un système .
 18.
 On a souvent présenté cette affirmation comme un
 postulat du mécanisme. Le mécanisme serait le résultat
-d'une croyance a priori et d'une idée préétablie relatives
+d'une croyance *a priori* et d'une idée préétablie relatives
 à l'homogénéité de la matière. Il semble qu'on renverse
 ainsi l'ordre logique et psychologique des assises de la
 théorie mécaniste . L'homogénéité de la matière n'est ni un
@@ -11670,9 +11052,7 @@ façon systématique (car c'est d'une méthode analogue que [^p240-1]
 
 [^p240-1]: Cf. RIBOT, Evolution des idées générales, p. 38. (Paris, F. Alcan.)
 
-[p. 241]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
+[p. 241] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
 241
 
 relèvent au fond toutes les découvertes antérieures, mais
@@ -11716,11 +11096,7 @@ d'appliquer la méthode mathématique et de procéder mathé-
 matiquement ? On a défini souvent la mathématique la
 
 REY.
-16
-
-[p. 242]
-
-242
+16 [p. 242] 242
 L'ANALYSE DES DOCTRINES .
 
 science de la mesure ; et bien que cette définition soit très
@@ -11755,17 +11131,13 @@ mathématique, comme elle est la fin de toutes les sciences,
 si une loi est un rapport précis, et si un rapport précis
 est une relation métrique entre des grandeurs .
 Or, il est facile de le voir, l'homogénéité de l'objet est
-la condition sine qua non de la possibilité de la mesure.
+la *condition sine qua non* de la possibilité de la mesure.
 On ne mesure que ce qui est composé de parties homogènes
 entre elles et à l'unité choisie, que ce qui peut être consi-
 déré comme constitué par une addition indéfinie de l'unité
 à elle-même .
 Avec le mécanisme, le problème est donc tellement sim-
-plifié qu'il est résolu d'avance. Par son homogéniété, con-
-
-[p. 243]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+plifié qu'il est résolu d'avance. Par son homogéniété, con-[p. 243]CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 243
 
 séquence nécessaire de tout le système, l'objet de la science
@@ -11805,11 +11177,7 @@ physique théorique. S'il est un mérite qu'on ne peut dénier
 C'est aussi celui de la facilité et de la simplicité .
 Les critiques du mécanisme lui ont reproché souvent
 la complexité de certaines explications particulières. Et
-il s'est trouvé incontestablement chez certains savants, chez
-
-[p. 244]
-
-244
+il s'est trouvé incontestablement chez certains savants, chez [p. 244] 244
 L'ANALYSE DES DOCTRINES.
 
 ceux qui se recommandaient le plus manifestement du
@@ -11850,11 +11218,7 @@ si la contexture des phénomènes recouvrait peut-être des
 cation inouïe ; qu'on ne la pouvait déjouer qu'en recou-
 rant à une méthode statistique, comme dans la théorie ciné-
 tique des gaz , ou - ce qui revient au même- en aban-
-donnant le détail pour fixer les grandes lignes de l'en-
-
-[p. 245]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+donnant le détail pour fixer les grandes lignes de l'en-[p. 245]CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 245-
 
 semble, comme dans les systèmes d'équations différen-
@@ -11902,9 +11266,7 @@ nistes trop pressées d'entrer dans le détail des phénomènes
 sont d'une complication inouïe . Le mécanisme proclame
 par là même sa croyance en la non simplicité des lois natu-
 
-[p. 246]
-
-246
+[p. 246] 246
 L'ANALYSE DES DOCTRINES.
 
 relles, d'accord avec tous les travaux scientifiques du xixe
@@ -11952,9 +11314,7 @@ prétendront à l'objectivité que lorsqu'elles [^p246-1]
 
 [^p246-1]: Voir à ce sujet J. PERRIN, La Discontinuité de la matière (Revue du mois, mars 1906, p. 323) .
 
-[p. 247]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
+[p. 247] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
 247
 
 seront expérimentalement vérifiées en elles-mêmes ou par
@@ -12003,11 +11363,7 @@ qu'il peut éprouver en ouvrant les yeux ou entournantla tête. Dès
 lors, les
 les hypothèses moléculaires peuvent prendre une portée que la
 comparaison suivante indique suffisamment.
-On aurait certainement pu, sans l'aide du microscope, arriver à
-
-[p. 248]
-
-248
+On aurait certainement pu, sans l'aide du microscope, arriver à [p. 248] 248
 L'ANALYSE DES DOCTRINES .
 
 l'expérience de possible sera devenue réelle. L'objectivité
@@ -12036,7 +11392,7 @@ Il s'alimente surtout de discussions dialectiques
 
 penser que les maladies contagieuses étaient dues à la multiplica-
 tion de très petits êtres vivants. On aurait pu, guidé par cette idée
-a priori, découvrir à peu près toute la technique pastorienne. On
+*a priori*, découvrir à peu près toute la technique pastorienne. On
 aurait fait ainsi de la science déductive et guéri les maladies conta-
 gieuses, mais suivant une voie condamnée par les partisans de la
 seule méthode inductive, tout au moins jusqu'au jour où le micros-
@@ -12056,9 +11412,7 @@ de la légitimité de leur méthode, les atomistes ont su les prouver à
 nouveau par d'éclatantes découvertes dont la théorie corpusculaire a
 su faire un ensemble harmonieux . »
 
-[p. 249]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
+[p. 249] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
 249
 
 qui permettraient au savant, comme à l'historien des
@@ -12098,11 +11452,7 @@ saire du réel. Il veut chasser l'arbitraire aprioristique. A
 mesure qu'il le chasse, cet arbitraire revient au galop .
 Avec cette critique, il faut, pour ne pas sombrer dans
 l'équivoque , s'habituer à un renversement complet des
-termes usuels. Ce que jusqu'ici on appelait subjectif,- les
-
-[p. 250]
-
-250
+termes usuels. Ce que jusqu'ici on appelait subjectif,- les [p. 250] 250
 L'ANALYSE DES DOCTRINES .
 
 nuances individuelles et spécifiques du fait de conscience , -
@@ -12146,9 +11496,7 @@ mêmes . Jamais personne n'ira prétendre, malgré ses con-
 victions idéalistes, que le réel, l'objectif, ce soit dans le
 phénomène qu'il observe, à travers un microscope, la
 
-[p. 251]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
+[p. 251] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
 251
 
 nuance que l'éclairement donna à l'objet, l'altération indi-
@@ -12188,11 +11536,7 @@ mique dans une expérience sur la surface d'équilibre d'un
 liquide) . Le réel, l'objectif, c'est ce qui dans des condi-
 tions semblables se répète semblablement . L'artifice expé-
 rimental , les conventions métriques, n'ont d'autre but que
-de le dégager et de le communiquer avec autant d'exacti
-
-[p. 252]
-
-252
+de le dégager et de le communiquer avec autant d'exacti [p. 252] 252
 L'ANALYSE DES DOCTRINES .
 
 tude et de précision que possible. L'expérience, pratiquée
@@ -12228,9 +11572,7 @@ Si l'existence objective , c'est ce qui peut affecter nos sens,
 les sciences physico-chimiques, dans l'interprétation méca-
 niste , ont une valeur objective complète .
 
-[p. 253]
-
-CHAPITRE
+[p. 253] CHAPITRE
 III
 
 Les Tendances actuelles du Mécanisme comparées
@@ -12279,11 +11621,7 @@ mécanisme, on estfrappé de l'allure dogmatique du système.
 Certes, il fait bien une place à l'hypothèse, mais il la fait
 restreinte . Il ne vient pas à l'idée d'un physicien du xvu ou
 du xvme siècle d'apporter des restrictions à la portée, à la
-valeur, à la légitimité de ses inductions. Emettre un doute
-
-[p. 254]
-
-254
+valeur, à la légitimité de ses inductions. Emettre un doute [p. 254] 254
 L'ANALYSE DES DOCTRINES .
 
 -
@@ -12336,9 +11674,7 @@ et Galilée, bien que ce dernier fût plus près de l'esprit de
 
 !
 
-[p. 255]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES.
+[p. 255] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES.
 255
 
 doute et d'incertitude, Hobbes , Huyhens, les Bernouilli,
@@ -12384,11 +11720,7 @@ Apporximations, la plupart de nos formules, hypothèses,
 la plupart de nos représentations des phénomènes. La cri-
 tique à laquelle on a soumis le mécanisme a eu ses bons
 côtés . Elle a forcé celui-ci à restreindre ses ambitions , à
-mieux préciser ce qu'il croit acquis , enfin à rétablir la
-
-[p. 256]
-
-256
+mieux préciser ce qu'il croit acquis , enfin à rétablir la [p. 256] 256
 L'ANALYSE DES DOCTRINES .
 
 souplesse, la liberté qui ne doiventjamais être exclues dela
@@ -12433,9 +11765,7 @@ buissons parasites,
 les endroits pierreux se multiplient
 sans même arrêter le travailleur. Il sait que dans l'état
 
-[p. 257]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES.
+[p. 257] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES.
 257
 
 actuel de cette grande culture, il chercherait en vain et
@@ -12488,11 +11818,7 @@ cédé fécond. Il la voit comme une forme universelle de la
 science , un état permanent d'où certaines connaissances ne
 
 REY.
-17
-
-[p. 258]
-
-258
+17 [p. 258] 258
 L'ANALYSE DES DOCTRINES .
 
 sortent que pour laisser place à d'autres. Il avoue l'hypo-
@@ -12537,9 +11863,7 @@ pour montrer son caractère métaphysique. [^p258-1]
 
 [^p258-1]: BOLTZMAN, Ueber die Prinzipien der Mechanick, p. 35 (Leipzig 1903).
 
-[p. 259]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES.
+[p. 259] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES.
 259
 
 La notion de cause avait un sens substantiel ; partant,
@@ -12582,11 +11906,7 @@ possibilités de doute et de critique .
 Ainsi , toutes les affirmations du mécanisme doivent être
 comprises, non dans un sens dogmatique et substantialiste,
 'mais dans un sens phénoméniste et relativiste .
-5. - a) On ne manquera pas de se demander alors quelle
-
-[p. 260]
-
-260
+5. - a) On ne manquera pas de se demander alors quelle [p. 260] 260
 L'ANALYSE DES DOCTRINES.
 
 différence il y a entre l'énergétique et le mécanisme. Car on
@@ -12632,11 +11952,7 @@ L'énergétique n'admet pas- en gros
 
 -
 
-que la systéma-
-
-[p. 261]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+que la systéma-[p. 261]CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 261
 
 tisation théorique soit guidée uniquement par l'expérience .
@@ -12677,11 +11993,7 @@ nitive quand elle provient directement des rapports que
 manifeste l'expérience, hypothétique tant que ces rapports
 sont simplement conjecturés et que l'expérience ne les a
 pas encore vérifiés . Le mécanisme conserve donc son ori-
-ginalité par sa subordination complète à l'expérience,
-
-[p. 262]
-
-262
+ginalité par sa subordination complète à l'expérience, [p. 262] 262
 L'ANALYSE DES DOCTRINES .
 
 même dans ses parties les plus conjecturales. Son phéno-
@@ -12723,11 +12035,7 @@ qu'elle doit toujours leur ajouter quelque chose .
 c) Cette différence en entraîne une autre. L'énergétique
 est essentiellement ce que Poincaré appelle, en caractéri-
 sant une étape de l'évolution de la physique, une physique
-des principes . Elle se soucie peu d'aboutir à une représen-
-
-[p. 263]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
+des principes . Elle se soucie peu d'aboutir à une représen-[p. 263]CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
 263
 
 tation des phénomènes, à une figuration imaginative, jus-
@@ -12768,11 +12076,7 @@ nous fait donc retomber, du moinsjusqu'à présent, et tout
 porte à croire qu'il en sera toujours ainsi, sur des phéno-
 mènes mécaniques. Si l'on ajoute à cette raison, cette
 autre raison qui lui est nécessairement corollaire, que
-les phénomènes les plus simples et, par conséquent, les
-
-[p. 264]
-
-264
+les phénomènes les plus simples et, par conséquent, les [p. 264] 264
 L'ANALYSE DES DOCRTINES .
 
 premiers étudiés dans la nature, ont été le mouvement et
@@ -12819,9 +12123,7 @@ voulait en partant de la réalité absolue en rendre complė-
 tement raison. Le vieux mécanisme n'était pas une repré-
 sentation (la seule représentation possible, étant donnés les
 
-[p. 265]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
+[p. 265] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
 265
 
 choses et notre esprit), mais l'analyse exacte des choses .
@@ -12861,11 +12163,7 @@ représentations visuelles, tout cela devait chez les esprits
 systématiques faire naître une tendance à exclure la force
 des principes et des éléments irréductibles du système. De
 là toutes les résistances chez les cartésiens du xvme siècle
-à accepter la mécanique newtonienne et l'hypothèse des
-
-[p. 266]
-
-266
+à accepter la mécanique newtonienne et l'hypothèse des [p. 266] 266
 L'ANALYSE DES DOCTRINES .
 
 forces centrales. De là, le reproche adressé à Newton, de
@@ -12912,9 +12210,7 @@ traire de la doctrine ¹ . [^p266-1]
 
 [^p266-1]: STALLO, La matière et la Physique moderne, p. 11, 12. (F. Alcan).
 
-[p. 267]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES.
+[p. 267] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES.
 267
 
 -
@@ -12955,11 +12251,7 @@ masse en en faisant une fonction du mouvement . Tous sont
 mécanistes , parce qu'ils prennent leur point de départ dans
 des mouvements réels .
 Vouloir réduire le mécanisme à telle formule stricte,
-c'est se refuser à comprendre le mécanisme contemporain,
-
-[p. 268]
-
-268
+c'est se refuser à comprendre le mécanisme contemporain, [p. 268] 268
 L'ANALYSE DES DOCTRINES .
 
 son phénoménisme, son relativisme, sa souplesse, son
@@ -13001,12 +12293,10 @@ siques , n'autorisent plus que cette définition : le mécanisme
 est la théorie qui considère les sciences physico-chimiques
 comme fondées sur la représentation de
 mouvement
-laquelle est, in abstracto, l'objet de la mécanique . Plus
+laquelle est, *in abstracto*, l'objet de la mécanique . Plus
 simplement encore le mécanisme est la théorie qui consi
 
-[p. 269]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
+[p. 269] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
 269
 
 dère
@@ -13051,9 +12341,7 @@ science nous
 ramène constamment sont les conditions
 nécessaires et suffisantes d'une systématisation définitive .
 
-[p. 270]
-
-270
+[p. 270] 270
 L'ANALYSE DES DOCTRINES .
 
 La région obscure est si vaste par rapport à celle de la
@@ -13098,9 +12386,7 @@ fice. La notion de mouvement ? Il serait même plus précis
 de dire « la représentation de mouvement » , car il s'agit
 d'images perceptives et non de notions conceptuelles .
 
-[p. 271]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 271] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 271
 
 La physique électronique est une théorie figurative et
@@ -13143,9 +12429,7 @@ l'expérience ; de lå les modificationr incessantes des théo-
 1. LIPPMANN, préface à là Théorie moderne des phénomènes physiques
 de RIGHI, p . 4.
 
-[p. 272]
-
-272
+[p. 272] 272
 L'ANALYSE DES DOCTRINES ,
 
 ries et parfois leur bouleversement profond. Seul, un carac-
@@ -13187,9 +12471,7 @@ grandes lignes qu'une expérience constamment confirmée,
 que des hypothèses constamment fécondes, nous permet-
 tront de tracer. On construira une représentation très sché
 
-[p. 273]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES.
+[p. 273] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES.
 273
 
 matique, effleurant seulement les apparences phénomé-
@@ -13228,11 +12510,7 @@ aussi bien l'être que l'autre
 ; toutes deux même peuvent
 être fausses sans rien changer dans l'ensemble du système. [^p273-1]
 
-[^p273-1]: De même Mme CURIE (Revue scientifique du 24 novembre 1906) conclut sa leçon d'ouverture, en avertissant, après avoir exposé l'hypothèse particulière à laquelle elle se rallie, touchant lasource de l'énergie dégagée par le radium, qu'on tienne compte des autres , car elles peuvent avoir leur intérêt et leur fécondité. RKY. 18
-
-[p. 274]
-
-274
+[^p273-1]: De même Mme CURIE (Revue scientifique du 24 novembre 1906) conclut sa leçon d'ouverture, en avertissant, après avoir exposé l'hypothèse particulière à laquelle elle se rallie, touchant lasource de l'énergie dégagée par le radium, qu'on tienne compte des autres , car elles peuvent avoir leur intérêt et leur fécondité. RKY. 18 [p. 274] 274
 L'ANALYSE DES DOCTRINES .
 
 Ces constructions passagères, adjuvants nécessaires de la
@@ -13275,9 +12553,7 @@ général, leur physionomie. Mais tandis que dans l'ancien
 mécanisme, la forme des éléments figurés, détails par
 détails, les enchaînements qui reliaient ces éléments, leurs
 
-[p. 275]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 275] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 275
 
 jeux et leurs réactions réciproques, avaient pour but de
@@ -13326,11 +12602,7 @@ m'en tiens plus assuré que tout autre ; mais je ne saurais élever
 aucune objection de principe contre une méthode suivie par d'aussi
 grands physiciens . » (H. VON HELMHOLTZ : Préface à l'ouvrage de
 H. Hertz : die Principien der Mechanik, p . XXI , cité par Duhem, Revue
-générale des sciences, 1903, p . 258 В.)
-
-[p. 276]
-
-276
+générale des sciences, 1903, p . 258 В.) [p. 276] 276
 L'ANALYSE DES DOCTRINES .
 
 Comme l'a dit Hertz, la théorie électromagnétique de
@@ -13368,9 +12640,7 @@ nous ramènent, presque par définition, mais en tout cas, [^p276-1]
 
 [^p276-1]: Peut-être vaudrait- il mieux dire alors cinétisme . Mais rien ne prouve que la notion de force, ou d'autres notions, ne soient requises pour l'explication du mouvement lui-même. Or, le mot cinétisme a été, jusqu'ici, réservé pour les théories qui rejettent toutes ces notions et n'admettent que le mouvement pur. Le cinétisme n'est donc qu'une espèce du genre mécanisme . De ce que les théories actuelles inclinent vers le cinétisme, on n'a pas le droit d'absorber en lui toutes les possibilités du mécanisme .
 
-[p. 277]
-
-CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
+[p. 277] CONTINUATEURS DU MÉCANISME , HYPOTHÈSES FIGURATIVES .
 277
 
 «
@@ -13414,9 +12684,7 @@ est plus pour rien. En cesens l'autonomie de la physique est
 [^p277-1]: J. BOUSSINESQ : Leçons synthétiques de mécanique générale,
 [^p277-2]: BOUSSINESQ : Théorie analytique de la Chaleur, t. I. p. xv . p. 1.
 
-[p. 278]
-
-278
+[p. 278] 278
 L'ANALYSE DES DOCTRINES .
 
 respectée, car la physique se réunit avec la mécanique en un
@@ -13460,9 +12728,7 @@ n'en va pas toujours avec aisance. Dans le mécanisme,
 rien de tel. Et ce n'est pas qu'on élude la difficulté. C'est
 bien que cette difficulté n'existe pas .
 
-[p. 279]
-
-CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
+[p. 279] CONTINUATEURS DU MÉCANISME, HYPOTHÈSES FIGURATIVES .
 279
 
 La généralisation,
@@ -13480,9 +12746,7 @@ aussi peut-être le secret des critiques que lui adressent ceux
 qui, plus exclusivement mathématiciens , sont aussi plus
 exclusivement des manieurs d'idées .
 
-[p. 281]
-
-LIVRE V
+[p. 281] LIVRE V
 
 CONCLUSIONS HISTORIQUES GÉNÉRALES
 
@@ -13523,9 +12787,7 @@ nisme , par la démonstration de sa stérilité, puis à la fail-
 lite de la physique, enfin à la faillite de la science expé-
 rimentale .
 
-[p. 282]
-
-282
+[p. 282] 282
 CONSÉQUENCES PHILOSOPHIQUES .
 
 J'avais résolu de consulter sur ces points les physiciens
@@ -13559,18 +12821,14 @@ tion fidèle de la nature telle qu'elle nous apparaît, une des-
 cription systématique .
 4º Cette objectivité, qui a son garant dans l'expérience,
 est forcément limitée par l'expérience actuelle, Lorsqu'on
-s'appuyait sur des intuitions a priori, cette objectivité pou-
+s'appuyait sur des intuitions *a priori*, cette objectivité pou-
 vait prétendre à n'avoir aucune limite ; les principes intui-
 tifs devaient trouver leur application dans tous les phé-
 nomènes physico-chimiques et suffire à les expliquer tous .
 On conçoit, par contre, qu'une science fondée sur l'expé-
 rience ne peut plus admettre de telles prétentions. Elle ne
 sait que ce que l'expérience lui a enseigné. L'avenir reste
-ouvert nécessairement à de nouveaux enseignements. Et
-
-[p. 283]
-
-comme la science physique est récente, ces enseigne-
+ouvert nécessairement à de nouveaux enseignements. Et [p. 283] comme la science physique est récente, ces enseigne-
 ments seront sans doute incomparablement plus riches
 que ceux que nous possédons actuellement. De là le
 rôle et la place énormes qui doivent être laissés à l'hypo-
@@ -13607,11 +12865,7 @@ logue. Et b) en tout cas s'il y a des divergences, elles
 s'expliquent par ce fait bien naturel que la science est loin
 d'avoir épuisé ses recherches, ce qui serait la condition
 nécessaire de l'unité de la systématisation . Si donc l'hy-
-pothèse joue un rôle énorme et nécessaire dans cette tâche
-
-[p. 284]
-
-284
+pothèse joue un rôle énorme et nécessaire dans cette tâche [p. 284] 284
 CONSÉQUENCES PHILOSOPHIQUES .
 
 et, par suite, si des hypothèses différentes peuvent être
@@ -13654,9 +12908,7 @@ tique.>>>
 Tout cela est exact, littéralement exact, mais n'est exact
 que littéralement. On a pris des formules extrêmement
 
-[p. 285]
-
-CONCLUSIONS HISTORIQUES GÉNÉRALES .
+[p. 285] CONCLUSIONS HISTORIQUES GÉNÉRALES .
 285
 
 nettes , des formules de polémique, incisives, tranchantes
@@ -13698,9 +12950,7 @@ de la théorie elle-même ? Qui pourrait le nier ? De pareilles
 limites à l'arbitraire théorique et subjectif sont nécessaire-
 ment de très étroites limites .
 
-[p. 286]
-
-286
+[p. 286] 286
 CONSÉQUENCES PHILOSOPHIQUES .
 
 Dans l'exposé didactique de ses idées, Duhem peut bien
@@ -13712,7 +12962,7 @@ qu'en réalité, dans l'œuvre vivante du physicien,
 on part toujours de l'expérience et que l'arbitraire est stric-
 tement limité par ses données ? Claude Bernard avait déjà
 remarqué dans son introduction à la médecine expérimen-
-tale qu'il ne peut pas y avoir de point de départ a priori.
+tale qu'il ne peut pas y avoir de point de départ *a priori*.
 Mème dans les sciences mathématiques, et il cite à l'appui
 de son dire un témoignage d'Euler, les prémisses sont
 nécessairement fournies parl'observations de relation entre
@@ -13744,9 +12994,7 @@ tales ; autrement dit, il faut et il suffit, comme dans la con-
 ception deDuhem, que la théorie physiquecoïncideavec tout
 notre savoir expérimental, et que ses conséquences soient
 
-[p. 287]
-
-CONCLUSIONS HISTORIQUES GÉNÉRALES .
+[p. 287] CONCLUSIONS HISTORIQUES GÉNÉRALES .
 287
 
 toujours vérifiéesparl'expérience, à mesure que l'expérience
@@ -13792,9 +13040,7 @@ physico-chimique .
 Mais ce faisant, loin de ruiner la valeur objective des
 sciences physico-chimiques, ils n'avaient qu'un but : l'affir-
 
-[p. 288]
-
-288
+[p. 288] 288
 CONSÉQUENCES PHILOSOPHIQUES .
 
 mer comme la donnée primordiale qui rationnellement per-
@@ -13803,7 +13049,7 @@ L'expérience , est, par définition, une connaissance de
 l'objet . Dans la science physique, cette définition est mieux
 que partout ailleurs à sa place; et elle est plus nette que
 partout ailleurs. La physique s'est établie comme science
-en s'opposant à la spéculation a priori de la scolastique.
+en s'opposant à la spéculation *a priori* de la scolastique.
 Elle s'est fondée contre l'arbitraire d'un raisonnement dia-
 lectique et vide, contre l'idée préconçue devantlaquelle on
 veut à toute force faire plier les faits. L'expérience est ce
@@ -13837,11 +13083,7 @@ fait, enferment nécessairement une part de convention, car
 elles sont des signes et un langage. Il est trop évident qu'un
 degré ou qu'une calorie n'existent pas objectivement, pas
 plus que les signes qui les désignent dans les calculs, ou
-les mots qu'on emploie pour enparler. Ce qui existe objec-
-
-[p. 289]
-
-CONCLUSIONS HISTORIQUES GÉNÉRALES .
+les mots qu'on emploie pour enparler. Ce qui existe objec-[p. 289]CONCLUSIONS HISTORIQUES GÉNÉRALES .
 289
 
 tivement, cequi est immuable et fixe, c'est le résultat auquel
@@ -13888,11 +13130,7 @@ comme instable et illusoire, sont encore, sont toujours le
 résultat d'une relation entre des éléments encore plus ténus,
 
 RAY.
-19
-
-[p. 290]
-
-290
+19 [p. 290] 290
 CONSÉQUENCES PHILOSOPHIQUES .
 
 plus fugaces. Lorsque les psychologues anglais soutenaient
@@ -13934,9 +13172,7 @@ j'ai le droit de dire : Toutes nos connaissances , et par suite
 tous nos états de conscience sont du même ordre. Si les
 unes sont objectives, les autres le sont aussi. Si des expé
 
-[p. 291]
-
-CONCLUSIONS HISTORIQUES GÉNÉRALES.
+[p. 291] CONCLUSIONS HISTORIQUES GÉNÉRALES.
 291
 
 riences, celles du rêve, sont réelles, les autres, celles du
@@ -13977,11 +13213,7 @@ science l'a prolongée .
 Les erreurs commises, les changements de point de vue
 dans la théorie, les différences d'interprétation, la néces-
 sité de conventions, ne sont pas plus un argument contre
-l'objectivité de la physique que les illusions des sens contre
-
-[p. 292]
-
-292
+l'objectivité de la physique que les illusions des sens contre [p. 292] 292
 CONSÉQUENCES PHILOSOPHIQUES .
 
 l'objectivité de la perception extérieure. Le fait qu'il y a
@@ -13994,9 +13226,7 @@ sa théorie s'accordent avec les résultats de l'expérience,
 prouve que la théorie aune valeur objective et n'a de sens
 que par sa valeur objective .
 
-[p. 293]
-
-APPENDICE
+[p. 293] APPENDICE
 
 NOTE SOMMAIRE SUR L'OBJECTIVITÉ
 DES THÉORIES RÉCENTES DE LA PHYSIQUE
@@ -14037,11 +13267,7 @@ représentations : nous
 disons : sans représentations, nous ne disons pas sans
 images, car la représentation peut
 être conceptuelle,
-comme l'intuition ou le fait mathématique, sans cesser
-
-[p. 294]
-
-294
+comme l'intuition ou le fait mathématique, sans cesser [p. 294] 294
 THÉORIE DE LA PHYSIQUE .
 
 d'avoir une valeur ou une prétention objective. C'est enfin,
@@ -14085,9 +13311,7 @@ plus, nous prévoyions l'absorption de l'énergétisme dans
 une attitude réaliste plus large, qui nous a semblé être la
 voie véritable de ces sciences .
 
-[p. 295]
-
-APPENDICE .
+[p. 295] APPENDICE .
 295
 
 Nous avons développé les raisons qui nous semblaient
@@ -14129,9 +13353,7 @@ que de la matière¹ ? [^p295-1]
 
 [^p295-1]: Cf. notamment, parmi les ouvrages de W. Ostwald, traduits en français : L'Evolution et l'Electrochimie, traduit en 1912 par E. Phi- lippi, Paris, Alean. Lire en particulier le Chap. ix (les Ionistes ) et le Chap. XI (l'Electron), surtout les dernières lignes qui forment la conclusion de l'ouvrage.
 
-[p. 296]
-
-296
+[p. 296] 296
 THÉORIE DE LA PHYSIQUE .
 
 Comme l'avait entrevu génialement Aug. Comte, c'était
@@ -14180,9 +13402,7 @@ En attendant, nous voudrions éviter certaines équivoques
 et indiquer sommairement comment, au point de vue de sa
 << forme logique » seule ici en cause, l'évolution récente de
 
-[p. 297]
-
-APPENDICE .
+[p. 297] APPENDICE .
 297
 
 la physique- comme nous l'avons dit dans la préface -
@@ -14223,11 +13443,7 @@ II
 
 De la théorie cinétique des gaz, la plus ancienne en date.
 puisqu'elle remonte, sous sa fornte utilisable, à Clausius, à
-Maxwell et à Boltzmann, nous n'avons pas grand chose à
-
-[p. 298]
-
-298
+Maxwell et à Boltzmann, nous n'avons pas grand chose à [p. 298] 298
 THÉORIE DE LA PHYSIQUE.
 
 dire, car elle rentre absolument et sans équivoque possible,
@@ -14261,7 +13477,7 @@ du xxe siècle a apporté à la théorie, qui remonte àcinquante
 ans plus haut, c'est une assise expérimentale sérieuse . Celle-
 ci non seulement la légitime par un accord satisfaisant du
 calcul et des lectures métriques, mais encore l'impose
-a posteriori, de telle façon que l'avenir pourra la modifier,
+*a posteriori*, de telle façon que l'avenir pourra la modifier,
 mais non la renverser.
 Bien entendu, rien ne nous autorise à faire de l'atome un
 être métaphysique. Mais tout nous force à le considérer
@@ -14273,9 +13489,7 @@ Contrairement à la théorie énergétique, la théorie ciné- [^p298-1]
 
 [^p298-1]: C'est en ce sens que Comte considérait l'hypothèse atomistique comme une bonne hypothèse.
 
-[p. 299]
-
-APPENDICE .
+[p. 299] APPENDICE .
 299
 
 -
@@ -14317,11 +13531,7 @@ purement cinétiques sont essentiellement réversibles , tandis
 que l'évolution thermodynamique est essentiellement irré-
 versible : le principe de Carnot n'est que l'expression de
 cette irréversibilité et de cette unilatéralité de l'évolution .
-Sil'onmélange deux masses degazà température différente,
-
-[p. 300]
-
-300
+Sil'onmélange deux masses degazà température différente, [p. 300] 300
 THÉORIE DE LA PHYSIQUE .
 
 il s'établira immédiatement un état d'équilibre thermique et
@@ -14366,9 +13576,7 @@ celui-ci ne fait que concrétiser ce que pourrait réaliser
 dans l'expérience un concours de hasards tout à fait in-
 vraisemblable, c'est entendu, mais qui n'existe pas moins
 
-[p. 301]
-
-APPENDICE .
+[p. 301] APPENDICE .
 301
 
 forcément : une des combinaisons possibles. Hautement
@@ -14410,9 +13618,7 @@ mentales des chaleurs spécifiques des gaz et des solides
 (aux moyennes températures) soit sous pression constante,
 soit sous volume constant, etc.
 
-[p. 302]
-
-302
+[p. 302] 302
 THÉORIE DE LA PHYSIQUE .
 
 Le mouvement brownien est l'agitation désordonnée
@@ -14455,9 +13661,7 @@ articulations qui la sous -tendent. De ce genre est la théorie
 cinétique des gaz Le souci d'y démêler les postulats, les
 simplifications , et les interpolations n'y doit pas faire ou
 
-[p. 303]
-
-APPENDICE .
+[p. 303] APPENDICE .
 303
 
 blier l'énorme masse de données expérimentales qui la
@@ -14500,9 +13704,7 @@ ture même de l'atome. En un mot l'image électronique est [^p303-1]
 [^p303-1]: On trouvera un exposé sommaire mais dégageant de façon remarquablement précise toutes les idées essentielles de la théorie cinétique des gaz dans le petit volume que E. Bloch lui a consacré sous ce titre dans la collection Armand Colin (Paris) .
 [^p303-2]: J. Perrin , Les atomes, 1 vol . de la « Nouvelle collection scienti- fique » , collection Borel, Paris, Alcan, 1913 .
 
-[p. 304]
-
-304
+[p. 304] 304
 THÉORIE DE LA PHYSIQUE .
 
 plus figurative et plus intuitive que celle de la constitution
@@ -14548,9 +13750,7 @@ parPlanck lorsque la notion de charge électrique élémen- [^p304-1]
 
 [^p304-1]: Revue philosophique (1913, 1914, 1917, 1918).
 
-[p. 305]
-
-APPENDICE .
+[p. 305] APPENDICE .
 305
 
 taire pouvait déjà être considérée comme acquise. Logi-
@@ -14602,11 +13802,7 @@ Mais, celle-ci étant imposée déjà par la liaison de l'énergie
 et des éléments de la réalité physique, le fait que la struc-
 
 REY.
-20
-
-[p. 306]
-
-306
+20 [p. 306] 306
 THÉORIE DE LA PHYSIQUE .
 
 ture de l'atome l'implique à son tour pour être cohérente et
@@ -14648,9 +13844,7 @@ nement ne peut varier que par « quanta > indovosibles, le
 quantumd énergie étant égal au produit de la fréquence de
 l'oscillateur qui émet le rayonnement par une constante
 
-[p. 307]
-
-APPENDICE .
+[p. 307] APPENDICE .
 307
 
 universelle. Planck a été conduit à cette conception, avons-
@@ -14688,9 +13882,7 @@ de liberté, il est impossible d'interpréter les écarts par [^p307-1] [^p307-2
 [^p307-2]: Ce sont les dérivées des coordonnées de position par rapport au temps , dérivées exprimées algébriquement par un choix conve- nable de leurs combinaisons linéaires. h
 [^p307-3]: Cette valeur est 1, hdésignant une constanteuniverselle, inver- sement proportionnelle à la température absolue : la constante ther- mique des gaz.
 
-[p. 308]
-
-308
+[p. 308] 308
 THÉORIE DE LA PHYSIQUE .
 
 défaut que l'expérience révèle pour le même gaz aux basses
@@ -14732,9 +13924,7 @@ La théorie des quanta s'applique de plus en plus à tous
 les phénomènes où il s'agit d'échanges d'énergie entre
 l'éther et la matière (effet photo-électrique, production des
 
-[p. 309]
-
-APPENDICE .
+[p. 309] APPENDICE .
 309
 
 rayons X et de leurs rayons cathodiques secondaires ,
@@ -14781,9 +13971,7 @@ d'un très grand nombre de phénomènes. Elle est impliquée
 àpeu près dans toutes les profondeurs de l'explication phy-
 sique (structure de l'atome, détermination du magnéton).
 
-[p. 310]
-
-310
+[p. 310] 310
 THÉORIE DE LA PHYSIQUE . [^p310-1]
 C'est qu'elle « détermine probablement le domaine élémen-
 taire de probabilité dans toutes les questions de mécanique
@@ -14825,9 +14013,7 @@ ment) . La constante h est une contrainte intellectuelle .
 
 [^p310-1]: Langevin, Les progrèsdela physique moléculaire, 46 (Paris, 1914).
 
-[p. 311]
-
-APPENDICE .
+[p. 311] APPENDICE .
 311
 
 Nous retrouvons ici nos conclusions sur l'objectivité re-
@@ -14867,9 +14053,7 @@ de l'évolution qui nous a fait distinguer le rève de laveille , [^p311-1]
 
 [^p311-1]: Pas plus que pour les autres théories nous n'avons l'intention d'exposer ici la théorie de la relativité. Nous nous contenterons d'indiquer tout-à-fait sommairement la manière dontnous envisageons ses rapports avec le but que nous poursuivons ici : l'interprétation que la théorie de la connaissance peut donner de la théorie de la physique.
 
-[p. 312]
-
-et l'illusion des sens de la donnée empirique objective
+[p. 312] et l'illusion des sens de la donnée empirique objective
 (c'est-à-dire invariante, ou suffisamment invariante à
 notre échelle). Le sens commun ce fut, il y a des millé
 naires, le paradoxe et la science ardue . Notre science
@@ -14914,9 +14098,7 @@ en particulier sa théorie de la physique qui est centrale,
 plus on voit qu'elle a été la claire et systématique détermi-
 nation de toute l'orientation etde tout l'esprit de la science
 
-[p. 313]
-
-APPENDICE .
+[p. 313] APPENDICE .
 313
 
 moderne . Descartes ne définit le mouvement, comme le
@@ -14958,9 +14140,7 @@ l'espace, c'est-à-dire de la réalité même. L'espace, étant [^p313-1]
 
 [^p313-1]: C'est ce qui reste flou dans Galilée. C'est sur quoi reviendront Leibnitz et les newtoniens (sinon Newton) .
 
-[p. 314]
-
-314
+[p. 314] 314
 THÉORIE DE LA PHYSIQUE .
 
 parfaitement isotrope, homogène et infini, il n'est possible
@@ -15002,9 +14182,7 @@ miques) exprimant toujours des variations corrélatives , se
 formuleront toujours aussi par des relations avec des para-
 mètres selon lesquels se repèrent les variations de quelque
 
-[p. 315]
-
-APPENDICE .
+[p. 315] APPENDICE .
 315
 
 nature qu'elles soient. De là d'ailleurs la nécessité de
@@ -15053,9 +14231,7 @@ C'est un arbitraire, qui est fort loin de l'anthropomor-
 
 [^p315-1]: Cette expression nous semble préférable à celle de réalisme, parce qu'elle est moins empirique, moins sensualiste, moins maté- rielle, et évite les confusions avec les autres sens du mot réalisme, dans la théorie de la connaissance.
 
-[p. 316]
-
-316
+[p. 316] 316
 THÉORIE DE LA PHYSIQUE .
 
 phisiné qualitatif dont la physique s'est à peu près et en
@@ -15097,9 +14273,7 @@ tridimensionnel, et que l'on puisse toujours passer d'un [^p316-1]
 
 [^p316-1]: Nous dirons désormais uniquement physique, étant entendu que le mécanisme et par suite la mécanique céleste sont compris dans 'acception du mot .
 
-[p. 317]
-
-APPENDICE .
+[p. 317] APPENDICE .
 317
 
 système à l'autre par des translations rectilignes et uni-
@@ -15140,9 +14314,7 @@ parfaitement transparent de tous les phénomènes physiques [^p317-1]
 [^p317-1]: Parce que Galilée a posé les deux principes dont on les a déri- vées après Newton : inertie et indépendance des mouvements . Mais l'expression claire et distincte de ces deux principes, leur dégage- ment complet de la mécanique scolastique sont plus encore peut- être dus à Descartes qui a, en outre, inventé la méthode des coor- données .
 [^p317-2]: L'espace absolu est l'écho de la substantification cartésienne de l'étendue .
 
-[p. 318]
-
-318
+[p. 318] 318
 THÉORIE DE LA PHYSIQUE .
 
 -
@@ -15178,9 +14350,7 @@ tésienne, c'est l'univers où la mesure n'est astreinte à au- [^p318-1]
 
 [^p318-1]: Il est à peine besoin de faire remarquer que tout ce que nous venons de dire doit s'entendre rationnellement. Dans les mesures empiriques , il y aura toujours des écarts avec les notions concep- tuelles que nous venons d'établir. Mais ces écarts seront, toujours dans les limites des erreurs d'expérience, distribués selon la loi des grands nombres autour des valeurs vraies. Il y aura tout un système de corrections connues et explicites qui approcheront sans cesse des valeurs vraies. Le résultat de l'expérience ne peut être considéré comme valable, comme vrai, que si l'on a corrige ces erreurs. L'ob- jectif est la limite rationnelle de l'expérience ; nous risquerions : la notion ou l'intuition intelligible autourde laquelle oscille l'expérience et dont elle s'approche indéfiniment.
 
-[p. 319]
-
-APPENDICE .
+[p. 319] APPENDICE .
 319
 
 cune loi restrictive. Les résultats sont invariants, du côté
@@ -15224,9 +14394,7 @@ physique et le mouvement comme notion représentative
 fondamentale de la phénoménalité objective, ou, plus clai-
 rement, des variations objectives .
 
-[p. 320]
-
-320
+[p. 320] 320
 THÉORIE DE LA PHYSIQUE .
 
 VI
@@ -15260,7 +14428,7 @@ des résultats , approximativement concordants avec l'expé-
 rience (à un très haut degré du reste) , que pour des mouve-
 ments et des événements à notre échelle .
 Si , par une énergique ἑπιστρόφη, nous nous détournons
-dela caverne des opinions a priori que le sens commun
+dela caverne des opinions *a priori* que le sens commun
 nous impose inconsciemment, pour chercher à nous placer
 au point de vue de l'univers, nous voyons d'abord qu'il est
 impossible de séparer le temps de l'espace et de les opposer
@@ -15268,9 +14436,7 @@ l'un à l'autre . Vous posez sur votre table votre porte-plume.
 Vous faites le tour de cette table et vous reprenez votre
 porte-plume : à l'endroit où vous l'avez laissé ? Relative
 
-[p. 321]
-
-APPENDICE .
+[p. 321] APPENDICE .
 321
 
 ment à vous, peut-être ? Mais dans l'univers ? Pour un
@@ -15284,7 +14450,7 @@ plement le fait en évidence que nous invoquons l'exemple,
 pourquoi sa représentation du monde était-elle divisée
 en une géométriede l'espace, et une arithmétique du temps
 totalement indépendantes ? Parce que, répondait le sens
-commun, a priori, l'espace est donné intuitivement d'un
+commun, *a priori*, l'espace est donné intuitivement d'un
 côté, et le temps de l'autre. Dans l'espace tout ordre est
 relatif ; dans le temps l'ordre irréversible est absolu. « Je
 ne vois pas l'endroit de l'espace où j'ai repris mon porte-
@@ -15295,7 +14461,7 @@ un autre. Mais je sais que je l'ai repris 10 secondes après
 l'avoir posé, et tout le monde le sait avec moi. Il y a là un
 axe privilégié de repérage, un absolu qui ne dépend pas de
 l'observateur. Eh bien ! c'est là qu'est l'erreur introduite
-par une idée a priori que toute l'expérience dément, à
+par une idée *a priori* que toute l'expérience dément, à
 l'analyser de façon exacte et objective. Le temps dépend
 de vous, observateur, aussi bien que l'espace. Le temps
 que vous mesurez, c'est votre temps local et non pas le
@@ -15314,11 +14480,7 @@ du système de l'observateur par rapport à celuid'un autre
 système, que dans les expériences à l'intérieur du système
 
 RBY.
-21
-
-[p. 322]
-
-322
+21 [p. 322] 322
 THÉORIE DE LA PHYSIQUE .
 
 comme le sont toutes celles du sens commun. Mais dès
@@ -15366,9 +14528,7 @@ Quoi ? D'abord la méconnaissance de ce fait qu'il s'agit [^p322-1]
 
 [^p322-1]: Nous avons appelé ainsi l'univers de Galilée- Descartes- Newton, car il est le résultat de la tradition mécaniste suivie depuis la Renaissance jusqu'à la fin du xaxe siècle .
 
-[p. 323]
-
-APPENDICE .
+[p. 323] APPENDICE .
 323
 
 de poser comme fondamental : tout événement physique
@@ -15389,14 +14549,14 @@ commun par une complication conceptuelle irreprésentable
 etmalai-ément intelligible .
 Pas du tout. C'est que la notion de temps a subi une
 modification profonde, en devenant un axe de coordonnées .
-De concept a priori, elle est devenue donnée physique expέ-
+De concept *a priori*, elle est devenue donnée physique expέ-
 rimentale. Le temps de la mécanique galiléenne n'était pas
 en soi affecté par ce qui se passait dans l'espace , et ne
 l'affectait que par sa parfaite et uniforme irréversibilité.
 Dans notre théorie nouvelle de la relativité, ceci n'est
 plus vrai : le temps est affecté par le mouvement et son
 irréversibilité qui n'est plus uniforme, à la limite (à la
-vitesse de la lumière) se change en un statu quo absolu . Il
+vitesse de la lumière) se change en un *statu quo* absolu . Il
 ne s'écoule plus .
 La raison de cette intrication de l'espace et du temps par
 le mouvement est d'expérience objective : voilà ce qu'il
@@ -15406,13 +14566,9 @@ définir qu'avec le mouvement (le temps par le mouvement,
 et réciproquement le mouvement par le temps). Le mouve-
 ment, c'est-à-dire l'espace parcouru. Mais là encore, in-
 consciemment, le sens commun avait négligé cette réalité,
-pour concevoirun temps a priori, idéal, vide et subjectif.
+pour concevoirun temps *a priori*, idéal, vide et subjectif.
 Et ce temps subjectif, il le maintenait en face de l'espace
-objectif. Or, à quelle condition ce temps était-il possible
-
-[p. 324]
-
-324
+objectif. Or, à quelle condition ce temps était-il possible [p. 324] 324
 THÉORIE DE LA PHYSIQUE .
 
 dans la mesure physique, c'est-à-dire susceptible d'appar-
@@ -15428,7 +14584,7 @@ mème privilège.
 -
 
 Or, le concept d'action instantanée est une vue de l'esprit
-a priori. Toute l'expérience, toute la réalité physique la
+*a priori*. Toute l'expérience, toute la réalité physique la
 condamnent sans appel. L'hypothèse est insoutenable ob-
 jectivement. Une action se transmet toujours avec une vi-
 tesse imaginable et l'expérience, l'expérience de Michelson
@@ -15455,11 +14611,7 @@ C'est ce qu'avait déjà entrevu Lorenz . Il avait imaginé en
 même temps que Fitzgerald, pour rétablir la concordance
 de l'expérience de Michelson avec la composition des vi-
 tesses , fait d'expérience, que tout corps matériel se con-
-tractait dans le sens de son mouvement de la quantité né-
-
-[p. 325]
-
-APPENDICE .
+tractait dans le sens de son mouvement de la quantité né-[p. 325]APPENDICE .
 325
 
 cessaire et suffisante pour rétablir cette concordance. Les
@@ -15501,9 +14653,7 @@ d'Einstein ? Elle signitie l'élimination de toute influence,
 donc de tout arbitraire subjectif, venant du mouvement de
 l'observateur - non accéléré .
 
-[p. 326]
-
-326
+[p. 326] 326
 THÉORIE DE LA PHYSIQUE .
 
 -
@@ -15553,9 +14703,7 @@ de l'observateur. » Ou
 enfin : « Nos mesures sont indépendantes du mouvement
 rectiligne et uniforme de l'observateur. » La parenthèse
 
-[p. 327]
-
-APPENDICE .
+[p. 327] APPENDICE .
 327
 
 <<rectiligne etuniforme » restreint ledomaine des mouve-
@@ -15596,11 +14744,7 @@ lesquelles en réalité, ne coïncident pas avec elles, surtout
 si nous considérons les plus importantes d'entre elles, celles
 de notre sens électromagnétique, c'est-à-dire de notre sens
 visuel qui est, chez l'homme, pour la représentation de
-l'univers, le sens capital. Nous avons donc fait vers l'objec
-
-[p. 328]
-
-328
+l'univers, le sens capital. Nous avons donc fait vers l'objec [p. 328] 328
 THÉORIE DE LA PHYSIQUE .
 
 tivité un progrès qui n'a de comparable par sonimportance
@@ -15641,11 +14785,7 @@ contenterons de noter le caractère objectif du « principe de
 relativité générale , comme l'a nommé Einstein et surtout
 de sa théorie de la gravitation ¹ . [^p328-1]
 
-[^p328-1]: Ce développement intéresse beaucoup plus l'unité de la phy-
-
-[p. 329]
-
-APPENDICE .
+[^p328-1]: Ce développement intéresse beaucoup plus l'unité de la phy-[p. 329]APPENDICE .
 329
 
 D'ailleurs à notre sentiment, le principe de relativité
@@ -15682,7 +14822,7 @@ sique, unité qu'il réalise à pas de géants, que son caractère objectif.
 Celui-ci reste sensiblement posé de même façon qu'avec le principe
 de relativité restreinte. C'est le développement du même point de
 vue de connaissance. Ce que nous avons dit du premier vaut -
-a fortiori, oserait-on affirmer - pour le second. Il est un achève-
+*a fortiori*, oserait-on affirmer - pour le second. Il est un achève-
 ment, dans l'état actuel de la physique théorique.
 1. Du moins, c'est la conclusion que nous impose l'examen de
 tous les essais de vulgarisation que nous avons lus jusqu'ici. Pour
@@ -15690,9 +14830,7 @@ les exposés techniques, citons surtout celui de Weyl, traduit en
 français : Temps, espace, matière, Paris , Blanchard, 1922, et celui de
 Jean Becquerel.
 
-[p. 330]
-
-330
+[p. 330] 330
 THÉORIE DE LA PHYSIQUE .
 
 vions déjà que les forces d'inertie, la force centrifuge par
@@ -15736,9 +14874,7 @@ voyage autour de la Lune) . A l'intérieurde ce système clos,
 tombant en chute libre, dans le champ de gravitation de la
 masse attirante, subissant des accélérations diverses sur son
 
-[p. 331]
-
-APPENDICE .
+[p. 331] APPENDICE .
 33г
 
 orbite , accélérations aisément calculables, pour tout obser-
@@ -15787,9 +14923,7 @@ de repère à l'extérieur (si nous sommes dans une enveloppe opaque)
 rienne pourra déceler notre gravitation jusqu'à la rencontre d'un
 bstacle.
 
-[p. 332]
-
-332
+[p. 332] 332
 THÉORIE DE LA PHYSIQUE .
 
 -
@@ -15825,9 +14959,7 @@ Si nous nousen tenions à cette simple extension de la rela- [^p332-1]
 
 [^p332-1]: N'oublions pas que la coordonnée de temps dans le continu quadridimensionnel, de Minkowski , n'est pas interchangeable avec Ics coordonnées d'espace. C'est une grandeur imaginaire, partant qui ne peut se classer dans la suite des nombres réels (négatifs ou posi- tifs), et qui individualise absolument la direction de temps : l'axe des temps ne peut sortir d'un domaine unique auquel les axes d'es- pace restent toujours extérieurs. Nous ne pouvons insister, mais nous pensons qu'il est incorrect de dire que l'univers physique d'Einstein réduit, comme on le soutient parfois, le temps à l'espace, et qu'il nous met en présence d'un espace à quatre dimensions. Non, d'un continu à quatre dimensions dont trois, représentant l'espace, sont interchangeables et peuvent tourner autour de l'origine dans tout le domaine extérieur à un cône qui, lui, enferme nécessairement la dimension temporelle.
 
-[p. 333]
-
-APPENDICE .
+[p. 333] APPENDICE .
 333
 
 tivité aux actions de gravitation, nos mesures ne seraient
@@ -15874,9 +15006,7 @@ Le mouvement accéléré pose donc
 
 c'était facile à pré-
 
-[p. 334]
-
-334
+[p. 334] 334
 THÉORIE DE LA PHYSIQUE .
 
 -
@@ -15921,14 +15051,12 @@ physiques. Celles-ci sont absolument objectives , à l'égard
 de la situation (lato sensu) de l'observateur .
 Le problème a été résolu comme il l'avait été pour les
 
-[p. 335]
-
-APPENDICE .
+[p. 335] APPENDICE .
 335
 
 mouvements non accélérés , mais il était bien plus difficile .
 Einstein a cherché et trouvé une transformation des coor-
-données, analogue mutatis mutandis à la transformation
+données, analogue *mutatis mutandis* à la transformation
 qu'il avait su voir dans les formules de Lorenz. Celle-ci
 devient un cas particulier de la transformation générale,
 comme le principe de relativité restreinte n'est plus qu'un
@@ -15967,9 +15095,7 @@ physicien. C'est par là que se sont accomplis les grands
 progrès de la physique. Mais il faut signaler, écarter toute
 équivoque.
 
-[p. 336]
-
-336
+[p. 336] 336
 THÉORIE DE LA PHYSIQUE .
 
 IX
@@ -16015,9 +15141,7 @@ générale, la théorie de la gravitation s'harmonise avec la
 théorie électromagnétique. Mais, chose dignede remarque,
 dans cette harmonisation il n'y a pas développement unila
 
-[p. 337]
-
-APPENDICE .
+[p. 337] APPENDICE .
 337
 
 latéral d'une même théorie, mais développement bilatéral .
@@ -16067,11 +15191,7 @@ relation étroite entre la nature des coor-
 données, qui sont des lignes d'espace et de temps, et les
 
 REY,
-22
-
-[p. 338]
-
-338
+22 [p. 338] 338
 THÉORIE DE LA PHYSIQUE .
 
 unités de mesures qui sont des segments de longueur et
@@ -16122,9 +15242,7 @@ tion fonctionnelle de l'unité
 
 Quel subjectif, quelle variabilité pourrait bien entrer
 
-[p. 339]
-
-APPENDICE .
+[p. 339] APPENDICE .
 339
 
 encore dans la détermination, c'est-à-dire dans la mesure
@@ -16152,7 +15270,7 @@ fonde encore de la physique: savoir l'intégration dans la
 géométrie générale de l'univers, de l'unité d'action et du
 quantum d'énergie qui, pour le moment, restent hors de
 l'édifice? C'est la physique de demain. Et cela nous paraît,
-àcause des procédés ici uniquement a priori, la grande
+àcause des procédés ici uniquement *a priori*, la grande
 aventure. [^p339-1]
 
 X
@@ -16163,9 +15281,7 @@ vers une représentation de l'univers, représentation à la
 
 [^p339-1]: Rappelons-le encore, car c'est capital. Si déjà, avec le principe de relativité générale d'Einstein il paraît qu'on entre dans Thypo- thèse, avec Weyl, et avec Eddington, on s'y enfonce toujours plus avant. Il n'y a plus ici aucune nécessité expérimentale, maisdes vues de l'esprit, hanté par les idées d'unité et d'objectivité.
 
-[p. 340]
-
-340
+[p. 340] 340
 THÉORIE DE LA PHYSIQUE .
 
 fois
@@ -16216,9 +15332,7 @@ intrinsèques. Rien de l'espace vide euclidien, mais un réel
 dont
 le plissement intini et infiniment diversifié rend
 
-[p. 341]
-
-APPENDICE .
+[p. 341] APPENDICE .
 341
 
 compte, sous des lois très simples logiquement liées , non
@@ -16265,13 +15379,11 @@ traint peu à peu notre intelligence à l'intelligible comme
 la courbe vers son asymptote. C'est par l'intelligence
 que nous nous approchons du réel, à travers l'expé-
 rience et grâce à elle. Un Malebranche qui aurait dé-
-laissé tout a priori, pourrait cependant encore dire ici
+laissé tout *a priori*, pourrait cependant encore dire ici
 
 : « Au principe était le verbe et le verbe s'est fait univers . >>>
 
-[p. 342]
-
-342
+[p. 342] 342
 THÉORIE DE LA PHYSIQUE .
 
 Il faut donc donner à ces expressions : réel, représentation
@@ -16299,7 +15411,7 @@ pitoyables de nos sens. Il faut songer dans une certaine
 mesure à l'intellectualisme de Condillac si l'on veut com-
 prendre ce que nous avons l'intention d'exprimer : un in-
 tellectualisme expérimental, l'intelligence de l'expérience,
-et inséparable d'elle, et venant après elle, a posteriori .
+et inséparable d'elle, et venant après elle, *a posteriori* .
 Qu'est-ce donc enfin que ce réel-géométrie et non point
 ce réel géométrique au sens commundu mot ?
 C'est ce que partout nous avons appelé « l'objectif
@@ -16315,9 +15427,7 @@ lité, s'ouvraient soudain presque en même temps. Car
 on peut suivre la continuité sous la brusquerie des tour
 nants .
 
-[p. 343]
-
-APPENDICE .
+[p. 343] APPENDICE .
 343
 
 Cet objectif, c'est l'invariant, l'indépendance de toutes
@@ -16361,9 +15471,7 @@ ferméjusqu'ici ; il doit être pénétré de la certitude que notre [^p343-1]
 
 [^p343-1]: Nous commenterons ailleurs ce relationnel en nous efforçant de montrer en lui <<l'ordre intelligible » indépendant de notre subjecti- vité humaine, de notre sensibilité plus ou moins individualisée.
 
-[p. 344]
-
-344
+[p. 344] 344
 APPENDICE .
 
 raison n'est pas seulement un pis aller humain, par trop
@@ -16376,9 +15484,7 @@ parvenus à nos oreilles¹ . »
 
 1. H. Weyl , Temps, espace, matière. Paris, 1922 .
 
-[p. 345]
-
-PRÉPACE
+[p. 345] PRÉPACE
 
 TABLE DES MATIÈRES
 
@@ -16448,11 +15554,7 @@ CHAP . IV .
 155
 
 166
-188
-
-[p. 346]
-
-346
+188 [p. 346] 346
 TABLE DES MATIÈRES .
 
 LIVRE IV

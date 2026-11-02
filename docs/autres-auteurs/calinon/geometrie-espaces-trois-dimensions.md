@@ -12,9 +12,7 @@ title: "Introduction à la géométrie des espaces à trois dimensions"
 
 ## I. Étude sur la sphère, la ligne droite et le plan
 
-[p. 1]
-
-ÉTUDE
+[p. 1] ÉTUDE
 
 SUR
 
@@ -38,11 +36,7 @@ Cie
 
 1888
 
-[p. 2]
-
-[p. 3]
-
-ÉTUDE
+[p. 2] [p. 3] ÉTUDE
 
 SUR
 
@@ -62,9 +56,7 @@ Propriétés élémentaires des figures sphériques.
 
 Ligne géodésique et cercle.[^p3-1]
 
-[p. 4]
-
-géométrie plane : c'est ce point que nous allons mettre plus particulièrement en lumière dans la présente étude en abordant directement la géométrie sphérique.
+[p. 4] géométrie plane : c'est ce point que nous allons mettre plus particulièrement en lumière dans la présente étude en abordant directement la géométrie sphérique.
 
 Ajoutons d'ailleurs que la sphère, considérée comme porte d'entrée à la géométrie, présente divers avantages
 
@@ -76,15 +68,12 @@ Ce travail étant, bien entendu, destiné aux personnes versées dans les mathé
 
 On définit souvent, en mécanique, solide invariable, un solide dans lequel deux points quelconques conservent leur distance ; cette définition n'est rigoureuse qu'en apparence, car si l'on considère la distance comme une longueur mesurable, on fait un cercle vicieux ; il faut, en effet, avant de mesurer des longueurs, savoir ce que c'est qu'une figure qui se déplace en conservant sa forme.
 
-[p. 5]
-
-3. Nous désignerons d'une façon générale par la lettre S une surface identique à elle-même dans toutes ses parties, c'est-àdire telle qu'une figure située sur S puisse y être déplacée arbitrairement sans déformation. Nous appellerons ligne géodésique ou simplement géodésique de la surface S une ligne située sur S et telle que par deux points de S il en passe toujours une et généralement une seule. Sur une même surface S toutes les géodésiques sont des lignes égales, car, si Get G' sont deux de ces géodésiques, on peut toujours déplacer G', par exemple, sur S sans déformation et amener deux de ses points sur G, G' coïncide alors avec G puisque par ces deux points, pourvu qu'ils aient été choisis convenablement, il ne passe qu'une géodésique.
+[p. 5] 3. Nous désignerons d'une façon générale par la lettre S une surface identique à elle-même dans toutes ses parties, c'est-àdire telle qu'une figure située sur S puisse y être déplacée arbitrairement sans déformation. Nous appellerons ligne géodésique ou simplement géodésique de la surface S une ligne située sur S et telle que par deux points de S il en passe toujours une et généralement une seule. Sur une même surface S toutes les géodésiques sont des lignes égales, car, si Get G' sont deux de ces géodésiques, on peut toujours déplacer G', par exemple, sur S sans déformation et amener deux de ses points sur G, G' coïncide alors avec G puisque par ces deux points, pourvu qu'ils aient été choisis convenablement, il ne passe qu'une géodésique.
 
 Lorsqu'une géodésique G tourne sur la surface S autour d'un de ses points O à partir d'une position initiale G., elle engendre un angle GOG 。 ; quand les deux angles GOG, et GOG,' sont égaux, ils sont droits et les deux géodésiques sont perpendiculaires. Pour les angles adjacents d'un même côté d'une géodésique, les angles opposés par le sommet, etc., les théorèmes et les démonstrations sont les mêmes qu'en géométrie plane.
 
 G
 
-#### M
 
 Go
 
@@ -92,15 +81,12 @@ Go
 
 G.[^p5-1]
 
-[p. 6]
-
-5. Nous avons dit que par les deux points Pet P₁ de S il passe toujours une géodésique et généralement une seule (3), il peut donc dans certains cas en passer plus d'une
+[p. 6] 5. Nous avons dit que par les deux points Pet P₁ de S il passe toujours une géodésique et généralement une seule (3), il peut donc dans certains cas en passer plus d'une
 
 soient donc deux géodésiques G et G' passant par Pet P₁, et menons par Pune
 
 troisième géodésique II faisant avec les deux pre-
 
-#### M
 
 M'mières les angles a et a '. Coupons les trois géodésiques en M, M'et N par un cercle de pôle Pet de
 
@@ -134,11 +120,7 @@ PMP 1
 
 Dédoublons par la pensée ce cercle en deux cercles égaux de pôles Pet P₁ ; dans ces deux cercles égaux les angles au centre MPM'et MP, M'interceptent des arcs égaux, l'arc MM'dédoublé, ces deux angles sont donc égaux (4) ; ainsi quand deux géodésiques ont plusieurs points de rencontre elles se rencontrent toujours sous le même angle ; nous pourrons done dire sans ambiguïté l'angle de deux géodésiques.
 
-6. Supposons que, dans la figure précédente, la géodésique G' tourne autour du point P, elle passera toujours par le point P, et
-
-[p. 7]
-
-les deux angles GPG' et GP, G' resteront égaux entre eux ; ces deux angles deviennent donc ensemble égaux à deux droits et par suite, pour cette position de G ', l'arc PG'P, s'applique sur le prolongement de l'arc PGP, aussi bien au delà du point P que du point P₁ ; en d'autres termes l'arc PG'P₁, dans cette position, complète la géodésique G, laquelle est ainsi une courbe fermée composée de deux arcs égaux à PGP.
+6. Supposons que, dans la figure précédente, la géodésique G' tourne autour du point P, elle passera toujours par le point P, et [p. 7] les deux angles GPG' et GP, G' resteront égaux entre eux ; ces deux angles deviennent donc ensemble égaux à deux droits et par suite, pour cette position de G ', l'arc PG'P, s'applique sur le prolongement de l'arc PGP, aussi bien au delà du point P que du point P₁ ; en d'autres termes l'arc PG'P₁, dans cette position, complète la géodésique G, laquelle est ainsi une courbe fermée composée de deux arcs égaux à PGP.
 
 On en conclut que toutes les géodésiques passant par P se rencontrent seulement en un second point P, et que ces deux points Pet P₁ divisent chaque géodésique en deux arcs égaux. Ce résultat est évidemment applicable aux géodésiques passant par un point quelconque R de la surface S considérée, puisqu'on peut déplacer la figure GPG' sur cette surface de façon à amener le point P en R.
 
@@ -154,9 +136,7 @@ Lorsqu'une géodésique G tourne de deux angles droits autour d'un de ses points
 
 Il résulte évidemment de là que la sphère, engendrée par la rotation d'une courbe fermée tournant autour de deux de ses points, est une surface fermée.
 
-[p. 8]
-
-Un cercle de pôle P a aussi pour pôle le point P, symétrique de P ; le cercle a ainsi deux rayons dont la somme est une demigéodésique : quand ces deux rayons sont égaux on a ce qu'on appelle un grand cercle lequel a pour rayon le quart d'une géodésique ou un quadrans. Tous les grands cercles sont égaux entre eux puisqu'ils ont même rayon.
+[p. 8] Un cercle de pôle P a aussi pour pôle le point P, symétrique de P ; le cercle a ainsi deux rayons dont la somme est une demigéodésique : quand ces deux rayons sont égaux on a ce qu'on appelle un grand cercle lequel a pour rayon le quart d'une géodésique ou un quadrans. Tous les grands cercles sont égaux entre eux puisqu'ils ont même rayon.
 
 Lorsqu'un point P engendre une figure F, son symétrique engendre une seconde figure F' dite symétrique de la première ; si l'on déplace la figure F ' sur la sphère elle est encore symétrique de forme, mais non de position, par rapport à F.
 
@@ -166,7 +146,6 @@ point M de G' est venu en M'sur G ; dans ces conP
 
 M'ditions les deux géodésiques Get G'ayant deux
 
-#### M
 
 points communs non symétriques P et M'coïncident (7) à nouveau et la portion H, qui n'a cessé
 
@@ -186,9 +165,7 @@ Soit une seconde géodésique G₁, cette géodésique a nécessairement un arc 
 
 Théorème. — Deux géodésiques se rencontrent toujours ; nous savons déjà qu'elles se rencontrent en deux points symétriques (7).[^p8-1]
 
-[p. 9]
-
-demi-géodésiques (7), ces arcs sont égaux entre eux ; en retranchant la partie commune A, B il vient AB = A, B,.
+[p. 9] demi-géodésiques (7), ces arcs sont égaux entre eux ; en retranchant la partie commune A, B il vient AB = A, B,.
 
 Donc
 
@@ -268,9 +245,7 @@ Soit un triangle ABC dont les côtés sont a, b et c, le triangle supplémentair
 
 Deux polygones symétriques ont leurs côtés et leurs angles respectivement égaux (9) ; mais les éléments égaux se présentant en ordre inverse, les deux polygones ne peuvent en général coïncider.[^p10-1]
 
-[p. 11]
-
-le même ordre ; on déduit de là B ' = Cou B = C ; donc dans le triangle isoscèle ABC les angles opposés aux côtés égaux sont égaux.
+[p. 11] le même ordre ; on déduit de là B ' = Cou B = C ; donc dans le triangle isoscèle ABC les angles opposés aux côtés égaux sont égaux.
 
 Si l'on applique ce théorème au triangle supplémentaire on obtient le théorème réciproque.
 
@@ -286,7 +261,6 @@ y situés d'un même côté de B'C'; la somme de ces trois angles est donc deux 
 
 B
 
-#### C
 
 Théorème.
 
@@ -300,9 +274,7 @@ Dans un triangle infiniment petit un angle extérieur a pour limite la somme des
 
 δ > C ou β > Cet à plus forte raison A
 
-#### D
 
-#### C
 
 B β + β ' > C ; donc l'angle B opposé au plus grand côté best plus grand que l'angle C. Réciproquement si l'on a B > C on en déduit b > c, car l'hypothèse B > C exclut le cas de b = c qui entraînerait B = C et le cas de b < c qui entraînerait B < C, on a donc forcément b > c.
 
@@ -310,7 +282,6 @@ Soit maintenant un triangle ABC dont l'angle A est encore infiniment petit, prol
 
 ABB est encore un triangle, car le côté AB, différant de AC d'une quantité infiniment petite est inférieur à une demi-géo- A
 
-#### C
 
 B
 
@@ -318,11 +289,7 @@ B
 
 B désique (11). Le triangle isoscèle CBB, donne (12) B₁ = β ; on en déduit B + β > B₁ et par suite dans le triangle ABB, le côté AB, opposé au plus grand angle ABB, est plus grand que le côté AB ; on a donc AC + CB > AB.
 
-Soit enfin un triangle quelconque ABC ; divisons le côté BC en
-
-[p. 12]
-
-parties infiniment petites Bb₁, b₁b₂,
+Soit enfin un triangle quelconque ABC ; divisons le côté BC en [p. 12] parties infiniment petites Bb₁, b₁b₂,
 
 b.C : on a ainsi un réseau
 
@@ -368,7 +335,6 @@ Théorème. — Dans un triangle la somme des côtés est inférieure à 4 quadr
 
 Ce théorème et celui qui précède s'expriment par les formules
 
-#### C
 
 a < b + c
 
@@ -392,9 +358,7 @@ Soient deux triangles ABC et A'B'C'ayant leurs côtés respectivement égaux a =
 
 Théorème. — Quand deux triangles ont leurs trois côtés égaux ils sont égaux ou symétriques.
 
-[p. 13]
-
-Ce théorème, appliqué aux triangles supplémentaires, devient :
+[p. 13] Ce théorème, appliqué aux triangles supplémentaires, devient :
 
 Théorème. — Quand deux triangles ont leurs trois angles égaux ils sont égaux ou symétriques.
 
@@ -418,7 +382,6 @@ B
 
 A
 
-#### C
 
 B
 
@@ -426,17 +389,12 @@ a
 
 6
 
-#### C
 
 Si dans un triangle ABC l'angle A est infiniment petit, le côté a est également infiniment petit par rapport aux côtés bet c ; mais on a b
 
 c < a
 
-(14) ; ainsi les deux
-
-[p. 14]
-
-côtés b et c diffèrent d'une quantité infiniment petite d'euxmêmes.
+(14) ; ainsi les deux [p. 14] côtés b et c diffèrent d'une quantité infiniment petite d'euxmêmes.
 
 Soit maintenant un arc de courbe convexe AB ; inscrivons dans cette courbe une ligne polygonale convexe dont les côtés sont des arcs infiniment petits géodésiques : si, doublant le nombre
 
@@ -486,9 +444,7 @@ bh ou be
 
 b'c'est infiniment petite par rapport à be et b'c'. En continuant ce raisonnement on voit que finalement la différence entre les longueurs des deux lignes polygonales inscrites est infiniment petite par rapport à ces longueurs ; donc ces deux longueurs ont même limite.
 
-[p. 15]
-
-19. On déduit immédiatement de ce qui précède les théorèmes suivants que nous nous bornerons à énoncer :
+[p. 15] 19. On déduit immédiatement de ce qui précède les théorèmes suivants que nous nous bornerons à énoncer :
 
 Théorème.
 
@@ -518,9 +474,7 @@ Trigonométrie sphérique.
 
 Lignes trigonométriques.[^p15-1][^p15-2][^p15-3]
 
-[p. 16]
-
-π l'angle droit est alors
+[p. 16] π l'angle droit est alors
 
 . Nous adopterons les mêmes mesures pour les arcs de géodésique, de sorte que le quadrans corresponπ dant à l'angle droit aura pour mesure.
 
@@ -528,7 +482,6 @@ Lignes trigonométriques.[^p15-1][^p15-2][^p15-3]
 
 l'angle de deux géodésiques se coupant en 0 ; pre-
 
-#### M
 
 nons sur l'un des côtés OM infiniment petit et abaissons MP perpendiculaire sur l'autre côté, nous définirons les lignes trigonométriques de l'angle
 
@@ -562,11 +515,9 @@ COS Il résulte de là que dans un triangle rectangle infiniment petit
 
 on a, en négligeant les infiniment petits d'ordre supérieur :
 
-#### C
 
 a B
 
-#### C
 
 A
 
@@ -586,9 +537,7 @@ Ces formules s'appliquent également au cas d'un triangle rectangle infiniment p
 
 Les lignes trigonométriques d'un arc géodésique sont celles de l'angle correspondant à cet arc.[^p16-1]
 
-[p. 17]
-
-rectangle BHB, (21) НВ₁ = ВВ, cosẞ ; on évaluerait de même la seconde différence A, B₁ — AB₁ ; on a donc
+[p. 17] rectangle BHB, (21) НВ₁ = ВВ, cosẞ ; on évaluerait de même la seconde différence A, B₁ — AB₁ ; on a donc
 
 dl = AA, cosa + BB, cos ẞ Cette formule est fondamentale ; rappelons quelques-unes de ses conséquences Si AB est constant et toujours normal à la courbe C, dl est nul ainsi que cosa ; cosẞ est donc nul aussi et par suite AB reste normal à la courbe C'; les courbes Cet C'sont parallèles.
 
@@ -658,11 +607,7 @@ sino, ce que du reste on
 
 CALINON.
 
-2
-
-[p. 18]
-
-peut obtenir immédiatement en prenant la dérivée de cos sin (
+2 [p. 18] peut obtenir immédiatement en prenant la dérivée de cos sin (
 
 )
 
@@ -760,9 +705,7 @@ sino sin h.
 
 Nous supposerons connues toutes les autres formules relatives à l'addition, la soustraction, la multiplication et la division des angles.
 
-[p. 19]
-
-Lorsque
+[p. 19] Lorsque
 
 est infiniment petit, les développements en série donnent
 
@@ -790,13 +733,11 @@ et par suite : tgo — =
 
 QP
 
-#### M
 
 α
 
 0 étant infiniment petit, les deux côtés MQ, et MP, du triangle P₁M, Q,
 
-#### M
 
 ε
 
@@ -844,9 +785,7 @@ x) = f(x)
 
 (2)
 
-[p. 20]
-
-Différentions l'équation (1) en tenant compte de l'équation (2), on a :
+[p. 20] Différentions l'équation (1) en tenant compte de l'équation (2), on a :
 
 f ' (x) = — f (-x) = — f (x)
 
@@ -880,9 +819,7 @@ a sin x.
 
 Cette formule fondamentale contient, comme nous allons le voir, toute la trigonométrie.[^p20-1]
 
-[p. 21]
-
-pour = 2 π, on a la circonférence totale s = 2
+[p. 21] pour = 2 π, on a la circonférence totale s = 2
 
 sin r. Pour r très petit, on retrouve la formule s == φι (20).
 
@@ -910,9 +847,7 @@ N rentielle de l'aire MOM'est o sin r' MN ; or o sin r' = MM'; cette différenti
 
 Formules relatives aux triangles.[^p21-1]
 
-[p. 22]
-
-tites BB₁, B, B,, B₂B₃, etc... ; on a, d'après ce qui précède, dans
+[p. 22] tites BB₁, B, B,, B₂B₃, etc... ; on a, d'après ce qui précède, dans
 
 ces triangles qui ont en A un angle infiniment
 
@@ -994,7 +929,6 @@ A, et ses éléments sont :
 
 b
 
-#### C
 
 A B = -
 
@@ -1032,7 +966,6 @@ C = C
 
 π
 
-#### C
 
 B₁ =
 
@@ -1068,11 +1001,7 @@ tg c = tg a cos B
 
 (6)
 
-1
-
-[p. 23]
-
-30. Soit maintenant un triangle quelconque ABC ; partageonsle par la hauteur BH en deux triangles rectanB gles BAH et BCH et posons BH = h ; on a,
+1 [p. 23] 30. Soit maintenant un triangle quelconque ABC ; partageonsle par la hauteur BH en deux triangles rectanB gles BAH et BCH et posons BH = h ; on a,
 
 c
 
@@ -1124,9 +1053,7 @@ N
 
 P
 
-#### M
 
-#### C
 
 B tion de M sur le côté BC.
 
@@ -1138,11 +1065,7 @@ sinP dans le triangle PBM :
 
 sin PB
 
-sinM
-
-[p. 24]
-
-sin PA
+sinM [p. 24] sin PA
 
 sinN dans le triangle PAN :
 
@@ -1190,9 +1113,7 @@ sin OM
 
 1 B
 
-#### C
 
-#### M
 
 sin NC
 
@@ -1230,9 +1151,7 @@ sin PA Réciproquement, si les trois points M, N et P satisfont à la relation p
 
 § 3. — Applications à la géométrie sphérique générale.[^p24-1]
 
-[p. 25]
-
-Soient quatre points AB MM, situés sur une même géodésique, le
+[p. 25] Soient quatre points AB MM, situés sur une même géodésique, le
 
 rapport anharmonique
 
@@ -1326,9 +1245,7 @@ Il en résulte que le rapport anharmonique à ne dépend que des angles en P et 
 
 est ainsi appelé, pour cette raison, le rapport anharmonique du faisceau.[^p25-1]
 
-[p. 26]
-
-définis, par rapport aux triangles ABC et A'B'C', au moyen des deux relations
+[p. 26] définis, par rapport aux triangles ABC et A'B'C', au moyen des deux relations
 
 A
 
@@ -1390,15 +1307,12 @@ géodésique passant par un point fixe P
 
 et où le rapport anharmonique des quatre points Pmm'M est constant, le point M étant sur une géodésique fixe L.
 
-#### M
 
 P
 
 /L[^p26-1][^p26-2]
 
-[p. 27]
-
-c'est-à-dire cos MM'= xx ' + sin XM sin XM'(cos a cos a ' + sin a sin a').
+[p. 27] c'est-à-dire cos MM'= xx ' + sin XM sin XM'(cos a cos a ' + sin a sin a').
 
 Mais on a dans le triangle rectangle XMR
 
@@ -1410,7 +1324,6 @@ et de même cos a
 
 Y
 
-#### M
 
 sin XM'
 
@@ -1420,7 +1333,6 @@ z'
 
 Q
 
-#### M
 
 sin a'
 
@@ -1430,7 +1342,6 @@ sin XM ; on en déduit,
 
 YR
 
-#### X
 
 après des simplifications évidentes
 
@@ -1456,21 +1367,17 @@ ABC
 
 On peut à l'aide de ces formules résoudre toutes les questions relatives aux géodésiques, intersections de deux géodésiques, angle de deux géodésiques, distance d'un point de la sphère à une géodésique, etc.[^p27-1]
 
-[p. 28]
-
-39. Cherchons encore en coordonnées polaires l'équation du
+[p. 28] 39. Cherchons encore en coordonnées polaires l'équation du
 
 cercle de pôle P (ρ. ω.) ; soit M un point quelconque (pw) de ce cercle de rayon r ; le triangle
 
 XMP donne
 
-#### M
 
 P
 
 cos r = cos pocos p + sin po sin e cos (ω — ω.).
 
-#### X
 
 Telle est l'équation du cercle ; à une valeur donnée de o correspondent deux rayons vecteurs XM et XM'; pour avoir ces deux rayons vecteurs, il suffit évidemment de résoudre l'équation précédente par rapport à p, w étant considéré comme connu. Pre1 nons comme inconnue auxiliaire u = tg
 
@@ -1552,9 +1459,7 @@ tg
 
 d [^p28-1]
 
-[p. 29]
-
-Considérons, en un point M d'une courbe quelconque, un cercle tangent ; prenons sur la tangente commune MP infiniment petit et élevons en P une perpendiculaire qui coupe la courbe en N et le cercle en N₁ ; on a dans le M
+[p. 29] Considérons, en un point M d'une courbe quelconque, un cercle tangent ; prenons sur la tangente commune MP infiniment petit et élevons en P une perpendiculaire qui coupe la courbe en N et le cercle en N₁ ; on a dans le M
 
 P
 
@@ -1586,7 +1491,7 @@ Cette géométrie sphérique ainsi acquise d'une façon absolument indépendante
 
 NN, 1
 
-### Chapitre Iii.
+### Chapitre III.
 
 Définition de la ligne droite et du plan.
 
@@ -1594,9 +1499,7 @@ Définition de la ligne droite et du plan.
 
 Définition de la droite, d'après Euclide.[^p29-1]
 
-[p. 30]
-
-plan, nous allons tout d'abord rappeler la définition de la ligne droite telle que paraît l'avoir donnée Euclide.
+[p. 30] plan, nous allons tout d'abord rappeler la définition de la ligne droite telle que paraît l'avoir donnée Euclide.
 
 On sait que parmi les propriétés d'une ligne ou d'une surface il y en a qui sont caractéristiques, c'est-à-dire qui s'appliquent à toutes les lignes et seulement aux lignes du genre considéré : ainsi la propriété du foyer et de la directrice est caractéristique des coniques.
 
@@ -1616,11 +1519,7 @@ Précisons par quelques exemples ce que cela veut dire.
 
 Nous avons défini la surface S (3) une surface identique à elle-même dans toutes ses parties, c'est-à-dire telle qu'une figure qui y est située peut y être déplacée arbitrairement sans déformation : cette surface est ainsi définie par rapport à elle-même.
 
-Dans le même ordre d'idées, on peut définir le cercle, consi
-
-[p. 31]
-
-déré comme première courbe, en disant : le cercle est une courbe fermée telle qu'un de ses arcs peut être déplacé sans déformation sur tout le pourtour de la courbe.
+Dans le même ordre d'idées, on peut définir le cercle, consi [p. 31] déré comme première courbe, en disant : le cercle est une courbe fermée telle qu'un de ses arcs peut être déplacé sans déformation sur tout le pourtour de la courbe.
 
 De même enfin, on peut définir la ligne droite une ligne telle que par deux points il n'en passe qu'une.
 
@@ -1640,15 +1539,9 @@ Arrivé à la théorie des parallèles, il introduit son postulatum, auquel on p
 
 P point M s'éloigne indéfiniment du côté de Y, L tend vers une position limite
 
-#### M
 
-#### X
 
-Y et cette droite limite s'appelle une parallèle à XY ; de même si M s'éloigne dans l'autre sens, vers X, la droite L devient encore parallèle à XY et, d'après le postulatum
-
-[p. 32]
-
-d'Euclide, cette seconde position parallèle de L ne diffère pas de la première ; c'est ce qu'on exprime en disant :
+Y et cette droite limite s'appelle une parallèle à XY ; de même si M s'éloigne dans l'autre sens, vers X, la droite L devient encore parallèle à XY et, d'après le postulatum [p. 32] d'Euclide, cette seconde position parallèle de L ne diffère pas de la première ; c'est ce qu'on exprime en disant :
 
 b) Par un point P extérieur à une droite XY on ne peut mener à cette droite qu'une parallèle.
 
@@ -1664,9 +1557,7 @@ Ces trois propriétés, a, b et c, admises, toute la géométrie euclidienne s'e
 
 Nous allons voir au contraire que les trois propriétés a, b et c prises dans leur ensemble, ne sont pas complètement distinctes et que la première est implicitement comprise dans les deux autres.[^p32-1]
 
-[p. 33]
-
-Laissons maintenant de côté la propriété a pour nous en tenir seulement aux propriétés b' et c, et nous allons voir que la proprieté a peut se démontrer.
+[p. 33] Laissons maintenant de côté la propriété a pour nous en tenir seulement aux propriétés b' et c, et nous allons voir que la proprieté a peut se démontrer.
 
 Soient deux plans Pet Q ayant deux droites communes L et L';
 
@@ -1676,11 +1567,9 @@ m
 
 m
 
-#### D
 
 plan Q est, d'après la propriété c, située tout entière dans ce plan Q, lequel contient
 
-#### L
 
 ainsi le point M ; donc tout point M appartenant à l'un des deux plans appartient aussi à l'autre, et les deux plans coïncident. Donc :
 
@@ -1704,11 +1593,7 @@ Soient donc deux droites concourantes ou parallèles Let L', lesquelles détermi
 
 ÇALINON.
 
-3
-
-[p. 34]
-
-les mêmes conditions ; les deux droites D et D'situées dans un même plan P se rencontrent toujours ou sont parallèles (propriété b') ; voilà donc les propriétés b ' et c réunies et nous dirons en considérant le quadrilatère rectiligne formé par les quatre droites L, L', Det D':
+3 [p. 34] les mêmes conditions ; les deux droites D et D'situées dans un même plan P se rencontrent toujours ou sont parallèles (propriété b') ; voilà donc les propriétés b ' et c réunies et nous dirons en considérant le quadrilatère rectiligne formé par les quatre droites L, L', Det D':
 
 Lorsque dans ce quadrilatère les deux côtés opposés L et L'se rencontrent (ou sont parallèles), les deux autres côtés D et D'se rencontrent aussi (ou sont parallèles).
 
@@ -1734,11 +1619,7 @@ Cela posé, soient deux surfaces S et S'ayant les deux directrices D, et D, comm
 
 1
 
-2 1
-
-[p. 35]
-
-et que par suite D, et D, rencontrent à la fois D₂, D₁... et D's, D'.....
+2 1 [p. 35] et que par suite D, et D, rencontrent à la fois D₂, D₁... et D's, D'.....
 
 Si G est une génératrice de S, s'appuyant par conséquent sur D, et D,, G rencontre aussi D', puisque D', rencontre D, et D. ; G rencontrant ainsi une directrice quelconque de S'appartient D à cette surface et par suite Set S'coïncident.
 
@@ -1764,7 +1645,6 @@ Soient deux points met m'du plan P, points situés sur deux génératrices Get G
 
 2
 
-#### L
 
 m'
 
@@ -1802,11 +1682,7 @@ Théorème.
 
 L'intersection de deux plans est une droite.
 
-Enfin, par un point P du plan menons une droite L parallèle à la droite XY, cette parallèle est unique, car s'il y en avait une se
-
-[p. 36]
-
-conde L'passant par P, toutes les droites du plan passant par P et situées dans l'un des angles de Let L'seraient sans point de rencontre possible avec XY et ne lui seraient pas parallèles, се qui est impossible, puisque deux droites situées dans un plan se rencontrent ou sont parallèles (50). Donc :
+Enfin, par un point P du plan menons une droite L parallèle à la droite XY, cette parallèle est unique, car s'il y en avait une se [p. 36] conde L'passant par P, toutes les droites du plan passant par P et situées dans l'un des angles de Let L'seraient sans point de rencontre possible avec XY et ne lui seraient pas parallèles, се qui est impossible, puisque deux droites situées dans un plan se rencontrent ou sont parallèles (50). Donc :
 
 Théorème.
 
@@ -1822,21 +1698,16 @@ Nous ajouterons que, dans la propriété caractéristique du quadrilatère à c�
 
 Passage de la sphère au plan.[^p36-1]
 
-[p. 37]
-
-avons donnée des surfaces S (3). Faisons maintenant tourner la sphère autour de son centre O et d'un de ses points M ; dans cette rotation, la droite indéfinie OM ne cesse de coïncider avec elle-même, puisque, d'après la propriété a, il ne passe qu'une droite par les deux points O et M. Si nous prenons OM'= OM, le point M'appartient à la sphère et à la droite OM ; ce point reste donc fixe dans le mouvement considéré. Traçons sur la sphère une géodésique passant par M et M', suivant la définition que nous avons donnée des géodésiques d'une surface S quelconque (3) ; dans la rotation autour de OM, cette géodésique restera une géodésique de la sphère et passera toujours par les points fixes Met M'; l'exis-
+[p. 37] avons donnée des surfaces S (3). Faisons maintenant tourner la sphère autour de son centre O et d'un de ses points M ; dans cette rotation, la droite indéfinie OM ne cesse de coïncider avec elle-même, puisque, d'après la propriété a, il ne passe qu'une droite par les deux points O et M. Si nous prenons OM'= OM, le point M'appartient à la sphère et à la droite OM ; ce point reste donc fixe dans le mouvement considéré. Traçons sur la sphère une géodésique passant par M et M', suivant la définition que nous avons donnée des géodésiques d'une surface S quelconque (3) ; dans la rotation autour de OM, cette géodésique restera une géodésique de la sphère et passera toujours par les points fixes Met M'; l'exis-
 
 #### IM
 
 0
 
-#### M
 
 tence sur la sphère de géodésiques se coupant en deux points M et M'est ainsi établie ; donc la sphère, d'après notre nouvelle définition, est bien une surface identique à elle-même dans toutes ses parties et sur laquelle des géodésiques peuvent se couper en deux points : nous retombons ainsi sur notre première définition (6) et les deux définitions sont par conséquent équivalentes.[^p37-1][^p37-2]
 
-[p. 38]
-
-Considérons sur P la géodésique de cette surface qui passe par les deux points met m': par ces deux points menons dans l'espace la droite I qui jouit de la propriété a ;
+[p. 38] Considérons sur P la géodésique de cette surface qui passe par les deux points met m': par ces deux points menons dans l'espace la droite I qui jouit de la propriété a ;
 
 cette droite I doit être située sur la surface P,
 
@@ -1858,11 +1729,7 @@ Théorème. — Dans un triangle plan quelconque, la somme des angles est toujou
 
 55. Rappelons en quelques mots que ce théorème équivaut à la propriété b.
 
-Prenons dans un plan un point A sur la perpendiculaire AH à la droite XY ; menons l'oblique AM ; prenons MM₁ = MA ; d'après
-
-[p. 39]
-
-le théorème précédent, l'angle aigu en M est égal à la somme des angles en A et en M₁ du triangle AMM, et comme ce triangle est
+Prenons dans un plan un point A sur la perpendiculaire AH à la droite XY ; menons l'oblique AM ; prenons MM₁ = MA ; d'après [p. 39] le théorème précédent, l'angle aigu en M est égal à la somme des angles en A et en M₁ du triangle AMM, et comme ce triangle est
 
 A
 
@@ -1874,11 +1741,9 @@ M ; en pre- YH isoscèle, on a M₁ =
 
 1
 
-#### M
 
 Ma
 
-#### X
 
 1 M..
 
@@ -1896,9 +1761,7 @@ On retrouve ainsi la propriété c.
 
 En résumé, si l'on admet que la sphère de rayon infini est une surface retournable, cette surface est le plan euclidien et sa géodésique est la droite euclidienne.[^p39-1][^p39-2]
 
-[p. 40]
-
-sin a
+[p. 40] sin a
 
 sinb
 
@@ -1914,7 +1777,6 @@ a
 
 b
 
-#### C
 
 métrie plane sinA
 
@@ -1946,7 +1808,7 @@ b² + c².
 
 57. Nous terminerons par une dernière remarque : c'est que si nous considérons sur la sphère deux figures supplémentaires donnant lieu à deux propriétés corrélatives, l'une de ces deux propriétés est une conséquence de l'autre ; si ces deux propriétés subsistent dans les deux figures lorsque celles-ci, cessant d'être supplémentaires, se réduisent à des dimensions infiniment petites, on est amené à deux propriétés également corrélatives des figures planes ; mais cette corrélation, qui fait dépendre ces deux propriétés l'une de l'autre, n'apparaît simplement que par l'intermédiaire de la sphère ; nous citerons notamment comme théorèmes corrélatifs les deux premiers cas d'égalité des triangles (12) qui sur la sphère se réduisent à un seul cas lorsque l'on considère des triangles supplémentaires ; il suit de là que dans le plan l'un de ces cas d'égalité entraîne l'autre.
 
-### Chapitre Iv.
+### Chapitre IV.
 
 Équations de la droite et du plan.
 
@@ -1954,13 +1816,10 @@ b² + c².
 
 Coordonnées dans l'espace.[^p40-1]
 
-[p. 41]
-
-Donnons-nous seulement comme point de départ la propriété a de la ligne droite (45) et supposons acquise la géométrie sphérique avec la seconde définition que nous avons donnée de la sphère (51)
+[p. 41] Donnons-nous seulement comme point de départ la propriété a de la ligne droite (45) et supposons acquise la géométrie sphérique avec la seconde définition que nous avons donnée de la sphère (51)
 
 : il est bien évident qu'avec ces seules données nous laissons provisoirement de côté et le postulatum d'Euclide (propriété b, 51) et l'existence du plan (propriété c, 51).
 
-#### M
 
 Joignons un point quelconque M de l'espace au centre O de la sphère et soit M'le point où le rayon vecteur OM, c'est-à-dire la droite qui joint les points O et M, perce la sphère ;
 
@@ -1978,11 +1837,9 @@ la sphère le point symétrique de M', le point M de l'espace est représenté, 
 
 59. Soient deux points de l'espace M et M, correspondant sur la sphère aux deux points numériques
 
-#### M
 
 (M'm) et (M'm₁), m et m₁ étant les va-
 
-#### M
 
 leurs des rayons vecteurs OM et OM
 
@@ -1992,9 +1849,7 @@ G'
 
 0 soit (G'g) un troisième point numérique
 
-#### M
 
-#### M
 
 situé sur l'arc géodésique M'M', de la sphère et défini par les relations
 
@@ -2012,9 +1867,7 @@ m
 
 Ce point (G'g) ainsi défini en position G' et en nombre gest le résultant des deux points (M'm) et M'm₁) ; ce point numérique (G'g) détermine dans l'espace un certain point G situé sur la droite OG ' et tel que OG = g : ce rayon vecteur est ce que nous appellerons la résultante des deux rayons vecteurs OM et OM₁.
 
-[p. 42]
-
-Déterminer le résultant (G'g) des points (M'm) et (M'm₁) ou la résultante OG de OM et de OM, c'est composer ces deux points ou ces deux rayons vecteurs : la composition des rayons vecteurs dans l'espace est donc le même problème que la composition des points numériques sur la sphère.
+[p. 42] Déterminer le résultant (G'g) des points (M'm) et (M'm₁) ou la résultante OG de OM et de OM, c'est composer ces deux points ou ces deux rayons vecteurs : la composition des rayons vecteurs dans l'espace est donc le même problème que la composition des points numériques sur la sphère.
 
 Nous appellerons angle de deux rayons vecteurs OM et OM, l'arc géodésique compris entre les points M'et M', où ces rayons vecteurs rencontrent la sphère.
 
@@ -2034,9 +1887,7 @@ m
 
 Si, admettant la théorie des parallèles, on considérait OG comme la diagonale du parallélogramme construit sur OM et OM₁, on aurait les mêmes formules que ci-dessus et OG serait la résultante de OM et OM, dans le sens ordinaire de ce mot. Mais, malgré cette identité apparente, il importe de remarquer que la composition, telle que nous l'avons définie à l'aide de la sphère et de la droite réduite à la propriété a, est absolument indépendante de la théorie des parallèles.[^p42-1][^p42-2]
 
-[p. 43]
-
-et on aura un résultant final en composant (F₂μα) et (M'm₂). Soit maintenant
+[p. 43] et on aura un résultant final en composant (F₂μα) et (M'm₂). Soit maintenant
 
 (F, µ₂)
 
@@ -2058,7 +1909,6 @@ sin M', M',
 
 (2) M
 
-#### M
 
 μα
 
@@ -2136,9 +1986,7 @@ sin F.M'
 
 μ[^p43-1][^p43-2]
 
-[p. 44]
-
-μ vement pour valeur
+[p. 44] μ vement pour valeur
 
 et 2 ; le produit de ces trois rapμ. Μ2
 
@@ -2162,7 +2010,6 @@ Z
 
 AM
 
-#### M
 
 0
 
@@ -2170,7 +2017,6 @@ P
 
 Y
 
-#### X
 
 H
 
@@ -2202,9 +2048,7 @@ Ainsi le rayon vecteur OM est la résultante des trois rayons vecteurs OM cos MX
 
 Si x, y et z sont les coordonnées du point M'sur la sphère, on a
 
-[p. 45]
-
-MX, y = cos MY et z = cos
+[p. 45] MX, y = cos MY et z = cos
 
 MZ, ou x =
 
@@ -2230,17 +2074,14 @@ m² c'est-à-dire X² + Y² + Z² = m².
 
 62. Supposons qu'ayant pris les coordonnées x, y, z d'un point de la sphère par rapport à un triangle triខ rectangle XYZ, nous cherchions les coordonnées de ce même point, x', y', z', par
 
-#### X
 
 rapport à un second triangle trirectangle
 
-#### M
 
 X'Y'Z' ; abaissons MH perpendiculaire sur Y'Z', on a x ' = sin MH = cos MX', de sorte
 
 Y
 
-#### X
 
 Y' que si aẞy sont les coordonnées de X' dans
 
@@ -2248,7 +2089,6 @@ H le triangle XYZ, on a (37)
 
 Z
 
-#### X
 
 cos MX' = ax + By + yz.
 
@@ -2260,9 +2100,7 @@ Lorsqu'il existe entre les trois coordonnées X, Y et Z d'un point M de l'espace
 
 Si l'on a deux équations entre les coordonnées d'un point, ce point est astreint à rester sur deux surfaces et il engendre une courbe.
 
-[p. 46]
-
-En résumé, nous avons ainsi un mode d'expression des figures dans l'espace basé sur un système de coordonnées qui se rattache simplement à la géométrie sphérique et à la propriété a de la ligne droite (45).
+[p. 46] En résumé, nous avons ainsi un mode d'expression des figures dans l'espace basé sur un système de coordonnées qui se rattache simplement à la géométrie sphérique et à la propriété a de la ligne droite (45).
 
 Nous pouvons donc, avec ce point de départ, rechercher la définition complète de la ligne droite et du plan et en donner les équations ; c'est ce que nous allons faire.
 
@@ -2296,11 +2134,7 @@ Ce déterminant représente en général une surface du premier degré et une se
 
 (x'y'z') et (x " y" z ") : on peut entre les trois premières équations (1) éliminer deux paramètres ; on arrive évidemment ainsi à une équation du premier degré en xyz et contenant un seul paramètre du premier degré
 
-; cette équation est donc de la forme a + λβ = 0, a et ẞ étant des polynômes du premier degré en xyz. Ainsi a + λβ = 0, οὐ à est un paramètre arbitraire, représente toutes les surfaces du premier degré passant par les deux points considérés : a = 0 et 3 = 0 sont deux de ces surfa
-
-[p. 47]
-
-ces, elles correspondent à x = 0 et ax = ∞
+; cette équation est donc de la forme a + λβ = 0, a et ẞ étant des polynômes du premier degré en xyz. Ainsi a + λβ = 0, οὐ à est un paramètre arbitraire, représente toutes les surfaces du premier degré passant par les deux points considérés : a = 0 et 3 = 0 sont deux de ces surfa [p. 47] ces, elles correspondent à x = 0 et ax = ∞
 
 ; mais ces deux équations réunies a = 0 et 3 = 0 représentent une ligne du premier degré et pour tout point de cette ligne on a x +
 
@@ -2320,9 +2154,7 @@ Théorème.
 
 Par trois points non situés sur une ligne du premier degré il passe toujours une surface du premier degré et une seule.[^p47-1]
 
-[p. 48]
-
-situés sur une surface du premier degré, elle est située tout entière sur cette surface.
+[p. 48] situés sur une surface du premier degré, elle est située tout entière sur cette surface.
 
 C'est la propriété c de la ligne droite (45).
 
@@ -2332,7 +2164,6 @@ Cette relation exprime qu'une surface du premier degré Aa + BB = 0 passant par 
 
 B forme x = A
 
-#### C
 
 D'Y = D = D
 
@@ -2342,11 +2173,7 @@ Théorème. — Deux lignes du premier degré situées sur une surface du premie
 
 C'est précisément la propriété b' (47), laquelle équivaut, en tenant compte de la propriété c, à la propriété b.
 
-67. Il résulte évidemment de ce qui précède, que la ligne du premier degré est la droite euclidienne et la surface du premier
-
-[p. 49]
-
-degré le plan euclidien, puisque la ligne du premier degré jouit des trois propriétés a, b et c (45).
+67. Il résulte évidemment de ce qui précède, que la ligne du premier degré est la droite euclidienne et la surface du premier [p. 49] degré le plan euclidien, puisque la ligne du premier degré jouit des trois propriétés a, b et c (45).
 
 On a donc là des définitions analytiques complètes du plan euclidien et de la ligne droite euclidienne.
 
@@ -2362,11 +2189,7 @@ On constate, en effet, qu'en cherchant la rencontre de deux droites dans le plan
 
 Ainsi, supposer que les équations de la ligne droite sont algébriques, c'est admettre le postulatum d'Euclide.
 
-[p. 50]
-
-[p. 51]
-
-TABLE DES MATIÈRES
+[p. 50] [p. 51] TABLE DES MATIÈRES
 
 Pages.
 
@@ -2382,7 +2205,7 @@ Ligne géodésique et cercle
 
 Triangles sphériques
 
-### Chapitre Ii. — Trigonométrie Sphérique.
+### Chapitre II. — Trigonométrie Sphérique.
 
 1.
 
@@ -2398,7 +2221,7 @@ Formules relatives aux triangles.
 
 24
 
-### Chapitre Iii. — Définition De La Ligne Droite Et Du Plan.
+### Chapitre III. — Définition De La Ligne Droite Et Du Plan.
 
 31.
 
@@ -2414,7 +2237,7 @@ Passage de la sphère au plan.
 
 Équations de la droite et du plan.
 
-### Chapitre Iv.
+### Chapitre IV.
 
 40
 
@@ -2450,9 +2273,7 @@ BERGER-LEVRAULT ET Cie QUAI DES GRANDS-AUGUSTINS, 55
 
 1891
 
-[p. 2]
-
-[p. 3]
+[p. 2] [p. 3]
 
 ## Introduction
 
@@ -2470,21 +2291,13 @@ Parmi les travaux publiés sur ce sujet, nous n'avons eu entre les mains que la 
 
 Plusieurs autres géomètres ont traité cette question, notamment Riemann, Bolyai, Beltrami, Segré, Ueronèse (la Courbure des espaces à trois dimensions). Malheureusement, n'ayant pas à notre disposition les ressources d'une bibliothèque publique, il nous a été impossible de nous procurer ces travaux : nous espérons toutefois avoir reconstitué ici ces diverses études dans ce qu'elles ont d'essentiel au sujet que nous voulions traiter.
 
-Nous n'avons pas, du reste, la prétention d'apporter à la science des résultats nouveaux ; nous avons simplement essayé de dé
-
-[p. 4]
-
-finir dans une sorte de préface ce qu'est la géométrie générale des divers espaces à trois dimensions, nous réservant de montrer ailleurs l'importance de cette conception au point de vue philosophique.
+Nous n'avons pas, du reste, la prétention d'apporter à la science des résultats nouveaux ; nous avons simplement essayé de dé [p. 4] finir dans une sorte de préface ce qu'est la géométrie générale des divers espaces à trois dimensions, nous réservant de montrer ailleurs l'importance de cette conception au point de vue philosophique.
 
 1. Nous présenterons ici les divers espaces à trois dimensions comme une généralisation des espaces à deux dimensions ou surfaces de la géométrie euclidienne : sous ce point de vue, les caractères distinctifs des espaces devront être les mêmes que ceux des surfaces : prenons, par exemple, une sphère et un cylindre ; la différence de forme de ces deux surfaces résulte de ce fait que si l'on prend une portion de la surface sphérique, on ne peut appliquer cette portion sans la déformer sur la surface cylindrique : nous dirons de même que, dans deux espaces différents, on ne peut introduire une portion de l'un dans l'autre sans la déformer. Étant donnée une surface quelconque, on ne peut, en général, déplacer sur cette surface une portion d'elle-même sans déformation : de même, dans un espace, on ne peut, en général, déplacer sans déformation une partie de cet espace. Il y a cependant des surfaces, comme le plan et la sphère, où les figures peuvent se mouvoir sans se déformer ; nous appellerons ces surfaces surfaces identiques à elles-mêmes ; de même, nous donnerons le nom d'espaces identiques à eux-mêmes à ceux où les figures peuvent se déplacer sans déformation, comme dans l'espace dit euclidien de la géométrie ordinaire. Il y a aussi des espaces où le mouvement peut avoir lieu sans déformation, mais sous réserve de certaines restrictions, comme cela a lieu, par exemple, sur une surface de révolution, où une figure peut se déplacer seulement par rotation autour de l'axe de la surface, mouvement moins général que dans un plan.
 
 Un espace peut être fini ou infini de la même façon qu'une surface, par exemple une sphère ou un cône.
 
-Deux surfaces se coupent suivant une ligne ; nous dirons de même que deux espaces se coupent suivant une surface. Les deux surfaces qui se coupent peuvent en particulier être des surfaces égales, c'est-à-dire qui ne diffèrent que de position ; il en sera de même de deux espaces, lesquels sont dits égaux, quand leurs points se correspondent deux à deux de telle façon que deux
-
-[p. 5]
-
-figures formées par des points correspondants dans les deux espaces sont égales : deux espaces égaux peuvent dès lors coïncider par la coïncidence de leurs points correspondants ; dans le cas contraire, ils se coupent suivant une surface. Deux espaces euclidiens, d'après cela, sont toujours égaux, de la même façon que deux plans. Ainsi, faisons correspondre dans deux espaces euclidiens deux systèmes d'axes de coordonnées rectangulaires et prenons comme points correspondants deux points ayant mèmes coordonnées, il est évident que ces deux points correspondants décriront en même temps des figures égales.
+Deux surfaces se coupent suivant une ligne ; nous dirons de même que deux espaces se coupent suivant une surface. Les deux surfaces qui se coupent peuvent en particulier être des surfaces égales, c'est-à-dire qui ne diffèrent que de position ; il en sera de même de deux espaces, lesquels sont dits égaux, quand leurs points se correspondent deux à deux de telle façon que deux [p. 5] figures formées par des points correspondants dans les deux espaces sont égales : deux espaces égaux peuvent dès lors coïncider par la coïncidence de leurs points correspondants ; dans le cas contraire, ils se coupent suivant une surface. Deux espaces euclidiens, d'après cela, sont toujours égaux, de la même façon que deux plans. Ainsi, faisons correspondre dans deux espaces euclidiens deux systèmes d'axes de coordonnées rectangulaires et prenons comme points correspondants deux points ayant mèmes coordonnées, il est évident que ces deux points correspondants décriront en même temps des figures égales.
 
 De même qu'on peut, dans l'espace euclidien, aller d'un point à un autre en passant par une infinité de surfaces, de même on peut aussi joindre deux points à travers une infinité d'espaces.
 
@@ -2498,9 +2311,7 @@ D'autre part, ces hypothèses ne sont qu'intuitives et elles ne sont géométriq
 
 Tout espace euclidien qui contient deux points d'une droite euclidienne ou trois points non en ligne droite d'un plan euclidien contient entièrement cette droite ou ce plan.
 
-[p. 6]
-
-Soient deux espaces euclidiens E et E₁ ; par trois points de leur surface d'intersection faisons passer un plan euclidien, ce plan ayant trois points dans chacun des espaces E et E, appartient à la fois à ces deux espaces ; ce plan fait donc partie de l'intersection des deux espaces. Si, de plus, il y avait d'autres points d'intersection en dehors de ce plan, deux points du plan et l'un de ces autres points détermineraient encore un second plan euclidien qui ferait partie de l'intersection ; or cela est impossible, car si Pet Q sont les deux plans d'intersection dont il s'agit, toute droite euclidienne D de l'espace E rencontrerait Pet Q en deux points pet gappartenant aussi à l'espace E₁ ; par suite, cette droite D appartiendrait aussi à l'espace E. Donc, toute droite de E appartenant également à E,, les deux espaces E'et E, coïncideraient. Ainsi donc, deux espaces euclidiens se coupent suivant un plan euclidien : soit P ce plan ; prenons dans l'espace E un point O en dehors de ce plan ; toute droite euclidienne joignant le point O à un point de ce plan a deux points dans l'espace E et par conséquent y est située tout entière : cette droite, qui passe ainsi par le point fixe O et un point quelconque du plan P, engendre évidemment l'espace euclidien E ; par suite, cet espace est complètement déterminé quand on se donne le plan Pet un point O en dehors. Le plan euclidien P étant lui-même déterminé par
+[p. 6] Soient deux espaces euclidiens E et E₁ ; par trois points de leur surface d'intersection faisons passer un plan euclidien, ce plan ayant trois points dans chacun des espaces E et E, appartient à la fois à ces deux espaces ; ce plan fait donc partie de l'intersection des deux espaces. Si, de plus, il y avait d'autres points d'intersection en dehors de ce plan, deux points du plan et l'un de ces autres points détermineraient encore un second plan euclidien qui ferait partie de l'intersection ; or cela est impossible, car si Pet Q sont les deux plans d'intersection dont il s'agit, toute droite euclidienne D de l'espace E rencontrerait Pet Q en deux points pet gappartenant aussi à l'espace E₁ ; par suite, cette droite D appartiendrait aussi à l'espace E. Donc, toute droite de E appartenant également à E,, les deux espaces E'et E, coïncideraient. Ainsi donc, deux espaces euclidiens se coupent suivant un plan euclidien : soit P ce plan ; prenons dans l'espace E un point O en dehors de ce plan ; toute droite euclidienne joignant le point O à un point de ce plan a deux points dans l'espace E et par conséquent y est située tout entière : cette droite, qui passe ainsi par le point fixe O et un point quelconque du plan P, engendre évidemment l'espace euclidien E ; par suite, cet espace est complètement déterminé quand on se donne le plan Pet un point O en dehors. Le plan euclidien P étant lui-même déterminé par
 
 19
 
@@ -2520,13 +2331,10 @@ points fixes, on peut par les trois points fixes A, Bet Met le point variable M'
 
 #### M
 
-[p. 7]
-
-variable ; traçons dans cet espace euclidien la droite euclidienne MM'; quand M'vient coïncider avec M, cette droite prend la position limite MT ; c'est ce que nous appellerons la tangente euclidienne à la courbe.
+[p. 7] variable ; traçons dans cet espace euclidien la droite euclidienne MM'; quand M'vient coïncider avec M, cette droite prend la position limite MT ; c'est ce que nous appellerons la tangente euclidienne à la courbe.
 
 Prenons maintenant deux courbes d'un même espace se coupant en M et sur ces deux courbes deux points infiniment voisins met m'; les trois points M, met m'associés à un quatrième point déterminent un espace euclidien ; traçons dans cet espace les deux droites euclidiennes Mm et Mm'; à la limite, ces deux droites deviennent les tangentes euclidiennes aux deux courbes,
 
-#### M
 
 m
 
@@ -2540,7 +2348,6 @@ Soient, sur une surface appartenant à un espace quelconque, un point M et deux 
 
 d'une courbe mobile de la surface, courbe qui coupe Ms et Ms'en met m'. Faisons passer par
 
-#### M
 
 m
 
@@ -2552,11 +2359,7 @@ cet espace euclidien contient dans un de ses plans P les trois droites euclidien
 
 on en déduit que les tangentes euclidiennes à toutes les courbes de la surface en M appartiennent à un même plan euclidien que nous appellerons le plan tangent euclidien à la surface.
 
-Considérons enfin, dans un espace quelconque, trois courbes Ms, Ms'et Ms" passant par un même point. Une surface quelconque passant par M peut être considérée comme la position limite d'une surface variable qui coupe les trois courbes Ms, Ms'et Ms " en m, m'et m". Faisons passer un espace euclidien par les quatre points M, m, m'et m", puis traçons dans cet espace les
-
-[p. 8]
-
-droites euclidiennes Mm, Mm'et Mm" et le plan euclidien mm'm " ; on voit qu'à la limite cet espace euclidien contient à la fois les
+Considérons enfin, dans un espace quelconque, trois courbes Ms, Ms'et Ms" passant par un même point. Une surface quelconque passant par M peut être considérée comme la position limite d'une surface variable qui coupe les trois courbes Ms, Ms'et Ms " en m, m'et m". Faisons passer un espace euclidien par les quatre points M, m, m'et m", puis traçons dans cet espace les [p. 8] droites euclidiennes Mm, Mm'et Mm" et le plan euclidien mm'm " ; on voit qu'à la limite cet espace euclidien contient à la fois les
 
 tangentes euclidiennes aux trois courbes et le
 
@@ -2566,7 +2369,6 @@ m."
 
 M. On en conclut aisément que cet espace euclidien contient les plans tangents euclidiens de toutes
 
-#### M
 
 m
 
@@ -2594,11 +2396,7 @@ ds lim.
 
 dl
 
-Prenons de même sur une surface une aire infiniment petite, triangulaire, MM'M ", dont les trois côtés sont des arcs de courbe situés sur cette surface : dans l'espace euclidien déterminé par les trois points M, M'et M" et un quatrième point quelconque, menons le plan euclidien MM'M " et les droites euclidiennes MM΄, M'M" et MM". Soient do l'aire MM΄Μ " sur la surface et ds l'aire
-
-[p. 9]
-
-du triangle euclidien MM'M ", do sera défini par la relation lim. do
+Prenons de même sur une surface une aire infiniment petite, triangulaire, MM'M ", dont les trois côtés sont des arcs de courbe situés sur cette surface : dans l'espace euclidien déterminé par les trois points M, M'et M" et un quatrième point quelconque, menons le plan euclidien MM'M " et les droites euclidiennes MM΄, M'M" et MM". Soient do l'aire MM΄Μ " sur la surface et ds l'aire [p. 9] du triangle euclidien MM'M ", do sera défini par la relation lim. do
 
 ds
 
@@ -2622,11 +2420,7 @@ C'est l'équivalent de la proposition connue de la géométrie ordinaire : toute
 
 On voit par là que l'espace euclidien qui contient toutes les tangentes euclidiennes en un point d'un espace quelconque joue en ce point le même rôle que le plan tangent à une surface en géométrie ordinaire.
 
-6. Il est évident qu'on ne peut pas étendre a priori les propriétés des surfaces de la géométrie euclidienne aux surfaces des
-
-[p. 10]
-
-espaces quelconques ; nous reviendrons plus loin sur cette question, mais nous allons déjà définir les géodésiques des surfaces appartenant aux espaces quelconques ; les géodésiques sont sur une surface les lignes de cette surface qui y jouissent de la propriété du plus court chemin entre deux quelconques de leurs points, sauf pour certains points singuliers ; cette définition est légitime parce qu'elle dépend seulement de la comparaison des longueurs des diverses lignes de la surface qui joignent deux points. De même, nous appellerons géodésiques d'un espace quelconque les lignes de plus court chemin de cet espace et, pour simplifier cette étude, nous n'envisagerons ici que les espaces où, d'un point à un autre, il n'y a qu'une plus courte distance : il suit de là que par deux points d'un espace on peut toujours mener une géodésique et une seule.
+6. Il est évident qu'on ne peut pas étendre *a priori* les propriétés des surfaces de la géométrie euclidienne aux surfaces des [p. 10] espaces quelconques ; nous reviendrons plus loin sur cette question, mais nous allons déjà définir les géodésiques des surfaces appartenant aux espaces quelconques ; les géodésiques sont sur une surface les lignes de cette surface qui y jouissent de la propriété du plus court chemin entre deux quelconques de leurs points, sauf pour certains points singuliers ; cette définition est légitime parce qu'elle dépend seulement de la comparaison des longueurs des diverses lignes de la surface qui joignent deux points. De même, nous appellerons géodésiques d'un espace quelconque les lignes de plus court chemin de cet espace et, pour simplifier cette étude, nous n'envisagerons ici que les espaces où, d'un point à un autre, il n'y a qu'une plus courte distance : il suit de là que par deux points d'un espace on peut toujours mener une géodésique et une seule.
 
 En général, si l'on considère une surface située dans un espace, les géodésiques de la surface ne sont pas géodésiques de l'espace, c'est-à-dire que le plus court chemin entre deux points de la surface n'est pas le même sur la surface que dans l'espace qui la contient.
 
@@ -2640,11 +2434,7 @@ Un point et une géodésique déterminent une surface géodésique.
 
 Trois points non situés sur une même géodésique ou deux géodésiques qui se rencontrent déterminent une surface géodésique.
 
-7. Montrons maintenant, d'une façon très succincte, comment les définitions et propositions premières relatives aux surfaces de
-
-[p. 11]
-
-l'espace euclidien peuvent s'étendre aux surfaces des espaces quelconques.
+7. Montrons maintenant, d'une façon très succincte, comment les définitions et propositions premières relatives aux surfaces de [p. 11] l'espace euclidien peuvent s'étendre aux surfaces des espaces quelconques.
 
 Remarquons d'abord qu'un élément infiniment petit de surface, dans un espace quelconque, peut toujours être considéré comme appartenant à un espace euclidien (5) et par suite comme appartenant à un plan euclidien, cela, quand on néglige les infiniment petits d'ordre supérieur.
 
@@ -2672,7 +2462,6 @@ Y A vient en P, a passe par la valeur
 
 A A P
 
-#### X
 
 delà de P, en B, il devient aigu ; il n'y a d'exception que dans le cas particulier où, pour le point P, l'angle a
 
@@ -2680,9 +2469,7 @@ delà de P, en B, il devient aigu ; il n'y a d'exception que dans le cas particu
 
 Si, au contraire, l'angle a est aigu et l'angle ẞ obtus, les obliques augmentent (on le voit par un raisonnement analogue), quand les points A et B se rapprochent de Pet OP est un maximum.
 
-[p. 12]
-
-Enfin, si les angles a et ẞ sont à la fois obtus ou à la fois aigus, OP n'est ni maximum ni minimum.
+[p. 12] Enfin, si les angles a et ẞ sont à la fois obtus ou à la fois aigus, OP n'est ni maximum ni minimum.
 
 8. Le cercle géodésique, sur une surface, se définit à la façon ordinaire, comme le lieu des points situés à une distance géodésique constante d'un point fixe qui est son centre : cette distance constante est son rayon géodésique.
 
@@ -2694,7 +2481,6 @@ dent que si M vient en M'en se déplaçant sur
 
 cette corde, la longueur OM reprenant en M'sa
 
-#### M
 
 valeur, passe dans l'intervalle par un maximum
 
@@ -2726,11 +2512,7 @@ d (AB) = AA' cos a + BB' cos β.
 
 Cette formule, identique à celle de la géométrie euclidienne, entraîne les mêmes conséquences, notamment en ce qui concerne les propriétés des courbes parallèles, des développées et des développantes, etc.
 
-9. En géométrie ordinaire, la courbure d'une portion de sur
-
-[p. 13]
-
-face se définit en transportant, parallèlement au centre d'une sphère, des normales à la surface.
+9. En géométrie ordinaire, la courbure d'une portion de sur [p. 13] face se définit en transportant, parallèlement au centre d'une sphère, des normales à la surface.
 
 Cette définition ne peut s'étendre aux espaces quelconques.
 
@@ -2760,11 +2542,7 @@ s'annule avec l'aire comprise dans le contour.
 
 On vérifie immédiatement par l'addition des angles que, si un _polygone est formé par la réunion de plusieurs autres, l'excès du polygone total est égal à la somme des excès des polygones partiels.
 
-Sur une surface identique on peut toujours considérer des polygones égaux ; des polygones de ce genre ayant mêmes angles ont évidemment même excès : groupons maintenant de façon différente des polygones partiels, deux à deux égaux et par conséquent ayant deux à deux même excès ; nous aurons ainsi, suivant la définition habituelle, deux polygones totaux équivalents,
-
-[p. 14]
-
-c'est-à-dire de même aire ; ces polygones totaux, ayant pour excès les sommes des excès des polygones partiels, ont évidemment même excès. On déduit finalement de là que les aires de deux contours sont proportionnelles aux excès de ces contours, ou que l'aire est proportionnelle à l'excès, cela sur une même surface identique.
+Sur une surface identique on peut toujours considérer des polygones égaux ; des polygones de ce genre ayant mêmes angles ont évidemment même excès : groupons maintenant de façon différente des polygones partiels, deux à deux égaux et par conséquent ayant deux à deux même excès ; nous aurons ainsi, suivant la définition habituelle, deux polygones totaux équivalents, [p. 14] c'est-à-dire de même aire ; ces polygones totaux, ayant pour excès les sommes des excès des polygones partiels, ont évidemment même excès. On déduit finalement de là que les aires de deux contours sont proportionnelles aux excès de ces contours, ou que l'aire est proportionnelle à l'excès, cela sur une même surface identique.
 
 Si A est l'aire d'un contour dont l'excès est E, on a, d'après
 
@@ -2796,13 +2574,10 @@ varie d'un point à l'autre de la surface ; si même valeur en tous les points, 
 
 On voit que cette définition de la coubure s'adapte aux surfaces appartenant à des espaces quelconques, puisqu'elle emprunte ses éléments uniquement à des grandeurs situées sur les surfaces mêmes.[^p14-1]
 
-[p. 15]
-
-sur la surface, les longueurs, les angles, les aires, etc..., il est évident qu'à une géodésique d'une surface correspond une géodésique de la surface isométrique ; de plus, en deux points correspondants, les surfaces ont même courbure, puisque la courbure est le rapport d'une quantité angulaire à une aire (9).
+[p. 15] sur la surface, les longueurs, les angles, les aires, etc..., il est évident qu'à une géodésique d'une surface correspond une géodésique de la surface isométrique ; de plus, en deux points correspondants, les surfaces ont même courbure, puisque la courbure est le rapport d'une quantité angulaire à une aire (9).
 
 11. Supposons sur une surface donnée les points déterminés par un système de coordonnées et soient sur cette surface deux points A et B définis par leurs coordonnées respectives a, ẞ pour A et α', β' pour B. Traçons la géodésique AB et décrivons un arc de cercle géodésique infiniment petit B M = ds de centre A, arc correspondant à l'angle au centre do ; quand le point
 
-#### M
 
 λφ
 
@@ -2874,11 +2649,7 @@ dauμ
 
 do
 
-2
-
-[p. 16]
-
-surface en M représentée, comme on sait (9), par le rapport de l'excès du quadrilatère MM P₁P à l'aire de ce quadrilatère ; on voit immédiatement que cet excès est égal à — de ; quant à l'aire, elle est, comme en géométrie plane euclidienne, MM, X MP ou μ. do. do ; d'où l'expression μαφ. αρ =
+2 [p. 16] surface en M représentée, comme on sait (9), par le rapport de l'excès du quadrilatère MM P₁P à l'aire de ce quadrilatère ; on voit immédiatement que cet excès est égal à — de ; quant à l'aire, elle est, comme en géométrie plane euclidienne, MM, X MP ou μ. do. do ; d'où l'expression μαφ. αρ =
 
 K. de.
 
@@ -2970,9 +2741,7 @@ K sin
 
 VK
 
-[p. 17]
-
-Sur deux surfaces isométriques les grandeurs correspondantes appartenant à ces surfaces sont toujours égales (10) ; il en résulte que si A' et B' sont les points de la seconde surface correspondant aux points A et B de la première, on a nécessairement
+[p. 17] Sur deux surfaces isométriques les grandeurs correspondantes appartenant à ces surfaces sont toujours égales (10) ; il en résulte que si A' et B' sont les points de la seconde surface correspondant aux points A et B de la première, on a nécessairement
 
 ds
 
@@ -3034,11 +2803,7 @@ Ainsi dans ce cercle l'arcs est proportionnel à l'angle au
 
 K
 
-Remarquons que ces formules sont les mêmes que celles rela2
-
-[p. 18]
-
-tives à une sphère euclidienne de rayon √K ; la sphère de rayon VK est en effet une surface à courbure constante positive
+Remarquons que ces formules sont les mêmes que celles rela2 [p. 18] tives à une sphère euclidienne de rayon √K ; la sphère de rayon VK est en effet une surface à courbure constante positive
 
 1
 
@@ -3066,7 +2831,6 @@ prenons un point N infiniment voisin de coordonnées p + dp et w + dw ; abaisson
 
 P
 
-#### M
 
 0
 
@@ -3086,9 +2850,7 @@ que la précédente, des coordonnées polaires et considérons comme corresponda
 
 Il y a donc isométrie entre deux surfaces à courbure constante, de même courbure, et cela d'une infinité de manières. Le raisonnement précédent est également applicable à deux parties différentes d'une même surface à courbure constante ; il en résulte que sur une pareille surface une figure peut se déplacer, tout en se déformant, mais toutes ses dimensions restant les mêmes.
 
-[p. 19]
-
-En résumé, une surface à courbure constante est isométrique à la surface identique à elle-même qui a même courbure ; en particulier, toutes les surfaces à courbure constante positive sont isométriques à des sphères euclidiennes ; quant aux surfaces à courbure constante négative, elles sont isométriques aux sphères eu1 clidiennes de rayon imaginaire ri, c'est-à-dire de courbure
+[p. 19] En résumé, une surface à courbure constante est isométrique à la surface identique à elle-même qui a même courbure ; en particulier, toutes les surfaces à courbure constante positive sont isométriques à des sphères euclidiennes ; quant aux surfaces à courbure constante négative, elles sont isométriques aux sphères eu1 clidiennes de rayon imaginaire ri, c'est-à-dire de courbure
 
 2 Nous rappelons à ce sujet qu'il existe dans l'espace euclidien des surfaces réelles à courbure constante négative.
 
@@ -3102,11 +2864,7 @@ L'isométrie conservant toutes les grandeurs d'un espace transforme une géodés
 
 Les espaces les plus simples sont les espaces identiques que nous avons déjà définis (1) ; dans ces espaces, comme dans l'espace euclidien, les figures peuvent se déplacer sans déformation, cela dans tous les sens.
 
-Considérons une géodésique d'un espace identique ; si nous
-
-[p. 20]
-
-traçons dans l'espace diverses courbes réunissant deux points donnés de cette géodésique, la géodésique est le plus court chemin entre ces deux points : or cette propriété du plus court chemin subsiste si l'on déplace, sans la déformer, la figure composée par la géodésique et les courbes en question. Donc, une géodésique qui se déplace reste géodésique, ou, ce qui revient au même, deux géodésiques quelconques de l'espace sont superposables ; on peut aussi superposer une partie d'une géodésique. à une autre partie de cette même géodésique.
+Considérons une géodésique d'un espace identique ; si nous [p. 20] traçons dans l'espace diverses courbes réunissant deux points donnés de cette géodésique, la géodésique est le plus court chemin entre ces deux points : or cette propriété du plus court chemin subsiste si l'on déplace, sans la déformer, la figure composée par la géodésique et les courbes en question. Donc, une géodésique qui se déplace reste géodésique, ou, ce qui revient au même, deux géodésiques quelconques de l'espace sont superposables ; on peut aussi superposer une partie d'une géodésique. à une autre partie de cette même géodésique.
 
 Des considérations analogues conduisent aux conséquences suivantes
 
@@ -3116,9 +2874,7 @@ Il est bien évident qu'un espace identique est entièrement déterminé de form
 
 D'après cela, les plans des espaces à courbure positive sont isométriques aux sphères euclidiennes et ceux des espaces à courbure négative sont isométriques aux sphères euclidiennes de rayon ri (12). Les premiers plans sont ceux de Riemann ; ils sont finis et appartiennent à des espaces finis ; les autres sont les plans de Lobatchefsky ; ils sont infinis et appartiennent à des espaces infinis.
 
-[p. 21]
-
-Entre les espaces à courbure positive et ceux à courbure négative se place, comme cas particulier, l'espace à courbure nulle qui n'est autre que l'espace euclidien ; le plan de cet espace a en effet une courbure nulle ; or si A et E sont l'aire et l'excès d'un
+[p. 21] Entre les espaces à courbure positive et ceux à courbure négative se place, comme cas particulier, l'espace à courbure nulle qui n'est autre que l'espace euclidien ; le plan de cet espace a en effet une courbure nulle ; or si A et E sont l'aire et l'excès d'un
 
 1 triangle de ce plan, on a, en désignant par
 
@@ -3136,11 +2892,7 @@ Considérons maintenant un espace quelconque dont les surfaces géodésiques peu
 
 définir la surface R par la géodésique fixe G et une géodésique variable passant par un point fixe O de Get formant avec G un angle infiniment petit
 
-: soient Met N les points où cette seconde
-
-[p. 22]
-
-géodésique rencontre Pet Q. Les géodésiques AM et BN sont alors les intersections de Pet de Q avec R. En considérant dans la figure les éléments fixes et les éléments variables, on voit aisément que les deux points variables Met N se correspondent sur les surfaces Pet Q, puisque, quand on se donne le point M, la géodésique OM est déterminée, ce qui détermine le point N. De plus, M et N décrivent simultanément sur les surfaces Pet Q des figures infiniment petites et, par conséquent, euclidiennes
+: soient Met N les points où cette seconde [p. 22] géodésique rencontre Pet Q. Les géodésiques AM et BN sont alors les intersections de Pet de Q avec R. En considérant dans la figure les éléments fixes et les éléments variables, on voit aisément que les deux points variables Met N se correspondent sur les surfaces Pet Q, puisque, quand on se donne le point M, la géodésique OM est déterminée, ce qui détermine le point N. De plus, M et N décrivent simultanément sur les surfaces Pet Q des figures infiniment petites et, par conséquent, euclidiennes
 
 (7) : traitons-les donc comme si elles étaient dans des plans euclidiens ; soient dX et dY les coordonnées de M par rapport à des axes passant par A, dX, et dY₁, les coordonnées de N par rapport à des axes
 
@@ -3164,7 +2916,6 @@ R
 
 A
 
-#### M
 
 G N
 
@@ -3182,9 +2933,7 @@ On en conclut immédiatement que si la surface géodésique R varie en passant t
 
 En particulier, si l'on considère quatre surfaces R, on a en A et B deux faisceaux de quatre rayons qui ont même rapport anharmonique. Ce rapport anharmonique reste constant pour une surface quelconque P passant par A et pour un point quelconque de G ; c'est ce que nous exprimerons en disant que quatre surfaces géodésiques passant par une même géodésique G ont même rapport anharmonique tout le long de leur intersection ; c'est ce que nous appellerons le rapport anharmonique de ces quatre surfaces.
 
-[p. 23]
-
-15. Supposons que les surfaces géodésiques Pet Q soient normales en A et B à la géodésique G ; supposons de plus que l'angle ɛ soit constant et le point A infiniment voisin de 0 ; la figure OAM se meut alors dans une portion infiniment petite d'espace et par suite peut être considérée comme euclidienne (5) : dès lors, ɛ étant constant, OM décrit un cône de révolution et le point M un cercle de centre A. Par suite, le point N décrit une figure homographique (14), c'est-à-dire une ellipse de centre B.
+[p. 23] 15. Supposons que les surfaces géodésiques Pet Q soient normales en A et B à la géodésique G ; supposons de plus que l'angle ɛ soit constant et le point A infiniment voisin de 0 ; la figure OAM se meut alors dans une portion infiniment petite d'espace et par suite peut être considérée comme euclidienne (5) : dès lors, ɛ étant constant, OM décrit un cône de révolution et le point M un cercle de centre A. Par suite, le point N décrit une figure homographique (14), c'est-à-dire une ellipse de centre B.
 
 Désignons par u la fonction µ. des deux points O et B sur la surface R (11), on a BN = μ͵ (0, Β) ε ; s étant constant, on déduit
 
@@ -3250,9 +2999,7 @@ Les courbures, en un point, de toutes les surfaces géodésiques passant par ce 
 
 16. Ce cas général ainsi examiné, passons à l'étude d'espaces plus particuliers.
 
-[p. 24]
-
-Revenons à la figure précédente en supposant toujours les surfaces Pet Q normales en G. En général, M et N décrivent deux figures homographiques ; pour que cette homographie devienne similitude, il faut et il suffit, comme on le sait, que si le point M décrit un cercle, le point N en décrive un également.
+[p. 24] Revenons à la figure précédente en supposant toujours les surfaces Pet Q normales en G. En général, M et N décrivent deux figures homographiques ; pour que cette homographie devienne similitude, il faut et il suffit, comme on le sait, que si le point M décrit un cercle, le point N en décrive un également.
 
 Supposons donc cette condition remplie pour deux points quelconques de l'intersection de deux surfaces géodésiques quelconques de l'espace.
 
@@ -3276,9 +3023,7 @@ de Ren BestK
 
 μ[^p24-1]
 
-[p. 25]
-
-= que la constante soit nulle ; on a ainsi μ, μ ' — μμ,' = 0. D'où en intégrant une seconde fois l. μ
+[p. 25] = que la constante soit nulle ; on a ainsi μ, μ ' — μμ,' = 0. D'où en intégrant une seconde fois l. μ
 
 Ι. μι
 
@@ -3318,15 +3063,11 @@ On voit ainsi par quelle série d'hypothèses restrictives on passe de l'espace 
 
 1
 
-[p. 26]
-
-NANCY, IMPRIMERIE BERGER-LEVRAULT ET cie.
+[p. 26] NANCY, IMPRIMERIE BERGER-LEVRAULT ET cie.
 
 ## III. La géométrie à deux dimensions des surfaces à courbure constante
 
-[p. 1]
-
-LA GÉOMÉTRIE
+[p. 1] LA GÉOMÉTRIE
 
 A DEUX DIMENSIONS
 
@@ -3350,11 +3091,7 @@ QUAI DES GRANDS-AUGUSTINS, 55
 
 1895
 
-[p. 2]
-
-[p. 3]
-
-LA
+[p. 2] [p. 3] LA
 
 GÉOMÉTRIE A DEUX DIMENSIONS
 
@@ -3372,11 +3109,7 @@ Nous allons montrer ici comment on peut établir, directement et sans s'appuyer 
 
 Enfin, nous dirons, pour bien préciser le but et la portée de ce travail, que nous ne faisons ici que de la géométrie à deux dimensions ; en d'autres termes, nous n'envisagerons dans les figures appartenant à une surface que les éléments de ces figures situés sur la surface même en faisant abstraction de l'espace à trois dimensions dans lequel est placée la surface.
 
-Remarquons à ce sujet que l'on procède généralement de cette manière dans l'exposé de la géométrie plane ordinaire : cependant il n'en est pas toujours ainsi ; par exemple, lorsqu'on démontre par la superposition l'égalité de deux triangles, on ne distingue pas le cas où la superposition peut s'effectuer par le glissement de l'un des triangles dans le plan du cas où il est né
-
-[p. 4]
-
-cessaire de faire sortir le triangle du plan pour le retourner sur lui-même dans l'espace à trois dimensions.
+Remarquons à ce sujet que l'on procède généralement de cette manière dans l'exposé de la géométrie plane ordinaire : cependant il n'en est pas toujours ainsi ; par exemple, lorsqu'on démontre par la superposition l'égalité de deux triangles, on ne distingue pas le cas où la superposition peut s'effectuer par le glissement de l'un des triangles dans le plan du cas où il est né [p. 4] cessaire de faire sortir le triangle du plan pour le retourner sur lui-même dans l'espace à trois dimensions.
 
 Ici nous nous abstiendrons de toute démonstration supposant l'espace à trois dimensions.
 
@@ -3386,11 +3119,7 @@ Imaginons un cercle se déplaçant dans un plan en restant égal à lui-même ; 
 
 Il faut bien remarquer que l'égalité à deux dimensions ne se déduit pas nécessairement de l'égalité à trois dimensions ; si nous avons procédé ici de cette façon, c'est parce que l'égalité à trois dimensions est une notion qui nous est familière ; mais, en réalité, si nous ignorions la troisième dimension, c'est l'idée d'égalité à deux dimensions qui se présenterait tout d'abord à notre esprit.
 
-3. Prenons dans un espace euclidien, de Riemann ou de Lobatschewski un plan ou une sphère ; la propriété caractéristique de ces surfaces c'est qu'une figure qui y est située peut s'y mouvoir dans tous les sens en restant égale à elle-même, d'une égalité à
-
-[p. 5]
-
-trois dimensions : c'est ce que nous appellerons des surfaces idertiques à elles-mêmes ; ce sont les plus simples parmi les surfaces à courbure constante.
+3. Prenons dans un espace euclidien, de Riemann ou de Lobatschewski un plan ou une sphère ; la propriété caractéristique de ces surfaces c'est qu'une figure qui y est située peut s'y mouvoir dans tous les sens en restant égale à elle-même, d'une égalité à [p. 5] trois dimensions : c'est ce que nous appellerons des surfaces idertiques à elles-mêmes ; ce sont les plus simples parmi les surfaces à courbure constante.
 
 Les autres s'en déduisent de la façon suivante : on déformera les surfaces identiques de manière que la déformation intéresse seulement la troisième dimension, mais sans modifier les dimensions situées sur les surfaces. D'après cela, la propriété caractéristique des surfaces à courbure constante c'est qu'une figure qui y est située, peut s'y mouvoir dans tous les sens en restant égale à elle-même, d'une égalité à deux dimensions. Telle est la définition générale des surfaces à courbure constante.
 
@@ -3400,9 +3129,7 @@ Au contraire, la définition d'une surface identique, définition basée sur la 
 
 Toutefois, pour éviter certaines complications dans le raisonnement, nous établirons d'abord la géométrie des surfaces identiques, puis nous verrons dans quelles conditions et sous quelles réserves on peut passer de ces surfaces aux surfaces les plus générales à courbure constante.[^p5-1]
 
-[p. 6]
-
-Soient en effet deux géodésiques Get G' ; on peut toujours déplacer G ' de façon à amener deux de ses points sur G ; après ce déplacement, G ' est encore une géodésique ; mais alors G' et G sont deux géodésiques qui ont deux points communs et qui par conséquent coïncident. Notre définition de la géodésique prévoit, il est vrai, le cas particulier où par deux points il peut passer plus d'une géodésique ; mais on peut toujours choisir convenablement les deux points de G' de façon à éviter ce cas particulier. Nous pouvons donc formuler le théorème suivant :
+[p. 6] Soient en effet deux géodésiques Get G' ; on peut toujours déplacer G ' de façon à amener deux de ses points sur G ; après ce déplacement, G ' est encore une géodésique ; mais alors G' et G sont deux géodésiques qui ont deux points communs et qui par conséquent coïncident. Notre définition de la géodésique prévoit, il est vrai, le cas particulier où par deux points il peut passer plus d'une géodésique ; mais on peut toujours choisir convenablement les deux points de G' de façon à éviter ce cas particulier. Nous pouvons donc formuler le théorème suivant :
 
 Théorème.
 
@@ -3422,9 +3149,7 @@ n c'est là une définition, que le rapport de S à S'est
 
 n permet de comparer numériquement deux arcs géodésiques quelconques et de mettre en évidence, dans l'arc géodésique, l'idée d'une grandeur mesurable : c'est cette grandeur que nous appellerons plus particulièrement la longueurde l'arc géodésique.[^p6-1]
 
-[p. 7]
-
-peut de même former un angle A par la juxtaposition de n angles égaux à a ; de même, si l'angle A' résulte de la juxtaposition de n'angles égaux à a, nous dirons que le rapport de A à A ' est exprimé par
+[p. 7] peut de même former un angle A par la juxtaposition de n angles égaux à a ; de même, si l'angle A' résulte de la juxtaposition de n'angles égaux à a, nous dirons que le rapport de A à A ' est exprimé par
 
 ; les angles se comparent ainsi numériquement ; il
 
@@ -3436,7 +3161,6 @@ n y a donc dans l'angle une grandeur mesurable. D'une façon générale, l'angle
 
 Donc les deux angles sont superposables, c'est-à-dire égaux.
 
-#### D
 
 Soit OD la géodésique qui divise en deux parties égales cet angle AOC, c'est-à-dire la géodésique qui fait avec AC deux angles DOA et DOC égaux entre
 
@@ -3448,7 +3172,6 @@ B eux
 
 A
 
-#### C
 
 Fig. 1.
 
@@ -3466,9 +3189,7 @@ Théorème.
 
 La somme des angles qu'on peut former en un point O d'une géodésique AC d'un même côté de cette géodésique a pour valeur deux droits.
 
-[p. 8]
-
-Théorème.
+[p. 8] Théorème.
 
 La somme des angles qu'on peut former en un point O, des deux côtés d'une géodésique, a pour valeur quatre droits.
 
@@ -3476,7 +3197,6 @@ La somme des angles qu'on peut former en un point O, des deux côtés d'une géo
 
 Deux angles adjacents comme COA et COB ont, d'après ce qui précède, une somme égale à π (7).
 
-#### C
 
 Deux angles non adjacents comme AOC et BOD sont dits opposés par le sommet. Or on a évidemment AOC
 
@@ -3494,7 +3214,6 @@ Théorème. -
 
 Deux angles opposés par le som-
 
-#### D
 
 Fig. 2.
 
@@ -3510,9 +3229,7 @@ Lorsque deux angles ont une somme égale à un droit, ils sont dits complémenta
 
 EXCÈS ANGULAIRE ; AIRE D'UN CONTOUR FERMÉ.[^p8-1]
 
-[p. 9]
-
-L'excès angulaire peut être positif ou négatif.
+[p. 9] L'excès angulaire peut être positif ou négatif.
 
 La tangente à une courbe en un point M est la position-limite de la géodésique déterminée par le point Met un autre point voisin M'de la courbe, quand on suppose que le point M'vient, en restant sur la courbe, se confondre avec le point M.
 
@@ -3520,7 +3237,6 @@ Prenons sur une courbe fermée un ensemble de points infiniment voisins les uns 
 
 L'excès angulaire du polygone circonscrit est
 
-#### M
 
 Ldp M
 
@@ -3554,11 +3270,7 @@ on a donc pour son excès angulaire (9) :
 
 Ε — ΣΑ — (η – 2) π + ΣΑ, — (n, — 2) π = e + e₁.
 
-Ainsi l'excès du polygone total est la somme des excès des
-
-[p. 10]
-
-polygones partiels ; la démonstration s'étend évidemment de proche en proche à un nombre quelconque de polygones partiels. Donc :
+Ainsi l'excès du polygone total est la somme des excès des [p. 10] polygones partiels ; la démonstration s'étend évidemment de proche en proche à un nombre quelconque de polygones partiels. Donc :
 
 Théorème. — Lorsqu'un polygone total est formé par la juxtaposition de plusieurs polygones partiels, l'excès du polygone total est égal à la somme des excès des polygones partiels.
 
@@ -3598,11 +3310,9 @@ côté BC ; les angles B et C deviennent respectivement à la limite les angles 
 
 l'angle A du triangle est égal à l'angle a qui lui
 
-#### C
 
 B
 
-#### C
 
 est opposé par le sommet (8), on voit qu'à la limite la somme des angles du triangle devient a + β + γ, c'est-à-dire π (7). Donc, l'excès angulaire devient à la limite α + β + γ — π, c'est-à-dire zéro. Donc :
 
@@ -3614,9 +3324,7 @@ Fig. 5.
 
 s'annule quand ce triangle se réduit à un point.
 
-[p. 11]
-
-Il résulte aussi des deux théorèmes précédents le troisième théorème suivant :
+[p. 11] Il résulte aussi des deux théorèmes précédents le troisième théorème suivant :
 
 Théorème.
 
@@ -3636,7 +3344,6 @@ P
 
 dx
 
-#### X
 
 SPP
 
@@ -3666,11 +3373,7 @@ Donc, en résumé, chaque terme contient à la fois dx et dy qu'on peut dès lor
 
 xy
 
-Faisons tourner le triangle Spq de deux angles droits et amenons-le ainsi en Sp'q ' ; ce triangle, égal au précédent, a évidemment même excès AE. Mais pour avoir l'excès de ce triangle Sp'q' il faut, dans la formule (1), changer dx et dy en — dx et — dy ;
-
-[p. 12]
-
-elle doit alors conserver sa même valeur, ce qui exige que dæ et dy n'y figurent qu'aux puissances paires.
+Faisons tourner le triangle Spq de deux angles droits et amenons-le ainsi en Sp'q ' ; ce triangle, égal au précédent, a évidemment même excès AE. Mais pour avoir l'excès de ce triangle Sp'q' il faut, dans la formule (1), changer dx et dy en — dx et — dy ; [p. 12] elle doit alors conserver sa même valeur, ce qui exige que dæ et dy n'y figurent qu'aux puissances paires.
 
 Donc, en résumé, la formule (1) prendra la forme :
 
@@ -3740,9 +3443,7 @@ D'après cela, soit ABC un triangle infiniment petit quelconque de côtés a, b 
 
 e= bc [o (A) +++ …][^p12-1]
 
-[p. 13]
-
-On a donc, en négligeant dans ces formules les infiniment petits du quatrième ordre, le théorème suivant :
+[p. 13] On a donc, en négligeant dans ces formules les infiniment petits du quatrième ordre, le théorème suivant :
 
 Théorème. — Quand deux triangles infiniment petits ont un
 
@@ -3800,11 +3501,7 @@ A'= B + C +
 
 bc [o (A) ++...].
 
-Or si bet e sont du premier ordre, B et C sont deux angles
-
-[p. 14]
-
-finis et par suite C +
+Or si bet e sont du premier ordre, B et C sont deux angles [p. 14] finis et par suite C +
 
 bc [ o (A) +...] a toujours le signe de C, c'est-à-dire le signe +, on a donc A' > B ; mais cela est vrai, quel que soit l'ordre de grandeur de C, car si Cest du second ordre, par exemple, c est du troisième ordre et be du quatrième ; donc, dans tous les cas, c'est toujours C qui donne son signe à C +
 
@@ -3862,11 +3559,7 @@ M ΜΗ
 
 C l'angle 0 égal à l'angle B est aigu et en C il devient
 
-égal à π — C, c'est-à-dire à un angle obtus ; d'ailleurs dans l'intervalle il va toujours en croissant, car dans le B
-
-[p. 15]
-
-triangle AMM'l'angle extérieur 6' est supérieur à l'angle 6 (15) ;
+égal à π — C, c'est-à-dire à un angle obtus ; d'ailleurs dans l'intervalle il va toujours en croissant, car dans le B [p. 15] triangle AMM'l'angle extérieur 6' est supérieur à l'angle 6 (15) ;
 
 donc, pour une position intermédiaire H entre Bet C, 6 est égal π 2' et cela une fois seulement : AH perpendiculaire à BC est la à hauteur relative au côté BC.
 
@@ -3894,9 +3587,7 @@ Théorème.
 
 Dans un triangle infiniment petit l'excès est proportionnel au produit de la base par la hauteur.[^p15-1][^p15-2]
 
-[p. 16]
-
-Ainsi, dans notre quadrilatère, deux angles adjacents A et B sont supplémentaires à un infiniment près du second ordre.
+[p. 16] Ainsi, dans notre quadrilatère, deux angles adjacents A et B sont supplémentaires à un infiniment près du second ordre.
 
 Remplaçons le côté BC par BC'de telle façon que le nouvel
 
@@ -3912,7 +3603,6 @@ B
 
 θ
 
-#### C
 
 λ P
 
@@ -3922,7 +3612,6 @@ e
 
 μ
 
-#### D
 
 A
 
@@ -3950,11 +3639,7 @@ Dans un parallélogramme infiniment petit, deux côtés opposés sont égaux à 
 
 19. Si l'angle
 
-est droit à un infiniment près du second ordre, il en est de même de l'angle opposé et aussi de l'angle
-
-[p. 17]
-
-adjacent qui en est le supplément. Le parallélogramme devient alors un rectangle, lequel jouit, en plus des propriétés du parallélogramme, de la propriété suivante :
+est droit à un infiniment près du second ordre, il en est de même de l'angle opposé et aussi de l'angle [p. 17] adjacent qui en est le supplément. Le parallélogramme devient alors un rectangle, lequel jouit, en plus des propriétés du parallélogramme, de la propriété suivante :
 
 Théorème.
 
@@ -4018,11 +3703,7 @@ Or le nombre des termes de Ση est évidemment n, de sorte que
 
 GÉOMÉTRIE.
 
-2
-
-[p. 18]
-
-sin, est leur moyenne, on a Ση == nη, et par suite E = nan, = 1.η ; I étant fini et n, du premier ordre, E est aussi du premier ordre. Ainsi :
+2 [p. 18] sin, est leur moyenne, on a Ση == nη, et par suite E = nan, = 1.η ; I étant fini et n, du premier ordre, E est aussi du premier ordre. Ainsi :
 
 Théorème.
 
@@ -4052,9 +3733,7 @@ Il résulte même de ce qui précède que si les deux polygones d'excès E et E,
 
 2º Lorsqu'un polygone total est formé par la juxtaposition de plusieurs polygones partiels, l'aire du polygone total est la somme des aires des polygones partiels.
 
-[p. 19]
-
-Ces propositions étant communes aux aires et aux excès (10 et 21), elles impliquent évidemment que l'aire est une fonction de l'excès ; si donc Z est l'aire et X l'excès d'un polygone variable, nous pourrons poser Z = f (X).
+[p. 19] Ces propositions étant communes aux aires et aux excès (10 et 21), elles impliquent évidemment que l'aire est une fonction de l'excès ; si donc Z est l'aire et X l'excès d'un polygone variable, nous pourrons poser Z = f (X).
 
 D'après le premier principe, Z s'annule avec X.
 
@@ -4118,15 +3797,10 @@ L. Il vient donc finalement :
 
 S = AE =
 
-#### L
 
 K
 
-Or si l'on prend pour unité de longueur L et pour unité d'aire S,
-
-[p. 20]
-
-côté, la
+Or si l'on prend pour unité de longueur L et pour unité d'aire S, [p. 20] côté, la
 
 n'c'est-à-dire l'aire de nª carrés de côté
 
@@ -4164,7 +3838,6 @@ ac [ o (B) + v₂ + …]
 
 2
 
-#### C
 
 φ (Β) pour le cas où les angles B et C sont égaux, b
 
@@ -4172,7 +3845,6 @@ la différence b — c est donc dans ce cas un infiniment petit du troisième or
 
 A
 
-#### C
 
 b
 
@@ -4200,11 +3872,7 @@ il suffit de poser C + θ – ε = B – 0, ce qui donne
 
 (B — C + €).
 
-Cette valeur de 6 rend donc les angles B' et C'égaux ; on a
-
-[p. 21]
-
-alors dans le triangle ABC'(24) AC'= AB, cela à un infiniment près du troisième ordre.
+Cette valeur de 6 rend donc les angles B' et C'égaux ; on a [p. 21] alors dans le triangle ABC'(24) AC'= AB, cela à un infiniment près du troisième ordre.
 
 11
 
@@ -4222,11 +3890,9 @@ BC
 
 B
 
-#### C
 
 e étant du troisième ordre, si on ajoute à AC'la partie CC'du premier ou du second ordre, la somme AC'+ CC'= AC est nécessairement plus grande que AB. Donc :
 
-#### C
 
 Fig. 12.
 
@@ -4250,9 +3916,7 @@ Fig. 13.
 
 Théorème. — La perpendiculaire est plus courte que l'oblique.[^p21-1]
 
-[p. 22]
-
-triangle ACH, l'angle en A, lequel s'annule évidemment avec l'angle B, est, comme ce dernier, infiniment petit ; donc, le côté AC
+[p. 22] triangle ACH, l'angle en A, lequel s'annule évidemment avec l'angle B, est, comme ce dernier, infiniment petit ; donc, le côté AC
 
 étant du second ordre, le côté CH est du troisième ordre. Donc finalement la différence BC — AB est du troisième ordre. Ainsi
 
@@ -4316,9 +3980,7 @@ B + Pn. Il suit de là que si l'angle en P n'est pas
 
 Fig. 16.
 
-[p. 23]
-
-quant à un angle quelconque de la ligne polygonale, il en résulte que les divers côtés de cette ligne sont situés sur une même géodésique. Donc :
+[p. 23] quant à un angle quelconque de la ligne polygonale, il en résulte que les divers côtés de cette ligne sont situés sur une même géodésique. Donc :
 
 Théorème.
 
@@ -4354,9 +4016,7 @@ côtés va croissant, augmente sans cesse tout en restant toujours inférieure �
 
 Mais cette ligne polygonale inscrite est indéterminée à la fois et dans son point de départ et dans son mode de variation quand elle tend vers sa limite ; nous allons voir cependant que cette indétermination est sans influence sur la longueur limite.
 
-[p. 24]
-
-Remarquons en effet que, dans cette ligne polygonale inscrite, quelle qu'elle soit, un côté quelconque se réduit, à la limite, à un point de la courbe, et prend en ce point la direction de la tangente à la courbe (9).
+[p. 24] Remarquons en effet que, dans cette ligne polygonale inscrite, quelle qu'elle soit, un côté quelconque se réduit, à la limite, à un point de la courbe, et prend en ce point la direction de la tangente à la courbe (9).
 
 Soit pnq un côté infiniment petit de la ligne inscrite, pmq étant l'arc correspondant de la courbe ; supposons que mn soit la géodésique normale en m à la courbe, c'est-à-dire la perpendiculaire à la tangente en mà la courbe ; traçons la géodésique pm.
 
@@ -4416,9 +4076,7 @@ Théorème.
 
 De toutes les lignes polygonales ou courbes qui joignent deux points, la plus courte est un arc de géodésique.
 
-[p. 25]
-
-Cet arc géodésique qui joint les deux extrémités d'un arc de courbe est la corde géodésique ou simplement la corde de l'arc de courbe.
+[p. 25] Cet arc géodésique qui joint les deux extrémités d'un arc de courbe est la corde géodésique ou simplement la corde de l'arc de courbe.
 
 31. Soient un arc de courbe infiniment petit de longueur s et sa corde géodésique c ; nous savons qu'on a s > c ; nous allons évaluer la différences — c ou plutôt chercher son ordre de grandeur.
 
@@ -4452,9 +4110,7 @@ Théorème.
 
 La différence entre un arc infiniment petit et sa corde est du troisième ordre.[^p25-1]
 
-[p. 26]
-
-Théorème.
+[p. 26] Théorème.
 
 Dans un arc de courbe infiniment petit et sa corde, le milieu de l'arc se projette au milieu de la corde, cela à un infiniment près du troisième ordre..
 
@@ -4478,7 +4134,6 @@ de l'arc AB. La formules = λθ peut donc s'écrire
 
 P
 
-#### M
 
 A
 
@@ -4504,9 +4159,7 @@ Dans le triangle APB traçons PH qui divise en deux parties égales l'angle APB 
 
 PH.HA expression (13) PH.HB ; ce rapport étant égal à 1, on en déduit HA = HB. Ainsi H est le milieu de la corde AB ; on en conclut aussi que le point M de l'arc AMB qui se projette au milieu H de la corde est le milieu de l'arc (32).
 
-[p. 27]
-
-L'arc
+[p. 27] L'arc
 
 étant la courbure de la moitié de l'arc AMB est ainsi la courbure de l'arc AM.
 
@@ -4532,9 +4185,7 @@ Si dans un angle infiniment petit on projette un des côtés, de longueur finie,
 
 - TRIGONOMETRIE DES TRIANGLES GÉODÉSIQUES.[^p27-1]
 
-[p. 28]
-
-limite commune de ces deux rapports que nous appellerons le
+[p. 28] limite commune de ces deux rapports que nous appellerons le
 
 MP sinus de l'angle o et nous écrirons
 
@@ -4566,11 +4217,9 @@ b
 
 a cos C
 
-#### C
 
 a sinC
 
-#### C
 
 b tg C
 
@@ -4580,13 +4229,11 @@ BH
 
 précède, cos B = A
 
-#### C
 
 a et par suite c² = a.BH ;
 
 b
 
-#### C
 
 on obtient de même b² = a.CH et, en ajoutant
 
@@ -4602,9 +4249,7 @@ peut s'écrire a
 
 1 ou encore sin² B + sin² C = 1, c'est-à= dire enfin (16) sin² B + cos² B = 1.[^p28-1]
 
-[p. 29]
-
-abaissons NP perpendiculaire sur MN,. Dans le triangle MNN, les côtés MN et MN, étant finis et le côté NN, infiniment petit, l'angle en M de ce triangle est infiniment petit et par suite la différence entre MN et sa projection MP est du second ordre (34).
+[p. 29] abaissons NP perpendiculaire sur MN,. Dans le triangle MNN, les côtés MN et MN, étant finis et le côté NN, infiniment petit, l'angle en M de ce triangle est infiniment petit et par suite la différence entre MN et sa projection MP est du second ordre (34).
 
 Donc la différence MN,
 
@@ -4616,11 +4261,9 @@ N
 
 α
 
-#### M
 
 P
 
-#### M
 
 N
 
@@ -4638,9 +4281,7 @@ On verrait de même que la différence MP, entre MN, et M, N, est MM, cos a ; on
 
 M, N, -MN = dl = MM, cosa + NN, cos β.[^p29-1]
 
-[p. 30]
-
-π
+[p. 30] π
 
 2 dans le cas du cercle O = NN, cosẞou ẞ = 5. Ainsi dans le cercle
 
@@ -4668,9 +4309,7 @@ Théorème.
 
 la surface l'un des cercles ainsi obtenus, on voit que le théorème est encore vrai pour des cercles égaux.[^p30-1][^p30-2]
 
-[p. 31]
-
-s'annuleavecret l'on peut poser, pour r infiniment petit, o (r) =
+[p. 31] s'annuleavecret l'on peut poser, pour r infiniment petit, o (r) =
 
 r ;
 
@@ -4706,9 +4345,7 @@ da
 
 OM.da Mais MP est un arc de géodésique qui, pour venir en M'P ', se déplace normalement à PP ' ; on a donc (36) M'P ' — MP = MM'cos λ, A étant l'angle de MM'avec MP ; orkest le complément de l'angle PMO, puisque le rayon OM est normal à l'arc de cercle MM'(37) ; d'autre part, dans le triangle infiniment petit OMP rectangle en P, l'angle a est
 
-#### M
 
-#### M
 
 da
 
@@ -4732,9 +4369,7 @@ da
 
 cos a.
 
-[p. 32]
-
-Une démonstration tout à fait analogue nous conduirait à la formule d cos a
+[p. 32] Une démonstration tout à fait analogue nous conduirait à la formule d cos a
 
 da
 
@@ -4850,9 +4485,7 @@ On a de même : cos (a + h) = cos a cos h — sin a sin h. Nous nous en tiendron
 
 (r).
 
-[p. 33]
-
-Adoptons sur la surface le système des coordonnées polaires ;
+[p. 33] Adoptons sur la surface le système des coordonnées polaires ;
 
 dans ce système un point m est déterminé par l'intersection d'un cercle et d'une géodésique ; la géodésique passe par un point fixe O, origine des coordonnées, et le cercle a pour centre ce même point O. Si w est l'angle de cette géodésique avec une géodésique fixe passant par O et si pest le rayon de ce cercle, wet p sont les coordonnées du point m.
 
@@ -4910,9 +4543,7 @@ d (mm') = e.dp
 
 GÉOMÉTRIE.
 
-[p. 34]
-
-Or, on a, d'après la définition même de la fonction φ (ρ), (39) mm'= φ [^p34-2] dw, d'où l'on déduit, en différentiant :
+[p. 34] Or, on a, d'après la définition même de la fonction φ (ρ), (39) mm'= φ [^p34-2] dw, d'où l'on déduit, en différentiant :
 
 d (mm') = φ ' [^p34-4] dp.dw
 
@@ -4952,9 +4583,7 @@ Mais la formule (3) donne de = φ" (p) dp.dw ; on en déduit :
 
 (4 et cette équation différentielle définit la fonction φ.[^p34-1][^p34-3][^p34-5]
 
-[p. 35]
-
-Du reste, ces deux formules peuvent se réunir dans la suivante :
+[p. 35] Du reste, ces deux formules peuvent se réunir dans la suivante :
 
 laquelle est toujours réelle, que K soit positif ou φ (p) = √K sin
 
@@ -5036,11 +4665,7 @@ d ou S = 2√K sin
 
 pour la circonférence entière S du cercle.
 
-VK
-
-[p. 36]
-
-3
+VK [p. 36] 3
 
 5
 
@@ -5100,11 +4725,7 @@ Sur une surface à courbure positive, deux géodésiques qui se coupent en un po
 
 Corollaire.
 
-Toutes les géodésiques qui passent par un point se rencontrent en un second point. Soient o et o ' deux points de ce genre, nous les nommerons points symétriques ; ces deux points
-
-[p. 37]
-
-divisent toute géodésique qui les contient en deux arcs égaux de longueur π Κ.
+Toutes les géodésiques qui passent par un point se rencontrent en un second point. Soient o et o ' deux points de ce genre, nous les nommerons points symétriques ; ces deux points [p. 37] divisent toute géodésique qui les contient en deux arcs égaux de longueur π Κ.
 
 Si o est le centre d'un cercle de rayon p, tous ses rayons passant par o passent aussi par son symétrique o ' et comme oo ' est égal à πK, le cercle peut aussi être considéré comme ayant pour centre o ' avec un rayon égal à πK — ρ. Ce cercle devient une
 
@@ -5152,11 +4773,7 @@ Sur une surface à courbure positive deux géodésiques se rencontrent toujours.
 
 Dans le cas particulier où l'on a d = π√K, les deux centres sont deux points symétriques, centres des deux géodésiques confondues en une seule.
 
-46. Revenons à la figure précédente (42) ; traçons l'arc géodé
-
-[p. 38]
-
-sique infiniment petit mn'; on a, dans le triangle rectangle mm'n'(35), mn'
+46. Revenons à la figure précédente (42) ; traçons l'arc géodé [p. 38] sique infiniment petit mn'; on a, dans le triangle rectangle mm'n'(35), mn'
 
 ds² = m'n'² + mm², c'est-à-dire :
 
@@ -5214,7 +4831,6 @@ sin B. o [^p38-1] = sin C.
 
 A
 
-#### C
 
 B
 
@@ -5228,9 +4844,7 @@ sin B
 
 sin C[^p38-2][^p38-3]
 
-[p. 39]
-
-π sons, pour simplifier notre formule, que e soit égal à
+[p. 39] π sons, pour simplifier notre formule, que e soit égal à
 
 , c'est-à-dire
 
@@ -5324,7 +4938,6 @@ Cette formule est relative au triangle rectangle Omm ; si ce même triangle est 
 
 b
 
-#### C
 
 a
 
@@ -5344,7 +4957,6 @@ U a s'écrit cos U
 
 Cette formule s'étend sans difficulté à un triangle quelconque ABC. Décomposons ce triangle en deux triangles rectangles par la hauteur AH que nous désignerons par h. Le triangle rec-
 
-#### C
 
 BH
 
@@ -5364,7 +4976,6 @@ h sinsin B ; entre ces deux équations éliminons
 
 à l'aide U h sinU
 
-#### C
 
 U
 
@@ -5378,7 +4989,6 @@ U
 
 U = 1, il vient :
 
-#### C
 
 2
 
@@ -5394,7 +5004,6 @@ sin
 
 sin * B +
 
-#### C
 
 น
 
@@ -5404,9 +5013,7 @@ cos
 
 U
 
-[p. 40]
-
-BH
+[p. 40] BH
 
 par leurs
 
@@ -5432,7 +5039,6 @@ U
 
 h
 
-#### C
 
 BH
 
@@ -5444,7 +5050,6 @@ U
 
 H
 
-#### C
 
 B
 
@@ -5464,7 +5069,6 @@ u
 
 u
 
-#### C
 
 u rectangles AHB et AHC, les formules cos
 
@@ -5476,7 +5080,6 @@ CH cos — cos U
 
 "
 
-#### C
 
 COS U
 
@@ -5498,7 +5101,6 @@ COS
 
 U et, en remplaçant CH par a — BH :
 
-#### C
 
 BH
 
@@ -5512,7 +5114,6 @@ a
 
 a
 
-#### C
 
 U
 
@@ -5526,7 +5127,6 @@ U
 
 BH
 
-#### C
 
 par sa valeur tgcos B, il vient : Remplaçons enfin tg
 
@@ -5534,7 +5134,6 @@ u
 
 u
 
-#### C
 
 a
 
@@ -5544,7 +5143,6 @@ COS U
 
 a
 
-#### C
 
 U cos B.
 
@@ -5584,15 +5182,10 @@ D'abord toute la partie de cette étude où il n'est question que de figures inf
 
 49. Mais il n'en est plus de même quand il s'agit de figures à dimensions finies ; c'est un point que nous allons mettre en lumière en prenant un exemple aussi simple que possible.
 
-Soit, dans un espace euclidien un plan et une surface cylindrique ; le plan est une surface identique, de courbure nulle et la surface cylindrique est une surface à courbure constante dont la courbure est également nulle. Ces deux surfaces de même courbure doivent donc avoir même géométrie à deux dimensions et nė différer que par rapport à la troisième dimension ; en d'autres termes, on peut, par des déformations n'intéressant que la troisième dimension, amener l'une de ces surfaces à se confondre avec l'autre. Mais supposons que notre cylindre ait, par exemple,
-
-[p. 42]
-
-un cercle pour section droite, pour appliquer tout le plan sur ce cylindre il faut enrouler ce plan un nombre infini de fois, de sorte que sur chaque point du cylindre vient se placer une série indéfinie et périodique de points du plan. A ce point de vue, le plan se subdivise en un nombre infini de tranches séparées par des parallèles équidistantes, chaque tranche correspondant à un tour du cylindre.
+Soit, dans un espace euclidien un plan et une surface cylindrique ; le plan est une surface identique, de courbure nulle et la surface cylindrique est une surface à courbure constante dont la courbure est également nulle. Ces deux surfaces de même courbure doivent donc avoir même géométrie à deux dimensions et nė différer que par rapport à la troisième dimension ; en d'autres termes, on peut, par des déformations n'intéressant que la troisième dimension, amener l'une de ces surfaces à se confondre avec l'autre. Mais supposons que notre cylindre ait, par exemple, [p. 42] un cercle pour section droite, pour appliquer tout le plan sur ce cylindre il faut enrouler ce plan un nombre infini de fois, de sorte que sur chaque point du cylindre vient se placer une série indéfinie et périodique de points du plan. A ce point de vue, le plan se subdivise en un nombre infini de tranches séparées par des parallèles équidistantes, chaque tranche correspondant à un tour du cylindre.
 
 Si dest l'écartement de deux parallèles suc-
 
-#### C
 
 m
 
@@ -5604,7 +5197,6 @@ cessives, tous les points du plan m₁ m. m....
 
 situés sur une perpendiculaire à ces parallèles et à une distance d les uns des autres b
 
-#### C
 
 B
 
@@ -5616,11 +5208,7 @@ Fig. 30.
 
 suffit d'examiner les éléments de ce triangle sur le plan pour voir que ces éléments ne satisfont pas du tout aux formules de la trigonométrie plane.
 
-La particularité fondamentale que nous venons de signaler tient uniquement à ce fait que deux points distincts du plan, b et c, n'en donnent qu'un sur le cylindre ; si, au contraire, la section droite du cylindre, au lieu d'être un cercle, était, par exemple, une parabole, le plan s'enroulerait sur le cylindre, chaque point du plan se plaçant sur un point spécial du cylindre ; dans ce cas, la
-
-[p. 43]
-
-correspondance a bien lieu point par point et le cas signalé sur le cylindre circulaire ne peut pas se produire.
+La particularité fondamentale que nous venons de signaler tient uniquement à ce fait que deux points distincts du plan, b et c, n'en donnent qu'un sur le cylindre ; si, au contraire, la section droite du cylindre, au lieu d'être un cercle, était, par exemple, une parabole, le plan s'enroulerait sur le cylindre, chaque point du plan se plaçant sur un point spécial du cylindre ; dans ce cas, la [p. 43] correspondance a bien lieu point par point et le cas signalé sur le cylindre circulaire ne peut pas se produire.
 
 Avec le cylindre parabolique tout triangle plan devient sur le cylindre un triangle géodésique et réciproquement.
 
@@ -5634,19 +5222,13 @@ Il est bien clair que ce mode de déformation augmente le nombre des points d'in
 
 Ainsi, quand la surface primitive enveloppe plusieurs fois la surface déformée, le nombre des intersections des géodésiques augmente sur celle-ci. Donc, si ABC est un triangle géodésique de la seconde surface, il ne correspondra pas à un triangle géodésique de la surface primitive lorsqu'un de ses sommets A sera la réunion de deux points distincts de la surface primitive. Il en résulte que les formules trigonométriques relatives aux triangles géodésiques de la première surface ne peuvent pas s'étendre indistinctement à tous les triangles géodésiques de la seconde.
 
-Par conséquent, la trigonométrie que nous avons établie sur les surfaces identiques s'étendra bien aux surfaces à courbure cons
-
-[p. 44]
-
-tante correspondant point par point aux premières, mais seulement à ces surfaces-là.
+Par conséquent, la trigonométrie que nous avons établie sur les surfaces identiques s'étendra bien aux surfaces à courbure cons [p. 44] tante correspondant point par point aux premières, mais seulement à ces surfaces-là.
 
 Mais une convention très simple et à laquelle, du reste, on a souvent recours en géométrie, va nous permettre de tourner cette difficulté.
 
 Supposons que la surface à courbure constante S, soit enveloppée n fois par la surface identique de même courbure S ; nous considérons la surface S, comme formée de n feuillets sans épaisseur, absolument comme une feuille de papier supposée sans épaisseur enroulée n fois sur elle-même. Cela posé, nous ne considérerons pas comme se coupant en un point M deux géodésiques qui, au voisinage de M, seraient séparées par un ou plusieurs feuillets. Avec cette hypothèse disparaissent les intersections nouvelles introduites par l'enroulement de la surface sur elle-même, et, seules, les intersections primitives nous donneront, sur la nouvelle surface, de véritables triangles géodésiques auxquels seront applicables toutes les formules trigonométriques établies sur la surface S.[^p44-1]
 
-[p. 45]
-
-vants) en supposant que nous raisonnions sur des surfaces à courbure constante. Reprenons, par exemple (46), la formule sin θ.φ (p) = const. qui nous a conduit à la formule trigonométrique :
+[p. 45] vants) en supposant que nous raisonnions sur des surfaces à courbure constante. Reprenons, par exemple (46), la formule sin θ.φ (p) = const. qui nous a conduit à la formule trigonométrique :
 
 sin A
 
@@ -5668,19 +5250,13 @@ Cela posé, soient trois géodésiques se coupant aux points A, B et C ; le poin
 
 Ainsi nous sommes bien ramenés, et cela en nous plaçant uniquement au point de vue de la géométrie à deux dimensions, à cette décomposition de la surface en feuillets superposés, décomposition que nous avions d'abord montrée en géométrie à trois dimensions.
 
-A titre de vérification, reprenons (49) le triangle géodésique
-
-[p. 46]
-
-formé sur une surface cylindrique par l'enroulement de la figure plane b BACc ; si A'B'C'est ce triangle sur le cylindre, on constate immédiatement que si un point M décrit BC, la géodésique AM supposée coïncider d'abord avec AB ne pourra après un déplacement continu venir coïncider avec AC, ce qui est bien d'accord avec ce que nous a donné notre discussion en géométrie à deux dimensions.
+A titre de vérification, reprenons (49) le triangle géodésique [p. 46] formé sur une surface cylindrique par l'enroulement de la figure plane b BACc ; si A'B'C'est ce triangle sur le cylindre, on constate immédiatement que si un point M décrit BC, la géodésique AM supposée coïncider d'abord avec AB ne pourra après un déplacement continu venir coïncider avec AC, ce qui est bien d'accord avec ce que nous a donné notre discussion en géométrie à deux dimensions.
 
 Sous le bénéfice de cette discussion, nous pouvons donc considérer la théorie exposée dans ce travail comme constituant strictement la géométrie à deux dimensions des surfaces à courbure constante, ces surfaces étant définies à l'aide de la notion primordiale (3) de l'égalité à deux dimensions.
 
 C'est précisément le résultat que nous avions en vue. Ajoutons, pour terminer, que cette géométrie à deux dimensions, par cela seul qu'elle est indépendante de la troisième dimension, est valable pour un espace à trois dimensions quelconque, au cas où l'on introduirait dans un de ces espaces à trois dimensions les surfaces dont il s'agit.
 
-[p. 47]
-
-TABLE DES MATIÈRES
+[p. 47] TABLE DES MATIÈRES
 
 Pages.
 

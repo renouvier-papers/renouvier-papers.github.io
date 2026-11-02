@@ -10,25 +10,19 @@ title: "Pour l'histoire de la science hellène"
 
 ---
 
-[p. 1]
-
-POUR L'HISTOIRE
+[p. 1] POUR L'HISTOIRE
 
 DE LA SCIENCE HELLÈNE
 
 ## Introduction[^p1-1]
 
-[p. 2]
-
-précurseurs, soit de leur maître, soit des grands mathématiciens de l'âge suivant, proviennent surtout de ces ouvrages historiques, malheureusement perdus. Dès lors, les règles de critique à appliquer pour la restitution des travaux de tous ces penseurs présentent une singulière uniformité, tandis qu'on doit les modifier pour les temps postérieurs, soit parce que les sources n'offrent plus le même caractère, soit parce que les concepts élucidés par Aristote ont désormais acquis une forme et une précision qu'on doit leur dénier auparavant.
+[p. 2] précurseurs, soit de leur maître, soit des grands mathématiciens de l'âge suivant, proviennent surtout de ces ouvrages historiques, malheureusement perdus. Dès lors, les règles de critique à appliquer pour la restitution des travaux de tous ces penseurs présentent une singulière uniformité, tandis qu'on doit les modifier pour les temps postérieurs, soit parce que les sources n'offrent plus le même caractère, soit parce que les concepts élucidés par Aristote ont désormais acquis une forme et une précision qu'on doit leur dénier auparavant.
 
 2. J'ai parlé des grands mathématiciens de l'âge suivant, c'est-à-dire de la période alexandrine, à laquelle on peut, comme à la précédente, assigner une durée d'environ trois siècles, celle de la dynastie des Ptolémées en Égypte. Si, en effet, cette période est aussi bien délimitée, pour la politique et la littérature, que l'âge hellène proprement dit, elle est surtout remarquable, au point de vue scientifique, par l'apparition des plus grands géomètres de l'antiquité, comme aussi par cette circonstance que les écrits de science qui en subsistent encore, sont exclusivement mathématiques.
 
 Au contraire, de l'âge antérieur, il nous reste à peine un seul fragment géométrique [^p2-1]. Mais nous ne devons pas nous y tromper ; les sciences abstraites avaient, dès lors, grandi autant et plus que les sciences naturelles, et la vérité est que les théories exposées dans les ouvrages d'Euclide et d'Apollonius qui subsistent encore en grec, leur sont en réalité bien antérieures. Seulement, les perfectionnements apportés à ces théories, soit dans le fond, soit dans la forme, ont fait oublier, et cela de très bonne heure, tous les traités précédents sur la matière, quelle qu'en ait pu être la valeur.
 
-Le développement des mathématiques pendant l'âge hellène fut précisément assez considérable pour les constituer en spécialité et pour obliger désormais ceux qui voulurent les faire progresser, à s'y consacrer exclusivement. Au Ive siècle avant notre ère, Eudoxe de Cnide, le grand géomètre et le grand astronome, est en même temps médecin, moraliste, législateur ; et cet exemple n'a rien d'exceptionnel : si Eudoxe est le type du sophiste accompli,
-
-[p. 3]
+Le développement des mathématiques pendant l'âge hellène fut précisément assez considérable pour les constituer en spécialité et pour obliger désormais ceux qui voulurent les faire progresser, à s'y consacrer exclusivement. Au Ive siècle avant notre ère, Eudoxe de Cnide, le grand géomètre et le grand astronome, est en même temps médecin, moraliste, législateur ; et cet exemple n'a rien d'exceptionnel : si Eudoxe est le type du sophiste accompli, [p. 3]
 
 ## Introduction.
 
@@ -42,13 +36,9 @@ D'une part, les connaissances acquises ne sont pas encore telles qu'il puisse, c
 
 indépendantes, exclusivement cultivées pour elles-mêmes ; or, comme désormais la philosophie est devenue un objet d'enseignement régulier, la physique n'en sera plus qu'une partie subordonnée, après avoir fourni, jusqu'à Platon, les questions prédominantes dans les préoccupations des penseurs. Désormais, la logique et l'éthique ont passé au premier plan.
 
-Mais ce n'est pas là la seule condition défavorable. Après Aristote, l'idéal de la vie théorétique, la science pour la science, s'évanouit devant les tendances pratiques des nouvelles écoles qui surgissent et se disputent la direction morale de la civilisation hellène. Épicuriens et stoïciens feront bien de la physique et même beaucoup ; mais la position que prennent les premiers, l'indifférence vis-à-vis des diverses explications compatibles avec une hypothèse a priori générale,
+Mais ce n'est pas là la seule condition défavorable. Après Aristote, l'idéal de la vie théorétique, la science pour la science, s'évanouit devant les tendances pratiques des nouvelles écoles qui surgissent et se disputent la direction morale de la civilisation hellène. Épicuriens et stoïciens feront bien de la physique et même beaucoup ; mais la position que prennent les premiers, l'indifférence vis-à-vis des diverses explications compatibles avec une hypothèse *a priori* générale,
 
-est la négation même de la possibilité de tout progrès scientifique ; quant aux seconds, c'est le principe même de leur doctrine qui est hostile à la science. Ils
-
-[p. 4]
-
-s'en occuperont, mais seulement pour satisfaire aux nécessités de l'enseignement, pour ne pas rester, à cet égard, en arrière des autres écoles. C'est à eux surtout qu'Aristote suffit, quand ils ne remontent pas jusqu'à Héraclite : au moins l'école d'Épicure nous a-t-elle légué l'admirable poème de Lucrèce ; du Portique, il ne nous est parvenu, pour la science, que des fragments sans importance et, sans doute, le reste méritait assez l'oubli qui l'a recouvert.
+est la négation même de la possibilité de tout progrès scientifique ; quant aux seconds, c'est le principe même de leur doctrine qui est hostile à la science. Ils [p. 4] s'en occuperont, mais seulement pour satisfaire aux nécessités de l'enseignement, pour ne pas rester, à cet égard, en arrière des autres écoles. C'est à eux surtout qu'Aristote suffit, quand ils ne remontent pas jusqu'à Héraclite : au moins l'école d'Épicure nous a-t-elle légué l'admirable poème de Lucrèce ; du Portique, il ne nous est parvenu, pour la science, que des fragments sans importance et, sans doute, le reste méritait assez l'oubli qui l'a recouvert.
 
 3. A la suite des armées d'Alexandre, l'hellénisme a conquis l'Orient ;
 
@@ -84,11 +74,7 @@ gréco-romaine,
 
 le stoïcisme avait acquis, sur les autres écoles, une prééminence marquée ; dès lors, son influence grandit de plus en plus et arrive à son apogée sous les Antonins. Après eux, il disparaît subitement ; les écoles qu'il avait si longtemps combattues, ne lui survivent pas ; l'hellénisme semble sentir le besoin de concentrer ses forces contre le flot montant du christianisme ; Plotin et ses disciples immédiats occupent la scène du III° siècle et, après eux, il n'y aura plus qu'une seule philosophie hellène.
 
-Pour se rendre un compte exact des raisons de cette vicissitude, il faut remarquer que le véritable mouvement stoïcien, celui qui a
-
-[p. 6]
-
-trouvé sa plus pure expression dans Épictète, recouvrait, au fond, un mouvement politique ; c'était, en réalité, la lutte de l'hellénisme sous sa forme la plus noble, adoptée par ce qu'il y avait de meilleur dans l'aristocratie romaine, contre les
+Pour se rendre un compte exact des raisons de cette vicissitude, il faut remarquer que le véritable mouvement stoïcien, celui qui a [p. 6] trouvé sa plus pure expression dans Épictète, recouvrait, au fond, un mouvement politique ; c'était, en réalité, la lutte de l'hellénisme sous sa forme la plus noble, adoptée par ce qu'il y avait de meilleur dans l'aristocratie romaine, contre les
 
 traditions violentes du césarisme. Mais, une fois vainqueur avec les Antonins, le stoïcisme se trouva impuissant devant la tâche immense qui s'imposait à lui ; la conscience et l'aveu de cette impuissance éclatent dans le beau livre de Marc-Aurèle ; après sa mort, un effondrement du système était inévitable.
 
@@ -108,9 +94,7 @@ est formulé ; mais dès auparavant la tendance qu'il indique se prononçait des
 
 Qu'un homme de génie vienne maintenant, à l'heure propice, donner une formule définitive à ce syncrétisme inconsciemment préparé, une nouvelle philosophie sera fondée [^p7-2] et elle ralliera nécessairement toutes les forces vives de l'hellénisme, après la banqueroute du stoïcisme officiel. Mais cette profonde et remarquable transformation n'en sera pas moins insuffisante pour empêcher le triomphe politique du christianisme et l'ouverture d'une ère nouvelle.[^p7-1]
 
-[p. 8]
-
-ou Eutocius, que ce soit Jamblique ou Proclus, Simplicius, Philopon ou Olympiodore [^p8-2], l'impression générale que produisent leurs écrits est toujours la même ; le but est d'enseigner une science existante (et qui se perd de plus en plus), non de la perfectionner ni de l'étendre.
+[p. 8] ou Eutocius, que ce soit Jamblique ou Proclus, Simplicius, Philopon ou Olympiodore [^p8-2], l'impression générale que produisent leurs écrits est toujours la même ; le but est d'enseigner une science existante (et qui se perd de plus en plus), non de la perfectionner ni de l'étendre.
 
 Il serait injuste de ne pas mentionner pour la même période, en regard de cette appréciation sommaire : des travaux médicaux d'une certaine importance (l'utilité de l'art d'Hippocrate maintenait mieux le niveau de son étude, tandis que baissait celui des sciences théoriques) ; l'école d'ingénieurs qui se rendit célèbre sous Justinien ; enfin et surtout l'apparition de ces curieux écrits chimiques qu'un maître de la science moderne tire aujourd'hui d'un long oubli. Mais s'il y a là l'indice d'une certaine activité intellectuelle, cherchant à sortir du cadre consacré par la tradition et à répondre à de nouveaux besoins ou à de nouveaux désirs de l'humanité, cette activité ne fut pas assez puissante pour créer un nouveau courant scientifique, ni pour modifier
 
@@ -132,9 +116,7 @@ Je n'ai évidemment pas la prétention d'avoir marqué, dans la rapide esquisse 
 
 Des quatre périodes que j'ai définies, la première est, sans contredit, celle qui a été, jusqu'à présent, l'objet des travaux les plus nombreux ; c'est pourtant celle dont l'histoire reste toujours la plus obscure, et c'est à l'éclaircir, s'il est possible, c'est à rechercher et à appliquer de nouvelles méthodes de critique plus plausibles, que sont consacrées les études réunies dans ce volume. Je laisserai d'ailleurs de côté, en thèse générale, ce qui concerne, soit la médecine, soit la géométrie, qui veulent être traitées à part [^p9-2] ; je m'attacherai principalement à ce qui regarde la cosmologie, la physique générale et aussi l'astronomie, en tant du moins qu'elle se rattache au même ordre d'idées.[^p9-1]
 
-[p. 10]
-
-Il est cependant facile de reconnaître quels graves inconvénients présente, pour une claire intelligence du progrès scientifique à son début, la méthode naturellement adoptée par les philosophes pour la restitution des systèmes des premiers physiologues.
+[p. 10] Il est cependant facile de reconnaître quels graves inconvénients présente, pour une claire intelligence du progrès scientifique à son début, la méthode naturellement adoptée par les philosophes pour la restitution des systèmes des premiers physiologues.
 
 En présence des fragments épars et des renseignements partiels que fournissent les auteurs anciens pour chaque physiologue en particulier, le philosophe cherchera, en effet, tout d'abord, à dégager l'idée métaphysique la plus importante ; au besoin, il la formulera lui-même, sans trop s'inquiéter souvent s'il le fait en termes appartenant vraiment à la même époque. Il groupera ensuite, autour de cette idée — mère, les opinions qu'il regarde comme secondaires ; il en établira, autant que faire se peut, la filiation logique et la dérivation successive ; mais forcément il négligera ou citera seulement, à titre de curiosité, les thèses spéciales d'un caractère purement scientifique.
 
@@ -160,9 +142,7 @@ cette conception générale, il faut évidemment faire passer en première ligne
 
 A quels résultats peut conduire l'application systématique de cette méthode, on le reconnaîtra dans les monographies particulières que renferme ce volume. Si imparfaits que puissent être encore ces premiers essais, j'ose dire qu'on ne peut espérer autrement mettre l'ordre et la clarté où régnaient la confusion et l'incertitude ; mais surtout cette méthode conduit à reconnaître une unité singulière et un lien tout naturel entre des doctrines que l'on se plaît à considérer, du point de vue philosophique, comme discordantes et contradictoires.[^p11-1]
 
-[p. 12]
-
-qui, aux yeux des physiologues antiques, n'avaient nullement la prépondérance qu'elles ont acquise plus tard. Ce ne sont donc pas les solutions qu'ils donnent à ces questions qui forment la caractéristique essentielle de leurs systèmes ; j'aurais pu les laisser dans l'ombre, si je n'avais cru intéressant de rechercher comment elles se sont trouvées mêlées aux problèmes proprement scientifiques, sous quelles influences elles ont grandi et à la suite de quelle évolution elles sont parvenues à concentrer sur elles une part si considérable de l'activité intellectuelle.
+[p. 12] qui, aux yeux des physiologues antiques, n'avaient nullement la prépondérance qu'elles ont acquise plus tard. Ce ne sont donc pas les solutions qu'ils donnent à ces questions qui forment la caractéristique essentielle de leurs systèmes ; j'aurais pu les laisser dans l'ombre, si je n'avais cru intéressant de rechercher comment elles se sont trouvées mêlées aux problèmes proprement scientifiques, sous quelles influences elles ont grandi et à la suite de quelle évolution elles sont parvenues à concentrer sur elles une part si considérable de l'activité intellectuelle.
 
 La plupart de ces questions sont telles, en fait, que la science ne peut s'en désintéresser absolument ; quand elle ne recommence pas à les discuter dans une certaine mesure, c'est qu'elle n'ignore plus qu'elle peut, sans inconvénient, les préjuger dans un sens déterminé ou bien qu'elle n'a pas encore réuni assez d'éléments pour les aborder fructueusement. J'ai donc été conduit à tenir compte, pour chacun de ces problèmes, de l'importance qu'il me paraissait avoir aux yeux de la science moderne, comme aussi à préciser la position prise, en face d'eux, par cette dernière. Enfin, j'ai pu avoir à marquer la limite qui sépare le terrain scientifique du domaine de l'inconnaissable. Certes, les premiers pionniers de la pensée humaine ne pouvaient aucunement discerner
 
@@ -184,9 +164,7 @@ Les lacunes qu'offre la liste des monographies ainsi réunies, sont assez frappa
 
 Ce livre présentera déjà, je crois, assez de thèses nouvelles et partant sujettes à controverse, pour que je ne le grossisse pas encore d'autres qu'il me serait impossible d'appuyer suffisamment et surtout sur lesquelles je n'ai pu me former pour moi-même une opinion bien plausible. Quant à me borner à répéter ce qui a été déjà dit et que l'on trouve partout, cela sans doute était inutile ; j'avais, sur d'autres sujets, assez d'autres emprunts à faire à des travaux encore insuffisamment connus en France et dont l'analyse, je l'espère du moins, offrira d'autant plus d'intérêt qu'elle pouvait être moins attendue [^p13-1].
 
-[p. 14]
-
-11. Au lieu de suivre l'ordre par écoles, suivant la tradition de l'histoire philosophique, j'ai cherché à suivre l'ordre des temps, le seul qui puisse faire apprécier la succession des progrès scientifiques et la transmission des découvertes. Même au point de vue philosophique, cet ordre ne présente d'ailleurs aucun inconvénient pour une époque où l'enseignement d'école n'a guère existé, de fait, en dehors des pythagoriens, d'autant que l'évolution qu'ont pu subir les doctrines de ces derniers nous est, pour ainsi dire, absolument inconnue.
+[p. 14] 11. Au lieu de suivre l'ordre par écoles, suivant la tradition de l'histoire philosophique, j'ai cherché à suivre l'ordre des temps, le seul qui puisse faire apprécier la succession des progrès scientifiques et la transmission des découvertes. Même au point de vue philosophique, cet ordre ne présente d'ailleurs aucun inconvénient pour une époque où l'enseignement d'école n'a guère existé, de fait, en dehors des pythagoriens, d'autant que l'évolution qu'ont pu subir les doctrines de ces derniers nous est, pour ainsi dire, absolument inconnue.
 
 Mais la chronologie des philosophes de l'âge hellène présente des difficultés considérables et souvent de graves incertitudes. J'ai donc été amené à la discuter dans un chapitre particulier, dont je puis dès maintenant énoncer la conclusion générale ; c'est que, sur cette question, les anciens n'avaient guère de documents sérieux que nous ne connaissions d'ailleurs ; que la tradition la mieux assurée est, en réalité, passablement incertaine ; que dès lors, là où elle prète à l'indécision, on doit se former une opinion d'après les indices fournis par la comparaison des doctrines.[^p14-1]
 
@@ -200,9 +178,7 @@ En dehors des classiques, les
 
 écrits de date ancienne ont toujours été, dans l'antiquité, très rares et très chers, sinon absolument introuvables en dehors des grandes bibliothèques [^p15-1]. La plupart du temps, on se contentait donc de puiser ses informations dans des compilations ou des recueils polygraphiques, comme il nous en reste encore quelques-uns sur divers sujets, mais comme nous savons pertinemment qu'il en a existé un nombre beaucoup plus considérable, et dont nous ne pouvons douter qu'ils ne fussent toujours refaits, comme nos dictionnaires, en grande partie les uns sur les autres [^p15-2].
 
-[p. 16]
-
-13. Si la valeur des fragments des anciens physiologues, en tant que sources historiques, ne se prète point à une étude d'ensemble, il n'en est pas de même de la seconde classe de renseignements dont nous disposons, et qui d'ailleurs, généralement moins importants au point de vue philosophique, sont au contraire plus précieux pour l'histoire de la science. Les opinions des physiologues sur les questions physiques et naturelles particulières se trouvent, en effet, réunies en abrégé dans divers ouvrages de l'antiquité, écrits, au reste, à différents propos et construits sur des plans différents. Or, si l'on se pose à ce sujet les questions suivantes : A quelles sources ont à leur tour puisé les auteurs de ces écrits, les doxographes grecs, comme on les appelle ? Quels matériaux ont-ils utilisés ? Quels sont les liens qui les rattachent les uns aux autres, et quel degré de confiance peut mériter chacun d'eux ? il est désormais permis de répondre avec une certaine précision.
+[p. 16] 13. Si la valeur des fragments des anciens physiologues, en tant que sources historiques, ne se prète point à une étude d'ensemble, il n'en est pas de même de la seconde classe de renseignements dont nous disposons, et qui d'ailleurs, généralement moins importants au point de vue philosophique, sont au contraire plus précieux pour l'histoire de la science. Les opinions des physiologues sur les questions physiques et naturelles particulières se trouvent, en effet, réunies en abrégé dans divers ouvrages de l'antiquité, écrits, au reste, à différents propos et construits sur des plans différents. Or, si l'on se pose à ce sujet les questions suivantes : A quelles sources ont à leur tour puisé les auteurs de ces écrits, les doxographes grecs, comme on les appelle ? Quels matériaux ont-ils utilisés ? Quels sont les liens qui les rattachent les uns aux autres, et quel degré de confiance peut mériter chacun d'eux ? il est désormais permis de répondre avec une certaine précision.
 
 Jamais les écrits des physiologues n'ont directement servi aux doxographes ; ces derniers se rattachent tous originairement à un grand ouvrage historique composé par Théophraste, et encore cet ouvrage s'est perdu de bonne heure et a été remplacé par des abrégés et des compilations utilisées pour la rédaction de celles que nous possédons aujourd'hui.
 
@@ -220,9 +196,7 @@ Ces quelques indications suffiront pour les rares excursions que j'aurai à fair
 
 2
 
-[p. 18]
-
-CHAPITRE
+[p. 18] CHAPITRE
 
 #### I
 
@@ -234,9 +208,7 @@ L'intérêt que présentaient les divers renseignements ainsi épars dans l'œuv
 
 L'histoire qu'il écrivit paraît avoir été connue dans l'antiquité sous deux recensions différentes, l'une Des opinions des physiciens (φυσικῶν δοξῶν) en seize livres, l'autre Sur les physiciens (περί φυσικῶν) en dix-huit [^p18-1]. Peut-être la différence entre le nombre
 
-[p. 19]
-
-CHAPITRE des livres des deux recensions provient-elle simplement de ce qu'un auteur de catalogue aura compris dans la seconde un Abrégé en deux livres, qui, en tout cas, a été écrit de très bonne heure.
+[p. 19] CHAPITRE des livres des deux recensions provient-elle simplement de ce qu'un auteur de catalogue aura compris dans la seconde un Abrégé en deux livres, qui, en tout cas, a été écrit de très bonne heure.
 
 De ce volumineux ouvrage, il ne subsiste qu'un morceau vraiment entier, relatif aux Sensations, et quelques citations, la plupart de seconde main, et surtout dans Simplicius, qui les a empruntées à Alexandre d'Aphrodisias. Il y a bien encore, sous le nom de Théophraste, dans le Pseudo-Philon Sur l'incorruptibilité du monde, un fragment considérable ; mais il provient plutôt du péripatéticien Critolaos, et expose, en tout cas, à côté d'opinions anciennes, des doctrines du Portique que Théophraste n'avait pas touchées ; car, loin de descendre jusqu'à ses contemporains,
 
@@ -250,9 +222,7 @@ sont donc, en principe, susceptibles des mêmes réserves que ceux que fournisse
 
 deux recensions de l'ouvrage historique figurent, la plus volumineuse dans le premier (avec l'Abrégé en deux livres), l'autre dans le second catalogue. Le premier indiqué encore, comme titres analogues (V, 45 et 46) : Sur la nature, trois livres ; Contre les physiciens, un livre ; huit livres de Physique, (φυσικῶν). Ces derniers paraissent avoir correspondu à ceux de la Physique d'Aristote et avoir été abrégés en un seul livre (second catalogue). Quant aux dix livres περὶ φυσικῶν ἱστοριῶν et aux huit περὶ φυσικῶν αἰτιῶν, qu'indiquent les éditions ordinaires, il faut lire φυτικῶν, car il s'agit des livres Sur les plantes, qui subsistent en grande partie. Enfin un livre Sur la nature (V, 50) apparaît encore au milieu des quelques autres qui suivent le quatrième catalogue. (1) Pages 499 à 527 des Doxographi græci de Diels.
 
-[p. 20]
-
-2. L'ouvrage historique de Théophraste, de même que l'œuvre d'Aristote, ne se répandit guère, pendant la période alexandrine, en dehors du cercle restreint de l'école péripatéticienne. Cependant il servit, dans une mesure plus ou moins large, aux faiseurs de biographies et aux auteurs de Successions des philosophes qui commencèrent bientôt à fleurir. Il était évidemment facile d'extraire, soit du grand ouvrage, soit de l'abrégé, la suite méthodique des opinions professées sur chaque sujet par chacun des anciens physiciens et de présenter ainsi un tableau résumé de chaque système. Un pareil extrait, qui paraît assez fidèle [^p20-1], fait le fonds de ce livre des Philosophumena faussement attribués à Origène et que l'érudition allemande s'accorde aujourd'hui, sans motifs bien décisifs, à mettre sous le nom de saint Hippolyte, évêque et martyr. Toutefois, le compilateur de ces Philosophumena, qui, en tout cas, vivait vers le commencement du IIIe siècle, a également utilisé un abrégé biographique d'une valeur bien moindre, si ce n'est par les renseignements chronologiques qu'il renferme et dont j'aurai à parler dans le prochain chapitre.
+[p. 20] 2. L'ouvrage historique de Théophraste, de même que l'œuvre d'Aristote, ne se répandit guère, pendant la période alexandrine, en dehors du cercle restreint de l'école péripatéticienne. Cependant il servit, dans une mesure plus ou moins large, aux faiseurs de biographies et aux auteurs de Successions des philosophes qui commencèrent bientôt à fleurir. Il était évidemment facile d'extraire, soit du grand ouvrage, soit de l'abrégé, la suite méthodique des opinions professées sur chaque sujet par chacun des anciens physiciens et de présenter ainsi un tableau résumé de chaque système. Un pareil extrait, qui paraît assez fidèle [^p20-1], fait le fonds de ce livre des Philosophumena faussement attribués à Origène et que l'érudition allemande s'accorde aujourd'hui, sans motifs bien décisifs, à mettre sous le nom de saint Hippolyte, évêque et martyr. Toutefois, le compilateur de ces Philosophumena, qui, en tout cas, vivait vers le commencement du IIIe siècle, a également utilisé un abrégé biographique d'une valeur bien moindre, si ce n'est par les renseignements chronologiques qu'il renferme et dont j'aurai à parler dans le prochain chapitre.
 
 D'autres abrégés de Théophraste, également par noms d'auteurs et de plus en plus éloignés de la source primitive, ont de même été utilisés
 
@@ -260,15 +230,13 @@ D'autres abrégés de Théophraste, également par noms d'auteurs et de plus en 
 
 2º Par Diogène Laërce, qui, d'ailleurs, à côté d'une compilation relativement détaillée, en emploie une autre beaucoup plus sommaire, laquelle ne dérive pas directement de Théophraste, mais d'un biographe quelconque ;
 
-3º Par divers auteurs ecclésiastiques, généralement très brefs dans l'objet, comme Eusèbe (Prép. évang., X, XIV, XV, passim), Théodoret, Irénée, Arnobe, saint Augustin, Épiphane, etc.
+3º Par divers auteurs ecclésiastiques, généralement très brefs dans l'objet, comme Eusèbe (Prép. évang., X, XIV, XV, *passim*), Théodoret, Irénée, Arnobe, saint Augustin, Épiphane, etc.
 
 Théophraste avait, il est vrai, composé, en dehors de son grand ouvrage historique, un certain nombre de monographies, mais rien n'indique qu'elles aient jamais été directement utilisées.
 
 Il est évidemment impossible de déterminer à quelle époque ont
 
-[p. 21]
-
-CHAPITRE 'été faits les divers abrégés dont nous retrouvons ainsi les traces, et dont la valeur relative peut s'apprécier par comparaison, soit avec les fragments conservés sous le nom de Théophraste, soit avec le corps des Placita philosophorum dont nous allons parler tout à l'heure. Il y a eu sans doute toute une série de pareils abrégés, composés aux dates les plus différentes jusqu'à ceux qui nous sont parvenus. Mais les premiers et les meilleurs seuls ont été directement tirés, soit des
+[p. 21] CHAPITRE 'été faits les divers abrégés dont nous retrouvons ainsi les traces, et dont la valeur relative peut s'apprécier par comparaison, soit avec les fragments conservés sous le nom de Théophraste, soit avec le corps des Placita philosophorum dont nous allons parler tout à l'heure. Il y a eu sans doute toute une série de pareils abrégés, composés aux dates les plus différentes jusqu'à ceux qui nous sont parvenus. Mais les premiers et les meilleurs seuls ont été directement tirés, soit des
 
 Opinions
 
@@ -282,25 +250,17 @@ Les avantages d'une telle modification auraient été très grands, si le rédac
 
 Juxtaposer, purement et simplement, avec la plus complète indifférence, les affirmations les plus disparates, cela lui suffisait. Au point de vue scientifique, les résultats d'un tel procédé ne pouvaient être que déplorables.
 
-Aristote tout le premier, Théophraste après lui, s'étaient bien fait un plaisir d'opposer les unes aux autres les opinions des anciens physiciens. Exagérer les différences, au lieu de mettre en
-
-[p. 22]
-
-lumière les points communs, c'était le moyen de détruire ces opinions les unes par les autres, et de laisser le champ libre pour l'exposé d'une thèse nouvelle. Mais au moins le Stagirite développait cette thèse, au moins semblait-il chercher à faire jaillir la vérité du choc des doctrines contraires.
+Aristote tout le premier, Théophraste après lui, s'étaient bien fait un plaisir d'opposer les unes aux autres les opinions des anciens physiciens. Exagérer les différences, au lieu de mettre en [p. 22] lumière les points communs, c'était le moyen de détruire ces opinions les unes par les autres, et de laisser le champ libre pour l'exposé d'une thèse nouvelle. Mais au moins le Stagirite développait cette thèse, au moins semblait-il chercher à faire jaillir la vérité du choc des doctrines contraires.
 
 Tels que les Placita furent rédigés, ils ne pouvaient que satisfaire la curiosité du lettré ou fournir des arguments au scepticisme. Ils caractérisent l'état d'esprit d'une époque dont nous ne pouvons que difficilement nous faire une idée, à notre âge de dogmatisme scientifique. Il semble que l'étude de la nature était alors retombée à l'état actuel de notre philosophie, au simple probabilisme. L'idéal si bien entrevu par Aristote s'est obscurci ; déjà académiciens et épicuriens se sont endormis sur le commode oreiller du doute, et les stoïciens ne sont pas de taille à secouer la torpeur qui gagne les esprits. L'éclectisme auquel ils se laissent désormais aller, décèle en réalité un manque de convictions, quelles que soient les protestations contraires.[^p22-1][^p22-2]
 
-[p. 23]
-
-CHAPITRE contradictoirement les opinions des écoles adverses, sans se soucier de les reproduire exactement, en les réduisant au contraire à des formules brèves et exagérées, accoupler les dénégations aux affirmations tout en se gardant bien d'en indiquer les véritables motifs, il y a là un mode de discussion trop facile pour qu'on n'en ait pas toujours usé et abusé.
+[p. 23] CHAPITRE contradictoirement les opinions des écoles adverses, sans se soucier de les reproduire exactement, en les réduisant au contraire à des formules brèves et exagérées, accoupler les dénégations aux affirmations tout en se gardant bien d'en indiquer les véritables motifs, il y a là un mode de discussion trop facile pour qu'on n'en ait pas toujours usé et abusé.
 
 Mais, ce qui doit nous toucher le plus, c'est uniquement de la sorte que l'histoire des anciens systèmes nous a été transmise. Dans toutes les sources, depuis Aristote, ils nous apparaissent aussi opposés que l'auteur qui nous en parle pouvait oser les figurer. C'est donc un chaos complet, et le premier besoin, dès qu'on a commencé, dans les temps modernes, à les étudier sans le même parti pris, fut évidemment de chercher à y remettre de l'ordre, à rétablir les filiations logiques. Néanmoins, la croyance à la réalité d'oppositions fondamentales, en nombre plus ou moins grand, s'est forcément implantée comme préjugé, mème chez les historiens les plus imbus du désir de l'unité. Le développement de ces oppositions constitue d'ailleurs un cadre aussi avantageux pour l'exposé des doctrines que leur réduction à quelques formules saisissantes est commode pour la mémoire du lecteur. De là le succès des histoires de la philosophie conçues dans cet esprit ; de là aussi la rareté des quelques tentatives qui ont pu être faites en sens contraire.
 
 Et cependant, tant qu'on persistera dans cette voie, l'histoire de la science restera inintelligible ; le progrès des connaissances positives, l'élaboration des concepts correspondants ne peuvent ètre discernés ni compris, si l'on ne pénètre au delà des contradictions apparentes pour retrouver le fonds commun. Ainsi, tandis que les documents font surtout ressortir les différences entre les anciens physiologues, le rôle de l'historien doit être aujourd'hui de rechercher surtout les ressemblances ; c'est, en effet, leur constatation seule qui peut permettre de rendre raison des différences, d'en préciser le véritable caractère et d'en déterminer l'importance réelle.[^p23-1]
 
-[p. 24]
-
-distinctes que nous possédons encore et où la communauté de leur origine se reconnaît immédiatement.
+[p. 24] distinctes que nous possédons encore et où la communauté de leur origine se reconnaît immédiatement.
 
 La plus ancienne de ces compilations figure au nombre des œuvres de Plutarque, sans qu'il soit, d'ailleurs, permis de la lui attribuer ; elle est connue sous le titre latin qui nous a servi à désigner le recueil originaire ; c'est en grec : περὶ τῶν ἀρεσκόντων φιλοσόφοις φυσικῶν δογμάτων ἐπιτομῆς βιβλία πέντε.
 
@@ -312,9 +272,7 @@ La comparaison des divers extraits des Placita avec le texte des manuscrits actu
 
 Pendant le moyen âge, les Placita du Ps.-Plutarque ont continué à jouir de la vogue qu'ils avaient acquise dès l'antiquité. Les Arabes
 
-[p. 25]
-
-CHAPITRE les ont traduits comme classiques, et les érudits byzantins, Michel Psellus, Siméon Seth, Tzetzės, etc., les ont à leur tour copiés ou ont essayé de les imiter. Mais il est inutile de nous arrêter plus longuement sur leurs témoignages, qui n'ont de valeur que pour la critique du texte.
+[p. 25] CHAPITRE les ont traduits comme classiques, et les érudits byzantins, Michel Psellus, Siméon Seth, Tzetzės, etc., les ont à leur tour copiés ou ont essayé de les imiter. Mais il est inutile de nous arrêter plus longuement sur leurs témoignages, qui n'ont de valeur que pour la critique du texte.
 
 6. Le recueil de Stobée comprend un fonds commun avec celui du Ps. -Plutarque ; mais, la plupart du temps, il est beaucoup plus complet, tandis que pour certains chapitres, c'est tout le contraire. Le rapprochement des deux textes amène immédiatement à conclure que les deux compilateurs avaient à leur disposition un recueil antérieur qu'ils ont, chacun de leur côté, tantôt copié littéralement, tantôt écourté à leur guise.
 
@@ -328,15 +286,11 @@ rapprochées des vers d'Homère, semble remonter au rer siècle avant notre ère
 
 il ne représente aucune tradition sérieuse.[^p25-1]
 
-[p. 26]
-
-Cet Aétius nous est complètement inconnu d'ailleurs et l'on ne peut fixer son âge que par conjecture, vers la fin du 1er siècle de notre ère. Il n'en est pas moins possible, grâce à Stobée et au Ps. -Plutarque, de recomposer, sans difficultés majeures, sa collection des Placita, que le second compilateur s'est, pour son compte, rarement permis d'interpoler. Ce travail de restitution a été accompli par H. Diels avec une admirable sûreté de critique, et désormais c'est donc Aétius et non Stobée ou le Ps.-Plutarque qu'il convient de citer d'après l'édition des Doxographi græci.
+[p. 26] Cet Aétius nous est complètement inconnu d'ailleurs et l'on ne peut fixer son âge que par conjecture, vers la fin du 1er siècle de notre ère. Il n'en est pas moins possible, grâce à Stobée et au Ps. -Plutarque, de recomposer, sans difficultés majeures, sa collection des Placita, que le second compilateur s'est, pour son compte, rarement permis d'interpoler. Ce travail de restitution a été accompli par H. Diels avec une admirable sûreté de critique, et désormais c'est donc Aétius et non Stobée ou le Ps.-Plutarque qu'il convient de citer d'après l'édition des Doxographi græci.
 
 Avons-nous retrouvé du moins ce rédacteur des Placita primitifs que nous avons dû signaler comme malheureusement bien audessous de sa tâche ? Pas même, et Aétius lui était encore inférieur ; il semble avoir appartenu à l'école péripatéticienne, mais il n'en a certainement été qu'un élève bien médiocre. On le voit d'ailleurs prendre plaisir à intercaler dans sa compilation des morceaux d'origine stoïcienne à côté d'autres nettement épicuriens. Mais en fait, cette compilation, il doit la copier, en l'abrégeant plus ou moins, dans un recueil originaire directement composé, d'une part sur Théophraste, de l'autre, pour les temps postérieurs à Platon, sur les manuels courants des doctrines en vogue.[^p26-1]
 
-[p. 27]
-
-CHAPITRE
+[p. 27] CHAPITRE
 
 Il est clair, d'autre part, que le rédacteur des Placita primitifs appartenait à l'école stoïcienne de Posidonius et qu'il a dû se servir des écrits de ce dernier. Il semble également avoir eu à sa disposition un recueil d'opinions de médecins, plus ou moins ancien, et constituant dès lors aussi une source étrangère à Théophraste.
 
@@ -348,13 +302,9 @@ Comme je l'ai déjà indiqué, la première compilation a été en partie copié
 
 L'écrit que nous possédons sous le nom d'Hermias représente, sous la forme la moins sérieuse, mais en même temps de la façon la plus caractéristique, la polémique chrétienne dirigée contre la philosophie hellène. Le ton de la moquerie est tel qu'on ne peut guère supposer que les adversaires visés soient encore debout ; la date de l'opuscule paraît donc postérieure au ve siècle et peut-être est-elle beaucoup plus récente. Quant aux sources utilisées, on peut en tout cas reconnaître Justin (Cohort. ad Gentil.), c'està-dire indirectement les Placita du Ps. -Plutarque ; mais il y a des traces d'emprunts à quelque autre manuel doxographique et quelques-uns de ces emprunts ne sont pas sans intérêt.
 
-[p. 28]
+[p. 28] En résumé, l'histoire de la tradition écrite qui nous a transmis les opinions des anciens physiologues, réduit à une seule véritable les très nombreuses sources qui se présentent au premier abord ; cette source unique est d'ailleurs quelque peu sujette à caution, et, d'un autre côté, nous ne pouvons y puiser directement ; il nous faut la reconstituer à l'aide d'éléments impurs. Mais au moins la critique peut s'exercer d'après des principes assurés ; elle marche sur un terrain solide et n'a guère à redouter l'indécision entre deux textes contradictoires. Nous allons voir qu'il n'en est pas malheureusement toujours de même en ce qui concerne la chronologie des physiologues.
 
-En résumé, l'histoire de la tradition écrite qui nous a transmis les opinions des anciens physiologues, réduit à une seule véritable les très nombreuses sources qui se présentent au premier abord ; cette source unique est d'ailleurs quelque peu sujette à caution, et, d'un autre côté, nous ne pouvons y puiser directement ; il nous faut la reconstituer à l'aide d'éléments impurs. Mais au moins la critique peut s'exercer d'après des principes assurés ; elle marche sur un terrain solide et n'a guère à redouter l'indécision entre deux textes contradictoires. Nous allons voir qu'il n'en est pas malheureusement toujours de même en ce qui concerne la chronologie des physiologues.
-
-[p. 29]
-
-CHAPITRE
+[p. 29] CHAPITRE
 
 #### II
 
@@ -368,11 +318,7 @@ La chronologie ne fut fondée qu'au siècle suivant, par Ératosthène. S'occupa
 
 Les travaux chronologiques d'Eratosthène furent vułgarisés, au IIe siècle av. J.-C., par un poème didactique dont la vogue fut assez grande pour les faire oublier, au moins en ce qui concerne les philosophes. Les quatre livres de Chroniques d'Apollodore d'Athènes, écrits en trimètres et allant de la prise de Troie (1184) à l'année 144, furent dédiés au roi Attale II de Pergame ; mais l'auteur dut en donner une seconde édition prolongée, puisque Diogène Laërce rapporte d'après lui la mort de Carnéade à Ol. 162,4 = 129/8.
 
-L'auteur des Vies des philosophes cite assez souvent Apollodore, quoique probablement par l'intermédiaire de quelque biographe,
-
-[p. 30]
-
-auteur de Successions ou autre compilateur, comme Pamphila, par exemple ; en tous cas, les dates ainsi garanties sont unanimement reconnues comme les plus dignes de foi. Aussi peut-on se proposer la restitution de la chronologie des anciens philosophes d'après Apollodore, comme un problème intéressant et qui, sur celui de la chronologie réelle et précise, offre au moins l'avantage de se présenter comme susceptible de solution.
+L'auteur des Vies des philosophes cite assez souvent Apollodore, quoique probablement par l'intermédiaire de quelque biographe, [p. 30] auteur de Successions ou autre compilateur, comme Pamphila, par exemple ; en tous cas, les dates ainsi garanties sont unanimement reconnues comme les plus dignes de foi. Aussi peut-on se proposer la restitution de la chronologie des anciens philosophes d'après Apollodore, comme un problème intéressant et qui, sur celui de la chronologie réelle et précise, offre au moins l'avantage de se présenter comme susceptible de solution.
 
 Ce problème a été traité d'une façon magistrale par Hermann Diels dans le Rheinisches Museum
 
@@ -404,11 +350,7 @@ rencontrons plusieurs fois un Sosicrate, auteur de Successions, qui paraît avoi
 
 Un ouvrage de chronologie spéciale, antérieur même à Ératosthène, l'Anagraphé des archontes athéniens de Démétrius de Phalère, est aussi cité deux fois par Diogène Laërce, la première au sujet des sept sages, la seconde au sujet d'Anaxagore [^p31-2], sans qu'on puisse reconnaître, au reste, d'où proviennent ces citations. Mais il n'est pas douteux qu'Apollodore avait dû se servir de cet ouvrage ; il est même possible qu'il l'ait nommément cité pour Anaxagore ; toutefois, nous n'avons aucune preuve qu'il l'ait constamment suivi.
 
-Abstraction faite des déterminations spéciales, comme celle de Thrasylle pour Démocrite, voilà quelles sont toutes les autorités chronologiques qui apparaissent dans Diogène Laërce, et il n'y a guère lieu de soupçonner l'existence de quelque autre qui serait
-
-[p. 32]
-
-demeurée anonyme. En somme, l'ensemble peut se rapporter à Sosicrate et Apollodore, qui le plus souvent étaient d'accord.
+Abstraction faite des déterminations spéciales, comme celle de Thrasylle pour Démocrite, voilà quelles sont toutes les autorités chronologiques qui apparaissent dans Diogène Laërce, et il n'y a guère lieu de soupçonner l'existence de quelque autre qui serait [p. 32] demeurée anonyme. En somme, l'ensemble peut se rapporter à Sosicrate et Apollodore, qui le plus souvent étaient d'accord.
 
 Mais (et ici je ne suis plus, comme guide, H. Diels, dont je m'écarterai de même sur divers points de détail), il me paraît possible d'établir que Sosicrate a prétendu plusieurs fois corriger Apollodore et qu'il en est résulté diverses erreurs et difficultés chronologiques.
 
@@ -420,9 +362,7 @@ La détermination de l'époque de Thalès se trouve liée en effet au
 
 synchronisme établi pour les sept sages. On sait qu'une légende, qui avait déjà cours au temps de Platon [^p32-1], supposait que les personnages ainsi désignés avaient été célèbres à une même date précise. Or, cette date avait été fixée par Démétrius de Phalère sous l'archontat de Damasias, qui d'après les marbres de Paros, correspond à Ol. 48,3 = 586 av. J.-C. [^p32-2].
 
-Nous nous demanderons tout à l'heure comment cette date avait été choisie ; pour le moment, il nous suffit d'observer que tout chronologiste, reconnaissant une liste de sept sages déterminés,
-
-[p. 33]
+Nous nous demanderons tout à l'heure comment cette date avait été choisie ; pour le moment, il nous suffit d'observer que tout chronologiste, reconnaissant une liste de sept sages déterminés, [p. 33]
 
 ### Chapitre Ii.
 
@@ -446,9 +386,7 @@ Passons au second sage dans l'ordre des âges. L'acmé de PITTACUS est fixée pa
 
 3
 
-[p. 34]
-
-Ol. 52,3 = 570, tandis que la vie n'aurait duré que 70 ans, au lieu de 82, comme le supposent les dates qui précèdent.
+[p. 34] Ol. 52,3 = 570, tandis que la vie n'aurait duré que 70 ans, au lieu de 82, comme le supposent les dates qui précèdent.
 
 Nous voici en présence d'une nouvelle difficulté, plus grave que la première, et, malheureusement, Diogène Laërce n'invoque ici aucune autorité. L'incertitude ne peut guère être dissipée ; on est tenté de croire, à première vue, que la date Ol. 52,3 pour la mort (et par suite la durée de 82 ans pour la vie) appartient à Apollodore, qui aura voulu tenir compte de la tradition mettant Pittacus en rapport avec Crésus roi (Hérodote, prétendue lettre de Pittacus dans Diogène Laërce) ; nous verrons en effet qu'Apollodore faisait remonter à Ol. 52,1 = 572 le commencement du règne de Crésus et à Ol. 55,3 = 558, c'est-à-dire douze ans plus tôt que Sosicrate, la prise de Sardes. Mais précisément l'identité de cette différence de douze ans avec celle qui existe entre les deux durées indiquées pour la vie, me ferait plutôt penser qu'Apollodore avait parlé de 70 ans, d'après une tradition, et fixé par suite la mort de Pittacus à Ol. 49,3 = 582. Sosicrate, sachant très bien que les dates qu'il avait adoptées pour le règne de ce dernier, différaient de 12 ans avec celles d'Apollodore, aura déplacé d'autant la date de la mort de Pittacus, sans s'apercevoir que cette correction était insuffisante, si du moins il voulait tenir compte des relations supposées avec Crésus, ce qu'Apollodore avait négligé de faire.
 
@@ -470,11 +408,7 @@ Quant aux autres sages des listes ordinaires, Diogène Laërce n'indique pas de 
 
 Nous trouvons, pour les sages des autres listes, directement rattachées à l'époque de Solon, les dates du passage à Athènes d'ÉPIMÉNIDE, Ol. 46, et d'ANACHARSIS, Ol. 47. Mais ici, pour le premier du moins, eu égard aux traditions qui le concernent, il n'y a pas à parler d'acmé.
 
-On sait que, d'après Platon (Lois, 652 d), ce serait dix ans seulement avant Marathon, c'est-à-dire vers 500 (Ol. 70), qu'Épiménide aurait purifié Athènes. De même, Porphyre et Iamblique (2) donnent expressément Épiménide le purificateur comme disciple de Pythagore. Je ne crois donc pas qu'il faille accuser Platon, comme on l'a fait, d'un grossier anachronisme ; le plus simple est
-
-[p. 36]
-
-de distinguer deux Épiménides qui, à près d'un siècle de distance, seraient venus accomplir des cérémonies religieuses à Athènes ; l'ami de Solon semble avoir été de Phæstos (Plutarque) ; l'Épiménide dont parle Platon est de Cnosse.
+On sait que, d'après Platon (Lois, 652 d), ce serait dix ans seulement avant Marathon, c'est-à-dire vers 500 (Ol. 70), qu'Épiménide aurait purifié Athènes. De même, Porphyre et Iamblique (2) donnent expressément Épiménide le purificateur comme disciple de Pythagore. Je ne crois donc pas qu'il faille accuser Platon, comme on l'a fait, d'un grossier anachronisme ; le plus simple est [p. 36] de distinguer deux Épiménides qui, à près d'un siècle de distance, seraient venus accomplir des cérémonies religieuses à Athènes ; l'ami de Solon semble avoir été de Phæstos (Plutarque) ; l'Épiménide dont parle Platon est de Cnosse.
 
 L'époque où ce second Épiménide serait venu à Athènes, correspond d'ailleurs à un moment obscur de l'histoire de cette ville ; après avoir soutenu Aristagoras dans sa révolte contre les Perses, les Athéniens se retirent de la lutte sans aucun motif apparent. On peut très bien admettre qu'une épidémie aura été la cause réelle de leur inaction à ce moment décisif pour l'Ionie ; le récit de Platon se trouverait ainsi mis en complet accord avec l'histoire.
 
@@ -504,11 +438,7 @@ Si maintenant Thalès était né, pour Apollodore, en 637, son астé devait t
 
 Mais comment aura-t-il été conduit à modifier une date déjà admise par Démétrius de Phalère [^p37-2] ? C'est qu'historiquement cette date est inadmissible.
 
-S'il y a en effet un document chronologique de l'antiquité qui
-
-[p. 38]
-
-ne puisse être révoqué en doute, c'est assurément le Canon des Règnes de Ptolémée, puisque c'est d'après cette table que sont déterminées les anciennes observations astronomiques. Or, d'après ce Canon, la dernière année de Cyrus est 530 av. J.-C. D'autre part, d'après Hérodote, Cyrus a régné 29 ans, Astyage 35, Cyaxare 40. Si donc, comme
+S'il y a en effet un document chronologique de l'antiquité qui [p. 38] ne puisse être révoqué en doute, c'est assurément le Canon des Règnes de Ptolémée, puisque c'est d'après cette table que sont déterminées les anciennes observations astronomiques. Or, d'après ce Canon, la dernière année de Cyrus est 530 av. J.-C. D'autre part, d'après Hérodote, Cyrus a régné 29 ans, Astyage 35, Cyaxare 40. Si donc, comme
 
 il semble, Hérodote compte les années pleines, Cyrus a régné de 560 à 530, Astyage de 596 à 560, Cyaxare de 637 à 596. En tout cas, l'éclipse de 585 tombe sous le règne d'Astyage, tandis que, d'après Hérodote, la bataille qu'elle interrompit fut livrée par Cyaxare.
 
@@ -534,9 +464,7 @@ Je crois avoir donné, sur les questions diverses que soulève la date de ce ph�
 
 L'astronomie est assez avancée aujourd'hui pour déterminer non seulement la date exacte, mais aussi l'heure précise des éclipses totales qui ont eu lieu dans une période donnée du passé. Mais, pour une époque aussi ancienne, elle ne peut plus déterminer avec une précision suffisante les points du globe où une éclipse a été visible comme totale. Il règne en effet, sur un des éléments du calcul à faire dans l'objet, l'accélération du mouvement moyen de la lune, une incertitude qui ne pourrait précisément être dissipée que par la connaissance complète des circonstances d'une éclipse aussi reculée. Loin donc de pouvoir déterminer effectivement si telle éclipse a été celle de Thalès, les astronomes auraient à l'apprendre des historiens pour corriger leurs tables.[^p39-1][^p39-3]
 
-[p. 40]
-
-Milésien comme aussi incertaine en fait que celle de sa na'ssance.
+[p. 40] Milésien comme aussi incertaine en fait que celle de sa na'ssance.
 
 L'époque de la prise de Sardes n'en reste pas moins importante pour l'histoire de la philosophie comme pour l'histoire politique, et nous avons à examiner si Sosicrate avait eu raison de la placer 12 ans plus tard qu'Apollodore, ainsi que nous sommes conduits à l'admettre.
 
@@ -572,11 +500,7 @@ Mais si Apollodore plaçait la prise de Sardes en 558, il devait mettre la fonda
 
 Enfin rien ne nous oblige à croire que les dates pour les acmés de Parménide et de Zénon, telles que nous les trouvons dans Diogène Laërce, proviennent d'Apollodore, ni que la combinaison de l'échelonnement, à la supposer réelle, ne soit pas plutôt le fait d'un auteur de Successions, comme Sosicrate.
 
-Au reste, ces deux dernières dates sont très mal assurées, aussi bien la seconde, qui paraît tout à fait arbitraire, que la première, qui semble dépendre d'un synchronisme approximatif établi entre Parménide et Héraclite. Il n'y a donc aucun motif sérieux pour rejeter le témoignage bien connu et très précis de Platon, qui ne
-
-[p. 42]
-
-met que 25 ans entre Parménide et Zénon, et fait converser le premier, à l'âge de 65 ans, avec Socrate très jeune. Que Platon ait fait des anachronismes volontaires, cela n'est point douteux, quoiqu'on lui en ait imputé à tort, ainsi que je l'ai montré à propos d'Épiménide ; que le dialogue du Parménide soit évidemment une fiction, personne non plus ne peut le contester ; mais quand Platon répète, et dans le Théétète et dans le Sophiste, que Socrate, né en 469, a vu Parménide, quand il détaille les âges d'une façon bien inutile pour tout motif que l'on pourrait assigner à l'anachronisme supposé ici [^p42-1], quand enfin il est impossible de prouver quoi que ce soit contre une autorité telle que la sienne, le mieux est sans doute de s'en rapporter à elle. Parménide serait alors né vers 514, Zénon vers 489, à quelques années près en plus ou en moins.
+Au reste, ces deux dernières dates sont très mal assurées, aussi bien la seconde, qui paraît tout à fait arbitraire, que la première, qui semble dépendre d'un synchronisme approximatif établi entre Parménide et Héraclite. Il n'y a donc aucun motif sérieux pour rejeter le témoignage bien connu et très précis de Platon, qui ne [p. 42] met que 25 ans entre Parménide et Zénon, et fait converser le premier, à l'âge de 65 ans, avec Socrate très jeune. Que Platon ait fait des anachronismes volontaires, cela n'est point douteux, quoiqu'on lui en ait imputé à tort, ainsi que je l'ai montré à propos d'Épiménide ; que le dialogue du Parménide soit évidemment une fiction, personne non plus ne peut le contester ; mais quand Platon répète, et dans le Théétète et dans le Sophiste, que Socrate, né en 469, a vu Parménide, quand il détaille les âges d'une façon bien inutile pour tout motif que l'on pourrait assigner à l'anachronisme supposé ici [^p42-1], quand enfin il est impossible de prouver quoi que ce soit contre une autorité telle que la sienne, le mieux est sans doute de s'en rapporter à elle. Parménide serait alors né vers 514, Zénon vers 489, à quelques années près en plus ou en moins.
 
 Il est très possible qu'Apollodore, pour un motif ou pour un autre, n'ait parlé ni de Parménide, ni de Zénon ; même s'il l'a fait, et quand les dates de Diogène Laërce seraient les siennes, il pouvait, comme Sotion (Diog. L., IX, 21), ne reconnaître aucun lien entre Xénophane et Parménide ; s'il s'agit de rechercher les dates de la vie du premier, nous n'avons donc pas à tenir compte du rapport hypothétique de maître à disciple que les auteurs de Successions ont établi entre le poète de Colophon et celui d'Élée.
 
@@ -606,9 +530,7 @@ On aura conclu que Timée donnait Xénophane comme vivant toujours, du récit qu
 
 Il y a bien aussi quelques autres assertions qui prolongent encore davantage la vie de Xénophane ; mais, ou bien ce sont de purs anachronismes, dus à des auteurs qui ne méritent aucune confiance, comme Hermippe (Diog. L., VIII, 56, et IX, 30) le mettant en rapport avec Empédocle, ou bien il y a eu (comme peut-être chez Ps.-Lucien, De longæv., 20) confusion avec un autre poète du même nom, auteur d'ïambes, né à Lesbos et fils de Dexinos.[^p43-1]
 
-[p. 44]
-
-sion avec Pythagore (ou peut-être Anaximène). Éd. Zeller [^p44-2] a tort de dire que l'on fait d'ordinaire coïncider le commencement de la tyrannie de Polycrate avec Ol. 53,3 = 566, c'est-à-dire avec la 44º année (lisez 45º) d'Anaximandre. Il n'est possible d'admettre cette date qu'en supposant un premier Polycrate ; le seul célèbre, le seul que Diogène ait pu désigner, ne régna que 11 ans, et comme sa tyrannie, d'après Hérodote, semble s'être terminée la mème année que le règne de Cambyse, on peut la fixer très approximativement de 534 à 524 inclus (Ol. 61,3 — Ol. 64,1). Quoique Diogène Laërce [^p44-3] place d'ailleurs l'acmé de Pythagore vers Ol. 60, Diels a bien établi qu'Apollodore devait, avec Ératosthène [^p44-4], la mettre Ol. 62, c'est-à-dire à l'époque présumée où Pythagore quitta Samos pour fuir la tyrannie de Polycrate. Quant à la durée de la vie du chef de l'École Italique, j'admets aussi avec Diels qu'Apollodore la fixait probablement à 90 ans (Diog. L., VIII, 4[^p44-5]. Il aurait donc vécu, d'après ces données plus ou moins arbitraires (4), entre 572 et 482.[^p44-1]
+[p. 44] sion avec Pythagore (ou peut-être Anaximène). Éd. Zeller [^p44-2] a tort de dire que l'on fait d'ordinaire coïncider le commencement de la tyrannie de Polycrate avec Ol. 53,3 = 566, c'est-à-dire avec la 44º année (lisez 45º) d'Anaximandre. Il n'est possible d'admettre cette date qu'en supposant un premier Polycrate ; le seul célèbre, le seul que Diogène ait pu désigner, ne régna que 11 ans, et comme sa tyrannie, d'après Hérodote, semble s'être terminée la mème année que le règne de Cambyse, on peut la fixer très approximativement de 534 à 524 inclus (Ol. 61,3 — Ol. 64,1). Quoique Diogène Laërce [^p44-3] place d'ailleurs l'acmé de Pythagore vers Ol. 60, Diels a bien établi qu'Apollodore devait, avec Ératosthène [^p44-4], la mettre Ol. 62, c'est-à-dire à l'époque présumée où Pythagore quitta Samos pour fuir la tyrannie de Polycrate. Quant à la durée de la vie du chef de l'École Italique, j'admets aussi avec Diels qu'Apollodore la fixait probablement à 90 ans (Diog. L., VIII, 4[^p44-5]. Il aurait donc vécu, d'après ces données plus ou moins arbitraires (4), entre 572 et 482.[^p44-1]
 
 [p. 45]
 
@@ -624,11 +546,7 @@ concorde évidemment avec les indications d'Apollodore ; mais il n'y a cependant
 
 Ainsi modifiée, l'hypothèse de Diels conduirait à faire naître Anaximène vers 598 et à le faire mourir vers 70 ans, en 528. Toutefois il convient d'observer que l'expression de Suidas, malgré toutes les discussions auxquelles elle a donné lieu, reste ambiguë et peut s'appliquer à la naissance ; d'autre part, il est indispensable d'examiner si les renseignements traditionnels sur la vie d'Anaximène peuvent être mis en concordance, soit avec l'hypothèse précitée, soit avec toute autre que l'on puisse faire dans l'objet.
 
-Nous n'avons à considérer que trois rapprochements : les deux premiers qui font d'Anaximène, l'un le disciple d'Anaximandre, l'autre le maître d'Anaxagore, sont contradictoires, puisque le second de ces philosophes ne naquit qu'en 500. Cependant ils sont imperturbablement répétés, depuis Théophraste, dans la plupart des documents anciens, ce qui suffit à montrer combien peu on doit faire fonds sur eux ; quant au troisième rapprochement, entre Anaximène et Pythagore, il nous est au contraire fourni par une source tout à fait isolée, la correspondance apocryphe échangée d'après Diogène Laërce (II, 4 et 5, et VIII, 49) ; il y a là une tradi
-
-[p. 46]
-
-tion dont nous ignorons la date et dont nous ne retrouvons nulle trace ailleurs.
+Nous n'avons à considérer que trois rapprochements : les deux premiers qui font d'Anaximène, l'un le disciple d'Anaximandre, l'autre le maître d'Anaxagore, sont contradictoires, puisque le second de ces philosophes ne naquit qu'en 500. Cependant ils sont imperturbablement répétés, depuis Théophraste, dans la plupart des documents anciens, ce qui suffit à montrer combien peu on doit faire fonds sur eux ; quant au troisième rapprochement, entre Anaximène et Pythagore, il nous est au contraire fourni par une source tout à fait isolée, la correspondance apocryphe échangée d'après Diogène Laërce (II, 4 et 5, et VIII, 49) ; il y a là une tradi [p. 46] tion dont nous ignorons la date et dont nous ne retrouvons nulle trace ailleurs.
 
 La première lettre est supposée écrite par Anaximène pour annoncer au Samien la mort de Thalès ; la première réponse de Pythagore manque ; mais, comme on le voit d'après la seconde lettre du Milésien, elle devait annoncer le départ de Samos. Cependant cette seconde lettre parle des enfants d'Éacès et non de Polycrate seul, comme opprimant la patrie de Pythagore ; d'autre part, elle représente les Ioniens comme au début de leurs hostilités contre les Perses et Anaximène comme n'attendant que la ruine. La réponse de Pythagore ne donne aucune autre indication. En tout cas, la correspondance est supposée échangée tout entière à une époque assez voisine de la prise de Sardes.
 
@@ -662,9 +580,7 @@ Je considère comme très possible que ç'ait été là, en réalité, la combin
 
 Mais la véritable conclusion, c'est que les anciens n'en savaient pas plus que nous sur l'époque de la vie d'Anaximène ; seulement, conformément à l'idée d'une succession, idée engendrée par les usages des écoles postérieures, ne pouvant d'ailleurs établir une continuité complète entre les Ioniens, ils auront voulu rapprocher le dernier Milésien, soit de son maître, soit de son disciple prétendu. De là une divergence de près de soixante ans sur la date de la naissance d'Anaximène ; la vérité est peut-être entre ou plutôt contre les deux opinions, car il est très possible qu'Anaximène n'ait connu ni Anaximandre ni Anaxagore. En tout cas, pour le faire échapper à la ruine de Milet par les Perses en 496, il faudrait le faire réfugier à Lacédémone, où Pline nous le montre installant un gnomon, ou plutôt à Lampsaque, colonie de Milet, où son nom a été continué glorieusement et où, plus tard, Anaxagore devait aller aussi chercher un asile.[^p47-1]
 
-[p. 48]
-
-milieu du règne de Darius, d'après la tradition assez mal assurée qui met l'Éphésien en correspondance avec le grand roi. Cette époque est probablement un peu trop reculée, si l'Hermodore, ami d'Héraclite, fut en réalité, comme le dit Strabon, consulté par les Romains pour la rédaction des Douze Tables.
+[p. 48] milieu du règne de Darius, d'après la tradition assez mal assurée qui met l'Éphésien en correspondance avec le grand roi. Cette époque est probablement un peu trop reculée, si l'Hermodore, ami d'Héraclite, fut en réalité, comme le dit Strabon, consulté par les Romains pour la rédaction des Douze Tables.
 
 Les dates pour Anaxagore, au contraire, reposent sur une combinaison un peu mieux assurée. Démocrite (Diog. L., IX, 4[^p48-2] s'était donné comme plus jeune qu'Anaxagore de 40 ans, et avait daté son Petit Diacosmos de 730 ans après la prise de Troie. Apollodore a pris cette dernière date comme celle de l'acmé de Démocrite, et la rapportant à l'ère d'Éphore pour la prise de Troie (1150 av. J.-C.), il l'a fixée à Ol. 90,1 = 420, d'où Ol. 70,1 = 500 pour la naissance d'Anaxagore. Quant à la mort, il indiquait certainement (1) Ol. 88,1 = 428. De là sont venues aussi les autres données de Diogène Laërce, qu'Anaxagore vécut 72 ans et qu'il avait 20 ans lors de l'expédition de Xerxès (480).
 
@@ -674,7 +590,7 @@ Quant au passage du même auteur qui suit la citation expresse d'Apollodore : «
 
 ### Chapitre Ii. — La Chronologie Des
 
-(ibid., VIII, 5[^p49-3], que le philosophe était venu, alors que la ville venait à peine d'ètre établie. Le chronographe a d'ailleurs pris la même époque pour l'acmé de Protagoras, qui donna des lois aux Thuriens (ibid., IX, 56), d'Hérodote qui fit partie de la colonie athénienne, de Mélissos (ibid., IX, 24) qui, vers le même temps, commanda les Samiens dans leur guerre contre Athènes, enfin probablement de Gorgias, regardé comme contemporain d'Empédocle [^p49-2].
+(*ibid.*, VIII, 5[^p49-3], que le philosophe était venu, alors que la ville venait à peine d'ètre établie. Le chronographe a d'ailleurs pris la même époque pour l'acmé de Protagoras, qui donna des lois aux Thuriens (*ibid.*, IX, 56), d'Hérodote qui fit partie de la colonie athénienne, de Mélissos (*ibid.*, IX, 24) qui, vers le même temps, commanda les Samiens dans leur guerre contre Athènes, enfin probablement de Gorgias, regardé comme contemporain d'Empédocle [^p49-2].
 
 Pour ce dernier, la date choisie concordait assez bien avec celle de la victoire remportée Ol. 71 = 496, c'est-à-dire 52 ans auparavant, par le grand- père d'Empédocle, et dont témoignaient Aristote et Eratosthène. Apollodore ajoutait : « Quant à ceux qui prétendent qu'exilé de sa patrie, il se réfugia chez les Syracusains et combattit avec eux contre les Athéniens, ils me paraissent absolument ignorants. Car il était alors déjà mort, ou sa vieillesse se serait très prolongée, ce qui ne semble pas, puisque Aristote et Héraclide (du Pont) (*) disent qu'il ne vécut que soixante ans. »>
 
@@ -682,9 +598,7 @@ Ainsi, d'après Apollodore, Empédocle aurait vécu de 484 à 424 ; je crois, d'
 
 Pour Protagoras, en lui donnant 70 ans de vie et 40 ans de profession de sophiste (Diog. L., IX, 56), Apollodore a seulement admis les chiffres donnés par Platon et supposé dès lors les limites 484-414 ; rien ne prouve, en effet, qu'il ait tenu compte de la légende d'après laquelle un des Quatre-Cents (4[^p49-1] aurait accusé Protagoras d'impiété et qu'il faille ici prendre comme limites la fin des olympiades et non leur commencement.
 
-[p. 50]
-
-sur la date de la prise de Troie. De même Diodore, qui a pris pour cette date l'ère d'Ératosthène, quoique bien certainement Démocrite n'en fit point usage, et qui est ainsi arrivé aux limites 494-404.
+[p. 50] sur la date de la prise de Troie. De même Diodore, qui a pris pour cette date l'ère d'Ératosthène, quoique bien certainement Démocrite n'en fit point usage, et qui est ainsi arrivé aux limites 494-404.
 
 Apollodore paraît avoir rattaché à l'acmé de Démocrite, plus ou moins approximativement, celles de divers auteurs dont il parlait (Diog. L., IX, 4[^p50-1], comme Archélaos, Enopide (1), peut-être même celle d'Hippocrate de Cos, d'après la tradition, quoique le célèbre médecin doive avoir été plus âgé.
 
@@ -730,11 +644,7 @@ C'est cette double étude que je me propose donc de tenter pour le moment. Il m'
 
 Quant à mes conclusions, peut-être convient-il de les résumer d'avance.
 
-J'essaierai de montrer que c'est vraiment aux Grecs qu'appartient la gloire d'avoir constitué les sciences aussi bien que la philosophie ; mais si l'originalité de leur génie éclate, comme on le verra dans un autre chapitre, dès Anaximandre, le véritable chef de l'école ionienne, rien ne prouve que Thalès en particulier ait fait autre chose que de provoquer le mouvement intellectuel, que de susciter l'étincelle, en introduisant dans le milieu hellène des procédés techniques empruntés aux barbares et en y faisant connaître quelques-unes de leurs opinions. Le même rôle a pu, au reste, être joué par beaucoup d'autres voyageurs de son temps ; mais il fut sans doute l'observateur le plus sagace et le plus habile initiateur. Esprit d'ailleurs, semble-t-il, moins spécu
-
-[p. 54]
-
-latif que pratique [^p54-1], il n'a pas fait de longues études auprès des sanctuaires de l'Égypte ; mais il a profité de toutes les occasions pour s'enquérir de ce qui lui semblait utile ou curieux, et il sut apprendre à ses compatriotes qu'on résolvait à l'étranger des problèmes auxquels ils n'avaient guère songé jusque-là, qu'on y avait des croyances au moins aussi plausibles que les leurs. Ainsi, sans peut-être rien inventer ou imaginer réellement par lui-même, donna-t-il le branle à l'inconsciente activité qui sommeillait, et mérita-t-il par là ce renom que lui décernèrent ses contemporains et que la postérité la plus lointaine s'est plu à lui conserver.
+J'essaierai de montrer que c'est vraiment aux Grecs qu'appartient la gloire d'avoir constitué les sciences aussi bien que la philosophie ; mais si l'originalité de leur génie éclate, comme on le verra dans un autre chapitre, dès Anaximandre, le véritable chef de l'école ionienne, rien ne prouve que Thalès en particulier ait fait autre chose que de provoquer le mouvement intellectuel, que de susciter l'étincelle, en introduisant dans le milieu hellène des procédés techniques empruntés aux barbares et en y faisant connaître quelques-unes de leurs opinions. Le même rôle a pu, au reste, être joué par beaucoup d'autres voyageurs de son temps ; mais il fut sans doute l'observateur le plus sagace et le plus habile initiateur. Esprit d'ailleurs, semble-t-il, moins spécu [p. 54] latif que pratique [^p54-1], il n'a pas fait de longues études auprès des sanctuaires de l'Égypte ; mais il a profité de toutes les occasions pour s'enquérir de ce qui lui semblait utile ou curieux, et il sut apprendre à ses compatriotes qu'on résolvait à l'étranger des problèmes auxquels ils n'avaient guère songé jusque-là, qu'on y avait des croyances au moins aussi plausibles que les leurs. Ainsi, sans peut-être rien inventer ou imaginer réellement par lui-même, donna-t-il le branle à l'inconsciente activité qui sommeillait, et mérita-t-il par là ce renom que lui décernèrent ses contemporains et que la postérité la plus lointaine s'est plu à lui conserver.
 
 2. Vers le milieu du v IIe siècle av. J.-C., la reconnaissance du fondateur de la dynastie saïte ouvre l'Égypte aux Grecs et en particulier à ceux de l'Asie-Mineure. Il y avait déjà huit siècles au moins que les marins de l'archipel connaissaient les côtes du Delta. Bien avant les chants homériques, la mémoire de leurs pirateries était inscrite sur les monuments de Ramses II. Enfin, elles ont eu un terme heureux ; la soif d'aventures, la curiosité de l'inconnu n'ont plus besoin des armes. Derrière le soldat de fortune, qui vient selouer comme mercenaire, les voyageurs affluent. Ceux-là sont des marchands : Thalès vendra du sel, Platon vendra de l'huile. Contes de Plutarque, si l'on veut, mais c'est là le roman plus vrai que l'histoire ; en fait, nous ne pouvons constater un seul voyage entrepris dans un but exclusivement scientifique.
 
@@ -742,9 +652,7 @@ A côté des mercenaires et des commerçants arrivent de nombreux émigrants, qu
 
 A quelque degré de civilisation que fussent déjà parvenus les Grecs, ils n'étaient encore que des enfants vis-à-vis des Égyptiens, comme Solon se l'entendait dire ; leur curiosité avait done beau jeu. Sans aller demander l'enseignement des prètres, sans doute malveillants en général pour les étrangers et plus disposés à conter des fables qu'à faire part de leur savoir, il fut certainement
 
-[p. 55]
-
-CHAPITRE bientôt facile à un Grec intelligent et séjournant suffisamment dans le pays, de faire une enquête sérieuse sur les connaissances pratiques et les opinions générales des Égyptiens. C'est au moins le rôle que l'on doit attribuer à Thalès.
+[p. 55] CHAPITRE bientôt facile à un Grec intelligent et séjournant suffisamment dans le pays, de faire une enquête sérieuse sur les connaissances pratiques et les opinions générales des Égyptiens. C'est au moins le rôle que l'on doit attribuer à Thalès.
 
 On a révoqué en doute jusqu'à son voyage en Égypte, parce qu'il n'est pas attesté par des documents suffisamment anciens. Il semble pourtant qu'on aurait pu se contenter de ce fait que c'est à Thalès que remonte, d'après Hérodote, la recherche de la cause des débordements périodiques du Nil ; ce problème, qui préoccupa successivement les Ioniens, a dû, dans l'origine, être soulevé par un témoin oculaire.
 
@@ -756,9 +664,7 @@ La réalité de cette prédiction a été souvent révoquée en doute par les mo
 
 Les arguments des incrédules [^p55-1] ont un incontestable fondement ; pour essayer d'annoncer comme visible en un point donné de la terre une éclipse solaire avec quelque chance de succès, il faut posséder certains éléments astronomiques qui n'ont été connus et encore très approximativement qu'au IIIe siècle (Aristarque de
 
-[p. 56]
-
-Samos) [^p56-1] et mis en œuvre dans ce but qu'au 1º (Hipparque). La prédiction faite par Thalès ne serait donc qu'une légende ; l'origine en serait que le sage Milésien aurait connu l'explication des éclipses et qu'il aurait peut-être tout au plus, d'après cette connaissance, annoncé la nécessité du retour de ce phénomène.
+[p. 56] Samos) [^p56-1] et mis en œuvre dans ce but qu'au 1º (Hipparque). La prédiction faite par Thalès ne serait donc qu'une légende ; l'origine en serait que le sage Milésien aurait connu l'explication des éclipses et qu'il aurait peut-être tout au plus, d'après cette connaissance, annoncé la nécessité du retour de ce phénomène.
 
 Si ingénieuse que soit cette explication, si séduisants que soient les motifs invoqués à l'appui par Th.-H. Martin, elle ne peut nous satisfaire. Tout d'abord, les textes anciens (Hérodote, I, 74 ; Eudème dans Clément d'Alex., Strom., I, 14) parlent uniquement d'une prédiction, non d'une explication. Le récit,
 
@@ -768,9 +674,7 @@ A la vérité, il est possible, probable même, que Thalès a donné une explica
 
 Et encore Anaxagore lui-même n'était nullement en mesuré d'analyser suffisamment les conditions des phénomènes ; ainsi pour expliquer comment les éclipses de soleil sont, en un même lieu, plus rares que celles de la lune, il admettait que ces dernières pouvaient être produites par l'interposition, entre le soleil et la lune, d'autres astres obscurs (*). La théorie des éclipses ne commença à être vraiment débrouillée que deux siècles après Thalès, au temps d'Eudoxe de Cnide. Tant furent lents et pénibles les premiers progrès positifs dans la nouvelle voie suivie par les Grecs ![^p56-2]
 
-[p. 57]
-
-CHAPITRE
+[p. 57] CHAPITRE
 
 Pour en revenir à Thalès, la question est beaucoup moins de savoir s'il a pu prédire une éclipse avec quelques chances de succès, que si, l'ayant annoncée, fût-ce comme nos almanachs populaires prédisent le temps, il a vu l'événement s'accomplir suivant sa parole.
 
@@ -782,9 +686,7 @@ et je l'annonce à mon seigneur. Pour l'éclipse de soleil, j'ai fait aussi l'ob
 
 Ces habiles gens tiraient, comme on voit, hardiment parti de leur ignorance aussi bien que de leur savoir. Pour eux, l'important était moins de faire des prédictions exactes que de ne pas laisser passer une éclipse sans l'avoir annoncée (2). Quant à la cause réelle des éclipses, ils l'ignoraient très probablement, quoi que leurs successeurs aient pu, dans la suite, faire croire aux Grecs devenus leurs maîtres.[^p57-1][^p57-3]
 
-[p. 58]
-
-d'une éclipse lunaire, exactement à une demi-lunaison de distance, si du moins, au moment correspondant, la lune est au-dessus de l'horizon. Les deux phénomènes apparaissent donc comme liés entre eux et l'on aperçoit déjà qu'il suffit que l'un d'eux puisse être prévu, pour que l'autre le soit également, au moins en tant que possible. Pour ces constatations, il suffisait, au reste, de donner à la lunaison la valeur approximative de vingt-neuf jours et demi, c'est-à-dire d'avoir établi le calendrier lunaire.
+[p. 58] d'une éclipse lunaire, exactement à une demi-lunaison de distance, si du moins, au moment correspondant, la lune est au-dessus de l'horizon. Les deux phénomènes apparaissent donc comme liés entre eux et l'on aperçoit déjà qu'il suffit que l'un d'eux puisse être prévu, pour que l'autre le soit également, au moins en tant que possible. Pour ces constatations, il suffisait, au reste, de donner à la lunaison la valeur approximative de vingt-neuf jours et demi, c'est-à-dire d'avoir établi le calendrier lunaire.
 
 Si maintenant on rapporte aux étoiles voisines la position de la lune au moment de l'une de ses éclipses, on peut reconnaître que le phénomène n'a jamais lieu que dans une bande circulaire très étroite (d'un demi-degré). Une fois cette bande délimitée, on constate, d'autre part, que l'éclipse a toujours lieu, lorsque la lune traverse au moment précis de la pleine lune.
 
@@ -796,11 +698,7 @@ J'ai supposé toutefois des observations faites sans aucun matériel ; avec des 
 
 tandis que la lune change continuellement sa route de chaque mois dans le ciel, le soleil parcourt annuellement toujours les mêmes signes.
 
-En somme, les éclipses de soleil et de lune ont lieu lors de la rencontre de l'un de ces astres, à la nouvelle lune pour le premier,
-
-[p. 59]
-
-CHAPITRE à la pleine lune pour le second, avec l'un ou l'autre de deux points idéaux de la sphère céleste (les nœuds de l'orbite lunaire) diamétralement opposés entre eux et animés d'un mouvement déterminé sur l'écliptique. Dans l'astronomie hindoue, qui dérive de l'astrologie gréco-orientale, les éclipses sont causées par un dragon céleste, auquel on attribue le mouvement correspondant. Le langage technique de l'astronomie moderne, en désignant comme tête et queue du dragon les nœuds ascendant et descendant de l'orbite lunaire, a longtemps conservé des traces de cette antique croyance, qui fut probablement l'explication primitive du phénomène. Elle est encore de nos jours rappelée par les symboles figurés de ces nœuds, empruntés aux manuscrits grecs. Si jusqu'à présent elle n'a pas été retrouvée dans la mythologie chaldéenne, on peut faire un rapprochement avec le serpent Apap des Égyptiens, qui lutte éternellement contre les dieux célestes.
+En somme, les éclipses de soleil et de lune ont lieu lors de la rencontre de l'un de ces astres, à la nouvelle lune pour le premier, [p. 59] CHAPITRE à la pleine lune pour le second, avec l'un ou l'autre de deux points idéaux de la sphère céleste (les nœuds de l'orbite lunaire) diamétralement opposés entre eux et animés d'un mouvement déterminé sur l'écliptique. Dans l'astronomie hindoue, qui dérive de l'astrologie gréco-orientale, les éclipses sont causées par un dragon céleste, auquel on attribue le mouvement correspondant. Le langage technique de l'astronomie moderne, en désignant comme tête et queue du dragon les nœuds ascendant et descendant de l'orbite lunaire, a longtemps conservé des traces de cette antique croyance, qui fut probablement l'explication primitive du phénomène. Elle est encore de nos jours rappelée par les symboles figurés de ces nœuds, empruntés aux manuscrits grecs. Si jusqu'à présent elle n'a pas été retrouvée dans la mythologie chaldéenne, on peut faire un rapprochement avec le serpent Apap des Égyptiens, qui lutte éternellement contre les dieux célestes.
 
 Comme au reste c'est avec les Égyptiens que la légende met Thalès en rapport, il faut se demander s'ils connaissaient également la période de l'exéligme. On n'en a pas de preuves directes ; toutefois, si l'on en croit Diodore de Sicile, les prêtres de Thèbes prédisaient les éclipses tout aussi bien que les Chaldéens ; or, il leur fallait posséder pour cela, soit la période, soit, comme semble l'indiquer Adraste dans Théon de Smyrne (Astron., 30), des procédés graphiques. Mais, dans cette dernière hypothèse, on serait conduit à admettre pour leurs observations une exactitude improbable et l'emploi d'instruments dont l'invention paraît bien due aux Grecs ; d'autre part, il n'est guère douteux que la période des 223 lunaisons ne fût connue d'Eudoxe, et il semble bien l'avoir rapportée d'Égypte.
 
@@ -808,9 +706,7 @@ Il est d'ai'leurs parfaitement possible que, dès avant Thalès, les prêtres de
 
 J.-C., vers l'époque où les légendes classiques placent le roi-astronome Nécepsos, elle trouva un champ fécond dans la vallée du Nil et pénétra jusque dans
 
-[p. 60]
-
-Thèbes, à la suite des légions victorieuses d'Assour-Akhé-Idin ou d'Assour-Ban-Habal.
+[p. 60] Thèbes, à la suite des légions victorieuses d'Assour-Akhé-Idin ou d'Assour-Ban-Habal.
 
 Nous avons donc le droit de supposer connue en Égypte cette période chaldéenne que nous regardons comme le seul moyen pratique pouvant être, à cette époque, employé pour la prédiction des éclipses ; mais admettrons-nous qu'elle fut également connue de Thalès ?
 
@@ -824,9 +720,7 @@ l'exactitude de ces prédictions, se soit hasardé à en prendre une à son comp
 
 et elle permet d'accorder au récit d'Hérodote un degré de vraisemblance suffisant. D'après ce récit, Thalès aurait simplement fixé l'année de l'éclipse ; s'il y en avait plusieurs de possibles cette année-là, il ne s'était guère aventuré. La grande chance, c'est que l'éclipse ait été totale.[^p60-1]
 
-[p. 61]
-
-CHAPITRE aux Grecs, en ce sens qu'ils ont dû recevoir, avec leur alphabet, le système primitif de numération écrite, fondé sur le principe additif et analogue à celui des Romains, tel qu'on le retrouve en un mot, du moins avec quelques modifications d'ordre secondaire, dans toutes les inscriptions grecques
+[p. 61] CHAPITRE aux Grecs, en ce sens qu'ils ont dû recevoir, avec leur alphabet, le système primitif de numération écrite, fondé sur le principe additif et analogue à celui des Romains, tel qu'on le retrouve en un mot, du moins avec quelques modifications d'ordre secondaire, dans toutes les inscriptions grecques
 
 antérieures au
 
@@ -846,11 +740,7 @@ Cet ouvrage, qui paraît mème copié sur un autre très sensiblement plus ancie
 
 2º La solution des problèmes arithmétiques du premier degré à une inconnue. Les problèmes traités sont tout à fait analogues à ceux que Platon (Lois, VII, 819) signale comme servant en Égypte à l'instruction des enfants, et dont on peut constater l'adoption ultérieure chez les Grecs.
 
-Un scholie sur le Charmide de Platon, qui paraît provenir de Geminus, prouve enfin que bien longtemps on a enseigné côte à côte, pour la multiplication et la division, une méthode égyptienne et une méthode hellénique. Ce qu'étaient ces méthodes égyptiennes, nous le savons désormais par le travail de M. Eisen
-
-[p. 62]
-
-lohr ; elles correspondent à un niveau scientifique très inférieur ; ainsi la multiplication est ramenée à la duplication et à l'addition ; pour faire le produit d'un nombre par 7, par exemple, on ajoute le nombre à son double et au double de ce dernier. Sous le nom de méthode hellénique, nous ne pouvons comprendre au contraire qu'une méthode analogue à la nôtre, mais appliquée au système de numération alphabétique, et qu'on ne peut, dès lors, considérer comme constituée réellement avant ce système.
+Un scholie sur le Charmide de Platon, qui paraît provenir de Geminus, prouve enfin que bien longtemps on a enseigné côte à côte, pour la multiplication et la division, une méthode égyptienne et une méthode hellénique. Ce qu'étaient ces méthodes égyptiennes, nous le savons désormais par le travail de M. Eisen [p. 62] lohr ; elles correspondent à un niveau scientifique très inférieur ; ainsi la multiplication est ramenée à la duplication et à l'addition ; pour faire le produit d'un nombre par 7, par exemple, on ajoute le nombre à son double et au double de ce dernier. Sous le nom de méthode hellénique, nous ne pouvons comprendre au contraire qu'une méthode analogue à la nôtre, mais appliquée au système de numération alphabétique, et qu'on ne peut, dès lors, considérer comme constituée réellement avant ce système.
 
 En résumé, l'impression que laissent ces divers documents conduit à penser que, si Thalès a introduit en Grèce certains procédés de calcul égyptiens, ces procédés étaient absolument élémentaires, quelques progrès qu'ils pussent constituer pour un peuple encore tout neuf en ces matières. Aucune recherche théorique ne venait d'ailleurs s'ajouter à ces enseignements ; la tradition n'en reconnaît point avant Pythagore, et, à cet égard, elle doit être tenue pour vraie.
 
@@ -860,9 +750,7 @@ assez sommaires. On peut y noter une ébauche de l'application des proportions a
 
 Cette formule et d'autres aussi fausses, transmises au moyen âge par les héritiers des agrimenseurs romains, se sont perpétuées en Europe, dans les traités élémentaires, jusqu'à l'époque de la Renaissance. Nous aurions donc tort, encore une fois, de les regarder comme acceptées par les véritables représentants du savoir égyptien. Mais on ne peut nier qu'elles soient loin de donner une haute idée des connaissances que possédait la moyenne des arpenteurs sur les rives du Nil ; elles permettent même d'affir Le mot égyptien désigne, au reste, non pas le solide, mais son arête.
 
-[p. 63]
-
-CHAPITRE mer que la géométrie ne s'y est guère élevée au-dessus des simples applications pratiques qui lui ont donné son nom.
+[p. 63] CHAPITRE mer que la géométrie ne s'y est guère élevée au-dessus des simples applications pratiques qui lui ont donné son nom.
 
 Quand nous parlons de cette science, nous sommes habitués à la considérer comme un ensemble de théorèmes spéculatifs rigoureusement déduits d'un très petit nombre d'axiomes. Mais elle n'est devenue telle que peu à peu et sans doute assez lentement. A cette époque, il n'y avait qu'un recueil de procédés mal liés entre eux, servant à la solution de problèmes de la vie usuelle et dont la démonstration, quand elle se faisait, prenait son appui sur des lemmes alors regardés comme évidents, mais rigoureusement prouvés bien plus tard, quand ils n'ont pas été éliminés comme entachés d'erreur.
 
@@ -870,27 +758,19 @@ Qu'il y eût des arpenteurs en Grèce avant Thalès, on ne peut guère en douter
 
 Mais, sauf en Égypte, ces procédés techniques n'étaient sans doute l'objet d'aucune littérature, ils étaient assez simples pour se transmettre oralement. Thalès en aurait-il, le premier, traité par écrit en Grèce et serait- ce là son véritable rôle ? Aucun indice ne peut nous le faire supposer [^p63-1] ; en tous cas, quand plus tard Eudème écrivit ses Histoires géométriques, il en fut réduit à conclure, d'une ou deux solutions de problèmes élémentaires auxquelles le nom de Thalès était resté attaché, que celui-ci connaissait telle proposition que supposent ces solutions, mais il ne put rien affirmer sur la question de savoir si ces propositions étaient démontrées ou non.
 
-Si maintenant on prend à la lettre les témoignages d'Eudème, tels que les a conservés Proclus dans son Commentaire sur le Ier Livre d'Euclide, si on accorde à Thalès l'invention des propositions qui lui sont ainsi attribuées, il s'ensuivrait que, contrairement à ce que déclare l'historien lui-même, le sage de Milet
-
-[p. 64]
-
-n'aurait rien appris en Égypte. Nous voyons encore Eudème attribuer, par le même procédé, à Enopide de Chios (plus d'un siècle après Thalès) l'invention d'un théorème tout aussi élémentaire que ceux auxquels nous venons de faire allusion, tandis que presque immédiatement après, Démocrite se vantera de ne le céder à aucun des géomètres de l'Égypte [^p64-1], et que, dès la génération suivante, Platon refusera à tous les Barbares l'épithète de φιλομαθεῖς [^p64-2], et ne leur accordera la supériorité qu'en astronomie, en tant que de longues observations leur ont assuré des connaissances plus précises. Et de fait, vers la même époque, le voyage en Égypte d'Eudoxe de Cnide a pour résultat de combler les lacunes de la science hellène sous ce rapport, nullement de développer la géométrie, dont l'essor est désormais assuré, et pour laquelle les Barbares sont dépassés de beaucoup.
+Si maintenant on prend à la lettre les témoignages d'Eudème, tels que les a conservés Proclus dans son Commentaire sur le Ier Livre d'Euclide, si on accorde à Thalès l'invention des propositions qui lui sont ainsi attribuées, il s'ensuivrait que, contrairement à ce que déclare l'historien lui-même, le sage de Milet [p. 64] n'aurait rien appris en Égypte. Nous voyons encore Eudème attribuer, par le même procédé, à Enopide de Chios (plus d'un siècle après Thalès) l'invention d'un théorème tout aussi élémentaire que ceux auxquels nous venons de faire allusion, tandis que presque immédiatement après, Démocrite se vantera de ne le céder à aucun des géomètres de l'Égypte [^p64-1], et que, dès la génération suivante, Platon refusera à tous les Barbares l'épithète de φιλομαθεῖς [^p64-2], et ne leur accordera la supériorité qu'en astronomie, en tant que de longues observations leur ont assuré des connaissances plus précises. Et de fait, vers la même époque, le voyage en Égypte d'Eudoxe de Cnide a pour résultat de combler les lacunes de la science hellène sous ce rapport, nullement de développer la géométrie, dont l'essor est désormais assuré, et pour laquelle les Barbares sont dépassés de beaucoup.
 
 A ce compte, comme il faut reconnaître d'ailleurs l'incontestable originalité des découvertes de Pythagore, il ne resterait rien, en fait, des emprunts faits par la Grèce à l'Égypte en ce qui concerne la géométrie. Une pareille conclusion serait certainement exagérée ; la vérité semble être que, si les Égyptiens n'ont jamais eu comme géométrie qu'un art, dont les Grecs ont fait une science, ils connaissaient dès longtemps les théorèmes prétendûment découverts par Thalès ou Enopide.
 
 Il est évident qu'Eudème était convenablement renseigné, par la tradition pythagorienne, sur les travaux de la grande école mathématique dont les géomètres de l'Académie recueillirent l'héritage ; mais sur Enopide, quoique celui-ci eût, lui aussi, fondé à Chios une école plus obscure, mais qui persista longtemps, sur Thalès, dont les successeurs intellectuels ne cultivèrent pas les mathématiques, l'historien n'avait que des données très vagues ; en vain essaie-t-il de faire illusion, en tirant de ces données des conséquences précises, en restituant même les expressions archaïques, il n'aboutit qu'à retracer des origines de la science un tableau incohérent et partant inacceptable.
 
-En somme, ce que savait Thalès au juste comme mathématiques, nous l'ignorons ; c'était probablement plus, sur certains points,
-
-[p. 65]
+En somme, ce que savait Thalès au juste comme mathématiques, nous l'ignorons ; c'était probablement plus, sur certains points, [p. 65]
 
 ### Chapitre Iii. — Thalès De Milet.
 
 qu'on ne devrait le conclure des témoignages d'Eudème ; moins, sur d'autres, qu'on n'a, le plus souvent, cherché à le soutenir. Mais, en fait, rien n'indique qu'il ait dépassé les Égyptiens, ni qu'il ait fait preuve d'un véritable génie d'invention. Vouloir qu'il y ait un théorème de Thalès, comme il y a un théorème de Pythagore, ou, en général, attribuer aux anciens, fût-ce en mathématiques, « soit les principes de leurs conséquences, soit les conséquences de leurs principes, » c'est déserter le terrain solide pour se lancer dans le domaine illimité des conjectures. On n'est déjà que trop souvent forcé de le faire, quand il s'agit soit de combler une lacune dans les renseignements historiques, soit de les interpréter, lorsque le sens en est ambigu. Mais ici ce n'est pas le cas ; il s'agit simplement de préciser le moment où s'est révélée l'originalité mathématique de la race hellène, après les emprunts qu'elle a commencé par faire à l'Égypte. Or les travaux attribués à Pythagore présentent un caractère nettement spéculatif et ils semblent dépasser du premier coup le niveau des connaissances égyptiennes ; pour Thalès, rien de semblable ; toutefois la distance n'est pas telle qu'il faille supposer un intermédiaire. La conclusion est facile à tirer.[^p65-1]
 
-[p. 66]
-
-il serait bien singulier que ce dernier y eût vu une des découvertes essentielles de l'astronomie. Il s'agit bien plutôt de l'inégalité de durée entre les quatre
+[p. 66] il serait bien singulier que ce dernier y eût vu une des découvertes essentielles de l'astronomie. Il s'agit bien plutôt de l'inégalité de durée entre les quatre
 
 saisons astronomiques, c'est-à-dire les quatre parties de l'année tropique divisée par les solstices et les équinoxes, fait capital, qui démontre immédiatement l'anomalie du mouvement propre du soleil.
 
@@ -904,9 +784,7 @@ Thalès était-il entré dans cette voie ? Tout porte à le croire. Cela ressort
 
 Les astrologues de la Chaldée, on le sait, avaient déjà été bien plus loin ; ce n'étaient pas seulement les variations atmosphériques, mais même les événements politiques qu'ils prétendaient faire
 
-[p. 67]
-
-CHAPITRE dépendre des étoiles. Leurs erreurs, qui plus tard se sont mêlées à la science antique, furent inconnues des Grecs avant les conquêtes d'Alexandre ; mais vouloir prédire le temps, ce n'en est pas moins, en astronomie, le grand desideratum de tout l'âge hellène. Notre météorologie n'est pas encore aujourd'hui tellement avancée qu'il faille blâmer ces tentatives infructueuses ; nous avons plutôt à nous demander si l'idée en appartenait en propre aux Grecs.
+[p. 67] CHAPITRE dépendre des étoiles. Leurs erreurs, qui plus tard se sont mêlées à la science antique, furent inconnues des Grecs avant les conquêtes d'Alexandre ; mais vouloir prédire le temps, ce n'en est pas moins, en astronomie, le grand desideratum de tout l'âge hellène. Notre météorologie n'est pas encore aujourd'hui tellement avancée qu'il faille blâmer ces tentatives infructueuses ; nous avons plutôt à nous demander si l'idée en appartenait en propre aux Grecs.
 
 7. Dans son livre des Apparences des fixes, à côté de bien d'autres auteurs de parapegmes qu'il cite, Ptolémée rapporte souvent des annonces de temps « selon les Égyptiens ». Cela suffit pour nous rendre certains que Thalès avait pu trouver sur les bords du Nil un modèle pour son ouvrage, tel du moins que nous avons été amenés à nous le représenter.
 
@@ -918,9 +796,7 @@ La donnée de Pline est même un indice qui ferait supposer que Thalès avait tr
 
 Quant à la durée totale de l'année, en adoptant 365 jours (Diog. L., I, 27), Thalès ne faisait encore qu'emprunter aux
 
-[p. 68]
-
-Égyptiens leur année solaire vague. Il semble même avoir également suivi leurs mois de 30 jours (I, 24), contrairement à l'usage des mois lunaires que les Grecs observaient déjà et qu'ils conservèrent religieusement.
+[p. 68] Égyptiens leur année solaire vague. Il semble même avoir également suivi leurs mois de 30 jours (I, 24), contrairement à l'usage des mois lunaires que les Grecs observaient déjà et qu'ils conservèrent religieusement.
 
 Si enfin (Diog. L., I, 24 ; cf. Apulée, l. c) le sage de Milet indiqua le diamètre du soleil comme étant la 720e partie du cercle qu'il parcourt (remarque qui trouvait naturellement sa place dans le même Traité), Cléomède nous a conservé le procédé élémentaire dont se servaient les Égyptiens pour trouver cette mesure.
 
@@ -944,9 +820,7 @@ D'après Aristote et Théophraste (2) (5), ce disque plat flottait sur l'eau pri
 
 Ils devaient, pour lui, contourner latéralement le plateau terrestre, selon une opinion à laquelle Aristote fait une allusion très nette et que Mimnerme, entre autres, avait déjà exposée dans ses vers.
 
-[p. 70]
-
-On ne peut donc dire que, pour Thalès, la terre fût au centre du monde (13) ; comme le dit Eudème, ce fut Anaximandre qui, le premier, l'isola et la suspendit à ce centre.
+[p. 70] On ne peut donc dire que, pour Thalès, la terre fût au centre du monde (13) ; comme le dit Eudème, ce fut Anaximandre qui, le premier, l'isola et la suspendit à ce centre.
 
 Considérant la terre comme cylindrique, Thalès ne devait pas regarder le soleil et la lune comme des globes sphériques, mais s'il les croyait de nature terreuse (12), il y voyait des disques (opinion d'Anaximène), ou bien des bassins circulaires (croyance d'Héraclite), pouvant se retourner de façon à montrer un côté obscur.
 
@@ -956,9 +830,7 @@ Si Anaximandre a le premier spéculé sur les distances relatives des astres [^p
 
 Enfin, Thalès ne s'occupait pas encore des planètes, car l'identité de l'étoile du soir et de l'étoile du matin n'a pas été enseignće avant Pythagore, que ce soit d'ailleurs Ibycus ou Parménide qui ait le premier publié cette découverte.[^p70-1]
 
-[p. 71]
-
-CHAPITRE
+[p. 71] CHAPITRE
 
 Je ne prétends nullement que ce soit là précisément la conception que Thalès ait adoptée ; car il ne semble pas en avoir exposé une bien précise (Aristote ne parlait déjà de ses opinions que d'après la tradition) et peut-être ses idées n'ont-elles jamais pris une forme bien arrêtée. Mais la représentation que j'ai indiquée est déduite de la combinaison rigoureuse des opinions qu'on lui connaît comme propres et de celles qui forment le fonds commun de la physique ionienne ; on peut donc dire qu'elle a au moins dû flotter devant ses yeux et qu'elle correspond, en fait, à ce qu'il a apporté en Grèce.
 
@@ -968,9 +840,7 @@ Or, elle est absolument identique avec celle que l'on retrouve dans les plus anc
 
 Cette conception cosmologique est, à divers points de vue, tout à fait grossière, et il est assez probable qu'à l'époque de Thalès les prêtres de l'Égypte l'avaient déjà abandonnée pour se rapprocher des doctrines chaldéennes, de même qu'après la conquête d'Alexandre ils s'assimilèrent celles des Grecs. Mais quelles qu'aient pu être les révolutions accomplies à cet égard dans les sanctuaires d'Héliopolis ou de Thèbes, les opinions vulgaires n'avaient probablement pas changé et c'étaient celles que Thalès pouvait s'approprier le plus facilement.[^p71-1]
 
-[p. 72]
-
-s'il n'aurait pas puisé ailleurs, et particulièrement à des sources grecques, les éléments principaux de son système.
+[p. 72] s'il n'aurait pas puisé ailleurs, et particulièrement à des sources grecques, les éléments principaux de son système.
 
 C'est déjà l'opinion d'Aristote, qui ne connaît pas, bien entendu, la cosmologie égyptienne ; il rapproche l'idée de Thalès de prendre l'eau comme premier principe, des mythes antiques où l'Océan et Téthys sont l'origine de la génération ; mais, en fait, ces mythes ne reposent guère que sur quelques vers homériques assez vagues ; en particulier, dans celui que cite Aristote (Iliade, XIV, 20[^p72-1] :
 
@@ -1002,9 +872,7 @@ Pareille à des clous d'or plantés dans un drap noir, pivote perpétuellement s
 
 Dans cette cosmologie, à côté de traits communs aux croyances primitives des Hellènes, on en trouve d'autres qu'Anaximène paraît avoir empruntés plus tard ; mais rien ne ressemble à la conception que nous avons été conduits à attribuer à Thalès, rien ne ressemble à la cosmologie égyptienne, qui est d'ailleurs très inférieure, car la représentation chaldéenne distingue nettement le mouvement diurne de la sphère céleste et les mouvements des planètes.
 
-[p. 74]
-
-11. Parmi les opinions du Milésien auxquelles on peut reconnaître un caractère suffisant d'authenticité, il en est une dernière qui mérite encore notre attention : « tout est plein de dieux »> suivant le mot que rapporte Aristote, ou bien, d'après la formule de Diogène Laërce, « le monde est animé et plein de divinités ». Le sens véritable de cette expression est déterminé en ce que Thalès attribuait une âme vivante, non seulement aux plantes, mais encore à l'ambre ou à l'aimant, pour expliquer les phénomènes de l'attraction exercée par ces corps.
+[p. 74] 11. Parmi les opinions du Milésien auxquelles on peut reconnaître un caractère suffisant d'authenticité, il en est une dernière qui mérite encore notre attention : « tout est plein de dieux »> suivant le mot que rapporte Aristote, ou bien, d'après la formule de Diogène Laërce, « le monde est animé et plein de divinités ». Le sens véritable de cette expression est déterminé en ce que Thalès attribuait une âme vivante, non seulement aux plantes, mais encore à l'ambre ou à l'aimant, pour expliquer les phénomènes de l'attraction exercée par ces corps.
 
 Cette conception de la force motrice n'a nullement le cachet d'une origine particulière ; on la retrouve partout et le sauvage n'en a pas d'autre. C'est qu'elle est naturelle à l'homme et, quand nous en sourions, nous ne réfléchissons guère qu'au fond nous n'en sommes vraiment pas débarrassés, et qu'elle se trouve, masquée, il est vrai, mais toujours indéracinable, sous les représentations que nous croyons les plus abstraites et partant les plus rigoureusement scientifiques.
 
@@ -1016,9 +884,7 @@ On a récemment appris qu'il ne fallait nullement ajouter foi, par exemple, à u
 
 Si l'on veut attribuer une origine barbare à ce dogme fameux, mieux vaudrait le rattacher aux rites orphiques et aller chercher au nord de la Thrace, chez les Gètes (en retournant les dires d'Hérodote sur Zamolxis, qui est un dieu solaire) ou chez les
 
-[p. 75]
-
-CHAPITRE Cimmériens (la transmigration des âmes étant un dogme constant de la religion des Kimris) [^p75-1].
+[p. 75] CHAPITRE Cimmériens (la transmigration des âmes étant un dogme constant de la religion des Kimris) [^p75-1].
 
 D'un autre côté, on ne peut nier que les distinctions égyptiennes du principe intellectuel (khou), véritable génie divin, de l'âme (ba), du souffle vital (niwou), n'aient de singulières ressemblances avec les théories platoniciennes ; mais on n'est aucunement en droit, pour cela, d'attribuer à celles-ci une source étrangère. Au Ive siècle, la pensée hellène a certainement conscience d'elle-même ; elle a dans sa force une foi qu'elle perdra plus tard, quand elle ira rechercher inutilement la vie dans la poussière morte des vieilles croyances barbares. Platon a pu connaître les opinions égyptiennes qui se rapprochent des siennes ; celles-ci n'en sont pas moins les vraies filles de son génie.
 
@@ -1026,9 +892,7 @@ Au temps de Thalès, la situation est toute différente ; tout à l'heure l'orig
 
 Qu'on examine maintenant, comme nous allons le faire dans le prochain chapitre, les opinions d'Anaximandre, on va sentir toute la différence. Voilà le premier qui essaie une explication mécanique de l'univers, qui soulève les éternels problèmes toujours posés devant nous sur la matière du monde, sur ses destinées ; c'est là le premier libre essor de la pensée hellène ; elle va vivre et grandir sur le sol fécond où le grain est tombé.
 
-[p. 76]
-
-DOXOGRAPHIE DE THALÈS
+[p. 76] DOXOGRAPHIE DE THALÈS
 
 [^p76-1]
 
@@ -1036,9 +900,7 @@ DOXOGRAPHIE DE THALÈS
 
 2. PHILOSOPHUMENA, I, 1. — Thalès de Milet, l'un des sept sages, est regardé comme le premier qui ait abordé la philosophie naturelle. D'après lui, l'eau est le principe et la fin de tout ; car en se figeant ou au contraire en se vaporisant, elle constitue toutes choses.
 
-[p. 77]
-
-CHAPITRE L'univers est supporté par l'eau ; d'où les tremblements de terre, les tourbillons des vents et les mouvements des astres. Toutes les choses sont comme emportées et en écoulement, conformément à la nature du premier principe de leur génération. Être dieu, c'est n'avoir ni commencement ni fin.
+[p. 77] CHAPITRE L'univers est supporté par l'eau ; d'où les tremblements de terre, les tourbillons des vents et les mouvements des astres. Toutes les choses sont comme emportées et en écoulement, conformément à la nature du premier principe de leur génération. Être dieu, c'est n'avoir ni commencement ni fin.
 
 Ce fut lui qui, s'occupant le premier de l'étude des astres, fut chez les Grecs l'auteur de cette science ; on sait que, regardant le ciel et disant qu'il connaissait très bien les choses d'en haut, il tomba dans un puits et qu'alors une servante thrace se moqua de lui : « Il prétend savoir ce qui est au ciel et ne sait pas ce qui est à ses pieds. » Il vivait au temps de Crésus.
 
@@ -1056,11 +918,7 @@ D'autre part, Thalès me fait signe qu'il possède la vérité, lorsqu'il déter
 
 2. Thalès de Milet regarde comme une même chose le principe et les éléments. Il y a une très grande différence, car les éléments sont composés, et nous disons que les principes ne sont ni composés, ni résultats ; ainsi nous appelons éléments la terre, l'eau, l'air, le feu, mais un principe ne doit rien avoir d'antérieur qui lui donne naissance, sans quoi ce ne serait pas lui qui serait principe, mais bien ce dont il naît. Or, la terre et l'eau ont des antérieurs qui leur donnent naissance, à savoir la matière sans forme et sans spécification, la forme, que nous appelons aussi entéléchie, et la privation. Ainsi Thalès se trompe en disant que l'eau est principe et élément (1).
 
-3. Thalès de Milet déclara que l'eau est le principe de toutes choses, car tout, dit-il, vient de l'eau et se résout en eau. Son opinion s'appuie sur ce que : 1º la semence, qui est le principe pour tout animal, étant humide, il est vraisemblable que tout tire son origine de l'humide ; 2º toutes les plantes se nourrissent et portent des fruits grâce à
-
-[p. 78]
-
-l'humidité ; si elles en sont privées, elles dépérissent ; 3º le feu mème du soleil et des astres, enfin le monde entier est entretenu par les exhalaisons des eaux. C'est aussi pourquoi Homère émet la même opinion sur l'eau :
+3. Thalès de Milet déclara que l'eau est le principe de toutes choses, car tout, dit-il, vient de l'eau et se résout en eau. Son opinion s'appuie sur ce que : 1º la semence, qui est le principe pour tout animal, étant humide, il est vraisemblable que tout tire son origine de l'humide ; 2º toutes les plantes se nourrissent et portent des fruits grâce à [p. 78] l'humidité ; si elles en sont privées, elles dépérissent ; 3º le feu mème du soleil et des astres, enfin le monde entier est entretenu par les exhalaisons des eaux. C'est aussi pourquoi Homère émet la même opinion sur l'eau :
 
 « L'Océan qui pour tout se trouve l'origine. »
 
@@ -1114,9 +972,7 @@ Il a déclaré que la lune est de nature terreuse.
 
 10. Thalès, son école et les stoïciens : La terre est sphérique. — 11. L'école de Thalès : La terre est au centre du monde. 15. Thalès et Démocrite attribuent à l'eau la cause des tremblements de terre.[^p79-1][^p79-2][^p79-3]
 
-[p. 80]
-
-la mer et en la chassant devant les embouchures qui sont ainsi obstruées.
+[p. 80] la mer et en la chassant devant les embouchures qui sont ainsi obstruées.
 
 2. Thalès a déclaré le premier que l'âme est une nature toujours en mouvement ou se mouvant d'elle-même.
 
@@ -1142,11 +998,7 @@ LE SAVANT.
 
 En tout cas, l'ouvrage d'Anaximandre serait, non pas l'aventureux essai d'un jeune homme, mais le couronnement d'une carrière.
 
-6
-
-[p. 82]
-
-sur laquelle nous ne savons que très peu de chose. Élien (me siècle de notre ère) nous raconte seulement qu'il conduisit une colonie à Apollonie de Thrace, et Favorinus (11º siècle) qu'il établit un gnomon à Lacédémone. La première donnée n'est nullement garantie contre la possibilité d'une confusion sur un nom qui se perpétua à Milet et pouvait y être déjà ancien ; la seconde est contredite par un écrivain antérieur, Pline, qui attribue formellement à Anaximène la construction du gnomon de Lacédémone.
+6 [p. 82] sur laquelle nous ne savons que très peu de chose. Élien (me siècle de notre ère) nous raconte seulement qu'il conduisit une colonie à Apollonie de Thrace, et Favorinus (11º siècle) qu'il établit un gnomon à Lacédémone. La première donnée n'est nullement garantie contre la possibilité d'une confusion sur un nom qui se perpétua à Milet et pouvait y être déjà ancien ; la seconde est contredite par un écrivain antérieur, Pline, qui attribue formellement à Anaximène la construction du gnomon de Lacédémone.
 
 2. Il n'est pas inutile d'entrer à ce propos dans quelques détails sur la gnomonique ancienne. L'instrument qui a donné son nom à cette branche de la science était tout simplement une tige verticale dressée sur un plan horizontal.
 
@@ -1168,9 +1020,7 @@ connus pendant longtemps, car le premier cadran plan ne fut inventé que par Ari
 
 La graduation de semblables appareils ne pouvait, à l'origine, être qu'empirique, et elle réclamait les observations d'une année entière. Est-ce sous cette forme, ou sous la forme babylonienne, plus simple, mais moins appropriée aux mœurs grecques, qu'il faut nous représenter les horloges que connaissait Anaximandre et dont il s'occupa, suivant la tradition constante ? Nous n'en savons rien, quoique la première hypothèse semble la plus plausible à première vue, tandis que la véritable division babylonienne, en douze heures seulement pour l'ensemble du jour et de la nuit, apparaît au contraire comme encore suivie par Eudoxe de Cnide. En tout cas, ces cadrans sphériques, se prétant mal à l'usage public (car on ne pouvait les consulter que de très près), ne luttèrent qu'avec désavantage contre l'emploi de la clepsydre, pour les petites durées, ou contre l'usage approximatif d'évaluer le moment de la journée, d'après la longueur en pieds de l'ombre du corps humain. Quel qu'ait pu être d'ailleurs le travail d'Anaximandre, ou plus tard celui de Démocrite, auteur d'une Polographie, ils durent disparaître devant les perfectionnements apportés à la construction des cadrans à partir de l'essor des connaissances mathématiques, au Ive siècle av. J.-C.[^p83-1]
 
-[p. 84]
-
-commencent à s'occuper des choses célestes et à grouper, plus ou moins méthodiquement, les astres en constellations. Anaximandre, qui a le premier dressé une mappemonde terrestre, a naturellement pu chercher à lui donner un pendant pour le ciel. Mais ces premiers essais furent nécessairement très grossiers, les instruments propres à mesurer les distances angulaires des étoiles n'existant pas encore. Dans ces essais, les Hellènes imitaient d'ailleurs encore les Babyloniens, et la construction de la sphère céleste se trouvait intimement liée à celle du polos, eu égard au but pratique de déterminer l'heure pendant la nuit, et d'éviter ainsi l'emploi des horloges à eau, d'une exactitude insuffisante pour les observations astronomiques. Il est certain que les Chaldéens avaient résolu ce problème et il semble qu'on puisse restituer comme suit leur solution très simple.
+[p. 84] commencent à s'occuper des choses célestes et à grouper, plus ou moins méthodiquement, les astres en constellations. Anaximandre, qui a le premier dressé une mappemonde terrestre, a naturellement pu chercher à lui donner un pendant pour le ciel. Mais ces premiers essais furent nécessairement très grossiers, les instruments propres à mesurer les distances angulaires des étoiles n'existant pas encore. Dans ces essais, les Hellènes imitaient d'ailleurs encore les Babyloniens, et la construction de la sphère céleste se trouvait intimement liée à celle du polos, eu égard au but pratique de déterminer l'heure pendant la nuit, et d'éviter ainsi l'emploi des horloges à eau, d'une exactitude insuffisante pour les observations astronomiques. Il est certain que les Chaldéens avaient résolu ce problème et il semble qu'on puisse restituer comme suit leur solution très simple.
 
 Imaginons une sphère céleste, concentrique et intérieure à l'hémisphère creux du polos. Supposons que le zodiaque soit divisé en 360 degrés, suivant l'usage babylonien, et que l'on sache, pour lejour où l'on est, le degré occupé par le soleil ; qu'on observe, au moment pour lequel on veut savoir l'heure, les étoiles du zodiaque à l'horizon du levant, du couchant ou au méridien ; on pourra amener dans la même position l'étoile figurée sur la sphère de l'instrument ; dès lors le degré où se trouve le soleil se trouve jouer précisément le même rôle que l'ombre de l'extrémité du style pendant le jour, et sa position, par rapport aux lignes horaires tracées sur le polos, donne l'heure cherchée.
 
@@ -1194,11 +1044,7 @@ Les étoiles situées dans la bande des éclipses étant reconnues par une longu
 
 progression arithmétique ; pour déterminer la raison de cette progression, il suffisait d'avoir observé le rapport du plus long jour de l'année à la plus courte nuit.
 
-L'observation de l'ombre dans le polos fournissait aussi tous les éléments nécessaires pour y disposer la sphère mobile en donnant
-
-[p. 86]
-
-à son équateur et à ses tropiques l'inclinaison des cercles célestes. L'écliptique étant tracé et divisé en degrés, d'après le parallèle décrit par le soleil, on peut déterminer chaque jour, par un procédé purement mécanique, le degré occupé par le soleil. Enfin, en observant les levers, couchers ou culminations d'une étoile en dehors du zodiaque, et en remarquant les points de l'écliptique se trouvant alors à l'horizon ou au méridien, il était facile de tracer sur l'appareil deux grands cercles dont l'intersection donnait la position de l'étoile [^p86-2], et dès lors son observation pouvait, pour la détermination de l'heure, remplacer celle du point de l'écliptique se levant, se couchant ou culminant en même temps qu'elle.
+L'observation de l'ombre dans le polos fournissait aussi tous les éléments nécessaires pour y disposer la sphère mobile en donnant [p. 86] à son équateur et à ses tropiques l'inclinaison des cercles célestes. L'écliptique étant tracé et divisé en degrés, d'après le parallèle décrit par le soleil, on peut déterminer chaque jour, par un procédé purement mécanique, le degré occupé par le soleil. Enfin, en observant les levers, couchers ou culminations d'une étoile en dehors du zodiaque, et en remarquant les points de l'écliptique se trouvant alors à l'horizon ou au méridien, il était facile de tracer sur l'appareil deux grands cercles dont l'intersection donnait la position de l'étoile [^p86-2], et dès lors son observation pouvait, pour la détermination de l'heure, remplacer celle du point de l'écliptique se levant, se couchant ou culminant en même temps qu'elle.
 
 C'est ainsi que les fondements de l'astronomie ont pu être établis, pour ainsi dire sans autre matériel qu'un appareil élémentaire donnant l'heure et permettant, en thèse générale, de résoudre mécaniquement les problèmes pour lesquels nous nous servons de la trigonométrie sphérique ; celle-ci ne vint qu'à son heure : Hipparque se trouva pour l'inventer, quand le perfectionnement des moyens d'observation rendit insuffisants les procédés primitifs.[^p86-1][^p86-3][^p86-4]
 
@@ -1214,9 +1060,7 @@ Il est singulier que le premier géographe ne nous soit pas représenté comme u
 
 LE SYSTÈME.[^p87-1]
 
-[p. 88]
-
-cédé qui permet de décider de la vérité ou de la fausseté de cette hypothèse.
+[p. 88] cédé qui permet de décider de la vérité ou de la fausseté de cette hypothèse.
 
 Il est inutile de discuter par le menu toutes les erreurs analogues ; bornons-nous donc, tout en indiquant les sources, à exposer l'ensemble du système d'après la restitution de Teichmüller [^p88-1].
 
@@ -1244,11 +1088,7 @@ Dans la suite des temps, l'action des feux célestes a vaporisé la plus grande 
 
 Les premiers animaux se sont produits dans le sein des eaux, enveloppés d'une écorce épineuse ; avec le temps, ils ont trouvé une nouvelle demeure sur la terre, et dépouillés de leur écorce desséchée et fendue [^p89-1], ils se sont bientôt adaptés à de nouvelles conditions de vie. Il est notamment clair que l'homme dérive d'animaux différant de lui ; car, avec les difficultés de son éducation, il n'aurait pu subsister à l'origine (3) (17) (18).
 
-C'est ainsi que l'univers est parvenu à l'état sous lequel il s'offre à nos yeux, mais cet état n'a rien de stable ; car tout ce qui est né doit périr et la chaleur céleste, due au mouvement, continue, comme elle a commencé, à dévorer et à dissiper le noyau central constitué par ce même mouvement. Ainsi, dans la suite des temps, les choses porteront justement la peine de leur isolement, le châtiment de leur iniquité (1) et reviendront à l'état de confusion originaire. Mais il y a aussi fin à toute destruction, et la même
-
-[p. 90]
-
-raison qui a produit le ciel et le monde actuel en reproduira d'autres destinés à périr de même. Cette succession périodique des mondes n'a pas commencé et ne finira pas ; tout est soumis, comme eux, à paraître et disparaître alternativement et sans cesse, tout, sauf le mouvement de révolution de l'ensemble qui gouverne et embrasse les choses, immortel et impérissable, éternel et toujours jeune [^p90-2] (fr. [^p90-1].
+C'est ainsi que l'univers est parvenu à l'état sous lequel il s'offre à nos yeux, mais cet état n'a rien de stable ; car tout ce qui est né doit périr et la chaleur céleste, due au mouvement, continue, comme elle a commencé, à dévorer et à dissiper le noyau central constitué par ce même mouvement. Ainsi, dans la suite des temps, les choses porteront justement la peine de leur isolement, le châtiment de leur iniquité (1) et reviendront à l'état de confusion originaire. Mais il y a aussi fin à toute destruction, et la même [p. 90] raison qui a produit le ciel et le monde actuel en reproduira d'autres destinés à périr de même. Cette succession périodique des mondes n'a pas commencé et ne finira pas ; tout est soumis, comme eux, à paraître et disparaître alternativement et sans cesse, tout, sauf le mouvement de révolution de l'ensemble qui gouverne et embrasse les choses, immortel et impérissable, éternel et toujours jeune [^p90-2] (fr. [^p90-1].
 
 Comme il était inévitable dans le premier essor de la spéculation, le système grandiose d'Anaximandre faisait sa place à la théologie populaire. Les ciels périssables, nés du divin Infini et de l'incessante Révolution, sont dieux (9) tout comme l'Ouranos d'Hésiode ; dieux aussi probablement ces anneaux célestes qui nous apparaissent comme astres, qui participent au plus haut degré à ce mouvement qui est la vie du monde.
 
@@ -1278,9 +1118,7 @@ En suivant la même progression décroissante, nous devons nécessairement trouv
 
 Pour compléter la restitution de ces détails, resterait à élucider deux points obscurs : Quelle était la hauteur des anneaux, sur laquelle le hardi spéculateur avait dù s'expliquer aussi bien que sur leurs autres dimensions ? Quel était le degré de transparence de l'enveloppe feutrée qui les constituait et dont nous devons assimiler la consistance à celle des nuages ?[^p91-1]
 
-[p. 92]
-
-la lune et du soleil ; l'anneau de la lune, d'ailleurs placé obliquement par rapport à celui du soleil, ne doit pas éclipser non plus l'astre du jour.
+[p. 92] la lune et du soleil ; l'anneau de la lune, d'ailleurs placé obliquement par rapport à celui du soleil, ne doit pas éclipser non plus l'astre du jour.
 
 A côté de cette opinion, dont la haute valeur est indiscutable, il me sera sans doute permis de présenter une autre hypothèse, dans laquelle les enveloppes feutrées pourraient être toutes également transparentes.
 
@@ -1316,9 +1154,7 @@ Dans cette seconde hypothèse, plus simple, et d'accord avec celle qui admettait
 
 L'INFINI ET LINDÉTERMINÉ.[^p93-1]
 
-[p. 94]
-
-certains termes qu'il emploie. C'est ce qui nous reste à montrer à propos du terme ἄπειρον, mot transmis par lui à la langue philosophique.
+[p. 94] certains termes qu'il emploie. C'est ce qui nous reste à montrer à propos du terme ἄπειρον, mot transmis par lui à la langue philosophique.
 
 Il qualifie ainsi la matière homogène au commencement [^p94-1] de la formation de chacun des mondes successifs, et les physiologues qui l'ont suivi ont, en général, donné la même qualification à leurs éléments primordiaux. Chez eux, d'ailleurs, ce terme que, dans la doxographie qui suit ce chapitre, j'ai traduit par « indéfini », aurait le sens précis « infini », si nous pouvons nous en fier à Aristote. Il est clair enfin que ce dernier, et à sa suite Théophraste et tous les doxographes, lui attribuent la même signification dans l'écrit d'Anaximandre.
 
@@ -1326,15 +1162,13 @@ On remarquera comment notre plan nous amène à traiter maintenant en dernier li
 
 Certes, il pourrait être pris en sérieuse considération, si Aristote avait lui-même possédé un concept de l'infini identique au nôtre. Mais en ce qui concerne l'espace, ici en question, ses idées sont loin d'ètre parfaitement nettes et précises ; nous voyons que, pour lui, l'espace infini n'a que la valeur subjective d'une notion mathématique, tandis qu'objectivement il ne reconnaît l'espace que comme lieu de la matière, comme fini, par conséquent, suivant ses théories. Devant cette contradiction flagrante, il est impossible de croire que, deux siècles avant lui, ces notions aient été éclaircies comme elles le sont pour nous.
 
-Pour Anaximandre, qui ne soupçonnait même pas la notion du vide absolu, il ne pouvait non plus y avoir de distinction entre l'espace et le lieu de la matière, mais il est très improbable que,
-
-[p. 95]
+Pour Anaximandre, qui ne soupçonnait même pas la notion du vide absolu, il ne pouvait non plus y avoir de distinction entre l'espace et le lieu de la matière, mais il est très improbable que, [p. 95]
 
 ### Chapitre Iv. — Αναχιμαndre De Milet.
 
 dès cette époque, la nécessité mathématique de qualifier l'espace d'illimité, autrement que par une vague métaphore poétique, eût été reconnue à la suite d'une discussion des principes de la géométrie.
 
-On ne peut, il est vrai, refuser à un contemporain d'Anaximandre la possibilité de s'imaginer a priori l'espace comme réellement illimité, et, par conséquent, la matière comme illimitée elle-même. Comme on le verra au chapitre suivant, c'est là le dogme pythagorien qui oppose le monde fini à la substance infinie qui l'entoure et qu'il respire ; c'est la croyance de Xénophane, qui étend à l'infini les racines de la terre et les espaces éthérés.
+On ne peut, il est vrai, refuser à un contemporain d'Anaximandre la possibilité de s'imaginer *a priori* l'espace comme réellement illimité, et, par conséquent, la matière comme illimitée elle-même. Comme on le verra au chapitre suivant, c'est là le dogme pythagorien qui oppose le monde fini à la substance infinie qui l'entoure et qu'il respire ; c'est la croyance de Xénophane, qui étend à l'infini les racines de la terre et les espaces éthérés.
 
 Si Anaximandre fut le premier à publier ses opinions physiques, il devait, bien moins que ses successeurs, éprouver la nécessité d'élaborer ses conceptions au point de vue logique ; mais, nous l'avons remarqué, son imagination est très précise ; or, il y a une chose qui a toujours été inimaginable, c'est un mouvement rotatoire s'étendant à l'infini ; donc, puisque la croyance à ce mouvement rotatoire pour la totalité de la matière est le fond du système d'Anaximandre, il est certain qu'il ne pouvait imaginer la matière comme infinie, dans le sens que nous donnons à ce mot.
 
@@ -1342,17 +1176,13 @@ Ceci trouve une confirmation dans l'histoire des doctrines immédiatement posté
 
 Peut-être le Milésien ne limitait pas la matière à son anneau solaire, car il lui fallait assurer le renouvellement incessant de la substance de cet anneau ; ce serait alors qu'il n'aurait point senti la nécessité de préciser des limites. Cependant il est clair que la genèse qu'il suppose pour le monde ne se comprend bien que dans un espace limité, si les parties les plus légères rejetées loin du centre du tourbillon doivent s'arrêter quelque part et ne pas se dissiper dans l'immensité.
 
-Quand, d'un autre côté, Anaximandre explique l'immobilité de la terre au centre du monde par son égale distance aux extrémités dans toutes les directions, c'est une négation aussi formelle que possible de l'infinitude de la matière, et quand on verra ses successeurs chercher d'autres explications, on aura à se demander
-
-[p. 96]
-
-si ce recul apparent vers l'erreur ne cache pas un progrès réel dans le concept de l'espace, désormais reconnu comme infini et ne pouvant, dès lors, avoir ni centre ni extrémités.
+Quand, d'un autre côté, Anaximandre explique l'immobilité de la terre au centre du monde par son égale distance aux extrémités dans toutes les directions, c'est une négation aussi formelle que possible de l'infinitude de la matière, et quand on verra ses successeurs chercher d'autres explications, on aura à se demander [p. 96] si ce recul apparent vers l'erreur ne cache pas un progrès réel dans le concept de l'espace, désormais reconnu comme infini et ne pouvant, dès lors, avoir ni centre ni extrémités.
 
 L'état d'esprit que nous sommes ainsi amenés à constater chez Anaximandre, la représentation de l'espace comme une sphère remplie par la matière, choque, à la vérité, toutes nos habitudes modernes. Mais nous sommes bien obligés de l'accepter comme un fait, alors que cette représentation a été, en réalité, prédominante dans l'antiquité, abstraction faite des mathématiciens. Cet état d'esprit est même plus concevable chez le Milésien que chez Aristote, puisque ce dernier reconnaît l'infinitude subjective et que, pour le premier, la question n'est même pas posée ; il n'imagine pas l'espace infini et il n'a aucune notion logique pouvant lutter contre son imagination. Dans ces conditions, le sens du terme qu'il employait ayant changé entre lui et Aristote, on conçoit très bien que ce dernier s'y soit trompé et n'ait pas reconnu qu'il avait affaire à une conception objective tout à fait analogue à la sienne.
 
 Mais, fait qui ne peut manquer de paraître singulier, tandis que la notion de l'infinitude de l'espace fait défaut chez Anaximandre, il a, au contraire, très nettement celle de l'infinitude du temps, comme le prouve sa doctrine de la succession indéfinie des mondes périssables. Ainsi les concepts du temps et de l'espace infinis présentent cette différence historique que l'un apparait comme immédiatement formé, que l'autre réclame au contraire, pour être adopté sans conteste, une élaboration très prolongée ; une simple réflexion peut rendre raison de cette différence.
 
-La nécessité subjective de concevoir le temps comme infini ne rencontre pas, en réalité, d'obstacle objectif ; la prétendue antinomie de Kant à ce sujet ne repose que sur l'introduction d'une thèse théologique, celle de la création ex nihilo, étrangère à la conscience humaine à son aurore et, en tous cas, à la pensée hellène. Non seulement l'infinitude du temps n'a jamais été mise en question sur le sol de la Grèce antique, mais l'éternité du monde, sous sa forme actuelle, y compris l'existence de la race humaine, est un dogme constant de Platon et d'Aristote, pour ne parler ni des Éléates, ni des pythagoriens, dont les genèses ont un caractère métaphysique tout différent de leur forme mythique.
+La nécessité subjective de concevoir le temps comme infini ne rencontre pas, en réalité, d'obstacle objectif ; la prétendue antinomie de Kant à ce sujet ne repose que sur l'introduction d'une thèse théologique, celle de la création *ex nihilo*, étrangère à la conscience humaine à son aurore et, en tous cas, à la pensée hellène. Non seulement l'infinitude du temps n'a jamais été mise en question sur le sol de la Grèce antique, mais l'éternité du monde, sous sa forme actuelle, y compris l'existence de la race humaine, est un dogme constant de Platon et d'Aristote, pour ne parler ni des Éléates, ni des pythagoriens, dont les genèses ont un caractère métaphysique tout différent de leur forme mythique.
 
 La thèse de l'infinitude de l'espace aurait, au contraire, besoin d'une impossible confirmation objective ; la spéculation géométrique
 
@@ -1364,9 +1194,7 @@ n'a qu'un caractère hypothétique sans valeur pour la justifier, et elle est m�
 
 Pour faire ressortir la différence des deux concepts sous une autre forme et dans le langage ordinaire, le « bout du monde » est une locution vulgaire que son non-sens logique n'empêche pas d'employer comme monnaie courante ; la « fin des temps » et le « commencement des siècles » ne sont que des formules religieuses ou bien c'est un naïf aveu d'ignorance.[^p97-1]
 
-[p. 98]
-
-de Platon et subsiste même dans Aristote, pour la divisibilité indéfinie des grandeurs limitées.
+[p. 98] de Platon et subsiste même dans Aristote, pour la divisibilité indéfinie des grandeurs limitées.
 
 Dans les conditions où nous apparaît ce second sens, on le croirait facilement dérivé du premier, et il est certain que celui-ci a dû influer sur les transformations de l'autre. Mais Teichmüller a grandement raison de considérer la signification d'indéterminé comme également primitive et de la préciser, dans le langage d'Anaximandre, en l'appliquant à l'absence de limites existant, au sein de l'élément primitif, entre les diverses formes de la matière, avant que la différentiation et l'intégration de ces formes eussent établi entre elles les bornes respectives qui les séparent à nos yeux.
 
@@ -1392,11 +1220,7 @@ Ainsi le Stagirite a apporté dans ces notions une clarté relative seulement à
 
 Comment ce concept abstrait d'une matière sans qualités auraitil pu prendre racines dans l'esprit d'un physicien à l'imagination aussi vive et aussi nette ?
 
-D'après l'exposé de sa doctrine, il ne semble pas qu'il puisse y avoir doute à cet égard ; Anaximandre devait se figurer d'une certaine façon son mélange général, et ce ne pouvait guère être que sous l'état d'un fluide aériforme chargé de vapeur d'eau ; c'est ce qu'indiquent, du moins, dans sa cosmographie, les dimensions très restreintes de la terre et de la mer par rapport à la masse d'air qui les enveloppe jusqu'au ciel. Anaximène n'aurait donc fait que conserver sa doctrine à cet égard, et l'on doit rejeter la donnée péripatéticienne (De Melisso, 975 b) d'après laquelle la forme primitive de l'univers aurait été l'eau pour Anaximandre
-
-[p. 100]
-
-comme pour Thalès. Cette donnée ne peut s'appliquer qu'à l'origine immédiate de la terre.
+D'après l'exposé de sa doctrine, il ne semble pas qu'il puisse y avoir doute à cet égard ; Anaximandre devait se figurer d'une certaine façon son mélange général, et ce ne pouvait guère être que sous l'état d'un fluide aériforme chargé de vapeur d'eau ; c'est ce qu'indiquent, du moins, dans sa cosmographie, les dimensions très restreintes de la terre et de la mer par rapport à la masse d'air qui les enveloppe jusqu'au ciel. Anaximène n'aurait donc fait que conserver sa doctrine à cet égard, et l'on doit rejeter la donnée péripatéticienne (De Melisso, 975 b) d'après laquelle la forme primitive de l'univers aurait été l'eau pour Anaximandre [p. 100] comme pour Thalès. Cette donnée ne peut s'appliquer qu'à l'origine immédiate de la terre.
 
 Le style métaphorique du Milésien laissait probablement la pensée ambiguë et flottante entre les divers états de la matière, et c'est ainsi qu'on peut expliquer les différents renseignements contradictoires que nous fournit l'antiquité ; toutefois, il est difficile de croire qu'il ait affecté, comme semble l'avoir dit Théophraste, de ne pas définir la forme primordiale autrement que comme « indéfini ». Aristote ne nous dit rien de semblable au sujet de l'emploi de ce terme par Anaximandre, et ailleurs (De cœlo, III, 5), il dit formellement au contraire que ceux qui supposent un seul élément y voient soit l'eau, soit l'air, soit le feu, soit un intermédiaire plus subtil que l'eau, plus dense que l'air. Sans doute, ainsi que l'a soutenu Alexandre d'Aphrodisias, c'est bien Anaximandre qu'il entend comme représentant cette dernière hypothèse.
 
@@ -1420,41 +1244,33 @@ On ne peut nier que cette question de l'origine du monde n'offre qu'un intérêt
 
 Cependant la question d'une fin possible a pu se poser pour quelques penseurs, et la réponse naïve, dictée aussitôt par la conception anthromorphique des dieux, a été que tout ce qui avait commencé devait finir. L'exemple des Scandinaves semble prouver que, pour admettre un pareil dogme, une religion n'a pas besoin d'une longue évolution. Mais la même nécessité subjective entraînait à conclure ensuite à un nouveau commencement, puis à une nouvelle fin, et à multiplier dans les deux sens, avant et après, les mondes successifs. Les Hindous poussèrent au plus loin cette doctrine ; toutefois, la date des dernières conséquences n'est pas plus assurée que celle de la croyance des rabbins, que ce monde où nous sommes a été précédé d'un autre [^p101-1].
 
-[p. 102]
-
-La religion grecque, au contraire, ne connaissait que la question d'origine, et si, chez quelques peuples voisins (les Étrusques, par exemple), la doctrine de la fin du monde était professée, celle de la succession indéfinie, dans les deux sens, de périodes d'organisation et de destruction, ne nous apparaît pas moins chez Anaximandre, au moment où la pensée hellène se dégage de la forme mythique, non pas comme un emprunt fait à des croyances religieuses indigènes ou étrangères, mais bien comme une conclusion logique d'un raisonnement dû au Milésien.
+[p. 102] La religion grecque, au contraire, ne connaissait que la question d'origine, et si, chez quelques peuples voisins (les Étrusques, par exemple), la doctrine de la fin du monde était professée, celle de la succession indéfinie, dans les deux sens, de périodes d'organisation et de destruction, ne nous apparaît pas moins chez Anaximandre, au moment où la pensée hellène se dégage de la forme mythique, non pas comme un emprunt fait à des croyances religieuses indigènes ou étrangères, mais bien comme une conclusion logique d'un raisonnement dû au Milésien.
 
 Ce raisonnement, toujours valable, est le suivant : la genèse, après un état indéfiniment stable, est inconcevable, de même que le maintien d'un état indéfiniment stable après la destruction ; done il faut répéter périodiquement et sans fin genèse et destruction.
 
 La négation de cette thèse se produisit presque immédiatement par la bouche de Xénophane : il n'y a ni genèse ni destruction, les changements apparents sont négligeables, le monde est éternel.
 
-L'adhésion de Platon et d'Aristote entraîna finalement, dans l'hellénisme, la prédominance de cette seconde solution, quoique, à la suite d'Héraclite, les stoïciens eussent soutenu la première. Mais dans un cercle étranger, que l'éducation grecque ne parvint pas à absorber, une nouvelle conception religieuse introduisit la supposition d'une création ex nihilo.
+L'adhésion de Platon et d'Aristote entraîna finalement, dans l'hellénisme, la prédominance de cette seconde solution, quoique, à la suite d'Héraclite, les stoïciens eussent soutenu la première. Mais dans un cercle étranger, que l'éducation grecque ne parvint pas à absorber, une nouvelle conception religieuse introduisit la supposition d'une création *ex nihilo*.
 
 Une pareille hypothèse n'était possible qu'après que les Grecs eurent élaboré les concepts de l'ètre et du néant ; d'ailleurs elle se formula, lorsque les penseurs hébreux, ne trouvant dans leurs livres saints rien qui s'accommodat aux doctrines hellènes, furent obligés de constituer un système en harmonie suffisante avec le texte de ces livres.
 
-Le succès de cette thèse de la création ex nihilo, avec destruction finale, accompagna le triomphe du christianisme, et il fut assez complet pour forcer les modernes à repasser lentement par les premières étapes de la pensée humaine. Cependant une réflexion tant soit peu attentive suffit pour montrer que cette thèse est tout à fait en dehors de la question scientifique.
+Le succès de cette thèse de la création *ex nihilo*, avec destruction finale, accompagna le triomphe du christianisme, et il fut assez complet pour forcer les modernes à repasser lentement par les premières étapes de la pensée humaine. Cependant une réflexion tant soit peu attentive suffit pour montrer que cette thèse est tout à fait en dehors de la question scientifique.
 
 D'une part, en ce qui concerne l'avenir, la doctrine chrétienne, en conservant l'individualité immortelle des âmes créées, en maintenant même, pour l'éternité future, l'existence de la matière sortie du néant, abandonne la conséquence logique de la thèse qui devrait conclure à l'anéantissement absolu de tout le monde des phénomènes. La destruction que prédit cette doctrine n'est point
 
-[p. 103]
+[p. 103] CHAPITRE une véritable destruction, c'est une transformation, un passage à un nouvel état, cette fois indéfiniment stable. Quelles que soient les différences de cet état avec l'actuel, il n'y en a pas moins, au fond et philosophiquement parlant, retour, pour ce côté du temps, à la thèse de Xénophane.
 
-CHAPITRE une véritable destruction, c'est une transformation, un passage à un nouvel état, cette fois indéfiniment stable. Quelles que soient les différences de cet état avec l'actuel, il n'y en a pas moins, au fond et philosophiquement parlant, retour, pour ce côté du temps, à la thèse de Xénophane.
-
-Quant au passé, pour juger du véritable caractère de la croyance à une création ex nihilo,
+Quant au passé, pour juger du véritable caractère de la croyance à une création *ex nihilo*,
 
 il suffit de rappeler l'argument de Châteaubriand : que les découvertes géologiques ne prouvent rien contre l'Écriture, car Dieu a pu et dû créer les couches stratifiées, avec les coquilles qu'elles contiennent, absolument comme si elles avaient été déposées par les mers. Il n'y a aucune contradiction possible à opposer à cette hypothèse, précisément parce qu'elle est tout à fait en dehors de la question. Celle-ci ne consiste-t-elle pas à remonter l'histoire du monde, à la reconstituer comme elle s'est déroulée, sans s'inquiéter de savoir si ce fut dans une réalité tangible ou bien dans l'évolution de la pensée divine, si nous ne sommes en présence que d'une illusion subsistant seulement depuis qu'il plaît à un Créateur ?
 
-L'affirmation ou la négation d'une création ex nihilo, à telle ou telle date à partir de maintenant, que ce soit il y a six mille ans, que ce soit hier, ne peut nous toucher. A tel état que l'on suppose le monde au moment de cette création, correspondra nécessairement un ordre sériaire régressif de phénomènes antérieurs et, que ces phénomènes aient été perçus ou non, ils sont nécessairement pour nous comme s'ils s'étaient réellement produits ; nous devons donc, au sens scientifique, les affirmer, car nous n'avons point d'autre critérium pour la réalité du passé.
+L'affirmation ou la négation d'une création *ex nihilo*, à telle ou telle date à partir de maintenant, que ce soit il y a six mille ans, que ce soit hier, ne peut nous toucher. A tel état que l'on suppose le monde au moment de cette création, correspondra nécessairement un ordre sériaire régressif de phénomènes antérieurs et, que ces phénomènes aient été perçus ou non, ils sont nécessairement pour nous comme s'ils s'étaient réellement produits ; nous devons donc, au sens scientifique, les affirmer, car nous n'avons point d'autre critérium pour la réalité du passé.
 
 On sait de reste que l'argument de Châteaubriand s'adressait aux premières attaques sérieuses ébranlant alors la doctrine reçue et cela au nom de la science ; c'était l'époque où un des plus illustres représentants de celle-ci reconstruisait une genèse systématique de l'univers qui dépasse naturellement celle d'Anaximandre de toute la hauteur de l'édifice des connaissances modernes, mais qui, comme détails, n'était pas destinée à vivre beaucoup plus longtemps que la tentative du précurseur hellène.
 
 Or, en même temps que Laplace exposait l'ensemble de ses vues comme une hypothèse rendant inutile celle de la création, par une singularité frappante, il prétendait, comme corollaire de sa Mécanique céleste, démontrer la stabilité du monde et son impérissabilité. L'union de ces deux thèses
 
-la genèse dans le
-
-[p. 104]
-
-passé, l'éternité dans l'avenir
+la genèse dans le [p. 104] passé, l'éternité dans l'avenir
 
 n'a pas plus de valeur philosophique que la cosmogonie d'Hésiode.
 
@@ -1480,11 +1296,7 @@ On connaît enfin le système d'Herbert Spencer, la loi du rhythme, de l'intégr
 
 11. Ainsi, sur cette grave question de l'origine et des destinées du monde, la philosophie se trouve, depuis sa naissance, ballottée entre la thèse d'Anaximandre et l'antithèse de Xénophane ; car la croyance à une création n'a d'importance qu'au point de vue religieux, et la récente doctrine de l'entropie n'est pas assise sur des fondements scientifiques suffisants.
 
-Au reste, la thèse et l'antithèse sont d'accord pour reconnaître comme indéfinie dans le passé et dans l'avenir la succession des phénomènes, et la divergence porte sur l'importance plus ou moins considérable des variations qui affectent l'ordonnance générale de l'univers. Aujourd'hui, la science paraît prêter surtout son appui à l'opinion qui attribue à ces variations la plus grande étendue que l'on puisse concevoir ; elle semble ainsi, ou bien conduire à substituer, à l'idée de l'éternité dans la stabilité, celle de l'éternité dans un changement s'accomplissant toujours dans le même sens, celui de l'entropie, ou bien, plutôt, assurer la prédominance de l'opinion d'Anaximandre, rajeunie sous l'épithète d'évolutionniste. Ce serait aujourd'hui un paradoxe que de soutenir l'éternité du monde sous sa forme actuelle ; mais les arguments qui se dresseraient contre ce dogme antique de Platon, ont été en réalité accumulés contre la croyance à une création et il n'y a point à se faire illusion sur la valeur des preuves ainsi apportées au système
-
-[p. 106]
-
-de l'évolution, surtout pour la partie qui concerne la matière inorganique ; il n'y a point à se figurer que le système contradictoire soit à jamais condamné, quand, pour reparaître, il n'attend peut-être qu'une idée scientifique nouvelle, tournant les esprits vers une autre direction.
+Au reste, la thèse et l'antithèse sont d'accord pour reconnaître comme indéfinie dans le passé et dans l'avenir la succession des phénomènes, et la divergence porte sur l'importance plus ou moins considérable des variations qui affectent l'ordonnance générale de l'univers. Aujourd'hui, la science paraît prêter surtout son appui à l'opinion qui attribue à ces variations la plus grande étendue que l'on puisse concevoir ; elle semble ainsi, ou bien conduire à substituer, à l'idée de l'éternité dans la stabilité, celle de l'éternité dans un changement s'accomplissant toujours dans le même sens, celui de l'entropie, ou bien, plutôt, assurer la prédominance de l'opinion d'Anaximandre, rajeunie sous l'épithète d'évolutionniste. Ce serait aujourd'hui un paradoxe que de soutenir l'éternité du monde sous sa forme actuelle ; mais les arguments qui se dresseraient contre ce dogme antique de Platon, ont été en réalité accumulés contre la croyance à une création et il n'y a point à se faire illusion sur la valeur des preuves ainsi apportées au système [p. 106] de l'évolution, surtout pour la partie qui concerne la matière inorganique ; il n'y a point à se figurer que le système contradictoire soit à jamais condamné, quand, pour reparaître, il n'attend peut-être qu'une idée scientifique nouvelle, tournant les esprits vers une autre direction.
 
 Sans discuter par le menu les preuves de l'évolution du monde, on peut néanmoins dire en thèse générale qu'elles reposent sur un échafaudage de suppositions aussi plausibles que l'on voudra, aussi concordantes entre elles qu'on puisse le désirer, mais qui n'en gardent pas moins leur caractère hypothétique.
 
@@ -1508,9 +1320,7 @@ Ainsi la paléontologie a pu réunir un ensemble de faits suffisant pour donner 
 
 La question soulevée par Anaximandre reste ainsi pendante en réalité, et comme elle offre ce caractère singulier de former un de ces problèmes où les limites de l'inconnaissable et du connaissable ne peuvent être rigoureusement tracées, elle demeure et demeurera bien longtemps encore, sinon toujours, l'objet des préoccupations de la science et de la philosophie.[^p107-1]
 
-[p. 108]
-
-On sait que la transformation de la chaleur en travail mécanique et réciproquement celle du travail en chaleur ont été démontrées s'accomplir sous une équivalence fixe, sous un rapport déterminé entre l'unité servant à mesurer la chaleur
+[p. 108] On sait que la transformation de la chaleur en travail mécanique et réciproquement celle du travail en chaleur ont été démontrées s'accomplir sous une équivalence fixe, sous un rapport déterminé entre l'unité servant à mesurer la chaleur
 
 et
 
@@ -1540,11 +1350,7 @@ Reste maintenant à examiner les conditions des transformations entre le travail
 
 Il s'agit, en somme, de savoir si un cycle de phénomènes peut se reproduire indéfiniment en ramenant, chaque fois qu'il expire, les choses à l'état initial, tant au point de vue mécanique qu'au point de vue de la chaleur, ou si, au contraire, le rétablissement apparent de l'état initial cache, à chaque période, une transformation intime, toujours dans le même sens.
 
-Parmi les phénomènes qui s'opèrent dans le cycle (en supposant toujours qu'il s'agisse d'un système soumis à la loi de la conservation des forces vives), les uns sont accompagnés de production de
-
-[p. 110]
-
-chaleur et par conséquent d'une diminution équivalente de l'énergie moléculaire (soit potentielle, soit correspondante aux forces vives de transfert) ; nous les appellerons positifs (dans le sens de l'entropie) ; les autres, que nous dirons négatifs, sont au contraire accompagnés d'un accroissement de l'énergie moléculaire et par conséquent d'une destruction équivalente d'énergie calorique.
+Parmi les phénomènes qui s'opèrent dans le cycle (en supposant toujours qu'il s'agisse d'un système soumis à la loi de la conservation des forces vives), les uns sont accompagnés de production de [p. 110] chaleur et par conséquent d'une diminution équivalente de l'énergie moléculaire (soit potentielle, soit correspondante aux forces vives de transfert) ; nous les appellerons positifs (dans le sens de l'entropie) ; les autres, que nous dirons négatifs, sont au contraire accompagnés d'un accroissement de l'énergie moléculaire et par conséquent d'une destruction équivalente d'énergie calorique.
 
 Pour que le cycle arrivât à restituer complètement l'état initial, il faudrait évidemment qu'il y eût compensation exacte entre les phénomènes positifs et les phénomènes négatifs ; mais toutes les fois qu'il y a un phénomène positif, c'est-à-dire une production de chaleur, nous voyons que cette chaleur se dissipe au moins en partie, avant d'être retransformée en travail. La différence des températures entre les parties les plus chaudes et les plus froides du système occasionne cette dissipation qui s'effectue sans dépense d'énergie. Il s'ensuit que, si le cycle s'achève par une restitution apparente au point de vue mécanique, par exemple, il y aura eu un changement dans la distribution des températures, et ce changement,
 
@@ -1568,19 +1374,13 @@ C'est qu'après avoir assimilé la chaleur à un mouvement, on l'isole des autre
 
 etc., comme nous mesurons, par exemple, celles qui correspondent à la chaleur ou à la gravitation. Tant que leur indépendance ou leurs relations réciproques ne seront pas absolument élucidées, il est prématuré de formuler comme définitive une loi pareille à celle de l'entropie.
 
-Ces considérations suffisent pour justifier le scepticisme à l'égard de cette nouvelle doctrine. Mais, pourra-t-on dire, faut-il pour cela écarter, fût-ce même comme hypothèse, cette conception d'états limites idéaux et indéfiniment reculés dans le passé ou dans l'avenir, de quelque façon qu'on doive d'ailleurs se figurer ces états opposés ? Les deux autres réponses à l'éternelle question sur les destinées de l'univers, la stabilité indéfinie de l'ordre de choses
-
-[p. 112]
-
-actuel, la succession indéfinie de périodes d'organisation ou de désorganisation, ne sont autre chose, elles aussi, que des hypothèses indémontrées et peut-être indémontrables. Pourquoi à ces deux solutions de la sagesse antique refuser d'en adjoindre une troisième dont l'esprit moderne puisse se glorifier ? Un processus éternel du passé vers l'avenir, dans lequel chaque pas en avant serait définitivement acquis, un but devant nos yeux, vers lequel nous marchons, si loin qu'il soit, un point de départ derrière nous, dont nous nous éloignons pour toujours irrévocablement, ne sont-ce point là des conceptions dignes d'un esprit philosophique ? Ne méritent-elles point d'ètre soutenues et développées, de jouer à leur tour le rôle d'inspiratrices et de directrices de l'humanité ?
+Ces considérations suffisent pour justifier le scepticisme à l'égard de cette nouvelle doctrine. Mais, pourra-t-on dire, faut-il pour cela écarter, fût-ce même comme hypothèse, cette conception d'états limites idéaux et indéfiniment reculés dans le passé ou dans l'avenir, de quelque façon qu'on doive d'ailleurs se figurer ces états opposés ? Les deux autres réponses à l'éternelle question sur les destinées de l'univers, la stabilité indéfinie de l'ordre de choses [p. 112] actuel, la succession indéfinie de périodes d'organisation ou de désorganisation, ne sont autre chose, elles aussi, que des hypothèses indémontrées et peut-être indémontrables. Pourquoi à ces deux solutions de la sagesse antique refuser d'en adjoindre une troisième dont l'esprit moderne puisse se glorifier ? Un processus éternel du passé vers l'avenir, dans lequel chaque pas en avant serait définitivement acquis, un but devant nos yeux, vers lequel nous marchons, si loin qu'il soit, un point de départ derrière nous, dont nous nous éloignons pour toujours irrévocablement, ne sont-ce point là des conceptions dignes d'un esprit philosophique ? Ne méritent-elles point d'ètre soutenues et développées, de jouer à leur tour le rôle d'inspiratrices et de directrices de l'humanité ?
 
 Encore faudrait-il, ce nous semble, que ces conceptions eussent pour appui une base empirique suffisante. La stabilité de l'ordre de choses actuel nous est, en somme, démontrée, au moins comme relative, par les faits ; l'histoire authentique du monde, telle que nous pouvons la reconstituer, du moins jusqu'à présent, ne nous permet de constater aucune perturbation appréciable de cet ordre, et les changements qu'il subit sont, dans leur importance relativement faible, soumis à des périodes dont le retour assuré maintient l'équilibre général. La doctrine d'une évolution périodique doit, d'autre part, évidemment sa première origine à une conception anthropomorphique de la nature ; nous naissons et nous mourons ; le monde naît et meurt ; mais, comme la race humaine, il se perpétue en se renouvelant. Seulement, à cette conception grossière, la science est venue joindre l'ensemble des possibilités qu'elle a reconnues ; elle a cherché à concevoir les plus grands changements imaginables à l'ordre de choses actuel ; elle s'est représenté leur progrès, soumis nécessairement, comme
 
 tous ceux que nous observons, à la loi du rhythme, au retour de périodes fatales.
 
-Quant à l'hypothèse d'une évolution continue, d'une entropie, elle correspond, elle aussi, non pas à une véritable découverte scientifique, mais bien à une conception appartenant à un tout autre ordre d'idées, dont la formule semble, à vrai dire, due à l'âge moderne. C'est celle du progrès continu de l'humanité vers un idéal sur lequel on ne s'est d'ailleurs pas encore entendu. Oui, nous pouvons rêver ce progrès, nous pouvons rèver aussi qu'il est suivi par l'aveugle et inconsciente nature. Mais si, pour le premier de ces rèves, nous empruntons nos images à des réalités tangibles,
-
-[p. 113]
+Quant à l'hypothèse d'une évolution continue, d'une entropie, elle correspond, elle aussi, non pas à une véritable découverte scientifique, mais bien à une conception appartenant à un tout autre ordre d'idées, dont la formule semble, à vrai dire, due à l'âge moderne. C'est celle du progrès continu de l'humanité vers un idéal sur lequel on ne s'est d'ailleurs pas encore entendu. Oui, nous pouvons rêver ce progrès, nous pouvons rèver aussi qu'il est suivi par l'aveugle et inconsciente nature. Mais si, pour le premier de ces rèves, nous empruntons nos images à des réalités tangibles, [p. 113]
 
 ### Chapitre Iv. — Anaximandre De Milet (D).
 
@@ -1590,9 +1390,7 @@ Si la science ne s'arrête pas dans sa marche, si nous ne rencontrons pas le tuf
 
 DOXOGRAPHIE D'ANAXIMANDRE[^p113-1][^p113-2]
 
-[p. 114]
-
-du mouvement éternel. C'est pourquoi Aristote l'a rangé à côté d'Anaxagore.
+[p. 114] du mouvement éternel. C'est pourquoi Aristote l'a rangé à côté d'Anaxagore.
 
 2. PHILOSOPHUMENA, I, 6.
 
@@ -1624,9 +1422,7 @@ Anaximandre fils de Praxiade, de Milet, dit que le principe des êtres est l'ind
 
 Il donne la raison pourquoi ce dernier est illimité, c'est que la génération productrice ne doit pas manquer en rien ; mais il se trompe en ne disant pas ce qu'est cet indéfini, si c'est l'air, l'eau, la terre ou quelque autre corps. [Il se trompe aussi en affirmant la matière et en supprimant la cause efficiente ; car l'indéfini n'est rien autre chose que la matière, et la matière ne peut être en acte, si l'on ne suppose pas une cause efficiente.][^p115-1][^p115-2][^p115-3]
 
-[p. 116]
-
-ciels en nombre infini. — II, 1. Anaximandre, Anaximène,
+[p. 116] ciels en nombre infini. — II, 1. Anaximandre, Anaximène,
 
 Archélaos, Xénophane, Diogène, Leucippe, Démocrite, Épicure : Des mondes en nombre infini dans l'infini.
 
@@ -1674,9 +1470,7 @@ Anaximandre de Milet croit que de l'eau et de la terre échauffées sortirent so
 
 FRAGMENTS[^p117-1]
 
-[p. 118]
-
-cela ressemble à un principe ; en effet, ce qui naît doit nécessairement trouver son achèvement, et il y a un terme à toute destruction. Ainsi donc, comme nous le disons, il n'y a pas de principe à celui-là, mais il semble l'être pour les autres choses, et tout embrasser et tout gouverner, ainsi que parlent ceux qui, à côté de l'infini, n'admettent pas d'autres causes, comme l'intelligence ou l'amour ;
+[p. 118] cela ressemble à un principe ; en effet, ce qui naît doit nécessairement trouver son achèvement, et il y a un terme à toute destruction. Ainsi donc, comme nous le disons, il n'y a pas de principe à celui-là, mais il semble l'être pour les autres choses, et tout embrasser et tout gouverner, ainsi que parlent ceux qui, à côté de l'infini, n'admettent pas d'autres causes, comme l'intelligence ou l'amour ;
 
 il semble aussi que ce soit là le divin ; car il est immortel et impérissable, comme dit Anaximandre avec la plupart des physiologues.
 
@@ -1704,11 +1498,7 @@ il y aurait, d'ailleurs, à lui assigner sa place suivant l'ordre des temps, une
 
 On admet généralement que les doctrines pythagoriennes sont restées longtemps secrètes et n'ont été divulguées que lors de la publication des écrits de Philolaos, vers le commencement du Ive siècle av. J.-C. Si cette opinion était rigoureusement exacte, comme une doctrine secrète ne peut avoir aucune influence sur l'élaboration extérieure des concepts, comme elle subit au contraire le contre-coup de cette élaboration, il vaudrait mieux retarder l'examen du pythagorisme jusqu'à l'étude de l'époque où les dogmes en ont été révélés.
 
-Mais la légende du mystère gardé sur ces dogmes ne peut être acceptée sans réserves ; car il est facile d'établir que le mystère
-
-[p. 120]
-
-en question n'a jamais concerné que certains points particuliers, tandis que, pour le reste, les opinions de Pythagore ont été, dès le premier jour, publiées par lui-même et par ses disciples immédiats, sinon dans des écrits, au moins verbalement.
+Mais la légende du mystère gardé sur ces dogmes ne peut être acceptée sans réserves ; car il est facile d'établir que le mystère [p. 120] en question n'a jamais concerné que certains points particuliers, tandis que, pour le reste, les opinions de Pythagore ont été, dès le premier jour, publiées par lui-même et par ses disciples immédiats, sinon dans des écrits, au moins verbalement.
 
 S'il est admis qu'Héraclite vivait au temps de Darius, même si l'on recule, avec Éd. Zeller, la composition de son « logos »> après 478, il y a, dans la façon dont il parle de Pythagore et de Xénophane (Diog. L., VIII, 6, et IX, 1), une preuve suffisante de la divulgation d'opinions du premier, comme aussi de la rapidité relative avec laquelle les doctrines philosophiques se transmettaient, à cette époque, dans tous les pays de race hellène. D'autre part, il est à peu près certain que c'était du vivant même de Pythagore que Xénophane dirigeait ses railleries contre les croyances du Samien à la métempsycose.
 
@@ -1734,9 +1524,7 @@ En dehors de cet enseignement spécial, le secret dut encore être gardé, et ce
 
 Pour la physique, la question est toute différente ; tout d'abord le système développé par Philolaos doit être complètement écarté, comme formé d'éléments en général postérieurs à Pythagore. Mais je pense même que le Samien a d'autant moins imposé le secret sur ces matières, qu'il n'a pas eu à lui de système complet et qu'il enseignait, en grande partie, la physique ionienne, sauf certaines opinions qui lui étaient propres, et dont une partie seulement, à cause de leurs relations avec les mathématiques, se trouvèrent réservées à un cercle restreint. Jusqu'à quel point ce cercle se ferma complètement plus tard, même sous ce rapport, c'est une question dont l'examen peut être réservé pour le moment. En tout cas, la conjecture que je viens d'émettre me paraît la seule conciliable avec l'ensemble des faits connus ; il n'en résulte pas moins qu'en l'absence de documents authentiques directs sur les progrès réalisés de ce côté par Pythagore, nous ne pouvons deviner ses opinions particulières sur le monde que par les traces qu'elles ont pu laisser dans les écrits de ses contemporains ou des penseurs de la génération suivante.[^p121-1]
 
-[p. 122]
-
-qu'il pénètre dans le ciel en tant que celui-ci respire le souffle (πνεῦμα) infini, et que c'est ce vide qui délimite les choses. »
+[p. 122] qu'il pénètre dans le ciel en tant que celui-ci respire le souffle (πνεῦμα) infini, et que c'est ce vide qui délimite les choses. »
 
 Les règles de la critique historique la plus sévère ne peuvent, en pareil cas, exiger que le départ de ce qui, dans le texte, témoignerait d'une élaboration postérieure à Pythagore, ou bien serait reconnu comme rentrant dans les mystères que Xénophane ne devait pas connaître. Ainsi nous pourrions suspecter toute trace de ce symbolisme mystique auquel j'ai fait allusion et dont les disciples du Samien ont abusé à l'exemple de leur maître ; nous aurions à écarter tout ce qui se rattacherait au système astronomique de Philolaos, ou même à la théorie qui fait des nombres l'essence des choses ; car cette théorie est nécessairement postérieure à la formation du concept de l'essence, lequel ne commence à apparaître que chez Xénophane.
 
@@ -1758,11 +1546,7 @@ Mais ce n'est là qu'une des faces du concept de l'ἄπειρον, tel qu'il ap
 
 Nous retombons en fait sur la face du concept qu'Anaximandre avait seule envisagée ; toutefois, elle semble maintenant précisée par le rapprochement des notions géométriques. Si nous observons, d'autre part, que, dans l'École, le caractère de la divisibilité indéfinie du continu a été notamment mis en relief par l'assimilation de l'« infini » au nombre pair, nous reconnaîtrons que c'est de ce côté que s'est formé ultérieurement le concept de l'infiniment petit. Mais cette indication suffit pour le moment, et nous nous bornerons à conclure :
 
-1º C'est à Pythagore que remonte l'origine du concept scientifique de l'espace, en tant que continu d'une part, illimité de l'autre ;
-
-[p. 124]
-
-2º La double face de ce concept était désignée par lui au moyen d'un terme unique, qu'Anaximandre avait déjà employé dans un sens plus restreint ;
+1º C'est à Pythagore que remonte l'origine du concept scientifique de l'espace, en tant que continu d'une part, illimité de l'autre ; [p. 124] 2º La double face de ce concept était désignée par lui au moyen d'un terme unique, qu'Anaximandre avait déjà employé dans un sens plus restreint ;
 
 3º Pythagore n'a point dégagé le concept de l'espace absolu, et son infini
 
@@ -1792,11 +1576,7 @@ On pouvait encore nier la réalité de la révolution apparente ; cette thèse f
 
 Enfin, on pouvait nier l'infinitude ; c'est ce que firent Parménide et Empédocle. Pour le second, la négation, sous le voile des formules poétiques, est assez obscure pour qu'Aristote s'y soit mépris ; le sage d'Agrigente se laisse même aller à employer le terme ἀπείρονα dans un sens aussi vague que celui d'Homère. En fait, il considère la question comme tranchée par Parménide et ne s'y intéresse plus. L'Éléate, au contraire, développe sa thèse avec précision et en tire des conséquences inéluctables.
 
-L'apparence justifie la conception générale d'Anaximandre ; cependant un mouvement de révolution à l'infini étant impossible, le monde est nécessairement fini. Peut-il y avoir un au-delà ? Parménide s'en tenant à l'unité de l'ètre avec Anaximandre, n'eût pu concevoir cet au-delà que comme vide absolu, espace sans matière. Mais cette notion, il la rejette comme impossible : c'est le non-être, qui ne peut être en aucune façon. Donc le monde est fini, et il n'y a absolument rien en dehors. Maintenant, comme un mouvement de révolution d'une sphère n'est concevable que s'il y a quelque chose au dehors à quoi ce mouvement puisse être rapporté, il s'ensuit que la révolution apparente, c'est-à-dire le point de départ même du raisonnement, est logiquement impossible et ne peut être qu'une illusion. Ainsi il y a un désaccord manifeste entre les conclusions de la raison et les données que
-
-[p. 126]
-
-fournissent les sens ; il y a un abîme que l'on ne peut espérer combler, car ce sont là deux domaines essentiellement distincts, que Parménide assigne à la vérité et à l'opinion.
+L'apparence justifie la conception générale d'Anaximandre ; cependant un mouvement de révolution à l'infini étant impossible, le monde est nécessairement fini. Peut-il y avoir un au-delà ? Parménide s'en tenant à l'unité de l'ètre avec Anaximandre, n'eût pu concevoir cet au-delà que comme vide absolu, espace sans matière. Mais cette notion, il la rejette comme impossible : c'est le non-être, qui ne peut être en aucune façon. Donc le monde est fini, et il n'y a absolument rien en dehors. Maintenant, comme un mouvement de révolution d'une sphère n'est concevable que s'il y a quelque chose au dehors à quoi ce mouvement puisse être rapporté, il s'ensuit que la révolution apparente, c'est-à-dire le point de départ même du raisonnement, est logiquement impossible et ne peut être qu'une illusion. Ainsi il y a un désaccord manifeste entre les conclusions de la raison et les données que [p. 126] fournissent les sens ; il y a un abîme que l'on ne peut espérer combler, car ce sont là deux domaines essentiellement distincts, que Parménide assigne à la vérité et à l'opinion.
 
 5. Telle est l'essence du système de l'Éléate ; il me semble, du moins, absolument illusoire de prétendre y découvrir autre chose que ces notions et concepts relativement simples et suffisamment élaborés avant lui. Sa puissance déductive n'en est pas moins remarquable pour être limitée dans un champ plus restreint, et l'influence considérable qu'il exerça sur le développement ultérieur de la pensée hellène n'en est pas moins justifiée.
 
@@ -1820,9 +1600,7 @@ Comme nous l'avons déjà indiqué, le Colophonien avait admis l'infinitude de l
 
 XÉNOPHANE POÈTE.[^p127-1]
 
-[p. 128]
-
-et elle demeurait un foyer de poésie, où, à cette date, brillait notamment l'élégiaque Mimnerme.
+[p. 128] et elle demeurait un foyer de poésie, où, à cette date, brillait notamment l'élégiaque Mimnerme.
 
 Poète aussi, poète avant tout, devait être Xénophane. Sans fortune, ses vers lui furent un gagne-pain, et, dès vingt-cinq ans, il adoptait la vie errante du rhapsode et du trouvère. Presque centenaire, il la menait encore, et il atteignit ainsi le temps du règne de Darius.
 
@@ -1850,9 +1628,7 @@ Ici et là, combien de sujets pour la mordante ironie du Colophonien ! Elle n'y 
 
 9
 
-[p. 130]
-
-Plus de divination (18), mais aussi pas de métempsycose ! Au fond, les attaques touchent la religion populaire, car si l'on y sent une jalousie de poète qui veut sortir du cycle épuisé et prétend ouvrir à la Muse de nouveaux horizons, si l'on y reconnaît aussi la protestation d'un vivace sentiment moral en face de contes indécents et grossiers, on n'y peut dénier la répulsion qu'excitent chez le penseur les attributs anthropomorphiques des divinités idolâtrées. « Les dieux thraces ont les cheveux rouges et les yeux bleus, les dieux éthiopiens sont noirs et camus. » (Clém. d'Alex., Strom., VII, p. 711 b. Voir aussi fr. 6.)
+[p. 130] Plus de divination (18), mais aussi pas de métempsycose ! Au fond, les attaques touchent la religion populaire, car si l'on y sent une jalousie de poète qui veut sortir du cycle épuisé et prétend ouvrir à la Muse de nouveaux horizons, si l'on y reconnaît aussi la protestation d'un vivace sentiment moral en face de contes indécents et grossiers, on n'y peut dénier la répulsion qu'excitent chez le penseur les attributs anthropomorphiques des divinités idolâtrées. « Les dieux thraces ont les cheveux rouges et les yeux bleus, les dieux éthiopiens sont noirs et camus. » (Clém. d'Alex., Strom., VII, p. 711 b. Voir aussi fr. 6.)
 
 Sur cette voie, Xénophane ne s'arrêtera pas à l'extérieur des légendes, il s'attaquera aux racines mêmes des croyances. « Dire que les dieux ont été engendrés, c'est dire qu'ils peuvent mourir, c'est dire qu'ils ne sont pas, c'est la plus grande impiété. » (Aristote, Rhét., II, 23.)
 
@@ -1878,9 +1654,7 @@ La solution est d'autant plus difficile que les témoignages de l'antiquité se 
 
 Avant d'entreprendre toute discussion à ce sujet, il convient d'étudier ce que vaut, en réalité, comme physicien, le poète de Colophon. Quand nous l'aurons apprécié, nous pourrons mieux juger de l'importance à attribuer à la divergence des témoignages relatifs à la question controversée.
 
-[p. 132]
-
-Et d'abord Xénophane a-t-il bien un système de physique ? A la vérité, les traits épars dans ses fragments et chez les doxographes se laissent coordonner assez bien, en ce sens du moins qu'ils ne présentent pas entre eux de contradictions formelles. Mais il n'est guère possible d'y reconnaître un lien véritablement organique. On dirait au contraire que l'humour du poète se donne libre carrière dans d'amusantes parodies des explications tentées avant lui ou dans de paradoxales gageures soutenues contre le témoignage des sens.
+[p. 132] Et d'abord Xénophane a-t-il bien un système de physique ? A la vérité, les traits épars dans ses fragments et chez les doxographes se laissent coordonner assez bien, en ce sens du moins qu'ils ne présentent pas entre eux de contradictions formelles. Mais il n'est guère possible d'y reconnaître un lien véritablement organique. On dirait au contraire que l'humour du poète se donne libre carrière dans d'amusantes parodies des explications tentées avant lui ou dans de paradoxales gageures soutenues contre le témoignage des sens.
 
 Est-ce, par exemple, de la prédiction de Thalès qu'il voulait se moquer, quand il parlait (13) d'une éclipse de soleil pouvant durer un mois ? Comment prendre davantage au sérieux la plupart des assertions qui vont suivre ?
 
@@ -1912,9 +1686,7 @@ Si d'ailleurs cet univers est éternel, les changements particuliers ne sont pas
 
 Dans cette partie de l'univers que nous habitons, l'humanité est donc née, comme elle est condamnée à disparaître ; des cycles semblables la feront revivre dans la suite.[^p133-1]
 
-[p. 134]
-
-où l'on supposait que notre atmosphère s'étendait jusqu'aux astres ; elle se retrouve en fait dans le système d'Anaximandre, et a dû être déjà professée par Thalès ; il n'y a donc pas à en attribuer l'origine à Xénophane.
+[p. 134] où l'on supposait que notre atmosphère s'étendait jusqu'aux astres ; elle se retrouve en fait dans le système d'Anaximandre, et a dû être déjà professée par Thalès ; il n'y a donc pas à en attribuer l'origine à Xénophane.
 
 Si je porte ce jugement sur le poète de Colophon en tant que physicien, je ne cherche nullement à le rabaisser comme penseur. Mais il est bien clair qu'autant sa polémique contre le polythéisme, ainsi que sa proclamation d'un Dieu universel, ont exercé d'influence sur le développement théologique de la philosophie, autant au contraire ses opinions physiques ont trouvé peu d'accueil et sont restées sans influence sur la marche de la science. Leur incohérence, d'autant plus grande qu'elles n'étaient probablement pas réunies en corps de doctrine, d'autre part, l'évidente absurdité de quelques-unes d'entre elles, les ont fait assez vite négliger pour que, dès le temps d'Aristote et de Théophraste, on ne cherchât plus à s'en rendre un compte exact. Après eux, on n'a guère eu recours à l'œuvre du poète, qui, au temps de Galien, était complètement perdue (2). Ainsi seulement peut s'expliquer la divergence relative à son opinion sur la limitation ou l'infinitude de l'univers, car il est clair, d'après sa façon de le concevoir, qu'il ne pouvait nullement le déclarer sphérique et limité.
 
@@ -1944,9 +1716,7 @@ Quant à Théophraste, son opinion nous a été conservée par Simplicius [^p135
 
 d'après son texte, que Théophraste aurait attribué à
 
-[p. 136]
-
-Xénophane les mêmes antinomies que le traité De Melisso. Simplicius développe ces antinomies (ainsi que les démonstrations de l'unité et de l'éternité) dans des termes en concordance parfaite avec ceux de ce traité ; il cite les deux vers du fragment 4, et soutient qu'ils ne sont pas en contradiction avec la négation du repos ; il mentionne Nicolas de Damas comme ayant dit que l'univers de Xénophane était infini et immobile, Alexandre d'Aphrodisias comme ayant dit au contraire que cet univers était limité et sphérique ; enfin il termine par un complément où l'on retrouve en fait deux thèses que le traité De Melisso attribue à Xénophane, mais dont Simplicius n'avait pas encore parlé.
+[p. 136] Xénophane les mêmes antinomies que le traité De Melisso. Simplicius développe ces antinomies (ainsi que les démonstrations de l'unité et de l'éternité) dans des termes en concordance parfaite avec ceux de ce traité ; il cite les deux vers du fragment 4, et soutient qu'ils ne sont pas en contradiction avec la négation du repos ; il mentionne Nicolas de Damas comme ayant dit que l'univers de Xénophane était infini et immobile, Alexandre d'Aphrodisias comme ayant dit au contraire que cet univers était limité et sphérique ; enfin il termine par un complément où l'on retrouve en fait deux thèses que le traité De Melisso attribue à Xénophane, mais dont Simplicius n'avait pas encore parlé.
 
 Il n'est pas étonnant qu'en présence de tous ces documents obscurs et contradictoires, la critique ait hésité.
 
@@ -1972,9 +1742,7 @@ Comment cependant a-t-il pu soutenir sa thèse et entraîner, dès lors, par une
 
 En premier lieu, Théophraste croit, comme Aristote, que le monde est sphérique et limité. Il est donc porté, dès que cette opinion n'est point spéciale à son école, à augmenter le nombre de ses partisans. D'autre part, il est imbu de l'idée que Xénophane a eu pour disciple Parménide, lequel a soutenu la sphéricité de l'univers et séparé le domaine de la vérité de celui de l'opinion.
 
-[p. 138]
-
-C'est à ce second point que Théophraste doit surtout s'attacher, comme caractéristique de l'école éléatique ; il en fait l'application aux doctrines du fondateur présumé de cette école, oubliant volontairement que ce dernier a au contraire présenté le domaine de l'opinion comme s'étendant à toutes choses (fr. 14). Il néglige donc, dans la question des attributs de l'univers, tout ce qui se rapporte aux opinions physiques de Xénophane, comme il le ferait à bon droit s'il s'agissait de Parménide. Dès lors, il lui est facile de tourner en faveur de sa thèse le sens ambigu de quelques expressions poétiques du Colophonien, comme celles que nous avons indiquées ; ces expressions, cependant, ne peuvent avoir un sens autre que celui du fragment 2 ; c'est une négation de l'anthropomorphisme grossier qui attribuait aux dieux des organes spéciaux pour les sens et la pensée.
+[p. 138] C'est à ce second point que Théophraste doit surtout s'attacher, comme caractéristique de l'école éléatique ; il en fait l'application aux doctrines du fondateur présumé de cette école, oubliant volontairement que ce dernier a au contraire présenté le domaine de l'opinion comme s'étendant à toutes choses (fr. 14). Il néglige donc, dans la question des attributs de l'univers, tout ce qui se rapporte aux opinions physiques de Xénophane, comme il le ferait à bon droit s'il s'agissait de Parménide. Dès lors, il lui est facile de tourner en faveur de sa thèse le sens ambigu de quelques expressions poétiques du Colophonien, comme celles que nous avons indiquées ; ces expressions, cependant, ne peuvent avoir un sens autre que celui du fragment 2 ; c'est une négation de l'anthropomorphisme grossier qui attribuait aux dieux des organes spéciaux pour les sens et la pensée.
 
 L'erreur de Théophraste est évidemment considérable, et sa constatation prouve assez que la critique moderne ne doit nullement désarmer en présence des témoignages les plus anciens pour l'histoire de la philosophie. Toutefois, une fois reconnue, cette erreur doit permettre de conclure que Xénophane n'avait nullement posé abstraitement l'infinitude comme un attribut nécessaire de l'Un ; c'était pour lui une croyance instinctive et confuse, liée à sa conception concrète du monde.
 
@@ -1992,11 +1760,7 @@ DE XÉNOPHANE
 
 1. THEOPHR., fr. 5 (Simpl. in physic., 5 b). — Théophraste dit que Xénophane de Colophon, le maître de Parménide, suppose un seul principe ou considère l'être total comme un, ni limité, ni infini, ni en mouvement, ni en repos. Théophraste convient au reste que la mention de cette opinion appartient plutôt à une autre histoire qu'à celle qui concerne la nature ; car, au dire de Xénophane, cet un universel, c'est le dieu. Il montre qu'il est unique, parce qu'il est plus puissant que tout ; car s'il y a plusieurs êtres, dit-il, il faut que la puissance soit également partagée entre eux ; or dieu, c'est ce qu'il y a de plus excellent et de supérieur à tout en puissance. Il est inengendré, parce que ce qui naît doit naître soit du semblable soit du dissemblable ; mais le semblable, dit-il, ne peut avoir ce rôle par rapport au semblable ; car il n'y a pas plus de raison pour que l'un, plutôt que l'autre, engendre ou soit engendré ; si d'autre part l'être naissait du dissemblable, il naîtrait de ce qui n'est pas ; c'est ainsi qu'il prouve la non-génération et l'éternité. L'un n'est ni infini ni limité, parce que, d'une part, l'infini c'est le non-être, puisqu'il n'a ni commencement, ni milieu, ni fin ; que, de l'autre, ce sont les objets en pluralité qui se limitent réciproquement. Il supprime de même le mouvement et le repos ; car l'immobile c'est le non-être, qui ne devient rien d'autre, et que rien d'autre ne devient ; le mouvement, au contraire, appartient à la pluralité, car alors il y a changement de l'un en l'autre. Aussi, quand il dit que l'être reste dans le même état et ne se meut pas (voir fr. 4), il faut entendre cela, non pas du repos opposé au mouvement, mais de l'état stable sans mouvement ni repos. Nicolas de Damas, dans son traité SUR LES DIEUX, le mentionne comme ayant dit que le principe est infini et immobile. D'après Alexandre, il l'aurait dit limité et de forme sphérique. Mais on a vu clairement comment il prouve la non-infinitude et la non-limitation ; la limitation et la forme sphérique sont indiquées lorsqu'il dit que l'être est semblable de tous côtés ; il dit encore qu'il pense toutes choses (voir fr. 3).
 
-2. THÉOPHR., fr. 5 a (Galien sur Hippocr.). — Divers exégètes ont faussement parlé de Xénophane ; ainsi Sabinus qui dit à peu
-
-[p. 140]
-
-près textuellement : « Je dis que l'homme n'est pas entièrement air, comme le veut Anaximène, ou eau, suivant Thalès, ou terre, comme le dit Xénophane chez un certain auteur. » On ne trouve nulle part une telle assertion de Xénophane ; mais il est bien clair, par le texte même de Sabinus, que, s'il a péché, c'est volontairement et non pas par ignorance, car autrement, au lieu de parler comme il l'a fait, il aurait dit an juste dans quel livre se trouve cette assertion. D'ailleurs Théophraste aurait rapporté cette opinion de Xénophane dans l'abrégé des Opinions des physiciens. Il vous est facile de lire les livres où Théophraste a fait cet abrégé, si cette histoire vous intéresse.
+2. THÉOPHR., fr. 5 a (Galien sur Hippocr.). — Divers exégètes ont faussement parlé de Xénophane ; ainsi Sabinus qui dit à peu [p. 140] près textuellement : « Je dis que l'homme n'est pas entièrement air, comme le veut Anaximène, ou eau, suivant Thalès, ou terre, comme le dit Xénophane chez un certain auteur. » On ne trouve nulle part une telle assertion de Xénophane ; mais il est bien clair, par le texte même de Sabinus, que, s'il a péché, c'est volontairement et non pas par ignorance, car autrement, au lieu de parler comme il l'a fait, il aurait dit an juste dans quel livre se trouve cette assertion. D'ailleurs Théophraste aurait rapporté cette opinion de Xénophane dans l'abrégé des Opinions des physiciens. Il vous est facile de lire les livres où Théophraste a fait cet abrégé, si cette histoire vous intéresse.
 
 3. THÉOPHR., fr. 16 (Aétius, II, 20). — Théophraste, dans les Physiciens, a dit que, suivant Xénophane, le soleil est formé par la réunion d'étincelles provenant des exhalaisons humides.
 
@@ -2020,9 +1784,7 @@ n'admit ni genèse ni destruction. L'univers, dit-il, est toujours semblable ; c
 
 8. CICÉRON. — (Lucullus, 37.) Xénophane, un peu plus ancien (qu'Anaxagore), dit que tout est un, immuable, que c'est le dieų, qu'il est inengendré, éternel et de forme sphérique. — (De deor. nat., I, 11.) Puis Xénophane, qui veut que Dieu soit l'univers, qu'il prétend infini et auquel il ajoute l'intelligence, est passible des mêmes reproches que les autres sur ce dernier point, mais bien plus à cause de l'infinitude, où il ne peut y avoir rien de sentant, non plus que d'ajouté. — (De divinat., I, 3.) Xénophane de Colophon est le seul qui, tout en affirmant l'existence des dieux, nie absolument la divination.[^p141-1]
 
-[p. 142]
-
-(Cf. terre ; car c'est de lui qu'est ce vers : (voir fr. 8). AÉTIUS, I, 3. Xénophane : Le principe de tout est la terre, car il dit dans son écrit sur la Nature, etc.)
+[p. 142] (Cf. terre ; car c'est de lui qu'est ce vers : (voir fr. 8). AÉTIUS, I, 3. Xénophane : Le principe de tout est la terre, car il dit dans son écrit sur la Nature, etc.)
 
 10. SEXT. EMP., X. — (31[^p142-6] Xénophane, d'après quelques-uns, admet comme principe la terre (voir fr. 8). — (3[^p142-1] De plusieurs principes dénombrables ; de deux, à savoir la terre et l'eau ; Xénophane, d'après quelques-uns (voir fr. 9) ; Homère :
 
@@ -2068,9 +1830,7 @@ Empedocle, Xénophane, Parménide, Zénon, Mélissos, Anaxagore, Démocrite, Mé
 
 FRAGMENTS[^p143-2][^p143-4][^p143-5][^p143-6][^p143-7][^p143-8][^p143-9][^p143-10][^p143-11]
 
-[p. 144]
-
-12. Nous voyons sous nos pieds cette limite de la terre, en haut, du côté de l'éther, mais le bas s'en va à l'infini.
+[p. 144] 12. Nous voyons sous nos pieds cette limite de la terre, en haut, du côté de l'éther, mais le bas s'en va à l'infini.
 
 13. Ce qu'on appelle Iris est aussi un nuage qui paraît naturellement violet, rouge et vert.
 
@@ -2150,9 +1910,7 @@ d'Aristote, les
 
 deux physiologues milésiens soient particulièrement visés, et qu'ainsi la prépondérance attribuée par eux au phénomène de la révolution diurne soit bien constatée, cela ne peut être sérieusement mis en doute. Zeller soutient bien que le mot tous ne peut être tellement pris à la lettre qu'on l'applique individuellement à tous les philosophes qui ont admis une naissance du monde. Encore devrait-il spécifier de qui, à son avis, veut parler Aristote. Il est clair que celui-ci désigne seulement les physiciens qui ont cherché à expliquer mécaniquement l'origine du ciel et que par là les pythagoriens, Héraclite et Platon se trouvent naturellement exclus. Il est donc inutile de les citer pour essayer d'exclure aussi Anaximène.[^p147-1]
 
-[p. 148]
-
-Avons-nous cependant quelque motif spécial de la lui attribuer ? L'abandon de l'explication proposée par Anaximandre pour l'immobilité de la terre au centre du monde pourrait être invoqué. Mais celle qu'admet Anaximène dérive immédiatement de la façon dont il se représente les astres errants, plats, et entraînés comme des feuilles par le tourbillon général (10). S'il les fait ainsi flotter dans l'air, avec des disques obscurs de nature terreuse, il est tout naturel qu'il fasse aussi supporter la terre de la même façon, en la supposant, pour cela, plate comme une table (rectangulaire ?).
+[p. 148] Avons-nous cependant quelque motif spécial de la lui attribuer ? L'abandon de l'explication proposée par Anaximandre pour l'immobilité de la terre au centre du monde pourrait être invoqué. Mais celle qu'admet Anaximène dérive immédiatement de la façon dont il se représente les astres errants, plats, et entraînés comme des feuilles par le tourbillon général (10). S'il les fait ainsi flotter dans l'air, avec des disques obscurs de nature terreuse, il est tout naturel qu'il fasse aussi supporter la terre de la même façon, en la supposant, pour cela, plate comme une table (rectangulaire ?).
 
 Je ne crois pas davantage, avec Zeller (I, p. 246), qu'Anaximène exprime son opinion sur l'infinitude de la matière, dans un passage de doxographe où le texte du physiologue paraît avoir été conservé assez fidèlement (7). La comparaison du monde et de l'air, d'un côté, avec notre corps et notre âme, de l'autre, prouverait plutôt que, si Anaximène limitait l'univers à une voûte solide, il ne sentait point la nécessité d'étendre au delà et sans limites l'air qui le pénètre tout entier et en enveloppe toutes les parties. Le texte n'a pas un autre sens. Le seul argument qui ait quelque gravité est celui que j'ai posé, au début de ce chapitre, sous forme de question. Anaximène ayant spécifié comme air la matière indéterminée de son précurseur, et le terme ἄπειρον étant devenu chez lui l'attribut d'une substance particulière, on est naturellement tenté de conclure à un changement dans l'acception de ce terme.
 
@@ -2174,9 +1932,7 @@ Ainsi il n'y aurait en réalité aucun progrès dans le concept de l'infini d'An
 
 LE SYSTÈME COSMOLOGIQUE.[^p149-1]
 
-[p. 150]
-
-témoigne d'un sérieux progrès scientifique. D'un côté, aux explications trop hardies d'autres sont substituées, plus simples et plus admissibles ; de l'autre, le cercle des connaissances positives est agrandi. Toutefois, rien n'indique de la part d'Anaximène des études prolongées ni l'examen approfondi de questions étrangères au cercle parcouru par Anaximandre ; rien n'empêche de croire que l'œuvre nouvelle ait été due à un homme relativement jeune.
+[p. 150] témoigne d'un sérieux progrès scientifique. D'un côté, aux explications trop hardies d'autres sont substituées, plus simples et plus admissibles ; de l'autre, le cercle des connaissances positives est agrandi. Toutefois, rien n'indique de la part d'Anaximène des études prolongées ni l'examen approfondi de questions étrangères au cercle parcouru par Anaximandre ; rien n'empêche de croire que l'œuvre nouvelle ait été due à un homme relativement jeune.
 
 Cette œuvre se distinguait au reste (Diog. L., II, 3) par un caractère qu'il convient de relever, la clarté et la simplicité du style, qualités nouvelles à une époque où le mode d'écrire en prose était relativement récent, et où les expressions d'Anaximandre, de Pythagore ou même d'Héraclite sont encore si poétiques et si obscures. Ce peut être là un motif pour ne pas trop reculer les dates de la vie d'Anaximène ; on le comprend mieux, en tant que prosateur, comme contemporain d'Hécatée plutôt que de Cadmus de Milet.
 
@@ -2198,11 +1954,7 @@ Cet indice, absolument isolé, est sans valeur. D'une part, les progrès pratiqu
 
 Que cet ordre ait été celui des Chaldéens, il n'y a pas de doute ; mais qu'il ait été professé par Pythagore lui-même, on peut le mettre sérieusement en question. Quelles qu'aient été ses connaissances astronomiques, le mystique Samien qui appelait les planètes les « chiennes de Perséphone » (Aristote dans Porphyre, Vit. Pyth., 41), a bien pu ne pas se prononcer sur leur situation et, comme l'on peut parfaitement constater l'adoption après lui par son école de données scientifiques bien postérieures (par exemple, le cycle d'Enopide dans Philolaos et la théorie des éclipses), il est parfaitement permis de mettre en doute que celle dont il s'agit remonte au Maître lui-même ou du moins lui appartienne en propre.
 
-Pour les communications que l'École a pu avoir, soit après lui, soit de son vivant même, avec la Chaldée, que l'on songe, par exemple, à ce médecin Démocède, qui s'échappa de la cour de Darius, épousa la fille de Milon de Crotone et joua un rôle actif dans les guerres civiles où sombra l'institut pythagorique (Héro
-
-[p. 152]
-
-dote, III, 129-137, Jamblique, De Pyth. vit., p. 506, 512). On se convaincra aisément que les connaissances astronomiques de Pythagore ont pu être complétées ultérieurement par des emprunts faits non seulement aux Grecs, mais encore aux Barbares.
+Pour les communications que l'École a pu avoir, soit après lui, soit de son vivant même, avec la Chaldée, que l'on songe, par exemple, à ce médecin Démocède, qui s'échappa de la cour de Darius, épousa la fille de Milon de Crotone et joua un rôle actif dans les guerres civiles où sombra l'institut pythagorique (Héro [p. 152] dote, III, 129-137, Jamblique, De Pyth. vit., p. 506, 512). On se convaincra aisément que les connaissances astronomiques de Pythagore ont pu être complétées ultérieurement par des emprunts faits non seulement aux Grecs, mais encore aux Barbares.
 
 4. S'il n'y a pour les rapports de doctrine entre Anaximène et Pythagore qu'un indice unique et tout à fait insuffisant, la comparaison avec les idées de Xénophane aboutit au même résultat négatif ; le seul rapprochement que l'on puisse faire est que le Colophonien et le Milésien ont également tenté des explications analogues de l'arc-en-ciel par l'action de la lumière solaire sur les nuées ; le fait est évidemment tout accidentel, quand même on admettrait que le phénomène en question avait été négligé par Anaximandre [^p152-1].
 
@@ -2232,11 +1984,7 @@ scientifique
 
 qu'elle marque consiste surtout en ce que les phénomènes sont reconnus comme périodiques et susceptibles de prédiction. Anaximandre avait à cet égard négligé la tradition de Thalès qui, pour la première fois, trouve ici sa conséquence légitime.
 
-Mais l'hypothèse d'Anaximène devait aussi naturellement conduire à la véritable explication. Car, si l'on se demandait comment ces corps obscurs n'étaient point vus, la question de leur éclairement par le soleil se posait, et il était facile de reconnaître que dans les conditions les plus générales, les phénomènes qu'un tel corps obscur devait présenter, étaient tout à fait semblables aux phases de la lune. D'où, pour reconnaître que cet astre est obscur
-
-[p. 154]
-
-par lui-même, il n'y avait qu'un pas à faire. Son rôle dans les éclipses de soleil s'en déduisait facilement, tandis que la question d'éclairement par le soleil pendant la nuit faisait naturellement mettre en jeu l'ombre de la terre et conduisait par là à la découverte de la cause des éclipses de lune.
+Mais l'hypothèse d'Anaximène devait aussi naturellement conduire à la véritable explication. Car, si l'on se demandait comment ces corps obscurs n'étaient point vus, la question de leur éclairement par le soleil se posait, et il était facile de reconnaître que dans les conditions les plus générales, les phénomènes qu'un tel corps obscur devait présenter, étaient tout à fait semblables aux phases de la lune. D'où, pour reconnaître que cet astre est obscur [p. 154] par lui-même, il n'y avait qu'un pas à faire. Son rôle dans les éclipses de soleil s'en déduisait facilement, tandis que la question d'éclairement par le soleil pendant la nuit faisait naturellement mettre en jeu l'ombre de la terre et conduisait par là à la découverte de la cause des éclipses de lune.
 
 L'hypothèse d'Anaximène présentait donc un véritable caractère scientifique ; elle constitue pour lui un titre de gloire d'autant plus précieux qu'elle paraît absolument originale, tandis que les autres opinions du physicien n'ont, en général, pas le même cachet.
 
@@ -2262,11 +2010,7 @@ il semble qu'une seule solution était possible et qu'elle se trouvait précisé
 
 arrêté dans son mouvement centrifuge par suite de la limitation de l'univers, se condensera nécessairement vers la partie extrême du tourbillon et formera ainsi une voûte solide.
 
-Cette solidification, due dès lors non pas au froid, mais bien à la pression, ne donnera pas de la glace (κρύσταλλον), mais un corps analogue (κρυσταλλοειδές), dont on peut comprendre l'existence à côté des feux stellaires. Cependant il faut expliquer comment ceuxci s'alimentent. Anaximène admettait, au moins pour le soleil, la lune et les planètes, que l'origine en était dans les vapeurs humides s'élevant de la terre et se dilatant de plus en plus. Il conçoit donc, comme l'avait fait Anaximandre avant lui, et probablement aussi Thalès, un échange continuel de matières du ciel à la terre (pluie, grêle, neige) et de la terre au ciel (vapeurs aériformes susceptibles d'arriver à l'incandescence). Le mouvement ascensionnel doit se continuer jusqu'à la limite du monde. Mais, quand la solidification s'y opère, tout l'air ne reste pas emprisonné dans le « crystal » ; une partie se dégage en se dilatant et c'est ainsi que peuvent
-
-[p. 156]
-
-s'alimenter et se perpétuer les feux des étoiles, partie aux dépens de la voûte solide, sans cesse renouvelée, partie avec le nouvel élément qui leur est incessamment apporté de la terre.
+Cette solidification, due dès lors non pas au froid, mais bien à la pression, ne donnera pas de la glace (κρύσταλλον), mais un corps analogue (κρυσταλλοειδές), dont on peut comprendre l'existence à côté des feux stellaires. Cependant il faut expliquer comment ceuxci s'alimentent. Anaximène admettait, au moins pour le soleil, la lune et les planètes, que l'origine en était dans les vapeurs humides s'élevant de la terre et se dilatant de plus en plus. Il conçoit donc, comme l'avait fait Anaximandre avant lui, et probablement aussi Thalès, un échange continuel de matières du ciel à la terre (pluie, grêle, neige) et de la terre au ciel (vapeurs aériformes susceptibles d'arriver à l'incandescence). Le mouvement ascensionnel doit se continuer jusqu'à la limite du monde. Mais, quand la solidification s'y opère, tout l'air ne reste pas emprisonné dans le « crystal » ; une partie se dégage en se dilatant et c'est ainsi que peuvent [p. 156] s'alimenter et se perpétuer les feux des étoiles, partie aux dépens de la voûte solide, sans cesse renouvelée, partie avec le nouvel élément qui leur est incessamment apporté de la terre.
 
 Si conjecturale que puisse être cette restitution de la théorie d'Anaximène, elle se prête en tout cas parfaitement aux données qui nous sont fournies sur celle d'Empédocle, si du moins l'on corrige l'absurde leçon des Placita, qui fait congeler l'air par le feu [^p156-2].
 
@@ -2288,11 +2032,7 @@ L'ordre de succession est bien indiqué, en admettant toutefois qu'Héraclite ai
 
 Nous pouvons reconnaître une trace de son opinion dans un texte corrompu (3), d'après lequel Anaximène attribuait la chaleur du soleil à la rapidité de son mouvement [^p157-1]. Les autres étoiles, étant plus éloignées, devaient donc, pour lui, être en réalité plus chaudes encore, quoique l'effet ne s'en fit pas sentir. Mais, au contraire, pour un astre moins éloigné, le feu pouvait être beaucoup moins actif et ne pas être sensible, malgré le rapprochement. Ainsi, comme Héraclite, Anaximène aurait admis que la distance du soleil correspond à un maximum pour l'effet thermique de l'astre sur la surface de la terre.
 
-Remarquons maintenant que le Milésien attribuait à la résistance du milieu où flottaient les astres errants la différence entre leurs mouvements et celui des étoiles fixes. Cette hypothèse, ingénieu-
-
-[p. 158]
-
-sement appliquée à l'explication des mouvements en déclinaison, ne se prêtait malheureusement pas, dans l'état des connaissances d'alors, à la déduction scientifique, et, par suite, son abandon ultérieur était forcé. Toutefois, elle entraînait, dans la supposition de la révolution générale, une conséquence immédiate ; le mouvement propre des planètes (d'occident en orient) doit être d'autant plus rapide que l'astre est plus rapproché de la terre. Anaximène devait donc conclure à l'ordre d'éloignement croissant : lune, soleil, cinq planètes fixes, s'il ne l'avait pas déjà emprunté aux doctrines chaldéennes.
+Remarquons maintenant que le Milésien attribuait à la résistance du milieu où flottaient les astres errants la différence entre leurs mouvements et celui des étoiles fixes. Cette hypothèse, ingénieu-[p. 158]sement appliquée à l'explication des mouvements en déclinaison, ne se prêtait malheureusement pas, dans l'état des connaissances d'alors, à la déduction scientifique, et, par suite, son abandon ultérieur était forcé. Toutefois, elle entraînait, dans la supposition de la révolution générale, une conséquence immédiate ; le mouvement propre des planètes (d'occident en orient) doit être d'autant plus rapide que l'astre est plus rapproché de la terre. Anaximène devait donc conclure à l'ordre d'éloignement croissant : lune, soleil, cinq planètes fixes, s'il ne l'avait pas déjà emprunté aux doctrines chaldéennes.
 
 L'adoption du même ordre par Héraclite, avec des remarques qui semblent empruntées à Anaximène, est d'autant plus remarquable que, malgré l'appui de l'école de Pythagore, cette disposition n'obtint que tardivement l'assentiment général. Celle d'Anaximandre trouva encore longtemps des partisans, et Empédocle, par une conception spéciale du soleil, devait aussi le rejeter aux confins du monde.
 
@@ -2312,9 +2052,7 @@ Pourtant, malgré les tendances auxquelles je viens de faire allusion, nous avon
 
 si aucune formule n'a rallié l'assentiment général, chacun craindrait, en affirmant la vanité de pareilles recherches, de se rayer soi-même de la liste des philosophes.[^p159-1]
 
-[p. 160]
-
-relative aux conditions subjectives de notre intellect. Leurs différences les constituent en un nombre plus ou moins grand de matières complètement irréductibles entre elles, ou bien, pour donner la raison de ces différences,
+[p. 160] relative aux conditions subjectives de notre intellect. Leurs différences les constituent en un nombre plus ou moins grand de matières complètement irréductibles entre elles, ou bien, pour donner la raison de ces différences,
 
 il faut oser rétablir les principes subjectifs d'Aristote, l'εἶδος et la στέρησις, après quoi on se trouvera tout juste aussi avancé qu'auparavant.
 
@@ -2340,17 +2078,13 @@ Les premières sont évidemment à écarter ; si l'éther existe, il ne peut inf
 
 Nous sommes ainsi ramenés aux preuves conclues d'un raisonnement ; or, ce raisonnement peut être soit inductif, soit déductif. Mais pour l'éther, l'induction est exclue, puisqu'elle ne peut procéder que suivant des analogies avec les substances tombant directement sous nos sens, et que, par la nature même de son hypothèse, l'éther doit être tout différent.
 
-Quant à la déduction, pour constituer une démonstration, il faudrait qu'elle fût conduite de manière à établir que, si tels phénomènes se produisent, il faut nécessairement qu'il existe une substance ayant telles ou telles propriétés. Or, le problème se présente de façon à ne pouvoir être traité que mathématiquement, et la science est cependant loin d'être assez avancée pour qu'il puisse être sérieusement traité ainsi. On s'est donc contenté de tâtonner, d'imaginer a priori des propriétés et de vérifier si elles satisfaisaient aux conditions de l'expérience. Comme on n'est pas encore arrivé en fait à établir ainsi des hypothèses réellement concordantes, on est encore loin de pouvoir examiner si un autre système d'hypothèses ne serait pas possible tout aussi bien.
+Quant à la déduction, pour constituer une démonstration, il faudrait qu'elle fût conduite de manière à établir que, si tels phénomènes se produisent, il faut nécessairement qu'il existe une substance ayant telles ou telles propriétés. Or, le problème se présente de façon à ne pouvoir être traité que mathématiquement, et la science est cependant loin d'être assez avancée pour qu'il puisse être sérieusement traité ainsi. On s'est donc contenté de tâtonner, d'imaginer *a priori* des propriétés et de vérifier si elles satisfaisaient aux conditions de l'expérience. Comme on n'est pas encore arrivé en fait à établir ainsi des hypothèses réellement concordantes, on est encore loin de pouvoir examiner si un autre système d'hypothèses ne serait pas possible tout aussi bien.
 
 Mais supposons toutes les difficultés mathématiques résolues et le problème entièrement élucidé. Pour que les phénomènes lumineux et autres puissent être expliqués, il faut que notre éther ait telles propriétés bien définies ; aura-t-on démontré son existence ?
 
 Le croire serait se faire illusion sur la puissance et le rôle réel des mathématiques. On aura mis l'hypothèse dans les équations ; elle en sera ressortie plus complète et plus précise. Mais les prétendues propriétés qui servent à la définir, que pourront-elles représenter en réalité ? Rien que des relations mathématiques
 
-11
-
-[p. 162]
-
-entre les conditions du mouvement des parties de la matière pondérable. Ces mouvements sont le seul élément scientifiquement assuré qui ait été posé dans les prémisses. Il ne peut y en avoir un autre dans les conclusions, et avec des relations mathématiques on ne peut créer une substance.
+11 [p. 162] entre les conditions du mouvement des parties de la matière pondérable. Ces mouvements sont le seul élément scientifiquement assuré qui ait été posé dans les prémisses. Il ne peut y en avoir un autre dans les conclusions, et avec des relations mathématiques on ne peut créer une substance.
 
 9. En résumé, l'unité de la matière chimique est pour nous un postulatum, tout comme pour Anaximène. Que dirons-nous, s'il s'agit de l'unité entre la matière inerte et la matière vivante ?
 
@@ -2382,9 +2116,7 @@ Mais je veux surtout remarquer que logiquement cette thèse est insoutenable dev
 
 C'est ainsi que depuis Anaximène la science a amassé des faits qui, à première vue, semblent plutôt probants pour le pluralisme, qu'elle n'en recherche pas moins l'unité avec une invincible obstination, et qu'alors elle retombe fatalement sur l'antique hylozoïsme. Je l'ai qualifié plus haut d'hypothèse gratuite au point de vue scientifique ; ai-je besoin de dire que les hypothèses du dualisme méritent tout autant la même épithète ?
 
-[p. 164]
-
-DOXOGRAPHIE D'ANAXIMÈNE
+[p. 164] DOXOGRAPHIE D'ANAXIMÈNE
 
 1. THEOPHR., fr. 2 (Simplic. in physic., 6 a). — Anaximène, fils d'Eurystrate, de Milet, qui fut ami d'Anaximandre, reconnaît, lui aussi, comme son maître, pour substratum une seule nature indéfinie ; mais, au lieu de la laisser indéterminée comme Anaximandre, il la détermine en disant que c'est l'air. Elle diffère, d'après lui, d'une substance à l'autre, par le degré de dilatation ou de condensation ; ainsi, devenant plus subtile, elle forme le feu ; en se condensant, au contraire, elle forme le vent, puis la nuée, à un degré plus loin, l'eau, puis la terre et les pierres ; les autres choses proviennent des précédentes. Il admet aussi le mouvement éternel, comme amenant la transformation.
 
@@ -2424,11 +2156,7 @@ condensation de l'air ou, au contraire, par une dilatation. Le mouvement existe 
 
 Quand je commence à posséder un dogme fixe, Anaximène survient et me crie : « Mais je te dis que l'univers est air ; que l'air, en se condensant et devenant compact, forme l'eau et la terre, en se dilatant et se subtilisant, l'éther et le feu ; qu'enfin il peut revenir à sa nature d'air ; que c'est la dilatation et la condensation qui le transforment. » Je m'accorde avec lui, je deviens partisan d'Anaximène.
 
-6. CICÉRON. — (De deor. nat., I, 10.) Puis Anaximène prend l'air comme dieu, le fait naître, le déclare immense, indéterminé, toujours en mouvement, comme si l'air sans aucune forme pouvait être dieu, comme si un dieu ne devait pas avoir non seulement une forme, mais la plus belle de toutes, comme si enfin tout ce qui est né ne devait pas périr. — (Lucullus, 37.) Puis son succes
-
-[p. 166]
-
-seur, Anaximène, admit l'air indéfini, tandis que ce qui en naît est défini : la terre, l'eau, le feu, puis de là tout le reste.
+6. CICÉRON. — (De deor. nat., I, 10.) Puis Anaximène prend l'air comme dieu, le fait naître, le déclare immense, indéterminé, toujours en mouvement, comme si l'air sans aucune forme pouvait être dieu, comme si un dieu ne devait pas avoir non seulement une forme, mais la plus belle de toutes, comme si enfin tout ce qui est né ne devait pas périr. — (Lucullus, 37.) Puis son succes [p. 166] seur, Anaximène, admit l'air indéfini, tandis que ce qui en naît est défini : la terre, l'eau, le feu, puis de là tout le reste.
 
 7. AÉTIUS,
 
@@ -2494,9 +2222,7 @@ Héraclite ne s'était pas expliqué davantage sur cette conception grossière, 
 
 il ne disait pas ce que devenaient ces bassins du coucher au lever des astres ; il ne précisait pas davantage la forme de la terre, et s'il reconnaissait, sous le nom d'Hadès, un monde souterrain, il ne semble point avoir cherché à s'en former une idée plus claire que la mythologie courante. Il préfère insister sur le flux perpétuel des choses, dont aucune n'échappe à la transformation incessante ; sur la lutte permanente entre les formes diverses de la substance unique, lutte à laquelle préside l'intelligence divine et qui fait l'harmonie du monde.[^p169-1]
 
-[p. 170]
-
-sous la forme du feu la substance primordiale, car il veut rehausser le caractère divin et intelligent de cette substance, ce que n'ont pas fait ses précurseurs ; il lui donne donc les attributs de la matière qui lui apparaît comme la plus subtile et la moins corporelle. Le devenir perpétuel des choses dans la double voie vers le haut ou le bas sera donc une conséquence nécessaire des propriétés de cette substance primordiale, qui se transforme sans cesse pour produire l'aliment dont elle a besoin et qu'elle dévore en s'allumant et en s'éteignant suivant une règle (fr. 27). Mais la loi qui préside à ces transformations dans les phénomènes actuels, ne peut s'écarter de la loi générale de l'évolution cosmique, quoique la multiplicité et la complexité des effets puisse sembler souvent contrarier en
+[p. 170] sous la forme du feu la substance primordiale, car il veut rehausser le caractère divin et intelligent de cette substance, ce que n'ont pas fait ses précurseurs ; il lui donne donc les attributs de la matière qui lui apparaît comme la plus subtile et la moins corporelle. Le devenir perpétuel des choses dans la double voie vers le haut ou le bas sera donc une conséquence nécessaire des propriétés de cette substance primordiale, qui se transforme sans cesse pour produire l'aliment dont elle a besoin et qu'elle dévore en s'allumant et en s'éteignant suivant une règle (fr. 27). Mais la loi qui préside à ces transformations dans les phénomènes actuels, ne peut s'écarter de la loi générale de l'évolution cosmique, quoique la multiplicité et la complexité des effets puisse sembler souvent contrarier en
 
 ## Partie Cette Évolution.
 
@@ -2520,9 +2246,7 @@ HERACLITE THÉOLOGUE (1).
 
 II.[^p171-1]
 
-[p. 172]
-
-allusions intelligibles pour les seuls initiés, mais encore, dans son langage sibyllin, « il ne révèle ni ne cache, mais il en indique » (fr. 11) le sens profond que les époptes eux-mêmes ne connaissent pas.
+[p. 172] allusions intelligibles pour les seuls initiés, mais encore, dans son langage sibyllin, « il ne révèle ni ne cache, mais il en indique » (fr. 11) le sens profond que les époptes eux-mêmes ne connaissent pas.
 
 Il ne prétend point convaincre par la démonstration ; il réclame la foi qu'il déclare indispensable pour l'intelligence (fr. 7). Il n'a point eu de maître humain ; il s'est cherché lui-même et il a trouvé (fr. 84). C'est le verbe universel (λόγος ξυνός, fr. 58) qui l'inspire divinement, mais sa parole n'est destinée qu'à une élite choisie ; le vulgaire est incapable de la comprendre, après l'avoir entendue, tout comme avant de l'entendre (fr. 1) ; le vulgaire est comme sourd et ne sait ni parler ni écouter (fr. 4, 5).
 
@@ -2544,13 +2268,9 @@ Obscurcie un moment par l'éclat que jetteront Platon et Aristote, son œuvre re
 
 4. Quand il descend sur le domaine propre de la physique, Héraclite conserve son langage obscur et ses formules mystérieuses, mais l'inspiration qu'il puisait dans sa connaissance des choses divines ne le soutient plus ; au fond, il se comporterait comme un simple rationaliste modéré, si la science de la nature le préoccupait réellement. Rejetant les traditions poétiques, les hypothèses des physiologues, les préjugés du vulgaire, il s'attache au « logos commun », à la raison qui éclaire tout homme venant en ce monde, quoique la plupart la méconnaissent. C'est cette raison qui lui fait reconnaître immédiatement la loi suprême du monde dans l'unité de la substance, qui lui enseigne directement que le but de la sagesse est de chercher comment cette loi gouverne l'univers.
 
-Il désignera bien ce but comme dépassant, dans sa plénitude, les forces de l'humanité, comme ne pouvant être que partiellement atteint par un acte de foi ; mais il ne se propose nullement de construire sa physique a priori. Il admet les sens comme guides, à la condition d'interpréter leurs témoignages suivant la raison.
+Il désignera bien ce but comme dépassant, dans sa plénitude, les forces de l'humanité, comme ne pouvant être que partiellement atteint par un acte de foi ; mais il ne se propose nullement de construire sa physique *a priori*. Il admet les sens comme guides, à la condition d'interpréter leurs témoignages suivant la raison.
 
-A quel point sa tentative fut insuffisante, nous l'avons vu ; pour le moment attachons-nous seulement aux diverses acceptions qu'il donne à ce terme de « logos », de raison, qu'il a préparé à son rôle futur. Tantôt (fr. 1) le sens est abstrait et en même temps
-
-[p. 174]
-
-passif ; c'est un intelligible ; c'est la loi toujours vraie, l'ordre universel des choses en tant qu'il est compris. Le « logos commun » est, au contraire, pris en sens actif ; c'est l'intelligence, en tant qu'elle
+A quel point sa tentative fut insuffisante, nous l'avons vu ; pour le moment attachons-nous seulement aux diverses acceptions qu'il donne à ce terme de « logos », de raison, qu'il a préparé à son rôle futur. Tantôt (fr. 1) le sens est abstrait et en même temps [p. 174] passif ; c'est un intelligible ; c'est la loi toujours vraie, l'ordre universel des choses en tant qu'il est compris. Le « logos commun » est, au contraire, pris en sens actif ; c'est l'intelligence, en tant qu'elle
 
 saisit l'ordre universel.
 
@@ -2562,9 +2282,7 @@ Héraclite conçoit d'ailleurs l'âme humaine sur le même type ; c'est aussi po
 
 Mais, dans cette doctrine, deux points restent obscurs et incertains : le logos commun est-il conscient et personnel comme nos âmes ? celles-ci gardent-elles, après la mort, la conscience et la personnalité ?
 
-Il s'agit là des deux problèmes les plus graves qu'agite la philosophie. La science les écarte également tous deux comme appartenant sans conteste au domaine de l'inconnaissable, et, à ce point de vue, il est intéressant de constater que le premier penseur grec chez lequel ils apparaissent comme posés dans toute leur plénitude, n'est pas, à proprement parler, un homme de science, mais, comme nous l'avons dit, un « théologue ». Cependant on ne peut nier que sa conception du logos divin et des âmes humaines ne se présente comme soumise aux vérifications de l'expérience,
-
-[p. 175]
+Il s'agit là des deux problèmes les plus graves qu'agite la philosophie. La science les écarte également tous deux comme appartenant sans conteste au domaine de l'inconnaissable, et, à ce point de vue, il est intéressant de constater que le premier penseur grec chez lequel ils apparaissent comme posés dans toute leur plénitude, n'est pas, à proprement parler, un homme de science, mais, comme nous l'avons dit, un « théologue ». Cependant on ne peut nier que sa conception du logos divin et des âmes humaines ne se présente comme soumise aux vérifications de l'expérience, [p. 175]
 
 ### Chapitre Vii. — Héraclite D'Éphèse.
 
@@ -2586,11 +2304,7 @@ Il est impossible de douter que cette légende ne soit celle que donne tout au l
 
 « Dionysos, désirant traverser l'Hadès, ignorait la route. Prosymnos promit de la lui enseigner, mais non sans une récompense ; une récompense qui n'était point honnête, mais pour Dionysos, elle le fut ; c'était une faveur amoureuse que cette récompense qui lui était demandée. Le dieu voulut bien y consentir, promit de s'y prêter s'il achevait sa route, et confirma sa promesse par un serment. La route enseignée, il part, puis revient, mais ne trouve plus Prosymnos ; il était mort. Alors Dionysos, pour satisfaire les mânes de son amant, s'élance sur le tombeau et remplit le rôle passif (πασχητιᾷ). C'est avec un rameau d'un figuier voisin, qu'il coupe et façonne en membre viril, que s'asseyant dessus,
 
-il s'acquitte de la promesse faite au mort ; et c'est en mémoire de
-
-[p. 176]
-
-cette aventure qu'on dresse mystiquement, par les villes, des phallus en face de Dionysos. »
+il s'acquitte de la promesse faite au mort ; et c'est en mémoire de [p. 176] cette aventure qu'on dresse mystiquement, par les villes, des phallus en face de Dionysos. »
 
 « Car (fr. 8[^p176-1], si ce n'était pas de Dionysos qu'on mène la pompe, en chantant le cantique aux parties honteuses, ce serait l'acte le plus éhonté, dit Héraclite ; mais c'est le même, Hadès ou Dionysos, pour qui l'on est en folie et en délire. »>
 
@@ -2606,9 +2320,7 @@ l'exégète se demande pour qui parle Héraclite, il est bien clair que là, c'e
 
 Les autres objections que dirige Zeller contre l'explication de Teichmüller ne portent guère et prouvent seulement qu'il n'a pas bien compris cette explication que je vais développer tout à l'heure. La seule critique juste est relative au sens du terme πασχητιᾷ, sur lequel Teichmüller s'est trompé ; j'ai corrigé ce sens avec son aveu. Teichmüller a pu également insister un peu trop sur le jeu de mots entre αἰδοίοισι, ἀναιδέστατα et ᾿Αίδης ; mais ce jeu de mots, tout à fait dans la manière d'Héraclite, ne peut être méconnu.
 
-[p. 177]
-
-CHAPITRE
+[p. 177] CHAPITRE
 
 En tout cas, aux négations de Zeller devrait être jointe une explication du mythe obscène, ainsi que la preuve qu'Héraclite ne pouvait s'élever à cette explication. Mais, tout au contraire, le mythe en question se prête au mieux à une interprétation vraiment conforme aux opinions de l'Éphésien.
 
@@ -2624,11 +2336,7 @@ Qu'il y ait eu en Grèce, au fond des mystères, une doctrine secrète sérieuse
 
 Peut-on, en revanche, admettre qu'Héraclite ait eu de la religion égyptienne une connaissance plus ou moins approfondie ? Évidem
 
-12
-
-[p. 178]
-
-ment oui ; depuis plus d'un siècle, l'Égypte était en relations suivies avec l'Ionie ; elle devait commencer à être connue. A une date toute récente, Hécatée avait longuement écrit sur l'antique pays en face duquel la Grèce devait reconnaître la jeunesse de ses traditions. L'Éphésien pouvait donc en avoir de seconde main une connaissance passablement étendue, et quel qu'ait été son éloignement pour la polymathie, il est très vraisemblable, étant donnés son caractère et sa situation, qu'il se sera particulièrement attaché à approfondir les croyances religieuses de l'Égypte.
+12 [p. 178] ment oui ; depuis plus d'un siècle, l'Égypte était en relations suivies avec l'Ionie ; elle devait commencer à être connue. A une date toute récente, Hécatée avait longuement écrit sur l'antique pays en face duquel la Grèce devait reconnaître la jeunesse de ses traditions. L'Éphésien pouvait donc en avoir de seconde main une connaissance passablement étendue, et quel qu'ait été son éloignement pour la polymathie, il est très vraisemblable, étant donnés son caractère et sa situation, qu'il se sera particulièrement attaché à approfondir les croyances religieuses de l'Égypte.
 
 Mais, s'il en est ainsi, l'influence égyptienne doit se faire sentir plus ou moins dans toute l'œuvre d'Héraclite et non pas seulement à propos d'une occasion singulière comme celle que nous avons rencontrée. C'est ce qu'il convient d'examiner maintenant.
 
@@ -2644,9 +2352,7 @@ La distinction du monde en supérieur et inférieur (Zeus et Hadès, fr. 12, 25,
 
 La théorie de la transformation de la matière sous ses divers états est trop vague pour que l'on puisse faire de pareils rapprochements ; j'ai indiqué au reste en quoi elle paraissait offrir quelque originalité, en quoi au contraire elle était empruntée aux premiers Milésiens. Mais la question change de face quand Héraclite détermine la cause du processus du monde sous la forme matérielle à laquelle il attribue la prééminence : le feu qui se manifeste dans le dieu solaire, et qui, répandu dans toute la nature, subtil au plus haut degré, presque incorporel, possède à la fois l'intelligence et le pouvoir moteur, actionne et dirige toutes choses ; le feu qui se plaît à se cacher sous les apparences les plus diverses, comme à manifester sa divine présence ; qui se transforme de toutes façons, mais reste toujours le même au fond ; c'est comme quand on y jette des parfums (fr. 87), chacun peut le nommer à sa fantaisie.
 
-[p. 180]
-
-Ce dieu universel qu'on adore sous mille et mille formes, est certes bien plus voisin de Phtah, le roi suprême de Memphis, « qui accomplit toutes choses avec art et vérité » (Jamblique, De myst., VIII, 3), que du boiteux Héphaistos des Grecs. Les métaphores d'occultation, mort, sommeil, extinction et celles opposées d'apparition, vie, réveil, etc., que prodigue Héraclite pour caractériser les phénomènes contraires et qui correspondent chez lui aux concepts aristotéliques de puissance et d'acte, se retrouvent également à chaque page du Livre des Morts, à chaque ligne des hymnes de l'Égypte.
+[p. 180] Ce dieu universel qu'on adore sous mille et mille formes, est certes bien plus voisin de Phtah, le roi suprême de Memphis, « qui accomplit toutes choses avec art et vérité » (Jamblique, De myst., VIII, 3), que du boiteux Héphaistos des Grecs. Les métaphores d'occultation, mort, sommeil, extinction et celles opposées d'apparition, vie, réveil, etc., que prodigue Héraclite pour caractériser les phénomènes contraires et qui correspondent chez lui aux concepts aristotéliques de puissance et d'acte, se retrouvent également à chaque page du Livre des Morts, à chaque ligne des hymnes de l'Égypte.
 
 8. Le flux perpétuel des choses est la conséquence inéluctable du principe de l'unité de la matière ; Héraclite n'a pas inventé ce dogme, il n'a fait que le développer en le défendant contre Xénophane. Il n'y a dès lors rien d'étonnant qu'on le retrouve, soit en Égypte, soit dans la bouche de l'Éphésien. Mais l'image de la guerre éternelle et nécessaire pour l'harmonie du monde, qui constitue chez Héraclite une formule beaucoup moins attendue (fr. 37, 38, 39), semble venir des bords du Nil, où Hor renouvelle sans cesse la lutte contre Set, toujours vaincu, jamais anéanti.
 
@@ -2668,11 +2374,7 @@ Si c'est par la respiration qu'Héraclite nous met en communication avec l'âme 
 
 Arrêtons ici ces rapprochements, suffisants pour montrer que si un philosophe a subi l'influence égyptienne, c'est incontestablement Héraclite ; ils permettent en même temps de constater les limites de cette influence qui n'a pu altérer le caractère profondément grec du penseur. Esprit essentiellement religieux, mais d'une religion plus haute que celle du vulgaire, il a cherché la vérité cachée sous les symboles et sous les fables ; mais il ne l'a pas seulement cherchée en Grèce ;
 
-depuis longtemps, les Ioniens rapportaient des bords du Nil, comme un des fruits de leur commerce, des mythes moins défigurés que les leurs et qui s'offraient à eux comme infiniment plus anciens. Ces mythes ne pouvaient manquer d'attirer l'attention de l'Éphésien et ce fut là qu'il trouva la clef de l'énigme qu'il cherchait. Elle n'était point telle qu'il pût se sentir inspiré de l'ardeur et de la foi qui en eût fait l'apôtre d'une religion plus pure, le réformateur d'un culte entaché de singulières bizarreries. Mais il voulut au moins tenter
-
-[p. 182]
-
-la contrepartie des essais des physiologues milésiens et il introduisit la théologie dans l'étude de la nature, qu'ils n'avaient traitée que comme objet de science. Grave événement, qui déplaça pour toujours peut-être l'axe de la philosophie !
+depuis longtemps, les Ioniens rapportaient des bords du Nil, comme un des fruits de leur commerce, des mythes moins défigurés que les leurs et qui s'offraient à eux comme infiniment plus anciens. Ces mythes ne pouvaient manquer d'attirer l'attention de l'Éphésien et ce fut là qu'il trouva la clef de l'énigme qu'il cherchait. Elle n'était point telle qu'il pût se sentir inspiré de l'ardeur et de la foi qui en eût fait l'apôtre d'une religion plus pure, le réformateur d'un culte entaché de singulières bizarreries. Mais il voulut au moins tenter [p. 182] la contrepartie des essais des physiologues milésiens et il introduisit la théologie dans l'étude de la nature, qu'ils n'avaient traitée que comme objet de science. Grave événement, qui déplaça pour toujours peut-être l'axe de la philosophie !
 
 Qu'importe qu'il conçoive l'intelligence comme l'attribut de la matière ? Il la concentre dans la partie de cette matière qu'il considère comme la plus pure et la moins semblable à notre corps. Il l'oppose à celui-ci et lui décerne la prééminence. La route est frayée pour Anaxagore.
 
@@ -2696,11 +2398,7 @@ Comme nous l'avons indiqué déjà, le khou lumineux préexiste ; c'est une vér
 
 Dans cette conception, l'existence terrestre n'est qu'un stage dans une série d'existences successives, mais
 
-essentiellement différentes, série dont, à vrai dire, le commencement et la fin sont inconnus. Il n'est guère à supposer d'ailleurs que la véritable croyance égyptienne, telle qu'elle nous a été récemment révélée, ait été connue d'Héraclite, car les Grecs se sont généralement mépris sur le sens des formes symboliques que revêt le khou
-
-[p. 184]
-
-après la mort et ont attribué aux Égyptiens le dogme de la métempsycose. Quant à la distinction dans l'homme d'une psyché et d'un daimone, elle n'a jamais été chez les Grecs aussi tranchée qu'elle paraît l'avoir été sur les bords du Nil, et elle peut, toutes les fois qu'elle apparaît chez eux, se rattacher au fonds des croyances de leur race. En tout cas, on en trouve des traces chez Héraclite (fr. 68, 78).
+essentiellement différentes, série dont, à vrai dire, le commencement et la fin sont inconnus. Il n'est guère à supposer d'ailleurs que la véritable croyance égyptienne, telle qu'elle nous a été récemment révélée, ait été connue d'Héraclite, car les Grecs se sont généralement mépris sur le sens des formes symboliques que revêt le khou [p. 184] après la mort et ont attribué aux Égyptiens le dogme de la métempsycose. Quant à la distinction dans l'homme d'une psyché et d'un daimone, elle n'a jamais été chez les Grecs aussi tranchée qu'elle paraît l'avoir été sur les bords du Nil, et elle peut, toutes les fois qu'elle apparaît chez eux, se rattacher au fonds des croyances de leur race. En tout cas, on en trouve des traces chez Héraclite (fr. 68, 78).
 
 Mais la doctrine égyptienne est intéressante au moins en ce qu'elle offre un compromis entre la croyance instinctive à l'immortalité de l'âme et le dogme panthéiste de l'anéantissement de l'individu ou de son absorption au sein de la divinité. Nous avons évidemment à rechercher si un tel compromis n'est pas supposable chez Héraclite.
 
@@ -2730,9 +2428,7 @@ La difficulté serait la même dans l'hypothèse qu'adopte Teichmüller et qui r
 
 Le sens des textes d'Héraclite relatifs à la destinée après la mort est de fait assez incertain pour qu'on ait pu considérer comme ironiques ceux qui semblent les plus clairs. « De là ils s'élèvent et deviennent gardiens des vivants et des morts » (fr. 54). « Les dieux et les hommes honorent ceux qui succombent à la guerre » (fr. 64). « Les plus grands morts obtiennent les meilleurs sorts » (fr. 65).
 
-[p. 186]
-
-Voilà à peu près tout, avec les fragments 25 et 63 que nous avons déjà rencontrés.
+[p. 186] Voilà à peu près tout, avec les fragments 25 et 63 que nous avons déjà rencontrés.
 
 En somme, si l'on veut échapper autant que possible aux difficultés signalées et suivre les indications des textes, on est conduit à adopter l'opinion de Zeller d'après laquelle les âmes qui après la mort retournent à la vie plus pure des daimones, sont seulement celles-là qui l'ont mérité. Mais je ne puis admettre entièrement l'autre moitié de cette opinion, qui fait partager à Héraclite les croyances populaires sur l'Hadès.
 
@@ -2770,11 +2466,7 @@ Si Héraclite s'était représenté comme un moi la raison qui gouverne le monde
 
 il n'en est que plus clair qu'avant ce dernier la conscience humaine était attribuée à une substance matérielle, et que rien n'était plus simple, dès lors, que d'attribuer une conscience divine à tout ou partie de la matière universelle. Il suffit, pour le reconnaître, de pouvoir, un moment, oublier Descartes.
 
-Zeller ne me paraît donc pas avoir vu juste sur ce point ; il soulève des difficultés qui ne sont pas réelles, et en introduisant les distinctions modernes du subjectif et de l'objectif, après avoir bien remarqué qu'elles n'existaient nullement alors, les emploie au fond
-
-[p. 188]
-
-pour conclure. C'est surtout qu'il méconnaît ce fait indéniable que, si les concepts de conscience et de personnalité n'étaient nullement éclaircis, les notions vulgaires correspondantes n'en étaient que plus vivaces, plus prêtes à servir d'attributs affirmés par l'imagination, sinon par le raisonnement.
+Zeller ne me paraît donc pas avoir vu juste sur ce point ; il soulève des difficultés qui ne sont pas réelles, et en introduisant les distinctions modernes du subjectif et de l'objectif, après avoir bien remarqué qu'elles n'existaient nullement alors, les emploie au fond [p. 188] pour conclure. C'est surtout qu'il méconnaît ce fait indéniable que, si les concepts de conscience et de personnalité n'étaient nullement éclaircis, les notions vulgaires correspondantes n'en étaient que plus vivaces, plus prêtes à servir d'attributs affirmés par l'imagination, sinon par le raisonnement.
 
 La difficulté véritable est tout autre, et, pour la bien saisir, il faut se rappeler quelle a été réellement l'origine de l'élaboration du concept de personnalité. C'est la théologie qui, sur ce point, a mené la discussion, aux premiers siècles de l'ère chrétienne, à l'occasion du dogme de la Trinité, plus tard sur celui de la Grâce.
 
@@ -2804,9 +2496,7 @@ avec les
 
 autres. La psychologie peut profiter à son tour de ces travaux, et le concept de la conscience peut, à la suite, être élaboré plus complètement qu'il ne l'est aujourd'hui, arriver à une certaine précision scientifique. Mais le problème métaphysique restera sans doute toujours aussi obscur, aussi susceptible de controverses qu'il l'était au temps d'Héraclite.
 
-[p. 190]
-
-DOXOGRAPHIE
+[p. 190] DOXOGRAPHIE
 
 D'HÉRACLITE
 
@@ -2852,9 +2542,7 @@ monde et tous les corps périssent par le feu dans un embrasement.
 
 13. Parménide et Héraclite : Les astres sont des feutrages de feu. — 17. Héraclite et les stoïciens : Les astres se nourrissent des exhalaisons venant de la terre.[^p191-1][^p191-2][^p191-3][^p191-4][^p191-5][^p191-6][^p191-7][^p191-8][^p191-9]
 
-[p. 192]
-
-11. AÉTIUS, IV. — 3. L'âme du monde est exhalée de l'humide qu'il renferme ; celle des êtres vivants est de même nature (de fcu), provenant du dehors et du dedans.
+[p. 192] 11. AÉTIUS, IV. — 3. L'âme du monde est exhalée de l'humide qu'il renferme ; celle des êtres vivants est de même nature (de fcu), provenant du dehors et du dedans.
 
 7. (Théodoret, V, 23.) Les âmes qui quittent le corps rejoignent l'âme de l'univers comme étant de mème genre et de même substance.
 
@@ -2888,9 +2576,7 @@ FRAGMENTS D'HÉRACLITE
 
 7. Sans l'espérance, vous ne trouverez pas l'inespéré qui est introuvable et inaccessible.[^p193-1][^p193-2][^p193-3][^p193-4][^p193-5]
 
-[p. 194]
-
-sarque, plus que tout homme s'est appliqué à l'étude, et recueillant ces écrits, il s'est fait sa sagesse, polymathie, méchant art. 16. Dans Priène, vivait Bias, fils de Teutame, dont on parle plus que des autres.
+[p. 194] sarque, plus que tout homme s'est appliqué à l'étude, et recueillant ces écrits, il s'est fait sa sagesse, polymathie, méchant art. 16. Dans Priène, vivait Bias, fils de Teutame, dont on parle plus que des autres.
 
 17. Mieux vaut étouffer une injure qu'un incendie.
 
@@ -2912,9 +2598,7 @@ sarque, plus que tout homme s'est appliqué à l'étude, et recueillant ces écr
 
 26. Si toutes choses devenaient fumée, on connaîtrait par les narines.[^p194-1][^p194-2][^p194-3][^p194-4][^p194-5][^p194-6][^p194-7][^p194-8][^p194-9]
 
-[p. 195]
-
-CHAPITRE discorde, que tout se fait et se détruit par discorde.
+[p. 195] CHAPITRE discorde, que tout se fait et se détruit par discorde.
 
 une harmonie dérobée meilleure que l'apparente et où le dieu a mêlé et profondément caché les différences et les diversités.
 
@@ -2946,9 +2630,7 @@ La guerre est père de tout, roi de tout, a désigné ceux-ci comme dieux, ceux-
 
 51. Le feu survenant jugera et dévorera toutes choses.[^p195-1][^p195-2][^p195-3][^p195-4][^p195-5][^p195-6][^p195-7]
 
-[p. 196]
-
-59. Pour les âmes, la mort est de devenir eau ; pour l'eau, la mort est de devenir terre ; mais de la terre vient l'eau, de l'eau vient l'âme.
+[p. 196] 59. Pour les âmes, la mort est de devenir eau ; pour l'eau, la mort est de devenir terre ; mais de la terre vient l'eau, de l'eau vient l'âme.
 
 60. Le vivre et le mourir est en ce que nous vivons et nous mourons. — 61. Ils prient de telles images ; c'est comme si quelqu'un parlait avec les maisons, ne sachant pas ce que sont les dieux ni les héros.
 
@@ -3014,11 +2696,7 @@ torturent de toute façon les malades et, leur faisant un bien qui est la même 
 
 NOTE SUR LE FRAGMENT 91.
 
-Une des sources les plus fécondes en fragments d'Héraclite se rencontre au livre IX de la Réfutation de toutes les hérésies attribuée à saint Hippolyte [^p197-1]. Parmi ces fragments, il en est un
-
-[p. 198]
-
-qui se trouve entaché d'une corruption assez singulière en ce qu'elle a entraîné des interpolations ridicules et que le sens du texte d'Héraclite se trouve par suite passablement défiguré.
+Une des sources les plus fécondes en fragments d'Héraclite se rencontre au livre IX de la Réfutation de toutes les hérésies attribuée à saint Hippolyte [^p197-1]. Parmi ces fragments, il en est un [p. 198] qui se trouve entaché d'une corruption assez singulière en ce qu'elle a entraîné des interpolations ridicules et que le sens du texte d'Héraclite se trouve par suite passablement défiguré.
 
 Voici pour ce fragment (91 Mullach) le texte de saint Hippolyte d'après l'édition (Duncker et Schneidewin) de Gættingue, 1859, page 446, où je rétablis toutefois les leçons du manuscrit indiquées dans les annotations.
 
@@ -3054,11 +2732,7 @@ il a indiqué celui d'une vis dans son écrou, sans se demander si les vis étai
 
 Cette interpolation n'ayant aucun rapport avec ce qui suit, pour établir la concordance, on a imaginé la leçon moderne γναφείῳ. Car que peut-il y avoir de commun entre une vis et un pinceau (γραφεῖον) ? Certes le premier inventeur de γναφείῳ a dû avoir un moment de fierté légitime. Mais, s'il n'y a pas d'autres preuves que, dans l'antiquité, c'était particulièrement dans les « boutiques de foulons » qu'il fallait chercher des vis (de pression ?), l'histoire de la mécanique pratique ne peut certainement se contenter de celle-là.
 
-La seconde interpolation, ἐν τῷ γραφείῳ περιστροφὴ εὐθεῖα καὶ σκολίη, est évidemment le commentaire du génitif γραφέων, et indique sans doute ce mouvement de viration qu'on fait subir au pinceau, en le promenant le long d'une ligne, pour maintenir la
-
-[p. 200]
-
-pointe effilée (1). Ce commentaire peut être de saint Hippolyte lui-même, il peut lui être postérieur. Seulement ἐv est suspect, il faut probablement ή, corruption qui s'explique d'elle-même.
+La seconde interpolation, ἐν τῷ γραφείῳ περιστροφὴ εὐθεῖα καὶ σκολίη, est évidemment le commentaire du génitif γραφέων, et indique sans doute ce mouvement de viration qu'on fait subir au pinceau, en le promenant le long d'une ligne, pour maintenir la [p. 200] pointe effilée (1). Ce commentaire peut être de saint Hippolyte lui-même, il peut lui être postérieur. Seulement ἐv est suspect, il faut probablement ή, corruption qui s'explique d'elle-même.
 
 Le dernier membre de phrase de la parenthèse, ἄνω γὰρ ὁμοῦ καὶ κύκλῳ περιέρχεται (?), me semble au contraire se rapporter au mouvement de la vis dans son écrou bien plutôt qu'à celui du pinceau. Ce membre de phrase a donc pu faire partie de l'interpolation postérieure qui aura été écrite en marge ; quand elle aura passé dans le texte, le copiste aura maladroitement scindé en deux l'annotation qu'il rencontrait.
 
@@ -3068,9 +2742,7 @@ Quant à savoir s'il faut écrire περιέρχεται ου περιέλκετ
 
 « < Nam stili circumversio recta et curva est, siquidem a scribente simul sursum atque in orbem flectitur », me paraît moins probable que celle que je donne.
 
-[p. 201]
-
-CHAPITRE
+[p. 201] CHAPITRE
 
 #### VIII
 
@@ -3080,9 +2752,7 @@ HIPPASOS ET ALCMÉON
 
 Quelle part de vérité peut présenter cette légende ? sans doute on ne le saura jamais exactement ; en tout cas, elle ne présente aucune invraisemblance. Mais si ce « logos mystique » a existé réellement dès le commencement du ve siècle avant J.-C., a-t-il exercé quelque influence sur Héraclite ? Est-ce par lui qu'il a connu Pythagore ou bien y a-t-il fait quelques emprunts notables ?
 
-[p. 202]
-
-La première alternative semblerait la plus probable, à en juger par le ton de mépris de l'Éphésien quand il parle du Samien, à considérer surtout sa prétention à être autodidacte. Si donc il a connu la thèse d'Hippasos relative au feu, il la trouvait sans doute effectivement différente de la sienne propre et n'avait aucun scrupule à présenter cette dernière comme originale.
+[p. 202] La première alternative semblerait la plus probable, à en juger par le ton de mépris de l'Éphésien quand il parle du Samien, à considérer surtout sa prétention à être autodidacte. Si donc il a connu la thèse d'Hippasos relative au feu, il la trouvait sans doute effectivement différente de la sienne propre et n'avait aucun scrupule à présenter cette dernière comme originale.
 
 Nous avons vu comment cette thèse d'Héraclite était cependant liée à celle d'Anaximène, comment elle en dérivait presque nécessairement par l'adjonction d'idées religieuses et par un retour à la tradition égyptienne ; nous devons nous demander comment, de son côté, celle d'Hippasos se trouvait liée à la doctrine de Pythagore.
 
@@ -3110,11 +2780,7 @@ De ces trois auteurs, Empédocle ne peut guère non plus être utilisé dans l'o
 
 La position spéciale de Parménide, la distinction qu'il fait entre sa doctrine ontologique, qu'il affirme comme nécessaire, et l'exposé des opinions physiques qu'il présente comme appartenant au domaine incertain de la croyance, nous permettraient au contraire d'aboutir à des conclusions importantes, s'il était possible de démontrer que ces opinions physiques sont en réalité étrangères à Parménide et qu'elles représentent celles qui avaient cours de son temps, en Italie, chez les pythagoriens.
 
-J'essaierai de discuter cette question dans le chapitre suivant ; pour le moment, il convient avant tout de remonter au témoin encore plus ancien que j'ai indiqué, à ce médecin de Crotone, qui est donné à la fois comme un disciple de Pythagore et comme le premier physiologue italique. Ce n'est pas que l'on puisse espérer en tirer, quant au pythagorisme même, des renseignements bien notables ; mais il s'agit surtout de savoir si nous n'avons pas à craindre, au sujet de Parménide, d'entrer dans une fausse route,
-
-[p. 204]
-
-s'il est possible de constater sur l'Éléate une influence d'Alcméon ; car, si notre conjecture est vraie, cette influence doit nécessairement s'être exercée.
+J'essaierai de discuter cette question dans le chapitre suivant ; pour le moment, il convient avant tout de remonter au témoin encore plus ancien que j'ai indiqué, à ce médecin de Crotone, qui est donné à la fois comme un disciple de Pythagore et comme le premier physiologue italique. Ce n'est pas que l'on puisse espérer en tirer, quant au pythagorisme même, des renseignements bien notables ; mais il s'agit surtout de savoir si nous n'avons pas à craindre, au sujet de Parménide, d'entrer dans une fausse route, [p. 204] s'il est possible de constater sur l'Éléate une influence d'Alcméon ; car, si notre conjecture est vraie, cette influence doit nécessairement s'être exercée.
 
 3. Rappelons tout d'abord ce que l'on connaît des opinions d'Alcméon. En dehors d'un passage important d'Aristote, que nous verrons plus loin, et de ce que dit Théophraste sur Alcméon au sujet des sensations, ces opinions ne figurent guère que dans le recueil d'Aétius :
 
@@ -3142,9 +2808,7 @@ Cf. Cicéron, De deor nat., I, 11 : Alcméon de Crotone qui a attaché la divini
 
 18. La langue discerne les saveurs parce qu'elle est humide, tiède et molle. »>[^p204-1][^p204-2]
 
-[p. 205]
-
-CHAPITRE par exemple, comme effet de l'excès de la chaleur ou de la sécheresse, comme résultat de la surabondance ou du défaut de nourriture, comme siège, dans le sang, la moelle ou l'encéphale. Elle peut aussi provenir de causes extérieures, qualité des eaux, pays, fatigues, nécessité, etc. La santé consiste dans un tempérament proportionné des qualités. »
+[p. 205] CHAPITRE par exemple, comme effet de l'excès de la chaleur ou de la sécheresse, comme résultat de la surabondance ou du défaut de nourriture, comme siège, dans le sang, la moelle ou l'encéphale. Elle peut aussi provenir de causes extérieures, qualité des eaux, pays, fatigues, nécessité, etc. La santé consiste dans un tempérament proportionné des qualités. »
 
 Censorinus, d'après une autorité remontant à la source même d'Aétius, corrige toutefois ou étend quelques -uns des renseignements qui précèdent. Ainsi il donne Alcméon comme rejetant l'opinion d'Hippon, qui croyait que le sperme provenait de la moelle épinière ; comme admettant que les femelles émettaient une liqueur séminale aussi bien que les mâles, et attribuant le sexe de l'enfant à la prédominance de la liqueur de l'un ou de l'autre des deux parents ; enfin comme avouant qu'il ne savait rien de précis sur la formation du fœtus et croyant qu'il est impossible de reconnaître quelle partie s'y constitue la première.
 
@@ -3152,11 +2816,7 @@ Censorinus, d'après une autorité remontant à la source même d'Aétius, corri
 
 Avant d'examiner, comme nous nous le proposons, jusqu'à quel point Parménide a confirmé son exposition poétique aux doctrines de son précurseur sur ces questions, il convient de rechercher jusqu'à quel point Alcméon lui-mème peut être considéré comme témoin pour les opinions physiques de Pythagore. Après avoir remarqué que la tradition nous montre le Maître comme s'étant sérieusement préoccupé de la médecine, qu'elle nous indique, parmi ses disciples immédiats, l'existence d'un important groupe médical qui, un siècle après, n'aura plus un seul représentant, revenons au témoignage d'Aristote :
 
-« (Métaphys., I, 5.) D'autres pythagoriens admettent les dix principes qu'on appelle coordonnés (κατὰ συστοιχίαν) : limite-infini, impair-pair, un-pluralité, droit-gauche, mâle-femelle, en reposen mouvement, droit-courbe, lumière- obscurité, bon -mauvais, carré-oblong. Ce semble avoir été à peu près l'opinion d'Alcméon de Crotone, soit qu'il la leur ait empruntée, soit qu'au contraire
-
-[p. 206]
-
-ce soient eux qui la lui aient prise ; il s'exprime en tout cas d'une façon analogue, lorsqu'il dit que la plupart des choses humaines sont deux ; ce n'est point qu'il choisisse comme eux des oppositions déterminées, il les prend au hasard, comme blanc-noir, doux-amer, bon-mauvais, grand-petit. Il laisse les autres indéfinies, tandis que les pythagoriens ont précisé combien il ya d'oppositions et quelles elles sont. »>
+« (Métaphys., I, 5.) D'autres pythagoriens admettent les dix principes qu'on appelle coordonnés (κατὰ συστοιχίαν) : limite-infini, impair-pair, un-pluralité, droit-gauche, mâle-femelle, en reposen mouvement, droit-courbe, lumière- obscurité, bon -mauvais, carré-oblong. Ce semble avoir été à peu près l'opinion d'Alcméon de Crotone, soit qu'il la leur ait empruntée, soit qu'au contraire [p. 206] ce soient eux qui la lui aient prise ; il s'exprime en tout cas d'une façon analogue, lorsqu'il dit que la plupart des choses humaines sont deux ; ce n'est point qu'il choisisse comme eux des oppositions déterminées, il les prend au hasard, comme blanc-noir, doux-amer, bon-mauvais, grand-petit. Il laisse les autres indéfinies, tandis que les pythagoriens ont précisé combien il ya d'oppositions et quelles elles sont. »>
 
 Comme le remarque Éd. Zeller, il est très vraisemblable que cette classification, qui, comme le dit expressément Aristote, n'appartenait qu'à une partie des pythagoriens, est d'une date peu reculée, j'entends postérieure à Philolaos. Mais l'idée même de dresser des séries d'oppositions, de procéder comme le faisait Alcméon, dut être, au contraire, dans l'École, très antérieure à la théorie qu'Aristote décrit en première ligne comme propre aux pythagoriens, à cette théorie qui fait du nombre l'essence des choses et qui reconnaît comme éléments du nombre, donc des choses, le pair et l'impair, identifiés avec l'illimité et le limité.
 
@@ -3176,7 +2836,7 @@ Les premiers pythagoriens n'ont pas seulement composé des couples binaires, com
 
 ils ont eu des ternaires (triagmes d'Épigène ou d'Ion de Chios), comme les bardes cambriens, des quaternaires (onze dans Théon de Smyrne), comme on en rencontre dans les Proverbes de Salomon ; les Theologumena nous les montrent de même supputant les choses qui sont cinq, qui sont six, etc., jusqu'à dix, et concluant à des propriétés mystiques pour les différents nombres. C'est là ce qu'Auguste Comte appelait la période théologique pour l'arithmétique, période dont on rencontre partout des traces historiques, des bords du Gange au fond de la Bretagne.
 
-Dans ces classifications arbitraires, on doit au reste distinguer deux stades, dont le second ne semble avoir été réellement franchi qu'en Grèce ; d'abord on se borne à la supputation, puis on établit le parallélisme entre les différents groupes et on rapproche entre eux les objets qui, dans chacun de ces groupes, sont au même rang. Appliqué aux couples binaires, ce procédé conduit nécessairement au dualisme parfait, ou plutôt il le suppose a priori.
+Dans ces classifications arbitraires, on doit au reste distinguer deux stades, dont le second ne semble avoir été réellement franchi qu'en Grèce ; d'abord on se borne à la supputation, puis on établit le parallélisme entre les différents groupes et on rapproche entre eux les objets qui, dans chacun de ces groupes, sont au même rang. Appliqué aux couples binaires, ce procédé conduit nécessairement au dualisme parfait, ou plutôt il le suppose *a priori*.
 
 Si d'ailleurs on examine les binaires pythagoriens ou ceux d'Alcméon, on remarque qu'ils sont établis entre des qualités ; l'opposition en effet, comme Aristote l'a enseigné plus tard, ne doit pas être conçue entre des substances, mais bien entre des qualités. Il n'en est pas moins vrai que le dualisme originaire de Pythagore a été posé entre des substances, entre le principe limité donnant aux corps la solidité en même temps que la forme, et le continu fluide (infini) que le Samien ne distinguait pas de l'espace. (Voir p. 124.)
 
@@ -3184,11 +2844,7 @@ Joint au système de classification par binaires, ce dualisme devait nécessaire
 
 les qualités formant l'une des séries opposées, à l'autre principe la série des qualités contraires. Or, c'est là, comme nous le verrons, la physique de Parménide ; à peine est-il nécessaire d'ajouter ce que j'ai déjà indiqué à propos d'Hippasos, que l'inconsistance de la méthode devait faire aboutir à un échec inévitable et que le résultat de cet échec, joint aux progrès de l'abstraction, conduisit l'École à abandonner le point de vue concret de son fondateur ; pour Philolaos, qui conserve expressément le dualisme de la limite et de l'infini, ces deux termes n'ont plus qu'une signification abstraite.
 
-Tel est le sens général de l'évolution qui dut s'accomplir au
-
-[p. 208]
-
-sein du pythagorisme ; Alcméon nous apparaît comme à l'un des premiers stades de cette évolution, sans qu'il y ait d'ailleurs lieu de lui attribuer une position réellement spéciale. Car, eu égard à son temps, le caractère qualitatif des oppositions qu'il considère n'a pas une importance majeure ; la qualité n'est pas encore nettement distinguée de la substance.
+Tel est le sens général de l'évolution qui dut s'accomplir au [p. 208] sein du pythagorisme ; Alcméon nous apparaît comme à l'un des premiers stades de cette évolution, sans qu'il y ait d'ailleurs lieu de lui attribuer une position réellement spéciale. Car, eu égard à son temps, le caractère qualitatif des oppositions qu'il considère n'a pas une importance majeure ; la qualité n'est pas encore nettement distinguée de la substance.
 
 5. Le peu que l'on sait de la cosmologie d'Alcméon nous le montre professant une vérité qu'il y a tout lieu de faire remonter à Pythagore, mais en même temps des erreurs dont on pense, à tort ou à raison, que le Samien avait déjà fait justice. Quant aux opinions du Crotoniate sur l'âme et sur la divinité des astres, elles concordent suffisamment avec la tradition pythagorienne, sans avoir cependant un caractère bien marqué, car déjà Thalès aurait pu les professer.
 
@@ -3212,11 +2868,7 @@ L'esprit mathématique du Samien ne pouvait manquer d'être frappé de la diffé
 
 Il n'est guère probable qu'il ait effectivement astreint à l'obligation du secret les disciples choisis qu'il admettait à son enseignement véritablement scientifique. Il n'en est pas moins certain que le fait même de leur élection devait les rendre passablement jaloux
 
-14
-
-[p. 210]
-
-des plus hautes vérités de cet enseignement ; j'ai même admis que cette élite se ferma rigoureusement et adopta le secret comme règle après qu'Hippasos eut fait schisme en s'attribuant l'honneur de découvertes peut-être faites en commun.
+14 [p. 210] des plus hautes vérités de cet enseignement ; j'ai même admis que cette élite se ferma rigoureusement et adopta le secret comme règle après qu'Hippasos eut fait schisme en s'attribuant l'honneur de découvertes peut-être faites en commun.
 
 Mais dès auparavant, il est très possible que telle vérité scientifique fût contredite apparemment pour les élèves du dehors, qu'il leur fût dit, par exemple, que l'on conjecture que la terre a la forme d'un disque, tandis que les raisons qui en établissent la sphéricité étaient exposées aux seuls membres de la petite école. Une pareille supposition explique très suffisamment le silence d'Alcméon.
 
@@ -3252,11 +2904,7 @@ L'accusation de plagiat portée par Démocrite contre Anaxagore et que rapporte 
 
 La théorie d'Anaxagore n'a nullement été un dogme constant de l'école pythagorienne ; si elle fut adoptée par Philolaos et avant ce dernier par Empédocle (sauf pour celui-ci en ce qui concernait la nature de la lune, qu'il considérait non comme une terre, mais comme de l'air condensé jusqu'à être comparable à de la grêle), il nous est dit, en dehors du témoignage relatif à Alcméon, que des pythagoriens récents supposèrent qu'un feu s'allumait et s'éteignait peu à peu et régulièrement à la surface de la lune, de façon à la recouvrir pour la pleine lune, puis à la découvrir tout entière à la conjonction (Aétius, II, 29). Enfin Bérose, qui représente plus tard la tradition chaldéenne, à une époque où elle a déjà subi l'influence hellène, considère encore la lune comme une sphère dont la moitié est enflammée et c'est ainsi qu'il explique les phases (Aétius, II, 25, 29).
 
-Quant à Parménide, divers renseignements doxographiques (12)
-
-[p. 212]
-
-concordent pour écarter l'opinion qu'il aurait considéré la lumière de la lune comme empruntée au soleil ; la lune serait de feu ou plutôt formée par un mélange d'air (élément dense) et de feu (élément subtil) ; elle est issue de la voie lactée, de même que le soleil, mais elle provient d'une partie où l'élément dense et obscur dominait davantage ; les particularités qu'elle offre sont la conséquence de ce mélange, et Parménide l'aurait, par suite, appelée astre à fausse lumière (ψευδοφανή). En somme, ces données ne nous conduisent ni à l'hypothèse d'Anaximène ni à la théorie d'Anaxagore, mais bien à l'explication d'Alcméon ou à celle de Bérose. Nous sommes donc ramenés pour Pythagore à ces mêmes explications qui ne diffèrent qu'en ce que, dans la seconde, la forme sphérique est nettement attribuée à la lune et que, dans la première, la figure de cet astre est plus ou moins laissée indécise.
+Quant à Parménide, divers renseignements doxographiques (12) [p. 212] concordent pour écarter l'opinion qu'il aurait considéré la lumière de la lune comme empruntée au soleil ; la lune serait de feu ou plutôt formée par un mélange d'air (élément dense) et de feu (élément subtil) ; elle est issue de la voie lactée, de même que le soleil, mais elle provient d'une partie où l'élément dense et obscur dominait davantage ; les particularités qu'elle offre sont la conséquence de ce mélange, et Parménide l'aurait, par suite, appelée astre à fausse lumière (ψευδοφανή). En somme, ces données ne nous conduisent ni à l'hypothèse d'Anaximène ni à la théorie d'Anaxagore, mais bien à l'explication d'Alcméon ou à celle de Bérose. Nous sommes donc ramenés pour Pythagore à ces mêmes explications qui ne diffèrent qu'en ce que, dans la seconde, la forme sphérique est nettement attribuée à la lune et que, dans la première, la figure de cet astre est plus ou moins laissée indécise.
 
 Le choix entre ces deux explications est passablement douteux. Quand Éd. Zeller (I, 405, note 2) dit que les pythagoriens ont dû attribuer au soleil la même forme qu'à la lune, qu'ils se représentaient incontestablement comme une sphère, ce raisonnement n'est valable qu'à partir d'une époque inconnue. On pourrait plutôt le retourner et dire que, s'il était démontré que les pythagoriens donnaient au soleil la forme d'une sphère, il deviendrait très probable qu'ils faisaient de même pour la lune ; mais l'indication que donne Aétius dans ce sens (II, 22) ne peut être accueillie sans contrôle, car elle peut se rapporter à des pythagoriens même postérieurs à Philolaos ; d'autre part, il peut y avoir confusion avec la sphère du soleil, suivant les conceptions développées par Eudoxe, Callippe et Aristote.
 
@@ -3270,9 +2918,7 @@ admettant qu'il se soit posé le problème dans les termes de l'hypothèse d'Alc
 
 Le plus probable semble donc que le dogme de la sphéricité des astres, dogme qui, à compter d'Aristote au moins, a été adopté par tous les mathématiciens, ne remonte pas en fait au delà de Philolaos ; que si la croyance à l'existence pour la lune d'une face obscure et d'une face lumineuse et même la connaissance du fait que la face lumineuse se trouve toujours dirigée vers le soleil, sont bien antérieures à Anaxagore et peuvent être attribuées à Pythagore, ce dernier ne s'était nullement élevé à la véritable explication du phénomène. Ainsi les opinions que l'on prête à Alcméon sur ces deux questions, ne doivent nullement le faire écarter du cercle pythagorien.[^p213-1][^p213-2]
 
-[p. 214]
-
-d'Alcméon ; toutes deux attribuent au même titre la sensation au semblable à l'objet senti. Mais de la première Théophraste conclut que, pour Empédocle, il n'y a point de différence entre la brute et l'homme ; s'il n'a pas tiré la même conclusion de la seconde, c'est uniquement parce que Alcméon avait expressément affirmé la différence en question. Cependant ni Empédocle ni Parménide n'avaient à la nier et leur silence sur ce point ne doit nullement être interprété dans le sens que lui donne Théophraste.
+[p. 214] d'Alcméon ; toutes deux attribuent au même titre la sensation au semblable à l'objet senti. Mais de la première Théophraste conclut que, pour Empédocle, il n'y a point de différence entre la brute et l'homme ; s'il n'a pas tiré la même conclusion de la seconde, c'est uniquement parce que Alcméon avait expressément affirmé la différence en question. Cependant ni Empédocle ni Parménide n'avaient à la nier et leur silence sur ce point ne doit nullement être interprété dans le sens que lui donne Théophraste.
 
 Quant à l'Éléate, il ne semble point s'ètre occupé des sensations particulières, et si l'on examine sans prévention le passage où son opinion d'ensemble est rapportée (Appendice, 3, 4), il est clair qu'il se mouvait dans un ordre d'idées complètement différent de celui d'Alcméon traitant des sensations. Mais, bien loin de reconnaître des principes de doctrine opposés de part et d'autre, on peut constater que les points de départ sont les mêmes.
 
@@ -3280,19 +2926,15 @@ La confusion que fait Parménide entre la sensation et la pensée tient uniqueme
 
 Mais cette hypothèse, que nous étudiérons dans le prochain chapitre, ressemble singulièrement à celle d'Alcméon, si on l'applique à la constitution du corps humain. Le Crotoniate remarque les nombreux couples de contraires qui semblent lutter ensemble, prédominer tour à tour ou s'équilibrer dans cette constitution ; le premier il conçoit la santé comme résultant d'un tempérament entre ces contraires, la maladie comme suite de l'excès de l'un d'eux. L'Éléate conserve la même idée en réduisant à un seul tous
 
-[p. 215]
-
-CHAPITRE ces couples de contraires, et, par une extension que son précurseur n'aurait sans doute pas contredite, il entend que ce « tempérament » des contraires détermine l'homme tout entier, aussi bien au moral qu'au physique.
+[p. 215] CHAPITRE ces couples de contraires, et, par une extension que son précurseur n'aurait sans doute pas contredite, il entend que ce « tempérament » des contraires détermine l'homme tout entier, aussi bien au moral qu'au physique.
 
 Ainsi Parménide, pour les sensations, n'a point suivi les expositions d'Alcméon ; il l'a singulièrement dépassé par la portée de ses affirmations, mais il ne se trouve nullement en opposition avec lui. Loin de là, ils semblent bien appartenir à une même école, et, si peut-être il y avait entre leurs écrits des contradictions de détail, on doit probablement les imputer au peu de précision des concepts et de la langue de leur temps.
 
 Si par exemple on nous dit (Aétius, IV, 5) que Parménide plaçait le principat (τὸ ἡγεμονικόν) dans la poitrine, Empédocle dans le sang, Alcméon dans le cerveau, comme il est certain qu'aucun d'eux n'a employé l'expression dont se sert le doxographe, et que ces prétendues opinions ont été déduites de passages qui avaient un sens beaucoup plus vague, il est impossible de conclure à une contradiction voulue.[^p215-1][^p215-2]
 
-[p. 216]
+[p. 216] et un vers (v. 150) de Parménide conservé par Galien nous attestent que l'Éléate avait émis une autre opinion assez difficilement conciliable avec la précédente, et d'après laquelle le côté du corps d'où provient la semence détermine le sexe qu'elle tend à donner, masculin pour la droite, féminin pour la gauche.
 
-et un vers (v. 150) de Parménide conservé par Galien nous attestent que l'Éléate avait émis une autre opinion assez difficilement conciliable avec la précédente, et d'après laquelle le côté du corps d'où provient la semence détermine le sexe qu'elle tend à donner, masculin pour la droite, féminin pour la gauche.
-
-Cette opinion qui, plus ou moins modifiée, fut appelée à une assez grande vogue parmi les successeurs de Parménide, est évidemment une simple hypothèse a priori ; mais elle frappe par son caractère pythagorien. C'est l'application risquée de la corrélation entre les deux couples de contraires, droit-gauche, mâle-femelle. Nous savons aussi que Parménide avait établi de même une corrélation entre les deux couples mâle-femelle, froid-chaud, mais en considérant les femmes comme plus chaudes que les hommes, tandis qu'Empédocle, en retournant la relation, se conforma plus exactement au parallélisme pythagorien.
+Cette opinion qui, plus ou moins modifiée, fut appelée à une assez grande vogue parmi les successeurs de Parménide, est évidemment une simple hypothèse *a priori* ; mais elle frappe par son caractère pythagorien. C'est l'application risquée de la corrélation entre les deux couples de contraires, droit-gauche, mâle-femelle. Nous savons aussi que Parménide avait établi de même une corrélation entre les deux couples mâle-femelle, froid-chaud, mais en considérant les femmes comme plus chaudes que les hommes, tandis qu'Empédocle, en retournant la relation, se conforma plus exactement au parallélisme pythagorien.
 
 Si ces rapprochements étaient suffisants pour asseoir une opinion, on pourrait dire que Parménide a certainement connu l'ouvrage d'Alcméon et qu'il l'a utilisé, mais sans s'astreindre aucunement à le suivre, qu'il a même négligé ce que cet ouvrage pouvait contenir d'observations scientifiques, pour en exagérer la partie conjecturale en poussant logiquement à bout les tendances pythagoriennes.[^p216-1]
 
@@ -3300,7 +2942,7 @@ Si ces rapprochements étaient suffisants pour asseoir une opinion, on pourrait 
 
 ### Chapitre Viii.
 
-à VI, 2) paraît beaucoup mieux représenter le texte des Placita primitifs. Alcméon aurait bien soulevé la question, mais en la laissant indécise ; après lui la priorité aurait été attribuée au cerveau par Anaxagore et par Hippon, au cœur par Empédocle, sans que du reste ils aient eu recours à l'observation, pas plus que ceux qui émirent des opinions divergentes ; tous se laissent guider par des motifs a priori.
+à VI, 2) paraît beaucoup mieux représenter le texte des Placita primitifs. Alcméon aurait bien soulevé la question, mais en la laissant indécise ; après lui la priorité aurait été attribuée au cerveau par Anaxagore et par Hippon, au cœur par Empédocle, sans que du reste ils aient eu recours à l'observation, pas plus que ceux qui émirent des opinions divergentes ; tous se laissent guider par des motifs *a priori*.
 
 L'opinion attribuée à Alcméon, sur l'origine de la liqueur séminale, paraît également suspecte comme se rattachant toujours à l'idée du principat du cerveau et comme assez peu en concordance avec le texte de Censorinus [^p217-1]. Mieux garanties semblent les données relatives à la nutrition du fœtus et à la stérilité des mules. Sur le premier point, Alcméon se montre d'une ignorance assez singulière chez un médecin ; sur le second, il paraît au moins avoir cherché à observer la nature.
 
@@ -3342,9 +2984,7 @@ Ceux des pythagoriens qui voulurent donner à l'enseignement physique une forme 
 
 Telles sont les thèses que j'ai mises en avant et qu'il me reste à développer en ce qui concerne Parménide du moins ; quant aux pythagoriens, ce que j'en ai dit a déjà été justifié ou se trouvera l'être dans le cours de ce chapitre.[^p219-1]
 
-[p. 220]
-
-effet qu'on est habitué à considérer comme le père de l'idéalisme, quand on ne remonte pas jusqu'à Xénophane. D'un autre côté, depuis Platon et Aristote, la thèse éléatique est regardée comme directement opposée à celle d'Héraclite : l'une immobilise l'être, l'autre le montre insaisissable dans le perpétuel devenir ; on est donc porté à croire à une véritable contradiction historique.
+[p. 220] effet qu'on est habitué à considérer comme le père de l'idéalisme, quand on ne remonte pas jusqu'à Xénophane. D'un autre côté, depuis Platon et Aristote, la thèse éléatique est regardée comme directement opposée à celle d'Héraclite : l'une immobilise l'être, l'autre le montre insaisissable dans le perpétuel devenir ; on est donc porté à croire à une véritable contradiction historique.
 
 Je ne m'arrêterai pas sur ce second point ; Éd. Zeller me paraît avoir suffisamment fait justice du préjugé courant ; il a sérieusement établi que le poème de l'Éléate et le discours de l'Éphésien sont sensiblement de la même date, et qu'aucun des deux auteurs n'a dû connaître l'œuvre de l'autre.
 
@@ -3372,9 +3012,7 @@ il ne cherche pas à réunir, dans une synthèse commune, le double aspect des c
 
 Si maintenant Mélissos n'avait pas développé les dernières conséquences de l'application de cette forme à cette matière, ni Platon ni Aristote n'auraient attribué à la dialectique de Zénon une portée qu'elle n'avait pas atteinte ; ni l'un ni l'autre n'auraient recherché la même doctrine jusque chez Parménide et nous le considérerions sans doute comme un pur réaliste.[^p221-1]
 
-[p. 222]
-
-tout entier devient d'une clarté limpide ; sans elle, tout reste obscur et incompréhensible.
+[p. 222] tout entier devient d'une clarté limpide ; sans elle, tout reste obscur et incompréhensible.
 
 L'espace pur ne peut aucunement exister ; il n'est ni pensable ni exprimable ; cela suffit pour lui dénier toute possibilité. Voilà le point de départ de Parménide, et de son temps cela ne pouvait souffrir aucune contradiction. Personne n'avait encore considéré l'espace autrement que comme le lieu de la matière ; les atomistes n'étaient pas encore apparus, et l'on doit même dire que l'abstraction nécessaire pour constituer le concept de l'espace pur eût été impossible sans les abstractions contraires de l'Éléate. Ce dernier n'a à combattre que le vide relatif des pythagoriens et son triomphe est facile. Le point de départ admis, il est aisé de démontrer que la matière est inengendrée et impérissable, qu'elle ne peut ni croître ni diminuer. Il en résulte de même immédiatement qu'elle est continue et forme ainsi un tout unique. Ce tout est dès lors nécessairement immobile.
 
@@ -3398,11 +3036,7 @@ A cela nulle difficulté ; si Parménide n'est point entré dans cette voie, c'e
 
 Son point de départ, pour ses démonstrations exactes, est faux ; par suite, ses conséquences sont erronées. Il n'en a pas moins l'immortel honneur d'avoir posé très justement la question ; de son temps, la science de la nature, eu égard aux problèmes abordés par les Ioniens, ne pouvait s'élever au-dessus du probabilisme ; il fallait de longs travaux et des études infinies de détails, avant d'apprendre quel genre de certitude peuvent donner l'observation et l'expérience. Mais même aujourd'hui, nous devons toujours soigneusement-distinguer, dans la science, entre l'hypothèse utile ou commode et la vérité rigoureusement déduite.
 
-Quelle peut être maintenant l'origine des prémisses servant aux démonstrations exactes ? Si elles remontent à l'expérience, elles sont entachées d'incertitude dans les limites des erreurs des sens ; leurs conséquences peuvent-elles être valables autrement que par
-
-[p. 224]
-
-une approximation entre les limites correspondantes ? Si l'on part de jugements a priori, leur vérité subjective est-elle susceptible d'une application objective ? Naturellement ces questions n'existent point encore pour Parménide ;
+Quelle peut être maintenant l'origine des prémisses servant aux démonstrations exactes ? Si elles remontent à l'expérience, elles sont entachées d'incertitude dans les limites des erreurs des sens ; leurs conséquences peuvent-elles être valables autrement que par [p. 224] une approximation entre les limites correspondantes ? Si l'on part de jugements *a priori*, leur vérité subjective est-elle susceptible d'une application objective ? Naturellement ces questions n'existent point encore pour Parménide ;
 
 il postule simplement la négation de ce qui n'est pas intelligible et ne s'avise pas de rechercher
 
@@ -3432,9 +3066,7 @@ Quant à Mélissos, il est clair qu'il imite la dialectique de l'École, mais qu
 
 LE DUALISME PHYSIQUE DE PARMÉNIDE.[^p225-1]
 
-[p. 226]
-
-s'identifiaient naturellement. Mais je ne vois nullement que la théorie ontologique de Parménide l'oblige à rejeter ces qualités, contre le témoignage très clair des sens. J'ai limité cette théorie aux bornes précises que lui assignent les fragments et il me semble impossible de l'étendre au delà, sans preuves bien convaincantes.
+[p. 226] s'identifiaient naturellement. Mais je ne vois nullement que la théorie ontologique de Parménide l'oblige à rejeter ces qualités, contre le témoignage très clair des sens. J'ai limité cette théorie aux bornes précises que lui assignent les fragments et il me semble impossible de l'étendre au delà, sans preuves bien convaincantes.
 
 En tout cas, il est bien clair que l'on n'a pas à considérer sans plus toutes les opinions de Parménide comme pythagoriennes. Bien loin de là, il faut une critique minutieuse pour discerner sur chacune d'elles si l'on se trouve bien en présence d'un emprunt authentique fait à l'École, ou, comme l'indique Zeller, d'une réminiscence des poèmes cosmogoniques, d'une théorie venue de l'Ionie, d'une formule que Parménide aura voulu marquer de son sceau personnel. La comparaison déjà faite entre lui et Alcméon, au chapitre précédent, indique suffisamment comment peut être conduite cette critique et à quels obstacles elle se heurte.
 
@@ -3454,11 +3086,7 @@ Mais une remarque capitale est à faire : il est clair que le corps subtil de Pa
 
 La raison de ce renversement est facile à voir ; dans une cosmologie, il y a nécessité à introduire la lumière et les ténèbres ; or, la lumière ne peut être attribuée qu'au subtil, et, d'autre part, dans une opposition, elle doit occuper le premier rang. J'ai déjà signalé cette antinomie (ch. VIII, 1) et montré les conséquences qu'elle a dû exercer sur l'évolution des doctrines pythagoriennes.
 
-Il est donc clair qu'ici la physique de Parménide ne peut représenter l'enseignement même de Pythagore. Mais celui-ci a-t-il réellement professé une doctrine complète en physique ? C'est là ce que je mets en doute. L'enseignement oral est en tout cas séparé par une telle distance d'une rédaction que tout pythagorien qui a écrit a nécessairement fait secte dans l'École ou s'est rattaché
-
-[p. 228]
-
-à une secte. Parménide a écrit sa physique comme un pythagorien l'eût fait ; il n'a donc pas échappé à la loi fatale ; il faut donc le regarder comme un sectaire ; mais il n'en est pas moins beaucoup plus fidèle au dogme primitif que tout autre sectaire connu, et surtout que Philolaos.
+Il est donc clair qu'ici la physique de Parménide ne peut représenter l'enseignement même de Pythagore. Mais celui-ci a-t-il réellement professé une doctrine complète en physique ? C'est là ce que je mets en doute. L'enseignement oral est en tout cas séparé par une telle distance d'une rédaction que tout pythagorien qui a écrit a nécessairement fait secte dans l'École ou s'est rattaché [p. 228] à une secte. Parménide a écrit sa physique comme un pythagorien l'eût fait ; il n'a donc pas échappé à la loi fatale ; il faut donc le regarder comme un sectaire ; mais il n'en est pas moins beaucoup plus fidèle au dogme primitif que tout autre sectaire connu, et surtout que Philolaos.
 
 8. Je ne m'arrêterai pas longtemps à la donnée péripatéticienne d'après laquelle Parménide aurait donné à son élément subtil le rôle actif de cause, à son élément dense le rôle passif de matière. Éd. Zeller en a fait justice au fond ; quant à la possibilité qu'elle ait trouvé une apparente justification dans le langage de l'Éléate, il faudrait savoir comment il expliquait la genèse du monde et comment il en comprenait la destruction. A cet égard malheureusement, nous n'avons que quelques indices absolument insuffisants et dont nous ne pouvons même guère apprécier la valeur.
 
@@ -3486,9 +3114,7 @@ Mais, en dehors de ces points spéciaux, l'ensemble du système, pour tout ce qu
 
 Mais, d'un autre côté, si Parménide n'a nullement été ni le disciple ni le continuateur de Xénophane, il en connaissait certainement les poésies, et celles-ci ont pu être un autre canal par où lui seront arrivées au moins certaines expressions du Milésien. Il y a là une possibilité dont il faut tenir compte, au point de vue particulier de la recherche que nous avons entreprise.
 
-[p. 230]
-
-Ainsi, quand on nous dit (Aétius, II, 13 et 17) que, d'après Parménide, les astres sont « feutrés » de feu et qu'ils sont nourris des exhalaisons de la terre, l'influence de la tradition ionienne exercée par l'intermédiaire de Xénophane est assez probable ; mais je ne puis apercevoir d'autres traces de cet intermédiaire.
+[p. 230] Ainsi, quand on nous dit (Aétius, II, 13 et 17) que, d'après Parménide, les astres sont « feutrés » de feu et qu'ils sont nourris des exhalaisons de la terre, l'influence de la tradition ionienne exercée par l'intermédiaire de Xénophane est assez probable ; mais je ne puis apercevoir d'autres traces de cet intermédiaire.
 
 Au contraire, si Parménide place la terre au centre du monde et qu'il explique son immobilité par le fait de cette situation centrale et l'absence d'un motif qui la ferait tomber d'un côté plutôt que d'un autre (13), nous retrouvons la pure doctrine d'Anaximandre et il est certain cette fois qu'elle ne vient point du poète de Colophon.
 
@@ -3504,11 +3130,7 @@ Reprenons maintenant la description du doxographe et discutonsla plus attentivem
 
 En premier lieu, la voûte solide qui enveloppe l'univers comme un mur n'appartient point à la doctrine d'Anaximandre, tandis qu'elle est empruntée au système d'Anaximène. Mais, quoique Empédocle ait plus tard adopté la même conception en s'inspirant peut-être du langage de Parménide, on peut, ce semble, soupçonner une erreur. L'Éléate ne distinguant que deux éléments, une épithète donnée au dense a pu être entendue dans le sens de solide, tandis qu'il est certain, par ce qui est dit de la lune, que l'air obscur était compté comme dense par Parménide. La confusion me paraîtrait certaine si le poète avait réellement désigné cette voûte sous le nom d'αἰθήρ ; mais là encore il y a doute, car, dans les vers qui nous restent de lui (ex. v. 141), cette expression semble plutôt désigner la substance au sein de laquelle sont plongés les astres, tandis que la voûte sphérique extrême serait appelée οὐρανὸς ἀμφὶς ἔχων ou bien ὄλυμπος ἔσχατος. En tout cas, on peut dire que Parménide s'était exprimé avec ambiguïté, et cela peut-être volontairement. Remarquons aussi que cette enveloppe limite ne joue aucun rôle dans les phénomènes, qu'elle peut donc être considérée comme immobile ; dans ce cas ce serait une conception propre à Parménide.
 
-A l'intérieur de la voûte sphérique obscure vient d'abord une
-
-[p. 232]
-
-couronne, ignée d'après Aétius. Il ne me paraît pas douteux qu'il ne faille y reconnaître la voie lactée ; mais ce n'est point une couronne de feu pur ; car, si le feu semble former une enceinte continue, il n'apparaît en fait que par expiration, et la nuance blanchâtre de la couronne est précisément due au mélange des deux éléments (13). Au reste, nous avons encore un vers de Parménide ; avec la leçon de Diels,
+A l'intérieur de la voûte sphérique obscure vient d'abord une [p. 232] couronne, ignée d'après Aétius. Il ne me paraît pas douteux qu'il ne faille y reconnaître la voie lactée ; mais ce n'est point une couronne de feu pur ; car, si le feu semble former une enceinte continue, il n'apparaît en fait que par expiration, et la nuance blanchâtre de la couronne est précisément due au mélange des deux éléments (13). Au reste, nous avons encore un vers de Parménide ; avec la leçon de Diels,
 
 126.
 
@@ -3528,11 +3150,7 @@ Cette conception devait avoir une conséquence immédiate pour l'ordre des astre
 
 Il faudrait maintenant pouvoir décider si le système d'Anaximandre, ainsi mis à hauteur des découvertes les plus récentes au temps de Parménide, lui a été ou non transmis par les pythagoriens ; j'écarte Pythagore, dont Alcméon, je crois, représente plus fidèlement l'opinion véritable, quand il considère les astres comme animés, quand il voit dans leur mouvement circulaire et uniforme que l'homme ne peut imiter, en joignant les deux bouts de sa vie, la preuve de leur divinité.
 
-Le système de Parménide a incontestablement une apparence trop mécanique, surtout si l'on fait abstraction du complément dynamique de la Nécessité, sur lequel nous allons revenir à l'instant, et si l'on s'attache de trop près à la représentation de Platon ; mais les pythagoriens ont constamment oscillé du dynamisme au mécanisme, suivant la double direction imprimée par le théosophe et par le mathématicien qui se sont trouvés réunis en leur maître ; d'ailleurs, jusqu'au trait de génie de Philolaos, la révolution diurne,
-
-[p. 234]
-
-surtout reconnue dans le mouvement des planètes, ainsi que nous l'avons dit, ne pouvait se comprendre sans une liaison mécanique qu'on devait même être tenté de se représenter comme établie par une matière solide. Dans le langage dualistique de Parménide, il devait y avoir ambiguïté, nous l'avons vu, sur le caractère de cette liaison ; peut-être cette ambiguïté existait aussi dans sa pensée.
+Le système de Parménide a incontestablement une apparence trop mécanique, surtout si l'on fait abstraction du complément dynamique de la Nécessité, sur lequel nous allons revenir à l'instant, et si l'on s'attache de trop près à la représentation de Platon ; mais les pythagoriens ont constamment oscillé du dynamisme au mécanisme, suivant la double direction imprimée par le théosophe et par le mathématicien qui se sont trouvés réunis en leur maître ; d'ailleurs, jusqu'au trait de génie de Philolaos, la révolution diurne, [p. 234] surtout reconnue dans le mouvement des planètes, ainsi que nous l'avons dit, ne pouvait se comprendre sans une liaison mécanique qu'on devait même être tenté de se représenter comme établie par une matière solide. Dans le langage dualistique de Parménide, il devait y avoir ambiguïté, nous l'avons vu, sur le caractère de cette liaison ; peut-être cette ambiguïté existait aussi dans sa pensée.
 
 Il est certain que, si la physique de Parménide se présentait avec les seuls traits que nous avons marqués jusqu'à présent, surtout si nous la dégagions de quelques éléments conjecturaux que nous y avons introduits, l'Éléate nous apparaîtrait comme un disciple d'Anaximandre passablement fidèle à la tradition de son maître. Mais nous allons le voir mêler à cette tradition, en dehors du dualisme fondamental, deux autres éléments incontestablement pythagoriques ; d'autre part, ses relations, le milieu où il vivait, le langage qu'il tient, tout indique que les opinions qu'il expose appartiennent au pythagorisme exotérique. Il faut donc admettre ou bien que cette École n'avait pas, en réalité, de système physique et que Parménide s'est trouvé obligé par son plan de recourir à une doctrine ionienne, ou bien que cette doctrine formait encore de son temps le fonds essentiel de la physique des pythagoriens du dehors, et que c'est par eux qu'il l'a connue, en même temps que les découvertes scientifiques qui avaient transpiré hors du cercle des mathématiciens. Cette dernière supposition paraîtra sans doute la plus vraisemblable.
 
@@ -3556,11 +3174,7 @@ il est théologue. Quant au véritable mécanisme, il ne fut posé que
 
 matiquement l'opposition mâle-femelle à son dualisme fondamental, il faudrait (voir pages 216 et 228) qu'ici le mâle désignât l'élément sombre, la femelle, l'élément lumineux. Ceci paraît bien douteux.
 
-(1) D'après la tradition des Theologumena, l'Ananké est la décade (aussi κληδοῦχος) ; elle limite la sphère de l'univers, mêle et sépare toutes choses, produit le mouvement et entretient la génération continue des êtres. C'est si voisin de Parménide, qu'on doit se demander si cette donnée ne représente pas seulement son opinion, à part l'identification avec la décade, symbole de l'univers,
-
-[p. 236]
-
-comme négation du dynamisme déjà affirmé ; il date de l'école atomiste. Il est à noter que le pythagorien Ecphante, qui adopta la physique de cette école [^p236-1], conserve le principe du dynamisme comme cause du mouvement (Philosophum., 15).
+(1) D'après la tradition des Theologumena, l'Ananké est la décade (aussi κληδοῦχος) ; elle limite la sphère de l'univers, mêle et sépare toutes choses, produit le mouvement et entretient la génération continue des êtres. C'est si voisin de Parménide, qu'on doit se demander si cette donnée ne représente pas seulement son opinion, à part l'identification avec la décade, symbole de l'univers, [p. 236] comme négation du dynamisme déjà affirmé ; il date de l'école atomiste. Il est à noter que le pythagorien Ecphante, qui adopta la physique de cette école [^p236-1], conserve le principe du dynamisme comme cause du mouvement (Philosophum., 15).
 
 13. Il me paraît inutile de m'arrêter davantage sur ce point, où Parménide se sépare si évidemment de la tradition d'Anaximandre. J'arrive à l'autre divergence, moins remarquée, mais également caractéristique.
 
@@ -3588,9 +3202,7 @@ Il semble donc qu'il faille se représenter deux cônes de faible ouverture, opp
 
 Cette conception soulève une difficulté relative au feu central [^p237-2]
 
-[p. 238]
-
-autour duquel Philolaos faisait circuler la terre et les astres errants. Quelle liaison avait-il avec le feu solaire ? Naturellement invisible pour nous, puisque nous sommes constamment supposés sur l'hémisphère qui lui est opposé, comment n'éclaire-t-il pas au moins suffisamment la lune pour que nous la voyions constamment pleine ?
+[p. 238] autour duquel Philolaos faisait circuler la terre et les astres errants. Quelle liaison avait-il avec le feu solaire ? Naturellement invisible pour nous, puisque nous sommes constamment supposés sur l'hémisphère qui lui est opposé, comment n'éclaire-t-il pas au moins suffisamment la lune pour que nous la voyions constamment pleine ?
 
 J'admets que Philolaos se représentait le feu central comme relativement faible, analogue à la voie lactée ; suffisant à cause de sa faible distance pour éclairer et échauffer sans excès la face de l'antichthone dirigée vers lui, il n'avait plus, à la distance de la lune, d'effet sensible en présence de celui du soleil où se concentrait, pour ainsi dire, la plus grande masse du feu cosmique.
 
@@ -3612,9 +3224,7 @@ DOXOGRAPHIE DE
 
 PARMÉNIDE[^p239-1][^p239-2]
 
-[p. 240]
-
-originairement nés du limon. Les causes qui ont constitué toutes choses sont le chaud et le froid. L'intelligence et l'âme sont une même chose. C'est ce qui est également mentionné par Théophraste dans les « Physiciens », où il exposé presque toutes les doctrines. Parménide a dit aussi que la philosophie est double, d'un côté selon la vérité, de l'autre selon l'opinion ; il s'exprime comme suit à ce sujet : (vers 28-30).
+[p. 240] originairement nés du limon. Les causes qui ont constitué toutes choses sont le chaud et le froid. L'intelligence et l'âme sont une même chose. C'est ce qui est également mentionné par Théophraste dans les « Physiciens », où il exposé presque toutes les doctrines. Parménide a dit aussi que la philosophie est double, d'un côté selon la vérité, de l'autre selon l'opinion ; il s'exprime comme suit à ce sujet : (vers 28-30).
 
 3. THEOPHR., fr. 7 (Simplic. in physic., 25 a). — Au rapport d'Alexandre, voici l'exposé que Théophraste en donne dans le premier livre de l'Histoire physique :
 
@@ -3646,9 +3256,7 @@ chose qu'il s'imagine semblable à une couronne (nom qu'il lui donne), un cercle
 
 25. Parménide et Démocrite : Tout arrive par nécessité ; ils disent aussi fatalité, justice, providence, auteur du monde.[^p241-2][^p241-3][^p241-4]
 
-[p. 242]
-
-12. AÉTIUS, II.
+[p. 242] 12. AÉTIUS, II.
 
 20. Parménide et Métrodore : Le soleil est igné.
 
@@ -3706,11 +3314,7 @@ de chaque côté, cédant à l'élan de la course impétueuse.
 
 | c'est la loi et la justice. Il faut que tu apprennes toutes choses,
 
-et le cœur fidèle de la vérité qui s'impose, 30 et les opinions humaines qui sont en dehors de la vraie certitude. | Quelles qu'elles soient, tu dois les connaître également, et tout
-
-[p. 244]
-
-ce dont on juge, | il faut que tu puisses en juger, passant toutes choses en revue.
+et le cœur fidèle de la vérité qui s'impose, 30 et les opinions humaines qui sont en dehors de la vraie certitude. | Quelles qu'elles soient, tu dois les connaître également, et tout [p. 244] ce dont on juge, | il faut que tu puisses en juger, passant toutes choses en revue.
 
 |
 
@@ -3776,9 +3380,7 @@ Jamais tu ne feras que ce qui n'est pas soit ; | détourne donc ta pensée de ce
 
 | prendre
 
-[p. 245]
-
-CHAPITRE. IX. — PARMÉNIDE D'ÉLÉE (F).
+[p. 245] CHAPITRE. IX. — PARMÉNIDE D'ÉLÉE (F).
 
 l'autre, que l'ètre est véritablement.
 
@@ -3838,11 +3440,7 @@ On a constitué pour la connaissance deux formes sous deux noms ;
 
 | c'est une de trop, et c'est en cela que consiste l'erreur.
 
-| 115 | On a séparé et opposé les corps, posé les limites | qui les bornent réciproquement ; d'une part, le feu éthérien, la flamme | bienfaisante, subtile, légère, partout identique
-
-[p. 246]
-
-à elle-même,
+| 115 | On a séparé et opposé les corps, posé les limites | qui les bornent réciproquement ; d'une part, le feu éthérien, la flamme | bienfaisante, subtile, légère, partout identique [p. 246] à elle-même,
 
 | mais différente de la seconde forme ; d'autre part, celle-ci,
 
@@ -3902,11 +3500,7 @@ ZÉNON D'ÉLÉE
 
 Il y a là, ce me semble, une erreur facile à réfuter. D'une part, en présence d'un document tel que le fragment d'Eudème sur la quadrature des lunules par Hippocrate de Chios, il est permis d'affirmer que, dès avant l'époque des sophistes, les méthodes essentielles étaient constituées en géométrie et que les démonstrations avaient déjà revêtu la forme destinée à devenir classique. D'un autre côté, aucun témoignage de l'antiquité ne permet de soupçonner que les sophistes se soient attaqués aux géomètres ; tout au contraire, Platon, par exemple, nous montre son maître, Théodore de Cyrène, comme particulièrement lié avec Protagoras et comme partageant ses idées. Hippias d'Élis fut un mathématicien remarquable, à qui l'on doit l'invention de la première courbe (la quadratrice) qui ait été considérée après le cercle. Enfin, si Antiphon ou Bryson se sont plus ou moins malheureusement essayés à la quadrature du cercle, ils ont en tout cas plutôt marché dans la vie du progrès, et ils n'ont nullement tenté de contester les vérités déjà acquises, comme ont pu le faire, bien plus tard, les épicuriens ou les sceptiques.
 
-La rigueur logique de la géométrie grecque doit donc être consi-
-
-[p. 248]
-
-dérée comme provenant exclusivement du caractère propre à la race hellène ; elle s'est gardée scientifiquement, non pas contre de vaines attaques, mais contre les erreurs où entraînent les raisonnements mal conduits chez un peuple qui aime à raisonner ; ce fut là notamment l'objet des Ψευδάρια d'Euclide. Quant à l'emploi si fatigant de la méthode de réduction à l'absurde, il faut aussi y voir un trait particulier du génie grec, trait qui apparaît d'une façon si frappante dans la dialectique de Zénon d'Élée.
+La rigueur logique de la géométrie grecque doit donc être consi-[p. 248]dérée comme provenant exclusivement du caractère propre à la race hellène ; elle s'est gardée scientifiquement, non pas contre de vaines attaques, mais contre les erreurs où entraînent les raisonnements mal conduits chez un peuple qui aime à raisonner ; ce fut là notamment l'objet des Ψευδάρια d'Euclide. Quant à l'emploi si fatigant de la méthode de réduction à l'absurde, il faut aussi y voir un trait particulier du génie grec, trait qui apparaît d'une façon si frappante dans la dialectique de Zénon d'Élée.
 
 Les récents historiens de la mathématique les plus autorisés [^p248-2] ont vu très nettement qu'à la différence des sophistes proprement dits, ce dernier penseur a exercé au contraire une action très importante au point de vue de la science abstraite, et ils ont exactement reconnu quels concepts fondamentaux se sont élucidés à la suite de la polémique qu'il a ouverte ; mais s'en tenant, pour spécifier la position prise par Zénon d'Élée, aux résumés courants de sa doctrine, ils n'ont pas déterminé le but véritable de son argumentation, et ils l'ont, par suite, encore estimé beaucoup audessous de sa valeur réelle.
 
@@ -3932,9 +3526,7 @@ Tel, en fait, dut apparaître Zénon dès l'antiquité aux yeux de bien des gens
 
 On a supposé que les opinions visées par Zénon étaient celles d'Anaxagore ou de Leucippe, ce qui est également insoutenable ; on n'a pas pensé aux pythagoriens que tout indiquait cependant : c'est qu'on se fait d'ordinaire sur les doctrines de ces derniers, à cette époque, une opinion tout à fait erronée.[^p249-1]
 
-[p. 250]
-
-duit plus ou moins exactement leur enseignement exotérique relatif à la cosmologie et à la physique, mais en tout cas, il avait nié la vérité de leur thèse dualiste ; d'un autre côté, dans sa théorie ontologique, présentée comme étant d'une rigueur et d'une certitude mathématiques, il ne les avait pas, à vrai dire, attaqués directement. Son principe fondamental, sur l'être et le non-être, revenait au fond au postulat — rien ne se fait de rien — déjà
+[p. 250] duit plus ou moins exactement leur enseignement exotérique relatif à la cosmologie et à la physique, mais en tout cas, il avait nié la vérité de leur thèse dualiste ; d'un autre côté, dans sa théorie ontologique, présentée comme étant d'une rigueur et d'une certitude mathématiques, il ne les avait pas, à vrai dire, attaqués directement. Son principe fondamental, sur l'être et le non-être, revenait au fond au postulat — rien ne se fait de rien — déjà
 
 admis, au moins implicitement, par tous les penseurs qui l'avaient précédé ; pour l'établir, il n'avait donc à réfuter que l'opinion vulgaire sur la genèse et la destruction ; mais, de ce principe une fois posé, il tirait des conséquences toutes nouvelles, et notamment celles sur l'unité, la continuité, l'immobilité de l'univers contredisaient les doctrines pythagoriennes.
 
@@ -3962,9 +3554,7 @@ C'est en effet cette formule, prise en ce sens, que combat Zénon en l'exprimant
 
 Le succès de Zénon fut complet ; ses adversaires ne pouvaient lui répondre. Si la définition pythagorienne du point, inoffensive en réalité dans la géométrie, subsista par tradition jusqu'à Euclide, si l'École ne fit que s'attacher davantage à la formule : « les choses sont nombres, » elle ne lui donna plus qu'une signification symbolique à tendance idéaliste, celle qu'on lui attribue d'ordinaire dès le temps de Pythagore, mais qu'il ne faut pas faire remonter au delà de Philolaos ; d'autre part, l'antique conception dualistique fut transformée et mise d'accord avec les progrès de la pensée par
 
-[p. 252]
-
-Leucippe et Démocrite au moyen de l'adoption de la forme atomistique, qui rallia ultérieurement une importante fraction pythagorienne (Ecphante, etc.).
+[p. 252] Leucippe et Démocrite au moyen de l'adoption de la forme atomistique, qui rallia ultérieurement une importante fraction pythagorienne (Ecphante, etc.).
 
 5. J'ai à justifier maintenant ma thèse par un examen circonstancié des arguments de Zénon et à déterminer jusqu'à quel point ils furent entendus dans leur sens véritable par les témoins de l'antiquité qui nous ont conservé ces arguments.
 
@@ -3972,19 +3562,15 @@ Avant tout, Aristote ne doit pas s'y être trompé ; c'est ainsi seulement qu'on
 
 Théophraste nous fait défaut ; Zénon n'était point un physicien et son nom n'apparaît chez les doxographes que pour des indications vagues ou d'une origine suspecte [^p252-1]. C'est Eudème qui va nous fournir les textes les plus précis, non pas dans ses histoires mathématiques, mais dans ses livres de physique, compilés par Simplicius ; or, déjà le disciple d'Aristote semble ne connaître la question que par tradition et se laisse aller à donner à Zénon une position sceptique.
 
-(Simplic. in physic., 21 a.) « On rapporte que Zénon disait »que, si quelqu'un lui enseignait ce qu'est l'un, il pourrait dire » ce que sont les choses. La difficulté, semble-t-il, était que chaque » chose sensible est pluralité, soit eu égard à ses attributs, soit par »division, et qu'il pose le point comme n'étant rien ; car ce qui,
-
-[p. 253]
+(Simplic. in physic., 21 a.) « On rapporte que Zénon disait »que, si quelqu'un lui enseignait ce qu'est l'un, il pourrait dire » ce que sont les choses. La difficulté, semble-t-il, était que chaque » chose sensible est pluralité, soit eu égard à ses attributs, soit par »division, et qu'il pose le point comme n'étant rien ; car ce qui, [p. 253]
 
 ### Chapitre X. — Zénon D'Élée.
 
 » étant ajouté, ne fait pas augmentation et, étant retranché, ne » fait pas diminution, il le considérait comme ne faisant pas partie »de ce qui est..... Si Zénon était devant nous, nous répondrions »qu'en acte ce qui est un n'est pas pluralité ; l'unité lui appartient »proprement, la pluralité n'est qu'en puissance. »
 
-L'élève du Stagirite tient naturellement à appliquer la formule de son maître ; il introduit d'ailleurs la pluralité des attributs, dont Aristote se préoccupe au passage commenté, mais qui n'a rien à faire avec l'argument de Zénon ; la forme sceptique attribuée à la doctrine de l'Éléate peut d'ailleurs tenir au mode d'exposition dialogué de cet argument, mais ce dernier est très clair, et Alexandre d'Aphrodisias (Simplic., 21 b) le reproduit très bien. La pluralité est une collection d'unités, il faut donc savoir ce que serait l'unité dans les êtres ; d'après l'adversaire, c'est le point ; mais le point n'est rien ; donc il n'y a pas pluralité. Simplicius (ibid.) se trompe en croyant que d'après Eudème, Zénon nie aussi l'unité ; il nie seulement que l'unité soit le point, qui n'est rien ; l'unité pour lui, comme pour Parménide, c'est l'ensemble des choses ; les divisions qu'on y introduit ne lui enlèvent pas sa continuité réelle ni son caractère d'unité ; il ne faut pas transférer ce caractère à un prétendu élément indivisible des corps.[^p253-1]
+L'élève du Stagirite tient naturellement à appliquer la formule de son maître ; il introduit d'ailleurs la pluralité des attributs, dont Aristote se préoccupe au passage commenté, mais qui n'a rien à faire avec l'argument de Zénon ; la forme sceptique attribuée à la doctrine de l'Éléate peut d'ailleurs tenir au mode d'exposition dialogué de cet argument, mais ce dernier est très clair, et Alexandre d'Aphrodisias (Simplic., 21 b) le reproduit très bien. La pluralité est une collection d'unités, il faut donc savoir ce que serait l'unité dans les êtres ; d'après l'adversaire, c'est le point ; mais le point n'est rien ; donc il n'y a pas pluralité. Simplicius (*ibid.*) se trompe en croyant que d'après Eudème, Zénon nie aussi l'unité ; il nie seulement que l'unité soit le point, qui n'est rien ; l'unité pour lui, comme pour Parménide, c'est l'ensemble des choses ; les divisions qu'on y introduit ne lui enlèvent pas sa continuité réelle ni son caractère d'unité ; il ne faut pas transférer ce caractère à un prétendu élément indivisible des corps.[^p253-1]
 
-[p. 254]
-
-deur que l'on prendra, il y en aura toujours une autre, en raison de la division à l'infini ; après l'avoir prouvé, il montre que la grandeur est nulle par la raison que chacun des éléments de la pluralité est un et identique à lui-même. Thémistius dit que Zénon prouve l'unité de l'être par la raison qu'il est continu et indivisible, car, s'il se divisait, il n'y aurait pas d'unité rigoureuse en raison de la division des corps à l'infini. Mais Zénon semble plutôt nier la pluralité. ».....
+[p. 254] deur que l'on prendra, il y en aura toujours une autre, en raison de la division à l'infini ; après l'avoir prouvé, il montre que la grandeur est nulle par la raison que chacun des éléments de la pluralité est un et identique à lui-même. Thémistius dit que Zénon prouve l'unité de l'être par la raison qu'il est continu et indivisible, car, s'il se divisait, il n'y aurait pas d'unité rigoureuse en raison de la division des corps à l'infini. Mais Zénon semble plutôt nier la pluralité. ».....
 
 (30 b). « Après avoir montré que, « si l'être n'a pas de grandeur, il n'est pas, » Zénon ajoute :
 
@@ -3996,9 +3582,7 @@ de grandeur, tellement grandes qu'elles soient infinies. »>
 
 Simplicius croit avoir sous les yeux le texte même de Zénon ; il le donne, dit-il, κατὰ λέξιν ; mais l'authenticité de l'ouvrage qu'il possédait est assez suspecte si, comme le remarque Zeller, Alexandre d'Aphrodisias, Porphyre, Proclus ne l'ont pas connu, si Eudème lui-même ne parle que par ouï-dire. D'ailleurs l'ouvrage de Zénon était probablement dialogué, et le texte de Simplicius n'offre aucune trace de dialogue. Il est donc assez probable que le commentateur d'Aristote ne possédait qu'un résumé de la polémique de Zénon (peut-être un travail analogue au De Melisso), et quoique ce résumé paraisse fidèle, nous ne sommes nullement forcés de le regarder comme rigoureusement exact.
 
-En reprenant la suite des raisonnements indiqués, on reconnaît d'ailleurs que Zénon ne prouve nullement en fait que les choses seraient en même temps infiniment grandes et infiniment petites ; en réalité, il enferme son interlocuteur dans un dilemme. Admettant la possibilité de la division à l'infini (par dichotomie) comme évidente, il établit facilement qu'elle donnera des parties de plus en plus petites, sans qu'il y ait de terme à la diminution. Donc,
-
-[p. 255]
+En reprenant la suite des raisonnements indiqués, on reconnaît d'ailleurs que Zénon ne prouve nullement en fait que les choses seraient en même temps infiniment grandes et infiniment petites ; en réalité, il enferme son interlocuteur dans un dilemme. Admettant la possibilité de la division à l'infini (par dichotomie) comme évidente, il établit facilement qu'elle donnera des parties de plus en plus petites, sans qu'il y ait de terme à la diminution. Donc, [p. 255]
 
 ### Chapitre X. -
 
@@ -4008,9 +3592,7 @@ Mais (seconde partie du dilemme) l'adversaire peut soutenir que la division ne d
 
 En somme, Zénon démontre rigoureusement que le continu (c'est-à-dire le divisible à l'infini) ne peut être conçu comme une somme d'éléments indivisibles, suivant le préjugé vulgaire adopté par les pythagoriens ; car, si ces éléments n'ont aucune grandeur, leur somme ne peut en avoir ; s'ils ont au contraire une grandeur, comme leur nombre est infini, leur somme serait infinie.[^p255-1]
 
-[p. 256]
-
-ce que, dans ses divisions, Zénon procédait toujours par moitié, pour plus de simplicité.
+[p. 256] ce que, dans ses divisions, Zénon procédait toujours par moitié, pour plus de simplicité.
 
 Le même mode de division était employé par l'Éléate dans le premier des quatre arguments sur le mouvement, que rapporte Aristote (Phys., VI, 9).
 
@@ -4020,7 +3602,7 @@ Dans le premier argument, en effet, la dichotomie conduit à un nombre de points
 
 Mais il est clair que ce principe pouvait donner lieu à objection et l'on n'a pas remarqué jusqu'à présent que les différents arguments sur le mouvement constituent les différentes branches d'un dilemme double. En fait Zénon ne veut nullement nier le mouvement, mais démontrer qu'il est inconciliable avec la conception de l'espace comme une somme de points.
 
-Son premier argument part de la dichotomie, toujours admise a priori comme pouvant être indéfiniment prolongée. Mais l'adversaire ébauche peut-être la distinction d'Aristote, il objecte que ces points en nombre infini ne sont donnés que par la division, que celle-ci demande un certain temps et que le mouvement la devance ; Zénon lui répond par l'Achille, argument auquel ne peut être faite la même objection.[^p256-1]
+Son premier argument part de la dichotomie, toujours admise *a priori* comme pouvant être indéfiniment prolongée. Mais l'adversaire ébauche peut-être la distinction d'Aristote, il objecte que ces points en nombre infini ne sont donnés que par la division, que celle-ci demande un certain temps et que le mouvement la devance ; Zénon lui répond par l'Achille, argument auquel ne peut être faite la même objection.[^p256-1]
 
 [p. 257]
 
@@ -4036,9 +3618,7 @@ Zénon tient en réserve son quatrième argument qui a été complètement méco
 
 Pour mener son raisonnement à bout, Zénon imagine trois files parallèles de points juxtaposés (suivant la thèse de son adversaire) ; il appelle ὄγκοι ces points, parce que, dans cette thèse même, les éléments ultimes de la matière possèdent nécessairement une certaine masse ; ce terme a rendu l'argument incompréhensible, parce qu'on a cru que Zénon voulait parler de corps de dimensions finies ; mais ce même terme a été technique pour désigner les atomes dans les écoles qui se rattachent précisément aux pythagoriens (Héraclide du Pont, Xénocrate, etc.). Le sens que je lui donne, nécessaire pour donner quelque valeur à l'argumentation, est donc parfaitement justifié.
 
-[p. 258]
-
-L'une de ces files parallèles de points, A, est immobile ; deux autres, B et C, se meuvent en sens inverse l'une de l'autre, avec une vitesse égale. Le mouvement relatif de C par rapport à Best double évidemment du mouvement de C par rapport à A ; pendant que C parcourt une certaine longueur, passe devant un certain nombre de points sur B, il ne parcourt que la moitié de cette longueur, ne passe que devant un nombre de points moitié moindre sur A ; ce n'est donc pas le passage d'un point au suivant qui correspond à l'instant élément de temps, car il serait alors facile de conclure que la moitié est égale au double.
+[p. 258] L'une de ces files parallèles de points, A, est immobile ; deux autres, B et C, se meuvent en sens inverse l'une de l'autre, avec une vitesse égale. Le mouvement relatif de C par rapport à Best double évidemment du mouvement de C par rapport à A ; pendant que C parcourt une certaine longueur, passe devant un certain nombre de points sur B, il ne parcourt que la moitié de cette longueur, ne passe que devant un nombre de points moitié moindre sur A ; ce n'est donc pas le passage d'un point au suivant qui correspond à l'instant élément de temps, car il serait alors facile de conclure que la moitié est égale au double.
 
 Aristote a méconnu le premier le caractère de cet argument ; il a cru à un paralogisme de Zénon et l'a accusé d'ignorer la différence entre un mouvement relatif et un mouvement absolu. Tout doit, au contraire, nous porter à croire que Zénon était incapable d'une pareille erreur et que sa combinaison a été ingénieusement imaginée pour faire concevoir deux mouvements en rapport de vitesse double, sans qu'aucune objection pût s'élever à cet égard.
 
@@ -4048,9 +3628,7 @@ Il est clair qu'il n'y a nullement là une thèse idéaliste. De même que Parm�
 
 Cependant la portée de cette conclusion ne doit pas être exagérée ; s'ils sont partis du point de vue concret, les deux Éléates se sont élevés à l'abstrait ; ils ont distingué le sensible de l'intellectuel, et s'ils n'ont pas constitué une théorie de la connaissance, ils ont fait, l'un après l'autre, deux pas décisifs dans cette voie.
 
-Parménide a déterminé l'intelligibilité comme condition nécessaire de l'être ; voici maintenant Zénon qui nie que le point, et par suite la ligne, la surface, soient des choses existant réellement ; ce sont cependant, et au plus haut degré, des choses intelligibles. Il y a donc désormais démarcation définitive entre le point de vue géométrique et le point de vue sensible ; les εἴδη μαθηματικά se trouvent, du coup, constitués en opposition aux εἴδη αἰσθητά,
-
-[p. 259]
+Parménide a déterminé l'intelligibilité comme condition nécessaire de l'être ; voici maintenant Zénon qui nie que le point, et par suite la ligne, la surface, soient des choses existant réellement ; ce sont cependant, et au plus haut degré, des choses intelligibles. Il y a donc désormais démarcation définitive entre le point de vue géométrique et le point de vue sensible ; les εἴδη μαθηματικά se trouvent, du coup, constitués en opposition aux εἴδη αἰσθητά, [p. 259]
 
 ### Chapitre X. — Zénon D'Élée.
 
@@ -4060,11 +3638,7 @@ Il est permis d'ailleurs de se demander si Zénon n'a pas luimême dépassé le 
 
 Il y a toutefois une aporie de Zénon, citée par Aristote (Phys., IV, 3), qui nous le montre faisant encore un pas réel dans la théorie de la connaissance. Il a nié que l'espace fût un être, et il en a ainsi reconnu la relativité [^p259-1].
 
-Quant à sa proposition (Phys., VII, 5), que toute partie d'un grain de millet fait du bruit en tombant, si petite qu'elle soit [^p259-2], elle a un tout autre caractère. Aristote a tort de la contredire, car
-
-[p. 260]
-
-elle est irréfutable au point de vue objectif, et c'est le point de vue que garde toujours Zénon dans ses raisonnements sur les choses sensibles.
+Quant à sa proposition (Phys., VII, 5), que toute partie d'un grain de millet fait du bruit en tombant, si petite qu'elle soit [^p259-2], elle a un tout autre caractère. Aristote a tort de la contredire, car [p. 260] elle est irréfutable au point de vue objectif, et c'est le point de vue que garde toujours Zénon dans ses raisonnements sur les choses sensibles.
 
 10. Il me resterait maintenant à confirmer ce que j'ai avancé, qu'après Zénon, les thèses qu'il avait attaquées n'ont pas reparu. Je me contenterai de quelques indications à ce sujet.
 
@@ -4112,9 +3686,7 @@ Depuis la ruine de Milet, l'essor intellectuel était au contraire singulièreme
 
 Si l'on reprend en détail là comparaison des thèses de Mélissos avec celles de Parménide, il est facile de reconnaître l'influence de l'héraclitisme sur les premières. Quand l'Éléate avait nié qu'une chose qui n'est pas puisse devenir une chose qui est, le Samien nie qu'une chose qui n'est pas blanche puisse devenir une chose qui est blanche. C'est la réplique forcée à l'héraclitisant qui disait : Cette chose est et n'est pas blanche.[^p263-1]
 
-[p. 264]
-
-deux mille ans à l'idée de Dieu ; il a, le premier, parcouru le cercle limité où la philosophie religieuse a tourné depuis, en cherchant vainement à l'agrandir, et où le spiritualisme s'est usé comme le panthéisme. Éternel, infini, un, immuable, voilà en effet les affirmations de la raison, quand elle croit pouvoir affirmer ; au delà elle se heurte à des obstacles infranchissables. Comment donc un penseur tel que nous apparaît Mélissos est-il, d'ordinaire, classé à un rang inférieur ? Comment ne lui reconnaît-on pas l'importance majeure que ses thèses ont, historiquement, acquise en philosophie ?
+[p. 264] deux mille ans à l'idée de Dieu ; il a, le premier, parcouru le cercle limité où la philosophie religieuse a tourné depuis, en cherchant vainement à l'agrandir, et où le spiritualisme s'est usé comme le panthéisme. Éternel, infini, un, immuable, voilà en effet les affirmations de la raison, quand elle croit pouvoir affirmer ; au delà elle se heurte à des obstacles infranchissables. Comment donc un penseur tel que nous apparaît Mélissos est-il, d'ordinaire, classé à un rang inférieur ? Comment ne lui reconnaît-on pas l'importance majeure que ses thèses ont, historiquement, acquise en philosophie ?
 
 Il y a à cela une double raison : la première est que son mode d'argumenter est emprunté aux Éléates et que son originalité se trouve masquée par cette forme étrangère, quoiqu'il l'adapte à de nouvelles questions ; la seconde est qu'Aristote le malmène dans ses appréciations et va jusqu'à dire qu'il conçoit l'être comme matériel. On a donc cherché, pour justifier l'opinion du Stagirite, à rabaisser Mélissos en critiquant la portée de ses thèses et la valeur de ses raisonnements.
 
@@ -4136,9 +3708,7 @@ La forme sous laquelle se détermine ainsi ce qui, dans l'univers, est constant,
 
 C'est ainsi que la science reconnaît la permanence de la masse, celle de la quantité de mouvement, de la somme des moments des quantités de mouvement, enfin qu'elle postule celle de la force vive. Ces diverses déterminations sont essentiellement abstraites ; leur diversité et même leur indépendance ne masque certainement pas d'ailleurs l'unité du monde phénoménal, car on peut sans doute les concevoir comme rentrant sous une loi complète dont nous n'avons fait jusqu'à présent que reconnaître quelques traits.[^p265-1]
 
-[p. 266]
-
-phénomènes comme limitée par l'espace. Les deux questions paraissent donc indépendantes.
+[p. 266] phénomènes comme limitée par l'espace. Les deux questions paraissent donc indépendantes.
 
 S'il était vrai que dans son argumentation, Mélissos eût, comme on le prétend, entendu par infinitude l'infinitude dans l'espace, le vice de sa déduction serait palpable. Mais on ne doit certainement pas lui attribuer une pareille thèse, alors qu'il nie formellement que l'« être » soit étendu. Il entend sans aucun doute l'infinitude au sens abstrait ; c'est là un concept dont il faut lui faire honneur, qu'il soit ou non valable, et dont il se sert pour affirmer l'unité.
 
@@ -4168,11 +3738,7 @@ Mais les négations auxquelles nous avons fait allusion, étaientelles seulement
 
 Une question d'ailleurs se pose ici que l'état de la chronologie ne permet point de trancher. Alors que Mélissos fait des allusions expresses aux physiciens, quels sont ceux qu'il a considérés, quels sont au contraire ceux qui lui sont certainement inconnus ?
 
-Éd. Zeller (II, p. 91) admet qu'il a eu égard à Empédocle, en démontrant l'indivisibilité de l'être et l'impossibilité du mélange, aux atomistes, dans les arguments qu'il dirige contre le mouve
-
-[p. 268]
-
-ment ; mais le fragment 15, sur l'indivisibilité, ne dénote pas plus une polémique contre Empédocle que contre Anaximène ou contre Héraclite, car eux aussi admettaient que la matière primordiale se divise selon ses formes secondaires et cela par mouvement. Quant à l'argumentation contre l'idée de mélange, elle n'apparaît que dans le traité inauthentique De Melisso, et la doctrine réfutée avait déjà paru avant Empédocle, non seulement en Italie (Alcméon, physique de Parménide), mais sans doute aussi en Ionie, par exemple dans les écrits médicaux antéhippocratiques ; elle pouvait d'ailleurs se déduire de la physique d'Anaximandre et se concilier parfaitement avec les idées d'Héraclite, comme dans le traité pseudo-hippocratique De diaeta.
+Éd. Zeller (II, p. 91) admet qu'il a eu égard à Empédocle, en démontrant l'indivisibilité de l'être et l'impossibilité du mélange, aux atomistes, dans les arguments qu'il dirige contre le mouve [p. 268] ment ; mais le fragment 15, sur l'indivisibilité, ne dénote pas plus une polémique contre Empédocle que contre Anaximène ou contre Héraclite, car eux aussi admettaient que la matière primordiale se divise selon ses formes secondaires et cela par mouvement. Quant à l'argumentation contre l'idée de mélange, elle n'apparaît que dans le traité inauthentique De Melisso, et la doctrine réfutée avait déjà paru avant Empédocle, non seulement en Italie (Alcméon, physique de Parménide), mais sans doute aussi en Ionie, par exemple dans les écrits médicaux antéhippocratiques ; elle pouvait d'ailleurs se déduire de la physique d'Anaximandre et se concilier parfaitement avec les idées d'Héraclite, comme dans le traité pseudo-hippocratique De diaeta.
 
 5. Je ne vois pas davantage que les arguments de Mélissos supposent la connaissance de l'école atomistique ; ils sont tout à fait comparables à ceux de Parménide ou, si l'on veut, à ceux d'Anaxagore. Ce qu'il dit en particulier (fr. 5) sur le mouvement dans le plein est trop obscur pour tirer à conséquence. Enfin il semble beaucoup plus insister sur la négation des différences de condensation et de raréfaction, ce qui se rapporte plutôt à l'école d'Anaximène, ainsi que le reconnaît Éd. Zeller.
 
@@ -4192,11 +3758,7 @@ Il ne faut pas se figurer que la notion du vide absolu se soit produite ex abrup
 
 Comment, tout étant plein, tout a pu se mouvoir.
 
-Anaxagore et Mélissos la trouvent également posée et la traitent en deux sens opposés. Le premier reste sur le terrain de l'empirisme et n'y voit pas de difficulté ; le second, qui l'envisage in abstracto, la déclare insoluble. En fait, les Éléates et lui sont arrivés à déterminer négativement le concept du vide absolu, par
-
-[p. 270]
-
-cela même qu'ils ont voulu déterminer positivement la notion de l'être. Le rôle des atomistes fut de reprendre ce concept, d'en affirmer l'intelligibilité et de le faire servir à l'explication des phénomènes de la nature. Leur succès fut nécessairement la ruine de l'éléatisme, dont les conséquences aboutissaient à la négation même des problèmes de la science. Tout au contraire, la façon dont les Éléates, de Parménide à Mélissos, traitent la question du non-être, indique qu'ils n'ont point à combattre une doctrine précise qui soutienne l'existence du vide absolu et qui en tire des conséquences sérieuses.
+Anaxagore et Mélissos la trouvent également posée et la traitent en deux sens opposés. Le premier reste sur le terrain de l'empirisme et n'y voit pas de difficulté ; le second, qui l'envisage *in abstracto*, la déclare insoluble. En fait, les Éléates et lui sont arrivés à déterminer négativement le concept du vide absolu, par [p. 270] cela même qu'ils ont voulu déterminer positivement la notion de l'être. Le rôle des atomistes fut de reprendre ce concept, d'en affirmer l'intelligibilité et de le faire servir à l'explication des phénomènes de la nature. Leur succès fut nécessairement la ruine de l'éléatisme, dont les conséquences aboutissaient à la négation même des problèmes de la science. Tout au contraire, la façon dont les Éléates, de Parménide à Mélissos, traitent la question du non-être, indique qu'ils n'ont point à combattre une doctrine précise qui soutienne l'existence du vide absolu et qui en tire des conséquences sérieuses.
 
 6. Ainsi, sans qu'il soit possible d'en donner une démonstration rigoureuse, nous sommes amenés à croire que Mélissos n'a eu connaissance ni d'Anaxagore, ni d'Empédocle, ni des atomistes, et nous pouvons maintenir intégralement l'appréciation que nous avons donnée, en commençant ce chapitre, de son rôle et de sa position.
 
@@ -4212,17 +3774,13 @@ l'un garda le renom d'un paradoxal disputeur, l'autre d'un penseur secondaire, e
 
 FRAGMENTS DE MÉLISSOS
 
-1. Si aucune chose n'est, qu'en pourrait-on dire comme si quelque chose était ? Si quelque chose est, elle est ou devenue ou toujours étant. Mais si elle est devenue, c'est d'une chose étant ou n'étant pas. Or, il n'est possible que rien devienne ni d'une chose n'étant pas (rien, ni une autre n'étant rien, ni a fortiori ce qui est simplement) ni d'une chose étant ; car dans ce dernier cas, la chose serait et ne deviendrait pas. Donc ce qui est n'est pas devenu ; dès lors il est toujours. — Ce qui est ne peut pas davantage périr ; car il n'est pas possible que ce qui est se transforme ni en ce qui n'est pas (ce dont les physiciens conviennent d'ailleurs) ni en ce qui est. Dans ce cas, en effet, il subsisterait et ne périrait pas. Ainsi ce qui est n'est pas devenu et ne périra pas ; donc il a été et sera toujours.
+1. Si aucune chose n'est, qu'en pourrait-on dire comme si quelque chose était ? Si quelque chose est, elle est ou devenue ou toujours étant. Mais si elle est devenue, c'est d'une chose étant ou n'étant pas. Or, il n'est possible que rien devienne ni d'une chose n'étant pas (rien, ni une autre n'étant rien, ni *a fortiori* ce qui est simplement) ni d'une chose étant ; car dans ce dernier cas, la chose serait et ne deviendrait pas. Donc ce qui est n'est pas devenu ; dès lors il est toujours. — Ce qui est ne peut pas davantage périr ; car il n'est pas possible que ce qui est se transforme ni en ce qui n'est pas (ce dont les physiciens conviennent d'ailleurs) ni en ce qui est. Dans ce cas, en effet, il subsisterait et ne périrait pas. Ainsi ce qui est n'est pas devenu et ne périra pas ; donc il a été et sera toujours.
 
 2. Mais ce qui est devenu a un commencement, ce qui n'est pas devenu n'a pas de commencement ; or, ce qui est n'est pas devenu ; il n'aurait donc pas de commencement. D'autre part, ce qui périt a une fin, mais si quelque chose est impérissable, elle n'a point de fin ; donc ce qui est, étant impérissable, n'a point de fin. Mais ce qui n'a ni fin ni commencement est infini. Donc l'être est infini.
 
 3. Mais s'il est infini, il est un ; car s'il y avait deux êtres, ils ne pourraient être infinis, mais se limiteraient réciproquement ; or, l'ètre est infini ; donc il n'y a pas de pluralité d'ètres, et l'être est un.
 
-4. Mais s'il est un, il est aussi immuable ; car l'un est toujours semblable à lui-même, et le semblable ne peut ni perdre, ni gagner, ni subir un changement d'ordre interne, ni ressentir de
-
-[p. 272]
-
-la douleur ou du chagrin. S'il éprouvait rien de tout cela, c'est qu'il ne serait pas un ; car ce qui subit un mouvement quelconque change de quelque chose en quelqu'autre ; mais en dehors de ce qui est, il n'y a rien d'autre ; il ne peut donc y avoir de mouvement pour l'être.
+4. Mais s'il est un, il est aussi immuable ; car l'un est toujours semblable à lui-même, et le semblable ne peut ni perdre, ni gagner, ni subir un changement d'ordre interne, ni ressentir de [p. 272] la douleur ou du chagrin. S'il éprouvait rien de tout cela, c'est qu'il ne serait pas un ; car ce qui subit un mouvement quelconque change de quelque chose en quelqu'autre ; mais en dehors de ce qui est, il n'y a rien d'autre ; il ne peut donc y avoir de mouvement pour l'être.
 
 5. D'une autre façon, rien n'est vide de l'être ; car le vide n'est rien et ce qui n'est rien ne peut être. Donc l'être ne se meut pas, car s'il n'y a pas de vide, il n'a pas de place pour aller nulle part ; il ne peut d'ailleurs se concentrer sur lui-même ; car il serait alors plus ou moins dense que lui-même, ce qui est impossible. En effet le dilaté ne peut être aussi rempli que le dense, mais il se trouve déjà plus vide que le dense ; or le vide n'est pas. Que ce qui est soit plein ou non, il faut en juger suivant qu'il peut ou non admettre quelque chose d'autre ; s'il n'admet pas, il est plein ; s'il admet quelque chose, il n'est pas plein. Si donc il n'y a pas de vide, il est nécessaire que l'être soit plein, et par conséquent, qu'il soit immobile. Ce n'est pas qu'il soit impossible qu'il se meuve dans un espace plein, comme nous le disons pour les corps, mais c'est que l'être universel ne peut se mouvoir ni vers l'être (puisqu'il n'y a pas quelque autre ètre que lui) ni vers le non-être ; car le non-être n'est pas...
 
@@ -4248,15 +3806,9 @@ rien de tout cela, il ne serait plus un ; car s'il devient autre, il faut que l'
 
 17. Voilà la plus grande marque qu'il est seulement un. Mais il y en a d'autres ; car s'il y avait pluralité d'êtres, il faudrait que chacun fût tel que je dis être l'un. Si en effet ce sont des êtres que la terre, l'air, le fer, l'or, le feu, si ceci est vivant, cela mort, ceci blanc, cela noir, si toutes les autres choses que les hommes
 
-18
+18 [p. 274] disent être vraies sont en effet, si nous voyons et si nous entendons juste, il faut que chaque chose reste telle qu'elle nous a paru d'abord, sans changer ni s'altérer, qu'elle soit toujours ce qu'elle est. Or, nous disons que notre vue, notre ouïe, notre intelligence sont justes ; le chaud nous semble devenir froid et le froid chaud, le dur devenir mou et le mou dur, le vivant mourir ou naître du non-vivant ; tout change, rien ne reste semblable à ce qu'il était ; l'anneau de fer, tout dur qu'il est, s'use contre le doigt ; de même, l'or, la pierre, et tout ce qui paraît le plus solide ; la terre et les pierres viendraient de l'eau ; ainsi ce qui est, nous ne le voyons pas et ne le connaissons pas. Il n'y a, en tout cela, aucune concordance ; nous disons qu'il y a nombre de formes éternelles et solides, et tout ce que nous voyons partout nous semble s'altérer et se transformer. Il est donc clair que nous ne voyons pas juste, mais aussi que c'est à tort que toutes ces choses nous paraissent être. Car si elles étaient vraies, elles ne changeraient pas, mais chacune serait telle qu'elle paraît ; car rien ne peut triompher de l'être véritable. Or, dans le changement, ce qui est périt, ce qui n'est pas devient. Ainsi s'il y avait une pluralité d'êtres, il faudrait que chacun fût tel que l'un.
 
-[p. 274]
-
-disent être vraies sont en effet, si nous voyons et si nous entendons juste, il faut que chaque chose reste telle qu'elle nous a paru d'abord, sans changer ni s'altérer, qu'elle soit toujours ce qu'elle est. Or, nous disons que notre vue, notre ouïe, notre intelligence sont justes ; le chaud nous semble devenir froid et le froid chaud, le dur devenir mou et le mou dur, le vivant mourir ou naître du non-vivant ; tout change, rien ne reste semblable à ce qu'il était ; l'anneau de fer, tout dur qu'il est, s'use contre le doigt ; de même, l'or, la pierre, et tout ce qui paraît le plus solide ; la terre et les pierres viendraient de l'eau ; ainsi ce qui est, nous ne le voyons pas et ne le connaissons pas. Il n'y a, en tout cela, aucune concordance ; nous disons qu'il y a nombre de formes éternelles et solides, et tout ce que nous voyons partout nous semble s'altérer et se transformer. Il est donc clair que nous ne voyons pas juste, mais aussi que c'est à tort que toutes ces choses nous paraissent être. Car si elles étaient vraies, elles ne changeraient pas, mais chacune serait telle qu'elle paraît ; car rien ne peut triompher de l'être véritable. Or, dans le changement, ce qui est périt, ce qui n'est pas devient. Ainsi s'il y avait une pluralité d'êtres, il faudrait que chacun fût tel que l'un.
-
-[p. 275]
-
-CHAPITRE
+[p. 275] CHAPITRE
 
 #### XII
 
@@ -4272,11 +3824,7 @@ Anaxagore est aussi le premier dont la vie ait pleinement présenté le type du 
 
 Né d'une famille riche, il abandonne son patrimoine à ses parents et se voue tout entier à l'étude ; toute sa vie, il néglige ses intérêts, il attend même qu'on lui offre le nécessaire ; la persécution ne lui manque pas, tous les malheurs le frappent ; il restera supérieur aux événements. Il se peut qu'il n'ait pas traité de l'éthique [^p275-1], mais il fut une morale vivante.
 
-Il vit la science devenir une carrière lucrative [^p275-2] ; il ne chercha
-
-[p. 276]
-
-pas à en profiter ; heureusement il trouva un protecteur dans le grand homme d'État qui dirigeait alors les destinées d'Athènes ; plus tard, l'amitié de Métrodore de Lampsaque remplaça pour lui celle de Périclès, et une petite ville de l'Hellespont s'honora d'offrir un asile au proscrit accusé d'athéisme (1).
+Il vit la science devenir une carrière lucrative [^p275-2] ; il ne chercha [p. 276] pas à en profiter ; heureusement il trouva un protecteur dans le grand homme d'État qui dirigeait alors les destinées d'Athènes ; plus tard, l'amitié de Métrodore de Lampsaque remplaça pour lui celle de Périclès, et une petite ville de l'Hellespont s'honora d'offrir un asile au proscrit accusé d'athéisme (1).
 
 Anaxagore nous apparaît ainsi comme le premier exemple d'un savant subventionné par un chef d'État ou par de riches particuliers, tout en gardant son entière indépendance, ce que ne feront guère, plus tard, ceux qui accepteront ou brigueront des situations analogues. En tout cas, une ère nouvelle est désormais ouverte ; jusqu'alors la science était uniquement œuvre de loisir ; maintenant, en se répandant et en élargissant le cercle de ses adeptes, elle en acquiert d'assez peu fortunés pour qu'ils soient obligés de songer, non seulement à ses progrès, mais encore à leur propre pain quotidien.
 
@@ -4306,9 +3854,7 @@ D'après Vitruve (VII), il aurait écrit sur la scénographie, c'està-dire sur 
 
 Enfin Plutarque (De exsilio) nous le montre s'occupant, dans sa prison, de la quadrature du cercle ; mais ce peut être une légende sans authenticité. Cette question était certainement à l'ordre du jour parmi les géomètres du temps, et, dans une prison, la mathématique pure est encore l'occupation la plus facile ; la légende semble donc au moins habilement conçue d'après le caractère d'Anaxagore, mais ce travail prétendu n'a, en tout cas, laissé aucune trace, exercé aucune influence véritable.[^p277-1]
 
-[p. 278]
-
-J'ai déjà expliqué (ch. VI, 4, et VIII, 7) comment Anaxagore avait été conduit à cette hypothèse : d'une part Anaximène avait imaginé des astres obscurs dont l'interposition pouvait produire les éclipses ; d'un autre côté, les pythagoriens (Alcméon, Parménide) regardaient déjà la lune comme ayant une partie obscure et une partie lumineuse toujours tournée vers le soleil, ce qui est l'explication chaldéenne des phases. Anaxagore n'avait donc qu'à remarquer qu'un corps solide obscur, tel que le supposait Anaximène, devait naturellement, par suite de son éclairement par le soleil, présenter précisément les phénomènes des phases, tels que les pythagoriens les avaient reconnus ; la lune, considérée comme opaque, suffisait donc pour expliquer les éclipses de soleil. L'idée de tenir compte de l'éclairement conduisait d'autre part à tenir également compte des ombres ; Anaxagore rencontra donc aussi de la sorte l'explication des éclipses de lune.
+[p. 278] J'ai déjà expliqué (ch. VI, 4, et VIII, 7) comment Anaxagore avait été conduit à cette hypothèse : d'une part Anaximène avait imaginé des astres obscurs dont l'interposition pouvait produire les éclipses ; d'un autre côté, les pythagoriens (Alcméon, Parménide) regardaient déjà la lune comme ayant une partie obscure et une partie lumineuse toujours tournée vers le soleil, ce qui est l'explication chaldéenne des phases. Anaxagore n'avait donc qu'à remarquer qu'un corps solide obscur, tel que le supposait Anaximène, devait naturellement, par suite de son éclairement par le soleil, présenter précisément les phénomènes des phases, tels que les pythagoriens les avaient reconnus ; la lune, considérée comme opaque, suffisait donc pour expliquer les éclipses de soleil. L'idée de tenir compte de l'éclairement conduisait d'autre part à tenir également compte des ombres ; Anaxagore rencontra donc aussi de la sorte l'explication des éclipses de lune.
 
 Comme physicien, il alla plus loin, trop loin même ; il conclut que la lune est une terre semblable à la nôtre et habitée comme elle, que tous les astres, le soleil lui-même, sont des masses solides incandescentes. Ces hardis paradoxes attirèrent sur lui la première accusation d'impiété qui ait atteint les novateurs scientifiques ; mais comme astronome, malgré sa découverte capitale, il resta relativement arriéré et maintint malheureusement contre les doctrines pythagoriennes les antiques croyances ioniennes.
 
@@ -4336,11 +3882,7 @@ faits contraires à ce qu'ils sont en réalité [^p279-1].
 
 Ainsi Anaxagore nous apparaît plutôt comme un hardi constructeur d'hypothèses scientifiques que comme un véritable astronome, sachant observer et contrôler ses hypothèses.
 
-Comme météorologiste, il ne se montre pas en avance sur Anaximène ; comme naturaliste, il aborde un terrain que les premiers physiologues ioniens avaient négligé, mais on ne voit pas
-
-[p. 280]
-
-qu'il y ait dépassé Alcméon et Parménide, quoiqu'il ait pu s'écarter d'eux. Somme toute, les services qu'il a rendus à la science sont d'ordre secondaire et ne s'élèvent nullement à la hauteur de son rôle philosophique ; car dans l'explication des éclipses, son véritable titre de gloire, il n'a pas eu l'idée-mère et sa théorie est restée absolument insuffisante.
+Comme météorologiste, il ne se montre pas en avance sur Anaximène ; comme naturaliste, il aborde un terrain que les premiers physiologues ioniens avaient négligé, mais on ne voit pas [p. 280] qu'il y ait dépassé Alcméon et Parménide, quoiqu'il ait pu s'écarter d'eux. Somme toute, les services qu'il a rendus à la science sont d'ordre secondaire et ne s'élèvent nullement à la hauteur de son rôle philosophique ; car dans l'explication des éclipses, son véritable titre de gloire, il n'a pas eu l'idée-mère et sa théorie est restée absolument insuffisante.
 
 #### II
 
@@ -4366,9 +3908,7 @@ Pour reprendre le problème d'Anaximandre, il fallait donc commencer par avouer 
 
 Anaxagore donne à cette cause le nom de vοῦς [^p281-1] ; il imagine qu'à un moment déterminé, elle a commencé à mettre en branle un petit noyau central ; de là son action s'est étendue progressivement et a successivement organisé une partie de plus en plus grande de la matière inerte ; mais, puisque le champ sur lequel cette action peut s'exercer est infini, elle continue à gagner toujours du terrain, et l'on ne peut assigner une limite où elle doive s'arrêter.
 
-[p. 282]
-
-Cette conception nous montre pour la première fois la notion de l'infini rigoureusement employée dans son véritable sens mathématique. Le monde est une grandeur qui croît indéfiniment et peut dépasser toute limite assignable, de même que la série des nombres. Nous reconnaissons là la pensée d'un vrai géomètre et nous pouvons nous attendre à le retrouver aussi rigoureux et aussi éloigné des idées vulgaires, quand il s'agira non plus de l'infiniment grand, mais bien de l'infiniment petit. Revenons donc sur cette autre face de la question de la matière et demandons-nous d'abord si Anaxagore pouvait conserver la thèse moniste, et aussi à quelles difficultés il avait à parer en produisant une thèse pluraliste.
+[p. 282] Cette conception nous montre pour la première fois la notion de l'infini rigoureusement employée dans son véritable sens mathématique. Le monde est une grandeur qui croît indéfiniment et peut dépasser toute limite assignable, de même que la série des nombres. Nous reconnaissons là la pensée d'un vrai géomètre et nous pouvons nous attendre à le retrouver aussi rigoureux et aussi éloigné des idées vulgaires, quand il s'agira non plus de l'infiniment grand, mais bien de l'infiniment petit. Revenons donc sur cette autre face de la question de la matière et demandons-nous d'abord si Anaxagore pouvait conserver la thèse moniste, et aussi à quelles difficultés il avait à parer en produisant une thèse pluraliste.
 
 5. Il semble difficile que, du moment où il distinguait de la matière la cause du mouvement et où, en même temps, il considérait celle-ci comme produisant à peu près exclusivement une rotation d'où résultait secondairement l'organisation du monde, Anaxagore ait pu avoir la pensée de maintenir l'unité de la matière ; celle-ci devait lui apparaître comme un mélange mécanique, dont le mouvement révolutif séparait les divers éléments. C'est bien ainsi en fait qu'il se représente l'organisation du monde.
 
@@ -4394,15 +3934,13 @@ La réponse d'Anaxagore est simple ; c'est celle du géomètre que nous avons d�
 
 CRITIQUE DE LA CONCEPTION D'ANAXAGORE.[^p283-1]
 
-[p. 284]
-
-qu'elle puisse être aujourd'hui, elle n'en garde pas moins toute sa valeur.
+[p. 284] qu'elle puisse être aujourd'hui, elle n'en garde pas moins toute sa valeur.
 
 Je n'ai nullement l'intention de combattre ici la conception atomique ; je crois au contraire qu'elle est encore loin d'avoir rendu à la science tous les services que celle-ci peut en attendre. Le moment n'est donc nullement venu de discuter s'il ne serait pas temps de rejeter cette conception comme désormais épuisée et incapable de permettre de nouveaux progrès ; mais, au point de vue philosophique, la question doit se poser tout autrement.
 
 Prétend-on par cette conception atteindre la réalité absolue, l'inaccessible chose en soi ? Évidemment non, et les arguments de certains physiciens ou chimistes ne peuvent que faire sourire, alors qu'ils prétendent démontrer, comme des faits de science, l'existence du vide ou des atomes. Il s'agit simplement d'obtenir une représentation scientifique ; il ne suffit pas qu'elle satisfasse l'esprit, il faut encore qu'elle se prête à des combinaisons logiques permettant d'établir quelque unité entre les lois des phénomènes naturels.
 
-Que la conception atomique satisfasse à cette condition, que, par exemple, elle donne immédiatement une explication commode des lois qui président aux combinaisons chimiques, ces confirmations a posteriori sont à écarter ; quand elles seraient beaucoup plus nombreuses et beaucoup plus importantes, elles resteraient absolument insuffisantes, tant que l'explication intégrale de l'univers demeurera incomplète : autant dire toujours. La question est de savoir si cette conception atomique est la seule possible, la seule admissible pour le rôle scientifique qu'elle remplit.
+Que la conception atomique satisfasse à cette condition, que, par exemple, elle donne immédiatement une explication commode des lois qui président aux combinaisons chimiques, ces confirmations *a posteriori* sont à écarter ; quand elles seraient beaucoup plus nombreuses et beaucoup plus importantes, elles resteraient absolument insuffisantes, tant que l'explication intégrale de l'univers demeurera incomplète : autant dire toujours. La question est de savoir si cette conception atomique est la seule possible, la seule admissible pour le rôle scientifique qu'elle remplit.
 
 Or, je dis que la thèse d'Anaxagore peut conduire à une conception qui, comme aptitude à se prêter aux combinaisons logiques, ne le cède en rien à la représentation aujourd'hui dominante.
 
@@ -4422,11 +3960,7 @@ Nous voyons dès lors que pour l'objet de la science, c'est-à-dire l'explicatio
 
 A chaque point de la matière se trouvera donc attaché un coefficient pour chaque qualité considérée (densité, température, état électrique, etc.) ; le nombre de ces qualités, qui sont de pures abstractions, peut d'ailleurs être indéfini, mais on conçoit que d'après les lois naturelles reconnues ou à reconnaître, la connaissance de telle qualité peut être liée à la connaissance de telles autres, en sorte que, pour l'étude, il suffira de choisir un certain nombre de qualités que l'on considérera comme primordiales et auxquelles on rattachera les autres.
 
-De la sommation des valeurs d'une même qualité pour les divers points d'un corps (suivant les règles du calcul intégral), dépendra la qualité de ce corps pour son ensemble, c'est-à-dire la
-
-[p. 286]
-
-façon dont il se comportera par rapport aux sens pour le phénomène considéré.
+De la sommation des valeurs d'une même qualité pour les divers points d'un corps (suivant les règles du calcul intégral), dépendra la qualité de ce corps pour son ensemble, c'est-à-dire la [p. 286] façon dont il se comportera par rapport aux sens pour le phénomène considéré.
 
 Il est clair qu'une pareille conception de la matière se prêtera parfaitement à tous les calculs mathématiques, à toutes les combinaisons logiques nécessaires pour l'explication des phénomènes ; c'est tout ce que j'ai voulu affirmer, car je ne veux point examiner quels seraient ses inconvénients ou ses défauts, si elle serait plus ou moins commode, il suffit qu'elle soit possible.
 
@@ -4454,9 +3988,7 @@ Ce qu'il a cherché surtout à faire ressortir, c'est que dans son mélange prim
 
 Par suite du mouvement imprimé par le Noos, les germes ou semences se déplacent et se réunissent à leurs similaires, en sorte que le monde s'organise ; Anaxagore s'en tient donc à une explication mécanique grossière et inadmissible, mais il insiste sur ce point que l'exclusion complète d'une qualité ne peut se faire en aucun lieu de l'univers : le feu est ce qu'il y a de plus brillant, de plus chaud, de plus sec, de plus ténu ; il contiendra toujours néanmoins de l'obscur, du froid, de l'humide, du lourd ; il présente donc ainsi tout ce qu'il faut pour constituer de la chair ou des os ; mais dire avec Aristote que le feu est constitué de particules homéomères, semblables à celles de la chair ou des os, c'est évidemment défigurer du tout au tout la pensée du Clazoménien.
 
-[p. 288]
-
-Quels défauts trouvons-nous d'ailleurs à sa conception ? Il suffit de la comparer à celle de Kant.
+[p. 288] Quels défauts trouvons-nous d'ailleurs à sa conception ? Il suffit de la comparer à celle de Kant.
 
 En premier lieu, nous ne pouvons plus admettre ces oppositions du froid et du chaud, etc., « qu'on ne séparera jamais avec la hache en aucun point du monde ». Pour nous, le froid et le chaud apparaissent comme deux degrés éloignés sur l'échelle intensive d'une même qualité. Mais après l'abus encore bien récent des fluides de nom contraire, nous devons être indulgents ; d'ailleurs Anaxagore n'avait pas inventé ces oppositions, il les trouvait dans les opinions du vulgaire, il les voyait systématiquement employées par les pythagoriens. Il s'en est donc servi à son tour ; alors que l'antiquité n'a jamais su s'en débarrasser, on ne peut sérieusement l'en blâmer.
 
@@ -4478,9 +4010,7 @@ Le fragment 15 fait une allusion très claire à la polémique de Zénon contre 
 
 19
 
-[p. 290]
-
-Le sens de ce passage est certainement le même que celui des propositions analogues du fragment 16, propositions que j'ai traduites à la lettre. Voici comment il me semble qu'on doive les entendre :
+[p. 290] Le sens de ce passage est certainement le même que celui des propositions analogues du fragment 16, propositions que j'ai traduites à la lettre. Voici comment il me semble qu'on doive les entendre :
 
 Anaxagore affirme, contre Zénon, la coexistence de la pluralité dans l'unité ; mais cette pluralité est pour lui celle de substances toujours confondues, aussi bien dans les grandes masses que dans les petites, et que la division n'arrivera jamais à séparer. J'emploie d'ailleurs inexactement ici le terme de substances, car, en fait, ce sont des qualités que considère Anaxagore sous un concept encore vague et mal défini. Le fragment 13 montre bien que sous l'unité du cosmos, c'est à la pluralité du froid et du chaud, etc., que s'attache le Clazoménien, et c'est cette pluralité qu'il déclare ne pouvoir être résolue en unités distinctes par la division mécanique, quoique la distinction existe parfaitement, soit pour les sens, soit au moins pour l'intelligence.
 
@@ -4510,11 +4040,7 @@ Or, à qui appartiennent les formules ci-dessus ? Ai-je besoin de dire que je le
 
 Sans doute il y a tout autre chose dans le platonisme ; les espèces d'Anaxagore sont des qualités physiques, les εἴδη du Maître peuvent être purement abstraites ou correspondre à des qualités morales ; les unes sont nettement immanentes à la matière, on peut des autres soutenir qu'elles sont transcendantes (χωριστά).
 
-Mais si la théorie des Idées est incontestablement une création originale, où trouvera-t-on dans les doctrines antérieures quelque chose qui en soit réellement plus voisin que la conception d'Anaxagore ? Il est vraiment singulier qu'Aristote, voulant nous éclairer sur le développement de la pensée de Platon, nous renvoie aux formules pythagoriennes sur les nombres comme essences des choses, et que nous répétions encore cette explication plus obscure que la théorie à interpréter. La doctrine d'Anaxagore, au contraire, bien conçue par un esprit philosophique, c'est-à-dire capable d'abstraction et de généralisation, si cet esprit se trouve en présence
-
-[p. 292]
-
-des problèmes soulevés dans l'âge des sophistes, aboutit naturellement à la constitution de la théorie des Idées platoniciennes.
+Mais si la théorie des Idées est incontestablement une création originale, où trouvera-t-on dans les doctrines antérieures quelque chose qui en soit réellement plus voisin que la conception d'Anaxagore ? Il est vraiment singulier qu'Aristote, voulant nous éclairer sur le développement de la pensée de Platon, nous renvoie aux formules pythagoriennes sur les nombres comme essences des choses, et que nous répétions encore cette explication plus obscure que la théorie à interpréter. La doctrine d'Anaxagore, au contraire, bien conçue par un esprit philosophique, c'est-à-dire capable d'abstraction et de généralisation, si cet esprit se trouve en présence [p. 292] des problèmes soulevés dans l'âge des sophistes, aboutit naturellement à la constitution de la théorie des Idées platoniciennes.
 
 L'évolution était d'autant plus naturelle qu'Anaxagore avait moins limité le nombre des espèces qu'il concevait comme correspondant aux phénomènes : étendre son explication à tous les domaines de la pensée, au lieu de la restreindre aux faits de la sensation, voilà ce que fit Platon.
 
@@ -4550,17 +4076,15 @@ Si le dogme ionien de l'unité de la matière se retrouve ainsi derrière ces ab
 
 Ainsi le feu est chaud et sec, l'air chaud et humide, l'eau froide et humide, la terre froide et sèche ; c'est par les échanges de ces qualités que la transformation des éléments peut s'accomplir ; mais elles sont tout abstraites, et d'ailleurs aucune loi de ces transformations ne se trouve indiquée.
 
-[p. 294]
+[p. 294] 12. On sait le long triomphe de cette théorie formée d'éléments disparates ; il suffit de remarquer qu'au point de vue scientifique elle est très inférieure à celle d'Anaxagore ; aussi doit-on regretter que ce ne soit pas cette dernière que la science antique ait eu à mettre à l'épreuve, au lieu de se mouvoir dans le cadre étroit de la symétrique construction d'Aristote.
 
-12. On sait le long triomphe de cette théorie formée d'éléments disparates ; il suffit de remarquer qu'au point de vue scientifique elle est très inférieure à celle d'Anaxagore ; aussi doit-on regretter que ce ne soit pas cette dernière que la science antique ait eu à mettre à l'épreuve, au lieu de se mouvoir dans le cadre étroit de la symétrique construction d'Aristote.
-
-Cette dernière ne permet aucune combinaison mathématique effective ; son infécondité à cet égard est malheureusement trop prouvée a posteriori pour que j'aie à insister sur ce point.
+Cette dernière ne permet aucune combinaison mathématique effective ; son infécondité à cet égard est malheureusement trop prouvée *a posteriori* pour que j'aie à insister sur ce point.
 
 La réunion constante des qualités opposées, telle que la professait Anaxagore, satisfaisait au contraire aux conditions scientifiques, car elle a pour conséquence qu'il faut toujours uniquement considérer la résultante des deux tendances opposées, et l'on se trouve dès lors bientôt aux mêmes points de départ que la science moderne pour l'explication des phénomènes.
 
 La séparation absolue des qualités opposées et leur association arbitraire avec telles ou telles autres étaient un retour, avec de nouvelles erreurs en sus, aux premières ébauches des théories pythagoriennes. C'était la consécration du système d'explications vagues et illusoires déjà en vigueur chez les médecins de l'époque ; car ce sont eux qui ont, les premiers, abusé des qualités élémentaires, comme on devait si longtemps continuer à le faire d'après Aristote. Avec la théorie de ce dernier, ces qualités élémentaires deviennent de véritables êtres de raison, auxquels on attribue les propriétés les plus diverses et le mode d'action le plus fantastique. Le nombre des combinaisons logiques possibles se réduit au minimum et, comme elles doivent suffire à expliquer l'infinie variété des phénomènes, on a recours à d'étranges artifices en s'écartant de plus en plus de l'observation et de l'expérience.
 
-Micux eût valu, certes, au lieu de ce bizarre compromis entre des conceptions essentiellement différentes, s'en tenir fidèlement au pluralisme décidé que professait Empédocle et ne pas chercher, dans les accouplements arbitraires des qualités élémentaires, une preuve a priori qu'il doit y avoir quatre éléments et qu'il ne peut y en avoir davantage. Si grossière que fût la première approximation d'Empédocle, il y avait dans ses idées un point de départ pour l'étude des combinaisons chimiques ; les éléments d'Aristote, avec leurs qualités prétendûment immuables en soi, ne sont plus un sujet d'expérience, mais de véritables fictions dont le fantôme hantera pour des siècles le cerveau des pionniers de la science.
+Micux eût valu, certes, au lieu de ce bizarre compromis entre des conceptions essentiellement différentes, s'en tenir fidèlement au pluralisme décidé que professait Empédocle et ne pas chercher, dans les accouplements arbitraires des qualités élémentaires, une preuve *a priori* qu'il doit y avoir quatre éléments et qu'il ne peut y en avoir davantage. Si grossière que fût la première approximation d'Empédocle, il y avait dans ses idées un point de départ pour l'étude des combinaisons chimiques ; les éléments d'Aristote, avec leurs qualités prétendûment immuables en soi, ne sont plus un sujet d'expérience, mais de véritables fictions dont le fantôme hantera pour des siècles le cerveau des pionniers de la science.
 
 [p. 295]
 
@@ -4572,11 +4096,7 @@ DOXOGRAPHIE
 
 D'ANAXAGORE
 
-1. THÉOPHR., fr. 4 (Simplic. in physic., 6 b). — De ceux qui admettent des principes en nombre infini, les uns les supposent simples et homogènes, les autres, composés, hétérogènes, contraires et caractérisés par ce qui y prédomine. Anaxagore, fils d'Hégésiboule, de Clazomène, après avoir suivi la philosophie d'Anaximène, fut le premier à réformer les opinions touchant les principes et à les compléter par la cause qui faisait défaut. D'un côté, il multiplia à l'infini les principes corporels ; en effet, tous les homéomères, comme l'eau, le feu ou l'or, seraient inengendrés et impérissables ; ils paraîtraient naître et se détruire par suite de simples compositions et décompositions, tous étant dans tous, et chacun étant caractérisé par ce qui y prédomine ; ainsi ce qui paraît comme or contiendrait de l'or en plus grande quantité, mais tous les autres principes y coexisteraient également. Anaxagore dit en effet : « Dans tout il y a une part de tout » et « chaque chose est, pour l'apparence, ce dont elle contient le plus. » Théophraste dit qu'en cela Anaxagore se rapproche d'Anaximandre ; il dit en effet que, dans la décomposition de l'« infini », les similaires se réunissent, que la formation de l'or ou de la terre fut possible, parce qu'il y avait dans l'univers de l'or et de la terre ; de même, pour chacune des autres choses, il n'y aurait pas eu naissance, mais préexistence dans le tout. D'autre part, Anaxagore, comme cause du mouvement et de la genèse, posa l'intelligence, grâce à laquelle la séparation engendra les mondes et la nature des divers êtres. A le prendre ainsi, dit Théophraste, il semblerait admettre les principes matériels en nombre infini, comme on l'a dit, mais pour le mouvement et la genèse, une cause unique. Si donc on considère le mélange de toutes choses comme une seule nature indéterminée de forme et
-
-[p. 296]
-
-de grandeur, ce qu'il paraît vouloir dire, il n'aurait de fait reconnu que deux principes, la nature de l'« infini » et l'intelligence ; en même temps, pour les éléments des corps, il se rapprocherait tout à fait d'Anaximandre.
+1. THÉOPHR., fr. 4 (Simplic. in physic., 6 b). — De ceux qui admettent des principes en nombre infini, les uns les supposent simples et homogènes, les autres, composés, hétérogènes, contraires et caractérisés par ce qui y prédomine. Anaxagore, fils d'Hégésiboule, de Clazomène, après avoir suivi la philosophie d'Anaximène, fut le premier à réformer les opinions touchant les principes et à les compléter par la cause qui faisait défaut. D'un côté, il multiplia à l'infini les principes corporels ; en effet, tous les homéomères, comme l'eau, le feu ou l'or, seraient inengendrés et impérissables ; ils paraîtraient naître et se détruire par suite de simples compositions et décompositions, tous étant dans tous, et chacun étant caractérisé par ce qui y prédomine ; ainsi ce qui paraît comme or contiendrait de l'or en plus grande quantité, mais tous les autres principes y coexisteraient également. Anaxagore dit en effet : « Dans tout il y a une part de tout » et « chaque chose est, pour l'apparence, ce dont elle contient le plus. » Théophraste dit qu'en cela Anaxagore se rapproche d'Anaximandre ; il dit en effet que, dans la décomposition de l'« infini », les similaires se réunissent, que la formation de l'or ou de la terre fut possible, parce qu'il y avait dans l'univers de l'or et de la terre ; de même, pour chacune des autres choses, il n'y aurait pas eu naissance, mais préexistence dans le tout. D'autre part, Anaxagore, comme cause du mouvement et de la genèse, posa l'intelligence, grâce à laquelle la séparation engendra les mondes et la nature des divers êtres. A le prendre ainsi, dit Théophraste, il semblerait admettre les principes matériels en nombre infini, comme on l'a dit, mais pour le mouvement et la genèse, une cause unique. Si donc on considère le mélange de toutes choses comme une seule nature indéterminée de forme et [p. 296] de grandeur, ce qu'il paraît vouloir dire, il n'aurait de fait reconnu que deux principes, la nature de l'« infini » et l'intelligence ; en même temps, pour les éléments des corps, il se rapprocherait tout à fait d'Anaximandre.
 
 2. THEOPHR., fr. 19 (Aétius II, 29). — Anaxagore, dit Théophraste, attribue aussi la défaillance de la lune à ce que parfois il y aurait interposition de corps situés au-dessous d'elle.
 
@@ -4610,11 +4130,7 @@ chauds que le soleil, parce qu'ils occupent une région plus froide. La lune est
 
 6. HERMIAS, 6. — Lorsque Anaxagore me prend, voici ce qu'il m'enseigne : « L'intelligence est principe de toutes choses, cause et maîtresse de l'univers, elle donne l'ordre au désordonné, le mouvement à l'immobile, sépare ce qui est mêlé, fait un monde. de ce qui est confus. » Un tel langage me plaît et j'adopte cette opinion.
 
-7. CICÉRON (De deor. nat., I, 11). — Puis Anaxagore, qui reçut les enseignements d'Anaximène, a le premier attribué la distinction et l'ordonnance de toutes choses à l'action raisonnable d'une intelligence infinie. Il n'a pas vu qu'il ne peut y avoir dans l'infini de
-
-[p. 298]
-
-mouvement joint et inhérent à un sentiment, ni pas davantage de sentiment que n'éprouverait pas la nature tout entière. D'autre part, s'il a voulu que cette intelligence fût comme un être animé, ce sera quelque chose d'intérieur, d'après quoi cet être animé sera nommé. Car qu'y a-t-il de plus intérieur que l'intelligence ? Il faut donc l'entourer d'un corps extérieur. Mais cela ne lui plaît pas, et son intelligence, pure et sans mélange, sans adjonction de rien qui puisse lui procurer un sentiment, paraît dépasser les forces. de notre pensée.
+7. CICÉRON (De deor. nat., I, 11). — Puis Anaxagore, qui reçut les enseignements d'Anaximène, a le premier attribué la distinction et l'ordonnance de toutes choses à l'action raisonnable d'une intelligence infinie. Il n'a pas vu qu'il ne peut y avoir dans l'infini de [p. 298] mouvement joint et inhérent à un sentiment, ni pas davantage de sentiment que n'éprouverait pas la nature tout entière. D'autre part, s'il a voulu que cette intelligence fût comme un être animé, ce sera quelque chose d'intérieur, d'après quoi cet être animé sera nommé. Car qu'y a-t-il de plus intérieur que l'intelligence ? Il faut donc l'entourer d'un corps extérieur. Mais cela ne lui plaît pas, et son intelligence, pure et sans mélange, sans adjonction de rien qui puisse lui procurer un sentiment, paraît dépasser les forces. de notre pensée.
 
 8. AÉTIUS, I. – 3. Anaxagore, fils d'Hégésiboule, de Clazomène, a affirmé que les homéoméries sont principes des êtres. Il lui a paru tout à fait inexplicable que quelque chose devint du non-être ou pérît en non-être. Or, nous prenons une nourriture qui a une apparence simple et uniforme, soit le pain, soit l'eau. De cette nourriture s'alimentent les cheveux, les veines, les artères, la chair, les nerfs, les os et toutes les autres parties. Il faut dès lors confesser que dans la nourriture que nous prenons coexistent toutes choses et que toutes choses peuvent, par suite, s'en augmenter. Ainsi cette nourriture contient des parties génératrices de sang, de nerfs, d'os, etc., parties qui ne sont reconnaissables que par la raison ; car il ne faut pas tout réduire aux sens, qui nous montrent que le pain et l'eau forment ces substances, mais reconnaître par la raison qu'ils en contiennent des parties. De ce que ces parties contenues dans la nourriture sont semblables aux substances qui en sont formées, il les a appelées homéoméries et a affirmé que c'étaient là les principes des choses, les homéoméries comme matière, et l'intelligence qui a ordonné l'univers comme cause efficiente. Il débute ainsi : Toutes choses étaient ensemble, l'intelligence les a séparées et ordonnées. Il faut l'approuver en ce qu'à la matière il a ajouté l'artisan.
 
@@ -4658,9 +4174,7 @@ est l'intelligence qui a fait le monde.
 
 - 13. Anaxagore : L'éther environnant est ignė par essence et la force de son mouvement révolutif a détaché de la terre des pierres qui, rendues incandescentes, ont formé les astres.[^p299-1][^p299-2][^p299-3]
 
-[p. 300]
-
-25. Anaxagore, Démocrite : La lune est un corps solide incandescent qui renferme des plaines, des montagnes et des vallées. 28. Anaxagore : Elle est éclairée par le soleil. — 29. (Voir Doxод. de Thalès, 12). — 30. L'aspect de la lune est dû à l'inégalité de la formation du mélange de froid et de terrestre ; elle a des parties élevées, d'autres basses, d'autres creuses.
+[p. 300] 25. Anaxagore, Démocrite : La lune est un corps solide incandescent qui renferme des plaines, des montagnes et des vallées. 28. Anaxagore : Elle est éclairée par le soleil. — 29. (Voir Doxод. de Thalès, 12). — 30. L'aspect de la lune est dû à l'inégalité de la formation du mélange de froid et de terrestre ; elle a des parties élevées, d'autres basses, d'autres creuses.
 
 13. AÉTIUS, III.
 
@@ -4700,9 +4214,7 @@ FRAGMENTS
 
 4. Avant la distinction, toutes choses étant confondues ensemble, aucune couleur n'apparaissait ; il y avait empêchement par suite du mélange de toutes les choses, de l'humide et du sec, du chaud et du froid, du lumineux et de l'obscur, de la terre en grande quantité et des germes en nombre infini n'ayant aucune ressemblance entre eux ; car des autres choses aucune ne ressemble à l'autre. Cela étant ainsi, il faut croire que dans tout coexistent toutes choses.[^p301-1][^p301-2]
 
-[p. 302]
-
-agissant par lui-même, sans mélange avec aucune chose ; il subsiste seul isolé à part soi. Car s'il n'était pas à part soi, mais mêlé à quelque autre chose, il participerait de toutes choses, en tant que mêlé à celle-là, puisqu'en tout il y a une part de tout, ainsi que je l'ai déjà dit ; et ce mélange l'empêcherait d'actionner chaque chose, comme il peut le faire, étant isolé à part soi. C'est, de toutes choses, ce qu'il y a de plus subtil et de plus pur ; il possède toute connaissance de tout et sa force est au plus haut degré. Tous les êtres animés, grands et petits, sont actionnés par le noos ; mais, dès le commencement, c'est lui qui a produit la révolution générale et en a donné le branle. Tout d'abord cette révolution n'a porté que sur peu de chose, puis elle s'est étendue davantage et elle s'étendra encore, toujours de plus en plus. Ce qui est mêlé, ce qui est distinct et séparé, le noos en a toujours eu connaissance complète ; il a tout ordonné comme il devait être, tout ce qui a été, est maintenant et sera plus tard, et aussi cette révolution même qui entraîne les astres, le soleil, la lune, l'air et l'éther, depuis qu'ils sont distincts. C'est cette révolution qui a amené leur distinction, et qui distingue aussi le dense du dilaté, le chaud du froid, le lumineux de l'obscur, le sec de l'humide. Il y a beaucoup de parts dans beaucoup de choses ; mais il n'y a jamais distinction complète, séparation absolue entre une chose et une autre, sauf pour le noos. Tout le noos est semblable, le plus grand et le plus petit ; il n'y a aucune chose qui soit semblable à aucune autre, mais chacune est pour l'apparence ce dont elle contient le plus.[^p302-1][^p302-2][^p302-3][^p302-4]
+[p. 302] agissant par lui-même, sans mélange avec aucune chose ; il subsiste seul isolé à part soi. Car s'il n'était pas à part soi, mais mêlé à quelque autre chose, il participerait de toutes choses, en tant que mêlé à celle-là, puisqu'en tout il y a une part de tout, ainsi que je l'ai déjà dit ; et ce mélange l'empêcherait d'actionner chaque chose, comme il peut le faire, étant isolé à part soi. C'est, de toutes choses, ce qu'il y a de plus subtil et de plus pur ; il possède toute connaissance de tout et sa force est au plus haut degré. Tous les êtres animés, grands et petits, sont actionnés par le noos ; mais, dès le commencement, c'est lui qui a produit la révolution générale et en a donné le branle. Tout d'abord cette révolution n'a porté que sur peu de chose, puis elle s'est étendue davantage et elle s'étendra encore, toujours de plus en plus. Ce qui est mêlé, ce qui est distinct et séparé, le noos en a toujours eu connaissance complète ; il a tout ordonné comme il devait être, tout ce qui a été, est maintenant et sera plus tard, et aussi cette révolution même qui entraîne les astres, le soleil, la lune, l'air et l'éther, depuis qu'ils sont distincts. C'est cette révolution qui a amené leur distinction, et qui distingue aussi le dense du dilaté, le chaud du froid, le lumineux de l'obscur, le sec de l'humide. Il y a beaucoup de parts dans beaucoup de choses ; mais il n'y a jamais distinction complète, séparation absolue entre une chose et une autre, sauf pour le noos. Tout le noos est semblable, le plus grand et le plus petit ; il n'y a aucune chose qui soit semblable à aucune autre, mais chacune est pour l'apparence ce dont elle contient le plus.[^p302-1][^p302-2][^p302-3][^p302-4]
 
 [p. 303]
 
@@ -4724,9 +4236,7 @@ lune et le reste comme nous ; la terre leur produit en abondance toutes sortes d
 
 17. Les Hellènes ne jugent pas bien du devenir et du périr ; car aucune chose ne devient ni ne périt, mais elle se mêle ou se sépare de choses qui sont. Ainsi on dirait à bon droit « se composer » au lieu de « devenir » et « se décomposer au lieu de « périr ».
 
-[p. 304]
-
-CHAPITRE
+[p. 304] CHAPITRE
 
 #### XIII
 
@@ -4754,11 +4264,7 @@ Les six substances d'Empédocle (y compris l'Amour et la Haine) sont égales ent
 
 Cette dernière détermination est évidemment celle qui offre le sens le plus précis, et je n'hésite point à la considérer comme exprimant la véritable pensée d'Empédocle et par suite à regarder comme métaphorique l'épithète du Neîkos ; en tout cas, devant un texte aussi formel, nous ne pouvons moins faire que de nous représenter l'Amour, et par suite aussi la Haine, comme des éléments étendus et dès lors assimilables, au moins sous ce rapport, aux quatre éléments matériels classiques.
 
-Il est clair qu'il n'y a là aucune contradiction avec le vers suivant (82), auquel on a attribué un sens idéaliste, parce qu'Empédocle y déclare que la Philotès ne peut être vue par les yeux, mais seulement par l'esprit. Il suffit de remarquer que cet élément doit nécessairement, dans la théorie de l'Agrigentin, remplir ces
-
-[p. 306]
-
-pores invisibles qui jouent un si grand rôle dans son explication des phénomènes particuliers ; ce sont là les « ports accomplis de Cypris » (v. 208), au sein desquels se rapprochent la terre et le feu, l'onde et l'éther.
+Il est clair qu'il n'y a là aucune contradiction avec le vers suivant (82), auquel on a attribué un sens idéaliste, parce qu'Empédocle y déclare que la Philotès ne peut être vue par les yeux, mais seulement par l'esprit. Il suffit de remarquer que cet élément doit nécessairement, dans la théorie de l'Agrigentin, remplir ces [p. 306] pores invisibles qui jouent un si grand rôle dans son explication des phénomènes particuliers ; ce sont là les « ports accomplis de Cypris » (v. 208), au sein desquels se rapprochent la terre et le feu, l'onde et l'éther.
 
 Cette même remarque nous suffit aussi pour expliquer comment Empédocle peut soutenir l'égalité de volume de ses divers éléments, malgré la prépondérance énorme des volumes apparents de l'air et du feu. C'est qu'il conçoit sans doute les pores de ces éléments plus subtils comme de beaucoup plus considérables que ceux de la terre ou de l'eau.
 
@@ -4766,9 +4272,7 @@ Cette même remarque nous suffit aussi pour expliquer comment Empédocle peut so
 
 Quant à l'origine de sa conception, il est désormais bien facile de la reconnaître : Empédocle n'a nullement fait un pas en avant dans la voie ouverte par le Clazoménien ; il n'a nullement dédoublé, pour quelque raison mystique, le Noos organisateur du monde ; son point de départ est l'antique opposition pythagorienne de l'un solide et du vide, également conçu en fait comme un milieu matériel, qui crée les choses en pénétrant le principe corporel. Nous verrons mieux plus loin l'analogie entre cette idée et celle de l'action du Neîkos sur le Sphéros ; pour le moment, l'indication suffit.
 
-Empédocle n'a pas cru possible d'expliquer avec un seul élément corporel, comme l'avaient essayé les anciens physiologues, l'infinie variété des phénomènes ; mais, au lieu de lui faire correspondre,
-
-[p. 307]
+Empédocle n'a pas cru possible d'expliquer avec un seul élément corporel, comme l'avaient essayé les anciens physiologues, l'infinie variété des phénomènes ; mais, au lieu de lui faire correspondre, [p. 307]
 
 ### Chapitre Xiii. -
 
@@ -4782,9 +4286,7 @@ On peut remarquer que le vers 91 n'est nullement donné par Simplicius à cet en
 
 Si l'on compare entre eux et avec l'ensemble des autres fragments les deux passages qui font difficulté, il semble possible de les entendre en admettant que le poète s'y sera conformé aux habitudes du langage ordinaire ; il n'y aurait donc voulu parler que des apparences, suivant lesquelles les éléments semblent se transformer l'un dans l'autre, et il aurait seulement admis que, d'après ces apparences, dans l'évolution périodique de l'univers, un élément pouvait paraître prédominer sur les autres. Ainsi, il vaut mieux, sur ce point, s'en tenir à l'opinion courante.
 
-[p. 308]
-
-4. Cette difficulté écartée, nous pouvons aborder une autre question qui, malgré son importance, a généralement été négligée. Empédocle reconnaît-il d'autres forces motrices en dehors de celles qui sont inhérentes à ses deux milieux, l'Amour et la Haine ?
+[p. 308] 4. Cette difficulté écartée, nous pouvons aborder une autre question qui, malgré son importance, a généralement été négligée. Empédocle reconnaît-il d'autres forces motrices en dehors de celles qui sont inhérentes à ses deux milieux, l'Amour et la Haine ?
 
 Il est tout d'abord une force qu'il admet en termes exprès sous diverses formules et qui joue un grand rôle dans sa physique particulière : c'est l'attraction du semblable pour le semblable. Il faut se garder de la confondre avec la Philotès qui nous apparait comme produisant simplement la cohésion entre les molécules corporelles, quelle que soit leur nature, dont le rôle spécial est par suite surtout de rapprocher les éléments dissemblables et d'en former des combinaisons définies entre lesquelles peuvent s'exercer des affinités de similitude. L'action prolongée de l'Amour, secondée par ces affinités, finira par établir l'homogénéité complète. Mais l'attraction entre semblables ne perd nullement ses droits quand la Haine se substitue à l'Amour ; les combinaisons sont dissociées, les éléments primordiaux se retrouvent, « le lourd d'un côté, le léger de l'autre » (v. 171), isolés dans la haine les uns des autres, mais au moins chacun réuni par l'attraction de ses parties. La dissociation ne saurait aller plus loin, ni la matière se dissiper dans l'espace infini, puisque l'infinitude est niée par Empédoçle, en cela fidèle disciple de Parménide.
 
@@ -4808,19 +4310,13 @@ On est d'accord pour reconnaître que dans l'état primordial où les éléments
 
 Le poète déclare d'ailleurs formellement que le Sphéros est immobile, qu'il jouit d'un repos absolu (v. 168 et 176). Évidemment, ce repos doit s'entendre aussi bien de la totalité que des parties, c'est-à-dire qu'il faut exclure le mouvement de révolution (diurne), la δίνη qui interviendra plus tard dans la cosmogonie.
 
-Les vers 177-180 se rapportent à l'introduction du Neîkos dans
-
-[p. 310]
-
-le Sphéros ; celui-ci doit être conçu comme aspirant peu à peu le milieu environnant ; le premier effet est de produire des mouvements locaux qui successivement gagnent tout l'ensemble. Ces mouvements entraînent les groupes de particules élémentaires au fur et à mesure qu'ils se forment par la dissociation du mélange homogène ; il n'y a évidemment lieu de regarder ces déplacements locaux comme soumis à aucune loi ; on ne doit pas non plus supposer que le Neîkos arrive à produire une séparation complète des éléments, de façon à conduire chacun d'eux à une place déterminée de l'univers ; son action n'ira pas plus loin qu'une dissociation complète de l'homogène, et dans cet état de dissociation, le repos originaire aura fait place à un tohu-bohu où s'agitent, en mouvements désordonnés, les masses élémentaires, indistinctes et confuses. C'est l'antique χάσμα d'Hésiode, où court çà et là la tempête, comme c'est aussi le chaos décrit par Ovide dans des vers dont quelques-uns au moins semblent bien imités d'Empédocle.
+Les vers 177-180 se rapportent à l'introduction du Neîkos dans [p. 310] le Sphéros ; celui-ci doit être conçu comme aspirant peu à peu le milieu environnant ; le premier effet est de produire des mouvements locaux qui successivement gagnent tout l'ensemble. Ces mouvements entraînent les groupes de particules élémentaires au fur et à mesure qu'ils se forment par la dissociation du mélange homogène ; il n'y a évidemment lieu de regarder ces déplacements locaux comme soumis à aucune loi ; on ne doit pas non plus supposer que le Neîkos arrive à produire une séparation complète des éléments, de façon à conduire chacun d'eux à une place déterminée de l'univers ; son action n'ira pas plus loin qu'une dissociation complète de l'homogène, et dans cet état de dissociation, le repos originaire aura fait place à un tohu-bohu où s'agitent, en mouvements désordonnés, les masses élémentaires, indistinctes et confuses. C'est l'antique χάσμα d'Hésiode, où court çà et là la tempête, comme c'est aussi le chaos décrit par Ovide dans des vers dont quelques-uns au moins semblent bien imités d'Empédocle.
 
 A la vérité, à l'appui de cette représentation du règne de la Haine, je ne puis citer aucun texte précis, pas plus que je n'en rencontre qui la contredise. Mais c'est la seule qui me paraisse d'accord : 1º avec le fait, attesté par Aristote, qu'Empédocle n'assignait aucun lieu spécial à chacun de ses quatre éléments ; 2º avec l'importance que prennent en général, dans la cosmogonie de l'Agrigentin, les mouvements irréguliers et paraissant s'effectuer au hasard.
 
 Après le tableau que j'ai essayé de compléter, les fragments nous en présentent, sans transition, un autre tout différent : la δίνη, le tourbillon de la révolution diurne, existe ; la Philotès a établi son siège au centre de ce tourbillon et repoussé le Neîkos à la circonférence ; les éléments repris par le milieu s'organisent en cosmos, au fur et à mesure des progrès de la nouvelle évolution. Le mouvement du tourbillon est d'abord très lent ; la révolution, au lieu d'un jour, aurait duré d'abord neuf mois, puis sept mois (22) ; mais il s'accélère ensuite énormément soit peu à peu, soit brusquement à la suite de crises décisives, alternative que ne permet pas de résoudre le texte obscur du seul document qui reste sur ce point. En même temps, les mouvements locaux, désordonnés, après avoir grandement contribué à la genèse du monde tel qu'il est, perdent de leur importance, et le cosmos atteint enfin une ordonnance régulière dans la périodicité des phénomènes généraux.
 
-[p. 311]
-
-CHAPITRE
+[p. 311] CHAPITRE
 
 6. Quelle est la véritable liaison entre les deux scènes successives du grand drame cosmogonique ? Que devient au juste le milieu attractif pendant les progrès du milieu répulsif, et quelle est la véritable cause du tourbillon diurne ?
 
@@ -4834,11 +4330,7 @@ Rien ne nous marque que le tourbillon soit dû à l'Amour ; tout nous semble pro
 
 D'autre part, il me paraît impossible d'expliquer, dans le système de Zeller, comment se forment les grandes masses de l'air, du feu, de la terre et de l'eau. Si l'Amour a déjà repris les éléments à la Haine et les a déjà réunis en combinaisons stables, comment se dégageront-ils successivement, ainsi que le marquent les doxographes (3) (11) ? Le savant historien prétend bien que l'Amour a dû d'abord former les grandes masses, dont la constitution est plus simple, et seulement ensuite les êtres organiques ; mais on ne voit nullement comment, dans son système, l'action de l'Amour se traduit tout d'abord par les effets qui apparaissent à la circonférence du tourbillon et qui, de fait, complètent la dissociation amenée par la Haine.
 
-Il faut donc chercher une autre solution de la question, et il est possible de la trouver dans la cause qu'assignent les doxogra
-
-[p. 312]
-
-phes (3) au tourbillon cosmique ; il serait dû au défaut d'équilibre entre le feu (c'est-à-dire l'air lumineux) et l'air sombre qui remplissent chacun une des moitiés de la sphère céleste. Cette raison n'est évidemment valable que pour l'ordre de choses actuel ; autrement on ne comprendrait pas pourquoi la vitesse du mouvement a subi dees variations énormes. Mais nous pouvons retenir le principe : le tourbillon est dû à une rupture d'équilibre ; autrement dit, c'est la résultante finale des mouvements désordonnés que le Neîkos imprime au Sphéros.
+Il faut donc chercher une autre solution de la question, et il est possible de la trouver dans la cause qu'assignent les doxogra [p. 312] phes (3) au tourbillon cosmique ; il serait dû au défaut d'équilibre entre le feu (c'est-à-dire l'air lumineux) et l'air sombre qui remplissent chacun une des moitiés de la sphère céleste. Cette raison n'est évidemment valable que pour l'ordre de choses actuel ; autrement on ne comprendrait pas pourquoi la vitesse du mouvement a subi dees variations énormes. Mais nous pouvons retenir le principe : le tourbillon est dû à une rupture d'équilibre ; autrement dit, c'est la résultante finale des mouvements désordonnés que le Neîkos imprime au Sphéros.
 
 Empédocle ne pouvait concevoir pour l'ensemble de son univers un déplacement dans l'espace, mais il pouvait très bien admettre que lorsque les mouvements locaux auraient gagné la totalité du Sphéros, il n'y eût pas nécessairement une balance exacte entre ces mouvements dans tous les sens et dans toutes les directions, et que, comme effet total, abstraction faite des irrégularités partielles, il en résultât une rotation générale ou un tourbillon d'abord très lent.
 
@@ -4858,9 +4350,7 @@ Ainsi le monde est organisé par la Philotès, mais grâce à un phénomène dû
 
 il arrivait évidemment à imaginer à la limite des conditions essentiellement favorables à une conflagration universelle ; il pouvait d'autre part se représenter cette conflagration comme amenant brusquement le triomphe définitif de la Philotès, par le mélange et l'union intime des quatre éléments, comme épuisant en même temps leur tendance au mouvement local, puisque c'est dans le feu que cette tendance apparaît au plus haut degré.[^p313-1]
 
-[p. 314]
-
-le nom de forces centripète et centrifuge. A cet égard, d'ailleurs, ainsi que je l'ai indiqué déjà, il ne faisait que suivre la tradition des physiologues milésiens, chez lesquels l'existence du tourbillon diurne et les actions qui en résultent jouaient le rôle capital pour la cosmogonie. Mais, tandis que pour eux ce tourbillon est éternel et primordial, il n'est plus, chez Empédocle, qu'un phénomène variable et transitoire. Si l'on remonte à l'idée centrale de son système, l'Agrigentin apparaît surtout comme un disciple de l'école de Pythagore, développant librement les principes du Maître.
+[p. 314] le nom de forces centripète et centrifuge. A cet égard, d'ailleurs, ainsi que je l'ai indiqué déjà, il ne faisait que suivre la tradition des physiologues milésiens, chez lesquels l'existence du tourbillon diurne et les actions qui en résultent jouaient le rôle capital pour la cosmogonie. Mais, tandis que pour eux ce tourbillon est éternel et primordial, il n'est plus, chez Empédocle, qu'un phénomène variable et transitoire. Si l'on remonte à l'idée centrale de son système, l'Agrigentin apparaît surtout comme un disciple de l'école de Pythagore, développant librement les principes du Maître.
 
 La Philotès est avant tout le principe d'unité, de stabilité, et, par suite, d'immobilité ; c'est pourquoi une fois le tourbillon universel constitué, elle se place naturellement au centre, c'est-à-dire dans la partie qui échappe davantage à ce tourbillon. Le Neîkos, au contraire, est le principe de division et de mouvement ; par suite de sa mobilité même, il s'insinue naturellement à l'intérieur du Sphéros immobile, l'ébranle et finit par produire un mouvement de révolution. Mais, dès que cette révolution est commencée, le Neîkos va se trouver rejeté à la circonférence, là où le mouvement est le plus rapide, et finalement il est exclu du monde. Enfin, dans l'accélération de la révolution régulière aux dépens des mouvements locaux et désordonnés, Empédocle semble avoir entrevu de très loin le principe de la conservation de l'énergie.
 
@@ -4876,11 +4366,7 @@ inconnus qui enseignèrent à Empédocle la métempsycose, les dogmes et les pr�
 
 Aux données de ce premier enseignement, aux fruits de ses études propres, Empédocle joignit d'ailleurs des emprunts faits, non seulement aux poètes dont il suivait les modèles, mais même à ses contemporains, comme Anaxagore, dont il adopta la découverte relative à la lumière de la lune. Son œuvre apparaît donc comme passablement éclectique, en dehors de l'originalité propre que lui assure la doctrine des éléments distincts ; il faut d'ailleurs reconnaître que, si l'on fait abstraction de cette doctrine, la science d'Empédocle n'a accompli, par rapport à ses précurseurs, que des progrès de détail.
 
-Il ne faut pas, au reste, faire fi de ces progrès ; Empédocle, à la vérité, n'a pas un caractère vraiment philosophique ; il ne vient pas à son tour soulever une de ces questions capitales qui forment l'horizon de la science, et que ses précurseurs ont agitées l'une après l'autre ; il adopte les solutions toutes faites ; il ne cherche pas plus à établir l'unité entre ses conceptions physiques et ses croyances religieuses qu'il n'a cherché à la mettre dans le substratum des phénomènes. Ce pluraliste éclectique est un homme double ; Pythagore avait plutôt été mathématicien et mystique ; Empédocle sera physicien et mystique. Mais comme physicien, il n'est nullement à dédaigner ; le progrès de la science est désormais au prix des études de détail. Il s'y complaît et entre de plus en plus avant dans la forêt des questions secondaires ; sans doute, aux solutions a priori de ses devanciers il se contente souvent d'ajouter d'autres hypothèses aussi peu fondées sur les faits ; mais au moins ces hypothèses multipliées provoqueront davantage l'étude, et peu à
-
-[p. 316]
-
-peu on apprendra à observer et à conclure d'après le résultat des observations.
+Il ne faut pas, au reste, faire fi de ces progrès ; Empédocle, à la vérité, n'a pas un caractère vraiment philosophique ; il ne vient pas à son tour soulever une de ces questions capitales qui forment l'horizon de la science, et que ses précurseurs ont agitées l'une après l'autre ; il adopte les solutions toutes faites ; il ne cherche pas plus à établir l'unité entre ses conceptions physiques et ses croyances religieuses qu'il n'a cherché à la mettre dans le substratum des phénomènes. Ce pluraliste éclectique est un homme double ; Pythagore avait plutôt été mathématicien et mystique ; Empédocle sera physicien et mystique. Mais comme physicien, il n'est nullement à dédaigner ; le progrès de la science est désormais au prix des études de détail. Il s'y complaît et entre de plus en plus avant dans la forêt des questions secondaires ; sans doute, aux solutions *a priori* de ses devanciers il se contente souvent d'ajouter d'autres hypothèses aussi peu fondées sur les faits ; mais au moins ces hypothèses multipliées provoqueront davantage l'étude, et peu à [p. 316] peu on apprendra à observer et à conclure d'après le résultat des observations.
 
 #### II
 
@@ -4910,11 +4396,7 @@ Pour les étoiles, feux isolés au milieu de l'éther, dont il attache les uns �
 
 Quant au soleil, j'ai déjà indiqué (page 236) la conception toute particulière que s'en faisait Empédocle et j'ai montré comment elle se reliait à celle de Parménide.
 
-Tout en ne voyant dans cet astre qu'une image lumineuse de la terre éclairée par le feu du jour et reflétée sur la voûte céleste de crystal, qu'un phénomène qui n'existe que pour les yeux qui peu
-
-[p. 318]
-
-vent le contempler en face (cf. v. 242), Empédocle revenait de fait accidentellement à une opinion du vieil Anaximandre, en ce sens qu'il rejetait le soleil aux confins du monde (10). C'est d'ailleurs probablement grâce à lui que cette idée d'identifier le rayon de l'orbite solaire avec celui de la sphère céleste s'est perpétuée en Sicile et qu'Archimède, dans son Arénaire, la présentait encore comme courante.
+Tout en ne voyant dans cet astre qu'une image lumineuse de la terre éclairée par le feu du jour et reflétée sur la voûte céleste de crystal, qu'un phénomène qui n'existe que pour les yeux qui peu [p. 318] vent le contempler en face (cf. v. 242), Empédocle revenait de fait accidentellement à une opinion du vieil Anaximandre, en ce sens qu'il rejetait le soleil aux confins du monde (10). C'est d'ailleurs probablement grâce à lui que cette idée d'identifier le rayon de l'orbite solaire avec celui de la sphère céleste s'est perpétuée en Sicile et qu'Archimède, dans son Arénaire, la présentait encore comme courante.
 
 Celle de supposer le disque du soleil égal à la terre (comme l'image est égale à l'objet dans les miroirs plans) est propre à Empédocle, mais la place qu'il assigne à la lune (deux fois plus loin du soleil que de la terre) paraît correspondre à une combinaison numérique où il aura peut-être voulu imiter Anaximandre, pour préciser à l'imagination la répartition dans le cosmos des grandes masses distinctes, comme il avait prétendu aussi préciser, par exemple, la composition des os. Il est clair, en effet, que pour lui, d'après la nature qu'il attribue à la lune, celle-ci se trouve à très peu près à la limite supérieure de l'atmosphère terrestre.
 
@@ -4936,11 +4418,7 @@ Un pareil succès prouve clairement que la conception d'Empédocle répondait à
 
 La pluralité des éléments, suivant un nombre plus ou moins restreint, peut avoir été soutenue avant lui ; avoir fait triompher cette doctrine, qui devait régner près de vingt siècles, est un titre de gloire inattaquable.
 
-Comment Empédocle fut-il conduit à cette conception, nous n'en savons rien ; en tout cas, historiquement, la valeur en est simplement empirique, quelles que soient les raisons a priori sur lesquelles Aristote a essayé de l'appuyer. A l'idée primitive du monisme, idée incapable de se prêter au progrès de la science et
-
-[p. 320]
-
-déjà acculée dans l'impasse de l'idéalisme, elle opposait, comme fait, la distinction familière à tous des trois états des corps, solide, liquide, aériforme, sauf à dédoubler la notion plus vague de ce dernier état, de façon à pouvoir rendre compte des phénomènes de chaleur et de lumière. Évidemment, il y avait une anticipation illégitime à affirmer que les combinaisons en proportions variées de ces quatre éléments suffisaient pour expliquer les innombrables propriétés des corps naturels ; mais tant que l'étude n'alla pas plus avant, cette affirmation satisfaisait.
+Comment Empédocle fut-il conduit à cette conception, nous n'en savons rien ; en tout cas, historiquement, la valeur en est simplement empirique, quelles que soient les raisons *a priori* sur lesquelles Aristote a essayé de l'appuyer. A l'idée primitive du monisme, idée incapable de se prêter au progrès de la science et [p. 320] déjà acculée dans l'impasse de l'idéalisme, elle opposait, comme fait, la distinction familière à tous des trois états des corps, solide, liquide, aériforme, sauf à dédoubler la notion plus vague de ce dernier état, de façon à pouvoir rendre compte des phénomènes de chaleur et de lumière. Évidemment, il y avait une anticipation illégitime à affirmer que les combinaisons en proportions variées de ces quatre éléments suffisaient pour expliquer les innombrables propriétés des corps naturels ; mais tant que l'étude n'alla pas plus avant, cette affirmation satisfaisait.
 
 Obscurément battue en brèche pendant le moyen âge par les conceptions
 
@@ -4962,11 +4440,7 @@ Anaxagore et rivalisa avec Parménide, en se rapprochant de lui, mais encore plu
 
 2. PHILOSOPHUM., 3. — (1) Empédocle, venu après les pythagoriens, a aussi longuement parlé de la nature des daimones, qu'il croit en très grand nombre et occupés à administrer ce qui se passe sur la terre. Il regarde comme principe de l'univers la Haine et l'Amour et le feu intelligent de l'unité, le dieu ; d'après lui, tout est formé de feu, tout se résoudra en feu, dogme adopté par les stoïciens, qui s'attendent donc à un embrasement. -(2) C'est, de tous, lui qui avoue le plus complètement la métempsycose (vers 11-12). — (3) Ainsi il affirme que les âmes passent dans les corps de tous les animaux. Son maître Pythagore avait dit qu'au siège de Troie il avait été Euphorbe ; il avait prétendu reconnaître son bouclier. Voilà pour Empédocle (1).
 
-3. Ps.-PLUT. (Stromat., 10). — Empedocle d'Agrigente admet quatre éléments, le feu, l'eau, l'éther et la terre, avec leur cause, l'Amour et la Haine. De la combinaison primordiale des éléments s'est d'abord séparé l'air qui s'est répandu tout autour en cercle. ;après l'air, le feu s'est dégagé, mais, ne trouvant plus de place en haut, a couru au-dessous de la concrétion formée par l'air. Il y a autour de la terre deux hémisphères qui tournent circulairement, l'un dont l'ensemble est de feu, l'autre qui est mêlé d'air et d'un peu de feu ; c'est ce dernier qui fait la nuit. Le commencement du mouvement a résulté de la rupture d'équilibre entraînée par la réunion du feu. Le soleil n'a nullement une nature ignée ; c'est un reflet du feu, semblable à celui qui se produit sur l'eau. La lune a été constituée par de l'air entraîné par le feu ; cet air s'est concrétionné comme de la grêle ; la lumière de cet astre vient du soleil. Le principat n'appartient ni à la tête, ni à la poitrine, mais au
-
-[p. 322]
-
-sang ; aussi les hommes ont des supériorités différentes suivant les parties du corps où le sang afflue en plus grande quantité.
+3. Ps.-PLUT. (Stromat., 10). — Empedocle d'Agrigente admet quatre éléments, le feu, l'eau, l'éther et la terre, avec leur cause, l'Amour et la Haine. De la combinaison primordiale des éléments s'est d'abord séparé l'air qui s'est répandu tout autour en cercle. ;après l'air, le feu s'est dégagé, mais, ne trouvant plus de place en haut, a couru au-dessous de la concrétion formée par l'air. Il y a autour de la terre deux hémisphères qui tournent circulairement, l'un dont l'ensemble est de feu, l'autre qui est mêlé d'air et d'un peu de feu ; c'est ce dernier qui fait la nuit. Le commencement du mouvement a résulté de la rupture d'équilibre entraînée par la réunion du feu. Le soleil n'a nullement une nature ignée ; c'est un reflet du feu, semblable à celui qui se produit sur l'eau. La lune a été constituée par de l'air entraîné par le feu ; cet air s'est concrétionné comme de la grêle ; la lumière de cet astre vient du soleil. Le principat n'appartient ni à la tête, ni à la poitrine, mais au [p. 322] sang ; aussi les hommes ont des supériorités différentes suivant les parties du corps où le sang afflue en plus grande quantité.
 
 4. ÉPIPHANE, III, 19.
 
@@ -5008,9 +4482,7 @@ et Xénocrate composent les éléments de molécules plus petites, qui sont des 
 
 10. La droite du monde est au tropique d'été, la gauche au tropique d'hiver.[^p323-1][^p323-2][^p323-3][^p323-4][^p323-5]
 
-[p. 324]
-
-sphère qui le renferme l'empêche d'aller toujours en ligne droite. — 24. L'éclipse se produit lorsque la lune passe au-dessous.
+[p. 324] sphère qui le renferme l'empêche d'aller toujours en ligne droite. — 24. L'éclipse se produit lorsque la lune passe au-dessous.
 
 15. AÉTIUS, II.
 
@@ -5050,11 +4522,7 @@ pour occuper le vide laissé par le sang lorsqu'il retourne en arrière. Empédo
 
 20. AÉTIUS, V.
 
-11. Les ressemblances des enfants avec leurs parents proviennent de la prédominance des semences génératrices, la dissemblance est due à la dissipation de la chaleur de la semence. (Cf. Censorinus, VI, 6 : Sur ce sujet, voici les distinctions que fait Empédocle : si dans les semences des parents il y a une égale chaleur, il naît un garçon semblable au père ; pour un froid égal, une fille semblable à la mère ; si la semence du père est plus
-
-[p. 326]
-
-chaude, celle de la mère plus froide, il naît un garçon qui ressemble à la mère ; si au contraire la semence du père est plus froide et celle de la mère plus chaude, il naît une fille qui ressemble à la mère.) (Voir aussi pages 242 et 243.) — 12. La conformation du fœtus est soumise pendant la grossesse à l'imagination des femmes ; souvent elles se prennent d'amour pour des statues ou des tableaux et ont des enfants qui ressemblent à ces objets.
+11. Les ressemblances des enfants avec leurs parents proviennent de la prédominance des semences génératrices, la dissemblance est due à la dissipation de la chaleur de la semence. (Cf. Censorinus, VI, 6 : Sur ce sujet, voici les distinctions que fait Empédocle : si dans les semences des parents il y a une égale chaleur, il naît un garçon semblable au père ; pour un froid égal, une fille semblable à la mère ; si la semence du père est plus [p. 326] chaude, celle de la mère plus froide, il naît un garçon qui ressemble à la mère ; si au contraire la semence du père est plus froide et celle de la mère plus chaude, il naît une fille qui ressemble à la mère.) (Voir aussi pages 242 et 243.) — 12. La conformation du fœtus est soumise pendant la grossesse à l'imagination des femmes ; souvent elles se prennent d'amour pour des statues ou des tableaux et ont des enfants qui ressemblent à ces objets.
 
 21. AÉTIUS, V.
 
@@ -5078,11 +4546,7 @@ plus grande quantité ; les plus lourds sont restés sur la terre, les autres...
 
 24. AÉTIUS, V. — 26. Les arbres ont poussé de la terre avant les animaux, avant que le soleil ne se fût dégagé, que le jour et la nuit ne fussent distincts. Ils présentent les sexes, mâle et femelle, d'après la proportion des mélanges qui les forment ; ils s'élèvent dans l'air et grandissent grâce à la chaleur de la terre, dont ils sont des parties au même titre que l'embryon est partie de la matrice dans le sein de sa mère. Les fruits sont des excédents de l'eau et du feu des plantes ; les arbres qui renferment moins d'eau, perdent leurs feuilles par suite de l'évaporation de l'été ; ceux qui en ont en surabondance, restent verts comme le laurier, l'olivier et le palmier. Les différences des saveurs proviennent de la variété de composition du sol nourricier, dont les plantes tirent différentes homéoméries ; ainsi pour les vignes, ce n'est pas la différence du plant, mais celle du terroir qui fait le bon vin.
 
-27. Les animaux se nourrissent par l'union de ce qui leur convient, et grandissent par la présence de la chaleur ; ils diminuent et se consument par le défaut de l'une ou l'autre chose. Les hommes d'aujourd'hui, comparés aux premiers, sont comme des enfants. — 28. Les désirs surviennent aux animaux par suite du défaut des éléments qui les
-
-[p. 328]
-
-compléteraient, les plaisirs résultent de l'union des choses semblables et congénères....
+27. Les animaux se nourrissent par l'union de ce qui leur convient, et grandissent par la présence de la chaleur ; ils diminuent et se consument par le défaut de l'une ou l'autre chose. Les hommes d'aujourd'hui, comparés aux premiers, sont comme des enfants. — 28. Les désirs surviennent aux animaux par suite du défaut des éléments qui les [p. 328] compléteraient, les plaisirs résultent de l'union des choses semblables et congénères....
 
 FRAGMENTS D'EMPÉDOCLE
 
@@ -5140,9 +4604,7 @@ Nous arrivâmes sous cet antre couvert. |
 
 | 35| Reçus par l'un après l'autre, ils sont partout en horreur. |
 
-Étroites sont les ressources que leur offre le corps, | et là-dessus,
-
-[p. 329]
+Étroites sont les ressources que leur offre le corps, | et là-dessus, [p. 329]
 
 ### Chapitre Xiii.
 
@@ -5218,9 +4680,7 @@ il n'y a jamais de terme au changement perpétuel,
 
 | Mais en tant que jamais il n'y a de terme au changement perpétuel, | en ce sens ils subsistent toujours dans un cycle immuable. |
 
-[p. 330]
-
-751 Écoute donc mes paroles, car l'enseignement accroît l'intelligence.
+[p. 330] 751 Écoute donc mes paroles, car l'enseignement accroît l'intelligence.
 
 | Ainsi que je l'ai déjà dit, en traçant les bornes de mon discours,
 
@@ -5332,11 +4792,7 @@ forment les hommes et les diverses tribus des bêtes.
 
 | Ainsi, en tant que l'un naît de plusieurs,
 
-[155] et qu'à leur tour, ceux-ci se constituent par sa division, ❘ en ce sens l'un et les autres commencent et ne
-
-[p. 332]
-
-durent pas éternellement.
+[155] et qu'à leur tour, ceux-ci se constituent par sa division, ❘ en ce sens l'un et les autres commencent et ne [p. 332] durent pas éternellement.
 
 | Mais en tant que jamais il n'y a de terme au changement perpétuel, ❘ en ce sens ils subsistent toujours dans un cycle immuable.
 
@@ -5464,11 +4920,7 @@ Aphrodite, y mettant ses douces attaches
 
 | Il faut redire deux ou trois fois ce qui le mérite. |.....
 
-Allons, je vais te dire maintenant la première origine du soleil, | et comment s'est formé tout ce que l'on voit aujourd'hui, 235 | la
-
-[p. 334]
-
-terre, la mer ondoyante, l'air humide, | le Titan (soleil) et l'éther qui resserre toutes choses dans son cercle. |..... Car si les profondeurs de la terre étaient illimitées ainsi que le vaste éther, | suivant les vaines paroles que répètent tant | de bouches d'hommes qui ne voient qu'une faible partie de l'univers |
+Allons, je vais te dire maintenant la première origine du soleil, | et comment s'est formé tout ce que l'on voit aujourd'hui, 235 | la [p. 334] terre, la mer ondoyante, l'air humide, | le Titan (soleil) et l'éther qui resserre toutes choses dans son cercle. |..... Car si les profondeurs de la terre étaient illimitées ainsi que le vaste éther, | suivant les vaines paroles que répètent tant | de bouches d'hommes qui ne voient qu'une faible partie de l'univers |
 
 240 Le soleil aux traits perçants, la lune douce et paisible | Mais lui dans sa course parcourt le vaste ciel
 
@@ -5596,11 +5048,7 @@ des formes humaines à tête bovine, qui possédaient à la fois les attributs d
 
 des femelles sans leurs organes distinctifs |
 
-Maintenant, comment des hommes et des femmes aux pleurs faciles | la race fut produite au jour par le feu qui se dégageait, | 320 | écoute-le ; ce n'est pas un discours hors de propos ou frivole. | D'abord des formes indistinctes
-
-[p. 336]
-
-s'élevèrent du sol, ❘ à la fois constituées d'eau et de terre. feu, cherchant à se réunir à son semblable, les faisait sortir,
+Maintenant, comment des hommes et des femmes aux pleurs faciles | la race fut produite au jour par le feu qui se dégageait, | 320 | écoute-le ; ce n'est pas un discours hors de propos ou frivole. | D'abord des formes indistinctes [p. 336] s'élevèrent du sol, ❘ à la fois constituées d'eau et de terre. feu, cherchant à se réunir à son semblable, les faisait sortir,
 
 | sans qu'elles montrassent déjà le gracieux arrangement des membres, 325 sans qu'elles eussent la voix ni les attributs du sexe viril.
 
@@ -5656,9 +5104,7 @@ Voici comment les animaux inspirent et respirent ; chez tous, le sang peut quitt
 
 | De même, quand l'airain est rempli par l'eau | et que l'ouverture du tuyau est fermée par la main,
 
-| 360 | l'air, pressant de dehors en dedans, arrête l'eau | à la porte du passage étroit qu'il occupe en résistant, | jusqu'à ce que la main soit retirée ;
-
-[p. 337]
+| 360 | l'air, pressant de dehors en dedans, arrête l'eau | à la porte du passage étroit qu'il occupe en résistant, | jusqu'à ce que la main soit retirée ; [p. 337]
 
 ### Chapitre Xiii.
 
@@ -5718,11 +5164,7 @@ Amis, qui dans la grande ville du blond Acragas, | habitez l'acropole, appliqué
 
 | je marche honoré de tous, comme il est juste, | ceint de bandelettes et de verdoyantes couronnes, | et je vais ainsi dans les villes
 
-22
-
-[p. 338]
-
-voisines,
+22 [p. 338] voisines,
 
 | recueillant les respects des hommes et des femmes ; ils me suivent 405 par milliers, demandant la voie du salut,
 
@@ -5804,9 +5246,7 @@ Tous les remèdes des maladies, et ce qui rend la force à la vieillesse,. | tu 
 
 | et dans l'ardeur des étés tu feras revenir, | pour arroser les moissons, l'eau nourricière des plantes. | 470| Tu ramèneras de l'Hadès l'homme déjà mort.....
 
-[p. 340]
-
-[p. 341]
+[p. 340] [p. 341]
 
 ## Appendice
 
@@ -5824,9 +5264,7 @@ Les raisons invoquées sont, d'une part, que d'ordinaire les choses se contemple
 
 Voilà quelles sont les opinions qui ont été émises sur la sensation en général ; quant aux sensations particulières, elles n'ont guère été considérées à cet égard. Empédocle seul essaie de les ramener en détail à la similitude.[^p341-1]
 
-[p. 342]
-
-membres mobiles du corps,- tel se présente l'intellect des hommes ; car c'est cela même — qui pense, c'est la nature des membres humains
+[p. 342] membres mobiles du corps,- tel se présente l'intellect des hommes ; car c'est cela même — qui pense, c'est la nature des membres humains
 
 pour tous et pour chacun ; car c'est le plus qui fait la pensée. »
 
@@ -5840,15 +5278,11 @@ Que d'après lui le contraire en lui-même produise d'ailleurs une sensation, c'
 
 7. Empédocle dit une même chose de tous les sens, à savoir que la sensation se fait par adaptation aux pores de chaque sens particulier ; c'est pourquoi l'un ne peut juger des objets de l'autre, les pores étant soit trop larges, soit trop étroits pour l'objet à sentir, qui alors ou bien les traverse sans les toucher, ou bien ne peut aucunement s'y introduire.
 
-[p. 343]
-
-Il essaie également d'expliquer ce qu'est l'œil ; l'intérieur, d'après lui, est formé de feu < et d'eau >, l'extérieur de terre et d'air que le feu subtil peut traverser comme fait la lumière d'une lanterne. Les pores sont disposés alternativement, feu et eau ; par les premiers, nous prenons connaissance du blanc, par les seconds, du noir ; car il y a adaptation pour l'un comme pour l'autre. Il y a d'ailleurs un mouvement d'effluves des couleurs à l'œil.
+[p. 343] Il essaie également d'expliquer ce qu'est l'œil ; l'intérieur, d'après lui, est formé de feu < et d'eau >, l'extérieur de terre et d'air que le feu subtil peut traverser comme fait la lumière d'une lanterne. Les pores sont disposés alternativement, feu et eau ; par les premiers, nous prenons connaissance du blanc, par les seconds, du noir ; car il y a adaptation pour l'un comme pour l'autre. Il y a d'ailleurs un mouvement d'effluves des couleurs à l'œil.
 
 8. Cependant tous les yeux ne sont pas également constitués ; les éléments peuvent se fusionner régulièrement ou se contrarier ; le feu peut être au centre ou au-dessus. Aussi les animaux ont la vue plus perçante, les uns de jour, les autres de nuit ; pour ceux qui ont moins de feu, ce sera de jour, car la lumière extérieure complète pour eux l'intérieure ; dans le cas contraire, ce sera de nuit, l'équilibre s'établissant de la même façon. Et inversement, la vue sera moins distincte de jour pour ceux qui ont trop de feu, puisque cet élément, augmentant encore, occupera et obstruera les pores de l'eau ; elle sera de même moins distincte de nuit pour ceux qui ont trop d'eau, le feu étant alors obstrué par l'eau. Pour que la vision redevienne distincte, il faut que, pour les uns, l'eau soit dissipée par la lumière extérieure, pour les autres, le feu par l'air obscur ; dans chaque cas, c'est le contraire qui est le remède. Le meilleur tempérament consiste dans une composition à parties égales ; c'est ce qui donne des yeux excellents. Voilà à peu près ce qu'il dit de la vue.[^p343-1][^p343-2]
 
-[p. 344]
-
-ou en est très voisine. Après avoir énuméré comment chaque chose est connue par le semblable, il ajoute à la fin :
+[p. 344] ou en est très voisine. Après avoir énuméré comment chaque chose est connue par le semblable, il ajoute à la fin :
 
 (Vers 381-382). « Car c'est là de quoi toutes choses sont harmonieusement constituées
 
@@ -5878,17 +5312,13 @@ s'il n'y a pas adaptation complète du semblable, mais seulement contact, il s'e
 
 (Vers 267-268) « qui sont au plus éloignés les uns des autres par leur origine, leur tempérament, et la forme qui leur est imprimée. »>
 
-[p. 346]
-
-Le plaisir et la douleur, produits de la sorte, sont des sensations ou sont accompagnés de sensations ; celles-ci ne seraient donc pas toujours produites par les semblables.- D'un autre côté, si ce sont surtout les corps de même nature qui produisent le plaisir par leur contact, comme il le dit, ce devrait être ceux qui sont incorporés ensemble qui éprouveraient le plus de plaisir ou en général sentiraient le mieux, puisqu'il attribue à la même cause la sensation et le plaisir. Cependant, bien souvent, tout en sentant, nous souffrons de la sensation même ; d'après Anaxagore, cela même arriverait toujours, car il n'y aurait pas de sensation sans souffrance.
+[p. 346] Le plaisir et la douleur, produits de la sorte, sont des sensations ou sont accompagnés de sensations ; celles-ci ne seraient donc pas toujours produites par les semblables.- D'un autre côté, si ce sont surtout les corps de même nature qui produisent le plaisir par leur contact, comme il le dit, ce devrait être ceux qui sont incorporés ensemble qui éprouveraient le plus de plaisir ou en général sentiraient le mieux, puisqu'il attribue à la même cause la sensation et le plaisir. Cependant, bien souvent, tout en sentant, nous souffrons de la sensation même ; d'après Anaxagore, cela même arriverait toujours, car il n'y aurait pas de sensation sans souffrance.
 
 17. Autre objection particulière : si la connaissance est produite par le semblable, quand il compose l'œil de feu et du contraire, nous pouvons bien connaître le blanc et le noir ; mais comment pourrons-nous percevoir le brun et les autres couleurs mixtes ? Ce ne sera ni par les pores du feu ni par ceux de l'eau, ni par d'autres communs à ces deux éléments, et cependant nous ne voyons pas moins ces couleurs que les autres.
 
 18. Ce qu'il dit pour les animaux qui voient mieux les uns le jour, les autres la nuit, n'est pas moins étrange ; car le feu moindre est dissipé par le plus grand, ce qui fait que nous ne pouvons regarder en face ni le soleil ni en général le féu pur. Par conséquent, les animaux à qui il manque du feu, devraient moins bien voir le jour ; ou, si toutefois le semblable augmente l'intensité, comme il dit, tandis que le contraire fait obstacle et dissipe, on devrait toujours, qu'on ait plus ou moins de lumière, voir mieux le blanc le jour, et le noir la nuit. En tout cas, on voit toujours mieux toutes choses de jour ; il n'y a exception que pour un petit nombre d'animaux, et il est probable que leur feu propre a assez de force pour cela ; c'est comme ceux dont la superficie est lumineuse pendant la nuit.
 
-19. Enfin, pour les yeux qui sont également tempérés, les deux éléments doivent augmenter à tour de rôle, en sorte que si l'excès de l'un empêche de voir, il ne saurait y avoir grande différence entre les vues. Mais il est difficile d'examiner tous les accidents de la vue. Quant aux autres sensations, comment percevrions-nous par le semblable ? Le semblable est indéterminé. Nous ne percevons pas le bruit par le bruit, ni l'odeur par l'odeur, ni en général l'homogène par l'homogène, mais plutôt, à vrai dire, par le contraire. Il faut, en somme, que le sens ne soit pas déjà affecté ; si nous avons du bruit dans les oreilles, une saveur dans la bouche,
-
-[p. 347]
+19. Enfin, pour les yeux qui sont également tempérés, les deux éléments doivent augmenter à tour de rôle, en sorte que si l'excès de l'un empêche de voir, il ne saurait y avoir grande différence entre les vues. Mais il est difficile d'examiner tous les accidents de la vue. Quant aux autres sensations, comment percevrions-nous par le semblable ? Le semblable est indéterminé. Nous ne percevons pas le bruit par le bruit, ni l'odeur par l'odeur, ni en général l'homogène par l'homogène, mais plutôt, à vrai dire, par le contraire. Il faut, en somme, que le sens ne soit pas déjà affecté ; si nous avons du bruit dans les oreilles, une saveur dans la bouche, [p. 347]
 
 ## Appendice I. — Theophraste, Sur Les Sensations.
 
@@ -5908,9 +5338,7 @@ Il ne l'en reconnaît pas moins comme étant la véritable cause et en terminant
 
 Il n'est pas vrai non plus qu'on sente surtout les choses subtiles ; il faut qu'en outre elles aient de l'odeur. Car l'air et le feu sont ce qu'il y a de plus subtil et ils n'affectent point l'odorat.
 
-[p. 348]
-
-23. On peut aussi proposer des objections à propos de la pensée. Si en effet elle se produit comme d'après lui la sensation, elle appartiendra à toutes choses. Mais comment est-il possible que la pensée ait lieu à la fois avec un changement et par l'action du semblable ? Le semblable n'est pas altéré par le semblable. Attribuer la pensée au sang est d'ailleurs complètement absurde ; il ya beaucoup d'animaux qui n'ont pas de sang, et chez ceux qui en ont, ce sont les organes des sens qui en sont le moins pourvus. Enfin il faudrait que les os et les cheveux sentissent aussi, puisqu'ils sont aussi bien composés de tous les éléments. Mais il confond d'une part la pensée, la sensation, le plaisir, de l'autre la souffrance et l'ignorance, puisqu'il produit ces deux dernières par les dissemblables ; il faudrait donc que la souffrance accompagnât l'ignorance, et le plaisir la pensée.
+[p. 348] 23. On peut aussi proposer des objections à propos de la pensée. Si en effet elle se produit comme d'après lui la sensation, elle appartiendra à toutes choses. Mais comment est-il possible que la pensée ait lieu à la fois avec un changement et par l'action du semblable ? Le semblable n'est pas altéré par le semblable. Attribuer la pensée au sang est d'ailleurs complètement absurde ; il ya beaucoup d'animaux qui n'ont pas de sang, et chez ceux qui en ont, ce sont les organes des sens qui en sont le moins pourvus. Enfin il faudrait que les os et les cheveux sentissent aussi, puisqu'ils sont aussi bien composés de tous les éléments. Mais il confond d'une part la pensée, la sensation, le plaisir, de l'autre la souffrance et l'ignorance, puisqu'il produit ces deux dernières par les dissemblables ; il faudrait donc que la souffrance accompagnât l'ignorance, et le plaisir la pensée.
 
 24. Il n'est pas moins absurde d'attribuer les facultés au tempérament du sang dans les parties, comme si la langue était la cause de l'éloquence ou les mains celle de l'habileté de l'artiste, comme si ce n'étaient pas là de simples instruments. Il vaudrait mieux attribuer la cause à la forme plutôt qu'au tempérament du sang, qui est étranger à l'intelligence ; cette façon de faire serait justifiée par la comparaison des divers animaux.
 
@@ -5932,11 +5360,7 @@ Voilà les déterminations d'Alcméon.
 
 29. Toute sensation est accompagnée de souffrance ; ceci semble une conséquence de l'hypothèse, car le contact de tout dissemblable est pénible. Cette souffrance devient sensible par la durée ou par l'excès de la sensation, car les couleurs brillantes et les bruits excessifs sont pénibles et on ne peut pas les supporter longtemps. Les plus grands animaux ont plus de sensibilité, et en général la sensation est d'après la grandeur. Ceux qui ont des yeux grands, purs et brillants, voient les grands objets et de loin ; avec de petits yeux, c'est le contraire.
 
-30. De même pour l'ouïe ; les grands animaux entendent les grands bruits et de loin ; les bruits moindres leur échappent ; les petits animaux entendent au contraire les petits bruits et ceux qui sont voisins. De même pour l'odorat ; l'air subtil a une odeur, car on en sent une dans l'air chauffé et raréfié. L'animal de grande taille qui respire entraîne en même temps le dilaté et le condensé,
-
-[p. 350]
-
-le petit animal ne respire que le dilaté ; aussi les grands animaux sentent-ils mieux. L'odeur est plus vive de près que de loin, parce qu'elle est plus dense et qu'en se dispersant elle s'affaiblit. On peut presque dire que les grands animaux ne sentent pas une odeur subtile, ni les petits une forte.
+30. De même pour l'ouïe ; les grands animaux entendent les grands bruits et de loin ; les bruits moindres leur échappent ; les petits animaux entendent au contraire les petits bruits et ceux qui sont voisins. De même pour l'odorat ; l'air subtil a une odeur, car on en sent une dans l'air chauffé et raréfié. L'animal de grande taille qui respire entraîne en même temps le dilaté et le condensé, [p. 350] le petit animal ne respire que le dilaté ; aussi les grands animaux sentent-ils mieux. L'odeur est plus vive de près que de loin, parce qu'elle est plus dense et qu'en se dispersant elle s'affaiblit. On peut presque dire que les grands animaux ne sentent pas une odeur subtile, ni les petits une forte.
 
 31. Attribuer la sensation aux contraires n'est pas sans raison, comme on l'a dit ; car l'altération semble provenir non pas des semblables, mais des contraires. Cependant il faudrait bien s'assurer si la sensation est une altération et si le contraire peut juger du contraire. Mais dire que la sensation est toujours accompagnée de souffrance, cela n'est d'accord ni avec l'expérience (car il y a des sensations accompagnées de plaisir, et la plupart ne le sont point de souffrance) ni avec la raison ; car la sensation est selon la nature, et rien de ce qui est selon la nature n'est forcé ni pénible ; ce serait bien plutôt agréable, et il semble bien qu'il en soit ainsi. Car nous prenons plaisir aux mêmes choses en plus grande quantité ou plus fréquentes, et nous recherchons la sensation elle-même en dehors des désirs particuliers.
 
@@ -5956,21 +5380,13 @@ il est d'ailleurs raisonnable qu'ils l'emportent pour les sensations aussi bien 
 
 36. Pour l'image visuelle, son opinion est une de celles qui sont généralement répandues ; le vulgaire s'explique ordinairement la vision par cette image qui se produit dans les yeux. Mais on ne réfléchit pas que les grandeurs vues ne sont pas en proportion avec les images, qu'il n'est pas possible qu'il y ait en même temps diverses images qui se contrarient, enfin que le mouvement, la distance, la grandeur sont des objets visibles, mais ne donnent pas d'image. D'ailleurs il y a des animaux chez lesquels il n'y a point d'image, comme ceux dont les yeux sont durs et ceux qui vivent dans l'eau. Bien plus, nombre d'objets inanimés devraient voir, si c'était là la raison ; car il se produit des reflets sur l'eau, le bronze et bien d'autres substances.
 
-37. Il dit lui-même que les couleurs font image les unes sur les autres, et davantage la forte sur la faible ; il faudrait donc que
-
-[p. 352]
-
-l'une et l'autre fût douée de la vue, et surtout la couleur noire, ou en général, la plus faible. C'est pour cela qu'il fait l'œil de même couleur que la nuit et qu'il prend la lumière comme cause de l'image. Cependant nous voyons la lumière directement et sans aucune image. En second lieu le noir n'a en rien moins de lumière que le blanc. Enfin, dans les autres cas, nous voyons toujours l'image se produire sur les objets les plus nets et les plus brillants et lui-même dit que les membranes des yeux sont délicates et brillantes. Le vulgaire fait même l'œil de feu, comme si les couleurs participaient surtout de cet élément. Anaxagore a donc, comme j'ai dit, suivi là-dessus une croyance commune et ancienne ; toutefois il a exposé une opinion particulière sur la perception du grand dans les organes des sens, surtout par celui de la vue ; quant aux sensations plus grossières, il ne les a point éclaircies.
+37. Il dit lui-même que les couleurs font image les unes sur les autres, et davantage la forte sur la faible ; il faudrait donc que [p. 352] l'une et l'autre fût douée de la vue, et surtout la couleur noire, ou en général, la plus faible. C'est pour cela qu'il fait l'œil de même couleur que la nuit et qu'il prend la lumière comme cause de l'image. Cependant nous voyons la lumière directement et sans aucune image. En second lieu le noir n'a en rien moins de lumière que le blanc. Enfin, dans les autres cas, nous voyons toujours l'image se produire sur les objets les plus nets et les plus brillants et lui-même dit que les membranes des yeux sont délicates et brillantes. Le vulgaire fait même l'œil de feu, comme si les couleurs participaient surtout de cet élément. Anaxagore a donc, comme j'ai dit, suivi là-dessus une croyance commune et ancienne ; toutefois il a exposé une opinion particulière sur la perception du grand dans les organes des sens, surtout par celui de la vue ; quant aux sensations plus grossières, il ne les a point éclaircies.
 
 38. Clidème est le seul qui ait parlé de la vue à part ; la seule raison pour que nous percevions par nos yeux est, d'après lui, qu'ils sont diaphanes ; par les oreilles, c'est que l'air qui y arrive les met en mouvement ; par les narines, c'est que nous aspirons l'air, auquel se mêlent les odeurs ; la langue sent les sucs, le chaud et le froid, parce qu'elle est spongieuse ; le reste du corps n'a aucune autre sensation que celle du chaud, de l'humide et des contraires ; les oreilles seules ne perçoivent rien par elles-mêmes, elles transmettent simplement à l'esprit ; Anaxagore, au contraire, fait tout remonter à l'esprit.
 
 39. Diogène a attaché à l'air les sensations aussi bien que la vie et l'intelligence ; on pourrait donc dire qu'il les attribue au semblable (car il n'y aurait, d'après lui, ni action ni état passif, si toutes choses ne provenaient pas d'un seul principe). L'olfaction serait ainsi attachée à l'air autour de l'encéphale ; car cet air est pressé et en proportion avec l'odeur ; l'encéphale, au contraire, est relâché et distendu par de petits vaisseaux, dont la disposition n'est pas en rapport avec les odeurs et n'admet pas leur mélange ; or, il est clair que s'il y a un air dont le tempérament soit proportionné, c'est bien là ce qui sent.
 
-40. L'audition a lieu lorsque le mouvement de l'air dans les oreilles, provoqué par celui du dehors, pénètre jusqu'à l'encéphale. La vue se produit au moyen de l'image sur la pupille ; le mélange avec l'air interne amène la sensation ; comme preuve, s'il y a inflammation des veines, il n'y a pas mélange avec l'air intérieur, et l'on ne voit plus, quoiqu'il y ait toujours image. Le goût est dû
-
-[p. 353]
-
-à ce que la langue est d'un tissu relâché et délicat. Quant au toucher, il n'a déterminé ni comment il se produit, ni à quoi il s'applique. Mais après cela il essaie de dire pourquoi et de qui les sens peuvent être plus fins.
+40. L'audition a lieu lorsque le mouvement de l'air dans les oreilles, provoqué par celui du dehors, pénètre jusqu'à l'encéphale. La vue se produit au moyen de l'image sur la pupille ; le mélange avec l'air interne amène la sensation ; comme preuve, s'il y a inflammation des veines, il n'y a pas mélange avec l'air intérieur, et l'on ne voit plus, quoiqu'il y ait toujours image. Le goût est dû [p. 353] à ce que la langue est d'un tissu relâché et délicat. Quant au toucher, il n'a déterminé ni comment il se produit, ni à quoi il s'applique. Mais après cela il essaie de dire pourquoi et de qui les sens peuvent être plus fins.
 
 41. L'odorat est plus subtil pour qui a le moins d'air dans la tête, car cet air se mélange plus rapidement. Ce sens est encore favorisé si l'aspiration de l'air se fait par un conduit plus long et plus étroit, car la perception se fait ainsi plus vite ; aussi certains animaux ont-ils l'odorat plus fin que ne l'a l'homme ; d'ailleurs celui-ci sent surtout lorsque l'odeur, est proportionnée à l'air pour le mélange. L'ouïe est d'autant plus fine que les veines sont ténues, que le conduit auditif est court, étroit et direct, que par là-dessus l'oreille est droite et grande. En effet, c'est l'air des oreilles qui, étant mis en mouvement, meut l'air interne ; si donc le conduit est trop large, le mouvement de l'air, ne venant pas tomber sur un corps en repos, produit une résonance et un bruit inarticulé.
 
@@ -5982,9 +5398,7 @@ l'une et l'autre fût douée de la vue, et surtout la couleur noire, ou en gén�
 
 23
 
-[p. 354]
-
-Que l'humidité lui soit nuisible, il y en a une preuve dans l'infériorité intellectuelle des autres animaux, qui respirent l'air sortant de la terre et dont l'alimentation est plus humide que pour nous. Quant aux oiseaux, ils respirent un air pur, mais leur nature est semblable à celle des poissons ; leur chair est très dense et ne permet pas à l'air de circuler dans tout le corps, mais l'arrête dans la cavité interne ; aussi ils digèrent rapidement leur nourriture, mais ils sont dépourvus de raison. En dehors de la nourriture, la bouche et la langue ont une certaine influence ; car les animaux ne peuvent converser ensemble. Les plantes, n'ayant pas de cavité interne et ne laissant pas entrer l'air, sont absolument dépourvues de pensée.
+[p. 354] Que l'humidité lui soit nuisible, il y en a une preuve dans l'infériorité intellectuelle des autres animaux, qui respirent l'air sortant de la terre et dont l'alimentation est plus humide que pour nous. Quant aux oiseaux, ils respirent un air pur, mais leur nature est semblable à celle des poissons ; leur chair est très dense et ne permet pas à l'air de circuler dans tout le corps, mais l'arrête dans la cavité interne ; aussi ils digèrent rapidement leur nourriture, mais ils sont dépourvus de raison. En dehors de la nourriture, la bouche et la langue ont une certaine influence ; car les animaux ne peuvent converser ensemble. Les plantes, n'ayant pas de cavité interne et ne laissant pas entrer l'air, sont absolument dépourvues de pensée.
 
 45. La même cause prive les enfants de raison, car chez eux l'humide est très considérable, en sorte que l'air ne peut pénétrer dans tout le corps, mais se ramasse vers la poitrine, ce qui les rend hébétés et déraisonnables. S'ils sont colères et en général faciles à changer d'idée et à passer d'un extrême à l'autre, c'est que l'air ainsi dégagé dans leur petit corps est relativement considérable. C'est aussi là la cause de l'oubli ; l'air ne circulant pas dans tout le corps, le commerce entre les parties ne peut être entretenu ; une preuve, c'est que, quand on cherche à se rappeler, il y a embarras vers la poitrine ; dès qu'on retrouve, il y a dissipation et soulagement de la peine.
 
@@ -6002,11 +5416,7 @@ respirent aucunement. Et s'il faut que la respiration pénètre par tout le corp
 
 49. Démocrite ne détermine pas, au sujet de la sensation, si elle a lieu par les contraires ou par les semblables. S'il rend compte de la sensation par le changement, il semblerait l'expliquer par les contraires, car il n'y a pas changement du semblable par le semblable ; mais il paraît de l'opinion opposée, quand il ramène la sensation et en général le changement à l'état passif, quand il dit que cet état est impossible sans identité avec l'agent. Si donc il admet une différence des objets, l'effet n'aurait pas lieu en tant qu'il y a différence, mais en tant qu'il y a quelque chose d'identique. Ainsi on peut entendre ce qu'il dit dans les deux acceptions. Voici maintenant comment il essaie d'expliquer chaque sens.
 
-50. La vision, d'après lui, se produit par l'image ; mais sur celle-ci il a une opinion particulière, car il ne la fait pas produire immédiatement sur la pupille, mais l'air, entre l'œil et l'objet, recevrait une conformation en se resserrant sous l'action de l'objet vu et du voyant ; car toute chose émet constamment une certaine effluve. Puis cet air, ayant ainsi pris une forme solide et une couleur différente, fait image dans les yeux humides ; car ce qui est dense ne le reçoit pas, ce qui est humide le laisse pénétrer. Aussi les yeux mous sont meilleurs pour voir que les durs ; il faut que la tunique
-
-[p. 356]
-
-extérieure soit aussi mince et aussi résistante que possible, que l'intérieur de l'œil soit très mou, sans chair serrée et dense, même sans liquides épais et gras, qu'enfin les veines dans les yeux soient droites et vides de façon à prendre une forme semblable à l'effigie ; car chaque chose est surtout connue par les pareilles.
+50. La vision, d'après lui, se produit par l'image ; mais sur celle-ci il a une opinion particulière, car il ne la fait pas produire immédiatement sur la pupille, mais l'air, entre l'œil et l'objet, recevrait une conformation en se resserrant sous l'action de l'objet vu et du voyant ; car toute chose émet constamment une certaine effluve. Puis cet air, ayant ainsi pris une forme solide et une couleur différente, fait image dans les yeux humides ; car ce qui est dense ne le reçoit pas, ce qui est humide le laisse pénétrer. Aussi les yeux mous sont meilleurs pour voir que les durs ; il faut que la tunique [p. 356] extérieure soit aussi mince et aussi résistante que possible, que l'intérieur de l'œil soit très mou, sans chair serrée et dense, même sans liquides épais et gras, qu'enfin les veines dans les yeux soient droites et vides de façon à prendre une forme semblable à l'effigie ; car chaque chose est surtout connue par les pareilles.
 
 51. Tout d'abord cette
 
@@ -6026,9 +5436,7 @@ il est absurde de penser que le soleil repoussant et chassant l'air le condense,
 
 57. L'obscurité de la détermination lui est commune avec les autres. Mais il a en particulier d'absurde cette opinion que le bruit pénètre par tout le corps, que, quand il est entré par l'ouïe, il se répand partout, comme si la sensation appartenait à tout le corps, et non à l'ouïe seulement. Quand le corps d'ailleurs éprouverait quelque effet en même temps que l'ouïe, ce ne serait pas une raison pour qu'il sente ; car il éprouve toujours quelque chose en commun, non seulement avec les autres sensations, mais même avec l'âme. Voilà comment Démocrite explique la vision et l'audition ; pour les autres sens, il suit à peu près l'opinion la plus répandue.
 
-[p. 358]
-
-58. Quant à la pensée, il en dit seulement qu'elle se produit lorsque l'âme se trouve dans un tempérament proportionné ; si quelqu'un devient plus chaud ou plus froid, il y a changement de pensée. Les anciens ont dès lors soupçonné justement ce que c'était que d'ἀλλοφρονεῖν (avoir des pensées différentes). Il est clair par là qu'il attribue la pensée au tempérament du corps et que, suivant son langage, c'est le corps qui fait l'âme. Voilà à peu près sur la sensation et la pensée toutes les opinions que l'on rencontre chez les auteurs qui nous ont précédés.
+[p. 358] 58. Quant à la pensée, il en dit seulement qu'elle se produit lorsque l'âme se trouve dans un tempérament proportionné ; si quelqu'un devient plus chaud ou plus froid, il y a changement de pensée. Les anciens ont dès lors soupçonné justement ce que c'était que d'ἀλλοφρονεῖν (avoir des pensées différentes). Il est clair par là qu'il attribue la pensée au tempérament du corps et que, suivant son langage, c'est le corps qui fait l'âme. Voilà à peu près sur la sensation et la pensée toutes les opinions que l'on rencontre chez les auteurs qui nous ont précédés.
 
 59. Quant aux objets sensibles, à leur nature et à leurs qualités spéciales, on a généralement négligé d'envisager la question. On parle bien de ce qui tombe sous le toucher, comme le lourd et le léger, le chaud et le froid ; on dit, par exemple, que ce qui est dilaté et subtil est chaud, ce qui est dense et grossier est froid ; c'est la distinction que fait Anaxagore entre l'air et l'éther. On détermine aussi le lourd et le léger à peu près par les mêmes attributs et par leurs tendances en haut ou en bas ; on ajoute que le son est un mouvement de l'air, l'odeur une certaine effluve. Empedocle a aussi parlé des couleurs, a dit que le blanc tenait du feu et le noir de l'eau ; les autres n'ont guère fait qu'avancer que le blanc et le noir sont les principes et que les autres couleurs résultent du mélange de celles-là ; ce sont même les seules dont Anaxagore ait parlé.
 
@@ -6054,9 +5462,7 @@ la différence des formes, la grandeur déterminerait l'effet par rapport à la 
 
 Cependant il en attribue, avec d'autres choses, les effets aux figures, sauf qu'il ne donne pas les formes pour tout ; il ne s'attache guère qu'à les déterminer pour les saveurs et les couleurs, surtout en les rapportant à la représentation pour nous.[^p359-1]
 
-[p. 360]
-
-s'échauffe ; car c'est ce qui a le plus de vide qui s'échauffe le mieux. — Le doux est au contraire composé de figures arrondies qui ne sont pas trop petites, en sorte qu'elles se répandent facilement dans tout le corps, sans violence, mais en circulant lentement ; il produit des troubles parce qu'il s'insinue dans des parties qu'il délaie et dérange de leur place ; tout ce liquide ainsi mis en mouvement va couler dans les intestins, là où il trouve le plus de vide et le passage le plus facile.
+[p. 360] s'échauffe ; car c'est ce qui a le plus de vide qui s'échauffe le mieux. — Le doux est au contraire composé de figures arrondies qui ne sont pas trop petites, en sorte qu'elles se répandent facilement dans tout le corps, sans violence, mais en circulant lentement ; il produit des troubles parce qu'il s'insinue dans des parties qu'il délaie et dérange de leur place ; tout ce liquide ainsi mis en mouvement va couler dans les intestins, là où il trouve le plus de vide et le passage le plus facile.
 
 66. L'astringent est composé de grandes figures très anguleuses et aussi peu arrondies que possible ; quand celles-ci pénètrent dans le corps, elles obstruent les petites veines, les aveuglent, les empêchent de couler, ce qui arrête le cours de ventre. L'amer est constitué de petits globules lisses, dont toutefois le contour présente des inflexions, ce qui le rend visqueux et collant. Le salé est formé de grandes figures qui ne sont pas arrondies, dont quelques-unes même sont scalènes, et qui n'ont pas non plus beaucoup d'inflexions (par scalènes, il entend des figures qui s'accrochent et s'entrelacent réciproquement) ; elles sont grandes, puisque le liquide salé reste à la surface ; si elles étaient petites, sous le choc des particules ambiantes, elles pénétreraient dans tout le corps ; elles ne sont pas arrondies, parce que le sel a des aspérités, que l'arrondi est lisse ; elles ne sont pas toutes scalènes, sans quoi le sel pourrait se pétrir, tandis qu'il est friable.
 
@@ -6076,11 +5482,7 @@ de relâchement, d'attribuer au contraire aux figures le chaud, le froid et le r
 
 70. Il serait raisonnable que le meilleur l'emportât à cet égard sur le pire et le sain sur le malade ; car c'est plus conforme à la nature. — D'autre part, s'il n'y a pas de nature pour les objets sensibles, parce qu'ils ne paraissent pas les mêmes à tous, il n'y en a pas davantage pour les animaux ni pour les autres corps ; l'opinion là-dessus n'est pas davantage universelle. Mais si le doux et l'amer ne sont pas perçus par tous de la même façon, la nature de l'amer et du doux n'en paraît pas moins la même à tous, ce que Démocrite lui-même semble témoigner. Car comment ce qui est amer pour nous serait-il, doux ou astringent pour d'autres, s'il n'y a pas pour toutes ces saveurs quelque nature déterminée ?
 
-71. C'est ce qu'il reconnaît encore plus clairement quand il dit que chaque saveur devient et est en vérité, et en particulier que pour l'amer nous avons « le lot de l'intelligence ». Ainsi par là il semble contradictoire de ne pas admettre une certaine nature des objets sensibles, et là-dessus, comme on l'a dit plus haut, d'attribuer une figure à la chaleur ou au reste, tout en disant que ce
-
-[p. 362]
-
-n'est pas là une nature ; il n'y en a pas du tout ou il y en a pour ces objets, puisque les conditions sont les mêmes.
+71. C'est ce qu'il reconnaît encore plus clairement quand il dit que chaque saveur devient et est en vérité, et en particulier que pour l'amer nous avons « le lot de l'intelligence ». Ainsi par là il semble contradictoire de ne pas admettre une certaine nature des objets sensibles, et là-dessus, comme on l'a dit plus haut, d'attribuer une figure à la chaleur ou au reste, tout en disant que ce [p. 362] n'est pas là une nature ; il n'y en a pas du tout ou il y en a pour ces objets, puisque les conditions sont les mêmes.
 
 D'un autre côté, le chaud et le froid, qu'on prend comme principes, devraient avoir une certaine nature, et s'ils en ont une, le reste en a aussi. Cependant, quand il détermine le lourd et le léger suivant les grandeurs, il faut que tout en général ait la même tendance au mouvement, comme s'il n'y avait qu'une seule matière et une nature unique.
 
@@ -6088,11 +5490,7 @@ D'un autre côté, le chaud et le froid, qu'on prend comme principes, devraient 
 
 Quant aux saveurs, il attribue à chacune une figure qu'il met en rapport avec sa puissance affective ; il aurait dû tenir compte non seulement de cela, mais aussi des organes des sens, en tout cas et puisque ce sont eux qui sont affectés. Car le sphérique ou toute autre. figure ne peut avoir toujours la même puissance ; il fallait distinguer, pour le sujet, s'il est constitué de figures semblables ou dissemblables, et comment se produit le changement dans la sensation ; il fallait enfin, là-dessus, expliquer aussi bien tout ce qui concerne le toucher que ce qui regarde le goût. Il y a en effet pour les objets du tact une différence avec les saveurs, qu'il fallait faire ressortir, ou tout au moins il y a là une question omise qui pouvait être traitée.
 
-73. Quant aux couleurs, il en reconnaît quatre simples : d'abord le blanc qui pour lui est le lisse. Car tout ce qui n'a pas des aspérités faisant ombre, et n'est pas d'ailleurs difficile à pénétrer, tout cela est brillant ; il faut au reste que les choses brillantes présentent des pores droits et soient transparentes. Les corps blancs qui sont durs se trouvent composés de pareilles figures, par exemple ce qui garnit intérieurement les coquillages ; de la sorte il n'y a pas d'ombre, les pores sont droits et le corps est bien cassant. Ceux au contraire qui sont friables et s'émiettent facilement sont constitués par des corps arrondis, mais disposés obliquement l'un sur l'autre par couples de deux, en sorte que l'ordonnance soit partout aussi semblable que possible. Dans ces conditions, il y a fragilité, parce que l'union des particules n'a lieu que sur une petite surface ; l'émiettement est facile, parce que la disposition est partout similaire ; il n'y a pas d'ombre, les figures étant lisses et plates. Un corps peut enfin être plus blanc qu'un autre parce que les figures indiquées seront plus exactes, moins mélangées d'autres, et que
-
-[p. 363]
-
-l'ordonnance et la disposition seront davantage celles qui ont été spécifiées.
+73. Quant aux couleurs, il en reconnaît quatre simples : d'abord le blanc qui pour lui est le lisse. Car tout ce qui n'a pas des aspérités faisant ombre, et n'est pas d'ailleurs difficile à pénétrer, tout cela est brillant ; il faut au reste que les choses brillantes présentent des pores droits et soient transparentes. Les corps blancs qui sont durs se trouvent composés de pareilles figures, par exemple ce qui garnit intérieurement les coquillages ; de la sorte il n'y a pas d'ombre, les pores sont droits et le corps est bien cassant. Ceux au contraire qui sont friables et s'émiettent facilement sont constitués par des corps arrondis, mais disposés obliquement l'un sur l'autre par couples de deux, en sorte que l'ordonnance soit partout aussi semblable que possible. Dans ces conditions, il y a fragilité, parce que l'union des particules n'a lieu que sur une petite surface ; l'émiettement est facile, parce que la disposition est partout similaire ; il n'y a pas d'ombre, les figures étant lisses et plates. Un corps peut enfin être plus blanc qu'un autre parce que les figures indiquées seront plus exactes, moins mélangées d'autres, et que [p. 363] l'ordonnance et la disposition seront davantage celles qui ont été spécifiées.
 
 74. Voilà pour les figures du blanc. Le noir est composé des contraires, raboteuses, scalènes, inégales ; car de la sorte il se produit des ombres et les pores ne sont pas droits et facilement pénétrables. D'autre part les effluves seront lentes et troubles ; la manière d'être des effluves a en effet son importance pour la représentation, qui change par suite de l'immixtion de l'air.
 
@@ -6102,11 +5500,7 @@ Quant au vert, il est constitué par du plein et du vide disposés et ordonnés 
 
 76. Telles seraient les figures des couleurs simples, chacune étant d'ailleurs d'autant plus pure qu'elle est formée de particules moins mélangées. Les autres couleurs résultent de la combinaison des simples ; ainsi celles de l'or, du bronze et autres semblables sont mélangées de blanc et de rouge ; car l'éclat provient du blanc et la nuance du rouge, qui pour le mélange tombe dans les vides du blanc. En y ajoutant du vert, on a la plus belle couleur, mais il faut que les assemblages de vert soient petits ; car de grands ne pourraient s'accorder avec une telle combinaison du blanc et du rouge ; les nuances varient d'ailleurs suivant les différentes proportions.
 
-77. Le violet est formé de blanc, de noir et de rouge, mais le rouge domine, le noir est encore en grande quantité, le blanc en proportion médiocre, ce qui produit une sensation agréable. Le présence du rouge et du noir est évidente à l'œil, celle du blanc est trahie par l'éclat et la transparence, qui en sont les effets. Le bleu de guède (ἴσατις) est mélangé de vert et de noir en proportion plus forte ; le vert poireau (πράσινον) de violet et de bleu de guède ou de vert et d'une nuance tirant sur le violet ; c'est le cas du vert-de-gris, qui participe au brillant. L'azur (κυανοῦν) est formé
-
-[p. 364]
-
-de bleu de guède et d'igné, en figures arrondies et en flèches, en sorte que l'étincelant coexiste avec le noir.
+77. Le violet est formé de blanc, de noir et de rouge, mais le rouge domine, le noir est encore en grande quantité, le blanc en proportion médiocre, ce qui produit une sensation agréable. Le présence du rouge et du noir est évidente à l'œil, celle du blanc est trahie par l'éclat et la transparence, qui en sont les effets. Le bleu de guède (ἴσατις) est mélangé de vert et de noir en proportion plus forte ; le vert poireau (πράσινον) de violet et de bleu de guède ou de vert et d'une nuance tirant sur le violet ; c'est le cas du vert-de-gris, qui participe au brillant. L'azur (κυανοῦν) est formé [p. 364] de bleu de guède et d'igné, en figures arrondies et en flèches, en sorte que l'étincelant coexiste avec le noir.
 
 78. La couleur de noix verte (καρύινον) est mélangée de vert et d'azur. En y ajoutant du blanc (?) on a la couleur de feu, car la disparition des ombres entraîne celle de la teinte sombre. L'addition de rouge et de blanc rend de même le vert tendre et clair ; c'est pourquoi les plantes sont d'abord vertes avant de se faner à la chaleur. Voilà les couleurs qu'il énumère, en ajoutant que les nuances sont innombrables comme les saveurs, suivant les mélanges et selon qu'on enlève ceci, qu'on ajoute cela, qu'on met moins de l'un, plus de l'autre. Car il n'y aura jamais similitude d'une combinaison à l'autre.
 
@@ -6128,9 +5522,7 @@ qu'il eût fallu expliquer, puisqu'il semble constituer le blanc par la lumière
 
 83. Platon définit le chaud ce qui désagrège par l'acuité des angles ; le froid proviendrait des moindres particules qui poussent les plus grandes en cercle, alors que, dégagées par l'humidité, elles ne peuvent pénétrer ; cette lutte occasionnerait un tremblement et ce qu'on appelle le frisson du froid. Le dur est ce à quoi cède la chair, le mou, ce qui cède à la chair ; l'effet réciproque permet d'en juger ; ce qui cède est d'ailleurs ce qui a la moindre base. Le lourd et le léger ne doivent pas être déterminés par le haut ou le bas, car il n'y a pas de nature de ce genre ; mais le léger est ce qui est facilement tiré hors de son lieu naturel, le lourd ce qui ne l'est que difficilement. Pour l'âpre et le lisse, il les laisse de côté comme n'offrant aucune obscurité et il n'en parle point.
 
-[p. 366]
-
-84. L'agréable ou le désagréable est un effet de masse conforme à la nature ou au contraire violent et contre nature ; l'intermédiaire est, en proportion, plus ou moins indifférent. Aussi la vue ne produit ni peine ni plaisir pour dilatation ou contraction qui ait lieu. Quant aux saveurs, en parlant de l'eau, il discerne quatre sortes de celle-ci comme liquides, vin, suc, huile, miel, et en parlant des affections, il ajoute la saveur des terres ; celles qui contractent et resserrent les pores, suivant qu'il y a plus ou moins d'aspérités, sont astringentes ou seulement âpres ; ce qui nettoie et débarrasse les pores, est salé ; ce qui produit cet effet avec force et en dissolvant, est amer ; ce qui échauffe, monte à la tête et dilate, est brûlant ; ce qui produit des mélanges par agitation, est acide ; enfin ce qui, uni à l'humidité de la langue, devient propre à ramener à l'état naturel, aussi bien par relâchement que par contraction, est doux.
+[p. 366] 84. L'agréable ou le désagréable est un effet de masse conforme à la nature ou au contraire violent et contre nature ; l'intermédiaire est, en proportion, plus ou moins indifférent. Aussi la vue ne produit ni peine ni plaisir pour dilatation ou contraction qui ait lieu. Quant aux saveurs, en parlant de l'eau, il discerne quatre sortes de celle-ci comme liquides, vin, suc, huile, miel, et en parlant des affections, il ajoute la saveur des terres ; celles qui contractent et resserrent les pores, suivant qu'il y a plus ou moins d'aspérités, sont astringentes ou seulement âpres ; ce qui nettoie et débarrasse les pores, est salé ; ce qui produit cet effet avec force et en dissolvant, est amer ; ce qui échauffe, monte à la tête et dilate, est brûlant ; ce qui produit des mélanges par agitation, est acide ; enfin ce qui, uni à l'humidité de la langue, devient propre à ramener à l'état naturel, aussi bien par relâchement que par contraction, est doux.
 
 85. Les odeurs n'ont point d'espèces ; on ne les distingue qu'en tant qu'agréables ou non. L'odeur est plus subtile que l'eau, mais plus grossière que l'air ; la preuve est que, si l'on respire avec les narines bouchées, on peut faire entrer l'air sans odeur ; c'est un corps invisible analogue à la fumée et au brouillard, qui sont : la fumée, passage d'eau en air ; le brouillard, passage d'air en eau. Le son est un choc de l'air sur l'encéphale et le sang jusqu'à l'âme ; il est aigu ou grave, suivant que le mouvement est rapide ou lent ; les consonances ont lieu quand le commencement du mouvement lent est pareil à la fin du rapide.
 
@@ -6152,11 +5544,7 @@ Quant aux liquides, dont il reconnaît quatre différentes sortes, il ne dit poi
 
 90. On peut discuter si les odeurs peuvent être distinguées par espèces ;
 
-elles diffèrent, comme les saveurs, par la nature des sensations de plaisir ou de peine qu'elles procurent, et il semble qu'il en est de même pour toutes choses. Que d'ailleurs l'odeur soit une effluve qu'on respire avec l'air, c'est ce dont on est à peu près d'accord. Mais son assimilation à la fumée ou au brouillard n'est pas exacte. Platon lui-même paraît le reconnaître quand il dit que la fumée est un passage de l'eau à l'air, le brouillard un passage
-
-[p. 368]
-
-de l'air à l'eau ; il semble d'ailleurs que pour le brouillard ce soit le contraire, puisque la pluie cesse quand arrive le brouillard.
+elles diffèrent, comme les saveurs, par la nature des sensations de plaisir ou de peine qu'elles procurent, et il semble qu'il en est de même pour toutes choses. Que d'ailleurs l'odeur soit une effluve qu'on respire avec l'air, c'est ce dont on est à peu près d'accord. Mais son assimilation à la fumée ou au brouillard n'est pas exacte. Platon lui-même paraît le reconnaître quand il dit que la fumée est un passage de l'eau à l'air, le brouillard un passage [p. 368] de l'air à l'eau ; il semble d'ailleurs que pour le brouillard ce soit le contraire, puisque la pluie cesse quand arrive le brouillard.
 
 91. L'explication du son est particulièrement défectueuse ; car elle ne s'applique pas à tous les animaux et d'autre part, quoiqu'il veuille donner la cause de la sensation, il ne le fait point. Il ne semble avoir défini ni le bruit ni le son, mais seulement notre sensation. — Quant aux couleurs, il en parle à peu près comme Empédocle ; des particules en proportion avec les yeux ou qui s'adaptent à leurs pores, c'est une même chose. Mais il est étrange de n'expliquer ainsi que cette seule sensation, aussi bien que d'appeler en général la couleur une flamme ; s'il y a quelque analogie pour le blanc, le noir paraît plutôt tout le contraire. Quant aux autres couleurs, les reconnaître comme mélangées, mais en même temps ne pas permettre de les expliquer causalement, cela mériterait quelques développements convaincants.
 
@@ -6174,11 +5562,7 @@ Tout d'abord, quand on parle de l'arithmétique chez les Grecs, il faut entendre
 
 Dès le début de la période alexandrine, chez Euclide, l'arithmétique nous apparaît traitée à la façon géométrique dans les trois livres des Éléments, VII, VIII et IX ; ce sera là désormais la matière de l'enseignement classique pour ceux qui veulent étudier les mathématiques. Doit-on considérer d'ailleurs comme appartenant à Euclide, soit la forme, soit le cadre de cet enseignement ? Évidemment non ; mais jusqu'où faut-il les faire remonter ? La publication géométrique de l'école de Pythagore contenait- elle déjà une ébauche des livres arithmétiques des Éléments aussi bien que de la majeure partie des livres géométriques, ou bien
 
-24
-
-[p. 370]
-
-l'idée d'appliquer à la démonstration des vérités arithmétiques les procédés déjà en vigueur, depuis plus ou moins longtemps, pour la géométrie est-elle seulement venue à quelque mathématicien postérieur ? Il est bien difficile de se prononcer.
+24 [p. 370] l'idée d'appliquer à la démonstration des vérités arithmétiques les procédés déjà en vigueur, depuis plus ou moins longtemps, pour la géométrie est-elle seulement venue à quelque mathématicien postérieur ? Il est bien difficile de se prononcer.
 
 D'un côté, l'ordre même suivi par Euclide, le rejet de l'arithmétique après la géométrie, est absolument contraire à la tradition pythagorienne, et il ne semble pouvoir s'expliquer que si la partie des Éléments relative aux nombres a été, dans le corpus antérieur refondu par leur auteur, une addition faite depuis l'origine de ce corpus. D'autre part, Aristote connaît comme pythagorienne, pour l'incommensurabilité de la diagonale et du côté d'un carré, une démonstration qui se faisait en prouvant que la commensurabilité exigerait qu'un même nombre fût à la fois pair et impair. Or cette démonstration, qui d'ailleurs se retrouve encore aujourd'hui dans Euclide, suppose sur les nombres certaines notions qui ont pu, dès l'origine, être établies avec l'appareil géométrique et se trouver ainsi intercalées à une place n'ayant aucun rapport avec leur caractère primordial. Le noyau formé par ces notions aura pu être successivement grossi par les auteurs géométriques, depuis Hippocrate de Chios jusqu'à Euclide.
 
@@ -6196,9 +5580,7 @@ Nicomaque composa également, sous le nom de Théologoumènes de l'arithmétique
 
 Nous possédons encore, du IIe siècle avant notre ère, l'ouvrage de Théon de Smyrne : Ce qui en mathématiques est utile pour la lecture de Platon, dont l'auteur traite d'abord de l'arithmétique, sur un plan analogue à celui de Nicomaque dans son Introduction ; puis de la Musique, où il comprend la théorie des rapports et des proportions, ce en quoi il paraît suivre la tradition antique ; viennent ensuite, passablement développées, les propriétés mystiques de la décade, puis quelques mots sur la Géométrie, la stéréométrie et les médiétés [^p371-1], après quoi Théon passe à l'Astronomie.
 
-[p. 372]
-
-3. Au Ive siècle, Iamblique compose sur l'arithmétique un traité qui est un véritable commentaire de l'Introduction de Nicomaque et qui a été édité d'une façon assez incorrecte par Tennulius (Arnheim, 1668). Ce traité formait la quatrième partie d'un ouvrage intitulé : Discours sur la secte pythagorique,
+[p. 372] 3. Au Ive siècle, Iamblique compose sur l'arithmétique un traité qui est un véritable commentaire de l'Introduction de Nicomaque et qui a été édité d'une façon assez incorrecte par Tennulius (Arnheim, 1668). Ce traité formait la quatrième partie d'un ouvrage intitulé : Discours sur la secte pythagorique,
 
 et dont nous possédons également les trois premiers livres, Sur la Vie pythagorique, Exhortation à
 
@@ -6220,11 +5602,7 @@ générales (qu'on peut croire, étant donné Iamblique, avoir été passablemen
 
 4. La perte des trois livres en question de Iamblique est compensée pour nous dans une certaine mesure par l'existence de cette petite compilation anonyme dont j'ai déjà parlé et qui est intitulée les Théologoumènes de l'arithmétique (éditée en dernier lieu par Ast, Leipzig, 1817). La date de cette compilation ne peut guère être précisée ; l'auteur le plus récent qu'elle cite est Anatolius, qui fut un des maîtres de Iamblique et qui avait écrit lui-même dix livres sur les nombres successifs de la décade. On a attribué les Théologoumènes à Iamblique et prétendu que cet ouvrage représentait son livre VII. Cette opinion ne peut se défendre ; ce n'est ni son style, ni ses procédés de compilation ; la citation faite par Syrianos ne peut s'y retrouver ; enfin et surtout les Théologoumènes correspondent, non pas au livre VII seul, mais bien aux livres V, VI et VII de Iamblique. Ils exposent, en effet, pour chacun des nombres de la décade pris successivement, à la fois les propriétés d'ordre physique, d'ordre éthique et d'ordre théologique ; nous y voyons, par exemple, pour le nombre 5, qu'il y a cinq éléments (propriété physique), que la pentade est au plus haut degré représentative de la justice (propriété éthique), qu'elle est appelée Némésis, etc. (propriété théologique).
 
-Évidemment l'auteur a puisé aux mêmes sources que Iamblique ; certains passages se retrouvéent exactement comme fond et sous une forme au moins très voisine, par exemple dans le traité arithmétique qui constitue le livre IV de Iamblique ; mais la confusion qui règne, à l'intérieur du chapitre consacré à chaque
-
-[p. 374]
-
-nombre, entre les propriétés de divers ordres, semble assez prouver que le compilateur n'a pas profité du travail opéré par Iamblique pour distinguer ces propriétés d'après leur caractère, et que par suite il a dû écrire vers la même époque, mais avant la publication des trois livres Và VII. Les Théologoumènes doivent donc nous représenter, encore plus fidèlement que ne le feraient ces trois livres perdus, l'état de la tradition avant Iamblique.
+Évidemment l'auteur a puisé aux mêmes sources que Iamblique ; certains passages se retrouvéent exactement comme fond et sous une forme au moins très voisine, par exemple dans le traité arithmétique qui constitue le livre IV de Iamblique ; mais la confusion qui règne, à l'intérieur du chapitre consacré à chaque [p. 374] nombre, entre les propriétés de divers ordres, semble assez prouver que le compilateur n'a pas profité du travail opéré par Iamblique pour distinguer ces propriétés d'après leur caractère, et que par suite il a dû écrire vers la même époque, mais avant la publication des trois livres Và VII. Les Théologoumènes doivent donc nous représenter, encore plus fidèlement que ne le feraient ces trois livres perdus, l'état de la tradition avant Iamblique.
 
 5. Le plus important morceau de cette compilation (p. 6[^p374-1] est un fragment de Speusippe, malheureusement corrompu en divers endroits, mais qu'il est relativement facile de corriger. J'en donnerai plus loin la traduction annotée ; pour le moment, je vais reproduire les indications qui le précèdent :
 
@@ -6260,9 +5638,7 @@ Le terme d'anacoluthie peut dès lors recevoir une explication très simple. Ce 
 
 (γραμμικοί), désignant les nombres déjà dits autrement premiers ou non-composés, et pour celle de nombre pyramide, que l'on retrouvera plus loin. Ici, elle rentre dans le terme général : solides de toutes sortes.
 
-[p. 376]
-
-ressant de déterminer le degré d'antiquité réel et la véritable origine des spéculations sur les nombres de la décade.
+[p. 376] ressant de déterminer le degré d'antiquité réel et la véritable origine des spéculations sur les nombres de la décade.
 
 Il n'est pas clair que Speusippe se soit étendu sur les propriétés spéciales des nombres autres que 10, mais il est suffisamment connu par Aristote qu'une partie au moins des pythagoriens s'attachait exclusivement aux dix premiers nombres pour développer à leur sujet des considérations d'ordre physique ou moral. Quant aux tendances proprement mystiques, leur ancienneté n'est pas aussi authentiquement assurée et l'on est généralement porté à considérer leur développement comme s'effectuant à partir de la renaissance du pythagorisme, pendant la période gréco-romaine, et sous l'influence des idées orientales.
 
@@ -6286,11 +5662,7 @@ On ne peut donc négliger absolument les citations des Théologoumènes (VI et I
 
 1º Les pythagoriens, suivant les traces d'Orphée, appelaient l'hexade holomélie, ce qui paraît se rapporter à la propriété du nombre 6, en tant que parfait, d'être égal à la somme de ses parties aliquotes ;
 
-2º Orphée et Pythagore ont particulièrement appelé l'ennéade Kourétide, Hyperion, Terpsichore. Ici nous sommes en plein
-
-[p. 378]
-
-mysticisme, et nous rencontrons cette singulière synonymie que Nicomaque a recueillie.
+2º Orphée et Pythagore ont particulièrement appelé l'ennéade Kourétide, Hyperion, Terpsichore. Ici nous sommes en plein [p. 378] mysticisme, et nous rencontrons cette singulière synonymie que Nicomaque a recueillie.
 
 Ceci ne pourrait-il pas nous faire croire que cette synonymie est apparue tout d'abord dans des hymnes analogues à ceux qui nous restent sous le nom d'Orphée, mais consacrés aux nombres de la décade ? Ne serait-elle dès lors qu'une fantaisie alexandrine ?
 
@@ -6316,11 +5688,7 @@ D'après Théon (Mus., 49), Archytas aurait écrit un livre spécial Sur la déc
 
 Enfin les Théologoumènes (V) citent un fragment du livre Sur les nombres d'un certain Mégillus ; on s'y trouve en pleine synonymie mystique ; mais l'époque où vivait ce pythagoricien ne peut être déterminée, et, comme il ne figure pas sur les listes de Iamblique, il est très probablement postérieur au Ive siècle avant notre ère.
 
-Les conclusions à tirer de ce relevé paraissent être les suivantes : le plan général d'une Arithmétique traitant d'abord des propriétés générales de tous les nombres, puis des propriétés de toutes sortes
-
-[p. 380]
-
-spéciales aux dix premiers nombres paraît n'avoir été conçu qu'après Archytas, mais il remonte à l'époque qui le suit immédiatement (Speusippe), et il est de fait conforme à la tradition à partir de Philolaos. Les propriétés énumératives des nombres de la décade (ce que j'ai qualifié de procédé mnémotechnique) apparaissent déjà dans Philolaos, mais le développement en est probablement postérieur ; quant à la synonymie théologique, son origine est enveloppée du mystère qui cache celle des hymnes orphiques.
+Les conclusions à tirer de ce relevé paraissent être les suivantes : le plan général d'une Arithmétique traitant d'abord des propriétés générales de tous les nombres, puis des propriétés de toutes sortes [p. 380] spéciales aux dix premiers nombres paraît n'avoir été conçu qu'après Archytas, mais il remonte à l'époque qui le suit immédiatement (Speusippe), et il est de fait conforme à la tradition à partir de Philolaos. Les propriétés énumératives des nombres de la décade (ce que j'ai qualifié de procédé mnémotechnique) apparaissent déjà dans Philolaos, mais le développement en est probablement postérieur ; quant à la synonymie théologique, son origine est enveloppée du mystère qui cache celle des hymnes orphiques.
 
 9. J'aborde maintenant les citations qui présentent un caractère plus proprement scientifique.
 
@@ -6344,11 +5712,7 @@ De Philolaos, il ne cite que des formules philosophiques sur l'infini et le fini
 
 Théon (Arithm., 3) remarque que Philolaos et Archytas disent indifféremment l'un ou l'unité, c'est-à-dire qu'ils ne distinguent pas entre le nombre un et l'idée platonicienne de l'unité. Il cite d'Archytas (Arithm., 5) un fragment probablement emprunté au livre Sur la décade, et où il prétend trouver la preuve d'une doctrine pythagorienne rapportée par Aristote et d'après laquelle l'unité étant principe du nombre en général, aussi bien du pair que de l'impair, ne peut être regardée comme impaire et doit être appelée paire-impaire (ἀρτιοπέρισσος). Mais le fragment cité doit précisément être entendu dans le sens opposé et dans le fragment 2 de Philolaos, le pair-impair est un nombre pair qui n'est pas une puissance de 2. L'autorité d'Aristote ne peut donc faire regarder l'application à l'unité de l'épithète en question comme généralement courante dans l'École.
 
-Théon (Mus., 13) dit enfin, probablement d'après le traité sur l'Harmonique, qu'Archytas (il ajoute Eudoxe) avait reconnu que les sons les plus hauts correspondent aux vibrations les plus
-
-[p. 382]
-
-rapides et que les rapports numériques correspondant aux accords musicaux doivent exister entre les vitesses des mouvements.
+Théon (Mus., 13) dit enfin, probablement d'après le traité sur l'Harmonique, qu'Archytas (il ajoute Eudoxe) avait reconnu que les sons les plus hauts correspondent aux vibrations les plus [p. 382] rapides et que les rapports numériques correspondant aux accords musicaux doivent exister entre les vitesses des mouvements.
 
 Nous savons d'autre part qu'Archytas avait introduit dans les rapports musicaux d'autres nombres que les quatre premiers ; il est possible que ce soit à cette occasion qu'il ait recherché d'autres médiétés que l'harmonique et que les combinaisons de Myonide et d'Euphranor se relient au même ordre d'idées ; rien ne prouve que ces derniers aient été soit des pythagoriens, soit même à proprement parler des arithméticiens, et non pas seulement des musicographes [^p382-1].
 
@@ -6400,9 +5764,7 @@ En fait, le nom de Thymaridas ne nous est connu que par Iamblique. Il le donne, 
 
 La première fois, dans un passage emprunté, d'après Meiners, à Nicomaque, Thymaridas est cité le dernier (après Hippasos) parmi les anciens pythagoriens illustres dont les écrits ont été conservés. Il est évidemment naturel de l'identifier avec notre mathématicien, mais on ne peut en conclure qu'il soit représenté comme un disciple immédiat de Pythagore. Si le texte de Iamblique se prête à cette interprétation admise par Fabricius (édition Harles, I, 877), il ne peut y avoir là qu'une inadvertance de rédaction, puisque la liste commence par Philolaos ; on doit admettre qu'elle renferme seulement les diverses sommités de l'ancienne école pythagorienne, sans préciser davantage leur époque.
 
-[p. 384]
-
-Il n'y a pas non plus à faire avec Fabricius du Thymaridas de ce passage le Tarentin de l'anecdote rapportée plus loin d'après Androcyde, dans son livre Des symboles pythagoriques [^p384-1] ; car elle n'indique nullement que ce personnage ait joui d'une certaine célébrité, tandis qu'il n'en est pas de même de celle qui concerne Thymaridas de Paros.
+[p. 384] Il n'y a pas non plus à faire avec Fabricius du Thymaridas de ce passage le Tarentin de l'anecdote rapportée plus loin d'après Androcyde, dans son livre Des symboles pythagoriques [^p384-1] ; car elle n'indique nullement que ce personnage ait joui d'une certaine célébrité, tandis qu'il n'en est pas de même de celle qui concerne Thymaridas de Paros.
 
 « De même, Thestor le Posidoniate, ayant seulement entendu dire que Thymaridas était un pythagorien de Paros, tombé d'une grande fortune dans la misère, se serait embarqué pour Paros, après avoir réuni une somme d'argent considérable et lui aurait racheté tous ses biens. »>Ici, dans ce beau trait de morale en action, nous ne pouvons méconnaître une des antiques légendes sur la confraternité pythagorienne, et nous croirons volontiers, avec Meiners, qu'elle est empruntée à Aristoxène, de même que l'a été celle bien connue de Damon et de Phintias.
 
@@ -6430,9 +5792,7 @@ Comme enfin la figuration se faisait toujours suivant des lignes droites, on n'a
 
 En somme, les trois citations de Thymaridas semblent suffisantes pour rendre probable qu'il avait écrit un véritable traité d'arithmétique, auquel on est porté à attribuer une forme toute différente de celle consacrée par Euclide. Quoique le nom de Thymaridas ne se retrouve d'ailleurs que dans Iamblique, il est possible que le succès de cette arithmétique ait été suffisant pour faire oublier les traités techniques antérieurs qui ont dû exister, mais dont on ne retrouve aucune trace [^p385-1].
 
-[p. 386]
-
-13. Il ne sera peut-être pas inutile de donner quelques explications sur le mot d'épanthème (littéralement : surfloraison) ; ce mot n'appartient nullement à Thymaridas ; Iamblique l'emploie en général pour désigner les additions à l'Introduction de Nicomaque, et on a pu voir qu'il s'en servait également pour parler des développements relatifs aux propriétés mystiques des nombres de la décade. Dans un passage d'ailleurs assez obscur (p. 53), il parle du procédé des
+[p. 386] 13. Il ne sera peut-être pas inutile de donner quelques explications sur le mot d'épanthème (littéralement : surfloraison) ; ce mot n'appartient nullement à Thymaridas ; Iamblique l'emploie en général pour désigner les additions à l'Introduction de Nicomaque, et on a pu voir qu'il s'en servait également pour parler des développements relatifs aux propriétés mystiques des nombres de la décade. Dans un passage d'ailleurs assez obscur (p. 53), il parle du procédé des
 
 « tableaux divinatoires »
 
@@ -6470,9 +5830,7 @@ Les chiffres entre parenthèses de la traduction ci-après renvoient aux notes s
 
 » Le troisième est l'hémitrigone, moitié de l'équilatéral ; car » il n'y a aucune égalité entre les éléments et leur nombre est » donc 3 (12).
 
-[p. 388]
-
-» Pour les solides, en procédant de la sorte, on arrivera à 4, de »façon par conséquent à rencontrer aussi la décade.
+[p. 388] » Pour les solides, en procédant de la sorte, on arrivera à 4, de »façon par conséquent à rencontrer aussi la décade.
 
 » En effet, la première pyramide est en quelque sorte unité (1[^p388-3], » n'ayant, pour ainsi dire, en raison de l'égalité, qu'une seule » arête ou qu'une seule face. La seconde pyramide sera de la » même façon une dyade (1[^p388-4], ses angles à la base étant formés »par trois plans, et l'angle au sommet par quatre, en sorte que » cette différence l'assimile à la dyade. La troisième pyramide sera » une triade, construite sur le demi-carré ; avec la différence que » nous avons vue dans le demi-carré comme figure plane, elle en » présente une autre correspondant à l'angle du sommet ; il ya »donc rapport entre la triade et cette pyramide, dont le sommet » est d'ailleurs supposé sur la perpendiculaire au milieu de l'hypo » ténuse (15) de la base. Enfin, de la même façon, on verra une » tétrade dans la quatrième pyramide, construite sur une base » hémitrigone (16).
 
@@ -6500,11 +5858,7 @@ Les chiffres entre parenthèses de la traduction ci-après renvoient aux notes s
 
 Le point, monade, est nécessairement simple ; la ligne, dyade, doit avoir deux espèces, droite ou courbe ; le triangle, triade, trois espèces ; la pyramide, tétrade, quatre espèces ; en tout 10.
 
-Les trois espèces de triangle sont évidemment l'équilatéral, l'isoscèle et le scalène, où le nombre des éléments différents reproduit d'ailleurs la progression 1. 2. 3. Seulement, à l'isoscèle et au scalène Speusippe substitue, comme types des espèces, deux triangles particuliers, les mêmes qu'on retrouve avec l'équilatéral dans le Timée de Platon. C'est d'une part le demi-carré (ἡμιτετράγωνον) ou le triangle rectangle isoscèle ; d'autre part, ce que Speusippe appelle l'hémitrigone, c'est-à-dire le
-
-[p. 390]
-
-triangle rectangle scalène obtenu en divisant l'équilatéral par la perpendiculaire abaissée d'un sommet sur le milieu de la base.
+Les trois espèces de triangle sont évidemment l'équilatéral, l'isoscèle et le scalène, où le nombre des éléments différents reproduit d'ailleurs la progression 1. 2. 3. Seulement, à l'isoscèle et au scalène Speusippe substitue, comme types des espèces, deux triangles particuliers, les mêmes qu'on retrouve avec l'équilatéral dans le Timée de Platon. C'est d'une part le demi-carré (ἡμιτετράγωνον) ou le triangle rectangle isoscèle ; d'autre part, ce que Speusippe appelle l'hémitrigone, c'est-à-dire le [p. 390] triangle rectangle scalène obtenu en divisant l'équilatéral par la perpendiculaire abaissée d'un sommet sur le milieu de la base.
 
 Les pyramides devraient être, par analogie, subdivisées en quatre espèces de tétraèdres, suivant que tous les angles solides, trois ou deux seulement sont égaux ou tous enfin inégaux. Speusippe choisit encore des types spéciaux, mais celui de la seconde classe ne convient plus, car il introduit une pyramide à base carrée.
 
@@ -6520,11 +5874,7 @@ Les pyramides devraient être, par analogie, subdivisées en quatre espèces de 
 
 En somme, il y a là une suite de raffinements subtils qui n'ont pas d'importance au point de vue de la science arithmétique, mais qui témoigne du développement qu'elle avait acquis dès lors.
 
-En résumé, l'arithmétique apparaît comme complète à la fin de l'âge hellène ; car les développements qu'elle reçut ensuite sont insignifiants ou ne devinrent pas classiques et se perdirent par suite, comme les travaux d'Archimède, qui paraissent avoir été poussés très loin, mais dont nous ignorons la portée réelle. J'exclus,
-
-[p. 391]
-
-en parlant de l'arithmétique, les solutions d'analyse indéterminée du second degré de Diophante, parce que dans la période alexandrine au moins, comme en témoigne Geminus, elles ne comptaient que pour la logistique. Mais il ne faut pas oublier que le point de départ est dans la construction du triangle rectangle en nombres, attribué à Pythagore, et qu'un écrit antérieur à Diophante, les Philosophumena,
+En résumé, l'arithmétique apparaît comme complète à la fin de l'âge hellène ; car les développements qu'elle reçut ensuite sont insignifiants ou ne devinrent pas classiques et se perdirent par suite, comme les travaux d'Archimède, qui paraissent avoir été poussés très loin, mais dont nous ignorons la portée réelle. J'exclus, [p. 391] en parlant de l'arithmétique, les solutions d'analyse indéterminée du second degré de Diophante, parce que dans la période alexandrine au moins, comme en témoigne Geminus, elles ne comptaient que pour la logistique. Mais il ne faut pas oublier que le point de départ est dans la construction du triangle rectangle en nombres, attribué à Pythagore, et qu'un écrit antérieur à Diophante, les Philosophumena,
 
 attribue au Maître la série des puissances exclusivement considérées par le prétendu père de l'algèbre. Quant aux problèmes déterminés de ce dernier, qui faisaient aussi, avant lui, partie de la logistique, il n'est guère douteux qu'ils ne fussent en général résolus dès l'époque hellène, comme le prouvent d'une part l'épanthème de Thymaridas, de l'autre le fait de la solution géométrique des problèmes déterminés du second degré.
 
@@ -6532,11 +5882,7 @@ Mais le singulier est que tout ce développement de l'arithmétique aurait eu li
 
 FIN.
 
-[p. 392]
-
-[p. 393]
-
-TABLE DES MATIÈRES
+[p. 392] [p. 393] TABLE DES MATIÈRES
 
 Pages
 
@@ -6660,7 +6006,7 @@ relatives à l'infinitude, 134.
 
 Doxographie de Xénophane, 139.- Fragments, 143.
 
-### Chapitre Vi
+### Chapitre VI
 
 146 à 167 ANAXIMÈNE.
 
@@ -6706,9 +6052,7 @@ d'Éd. Zeller et de Teichmüller. Éléments divers des doctrines d'Héraclite ;
 
 son rôle, 175.
 
-[p. 395]
-
-IV. La destinée des âmes.
+[p. 395] IV. La destinée des âmes.
 
 Croyances égyptiennes sur ce sujet ; discussion des
 
@@ -6722,7 +6066,7 @@ difficultés, 186.
 
 Doxographie d'Héraclite, 190.- Fragments, 193.
 
-### Chapitre Viii
+### Chapitre VIII
 
 201 à 217 HIPPASOS ET ALCMÉON.
 
@@ -6738,7 +6082,7 @@ Opinions physiologiques
 
 d'Alcméon ; la sensation, la génération, 213.
 
-### Chapitre Ix
+### Chapitre IX
 
 PARMÉNIDE D'ÉLÉE.
 
@@ -6782,7 +6126,7 @@ Explication nouvelle des arguments contre le mouvement, 255.- Zénon reste plac�
 
 de même que Parménide, 258. --Succès historique de ses thèses, 260.
 
-### Chapitre Xi
+### Chapitre XI
 
 262 à 274 MÉLISSOS DE SAMOS...
 
@@ -6794,15 +6138,13 @@ des critiques d'Aristote, 262. — Mélissos n'a connu ni Anaxagore, ni Empédoc
 
 Fragments de Mélissos, 271.
 
-### Chapitre Xii
+### Chapitre XII
 
 ANAXAGORE DE CLAZOMÈNE.
 
 275 à 303[^p395-1]
 
-[p. 396]
-
-II. La théorie de la matière.
+[p. 396] II. La théorie de la matière.
 
 Distinction de la matière et de la cause du mouvement ; la matière conçue comme divisible à l'infini et sans éléments primordiaux distincts ; erreurs historiques sur cette doctrine, 280. III. Critique de la conception d'Anaxagore.
 

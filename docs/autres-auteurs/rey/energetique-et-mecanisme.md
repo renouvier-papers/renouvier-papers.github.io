@@ -10,9 +10,7 @@ title: "L'Énergétique et le mécanisme au point de vue des conditions de la co
 
 ---
 
-[p. 1]
-
-L'ÉNERGÉTIQUE
+[p. 1] L'ÉNERGÉTIQUE
 ET LE MÉCANISME
 
 AU
@@ -52,11 +50,7 @@ il n'y a, à leur sujet, aucune divergence . Dans les
 L
 
 REY .
-1
-
-[p. 2]
-
-2
+1 [p. 2] 2
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 cas indécis, tous sont d'accord d'ailleurs , pour
@@ -97,9 +91,7 @@ gence est donc d'ordre méthodologique : ce qui
 explique qu'elle n'atteigne pas la valeur objective
 des résultats expérimentaux qui constituent le
 
-[p. 3]
-
-LE PROBLÈME ,
+[p. 3] LE PROBLÈME ,
 LA MÉTHODE
 3
 
@@ -135,9 +127,7 @@ chercher une représentation mécanique des phé-
 nomènes physiques : c'est qu'au fond toutes nos
 représentations psychologiques sont accompa-
 
-[p. 4]
-
-4
+[p. 4] 4
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 レ
@@ -175,9 +165,7 @@ l'univers en considérant que l'élément primordial
 est l'éther électro-magnétique, et que les mouve-
 ments qu'y produisent et créent les particules
 
-[p. 5]
-
-LE PROBLÈME , LA MÉTHODE
+[p. 5] LE PROBLÈME , LA MÉTHODE
 5
 
 électrisées , sont l'origine des phénomènes que
@@ -211,11 +199,7 @@ chimiques sont, en effet, des variations de l'as-
 pect sous lequel se présente la nature , variations
 qui nous sont connues par nos sensations . Nous
 aurons une description scientifique de l'univers
-quand nous saurons exactement comment ces
-
-[p. 6]
-
-6
+quand nous saurons exactement comment ces [p. 6] 6
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 variations se produisent, quand nous pourrons
@@ -252,9 +236,7 @@ manifestation d'une énergie particulière comme
 les autres) et il n'y a pas de raison pour qu'il soit
 pris comme l'équivalent de tous les autres .
 
-[p. 7]
-
-LE PROBLÈME , LA MÉTHODE
+[p. 7] LE PROBLÈME , LA MÉTHODE
 7
 
 4.- La question posée entre l'énergétique et le
@@ -285,11 +267,7 @@ dérera que les principes de la mécanique sontune
 conséquence particulière des principes relatifs à
 l'énergie . Dans l'autre cas, on considérera, au
 contraire, que les principes de l'énergie sont une
-extension des principes de la mécanique ou une
-
-[p. 8]
-
-8
+extension des principes de la mécanique ou une [p. 8] 8
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 addition nécessaire apportée à ces principes pour
@@ -323,9 +301,7 @@ point de vue scientifique exclusif ?
 Certes, dans les problèmes soulevés par la
 science, il faut se garder avec soin d'aller sur les
 
-[p. 9]
-
-LE PROBLÈME , LA MÉTHODE
+[p. 9] LE PROBLÈME , LA MÉTHODE
 9
 
 brisées des savants et d'y mêler son incompé-
@@ -362,9 +338,7 @@ général de la physique contemporaine .
 La science est un produit de facteurs psycho- レ
 logiques et sociaux. C'est un système de repré-
 
-[p. 10]
-
-10
+[p. 10] 10
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 sentations collectives . Puisque la science a des
@@ -401,9 +375,7 @@ l'aide de données psychologiques . Celles-ci sont
 loin encore d'avoir toute la précision et la certi-
 tude désirables ; mais enfin elles existent et sont
 
-[p. 11]
-
-LE PROBLÈME, LA MÉTHODE
+[p. 11] LE PROBLÈME, LA MÉTHODE
 11
 
 déjà importantes si l'on se contente d'aperçus très
@@ -423,9 +395,7 @@ cette matière , les recherches expérimentales ?
 
 1
 
-[p. 12]
-
-CHAPITRE
+[p. 12] CHAPITRE
 II
 
 UNE PREMIÈRE LOI GÉNÉRALE
@@ -462,9 +432,7 @@ nisme.
 d'être plus simple, plus économique pour quel-
 ques -uns de ses partisans (Mach), etpour d'autres
 
-[p. 13]
-
-PREMIÈRE LOI GÉNÉRALE DE LA CONNAISSANCE
+[p. 13] PREMIÈRE LOI GÉNÉRALE DE LA CONNAISSANCE
 13
 
 d'être une description moins aventuréé et plus
@@ -499,11 +467,7 @@ sa valeur scientifique, car il ne faudrait pas hési-
 ter devantune inversion complète des dispositions
 théoriques, si cette inversion était réclamée par
 les progrès de la science. Au fond, un renverse-
-ment plus complet et plus profond des choses a
-
-[p. 14]
-
-14
+ment plus complet et plus profond des choses a [p. 14] 14
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 bien marqué le passage du stade métaphysique
@@ -530,7 +494,7 @@ l'autre .
 
 2.
 Or, si cette inversion de forme ne saurait
-a priori fournir un argument contre son installa-
+*a priori* fournir un argument contre son installa-
 tion définitive dans la science, elle présente des
 difficultés , et
 des difficultés considérables
@@ -544,9 +508,7 @@ son rôle , car il ne faut pas que ces propositions
 soient incompréhensibles ou absurdes, ce qui
 revient à dire qu'il ne faut pas qu'elles répugnent
 
-[p. 15]
-
-PREMIÈRE LOI GÉNÉRALE DE LA CONNAISSANCE
+[p. 15] PREMIÈRE LOI GÉNÉRALE DE LA CONNAISSANCE
 15
 
 absolument à nos fonctions cognitives . Mais si le
@@ -580,11 +542,7 @@ l'in-
 connu en retrouvant toujours dans une certaine
 mesure le connu dans l'inconnu¹ . )) [^p15-1]
 
-[^p15-1]: Par exemple : « Démontrer, en matière d'enseignement c'est retrouver par lattention le connu dans l'incоппи . » Ruyssen Evolution psychologique du Jugement, p . 200 (Paris , F. Alcan) , Voir l'ouvrage entier sur le bien fondé
-
-[p. 16]
-
-16
+[^p15-1]: Par exemple : « Démontrer, en matière d'enseignement c'est retrouver par lattention le connu dans l'incоппи . » Ruyssen Evolution psychologique du Jugement, p . 200 (Paris , F. Alcan) , Voir l'ouvrage entier sur le bien fondé [p. 16] 16
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 Malgré sa forme presque tautologique, cette
@@ -622,9 +580,7 @@ de cette loi psychologique qui n'est que l'expression du
 principe de l'habitude et de l'adaptation dans la connais-
 sance .
 
-[p. 17]
-
-PREMIÈRE LOI GÉNÉRALE DE LÀ CONNAISSANCE
+[p. 17] PREMIÈRE LOI GÉNÉRALE DE LÀ CONNAISSANCE
 17
 
 en éclairant les derniers par le premier. La con-
@@ -659,11 +615,7 @@ toutes les sciences est une ascension souvent
 lente et pénible, pleine d'erreurs , du particulier
 
 REY.
-2
-
-[p. 18]
-
-18
+2 [p. 18] 18
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 au général . Les lois les plus générales auxquelles
@@ -700,9 +652,7 @@ reconnaître que la physique aurait à chaque épo-
 que besoin d'un remaniement très profond et très
 général . Or, l'histoire de la physique, depuis
 
-[p. 19]
-
-PREMIÈRE
+[p. 19] PREMIÈRE
 LOI GÉNÉRALE DE LA CONNAISSANCE
 19
 
@@ -740,11 +690,7 @@ nécessaires si les premières sont insuffisantes .
 Ainsi la physique ressemble, à travers la systé-
 matisation mécaniste, à un édifice dont le plan
 général reste identique et qui s'accroît d'une
-façon continue d'après ce plan, à un édifice qui
-
-[p. 20]
-
-20
+façon continue d'après ce plan, à un édifice qui [p. 20] 20
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 s'achève , sans qu'on ait jamais besoin d'en dé-
@@ -778,9 +724,7 @@ de la physique . Les vues du physicien se chan-
 gent , se transforment, se complètent, se généra-
 lisent ou se précisent, en respectant toujours en
 
-[p. 21]
-
-PREMIÈRE LOI GÉNÉRALE DE LA CONNAISSANCE
+[p. 21] PREMIÈRE LOI GÉNÉRALE DE LA CONNAISSANCE
 21
 
 -
@@ -823,9 +767,7 @@ lières¹ . Il paraît utile, indispensable même , de [^p21-1]
 
 [^p21-1]: Cf. sur les rapports de la science avec le sens com-
 
-[p. 22]
-
-22
+[p. 22] 22
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 conserver dans la science les traces de son évo-
@@ -864,9 +806,7 @@ mun
 janvier 1901 ,
 p. 143...51 .
 
-[p. 23]
-
-PREMIÈRE
+[p. 23] PREMIÈRE
 LOI GÉNÉRALE DE LA CONNAISSANCE
 23
 
@@ -906,11 +846,7 @@ principes fondamentaux. Mais le développement
 de la science, comme celui de la connaissance ,
 n'en réagit pas moins, par un choc en retour sur
 
-1
-
-[p. 24]
-
-24
+1 [p. 24] 24
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 les acquisitions antérieures . Le développement
@@ -943,9 +879,7 @@ avec Huyghens se relie aux spéculations de [^p24-1]
 
 [^p24-1]: Cf. à ce sujet : Mathieu, l'expérience du Puy-de-Dôme, Revue de Paris, 1906, 1er semestre .
 
-[p. 25]
-
-PREMIÈRE LOI GÉNÉRALE DE LA CONNAISSANCE
+[p. 25] PREMIÈRE LOI GÉNÉRALE DE LA CONNAISSANCE
 25
 
 Galilée et Gassendi et rajeunissent l'atomisme .
@@ -980,11 +914,7 @@ De ce point de vue, l'énergétique pourrait être
 considérée comme une déviation de la physique
 théorique sous l'influence des découvertes du
 milieu du xıxª siècle dans le domaine de la ther-
-modynamique . Les principes relatifs à la théorie
-
-[p. 26]
-
-26
+modynamique . Les principes relatifs à la théorie [p. 26] 26
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 de la chaleur furent considérés, de même qu'au-
@@ -1014,9 +944,7 @@ assez vraisemblable . [^p26-1]
 
 [^p26-1]: Que la théorie de l'électricité soit une simple exten- sion de la mécanique rationnelle (Lorentz, Larmor), ou que les lois fondamentales de la mécanique ne soient que la première aperception, exacte dans les limite où elle fut d'abord donnée mais bornée à ces limites, des lois fonda- mentales de la physique (Langevin) : la mécanique ration- nelle n'en resterait pas moins le cas privilégié qui permet d'établir le reste .
 
-[p. 27]
-
-CHAPITRE IIU
+[p. 27] CHAPITRE IIU
 
 UNE DEUXIÈME LOI GÉNÉRALE
 DE LA CONNAISSANCE
@@ -1049,11 +977,7 @@ connaissance, finissent par constituer en grande
 partie les principes fondamentaux dans tout sys-
 tème de connaissance ?
 
-Il est à supposer que ce qui frappe, en effet,
-
-[p. 28]
-
-28
+Il est à supposer que ce qui frappe, en effet, [p. 28] 28
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 au milieu du chaos des représentations , ce sont
@@ -1094,9 +1018,7 @@ ou [^p28-1]
 
 [^p28-1]: Journal de Crelle, IV , 1829 , p . 233 .
 
-[p. 29]
-
-DEUXIÈME
+[p. 29] DEUXIÈME
 LOI GÉNÉRALE DE LA CONNAISSANCE
 29
 
@@ -1113,7 +1035,7 @@ une connaissance générale très vague et grosse
 d'erreurs , puis , par une série de faits particuliers
 nouveaux ,
 corrige cette conjecture générale ,
-mais , mutatis mutandis , en la continuant .
+mais , *mutatis mutandis* , en la continuant .
 
 -
 2.
@@ -1133,11 +1055,7 @@ synthèse et d'analyse, de généralisation et de
 restriction [^p29-1]. Tous les logiciens ont noté dans les
 opérations de l'esprit l'existence de ces deux
 
-[^p29-1]: On peut consulter au sujet de cette loi : Ribot, Evo- lution des idées générales , 1re partie, passim (Paris , F. Alcan) . Elle y est reliée à la loi fondamentale de l'activité représentative : on pourrait la relier à la loi biologique
-
-[p. 30]
-
-30
+[^p29-1]: On peut consulter au sujet de cette loi : Ribot, Evo- lution des idées générales , 1re partie, passim (Paris , F. Alcan) . Elle y est reliée à la loi fondamentale de l'activité représentative : on pourrait la relier à la loi biologique [p. 30] 30
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 périodes : le jugement analytique et le jugement
@@ -1175,9 +1093,7 @@ fondamentale de l'adaptation . L'appellation : loi du rythme,
 et son application à la démarche de la connaissance scienti-
 fique, n'ont, je crois, pas encore été proposées.
 
-[p. 31]
-
-DEUXIÈME LOI GÉNÉRALE DE LA CONNAISSANCE
+[p. 31] DEUXIÈME LOI GÉNÉRALE DE LA CONNAISSANCE
 31
 
 tifique utilise donc l'analyse et la synthèse . L'in-
@@ -1211,11 +1127,7 @@ A une condition et à une seule. C'est qu'elle
 dérive d'un fait particulier, donc qu'elle lui soit
 postérieure .
 Et à quelles conditions peut-elle être admise
-comme claire, exacte ? A une condition et à une
-
-[p. 32]
-
-32
+comme claire, exacte ? A une condition et à une [p. 32] 32
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 seule : C'est que le fait particulier dont elle pro-
@@ -1250,9 +1162,7 @@ de son développement, dans la période formelle .
 5.
 Étant données les conditions générales de
 
-[p. 33]
-
-DEUXIÈME LOI GÉNÉRALE DE LA CONNAISSANCE
+[p. 33] DEUXIÈME LOI GÉNÉRALE DE LA CONNAISSANCE
 33
 
 la connaissance qui viennent d'être énumérées ,
@@ -1290,11 +1200,7 @@ l'expérience et à la remplacer par une idéologie
 abstraite . En pratique, comme une théorie éner
 
 REY .
-3
-
-[p. 34]
-
-34
+3 [p. 34] 34
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 gétique repose directement sur l'expérience ,
 possède une substructure expérimentale , comme
@@ -1331,9 +1237,7 @@ plète, avec des résultats expérimentaux, l'en-
 semble ne peut donner que l'impression d'une
 description artificielle . Le lien qui, dans l'esprit
 
-[p. 35]
-
-DEUXIÈME
+[p. 35] DEUXIÈME
 LOI GÉNÉRALE DE LA CONNAISSANCE
 35
 
@@ -1375,11 +1279,7 @@ qui se
 relient
 d'elles-
 mêmes aux premières, sans que jamais l'imagi-
-nation , la représentation expérimentale ne ces
-
-[p. 36]
-
-36
+nation , la représentation expérimentale ne ces [p. 36] 36
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 sent d'aider l'entendement. Il y a là en tout cas
@@ -1425,9 +1325,7 @@ per-
 
 1
 
-[p. 37]
-
-DEUXIÈME
+[p. 37] DEUXIÈME
 LOI GÉNÉRALE DE LA CONNAISSANCE
 37
 
@@ -1463,9 +1361,7 @@ faits
 auxquels ne s'applique pas la première . Notre
 connaissance oscille continuellement d'une induc-
 
-[p. 38]
-
-38
+[p. 38] 38
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 tion qui généralise, à une déduction qui particu-
@@ -1500,9 +1396,7 @@ nos connaissances physiques au rebours des exi-
 gences les plus profondes de notre connais
 sance .
 
-[p. 39]
-
-CHAPITRE IV
+[p. 39] CHAPITRE IV
 
 LES CONSÉQUENCES DES DEUX LOIS
 PRÉCÉDENTES
@@ -1536,11 +1430,7 @@ point de vue qui est le point de vue réel, le mécanisme
 l'emporte encore . - 6. Même au point de vue de la sim-
 plicité abstraite et absolue, il n'est pas sûr que l'énergé-
 tique ait plus d'avantages que le mécanisme. Elle éta-
-blit plus sobrement les principes, mais quand elle redes
-
-[p. 40]
-
-40
+blit plus sobrement les principes, mais quand elle redes [p. 40] 40
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 cend aux cas
@@ -1585,9 +1475,7 @@ science, les relations physiques. Ce mode de
 systématisation paraît même le plus naturel .
 Il est aisé de voir que le mécanisme se borne à
 
-[p. 41]
-
-LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
+[p. 41] LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
 41
 
 suivre ce mode naturel de systématisation
@@ -1621,11 +1509,7 @@ de l'association des idées dans la formation des
 concepts de la mécanique. Ce qu'il appelle l'as-
 sociation des idées , et d'ailleurs ce que la psy-
 chologie a appelé l'association des idées, n'est
-rien autre que l'expression, ou plutôt qu'une des
-
-[p. 42]
-
-42
+rien autre que l'expression, ou plutôt qu'une des [p. 42] 42
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 expressions
@@ -1666,9 +1550,7 @@ il est gênant . Que serait la physique, dit-il , si la
 biologie avait précédé, dans la voie positive et
 progressive, la mécanique ? Cette question me
 
-[p. 43]
-
-LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
+[p. 43] LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
 43
 
 paraît oiseuse, car en histoire
@@ -1708,11 +1590,7 @@ d'autre
 valeur que celle d'un roman .
 
 Nous ne concevons que le réel, et nous conjec-
-turons le possible sur le modèle du réel ; or, le
-
-[p. 44]
-
-41
+turons le possible sur le modèle du réel ; or, le [p. 44] 41
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 L
@@ -1749,9 +1627,7 @@ nos connaissances claires et distinctes conformes
 aux exigences de notre organisation intellectuelle
 est donc en raison directe de leur acquisition .
 
-[p. 45]
-
-LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
+[p. 45] LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
 45
 
 L'histoire des mathématiques, de la mécanique ,
@@ -1788,9 +1664,7 @@ qui est détail etnuance, ce qui lui donne en même
 temps que sa complexité, son
 individualité.
 
-[p. 46]
-
-46
+[p. 46] 46
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 Toute synthèse nécessite une analyse, toute géné-
@@ -1830,9 +1704,7 @@ parce que tous s'impliquent
 pierre fait intervenir toutes les lois physiques
 puisque lemouvement change dans la pierre, puis
 
-[p. 47]
-
-LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
+[p. 47] LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
 47
 
 dans le milieu où il s'effectue et de proche en
@@ -1869,11 +1741,7 @@ on peut dire aussi bien, en renversant les termes
 
 :
 
-1
-
-[p. 48]
-
-48
+1 [p. 48] 48
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 レー
@@ -1910,9 +1778,7 @@ sans une culture spéciale , il faut bien avouer que
 la science doit viser à être aussi facilement abor-
 dable qu'il est possible , sans rien perdre de sa ri
 
-[p. 49]
-
-LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
+[p. 49] LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
 49
 
 gueur s'entend . Elle n'est pas un mystère réservé
@@ -1949,11 +1815,7 @@ saire , c'est la vulgarisation de la science dans
 ce milieu . Une science de mages ou de manda
 
 REY.
-4
-
-[p. 50]
-
-50
+4 [p. 50] 50
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 rins devient bien vite une
@@ -1989,11 +1851,7 @@ ver le même résultat, choisir toujours celle qui
 est la plus abordable . Sous cet angle encore le
 mécanisme l'emporte sur l'énergétique . Histori-
 quement d'ailleurs, celles des sciences qui ont
-rendu la science populaire, sont les sciences phy-
-
-[p. 51]
-
-LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
+rendu la science populaire, sont les sciences phy-[p. 51]LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
 51
 
 sico-chimiques, plus que la médecine elle-même .
@@ -2032,11 +1890,7 @@ leur force considérable ! D'autres ont insisté sur
 le côté utilitaire des travaux scientifiques, condi-
 tion nécessaire des progrès de la science pure ; et
 
-L
-
-[p. 52]
-
-52
+L [p. 52] 52
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 c'estpar ce côté utilitaire que la science se popu-
@@ -2070,9 +1924,7 @@ pour éviter temps et peines perdus à suivre des
 constructions compliquées,
 que l'énergétique
 
-[p. 53]
-
-LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
+[p. 53] LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
 53
 
 s'est créée et s'est développée ? Du moins tous
@@ -2104,11 +1956,7 @@ sentant pourtant des particularités spéciales , doi-
 vent souvent multiplier leurs artifices , et allonger
 la route . Là où l'énergétiste suit la ligne droite ,
 le mécaniste paraît se perdre en des détours .
-Mais il en est de ces détours comme de ceux que
-
-[p. 54]
-
-54
+Mais il en est de ces détours comme de ceux que [p. 54] 54
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 font les sentiers de montagne : en allongeant le
@@ -2145,9 +1993,7 @@ cœur de la place. Elle débute par le principe
 général et les équations qui le traduisent. C'est
 une théorie qui, jusqu'à un certain point, non
 
-[p. 55]
-
-LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
+[p. 55] LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
 55
 
 seulement postule que la science est achevée ,
@@ -2192,11 +2038,7 @@ nouvelle , l'étude
 
 historique à qui veut avoir une intelligence nette
 
-1
-
-[p. 56]
-
-56
+1 [p. 56] 56
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 de la physique. Sans cette étude elle reste en
@@ -2229,9 +2071,7 @@ déductions mathématiques . Il est incontestable ,
 certes , que dans l'établissement des principes
 fondamentaux et l'énoncé des lois les plus géné
 
-[p. 57]
-
-LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
+[p. 57] LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
 57
 
 rales , elle l'emporte à ce point de vue sur le
@@ -2265,11 +2105,7 @@ pour représenter chaque irrégularité du phéno-
 mène par rapport à la formule générale , com-
 plique étrangement les équations, et ne parvient
 pas , malgré ces complications croissant en quel-
-que sorte indéfiniment à mesure qu'on veut ser
-
-[p. 58]
-
-58
+que sorte indéfiniment à mesure qu'on veut ser [p. 58] 58
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 rer la réalité de plus près, à représenter exacte-
@@ -2303,9 +2139,7 @@ cachées qu'elles sont supposées avoir avec les
 masses visibles . Les mécanistes, et Hertz surtout ,
 n'ont d'ailleurs jamais présenté ceci que comme
 
-[p. 59]
-
-LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
+[p. 59] LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
 59
 
 un artifice, un expédient commode, lorsqu'il ne
@@ -2337,11 +2171,7 @@ que le mécanisme lorsqu'il suppose une masse
 cachée , une relation invisible. Bien plus, l'intro-
 duction de ce terme marque une ignorance défi-
 nitive,
-et la ferme volonté de s'en tenir à une
-
-[p. 60]
-
-60
+et la ferme volonté de s'en tenir à une [p. 60] 60
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 correction arbitraire . C'est le coup de pouce du
@@ -2375,9 +2205,7 @@ nomène, encore que nous ne puissions jamais
 savoir ce que recouvrent les quantités numériques
 qui entrent dans la formule, la tàche du physicien
 
-[p. 61]
-
-LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
+[p. 61] LES CONSÉQUENCES DES DEUX LOIS PRÉCÉDENTES
 61
 
 est achevée . Si les constructions moléculaires , si
@@ -2409,11 +2237,7 @@ rien tirer tant que l'imagination ne se laisse pas
 aller par une inclination naturelle irrésistible à
 les hypostasier . Là où il n'y a pas dans une cer-
 taine mesure, image et hypostase, il n'y a rien .
-Pour cette raison psychologique il se peut bien
-
-[p. 62]
-
-62
+Pour cette raison psychologique il se peut bien [p. 62] 62
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 que l'énergétique tende bientôt vers une nouvelle
@@ -2434,9 +2258,7 @@ incliner un jour, entre les mains des chercheurs
 de second ordre, incomparablement plus nom-
 breux que les autres .
 
-[p. 63]
-
-CHAPITRE V
+[p. 63] CHAPITRE V
 
 LES DIFFÉRENTES FORMES D'IMAGINATION
 ET LES THÉORIES PHYSIQUES
@@ -2469,11 +2291,7 @@ Duhem en particulier .
 Duhem et Ostwald accordent avec plus de
 tolérance et de largeur d'esprit que certains phi-
 losophes , qu'il y aura toujours des mécanistes et
-que la science aura toujours un profit à tirer des
-
-[p. 64]
-
-64
+que la science aura toujours un profit à tirer des [p. 64] 64
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 hypothèses mécanistes : l'attitude mécaniste est
@@ -2511,9 +2329,7 @@ exemple, s'ils ont défini un thermomètre, qui, à [^p64-1]
 
 [^p64-1]: P. Duhem, L'Évolution de la mécanique, Revue géné- rale des sciences, mars 1903, p. 255-256 .
 
-[p. 65]
-
-FORMES D'IMAGINATION ET THÉORIES PHYSIQUES
+[p. 65] FORMES D'IMAGINATION ET THÉORIES PHYSIQUES
 65
 
 chaque intensité de chaleur fait correspondre un
@@ -2548,11 +2364,7 @@ constitué par les dimensions et les formes des
 corps ou des systèmes de corps, par ce qu'on
 
 REY.
-5
-
-[p. 66]
-
-66
+5 [p. 66] 66
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 appelle, en un mot, leur configuration à un mo-
@@ -2585,11 +2397,7 @@ aucun support concret, n'existe pas , et ne peut pas
 exister au point de vue psychologique . Il ne peut
 exister que pour un métaphysicien qui croit à la
 réalité des Universaux ; et alors la notion abs-
-traite devient elle-même une notion individuelle ,
-
-[p. 67]
-
-FORMES D'IMAGINATION ET THÉORIES PHYSIQUES
+traite devient elle-même une notion individuelle , [p. 67] FORMES D'IMAGINATION ET THÉORIES PHYSIQUES
 67
 
 vivante et... concrète
@@ -2631,11 +2439,7 @@ Ueber
 die Entwickelung der
 Methoden
 
-L
-
-[p. 68]
-
-68
+L [p. 68] 68
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 !
@@ -2674,9 +2478,7 @@ der theoretischen Physik in
 neuerer Zeit . Naturwissens-
 chaftliche Rundschau, 14 octobre 1899 .
 
-[p. 69]
-
-FORMES D'IMAGINATION ET THEORIES PHYSIQUES
+[p. 69] FORMES D'IMAGINATION ET THEORIES PHYSIQUES
 69
 
 ne veut pas dire que pour constituer l'objet de la
@@ -2714,11 +2516,7 @@ fait d'ailleurs aucun doute. La base qualitative
 
 qu'il donne aux notions fondamentales de son
 système est un appel à l'intuition sensible ; mais
-comme l'a bien vu Boltzman, même là où il n'est
-
-[p. 70]
-
-70
+comme l'a bien vu Boltzman, même là où il n'est [p. 70] 70
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 pas fait appel à cette base qualitative, comme
@@ -2754,9 +2552,7 @@ ginatif de représentation des phénomènes phy-
 sico-chimiques .
 3.- Il s'agit justement d'apprécier maintenant
 
-[p. 71]
-
-FORMES D'IMAGINATION ET THÉORIES PHYSIQUES
+[p. 71] FORMES D'IMAGINATION ET THÉORIES PHYSIQUES
 71
 
 si, en essayant de réduire au moindre degré la
@@ -2788,11 +2584,7 @@ Le verbalisme , ou, puisqu'il s'agit ici moins de
 symboles verbaux, comme dans la scolastique ,
 que de symboles algébriques , le formalisme sec
 et vide, purement utilitaire, voilà le danger qui
-menace la théorie énergétique . Ce danger est sur
-
-[p. 72]
-
-72
+menace la théorie énergétique . Ce danger est sur [p. 72] 72
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 tout à craindre pour ceux qui ne créent pas la
@@ -2825,11 +2617,7 @@ enserrer le réel, mais le vide toujours pour cela
 de quelques-uns de ses aspects intéressants et
 importants ? Et Bouasse ne recourt-il pas, dans
 cette même critique , aux modèles mécaniques , à
-la représentation sensible, à l'hypothèse figura-
-
-[p. 73]
-
-FORMES D'IMAGINATION ET THÉORIES PHYSIQUES
+la représentation sensible, à l'hypothèse figura-[p. 73]FORMES D'IMAGINATION ET THÉORIES PHYSIQUES
 73
 
 tive, car elle lui semble plus propre à faire sai-
@@ -2872,11 +2660,7 @@ Kant qu'il y a dans la pensée des éléments qui
 ne viennent pas de l'expérience ? on est bien forcé
 d'admettre avec lui que ces éléments ne sont
 
-1
-
-[p. 74]
-
-74
+1 [p. 74] 74
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 donnés qu'avec l'expérience, que toute pensée
@@ -2910,11 +2694,7 @@ de systématiser ses résultats en partant de géné-
 ralités conceptuelles,
 de façon à déduire, en
 apparence, de formules, et par un raisonnement
-aprioristique, les moyens de prévoir les particula-
-
-[p. 75]
-
-FORMES D'IMAGINATION ET THÉORIES PHYSIQUES
+aprioristique, les moyens de prévoir les particula-[p. 75]FORMES D'IMAGINATION ET THÉORIES PHYSIQUES
 75
 
 rités des phénomènes réels ? La méthode inverse ,
@@ -2943,9 +2723,7 @@ la figuration mécaniste ?
 
 L
 
-[p. 76]
-
-CHAPITRE VI
+[p. 76] CHAPITRE VI
 
 LIMITES QUE LA PSYCHOLOGIE
 DE LA CONNAISSANCE
@@ -2980,9 +2758,7 @@ repose sur une substructure sensible, le concept
 ne peut être qu'un résumé de connaissances ; il
 ne peut être un procédé d'acquisition, un moyen
 
-[p. 77]
-
-LES LIMITES DE L'ÉNERGÉTISME
+[p. 77] LES LIMITES DE L'ÉNERGÉTISME
 77
 
 d'invention et de découvertes . La psychologie ,
@@ -3017,9 +2793,7 @@ une systématisation conceptuelle, formelle , de
 nos connaissances scientifiques, c'est, de parti
 pris, borner la théorie scientifique au rôle d'abré-
 
-[p. 78]
-
-78
+[p. 78] 78
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 1
@@ -3058,9 +2832,7 @@ tâche . Elle ne se soucie nullement d'ajouter à ces
 matériaux . Les progrès de la physique ne l'inté-
 ressent pas . Elle les constate et c'est tout . Elle
 
-[p. 79]
-
-LES LIMITES DE L'ÉNERGÉTISME
+[p. 79] LES LIMITES DE L'ÉNERGÉTISME
 79
 
 ne crée pas , elle construit. Elle dispose pour le
@@ -3094,11 +2866,7 @@ leurs résultats, qui seuls importent, soient bien
 ceux que l'on cherche . La théorie peut , à la
 rigueur, être elle-même telle ou telle ; l'arbitraire
 peut avoir régné dans sa construction . Tout cela
-montre bien que la théorie n'a jamais la préten
-
-[p. 80]
-
-80
+montre bien que la théorie n'a jamais la préten [p. 80] 80
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 !
 tion de servir à la découverte des lois nouvelles.
@@ -3136,9 +2904,7 @@ Elle se développe parallèlement à la physique
 inductive , tant que la science cherche à étendre
 son patrimoine et va encore à l'aventure dans
 
-[p. 81]
-
-LES LIMITES DE L'ÉNERGÉTISME
+[p. 81] LES LIMITES DE L'ÉNERGÉTISME
 81
 
 l'inconnu des lois naturelles . Mais dès que par
@@ -3178,11 +2944,7 @@ du laboratoire .
 L...
 
 REY.
-6
-
-[p. 82]
-
-82
+6 [p. 82] 82
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 Duhem pense à son tour que la théorie est un
@@ -3216,9 +2978,7 @@ permettre de calculer assez exactement les résul-
 tats de l'expérience. Mais en elle-même la théorie
 est indépendante de l'expérience, puisqu'elle n'a
 
-[p. 83]
-
-LES LIMITES DE L'ÉNERGÉTISME
+[p. 83] LES LIMITES DE L'ÉNERGÉTISME
 83
 
 par elle-même aucune vertu inventive , aucune
@@ -3258,11 +3018,7 @@ réduction , ce qui serait peut-être l'idéal de l'éco-
 
 L--
 
-L
-
-[p. 84]
-
-84
+L [p. 84] 84
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 nomie de la pensée ; mais cette réduction des
@@ -3299,9 +3055,7 @@ et pour l'avoir toujours été, notamment depuis le
 xvi siècle, la théorie physique ne doit-elle être
 que cela, et n'avoir d'autre propriété ou d'autre
 
-[p. 85]
-
-LES LIMITES DE L'ÉNERGÉTISME
+[p. 85] LES LIMITES DE L'ÉNERGÉTISME
 85
 
 utilité ? La plupart des savants ne sont pas de cet
@@ -3334,11 +3088,7 @@ ries . Ces expériences ont été la plupart du temps
 subordonnées étroitement à la théorie . Et même
 
 la théorie a prévu quelques-uns des résultats les
-plus féconds de l'expérience. Ce n'est pas un des
-
-[p. 86]
-
-86
+plus féconds de l'expérience. Ce n'est pas un des [p. 86] 86
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 :
@@ -3377,9 +3127,7 @@ jusqu'à en être une simple promo-
 tion
 etcomment les principes ou les grandes
 
-[p. 87]
-
-LES LIMITES DE L'ÉNERGÉTISME
+[p. 87] LES LIMITES DE L'ÉNERGÉTISME
 87
 
 hypothèses n'avaient à son avis de raison d'être
@@ -3413,9 +3161,7 @@ rimentale .
 
 [^p87-1]: Cf. H. Poincaré, Science et Hypothèse (passim) .
 
-[p. 88]
-
-88
+[p. 88] 88
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 6.- Or, c'est pour faire de la théorie un réper-
@@ -3450,9 +3196,7 @@ verte , c'est donc toujours la prévision d'une série
 de perceptions possibles .. La découverte phy-
 sique consiste à actualiser par l'expérience une
 
-[p. 89]
-
-LES LIMITES DE L'ÉNERGÉTISME
+[p. 89] LES LIMITES DE L'ÉNERGÉTISME
 89
 
 possibilité de perception . L'intuition sensible ou
@@ -3487,11 +3231,7 @@ moins apercue de celle-ci, le domaine de la
 découverte et de l'expérience du domaine de l'ex-
 position systématique .
 
-Il n'en reste pas moins alors , du point de vue
-
-[p. 90]
-
-90
+Il n'en reste pas moins alors , du point de vue [p. 90] 90
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 des conditions de la connaissance, qu'il y acer-
@@ -3526,9 +3266,7 @@ En résumé, la construction énergétique, en
 mettant les choses au mieux, n'envisage que nos
 perceptions actuelles; le mécanisme anticipant
 
-[p. 91]
-
-LES LIMITES DE L'ÉNERGÉTISME
+[p. 91] LES LIMITES DE L'ÉNERGÉTISME
 91
 
 par ses hypothèses sur nos connaissances , essaye
@@ -3560,11 +3298,7 @@ fidèle à l'expérience. Qu'on se rappelle simple-
 ment l'absence voulue de représentabilité,
 de
 figuration empirique, l'idéologie abstraite qui
-caractérise la construction énergétique . Qu'on se
-
-[p. 92]
-
-92
+caractérise la construction énergétique . Qu'on se [p. 92] 92
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 rappelle qu'elle n'est saisissable, de l'aveu de
@@ -3599,9 +3333,7 @@ d'un pas dans la connaissance de la nature .
 C'est d'ailleurs ce que pensent des praticiens
 comme Van t'Hoff, bien qu'il incline lui-même vers
 
-[p. 93]
-
-LES LIMITES DE L'ÉNERGÉTISME
+[p. 93] LES LIMITES DE L'ÉNERGÉTISME
 93
 
 l'énergétique comme forme d'exposition, parce
@@ -3636,11 +3368,7 @@ composition sont les seuls facteurs , tous déter-
 minables par l'expérience dont on se contente .
 L'analogie avec le phénomène purement phy-
 sique de la vaporisation est manifeste, et la liai-
-son se fait sur le terrain de la thermodynamique ,
-
-[p. 94]
-
-94
+son se fait sur le terrain de la thermodynamique , [p. 94] 94
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 dont les principes s'appliquent aux deux cas .
@@ -3676,9 +3404,7 @@ vont s'observer. Mais indépendamment de cette [^p94-1]
 
 [^p94-1]: Van t'Hoff. Leçons de Chimie Physique , I, 9 .
 
-[p. 95]
-
-LES LIMITES DE L'ÉNERGÉTISME
+[p. 95] LES LIMITES DE L'ÉNERGÉTISME
 95
 
 7
@@ -3715,11 +3441,7 @@ n'ayant entre eux que les rapports qui sont im-
 posés par l'évidence ou par un certain nombre
 de principes fondamentaux .
 
-<< Sans doute, la détermination de ces rapports
-
-[p. 96]
-
-96
+<< Sans doute, la détermination de ces rapports [p. 96] 96
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 indépendants de toute hypothèse et qui ont trait ,
@@ -3755,9 +3477,7 @@ cherche expérimentale, et, d'autre part, que la [^p96-1]
 
 [^p96-1]: La chaleur, par Pierre de Heen .
 
-[p. 97]
-
-LES LIMITES DE L'ÉNERGÉTISME
+[p. 97] LES LIMITES DE L'ÉNERGÉTISME
 97
 
 théorie physique n'a pas lieu d'être séparée de la
@@ -3785,9 +3505,7 @@ sinon immédiatement, au moins dans l'avenir .
 REY.
 7
 
-[p. 98]
-
-CHAPITRE VII
+[p. 98] CHAPITRE VII
 
 LA DÉDUCTION ET L'INDUCTION
 AU POINT DE VUE PSYCHOLOGIQUE
@@ -3824,9 +3542,7 @@ gique ?) très accréditée depuis trois siècles par
 logiciens et psychologues, au sujet des formes
 du raisonnement .
 
-[p. 99]
-
-LA DÉDUCTION ET L'INDUCTION
+[p. 99] LA DÉDUCTION ET L'INDUCTION
 99
 
 Cette conception consiste essentiellement à
@@ -3865,11 +3581,7 @@ ensuite , enfin des partisans modernes de la con-
 tingence des lois de la nature, est, sur ce point
 décisive . Une théorie purement formelle serait
 
-L
-
-[p. 100]
-
-100
+L [p. 100] 100
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 une pure tautologie . Elle ne serait même pas une
@@ -3907,11 +3619,7 @@ ques adressées par les savants de la Renaissance
 Comment philosophes et savants de la Renais-
 sance, comment Kant et tous ceux qui se ratta-
 chent à lui sur ce point conçoivent-ils , par oppo-
-sition à la déduction formelle ou syllogistique ,
-
-[p. 101]
-
-LA DÉDUCTION ET L'INDUCTION
+sition à la déduction formelle ou syllogistique , [p. 101] LA DÉDUCTION ET L'INDUCTION
 101
 
 la déduction mathématique ? Cette conception |
@@ -3951,11 +3659,7 @@ Descartes
 eut
 une autre
 ambition .
-Il
-
-[p. 102]
-
-102
+Il [p. 102] 102
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 voulut fonder en raison ce que l'empirisme ne
@@ -3995,9 +3699,7 @@ passe à l'être grâce au mouvement, dans la phy-
 sique scolastique. Ainsi le raisonnement n'est
 rien que la façon dont la raison articule et déve
 
-[p. 103]
-
-LA DÉDUCTION ET L'INDUCTION
+[p. 103] LA DÉDUCTION ET L'INDUCTION
 103
 
 loppe les notions qu'elle enferme, et ce sont ces
@@ -4034,11 +3736,7 @@ existence. Alors le raisonnement ne sera plus une
 forme vide ; il correspondra aux relations vérita-
 bles des choses , et la science sera, non le déve-
 
-L
-
-[p. 104]
-
-104
+L [p. 104] 104
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 :
@@ -4079,9 +3777,7 @@ méthode, et de son opposition à la méthode de la
 scolastique, est cetteidée émise par Berthelotpour
 caractériser la science positive : « Le monde ne
 
-[p. 105]
-
-LA DÉDUCTION ET L'INDUCTION
+[p. 105] LA DÉDUCTION ET L'INDUCTION
 105
 
 saurait être deviné » . Et cette idée c'est la pensée
@@ -4119,9 +3815,7 @@ qualité qu'on retrouve dans tous les êtres , et [^p105-1]
 
 [^p105-1]: Kant lui-même, pour qui le jugement synthétique a priori est une forme vide, un néant, sans l'expérience .
 
-[p. 106]
-
-106
+[p. 106] 106
 ' ÉNERGÉTIQUE ET LE MÉCANISME
 
 qu'on en extrait par une propriété mystérieuse de
@@ -4155,9 +3849,7 @@ Comment procédera alors la déduction ? [^p106-1]
 
 [^p106-1]: Descartes répugne au fond à l'atomisme pour la même raison qu'il répugne à la philosophie de la qualité , car , comme la qualité pure, le vide, c'est l'absence d'une exis- tence que l'esprit puisse appréhender . Or là où il n'y a pas un être, il n'y a rien .
 
-[p. 107]
-
-LA DÉDUCTION ET L'INDUCTION
+[p. 107] LA DÉDUCTION ET L'INDUCTION
 107
 
 Elle procédera, grâce à l'intuition de l'objet et de
@@ -4198,11 +3890,7 @@ méthode synthétique .
 Reste à nous demander en quoi consiste ce
 raisonnement déductif soutenu par l'intuition , et
 comment s'effectue cette synthèse compatible
-avec la déduction , d'où la science théorique tire
-
-[p. 108]
-
-108
+avec la déduction , d'où la science théorique tire [p. 108] 108
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 !
@@ -4238,9 +3926,7 @@ On caractériserait peut-être assez justement
 la synthèse qui fait la puissance de la déduction
 scientifique, en disant qu'elle est une assimila
 
-[p. 109]
-
-.
+[p. 109] .
 LA DÉDUCTION ET L'INDUCTION
 109
 
@@ -4284,11 +3970,7 @@ min d'un point à un autre . Ce qui fait donc la
 
 1
 
-L
-
-[p. 110]
-
-110
+L [p. 110] 110
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 valeur de l'intuition c'est qu'elle est à la fois une
@@ -4322,12 +4004,10 @@ En d'autres termes la déduction construit, avec
 des éléments empruntés à l'intuition, les objets
 d'intuition encore inexpliqués , per generationem .
 C'est en ce sens , mais en ce sens seulement, que
-la déduction procède a priori et qu'elle recrée ,
+la déduction procède *a priori* et qu'elle recrée ,
 pour la connaissance humaine, les objets de cette
 
-[p. 111]
-
-LA DÉDUCTION ET L'INDUCTION
+[p. 111] LA DÉDUCTION ET L'INDUCTION
 111
 
 connaissance en suivant les enseignements de
@@ -4337,7 +4017,7 @@ En résumé la déduction Cartésienne ne démon-
 tre rien par un raisonnement formel ; elle ne fait
 pas un pas sans s'appuyer sur une intuition
 :
-intuition rationnelle, a priori, il est bien vrai,
+intuition rationnelle, *a priori*, il est bien vrai,
 mais intuition d'une réalité objective, individuelle
 et substantielle .
 b) La critique philosophique et scientifique de
@@ -4362,11 +4042,7 @@ forces se composent et s'harmonisent, et l'har-
 monie préétablie n'est pas, en ce sens , autre
 chose que la tentative la plus hardie pour con-
 
-L
-
-[p. 112]
-
-112
+L [p. 112] 112
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 cilier
@@ -4379,32 +4055,30 @@ apparence , se simplifie et se modernise . Le fon-
 dement de la déduction mathématique et de la
 théorie physique, ou ce qui, pour lui, est tout un,
 de la mécanique newtonienne, c'est le jugement
-synthétique a priori. La théorie de la déduction
+synthétique *a priori*. La théorie de la déduction
 procédant par synthèse est, chez Kant, exposée
 avec une netteté et une conscience qui l'ont
 
 fait passer souvent pour le créateur d'une con-
 ception dont les origines, nous venons de le voir,
 se trouvent dans l'esprit scientifique de la Renais-
-sance . Mais la synthèse a priori est un jugement,
+sance . Mais la synthèse *a priori* est un jugement,
 une relation créée par l'esprit et pour lui
 : ce
 n'est pas une chose . Et, d'autre part , nul plus
 que Kant n'a combattu l'intuition rationnelle de
-Descartes . Toute la critique de la raison pure est
+Descartes . Toute la *critique de la raison pure* est
 une machine de guerre contre elle , et contre
 tout dogmatisme analogue . Il reste, semble-t-il ,
 que l'esprit procède uniquement par relations
 entre concepts , et par là ne rejoint-on pas , mu-
 tatis mutandis , une conception voisine du for-
 malisme de la scolastique ? Les jugements syn-
-thétiques a priori, ce ne sont pas les formules
+thétiques *a priori*, ce ne sont pas les formules
 intelligibles d'êtres réels : ce sont des formes de
 l'esprit, tout comme ces idées générales qui nous
 
-[p. 113]
-
-LA DÉDUCTION ET L'INDUCTION
+[p. 113] LA DÉDUCTION ET L'INDUCTION
 113
 
 représentaient les formes qualitatives des choses .
@@ -4427,7 +4101,7 @@ commence qu'avec l'expérience », et que Kant
 tient à la fois de Leibniz et de Hume, des empi-
 riques et des rationalistes . Ce n'est qu'abstraite-
 ment et pour les besoins de la critique que Kant
-sépare les formes a priori de la pensée, les cadres
+sépare les formes *a priori* de la pensée, les cadres
 synthétiques qui fondent sa possibilité, d'une
 part, et son contenu empirique, les représenta-
 tions en quoi consistent sa réalité et sa matière ,
@@ -4441,11 +4115,7 @@ priori , sans des représentations , c'est-à-dire sans
 une intuition empirique, sans un objet de per-
 
 REY.
-8
-
-[p. 114]
-
-114
+8 [p. 114] 114
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 ception, est un néant. Dans la théorie de Kant,
@@ -4483,9 +4153,7 @@ ment sont les conditions nécessaires et suffisantes
 de l'unité de l'expérience . La synthèse nécessaire
 opérée dans toute connaissance c'est l'assimila
 
-[p. 115]
-
-LA DÉDUCTION ET L'INDUCTION
+[p. 115] LA DÉDUCTION ET L'INDUCTION
 115
 
 tion , l'unification, la manifestation de l'équiva-
@@ -4523,11 +4191,7 @@ duction : seulement, tandis que celle-ci n'établit
 qu'en fait le passage d'un terme à l'autre, ladéduc-
 tion l'établit en droit en construisant le second fait
 
-avec le premier, en engendrant théoriquement le
-
-[p. 116]
-
-116
+avec le premier, en engendrant théoriquement le [p. 116] 116
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 second avec le premier. Ce que la déduction
@@ -4567,9 +4231,7 @@ forme de relation, et ceci est encore un accord
 remarquable avec la psychologie moderne qui
 pose phylogéniquement le concept après le juge
 
-[p. 117]
-
-LA DÉDUCTION ET L'INDUCTION
+[p. 117] LA DÉDUCTION ET L'INDUCTION
 117
 
 ment [^p117-1]. Toute connaissance, tout fait (scientifique
@@ -4604,9 +4266,7 @@ proposition , encore que l'on n'ait jamais, comme
 
 [^p117-1]: Voir Ruyssen , Essai sur l'évolution psychologique du Jugement (passim) . : ८
 
-[p. 118]
-
-118
+[p. 118] 118
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 :
@@ -4639,9 +4299,7 @@ liser, ce qui lui ferait perdre sa certitude et sa [^p118-1]
 
 [^p118-1]: Voir à ce sujet, bien que les choses soient présentées d'une tout autre façon qu'ici, et que l'auteur tende à des conclusions très différentes : Goblot, Classification des sciences , chapitre sur la déduction mathématique (Paris , F. Alcan) .
 
-[p. 119]
-
-LA DÉDUCTION ET L'INDUCTION
+[p. 119] LA DÉDUCTION ET L'INDUCTION
 119
 
 vertu explicative . Elle procède du même au
@@ -4676,11 +4334,7 @@ est donc le passage du même au même, l'identi-
 L
 fication continue ¹. Il résulte de là que la marche [^p119-1]
 
-[^p119-1]: Sur la transformation du lien de succession (ou de causalité) en lien d'identité, (qui donne à la causalité son vrai sens , ou plutôt complète sa signification), voir Ribot ,
-
-[p. 120]
-
-120
+[^p119-1]: Sur la transformation du lien de succession (ou de causalité) en lien d'identité, (qui donne à la causalité son vrai sens , ou plutôt complète sa signification), voir Ribot , [p. 120] 120
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 ۱
@@ -4718,11 +4372,9 @@ rience vérifiera ensuite . C'est le cas des théories
 fécondes et des prévisions , dans le domaine phy-
 
 Évolution des Idées générales ; chapitre sur l'idée de cause,
-in fine (Paris , F. Alcan) .
+*in fine* (Paris , F. Alcan) .
 
-[p. 121]
-
-LA DÉDUCTION ET L'INDUCTION
+[p. 121] LA DÉDUCTION ET L'INDUCTION
 121
 
 sico-chimique . La déduction a augmenté nos
@@ -4764,9 +4416,7 @@ Comme tout résultat d'expérience scientifique |
 est une relation établie entre deux facteurs , entre
 deux phénomènes , la loi naturelle établie induc-
 
-[p. 122]
-
-122
+[p. 122] 122
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 L
@@ -4805,9 +4455,7 @@ tions , ou deux faits antérieurement isolés
 : Dans
 les deux cas un terme devient la conséquence de
 
-[p. 123]
-
-LA DÉDUCTION ET L'INDUCTION
+[p. 123] LA DÉDUCTION ET L'INDUCTION
 123
 
 l'autre . Poser l'un, c'est, par voie de conséquence,
@@ -4839,7 +4487,7 @@ les uns des autres ; mais cela, par un procédé
 analogue à celui que nous avions employé pour
 établir chacun d'eux .
 
-L'esprit n'emploie le raisonnement a priori que
+L'esprit n'emploie le raisonnement *a priori* que
 
 d'une façon apparente .
 Nous parvenons , en réalité , à opérer cette déri-
@@ -4862,9 +4510,7 @@ assurance qu'il ne possédait pas. Qu'il en soit
 
 autrement ne peut plus être pensé. Nous pré-
 
-[p. 124]
-
-124
+[p. 124] 124
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 i
@@ -4905,9 +4551,7 @@ de l'intuition
 
 [^p124-1]: Voir les analogies entre l'induction et la déduction : Claude Bernard, Introduction à la médecine expérimen- tale, 1re partie, in fine . Le point de vue est d'ailleurs très différent de celui auquel je me place ici .
 
-[p. 125]
-
-LA DÉDUCTION ET L'INDUCTION
+[p. 125] LA DÉDUCTION ET L'INDUCTION
 125
 
 expérimentale [^p125-1] , de même que, dans le domaine
@@ -4939,9 +4583,7 @@ applique une loi générale à un cas particulier, et
 
 [^p125-1]: Voir Berthelot, Réponse à Renan (in Dialogues philo- sophiques ) sur la nécessité de l'expérience dans les parties rationnelles des sciences physico-chimiques ; le début de la lettre surtout .
 
-[p. 126]
-
-126
+[p. 126] 126
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 que l'on demande à l'expérience de vérifier la
@@ -4955,9 +4597,9 @@ la déduction va du général au particulier, tandis
 que l'induction va du particulier au général. Et
 c'est encore cela quia pu faire dire que la déduc-
 tion scientifique se passe de l'expérience, se
-déroule a priori . La déduction, lorsqu'elle parti-
+déroule *a priori* . La déduction, lorsqu'elle parti-
 cularise , considère, en effet, que la majeure est
-acquise ; et alors a priori la conclusion en résulte .
+acquise ; et alors *a priori* la conclusion en résulte .
 Dans ce cas , pour que la déduction soit valable ,
 
 il suffit que les règles du raisonnement soient res-
@@ -4981,9 +4623,7 @@ dant en raison, en faisant comprendre les lois
 naturelles qu'elle rassemble , ce que la simple
 induction ne fait pas . Et si la systématisation
 
-[p. 127]
-
-LA DÉDUCTION ET L'INDUCTION
+[p. 127] LA DÉDUCTION ET L'INDUCTION
 127
 
 déductive peutparaître arbitraire, c'est parce que ,
@@ -5017,9 +4657,7 @@ Autrement dit, l'idéal du mécanisme est l'idéal de
 la déduction scientifique telle qu'on peut la con-
 cevoir dans le domaine physico-chimique : pré-
 
-[p. 128]
-
-128
+[p. 128] 128
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 2
@@ -5060,9 +4698,7 @@ mathématiques , la thèse de l'idéalisme ou du
 formalisme
 mathématique . Elle suppose que
 
-[p. 129]
-
-LA DÉDUCTION ET L'INDUCTION
+[p. 129] LA DÉDUCTION ET L'INDUCTION
 129
 
 celles-ci sont une science de concepts . Cette thèse
@@ -5072,7 +4708,7 @@ encore, ni réfutée , ni abandonnée . La théorie
 énergétique considère en outre d'une façon abs-
 traite et artificielle la déduction qui se rencontre
 dans les théories physico-chimiques .
-In abstracto , si l'on prend une théorie comme
+*In abstracto* , si l'on prend une théorie comme
 un tout isolé et indépendant, et qu'on l'étudie
 au point de vue logique , il est aisé de remarquer
 que le progrès de la pensée s'y fait selon les lois
@@ -5096,11 +4732,7 @@ tion psychologique normale, des concepts , et
 entretiennent entre elles; - à moins que l'on ne
 
 REY.
-9
-
-[p. 130]
-
-130
+9 [p. 130] 130
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 veuille revenir à un grossier atomisme psycholo-
@@ -5135,9 +4767,7 @@ et elle a d'autant plus de valeur qu'elle masque
 moins ces constatations empiriques , qu'elle cher-
 che à avoir avec elles le lien le plus étroit ; elle
 
-[p. 131]
-
-LA DÉDUCTION ET L'INDUCTION
+[p. 131] LA DÉDUCTION ET L'INDUCTION
 131
 
 estmoins un système de concepts , qu'un système
@@ -5172,11 +4802,7 @@ expérimentale et comme elle, se précisant avec
 elle , se modifiant avec elle, à mesure que les
 expérimentations gagnent en largeur, en profon-
 
-L
-
-[p. 132]
-
-132
+L [p. 132] 132
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 deur, en précision, et corrigent les erreurs d'une
@@ -5203,9 +4829,7 @@ ordre l'acquis ne serait-elle pas, au point de vue
 de la connaissance en général, et de la science
 en particulier, une pensée morte ?
 
-[p. 133]
-
-CHAPITRE VIII
+[p. 133] CHAPITRE VIII
 
 LE RÈGNE DE LA QUANTITÉ
 
@@ -5241,11 +4865,7 @@ auquel aboutit , avec Duhem et Ostwald , l'énergé-
 tique , s'appuie sur la nécessité primordiale pour
 le physicien de respecter l'expérience, et, si l'on
 étudie les raisons données par Rankine d'abord ,
-parMach ensuite, pourla réforme qu'ils proposent
-
-[p. 134]
-
-134
+parMach ensuite, pourla réforme qu'ils proposent [p. 134] 134
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 dans le champ de la théorie physico-chimiques,
@@ -5282,9 +4902,7 @@ l'établissement de la voie .
 Au contraire la théorie mécaniste , et toutes les
 théories -figuratives procèdent d'un tout autre
 
-[p. 135]
-
-LE RÈGNE DE LA QUANTITÉ
+[p. 135] LE RÈGNE DE LA QUANTITÉ
 .
 135
 
@@ -5318,11 +4936,7 @@ sons) et ont toujours le secret espoir de voir leur
 formalisme , vide encore, se remplir tôt ou tard
 d'un contenu emprunté aux données perceptives .
 Seulement cette figuration est pleine d'incerti-
-tudes , d'hiatus et de lacunes : c'est pourquoi elle
-
-[p. 136]
-
-136
+tudes , d'hiatus et de lacunes : c'est pourquoi elle [p. 136] 136
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 est essentiellement hypothétique, c'est pourquoi
@@ -5359,9 +4973,7 @@ intéressante
 et absolument nécessaire à faire
 dans la méthodologie traditionnelle des sciences
 
-[p. 137]
-
-LE RÈGNE DE LA QUANTITÉ
+[p. 137] LE RÈGNE DE LA QUANTITÉ
 137
 
 de la nature telle qu'on l'expose depuis John
@@ -5397,11 +5009,7 @@ présentertoutle connu, eten constatant son insuffi-
 sance . Le savant cherche alors à se représenter
 l'inconnu de telle sorte que l'hypothèse antérieure
 
-L
-
-[p. 138]
-
-138
+L [p. 138] 138
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 soit rectifiée afin de coïncider avec l'expérience .
@@ -5436,9 +5044,7 @@ logique a ses procédés propres , et l'invention est
 beaucoup plus systématique qu'on n'a coutume
 de l'admettre . Elle résulte de raisonnements qui
 
-[p. 139]
-
-LE RÈGNE DE LA QUANTITÉ
+[p. 139] LE RÈGNE DE LA QUANTITÉ
 139
 
 ont leurs lois, et de tout un échafaudage de la
@@ -5471,11 +5077,7 @@ direction .
 entrent dans la construction des hypothèses figu-
 ratives doivent être , dans des sciences qui sont, à
 tout prendre, beaucoup plus près de leurs débuts
-que de leur achèvement, fort loin des données em
-
-[p. 140]
-
-140
+que de leur achèvement, fort loin des données em [p. 140] 140
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 piriques envisagées dans leur infinie complexité ;
@@ -5511,9 +5113,7 @@ niste . Il faut indiquer dans quelle direction l'hy-
 pothèse figurative s'éloigne des apparences sensi-
 bles . Elle ne peut servir à la découverte que si par
 
-[p. 141]
-
-LE RÈGNE DE LA QUANTITÉ
+[p. 141] LE RÈGNE DE LA QUANTITÉ
 141
 
 sa situation même, elle fournit un point d'appui
@@ -5550,9 +5150,7 @@ La mécanique se construit à l'aide de la mathé- [^p141-1]
 
 [^p141-1]: Voir à ce sujet Poincaré, La Science et l'Hypothèse .
 
-[p. 142]
-
-142
+[p. 142] 142
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 matique, à partir de la géométrie, comme une
@@ -5590,9 +5188,7 @@ purement sensible, et en conservant d'une façon
 stable ces rectifications ? Répondre que c'est dans
 un simple but d'arbitraire commodité, n'est peut
 
-[p. 143]
-
-LE RÈGNE DE LA QUANTITÉ
+[p. 143] LE RÈGNE DE LA QUANTITÉ
 143
 
 être pas complètement faux, mais à coup sûr est
@@ -5630,11 +5226,7 @@ tation fût conforme à ce qu'elle est chargée de
 représenter. Ce ne sont pas les données qualita-
 tives originaires qui fournissent la vue la plus voi-
 sine du réel
-: elles ne sont que de grossières
-
-[p. 144]
-
-144
+: elles ne sont que de grossières [p. 144] 144
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 approximations de sens peu exercés . Ce sont au
@@ -5676,9 +5268,7 @@ draient expliquerla nature physique : mouvement
 des corps célestes , mouvement des machines
 simples et mouvement de chute vers la surface
 
-[p. 145]
-
-LE RÈGNE DE LA QUANTITÉ
+[p. 145] LE RÈGNE DE LA QUANTITÉ
 145
 
 de la terre : les phénomènes électriques et magné-
@@ -5719,11 +5309,7 @@ comme des changements purements qualitatifs,、
 on voit toujours des déformations, des déplace-
 
 REY.
-10
-
-[p. 146]
-
-146
+10 [p. 146] 146
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 L
@@ -5767,9 +5353,7 @@ tinct de la race, parce qu'il résume toutes les
 expériences de la race . Ajoutons que seul il nous
 donne une image sensible, une représentation
 
-[p. 147]
-
-LE RÈGNE DE LA QUANTITÉ
+[p. 147] LE RÈGNE DE LA QUANTITÉ
 147
 
 intelligible de toute transformation et que tous les
@@ -5804,11 +5388,7 @@ par la mathématique, les exigences et les divi-
 nations obscures de l'instinct. Cette représenta-
 
 tion, cet univers, sont la seule représentation pos-
-sible, le seul univers réel que nous puissions
-
-[p. 148]
-
-148
+sible, le seul univers réel que nous puissions [p. 148] 148
 L'ÉNERGÉTIQUE ET LE MÉCANISME
 
 concevoir, puisque nous ne pouvons sortir de
@@ -5845,9 +5425,7 @@ gines ; le règne de la quantité se substitue gra-
 duellement à lui dans le domaine de la connais-
 sance . Il est l'avenir de notre empire intellectuel .
 
-[p. 149]
-
-LE RÈGNE DE LA QUANTITÉ
+[p. 149] LE RÈGNE DE LA QUANTITÉ
 149
 
 La raison n'est pas autre chose que sa progres-
@@ -5887,9 +5465,7 @@ L'Inspecteur d'Académie ,
 
 FRINGNET .
 
-[p. 151]
-
-TABLE DES MATIÈRES
+[p. 151] TABLE DES MATIÈRES
 
 CHAPITRE
 PREMIER .
@@ -5914,11 +5490,7 @@ connu .
 [^p151-2]: Difficultés psychologiques entraînées par cette rup- ture . Légitimité du point de vue psychologique pour juger de la forme générale de la systématisation physique. Ce point de vue psychologique est inséparable du point de vue logique.
 [^p151-3]: La loi la plus importante relative a l'acquisition des connaissances : La connaissance de l'in- connu à l'aide du connu. Le mécanisme répond beaucoup mieux à cette loi de la connaissance que l'énergétique .
 [^p151-4]: Aussi conserve-t-il beaucoup mieux le plan tradition- nel de la systématisation physique, et la continuité histo- rique.
-[^p151-5]: Les avantages, au point de vue psycholo
-
-[p. 152]
-
-154
+[^p151-5]: Les avantages, au point de vue psycholo [p. 152] 154
 TABLE DES MATIÈRES
 
 doit servir encore à la découverte .

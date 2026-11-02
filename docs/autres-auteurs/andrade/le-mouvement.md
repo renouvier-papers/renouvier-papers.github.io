@@ -10,9 +10,7 @@ title: "Le Mouvement : mesures de l'étendue et mesures du temps"
 
 ---
 
-[p. 1]
-
-PREMIÈRE
+[p. 1] PREMIÈRE
 
 PARTIE
 
@@ -56,9 +54,7 @@ ANDRADE.
 
 1
 
-[p. 2]
-
-Cet ensemble nommé axe est un ensemble à une dimension, c'est-à-dire dont chaque élément dépend d'un renseignement numérique ; quand le solide se déplace sur son axe, chaque point du solide, non situé sur l'axe, décrit une ligne ou ensemble à une dimension, la position de ce point mobile
+[p. 2] Cet ensemble nommé axe est un ensemble à une dimension, c'est-à-dire dont chaque élément dépend d'un renseignement numérique ; quand le solide se déplace sur son axe, chaque point du solide, non situé sur l'axe, décrit une ligne ou ensemble à une dimension, la position de ce point mobile
 
 Fig. 1.
 
@@ -70,9 +66,7 @@ Bien que nous concevions sous le nom d'espace l'ensemble par rapport auquel se m
 
 Pendant que la roue des figures 1 et 2 tourne autour de son axe, rien n'empêche de supposer que l'on fasse tourner la barre en flèche autour d'un axe lié à la roue, et l'on conçoit ainsi que l'on puisse définir des mouvements de solides formant une chaîne, chaque mouvement étant la rotation d'un solide autour d'un axe commun avec le solide précédent et
 
-[p. 3]
-
-LE NOMBRE ET L'ÉTENDUE ainsi de suite jusqu'à ce qu'on envisage comme fixe le premier solide de la chaîne. C'est ce qu'on peut appeler des mouvements relatifs de rotation.
+[p. 3] LE NOMBRE ET L'ÉTENDUE ainsi de suite jusqu'à ce qu'on envisage comme fixe le premier solide de la chaîne. C'est ce qu'on peut appeler des mouvements relatifs de rotation.
 
 REMARQUE.
 
@@ -88,9 +82,7 @@ On voit donc que déplacement et mouvement ne sont pas synonymes.
 
 Un mouvement de solide est un déplacement dans lequel chaque position du solide a été associée à un instant de la durée.
 
-[p. 4]
-
-Le plus souvent l'instant de la durée a été défini par l'apparition d'un phénomène simultané.
+[p. 4] Le plus souvent l'instant de la durée a été défini par l'apparition d'un phénomène simultané.
 
 Jusqu'à nouvel ordre nous n'envisagerons comme mouvements identiques ou égaux que des mouvements exécutés simultanément, non seulement dans leurs déplacements totaux mais aussi dans chacune des phases de leurs déplacements continus.
 
@@ -122,9 +114,7 @@ DROITES
 
 LEURS
 
-[p. 5]
-
-MESURES, PROPRIÉTÉS
+[p. 5] MESURES, PROPRIÉTÉS
 
 ESSENTIELLES
 
@@ -152,11 +142,7 @@ Troisième notion.
 
 TROISIÈME EXPÉRIENCE (fig. 3).
 
-Voici le triangle, élément du plan, construit au moyen de trois points donnés non en ligne droite et qui seront les sommets du triangle. Une trame de fils tendue sur ce triangle de bois évidé au milieu, réalise la définition du triangle comme une triple trame de droites ; chaque trame est formée de l'ensemble des droites qui joignent l'un des trois points donnés à un point mobile sur la droite qui joint les deux
-
-[p. 6]
-
-autres. Le croisement mutuel de deux quelconques des segments appartenant à deux des trois trames définit l'intérieur du triangle.
+Voici le triangle, élément du plan, construit au moyen de trois points donnés non en ligne droite et qui seront les sommets du triangle. Une trame de fils tendue sur ce triangle de bois évidé au milieu, réalise la définition du triangle comme une triple trame de droites ; chaque trame est formée de l'ensemble des droites qui joignent l'un des trois points donnés à un point mobile sur la droite qui joint les deux [p. 6] autres. Le croisement mutuel de deux quelconques des segments appartenant à deux des trois trames définit l'intérieur du triangle.
 
 Un point intérieur étant joint aux trois sommets partage le triangle total en trois triangles partiels extérieurs l'un à l'autre ; une droite pénétrant à l'intérieur du triangle coupe le contour propre du triangle en deux points au plus, et toujours en deux points appartenant à deux côtés du triangle seulement, à moins que la droite passe par un sommet.
 
@@ -172,11 +158,7 @@ Une droite étant placée nous appelons longueur réduite de cette droite : une 
 
 Tous les points qui sont à une distance réduite moindre qu'une certaine longueur assignable Lane sont joignables que par une droite.
 
-Ces précautions dans l'exposé des notions fondamentales ne doivent pas d'ailleurs être indiquées à des débutants,
-
-[p. 7]
-
-mais nous devons les mentionner dans cette philosophie de la géométrie. Un triangle suffisamment réduit constitue un ensemble à deux dimensions jouissant de cette propriété que deux points de l'ensemble définissent une portion de droite appartenant tout entière à l'ensemble ; c'est la définition logique de l'élément de plan.
+Ces précautions dans l'exposé des notions fondamentales ne doivent pas d'ailleurs être indiquées à des débutants, [p. 7] mais nous devons les mentionner dans cette philosophie de la géométrie. Un triangle suffisamment réduit constitue un ensemble à deux dimensions jouissant de cette propriété que deux points de l'ensemble définissent une portion de droite appartenant tout entière à l'ensemble ; c'est la définition logique de l'élément de plan.
 
 Quatrième notion et QUATRIÈME
 
@@ -226,9 +208,7 @@ z1
 
 Fig. 4.
 
-[p. 8]
-
-On peut encore dire (fig. 5), et c'est là une proposition
+[p. 8] On peut encore dire (fig. 5), et c'est là une proposition
 
 équivalente aux précédentes : quand
 
@@ -302,9 +282,7 @@ Fig. 6.
 
 nière, montre les deux faces du triangle.
 
-[p. 9]
-
-LE NOMBRE ET L'ÉTENDUE
+[p. 9] LE NOMBRE ET L'ÉTENDUE
 
 GLISSEMENT PLAN
 
@@ -364,9 +342,7 @@ Nous admettons que si la trame AOB de la figure 7 est superposable sur la trame 
 
 La figure 6 montre comment, avec la répétition d'un même modèle préalablement retourné autour de sa base, on pourra par un glissement de la portion inférieure reproduire le second mode de recouvrement de deux trames angulaires.
 
-[p. 10]
-
-Définitions.
+[p. 10] Définitions.
 
 ANGLE.
 
@@ -388,9 +364,7 @@ Un point de l'espace est défini par trois coordonnées indépendantes ;
 
 l'ensemble des points de l'espace forme un domaine dit à trois dimensions.
 
-[p. 11]
-
-CHAPITRE
+[p. 11] CHAPITRE
 
 #### II
 
@@ -432,11 +406,7 @@ Pour qu'un nombre, employé comme multiplicatcur de grandeurs, puisse être soum
 
 soit assurée.
 
-Les premiers multiplicateurs employés furent ceux qui résultent de l'addition répétée de segments égaux ou de leur sectionnement en parties égales, quand on suppose ces segments portés par une même droite ; mais nous verrons plus tard que la géométrie elle-même nous fournira une
-
-[p. 12]
-
-nouvelle notion des multiplicateurs dans la représentation des segments orientés d'un même plan ; un multiplicateur complexe associera l'idée d'amplification d'un segment à partir de son origine et dans sa direction avec l'idée de rotation du segment dans son plan. Il est extrêmement intéressant d'observer que cette généralisation de l'idée de nombre, bien loin d'être une généralisation purement formelle, a été la source de notions indispensables à la coordination des faits épars rencontrés tout d'abord dans la science du calcul. C'est avec la notion des segments ou vecteurs que s'est faite par le multiplicateur complexe cette pénétration réciproque de la géométrie et de l'algèbre.
+Les premiers multiplicateurs employés furent ceux qui résultent de l'addition répétée de segments égaux ou de leur sectionnement en parties égales, quand on suppose ces segments portés par une même droite ; mais nous verrons plus tard que la géométrie elle-même nous fournira une [p. 12] nouvelle notion des multiplicateurs dans la représentation des segments orientés d'un même plan ; un multiplicateur complexe associera l'idée d'amplification d'un segment à partir de son origine et dans sa direction avec l'idée de rotation du segment dans son plan. Il est extrêmement intéressant d'observer que cette généralisation de l'idée de nombre, bien loin d'être une généralisation purement formelle, a été la source de notions indispensables à la coordination des faits épars rencontrés tout d'abord dans la science du calcul. C'est avec la notion des segments ou vecteurs que s'est faite par le multiplicateur complexe cette pénétration réciproque de la géométrie et de l'algèbre.
 
 Mais, pour le moment, par le mot nombre on entendra : la représentation d'une longueur comparée à son unité, cette comparaison pouvant se faire soit par un nombre entier, soit par un nombre fractionnaire, soit par cette représentation limite fondée sur un mode défini d'approximations indéfiniment poursuivies et que résume le mot de nombre incommensurable.
 
@@ -450,9 +420,7 @@ soient
 
 représentées par
 
-[p. 13]
-
-LE NOMBRE ET L'ÉTENDUE deux longueurs portées sur deux droites à partir de points fixes de ces droites, les extrémités variables de ces longueurs définiront deux points ; un mode convenable de correspondance entre les positions de ces deux points sur les droites qui les portent sera une image de la correspondance de la fonction et de la variable.
+[p. 13] LE NOMBRE ET L'ÉTENDUE deux longueurs portées sur deux droites à partir de points fixes de ces droites, les extrémités variables de ces longueurs définiront deux points ; un mode convenable de correspondance entre les positions de ces deux points sur les droites qui les portent sera une image de la correspondance de la fonction et de la variable.
 
 Cette correspondance fonctionnelle est continue dans un domaine de la variable si, pour toutes les valeurs de ce domaine, deux valeurs suffisamment voisines de la variable assurent aux fonctions deux valeurs suffisamment voisines.
 
@@ -466,11 +434,7 @@ C'est ce que les mathématiciens expriment en disant que s'il y a continuité ce
 
 Voici d'ailleurs ce qu'il faut entendre d'une manière précise à cet égard. Soit a une valeur particulière de x, comprise entre x, et x₂, la fonction y de x, soit y (x), est dite continue dans le voisinage de la valeur a de la variable si l'on peut toujours choisir une borne h à la valeur absolue de la différence x-a, de manière que la variation de x étant ainsi limitée on puisse affirmer que la différence : y (x) — y (a) soit, en valeur absolue, moindre que la borne k ; k étant donné, si petit soit-il, et a étant en même temps donné, on pourra toujours associer une borne h à la bornek.
 
-Dès lors envisagons l'ensemble des correspondances (h, k) associées à chaque valeur a intermédiaire entre x, et x2, laissons h donné, aucun k n'étant nul on peut démontrer rigoureusement que l'on pourra associer à k une borne nouvelle et fixe H' telle que pour deux valeurs x et x ' appartenant chacune à l'intervalle x,..... x₂,
-
-[p. 14]
-
-ce fait :
+Dès lors envisagons l'ensemble des correspondances (h, k) associées à chaque valeur a intermédiaire entre x, et x2, laissons h donné, aucun k n'étant nul on peut démontrer rigoureusement que l'on pourra associer à k une borne nouvelle et fixe H' telle que pour deux valeurs x et x ' appartenant chacune à l'intervalle x,..... x₂, [p. 14] ce fait :
 
 valeur absolue de x' — x moindre que H', entraînera le fait :
 
@@ -500,11 +464,7 @@ superposition de deux manières différentes : par glissement plan sur le sommet
 
 Conséquence : Envisageons deux angles A et B opposés par le sommet ; en d'autres termes, les deux demi-droites qui bornent l'un sont les prolongements des deux demi-droites qui bordent l'autre et toute droite intérieure à l'un est le prolongement d'une droite intérieure à l'autre.
 
-En considérant alors un troisième angle C formé d'un côté de l'angle A et du prolongement du second côté de cet angle, on voit de suite que le renversement d'une moitié de l'angle C
-
-[p. 15]
-
-sur son autre moitié par une rotation autour de la bissectrice amène l'angle A par son envers sur l'angle B ; donc les angles A et B étaient égaux ; ainsi deux angles opposés par le sommet sont égaux.
+En considérant alors un troisième angle C formé d'un côté de l'angle A et du prolongement du second côté de cet angle, on voit de suite que le renversement d'une moitié de l'angle C [p. 15] sur son autre moitié par une rotation autour de la bissectrice amène l'angle A par son envers sur l'angle B ; donc les angles A et B étaient égaux ; ainsi deux angles opposés par le sommet sont égaux.
 
 Les deux modes de recouvrement d'un angle sur son égal nous fournissent une propriété essentielle de tout triangle qui a deux côtés égaux (triangle isocèle) ; ce triangle a nécessairement la propriété d'être superposable sur lui-même après un retournement préalable, d'où on conclut que les angles du triangle, opposés aux deux côtés égaux, sont superposables l'un sur l'envers de l'autre ; ces deux angles sont donc égaux ; la superposition essayée a été commencée ici par le sommet de l'angle d'où partent les deux côtés égaux ; en commençant au contraire la superposition, après retournement, par un côté d'un triangle qui posséderait égaux les angles ayant pour sommets les extrémités de ce côté, on verra qu'un triangle qui a deux angles égaux possède aussi des côtés opposés à ces angles qui sont égaux.
 
@@ -514,11 +474,7 @@ en vertu de ce fait corrélatif que deux droites distinctes ne peuvent se couper
 
 Si on veut envisager une géométrie où des points exceрtionnels pourraient être réunis l'un à l'autre par plus d'une droite, les propriétés précédentes subsisteraient encore tout au moins pour un triangle suffisamment réduit. Dans les retournements précédents, envisageons la droite qui joint le sommet principal du triangle au milieu du côté opposé, nous voyons que cette droite possède les deux propriétés suivantes ; elle est bissectrice de l'angle au sommet et elle forme avec les deux moitiés de la base et sur le milieu de cette base comme sommet deux angles égaux.
 
-On a ainsi construit une demi- droite formant avec les deux demi-droites opposées qui constituent une seule droite deux angles égaux, et dès lors d'après la propriété des angles
-
-[p. 16]
-
-opposés par le sommet, établie tout à l'heure, après avoir prolongé la première demi-droite on a deux droites concourantes
+On a ainsi construit une demi- droite formant avec les deux demi-droites opposées qui constituent une seule droite deux angles égaux, et dès lors d'après la propriété des angles [p. 16] opposés par le sommet, établie tout à l'heure, après avoir prolongé la première demi-droite on a deux droites concourantes
 
 formant dans leur plan
 
@@ -578,7 +534,6 @@ fait
 
 deux
 
-#### X
 
 H
 
@@ -596,19 +551,15 @@ L'angle AOB, seul de son espèce, se nomme un angle droit. Le rabattement d'un p
 
 (fig. 9) d'un plan sur ce plan autour d'une charnière XY de ce plan en I' donne une droite II' qui traverse XY en H et est perpendiculaire à XY ; c'est la seule perpendiculaire abaissée de I si I et I' ne sont joignables que par une droite.
 
-[p. 17]
-
-REMARQUE SUR LES ANGLES DES TRIANGLES.
+[p. 17] REMARQUE SUR LES ANGLES DES TRIANGLES.
 
 Si l'on admet un espace où deux points ne sont jamais joignables que par une droite, on peut affirmer que tout angle d'un triangle est moindre
 
 que deux droits.
 
-#### C
 
 B
 
-#### D
 
 H
 
@@ -640,11 +591,7 @@ La méthode de superposition directe ne réussirait plus
 
 ANDRADE.
 
-2
-
-[p. 18]
-
-pour comparer deux triangles dont les trois côtés seraient égaux chacun à chacun ; mais alors on y réussira de la manière suivante
+2 [p. 18] pour comparer deux triangles dont les trois côtés seraient égaux chacun à chacun ; mais alors on y réussira de la manière suivante
 
 Accolons les deux triangles par un de leurs côtés superposables en ayant soin de faire coïncider les sommets où se coupent des côtés égaux chacun à chacun, et plaçons les deux triangles de manière à ce qu'ils soient de part et d'autre de leur côté commun ; en réunissant alors leurs troisièmes sommets par une ligne droite on forme deux triangles isocèles accolés par cette droite qui devrait être en son milieu perpendiculaire à chacune des bissectrices principales de ces nouveaux triangles ; ces deux bissectrices coïncideraient donc et devraient alors se confondre avec le côté par lequel on avait accolé les deux triangles primitifs. On vient de conquérir dans les deux triangles un angle égal et nos deux triangles sont alors égaux comme ayant un angle égal compris entre côtés égaux chacun à chacun.
 
@@ -660,11 +607,7 @@ Considérons une droite qui en un point donné serait perpendiculaire à deux dr
 
 Alors construisons le modèle ci-contre, figure 11. Le tube perçant le cadre du triangle figure la droite que l'on sait être perpendiculaire à deux droites du plan du triangle, par exemple les tranches droite et gauche du triangle ; par le pied du tube
 
-menons dans le plan du triangle une droite
-
-[p. 19]
-
-quelconque ; c'est la réglette mobile figurée ; on coupe les trois droites du plan par une même droite, ici juxtaposée suivant la tranche inférieure du cadre ; on joint les trois points obtenus à deux points sur le tube également distants de son pied ; on fait voir d'abord que les triangles en talus ayant pour sommets ces extrémités du tube et pour base commune la tranche inférieure du cadre sont égaux, comme ayant trois côtés égaux chacun à chacun ; puis, faisant intervenir le point
+menons dans le plan du triangle une droite [p. 19] quelconque ; c'est la réglette mobile figurée ; on coupe les trois droites du plan par une même droite, ici juxtaposée suivant la tranche inférieure du cadre ; on joint les trois points obtenus à deux points sur le tube également distants de son pied ; on fait voir d'abord que les triangles en talus ayant pour sommets ces extrémités du tube et pour base commune la tranche inférieure du cadre sont égaux, comme ayant trois côtés égaux chacun à chacun ; puis, faisant intervenir le point
 
 G
 
@@ -680,11 +623,7 @@ Par un point d'un plan ne passe qu'une droite
 
 perpendiculaire à ce plan.
 
-En effet supposons que par un point O d'un plan partent deux droites perpendiculaires à ce plan ; prenons sur elles
-
-[p. 20]
-
-(sans figure) deux longueurs OA et OB égales et considérons le milieu I de la droite AB. On voit immédiatement, par la propriété des triangles isocèles, que toute droite joignant 1 à un point quelconque M du plan sera perpendiculaire à AB ; dès lors envisageant sur ces droites un point à distance constante de I, nous aurions un ensemble de points qui formerait évidemment un ensemble à deux dimensions ; d'autre part ce même ensemble figurerait les positions successives du point d'un solide tournant autour de AB. Cet ensemble serait donc à une dimension, il y a donc contradiction.
+En effet supposons que par un point O d'un plan partent deux droites perpendiculaires à ce plan ; prenons sur elles [p. 20] (sans figure) deux longueurs OA et OB égales et considérons le milieu I de la droite AB. On voit immédiatement, par la propriété des triangles isocèles, que toute droite joignant 1 à un point quelconque M du plan sera perpendiculaire à AB ; dès lors envisageant sur ces droites un point à distance constante de I, nous aurions un ensemble de points qui formerait évidemment un ensemble à deux dimensions ; d'autre part ce même ensemble figurerait les positions successives du point d'un solide tournant autour de AB. Cet ensemble serait donc à une dimension, il y a donc contradiction.
 
 6.
 
@@ -714,9 +653,7 @@ Définir par un point O une droite perpendiculaire
 
 Par O et dans P menons une droite OD₁ ; puis une droite perpendiculaire à OD, soit OZ ; traçons une droite OU perpendiculaire à OZ et distincte de OD₁, le plan D₂OU est perpendiculaire à OZ ; faisons-le tourner autour de OD₁, jusqu'à le coucher sur le plan P, la droite du solide ainsi entraîné qui était d'abord en OZ viendra en OZ ' et sera alors perpendicuaire à P.
 
-[p. 21]
-
-LE NOMBRE ET L'ÉTENDUE
+[p. 21] LE NOMBRE ET L'ÉTENDUE
 
 Intersection de deux plans qui ont un point commun.
 
@@ -742,9 +679,7 @@ laires menées par ce point dans les plans des faces, le plan d'un angle rectili
 
 La figure 12 montre le modèle du mouvement dont le fonctionnement reproduit la démonstration de la propriété fondamentale du dièdre, la voici
 
-[p. 22]
-
-LES ANGLES RECTILIGNES D'UN DIÈDRE SONT ÉGAUX.
+[p. 22] LES ANGLES RECTILIGNES D'UN DIÈDRE SONT ÉGAUX.
 
 Pour démontrer que les deux angles rectilignes ayant pour sommets O et O' (sans figure) sont égaux, on construit l'angle rectiligne du dièdre au point I milieu de OO', puis on envisage le mouvement du solide par lequel une moitié de l'angle rectiligne en I, après un rabattement autour de la bissectrice de cet angle, recouvre son autre moitié ; par ce déplacement le segment IO du solide ou s'est déplacé en 10 ', ou bien n'a pas bougé, mais en ce dernier cas le solide ayant deux demidroites fixes n'aurait pas bougé, donc IO vient en IO' et la superposition du rectiligne de O sur l'envers du rectiligne de O ' s'achève
 
@@ -758,11 +693,7 @@ Conséquence : Tous les plans menés par A perpendiculaires aux diverses droites
 
 Autre forme donnée à la propriété précédente
 
-Tout angle droit dont un des côtés est dans le plan P se projette sur le plan P suivant un angle droit, et réciproque-
-
-[p. 23]
-
-ment tout angle qui contient une droite de Pet qui se projette sur P suivant un angle droit est aussi un angle droit.
+Tout angle droit dont un des côtés est dans le plan P se projette sur le plan P suivant un angle droit, et réciproque-[p. 23]ment tout angle qui contient une droite de Pet qui se projette sur P suivant un angle droit est aussi un angle droit.
 
 11.
 
@@ -774,9 +705,7 @@ La droite axe de glissement ou axe de translation. 12.
 
 La théorie du dièdre nous montre un second mouvement très simple, c'est la translation ayant pour axe une droite donnée ; dans ce mouvement les plans passant par l'axe sont conservés et chaque point de ce plan demeure dans ce plan à une distance constante de l'axe, à tout instant définie par la longueur de la perpendiculaire abaissée du point mobile sur l'axe de glissement.
 
-[p. 24]
-
-CHAPITRE
+[p. 24] CHAPITRE
 
 #### III
 
@@ -806,11 +735,7 @@ la géométrie de la droite ouverte que nous rencontrons les propriétés suivan
 
 ANGLE EXTÉRIEUR D'UN TRIANGLE.
 
-On désigne habituellement les sommets d'un triangle par les lettres A B C (sans figure) ; on nomme Â BĈles angles des triangles et a, b, c les cótés qui leur sont opposés. Envisageons (sans figure) un triangle ABC et l'angle extérieur de sommet A, formé par le prolongement du côté cau delà de A avec le côté b, en joignant le sommet B au milieu I du côté opposé, et prolongeant ce segment d'une longueur égale on obtient le point D dont la jonction au point A fournit l'angle DAC, reproduction de
-
-[p. 25]
-
-l'angle Ĉ et qui est cependant logé dans l'angle extérieur envisagé, d'où ce résultat :
+On désigne habituellement les sommets d'un triangle par les lettres A B C (sans figure) ; on nomme Â BĈles angles des triangles et a, b, c les cótés qui leur sont opposés. Envisageons (sans figure) un triangle ABC et l'angle extérieur de sommet A, formé par le prolongement du côté cau delà de A avec le côté b, en joignant le sommet B au milieu I du côté opposé, et prolongeant ce segment d'une longueur égale on obtient le point D dont la jonction au point A fournit l'angle DAC, reproduction de [p. 25] l'angle Ĉ et qui est cependant logé dans l'angle extérieur envisagé, d'où ce résultat :
 
 Tout angle extérieur d'un triangle est plus grand que tout angle intérieur qui n'a pas même sommet que lui.
 
@@ -854,11 +779,7 @@ D'INÉGALITÉ
 
 ET UNE NOTATION
 
-D'ÉGALITÉ. Voici rangées (fig. 13) : 1º par rang de tailles croissantes des
-
-[p. 26]
-
-barres voisines ; 2º des barres égales ; 3º par rang de tailles décroissantes des barres voisines.
+D'ÉGALITÉ. Voici rangées (fig. 13) : 1º par rang de tailles croissantes des [p. 26] barres voisines ; 2º des barres égales ; 3º par rang de tailles décroissantes des barres voisines.
 
 Par les lignes de jonction de leurs pieds ou de leurs têtes nous formons les assemblages de traits ci-contre :
 
@@ -892,11 +813,7 @@ Remarque. — La réciproque de cette proposition est évidemment vraie.
 
 Considérons trois demi-droites ou arêtes issues d'un même point S, mais non situées dans un même plan ; ces demidroites assemblées deux à deux définissent trois angles plans et forment les arêtes de trois angles dièdres, cet ensemble porte le nom de trièdre ; les trois angles plans sont les faces du dièdre, à chaque face du trièdre sont opposés une arête et un dièdre sur cette arête.
 
-De même, si on envisage plusieurs demi-droites se succédant dans un ordre déterminé et fermé, les faces ou angles
-
-[p. 27]
-
-qu'elles forment successivement et les dièdres formés de deux faces consécutives constituent un angle polyèdre.
+De même, si on envisage plusieurs demi-droites se succédant dans un ordre déterminé et fermé, les faces ou angles [p. 27] qu'elles forment successivement et les dièdres formés de deux faces consécutives constituent un angle polyèdre.
 
 Le modèle de la figure 14 nous montre un exemple simple d'angle trièdre formé par les tiges rigides d'un parapluie chinois dont on peut faire varier les faces : le parapluie étant ouvert puis fermé, les faces du trièdre diminuent ; quand le parapluie est tout ouvert, les faces peuvent former quatre
 
@@ -906,9 +823,7 @@ droits, et on peut pressentir que la somme des faces du trièdre est toujours mo
 
 On peut le démontrer en justifiant l'intuition qui vient d'être exprimée : à cet effet (sans figure) on prend sur les arêtes du trièdre trois longueurs égales et l'on projette, sur le plan T du triangle déterminé par les trois trois points obtenus, le sommet du trièdre ; en prenant pour point de départ la propriété du côté d'un triangle d'être moindre que la somme des deux autres, on établira sans peine que chaque face du trièdre est moindre que sa projection sur le plan T ; donc la somme des faces du trièdre est moindre que la somme des angles sous lesquels sont vus de la projection de S sur le plan T les trois côtés du triangle ; or cette dernière somme est quatre droits si la projection de S tombe à l'intérieur de T et elle est moindre dans le cas contraire.
 
-[p. 28]
-
-Remarque. — Dans le courant de cette démonstration on a établi cette proposition intéressante pour elle-même :
+[p. 28] Remarque. — Dans le courant de cette démonstration on a établi cette proposition intéressante pour elle-même :
 
 La perpendiculaire abaissée d'un point sur une droite est plus courte que toute oblique, et de deux obliques qui s'écartent inégalement du pied de la perpendiculaire celle qui s'écarte le plus est la plus longue.
 
@@ -920,11 +835,7 @@ Cette proposition n'a d'ailleurs besoin d'être justifiée que si la face consid
 
 Remarque.
 
-On aurait pu établir d'abord cette propriété du trièdre, puis, par la considération d'un trièdre dérivant du trièdre donné par le changement d'une seule arête en son prolongement, retrouver la proposition établie tout d'abord
-
-[p. 29]
-
-sur la somme des faces d'un trièdre ; mais la démonstration suggérée par l'armature d'un parapluie montre ce dernier fait d'une manière plus intuitive.
+On aurait pu établir d'abord cette propriété du trièdre, puis, par la considération d'un trièdre dérivant du trièdre donné par le changement d'une seule arête en son prolongement, retrouver la proposition établie tout d'abord [p. 29] sur la somme des faces d'un trièdre ; mais la démonstration suggérée par l'armature d'un parapluie montre ce dernier fait d'une manière plus intuitive.
 
 3.
 
@@ -954,11 +865,7 @@ La symétrie.
 
 DÉFINITIONS.
 
-Étant donné (sans figure) un point centre de symétrie O, le point symétrique d'un point donné M par
-
-[p. 30]
-
-rapport à ce centre de symétrie est le point M'obtenu en joignant Mà O et prolongeant le segment obtenu d'une longueur égale, en sorte que le point O est le milieu du segment MM'.
+Étant donné (sans figure) un point centre de symétrie O, le point symétrique d'un point donné M par [p. 30] rapport à ce centre de symétrie est le point M'obtenu en joignant Mà O et prolongeant le segment obtenu d'une longueur égale, en sorte que le point O est le milieu du segment MM'.
 
 De même étant donné un plan P, plan de symétrie, construire le symétrique d'un point M par rapport à ce plan c'est mener de ce point M une perpendiculaire MH au plan P et la prolonger d'une longueur égale de H en M', en sorte que le plan P de symétrie passe toujours par le milieu du segment MM'et est perpendiculaire à ce segment.
 
@@ -978,11 +885,7 @@ Placez sur le tube une poupée dont le corps serait traversé en long par le tub
 
 Une trame orientée peut donc se figurer par l'ensemble des droites de cette trame et par une poupée fictive invariablement liée à cette trame, hors de son plan.
 
-Remarque. — Sauf les figures planes qui sont toujours superposables sur leurs symétriques (on le voit de suite en
-
-[p. 31]
-
-prenant comme plan de symétrie le plan de la figure), deux figures à trois dimensions qui sont symétriques ne sont jamais superposables l'une sur l'autre par leurs éléments symétriques ; on le voit nettement en considérant le symétrique d'un trièdre par rapport à son sommet choisi comme centre de symétrie.
+Remarque. — Sauf les figures planes qui sont toujours superposables sur leurs symétriques (on le voit de suite en [p. 31] prenant comme plan de symétrie le plan de la figure), deux figures à trois dimensions qui sont symétriques ne sont jamais superposables l'une sur l'autre par leurs éléments symétriques ; on le voit nettement en considérant le symétrique d'un trièdre par rapport à son sommet choisi comme centre de symétrie.
 
 Un autre exemple bien net est celui de la formation des images dans une glace plane : l'image est la figure symétrique de l'objet éclairé ; or, il suffit de nous regarder dans une glace et de nous gratter l'oreille gauche : notre image nous regarde, mais se gratte l'oreille droite.
 
@@ -998,11 +901,7 @@ Remarques.
 
 POSITIONS MUTUELLES D'UNE DROITE ET D'UNE CIRCONFÉRENCE.
 
-Toute circonférence C (sans figure) qui coupe une droite en un point distinct du pied de la perpen-
-
-[p. 32]
-
-diculaire abaissée du centre sur la droite recoupe la droite en un autre point symétrique du premier, mais ne coupe plus la droite une autre fois, cela résulte de la variation de longueurs des obliques. Toute droite dont la distance h au centre O de la circonférence est moindre que le rayon doit couper la circonférence : en effet, à partir du pied de la perpendiculaire abaissée du centre sur la droite, cheminons sur cette droite jusqu'à une distance supérieure à R + h ; la distance du centre à ce point est supérieure à (R + h)
+Toute circonférence C (sans figure) qui coupe une droite en un point distinct du pied de la perpen-[p. 32]diculaire abaissée du centre sur la droite recoupe la droite en un autre point symétrique du premier, mais ne coupe plus la droite une autre fois, cela résulte de la variation de longueurs des obliques. Toute droite dont la distance h au centre O de la circonférence est moindre que le rayon doit couper la circonférence : en effet, à partir du pied de la perpendiculaire abaissée du centre sur la droite, cheminons sur cette droite jusqu'à une distance supérieure à R + h ; la distance du centre à ce point est supérieure à (R + h)
 
 h, c'est-à-dire à R ; la distance variable du mobile au centre varie d'ailleurs d'une manière continue ; en effet M et M'étant deux positions du mobile sur la droite, la différence des distances OM'et OM est moindre que MM'; donc la distance OM partant d'une valeur moindre que R et dépassant la valeur R, le mobile doit passer une fois par une position pour laquelle la distance OM sera précisément R.
 
@@ -1024,11 +923,8 @@ une proposition préliminaire qui nous
 
 sera utile.
 
-#### X
 
-#### C
 
-#### D
 
 B v
 
@@ -1060,11 +956,7 @@ Fig. 15.
 
 l'angle formé par la première et la troisième. Je dis que la distance AB des pieds des premières obliques, les plus rapprochées de H, est moindre que la distance BC des pieds de la seconde et de la troisième oblique.
 
-En portant sur la troisième oblique la longueur de la première en OD nous formons un triangle BDO égal au triangle OAB ; or l'angle extérieur XAv est dans le triangle AOC
-
-[p. 33]
-
-supérieur à l'angle ACO : donc dans le triangle CBD l'angle BCD est moindre que l'angle CDB ; donc le côté BD est moindre que BC ; donc on a bien AB < CB.
+En portant sur la troisième oblique la longueur de la première en OD nous formons un triangle BDO égal au triangle OAB ; or l'angle extérieur XAv est dans le triangle AOC [p. 33] supérieur à l'angle ACO : donc dans le triangle CBD l'angle BCD est moindre que l'angle CDB ; donc le côté BD est moindre que BC ; donc on a bien AB < CB.
 
 CONSÉQUENCES.
 
@@ -1072,7 +964,7 @@ CONSÉQUENCES.
 
 2º Soit I un point fixe du plan et Mun point mobile sur une circonférence de centre O donné, la distance IM est une fonction continue de l'angle dont tourne le rayon OM, et par suite, si l'on trouve sur cette circonférence un point M où la distance IM soit moindre que a et un point N où la distance IN soit supérieur à a, il y aura certainement un point X de la circonférence entre Met N tel que IX soit précisément égal à a. (Proposition préliminaire sur les fonctions continues,
 
-### Chapitre Ii.)
+### Chapitre II.)
 
 6.
 
@@ -1098,9 +990,7 @@ ANDRADE.
 
 3
 
-[p. 34]
-
-Soit M l'extrémité du rayon R que l'on rencontre quand on marche de O vers I.
+[p. 34] Soit M l'extrémité du rayon R que l'on rencontre quand on marche de O vers I.
 
 Si I est au delà de M, c'est-à-dire si d > R, la distance IM est moindre que R', car R + R' > d ; si I est entre Met O, la distance IM = R — dest encore inférieure à R', car R — R ' < d ; donc dans tous les cas IM < R ' ; d'ailleurs soit N le point diamétralement opposé à M sur le cercle de centre O, on a dans tous le cas IN > R > R'.
 
@@ -1116,11 +1006,7 @@ On appelle arc de grand cercle de la sphère, un arc de cercle appartenant à un
 
 Un arc de grand cercle est image sphérique d'un angle plan ayant pour sommet le centre de la sphère.
 
-Trois arcs de grands cercles appartenant à une même demi-sphère forment l'image sphérique d'un trièdre, ils forment un triangle sphérique dont les côtés a, b, c, seront les angles au centre correspondant aux arcs. Deux arcs de grand cercle en se coupant forment un angle, représentation solide de l'ensemble des positions d'un arc extrême qui vient coïncider avec l'autre par une rotation exécutée autour de la droite d'intersection des plans des deux grands cercles. Cet angle, mesuré par les tangentes aux arcs, est un angle recti-
-
-[p. 35]
-
-ligne du dièdre formé par les demi-plans représentés par les segments d'arcs tirés de leur commune intersection.
+Trois arcs de grands cercles appartenant à une même demi-sphère forment l'image sphérique d'un trièdre, ils forment un triangle sphérique dont les côtés a, b, c, seront les angles au centre correspondant aux arcs. Deux arcs de grand cercle en se coupant forment un angle, représentation solide de l'ensemble des positions d'un arc extrême qui vient coïncider avec l'autre par une rotation exécutée autour de la droite d'intersection des plans des deux grands cercles. Cet angle, mesuré par les tangentes aux arcs, est un angle recti-[p. 35]ligne du dièdre formé par les demi-plans représentés par les segments d'arcs tirés de leur commune intersection.
 
 Les arcs de grand cercle sur la sphère sont les analogues des droites du plan ; deux points de la surface sphérique déterminent en général un grand cercle et un seul, à moins que ces points ne soient en ligne droite avec le centre de la sphère (points antipodes).
 
@@ -1140,11 +1026,7 @@ Lorsqu'une figure plane, tracée dans un demi-plan, a tourné autour d'une certa
 
 Cette remarque montre nettement que si un triangle sphérique ABC a deux côtés égaux issus d'un même sommet A, les arcs BA, BC et le rayon OB forment un assemblage symétrique des arcs CA, CB et du rayon OC, et l'on retrouve ces propriétés fondamentales du triangle sphérique isocèle
 
-Si un triangle sphérique a deux côtés égaux, à ces côtés sont opposés des angles d'égale valeur, et l'arc de grand cercle qui joint le croisement des côtés égaux au milieu du côté opposé, est un arc de grand cercle perpendiculaire au
-
-[p. 36]
-
-troisième côté et bissecteur de l'angle du triangle qui lui est opposé ; si un triangle sphérique a deux angles à la base égaux, les côtés opposés à ces angles sont égaux.
+Si un triangle sphérique a deux côtés égaux, à ces côtés sont opposés des angles d'égale valeur, et l'arc de grand cercle qui joint le croisement des côtés égaux au milieu du côté opposé, est un arc de grand cercle perpendiculaire au [p. 36] troisième côté et bissecteur de l'angle du triangle qui lui est opposé ; si un triangle sphérique a deux angles à la base égaux, les côtés opposés à ces angles sont égaux.
 
 Nous allons encore compléter ces analogies et ces dissemblances entre les triangles plans et les triangles sphériques, mais il est indispensable d'indiquer ici une modification notable de la marche à suivre pour obtenir une comparaison quantitative des différents éléments du triangle.
 
@@ -1166,9 +1048,7 @@ Si on appelle pôle d'un petit cercle de la sphère l'extrémité d'un rayon de 
 
 Étant donnés un grand cercle de la sphère et un point A distinct de son pôle, on peut toujours mener par A un grand cercle perpendiculaire au premier et un seul, mais cette per
 
-[p. 37]
-
-LE NOMBRE ET L'ÉTENDUE pendiculaire a deux pieds H, et K : l'un d'eux définit dans l'hémisphère de A par rapport au grand cercle donné la distance sphérique AH, minima de A à la circonférence de grand cercle ; l'autre définit la distance sphérique AK, maxima de A à la circonférence donnée.
+[p. 37] LE NOMBRE ET L'ÉTENDUE pendiculaire a deux pieds H, et K : l'un d'eux définit dans l'hémisphère de A par rapport au grand cercle donné la distance sphérique AH, minima de A à la circonférence de grand cercle ; l'autre définit la distance sphérique AK, maxima de A à la circonférence donnée.
 
 Aux cas d'égalité des triangles plans, correspondent les propositions suivantes.
 
@@ -1180,9 +1060,7 @@ Considérons deux triangles sphériques Tet T'unis par l'une ou l'autre des quat
 
 3. Les deux triangles ont les trois côtés égaux chacun à chacun ;[^p37-1]
 
-[p. 38]
-
-nous a fourni une démonstration directe de ce fait que la somme des angles d'un triangle sphérique doit toujours excéder deux angles droits. L'étude du trièdre nous l'a déjà appris.
+[p. 38] nous a fourni une démonstration directe de ce fait que la somme des angles d'un triangle sphérique doit toujours excéder deux angles droits. L'étude du trièdre nous l'a déjà appris.
 
 Nous allons maintenant appliquer cette notion à la solution du problème du dallage de la sphère.
 
@@ -1224,9 +1102,7 @@ y
 
 +
 
-[p. 39]
-
-+
+[p. 39] +
 
 y
 
@@ -1260,7 +1136,6 @@ que nous pourrons écrire ainsi
 
 (1)
 
-#### X
 
 y
 
@@ -1300,11 +1175,7 @@ Rotations successives et déplacement de pivotement
 
 d'un solide.
 
-Représentons d'abord une rotation autour d'un diamètre de la sphère par un angle compté autour de son pôle orienté : le pôle orienté est l'extrémité du diamètre de rotation tel qu'un observateur posé sur la sphère, les pieds en ce pôle et la tête hors la sphère, verrait s'accomplir la rotation consi
-
-[p. 40]
-
-dérée de sa gauche vers sa droite, c'est-à-dire dans le sens du mouvement des aiguilles d'une montre vu du cadran.
+Représentons d'abord une rotation autour d'un diamètre de la sphère par un angle compté autour de son pôle orienté : le pôle orienté est l'extrémité du diamètre de rotation tel qu'un observateur posé sur la sphère, les pieds en ce pôle et la tête hors la sphère, verrait s'accomplir la rotation consi [p. 40] dérée de sa gauche vers sa droite, c'est-à-dire dans le sens du mouvement des aiguilles d'une montre vu du cadran.
 
 Théorème des deux rotations successives
 
@@ -1346,9 +1217,7 @@ Tout déplacement défini de solide sur un point fixe O peut toujours étre réa
 
 En effet une figure sphérique glissant sur la sphère fixe qui la porte a toujours sa situation définie par les situations de deux de ses points ; or le changement des positions de ceux-ci peut toujours être produit par un premier change
 
-[p. 41]
-
-LE NOMBRE ET L'ÉTENDUE ment amenant le point Pen sa position finale P', suivi d'une rotation convenable autour du pôle P' qui laisse la droite OP' invariable. Le premier changement peut être réalisé par une rotation convenable exécutée autour d'un pôle I appartenant à l'arc de grand cercle perpendiculaire à l'arc PP' en son milieu, et ceci, même d'une infinité de manières. Le déplacement final de la figure est donc produit par une première rotation autour de I suivie d'une seconde rotation autour de P' ; or nous venons de voir que ces deux déplacements successifs peuvent être remplacés par une rotation unique¹.
+[p. 41] LE NOMBRE ET L'ÉTENDUE ment amenant le point Pen sa position finale P', suivi d'une rotation convenable autour du pôle P' qui laisse la droite OP' invariable. Le premier changement peut être réalisé par une rotation convenable exécutée autour d'un pôle I appartenant à l'arc de grand cercle perpendiculaire à l'arc PP' en son milieu, et ceci, même d'une infinité de manières. Le déplacement final de la figure est donc produit par une première rotation autour de I suivie d'une seconde rotation autour de P' ; or nous venons de voir que ces deux déplacements successifs peuvent être remplacés par une rotation unique¹.
 
 1. L'exposé qui précède a simplifié notablement l'exposé que j'ai donné ailleurs de la géométrie qualitative.
 
@@ -1378,9 +1247,7 @@ Nous admettons qu'à toute figure, assemblage de points et droites, correspond u
 
 On voit immédiatement que cette notion de la similitude
 
-[p. 43]
-
-LE NOMBRE ET L'ÉTENDUE
+[p. 43] LE NOMBRE ET L'ÉTENDUE
 
 entraîne le célèbre postulatum d'Euclide : soit en effet (sans figure) XY une droite indéfinie et un point O quelconque extérieur à cette droite ; dans le plan passant par O et par XY abaissons de () une perpendiculaire OP sur XY et une droite OZ perpendiculaire à cette perpendiculaire. OZ ne peut rencontrer XY, soit OU une droite distincte de OZ, soit A un point de OU duquel nous menons sur OP une perpendiculaire dont le pied est en H ; il existe une figure
 
@@ -1388,7 +1255,6 @@ semblable au triangle OAH, figure dans laquelle OII aura pour correspondante ou 
 
 #### V
 
-#### C
 
 Dans un plan contenant la droite XY et un point quelconque O extérieur, il ne passe par O qu'une seule droite ne rencontrant pas XY ; cette droite aura donc toutes ses perpendiculaires communes avec la droite XY.
 
@@ -1410,11 +1276,7 @@ Le postulatum, en effet, nous offre le moyen de construire un rectangle, c'est-�
 
 En effet (fig. 16) soit UV une droite perpendiculaire à AB en son milieu U, et soient AD et BC deux perpendiculaires égales élevées sur AB aux extrémités A et B et d'un même côté de AB.
 
-La figure ABCD admet l'axe UV comme axe de symétrie, en sorte que la jonction de Cà D fournit une droite CD perpendiculaire à UV en H, mais alors la droite CD ne rencontre pas AB, elle est perpendiculaire à CB ; on a donc ainsi con
-
-[p. 44]
-
-struit un quadrilatère ayant tous ses angles droits et ses côtés
+La figure ABCD admet l'axe UV comme axe de symétrie, en sorte que la jonction de Cà D fournit une droite CD perpendiculaire à UV en H, mais alors la droite CD ne rencontre pas AB, elle est perpendiculaire à CB ; on a donc ainsi con [p. 44] struit un quadrilatère ayant tous ses angles droits et ses côtés
 
 deux à deux parallèles et
 
@@ -1426,9 +1288,7 @@ Ce rectangle
 
 constitue une dalle de dé-
 
-#### D
 
-#### C
 
 part d'un dallage du plan.
 
@@ -1472,7 +1332,6 @@ A
 
 '
 
-#### X
 
 B '
 
@@ -1484,11 +1343,7 @@ elles.
 
 Comme conséquence du dallage rectangulaire nous voyons immédiatement qu'une droite quelconque coupe une famille plane de droites parallèles sous le même angle.
 
-Soit alors (fig. 18) AB une sécante quelconque coupant
-
-[p. 45]
-
-deux parallèles ; donnons à un solide dont AB fait partie une translation d'axe parallèle aux premières parallèles. La droite AB conservant l'angle qu'elle fait avec AA' viendra dans le plan de la figure prendre la position A'B' telle que les angles XAB et XA'B soient égaux : donc d'après la remarque faite déjà à l'égard de la sécante AA', la droite A'B' est parallèle à AB.
+Soit alors (fig. 18) AB une sécante quelconque coupant [p. 45] deux parallèles ; donnons à un solide dont AB fait partie une translation d'axe parallèle aux premières parallèles. La droite AB conservant l'angle qu'elle fait avec AA' viendra dans le plan de la figure prendre la position A'B' telle que les angles XAB et XA'B soient égaux : donc d'après la remarque faite déjà à l'égard de la sécante AA', la droite A'B' est parallèle à AB.
 
 Ainsi dans le mouvement de translation une droite AB reste égale et parallèle à sa position primitive.
 
@@ -1508,9 +1363,7 @@ Le réseau de parallélogrammes, le réseau de parallélipipèdes et l'homothét
 
 Les propriétés ci-dessus indiquées et dont l'énoncé et l'ordre rendent la démonstration intuitive, montrent que, si un solide éprouve deux translations successives, le déplacement final du solide est une translation dont un axe quelconque est une droite parallèle et égale à la diagonale du parallélogramme construit sur deux côtés contigus, menés d'un point quelconque respectivement égaux et parallèles aux deux translations données.
 
-[p. 46]
-
-Si, d'autre part, ayant construit un parallélogramme on donne à celui-ci des déplacements successifs de translation égaux et parallèles à l'un ou l'autre des côtés du parallélogramme, on obtient un ensemble de parallélogrammes tous contigus et qui constituent ce que nous nommerons un réseau plan. De même, si on envisage trois longueurs quelconques portées respectivement suivant les arêtes d'un trièdre, nous pouvons considérer un parallélogramme formé par deux des segments et donner à cet ensemble solide une translation égale et parallèle au troisième segment pris positivement ou négativement. Nous obtenons un réseau dont chaque cellule est un parallélipipède, envisageable de trois manières distinctes comme un prisme,
+[p. 46] Si, d'autre part, ayant construit un parallélogramme on donne à celui-ci des déplacements successifs de translation égaux et parallèles à l'un ou l'autre des côtés du parallélogramme, on obtient un ensemble de parallélogrammes tous contigus et qui constituent ce que nous nommerons un réseau plan. De même, si on envisage trois longueurs quelconques portées respectivement suivant les arêtes d'un trièdre, nous pouvons considérer un parallélogramme formé par deux des segments et donner à cet ensemble solide une translation égale et parallèle au troisième segment pris positivement ou négativement. Nous obtenons un réseau dont chaque cellule est un parallélipipède, envisageable de trois manières distinctes comme un prisme,
 
 c'est-à-dire comme un volume engendré par une surface plane limitée par un contour subissant une translation donnée. Si cette translation est perpendiculaire au plan le prisme est droit, un parallélipipède deux fois droit l'est nécessairement trois fois, c'est un parallélipipède rectangle.
 
@@ -1530,11 +1383,7 @@ Dans un même plan :
 
 Dans l'espace on a la propriété suivante :
 
-Si deux ensembles solides de points se correspondent de manière que la ligne de jonction d'un point variable M de
-
-[p. 47]
-
-l'une des figures à un point fixe F de cette figure ait pour correspondante la droite de jonction du correspondant M'de M au correspondant F ' de F, et si de plus les droites F'M'et FM constamment parallèles et de même sens ou bien constamment parallèles et de sens contraire (on distingue les deux cas par le signe du rapport FM), sont dans un rapport constant K, les deux ensembles possèdent un point fixe commun O, par rapport auquel les éléments M'et M sont définis dès lors par cette double relation
+Si deux ensembles solides de points se correspondent de manière que la ligne de jonction d'un point variable M de [p. 47] l'une des figures à un point fixe F de cette figure ait pour correspondante la droite de jonction du correspondant M'de M au correspondant F ' de F, et si de plus les droites F'M'et FM constamment parallèles et de même sens ou bien constamment parallèles et de sens contraire (on distingue les deux cas par le signe du rapport FM), sont dans un rapport constant K, les deux ensembles possèdent un point fixe commun O, par rapport auquel les éléments M'et M sont définis dès lors par cette double relation
 
 1 ° M'et M sont en ligne droite avec 0 ;
 
@@ -1560,9 +1409,7 @@ d'Euclide.
 
 Les propriétés des parallèles donnent une forme particulièrement simple à la notion d'orientation.
 
-[p. 48]
-
-Deux droites parallèles d'un solide restent parallèles pendant tout déplacement du solide ; cette remarque si simple conduit à repérer dans un solide un ensemble de directions invariables, ensemble reproductible sous forme d'un ensemble de droites passant par tel point du solide qui nous conviendra ; un tel ensemble peut être transporté parallèlement à lui-même en tel point de l'espace que l'on voudra et définit un déplacement de pivotement que l'on appellera le déplacement d'orientation du solide.
+[p. 48] Deux droites parallèles d'un solide restent parallèles pendant tout déplacement du solide ; cette remarque si simple conduit à repérer dans un solide un ensemble de directions invariables, ensemble reproductible sous forme d'un ensemble de droites passant par tel point du solide qui nous conviendra ; un tel ensemble peut être transporté parallèlement à lui-même en tel point de l'espace que l'on voudra et définit un déplacement de pivotement que l'on appellera le déplacement d'orientation du solide.
 
 Il est alors évident que le déplacement le plus général d'un solide, peut être obtenu par un déplacement de translation égal et parallèle au déplacement d'un point particulier du solide combiné avec un déplacement de pivotement sur ce point particulier comme pivot ; ce déplacement de pivotement, réalisable d'ailleurs par une rotation autour d'un axe de direction convenable passant par le point pivot, est le déplacement d'orientation du solide ; il est indépendant du point particulier adopté comme repère. La translation considérée et la rotation sur le point pivot peuvent avoir lieu dans l'ordre que l'on voudra.
 
@@ -1574,9 +1421,7 @@ Un pareil déplacement est toujours réalisable par le mouvement de vis dans son
 
 Ainsi le déplacement le plus général d'un solide se résout en déplacement de vis, à moins qu'il ne se réduise à une simple rotation ou à une simple translation.
 
-[p. 49]
-
-La notion des parallèles ou la notion équivalente du phénomène de la similitude donne donc, dans la géométrie d'Euclide, une traduction particulièrement simple et compréhensive du déplacement le plus général d'un solide.
+[p. 49] La notion des parallèles ou la notion équivalente du phénomène de la similitude donne donc, dans la géométrie d'Euclide, une traduction particulièrement simple et compréhensive du déplacement le plus général d'un solide.
 
 5.
 
@@ -1604,9 +1449,7 @@ ANDRADE.
 
 4
 
-[p. 50]
-
-On passe ensuite au prisme triangulaire en menant une section droite d'un parallélipipède, puis enfin du prisme triangulaire au prisme polygonal quelconque : le volume d'un prisme est mesuré par le produit de l'aire de son polygone de base multipliée par sa distance au plan de la seconde base (hauteur du prisme).
+[p. 50] On passe ensuite au prisme triangulaire en menant une section droite d'un parallélipipède, puis enfin du prisme triangulaire au prisme polygonal quelconque : le volume d'un prisme est mesuré par le produit de l'aire de son polygone de base multipliée par sa distance au plan de la seconde base (hauteur du prisme).
 
 6.
 
@@ -1628,9 +1471,7 @@ Conséquence
 
 Le volume d'un tronc de pyramide dont les bases ont pour aires B et B' et dont la hauteur est h, est la différence de deux pyramides semblables ayant pour hauteurs H et H ', dont
 
-[p. 51]
-
-LE NOMBRE ET L'ÉTENDUE la différence est la hauteur du tronc h = H ' — H. Si le rapport H'
+[p. 51] LE NOMBRE ET L'ÉTENDUE la différence est la hauteur du tronc h = H ' — H. Si le rapport H'
 
 1
 
@@ -1684,9 +1525,7 @@ De là un moyen simple de construire une équerre par un assemblage de trois bar
 
 (42 ou 16) + (32 ou 9).
 
-[p. 52]
-
-8. — Projections par plans parallèles et coefficients
+[p. 52] 8. — Projections par plans parallèles et coefficients
 
 de projection.
 
@@ -1700,7 +1539,6 @@ U
 
 B
 
-#### X
 
 H
 
@@ -1710,13 +1548,11 @@ P
 
 0
 
-#### X
 
 a
 
 b
 
-#### X
 
 Fig. 19.
 
@@ -1724,11 +1560,7 @@ Soit (fig. 19) AB un segment porté par une droite UU, projetons ses extrémité
 
 Menons par l'origine A du segment AB une parallèle AX' à l'axe XX. Le plan des droites AU et AX', dont la direction est fixe, coupe le plan projetant mené par B suivant une droite BH de direction fixe, quel que soit le point A choisi, quelles que soient aussi les positions des droites AX' et AU transportées où l'on voudra, mais gardant leurs directions.
 
-En d'autres termes, le triangle ABH est un triangle dont les trois côtés sont parallèles à des directions fixes ; tous les triangles de l'espèce de ABH sont donc semblables et le rap-
-
-[p. 53]
-
-LE NOMBRE ET L'ÉTENDUE
+En d'autres termes, le triangle ABH est un triangle dont les trois côtés sont parallèles à des directions fixes ; tous les triangles de l'espèce de ABH sont donc semblables et le rap-[p. 53]LE NOMBRE ET L'ÉTENDUE
 
 AH port AB est constant ; or AH = ab, car la figure AHab est un
 
@@ -1740,7 +1572,6 @@ Les nombres qui mesurent les segments dirigés AB et ab seront alors deux nombre
 
 On a dès lors, avec toute la généralité du calcul algébrique, 1
 
-#### L
 
 m, mest un nombre positif ou négatif qui ne dépend que des trois éléments de direction ci-dessus définis ; parmi ces
 
@@ -1772,9 +1603,7 @@ x + lm.
 
 Ces notions, complétées par l'usage du trièdre de coordonnées de Descartes, contiennent toute la substance de la géométrie analytique.
 
-[p. 54]
-
-9.
+[p. 54] 9.
 
 Le trièdre fondamental et les coordonnées
 
@@ -1802,11 +1631,7 @@ deux autres coefficients de projections analogues.
 
 On observera que le plan employé par la projection sur un axe arête du trièdre de coordonnées est un plan parallèle au. plan de la face du trièdre opposée à l'arête ; cette direction de plan projetant associée à chaque axe de projection est dite conjuguée de l'axe.
 
-Remarque. — Les coefficients de projections d'une direc
-
-[p. 55]
-
-tion OM sont unis par une relation, car les coordonnées x, y, z, suffisant à définir le point M, suffisent aussi à définir la longueurl.
+Remarque. — Les coefficients de projections d'une direc [p. 55] tion OM sont unis par une relation, car les coordonnées x, y, z, suffisant à définir le point M, suffisent aussi à définir la longueurl.
 
 La distance l est donc une fonction des variables x, y, z, et la similitude nous montre que cette fonction est homogène et ne doit contenir que les rapports
 
@@ -1830,11 +1655,7 @@ Les changements de coordonnées et les fonctions
 
 trigonométriques.
 
-Une rotation autour de l'axe OZ ne change pas la coordonnée z d'un point entraîné dans cette rotation ; seules les coordonnées x et y changent. De même on peut se proposer d'étudier l'effet d'une rotation du trièdre de repères autour de l'axe OZ supposé perpendiculaire aux deux autres. Soient donc un système d'axes OX et OY perpendiculaires entre eux,
-
-[p. 56]
-
-nous adoptons pour le sens des rotations positives celui qui s'exécutant autour de OZ amène l'axe OX sur l'axe OY par une rotation de 1 droit. Métant dans le plan XOY, soit u, compté dans le sens positif, l'angle que OM fait avec OX ; envisageons la distance OM = r et les rapports
+Une rotation autour de l'axe OZ ne change pas la coordonnée z d'un point entraîné dans cette rotation ; seules les coordonnées x et y changent. De même on peut se proposer d'étudier l'effet d'une rotation du trièdre de repères autour de l'axe OZ supposé perpendiculaire aux deux autres. Soient donc un système d'axes OX et OY perpendiculaires entre eux, [p. 56] nous adoptons pour le sens des rotations positives celui qui s'exécutant autour de OZ amène l'axe OX sur l'axe OY par une rotation de 1 droit. Métant dans le plan XOY, soit u, compté dans le sens positif, l'angle que OM fait avec OX ; envisageons la distance OM = r et les rapports
 
 et
 
@@ -1884,11 +1705,7 @@ or la comparaison de deux triangles rectangles égaux donne immédiatement :
 
 cos (a + 1dr) = — sin a,
 
-sin (a + 1dr) = cos a,
-
-[p. 57]
-
-et par suite les relations entre les deux systèmes de coordonnées deviennent :
+sin (a + 1dr) = cos a, [p. 57] et par suite les relations entre les deux systèmes de coordonnées deviennent :
 
 x'
 
@@ -1928,9 +1745,7 @@ a2 Ajoutons enfin que la relation
 
 r donne l'identité cos² (u) + sin² (u) = 1.[^p57-1]
 
-[p. 58]
-
-Les notions de limite, de continuité, de vitesse allaient, en fondant le calcul infinitésimal, en provoquer les applications les plus utiles.
+[p. 58] Les notions de limite, de continuité, de vitesse allaient, en fondant le calcul infinitésimal, en provoquer les applications les plus utiles.
 
 La précision des mesures géodésiques et astronomiques a exigé le concours de deux progrès d'une nature bien différente et qui sont rarement appréciés par les mêmes penseurs.
 
@@ -1968,9 +1783,7 @@ x
 
 Tous les points de la droite seront donc représentés par les coordonnées suivantes exprimées avec la variable 1 :
 
-[p. 59]
-
-LE NOMBRE ET L'ÉTENDUE
+[p. 59] LE NOMBRE ET L'ÉTENDUE
 
 x = x + al,
 
@@ -2000,11 +1813,7 @@ Déterminations métriques. — ANGLE DE DEUX DROITES. Supposons les coordonnée
 
 La projection cherchée sera donc
 
-ax + by + cz
-
-[p. 60]
-
-ou encore :
+ax + by + cz [p. 60] ou encore :
 
 Ια.α + 1β.6 + ly.c = 1 (ax + b3 + cy).
 
@@ -2072,11 +1881,7 @@ Le mouvement et la déformation continue du trièdre formé par OD₁ et OD₂ e
 
 Si l'orientation du trièdre OD₁, OD₂, OD, est la même, dans
 
-3
-
-[p. 61]
-
-cet ordre, que l'orientation du trièdre des coordonnées OX, OY, OZ on a
+3 [p. 61] cet ordre, que l'orientation du trièdre des coordonnées OX, OY, OZ on a
 
 1
 
@@ -2112,7 +1917,6 @@ Z
 
 B
 
-#### D
 
 Cx — CYy — C
 
@@ -2124,7 +1928,6 @@ y = 0.u + 1.υ
 
 (F')
 
-#### D
 
 A
 
@@ -2136,7 +1939,6 @@ u
 
 υ, Comme plus haut, ce système représente bien l'ensemble des points d'un plan passant par le point particulier :
 
-#### D
 
 다 ;
 
@@ -2152,15 +1954,12 @@ ne sont pas proportionnels aux coefficients 0, 1,
 
 B
 
-#### C
 
 REMARQUE.
 
 A, B, C sont proportionnels aux coefficients de projection de la normale au plan, car ces nombres vérifient les relations
 
-[p. 62]
-
-A
+[p. 62] A
 
 A.1 + B.0 — C.
 
@@ -2208,7 +2007,6 @@ Y = y + √A² + B' + C²
 
 Z = 2 +
 
-#### C
 
 VA² + B² + C²
 
@@ -2250,11 +2048,7 @@ La question que nous allons traiter a son origine dans la détermination de la v
 
 Il s'agit (fig. 20) de représenter un segment V, dont l'origine est en M, perpendiculaire au plan de l'axe V, et du point M
 
-1
-
-[p. 63]
-
-et égal au produit d'un segment porté sur l'axe, soit N₁, multiplié par la distance du point M à cet axe.
+1 [p. 63] et égal au produit d'un segment porté sur l'axe, soit N₁, multiplié par la distance du point M à cet axe.
 
 Désignons les coordonnées du point H,
 
@@ -2350,11 +2144,7 @@ Si xo, yo, zo sont les coordonnées d'un point quelconque O du segment V, ona :
 
 x₁ = x + pи,
 
-y₁ = y + qu ;
-
-[p. 64]
-
-et les valeurs V32, V3y, V3 : s'expriment encore par les formules
+y₁ = y + qu ; [p. 64] et les valeurs V32, V3y, V3 : s'expriment encore par les formules
 
 V3xq(z — zo) — r (y -yo),
 
@@ -2432,11 +2222,7 @@ Quand une fonction est continue et en outre possède, par rapport à la variable
 
 ANDRADE
 
-5
-
-[p. 66]
-
-limite du rapport de l'accroissement infiniment petit de la fonction à l'accroissement infiniment petit de la variable.
+5 [p. 66] limite du rapport de l'accroissement infiniment petit de la fonction à l'accroissement infiniment petit de la variable.
 
 Le mot infiniment petit désigne ici la variation d'une grandeur (l'accroissement) qui tend vers zéro.
 
@@ -2470,9 +2256,7 @@ U'V — VU '
 
 ; dans cette forV2 mule la lettre accentuée sert à désigner la dérivée de la fonction représentée par la lettre non accentuée.
 
-[p. 67]
-
-Le problème de la recherche des dérivées des fonctions trigonométriques se ramène aux formules d'additions et à ce
+[p. 67] Le problème de la recherche des dérivées des fonctions trigonométriques se ramène aux formules d'additions et à ce
 
 sin u problème : chercher la limite du rapport
 
@@ -2578,11 +2362,7 @@ RECHERCHE DE LA VALEUR DE m.
 
 Définissons d'abord la longueur d'un arc de cercle AB comme la limite vers laquelle tend un contour polygonal inscrit dans l'arc sous la seule condition que chaque élément du contour tende vers zéro. Ce contour convexe moindre qu'un contour enveloppant quelconque
 
-circonscrit, comme on s'en assure aisément,
-
-[p. 68]
-
-diffère infiniment peu du contour circonscrit associé au contour considéré obtenu en traçant les tangentes au cercle aux sommets du premier contour, car le rapport de ces contours est un cosinus d'angle tendant vers zéro, donc infiniment peu différent de 1.
+circonscrit, comme on s'en assure aisément, [p. 68] diffère infiniment peu du contour circonscrit associé au contour considéré obtenu en traçant les tangentes au cercle aux sommets du premier contour, car le rapport de ces contours est un cosinus d'angle tendant vers zéro, donc infiniment peu différent de 1.
 
 Cette
 
@@ -2634,9 +2414,7 @@ dx pour toutes les valeurs de x, avec les conditions initiales u(0) = 0 ; v (0) 
 
 Or à propos des problèmes de ce genre, c'est-à-dire du genre de ceux qu'en mécanique on appelle des problèmes balistiques, et que nous appellerons problèmes généralisés des vitesses ou problèmes des équations différentielles, on s'est posé aussitôt la question de savoir si les propriétés qui précèdent reconnues aux fonctions u et v sont des propriétés qui déterminent complètement ces fonctions.
 
-[p. 69]
-
-LE NOMBRE ET L'ÉTENDUE
+[p. 69] LE NOMBRE ET L'ÉTENDUE
 
 2.
 
@@ -2670,9 +2448,7 @@ du
 
 dx= g (x)[^p69-1]
 
-[p. 70]
-
-désignez par S(x) ; l'aire balayée, sur la 1re courbe, par cette projetante perpendiculaire à OX ; nommez T(x) l'aire balayée, sur la 2º courbe, par l'autre projetante, ces balayages étant exécutés à partir de la projetante correspondante à x = x｡ ; on prendra comme solutions du système (2) les solutions :
+[p. 70] désignez par S(x) ; l'aire balayée, sur la 1re courbe, par cette projetante perpendiculaire à OX ; nommez T(x) l'aire balayée, sur la 2º courbe, par l'autre projetante, ces balayages étant exécutés à partir de la projetante correspondante à x = x｡ ; on prendra comme solutions du système (2) les solutions :
 
 u = S (x) + u,
 
@@ -2702,7 +2478,6 @@ Ce principe s'établit par la nécessité de l'existence d'un maximum ou d'un mi
 
 X2
 
-#### X
 
 qui prend les mêmes valeurs zéro et zéro, pour x = x et pour X = X2.
 
@@ -2712,9 +2487,7 @@ Soient U et V deux solutions quelconques du problème (2) et, prenant pour x = x
 
 Admettons que pour une valeur de x comprise comme xo entre x, et x, les fonctions U- u et V-v ne prennent pas toutes deux une valeur nulle, soit alors m une valeur non
 
-[p. 71]
-
-LE NOMBRE ET L'ÉTENDUE
+[p. 71] LE NOMBRE ET L'ÉTENDUE
 
 m nulle prise par la fonction U- u, pour x = x3, la vitesse moyenne de la fonction U- u entrex, et x, serait le nombre
 
@@ -2730,11 +2503,7 @@ Avec cette solution du problème (2) nous rappellerons la solution du problème 
 
 mais il y a plus : ces solutions peuvent, dans un champ assignable de la variation de x au delà de la valeur initiale x, être obtenues par deux suites convergentes de quadratures dont chaque nouvelle étape est liée à la précédente ; la méthode de M. E. Picard, qui a réalisé cet important progrès dans la théorie des équations différentielles, a de plus des conséquences très précieuses pour les approximations numériques et fonctionnelles que l'on est obligé d'utiliser dans la mécanique appliquée et dans les calculs physiques ; nous en indiquerons quelques applications dans l'étude des lois des perturbations de marche des chronomètres.
 
-Nous nous contenterons ici d'établir comment le principe de la vitesse moyenne combiné avec la limitation du taux de variation des fonctions Fet G permet d'affirmer que la solu-
-
-[p. 72]
-
-tion ou l'intégrale du système
+Nous nous contenterons ici d'établir comment le principe de la vitesse moyenne combiné avec la limitation du taux de variation des fonctions Fet G permet d'affirmer que la solu-[p. 72]tion ou l'intégrale du système
 
 (1), avec valeurs initiales imposées à u et v est unique et déterminée. La démonstration consiste à montrer que dans un domaine h assez réduit pour lequel :
 
@@ -2762,9 +2531,7 @@ xx
 
 X2 la subordination du rang n de la fonction à l'écart qu'elle
 
-[p. 73]
-
-LE NOMBRE ET L'ÉTENDUE présente avec sa limite L est telle que la petitesse de cet écart soit simplement liée à la grande valeur de l'entier n, sans qu'il soit fait mention de la valeur de x qui demeure quelconque dans le champ considéré, on dit que la suite considérée des fonctions est uniformément convergente.
+[p. 73] LE NOMBRE ET L'ÉTENDUE présente avec sa limite L est telle que la petitesse de cet écart soit simplement liée à la grande valeur de l'entier n, sans qu'il soit fait mention de la valeur de x qui demeure quelconque dans le champ considéré, on dit que la suite considérée des fonctions est uniformément convergente.
 
 SÉRIE.
 
@@ -2806,11 +2573,7 @@ To qui rappelle que l'aire considérée peut être envisagée comme la limite d'
 
 Au point de vue purement analytique le symbole précédent résume les opérations suivantes
 
-Partagez l'intervalle numérique x.... x, en intervalles con
-
-[p. 74]
-
-tigus tendant tous vers zéro ; on désigne l'étendue de l'un d'eux par dx et l'on forme le produit de dæ par la valeur de la fonction pour quelque valeur de x comprise dans l'intervalle donné ; la somme de ces produits, sous la seule condition que tous les dx tendent uniformément vers zéro, a une limite que nous représentons par le symbole :
+Partagez l'intervalle numérique x.... x, en intervalles con [p. 74] tigus tendant tous vers zéro ; on désigne l'étendue de l'un d'eux par dx et l'on forme le produit de dæ par la valeur de la fonction pour quelque valeur de x comprise dans l'intervalle donné ; la somme de ces produits, sous la seule condition que tous les dx tendent uniformément vers zéro, a une limite que nous représentons par le symbole :
 
 Sf(x) dx ;
 
@@ -2820,7 +2583,6 @@ Sf(t)dt.
 
 Cette opération fonctionnelle caractérise une fonction de la borne supérieure x₁ du champ de la quadrature, fonction qui admet précisément f(x₁) pour dérivée.
 
-#### X
 
 So f(t) dt
 
@@ -2844,9 +2606,7 @@ Remarque.
 
 On remarquera que toute fonction continue a une primitive, mais que toute fonction continue n'admet pas nécessairement de dérivée.
 
-[p. 75]
-
-LE NOMBRE ET L'ÉTENDUE
+[p. 75] LE NOMBRE ET L'ÉTENDUE
 
 QUADRATURE D'UNE SÉRIE.
 
@@ -2886,9 +2646,7 @@ x5
 
 u (x) = x — 1×2×3 + 1 ×2× 3× 4×51 ×2 × 3 × 4 × 5 × 6 ×7 +...[^p75-1]
 
-[p. 76]
-
-l'angle x étant mesuré avec l'unité trigonométrique ;
+[p. 76] l'angle x étant mesuré avec l'unité trigonométrique ;
 
 de même série v(x) est cos x.
 
@@ -2938,11 +2696,7 @@ Vds cos (V, ds) = Xdx + Ydy + Zdz.
 
 C'est le travail élémentaire du vecteur.
 
-Si le point M décrit une courbe connue à tangente bien déterminée, les coordonnées x, y, z deviendront des fonctions
-
-[p. 77]
-
-continues d'une variable u et le travail élémentaire du vecteur
+Si le point M décrit une courbe connue à tangente bien déterminée, les coordonnées x, y, z deviendront des fonctions [p. 77] continues d'une variable u et le travail élémentaire du vecteur
 
 sera
 
@@ -3016,9 +2770,7 @@ contour
 
 fermé
 
-#### D
 
-#### C
 
 A
 
@@ -3034,7 +2786,6 @@ A
 
 B et OY ; son contour est décrit dans le sens di-
 
-#### X
 
 rect, sens des rotations o positives de OX vers ΟΥ.
 
@@ -3048,9 +2799,7 @@ ment que l'intégrale curviligne prise le long du contour est la somme des inté
 
 Envisageons alors le contour pqrs infiniment petit en deux sens et de dimensions dx et dy.
 
-[p. 78]
-
-L'intégrale curviligne est ici réductible à f(Xdx + Ydy).
+[p. 78] L'intégrale curviligne est ici réductible à f(Xdx + Ydy).
 
 pqrs Prenons sur pq et sur rs deux portions correspondantes d'étendue dx et dont l'une résulte d'une translation de l'autre parallèle à OY et égale à dy ; cette translation dessine la bande noire verticale du dessin.
 
@@ -3106,11 +2855,7 @@ dz.dy [
 
 se rapportant à un point quelconque de l'aire élémenдх
 
-ду taire pqrs et ɛ tendant vers zéro avec les dimensions dx et dy ; on établit alors sans peine que la limite de la somme des produits dx.dy. (-) étendus à toute l'aire du grand
-
-[p. 79]
-
-rectangle découpée en rectangles infiniment petits est précisément égale à l'intégrale curviligne considérée.
+ду taire pqrs et ɛ tendant vers zéro avec les dimensions dx et dy ; on établit alors sans peine que la limite de la somme des produits dx.dy. (-) étendus à toute l'aire du grand [p. 79] rectangle découpée en rectangles infiniment petits est précisément égale à l'intégrale curviligne considérée.
 
 Ce théorème s'étend à un contour fermé de forme quelconque, comme le montre le même découpage de l'aire en rectangles infiniment petits ; la portion de l'intégrale correspondant aux éléments frontières a d'ailleurs une valeur qui tend vers zéro.
 
@@ -3118,7 +2863,6 @@ On a donc le théorème suivant
 
 Prise le long d'une courbe plane C une intégrale curviligne
 
-#### X
 
 f (Xdx + Ydy) équivaut à l'intégrale de surface f(x
 
@@ -3152,7 +2896,6 @@ L'intégrale curviligne relative à un contour fermé abcd
 
 d
 
-#### L
 
 (fig. 23), enveloppant une aire infiniment petite de la surface
 
@@ -3160,17 +2903,12 @@ Fig. 23.
 
 fournit une quantité inifiniment petite du second ordre assimilable au produit de l'aire ds par une quantité que nous définirons en supposant que le vecteur étudié soit rapporté provisoirement à un trièdre ayant pour axes
 
-: O'Z' parallèle
-
-[p. 80]
-
-à la normale In orientée sur l'élément, de manière que la poupée qui regarde de l'intérieur de l'aire le sens de parcours donné au contour voie ce parcours s'effectuer autour d'elle dans le sens des rotations positives définies par un tièdre fixe des coordonnées OXYZ ; les axes des x' et des y' seront alors perpendiculaires entre eux et orientés dans le plan tangent en un point I de l'aire do.
+: O'Z' parallèle [p. 80] à la normale In orientée sur l'élément, de manière que la poupée qui regarde de l'intérieur de l'aire le sens de parcours donné au contour voie ce parcours s'effectuer autour d'elle dans le sens des rotations positives définies par un tièdre fixe des coordonnées OXYZ ; les axes des x' et des y' seront alors perpendiculaires entre eux et orientés dans le plan tangent en un point I de l'aire do.
 
 Soient XY'Z' les projections du vecteur étudié sur ces axes.
 
 Y
 
-#### X
 
 envisagé
 
@@ -3208,13 +2946,11 @@ Nous désignerons par o, le vecteur
 
 Z
 
-#### C
 
 #### I
 
 4
 
-#### X
 
 B
 
@@ -3256,9 +2992,7 @@ dz
 
 дх le contour fermé ICAI, vecteur ayant pour valeur
 
-[p. 81]
-
-ω, le vecteur associé à l'intégrale curviligne prise suivant
+[p. 81] ω, le vecteur associé à l'intégrale curviligne prise suivant
 
 →
 
@@ -3308,11 +3042,7 @@ On déduit de là cette propriété importante : que le vecteur tourbillon w, d�
 
 6
 
-ANDRADE,
-
-[p. 82]
-
-Y
+ANDRADE, [p. 82] Y
 
 dz'
 
@@ -3382,13 +3112,10 @@ abcd, un sens de parcours que nous appellerons le sens connexe du sens de L, et 
 
 n
 
-#### L
 
 Fig. 25.
 
-[p. 83]
-
-tourbillon & du vecteur étudié et nous désignons par w " sa projection sur la normale :
+[p. 83] tourbillon & du vecteur étudié et nous désignons par w " sa projection sur la normale :
 
 On appelle alors l'intégrale f(Xdx + Ydy + Zdz)
 
@@ -3412,9 +3139,7 @@ Deux infiniment petits (quantités) sont, entre eux assimilables, ou équivalent
 
 On voit immédiatement que deux infiniment petits équivalents l'un à l'autre peuvent être substitués l'un à l'autre dans toute question où l'on compare le rapport de l'un des infiniment petits à un troisième, et dans toutes les questions où on recherche la limite d'une somme d'infiniment petits ; la limite d'une pareille somme ou la limite d'un rapport d'infiniment petits demeurent inaltérées par la substitution aux infiniment petits considérés d'autres infiniment petits qui leur sont respectivement équivalents.
 
-[p. 84]
-
-6.
+[p. 84] 6.
 
 La notion du travail élémentaire et les systèmes
 
@@ -3434,9 +3159,7 @@ On peut alors compléter cette notion par celle d'une paire de vecteurs mutuels,
 
 Si on suppose que les deux points d'application de vecteurs soient entraînés dans un mouvement de solide, le travail d'une paire de vecteurs mutuels est nul ; démontrons-le pour
 
-[p. 85]
-
-LE NOMBRE ET L'ÉTENDUE un déplacement infiniment petit, donnons au solide le déplacement de translation égal au déplacement d'un des points d'application des vecteurs mutuels, puis un déplacement de pivotement autour de la nouvelle position de ce point.
+[p. 85] LE NOMBRE ET L'ÉTENDUE un déplacement infiniment petit, donnons au solide le déplacement de translation égal au déplacement d'un des points d'application des vecteurs mutuels, puis un déplacement de pivotement autour de la nouvelle position de ce point.
 
 Or, pour chacun de ces déplacements infiniment petits la somme des travaux des vecteurs
 
@@ -3456,11 +3179,7 @@ LENTS.
 
 DÉFINITION ET PROPRIÉTÉ DES SYSTÈMES DE VECTEURS ÉQUIVAÉtant donné un système de vecteurs dont chacun possède un point d'application donné, on peut évidemment former un second système de vecteurs qui dérive du premier : 1º
 
-soit par des adjonctions ou suppressions de vecteurs
-
-[p. 86]
-
-mutuels ; 2° soit par des compositions ou des décompositions de vecteurs au moyen de l'emploi répété de la règle du parallélogramme de deux vecteurs. Nous dirons alors que les deux systèmes de vecteurs sont équivalents.
+soit par des adjonctions ou suppressions de vecteurs [p. 86] mutuels ; 2° soit par des compositions ou des décompositions de vecteurs au moyen de l'emploi répété de la règle du parallélogramme de deux vecteurs. Nous dirons alors que les deux systèmes de vecteurs sont équivalents.
 
 Deux systèmes vecteurs équivalents à un troisième sont équivalents entre eux.
 
@@ -3476,7 +3195,7 @@ Vitesse due à une rotation.
 
 Si l'on rapproche ce qui a été dit, au paragraphe 12 du
 
-### Chapitre Iv Sur Le Calcul Des Segments Proportionnels À Une
+### Chapitre IV Sur Le Calcul Des Segments Proportionnels À Une
 
 aire orientée, du fait signalé au chapitre V et qui nous a servi de base dans l'analyse des fonctions trigonométriques, à savoir
 
@@ -3484,9 +3203,7 @@ aire orientée, du fait signalé au chapitre V et qui nous a servi de base dans 
 
 Si on porte sur une droite Démanant d'un point de coordonnées rectangulaires cartésiennes xo, yo, zo un vecteur w défini par ses projections p, q, r, sur les axes et représentant, avec l'unité trigonométrique des angles, la vitesse angulaire actuelle de rotation d'un solide tournant autour de D, un point M du solide aux coordonnées x, y, z aura une vitesse linéaire actuelle u dont les projections sur les axes sont :
 
-[p. 87]
-
-LE NOMBRE ET L'ÉTENDUE
+[p. 87] LE NOMBRE ET L'ÉTENDUE
 
 U = q (z- 20) — r (y — yo)
 
@@ -3520,11 +3237,8 @@ dt.vx,
 
 dt.vy,
 
-#### L
 
-[p. 88]
-
-Nous aurons donc pour la vitesse de travail du vecteur :
+[p. 88] Nous aurons donc pour la vitesse de travail du vecteur :
 
 #### I
 
@@ -3548,7 +3262,6 @@ Ces moments, dont la signification résulte du fait géométrique que traduit la
 
 L est la projection de ce moment linéaire sur une parallèle à l'axe des x
 
-#### M
 
 N
 
@@ -3562,9 +3275,7 @@ Si nous appelons moment mutuel de deux vecteurs
 
 : le produit de l'un d'eux par le moment de l'autre par rapport à l'axe qui porte le premier, la définition de ce moment est évidemment indifférente à l'égard d'une permutation dans les rôles joués par les vecteurs.
 
-[p. 89]
-
-LE NOMBRE ET L'ÉTENDUE
+[p. 89] LE NOMBRE ET L'ÉTENDUE
 
 Nous avons le théorème suivant
 
@@ -3586,11 +3297,7 @@ En particulier chaque mouvement relatif est défini par rapport au solide préc�
 
 La vitesse absolue du point M est la résultante géométrique des vitesses dues aux mouvements successifs envisagés isolément.
 
-Il résulte de là que bien que le mouvement final de M dépende de l'ordre des emboîtements des solides et de leurs
-
-[p. 90]
-
-mouvements, la vitesse actuelle de M est indépendante de cet ordre.
+Il résulte de là que bien que le mouvement final de M dépende de l'ordre des emboîtements des solides et de leurs [p. 90] mouvements, la vitesse actuelle de M est indépendante de cet ordre.
 
 L'emploi de la méthode infinitésimale est ici intuitif, mais il met en œuvre des propriétés de continuité des figures dont la justification s'obtient aisément par la similitude et les propriétés métriques.
 
@@ -3612,9 +3319,7 @@ On conclut de là, par l'intermédiaire de la géométrie d'Euclide, que les vec
 
 La notion qui précède nous conduit immédiatement à une généralisation du moment mutuel de deux vecteurs.
 
-[p. 91]
-
-LE NOMBRE ET L'ÉTENDUE
+[p. 91] LE NOMBRE ET L'ÉTENDUE
 
 Envisageons un premier système de vecteurs représentant des vitesses de rotations et un second système de vecteurs appliqués en différents points M entraînés chacun dans le mouvement résultant des rotations emboîtées, nous envisagerons alors la vitesse du travail de ces seconds vecteurs relatif au déplacement résultant ; elle sera la somme des vitesses des travaux des mêmes vecteurs dus aux mouvements composants et nous avons alors ce théorème de pure géométrie :
 
@@ -3636,11 +3341,7 @@ Le déplacement d'un trièdre attaché à une courbe gauche, ou les déplacement
 
 Nous dirons donc ici quelques mots de l'emploi de la composition des mouvements et de la théorie cinématique des courbes gauches.
 
-REMARQUE SUR LE MOUVEMENT D'ORIENTATION D'UN SOLIDE. — Le mouvement de pivotement qui constitue le mouvement
-
-[p. 92]
-
-d'orientation d'un solide par rapport à un autre solide est défini par trois fonctions du temps permettant de déterminer à chaque instant trois coordonnées du solide. Euler a indiqué pour cet objet trois coordonnées angulaires qui sont d'usage constant en astronomie.
+REMARQUE SUR LE MOUVEMENT D'ORIENTATION D'UN SOLIDE. — Le mouvement de pivotement qui constitue le mouvement [p. 92] d'orientation d'un solide par rapport à un autre solide est défini par trois fonctions du temps permettant de déterminer à chaque instant trois coordonnées du solide. Euler a indiqué pour cet objet trois coordonnées angulaires qui sont d'usage constant en astronomie.
 
 On peut aussi envisager les éléments cinématiques du mouvement de rotation et déterminer à chaque instant les trois projections de la vitesse instantanée de rotation qui règle la distribution actuelle des vitesses des différents points du solide ; il a été particulièrement avantageux de considérer les projections de ce vecteur sur les axes d'un trièdre lié au solide en mouvement.
 
@@ -3654,13 +3355,11 @@ y
 
 Z
 
-#### X
 
 a
 
 b
 
-#### C
 
 Y
 
@@ -3680,11 +3379,7 @@ b"
 
 Envisageons un point situé à distance 1 sur l'axe OX ; ce point est immobile mais son mouvement de repos peut être envisagé comme le résultat de la composition du mouvement relatif de ce point de coordonnées a, b, c, et du mouvement d'entraînement de ce point avec le trièdre ; soient p, q, r, les projections de la rotation instantanée sur les axes mobiles.
 
-D'après la composition des mouvements les projections de la vitesse du point considéré sur les axes relatifs sont
-
-[p. 93]
-
-da + qc — rb,
+D'après la composition des mouvements les projections de la vitesse du point considéré sur les axes relatifs sont [p. 93] da + qc — rb,
 
 dt
 
@@ -3754,11 +3449,7 @@ dt + qc'- rb' = 0,
 
 da"
 
-dt-+ qc" -rb" = 0,
-
-[p. 94]
-
-exigent que q = 0, si l'on veut que le trièdre relatif soit formé de la tangente à la courbe Ix, de la normale Iy dirigée suivant le rayon de courbure et d'un axe Iz perpendiculaire aux précédents.
+dt-+ qc" -rb" = 0, [p. 94] exigent que q = 0, si l'on veut que le trièdre relatif soit formé de la tangente à la courbe Ix, de la normale Iy dirigée suivant le rayon de courbure et d'un axe Iz perpendiculaire aux précédents.
 
 Cette théorie cinématique des courbes gauches fournit une théorie intuitive des propriétés générales de ces courbes.
 
@@ -3794,11 +3485,7 @@ Les propriétés métriques exposées dans les chapitres précédents dérivent 
 
 Longtemps l'on a espéré que le postulatum d'Euclide et par suite aussi le phénomène de la similitude pourraient être rattachés aux autres faits de la géométrie.
 
-Une étude attentive de la géométrie de la sphère aurait pu cependant faire prévoir une géométrie de la droite fermée, dans laquelle une droite est déterminée par deux points tant que ces points ne sont pas situés sur une droite les joignant à une distance égale au demi-tour de la droite ; dans cette géométrie de la droite fermée le plan est une variété finie de sphère, et la somme des angles d'un triangle plan est comme sur toute sphère supérieure à deux angles droits, l'excès mesure une quantité proportionnelle à la surface du triangle. Toutefois ce point de vue si simple, qui devait être adopté plus tard par Riemann, ne fut pas celui de la première géométrie non euclidienne, la droite indéfinie s'imposait et la première géométrie non euclidienne rencontrée fut celle de la droite ouverte. Dans cette géométrie construite par Lobatchewsky, la somme des angles d'un triangle plan est en déficit sur deux droits, le déficit est proportionnel encore à l'aire du triangle. Nous nous proposons dans ce chapitre
-
-[p. 96]
-
-de ramener la détermination des propriétés métriques à la composition des mouvements.
+Une étude attentive de la géométrie de la sphère aurait pu cependant faire prévoir une géométrie de la droite fermée, dans laquelle une droite est déterminée par deux points tant que ces points ne sont pas situés sur une droite les joignant à une distance égale au demi-tour de la droite ; dans cette géométrie de la droite fermée le plan est une variété finie de sphère, et la somme des angles d'un triangle plan est comme sur toute sphère supérieure à deux angles droits, l'excès mesure une quantité proportionnelle à la surface du triangle. Toutefois ce point de vue si simple, qui devait être adopté plus tard par Riemann, ne fut pas celui de la première géométrie non euclidienne, la droite indéfinie s'imposait et la première géométrie non euclidienne rencontrée fut celle de la droite ouverte. Dans cette géométrie construite par Lobatchewsky, la somme des angles d'un triangle plan est en déficit sur deux droits, le déficit est proportionnel encore à l'aire du triangle. Nous nous proposons dans ce chapitre [p. 96] de ramener la détermination des propriétés métriques à la composition des mouvements.
 
 Au premier abord on est arrêté par une objection apparente : la composition des mouvements, telle que nous l'avons résumée, repose en réalité sur certaines propriétés de la continuité des figures et des triangles, dont la démonstration usuelle précisément repose sur la similitude euclidienne. Mais l'objection n'est qu'apparente et peut être facilement levée. Sans entrer dans tous les détails je résumerai sommairement la marche que j'ai suivie dans ce problème.
 
@@ -3822,9 +3509,7 @@ Nous allons voir que la recherche des propriétés métriques ou, pour préciser
 
 (r).
 
-[p. 97]
-
-Rotations relatives autour d'un point fixe.
+[p. 97] Rotations relatives autour d'un point fixe.
 
 Soient U1, U2, U3..., des droites concourantes, envisagées dans l'ordre précité ; considérons un premier solide S₁ animé d'une rotation continue &, autour de U₁, puis par rapport à ce solide S₁ considérons un second solide S₂, en mouvement relatif de rotation continue et décrivant a, par rapport à une droite de S₁ qui coïncidait avec U, à l'époquet ; nous supposerons que les rotations continues et simultanées a₁ et a₂ demeurent dans un rapport constant donné ; on pourra poser par exemple :
 
@@ -3862,11 +3547,7 @@ Quand un solide pivote sur un point fixe, si deux
 
 ANDRADE.
 
-7
-
-[p. 98]
-
-points particuliers du solide ont l'un et l'autre une vitesse actuelle, celles-ci et celles de tous les autres points du solide sont les mêmes que si le solide, allait, à partir de l'époque t, continuer à tourner d'une rotation uniforme autour d'un axe convenable.
+7 [p. 98] points particuliers du solide ont l'un et l'autre une vitesse actuelle, celles-ci et celles de tous les autres points du solide sont les mêmes que si le solide, allait, à partir de l'époque t, continuer à tourner d'une rotation uniforme autour d'un axe convenable.
 
 Ces résultats rapprochés des propriétés de continuité et de la notion des mouvements relatifs de pivotement et de l'effet de deux rotations successives établi dans la géométrie qualitative (voir p. 40, chap. III) conduisent à cette importante proposition
 
@@ -3900,11 +3581,7 @@ La combinaison de n rotations relatives concourantes définies plus haut est, au
 
 CONSÉQUENCE.
 
-Il existe une opération vectorielle définis
-
-[p. 99]
-
-sant le vecteur résultant de plusieurs vecteurs donnés concourants, et cette opération jouit des propriétés suivantes :
+Il existe une opération vectorielle définis [p. 99] sant le vecteur résultant de plusieurs vecteurs donnés concourants, et cette opération jouit des propriétés suivantes :
 
 1º L'opération est invariante ;
 
@@ -3954,11 +3631,7 @@ h(u + v) = h (u) g(v) + h (v) g (u).
 
 (E) {
 
-Les propriétés I et E donnent de suite l'équation fonctionnelle
-
-[p. 100]
-
-g(u + v) + g(u — v) = 2g(u) g(v),
+Les propriétés I et E donnent de suite l'équation fonctionnelle [p. 100] g(u + v) + g(u — v) = 2g(u) g(v),
 
 avec la condition de continuité g(0) = 1,
 
@@ -4054,11 +3727,7 @@ H(x) = [g (z) dz,
 
 g(x + 3) = g(x) g (β) – εΗ (α) H (β),
 
-H(α + β) = H(α) g (β) + H (β) g(x),
-
-[p. 101]
-
-ε = 1,
+H(α + β) = H(α) g (β) + H (β) g(x), [p. 101] ε = 1,
 
 sig(a) = cosa,
 
@@ -4086,7 +3755,6 @@ S(0) = 1, mais ici nous n'avons plus de condition supplémentaire analogue à la
 
 soit S (x) = constante = 1, c'est la géométrie d'Euclide.
 
-#### X
 
 soit S (x) = cos, c'est la géométrie non euclidienne de la
 
@@ -4104,9 +3772,7 @@ ouverte,
 
 signalée par Lobatchewsky.
 
-[p. 102]
-
-On s'assure d'ailleurs bien aisément que la fonction :
+[p. 102] On s'assure d'ailleurs bien aisément que la fonction :
 
 #### I
 
@@ -4180,9 +3846,7 @@ soit sinr
 
 {
 
-[p. 103]
-
-et sur la sphère
+[p. 103] et sur la sphère
 
 (r) = H (r) = sinr.
 
@@ -4204,11 +3868,7 @@ Les
 
 propriétés de continuité dans les variations
 
-des triangles plans ou sphériques qui nous ont déjà servi peuvent être complétées ; on peut considérer des mouvements de rotations successifs autour d'axes quelconques, et on peut reconnaître assez facilement que les ordres d'emboîtements n'influent pas sur la distribution des vitesses actuelles du dernier solide détaché, comme deux rotations égales et contraires équivalent à zéro et comme, d'autre part, par sa nature même
-
-[p. 104]
-
-la représentation vectorielle d'une vitesse de rotation nous oblige à considérer des
+des triangles plans ou sphériques qui nous ont déjà servi peuvent être complétées ; on peut considérer des mouvements de rotations successifs autour d'axes quelconques, et on peut reconnaître assez facilement que les ordres d'emboîtements n'influent pas sur la distribution des vitesses actuelles du dernier solide détaché, comme deux rotations égales et contraires équivalent à zéro et comme, d'autre part, par sa nature même [p. 104] la représentation vectorielle d'une vitesse de rotation nous oblige à considérer des
 
 vecteurs vitesses
 
@@ -4232,9 +3892,7 @@ C'est que la notion d'équivalence, comme la notion de composition de certains v
 
 Nous allons appliquer la notion des systèmes équivalents à deux vecteurs égaux, perpendiculaires à une même droite AB d'un plan et situés eux-mêmes dans ce plan (sans figure) ; en adjoignant à ces deux vecteurs une paire de vecteurs mutuels appliqués aux extrémités A et B de leur perpendiculaire commune ; puis en composant les vecteurs coucourants en A et B, puis enfin en redécomposant les résultantes partielles après leurs glissements jusqu'en leur point de concours
 
-[p. 105]
-
-H, on établit sans peine qu'un triangle rectangle AOH (fig. 26), dont l'angle Ĥ est opposé au côté AO désigné par æ donne la relation :
+[p. 105] H, on établit sans peine qu'un triangle rectangle AOH (fig. 26), dont l'angle Ĥ est opposé au côté AO désigné par æ donne la relation :
 
 cos = sin A.S(x).
 
@@ -4270,11 +3928,7 @@ Si la longueur de la perpendiculaire commune aux deux vecteurs d'intensité P es
 
 2p sin x dans la géométrie de Riemann,
 
-2p sh x dans la géométrie de Lobatchewsky ;
-
-[p. 106]
-
-et dans ces deux derniers cas l'unité de longueur a été spécifiée comme on l'a dit.
+2p sh x dans la géométrie de Lobatchewsky ; [p. 106] et dans ces deux derniers cas l'unité de longueur a été spécifiée comme on l'a dit.
 
 Le moment ou axe du couple sera représenté par un vecteur dont le sens sera en connexion avec le sens adopté pour l'orientation des rotations positives, et qui est perpendiculaire au plan du couple au milieu de la perpendiculaire commune aux deux vecteurs.
 
@@ -4308,9 +3962,7 @@ teur
 
 appliqué en H.
 
-[p. 107]
-
-LE NOMBRE ET L'ÉTENDUE
+[p. 107] LE NOMBRE ET L'ÉTENDUE
 
 Soit ensuite J le point symétrique de H par rapport au
 
@@ -4352,11 +4004,7 @@ Considérons un vecteur porté par la droite AB, soit C un troisième point quel
 
 Nous pouvons faire la réduction de Poinsot sur le point C de deux manières.
 
-1º Le vecteur considéré comme appliqué en A et préalablement décomposé sur son point d'application A en deux vec
-
-[p. 108]
-
-teurs, dont l'un est porté par la droite CA et dont l'autre appliqué en A est perpendiculaire à CA ; puis on effectue la réduction de Poinsot sur les deux vecteurs obtenus.
+1º Le vecteur considéré comme appliqué en A et préalablement décomposé sur son point d'application A en deux vec [p. 108] teurs, dont l'un est porté par la droite CA et dont l'autre appliqué en A est perpendiculaire à CA ; puis on effectue la réduction de Poinsot sur les deux vecteurs obtenus.
 
 2º Le vecteur V considéré comme appliqué en B est préalablement décomposé en deux vecteurs, l'un porté par la droite CB, l'autre perpendiculaire à cette droite, puis on fait la réduction de Poinsot sur les deux vecteurs obtenus. D'après la remarque précédente la réduction de Poinsot effectuée de l'une ou de l'autre manière doit conduire au même résultat.
 
@@ -4396,11 +4044,7 @@ cos C +-cosA.cos B
 
 sin A. sin B
 
-Le cas de S (x) = 1 donnerait la géométrie d'Euclide, mais dans ce cas particulier les trois relations Q se réduiraient à une seule A + B + C = 2dr. ; il faut alors grouper autrement
-
-[p. 109]
-
-les relations Psi on veut obtenir les trois relations fondamentales.
+Le cas de S (x) = 1 donnerait la géométrie d'Euclide, mais dans ce cas particulier les trois relations Q se réduiraient à une seule A + B + C = 2dr. ; il faut alors grouper autrement [p. 109] les relations Psi on veut obtenir les trois relations fondamentales.
 
 On voit donc que la réduction de Poinsot fournit la trigonométrie plane, comme l'étude du pivotement sphérique par la composition des rotations concourantes avait fourni la trigonométrie sphérique.
 
@@ -4422,9 +4066,7 @@ Soit (sans figure) ABC un triangle rectiligne non euclidien, dont nous parcouron
 
 Première remarque.
 
-[p. 110]
-
-dans le sens AB, BC, CA ; soient β, γ, a les angles extérieurs correspondant aux sommets B, C, A, définis avec leurs sens par ce parcours.
+[p. 110] dans le sens AB, BC, CA ; soient β, γ, a les angles extérieurs correspondant aux sommets B, C, A, définis avec leurs sens par ce parcours.
 
 Donnons à un solide les translations successives dont les axes soient les côtés consécutifs du triangle, orientés comme on vient de le dire ; soit AŬ une droite faisant avec AB (et dans le sens de la description des angles extérieurs) un angle égal à a + β + y- 4ds ; la droite du solide qui était primitivement en AU sera venue en AB après les translations successives considérées, en sorte que ces translations équivalent à une rotation autour d'un axe perpendiculaire au plan du triangle mené par A et dont la grandeur est proportionnelle à l'aire du triangle ; cette rotation est contraire à la rotation qui correspond au parcours du sens du triangle, ou bien elle est de même sens suivant que nous sommes dans l'espace de Lobatchewsky ou dans celui de Riemann.
 
@@ -4440,11 +4082,7 @@ En décomposant alors la surface S en aires infiniment petites,
 
 l'ensemble des translations deux
 
-fois infiniment petites relatives aux éléments de la courbe L équivaudra à
-
-[p. 111]
-
-l'ensemble des cycles des translations le long des contours fermés qui limitent les divers éléments d'aires ; dès lors en faisant varier la surface S jetée en pont et en utilisant la première remarque, nous aurons une démonstration exclusivement non euclidienne d'un théorème d'Archimède qui concerne l'équilibre des pressions uniformément réparties sur une surface fermée.
+fois infiniment petites relatives aux éléments de la courbe L équivaudra à [p. 111] l'ensemble des cycles des translations le long des contours fermés qui limitent les divers éléments d'aires ; dès lors en faisant varier la surface S jetée en pont et en utilisant la première remarque, nous aurons une démonstration exclusivement non euclidienne d'un théorème d'Archimède qui concerne l'équilibre des pressions uniformément réparties sur une surface fermée.
 
 Cette démonstration, bien que non euclidienne, rappelle une démonstration plus haut donnée du théorème d'Ampère Stockes et suggère une généralisation non euclidienne de ce théorème.
 
@@ -4472,9 +4110,7 @@ dy
 
 dz'
 
-[p. 112]
-
-dZ
+[p. 112] dZ
 
 = dz
 
@@ -4506,9 +4142,7 @@ Soit M un point du vecteur, considérons le déplacement infiniment petit MM'de 
 
 Nous définirons ainsi, à l'égard de trois courbes orthogonales du réseau, MS₁, MS₂, MS3, trois systèmes partiels de vitesses de rotation aux composantes
 
-[p. 113]
-
-Pl
+[p. 113] Pl
 
 P29221
 
@@ -4554,9 +4188,7 @@ ANDRADE.
 
 8
 
-[p. 114]
-
-Mais en même temps nous appliquerons le théorème d'Ampère-Stokes ; nous considérerons le travail de chacun des vecteurs V. V. V, effectué le long du contour d'un quadrilatère curviligne du réseau appartenant à l'une ou à l'autre des surfaces du triple système orthogonal.
+[p. 114] Mais en même temps nous appliquerons le théorème d'Ampère-Stokes ; nous considérerons le travail de chacun des vecteurs V. V. V, effectué le long du contour d'un quadrilatère curviligne du réseau appartenant à l'une ou à l'autre des surfaces du triple système orthogonal.
 
 Si le réseau est un réseau de dallage, le travail considéré pour chacun des vecteurs sera évidemment nul, donc aussi les trois composantes du vecteur tourbillon ; nous trouvons ainsi :
 
@@ -4596,17 +4228,13 @@ ds² = dx² + dy² + dz² (traduction immédiate du réseau
 
 de dallage), l'espace considéré est nécessairement euclidien.
 
-[p. 115]
-
-Nous avions signalé dans la géométrie d'Euclide l'importance du dallage de l'espace par un réseau de parallélipipèdes rectangles, les courbes du réseau de dallage étaient alors des droites.
+[p. 115] Nous avions signalé dans la géométrie d'Euclide l'importance du dallage de l'espace par un réseau de parallélipipèdes rectangles, les courbes du réseau de dallage étaient alors des droites.
 
 Nous venons de démontrer que le postulatum d'Euclide équivaut à cette proposition : L'espace admet un réseau orthogonal de dallage.
 
 C'est là une forme du postulatum d'Euclide que la géométrie du mouvement nous a permis de rattacher au théorème d'Ampère et Stokes ; ce théorème, important déjà par ses applications mécaniques et physiques, nous apparaît aujourd'hui non moins utile à la philosophie de la géométrie.
 
-[p. 116]
-
-[p. 117]
+[p. 116] [p. 117]
 
 ## Deuxième Partie
 
@@ -4654,11 +4282,7 @@ Hipparque et la Précession.
 
 Le système de coordonnées qui se présente tout d'abord à nous est celui qui en chaque lieu du globe porte nos édifices, c'est le système de coordonnées de l'écorce terrestre.
 
-Mais dès qu'il s'agit de décrire les mouvements des astres, un tout autre système de coordonnées s'impose. Les étoiles proprement dites vont jouer ici un rôle infiniment précieux ; grâce à leur immense éloignement du système solaire, elles constituent, depuis les âges les plus reculés, un ensemble de signaux lumineux que l'astronome et même le géodésien utilisent à chaque instant pour repérer les directions dans le ciel ou même sur la terre. Au point de vue géométrique, on peut
-
-[p. 118]
-
-dire que les étoiles définissent physiquement à chaque instant l'orientation invariable du trièdre de coordonnées de l'astronome. Elles fournissent des directions à peu près invariables, les seules que l'on possédât jusqu'au jour où la mécanique céleste donna, par ses lois mêmes, le moyen de rattacher aux changements de la configuration intérieure du
+Mais dès qu'il s'agit de décrire les mouvements des astres, un tout autre système de coordonnées s'impose. Les étoiles proprement dites vont jouer ici un rôle infiniment précieux ; grâce à leur immense éloignement du système solaire, elles constituent, depuis les âges les plus reculés, un ensemble de signaux lumineux que l'astronome et même le géodésien utilisent à chaque instant pour repérer les directions dans le ciel ou même sur la terre. Au point de vue géométrique, on peut [p. 118] dire que les étoiles définissent physiquement à chaque instant l'orientation invariable du trièdre de coordonnées de l'astronome. Elles fournissent des directions à peu près invariables, les seules que l'on possédât jusqu'au jour où la mécanique céleste donna, par ses lois mêmes, le moyen de rattacher aux changements de la configuration intérieure du
 
 système solaire,
 
@@ -4670,11 +4294,7 @@ Les astronomes emploient simultanément divers systèmes de coordonnées sphéri
 
 L'horloge de repère qui enregistre les divers mouvements du ciel est : soit la rotation diurne de la terre par rapport aux étoiles, soit le mouvement annuel du soleil autour de la terre ; l'accord périodique des deux horloges est un fait d'observation.
 
-La première horloge seule se prête à une division pratiquement indéfinie de la durée, elle définit physiquement ce que nous regardons comme le cours uniforme du temps, et aussi ce que nous appelons l'unité de temps ; celle-ci est en réalité le jour sidéral, c'est le temps que nous regardons comme
-
-[p. 119]
-
-constant d'une rotation complète de la terre par rapport aux étoiles.
+La première horloge seule se prête à une division pratiquement indéfinie de la durée, elle définit physiquement ce que nous regardons comme le cours uniforme du temps, et aussi ce que nous appelons l'unité de temps ; celle-ci est en réalité le jour sidéral, c'est le temps que nous regardons comme [p. 119] constant d'une rotation complète de la terre par rapport aux étoiles.
 
 L'unité civile du temps est le jour solaire moyen dont le rapport au jour sidéral sera indiqué un peu plus loin.
 
@@ -4726,9 +4346,7 @@ cos AR=
 
 Comme application de ces formules, indiquons la détermination du point y et de l'obliquité w.
 
-[p. 120]
-
-Si l'astre M est le soleil, on a à chaque époque de l'année β = 90 ° ; dans cette hypothèse on tire des équations précédentes
+[p. 120] Si l'astre M est le soleil, on a à chaque époque de l'année β = 90 ° ; dans cette hypothèse on tire des équations précédentes
 
 sin R = cotw.cots,
 
@@ -4764,11 +4382,7 @@ On sait, en effet, que le système de coordonnées équatoriales et le système 
 
 Voici comment, dans l'antiquité, Hipparque mit en évidence ce fait important : on peut déterminer la longueur de l'année de deux manières
 
-: dans une première méthode on cherche par interpolation l'époque précise où la coordonnée à du soleil acquiert exactement la valeur de 90°, on détermine ainsi l'instant d'un équinoxe ; on peut ainsi déterminer les heures de l'équinoxe du printemps à deux dates éloignées, par
-
-[p. 121]
-
-exemple en 1750 et en 1860 à 110 années d'intervalle ; en divisant la durée écoulée par 110 on aura la longueur de l'année, affectée de l'erreur à craindre sur les déterminations de deux instants équinoxiaux réduite dans le rapport de 1 à 110.
+: dans une première méthode on cherche par interpolation l'époque précise où la coordonnée à du soleil acquiert exactement la valeur de 90°, on détermine ainsi l'instant d'un équinoxe ; on peut ainsi déterminer les heures de l'équinoxe du printemps à deux dates éloignées, par [p. 121] exemple en 1750 et en 1860 à 110 années d'intervalle ; en divisant la durée écoulée par 110 on aura la longueur de l'année, affectée de l'erreur à craindre sur les déterminations de deux instants équinoxiaux réduite dans le rapport de 1 à 110.
 
 On trouve ainsi aujourd'hui pour la longueur de l'année 365,242217 jours solaires moyens, telle est l'année tropique.
 
@@ -4786,11 +4400,7 @@ Nous devrions donc admettre avec Hipparque que les étoiles ont éprouvé un mou
 
 Si au contraire, avec Copernic, nous regardons le système étoilé comme fixe, ainsi que le plan de l'écliptique, nous dirons que le point y rétrograde de 50 " par an, soit d'un tour en vingt- six mille ans.
 
-Au point de vue géométrique, les deux manières de parler
-
-[p. 122]
-
-sont équivalentes ; elles ne le sont plus au point de vue mécanique, depuis que Newton a montré que le phénomène de la précession, rattaché à l'attraction et au renflement équatorial de la terre, est un phénomène purement mécanique comparable au phénomène de la toupie.
+Au point de vue géométrique, les deux manières de parler [p. 122] sont équivalentes ; elles ne le sont plus au point de vue mécanique, depuis que Newton a montré que le phénomène de la précession, rattaché à l'attraction et au renflement équatorial de la terre, est un phénomène purement mécanique comparable au phénomène de la toupie.
 
 Le fait géométrique de la précession s'était encore révélé à Hipparque d'une autre manière : ses prédécesseurs Aristille et Timocharis avaient déterminé, deux cents ans avant lui, les longitudes écliptiques d'un grand nombre de belles étoiles ; or Hipparque en reprenant lui-même les mesures relatives à cette détermination trouva toutes les longitudes accrues de 2º 5, la distance de ces astres au pôle de l'écliptique n'avait pas sensiblement varié.
 
@@ -4800,11 +4410,7 @@ En réalité, le phénomène est plus complexe
 
 On imagine un soleil fictif qui parcourrait l'équateur durant l'année tropique avec une vitesse angulaire constante et égale au moyen mouvement angulaire du soleil vrai ; la durée qui sépare deux passages consécutifs correspondants de cet astre fictif à un même méridien (arbitraire) se nomme jour solaire moyen. Si l'on voulait définir l'origine physique du jour solaire moyen en un lieu, il faudrait préciser les époques où le soleil vrai et le soleil fictif ont même ascension droite, c'est ce qui résultera de l'étude du mouvement apparent du soleil, étude qui sera rappelée plus loin.
 
-Il est aisé de voir (problème analogue à celui de la rencontre des aiguilles d'une montre) que l'année tropique renferme juste un jour sidéral de plus que de jours solaires moyens ; on déduit de là, et de la longueur de l'année indiquée plus haut, que :
-
-[p. 123]
-
-jour sidéral
+Il est aisé de voir (problème analogue à celui de la rencontre des aiguilles d'une montre) que l'année tropique renferme juste un jour sidéral de plus que de jours solaires moyens ; on déduit de là, et de la longueur de l'année indiquée plus haut, que : [p. 123] jour sidéral
 
 365,242217
 
@@ -4828,11 +4434,7 @@ Les mouvements intérieurs du système solaire
 
 repérés sur les étoiles.
 
-La précision des mouvements intérieurs du système solaire est facile ou très complexe suivant le système de coordonnées adopté ; le système inauguré par Copernic, toujours orienté
-
-[p. 124]
-
-sur les étoiles, a son origine au centre du soleil et non sur la terre.
+La précision des mouvements intérieurs du système solaire est facile ou très complexe suivant le système de coordonnées adopté ; le système inauguré par Copernic, toujours orienté [p. 124] sur les étoiles, a son origine au centre du soleil et non sur la terre.
 
 Mais, avant l'étude du mouvement des planètes, s'imposait nécessairement l'étude du mouvement du soleil par rapport à la terre.
 
@@ -4864,11 +4466,7 @@ e sinm
 
 formules d'où l'on déduit, en faisant
 
-tgp ou, en remplaçant approximativement la tangente du petit angle p par cet angle lui-même mesuré avec l'unité trigonométrique d'angles, on aura :
-
-[p. 125]
-
-e sinm
+tgp ou, en remplaçant approximativement la tangente du petit angle p par cet angle lui-même mesuré avec l'unité trigonométrique d'angles, on aura : [p. 125] e sinm
 
 p = 206265" 1
 
@@ -4924,11 +4522,7 @@ et 1-+
 
 60
 
-De là résulte que les deux espèces d'observations seraient bien représentées non plus par les formules précédentes, mais par les formules :
-
-[p. 126]
-
-r
+De là résulte que les deux espèces d'observations seraient bien représentées non plus par les formules précédentes, mais par les formules : [p. 126] r
 
 e
 
@@ -4964,11 +4558,7 @@ Si n'est le moyen mouvement de la planète et n le moyen mouvement connu de la t
 
 360 du soleil, tous les deux exprimés en degrés par jour, n-n sera la révolution synodique exprimée en degrés ; celle-ci connue fera donc connaître n'.
 
-D'ailleurs, dans ces mouvements périodiques, les observations des conjonctions permettent à elles seules d'étudier le mouvement angulaire de la planète puisqu'elles fixent la position de celle-ci en coïncidence angulaire avec la position de la terre par rapport au soleil, et que cette dernière position est bien connue par l'étude préalable du mouvement du
-
-[p. 127]
-
-soleil. Fort heureusement d'ailleurs pour la précision de la méthode, les moyens mouvements de la terre et de la planète n'étant pas dans un rapport commensurable simple, les conjonctions observées se répartiront finalement à peu près sur toute l'étendue de l'orbite de la planète.
+D'ailleurs, dans ces mouvements périodiques, les observations des conjonctions permettent à elles seules d'étudier le mouvement angulaire de la planète puisqu'elles fixent la position de celle-ci en coïncidence angulaire avec la position de la terre par rapport au soleil, et que cette dernière position est bien connue par l'étude préalable du mouvement du [p. 127] soleil. Fort heureusement d'ailleurs pour la précision de la méthode, les moyens mouvements de la terre et de la planète n'étant pas dans un rapport commensurable simple, les conjonctions observées se répartiront finalement à peu près sur toute l'étendue de l'orbite de la planète.
 
 La périodicité des mouvements, jointe à cette circonstance, fut donc très favorable à la précision des tables des mouvements angulaires.
 
@@ -4992,11 +4582,7 @@ L'époque la plus favorable d'une observation de ce genre sera celle d'une quadr
 
 Précision des observations de Tycho-Brahé.
 
-Au temps d'Hipparque les erreurs des déterminations angulaires pouvaient atteindre 1º et même 1º 5 ; les mesures ana
-
-[p. 128]
-
-logues des astronomes arabes comportaient des erreurs de 4 à 5 minutes d'angle. Tycho- Brahé parvint, sans le secours des lunettes, à réduire ces erreurs à 1 '.
+Au temps d'Hipparque les erreurs des déterminations angulaires pouvaient atteindre 1º et même 1º 5 ; les mesures ana [p. 128] logues des astronomes arabes comportaient des erreurs de 4 à 5 minutes d'angle. Tycho- Brahé parvint, sans le secours des lunettes, à réduire ces erreurs à 1 '.
 
 Cette précision alors nouvelle fut le fruit de l'étude patiente et attentive que Tycho entreprit sur les perturbations que la réfraction atmosphérique apporte dans le visé des astres ; il dressa en effet une table de corrections qui pour des distances zénithales de moins de 60 °, s'accorde avec nos tables modernes à 12 " près.
 
@@ -5012,11 +4598,7 @@ Pour reconnaître la fausseté de la théorie de l'excentrique, Kepler n'avait p
 
 Dans l'étude de Mars, Kepler, désireux d'utiliser le plus grand nombre possible des observations précises de Tycho, ne se contenta pas de la méthode d'observation indiquée plus haut et qui avait été utilisée par Copernic ; il eut recours à l'artifice suivant
 
-: la durée de la révolution sidérale de Mars déduite, comme on l'a vu plus haut, de sa révolution synodique était connue, et fixée à 687 jours ; Kepler eut alors l'idée d'associer deux par deux les observations de Tycho en
-
-[p. 129]
-
-réunissant ensemble celles de ces observations que séparait une durée de 687 jours ; la situation identique P (sans figure) de la planète à ces deux moments forme alors, avec les positions connues T'et T de la terre, un triangle de base TT', dans lequel les directions T'P et TP sont séparément relevées. La position de la planète, identique aux deux époques, peut donc être directement relevée.
+: la durée de la révolution sidérale de Mars déduite, comme on l'a vu plus haut, de sa révolution synodique était connue, et fixée à 687 jours ; Kepler eut alors l'idée d'associer deux par deux les observations de Tycho en [p. 129] réunissant ensemble celles de ces observations que séparait une durée de 687 jours ; la situation identique P (sans figure) de la planète à ces deux moments forme alors, avec les positions connues T'et T de la terre, un triangle de base TT', dans lequel les directions T'P et TP sont séparément relevées. La position de la planète, identique aux deux époques, peut donc être directement relevée.
 
 Or Kepler reconnut qu'il était impossible de relier les diverses positions P de Mars par une courbe circulaire.
 
@@ -5038,11 +4620,7 @@ Ayant ainsi deviné la fameuse loi des aires, et la supposant
 
 ANDRADE.
 
-9
-
-[p. 130]
-
-de suite applicable à tout le cours du mouvement, Kepler dut, avant d'aller plus loin, résoudre ce problème de géométrie :
+9 [p. 130] de suite applicable à tout le cours du mouvement, Kepler dut, avant d'aller plus loin, résoudre ce problème de géométrie :
 
 Un point M décrit une ellipse de manière que le rayon vecteur SM qui joint le point M à l'un des foyers (le foyer actif) de l'ellipse, balaye une aire proportionnelle au temps ; déterminer en fonction du temps la longueur et la direction du segment SM, rayon vecteur actuel de Mars.
 
@@ -5078,9 +4656,7 @@ auaesinu ;
 
 2
 
-[p. 131]
-
-Donc, par la projection des aires :
+[p. 131] Donc, par la projection des aires :
 
 1
 
@@ -5160,11 +4736,7 @@ tou,
 
 formules au moyen desquelles Kepler calcula les premières tables du mouvement de Mars.
 
-On vérifie sans peine que la loi des aires justifie la correc
-
-[p. 132]
-
-tion empirique signalée tout à l'heure dans l'étude du mouvement du soleil.
+On vérifie sans peine que la loi des aires justifie la correc [p. 132] tion empirique signalée tout à l'heure dans l'étude du mouvement du soleil.
 
 Kepler alla encore plus loin : dans son dernier ouvrage intitulé Les Harmonies du Monde, et après des rêveries étranges, on trouve une troisième loi qui fut le couronnement de son œuvre à jamais mémorable.
 
@@ -5266,9 +4838,7 @@ Jupiter.
 
 Saturne
 
-[p. 133]
-
-L'accord de ce tableau des a² avec le tableau des Test remarquable ; ainsi fut vérifiée la 3º loi de Kepler
+[p. 133] L'accord de ce tableau des a² avec le tableau des Test remarquable ; ainsi fut vérifiée la 3º loi de Kepler
 
 Les carrés des durées des révolutions des planètes sont proportionnels aux cubes des grands axes de leurs orbites.
 
@@ -5282,11 +4852,7 @@ Comme ces deux lois sont les bases de la métaphysique de la mécanique rationne
 
 Or si le véritable système du monde a échappé à la pensée géométrique des Grecs, c'est que d'une part les notions de vitesse et d'accélération leur ont manqué et que d'autre part la définition réaliste et féconde de la force, par le postulat de l'égalité de l'action et de la réaction affirmé par Newton, leur manquait également.
 
-Telles sont les deux idées originales de Galilée et de Newton ; à la mécanique naissante ces idées donnèrent un système solaire à expliquer ; l'explication devait si admirablement réussir que l'esprit humain, encore fier du triomphe si inattendu de la mécanique céleste, put croire pendant longtemps que les phénomènes de la mécanique moléculaire seraient aussi facilement asservis à des lois simples et précises que le système solaire. Une grande déception a suivi, mais pour le
-
-[p. 134]
-
-moment nous n'avons à retracer ici que la glorieuse interprétation des lois de Kepler et leur généralisation précise par les deux idées originales de Galilée et de Newton.
+Telles sont les deux idées originales de Galilée et de Newton ; à la mécanique naissante ces idées donnèrent un système solaire à expliquer ; l'explication devait si admirablement réussir que l'esprit humain, encore fier du triomphe si inattendu de la mécanique céleste, put croire pendant longtemps que les phénomènes de la mécanique moléculaire seraient aussi facilement asservis à des lois simples et précises que le système solaire. Une grande déception a suivi, mais pour le [p. 134] moment nous n'avons à retracer ici que la glorieuse interprétation des lois de Kepler et leur généralisation précise par les deux idées originales de Galilée et de Newton.
 
 Après ce qui a été dit dans la première partie de cet ouvrage, il est superflu de revenir ici sur la notion de la vitesse ; nous rappellerons par contre la notion de l'accélération qui, dans l'espace euclidien tout au moins, se rattache immédiatement à la notion de la vitesse.
 
@@ -5304,9 +4870,7 @@ Quand le mouvement d'un mobile à l'égard d'une horloge connue est lui-même co
 
 Il peut, en effet, arriver que le mouvement étudié ne soit connu qu'approximativement, l'accélération elle aussi sera connue par approximation ; mais si l'on veut pousser plus loin l'approximation, il peut aussi arriver que la correction de l'accélération se laisse deviner et s'exprime en une loi simple, tandis que les équations définitives après intégration effectuée soient d'une correction plus complexe et plus cachée.
 
-[p. 135]
-
-Or, c'est précisément ce qui est arrivé en astronomie.
+[p. 135] Or, c'est précisément ce qui est arrivé en astronomie.
 
 Les lois du mouvement elliptique découvertes par Kepler ne sont qu'approchées ; comment les corriger ?
 
@@ -5334,9 +4898,7 @@ Soit q la distance du second foyer de l'ellipse à la tangente, on a, d'après u
 
 pq= b2.
 
-[p. 136]
-
-Dès lors, menons par le second foyer un vecteur égal et parallèle à v, faisons tourner ce vecteur d'un quadrant dans le sens rétrograde.
+[p. 136] Dès lors, menons par le second foyer un vecteur égal et parallèle à v, faisons tourner ce vecteur d'un quadrant dans le sens rétrograde.
 
 Ce vecteur sera égal à
 
@@ -5396,11 +4958,7 @@ Or, cette dernière vitesse après une rotation rétrograde d'un quadrant autour
 
 Ainsi donc
 
-Les deux premières lois de Kepler signifient que l'accélération de la planète P est à chaque instant dirigée vers le soleil et qu'elle est inversement proportionnelle au carré de la distance des deux astres ; le coefficient de proportionnalité est, comme on vient de le voir :
-
-[p. 137]
-
-4π2α3
+Les deux premières lois de Kepler signifient que l'accélération de la planète P est à chaque instant dirigée vers le soleil et qu'elle est inversement proportionnelle au carré de la distance des deux astres ; le coefficient de proportionnalité est, comme on vient de le voir : [p. 137] 4π2α3
 
 T et la troisième loi de Kepler montre que ce coefficient est le même pour toutes les planètes ; donc :
 
@@ -5414,11 +4972,7 @@ La notion de la force était familière à Archimède ; les lois de l'équilibre
 
 La statique géométrique plutôt que la statique physique a occupé beaucoup de géomètres un peu avant et beaucoup après Galilée. La dynamique n'apparaît qu'avec Galilée et Newton.
 
-Bien que les penseurs originaux qui ont relié la notion de l'effort à la variation de mouvement d'une masse soient assez mal connus, l'idée de regarder le mouvement rectiligne et uniforme comme le mouvement naturel d'un corps libre, puis la généralisation de cette idée qu'une force attelée à une
-
-[p. 138]
-
-masse tend à lui communiquer une accélération et que la force actuellement motrice d'une masse est proportionnelle au produit de cette masse multipliée par l'accélération, ces idées associées enfin avec l'idée que des causes de mouvement peuvent se composer simultanément, comme se composent les vitesses des mouvements
+Bien que les penseurs originaux qui ont relié la notion de l'effort à la variation de mouvement d'une masse soient assez mal connus, l'idée de regarder le mouvement rectiligne et uniforme comme le mouvement naturel d'un corps libre, puis la généralisation de cette idée qu'une force attelée à une [p. 138] masse tend à lui communiquer une accélération et que la force actuellement motrice d'une masse est proportionnelle au produit de cette masse multipliée par l'accélération, ces idées associées enfin avec l'idée que des causes de mouvement peuvent se composer simultanément, comme se composent les vitesses des mouvements
 
 emboîtés, arrivèrent jusqu'à Newton qui leur ajouta un concept entièrement nouveau sans lequel la définition nouvelle de la force serait restée vaine et stérile. Lorsque deux corps dont les mouvements se gênent viennent à appuyer l'un sur l'autre
 
@@ -5442,9 +4996,7 @@ mu
 
 2
 
-[p. 139]
-
-Newton admit aussitôt par voie de généralisation que tous les éléments du système solaire sont soumis à leurs actions mutuelles, conformément à la même loi, et qu'il suffit de prendre la résultante des actions de cette nature exercées par tous les corps du système solaire sur l'un d'entre eux pour avoir la force produite sur ce corps.
+[p. 139] Newton admit aussitôt par voie de généralisation que tous les éléments du système solaire sont soumis à leurs actions mutuelles, conformément à la même loi, et qu'il suffit de prendre la résultante des actions de cette nature exercées par tous les corps du système solaire sur l'un d'entre eux pour avoir la force produite sur ce corps.
 
 On pourrait ainsi écrire les équations du mouvement de tous les corps du système planétaire dans l'espace absolu, espace dont l'existence est implicitement admise dans la conception de l'inertie de la matière et dans la conception associée de la force motrice du mouyement.
 
@@ -5550,9 +5102,7 @@ Zi — Zo
 
 rio
 
-[p. 140]
-
-Ces équations sont d'ailleurs inutilisables sous cette forme, car l'origine absolue nous fait défaut, mais après avoir fait μ = 1 on en déduit le système suivant :
+[p. 140] Ces équations sont d'ailleurs inutilisables sous cette forme, car l'origine absolue nous fait défaut, mais après avoir fait μ = 1 on en déduit le système suivant :
 
 mi + mo) £o — xi + 2 mi d²(xi-xo)
 
@@ -5632,11 +5182,7 @@ L'intégration des équations différentielles précédentes n'est possible que 
 
 Nous nous contenterons d'indiquer la dernière découverte de Newton et comment le grand physicien et géomètre vérifia l'identité de l'attraction astronomique et de cette force que l'habitude nous a rendue plus familière : la force de la pesanteur.
 
-L'identité des deux forces était apparue à Newton comme très probable vers 1666, l'illustre géomètre avait alors
-
-[p. 141]
-
-vingt-quatre ans ; mais en 1682 seulement il connut le résultat de la mesure du méridien faite en France par Picard. A cette date seulement il put entreprendre le calcul numérique nécessaire à la vérification de sa grandiose intuition.
+L'identité des deux forces était apparue à Newton comme très probable vers 1666, l'illustre géomètre avait alors [p. 141] vingt-quatre ans ; mais en 1682 seulement il connut le résultat de la mesure du méridien faite en France par Picard. A cette date seulement il put entreprendre le calcul numérique nécessaire à la vérification de sa grandiose intuition.
 
 Voici la marche de ce mémorable calcul, refait aujourd'hui avec toute la précision possible
 
@@ -5678,11 +5224,7 @@ Si gest exprimé en mètres par seconde, il faudra naturellement mesurer la long
 
 il est astronomiquement connu.
 
-Voyons maintenant les faibles corrections que ce calcul
-
-[p. 142]
-
-comporte et dont on peut donner une idée sans faire appel aux formules de la mécanique céleste.
+Voyons maintenant les faibles corrections que ce calcul [p. 142] comporte et dont on peut donner une idée sans faire appel aux formules de la mécanique céleste.
 
 2
 
@@ -5716,7 +5258,6 @@ ou environ égale à
 
 80,1
 
-#### X
 
 T2
 
@@ -5730,7 +5271,6 @@ de l'action terre-lune ; la cause de cet allongement est facile à comprendre : 
 
 L'accélération produite par le soleil sur un corps placé à
 
-#### M
 
 D2 la distance D. est
 
@@ -5740,11 +5280,9 @@ D2 la distance D. est
 
 0 moments de la conjonction et de l'opposition est
 
-#### M
 
 et
 
-#### M
 
 (Do — a)
 
@@ -5754,13 +5292,11 @@ et
 
 0
 
-#### M
 
 D2
 
 0
 
-#### M
 
 2M a
 
@@ -5776,9 +5312,7 @@ est sensiblement égale D. Do
 
 0
 
-[p. 143]
-
-A l'époque des quadratures, la projection sur la droite terrelune de l'accélération produite par le soleil sur la lune est sensiblement
+[p. 143] A l'époque des quadratures, la projection sur la droite terrelune de l'accélération produite par le soleil sur la lune est sensiblement
 
 Μα
 
@@ -5864,11 +5398,7 @@ rayon du parallèle de l'ellipsoïde terrestre dont la colatiم
 
 1 tude y vérifie la relation cos²y = 5, car c'est sur ce parallèle
 
-que la pesanteur, dépouillée de la force centrifuge due à la rotation de la terre, représente l'attraction d'une sphère homo
-
-[p. 144]
-
-gène de rayon p. On a d'ailleurs
+que la pesanteur, dépouillée de la force centrifuge due à la rotation de la terre, représente l'attraction d'une sphère homo [p. 144] gène de rayon p. On a d'ailleurs
 
 6371000
 
@@ -5918,11 +5448,7 @@ problème
 
 grandiose a été résolu et pour ainsi dire fixé dès le début de la mécanique rationnelle.
 
-Ce triomphe n'a pas manqué d'exercer une influence énorme sur les idées directrices de la Physique qui constituent la mécanique générale. Certes, il est impossible de nier
-
-[p. 145]
-
-que
+Ce triomphe n'a pas manqué d'exercer une influence énorme sur les idées directrices de la Physique qui constituent la mécanique générale. Certes, il est impossible de nier [p. 145] que
 
 les
 
@@ -5950,9 +5476,7 @@ ANDRADE.
 
 10
 
-[p. 146]
-
-CHAPITRE
+[p. 146] CHAPITRE
 
 #### II
 
@@ -6032,11 +5556,7 @@ d02
 
 dt do + u d62 ;
 
-et des équations analogues pour les autres projections ; en
-
-[p. 147]
-
-employant, pour abréger l'écriture, le signe
+et des équations analogues pour les autres projections ; en [p. 147] employant, pour abréger l'écriture, le signe
 
 pour les égalités vectorielles dont chacune en fournit trois par projection sur chacun des trois axes de coordonnées, nous écrivons : le signe + étant entendu au sens de la composition des vecteurs,
 
@@ -6080,11 +5600,7 @@ j (t'- 1) ² ; la direction limite de î est la direction même de j. On tire de
 
 2
 
-On conclut immédiatement de là que : si un corps solide est
-
-[p. 148]
-
-animé d'un mouvement de translation commun à tous ses points et si, par rapport à ce solide, se meut un mobile, d'un mouvement relatif connu, l'accélération du mobile dans le mouvement absolu est la résultante géométrique de l'accélération du mouvement relatif et de l'accélération d'entraînement : si le mouvement du solide n'est pas un mouvement de translation,
+On conclut immédiatement de là que : si un corps solide est [p. 148] animé d'un mouvement de translation commun à tous ses points et si, par rapport à ce solide, se meut un mobile, d'un mouvement relatif connu, l'accélération du mobile dans le mouvement absolu est la résultante géométrique de l'accélération du mouvement relatif et de l'accélération d'entraînement : si le mouvement du solide n'est pas un mouvement de translation,
 
 il reste, pour obtenir la déviation absolue du point, à donner à la trajectoire relative son déplacement de pivotement par rapport au point de départ, déplacement identique au mouvement d'orientation du solide ; l'accélération complémentaire qui en résulte est égale à deux fois la vitesse d'un point figuratif situé à l'extrémité d'un segment, représentatif de la vitesse relative V, et qui serait entraîné dans une rotation continue dont l'axe passerait par l'origine du segment représentatif et serait égal à l'axe représentatif de la vitesse d'orientation actuelle du solide ; cette accélération complémentaire porte le nom d'accélération de Coriolis ; ses composantes se calculent par les formules qui ont été données en géométrie sur les vitesses dues à des rotations. Si x, y, z, sont les coordonnées relatives du mobile et si p, q, r, sont les projections, sur les axes relatifs correspondants, de la vitesse angulaire du mouvement d'orientation du solide, les projections de l'accélération complémentaire de Coriolis sur les axes relatifs ox, oy, oz seront respectivement :
 
@@ -6124,11 +5640,7 @@ r
 
 Ces formules interviennent dans l'étude mécanique des petites perturbations que la rotation de la terre apporte aux mouvements apparents à la surface du globe, et dans l'étude des phénomènes divers qui s'y rattachent (pendule de Foucault, gyroscopes, déviation vers l'est dans la chute naturelle des corps pesants, etc.).
 
-Désignons l'accélération d'entraînement par Je, l'accélération par J,, l'accélération de Coriolis par Jc, l'accélération
-
-[p. 149]
-
-absolue par Ja, la composition des accélérations que nous venons d'obtenir est représentée par la formule
+Désignons l'accélération d'entraînement par Je, l'accélération par J,, l'accélération de Coriolis par Jc, l'accélération [p. 149] absolue par Ja, la composition des accélérations que nous venons d'obtenir est représentée par la formule
 
 Ja = Je + J, + J.
 
@@ -6164,9 +5676,7 @@ dt 2
 
 Y — Y = (-) ()
 
-[p. 150]
-
-Ainsi, si l'introduction de la force Fa produit devant l'horloge a la variation brusque d'accélération j'-j, elle aura produit devant l'horloge & la variation brusque d'accélération
+[p. 150] Ainsi, si l'introduction de la force Fa produit devant l'horloge a la variation brusque d'accélération j'-j, elle aura produit devant l'horloge & la variation brusque d'accélération
 
 γ. Envisageons alors plusieurs forces agissant au même moment sur des masses égales.
 
@@ -6186,11 +5696,7 @@ Cette définition est fondée sur le phénomène du choc.
 
 Considérons deux corps solides de dimensions négligeables A et B, aúxquels nous sommes libres de donner des impulsions et qui, abandonnés ensuite à eux-mêmes, ont un mouvement continu quelconque dans un certain système de coordonnées ; nous pouvons disposer des impulsions initiales pour produire tout à l'heure un choc, les corps éprouvent alors une déformation superficielle et momentanée, puis des changements de vitesse qui, dans un temps court, sont énormes par rapport aux effets analogues que les autres causes ambiantes continues peuvent produire.
 
-Soient u et u' les vitesses des corps un peu avant le choc et u + ∆u, u ' + ∆'u' leurs vitesses un peu après le choc, on admet comme conforme à tous les faits connus que, quelles
-
-[p. 151]
-
-que soient les conditions du choc renouvelé, il existe deux nombres
+Soient u et u' les vitesses des corps un peu avant le choc et u + ∆u, u ' + ∆'u' leurs vitesses un peu après le choc, on admet comme conforme à tous les faits connus que, quelles [p. 151] que soient les conditions du choc renouvelé, il existe deux nombres
 
 positifs met m'constants vérifiant la relation vectorielle :
 
@@ -6230,11 +5736,7 @@ Entre les forces envisagées à l'état statique et les forces motrices de la dy
 
 Notre effort musculaire intervient dans deux ordres de phénomènes auxquels il sert de trait d'union : les phénomènes d'équilibre et les phénomènes de mouvement.
 
-Notre bras éprouve une fatigue à supporter un poids, il éprouve aussi une fatigue à retenir le fil attaché à une fronde ; toutes les fois qu'un corps en mouvement est ainsi
-
-[p. 152]
-
-lié à un système déformable capable de mesurer l'effort statique, la notion de la force nous paraît plus claire, parce que nous la sentons et la croyons plus près de nous. C'est même cet anthropomorphisme inconscient qui est intervenu dans cette métaphysique de la mécanique rationnelle naissante à laquelle nous avons fait allusion plus haut, lorsque nous avons souligné les idées réellement fécondes pour la mécanique céleste, l'idée d'accélération et l'idée de la mutualité de l'action et de la réaction, c'est-à-dire, en somme, l'idée de Galilée et l'idée de Newton.
+Notre bras éprouve une fatigue à supporter un poids, il éprouve aussi une fatigue à retenir le fil attaché à une fronde ; toutes les fois qu'un corps en mouvement est ainsi [p. 152] lié à un système déformable capable de mesurer l'effort statique, la notion de la force nous paraît plus claire, parce que nous la sentons et la croyons plus près de nous. C'est même cet anthropomorphisme inconscient qui est intervenu dans cette métaphysique de la mécanique rationnelle naissante à laquelle nous avons fait allusion plus haut, lorsque nous avons souligné les idées réellement fécondes pour la mécanique céleste, l'idée d'accélération et l'idée de la mutualité de l'action et de la réaction, c'est-à-dire, en somme, l'idée de Galilée et l'idée de Newton.
 
 Objectivement il nous paraît plus précis de remplacer notre bras par un ressort plus ou moins sensible et, dans tous les raisonnements où une force est attelée à un corps, l'image tacite se forme en nous d'un dynamomètre factice qui produirait et enregistrerait en même temps la force liée à un phénomène de mouvement ou à un phénomène d'équilibre que nous étudions. Le dynamomètre le plus simple à concevoir est le fil élastique dont la variation proportionnelle de longueur est pour la pensée le témoin schématique de la production de la force.
 
@@ -6244,9 +5746,7 @@ Pourquoi ne sommes-nous pas satisfaits ? Parce que nous demandons plus à la mé
 
 Nous l'oublions trop facilement : ce que nous appelons les principes de la mécanique ne sont pas des choses existant réellement par elles-mêmes, ce sont des manières d'interroger les phénomènes ; c'est une manière de les interpréter, de les représenter ; que cette manière ait eu des avantages, l'histoire des sciences physiques en fait foi ; mais affirmer que cette manière soit la seule et que la mécanique ait dû nécessairement être le prélude des sciences physiques, c'est avec Auguste Comte aller beaucoup trop loin.
 
-[p. 153]
-
-C'est oublier le rôle psychologique de l'association des idées, rôle aussi visible dans l'histoire de la pensée humaine que dans notre activité mentale individuelle.
+[p. 153] C'est oublier le rôle psychologique de l'association des idées, rôle aussi visible dans l'histoire de la pensée humaine que dans notre activité mentale individuelle.
 
 La hiérarchie des sciences d'Auguste Comte est purement logique, le hasard de l'histoire aurait très bien pu éveiller la science biologique avant l'astronomie, le chimiste aurait pu se servir de la balance avant que Newton eût pesé la lune ; mais alors qui donc oserait dire que, si la Renaissance des sciences eût été d'abord biologique, nous accorderions au déterminisme mécanique le même culte un peu envahissant et exagéré que nous lui accordons aujourd'hui ?
 
@@ -6262,9 +5762,7 @@ L'assimilation de la prédiction exacte des mouvements à un problème de mécan
 
 Cette relativité, je l'ai systématiquement exagérée dans mes Leçons de mécanique physique.
 
-[p. 154]
-
-remarquable
+[p. 154] remarquable
 
 aussi bien que la composition des
 
@@ -6286,11 +5784,7 @@ A la recherche du principe général de l'équilibre.
 
 S'il est possible de reconstituer la réalité par des abstractions isolées et superposées comme la méthode mathématique paraît l'exiger, on peut se représenter l'univers physique comme la fusion de ces éléments abstraits : la masse, la force et les liaisons de positions.
 
-C'est en somme la philosophie de la mécanique telle que la
-
-[p. 155]
-
-voyait Lagrange ; sans doute, on peut, et c'est là une idée de Poisson, remplacer des liaisons par des forces, appliquées à des points matériels libres.
+C'est en somme la philosophie de la mécanique telle que la [p. 155] voyait Lagrange ; sans doute, on peut, et c'est là une idée de Poisson, remplacer des liaisons par des forces, appliquées à des points matériels libres.
 
 L'une et l'autre manière de voir ont leurs avantages et leurs inconvénients.
 
@@ -6310,11 +5804,7 @@ Car, associée à l'idée d'un groupe de forces perturbantes nouvelles, l'idée 
 
 Que va-t-il advenir du système un peu dérangé ?
 
-Mais cette question elle-même n'aura de sens que si les forces que l'on envisageait tout à l'heure dans la relation d'équilibre et dont il suffisait de connaître la valeur actuelle dans le phénomène de pur équilibre sont des fonctions de point connues. Or, au point de vue de l'équilibre, il y a entre
-
-[p. 156]
-
-les solides naturels et les corps rigides un lien doctrinal, c'est que les forces appliquées à un solide naturel appuyé produisent généralement un phénomène de tassement et de petites déformations élastiques, en sorte que la figure définitive d'équilibre sera réalisée sous l'influence de forces extérieures connues et de forces élastiques éveillées par cette déformation même ; mais comme les forces élastiques sont mutuelles, on peut affirmer que, dans la position d'équilibre définitive, les seules forces extérieures appliquées devront satisfaire aux conditions d'équilibre d'un corps rigide.
+Mais cette question elle-même n'aura de sens que si les forces que l'on envisageait tout à l'heure dans la relation d'équilibre et dont il suffisait de connaître la valeur actuelle dans le phénomène de pur équilibre sont des fonctions de point connues. Or, au point de vue de l'équilibre, il y a entre [p. 156] les solides naturels et les corps rigides un lien doctrinal, c'est que les forces appliquées à un solide naturel appuyé produisent généralement un phénomène de tassement et de petites déformations élastiques, en sorte que la figure définitive d'équilibre sera réalisée sous l'influence de forces extérieures connues et de forces élastiques éveillées par cette déformation même ; mais comme les forces élastiques sont mutuelles, on peut affirmer que, dans la position d'équilibre définitive, les seules forces extérieures appliquées devront satisfaire aux conditions d'équilibre d'un corps rigide.
 
 Cela tient à ce que nous imaginons qu'il est possible de concevoir les liaisons moléculaires augmentées jusqu'à la rigidité et que nous admettons le postulatum suivant :
 
@@ -6332,9 +5822,7 @@ Lorsqu'on dit : le même corps, supposé rigide, il ne faut pas oublier qu'un co
 
 Cette addition permise dans les phénomènes d'équilibre n'est plus possible au contraire dans les phénomènes de mou vement.
 
-[p. 157]
-
-De plus, dans tout système de corps (rigides ou non) on regarde l'atome comme infiniment résistant, et on peut supprimer tout ensemble de forces qui seraient séparément en équilibre sur ce point.
+[p. 157] De plus, dans tout système de corps (rigides ou non) on regarde l'atome comme infiniment résistant, et on peut supprimer tout ensemble de forces qui seraient séparément en équilibre sur ce point.
 
 Sous le bénéfice de cette remarque on voit immédiatement que le principe peut être encore étendu.
 
@@ -6360,11 +5848,7 @@ Si deux forces non nulles se font équilibre sur un corps rigide, elles ont mêm
 
 Quatrième postulat.
 
-Étant données deux forces concourantes, non en équilibre, appliquées à un même point matériel, il existe toujours une force capable de leur faire équilibre ; la force égale et directement contraire à celle-ci porte le nom
-
-[p. 158]
-
-de résultante des deux premières. Pour la connaître nous invoquerons enfin ce dernier postulat.
+Étant données deux forces concourantes, non en équilibre, appliquées à un même point matériel, il existe toujours une force capable de leur faire équilibre ; la force égale et directement contraire à celle-ci porte le nom [p. 158] de résultante des deux premières. Pour la connaître nous invoquerons enfin ce dernier postulat.
 
 Cinquième postulat.
 
@@ -6392,11 +5876,7 @@ trois géométries d'une manière statique en disant :
 
 Réduction de Poinsot dans l'espace euclidien.
 
-Nous avons vu dans le chapitre précité que dans l'espace euclidien les deux forces constituantes d'un couple sont
-
-[p. 159]
-
-parallèles et que la réduction de Poinsot est facilitée par ce fait que les couples de couples équivalent à zéro.
+Nous avons vu dans le chapitre précité que dans l'espace euclidien les deux forces constituantes d'un couple sont [p. 159] parallèles et que la réduction de Poinsot est facilitée par ce fait que les couples de couples équivalent à zéro.
 
 Voici alors comment la réduction de Poinsot peut être alors représentée algébriquement par l'emploi des coordonnées de Descartes.
 
@@ -6408,7 +5888,6 @@ Soient : A, B, C les projections orthogonales ou obliques de M sur les axes ox, 
 
 Soient : P, Q, R les projections orthogonales ou obliques de M sur les plans respectifs de coordonnées yoz, zox, хоу ; on fera la réduction de Poinsot pour chaque composante ; soit Z la composante parallèle à oz, appliquée en M ; elle équivaut à Z ; on ajoute à Z le groupe en équilibre Z et
 
-#### M
 
 R
 
@@ -6452,7 +5931,6 @@ ZJL
 
 Z'M'appliquées respectivement en des points :
 
-#### X
 
 x'
 
@@ -6464,9 +5942,7 @@ Z
 
 z'
 
-[p. 160]
-
-équivaut à une force S appliquée en o, dont les composantes P, Q, R, sont :
+[p. 160] équivaut à une force S appliquée en o, dont les composantes P, Q, R, sont :
 
 P = X + X +... etc.,
 
@@ -6484,7 +5960,6 @@ et en trois couples, agissant dans les trois plans de coordonnées, et dont les 
 
 [Zy Yz + Z'y' — Z'z' +... etc. ; ] sind
 
-#### L
 
 2º Dans le plan zox :
 
@@ -6518,9 +5993,7 @@ Si le corps rigide subit un déplacement quelconque défini par 3 translations i
 
 Pêu + Qôv + Rôw + Lôα + Μοβ + Νδγ.
 
-[p. 161]
-
-Ce travail ne sera nul pour tous les déplacements infiniment petits du solide que si l'on a :
+[p. 161] Ce travail ne sera nul pour tous les déplacements infiniment petits du solide que si l'on a :
 
 P = Q = R = 0,
 
@@ -6544,17 +6017,13 @@ Mais, ne l'oublions pas, ce n'est là qu'une première approximation. Adoptons-l
 
 ANDRADE.
 
-11
-
-[p. 162]
-
-point fixe détermineront immédiatement les composantes de la réaction du point fixe. Quant aux trois autres équations, de la forme L = 0, M = 0, N = O, elles ne contiennent plus les composantes de la réaction ; ces équations fournissent alors les conditions de l'équilibre du corps rigide sur un point fixe.
+11 [p. 162] point fixe détermineront immédiatement les composantes de la réaction du point fixe. Quant aux trois autres équations, de la forme L = 0, M = 0, N = O, elles ne contiennent plus les composantes de la réaction ; ces équations fournissent alors les conditions de l'équilibre du corps rigide sur un point fixe.
 
 Le cas idéal d'un solide fixé par deux points mettra de même en jeu les réactions des deux appuis, mais alors l'une des équations, l'équation des moments par rapport à l'axe des z choisi coïncidant avec l'axe de rotation fixe dans le solide, a éliminé les réactions ; elle fournit alors l'équation d'équilibre.
 
 Les cinq autres équations sont alors insuffisantes pour déterminer les six composantes des réactions ; elles font connaître les composantes des réactions parallèles aux axes des x et des y, mais les composantes des réactions qui sont parallèles à l'axe fixe sont séparément indéterminées, leur somme seule est connue.
 
-Cette indétermination est d'ailleurs dans la logique de la mécanique rationnelle du corps rigide et on pouvait la prévoir a priori ; en effet notre point de départ dans la statique du corps rigide a été le suivant : nous regardons toute paire de forces mutuelles appliquée au corps rigide comme de nul effet : on peut donc dans le problème qui nous occupe ajouter ou supprimer toute paire de forces mutuelles appliquées respectivement sur les deux points fixes du solide ; or ceci fait varier évidemment l'une et l'autre composantes parallèles à l'axe fixe sans cependant faire varier leur somme.
+Cette indétermination est d'ailleurs dans la logique de la mécanique rationnelle du corps rigide et on pouvait la prévoir *a priori* ; en effet notre point de départ dans la statique du corps rigide a été le suivant : nous regardons toute paire de forces mutuelles appliquée au corps rigide comme de nul effet : on peut donc dans le problème qui nous occupe ajouter ou supprimer toute paire de forces mutuelles appliquées respectivement sur les deux points fixes du solide ; or ceci fait varier évidemment l'une et l'autre composantes parallèles à l'axe fixe sans cependant faire varier leur somme.
 
 L'indétermination n'existe point dans la réalité, bien qu'elle doive exister dans la statique du corps rigide ; c'est que les solides naturels sont élastiques et légèrement déformables.
 
@@ -6562,11 +6031,7 @@ REMARQUE.
 
 On peut observer que, lors de l'équilibre d'un corps solide gêné, la somme des travaux de forces appliquées pour un déplacement infiniment petit du solide qui est compatible avec ses liaisons est nulle.
 
-AUTRE REMARQUE. — Le théorème qui nous apprend qu'un
-
-[p. 163]
-
-solide libre est en équilibre si la somme des travaux des forces relatifs à un déplacement quelconque infiniment petit du solide est nulle, fournit une démonstration immédiate d'un célèbre équilibre découvert par Archimède.
+AUTRE REMARQUE. — Le théorème qui nous apprend qu'un [p. 163] solide libre est en équilibre si la somme des travaux des forces relatifs à un déplacement quelconque infiniment petit du solide est nulle, fournit une démonstration immédiate d'un célèbre équilibre découvert par Archimède.
 
 Considérons une pression normale et uniformément répartie sur tous les éléments do d'une surface fermée : soit pla pression constante rapportée à l'unité de surface, on voit sans peine que la somme des travaux, des pressions supportées par les divers éléments de surfaces est égale à pdv, dv étant l'accroissement de volume occupé par le solide ; si le solide est rigide dv = o et le travail est nul. Donc les pressions considérées se font équilibre.
 
@@ -6578,15 +6043,11 @@ L'équilibre des fils et des moufles.
 
 Après un corps rigide la machine la plus simple est un fil flexible mais inextensible.
 
-Le principe de rigidification déjà énoncé nous montre que si un fil est en équilibre, l'équilibre subsiste a fortiori si le fil est changé en barre ; donc déjà les deux forces appliquées aux extrémités du fil doivent être contraires et avoir pour ligne d'action la droite qui joint les extrémités du fil ; si la droite qui joint les extrémités du fil n'a pas la longueur du fil, un petit déplacement est possible et se produira ; dans le cas contraire un petit déplacement de chaque extrémité du fil serait encore possible si les forces ne tendaient pas le fil ; donc la condition nécessaire de l'équilibre d'un fil qui n'est soumis qu'à deux forces est que les forces appliquées à des extrémités soient respectivement dirigées suivant les prolongements du fil tendu.
+Le principe de rigidification déjà énoncé nous montre que si un fil est en équilibre, l'équilibre subsiste *a fortiori* si le fil est changé en barre ; donc déjà les deux forces appliquées aux extrémités du fil doivent être contraires et avoir pour ligne d'action la droite qui joint les extrémités du fil ; si la droite qui joint les extrémités du fil n'a pas la longueur du fil, un petit déplacement est possible et se produira ; dans le cas contraire un petit déplacement de chaque extrémité du fil serait encore possible si les forces ne tendaient pas le fil ; donc la condition nécessaire de l'équilibre d'un fil qui n'est soumis qu'à deux forces est que les forces appliquées à des extrémités soient respectivement dirigées suivant les prolongements du fil tendu.
 
 On conclut de là, en concevant un fil coupé par un plan quelconque, que la tension du fil est toujours la même dans sa position rectiligne.
 
-Imaginons maintenant un fil enroulé sur une poulie circu
-
-[p. 164]
-
-laire de rayon R, mobile autour de son axe ; les brins libres du fil
+Imaginons maintenant un fil enroulé sur une poulie circu [p. 164] laire de rayon R, mobile autour de son axe ; les brins libres du fil
 
 sont alors soumis à des tensions Tet T'dont les moments par rapport à l'axe de la poulie sont, abstraction faite du signe, TRet TR ; la condition d'équilibre d'un solide tournant autour d'un axe (somme algébrique des moments nulle) exige donc que T = T'. Les pressions normales ont un moment nul.
 
@@ -6600,11 +6061,7 @@ Remarque.
 
 - Si le châssis s'élève d'une quantité h, chaque brin glisse et fait tourner la poulie, mais l'ancien point de contact est un point du fil qui s'éloigne de h du nouveau point de contact du fil avec la poulie, en sorte que l'extrémité libre du fil tirée par exemple à la main se déplace dans la direction prolongée du brin primitif de 2nh ; le travail moteur est P2nh et le travail résistant est — Q.h ; leur somme est égale à zéro.
 
-La machine moufle crée de la force puisqu'une puissance P équilibre une résistance Q2n fois plus grande, mais pendant un déplacement de la machine la somme des travaux des
-
-[p. 165]
-
-forces est nulle, le travail moteur égale le travail résistant.
+La machine moufle crée de la force puisqu'une puissance P équilibre une résistance Q2n fois plus grande, mais pendant un déplacement de la machine la somme des travaux des [p. 165] forces est nulle, le travail moteur égale le travail résistant.
 
 Aucun travail moteur n'est créé, ni perdu d'ailleurs, car nous négligeons les frottements.
 
@@ -6624,13 +6081,9 @@ Nous avons déjà admis le postulatum du renforcement des liaisons, nous allons 
 
 Nous distinguerons d'abord les systèmes à liaisons complètes ; nous appelons ainsi ceux dont chaque point Masa position définie par une seule variable.
 
-Si un système n'est pas à liaisons complètes, on peut, en renforçant les liaisons, le rendre à liaisons complètes, et si les forces qui s'exerçaient sur lui étaient en équilibre, elles seront a fortiori en équilibre sur le système à liaisons complétées.
+Si un système n'est pas à liaisons complètes, on peut, en renforçant les liaisons, le rendre à liaisons complètes, et si les forces qui s'exerçaient sur lui étaient en équilibre, elles seront *a fortiori* en équilibre sur le système à liaisons complétées.
 
-Considérons alors un système à liaisons complètes, supposons qu'un déplacement suffisamment petit de l'ensemble de ces points soit géométriquement possible et supposons d'abord que les forces se réduisent à une seule force tangente à la trajectoire et dans le sens d'un déplacement possible sur cette
-
-[p. 166]
-
-trajectoire, nous posons en principe que l'équilibre ne saurait avoir lieu. Si au contraire la force s'exerce en sens inverse du seul déplacement possible de son point d'application l'équilibre aura lieu, nous l'admettons.
+Considérons alors un système à liaisons complètes, supposons qu'un déplacement suffisamment petit de l'ensemble de ces points soit géométriquement possible et supposons d'abord que les forces se réduisent à une seule force tangente à la trajectoire et dans le sens d'un déplacement possible sur cette [p. 166] trajectoire, nous posons en principe que l'équilibre ne saurait avoir lieu. Si au contraire la force s'exerce en sens inverse du seul déplacement possible de son point d'application l'équilibre aura lieu, nous l'admettons.
 
 Envisageons maintenant un système de points à liaisons complètes, soumis à des forces quelconques ; nous pouvons supprimer toutes les forces et remplacer chaque force par un fil qui, passant sur des poulies de renvoi convenablement placées, sera attaché au châssis inférieur d'un moufle spécial au point considéré.
 
@@ -6646,11 +6099,7 @@ F " = 2n " f.
 
 Les entiers n, n', n".., ainsi déterminés définiront le nombre des poulies à employer respectivement sur les uns et les autres des divers châssis des moufles respectifs.
 
-Le système, ainsi complété, est considéré comme équivalent au proposé. Or, d'après le principe admis plus haut, le nouveau système sera en équilibre si le déplacement défini qui peut se produire a pour effet de faire remonter le poids P. Or pour un déplacement infiniment petit du point M le fil d'attache, qui réunit ce point M à la petite poulie de renvoi la plus proche sur le parcours du fil, se raccourcit de la quantité ds cos a, a désignant l'angle que le fil tendu de M vers la poulie fait avec le déplacement infiniment petit ds ; le châssis inférieur relié à M s'élève donc de ds cos a, il en résulte que le mouvement de descente du poids P serait égal à la somme des produits 2nds cosa, somme désignée par
-
-[p. 167]
-
-22nds cosa.
+Le système, ainsi complété, est considéré comme équivalent au proposé. Or, d'après le principe admis plus haut, le nouveau système sera en équilibre si le déplacement défini qui peut se produire a pour effet de faire remonter le poids P. Or pour un déplacement infiniment petit du point M le fil d'attache, qui réunit ce point M à la petite poulie de renvoi la plus proche sur le parcours du fil, se raccourcit de la quantité ds cos a, a désignant l'angle que le fil tendu de M vers la poulie fait avec le déplacement infiniment petit ds ; le châssis inférieur relié à M s'élève donc de ds cos a, il en résulte que le mouvement de descente du poids P serait égal à la somme des produits 2nds cosa, somme désignée par [p. 167] 22nds cosa.
 
 La condition de l'équilibre sera donc
 
@@ -6674,7 +6123,7 @@ Fds cos a = 0. Réciproquement si la somme des travaux infiniment petits :
 
 ΣΕδς cosa, est nulle ou négative pour tous les déplacements compatibles avec les liaisons, l'équilibre du système est assuré.
 
-Si en effet l'équilibre était rompu assujettissons les trajectoires réelles à être les déplacements d'un système à liaisons complètes ; un certain point du système se déplaçant dans un certain sens, on pourra s'opposer au déplacement avec une force T opposée au déplacement ds de ce point particulier ; on aurait équilibre, et l'équilibre subsisterait a fortiori si les liaisons étaient renforcées de manière à être renversables ; on devrait alors avoir pour l'équilibre :
+Si en effet l'équilibre était rompu assujettissons les trajectoires réelles à être les déplacements d'un système à liaisons complètes ; un certain point du système se déplaçant dans un certain sens, on pourra s'opposer au déplacement avec une force T opposée au déplacement ds de ce point particulier ; on aurait équilibre, et l'équilibre subsisterait *a fortiori* si les liaisons étaient renforcées de manière à être renversables ; on devrait alors avoir pour l'équilibre :
 
 Fός cos a — Tôs₁ = 0.
 
@@ -6686,9 +6135,7 @@ Telle est par les fils et les moufles la célèbre démonstration de Lagrange po
 
 Dans toute machine à liaisons, en équilibre sous l'action de plusieurs forces, la somme des travaux de ces forces pour tout dérangement virtuel infiniment petit que l'on voudra donner au système sera négative ou nulle.
 
-[p. 168]
-
-Et réciproquement, si cette condition est remplie, la machine est en équilibre.
+[p. 168] Et réciproquement, si cette condition est remplie, la machine est en équilibre.
 
 A la démonstration de Lagrange on a fait diverses objections, notamment celle- ci : Lagrange, a-t-on dit, admet que si un déplacement d'un point est possible dans le sens de la force, ce déplacement doit nécessairement se produire ; or un point pesant placé au point le plus élevé d'une surface peut descendre dans le sens de son poids et le mouvement ne se produit pas.
 
@@ -6708,11 +6155,7 @@ Le principe de Dalembert ou le principe général de la dynamique des systèmes 
 
 Dalembert avait fait une remarque par laquelle tout problème de mouvement peut se ramener à un problème d'équilibre, en sorte que le principe du travail virtuel combiné avec le principe de Dalembert donne une solution générale de tous les problèmes de mouvement des systèmes.
 
-Considérons, en effet, un système de forces agissant sur des points matériels soumis d'autre part à des liaisons : la masse m concentrée sur le point M qui fait partie du système va, en
-
-[p. 169]
-
-vertu de la force Fet des liaisons, prendre un mouvement dans lequel l'accélération sera jet le point semblera se mouvoir sous la force motrice compatible avec les liaisons et dont l'action isolée ne serait évidemment pas troublée par les liaisons. D'autre part la force F peut toujours être décomposée en une force mj efficace et une autre force P, qui résulte de cette décomposition même et qui, pendant le mouvement, est inapte avec les liaisons à troubler l'effet de la première ; la force P et les liaisons doivent donc équivaloir à une force nulle sur le point M ; ou encore l'ensemble des forces P doit se faire équilibre sur le système soumis aux liaisons considérées. L'ensemble des forces Pappelées forces perdues doit donc se faire équilibre sur le système à liaisons.
+Considérons, en effet, un système de forces agissant sur des points matériels soumis d'autre part à des liaisons : la masse m concentrée sur le point M qui fait partie du système va, en [p. 169] vertu de la force Fet des liaisons, prendre un mouvement dans lequel l'accélération sera jet le point semblera se mouvoir sous la force motrice compatible avec les liaisons et dont l'action isolée ne serait évidemment pas troublée par les liaisons. D'autre part la force F peut toujours être décomposée en une force mj efficace et une autre force P, qui résulte de cette décomposition même et qui, pendant le mouvement, est inapte avec les liaisons à troubler l'effet de la première ; la force P et les liaisons doivent donc équivaloir à une force nulle sur le point M ; ou encore l'ensemble des forces P doit se faire équilibre sur le système soumis aux liaisons considérées. L'ensemble des forces Pappelées forces perdues doit donc se faire équilibre sur le système à liaisons.
 
 Donc, le mouvement du système, envisagé dans le voisinage immédiat d'une époque t, doit être tel que le système des forces perdues définies par les accélérations actuelles doit se faire équilibre, à l'instant t, sur le système à liaisons considérées.
 
@@ -6736,9 +6179,7 @@ X-m
 
 dt2
 
-[p. 170]
-
-Soient x,
+[p. 170] Soient x,
 
 y, òz les projections sur les axes d'un déplacement virtuel compatible avec les liaisons ; exprimons que la somme des travaux virtuels des forces perdues est nulle, d'après le théorème de Lagrange, et nous aurons :
 
@@ -6808,11 +6249,7 @@ dt
 
 dt envisageons le cas où, en vertu des liaisons, le travail élémentaire
 
-Σ(Χδα + Υδу + Zoz), représente l'accroissement élémentaire d'une fonction des p
-
-[p. 171]
-
-variables d'où dépend la position du système, c'est-à-dire le cas où le travail des forces du système est la variation d'une simple fonction des valeurs des p variables et, par conséquent est indépendant des manières dont les systèmes de valeurs intermédiaires sont réalisées ; désignons cette fonction par U(91, 99,
+Σ(Χδα + Υδу + Zoz), représente l'accroissement élémentaire d'une fonction des p [p. 171] variables d'où dépend la position du système, c'est-à-dire le cas où le travail des forces du système est la variation d'une simple fonction des valeurs des p variables et, par conséquent est indépendant des manières dont les systèmes de valeurs intermédiaires sont réalisées ; désignons cette fonction par U(91, 99,
 
 qp), cette fonction des paramètres de position, dont le second membre de l'équation précédente est la dérivée par rapport au temps, est alors égale à la dérivée
 
@@ -6848,17 +6285,13 @@ Les systèmes qui jouissent de cette propriété se nomment des systèmes conser
 
 Remarque.
 
-Un système de forces peut être conservatif avant les liaisons ou en vertu des liaisons, mais s'il l'est avant les liaisons il le sera a fortiori moyennant les liaisons : en effet, s'il existe une fonction dont la variation représente le travail quand les coordonnées sont indépendantes, cette fonction, où les coordonnées des différents points deviendront fonctions des quantités q1, q2
+Un système de forces peut être conservatif avant les liaisons ou en vertu des liaisons, mais s'il l'est avant les liaisons il le sera *a fortiori* moyennant les liaisons : en effet, s'il existe une fonction dont la variation représente le travail quand les coordonnées sont indépendantes, cette fonction, où les coordonnées des différents points deviendront fonctions des quantités q1, q2
 
 qp pour des déplacements particularisés du système, représentera le travail relatif à ces déplacements partiels du système.
 
 Exemple
 
-: Dans le cas de la pesanteur, si l'axe des z est vertical descendant et si les coordonnées sont rectangulaires, les différents points matériels du système,
-
-[p. 172]
-
-de coordonnées xyz
+: Dans le cas de la pesanteur, si l'axe des z est vertical descendant et si les coordonnées sont rectangulaires, les différents points matériels du système, [p. 172] de coordonnées xyz
 
 x' y' z'
 
@@ -6888,11 +6321,7 @@ Soit, sans figure, MM'une portion de trajectoire MB dans un mouvement regardé c
 
 Soit d'ailleurs P l'une des positions de la masse mobile qui à l'époque t + 0 serait compatible avec les liaisons envisagées à l'époque t + 0 on aura, pour exprimer l'équilibre de Dalembert par le théorème du travail virtuel la condition à l'égard des déplacements virtuels M " P :
 
-ΣΜ.ΜΗ.Μ " P.cos PM "Ἢ≤0,
-
-[p. 173]
-
-Joignons le point H au point P, le triangle PMH nous donne, d'après une propriété bien connue des triangles :
+ΣΜ.ΜΗ.Μ " P.cos PM "Ἢ≤0, [p. 173] Joignons le point H au point P, le triangle PMH nous donne, d'après une propriété bien connue des triangles :
 
 2
 
@@ -6924,9 +6353,7 @@ Le postulat de Dalembert ne nous dit rien de plus.
 
 Il nous faut définir ce que nous appelons le cours naturel des choses.
 
-[p. 174]
-
-Il faut avouer que nous ne sommes plus ici guidés que par de vagues analogies.
+[p. 174] Il faut avouer que nous ne sommes plus ici guidés que par de vagues analogies.
 
 Nous avons défini déjà le cours naturel des choses qui plaît au mécanicien et qui s'est invinciblement imposé à l'esprit humain après le succès du déterminisme astronomique.
 
@@ -6956,9 +6383,7 @@ dn
 
 dt'
 
-[p. 175]
-
-respectivement
+[p. 175] respectivement
 
 : l'accélération normale ou centripète et l'accélération tangentielle. Comme le premier vecteur coupe l'axe, le moment de la force d'inertie par rapport à l'axe ne dépend évidemment que du second vecteur ; si m est la masse concentrée sur le point en mouvement, ce moment est :
 
@@ -7012,7 +6437,6 @@ F
 
 m
 
-#### X
 
 (massse)
 
@@ -7024,9 +6448,7 @@ linéaire)
 
 sauf à y remplacer la masse du solide par Emr² : moment d'inertie du solide, l'accélération linéaire par l'accélération angulaire, et la force par le moment des forces agissant sur le solide tournant.
 
-[p. 176]
-
-CHAPITRE
+[p. 176] CHAPITRE
 
 #### III
 
@@ -7058,11 +6480,7 @@ Les principes de Dalembert et de Lagrange permettent de former un système d'éq
 
 En ce cas, les méthodes que Lagrange a déduites du principe de Dalembert et qui réduisent le problème à l'intégration d'équations différentielles ordinaires ne s'appliquent plus.
 
-Cependant, dans un cas comme dans l'autre, les problèmes
-
-[p. 177]
-
-généraux et abstraits de la Mécanique rationnelle se ramènent à des problèmes classés et définis de l'analyse mathématique.
+Cependant, dans un cas comme dans l'autre, les problèmes [p. 177] généraux et abstraits de la Mécanique rationnelle se ramènent à des problèmes classés et définis de l'analyse mathématique.
 
 Quant aux problèmes types de la Mécanique rationnelle, presque toujours suggérés par un problème physique réel, ils ne sont cependant qu'une image réduite de ces problèmes réels beaucoup plus complexes, et ce n'est que dans une première approximation souvent fort insuffisante que l'on peut admettre l'équivalence du problème naturel posé et du problème rationnel destiné à le remplacer.
 
@@ -7088,9 +6506,7 @@ ANDRADE.
 
 12
 
-[p. 178]
-
-Xdx + Ydy + Zdz)
+[p. 178] Xdx + Ydy + Zdz)
 
 Mo prise le long de cette courbe.
 
@@ -7142,9 +6558,7 @@ REMARQUES.
 
 I. Les positions d'équilibre, avec une fonction U des forces, sont telles que :
 
-[p. 179]
-
-U = 0,
+[p. 179] U = 0,
 
 дх
 
@@ -7194,9 +6608,7 @@ q = q2 + λ
 
 q = q + λP U devient alors une fonction U des λ.
 
-[p. 180]
-
-Par hypothèse la différence :
+[p. 180] Par hypothèse la différence :
 
 U (0, 0,... 0) — U (λι, λα,... λ)
 
@@ -7246,11 +6658,7 @@ En effet, s'il en était autrement, un moment serait arrivé où quelques. A att
 
 Συ 09
 
-Or le second membre de cette égalité comprend trois parties :
-
-[p. 181]
-
-les deux dernières sont positives, mais moindres que
+Or le second membre de cette égalité comprend trois parties : [p. 181] les deux dernières sont positives, mais moindres que
 
 ; la première partie est négative, mais sa valeur absolue dépasse ɛe ; le second membre serait négatif, ce qui serait absurde, car
 
@@ -7278,23 +6686,18 @@ REMARQUE.
 
 Toutes les fois que la fonction U est maxima à l'égard des p variables q1, q2... qp
 
-, en la position d'équilibre correspondante, le renforcement des liaisons renforce non seulement l'équilibre mais encore sa stabilité, car si la valeur de la fonction est un maximum isolé pour les valeurs q₁ °, q₂ ･･･ à l'égard de variations générales des q elle sera a fortiori maxima pour les mêmes valeurs, à l'égard de variations restreintes par de nouvelles liaisons établies entre les variations des quantités q.
+, en la position d'équilibre correspondante, le renforcement des liaisons renforce non seulement l'équilibre mais encore sa stabilité, car si la valeur de la fonction est un maximum isolé pour les valeurs q₁ °, q₂ ･･･ à l'égard de variations générales des q elle sera *a fortiori* maxima pour les mêmes valeurs, à l'égard de variations restreintes par de nouvelles liaisons établies entre les variations des quantités q.
 
 Je me propose de montrer que cet effet du renforcement des liaisons doit être considéré comme intimement lié, en général, à l'existence d'une fonction des forces.
 
 Je montrerai en effet, tout à l'heure, que l'on peut créer des problèmes où, en l'absence d'une fonction des forces, le renforcement des liaisons détruira la stabilité de l'équilibre. Pour cela j'étudierai d'abord la question connexe suivante.
 
-0
-
-[p. 182]
-
-3. — Impossibilité d'une composition des stabilités
+0 [p. 182] 3. — Impossibilité d'une composition des stabilités
 
 en l'absence de fonctions des forces.
 
 Soient, définies par leurs composantes, deux forces :
 
-#### X
 
 F aux composantes Y
 
@@ -7322,11 +6725,7 @@ la fonction très simple :
 
 (ax² + 2bxy + су²), avec la supposition que a, c, ac — b² sont trois quantités positives ; soit d'autre part
 
-la fonction ;
-
-[p. 183]
-
-=- [a'x² + 2b'xy + c'y²], avec les suppositions analogues que a', c', a'c'- b2 sont trois quantités positives.
+la fonction ; [p. 183] =- [a'x² + 2b'xy + c'y²], avec les suppositions analogues que a', c', a'c'- b2 sont trois quantités positives.
 
 Dans ces conditions l'étude élémentaire des équations du second degré nous dit que les fonctions o et & sont l'une et l'autre maxima pour :
 
@@ -7336,7 +6735,6 @@ y = 0.
 
 Prenons alors a etẞ : deux constantes positives, et définissons une force F par ses composantes
 
-#### X
 
 α
 
@@ -7374,9 +6772,7 @@ y remplacé par y√ß, on ramène ces équations à celles du mouvement d'une f
 
 Pour une raison analogue, l'origine des coordonnées est encore une position d'équilibre stable de la fonction 4.
 
-[p. 184]
-
-unité sous l'action de la résultante des forces Fet F '.
+[p. 184] unité sous l'action de la résultante des forces Fet F '.
 
 Ce mouvement plan dépend des équations différentielles LINÉAIRES
 
@@ -7414,9 +6810,7 @@ y = hert ;
 
 get h désignant ici des constantes calculables au moyen de la constante r ; or celle-ci est, tous calculs faits, définie par l'équation bicarrée :[^p184-1][^p184-2]
 
-[p. 185]
-
-b
+[p. 185] b
 
 INTERMÉDIAIRE entre
 
@@ -7476,11 +6870,7 @@ Soient maintenant
 
 x' = x + u',
 
-y' = y₁ + v', les coordonnées d'un second point mobile M'sur lequel agit la force F' aux composantes X' et Y ' :
-
-[p. 186]
-
-1.20
+y' = y₁ + v', les coordonnées d'un second point mobile M'sur lequel agit la force F' aux composantes X' et Y ' : [p. 186] 1.20
 
 X=
 
@@ -7514,7 +6904,6 @@ d'u
 
 dav
 
-#### X
 
 m
 
@@ -7560,11 +6949,7 @@ dav
 
 et la question devient identique à la précédente.
 
-Donc, en choisissant les quantités a, b, c, a ', b ', c', à l'égard des quantités positives α, β, λ et μ, comme on l'a vu, nous
-
-[p. 187]
-
-serons sûrs que la position d'équilibre
+Donc, en choisissant les quantités a, b, c, a ', b ', c', à l'égard des quantités positives α, β, λ et μ, comme on l'a vu, nous [p. 187] serons sûrs que la position d'équilibre
 
 : u = 0, v = 0, est une position d'équilibre instable à l'égard du système actuel, qui n'est autre que le système primitif de deux points libres dans un plan, système dans lequel on a établi la liaison nouvelle :
 
@@ -7590,11 +6975,7 @@ Cette définition dans le cas d'une force mutuelle variant avec la distance et d
 
 En raison de la réserve nécessaire que nous signalons, nous nous limiterons ici aux propriétés des systèmes isolés possédant un nombre limité de points matériels.
 
-Sa définition même montre qu'un système isolé jouit de
-
-[p. 188]
-
-cette propriété, que les forces qui le sollicitent se font à chaque instant équilibre sur le système supposé rigidifié en sa position actuelle.
+Sa définition même montre qu'un système isolé jouit de [p. 188] cette propriété, que les forces qui le sollicitent se font à chaque instant équilibre sur le système supposé rigidifié en sa position actuelle.
 
 Cette seconde propriété permettrait de donner une seconde définition d'un système isolé ; la seconde définition paraît au premier abord plus générale que la premiere, mais si on observe que n points donnent lieu à n(n — 1) distances mu2 tuelles, on verra aisément qu'en ayant égard aux six conditions de l'équilibre, les deux définitions pourront être équivalentes dès que le nombre n des points matériels dépasse 3.
 
@@ -7686,9 +7067,7 @@ i
 
 Les trois premières formules montrent que le centre de gravité du système est, dans l'espace absolu, animé d'un mouvement rectiligne et uniforme.
 
-[p. 189]
-
-Les trois dernières formules peuvent s'écrire
+[p. 189] Les trois dernières formules peuvent s'écrire
 
 d
 
@@ -7750,11 +7129,7 @@ Ainsi donc, si on possède une orientation fixe (orientation absolue), un systè
 
 Il n'y a d'exception que si le moment des quantités de mouvement, par rapport à un système de coordonnées d'orientation fixe ayant le centre de gravité pour origine, se trouvait nul.
 
-Un point fixe en plus ferait connaître l'horloge si le centre de gravité n'était pas fixe, mais si le centre de gravité est
-
-[p. 190]
-
-immobile et en même temps si la constante des aires est nulle dans le mouvement relatif au centre de gravité, le système ne fournit plus d'horloge par l'emploi des théorèmes généraux qui précèdent.
+Un point fixe en plus ferait connaître l'horloge si le centre de gravité n'était pas fixe, mais si le centre de gravité est [p. 190] immobile et en même temps si la constante des aires est nulle dans le mouvement relatif au centre de gravité, le système ne fournit plus d'horloge par l'emploi des théorèmes généraux qui précèdent.
 
 6.
 
@@ -7814,7 +7189,6 @@ dtα),
 
 μ = mz
 
-#### X
 
 V = 2mx
 
@@ -7826,9 +7200,7 @@ dt
 
 dt
 
-[p. 191]
-
-Nous trouverons ainsi
+[p. 191] Nous trouverons ainsi
 
 1 = pA — qF – E + λ,
 
@@ -7888,11 +7260,7 @@ Les équations I donnent les p, q, r, qui, portés dans II, donneront un systèm
 
 Nous verrons plus loin (art. 8) que si l'on connaît l'étal initial des forces et si le nombre des points du système atteint 3, on peut déterminer les constantes po, qo, ro et par suite utiliser le système (I, II). Ainsi on a le théorème suivant :
 
-Si on possède une horloge absolue, si l'on connaît les masses composant un système isolé d'au moins trois points et si l'on connaît de plus l'état initial des forces, on peut déduire de la simple observation des mouvements relatifs de
-
-[p. 192]
-
-ces masses par rapport à un trièdre relatif arbitraire, ayant le centre de gravité pour origine, l'orientation de l'espace absolue à chaque instant, par rapport à celle du trièdre relatif.
+Si on possède une horloge absolue, si l'on connaît les masses composant un système isolé d'au moins trois points et si l'on connaît de plus l'état initial des forces, on peut déduire de la simple observation des mouvements relatifs de [p. 192] ces masses par rapport à un trièdre relatif arbitraire, ayant le centre de gravité pour origine, l'orientation de l'espace absolue à chaque instant, par rapport à celle du trièdre relatif.
 
 REMARQUE.
 
@@ -7920,11 +7288,7 @@ son orientation primitive à l'égard de l'espace absolu.
 
 Mais alors que devient le proverbe d'après lequel un chat retombe toujours sur ses pattes ? Après avoir posé la question, le célèbre physiologiste Marey institua sur la chute des chats les pittoresques expériences qui ont de nouveau attiré l'attention sur les conditions d'applicabilité des théorèmes généraux de la dynamique des systèmes.
 
-L'interdiction qui avait à bon droit paru suspecte à Marey tenait, en effet, à une erreur propagée par un ouvrage, d'ailleurs estimable, de mécanique. Non seulement l'erreur
-
-[p. 193]
-
-fut immédiatement reconnue et soulignée, mais différents géomètres s'ingénièrent à fournir des exemples dans lesquels, sans sortir du domaine spéculatif de la mécanique rationnelle, on définissait des systèmes qui, après avoir subi une déformation, retrouvaient avec leur configuration primitive une orientation nouvelle.
+L'interdiction qui avait à bon droit paru suspecte à Marey tenait, en effet, à une erreur propagée par un ouvrage, d'ailleurs estimable, de mécanique. Non seulement l'erreur [p. 193] fut immédiatement reconnue et soulignée, mais différents géomètres s'ingénièrent à fournir des exemples dans lesquels, sans sortir du domaine spéculatif de la mécanique rationnelle, on définissait des systèmes qui, après avoir subi une déformation, retrouvaient avec leur configuration primitive une orientation nouvelle.
 
 Le proverbe relatif à la chute des chats conserve donc sa validité, et Cyrano isolé dans l'espace eût pu, par ses gesticulations, sa cuirasse et son aimant, sinon s'avancer vers la lune, du moins trouver l'orientation qui lui eût permis de la regarder.
 
@@ -7940,11 +7304,7 @@ Le théorème s'étend encore au cas d'un système soumis à des forces constamm
 
 ANDRADE.
 
-13
-
-[p. 194]
-
-système de repères d'orientation fixe appuyé sur le centre de gravité.
+13 [p. 194] système de repères d'orientation fixe appuyé sur le centre de gravité.
 
 Si nous prenons alors des axes de directions fixes ayant pour origine le centre de gravité, la démonstration de M. Painlevé peut se résumer dans les remarques suivantes :
 
@@ -7976,9 +7336,7 @@ Cette remarque, rapprochée de la première, nous montre que les coordonnées x,
 
 t, sont des fonctions paires de t- ; elles ont donc même valeur pour t = 0 et pour t = t₁ ; donc à l'instant t, le système a repris sa position initiale par rapport à des axes de directions fixes passant par son centre de gravité.
 
-[p. 195]
-
-8.
+[p. 195] 8.
 
 Les systèmes isolés simultanés.
 
@@ -8052,9 +7410,7 @@ w' = dt + pv — qu ;
 
 dt
 
-[p. 196]
-
-Soient encore A, B, C les projections sur les axes relatifs de la force absolue appliquée à la masse mi ; pour un même système S ; ces 3n ; éléments satisfont à six conditions linéaires et dépendent par conséquent de 3n ; -6 arbitraires.
+[p. 196] Soient encore A, B, C les projections sur les axes relatifs de la force absolue appliquée à la masse mi ; pour un même système S ; ces 3n ; éléments satisfont à six conditions linéaires et dépendent par conséquent de 3n ; -6 arbitraires.
 
 Désignons enfin par
 
@@ -8098,9 +7454,7 @@ p (px + qy + rz) -N
 
 + xzi- py ?][^p196-1]
 
-[p. 197]
-
-nous aurons trois nouvelles équations de condition renfermant les dérivées troisièmes par rapport à t des coordonnées observables.
+[p. 197] nous aurons trois nouvelles équations de condition renfermant les dérivées troisièmes par rapport à t des coordonnées observables.
 
 d26
 
@@ -8128,9 +7482,7 @@ u
 
 = P,[^p197-1][^p197-2]
 
-[p. 198]
-
-sur les forces absolues qui gouvernent le système solaire supposé isolé disparaissaient, sauf le fait de la mutualité des forces, nous ne posséderions aucun moyen ni de vérifier l'hypothèse précédente, ni de connaître à la fois l'horloge absolue et l'orientation absolue par l'observation de mouvements relatifs continus.
+[p. 198] sur les forces absolues qui gouvernent le système solaire supposé isolé disparaissaient, sauf le fait de la mutualité des forces, nous ne posséderions aucun moyen ni de vérifier l'hypothèse précédente, ni de connaître à la fois l'horloge absolue et l'orientation absolue par l'observation de mouvements relatifs continus.
 
 Mais si on possédait une horloge absolue et si l'on connaissait l'état initial des forces, on peut encore tirer parti du système unique isolé. Soit en effet observé le phénomène des mouvements, mouvements relatifs rapportés à des axes relatifs passant par le centre de gravité.
 
@@ -8150,11 +7502,7 @@ Nous pouvons aller plus loin
 
 Remarque.
 
-Le but de cet article est de montrer quelle énorme complexité offrirait la dynamique du système solaire, si l'observateur se voyait tout à coup privé du double secours
-
-[p. 199]
-
-que les étoiles apportent à l'arpentage céleste et au contrôle du temps, alors même que nous pourrions nous appuyer sur la loi de Newton relative aux attractions mutuelles du soleil et des planètes.
+Le but de cet article est de montrer quelle énorme complexité offrirait la dynamique du système solaire, si l'observateur se voyait tout à coup privé du double secours [p. 199] que les étoiles apportent à l'arpentage céleste et au contrôle du temps, alors même que nous pourrions nous appuyer sur la loi de Newton relative aux attractions mutuelles du soleil et des planètes.
 
 Pour un système isolé de n points une horloge absolue vérifie l'explication des mouvements relatifs du système au moyen de 3n — 3 équations de condition lorsque les forces mutuelles sont connues.
 
@@ -8176,11 +7524,7 @@ Cependant, quand il s'agit de comparaisons d'observations très éloignées, il 
 
 Voici la règle de Laplace :
 
-« Si à un instant quelconque, et sur un plan passant par le
-
-[p. 200]
-
-centre du soleil, on mène, de ce point, des droites aux nœuds ascendants des orbites planétaires avec ce dernier plan ;
+« Si à un instant quelconque, et sur un plan passant par le [p. 200] centre du soleil, on mène, de ce point, des droites aux nœuds ascendants des orbites planétaires avec ce dernier plan ;
 
 si l'on prend sur ces droites, à partir du centre du soleil, des segments qui représentent les tangentes des inclinaisons des orbes sur ce plan ; si l'on suppose ensuite aux extrémités de ces segments, des masses proportionnelles aux masses de ces planètes,
 
@@ -8210,9 +7554,7 @@ Ce mouvement étant supposé rectiligne, soit de lui-même, soit grâce à la si
 
 N trigonométrique) est périodique et admet une période T =
 
-[p. 202]
-
-(sans figure) est défini comme étant le point de projection sur l'axe OX du premier mobile M dont les coordonnées sont xet y.
+[p. 202] (sans figure) est défini comme étant le point de projection sur l'axe OX du premier mobile M dont les coordonnées sont xet y.
 
 La vitesse du point P à un instant t quelconque est :
 
@@ -8248,11 +7590,7 @@ et est indépendante des conditions initiales du mouvement, c'est la propriété
 
 Ces résultats sont bien connus mais fort importants pour les principes de la mesure du temps.
 
-En voici d'autres dont la connaissance est un peu moins
-
-[p. 203]
-
-répandue, mais d'une grande importance aussi pour la chronométrie.
+En voici d'autres dont la connaissance est un peu moins [p. 203] répandue, mais d'une grande importance aussi pour la chronométrie.
 
 Nous nous y arrêterons avec quelques détails.
 
@@ -8298,7 +7636,6 @@ x3
 
 + 1 × 2 × 3
 
-#### X
 
 1+-+
 
@@ -8312,9 +7649,7 @@ On voit immédiatement que la courbe spirale possède la propriété suivante, g
 
 Nous appellerons mouvement spiral uniforme le mouvement d'un mobile M sur une courbe spirale décrite dans le sens où les rayons vecteurs sont décroissants, et dans lequel la vitesse angulaire N est supposée constante.
 
-[p. 204]
-
-Le sens des rotations positives étant toujours l'angle droit décrit de l'axe OX vers OY, nous supposerons le mouvement spiral décrit dans le sens négatif.
+[p. 204] Le sens des rotations positives étant toujours l'angle droit décrit de l'axe OX vers OY, nous supposerons le mouvement spiral décrit dans le sens négatif.
 
 Toutes les courbes semblables à une spirale sont encore des spirales ; cette remarque permet d'obtenir immédiatement les résultats suivants
 
@@ -8386,7 +7721,6 @@ Y
 
 J
 
-#### M
 
 1
 
@@ -8394,7 +7728,6 @@ A 0
 
 P
 
-#### X
 
 B
 
@@ -8436,9 +7769,7 @@ AB
 
 On déduit de là, en remarquant que PM = y :
 
-[p. 206]
-
-N
+[p. 206] N
 
 W
 
@@ -8506,7 +7837,6 @@ N2
 
 jr
 
-#### X
 
 sini
 
@@ -8516,7 +7846,6 @@ En vertu de la valeur de W₁, cette valeur de j peut s'écrire :
 
 N
 
-#### X
 
 2
 
@@ -8550,7 +7879,6 @@ N2
 
 jx
 
-#### X
 
 W.
 
@@ -8558,9 +7886,7 @@ sini
 
 sin i
 
-[p. 207]
-
-La loi d'accélération est donc de la forme
+[p. 207] La loi d'accélération est donc de la forme
 
 (2)
 
@@ -8618,11 +7944,7 @@ k2
 
 En effet, après l'identification des deux formules des accélérations, les éléments Net i du mouvement spiral étant déterminés on saura trouver par les conditions initiales du mouvement de P les conditions initiales du mouvement spiral uniforme, c'est-à-dire en somme le point de départ M. du mouvement spiral plan dont la projection fournira le mouvement cherché.
 
-Un seul élément reste à déterminer, c'est la réduction pro-
-
-[p. 208]
-
-portionnelle des semi-amplitudes, ou encore la liaison de i avec le coefficient d'amortissement.
+Un seul élément reste à déterminer, c'est la réduction pro-[p. 208]portionnelle des semi-amplitudes, ou encore la liaison de i avec le coefficient d'amortissement.
 
 Or, la considération de deux positions infiniment voisines du mobile animé du mouvement spiral nous donne de suite :
 
@@ -8676,11 +7998,7 @@ Si on considère dans le voisinage d'un point M d'une masse physique continue en
 
 ANDRADE.
 
-14
-
-[p. 210]
-
-varie, les pressions exercées sur ces éléments de surface de la calotte restent localisées et définies sur ces éléments. Nous compterons comme pressions positives des tractions.
+14 [p. 210] varie, les pressions exercées sur ces éléments de surface de la calotte restent localisées et définies sur ces éléments. Nous compterons comme pressions positives des tractions.
 
 CONSÉQUENCES.
 
@@ -8714,11 +8032,7 @@ C'est la loi du tétraèdre de Cauchy.
 
 La distribution des tractions sur les éléments de surface de toute orientation autour d'un point M dépend donc des coefficients T
 
-; ces derniers sont au nombre de 9, mais la,
-
-[p. 211]
-
-rigidification d'un parallélipipède infiniment petit dont les arêtes sont parallèles aux axes et le théorème des moments sur le centre de gravité de ce parallélipipède traduisent l'équilibre de ce parallélipipède évanouissant par les conditions :
+; ces derniers sont au nombre de 9, mais la, [p. 211] rigidification d'un parallélipipède infiniment petit dont les arêtes sont parallèles aux axes et le théorème des moments sur le centre de gravité de ce parallélipipède traduisent l'équilibre de ce parallélipipède évanouissant par les conditions :
 
 TT ;
 
@@ -8778,9 +8092,7 @@ de pressions, corps élastiques.
 
 Les phénomènes de déformation moléculaire sont des phénomènes physiques très complexes, ils se simplifient dans l'étude des déformations élastiques ; dans le voisinage d'une première position d'équilibre, dans la conception de molécules physiques séparées, les phénomènes élastiques s'expliquent par l'action mécanique des molécules les unes sur les autres, ces forces mutuelles sensiblement appliquées aux centres de gravité des particules dépendent de distances mutuelles des différents couples de molécules et d'une fonction des distances.
 
-[p. 212]
-
-On suppose, en outre, que les déplacements élastiques ont des projections sur les axes dont les petites variations peuvent se calculer comme les petits accroissements d'une fonction continue définie dans une région volumétrique comprenant les particules du milieu, et enfin on suppose que les vitesses ou dérivées partielles de cette fonction facteur ont un champ de variation beaucoup plus faible que le rayon d'activité moléculaire.
+[p. 212] On suppose, en outre, que les déplacements élastiques ont des projections sur les axes dont les petites variations peuvent se calculer comme les petits accroissements d'une fonction continue définie dans une région volumétrique comprenant les particules du milieu, et enfin on suppose que les vitesses ou dérivées partielles de cette fonction facteur ont un champ de variation beaucoup plus faible que le rayon d'activité moléculaire.
 
 En transposant ces hypothèses dans la conception de la matière continue, on établit aisément que la fonction des forces moléculaires pour de très petites déformations est une intégrale de volume aux éléments dr, étendue au volume du corps envisagé dans le premier état d'équilibre (équilibre naturel), c'est-à-dire une expression de la forme fwdr.
 
@@ -8844,9 +8156,7 @@ x, y, z
 
 qui sont au nombre de 6.
 
-[p. 213]
-
-Cette décomposition ne peut se faire d'ailleurs que d'une seule manière ; elle dépend de 27 coefficients physiques en général, de 21 coefficients dans le cas où l'état d'équilibre naturel est strictement moléculaire, ou quand les forces sont centrales (mutuelles et fonctions de la simple distance), elle dépend enfin de 15 coefficients dans les deux cas réunis.
+[p. 213] Cette décomposition ne peut se faire d'ailleurs que d'une seule manière ; elle dépend de 27 coefficients physiques en général, de 21 coefficients dans le cas où l'état d'équilibre naturel est strictement moléculaire, ou quand les forces sont centrales (mutuelles et fonctions de la simple distance), elle dépend enfin de 15 coefficients dans les deux cas réunis.
 
 Si le corps est homogène et isotrope (non cristallisé), les 27, 21, 15 coefficients se réduisent à 3, 2 ou 1 coefficients.
 
@@ -8904,9 +8214,7 @@ qui admet un régime de pressions.
 
 En considérant l'équilibre d'un parallélipipède, d'arêtes parallèles aux axes, de volume de et soumis à une force volumétrique dont les composantes sont Χατ, Υατ, Ζατ, on trouve :
 
-[p. 214]
-
-NTT
+[p. 214] NTT
 
 3+
 
@@ -9014,9 +8322,7 @@ E
 
 2 (λ + μ)
 
-[p. 215]
-
-Autre application. — Les mêmes équations appliquées à une sphère pleine conduiraient de même à un coefficient d'élasticité radiale égal à 32 + 2μ.
+[p. 215] Autre application. — Les mêmes équations appliquées à une sphère pleine conduiraient de même à un coefficient d'élasticité radiale égal à 32 + 2μ.
 
 6.
 
@@ -9082,9 +8388,7 @@ Voici une application assez curieuse :
 
 Nous verrons que dans les machines portatives à mesurer le temps ce sont les vibrations d'un ressort qui règlent la rapidité des mouvements (du moins quand on fait abstraction des perturbations) ; si donc on copiait servilement une montre en l'amplifiant dans le rapport K, la nouvelle montre mar querait un temps K fois trop long.
 
-[p. 216]
-
-Cette remarque est fondée sur les considérations d'homogénéité dans les équations J où on suppose les forces volumétriques nulles. En voici une justification plus élémentaire fondée sur la loi de Hooke.
+[p. 216] Cette remarque est fondée sur les considérations d'homogénéité dans les équations J où on suppose les forces volumétriques nulles. En voici une justification plus élémentaire fondée sur la loi de Hooke.
 
 Les tensions d'un ressort de même matière sont proportionnelles aux déformations relatives ; or celles-ci ne varient pas par K ; les attaches superficielles de ressorts aux corps qu'ils entraînent ou balanciers sont amplifiées dans le rapport K², les balanciers de même matière ont donc des moments d'inertie autour de leurs axes augmentés dans le rapport K³ ; d'autre part les actions du ressort augmentées dans le rapport K² ont un bras de levier K fois plus grand et produisent un moment K³ fois plus grand ; dès lors l'équation du mouvement du balancier :
 
@@ -9140,9 +8444,7 @@ Ainsi apparaît dans la mécanique la nécessité de tenir compte des phénomèn
 
 لا
 
-[p. 217]
-
-Deux cas sont particulièrement intéressants.
+[p. 217] Deux cas sont particulièrement intéressants.
 
 1º Cas où la température du fluide peut être regardée comme constante pendant le mouvement ; 2º cas où on étudie les vibrations petites et rapides d'un gaz. Les effets thermiques se produisent localisés dans le voisinage immédiat du point du milieu et la faible conductibilité de gaz permet alors de supposer que la relation entre pet pest celle qui convient aux transformations du gaz qui ont lieu sans échange de chaleur avec l'extérieur.
 
@@ -9186,11 +8488,7 @@ ze
 
 ১x '
 
-ах jouit alors des propriétés suivantes où nous appelons : ligne de
-
-[p. 218]
-
-tourbillon à l'époque t, une ligne dont la tangente en chaque point est dirigée suivant le vecteur tourbillon en ce point :
+ах jouit alors des propriétés suivantes où nous appelons : ligne de [p. 218] tourbillon à l'époque t, une ligne dont la tangente en chaque point est dirigée suivant le vecteur tourbillon en ce point :
 
 1º Une ligne de tourbillon à l'époque initiale est encore une ligne de tourbillon à toute époque ;
 
@@ -9210,17 +8508,12 @@ La flexion de ces pièces joue un rôle important dans l'étude de l'horlogerie 
 
 On définit d'abord une pièce dont la fibre moyenne est plane et qui serait engendrée par le mouvement d'une section plane dont le centre de gravité aérolaire décrit la fibre moyenne ; le plan de cette section reste perpendiculaire au plan de la fibre moyenne dont la normale coïncide toujours avec une droite fixe de la section dont le déplacement générateur de la pièce est alors tout à fait guidé.
 
-Dans la déformation élastique de flexion simple, la fibre moyenne reste plane ; la section reste plane et normale à la fibre ; chaque section a tourné par rapport à une section
-
-[p. 219]
-
-voisine autour d'une perpendiculaire au plan de la fibre moyenne menée par le centre de gravité de la section.
+Dans la déformation élastique de flexion simple, la fibre moyenne reste plane ; la section reste plane et normale à la fibre ; chaque section a tourné par rapport à une section [p. 219] voisine autour d'une perpendiculaire au plan de la fibre moyenne menée par le centre de gravité de la section.
 
 On fait alors la réduction de Poinsot pour les forces élastiques dues aux allongements produits par la rotation de flexion sur les fibres de la pièce parallèles à la fibre moyenne, ces forces étant considérées comme produites par les attaches des fibres à leurs pieds sur la section et situées d'un même côté de cette section, elles formeront un système qui sur un corps rigide serait équivalent aux forces agissant sur les divers points de la pièce du côté précité de la section ; si la section admet le plan de la fibre moyenne comme plan de symétrie, la réduction de Poinsot, faite sur les tensions et contractions des fibres, conduit à un couple unique M dont l'axe est perpendiculaire au plan de la fibre moyenne (axe de flexion) et dont le moment sera désigné par M.
 
 La déformation de la pièce se traduit alors par un change-
 
-#### M
 
 ΕΙ'
 
@@ -9246,13 +8539,8 @@ dont la valeur sera égale à
 
 r
 
-ro
+ro [p. 220] ro de courbure de la pièce à partir de sa courbure naturelle savoir
 
-[p. 220]
-
-ro de courbure de la pièce à partir de sa courbure naturelle savoir
-
-#### M
 
 ΕΙ
 
@@ -9264,9 +8552,7 @@ ro Mest constant et égal au moment sur l'encastrement fixe.
 
 On déduit en multipliant par l'élément ds de la longueur de la fibre moyenne et en intégrant tout le long de la longueur L du ressort :
 
-#### L
 
-#### L
 
 ds
 
@@ -9280,9 +8566,7 @@ M L.
 
 0 Or, à cause des deux encastrements, la quantité :
 
-#### L
 
-#### L
 
 ds
 
@@ -9296,11 +8580,9 @@ ro
 
 On aura donc
 
-#### M
 
 u
 
-#### L
 
 ΕΙ
 
@@ -9318,23 +8600,18 @@ Toutefois, si on néglige cette perturbation, sauf à en indiquer la valeur dans
 
 ΕΙ Xu ;
 
-#### L
 
 A
 
 accélération angulaire =
 
-[p. 221]
-
-d'où on conclut à l'isochronisme approché du mouvement d'un balancier dont le ressort, en un de ses encastrements, resterait soumis à l'action d'un couple ; la durée de l'oscillation simple résulte de l'équation précédente et elle est (voir Mouvements oscillatoires, page 201)
+[p. 221] d'où on conclut à l'isochronisme approché du mouvement d'un balancier dont le ressort, en un de ses encastrements, resterait soumis à l'action d'un couple ; la durée de l'oscillation simple résulte de l'équation précédente et elle est (voir Mouvements oscillatoires, page 201)
 
 T= VAL
 
 Remarque. — On vérifiera sans peine sur cette formule la remarque faite plus haut sur la copie servile d'une montre agrandie à échelle linéaire K et son effet sur la marche de la montre.
 
-[p. 222]
-
-[p. 223]
+[p. 222] [p. 223]
 
 ## Troisième Partie
 
@@ -9354,11 +8631,7 @@ S'il est une idée familière à tous, pour ainsi dire primordiale à l'égard d
 
 il y a une réalité physique beaucoup plus complexe qu'il ne semble au premier abord.
 
-Dans la première partie de cet ouvrage nous avons insisté sur l'ensemble des faits généraux qui viennent se grouper dans nos idées et dans le souvenir de nos sensations par l'emploi de ces simples mots : la droite joignant deux points ; nous avons signalé que, derrière ces mots, vit une notion synthétique dans laquelle sont fondus ensemble le concept du
-
-[p. 224]
-
-mouvement et le concept d'un solide géométriquement invariable.
+Dans la première partie de cet ouvrage nous avons insisté sur l'ensemble des faits généraux qui viennent se grouper dans nos idées et dans le souvenir de nos sensations par l'emploi de ces simples mots : la droite joignant deux points ; nous avons signalé que, derrière ces mots, vit une notion synthétique dans laquelle sont fondus ensemble le concept du [p. 224] mouvement et le concept d'un solide géométriquement invariable.
 
 Au moment d'étudier les mesures physiques du temps et de l'étendue, nous verrons que cette reconnaissance qui nous a été éminemment utile pour étudier les fondements de la géométrie nous sera non moins précieuse pour comprendre à la fois la philosophie et la technique des procédés employés dans la mesure des étendues dont nous nous occuperons tout d'abord.
 
@@ -9376,9 +8649,7 @@ Ce procédé, douloureux pour l'œil, devait être rendu infiniment plus commode
 
 Ainsi ce simple problème, de géométrie pure semblait-il tout d'abord : tracer une droite joignant deux points, nous apparaît maintenant comme un problème physique dont la
 
-[p. 225]
-
-LES MESURES DES ÉTENDUES solution sera empruntée soit au mouvement de rotation d'un corps dur et indéformable, soit au phénomène d'équilibre du fil tendu, soit enfin au phénomène de la propagation rectiligne de la lumière.
+[p. 225] LES MESURES DES ÉTENDUES solution sera empruntée soit au mouvement de rotation d'un corps dur et indéformable, soit au phénomène d'équilibre du fil tendu, soit enfin au phénomène de la propagation rectiligne de la lumière.
 
 Tel est le mode expérimental toujours suivi pour le tracé d'une droite physique.
 
@@ -9396,11 +8667,7 @@ Tel est le procédé employé pour la mesure des grandes distances ; sa précisi
 
 ANDRADE.
 
-15
-
-[p. 226]
-
-mesures isolées, longueur de bases et angles, mais encore à la précision des mesures géodésiques et astronomiques qui soutiennent le repérage des systèmes de coordonnées locaux ou généraux.
+15 [p. 226] mesures isolées, longueur de bases et angles, mais encore à la précision des mesures géodésiques et astronomiques qui soutiennent le repérage des systèmes de coordonnées locaux ou généraux.
 
 Bien entendu la seule trigonométrie adoptée jusqu'ici pour la triangulation plane reste la trigonométrie euclidienne fondée sur la similitude.
 
@@ -9414,11 +8681,7 @@ probabilité
 
 des erreurs instrumentales dans des mesures nombreuses répétées en série pour chaque triangle ; on pourrait ainsi, bien avant d'avoir un triangle assez grand pour manifester par lui seul le déficit ou l'excès du triangle, être averti de l'un ou l'autre de ces deux cas.
 
-Quoi qu'il en soit, aucun phénomène physique n'a permis
-
-[p. 227]
-
-jusqu'à présent de définir un triangle physique capable de déceler que notre espace physique ne serait pas euclidien.
+Quoi qu'il en soit, aucun phénomène physique n'a permis [p. 227] jusqu'à présent de définir un triangle physique capable de déceler que notre espace physique ne serait pas euclidien.
 
 Dans cet ordre d'idées il sera intéressant de rechercher si l'on ne pourrait pas compenser l'absence de grands triangles physiques par des productions de phénomènes d'optique capables de rendre le même service ; mais nous nous contentons ici de poser une question qui est certainement prématurée aujourd'hui, car la traduction possible des phénomènes physiques dans un espace physique non euclidien n'a pas, à ma connaissance, été systématiquement poussée encore assez loin.
 
@@ -9430,11 +8693,7 @@ Ainsi donc les lois de l'équilibre des fluides, dont nous avons indiqué l'orig
 
 Enfin, à tout cela ajoutons : les procédés micrométriques pour les mesures des petites distances et l'étude de la réfraction atmosphérique pour corriger les visées et même pour contribuer au nivellement géodésique, alors nous aurons tout un cortège de méthodes reliées à la méthode géométrique de triangulation et qui toutes touchent, comme nous l'avons vu, au concept physique de la composition des mouvements et au concept de l'équilibre.
 
-Si enfin l'on songe que les ascensions droites ou distances angulaires employées en astronomie sont expérimentalement mesurées par l'emploi des horloges astronomiques marquant les heures de passage au méridien, on voit que toute mesure
-
-[p. 228]
-
-de distance repérée à la surface du globe met en jeu les concepts fondamentaux de la mécanique : les forces et les durées.
+Si enfin l'on songe que les ascensions droites ou distances angulaires employées en astronomie sont expérimentalement mesurées par l'emploi des horloges astronomiques marquant les heures de passage au méridien, on voit que toute mesure [p. 228] de distance repérée à la surface du globe met en jeu les concepts fondamentaux de la mécanique : les forces et les durées.
 
 Et alors s'évanouit
 
@@ -9460,9 +8719,7 @@ verniers,
 
 microscopes, vis micrométriques sont les analogues des chronographes dans la mesure du temps ; les uns comme les autres apprécient des fractions très petites de l'unité (seconde ou millimètre) ; les uns comme les autres exigent des appareils normaux reproduisant fidèlement soit le mètre, soit le temps solaire moyen : ainsi donc la conservation des longueurs comme celle des durées sont des problèmes de mécanique physique.
 
-[p. 229]
-
-CHAPITRE
+[p. 229] CHAPITRE
 
 #### II
 
@@ -9486,9 +8743,7 @@ L'emploi de cet instrument avait deux inconvénients :
 
 Deux astronomes français, Auzout et Picart, eurent l'idée d'employer des lunettes pour viser la position d'un astre avec exactitude ; l'axe optique ou de visée fut alors constitué par une croisée de fils fins et par un point purement géométrique dont la définition appartient à la théorie des lunettes, dont nous ferons d'abord un exposé sommaire en suivant la méthode de Gauss, un peu simplifiée par Bravais.
 
-[p. 230]
-
-2. — Propriétés des sytèmes optiques.
+[p. 230] 2. — Propriétés des sytèmes optiques.
 
 Nous envisageons avec Gauss, sous le nom de système optique, un ensemble de plusieurs surfaces sphériques homogènes et réfringentes dont les centres soient en ligne droite. Supposons d'abord le rayon lumineux incident et l'axe géométrique (droite des centres) situés dans un même plan. Soit AOX (sans figure) l'axe géométrique, et dans le plan du rayon et de l'axe ; un axe de coordonnés OY perpendiculaire au premier.
 
@@ -9522,9 +8777,7 @@ n r (1 — cost) + b' ;
 
 n En considérant des rayons couchés presque sur l'axe et
 
-[p. 231]
-
-LES MESURES DES ÉTENDUES
+[p. 231] LES MESURES DES ÉTENDUES
 
 l'angle
 
@@ -9592,7 +8845,6 @@ et l'égalité précédente donnera :
 
 n'- n b.
 
-#### M
 
 (2)
 
@@ -9612,9 +8864,7 @@ les centres respectifs de ces surfaces ;
 
 Soient nº, n'... n(x + 1), les indices de réfraction des μ + 2 milieux successifs par rapport au vide.
 
-[p. 232]
-
-Si les milieux extrêmes étaient les mêmes, on aurait :
+[p. 232] Si les milieux extrêmes étaient les mêmes, on aurait :
 
 n +1
 
@@ -9726,9 +8976,7 @@ N — M
 
 les calculs successifs des éléments des rayons successifs sont conduits alors par les relations de récurrence qui suivent :
 
-[p. 233]
-
-LES MESURES DES ÉTENDUES
+[p. 233] LES MESURES DES ÉTENDUES
 
 β' = β ° + u°b°,
 
@@ -9774,9 +9022,7 @@ Les crochets successifs d'un même groupe de quantités a jouissent de la propri
 
 α "... α) (α ' α "... ai+ 1) — (a, a'a "... a²+ 1) (α ' α "... a²) = (-1) +1. Rapprochons ce résultat des valeurs de g, h, k, I fournies par les relations 3 bis, savoir [^p233-1]
 
-[p. 234]
-
-3. — Image d'un point.
+[p. 234] 3. — Image d'un point.
 
 Soient po et q les coordonnées d'un point Po situé sur le rayon incident, nous aurons
 
@@ -9812,9 +9058,7 @@ n°l-k(po-No) n,
 
 p = N[^p234-1]
 
-[p. 235]
-
-LES MESURES DES ÉTENDUES
+[p. 235] LES MESURES DES ÉTENDUES
 
 y =
 
@@ -9884,9 +9128,7 @@ d'un système optique.
 
 Cherchons à réaliser les conditions G = 1 et H = 0 dont l'interprétation va être évidente, et cherchons les valeurs de
 
-[p. 236]
-
-Qet Q à adopter ; en désignant ces valeurs par E et E, on
+[p. 236] Qet Q à adopter ; en désignant ces valeurs par E et E, on
 
 0 trouvera
 
@@ -9992,9 +9234,7 @@ k ;
 
 k'
 
-[p. 237]
-
-et dans ce cas le calcul donne
+[p. 237] et dans ce cas le calcul donne
 
 G = 0,
 
@@ -10060,11 +9300,7 @@ on obtient une droite passant au même point :
 
 y = B｡).
 
-On obtient donc le même résultat que si le rayon initial se brise au point considéré et entre dans un milieu d'indice n,
-
-[p. 238]
-
-n- n
+On obtient donc le même résultat que si le rayon initial se brise au point considéré et entre dans un milieu d'indice n, [p. 238] n- n
 
 k pourvu que le rayon de la surface réfringenter soit : r = le rayon étant ici centrifuge.
 
@@ -10120,11 +9356,7 @@ F
 
 Fig. 27 bis.
 
-Cherchons (fig. 27bis) à trouver le rayon émergent correspondant au rayon incident ; soit 2 le point où le rayon incident coupe le plan principal mené par E. ; soit 3 le point où une
-
-[p. 239]
-
-parallèle au rayon incident menée par le foyer F. coupe le même plan ; la parallèle à l'axe menée par 2 coupe le second plan principal mené par E en 4 ; la parallèle à l'axe mené par 3 coupe le plan focal mené par F en 5 ; la droite qui réunit les points 4 et 5 donne le rayon émergent ; les points 2 et 4 sont l'image l'un de l'autre.
+Cherchons (fig. 27bis) à trouver le rayon émergent correspondant au rayon incident ; soit 2 le point où le rayon incident coupe le plan principal mené par E. ; soit 3 le point où une [p. 239] parallèle au rayon incident menée par le foyer F. coupe le même plan ; la parallèle à l'axe menée par 2 coupe le second plan principal mené par E en 4 ; la parallèle à l'axe mené par 3 coupe le plan focal mené par F en 5 ; la droite qui réunit les points 4 et 5 donne le rayon émergent ; les points 2 et 4 sont l'image l'un de l'autre.
 
 Cas d'un rayon incident passant par le point principal correspondant E. ; le rayon émergent passe alors par E et il est parallèle au rayon incident si nº = n. Dans le cas contraire on envisage un rayon parallèle au rayon incident mené par le foyer F. correspondant ; il coupe le plan principal en un point et émerge suivant une parallèle à l'axe mené par ce point.
 
@@ -10150,11 +9382,7 @@ Fig. 28.
 
 dimensions de la lunette. Ce point est vu dans une direction SEO représentée par la flèche de gauche.
 
-L'image du point S (fig. 28) se fera alors dans le plan focal mené par Fen 6 ; la droite E6, indiquée par une seconde flèche sera parallèle à la droite SE,, c'est-à-dire à la direction dans laquelle l'astre S est vu de la région où se trouve actuellement la lunette ; dans le plan focal passant par Fon place le réticule, et lorsqu'après avoir déplacé la lunette l'image 6
-
-[p. 240]
-
-coïncide avec la croisée des fils du réticule, c'est que la droite E6 est parallèle à la direction de la droite qui joint le point E au point de jonction des fils du réticule.
+L'image du point S (fig. 28) se fera alors dans le plan focal mené par Fen 6 ; la droite E6, indiquée par une seconde flèche sera parallèle à la droite SE,, c'est-à-dire à la direction dans laquelle l'astre S est vu de la région où se trouve actuellement la lunette ; dans le plan focal passant par Fon place le réticule, et lorsqu'après avoir déplacé la lunette l'image 6 [p. 240] coïncide avec la croisée des fils du réticule, c'est que la droite E6 est parallèle à la direction de la droite qui joint le point E au point de jonction des fils du réticule.
 
 Cette droite E6, dont la direction coïncide avec la direction de l'astre, lorsque le pointé est obtenu, s'appelle l'axe optique de la lunette.
 
@@ -10192,9 +9420,7 @@ P
 
 1
 
-[p. 241]
-
-LES MESURES DES ÉTENDUES
+[p. 241] LES MESURES DES ÉTENDUES
 
 On place la loupe de manière que l'image soit à la distance A de vision distincte.
 
@@ -10266,9 +9492,7 @@ x
 
 ANDRADE.
 
-[p. 242]
-
-Cette quantité intéresse le tirage de la lunette, elle augmente ou diminue avec A ; pour un œil infiniment presbyte
+[p. 242] Cette quantité intéresse le tirage de la lunette, elle augmente ou diminue avec A ; pour un œil infiniment presbyte
 
 F cette quantité est fet le grossissement est
 
@@ -10278,7 +9502,6 @@ Une surface lumineuse S éclairée avec une intensité i envoie à une distance 
 
 S.i
 
-#### D
 
 de lumière qui, par unité de surface, est proportionnelle à
 
@@ -10342,9 +9565,7 @@ G²ω Or
 
 {
 
-[p. 243]
-
-et
+[p. 243] et
 
 = K 02
 
@@ -10430,13 +9651,9 @@ Un moment arrive donc où le grossissement en s'exagérant va nuire à la clart�
 
 Ces remarques du moins s'appliquent au visé des astres qui ont un diamètre apparent sensible.
 
-[p. 244]
+[p. 244] Pour les étoiles il n'y a plus lieu de parler de grossissement géométrique ni de distinguer entre l'éclat total ou intrinsèque de l'image ; toutefois comme, le jour, ces astres se détachent sur un fond lumineux ayant un diamètre apparent, on voit qu'en forçant le grossissement on éteint la clarté intrinsèque du fond. Conclusions : aux lunettes destinées à viser de jour les étoiles on devra donner le plus fort grossissement possible ; au contraire, pour les observations du soleil et des planètes, il y a une limite de grossissement qu'il ne faut point dépasser.
 
-Pour les étoiles il n'y a plus lieu de parler de grossissement géométrique ni de distinguer entre l'éclat total ou intrinsèque de l'image ; toutefois comme, le jour, ces astres se détachent sur un fond lumineux ayant un diamètre apparent, on voit qu'en forçant le grossissement on éteint la clarté intrinsèque du fond. Conclusions : aux lunettes destinées à viser de jour les étoiles on devra donner le plus fort grossissement possible ; au contraire, pour les observations du soleil et des planètes, il y a une limite de grossissement qu'il ne faut point dépasser.
-
-[p. 245]
-
-CHAPITRE
+[p. 245] CHAPITRE
 
 #### III
 
@@ -10460,11 +9677,7 @@ Nous n'exposerons pas ici la théorie tout à fait élémentaire du réglage mé
 
 ERREURS DIVERSES DE LECTURES.
 
-1º L'erreur d'excentricité provient de ce que le constructeur n'a pas centré exactement
-
-[p. 246]
-
-l'alidade sur le limbe ; une autre erreur d'excentricité provient du jeu de l'axe de rotation de l'alidade dans sa douille ; dans la pratique on corrige la lecture de cette double erreur d'excentricité par l'emploi de deux verniers ou microscopes opposés et en faisant la moyenne des deux lectures ;
+1º L'erreur d'excentricité provient de ce que le constructeur n'a pas centré exactement [p. 246] l'alidade sur le limbe ; une autre erreur d'excentricité provient du jeu de l'axe de rotation de l'alidade dans sa douille ; dans la pratique on corrige la lecture de cette double erreur d'excentricité par l'emploi de deux verniers ou microscopes opposés et en faisant la moyenne des deux lectures ;
 
 2º Erreurs de division.
 
@@ -10490,9 +9703,7 @@ L'atténuation des erreurs périodiques sera alors la même que si on avait fait
 
 Le cercle limbe doit alors pouvoir tourner autour de l'axe de manière à permettre le changement des origines, et il faut
 
-[p. 247]
-
-LES MESURES DES ÉTENDUES ensuite que l'on puisse fixer le limbe à l'axe pendant la mesure des angles.
+[p. 247] LES MESURES DES ÉTENDUES ensuite que l'on puisse fixer le limbe à l'axe pendant la mesure des angles.
 
 La loi de probabilité des erreurs accidentelles (erreur de pointé ou erreur de lecture) montre que la méthode de la répétition est supérieure à la méthode de la réitération tant que l'on n'a à craindre aucun entraînement du limbe.
 
@@ -10522,9 +9733,7 @@ Les intervalles compris dans l'intérieur des quadrilatères ont été ensuite c
 
 Les mailles de ce réseau ont été remplies par une triangulation du second ordre, à côté moitié moindres, s'appuyant [^p247-1]
 
-[p. 248]
-
-sur les sommets des triangles déjà établis et dont les opérations se vérifient régulièrement par fermeture sur les précédentes.
+[p. 248] sur les sommets des triangles déjà établis et dont les opérations se vérifient régulièrement par fermeture sur les précédentes.
 
 De ces stations du second ordre on a visé tous les signaux naturels
 
@@ -10560,9 +9769,7 @@ Un ou plusieurs côtés du premier ordre devant servir de base ; les coordonnée
 
 Pendant la phase de reconnaissance on détermine ces hauteurs à donner aux signaux ; les premières précisions de ces hauteurs sont faciles à établir approximativement quand
 
-[p. 249]
-
-LES MESURES DES ÉTENDUES on dispose d'une carte antérieure et de la connaissance suffisamment approchée de l'altitude des points de station.
+[p. 249] LES MESURES DES ÉTENDUES on dispose d'une carte antérieure et de la connaissance suffisamment approchée de l'altitude des points de station.
 
 2
 
@@ -10598,7 +9805,6 @@ H = H + 4
 
 Mais il reste à tenir compte de la sphéricité de la terre et de la réfraction ; l'altitude topographique est égale à H moins la flèche f= CI de la figure 30, cette flèche se calcule par les
 
-#### C
 
 B
 
@@ -10632,9 +9838,7 @@ Klla le
 
 L'effet de la réfraction diminue ƒ d'une quantité 2 coefficient K variant suivant les régions et ayant pour valeur moyenne 0,13.
 
-[p. 250]
-
-La formule précédente doit être remplacée par celle-ci :
+[p. 250] La formule précédente doit être remplacée par celle-ci :
 
 H — H
 
@@ -10680,9 +9884,7 @@ Dans tous les cas, il faut repérer matériellement avec soin le centre de la st
 
 Si le signal est porté par le roc, on fore un trou cylindrique
 
-[p. 251]
-
-LES MESURES DES ÉTENDUES de 0 m. 10 de profondeur, et on y scelle un repère de bronze ; si le terrain est meuble, on coule dans une excavation de 0 m. 50 de profondeur et d'un mètre de côté un bloc de béton dans la partie supérieure duquel on noie une pierre bien équarrie. Le repère porte deux traits en croix dont l'intersection définit le centre de la station.
+[p. 251] LES MESURES DES ÉTENDUES de 0 m. 10 de profondeur, et on y scelle un repère de bronze ; si le terrain est meuble, on coule dans une excavation de 0 m. 50 de profondeur et d'un mètre de côté un bloc de béton dans la partie supérieure duquel on noie une pierre bien équarrie. Le repère porte deux traits en croix dont l'intersection définit le centre de la station.
 
 Si l'on opère à fleur de sol, on construit au- dessus du repère un pilier de briques ou pierres ayant 1 m. 50 de haut et de 0 m. 40 à 0 m. 55 de côté. Une cheminée est ménagée à l'intérieur du pilier pour pouvoir reporter exactement, au fil à plomb, la verticale de repère sur la face supérieure de ce pilier.
 
@@ -10696,11 +9898,7 @@ En pays ondulé, coupé fréquemment de longues lignes d'arbres, le simple pilie
 
 Quand la hauteur du signal atteint au plus 8 mètres, on construit un pilier creux, en forme de tronc de pyramide à section carrée ; ou bien encore on étage deux ou trois prismes droits à bases carrées de dimensions décroissantes.
 
-Pour les signaux plus élevés sur des hauteurs d'accès pénible, le problème du transport des matériaux devient
-
-[p. 252]
-
-important ; on cherche alors un type de pilier présentant le cube minimum de maçonnerie ; les grands signaux de 20, 25 ou 30 mètres peuvent être alors édifiés sur le modèle des cheminées d'usines.
+Pour les signaux plus élevés sur des hauteurs d'accès pénible, le problème du transport des matériaux devient [p. 252] important ; on cherche alors un type de pilier présentant le cube minimum de maçonnerie ; les grands signaux de 20, 25 ou 30 mètres peuvent être alors édifiés sur le modèle des cheminées d'usines.
 
 On a renoncé par la suite à ces coûteuses constructions et on a adopté un type de signal en charpente très stable et que l'on peut élever jusqu'à plus de 25 mètres du sol.
 
@@ -10722,11 +9920,7 @@ Signaux optiques.
 
 Dans les opérations géodésiques de haute précision, on a recours à des signaux solaires, en voici le principe.
 
-Envisageons les rayons incidents qui, émanés de la surface du soleil, viennent frapper un point O d'un miroir plan ; ces rayons incidents vont se réfléchir sur le miroir et formeront
-
-[p. 253]
-
-un cône dont l'angle d'ouverture sera égal au diamètre apparent du soleil, soit un angle de 32 minutes et dont l'axe sera le rayon réfléchi correspondant au rayon incident qui émane du centre du soleil. Il en sera de même pour tous les points du miroir ;
+Envisageons les rayons incidents qui, émanés de la surface du soleil, viennent frapper un point O d'un miroir plan ; ces rayons incidents vont se réfléchir sur le miroir et formeront [p. 253] un cône dont l'angle d'ouverture sera égal au diamètre apparent du soleil, soit un angle de 32 minutes et dont l'axe sera le rayon réfléchi correspondant au rayon incident qui émane du centre du soleil. Il en sera de même pour tous les points du miroir ;
 
 celui-ci
 
@@ -10752,11 +9946,7 @@ De plus la région illuminée est considérable aux grandes distances, 279 mètr
 
 Visé optique. Héliotrope de Gauss.
 
-En avant d'une lunette L (fig. 31), est disposé un miroir à deux faces perpendiculaires l'une sur l'autre et couvrant seulement la moitié inférieure de l'objectif de la lunette ; la
-
-[p. 254]
-
-lunette, comme celle d'un théodolite, est pourvue des moyens de réglage pour produire la coïncidence de son axe optique avec son axe de figure, et la perpendicularité de cet axe à
+En avant d'une lunette L (fig. 31), est disposé un miroir à deux faces perpendiculaires l'une sur l'autre et couvrant seulement la moitié inférieure de l'objectif de la lunette ; la [p. 254] lunette, comme celle d'un théodolite, est pourvue des moyens de réglage pour produire la coïncidence de son axe optique avec son axe de figure, et la perpendicularité de cet axe à
 
 l'intersection des
 
@@ -10778,11 +9968,9 @@ denté ; les deux rayons réfléchis sur les miroirs provenant du même rayon in
 
 SA sont dirigés sur une même
 
-#### M
 
 N
 
-#### L
 
 Fig. 31.
 
@@ -10800,11 +9988,7 @@ Jadis le seul procédé pratique pour effectuer cette mesure consista dans l'emp
 
 Cette base une fois mesurée, on ramène sa longueur à celle qu'elle serait au niveau de la mer, qui est la surface théorique sur laquelle s'interprète le calcul des triangles.
 
-La mesure d'une base exige un terrain uni et résistant, qui permette la visibilité réciproque des deux extrémités et assez
-
-[p. 255]
-
-étendu pour que la ligne mesurée atteigne une longueur de 6 à 12 kilomètres.
+La mesure d'une base exige un terrain uni et résistant, qui permette la visibilité réciproque des deux extrémités et assez [p. 255] étendu pour que la ligne mesurée atteigne une longueur de 6 à 12 kilomètres.
 
 En France, on a toujours adopté des bases de 10 à 12 kilomètres en moyenne. En Allemagne et en Suisse, on a souvent adopté des bases courtes de 3 à 4 kilomètres.
 
@@ -10822,9 +10006,7 @@ La distance qu'il faut mesurer est le plus court chemin de A à B.
 
 Si la terre était une sphère, le plan de visée du cercle azimutal qui contient la verticale A découperait sur cette sphère un arc de grand cercle qui contiendrait aussi la verticale de B.
 
-[p. 256]
-
-On sait aussi que la surface d'équilibre des mers est très sensiblement un ellipsoïde de révolution, et les verticales de A et B ne sont pas dans un même plan ; aucune des deux sections normales issues de A ou de B n'est le plus court chemin entre A et B ; ce chemin ne pourrait s'obtenir que par un fil tendu entre A et B et serait compris entre les deux sections normales partant de l'un des points A ou B et visant l'autre ; en réalité ces trois lignes diffèrent très peu l'une de l'autre, car la base est toujours très petite (12 km. environ) ; l'écart maximum entre les deux sections normales est inférieur à 2 mm. 5 par des bases de 15 kilomètres, les deux sections normales et la ligne géodésique peuvent pratiquement être confondues toutes les trois.
+[p. 256] On sait aussi que la surface d'équilibre des mers est très sensiblement un ellipsoïde de révolution, et les verticales de A et B ne sont pas dans un même plan ; aucune des deux sections normales issues de A ou de B n'est le plus court chemin entre A et B ; ce chemin ne pourrait s'obtenir que par un fil tendu entre A et B et serait compris entre les deux sections normales partant de l'un des points A ou B et visant l'autre ; en réalité ces trois lignes diffèrent très peu l'une de l'autre, car la base est toujours très petite (12 km. environ) ; l'écart maximum entre les deux sections normales est inférieur à 2 mm. 5 par des bases de 15 kilomètres, les deux sections normales et la ligne géodésique peuvent pratiquement être confondues toutes les trois.
 
 La mesure, à la règle, des portées successives d'une base est fort délicate, car : 1 ° la longueur des règles à une température déterminée 0º doit être connue avec une grande précisíon, en comparaison avec l'unité pratique de longueur qui est l'étalon prototype international.
 
@@ -10838,11 +10020,7 @@ On a dès lors cherché des appareils de mesure qui soient eux-mêmes leur propr
 
 1
 
-400 000 de la lonla température ; on peut apprécier ainsi le
-
-[p. 257]
-
-gueur de la règle. Nous ne décrivons ici ni le dispositif de Borda ni celui de Bessel fondé sur le même principe ; nous dirons seulement que les règles de Borda ont servi aux mesures de six bases françaises fondamentales de 1798 à 1828 et que les règles de Bessel ont servi aux mesures de quatorze bases allemandes de 1834 à 1892.
+400 000 de la lonla température ; on peut apprécier ainsi le [p. 257] gueur de la règle. Nous ne décrivons ici ni le dispositif de Borda ni celui de Bessel fondé sur le même principe ; nous dirons seulement que les règles de Borda ont servi aux mesures de six bases françaises fondamentales de 1798 à 1828 et que les règles de Bessel ont servi aux mesures de quatorze bases allemandes de 1834 à 1892.
 
 En 1827 le général anglais Colby a imaginé un appareil qui fonctionne sur le même principe que ceux de Borda et de Bessel, mais qui n'exige pas la connaissance de la dilatation relative des deux
 
@@ -10888,11 +10066,7 @@ APPAREILS DE PORRO ET DE BRUNNER.
 
 Les règles himétalliques multiples coûtent cher, et l'étalonnage et l'étude préalable de la dilatation de chaque règle sont un travail très long, très délicat ; vers 1850, l'ingénieur piémontais Porro fit connaître une méthode où une seule règle bimétallique est employée. Au lieu de placer successivement deux ou plu ANDRADE.
 
-17
-
-[p. 258]
-
-sieurs règles à la suite les unes des autres, on aligne rigoureusement dans le plan de la base une série de microscopes dont les axes optiques sont disposés verticalement et placés à une distance l'un de l'autre d'environ la longueur de cette règle ; celle-ci est alors portée successivement sous chaque paire de microscopes. Le système Porro fut appliqué aux bases de l'Algérie.
+17 [p. 258] sieurs règles à la suite les unes des autres, on aligne rigoureusement dans le plan de la base une série de microscopes dont les axes optiques sont disposés verticalement et placés à une distance l'un de l'autre d'environ la longueur de cette règle ; celle-ci est alors portée successivement sous chaque paire de microscopes. Le système Porro fut appliqué aux bases de l'Algérie.
 
 Vers 1856 Brunner perfectionna le système de Porro. Son système de 1858 à 1901 mesura une grande base espagnole, deux bases allemandes, trois bases suisses, trois bases françaises, une base dans l'Équateur. La nécessité d'employer le platine dans les règles bimétalliques augmente le prix des appareils dérivés de la méthode de Borda ; le thermomètre bimétallique perd d'ailleurs son avantage quand la température du milieu ambiant varie rapidement.
 
@@ -10910,9 +10084,7 @@ Si même cette erreur était systématique, elle ne produirait pour une base de 
 
 1 200 000 0 m. 010, soit :[^p258-1]
 
-[p. 259]
-
-En même temps on cherchait à rendre les appareils plus légers et plus maniables et l'idée d'employer des fils métalliques de 24 mètres, tendus sous un effort constant de 10 kg., fut réalisée par M. Jäderin, géodésíen suédois.
+[p. 259] En même temps on cherchait à rendre les appareils plus légers et plus maniables et l'idée d'employer des fils métalliques de 24 mètres, tendus sous un effort constant de 10 kg., fut réalisée par M. Jäderin, géodésíen suédois.
 
 La méthode de Jäderin, restée d'une précision topographique aussi longtemps qu'on était limité aux métaux usuels, est devenue, grâce à l'emploi de l'invar, d'une précision comparable à celle des règles.
 
@@ -10948,11 +10120,7 @@ en millimètres,
 
 et la forme des réglettes est telle que leur arête divisée prolonge exactement l'axe du fil, en sorte qu'il n'y a dans la lecture aucune erreur pouvant provenir de l'inclinaison de la réglette sur l'horizontale.
 
-Le fil d'invar est obtenu par tréfilage, étuvé pendant deux ou trois mois, enroulé autour d'une chaudière, à une température graduellement décroissante de 100° jusque vers 20 °. Avant d'être livrés au service des mesures, les fils neufs subissent deux manipulations destinées à assurer leur stabi
-
-[p. 260]
-
-lité moléculaire ; pendant vingt-quatre heures on les expose à une traction de 60 kg. qui amène un petit allongement de 0 mm. 23 environ et permet de vérifier la solidité des attaches du fil, puis ils sont soumis à des secousses rythmées énergiques dont l'effet après 100 chocs est de les raccourcir sensiblement de l'allongement qu'ils avaient éprouvé sous la charge de 60 kg. ; les 100 chocs suivants le raccourcissent encore de 0 mm. 1 en moyenne ; les chocs ultérieurs seront à peu près sans effet.
+Le fil d'invar est obtenu par tréfilage, étuvé pendant deux ou trois mois, enroulé autour d'une chaudière, à une température graduellement décroissante de 100° jusque vers 20 °. Avant d'être livrés au service des mesures, les fils neufs subissent deux manipulations destinées à assurer leur stabi [p. 260] lité moléculaire ; pendant vingt-quatre heures on les expose à une traction de 60 kg. qui amène un petit allongement de 0 mm. 23 environ et permet de vérifier la solidité des attaches du fil, puis ils sont soumis à des secousses rythmées énergiques dont l'effet après 100 chocs est de les raccourcir sensiblement de l'allongement qu'ils avaient éprouvé sous la charge de 60 kg. ; les 100 chocs suivants le raccourcissent encore de 0 mm. 1 en moyenne ; les chocs ultérieurs seront à peu près sans effet.
 
 Les premiers battages sont faits aussitôt après l'étuvage sur des fils non montés qui subissent 200 chocs énergiques ; puis ils sont munis de leurs réglettes, exposés pendant vingtquatre heures à la traction de 60 kg., enfin battus de nouveau de 100 à 200 fois.
 
@@ -10970,9 +10138,7 @@ Pendant l'opération de l'extension du fil et pour la mesure d'une portée, l'ai
 
 LES REPÈRES MOBILES. — Chacun d'eux est un solide trépied en bois dont le plateau porte une plaque métallique dans laquelle sont creusées trois crapaudines ; sur cette plaque se place une tablette de bronze, montée sur trois vis calantes maintenues en place par des renforts et munie sur sa périphérie de trois vis radiales qui permettent de déplacer le cylindre à traits de repère, de façon à le mettre rigoureusement dans le plan vertical de la base.
 
-[p. 261]
-
-LES MESURES DES ÉTENDUES
+[p. 261] LES MESURES DES ÉTENDUES
 
 Cette tablette porte en outre un còne latéral fixe sur lequel on place soit la lunette de nivellement, soit la mire qui l'accompagne.
 
@@ -10992,9 +10158,7 @@ L'équipe de mesure se compose de deux opérateurs chargés des lectures des ré
 
 On fait cinq couples de lectures à chaque portée en ayant soin à chaque couple de déplacer longitudinalement les réglettes de quelques millimètres. Le secrétaire fait immédiatement les différences avant- arrière pour chaque couple, et l'on recommence les mesures pour lesquelles la discordance des répétitions dépasserait 0 mm. 3.
 
-[p. 262]
-
-Puis toute l'équipe se déplace en avant vers la portée suivante.
+[p. 262] Puis toute l'équipe se déplace en avant vers la portée suivante.
 
 Les observateurs avant et arrière s'échangent toutes les 10 portées, afin d'éliminer dans l'ensemble l'influence des erreurs personnelles de lectures.
 
@@ -11046,9 +10210,7 @@ l'idée des
 
 créateurs français du système métrique a été de définir une unité de longueur rattachée [^p263-1]
 
-[p. 264]
-
-aux dimensions du globe ; en d'autres pays, la longueur du pendule battant la seconde fut adoptée pour le contrôle de 'unité arbitrairement choisie.
+[p. 264] aux dimensions du globe ; en d'autres pays, la longueur du pendule battant la seconde fut adoptée pour le contrôle de 'unité arbitrairement choisie.
 
 Cette idée intéressante de chercher des témoins naturels des unités de longueur dont on conserve des types matérialisés ne doit pas faire perdre de vue le caractère le plus urgent des mesures physiques : la permanence et la conservation la plus parfaite possible.
 
@@ -11066,9 +10228,7 @@ En dehors de l'erreur géodésique de la valeur du mètre déposé aux Archives 
 
 A l'égard des unités matérielles construites et consacrées, les moyens de contrôle géodésiques ou pendulaires ne sont
 
-[p. 265]
-
-LES MESURES DES ÉTENDUES plus aujourd'hui les meilleurs ; infiniment supérieur est le contrôle actuel fondé sur la connaissance des longueurs des ondes lumineuses dans leur propagation naturelle.
+[p. 265] LES MESURES DES ÉTENDUES plus aujourd'hui les meilleurs ; infiniment supérieur est le contrôle actuel fondé sur la connaissance des longueurs des ondes lumineuses dans leur propagation naturelle.
 
 « Proposé, dit M. Guillaume, d'une façon indépendante par Maxwell et par Fizeau, le témoin naturel qu'elles fournissent lorsque les radiations sont bien homogènes, ne laisse rien à désirer, au point de vue de la précision avec laquelle il peut être relié au mètre ; et sa permanence dans des conditions apparemment identiques de production et de propagation, bien que n'ayant pu être directement démontrée, est l'un des faits les plus généralement admis par les physiciens. » Le choix des longueurs d'onde capables de ce contrôle appartient à Michelson.
 
@@ -11078,11 +10238,7 @@ Depuis les déterminations de MM. Michelson et Benoît, une ingénieuse méthode
 
 La longueur d'onde dans l'air, à 15º de l'échelle normale et sous la pression de 760 millimètres de mercure, dans les conditions normales de la pesanteur, de la radiation rouge du spectre du cadmium, produite par un tube à électrodes, est égale à 0 μ 64384696.
 
-Les longueurs d'ondes lumineuses ne sont pas seulement un témoin des unités métriques, elles sont, elles-mêmes, un instrument de mesure d'une extrême commodité, parce qu'il peut être obtenu partout identique à lui-même et parce qu'il permet des déterminations d'une extrême précision que l'on
-
-[p. 266]
-
-pourra employer dans une foule de mesures mécaniques et physiques.
+Les longueurs d'ondes lumineuses ne sont pas seulement un témoin des unités métriques, elles sont, elles-mêmes, un instrument de mesure d'une extrême commodité, parce qu'il peut être obtenu partout identique à lui-même et parce qu'il permet des déterminations d'une extrême précision que l'on [p. 266] pourra employer dans une foule de mesures mécaniques et physiques.
 
 Il n'est peut-être pas inutile de rappeler au lecteur à quelle circonstance favorable est due la précision de la mesure des longueurs d'onde ; cette circonstance, la même en somme qui a été utilisée par les astronomes dans la détermination de la longueur de l'année, tient à l'idée même de la répétition ; mais ici la répétition au lieu d'être artificiellement recherchée par un dispositif instrumental, est intimement liée à l'observation toute simple d'un phénomène périodique dont la répétition permet la mesure d'un exact multiple de la période à mesurer ; la précision dépend de la grandeur du multiplicateur à employer.
 
@@ -11098,9 +10254,7 @@ Or, la vérification des masses par des volumes est subordonnée à la fois à l
 
 de l'établissement des étalons
 
-[p. 267]
-
-LES MESURES DES ÉTENDUES métriques, dans une direction différente que se trouve l'utilité du problème de la détermination du rapport qui existe entre le décimètre cube et le volume du kilogramme d'eau.
+[p. 267] LES MESURES DES ÉTENDUES métriques, dans une direction différente que se trouve l'utilité du problème de la détermination du rapport qui existe entre le décimètre cube et le volume du kilogramme d'eau.
 
 La facilité des opérations du jaugeage par le moyen des pesées a fait définir, dans la plupart des législations, l'unité pratique de volume par sa relation avec l'unité de masse.
 
@@ -11112,11 +10266,7 @@ La détermination du volume du kilogramme d'eau fut proposée aux réunions de 1
 
 « Si, dit M. Guillaume, il a fallu tant d'années pour aborder cette recherche et la mener à bonne fin, c'est que, indépendamment du fait que le Bureau a été constamment chargé de recherches et de déterminations métrologiques présentant un certain degré d'urgence, celle qui nous occupe était considérée comme d'une nature si difficile qu'elle devait être précédée de toute une série de perfectionnements, parmi lesquels l'éducation des observateurs n'était pas le moindre.
 
-« < L'importance de la question et son extrême difficulté faisaient désirer la multiplication des contrôles, obtenus par l'emploi de méthodes entièrement différentes. Il suffira de rappeler, en renvoyant pour les détails au Rapport complet, que la détermination du volume du kilogramme d'eau comprend nécessairement deux genres d'expériences. Les unes
-
-[p. 268]
-
-consistent à mesurer les dimensions linéaires d'un corps et à en déduire son volume ; les autres ont pour but d'établir la poussée qu'il reçoit de l'eau dans laquelle il est immergé. Le quotient de ces deux quantités fournit le résultat cherché.
+« < L'importance de la question et son extrême difficulté faisaient désirer la multiplication des contrôles, obtenus par l'emploi de méthodes entièrement différentes. Il suffira de rappeler, en renvoyant pour les détails au Rapport complet, que la détermination du volume du kilogramme d'eau comprend nécessairement deux genres d'expériences. Les unes [p. 268] consistent à mesurer les dimensions linéaires d'un corps et à en déduire son volume ; les autres ont pour but d'établir la poussée qu'il reçoit de l'eau dans laquelle il est immergé. Le quotient de ces deux quantités fournit le résultat cherché.
 
 « Des deux termes du quotient, c'est le premier, relatif au volume, dont la détermination offre le plus de difficultés, et c'est dans cette opération qu'il était surtout utile de varier les méthodes.
 
@@ -11136,9 +10286,7 @@ débuté dans ces recherches en mesurant, par le procédé classique du comparat
 
 « La détermination précise des longueurs d'onde au Bureau international par l'emploi des méthodes de M. Michelson rendait illusoire le but premier du travail de Macé de Lépinay ; mais ses procédés conservaient toute leur valeur pour la détermination inverse, celle du volume du kilogramme d'eau.
 
-[p. 269]
-
-« Après une recherche que, à l'exception de la pesée du cube de quartz, faite au Bureau, Macé de Lépinay exécuta seul, une nouvelle détermination fut entreprise, dans des conditions meilleures, avec la collaboration de MM. Benoît et Buisson.
+[p. 269] « Après une recherche que, à l'exception de la pesée du cube de quartz, faite au Bureau, Macé de Lépinay exécuta seul, une nouvelle détermination fut entreprise, dans des conditions meilleures, avec la collaboration de MM. Benoît et Buisson.
 
 « < Les résultats des trois ordres de recherches, conduites parallèlement pendant plusieurs années, sont résumés dans le tableau suivant
 
@@ -11240,9 +10388,7 @@ Chaney.
 
 « La première détermination de Lefèvre- Gineau et Fabbroni est de beaucoup la plus rapprochée des mesures récentes. Cette extraordinaire concordance de la valeur du premier kilogramme réalisée avec sa première définition permet, pour l'immense majorité des applications, d'identifier le décimètre cube au litre, volume du kilogramme d'eau dans les conditions normales. »
 
-[p. 270]
-
-3.
+[p. 270] 3.
 
 La valeur normale de l'accélération de la pesanteur
 
@@ -11272,9 +10418,7 @@ g = 980,665 cm. sec-2.
 
 Depuis lors, se sont produits des progrès dans la théorie du pendule (erreurs dues à la flexion, étudiées par M. Helmert et M. Almansi ; la comparaison des observations diverses sur le globe a été augmentée d'éléments nouveaux et plus précis), on a fait la discussion des constantes de la variation de gen latitude et altitude ; les déterminations récentes à Potsdam de MM. Kühnen et Ph. Furtwängler, ont fourni à une latitude de 52 ° 22′ 52 " et à l'altitude de 87 mètres une valeur de g égale à 981,274 cm. sec-2.
 
-[p. 271]
-
-D'autre part, si on applique aux déterminations du général Defforges la correction de flexion admise par MM. Kühnen et Furtwängler on trouve pour g, au Bureau international, 980,951 cm. sec-2.
+[p. 271] D'autre part, si on applique aux déterminations du général Defforges la correction de flexion admise par MM. Kühnen et Furtwängler on trouve pour g, au Bureau international, 980,951 cm. sec-2.
 
 Les valeurs du g normal qui s'en déduisent seraient :
 
@@ -11310,9 +10454,7 @@ En faisant le calcul en sens inverse on trouvera la hauteur de mercure qui exerc
 
 0,75009.
 
-[p. 272]
-
-La grande barie normale serait donc exercée par une colonne de mercure de 750 mm. 09 à la température de la glace fondante, sous la latitude de 45° et au niveau de la mer.
+[p. 272] La grande barie normale serait donc exercée par une colonne de mercure de 750 mm. 09 à la température de la glace fondante, sous la latitude de 45° et au niveau de la mer.
 
 L'intensité de la pesanteur pour laquelle la colonne de mercure exerçant une pression égale à une grande barie serait de 750 mm. 00 devrait avoir la valeur
 
@@ -11334,17 +10476,13 @@ C'est une institution de garanties nouvelles pour la conservation de l'unité m�
 
 Le contrôle du système métrique par les longueurs d'ondes lumineuses met en évidence un fait général bien digne de remarque
 
-[p. 273]
-
-LES MESURES DES ÉTENDUES Le contrôle des variations des dimensions du globe terrestre lui-même est au moins en principe rattaché à la longueur d'onde d'une vibration lumineuse, et en tout cas le contrôle expérimental des variations de l'étalon de masse est déjà rattaché à la manifestation spatiale d'un phénomène qui est à la fois périodique dans le temps et dans l'espace : la propagation d'une onde lumineuse ; de même le contrôle des machines à mesurer les durées, c'est-à-dire des horloges et des montres, sera rattaché à la manifestation spatiale d'un phénomène très approximativement périodique, le phénomène de la rotation de la terre par rapport à l'espace absolu affirmé par les lois de la mécanique et approximativement repéré au moyen de l'observation des étoiles. Les lois de la mécanique expliquent d'ailleurs la possibilité d'axes permanents de rotations.
+[p. 273] LES MESURES DES ÉTENDUES Le contrôle des variations des dimensions du globe terrestre lui-même est au moins en principe rattaché à la longueur d'onde d'une vibration lumineuse, et en tout cas le contrôle expérimental des variations de l'étalon de masse est déjà rattaché à la manifestation spatiale d'un phénomène qui est à la fois périodique dans le temps et dans l'espace : la propagation d'une onde lumineuse ; de même le contrôle des machines à mesurer les durées, c'est-à-dire des horloges et des montres, sera rattaché à la manifestation spatiale d'un phénomène très approximativement périodique, le phénomène de la rotation de la terre par rapport à l'espace absolu affirmé par les lois de la mécanique et approximativement repéré au moyen de l'observation des étoiles. Les lois de la mécanique expliquent d'ailleurs la possibilité d'axes permanents de rotations.
 
 ANDRADE.
 
 18
 
-[p. 274]
-
-[p. 275]
+[p. 274] [p. 275]
 
 ## Quatrième Partie
 
@@ -11366,9 +10504,7 @@ Lorsqu'un enfant ouvre pour la première fois une montre, ou lorsqu'un touriste 
 
 Le rouage est chargé, d'une part, de l'indication de l'heure et d'autre part d'une fonction plus cachée mais fondamentale : restaurer sans le troubler le mouvement d'une pièce qui, par ses vibrations régulières, est l'âme véritable de la machine horaire ; cette pièce organe régulateur de la machine n'est pas celle qui attire immédiatement l'attention, mais avec elle est née la chronométrie. La propriété essentielle de son mouvement est la suivante.
 
-[p. 276]
-
-Les
+[p. 276] Les
 
 vibrations de cet organe tendent naturellement à s'éteindre, par les frottements des supports ou par la résistance de l'air et des huiles ; mais mème en s'atténuant peu à peu, en s'amortissant, les vibrations de plus en plus faibles de l'organe régulateur conservent la même durée. On dit que les vibrations naturelles du régulateur sont sensiblement isochrones.
 
@@ -11382,11 +10518,7 @@ Ce mouvement intermittent du rouage fait mouvoir les aiguilles indicatrices de l
 
 Ainsi les machines horaires de précision sont nées le jour où un organe régulateur aux vibrations sensiblement isochrones a été constitué.
 
-Bien avant la Renaissance il existait des horloges aux rouages compliqués et chefs-d'œuvre d'agencement cinématique de mouvements, mais la chronométrie est née lorsque Galilée et Huyghens, ces fondateurs de la mécanique, eurent
-
-[p. 277]
-
-défini l'organe régulateur des horloges et l'organe régulateur des montres.
+Bien avant la Renaissance il existait des horloges aux rouages compliqués et chefs-d'œuvre d'agencement cinématique de mouvements, mais la chronométrie est née lorsque Galilée et Huyghens, ces fondateurs de la mécanique, eurent [p. 277] défini l'organe régulateur des horloges et l'organe régulateur des montres.
 
 HORLOGE DE GALILÉE.
 
@@ -11408,11 +10540,7 @@ Christian Huyghens, profond géomètre et physicien, eut de son côté la même 
 
 Le foliot, l'ancien et grossier régulateur des horloges, était une traverse de métal placée en croix sur un axe vertical ou verge supporté par un cordon. L'élasticité imparfaite et variable du cordon commandait aux vibrations du foliot, dont la rapidité était réglée par deux poids que l'on pouvait symétriquement rapprocher ou éloigner de la verge. Deux palettes portées par la verge dégageaient à tour de rôle une roue d'échappement, puis en recevaient l'impulsion réparatrice.
 
-L'œuvre théorique d'Huyghens était à la hauteur de la valeur expérimentale de l'innovation qu'il apportait à la chronométrie naissante ; Galilée avait deviné la forme de la loi des petites oscillations du pendule, il savait que les carrés
-
-[p. 278]
-
-des durées de ces oscillations sont, pour des pendules simples, proportionnels aux longueurs des pendules et, par une simple raison d'homogénéité, en raison inverse de l'accélération de la pesanteur au lieu du globe où oscille le pendule.
+L'œuvre théorique d'Huyghens était à la hauteur de la valeur expérimentale de l'innovation qu'il apportait à la chronométrie naissante ; Galilée avait deviné la forme de la loi des petites oscillations du pendule, il savait que les carrés [p. 278] des durées de ces oscillations sont, pour des pendules simples, proportionnels aux longueurs des pendules et, par une simple raison d'homogénéité, en raison inverse de l'accélération de la pesanteur au lieu du globe où oscille le pendule.
 
 Mais il restait à déterminer la constante de cette double proportionnalité ; nous avons exposé, dans la deuxième partie de cet ouvrage, cette détermination par une méthode tout à fait élémentaire et assimilable par un écolier ; c'est Huyghens qui détermina pour la première fois la valeur de cette constante égale au carré du rapport
 
@@ -11426,11 +10554,7 @@ Une première conséquence des découvertes d'Huyghens, conséquence que la mét
 
 « En d'autres termes, si l'isochronisme d'un régulateur était parfait, un choc instantané au point mort entretiendrait le mouvement et, quelles que fussent les inégalités du rouage capables de faire varier le choc, le mouvement du régulateur resterait isochrone. »
 
-Les conditions réelles des machines horaires sont légèrement différentes des conditions absolues que suppose l'asser
-
-[p. 279]
-
-tion ci-dessus, aussi la théorie du réglage procède par des approximations successives que nous résumerons plus loin, mais dont le terme de départ sera le mouvement pendulaire simple tel qu'il a été défini par Huyghens.
+Les conditions réelles des machines horaires sont légèrement différentes des conditions absolues que suppose l'asser [p. 279] tion ci-dessus, aussi la théorie du réglage procède par des approximations successives que nous résumerons plus loin, mais dont le terme de départ sera le mouvement pendulaire simple tel qu'il a été défini par Huyghens.
 
 2.
 
@@ -11446,11 +10570,7 @@ Hooke devina la loi des tensions de traction, et le ressort spiral des montres, 
 
 Cette divination devait être justifiée beaucoup plus tard et l'approximation du balancier isochrone devait être encore augmentée par les courbes terminales du spiral découvertes par l'Anglais Arnold ou par la méthode d'attache du spiral employée par le Français Pierre le Roy, deux méthodes devinées par deux artistes de génie et qui ne devaient être justifiées que beaucoup plus tard par les travaux de Phillips et de M. Caspari.
 
-La méthode d'Arnold a de plus l'avantage de donner à la vibration du balancier une allure pendulaire très approchée, c'est-à-dire que l'isochronisme y est obtenu par la même condition que celle qui assure l'isochronisme des petites
-
-[p. 280]
-
-oscillations du pendule, à savoir la proportionnalité de l'effet de la force du ressort à l'angle dont a tourné le balancier depuis la position du point mort.
+La méthode d'Arnold a de plus l'avantage de donner à la vibration du balancier une allure pendulaire très approchée, c'est-à-dire que l'isochronisme y est obtenu par la même condition que celle qui assure l'isochronisme des petites [p. 280] oscillations du pendule, à savoir la proportionnalité de l'effet de la force du ressort à l'angle dont a tourné le balancier depuis la position du point mort.
 
 Ces méthodes ne peuvent être exposées et discutées que par des
 
@@ -11506,9 +10626,7 @@ en posant K
 
 On voit de suite qu'un pendule homogène (de même matière) retarde au chaud.
 
-[p. 281]
-
-Graham a donné, vers 1715, la solution suivante pour la compensation des pendules d'horloge
+[p. 281] Graham a donné, vers 1715, la solution suivante pour la compensation des pendules d'horloge
 
 La tige en acier du pendule soutient un cylindre creux contenant une certaine quantité de mercure ; la chaleur dilatant proportionnellement le mercure plus que l'acier, on peut régler la quantité de mercure de manière à rendre les deux valeurs de Tu égales à deux températures
 
@@ -11532,9 +10650,7 @@ Une lame d'acier a (fig. 33) ¹ et une lame de laiton b, chevillées ensemble en
 
 Cette figure et toutes les figures suivantes sont extraites de mon ouvrage Chronométrie (O. Doin, Paris, 1908).
 
-[p. 282]
-
-longueur du spiral est raccourcie, ce qui tend à augmenter la valeur de K.
+[p. 282] longueur du spiral est raccourcie, ce qui tend à augmenter la valeur de K.
 
 BALANCIER COMPENSÉ DE PIERRE LE ROY. — De part et d'autre de l'axe (fig. 34), deux thermomètres symétriques et trois
 
@@ -11572,11 +10688,7 @@ COMPENSATEURS D'ARNOLD
 
 ET D'EARNSHAW. Arnold reprit l'idée de Harrison, d'une double lame acierlaiton, mais il en constitue le balancier lui-même ; la double lame devient seulement ouverte en deux régions symétriqués par rapport à l'axe ; les deux lames sont chevillées ensemble, le laiton en dehors ; le changement de courbure de l'assemblage des lames se fait encore d'une façon conforme à la règle énoncée plus haut pour la lame plate de Harrison, en sorte que la chaleur ramène les parties libres des deux demi-lames vers l'axe ; ces demi-lames portent d'ailleurs des masses supplémentaires, la chaleur et le chevillage réunis tendent alors à diminuer le moment d'inertie du balancier, c'est-à-dire à réaugmenter la rapidité de vibration du régulateur.
 
-Un autre chronométrier anglais, Earnshaw, perfectionna le procédé d'Arnold : il assembla par une soudure sous fusion
-
-[p. 283]
-
-les deux lames constituées d'abord en un cylindre annulaire ; celui-ci fut coupé ensuite par deux traits de scie donnés dans un même plan diamétral du cylindre. Ainsi fut réalisé le balancier compensateur encore en usage aujourd'hui.
+Un autre chronométrier anglais, Earnshaw, perfectionna le procédé d'Arnold : il assembla par une soudure sous fusion [p. 283] les deux lames constituées d'abord en un cylindre annulaire ; celui-ci fut coupé ensuite par deux traits de scie donnés dans un même plan diamétral du cylindre. Ainsi fut réalisé le balancier compensateur encore en usage aujourd'hui.
 
 4.
 
@@ -11596,15 +10708,12 @@ On a ajouté au balancier compensateur normal des dispositifs divers et assez co
 
 Aujourd'hui, les systèmes des compensations auxiliaires sont tout à fait délaissés : ils offrent une complication bien inutile depuis que l'acier au nickel, introduit dans les organes régulateurs des montres a triomphé de l'erreur secondaire.
 
-[p. 284]
-
-Ainsi, ces mêmes aciers au nickel, étudiés par M. Guillaume, ont rendu à la mesure des étendues, comme à la mesure du temps, des services immenses. Pour plus de détails, nous
+[p. 284] Ainsi, ces mêmes aciers au nickel, étudiés par M. Guillaume, ont rendu à la mesure des étendues, comme à la mesure du temps, des services immenses. Pour plus de détails, nous
 
 renverrons
 
 le lecteur aux ouvrages de
 
-#### M
 
 Guillaume ; nous nous
 
@@ -11668,9 +10777,7 @@ a Fig. 36. — Balancier compensateur pour
 
 chronomètres de marine.
 
-[p. 285]
-
-CHAPITRE
+[p. 285] CHAPITRE
 
 #### II
 
@@ -11692,11 +10799,7 @@ dents de la roue de
 
 Fig. 37.
 
-couronne glisse sur une des palettes en lui communiquant une impulsion, la roue échappe, puis une dent à peu près diamétralement opposée vient chuter sur l'autre palette ; la roue entraînée par le balancier rétrograde un peu ; la force motrice reprenant le dessus, une
-
-[p. 286]
-
-nouvelle impulsion se produit, et ainsi de suite. Cet échappement à recul est, sauf pendant les chutes, toujours en contact avec l'organe régulateur et l'impulsion se produit dans une zone de la vibration étendue et éloignée du point mort. Cet échappement tenait l'organe régulateur beaucoup trop sous sa dépendance et, pour l'appliquer aux montres dont la force motrice s'affaiblit pendant la détente du ressort moteur, on dut faire agir la force motrice sur le rouage par l'intermémédiaire d'une chaîne qui s'enroulant sur une roue en spirale peut alors transmettre un moment constant.
+couronne glisse sur une des palettes en lui communiquant une impulsion, la roue échappe, puis une dent à peu près diamétralement opposée vient chuter sur l'autre palette ; la roue entraînée par le balancier rétrograde un peu ; la force motrice reprenant le dessus, une [p. 286] nouvelle impulsion se produit, et ainsi de suite. Cet échappement à recul est, sauf pendant les chutes, toujours en contact avec l'organe régulateur et l'impulsion se produit dans une zone de la vibration étendue et éloignée du point mort. Cet échappement tenait l'organe régulateur beaucoup trop sous sa dépendance et, pour l'appliquer aux montres dont la force motrice s'affaiblit pendant la détente du ressort moteur, on dut faire agir la force motrice sur le rouage par l'intermémédiaire d'une chaîne qui s'enroulant sur une roue en spirale peut alors transmettre un moment constant.
 
 Cette disposition de la fusée conservée pour les chronomètres de marine était indispensable aux premières montres, munies de l'échappement à roue de rencontre.
 
@@ -11744,9 +10847,7 @@ produisit le déplacement des palettes dans le plan même de la roue.
 
 Dès lors les palettes prirent la forme des deux bras d'une ancre terminés chacun par une facette d'impulsion nommée incliné.
 
-[p. 287]
-
-LES MESURES MÉCANIQUES DU TEMPS
+[p. 287] LES MESURES MÉCANIQUES DU TEMPS
 
 La roue tournant à gauche, la figure 38 représente l'instant où la dent de droite a glissant sur l'incliné convexe donne l'impulsion au pendule qui a une rotation de même sens.
 
@@ -11760,11 +10861,7 @@ Dans les échappements précédents la surface du bras de l'ancre qui reçoit l'
 
 Ce grand progrès a été réalisé par le savant artiste anglais Georges Graham. Le dessin (fig. 39), montre, pour la rotation à droite de la roue d'échappement, le repos d'entrée rc, le repos de sortie r'c', l'incliné d'entrée en et l'incliné de sortie c'n'. Le recul est supprimé.
 
-Le progrès réalisé par Graham pour les horloges devait encore s'accentuer pour les chronomètres ; en effet, dans les échappements perfectionnés des montres on a cherché à supprimer tout contact entre le balancier régulateur et l'échappement pendant les périodes de repos ; la communication de
-
-[p. 288]
-
-mouvement entre les deux organes est alors concentrée dans la phase d'impulsion voisine du point mort.
+Le progrès réalisé par Graham pour les horloges devait encore s'accentuer pour les chronomètres ; en effet, dans les échappements perfectionnés des montres on a cherché à supprimer tout contact entre le balancier régulateur et l'échappement pendant les périodes de repos ; la communication de [p. 288] mouvement entre les deux organes est alors concentrée dans la phase d'impulsion voisine du point mort.
 
 Dans ce but on a créé un organe intermédiaire destiné à supporter le repos ; les échappements ainsi conçus se nomment échappements libres. Pour les horloges de précision la masse et la puissance réglante du pendule sont telles que les
 
@@ -11788,11 +10885,7 @@ La première idée des échappements libres est due à Arnold. Avant de les déc
 
 La
 
-construction de cet échappemont demande moins d'exactitude que l'échappement de Graham ; de plus il est
-
-[p. 289]
-
-facile, en cas d'accident ou d'usure, de remplacer individuellement les chevilles.
+construction de cet échappemont demande moins d'exactitude que l'échappement de Graham ; de plus il est [p. 289] facile, en cas d'accident ou d'usure, de remplacer individuellement les chevilles.
 
 Imaginé par l'horloger français Amant vers 1741,
 
@@ -11814,23 +10907,14 @@ cette modification de l'échappement Graham
 
 entaillées à moitié, les chevilles sont souvent faites en pierre dure. Cet échappement s'est montré bon dans les
 
-#### D
 
-#### D
 
-#### D
 
-#### D
 
-#### D
 
-#### D
 
-#### D
 
-#### D
 
-#### D
 
 Fig. 40.
 
@@ -11838,7 +10922,6 @@ horloges de faible dimension.
 
 ÉCHAPPEMENT A CYLINDRE (fig. 42). — Le cylindre servant d'axe au balancier est creux et entaillé presque à moitié ; les
 
-#### C
 
 b
 
@@ -11850,11 +10933,7 @@ Chaque dent de la roue présente une surface légèrement
 
 ANDRADE.
 
-19
-
-[p. 290]
-
-convexe b, c'est l'incliné de la dent qui, en appuyant sur l'une ou l'autre des lèvres, appuie la rotation du cylindre et conduit ainsi l'arc de levée ou d'impulsion du balancier. Le cylindre et la roue sont d'acier trempé, laissé dur aux parties frottantes.
+19 [p. 290] convexe b, c'est l'incliné de la dent qui, en appuyant sur l'une ou l'autre des lèvres, appuie la rotation du cylindre et conduit ainsi l'arc de levée ou d'impulsion du balancier. Le cylindre et la roue sont d'acier trempé, laissé dur aux parties frottantes.
 
 Le repos se fait par l'appui de la dent contre la surface latérale ou l'écorce du cylindre : à l'intérieur après l'impulb
 
@@ -11880,11 +10959,7 @@ de tour ou 270 °.
 
 Cet échappement eut autrefois une certaine vogue, mais il a fini par disparaître des montres de dimensions moyennes dès que l'échappement à ancre a pu être taillé à bas prix.
 
-L'échappement à cylindre exige de l'huile sur ses contacts. Les deux lèvres du cylindre doivent être bien disposées en regard de la roue ; le balancier doit parcourir de chaque côté
-
-[p. 291]
-
-de ses positions de repos un angle égal pour laisser passer une dent sur l'une et l'autre lèvre.
+L'échappement à cylindre exige de l'huile sur ses contacts. Les deux lèvres du cylindre doivent être bien disposées en regard de la roue ; le balancier doit parcourir de chaque côté [p. 291] de ses positions de repos un angle égal pour laisser passer une dent sur l'une et l'autre lèvre.
 
 ÉCHAPPEMENT DUPLEX.
 
@@ -11896,7 +10971,6 @@ m
 
 a
 
-#### C
 
 e
 
@@ -11924,15 +10998,12 @@ On met de l'huile sur la coche du rouleau, on n'en met point à la palette.
 
 Les échappements à détente, échappements libres à coup perdu, contiennent une pièce B nommée détente, figure 44 et figure 45.
 
-[p. 292]
-
-La détente des chronomètres marins, fixe à l'une de ses extrémités, est constituée par une lame de ressort (fig. 44) ; la détente des chronomètres de poche est montée sur un axe
+[p. 292] La détente des chronomètres marins, fixe à l'une de ses extrémités, est constituée par une lame de ressort (fig. 44) ; la détente des chronomètres de poche est montée sur un axe
 
 pivoté, c'est la détente bascule (fig. 45).
 
 Dans les deux cas la dé-
 
-#### C
 
 c 6
 
@@ -11948,15 +11019,12 @@ A
 
 a
 
-#### C
 
 A
 
 B
 
-#### D
 
-#### C
 
 d
 
@@ -11978,9 +11046,7 @@ Le mouvement k du balancier appuie le ressort d'or sur le coude, entraîne la d�
 
 La portée de la dent sur le repos est réglée par une vis de
 
-[p. 293]
-
-LES MESURES MÉCANIQUES DU TEMPS laiton vissée sur le bâti D, support de la détente ; le bouton de la vis d'arrêt appuie la détente et la maintient lorsque celleci revient après le dégagement.
+[p. 293] LES MESURES MÉCANIQUES DU TEMPS laiton vissée sur le bâti D, support de la détente ; le bouton de la vis d'arrêt appuie la détente et la maintient lorsque celleci revient après le dégagement.
 
 La figure, avec les flèches indiquant la rotation de la roue, les sens d'impulsion et du coup perdu pour le balancier, explique d'elle-même le fonctionnement du mécanisme.
 
@@ -12002,11 +11068,7 @@ La roue est en acier ou en laiton, ses dents ont leur facette externe inclinée 
 
 Les deux leviers en rubis sont sertis dans deux entailles des bras de l'ancre.
 
-Sur ces rubis les plans cet c'sont les plans de repos sur lesquels reposent successivement chacune des dents de la
-
-[p. 294]
-
-roue d'échappement entre le moment de sa chute et l'instant où commence le dégagement.
+Sur ces rubis les plans cet c'sont les plans de repos sur lesquels reposent successivement chacune des dents de la [p. 294] roue d'échappement entre le moment de sa chute et l'instant où commence le dégagement.
 
 Vers le balancier, l'ancre porte un troisième bras se terminant par la fourchette ; les côtés ee' de cette fourchette transmettent l'impulsion fournie par le rouage au bouton i. Ce bouton en rubis ou en saphir est de forme variable avec
 
@@ -12070,11 +11132,7 @@ le sens k' va commencer le dégagement de la dent b, dont le glissement sur l'in
 
 ORGANES CONTRE LE RENVERSEMENT.
 
-Sur la figure deux goupilles fixes ret r' nommées parois limitent le déplacement de l'ancre. Actuellement la fourchette est appuyée sur la paroi r ; mais il peut arriver qu'une secousse accidentelle de la montre, triomphant de la faible inertie de l'ancre, détache la fourchette de sa paroir, déplace l'entrée de la fourchette vers la droite : alors le bouton qui était loin de la fourchette
-
-[p. 295]
-
-au moment de la secousse reviendra vers la fourchette, mais la prendra à revers et la montre s'arrêtera ; la pièce x de la figure, ou dard de la fourchette, est un organe destiné à prévenir ce renversement.
+Sur la figure deux goupilles fixes ret r' nommées parois limitent le déplacement de l'ancre. Actuellement la fourchette est appuyée sur la paroi r ; mais il peut arriver qu'une secousse accidentelle de la montre, triomphant de la faible inertie de l'ancre, détache la fourchette de sa paroir, déplace l'entrée de la fourchette vers la droite : alors le bouton qui était loin de la fourchette [p. 295] au moment de la secousse reviendra vers la fourchette, mais la prendra à revers et la montre s'arrêtera ; la pièce x de la figure, ou dard de la fourchette, est un organe destiné à prévenir ce renversement.
 
 Ce dard en effet s'associe pour cette fonction à un second petit plateau h solidaire du balancier ; dans les situations de repos l'extrémité du dard reste à une petite distance de la circonférence du plateau h ; qu'une secousse se produise, alors le dard vient appuyer presque aussitôt sur la circonférence du plateau, ce qui produit sur le balancier un léger frottement mais empêche la fourchette d'aller plus loin. Une gorge t taillée dans le plateau est nécessaire pour permettre le déplacement régulier de la fourchette un peu avant et pendant l'impulsion, mais à ce moment la fonction de sécurité du dard est supprimée ; on y supplée en terminant la fourchette par deux cornes z et z' ; l'attouchement éventuel des cornes sur le bouton prévient alors le renversement.
 
@@ -12086,11 +11144,7 @@ normal de la montre,
 
 mais
 
-c'est un inconvénient pour la résistance aux secousses. On remédie à cet inconvénient en modifiant le repos normal de Graham ; dans l'échappement de Graham pour horloges de précision la face de repos est cylindrique, l'axe de ce cylindre coïncidant avec l'axe de l'ancre ; les premiers tracés de l'échappement à ancre, inspirés évidemment du tracé de Graham, faisaient la facette de repos du levier de l'ancre plane, mais dirigée suivant le plan tangent au cylindre de Graham ; ce tracé a l'avantage de laisser toute mobilité à l'ancre, mais on remarqua bientôt que l'on pouvait s'opposer à l'effet de légères secousses de la montre en modifiant le tracé tangent de la manière suivante. Envisageons la face de repos du levier et le point de cette face où appuie la pointe de la dent de la roue d'échappement au repos ; concevons par ce point
-
-[p. 296]
-
-une parallèle aux axes des mouvements de l'ancre et du balancier, puis autour de cette droite et dans le sens de la rotation de la roue d'échappement faisons tourner d'un petit angle i le plan du premier tracé, nous obtiendrons ainsi un second tracé de la face du repos du levier de l'ancre. Grâce à cette construction on crée une pression normale dont le moment par rapport à l'axe de l'ancre appuie la fourchette sur sa paroi et s'oppose ainsi à l'effet d'une légère secousse de la montre, c'est ce qu'on appelle la force du tirage. Rien n'est plus facile que de la calculer.
+c'est un inconvénient pour la résistance aux secousses. On remédie à cet inconvénient en modifiant le repos normal de Graham ; dans l'échappement de Graham pour horloges de précision la face de repos est cylindrique, l'axe de ce cylindre coïncidant avec l'axe de l'ancre ; les premiers tracés de l'échappement à ancre, inspirés évidemment du tracé de Graham, faisaient la facette de repos du levier de l'ancre plane, mais dirigée suivant le plan tangent au cylindre de Graham ; ce tracé a l'avantage de laisser toute mobilité à l'ancre, mais on remarqua bientôt que l'on pouvait s'opposer à l'effet de légères secousses de la montre en modifiant le tracé tangent de la manière suivante. Envisageons la face de repos du levier et le point de cette face où appuie la pointe de la dent de la roue d'échappement au repos ; concevons par ce point [p. 296] une parallèle aux axes des mouvements de l'ancre et du balancier, puis autour de cette droite et dans le sens de la rotation de la roue d'échappement faisons tourner d'un petit angle i le plan du premier tracé, nous obtiendrons ainsi un second tracé de la face du repos du levier de l'ancre. Grâce à cette construction on crée une pression normale dont le moment par rapport à l'axe de l'ancre appuie la fourchette sur sa paroi et s'oppose ainsi à l'effet d'une légère secousse de la montre, c'est ce qu'on appelle la force du tirage. Rien n'est plus facile que de la calculer.
 
 Considérons, par exemple, une roue d'échappement de 15 dents sur repos équidistants ; la face du repos du levier de l'ancre dans le tracé sans tirage serait dirigée à la fois suivant un rayon géométrique de la roue d'échappement et suivant un plan perpendiculaire au rayon qui joint le point de repos au centre de l'ancre.
 
@@ -12116,11 +11170,7 @@ Pour i = 15 °, on trouverait
 
 = 0,065.
 
-On voit ainsi que, avec l'angle de tirage habituellement
-
-[p. 297]
-
-adopté par les horlogers, le moment du tirage est compris entre les
+On voit ainsi que, avec l'angle de tirage habituellement [p. 297] adopté par les horlogers, le moment du tirage est compris entre les
 
 3
 
@@ -12164,9 +11214,7 @@ Ce refus de mouvement peut se produire dans les deux cas suivants
 
 Dans chacun de ces deux cas, le démarrage statique ne se produit pas, nous n'avons donc pas à tenir compte des chocs [^p297-1]
 
-[p. 298]
-
-du balancier et nous avons affaire à un pur problème d'équilibre. Nous négligerons d'ailleurs les frottements entre bouton et fourchette.
+[p. 298] du balancier et nous avons affaire à un pur problème d'équilibre. Nous négligerons d'ailleurs les frottements entre bouton et fourchette.
 
 Dans le premier cas l'arrêt au doigt ne peut se produire qu'un peu après le passage du balancier au point mort ; supposons que pendant la levée les mouvements angulaires du balancier et de l'ancre soient sensiblement proportionnels aux angles de levée : a sur l'ancre et ẞ sur le balancier.
 
@@ -12196,17 +11244,12 @@ dégagement à compté sur le balancier).
 
 Si v ' < β., le dégagement a été effectué avant la position de l'équilibre supposé avant le point mort.
 
-1 De même si u' < 1, la roue d'échappement aura vaincu la
-
-[p. 299]
-
-résistance statique du spiral avant la position dès lors impossible de l'équilibre supposé après le point mort. Donc les deux conditions simultanées :
+1 De même si u' < 1, la roue d'échappement aura vaincu la [p. 299] résistance statique du spiral avant la position dès lors impossible de l'équilibre supposé après le point mort. Donc les deux conditions simultanées :
 
 α < βο,
 
 Fa
 
-#### M
 
 1
 
@@ -12234,11 +11277,7 @@ Dans l'ancre suisse, la levée totale est de 10 °, comprenant 1º de repos et 9
 
 4º Le chemin perdu de l'ancre est son déplacement angulaire depuis la position du dernier contact d'impulsion de la dent et du rubis jusqu'à la position d'appui de la fourchette sur la paroi.
 
-Cet angle est une nécessité pour la sécurité de l'échappe
-
-[p. 300]
-
-ment eu égard aux ébats de pivots d'une part et d'autre part aux petites erreurs d'exécution ; il doit être aussi réduit que possible.
+Cet angle est une nécessité pour la sécurité de l'échappe [p. 300] ment eu égard aux ébats de pivots d'une part et d'autre part aux petites erreurs d'exécution ; il doit être aussi réduit que possible.
 
 B. LES MOUVEMENTS DU BALANCIER.
 
@@ -12254,9 +11293,7 @@ D. ÉBAT DE PLATEAU, ÉBAT DE CORNES.
 
 L'angle que la fourchette décrit depuis l'appui à la paroi jusqu'à la position de contact du dard et de la circonférence du plateau est l'ébat de plateau ; cet angle doit être inférieur à la somme du chemin perdu augmenté du repos sur l'ancre, sans quoi il y aurait un dégagement anormal possible. De même, l'angle décrit par la fourchette depuis l'appui sur la paroi jusqu'à la position de contact du devant de la corne correspondante avec la cheville de plateau est l'ébat de cornes, il est limité comme l'ébat de plateau.
 
-[p. 301]
-
-CHAPITRE
+[p. 301] CHAPITRE
 
 #### III
 
@@ -12284,15 +11321,10 @@ M'
 
 δυ
 
-#### M
 
 δυ
 
-Les moments moteurs transmis sont donc proportionnels aux déplacements angulaires simultanés, et l'un des rapports
-
-[p. 302]
-
-précédents étant supposé constant il devra nécessairement en être de même du second. D'où cette proposition :
+Les moments moteurs transmis sont donc proportionnels aux déplacements angulaires simultanés, et l'un des rapports [p. 302] précédents étant supposé constant il devra nécessairement en être de même du second. D'où cette proposition :
 
 La constance de l'effort transmis entraîne la constance des rapports des vitesses angulaires. On sait d'ailleurs que cette dernière constance détermine les profils par cette condition que le mouvement relatif des deux solides en contact soit le même que si l'un des solides était entraîné dans le mouvement plan d'une circonférence fixe du premier solide roulant sur une circonférence fixe dans le second solide. Adoptons cette détermination des profils. Alors, si le moment moteur était constant, et si l'inertie des pièces du rouage était faible, le moment transmis à la roue d'échappement serait aussi constant.
 
@@ -12314,11 +11346,7 @@ SPIRAL CYLINDRIQUE. ARNOLD ET PHILLIPS.
 
 Pour réduire constamment
 
-les réactions de l'encastrement d'un ressort à un couple, ce qui, nous l'avons
-
-[p. 303]
-
-vu (2ª partie, ch. V), produirait un mouvement pendulaire du balancier, en négligeant toutefois l'inertie du spiral, Arnold terminait le spiral cylindrique par des courbes dont cent ans plus tard Phillips réussissait à formuler ces lois
+les réactions de l'encastrement d'un ressort à un couple, ce qui, nous l'avons [p. 303] vu (2ª partie, ch. V), produirait un mouvement pendulaire du balancier, en négligeant toutefois l'inertie du spiral, Arnold terminait le spiral cylindrique par des courbes dont cent ans plus tard Phillips réussissait à formuler ces lois
 
 1 ° La courbe terminale de longueur 1, envisagée depuis l'encastrement du piton jusqu'à son raccord avec la partie régulière des spires supposées assez nombreuses et assez rapprochées, a son centre de gravité sur une droite obtenue en faisant rétrograder le rayon R, de raccord, d'un angle droit vers le piton, et à une distance du pied de l'axe du balancier
 
@@ -12346,11 +11374,7 @@ POINTS D'ATTACHE DU SPIRAL CYLINDRIQUE (Le Roy et M. Caspari).
 
 Il y a dans tout ressort spiral cylindrique d'une suffisante étendue une « certaine longueur où toutes les vibrations grandes et petites sont isochrones... » Ce fait, découvert par Pierre Le Roy, a été précisé et expliqué par M. Caspari en 1876 ; il s'agit d'ailleurs ici non pas de la longueur du spiral, mais de l'étendue angulaire du spiral entre ses points d'attache ;
 
-cette étendue angulaire entre la virole et le piton, lors de la position du balancier au point mort, fait les rayons d'attache sensiblement
-
-[p. 304]
-
-perpendiculaires l'un sur l'autre. Ce résultat comporte une approximation de même ordre que celui de Phillips.
+cette étendue angulaire entre la virole et le piton, lors de la position du balancier au point mort, fait les rayons d'attache sensiblement [p. 304] perpendiculaires l'un sur l'autre. Ce résultat comporte une approximation de même ordre que celui de Phillips.
 
 PERTURBATION D'ISOCHRONISME PRÉVUE PAR LA THÉORIE SEULE ET
 
@@ -12404,11 +11428,7 @@ la théorie de M. Caspari assigne à cette influence
 
 2 agissant sur les chronomètres marins un retard diurne de 1 seconde environ. J'ai montré que cette perturbation doit ètre amplifiée dans le rapport de 5 à 3 et estimée 1 s. 66.
 
-Remarque. — Jusqu'à présent les méthodes employées pour
-
-[p. 305]
-
-l'analyse des perturbations de l'isochronisme des montres ont une approximation nécessairement limitée, qui a été définie plus haut implicitement dans le rappel de la découverte des courbes terminales.
+Remarque. — Jusqu'à présent les méthodes employées pour [p. 305] l'analyse des perturbations de l'isochronisme des montres ont une approximation nécessairement limitée, qui a été définie plus haut implicitement dans le rappel de la découverte des courbes terminales.
 
 3.
 
@@ -12422,11 +11442,7 @@ Si cette méthode doit se justifier, il faudra, pour en décider, lui associer l
 
 ANDRADE.
 
-20
-
-[p. 306]
-
-à la fois de l'inertie du spiral et du décentrage statique du centre de gravité propre au spiral.
+20 [p. 306] à la fois de l'inertie du spiral et du décentrage statique du centre de gravité propre au spiral.
 
 D'ailleurs une analyse d'ensemble du régulateur des montres est encore à faire ; l'obligation de la pousser au moins au deuxième ordre d'approximation devra entraîner une recherche nouvelle de la déformation du spiral dans le mouvement de la montre.
 
@@ -12446,9 +11462,7 @@ Je pus cependant durant huit ans, grâce aux sacrifices imposés par moi à mon 
 
 Espérons qu'un jour nous verrons la création d'un laboratoire de recherches chronométriques et que neuf années d'efforts, consacrées à l'enseignement universitaire de l'horlogerie, ne seront pas perdues !
 
-[p. 307]
-
-CHAPITRE
+[p. 307] CHAPITRE
 
 #### IV
 
@@ -12458,11 +11472,7 @@ Le problème chronométrique auquel dans l'exposé précédent nous nous sommes 
 
 Mais souvent, bien des recherches physiques exigent un fractionnement de la durée incomparablement plus grand et la subdivision de la seconde en portions beaucoup plus réduites ; par exemple, lorsqu'on se propose d'évaluer les vitesses des projectiles, la promptitude d'inflammation de la poudre, la durée des temps de la réaction nerveuse qui intéresse le psychologue et le physiologiste, il faut une autre échelle et d'autres subdivisions de la durée que celles qui sont employées dans les machines horaires. Néanmoins les microscopes de la durée ou les chronographes sont toujours étalonnés par une comparaison avec une bonne horloge.
 
-La précision relative de ces micro-mesures des temps sera nécessairement liée d'une part à la précision des machines horaires employées et, d'autre part, au degré d'isochronisme de l'appareil vibrant employé comme transformateur de l'échelle des durées ; l'étude expérimentale des chronographes dont les variétés électriques sont les plus importantes, doit d'ailleurs être double : d'une part, elle exige une appréciation très minutieuse des temps perdus par l'inertie mécanique des organes et, d'autre part, elle demande une évaluation délicate
-
-[p. 308]
-
-des durées d'aimantation et de désaimantation de la variété métallique employée dans les armatures des électro-aimants.
+La précision relative de ces micro-mesures des temps sera nécessairement liée d'une part à la précision des machines horaires employées et, d'autre part, au degré d'isochronisme de l'appareil vibrant employé comme transformateur de l'échelle des durées ; l'étude expérimentale des chronographes dont les variétés électriques sont les plus importantes, doit d'ailleurs être double : d'une part, elle exige une appréciation très minutieuse des temps perdus par l'inertie mécanique des organes et, d'autre part, elle demande une évaluation délicate [p. 308] des durées d'aimantation et de désaimantation de la variété métallique employée dans les armatures des électro-aimants.
 
 Dans cet ordre d'idées, on doit rappeler les travaux déjà anciens de M. Marcel Deprez.
 
@@ -12482,9 +11492,7 @@ l'impossibilité de traiter sommairement une question aussi complexe que celle d
 
 Dans le commerce de l'horlogerie, on désigne habituellement par le nom de chronographe ou compteur, une montre spéciale que l'on met en marche au moyen d'une poussette et qui possède, avec un compteur de minutes, une aiguille marquant le cinquième de seconde et qui peut aussi être arrêtée par une poussette. L'appareil utilisé dans le contrôle
 
-[p. 309]
-
-LES MESURES MÉCANIQUES DU TEMPS des courses doit posséder alors un organe spécial, cœur du chronographe ou came qui ramène presque instantanément l'aiguille au zéro.
+[p. 309] LES MESURES MÉCANIQUES DU TEMPS des courses doit posséder alors un organe spécial, cœur du chronographe ou came qui ramène presque instantanément l'aiguille au zéro.
 
 Ce chronographe de poche est intéressant au point de vue de la construction de son rouage plus ou moins compliqué, mais il ne faut pas le confondre avec les chronographes dont nous venons de parler et qui, malgré toutes les réserves précédentes, malgré les précautions indispensables dont il faut entourer l'emploi d'un chronographe de précision, seront pour la mesure du temps ce que sont aujourd'hui les puissants microscopes pour la mesure de l'étendue.
 
@@ -12518,11 +11526,7 @@ institués sont, en France
 
 1º Le service chronométrique de la marine dirigé par un ingénieur hydrographe qui fut longtemps M. Caspari, dont nous avons relaté plus haut les travaux mémorables dans la théorie de l'horlogerie et qui est aujourd'hui M. Favé ;
 
-2º L'observatoire chronométrique de Besançon, actuelle
-
-[p. 311]
-
-ment dirigé par M. Lebeuf, qui depuis quelques années a provoqué les efforts et enregistré les succès des constructeurs bisontins ;
+2º L'observatoire chronométrique de Besançon, actuelle [p. 311] ment dirigé par M. Lebeuf, qui depuis quelques années a provoqué les efforts et enregistré les succès des constructeurs bisontins ;
 
 3º En Angleterre, l'observatoire de Greenwich pour le contrôle des chronomètres de bord et les montres de torpilleurs ;
 
@@ -12540,9 +11544,7 @@ A vrai dire, les concours et les contrôles chronométriques des observatoires o
 
 Dans cet ordre d'idées, nous avons déjà quelques annales chronométriques d'un bien grand intérêt, je veux parler du recueil des contrôles chronométriques publiés par l'observatoire de Greenwich depuis près de soixante-dix ans, et dont nous allons présenter un résumé sommaire et maniable.
 
-[p. 312]
-
-2.
+[p. 312] 2.
 
 Extrait des Annales de Greenwich.
 
@@ -12558,11 +11560,7 @@ Enfin, un troisième tableau contient les éléments propres à fournir les nomb
 
 la plus petite marche hebdomadaire avec les températures extrêmes et la température moyenne de cette semaine ;
 
-la plus grande marche hebdomadaire avec les trois données thermiques de cette autre semaine ; — l'écart a entre la marche hebdomadaire maxima et la marche hebdomadaire minima ; l'écart maximum b entre une semaine et la suivante,
-
-[p. 313]
-
-avec l'indication de la température pour ces deux semaines ; le nombre de classement est la petitesse de la somme a + 2b. Le classement exige aujourd'hui b≤125.
+la plus grande marche hebdomadaire avec les trois données thermiques de cette autre semaine ; — l'écart a entre la marche hebdomadaire maxima et la marche hebdomadaire minima ; l'écart maximum b entre une semaine et la suivante, [p. 313] avec l'indication de la température pour ces deux semaines ; le nombre de classement est la petitesse de la somme a + 2b. Le classement exige aujourd'hui b≤125.
 
 Dans les tableaux qui suivent, on trouvera pour le premier et pour le cinquième chronomètre classés et pour le dernier des chronomètres contrôlés, sinon classés, les valeurs de a et b de 1843 à 1887 ; les valeurs de a, b, a + 2b de 1887 à 1908. Le millésime de l'année marque l'année où s'achève le contrôle des 29 semaines, les six premières années comprenaient deux séries d'épreuves : les unes normales, les unes plus sévères, mentionnées « more severe ».
 
@@ -12746,9 +11744,7 @@ le 10e
 
 5,5
 
-[p. 314]
-
-ANNÉES
+[p. 314] ANNÉES
 
 α.
 
@@ -12922,9 +11918,7 @@ le 36e
 
 36,6
 
-[p. 315]
-
-ANNÉES
+[p. 315] ANNÉES
 
 α.
 
@@ -13122,9 +12116,7 @@ le 49e
 
 25,2
 
-[p. 316]
-
-ANNÉES
+[p. 316] ANNÉES
 
 α.
 
@@ -13352,11 +12344,7 @@ le 47e
 
 33,5
 
-146,0
-
-[p. 317]
-
-a + 2b.
+146,0 [p. 317] a + 2b.
 
 ANNÉES α.
 
@@ -13532,9 +12520,7 @@ $, 6 1891 14,1
 
 11,5
 
-[p. 318]
-
-ANNÉES
+[p. 318] ANNÉES
 
 α.
 
@@ -13646,11 +12632,7 @@ Durant chacune de ces périodes les marches de la montre sont respectivement rap
 
 a) Différence entre la plus haute et la plus basse marche hebdomadaire de la montre posée à plat, cadran en haut ; b) Plus grand écart en valeur absolue d'une marche hebdomadaire à la suivante de la montre marchant dans la même situation horizontale ;
 
-c) Marche hebdomadaire, pendant en haut, moins la marche hebdomadaire à plat : différence évaluée en valeur absolue ; d) Marche hebdomadaire, pendant à droite, moins marche hebdomadaire à plat : différence prise en valeur absolue ;
-
-[p. 319]
-
-e) Marche hebdomadaire pendant à gauche, moins marche hebdomadaire à plat : différence prise en valeur absolue.
+c) Marche hebdomadaire, pendant en haut, moins la marche hebdomadaire à plat : différence évaluée en valeur absolue ; d) Marche hebdomadaire, pendant à droite, moins marche hebdomadaire à plat : différence prise en valeur absolue ; [p. 319] e) Marche hebdomadaire pendant à gauche, moins marche hebdomadaire à plat : différence prise en valeur absolue.
 
 En tenant compte de la plus grande fréquence, dans la poche du gilet, des positions de la montre debout, le nombre de classement des Deck-Watches est le nombre D = a + 26 + (c ++).
 
@@ -13664,7 +12646,6 @@ ANNÉES
 
 b.
 
-#### D
 
 195,9
 
@@ -13826,9 +12807,7 @@ b.
 
 98,4
 
-[p. 320]
-
-ANNÉES
+[p. 320] ANNÉES
 
 α.
 
@@ -14072,11 +13051,7 @@ il n'y a point là de cercle vicieux ; comme nous avons déjà eu l'occasion de 
 
 ANDRADE.
 
-21
-
-[p. 322]
-
-qui utilise deux lectures seulement. De plus l'unité de temps provisoire, le jour sidéral, est un témoin de la constance des temps qu'il est toujours facile d'invoquer : de là une méthode sûre pour établir les états d'une pendule astronomique ; la marche de celle-ci vérifiée devient alors à son tour l'élément direct de contrôle des marches des montres.
+21 [p. 322] qui utilise deux lectures seulement. De plus l'unité de temps provisoire, le jour sidéral, est un témoin de la constance des temps qu'il est toujours facile d'invoquer : de là une méthode sûre pour établir les états d'une pendule astronomique ; la marche de celle-ci vérifiée devient alors à son tour l'élément direct de contrôle des marches des montres.
 
 Il n'en est pas moins vrai que c'est la perfection préalable de la construction des horloges qui a fait progresser l'astronomie elle-même, en sorte que les horloges ont à la fois augmenté les ressources du contrôle astronomique et tout en se soumettant à ce contrôle, dirigé les progrès du contrôle chronométrique.
 
@@ -14102,9 +13077,7 @@ Dans son cas le plus simple, le phénomène de la synchroni. sation peut être r
 
 Je me servirai encore ici du mouvement pendulaire uniformément amorti, envisagé comme la projection oblique d'un mouvement spiral uniforme. Supposons alors qu'à la force pendulaire et à la résistance visqueuse modérée qui produisent un mouvement pendulaire amorti nous ajoutions une force nouvelle, fonction périodique du temps à période 0 : nous allons établir que sous l'action de cette force ou bien le mouvement pendulairement troublé va être périodique avec
 
-[p. 323]
-
-LES MESURES MÉCANIQUES DU TEMPS la période 6, ou bien il va tendre de plus en plus vers un mouvement périodique de période 0.
+[p. 323] LES MESURES MÉCANIQUES DU TEMPS la période 6, ou bien il va tendre de plus en plus vers un mouvement périodique de période 0.
 
 Nous envisageons d'abord le cas où la force périodique agit par phases de sa période 0, et que dans chacune de ses phases où elle n'est pas nulle la force demeure cependant constante.
 
@@ -14116,9 +13089,7 @@ En ce cas on sait que le point décrivant la spirale, projeté sur l'axe de proj
 
 : c'est le phénomène de synchronisation. Comme il a lieu quelles que soient les phases de constance de la force variable, nous l'admettrons général.
 
-[p. 324]
-
-Ainsi avec une force pendulaire et une résistance visqueuse modérée, dont la modération a été précisée (2º partie, chap. IV, p. 207), la synchronisation se produit d'elle-même, sous l'action de toute force périodique.
+[p. 324] Ainsi avec une force pendulaire et une résistance visqueuse modérée, dont la modération a été précisée (2º partie, chap. IV, p. 207), la synchronisation se produit d'elle-même, sous l'action de toute force périodique.
 
 3.
 
@@ -14132,9 +13103,7 @@ J'ai démontré d'ailleurs la stabilité du phénomène de synchronisation. Le p
 
 La théorie de la stabilité de la synchronisation montre, d'ailleurs, que le dispositif de Jones et Cornu n'est pas indispensable, et que l'on peut synchroniser par une action électro-magnétique agissant simplement sur une plaque de fer doux, ce qui justifie le procédé de Vérité, horloger de Beauxais.
 
-[p. 325]
-
-TABLE DES MATIÈRES
+[p. 325] TABLE DES MATIÈRES
 
 ## Introduction..
 
@@ -14162,7 +13131,7 @@ SPATIALES FONDAMENTALES. MODÈLES DES MOUVEMENTS.
 
 1 à 10
 
-### Chapitre Ii.
+### Chapitre II.
 
 CONSÉQUENCES DES EXPÉRIENCES FONDAMENTALES.
 
@@ -14174,7 +13143,7 @@ Intersection de deux plans ; propriétés du dièdre ; projection d'une droite s
 
 11 à 23
 
-### Chapitre Iii.
+### Chapitre III.
 
 TRIANGLES ET TRIEDRES. SYMÉTRIE. DÉPLACEMENT DE ROTATION ET DE PIVOTEMENT.
 
@@ -14186,7 +13155,7 @@ Dallage sphérique. Rotations successives, pivotement d'un solide.
 
 24 à 41
 
-### Chapitre Iv.
+### Chapitre IV.
 
 PROPRIÉTÉS MÉTRIQUES. GÉOMÉTRIE EUCLIDIENNE FONDÉE SUR LA SIMILITUDE. ÉTENDUES POLYÉDRIQUES FONDAMENTALES.
 
@@ -14218,7 +13187,7 @@ Notions de la vitesse ; problème généralisé des vitesses ou équations diff�
 
 65 à 94
 
-### Chapitre Vi.
+### Chapitre VI.
 
 LE NOMBRE ET L'ÉTENDUE, PROPRIÉTÉS MÉTRIQUES DANS LES GÉOMÉTRIES NON EUCLIDIENNES.
 
@@ -14246,7 +13215,7 @@ solaire repérés sur les étoiles. Première étude du mouvement des planètes 
 
 117 à 145
 
-### Chapitre Ii.
+### Chapitre II.
 
 LES DEUX ABSOLUS DE LA DYNAMIQUE, L'HORLOGE ET L'ORIENTATION. LES MACHINES ET LES LOIS GÉNÉRALES DE L'ÉQUILIBRE. Le principe GÉNÉRAL DE LA DYNAMIQUE.
 
@@ -14254,17 +13223,13 @@ Effets du changement d'horloge et des repères géométriques. A la recherche du
 
 146 à 175
 
-### Chapitre Iii.
+### Chapitre III.
 
-Mécanique rationnelle et mécanique physique. Systèmes conservatifs et stabilité de l'équilibre. Impossibilité d'une composition des stabilités en l'absence d'une fonction des forces ; destruction d'une stabilité par une liaison nouvelle en l'absence d'une fonction des forces ; système isolé ;
-
-[p. 327]
-
-mouvement relatif d'un système isolé ; les systèmes isolés conservatifs et le théorème de M. Painlevé ; les systèmes isolés simultanés ; plan invariable fourni par la mécanique céleste, règle de Laplace.
+Mécanique rationnelle et mécanique physique. Systèmes conservatifs et stabilité de l'équilibre. Impossibilité d'une composition des stabilités en l'absence d'une fonction des forces ; destruction d'une stabilité par une liaison nouvelle en l'absence d'une fonction des forces ; système isolé ; [p. 327] mouvement relatif d'un système isolé ; les systèmes isolés conservatifs et le théorème de M. Painlevé ; les systèmes isolés simultanés ; plan invariable fourni par la mécanique céleste, règle de Laplace.
 
 176 à 200
 
-### Chapitre Iv. — Mouvements Oscillatoires Simples Ou Unifor-
+### Chapitre IV. — Mouvements Oscillatoires Simples Ou Unifor-
 
 MÉMENT AMORTIS.
 
@@ -14300,7 +13265,7 @@ DE LA MESURE. LA DROITE PHYSIQUE.
 
 223 à 228
 
-### Chapitre Ii.
+### Chapitre II.
 
 LA DROITE
 
@@ -14380,7 +13345,7 @@ relatifs à l'échappement à ancre
 
 285 à 300
 
-### Chapitre Iii.
+### Chapitre III.
 
 LES PERTURBATIONS DE L'ISOCHRONISME.
 
@@ -14388,7 +13353,7 @@ Quelques mots sur la géométrie du rouage. La dynamique de la
 
 montre et les perturbations d'isochronisme. Besoin de nouvelles expériences de réglage et de nouvelles recherches théoriques.
 
-### Chapitre Iv.
+### Chapitre IV.
 
 QUELQUES MOTS SUR LES CHRONOGRAPHES
 
@@ -14404,7 +13369,7 @@ Un extrait des Annales de Greenwich.
 
 310 à 320
 
-### Chapitre Vi.
+### Chapitre VI.
 
 L'HORLOGE ASTRONOMIQUE ET LE CONTROLE DES
 

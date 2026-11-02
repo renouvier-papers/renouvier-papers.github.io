@@ -10,9 +10,7 @@ title: "Horlogerie et chronométrie (1924)"
 
 ---
 
-[p. 5]
-
-INTRODUCTION
+[p. 5] INTRODUCTION
 
 Le mot Chronométriesignifie mesure du temps ; dans son accep
 tion la plus générale il dénomme aujourd’hui l’ensemble des mé
@@ -47,11 +45,7 @@ chronométriers dans le déterminisme mécanique du réglage de
 toutes les machines horaires devait triompher des obstacles qui
 s’accumulaient,pour ainsi dire à plaisir, devant le difficile problème
 du réglage des montres.
-Heureusement; Huygens, par un instinct de génie sentit que le
-
-[p. 6]
-
-6
+Heureusement; Huygens, par un instinct de génie sentit que le [p. 6] 6
 INTRODUCTION
 
 spiral cylindrique ou ressort hélicoïdal serait l’organe réglant des
@@ -105,11 +99,7 @@ que la machine est construite.
 
 Le travail de l’eau courante qui fait tourner la roue d’un moulin
 
-est destiné à écraser, par l’intermédiaire de la meule, les grain
-
-[p. 7]
-
-qui vont livrer la farine promise à l’alimentation ; les forces vaincues
+est destiné à écraser, par l’intermédiaire de la meule, les grain [p. 7] qui vont livrer la farine promise à l’alimentation ; les forces vaincues
 
 sont ici les forces moléculairesqui maintiennentl’agrégat des grains.
 
@@ -160,11 +150,7 @@ d’Huygens, l’idée directrice dont la mécanique naissante allait im
 poser à la chronométrie également naissante les conséquencespra
 tiques les plus fécondes.
 Ensuite, le spiral cylindrique d’Huygens, allait, avec une approxi
-mation cependant un peu moindre, étendre aux vibrations éten-
-
-[p. 8]
-
-dues du balancier des chronomètres marins, l’isochronisme très
+mation cependant un peu moindre, étendre aux vibrations éten-[p. 8]dues du balancier des chronomètres marins, l’isochronisme très
 approché dont bénéficiaient déjà les premières horloges astrono
 miques, toutes munies d’un pendule oscillant sous de faibles ampli
 tudes.
@@ -213,11 +199,7 @@ qu’il aurait si la montre étant au repos les frottements cessaient;
 
 la situation correspondante du balancier est dite la position du
 point mort.
-Il y a donc deux phases distinctes dans le fonctionnement d’une
-
-[p. 9]
-
-machine horaire ; deux ou plutôt trois, car le choc réparateur qui,
+Il y a donc deux phases distinctes dans le fonctionnement d’une [p. 9] machine horaire ; deux ou plutôt trois, car le choc réparateur qui,
 
 aux yeux d’un pur théoricien, serait le plus parfait — le choc ins
 tantané au point mort, est irréalisable, et mêmeil seraitdangereux
@@ -269,11 +251,7 @@ xvni° siècle jusqu’à
 
 ce jour a exigé de l’organe réglant des chronomètres le maintien
 
-de la plus importante des pertubations de l’isochronisme ; en sorte
-
-[p. 10]
-
-que la méthode de compensation thermique des chronométriers
+de la plus importante des pertubations de l’isochronisme ; en sorte [p. 10] que la méthode de compensation thermique des chronométriers
 anglais, qui à son heure avait pourtant constitué un immense pro
 grès pour la pécision des chronomètres, imposait cependant de nos
 jours une borne inexorable aux progrès nouveaux de leur réglage
@@ -320,11 +298,7 @@ dire
 Tels sont, mentionnés en peu de lignes, les grands problèmes
 mécaniques et physiques qui
 se sont posés et développés en
-liaison avec les progrès de l’horlogerie et qui sont nés avec elle, ne
-
-[p. 11]
-
-l’oublions pas, au moment précis où la physique moderne naissait
+liaison avec les progrès de l’horlogerie et qui sont nés avec elle, ne [p. 11] l’oublions pas, au moment précis où la physique moderne naissait
 elle-même; enfin, en dehors même des mesures chronométriques
 
 proprement dites, la mécanique de précision, dans la discussion
@@ -376,11 +350,7 @@ ces découvertes et tantôt Tordre de filiation des idées qui les ont
 préparées, qui les ont commentées en les étendant, ou qui parfois
 
 encore les ont complétées en les corrigeant.
-Sauf dans les choix instinctifs des organes réglants : pendule, ou
-
-[p. 12]
-
-spiraux attelés au balancier, choix qui nous l’avons dit plus haut
+Sauf dans les choix instinctifs des organes réglants : pendule, ou [p. 12] spiraux attelés au balancier, choix qui nous l’avons dit plus haut
 émanent de Huygens, les grandes découvertes des fondateurs de la
 chronométrie ont été l’œuvre des artistes.
 
@@ -425,9 +395,7 @@ résultats déjà acquis et nous efforçant aussi de les poursuivre dans
 
 leurs applications soit scientifiques soit industrielles.
 
-[p. 13]
-
-HORLOGERIE
+[p. 13] HORLOGERIE
 ET
 CHRONOMÉTRIE
 
@@ -462,11 +430,7 @@ leurs
 observations astronomiques
 directes,
 n’avaient pu rencontrer les lois du véritable système du monde ;
-c’est que l’idée de force associée à l’idée de mouvement,la préoccu-
-
-[p. 14]
-
-pation dynamique en un mot leur était entièrement étrangère ; il
+c’est que l’idée de force associée à l’idée de mouvement,la préoccu-[p. 14]pation dynamique en un mot leur était entièrement étrangère ; il
 convient toutefois d’ajouter que non seulement leur manquaient
 les idées de Galilée, mais aussi la simple notion de vitesse actuelle,
 notion indispensable préalable de l’idée d’accélération. Et pourtant
@@ -506,11 +470,7 @@ valeurs de ces fonctions inconnues précisées par leurs valeurs ini
 tiales.
 Nous avons 3 fonctions, prenons 3 papiers quadrillés, sur ces
 3 papiers quadrillés représentons graphiquement les 3 fonctions.
-Sur le papier quadrillé à deux axes rectangulaires OS et OF nous
-
-[p. 15]
-
-dessinons la courbe dont le point mobile se projète successivement
+Sur le papier quadrillé à deux axes rectangulaires OS et OF nous [p. 15] dessinons la courbe dont le point mobile se projète successivement
 de P
 o en P en des points dont les distances à O représentent les
 valeurs successives de la variable t de t
@@ -533,11 +493,7 @@ jections successives les valeurs de la variable t de t à T et par ses
 distances à l’axe JS les diverses valeurs de la fonction h{t).
 
 Ces dessins faits, la fonction x est représentée pour la valeur T
-de la variable par l’aire MPMP, la fonction y est représentée pour la
-
-[p. 16]
-
-même valeur T de t par l’aire du trapèze mixtiligne NPNP, et la
+de la variable par l’aire MPMP, la fonction y est représentée pour la [p. 16] même valeur T de t par l’aire du trapèze mixtiligne NPNP, et la
 fonction Z pour la valeur T de Z par faire R,PRP ;
 Si l’on découpait ces aires et si on les pesait on aurait, en poids,
 les représentations des accroissements a(T) — x,, y(T) —
@@ -587,11 +543,7 @@ réalisée pour une valeur de 0 intermédiaire entre t etf et si on fait
 
 la somme des produits f(6) x pp'
 , pour tous les intervalles de sub
-division de PP et si on multiplie le nombre des intervalles pp' de
-
-[p. 17]
-
-manière que le plus grand d’entre eux tende vers zéro on devine et
+division de PP et si on multiplie le nombre des intervalles pp' de [p. 17] manière que le plus grand d’entre eux tende vers zéro on devine et
 l'on démontre rigoureusementque la somme de ces produits t tend
 
 vers une limite bien déterminée qui est la mesure de l’aire mixti-
@@ -647,11 +599,7 @@ résultat qu’on énonce ainsi :
 Pour avoir la vitesse d’un produit de plusieurs facteurs, rem-
 
 Jules ANDRADE. — Horlogerie et Chronométrie.
-2
-
-[p. 18]
-
-placez chaque facteur par sa vitesse et faites la somme des produits
+2 [p. 18] placez chaque facteur par sa vitesse et faites la somme des produits
 ainsi obtenus.
 Cette règle peut être appliquée au produit :
 
@@ -703,9 +651,7 @@ z(to) = Zq.
 1=^
 (di=n(.
 
-[p. 19]
-
-La solution se ramène aux quadratures et se résume dans les
+[p. 19] La solution se ramène aux quadratures et se résume dans les
 notations
 :
 
@@ -764,9 +710,7 @@ dy'
 dZ ’
 dt '
 
-[p. 20]
-
-ôF
+[p. 20] ôF
 ...
 ....
 ” par exemple signifie
@@ -857,9 +801,7 @@ ds
 cette proposition est connue sous les noms de
 :
 
-[p. 21]
-
-Théorème sur la dérivée totale, ou encore : théorème sur la
+[p. 21] Théorème sur la dérivée totale, ou encore : théorème sur la
 dérivée d’une fonction composée. — Nous pouvons donner enfin
 
 la signification du problème généralisé des vitesses ; soient x, g, z
@@ -922,11 +864,7 @@ du
 7t = G(x, y, z ; t) ;
 pour toute valeur de t
 dz=H(r,
-y, z-, t)-,
-
-[p. 22]
-
-et que, de plus, les valeurs initiales (pour t ==
+y, z-, t)-, [p. 22] et que, de plus, les valeurs initiales (pour t ==
 des fonctions in
 
 connuesx,y,z, soient données et soient respectivement : To, y0 ,
@@ -983,11 +921,7 @@ On remarquera que le problème simple des vitesses de Newton
 
 suppose dans les fonctions /(Z), g(t), h[t) la simple continuité ; tan
 dis que le problème généralisé des vitesses suppose pour les fonc
-tions F, G, H non seulement la continuité, mais encore l’existence
-
-[p. 23]
-
-de taux de variation limités à l’égard des variations géométriques
+tions F, G, H non seulement la continuité, mais encore l’existence [p. 23] de taux de variation limités à l’égard des variations géométriques
 
 des inconnues x,y, z du problème, sinon à l'égard du temps.
 
@@ -1046,9 +980,7 @@ mieux tout d’abord étudier les systèmes oscillants sur arêtes de
 
 couteau.
 
-[p. 24]
-
-Ces systèmes ont pour nous l’immense avantage d’être les seuls
+[p. 24] Ces systèmes ont pour nous l’immense avantage d’être les seuls
 qui puissent être considérés comme la réalisation de solides oscil
 lants, sans doute tous les corps solides sont élastiquement défor
 mables, mais les forces capables de produireces déformations élas
@@ -1084,9 +1016,7 @@ cette relation établissant alors nécessairementune correspondance
 
 entre les unités de force, de masse, de longueur et de temps.
 
-[p. 25]
-
-Envisageons maintenant un point matériel M du solide, porteur
+[p. 25] Envisageons maintenant un point matériel M du solide, porteur
 d’une masse m ; on peut envisager l'ensemble des points M, M',
 du solide comme libres à condition d’introduireentre ces différents
 points groupés deux
@@ -1143,9 +1073,7 @@ solide multipliée par la valeur g de la gravité, c’est-à-dire de l’ac
 célération de la chute des corps.
 Le moment de ce poids par rapport à l’arête du couteau est.
 
-[p. 26]
-
-si OG est incliné de u sur la verticale ; ou — MgL sin u, si L = OG
+[p. 26] si OG est incliné de u sur la verticale ; ou — MgL sin u, si L = OG
 
 .
 = distance de l’arête du couteau au centre de gravité G.
@@ -1200,11 +1128,7 @@ X accélération angulaire.
 
 Donc enfin l’accélération, dans un momentcirculaire, se résout en
 la résultante de deux accélérations, l’une accélération centripète
--dirigée de M vers le centre O et égale à n^r, l’autre accélération
-
-[p. 27]
-
-tangentielle, dirigée suivant la tangente au cercle et égale au
+-dirigée de M vers le centre O et égale à n^r, l’autre accélération [p. 27] tangentielle, dirigée suivant la tangente au cercle et égale au
 
 ,
 produit du rayon multiplié par l’accélération angulaire.
@@ -1289,9 +1213,7 @@ dt
 
 dudt~ n’
 
-[p. 28]
-
-Il suffit maintenant, pour trouver les fonctions u et v de nous
+[p. 28] Il suffit maintenant, pour trouver les fonctions u et v de nous
 rappeler que le problème n’a qu’une solution si on définit les con
 ditions initiales du mouvement, c’est-à-dire les valeurs initiales de u
 et v ; il suffira donc de former une solution ainsi définie.
@@ -1361,11 +1283,7 @@ d’où
 :
 vitesse
 Vz de P = — MQ = — N
-. y
-
-[p. 29]
-
-accélérationj
+. y [p. 29] accélérationj
 x de P = — RB, or
 
 donc
@@ -1428,11 +1346,7 @@ d’où ce théorème
 ; tout mouvement rectiligne oùj
 x = — K2x est
 2
-un mouvement périodique de période K ; cette durée d’une oscilla-
-
-[p. 30]
-
-tion complète de P est indépendante de la position et de la vitesse
+un mouvement périodique de période K ; cette durée d’une oscilla-[p. 30]tion complète de P est indépendante de la position et de la vitesse
 initiale, c’est la propriété de l’isochronisme.
 
 Application au pendule. — Pour un pendule exécutant des os
@@ -1499,11 +1413,7 @@ par son père.
 
 Le géomètre Viviani, élève de Galilée, dans un rapport adressé
 
-au due Léopold de Médicis a donné quelques détails de la concep-
-
-[p. 31]
-
-tion de Galilée, ces détails ont été publiés par Rambal dans son
+au due Léopold de Médicis a donné quelques détails de la concep-[p. 31]tion de Galilée, ces détails ont été publiés par Rambal dans son
 ouvrage
 : Théorie de Thorlogérie (Genève, 1889). La priorité de
 l’idée appartient donc, sans conteste à Galilée ; comme le montrent
@@ -1552,11 +1462,7 @@ fois
 Toutes les lois qu’un mouvement exprime, entre une fonction
 quelconque x du temps t et son accélération x", une relation de la
 forme
-:
-
-[p. 32]
-
-ce mouvement peut toujours s’interprétercomme la.projection d’un
+: [p. 32] ce mouvement peut toujours s’interprétercomme la.projection d’un
 
 mouvementcirculaire uniforme sur l’un de ses diamètres,la vitesse
 angulaire N du mouvement schématique circulaire auxiliaire est
@@ -1617,11 +1523,7 @@ précédente fournit une représentation du temps, car celui-ci varie
 proportionnellement à l’angle variable a = MOX.
 Supposons que le point mobile étant en Pi sur la droite schéma
 tique qu’il décrit, surgisse une brusque variation de vitesse, l'or-
-donnée proportionnelle à la vitesse éprouve un brusque accrois-
-
-[p. 33]
-
-sement M,M2 en sorte que le point schématique M, va être remplacé
+donnée proportionnelle à la vitesse éprouve un brusque accrois-[p. 33]sement M,M2 en sorte que le point schématique M, va être remplacé
 
 par M2, et l’arc de cercle représentatif va être l’arc M,C remplaçant
 l’arc M,B.
@@ -1657,9 +1559,7 @@ de l’attraction du point mort, la durée de l’oscillation est allongée.
 Jules ANDRADE. — Horlogerie et Chronométrie.
 3
 
-[p. 34]
-
-Effet d’un frottement constant. — Supposons, sans figure, que
+[p. 34] Effet d’un frottement constant. — Supposons, sans figure, que
 tout le long de l’oscillation en cours, s’exerce outre la force régu
 
 lière dont l’accélération suit toujours la valeur — K 2
@@ -1717,11 +1617,7 @@ U,=|%|= valeur absolue de To,
 u,=|*,|= valeur absolue de x,
 = u0 — 2F,
 d’où
-un = U, — 2nF,
-
-[p. 35]
-
-LA MESURE MÉCANIQUE DU TEMPS
+un = U, — 2nF, [p. 35] LA MESURE MÉCANIQUE DU TEMPS
 35
 
 pour la semi-amplitude terminale de la
@@ -1765,9 +1661,7 @@ il n’y en aura n +
 1 que si uü —
 2nF est supérieur à F.
 
-[p. 36]
-
-Ces représentationsgéométriquesmettent encore en évidence une
+[p. 36] Ces représentationsgéométriquesmettent encore en évidence une
 importante conséquence : L’isochrononisme sinusoïdal n’est pas
 troublé par un frottement constant, tant que dure le mouvement
 oscillatoire il reste isochrone.
@@ -1822,11 +1716,7 @@ la somme de ces deux durées est
 [(1-1)++(1+1)1]
 
 et tant que / est donné l’isochronisme sera rigoureux. Des chrono
-mètres de ce genre soumis à l’épreuve de réglage, dite épreuve
-
-[p. 37]
-
-d’isochronisme par l’observation de marche des chronomètres
+mètres de ce genre soumis à l’épreuve de réglage, dite épreuve [p. 37] d’isochronisme par l’observation de marche des chronomètres
 marins, avec ressort du rouage soumis à deux armages distincts,
 
 ne manifesteront, nous le verrons que la perturbationdue à l’inertie
@@ -1861,9 +1751,7 @@ La remarque est certainementintéressante bien qu’il n’y ait pas
 lieu pour le moment de prévoir là une véritable compensation des
 anisochronismes.
 
-[p. 38]
-
-CHAPITRE II
+[p. 38] CHAPITRE II
 
 LE TEMPS ET SON CONTROLE ASTRONOMIQUE.
 CONTROLES RÉCIPROQUES DE LA MESURE MÉCANIQUE
@@ -1901,9 +1789,7 @@ glant par des procédés empiriques, efficaces d’ailleurs, mais dont
 les justifications théoriques devaient se faire attendre plus d’un
 siècle après leur emploi instinctif.
 
-[p. 39]
-
-Quel est le temps naturel qui sert de contrôle aux temps marqués
+[p. 39] Quel est le temps naturel qui sert de contrôle aux temps marqués
 
 par les horloges ou par les montres? Le temps ou plutôt le rythme
 
@@ -1958,9 +1844,7 @@ le secours
 des lunettes parvint à
 réduire ces erreurs à l'.
 
-[p. 40]
-
-Cette précision, grande pour l’époque, fut le fruit d’une étude
+[p. 40] Cette précision, grande pour l’époque, fut le fruit d’une étude
 patiente et attentive des perturbations dont la réfraction atmosphé
 rique affecte le visé des astres ; Tycho dressa une table de corrections
 qui pour des distances zénithales de moins de 60°, s’accorde avec les
@@ -2009,11 +1893,7 @@ une
 cause indirecte car les mouvements sont cachés et la vérification
 cinématique fait défaut; la mécanique n’est ici qu’un mode d’expli
 cation ; une doctrine, une philosophie naturelle pourrait-on dire.
-Elle est cependant utile, car dans des questions délicates et im-
-
-[p. 41]
-
-portantes elle suggère non seulement des points de vue théoriques
+Elle est cependant utile, car dans des questions délicates et im-[p. 41]portantes elle suggère non seulement des points de vue théoriques
 précis, mais encore des méthodes de recherche expérimentale
 
 propres à élucider des problèmes scientifiques ou techniques nou
@@ -2061,11 +1941,7 @@ mation du ressort, or la méthode proposéepar Résal ne met enjeu
 
 que la déformation transverse du ressort, c’est-à-dire la déforma
 tion estimée en projection sur un plan perpendiculaire à l’axe du
-balancier ; elle suffit d’ailleurs pour l’évaluation du moment utile
-
-[p. 42]
-
-transmis au balancier, mais son silence sur les effort élastiques
+balancier ; elle suffit d’ailleurs pour l’évaluation du moment utile [p. 42] transmis au balancier, mais son silence sur les effort élastiques
 longitudinaux ne permet pas l’évaluation suffisamment précise des
 frottements dus aux pressions élastiques longitudinales et trans
 
@@ -2117,11 +1993,7 @@ proportionnelle à l’écart du mobile à sa position d’équilibre au
 point mort ; une pareille oscillation interprétée comme mouvement
 rectiligne, peut toujours être envisagéecomme la projection d'un
 
-mouvement circulaire uniforme, cette remarque fournit à la fois
-
-[p. 43]
-
-la solution du problème des petites oscillations du pendule simple
+mouvement circulaire uniforme, cette remarque fournit à la fois [p. 43] la solution du problème des petites oscillations du pendule simple
 
 et en même temps les propriétés des fonctions trigonométriques,
 
@@ -2175,11 +2047,7 @@ sinus des angles opposés et nous trouvons ainsi, (fig. 13)
 OM
 _
 MM'
-sin OMM' ” sin MOM' i
-
-[p. 44]
-
-en faisant alors tendre h vers zéro nous voyons que la vitesse W
+sin OMM' ” sin MOM' i [p. 44] en faisant alors tendre h vers zéro nous voyons que la vitesse W
 
 du mobile M à l’époque actuelle t a la valeur
 
@@ -2238,9 +2106,7 @@ l°En faisant tourner la partie positive de l’axe OX de l’angle V,
 
 mais en sens inverse du mouvement angulaire du rayon vecteur
 
-[p. 45]
-
-LE TEMPS ET SON CONTROLE ASTRONOMIQUE
+[p. 45] LE TEMPS ET SON CONTROLE ASTRONOMIQUE
 45
 
 OM lorsque celui-ci va en décroissant, nous obtenons ainsi une
@@ -2261,11 +2127,7 @@ célération de P il nous suffira de projeter sur OX par des proje
 tantes parallèles à OY soit la vitesse W du mouvement spiral de M
 soit l’accélération de ce même mouvement.
 Soient W, etj
-x les projections obliques de la vitesseW etdel’ac
-
-[p. 46]
-
-célérationj ; en désignant par A et B les intersections respectives
+x les projections obliques de la vitesseW etdel’ac [p. 46] célérationj ; en désignant par A et B les intersections respectives
 
 avec OX de la vitesse W et de l’accélération J nous observons
 
@@ -2341,9 +2203,7 @@ Comme dans la projection rectangulaire du mouvement circulaire
 uniforme, la vitesse de la projection est proportionnelle à la pro
 jetante oblique.
 
-[p. 47]
-
-LE TEMPS ET SON CONTROLE ASTRONOMIQUE
+[p. 47] LE TEMPS ET SON CONTROLE ASTRONOMIQUE
 47
 
 Quant à la valeur de — jr, elle peut s’écrire en vertu de la
@@ -2432,11 +2292,7 @@ N 2
 — x — 2
 —— N VV,
 sin2 V
-sin V
-
-[p. 48]
-
-résultat de la forme :
+sin V [p. 48] résultat de la forme :
 
 (3) A = — Px - QW,
 
@@ -2522,9 +2378,7 @@ ainsi le mouvement
 j
 x = — Pa — QW
 
-[p. 49]
-
-LE TEMPS ET SON CONTROLE ASTRONOMIQUE
+[p. 49] LE TEMPS ET SON CONTROLE ASTRONOMIQUE
 49
 
 ne peut être vibratoire que si
@@ -2582,9 +2436,7 @@ Les vibrationspendulaires amorties pour lesquelles le coefficient
 Jules ANDRADE. — Horlogerie et Chronométrie.
 4
 
-[p. 50]
-
-P de la force de rappel au point mort est fixé et pour lesquelles le
+[p. 50] P de la force de rappel au point mort est fixé et pour lesquelles le
 
 coefficient Q de la résistance visqueuse est également donné sont
 
@@ -2607,11 +2459,7 @@ vitesse s’ajoute la résistance d’un frottement constant ; cette hypo
 thèse se rapprochedelà réalité, car d’une part la résistance de l’air,
 
 à faible vitesse du corps oscillant, est très sensiblement propor
-tionnelle à cette dernière vitesse et d’autre part la résistance d’un
-
-[p. 51]
-
-frottement sensiblement constant (de roulement ou de pivotement)
+tionnelle à cette dernière vitesse et d’autre part la résistance d’un [p. 51] frottement sensiblement constant (de roulement ou de pivotement)
 
 se rencontre unie à la précédente aussi bien dans le mouvement du
 pendule que dans celui du balancier des chronomètres, en pre
@@ -2666,9 +2514,7 @@ d’ailleurs une oscillation suivante ne peut prendre suite que si la
 borne finissante n’est pas encore tombée à l'intérieur de l’inter
 valle LL.
 
-[p. 52]
-
-En supposant que le mouvement se continue, cherchons la relation
+[p. 52] En supposant que le mouvement se continue, cherchons la relation
 
 entre
 Mo,
@@ -2737,9 +2583,7 @@ P
 
 et d’une manière plus précise encore en faisant g = n 4- 1.
 
-[p. 53]
-
-LE TEMPS ET SON CONTROLE ASTRONOMIQUE
+[p. 53] LE TEMPS ET SON CONTROLE ASTRONOMIQUE
 53
 
 Le nombre strict y. d’oscillations est défini par :
@@ -2799,11 +2643,7 @@ vation du solide au repos ; en raison du frottement, il y a à consi
 dérer à l’égard de l’équilibre, non pas un point mort mais une
 
 zone morte ; en vue des applications à l’horlogerie, nous avons en
-effet désigné sous le nom de point-mort : la position du solide pour
-
-[p. 54]
-
-laquelle la force de rappel ou plus exactement le moment de la force
+effet désigné sous le nom de point-mort : la position du solide pour [p. 54] laquelle la force de rappel ou plus exactement le moment de la force
 
 de rappel, prend la valeur zéro; sans doute cette position théo
 rique est unique, mais si elle est la position d'équilibre principale
@@ -2854,11 +2694,7 @@ angle.
 
 Imaginons que nous envisagions les semi-amplitudes groupées
 
-de p en p ; v P étant la valeur absolue de la semi-amplitudefinale de
-
-[p. 55]
-
-la pième oscillation simple en cours nous avons, avec l’introduction
+de p en p ; v P étant la valeur absolue de la semi-amplitudefinale de [p. 55] la pième oscillation simple en cours nous avons, avec l’introduction
 
 i
 ,1+q
@@ -2939,9 +2775,7 @@ Y = m = — ——~ '
 Enfin la durée d’oscillation est :
 =K1+ m3.
 
-[p. 56]
-
-Ainsi les formules de vérification expérimentale des mouvements
+[p. 56] Ainsi les formules de vérification expérimentale des mouvements
 pendulaires doublement amortis enregistrables photographique
 ment se résument dans le tableau suivant.
 
@@ -3011,11 +2845,7 @@ o et Pj et par la distance des
 
 bornes non similaires P et P2j, chacune de ces distances ayant été
 
-diminuée du demi-diamètre photographique du trou lumineux ;
-
-[p. 57]
-
-chaque équation du type précédent détermine alors, eu égard à la
+diminuée du demi-diamètre photographique du trou lumineux ; [p. 57] chaque équation du type précédent détermine alors, eu égard à la
 connaissance préalable de Q' la quantité
 ©
 
@@ -3078,11 +2908,7 @@ l’extinction, la diminution d’amplitude d’une vibration à l’autre,
 ou d’une vibration
 à une autre suffisamment reculée est une
 grandeur physique du même ordre d’importance que la résistance
-passive qui la produit, par contre la durée même de la vibration
-
-[p. 58]
-
-n est affectée que d'une petite quantité dont l'ordre d’importance
+passive qui la produit, par contre la durée même de la vibration [p. 58] n est affectée que d'une petite quantité dont l'ordre d’importance
 
 est de l’ordre de grandeur, non pas de la petite cause perturba
 trice mais de l’ordre de son carré, par exemple dans l’amortisse
@@ -3139,9 +2965,7 @@ l’échappement
 près,
 avec celte variante importante toutefois que l’impulsion
 
-[p. 59]
-
-LE TEMPS ET SON CONTROLE ASTRONOMIQUE
+[p. 59] LE TEMPS ET SON CONTROLE ASTRONOMIQUE
 59
 
 réparatrice s’étale dans le temps comme dans l'espace tout autour
@@ -3186,11 +3010,7 @@ Tout d’abord : le cas où la résistance passive est un simple frotte
 ment constant ; admettons que le choc instantané s’effectue au
 point mort de la force pendulaire, O.
 
-La figure ci-jointe montre le schéma de l’oscillation simple en
-
-[p. 60]
-
-cours, représenté par un mouvement rectiligne de gauche à droite,
+La figure ci-jointe montre le schéma de l’oscillation simple en [p. 60] cours, représenté par un mouvement rectiligne de gauche à droite,
 A la borne gauche initiale, Ai la borne de droite de l’oscillation
 restaurée.
 Et supposons d’abord, comme ceci se présente dans le choc des
@@ -3257,9 +3077,7 @@ K+3/) 2 -(^-/)2 = A2
 6 +3/) 2 — {u, —
 = h2
 
-[p. 61]
-
-Concevons les relations précédentes écrites sous la forme équi
+[p. 61] Concevons les relations précédentes écrites sous la forme équi
 valente plus condensée :
 
 U2 == «(u,)
@@ -3321,11 +3139,7 @@ mais une quantité de mouvement constante. En ce cas, sur le
 dessin schématique, c’est l’accroissementsubit de vitesse qui est
 constant
 
-MN = ON — OM = VR; — f — VRZ — f'2 = c = constante,
-
-[p. 62]
-
-puis
+MN = ON — OM = VR; — f — VRZ — f'2 = c = constante, [p. 62] puis
 
 R, = U, — f,
 Ri — U, + f,
@@ -3398,9 +3212,7 @@ Un avantage plus important serait lié à cette disposition, à
 savoir que l'établissement du régime limite cesserait de dépendre
 de la loi admise pour la puissance de la longueur MN que
 
-[p. 63]
-
-LE TEMPS ET SON CONTROLE ASTRONOMIQUE
+[p. 63] LE TEMPS ET SON CONTROLE ASTRONOMIQUE
 63
 
 Véchappement laisserait constante, ou plutôt dans ce cas d'iso-
@@ -3446,9 +3258,7 @@ en faveur de l'adoption de la position du point mort convenable
 ment décalé pour produire l’action instantanée de l'échappement
 gardent ici toute leur valeur.
 
-[p. 64]
-
-En arrivant à la fin de ce chapitre, résumons le chemin
+[p. 64] En arrivant à la fin de ce chapitre, résumons le chemin
 parcouru. — Le premier fait physique qui a, je ne dirai pas fondé
 
 la Chronométrie mais laissé nettement entrevoir la possibilité de
@@ -3461,9 +3271,7 @@ C’est d’abord la désignation d’un organe réglant des horloges,
 c’est ensuite, pas mal d’années plus tard, la désignation plus
 instinctive mais formelle de l’organe réglant des chronomètres.
 
-[p. 65]
-
-CHAPITRE III
+[p. 65] CHAPITRE III
 
 LES
 ÉCHAPPEMENTS
@@ -3505,9 +3313,7 @@ d’élasticité.
 Jules ANDRADE. — Horlogerie et Chronométrie.
 5
 
-[p. 66]
-
-Avant d’aborder ces chapitres nouveaux, communs à l’étude des
+[p. 66] Avant d’aborder ces chapitres nouveaux, communs à l’étude des
 phénomènes physiques de l’élasticité et à l’étude encore ouverte
 des théories chronométriques, il est essentiel de nous familiariser
 
@@ -3561,9 +3367,7 @@ avec la roue de rencontre.
 Une des dents de la couronne glisse sur l’une des palettes en
 donnant une impulsion au foliot, la roue de couronne échappe
 
-[p. 67]
-
-Fig. 19.
+[p. 67] Fig. 19.
 
 puis une dent à peu près diamétralement opposée vient chuter sur
 l’autre palette mais la roue entraînée par le balancier rétrograde
@@ -3615,9 +3419,7 @@ du balancier avec l’axe de la première roue d’échappement.
 Ces deux axes furent ramenés au parallélisme ce qui conserva
 le déplacement des palettes dans le.plan même de la roue.
 
-[p. 68]
-
-Les palettes prirent alors la forme des deux bras d’une ancre,
+[p. 68] Les palettes prirent alors la forme des deux bras d’une ancre,
 et ces deux bras se terminèrent chacun par une facette d’impulsion,
 
 encore aujourd’hui nommée incliné.
@@ -3672,11 +3474,7 @@ avec la roue d’échappement, mais encore ce contact met en jeu un
 effort tangentiel qui persiste bien au delà de la phase d’impulsion
 permise au voisinage suffisant du point mort.
 Un grand progrès fut réalisé par la fixation sur chaque bras de
-l’ancre d’une face de repos, face cylindrique ayant pour axe l’axe
-
-[p. 69]
-
-de l’ancre et sur laquelle repose sans effort tangentiel (autre que le
+l’ancre d’une face de repos, face cylindrique ayant pour axe l’axe [p. 69] de l’ancre et sur laquelle repose sans effort tangentiel (autre que le
 frottement) la roue d’échappement ; le recul de la roue est alors
 supprimé. Chaque bras de l’ancre porte ainsi deux facettes, une
 facette destinée à recevoirl’impulsion, nommée l'inclinéet la facette
@@ -3713,11 +3511,7 @@ sation d’échappements libres est due à l’artiste Anglais Arnold.
 Mentionnons d’abord deux autres échappementsà repos.
 
 Échappement à chevilles. — Dans cet échappement, la roue
-porte non plus des dents, mais une rangée de chevilles perpendi-
-
-[p. 70]
-
-culaires à son plan ; chaque cheville est entaillée de moitié, afin de
+porte non plus des dents, mais une rangée de chevilles perpendi-[p. 70]culaires à son plan ; chaque cheville est entaillée de moitié, afin de
 diminuer la chute après l’impulsion ; elle agit alternativement sur
 les deux becs de l’ancre, placés à peu
 de distance l’un de l’autre et d’un
@@ -3754,9 +3548,7 @@ entaillées jusqu’à moitié. Les dents de la roue font repos sur la
 partie centrale de la demi-circonférence de la cheville et pendant
 l’arc d’impulsion la cheville glisse sur le devant de la dent.
 
-[p. 71]
-
-Les chevilles souvent sont faites en pierre dure.
+[p. 71] Les chevilles souvent sont faites en pierre dure.
 
 Cet échappement a été apprécié dans des horloges de faibles di
 mensions.
@@ -3800,9 +3592,7 @@ raître des montres de moyennesdimensions dès que l’échappement
 à ancre a pu être taillé à bas prix par les machines-outils et par
 fabrication en séries.
 
-[p. 72]
-
-L’échappementà cylindre exige de l’huile sur ses contacts.
+[p. 72] L’échappementà cylindre exige de l’huile sur ses contacts.
 Les deux lèvres du cylindre doivent être bien disposées en regard
 
 de la roue, et le balancier doit parcourir de chaque côté de sa
@@ -3850,9 +3640,7 @@ poche.
 Sur la coche du rouleau on met de l’huile, on n’en met point sur
 la palette.
 
-[p. 73]
-
-Échappements libres. — Le Français Pierre Le Roy en eut le
+[p. 73] Échappements libres. — Le Français Pierre Le Roy en eut le
 premier l’idée; mais le chronométrier anglais Arnold, au xvine siècle,
 comprit le premier le rôle des échappements libres et leur impor
 
@@ -3901,11 +3689,7 @@ Le mouvement k1 du balancier soulève le ressort d’or sans en ¬
 traîner la détente ; dans les deux cas la pression est donnée sur le
 
 ressort d’or par une petite palette de rubis encastré dans le second
-plateau fixé sur l’axe du balancier. La portée delà dent sur le repos
-
-[p. 74]
-
-est réglée par une vis de laiton, vissée sur le bâti D qui supporte déjà
+plateau fixé sur l’axe du balancier. La portée delà dent sur le repos [p. 74] est réglée par une vis de laiton, vissée sur le bâti D qui supporte déjà
 l’encastrement de la détente ; le bouton de la vis d’arrêt appuie la
 détente lorsque celle-ci revient après le dégagement.
 La figure 26, par les flèches indiquant le sens de la rotation de
@@ -3956,11 +3740,7 @@ externe inclinée', dans sa première action sur l’ancre, la pointe delà
 dent glisse sur l’incliné du levier en rubis, exactement comme dans
 l’échappement anglais à dents pointues figuré un peu plus loin ;
 dans la fin de la conduite, c’est la pointe de la facette du levier de
-l’ancre : pointe de droite de l’incliné n ou n‘ des leviers de l’ancre
-
-[p. 75]
-
-dans le dessin de la figure 28 qui glisse sur la surface de l’incliné
+l’ancre : pointe de droite de l’incliné n ou n‘ des leviers de l’ancre [p. 75] dans le dessin de la figure 28 qui glisse sur la surface de l’incliné
 
 de la dent.
 
@@ -4016,11 +3796,7 @@ actuel k'.
 
 Organes contre le renversement. —
 On voit sur la même
-figure 28 deux goupilles fixes r et/ nommées parois', elles limitent
-
-[p. 76]
-
-le déplacement de l’ancre ; actuellement la fourchette de l’ancre
+figure 28 deux goupilles fixes r et/ nommées parois', elles limitent [p. 76] le déplacement de l’ancre ; actuellement la fourchette de l’ancre
 
 est appuyée sur la paroi r ; mais il pourraitarriver qu’une secousse
 accidentelle de la montre, triomphant de la faible inertie de l’ancre,
@@ -4082,11 +3858,7 @@ Dans l’échappement de Graham pour horloges, la pointe A de la
 
 roue d’échappement dont l’axe J est actionné par le rouage, tend
 
-à prendre une vitesse perpendiculaire à AJ ; si donc la droite de
-
-[p. 77]
-
-jonction de A au centre I de l’ancre est perpendiculaire au rayon AJ
+à prendre une vitesse perpendiculaire à AJ ; si donc la droite de [p. 77] jonction de A au centre I de l’ancre est perpendiculaire au rayon AJ
 
 de la roue, la pression sur l’ancre passe par l’axe de l’ancre ; or
 pour les horloges l’ancre de Graham avait son axe confondu avec
@@ -4178,9 +3950,7 @@ est obtenu par une rotation de prolongement du rayon d’appui qui
 
 est de même sens que le mouvement de la roue d'échappement.
 
-[p. 78]
-
-Ainsi, de cette simple disposition résulte un effort direct du
+[p. 78] Ainsi, de cette simple disposition résulte un effort direct du
 
 rouage pour appuyer légèrement la fourchette de l’ancre contre sa
 paroi. Cette force tend à faire tourner l’ancre en sens inverse de
@@ -4221,11 +3991,7 @@ A) Les mouvements de l’ancre. — Parmi ceux-ci on distingue :
 depuis l’instant où la pointe d’une dent de la roue d’échappement
 quitte son appui stationnaire sur le plan de repos jusqu’au moment
 où cette pointe passe de la face de repos à la face de l’incliné sur
-le rubis encastré au bras de l’ancre ;
-
-[p. 79]
-
-2° L’angle d'impulsion : angle dont tourne l’ancre depuis la
+le rubis encastré au bras de l’ancre ; [p. 79] 2° L’angle d'impulsion : angle dont tourne l’ancre depuis la
 position pour laquelle la dent de la roue commence à actionner
 l’incliné jusqu’en la position pour laquelle la dent engagée aban
 
@@ -4276,11 +4042,7 @@ gradation de la roue pendant que l’ancre décrit un angle égal à
 son angle de repos plus son chemin perdu.
 
 D) Etat de plateau et ébat de cornes. — L’angle que décrit la
-fourchette depuis l’appui à la paroi jusqu’en la position du contact
-
-[p. 80]
-
-correspondantdu dard et de la circonférence de plateau est
+fourchette depuis l’appui à la paroi jusqu’en la position du contact [p. 80] correspondantdu dard et de la circonférence de plateau est
 « l’ébat
 
 de plateau
@@ -4352,9 +4114,7 @@ D =
 •
 cos 30° ’
 
-[p. 81]
-
-exemple
+[p. 81] exemple
 : si R = 150mm,
 D= 173mm,2.
 
@@ -4419,15 +4179,11 @@ représententd’ailleurs l’un et l’autre au même moment de la situa-
 Jules ANDRADE. — Horlogerie et Chronométrie.
 6
 
-[p. 82]
-
-Fig. 32.
+[p. 82] Fig. 32.
 
 Fig. 33.
 
-[p. 83]
-
-tion relative variable de l’ancre et de la roue d’échappement,
+[p. 83] tion relative variable de l’ancre et de la roue d’échappement,
 à
 l’instant du repos de la pointe d’une dent sur le rubis d’entrée.
 
@@ -4519,9 +4275,7 @@ puis toujours autour de O' l’arc de
 repos J‘R représentant un angle au
 centre de 1°.
 
-[p. 84]
-
-Traçons la perpendiculaire RH à OR, inclinons la de 15° autour
+[p. 84] Traçons la perpendiculaire RH à OR, inclinons la de 15° autour
 de R en RK ; l’intersection S de RK avec O‘J donne le point S ter
 minal commun à la face de repos et à la face d’impulsion du
 second levier. La jonction du point S au point D représente par le
@@ -4544,11 +4298,7 @@ Fig. 34.
 dairedela roue d’échappement qui appuie soit sur la face de repos,
 soit sur l’incliné d’un levier de l’ancre, ce point est de fait la pointe
 
-de la dent de la roue d’échappement ; dans l’échappement suisse,
-
-[p. 85]
-
-voir figure 35, on observe que les dents après le flanc dont l’angle
+de la dent de la roue d’échappement ; dans l’échappement suisse, [p. 85] voir figure 35, on observe que les dents après le flanc dont l’angle
 appuie sur le repos du levier de l’ancre présentent un front presque
 perpendiculaire au flanc et large assez pour affaiblir quelque peu
 les naissances des dents sur la couronne de la roue
@@ -4606,11 +4356,7 @@ le mouvement d’orientation du front se sépareraient, on réduit
 alors l’incliné LP en LQ et alors le front de la dent va pousser la
 
 pointe Q du levier réduit, la fin de la levée s’achèvera alors par
-l’appui de la pointe Q du levier qui va glisser sur la surface du
-
-[p. 86]
-
-front de la dent qui pousse cette pointe. La pointe glissante et
+l’appui de la pointe Q du levier qui va glisser sur la surface du [p. 86] front de la dent qui pousse cette pointe. La pointe glissante et
 poussante était d’abord le point B de la roue, mais dans la seconde
 
 phase du mouvement qui résulte de la réduction du levier d’ancre
@@ -4653,9 +4399,7 @@ De 0 comme centre on fait tourner 00 de l’angle de 15° moitié
 
 de la levée de l’angle du balancier ; les deux droites obtenues se
 
-[p. 87]
-
-LES ÉCHAPPEMENTS
+[p. 87] LES ÉCHAPPEMENTS
 S?
 
 coupent en p, on trace par ce point une circonférenceconcentrique
@@ -4707,11 +4451,7 @@ ont alors 0mm,025. Si donc, sur un dessin à grande échelle appli
 
 cable à une montre de 43 millimètres, la distance des centres
 
-ancre et balancier qui vaut 6 millimètres est représentée par
-
-[p. 88]
-
-1
+ancre et balancier qui vaut 6 millimètres est représentée par [p. 88] 1
 200 millimètres, l’agrandissement sera 33 3 ; sur ce dessin la
 
 distance entre l’extrémité de l’entrée et le point le plus extérieur
@@ -4765,11 +4505,7 @@ glissement par les deux surfaces en contact lorsque la vitesse rela
 tive du point du solide S' actuellement en coïncidence avec le point
 
 de contact des deux surfaces tangentes n’est pas nulle.
-Lorsqu’il en est ainsi les forces mutuelles des deux solides en
-
-[p. 89]
-
-contact se résolvent en
+Lorsqu’il en est ainsi les forces mutuelles des deux solides en [p. 89] contact se résolvent en
 :
 1° une action N du solide
 S sur le
@@ -4818,11 +4554,7 @@ la force normale d’appui se nomme coefficient de frottement de
 glissement des deux surfaces ; dans d’assez larges limites semble-
 t-il, ce coefficient est indépendant de la pression, et de la vitesse
 relative qu’elle tend à retarder.
-Admettons ces lois et appliquons les à la recherche de la trans-
-
-[p. 90]
-
-mission de la force dans l’échappement et considérons d’abord,
+Admettons ces lois et appliquons les à la recherche de la trans-[p. 90]mission de la force dans l’échappement et considérons d’abord,
 
 le cas d’équilibre.
 Considérons par exemple le frottement exercé sur l’incliné du
@@ -4888,11 +4620,7 @@ Puis,
 P = Nr sin a 4- fN[(r‘ — r) cos a — p]
 
 Q = Nr sin a 4- /N'
-. p
-
-[p. 91]
-
-d’où
+. p [p. 91] d’où
 P
 r sin a H- f[(r‘ — r) cos a — p
 Q
@@ -4949,11 +4677,7 @@ durant la levée de sortie.
 Angle et Force de tirage ; Force de dégagement
 
 On a signalé plus haut l’ingénieuse disposition du tirage, simple
-inclinaison de la face de repos des leviers de l’ancre qui garantit
-
-[p. 92]
-
-une pression de la fourchette sur les parois ; cette pression étant
+inclinaison de la face de repos des leviers de l’ancre qui garantit [p. 92] une pression de la fourchette sur les parois ; cette pression étant
 naturellement empruntée à la roue d’échappement c’est-à-dire au
 rouage. Il reste à indiquer le calcul de la valeur qu’il convient de
 donner à l’angle de tirage. A ce calcul se rapporte la figure suivante.
@@ -4980,11 +4704,7 @@ pointe de la dent de la roue agit comme une répulsion N ; sur l’ancre
 
 la pression norme et la face de frottement ont les sens de N' et de fN‘
 
-Supposons, pour fixer les idées qu’il sagisse du tracé sur repos
-
-[p. 93]
-
-équidistants,, soient O’A = 7, OA = R AOO’ — 30° l’équilibre de
+Supposons, pour fixer les idées qu’il sagisse du tracé sur repos [p. 93] équidistants,, soient O’A = 7, OA = R AOO’ — 30° l’équilibre de
 
 la roue est exprimé par l’égalité
 
@@ -5048,11 +4768,7 @@ Force de
 dégagement. — Lors du dégagement, le mouvement
 naissant va être de sens contraire au mouvement naissant qui réa
 lise l’appui sur la paroi, il suffit de changer dans les formules pré
-cédentes le signe de / et par conséquent celui de ©. Le moment de
-
-[p. 94]
-
-dégagement de l’ancre qui devra vaincre le repos de la roue d’échap
+cédentes le signe de / et par conséquent celui de ©. Le moment de [p. 94] dégagement de l’ancre qui devra vaincre le repos de la roue d’échap
 pement aura donc sa valeur Q‘ déterminée par la formule
 $ = tg 30° tg (a +
 ç) ;
@@ -5101,11 +4817,7 @@ Sur la ligure 43, et dans la position d’équilibre supposé, nous
 
 voyons en OH et O'H' les bras de levier des pressionsmutuellesdelà
 
-fourchette et de la cheville de plateau : pression N sur la fourchette,
-
-[p. 95]
-
-normale à la joue de celle-ci, et la contre pression N‘ sur le balancier ;
+fourchette et de la cheville de plateau : pression N sur la fourchette, [p. 95] normale à la joue de celle-ci, et la contre pression N‘ sur le balancier ;
 soient
 : F le moment du rouage sur l’ancre ; M
 . a le moment de
@@ -5151,11 +4863,7 @@ O‘H‘
 Fr
 d — M ’ OH “ M r ‘
 r’
-On peut déduire approximativement le rapport - des levées du
-
-[p. 96]
-
-balancier et de l’ancre; soient : 10°= levée de l’ancre, et 30° = levée
+On peut déduire approximativement le rapport - des levées du [p. 96] balancier et de l’ancre; soient : 10°= levée de l’ancre, et 30° = levée
 du balancier ; on aura sensiblement :
 
 r‘ _
@@ -5216,9 +4924,7 @@ sur l’action du spiral ; en ce cas il n’y aura donc pas d’arrêt sur le
 repos.
 Soit b' l’angle que le balancier avant le passage au point mort lors
 
-[p. 97]
-
-LES ÉCHAPPEMENTS
+[p. 97] LES ÉCHAPPEMENTS
 97
 
 de l’équilibre dont on vient de parler ; la force nécessaire au déga
@@ -5281,9 +4987,7 @@ pointe de la dent sur l’incliné d’un levier del’ancre, nous dési-
 
 Jules ANDRADE. — Horlogerie et Chronométrie.
 
-[p. 98]
-
-gnerons le segment 10 de la ligne des centres par 0 et le segment O'I
+[p. 98] gnerons le segment 10 de la ligne des centres par 0 et le segment O'I
 
 par 0, l’inclinaison de la normale à l’incliné sur la ligne des centres
 étant dénommée a, les formules rappelées s’écrivent :
@@ -5385,11 +5089,7 @@ y = 23-32'
 2=
 0,445
 )
-ou 0,338 < 0,87
-
-[p. 99]
-
-la condition
+ou 0,338 < 0,87 [p. 99] la condition
 de compatibilité étant satisfaite, il suffira de réu
 nir les
 deux
@@ -5443,9 +5143,7 @@ la roue et l’ancre.
 
 [^p99-1]: Calculé plus haut sur les figures 40 et 41.
 
-[p. 100]
-
-L’échappement, le régime limite et l’acheminement
+[p. 100] L’échappement, le régime limite et l’acheminement
 
 L’échappementà ancre des montres sur lequel nous nous sommes
 arrêtés avec quelques détails, quoi qu’il soit relativementrécent, se
@@ -5470,11 +5168,7 @@ vibration presque strictement pendulaire du pendule réglant,
 
 pourrait-il en être de même pour un chronomètre? la constance du
 
-frottement lié à la pression du rouage ici liée au développement du
-
-[p. 101]
-
-ressort moteur est invraisemblable, et, d’ailleurs cette constance
+frottement lié à la pression du rouage ici liée au développement du [p. 101] ressort moteur est invraisemblable, et, d’ailleurs cette constance
 
 avec une régularité douteuse de la proportionnalité du moment
 transmis au balancier par le spiral ne garantissait plus l’isochro
@@ -5520,11 +5214,7 @@ Ce nom sert à désigner la marche d’une horloge ou d’un chrono
 mètre dont le balancier vient d’être lancé jusqu’à la réalisation
 d’un régimepériodique caractérisé pour un instrument donné par
 son amplitude de régime.
-Cette convergence vers un régime limite périodiqueparaît un fait
-
-[p. 102]
-
-certain, sa réalisation est cependant liée non seulement à Faction
+Cette convergence vers un régime limite périodiqueparaît un fait [p. 102] certain, sa réalisation est cependant liée non seulement à Faction
 régulière de
 l’échappement mais encore
 à la spécialisation de
@@ -5587,9 +5277,7 @@ lations simples des rangs 1, 3, 5..., etc.
 (2bis)
 [(a + 3/) 2- “1— [(a- fy-- “l*==3.
 
-[p. 103]
-
-Et de plus la condition de sécurité de convergence sera de
+[p. 103] Et de plus la condition de sécurité de convergence sera de
 :
 
 valeur absolue de
@@ -5658,9 +5346,7 @@ ya—f/
 à cette condition on satisfera, avec avantage pour l’isochronisme
 complet par © = 0.
 
-[p. 104]
-
-Conclusions.— On voit donc que l'acheminement vers un régime
+[p. 104] Conclusions.— On voit donc que l'acheminement vers un régime
 limite périodique, dans le cas du problème étudié n’est mathémati
 quement possible, pour des lois de choc du type envisagé, que dans
 le cas où p serait supérieure à J. On ne peut obtenir un isochro
@@ -5708,9 +5394,7 @@ d’autres frottements que l’on rencontrera dans certains dispositifs
 
 des chronomètres.
 
-[p. 105]
-
-Nous en avons déjà signalé un : le frottement proportionnel à la
+[p. 105] Nous en avons déjà signalé un : le frottement proportionnel à la
 valeur absolue de l’écart au point mort (page 36), lorsque son
 coefficientest constant ce frottement ne troublera pas les épreuves
 d’isochronisme.
@@ -5769,11 +5453,7 @@ En ce cas c’est la durée de la période de deux oscillationssimples
 consécutivesqui est la durée périodique qu’il faut proprementcon
 sidérer, comme l’élément caractéristique précis du chronomètre.
 Etudions le problème de l’acheminement sur cet exemple, si le
-choc instantané est donné à distance © du point mort décalé I et si
-
-[p. 106]
-
-l’échappement est à coup perdu ; la relation des deux semi-ampli-
+choc instantané est donné à distance © du point mort décalé I et si [p. 106] l’échappement est à coup perdu ; la relation des deux semi-ampli-
 tudes Mo et u, devient, dans les mêmes hypothèses que plus haut :
 
 [(u, + 1)2
@@ -5821,9 +5501,7 @@ la différence u^_n — u0 est observable.
 Pour trouver séparément/ et
 nous aurons recours à la donnée
 
-[p. 107]
-
-T
+[p. 107] T
 préalable dans les questions de ce genre, au rapport K2; des for
 
 mules établies plus haut
@@ -5901,11 +5579,7 @@ immuables, les frottements constants et même ceux à variation
 régulière comme nous venons de le voir ne sont pas dangereux et
 même nous avons vu par l’exemple cité plus haut qu’il est possible
 
-de distribuer la phase d’action de l’échappement de manière que
-
-[p. 108]
-
-les variations du choc réparateur ne troublent pas l’isochronisme
+de distribuer la phase d’action de l’échappement de manière que [p. 108] les variations du choc réparateur ne troublent pas l’isochronisme
 naturel de l’organe réglant, le frottementconstant est complètement
 inoffensif, et le frottement à variation régulière jouit de la même
 propriété, si l’organe réglant possède ce qu’on appelle l’isochro
@@ -5964,11 +5638,7 @@ T2
 1.2. KK
 sensiblement.
 
-On voit que T croissant avec la vieillesse des huiles, les batte-
-
-[p. 109]
-
-LES ÉCHAPPEMENTS
+On voit que T croissant avec la vieillesse des huiles, les batte-[p. 109]LES ÉCHAPPEMENTS
 109
 
 ments réguliers (pour un échappement renouvelé en position)
@@ -6021,9 +5691,7 @@ nisme dues à l’échappement, et cette analyse pour être suffisam
 ment efficace doit porter sur des échappements qui se rappochent
 suffisamment de l’échappement théorique à choc instantané.
 
-[p. 110]
-
-Pour des chronomètres, ces expériences devront être faites avec
+[p. 110] Pour des chronomètres, ces expériences devront être faites avec
 un échappement électrique à deux petits électro-aimants opposés
 diamétralement et qui produiront une impulsion réduite à un couple
 
@@ -6073,11 +5741,7 @@ trois fonctions des trois genres de mécanismes d’une machine
 horaire.
 
 Les rouages généraux de la mécanique n’appartiennent pas à
-l’horlogerie proprementdite, ils acquièrent seulement une spécia-
-
-[p. 111]
-
-lisation toute particulière dans les montres compliquées en raison
+l’horlogerie proprementdite, ils acquièrent seulement une spécia-[p. 111]lisation toute particulière dans les montres compliquées en raison
 du nombre des organes destinés à indiquer l’heure et tous autres
 renseignements variés multipliés à plaisir et en raison de la diffi-
 culté du logement ; la mécanique propre des machines destinées
@@ -6097,9 +5761,7 @@ Avant d’aborder plus à fond la mécanique du réglage nous aurons
 pour reprendre ensuite l’étude de son influence sur la stabilité du
 réglage.
 
-[p. 112]
-
-CHAPITRE IV
+[p. 112] CHAPITRE IV
 
 LE ROUAGE INTERMÉDIAIRE
 
@@ -6137,11 +5799,7 @@ déplacements intermittents nécessaires à l’inscription de l'heure,
 la correspondancequi doit exister entre les dents d’une roue et les
 ailes d’un pignon ne serait assujettiequ’à la conditionque la menée
 
-des deux corps tournants, autour d’axes généralement parallèles,
-
-[p. 113]
-
-produise deux déplacements totaux simultanés et ayant chacun une
+des deux corps tournants, autour d’axes généralement parallèles, [p. 113] produise deux déplacements totaux simultanés et ayant chacun une
 valeur donnée, puis se répétant d’un contact au suivant.
 
 La seule condition essentielle serait alors la répétition identique
@@ -6202,11 +5860,7 @@ rallèle au premier.
 Si on néglige le frottement, l’action mutuelle des deux solides
 
 Jules ANDRADE. — Horlogerie et Chronométrie.
-8
-
-[p. 114]
-
-114
+8 [p. 114] 114
 HORLOGERIE ET CHRONOMÉTRIE
 
 est dirigée suivant la normale commune aux deux surfaces cylin
@@ -6276,11 +5930,7 @@ La chose est aisée, si nous nous rappelons la notion A'orienta
 
 tion d’un solide par rapport à un autre solide.
 
-Le déplacement relatif d’un solide par rapport à un autre solide
-
-[p. 115]
-
-peut toujours être obtenu en situant d’abord la position nouvelle
+Le déplacement relatif d’un solide par rapport à un autre solide [p. 115] peut toujours être obtenu en situant d’abord la position nouvelle
 d’un point particulier A du solide, puis en situant l’ensemble des
 directions invariablement liées au solide et qui sont censées émaner
 de ce point.
@@ -6332,9 +5982,7 @@ position finale B' (fig. 48).
 
 Nous aboutissons alors au tracé suivant : soit mené le déplace-
 
-[p. 116]
-
-116
+[p. 116] 116
 HORLOGERIE ET CHRONOMÉTRIE
 
 ment AA' du point particulier A du solide, et soit donnée la rota
@@ -6403,11 +6051,7 @@ On peut d’ailleurs établir géométriquement que lorsque
 
 deux courbes actuellement en contact roulent l’une sur l’autre,
 
-chaque point de contact est un point de vitesse nulle et que la
-
-[p. 117]
-
-distribution des vitesses actuelles des autres points de
+chaque point de contact est un point de vitesse nulle et que la [p. 117] distribution des vitesses actuelles des autres points de
 la figure
 solide est la même que si la figure se mettait à tourner avec une
 vitesse angulaire convenable autour du point considéré ; à ce point,
@@ -6448,11 +6092,7 @@ Supposons qu’une courbe actuellement dénommée D de la figure
 solide en glissement plan, admette une courbe enveloppe, le point A
 
 de contact de ces deux courbes devra être à l’époque considérée,
-le pied d’une normale commune aux deux courbes qui passe par
-
-[p. 118]
-
-le centre instantané de rotation de la figure plane en glissement
+le pied d’une normale commune aux deux courbes qui passe par [p. 118] le centre instantané de rotation de la figure plane en glissement
 plan.
 Soient D et D' deux positions voisines de la courbe (fig. 51).
 Soit A' la position, lors de la seconde époque, voisine du point
@@ -6503,11 +6143,7 @@ deux mouvements simultanésrésulte de la conduite mutuelle de deux
 profils liés à deux roues de centres respectifs respectifs O et O', la
 normale commune aux deux profils doit passer par le centre des
 vitesses du mouvement de l’une des roues par rapport à l’autre.
-D’autre part, dans ce mouvement, le point O reste à une dis-
-
-[p. 119]
-
-lance constante de 0', donc la vitesse relative dé chaque centre est
+D’autre part, dans ce mouvement, le point O reste à une dis-[p. 119]lance constante de 0', donc la vitesse relative dé chaque centre est
 
 par rapport à l’autre roue, perpendiculaire au rayon, donc la nor
 male commune est ainsi sur la ligne des centres. La normale com
@@ -6570,11 +6206,7 @@ tant, la transmission des vitesses angulaires entre les deuxsolides
 
 a lieu aussi suivant un rapport constant.
 On peut vérifier en ce cas particulier le principe du travail car,
-soit M le moment moteur sur le solide 0, M‘ le moment résistant
-
-[p. 120]
-
-sur le solide O', considérons deux rotations infiniment petites
+soit M le moment moteur sur le solide 0, M‘ le moment résistant [p. 120] sur le solide O', considérons deux rotations infiniment petites
 simultanées u et u‘ des deux solides.
 On a
 
@@ -6617,11 +6249,7 @@ roulant l’une sur l’autre.
 Quant au sens dans lequel il faut conduire le dit roulement, il
 
 est complètement défini par cette circonstance que ce roulement
-doit, pour produire le mouvement relatif du solide O' par rapport
-
-[p. 121]
-
-au solide 0, équivaloir à une rotation depuis la position relative
+doit, pour produire le mouvement relatif du solide O' par rapport [p. 121] au solide 0, équivaloir à une rotation depuis la position relative
 
 de la roue placée en 0/ exécutée autour de 0, égale et contraire
 
@@ -6674,9 +6302,7 @@ quand on remonte le roulement de O' sur 0, soit 12 sur la roue 0
 la position du point qui était le point de contact des circonférences
 primitives à l’origine du mouvement relatif de roulement.
 
-[p. 122]
-
-Traçons le cercle qui admet OT comme diamètre, soit C son
+[p. 122] Traçons le cercle qui admet OT comme diamètre, soit C son
 centre, l’angle ACI est le double de AOT, donc l'arc Al du petit
 cercle de rayon moitié moindre vaut l’arc IL de la circonférence
 primitive de 0', donc aussi l’arc IL de la circonférence primitive
@@ -6698,9 +6324,7 @@ le profil LA et qui est dessiné en LA après le passage sur la ligne
 
 des centres.
 
-[p. 123]
-
-Dans le rouage principal des montres ou horloges, c’est le mo
+[p. 123] Dans le rouage principal des montres ou horloges, c’est le mo
 bile dont la circonférence primitive est la plus grande qui conduit
 celui dont la circonférence primitive est moindre; le premier mo
 bile prend alors le nom de roue, le second mobile prenant le nom
@@ -6747,11 +6371,7 @@ en effet, est imposé :
 
 à diviser
 » ;
-2° Par les ébats nécessaires aux pivots dans leurs colliers ;
-
-[p. 124]
-
-3° Par les changements de température et de dimensions;
+2° Par les ébats nécessaires aux pivots dans leurs colliers ; [p. 124] 3° Par les changements de température et de dimensions;
 4° Par l’introduction inévitable de petits corps étrangers dans
 les dentures.
 
@@ -6800,9 +6420,7 @@ les plus simples sur les propriétés des fonctions sinus, cosinus, et
 à l’aide des relations trigonométriques concernant les 6 éléments
 d’un triangle plan, les 3 angles et leurs trois côtés.
 
-[p. 125]
-
-Soient :
+[p. 125] Soient :
 A le contact actuel du Hac rectiligne de Vaile et du profil épicij-
 cloidal de la dent ;
 
@@ -6829,11 +6447,7 @@ est exprimé par l’égalité
 (1)
 va = R(u -r b)
 
-Soit P la projection de A sur la ligne des centres ;
-
-[p. 126]
-
-Soit enfin C le milieu de 10', centre du cercle générateur de l’épi-
+Soit P la projection de A sur la ligne des centres ; [p. 126] Soit enfin C le milieu de 10', centre du cercle générateur de l’épi-
 cycloïde décrite par A. Le triangle CAO nous donne :
 
 I
@@ -6905,9 +6519,7 @@ n = 60
 
 n‘ = 6.
 
-[p. 127]
-
-Le jeu n’étant prélevé que sur le pignon,
+[p. 127] Le jeu n’étant prélevé que sur le pignon,
 
 l’équation (3) résolue par approximations successives donne
 :
@@ -6964,11 +6576,7 @@ double condition d’avoir pour axe de symétrie la bissectrice du
 plein de l’aile et d’admettre, au point de raccordementavec le profil
 épicycloïdal meme rayon de courbure que cette épicycloïde ; quand
 
-on adopte ce dernier tracé il est donc nécessaire de connaître le
-
-[p. 128]
-
-rayon de courbure d’une épicycloïde en un point quelconque de
+on adopte ce dernier tracé il est donc nécessaire de connaître le [p. 128] rayon de courbure d’une épicycloïde en un point quelconque de
 
 cette courbe.
 
@@ -7026,9 +6634,7 @@ W
 de P est aussi égale à G . dt
 •
 
-[p. 129]
-
-M est donc le centre de courbure de la courbe PP au point P.
+[p. 129] M est donc le centre de courbure de la courbe PP au point P.
 D’où ce théorème dû à Huygens
 :
 Le centre de courbure d’une courbe plane D au point P est le
@@ -7063,11 +6669,7 @@ point O' diamétralement opposé à I sur
 le cercle rouleur vienne
 
 Jules ANDRADE. — Horlogerie et Chronométrie.
-9
-
-[p. 130]
-
-précisément en I; alors, en nommant R le rayon du cercle roulé
+9 [p. 130] précisément en I; alors, en nommant R le rayon du cercle roulé
 primitii EIF et r le rayon du cercle couleur, le rapport d’homo-
 
 R
@@ -7132,11 +6734,7 @@ de l’aile sera, si R = 60, R' = 6
 00/
 1
 
-En vue de déterminer l’ellipse terminale de l’aile, cherchons
-
-[p. 131]
-
-l’angle u que fait la normale NI avec la bissectrice O'Z de l’aile
+En vue de déterminer l’ellipse terminale de l’aile, cherchons [p. 131] l’angle u que fait la normale NI avec la bissectrice O'Z de l’aile
 (fig. 59).
 L'angle NIO, complément de 2° est 88°, le demi-angle denté de
 
@@ -7155,11 +6753,7 @@ l’angle de O'Z avec la ligne des centres est
 Enfin dans le triangle formé par O'Z, la ligne des centres et la
 normale IN, on a
 u = 180° — (92°
-10°) = 78° ;
-
-[p. 132]
-
-Déterminons maintenant le rayon vecteur O’N, à cet efet, soit D
+10°) = 78° ; [p. 132] Déterminons maintenant le rayon vecteur O’N, à cet efet, soit D
 
 le milieu de 10 ; le triangle NO’D où
 :
@@ -7254,11 +6848,7 @@ L’expression connue du rayon de centre de l’ellipse permettra
 
 d’exprimer les inconnues a, b, x en fonction des données u, y,
 
-et 0 ; le rayon de courbure 0 a été déterminé tout à l’heure à la ter-
-
-[p. 133]
-
-minaison N de l’arc de sécurité de l’aile, ce petit calcul de géométrie
+et 0 ; le rayon de courbure 0 a été déterminé tout à l’heure à la ter-[p. 133]minaison N de l’arc de sécurité de l’aile, ce petit calcul de géométrie
 analytique nous conduit aux formules suivantes :
 
 |
@@ -7313,11 +6903,7 @@ T = 0,05 sind = 1,0464.
 sin b
 
 Approximation plus grossière de l’excédentcirculaire. — Dans
-les engrenages plus grossiers, l’excédent de l’aile ou le prolonge-
-
-[p. 134]
-
-ment du flanc rectiligne du pignon est une simple demi-circonfé
+les engrenages plus grossiers, l’excédent de l’aile ou le prolonge-[p. 134]ment du flanc rectiligne du pignon est une simple demi-circonfé
 
 rence.
 En conservant le même exemple que ci-dessus, si le rayon pri
@@ -7335,11 +6921,7 @@ Un tableau de quelques angles de conduite, comptés sur le pignon
 
 Cet excédent de l’aile en arc de cercle est une forme vicieuse
 surtout pour les pignons de bas nombres; l’emploi de cette forme
-fait conduire l’aile trop loin après la ligne des centres et peut pro-
-
-[p. 135]
-
-duire avant la ligne des centres le contact du flanc d’une dent avec
+fait conduire l’aile trop loin après la ligne des centres et peut pro-[p. 135]duire avant la ligne des centres le contact du flanc d’une dent avec
 l’arrondi de l’aile, circonstance d où peut résulter un arc-boutement
 
 assez prononcé.
@@ -7385,9 +6967,7 @@ n
 7
 se nommme le pas diamétral de la roue.
 
-[p. 136]
-
-D’où cette règle : la division corrigée est n augmenté du rapport
+[p. 136] D’où cette règle : la division corrigée est n augmenté du rapport
 du double de l’ogive au pas diamétral.
 
 Une table spéciale fait connaître pour chaque engrenage les
@@ -7454,17 +7034,13 @@ ressent les comparaisons entreles dimensions des cercles primitifs
 des mobiles et leurs dimensions réelles ou totales, mais sur lesquels
 il nous paraît inutile d’insister ici.
 
-[p. 137]
-
-LE ROUAGE INTERMÉDIAIRE
+[p. 137] LE ROUAGE INTERMÉDIAIRE
 137
 
 Table à l'usage du compas de proportion
 empruntée aux Leçons de MM. Grossmann
 
-[p. 138]
-
-CHAPITRE
+[p. 138] CHAPITRE
 V
 
 L’ARITHMÉTIQUE DU ROUAGE
@@ -7512,11 +7088,7 @@ porte pignon b
 et roue B
 
 La lettre A désignera la roue et son nombre de dents la lettre a
-désigne le pignon a et son nombre d'ailes ;
-
-[p. 139]
-
-La lettre B désigne la roue et son nombre de dents la lettre b
+désigne le pignon a et son nombre d'ailes ; [p. 139] La lettre B désigne la roue et son nombre de dents la lettre b
 désigne le pignon de ce nom et son nombre de dents.
 
 On a d’ailleurs sur le 1 er engrenage
@@ -7570,9 +7142,7 @@ que le barillet a 96 dents comme la roue de grande moyenne, que
 la roue de petite moyenne a 90 dents et la roue de secondes 80, les
 pignons ont tous 12 ailes sauf celui d’échappement qui en a 8.
 
-[p. 140]
-
-Il y a ici 5 axes et 4 engrenages consécutifs soit N" le nombre
+[p. 140] Il y a ici 5 axes et 4 engrenages consécutifs soit N" le nombre
 cherché pendant le temps où le premier axe fait 4 tours on aura :
 
 v 96 x 96 x 90 x 80_ ,
@@ -7647,9 +7217,7 @@ avec 8 nombres entiers convenables attribués aux nombres A, B,
 
 C, D, a, b, c, d.
 
-[p. 141]
-
-L’ARITHMÉTIQUEDU ROUAGE
+[p. 141] L’ARITHMÉTIQUEDU ROUAGE
 141
 
 Ce problème est essentiellement indéterminé; on en atténue
@@ -7724,11 +7292,7 @@ Quand le rapport — est fractionnaire, on a des dénominateurs
 dont on cherche à supprimer
 les facteurs communs à eux et
 
-au numérateur ; si des dénominateurs subsistaient, le problème
-
-[p. 142]
-
-serait impossible sans une modification dans
+au numérateur ; si des dénominateurs subsistaient, le problème [p. 142] serait impossible sans une modification dans
 les nombres des
 pignons.
 
@@ -7788,9 +7352,7 @@ privées d’aiguilles des secondes, avaient une fréquence du balan
 cier très variable; aujourd’hui, le nombre d’oscillations du balan
 cier varie assez peu.
 
-[p. 143]
-
-Dans les pièces qui ont plus de 27 millimètres (12 lignes) on
+[p. 143] Dans les pièces qui ont plus de 27 millimètres (12 lignes) on
 adopte 5 oscillations par seconde, soit 18 000 oscillations simples
 
 à l’heure.
@@ -7830,11 +7392,7 @@ l’heure.
 La chaussée a engrène dans la roue de minuterie
 A qui porte
 un pignon b engrenant dans la roue à canon B.
-Cette dernière roue placée habituellementsur la chaussée autour
-
-[p. 144]
-
-de laquelle elle peut tourner librement, supporte l’aiguille des
+Cette dernière roue placée habituellementsur la chaussée autour [p. 144] de laquelle elle peut tourner librement, supporte l’aiguille des
 heures.
 La roue à canon B doit donc exécuter un tour en 12 heures
 :
@@ -7897,11 +7455,7 @@ ployés peuvent s’associer, mais encore on pourra conserver la
 même chaussée et la même roue de minuterie-, il suffira d’ajouter
 
 un deuxième pignon
-b‘ fixé au-dessus du premier et engrenant
-
-[p. 145]
-
-avec une seconde roue à canon B', ajustée librement sur la pre
+b‘ fixé au-dessus du premier et engrenant [p. 145] avec une seconde roue à canon B', ajustée librement sur la pre
 mière roue.
 Supposons adoptés pour le premier rouage, les nombres indi
 
@@ -7942,9 +7496,7 @@ mouflée déroulera du cylindre une longueur
 Jules ANDRADE. — Horlogerie et Chronométrie.
 10
 
-[p. 146]
-
-Le nombre de tours ainsi exécuté par le cylindre d’enroulement
+[p. 146] Le nombre de tours ainsi exécuté par le cylindre d’enroulement
 
 sera le rapport de 1 660 millimètres à la longueur 27 x
 '15 milli
@@ -7989,9 +7541,7 @@ b = 16 ailes.
 ou
 25.34. 5 = A.B
 
-[p. 147]
-
-L’ARITHMÉTIQUE DU ROUAGE
+[p. 147] L’ARITHMÉTIQUE DU ROUAGE
 117
 
 prenons
@@ -8063,9 +7613,7 @@ Pignon de secondes : 10
 
 Roue d’échappement : 15.
 
-[p. 148]
-
-Nous avons ici la relation, déjà expliquée plus haut.
+[p. 148] Nous avons ici la relation, déjà expliquée plus haut.
 .
 80 X x x 70 x 2 X 15
 18000 —
@@ -8152,9 +7700,7 @@ Cette aiguille a pour rôle d’indiquer le nombre d’heures que le
 
 chronomètre a fournies depuis l’instant du dernier remontage.
 
-[p. 149]
-
-On place sur l'axe de la fusée, un pignon, et celui-ci engrène
+[p. 149] On place sur l'axe de la fusée, un pignon, et celui-ci engrène
 
 avec une roue concentrique à l’axe de la petite aiguille indicatrice.
 
@@ -8217,11 +7763,7 @@ Celte roue de 30 dents engrène avec deux autres roues B et C,
 chacune armées de 60 dents; chacune de celles-ci accomplit ainsi
 
 un tour en 24 heures.
-Perpendiculaire à la roue B, une goupille m vient à chaque
-
-[p. 150]
-
-révolution engrener dans la denture d’une étoile de 31 dents, por
+Perpendiculaire à la roue B, une goupille m vient à chaque [p. 150] révolution engrener dans la denture d’une étoile de 31 dents, por
 tant l’aiguille des quantièmes ; celte roue en étoile est maintenue
 
 par un ressort sautoir. Dans la même journée, la même goupille
@@ -8254,9 +7796,7 @@ successivement sauter chaque jour une des 7 dents de la roue de
 semaine S ; cette roue est également maintenue par un ressort-
 sautoir.
 
-[p. 151]
-
-CHAPITRE VI
+[p. 151] CHAPITRE VI
 
 LA FORCE MOTRICE DU GROS ROUAGE
 
@@ -8288,11 +7828,7 @@ après les progrès des échappements libres et de l’isochronisme
 approché du régulateur.
 
 Phénomènes élastiques dans les cas les plus simples. — La créa-
-ation de l’organe réglant du rouage des horloges a coïncidé avec la
-
-[p. 152]
-
-création même de la physique moderne ; celle-ci a été associée
+ation de l’organe réglant du rouage des horloges a coïncidé avec la [p. 152] création même de la physique moderne ; celle-ci a été associée
 
 avec l’idée
 des
@@ -8342,11 +7878,7 @@ avant qu’aucune solution scientifique satisfaisante en put être
 très en avance sur la science de leur temps, solutions dont les
 justifications devaient se faire attendre plus de cent ans.
 En particulier les ressorts élastiques devaient être employés en
-chronométrieproprementdite de deux manières différentes, comme
-
-[p. 153]
-
-organes vibrants élastiques attachés au balancier et vibrant dans
+chronométrieproprementdite de deux manières différentes, comme [p. 153] organes vibrants élastiques attachés au balancier et vibrant dans
 
 un sens ou dans l’autre, en s’ouvrant et en se fermant tour à tour ;
 
@@ -8420,9 +7952,7 @@ La valeur de E pour le fer est donc
 vingt millions de grammes par millimètre carré ou en kilo-milli
 mètres de vingt mille kilogrammes par millimètre carré.
 
-[p. 154]
-
-Voici quelques valeurs de E pour différents métaux.
+[p. 154] Voici quelques valeurs de E pour différents métaux.
 
 Dans les calculs d’horlogerie, on exprime E
 en gramme-milli
@@ -8456,9 +7986,7 @@ phénomène
 montre que la dilatation longitudinale qui accompagne la traction
 simple est accompagnée d’une contraction transversale.
 
-[p. 155]
-
-Aujourd’hui, la théorie la plus large de l’élasticité des corps
+[p. 155] Aujourd’hui, la théorie la plus large de l’élasticité des corps
 homogènes et non cristallisés établit que le phénomène dépend de
 deux coefficients; le coefficient E est d’ailleurs une fonction de
 ceux-ci.
@@ -8508,11 +8036,7 @@ intérieure dont les génératrices soient parallèles aux génératrices'
 
 du cylindre, la traction ou pression exercée sur un élément m de
 
-celte fibre se réduise à un effort parallèle aux génératrices, ce que
-
-[p. 156]
-
-nous exprimons d’une manière abrégée mais imagée en disant que
+celte fibre se réduise à un effort parallèle aux génératrices, ce que [p. 156] nous exprimons d’une manière abrégée mais imagée en disant que
 les fibres intérieures du cylindre sont latéralement indépendantes?
 
 Saint-Venant a fait voir que ce régime d’équilibre comporte six
@@ -8554,11 +8078,7 @@ Soit R le rayon de courbure de celte projection ; la courbure B de
 cette projection est proportionnelle au moment par rapport à l’axe
 
 O'Y de toutes les forces qui s’exercent sur la base inférieure du
-cylindre; de plus, le point O' du cylindre est le point physique de
-
-[p. 157]
-
-la section considérée avant sa déformation en sa nouvelle position
+cylindre; de plus, le point O' du cylindre est le point physique de [p. 157] la section considérée avant sa déformation en sa nouvelle position
 qui était centre de gravité de l’aire de cette section.
 
 C’est le théorème dit du moment de flexion.
@@ -8621,9 +8141,7 @@ M
 R=
 Ër
 
-[p. 158]
-
-La déformation élastique étant d’ailleurs fort petite, il importe
+[p. 158] La déformation élastique étant d’ailleurs fort petite, il importe
 
 peu que l’on confonde ou non, dans la définition des axes, la posi
 tion actuelle ou la position primitive du point physique O', il en
@@ -8670,9 +8188,7 @@ de la pièce et pour lesquelles la déformation de la courbe C sera
 régie par la loi
 :
 
-[p. 159]
-
-Fig. 73.
+[p. 159] Fig. 73.
 
 La tache noire b' représente le pied
 de la fibre sur la section rabattue.
@@ -8767,11 +8283,7 @@ Si s est l’élément de longueur de fibre moyenne, un élément de
 de la section S entraînée dans la rotation a décrit un élément d’arc
 
 de cercle de rayon s; soit z la distance du pied de cet élément à
-l’axe de flexion b ; par celte rotation, on peut regarder la fibre consi-
-
-[p. 160]
-
-dérée comme s’allongeantde a.z la libre d’ailleurs a sensiblement
+l’axe de flexion b ; par celte rotation, on peut regarder la fibre consi-[p. 160]dérée comme s’allongeantde a.z la libre d’ailleurs a sensiblement
 
 même longueur que la fibre moyenne, vu la petitesse des dimen
 
@@ -8840,11 +8352,7 @@ d’où - =
 or, M désignant le mouvement de flexion calculé
 s
 7
-To
-
-[p. 161]
-
-)n
+To [p. 161] )n
 
 es
 
@@ -8937,11 +8445,7 @@ de l’application de la formule F, poser tout d’abord :
 U = 2mn.
 
 Jules ANDRADE. — Horlogerie et Chronométrie.
-Il
-
-[p. 162]
-
-lilllllllllllllllUIIIIII
+Il [p. 162] lilllllllllllllllUIIIIII
 
 Fig. 75.
 
@@ -9011,9 +8515,7 @@ Ehln.m
 6x650
 =5640 gr.m
 
-[p. 163]
-
-Calculons M après diminution de 1, 2, 3, 4 tours on aura
+[p. 163] Calculons M après diminution de 1, 2, 3, 4 tours on aura
 
 M pour n = 14.5’; ressort armé : 5 640 gr. m.
 
@@ -9062,11 +8564,7 @@ envisagé dans l’exemple précédent
 Or, on admet que cette limite offre une suffisante sécurité, con
 sacrée par la pratique.
 
-Cette limite cependant doit notablement varier avec la nature de
-
-[p. 164]
-
-164
+Cette limite cependant doit notablement varier avec la nature de [p. 164] 164
 HORLOGERIE ET CHRONOMÉTRIE
 
 l’acier, le
@@ -9152,9 +8650,7 @@ une circonférence de
 R
 rayon 2 nous aurons L=2R(N+3).
 
-[p. 165]
-
-Exemple : Pour le ressort d’une montre de 43 millimètres, on a :
+[p. 165] Exemple : Pour le ressort d’une montre de 43 millimètres, on a :
 
 R = 8m 'n,8;
 N' = 13 tours.
@@ -9218,9 +8714,7 @@ N = r—r
 11
 II
 
-[p. 166]
-
-La fibre moyenne du ressort n’étant que peu comprimée ou
+[p. 166] La fibre moyenne du ressort n’étant que peu comprimée ou
 étendue dans le sens longitudinal et les dimensions de la section
 du ressort étant à peu près inaltérées les surfaces occupées par le
 ressort dans ses deux positionsextrêmes doivent être équivalentes;
@@ -9275,11 +8769,7 @@ ront égaux.
 Donc enfin la valeur de r qui rend N maximum sera telle que
 l’on ait x2 = y2 c’est-à-dire :
 
-r/2 = R2 4- r 2 — r' 2 = r"2
-
-[p. 167]
-
-d’où
+r/2 = R2 4- r 2 — r' 2 = r"2 [p. 167] d’où
 
 , _ . /R2+72
 ‘ = V
@@ -9339,11 +8829,7 @@ longement relatif d’une fibre extrême d’un ressort par une montre
 de 43 millimètres, allongement qui a été assigné plus haut à 0,0126 ;
 
 ce dernier allongement est plus du double de l’allongementrelatif
-fictif dû à la charge de rupture, et pourtantl’allongementmaximum
-
-[p. 168]
-
-d’une fibre en flexion, apprécié à 0,012 est toléré et sanctionné
+fictif dû à la charge de rupture, et pourtantl’allongementmaximum [p. 168] d’une fibre en flexion, apprécié à 0,012 est toléré et sanctionné
 
 dans la pratique de l'horlogerie.
 
@@ -9391,11 +8877,7 @@ Fig. 78.
 lution de méridienne grossièrement parabolique, mais l’axe de la
 
 parabole méridienne ne se confondantpas avec celui de la surface ;
-la surface de ce solide est entaillée de manière à former une rai-
-
-[p. 169]
-
-nure hélicoïdale où se déroule une chaîne en acier qui s’enroule
+la surface de ce solide est entaillée de manière à former une rai-[p. 169]nure hélicoïdale où se déroule une chaîne en acier qui s’enroule
 elle-même sur un tambour extérieur du barillet.
 
 La denture du barillet est alors supprimée, son arbre est fixe,
@@ -9447,11 +8929,7 @@ et son moment sur l’axe de la fusée est B (U. — u).
 
 Si l’on veut rendre ce moment, constamment égal à sa valeur
 initiale il faut donc poser :
-o,-y)=".U,;
-
-[p. 170]
-
-c’est-à-dire que l’on devra avoir :
+o,-y)=".U,; [p. 170] c’est-à-dire que l’on devra avoir :
 
 ro
 • U, = r (U,
@@ -9534,11 +9012,7 @@ To
 
 1
 R
-n
-
-[p. 171]
-
-on trouvera par exemple, en faisant
+n [p. 171] on trouvera par exemple, en faisant
 
 R = 8mm ,
 ro = 5mm,
@@ -9597,11 +9071,7 @@ De là, la règle pratique suivante pour parvenir à égaliser la
 
 fusée :
 
-On introduit entre les deux platines de la montre, la fusée et le-
-
-[p. 172]
-
-barillet, on arme le ressort et on fixe sur l’arbre de la fusée un
+On introduit entre les deux platines de la montre, la fusée et le-[p. 172]barillet, on arme le ressort et on fixe sur l’arbre de la fusée un
 levier, puis on laisse détendre le ressort jusqu’à ce que le levier
 décrive un quart de tour environ, on fait alors équilibre au moyen
 d’un poids convenable agissant sur le levier, puis on fait tourner
@@ -9661,11 +9131,7 @@ férence du doigt.
 En remontant la montre
 on fait tourner l'arbre de barillet ;
 le doigt entraîné dans ce mouvement fait passer à chaque tour une
-dent de la croix, jusqu’au moment où l’épaule du doigt vient ren-
-
-[p. 173]
-
-contrer la cinquième dent non creusée et connexe ; le remontage
+dent de la croix, jusqu’au moment où l’épaule du doigt vient ren-[p. 173]contrer la cinquième dent non creusée et connexe ; le remontage
 
 est achevé, le barillet a fait quatre tours (fig. 79, 1, II, III).
 Au contraire pendant la marche de la montre, le doigt est fixe,
@@ -9707,11 +9173,7 @@ division de 00'. Des points de divisions de
 1‘ 2' 3' 5' du grand
 cercle concentrique à 0' déjà tracé, pris comme centres respectifs
 
-et avec le même rayon que la circonférence du doigt, on trace des
-
-[p. 174]
-
-arcs de cercle qui formeront les creusures des faces externes
+et avec le même rayon que la circonférence du doigt, on trace des [p. 174] arcs de cercle qui formeront les creusures des faces externes
 
 de 4 des dents de la croix.
 On représente souvent la tête du doigt par deux arcs de cercle
@@ -9740,11 +9202,7 @@ verse de sa marche naturelle, le remontage non seulement suspend
 alors la transmission de la force motrice, mais encore il tend à
 faire rétrograder le rouage ; on a donc introduit dans les chrono
 
-mètres à fusée un mécanisme accessoire dont la fonction est de
-
-[p. 175]
-
-fournir une force motrice temporaire pendant le remontage du
+mètres à fusée un mécanisme accessoire dont la fonction est de [p. 175] fournir une force motrice temporaire pendant le remontage du
 
 ressort.
 
@@ -9797,9 +9255,7 @@ et sur laquelle on reviendra dans la théorie du réglage.
 
 Rappel de la loi admise pour le frottement de glissement.
 
-[p. 176]
-
-— Cette loi a déjà été formulée pour la solution de quelques ques
+[p. 176] — Cette loi a déjà été formulée pour la solution de quelques ques
 tions relatives aux échappements.
 
 Les esprits qui veulent ramener toute la mécanique physique à
@@ -9819,7 +9275,7 @@ Et cependant très nombreux sont les phénomènes qui nous im
 
 posent la conception de certaines résistances-passives, n’ayant pas
 
-de réalité a priori, mais se manifestant toujours par une force con
+de réalité *a priori*, mais se manifestant toujours par une force con
 trariant la vitesse actuelle de l’un des points des solides en contact.
 
 Les forces mécaniques actives, tout au moins dans leurs prévi
@@ -9868,9 +9324,7 @@ mutuelles qui, parleurs sens mêmes, semblent s’opposer à la péné
 
 tration réciproque des corps.
 
-[p. 177]
-
-Un mouvement relatif des deux surfaces en contact est sur le
+[p. 177] Un mouvement relatif des deux surfaces en contact est sur le
 point de naître, mais ce mouvement peut être d’espèces bien dif
 férentes : limitons-nous ici au glissement.
 
@@ -9926,9 +9380,7 @@ tements :
 Jules ANDRADE. — Horlogerie et Chronométrie.
 12
 
-[p. 178]
-
-Dans les grandes machines à contacts bien graissés le coefficient
+[p. 178] Dans les grandes machines à contacts bien graissés le coefficient
 
 de frottement peut diminuer jusqu’à 0,08.
 
@@ -9974,11 +9426,7 @@ la menée, le travail passif est sensiblement :
 D’autre part le travail de la pression Q
 sur la roue menée est
 sensiblement Qp
-; si P est l’effort du moment moteur évalué sur la
-
-[p. 179]
-
-circonférence de la roue motrice, le travail moteur et l’équation
+; si P est l’effort du moment moteur évalué sur la [p. 179] circonférence de la roue motrice, le travail moteur et l’équation
 
 du travail nous donneront :
 
@@ -10047,11 +9495,7 @@ dans le second cas 1,044
 Equilibre avec frottement dans les engrenages. — Si l’on tient
 
 compte des forces du frottement et de l’égalité de l’action et de la
-réaction ; et si on reprend les équations d’équilibre déjà rencon-
-
-[p. 180]
-
-trées dans la détermination du tracé des dentures des roues et
+réaction ; et si on reprend les équations d’équilibre déjà rencon-[p. 180]trées dans la détermination du tracé des dentures des roues et
 pignons (voir plus haut, page 113).
 Considérons encore l’équilibreentre le moment moteur M sur la
 
@@ -10106,11 +9550,7 @@ pour le cas 4° :
 M,
 M, = 1,051095.
 
-On pourrait refaire ce calcul pour une valeur non maxima de u
-
-[p. 181]
-
-par exemple pour u == v. On constaterait alors que les effets des
+On pourrait refaire ce calcul pour une valeur non maxima de u [p. 181] par exemple pour u == v. On constaterait alors que les effets des
 frotlements rentrants (avant la ligne des centres) sont supérieurs,
 mais de bien peu aux effets des frottements sortants.
 
@@ -10172,9 +9612,7 @@ Le travail absorbé par le frottement de la couronne est celui
 absorbé sur le frottement d’un cercle entier de rayon r" moins
 celui absorbé par un frottement sur le cercle de rayon r .
 
-[p. 182]
-
-Pour évaluer le travail d’un frottement uniformémentréparti sur
+[p. 182] Pour évaluer le travail d’un frottement uniformémentréparti sur
 un cercle, partageons le cercle en petites quadilatères, infiniment
 petits par un réseau de circonférences concentriques distantes
 de dr et par des rayons angulairement distants de du.
@@ -10231,11 +9669,7 @@ Pressions latérales sur les pivots du rouage. —Nous prenons
 comme exemple, le cas précis étudié dans le cours de M. Gross-
 mann.
 C’est le cas du mobile de petite moyenne ; ce mobile par son pignon
-reçoit de la roue de grande moyenne l’effort moteur qu’il trans-
-
-[p. 183]
-
-met au pignon de secondes; nous négligerons ici l’action frottante
+reçoit de la roue de grande moyenne l’effort moteur qu’il trans-[p. 183]met au pignon de secondes; nous négligerons ici l’action frottante
 
 des engrenages et pour simplifier nous regardons chaque pression
 
@@ -10269,11 +9703,7 @@ a — b
 1
 a + b
 
-pressions sur les trous de pivots aux deux étages supérieur et in-
-
-[p. 184]
-
-férieur, de même les pressions sur les mêmes trous de pivot pro-
+pressions sur les trous de pivots aux deux étages supérieur et in-[p. 184]férieur, de même les pressions sur les mêmes trous de pivot pro-
 
 P'
 venant des forces P' et
@@ -10360,11 +9790,7 @@ La roue étudiée qui a 75 dents tandis que le pignon de seconde
 
 a 10 ailes tournera d’un tour en 300 x 7,5 = 2250 oscillations du
 
-balancier ; le déplacement angulaire de la roue durant une os-
-
-[p. 185]
-
-cillation du balancier est donc 360°
+balancier ; le déplacement angulaire de la roue durant une os-[p. 185]cillation du balancier est donc 360°
 2250 ~ 0° 9' 36", soit en radians
 
 0,00279 ou sensiblement 0,0028.
@@ -10431,9 +9857,7 @@ En regard des faibles forces en action sur les derniers mobiles
 
 « altérabilité.
 
-[p. 186]
-
-« Le frottement qui s’exerce par l’intermédiaire d’un enduit
+[p. 186] « Le frottement qui s’exerce par l’intermédiaire d’un enduit
 
 « dépend de la vitesse du corps en contact et de l’étendue de leurs
 
@@ -10490,11 +9914,7 @@ Fig. 88.
 
 Sully eut d’abord la pensée de séparer le collier du trou de
 pivot, (fig. 87 et fig. 88).
-Puis enfin, Sully eut l’idée originale de creuser des réservoirs
-
-[p. 187]
-
-au cœur même de la pièce dans laquelle roulait le pivot
+Puis enfin, Sully eut l’idée originale de creuser des réservoirs [p. 187] au cœur même de la pièce dans laquelle roulait le pivot
 ; il com
 
 posa d’abord cette pièce de deux épaisseurs de laiton, dont cha
@@ -10543,9 +9963,7 @@ a toujours
 remarquablement exercé à
 Genève.
 
-[p. 188]
-
-Les calculs indiqués plus haut, comme exemples de la statique
+[p. 188] Les calculs indiqués plus haut, comme exemples de la statique
 des frottements, ne tiennent pas compte de l’inertie des roues ni
 
 des effets de choc dans les engrenages.
@@ -10599,11 +10017,7 @@ tinction essentielle à /aire entre l'application de ces formules
 
 aux ressorts de barillets et aux ressorts réglants.
 
-Dans ce même chapitre, et après avoir écarté pour le moment
-
-[p. 189]
-
-comme prématurée toute théorie plus approfondie sur l’élasticité,
+Dans ce même chapitre, et après avoir écarté pour le moment [p. 189] comme prématurée toute théorie plus approfondie sur l’élasticité,
 
 nous avons signalé le rôle particulier de la déformation dite de
 flexion pour laquelle est applicable à la fibre moyenne d’une pièce
@@ -10659,11 +10073,7 @@ Ces phénomènes sont physiquement et même géométriquement
 très différents. Dans le phénomène essentiel du ressort réglant,
 {cylindrique, pour bien fixer les idées) on a un ressort hélicoïdal
 dont l’étendue angulaire, estimée au repos en projection sur le
-plan d’une section droite du cylindre qui porte l’hélice est désignée
-
-[p. 190]
-
-par p avec le radian pour unité, en sorte qu’un ressort hélicoïdal
+plan d’une section droite du cylindre qui porte l’hélice est désignée [p. 190] par p avec le radian pour unité, en sorte qu’un ressort hélicoïdal
 
 de n tours (fractions de tours comprises) a une étendue angulaire
 
@@ -10752,11 +10162,7 @@ n
 
 II
 
-n
-
-[p. 191]
-
-est insuffisantepour empêcher la variation du 20 del’amplitudepro-
+n [p. 191] est insuffisantepour empêcher la variation du 20 del’amplitudepro-
 
 voquée par le seul fait de l’irrégularité des dentures.
 
@@ -10809,11 +10215,7 @@ de la réalisation de l’isochronismestrict des organes réglants delà
 
 montre moins les inégalités du ressort moteur auront d’impor
 
-tance pour le réglage ; il convient,par contre, d’observer que, même
-
-[p. 192]
-
-avec une approximation réduite, l’étude expérimentale des varia
+tance pour le réglage ; il convient,par contre, d’observer que, même [p. 192] avec une approximation réduite, l’étude expérimentale des varia
 tions de l’effort de flexion des ressorts intéresse, avec l’horlogerie
 
 proprement dite,
@@ -10871,9 +10273,7 @@ France horlogère
 »
 de 1911, pour la première fois.
 
-[p. 193]
-
-CHAPITRE VII
+[p. 193] CHAPITRE VII
 
 CRÉATION
 DU
@@ -10919,11 +10319,7 @@ nous l’avons vu
 approximativementpour le gros ressort, mais avec plus d'approxi-
 
 Jules Andradb. — Horlogerie et Chronométrie.
-13
-
-[p. 194]
-
-tion encore pour l’organe réglant comme on le verra par la suite, à
+13 [p. 194] tion encore pour l’organe réglant comme on le verra par la suite, à
 
 l’encastrement du spiral au balancier écarté de l’angle u s’exerce
 
@@ -11002,9 +10398,7 @@ laiton et l’acier.
 
 Pour réaliser la méthode d’Earnshaw, au moyen d’un tour on
 
-[p. 195]
-
-CRÉATION DU BALANCIER COMPENSATEUR DU CHRONOMÈTRE
+[p. 195] CRÉATION DU BALANCIER COMPENSATEUR DU CHRONOMÈTRE
 195
 
 façonne un disque cylindrique d’acier
@@ -11051,11 +10445,7 @@ A,AA représente le filet de soudure entre l’anneau cylindrique in
 térieur d'acier et l'anneau extérieur en laiton.
 La droite AM est une normale en A à ce filet, la droite A'M' est
 
-une normale au point A' du filet, point infiniment voisin de A ; ces
-
-[p. 196]
-
-normales font les angles a et a — da avec le rayon du balancier
+une normale au point A' du filet, point infiniment voisin de A ; ces [p. 196] normales font les angles a et a — da avec le rayon du balancier
 qui passe par l’origine A, du filet encastré dans la barrette qui
 
 J
@@ -11139,9 +10529,7 @@ s
 5
 13R
 
-[p. 197]
-
-CRÉATION DU BALANCIER COMPENSATEUR DU CHRONOMÈTRE
+[p. 197] CRÉATION DU BALANCIER COMPENSATEUR DU CHRONOMÈTRE
 197
 
 ou, en ayant égard à (II)
@@ -11207,11 +10595,7 @@ tallique comprise entre le plan AM et le plan normal extrême à
 l’extrémité libre de la lame, nous pourrons écrire que les tensions
 précédentes, appliquées aux divers points de la section, se font
 extrêmes se font équilibre sur la section extrême rigidifiée. Cette
-section extrême, n’ayant pas de voisine au delà l’ensemble des
-
-[p. 198]
-
-actions élastiques d’un côté équivaut à l’autre ensemble, et ce
+section extrême, n’ayant pas de voisine au delà l’ensemble des [p. 198] actions élastiques d’un côté équivaut à l’autre ensemble, et ce
 dernier est nul.
 Donc puisqu’il s’agit là d’un système plan de forces situées dans
 
@@ -11264,11 +10648,7 @@ T
 
 ce sont là deux équations du
 1 er
-degré par rapport aux in-
-
-[p. 199]
-
-CRÉATION DU BALANCIER COMPENSATEUR DU CHRONOMÈTRE
+degré par rapport aux in-[p. 199]CRÉATION DU BALANCIER COMPENSATEUR DU CHRONOMÈTRE
 199
 
 1
@@ -11366,11 +10746,7 @@ _ (E‘e”2—E‘e2)2
 112
 3 c’ — e' L1H
 4E'E"e2e'e"
-J
-
-[p. 200]
-
-l’on aura
+J [p. 200] l’on aura
 :
 
 Or, l’anneau de laiton étant extérieur à l’anneau d’acier, c" —d
@@ -11435,9 +10811,7 @@ VE"'
 
 le maximum d’utilisation de la lame pour une épaisseur totale
 
-[p. 201]
-
-CRÉATION DU BALANCIER COMPENSATEUR DU CHRONOMÈTRE
+[p. 201] CRÉATION DU BALANCIER COMPENSATEUR DU CHRONOMÈTRE
 201
 
 donnée, sera obtenu en partageant cette épaisseur totale dans le
@@ -11522,11 +10896,7 @@ e"
 
 2 > e" 2 3e'
 ,
-eT-
-
-[p. 202]
-
-et, en poursuivant le calcul numérique, nous obtenons:
+eT-[p. 202]et, en poursuivant le calcul numérique, nous obtenons:
 
 0,37 << 1,47.
 e
@@ -11580,11 +10950,7 @@ Premières notions sur le réglage des chronomètres. — Régler
 
 un chronomètre c’est d’une part assurer au rythme vibratoire de
 
-son balancier la durée voulue pour chaque battement du balancier
-
-[p. 203]
-
-et d’autre part conserver ce rythme dans l’échelle de température
+son balancier la durée voulue pour chaque battement du balancier [p. 203] et d’autre part conserver ce rythme dans l’échelle de température
 
 de 30 degrés centigrades, de 0° à 30°.
 
@@ -11634,11 +11000,7 @@ que présenterait son étude et lui suggéra l’idée d’en démêler les
 lois.
 
 Deux ans après, en
-1860, le mystère des procédés d’Arnold
-
-[p. 204]
-
-était enfin dévoilé ; en cette année en effet Phillips précisa les pro
+1860, le mystère des procédés d’Arnold [p. 204] était enfin dévoilé ; en cette année en effet Phillips précisa les pro
 priétés géométriques des courbes terminales du spiral cylindrique
 auxquelles les régleurs ont, depuis, donné le nom de courbes
 Phillips ; ces courbes sont modelées par la pince du régleur et
@@ -11688,9 +11050,7 @@ R
 R, =
 El
 
-[p. 205]
-
-CRÉATION DU BALANCIER COMPENSATEUR DU CHRONOMÈTRE
+[p. 205] CRÉATION DU BALANCIER COMPENSATEUR DU CHRONOMÈTRE
 205
 
 déjà signalée plus haut, montre que la forme circulaire ayant été
@@ -11750,11 +11110,7 @@ D’où cette conséquence qui s’imposa immédiatement à Phillips
 comme liée au problème nouveau qu’il abordait
 :
 Les courbes terminales cherchées qui doivent assurer un déve
-loppement concentrique de la portion réyulièfe du spiral héli-
-
-[p. 206]
-
-coïdal devront être précisément celles dont la déformation est
+loppement concentrique de la portion réyulièfe du spiral héli-[p. 206]coïdal devront être précisément celles dont la déformation est
 conforme à la loi :
 —
 11 ,
@@ -11784,9 +11140,7 @@ dire depuis un siècle, ont révélé à Phillips une méthode simple
 
 propre à les définir.
 
-[p. 207]
-
-CHAPITRE VIII
+[p. 207] CHAPITRE VIII
 
 COMMENT LES COURBES MYSTÉRIEUSES D’ARNOLD
 
@@ -11822,9 +11176,7 @@ T
 O
 Ll
 
-[p. 208]
-
-Nous aurons autant d’équations de ce type que d’éléments ds
+[p. 208] Nous aurons autant d’équations de ce type que d’éléments ds
 
 ou ds
 0 en lesquels nous pourrons décomposer la longueur totale
@@ -11878,9 +11230,7 @@ a tourné la direction BS. venue en BS
 
 est précisément ce même angle u.
 
-[p. 209]
-
-LES COURBES MYSTÉRIEUSES D’ARNOLD
+[p. 209] LES COURBES MYSTÉRIEUSES D’ARNOLD
 209
 Quant à la somme des seconds membres des équations (2) elle
 ,
@@ -11931,9 +11281,7 @@ n’est soumis qu’à un couple.
 Jules ANDRADE. — Horlogerie et Chronométrie.
 14
 
-[p. 210]
-
-Revenons alors au problème précis de Phillips à savoir la réali
+[p. 210] Revenons alors au problème précis de Phillips à savoir la réali
 
 sation de la déformation :1_1_M
 r
@@ -11983,9 +11331,7 @@ dx = ds cos W
 
 dy = ds sin W.
 
-[p. 211]
-
-Et sur la fibre moyenne primitive, en mettant l’indice 0 devant
+[p. 211] Et sur la fibre moyenne primitive, en mettant l’indice 0 devant
 les quantités analysées, on aura à cause de ds
 0 == ds
 
@@ -12065,9 +11411,7 @@ Bo” + x"
 
 si l’origine des coordonnées est le pied de l'axe du balancier.
 
-[p. 212]
-
-212
+[p. 212] 212
 HORLOGERIE ET CHRONOMÉTRIE
 
 Le centrage primitif s’exprime par :
@@ -12180,9 +11524,7 @@ ofl
 \
 L /
 
-[p. 213]
-
-Les conditions 10 et 41 deviennent ainsi eu égard à (6) et à (7),
+[p. 213] Les conditions 10 et 41 deviennent ainsi eu égard à (6) et à (7),
 
 ou eu égard à 14 et à 15 la condition 11 bis devient :
 
@@ -12196,11 +11538,7 @@ quée les équations à vérifier 11 ter, après suppression du facteur L
 
 deviennent :
 
-ou encore
-
-[p. 214]
-
-en vertu de la formule d’intégration par parties :
+ou encore [p. 214] en vertu de la formule d’intégration par parties :
 
 Fig. 99.
 
@@ -12233,9 +11571,7 @@ dente se nomme une courbe Phillips. Il y a une infinité de courbes
 
 Philipps.
 
-[p. 215]
-
-II est important d'observer que, si ces conditions trouvées
+[p. 215] II est important d'observer que, si ces conditions trouvées
 
 comme nécessaires sont aussi suffisantes, c’est-à-dire que devant
 
@@ -12299,11 +11635,7 @@ sur le spiral cylindrique, l’est beaucoup moins pour le spiral plat.
 Philips n’en a pas moins formulé une réserve très nette sur la
 légitimité de ses formules étendues aux spiraux plats et déclaré
 
-dans son mémoire que sa théorie de l’isochronisme confié au ressort
-
-[p. 216]
-
-plat réglant n’est valable en toute sécurité que pour des valeurs
+dans son mémoire que sa théorie de l’isochronisme confié au ressort [p. 216] plat réglant n’est valable en toute sécurité que pour des valeurs
 faibles de l'amplitude d’oscillation.
 Néanmoins la pratique montre que les spiraux plats munis de
 courbes terminales ont donné d’excellents résultats. MM. Gross-
@@ -12358,11 +11690,7 @@ jours quand on néglige l’inertie du spiral).
 Sur la figure ci-jointe sont représentées les deux courbes ter
 minales symétriques ;
 nous allons démontrer que le centre de
-gravité du spiral complet reste sur l’axe du balancier, c’est-à-dire
-
-[p. 217]
-
-qu’il se projette toujours sur un plan transverse au pied O de l'axe
+gravité du spiral complet reste sur l’axe du balancier, c’est-à-dire [p. 217] qu’il se projette toujours sur un plan transverse au pied O de l'axe
 du balancier.
 
 En défalquant les spires d’un tour complet dont le centre de
@@ -12423,11 +11751,7 @@ o de la réaction d’encastrementdu piton
 une force dont les composantes X et Y seront de l’ordre de cette
 erreur.
 Or on voit sur les figures 101 et 102 que si on considère une forceF
-appliquée en M et définie par ses composantes X et Y appliquées au
-
-[p. 218]
-
-même point M dont les coordonnées par rapport à ces axes sont
+appliquée en M et définie par ses composantes X et Y appliquées au [p. 218] même point M dont les coordonnées par rapport à ces axes sont
 x et y ;
 
 x = OP
@@ -12479,9 +11803,7 @@ sera :
 01L = M
 Yo(x — x) — Xo(Yo — y)
 
-[p. 219]
-
-LES COURBES MYSTÉRIEUSES D’ARNOLD
+[p. 219] LES COURBES MYSTÉRIEUSES D’ARNOLD
 219
 
 et l’équation de la flexion, savoir :
@@ -12568,9 +11890,7 @@ du carré de l'erreur résiduelle.
 Autre remarque. — Nous reconnaîtrons bientôt que sur un
 spiral, même dépourvu de courbe terminale, la réaction complé-
 
-[p. 220]
-
-1
+[p. 220] 1
 mentaire au couple d’encastrement est petite de l’ordre p2. Pétant
 
 1
@@ -12622,11 +11942,7 @@ Nous verrons bientôt que Caspari utilisant la théorie des ressorts
 circulaires de Rèsal a fait pour la méthode de Le Roy ce que Phi
 lips avait fait pour la méthode d’Arnold.
 La règle de Pierre Le Roy précisée par Caspari peut s’énoncer
-ainsi : un spiral strictement cylindrique peut réaliser une vibra-
-
-[p. 221]
-
-tion isochrone si son étendue angulaire a une valeur égale à un
+ainsi : un spiral strictement cylindrique peut réaliser une vibra-[p. 221]tion isochrone si son étendue angulaire a une valeur égale à un
 multiple impair de quarts de tour.
 Seulementl’isochronisme ainsi réalisé, n’est pas l’isochronisme
 sinusoïdal, obtenu parla valeur régulière du moment transmis par
@@ -12676,11 +11992,7 @@ un solide parlait qui résulterait de la
 figure actuelle d’équilibre relatif de sa lame portant les masses
 compensatrices. On pourra donc, pendant la très courte durée
 dont nous parlons, regarder le balancier comme rigide, mais on
-calculera son moment d’inertie comme si la figure d’équilibre re-
-
-[p. 222]
-
-latif à cet instant, et compatible avec la vitesse angulaire n et avec
+calculera son moment d’inertie comme si la figure d’équilibre re-[p. 222]latif à cet instant, et compatible avec la vitesse angulaire n et avec
 
 l’accélération angulaire
 était celle
@@ -12746,11 +12058,7 @@ préalablement doublée,
 représentera
 Yaccélération
 complé
-mentaire; en multipliant les accélérations en jeu dans cette com-
-
-[p. 223]
-
-position géométrique par la masse m on aura, conformément aux
+mentaire; en multipliant les accélérations en jeu dans cette com-[p. 223]position géométrique par la masse m on aura, conformément aux
 idées de Galilée, la relation entre la force motrice du mouvement
 absolu et la force motrice apparente dans le mouvement relatif.
 
@@ -12824,9 +12132,7 @@ désignant deux constantes liées aux circonstances initiales du
 H
 mouvement et K2 désignant la constante absolue A
 
-[p. 224]
-
-Dans le mouvement troublé, les constantes u, et m vont devenir
+[p. 224] Dans le mouvement troublé, les constantes u, et m vont devenir
 lentement variables, et nous pourrons dans le second membre de
 
 l’équation 14 bis remplacer
@@ -12890,9 +12196,7 @@ sives.
 Nous conservons ces équations, mais en y regardant R et m
 comme deux fonctions du temps Z, lentement variables.
 
-[p. 225]
-
-La dérivéecomplète d déduite de (EJ est, R et m étant devenues
+[p. 225] La dérivéecomplète d déduite de (EJ est, R et m étant devenues
 
 deux fonctions inconnues
 :
@@ -12982,11 +12286,7 @@ d’étudier le mouvement pendant une oscillation simple, comme
 nous allons le faire pour déterminer la durée d’une oscillation
 
 Jules Andrade. — Horlogerie et Chronométrie.
-15
-
-[p. 226]
-
-simple sous le régime de marche qui donne à la semi-amplitude u,
+15 [p. 226] simple sous le régime de marche qui donne à la semi-amplitude u,
 
 une valeur constante, que nous nommerons l’amplitude de régime,
 laquelle peut d’ailleurs varier avec les petites inégalités du rouage,
@@ -13083,9 +12383,7 @@ R(h H- m + 8m) = 3 (2/ 4- 3)
 4
 J
 
-[p. 227]
-
-LES COURBES MYSTÉRIEUSES D’ARNOLD
+[p. 227] LES COURBES MYSTÉRIEUSES D’ARNOLD
 227
 
 formules d’où l’on déduit :
@@ -13168,9 +12466,7 @@ obtenons enfin la valeur :
 (18)
 T==VA(+c}.u]
 
-[p. 228]
-
-Pour achever numériquementce calcul il resterait donc à déter
+[p. 228] Pour achever numériquementce calcul il resterait donc à déter
 miner le coefficient c.
 C’est ce que Phillips a fait, en calculant la déformation due à la
 flexion de la lame compensatrice fendue, sous l’action de la force
@@ -13217,9 +12513,7 @@ des températures variées, a été d’ailleurs pendant cent cinquante
 
 ans la seule que l’on connut :
 
-[p. 229]
-
-CHAPITRE IX
+[p. 229] CHAPITRE IX
 
 LA MARCHE DES MONTRES
 AUX POSITIONS VERTICALES D’APRÈS PHILLIPS
@@ -13253,11 +12547,7 @@ l'écart u au point mort. Nous reviendrons d’ailleurs plus tard sur
 
 ces efforts longitudinaux.
 
-Si nous considérons une montre de poche à spiral cylindrique
-
-[p. 230]
-
-muni de deux courbes terminales symétriques de manière que le
+Si nous considérons une montre de poche à spiral cylindrique [p. 230] muni de deux courbes terminales symétriques de manière que le
 
 centre de gravité du spiral restant sur l’axe ne donne, par le poids
 du spiral, aucun moment mécanique autour de l’axe du balancier
@@ -13295,9 +12585,7 @@ vérifiée au moyen d’un petit niveau. De plus la précision et la sen
 sibilité de cet outil exigent que ses bords soient soigneusement
 arrondis et parfaitementpolis dans le sens de leur longueur.
 
-[p. 231]
-
-Si on place sur cet outil un balancier non équilibré, il oscille et
+[p. 231] Si on place sur cet outil un balancier non équilibré, il oscille et
 finit par s’arrêter, la partie lourde se plaçant naturellement en bas.
 
 On enlève en bas de la matière au balancier, ou en certain cas, si on
@@ -13349,9 +12637,7 @@ lancier ne cesse pas de projeter au point 0 sur le plan vertical
 fixe de la figure, cela est permis du moins si nous négligeons les
 petites perturbations magnétiques sur une montre aimantée.
 
-[p. 232]
-
-Le problème étant ainsi posé, comment fixerons nous l’orienta
+[p. 232] Le problème étant ainsi posé, comment fixerons nous l’orienta
 tion de la position verticale envisagée?
 Imaginonsque le balancier soit, par rapport à la montre, envisagé
 dans la position où l'action du spiral est au point mort, ou
@@ -13415,9 +12701,7 @@ indiqué le principe et l’usage applicable à tous les cas similaires
 
 au point de vue du calcul.
 
-[p. 233]
-
-LA MARCHE DES MONTRES AUX POSITIONS VERTICALES
+[p. 233] LA MARCHE DES MONTRES AUX POSITIONS VERTICALES
 233
 
 Nous partirons donc,
@@ -13500,9 +12784,7 @@ f
 . sin(u, sin W) 4- sin b
 . cos(u, sin W)] sin W. dW
 
-[p. 234]
-
-Si on observe que la fonction cos (u, sin W) prend valeurs de
+[p. 234] Si on observe que la fonction cos (u, sin W) prend valeurs de
 
 signes contraires, mais égales en valeur absoluepour deux valeurs
 de W équidistantes de la valeur W = 0 on verra que le coeffi
@@ -13575,9 +12857,7 @@ sin""Z
 1.3.5... (2m — 1)
 2.4.6...2m.
 
-[p. 235]
-
-( S {ii
+[p. 235] ( S {ii
 (24)
 
 LA MARCHE DES MONTRES AUX POSITIONS VERTICALES
@@ -13651,9 +12931,7 @@ Ap
 3.
 On aura ainsi pour les prévisions théoriques de ces avances.
 
-[p. 236]
-
-mais en supposant toutefois que les amplitudes soient les mêmes
+[p. 236] mais en supposant toutefois que les amplitudes soient les mêmes
 
 aux 4 observations :
 
@@ -13754,9 +13032,7 @@ H 0017
 86400
 S(uo)
 
-[p. 237]
-
-Ces formules dont les seconds membres sont connus, permettent
+[p. 237] Ces formules dont les seconds membres sont connus, permettent
 
 avec une règle, un crayon et du papier quadrillé, de construire
 
@@ -13810,9 +13086,7 @@ p. + p,
 p, + p,
 opposées c est-a-dire soit par 2 soit par —2
 
-[p. 238]
-
-Parfois on n’utilise que 3 observationsconsécutives au lieu de 4
+[p. 238] Parfois on n’utilise que 3 observationsconsécutives au lieu de 4
 comme on le fait par exemple dans les épreuves d’observatoires en
 positions verticales.
 
@@ -13895,11 +13169,9 @@ en la position horizontale les perturbations dues aux inégalités
 des frottements sur le balancier eu égard
 à l’échappement sont
 probablement très différentes de celles qui jouent dans les posi
-tions verticales ; donc il paraît a priori dangereux de comparer
+tions verticales ; donc il paraît *a priori* dangereux de comparer
 
-[p. 239]
-
-LA MARCHE DES MONTRES AUX POSITIONS VERTICALES
+[p. 239] LA MARCHE DES MONTRES AUX POSITIONS VERTICALES
 239
 
 directement une marche en position verticale à une marche en po
@@ -13909,9 +13181,7 @@ En d’autres termes la méthode de Phillips perdrait de sa préci
 sion possible et manquerait peut-être même son but si on voulait
 adopter le mode opératoire dangereux que nous venons d’écarter.
 
-[p. 240]
-
-CHAPITRE X
+[p. 240] CHAPITRE X
 
 LE RÉGLAGE DES CHRONOMÈTRES
 
@@ -13946,9 +13216,7 @@ visions des horlogers.
 Et c’est surtout pour reproduire l'analyse de Phillips relative à
 cette perturbation insoupçonnée que nous avions préalablement
 
-[p. 241]
-
-LE RÉGLAGE DES CHRONOMÈTRES A LA COMPENSATION
+[p. 241] LE RÉGLAGE DES CHRONOMÈTRES A LA COMPENSATION
 241
 
 commencé
@@ -14014,9 +13282,7 @@ A
 16
 Jules ANDRADE. — Horlogerie et Chronométrie.
 
-[p. 242]
-
-et se bornant aux deux premiers termes des développements nous
+[p. 242] et se bornant aux deux premiers termes des développements nous
 obtiendrons sensiblement
 VI - Vi a - 2( - *) • --
 
@@ -14075,9 +13341,7 @@ w = y - + g.
 h a 0
 °
 
-[p. 243]
-
-LE RÉGLAGE DES CHRONOMÈTRES A LA COMPENSATION
+[p. 243] LE RÉGLAGE DES CHRONOMÈTRES A LA COMPENSATION
 243
 
 On déduit de la définition de la courbure :
@@ -14144,11 +13408,7 @@ en observantque la valeur
 1 1—
 R
 R, ~
-h
-
-[p. 244]
-
-nous donnera
+h [p. 244] nous donnera
 :
 r -
 
@@ -14226,9 +13486,7 @@ o sin ao;
 Yo = — R
 o cos a.
 
-[p. 245]
-
-LE RÉGLAGE DES CHRONOMÈTRES A LA COMPENSATION
+[p. 245] LE RÉGLAGE DES CHRONOMÈTRES A LA COMPENSATION
 245
 
 la formule précédente, toujours au même ordre d’approximation
@@ -14291,11 +13549,7 @@ Pour effectuer le calcul des moments d’inertie de ces différentes
 parties, on applique une propriété déjà utilisée dans la théorie du
 pendule composé, rappelons cette propriété :
 Le moment d’inertie d’un solide par rapport à un axe est égal au
-moment d’inertie du même solide par rapport à un axe parallèle
-
-[p. 246]
-
-au premier mais passant par le centre de gravité du solide, aug
+moment d’inertie du même solide par rapport à un axe parallèle [p. 246] au premier mais passant par le centre de gravité du solide, aug
 menté du produit de la masse totale du solide multipliée par le
 carré de la distance des deux axes.
 La première partie
@@ -14329,9 +13583,7 @@ c" étant le coefficient de dilatation du laiton.
 
 La formule (F) nous donne alors :
 
-[p. 247]
-
-LE RÉGLAGE DES CHRONOMÈTRES A LA COMPENSATION
+[p. 247] LE RÉGLAGE DES CHRONOMÈTRES A LA COMPENSATION
 247
 
 Moment d’inertie des masses compensatrices =
@@ -14395,9 +13647,7 @@ OH2 = r [1 —
 — To)] — 2r
 üu + 2r3 cos aQ(pn + c)(r — T).
 
-[p. 248]
-
-Le moment d’inertie élémentaire est alors,
+[p. 248] Le moment d’inertie élémentaire est alors,
 à l’approximation
 
 considérée :
@@ -14474,9 +13724,7 @@ D‘e‘2 — D‘e‘2
 
 nous aurons :
 
-[p. 249]
-
-LE RÉGLAGE DES CHRONOMÈTRES A LA COMPENSATION
+[p. 249] LE RÉGLAGE DES CHRONOMÈTRES A LA COMPENSATION
 249
 
 moment d’inertie des deux lames de masse 2p. ==
@@ -14543,9 +13791,7 @@ sin d]
 
 4- 2M‘R‘c‘ 4- 2m‘r2d‘.
 
-[p. 250]
-
-Le problème théorique de la compensation et du réglage con
+[p. 250] Le problème théorique de la compensation et du réglage con
 siste, à l’approximation primaire dans le champ des températures,
 
 à satisfaire aux relations suivantes :
@@ -14599,9 +13845,7 @@ rectrices qui conduisent le réglage d’un chronomètre marin, et
 
 nous allons l’exposer, d’après le mémoire même de l’auteur.
 
-[p. 251]
-
-LE RÉGLAGE DES CHRONOMÈTRESA LA COMPENSATION
+[p. 251] LE RÉGLAGE DES CHRONOMÈTRESA LA COMPENSATION
 251
 
 Corrections de compensation et de réglage. — Le balancier
@@ -14682,9 +13926,7 @@ To
 1° de variation de température est, déterminable par l’observation,
 désignons-la par la lettre Z.
 
-[p. 252]
-
-Nous aurons alors, d’après la dernière égalité :
+[p. 252] Nous aurons alors, d’après la dernière égalité :
 
 —
 PAg_2
@@ -14781,9 +14023,7 @@ avec les
 
 corrections d.
 
-[p. 253]
-
-LÈ RÉGLAGE DES CHRONOMÈTRES A LA COMPENSATION
+[p. 253] LÈ RÉGLAGE DES CHRONOMÈTRES A LA COMPENSATION
 253
 
 Calcul des variations systématiques au balancier. — Nous
@@ -14870,11 +14110,7 @@ nous
 donne :
 
 4r2 R, = A, (2y,Dy. + ^y'>} + 2(u,DZ + ZDy 4- Dy.
-. DZ,) ;
-
-[p. 254]
-
-d’où, en portant dans le premier membre la valeur de H
+. DZ,) ; [p. 254] d’où, en portant dans le premier membre la valeur de H
 o , et résol
 
 vant par rapport au coefficient 1 du second membre :
@@ -14980,9 +14216,7 @@ régulatrices varieront de position, enfin les masses complémen
 taires varient par la suppression ou l’introduction d’une ou plu
 sieurs paires de vis.
 
-[p. 255]
-
-LE RÉGLAGE DES CHRONOMÈTRES A LA COMPENSATION
+[p. 255] LE RÉGLAGE DES CHRONOMÈTRES A LA COMPENSATION
 255.
 
 Relativement aux masses régulatrices, une petite difficulté se
@@ -15060,11 +14294,7 @@ remettant le chronomètre dans l’état primitif on aura, par la for
 mule I la correction de réglage 0A, à produire sur l’état primitif;
 puis par la formule III la correction à produire également sur l’état
 primitif.
-Il reste à préciser les modifications du balancier capables de
-
-[p. 256]
-
-réaliser ces variations de correction : dA, et op désormaisconnues.
+Il reste à préciser les modifications du balancier capables de [p. 256] réaliser ces variations de correction : dA, et op désormaisconnues.
 
 A cet effet, nous aurons recours aux formules VIII où les va
 
@@ -15146,9 +14376,7 @@ OM.
 
 Ces valeurs obtenues, il s’agit de les réaliser.
 
-[p. 257]
-
-LE RÉGLAGE DES CHRONOMÈTRES A LA COMPENSATION
+[p. 257] LE RÉGLAGE DES CHRONOMÈTRES A LA COMPENSATION
 257
 
 La correction
@@ -15216,11 +14444,7 @@ Pour cet objet, et après la première approximation obtenue, on
 soumet à nouveau le chronomètre aux contrôles de marches à deux
 
 Jules ANDRADE, — Horlogerie et Chronométrie.
-17
-
-[p. 258]
-
-températures T, et t
+17 [p. 258] températures T, et t
 ; on applique à nouveau les formules I et III,
 
 de manière à déterminer les nouvellescorrections ;
@@ -15272,11 +14496,7 @@ Nous en verrons la raison dans un autre chapitre.
 La théorie formelle de Villarceau est susceptible d’une extension
 dont nous ne retiendrons ici
 que cette proposition importante
-établie ci-dessous :
-
-[p. 259]
-
-la bague bimétallique reste cylindrique et circulaire à la tempé
+établie ci-dessous : [p. 259] la bague bimétallique reste cylindrique et circulaire à la tempé
 rature r — 0 si elle l’est à la température T.
 
 Extension de la méthode de Villarceau, en tenant compte de
@@ -15334,9 +14554,7 @@ Soit entre les températures T et t + 5
 :
 G l’allongement relatif d’un élément du filet de soudure et
 
-[p. 260]
-
-G' l’allongement relatif de l’élément parallèle correspondant à
+[p. 260] G' l’allongement relatif de l’élément parallèle correspondant à
 
 la distance u, l’on a par définition :
 
@@ -15413,11 +14631,7 @@ linéaire est changée en
 1 — cQ + 062 ; d’autre part,
 
 E = E
-o (1 + /0+62),
-
-[p. 261]
-
-LE RÉGLAGE DES CHRONOMÈTRES A LA COMPENSATION
+o (1 + /0+62), [p. 261] LE RÉGLAGE DES CHRONOMÈTRES A LA COMPENSATION
 261
 / et P étant les deux coefficients thermiques de l’élasticité ; d’où
 après sommation 2 des deux intégrales dans la bilame :
@@ -15491,9 +14705,7 @@ de leurs épaisseurs ; pour être faibles ces corrections ne sont pas
 absolument négligeables et le lecteur consultera sur ce point l’ou
 vrage de MM. Grossmann.
 
-[p. 262]
-
-CHAPITRE XI
+[p. 262] CHAPITRE XI
 
 RETOUR AUX PROBLÈMES
 
@@ -15528,11 +14740,7 @@ nomètres que la marine demande aux artistes, c’est
 CASPARI qui
 
 eut le rare mérite de pressentir que la solution, purement ration
-nelle de Résal, allait intéresser, non pas seulement le ressort moteur
-
-[p. 263]
-
-du barillet gêné d’ailleurs par son logement nécessairement forcé,
+nelle de Résal, allait intéresser, non pas seulement le ressort moteur [p. 263] du barillet gêné d’ailleurs par son logement nécessairement forcé,
 mais encore et surtout, avec une approximation incomparable
 
 ment supérieure, l’analyse des efforts élastiques transverses d’un
@@ -15565,11 +14773,7 @@ sitif de description des angles étant le sens de l’enroulement du
 ressort, depuis le bâti fixe (piton), jusqu’à l’encastrement soli
 daire du balancier (virole) ; x et y les coordonnées d’un point de
 
-la fibre moyenne ; w l’angle du rayon de courbure avec l’axe OX ;
-
-[p. 264]
-
-xo et y
+la fibre moyenne ; w l’angle du rayon de courbure avec l’axe OX ; [p. 264] xo et y
 a les coordonnées du point d’encastrement au piton ; M. le
 couple de réaction à l’encastrement du piton ; X et Y les compo
 santes de la réaction complémentaire au même point
@@ -15639,9 +14843,7 @@ v
 i\
 as
 
-[p. 265]
-
-RETOUR AUX PROBLÈMES DE LA MÉCANIQUE DU RÉGLAGE
+[p. 265] RETOUR AUX PROBLÈMES DE LA MÉCANIQUE DU RÉGLAGE
 265
 
 En posant as = n = R; et prenant les dérivées en
@@ -15757,9 +14959,7 @@ V1 — a cos Z 4- b sin Z
 Tels sont les résultats qui avaient été obtenus par Résal, dans
 l’étude des ressorts moteurs.
 
-[p. 266]
-
-L’expérience a indiqué que les composantes de la pression
+[p. 266] L’expérience a indiqué que les composantes de la pression
 complémentaire transverse sont fort petites, et que les constantes
 
 a et b sont toujours très petites.
@@ -15885,11 +15085,7 @@ d’abord :
 
 A — P(w
 0 4- sin
-wo) — 4(1 — cos w 0)
-
-[p. 267]
-
-puis :
+wo) — 4(1 — cos w 0) [p. 267] puis :
 
 (11 bis)
 — 4u sin t,
@@ -15973,9 +15169,7 @@ sin Z —
 4
 O /
 
-[p. 268]
-
-et j’obtiens pour ai et
+[p. 268] et j’obtiens pour ai et
 les valeurs :
 
 x, — R —
@@ -16076,9 +15270,7 @@ L
 1
 I
 
-[p. 269]
-
-RETOUR AUX PROBLÈMES DE LA MÉCANIQUE DU RÉGLAGE
+[p. 269] RETOUR AUX PROBLÈMES DE LA MÉCANIQUE DU RÉGLAGE
 269
 
 En sorte que, comme il nous reste à le faire voir, la suite des
@@ -16151,11 +15343,7 @@ u
 Ayons égard à 21 et posons :
 
 K(t — m) = W,
-Kd = dW,
-
-[p. 270]
-
-nous obtiendrons :
+Kd = dW, [p. 270] nous obtiendrons :
 
 ( dm = —
 1 2 sin2 W. [2—2 cos (P + u sin W)
@@ -16226,9 +15414,7 @@ L
 4- u, sin W. cos P
 . sin(u, sin W)L
 
-[p. 271]
-
-RETOUR AUX PROBLÈMES DE LA MÉCANIQUE DU RÉGLAGE
+[p. 271] RETOUR AUX PROBLÈMES DE LA MÉCANIQUE DU RÉGLAGE
 271
 
 On achèvera le calcul en développant, par séries :
@@ -16311,18 +15497,14 @@ thode Resal-Caspari est lié
 la grandeur de l’étendue angu
 laire P.
 
-[p. 272]
-
-Ne pas oublier que celle-ci, dans les formules qui précèdent est
+[p. 272] Ne pas oublier que celle-ci, dans les formules qui précèdent est
 mesurée en radians.
 Il importe de remarquer que la méthode d’isochronisme de
 Pierre Le Roy ne fournit pas l’isochronisme sinusoïdal ; celui-ci,
 jusqu’à présent, n’a pu être obtenu avec un seul spiral que par
 la méthode d’Arnold précisée par Phillips.
 
-[p. 273]
-
-CHAPITRE XII
+[p. 273] CHAPITRE XII
 
 LA PERTURBATION D’ISOCHRONISME
 DUE A L’INERTIE DU SPIRAL
@@ -16356,11 +15538,7 @@ système d’un balancier rigide (fictif) et du spiral déformable ; con
 formément à la méthode des approximations successives, nous
 
 Jules ANDRADE. — Horlogerie et Chronométrie.
-18
-
-[p. 274]
-
-pourrons avec Caspari admettre que, vu
+18 [p. 274] pourrons avec Caspari admettre que, vu
 sa faible masse, com
 parée à celle du balancier, le ressort réglant prendra à chaque ins
 
@@ -16410,11 +15588,7 @@ comprennent des portions déformables on a appelé le principe du
 moment des quantités de mouvement, principe que nous allons
 précisément utiliser tout à l’heure.
 Considérons un assemblage de masses formant deux groupes :
-1° un groupe rigide, tel un balancier ; 2° un ensemble de masses
-
-[p. 275]
-
-formant un tout déformable, ce second groupe sera, dans l’espèce,
+1° un groupe rigide, tel un balancier ; 2° un ensemble de masses [p. 275] formant un tout déformable, ce second groupe sera, dans l’espèce,
 
 le spiral encastré d’une part au piton fixe du bâti du chronomètre
 
@@ -16459,11 +15633,7 @@ moments des forces prévues agissant sur nos différentes masses
 isolées est égale à la somme des moments des forces de mouve
 ments de ces masses.
 Mais alors dans la première somme, disparaîtront d'eux-mêmes
-les moments des forces mutuelles ou des réactions de l’axe, nous
-
-[p. 276]
-
-aurons alors cette proposition qui est le principe ou théorème des
+les moments des forces mutuelles ou des réactions de l’axe, nous [p. 276] aurons alors cette proposition qui est le principe ou théorème des
 
 moments :
 La somme des moments par rapport à un axe fixe de toutes les
@@ -16533,11 +15703,7 @@ sur le spiral est
 :
 
 N — Mo — Yx,
-XoYo ;
-
-[p. 277]
-
-Soient ensuite
+XoYo ; [p. 277] Soient ensuite
 :
 r, la distance d’un élément de masse dm du spiral cylindrique
 
@@ -16589,11 +15755,7 @@ nue à l’approximationqu’exige la question.
 Il importe donc de bien définir celle-ci.
 Si on négligeait complètement la masse du spiral vis-à-vis de
 celle du balancier nous rentrerions dans la théorie statique de
-Philllips, sur l’isochronisme du spiral réglant, théorie assurée ici
-
-[p. 278]
-
-par les courbes terminales dont le spiral cylindrique est muni ; à
+Philllips, sur l’isochronisme du spiral réglant, théorie assurée ici [p. 278] par les courbes terminales dont le spiral cylindrique est muni ; à
 
 cet ordre d’approximation,on aurait comme nous le savons :
 X,=Y,=0,
@@ -16648,11 +15810,7 @@ s du
 "=Ld‘
 
 relation obtenue par la différentiation de III, il est clair que ce
-procédé est permis si nous ne voulons qu’apprécier la perturba-
-
-[p. 279]
-
-LA PERTURBATION D’ISOCHRONISME
+procédé est permis si nous ne voulons qu’apprécier la perturba-[p. 279]LA PERTURBATION D’ISOCHRONISME
 279
 
 tion étudiée, d’une manière approchée, car la relation IV sera
@@ -16732,11 +15890,7 @@ Dans la transmission des efforts au système spiral et balancier
 
 ou par le piton nous ne devons pas perdre de vue que le spiral
 
-est en mouvement ; sans doute nous avons fait une hypothèse
-
-[p. 280]
-
-très approchée en admettant que le spiral prend à chaque instant
+est en mouvement ; sans doute nous avons fait une hypothèse [p. 280] très approchée en admettant que le spiral prend à chaque instant
 
 sa configuration de déformation statique Phillips ; chaque élément
 
@@ -16802,9 +15956,7 @@ J0
 00
 00
 
-[p. 281]
-
-Or si l’on négligeait la masse du spiral, on aurait d'après la
+[p. 281] Or si l’on négligeait la masse du spiral, on aurait d'après la
 théorie de Phillips
 :
 
@@ -16852,9 +16004,7 @@ Dans ce système d’axes l’accélération relative du point B est
 
 dirigée suivant ÔB est égaleà‘d
 
-[p. 282]
-
-L’accélération d’entraînement a pour composantes : suivant OB
+[p. 282] L’accélération d’entraînement a pour composantes : suivant OB
 
 — 02. r ; et suivantla perpendiculaire oY à OB :
 rdP; donc, d’après
@@ -16904,9 +16054,7 @@ doo +
 dt
 dt /
 
-[p. 283]
-
-Les composantes de la même force d’inertie seront, suivant les
+[p. 283] Les composantes de la même force d’inertie seront, suivant les
 
 axes OX et OY, et en désignant par v l’angle XOX',
 
@@ -17006,9 +16154,7 @@ du mouvement du balancier :
 
 (XI)
 
-[p. 284]
-
-L’analyse de Caspari l’avait conduit à un système d’équations
+[p. 284] L’analyse de Caspari l’avait conduit à un système d’équations
 
 de même forme, mais cependant différent, ce système était le
 
@@ -17098,11 +16244,7 @@ Pour résoudre ce système nous posons
 
 (XIII)
 cty
-2
-
-[p. 285]
-
-et nous envisageons Z comme fonction de y, ce qui nous donne
+2 [p. 285] et nous envisageons Z comme fonction de y, ce qui nous donne
 d’abord
 :
 
@@ -17209,9 +16351,7 @@ d{y 2} \
 U y
 2 y2 4- N2)*
 
-[p. 286]
-
-Donc par l’emploi, indiqué dans un des premiers chapitres de-
+[p. 286] Donc par l’emploi, indiqué dans un des premiers chapitres de-
 
 cet ouvrage, des logarithmes naturels ou népériens, nous aurons,
 d’abord avec une constante arbitraire représentée par L. C.
@@ -17288,9 +16428,7 @@ plitude correspondant à y
 0 , est donc
 :
 
-[p. 287]
-
-Pour achever nos approximations, nous poserons
+[p. 287] Pour achever nos approximations, nous poserons
 :
 
 (XXI)
@@ -17385,9 +16523,7 @@ XJX
 formule, où d’ailleurs les termes en
 sont négligeables.
 
-[p. 288]
-
-Pour préciser les
+[p. 288] Pour préciser les
 autres termes, notons simplement qu’en
 
 N 2
@@ -17470,9 +16606,7 @@ N =1+Ni
 
 Le problème S qui représente le problème que s’était posé
 
-[p. 289]
-
-Caspari, mais corrigé de deux erreurs signalées plus haut, corres
+[p. 289] Caspari, mais corrigé de deux erreurs signalées plus haut, corres
 pond aux valeurs :
 N._2mR;
 2 _
@@ -17560,11 +16694,7 @@ la perturbation diurne prévue par Caspari pour l’inertie du spiral
 doit donc être amplifiée sensiblement dans le rapport de 5 à 3,
 
 Jules Andrade — Horlogerie et Chronométrie.
-19
-
-[p. 290]
-
-c’est-à-dire fixée à 1,66 pour les chronomètres marins français
+19 [p. 290] c’est-à-dire fixée à 1,66 pour les chronomètres marins français
 du type de 1876 et pour un passage de la semi-amplitudepassant
 .3-
 de 2
@@ -17628,9 +16758,7 @@ Dans les expériences d’isochronisme, on désarme générale-
 0 qui correspond
 au maximum de la fonction
 
-[p. 291]
-
-LA PERTURBATION D’ISOCHRONISME
+[p. 291] LA PERTURBATION D’ISOCHRONISME
 2.1
 
 «
@@ -17653,9 +16781,7 @@ des valeurs égales de u°S(u,) et Z(u,), car alors cos p serait mal
 « les amplitudes intermédiaires.
 »
 
-[p. 292]
-
-CHAPITRE XIII
+[p. 292] CHAPITRE XIII
 
 LE MOUVEMENT DES IDÉES EN CHRONOMÉTRIE.
 
@@ -17688,11 +16814,7 @@ d’avoir en apparence quelque peu violé dans l’exposition des
 faits et des idées la subordination historique des contrôles chro
 nométriques proprement dits aux progrès antérieurs de la préci-
 cision des horloges qui de bonne heure résulta de leur contrôle
-incessant parles observations méridienneset de la grande précision
-
-[p. 293]
-
-que ces horloges mêmes avaient apportée aux observations méri
+incessant parles observations méridienneset de la grande précision [p. 293] que ces horloges mêmes avaient apportée aux observations méri
 diennes d’abord, puis à l’astronomie tout entière.
 Mais j'éprouve, arrivé à ce point de mon exposition., le besoin
 
@@ -17738,7 +16860,7 @@ nisme par le ressort de suspension.
 
 2°
 ZüRGENSEN (Urb.). — Mémoires sur l’horlogerie exacte, tra
-duits et publiés par L.-U. Zurgensen, In-4°, Paris, 1832.
+duits et publiés par L.-U. Zurgensen, *In-4°*, Paris, 1832.
 III. — De l’isochronisme des vibrations du Pendule, et propo
 sition suivant laquelle on peut facilement faire vibrer le pendule
 
@@ -17747,9 +16869,7 @@ IV. —
 « Description d’un pendule compensateur.
 »
 
-[p. 294]
-
-V. —
+[p. 294] V. —
 « De l’influence de l’air sur le régulateur des pendules as
 tronomiques et des horloges à longitude.
 »
@@ -17805,9 +16925,7 @@ Cette remarque est la justification de la méthode d’exposition
 
 que nous avons adoptée.
 
-[p. 295]
-
-En adoptant toujours le même point de vue, il nous reste à pré
+[p. 295] En adoptant toujours le même point de vue, il nous reste à pré
 ciser quelle était la science chronométrique à la fin du xixe siècle,
 immédiatement après les travaux de Phillips, Villarceau, Résal et
 Caspari.
@@ -17867,11 +16985,7 @@ logerie, renouvelée par la chronométrie physique,
 a accueillie
 tout récemment comme une véritable révolution industrielle.
 D’ailleurs les premières applications des aciers au nickel con
-cernèrent surtout la compensation thermique des balanciers des
-
-[p. 296]
-
-horloges, et nous nous acheminerons vers elles en revenant aux
+cernèrent surtout la compensation thermique des balanciers des [p. 296] horloges, et nous nous acheminerons vers elles en revenant aux
 machines horaires dont l’organe réglant est le pendule.
 En dehors de toute classification purement théorique, les hor
 loges se distinguent des chronomètres par une précision de marche
@@ -17923,11 +17037,7 @@ peut atteindre le vingtième de l’amplitude ; ces variations sont im
 putables aux irrégularités des dentures des roues du gros rouage,
 car elles se reproduisent périodiquement dans une période de
 
-temps qui correspond au cycle du rouage (temps au bout duquel
-
-[p. 297]
-
-les situations relatives des roues et pignons sont redevenues les
+temps qui correspond au cycle du rouage (temps au bout duquel [p. 297] les situations relatives des roues et pignons sont redevenues les
 
 mêmes) ; il est clair dès lors que tout défaut d’isochronisme aura
 
@@ -17977,11 +17087,7 @@ les analogues de la pesanteur terrestre agissant sur la toupie tour
 nante; de plus l’axe instantané de rotation de la terre se déplace
 
 un peu par rapport à l’écorce terrestre, le point où il perce celte
-écorce décrit un cercle de quelques décimètres autour de la posi-
-
-[p. 298]
-
-lion moyenne du pôle
+écorce décrit un cercle de quelques décimètres autour de la posi-[p. 298]lion moyenne du pôle
 géographique de la terre; malgré le dé
 placement continu de l’axe instantané de rotation de la terre, la
 
@@ -18032,11 +17138,7 @@ sépare
 pas
 pour ainsi dire du mouvement de rotation autour
 de la génératrice actuelle de contact ; l’important c’est que, prati
-quement, la vitesse actuelle « représentée par un vecteur porté sur
-
-[p. 299]
-
-cette génératrice de direction si lentement variable
+quement, la vitesse actuelle « représentée par un vecteur porté sur [p. 299] cette génératrice de direction si lentement variable
 garde
 elle-
 même une valeur très sensiblement constante, au point que les
@@ -18098,11 +17200,7 @@ Et il est bon, même au point de vue horloger, de s’arrêter quel
 
 que peu sur cette fonction du pendule libre. Nous nous adresse
 
-rons ici à l'introductionhistorique de C. Wolf. Cette fonction du
-
-[p. 300]
-
-pendule fut inaugurée, avec une certaine précision, en 1669 par
+rons ici à l'introductionhistorique de C. Wolf. Cette fonction du [p. 300] pendule fut inaugurée, avec une certaine précision, en 1669 par
 l’abbé Picard. Le pendule quasi simple qu’il employait et qu’em
 ployèrent tous
 les physiciens et astronomes jusqu’à la fin
@@ -18162,9 +17260,7 @@ pendule à Saint-Domingue, dans celui de Godin
 sur le même
 sujet (1735) et surtout dans le mémoire, très complet, où le
 
-[p. 301]
-
-P. Boscovich a résumé l’état des connaissances sur la mesure du
+[p. 301] P. Boscovich a résumé l’état des connaissances sur la mesure du
 pendule (1785) qu’il faut chercher les perfectionnementsapportés
 
 à la fin du xvme siècle dans la mesure de la longueur du pendule
@@ -18219,11 +17315,7 @@ Godin.
 
 La méthode des concours de M. de Mairan n’était d’ailleurs pas
 identique àcequ’on appelle aujourd’hui méthode des coïncidences :
-le concours avait lieu pour lui lorsque le pendule d’expérience et
-
-[p. 302]
-
-le balancier de l’horloge arrivaient en même temps à l'extrémité
+le concours avait lieu pour lui lorsque le pendule d’expérience et [p. 302] le balancier de l’horloge arrivaient en même temps à l'extrémité
 
 de leur oscillation, du même côté de la verticale.
 
@@ -18280,11 +17372,7 @@ Arrêtons-nous maintenant un instant pour, d’une part calculer la
 durée d’oscillation d’un pendule composé, sous des oscillations
 dont l’amplitude ne peut être confondue avec celle d’une oscillation
 infiniment petite, puis pour, d’autre part, résumer la méthode dite
-des coïncidences qui après avoir été minutieusement décrite par
-
-[p. 303]
-
-le P. Boscovich a été plus tard employée par Borda, Kater et
+des coïncidences qui après avoir été minutieusement décrite par [p. 303] le P. Boscovich a été plus tard employée par Borda, Kater et
 Bessel.
 
 Nous savons déjà, par la théorie du pendule composé, que nous
@@ -18364,11 +17452,7 @@ cos
 dO = 2 sin In
 
 2 cos u
-. du
-
-[p. 304]
-
-puis
+. du [p. 304] puis
 0
 7
 2 sm .
@@ -18440,11 +17524,7 @@ sin?nu
 . du =
 1
 . 3.5...(2n — 1)
-2.4.6 ..2n
-
-[p. 305]
-
-d’où enfin :
+2.4.6 ..2n [p. 305] d’où enfin :
 
 /1
 . 3
@@ -18509,11 +17589,7 @@ K 2
 
 Jules ANDRADE.
 — Horlogerie et Chronométrie.
-20
-
-[p. 306]
-
-on trouve par un calcul simple et rapide :
+20 [p. 306] on trouve par un calcul simple et rapide :
 ,=1+2
 
 Pour a = 25 millimètres et
@@ -18562,11 +17638,7 @@ Pour soutenir le pendule, on emploie un couteau d’acier G dont
 l’arête pose sur le plan et auquel le fil de soutien de la boule de
 platine est attaché.
 Ce
-couteau devant osciller lui-même sans
-
-[p. 307]
-
-avoir pourtant un poids négligeable on pourrait redouter qu’il
+couteau devant osciller lui-même sans [p. 307] avoir pourtant un poids négligeable on pourrait redouter qu’il
 n’altérât la durée des oscillations ; mais une précaution bien simple
 
 va parer à ce danger; au-dessous du couteau on
@@ -18624,9 +17696,7 @@ concave, dans laquelle les sphères l’emboitaient
 exactement et que l’on faisait adhérer en interposant une mince
 couche de suif.
 
-[p. 308]
-
-Avant d’entreprendre une mesure de g il faut effectuer ces me
+[p. 308] Avant d’entreprendre une mesure de g il faut effectuer ces me
 
 sures préliminaires
 :
@@ -18677,9 +17747,7 @@ pulsion au pendule de gravité ; on referme la cage et l’on observe
 les battements avec une lunette fixée en face de l'appareil dans
 la direction de DD' (fig. 113), à une distance de 8 à 10 mètres.
 
-[p. 309]
-
-On voit alors passer séparément, dans le champ de vision de la
+[p. 309] On voit alors passer séparément, dans le champ de vision de la
 lunette, le balancier sur lequel on a tracé d’avance un trait ver
 tical D et le fil de suspension du pendule.
 
@@ -18725,11 +17793,7 @@ p
 e° — —2—
 
 et la formule, à laquelle on demandera le calcul de y, sera enfin la
-suivante :
-
-[p. 310]
-
-ou, pour la longueur X0 du pendule battant la seconde, au lieu de
+suivante : [p. 310] ou, pour la longueur X0 du pendule battant la seconde, au lieu de
 l’observation
 :
 
@@ -18779,11 +17843,7 @@ puisque l’horloge marque les siennes et que c’est seulement à
 l’approche d’une coïncidence qu’après un coup d’œil sur l’horloge
 l’oreille compte les battements ultérieurs de l’horloge qui sont en
 nombre réduit.
-A la méthode des coïncidences appliquée à la mesure de la
-
-[p. 311]
-
-gravité, physiciens et astronomes se sont efforcés d’ajouter une
+A la méthode des coïncidences appliquée à la mesure de la [p. 311] gravité, physiciens et astronomes se sont efforcés d’ajouter une
 analyse des corrections théoriques à apporter à la précision de la
 formule d’où doit se dégager la valeur de g.
 Cette analyse a été conservée dans la collection des mémoires
@@ -18836,11 +17896,7 @@ En supposant que, dans l’état stable auquel arrive bien vite
 l’air environnant dès que les conditions initiales du mouvement
 ont été effacées par les résistances, le fluide reprend après chaque
 oscillation double l’état qu’il avait au commencement, et que le
-pendule soit formé d’une masse pesante de très petit volume
-
-[p. 312]
-
-attachée à un fil, Bessel trouve que la longueur du pendule simple
+pendule soit formé d’une masse pesante de très petit volume [p. 312] attachée à un fil, Bessel trouve que la longueur du pendule simple
 synchrone peut être évaluée à
 
 ,
@@ -18891,9 +17947,7 @@ Page 229.
 
 « faire osciller le corps dans le fluide.
 
-[p. 313]
-
-« ...On connaît les expériences de Newton sur les oscillations
+[p. 313] « ...On connaît les expériences de Newton sur les oscillations
 
 « des globes dans différents fluides : mais comme il n’avait pour
 
@@ -18965,11 +18019,7 @@ n
 F 1
 P
 
-[^p313-1]: Telle est la quantité dont nous avons déduit la valeur par
-
-[p. 314]
-
-« plusieurs expériences faites sur différents corps oscillant dans
+[^p313-1]: Telle est la quantité dont nous avons déduit la valeur par [p. 314] « plusieurs expériences faites sur différents corps oscillant dans
 
 « l’eau, en commençant par des globes de densité et de diamètres
 
@@ -19048,9 +18098,7 @@ a cependant aussi que, quand les temps des oscillations sont fort
 « peut fixer pour une moyenne aux 1000 de son volme...
 »
 
-[p. 315]
-
-« La formule
+[p. 315] « La formule
 1 = —p"
 peut se combiner de diverses ma-
 n —h 1
@@ -19124,11 +18172,7 @@ du fluide entraîné par les corps oscillant dans l’air.
 »
 Ces recherches expérimentales de Du Buat et de Bessel ont
 ouvert un problème physique qui ne peut être approfondi que par
-une analyse très délicate et par l’emploi des équations de l'hydro-
-
-[p. 316]
-
-dynamique préalablement préparées pour se prêter à l’étude des
+une analyse très délicate et par l’emploi des équations de l'hydro-[p. 316]dynamique préalablement préparées pour se prêter à l’étude des
 frottementsintérieurs des fluides ; cette étude ouverte par Navier,
 
 Poisson, de Saint-Venant et approfondie par Stokes n’appartient
@@ -19193,11 +18237,7 @@ a n’est pas un tranchant géométrique déterminé par l’intersection
 
 « par un défaut dans la taille ou par suite de l’usure, le tranchant
 
-« du couteau est un peu émoussé, de sorte que Bessel a pu dire
-
-[p. 317]
-
-« que, dans l’état actuel de nos connaissances, il n'est pas possible
+« du couteau est un peu émoussé, de sorte que Bessel a pu dire [p. 317] « que, dans l’état actuel de nos connaissances, il n'est pas possible
 
 « de mesurer la longueur du pendule à secondes avec un pendule
 
@@ -19209,7 +18249,7 @@ autre
 procédé.
 »
 (Wolf,
-loc. cit.).
+*loc. cit.*).
 
 Le retour au pendule solide formé d’une pièce métallique rigide
 de grande masse, mais disposé de manière à pouvoir osciller
@@ -19262,9 +18302,7 @@ d’un pendule réversible
 
 « de gravité, donner la longueur du pendule simple... »
 
-[p. 318]
-
-« Mais l’ensemble des conditions que devait remplir le pendule
+[p. 318] « Mais l’ensemble des conditions que devait remplir le pendule
 
 « réversible ne fut établi que par Bessel dans son grand mémoire
 
@@ -19339,11 +18377,7 @@ axes
 
 « oscillations dans le même temps. Que l’on fixe à une tige cylin-
 
-« drique ou prismatique CA en C et en c, deux axes en forme de
-
-[p. 319]
-
-« coins, dont les couteaux sont tournés l’un vers l’autre, perpen-
+« drique ou prismatique CA en C et en c, deux axes en forme de [p. 319] « coins, dont les couteaux sont tournés l’un vers l’autre, perpen-
 
 « diculaires à la tige et parallèles l’un à l’autre.
 
@@ -19413,11 +18447,7 @@ La distance que l’on doit donner aux deux couteaux sera prise
 égale à peu près à la longueur du pendule à secondes ; il est né
 cessaire d’assigner à l’avance la valeur de cette distance, puisque
 les dimensions des diverses parties de l’appareil en dépendent, si
-bien que la construction devrait être disposée tout autrement par
-
-[p. 320]
-
-une autre distance des couteaux. La valeur adoptée n’a d’ailleurs
+bien que la construction devrait être disposée tout autrement par [p. 320] une autre distance des couteaux. La valeur adoptée n’a d’ailleurs
 besoin d’être exacte que dans les limites de quelques pouces ;
 deux pouces en plus ou en moins n’enlèvent rien de ses avantages
 à la construction que je propose. Aussi, pour permettre de profiter
@@ -19458,9 +18488,7 @@ Les masses des trois parties, dans l’ordre dans lequel je les ai
 ; leurs moments d’iner
 tie par rapport à leurs centres de gravité, par p., p.', p/'.
 
-[p. 321]
-
-Les distances des couteaux au milieu de la tige sont, par suite
+[p. 321] Les distances des couteaux au milieu de la tige sont, par suite
 11.
 de la condition de symétrie, égales à — 2 et — 2, le signe 4- se
 
@@ -19537,9 +18565,7 @@ K(1 4- K)(m‘ 4- m") = 2 m — (u+u’+u).
 Jules AxDRADE. — Horlogerie et Chronométrie.
 21
 
-[p. 322]
-
-Telle est l’unique équation de condition du problème. Mais l’ar
+[p. 322] Telle est l’unique équation de condition du problème. Mais l’ar
 bitraire qui semblerester encore dans la construction est beaucoup
 limité par certaines conditions que doit avoir l’appareil.
 Il faut : 1° que le centre de gravité tombe entre les deux cou-
@@ -19587,11 +18613,7 @@ m — (y +
 / + u).
 
 Il faut maintenant exprimer les masses et les mouvements des
-trois parties de l’appareil en fonctions de leurs dimensions :
-
-[p. 323]
-
-1° La tige. Si l’on appelle l sa longueur, r son rayon, on a :
+trois parties de l’appareil en fonctions de leurs dimensions : [p. 323] 1° La tige. Si l’on appelle l sa longueur, r son rayon, on a :
 
 m =
 =[2m,(à très peu près).
@@ -19687,9 +18709,7 @@ ou
 5 l 1 + 0,49445
 O
 
-[p. 324]
-
-Mais
+[p. 324] Mais
 1 doit être plus grand que la distance des bords les plus
 éloignés des lentilles, qui est
 
@@ -19746,9 +18766,7 @@ o / = 0,04 (1 + 9,055
 \
 O
 
-[p. 325]
-
-Mais des deux expressions de‘ et m on déduit :
+[p. 325] Mais des deux expressions de‘ et m on déduit :
 
 „
 0,61 (1-
@@ -19819,11 +18837,7 @@ Les équations (5) et (6) deviennent
 
 (5)
 (1,32r2+0,000179685) p=0,61.(0,000153065—0,11.r^,
-(6) (0,000179685—0,11r2).0,12221=0,11398248rs —0,0000002818
-
-[p. 326]
-
-et l’on en tire
+(6) (0,000179685—0,11r2).0,12221=0,11398248rs —0,0000002818 [p. 326] et l’on en tire
 
 r2 = 0,000174404,
 r = 0,013206,
@@ -19887,9 +18901,7 @@ extrême importance pour la technique des suspensions diverses
 du pendule et dont on ne saurait exagérer le grand intérêt pour
 toutes les analyses mécaniques des horloges.
 
-[p. 327]
-
-L’influence de la forme cylindrique de l’arête des couteaux
+[p. 327] L’influence de la forme cylindrique de l’arête des couteaux
 d'après Bessel. —
 a L’influence delà forme cylindrique de l’arête
 
@@ -19967,11 +18979,7 @@ a rayon de courbure, et l’on ne peut s’assurer avec précision si
 
 « gentes menées aux points limites du cylindre, dans le plan per-
 
-« pendiculaire à l’axe, fut également à l’angle 2t. De plus, on peut
-
-[p. 328]
-
-« supposer connue la distance des plans dans les points où ils
+« pendiculaire à l’axe, fut également à l’angle 2t. De plus, on peut [p. 328] « supposer connue la distance des plans dans les points où ils
 
 « viennent
 se raccorder avec la surface cylindrique, puisqu’on
@@ -20028,11 +19036,7 @@ V [^p328-1] —
 e cos'i
 2 cos i
 
-[^p328-1]: Pour £ = séc'i ==c0s2;, la conique se transforme en deux « droites qui se coupent ; q devient nul, b indéterminé. a Pour s compris entre séc2/ et 1 la courbe est une hyperbole ; « pour £ =1, une parabole; entre 1 et 0, une ellipse dont le « grand axe est vertical ; par £ == 0, un cercle ; enfin par £ va- « riant entre 0 et — co , une ellipse dont le petit axe est vertical. « Pendant que e passe de séci à — c,q grandit sans cesse et
-
-[p. 329]
-
-« devient même infiniment grand, ce qui indique que dans ce cas
+[^p328-1]: Pour £ = séc'i ==c0s2;, la conique se transforme en deux « droites qui se coupent ; q devient nul, b indéterminé. a Pour s compris entre séc2/ et 1 la courbe est une hyperbole ; « pour £ =1, une parabole; entre 1 et 0, une ellipse dont le « grand axe est vertical ; par £ == 0, un cercle ; enfin par £ va- « riant entre 0 et — co , une ellipse dont le petit axe est vertical. « Pendant que e passe de séci à — c,q grandit sans cesse et [p. 329] « devient même infiniment grand, ce qui indique que dans ce cas
 
 « les oscillations infiniment petites
 cessent complètement.
@@ -20065,9 +19069,7 @@ i == 45°
 
 i == 60°
 
-[p. 330]
-
-« Pour qu’on puisse se rendre un compte exact de
+[p. 330] « Pour qu’on puisse se rendre un compte exact de
 ces varia-
 
 « tions, j’ai donné, dans les deux tables ci-dessus, les valeurs
@@ -20103,11 +19105,7 @@ auront pour équations respectives :
 0=+-2P5+P2472 1 0=--2P*+P8+72
 | 0=+2P+P8+72
 
-la lettre P désignant la valeur absolue de p et avec même signi-
-
-[p. 331]
-
-fication de a dans les trois cas le nombre positif a est la valeur
+la lettre P désignant la valeur absolue de p et avec même signi-[p. 331]fication de a dans les trois cas le nombre positif a est la valeur
 dans chaque cas
 de l’axe transverse vertical ; mais le nombre
 algébrique désigné par p est :
@@ -20197,11 +19195,7 @@ les plans qui
 forment les faces planes ou les joues du couteau, en d’autres
 termes la largeur delà partie énoncée ; le calcul direct de la rela
 tion liant b à i n’offre aucune difficulté et pourrait être lait par
-l'emploi des formules bien connues, utilisées en géodosie, formules
-
-[p. 332]
-
-par lesquelles on exprime les coordonnées d’un’pointde la conique
+l'emploi des formules bien connues, utilisées en géodosie, formules [p. 332] par lesquelles on exprime les coordonnées d’un’pointde la conique
 
 en fonction de l’inclinaison de sa normale sur l’un des axes, princi
 
@@ -20225,9 +19219,7 @@ O‘n‘) seront dé
 
 nommés E et n‘.
 
-[p. 333]
-
-Soient x et y les coordonnées d’un élément de masse dm du
+[p. 333] Soient x et y les coordonnées d’un élément de masse dm du
 pendule, par rapport à un second système d’axes immobiles dans
 l’espace, avec lequel le premier coïncide quand le pendule est en
 repos ; x sera pris positif au-dessous du plan d’appui, y et u se-
@@ -20272,11 +19264,7 @@ coordonnées, on a les relations :
 
 0 = x' — C cos u 4- tq' sin u
 — g — y' 4-
-sin u — n‘ cos u
-
-[p. 334]
-
-c’est-à-dire
+sin u — n‘ cos u [p. 334] c’est-à-dire
 
 x‘ = —
 cos u — n‘ sin u
@@ -20346,9 +19334,7 @@ teau a la forme d’équation indiqué plus haut :
 
 formule où P est la valeur absolue de p et où a est > 0.
 
-[p. 335]
-
-La relation
+[p. 335] La relation
 oV.
 ôV
 U = —r sin u
@@ -20435,9 +19421,7 @@ j(il) = 2
 ‘
 7
 
-[p. 336]
-
-Perturbation du mouvement pendulaire troublé représenté
+[p. 336] Perturbation du mouvement pendulaire troublé représenté
 
 par l’équation de Bessel :
 /d\2
@@ -20499,9 +19483,7 @@ sin d
 Pour la limite positive
 :
 
-[p. 337]
-
-Ceci suppose que f(u) soit indépendant du sens dans lequel
+[p. 337] Ceci suppose que f(u) soit indépendant du sens dans lequel
 marche le pendule lorsqu’il passe ou repasse en une même position
 caractérisée par l’angle u, en d’autres termes la fonction f(u) est
 
@@ -20580,11 +19562,7 @@ durée d’une oscillation complète ;
 si l’on veut la rendre dépen-
 
 Jules ANDRADE. — Horlogerie et Chronométrie.
-22
-
-[p. 338]
-
-dante de l’amplitude observée u" il faudra après l’intégration et-
+22 [p. 338] dante de l’amplitude observée u" il faudra après l’intégration et-
 fectuée exprime ©‘ en fonction de u" ce qui donne :
 
 , _
@@ -20690,11 +19668,7 @@ i
 f(u) ==3+3‘sinJu— P" si112
 u— •••
 A
-A
-
-[p. 339]
-
-y
+A [p. 339] y
 et si on tient pour négligeables les produits des coefficients par les
 puissances de u‘ supérieures à la 2 on trouvera
 :
@@ -20753,9 +19727,7 @@ T=(o— au) cos u — a sin u
 
 y = (p -h au) sin u — a cos u
 
-[p. 340]
-
-Si X est la longueur du pendule simple battant la seconde et si le
+[p. 340] Si X est la longueur du pendule simple battant la seconde et si le
 
 temps t est exprimé en secondes de temps moyen l’équation diffé
 rentielle du mouvement d’un point sur une courbe est
@@ -20806,11 +19778,7 @@ que mettrait à Vaccomplir un pendule simple suspendu au centre
 du cylindre de déroulement et descendantaussi bas que lepremier.
 La seconde applicationde la méthodede Bessel concernele roule
 
-ment d’un couteau de pendule que l’on suppose émoussé suivant
-
-[p. 341]
-
-une surface quadratique ; ce roulement a été étudié géométrique
+ment d’un couteau de pendule que l’on suppose émoussé suivant [p. 341] une surface quadratique ; ce roulement a été étudié géométrique
 
 ment plus haut et l’équation du mouvement a été ramenée au type
 de Bessel
@@ -20909,9 +19877,7 @@ sin?u/2cosu—2cosu‘
 
 et il restera à remplacer E‘ par sa valeur en u.
 
-[p. 342]
-
-Ainsi sera établi le résultat suivant signalé par Bessel : la lon
+[p. 342] Ainsi sera établi le résultat suivant signalé par Bessel : la lon
 
 gueur du pendule simple synchrone de la durée d’oscillation du
 roulement d’un couteau dont la surface cylindrique est assimilée
@@ -21001,9 +19967,7 @@ e cos2 i
 w
 VI — e sin 2 u V2 cos u — 2 cos ié
 
-[p. 343]
-
-Cette circonstance empêcherait, en toute rigueur, les conclusions
+[p. 343] Cette circonstance empêcherait, en toute rigueur, les conclusions
 deBessel relatives au rôle de l’échange des couteaux dans l’emploi
 du pendule réversible de s’associer à toutes formes du couteau
 émoussé qui seraient celles d’un cylindre général dusecond degré ;
@@ -21065,11 +20029,7 @@ Supposons maintenant, qu’envisageant les deux couteaux C et
 CP 1° on fasse osciller le pendule sur C et que l' soit la longueur
 du pendule synchrone de celte oscillation ;
 2° On échange les deux couteaux C et C, ; sur le même appui
-oscille le pendule dans sa même orientation, par l’arêtedu couteau Ci
-
-[p. 344]
-
-dans sa nouvelle position, soit L'la longueur du pendule simple
+oscille le pendule dans sa même orientation, par l’arêtedu couteau Ci [p. 344] dans sa nouvelle position, soit L'la longueur du pendule simple
 synchrone équivalent.
 Supposant que les deux oscillations aient même amplitude,
 
@@ -21149,11 +20109,7 @@ sur un pendule simple de longueur A, dont la valeur est
 Ao — 5 + S,
 •
 Et
-ces avantages, affirmait Bessel, sont maintenus si l’on tient
-
-[p. 345]
-
-compte des perturbations petites de l’influence de l’air et de
+ces avantages, affirmait Bessel, sont maintenus si l’on tient [p. 345] compte des perturbations petites de l’influence de l’air et de
 la
 perturbation supposée petite due à deux couteaux dont les formes
 seraient celles de deux cylindres du second degré ; il résulte des
@@ -21208,11 +20164,7 @@ de mes
 « expériences, et n’est même pas compatible avec eux,
 d’autre
 
-« part, il 'n’est pas nécessaire de supposer une force considérable
-
-[p. 346]
-
-« pour les expliquer. Il semble donc que l’arête du couteau, dans
+« part, il 'n’est pas nécessaire de supposer une force considérable [p. 346] « pour les expliquer. Il semble donc que l’arête du couteau, dans
 
 « ses très petits mouvements, n’éprouve pas de frottement et ne
 
@@ -21292,11 +20244,7 @@ ajoute :
 ce qu’elle relève un peu le point autour
 
 « duquel tourne le pendule.
-1
-
-[p. 347]
-
-« De quelque manière que se comportent les forces qui agissent
+1 [p. 347] « De quelque manière que se comportent les forces qui agissent
 
 « dans le voisinage de ce centre de rotation, leur influence sur la
 
@@ -21376,11 +20324,7 @@ alors pour la moyenne commune A,, la valeur
 5 -4- s,
 —H h — h, == A,.
 
-Encore une fois le but de Bessel n’était pas de trouver une
-
-[p. 348]
-
-nouuvelle
+Encore une fois le but de Bessel n’était pas de trouver une [p. 348] nouuvelle
 suspension
 applicable directement
 aux
@@ -21433,9 +20377,7 @@ L’horloge à coïncidence a été préalablement réglée de manière
 
 [^p348-1]: H. Bouasse. — Pendule, spirale et diapason, t. I er (Librairie Delagrave).
 
-[p. 349]
-
-à faire 64 ou 59 battements pendant qu’une horloge de temps
+[p. 349] à faire 64 ou 59 battements pendant qu’une horloge de temps
 
 moyen en fait 60.
 Avant le signal attendu de l’observatoire, le balancier P
@@ -21488,11 +20430,7 @@ capable aussi
 d’éclairer quelques recherches
 chronométriques et dont je dirai quelques mots. Ce problème se
 présentait dans les corrections qu’il recherchait pour accroître la
-précision de sa méthode originale, pour la mesure de la gravité
-
-[p. 350]
-
-et nous réparerons une omission involontaire dans la rédaction de
+précision de sa méthode originale, pour la mesure de la gravité [p. 350] et nous réparerons une omission involontaire dans la rédaction de
 
 ce chapitre en faisant connaître cette méthode ingénieuse.
 
@@ -21505,11 +20443,7 @@ pendule quasi-simple formé d’une boule soutenue par un fil mé
 tallique,mais il fait à cette méthode une variante très intéressante.
 La même boule soutenue par le même (il va être observée dans
 
-ses oscillations mais la longueur du fil de soutien va varier d'une
-
-[p. 351]
-
-longueur 1 à une autre longueur 1 +
+ses oscillations mais la longueur du fil de soutien va varier d'une [p. 351] longueur 1 à une autre longueur 1 +
 À, la différence X de ces deux
 longueurs est la seule longueur mesurée avec précision ; en re
 vanche sont observées les durées d’oscillations doubles corres
@@ -21566,11 +20500,7 @@ Grâce à la pièce D on fait en sorte que la boule S affleure le plan Q.
 Supprimons la toise, transportons le levier L sur la tige A',
 changeons le fil.
 Le cylindre C repose maintenant sur la pièce B
-; il s’est abaissé
-
-[p. 352]
-
-exactement de la longueur d’une toise. Si nous nous arrangeons
+; il s’est abaissé [p. 352] exactement de la longueur d’une toise. Si nous nous arrangeons
 de manière que la sphère S affleure de nouveau le plan Q la lon
 
 gueur du fil a juste diminué d’une longueur ) = une toise.
@@ -21617,11 +20547,7 @@ pareil de Bessel décrit plus haut ; mais dans le mémoire de Bessel
 l’extension du problème à la lame flexible, qui intéresserait tant les
 horlogers, n’est pas abordée, ce dont on ne saurait faire un re
 proche à Bessel ; c’est précisément celle extension que nous au
-rions voulu saisir, soit dans les mémoires de Bessel publiés en
-
-[p. 353]
-
-français, soit dans des travaux utilisant une théorie de la lame
+rions voulu saisir, soit dans les mémoires de Bessel publiés en [p. 353] français, soit dans des travaux utilisant une théorie de la lame
 flexible que l’on ne trouve nulle part (en langue française) dans
 les écrits relatifs à celte lame flexible.
 
@@ -21669,11 +20595,7 @@ Lorsque l’ingénieur, dont je parlais et qui avait été mon premier
 maître de géométrie me proposait cette définition il ajoutait : la
 
 Jules ANDRADE. — Horlogerie et Chronométrie.
-23
-
-[p. 354]
-
-droite idéale invoquée ici, c’est précisément celle qui est formée
+23 [p. 354] droite idéale invoquée ici, c’est précisément celle qui est formée
 
 de tous les points sur un autre solide fixe, et qui eux aussi de
 
@@ -21742,11 +20664,7 @@ pourrait toujours tourner en outre autour de sa tige de soutien, ce
 
 qui ferait glisser le plan roulant, mais si la ligne des centres des
 
-deux sphères est bien horizontale la force d’inertie capable de
-
-[p. 355]
-
-provoquer ce minime glissement ne se produirait pas, la résis
+deux sphères est bien horizontale la force d’inertie capable de [p. 355] provoquer ce minime glissement ne se produirait pas, la résis
 
 tance au frottement de glissement l’éteindrait s’il tendait à se pro
 duire.
@@ -21781,11 +20699,7 @@ rouler une roue solide sur un plan
 ; si l’on veut appliquer les pro
 priétés du mouvement pendulaire à des déterminations de cette
 espèce il est préférable de constituer un solide oscillant lié à une
-plaque d’un fléau roulant sur un cylindre horizontal de révolu-
-
-[p. 356]
-
-tion, le roulement se faisant sur la partie convexe supérieure du
+plaque d’un fléau roulant sur un cylindre horizontal de révolu-[p. 356]tion, le roulement se faisant sur la partie convexe supérieure du
 cylindre horizontal ; ce fléau peut être lesté par un cadre dont le
 vide est traversé par le cylindre d’appui (fig. 123). Sur cette
 figure, la
@@ -21845,11 +20759,7 @@ d’un faisceau cylindrique réfléchis par le miroir et émanant de
 
 rayons à 450 etperpendiculaires aux génératricesdu cylindre roulé,
 l’image focale du faisceau réfléchi est photographiée sur
-une
-
-[p. 357]
-
-plaque, animée d’une translation parallèle aux génératrices du
+une [p. 357] plaque, animée d’une translation parallèle aux génératrices du
 cylindre, plaque sur laquelle sera photographiée, avec un léger
 décalage, la bande lumineuse dont les bords extrêmes nets mar
 quent les bornes paire et impaire des amplitudes décroissantes
@@ -21879,11 +20789,7 @@ Les conditions de construction de cette nouvelle balance sont
 
 assez délicates, car la balance complète présente cette particularité,
 
-qu’envisagé seul le fléau en croix est lourd et peu sensible, mais
-
-[p. 358]
-
-chargée par le fléau de frottement relativement lourd le gros fléau
+qu’envisagé seul le fléau en croix est lourd et peu sensible, mais [p. 358] chargée par le fléau de frottement relativement lourd le gros fléau
 qui en définition pèsera le frottement, par une tare convenable
 placée sous un bras horizontal du gros fléau peut acquérir une
 beaucoup plus grande sensibilité dans ce système de 2 balances
@@ -21915,9 +20821,7 @@ goujon AA solidaire de la pièce B, celle-ci est reliée au bâti fixe G
 
 par les ressorts R.
 
-[p. 359]
-
-Les ressorts, de faible largeur sont aussi écartés que le permet
+[p. 359] Les ressorts, de faible largeur sont aussi écartés que le permet
 l’espace disponible ; vers leurs extrémités, elles sont percées de
 deux trous dans lesquels passent les goupilles de suspension. On
 cherche
@@ -21973,9 +20877,7 @@ n
 d2o
 a ^'u\
 
-[p. 360]
-
-négligeons la variation de v ; sur l’arc X circulaire et, vu la petitesse
+[p. 360] négligeons la variation de v ; sur l’arc X circulaire et, vu la petitesse
 
 de S, on a u =
 
@@ -22008,11 +20910,7 @@ Prenant comme unités,
 de longueur
 : le millimètre, et de
 
-masse : le gramme ;
-
-[p. 361]
-
-Nous envisageons deux ressorts
+masse : le gramme ; [p. 361] Nous envisageons deux ressorts
 de suspension, se doublant au
 même niveau ; ces ressorts sont en acier dont le module delasti-
 cité E — 23.10. Les dimensions transverses des ressorts sont :
@@ -22091,9 +20989,7 @@ relation entre le moment de flexion et la variation des courbures
 dans la comparaison de l’état d’équilibre primitif et de l’état con
 traint est modifiée.
 
-[p. 362]
-
-Sans doute on peut être tenté de prendre d’abord comme pre
+[p. 362] Sans doute on peut être tenté de prendre d’abord comme pre
 mier état d’équilibre naturel de la lame moyenne celui où elle a
 pris l’allongement a dû au poids du pendule, puis d’étudier la dé
 formation statique du ressort à partir de cet état acquis du repos,
@@ -22142,11 +21038,7 @@ Certes, le progrès de nos connaissances théoriques importe
 beaucoup moins à notre puissance d’action lorsque nous em
 ployons des horloges comme garde-temps que lorsque nous em
 ployons des chronomètres.
-Malgré le petit mystère qui entoure encore la secret de la lame
-
-[p. 363]
-
-flexible, celle-ci n’en
+Malgré le petit mystère qui entoure encore la secret de la lame [p. 363] flexible, celle-ci n’en
 a pas moins donné des horloges
 astrono
 miques d’une grande sécurité dont témoigne, non pas aucune
@@ -22193,11 +21085,7 @@ du Vernier transposée de l’espace à la durée.
 Il semble que pour les recherches que réclame l’étude expéri
 mentale du problème du pendule à la lame flexible, une méthode
 aussi sûre, mais plus rapide que la méthode des coïncidences de
-vrait être la bienvenue ; cette méthode a été donnée par Lippmann
-
-[p. 364]
-
-il y a 32 ans ; ceux qui depuis l’ont adoptée la proclament aujour
+vrait être la bienvenue ; cette méthode a été donnée par Lippmann [p. 364] il y a 32 ans ; ceux qui depuis l’ont adoptée la proclament aujour
 d'hui aussi sûre, mais plus rapide et plus souple que la méthode des
 coïncidences, à condition que l’on puisse compter sur la haute
 approximation du mouvement sinusoïdal étudié.
@@ -22269,9 +21157,7 @@ en
 
 « les deux étincelles, le premier pendule a exécuté n — a — a'
 
-[p. 365]
-
-« oscillations n étant un nombre entier, et a — d une fraction.
+[p. 365] « oscillations n étant un nombre entier, et a — d une fraction.
 
 « Le second pendule a exécuté pendant le même temps n + b — b'
 
@@ -22349,11 +21235,7 @@ consé-
 
 1
 « que la différence démarché est de 1800000
-• Pour mesurer cette
-
-[p. 366]
-
-« différence de marche par la méthode des coïncidences, il eût
+• Pour mesurer cette [p. 366] « différence de marche par la méthode des coïncidences, il eût
 
 « fallu opérer sur un ou plusieurs intervalles de vingt fois vingt
 
@@ -22398,11 +21280,7 @@ en angle = ©. A l’aide de ces définitions rappelées la lecture de la
 note de Lippmann devient facile.
 On voit que la phase est comptée au temps zéro (instant initial)
 d’après la valeur proportionnelle de l’écart initial au point mort,
-soit dans le domaine angulaire, soit dans le domaine du temps qui
-
-[p. 367]
-
-sont représentés dans le mouvement auxiliaire schématique uni
+soit dans le domaine angulaire, soit dans le domaine du temps qui [p. 367] sont représentés dans le mouvement auxiliaire schématique uni
 forme et circulaire que nous avons considéré, tout à fait au début
 
 de cet ouvrage, pour établir une théorie élémentaire des mou
@@ -22465,9 +21343,7 @@ a
 
 « produite par la lumière de l’étincelle. On mesure micrométri-
 
-[p. 368]
-
-« quement sur le cliché les
+[p. 368] « quement sur le cliché les
 distances p et q de l’image intermé-
 
 « diaire aux images extrêmes on a ainsi :
@@ -22534,11 +21410,7 @@ réglés sensiblement à la même période.
 
 « sitions relatives quelconques. Mais comme elle exige un petit
 
-« matériel électrique dont il est bon de pouvoir se passer dans
-
-[p. 369]
-
-« les stations passagères, je
+« matériel électrique dont il est bon de pouvoir se passer dans [p. 369] « les stations passagères, je
 ferai
 connaître
 la
@@ -22618,11 +21490,7 @@ si une lampe placée d’un
 
 1
 
-« du balancier, donne des éclairs de 400 de seconde. Comme la
-
-[p. 370]
-
-« quantité de lumière est beaucoup plus que suffisante pour l’obser-
+« du balancier, donne des éclairs de 400 de seconde. Comme la [p. 370] « quantité de lumière est beaucoup plus que suffisante pour l’obser-
 
 « vation, même en plein jour et sans précaution spéciale, il n’est
 
@@ -22642,9 +21510,7 @@ morte du frottement du chronomètre soit négligeable, la méthode
 de M. Lippmann par la photographie des formes de l’oscillation
 simple évite cette hypothèse.
 
-[p. 371]
-
-CHAPITRE XV
+[p. 371] CHAPITRE XV
 
 LES MOUVEMENTS PENDULAIRES
 
@@ -22675,9 +21541,7 @@ On atténue l’effet propre à l’échappement de l’horloge syn-
 9
 (1) Académie des Sciences, Comptes Rendus, 13 septembre 1847.
 
-[p. 372]
-
-chronisée et l’on compense cette atténuationpar une action électro
+[p. 372] chronisée et l’on compense cette atténuationpar une action électro
 magnétique dont le rythme est emprunté à l’horloge-mère.
 
 En d’autres termes on associe à l’échappement ordinaire ou
@@ -22728,11 +21592,7 @@ d’autre part, s’il suppose qu’un régime limite est atteint, il ne le
 montre nullement. L’intérêt du mémoire d’Everett est surtout dans
 
 une application aux marées d’un théorème très spécial.
-Quant au mémoire de lord Rayleigh il renferme des exemples
-
-[p. 373]
-
-nets de vibrations périodiques stables et la théorie du phénomène
+Quant au mémoire de lord Rayleigh il renferme des exemples [p. 373] nets de vibrations périodiques stables et la théorie du phénomène
 de Melde.
 Depuis le mémoire de Foucault publié en 1847, on ne trouve
 donc point d’étude systématique de la synchronisation avant les
@@ -22785,9 +21645,7 @@ rayon vecteur diminue proportionnellement comme les puissances
 d’une quantité fixe moindre que 1, dont l’exposant est propor
 tionnel au temps (fig. 128). Ce mouvement a été étudié plus haut.
 
-[p. 374]
-
-On a cherché d’abord la vitesse puis l’accélération du mobile M,
+[p. 374] On a cherché d’abord la vitesse puis l’accélération du mobile M,
 soient
 M et M' les positions du mobile aux époques voisines
 t et t + h ; ce problème a été résolu par une méthode élémentaire
@@ -22877,11 +21735,7 @@ sède un coefficient d’amortissement q rigoureusement constant ; si
 le pendule est abandonné à lui-même il aura le mouvementamorti
 
 que nous venons d’étudier. Mais faisons agir sur lui une force
-périodique de période T', le mouvement du pendule va tendre:
-
-[p. 375]
-
-alors vers un régime périodique (mais non sinusoïdal)
+périodique de période T', le mouvement du pendule va tendre: [p. 375] alors vers un régime périodique (mais non sinusoïdal)
 de pé
 riode T.
 
@@ -22950,9 +21804,7 @@ nombre fini, et formant, dans le temps, un ensemble périodique
 
 de période T'.
 
-[p. 376]
-
-Les mêmes représentations de mouvement vont donc se re
+[p. 376] Les mêmes représentations de mouvement vont donc se re
 produire périodiquement, mais les valeurs initiales de x et de C
 ne
 
@@ -23007,11 +21859,7 @@ donnée accompagnée d’une condensation homothétiquedonnée au
 tour du même point.
 Les points Mô, Mz+1 (fig. 130), points appartenant à une même
 
-et nouvelle spirale X suivant le pôle X de celte spirale'pour point
-
-[p. 377]
-
-asymptotique ; la distance Mo, décroît en progression géométrique
+et nouvelle spirale X suivant le pôle X de celte spirale'pour point [p. 377] asymptotique ; la distance Mo, décroît en progression géométrique
 quand l’entier n croît en progression arithmétique.
 
 Donc, les circonstances initiales étant quelconques mais données
@@ -23060,11 +21908,7 @@ mais petites vis-à-vis de la force pendulaire (élasticité ou pesan
 teur).
 Supposons que,
 sans l’action de l’échappement, le balancier
-considéré eût un mouvement représenté par l’équation suivante
-
-[p. 378]
-
-où x (z) est l’écart au point mort au temps t, et où ad (Z) est la
+considéré eût un mouvement représenté par l’équation suivante [p. 378] où x (z) est l’écart au point mort au temps t, et où ad (Z) est la
 
 vitesse savoir :
 d 2x
@@ -23133,9 +21977,7 @@ Ces considérations doivent être complétées pour la rigueur de la
 prévision d’un régime asymptotique stable.
 Nous nous servirons dans ce but d’un théorème fort simple de
 
-[p. 379]
-
-M. Kœnigs que son auteur a fait servir à des recherches purement
+[p. 379] M. Kœnigs que son auteur a fait servir à des recherches purement
 analytiques et que nous avons utilisé plus haut.
 
 Ce théorème consiste en ceci que, si pour la valeur de U racine
@@ -23192,9 +22034,7 @@ le rapport KE(U) reste néanmoins petit aux amplitudes normales.
 Les conditions (3) ou (4) seront alors certainement réalisées et
 la stabilité du régime permanent sera assurée.
 
-[p. 380]
-
-Je me placerai dans ce qui va suivre dans des conditions ana
+[p. 380] Je me placerai dans ce qui va suivre dans des conditions ana
 logues et j’admettrai que la force synchronisante soit déterminée
 (comme nous le verrons) dans le but de synchroniser sous une
 amplitude donnée appartenant au champ des amplitudes dites
@@ -23260,11 +22100,7 @@ t.
 Zif
 
 La méthode de la variation des constantes nous donne, pour
-valeurs,approchéesdes fonctions H et Y, les suivantes oùE' désigne
-
-[p. 381]
-
-(10 bis) /
+valeurs,approchéesdes fonctions H et Y, les suivantes oùE' désigne [p. 381] (10 bis) /
 
 l’effet simple de l’échappement,deux fois répété et agissant la pre
 mière fois à l’époque t^
@@ -23353,9 +22189,7 @@ plus rapidement que les termes d’une progression géométrique ;
 donc il y
 a régime limite de période T, donc synchronisation.
 
-[p. 382]
-
-Si . est une quantité de l’ordre
+[p. 382] Si . est une quantité de l’ordre
 de
 A,
 la condition (12)
@@ -23427,9 +22261,7 @@ pendule synchronisé que d’une quantité du second ordre.
 En réalité le raisonnement esquissé plus haut doit être com
 plété de la manière suivante.
 
-[p. 383]
-
-Si l’horloge synchronisée tend à retarder sur l'horloge-mère et
+[p. 383] Si l’horloge synchronisée tend à retarder sur l'horloge-mère et
 si ce retard se maintient en tendant vers o durant le régime va
 riable, la condition (12) devrait être, comme plus haut, remplacée
 
@@ -23487,11 +22319,7 @@ Si imparfaiteque puisse être actuellement au point de vue pure
 ment mathématique cette théorie de la synchronisation d’une hor
 loge à échappement, j’espère qu’elle intéressera les physiciens.
 
-Rien n’est d’ailleurs plus facile que de supprimer l’échappe-
-
-[p. 384]
-
-ment de l’horloge synchronisée, il serait intéressant alors de
+Rien n’est d’ailleurs plus facile que de supprimer l’échappe-[p. 384]ment de l’horloge synchronisée, il serait intéressant alors de
 faire servir la théorie de la synchronisation à l’étude expérimen
 tale de l’amortissement naturel des balanciers à suspension flexible
 
@@ -23508,11 +22336,7 @@ par lui imaginé et présenté à l’Académie des Sciences le
 cembre 1887. Les pendules synchronisées dont le nombre peut
 être quelconque comportent chacune (figure 131) un pendule P
 suspendu en
-S et portant un barreau aimanté, mobile durant
-
-[p. 385]
-
-les
+S et portant un barreau aimanté, mobile durant [p. 385] les
 oscillations
 dans
 les
@@ -23594,11 +22418,7 @@ Et Cornu concluait
 a Le problème de la
 
 Jules ANDRADE, — Horlogerie et Chronométrie.
-25
-
-[p. 386]
-
-« distribution de l’heure à une précision voisine du centième de
+25 [p. 386] « distribution de l’heure à une précision voisine du centième de
 
 « seconde me paraît donc complètement résolu.
 
@@ -23609,9 +22429,7 @@ Jules ANDRADE, — Horlogerie et Chronométrie.
 « faibles courants.
 »
 
-[p. 387]
-
-L’ÉLECTRO-HORLOGERIE
+[p. 387] L’ÉLECTRO-HORLOGERIE
 
 ET
 
@@ -23655,11 +22473,7 @@ de l’horloger à l’électricité et à ses applications ». Volume édité
 
 par
 « Inventions-Revue » en 1910, à Chaux-de-Fonds.
-Nous reproduisons successivement, d’après M. Berner, la des-
-
-[p. 388]
-
-cription de l’échappement électrique du pendule réglant de Hipp,
+Nous reproduisons successivement, d’après M. Berner, la des-[p. 388]cription de l’échappement électrique du pendule réglant de Hipp,
 
 le pendule à restitution constante et le pendule réglant sans contacts
 solides. Ces deux dernières inventions sont dues à M. Ch. Féry.
@@ -23706,11 +22520,7 @@ l’électricien anglais Bain, en 1840.
 Un pendule P suspendu en S (fig. 132) porte à son extrémité infé
 rieure, au-dessous de la lentille L une armature A en fer doux.
 Lors des oscillations du pendule, cette armature passe très près
-d’un des noyaux de l’électro-aimant E dont les fils a et b sont
-
-[p. 389]
-
-reliés à la pile et à un mécanisme interrupteur qui ouvre et ferme
+d’un des noyaux de l’électro-aimant E dont les fils a et b sont [p. 389] reliés à la pile et à un mécanisme interrupteur qui ouvre et ferme
 le circuit en utilisant pour cela le mouvement même du pendule.
 L’électro-aimant, excité en la position voulue du pendule, attire
 l’armature et entretient de la sorte les oscillations.
@@ -23760,11 +22570,7 @@ quelles nous sommes accoutumés; le visiteur non initié sera plutôt
 tenté d’y voir quelque horloge mystérieuse.
 On n’y trouve aucun rouage, ni échappement habituel, poids,
 cadran ou aiguilles; seul un pendule d’environ un mètre de lon
-gueur et supportant des organes inconnus oscille gravementet sans
-
-[p. 390]
-
-bruit dans une cage cylindrique en verre, à l’extrémité supérieure
+gueur et supportant des organes inconnus oscille gravementet sans [p. 390] bruit dans une cage cylindrique en verre, à l’extrémité supérieure
 de laquelle émergent des fils conducteurs chargés de communi
 
 quer la précision de ce mouvement oscillatoire à des compteurs
@@ -23814,9 +22620,7 @@ entre b 2c2
 Le courant passe alors dans le circuit Pile 4- Sra2 b 2 compteur
 WP Pile _
 
-[p. 391]
-
-Ce courant est de sens inverse au premier, ce qui est une con
+[p. 391] Ce courant est de sens inverse au premier, ce qui est une con
 dition nécessaire pour actionner le compteur dont les armatures
 polarisées exigent le courant alternatif.
 L’appareil à contacts que nous venons de décrire n’a rien à voir
@@ -23827,11 +22631,7 @@ celle d’enregistrer les oscillations en ouvrant et fermant le circuit
 de la pile P affectée au seul usage des compteurs.
 L’énergie empruntée au mouvement du pendule par l’appareil
 
-à contacts doit être aussi réduite et régulière que possible, afin de
-
-[p. 392]
-
-n’entraver en rien la marche du pendule par l’introduction dans
+à contacts doit être aussi réduite et régulière que possible, afin de [p. 392] n’entraver en rien la marche du pendule par l’introduction dans
 
 son mouvement de résistances parasites variables.
 L’échappement électrique de Hipp (fig. 134) représenté ici dans
@@ -23866,11 +22666,7 @@ armature en fer doux a fixée sur une des traverses T unissant les
 tiges I du pendule, vient passor très proche de ses noyaux n.
 L’échappement électrique est réglé de façon que le contact opéré
 
-par le couteau e (fig. 134) se fasse au moment ou l’armature s’ap-
-
-[p. 393]
-
-L’ÉLECTRO-HORLOGERIEET LES ORGANES RÉGLANTS
+par le couteau e (fig. 134) se fasse au moment ou l’armature s’ap-[p. 393]L’ÉLECTRO-HORLOGERIEET LES ORGANES RÉGLANTS
 393
 proche des noyaux. L’armature étant alors attirée par ceux-ci, le
 pendule reçoit une impulsion qui augmente l’amplitude de ses
@@ -23885,11 +22681,7 @@ piles Meidinger qui demandent à être renouvelées environ tous les
 six mois.
 Lorsque les piles sont neuves, les impulsions étant relativement
 fortes, l’horloge demande un courant toutes les 50 à 60 secondes ;
-au fur et à mesure que les piles s’épuisent, les impulsions dimi-
-
-[p. 394]
-
-nuant d'énergie, les contacts deviennent plus fréquents. Au moment
+au fur et à mesure que les piles s’épuisent, les impulsions dimi-[p. 394]nuant d'énergie, les contacts deviennent plus fréquents. Au moment
 où nous avons visité cette horloge, l’échappement électrique fonc
 tionnait toutes les 32 secondes et le courant qui passait dans les
 électro-aimantsétait de 0,014 ampère.
@@ -23934,11 +22726,7 @@ tandis que l’autre a se trouve éloignée des pôles de l’électro-
 aimant E.
 Le fil de l’électro-aimantE est relié d’une part au pôle 4- de la
 pile, de l’autre aboutit en p à un très léger ressort r constitué par
-une lame d’acier destinée à la construction des spiraux de chrono-
-
-[p. 395]
-
-L’ÉLECTRO-HORLOGERIE ET LES ORGANES RÉGLANTS
+une lame d’acier destinée à la construction des spiraux de chrono-[p. 395]L’ÉLECTRO-HORLOGERIE ET LES ORGANES RÉGLANTS
 395
 
 mètres de marine et présentantcomme le montre la figure, la forme
@@ -23961,11 +22749,7 @@ qui circule dans le solénoïde B où il détermine un flux magnétique
 qui attire la branche de l’aimant D du pendule. Au retour de son
 oscillation, le doigt d abandonne le ressort r, le courant est inter
 
-rompu, l’attraction de E cesse et l’armature, sous l’effet de l'attrac-
-
-[p. 396]
-
-tion de l'aimant A, vient de nouveau plaquer sur les pôles. Le
+rompu, l’attraction de E cesse et l’armature, sous l’effet de l'attrac-[p. 396]tion de l'aimant A, vient de nouveau plaquer sur les pôles. Le
 circuit magnétique de l’aimant se trouvant fermé, la valeur de son
 flux magnétique augmente brusquement, conséquence : production
 d’un nouveau courant induit dans les enroulements e et le solé-
@@ -24014,9 +22798,7 @@ et a réalisé un pendule que nous décrivons ici et qui est caracté
 risé par le fait qu’il ne louche à aucun corps solide pendant son
 oscillation.
 
-[p. 397]
-
-IV. — Pendule sans lien matériel de M. Ch. Féry
+[p. 397] IV. — Pendule sans lien matériel de M. Ch. Féry
 
 L’horloge électrique de M. Ch. Féry est une intéressante appli
 cation des phénomènes de l’induction, notamment des courants de
@@ -24041,11 +22823,7 @@ en S'.
 Ces deux pendules ont la même durée d’oscillation. Le pen
 dule P, lorsqu’il oscille, entre alternativement en contact par sa
 traverse c, avec les ressorts r et r'. Le contact avec r ferme le cou
-rant de la pile 2 sur le solénoïde E, dans l’ouverture duquel peut
-
-[p. 398]
-
-se mouvoir la seconde branche de l’aimant A. Le contact avec r’
+rant de la pile 2 sur le solénoïde E, dans l’ouverture duquel peut [p. 398] se mouvoir la seconde branche de l’aimant A. Le contact avec r’
 ferme le courant de la pile 1 sur les horloges réceptrices hh‘.
 
 Ce pendule, convenablement réglé, jouit de la propriété inté
@@ -24086,9 +22864,7 @@ nisme, de certaines classes de machines horaires, est pleine de
 
 promesses pour la chronométrie de précision.
 
-[p. 399]
-
-CHAPITRE XVI
+[p. 399] CHAPITRE XVI
 
 NOUVELLES MÉTHODES DE
 COMPENSATION
@@ -24124,9 +22900,7 @@ faire des étalons géodésiques, exempts de piqûres et de défauts.
 
 [^p399-1]: Extraits de la conférence faite le 23 février 1921 à Mulhouse.
 
-[p. 400]
-
-La question restait donc partiellement ouverte, et je saisissais
+[p. 400] La question restait donc partiellement ouverte, et je saisissais
 
 toute occasion faisant entrevoir la possibilité d’une solution plus
 complète.
@@ -24176,9 +22950,7 @@ dont ils sont construits, en même temps qu’à l’erreur commise sur
 la mesure de leur température. Lorsque cette dernière mesure est
 difficile, on a donc grand avantage à utiliser un métal de dilatabilité
 
-[p. 401]
-
-'
+[p. 401] '
 MÉTHODES DE COMPENSATION PAR LES ACIERS AU NICKEL
 401
 
@@ -24238,11 +23010,7 @@ parablement moins, il était naturel, pour l’établissement d’un
 premier canevas, de pousser l’investigation du côté de ces der-
 
 Jules ANDRADB. — Horlogerie et Chronométrie.
-26
-
-[p. 402]
-
-nières. L’élude des propriétés magnétiques des ferro-nickels a,
+26 [p. 402] nières. L’élude des propriétés magnétiques des ferro-nickels a,
 dans la suite, fait l’objet de recherches très poussées deMM.Osmond,
 
 L. Dumas, Pierre Weiss et ses élèves, Nagaoka, Honda, lesquelles
@@ -24280,9 +23048,7 @@ dant. Les premiers sont sans emploi en métrologie ; je n’en ai
 fait qu’une étude sommaire, sur laquelle il n’y a pas lieu de nous
 arrêter ici.
 
-[p. 403]
-
-MÉTHODES DE COMPENSATION PAR LES ACIERS AU NICKEL
+[p. 403] MÉTHODES DE COMPENSATION PAR LES ACIERS AU NICKEL
 403
 
 Etals correspondants.— Dès le début de mes travaux, j’ai pensé
@@ -24336,11 +23102,7 @@ on peut limiter la série au terme quadratique.
 On écrira donc l’équation
 
 l9 = l,(1 H- 00 +
-802),
-
-[p. 404]
-
-dans laquelle la longueur le d’une barre à la température 0 est
+802), [p. 404] dans laquelle la longueur le d’une barre à la température 0 est
 donnée comme le produit de sa longueur l. à 0° par la quantité
 contenue dans la parenthèse, et dans laquelle a et
 3 sont respecti
@@ -24372,11 +23134,7 @@ du rapport du fer ou nickel dans l’alliage, mais encore des addi
 tions : manganèse, carbone, chrome, etc. Les deux premiers sont
 toujours présents dans l’alliage, parce que, s’il était dépourvu de
 
-manganèse, on ne pourrait pas le forger ; et, pour le carbone, à
-
-[p. 405]
-
-a fois parce qu’il assainit l’alliage, et parce qu’on ne peut jamais,
+manganèse, on ne pourrait pas le forger ; et, pour le carbone, à [p. 405] a fois parce qu’il assainit l’alliage, et parce qu’on ne peut jamais,
 
 en toute rigueur, en débarrasser complètement les mélanges où le
 fer intervient.
@@ -24387,11 +23145,7 @@ lorsqu’il n’est pas spécialement mentionné, l’alliage n’en contient
 
 pas.
 D’une coulée à l’autre, la proportion des additions se modifie, et
-cette variabilité introduit, dans la discussion des résultats, un élé-
-
-[p. 406]
-
-ment d’incertitude, dont on ne se débarrasse que par le traitement
+cette variabilité introduit, dans la discussion des résultats, un élé-[p. 406]ment d’incertitude, dont on ne se débarrasse que par le traitement
 d’un grand nombre de données, issues de mesures faites sur des
 
 alliages possédant des proportions d’additions très variables et
@@ -24402,9 +23156,7 @@ aciers nickels-types ; l’anomalie extraordinairequ’elle révèle peut
 
 de la dilatabilité du fer et du nickel.
 
-[p. 407]
-
-Cette anomalie apparaît, à l’origine, fortement positive, puis la
+[p. 407] Cette anomalie apparaît, à l’origine, fortement positive, puis la
 
 dilatabilité baisse très rapidement, passe, vers 36%, par un mini
 
@@ -24430,11 +23182,7 @@ par le point C. La droite CB relie donc les dilatabilités du fer
 
 gamma et du nickel, et, comme une analyse minutieuse des phéno
 
-mènes montre que les aciers au nickel non magnétiques con-
-
-[p. 408]
-
-tiennent le fer à l'état gamma, on peut légitimement admettre que
+mènes montre que les aciers au nickel non magnétiques con-[p. 408]tiennent le fer à l'état gamma, on peut légitimement admettre que
 l’anomalie doit être rapportée à la droite CB. Elle est donc, en
 réalité, entièrement négative.
 La courbe (fig. 141) représente les valeurs de 3, que l’on peut
@@ -24486,9 +23234,7 @@ J’avais tracé la courbe, dès l’année 1897, en appliquant celte règle.
 
 Les très belles expériences que M. P. Chevenard a exécutées
 
-[p. 409]
-
-MÉTHODES DE COMPENSATION PAR LES ACIERS AU NICKEL
+[p. 409] MÉTHODES DE COMPENSATION PAR LES ACIERS AU NICKEL
 409
 
 depuis lors, sur la dilatation des aciers au nickel dans un large
@@ -24533,9 +23279,7 @@ une dilatabilité négative ; un réchauffement à 100° relève lente
 ment celle-ci, et l’amène aussi près de zéro qu’on le veut. On
 obtient ainsi des alliages rigoureusement indilatables.
 
-[p. 410]
-
-On confère des propriétés particulières aux aciers au nickel, en
+[p. 410] On confère des propriétés particulières aux aciers au nickel, en
 leur incorporant des doses plus ou moins élevées de métaux ou de
 métalloïdes étrangers. Nous avons vu déjà quelles sont les actions
 du chrome. Le manganèse, de son côté, facilite le moulage, tandis
@@ -24586,11 +23330,7 @@ avançait au chaud. Les éludes que nous entreprîmes alors ensemble,
 et que j’ai poursuivies plus tard avec le concours de la Société des
 Fabriques de spiraux réunies, ont permis de tracer la courbe
 1
-(fig. 144), qui représente les valeurs du coefficient thermoélas-
-
-[p. 411]
-
-JE
+(fig. 144), qui représente les valeurs du coefficient thermoélas-[p. 411]JE
 tique
 0 à 20°.
 Le maximum, qui correspond
@@ -24615,9 +23355,7 @@ préalablement fléchis,
 se
 raidissent lorsqu’on les chauffe. Mais, pour certaines applications.
 
-[p. 412]
-
-la valeur nulle du coefficient thermoélastique (ressort invariable)
+[p. 412] la valeur nulle du coefficient thermoélastique (ressort invariable)
 présente un plus grand intérêt pratique. Cette valeur nulle est
 réalisée, à la température ordinaire, par deux alliages, à 29 et 45 °/
 environ de nickel, marqués par les points où la courbe 1, (fig. 144),
@@ -24665,11 +23403,7 @@ une intersection, avec l’axe des abscisses, d’une courbe rapide
 
 ment ascendante, mais bien par la tangence à l’axe, entraînant une
 action très faible des différences de composition ; en second lieu,
-l’application de la règle des états correspondants conduisait à
-
-[p. 413]
-
-tracer la courbe 2 (fig. 145), dans laquelle deux branches descen
+l’application de la règle des états correspondants conduisait à [p. 413] tracer la courbe 2 (fig. 145), dans laquelle deux branches descen
 
 dantes étaient réunies par une inflexion horizontale. On devait
 obtenir ainsi un alliage à module d’élasticité invariable dans un
@@ -24725,11 +23459,7 @@ des
 traitements thermiques
 divers me fit bientôt découvrir une certaine variabilité de longueur,
 dont les caractères essentiels sont les suivants : Une barre d’invar,
-refroidie à l’air à partir de la température de la forge, s’allonge,
-
-[p. 414]
-
-dans le cours des années, avec une rapidité graduellement atté
+refroidie à l’air à partir de la température de la forge, s’allonge, [p. 414] dans le cours des années, avec une rapidité graduellement atté
 nuée, mais telle, cependant, qu’après vingt ans de repos, les
 changements sont encore bien perceptibles dans des mesures
 espacées de deux ou trois ans.
@@ -24777,9 +23507,7 @@ valeur des étalons ainsi traités, avec une précision de l’ordre du
 millionième, suffisante dans la grande majorité des cas, mais infé
 rieure, cependant, à celle que l’on exige des étalons prototypes.
 
-[p. 415]
-
-Si. à partir de l’invar, on augmente la teneur en nickel, on voit
+[p. 415] Si. à partir de l’invar, on augmente la teneur en nickel, on voit
 l’instabilité diminuer, s’annuler vers
 42 °/0 Ni, puis changer de
 signe, et, après avoir passé par un maximum négatif, revenir
@@ -24827,11 +23555,7 @@ dence, d’autres ont besoin d’être exposées avec quelque détail.
 Parmi les premièresje mentionnerai, dans le domaine des dila
 tations, le pendude à tige d’invar, dont le mouvement, très faible,
 
-est compensé par la dilatation ascendante de la lentille, faite en
-
-[p. 416]
-
-bronze ou en fonte, remplaçant le mercure du pendule deGraham,
+est compensé par la dilatation ascendante de la lentille, faite en [p. 416] bronze ou en fonte, remplaçant le mercure du pendule deGraham,
 la substitution, au platine formant les conducteurs d’entrée des
 lampes à incandescence, d’un alliage possédant la dilatabilité du
 
@@ -24882,11 +23606,7 @@ Pour corriger ces changements de la marche des montres, on
 associe au spiral un balancier compensateur, formé d’un bras dia
 
 métral en acier, des deux extrémités duquel partent des arcs semi-
-circulaires, constitués par des bandes bimétalliques, acier à Tinté-
-
-[p. 417]
-
-MÉTHODES DE COMPENSATION PAR LES ACIERS AU NICKEL
+circulaires, constitués par des bandes bimétalliques, acier à Tinté-[p. 417]MÉTHODES DE COMPENSATION PAR LES ACIERS AU NICKEL
 417
 
 rieur, laiton
@@ -24919,9 +23639,7 @@ dimensions de la bilame, ou par la position des vis réglantes.
 Jules ANDRADE. — Horlogerie et Chronomètre.
 27
 
-[p. 418]
-
-La marche de la montre étant commandée par la somme algé
+[p. 418] La marche de la montre étant commandée par la somme algé
 brique OM de la fonction perturbatrice OS et de la fonction com
 pensatrice OB, on pourra réaliser l’égalité des marches pour deux
 températures déterminées ; mais les marches aux autres tempéra
@@ -24943,9 +23661,7 @@ ce procédé de réglage, et il n’y a pas à nous étonner, si la valeur
 que Ferdinand Berthoud donne de l’erreur secondaire est égale à
 celle que lui attribue Dent.
 
-[p. 419]
-
-MÉTHODES DE COMPENSATION PAR LES ACIERS AU NICKEL
+[p. 419] MÉTHODES DE COMPENSATION PAR LES ACIERS AU NICKEL
 419
 
 La considération attentive des diagrammes va nous suggérer une
@@ -24995,9 +23711,7 @@ marche de la montre, d’abord en avance graduelle lorsque la
 température s’élève, passe par un maximum, puis redescent, ou
 inversement.
 
-[p. 420]
-
-Nous retrouvons ici l’erreur secondaire, mais avec une valeur
+[p. 420] Nous retrouvons ici l’erreur secondaire, mais avec une valeur
 décuple de celle qu'avait trouvée Dent, soit 20 à 25 secondes par
 jour entre 0° et 30°. Le progrès réalisé par l’emploi du spiral
 compensateur est cependant considérable ; il ressort en effet de
@@ -25045,9 +23759,7 @@ Mais il y a plus : le réglage est arrivé aujourd’hui à un degré
 de perfection tel, que la cause la plus ordinaire des variations
 diurnes doit être cherchée dans les changements de la densité de
 
-[p. 421]
-
-MÉTHODES DE COMPENSATION PAR LES ACIERS AU NICKEL
+[p. 421] MÉTHODES DE COMPENSATION PAR LES ACIERS AU NICKEL
 421
 
 l’air ; en effet, les vis réglantes, dont sont munis les balanciers
@@ -25100,9 +23812,7 @@ d’une collaboration industrielle. La libéralité avec laquelle mes
 travaux ont été soutenus par un puissant organisme métallurgique
 m’offre une heureuse occasion de le proclamer.
 
-[p. 422]
-
-CHAPITRE XVII
+[p. 422] CHAPITRE XVII
 
 I. — Spiral élinvar et Balancier de chronomètre
 à affixe compensateur
@@ -25140,9 +23850,7 @@ pendule à tige d’invar, muni d’un dispositif de correction d’idéale
 
 (’) Extraits du Journal suisse d'Horlogerie : 40e année.
 
-[p. 423]
-
-simplicité, est venu se substituer au mécanisme délicat du pendule
+[p. 423] simplicité, est venu se substituer au mécanisme délicat du pendule
 
 à gril, constitué par des tiges alternées de métaux inégalement
 dilatables.
@@ -25192,11 +23900,7 @@ touches qui amènent progressivement la montre aussi près de la
 perfection que le veulent la patience et l’habileté du régleur.
 »
 Le mode d’emploi envisagé alors par M. Guillaume devra con
-sister dans l’association à une coulée donnée d’élinvar, d’une coulée
-
-[p. 424]
-
-d’un métal ou d’un alliage qui lui soit spécialementadapté, en ce
+sister dans l’association à une coulée donnée d’élinvar, d’une coulée [p. 424] d’un métal ou d’un alliage qui lui soit spécialementadapté, en ce
 
 sens que la combinaison d’un spiral quelconque issu de la première
 
@@ -25247,11 +23951,7 @@ Légalité constante de cette action. En outre, on doit, dans l’établis
 sement des courbes terminales du spiral, tenir compte de l’action
 
 de la force centrifuge sur la forme des lames, qui, dans l’associa
-tion d’un spiral d’acier avec un balancier compensateur ordinaire,
-
-[p. 425]
-
-atteint douze secondes par jour comme différence entre les glandes
+tion d’un spiral d’acier avec un balancier compensateur ordinaire, [p. 425] atteint douze secondes par jour comme différence entre les glandes
 
 et les petites oscillations; cette action est réduite au cinquième
 environ par le balancier Guillaume.
@@ -25293,9 +23993,7 @@ d’entre elles peuvent présenter, dans la partie cachée, une forme
 
 [^p425-1]: Comparativementau système du balancier compensateurjoint au spiral d’acier généralementemployé jusqu’ici en chronométrie, la combinaison du nouveau balancier et du spiral d'élinvar offre l'avantage de solutions com portant des alliages pratiquement insensibles aux effets permanents de l’aimantation. Une autre particularité du nouveau couple régulateur réside dans sa très faible oxydabilité, présentant ainsi un danger bien moindre d’altération des marches par l’humidité.
 
-[p. 426]
-
-dissymétrique, permettant d’utiliser leur rotation pour les der
+[p. 426] dissymétrique, permettant d’utiliser leur rotation pour les der
 nières retouches.
 
 Ces dispositions ont été adoptées en vue de réduire autant que
@@ -25351,9 +24049,7 @@ conservation des marches pendant une longue période, mais accroît
 de poche a été indiquée par M. Ditishem, mais le principe de la construction
 reste le même.
 
-[p. 427]
-
-l’importance d’une régularité parfaite à l’intérieur d’une période
+[p. 427] l’importance d’une régularité parfaite à l’intérieur d’une période
 diurne. En d’autres termes, la question de l’isochronisme émerge
 maintenant au premierplan des préoccupationsdes chronométriers.
 
@@ -25398,11 +24094,7 @@ formations permanentes ou passagères, etc.). Le balancier à affixe
 n’étant ainsi qu’une transformation du balancier en usage jusqu’à
 
 ce jour, n’apportera aucun changement dans les habitudes
-des
-
-[p. 428]
-
-régleurs. Toutes les retouches qui leur sont familières, et qu’une
+des [p. 428] régleurs. Toutes les retouches qui leur sont familières, et qu’une
 longue pratique leur avait enseignées, trouveront leur applica
 tion dans le travail du nouveau balancier, avec cette différence
 
@@ -25463,9 +24155,7 @@ coefficients de dilatation des métaux qui les composent.
 
 [^p428-1]: Yvon Villarceau, Recherches sur le Mouvement et la Compensation des Chronomètres. Annales de l’Observatoire de Paris, t. VII.
 
-[p. 429]
-
-Les formules (I) sont fondamentales pour la théorie du balancier
+[p. 429] Les formules (I) sont fondamentales pour la théorie du balancier
 
 à lames bimétalliques ; elles permettent d’expliquer toutes les
 actions connues dues aux retouches. Nous ne reviendrons sur leur
@@ -25533,11 +24223,7 @@ cas
 seulement où
 la diminution
 du moment
-d’inertie qui en résulte, pourra être compensée par le spiral, de
-
-[p. 430]
-
-manière à conserver la marche diurne ; mais ici encore, l’effet
+d’inertie qui en résulte, pourra être compensée par le spiral, de [p. 430] manière à conserver la marche diurne ; mais ici encore, l’effet
 produit sera extrêmement faible si les bilames sont dépourvues
 
 de vis.
@@ -25605,9 +24291,7 @@ gueur déterminée par un angle au centre de 60°. L’expérience
 
 montre qu’on pourra toujours se contenterde bilames sensiblement
 
-[p. 431]
-
-Les nombres de ce tableau, reportés dans le diagramme (fig. 149)
+[p. 431] Les nombres de ce tableau, reportés dans le diagramme (fig. 149)
 
 montrent l’accroissementrapide de la puissance réglante des bi-
 lames lorsque leur longueur augmente.
@@ -25647,11 +24331,7 @@ Erreur secondaire. — On sait que l’un des principaux avan
 tages des spiraux d’élinvar est de donner une erreur secondaire
 pratiquementnulle sans organe compensateur, avec la même faci
 lité que le réglage aux températures extrêmes. Cependant, pour
-atteindre le plus haut degré de la perfection, ce dernier devrait
-
-[p. 432]
-
-être susceptible de retouches, rendues possibles grâce aux bilames
+atteindre le plus haut degré de la perfection, ce dernier devrait [p. 432] être susceptible de retouches, rendues possibles grâce aux bilames
 de l’affixe. On peut donc envisager le cas où l’on aurait à corriger
 
 une petite erreur
@@ -25711,9 +24391,7 @@ elles, seront amenées à égalité par les bilames I. Chaque balancier
 pourrait ainsi subir des retouches de l’erreur secondaire, dans les
 limites qui atteindraient facilement une seconde.
 
-[p. 433]
-
-Grâce aux spiraux d’élinvar, nous croyons que ce dispositif, un
+[p. 433] Grâce aux spiraux d’élinvar, nous croyons que ce dispositif, un
 peu compliqué, n’aura pas besoin d’être utilisé. Nous voulions
 cependant le mentionner ici, car il est intéressant de voir que le
 
@@ -25741,11 +24419,7 @@ intérêt
 de
 premier ordre. On sait, en effet, que le balancier compensateur
 
-[^p433-1]: Journal suisse d'Horlogerie. Années 46 et 47. Jules ANDRADE — Horlogerie et Chronométrie. 28
-
-[p. 434]
-
-ordinaire est alors remplacé par un simple volant fait en un métal
+[^p433-1]: Journal suisse d'Horlogerie. Années 46 et 47. Jules ANDRADE — Horlogerie et Chronométrie. 28 [p. 434] ordinaire est alors remplacé par un simple volant fait en un métal
 dont le coefficient de dilatation a été convenablement choisi.
 
 Cette transformation fondamentales des méthodes du réglage
@@ -25798,9 +24472,7 @@ spiraux n’est en réalité pas tout à fait aussi simple qu’il ne se pré
 
 sente dans le cas des montres ordinaires. Les chronomètres de
 
-[p. 435]
-
-SPIRAL ÉLINVAR ET BALANCIER DE CHRONOMÈTRE
+[p. 435] SPIRAL ÉLINVAR ET BALANCIER DE CHRONOMÈTRE
 435
 
 précision sont, en effet, arrivés à un degré de perfection tel qu’ils
@@ -25852,9 +24524,7 @@ vis de réglage (voir Journal suisse d’Horlogerie et de Bijouterie,
 XLVIe année, p. 350), offrent le maximum de garanties d’un fonc
 tionnement irréprochable.
 
-[p. 436]
-
-Balanciers dérivant du compensateur actuel. — Parmi les ba
+[p. 436] Balanciers dérivant du compensateur actuel. — Parmi les ba
 lanciers dont la puissance réglante peut être modifiée au gré de
 l’artiste, ceux qui ont recours à l’usage de lames bimétalliques se
 présentent tout d’abord à l’esprit. Ils sont, par rapport au balancier
@@ -25914,9 +24584,7 @@ Ah = 21,
 
 ?
 
-[p. 437]
-
-SPIRAL ÉLINVAR ET BALANCIER DE CHRONOMÈTRE
+[p. 437] SPIRAL ÉLINVAR ET BALANCIER DE CHRONOMÈTRE
 437
 
 au lieu des formules exactes qui sont manifestement :
@@ -25970,11 +24638,7 @@ songer à l’application de principes dont la mise en œuvre eût con
 duit avec les anciens spiraux à des résultats très insuffisants.
 
 Dans cette catégorie, nous allons décrire deux types de balan
-ciers, dits différentiels parce qu’ils sont constitués l’un et l'autre
-
-[p. 438]
-
-par un anneau monométallique relié à l’axe par un bras dont la
+ciers, dits différentiels parce qu’ils sont constitués l’un et l'autre [p. 438] par un anneau monométallique relié à l’axe par un bras dont la
 dilatabilité est différente de celle de la
 serge. Dans l’un de ces
 types (fig. 150), cette serge est coupée en deux points diamétrale
@@ -26003,11 +24667,7 @@ d=a— y leur coefficient relatif ;
 de la coupure ; M, m et B, la masse totale, la masse par unité
 d’angle et le rayon moyen de la serge. La figure schématique ci-
 
-contre (fig. 151) montre en ABC et A'B'C' deux positions de la
-
-[p. 439]
-
-lame à deux températures différentes, par exemple 0° et
+contre (fig. 151) montre en ABC et A'B'C' deux positions de la [p. 439] lame à deux températures différentes, par exemple 0° et
 1°. Le
 
 centre de l’arc ABC est en 0. Lorsque la température s'élève, le
@@ -26076,9 +24736,7 @@ pour l’ensemble du balancier
 
 0,8 x 14.10-6 4- 0.2 X 2.10-6 = -H 11.6.10—6
 
-[p. 440]
-
-Ce résultat montre que le système est alors équivalent à un
+[p. 440] Ce résultat montre que le système est alors équivalent à un
 balancier monométallique dont le coefficient de dilatation serait
 + 5,8.10-6.
 D’autre part, en plaçant la coupure au plus près du bras (©=0),
@@ -26136,9 +24794,7 @@ les masses E, E‘, on modifiera la marche aux températures. Dans
 
 un balancier dont la serge serait en laiton et le bras en invar par
 
-[p. 441]
-
-SPIRAL ÉLINVAR ET BALANCIER DE CHRONOMÈTRE
+[p. 441] SPIRAL ÉLINVAR ET BALANCIER DE CHRONOMÈTRE
 441
 
 exemple, le maximum d’avance au chaud sera réalisé lorsque les
@@ -26168,11 +24824,7 @@ il est plus utile de connaître le déplacement radial u (fig. 154).
 Soit S
 
 o la position de la serge
-a zéro degré, température à
-
-[p. 442]
-
-laquelle nous supposerons qu’elle est circulaire. Lorsque la tem
+a zéro degré, température à [p. 442] laquelle nous supposerons qu’elle est circulaire. Lorsque la tem
 pérature est t, elle occuperait la position S', avec un rayon égal
 
 à R(1 + al),
@@ -26207,9 +24859,7 @@ samment approchée :
 
 il = R(Y — a) cos 20
 
-[p. 443]
-
-La valeur de 0 est alors
+[p. 443] La valeur de 0 est alors
 :
 
 P = R[1 -H (a — S COS 20)4]
@@ -26262,11 +24912,7 @@ d’inertie de la section par rapport à son axe neutre et E le module
 d’élasticité.
 Afin d’éviter toutes les aspérités, on peut également prévoir
 
-pour ce balancier, surtout dans les grandes dimensions, le noyage
-
-[p. 444]
-
-de vis de densités différentes dans la serge, et effectuer le réglage
+pour ce balancier, surtout dans les grandes dimensions, le noyage [p. 444] de vis de densités différentes dans la serge, et effectuer le réglage
 suivant le principe indiqué à propos du précédent modèle. Nous
 pensons qu’il est possible d’obtenir, dans ces conditions, une marge
 de compensation égale à une seconde par jour et par degré. Les
@@ -26317,11 +24963,7 @@ sens entre 15° et 30°. Le seul effet de cette organe sera par con
 séquent de donner une erreur secondaire notable au système régu
 lateur. Son avantage résidera dans le fait que celle-ci peut évi
 
-demment être réglée par les moyens habituels (coupure, déplace-
-
-[p. 445]
-
-SPIRAL ÉLINVAR ET BALANCIER DE CHRONOMÈTRE
+demment être réglée par les moyens habituels (coupure, déplace-[p. 445]SPIRAL ÉLINVAR ET BALANCIER DE CHRONOMÈTRE
 445
 
 ment de vis, etc.), de façon à compenser exactement celle du spiral.
@@ -26362,9 +25004,7 @@ qui intéressent la solution complète soit définitivement assurée,
 ils assurent, dans la phase actuelle de transition, un compromis
 satisfaisant pour les réglages de précision.
 
-[p. 446]
-
-CHAPITRE XVIII
+[p. 446] CHAPITRE XVIII
 
 QUELQUES
 CONSÉQUENCES DE LA
@@ -26407,11 +25047,7 @@ le sens de l’enroulement du piton vers la virole
 P = étendue angulaire du spiral en équilibre, o=P-u.
 
 P étant compté algébriquement.
-Envisageons un second spiral cylindriqueattelé au même balan-
-
-[p. 447]
-
-QUELQUES CONSÉQUENCES DE LA MÉTHODE RÉSAL-CASPARI
+Envisageons un second spiral cylindriqueattelé au même balan-[p. 447]QUELQUES CONSÉQUENCES DE LA MÉTHODE RÉSAL-CASPARI
 417
 
 cier, et désignons les éléments similaires de ce second spiral par
@@ -26475,11 +25111,7 @@ El
 E‘I‘
 R[P3] — R‘[P/3] ;
 P' — P — (4n H- 1)n
-(algébriquement)
-
-[p. 448]
-
-les notations [P3] et [P' 8] désignant comme d’usage les valeurs
+(algébriquement) [p. 448] les notations [P3] et [P' 8] désignant comme d’usage les valeurs
 absolues respectives de P 3 et P'3 mais la préparation de tels spiraux
 serait beaucoup plus compliquée en vue de leur association.
 
@@ -26502,9 +25134,7 @@ spiraux au balancier et aux pitons.
 
 Les figures 4 du bas montrent schématiquementdes variantes
 
-[p. 449]
-
-QUELQUES CONSÉQUENCES DE LA MÉTHODE RÉSAL-CASPARI
+[p. 449] QUELQUES CONSÉQUENCES DE LA MÉTHODE RÉSAL-CASPARI
 449
 
 d’exécutions dans lesquelles les positions relatives de chacun des
@@ -26558,11 +25188,7 @@ Ainsi 2 spiraux associés de 16 tours réalisent l'isochronisme
 sinusoïdal par la régularité d’un moment mécanique transmis au
 
 Jules ANDRADE — Horlogerie et Chronométrie.
-29
-
-[p. 450]
-
-balancier et proportionnel à l’écart u du bancier à son point mort-
+29 [p. 450] balancier et proportionnel à l’écart u du bancier à son point mort-
 Cette régularité est voisine de l’ordre du millionième.
 Un tel degré d’isochronisme de l’organe réglant d’un chrono
 mètre était plutôt nuisible qu’utile, tant que subsistait la nécessité
@@ -26595,11 +25221,7 @@ question, j’ai avec la collaboration du regretté Ernest Jaccard fait
 une étude préliminaire du mode d’association des deux spiraux
 
 Le Roy satisfaisant aux conditions déjà requises, car le lecteur a
-certainement remarqué que ces conditions subordonnées seule-
-
-[p. 451]
-
-ment à la production d’un moment mécanique régulier actionnant
+certainement remarqué que ces conditions subordonnées seule-[p. 451]ment à la production d’un moment mécanique régulier actionnant
 le balancier laissent arbitraires les situations relatives des deux
 
 associés, ou si l’on préfère les situations relatives de leurs viroles.
@@ -26666,9 +25288,7 @@ l’axe des x, tournant d’un quadran pour se coucher sur l’axe OY,
 
 étant le sens de l’enroulement du piton vers la virole.
 
-[p. 452]
-
-452
+[p. 452] 452
 HORLOGERIE ET CHRONOMÉTRIE
 
 En substituant les valeurs (3) nous obtenons :
@@ -26802,9 +25422,7 @@ en la changeant encore de sens on retrouvera la force complémen
 
 taire au couple d’encastrement, transmisepar le spiral au balancier.
 
-[p. 453]
-
-Outre la force transverse élastique qui presse la virole du balan
+[p. 453] Outre la force transverse élastique qui presse la virole du balan
 cier et qui est la principale cause de la pression génératrice du
 frottement sur les colliers des pivots, l’excentriçité variable du
 
@@ -26852,9 +25470,7 @@ du centre de gravité, en projection G sur le plan transverse de
 
 [^p453-1]: Magron, éditeur, Bienne et Besançon, 1922, pages 61, 62, 63; voir aussi C. R. de l’Académie des Sciences, t. CLXXII, p. 202.
 
-[p. 454]
-
-1
+[p. 454] 1
 la figure sont données, à l’approximation relative dep par ces
 
 formules 18 de la page 268
@@ -26892,9 +25508,7 @@ nous désignons par £ un nombre qui sera +
 1 ou —
 1 suivant
 
-[p. 455]
-
-QUELQUES CONSÉQUENCES DE LA MÉTHODE RÉSAL-CASPARI
+[p. 455] QUELQUES CONSÉQUENCES DE LA MÉTHODE RÉSAL-CASPARI
 455
 
 l’un
@@ -26971,9 +25585,7 @@ depuis son piton vers sa virole.
 
 u devra être changé en — u pour le second spiral.
 
-[p. 456]
-
-On aura, eu égard à ces remarques, pour les coordonnées rela
+[p. 456] On aura, eu égard à ces remarques, pour les coordonnées rela
 
 tives du centre de gravité de chaque spiral
 
@@ -27024,9 +25636,7 @@ vementcycloïdal de cette roue, considéronsle point de contact du
 
 cercle de la roue avec la base AS de la cycloïde, ce point de contact
 
-[p. 457]
-
-QUELQUES CONSÉQUENCES DE LA MÉTHODE RÉSAL CASPARI
+[p. 457] QUELQUES CONSÉQUENCES DE LA MÉTHODE RÉSAL CASPARI
 457
 
 G coïncide avec la position transverse du centre de gravité du
@@ -27059,11 +25669,7 @@ doublet dans le système d’axes du premier spiral nous avons :
 _a,+x.
 
 1 ~
-2
-
-[p. 458]
-
-c’est-à-dire, eu égard aux expressions de x,22
+2 [p. 458] c’est-à-dire, eu égard aux expressions de x,22
 
 0 _M1—32
 2
@@ -27099,9 +25705,7 @@ e dirigé suivant Or/.
 
 En d’autres termes dans le système d’axes rectangulaires Os et
 
-[p. 459]
-
-QUELQUES CONSÉQUENCESDE LA MÉTHODE RÉSAL-CASPARI
+[p. 459] QUELQUES CONSÉQUENCESDE LA MÉTHODE RÉSAL-CASPARI
 459
 
 Or,’ les coordonnées relatives
@@ -27144,11 +25748,7 @@ ost un peu plus grande que la distance P = (^n —
 
 dansle second cas. Mais les positions du centre de gravité pour l’un
 
-et l’autre doublet correspondant à une même position des pitons (en
-
-[p. 460]
-
-projection) et pour un même angle d’écart u du balancier sont
+et l’autre doublet correspondant à une même position des pitons (en [p. 460] projection) et pour un même angle d’écart u du balancier sont
 homothétiques inverses "par rapport au point O,
 pied de l’axe
 d’oscillation.
@@ -27193,9 +25793,7 @@ se ferme, ce sens sera par contre celui où le 2e spiral s’ouvre.
 
 La virole W, éprouve donc, de son piton (71 en projection), une
 
-[p. 461]
-
-QUELQUES CONSÉQUENCES DE LA MÉTHODE RÉSALCASPARI
+[p. 461] QUELQUES CONSÉQUENCES DE LA MÉTHODE RÉSALCASPARI
 461
 
 attraction Fi dont la composante transverse a pour partie princi
@@ -27266,11 +25864,7 @@ balancier, et dont la valeur globale est
 
 9EI/, _ 4\
 -L
-P 2 y U
-
-[p. 462]
-
-(voir page 449). Mais elle produit en outre une pression sur le
+P 2 y U [p. 462] (voir page 449). Mais elle produit en outre une pression sur le
 balancier, sensiblement parallèle au diamètre fixe des pitons, mais
 
 appliquée au point WiW2. A l’ordre relatifprès, de
@@ -27310,7 +25904,7 @@ tudinaux, il faut bien s’adresser à quelqu’opinion exprimée à leur
 égard. Dans aucun traité d’horlogerie je n’en ai trouvé, il a fallu
 
 le hasard d’une discussion relative à un brevet pour me mettre en
-présence d’une hypothèse précise formulée, a priori,
+présence d’une hypothèse précise formulée, *a priori*,
 à l’égard
 
 des actions longitudinales.
@@ -27318,7 +25912,7 @@ Lorsqu’un ressort spiral, cylindrique est attelé à un balancier
 
 et éprouve une certaine déformation élastique, le spiral rigidifié
 
-par la pensée sera a fortiori en équilibre, de là résulte que sur ce
+par la pensée sera *a fortiori* en équilibre, de là résulte que sur ce
 système rigide fictif il y
 a équilibre entre les couples d’encastre
 
@@ -27344,9 +25938,7 @@ d’action, c’est-à-dire sur la droite joignant piton et virole.
 
 Le lecteur ne manquera pas, ici, de remarquer que l’hypothèse
 
-[p. 463]
-
-QUELQUES CONSÉQUENCES DE LA MÉTHODE RÉSAL-CASPARI
+[p. 463] QUELQUES CONSÉQUENCES DE LA MÉTHODE RÉSAL-CASPARI
 463
 
 particularisée que j’appellerai tout simplement l'hypotbèse
@@ -27412,9 +26004,7 @@ h
 
 h étant la hauteur du spiral.
 
-[p. 464]
-
-Le plan du piton attire ou repousse alors la virole proportion
+[p. 464] Le plan du piton attire ou repousse alors la virole proportion
 
 nellement à u et à la hauteur du spiral.
 
@@ -27443,9 +26033,7 @@ nous ignorons encore sur l’effort longitudinal élastique du spiral
 
 non transverse.
 
-[p. 465]
-
-Revenons maintenant à l’analyse des frottements d’un balancier
+[p. 465] Revenons maintenant à l’analyse des frottements d’un balancier
 actionné par l’un ou l’autre des deux principaux doublets sinusoï
 daux.
 
@@ -27500,9 +26088,7 @@ suivante :
 Jules ANDRADE. — Horlogerie et Chronométrie.
 30
 
-[p. 466]
-
-Placez sur une perpendiculaire à la base cycloïdale et du côté
+[p. 466] Placez sur une perpendiculaire à la base cycloïdale et du côté
 opposé à celui de A par rapport au centre O
 une surcharge dont
 
@@ -27562,9 +26148,7 @@ pouvons dès lors partager les résistances passives en deux caté
 gories
 :
 
-[p. 467]
-
-QUELQUES CONSÉQUENCES DE LA MÉTHODE RÉSAL-CASPARI
+[p. 467] QUELQUES CONSÉQUENCES DE LA MÉTHODE RÉSAL-CASPARI
 467
 
 1° Je poids B du balancier allégé ou renforcé de la pression lon
@@ -27621,11 +26205,7 @@ système de ressorts associés.
 Pressions génératrices
 des frottements dans les doublets
 sinusoïdaux à viroles coïncidentes. — Le commencement du
-calcul est de tout point semblable, en ce qui concerne, après un
-
-[p. 468]
-
-équilibre préalable du spiral double au point mort l’évaluation des
+calcul est de tout point semblable, en ce qui concerne, après un [p. 468] équilibre préalable du spiral double au point mort l’évaluation des
 
 pressions transverses élastiques et du couple d’appui de la pesan
 teur du doublet pour un angle d’écart u du balancier.
@@ -27696,9 +26276,7 @@ longitudinale,et cela indépendammentde la validité de l’hypothèse
 
 des techniciens.
 
-[p. 469]
-
-3° L’emploi de deux doublets sinusoïdaux identiques, mais dont
+[p. 469] 3° L’emploi de deux doublets sinusoïdaux identiques, mais dont
 l’un a tourné de 180° par rapport à l’autre et dont chacun est équi
 libré au point mort, fait disparaître tous les appuis transverses et
 
@@ -27765,11 +26343,7 @@ ii
 Lo2+y.
 Vo—P.
 
-ainsi les vibrations non entretenues de la forme II sont rigoureu-
-
-[p. 470]
-
-sement isochrones, tant que l’extinction du mouvement ne s’est
+ainsi les vibrations non entretenues de la forme II sont rigoureu-[p. 470]sement isochrones, tant que l’extinction du mouvement ne s’est
 
 pas encore produite; il est très facile de démontrer que, dans la
 
@@ -27839,9 +26413,7 @@ sur la trajectoire circulaire, ce produit étant changé de signe; la
 
 vitesse du mouvement circulaire autour de 1 est G, = Vo2 4- u et
 
-[p. 471]
-
-QUELQUES CONSÉQUENCES DE LA MÉTHODE RÉSAL-CASPARI
+[p. 471] QUELQUES CONSÉQUENCES DE LA MÉTHODE RÉSAL-CASPARI
 471
 
 la vitesse du mouvement circulaire autour de J est
@@ -27872,11 +26444,7 @@ et non pas (2n — 2)1 ce couple
 concourt à l’appui élastique de l’axe sur le collier. A l’approxima
 tion indiquée en réalité, avec un simple doublet à viroles opposées
 
-nous aurions deux frottements l’un sur la tête du pivot, due à une
-
-[p. 472]
-
-pression de sens connu, et de la forme (B — mu), (u pris algébri
+nous aurions deux frottements l’un sur la tête du pivot, due à une [p. 472] pression de sens connu, et de la forme (B — mu), (u pris algébri
 quement') et un couple d’appui sur le collier qui séparémentengen
 drait un frottement de roulement de la forme — n(u); ce qui
 
@@ -27928,9 +26496,7 @@ H
 H
 R=R*
 
-[p. 473]
-
-Cette relation est d’ailleurs étrangère à notre objet actuel.
+[p. 473] Cette relation est d’ailleurs étrangère à notre objet actuel.
 
 Car nous ne tenons pas à la conservation des actions longitu
 dinales, ni même rigoureusement à la conservation du poids du
@@ -27990,11 +26556,7 @@ l’oscillation simple en cours ; d’où la règle suivante :
 Par l’emploi d’un échappement à coup perdu un choc instantané
 
 ne trouble pas
-la durée de l’oscillation en cours si ce choc se
-
-[p. 474]
-
-produit au passage du mobile P par le point mort décalé, c’est-
+la durée de l’oscillation en cours si ce choc se [p. 474] produit au passage du mobile P par le point mort décalé, c’est-
 à-dire par le centre du mouvement circulaire schématique corres
 pondant.
 Ainsi donc, dans un chronomètre, il y aurait avantage à ne mettre
@@ -28042,11 +26604,7 @@ m2u + F
 di < 0
 
 mais à cause de n = sgn
-. u, et lorsque F n’est pas nul la propriété
-
-[p. 475]
-
-de l’isochronisme de telles vibrations non entretenues est perdue,
+. u, et lorsque F n’est pas nul la propriété [p. 475] de l’isochronisme de telles vibrations non entretenues est perdue,
 
 car le terme — nÀu oblige à adopter deux décalagesdupoint mort
 
@@ -28102,11 +26660,7 @@ di2
 —
 Mm — p2
 R2
-0,
-
-[p. 476]
-
-le second terme du second membre devant être de signe opposé
+0, [p. 476] le second terme du second membre devant être de signe opposé
 
 au signe de la vitesse angulaire d,
 ou
@@ -28178,9 +26732,7 @@ tude variable, mais ce cas ne paraît réalisable qu’avec l’emploi
 d’un flotteur ; nous verrons en effet qu’une résistancede viscosité ne
 modifie pas cette propriété.
 
-[p. 477]
-
-QUELQUES CONSÉQUENCESDE LA MÉTHODE RÉSAL-CASPARI
+[p. 477] QUELQUES CONSÉQUENCESDE LA MÉTHODE RÉSAL-CASPARI
 477
 
 Le cas du doublet sinusoïdal à viroles coïncidentes introduit
@@ -28250,9 +26802,7 @@ puis
 oJ,=5=1
 oj,=5=
 
-[p. 478]
-
-Les deux graphiques schématiques (fig. 166) interprétèrent des
+[p. 478] Les deux graphiques schématiques (fig. 166) interprétèrent des
 
 mouvementspendulaires,projections de mouvementscirculaires de
 
@@ -28292,9 +26842,7 @@ l’évaluation des frottements.
 Les prochaines descriptions compléteront la discussion com
 mencée.
 
-[p. 479]
-
-CHAPITRE XIX
+[p. 479] CHAPITRE XIX
 
 NOUVELLES RECHERCHES SUR LES SPIRAUX
 ASSOCIÉS
@@ -28323,11 +26871,7 @@ effets de compression de la fibre moyennne du spiral soient négli
 geables.
 Et nous avons établi ces formules de la déformation statique du
 spiral dues à l’angle d’écart u du balancier.
-L’axe x étant tourné du pied de l’axe du balancier vers le piton
-
-[p. 480]
-
-la longueur $ d’un arc de fibre moyenne du spiral et les coordon
+L’axe x étant tourné du pied de l’axe du balancier vers le piton [p. 480] la longueur $ d’un arc de fibre moyenne du spiral et les coordon
 nées x et y de l’extrémité de cet arc compté à partir de son encastre
 ment au piton sont données en un point de la courbe où la normale
 fait un angle 6) avec sa direction initiale au piton par les formules :
@@ -28440,9 +26984,7 @@ V1 — a cos z + b sin z
 
 a et b ne dépendent donc que de G et de P.
 
-[p. 481]
-
-D’autre part, la première équation de
+[p. 481] D’autre part, la première équation de
 Résal montre que pour
 deux spiraux ayant des déformations semblables on aura :
 LV=LVe
@@ -28498,11 +27040,7 @@ faite des perturbations des frottements, une vibration possédant
 l’isochronisme sinusoïdal ; nous avons vu quels frottements com-
 
 Jules ANDRADB. — Horlogerie et Chronométrie.
-31
-
-[p. 482]
-
-plètent rigoureusement ou d’une manière approchée la sécurité de
+31 [p. 482] plètent rigoureusement ou d’une manière approchée la sécurité de
 
 cet isochronisme sinusoïdal, et comment on peut réaliser de di
 
@@ -28585,9 +27123,7 @@ s’ouvrent ensemble et se ferment ensemble.
 
 Un quadruple est caractérisé par le sens commun dans lequel
 
-[p. 483]
-
-NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
+[p. 483] NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
 483
 
 chaque spiral du quadruple tourne quand on le parcourt d’un
@@ -28608,11 +27144,7 @@ couple pur et régulier, nous appellerons
 ce
 système un
 octuple isochrone.
-Enfin si on remarque que le centre de gravité du système des
-
-[p. 484]
-
-spiraux d’un quadruple centré est sur l’axe, on voit que le centre
+Enfin si on remarque que le centre de gravité du système des [p. 484] spiraux d’un quadruple centré est sur l’axe, on voit que le centre
 
 de gravité des spiraux d’un octuple est sur l’axe d’oscillation.
 
@@ -28674,9 +27206,7 @@ balancier attelé à
 8
 spiraux devra réaliser, pour le balancier
 
-[p. 485]
-
-NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
+[p. 485] NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
 485
 
 à
@@ -28763,9 +27293,7 @@ Chapitre II, page 48 et suivantes, où le mouvement pendulaire amorti a
 été étudié comme la projection oblique d’un mouvement spiral uniforme sur
 une droite.
 
-[p. 486]
-
-II. La durée d’une oscillation simple a pour valeur
+[p. 486] II. La durée d’une oscillation simple a pour valeur
 
 (2)
 T
@@ -28833,9 +27361,7 @@ par l’emploi des balances spirales.
 se rencontrent ensemble un frottement constant a) et un frottement
 latérale), que le premier provienne d’un frottement constant sur
 
-[p. 487]
-
-NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
+[p. 487] NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
 437
 
 la tête du pivot de l’axe d’oscillation ou d’un frottement constant
@@ -28889,11 +27415,7 @@ J ’
 Q désignant P 4- «. Voir la figure 168.
 F est ici compté positif comme attraction de la projection de la
 virole W du balancier par la projection Q du piton d’attache du spi
-ral cylindrique ; sur le plan transverse de la virole; et se rappeler
-
-[p. 488]
-
-que le sens positif des rotations angulaires étant choisi, il faut
+ral cylindrique ; sur le plan transverse de la virole; et se rappeler [p. 488] que le sens positif des rotations angulaires étant choisi, il faut
 changer « en — u dans les expressions des
 F, parenthèse fac
 teur comprise, quand le sens ouvre le spiral de u; dans les spi
@@ -28932,9 +27454,7 @@ U
 E COS U
 P
 
-[p. 489]
-
-NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
+[p. 489] NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
 489
 
 dans les premiers dessins subséquents e sera + 1, car nous pren
@@ -28978,9 +27498,7 @@ A. Composition des forces élastiques complémentaires dans
 
 un doublet sinusoïdal à viroles diamétralement opposées. —
 
-[p. 490]
-
-Pour représenter rapidement sur un dessin
+[p. 490] Pour représenter rapidement sur un dessin
 schématique, l’ajustage d’un spiral, et adoptant
 l'heure faite, subordonnée au choix du sens
 
@@ -29089,9 +27607,7 @@ R2‘
 U 4EI
 P 3 R 2 cos u.
 
-[p. 491]
-
-NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
+[p. 491] NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
 491
 
 3° Force transverse centrifuge dirigée du pied O de l’axe vers la
@@ -29129,13 +27645,9 @@ RR
 
 qui entraînent inclinaison égale i des spires à l’état naturel.
 
-[p. 492]
+[p. 492] E/évat/'on
 
-E/évat/'on
-
-[p. 493]
-
-NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
+[p. 493] NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
 493
 
 1° Destruction de 4 pressions longitudinales sur diamètre des
@@ -29212,9 +27724,7 @@ Les deux couples font l’angle 3 — w et le couple d’appui résul-
 
 tant est sensiblementproportionnel à une fonction impaire de u.
 
-[p. 494]
-
-Au premier ordre près, des efforts élastiques, ce doublet possède
+[p. 494] Au premier ordre près, des efforts élastiques, ce doublet possède
 sur un axe à flotteur soumis à la seule viscosité un mouvement
 
 V2
@@ -29270,9 +27780,7 @@ pressions longitudinales forment un couple longitudinal passant
 
 .par le diamètre commun des viroles du dit doublet.
 
-[p. 495]
-
-D’autre part, on observe que les ressorts d’un doublet symé
+[p. 495] D’autre part, on observe que les ressorts d’un doublet symé
 trique travaillent dans le même sens; on aura donc soin en plaçant
 
 le second doublet au-dessus du premier, de réunir l’égal Sa de Si
@@ -29332,11 +27840,7 @@ gligeable dans un mouvement entretenu, sur axe à flotteur.
 Nous reviendrons un peu plus loin sur ce quadruple et nous
 compléterons ce résultat par un théorème intéressant.
 
-Équilibrage continu du poids des ressorts dans les quadruples
-
-[p. 496]
-
-précédents. — Ce dernier quadruple D peut être envisagé dans
+Équilibrage continu du poids des ressorts dans les quadruples [p. 496] précédents. — Ce dernier quadruple D peut être envisagé dans
 l’ordre
 
 y S2
@@ -29409,9 +27913,7 @@ cos U TT 2p. (I — sm u)
 R, .Ru
 (Mi — P. (1 -4- sin u) H- 2P cos u
 
-[p. 497]
-
-NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
+[p. 497] NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
 497
 
 et les coordonnées C2 et Y2 du centre de gravité du second spiral
@@ -29482,9 +27984,7 @@ nouvelle direction,
 Jules Andbade. — Horlogerie et Chronométrie.
 32
 
-[p. 498]
-
-R
+[p. 498] R
 Oc=p; du point a tirons une droite aS parallèle et de même
 
 sens au rayon de virole commune; puis faisons rouler sur cette
@@ -29561,14 +28061,10 @@ blet se partage en pression centripète dirigée suivant le rayon WO
 
 aboutissant à la projection 0 de W sur l’axe d’oscillation, et en
 
-[p. 499]
-
-Fig
+[p. 499] Fig
 176.
 
-[p. 500]
-
-une seconde pression, parallèle menée de W au diamètre joignant
+[p. 500] une seconde pression, parallèle menée de W au diamètre joignant
 
 les projections Qi et
 Q2 des pitons sur le plan transverse de la
@@ -29673,9 +28169,7 @@ PzR2
 R
 ‘
 
-[p. 501]
-
-forment un couple longitudinal dans le plan diamétral du vecteur
+[p. 501] forment un couple longitudinal dans le plan diamétral du vecteur
 
 .
 -----
@@ -29759,13 +28253,9 @@ R2
 
 R
 
-[p. 502]
+[p. 502] E/évat/on
 
-E/évat/on
-
-[p. 503]
-
-NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
+[p. 503] NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
 503
 
 grâce à cette représentation partielle nous achèverons l’analyse
@@ -29857,9 +28347,7 @@ pendulaire, à l’ordre relatif de ps. Reste à apprécier le frottement
 
 produit par le coupe longitudinal précédent.
 
-[p. 504]
-
-Ce quadruple produit le moment pendulaire, à l’ordre du mil
+[p. 504] Ce quadruple produit le moment pendulaire, à l’ordre du mil
 lionième réalisable nous l’avons vu, et dont la valeur est :
 4EI/
 4\
@@ -29935,9 +28423,7 @@ produit un frottement dont le moment est B x sin
 6
 . K X o/-
 
-[p. 505]
-
-NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
+[p. 505] NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
 505
 
 Enfin il y a le moment du frottement sur la tête du pivot égale
@@ -30039,11 +28525,7 @@ en l’adoptant nous ramenons l’équation étudiée à la forme :
 
 d‘z
 ,
-2
-
-[p. 506]
-
-c’est à celle ci que nous appliquons la méthode de la variation des
+2 [p. 506] c’est à celle ci que nous appliquons la méthode de la variation des
 
 constantes.
 Si on néglige c l’intégrale du mouvement serait :
@@ -30113,9 +28595,7 @@ flotteurs admissibles soit pour des machines horaires nouvelles, soit
 
 pour des balances spirales, mais les prévisions que nous venons
 
-[p. 507]
-
-NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
+[p. 507] NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
 507
 
 d’indiquer permettent de prévoirque nous restons dans l’ordre des
@@ -30169,9 +28649,7 @@ négatif. Si l’on donnait demi-tour autour de l’axe d’oscillation au
 doublet T12, les deux doublets à l’état naturel se déduiraient l’un
 de l’autre par translation parallèle à l’axe d’oscillation.
 
-[p. 508]
-
-Pour rendre l’épure plus claire nous admettrons l’hypothèse des
+[p. 508] Pour rendre l’épure plus claire nous admettrons l’hypothèse des
 techniciens, particularisée, c’est-à-dire que
 nous n’avons pas
 dessiné les forces élastiques longitudinales qu’il faudrait ajouter
@@ -30193,9 +28671,7 @@ Revenons dès lors à l’étude des pressions élastiquesgénératrices
 
 des frottements dans le quadruple précédent. Un mot d’explication
 
-[p. 509]
-
-NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
+[p. 509] NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS
 509
 
 tout d'abord sur l’emploi des flèches pleines et ponctuées sur
@@ -30260,11 +28736,7 @@ simplement guidé inférieurement par un collier latéral, semble au
 premier abord ne pas comporter de frottement constant, comme
 celui qui est provoqué par la pression génératrice d’un pivot s’ap
 puyant sur son contre pivot.
-L’opinion accréditée, renferme toute la résistance passive d’un
-
-[p. 510]
-
-fluide, baignant un solide immergé de révolution, durant son oscil
+L’opinion accréditée, renferme toute la résistance passive d’un [p. 510] fluide, baignant un solide immergé de révolution, durant son oscil
 lation autour d’un axe vertical, dans la seule viscosité se traduisent
 
 par une résistance proportionnelle à la vitesse de rotation du
@@ -30336,9 +28808,7 @@ laire
 P = (2 4-
 2)m.
 
-[p. 511]
-
-L’épure montre immédiatement la disparition des composantes
+[p. 511] L’épure montre immédiatement la disparition des composantes
 longitudinales de la pression élastique complémentaire sur chacune
 des deux doubles viroles ; les forces transverses fournissent : sur
 la double virole WaW.
@@ -30418,11 +28888,7 @@ doublets travaillent en sens inverses, telle que
 P=P= (2j±3).
 \
 4/
-La première de ces combinaisons a été étudiée plus haut, mais
-
-[p. 512]
-
-elle peut aussi être exposée, avec des épures du même genre que
+La première de ces combinaisons a été étudiée plus haut, mais [p. 512] elle peut aussi être exposée, avec des épures du même genre que
 celles qui précèdent et qui sont d’un emploi assez commode.
 
 De bien des manières on réalisera ainsi, soit des quadruples à
@@ -30434,9 +28900,7 @@ balancesspirales de haute précision, précieuses pour des recherches
 physiques sur les frottements des fluides, et pour de multiples
 investigations chronométriques.
 
-[p. 513]
-
-CHAPITRE XX
+[p. 513] CHAPITRE XX
 
 I. — MÉTHODES D’OBSERVATION PHOTOGRAPHIQUE
 IL — LE PENDULE LIBRE ET LA MESURE DU TEMPS
@@ -30476,9 +28940,7 @@ dans lequel ces derniers restent entièrement libres.
 Jules ANDRADR. — Horlogerie et Chronométrie.
 33
 
-[p. 514]
-
-Le mode de réalisation dépend évidemment des conditions par
+[p. 514] Le mode de réalisation dépend évidemment des conditions par
 ticulières que l’on s’impose. Dans les laboratoires et pour les
 observations de la pesanteur, on s’attache à avoir la plus grande
 précision possible, compatibles cependantavec un dispositif simple
@@ -30530,9 +28992,7 @@ dant cet intervalle de temps). Il est nécessaire pour cela de dispo
 
 ser d’une source de grand éclat.
 
-[p. 515]
-
-J’ai d’abord utilisé une lampe Nernst dont je plaçais le filament
+[p. 515] J’ai d’abord utilisé une lampe Nernst dont je plaçais le filament
 aussi près que possible de l’éclateur. Mais dans ce cas, l’emploi
 d’un obturateur s’imposait. Je l’ai réalisé par un volet commandé
 
@@ -30582,11 +29042,7 @@ argenté, ou un petit tube de verre mince contenant du mercure,
 
 ou plus simplement une aiguille d’acier. Il n’est pas nécessaire
 
-que le diamètre soit d’une extrême finesse; je le prends de l’ordre
-
-[p. 516]
-
-du demi-millimètre. Cet index fonctionne en effet comme un petit
+que le diamètre soit d’une extrême finesse; je le prends de l’ordre [p. 516] du demi-millimètre. Cet index fonctionne en effet comme un petit
 miroir cylindrique donnant de la source située à
 1 mètre de dis-
 
@@ -30634,9 +29090,7 @@ par un déplacement à vis de tout l’appareil, parallèlement à lui-
 
 même (fig. 181).
 
-[p. 517]
-
-L’objectif employé,
+[p. 517] L’objectif employé,
 a 20 cm. de distance focale et il est forte-
 
 tement diaphragmé().
@@ -30689,11 +29143,7 @@ rapport des durées d’oscillation. Nous avons déjà dit, qu’étant
 
 maître de
 la durée de l’expérience, c’est-à-dire du nombre N
-d’oscillationdes pendules dans l’intervalle des deux photographies,
-
-[p. 518]
-
-on pouvait se donner ce nombre a priori, en ne tenant compte que
+d’oscillationdes pendules dans l’intervalle des deux photographies, [p. 518] on pouvait se donner ce nombre *a priori*, en ne tenant compte que
 de la précision à obtenir, et en profiter pour rendre entièrement
 automatiquel’application de la méthode. Il suffit pour cela de com
 mander la mise en mouvement du tambour dont nous parlons plus
@@ -30745,11 +29195,7 @@ ait fait éclater une étincelle, et qu’on ait
 loppé à l’aspect qui est reproduit plus loin (fig. 183 bis).
 
 La Thèse de M. Le Rolland (Masson et Cie
-, éditeurs), contient
-
-[p. 519]
-
-quatre intéressantes photographies, non reproduites ici.
+, éditeurs), contient [p. 519] quatre intéressantes photographies, non reproduites ici.
 On y
 observe une image très fine de l’index, produite à la lueur de
 l’étincelle et une bande grise devenant de plus en plus sombre vers
@@ -30811,9 +29257,7 @@ On projette l’image très réduite (au 1) d’une règle divisée AB
 (en
 1 /2 millimètres par exemple) sur le plan vertical de la plaque
 
-[p. 520]
-
-A’B’, à l’aide d’un objectif O (fig. 184); de préférence, celui qui a
+[p. 520] A’B’, à l’aide d’un objectif O (fig. 184); de préférence, celui qui a
 servi à l’obtention du cliché. A l’aide d’un microscope à grossisse
 
 ment moyen ou d’une forte loupe que l’on peut déplacer tout le
@@ -30878,9 +29322,7 @@ partie éliminée par l’emploi de ce même objectif pour l’obtention
 
 de l’image de la règle.
 
-[p. 521]
-
-5° Enfin ce procédé de mesure permet d’éliminer simplement
+[p. 521] 5° Enfin ce procédé de mesure permet d’éliminer simplement
 l’erreur due à ce que le plan d’oscillation du pendule peut n'être
 
 pas parallèle rigoureusementau plan de la plaque photographique.
@@ -30951,11 +29393,7 @@ son milieu O, c’est-à dire telle qu’en un point P de cette règle, on
 lise la valeur de arc sin OP (A étant l’une des extrémités de la
 OA )
 règle), ou, mieux encore, cette valeur de la phase réduite en
-temps, et exprimée par exemple en centièmes de seconde. Pro-
-
-[p. 522]
-
-jetons cette règle placée en e dans le dispositif précédent, sur la
+temps, et exprimée par exemple en centièmes de seconde. Pro-[p. 522]jetons cette règle placée en e dans le dispositif précédent, sur la
 plaque photographique et de telle sorte que ses extrémités corres
 pondent exactement aux élongations extrêmes de l’image de l'index
 
@@ -31010,11 +29448,7 @@ tographier le pendule aussi près que possible de sa position d’équi
 libre, et il sera désavantageux de se servir d’une image intermé
 diaire trop voisine d’une image extrême. En fait, cependant, on
 pourra utiliser des images de l'index assez éloignées de la position
-d’équilibre. Par exemple l’erreur absolue n’est que doublée si au
-
-[p. 523]
-
-lieu de fixer la phase au voisinage de la position d’équilibre, on
+d’équilibre. Par exemple l’erreur absolue n’est que doublée si au [p. 523] lieu de fixer la phase au voisinage de la position d’équilibre, on
 86
 utilise pour la déterminer une élongation égale aux 100 de l’ampli
 
@@ -31080,9 +29514,7 @@ Par suite, l’erreur relative sur le rapport des durées est : *Nu
 Elle est inversement proportionnelle au nombre d’oscillation N
 comprises entre les deux photographies instantanées.
 
-[p. 524]
-
-Appliquons ces considérations au cas où le pointé se fait au
+[p. 524] Appliquons ces considérations au cas où le pointé se fait au
 
 1
 200 mm. Cherchonsla durée de l’expérience nécessairepour obtenir
@@ -31151,9 +29583,7 @@ ainsi plusieurs images de l’index : On peut en déduire le sens de
 
 déplacement du pendule au moment des étincelles.
 
-[p. 525]
-
-A une position quelconque du pendule, définie par l’image de
+[p. 525] A une position quelconque du pendule, définie par l’image de
 l’index, correspondent deux phases distinctes selon le sens de
 déplacement du pendule. Il
 est donc essentiel de connaître ce
@@ -31206,11 +29636,7 @@ les images extrêmes sont au contraire des bandes grises nettement
 limitées vers l’extérieur. Alors que l’on pointe le milieu du trait
 intermédiaire, ce sont les bords de l’amplitude que l’on repère en
 sorte que la valeur mesurée pour l’amplitude est toujours un peu
-trop grande (d’une quantité qui est égale à la moitié de l’épaisseur
-
-[p. 526]
-
-du trait). Comme cette erreur intervient dans les calculs pour les
+trop grande (d’une quantité qui est égale à la moitié de l’épaisseur [p. 526] du trait). Comme cette erreur intervient dans les calculs pour les
 deux pendules et qu’elle est fort petite, nous la négligerons.
 
 3° Ce que l’on photographie ce n’est pas l’index lui-même, mais
@@ -31278,9 +29704,7 @@ dentes permettent de l’obtenir ; on y remplace a par sa valeur non
 corrigée ;
 5° il nous reste à examiner la seule cause d’erreur qui peut
 
-[p. 527]
-
-Fig. 186.
+[p. 527] Fig. 186.
 
 MÉTHODES D'OBSERVATION PHOTOGRAPHIQUE
 527
@@ -31346,11 +29770,7 @@ chercher à l’éliminer.
 
 1
 Nous avons admis une erreur absolue de 3000
-de radian dans
-
-[p. 528]
-
-la phase par suite de l’incertitude des pointés. Pour que l’erreur
+de radian dans [p. 528] la phase par suite de l’incertitude des pointés. Pour que l’erreur
 que nous étudions actuellement n’intervienne pas il faut :
 1 l
 "3000 ’ a
@@ -31400,11 +29820,7 @@ repos, et sans toucher au châssis de prendre la photographie de
 l’amplitude. La décroissance des oscillations étant en général très
 petite, les deux valeurs de l'amplitude que l’on mesure de part et
 d’autre de la position d’équilibre devront être égales si la condi
-tion de parallélisme est réalisée. De l’écart entre ces valeurs on
-
-[p. 529]
-
-méthodes d’observation photographique
+tion de parallélisme est réalisée. De l’écart entre ces valeurs on [p. 529] méthodes d’observation photographique
 529
 
 peut déduire l’angle a,
@@ -31464,11 +29880,7 @@ Il est remarquable, surtout si on fait la comparaison avec la
 méthode des coïncidences, d’atteindre celte précision en un temps
 
 Jules ANDBADE. — Horlogerie et Chronométrie.
-34
-
-[p. 530]
-
-relativement si court (3 minutes), même si elle n’est obtenue qu’au
+34 [p. 530] relativement si court (3 minutes), même si elle n’est obtenue qu’au
 prix de quelques soins. Pratiquement d'ailleurs le plus souvent,
 
 1
@@ -31518,11 +29930,7 @@ en fonction de l’amplitude de l’oscillation,
 On peut aller plus loin, et constituer à l’aide de deux pendules
 libres un système garde-temps dont l'erreur de marche est beau
 
-coup moindre que celle de l'horloge astronomique. Imaginons en
-
-[p. 531]
-
-effet deux pendules identiques ; lançons le premier, il oscille et
+coup moindre que celle de l'horloge astronomique. Imaginons en [p. 531] effet deux pendules identiques ; lançons le premier, il oscille et
 s’amortit, mais avant qu’il ne soit revenu au repos, lançons le
 deuxième, puis à nouveau le premier, etc... Nous disposons ainsi
 d’un garde-temps à la seule condition de relier les deux pendules
@@ -31574,9 +29982,7 @@ réponse directe au problème fondamental de la détermination des
 
 phases simultanées.
 
-[p. 532]
-
-La méthode photographique, dont le principe a été donné en
+[p. 532] La méthode photographique, dont le principe a été donné en
 1897
 [^p532-1] par M. Lippmann est, à priori, plus directe, plus rapide
 
@@ -31629,9 +30035,7 @@ pour la réduction à l’amplitude infiniment petite.
 [^p532-1]: G. Lipmann. — C. R., t. CXXIV, p. 125.
 [^p532-2]: Ann. de phys., 9’ série, t. XVII (Mars-Avril 1922).
 
-[p. 533]
-
-Enfin, l’application de
+[p. 533] Enfin, l’application de
 la méthode peut,
 très aisément, être
 rendue entièrementautomatique ; toute cause d’erreur personnelle
@@ -31694,11 +30098,7 @@ déterminer de quelle façon le mouvement du pendule s’écarte de
 la loi d’isochronisme des oscillations, en vue de l'utiliser
 à la
 
-mesure du temps. Jusqu’ici ce point de vue n’avait pas fait l’objet
-
-[p. 534]
-
-d’études systématiques, sans doute parce qu’on ne disposait pas
+mesure du temps. Jusqu’ici ce point de vue n’avait pas fait l’objet [p. 534] d’études systématiques, sans doute parce qu’on ne disposait pas
 d’une méthode d’observation ayant la souplesse nécessaire.
 
 Si le pendule était réellement « libre
@@ -31758,11 +30158,7 @@ variations de la durée d’oscillations non prévues par la théorie
 1
 ordinaire. Cette variation est considérable (de l’ordre du 100 ) dans
 
-le cas de cylindres, même roulant sur des plans durs ; elle est
-
-[p. 535]
-
-(
+le cas de cylindres, même roulant sur des plans durs ; elle est [p. 535] (
 1
 \
 de l’ordre du 100 000 ), mais
@@ -31824,9 +30220,7 @@ comme
 la méthode photographique, de suivre exactement les
 variations de la durée d’oscillation en fonction de l’amplitude.
 
-[p. 536]
-
-On peut alors effectuer la correction nécessaire et déterminer
+[p. 536] On peut alors effectuer la correction nécessaire et déterminer
 la durée
 « vraie » indépendante du support.
 Les variations trouvées sont en relation étroite avec la dureté
@@ -31877,11 +30271,7 @@ régulièrement.
 Ces variations sont bien définies ; elles ne dépendent pas du
 
 temps ni des petits changements de température. Elles augmentent
-rapidement en suivant des lois compliquées quand on diminue la
-
-[p. 537]
-
-longueur de la lame, quand on fait croître son épaisseur ou sa
+rapidement en suivant des lois compliquées quand on diminue la [p. 537] longueur de la lame, quand on fait croître son épaisseur ou sa
 largeur et quand on diminue le poids du pendule.
 
 2° Les lois de ces variations sont plus simples avec les lames
@@ -31932,9 +30322,7 @@ la flexion.
 
 consiste à étudier la meilleure suspension du pendule.
 
-[p. 538]
-
-Pour les déterminations de l’intensité de la pesanteur, le pen
+[p. 538] Pour les déterminations de l’intensité de la pesanteur, le pen
 dule à lame élastique a un mouvement beaucoup trop complexe ;
 
 on ne peut se servir que du pendule à couteau, mais il faut avoir
@@ -31986,9 +30374,7 @@ ment non entretenu d’un pendule à lame élastique présente au
 bout d’un temps plus ou moins long, des conditions remarquables
 de permanence.
 
-[p. 539]
-
-CHAPITRE XXI
+[p. 539] CHAPITRE XXI
 
 PROBLÈMES MÉCANIQUES
 
@@ -32027,9 +30413,7 @@ géométrique et physique.
 C’est à cette courte lecture que ce préambule rapide se propose
 de suppléer.
 
-[p. 540]
-
-La machine horaire, tel est le terme audacieux que les premiers
+[p. 540] La machine horaire, tel est le terme audacieux que les premiers
 artistes de l’horloge ou de la montre ont employé pour désigner
 l’objet de leurs efforts créateurs ; par ce terme ils affirmaient
 
@@ -32082,9 +30466,7 @@ rythme vibratoire du balancier d’où provient-il ?
 Regardez non loin de lui, à droite, ce fin ressort en forme de
 spiral plat, qui sur la photo ressemble, quelque peu, à une toile
 
-[p. 541]
-
-PROBLÈMES MÉCANIQUES ET CHRONOMÉTRIQUES ACTUELS
+[p. 541] PROBLÈMES MÉCANIQUES ET CHRONOMÉTRIQUES ACTUELS
 541
 
 d’araignée : c’est l'âme de la montre, c’est l'organe réglant de la
@@ -32099,11 +30481,7 @@ la reproduction typographique, ne laissant voir que la courbe terminale du
 spiral dont les spires sont fondues.
 
 Ce lin ressort assure au balancier mobile sur son axe et sur le
-pivot de cet axe une position d’équilibre bien déterminée ; la posi-
-
-[p. 542]
-
-tion naturelle du balancier dans la montre toute montée peut être
+pivot de cet axe une position d’équilibre bien déterminée ; la posi-[p. 542]tion naturelle du balancier dans la montre toute montée peut être
 modifiée par un discret effort de votre main ; accentuez l’effort
 
 tournant de votre main, vous augmenterez encore l’écart angulaire
@@ -32151,11 +30529,7 @@ gerie ; historiquement l’horlogerie a dû résoudre au préalable un
 problème mécanique assez complexe et que les débutants s’assi
 milent malaisément. La danseuse dont le rythme doit scander le
 
-temps, finit par s’arrêter épuisée ; sans doute on pourrait la laisser
-
-[p. 543]
-
-dormir, quitte à la réveiller pour des mesures utiles de durées
+temps, finit par s’arrêter épuisée ; sans doute on pourrait la laisser [p. 543] dormir, quitte à la réveiller pour des mesures utiles de durées
 
 assez courtes ; c’est ce que fait Galilée lorsqu’il voulait mesurer la
 
@@ -32208,11 +30582,7 @@ du rouage actionne l’ancre dont la fourche actionne et rattrappe à
 son tour la cheville du plateau du balancier qui, par ce choc, reçoit
 l’impulsion réparatrice de l’usure d’énergie due aux frottements:
 dès que l’impulsion a été ainsi donnée au balancier, celui-ci active
-librement son oscillation, tandis que la roue d’échappement vient
-
-[p. 544]
-
-à nouveau buter et se reposer par le bec de sa dent sur une face
+librement son oscillation, tandis que la roue d’échappement vient [p. 544] à nouveau buter et se reposer par le bec de sa dent sur une face
 
 de repos du second rubis.
 
@@ -32259,9 +30629,7 @@ ou par la vieillesse des huiles dans l’emploi des chonomètres
 marins; bornons-nous tout d’abord au problème du réglage tel que
 l’ont posé et résolu les artistes créateurs de la chronométrie de
 
-[p. 545]
-
-PROBLÈMES MÉCANIQUES ET CHRONOMÉTRIQUES ACTUELS
+[p. 545] PROBLÈMES MÉCANIQUES ET CHRONOMÉTRIQUES ACTUELS
 545
 
 précision, et ensuite nous verrons comment le problème général
@@ -32313,11 +30681,7 @@ régulière des spires reste circulaire à l’approximation de p; et, à
 
 Jules And?a»
 . - Horlogerie et Chronométrie.
-35
-
-[p. 546]
-
-la même approximation, les réactions de chaque encastrement sur
+35 [p. 546] la même approximation, les réactions de chaque encastrement sur
 le spiral sont un couple pur identique au moment transmis par la
 El
 virole au balancier; ce dernier a pour valeur — L u, pour l’écart
@@ -32373,9 +30737,7 @@ quences pratiques très intéressantes pour la chronométrie et pour
 diverses mesures physiques nouvelles.
 Pour l’instant, complétons le rappel des études théoriques de la
 
-[p. 547]
-
-I
+[p. 547] I
 
 PROBLÈMES MÉCANIQUES ET CHRONOMÉTRIQUES ACTUELS
 547
@@ -32459,11 +30821,7 @@ pléta ce calcul en cherchant la variation que cette perturbation
 a
 peut apporter à la durée même de l’oscillation lorsque l’amplitude
 
-II
-
-[p. 548]
-
-de régime de la montre vient à varier ; comme on le fait d’habitude
+II [p. 548] de régime de la montre vient à varier ; comme on le fait d’habitude
 Phillips rapporta le résultat du calcul non pas à une vibration
 isolée, mais à la durée d’un jour complet, soit 86400 secondes du
 
@@ -32522,11 +30880,7 @@ cule physique nouvelle, l’audacieuse méthode mécanique d’Arnold
 et d’Earnshaw, si géniale à son heure, va pouvoir être abandonnée.
 L’heure de la transition a exigé une transaction momentanée
 
-avec l’affixe compensateurde M. Ditisheim qui, (Voir chapitreXVII)
-
-[p. 549]
-
-sur une petite portion de la bague rigide,
+avec l’affixe compensateurde M. Ditisheim qui, (Voir chapitreXVII) [p. 549] sur une petite portion de la bague rigide,
 a quelque peu violé
 
 la pureté de la méthodenouvelle, mais la portion du jeu ancien
@@ -32578,11 +30932,7 @@ resser.
 On a pris un spiral cylindrique d’étendue angulaire égale à un
 multiple impair de demi-tours; en le sectionnant, on
 a obtenu
-deux spiraux de Le Roy à peu près identiques; si on donne à ce
-
-[p. 550]
-
-doublet même plan intermédiaire de viroles, ce doublet possède la
+deux spiraux de Le Roy à peu près identiques; si on donne à ce [p. 550] doublet même plan intermédiaire de viroles, ce doublet possède la
 propriété suivante, quelle que soit la disposition relative des
 viroles :
 il transmet au balancier un moment mécanique différent du
@@ -32619,11 +30969,7 @@ sa méthode d’approximation; j’eus un instant peur, d’abord pour
 la belle justification de la méthode de Pierre Le Roy et ensuite
 
 pour les vertus que j’en avais tirées à l’actif de ce spiral double en
-1911 ; je rectifiai la position attribuée par Caspari au centre de
-
-[p. 551]
-
-gravité du spiral cylindrique et je repris son calcul relatif à la mé
+1911 ; je rectifiai la position attribuée par Caspari au centre de [p. 551] gravité du spiral cylindrique et je repris son calcul relatif à la mé
 thode de Le Roy ; après avoir tenu compte des termes omis par
 Caspari, j’eus la joie de reconnaître que ces termes fournissent
 
@@ -32674,11 +31020,7 @@ problèmes actuels des machines horaires et fournissent un instru
 ment propre à résoudre un problème physique nouveau relatif
 aux viscosités).
 
-C’est en automne 1920, et grâce à des renseignements inat-
-
-[p. 552]
-
-tendus, que j’ai pu orienter nettement des efforts efficaces dans
+C’est en automne 1920, et grâce à des renseignements inat-[p. 552]tendus, que j’ai pu orienter nettement des efforts efficaces dans
 
 une voie où j’avais tout d’abord hésité et tâtonné.
 C’est au regretté, à l'éminent chimiste Philippe Guye de Genève,
@@ -32730,11 +31072,7 @@ de l'isochronisme séculaire ou à longue période et de l’isochro
 nisme immédiat, j’ai dû tout d’abord aborder cette question pré-
 limiminaire
 : la réalisation d'une balance capable de peser les
-frottements à l’approximation du millième; je reproduis un peu
-
-[p. 553]
-
-plus loin une photographie de cette réalisation dans mon labora
+frottements à l’approximation du millième; je reproduis un peu [p. 553] plus loin une photographie de cette réalisation dans mon labora
 toire.
 
 Mais je crois devoir, avant de terminer cet exposé, et en m’inspi
@@ -32785,11 +31123,7 @@ isochrones.
 2° Conséquence : Le même système de ressorts agissant sur un
 balancier à flotteur réalise des vibrations isochrones non entre
 tenues, alors même qu’agissent sur lui les 3 résistances passives :
-a) viscosité entre flotteur et liquide; b) frottement supplémentaire
-
-[p. 554]
-
-de glissement entre liquide et flotteur et si ce frottement, à un
+a) viscosité entre flotteur et liquide; b) frottement supplémentaire [p. 554] de glissement entre liquide et flotteur et si ce frottement, à un
 même niveau du flotteur, est constant: c) frottement résiduel pos
 sible sur la tête conservée du pivot du balancier.
 
@@ -32845,9 +31179,7 @@ mon petit volume sur les organes réglants, j’ai précisé les calculs auxilia
 de l’enregistrement des vibrations A (pages 19-23 de ce dernier volume ;
 Magron, éditeur, Bienne et Besançon).
 
-[p. 555]
-
-PROBLÈMES MÉCANIQUES ET CHRONOMÉTRIQUES ACTUELS
+[p. 555] PROBLÈMES MÉCANIQUES ET CHRONOMÉTRIQUES ACTUELS
 555
 
 Dès lors, si par la viellesse des huiles du gros rouage, le choc
@@ -32904,9 +31236,7 @@ l’aide d’un fil
 
 [^p555-1]: Construite au Laboratoire de Mécanique de Besançon par J. Andrade et Armand Simonet, mécanicien de précision.
 
-[p. 556]
-
-couteaux et traversant le pont de support du couteau central du
+[p. 556] couteaux et traversant le pont de support du couteau central du
 
 gros fléau.
 L’ajustage en équerre du fléau frottant et de l’arbre moteur
@@ -32935,20 +31265,14 @@ avec un viseur, la position du repère du fléau flotteur par rapport
 
 à l'arbre. L’équilibre établi, on mesure à une bonne petite balance
 
-le poids T de la tare ; le système général étant, sauf les plateaux,
-
-[p. 557]
-
-PROBLÈMES MÉCANIQUES ET CHRONOMÉTRIQUES ACTUELS
+le poids T de la tare ; le système général étant, sauf les plateaux, [p. 557] PROBLÈMES MÉCANIQUES ET CHRONOMÉTRIQUES ACTUELS
 557
 
 Fig. 190. — La môme balance terminée.
 En haut,
 le disque chargeur, vu en plan.
 
-[p. 558]
-
-monomélallique(fonte et acier), on a mesuré une fois pour toutes
+[p. 558] monomélallique(fonte et acier), on a mesuré une fois pour toutes
 
 à une température quelconque la distance verticale h des deux
 
@@ -32963,9 +31287,7 @@ T
 d
 connu, détermine le coefficient de frottement f=oxi
 
-[p. 559]
-
-CHAPITRE XXII
+[p. 559] CHAPITRE XXII
 
 QUELQUES PRÉCAUTIONS
 
@@ -33002,11 +31324,7 @@ le fonctionnement d’un équilibrage que la seule géométrie pouvait,
 semble-t-il, prévoir avec une superbe confiance.
 Mais, le fonctionnement attendu du trottoir roulant sous la
 friction transmise à la balance se manifesta en réalité de la ma
-nière la plus instable; la surveillance du tirage devenait fréquem-
-
-[p. 560]
-
-ment inutile, car un plaquage magnèligue supprimait parfois
+nière la plus instable; la surveillance du tirage devenait fréquem-[p. 560]ment inutile, car un plaquage magnèligue supprimait parfois
 complètement, la phase oscillatoire de la balance.
 L’emploi d’un rhéostat graduel pour la mise en marche, atténua
 d’abord ce plaquage magnétique mais sans complètement le faire
@@ -33060,11 +31378,7 @@ Ces précautions s’imposent surtout dans un laboratoire de for
 
 tune, ne disposant pas d’un terre-plein, avec au moins deux blocs
 bétonnés distincts ; ce qui est bien le cas, en particulier, pour tout
-atelier de petite mécanique, perché sur étage, et qui doit prévoir
-
-[p. 561]
-
-une double orientation de supports ; d’une part la prise d’appui
+atelier de petite mécanique, perché sur étage, et qui doit prévoir [p. 561] une double orientation de supports ; d’une part la prise d’appui
 
 aux murs latéraux, prise normale de la force motrice des tours
 de l’atelier ; d’autre part un appui sur charpente longitudinale,
@@ -33136,11 +31450,7 @@ La précision désirable de la mesure des frottements fins, prend
 alors d’autant plus d’importance que, dans un but naturel d'éco-
 
 Jules ANDRADE. — Horlogerie et Chronométrie.
-36
-
-[p. 562]
-
-nomie, il s’agit de se maintenir à mi-chemin du nombre maximum
+36 [p. 562] nomie, il s’agit de se maintenir à mi-chemin du nombre maximum
 
 des spiraux associés.
 Pour les balances spirales de précision, et en particulier pour
@@ -33177,9 +31487,7 @@ tation relative permanente, soit encore par une nouvelle variété
 de balance à frotteur, les frictions hy irostatiques et la viscosité
 réunies.
 
-[p. 563]
-
-CHAPITRE XXIII
+[p. 563] CHAPITRE XXIII
 
 POURQUOI
 LA
@@ -33232,9 +31540,7 @@ vocable
 l'axe
 d'oscillation a été quelque peu ébréchée, comme nous l’a appris
 
-[p. 564]
-
-Bessel, par les méfaits de perturbations insidieusement cachées
+[p. 564] Bessel, par les méfaits de perturbations insidieusement cachées
 tout autour de la fine arête des dits couteaux.
 Au contraire, dans les chronomètres marins, tout d’abord créés,
 grâce aux tours de force et d’adresse exécutés par quelques
@@ -33286,11 +31592,7 @@ depuis longtemps, attribué une supériorité naturelle de l’horloge
 sur les chronomètres.
 Mais, en dehors même des petites perturbations d’inertie du
 ressort réglant, on a dû se limiter, pour l’appréciation des forces
-élastiques que la flexion du ressort réglant transmet au balan-
-
-[p. 565]
-
-cier on a dû se limiter aux approximations de la résistance des
+élastiques que la flexion du ressort réglant transmet au balan-[p. 565]cier on a dû se limiter aux approximations de la résistance des
 matériaux.
 Fort heureusement un compromis d’une nature toute parti
 culière,
@@ -33349,11 +31651,7 @@ ratoire, remplacé au piton et à la virole par deux repos mortaisés
 et deux vis spéciales de pressions, il est possible de l’adopter sans
 difficultés mathématiquesexagérées.
 
-Dans cet ordre d’idées il y a lieu de tenir tout d’abord quelque
-
-[p. 566]
-
-compte des conceptions simplificatrices de
+Dans cet ordre d’idées il y a lieu de tenir tout d’abord quelque [p. 566] compte des conceptions simplificatrices de
 Résal ; de sentiment,
 
 Résal parait avoir admis que, tout en tenant compte de la pression
@@ -33414,9 +31712,7 @@ d’abord à obtenir des ressorts réglants associés du type hélicoïdal,
 
 dans le but parfaitement défini d’obtenir des horloges élastiques
 
-[p. 567]
-
-LE PROBLÈME DE LA MÉCANIQUE RATIONNELLE
+[p. 567] LE PROBLÈME DE LA MÉCANIQUE RATIONNELLE
 567
 
 d’une part et des balances spirales d’autre part, les unes comme
@@ -33485,11 +31781,7 @@ ressort réglant doit être aussi maintenue durant le cours complet
 
 de roscillation du balancier.
 C’est l’ensemble
-de ces deux conditions simultanément asso-
-
-[p. 568]
-
-ciées par Phillips qui lui avaient livré le secret des modelages
+de ces deux conditions simultanément asso-[p. 568]ciées par Phillips qui lui avaient livré le secret des modelages
 d’Arnold.
 
 A l’époque où, m’attachant à bien comprendre les enseigne
@@ -33547,9 +31839,7 @@ sique mathématique sont parfois plutôt énoncés que résolus, au
 sens du moins qui est exigé par les approximations dirigées con
 formément aux besoins des sciences appliquées.
 
-[p. 569]
-
-Sans doute, les problèmes généraux ont un intérêt philoso
+[p. 569] Sans doute, les problèmes généraux ont un intérêt philoso
 phique qui n’est certes pas à dédaigner.
 Exemple
 : pouvoir établir rigoureusement l’existence des har
@@ -33614,11 +31904,7 @@ techniciens.
 Phillips, comme Résal en ne considérant que les efforts élas
 tiques projetés sur un plan transverse, nous invitent à ne consi
 dérer comme couples d’encastrement que les couples parallèles au
-plan transverse : si dans ces conditions nous envisageons la com-
-
-[p. 570]
-
-posante transverse de la réaction complémentaire sur l’extrémité
+plan transverse : si dans ces conditions nous envisageons la com-[p. 570]posante transverse de la réaction complémentaire sur l’extrémité
 piton du ressort, et si de même nous envisageons sur l’extrémité
 virole du même ressort la composante transverse de la réaction
 complémentaire émanant du bras de virole du balancier, ces deux
@@ -33695,9 +31981,7 @@ Notre but étant ici,
 non plus
 de compenser les pressions
 
-[p. 571]
-
-LE PROBLÈME DE LA MÉCANIQUE RATIONNELLE
+[p. 571] LE PROBLÈME DE LA MÉCANIQUE RATIONNELLE
 571
 
 mais de les mesurer, nous adopterons une combinaison, variante
@@ -33760,11 +32044,7 @@ suivant un
 diamètre du pont du flotteur parallèle à l’azimut des 4 viroles un
 transbordement progressif d’une tare, sable ou grenaille
 d’une
-extrémité à l’autre de ce diamètre ; pour parfaire l’équilibre final
-
-[p. 572]
-
-on se sert aussi d’un diamètre de transbordement de tare, perpen
+extrémité à l’autre de ce diamètre ; pour parfaire l’équilibre final [p. 572] on se sert aussi d’un diamètre de transbordement de tare, perpen
 diculaire au premier.
 
 On peut ainsi réaliser dans les azimuts magnétiques variables d
@@ -33829,11 +32109,7 @@ les mesures mécaniques relatives aux ressorts réglants groupés
 
 par doublets symétriques, a été conduit de manière à peser le
 couple agissant dans le plan longitudinal commun des rayons des
-viroles, tout comme si l’hypothèse liée à celle des techniciens, à
-
-[p. 573]
-
-savoir la nullité des couples d’encastrements longitudinaux, était
+viroles, tout comme si l’hypothèse liée à celle des techniciens, à [p. 573] savoir la nullité des couples d’encastrements longitudinaux, était
 admise ; cette hypothèse, quoique liée à celle des techniciens, est
 tout aussi gratuite que celle-ci.
 L’emploi de deux systèmes de déplacements de tares suivant
@@ -33887,11 +32163,7 @@ d’ailleurs à plusieurs reprises dans cet ouvrage, la réponse sera
 nettement tranchée par un simple cliché photographiquede l’amor
 tissement des amplitudes d’un balancier de révolution sur flotteur,
 rythmé par une combinaison convenable de spiraux associés.
-Simple souhait. — Le lecteur saura aisément tirer des équa-
-
-[p. 574]
-
-tions précédentes, en les rapprochant, des remarques qui lui ont
+Simple souhait. — Le lecteur saura aisément tirer des équa-[p. 574]tions précédentes, en les rapprochant, des remarques qui lui ont
 été présentées, sur le tarage préventif des doublets dont le centre
 de gravité n’est pas centré, voir figure 160 et figure 175, des consé
 
@@ -33914,11 +32186,7 @@ blèmes connexes de l’horloge élastique et du problème des balances
 spirales, mais je serais heureux si l’importance du problème
 général ci-dessus énoncé, pouvait retenir l'attention et susciter
 l’effort d’un chercheur.
-/«QI,
-
-[p. 575]
-
-Introduction
+/«QI, [p. 575] Introduction
 
 TABLE
 DES MATI
@@ -33978,9 +32246,7 @@ Méthode pour le contrôle photographique d’une vibration pendu
 laire doublement amortie
 56.
 
-[p. 576]
-
-Pages
+[p. 576] Pages
 Entretien du régime vibratoire, le régime limite et l’acheminement.
 58
 Y aura-t-il un régime limite
@@ -34059,9 +32325,7 @@ Conclusions
 Généralisation d’un régime limite
 104
 
-[p. 577]
-
-Pages
+[p. 577] Pages
 CHAPITRE IV
 
 LE ROUAGE INTERMÉDIAIRE. LES ENGRENAGES DEL’HORLOGERIE
@@ -34151,9 +32415,7 @@ Maximum d’utilisation du ressort
 Jules ANDRADE. — Horlogerie et Chronométrie.
 37
 
-[p. 578]
-
-Pages
+[p. 578] Pages
 Partage par tiers de l’intérieur du barillet
 167
 Comparaison de la flexion du ressort de barillet avec la charge de
@@ -34245,9 +32507,7 @@ Conditions du raccord pour un développement concentrique
 Les deux courbes terminales des spiraux cylindriques
 216
 
-[p. 579]
-
-TABLE DES MATIÈRES
+[p. 579] TABLE DES MATIÈRES
 579
 
 Pages
@@ -34327,9 +32587,7 @@ COMPLÉMENTS APPORTÉS A LA MÉTHODE DE CASPARI
 Compléments apportés à la méthode de Le Roy par Caspari
 290
 
-[p. 580]
-
-Pages
+[p. 580] Pages
 CHAPITRE XIII
 
 LE MOUVEMENT DES IDÉES EN CHRONOMÉTRIE.
@@ -34417,9 +32675,7 @@ trique
 ;
 398
 
-[p. 581]
-
-Pages
+[p. 581] Pages
 CHAPITRE XVI
 
 NOUVELLES MÉTHODES DE COMPENSATION PAR LES ACIERS AU NICKEL
@@ -34498,9 +32754,7 @@ daux à viroles coïncidentes
 Propriété des équations I et II au point de vue de l’isochronisme.
 469
 
-[p. 582]
-
-Pages
+[p. 582] Pages
 CHAPITRE XIX
 
 NOUVELLES RECHERCHES SUR LES SPIRAUX ASSOCIÉS

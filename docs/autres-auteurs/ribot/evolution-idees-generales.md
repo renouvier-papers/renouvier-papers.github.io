@@ -10,9 +10,7 @@ title: "L'Évolution des idées générales (1897)"
 
 ---
 
-[p. 1]
-
-Le but principal de cet ouvrage est d'étudier
+[p. 1] Le but principal de cet ouvrage est d'étudier
 
 la marche de l'esprit lorsqu'il abstrait et généralise , de montrer que ces deux opérations sont à évolution complète , c'est-à-dire qu'elles existent déjà dans la perception et, progressivement, par étapes successives qu'on peut déterminer, atteignent les formes les plus élevées , le symbolisme pur, accessible seulement au petit nombre .
 
@@ -24,9 +22,7 @@ Idées générales .
 
 1
 
-[p. 2]
-
-En conséquence , on s'est attaché à établir que le développement progressif de ces opérations de l'esprit comprend trois grandes périodes : celle des abstraits inférieurs , précédant l'apparition de la parole, se passant du mot (non de tout signe) ; celle des abstraits moyens , accompagnée du mot dont le rôle , d'abord accessoire , grandit peu à peu ; celle des abstraits supérieurs où le mot existe seul dans la conscience et correspond à une substitution complète .
+[p. 2] En conséquence , on s'est attaché à établir que le développement progressif de ces opérations de l'esprit comprend trois grandes périodes : celle des abstraits inférieurs , précédant l'apparition de la parole, se passant du mot (non de tout signe) ; celle des abstraits moyens , accompagnée du mot dont le rôle , d'abord accessoire , grandit peu à peu ; celle des abstraits supérieurs où le mot existe seul dans la conscience et correspond à une substitution complète .
 
 Ces trois périodes comportent elles-mêmes des subdivisions , des formes de passage qu'on essaiera de dé-terminer .
 
@@ -36,19 +32,13 @@ Ceci est une étude de psychologie pure d'où l'on a rigoureusement éliminé to
 
 : pour les abstraits inférieurs , dans les actes des animaux, des enfants , des sourds-muets non éduqués ; pour les abstraits moyens , dans le développement des langues et les documents ethnographiques des peuples primitifs ou demi-civilisés ; pour les abstraits supérieurs , dans la constitution progressive des notions et théories scientifiques et des classifications .
 
-[p. 3]
-
-Ce volume est le résumé de leçons faites au Collège de France en 1895. Il est le premier d'une série qui sera publiée , si les circonstances le permettent , et qui comprendra toutes les parties de la psychologie : inconscient , perceptions, images , volonté, mouvements , etc.
+[p. 3] Ce volume est le résumé de leçons faites au Collège de France en 1895. Il est le premier d'une série qui sera publiée , si les circonstances le permettent , et qui comprendra toutes les parties de la psychologie : inconscient , perceptions, images , volonté, mouvements , etc.
 
 TH . R.
 
 Mars 1897 .
 
-[p. 4]
-
-[p. 5]
-
-L'ÉVOLUTION
+[p. 4] [p. 5] L'ÉVOLUTION
 
 DES IDÉES GÉNÉRALES
 
@@ -64,27 +54,17 @@ L'abstraction appartient au second type . Elle est un procédé naturel et néce
 
 c'est-à-dire de la limitation, spontanée ou volontaire , du champ de la conscience . L'acte d'abstraire exige, pour se produire, des conditions négatives et positives , et il en est le résultat .
 
-[p. 6]
-
-Les conditions négatives consistent essentiellement en ce fait que , dans un tout complexe , nous ne pouvons bien saisir qu'une qualité ou un aspect, variables suivant les moments , parce que la conscience, comme la rétine, est restreinte à une étroite région de perception claire .
+[p. 6] Les conditions négatives consistent essentiellement en ce fait que , dans un tout complexe , nous ne pouvons bien saisir qu'une qualité ou un aspect, variables suivant les moments , parce que la conscience, comme la rétine, est restreinte à une étroite région de perception claire .
 
 La condition positive consiste en un état que l'on a nommé avec raison : un « renforcement psychique » de ce qu'on abstrait ,
 
 qui a pour conséquence naturelle l'affaiblissement de ce dont on abstrait. La vraie caractéristique de l'abstraction est dans cet accroissement partiel d'intensité . Quoiqu'elle suppose une opération éliminatoire , elle est en fait un procédé positif de l'esprit. Les éléments ou qualités d'une perception ou d'une représentation qui sont omis par nous , ne comportaient pas nécessairement cette suppression . Nous les négligeons seulement, parce qu'ils ne nous conviennent pas pour le moment, et à titre de moyen [^p6-1] .
 
-L'abstraction étant donc, malgré des apparences négatives, une opération positive, comment se la représenter ? << Elle a besoin de l'attention, mais elle est plus que l'attention . Elle est une augmentation d'intensité ; mais elle est plus qu'une augmentation d'intensité. Supposons un groupe de représentations a + b + c = d. Faire abstraction de bet decen faveur de a, c'est, à ce qu'il semble , obtenir a = d - (b + c) . S'il en était ainsi, bet c seraient conservés tels quels dans la conscience ; il n'y aurait pas d'abstraction. D'autre part, la représentation du tout d ne
-
-[p. 7]
-
-pouvant être supprimée purement et simplement, bet c ne peuvent être totalement anéantis . Ils subsistent donc à l'état de résidus qu'on peut désigner par x, et la représentation abstraite est non pas a, mais a + x ou A. Ainsi, les éléments des représentations abstraites sont les mêmes que ceux des représentations concrètes ; ils sont seulement les uns fortifiés, les autres affaiblis : ce qui amène des groupements nouveaux. L'abstraction consiste donc dans la formation de nouveaux groupes de représentations qui , renforçant certains éléments des
+L'abstraction étant donc, malgré des apparences négatives, une opération positive, comment se la représenter ? << Elle a besoin de l'attention, mais elle est plus que l'attention . Elle est une augmentation d'intensité ; mais elle est plus qu'une augmentation d'intensité. Supposons un groupe de représentations a + b + c = d. Faire abstraction de bet decen faveur de a, c'est, à ce qu'il semble , obtenir a = d - (b + c) . S'il en était ainsi, bet c seraient conservés tels quels dans la conscience ; il n'y aurait pas d'abstraction. D'autre part, la représentation du tout d ne [p. 7] pouvant être supprimée purement et simplement, bet c ne peuvent être totalement anéantis . Ils subsistent donc à l'état de résidus qu'on peut désigner par x, et la représentation abstraite est non pas a, mais a + x ou A. Ainsi, les éléments des représentations abstraites sont les mêmes que ceux des représentations concrètes ; ils sont seulement les uns fortifiés, les autres affaiblis : ce qui amène des groupements nouveaux. L'abstraction consiste donc dans la formation de nouveaux groupes de représentations qui , renforçant certains éléments des
 
 représentations concrètes , en affaiblit les autres éléments [^p7-1] . »
 
-On voit, d'après ce qui précède , que l'abstraction , quant à son origine , dépend des causes qui suscitent et maintiennent l'attention : ces causes , nous les avons décrites ailleurs, et ce n'est pas le lieu d'y revenir. Remarquons seulement que , comme l'attention, l'abstraction peut être instinctive , spontanée, naturelle ; ou bien réfléchie, volontaire , artificielle . Sous la première forme, l'abstraction d'une qualité ou d'une manière d'être résulte d'une attraction quelconque ou de l'utilité : aussi est-elle une manifestation commune de la vie intellectuelle qui se rencontre même, nous le verrons , chez beaucoup d'animaux. Sous la deuxième forme, plus rare et plus haute, elle vient moins
-
-[p. 8]
-
-des qualités de l'objet que de la volonté du sujet ; elle suppose un choix, l'élimination souvent laborieuse des éléments négligeables , et une difficulté à maintenir dans la conscience claire l'élément abstrait. En définitive, elle est toujours une application particulière de l'attention , qui, adaptée , suivant les cas , à l'observation , à la synthèse , à l'action , etc. , agit ici comme instrument d'analyse .
+On voit, d'après ce qui précède , que l'abstraction , quant à son origine , dépend des causes qui suscitent et maintiennent l'attention : ces causes , nous les avons décrites ailleurs, et ce n'est pas le lieu d'y revenir. Remarquons seulement que , comme l'attention, l'abstraction peut être instinctive , spontanée, naturelle ; ou bien réfléchie, volontaire , artificielle . Sous la première forme, l'abstraction d'une qualité ou d'une manière d'être résulte d'une attraction quelconque ou de l'utilité : aussi est-elle une manifestation commune de la vie intellectuelle qui se rencontre même, nous le verrons , chez beaucoup d'animaux. Sous la deuxième forme, plus rare et plus haute, elle vient moins [p. 8] des qualités de l'objet que de la volonté du sujet ; elle suppose un choix, l'élimination souvent laborieuse des éléments négligeables , et une difficulté à maintenir dans la conscience claire l'élément abstrait. En définitive, elle est toujours une application particulière de l'attention , qui, adaptée , suivant les cas , à l'observation , à la synthèse , à l'action , etc. , agit ici comme instrument d'analyse .
 
 Un préjugé fort accrédité veut que l'abstraction soit un acte mental relativement rare . Il se traduit dans la langue courante , pour qui « abstrait » est synonyme de difficile , obscur , peu accessible . C'est une erreur psychologique qui résulte d'une vue incomplète : on réduit illégitimement l'abstraction tout entière à ses formes supérieures . En fait , la faculté d'abstraire , du plus bas au plus haut degré , reste toujours identique à elle-même ; son développement dépend de celui de l'intelligence (en général) et du langage ; mais elle est en germe même dans les opérations primitives dont l'objet propre est le concret : c'est-à-dire la
 
@@ -96,9 +76,7 @@ La perception est par excellence la faculté de connaître le concret . Elle vis
 
 n'est pas perçu de la même manière par un maquignon, un vétérinaire, un peintre , un profane. Pour chacun d'eux, telles qualités , qui varient de[^p8-1]
 
-[p. 9]
-
-l'un à l'autre , sont en relief, et telles autres sont dans l'ombre . Sauf les cas d'investigation prolongée , méthodique (et alors c'est observer et non plus percevoir) , il se produit toujours une sélection inconsciente de quelques caractères principaux qui , groupés , deviennent un substitut de la totalité . Il ne faut pas oublier que la perception est avant tout une opération pratique , qu'elle a pour premier moteur l'intérêt ou l'utilité ; que , par suite , nous négligeons c'est-à-dire que nous laissons dans le champ de la conscience obscure
+[p. 9] l'un à l'autre , sont en relief, et telles autres sont dans l'ombre . Sauf les cas d'investigation prolongée , méthodique (et alors c'est observer et non plus percevoir) , il se produit toujours une sélection inconsciente de quelques caractères principaux qui , groupés , deviennent un substitut de la totalité . Il ne faut pas oublier que la perception est avant tout une opération pratique , qu'elle a pour premier moteur l'intérêt ou l'utilité ; que , par suite , nous négligeons c'est-à-dire que nous laissons dans le champ de la conscience obscure
 
 ce qui , actuellement, ne nous touche ni ne nous sert. Il est bien superflu de passer en revue toutes les formes de perceptions (visuelles , auditives , tactiles , etc.) , et de montrer qu'elles sont régies par cette même loi d'intérêt ; mais il convient de remarquer que le mécanisme naturel par lequel la séparation se fait entre les éléments renforcés et les éléments affaiblis est une ébauche grossière de ce qui sera plus tard l'abstraction , que les mêmes ressorts sont en jeu et qu'ils se réduisent finalement à une direction particulière de l'attention .
 
@@ -106,21 +84,13 @@ Avec l'image, étape intermédiaire entre le percept et le concept, la réductio
 
 il y en a une qui doit exclure actuellement toutes les autres ; - il faut que je voie mon chêne verdoyant, jauni par l'automne ou dépouillé de feuilles, bien éclairé ou vaguement estompé ,
 
-mais même cette représentation individuelle, concrète, qui a prévalu entre toutes les autres , n'est qu'une esquisse , une réduction de la réalité avec omission de beaucoup de
-
-[p. 10]
-
-détails . A part les hommes très exceptionnels chez qui la vision et l'audition mentales sont parfaites, adéquates (à ce qu'il semble) à la perception elle-même , ce que nous appelons une représentation exacte ne l'est que dans ses grands traits . Que l'on compare l'image que l'on a d'un monument, les yeux fermés , à la perception elle-même ; le souvenir d'une mélodie à son exécution vocale ou instrumentale . Chez la moyenne des hommes, l'image, prétendue copie de la réalité , subit toujours un appauvrissement considérable , qui, chez les moins doués , est énorme : elle devient alors un simple schéma qui confine aux concepts inférieurs .
+mais même cette représentation individuelle, concrète, qui a prévalu entre toutes les autres , n'est qu'une esquisse , une réduction de la réalité avec omission de beaucoup de [p. 10] détails . A part les hommes très exceptionnels chez qui la vision et l'audition mentales sont parfaites, adéquates (à ce qu'il semble) à la perception elle-même , ce que nous appelons une représentation exacte ne l'est que dans ses grands traits . Que l'on compare l'image que l'on a d'un monument, les yeux fermés , à la perception elle-même ; le souvenir d'une mélodie à son exécution vocale ou instrumentale . Chez la moyenne des hommes, l'image, prétendue copie de la réalité , subit toujours un appauvrissement considérable , qui, chez les moins doués , est énorme : elle devient alors un simple schéma qui confine aux concepts inférieurs .
 
 Sans doute , on peut objecter que dans la perception et la représentation, le travail de dissociation est bien incomplet et partiel . Mais, en vérité , il serait étrange, illogique, que l'abstrait triomphât au sein même du concret : nous avons voulu seulement montrer qu'il y est en germe, sous forme embryonnaire . Lors donc que l'abstraction apparaît dans sa forme propre, c'est-à-dire comme la conscience d'une qualité unique et isolée du reste, elle n'est pas une manifestation nouvelle, mais un perfectionnement : elle est une simplification de simplifications .
 
 L'état de conscience ainsi obtenu par la fixation exclusive de l'attention sur une qualité et par sa dissociation idéale d'avec le reste, devient, comme on le sait, une notion singulière , ni individuelle ni générale, mais abstraite, qui est la matière de la généralisation .
 
-Le sens de l'identité, le pouvoir de saisir la ressemblance est, comme on l'a dit avec raison, « l'ossature de la pensée » ; sans lui, nous serions perdus dans le flux inces
-
-[p. 11]
-
-sant des choses [^p11-1] . Existe-t-il dans la nature des ressemblances complètes, des événements totalement semblables ? C'est très douteux . On pourrait croire que celui qui lit une phrase plusieurs fois de suite , écoute plusieurs fois le même air, déguste l'un après l'autre les quatre quartiers d'un même fruit, éprouve dans chaque cas des perceptions identiques . Il n'en est rien. Un peu de réflexion montre que, outre les différences dans le temps, dans les dispositions variables du sujet, dans l'effet cumulatif de perceptions réitérées , il y a au moins entre la première perception et la seconde cette différence radicale qui sépare le nouveau du répété . En fait, ce que nous donne l'expérience extérieure et intérieure consiste en ressemblances mêlées de différences extrêmement variables en degrés , c'est-àdire des analogies . La ressemblance parfaite supposée entre les choses s'évanouit à mesure qu'on les connaît mieux. A première vue , un peuple nouveau offre au voyageur un type général bien déterminé ; puis , plus on observe , plus l'uniformité apparente se résout en variétés . « J'ai pris la peine , dit Agassiz, de comparer entre eux des milliers d'individus de la même espèce ; j'ai poussé dans un cas la minutie jusqu'à placer à côté les uns
+Le sens de l'identité, le pouvoir de saisir la ressemblance est, comme on l'a dit avec raison, « l'ossature de la pensée » ; sans lui, nous serions perdus dans le flux inces [p. 11] sant des choses [^p11-1] . Existe-t-il dans la nature des ressemblances complètes, des événements totalement semblables ? C'est très douteux . On pourrait croire que celui qui lit une phrase plusieurs fois de suite , écoute plusieurs fois le même air, déguste l'un après l'autre les quatre quartiers d'un même fruit, éprouve dans chaque cas des perceptions identiques . Il n'en est rien. Un peu de réflexion montre que, outre les différences dans le temps, dans les dispositions variables du sujet, dans l'effet cumulatif de perceptions réitérées , il y a au moins entre la première perception et la seconde cette différence radicale qui sépare le nouveau du répété . En fait, ce que nous donne l'expérience extérieure et intérieure consiste en ressemblances mêlées de différences extrêmement variables en degrés , c'est-àdire des analogies . La ressemblance parfaite supposée entre les choses s'évanouit à mesure qu'on les connaît mieux. A première vue , un peuple nouveau offre au voyageur un type général bien déterminé ; puis , plus on observe , plus l'uniformité apparente se résout en variétés . « J'ai pris la peine , dit Agassiz, de comparer entre eux des milliers d'individus de la même espèce ; j'ai poussé dans un cas la minutie jusqu'à placer à côté les uns
 
 des
 
@@ -134,21 +104,13 @@ base de la généralisation
 
 est-elle primitive au sens absolu du mot ?
 
-Marque-t-elle le premier éveil de l'esprit, en tant qu'il con-
-
-[p. 12]
-
-naît ? Pour plusieurs auteurs contemporains ( H. Spencer , Bain , Schneider, etc.) , la conscience d'une différence est le moment primordial ; la conscience d'une ressemblance ne vient qu'après . D'autres soutiennent la thèse inverse [^p12-1] . En réalité , cette recherche du primum cognitum est hors de nos prises
+Marque-t-elle le premier éveil de l'esprit, en tant qu'il con-[p. 12]naît ? Pour plusieurs auteurs contemporains ( H. Spencer , Bain , Schneider, etc.) , la conscience d'une différence est le moment primordial ; la conscience d'une ressemblance ne vient qu'après . D'autres soutiennent la thèse inverse [^p12-1] . En réalité , cette recherche du primum cognitum est hors de nos prises
 
 ; elle échappe à l'observation et à l'expérience comme toutes les questions de genèse . On ne peut se décider que d'après des arguments purement logiques , et chacun des deux partis fournit des raisons qui ne sont pas sans valeur. Il y a de plus , au fond de cette discussion, la grave erreur d'assimiler sans preuves l'état embryonnaire de l'esprit aux formes adultes et de supposer dès l'origine une distinction tranchée et nette entre la discrimination et l'assimilation . C'est une question ouverte , que la psychologie actuelle est incapable de trancher d'une manière positive . Ce qui est vrai, incontestable, de l'esprit tel que nous le connaissons , c'est-à-dire développé et constitué , c'est que les deux procédés vont de pair et se supposent réciproquement
 
 En somme , l'abstraction et la généralisation ,
 
-considérées comme actes élémentaires de l'esprit et rédui-
-
-[p. 13]
-
-tes à leurs
+considérées comme actes élémentaires de l'esprit et rédui-[p. 13]tes à leurs
 
 conditions les plus simples, supposent
 
@@ -166,21 +128,13 @@ la généralisation ,
 
 repose sur l'association par ressemblance ; mais même à son plus bas degré, elle la dépasse , car elle exige un acte synthétique de fusion . Elle ne consiste pas , en effet, en une évocation successive de semblables ou d'analogues , comme dans le cas où l'image de Saint- Pierre de Rome me suggère celle de Saint-Paul de Londres , du Panthéon de Paris et autres églises à dimensions colossales , de même architecture et à coupoles gigantesques . Elle est une
 
-condensation . L'esprit ressemble à un creuset au fond duquel un résidu de ressem-
-
-[p. 14]
-
-blances communes s'est déposé, les différences s'étant volatilisées .
+condensation . L'esprit ressemble à un creuset au fond duquel un résidu de ressem-[p. 14]blances communes s'est déposé, les différences s'étant volatilisées .
 
 A mesure que l'on s'éloigne de cette forme primitive , élémentaire , la constitution de l'idée générale exige d'autres conditions psychologiques qui ne peuvent être énumérées en passant.
 
 Nous arrivons ici, en effet, au but principal de cet ouvrage qui est, non de disserter après tant d'autres, sur la nature de l'abstraction et de la généralisation ; mais de les suivre pas à pas dans leur développement, sous leurs multiples aspects. Dès qu'on dépasse la représentation individuelle pure , on entre dans une hiérarchie ascendante de notions qui, à part le caractère commun à toutes d'être générales , sont de nature fort hétérogènes et impliquent des habitudes mentales distinctes. La question tant de fois discutée : Qu'avons-nous dans l'esprit, quand nous pensons par idées générales ? ne comporte pas une seule réponse , mais des réponses variables suivant les cas ; et pour répondre pertinemment, il faut fixer d'abord les principaux échelons de cette hiérarchie et pour cela il faut une notation objective qui leur donne une marque extérieure, non arbitraire .
 
-Une première marque nous est fournie par l'absence ou la présence du mot. L'abstraction et la généralisation , sans l'aide possible du mot, constituent le groupe inférieur que quelques auteurs récents désignent par le nom bien approprié d'images génériques [^p14-1], terme qui laisse trans-
-
-[p. 15]
-
-paraître leur nature intermédiaire entre l'image pure et la notion générale proprement dite .
+Une première marque nous est fournie par l'absence ou la présence du mot. L'abstraction et la généralisation , sans l'aide possible du mot, constituent le groupe inférieur que quelques auteurs récents désignent par le nom bien approprié d'images génériques [^p14-1], terme qui laisse trans-[p. 15]paraître leur nature intermédiaire entre l'image pure et la notion générale proprement dite .
 
 La deuxième classe, que nous dénommons abstraits moyens, suppose le mot. A leur plus bas degré, ces concepts dépassent à peine le niveau de l'image générique : ils se réduisent à un schéma vague dont le mot est un accompagnement presque superflu. A un degré plus haut , les rôles sont intervertis : le schéma représentatif, de plus en plus appauvri , s'efface devant le mot qui passe, dans la conscience , au premier plan .
 
@@ -190,9 +144,7 @@ Cette notation des degrés de l'abstraction ne peut, pour le moment, être donn�
 
 Au lieu du terme images génériques , Romanes emploie le mot « recept » , pour marquer leur place intermédiaire entre le « percept » au-dessous, et le « concept » au-dessus .
 
-[p. 16]
-
-L'ÉVOLUTION
+[p. 16] L'ÉVOLUTION
 
 DES IDÉES GÉNÉRALES en lui-même et fixé par la détermination de ses caractères intérieurs et extérieurs . Quant à la légitimité , à la valeur objective et pratique de cette distribution hiérarchique , un voyage d'exploration d'un bout à l'autre de notre sujet , à travers les détails , peut seul la confirmer ou l'infirmer.
 
@@ -224,25 +176,15 @@ Idées générales .
 
 2
 
-[p. 18]
+[p. 18] Dans l'immense domaine des Invertébrés, le plus haut développement psychique se rencontre , de l'avis commun, chez les Hyménoptères sociaux et les représentants supérieurs de ce groupe sont les Fourmis : il nous suffira de nous occuper d'elles . Malgré l'exiguïté de leur taille, leur cerveau remarquablé par sa structure , surtout chez les neutres , est , disait Darwin , « un des atomes les plus extraordinaires que nous présente la matière , sans en excepter le cerveau de l'homme . » Les lésions de cet organe, fréquentes dans leurs combats acharnés , causent des troubles fort analogues à ceux que l'on constate chez les mammifères . Il est inutile de rappeler ce que chacun sait de leurs mœurs : organisation du travail, adaptations variées dans l'architecture , guerres , rapt, pratique de l'esclavage et de l'élevage et (pour certaines espèces) travaux agricoles , moissons , soins donnés à leurs greniers , etc. [^p18-1] ; tout au contraire , il nous faut examiner les cas exceptionnels, ceux où les fourmis sortent de leurs habitudes ; car leur aptitude à abstraire , généraliser, raisonner, ne peut s'établir qu'en raison d'une adaptation nouvelle à des circonstances insolites . En voici quelques exemples
 
-Dans l'immense domaine des Invertébrés, le plus haut développement psychique se rencontre , de l'avis commun, chez les Hyménoptères sociaux et les représentants supérieurs de ce groupe sont les Fourmis : il nous suffira de nous occuper d'elles . Malgré l'exiguïté de leur taille, leur cerveau remarquablé par sa structure , surtout chez les neutres , est , disait Darwin , « un des atomes les plus extraordinaires que nous présente la matière , sans en excepter le cerveau de l'homme . » Les lésions de cet organe, fréquentes dans leurs combats acharnés , causent des troubles fort analogues à ceux que l'on constate chez les mammifères . Il est inutile de rappeler ce que chacun sait de leurs mœurs : organisation du travail, adaptations variées dans l'architecture , guerres , rapt, pratique de l'esclavage et de l'élevage et (pour certaines espèces) travaux agricoles , moissons , soins donnés à leurs greniers , etc. [^p18-1] ; tout au contraire , il nous faut examiner les cas exceptionnels, ceux où les fourmis sortent de leurs habitudes ; car leur aptitude à abstraire , généraliser, raisonner, ne peut s'établir qu'en raison d'une adaptation nouvelle à des circonstances insolites . En voici quelques exemples
-
-<< A côté d'un de nos tramways, dit Belt, se trouvait une fourmilière dont les habitants ne pouvaient se rendre auprès des arbres (qu'ils moissonnaient) qu'en traversant des rails sur lesquels des wagons passaient sans cesse , non sans écraser beaucoup de fourmis . Celles-ci finirent par renoncer à un trajet aussi dangereux et elles avaient percé
-
-[p. 19]
-
-un tunnel sous chaque rail . Un jour, à un moment où il ne passait pas de wagons, je comblai ces tunnels de pierres , pour voir ce que feraient les fourmis qui revenaient au nid, chargées de feuilles , en découvrant l'obstacle. Je pus alors constater que la bande, plutôt que de passer sur les rails, se mit à creuser d'autres souterrains . »
+<< A côté d'un de nos tramways, dit Belt, se trouvait une fourmilière dont les habitants ne pouvaient se rendre auprès des arbres (qu'ils moissonnaient) qu'en traversant des rails sur lesquels des wagons passaient sans cesse , non sans écraser beaucoup de fourmis . Celles-ci finirent par renoncer à un trajet aussi dangereux et elles avaient percé [p. 19] un tunnel sous chaque rail . Un jour, à un moment où il ne passait pas de wagons, je comblai ces tunnels de pierres , pour voir ce que feraient les fourmis qui revenaient au nid, chargées de feuilles , en découvrant l'obstacle. Je pus alors constater que la bande, plutôt que de passer sur les rails, se mit à creuser d'autres souterrains . »
 
 Un autre observateur , Bates , qui a patiemment étudié les fourmis de l'Amérique centrale, rapporte un fait analogue . Ces insectes découpent les feuilles des arbres et les emportent dans leur nid, où elles servent à divers usages. Une colonne revenait chargée de ce butin :
 
 << Je mis une branche de près d'un pied de diamètre en travers de leur route qui était bordée des deux côtés par une herbe haute, épaisse, infranchissable ; je l'enfonçai quelque peu dans le sol pour que les fourmis ne pussent passer dessous. Les premières arrivées essayèrent en effet de ce moyen pour passer outre , puis elles essayèrent de passer par-dessus, ce qui fut impossible avec le poids de leurs feuilles . Alors , elles se tinrent immobiles, comme si elles attendaient un mot d'ordre, et quel fut mon étonnement quand je vis que, des deux côtés, on travaillait à creuser un tunnel. Les fourmis avaient déposé leurs feuilles pour procéder à cette opération ; lorsqu'elle fut terminée , c'est-à- dire au bout d'une demi-heure , elles prirent de nouveau leur charge, et la colonne se mit en marche . >>>
 
-Elles montrent autant d'invention dans la construction des ponts . Il résulte d'observations nombreuses qu'elles savent disposer des brins de paille au-dessus de l'eau , les maintenir en équilibre , ou les sceller aux deux bouts avec de la terre , les humecter de leur salive , les rétablir si on
-
-[p. 20]
-
-les dérange, construire une chaussée faite de grains de sable , etc.
+Elles montrent autant d'invention dans la construction des ponts . Il résulte d'observations nombreuses qu'elles savent disposer des brins de paille au-dessus de l'eau , les maintenir en équilibre , ou les sceller aux deux bouts avec de la terre , les humecter de leur salive , les rétablir si on [p. 20] les dérange, construire une chaussée faite de grains de sable , etc.
 
 (Réaumur) . Elles emploient même des ponts vivants :
 
@@ -254,29 +196,17 @@ J'omets toute observation sur l'ingéniosité des guêpes et des abeilles ; je v
 
 Pour les animaux supérieurs , je me bornerai aussi aux types les plus élevés . J'écarte naturellement toutes les observations relatives aux animaux « savants » , tout ce qui est dû à l'éducation et au dressage par l'homme . J'écarte encore les cas où , comme chez le castor, il y a un mélange embarrassant de ce qu'on nomme l'instinct (propriété spécifique) et d'une adaptation variable suivant les temps et les lieux .
 
-L'éléphant a une réputation, peut-être un peu surfaite ,
-
-[p. 21]
-
-d'intelligence . Sa psychologie est assez bien connue ; j'en donne quelques traits caractéristiques pour notre sujet : Il sait arracher des piquets de bambou, les casser, les examiner, et répéter cette opération jusqu'à ce qu'il en trouve un à sa convenance ; alors il saisit avec sa trompe le fragment qu'il a fabriqué et s'en sert comme d'un grattoir pour déloger les sangsues qui adhèrent à sa peau dans quelque endroit inaccessible. « Le cas est fréquent , et chaque éléphant se sert quotidiennement d'un grattoir de ce genre » . Lorsqu'il est importuné par les grosses mouches, il choisit une branche qu'il dépouille de ses feuilles , sauf à l'extrémité ; <<< il la frotte à plusieurs reprises de haut en bas pour la bien nettoyer et il se trouve ainsi muni d'un éventail de cinq pieds de long qu'il agite de chaque côté . Quoi qu'on en dise , voilà bien deux instruments dans toute l'acception du mot, c'est-à-dire fabriqués avec intelligence, dans un but déterminé . »
+L'éléphant a une réputation, peut-être un peu surfaite , [p. 21] d'intelligence . Sa psychologie est assez bien connue ; j'en donne quelques traits caractéristiques pour notre sujet : Il sait arracher des piquets de bambou, les casser, les examiner, et répéter cette opération jusqu'à ce qu'il en trouve un à sa convenance ; alors il saisit avec sa trompe le fragment qu'il a fabriqué et s'en sert comme d'un grattoir pour déloger les sangsues qui adhèrent à sa peau dans quelque endroit inaccessible. « Le cas est fréquent , et chaque éléphant se sert quotidiennement d'un grattoir de ce genre » . Lorsqu'il est importuné par les grosses mouches, il choisit une branche qu'il dépouille de ses feuilles , sauf à l'extrémité ; <<< il la frotte à plusieurs reprises de haut en bas pour la bien nettoyer et il se trouve ainsi muni d'un éventail de cinq pieds de long qu'il agite de chaque côté . Quoi qu'on en dise , voilà bien deux instruments dans toute l'acception du mot, c'est-à-dire fabriqués avec intelligence, dans un but déterminé . »
 
 << Un point sur lequel je désire insister particulièrement, dit un naturaliste qui les a beaucoup observés , c'est qu'on est fondé à croire que les éléphants conçoivent des idées abstraites . Je suis convaincu qu'ils acquièrent par expérience l'idée de dureté et de poids , et en voici la preuve , à mon avis ... On enseigne à l'éléphant à ramasser des objets à terre et à les passer à son mahout qui se tient assis sur ses épaules . Tout d'abord , on lui fait ramasser des objets mous , comme des vêtements , à cause de la force dangereuse de ses mouvements . Au bout d'un certain temps ,
 
-qui varie selon les animaux , il semble se rendre compte de la nature des objets qu'il soulève ; s'il continue à lancer sans façon un paquet de linge, il passe doucement les choses lourdes (barres de fer, chaînes) ,
-
-[p. 22]
-
-prend un couteau aiguisé par le manche et le met sur sa tête à la disposition du mahout . J'ai fait à dessein ramasser à des éléphants des objets qu'ils ne pouvaient avoir vus auparavant , et la façon dont ils les manièrent me prouva qu'ils savaient si ces objets étaient durs, pesants ou tranchants [^p22-1] . »
+qui varie selon les animaux , il semble se rendre compte de la nature des objets qu'il soulève ; s'il continue à lancer sans façon un paquet de linge, il passe doucement les choses lourdes (barres de fer, chaînes) , [p. 22] prend un couteau aiguisé par le manche et le met sur sa tête à la disposition du mahout . J'ai fait à dessein ramasser à des éléphants des objets qu'ils ne pouvaient avoir vus auparavant , et la façon dont ils les manièrent me prouva qu'ils savaient si ces objets étaient durs, pesants ou tranchants [^p22-1] . »
 
 Lloyd Morgan qui , dans ses livres de psychologie comparée , a une tendance évidente à concéder aux animaux une ration intellectuelle aussi restreinte que possible, commente ainsi cette observation : « Faut-il supposer que ces animaux possèdent des idées abstraites ? Je réponds que cela dépend de ce qu'on entend par idées abstraites . Si on veut dire que les idées abstraites sont isolées, c'est-à-dire considérées comme des qualités tout à fait séparées des objets qu'elles caractérisent, je ne le pense pas . Mais , si on veut dire que les éléphants , pratiquement, reconnaissent les qualités de dúreté, poids , etc. , comme éléments prédominants dans leur représentation, je suis tout disposé à l'accorder [^p22-2] .
 
 » Pour ma part, j'adhère complètement à cette conclusion, en y ajoutant une seule remarque : c'est qu'entre la notion abstraite pure et la notion « prédominante » , il n'y a qu'une différence de degré . Si celle-ci n'est pas isolée , détachée, fixée par un signe, elle en est bien près et mérite , à ce titre, d'être nommée un abstrait d'ordre inférieur .
 
-On a souvent cité l'observation d'Houzeau sur les chiens qui , souffrant de la soif, dans les pays secs , se précipitent sur les sillons qu'ils rencontrent, en explorent une cin-
-
-[p. 23]
-
-quantaine en descendant, espérant toujours que ce lit desséché les conduira à l'abreuvoir. Ils ne peuvent être guidés ni par l'odeur de l'eau, ni par la vue des herbes ; car tout cela manque : « Ils le sont donc ici, par des idées générales , secondées jusqu'à un certain point par l'expérience et d'un caractère fort simple sans doute. »
+On a souvent cité l'observation d'Houzeau sur les chiens qui , souffrant de la soif, dans les pays secs , se précipitent sur les sillons qu'ils rencontrent, en explorent une cin-[p. 23]quantaine en descendant, espérant toujours que ce lit desséché les conduira à l'abreuvoir. Ils ne peuvent être guidés ni par l'odeur de l'eau, ni par la vue des herbes ; car tout cela manque : « Ils le sont donc ici, par des idées générales , secondées jusqu'à un certain point par l'expérience et d'un caractère fort simple sans doute. »
 
 C'est pourquoi le terme image générique serait bien préférable, à mon avis, pour les cas de ce genre .
 
@@ -284,15 +214,9 @@ C'est pourquoi le terme image générique serait bien préférable, à mon avis,
 
 Je rappelle pour mémoire et sans en rapporter aucune les observations sans nombre sur l'aptitude des chiens et des chats à trouver les moyens qui peuvent les conduire à leur but, sur leur adresse mécanique ; sur les ruses, si bien décrites par G. Leroy, du renard, du lièvre, pour déjouer le chasseur, « quand ils sont vieux et instruits par l'expérience , car c'est à la science des faits qu'ils doivent leurs inductions justes et promptes . >>>
 
-[p. 24]
+[p. 24] Les plus intelligents des animaux, les singes supérieurs , n'ont pas été beaucoup étudiés à l'état libre ; mais des observations , dont quelques-unes sont dues à des naturalistes célèbres, fixent assez bien le niveau intellectuel des mieux doués . L'histoire de l'orang de Cuvier a été reproduite à satiété . Les livres plus récents de psychologie comparée contiennent beaucoup de preuves de leur aptitude à profiter de l'expérience (Darwin , Descendance , I, ch . III) , à se créer des instruments . Un singe, n'ayant pas la force de soulever le couvercle d'un coffre , se servit d'un bâton comme d'un levier. « L'usage du levier comme moyen mécanique est un exploit dont on ne connaît pas d'exemple en dehors du singe . Un autre (observé par Romanes) , parvint sans assistance , en poursuivant méthodiquement ses investigations, à se rendre compte du principe mécanique de la vis . Il est communément reconnu que les singes savent se servir de pierres en guise de marteaux. » Ils sont habiles à combiner leurs stratagèmes : comme celui qui, retenu captif par une chaîne et ne pouvant s'approcher d'une couvée de canetons, leur tendait un morceau de pain et, quand il avait réussi à attirer l'un d'eux, le saisissait et le tuait d'un coup de dent à la poitrine [^p24-1] .
 
-Les plus intelligents des animaux, les singes supérieurs , n'ont pas été beaucoup étudiés à l'état libre ; mais des observations , dont quelques-unes sont dues à des naturalistes célèbres, fixent assez bien le niveau intellectuel des mieux doués . L'histoire de l'orang de Cuvier a été reproduite à satiété . Les livres plus récents de psychologie comparée contiennent beaucoup de preuves de leur aptitude à profiter de l'expérience (Darwin , Descendance , I, ch . III) , à se créer des instruments . Un singe, n'ayant pas la force de soulever le couvercle d'un coffre , se servit d'un bâton comme d'un levier. « L'usage du levier comme moyen mécanique est un exploit dont on ne connaît pas d'exemple en dehors du singe . Un autre (observé par Romanes) , parvint sans assistance , en poursuivant méthodiquement ses investigations, à se rendre compte du principe mécanique de la vis . Il est communément reconnu que les singes savent se servir de pierres en guise de marteaux. » Ils sont habiles à combiner leurs stratagèmes : comme celui qui, retenu captif par une chaîne et ne pouvant s'approcher d'une couvée de canetons, leur tendait un morceau de pain et, quand il avait réussi à attirer l'un d'eux, le saisissait et le tuait d'un coup de dent à la poitrine [^p24-1] .
-
-Reste une opération mentale qu'il convient d'examiner à part, et nous suivrons toujours la même méthode, en ce qui la concerne , dans le cours de cet ouvrage . Elle a l'avantage d'être précise , limitée , à évolution complète et d'être accessible aux recherches dans toutes les phases de son déve-
-
-[p. 25]
-
-loppement, du plus bas au plus haut. C'est la numération .
+Reste une opération mentale qu'il convient d'examiner à part, et nous suivrons toujours la même méthode, en ce qui la concerne , dans le cours de cet ouvrage . Elle a l'avantage d'être précise , limitée , à évolution complète et d'être accessible aux recherches dans toutes les phases de son déve-[p. 25]loppement, du plus bas au plus haut. C'est la numération .
 
 Y a-t-il des animaux capables de compter ? G. Leroy est, je crois , le premier qui ait soutenu l'affirmative dans un passage qu'il est utile de transcrire , quoiqu'il ait été souvent cité :
 
@@ -304,11 +228,7 @@ et pour anéantir d'un coup la famille carnassière, on tâche de tuer la mère 
 
 »
 
-Depuis , la question a été reprise . Lubbock y consacre les trois dernières pages de son livre sur « Le sens et l'instinct des animaux » . D'après ses expériences sur les nids d'oi
-
-[p. 26]
-
-seaux, on peut enlever un œuf dans un nid où il y en a quatre ; mais , si l'on en retire deux , l'oiseau déserte généralement . La guêpe solitaire approvisionne sa cellule d'un nombre déterminé de victimes . L'ammophile se contente d'une seule ; une espèce d'Eumenes prépare pour ses petits cinq victimes, une autre espèce en prépare dix , une autre quinze, une autre vingt-quatre : le nombre des victimes est constamment le même pour chaque espèce. Comment l'insecte connaît-il son nombre ? [^p26-1]
+Depuis , la question a été reprise . Lubbock y consacre les trois dernières pages de son livre sur « Le sens et l'instinct des animaux » . D'après ses expériences sur les nids d'oi [p. 26] seaux, on peut enlever un œuf dans un nid où il y en a quatre ; mais , si l'on en retire deux , l'oiseau déserte généralement . La guêpe solitaire approvisionne sa cellule d'un nombre déterminé de victimes . L'ammophile se contente d'une seule ; une espèce d'Eumenes prépare pour ses petits cinq victimes, une autre espèce en prépare dix , une autre quinze, une autre vingt-quatre : le nombre des victimes est constamment le même pour chaque espèce. Comment l'insecte connaît-il son nombre ? [^p26-1]
 
 Une expérience, conduite avec méthode par Romanes , lui a montré qu'un chimpanzé peut compter exactement jusqu'à cinq, distinguer les mots qui désignent 1, 2, 3, 4, 5 et, au commandement, présenter le nombre de brins de paille qu'on lui demande [^p26-2] .
 
@@ -316,21 +236,13 @@ Bien qu'on n'ait pas encore sur ce point des observations assez étendues et ass
 
 1º Le cas des insectes est le plus embarrassant ; il est préférable d'énoncer franchement un non liquet ; car l'attribuer à une numération inconsciente ou à un instinct spécial équivaut à ne rien dire ; d'ailleurs, nous n'avons pas à nous occuper de ce qui touche à l'instinct .
 
-2º Le cas du singe et ses analogues est déjà assez élevé :
-
-[p. 27]
-
-c'est une forme de numération concrète que nous retrouverons chez les enfants et les représentants les plus bas de l'humanité .
+2º Le cas du singe et ses analogues est déjà assez élevé : [p. 27] c'est une forme de numération concrète que nous retrouverons chez les enfants et les représentants les plus bas de l'humanité .
 
 3º Tout autre est la nature de la prétendue « arithmétique » de la pie de G. Leroy et autres observations similaires . J'y vois non une numération, mais une perception de la pluralité , ce qui est tout différent. Il y a dans le cerveau de l'animal une coexistence de perceptions ; il sent qu'elles sont toutes présentes ou qu'il en manque ; mais la conscience d'une différence entre le groupe complet et le groupe tronqué, en déficit, n'est pas identique à l'acte de compter. Elle est une condition préliminaire , une introduction, rien de plus , et l'animal qui ne dépasse pas ce stade ne compte pas, au sens exact du mot. Nous verrons plus loin que des observations faites sur les jeunes enfants fournissent des preuves en faveur de cette assertion, ou montrent du moins qu'elle n'est pas une simple vue de l'esprit, mais l'hypothèse la plus vraisemblable .
 
 Sans attendre davantage, et sous réserve des faits qui seront étudiés dans la suite de ce chapitre, nous pouvons dès maintenant essayer de fixer la nature des formes d'abstraction et de raisonnement accessibles aux types supérieurs de l'animalité .
 
-I. - L'image générique résulte d'une fusion spontanée d'images , produite par la répétition d'événements semblables ou très analogues . Elle consiste en un procédé d'assimilation presque passif ; elle n'est pas intentionnelle et n'a pour matière que les ressemblances grossières . Il ya accumulation, sommation de ces ressemblances ; elles pré-
-
-[p. 28]
-
-dominent par la force du nombre, parce qu'elles sont la majorité : il se forme ainsi un noyau solide qui prédomine dans la conscience , un extrait convenant à tous objets similaires ; les différences tombent dans l'oubli . La comparaison de Huxley, citée plus haut, avec les photographies composites , nous dispense d'insister. Leur genèse dépend d'une part, de l'expérience ; les événements qui se répètent fréquemment peuvent seuls se condenser en une image générique ; d'autre part, des dispositions affectives du sujet (plaisir, peine , etc.) , de l'intérêt, de l'utilité pratique , qui rendent certaines perceptions prédominantes . Elles n'exigent donc pas un grand développement intellectuel pour se constituer, et on ne peut guère mettre en doute qu'elles existent, même très bas , dans l'échelle animale . L'enfant , à quatre ou cinq mois , possède déjà très probablement une image générique de la forme humaine et de quelques objets familiers . On peut remarquer d'ailleurs que cette forme inférieure de l'abstraction peut se produire même chez l'homme adulte et cultivé . Si nous sommes , par exemple , transportés brusquement dans un pays dont la flore nous est totalement inconnue, il se produit en nous par la répétition des expériences une condensation inconsciente des végétaux similaires ; nous les classons sans savoir leurs noms , sans en avoir besoin , sans connaître leurs caractères essentiels ,
+I. - L'image générique résulte d'une fusion spontanée d'images , produite par la répétition d'événements semblables ou très analogues . Elle consiste en un procédé d'assimilation presque passif ; elle n'est pas intentionnelle et n'a pour matière que les ressemblances grossières . Il ya accumulation, sommation de ces ressemblances ; elles pré-[p. 28]dominent par la force du nombre, parce qu'elles sont la majorité : il se forme ainsi un noyau solide qui prédomine dans la conscience , un extrait convenant à tous objets similaires ; les différences tombent dans l'oubli . La comparaison de Huxley, citée plus haut, avec les photographies composites , nous dispense d'insister. Leur genèse dépend d'une part, de l'expérience ; les événements qui se répètent fréquemment peuvent seuls se condenser en une image générique ; d'autre part, des dispositions affectives du sujet (plaisir, peine , etc.) , de l'intérêt, de l'utilité pratique , qui rendent certaines perceptions prédominantes . Elles n'exigent donc pas un grand développement intellectuel pour se constituer, et on ne peut guère mettre en doute qu'elles existent, même très bas , dans l'échelle animale . L'enfant , à quatre ou cinq mois , possède déjà très probablement une image générique de la forme humaine et de quelques objets familiers . On peut remarquer d'ailleurs que cette forme inférieure de l'abstraction peut se produire même chez l'homme adulte et cultivé . Si nous sommes , par exemple , transportés brusquement dans un pays dont la flore nous est totalement inconnue, il se produit en nous par la répétition des expériences une condensation inconsciente des végétaux similaires ; nous les classons sans savoir leurs noms , sans en avoir besoin , sans connaître leurs caractères essentiels ,
 
 c'est-à-dire ceux qui constituent la vraie notion abstraite , celle du botaniste .
 
@@ -338,11 +250,7 @@ En résumé , l'image générique est à mi-chemin entre la représentation indi
 
 l'abstraction proprement dite .
 
-Elle résulte presque exclusivement de la faculté de saisir les ressemblances . Le rôle de la dissociation y est
-
-[p. 29]
-
-très faible
+Elle résulte presque exclusivement de la faculté de saisir les ressemblances . Le rôle de la dissociation y est [p. 29] très faible
 
 : tout s'opère d'une façon pour ainsi dire automatique , mécanique, en suite de la lutte inégale qui s'établit dans la conscience entre les ressemblances qui se renforcent et les différences dont chacune reste isolée .
 
@@ -356,11 +264,7 @@ Cependant cette indignation n'a d'autre cause que le sens très étendu , très 
 
 Pris dans son acception la plus étendue , le raisonnement est un acte de l'esprit qui consiste à aller du connu à l'inconnu ; à passer de ce qui est donné immédiatement à ce qui est simplement suggéré par l'association et l'expérience . Assurément un logicien trouvera cette formule trop vague , mais elle doit être telle pour couvrir tous les cas .
 
-Sans prétendre à une énumération rigoureuse, défiant toute critique , on peut, dans le développement intellectuel, distinguer les phases suivantes en ordre ascendant : les perceptions et les images (souvenirs) comme point de départ ; l'association par contiguïté, l'association par ressemblance ; puis la marche du connu vers l'inconnu, par le raisonnement du particulier au particulier, par le raisonne
-
-[p. 30]
-
-ment analogique , enfin parles formes parfaites de l'induction et de la déduction avec leurs modes . Toutes ces formes de raisonnement ont-elles un fonds commun, une unité de composition ; en d'autres termes , sont-elles réductibles à un seul type - induire suivant les uns, déduire suivant les autres ? Quoique cela soit fort probable, il n'est pas utile de discuter ici cette question . Bornons-nous aux formes élémentaires que les logiciens omettent ou dédaignent ordinairement, mais qui, pour la psychologie, sont des démarches de l'esprit aussi intéressantes que toute autre .
+Sans prétendre à une énumération rigoureuse, défiant toute critique , on peut, dans le développement intellectuel, distinguer les phases suivantes en ordre ascendant : les perceptions et les images (souvenirs) comme point de départ ; l'association par contiguïté, l'association par ressemblance ; puis la marche du connu vers l'inconnu, par le raisonnement du particulier au particulier, par le raisonne [p. 30] ment analogique , enfin parles formes parfaites de l'induction et de la déduction avec leurs modes . Toutes ces formes de raisonnement ont-elles un fonds commun, une unité de composition ; en d'autres termes , sont-elles réductibles à un seul type - induire suivant les uns, déduire suivant les autres ? Quoique cela soit fort probable, il n'est pas utile de discuter ici cette question . Bornons-nous aux formes élémentaires que les logiciens omettent ou dédaignent ordinairement, mais qui, pour la psychologie, sont des démarches de l'esprit aussi intéressantes que toute autre .
 
 Sans examiner si, comme le soutenait Stuart Mill, toute inférence est, en fait, du particulier au particulier
 
@@ -376,19 +280,11 @@ de même, le raisonnement du particulier au particulier implique quelque chose d
 
 ## conclusion dans l'ordre pratique, c'est une anticipation
 
-L'animal qui s'est brûlé en avalant quelque aliment qui fume , se tient désormais en garde devant tout ce qui émet de la fumée . Il y a là plus qu'une simple association entre deux expériences antérieures (fumée, brûlure) , et cet état << diffère de la simple suggestion associative , en ce que l'esprit est moins occupé du souvenir des brûlures passées
-
-[p. 31]
-
-que de l'attente d'une répétition du même fait dans le cas présent ; c'est-à-dire qu'il se rappelle moins le fait d'avoir été brûlé qu'il ne tire la conclusion qu'il sera brûlé [^p31-1] . » En d'autres termes, il est orienté moins vers le passé que vers l'avenir . Bien que cette tendance à croire que ce qui est arrivé une ou deux fois arrivera toujours, soit une ample source d'erreurs, elle n'en reste pas moins une opération logique (jugement ou raisonnement) qui contient un élément de plus que l'association : une inclusion du futur, une affirmation implicite qui s'exprime par un acte . Sans doute , entre ces deux processus - associer, inférer du particulier au particulier,
+L'animal qui s'est brûlé en avalant quelque aliment qui fume , se tient désormais en garde devant tout ce qui émet de la fumée . Il y a là plus qu'une simple association entre deux expériences antérieures (fumée, brûlure) , et cet état << diffère de la simple suggestion associative , en ce que l'esprit est moins occupé du souvenir des brûlures passées [p. 31] que de l'attente d'une répétition du même fait dans le cas présent ; c'est-à-dire qu'il se rappelle moins le fait d'avoir été brûlé qu'il ne tire la conclusion qu'il sera brûlé [^p31-1] . » En d'autres termes, il est orienté moins vers le passé que vers l'avenir . Bien que cette tendance à croire que ce qui est arrivé une ou deux fois arrivera toujours, soit une ample source d'erreurs, elle n'en reste pas moins une opération logique (jugement ou raisonnement) qui contient un élément de plus que l'association : une inclusion du futur, une affirmation implicite qui s'exprime par un acte . Sans doute , entre ces deux processus - associer, inférer du particulier au particulier,
 
 la différence est assez mince ; mais , dans une étude de genèse et d'évolution, ces formes de passage sont justement les plus importantes .
 
-Le raisonnement par analogie est d'un ordre bien supérieur. Il est le principal instrument logique de l'enfant et de l'homme primitif : base de l'extension du langage, des classifications vulgaires et pratiques, des mythes, des premières connaissances quasi scientifiques [^p31-2] . C'est une induction qui commence, et il en diffère non par sa forme , mais par sa matière qui est mal établie. « Deux choses se ressemblent par un ou plusieurs caractères ; une proposition donnée est vraie de l'une, donc elle est vraie de l'autre . A est analogue à B ; mest vrai de A, donc mest vrai de B. » Telle est la formule de Stuart Mill. L'animal ou
-
-[p. 32]
-
-l'enfant qui, maltraité par une personne, étend sa haine à toutes celles qui lui ressemblent, raisonne par analogie . Il est clair que ce procédé du connu à l'inconnu est à valeur variable , depuis zéro jusqu'au cas où il se confond avec l'induction parfaite .
+Le raisonnement par analogie est d'un ordre bien supérieur. Il est le principal instrument logique de l'enfant et de l'homme primitif : base de l'extension du langage, des classifications vulgaires et pratiques, des mythes, des premières connaissances quasi scientifiques [^p31-2] . C'est une induction qui commence, et il en diffère non par sa forme , mais par sa matière qui est mal établie. « Deux choses se ressemblent par un ou plusieurs caractères ; une proposition donnée est vraie de l'une, donc elle est vraie de l'autre . A est analogue à B ; mest vrai de A, donc mest vrai de B. » Telle est la formule de Stuart Mill. L'animal ou [p. 32] l'enfant qui, maltraité par une personne, étend sa haine à toutes celles qui lui ressemblent, raisonne par analogie . Il est clair que ce procédé du connu à l'inconnu est à valeur variable , depuis zéro jusqu'au cas où il se confond avec l'induction parfaite .
 
 Après ces remarques générales , revenons à la logique des animaux ou pour mieux dire , à la seule logique possible sans la parole . Elle n'est et ne peut être qu'une logique des images ( Romanes emploie une expression synonyme : logique des recepts) , qui est à la logique proprement dite, ce que les images génériques sont à l'abstraction et à la généralisation proprement dites . Cette dénomination est nécessaire ; elle en fait une catégorie à part, bien déterminée par l'absence du mot ;
 
@@ -402,11 +298,7 @@ Le procédé par analogie . Il suppose, au moins dans ses formes les plus hautes
 
 cas précités des fourmis
 
-creusant un tunnel , établissant un pont, etc. Dans leur vie ordinaire , elles ont la pratique de ces opé
-
-[p. 33]
-
-rations : leur mérite consiste à pouvoir les dissocier de leurs conditions habituelles , du milieu de leur fourmilière , pour les adapter à des cas nouveaux, à l'inconnu .
+creusant un tunnel , établissant un pont, etc. Dans leur vie ordinaire , elles ont la pratique de ces opé [p. 33] rations : leur mérite consiste à pouvoir les dissocier de leurs conditions habituelles , du milieu de leur fourmilière , pour les adapter à des cas nouveaux, à l'inconnu .
 
 La logique des images a des caractères qui lui sont exclusivement propres et qu'on peut résumer comme
 
@@ -422,11 +314,7 @@ RIBOT .
 
 Idées générales .
 
-3
-
-[p. 34]
-
-suis engagé dans la pratique de l'architecture et du génie civil , et je puis assurer que le projet et l'invention se font entièrement chez moi par des images mentales (mental pictures) . Je trouve que les mots sont plutôt un embarras ... et la meilleure preuve qu'ils le sont dans bien des cas , c'est qu'il a fallu trouver d'autres méthodes pour communiquer la connaissance ; par exemple, la méthode graphique en mécanique [^p34-1] . »
+3 [p. 34] suis engagé dans la pratique de l'architecture et du génie civil , et je puis assurer que le projet et l'invention se font entièrement chez moi par des images mentales (mental pictures) . Je trouve que les mots sont plutôt un embarras ... et la meilleure preuve qu'ils le sont dans bien des cas , c'est qu'il a fallu trouver d'autres méthodes pour communiquer la connaissance ; par exemple, la méthode graphique en mécanique [^p34-1] . »
 
 2º Elle a toujours un but pratique . Il ne faut pas oublier qu'à son origine , la faculté de connaître est essentiellement utilitaire et ne peut être autre, parce qu'elle est uniquement employée à la conservation de l'individu (trouver la nourriture , distinguer l'ennemi de la proie, etc.). Les animaux ne font que des raisonnements appliqués qu'ils essaient par l'expérience ; ils tâtonnent et choisissent entre plusieurs moyens celui que l'issue finale justifie ou infirme . A proprement parler, la logique des images n'esť ni vraie ni fausse ; ces épithètes ne lui conviennent qu'à moitié . Elle réussit ou elle échoue
 
@@ -434,27 +322,15 @@ ce qui la juge, c'est le succès ou l'insuccès ; et, puisque nous avons soutenu
 
 l'invention esthétique, remarquons qu'ici encore , il ne s'agit pas d'établir la vérité ou l'erreur , mais de créer une œuvre viable ou d'avorter .
 
-Ce n'est donc que par une prévention injustifiée qu'on a pu refuser aux animaux supérieurs toute opération qui dépasse l'association et toute aptitude à inférer d'après
-
-[p. 35]
-
-des ressemblances . W. James , après avoir posé comme règle (as a rule) que les meilleurs exemples de la sagacité animale « peuvent parfaitement s'expliquer par la seule association de contiguïté, fondée sur l'expérience » , arrive , en fait, à une conclusion qui ne diffère guère de la nôtre . Après avoir rappelé l'histoire connue des chiens arctiques attelés à un
+Ce n'est donc que par une prévention injustifiée qu'on a pu refuser aux animaux supérieurs toute opération qui dépasse l'association et toute aptitude à inférer d'après [p. 35] des ressemblances . W. James , après avoir posé comme règle (as a rule) que les meilleurs exemples de la sagacité animale « peuvent parfaitement s'expliquer par la seule association de contiguïté, fondée sur l'expérience » , arrive , en fait, à une conclusion qui ne diffère guère de la nôtre . Après avoir rappelé l'histoire connue des chiens arctiques attelés à un
 
 traîneau qui , dès que la glace craque , s'éloignent les uns des autres pour diminuer le poids , il l'explique ainsi : « Il nous suffit de supposer que chacun d'eux , individuellement, après le craquement, a senti sa peau mouillée , qu'ils ont souvent remarqué que ce craquement commence quand ils sont ensemble et cesse quand ils sont dispersés . » En admettant cette supposition , il n'en reste pas moins vrai que les associations par contiguïté ne sont que la matière qui sert de base à une inférence par similitude et à l'acte qui s'ensuit .
 
-Autre histoire . Un de ses amis , accompagné de son chien, se rend à son bateau et le trouve plein d'eau et de boue. Il s'aperçoit qu'il a laissé à la maison l'éponge qui sert à le nettoyer. Peu soucieux de faire un tiers de mille pour la chercher, à tout hasard et sans grand espoir, il simule devant son terrier tous les gestes nécessaires pour rapproprier le bateau, en lui criant : « L'éponge , l'éponge , va chercher l'éponge . » Le chien s'en va et, à la grande surprise de son maître , revient en la tenant dans sa gueule . Est-ce à proprement parler un raisonnement ? Il ne serait tel, dit W. James , que si le terrier, ne trouvant pas l'éponge, avait apporté un torchon ou une nappe . Par cette substitution , il aurait montré que , malgré les diversités d'apparence , il comprenait que, pour le but actuel, tous ces objets sont identiques . « Cette subs
-
-[p. 36]
-
-titution impossible pour le chien, tout homme même le plus stupide ne manquera pas de la faire . » Je n'en suis pas sûr , malgré l'assertion catégorique de l'auteur ; mais , sans la discuter, il faut avouer que c'est demander à un chien de raisonner comme un homme [^p36-1] . En définitive , et malgré des apparences contraires , James en arrive à une conclusion qui n'est pas bien différente de la nôtre . « Les caractères extraits par les animaux sont très peu nombreux et toujours en rapport avec leurs intérêts et émotions immédiats . » C'est ce que nous avons nommé plus haut le raisonnement pratique [^p36-2] .
+Autre histoire . Un de ses amis , accompagné de son chien, se rend à son bateau et le trouve plein d'eau et de boue. Il s'aperçoit qu'il a laissé à la maison l'éponge qui sert à le nettoyer. Peu soucieux de faire un tiers de mille pour la chercher, à tout hasard et sans grand espoir, il simule devant son terrier tous les gestes nécessaires pour rapproprier le bateau, en lui criant : « L'éponge , l'éponge , va chercher l'éponge . » Le chien s'en va et, à la grande surprise de son maître , revient en la tenant dans sa gueule . Est-ce à proprement parler un raisonnement ? Il ne serait tel, dit W. James , que si le terrier, ne trouvant pas l'éponge, avait apporté un torchon ou une nappe . Par cette substitution , il aurait montré que , malgré les diversités d'apparence , il comprenait que, pour le but actuel, tous ces objets sont identiques . « Cette subs [p. 36] titution impossible pour le chien, tout homme même le plus stupide ne manquera pas de la faire . » Je n'en suis pas sûr , malgré l'assertion catégorique de l'auteur ; mais , sans la discuter, il faut avouer que c'est demander à un chien de raisonner comme un homme [^p36-1] . En définitive , et malgré des apparences contraires , James en arrive à une conclusion qui n'est pas bien différente de la nôtre . « Les caractères extraits par les animaux sont très peu nombreux et toujours en rapport avec leurs intérêts et émotions immédiats . » C'est ce que nous avons nommé plus haut le raisonnement pratique [^p36-2] .
 
 G. Leroy disait
 
-: « Les animaux raisonnent, mais autrement que nous . » C'est là une position négative . Nous faisons un pas de plus en disant : leur raisonnement consiste en un enchaînement d'images concrètes ou génériques adapté à un but déterminé et dans le passage de ces repré-
-
-[p. 37]
-
-sentations à l'acte. Il est impossible de tout réduire à la seule association par ressemblance et surtout par contiguïté , puisque celle-ci a pour résultat nécessaire de créer des habitudes inébranlables , d'enfermer dans une routine étroite , et
+: « Les animaux raisonnent, mais autrement que nous . » C'est là une position négative . Nous faisons un pas de plus en disant : leur raisonnement consiste en un enchaînement d'images concrètes ou génériques adapté à un but déterminé et dans le passage de ces repré-[p. 37]sentations à l'acte. Il est impossible de tout réduire à la seule association par ressemblance et surtout par contiguïté , puisque celle-ci a pour résultat nécessaire de créer des habitudes inébranlables , d'enfermer dans une routine étroite , et
 
 que
 
@@ -476,21 +352,13 @@ Un problème posé à la fin du xvIe siècle (peut- être avant) et qui a divis�
 
 La thèse du particulier a été soutenue par Locke : « Les idées que les enfants se font des personnes avec qui ils conversent sont semblables aux personnes elles-mêmes et ne sont que particulières » et après lui par Condillac, A. Smith, D. Stewart et par la plupart des représentants de l'école dite sensualiste .
 
-La thèse du général compte des auteurs dont l'autorité
-
-[p. 39]
-
-n'est pas moindre , à commencer par Leibniz
+La thèse du général compte des auteurs dont l'autorité [p. 39] n'est pas moindre , à commencer par Leibniz
 
 « Les enfants et ceux qui savent mal la langue qu'ils veulent parler ou la matière dont ils parlent, se servent de termes généraux, comme chose , animal, plante, au lieu d'employer les termes propres qui leur manquent ; et il est sûr que tous les noms propres ou individuels ont été originairement appellatifs ou généraux [^p39-1] . »
 
 La psychologie contemporaine ne peut pas accepter le problème sous cette forme. Elle est équivoque. Son tort capital est d'appliquer à l'état embryonnaire de l'intelligence et du langage des formules qui ne conviennent que pour l'adulte ; à l'esprit en voie de formation , des catégories qui ne sont valables que pour un esprit formé. Un rapprochement avec la physiologie de l'embryon humain nous fera mieux comprendre . Avant trois mois, cet embryon a-t-il un nez, une bouche ? est- il mâle ou femelle ? etc. Ces demandes et d'autres analogues, ceux qui étudient le développement de la vie intra-utérine dans ses premières phases se gardent bien de les poser de cette manière ; parce qu'elles ne comportent pas de réponses nettes par oui ou par non . Ce qui est à l'état d'enveloppement et d'incessant devenir ne peut être assimilé que de loin à ce qui est développé et fixé .
 
-La seule formule convenable est celle-ci : L'esprit va de l'indéfini au défini. Si l'on fait indéfini synonyme de général, alors on peut soutenir que ce n'est pas le particulier qui apparaît au début, mais ce n'est pas non plus le général, au sens exact du terme ; c'est le vague. En d'autres termes ,
-
-[p. 40]
-
-dès que l'esprit dépasse le moment de la perception et de sa reproduction immédiate dans la mémoire , ce qui apparaît , c'est l'image générique, c'est-à-dire un état intermédiaire entre le particulier et le général , participant de la nature de l'un et de l'autre , - une simplification confuse .
+La seule formule convenable est celle-ci : L'esprit va de l'indéfini au défini. Si l'on fait indéfini synonyme de général, alors on peut soutenir que ce n'est pas le particulier qui apparaît au début, mais ce n'est pas non plus le général, au sens exact du terme ; c'est le vague. En d'autres termes , [p. 40] dès que l'esprit dépasse le moment de la perception et de sa reproduction immédiate dans la mémoire , ce qui apparaît , c'est l'image générique, c'est-à-dire un état intermédiaire entre le particulier et le général , participant de la nature de l'un et de l'autre , - une simplification confuse .
 
 On trouvera dans les ouvrages récents de psychologie infantile de nombreux exemples de ces abstractions et généralisations inférieures qui apparaissent très tôt [^p40-1] . II suffit d'en rappeler quelques-uns .
 
@@ -498,9 +366,7 @@ L'enfant de Preyer (âgé de trente et une semaines) s'intéressait exclusivemen
 
 : le son grossier accollé à un groupe d'objets, deviendra plus tard leur marque et plus tard un instrument de substitution . Sigismond ayant montré à son fils , âgé de moins d'un an et incapable de prononcer un mot, un coq de bruyère empaillé en disant « oiseau » , l'enfant regarda aussitôt de l'autre côté de la chambre où se trouvait une chouette également empaillée . Un autre , après avoir écouté de son oreille droite , puis de son oreille gauche, le tic-tac d'une montre , tendit joyeusement le bras vers la pendule placée sur la cheminée (image générique auditive , non vocale) .
 
-[p. 41]
-
-Sans multiplier des exemples que tout le monde connaît et qui démontrent péremptoirement l'existence de l'abstraction (dissociation partielle) et de la généralisation avant la parole , considérons plutôt la nature hétérogène de ces images génériques, résultat de leur mode de formation . Elles se constituent, en
+[p. 41] Sans multiplier des exemples que tout le monde connaît et qui démontrent péremptoirement l'existence de l'abstraction (dissociation partielle) et de la généralisation avant la parole , considérons plutôt la nature hétérogène de ces images génériques, résultat de leur mode de formation . Elles se constituent, en
 
 effet, d'une manière arbitraire , accidentelle ; parce qu'elles dépendent, d'une part, de l'appréhension de ressemblances grossières ; d'autre part et surtout , de causes subjectives, de dispositions émotionnelles , d'intérêt pratique . Rarement, elles ont pour base des qualités essentielles .
 
@@ -512,9 +378,7 @@ La petite fille de Taine (douze mois) , à qui on avait montré plusieurs fois u
 
 : Où est le bébé ? « elle se tourne vers les tableaux quels qu'ils soient , vers les gravures quelles qu'elles soient. Bébé signifie donc pour elle quelque chose de général : ce qu'il y a de commun pour elle entre tous ces tableaux, gravures de
 
-[p. 42]
-
-Darwin paysages et de figures , c'est-à-dire, si je ne me trompe, quelque chose de bariolé dans un cadre luisant .>>> a communiqué à Romanes l'observation suivante sur l'un de ses petits-fils
+[p. 42] Darwin paysages et de figures , c'est-à-dire, si je ne me trompe, quelque chose de bariolé dans un cadre luisant .>>> a communiqué à Romanes l'observation suivante sur l'un de ses petits-fils
 
 : « L'enfant commençant à parler appela les canards , couac, puis par une association spéciale, il appela aussi l'eau couac.
 
@@ -530,11 +394,7 @@ On pourrait multiplier les observations . Elles ne feraient que confirmer cette 
 
 : que l'image générique varie de l'un à l'autre, parce que la condensation des ressemblances qui la constituent dépend souvent d'une impression momentanée, des conditions les plus imprévues .
 
-Le développement de la numération chez l'enfant nous force à sortir quelque peu de la période prélinguistique ; mais il est préférable d'en parler en ce moment. D'abord, il faut bien distinguer ici entre ce qui est appris et ce qui est compris . L'enfant peut réciter une série de mots nu-
-
-[p. 43]
-
-mériques qu'on lui a fait apprendre ; mais , tant qu'il ne peut appliquer correctement chaque terme de la série à un nombre d'objets correspondants , il ne comprend pas . Or cette compréhension n'est acquise que lentement et assez tard .
+Le développement de la numération chez l'enfant nous force à sortir quelque peu de la période prélinguistique ; mais il est préférable d'en parler en ce moment. D'abord, il faut bien distinguer ici entre ce qui est appris et ce qui est compris . L'enfant peut réciter une série de mots nu-[p. 43]mériques qu'on lui a fait apprendre ; mais , tant qu'il ne peut appliquer correctement chaque terme de la série à un nombre d'objets correspondants , il ne comprend pas . Or cette compréhension n'est acquise que lentement et assez tard .
 
 << L'enfant ne fait d'abord la distinction qu'entre l'objet simple et la pluralité . A l'âge de dix-huit mois , il distingue entre un, deux et plusieurs . A trois ans ou un peu avant , il connaît un , deux et quatre (2 fois [^p43-2] . Ce n'est guère que plus tard qu'il compte la série régulière
 
@@ -550,25 +410,15 @@ intelligence moyenne, on observe qu'il faut l'âge de six à sept ans pour arriv
 
 » B. Pérez déclare que ses observations personnelles ne lui ont fourni aucune indication contraire aux assertions de Houzeau . Un enfant de deux ans et demi , intelligent, savait compter jusqu'à 19, mais il n'avait pas une idée nette de la durée représentée par trois jours ; il fallait lui faire la traduction suivante : Non demain, mais demain et encore demain (2) .
 
-[p. 44]
-
-Ceci nous ramène à la question débattue plus haut de la prétendue numération des animaux . Preyer nous dit d'un de ses enfants « qu'il était impossible d'emporter une seule de ses neuf quilles sans qu'il s'en aperçut, et à dix-huit mois , il savait parfaitement bien s'il lui manquait un de ses dix animaux ou non. » Mais ce fait ne prouve nullement qu'il fut apte à compter jusqu'à neuf ou dix . Il est tout différent d'avoir la représentation de plusieurs objets , de constater qu'il y en a un qui est absent , qui n'est pas perçu et d'être capable de les compter numériquement . Si j'ai sur les rayons d'une bibliothèque plusieurs ouvrages parfaitement connus de moi, je peux voir que tel ou tel manque , sans rien savoir du nombre total des livres de ce rayon . C'est une juxtaposition d'images
+[p. 44] Ceci nous ramène à la question débattue plus haut de la prétendue numération des animaux . Preyer nous dit d'un de ses enfants « qu'il était impossible d'emporter une seule de ses neuf quilles sans qu'il s'en aperçut, et à dix-huit mois , il savait parfaitement bien s'il lui manquait un de ses dix animaux ou non. » Mais ce fait ne prouve nullement qu'il fut apte à compter jusqu'à neuf ou dix . Il est tout différent d'avoir la représentation de plusieurs objets , de constater qu'il y en a un qui est absent , qui n'est pas perçu et d'être capable de les compter numériquement . Si j'ai sur les rayons d'une bibliothèque plusieurs ouvrages parfaitement connus de moi, je peux voir que tel ou tel manque , sans rien savoir du nombre total des livres de ce rayon . C'est une juxtaposition d'images
 
 (visuelles ou tactiles ) dans laquelle une lacune se produit .
 
-Au reste , des expériences ingénieuses de Binet éclairent singulièrement cette question. Je résume leurs principaux résultats [^p44-1] . Une petite fille de quatre ans ne sait ni lire ni compter ; elle a appris seulement quelques noms de chiffres et elle les applique exactement à 1 , 2 ou 3 objets ; au delà elle dénomme au hasard, par exemple 6 ou 12 , indifféremment pour quatre objets . Si l'on dispose sur une table un groupe de 15 jetons et un autre groupe de 18 jetons de même grandeur, sans les disposer en tas , elle reconnaît rapidement le groupe le plus nombreux . On modifie les deux groupes, en augmentant tantôt à droite , tantôt à gauche , toujours de telle sorte que le rapport 14 à 18 reste le même . Sur six essais , la réponse est tou-
-
-[p. 45]
-
-jours exacte . Avec le rapport 17 à 18 , la réponse est juste huit fois , fausse une fois .- Mais , si l'on forme les groupes avec des jetons de diamètre inégaux , tout change . Les uns (verts) mesurent quatre centimètres , les autres (blancs) mesurent deux centimètres et demi . On met d'une part 18 jetons verts , d'autre part 14 jetons blancs . Erreur constante de l'enfant qui trouve le dernier groupe plus nombreux , et l'on peut même, sans qu'il change d'avis, diminuer progressivement le groupe de 14 jusqu'à 10. C'est à 9 seulement que le groupe des 18 jetons verts parut plus nombreux .
+Au reste , des expériences ingénieuses de Binet éclairent singulièrement cette question. Je résume leurs principaux résultats [^p44-1] . Une petite fille de quatre ans ne sait ni lire ni compter ; elle a appris seulement quelques noms de chiffres et elle les applique exactement à 1 , 2 ou 3 objets ; au delà elle dénomme au hasard, par exemple 6 ou 12 , indifféremment pour quatre objets . Si l'on dispose sur une table un groupe de 15 jetons et un autre groupe de 18 jetons de même grandeur, sans les disposer en tas , elle reconnaît rapidement le groupe le plus nombreux . On modifie les deux groupes, en augmentant tantôt à droite , tantôt à gauche , toujours de telle sorte que le rapport 14 à 18 reste le même . Sur six essais , la réponse est tou-[p. 45]jours exacte . Avec le rapport 17 à 18 , la réponse est juste huit fois , fausse une fois .- Mais , si l'on forme les groupes avec des jetons de diamètre inégaux , tout change . Les uns (verts) mesurent quatre centimètres , les autres (blancs) mesurent deux centimètres et demi . On met d'une part 18 jetons verts , d'autre part 14 jetons blancs . Erreur constante de l'enfant qui trouve le dernier groupe plus nombreux , et l'on peut même, sans qu'il change d'avis, diminuer progressivement le groupe de 14 jusqu'à 10. C'est à 9 seulement que le groupe des 18 jetons verts parut plus nombreux .
 
 Ce fait ne peut s'expliquer qu'en admettant que l'enfant apprécie d'après l'étendue , non d'après le nombre , d'après la perception de la grandeur continue et non d'après celle de la grandeur discontinue : ce qui s'accorde avec d'autres expériences du même auteur montrant que, dans la comparaison des lignes , les enfants apprécient bien les différences de longueur . A ce stade intellectuel , la numération est donc très pauvre, renfermée dans des limites très étroites . Dès qu'on les dépasse , la distribution entre le moins et le plus repose non sur une numération réelle, mais sur une différence de masse sentie dans la conscience .
 
-Le raisonnement avant la parole est, comme chez les animaux , pratique mais bien adapté à son but. Il n'est guère d'enfant observé avec quelque soin qui n'en donne des preuves . A dix-sept mois , le fils de Preyer qui ne proférait pas un seul mot, étant incapable d'atteindre un jouet placé trop haut pour lui dans une armoire, chercha à droite et à gauche , trouva une petite malle de voyage , la prit, monta dessus et s'empara de l'objet convoité. Si l'on
-
-[p. 46]
-
-attribuait cet acte à l'imitation (quoique Preyer ne le dise pas ) ,
+Le raisonnement avant la parole est, comme chez les animaux , pratique mais bien adapté à son but. Il n'est guère d'enfant observé avec quelque soin qui n'en donne des preuves . A dix-sept mois , le fils de Preyer qui ne proférait pas un seul mot, étant incapable d'atteindre un jouet placé trop haut pour lui dans une armoire, chercha à droite et à gauche , trouva une petite malle de voyage , la prit, monta dessus et s'empara de l'objet convoité. Si l'on [p. 46] attribuait cet acte à l'imitation (quoique Preyer ne le dise pas ) ,
 
 il faudrait concéder que cette imitation est d'une nature particulière, nullement assimilable à la copie servile , à la répétition pure et simple, et qu'elle contient une part d'invention .
 
@@ -608,11 +458,7 @@ Dans notre étude sur le développement intellectuel avant la parole , les sourd
 
 Leur niveau intellectuel est fort bas (nous y reviendrons plus loin) ; mais on l'a encore exagéré, surtout au dernier siècle, en vertu du prétendu axiome : que l'on ne peut penser sans mots .
 
-Il n'y a nul besoin de discuter cet
-
-[p. 48]
-
-antique aphorisme qui, sous sa forme rigoureuse , ne compte plus , je pense, de défenseurs marquants (1) . Penser étant synonyme de comparer, abstraire , généraliser, juger , raisonner, c'est-à-dire dépasser à un degré quelconque la vie purement sensorielle et affective , la question véritable n'est pas
+Il n'y a nul besoin de discuter cet [p. 48] antique aphorisme qui, sous sa forme rigoureuse , ne compte plus , je pense, de défenseurs marquants (1) . Penser étant synonyme de comparer, abstraire , généraliser, juger , raisonner, c'est-à-dire dépasser à un degré quelconque la vie purement sensorielle et affective , la question véritable n'est pas
 
 : Pense-t-on sans mots ? mais : Dans quelle mesure peut-on penser sans mots ? En d'autres termes ,
 
@@ -636,9 +482,7 @@ Müller
 
 rétrécit illégitimement la question , en excluant tous les processus antérieurs à la formation des concepts ; que nous pouvons penser par images ; quele passage d'une forme à l'autre est imperceptible et que la faculté d'abstraction n'apparaît pas brusquement avec les signes . - En revanche, on ne peut admettre comme démonstratifs des faits invoqués par d'autres correspondants, par exemple les joueurs d'échecs qui combinent et calculent à l'aide des seules images visuelles ; la réponse à une lettre, entrevue d'abord comme plan général avant d'être développée en mots , etc. , etc. On oublie que les gens capables de ces opérations , ayant un long usage de l'analyse par la parole, ont acquis de ce fait un haut développement intellectuel . Ainsi, dans l'ordre physique, le gymnaste exercé, même lorsqu'il n'exécute aucune prouesse, possède une souplesse, une agilité de corps , qu'il doit à l'exercice et qui se traduit dans tous ses mouvements .
 
-[p. 49]
-
-muets adultes . Encore faut-il remarquer que , même dans ce cas , la pensée sans mots ne donne pas sa pleine mesure ; le sourd-muet qu'on laisse sans culture et qui vit avec des hommes usant de la parole est dans une situation moins avantageuse que s'il formait une société avec ses congénères . Gérando remarquait, -et d'autres l'ont fait depuis ,
+[p. 49] muets adultes . Encore faut-il remarquer que , même dans ce cas , la pensée sans mots ne donne pas sa pleine mesure ; le sourd-muet qu'on laisse sans culture et qui vit avec des hommes usant de la parole est dans une situation moins avantageuse que s'il formait une société avec ses congénères . Gérando remarquait, -et d'autres l'ont fait depuis ,
 
 que les sourds-muets à l'état natif, mis en présence les uns des autres, se comprennent facilement . Il a dénombré une longue série de notions qu'ils manifestent par leur mimique et leurs gestes , et beaucoup de ces expressions sont identiques dans tous les pays .
 
@@ -658,11 +502,7 @@ RIBOT .
 
 Idées générales .
 
-4
-
-[p. 50]
-
-vivant isolément ou avec leurs semblables [^p50-1] . J'en donne quelques-uns comme exemples
+4 [p. 50] vivant isolément ou avec leurs semblables [^p50-1] . J'en donne quelques-uns comme exemples
 
 Enfant. Le signe de petit, ou d'allaiter, ou de porter , ou de bercer .
 
@@ -682,11 +522,7 @@ Lettre (missive) . Gestes d'écrire et de cacheter, ou de décacheter et de lire
 
 Le singe , le coq, les divers métiers (menuisier, cordonnier, etc.) , sont désignés par des gestes imitatifs . Pour dormir, être malade , bien portant, etc. , ils emploient la mimique appropriée .
 
-Pour interroger : exprimer deux propositions contradictoires et regarder d'un air indécis la personne à qui on
-
-[p. 51]
-
-s'adresse . Ceci est plutôt un cas de syntaxe que de vocabulaire ; mais j'indique encore quelques signes pour des notions plus abstraites que celles qui précèdent .
+Pour interroger : exprimer deux propositions contradictoires et regarder d'un air indécis la personne à qui on [p. 51] s'adresse . Ceci est plutôt un cas de syntaxe que de vocabulaire ; mais j'indique encore quelques signes pour des notions plus abstraites que celles qui précèdent .
 
 Grand. Élever la main et regarder en haut.
 
@@ -710,11 +546,7 @@ Passé. Jeter la main par-dessus l'épaule à plusieurs reprises (geste universe
 
 Futur. Indiquer de la main un objet éloigné, faire plusieurs fois le simulacre de se mettre au lit et de se relever.
 
-Le lecteur n'a pas besoin de beaucoup de réflexion pour voir que tous ces signes, en même temps qu'ils sont des imitations, sont aussi des abstractions . Parmi les divers caractères d'un objet, le sourd-muet en choisit un qu'il simule par un geste et qui représente l'objet total. En cela , il procède exactement comme l'homme qui parle . La différence est qu'il fixe l'extrait par une attitude du corps au lieu de le fixer par un mot. L'Aryen primitif, qui dénommait le cheval, le soleil, la lune, etc., le rapide, le brillant , le mesureur [des mois] n'agissait pas autrement ; pour lui
-
-[p. 52]
-
-aussi , un caractère choisi représentait l'objet total. Il ya identité foncière dans les deux cas ; etcela justifie ce qui a été dit plus haut
+Le lecteur n'a pas besoin de beaucoup de réflexion pour voir que tous ces signes, en même temps qu'ils sont des imitations, sont aussi des abstractions . Parmi les divers caractères d'un objet, le sourd-muet en choisit un qu'il simule par un geste et qui représente l'objet total. En cela , il procède exactement comme l'homme qui parle . La différence est qu'il fixe l'extrait par une attitude du corps au lieu de le fixer par un mot. L'Aryen primitif, qui dénommait le cheval, le soleil, la lune, etc., le rapide, le brillant , le mesureur [des mois] n'agissait pas autrement ; pour lui [p. 52] aussi , un caractère choisi représentait l'objet total. Il ya identité foncière dans les deux cas ; etcela justifie ce qui a été dit plus haut
 
 : l'abstraction est une opération nécessaire de l'esprit, au moins chez l'homme ; il doit abstraire , parce qu'il doit simplifier .
 
@@ -736,9 +568,7 @@ verbe, etc. Les termes (les gestes) empruntent leur valeur grammaticale à la pl
 
 3º Le sujet vient avant l'attribut, l'objet (le complément) avantl'action et, le plus souvent, le modifié avant le modifiant .
 
-[p. 53]
-
-Quelques exemples feront mieux comprendre les procédés ordinaires de cette syntaxe . Pour exprimer cette proposition
+[p. 53] Quelques exemples feront mieux comprendre les procédés ordinaires de cette syntaxe . Pour exprimer cette proposition
 
 : Après avoir couru, je me suis endormi ; l'ordre des gestes sera : courir, moi, fini, dormir.
 
@@ -750,11 +580,7 @@ L'abbé Sicard, ayant demandé à un sourd-muet : Qui créa Dieu ? obtint cette 
 
 Le caractère secet nu de cette syntaxe est évident ; les termes sont juxtaposés sans rapports ; elle n'exprime que le strict nécessaire ; elle est le décalque d'une pensée fruste et sans nuance . Puisque nous essayons de fixer, avec son aide , un niveau intellectuel, il n'est pas sans intérêt de la rapprocher d'une syntaxe fréquente chez les faibles d'esprits . « Ceux-ci ne déclinent, et ne conjuguent plus ; ils se servent d'un substantif vague, de l'infinitif seul ou du participe passé ; ils omettent les articles , les conjonctions , les verbes auxiliaires , ils rejettent les prépositions , emploient des noms au lieu de pronoms ; ils se désignent eux-mêmes par « père » , « mère » , « Charles » , ou les autres par des substantifs indéterminés , tels que : homme , femme , sœur, docteur, etc. ; ils
 
-intervertissent l'ordre régulier des substantifs et des adjectifs [^p53-1] » . Bien qu'il
-
-[p. 54]
-
-s'agisse ici d'une régression mentale, qui n'est pas rigoureusement comparable au cas d'un esprit sain mais peu développé, la ressemblance extrême des deux syntaxes et surtout l'absence de toute expression de rapports méritait d'être signalée, parce qu'elles ne peuvent résulter d'une coïncidence
+intervertissent l'ordre régulier des substantifs et des adjectifs [^p53-1] » . Bien qu'il [p. 54] s'agisse ici d'une régression mentale, qui n'est pas rigoureusement comparable au cas d'un esprit sain mais peu développé, la ressemblance extrême des deux syntaxes et surtout l'absence de toute expression de rapports méritait d'être signalée, parce qu'elles ne peuvent résulter d'une coïncidence
 
 toute fortuite. Elles sont la marque d'une infériorité
 
@@ -764,11 +590,7 @@ relative dans la pensée .
 
 Il y a peu de chose à dire de la numération des sourdsmuets. Non dressés, ils peuvent compter jusqu'à dix à l'aide de leur doigts, comme beaucoup de peuples primitifs . Au delà (d'après Sicard et Gérando) ils se servent d'entailles faites sur un morceau de bois ou de quelque autre marque visible .
 
-En somme, leur faiblesse mentale , reconnue dès l'antiquité par Aristote, par la loi romaine qui les dépossédait d'une partie de leurs droits civils, plus tard par beaucoup de philosophes qui leur refusent jusqu'à la mémoire , vient de leur inaptitude à dépasser les formes inférieures de l'abstraction et des opérations connexes . Pour les événements de la vie ordinaire, dans le domaine du concret (en tenant compte, ce qu'on ne fait pas toujours, des variétés individuelles , car les uns naissent intelligents et d'autres stupides) les sourds-muets peuvent assez bien saisir la liaison pratique des choses complexes et la comprendre [^p54-1] . Mais le monde des concepts supérieurs , moraux, reli-
-
-[p. 55]
-
-gieux , cosmologiques , métaphysiques, leur reste fermé . Sur ce point, les observations
+En somme, leur faiblesse mentale , reconnue dès l'antiquité par Aristote, par la loi romaine qui les dépossédait d'une partie de leurs droits civils, plus tard par beaucoup de philosophes qui leur refusent jusqu'à la mémoire , vient de leur inaptitude à dépasser les formes inférieures de l'abstraction et des opérations connexes . Pour les événements de la vie ordinaire, dans le domaine du concret (en tenant compte, ce qu'on ne fait pas toujours, des variétés individuelles , car les uns naissent intelligents et d'autres stupides) les sourds-muets peuvent assez bien saisir la liaison pratique des choses complexes et la comprendre [^p54-1] . Mais le monde des concepts supérieurs , moraux, reli-[p. 55]gieux , cosmologiques , métaphysiques, leur reste fermé . Sur ce point, les observations
 
 abondent,
 
@@ -788,9 +610,7 @@ procédés convenables, il fit savoir
 
 que son père avait un moulin dont il décrivit exactement la maison et les environs ; que, sa mère et sa sœur étant mortes , son père se remaria, que sa belle-mère le maltraitait et qu'il combina une évasion qui réussit . Il indiqua la direction du moulin, à l'est de Prague . Onfit des recherches, et toutes ses assertions se vérifièrent.
 
-[p. 56]
-
-une pièce d'or. Quoiqu'il n'en connût pas la valeur, fut pris de scrupules, il sentit « que ce n'était pas pour un pauvre comme lui et qu'il avait volé trop » . Il s'en débarrassa comme il put, pour ne jamais recommencer .
+[p. 56] une pièce d'or. Quoiqu'il n'en connût pas la valeur, fut pris de scrupules, il sentit « que ce n'était pas pour un pauvre comme lui et qu'il avait volé trop » . Il s'en débarrassa comme il put, pour ne jamais recommencer .
 
 L'autre autobiographie , dont j'extrais quelques courts passages , peut être prise comme type du sourd-muet intelligent et chercheur. Il ne fut placé dans une institution qu'à l'âge de onze ans . Durant son enfance, il accompagnait son père dans ses longues courses , et sa curiosité s'éveillait sur l'origine des choses : des animaux et végétaux, de la terre, du soleil , de la lune, des étoiles (vers huit ou neuf ans) . Il commença à comprendre (dès cinq ans) coniment les enfants descendaient des parents et comment les animaux se propageaient, Peut-être telle fut l'origine de cette question qu'il se posait : d'où viennent le premier homme,
 
@@ -798,11 +618,7 @@ le premier animal,
 
 la première plante , etc. ? II supposa d'abord que le premier homme était né d'un vieux tronc d'arbre , puis il rejeta cette hypohèse comme absurde ; puis il chercha en diverses voies sans trouver . Il respectait le soleil et la lune, croyait qu'ils rentraient sous la terre à l'ouest et la traversaient le long d'un grand tuyau pour reparaître à l'est, etc. Un jour, entendant de violents coups de tonnerre, il interrogea son frère qui lui montra le ciel, en simulant le zigzag de l'éclair avec son doigt ; il en conclut à l'existence d'un géant céleste dont le tonnerre était la voix .
 
-Si puériles qu'elles soient, ces conceptions cosmogoniques et théologiques sont-elles inférieures à celles des aborigènes de l'Océanie et des régions sauvages de l'Amé
-
-[p. 57]
-
-rique du Sud, qui, pourtant, ont un idiome vocal, une langue rudimentaire ?
+Si puériles qu'elles soient, ces conceptions cosmogoniques et théologiques sont-elles inférieures à celles des aborigènes de l'Océanie et des régions sauvages de l'Amé [p. 57] rique du Sud, qui, pourtant, ont un idiome vocal, une langue rudimentaire ?
 
 En résumé, ce qui domine chez les mieux doués , c'est l'imagination créatrice : elle est le point culminant de leur développement intellectuel. Leur curiosité primitive ne paraît pas inférieure à celle de la moyenne des hommes ; mais , ne pouvant dépasser la représentation parimages, ils manquent d'un instrument qui permette la marche progressive de l'esprit .
 
@@ -830,17 +646,11 @@ qu'ils entendent, sans le comprendre ;
 
 6º Gestes qui répondent à des conceptions rationnelles et sont des manifestations extérieures , mais non vocales , du verbum mentale .
 
-[p. 59]
-
-Ce dernier groupe, qui seul nous occupe en ce moment, serait, à mon avis , convenablement désigné par le terme de gestes analytiques, en opposition aux gestes synthétiques qui manifestent les divers modes de la vie affective et constituent ce qu'on appelle l'expression des émotions .
+[p. 59] Ce dernier groupe, qui seul nous occupe en ce moment, serait, à mon avis , convenablement désigné par le terme de gestes analytiques, en opposition aux gestes synthétiques qui manifestent les divers modes de la vie affective et constituent ce qu'on appelle l'expression des émotions .
 
 Ce langage de gestes, intellectuel et non émotionnel , qui traduit des idées , non des sentiments, est plus répandu qu'on ne le croit chez les peuples primitifs . Il a été observé en des régions très distinctes de notre globe : chez les indigènes du nord et du sud de l'Amérique , chez les Boschimans , etc. Il est un moyen de communication entre des tribus qui ne parlent pas la même langue ; souvent même il est un auxiliaire indispensable pour ces idiomes indigents . Le travail le plus considérable qui existe sur ce sujet est dû au colonel américain Mallery, qui , avec une patience infatigable , a recueilli et interprété les gestes en usage chez les Indiens de l'Amérique du Nord [^p59-1]. Cet ouvrage seul peut révéler la variété de ce langage qui, à la vérité, ne sort guère des choses pratiques : description de pays parcourus , renseignements pour les voyageurs , directions à suivre, distances, temps nécessaire pour les étapes , mœurs, habitudes et dispositions des tribus . J'en donne un exemple court, emprunté à un autre auteur :
 
-<< Rencontrant un Indien, je désirais lui demander s'il avait vu six voitures traînées par des bœufs et accompa-
-
-[p. 60]
-
-gnées de six conducteurs, dont trois Mexicains et trois Américains , et d'un homme à cheval.
+<< Rencontrant un Indien, je désirais lui demander s'il avait vu six voitures traînées par des bœufs et accompa-[p. 60]gnées de six conducteurs, dont trois Mexicains et trois Américains , et d'un homme à cheval.
 
 << Je fais les signes suivants
 
@@ -848,11 +658,7 @@ gnées de six conducteurs, dont trois Mexicains et trois Américains , et d'un h
 
 trois Mexicains , trois Américains , un homme à cheval ? >> Il ne faut guère plus de temps pour ces signes que pour faire la question verbalement [^p60-1] . »
 
-Le langage des gestes, dit Tylor, est en substance le même sur toute la surface du globe, et cette assertion est confirmée par tous ceux qui l'ont pratiqué et étudié . Sa
-
-[p. 61]
-
-syntaxe étant semblable à celle des sourds-muets, il est inutile d'y revenir. La parabole de l'Enfant prodigue a été traduite par Mallery en gestes analytiques ; puis , de cette langue , traduite derechef dans la langue parlée. « Autrefois un homme avait deux fils = Autrefois, homme un , fils deux, etc. , etc. » La comparaison des deux textes est instructive : dans l'un , la pensée se déploie dans son mouvement d'analyse complète avec rapports et nuances ; dans l'autre ,
+Le langage des gestes, dit Tylor, est en substance le même sur toute la surface du globe, et cette assertion est confirmée par tous ceux qui l'ont pratiqué et étudié . Sa [p. 61] syntaxe étant semblable à celle des sourds-muets, il est inutile d'y revenir. La parabole de l'Enfant prodigue a été traduite par Mallery en gestes analytiques ; puis , de cette langue , traduite derechef dans la langue parlée. « Autrefois un homme avait deux fils = Autrefois, homme un , fils deux, etc. , etc. » La comparaison des deux textes est instructive : dans l'un , la pensée se déploie dans son mouvement d'analyse complète avec rapports et nuances ; dans l'autre ,
 
 elle ressemble à un alignement de blocs mal équarris et juxtaposés sans ciment .
 
@@ -864,21 +670,13 @@ assez grand nombre d'exemples [^p61-1] , en faisant remarquer que les « gestes 
 
 Le langage des gestes analytiques est donc un substitut du langage parlé , et ceci nous conduit à une question qui , bien que purement spéculative , mérite de nous arrêter un instant .
 
-A une époque où il était admis , à peu près sans contes-
-
-[p. 62]
-
-tation , que l'homme ne peut penser qu'à l'aide des mots , Dugald Stewart [^p62-1] osait écrire : « Si les hommes avaient été privés des organes de la voix ou du sens de l'ouïe , il n'y a pas de doute qu'ils auraient songé à exprimer, par le moyen d'un alphabet de signes visibles toutes leurs idées
+A une époque où il était admis , à peu près sans contes-[p. 62]tation , que l'homme ne peut penser qu'à l'aide des mots , Dugald Stewart [^p62-1] osait écrire : « Si les hommes avaient été privés des organes de la voix ou du sens de l'ouïe , il n'y a pas de doute qu'ils auraient songé à exprimer, par le moyen d'un alphabet de signes visibles toutes leurs idées
 
 et tous leurs sentiments . » Cette assertion n'est pas une témérité ; nous venons d'en voir les preuves . Mais ce langage-pantomime était-il susceptible de progrès ?
 
 On ne peut guère douter que, si l'humanité , avec la constitution cérébrale qui lui est propre, avait été néanmoins incapable de parler, la langue des gestes analytiques par l'initiative de quelques inventeurs , sous la pression du besoin, par l'influence de la coopération et de la vie en commun, serait sortie de la phase imparfaite où elle est restée , et on ne peut dire ce qu'elle serait devenue par l'effort accumulé des siècles. La parole , elle aussi, a traversé une période embryonnaire , et le langage oral s'est développé lentement, péniblement. Toutefois , il est exagéré de dire « que c'est presque un hasard que le langage phonétique ait pris une importance si extraordinaire , et qu'il n'est pas douteux que le langage mimique , s'il avait été façonné pendant des temps séculaires par les rapports sociaux, serait à peine inférieur à la parole en force, facilité, variété [^p62-2] . » En fait, l'homme, à l'origine, avait les deux langues à sa disposition ; il usait de l'une et de l'autre concurremment, simultanément. Elles s'entr'aidaient
 
-dans le développement d'une pensée encore chaotique et vacil-
-
-[p. 63]
-
-lante . En fait aussi, la parole a prévalu ; la langue des gestes n'est restée que comme survivance ou suppléance . Ceci n'est pas fortuit ; la parole a vaincu parce qu'elle valait mieux .
+dans le développement d'une pensée encore chaotique et vacil-[p. 63]lante . En fait aussi, la parole a prévalu ; la langue des gestes n'est restée que comme survivance ou suppléance . Ceci n'est pas fortuit ; la parole a vaincu parce qu'elle valait mieux .
 
 D'abord pour des raisons pratiques ; et c'est le facteur capital , puisqu'il s'agit avant tout de communiquer avec les autres hommes . Le langage des gestes , outre qu'il monopolise les mains et les empêche de vaquer à un autre travail , a le grand désavantage de ne pas porter loin
 
@@ -892,9 +690,7 @@ semble un passage de l'imitation pure au symbolisme , un premier pas dans la voi
 
 La parole , au contraire, se transmet au loin et brave les ténèbres . Elle dépend de l'oreille, organe dont les sensations sont infiniment nombreuses et nuancées et, dans l'expression la plus fine des sentiments et des idées, elle participe à sa richesse . Elle est susceptible d'une variété, d'une délicatesse, d'une complexité extrêmes de mouvements dans un petit espace , avec très peu d'effort . Je ne fais valoir, pour le moment, que les raisons physiologiques . Cependant elles suffisent à montrer que son triomphe n'a pas été un hasard , mais un cas de la suprématie naturelle du plus apte [^p63-1] .
 
-[p. 64]
-
-En terminant, il est inutile de rien ajouter sur les images génériques et sur la logique des images . Leur rôle considérable chez les enfants et les sourds-muets témoigne de leur extension et de leur importance comme formes inférieures de l'abstraction, mais sans rien changer à leur nature essentielle qui a été déterminée précédemment .
+[p. 64] En terminant, il est inutile de rien ajouter sur les images génériques et sur la logique des images . Leur rôle considérable chez les enfants et les sourds-muets témoigne de leur extension et de leur importance comme formes inférieures de l'abstraction, mais sans rien changer à leur nature essentielle qui a été déterminée précédemment .
 
 1º elle isole les termes ; 2º elle les dispose dans un certain ordre ; 3 ° elle traduit la pensée sous une forme grossière et assez vague. On en trouvera de curieux exemples dans le livre de Max Müller : Chips from a german Workshop , XIV . Ainsi les indigènes des
 
@@ -904,9 +700,7 @@ envoyèrent à un capitaine espagnol une lettre ainsi conçue . En haut, un homm
 
 qu'ils offrent : cinq gros coquillages , sept petits, trois autres de formes différentes . A droite et en face, le dessin des objets qu'ils demandent en échange : trois gros hameçons , quatre petits, deux haches et deux morceaux de fer .
 
-[p. 65]
-
-CHAPITRE
+[p. 65] CHAPITRE
 
 #### II
 
@@ -926,27 +720,19 @@ RIBOT .
 
 Idées générales .
 
-5
-
-[p. 66]
-
-thèse évolutionniste. On ne doit pas oublier, en effet, que le problème de l'origine de la parole n'est qu'un cas particulier de l'origine du langage en général ; la parole n'étant qu'une espèce, entre plusieurs autres , de la facultas signatrix qui ne peut se manifester chez les animaux que sous sa forme la plus humble .
+5 [p. 66] thèse évolutionniste. On ne doit pas oublier, en effet, que le problème de l'origine de la parole n'est qu'un cas particulier de l'origine du langage en général ; la parole n'étant qu'une espèce, entre plusieurs autres , de la facultas signatrix qui ne peut se manifester chez les animaux que sous sa forme la plus humble .
 
 Que la douleur, la joie, l'amour, l'impatience et d'autres états émotionnels se traduisent par des signes propres et faciles à constater, cela ne fait aucun doute ; mais notre problème est tout autre ; il s'agit des signes de la vie intellectuelle, non de la vie affective
 
-: en d'autres termes , quelques animaux peuvent-ils transmettre à leurs semblables un avertissement, un ordre, les requérir pour un acte coopératif et se faire comprendre ? Quoique l'interprétation reste nécessairement exposée au soupçon d'anthropomorphisme, il est difficile de ne pas reconnaître une sorte de langage dans certains actes de la vie animale. A priori est-il vraisemblable que les animaux, qui forment des sociétés stables et bien organisées, soient dénués de tout moyen de communiquer entre eux et de se comprendre ?
+: en d'autres termes , quelques animaux peuvent-ils transmettre à leurs semblables un avertissement, un ordre, les requérir pour un acte coopératif et se faire comprendre ? Quoique l'interprétation reste nécessairement exposée au soupçon d'anthropomorphisme, il est difficile de ne pas reconnaître une sorte de langage dans certains actes de la vie animale. *A priori* est-il vraisemblable que les animaux, qui forment des sociétés stables et bien organisées, soient dénués de tout moyen de communiquer entre eux et de se comprendre ?
 
 Pour les fourmis , des observateurs, tels Kirby et Spencer, Burmeister, Huber, Franklin, affirment qu'elles usent d'un système de signes. Afin d'élucider ce point, Lubbock a institué de nombreuses et patientes expériences dont j'indique quelques-unes [^p66-1] . Il pique à l'aide d'une épingle une mouche morte de manière qu'une fourmi ne puisse l'emporter. Celle qui s'y attaqua la première fit de vains efforts pour la détacher ; elle alla à la fourmilière en
 
-[p. 67]
-
-LA PAROLE chercher sept autres pour l'aider ; mais elle les devança imprudemment. Celles-ci , « qui paraissaient à moitié éveillées » , perdirent la trace et tâtonnèrent (pendant vingt minutes . La première retourna au nid et revint avec un contingent de huit qui , dès qu'elles furent éloignées de leur guide , revinrenten arrière . Pendant ce temps la bande des sept (quelques-unes du moins) découvrit la mouche qui fut dépecée en commun et emportée au nid. Cette expérience répétée plusieurs fois , avec diverses espèces , donna toujours le même résultat . Lubbock en conclut que les fourmis peuvent communiquer leurs découvertes , mais sans pouvoir indiquer le lieu .
+[p. 67] LA PAROLE chercher sept autres pour l'aider ; mais elle les devança imprudemment. Celles-ci , « qui paraissaient à moitié éveillées » , perdirent la trace et tâtonnèrent (pendant vingt minutes . La première retourna au nid et revint avec un contingent de huit qui , dès qu'elles furent éloignées de leur guide , revinrenten arrière . Pendant ce temps la bande des sept (quelques-unes du moins) découvrit la mouche qui fut dépecée en commun et emportée au nid. Cette expérience répétée plusieurs fois , avec diverses espèces , donna toujours le même résultat . Lubbock en conclut que les fourmis peuvent communiquer leurs découvertes , mais sans pouvoir indiquer le lieu .
 
 Dans une autre expérience , il dispose à trente pouces d'une fourmilière trois verres : l'un contient 3 ou 4 larves , l'autre 300 à 600, l'autre est vide ; il les relie au nid par trois rubans parallèles et met une fourmi dans chacun des verres à larves . Chacune retourna au nid emportant sa larve , puis revint et ainsi de suite . (Après chaque voyage dans le verre à 4 larves, Lubbock remplaçait celle qui venait d'être enlevée ; quant aux fourmis qui se succédaient, elles étaient mises à part au fur et à mesure , pendant toute la durée de l'expérience ) . Les verres recevraient-ils le même nombre de visites ? Sinon, lequel des deux verres pleins serait recherché le plus souvent par les nouveaux relais ? Une différence dans le nombre des visites semblerait plaider en faveur « d'une recommandation » de la part des premières venues . Furent mises en réquisition : pour le verre plein, 257 fourmis en quarante sept heures et demie ; pour le verre des 3 à 4 larves, 80 seulement pendant cinquante-trois heures ; pour le verre vide , aucune visite .
 
-[p. 68]
-
-La communication, pour les abeilles comme pour les fourmis , paraît se faire par le frottement des antennes . Si , dans une ruche , on enlève la reine , bientôt quelques abeilles s'en aperçoivent, s'agitent, parcourent fiévreusement leur rayon en touchant de leurs antennes croisées les compagnes qu'elles rencontrent et ainsi peu à peu la nouvelle se répand dans toute la communauté .
+[p. 68] La communication, pour les abeilles comme pour les fourmis , paraît se faire par le frottement des antennes . Si , dans une ruche , on enlève la reine , bientôt quelques abeilles s'en aperçoivent, s'agitent, parcourent fiévreusement leur rayon en touchant de leurs antennes croisées les compagnes qu'elles rencontrent et ainsi peu à peu la nouvelle se répand dans toute la communauté .
 
 Les chasseurs d'abeilles en Amérique les découvrent en choisissant une clairière où ils s'emparent
 
@@ -960,9 +746,7 @@ Pour les animaux supérieurs , malgré les exagérations de G. Leroy qui préten
 
 il consiste en un rapprochement des têtes avec contact, moitié par frottement, moitié par petits chocs et a toujours pour résultat un plan d'action déterminé , dont l'idée d'ailleurs n'est jamais complexe . - Dans les
 
-[p. 69]
-
-LA PAROLE troupeaux de rennes , le « conducteur>> fait un signe pour l'arrêt , un autre pour la mise en route et, avec ses cornes , frappe l'un après l'autre les retardataires .
+[p. 69] LA PAROLE troupeaux de rennes , le « conducteur>> fait un signe pour l'arrêt , un autre pour la mise en route et, avec ses cornes , frappe l'un après l'autre les retardataires .
 
 On sait que les singes sont capables de produire des sons variés (le gibbon parcourt une octave complète) et que plusieurs espèces se réunissent pour une sorte de conversation . Malheureusement , malgré des recherches récentes , on n'a sur leur langage que des renseignements vagues ou suspects .
 
@@ -970,11 +754,7 @@ On sait enfin que certains oiseaux peuvent articuler et possèdent toutes les co
 
 mais, si le plus souvent ils ne font pas un usage proprement intellectuel des sons articulés , il s'en trouve qui paraissent leur attribuer la valeur d'un signe . Romanes a observé lui-même un cas plus extraordinaire , car il implique une généralisation avec apposition d'un son . L'un de ses perroquets imite d'abord l'aboiement d'un terrier vivant dans la maison . Plus tard , cet aboiement devint un son dénotatif, le nom propre du terrier ; car l'oiseau aboyait dès qu'il voyait le chien. Enfin, plus tard encore,
 
-il prit l'habitude d'aboyer quand un chien quelconque , connu ou non , entrait dans la maison ; mais il cessa de le faire pour le terrier . Tout en distin-
-
-[p. 70]
-
-guant les individus, il percevait donc leur ressemblance ; « le nom d'un chien individuel devint pour le perroquet le nom générique de tous les chiens [^p70-1] . »
+il prit l'habitude d'aboyer quand un chien quelconque , connu ou non , entrait dans la maison ; mais il cessa de le faire pour le terrier . Tout en distin-[p. 70]guant les individus, il percevait donc leur ressemblance ; « le nom d'un chien individuel devint pour le perroquet le nom générique de tous les chiens [^p70-1] . »
 
 En définitive , le langage des animaux, — du moins ce que nous en connaissons ,
 
@@ -990,11 +770,7 @@ Sur ce sujet qui pique la curiosité humaine depuis tant de siècles sans la las
 
 ce caractère fondamental de l'instinct , pour d'autres plus récents , la différence avec les évolutionnistes est assez difficile à déterminer .
 
-Ainsi, on nous dit : la parole est un produit nécessaire auquel n'ont part ni la réflexion ni la volonté et qui dérive d'un instinct secret de l'homme (Heyse). Renan a soutenu une thèse analogue . Pour Max Müller, « l'homme naît parlant, comme il naît pensant » ; la parole marque le passage des intuitions (concrètes) aux idées ; il est un moment du développement de l'esprit ; il est créé sans conscience distincte du moyen et de la fin » ; au contraire, pour Stein-
-
-[p. 71]
-
-LA PAROLE thal
+Ainsi, on nous dit : la parole est un produit nécessaire auquel n'ont part ni la réflexion ni la volonté et qui dérive d'un instinct secret de l'homme (Heyse). Renan a soutenu une thèse analogue . Pour Max Müller, « l'homme naît parlant, comme il naît pensant » ; la parole marque le passage des intuitions (concrètes) aux idées ; il est un moment du développement de l'esprit ; il est créé sans conscience distincte du moyen et de la fin » ; au contraire, pour Stein-[p. 71]LA PAROLE thal
 
 : << le langage n'est ni une invention ni un produit inné ; l'homme le crée lui-même, mais ce n'est pas l'esprit réfléchi qui en est l'auteur. » A travers toutes ces formules et d'autres, quelque peu empreintes de mysticisme, on ne peut guère découvrir qu'une position de fait, analogue à celle qui constate qu'il est dans la nature de l'abeille de fabriquer des rayons et dans celle de l'araignée de tisser des toiles . Le dernier mot de l'énigme est dans une activité inconsciente et, directement ou par des détours, il faut bien en revenir à l'innéité .
 
@@ -1002,9 +778,7 @@ Une théorie assez récente , celle de L. Noiré [^p71-1], se distingue des pré
 
 ils sont communs à tous ; ils sont intelligibles , étant associés[^p71-2]
 
-[p. 72]
-
-par tous aux mêmes actes . Les éléments primitifs de toute langue , d'après Noiré, sont des actes . Le travail humain , tel est le contenu des racines primitives : couper, frapper, creuser, bêcher, tisser, ramer , etc.
+[p. 72] par tous aux mêmes actes . Les éléments primitifs de toute langue , d'après Noiré, sont des actes . Le travail humain , tel est le contenu des racines primitives : couper, frapper, creuser, bêcher, tisser, ramer , etc.
 
 Quoique Max Müller ait adhéré presque sans réserve à cette hypothèse , elle a encouru, comme toutes , bien des critiques sur lesquelles je n'insiste pas . Est-il vraisemblable , a-t-on dit, que les premières dénominations ont été pour les actes seuls , non pour des objets ? Comment expliquer les synonymies et homonymies si fréquentes dans les langues primitives , etc. ?
 
@@ -1018,9 +792,7 @@ d'une longue élaboration qui a exigé des siècles et dont on peut, avec quelqu
 
 Le cri est le fait primordial, le langage animal pur , simple expiration vocale, sans articulation. Il est ou bien réflexe , exprimant les besoins et les émotions ; ou bien , à un degré plus haut, intentionnel (appeler, avertir, menacer, etc.) . On a dit que , si les animaux ne parlent pas , cela vient de l'imperfection de leur organe auditif ( ? ) et de l'absence de liaison organique entre les images acoustiques
 
-[p. 73]
-
-LA
+[p. 73] LA
 
 PAROLE et les mouvements musculaires qui produisent le son mais la cause de leur aphasie doit être cherchée aussi et surtout dans leur faible développement cérébral ; et ceci s'applique à l'homme primitif. « A quel besoin les mots auraient-ils répondu , lorsque l'anthropoïde du Neanderthal ou de la Naulette ,
 
@@ -1028,11 +800,7 @@ solitaire et nu , dans l'atmosphère épaisse , sur le sol marécageux, son
 
 caillou en main, vaquait de fourré en fourré , cherchant quelque plante ou baie comestible, ou la piste de femelles aussi sauvages que lui [^p73-1] . » C'est l'intelligence qui crée ses instruments , la parole comme tout autre .
 
-La vocalisation (émission des voyelles seules) , ne contient pas encore les éléments essentiels de la parole . Beaucoup d'animaux la pratiquent : nos voyelles , brèves ou longues , même nos diphtongues, se laissent facilement reconnaître dans la voix de diverses espèces (chien , chat , cheval , oiseaux en grand nombre, etc.) . Elle succède , chez l'enfant , à la période du cri simple ; et, comme on admet que le développement de l'individu permet de soupçonner celui de l'espèce ; que, de plus, beaucoup de langues primitives ou d'idiomes rudimentaires (comme tels , proches des origines) , sont très riches en voyelles ; on en a conclu à l'existence d'une période plus ou moins longue, intermédiaire entre celles du cri et de l'articulation (cette thèse a des affinités étroites avec la théorie de Darwin, Spencer, etc. , rejetée d'ailleurs par d'autres évolutionnistes) ; que la parole est dérivée du chant, le langage intellectuel du langage émotionnel ; en d'autres termes, que l'homme a
-
-[p. 74]
-
-chanté avant de parler. A l'appui, on allègue divers faits : 1º Dans les langues monosyllabiques , généralement considérées comme les plus anciennes de toutes, le rôle de l'accent est capital : la même syllabe, suivant le ton qui l'accompagne , prend les significations les plus dissemblables . Tel
+La vocalisation (émission des voyelles seules) , ne contient pas encore les éléments essentiels de la parole . Beaucoup d'animaux la pratiquent : nos voyelles , brèves ou longues , même nos diphtongues, se laissent facilement reconnaître dans la voix de diverses espèces (chien , chat , cheval , oiseaux en grand nombre, etc.) . Elle succède , chez l'enfant , à la période du cri simple ; et, comme on admet que le développement de l'individu permet de soupçonner celui de l'espèce ; que, de plus, beaucoup de langues primitives ou d'idiomes rudimentaires (comme tels , proches des origines) , sont très riches en voyelles ; on en a conclu à l'existence d'une période plus ou moins longue, intermédiaire entre celles du cri et de l'articulation (cette thèse a des affinités étroites avec la théorie de Darwin, Spencer, etc. , rejetée d'ailleurs par d'autres évolutionnistes) ; que la parole est dérivée du chant, le langage intellectuel du langage émotionnel ; en d'autres termes, que l'homme a [p. 74] chanté avant de parler. A l'appui, on allègue divers faits : 1º Dans les langues monosyllabiques , généralement considérées comme les plus anciennes de toutes, le rôle de l'accent est capital : la même syllabe, suivant le ton qui l'accompagne , prend les significations les plus dissemblables . Tel
 
 est le cas du chinois ; en Siamois hă
 
@@ -1042,9 +810,7 @@ faits du même genre et tous d'ordre très vulgaire . 4º Mais , quand l'émotio
 
 Quoi qu'il en soit de ces raisons, probantes pour les uns, douteuses pour les autres, la parole n'a trouvé sa condition d'existence qu'avec l'articulation, les consonnes étant l'élément ferme du discours . On a beaucoup disserté sur son origine . Romanes invoque la sélection naturelle : « La première articulation ne consistait probablement en rien
 
-[p. 75]
-
-LA
+[p. 75] LA
 
 PAROLE de plus qu'en une interruption significative des sons vocaux , analogue au babil , au caquetage des singes, qui est le langage naturel pour l'expression de leurs états mentaux . » (Ouv . cité, 372) . Toutefois, il importe de remarquer que la question, sous cette forme , n'a qu'un intérêt physiologique . La voix est aussi naturelle à l'homme que les mouvements des membres ; il y a seulement entre la voix simple et la voix articulée la même distance qu'entre les mouvements irréguliers des membres chez le nouveauné et les mouvements bien coordonnés comme ceux de la marche . L'articulation n'est qu'une des formes de l'expression ; elle est si peu un fait humain qu'elle se rencontre , comme on le sait, chez beaucoup d'animaux. Le véritable problème psychologique est ailleurs : dans l'emploi des sons articulés comme signes objectifs , dans leur imposition à des objets auxquels nul rapport ou lien naturel ne les rattache .
 
@@ -1052,9 +818,7 @@ Geiger, dans son livre ,
 
 der Ursprung der Sprache[^p75-1]
 
-[p. 76]
-
-de leur importance acquise. A l'appui de cette hypothèse , on a fait valoir ce qui se passe chez les sourds-muets non éduqués . Ils inventent des sons articulés (qu'ils n'entendent pas naturellement) et s'en servent pour désigner certaines choses .
+[p. 76] de leur importance acquise. A l'appui de cette hypothèse , on a fait valoir ce qui se passe chez les sourds-muets non éduqués . Ils inventent des sons articulés (qu'ils n'entendent pas naturellement) et s'en servent pour désigner certaines choses .
 
 Bien que beaucoup de ces mots paraissent créés arbitrairement (exemple : ga = un ; ricke = je ne veux pas , etc.) , il y en a d'autres qui résultent de l'imitation par leur propre bouche des mouvements perçus sur la bouche des autres . Exemple : mumm = manger ; chipp = boire ; be-yr = l'aboiement du chien, etc. [^p76-1] . Pourquoi l'homme primitif aurait-il
 
@@ -1072,9 +836,7 @@ ses images relatives aux
 
 besoins animaux ou même aux
 
-[p. 77]
-
-LA PAROLE formes très simples d'une action coopérative. Le progrès de l'intelligence occasionna celui des signes qui réagit à son tour sur l'intelligence : le langage des sens et des gestes devint graduellement une pantomime imparfaite , analogue à celle des enfants, avant l'emploi des mots . A ce stade, les voyelles étaient en usage, peut-être aussi quelques consonnes . Le développement intellectuel continuant a dû produire la discontinuité (ou articulation) des sons de la voix , comme la seule direction possible d'un progrès ultérieur des signes vocaux, et cette transformation a dû être grandement aidée par l'habitude déjà acquise d'articuler les notes musicales
+[p. 77] LA PAROLE formes très simples d'une action coopérative. Le progrès de l'intelligence occasionna celui des signes qui réagit à son tour sur l'intelligence : le langage des sens et des gestes devint graduellement une pantomime imparfaite , analogue à celle des enfants, avant l'emploi des mots . A ce stade, les voyelles étaient en usage, peut-être aussi quelques consonnes . Le développement intellectuel continuant a dû produire la discontinuité (ou articulation) des sons de la voix , comme la seule direction possible d'un progrès ultérieur des signes vocaux, et cette transformation a dû être grandement aidée par l'habitude déjà acquise d'articuler les notes musicales
 
 (comme les gibbons et chimpanzés) . Mais longtemps après ces grossiers débuts de la parole , le langage des tons et des gestes est resté le moyen le plus important de communication...
 
@@ -1084,21 +846,13 @@ soit transformé en Homo
 
 sapiens [^p77-1] . »
 
-Entre toutes ces hypothèses, on peut choisir ou même ne pas choisir ; et, quoique nous avons été très bref sur un problème tant débattu , dont la littérature est si copieuse ,
-
-[p. 78]
-
-peut-être est-ce trop encore pour de simples conjectures .
+Entre toutes ces hypothèses, on peut choisir ou même ne pas choisir ; et, quoique nous avons été très bref sur un problème tant débattu , dont la littérature est si copieuse , [p. 78] peut-être est-ce trop encore pour de simples conjectures .
 
 Un fait certain du moins , c'est que , malgré la théorie qui l'assimile à un instinct jaillissant spontanément chez l'homme , la parole, à l'origine, était si faible , si insuffisante , si pauvre, qu'elle avait besoin de s'appuyer sur le langage des gestes pour devenir intelligible . Il existe encore actuellement des échantillons de ce langage mixte parmi des races inférieures qui n'ont rien de commun entre elles , habitant des régions de la terre qui ne se ressemblent en rien .
 
 Tantôt la parole coexiste avec le langage d'action (les Tasmaniens , les Groënlandais, les tribus sauvages du Brésil, les Grebos de l'Afrique occidentale, etc.). Les gestes sont indispensables pour donner quelque précision aux sons vocaux ; quelquefois même, ils en modifient le sens . Ainsi, dans l'un de ces idiomes , ni ne signifie « je le fais » ou « tu le fais » , suivant le geste de celui qui parle . Les Boschimans ont un vocabulaire si incomplet et l'aident de tant de signes mimiques , qu'ils ne se comprennent plus dans l'obscurité ; quand ils désirent causer la nuit, ils sont obligés de se rassembler autour de leurs feux .
 
-Tantôt la parole coexiste avec des sons inarticulés (les Fuégiens , les Hottentots , quelques tribus de l'Amérique du Nord) que les voyageurs ont comparés , suivant les cas , à des gloussements ou à des claquements . On les a classés , suivant le procédé physiologique qui les produit, en quatre (ou même six) espèces : dentale, palatale , cérébrale, latérale ; il est impossible de les traduire par un équivalent articulé . Ces claquements survivent, dit Sayce , « comme pour nous montrer comment l'homme , dénué de la parole ,
-
-[p. 79]
-
-pouvait fixer et transmettre sa pensée par certains sons . » Chez les Gallas , l'orateur, en haranguant l'assemblée , marque la ponctuation de son discours en faisant claquer une lanière de cuir. Le coup , suivant sa force , indique une virgule , un point et virgule ou un point ; un coup furieux marque l'exclamation [^p79-1] .
+Tantôt la parole coexiste avec des sons inarticulés (les Fuégiens , les Hottentots , quelques tribus de l'Amérique du Nord) que les voyageurs ont comparés , suivant les cas , à des gloussements ou à des claquements . On les a classés , suivant le procédé physiologique qui les produit, en quatre (ou même six) espèces : dentale, palatale , cérébrale, latérale ; il est impossible de les traduire par un équivalent articulé . Ces claquements survivent, dit Sayce , « comme pour nous montrer comment l'homme , dénué de la parole , [p. 79] pouvait fixer et transmettre sa pensée par certains sons . » Chez les Gallas , l'orateur, en haranguant l'assemblée , marque la ponctuation de son discours en faisant claquer une lanière de cuir. Le coup , suivant sa force , indique une virgule , un point et virgule ou un point ; un coup furieux marque l'exclamation [^p79-1] .
 
 Il convenait de rappeler ces états mixtes où le langage articulé n'est pas encore dépouillé de sa gangue primitive : ce sont des formes de passage entre la pantomime pure et le moment où la parole a conquis sa complète indépendance .
 
@@ -1116,11 +870,7 @@ l'indicateur le plus sûr de la marche que l'esprit humain a suivie pour s'analy
 
 Cette tentative n'a rien de commun avec la « grammaire générale ou philosophique
 
-» du commencement de ce siècle . Les Idéologues qui la fondèrent avaient la préten-
-
-[p. 80]
-
-tion, en prenant le langage pour base , d'analyser les catégories fondamentales de l'intelligence : substance , qualité, action , rapport . Entreprise louable , mais qui, en raison de leur méthode , ne pouvait aboutir . Ne connaissant que les langues classiques ou modernes, produits d'une longue civilisation ,
+» du commencement de ce siècle . Les Idéologues qui la fondèrent avaient la préten-[p. 80]tion, en prenant le langage pour base , d'analyser les catégories fondamentales de l'intelligence : substance , qualité, action , rapport . Entreprise louable , mais qui, en raison de leur méthode , ne pouvait aboutir . Ne connaissant que les langues classiques ou modernes, produits d'une longue civilisation ,
 
 ils
 
@@ -1146,9 +896,7 @@ c'est l'état protoplasmique , << sans fonctions ni catégories grammaticales »
 
 I. Au début de cette évolution que nous devrons suivre
 
-[p. 81]
-
-LA
+[p. 81] LA
 
 PAROLE pas à pas , nous trouvons l'hypothèse d'une période primitive , dite des racines , et il vaut la peine de nous y arrêter un peu. Les racines , en effet, quelque opinion qu'on ait sur leur origine , sont des termes généraux . Mais en quel sens ?
 
@@ -1164,11 +912,7 @@ ancêtres conversaient à l'aide de syllabes simples indiquant les idées de pre
 
 Dans
 
-l'autre camp, on soutient que les racines sont le
-
-[p. 82]
-
-résultat de l'analyse savante, mais que rien ne prouve qu'elles aient jamais existé (Sayce) ; qu'elles sont reconstruites par la comparaison et la généralisation ; que dans les langues aryennes , par exemple, les racines « ont avec les mots sanscrits , grecs , latins , à peu près le même rapport que les Idées platoniciennes avec les objets du monde réel » (Bréal)
+l'autre camp, on soutient que les racines sont le [p. 82] résultat de l'analyse savante, mais que rien ne prouve qu'elles aient jamais existé (Sayce) ; qu'elles sont reconstruites par la comparaison et la généralisation ; que dans les langues aryennes , par exemple, les racines « ont avec les mots sanscrits , grecs , latins , à peu près le même rapport que les Idées platoniciennes avec les objets du monde réel » (Bréal)
 
 : ce qui équivaut à dire qu'elles ne sont pas primitives . - On a calculé que les sons articulés que la voix humaine est capable de produire s'élèvent à 385. Ces sons , pour des raisons physiologiques, constituent un thème fondamental dans les divers mots
 
@@ -1182,9 +926,7 @@ Dans la seconde thèse , il y a d'abord les mots ; puis l'élément commun déga
 
 Que l'on adopte l'une ou l'autre opinion, je ne vois rien à en conclure , sinon que les premiers termes ont désigné des qualités ou des manières d'être, variant suivant les
 
-[p. 83]
-
-LA PAROLE races . La première thèse paraît la plus apte à nous révéler les formes primitives de l'abstraction et de la généralisation. Si on la choisit, malgré sa fragilité, on ne trouve dans la liste des racines, même la plus réduite , qu'un extraordinaire mélange de termes appliqués aux choses les plus disparates (exemple : pleurs , briser, mesurer, lait, choisir, nettoyer, vomir, froid , craindre, etc. , etc.) . Prétendre , comme Max Müller, à qui j'emprunte les termes qui précèdent, que « tels sont les 121 concepts originels , le primitif bagage intellectuel de la famille âryenne » est une formule malencontreuse, car rien ne ressemble moins à des concepts que le contenu de cette liste .
+[p. 83] LA PAROLE races . La première thèse paraît la plus apte à nous révéler les formes primitives de l'abstraction et de la généralisation. Si on la choisit, malgré sa fragilité, on ne trouve dans la liste des racines, même la plus réduite , qu'un extraordinaire mélange de termes appliqués aux choses les plus disparates (exemple : pleurs , briser, mesurer, lait, choisir, nettoyer, vomir, froid , craindre, etc. , etc.) . Prétendre , comme Max Müller, à qui j'emprunte les termes qui précèdent, que « tels sont les 121 concepts originels , le primitif bagage intellectuel de la famille âryenne » est une formule malencontreuse, car rien ne ressemble moins à des concepts que le contenu de cette liste .
 
 Si l'on adopte la deuxième thèse , la racine n'étant que <<< le noyau mis à nu d'une famille de mots » , un « phonogramme
 
@@ -1194,9 +936,7 @@ analogue aux
 
 photographies composites , formé comme elles par une condensation de ressemblances entre plusieurs termes, il est clair que l'abstraction et la généralisation primitives doivent être cherchées dans les mots , non dans les racines [^p83-1] .
 
-[p. 84]
-
-Laissant cette question qui, par sa parenté avec celle de l'origine de la parole, participe à son obscurité , il reste à se demander si les termes primitifs (quelque nature qu'on leur attribue) , ont été des mots proprements dits ou des phrases . L'homme a-t-il émis d'abord de simples dénominations ou des affirmations et négations ? Ici tous les linguistes paraissent d'accord . « La parole doit exprimer un jugement » ; en ce sens, elle est toujours une phrase . « Le langage est fondé sur la phrase et non sur le mot isolé... ; nous ne pensons pas au moyen de mots , mais au moyen de phrases [^p84-1] . » ´
+[p. 84] Laissant cette question qui, par sa parenté avec celle de l'origine de la parole, participe à son obscurité , il reste à se demander si les termes primitifs (quelque nature qu'on leur attribue) , ont été des mots proprements dits ou des phrases . L'homme a-t-il émis d'abord de simples dénominations ou des affirmations et négations ? Ici tous les linguistes paraissent d'accord . « La parole doit exprimer un jugement » ; en ce sens, elle est toujours une phrase . « Le langage est fondé sur la phrase et non sur le mot isolé... ; nous ne pensons pas au moyen de mots , mais au moyen de phrases [^p84-1] . » ´
 
 ))
 
@@ -1212,21 +952,13 @@ La même remarque a été faite pour les enfants . « Il faut , dit Preyer, reje
 
 croient sentir aussi des onomatopées . De sorte qu'il serait plus juste de dire que nous entendons les bruits de la nature à travers les mots auxquels notre oreille est habituée depuis l'enfance » (Bréal) . Je remarque que ceux qui ont étudié la formation spontanée du langage chez les enfants, relèvent à leur compte très peu d'onomatopées . D'autre part, un mot créé par onomatopée certaine est quelquefois, en suite d'associations ou d'analogies étranges , transféré successivement à tant d'objets, que la trace des transformations de sens peut être perdue et l'origine imitative niée à tort. Tel le cas de Darwin cité plus haut, où l'onomatopée du canard finit par désigner tout liquide, tout ce qui vole, toute pièce de monnaie . Si les extensions successives. du terme n'avaient été observées, qui aurait pu remonter à l'origine ?
 
-[p. 85]
+[p. 85] LA PAROLE tous les enfants commencent à parler avec des substantifs , ensuite avec des verbes . Mon fils, à 23 mois , employa pour la première fois un adjectif pour exprimer un jugement, le premier qu'il énonçât dans sa langue maternelle ; il dit heiss ( chaud), pour « le lait est trop chaud » . Plus tard la proposition est faite de deux mots : heim-mimi, « je vou<<< drais aller à la maison et boire du lait » (heim = maison ; mimi = lait) . » Taine et d'autres ont rapporté plusieurs observations du même genre [^p85-1] .
 
-LA PAROLE tous les enfants commencent à parler avec des substantifs , ensuite avec des verbes . Mon fils, à 23 mois , employa pour la première fois un adjectif pour exprimer un jugement, le premier qu'il énonçât dans sa langue maternelle ; il dit heiss ( chaud), pour « le lait est trop chaud » . Plus tard la proposition est faite de deux mots : heim-mimi, « je vou<<< drais aller à la maison et boire du lait » (heim = maison ; mimi = lait) . » Taine et d'autres ont rapporté plusieurs observations du même genre [^p85-1] .
-
-D'après certains auteurs , toute langue parvenue à son complet développement a dû parcourir les trois périodes successives du monosyllabisme, du polysynthétisme et de l'analyse ; en sorte que les idiomes qui sont restés monosyllabiques ou agglutinants correspondraient à un arrêt de développement. Pour d'autres, c'est une pure hypothèse qu'ils rejettent . Quoi qu'il en soit (et c'est une question que nous n'avons pas à examiner), il paraît bien téméraire de soutenir, comme Sayce , « que la division de la phrase en deux parties, le sujet et le prédicat, est un pur accident... et que , si Aristote avait été Mexicain (la langue des Aztèques était polysynthétique) , son système de logique aurait pris une forme tout à fait différente » . L'apparition et l'évolution des langues analytiques n'est pas un pur accident, mais un résultat du développement de l'esprit . On ne peut passer de la synthèse à l'analyse sans diviser ,
-
-[p. 86]
-
-séparer , disposer les parties isolées dans un certain ordre . La logique d'un Aristote mexicain aurait pu différer de la nôtre quant à la forme ; mais elle n'aurait pu se constituer sans briser son moule linguistique, sans établir une division, au moins théorique, des éléments du discours . L'action inconsciente qui a entraîné certains idiomes vers l'analyse, qui les a fait passer de la période d'enveloppement à celle de développement, leur a imposé l'ordre successif. On a assimilé les langues polysynthétiques au procédé des enfants qui veulent dire tout à la fois, les idées surgissant toutes ensemble et formant un conglomérat [^p86-1] . Il faut évidemment rompre avec ce procédé ou renoncer à tout progrès sérieux dans l'analyse .
+D'après certains auteurs , toute langue parvenue à son complet développement a dû parcourir les trois périodes successives du monosyllabisme, du polysynthétisme et de l'analyse ; en sorte que les idiomes qui sont restés monosyllabiques ou agglutinants correspondraient à un arrêt de développement. Pour d'autres, c'est une pure hypothèse qu'ils rejettent . Quoi qu'il en soit (et c'est une question que nous n'avons pas à examiner), il paraît bien téméraire de soutenir, comme Sayce , « que la division de la phrase en deux parties, le sujet et le prédicat, est un pur accident... et que , si Aristote avait été Mexicain (la langue des Aztèques était polysynthétique) , son système de logique aurait pris une forme tout à fait différente » . L'apparition et l'évolution des langues analytiques n'est pas un pur accident, mais un résultat du développement de l'esprit . On ne peut passer de la synthèse à l'analyse sans diviser , [p. 86] séparer , disposer les parties isolées dans un certain ordre . La logique d'un Aristote mexicain aurait pu différer de la nôtre quant à la forme ; mais elle n'aurait pu se constituer sans briser son moule linguistique, sans établir une division, au moins théorique, des éléments du discours . L'action inconsciente qui a entraîné certains idiomes vers l'analyse, qui les a fait passer de la période d'enveloppement à celle de développement, leur a imposé l'ordre successif. On a assimilé les langues polysynthétiques au procédé des enfants qui veulent dire tout à la fois, les idées surgissant toutes ensemble et formant un conglomérat [^p86-1] . Il faut évidemment rompre avec ce procédé ou renoncer à tout progrès sérieux dans l'analyse .
 
 En somme , sur la valeur psychologique de la phrase, indépendamment de ses formes multiples, nous pouvons conclure par ces remarques de Max Müller : « Nous nous imaginons le langage impossible sans phrase et la phrase impossible sans copule. Cela est vrai et cela est faux . Si nous entendons par phrase une expression formée de plusieurs mots : sujet, attribut, copule, cela est faux . Quand la phrase n'est composée que d'un sujet et d'un prédicat, nous pouvons dire qu'il y a une copule sous-entendue ; mais la vérité est que d'abord elle n'était pas exprimée , qu'il n'était pas nécessaire de l'exprimer , qu'il était impossible de l'exprimer. Arriver à dire vir est bonus , au
 
-[p. 87]
-
-LA PAROLE lieu de vir bonus ,
+[p. 87] LA PAROLE lieu de vir bonus ,
 
 est un des derniers triomphes de la parole (1) .>>>
 
@@ -1238,35 +970,23 @@ Revenons aux racines ou termes primitifs , quelle qu'en soit la nature . On adme
 
 Les premières forment un petit groupe qui a pour marque propre d'indiquer plutôt la position relative de celui qui parle qu'une qualité concrète . Elles équivalent à : ici , là, ceci , cela, etc. Elles sont peu nombreuses et très simples sous le rapport phonétique : une voyelle ou une voyelle suivie d'une consonne . Beaucoup de linguistes[^p87-1]
 
-[p. 88]
-
-refusent de les admettre comme racines et pensent qu'elles sont sorties de la seconde classe par atténuation de sens [^p88-1] . Peut-être sont-elles un reste du langage de gestes, « sans signification conceptuelle » (Max Müller) , n'exprimant que des déterminations dans le temps ou l'espace .
+[p. 88] refusent de les admettre comme racines et pensent qu'elles sont sorties de la seconde classe par atténuation de sens [^p88-1] . Peut-être sont-elles un reste du langage de gestes, « sans signification conceptuelle » (Max Müller) , n'exprimant que des déterminations dans le temps ou l'espace .
 
 Les secondes (verbales ou prédicatives) sont les seules qui nous intéressent . Celles-ci ont pullulé. Elles indiquent des qualités ou des actes : c'est le point important à noter . Les premiers mots ont dénommé des
 
 attributs ou des manières d'être ; ils ont été des adjectifs , dans la mesure , du moins , où l'on peut appliquer une terminologie rigide et fixe à des états en voie de formation . L'homme primitif étant frappé surtout par les qualités des choses, les mots à l'origine étaient tous appellatifs ; ils exprimaient un des nombreux caractères de chaque objet ; ils traduisaient une abstraction spontanée , naturelle. Ceci montre encore une fois combien cette opération est indispensable et précoce . Dès ses premières démarches , l'intelligence tend à simplifier, à substituer la partie au tout. Le choix inconscient d'un attribut entre beaucoup d'autres dépend de diverses causes : de sa prédominance sans doute ; mais avant tout de l'intérêt qu'il a pour l'homme . « Les peuples , remarque Renan, ont en général beaucoup de mots pour ce qui les intéresse le plus . » Ainsi, en hébreu, pour l'observance de la loi , 25 synonymes ; pour la confiance en Dieu, 14 ; pour la pluie , 11 , etc. En arabe , le lion a 500 noms, le serpent 200, le miel plus de 80 ; le chameau 5.744 , l'épée 1.000 comme il convient à une race guerrière . Le Lapon , dont la
 
-[p. 89]
-
-LA PAROLE langue est si pauvre , a plus de 30 mots pour désigner le renne , animal indispensable à sa vie [^p89-1] . Ces prétendus synonymes dénomment chacun un aspect particulier des choses ; ils sont un témoignage de l'abondance des abstractions primitives .
+[p. 89] LA PAROLE langue est si pauvre , a plus de 30 mots pour désigner le renne , animal indispensable à sa vie [^p89-1] . Ces prétendus synonymes dénomment chacun un aspect particulier des choses ; ils sont un témoignage de l'abondance des abstractions primitives .
 
 Cette apparente richesse devient vite un embarras et un encombrement. Au lieu de cent termes distincts, il suffirait d'un substantif générique, plus une ou deux épithètes . Mais le substantif n'est pas né du désir réfléchi d'obvier à cet inconvénient. Il est une spécialisation, un rétrécissement du sens primitif. L'adjectif perdit peu à peu sa valeur qualificative pour devenir le nom d'un des objets qualifiés . Ainsi en sanscrit : déva (brillant) finit par signifier le dieu ; sourya (l'éclatant) devint le soleil ; akva
 
-(rapide) devint le nom du cheval, etc. Cette métamorphose de l'adjectif en substantif par une spécialisation du sens général se produit même dans nos langues actuelles ; quand, par exemple , nous disons en français : un brillant (diamant) ; le volant (d'une machine) ; un bon (de pain , de caisse , de la Banque , etc.). Ce qui n'est plus qu'un accident de nos jours était à l'origine un procédé constant [^p89-2] . Ainsi de l'adjectif primitif, le substantif est dérivé : ou plutôt dans l'organisme primitif, adjectif-substantif, une division s'est
-
-[p. 90]
-
-produite , et deux fonctions grammaticales se sont constituées .
+(rapide) devint le nom du cheval, etc. Cette métamorphose de l'adjectif en substantif par une spécialisation du sens général se produit même dans nos langues actuelles ; quand, par exemple , nous disons en français : un brillant (diamant) ; le volant (d'une machine) ; un bon (de pain , de caisse , de la Banque , etc.). Ce qui n'est plus qu'un accident de nos jours était à l'origine un procédé constant [^p89-2] . Ainsi de l'adjectif primitif, le substantif est dérivé : ou plutôt dans l'organisme primitif, adjectif-substantif, une division s'est [p. 90] produite , et deux fonctions grammaticales se sont constituées .
 
 Beaucoup de remarques resteraient à faire sur la détermination du substantif par les flexions , déclinaisons, la marque du genre (masculin, féminin, neutre) ; je me borne à ce qui concerne le nombre, puisque nous nous sommes proposé de considérer la numération sous tous ses aspects . Rien ne paraît plus naturel et plus tranché que la distinction de l'un et du plusieurs ; dès que nous dépassons l'unité pure , génératrice des nombres , la pluralité nous paraît homogène à tous ses degrés . Il n'en a pas été ainsi à l'origine . Ce qui le prouve, c'est l'existence du duel dans un nombre énorme de langues : âryennes , sémitiques, touraniennes, hottentote, australiennes, etc. On comptait avec précision un, deux, le reste demeurant vague . D'après Sayce , le mot trois , dans les langues âryennes , signifiait d'abord « ce qui va au delà. » On a supposé que le duel fut affecté originellement aux parties paires du corps : les yeux , les bras, les jambes. Le progrès intellectuel l'a fait tomber en désuétude .
 
 Au terme de cette période de première formation que nous venons de parcourir, la phrase n'est qu'un organisme fruste représenté par l'une des formes suivantes : 1º cela ; 2º cela brillant ; 3º cela soleil, cela brillant [^p90-1] . Le verbe est encore absent ..
 
-Avec lui nous entrons dans la période de seconde formation. On a longtemps posé comme un dogme indiscutable que le verbe est le mot par excellence (verbum) , l'ins-
-
-[p. 91]
-
-LA PAROLE trument nécessaire et exclusif de l'affirmation . Cependant il y a beaucoup d'idiomes inférieurs qui s'en passent et qui expriment l'affirmation par des procédés grossiers , détournés , sans précision, le plus souvent par une juxtaposition : Neige blanche = la neige est blanche ; boisson de moi vin = je bois (ou boirai) du vin, etc. On en trouvera beaucoup d'exemples dans les ouvrages spéciaux .
+Avec lui nous entrons dans la période de seconde formation. On a longtemps posé comme un dogme indiscutable que le verbe est le mot par excellence (verbum) , l'ins-[p. 91]LA PAROLE trument nécessaire et exclusif de l'affirmation . Cependant il y a beaucoup d'idiomes inférieurs qui s'en passent et qui expriment l'affirmation par des procédés grossiers , détournés , sans précision, le plus souvent par une juxtaposition : Neige blanche = la neige est blanche ; boisson de moi vin = je bois (ou boirai) du vin, etc. On en trouvera beaucoup d'exemples dans les ouvrages spéciaux .
 
 En fait, le verbe indo-européen est, pris à son origine , un adjectif (ou substantif) modifié par un pronom
 
@@ -1276,11 +996,7 @@ cette construction merveilleuse , résultat d'un travail inconscient et collecti
 
 fait, dans l'esprit de l'homme primitif, mais que l'imperfection de son instrument verbal ne la traduisait pas . Quoi qu'il en soit, c'est un point discuté si le verbe, à l'origine , a exprimé un passé ou un présent. Il semble avoir traduit d'abord une vague conception de la durée , une continuité
 
-dans l'action ; c'était un « duratif » , un passé qui dure encore, un passéprésent. La notion adjective contenue dans le verbe , indéfinie quant au temps, ne s'est précisée que peu à peu ; la distinction entre les moments de la durée ne s'est pas faite de la même manière dans toutes les langues , et pour quelques-unes , développées d'ailleurs comme les
-
-[p. 92]
-
-langues sémitiques, elle est restée très imparfaite
+dans l'action ; c'était un « duratif » , un passé qui dure encore, un passéprésent. La notion adjective contenue dans le verbe , indéfinie quant au temps, ne s'est précisée que peu à peu ; la distinction entre les moments de la durée ne s'est pas faite de la même manière dans toutes les langues , et pour quelques-unes , développées d'ailleurs comme les [p. 92] langues sémitiques, elle est restée très imparfaite
 
 [^p92-1] .
 
@@ -1296,19 +1012,13 @@ qui
 
 est maintenant employé dans toutes les langues romanes pour exprimer simplement un temps passé, signifiait d'abord « tenir ferme » , « retenir » . L'auteur continue en retraçant l'histoire de plusieurs autres verbes auxiliaires . Entre tous, il y en a un qui mérite une mention particulière à cause des divagations qu'il a suscitées : c'est le verbe être,
 
-qualifié de verbe par excel-
-
-[p. 93]
-
-LA PAROLE lence, verbe substantif, verbe unique ; expression directe ou sous- entendue de l'existence partout présente . On lui a attribué le monopole de l'affirmation et même le privilège d'une origine immatérielle
+qualifié de verbe par excel-[p. 93]LA PAROLE lence, verbe substantif, verbe unique ; expression directe ou sous- entendue de l'existence partout présente . On lui a attribué le monopole de l'affirmation et même le privilège d'une origine immatérielle
 
 [^p93-1] . — D'abord il ne se rencontre sous aucune forme dans certaines langues qui suppléent à son absence par divers procédés . De plus, il est loin d'être primitif ; il dérive, suivant les idiomes, d'éléments multiples et assez discordants qui sont : respirer, vivre, croître, d'après M. Müller ; respirer, croître , demeurer , être debout (stare) d'après Whitney .
 
 Jusqu'ici nous n'avons examiné que les parties stables , solides , du discours . Restent celles qui sont purement transitives , qui traduisent un mouvement de la pensée, qui expriment des rapports . Avant de les étudier sous leur forme linguistique , il est indispensable de se placer au point de vue de la psychologie pure et de savoir d'abord quelle est la nature d'un rapport. On peut d'autant moins s'y soustraire que la question n'a guère été traitée que par les logiciens ou à leur manière et que beaucoup de traités de psychologie très complets n'en disent pas un seul mot [^p93-2] .
 
-[p. 94]
-
-<< Un rapport, dit Herbert Spencer, est un état de conscience qui réunit deux autres états de conscience. » Bien qu'un rapport ne soit pas toujours un trait d'union au sens rigoureux , cette définition a le grand avantage de le poser comme une réalité, comme un état qui existe par lui-même , qui n'est pas un zéro , un néant de conscience . Il possède des caractères propres
+[p. 94] << Un rapport, dit Herbert Spencer, est un état de conscience qui réunit deux autres états de conscience. » Bien qu'un rapport ne soit pas toujours un trait d'union au sens rigoureux , cette définition a le grand avantage de le poser comme une réalité, comme un état qui existe par lui-même , qui n'est pas un zéro , un néant de conscience . Il possède des caractères propres
 
 : 1 ° Il est indécomposable. Dans la conscience , il y a de grands et de petits états : les grands (par exemple : une perception) sont composés , donc accessibles à l'analyse ; ils occupent un temps appréciable
 
@@ -1318,9 +1028,7 @@ Mais cet état psychique peut être étudié autrement que par l'observation int
 
 si mince qu'il soit. L'étude des langues nous apprend que l'expression des rapports s'est produite de
 
-[p. 95]
-
-LA PAROLE deux manières qui forment, pour ainsi dire, deux couches chronologiques .
+[p. 95] LA PAROLE deux manières qui forment, pour ainsi dire, deux couches chronologiques .
 
 La plus ancienne est celle des cas ou déclinaisons : mécanisme
 
@@ -1336,11 +1044,7 @@ de suffixes ou en modifications du thème principal .
 
 Mais les rapports n'ont acquis leur organe linguistique propre , spécialisé pour cette fonction, qu'avec les prépositions et conjonctions. Elles font défaut dans beaucoup de langues ; on y supplée par gestes ; les principales parties du discours existent seules , juxtaposées sans lien, à la manière des phrases exprimées par les enfants . D'autres , un peu moins pauvres , n'ont guère que deux conjonctions : et, mais . En somme, les termes auxquels est dévolue l'expression des rapports sont de formation tardive et ressemblent à des organes de luxe . Dans les langues analytiques , les prépositions et conjonctions sont des noms ou pronoms détournés de leur acception primitive , qui ont pris une valeur expressive de transition , condition , subordination , coordination et le reste . La notion psychologique commune au plus grand nombre, sinon à toutes, est celle d'un mouvement . « Tous les rapports exprimés par les prépositions peuvent être ramenés au repos et au mouvement dans l'espace et le temps , c'est-à-dire à ceux auxquels correspondent dans la déclinaison le locatif, l'accusatif
 
-(mouvement pour s'approcher) et l'ablatif (mouvement pour s'éloigner) [^p95-1] . » On peut admettre que cette conscience du mouvement, du changement, qui n'est au
-
-[p. 96]
-
-fond que le sentiment des directions diverses de la pensée, appartient moins à la catégorie des notions claires qu'à celle des états subconscients , des tendances , des actes , ce qui expliquerait pourquoi les termes du rapport manquent totalement, ou sont rares , et n'ont conquis que tardivement leur autonomie .
+(mouvement pour s'approcher) et l'ablatif (mouvement pour s'éloigner) [^p95-1] . » On peut admettre que cette conscience du mouvement, du changement, qui n'est au [p. 96] fond que le sentiment des directions diverses de la pensée, appartient moins à la catégorie des notions claires qu'à celle des états subconscients , des tendances , des actes , ce qui expliquerait pourquoi les termes du rapport manquent totalement, ou sont rares , et n'ont conquis que tardivement leur autonomie .
 
 Avec eux , le travail progressif de la différenciation s'est accompli . Le discours a ses matériaux et son ciment ; il est capable de phrases complexes où tout se relie et se subordonne à un état principal ,
 
@@ -1356,9 +1060,7 @@ déterminées » (Schleicher) .
 
 Elles sont en état de rénovation continue , d'acquisitions et de pertes . Dans les langues civilisées , cette incessante métamorphose est partiellement enrayée par l'instruction imposée, la tradition et le respect des grandes œuvres littéraires . Dans les idiomes sauvages où ces moyens coercitifs font défaut, la transformation s'opère parfois avec une rapidité telle, qu'ils deviennent méconnaissables au bout de quelques générations .
 
-[p. 97]
-
-LA PAROLE
+[p. 97] LA PAROLE
 
 Étant un mécanisme psychophysiologique, le langage parlé est régi dans son évolution par des lois physiologiques et psychologiques .
 
@@ -1368,11 +1070,7 @@ Parmi les secondes, la principale est la loi d'analogie , le grand artisan d'ext
 
 Il suffit d'ouvrir un dictionnaire pour voir ce que ce travail inconscient a d'ingénieux et de périlleux . Tel mot n'a que quelques lignes ; il n'a pas fourni une brillante carrière . Tel autre remplit des pages
 
-: le voici d'abord dans son sens primitif ; puis , d'analogies en analogies, d'accidents en accidents , il s'en éloigne de plus en plus et finit par arriver à une signification toute contraire [^p97-1] . Aussi a-t-on pu dire que « l'objet d'une véritable étymologie, c'est de découvrir les lois qui ont régi l'évolution de la pensée . » Chez les peuples primitifs , le procédé qui entraîne les déviations du sens primitif est quelquefois d'une absurdité éclatante ; du moins il nous paraît tel, en raison des
-
-[p. 98]
-
-analogies étranges qui servent à l'extension du mot ainsi , des tribus australiennes ont donné aux livres le nom de moules (muyum) , parce qu'ils s'ouvrent et se ferment comme ce coquillage , et on pourrait citer bien d'autres faits non moins singuliers . Il resterait beaucoup à dire sur le rôle de l'analogie, mais je crains de m'écarter de mon sujet.
+: le voici d'abord dans son sens primitif ; puis , d'analogies en analogies, d'accidents en accidents , il s'en éloigne de plus en plus et finit par arriver à une signification toute contraire [^p97-1] . Aussi a-t-on pu dire que « l'objet d'une véritable étymologie, c'est de découvrir les lois qui ont régi l'évolution de la pensée . » Chez les peuples primitifs , le procédé qui entraîne les déviations du sens primitif est quelquefois d'une absurdité éclatante ; du moins il nous paraît tel, en raison des [p. 98] analogies étranges qui servent à l'extension du mot ainsi , des tribus australiennes ont donné aux livres le nom de moules (muyum) , parce qu'ils s'ouvrent et se ferment comme ce coquillage , et on pourrait citer bien d'autres faits non moins singuliers . Il resterait beaucoup à dire sur le rôle de l'analogie, mais je crains de m'écarter de mon sujet.
 
 En terminant, je ne puis m'empêcher de regretter que la psychologie linguistique attire si peu de gens, et que beaucoup de récents traités de psychologie , excellents par ailleurs , ne consacrent pas même une ligne au langage . Pourtant cette étude , surtout comparative , des formes les plus infimes aux plus raffinées, en apprendrait sur le mécanisme de l'intelligence au moins autant que d'autres procédés fort réputés . On s'est lancé avec ardeur dans la psychologie physiologique, en pensant avec raison que, si les faits biologiques , normaux et morbides, sont étudiés par les naturalistes et les médecins, ils peuvent l'être aussi par les psychologues, d'une autre manière . Il en est de même pour les langues : la philologie comparée a son but, la psychologie a le sien. Il est impossible de croire que celui qui, armé d'une suffisante instruction linguistique , se consacrerait à cette tâche, dépenserait sa peine en vain.
 
@@ -1396,11 +1094,7 @@ opération est fort simple : ils supposent le mot ; ils ont dépassé le niveau 
 
 abstraits moyens , deux classes :
 
-1º Les formes inférieures qui confinent aux images génériques et qui ont pour marque objective le rôle effacé du
-
-[p. 100]
-
-mot : on peut à la rigueur se passer de lui et il n'est qu'à un bien faible degré un instrument de substitution ;
+1º Les formes inférieures qui confinent aux images génériques et qui ont pour marque objective le rôle effacé du [p. 100] mot : on peut à la rigueur se passer de lui et il n'est qu'à un bien faible degré un instrument de substitution ;
 
 2º Les formes supérieures qui confinent à la classe des concepts purs et qui ont pour marque objective de ne pouvoir se passer du mot, devenu enfin un instrument de substitution , mais encore accompagné de quelque représentation sensible .
 
@@ -1412,9 +1106,7 @@ Avant de déterminer par des exemples la nature et la portée intellectuelle des
 
 J'écarte tout d'abord comme inacceptable la thèse qui identifie l'abstraction avec l'emploi du mot. Taine semble
 
-[p. 101]
-
-LES FORMES MOYENNES DE L'ABSTRACTION parfois l'admettre :
+[p. 101] LES FORMES MOYENNES DE L'ABSTRACTION parfois l'admettre :
 
 « Nous pensons, dit- il, les caractères abstraits des choses au moyen des noms abstraits qui sont nos idées abstraites , et la formation de nos idées n'est que la formation des noms qui sont des substituts [^p101-1] . » Il est clair que , s'il est impossible d'abstraire sans le mot, cette opération ne commence qu'avec la parole . Tout ce qui a été dit précédemment (dans le ch . Ier) démontre l'inanité d'une telle assertion .
 
@@ -1432,11 +1124,7 @@ ressemblances , mêlées d'assez nombreuses différences ;
 
 4º d'être fixés par un mot . Ils sont le fruit d'une assimilation active .
 
-On dira peut-être qu'opposées ainsi l'une à l'autre , les deux classes ne présentent que des différences minimes , sauf l'adjonction du mot ; encore n'est-il pour le moment (nous en donnerons les preuves plus loin) qu'un instru-
-
-[p. 102]
-
-ment manié par un mauvais ouvrier qui en ignore l'efficacité et la haute portée . Mais , s'il en était autrement, si la délimitation entre les deux classes n'était pas flottante,
+On dira peut-être qu'opposées ainsi l'une à l'autre , les deux classes ne présentent que des différences minimes , sauf l'adjonction du mot ; encore n'est-il pour le moment (nous en donnerons les preuves plus loin) qu'un instru-[p. 102]ment manié par un mauvais ouvrier qui en ignore l'efficacité et la haute portée . Mais , s'il en était autrement, si la délimitation entre les deux classes n'était pas flottante,
 
 il faudrait renoncer à la thèse d'une évolution progressive ou bien admettre qu'elle ne commence
 
@@ -1444,19 +1132,13 @@ qu'avec l'apparition du mot.
 
 Romanes décrit comme il suit le passage de l'image générique au concept : « La poule d'eau , sur la terre et même sur la glace , a une manière de voler un peu différente de celle qu'elle adopte pour l'eau ; et les espèces qui plongent en se précipitant d'une hauteur, n'agissent pas ainsi à l'égard de la terre ni de la glace. Les faits prouvent que les animaux ont un récept [image générique] correspondant à ce qui est solide, un autre correspondant à ce qui estfluide . L'homme agit de même ... ; mais, différant en cela de la poule d'eau, il peut attribuer à chacun de ces deux récepts un nom et les élever ainsi l'un et l'autre à la hauteur d'un concept . Pour le but pratique de la locomotion, il est sans importance qu'il puisse ou non opérer cette transformation ; mais , pour d'autres fins , cela est capital. Pour y parvenir, il faut qu'il soit capable de poser son récept devant son propre esprit comme objet de sa propre pensée . Avant d'imposer à ces idées génériques les noms « fluide et solide » , il doit les avoir connues comme idées . En vertu de cet acte de connaissance , par lequel il assigne un nom à un objet connu comme tel , il a créé pour lui-même et pour des fins autres que la locomotion une possession précieuse : il a formé un concept [^p102-1] . »
 
-[p. 103]
-
-LES FORMES MOYENNES DE L'ABSTRACTION
+[p. 103] LES FORMES MOYENNES DE L'ABSTRACTION
 
 En fait , la transition n'est pas si simple . Romanes omet des intermédiaires : car avec « fluide » et « liquide » , nous pénétrons dans un ordre de concepts plus élevé que ceux qui confinent immédiatement aux images génériques . Ce qu'il fait bien ressortir,
 
 c'est que l'imposition pure et simple du mot n'explique pas tout. Il ne faut pas oublier en effet que , si le développement supérieur de l'intelligence dépend du développement supérieur de l'abstraction qui dépend lui-même du développement de la parole , celle-ci ne dépend pas seulement de la faculté d'articuler, existante chez beaucoup d'animaux, mais de conditions cérébrales antérieures et, finalement, de conditions psychologiques qu'il faut rechercher .
 
-Pour cela , revenons à la distinction vaguement établie plus haut entre l'assimilation passive et l'assimilation active . Nous savons que le mécanisme fondamental de la connaissance se réduit à deux procédés antagonistes : associer, dissocier ; assimiler, différencier ; réunir , séparer ; bref, à la synthèse et à l'analyse [^p103-1]. Dans la formation de l'image générique , nous l'avons vu, l'assimilation joue le rôle principal ; l'esprit ne travaille que sur des ressemblances . A mesure que l'on s'éloigne de ce moment, c'est le contraire ; l'esprit travaille de plus en plus sur des différences ; l'opération primitive et essentielle consiste à dissocier ; la fusion des ressemblances ne vient qu'après . Plus on monte , plus le travail d'analyse devient prépondé-
-
-[p. 104]
-
-rant , parce qu'on poursuit des ressemblances de plus en plus cachées par les différences . Les esprits grossiers ne s'élèvent pas au-dessus des ressemblances palpables . Le paysan qui entend parler un dialecte ou patois très voisin du sien , n'y comprend rien ; il y a pour lui une autre langue , là où un linguistė, même médiocre, constate immédiatement l'identité des mots , ne différant que par l'accent, l'adoucissement, le renforcement, etc.
+Pour cela , revenons à la distinction vaguement établie plus haut entre l'assimilation passive et l'assimilation active . Nous savons que le mécanisme fondamental de la connaissance se réduit à deux procédés antagonistes : associer, dissocier ; assimiler, différencier ; réunir , séparer ; bref, à la synthèse et à l'analyse [^p103-1]. Dans la formation de l'image générique , nous l'avons vu, l'assimilation joue le rôle principal ; l'esprit ne travaille que sur des ressemblances . A mesure que l'on s'éloigne de ce moment, c'est le contraire ; l'esprit travaille de plus en plus sur des différences ; l'opération primitive et essentielle consiste à dissocier ; la fusion des ressemblances ne vient qu'après . Plus on monte , plus le travail d'analyse devient prépondé-[p. 104]rant , parce qu'on poursuit des ressemblances de plus en plus cachées par les différences . Les esprits grossiers ne s'élèvent pas au-dessus des ressemblances palpables . Le paysan qui entend parler un dialecte ou patois très voisin du sien , n'y comprend rien ; il y a pour lui une autre langue , là où un linguistė, même médiocre, constate immédiatement l'identité des mots , ne différant que par l'accent, l'adoucissement, le renforcement, etc.
 
 Nous pouvons figurer la différence entre les images génériques et les notions générales qui s'en rapprochent le plus , par le symbolisme suivant ,
 
@@ -1484,9 +1166,7 @@ assez simple . Il s'agit de dégager A de tous les objets où il est inclus . C'
 
 il exige un travail préalable de dissociation et d'élimination .
 
-[p. 105]
-
-LES FORMES MOYENNES DE L'ABSTRACTION
+[p. 105] LES FORMES MOYENNES DE L'ABSTRACTION
 
 Ainsi entendue, la différence entre les deux procédés ne consiste que dans le pouvoir de dissocier plus ou moins , et rien n'autorise à supposer une différence de nature.
 
@@ -1496,9 +1176,7 @@ Pour les partisans de la première thèse , l'apparition du jugement est « un p
 
 1º Le signe indicatif ; geste ou racine pronominale chez l'homme primitif ; aboiement du chien pour qu'on lui ouvre la porte, etc.
 
-[p. 106]
-
-2º Le signe dénotatif qui s'applique à des choses , qualités ou actions particulières . Exemple : le perroquet qui , en voyant une personne, profère son nom ou un mot quelconque qu'il lui a associé et qui, pour l'animal, est devenu sa marque .
+[p. 106] 2º Le signe dénotatif qui s'applique à des choses , qualités ou actions particulières . Exemple : le perroquet qui , en voyant une personne, profère son nom ou un mot quelconque qu'il lui a associé et qui, pour l'animal, est devenu sa marque .
 
 3º Le signe connotatif ou attributif qui, à tort ou à raison, est attribué à toute une classe d'objets ayant une qualité commune. Exemple d'un enfant qui appliquait le mot « étoile » à tout ce qui brille .
 
@@ -1512,21 +1190,13 @@ Cet ordre hiérarchique, bien qu'il prête à quelques critiques , indique au mo
 
 Il est clair que les deux premiers stades ne dépassent guère le concret.
 
-Au troisième , notre auteur attache une importance capitale ; avec lui commence le jugement. Cependant, on peut se demander si l'affirmation existe vraiment à ce stade . Pour notre part, nous inclinons à l'admettre comme incluse dans l'image générique de l'espèce la plus élevée (car elles aussi ont leurs degrés) , non sous la forme d'une proposition , mais d'une action . Le chien de chasse possède assu-
-
-[p. 107]
-
-LES FORMES MOYENNES DE L'ABSTRACTION rement des images génériques de l'homme et des divers gibiers , sous la forme visuelle et surtout olfactive . Quand il s'élance sur la piste de son maître , d'un lièvre ou d'une perdrix, n'est-ce pas un jugement d'une certaine espèce , une affirmation, la plus indubitable de toutes, puisqu'elle est un acte ? L'absence d'expression verbale et de formalisme logique ne change rien à la nature foncière de l'état mental . Nous avons déjà parlé (ch . Ier), des jugements et raisonnements pratiques ; il est inutile de réitérer .
+Au troisième , notre auteur attache une importance capitale ; avec lui commence le jugement. Cependant, on peut se demander si l'affirmation existe vraiment à ce stade . Pour notre part, nous inclinons à l'admettre comme incluse dans l'image générique de l'espèce la plus élevée (car elles aussi ont leurs degrés) , non sous la forme d'une proposition , mais d'une action . Le chien de chasse possède assu-[p. 107]LES FORMES MOYENNES DE L'ABSTRACTION rement des images génériques de l'homme et des divers gibiers , sous la forme visuelle et surtout olfactive . Quand il s'élance sur la piste de son maître , d'un lièvre ou d'une perdrix, n'est-ce pas un jugement d'une certaine espèce , une affirmation, la plus indubitable de toutes, puisqu'elle est un acte ? L'absence d'expression verbale et de formalisme logique ne change rien à la nature foncière de l'état mental . Nous avons déjà parlé (ch . Ier), des jugements et raisonnements pratiques ; il est inutile de réitérer .
 
 Le passage du troisième au quatrième stade est encore plus important. C'est le moment où apparaît le véritable concept ; ce point atteint, un progrès presque sans limites est possible. Or la vraie cause du vrai concept, c'est la réflexion . Cette formule me paraît la plus simple, la plus courte , la plus claire, la plus exacte . Il a y possibilité de concept quand il y a possibilité pour l'esprit de détacher un caractère (ou plusieurs) , extrait entre beaucoup d'autres , de le poser comme entité indépendante, de l'ériger en objet connu , c'est-à-dire déterminé dans ses rapports
 
 avec nous et avec les autres choses . Exemple : se former l'idée générale d'un vertébré. Mais cet acte fondamental, la réflexion , - n'est pas sans antécédents , il ne jaillit pas comme une apparition nouvelle, il est le plus haut degré de l'attention, c'est-à-dire d'une attitude de l'esprit qui se rencontre même très bas dans l'échelle animale .
 
-La discontinuité dans l'évolution, dans le passage de l'inférieur au supérieur, est donc loin d'être établie. Sans doute, comme toutes les questions de genèse , celle-ci laisse beaucoup de place à l'hypothèse, et on ne peut se décider que d'après des vraisemblances ; mais elles ne me
-
-[p. 108]
-
-semblent pas en faveur d'une rupture de continuité et d'une opposition de nature .
+La discontinuité dans l'évolution, dans le passage de l'inférieur au supérieur, est donc loin d'être établie. Sans doute, comme toutes les questions de genèse , celle-ci laisse beaucoup de place à l'hypothèse, et on ne peut se décider que d'après des vraisemblances ; mais elles ne me [p. 108] semblent pas en faveur d'une rupture de continuité et d'une opposition de nature .
 
 En résumé, pour nous en tenir au moins contestable : conditions cérébrales et psychologiques de la parole (non du langage articulé seul), imposition du mot aux qualités et attributs qui peu à peu sont érigés en choses indépendantes , et le pas définitif est franchi . Telle est la marche de l'esprit et remarquons en passant que le processus qui crée le véritable concept, conduit du même coup, fatalement , à la foi aux idoles , aux entités réalisées .
 
@@ -1536,9 +1206,7 @@ et au point de vue strict de la psychologie expérimentale , la nature des forme
 
 : elles instruisent plus que les enfants, parce qu'elles représentent un état fixe , permanent . Nous pouvons puiser à deux sources principales ; leurs langues , leurs systèmes de numération. On pourrait étudier aussi leurs croyances religieuses , ce qui conduirait aux mêmes résultats , mais serait trop long et moins précis [^p108-1] .
 
-[p. 109]
-
-LES FORMES MOYENNES DE L'ABSTRACTION
+[p. 109] LES FORMES MOYENNES DE L'ABSTRACTION
 
 1º Les langues, considérées dans leurs caractères les plus généraux, révèlent une notable impuissance à dépasser les ressemblances les plus simples, une incapacité incurable pour des généralisations étendues ; elles s'élèvent à peine au- dessus du concret. Le rôle du mot est très effacé ; c'est un substitut très incomplet ; il n'est guère qu'une marque, une étiquette, comme le geste ; il n'en diffère que par l'avenir qu'il porte en lui . L'étude de la marche ascendante de la généralisation est, en effet, l'étude des phases successives d'émancipation du mot jusqu'au moment où il devient prépondérant, dominateur. Au stade actuel , qu'on pourrait dénommer justement concret-abstrait, il n'est pas encore émancipé ; il est mineur, en tutelle .
 
@@ -1558,9 +1226,7 @@ Dans les langues barbares , il y a des termes pour désigner non seu
 
 génies ; c'est le règne du concret. Un progrès consiste à subordonner le génie de chaque arbre au dieu de la forêt, les divers génies d'un fleuve au dieu du fleuve, etc. A un degré plus haut, l'esprit constitue un seul Dieu pour l'eau , un seul pour le feu, un seul pour la terre, etc. On a ainsi des génies d'origine individuelle, spécifique , générique .
 
-[p. 110]
-
-lement chaque espèce de chien, mais leur âge, la couleur de leur poil , leurs qualités bonnes ou mauvaises , etc. De même pour le cheval : des mots spéciaux désignent ses variétés , tous les mouvements qu'il se donne ; ils indiquent s'il est monté , non monté , épouvanté, s'il se détache, etc.
+[p. 110] lement chaque espèce de chien, mais leur âge, la couleur de leur poil , leurs qualités bonnes ou mauvaises , etc. De même pour le cheval : des mots spéciaux désignent ses variétés , tous les mouvements qu'il se donne ; ils indiquent s'il est monté , non monté , épouvanté, s'il se détache, etc.
 
 Les Américains du Nord ont des mots spéciaux pour le chêne noir, le chêne blanc et le chêne rouge, mais aucun pour le chêne en général ; à plus forte raison pour arbre en général . Les indigènes du Brésil peuvent dénommer les différentes parties du corps , mais non le corps en général (Lubbock) . - Chez plusieurs peuples de l'Océanie, un vocable spécial est employé pour la queue d'un chien , un autre pour celle d'un mouton , etc. , mais on ne peut désigner une queue en général. De même, aucun terme pour désigner la vache , mais des mots distincts pour la vache rouge , blanche, brune (Saycе) .
 
@@ -1574,9 +1240,7 @@ de même à l'origine , un mot pour chaque doigt, aucun pour doigt en général 
 
 Mêmes remarques sur la pauvreté de l'adjectif, le terme abstrait par excellence . On a souvent cité le cas des Tas
 
-[p. 111]
-
-LES FORMES MOYENNES DE L'ABSTRACTION maniens qui ne peuvent exprimer les qualités que par des représentations concrètes : dur = comme une pierre ; long = jambes ; rond = comme une boule, comme la lune , etc. (Lubbock). Un cas moins connu, que les
+[p. 111] LES FORMES MOYENNES DE L'ABSTRACTION maniens qui ne peuvent exprimer les qualités que par des représentations concrètes : dur = comme une pierre ; long = jambes ; rond = comme une boule, comme la lune , etc. (Lubbock). Un cas moins connu, que les
 
 linguistes appellent << concrétisme » , se rencontre même dans certains idiomes assez développés, comme une survivance de l'époque où l'esprit ne pouvaitse détacher du concret ni se passer d'une qualification complète et détaillée . On ne dit pas : dix marchands, cinq poules ; mais, marchands dix hommes , poules cinq oiseaux , et ainsi de suite pour les cas similaires .
 
@@ -1586,9 +1250,7 @@ d'une généralisation pourtant bien simple , à notre jugement. Les Indiens du 
 
 : boire , manger, danser , voir, etc. , et même aimer, remercier, etc. (Lubbock) .
 
-[p. 112]
-
-Je ne multiplierai pas les exemples
+[p. 112] Je ne multiplierai pas les exemples
 
 : ceux-ci suffisent à mettre en relief une impuissance extrême pour généraliser, dès que l'esprit perd son point d'appui dans le concret. On pourrait rappeler aussi la difficulté tant de fois signalée par les missionnaires
 
@@ -1600,9 +1262,7 @@ Nous avons vu la parole si humble à l'origine , qu'elle a besoin du geste qui l
 
 On sait que beaucoup de tribus australiennes et sud-
 
-[p. 113]
-
-= américaines ne comptent verbalement que jusqu'à deux ; quelques-unes disent : deux-un = trois ; deux-deux quatre ; quelques autres par le même procédé s'élèvent jusqu'à six (deux-trois = cinq ; trois-trois = six) ; puis tout le reste est « beaucoup » . Le plus souvent ils comptent sans mots , à l'aide des doigts ou des articulations ; même lorsqu'ils possèdent des mots, les deux numérations digitale et verbale
+[p. 113] = américaines ne comptent verbalement que jusqu'à deux ; quelques-unes disent : deux-un = trois ; deux-deux quatre ; quelques autres par le même procédé s'élèvent jusqu'à six (deux-trois = cinq ; trois-trois = six) ; puis tout le reste est « beaucoup » . Le plus souvent ils comptent sans mots , à l'aide des doigts ou des articulations ; même lorsqu'ils possèdent des mots, les deux numérations digitale et verbale
 
 se font simultanément (1) .
 
@@ -1628,11 +1288,7 @@ RIBOT .
 
 Idées générales .
 
-8
-
-[p. 114]
-
-l'unité simple . On dit alors : une main = 5 ; deux mains ou un demi-homme = 10 ; deux mains, un pied = 15 ; deux mains , deux pieds ou un homme = 20. Telle est évidemment l'origine des numérations quinaire, décimale, vigésimale . Parfois les doigts, comme instruments de numération, ont été remplacés par des objets à nombre typique. Ex. :
+8 [p. 114] l'unité simple . On dit alors : une main = 5 ; deux mains ou un demi-homme = 10 ; deux mains, un pied = 15 ; deux mains , deux pieds ou un homme = 20. Telle est évidemment l'origine des numérations quinaire, décimale, vigésimale . Parfois les doigts, comme instruments de numération, ont été remplacés par des objets à nombre typique. Ex. :
 
 1
 
@@ -1644,9 +1300,7 @@ Quelque variés que soient ces procédés, car nous ne les mentionnons pas tous,
 
 Quoiqu'on en ait parlé moins souvent, remarquons que la mesure de la quantité continue a débuté elle aussi par la même phase concrète-abstraite ; et elle s'est produite assez tôt, suscitée par des besoins pratiqueset des nécessités sociales . Ainsi nous trouvons à l'origine le pied, le doigt, le pouce , la palestre (largeur des quatre doigts) , l'empan , la coudée , la brasse, etc. , le stade (distance qu'un bon coureur pouvait parcourir sans s'arrêter) . Le caractère concret de ces mesures est évident. Nous en avons encore des survivances dans certaines locutions courantes, comme une journée de marche . Il y a plus ; elles ont un caractère humain , ayant pour étalon et point de repère, du moins au début , certaines parties du corps ou une somme déterminée de mouvements musculaires . Peu à peu, elles ont
 
-[p. 115]
-
-LES FORMES MOYENNES DE L'ABSTRACTION perdu leur signification originelle pour acheminer, à travers des siècles, à notre système métrique, type d'une construction savante , réfléchie , rationnellement abstraite , dépouillée autant que possible de tout anthropomorphisme.
+[p. 115] LES FORMES MOYENNES DE L'ABSTRACTION perdu leur signification originelle pour acheminer, à travers des siècles, à notre système métrique, type d'une construction savante , réfléchie , rationnellement abstraite , dépouillée autant que possible de tout anthropomorphisme.
 
 En récapitulant dans sa mémoire les exemples cités , le lecteur sera probablement fixé sur la nature de ces formes inférieures , mieux que par de longues dissertations . Le niveau intellectuel qu'elles laissent transparaître est-il de beaucoup supérieur à celui des images génériques ? C'est douteux . Parfois il n'y a guère pour les différencier que la présence du mot : pour le moment, il fait pauvre figure ; mais, si humble qu'il soit, il annonce un monde nouveau où sa place deviendra la première .
 
@@ -1656,11 +1310,7 @@ Ce qui va suivre est une étude de transition . En passant des formes inférieur
 
 Au risque d'être accusé de répétition , il faut tout d'abord indiquer par quels caractères les notions générales qui nous occupent actuellement se distinguent des abstractions qui sont au-dessous et des abstractions qui sont au-dessus . Je résume ces différences aussi brièvement que possible .
 
-Dans la phase concrète-abstraite (que nous quittons) la
-
-[p. 116]
-
-notion générale ou soi-disant telle, est constituée par des éléments concrets , plus le mot dont l'office de substitution est faible ou nul .
+Dans la phase concrète-abstraite (que nous quittons) la [p. 116] notion générale ou soi-disant telle, est constituée par des éléments concrets , plus le mot dont l'office de substitution est faible ou nul .
 
 Dans la phase abstraite (où nous entrons), le concept est constitué par une image évoquée ou évocable , qui peut avoir tous les degrés depuis la représentation nette jusqu'au pur schéma simplement entrevu , plus le mot qui devient l'élément principal. Nous pensons ces concepts surtout avec les mots .
 
@@ -1676,23 +1326,15 @@ supérieures de
 
 l'abstraction moyenne , car nous ne pouvons nous contenter d'une détermination purement théorique. Il faut les caractériser nettement par des exemples : or cette tentative est assez embarrassante . Faut-il choisir la numération ? Mais , dès qu'elle sort de la période concrète-abstraite , elle trouve sa loi de formation et nous introduit tout de suite dans l'abstraction pure . Faut-il avoir recours au langage ? Ce procédé peut paraître convenable, puisque les idées générales qui nous occupent constituent le fond de nos langues modernes , très civilisées , où , d'autre part, les concepts les
 
-[p. 117]
+[p. 117] LES FORMES MOYENNES DE L'ABSTRACTION plus élevés (mathématiques, métaphysiques , etc.) , ne se rencontrent que rarement et par accident . On pourrait à la rigueur dépouiller un dictionnaire , en extraire tous les termes généraux, élimination faite des mots purement scientifiques et les classer suivant leur ordre croissant de généralité . Mais ce procédé, outre qu'il serait très fastidieux , incapable de se plier à une exposition claire pour le lecteur , aurait le défaut capital d'être arbitraire ; car, comment établir une commune mesure entre ces termes généraux , issus des sources les plus diverses de l'activité humaine [^p117-1] ?
 
-LES FORMES MOYENNES DE L'ABSTRACTION plus élevés (mathématiques, métaphysiques , etc.) , ne se rencontrent que rarement et par accident . On pourrait à la rigueur dépouiller un dictionnaire , en extraire tous les termes généraux, élimination faite des mots purement scientifiques et les classer suivant leur ordre croissant de généralité . Mais ce procédé, outre qu'il serait très fastidieux , incapable de se plier à une exposition claire pour le lecteur , aurait le défaut capital d'être arbitraire ; car, comment établir une commune mesure entre ces termes généraux , issus des sources les plus diverses de l'activité humaine [^p117-1] ?
+Il m'a semblé que la meilleure méthode à suivre , c'est de prendre pour base les classifications des naturalistes , en suivant l'histoire de leurs développements . Nous avons , en effet, l'avantage de nous appuyer sur des documents [p. 118] positifs , puisqu'elles s'appliquent à des êtres concrets et se constituent d'après des caractères pris dans l'expérience ; puisqu'elles exigent une marche ascendante de l'individu aux notions les plus générales , suivant une filiation méthodique ; puisqu'elles opèrent sur des êtres vivants ou des objets de même nature , ayant par conséquent entre eux une commune mesure . Nous allons voir que l'histoire , même très sommaire , de ces classifications est instructive : elle montre le passage progressif des notions concrètesabstraites à des concepts de plus en plus abstraits, de la constatation des ressemblances grossières à la recherche des ressemblances subtiles, de la période de l'assimilation à celle où la dissociation prédomine .
 
-Il m'a semblé que la meilleure méthode à suivre , c'est de prendre pour base les classifications des naturalistes , en suivant l'histoire de leurs développements . Nous avons , en effet, l'avantage de nous appuyer sur des documents
-
-[p. 118]
-
-positifs , puisqu'elles s'appliquent à des êtres concrets et se constituent d'après des caractères pris dans l'expérience ; puisqu'elles exigent une marche ascendante de l'individu aux notions les plus générales , suivant une filiation méthodique ; puisqu'elles opèrent sur des êtres vivants ou des objets de même nature , ayant par conséquent entre eux une commune mesure . Nous allons voir que l'histoire , même très sommaire , de ces classifications est instructive : elle montre le passage progressif des notions concrètesabstraites à des concepts de plus en plus abstraits, de la constatation des ressemblances grossières à la recherche des ressemblances subtiles, de la période de l'assimilation à celle où la dissociation prédomine .
-
-Entre ces classifications diverses, je choisis celles des zoologistes , parce qu'elles m'ont paru les plus nombreuses , les plus complètes, les mieux élaborées . Au reste, les remarques qui vont suivre pourraient s'appliquer tout aussi bien , mutatis mutandis , aux classifications des botanistes . Il n'y a pas besoin d'ajouter que notre étude est strictement psychologique, qu'elle a pour objet non la valeur absolue des classifications , mais la détermination des procédés suivis par l'esprit humain, à mesure que la taxonomie zoologique s'est constituée .
+Entre ces classifications diverses, je choisis celles des zoologistes , parce qu'elles m'ont paru les plus nombreuses , les plus complètes, les mieux élaborées . Au reste, les remarques qui vont suivre pourraient s'appliquer tout aussi bien , *mutatis mutandis* , aux classifications des botanistes . Il n'y a pas besoin d'ajouter que notre étude est strictement psychologique, qu'elle a pour objet non la valeur absolue des classifications , mais la détermination des procédés suivis par l'esprit humain, à mesure que la taxonomie zoologique s'est constituée .
 
 Nous trouvons au début une période pré-scientifique sur laquelle nous sommes assez mal renseignés ; car ces essais de classifications diffèrent suivant les temps et les races . La Bible , les livres hindous, les poètes et historiens primitifs de la Grèce , nous fournissent pourtant des indications suffisantes pour comprendre comment l'homme a classé les êtres vivants , à l'origine . Ordinairement, la
 
-[p. 119]
-
-LES FORMES MOYENNES DE L'ABSTRACTION répartition se fait d'abord en trois grandes catégories, suivant que les animaux vivent dans l'eau ou vivent sur la terre ou volent dans l'air. Les subdivisions sont étranges . Ainsi , pour les animaux terrestres , il y a ceux qui marchent et ceux qui rampent : dans ce dernier groupe se trouvent pêle-mêle des articulés, des mollusques, des reptiles , des amphibies. Parmi les animaux aériens , il y a les oiseaux et beaucoup d'insectes qui volent. Ces classifications primitives reposent sur les perceptions bien plus que sur des abstractions , ou du moins elles n'ont pour base que dés ressemblances superficielles . Le milieu habituel : air, eau, terre , détermine les grandes classes. Un caractère facile à saisir détermine les subdivisions : le vol (oiseaux, insectes) , la locomotion
+[p. 119] LES FORMES MOYENNES DE L'ABSTRACTION répartition se fait d'abord en trois grandes catégories, suivant que les animaux vivent dans l'eau ou vivent sur la terre ou volent dans l'air. Les subdivisions sont étranges . Ainsi , pour les animaux terrestres , il y a ceux qui marchent et ceux qui rampent : dans ce dernier groupe se trouvent pêle-mêle des articulés, des mollusques, des reptiles , des amphibies. Parmi les animaux aériens , il y a les oiseaux et beaucoup d'insectes qui volent. Ces classifications primitives reposent sur les perceptions bien plus que sur des abstractions , ou du moins elles n'ont pour base que dés ressemblances superficielles . Le milieu habituel : air, eau, terre , détermine les grandes classes. Un caractère facile à saisir détermine les subdivisions : le vol (oiseaux, insectes) , la locomotion
 
 (marcher, ramper). Le procédé employé n'est plus très supérieur à celui qui forme les images génériques ; et, dans l'ordre des classifications , ce moment répond à la période concrète-abstraite des langues , numérations et religions primitives, c'est-à-dire à une généralisation grossière fixée par un mot.
 
@@ -1702,9 +1344,7 @@ apparentes , superficielles , aux ressemblances profondes , essentielles . Toute
 
 sa classification est très imparfaite, souvent inconsistante ; elle porte l'empreinte d'une époque de transition .
 
-[p. 120]
-
-Sa terminologie est pauvre, mal fixée, flottante . Il ne distingue guère que deux sortes de groupes
+[p. 120] Sa terminologie est pauvre, mal fixée, flottante . Il ne distingue guère que deux sortes de groupes
 
 : le genre (γένος) et l'espèce ( εἶδος) . « Mais le terme γένος a la signification la moins constante ; il sert à désigner indistinctement tout groupe d'espèces quelle qu'en soit l'étendue , aussi bien ce que nous appelons aujourd'hui des classes que d'autres groupes inférieurs [^p120-1] . » Parfois cependant Aristote parle de grands genres (γένη μεγάλα) et de très grands genres (γένη μέγιστα), mais sans préciser leurs marques . On a dit que la pénurie de mots a été pour lui un obstacle cette raison n'est guère plausible, puisqu'il a bien su créer le mot ἔντομα pour désigner les insectes. L'obstacle véritable est dans la détermination insuffisante des caractères .
 
@@ -1712,9 +1352,7 @@ Indépendamment de la nomenclature , « bien qu'Aristote connût un assez grand 
 
 Il compare de toutes les façons possibles les animaux les uns aux autres et cherche à réduire en propositions générales le résultat de ses comparaisons » . Il arrive ainsi à des rapproehements tantôt importants , tantôt sans importance . Exemple : Parmi les animaux, les uns ont du sang, d'autres de la lymphe qui en tient lieu : cette division , malgré l'erreur qui lui sert de base, répond en gros à la distinction des vertébrés et des invertébrés . Les animaux « qui ont du
 
-[p. 121]
-
-LES FORMES MOYENNES DE L'ABSTRACTION sang >> sont subdivisés en vivipares et ovipares . Ailleurs les animaux qui volent sont répartis en trois catégories , suivant qu'ils ont des ailes garnies de plume (oiseaux) ou formées par un repli de la peau (chauves-souris) ou sèches , minces et membraneuses (insectes) . Puis on trouve une division des animaux en aquatiques et terrestres , sociaux et solitaires , migrateurs
+[p. 121] LES FORMES MOYENNES DE L'ABSTRACTION sang >> sont subdivisés en vivipares et ovipares . Ailleurs les animaux qui volent sont répartis en trois catégories , suivant qu'ils ont des ailes garnies de plume (oiseaux) ou formées par un repli de la peau (chauves-souris) ou sèches , minces et membraneuses (insectes) . Puis on trouve une division des animaux en aquatiques et terrestres , sociaux et solitaires , migrateurs
 
 et sédentaires , diurnes et nocturnes , privés et sauvages, etc.
 
@@ -1746,19 +1384,13 @@ essentielles ,
 
 corrigeant sans cesse son œuvre première . Ainsi à la onzième édition seulement du
 
-[p. 122]
-
-Systema naturæ la classe des « Quadrupèdes>> devient celle des Mammifères ; les Cétacés rentrent dans cette classe et non plus dans celle des poissons ; les chauvessouris de même et non plus dans celle des oiseaux, etc. [^p122-1] . Quelle que puisse être leur valeur objective , nous trouvons ici un vrai système de concepts rationnels .
+[p. 122] Systema naturæ la classe des « Quadrupèdes>> devient celle des Mammifères ; les Cétacés rentrent dans cette classe et non plus dans celle des poissons ; les chauvessouris de même et non plus dans celle des oiseaux, etc. [^p122-1] . Quelle que puisse être leur valeur objective , nous trouvons ici un vrai système de concepts rationnels .
 
 Mentionnons encore Cuvier pour la netteté avec laquelle il sépare les caractères dominateurs et les caractères subordonnés
 
 : « Si l'on considère, dit-il, le règne animal d'après les principes que nous venons de poser, en n'ayant égard qu'à l'organisation et à la nature des animaux, et non pas à leur grandeur, à leur utilité, au plus ou moins de connaissance que nous en avons, ni à toutes les circonstances accessoires, on trouvera qu'il existe quatre formes principales, quatre plans généraux si l'on peut s'exprimer ainsi, d'après lesquels les animaux semblent avoir été modelés, etc. » On sait que ces quatre embranchements (mot nouveau qu'il a créé) et pour lui irréductibles , étaient ceux des Vertébrés, Articulés, Mollusques et Rayonnés .
 
-Enfin , le progrès de l'abstraction et de la généralisation consécutive consistant à rechercher sans cesse des extraits d'extraits et des simplifications de simplifications, le mouvement naturel de l'esprit tend fatalement vers l'unité pure, comme but suprême. Cette dernière phase appar-
-
-[p. 123]
-
-LES FORMES MOYENNES DE L'ABSTRACTION tient au xxx° siècle et surtout à l'époque contemporaine . Elle vient de diverses sources et a pris diverses formes
+Enfin , le progrès de l'abstraction et de la généralisation consécutive consistant à rechercher sans cesse des extraits d'extraits et des simplifications de simplifications, le mouvement naturel de l'esprit tend fatalement vers l'unité pure, comme but suprême. Cette dernière phase appar-[p. 123]LES FORMES MOYENNES DE L'ABSTRACTION tient au xxx° siècle et surtout à l'époque contemporaine . Elle vient de diverses sources et a pris diverses formes
 
 Spéculative dans l'école de Schelling. Pour son plus haut représentant, Oken , l'homme est le prototype et la mesure de l'organisation animale ; tous les animaux sont construits sur son patron. « Leur corps est en quelque sorte le corps de l'homme analysé ; les organes humains vivent soit isolément, soit sous diverses combinaisons , à l'état d'animaux indépendants . Chacune de ces combinaisons constitue une classe . >>>
 
@@ -1772,11 +1404,7 @@ Haeckel , adopte une conception rigoureusement unitaire
 
 : tous les innombrables exemplaires du règne animal sont issus d'une même et commune souche .
 
-Au fond de toutes , il y a l'entraînement de l'esprit vers l'idée d'une unité originelle . Il n'importe pas pour le mo
-
-[p. 124]
-
-ment d'examiner si ce concept de l'unité idéale (on aurait pu rappeler aussi le végétal idéal de Gæthe et le vertébré idéal de Richard Owen)
+Au fond de toutes , il y a l'entraînement de l'esprit vers l'idée d'une unité originelle . Il n'importe pas pour le mo [p. 124] ment d'examiner si ce concept de l'unité idéale (on aurait pu rappeler aussi le végétal idéal de Gæthe et le vertébré idéal de Richard Owen)
 
 est un leurre ou une légitime prise de possession de la vérité : nous y reviendrons plus tard, en discutant la valeur objective des notions de genre et d'espèce (ch . V, sect. vI) . Actuellement, le procédé subjectif, psychologique , nous intéresse seul .
 
@@ -1794,15 +1422,11 @@ Nous voici au seuil de la période ultime de l'abstraction, celle du symbolisme 
 
 où le mécanisme de l'échange s'est développé lui aussi à l'aide d'une substitution toujours croissante . Ainsi , au plus bas degré, toute transaction commerciale se réduit au troc , à l'échange en nature ; on donne du concret pour du concret : c'est le procédé des peuples primitifs . Un pas immense a été franchi, lorsqu'à ce procédé rudimentaire succéda l'emploi des métaux précieux : on substitua une valeur qui servit de commune
 
-[p. 125]
-
-LES FORMES MOYENNES DE L'ABSTRACTION mesure aux autres valeurs. On sait que l'argent et l'or, sous forme de poudre ou de petits lingots , étaient à l'origine pesés par les contractants pour chaque transaction particulière . Puis, à ce procédé incommode, s'est substitué la frappe de la monnaie par les soins et sous le contrôle d'un chef ou de l'agrégat social, ce qui confère à l'instrument d'échange une valeur générale. Puis, bien plus tard , à l'or et à l'argent se substituent la lettre de change , le billet de banque et les nombreuses formes de la monnaie fiduciaire ; en sorte qu'une feuille de papier qui ne vaut pas un centime peut devenir le symbole de millions et même de milliards .
+[p. 125] LES FORMES MOYENNES DE L'ABSTRACTION mesure aux autres valeurs. On sait que l'argent et l'or, sous forme de poudre ou de petits lingots , étaient à l'origine pesés par les contractants pour chaque transaction particulière . Puis, à ce procédé incommode, s'est substitué la frappe de la monnaie par les soins et sous le contrôle d'un chef ou de l'agrégat social, ce qui confère à l'instrument d'échange une valeur générale. Puis, bien plus tard , à l'or et à l'argent se substituent la lettre de change , le billet de banque et les nombreuses formes de la monnaie fiduciaire ; en sorte qu'une feuille de papier qui ne vaut pas un centime peut devenir le symbole de millions et même de milliards .
 
 Cette ressemblance des deux cas n'est pas fortuite . Elle a sa base dans l'identité du procédé psychologique qui est une substitution à degrés ascendants , une simplification toujours croissante, soit dans l'ordre des recherches spéculatives , soit dans le domaine des transactions commerciales : et, de même que le papier-symbole, s'il n'est finalement convertible en objets de consommation, nécessaires ou frivoles , est un pur néant qu'on peut entasser dans sa caisse sans rien posséder que des apparences ; de même , si les plus hauts symboles de l'abstraction ne sont réductibles aux données de l'expérience, on peut, comme il arrive trop souvent, entasser, manipuler, échafauder des concepts et être en état de banqueroute intellectuelle permanente .
 
-[p. 126]
-
-[p. 127]
+[p. 126] [p. 127]
 
 ### Chapitre iv
 
@@ -1820,11 +1444,7 @@ comme on l'a soutenu à satiété ? Cette assertion n'est-elle pas fondée sur l
 
 Il n'est pas nécessaire d'exposer longuement les recherches faites durant ces trente dernières années sur le siège et la nature des images . Toutefois , comme elles ont servi de point de départ à l'enquête qui va suivre , il est bon d'en résumer les résultats très brièvement .
 
-On admet généralement que l'image occupe le même siège que la perception, dont elle est un résidu affaibli et
-
-[p. 128]
-
-incomplet ; c'est-à-dire que , pour se produire dans
+On admet généralement que l'image occupe le même siège que la perception, dont elle est un résidu affaibli et [p. 128] incomplet ; c'est-à-dire que , pour se produire dans
 
 la conscience, elle exige la mise en activité de certaines portions déterminées des centres cérébraux. L'énergie de la faculté représentative ne varie pas seulement d'un individu à un autre d'une manière générale : il y a, en fait, des formes particulières d'imagination, constituées par la prédominance très marquée d'un groupe particulier de représentations ,
 
@@ -1840,9 +1460,7 @@ un type « mixte >> ou << indifférent » , dans lequel les diverses espèces de
 
 c'est-à-dire une tendance à se représenter les choses en termes empruntés à la vision , on aux sons , ou aux mouvements . En poussant plus loin ces recherches , on a pu constater que ces types eux-mêmes comportent des variétés ou sous-types . Ainsi, on peut avoir une faculté de représentation très vive pour les formes visuelles complexes (visages , paysages , monuments), très faible pour les signes graphiques (mots imprimés ou écrits), et ainsi de suite.
 
-[p. 129]
-
-Les travaux nombreux consacrés à ce sujet, trop connus pour que j'insiste , conduisent à cette conclusion
+[p. 129] Les travaux nombreux consacrés à ce sujet, trop connus pour que j'insiste , conduisent à cette conclusion
 
 : il n'existe pas une faculté d'imagination en général ; c'est un terme vague désignant des variétés individuelles fort différentes ; celles-ci seules ont une réalité psychologique et seules sont importantes à connaître pour le mécanisme de l'esprit .
 
@@ -1860,17 +1478,13 @@ Idées générales .
 
 9
 
-[p. 130]
-
-Je souligne ces derniers mots à dessein, pour bien mettre en lumière mon principal but, qui était de découvrir le travail instantané (conscient ou inconscient) qui se produit, en pareil cas , chez des personnes dont les habitudes d'esprit sont très différentes . J'ai visé à exclure autant que possible la réflexion et à saisir l'état mental sur le vif. Les esprits , même les moins aptes à l'abstraction, parviennent avec du temps et de l'effort à traduire bien ou mal les termes généraux ou à leur substituer un simulacre de définition tronquée et boiteuse . C'est un travail du second moment que j'ai essayé de supprimer pour m'en tenir au premier moment, pour tâcher de déterminer ce que le mot évoque immédiatement [^p130-1] et en quelle mesure cela diffère suivant les individus .
+[p. 130] Je souligne ces derniers mots à dessein, pour bien mettre en lumière mon principal but, qui était de découvrir le travail instantané (conscient ou inconscient) qui se produit, en pareil cas , chez des personnes dont les habitudes d'esprit sont très différentes . J'ai visé à exclure autant que possible la réflexion et à saisir l'état mental sur le vif. Les esprits , même les moins aptes à l'abstraction, parviennent avec du temps et de l'effort à traduire bien ou mal les termes généraux ou à leur substituer un simulacre de définition tronquée et boiteuse . C'est un travail du second moment que j'ai essayé de supprimer pour m'en tenir au premier moment, pour tâcher de déterminer ce que le mot évoque immédiatement [^p130-1] et en quelle mesure cela diffère suivant les individus .
 
 Pour que les réponses soient plus exactement compa. rables , je n'ai interrogé que des adultes des deux sexes , à l'exclusion de tout enfant. Il était indispensable de comprendre dans mon enquête des gens très dissemblables par leur degré de culture, leur tournure d'esprit et leurs habitudes professionnelles . J'énumère les principales catégories : mathématiciens, physiciens, médecins , érudits , philosophes, peintres, musiciens, architectes,
 
 gens du monde , femmes , romanciers, poètes , ouvriers , paysans .
 
-[p. 131]
-
-Ces derniers ont répondu d'une façon si peu claire , que je considère ces documents comme nuls ; ils laisseraient une trop large part à mon interprétation personnelle. Le total des personnes interrogées s'élève à 103 .
+[p. 131] Ces derniers ont répondu d'une façon si peu claire , que je considère ces documents comme nuls ; ils laisseraient une trop large part à mon interprétation personnelle. Le total des personnes interrogées s'élève à 103 .
 
 J'ai toujours procédé de la même manière, en disant au sujet : « Je vais prononcer plusieurs mots ; je vous prie de me dire immédiatement et sans réflexion, si ce mot n'évoque rien dans votre esprit, ou s'il évoque quelque chose et quoi ? » La réponse était notée aussitôt ; si elle tardait plus de cinq à sept secondes, elle était considérée comme nulle ou douteuse . Pour les sujets naïfs , j'avais recours à un entraînement préalable
 
@@ -1884,11 +1498,7 @@ forme , justice , bonté, vertu , loi
 
 force , temps , rapport, cause, infini.
 
-L'enquête a toujours été faite oralement, jamais par écrit, en ayant grand soin de ne pas prévenir la personne du but que je poursuivais, sinon après : ce qui m'a valu dans certains cas des éclaircissements intéressants . La nature même
-
-[p. 132]
-
-de mon procédé m'a empêché de l'étendre autant que j'aurais voulu . Je ne pouvais, à la manière anglaise, user de questionnaires imprimés et largement distribués dans le public, puisqu'il fallait noter sur-le-champ la réponse spontanée, non corrigée par la réflexion ultérieure . De plus ,
+L'enquête a toujours été faite oralement, jamais par écrit, en ayant grand soin de ne pas prévenir la personne du but que je poursuivais, sinon après : ce qui m'a valu dans certains cas des éclaircissements intéressants . La nature même [p. 132] de mon procédé m'a empêché de l'étendre autant que j'aurais voulu . Je ne pouvais, à la manière anglaise, user de questionnaires imprimés et largement distribués dans le public, puisqu'il fallait noter sur-le-champ la réponse spontanée, non corrigée par la réflexion ultérieure . De plus ,
 
 il me fallait des sujets vierges, ignorant mon dessein
 
@@ -1900,11 +1510,7 @@ I. Type concret . - Le mot abstrait éveille presque toujours une image, vague o
 
 à lui-même .
 
-Il se transforme immédiatement et spontanément en un concret. En fait, les personnes de ce type ne pensent que par images. Le mot n'est pour elles qu'une sorte de véhicule, un instrument social pour se comprendre et se faire comprendre. Quand une série de termes généraux ou abstraits se déroule dans leur esprit , ce qui se déroule , en réalité, c'est une série de concrets ,
-
-[p. 133]
-
-sauf pour les mots très abstraits qui « n'évoquent rien » . C'est une réponse que j'ai très souvent recueillie et qui , en raison de son importance, sera étudiée séparément dans la suite de ce chapitre .
+Il se transforme immédiatement et spontanément en un concret. En fait, les personnes de ce type ne pensent que par images. Le mot n'est pour elles qu'une sorte de véhicule, un instrument social pour se comprendre et se faire comprendre. Quand une série de termes généraux ou abstraits se déroule dans leur esprit , ce qui se déroule , en réalité, c'est une série de concrets , [p. 133] sauf pour les mots très abstraits qui « n'évoquent rien » . C'est une réponse que j'ai très souvent recueillie et qui , en raison de son importance, sera étudiée séparément dans la suite de ce chapitre .
 
 Le type concret m'a paru de beaucoup le plus répandu : il existe presque exclusivement chez les femmes, les artistes et tous ceux qui n'ont pas l'habitude des abstractions scientifiques . Parmi les très nombreuses observations qui appartiennent à ce type, je choisis quelques échantillons .
 
@@ -1916,11 +1522,7 @@ Une femme . Cause : j'ai été cause des succès de son fils . Loi : le gouverne
 
 deux personnes ayant chacune cette qualité . Force : voit des lutteurs . Rapport : rapports sociaux , entre mari et femme . Justice : voit une salle d'audience et des juges . Chien : voit un chien qui a mordu un de ses parents . Infini : rien. Temps : un métronome.
 
-Ces deux interrogatoires sont complets . Je pourrais pro-
-
-[p. 134]
-
-céder d'une autre manière : prendre chacun des termes généraux (loi, cause , nombre, etc.) et énumérer les réponses obtenues, parmi lesquelles il s'en trouve souvent d'identiques . Cette énumération serait très longue et superflue . Je ne puis cependant omettre quelques remarques de détail .
+Ces deux interrogatoires sont complets . Je pourrais pro-[p. 134]céder d'une autre manière : prendre chacun des termes généraux (loi, cause , nombre, etc.) et énumérer les réponses obtenues, parmi lesquelles il s'en trouve souvent d'identiques . Cette énumération serait très longue et superflue . Je ne puis cependant omettre quelques remarques de détail .
 
 Pour le mot cause,
 
@@ -1934,11 +1536,7 @@ Les termes bonté et vertu ont donné lieu à des réponses très faciles à ré
 
 elles forment deux catégories : 1º rien ; cette réponse n'appartient pas au type concret ; 2º une personne déterminée qui a toujours été nommée et qui en devient l'incarnation , la représentation concrète .
 
-Presque toutes les images évoquées appartiennent au sens visuel, cependant le mot force a évoqué le plus souvent des images musculaires pures ou accompagnées d'une représentation visuelle vague. Exemples : voir quelqu'un
-
-[p. 135]
-
-soulever un poids ; je vois vaguement quelque chose qui tire ; un poids suspendu à un anneau ; une ficelle qui tire un clou ; la pression de mon poing dans un fluide ; le maréchal de Saxe brisant un écu de six livres , etc., etc.
+Presque toutes les images évoquées appartiennent au sens visuel, cependant le mot force a évoqué le plus souvent des images musculaires pures ou accompagnées d'une représentation visuelle vague. Exemples : voir quelqu'un [p. 135] soulever un poids ; je vois vaguement quelque chose qui tire ; un poids suspendu à un anneau ; une ficelle qui tire un clou ; la pression de mon poing dans un fluide ; le maréchal de Saxe brisant un écu de six livres , etc., etc.
 
 Je viens de décrire la forme ordinaire et principale du type concret. Elle consiste dans la substitution immédiate et spontanée d'un cas particulier (fait ou individu) au terme général . D'après plusieurs observations , je crois pouvoir noter une variété un peu différente
 
@@ -1952,9 +1550,7 @@ discussion d'Ampère et de Tracy sur ce sujet . Infini : des livres de mathémat
 
 On pourrait objecter que , dans les cas ordinaires comme dans ceux- ci , il y a une association ; mais la différence se laisse facilement saisir. Les premiers vont du contenant au contenu, de la classe au fait ; ils pensent le tout au moyen de la partie ; c'est une association en dedans . Les secondes font une association à côté et en dehors . A се
 
-[p. 136]
-
-qu'il semble , ceux-ci ne descendent pas jusqu'au concret, ils s'arrêtent en route ; ils substituent à une généralité complète une demi-généralité . Au reste, mes documents ne sont ni assez nombreux ni assez clairs pour que j'insiste sur ce point .
+[p. 136] qu'il semble , ceux-ci ne descendent pas jusqu'au concret, ils s'arrêtent en route ; ils substituent à une généralité complète une demi-généralité . Au reste, mes documents ne sont ni assez nombreux ni assez clairs pour que j'insiste sur ce point .
 
 II . Type visuel typographique.
 
@@ -1966,11 +1562,7 @@ Rien de plus facile à définir . Sous sa forme pure, il consiste à voir les mo
 
 Je ne doute pas que, parmi mes lecteurs , plusieurs en s'examinant découvriront qu'ils appartiennent à ce type . De plus , j'ai cru remarquer que tous ceux qui ont ce mode de représentation le considèrent comme naturel et nécessaire chez tous ceux qui savent lire . C'est une erreur. Pour ma part, je ne l'ai à aucun degré , et j'en ai rencontré beaucoup d'autres de mon espèce .
 
-J'étais donc peu préparé à découvrir ce type, et en fait j'en suis arrivé à ma trentième observation sans le soupçonner, lorsque j'ai rencontré un cas si net qu'il m'a mis sur la voie . J'interrogeais un physiologiste très connu . A tous les mots , sauf Loi et Forme , il a répondu : « Je les
-
-[p. 137]
-
-vois en caractères typographiques » , qu'il a pu décrire avec précision .
+J'étais donc peu préparé à découvrir ce type, et en fait j'en suis arrivé à ma trentième observation sans le soupçonner, lorsque j'ai rencontré un cas si net qu'il m'a mis sur la voie . J'interrogeais un physiologiste très connu . A tous les mots , sauf Loi et Forme , il a répondu : « Je les [p. 137] vois en caractères typographiques » , qu'il a pu décrire avec précision .
 
 Même les mots chien [^p137-1], animal, couleur, n'ont été accompagnés d'aucune image . Il m'a donné de lui-même des renseignements complémentaires qui se réduisent à cette phrase
 
@@ -1980,11 +1572,7 @@ Très surpris , pour la raison que j'ai indiquée plus haut , de cette observati
 
 : « Avez-vous vu les mots imprimés ? »
 
-Plusieurs personnes m'ont dit : « J'ai beaucoup lu , j'ai corrigé beaucoup d'épreuves : voilà pourquoi j'appartiens au type visuel typographique . » Assurément, l'influence de l'habitude est énorme , mais elle n'est pas ici une expli-
-
-[p. 138]
-
-cation suffisante, puisqu'il y a beaucoup d'exceptions . J'ai moi aussi beaucoup lu et corrigé beaucoup d'épreuves , et jamais un mot ne m'apparaît imprimé, sinon après beaucoup d'efforts et vaguement. Il faut donc faire une très large part aux dispositions naturelles .
+Plusieurs personnes m'ont dit : « J'ai beaucoup lu , j'ai corrigé beaucoup d'épreuves : voilà pourquoi j'appartiens au type visuel typographique . » Assurément, l'influence de l'habitude est énorme , mais elle n'est pas ici une expli-[p. 138]cation suffisante, puisqu'il y a beaucoup d'exceptions . J'ai moi aussi beaucoup lu et corrigé beaucoup d'épreuves , et jamais un mot ne m'apparaît imprimé, sinon après beaucoup d'efforts et vaguement. Il faut donc faire une très large part aux dispositions naturelles .
 
 Chez les compositeurs d'imprimerie que j'ai interrogés , j'ai constaté ce qui suit : « 1º ils ont vu mes 14 mots imprimés « dans un caractère particulier de leur imprimerie >>> qu'ils ont quelquefois désigné ; 2º ils ont vu, en même temps , une image pour les termes semi-concrets ; 3º pour les termes abstraits , aucune image n'accompagnait la vision typographique . Nous avons ici la superposition de deux types : l'un naturel et de première formation (type con cret) , l'autre acquis et de deuxième formation (type visuel typographique) .
 
@@ -1996,11 +1584,7 @@ Il consiste à n'avoir dans l'esprit que les sons (images auditives) , sans aucu
 
 J'ai cependant rencontré un cas très net et complet dans ce genre . C'est un médecin polyglotte, connu par de nombreux travaux d'érudition, vivant depuis de longues années dans les manuscrits et les livres . Il n'a la vision typographique à aucun degré ; mais tous les mots
 
-« résonnent
-
-[p. 139]
-
-dans son oreille » . Il ne peut lire ni composer sans articuler . Si l'intérêt de sa lecture ou de son travail augmente , il parle à haute voix : « il faut qu'il s'entende » . Dans ses rêves , peu ou point d'images visuelles ; il entend sa voix et celle de ses interlocuteurs
+« résonnent [p. 139] dans son oreille » . Il ne peut lire ni composer sans articuler . Si l'intérêt de sa lecture ou de son travail augmente , il parle à haute voix : « il faut qu'il s'entende » . Dans ses rêves , peu ou point d'images visuelles ; il entend sa voix et celle de ses interlocuteurs
 
 « ses rêves sont auditifs » . Aucun de mes mots , même semi-concrets , n'a évoqué d'images visuelles .
 
@@ -2014,11 +1598,7 @@ Je n'ai pas besoin de dire que les trois types décrits cidessus ne se rencontre
 
 image
 
-concrète pour quelques mots et vision typographique ou image auditive pour les autres . En
-
-[p. 140]
-
-résumé , tous les cas me paraissent se réduire à ce qui suit : 1º le mot entendu ; en sus, rien (nous aurons à examiner plus tard ce « rien » ) ; 2 ° la vision typographique seule ; 3º accompagnée d'une image concrète ; 4º le mot entendu toujours accompagné d'une image concrète .
+concrète pour quelques mots et vision typographique ou image auditive pour les autres . En [p. 140] résumé , tous les cas me paraissent se réduire à ce qui suit : 1º le mot entendu ; en sus, rien (nous aurons à examiner plus tard ce « rien » ) ; 2 ° la vision typographique seule ; 3º accompagnée d'une image concrète ; 4º le mot entendu toujours accompagné d'une image concrète .
 
 #### IV
 
@@ -2042,9 +1622,7 @@ Je n'ai pas besoin d'insister sur les résultats
 
 : ils sont exactement les mêmes qu'avec les mots . Dans tous les cas et chez tous , il y a un mot qui est dominateur, qui absorbe toute la substance de la phrase et la remplace . C'est sur lui que s'opère le travail mental instantané .
 
-[p. 141]
-
-Si l'on appartient au type concret, on voit des images . Ainsi , pour la deuxième phrase, tout converge sur le mot infini . Réponses
+[p. 141] Si l'on appartient au type concret, on voit des images . Ainsi , pour la deuxième phrase, tout converge sur le mot infini . Réponses
 
 : sensation d'obscurité et de profondeur, cercles lumineux vagues , une sorte de coupole, un horizon qui recule sans cesse , etc.
 
@@ -2056,29 +1634,17 @@ Pour le type auditif pur, la réponse a toujours été très simple : « J'enten
 
 Cette nouvelle manière de procéder a donc été la confirmation pure et simple de la précédente, sans aucune variante . L'identité des résultats ne me paraît pas favorable à une distinction admise par beaucoup d'auteurs . Dans les traités classiques , on distingue entre les « idées nécessaires » et les « vérités nécessaires>> (j'emploie leur terminologie sans la discuter), c'est-à-dire les concepts généraux et les propositions générales . Exemple : cause , principe de causalité . Il n'y a là, selon moi, qu'une pure différence de forme, entre deux positions ; l'une psychologique , l'autre logique. Le concept est le jugement à l'état d'enveloppement ou de résultat, la proposition est le mot à l'état de développement. La différence n'est pas matérielle , mais formelle ; c'est le passage de la synthèse à l'analyse .
 
-J'avais pensé qu'après une interruption de deux ans ,
-
-[p. 142]
-
-il y aurait quelque intérêt à faire subir le même interrogatoire aux mêmes personnes ; mais les résultats ne m'ont pas encouragé dans cette voie . Les uns , se rappelant les questions antérieures , m'ont déclaré « qu'ils se sentaient influencés d'avance » .
+J'avais pensé qu'après une interruption de deux ans , [p. 142] il y aurait quelque intérêt à faire subir le même interrogatoire aux mêmes personnes ; mais les résultats ne m'ont pas encouragé dans cette voie . Les uns , se rappelant les questions antérieures , m'ont déclaré « qu'ils se sentaient influencés d'avance » .
 
 Les autres , qui m'ont paru garder un souvenir plus vague de l'épreuve (peut-être parce qu'ils n'en comprenaient pas le but) , ont donné des réponses analogues aux premières . En somme, malgré le temps écoulé et les changements de circonstances , chacun m'a semblé être resté d'accord avec lui-même .
 
-Je dois reconnaître que, dans l'enquête précédente, la nature psychologique des concepts a été étudiée sous un aspect particulier. Cette objection a été présentée au Congrès de psychologie de Londres [^p142-1] par le Président Sidgwick, dont je résume les remarques : 1° il croit que chez une personne non habituée à l'observation intérieure, la direction brusque de l'attention sur un terme évoquera une réponse qui ne concorde pas exactement avec l'état suscité d'ordinaire . Il a trouvé, pour son cas particulier, que les images évoquées, visuelles le plus souvent, étaient extrêmement faibles ; mais que, s'il s'y arrêtait, elles devenaient plus vives . 2º Les images sont très variables suivant la nature des termes employés . Ainsi, lorsqu'il s'occupe de raisonnements mathématiques et logiques, il ne voit que des mots imprimés ; s'il raisonne sur l'économie politique,
-
-[p. 143]
-
-les termes généraux ont pour concomitants des images souvent bizarres comme celles-ci : valeur = l'image vague et partielle d'un homme qui pose quelque chose sur une échelle . 3º Quand, pour les mots , infini, rapport, etc. , on répond : << rien » , cela prouve simplement qu'on n'est pas capable de décrire les éléments confus qu'on a dans la conscience . 4º Son expérience lui apprend que mes types peuvent se succéder chez la même personne .
+Je dois reconnaître que, dans l'enquête précédente, la nature psychologique des concepts a été étudiée sous un aspect particulier. Cette objection a été présentée au Congrès de psychologie de Londres [^p142-1] par le Président Sidgwick, dont je résume les remarques : 1° il croit que chez une personne non habituée à l'observation intérieure, la direction brusque de l'attention sur un terme évoquera une réponse qui ne concorde pas exactement avec l'état suscité d'ordinaire . Il a trouvé, pour son cas particulier, que les images évoquées, visuelles le plus souvent, étaient extrêmement faibles ; mais que, s'il s'y arrêtait, elles devenaient plus vives . 2º Les images sont très variables suivant la nature des termes employés . Ainsi, lorsqu'il s'occupe de raisonnements mathématiques et logiques, il ne voit que des mots imprimés ; s'il raisonne sur l'économie politique, [p. 143] les termes généraux ont pour concomitants des images souvent bizarres comme celles-ci : valeur = l'image vague et partielle d'un homme qui pose quelque chose sur une échelle . 3º Quand, pour les mots , infini, rapport, etc. , on répond : << rien » , cela prouve simplement qu'on n'est pas capable de décrire les éléments confus qu'on a dans la conscience . 4º Son expérience lui apprend que mes types peuvent se succéder chez la même personne .
 
 Sur ce dernier point - la coexistence de plusieurs manières de concevoir chez la même personne - je suis tout à fait d'accord avec M. Sidgwick , et mes documents, classés par observations personnelles, m'en fourniraient au besoin d'assez nombreux exemples .
 
 Toutefois, l'objet de mes recherches n'était pas de déterminer de quelle manière tel individu conçoit, mais sous quelles formes les hommes , pris en général, pensent les concepts . Je ne me proposais pas non plus de suivre le travail de l'esprit lorsqu'il résout ses idées générales en concrets , lorsqu'il fait la monnaie de ses billets de banque ; mais de surprendre le travail sous-jacent qui accompagne l'usage courant et aisé des termes généraux , quand on parle , écoute , lit ou écrit . Sans doute ,
 
-il serait désirable de prendre le sujet sous une autre forme , en étudiant non plus l'état momentané qui répond à la présence du concept dans la conscience ; mais la tournure d'esprit stable , organisée , qui est due à une longue habitude de manier les concepts . Pour cela, il serait convenable d'interroger surtout les mathématiciens et les métaphysiciens. Mes documents sont trop peu nombreux et trop peu clairs pour que je me hasarde à dogmatiser sur ce sujet. Quelques mathématiciens m'ont dit
-
-[p. 144]
-
-qu'ils ont toujours besoin d'une « représentation figurée » , d'une « construction » et que, même lorsqu'ils les considèrent comme une pure fiction, cet appui est indispensable pour la suite de leurs raisonnements .
+il serait désirable de prendre le sujet sous une autre forme , en étudiant non plus l'état momentané qui répond à la présence du concept dans la conscience ; mais la tournure d'esprit stable , organisée , qui est due à une longue habitude de manier les concepts . Pour cela, il serait convenable d'interroger surtout les mathématiciens et les métaphysiciens. Mes documents sont trop peu nombreux et trop peu clairs pour que je me hasarde à dogmatiser sur ce sujet. Quelques mathématiciens m'ont dit [p. 144] qu'ils ont toujours besoin d'une « représentation figurée » , d'une « construction » et que, même lorsqu'ils les considèrent comme une pure fiction, cet appui est indispensable pour la suite de leurs raisonnements .
 
 Contrairement à ceux-ci qui pensent géométriquement, il y en a qui pensent algébriquement, éliminant toute figuration ou construction , pour procéder par simple analyse à l'aide des signes
 
@@ -2086,11 +1652,7 @@ Contrairement à ceux-ci qui pensent géométriquement, il y en a qui pensent al
 
 et sur d'autres .
 
-Un jeune médecin russe, M. Adam Wizel, qui s'intéressait à ce sujet, a soumis aux mêmes questions, et suivant la méthode antérieurement indiquée, des personnes en état d'hypnotisme . Admettant que, dans cet état, l'activité inconsciente de l'esprit est prédominante, il s'est demandé si, par ce procédé, on ne pourrait pas pénétrer plus avant dans le substratum inconnu qui est au-dessous de la conscience. Ses expériences ont été faites à la Salpêtrière, dans le service de Charcot, sur six femmes , grandes hystériques . Les sujets étaient mis d'abord en état de somnambulisme ; puis , après une explication préalable , il les interrogeait comme il a été dit ci-dessus . Ayant recueilli les réponses , il ordonnait aux sujets d'oublier tout ce qui s'était passé et les réveillait. Il recommençait ensuite à l'état de veille en posant les mêmes questions : ce qui permet de comparer les réponses données successivement dans les deux cas . Elles sont presque toujours plus nettes et plus explicites
-
-[p. 145]
-
-pendant le somnambulisme que pendant la veille, ainsi qu'on en peut juger par l'exemple suivant (extrait de la troisième observation) .
+Un jeune médecin russe, M. Adam Wizel, qui s'intéressait à ce sujet, a soumis aux mêmes questions, et suivant la méthode antérieurement indiquée, des personnes en état d'hypnotisme . Admettant que, dans cet état, l'activité inconsciente de l'esprit est prédominante, il s'est demandé si, par ce procédé, on ne pourrait pas pénétrer plus avant dans le substratum inconnu qui est au-dessous de la conscience. Ses expériences ont été faites à la Salpêtrière, dans le service de Charcot, sur six femmes , grandes hystériques . Les sujets étaient mis d'abord en état de somnambulisme ; puis , après une explication préalable , il les interrogeait comme il a été dit ci-dessus . Ayant recueilli les réponses , il ordonnait aux sujets d'oublier tout ce qui s'était passé et les réveillait. Il recommençait ensuite à l'état de veille en posant les mêmes questions : ce qui permet de comparer les réponses données successivement dans les deux cas . Elles sont presque toujours plus nettes et plus explicites [p. 145] pendant le somnambulisme que pendant la veille, ainsi qu'on en peut juger par l'exemple suivant (extrait de la troisième observation) .
 
 Questions
 
@@ -2144,53 +1706,29 @@ RIBOT .
 
 Idées générales .
 
-10
-
-[p. 146]
-
-été déjà énumérés . Il en est de même pour tous les termes très abstraits (temps , infini, etc.) . En sorte que, si nous reprenons l'unique question que je m'étais proposé d'étudier : « L'idée générale, pensée , lue ou entendue, a-t-elle quelque accompagnement dans la conscience ?
+10 [p. 146] été déjà énumérés . Il en est de même pour tous les termes très abstraits (temps , infini, etc.) . En sorte que, si nous reprenons l'unique question que je m'étais proposé d'étudier : « L'idée générale, pensée , lue ou entendue, a-t-elle quelque accompagnement dans la conscience ?
 
 » nous pouvons répondre : une image, une vision typographique ou rien . Reste à chercher ce qu'est ce rien , car il doit être quelque chose .
 
 Nous nous trouvons aux prises avec le problème que les nominalistes purs ont tranché en prenant ce rien au sens propre . En réalité , s'en est-il rencontré de pareils , qui aient prétendu que nous n'avons dans l'esprit que le mot, le seul mot, sans rien de plus ? C'est un problème historique qu'il est inutile pour nous d'examiner. Il est possible que quelques-uns aient poussé jusque-là leur réaction contre les extravagances du réalisme ; mais c'est une thèse totalement insoutenable ; car, à ce compte,
 
-il n'y aurait aucune différence entre un terme général et un mot d'une langue qu'on ne comprend pas ; c'est celui-ci qui est le pur flatus vocis , un son qui n'évoque rien. D'un autre côté, si par mot on entend signe, alors tout change, puisque le signe implique et enveloppe quelque chose . Telle me paraît être la véritable interprétation [^p146-1] . En sorte que, pour les cas qui seuls nous occupent actuellement, c'est-à-dire
-
-[p. 147]
-
-ceux dont la réponse a été : « Rien » , il y a deux éléments , l'un qui existe dans la conscience (le mot entendu ou l'image auditive), l'autre qui est au-dessous de la conscience , mais qui n'est pas pour cela sans valeur et sans action . Il nous faut donc pénétrer dans le domaine obscur de l'inconscient, pour saisir ce quelque chose qui donne au mot, sa signification, sa vie, son pouvoir de substitution .
+il n'y aurait aucune différence entre un terme général et un mot d'une langue qu'on ne comprend pas ; c'est celui-ci qui est le pur flatus vocis , un son qui n'évoque rien. D'un autre côté, si par mot on entend signe, alors tout change, puisque le signe implique et enveloppe quelque chose . Telle me paraît être la véritable interprétation [^p146-1] . En sorte que, pour les cas qui seuls nous occupent actuellement, c'est-à-dire [p. 147] ceux dont la réponse a été : « Rien » , il y a deux éléments , l'un qui existe dans la conscience (le mot entendu ou l'image auditive), l'autre qui est au-dessous de la conscience , mais qui n'est pas pour cela sans valeur et sans action . Il nous faut donc pénétrer dans le domaine obscur de l'inconscient, pour saisir ce quelque chose qui donne au mot, sa signification, sa vie, son pouvoir de substitution .
 
 Leibniz a écrit : « Le plus souvent, par exemple dans l'analyse d'une longueur, nous n'avons pas l'intuition simultanée de tous les caractères ou attributs d'une chose ; mais à leur place nous employons des signes . Dans la pensée actuelle , nous avons coutume d'omettre l'explication de ces signes au moyen de ce qu'ils signifient, sachant ou croyant que nous avons cette explication en notre pouvoir ; mais cette application ou explication des mots , nous ne la jugeons pas nécessaire actuellement... J'appelle cette manière de penser aveugle ou symbolique. Nous l'employons en algèbre , en arithmétique et en fait universellement » : ce qui équivaut à dire que, sous les termes généraux ou abstraits , est emmagasiné un savoir potentiel ; et on n'est pas surpris de rencontrer cette doctrine chez celui qui le premier a introduit en philosophie la notion d'inconscient .
 
-Déterminer le rôle de ce facteur toujours actif, quoique silencieux , est une entreprise difficile et nécessairement entachée d'inexactitude, puisqu'il s'agit de traduire dans le langage clair et analytique de la conscience des états obscurs et enveloppés . Le procédé le plus simple pour y parvenir est d'examiner comment on arrive à la compréhension
-
-[p. 148]
-
-des termes généraux [^p148-1] . Mettons une page d'un ouvrage philosophique sous les yeux d'un écolier ou d'un homme totalement ignorant en ces matières . Il ne comprend rien . La seule méthode à suivre pour la rendre intelligible , c'est de prendre l'un après l'autre les termes généraux ou abstraits et de les traduire en événements concrets , en faits d'expérience courante . Pour ce travail, il faut une heure ou plus . A mesure que le novice fait des progrès , la traduction s'opère plus vite, elle est même inutile pour plusieurs termes et plus tard, pour comprendre une page équivalente, il lui suffit de quelques minutes . Souvent les esprits naïfs s'étonnent, en lisant une phrase faite de termes abstraits , « de comprendre chaque mot et de ne pas savoir ce que l'ensemble veut dire » . Cela signifie qu'ils n'ont pas , sous chaque mot, un savoir potentiel suffisant pour qu'un lien, un rapport, s'établisse entre tous les termes et leur donne un sens . A part ceux qui par don naturel ou par habitude se jouent dans l'abstraction, il est incontestable que pour l'immense majorité, la lecture d'une page abstraite est une opération lente, pénible, très fatigante . C'est que chaque mot exige un acte d'attention, un effort, qui correspond à un travail dans les régions inconscientes ou subconscientes . Quand ce travail est devenu inutile, que l'on pense (ou paraît penser) rien qu'avec les signes, tout marche rapidement, aisément .
+Déterminer le rôle de ce facteur toujours actif, quoique silencieux , est une entreprise difficile et nécessairement entachée d'inexactitude, puisqu'il s'agit de traduire dans le langage clair et analytique de la conscience des états obscurs et enveloppés . Le procédé le plus simple pour y parvenir est d'examiner comment on arrive à la compréhension [p. 148] des termes généraux [^p148-1] . Mettons une page d'un ouvrage philosophique sous les yeux d'un écolier ou d'un homme totalement ignorant en ces matières . Il ne comprend rien . La seule méthode à suivre pour la rendre intelligible , c'est de prendre l'un après l'autre les termes généraux ou abstraits et de les traduire en événements concrets , en faits d'expérience courante . Pour ce travail, il faut une heure ou plus . A mesure que le novice fait des progrès , la traduction s'opère plus vite, elle est même inutile pour plusieurs termes et plus tard, pour comprendre une page équivalente, il lui suffit de quelques minutes . Souvent les esprits naïfs s'étonnent, en lisant une phrase faite de termes abstraits , « de comprendre chaque mot et de ne pas savoir ce que l'ensemble veut dire » . Cela signifie qu'ils n'ont pas , sous chaque mot, un savoir potentiel suffisant pour qu'un lien, un rapport, s'établisse entre tous les termes et leur donne un sens . A part ceux qui par don naturel ou par habitude se jouent dans l'abstraction, il est incontestable que pour l'immense majorité, la lecture d'une page abstraite est une opération lente, pénible, très fatigante . C'est que chaque mot exige un acte d'attention, un effort, qui correspond à un travail dans les régions inconscientes ou subconscientes . Quand ce travail est devenu inutile, que l'on pense (ou paraît penser) rien qu'avec les signes, tout marche rapidement, aisément .
 
 En somme , on apprend à
 
-comprendre un concept, comme on apprend à marcher, à danser, à faire de l'es-
-
-[p. 149]
-
-crime , à jouer d'un instrument de musique : c'est une habitude , c'est-à-dire une mémoire organisée. Les termes généraux couvrent un savoir organisé , latent, qui est le capital caché sans lequel nous serions en état de banqueroute , manipulant de la fausse monnaie ou du papier sans valeur . Les idées générales sont des habitudes dans l'ordre intellectuel . A l'habitude parfaite correspond la suppression de l'effort
+comprendre un concept, comme on apprend à marcher, à danser, à faire de l'es-[p. 149]crime , à jouer d'un instrument de musique : c'est une habitude , c'est-à-dire une mémoire organisée. Les termes généraux couvrent un savoir organisé , latent, qui est le capital caché sans lequel nous serions en état de banqueroute , manipulant de la fausse monnaie ou du papier sans valeur . Les idées générales sont des habitudes dans l'ordre intellectuel . A l'habitude parfaite correspond la suppression de l'effort
 
 de même à la compréhension parfaite .
 
-Ce qui se passe toutes les fois que nous avons dans la conscience le mot général seulement, n'est qu'un cas particulier d'un fait psychologique très commun qui consiste en ceci : le travail utile se fait au- dessous de la conscience , et il n'y a en elle que des résultats, des indices ou des marques . Les faits énumérés ci-dessus sont tous empruntés à l'activité motrice . On en trouverait les équivalents en abondance dans le domaine des sentiments . Les états de tristesse et de joie « sans cause » , fréquents chez l'homme sain et plus encore chez le malade , ne sont que la traduction dans la conscience des dispositions organiques ignorées qui agissent dans l'ombre . Ce qui donne à nos passions de l'intensité et de la durée, ce n'est pas la conscience que nous en avons, mais la profondeur des racines par lesquelles elles plongent en nous, sont organisées dans nos viscères et par suite dans notre cerveau . Elles ne sont que l'expression de notre constitution organique , permanente ou momentanée . On pourrait parcourir le domaine de la psychologie tout entière , avec variations sur le même thème . Je ne me propose pas de le faire ici , mais simplement de rappeler que tout état de conscience quel qu'il soit (perception , image, idée , sentiment, passion, volition)
-
-[p. 150]
-
-a son dessous ; que le concept réduit au mot seul n'est qu'un cas de ce genre , nullement particulier ; que croire qu'il n'y a que le mot parce qu'il existe seul dans la conscience , c'est ne saisir que la partie superficielle et visible de l'événement et, à tout prendre , peut-être la moindre . Ce substratum inconscient, ce savoir potentiel, organisé , ne donne pas au mot sa valeur seulement, mais sa marque , comme les harmoniques quand ils s'ajoutent au son fondamental .
+Ce qui se passe toutes les fois que nous avons dans la conscience le mot général seulement, n'est qu'un cas particulier d'un fait psychologique très commun qui consiste en ceci : le travail utile se fait au- dessous de la conscience , et il n'y a en elle que des résultats, des indices ou des marques . Les faits énumérés ci-dessus sont tous empruntés à l'activité motrice . On en trouverait les équivalents en abondance dans le domaine des sentiments . Les états de tristesse et de joie « sans cause » , fréquents chez l'homme sain et plus encore chez le malade , ne sont que la traduction dans la conscience des dispositions organiques ignorées qui agissent dans l'ombre . Ce qui donne à nos passions de l'intensité et de la durée, ce n'est pas la conscience que nous en avons, mais la profondeur des racines par lesquelles elles plongent en nous, sont organisées dans nos viscères et par suite dans notre cerveau . Elles ne sont que l'expression de notre constitution organique , permanente ou momentanée . On pourrait parcourir le domaine de la psychologie tout entière , avec variations sur le même thème . Je ne me propose pas de le faire ici , mais simplement de rappeler que tout état de conscience quel qu'il soit (perception , image, idée , sentiment, passion, volition) [p. 150] a son dessous ; que le concept réduit au mot seul n'est qu'un cas de ce genre , nullement particulier ; que croire qu'il n'y a que le mot parce qu'il existe seul dans la conscience , c'est ne saisir que la partie superficielle et visible de l'événement et, à tout prendre , peut-être la moindre . Ce substratum inconscient, ce savoir potentiel, organisé , ne donne pas au mot sa valeur seulement, mais sa marque , comme les harmoniques quand ils s'ajoutent au son fondamental .
 
 En résumé , nous ne pensons pas avec des mots au sens strict (flatus vocis) mais avec des signes . La pensée symbolique , opération purement verbale en apparence , est soutenue , coordonnée , vivifiée par un savoir potentiel et un travail inconscient. Reste à ajouter que le savoir potentiel est un genre dont le concept n'est qu'une espèce . Toute mémoire est réductible à un savoir latent , organisé , susceptible de reviviscence ; mais toute mémoire n'est pas matière à concept. Celui qui sait beaucoup de langues , quand il ne les parle pas ; le naturaliste capable d'identifier des milliers d'échantillons, quand il ne les classe pas , ont un savoir potentiel très étendu, mais tout en concrets . Le savoir potentiel qui est au-dessous des concepts consiste , lui , en une somme de caractères , qualités , extraits , qui sont d'autant moins nombreux que le concept se rapproche davantage du symbolisme pur : en d'autres termes , ce qu'il y a sous le concept, c'est une mémoire abstraite ou d'abstraits .
 
-A mon avis , une grande partie de l'obscurité et des dissentiments qui règnent sur la nature des concepts , vient de ce que le rôle de l'activité inconsciente a été, pendant
-
-[p. 151]
-
-des siècles , méconnu ou oublié,
+A mon avis , une grande partie de l'obscurité et des dissentiments qui règnent sur la nature des concepts , vient de ce que le rôle de l'activité inconsciente a été, pendant [p. 151] des siècles , méconnu ou oublié,
 
 la psychologie se renfermant dans la conscience exclusivement, - et, tandis que son influence est universellement admise aujourd'hui pour toutes les autres manifestations de la vie de l'esprit : instincts , perceptions ,
 
@@ -2212,9 +1750,7 @@ et d'autres que j'omets , n'ont rien à faire ici. Il suffit qu'on admette, à t
 
 Nous avons vu l'abstraction, à mesure qu'elle monte et s'affermit, se séparer de plus en plus nettement de l'image etfinalement, au moment du symbolisme pur, la séparation devient un antagonisme . C'est que , au fond, il y a entre les deux, dès le début, opposition de nature et de procédé . L'idéal de l'image est une complexité toujours croissante, l'idéal de l'abstraction est une simplification toujours croissante : parce que l'une se forme par addition et l'autre par soustraction .
 
-[p. 152]
-
-Pour l'homme doué d'une riche vision intérieure ,
+[p. 152] Pour l'homme doué d'une riche vision intérieure ,
 
 la forme des personnes, des monuments , des paysages, surgit nette et bien délimitée ; sous l'influence de l'attention et avec le temps , les détails s'ajoutent , la représentation se complète, se rapproche de plus en plus de la réalité . Mêmes remarques pour l'audition intérieure : tels les musiciens qui entendent idéalement tous les détails d'une symphonie .
 
@@ -2224,9 +1760,7 @@ disait Cournot, une analyse qui sépare les objets et une analyse qui les distin
 
 Passons de la théorie à la pratique . Cet antagonisme est d'observation courante, presque banale, quand on rapproche les hommes d'imagination des hommes d'abstraction . Nous écartons ceux qui, par un don assez rare de la nature ( Gœthe) ou par artifice de l'éducation sont capables de manier tour à tour l'image et le concept .
 
-[p. 153]
-
-Prenons comme types d'imaginatifs les artistes
+[p. 153] Prenons comme types d'imaginatifs les artistes
 
 : romanciers, poètes , sculpteurs et peintres , musiciens , etc. Tous rêvent une œuvre organique, vivante, donc complexe . Les uns avec des mots , d'autres avec des formes , d'autres avec des sons ; les réalistes
 
@@ -2244,11 +1778,7 @@ la simplification - par traits fondamentaux et essentiels , si c'est un vrai sav
 
 Donc , au fond, l'antagonisme de l'image et de l'idée , c'est celle du tout et de la partie. On ne peut être simultanément un abstracteur et un imaginatif, parce qu'on ne peut simultanément penser par totalité et par fragment , par groupe et par fraction et que ces deux habitudes mentales , sans s'exclure absolument, se contrecarrent .
 
-Pour conclure, avons-nous des idées générales ou seu
-
-[p. 154]
-
-lement des termes généraux ? Remarquons d'abord que les expressions, idées ou notions générales, « concepts » , sont équivoques ou plutôt multivoques. Selon leur degré , nous l'avons vu, les concepts sont d'une nature psychologique fort différente, n'ayant en commun qu'un seul caractère
+Pour conclure, avons-nous des idées générales ou seu [p. 154] lement des termes généraux ? Remarquons d'abord que les expressions, idées ou notions générales, « concepts » , sont équivoques ou plutôt multivoques. Selon leur degré , nous l'avons vu, les concepts sont d'une nature psychologique fort différente, n'ayant en commun qu'un seul caractère
 
 : d'être des extraits, et qu'il est par conséquent chimérique de vouloir les comprendre tous dans une définition unique. Pour nous en tenir aux plus élevés, source principale du débat, les uns disent : Pas d'idées générales , mais des termes généraux. Pour d'autres, l'idée générale n'est qu'une série indéfinie d'idées particulières ou « une idée particulière que l'esprit pose comme le premier jalon d'une marche en avant [^p154-1] . » Pour d'autres , c'est un système de tendances , accompagné ou non d'une possibilité d'images [^p154-2] . Je préférerais pour ma part la formule de Höffding : « Les idées générales existent en ce sens que nous avons le pouvoir de concentrer notre attention sur certains éléments de la représentation individuelle et de laisser les autres dans une faible lumière [^p154-3] . » Tel est le seul mode d'existence qui puisse leur être concédé légitimement.
 
@@ -2266,9 +1796,7 @@ Après cette étude générale sur la nature des formes les plus élevées de l'
 
 et de cela seulement, qu'il s'agit .
 
-[p. 156]
-
-SECTION
+[p. 156] SECTION
 
 #### I
 
@@ -2296,9 +1824,7 @@ Le nombre, sous sa forme abstraite et tel qu'il résulte d'une élaboration séc
 
 Pour le sens commun , il semble que rien n'est plus
 
-[p. 157]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS facile que d'expliquer comment se forme l'idée de l'unité .
+[p. 157] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS facile que d'expliquer comment se forme l'idée de l'unité .
 
 Je vois un homme, un arbre, une maison ; j'entends un son ; je palpe un objet ; je sens une odeur et ainsi de suite , et je distingue cet état unique d'une pluralité de sensations . Stuart Mill semble admettre que le nombre (au moins dans ses formes les plus simples) , est une qualité des choses que nous percevons comme le blanc, le noir, la rondeur, la dureté : il y a un état de conscience distinct et spécial qui correspond à un, deux , trois , etc.
 
@@ -2312,19 +1838,13 @@ Quoiqu'elle puisse entrer dans la conscience par plusieurs portes , quelques psy
 
 Pour les uns , c'est le sens primordial , le sens par excellence : le toucher. L'enfant considère comme unité l'objet qu'il peut tenir dans sa main (une boule, un verre), ou suivre sans interruption dans tous ses contours . Là où son opération est interrompue, où il y a des pleins et des vides , il perçoit une pluralité. En d'autres termes , l'un est le continu, la pluralité
 
-est le discontinu. De nombreuses observations prouvent que les enfants ont, en effet, une notion bien plus exacte et plus précoce de la quantité con
-
-[p. 158]
-
-tinue (étendue), que de la quantité discontinue , discrète (nombre) [^p158-1] .
+est le discontinu. De nombreuses observations prouvent que les enfants ont, en effet, une notion bien plus exacte et plus précoce de la quantité con [p. 158] tinue (étendue), que de la quantité discontinue , discrète (nombre) [^p158-1] .
 
 Pour les autres , c'est la vue, et l'on comprend sans peine que tout ce qui précède peut être répété : la rétine remplace la surface cutanée ; une image nettement perçue et sans discontinuité est l'unité ; la perception d'images simultanées , laissant entre elles des lacunes dans le champ visuel , donne la pluralité .
 
 On en peut dire tout autant pour les sensations acoustiques . Preyer, dans un travail sur l' « Arithmogenèse » , prétend que « pour l'acquisition du concept de nombre , l'ouïe est en première ligne » . Le nombre doit être senti avant d'être pensé ; les idées de nombre et d'addition doivent être acquises : ce qui, d'après lui, se produit chez l'enfant lorsqu'il entend et compare des sons . Puis le toucher et la vue complètent cette première ébauche . On sait que Leibniz assimilait la musique à une arithmétique inconsciente . Preyer renverse la proposition et dit : Arithmetica est exercitium musicum occultum nescientis se sonos comparare animi [^p158-3] .[^p158-2]
 
-[p. 159]
-
-A l'encontre de ceux qui cherchent l'origine de l'idée d'unité dans les événements externes, il y a ceux qui l'attribuent à la pure expérience interne .
+[p. 159] A l'encontre de ceux qui cherchent l'origine de l'idée d'unité dans les événements externes, il y a ceux qui l'attribuent à la pure expérience interne .
 
 Ainsi on a soutenu que la conscience de notre moi , comme monade qui se connaît elle-même, est le prototype de l'unité arithmétique . Il est évident que cette assertion suscite des objections nombreuses
 
@@ -2334,15 +1854,7 @@ Très supérieure est la thèse de W. James
 
 : « Le nombre semble primitivement signifier les coups (strokes) de notre attention dans la discrimination des choses . Ces coups restent dans la mémoire en groupes grands ou petits , et les groupes peuvent être comparés . La discrimination , nous le savons , est facilitée par la mobilité de son objet, en tant que total... Un globe indivis est un ; composé d'hémisphères il est deux. Un tas de sable est une chose ou vingt mille choses, suivant la manière dont nous comptons [^p159-1] . » Cette réduction à des actes d'attention nous ramène , en définitive, à la condition essentielle et fondamentale de l'abstraction .
 
-Sauf cette dernière , toutes les hypothèses énumérées (et on aurait pu invoquer aussi les sensations internes par exemple une douleur localisée comparée à plusieurs douleurs disséminées) ne donnent que des perceptions ou des images , c'est-à-dire la matière brute de l'unité abstraite . Celle-ci est une notion subjective . Nous avons dit
-
-[p. 160]
-
-précédemment (ch. II) que la question de savoir si la connaissance débute par le général ou par le particulier est mal posée , parce qu'elle applique à l'esprit en voie de formation des catégories qui ne sont valables que pour l'esprit adulte . De même ici. A l'origine , il n'y a pas perception claire de l'unité d'abord , de la pluralité ensuite ou inversement : ni l'observation ni le raisonnement ne justifient une telle affirmation . Il y a un état confus, indéfini d'où sort l'antithèse du continu et du discontinu, équivalents primitifs de l'unité et de la pluralité. Il a fallu des siècles pour arriver à la notion précise de l'unité abstraite, telle qu'elle a existé dans l'esprit des premiers mathématiciens ; etcette notion est le résultat d'une décomposition , non d'un acte direct et immédiat de position . Il a fallu qu'un objet ou un groupe fût décomposé en ses parties constituantes , étant ou paraissant irréductibles ; puis qu'une nouvelle synthèse de ces parties reconstituât le tout, pour que la notion du rapport entre l'unité et la pluralité fût conçue clairement . On ne peut guère douter que pour les petits nombres , 2 , 3 , 4, la perception successive de chaque objet séparé , puis des objets appréhendés ensemble d'un seul coup d'œil, n'ait aidé le travail de l'esprit dans la conception de ce rapport. Nous avons vu que beaucoup de races humaines n'ont pas dépassé cette phase . La notion abstraite de l'unité est celle de l'indivisible (provisoire) . C'est cette qualité abstraite de l'indivisible, fixée par un mot, qui nous donne la notion scientifique de l'unité, par opposition à la notion vulgaire . L'unité perçue est un tout concret, l'unité conçue est une qualité, un abstrait ; et, en un sens , on a pu dire que l'unité et par suite tout nombre abs-
-
-[p. 161]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS trait est une création de l'esprit. Elle résulte, comme toute abstraction , d'une analyse , d'une dissociation . Elle a, comme toute abstraction , une existence idéale ; ce qui ne l'empêche pas d'être un instrument d'une merveilleuse utilité .
+Sauf cette dernière , toutes les hypothèses énumérées (et on aurait pu invoquer aussi les sensations internes par exemple une douleur localisée comparée à plusieurs douleurs disséminées) ne donnent que des perceptions ou des images , c'est-à-dire la matière brute de l'unité abstraite . Celle-ci est une notion subjective . Nous avons dit [p. 160] précédemment (ch. II) que la question de savoir si la connaissance débute par le général ou par le particulier est mal posée , parce qu'elle applique à l'esprit en voie de formation des catégories qui ne sont valables que pour l'esprit adulte . De même ici. A l'origine , il n'y a pas perception claire de l'unité d'abord , de la pluralité ensuite ou inversement : ni l'observation ni le raisonnement ne justifient une telle affirmation . Il y a un état confus, indéfini d'où sort l'antithèse du continu et du discontinu, équivalents primitifs de l'unité et de la pluralité. Il a fallu des siècles pour arriver à la notion précise de l'unité abstraite, telle qu'elle a existé dans l'esprit des premiers mathématiciens ; etcette notion est le résultat d'une décomposition , non d'un acte direct et immédiat de position . Il a fallu qu'un objet ou un groupe fût décomposé en ses parties constituantes , étant ou paraissant irréductibles ; puis qu'une nouvelle synthèse de ces parties reconstituât le tout, pour que la notion du rapport entre l'unité et la pluralité fût conçue clairement . On ne peut guère douter que pour les petits nombres , 2 , 3 , 4, la perception successive de chaque objet séparé , puis des objets appréhendés ensemble d'un seul coup d'œil, n'ait aidé le travail de l'esprit dans la conception de ce rapport. Nous avons vu que beaucoup de races humaines n'ont pas dépassé cette phase . La notion abstraite de l'unité est celle de l'indivisible (provisoire) . C'est cette qualité abstraite de l'indivisible, fixée par un mot, qui nous donne la notion scientifique de l'unité, par opposition à la notion vulgaire . L'unité perçue est un tout concret, l'unité conçue est une qualité, un abstrait ; et, en un sens , on a pu dire que l'unité et par suite tout nombre abs-[p. 161]L'ÉVOLUTION DES PRINCIPAUX CONCEPTS trait est une création de l'esprit. Elle résulte, comme toute abstraction , d'une analyse , d'une dissociation . Elle a, comme toute abstraction , une existence idéale ; ce qui ne l'empêche pas d'être un instrument d'une merveilleuse utilité .
 
 #### II
 
@@ -2352,9 +1864,7 @@ c'est composer d'autres nombres. Par exemple si 3 est 2 + 1 , il est aussi 4
 
 1. L'addition et la soustraction sont deux opérations inverses dont les résultats s'annulent mutuellement ; elles sont les seules fonctions numériques primitives [^p161-1] . »[^p161-2]
 
-[p. 162]
-
-Ce qui fait la simplicité et la solidité de ce procédé, c'est qu'il est toujours identique à lui-même et, bien que la série des nombres soit sans limites, un terme quelconque de la série est rigoureusement déterminé, parce qu'il peut toujours être ramené à son point de départ
+[p. 162] Ce qui fait la simplicité et la solidité de ce procédé, c'est qu'il est toujours identique à lui-même et, bien que la série des nombres soit sans limites, un terme quelconque de la série est rigoureusement déterminé, parce qu'il peut toujours être ramené à son point de départ
 
 : l'unité . Dans ce travail de construction , à répétition continue, deux faits psychologiques sont à noter :
 
@@ -2362,9 +1872,7 @@ Ce qui fait la simplicité et la solidité de ce procédé, c'est qu'il est touj
 
 2º A notre unité-type nous substituons des unités supérieures qui permettent une simplification . Ainsi , dans le système décimal qui a prévalu, la dizaine, la centaine, sont des unités dix fois, cent fois plus grandes que l'unité proprement dite . On peut les faire aussi grandes qu'on veut : les Hindous , dont l'exubérance d'imagination est bien connue, ont inventé pour compter les journées de vie de leurs dieux, le koti, qui équivaut à quatre billions trois cent vingt-huit millions d'années ; chaque koti représente un seul jour de la vie divine [^p162-1] .
 
-[p. 163]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
+[p. 163] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
 
 Inversement, on peut considérer l'unité-type comme une
 
@@ -2390,11 +1898,7 @@ Ici se pose la question
 
 tant
 
-discutée sur le nombre infini : la psychologie n'a rien à y voir. Pour les uns, le nombre infini existe actuellement . Pour les autres, il n'existe qu'en puissance , c'est-à-dire dans l'opération de l'esprit qui peut, sans fin ni trêve ,
-
-[p. 164]
-
-ajouter ou retrancher, comme il a été dit plus haut [^p164-1] .
+discutée sur le nombre infini : la psychologie n'a rien à y voir. Pour les uns, le nombre infini existe actuellement . Pour les autres, il n'existe qu'en puissance , c'est-à-dire dans l'opération de l'esprit qui peut, sans fin ni trêve , [p. 164] ajouter ou retrancher, comme il a été dit plus haut [^p164-1] .
 
 III . L'importance des signes, comme instruments de l'abstraction et de la généralisation , ne se montre nulle part aussi bien que dans leurs multiples applications à la quantité discrète ou continue . L'histoire des sciences mathématiques est en partie celle de l'invention et de l'emploi de symboles à complexité croissante, et dont l'efficacité ressort clairement de leurs résultats théoriques ou pratiques . Aux choses considérées comme dénombrables ont été substitués d'abord les mots ; puis des signes particuliers , les chiffres ; plus tard , avec l'invention de l'algèbre , les lettres remplacent les chiffres ou du moins leur fonction et leur rôle dans les problèmes à résoudre ; plus tard encore , à la considération des figures géométriques se substitue celle de leurs équations ; enfin , aux calculs sur les quantités infinitésimales , sur les quantités négatives , les nombres imaginaires , correspond l'emploi de nouveaux symboles .
 
@@ -2404,9 +1908,7 @@ ceux d'entre eux qui se piquent de philosophie - ont volontiers disserté sur le
 
 Les uns attribuent aux symboles une réalité ou du moins y inclinent. C'est l'introduction des nomina numina dans les mathématiques . Ils soutiennent que ces prétendues conventions ne sont que l'expression de rapports nécessaires
 
-[p. 165]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS que l'esprit est obligé, à cause de leur nature idéale, de représenter par des signes arbitraires ; mais qu'il n'invente pas au gré de son caprice ou par la seule nécessité de sa nature et qu'il se borne à saisir tels que la nature des choses les lui offre . Ne voit- on pas d'ailleurs que le travail qui s'opère grâce à leur aide est, avec les modifications requises , applicable à la réalité ?
+[p. 165] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS que l'esprit est obligé, à cause de leur nature idéale, de représenter par des signes arbitraires ; mais qu'il n'invente pas au gré de son caprice ou par la seule nécessité de sa nature et qu'il se borne à saisir tels que la nature des choses les lui offre . Ne voit- on pas d'ailleurs que le travail qui s'opère grâce à leur aide est, avec les modifications requises , applicable à la réalité ?
 
 Pour les autres , les symboles ne sont que des moyens , des instruments , des stratagèmes . Il se moquent de ceux << qui regardent les rapports une fois symbolisés comme des choses en soi contenant la science à priori , comme des idoles que l'on supplie de se laisser voir » (Renouvier) . Les signes , quels qu'ils soient, ne sont que des conventions : les quantités négatives représentent un changement dans la direction de la pensée ; les nombres imaginaires « représentent sous une forme simple et abrégée des relations considérables . » Les symboles servent à surmonter les difficultés , comme dans la pratique le levier et ses perfectionnements servent à soulever des poids . « Ce n'est pas dans le calcul, disait Poinsot, que réside cet art qui nous fait découvrir ; mais
 
@@ -2416,17 +1918,13 @@ la considération attentive des choses où l'esprit cherche avant tout à s'en f
 
 »
 
-[p. 166]
-
-L'ÉVOLUTION DES IDÉÉS GÉNÉRALES
+[p. 166] L'ÉVOLUTION DES IDÉÉS GÉNÉRALES
 
 En résumé , les nombres consistent en séries d'actes d'appréhension intellectuelle, susceptibles de directions diverses et d'applications presque illimitées .
 
 Ils servent à comparer, mesurer, mettre de l'ordre dans la diversité des choses . Si maintenanton rapproche les deux extrêmes , c'est-à-dire le premier essai de numération enfantine et lés plus hautes inventions numériques des mathématiciens , on doit reconnaître que la notion du nombre est un bel exemple d'évolution complète de la faculté d'abstraire appliquée à un cas particulier, dont nous avons pu noter les principaux stades , en faisant ressortir la puissance toujours grandissante des signes .
 
-[p. 167]
-
-SECTION
+[p. 167] SECTION
 
 #### II
 
@@ -2442,11 +1940,7 @@ Pour le suivre dans son développement, nous devons partir nécessairement de l'
 
 #### I
 
-Au premier moment, ce que l'intuition nous donne , c'est l'extension sous une forme concrète . Ce qui nous est connu d'abord, ce n'est pas l'espace , mais une étendue limitée , déterminée : ce que l'enfant peut tenir dans sa main , atteindre d'un mouvement de ses bras, plus tard sa chambre qu'il arpente d'un pas mal assuré ; c'est une rue , une place parcourue , un trajet fait en voiture ou en wa
-
-[p. 168]
-
-gon ; c'est l'horizon que la vue embrasse , les nébuleuses vaguement entrevues dans le ciel nocturne , etc. Tout cela est du concret, peut-être réduit à une mesure, c'est- à-dire à une étendue concrète , par exemple le mètre et ses fractions .
+Au premier moment, ce que l'intuition nous donne , c'est l'extension sous une forme concrète . Ce qui nous est connu d'abord, ce n'est pas l'espace , mais une étendue limitée , déterminée : ce que l'enfant peut tenir dans sa main , atteindre d'un mouvement de ses bras, plus tard sa chambre qu'il arpente d'un pas mal assuré ; c'est une rue , une place parcourue , un trajet fait en voiture ou en wa [p. 168] gon ; c'est l'horizon que la vue embrasse , les nébuleuses vaguement entrevues dans le ciel nocturne , etc. Tout cela est du concret, peut-être réduit à une mesure, c'est- à-dire à une étendue concrète , par exemple le mètre et ses fractions .
 
 Quoique données par les
 
@@ -2462,9 +1956,7 @@ Par une simplification qui s'est produite fort tard
 
 Rappelons , sans insister, que l'étendue nous est donnée par le toucher et la vue . Le toucher est par excellence le
 
-[p. 169]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS sens de l'extension : aussi la géométrie réduit les problèmes d'égalité ou d'inégalité à des
+[p. 169] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS sens de l'extension : aussi la géométrie réduit les problèmes d'égalité ou d'inégalité à des
 
 superpositions , et toute mesure de l'étendue est finalement réductible à des sensations tactiles et musculaires : les termes toucher et vision doivent en effet s'entendre au sens complet, c'est- àdire non seulement comme impression passive sur la surface cutanée ou la rétine , mais comme réaction active des éléments moteurs propres à l'organe sensoriel .
 
@@ -2476,17 +1968,11 @@ laissent aucun doute sur leur rôle , dans le sentiment de l'équilibre du corps
 
 espace auditif. Wundt, qui a combattu cette thèse, ne voit dans les canaux semicirculaires que des organes tactiles internes, auxiliaires du toucher externe [^p169-1] .
 
-Laissant de côté l'hypothèse d'un espace auditif, qui
-
-[p. 170]
-
-serait d'ailleurs bien pauvrement déterminé , on sait par de nombreuses observations que les diverses modalités de l'étendue tactile et visuelle , notamment la distance , ne sont connues avec précision qu'après beaucoup de tâtonnements et un long apprentissage [^p170-1] .
+Laissant de côté l'hypothèse d'un espace auditif, qui [p. 170] serait d'ailleurs bien pauvrement déterminé , on sait par de nombreuses observations que les diverses modalités de l'étendue tactile et visuelle , notamment la distance , ne sont connues avec précision qu'après beaucoup de tâtonnements et un long apprentissage [^p170-1] .
 
 Perçue ou imaginée , l'étendue sous tous ses aspects , présente , suivant la constitution, l'âge , les circonstances , un caractère de variabilité qui est en complet contraste avec la stabilité, la fixité du concept d'espace. Les conditions de cette relativité ont été longuement exposées par Herbert Spencer : un animal dépourvu d'yeux ne peut avoir la même conscience de l'étendue que celui qui en est muni ; de même pour l'aveugle-né comparé au voyant, pour l'être vivant dont la locomotion est rapide ou puissante et pour celui qui se meut péniblement ou lentement . La taille , la dimension du corps, influent aussi ; les distances qui semblent grandes à un enfant sont médiocres pour un homme ; des édifices qu'on trouvait durant l'enfance imposants par leur hauteur et leur masse paraissent plus tard insignifiants . Sans parler des aliénés qui se croient
 
-[p. 171]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS immensément grands ou infiniment petits ,
+[p. 171] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS immensément grands ou infiniment petits ,
 
 il y a des états momentanés qui modifient la conscience de l'étendue ; ainsi de Quincey, décrivant ses songes causés par l'opium , dit que les monuments et les paysages se montraient à lui avec des proportions si vastes, « que l'œil du corps ne pourrait les recevoir ; l'espace s'enflait, s'étendait à l'infini d'une façon inexprimable [^p171-1] . » — « L'analyse réfléchie de leurs mouvements , dit Lotze, est si peu familière aux femmes , qu'on peut affirmer sans crainte d'erreur que des expressions telles que : à droite, à gauche , en avant, en arrière ,
 
@@ -2510,11 +1996,7 @@ notion abstraite de l'espace ?
 
 comment l'esprit arrive-t-il à la en nos perceptions
 
-L'immense majorité des hommes livrés à leurs propres forces ne s'élèvent pas au-dessus d'une notion confuse , demi-concrète, demi-abstraite , des propriétés de l'étendue , et ce que Lotze disait plus haut s'applique encore mieux à leur notion totale des rapports d'espace. La conception qui se trouve au fond de leur esprit, c'est simplement la possibilité d'aller très loin dans toutes les directions ou d'y placer des corps au bout les uns des autres . Quant à la
-
-[p. 172]
-
-limite de cette opération, elle reste vaguement déterminée . Elle se traduit pourtant par des locutions courantes , telles que : « Les corps sont dans l'espace » et autres analogues . L'espace est conçu ou plutôt imaginé comme une immense sphère qui enferme tout, comme le réceptacle de toute étendue
+L'immense majorité des hommes livrés à leurs propres forces ne s'élèvent pas au-dessus d'une notion confuse , demi-concrète, demi-abstraite , des propriétés de l'étendue , et ce que Lotze disait plus haut s'applique encore mieux à leur notion totale des rapports d'espace. La conception qui se trouve au fond de leur esprit, c'est simplement la possibilité d'aller très loin dans toutes les directions ou d'y placer des corps au bout les uns des autres . Quant à la [p. 172] limite de cette opération, elle reste vaguement déterminée . Elle se traduit pourtant par des locutions courantes , telles que : « Les corps sont dans l'espace » et autres analogues . L'espace est conçu ou plutôt imaginé comme une immense sphère qui enferme tout, comme le réceptacle de toute étendue
 
 ; il contient les corps comme une barrique contient le vin . Les cosmologies primitives, qui exigent pourtant un certain développement de la réflexion et de l'abstraction , nous révèlent la nature de cette conception, quand elles parlent du cercle de l'horizon, de la voûte du ciel , du <<< firmament
 
@@ -2528,37 +2010,23 @@ et autres expressions qui dénotent la croyance en une limite infranchissable, C
 
 instant de notre vie ne peut que river cette association , et nous n'avons jamais trouvé une seule expérience tendant à la rompre . Dans les conditions actuelles de notre existence , cette association est indissoluble ... Mais nous pouvons supposer que , sous d'autres conditions d'existence , il nous serait possible de nous transporter, au bout de l'espace et après y avoir reçu des impressions d'une espèce tout à fait inconnue dans
 
-[p. 173]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS notre état présent, nous deviendrions à l'instant capables de concevoir le fait et de constater sa vérité . Après quelque expérience de l'idée nouvelle, le fait nous semblerait aussi naturel que les révélations de la vue à l'aveugle guéri depuis assez longtemps . >>> Ce passage repose sur une équivoque . Mill paraît admettre comme base de sa discussion la notion semi-concrète, semi-abstraite, de l'espace, ci-dessus décrite , c'est-à-dire en somme celle du sens commun ; par suite, il confond et entremêle deux questions tout à fait distinctes
+[p. 173] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS notre état présent, nous deviendrions à l'instant capables de concevoir le fait et de constater sa vérité . Après quelque expérience de l'idée nouvelle, le fait nous semblerait aussi naturel que les révélations de la vue à l'aveugle guéri depuis assez longtemps . >>> Ce passage repose sur une équivoque . Mill paraît admettre comme base de sa discussion la notion semi-concrète, semi-abstraite, de l'espace, ci-dessus décrite , c'est-à-dire en somme celle du sens commun ; par suite, il confond et entremêle deux questions tout à fait distinctes
 
 : celle de l'étendue , donnée concrète perçue ou imaginée, et celle de l'espace , abstrait et conçu . S'agit-il de la première , c'est un problème cosmologique , objectif, dont nous n'avons rien à dire ; c'est , sous une autre forme, la répétition du débat sur les nombres infinis ; faut-il admettre , oui ou non, la grandeur continue actuelle ? S'agit-il du second , c'est un problème psychologique , subjectif, relatif à l'abstraction seule et qui trouvera plus loin sa réponse .
 
-Jusqu'ici , en effet, le concept d'espace répond à ce moment de l'évolution que nous avons tant de fois signalé sous le nom de concret-abstrait. Le véritable concept d'espace , -d'espace purement abstrait , - n'a été constitué que le jour où les géomètres (grecs ou autres) ont dégagé des étendues diverses les caractères essentiels , fondamentaux , qu'ils appellent les « dimensions » et qu'ils ont montré par la constitution de leur science que les éléments ainsi abstraits et considérés isolément peuvent tenir lieu de tout le reste . Les éléments géométriques, dit justement Stallo , ne sont ni réels , ni imaginaires , ni hypothétiques ; ils sont con
-
-[p. 174]
-
-ceptuels , résultats d'abstraction. « Dans la marche de la pensée discursive, l'intelligence n'a jamais devant elle ni des objets sensibles ni la somme complète de relations qui constituent leurs images ou représentations
+Jusqu'ici , en effet, le concept d'espace répond à ce moment de l'évolution que nous avons tant de fois signalé sous le nom de concret-abstrait. Le véritable concept d'espace , -d'espace purement abstrait , - n'a été constitué que le jour où les géomètres (grecs ou autres) ont dégagé des étendues diverses les caractères essentiels , fondamentaux , qu'ils appellent les « dimensions » et qu'ils ont montré par la constitution de leur science que les éléments ainsi abstraits et considérés isolément peuvent tenir lieu de tout le reste . Les éléments géométriques, dit justement Stallo , ne sont ni réels , ni imaginaires , ni hypothétiques ; ils sont con [p. 174] ceptuels , résultats d'abstraction. « Dans la marche de la pensée discursive, l'intelligence n'a jamais devant elle ni des objets sensibles ni la somme complète de relations qui constituent leurs images ou représentations
 
 mentales, mais seulement quelques relations ou classes de relations simples ... Pendant toutes ces opérations , l'esprit sait parfaitement que ni aucun anneau de la chaîne d'abstraction ni le groupe des résultats abstraits que nous appelons un concept n'est une copie ou contre-partie exacte de l'objet représenté . Il a toujours conscience que pour manifester une vraie conformité du concept ou de quelqu'un de leurs attributs constitutifs avec les formes de la réalité objective, le groupe de relations contenues dans ces concepts devrait être complété par un nombre indéterminé d'autres relations qui n'ont pas été saisies et peut-être même ne peuvent pas l'être [^p174-1] . »
 
 Personne ne s'imagine qu'il existe dans la nature des points , lignes , surfaces, volumes, tels que le géomètre les pose , ni que ses concepts en soient des copies ; mais il n'est pas nécessaire pour cela de se réfugier dans l'à priori : l'abstraction suffit, c'est-à-dire l'acte qui extrait des qualités fondamentales, fixées ensuite par des définitions .
 
-Il est étrange que Stuart Mill, dans sa longue et malencontreuse dissertation sur ce sujet, se contente de dire en passant « que nous possédons une faculté par laquelle , lorsqu'une perception est présente à nos sens ou une idée à notre entendement, nous pouvons faire atten-
-
-[p. 175]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS tion à une partie seulement de la perception ou de l'idée . » Avec cette remarque sur l'attention, il est tout près de reconnaître le rôle de l'abstraction (que d'ailleurs il ne nomme même pas) ; mais , au lieu d'insister, il en revient à sa thèse , « que le fondement de toutes les sciences , même déductives et démonstratives, c'est l'induction .
+Il est étrange que Stuart Mill, dans sa longue et malencontreuse dissertation sur ce sujet, se contente de dire en passant « que nous possédons une faculté par laquelle , lorsqu'une perception est présente à nos sens ou une idée à notre entendement, nous pouvons faire atten-[p. 175]L'ÉVOLUTION DES PRINCIPAUX CONCEPTS tion à une partie seulement de la perception ou de l'idée . » Avec cette remarque sur l'attention, il est tout près de reconnaître le rôle de l'abstraction (que d'ailleurs il ne nomme même pas) ; mais , au lieu d'insister, il en revient à sa thèse , « que le fondement de toutes les sciences , même déductives et démonstratives, c'est l'induction .
 
 >>>
 
 Le concept d'espace, tel que les géomètres l'ont fait c'est-à- dire à son plus haut degré d'abstraction, est donc le résultat d'une dissociation
 
-: c'est l'étendue vidée de toutes ses qualités constitutives , sauf les dimensions nécessaires qui le déterminent. Ce schéma (en écartant toute considération transcendante) nous apparaît comme l'ensemble des conditions d'existence des corps , en tant qu'ils sont doués d'extension. Ainsi constitué avec les marques qui lui sont propres et le différencient de tout autre , ce concept, comme celui de nombre , est susceptible d'applications multiples et, de plus, d'être sans limites assignables dans toutes les directions ou, suivant l'expression consacrée , d'être infini. De même que le nombre concret représente des unités ou collections réelles, tandis que le nombre abstrait, détaché des réalités discontinues , permet une numération sans fin ; de même l'espace concret (étendue) répond à l'intuition de certains corps, tandis que l'espace abstrait, pur concept non représentable, sinon par des mots, comporte une extension sans bornes . Si , par hypothèse , on réussissait à compter toutes les feuilles de tous les arbres de la terre, ce nombre prodigieux correspondant à des unités concrètes ne serait rien pour l'esprit qui peut in abstracto compter toujours au delà. De même à l'étendue déterminée par les mouvements de nos
-
-[p. 176]
-
-bras , de nos jambes , par des journées de chemin de fer ou de navigation, par des ascensions en ballon et finalement par les plus puissants télescopes scrutant l'infini du ciel à toutes ces étendues concrètes , fixées , mesurées , nous pouvons toujours supposer un au delà, parce que la fin d'une étendue est le commencement d'une autre .
+: c'est l'étendue vidée de toutes ses qualités constitutives , sauf les dimensions nécessaires qui le déterminent. Ce schéma (en écartant toute considération transcendante) nous apparaît comme l'ensemble des conditions d'existence des corps , en tant qu'ils sont doués d'extension. Ainsi constitué avec les marques qui lui sont propres et le différencient de tout autre , ce concept, comme celui de nombre , est susceptible d'applications multiples et, de plus, d'être sans limites assignables dans toutes les directions ou, suivant l'expression consacrée , d'être infini. De même que le nombre concret représente des unités ou collections réelles, tandis que le nombre abstrait, détaché des réalités discontinues , permet une numération sans fin ; de même l'espace concret (étendue) répond à l'intuition de certains corps, tandis que l'espace abstrait, pur concept non représentable, sinon par des mots, comporte une extension sans bornes . Si , par hypothèse , on réussissait à compter toutes les feuilles de tous les arbres de la terre, ce nombre prodigieux correspondant à des unités concrètes ne serait rien pour l'esprit qui peut *in abstracto* compter toujours au delà. De même à l'étendue déterminée par les mouvements de nos [p. 176] bras , de nos jambes , par des journées de chemin de fer ou de navigation, par des ascensions en ballon et finalement par les plus puissants télescopes scrutant l'infini du ciel à toutes ces étendues concrètes , fixées , mesurées , nous pouvons toujours supposer un au delà, parce que la fin d'une étendue est le commencement d'une autre .
 
 Mais tout cela n'est qu'un travail de l'imagination manipulant des abstractions . Pour l'espace infini , la loi de construction est la même que pour le nombre infini : cet infini n'est que dans l'opération de notre esprit, c'est un pur processus psychologique : nous croyons agir sur des grandeurs réelles, et nous n'agissons que sur notre propre entendement ; nous ne faisons qu'ajouter des états de conscience les uns aux autres
 
@@ -2570,9 +2038,7 @@ s'il entend un voyage au bout du monde réel , c'est-à-dire de l'étendue déte
 
 alors il admet implicitement que l'univers a des bornes ; il prend parti dans un débat où la psychologie expérimentale, nous le répétons , n'a rien à voir et qu'elle est même totalement incompétente à trancher .
 
-[p. 177]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
+[p. 177] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
 
 On sait que , durant ce siècle, des mathématiciens illustres , Gauss, 1792, dans un travail non publié , Lobatschefsky en 1829 , Riemann , Beltrami, Helmholtz et beaucoup d'autres à leur suite , ont constitué une géométrie nouvelle , qui a été désignée par divers noms : astrale, imaginaire , pangéométrie, métagéométrie et finalement géométrie non-euclidienne . Son principe fondamental, c'est que notre espace euclidien n'est qu'un cas particulier entre plusieurs espaces possibles , et notre géométrie euclidienne une espèce dont la pangéométrie est le genre ; que la seule raison déterminante en sa faveur, c'est que, seule , la géométrie euclidienne est pratiquement applicable et vérifiée par l'expérience . Ces travaux, outre leur intérêt direct pour les mathématiciens, ont donné lieu déjà à des considérations philosophiques assez nombreuses . Bien qu'ils n'aient que des rapports fort éloignés avec la psychologie , ils méritent d'être rappelés , parce qu'ils permettent de mieux comprendre la genèse du concept d'espace et parce qu'ils sont une preuve éclatante du pouvoir de construction de l'esprit, affranchi des données expérimentales et soumis aux seules règles de la logique .
 
@@ -2582,11 +2048,7 @@ RIBOT .
 
 Idées générales .
 
-12
-
-[p. 178]
-
-différent de la géométrie ordinaire et qui n'est soumis à d'autres conditions que d'être pur de toute contradiction interne .
+12 [p. 178] différent de la géométrie ordinaire et qui n'est soumis à d'autres conditions que d'être pur de toute contradiction interne .
 
 Pour notre sujet, la seule utilité de l'invention des géométries imaginaires , c'est d'avoir renforcé, comme par un procédé de grossissement , la distinction entre l'espace perçu et l'espace conçu : celui-ci peut revêtir diverses formes suivant le procédé d'abstraction employé et fixé dans les définitions . L'espace dit euclidien n'a qu'un avantage, c'est d'être le plus simple, le plus pratique , le mieux adapté aux faits ; bref, celui qui comporte le moindre écart entre l'idéal et notre expérience , et par conséquent le plus utile. A la vérité, quelques néo-géomètres ont soutenu qu'il « reste incertain si l'espace peut avoir ou ne pas avoir les mêmes propriétés à travers tout l'univers... et qu'il est possible que dans la marche rapide du système solaire à travers l'espace , nous puissions graduellement passer à des régions dans
 
@@ -2602,9 +2064,7 @@ infini.
 
 Beaucoup d'hommes et de races ne dépassent pas ce stade , celui de la représentation concrète, qui répond au premier moment de l'évolution dans l'individu et dans l'espèce .
 
-[p. 179]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
+[p. 179] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
 
 Le premier pas vers le concept d'espace (période concrète-abstraite) consiste à se le représenter comme le lieu, le réceptacle de tous les corps. C'est le résultat immédiat de la réflexion primitive
 
@@ -2622,7 +2082,7 @@ Quoique inapplicables au monde réel, ces derniers , qui sont des constructions 
 
 LE CONCEPT DE TEMPS
 
-Comme pour l'espace, il faut dans l'évolution de la notion de temps examiner d'abord la donnée concrète qui est au point de départ, c'est-à-dire la durée réelle ; ensuite le concept qui en est extrait, le temps in abstracto , que nous aurons à suivre dans les moments successifs de son développement.
+Comme pour l'espace, il faut dans l'évolution de la notion de temps examiner d'abord la donnée concrète qui est au point de départ, c'est-à-dire la durée réelle ; ensuite le concept qui en est extrait, le temps *in abstracto* , que nous aurons à suivre dans les moments successifs de son développement.
 
 #### I
 
@@ -2634,19 +2094,13 @@ le passé et le futur
 
 paraît se produire assez tard . Les langues primitives nous en ont fourni des témoignages objectifs (ch . 11) , dans les temps à valeur indécise de leurs
 
-[p. 181]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS verbes . Rappelons aussi ce fait tant de fois observé que les enfants, même à l'âge de trois ans et au delà, ont des notions très confuses sur le passé et le futur, brouillent tout, ne discernent pas entre « hier » et la semaine passée , entre << demain » et la semaine prochaine (J. Sully) . Toutefois , il faut bien admettre que le présent a ce privilège d'apparaître à la conscience comme la durée-type, l'étalon , la mesure à laquelle tout doit être rapporté : et il ne peut en être autrement, puisqu'en fait (ce qu'on oublie trop souvent) nous ne vivons que dans le présent ; que le passé et le futur n'existent pour nous, ne sont connus par nous que sous la condition de devenir présents, d'occuper la conscience actuelle . Le présent est le seul élément psychique qui, consciemment ou inconsciemment, donne à la durée un contenu , une réalité .
+[p. 181] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS verbes . Rappelons aussi ce fait tant de fois observé que les enfants, même à l'âge de trois ans et au delà, ont des notions très confuses sur le passé et le futur, brouillent tout, ne discernent pas entre « hier » et la semaine passée , entre << demain » et la semaine prochaine (J. Sully) . Toutefois , il faut bien admettre que le présent a ce privilège d'apparaître à la conscience comme la durée-type, l'étalon , la mesure à laquelle tout doit être rapporté : et il ne peut en être autrement, puisqu'en fait (ce qu'on oublie trop souvent) nous ne vivons que dans le présent ; que le passé et le futur n'existent pour nous, ne sont connus par nous que sous la condition de devenir présents, d'occuper la conscience actuelle . Le présent est le seul élément psychique qui, consciemment ou inconsciemment, donne à la durée un contenu , une réalité .
 
 Il est essentiel de se débarrasser de cette opinion accréditée par beaucoup d'auteurs, que le présent n'est qu'un moment insaisissable,
 
 une transition, un passage, un éclair, un point mathématique, un zéro, un rien : c'est lui
 
-N seul au contraire qui dure, tautôt long , tantôt court. Il est même possible, en une certaine mesure , de déterminer ses limites et de dépasser cette description vague . En cela , nous sommes aidés par les travaux des psychophysiciens . On peut dire que cette étude , longtemps restreinte à des dissertations métaphysiques, est entrée dans une phase pоsitive avec Czermak, qui (en 1857) ouvrit une voie nouvelle , où il a été suivi par beaucoup d'autres . Des nombreuses recherches et expériences faites sur « le sens du temps » , beaucoup peuvent être omises sans préjudice pour notre sujet , et leur exposé nous détournerait de notre but
-
-[p. 182]
-
-principal ; mais nous devons rappeler sommairement celles qui ont rapport soit à la perception actuelle de la durée , soit à la reproduction dans la mémoire de la durée passée [^p182-1] .
+N seul au contraire qui dure, tautôt long , tantôt court. Il est même possible, en une certaine mesure , de déterminer ses limites et de dépasser cette description vague . En cela , nous sommes aidés par les travaux des psychophysiciens . On peut dire que cette étude , longtemps restreinte à des dissertations métaphysiques, est entrée dans une phase pоsitive avec Czermak, qui (en 1857) ouvrit une voie nouvelle , où il a été suivi par beaucoup d'autres . Des nombreuses recherches et expériences faites sur « le sens du temps » , beaucoup peuvent être omises sans préjudice pour notre sujet , et leur exposé nous détournerait de notre but [p. 182] principal ; mais nous devons rappeler sommairement celles qui ont rapport soit à la perception actuelle de la durée , soit à la reproduction dans la mémoire de la durée passée [^p182-1] .
 
 1º Ce présent, qu'on déclare insaisissable, a été pourtant déterminé quant à son minimum de durée. Pour le temps de discernement entre deux sensations différentes (pris comme type de l'acte psychique simple et court par excellence) , Kries et Auerbach ont trouvé des durées qui varient entre 05,01 et 05,07, soit une moyenne de 05,03 . Depuis , Exner, en expérimentant avec la roue de Savart, a constaté que pour que deux coups successifs soient perçus comme tels , l'intervalle peut être réduit à 0,05 : de même pour le bruit produit par deux étincelles électriques. Pour l'œil, le plus petit intervalle perceptible entre deux impressions tombant sur la tache jaune est de 05,044. Au-dessous, une des conditions nécessaires de la conscience
 
@@ -2656,19 +2110,13 @@ fait défaut .
 
 Quelques expériences dues à Wundt et à ses élèves nous renseignent aussi sur le maximum de durée saisissable à la conscience . Ils ont fait usage presque exclusivement des impressions auditives, plus étroitement apparentées que les autres au sens du temps . Wundt trouve que douze impressions , équivalant à une durée variant de 35,6 à 6 secondes , peuvent être perçues clairement comme formant un groupe . Dietze admet la perception comme tout continu
 
-[p. 183]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS de 40 coups du métronome, à condition que l'esprit les ordonne spontanément en 5 sous-groupes de 8 ou 8 sousgroupes de 5. Durée totale : 12 secondes . Quelques autres varient dans leurs conclusions de 6 à 12 secondes et même plus
+[p. 183] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS de 40 coups du métronome, à condition que l'esprit les ordonne spontanément en 5 sous-groupes de 8 ou 8 sousgroupes de 5. Durée totale : 12 secondes . Quelques autres varient dans leurs conclusions de 6 à 12 secondes et même plus
 
 [^p183-1] . James incline à croire que le présent actuel pourrait aller jusqu'à une minute .
 
 Naturellement les chiffres , dont nous ne donnons qu'un petit nombre , varient suivant les sujets, la qualité des impressions reçues , les conditions de l'expérience , l'exercice, etc. Il ne faut pas oublier non plus que ces recherches de laboratoire sont quelque peu artificielles et qu'elles étudient la perception du présent dans des conditions voulues de simplicité qui ne sont pas précisément celles de la conscience spontanée ; mais il en ressort que le présent n'est pas une abstraction , un néant et nous pouvons conclure avec W. James « en disant que nous sommes constamment conscients d'une certaine durée dont la longueur varie de quelques secondes à une minute au plus ; que cette durée (avec son contenu qui est perçu comme ayant une partie avant et une autre partie après) est notre intuition originelle du temps . Les temps plus longs sont conçus par addition , les temps plus courts par division des parties de cette unité à synthèse vague ; habituellement nous les pensons à l'aide des signes [^p183-2] . »
 
-2º Les expériences relatives , non plus à la conscience de la durée actuelle , mais à la reproduction des durées et la
-
-[p. 184]
-
-détermination des erreurs qu'elle comporte, sont
+2º Les expériences relatives , non plus à la conscience de la durée actuelle , mais à la reproduction des durées et la [p. 184] détermination des erreurs qu'elle comporte, sont
 
 fort nombreuses et peu concordantes . Je ne les rappelle en passant que parce qu'elles sont éminemment propres à montrer le caractère très relatif et précaire de nos notions concrètes de la durée .
 
@@ -2684,9 +2132,7 @@ d'exactitude, que nous n'avons aucune tendance à allonger ni à abréger, en so
 
 Indépendamment de ces expériences , qui sont restreintes à des événements très simples, les faits de la vie quotidienne montrent avec surabondance que notre mémoire de la durée est presque toujours inexacte . Ainsi , on a fait souvent cette remarque qu'à mesure que l'on avance en
 
-[p. 185]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS âge , les années paraissent plus courtes : ce qui est encore un cas d'abréviation du temps long [^p185-1] . Il est à peine nécessaire de rappeler que notre appréciation de la durée (concrète) comme celle de l'étendue (concrète) dépend de conditions multiples et varie
+[p. 185] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS âge , les années paraissent plus courtes : ce qui est encore un cas d'abréviation du temps long [^p185-1] . Il est à peine nécessaire de rappeler que notre appréciation de la durée (concrète) comme celle de l'étendue (concrète) dépend de conditions multiples et varie
 
 avec elles . Avant
 
@@ -2700,9 +2146,7 @@ Cette conscience de la durée si flottante, variable et instable qu'elle soit, e
 
 sans que rien légitime ce choix exclusif.
 
-[p. 186]
-
-Les uns préfèrent les sensations externes , en tant qu'elles nous donnent la conscience d'une succession. L'ouïe a été appelée le sens du temps par excellence. Cette thèse a été soutenue notamment par Mach : comme dans une mélodie , nous pouvons séparer le rythme des sons qui la constituent, il en conclut que le rythme forme une série distincte et qu'il doit y avoir, dans l'oreille comme dans l'œil , un appareil d'accommodation qui pourrait être l'organe du « sens des temps » .
+[p. 186] Les uns préfèrent les sensations externes , en tant qu'elles nous donnent la conscience d'une succession. L'ouïe a été appelée le sens du temps par excellence. Cette thèse a été soutenue notamment par Mach : comme dans une mélodie , nous pouvons séparer le rythme des sons qui la constituent, il en conclut que le rythme forme une série distincte et qu'il doit y avoir, dans l'oreille comme dans l'œil , un appareil d'accommodation qui pourrait être l'organe du « sens des temps » .
 
 D'autres réclament en faveur du sens général, le toucher, capable chez tous les animaux de recevoir une succession d'impressions à la fois distinctes et formant série .
 
@@ -2712,9 +2156,7 @@ Cependant, la plupart des psychologues contemporains inclinent avec raison à ch
 
 sensations internes ; et elles doivent cette prérogative à la nature primordiale et rythmique qui est propre aux principales fonctions de la vie . << Un animal stationnaire, dit Herbert Spencer, sans yeux , ne recevant des sensations distinctes des objets externes que par des contacts produits à des intervalles longs et irréguliers , ne peut avoir dans la conscience aucun rapport composé de séquence [temps] , sauf ceux qui viennent du rythme lent de ses fonctions . Même chez l'homme , les intervalles de la respiration , joints quelquefois aux in
 
-[p. 187]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS tervalles entre les pulsations du cœur, fournissent une
+[p. 187] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS tervalles entre les pulsations du cœur, fournissent une
 
 ## partie des matériaux d'où notre conscience de la durée
 
@@ -2740,11 +2182,7 @@ Plus récemment Münsterberg [^p187-2] a attribué un rôle prépondérant , pre
 
 l'effort musculaire
 
-en général et qu'il ait sa primitive mesure dans le rythme des processus corporels ; cependant l'élévation et l'abaissement graduel du sentiment d'effort qui accompagne les deux phases de la fonction respiratoire (inspiration, expi-
-
-[p. 188]
-
-ration) lui paraissent la source principale de notre appréciation de la durée . Après une critique assez vive
+en général et qu'il ait sa primitive mesure dans le rythme des processus corporels ; cependant l'élévation et l'abaissement graduel du sentiment d'effort qui accompagne les deux phases de la fonction respiratoire (inspiration, expi-[p. 188]ration) lui paraissent la source principale de notre appréciation de la durée . Après une critique assez vive
 
 des tentatives de ses devanciers
 
@@ -2756,9 +2194,7 @@ On commence par déterminer « le temps normal » , c'està- dire la quantité d
 
 Dans un cas , des durées diverses sont données , telles que : 155, 75 , 225, 18s , etc. , sans s'inquiéter du moment de la respiration du sujet (expiration ou inspiration) qui lui
 
-[p. 189]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS même réagit au hasard . Dans la reproduction du temps normal, l'erreur moyenne est de 10,7 % .
+[p. 189] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS même réagit au hasard . Dans la reproduction du temps normal, l'erreur moyenne est de 10,7 % .
 
 Dans le second cas ,
 
@@ -2776,11 +2212,7 @@ Dans les deux cas précités , il n'y a aucune interruption entre la déterminat
 
 deux un moment d'arrêt , une pause, variant de 15 à 60s, les résultats sont : en procédant au hasard , comme dans le premier cas , erreur moyenne 24 °/% ; en procédant comme dans le second cas , erreur moyenne 5,3 %.
 
-On a reproché à Münsterberg , non sans raison , d'attribuer à la respiration, entre toutes les sensations internes , le privilège exclusif de mesurer le temps . Une critique moins fondée consiste à prétendre que sa thèse est dénuée de valeur, parce que nous apprécions bien plus facilement les variations de durée dans les battements d'un pendule que les changements dans la rapidité ou la lenteur de notre respiration . C'est confondre deux moments distincts dans la genèse de la notion de durée : sa période de formation et sa période de constitution ; ce qui se passe à l'origine et ce qui se passe chez l'adulte . Notre mesure est d'abord subjective, variable ; le progrès consiste à lui substituer une mesure objective, fixe . Sans doute , celle-ci est supérieure en clarté et en précision ; mais cela n'est ni une preuve ni même une présomption qu'elle est pre
-
-[p. 190]
-
-mière en date : nous reviendrons ci-après sur ce point.
+On a reproché à Münsterberg , non sans raison , d'attribuer à la respiration, entre toutes les sensations internes , le privilège exclusif de mesurer le temps . Une critique moins fondée consiste à prétendre que sa thèse est dénuée de valeur, parce que nous apprécions bien plus facilement les variations de durée dans les battements d'un pendule que les changements dans la rapidité ou la lenteur de notre respiration . C'est confondre deux moments distincts dans la genèse de la notion de durée : sa période de formation et sa période de constitution ; ce qui se passe à l'origine et ce qui se passe chez l'adulte . Notre mesure est d'abord subjective, variable ; le progrès consiste à lui substituer une mesure objective, fixe . Sans doute , celle-ci est supérieure en clarté et en précision ; mais cela n'est ni une preuve ni même une présomption qu'elle est pre [p. 190] mière en date : nous reviendrons ci-après sur ce point.
 
 En somme , notre conscience de la durée est un état complexe , il serait plus exact de dire un processus ; car elle est moins un état qu'un devenir. Les sensations vitales à forme rythmique en sont le noyau ; c'est un chronomètre intérieur, fixé dans les profondeurs de notre organisme . A cet élément subjectif s'ajoutent et se coordonnent d'autres éléments objectifs : les successions régulières qui ont pour causes les sensations externes . Ils forment l'enveloppe du noyau et constituent la portion sensible de notre conscience de la durée , mais non sa totalité .
 
@@ -2796,9 +2228,7 @@ PREMIER STADE .
 
 Il y a des esprits qui ne le dépassent pas . En ce qui concerne le temps, ce stade répond aux formes inférieures de l'abstraction que nous avons tant de
 
-[p. 191]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS fois désignées par les termes : images génériques et, à un plus haut degré , notions
+[p. 191] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS fois désignées par les termes : images génériques et, à un plus haut degré , notions
 
 concrètes-abstraites
 
@@ -2812,13 +2242,9 @@ quelle mesure les animaux
 
 supérieurs
 
-sont-ils capables d'avoir une certaine représentation du temps , construite avec leur expérience de la durée réelle ? C'est un problème très obscur et très peu étudié . Naturellement, il ne s'agit pas du temps in abstracto , du concept, mais de la reconnaissance de certains cycles souvent répétés . On sait que beaucoup d'animaux ont une connaissance assez précise de durées assez longues , qui leur est fournie par la périodicité de leurs besoins (moments où on leur donne la nourriture , où on les fait sortir, etc. , etc.) . En dépouillant tout préjugé , on en trouve d'autres qui, en sus de cette connaissance d'origine vitale , subjective , ont aussi une connaissance assez
+sont-ils capables d'avoir une certaine représentation du temps , construite avec leur expérience de la durée réelle ? C'est un problème très obscur et très peu étudié . Naturellement, il ne s'agit pas du temps *in abstracto* , du concept, mais de la reconnaissance de certains cycles souvent répétés . On sait que beaucoup d'animaux ont une connaissance assez précise de durées assez longues , qui leur est fournie par la périodicité de leurs besoins (moments où on leur donne la nourriture , où on les fait sortir, etc. , etc.) . En dépouillant tout préjugé , on en trouve d'autres qui, en sus de cette connaissance d'origine vitale , subjective , ont aussi une connaissance assez
 
-exacte de certaines périodes régulières , d'origine objective , déterminées par le cours des
-
-[p. 192]
-
-phénomènes
+exacte de certaines périodes régulières , d'origine objective , déterminées par le cours des [p. 192] phénomènes
 
 naturels , notamment par
 
@@ -2830,9 +2256,7 @@ D'après certains auteurs , il y aurait des exemples d'une appréciation exacte 
 
 Précédemment nous avons fait remarquer que jusqu'à l'âge de trois ans et au delà, les enfants, qui ont déjà une
 
-[p. 193]
-
-L'ÉVOEUTION DES PRINCIPAUX CONCEPTS connaissance suffisante des rapports d'espace
+[p. 193] L'ÉVOEUTION DES PRINCIPAUX CONCEPTS connaissance suffisante des rapports d'espace
 
 (lointain , proche , dedans ,
 
@@ -2846,19 +2270,13 @@ ce n'est pas par goût inné pour les métaphores , mais parce qu'il a besoin de
 
 Idées générales .
 
-13
-
-[p. 194]
-
-crètes pour fixer les durées . Il ne peut penser in abstracto les périodes un peu longues ; il faut qu'elles soient imaginées , représentées en vertu d'un choix plus ou moins arbitraire , emprisonnées dans un moule concret . D'ailleurs , en l'absence d'une numération étendue, cohérente , systématique , l'esprit s'égare dès les premiers pas ; il manque du véhicule nécessaire pour se mouvoir en avant et en arrière , en sachant où il va. Les phénomènes naturelsqu'il prend comme point de repère sont de pauvres succédanés du signe absent et par surcroît le rivent invinciblement au concret .
+13 [p. 194] crètes pour fixer les durées . Il ne peut penser *in abstracto* les périodes un peu longues ; il faut qu'elles soient imaginées , représentées en vertu d'un choix plus ou moins arbitraire , emprisonnées dans un moule concret . D'ailleurs , en l'absence d'une numération étendue, cohérente , systématique , l'esprit s'égare dès les premiers pas ; il manque du véhicule nécessaire pour se mouvoir en avant et en arrière , en sachant où il va. Les phénomènes naturelsqu'il prend comme point de repère sont de pauvres succédanés du signe absent et par surcroît le rivent invinciblement au concret .
 
 A mon sens, le point culminant de cette période est atteint dans la conception populaire du temps considéré comme une entité vague qui se déroule en suscitant les événements . Telle est l'idée qu'on rencontre chez la plupart des hommes de culture moyenne et qui ignorent toute spéculation philosophique sur ce sujet. Elle est le terme où aboutit la réflexion commune, spontanée , livrée à ellemême . Ainsi on dit du temps qu'il amène l'imprévu, console les douleurs, éteint les passions, change les goûts , résout les difficultés et ainsi de suite
 
 : il apparaît comme une puissance active, une chose en soi . En fait, nulle abstraction peut- être n'a été si souvent réalisée . Remarquons à l'appui , que le temps a été souvent personnifié et même divinisé dans plusieurs religions . Pareil honneur n'est jamais advenu à l'espace . La cause de cette différence , c'est parce que le temps a un caractère intérieur, humain ; mais surtout parce qu'il s'oppose à l'espace comme le dynamique s'oppose au statique : c'est une entité qui se manifeste par le mouvement et le changement, par suite
 
-[p. 195]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS essentiellement agissante et vivante. Tandis que, dans la conception populaire , l'espace est le réceptacle passif des corps , le temps est le ressort actif qui fait tout marcher .
+[p. 195] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS essentiellement agissante et vivante. Tandis que, dans la conception populaire , l'espace est le réceptacle passif des corps , le temps est le ressort actif qui fait tout marcher .
 
 DEUXIÈME STADE .
 
@@ -2866,13 +2284,9 @@ Les images génériques de la durée , plus tard la représentation semi-concrè
 
 essentiels
 
-du temps conçu in abstracto . D'abord, ils ont purifié la notion de durée de tout caractère anthropomorphique , en l'étudiant objectivement, dans le cours des phénomènes réguliers de la nature . De plus, ils ont introduit la mesure . Les Chaldéens qui, à l'époque d'Alexandre , possédaient une série d'observations astronomiques embrassant une période de 1.900 ans , qui n'avaient erré que de deux minutes dans la fixation de l'année sidérale, qui avaient déterminé un cycle de 6.585 jours leur servant à
+du temps conçu *in abstracto* . D'abord, ils ont purifié la notion de durée de tout caractère anthropomorphique , en l'étudiant objectivement, dans le cours des phénomènes réguliers de la nature . De plus, ils ont introduit la mesure . Les Chaldéens qui, à l'époque d'Alexandre , possédaient une série d'observations astronomiques embrassant une période de 1.900 ans , qui n'avaient erré que de deux minutes dans la fixation de l'année sidérale, qui avaient déterminé un cycle de 6.585 jours leur servant à
 
-calculer les éclipses [^p195-1] ; plus tard les inventeurs des clepsydres , des sabliers et autres instruments plus ou moins
-
-[p. 196]
-
-imparfaits pour mesurer les subdivisions du jour : tous ceux-là ont fait plus que les spéculations métaphysiques pour débarrasser notre sujet des conceptions populaires , ou du moins ils ont grandement préparé la voie . Habitués , comme nous le sommes , dans la vie civilisée à une connaissance commode et exacte de l'écoulement du temps , à tel moment qui nous plaît, grâce à nos horloges et à nos montres , nous oublions combien est différent l'état d'esprit de l'homme qui n'a pour guides que des approximations : la hauteur du soleil variable suivant les saisons et autres changements naturels qui renseignent mal. L'un vit dans le précis , l'autre dans le vague ou l'à peu près, c'està- dire le mystère . Il importe peu que notre mesure du temps (comme toute autre) soit relative , et les problèmes
+calculer les éclipses [^p195-1] ; plus tard les inventeurs des clepsydres , des sabliers et autres instruments plus ou moins [p. 196] imparfaits pour mesurer les subdivisions du jour : tous ceux-là ont fait plus que les spéculations métaphysiques pour débarrasser notre sujet des conceptions populaires , ou du moins ils ont grandement préparé la voie . Habitués , comme nous le sommes , dans la vie civilisée à une connaissance commode et exacte de l'écoulement du temps , à tel moment qui nous plaît, grâce à nos horloges et à nos montres , nous oublions combien est différent l'état d'esprit de l'homme qui n'a pour guides que des approximations : la hauteur du soleil variable suivant les saisons et autres changements naturels qui renseignent mal. L'un vit dans le précis , l'autre dans le vague ou l'à peu près, c'està- dire le mystère . Il importe peu que notre mesure du temps (comme toute autre) soit relative , et les problèmes
 
 par agités à ce sujet ne nous regardent pas . Par elle la mesure
 
@@ -2884,19 +2298,13 @@ Ce temps infini n'est qu'en puissance ; nous le constituons de deux manières
 
 à l'aide de la série des nombres, c'est le procédé
 
-[p. 197]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS ordinaire , le plus simple, le plus abstrait ; ou bien en le remplissant d'événements fictifs , de constructions arbitraires , pour l'avenir ; en évoquant l'image d'états évanouis , quand nous descendons aux premiers âges géologiques de notre globe, à la période de la nébuleuse et ainsi de suite . Mais cette conception d'un temps infini est toute subjective
+[p. 197] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS ordinaire , le plus simple, le plus abstrait ; ou bien en le remplissant d'événements fictifs , de constructions arbitraires , pour l'avenir ; en évoquant l'image d'états évanouis , quand nous descendons aux premiers âges géologiques de notre globe, à la période de la nébuleuse et ainsi de suite . Mais cette conception d'un temps infini est toute subjective
 
 et par elle-même ne nous révèle rien sur la nature des choses : nous ne faisons qu'ajouter des états de conscience à des états de conscience ; c'est une possibilité de progression et de régression qui ne s'épuise jamais ; rien de plus .
 
 Par une illusion fréquente, on transforme cet infini conçu en un infini réel ; on oublie que l'esprit ne travaille que sur l'abstrait, c'est-à-dire sur une fiction , utile sans doute , mais qui n'est créée que par nous et suivant notre nature intellectuelle .
 
-Supposons que, par suite d'un refroidissement graduel, de la disparition des mers ou pour une cause quelconque , l'homme et tout animal capable d'apprécier la durée disparaisse de la surface de la terre ; le temps disparaît avec eux . Sans doute, la terre continuerait à tourner autour de son axe, la lune autour de notre planète, le soleil à suivre son cours ; mais il n'existerait plus que des mouvements . De même que, si tout œil disparaissait, il n'y aurait plus ni lumière ni couleur ; que , si toute oreille venait à manquer, il n'y aurait plus ni sons ni bruits ; mais la simple possibilité de sensations lumineuses et auditives , si des organes appropriés surgissaient de nouveau : de même, dans notre hypothèse, il ne resterait qu'une possibilité de temps . La conscience est la condition nécessaire d'une
-
-[p. 198]
-
-notion quelconque du temps qui paraît et disparaît avec elle .
+Supposons que, par suite d'un refroidissement graduel, de la disparition des mers ou pour une cause quelconque , l'homme et tout animal capable d'apprécier la durée disparaisse de la surface de la terre ; le temps disparaît avec eux . Sans doute, la terre continuerait à tourner autour de son axe, la lune autour de notre planète, le soleil à suivre son cours ; mais il n'existerait plus que des mouvements . De même que, si tout œil disparaissait, il n'y aurait plus ni lumière ni couleur ; que , si toute oreille venait à manquer, il n'y aurait plus ni sons ni bruits ; mais la simple possibilité de sensations lumineuses et auditives , si des organes appropriés surgissaient de nouveau : de même, dans notre hypothèse, il ne resterait qu'une possibilité de temps . La conscience est la condition nécessaire d'une [p. 198] notion quelconque du temps qui paraît et disparaît avec elle .
 
 Il n'entre pas dans notre sujet d'exposer les nombreuses opinions qui ont été émises sur la nature du procédé psychologique par lequel la notion primitive du temps se constitue dans la conscience . Cette question est distincte, d'une part, de l'histoire de son développement comme notion abstraite que nous avons essayé de retracer ; d'autre part, de toute hypothèse sur son origine ultime (forme à priori de Kant, loi de l'esprit de Renouvier, innéité cérébrale de H. Spencer, etc.) qui n'explique pas son apparition à titre de fait, sa genèse selon l'expérience . Nous résumerons pourtant, à titre de complément, les opinions les plus récentes des psychologues [^p198-1] .
 
@@ -2906,9 +2314,7 @@ Il est clair que pour que la notion de temps se constitue , la simple succession
 
 << Supposons, dit Wundt, que les coups semblables d'un pendule se succèdent dans une conscience vide , à intervalles réguliers . Quand le premier a disparu, son image reste jusqu'à ce que le second se produise. Celui-ci reproduit le premier, en vertu de la loi d'association par ressemblance ; mais en même temps il rencontre l'image qui persiste encore. Ainsi la simple
 
-[p. 199]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
+[p. 199] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
 
 répétition du son contient tous les éléments de la perception du temps . Le premier son (rappelé par association) donne le commencement, le second la fin , et l'image persistante représente la longueur de l'intervalle. Au moment de la seconde impression, la perception entière du temps existe d'un bloc, car tous les éléments sont présentés ensemble : le second son et l'image immédiatement et la première impression par reproduction . >>
 
@@ -2922,11 +2328,7 @@ dit W. James , dans le système nerveux, prouve que chaque excitation laisse apr
 
 La forme la plus nette et la plus complète de ce mode d'explication est celle de Münsterberg, exposée précédemment.
 
-Fouillée soutient la même thèse comme cas particulier de sa
-
-[p. 200]
-
-théorie générale des « idées-forces » . Le présent apparent est une synthèse de présents réels . Ce que nous percevons primitivement, ce n'est pas la fixité , mais le changement ; nous sentons les transitions. Le point de vue statique doit être complété par le point de vue dynamique .
+Fouillée soutient la même thèse comme cas particulier de sa [p. 200] théorie générale des « idées-forces » . Le présent apparent est une synthèse de présents réels . Ce que nous percevons primitivement, ce n'est pas la fixité , mais le changement ; nous sentons les transitions. Le point de vue statique doit être complété par le point de vue dynamique .
 
 La séparation complète du présent et du passé est une fictiou mathématique. Le sentiment de la transition qui est dans l'appétit sert à former la série . Le temps est une forme de l'appétit ; sous l'image flottante, il y a une tendance au mouvement . Un être sans volition n'aurait pas de représentation du temps : le temps est une forme de l'appétition [^p200-1] .
 
@@ -2940,9 +2342,7 @@ successifs d'attention laissent une série de résidus variables en intensité e
 
 Ces extraits suffisent pour déterminer le caractère propre à la
 
-[p. 201]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
+[p. 201] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
 
 deuxième thèse , qui me paraît préférable à l'autre : elle est plus complète . En effet, elle tient compte non seulement des états clairs ,
 
@@ -2966,9 +2366,7 @@ La notion de cause a été la matière , depuis des siècles , de tant de spécu
 
 On a fait remarquer que le mot cause signifie quelquefois un antécédent, quelquefois un processus , quelquefois l'antécédent, le processus et l'effet produit, pris tous les trois ensemble [^p202-1] . Ce dernier sens est seul complet. Car, si la conception primitive, populaire, tend à restreindre la cause à l'antécédent, à ce qui agit, il suffit d'un peu de réflexion pour comprendre que la cause n'est déterminée comme telle que par son effet, que les deux termes sont corrélatifs , que l'un n'existe pas sans l'autre . Enfin, avec une réflexion plus approfondie, le processus lui-même , la transition , le passage, le nexus entre l'antécédent et le conséquent, apparaît comme le point vital et le proprium quid de la causalité. Comme fait psychique , comme état
 
-[p. 203]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS dè conscience, cette notion est donc complexe et, parmi les éléments qui la composent, tantôt l'un tantôt l'autre , suivant les époques , a été considéré comme le plus important.
+[p. 203] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS dè conscience, cette notion est donc complexe et, parmi les éléments qui la composent, tantôt l'un tantôt l'autre , suivant les époques , a été considéré comme le plus important.
 
 Dans ce qui suit, nous aurons à considérer : 1 ° l'origine de l'idée de cause selon l'expérience ; 2º sa généralisation , son passage de la forme individuelle , subjective, à la forme objective ; 3º sa transformation résultant du travail opéré dans les diverses sciences , sa scission en deux idées fondamentales : d'une part, celle de force, d'énergie , de puissance active et efficace, de cause au sens propre (vera causa) qui tend de plus en plus à devenir un postulatum , une x, un résidu métaphysique ; d'autre part, celle d'une succession constante, invariable, d'un rapport fixe , devenant la forme scientifique du concept de cause, qui est tout à fait équivalente au concept de loi .
 
@@ -2976,19 +2374,11 @@ I. Sur l'origine empirique de l'idée de cause ,
 
 il me semble que tout le monde est d'accord, au moins, quant au fond . Elle est de source interne, subjective ; elle nous est suggérée par notre activité motrice . Un être , purement passif par hypothèse , voyant ou sentant des successions externes constantes , n'aurait aucune idée de la causalité .
 
-Je crois inutile de montrer, par un entassement de citations , que des spiritualistes comme Maine de Biran , des empiristes comme Stuart Mill, des criticistes comme Renouvier, bref toutes les écoles , avec des formules qui varient, s'accordent sur ce point . Toutefois , il convient de remarquer le privilège exclusif que quelques- uns ont attribué à la « volonté » , en soutenant qu'elle est le type de la
-
-[p. 204]
-
-causalité ; cette assertion que « notre propre action volontaire est la source exclusive d'où cette idée est dérivée » n'est nullement justifiée . Si, comme quelques auteurs , on emploie le mot volonté en un sens large et vague, désignant toute activité mentale qui se traduit par des mouvements , il n'y a rien à objecter. Mais , si on l'emploie au sens propre , restreint , désignant un acte pleinement conscient, délibéré , motivé , cette assertion est inacceptable [^p204-1] . Le vouloir est un état d'apparition assez tardive. Il est précédé par une période d'appétits, de besoins , d'instincts, de désirs , de passions ; or tous ces faits d'activité interne, qui se traduisent en mouvements , sont aussi aptes que le vouloir à engendrer la notion empirique de cause, comme action transitive , comme changement produit :
+Je crois inutile de montrer, par un entassement de citations , que des spiritualistes comme Maine de Biran , des empiristes comme Stuart Mill, des criticistes comme Renouvier, bref toutes les écoles , avec des formules qui varient, s'accordent sur ce point . Toutefois , il convient de remarquer le privilège exclusif que quelques- uns ont attribué à la « volonté » , en soutenant qu'elle est le type de la [p. 204] causalité ; cette assertion que « notre propre action volontaire est la source exclusive d'où cette idée est dérivée » n'est nullement justifiée . Si, comme quelques auteurs , on emploie le mot volonté en un sens large et vague, désignant toute activité mentale qui se traduit par des mouvements , il n'y a rien à objecter. Mais , si on l'emploie au sens propre , restreint , désignant un acte pleinement conscient, délibéré , motivé , cette assertion est inacceptable [^p204-1] . Le vouloir est un état d'apparition assez tardive. Il est précédé par une période d'appétits, de besoins , d'instincts, de désirs , de passions ; or tous ces faits d'activité interne, qui se traduisent en mouvements , sont aussi aptes que le vouloir à engendrer la notion empirique de cause, comme action transitive , comme changement produit :
 
 ils ont de plus l'avantage d'être antérieurs dans l'ordre chronologique .
 
-La psychologie contemporaine a étudié bien plus qu'on ne l'avait fait avant elle le rôle des mouvements ; elle leur attribue une importance capitale ; elle montre que dans tous les états intellectuels sans exception, perceptions , images et même concepts, il y a des éléments moteurs inclus . Elle ne peut donc avoir aucune répugnance à accepрter la thèse commune . Il faut pourtant rappeler que la psychologie des mouvements a son point central dans la conscience de l'effort musculaire, qui est pris aussi comme le type de la causalité primitive . Or on sait que la nature de ce sentiment de l'effort a donné lieu à de vifs et longs débats . Pour les uns , il est d'origine centrale, il est antérieur au mouvement produit, ou du moins concomitant ,
-
-[p. 205]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS il va du dedans au dehors, il est efférent . Pour les autres , il est d'origine périphérique, postérieur au mouvement produit, il va du dehors au dedans, il est afférent : c'est un agrégat de sensations venant des articulations, des tendons , des muscles, des variations respiratoires , etc. ; en sorte que le sentiment de l'effort n'est que la conscience de l'énergie qui a été déployée , des mouvements qui ont été effectués : il est un résultat.
+La psychologie contemporaine a étudié bien plus qu'on ne l'avait fait avant elle le rôle des mouvements ; elle leur attribue une importance capitale ; elle montre que dans tous les états intellectuels sans exception, perceptions , images et même concepts, il y a des éléments moteurs inclus . Elle ne peut donc avoir aucune répugnance à accepрter la thèse commune . Il faut pourtant rappeler que la psychologie des mouvements a son point central dans la conscience de l'effort musculaire, qui est pris aussi comme le type de la causalité primitive . Or on sait que la nature de ce sentiment de l'effort a donné lieu à de vifs et longs débats . Pour les uns , il est d'origine centrale, il est antérieur au mouvement produit, ou du moins concomitant , [p. 205] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS il va du dedans au dehors, il est efférent . Pour les autres , il est d'origine périphérique, postérieur au mouvement produit, il va du dehors au dedans, il est afférent : c'est un agrégat de sensations venant des articulations, des tendons , des muscles, des variations respiratoires , etc. ; en sorte que le sentiment de l'effort n'est que la conscience de l'énergie qui a été déployée , des mouvements qui ont été effectués : il est un résultat.
 
 Cette deuxième thèse , sans s'établir jusqu'ici d'une façon décisive et incontestée, a gagné de jour en jour plus d'adhérents et reste la plus probable . En sorte que , la conscience de l'effort étant surtout celle de l'effet produit, il s'ensuit que dans l'acte considéré comme la source de la notion de cause , nous connaîtrions beaucoup moins l'antécédent que le conséquent . Cependant cette conscience de l'effort produit n'est pas tout, quoi qu'on en dise, dans la conception primitive de notre causalité propre, personnelle . Il y a quelque chose de plus : c'est l'idée confuse, illusoire ou non, d'une création qui émane de nous . Nous reviendrons sur ce point.
 
@@ -3002,11 +2392,7 @@ individuelle , commence très tôt son mouvement d'extension .
 
 1º Pendant une première période,
 
-cette extension est
-
-[p. 206]
-
-l'œuvre de l'imagination plus que de la généralisation proprement dite. Par suite d'une tendance instinctive , bien connue quoique inexpliquée, l'homme suppose des intentions , une volonté , une causalité analogue à la sienne dans ce qui, autour de lui, agit ou réagit : ses semblables , les êtres vivants et ceux qui par leurs mouvements simulent la vie (les nuages , les rivières, etc.) . C'est la période du fétichisme primitif qu'on trouve fixée dans les mythologies et les langues . On l'observe encore actuellement chez
+cette extension est [p. 206] l'œuvre de l'imagination plus que de la généralisation proprement dite. Par suite d'une tendance instinctive , bien connue quoique inexpliquée, l'homme suppose des intentions , une volonté , une causalité analogue à la sienne dans ce qui, autour de lui, agit ou réagit : ses semblables , les êtres vivants et ceux qui par leurs mouvements simulent la vie (les nuages , les rivières, etc.) . C'est la période du fétichisme primitif qu'on trouve fixée dans les mythologies et les langues . On l'observe encore actuellement chez
 
 les
 
@@ -3020,9 +2406,7 @@ bien à celle des images génériques , parce que la notion de cause ainsi gén�
 
 se résout en une association d'idées permanente , résultat de la répétition et de l'habitude [^p206-1] .
 
-[p. 207]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
+[p. 207] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
 
 Mais tout cela n'est qu'une conception extérieure de la causalité, de sa forme non de sa nature ; c'est une vue du dehors , un acheminement. Le caractère propre de cette période, c'est de rester subjective, anthropomorphique , de se représenter toujours la cause comme une activité intentionnelle , qui ne produit de mouvements qu'en vue d'une fin .
 
@@ -3038,17 +2422,13 @@ Toutefois , il importe de remarquer que le passage des cas particuliers à la g�
 
 lorsque , l'ayant conduit au fruitier, je lui eus montré la vraie cause de bruit , sa terreur l'abandonna et , en rentrant à la maison, il écouta le sourd grondement avec une parfaite quiétude. » On trouvera d'autres cas analogues dans son Évolution mentale chez les animaux (ch. x, sub. fin . ) .
 
-[p. 208]
-
-s'est fait que peu à peu. Une opinion très accréditée , sur la foi des à prioristes , c'est que chaque homme a en lui la notior. infuse , innée , de la loi de causalité, comme universelle . Cette thèse est équivoque . Si l'on Lon veut dire que tout changement suggère à tout homme normal qui en est le témoin la croyance invincible en un agent connu ou inconnu qui le produit , l'assertion est incontestable : mais ce n'est là, nous l'avons vu, que la conception populaire , pratique , extérieure , de la causalité. S'il s'agit du vrai concept
+[p. 208] s'est fait que peu à peu. Une opinion très accréditée , sur la foi des à prioristes , c'est que chaque homme a en lui la notior. infuse , innée , de la loi de causalité, comme universelle . Cette thèse est équivoque . Si l'on Lon veut dire que tout changement suggère à tout homme normal qui en est le témoin la croyance invincible en un agent connu ou inconnu qui le produit , l'assertion est incontestable : mais ce n'est là, nous l'avons vu, que la conception populaire , pratique , extérieure , de la causalité. S'il s'agit du vrai concept
 
 (celui des sciences solidement constituées) , qui se réduit à un déterminisme inflexible , invariable , c'est une erreur de prétendre que l'esprit humain l'a acquis d'emblée . La croyance en une loi universelle de causalité n'est pas un don gratuit de la nature , mais une conquête . Ce qui entretient cette erreur, c'est que depuis au moins trois siècles , les écrits des philosophes et des savants ont propagé cette notion et l'ont rendue assez familière . Elle n'en reste pas moins une conception tardive, ignorée de la plus grande portion du genre humain . La recherche scientifique a commencé par établir des lois (c'est-à-dire des rapports invariables de cause à effet) entre certains groupes de phénomènes , à établir une loi de causalité valable pour eux, rien que pour eux ; mais le transfert de cette loi à tout le connu et l'inconnu ne s'est produit que peu à peu , et, même de nos jours , il n'est pas complet, achevé . En un mot, la loi de causalité universelle est la généralisation de lois particulières et reste un postulat .
 
 A l'appui de ce qui précède, sans entrer dans des détails historiques , remarquons l'existence dans la conscience humaine de deux idées qui , de temps en temps, chacune
 
-[p. 209]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS à sa manière, font échec à l'universalité du principe . Bien que , par suite du développement de la pensée scientifique , leur influence ait été en décroissant, elles restent encore très vivantes . Ces deux idées sont celle de miracle
+[p. 209] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS à sa manière, font échec à l'universalité du principe . Bien que , par suite du développement de la pensée scientifique , leur influence ait été en décroissant, elles restent encore très vivantes . Ces deux idées sont celle de miracle
 
 et celle de hasard .
 
@@ -3066,11 +2446,7 @@ RIBOT .
 
 Idées générales .
 
-14
-
-[p. 210]
-
-spéculations contemporaines
+14 [p. 210] spéculations contemporaines
 
 sur l'occultisme , de ceux qui considèrent la liberté comme un commencement absolu , etc. ;
 
@@ -3080,9 +2456,7 @@ social, croient tout possible, reconstruisent la société humaine de fond en co
 
 L'idée de hasard est plus obscure. On pourrait presque dire que , pour la plupart des gens qui n'essaient pas de l'éclaircir, c'est un événement qui ne suppose ni cause ni loi ; c'est l'indétermination absolue, un coup de dé amené on ne sait comment, par on ne sait qui. Il est bien évident que le hasard n'exclut ni les causes ni les lois , mais pour ceux-là seulement qui ont réfléchi sur sa nature et ont analysé cette notion : pour les autres , c'est une entité mystérieuse , impénétrable, une Tyché dont les actes sont imprévisibles . Hume disait que « le hasard n'est que notre ignorance des causes véritables » . Cournot fait observer avec raison que cela n'est pas exact, que le hasard renferme quelque chose de réel et de positif : la conjonction , le croisement de deux ou plusieurs séries de causes et
 
-[p. 211]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS d'effets , indépendantes les unes des autres à l'origine , non destinées par leur nature à une influence réciproque . Ainsi une série de causes
+[p. 211] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS d'effets , indépendantes les unes des autres à l'origine , non destinées par leur nature à une influence réciproque . Ainsi une série de causes
 
 et d'effets conduit un voyageur à prendre tel train déterminé ; d'autre part une série de causes et d'effets totalement distincte produit, en un lieu et un moment déterminés, un accident qui tue notre homme [^p211-1] . Il n'y a donc , en fait, dans le hasard nulle dérogation aux lois du mécanisme universel. Pourquoi donc dans la conception commune paraît- il une exception , un indéterminé par nature ? D'abord, par suite d'une analyse insuffisante du problème posé par l'imprévu ; mais aussi , à notre avis , parce que l'idée primitive de la cause est presque toujours celle d'un seul antécédent, et ici cet antécédent unique ne se trouve pas , ne peut se trouver . La conception de la cause complexe, constituée par une somme de conditions concourantes , également nécessaires , est le fruit d'une réflexion avancée .
 
@@ -3094,11 +2468,7 @@ déterminisme rigoureux
 
 (et autres formules analogues)
 
-est acquise , superposée . Que cette notion soit applicable à toute l'expé-
-
-[p. 212]
-
-rience , quoique l'expérience ne soit pas épuisée, ou qu'elle soit simplement un guide dans la recherche, un stratagème pour introduire l'ordre dans les choses : c'est une question que le psychologue n'a aucune compétence pour discuter, encore moins pour résoudre .
+est acquise , superposée . Que cette notion soit applicable à toute l'expé-[p. 212]rience , quoique l'expérience ne soit pas épuisée, ou qu'elle soit simplement un guide dans la recherche, un stratagème pour introduire l'ordre dans les choses : c'est une question que le psychologue n'a aucune compétence pour discuter, encore moins pour résoudre .
 
 #### III
 
@@ -3128,11 +2498,7 @@ séculaires de
 
 l'idée de cause , faite
 
-d'après les théories philosophiques et les changements de méthode dans les sciences , serait le meil-
-
-[p. 213]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
+d'après les théories philosophiques et les changements de méthode dans les sciences , serait le meil-[p. 213]L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
 
 leur exposé des phases de son évolution. Il est impossible d'essayer ici un pareil travail. Notons seulement les deux points extrêmes : les spéculations de l'antiquité, la position contemporaine de la question (1) .
 
@@ -3152,9 +2518,7 @@ Au XVIIIe siècle, essor des sciences biologiques . L'importance croissante de l
 
 Kant essaie une conciliation entre les deux thèses : celle qui modèle l'objet sur le sujet (xvne siècle) , celle qui modèle le sujet sur l'objet (xvIIe siècle) .
 
-[p. 214]
-
-comme des types rationnels (nombres, idées) .
+[p. 214] comme des types rationnels (nombres, idées) .
 
 D'autre part, ils inventaient les mathématiques, posaient les premiers fondements de l'astronomie et de la physique . Or, en ce qui concerne la causalité, ces essais d'investigation scientifique de la nature comportaient des conséquences qui ne se sont produites clairement que bien plus tard . Ils exigeaient une autre position, un passage du subjectif à l'objectif : qu'il s'agisse de la chute des corps ou d'une loi d'hydrostatique, comme celle à qui Archimède a laissé son nom ; celui qui étudie le monde physique voit nécessairement les changements du dehors .
 
@@ -3164,9 +2528,7 @@ Cette position extérieure , vieille comme la science , était grosse de conséq
 
 : l'identité de la cause et de l'effet. Entre les deux, il n'y a pas de séparation ; l'antécédent n'est pas une chose et le conséquent une autre chose ; ils sont deux manifestations , différentes dans le temps , d'une identité fondamentale . On a dit justement que la théorie mécanique de
 
-[p. 215]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS l'univers (corrélation des forces , conservation et transformation de l'énergie, etc.) est la forme contemporaine du concept de la causalité naturelle . Exprimée dès l'antiquité sous la forme d'une anticipation métaphysique (ex nihilo nihil) , elle entre au xv11 ° siècle dans sa phase scientifique et s'achève dans le nôtre . Les physiciens qui l'ont établie sur l'expérience et le calcul, ont bien vu d'ailleurs la conséquence qui en découle . Pour n'en citer qu'un , R. Mayer dans sa Mechanik der Wärme : « Si la cause c a pour effet e , alors c = e ; si e est la cause d'un autre effet f, alors e = f et ainsi de suite . Puisque c devient e , que e devient f,
+[p. 215] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS l'univers (corrélation des forces , conservation et transformation de l'énergie, etc.) est la forme contemporaine du concept de la causalité naturelle . Exprimée dès l'antiquité sous la forme d'une anticipation métaphysique (*ex nihilo* nihil) , elle entre au xv11 ° siècle dans sa phase scientifique et s'achève dans le nôtre . Les physiciens qui l'ont établie sur l'expérience et le calcul, ont bien vu d'ailleurs la conséquence qui en découle . Pour n'en citer qu'un , R. Mayer dans sa Mechanik der Wärme : « Si la cause c a pour effet e , alors c = e ; si e est la cause d'un autre effet f, alors e = f et ainsi de suite . Puisque c devient e , que e devient f,
 
 etc. , nous devons considérer ces grandeurs comme des formes phénoménales différentes d'un seul et même objet. De même que la première propriété des causes est l'indestructibilité, leur seconde propriété est la convertibilité , c'est-à- dire la capacité d'assumer diverses formes . Et cette capacité ne doit pas s'entendre au sens d'une métamorphose ;
 
@@ -3180,19 +2542,11 @@ Il ne faut pas oublier d'ailleurs que les principes généraux de la thermodynam
 
 forme dernière du concept de causalité naturelle
 
-ne sont pas absolus, qu'ils sont posés comme un idéal. Ainsi on sait, par exemple , que la chaleur ne reconstitue jamais intégralement le travail dont elle est issue, qu'aucun événement physique n'est exactement réversible, c'est-à-dire ne peut se reproduire d'une manière identique dans le sens contraire , parce que , en se produisant pour la première fois , il a dû vaincre une résistance et perdre une partie de son énergie . Mais tout
-
-[p. 216]
-
-cela est sans importance pour nous . Tant vaut la doctrine de la conservation de l'énergie, tant vaut le concept actuel , de la causalité naturelle . Il s'agissait simplement de suivre l'évolution de ce concept jusqu'à ce jour, de montrer comment il s'est transformé, mais sans rien préjuger de l'avenir
+ne sont pas absolus, qu'ils sont posés comme un idéal. Ainsi on sait, par exemple , que la chaleur ne reconstitue jamais intégralement le travail dont elle est issue, qu'aucun événement physique n'est exactement réversible, c'est-à-dire ne peut se reproduire d'une manière identique dans le sens contraire , parce que , en se produisant pour la première fois , il a dû vaincre une résistance et perdre une partie de son énergie . Mais tout [p. 216] cela est sans importance pour nous . Tant vaut la doctrine de la conservation de l'énergie, tant vaut le concept actuel , de la causalité naturelle . Il s'agissait simplement de suivre l'évolution de ce concept jusqu'à ce jour, de montrer comment il s'est transformé, mais sans rien préjuger de l'avenir
 
 et surtout sans lui attribuer une valeur absolue [^p216-1] .
 
-Maintenant, que devient la notion de cause prise dans un autre sens, non plus comme un rapport invariable d'antécédent à conséquent, mais comme une chose qui agit , crée , modifie ou persiste sous toutes les transformations et revêt tous les masques ? La méthode scientifique , dès qu'elle pénètre dans un ordre quelconque de phénomènes , tend à l'exclure ou à la réduire aux plus strictes limites , à en faire usage le moins possible . Cause devient alors synonyme de force . Mais les sciences physiques ne définissent la force que par ses effets : le mouvement ou le travail produit. On connaît aussi la répugnance des biologistes pour la « force vitale », de la psychologie nonmétaphysique pour les « facultés » et pour l'intervention de « l'âme » , et ainsi de suite . Expulsée, cette notion estelle pour cela supprimée ? Non . Même la mécanique et la physique ne réussissent pas à s'en débarrasser complète-
-
-[p. 217]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS ment. Elle demeure comme un postulat, un résidu, une inconnue qui comble les lacunes . Mais , quoi qu'on fasse , pour être plus qu'un mot vide, pour devenir intelligible, la force ou énergie ne peut être imaginée , représentée , que sous la forme de l'effort musculaire qui en est l'origine et en reste le type ; et, malgré toutes les élaborations qu'on lui fait subir pour la dépouiller de son caractère anthropomorphique, pour la déshumaniser, elle demeure un fait d'expérience interne plutôt qu'un concept . Est-elle destinée à subir d'autres transformations , en raison de connaissances plus approfondies ou d'une position nouvelle du problème ? A côté de la causalité mécanique , du déterminisme rigoureux , y a-t-il place pour une autre forme de la causalité , propre à la psychologie , à la linguistique , à l'histoire , bref aux sciences positives de l'esprit, comme le soutiennent Wundt et d'autres ? C'est le secret de l'avenir .
+Maintenant, que devient la notion de cause prise dans un autre sens, non plus comme un rapport invariable d'antécédent à conséquent, mais comme une chose qui agit , crée , modifie ou persiste sous toutes les transformations et revêt tous les masques ? La méthode scientifique , dès qu'elle pénètre dans un ordre quelconque de phénomènes , tend à l'exclure ou à la réduire aux plus strictes limites , à en faire usage le moins possible . Cause devient alors synonyme de force . Mais les sciences physiques ne définissent la force que par ses effets : le mouvement ou le travail produit. On connaît aussi la répugnance des biologistes pour la « force vitale », de la psychologie nonmétaphysique pour les « facultés » et pour l'intervention de « l'âme » , et ainsi de suite . Expulsée, cette notion estelle pour cela supprimée ? Non . Même la mécanique et la physique ne réussissent pas à s'en débarrasser complète-[p. 217]L'ÉVOLUTION DES PRINCIPAUX CONCEPTS ment. Elle demeure comme un postulat, un résidu, une inconnue qui comble les lacunes . Mais , quoi qu'on fasse , pour être plus qu'un mot vide, pour devenir intelligible, la force ou énergie ne peut être imaginée , représentée , que sous la forme de l'effort musculaire qui en est l'origine et en reste le type ; et, malgré toutes les élaborations qu'on lui fait subir pour la dépouiller de son caractère anthropomorphique, pour la déshumaniser, elle demeure un fait d'expérience interne plutôt qu'un concept . Est-elle destinée à subir d'autres transformations , en raison de connaissances plus approfondies ou d'une position nouvelle du problème ? A côté de la causalité mécanique , du déterminisme rigoureux , y a-t-il place pour une autre forme de la causalité , propre à la psychologie , à la linguistique , à l'histoire , bref aux sciences positives de l'esprit, comme le soutiennent Wundt et d'autres ? C'est le secret de l'avenir .
 
 La tendance naturelle de l'esprit (qui n'est qu'un aspect de l'instinct de la conservation) , en face de l'inconnu et de l'imprévu , à chercher, à s'enquérir ; ce besoin confus ou clair d'expliquer bien ou mal, a, dans sa premiére démarche , supposé des entités agissantes . Elles subsistent encore sous une forme
 
@@ -3202,11 +2556,7 @@ ou transcendante ; elles reparaissent dans toute conjoncture inexpliquée, qu'il
 
 »
 
-Dans son autre sens , tout différent et même contraire ,
-
-[p. 218]
-
-qui s'est fixé lentement et plus lentement encore s'est étendu à l'expérience entière , la cause est un vrai concept, c'est-à-dire un résultat de l'abstraction , résumé en un caractère qui lui est exclusivement propre . Sous cette forme , il équivaut au concept de loi .
+Dans son autre sens , tout différent et même contraire , [p. 218] qui s'est fixé lentement et plus lentement encore s'est étendu à l'expérience entière , la cause est un vrai concept, c'est-à-dire un résultat de l'abstraction , résumé en un caractère qui lui est exclusivement propre . Sous cette forme , il équivaut au concept de loi .
 
 [p. 219]
 
@@ -3224,11 +2574,7 @@ Pour ne rappeler que les deux opinions extrêmes , voici ceux qui soutiennent qu
 
 événement ou individu
 
-que nos idées générales ne sont qu'un moyen de mettre de l'ordre ; mais qu'elles ne nous apprennent rien sur la nature des choses . Elles ressemblent au catalogue ou aux fiches d'une bibliothèque qui permettent de s'orienter aisément parmi des millions de livres , en nous laissant totalement ignorants de leur contenu et de leur valeur. Par suite , plus on monte , plus
-
-[p. 220]
-
-on pénètre dans le domaine de la fiction et du vide .
+que nos idées générales ne sont qu'un moyen de mettre de l'ordre ; mais qu'elles ne nous apprennent rien sur la nature des choses . Elles ressemblent au catalogue ou aux fiches d'une bibliothèque qui permettent de s'orienter aisément parmi des millions de livres , en nous laissant totalement ignorants de leur contenu et de leur valeur. Par suite , plus on monte , plus [p. 220] on pénètre dans le domaine de la fiction et du vide .
 
 D'un autre côté, voici ceux qui soutiennent qu'il y a dans la nature des caractères généraux et fixes ; les découvrir , c'est pénétrer jusqu'à l'essence des choses ; les événements et les individus n'ont qu'une existence d'emprunt ; il faut, sous leurs fugitives apparences , trouver le permanent : en sorte que, plus on généralise, plus on s'élève en réalité et en dignité .
 
@@ -3238,9 +2584,7 @@ D'une part, les ressemblances qui servent de point d'appui aux généralisations
 
 D'autre part, s'il y a évolution dans la nature , il faut aussi qu'il y ait évolution dans nos idées, et la prétention à des lois ou à des types d'une fixité inébranlable devient chimérique. Il n'y a plus entre les caractères « essentiels » et accidentels » , c'est-à-dire permanents et variables, la différence tranchée , autrefois admise . L'époque primaire de notre globe a pu avoir des lois qui ne sont plus celles de notre âge quaternaire ; tout change au cours du développement. Nous reviendrons sur ce point, dans la section suivante, en concluant.
 
-[p. 221]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
+[p. 221] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
 
 Sans insister sur un débat, qui, pour la psychologie , n'est que secondaire , remarquons tout d'abord que , dans le développement du concept de loi, on peut distinguer trois périodes principales : celles des images génériques , des lois concrètes ou empiriques, des lois théoriques ou idéales .
 
@@ -3260,11 +2604,7 @@ t .
 
 #### III
 
-fasc . 2, pp . 195 et suiv .) une remarque intéressante pour qui étudie le développement de la notion de loi. Aujourd'hui ce mot est d'un emploi courant dans toutes les sciences ; il a même son
-
-[p. 222]
-
-acception la plus rigoureuse dans les sciences mathématiques et physico-chimiques . Il n'en a pas été toujours ainsi . Dans l'antiquité , le terme est employé presque exclusivement dans un sens social, juridique , moral . Le concept de loi naturelle considérée comme une sorte de règle , de police, ne s'est formé et établi que très lentement .
+fasc . 2, pp . 195 et suiv .) une remarque intéressante pour qui étudie le développement de la notion de loi. Aujourd'hui ce mot est d'un emploi courant dans toutes les sciences ; il a même son [p. 222] acception la plus rigoureuse dans les sciences mathématiques et physico-chimiques . Il n'en a pas été toujours ainsi . Dans l'antiquité , le terme est employé presque exclusivement dans un sens social, juridique , moral . Le concept de loi naturelle considérée comme une sorte de règle , de police, ne s'est formé et établi que très lentement .
 
 Copernic et Kepler se servent du mot « hypothèse » . Galilée appelle les lois fondamentales de la nature des (( axiomes » et celles qui en dérivent des « théorèmes » , suivant la terminologie des mathématiciens. Descartes commence sa Philosophie de la nature en posant certaines Regutæ sive leges naturales . Newton dit
 
@@ -3272,11 +2612,7 @@ Copernic et Kepler se servent du mot « hypothèse » . Galilée appelle les loi
 
 Dans un autre article intitulé
 
-: Wer ist der Gesetzgeber der Naturgesezte ? (loc . cit. , fasc. 3, pp. 493 et suiv.) le même auteur soutient une opinion qui , malgré son apparence paradoxale, me semble tout à fait acceptable. Descartes appelait les lois de la nature des « règles « en tant qu'elles nous servent à expliquer les phénomènes ; des « lois » en tant que Dieu les a constituées à l'origine comme propriétés de la matière . Plus tard, c'est la nature qui prend la place de Dieu , ce qui est d'ailleurs la survivance d'une conception panthéistique du monde. Plus tard enfin , la tendance prépondérante est de désigner les lois par les noms de leurs inventeurs : lois de Mariotte ,de Gay-Lussac,de Dulong
-
-[p. 223]
-
-et Petit, d'Avogadro, de Ohm , de Weber,
+: Wer ist der Gesetzgeber der Naturgesezte ? (loc . cit. , fasc. 3, pp. 493 et suiv.) le même auteur soutient une opinion qui , malgré son apparence paradoxale, me semble tout à fait acceptable. Descartes appelait les lois de la nature des « règles « en tant qu'elles nous servent à expliquer les phénomènes ; des « lois » en tant que Dieu les a constituées à l'origine comme propriétés de la matière . Plus tard, c'est la nature qui prend la place de Dieu , ce qui est d'ailleurs la survivance d'une conception panthéistique du monde. Plus tard enfin , la tendance prépondérante est de désigner les lois par les noms de leurs inventeurs : lois de Mariotte ,de Gay-Lussac,de Dulong [p. 223] et Petit, d'Avogadro, de Ohm , de Weber,
 
 etc. « Au xvne siècle , c'est Dieu qui établit les lois de la nature ; au xvme siècle, c'est la Nature elle-même ; au XIXe siècle, ce sont les savants qui s'en chargent . » Cette thèse s'accorde avec ce que nous avons dit plus haut sur le caractère approximatif des lois, sur le mélange d'éléments objectifs et subjectifs qui entrent dans leur formule, et il n'y a aucun paradoxe à soutenir que l'état d'esprit de Mariotte , de Gay-Lussac, de Weber, etc. , lorsqu'ils découvrent leurs lois , représente cette approximation à un moment donné .
 
@@ -3286,11 +2622,7 @@ Les lois empiriques correspondent en gros aux formes moyennes de l'abstraction e
 
 cas . La constance n'est pas même nécessaire pour les lois empiriques , la fréquence suffit ; du moins on est souvent réduit à s'en contenter . Ces lois abondent dans les demi-sciences et quarts de science : elles sont utiles , elles mettent de l'ordre et de la simplification .
 
-Leur premier caractère est d'être identique aux faits . Lois et faits ne sont que deux aspects de la même chose . Passer des faits à leur loi empirique , c'est uniquement substituer la connaissance simple et homogène par abstraction à la connaissance multiple et hétérogène par perceptions . On assimile donc avec raison la loi empirique à un fait général, et il est licite de dire, en psychologie, la
-
-[p. 224]
-
-loi d'association ou le fait général de l'association . Par contre, en vertu de la tendance naturelle à l'anthropomorphisme, des locutions comme « la loi régit les faits » et autres analogues favorisent dans beaucoup d'esprits l'illusion d'un monde idéal de lois superposé au monde des faits , extérieur à eux et agissant sur eux à la manière d'un gouvernement.
+Leur premier caractère est d'être identique aux faits . Lois et faits ne sont que deux aspects de la même chose . Passer des faits à leur loi empirique , c'est uniquement substituer la connaissance simple et homogène par abstraction à la connaissance multiple et hétérogène par perceptions . On assimile donc avec raison la loi empirique à un fait général, et il est licite de dire, en psychologie, la [p. 224] loi d'association ou le fait général de l'association . Par contre, en vertu de la tendance naturelle à l'anthropomorphisme, des locutions comme « la loi régit les faits » et autres analogues favorisent dans beaucoup d'esprits l'illusion d'un monde idéal de lois superposé au monde des faits , extérieur à eux et agissant sur eux à la manière d'un gouvernement.
 
 Un second caractère qui n'est pas universel, mais fréquent, c'est la complexité . Nécessairement objective , puisqu'elle est une simple notation des faits observés , la loi empirique ne réussit pas toujours à enfermer en une formule unique
 
@@ -3298,9 +2630,7 @@ et courte les résultats de
 
 l'abstraction . Parfois elle y parvient ; parfois elle est en face d'une multiplicité irréductible à un seul énoncé ; elle doit se scinder en plusieurs cas et se résigner à user d'une formule longue . Ex. : en physiologie, les lois de Pflüger (ou des réflexes) , en linguistique, les lois de Grimm, etc. Elle est une description résumée et réduite au principal. Souvent, elle doit envelopper beaucoup de détails, comme dans la loi de Listing ( ou de la rotation du globe oculaire) . On en trouverait d'autres abondants exemples dans le sciences en voie de formation, mal constituées : psychologie [^p224-1], morale, sociologie , etc. La loi empirique ne pourrait se simplifier davantage qu'à condition de changer de nature , c'est-à-dire de se transformer en une loi théorique .
 
-[p. 225]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
+[p. 225] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
 
 La loi empirique est donc le type de la loi immanente , enfermée dans les faits , évoquant directement ou indirectement leur représentation à la manière des abstraits moyens, comportant des degrés d'abstraction croissante qui , à sa plus haute limite , la rapprochent insensiblement des lois théoriques .
 
@@ -3318,9 +2648,7 @@ Idées générales .
 
 15
 
-[p. 226]
-
-L'ÉVOLUTION DES IDÉES GENÉRALES
+[p. 226] L'ÉVOLUTION DES IDÉES GENÉRALES
 
 1 ° La simplicité, qui contraste avec la complexité des lois empiriques et est la conséquence nécessaire de l'opération qui l'engendre , puisqu'elle
 
@@ -3340,9 +2668,7 @@ quantitative
 
 tracés graphiques, courbes , statistiques, pourcentages, etc. Mais tout cela
 
-[p. 227]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS n'est qu'un bien pauvre succédané de la mise en équation et souvent, qui pis est, une précision illusoire, un trompel'œil.
+[p. 227] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS n'est qu'un bien pauvre succédané de la mise en équation et souvent, qui pis est, une précision illusoire, un trompel'œil.
 
 3º Il convient
 
@@ -3358,19 +2684,13 @@ ont fait réfléchi sur ce sujet
 
 la liste serait longue ressortir ce caractère d'approximation [^p227-1] .
 
-Ainsi , il n'est pas absolument vrai qu'un mouvement soit uniforme et rectiligne . La loi théorique des oscillations du pendule est irréalisable, puisqu'il n'y a pas de milieu non résistant, de barre totalement rigide et inextensible ni d'appareil de suspension capable de tourner sans frottement. Une planète ne décrirait une ellipse exacte que si elle tournait seule autour du soleil ; mais comme, en fait , il y en a plusieurs agissant et réagissant les unes sur les autres , la loi de Képler reste idéale . On sait par des
-
-[p. 228]
-
-recherches d'une extrême précision que la loi de Mariotte sur les rapports entre la densité d'un gaz et la pression qu'il supporte , n'est rigoureusement exacte pour aucun d'eux
+Ainsi , il n'est pas absolument vrai qu'un mouvement soit uniforme et rectiligne . La loi théorique des oscillations du pendule est irréalisable, puisqu'il n'y a pas de milieu non résistant, de barre totalement rigide et inextensible ni d'appareil de suspension capable de tourner sans frottement. Une planète ne décrirait une ellipse exacte que si elle tournait seule autour du soleil ; mais comme, en fait , il y en a plusieurs agissant et réagissant les unes sur les autres , la loi de Képler reste idéale . On sait par des [p. 228] recherches d'une extrême précision que la loi de Mariotte sur les rapports entre la densité d'un gaz et la pression qu'il supporte , n'est rigoureusement exacte pour aucun d'eux
 
 ; mais entre la théorie et la réalité les différences sont si faibles que, dans les cas ordinaires, on peut les négliger . Les lois de la thermodymanique (conservation de l'énergie , corrélation des forces) , dont on a fait tant usage de nos jours en raison de leur caractère de généralité et que quelques-uns posent comme le principe dernier des phénomènes , n'ont pas de valeur absolue . Il n'est pas exact, en fait, que tout changement engendre un changement capable de le reproduire sans addition ni perte . La première heure d'engouement passée, les critiques et les réserves sur ce point n'ont pas tardé à se produire . Ainsi de suite , l'énumération serait sans fin .
 
 En somme, le concept de loi, quand il est dans l'esprit mieux qu'un terme vague, correspond soit à une condensation immédiate des faits (lois empiriques) soit à une simplification idéale (lois théoriques) ; mais, imparfait ou parfait, le procédé de l'esprit reste le même dans les deux cas . Ils ne diffèrent que par le degré de simplification que l'analyse peut atteindre sur une matière donnée, à un moment donné . Si les lois empiriques, étroitement rattachées à l'expérience, ne sont pas devenues des idoles , cet honneur et ce malheur sont échus bien souvent aux autres . On a oublié que dans les sciences comme dans les arts, l'idéal n'est qu'un idéal, quoiqu'on l'atteigne par des moyens différents qui sont ici l'élimination, les omissions voulues pour mieux préciser, une réduction un peu artifi cielle à l'unité. Par suite, beaucoup sont tombés dans cette
 
-[p. 229]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
+[p. 229] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
 
 étrange illusion de croire qu'en manipulant l'expérience par le travail d'une abstraction toujours croissante, on peut en faire sortir l'absolu (1) .
 
@@ -3400,9 +2720,7 @@ inventeurs
 
 des
 
-[p. 231]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS concepts qui régissent
+[p. 231] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS concepts qui régissent
 
 cette portion
 
@@ -3416,11 +2734,7 @@ Certainement, entre tous , le concept d'espèce est celui qui , de nos jours sur
 
 Celle de la fixité des espèces, la plus ancienne, la seule longtemps régnante et qui compte encore peut-être des partisans . Si on l'accepte , on admet du même coup que le naturaliste , en déterminant les espèces , dévoile un mystère de la nature , découvre partiellement le plan de la création .
 
-L'antithèse complète consiste à soutenir qu'il n'existe que des individus. Sous sa forme radicale et absolue , cette assertion paraît avoir été émise rarement. Pourtant , on a dit que « l'idée d'espèce ne nous est pas donnée par la nature-même [^p231-1] . » En fait, la thèse du transformisme est
-
-[p. 232]
-
-différente .
+L'antithèse complète consiste à soutenir qu'il n'existe que des individus. Sous sa forme radicale et absolue , cette assertion paraît avoir été émise rarement. Pourtant , on a dit que « l'idée d'espèce ne nous est pas donnée par la nature-même [^p231-1] . » En fait, la thèse du transformisme est [p. 232] différente .
 
 Il ne se refuse pas à reconnaître le groupement des êtres , suivant leurs degrés de ressemblance, en variétés et en espèces ; mais il n'accorde à l'espèce qu'une fixité momentanée dans le temps et l'espace ; elle n'est pas existante, ce n'est pas un type naturel, c'est une variété stable transitoirement
 
@@ -3436,19 +2750,13 @@ ajoute
 
 : << S'il en était ainsi, on ne trouverait pas un grand nombre d'espèces portant des noms particuliers chez les peuples sauvages et chez nos populations les plus illettrées. La notion générale de l'espèce est au contraire une de celles qu'on doit avoir, pour peu qu'on regarde autour de soi . La difficulté est de la formuler nettement, de lui donner la précision scientifique, et cette difficulté est très réelle . >>>
 
-[p. 233]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS mais scientifique , doit découvrir des caractères qui soient les substituts d'un groupe (ici l'être vivant) , qui en tiennent lieu et permettent de le penser. Ces éléments constitutifs du concept d'espèce se rencontrent dans presque
+[p. 233] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS mais scientifique , doit découvrir des caractères qui soient les substituts d'un groupe (ici l'être vivant) , qui en tiennent lieu et permettent de le penser. Ces éléments constitutifs du concept d'espèce se rencontrent dans presque
 
 4 toutes les définitions des naturalistes [^p233-1] ; ils sont au nombre de deux : l'espèce est déterminée par deux caractères essentiels
 
 : la ressemblance (critérium morphologique) , la filiation (critérium physiologique) .
 
-1 ° La ressemblance paraît au premier abord facile à constater, et il semble qu'il n'y ait qu'à ouvrir les yeux ; mais avec ce procédé élémentaire , on ne dépassé guère le niveau des images génériques et on risque de commettre beaucoup d'erreurs . Il faut pénétrer jusqu'à des ressemblances plus profondes que celles qui se voient ; ce qui est un premier degré de complication . Déjà Buffon faisait remarquer « que l'âne et le cheval, qui sont des espèces distinctes , se ressemblent plus que le barbet et le lévrier qui sont de la même espèce » . Les faits désignés par les contemporains sous le nom de polymorphisme, mettent totalement en défaut le critérium de la ressemblance . Sans parler des différences évidentes entre la larve et l'insecte parfait , entre la chenille et le papillon, entre les mâles ,
-
-[p. 234]
-
-femelles et neutres des sociétés d'abeilles, de fourmis , de termites ,
+1 ° La ressemblance paraît au premier abord facile à constater, et il semble qu'il n'y ait qu'à ouvrir les yeux ; mais avec ce procédé élémentaire , on ne dépassé guère le niveau des images génériques et on risque de commettre beaucoup d'erreurs . Il faut pénétrer jusqu'à des ressemblances plus profondes que celles qui se voient ; ce qui est un premier degré de complication . Déjà Buffon faisait remarquer « que l'âne et le cheval, qui sont des espèces distinctes , se ressemblent plus que le barbet et le lévrier qui sont de la même espèce » . Les faits désignés par les contemporains sous le nom de polymorphisme, mettent totalement en défaut le critérium de la ressemblance . Sans parler des différences évidentes entre la larve et l'insecte parfait , entre la chenille et le papillon, entre les mâles , [p. 234] femelles et neutres des sociétés d'abeilles, de fourmis , de termites ,
 
 il s'est trouvé des cas où la disparité est si grande entre les deux sexes , que le mâle et la femelle , pris l'un et l'autre pour deux animaux différents , ont été classés dans des genres et même des ordres distincts : ainsi pour le lampyre ou ver luisant, pour les lernées et beaucoup d'autres . Le caractère de la ressemblance est donc souvent vague , quelquefois trompeur, presque toujours insuffisant ; aussi doit- on avoir recours à l'autre , la filiation .
 
@@ -3464,9 +2772,7 @@ et qui redeviennent par eux-mêmes
 
 ou par
 
-[p. 235]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS leurs descendants semblables à leurs premiers ancêtres . »
+[p. 235] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS leurs descendants semblables à leurs premiers ancêtres . »
 
 En somme, l'idée générale d'espèce repose sur deux idées, complexes malgré leur apparente simplicité, flottantes malgré leur apparente précision .
 
@@ -3482,25 +2788,15 @@ L'espèce , conclut-on, est donc une chose qui existe, qui se défend, qui ne se
 
 Évidemment ce débat est une question de faits ; or, les deux parties adverses en produisent à l'appui de leur thèse .
 
-Si restreint qu'en soit le nombre , il y a des hybrides
-
-[p. 236]
-
-féconds et qui se perpétuent. On en trouve parmi les oiseaux, parmi les mammifères : ainsi l'alpaca et la vigogne , le taureau et le zébu, le bélier et la brebis qui produisent les ovicapres , le lièvre et le lapin dont sont issus les léporides (leur perpétuité a été contestée) . D'autre part , s'il y a des espèces qui se fondent ainsi en un mélange durable , il y a par contre des races qui restent réfractaires à tous les essais de croisement : ainsi le cobaye domestique et le cobaye du Brésil, diverses races de chats , de lapins , etc.
+Si restreint qu'en soit le nombre , il y a des hybrides [p. 236] féconds et qui se perpétuent. On en trouve parmi les oiseaux, parmi les mammifères : ainsi l'alpaca et la vigogne , le taureau et le zébu, le bélier et la brebis qui produisent les ovicapres , le lièvre et le lapin dont sont issus les léporides (leur perpétuité a été contestée) . D'autre part , s'il y a des espèces qui se fondent ainsi en un mélange durable , il y a par contre des races qui restent réfractaires à tous les essais de croisement : ainsi le cobaye domestique et le cobaye du Brésil, diverses races de chats , de lapins , etc.
 
 Nous n'avons pas à entrer dans le fond de ce débat ni à énumérer les observations et expériences invoquées de part et d'autre : on les trouvera dans les ouvrages spéciaux . Notre but était de rechercher les éléments constitutifs de la notion d'espèce , dans sa phase scientifique . Or l'élément morphologique et l'élément physiologique n'ont ni l'un ni l'autre un caractère de permanence et d'universalité . Le concept d'espèce n'a pas de valeur absolue ; il n'est pas non plus un simple décalque , dans l'esprit, du <<plan de la nature » . Résultat de l'abstraction et de la généralisation , il répond à quelque chose de fixe pendant un certain temps et dans certaines conditions ; il a une objectivité temporaire et provisoire [^p236-1] .
 
-[p. 237]
-
-11
+[p. 237] 11
 
 Les discussions contemporaines se sont concentrées presque exclusivement sur l'espèce. Pour les genres et surtout pour les divisions supérieures au genre , on s'entend peu . En tout cas , nous ne trouvons pas ce que nous cherchons : la détermination d'éléments constitutifs , généralement acceptés qui soient pour le genre, la famille , l'ordre , la classe, l'équivalent des deux marques phologique et physiologique - qu'on attribue à l'espèce .
 
-morIl n'en a pas été toujours ainsi. Au temps où prévalait la croyance en un plan de la création, les naturalistes s'efforçaient, par le rapprochement des espèces, des genres , des familles , etc. , de dégager des caractères de plus en plus généraux, qu'ils considéraient comme essentiels et déterminés par la nature des choses . Nous avons dit précédemment que Linné le premier a fixé nettement la notion de genre, à laquelle il attribuait de la manière la plus expresse, une réalité : « Qu'on sache , dit-il, dans sa Philosophia botanica, que le caractère ne constitue pas le genre , mais le genre le caractère ; que le caractère découle du genre, non le genre du caractère ; que le caractère existe non pour que le genre devienne (fiát) , mais pour que le genre soit connu. » Dans la nomenclature binaire adoptée par lui, le premier terme désigne le genre , le second terme une des espèces incluses . Ainsi le chien et le loup ont des caractères qui les rapprochent l'un de l'autre et les distinguent des autres animaux (cinq doigts aux membres antérieurs , quatre seulement aux membres pos
-
-[p. 238]
-
-térieurs , vingt-deux dents aux mâchoires inférieure et supérieure , etc.) . Linné les constitue en genre Canis dont le Canis familiaris , le Canis lupus , le Canis vulpes , etc. , sont les espèces . De même le genre Felis , déterminé par les caractères
+morIl n'en a pas été toujours ainsi. Au temps où prévalait la croyance en un plan de la création, les naturalistes s'efforçaient, par le rapprochement des espèces, des genres , des familles , etc. , de dégager des caractères de plus en plus généraux, qu'ils considéraient comme essentiels et déterminés par la nature des choses . Nous avons dit précédemment que Linné le premier a fixé nettement la notion de genre, à laquelle il attribuait de la manière la plus expresse, une réalité : « Qu'on sache , dit-il, dans sa Philosophia botanica, que le caractère ne constitue pas le genre , mais le genre le caractère ; que le caractère découle du genre, non le genre du caractère ; que le caractère existe non pour que le genre devienne (fiát) , mais pour que le genre soit connu. » Dans la nomenclature binaire adoptée par lui, le premier terme désigne le genre , le second terme une des espèces incluses . Ainsi le chien et le loup ont des caractères qui les rapprochent l'un de l'autre et les distinguent des autres animaux (cinq doigts aux membres antérieurs , quatre seulement aux membres pos [p. 238] térieurs , vingt-deux dents aux mâchoires inférieure et supérieure , etc.) . Linné les constitue en genre Canis dont le Canis familiaris , le Canis lupus , le Canis vulpes , etc. , sont les espèces . De même le genre Felis , déterminé par les caractères
 
 communs exclusivement à certains animaux , comprend comme espèces : le chat (Felis catus), le lion (F. leo) , le tigre (F. tigris) , etc.) .
 
@@ -3510,9 +2806,7 @@ Agassiz , le dernier représentant de cette lignée de naturalistes qui ont aspi
 
 Comme représentants de l'ordre , ils se placent à un rang défini, quand on les compare avec les représentants d'autres familles .- Comme représentants de la classe , ils manifestent le plan de structure de leur embranchement à l'aide de moyens spéciaux et suivant des voies spéciales . - Comme représentants de l'embranchement , les individus sont tous organisés d'après un plan distinct qui diffère du plan des autres embranchements [^p238-1] . »
 
-[p. 239]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
+[p. 239] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
 
 Comme on l'a déjà montré
 
@@ -3532,11 +2826,7 @@ Pour leurs
 
 adversaires , les
 
-transformistes de toute nuance , c'est un autre idéal qui les guide : la recherche de la continuité, des transitions, des formes de passage . Les espèces , genres , familles, etc. , ne sont que des points de repère provisoires, entre lesquels existent des lacunes
-
-[p. 240]
-
-qu'ils s'efforcent de combler. Bien que la série animale , la chaîne des êtres soit, elle aussi, une construction théorique , une abstraction réalisée , on pourrait citer de beaux et nombreux travaux que cette foi en la continuité a inspirés . Ainsi ceux de Huxley , Cope et autres sur le genre Equus , établissant la filiation de l'Eohippus de l'époque tertiaire ancienne , avec ses quatre doigts , à l'Hipparion de l'époque tertiaire nouvelle et au Cheval de la période
+transformistes de toute nuance , c'est un autre idéal qui les guide : la recherche de la continuité, des transitions, des formes de passage . Les espèces , genres , familles, etc. , ne sont que des points de repère provisoires, entre lesquels existent des lacunes [p. 240] qu'ils s'efforcent de combler. Bien que la série animale , la chaîne des êtres soit, elle aussi, une construction théorique , une abstraction réalisée , on pourrait citer de beaux et nombreux travaux que cette foi en la continuité a inspirés . Ainsi ceux de Huxley , Cope et autres sur le genre Equus , établissant la filiation de l'Eohippus de l'époque tertiaire ancienne , avec ses quatre doigts , à l'Hipparion de l'époque tertiaire nouvelle et au Cheval de la période
 
 quaternaire .
 
@@ -3546,9 +2836,7 @@ Lois et espèces - deux notions générales
 
 qu'il faut joindre - ont dû varier au cours de l'évolution , parce qu'elles sont entièrement subordonnées aux conditions d'existence des phénomènes et des êtres . Admettons, simplement pour fixer les idées , l'hypothèse de la nébuleuse primitive . Supposons , par impossible, un être intelligent pouvant, à ce moment de l'histoire du monde , dresser l'inventaire des lois existantes . Il n'aurait pu en découvrir d'autres que celles qui régissent la matière à l'état gazeux : les
 
-[p. 241]
-
-L'ÉVOLUTION DES PRINCIPAUX CONCEPTS unes actuellement encore existantes ; d'autres que nous ne connaissons pas, que nous ne connaîtrons jamais, parce que, leurs conditions ayant cessé d'être , elles ont disparu . Puis , quand cette matière, uniformément diffuse et dispersée à travers l'espace , se divisa , pour une cause quelconque , en vastes sphères nébuleuses qui commencèrent à tourner lentement, notre être hypothétique aurait pu surprendre la naissance des lois astronomiques . Puis , la constitution de l'état liquide de la matière , de l'état solide à ses divers degrés , suscita de nouvelles lois physico- chimiques , tandis que d'autres disparaissaient . Enfin, quand la vie , quelle que soit son origine, a fait son apparition, d'autres lois ont surgi et une possibilité de classifications ; mais , pour le spectateur chimérique, elles devaient être fort singulières , fort différentes des nôtres , à moins d'admettre l'hypothèse d'un monde créé de toutes pièces .
+[p. 241] L'ÉVOLUTION DES PRINCIPAUX CONCEPTS unes actuellement encore existantes ; d'autres que nous ne connaissons pas, que nous ne connaîtrons jamais, parce que, leurs conditions ayant cessé d'être , elles ont disparu . Puis , quand cette matière, uniformément diffuse et dispersée à travers l'espace , se divisa , pour une cause quelconque , en vastes sphères nébuleuses qui commencèrent à tourner lentement, notre être hypothétique aurait pu surprendre la naissance des lois astronomiques . Puis , la constitution de l'état liquide de la matière , de l'état solide à ses divers degrés , suscita de nouvelles lois physico- chimiques , tandis que d'autres disparaissaient . Enfin, quand la vie , quelle que soit son origine, a fait son apparition, d'autres lois ont surgi et une possibilité de classifications ; mais , pour le spectateur chimérique, elles devaient être fort singulières , fort différentes des nôtres , à moins d'admettre l'hypothèse d'un monde créé de toutes pièces .
 
 Inutile d'entrer dans les détails de cette longue évolution , telle qu'on l'admet généralement.
 
@@ -3558,19 +2846,13 @@ RIBOT .
 
 Idées générales .
 
-16
-
-[p. 242]
-
-espèces physiques sont provisionnelles et proportionnelles à nos connaissances [^p242-1] .
+16 [p. 242] espèces physiques sont provisionnelles et proportionnelles à nos connaissances [^p242-1] .
 
 Bien d'autres concepts pourraient être ajoutés à ceux qui précèdent, entre autres ceux des sciences morales . J'y renonce , parce que la seule histoire de leurs fluctuations exigerait un volume. Jusqu'ici, ils sont peu déterminés , mal définis . Peut-on même parler d'une évolution régulière ? N'ont-ils pas subi plutôt des corsi e ricorsi qui parfois les ramènent à leur point de départ ? Là où, poursuivi pendant des siècles , le travail d'abstraction a réussi , nous l'avons vu passer par des phases successives :
 
 idées génériques , formes moyennes, formes supérieures-mais non d'un cours constant : tantôt atteignant très vite la période de simplification parfaite , comme dans les mathématiques ; tantôt arrêté longtemps dans sa marche, comme dans les sciences de la nature ; tantôt incapable de dépasser, du moins jusqu'à ce jour, les plus bas degrés, comme dans les sciences mal établies .
 
-[p. 243]
-
-CHAPITRE
+[p. 243] CHAPITRE
 
 #### VI
 
@@ -3582,9 +2864,7 @@ Nous avons essayé de montrer comment la faculté d'abstraire et de généralise
 
 Pour la psychologie contemporaine, l'esprit est une somme de processus différents de nature dont le mode d'apparition et d'évolution dépend de conditions déterminées . Dans l'ensemble des opérations intellectuelles , l'abstraction est un procédé de formation secondaire : elle n'appartient pas à la couche primaire , originelle , celle des sensations et perceptions, des appétits et tendances , des émotions primitives . Toutefois, nous avons vu qu'elle y est en germe . Comment, au lieu de rester dans cet état rudimentaire , s'est-elle différenciée de manière à devenir une fonction propre de l'esprit et à fournir une longue carrière qui continue encore ?
 
-[p. 244]
-
-Sa première condition est l'existence de l'attention qui , dans la confusion des choses, met quelques points en lumière . Nous avons exposé ailleurs comment l'attention elle-même dépend à l'origine de l'instinct de conservation individuelle [^p244-1] . Mais l'attention ne peut que précéder et préparer l'abstraction, parce qu'elle est un état momentané qui s'applique aux variables aspects des événements , sans rien isoler .
+[p. 244] Sa première condition est l'existence de l'attention qui , dans la confusion des choses, met quelques points en lumière . Nous avons exposé ailleurs comment l'attention elle-même dépend à l'origine de l'instinct de conservation individuelle [^p244-1] . Mais l'attention ne peut que précéder et préparer l'abstraction, parce qu'elle est un état momentané qui s'applique aux variables aspects des événements , sans rien isoler .
 
 Nous savons comment le premier travail de séparation, de
 
@@ -3614,11 +2894,7 @@ manières
 
 : en admettant l'influence de l'hérédité , en l'omettant .
 
-Dans le premier cas , on suppose que cette aptitude apparaît par << variation spontanée » chez un individu ou une race , se fixe , s'affermit, grandit par accumulation lente dans la suite des générations . Cette thèse postule l'hérédité des modifications acquises, qui est acceptée par les uns , rejetée par les autres , surtout depuis Weismann. En raison de son caractère hypothétique, contesté, je renonce
-
-[p. 246]
-
-à l'invoquer. Aussi bien la probabilité d'une transmission serait ici bien plus difficile à établir que pour
+Dans le premier cas , on suppose que cette aptitude apparaît par << variation spontanée » chez un individu ou une race , se fixe , s'affermit, grandit par accumulation lente dans la suite des générations . Cette thèse postule l'hérédité des modifications acquises, qui est acceptée par les uns , rejetée par les autres , surtout depuis Weismann. En raison de son caractère hypothétique, contesté, je renonce [p. 246] à l'invoquer. Aussi bien la probabilité d'une transmission serait ici bien plus difficile à établir que pour
 
 d'autres dispositions psychiques, telles que l'imagination ou les sentiments .
 
@@ -3628,9 +2904,7 @@ le progrès , doit être attribué à des causes sociales, l'utilité et l'imita
 
 il est imité . Nulle nécessité d'admettre , à l'origine , une abstraction réfléchie et pleinement consciente ; un heureux instinct, aiguillonné par les besoins de la vie , suffit pour commencer. Les races pauvrement douées sous ce rapport ou peu aptes à imiter les meilleures , n'ont pu dépasser un niveau infime . En définitive , l'abstraction et la généralisation sont le nerf de toute connaissance qui dépasse la sensation, et ce mode de connaissance est-il utile ? Il n'y a aucun doute possible sur la réponse .
 
-2º Le rôle des inventeurs correspond au fait qui, dans la terminologie transformiste , s'appelle la variation spontanée . Nous entendons par inventeurs ceux qui sont nés avec le talent ou le génie de l'abstraction. Inutile de prouver qu'il s'en est trouvé de tels, en grand nombre . Ils sont abstracteurs d'instinct, comme d'autres sont musiciens , mécaniciens , dessinateurs . La biographie des grands mathématiciens abonde en exemples : Pascal inventant la géométrie d'après quelques vagues indications de son père ;
-
-[p. 247]
+2º Le rôle des inventeurs correspond au fait qui, dans la terminologie transformiste , s'appelle la variation spontanée . Nous entendons par inventeurs ceux qui sont nés avec le talent ou le génie de l'abstraction. Inutile de prouver qu'il s'en est trouvé de tels, en grand nombre . Ils sont abstracteurs d'instinct, comme d'autres sont musiciens , mécaniciens , dessinateurs . La biographie des grands mathématiciens abonde en exemples : Pascal inventant la géométrie d'après quelques vagues indications de son père ; [p. 247]
 
 ## Conclusion
 
@@ -3640,11 +2914,7 @@ II. - Si maintenant, au lieu de suivre la marche de l'abstraction pas à pas, de
 
 : pratique, spéculative, scientifique ; inséparables d'ailleurs, car l'abstraction pratique conduit à la science , l'abstraction scientifique profite à la pratique, et la spéculation ne peut se passer complètement des deux autres [^p247-1] .
 
-L'abstraction et la généralisation pratiques sont nécessairement les premières en date, comme nous l'avons vu
-
-[p. 248]
-
-en étudiant leurs débuts chez les
+L'abstraction et la généralisation pratiques sont nécessairement les premières en date, comme nous l'avons vu [p. 248] en étudiant leurs débuts chez les
 
 animaux , les enfants , les sauvages . Elles servent à distinguer les qualités des choses par un mot ou un signe quelconque ; elles servent aux adaptations simples de la vie quotidienne . Plus tard , à un degré supérieur, nous voyons apparaître des procédés mixtes qui, dirigés surtout vers l'utilité, préludent déjà à la connaissance scientifique . La curiosité désintéressée s'éveille et se fait jour timidement. Il suffit de la moindre notion de l'histoire des sciences pour savoir que toutes , à leur origine, ont été des procédés de recherche appliquée et que souvent, dans leurs efforts incertains , elles ont trouvé ce qu'elles ne cherchaient pas . Les systèmes de numération sont issus du besoin de compter les objets et plus tard de quelques grossiers échanges commerciaux . Il a fallu une géométrie élémentaire pour mesurer les champs , pour déterminer des angles droits, fixer des positions relatives et fournir l'indispensable à l'architecture primitive . L'invention du levier, de la balance, d'engins rudimentaires pour soulever de lourdes masses , a posé les premières fondations de la mécanique . L'astronomie est issue du besoin de régler la vie civile et les fêtes religieuses , du désir (par exemple chez les Mexicains et Péruviens) de ne pas irriter les dieux par le retard des sacrifices dus . La métallurgie et plus tard la recherche de la pierre philosophale, de l'élixir de longue vie, ont préludé à la chimie scientifique . L'histoire du début de chaque science fournirait des faits analogues à profusion .
 
@@ -3658,19 +2928,13 @@ D'abord l'abstraction et la généralisation purement spéculative , c'est-à- d
 
 illusoire ou non
 
-est inhérente à la nature de l'esprit humain. Dans son livre déjà mentionné [^p249-1] , Stallo, qui a soumis à une critique incisive les concepts fondamentaux des sciences physiques et leur dérivation inconsciente vers la métaphysique, a si bien indiqué les caractères propres au procédé d'abstraction et
-
-[p. 250]
-
-de généralisation purement spéculatives, que nous ne pouvons mieux faire que de transcrire
+est inhérente à la nature de l'esprit humain. Dans son livre déjà mentionné [^p249-1] , Stallo, qui a soumis à une critique incisive les concepts fondamentaux des sciences physiques et leur dérivation inconsciente vers la métaphysique, a si bien indiqué les caractères propres au procédé d'abstraction et [p. 250] de généralisation purement spéculatives, que nous ne pouvons mieux faire que de transcrire
 
 << Quelle que soit la diversité qui existe entre les systèmes métaphysiques, ils sont tous fondés sur la supposition implicite ou explicite qu'il y a une correspondance fixe entre les concepts et leur filiation d'une part, et les choses dans leur dépendance mutuelle d'autre part. Cette erreur fondamentale est due en grande partie à une opinion fallacieuse sur le rôle du langage dans la formation des concepts . En gros , les concepts sont la signification des mots ; cette circonstance que les mots désignent ordinairement des choses ou au moins des objets sensibles et leur action réciproque , a donné naissance à certaines suppositions trompeuses qui , à certains points de vue, constituent le développement naturel de l'évolution de la pensée et, comme telles , peuvent être appelées des erreurs structurales de l'intelligence . A cet égard, elles ressemblent aux maladies organiques du corps . Ces suppositions sont :
 
 << Que chaque concept est l'équivalent d'une réalité objective distincte et que, par suite, il y a autant de choses ou de classes naturelles de choses qu'il y a de concepts ou de notions ;
 
-<< Que les concepts plus généraux ou plus extensifs et les réalités correspondantes préexistent aux concepts moins généraux , plus compréhensifs et aux réalités correspondantes ; que ces derniers concepts et réalités sont dérivés des premiers , soit par une addition successive d'attributs , soit par une évolution ; les attributs ou propriétés des premiers étant, par hypothèse , impliqués dans ceux des derniers ;
-
-[p. 251]
+<< Que les concepts plus généraux ou plus extensifs et les réalités correspondantes préexistent aux concepts moins généraux , plus compréhensifs et aux réalités correspondantes ; que ces derniers concepts et réalités sont dérivés des premiers , soit par une addition successive d'attributs , soit par une évolution ; les attributs ou propriétés des premiers étant, par hypothèse , impliqués dans ceux des derniers ; [p. 251]
 
 ## Conclusion
 
@@ -3690,11 +2954,7 @@ l'autre inconscient ou subconscient ; d'une part, les mots ou signes accompagné
 
 quelquefois
 
-d'une représentation vague , d'autre part un savoir latent, potentiel , organisé . On a
-
-[p. 252]
-
-essayé plus haut (ch . Iv) de montrer comment ce couple se forme et se fixe . Ce mécanisme reste toujours le même sans exception . Qu'il s'agisse de tenir une conversation banale à l'aide des termes abstraits dont nos langues sont faites ou de s'élever aux généralisations les plus hautes , il n'y a dans l'état mental qu'une différence de degré , non de nature . Sous les mots qui sont la portion claire, il existe le travail sourd et l'évocation vague de l'expérience organisée qui les vivifie. Sans ce facteur inconscient qui peut et souvent doit redevenir conscient, rien ne se fait que d'illusoire . Quand on induit, déduit, traverse une longue série d'abstractions pour démontrer ou découvrir, le travail utile consiste en rapports nouveaux qui s'établissent dans le savoir organisé , potentiel ; les mots ne sont que des
+d'une représentation vague , d'autre part un savoir latent, potentiel , organisé . On a [p. 252] essayé plus haut (ch . Iv) de montrer comment ce couple se forme et se fixe . Ce mécanisme reste toujours le même sans exception . Qu'il s'agisse de tenir une conversation banale à l'aide des termes abstraits dont nos langues sont faites ou de s'élever aux généralisations les plus hautes , il n'y a dans l'état mental qu'une différence de degré , non de nature . Sous les mots qui sont la portion claire, il existe le travail sourd et l'évocation vague de l'expérience organisée qui les vivifie. Sans ce facteur inconscient qui peut et souvent doit redevenir conscient, rien ne se fait que d'illusoire . Quand on induit, déduit, traverse une longue série d'abstractions pour démontrer ou découvrir, le travail utile consiste en rapports nouveaux qui s'établissent dans le savoir organisé , potentiel ; les mots ne sont que des
 
 instruments de manipulation qui commencent la besogne , la facilitent et en marquent les phases. Quand l'esprit, aux prises avec les abstractions les plus hautes , court de cimes en cimes, ce qui le soutient contre les chutes et le garantit contre l'erreur, c'est la quantité et la qualité d'inconscient emmagasiné sous les mots . L'entomologiste qui, à première vue , immédiatement, classe un insecte entre des milliers d'espèces , agit en vertu de sa longue expérience, fixée dans une mémoire solide et d'après des caractères saillants
 
@@ -3710,9 +2970,7 @@ du même coup, il est vrai , dans l'approximation . Les concepts vides relativem
 
 On a souvent répété que la pensée symbolique est une pensée par substitution . Cette formule n'est admissible qu'à la condition de reconnaître que le substitut suppose , exige , l'existence actuelle du substitué . Il y a substitution pour la conscience , non pour l'opération totale . Pour tout résumer d'un mot : la psychologie de l'abstraction et de la généralisation est, en grande partie, une psychologie de l'inconscient .
 
-[p. 254]
-
-Nous
+[p. 254] Nous
 
 n'avons
 
@@ -3728,9 +2986,7 @@ en faveur de l'innéité et de quelque façon qu'on la conçoive (formes à prio
 
 FIN
 
-[p. 255]
-
-TABLE
+[p. 255] TABLE
 
 DES
 
@@ -3808,7 +3064,7 @@ Comparaison du langage phonétique et du langage des gestes analytiques .
 
 Pourquoi la parole a prévalu .
 
-### Chapitre ii
+### Chapitre II
 
 LA PAROLE .
 
@@ -3822,17 +3078,13 @@ Le développement de la parole . Période protoplasmique, sans fonctions grammat
 
 Le discours a-t-il commencé par des mots ou des phrases ? - Apparition successive des parties du discours . cales .
 
-Les adjectifs ou dénominations des qualités. Le substantif, rétrécissement de l'adjectif. Le verbe n'est pas d'apparition
-
-[p. 257]
-
-primitive : les trois degrés de l'abstraction.
+Les adjectifs ou dénominations des qualités. Le substantif, rétrécissement de l'adjectif. Le verbe n'est pas d'apparition [p. 257] primitive : les trois degrés de l'abstraction.
 
 - Termes qui expriment les rapports . Nature psychologique du
 
 rapport , réductible au changement ou au mouvement. - Rôle de l'analogie .
 
-### Chapitre iii
+### Chapitre III
 
 99 LES FORMES MOYENNES DE L'ABSTRACTION
 
@@ -3846,7 +3098,7 @@ Nature des formes inférieures de l'abstraction moyenne , d'après les langues, 
 
 Contemporains . Marche vers l'unité .
 
-### Chapitre iv
+### Chapitre IV
 
 LES FORMES SUPÉRIEURES DE L'ABSTRACTION . LEUR NATURE .
 
@@ -3870,13 +3122,11 @@ Idées générales .
 
 17
 
-[p. 258]
-
-Y a-t-il des nature entre l'image et le concept . Ses causes .
+[p. 258] Y a-t-il des nature entre l'image et le concept . Ses causes .
 
 idées générales ou seulement des termes généraux ?
 
-### Chapitre v
+### Chapitre V
 
 L'ÉVOLUTION DES PRINCIPAUX CONCEPTS
 
@@ -3930,11 +3180,7 @@ Origine de la rence .
 
 notion concrète de durée : hypothèses diverses
 
-: sensations externes , sensations internes ; présomptions en faveur de ces dernières . - De la duree abstraite (temps) . Premier stade qui dépend de la mémoire et de l'imagination seules : répond
-
-[p. 259]
-
-1º aux images génériques . La représentation de la durée chez les animaux supérieurs ; 2º à la période concrète-abstraite (formes moyennes de l'abstraction). Les peuples primitifs . Pourquoi le temps (non l'espace) a été personnifié. - Deuxième stade , dépend de l'abstraction. Rôle des astronomes : mesure du temps.
+: sensations externes , sensations internes ; présomptions en faveur de ces dernières . - De la duree abstraite (temps) . Premier stade qui dépend de la mémoire et de l'imagination seules : répond [p. 259] 1º aux images génériques . La représentation de la durée chez les animaux supérieurs ; 2º à la période concrète-abstraite (formes moyennes de l'abstraction). Les peuples primitifs . Pourquoi le temps (non l'espace) a été personnifié. - Deuxième stade , dépend de l'abstraction. Rôle des astronomes : mesure du temps.
 
 Le temps infini.
 
@@ -3968,11 +3214,7 @@ des
 
 lois
 
-empiriques , correspondant aux formes moyennes de l'abstraction, Leurs caractères : identité du fait
-
-[p. 260]
-
-et de la loi ; complexité.
+empiriques , correspondant aux formes moyennes de l'abstraction, Leurs caractères : identité du fait [p. 260] et de la loi ; complexité.
 
 Période des lois théoriques ou idéales , correspondant aux formes moyennes de l'abstraction . Ses caractères : simplicité, détermination quantitative, formule idéale.
 
@@ -3990,7 +3232,7 @@ Objectivité temporaire et provisoire. Les genres . Thèses de Linné et d'Agass
 
 Les transformistes et leurs adversaires ont un point commun : valeur pratique des concepts . Ni réalité, ni fiction, mais approximation . - Lois et espèces dépendent des conditions d'existence et varient avec elles .
 
-### Chapitre vi
+### Chapitre VI
 
 243
 
@@ -4008,9 +3250,7 @@ MONACENSIS
 
 - Tours , imp . E. Arraultet Cie 6, rue de la Préfecture . 5-3-7 .
 
-[p. 261]
-
-PHILOSOPHIE
+[p. 261] PHILOSOPHIE
 
 HISTOIRE
 
@@ -4036,7 +3276,7 @@ CONTEMPORAINE .
 
 LUSTRÉES
 
-15 Format in-12 .
+15 Format *in-12* .
 
 2
 
@@ -4072,7 +3312,7 @@ AFFAIRES ÉTRANGÈRES
 
 8 1 Philosophie écossaise.
 
-REVUE PHILOSOPHIQUE ...
+*REVUE PHILOSOPHIQUE* ...
 
 17
 
@@ -4166,15 +3406,13 @@ Au coin de la rue Hautefeuille.
 
 1896
 
-[p. 262]
-
-Les titres précédés d'un asterisque sont recommandés par le Ministère de l'Instruction publique pour les Bibliothèques des élèves et des professeurs et pour les distributions de prix des lycées
+[p. 262] Les titres précédés d'un asterisque sont recommandés par le Ministère de l'Instruction publique pour les Bibliothèques des élèves et des professeurs et pour les distributions de prix des lycées
 
 BIBLIOTHÈQUE DE PHILOSOPHIE CONTEMPORAINE
 
 Volumes
 
-in-12, brochés,
+*in-12*, brochés,
 
 à 2 fr. 50.
 
@@ -4268,9 +3506,7 @@ Des Rapports de la Religion et de l'État. 2º édit.
 
 La Philosophie mystique en France au XVIII° siècle .
 
-[p. 263]
-
-Suite de la Bibliotheque de philosophie contemporaine, format in-12, à 2 fr. 50 le vol . GAUCKLER . Le Beau et son histoire .
+[p. 263] Suite de la Bibliotheque de philosophie contemporaine, format *in-12*, à 2 fr. 50 le vol . GAUCKLER . Le Beau et son histoire .
 
 GREEF (de) . Les Lois sociologiques. 2º édit.
 
@@ -4372,9 +3608,7 @@ RÉMUSAT (Charles de), de l'Académie française .
 
 Philosophie religieuse.
 
-[p. 264]
-
-Suite de la Bibliothèque de philosophie contemporaine, format in-12, à2 fr. 50 le vol. RIBOT (Th.), professeur au Collège de France, directeur de la Revue philosophique. La Philosophie de Schopenhauer. 6º édition .
+[p. 264] Suite de la Bibliothèque de philosophie contemporaine, format *in-12*, à2 fr. 50 le vol. RIBOT (Th.), professeur au Collège de France, directeur de la *Revue philosophique*. La Philosophie de Schopenhauer. 6º édition .
 
 [^p264-1] Les Maladies de la mémoire. 9º édit.
 
@@ -4422,9 +3656,7 @@ SIGHELE. La Foule criminelle, essai de psychologie collective.
 
 STRICKER . Le Langage et la Musique, traduit de l'allemand par M. Schwiedland. STUART MILL. * Auguste Comte et la Philosophie positive. 4º édit.
 
-[p. 265]
-
-Suite de la Bibliothèque de philosophie contemporaine , format in-8.
+[p. 265] Suite de la Bibliothèque de philosophie contemporaine , format in-8.
 
 BARTHÉLEMY- SAINT-HILAIRE , de l'Institut. La Philosophie dans ses rapports avec les sciences et la religion. 1 vol .
 
@@ -4566,9 +3798,7 @@ L'Irréligion de l'avenir, étude de sociologie. 1 vol. 3º édit.
 
 20 fr .
 
-[p. 266]
-
-Suite de la Bibliotheque de philosophie contemporaine, format in-8 . HERBERT SPENCER . [^p266-1] Principes de sociologie. 4 vol., traduits par MM . Cazelles etGerschel :
+[p. 266] Suite de la Bibliotheque de philosophie contemporaine, format in-8 . HERBERT SPENCER . [^p266-1] Principes de sociologie. 4 vol., traduits par MM . Cazelles etGerschel :
 
 Tome I. 10fr. - Tome II. 7 fr . 50.
 
@@ -4656,7 +3886,7 @@ d'une préface de M. le docteur LETOURNEAU. 3º éd . 2 vol. et atlas. 1895.
 
 et précédé d'une préface de M. CH. RICHET. 1 vol. avec 11 pl . hors texte .
 
-10 fr . LOMBROSO ET FERRERO. La Femme criminelle et la prostituée . 1 vol. in-8°
+10 fr . LOMBROSO ET FERRERO. La Femme criminelle et la prostituée . 1 vol. *in-8°*
 
 avec planches hors texte. 1896 .
 
@@ -4684,9 +3914,7 @@ certitude logique. 1894.
 
 3 fr. 75 NAVILLE (E.) , correspond. de l'Institut. La physique moderne. 1 vol. 2º édit. 5 fr .
 
-[p. 267]
-
-Suite de la Bibliothèque de philosophie contemporaine, format in-8.
+[p. 267] Suite de la Bibliothèque de philosophie contemporaine, format in-8.
 
 PAYOT (J. ) , agrégé de philosophie, docteur ès lettres . * L'Éducation de la volonté.
 
@@ -4734,7 +3962,7 @@ démie des sciences morales et politiques .
 
 * La criminalité politique. 1895.
 
-5 fr. RIBOT (Th . ) , prof. au Collège de France, dir.de la Revue philosophique . * L'Hérédité psychologique. 1 vol. 5º édit .
+5 fr. RIBOT (Th . ) , prof. au Collège de France, dir.de la *Revue philosophique* . * L'Hérédité psychologique. 1 vol. 5º édit .
 
 7 fr. 50
 
@@ -4822,9 +4050,7 @@ La Religion. 1 vol .
 
 20 fr.
 
-[p. 268]
-
-PHILOSOPHIE ANCIENNE ARISTOTE ( Œuvres d'), traduction de J.
+[p. 268] PHILOSOPHIE ANCIENNE ARISTOTE ( Œuvres d'), traduction de J.
 
 BARTHÉLEMY- SAINT-HILAIRE, de l'Institut.
 
@@ -4854,7 +4080,6 @@ in-8 .
 
 De la Logique d'Aristote, par
 
-#### M
 
 2
 
@@ -4942,7 +4167,7 @@ sophistes grecs . 1 v. in-8...... 9 fr.
 
 FABRE (Joseph). * Histoire de la philosophie, antiquité et moyen
 
-âge. 1 vol. in-18 .
+âge. 1 vol. *in-18* .
 
 3fr. 50
 
@@ -4950,13 +4175,13 @@ FAVRE (Mme Jules), née VELTEN. La
 
 Morale des stoïciens . 1 volume
 
-in-18 ..
+*in-18* ..
 
 3fr. 50
 
 - La Morale de Socrate . 1 vol.
 
-in-18....
+*in-18*....
 
 3fr. 50
 
@@ -4964,7 +4189,7 @@ La Morale d'Aristote, 1
 
 vol .
 
-in-18
+*in-18*
 
 3 fr . 50
 
@@ -5084,11 +4309,9 @@ Versailles . 1 vol. in-8.1889 .
 
 6 fr .
 
-[p. 269]
+[p. 269] LOCKE. * Sa vie et ses œuvres, par | FRANCK (Ad.), de l'Institut. La PhiMARION , professeur à la Sorbonne .
 
-LOCKE. * Sa vie et ses œuvres, par | FRANCK (Ad.), de l'Institut. La PhiMARION , professeur à la Sorbonne .
-
-1 vol . in-18.3º édition .
+1 vol . *in-18*.3º édition .
 
 2 fr . 50 MALEBRANCHE .
 
@@ -5134,7 +4357,7 @@ siècle .
 
 volume
 
-in-18..
+*in-18*..
 
 2 fr . 50
 
@@ -5198,7 +4421,7 @@ Dijon (ouvrage couronné par l'Institut). 1 volume in-8 ..
 
 choisies.
 
-Essai d'une nouvelle théorie de la la philosophie de l'esprit humain, traduits de l'anglais par L. PEISSE. 3 vol. in-12 ...
+Essai d'une nouvelle théorie de la la philosophie de l'esprit humain, traduits de l'anglais par L. PEISSE. 3 vol. *in-12* ...
 
 9 fr.
 
@@ -5222,7 +4445,7 @@ de
 
 l'Institut .
 
-1 in-18 .
+1 *in-18* .
 
 BERKELEY.
 
@@ -5248,7 +4471,7 @@ vol .
 
 PHILOSOPHIE ALLEMANDE
 
-KANT . La Critique de la raison pratique , traduction nouvelle avec
+KANT . La *Critique de la raison pratique* , traduction nouvelle avec
 
 ## introduction et notes, par M. PICA
 
@@ -5264,7 +4487,7 @@ M. TISSOT. 1 vol. in-8 .....
 
 KANT. Traité de pédagogie, trad.
 
-J.BARNI ; préface et notes par M. Raymond THAMIN. 1 vol . in-12. 1 fr.50
+J.BARNI ; préface et notes par M. Raymond THAMIN. 1 vol . *in-12*. 1 fr.50
 
 FICHTE . Destination du savant
 
@@ -5302,7 +4525,7 @@ HEGEL. * Logique . 2e édit.
 
 sur
 
-la Critique de la raison pure , trad.
+la *Critique de la raison pure* , trad.
 
 par M. J. TISSOT . 1 vol. in-8.6 fr .
 
@@ -5378,9 +4601,7 @@ de divers fragments relatifs aux rapports du physique et du moral de l'homme, et
 
 .. 16fr.
 
-[p. 270]
-
-in-18
+[p. 270] *in-18*
 
 2 fr . 50
 
@@ -5408,7 +4629,7 @@ STAHL .
 
 Vitalisme et l'Animisme de Stahl, par M. Albert
 
-LEMOINE . 1 vol. in-18.... 2 fr . 50
+LEMOINE . 1 vol. *in-18*.... 2 fr . 50
 
 PHILOSOPHIE ALLEMANDE CONTEMPORAINE lianisme dans la philosophie française ,
 
@@ -5420,7 +4641,7 @@ BEAUSSIRE .
 
 1 vol .
 
-in-18 ....
+*in-18* ....
 
 2 fr . 50
 
@@ -5446,9 +4667,8 @@ BUCHNER (L.). * Le Matérialisme | SCHOPENHAUER . * Le Fondement contemporain ,
 
 par
 
-#### M
 
-Paul JANET . 4 ° édit. 1 vol. in-18.2 fr . 50 CHRISTIAN BAUR
+Paul JANET . 4 ° édit. 1 vol. *in-18*.2 fr . 50 CHRISTIAN BAUR
 
 et
 
@@ -5458,13 +4678,13 @@ de Tubingue, par M. Ed.
 
 ZELLER .
 
-1 vol. in-18...........
+1 vol. *in-18*...........
 
-2 fr.50 HARTMANN (E. de). La Religion de l'avenir . 1 vol. in-18 ..
+2 fr.50 HARTMANN (E. de). La Religion de l'avenir . 1 vol. *in-18* ..
 
 2 fr . 50 - * Le Darwinisme, ce qu'il y a de vrai et de faux dans cette doctrine .
 
-1 vol . in-18 .
+1 vol . *in-18* .
 
 2 fr. 50 HERBART. * Principales œuvres pédagogiques , trad. et fondues par A.
 
@@ -5476,7 +4696,7 @@ et
 
 la
 
-Philosophie de l'inconscient . 1 v. in-18. 2fr.50 PIDERIT.
+Philosophie de l'inconscient . 1 v. *in-18*. 2fr.50 PIDERIT.
 
 La Mimique
 
@@ -5494,17 +4714,17 @@ physiologie. 1 vol. in-8 ........
 
 - * L'Ame de l'enfant. Observations sur le développement psychique des premières années . 1 vol. in-8.10 fr .
 
-SCHOEBEL . Philosophie de la raison pure . 1 vol.in-18 .
+SCHOEBEL . Philosophie de la raison pure . 1 vol.*in-18* .
 
 5 fr.
 
-SCHOPENHAUER . * Essai sur le libre arbitre . 1 vol. in-18.5 ° éd. 2 fr.50
+SCHOPENHAUER . * Essai sur le libre arbitre . 1 vol. *in-18*.5 ° éd. 2 fr.50
 
-de la morale. 1 vol. in-18 . 2 fr. 50
+de la morale. 1 vol. *in-18* . 2 fr. 50
 
 -Essais et fragments, trad. etprécédé d'une Vie de Schopenhauer, par
 
-M.BOURDEAU . 1 v.in-18.13 ° éd.2f.50
+M.BOURDEAU . 1 v.*in-18*.13 ° éd.2f.50
 
 - Aphorismes
 
@@ -5534,7 +4754,7 @@ La
 
 Philosophie de Schopenhauer, par M. Th . RIBOT. 1 vol .
 
-in-18.5º édit.
+*in-18*.5º édit.
 
 2 fr . 50
 
@@ -5546,7 +4766,7 @@ in-8 .
 
 7 fr. 50
 
-STRICKER . Le Langage et la Musique . 1 vol . in-18 ....... 2 fr . 50
+STRICKER . Le Langage et la Musique . 1 vol . *in-18* ....... 2 fr . 50
 
 WUNDT .
 
@@ -5562,7 +4782,7 @@ Suggestion .
 
 2 fr. 50
 
-1 vol . in-18
+1 vol . *in-18*
 
 OLDENBERG * Le Bouddha , sa vie,
 
@@ -5612,7 +4832,7 @@ sociologie .
 
 * Classification des sciences .
 
-1 vol . in-18 . 2e édition . 2 fr . 50
+1 vol . *in-18* . 2e édition . 2 fr . 50
 
 * De l'éducation intellectuelle,
 
@@ -5632,9 +4852,9 @@ logique déductive et inductive . 2 v. in-8 .
 
 20fr .
 
-* Auguste Comte et la philosophie positive.1 vol.in-18 .
+* Auguste Comte et la philosophie positive.1 vol.*in-18* .
 
-2 fr.50 -* L'Utilitarisme. 1 v.in-18.2 fr.50 * Essais sur la Religion . 1 vol .
+2 fr.50 -* L'Utilitarisme. 1 v.*in-18*.2 fr.50 * Essais sur la Religion . 1 vol .
 
 in-8 . 2e édit ...
 
@@ -5642,7 +4862,7 @@ in-8 . 2e édit ...
 
 - La République de
 
-1848 et ses détracteurs , trad. et préface de M. SADI CARNOT . 1 v.in-18 . 1 fr .
+1848 et ses détracteurs , trad. et préface de M. SADI CARNOT . 1 v.*in-18* . 1 fr .
 
 La
 
@@ -5652,9 +4872,7 @@ de
 
 Stuart Mill, par H. LAURET. 2 v.in-8. 6 fr .
 
-[p. 271]
-
-HERBERT SPENCER . * Essais sur le | DRAPER * Les Conflits de la science - Essais de politique. 1 vol .
+[p. 271] HERBERT SPENCER . * Essais sur le | DRAPER * Les Conflits de la science - Essais de politique. 1 vol .
 
 in-8 . 2e édit .......
 
@@ -5662,11 +4880,11 @@ in-8 . 2e édit .......
 
 7 fr . 50 * Les Bases de la morale évolutionniste . 1 v. in-8.5ºédit . 6 fr .
 
-L'individu contre l'État. 1 vol in-18 . 4º édit2 fr . 50 BAIN. * Des sens et de l'intellи-
+L'individu contre l'État. 1 vol *in-18* . 4º édit2 fr . 50 BAIN. * Des sens et de l'intellи-
 
 HOBBES * La Philosophie de Hobbes
 
-par G. LYON. 1 vol. in-18.2 fr. 50
+par G. LYON. 1 vol. *in-18*.2 fr. 50
 
 MATTHEW ARNOLD . La Crise religieuse . 1 vol. in-8 ....
 
@@ -5736,7 +4954,7 @@ SCHMIDT 1 vol. in-8, cart. 5º édit ..
 
 Darwinisme , par E.
 
-DE HARTMANN . 1 vol. in-18..
+DE HARTMANN . 1 vol. *in-18*..
 
 2 fr . 50 FERRIER. Les Fonctions du Cerveau . 1 vol . in-8 .
 
@@ -5780,7 +4998,7 @@ contemporains .
 
 vol .
 
-in-18 .
+*in-18* .
 
 2e édit ...
 
@@ -5828,7 +5046,7 @@ La
 
 Philosophie de Hobbes .
 
-1 vol . in-18 ..
+1 vol . *in-18* ..
 
 2 fr . 50
 
@@ -5838,11 +5056,11 @@ ITALIENNE CONTEMPORAINE SICILIANI .
 
 La Psychogénie
 
-moderne . 1 vol . in-18 .....
+moderne . 1 vol . *in-18* .....
 
 2 fr . 50 ESPINAS . * La Philosophie expérimentale
 
-en Italie, origines , état actuel . 1 vol. in-18 .
+en Italie, origines , état actuel . 1 vol. *in-18* .
 
 2 fr. 50 MARIANO .
 
@@ -5850,17 +5068,17 @@ La
 
 Philosophie
 
-contemporaine en Italie, philosophie hégélienne.1v.in-18 . 2 fr.50 FERRI ( Louis) . La Philosophie de l'association
+contemporaine en Italie, philosophie hégélienne.1v.*in-18* . 2 fr.50 FERRI ( Louis) . La Philosophie de l'association
 
 depuis
 
 Hobbes jusqu'à nos jours . In-8.7 fr . 50 LEOPARDI , Opuscules et pensées .
 
-1 vol . in-18 ..........
+1 vol . *in-18* ..........
 
-2 fr. 50 MOSSO . * La Peur. 1 v . in-18.2 fr . 50 * La fatigue intellectuelle et physique . 1 vol. in-18 .
+2 fr. 50 MOSSO . * La Peur. 1 v . *in-18*.2 fr . 50 * La fatigue intellectuelle et physique . 1 vol. *in-18* .
 
-2 fr.50 MARIO PILO . * Psychologie du beau et de l'art . 1 vol. in-18.
+2 fr.50 MARIO PILO . * Psychologie du beau et de l'art . 1 vol. *in-18*.
 
 2 fr.50 LOMBROSO .
 
@@ -5880,7 +5098,7 @@ in-8..
 
 LOMBROSO . L'Anthropologie criminelle , ses récents progrès. 1 v.
 
-in-18 . 3ª édit.........
+*in-18* . 3ª édit.........
 
 2 fr. 50
 
@@ -5894,7 +5112,7 @@ psychiatrie . 1 v. in- 18 .
 
 2 fr.50
 
-Applications de l'anthropologie criminelle. In-18 .
+Applications de l'anthropologie criminelle. *In-18* .
 
 2 fr . 50
 
@@ -5932,9 +5150,7 @@ GAROFALO . La Criminologie , 1 volume in-8 . 3e édit.....
 
 7 fr . 50
 
-[p. 272]
-
-PRESCRITS POUR L'ENSEIGNEMENT DES LYCÉES ET DES COLLÈGES
+[p. 272] PRESCRITS POUR L'ENSEIGNEMENT DES LYCÉES ET DES COLLÈGES
 
 * COURS ÉLÉMENTAIRE DE PHILOSOPHIE
 
@@ -5968,7 +5184,7 @@ de l'enseignement moderne.
 
 1fr. 40 CONDILLAC.
 
-Traité des Sensations, livre I, avec notes, par Georges LYON, maître de conférences à l'Ecole normale supérieure, docteur ès lettres. 1 vol. in-12.. DESCARTES .
+Traité des Sensations, livre I, avec notes, par Georges LYON, maître de conférences à l'Ecole normale supérieure, docteur ès lettres. 1 vol. *in-12*.. DESCARTES .
 
 Discours sur la Méthode, avec notes,
 
@@ -5976,7 +5192,7 @@ Discours sur la Méthode, avec notes,
 
 par V. BROCHARD,
 
-directeur des conférences de philosophie à la Sorbonne. 1 vol. in-12. 5° édition DESCARTES .
+directeur des conférences de philosophie à la Sorbonne. 1 vol. *in-12*. 5° édition DESCARTES .
 
 1 fr. 25
 
@@ -5984,11 +5200,11 @@ Les Principes de la philosophie, livre I, avec notes, par LE MÊME .
 
 1 fr. 25 LEIBNIZ .
 
-La Monadologie, avec notes, introduction et commentaires , par D. NOLEN, ancien recteur de l'académie de Besançon. 1 vol. in-12 . 2º édit....
+La Monadologie, avec notes, introduction et commentaires , par D. NOLEN, ancien recteur de l'académie de Besançon. 1 vol. *in-12* . 2º édit....
 
 2 fr . LEIBNIZ .
 
-Nouveaux essais sur l'entendement humain. Avant-propos et livre I, avec notes , par Paul JANET, de l'Institut, professeur à la Sorbonne. 1 vol . in-12.
+Nouveaux essais sur l'entendement humain. Avant-propos et livre I, avec notes , par Paul JANET, de l'Institut, professeur à la Sorbonne. 1 vol . *in-12*.
 
 MALEBRANCHE. - De la Recherche de la vérité , livre
 
@@ -6000,13 +5216,13 @@ avec notes ,
 
 par Pierre JANET , ancien élève de l'Ecole normale supérieure , professeur au
 
-collège Rollin . 1 vol . in-12 ...
+collège Rollin . 1 vol . *in-12* ...
 
-1 vol. in-12, broché ...
+1 vol. *in-12*, broché ...
 
 1 fr.
 
-1fr. 80 PASCAL . - De l'Autorité en matière de philosophie.- De l'Esprit géométrique. Entretien avec M. de Sacy, avec notes , par ROBERT, professeur à la Faculté des lettres de Rennes . 1 vol . in-12. 2º édit....
+1fr. 80 PASCAL . - De l'Autorité en matière de philosophie.- De l'Esprit géométrique. Entretien avec M. de Sacy, avec notes , par ROBERT, professeur à la Faculté des lettres de Rennes . 1 vol . *in-12*. 2º édit....
 
 1fr.
 
@@ -6014,17 +5230,17 @@ AUTEURS
 
 LATINS CICÉRON .
 
-De natura Deorum, livre II, avec notes, par PICAVET, agrégé de l'Université, professeur au collège Rollin. 1 vol. in-12 ....
+De natura Deorum, livre II, avec notes, par PICAVET, agrégé de l'Université, professeur au collège Rollin. 1 vol. *in-12* ....
 
 2 fr . CICÉRON.
 
-De officiis, livre I, avec notes, par E. BOIRAC, professeur agrégé au lycée Condorcet. 1 vol. in-12....
+De officiis, livre I, avec notes, par E. BOIRAC, professeur agrégé au lycée Condorcet. 1 vol. *in-12*....
 
 1fr. 40 LUCRÈCE.
 
-De natura rerum, livre V, avec notes, par G. LYON, maître de conférences à l'Ecole normale supérieure . 1 vol. in-12 .
+De natura rerum, livre V, avec notes, par G. LYON, maître de conférences à l'Ecole normale supérieure . 1 vol. *in-12* .
 
-1 fr. 50 SÉNÈQUE . - Lettres à Lucilius (les 16 premières) , avec notes, par DAURIAC, ancien élève de l'Ecole normale supérieure, professeur à la Faculté des lettres de Montpellier. 1 vol. in-12.
+1 fr. 50 SÉNÈQUE . - Lettres à Lucilius (les 16 premières) , avec notes, par DAURIAC, ancien élève de l'Ecole normale supérieure, professeur à la Faculté des lettres de Montpellier. 1 vol. *in-12*.
 
 1 fr. 25
 
@@ -6032,7 +5248,7 @@ AUTEURS
 
 GRECS ARISTOTE .
 
-Morale à Nicomaque, livre X, avec notes, par L. CARRAU, professeur à la Sorbonne. 1 vol . in-12 .
+Morale à Nicomaque, livre X, avec notes, par L. CARRAU, professeur à la Sorbonne. 1 vol . *in-12* .
 
 ÉPICTÈTE.
 
@@ -6040,15 +5256,15 @@ Manuel, avec notes, par MONTARGIS, ancien élève de l'Ecole normale supérieure
 
 1 fr. 25
 
-1 fr. professeur de philosophie au lycée de Troyes . 1 vol. in-12 ...
+1 fr. professeur de philosophie au lycée de Troyes . 1 vol. *in-12* ...
 
 PLATON.
 
-La République, livre VI, avec notes , par ESPINAS, professeur à la Sorbonne. 1 vol . in-12 ..
+La République, livre VI, avec notes , par ESPINAS, professeur à la Sorbonne. 1 vol . *in-12* ..
 
 2 fr . XÉNOPHON.
 
-Mémorables, livre I, avec notes, par PENJON, ancien élève de l'École normale supérieure, professeur à la Faculté des lettres de Lille. 1 vol. in-12 ..
+Mémorables, livre I, avec notes, par PENJON, ancien élève de l'École normale supérieure, professeur à la Faculté des lettres de Lille. 1 vol. *in-12* ..
 
 1 fr. 25
 
@@ -6066,15 +5282,13 @@ P.-F. THOMAS , professeur de Philosophie au lycée Hoche
 
 Cartonné à l'anglaise, 4 fr. 50
 
-[p. 273]
+[p. 273] Volumes *in-12* brochés à 3 fr. 50. -
 
-Volumes in-12 brochés à 3 fr. 50. -
-
-Volumes in-8 broches de divers prix Cartonnage anglais , 50 cent. par vol. in-12 ; 1 fr. par vol.
+Volumes in-8 broches de divers prix Cartonnage anglais , 50 cent. par vol. *in-12* ; 1 fr. par vol.
 
 in-8 .
 
-Demi-reliure, 1 fr. 50 par vol. in-12 ; 2 fr . par vol. in-8.
+Demi-reliure, 1 fr. 50 par vol. *in-12* ; 2 fr . par vol. in-8.
 
 EUROPE SYBEL ( H. de ) . * Histoire de l'Europe pendant la Révolution française,
 
@@ -6082,9 +5296,9 @@ traduit de l'allemand par Mlle DOSQUET . Ouvrage complet en 6 vol. in-8.42 fr . 
 
 18 fr .
 
-FRANCE AULARD, professeur à la Sorbonne. * Le Culte de la Raison et le Culte de l'être suprême, étude historique (1793-1794). 1 vol. in-12.
+FRANCE AULARD, professeur à la Sorbonne. * Le Culte de la Raison et le Culte de l'être suprême, étude historique (1793-1794). 1 vol. *in-12*.
 
-* Études et leçons sur la Révolution française . 1 vol . in-12 .
+* Études et leçons sur la Révolution française . 1 vol . *in-12* .
 
 3 fr. 50
 
@@ -6102,7 +5316,7 @@ agrégé de l'Université . * Napoléon et la société de son
 
 temps (1793-1821). 1 vol. in-8 .
 
-7 fr . CARNOT (H. ), sénateur. * La Révolution française, résumé historique. 1 volume in-12 . Nouvelle édit .
+7 fr . CARNOT (H. ), sénateur. * La Révolution française, résumé historique. 1 volume *in-12* . Nouvelle édit .
 
 3fr.50 ELIAS REGNAULT. Histoire de Huit ans (1840-1848).3 vol . in-8.
 
@@ -6112,7 +5326,7 @@ temps (1793-1821). 1 vol. in-8 .
 
 5 fr . LAUGEL (A.) . * La France politique et sociale. 1 vol. in-8.
 
-5 fr. ROCHAU (de) . Histoire de la Restauration, 1 vol . in-12.
+5 fr. ROCHAU (de) . Histoire de la Restauration, 1 vol . *in-12*.
 
 3fr. 50 TAXILE DELORD . * Histoire du second Empire (1848-1870). 6 v. in-8. 42 fr. WAHL, inspecteur général de l'Instruction aux colonies. * L'Algérie. 1 vol . in-8. 2° édit. (Ouvrage couronné par l'Académie des sciences morales et politiques.)
 
@@ -6122,47 +5336,45 @@ temps (1793-1821). 1 vol. in-8 .
 
 *L'Indo-Chine française. Étude économique, politique et administrative sur la Cochinchine, le Cambodge, l'Annam et le Tonkin. (Ouvrage couronné par la Société de géographie commerciale de Paris , médaille Dupleix.) 1 vol. in-8 , avec 5 cartes en couleurs hors texte.
 
-La colonisation française en Indo-Chine . 1 vol. in-12 avec une
+La colonisation française en Indo-Chine . 1 vol. *in-12* avec une
 
 carte de l'Indo-Chine . 1895 .
 
 15 fr.
 
-3 fr. 50 SILVESTRE (J.) . L'Empire d'Annam et les Annamites, publié sous les auspices de l'administration des colonies. 1 vol . in-12, avec 1 carte de l'Annam.
+3 fr. 50 SILVESTRE (J.) . L'Empire d'Annam et les Annamites, publié sous les auspices de l'administration des colonies. 1 vol . *in-12*, avec 1 carte de l'Annam.
 
-3 fr. 50 WEILL (Georges), agr. de l'Univ. , doct. ès lettres. L'École Saint-Simonienne , son histoire , son influence jusqu'à nos jours. 1 vol. in-12. 1896. 3 fr . 50
+3 fr. 50 WEILL (Georges), agr. de l'Univ. , doct. ès lettres. L'École Saint-Simonienne , son histoire , son influence jusqu'à nos jours. 1 vol. *in-12*. 1896. 3 fr . 50
 
-ANGLETERRE BAGEHOT (W. ). * Lombard-street. Le Marché financier en Angleterre. 1 vol. in-12 .
+ANGLETERRE BAGEHOT (W. ). * Lombard-street. Le Marché financier en Angleterre. 1 vol. *in-12* .
 
-3 fr. 50 LAUGEL (Aug. ) . * Lord Palmerston et lord Russel. 1 vol. in-12. 3 fr. 50 SIR CORNEWAL LEWIS . * Histoire gouvernementale de l'Angleterre depuis 1770 jusqu'à 1830. Traduit de l'anglais. 1 vol. in-8.
+3 fr. 50 LAUGEL (Aug. ) . * Lord Palmerston et lord Russel. 1 vol. *in-12*. 3 fr. 50 SIR CORNEWAL LEWIS . * Histoire gouvernementale de l'Angleterre depuis 1770 jusqu'à 1830. Traduit de l'anglais. 1 vol. in-8.
 
 7 fr . REYÑALD (H. ), doyen de la Faculté des lettres d'Aix . * Histoire de l'Angleterre depuis
 
-la reine Anne jusqu'à nos jours. 1 volume in-12. 2° édit.
+la reine Anne jusqu'à nos jours. 1 volume *in-12*. 2° édit.
 
-3 fr. 50 THACKERAY . * Les Quatre George. 1 vol. in-12 .
+3 fr. 50 THACKERAY . * Les Quatre George. 1 vol. *in-12* .
 
 3 fr. 50
 
-ALLEMAGNE SIMON (Ed. ) . * L'Allemagne et la Russie au XIX siècle . 1 vol . in-12.3 fr . 50 VÉRON
+ALLEMAGNE SIMON (Ed. ) . * L'Allemagne et la Russie au XIX siècle . 1 vol . *in-12*.3 fr . 50 VÉRON
 
-(Eug .) . * Histoire de la Prusse, depuis la mort de Frédéric II jusqu'à la bataille de Sadowa. 1 vol. in-12. 6° édit., augmentée d'un chapitre nouveau contenant le résumé des événements jusqu'à nos jours, par P. BONDOIS , professeur agrégé d'histoire au lycée Buffon.
+(Eug .) . * Histoire de la Prusse, depuis la mort de Frédéric II jusqu'à la bataille de Sadowa. 1 vol. *in-12*. 6° édit., augmentée d'un chapitre nouveau contenant le résumé des événements jusqu'à nos jours, par P. BONDOIS , professeur agrégé d'histoire au lycée Buffon.
 
 3fr. 50
 
-* Histoire de l'Allemagne, depuis la bataille de Sadowa jusqu'à nos jours . 1 volume in-12. 3° édition, mise au courant des événements par P.
+* Histoire de l'Allemagne, depuis la bataille de Sadowa jusqu'à nos jours . 1 volume *in-12*. 3° édition, mise au courant des événements par P.
 
 3 fr. 50 BONDOIS.
 
-[p. 274]
+[p. 274] BOURLOTON (Ed.). * L'Allemagne contemporaine. 1 vol. *in-18*.
 
-BOURLOTON (Ed.). * L'Allemagne contemporaine. 1 vol. in-18.
+3 fr. 50 ASSELINE (L.). * Histoire de l'Autriche, depuis la mort de Marie-Thérèse jusqu'a nos jours. 1 vol. *in-12*. 3º édit.
 
-3 fr. 50 ASSELINE (L.). * Histoire de l'Autriche, depuis la mort de Marie-Thérèse jusqu'a nos jours. 1 vol. in-12. 3º édit.
+SAYOUS (Ed . ) , professeur à la Faculté des lettres de Toulouse. Histoire des Hongrois et de leur littérature politique, de 1790 à 1815. 1 vol . *in-18*. 3 fr. 50
 
-SAYOUS (Ed . ) , professeur à la Faculté des lettres de Toulouse. Histoire des Hongrois et de leur littérature politique, de 1790 à 1815. 1 vol . in-18. 3 fr. 50
-
-ITALIE SORIN (Élie) . * Histoire de l'Italie, depuis 1815 jusqu'à la mort de VictorEmmanuel. 1 vol. in-12.
+ITALIE SORIN (Élie) . * Histoire de l'Italie, depuis 1815 jusqu'à la mort de VictorEmmanuel. 1 vol. *in-12*.
 
 1888 .
 
@@ -6170,11 +5382,11 @@ ITALIE SORIN (Élie) . * Histoire de l'Italie, depuis 1815 jusqu'à la mort de V
 
 5 fr .
 
-ESPAGNE REYNALD (H.). * Histoire de l'Espagne, depuis la mort de Charles III jusqu'à nos jours . 1 vol. in-12.
+ESPAGNE REYNALD (H.). * Histoire de l'Espagne, depuis la mort de Charles III jusqu'à nos jours . 1 vol. *in-12*.
 
 3 fr. 50
 
-RUSSIE CRÉHANGE (M.), agrégé de l'Université . * Histoire contemporaine de la Russie, depuis la mort de Paul Ior jusqu'à l'avènement de Nicolas II (18011894). 1 vol . in-12. 2º édit. 1895.
+RUSSIE CRÉHANGE (M.), agrégé de l'Université . * Histoire contemporaine de la Russie, depuis la mort de Paul Ior jusqu'à l'avènement de Nicolas II (18011894). 1 vol . *in-12*. 2º édit. 1895.
 
 3 fr. 50
 
@@ -6182,69 +5394,69 @@ SUISSE DAENDLIKER . * Histoire du peuple suisse. Trad. de l'allem. par Mme Jules
 
 GRÈCE
 
-& TURQUIE BÉRARD (V. ), docteur ès lettres . * La Turquie et l'Hellénisme contemporain. (Ouvrage cour. par l'Acad. française). 1 v. in-12. 2º éd. 1895. 3 fr. 50
+& TURQUIE BÉRARD (V. ), docteur ès lettres . * La Turquie et l'Hellénisme contemporain. (Ouvrage cour. par l'Acad. française). 1 v. *in-12*. 2º éd. 1895. 3 fr. 50
 
-AMÉRIQUE DEBERLE (Alf.). * Histoire de l'Amérique du Sud, depuis sa conquête jusqu'à nos jours . 1 vol. in-12. 2° édit .
+AMÉRIQUE DEBERLE (Alf.). * Histoire de l'Amérique du Sud, depuis sa conquête jusqu'à nos jours . 1 vol. *in-12*. 2° édit .
 
 3 fr. 50 LAUGEL (Aug.).
 
-* Les États-Unis pendant la guerre 1861-1864. Souvenirs personnels. 1 vol. in-12, cartonné.
+* Les États-Unis pendant la guerre 1861-1864. Souvenirs personnels. 1 vol. *in-12*, cartonné.
 
 4fr.
 
 BARNI (Jules). * Histoire des idées morales et politiques en France au XVIII
 
-siècle. 2 vol. in-12 . Chaque volume .
+siècle. 2 vol. *in-12* . Chaque volume .
 
 3 fr. 50
 
-* Les Moralistes français au XVIII° siècle. 1 vol. in-12 faisant suite aux deux précédents .
+* Les Moralistes français au XVIII° siècle. 1 vol. *in-12* faisant suite aux deux précédents .
 
-3 fr. 50 BEAUSSIRE (Émile), de l'Institut. La Guerre étrangère et la Guerre civile. 1 vol . in-12 .
+3 fr. 50 BEAUSSIRE (Émile), de l'Institut. La Guerre étrangère et la Guerre civile. 1 vol . *in-12* .
 
-3 tr. 50 DESPOIS (Eug .) . * Le Vandalisme révolutionnaire. Fondations littéraires , scientifiques et artistiques de la Convention. 4° édition, précédée d'une notice sur l'auteur par M. Charles BIGOT. 1 vol. in-12.
+3 tr. 50 DESPOIS (Eug .) . * Le Vandalisme révolutionnaire. Fondations littéraires , scientifiques et artistiques de la Convention. 4° édition, précédée d'une notice sur l'auteur par M. Charles BIGOT. 1 vol. *in-12*.
 
-CLAMAGERAN (J.), sénateur. * La France républicaine. 1 vol. in-12. 3 fr. 50 GUÉROULT (G. ). * Le Centenaire de 1789, évolution polit., philos. , artist. et scient. de l'Europe depuis cent ans. 1 vol. in-12. 1889.
+CLAMAGERAN (J.), sénateur. * La France républicaine. 1 vol. *in-12*. 3 fr. 50 GUÉROULT (G. ). * Le Centenaire de 1789, évolution polit., philos. , artist. et scient. de l'Europe depuis cent ans. 1 vol. *in-12*. 1889.
 
 3fr. 50 ISAMBERT (G.) . La vie à Paris pendant une année de la Révolution (1791-1792) . 1896.
 
 3 fr. 50
 
-3 fr. 50 LAVELEYE (E. de), correspondant de l'Institut. Le Socialisme contemporain. 1 vol. in-12. 9° édit. augmentée.
+3 fr. 50 LAVELEYE (E. de), correspondant de l'Institut. Le Socialisme contemporain. 1 vol. *in-12*. 9° édit. augmentée.
 
 3 fr. 50 MARCELLIN PELLET, ancien député. Variétés révolutionnaires. 3 vol.
 
-in-12, précédés d'une préface de A. RANC. Chaque vol. séparém .
+*in-12*, précédés d'une préface de A. RANC. Chaque vol. séparém .
 
-3 fr. 50 SPULLER (E.), sénateur, ancien ministre de l'Instruction publique. * Figures disparues , portraits contemporains, littéraires et politiques. 3 vol. in-12.
+3 fr. 50 SPULLER (E.), sénateur, ancien ministre de l'Instruction publique. * Figures disparues , portraits contemporains, littéraires et politiques. 3 vol. *in-12*.
 
 Chacun séparément .
 
 3 fr. 50
 
-Histoire parlementaire de la deuxième République. 1 volume in-12.
+Histoire parlementaire de la deuxième République. 1 volume *in-12*.
 
 2° édit.
 
 3 fr. 50
 
-* Éducation de la démocratie. 1 vol. in-12 . 1892 .
+* Éducation de la démocratie. 1 vol. *in-12* . 1892 .
 
 3 fr. 50
 
-L'Évolution politique et sociale de l'Église. 1 vol. in-12. 1893. 3 fr. 50
+L'Évolution politique et sociale de l'Église. 1 vol. *in-12*. 1893. 3 fr. 50
 
-Hommes et choses de la Révolution . I vol. in-12. 1896.
+Hommes et choses de la Révolution . I vol. *in-12*. 1896.
 
 3fr. 50 BOURDEAU (J. ) . * Le Socialisme allemand et le Nihilisme russe. 1 vol.
 
-in-12 . 2ª édit. 1894.
+*in-12* . 2ª édit. 1894.
 
-DEPASSE (Hector). Transformations sociales. 1894. 1 vol. in-12.
+DEPASSE (Hector). Transformations sociales. 1894. 1 vol. *in-12*.
 
 Du Travail et de ses conditions (Chambres et Conseils du
 
-1 vol. in-12.1895 .
+1 vol. *in-12*.1895 .
 
 3 fr. 50
 
@@ -6254,17 +5466,15 @@ travail).
 
 3 fr. 50
 
-3 fr. 50 REINACH (J. ) , député. Pages républicaines . 1894. 1 vol. in-12 .
+3 fr. 50 REINACH (J. ) , député. Pages républicaines . 1894. 1 vol. *in-12* .
 
 D'EICHTHAL (Eug.). Souveraineté du peuple et gouvernement. 1 vol.
 
-in-12. 1895.
+*in-12*. 1895.
 
 3 fr. 50
 
-[p. 275]
-
-BIBLIOTHÈQUE DE LA FACULTÉ DES LETTRES DE PARIS
+[p. 275] BIBLIOTHÈQUE DE LA FACULTÉ DES LETTRES DE PARIS
 
 PUBLIÉE SOUS LES AUSPICES DU MINISTÈRE DE L'INSTRUCTION PUBLIQUE Les deux premiers volumes, actuellement sous presse ,
 
@@ -6356,9 +5566,7 @@ sociale .
 
 PUBLICATIONS HISTORIQUES ILLUSTRÉES
 
-[p. 276]
-
-DONNÉES
+[p. 276] DONNÉES
 
 AUX AMBASSADEURS ET MINISTRES DE FRANCE DEPUIS LES TRAITÉS DE WESTPHALIE JUSQU'A LA RÉVOLUTION FRANÇAISE
 
@@ -6478,13 +5686,11 @@ France (1759-1833), recueillie par Eug . PLANTET, attaché au Ministère des Aff
 
 20 fr.
 
-[p. 277]
-
-Dirigée par TH . RIBOT , Professeur au Collège de France .
+[p. 277] Dirigée par TH . RIBOT , Professeur au Collège de France .
 
 (21 ° année, 1896. )
 
-La REVUE PHILOSOPHIQUE parait tous les mois, par livraisons de 7 feuilles grand in-8, et forme ainsi à la fin de chaque année deux forts volumes d'environ 680 pages chacun .
+La *REVUE PHILOSOPHIQUE* parait tous les mois, par livraisons de 7 feuilles grand in-8, et forme ainsi à la fin de chaque année deux forts volumes d'environ 680 pages chacun .
 
 Prix d'abonnement :
 
@@ -6506,7 +5712,7 @@ in-8 ..
 
 3 fr.
 
-LA REVUE PHILOSOPHIQUE n'est l'organe d'aucune secte, d'aucune école en particulier.
+LA *REVUE PHILOSOPHIQUE* n'est l'organe d'aucune secte, d'aucune école en particulier.
 
 Tous les articles de fond sont signés et chaque auteur est responsable de son article . Sans professer un culte exclusif pour l'expérience, la direction, bien persuadée que rien de solide ne s'est fondé sans cet appui, lui fait la plus large part et n'accepte aucun travail qui la dédaigne .
 
@@ -6526,9 +5732,7 @@ En un mot par la variété de ses articles et par l'abondance de ses renseigneme
 
 Aussi a-t-elle sa place marquée dans les bibliothèques des professeurs et de ceux qui se destinent à l'enseignement de la philosophie et des sciences ou qui s'intéressent au développement du mouvement scientifique.[^p277-1]
 
-[p. 278]
-
-DES SCIENCES POLITIQUES
+[p. 278] DES SCIENCES POLITIQUES
 
 RECUEIL
 
@@ -6590,9 +5794,7 @@ ABONNEMENT : Pour tous pays , 12fr.
 
 Le Numéro , 2 fr. 50.
 
-[p. 279]
-
-INTERNATIONALE
+[p. 279] INTERNATIONALE
 
 Publiée sous la direction de M. Émile ALGLAVE
 
@@ -6610,9 +5812,7 @@ Cette collection paraît à la fois en français, en anglais, en allemand et en 
 
 LISTE DES OUVRAGES PAR ORDRE D'APPARITION 83 VOLUMES IN-8 , CARTONNÉS A L'ANGLAISE . CHAQUE VOLUME : 6 FRANCS .[^p279-1][^p279-2][^p279-3][^p279-4][^p279-5][^p279-6][^p279-7][^p279-8][^p279-9][^p279-10][^p279-11][^p279-12][^p279-13]
 
-[p. 280]
-
-15. COOKE et BERKELEY. * Les Champignons. 1 vol. in-8, avec figures.
+[p. 280] 15. COOKE et BERKELEY. * Les Champignons. 1 vol. in-8, avec figures.
 
 16. BERNSTEIN. * Los Sons. 1 vol. in-8, avec 91 fig. 5º édit.
 
@@ -6724,9 +5924,7 @@ précédé d'une Introduction par CH . FRIEDEL.
 
 6fr.
 
-[p. 281]
-
-49. MANTEGAZZA . La Physionomie et l'Expression des sentiments.
+[p. 281] 49. MANTEGAZZA . La Physionomie et l'Expression des sentiments.
 
 1 vol . in-8 . 2e édit. , avec huit planches hors texte.
 
@@ -6812,9 +6010,7 @@ principalement chez les insectes. 1 vol. in-8, avec 150 figures.
 
 6 fr.[^p281-1][^p281-2][^p281-3][^p281-4][^p281-5][^p281-6][^p281-7][^p281-8][^p281-9][^p281-10][^p281-11]
 
-[p. 282]
-
-DE LA
+[p. 282] DE LA
 
 BIBLIOTHÈQUE
 
@@ -6914,9 +6110,7 @@ SCIENTIFIQUE • Le Cerveau et ses fonctions , par J. LUYS, membre de l'Académi
 
 6 fr.
 
-[p. 283]
-
-[^p283-1] Théorie scientifique de la sensibilité : le Plaisir et la Peine, par Léon [^p283-2] La Matière et la Physique moderne, par STALLO, précédé d'une préface par M. Ch . FRIEDEL, de l'Institut. 1 vol. in-8. 2º édit.
+[p. 283] [^p283-1] Théorie scientifique de la sensibilité : le Plaisir et la Peine, par Léon [^p283-2] La Matière et la Physique moderne, par STALLO, précédé d'une préface par M. Ch . FRIEDEL, de l'Institut. 1 vol. in-8. 2º édit.
 
 6 fr. Le Magnétisme animal, par Alf. BINETet Ch . FÉRÉ . 1 vol. in-8, avec figures
 
@@ -6972,9 +6166,7 @@ l'auteur par E.-T. HAMY, de l'Institut. 2 vol . in-8.
 
 ZOOLOGIE
 
-[p. 284]
-
-[^p284-1] II . Les Phanérogames . 2 vol. in-8, avec 136 fig. dans le texte.
+[p. 284] [^p284-1] II . Les Phanérogames . 2 vol. in-8, avec 136 fig. dans le texte.
 
 [^p284-2] Les Volcans et les Tremblements de terre, par FUCHS , prof. à l'Univ. de Heidelberg . 1 vol. in-8, avec 36 fig. 5° éd. et une carte en couleur. 6 fr . [^p284-3] La Période glaciaire, principalement en France et en Suisse, par A. FALSAN, 1 vol. in-8, avec 105 gravures et 2 cartes hors texte.шь вагинопо6 fr. [^p284-4] Les Régions invisibles du globe et des espaces célestes, par A. DAUBRÉE . de
 
@@ -7030,9 +6222,7 @@ texte et 16 planches en noir et en couleurs. 2º édit.
 
 PHYSIQUE
 
-[p. 285]
-
-HISTORIQUES , PHILOSOPHIQUES ET SCIENTIFIQUES
+[p. 285] HISTORIQUES , PHILOSOPHIQUES ET SCIENTIFIQUES
 
 qui ne se trouvent pas dans les collections précédentes .
 
@@ -7068,9 +6258,9 @@ in-8.
 
 5 fr .
 
-7 fr . ARRÉAT . Une Éducation intellectuelle . 1 vol. in-18 .
+7 fr . ARRÉAT . Une Éducation intellectuelle . 1 vol. *in-18* .
 
-- Journal d'un philosophe. 1 vol. in-18.3 fr . 50 (Voy. p. 2 et 4.) Autonomie et fédération. 1 vol . in-18 .
+- Journal d'un philosophe. 1 vol. *in-18*.3 fr . 50 (Voy. p. 2 et 4.) Autonomie et fédération. 1 vol . *in-18* .
 
 2 fr . 50
 
@@ -7090,7 +6280,7 @@ BAETS (Abbé M. de) . Les Bases de la morale et du droit . In-8 . 6 fr . BALFOUR
 
 la France sur le Bengale et le Pendjab (1772-1808). 1894.1 vol. in-8.
 
-5 fr. BARNI . Les Martyrs de la libre pensée. 1 vol. in-18.2° édit.
+5 fr. BARNI . Les Martyrs de la libre pensée. 1 vol. *in-18*.2° édit.
 
 3 fr. 50
 
@@ -7106,7 +6296,7 @@ BARTHÉLEMY -SAINT-HILAIRE. (Voy. pages 2, 5 et 8, ARISTOTE.)
 
 BAUTAIN (Abbé) . La Philosophie morale. 2 vol. in-8 .
 
-BEAUNIS (H. ) . Impressions de campagne ( 1870-1871 ) . In-18. 3 fr . 50 BEAUNIS ET BINET . L'année psychologique. 1re année . 1894 (épuisée) ,
+BEAUNIS (H. ) . Impressions de campagne ( 1870-1871 ) . *In-18*. 3 fr . 50 BEAUNIS ET BINET . L'année psychologique. 1re année . 1894 (épuisée) ,
 
 2º année. 1895. 1 fort vol . in-8, avec gravures .
 
@@ -7118,27 +6308,27 @@ BEAUNIS (H. ) . Impressions de campagne ( 1870-1871 ) . In-18. 3 fr . 50 BEAUNIS
 
 BERTAULD . De la Méthode . Méthode spinosiste et méthode hégélienne .
 
-2e édition . 1891.1 vol in-18 .
+2e édition . 1891.1 vol *in-18* .
 
 3 fr. 50 - Méthode spiritualiste . Etude critique des preuves de l'existence de
 
-Dieu . 2e édition. 2 vol . in-18 .
+Dieu . 2e édition. 2 vol . *in-18* .
 
 7 fr.
 
-Esprit et liberté. 1 vol. in-18 . 1892 .
+Esprit et liberté. 1 vol. *in-18* . 1892 .
 
 3fr. 50 BLANQUI . Critique sociale . 2
 
-vol. in-18 .
+vol. *in-18* .
 
-7 fr . BOILLEY (P. ) . La Législation internationale du travail. In-12.
+7 fr . BOILLEY (P. ) . La Législation internationale du travail. *In-12*.
 
 3fr .
 
 Les trois socialismes : anarchisme, collectivisme , réformisme.
 
-1 vol . in-12 .
+1 vol . *in-12* .
 
 3fr. 50 BOUCHER (A. ) . Darwinisme et socialisme . 1890. In-8 .
 
@@ -7148,9 +6338,7 @@ et les animaux . 1 vol. in-8.
 
 5 fr .
 
-[p. 286]
-
-La Conquête du monde végétal. 1893. In-8 .
+[p. 286] La Conquête du monde végétal. 1893. In-8 .
 
 L'Histoire et les historiens . 1 vol . in-8.
 
@@ -7160,11 +6348,11 @@ L'Histoire et les historiens . 1 vol . in-8.
 
 7 fr . 50
 
-5 fr. BOURDET (Eug.). Principes d'éducation positive . In-18 .
+5 fr. BOURDET (Eug.). Principes d'éducation positive . *In-18* .
 
 3 fr. 50
 
-Vocabulaire de la philosophie positive . 1 vol. in-18 .
+Vocabulaire de la philosophie positive . 1 vol. *in-18* .
 
 BOUTROUX
 
@@ -7174,11 +6362,11 @@ BOUTROUX
 
 philosophie . 1 vol . in-8.1895 .
 
-2fr . 50 CARDON (G.) . * Les Fondateurs de l'Université de Douai. In-8. 10 fr . CELLARIER (F. ) . Études sur la raison. 1 vol. in-12 .
+2fr . 50 CARDON (G.) . * Les Fondateurs de l'Université de Douai. In-8. 10 fr . CELLARIER (F. ) . Études sur la raison. 1 vol. *in-12* .
 
-3 fr. - Rapports du relatif et de l'absolu. 1 vol . in-12 .
+3 fr. - Rapports du relatif et de l'absolu. 1 vol . *in-12* .
 
-4 fr. CLAMAGERAN. * L'Algérie. 3ª édit. 1 vol, in-18 .
+4 fr. CLAMAGERAN. * L'Algérie. 3ª édit. 1 vol, *in-18* .
 
 3 fr. 50
 
@@ -7190,9 +6378,9 @@ CLAVEL (Dr) . La Morale positive. 1 vol . in-8 .
 
 3 fr.
 
-Critique et conséquences des principes de 1789. In-18.3 fr . - Les Principes au XIXe siècle .
+Critique et conséquences des principes de 1789. *In-18*.3 fr . - Les Principes au XIXe siècle .
 
-In-18.
+*In-18*.
 
 COIGNET (Mm ) . * Victor Considérant, sa vie et son œuvre . 1 vol .
 
@@ -7206,11 +6394,11 @@ in-8 . 1895 .
 
 1 vol .
 
-in-12 . 1895 .
+*in-12* . 1895 .
 
 3 fr. 50 COMBARIEU (J. ) . * Les rapports de la musique et de la poésie considérés au point de vue de l'expression. 1893. 1 vol . in-8 .
 
-7 fr. 50 CONTA . Théorie du fatalisme . 1 vol. in-18 .
+7 fr. 50 CONTA . Théorie du fatalisme . 1 vol. *in-18* .
 
 4 fr.
 
@@ -7224,19 +6412,19 @@ In-8 .
 
 6fr .
 
-In-18.
+*In-18*.
 
-3 fr . 50 (Voy. p. 2 et 32.) DAURIAC . Croyance et réalité. 1 vol . in-18. 1889 .
+3 fr . 50 (Voy. p. 2 et 32.) DAURIAC . Croyance et réalité. 1 vol . *in-18*. 1889 .
 
 3 fr. 50
 
 Le Réalisme de Reid. In-8 .
 
-1fr . DELBOŒUF . Examen critique de la loi psychophysique. In-18.3 fr. 50
+1fr . DELBOŒUF . Examen critique de la loi psychophysique. *In-18*.3 fr. 50
 
 Le Sommeil et les rêves.
 
-1 vol . in-18.
+1 vol . *in-18*.
 
 3 fr. 50 - De l'étendue de l'action curative de l'hypnotisme . L'hypnotisme
 
@@ -7270,7 +6458,7 @@ I. France et progrès .
 
 Conférences sur la noblesse .
 
-1 vol . in-12 . 1895. 3 fr . 50.
+1 vol . *in-12* . 1895. 3 fr . 50.
 
 Tome II . Eve dans l'humanité.
 
@@ -7280,19 +6468,19 @@ Les droits de l'enfant. 1 vol. in -12 . 1896 .
 
 3fr. DESDOUITS . La philosophie de l'inconscient . 1893. 1 vol. in-8 .
 
-3 fr . DIDE. * Jules Barni, sa vie, son œuvre . 1 v. in-18, 1891 .
+3 fr . DIDE. * Jules Barni, sa vie, son œuvre . 1 v. *in-18*, 1891 .
 
-2 fr. 50 DOLLFUS (Ch .) . Lettres philosophiques. In-18 .
+2 fr. 50 DOLLFUS (Ch .) . Lettres philosophiques. *In-18* .
 
 3 fr. - Considérations sur l'histoire . In-8,
 
-7 fr . 50 -L'Ame dans les phénomènes de conscience . 1 vol.in-18.3 fr. 50 DROZ (Numa) . Etudes et portraits politiques . 1 vol . in-8 . 1895.7 fr. 50
+7 fr . 50 -L'Ame dans les phénomènes de conscience . 1 vol.*in-18*.3 fr. 50 DROZ (Numa) . Etudes et portraits politiques . 1 vol . in-8 . 1895.7 fr. 50
 
 Essais économiques . 1 vol. in-8 . 1896 .
 
 7 fr. 50
 
-La démocratie fédérative et le socialisme d'État. 1 vol. in-12 . 1896.
+La démocratie fédérative et le socialisme d'État. 1 vol. *in-12* . 1896.
 
 1 fr. DUBOST
 

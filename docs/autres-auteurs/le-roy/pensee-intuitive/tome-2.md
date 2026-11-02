@@ -10,9 +10,7 @@ title: "La Pensée intuitive. Tome II : Invention et vérification (1930)"
 
 ---
 
-[p. V]
-
-PRÉFACE
+[p. V] PRÉFACE
 
 Le problème de l'intuition est aujourd'hui au premier plan
 de l'actualité parmi les philosophes . Mais plusieurs n'y voient
@@ -36,9 +34,7 @@ puis de vérification, enfin sur la valeur de la pensée intuitive
 
 et les moyens de s'élever par elle à un savoir absolu.
 
-[p. 1]
-
-LA PENSÉE INTUITIVE
+[p. 1] LA PENSÉE INTUITIVE
 
 CHAPITRE
 I
@@ -64,11 +60,7 @@ mais il faut résolument se mettre au point de vue de l'inven-
 tion, de la recherche créatrice, du dynamisme vivant par
 
 11
-1
-
-[p. 2]
-
-lequel s'accomplit la genèse de la vérité. Car, si la science est
+1 [p. 2] lequel s'accomplit la genèse de la vérité. Car, si la science est
 par nature en continuel devenir, si la fécondité d'une théorie
 en constitue la principale valeur, si le propre du véritable
 savant consiste à tenir toujours les résultats pour provisoires
@@ -100,9 +92,7 @@ et ses conditions de possibilité, déchue ainsi au rangdea chose » .
 Tout cela force à conclure que, pour légitime que soit le point
 de vue Résultat dans la théorie du savoir, du moins n'est-ce
 
-[p. 3]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 3] LA DISCIPLINE DE L'INVENTION
 3
 
 pas le seul point de vue possible, ni leplus profond .A côté de
@@ -134,11 +124,7 @@ de l'esprit de vie, d'où naissent tous les résultats et que nul
 résultat n'épuise. La science, elle, aboutit surtoutà des résultats :
 c'est même peut-être, au moins d'un certain point de vue,
 cequi la caractérise. Alors l'histoire des découvertes, la psy-
-chologie des inventions importent peu ; une critique d'après
-
-[p. 4]
-
-coup, purement discursive et régressive, peut suffire . Mais la
+chologie des inventions importent peu ; une critique d'après [p. 4] coup, purement discursive et régressive, peut suffire . Mais la
 philosophie de la science ne saurait s'en tenir là, encore moins
 la philosophie proprement dite. Il lui faut un retour intégral
 aux sources vives de la pensée-action. Ce retour la constitue .
@@ -168,9 +154,7 @@ rêvée jadis par Leibniz et trop négligée jusqu'à ce jour ( 1) . [^p4-1]
 
 [^p4-1]: On verra d'ailleurs combien nous serons conduits ànous écarter de la voie où Leibniz cherchait cette logique.
 
-[p. 5]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 5] LA DISCIPLINE DE L'INVENTION
 5
 
 -
@@ -209,9 +193,7 @@ qu'il suppose d'habitude. Si je le conserve çà et là, c'est dans
 le sens large, familier aux Anciens : art d'arriver au vrai , art
 de bien conduire sa pensée, ou, plus brièvement, art de penser .
 
-[p. 6]
-
-6
+[p. 6] 6
 LA PENSÉE INTUITIVE
 
 Je ne songe pas à l'acception technique précisée par les logi-
@@ -232,7 +214,7 @@ S'ensuit-il que cette force
 échappe à toute conduite ? N'exagérons pas les apparences de
 fatalité purement subie. Qu'il soit possible d'apprendre à
 inventer, l'analogie de la création mystique aide sans doute ,
-mutatis mutandis, à voir comment etjusqu'où . Nulle applica-
+*mutatis mutandis*, à voir comment etjusqu'où . Nulle applica-
 tion de règles ne sanctifie automatiquement, n'introduit au
 mystère de l'union parfaite ex opere operato ; indiscutable est
 néanmoins l'utilité des réflexions sur l'art de se conduire dans
@@ -250,9 +232,7 @@ puissent profiter à tous .
 
 Il n'est jamais vain de réfléchir aux méthodes, bien que
 
-[p. 7]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 7] LA DISCIPLINE DE L'INVENTION
 7
 
 jamais non plus ne suffise une observance pharisaïque des
@@ -282,11 +262,7 @@ cateur et directeur de l'intuition inventive. Et c'est précisé-
 ment le schéma d'une telle méditation qui fera l'objet du pré-
 sent chapitre .
 
-J'examinerai d'abord le rôle de l'intelligence discursive dans
-
-[p. 8]
-
-l'invention, les rapports entre l'invention et la logique tradi-
+J'examinerai d'abord le rôle de l'intelligence discursive dans [p. 8] l'invention, les rapports entre l'invention et la logique tradi-
 tionnelle.
 Un point est tout de suite évident. Les préceptes classiques
 enseignent surtoutde quelle manière il faut s'y prendre pour
@@ -318,9 +294,7 @@ conque a une fois cherché et trouvé quelque chose, petite ou
 grande, ne peut ignorer cela. C'est même dans ces régions de
 crépuscule et de rêve que naît la certitude et s'opère en prin
 
-[p. 9]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 9] LA DISCIPLINE DE L'INVENTION
 9
 
 cipe la vérification :lapleine lumière ne vient qu'ensuite. Me
@@ -353,11 +327,7 @@ jenem'arrêtepas pouressayerde fixer un résultat partielou pour
 critiquer les démarches accomplies. Ici la réflexion perdrait
 tout, qui voudrait s'appliquer avant la fin au devenir même
 de l'effort . Une interruption dans le progrès, un retour en
-arrière, un essai prématuré de mise en discours, et voici que
-
-[p. 10]
-
-tout s'effondre, tout se brouille, tout s'évanouit, tout s'efface ,
+arrière, un essai prématuré de mise en discours, et voici que [p. 10] tout s'effondre, tout se brouille, tout s'évanouit, tout s'efface ,
 rythme dénoué dont les notes s'éparpillent et s'éteignent désor-
 mais sans valeur. Celui-là ne trouvera jamais rien, que des
 habitudes intellectuelles tyranniques détournent de s'aban-
@@ -388,9 +358,7 @@ Bref, le contraste est violemment tranché entre les conditions
 de lapensée critique et celles dela pensée créatrice . Comprendre
 et produire font deux . On sait à quelles imaginations bizarres
 
-[p. 11]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 11] LA DISCIPLINE DE L'INVENTION
 11
 
 ont été dues parfois de très authentiques découvertes ; on sait
@@ -431,9 +399,7 @@ tendre cum grano salis que la contradiction est signe de vérité.
 
 [^p11-1]: FARADAY, si je neme trompe .
 
-[p. 12]
-
-12
+[p. 12] 12
 LA PENSÉE INTUITIVE
 
 que de lui dire qu'elle manque de logique, et l'on admire
@@ -466,9 +432,7 @@ principes de lumière dont il est capable, que cela seul à
 
 [^p12-1]: E. BOUTROUX, De l'idée de loi naturelle dans la science et la philosophie contemporaines, leçon II.
 
-[p. 13]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 13] LA DISCIPLINE DE L'INVENTION
 13
 
 jamais sera clair qui ressemblera trait pour trait à ce que nous
@@ -504,11 +468,7 @@ fuyante
 continuité de nuances doucement fondues, seules
 phases pleinement réelles où d'ailleurs l'absence de nombre
 fixé rend impossible une contradiction en forme, nous vou-
-lons passer aux cristallisations symboliques du langage : alors,
-
-[p. 14]
-
-et seulement alors, apparaît la contradiction.
+lons passer aux cristallisations symboliques du langage : alors, [p. 14] et seulement alors, apparaît la contradiction.
 Il ne faut pas
 oublier que cette contradiction est partiellement artificielle,
 verbale, relative au jeu des formules dont elle marque l'imper-
@@ -540,9 +500,7 @@ doit quitter la surface discursive de l'esprit pour ses profon-
 deurs supra-logiques. « Au delàde la logique » : telle doit être
 sa devise. La logique réelle et vécue qu'il pratique mériterait
 
-[p. 15]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 15] LA DISCIPLINE DE L'INVENTION
 15
 
 plutôt d'être appelée une Métalogique. Et la nécessité même où
@@ -575,11 +533,7 @@ cepts nouveaux. Ces nouveaux concepts, comment parvenir à
 les penser, quand ils ne sont pas définis encore, pendant qu'on
 les forme ? La vieille logique usuelle, avec ses instruments or-
 dinaires, ne suffit plus. Il faut, pour la suppléer, une logique
-de la pensée vivante, c'est-à-dire une discipline du schéma
-
-[p. 16]
-
-dynamique, celui-ci donnant le seul moyen de penser en mou-
+de la pensée vivante, c'est-à-dire une discipline du schéma [p. 16] dynamique, celui-ci donnant le seul moyen de penser en mou-
 vement de genèse les embryons de concepts encore à naître.
 Pour éclairer les dissertations précédentes, je citerai deux
 ou trois exemples, choisis de préférence là où on pourrait le
@@ -613,9 +567,7 @@ inintelligible pour lui
 auparavant : celle de la droite envisagée comme réservoir d'un
 nombre indéfini de points virtuels. Un tel travail a demandé
 
-[p. 17]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 17] LA DISCIPLINE DE L'INVENTION
 17
 
 de longues années d'effort et de souffrance, pendant lesquelles
@@ -645,11 +597,7 @@ sible à la différentielle, c'est-à-dire d'une sorte d'atomisme
 statique à une représentation d'existence en pur devenir, voilà
 quelle était la solution ; mais, pour la trouver, il a fallu accep- [^p17-1]
 
-[^p17-1]: a Tenir fortement les deux bouts de la chaîne >> : c'est le précepte de Bossuet qui doit régler la conduite à suivre pendant la phase de transfor- mation, jusqu'à ce qu'enfin, à force de vivre les deux termes de l'antino- mie, de les manier, on se soit rendu capable de voir « par où l'enchaîne- ment se continue » . II 2
-
-[p. 18]
-
-ter provisoirement le concept contradictoire de l'indivisible,
+[^p17-1]: a Tenir fortement les deux bouts de la chaîne >> : c'est le précepte de Bossuet qui doit régler la conduite à suivre pendant la phase de transfor- mation, jusqu'à ce qu'enfin, à force de vivre les deux termes de l'antino- mie, de les manier, on se soit rendu capable de voir « par où l'enchaîne- ment se continue » . II 2 [p. 18] ter provisoirement le concept contradictoire de l'indivisible,
 
 il a fallu se résigner à un chaos de raisonnements plus ou
 moins confus et plus ou moins inexacts, pour ne pas dire
@@ -680,9 +628,7 @@ là pour constitutives de l'esprit. La mathématique, en effet, [^p18-1]
 
 [^p18-1]: Sur ce point, en particulier, la pleinelumière ne semble pas faite au- jourd'hui encore : cf. le paradoxe de Zermelo .
 
-[p. 19]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 19] LA DISCIPLINE DE L'INVENTION
 19
 
 n'est pas simple utilisation d'une logique préexistante qu'on
@@ -721,11 +667,7 @@ milieu élastique plus ou moins fluide, mais
 au tremblement
 d'une gelée. Surtout
 il a fallu s'accommoder vaille que
-vaille, pendant fort longtemps, d'une conception de l'éther
-
-[p. 20]
-
-qu'on n'arrivait pas à rendre cohérente, jusqu'à ce qu'en
+vaille, pendant fort longtemps, d'une conception de l'éther [p. 20] qu'on n'arrivait pas à rendre cohérente, jusqu'à ce qu'en
 définitive les progrès mêmes ainsi devenus possibles aient
 ouvert accès à de toutautres points de vue.- Qu'on se rappelle
 enfin l'œuvre désordonnée de Maxwell, que
@@ -760,9 +702,7 @@ qui l'anime et lui est principe de vie, une représentation qui
 exprime tant bien que mal les résultats une fois conquis. De
 la première viennent les mouvements de progrès sous forme
 
-[p. 21]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 21] LA DISCIPLINE DE L'INVENTION
 21
 
 intuitive. La seconde ne donne qu'un langage plus ou moins
@@ -802,11 +742,7 @@ intransigeant et immuable avec un état de choses
 antérieur ,
 c'est une nécessité contraire, la
 nécessité d'un
-<<ajustement toujours renouvelé à des situations toujours nou-
-
-[p. 22]
-
-velles », la nécessité de s'arrêter dans l'emploi de l'intelligence
+<<ajustement toujours renouvelé à des situations toujours nou-[p. 22]velles », la nécessité de s'arrêter dans l'emploi de l'intelligence
 raisonnante « au point précis où une logique trop brutale
 froisserait la délicatesse du réel » [^p22-1] . Comment cela se peut-il
 faire ? C'est que le principe de non-contradiction n'est pas
@@ -842,9 +778,7 @@ cela précisément
 
 [^p22-1]: BERGSOV, Le bon sens et les études classiques , Discours prononcé à la distribution des prix du Concours général en 1895 .
 
-[p. 23]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 23] LA DISCIPLINE DE L'INVENTION
 23
 
 qu'elle échappe à l'autorité du principede non-contradiction .
@@ -882,11 +816,7 @@ indifférente ou même absurde, ainsi le travail de la recherche
 intuitive nous adapte lentement à de nouvelles conditions d'in-
 telligibilité . Voici que l'action de pensée, précédant le dis-
 cours, a senti poindre dans
-les ténèbres l'annonce d'une
-
-[p. 24]
-
-mystérieuse aurore. L'appel de l'inconnu a retenti en paroles
+les ténèbres l'annonce d'une [p. 24] mystérieuse aurore. L'appel de l'inconnu a retenti en paroles
 obscures ; ce qu'il a dit, nous n'avons pas su le comprendre ;
 mais son accent était chargé de promesses, un je ne sais quoi
 nous en a fait accueillir l'invite secrète au détachement, etdéjà
@@ -919,9 +849,7 @@ on s'était confié paraît se perdre dans un néant d'impuissance
 
 [^p24-1]: WILBOIS, Revue de Métaphysique et de Morale, mars 1901, p. 180 .
 
-[p. 25]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 25] LA DISCIPLINE DE L'INVENTION
 25
 
 et de stagnation. On est en proie à une étrange lassitude, à
@@ -956,11 +884,7 @@ perpétuellement renaissante, qui tient en principe aux mêmes
 causes. Il est donc permis de formuler une conclusion géné-
 rale. Qui ne voit à la recherche et à la découverte que des
 conditions intellectuelles , au sens restreint du mot, ne voit que
-le petit côté de son objet. La sagesse populaire a bien senti
-
-[p. 26]
-
-que les préceptes de la logique traditionnelle sont d'une faible
+le petit côté de son objet. La sagesse populaire a bien senti [p. 26] que les préceptes de la logique traditionnelle sont d'une faible
 efficacité dans l'œuvre d'invention. Plus intimes les véritables
 
 sources, et moins liées au discours. « Les grandes pensées vien-
@@ -992,9 +916,7 @@ nement entre l'erreur et la vérité. Problème capital ! C'est là
 justement ce que la science a de spécifique. « La spécificité de
 la science, c'est que l'invention s'y fait découverte, et cela
 
-[p. 27]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 27] LA DISCIPLINE DE L'INVENTION
 27
 
 grâce à un procédé intellectuel de vérification ( 1 ) . » L'élan,
@@ -1031,9 +953,7 @@ l'illusion, contre la dispersion de leur effort dans le vague et [^p27-1]
 
 [^p27-1]: BRUNSCHVICG, L'idéalisme contemporain, Alcan, 1905, p. 163 .
 
-[p. 28]
-
-l'inconsistant ? Comment discernent-ils s'ils se maintiennent
+[p. 28] l'inconsistant ? Comment discernent-ils s'ils se maintiennent
 ou non dans la bonne voie ? Pour ne pas se dissiper dans le
 rêve, ils font mûrir leur intuition naissante au contact de la
 
@@ -1068,9 +988,7 @@ qu'il a en vue, il s'efforce de le réaliser d'une façon durable et
 
 [^p28-1]: Dautres critères interviennent dans la vie mystique : mais je me borne à ceux de l'ordre purement naturel, seuls imitables par le savant.
 
-[p. 29]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 29] LA DISCIPLINE DE L'INVENTION
 29
 
 féconde, il le metà l'épreuve de la vie journalière effective. Si
@@ -1102,9 +1020,7 @@ que par exemple ou en physique, a été obtenu de cette façon, [^p29-1]
 
 [^p29-1]: Cf. pages 177-179 du premier volume.
 
-[p. 30]
-
-soit que rigoureusement on choisisse la matière d'étuded'après
+[p. 30] soit que rigoureusement on choisisse la matière d'étuded'après
 la forme intelligible dont par avance on possède l'usage, soit
 qu'on adapte celle-ci par des retouches légères à un objet voi-
 sin de ceux qu'elle avait su déjà
@@ -1137,9 +1053,7 @@ but est pour nous de réussir à mettre la main sur une chose [^p30-1]
 
 [^p30-1]: PAUL SOURIAU, Théorie de l'invention, Hachette, 1881 , р . 16-17 .
 
-[p. 31]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 31] LA DISCIPLINE DE L'INVENTION
 31
 
 préexistante : ainsi en paléontologie ou en préhistoire. Mais ,
@@ -1173,9 +1087,7 @@ méditation de méthodologie. Dans les autres cas , qui sont les
 plus remarquables, c'est une éducation, une culture générale .
 Mais je n'ai pas besoin de distinguer ici .
 
-[p. 32]
-
-Quel est le but de cette préparation ? Organiser l'automa-
+[p. 32] Quel est le but de cette préparation ? Organiser l'automa-
 tisme dans le connu pour obtenir une aisance, une promptitude,
 une souplesse, une liberté d'effort, indispensables à l'énorme
 condensation de travail que suppose toute œuvre de synthèse
@@ -1209,9 +1121,7 @@ lité ; tout le monde procède ainsi. Et pourquoi ces lenteurs ?
 
 [^p32-1]: Cf. BERGSON, Bulletin de la Société française de Philosophie, séance du 2 mai 1902 , p . 55-56.
 
-[p. 33]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 33] LA DISCIPLINE DE L'INVENTION
 33
 
 Pour se faire lamain, pour prendre un élan ( 1 ) . La méthode
@@ -1242,11 +1152,7 @@ clusion. Il s'efforce d'amasser des provisions, des réserves ,
 d'amonceler des matériaux à l'infini, quand bien même il ne
 verrait pas encore à quoi ces matériaux pourront servir, quand [^p33-1]
 
-[^p33-1]: C'est dans cet esprit qu'il faut conduire l'étude et la méditation des Maîtres , non point pour parvenir à en répéter identiquement le type. 11 3
-
-[p. 34]
-
-bien même ces réserves ne se rapporteraient pas directement
+[^p33-1]: C'est dans cet esprit qu'il faut conduire l'étude et la méditation des Maîtres , non point pour parvenir à en répéter identiquement le type. 11 3 [p. 34] bien même ces réserves ne se rapporteraient pas directement
 à l'ordre habituel de ses préoccupations. Nul n'ignore le rôle
 des tentatives pargrands nombres dans l'activité novatrice de
 la vie : pareillement l'homme a besoin de multiplier autant
@@ -1278,9 +1184,7 @@ soutiennent avec un pôle de convergence, avec un principe
 élu de classement organisateur. Ce que la grande attention
 suppose, en effet, autour d'un centre de discernement choisi
 
-[p. 35]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 35] LA DISCIPLINE DE L'INVENTION
 35
 
 pour thème d'intense contemplation, ce n'est point levide, où
@@ -1321,9 +1225,7 @@ total chacun de ses états, de ses actes . A cette œuvre de « réa-
 
 -
 
-[p. 36]
-
-lisation » , non seulement l'intelligence concourt, mais la sen-
+[p. 36] lisation » , non seulement l'intelligence concourt, mais la sen-
 sibilité. C'est pourquoi l'inventeur peut ensuite s'intéresser
 passionnément à tel problème, à telle vue, qui ne sont plus
 pour lui des abstractions
@@ -1360,9 +1262,7 @@ d'un besoin dans l'esprit, d'une tendance dans les choses, le tout
 vivifié parunintensedésir d'exercice et de création : voilàlespro-
 dromes d'une découvertequelconque. Par le travail préparatoire
 
-[p. 37]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 37] LA DISCIPLINE DE L'INVENTION
 37
 
 que j'ai dit, l'inventeur se met dans une sorte d'état explosif :
@@ -1395,11 +1295,7 @@ Dissociation , association : voilà en somme les deux démar-
 ches essentielles de l'inventeur, la première négative et destruc-
 trice, la seconde positive et constituante, toutes deux prépara-
 toires. Etudions brièvement l'une après l'autre ces deux opéra-
-tions fondamentales dans leur intime rapport à l'acte créateur
-
-[p. 38]
-
-de l'esprit. De quelque forme d'invention qu'il s'agisse, les
+tions fondamentales dans leur intime rapport à l'acte créateur [p. 38] de l'esprit. De quelque forme d'invention qu'il s'agisse, les
 conclusions demeurent analogues (1 ) .
 
 -
@@ -1438,9 +1334,7 @@ venteur, si l'œuvre n'est pas d'avance accomplie, consiste donc
 
 [^p38-1]: RIBOT, dans son Essai sur l'imagination créatrice (Alcan, 1900), insiste longuement sur cette analogie.
 
-[p. 39]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 39] LA DISCIPLINE DE L'INVENTION
 39
 
 Il faut qu'il démonte les mécanismes communs, qu'il revienne
@@ -1478,11 +1372,7 @@ ou implicites : guerre par laquelle on tâche de faire apparaître
 entout des motifs de doute, des sources de contingence et de
 mystère [^p39-1] . Après un pareil travail, l'esprit a devant soi une
 
-[^p39-1]: Il serait facile de codifier cet art de critique dissolvante, Les Scep
-
-[p. 40]
-
-poussière instable où peuvent se former des combinaisons nou-
+[^p39-1]: Il serait facile de codifier cet art de critique dissolvante, Les Scep [p. 40] poussière instable où peuvent se former des combinaisons nou-
 velles, un nuage amorphe au sein duquel peuvent naître des
 centres de condensation nouveaux. « C'est un travail analogue
 à celui qui, en géologie, produit de nouveaux terrains par
@@ -1518,9 +1408,7 @@ que l'on tiendra ensuite pour des adversaires.
 
 [^p40-1]: RIBOT, loc. cit. , p. 1g.
 
-[p. 41]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 41] LA DISCIPLINE DE L'INVENTION
 41
 
 esprit reste toujours en éveil, à l'affût, guettant sans relâche
@@ -1553,11 +1441,7 @@ cet impérieux besoin de perpétuelles ébauches synthétiques ,
 abstraites sans doute et divergentes, mais complémentaires aussi
 et, par leur concours même, fût-il encore accompagné de
 heurts, peu à peu évocatrices du concret. Dans les voies de
-l'invention, malheur à celui qui ne s'efforce pas de découvrir
-
-[p. 42]
-
-un biais pour tout comprendre et, en un sens, tout approu-
+l'invention, malheur à celui qui ne s'efforce pas de découvrir [p. 42] un biais pour tout comprendre et, en un sens, tout approu-
 ver ! Là est sa limite : une faiblesse qui sera peut-être mor-
 telle.
 Et ici doit prendre place une importante remarque . Dans
@@ -1593,9 +1477,7 @@ discipline efficacement préparatoire .
 Quoi qu'il en soit, l'inventeur s'entraînera donc au jeu de
 l'association . Il s'habituera aux types de combinaison les plus
 
-[p. 43]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 43] LA DISCIPLINE DE L'INVENTION
 43
 
 divers ; il s'exercera àla construction des systèmes ; il essaiera
@@ -1628,11 +1510,7 @@ comme il vient d'être dit. Au degré supérieur, on procède par
 élaboration d'éléments nouveaux : l'opération créatrice essen-
 tielle est alors cette dissociation du second genre dont il va être
 maintenant question .
-Dans les deux cas, la dissociation du premier genre con
-
-[p. 44]
-
-serve un rôle préparatoire et préliminaire. Mais tantôt on uti-
+Dans les deux cas, la dissociation du premier genre con [p. 44] serve un rôle préparatoire et préliminaire. Mais tantôt on uti-
 lise tels quels les matériaux de démolition qu'elle fournit et
 tantôt on les refond entièrement pour refaire avec eux des ma-
 tériaux neufs . Les inventions vraiment grandes s'accomplis-
@@ -1665,9 +1543,7 @@ avant tout, grâce à une critique préparatoire qui d'ailleurs est
 plutôt une ascèse, mais qui comporte aussi emploi de la mé-
 thode régressive définie par M. Bergson, il lui faut s'affranchir
 
-[p. 45]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 45] LA DISCIPLINE DE L'INVENTION
 45
 
 du morcelage habituel, des symbolismes élaborés par le sens
@@ -1676,7 +1552,7 @@ positive dans la direction et pour le plus grand profit du dis-
 cours ; se libérer de la tyrannie des idées toutes faites qui en-
 combrent et aveuglent ; se déprendre des principes routiniers
 d'où naît l'automatisme dans le jugement et des systèmes que
-la coutume impose a priori comme des formes rigides à l'ex-
+la coutume impose *a priori* comme des formes rigides à l'ex-
 périence ; en un mot, oublier ce qu'il savait, se refaire un es-
 prit neuf, dépasser le notionnel, assouplir même les cadres de
 la logique abstraite, apprendre
@@ -1707,9 +1583,7 @@ phase de l'ascèse préparatoire qu'au moment précis de l'acte
 
 [^p45-1]: Chap. I du précédent volume.
 
-[p. 46]
-
-intuitif. A ce moment, d'ordinaire, domine soudain une im-
+[p. 46] intuitif. A ce moment, d'ordinaire, domine soudain une im-
 pression de calme, de repos, une grande paix qui succède aux
 angoisses de la recherche.Le silence règne à l'intérieur de l'es-
 prit, un silence de recueillement dans la solitude et la retraite.
@@ -1740,9 +1614,7 @@ gnages concordants garantissent l'authenticité d'une telle expé-
 rience, qu'aussi bien chacun peut refaire pour son propre
 compte, au moins à l'échelle infinitésimale. Nul doute aux
 
-[p. 47]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 47] LA DISCIPLINE DE L'INVENTION
 47
 
 yeux de qui accepta l'épreuve : la description des spírituels
@@ -1778,9 +1650,7 @@ tueux, dispersant, toujours plus ou moins superficiel, des
 
 [^p47-1]: Au sens où les docteursde l'oraison parlent d'états passifs.
 
-[p. 48]
-
-- une
+[p. 48] - une
 actes morcelés ; elle y substitue le règne d'un « état » au sens
 bérullien du mot, c'est-à-dire
 en meilleurs termes
@@ -1821,9 +1691,7 @@ listes ( 2), je ne puis invoquer sans doute que le témoignage de [^p48-1] [^p48
 [^p48-1]: Sur le sens précis de ce langage, voir : H. BREMOND, Histoire litté- raire du sentiment religieux en France , tome III en particulier .
 [^p48-2]: Il faudra bien que les uns et les autres en viennent à l'explorer méthodiquement, car les explications suprêmes sont là. Plusieurs signes font
 
-[p. 49]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 49] LA DISCIPLINE DE L'INVENTION
 49
 
 l'expérience. Mais il est péremptoire, d'ailleurs à la portée de
@@ -1859,11 +1727,7 @@ leuses découvertes.
 25 novembre 1909, p. 32.
 
 11
-4
-
-[p. 50]
-
-lumière de foi, vertu et sainteté ( 1), - ou de vouloir plus
+4 [p. 50] lumière de foi, vertu et sainteté ( 1), - ou de vouloir plus
 ou moins profond, plus ou moins fort et vrai, correspondant
 à ce qui est en chacun de nous absolu ou relatif (2), - ou
 encore d'inspiration poétique et des moyens parlesquels devien-
@@ -1897,9 +1761,7 @@ Livre, 1929).
 (3) VoirBREMOND, Prière et Poésie, p 112-140 en particulier.
 (4) Voir mon précédent volume sur La pensée intuitive.
 
-[p. 51]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 51] LA DISCIPLINE DE L'INVENTION
 51
 
 qué déjà quelque chose. Mais l'importance de la question
@@ -1933,9 +1795,7 @@ vraiment une géométrie, une dynamique, une énergétique,
 
 [^p51-1]: H. POINCARÉ, La valeurde la Science, p. 11 .
 
-[p. 52]
-
-une chimie, une biologie des concepts ; ils vont même souvent
+[p. 52] une chimie, une biologie des concepts ; ils vont même souvent
 jusqu'à une personnification quasi mythologique des relations
 et démarches les plus abstraites ; et leur langage en fait foi .
 Un exemple typique à cet égard est celui du mathématicien
@@ -1971,9 +1831,7 @@ cependant, dès qu'il s'agit d'invention véritable et non pas [^p52-1]
 
 [^p52-1]: H. POINCARÉ, loc. cit. , p. 15 .
 
-[p. 53]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 53] LA DISCIPLINE DE L'INVENTION
 53
 
 d'un petit dégagement de conséquences, d'une généralisation
@@ -2006,11 +1864,7 @@ aussi. Soit l'exemple du musicien. Ce serait en diminuer sin-
 gulièrement le génie propreque de le croire lié au jeu de l'ima-
 gination mélodique ou orchestrale. A travers les sonorités, ce
 qu'il perçoit et ce qu'il exprime, ce sont les mouvements de
-la vie intérieure, certains rythmes de sa respiration profonde et
-
-[p. 54]
-
-leurs vicissitudes
+la vie intérieure, certains rythmes de sa respiration profonde et [p. 54] leurs vicissitudes
 images encore, je l'avoue, et qui mettent
 la sensibilité en branle, mais combien plus subtiles que les
 sons physiques , plus spirituelles déjà. Ainsi en est-il égale-
@@ -2043,9 +1897,7 @@ ble et magique du vers. Là est le don essentiel. Qui ne l'a [^p54-1]
 
 [^p54-1]: Voir son Discours sur la Poésie pure et son petit livre Prière et Poésie (Grasset, 1926) .
 
-[p. 55]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 55] LA DISCIPLINE DE L'INVENTION
 55
 
 point, en dépit de toutes les qualités littéraires que l'on vou-
@@ -2071,11 +1923,7 @@ Toujours présente, bien que parfois inaperçue, implicite,
 c'est elle qui donne le réel, qui le véhicule dans la région des
 
 [^p55-1]: Le nom de « musique » lui convient-il, sinon métaphoriquement ? Les moyens sonores du langage ne sont à peu près rien, comparés à ceux dont le musicien dispose. Il est rare pourtant (est-ce même possible ?) que de beaux vers , poétiques par eux-mêmes , gagnentà être « mis en musique >>> ou plutôt n'y perdent pas. Jirai jusqu'à prétendrequ'on nepeut guère les « dire » sans les dégrader L'esprit seul est capable vraiment de les enten- dre. Autantde preuves que leur vertu de « charme » n'a presque rien de matériel , encore qu'elle reste sensible.
-[^p55-2]: Voir son article sur l'intuition philosophique, dans la Revue de Méta- physique et de Morale, novembre 1911 . sent ouvrage, p. 201-202 . Cf. le premier volumedu pré-
-
-[p. 56]
-
-puissances d'abstraction et d'usage, elle qui suggère directe-
+[^p55-2]: Voir son article sur l'intuition philosophique, dans la Revue de Méta- physique et de Morale, novembre 1911 . sent ouvrage, p. 201-202 . Cf. le premier volumedu pré-[p. 56]puissances d'abstraction et d'usage, elle qui suggère directe-
 ment l'attitude intuitive. Non pas certes qu'elle équivaille
 à l'intuition elle-même, surtout si on ne fait que la rece-
 voir coupée de la source qui a jailli au centre de l'âme et qui
@@ -2105,11 +1953,7 @@ n'est même à aucun degré formulable encore, ce qui n'existe
 encore qu'à l'état de démarche vécue, implicite, enveloppée,
 à l'état de tendance et de pressentiment. Aux temps primitifs ,
 à l'âge des mythes, l'esprit humain en reste là. Chaque enfant
-recommence une préhistoire analogue. Plus tard , sans doute ,
-
-[p. 57]
-
-LA DISCIPLINE DE L'INVENTION
+recommence une préhistoire analogue. Plus tard , sans doute , [p. 57] LA DISCIPLINE DE L'INVENTION
 57
 
 la raison intervient ; elle pousse l'œuvre d'intelligence jusqu'à
@@ -2147,9 +1991,7 @@ invente. Il y fautdu mouvement, de la vitesse. Trop de lenteur [^p57-1]
 
 [^p57-1]: Bulletinde la Société française de Philosophie, séancedu 26 mars 1903 .
 
-[p. 58]
-
-stérilise, comme aussi l'absence d'élan rythmique. La pensée
+[p. 58] stérilise, comme aussi l'absence d'élan rythmique. La pensée
 féconde est la pensée devenue action et vie jusqu'en ses plus
 intimes profondeurs. Un rythme de progrès lui est inhérent,
 la fait efficace et réalisante . Et c'est cela même que lui apporte
@@ -2181,11 +2023,7 @@ acquise . Mais j'insisterai davantage sur les conséquences rela-
 tives à la discipline de l'invention : simple résumé, d'ailleurs,
 de celles qui découlent immédiatement des observations que
 nous venons de faire.
-En premier lieu, l'inventeur, pour se préparer au combat,
-
-[p. 59]
-
-LA DISCIPLINE DE L'INVENTION
+En premier lieu, l'inventeur, pour se préparer au combat, [p. 59] LA DISCIPLINE DE L'INVENTION
 59
 
 s'entraîne à des comparaisons continuelles. Le génie, disait
@@ -2219,11 +2057,7 @@ que des tangences variables où elles se fécondent deux à deux,
 et ce que je dis là des sciences pourrait se dire aussi des mé-
 thodes, des systèmes, des principes, des arts, et généralement
 de toutes les combinaisons que peuvent former entre eux ces
-divers êtres intellectuels. De tout temps, les frontières ont été
-
-[p. 60]
-
-ainsi lieux d'élection pour l'inventeur. Nous vivons aujour-
+divers êtres intellectuels. De tout temps, les frontières ont été [p. 60] ainsi lieux d'élection pour l'inventeur. Nous vivons aujour-
 d'hui à une époque où de plus en plus se manifeste la puis-
 sance novatrice de telles conjugaisons. Et avec elles apparaît
 au premier plan le rôle d'un second facteur dans le choix
@@ -2256,9 +2090,7 @@ Citerai-je quelques exemples ? Paulhan [^p60-1] et Ribot [^p60-2] en
 [^p60-1]: Psychologie de l'invention, p. 23 et 52, etpassim.
 [^p60-2]: Essai sur l'imagination créatrice, p. 158 et 180, et passim.
 
-[p. 61]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 61] LA DISCIPLINE DE L'INVENTION
 61
 
 donnent plusieurs, parfois amusants ou pittoresques, toujours
@@ -2294,9 +2126,7 @@ pomorphique ou théologique. Partout on a trouvé des appli-
 
 [^p61-1]: Citépar RIвот, loc. cit.,p. 246.
 
-[p. 62]
-
-cations de l'idée démocratique, de l'idée religieuse.
+[p. 62] cations de l'idée démocratique, de l'idée religieuse.
 Que
 sais-je ? Une semblable énumération pourraitêtre sans fin . Tout ,
 je le répète, peut se traduire en tout ; et n'importe quelle
@@ -2331,9 +2161,7 @@ noter
 
 1º Une invention quelconque a toujours les caractères d'une
 
-[p. 63]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 63] LA DISCIPLINE DE L'INVENTION
 63
 
 œuvre d'art ; son unité ressemble à celle d'un organisme
@@ -2369,9 +2197,7 @@ procéder toujours. Pas de principes absolus, qui détourneraient [^p63-1]
 
 [^p63-1]: Au vrai sens du mot, qui n'exclut pas un certain idéalisme.
 
-[p. 64]
-
-de renouveler incessamment l'effort; pas deconvictions a priori
+[p. 64] de renouveler incessamment l'effort; pas deconvictions *a priori*
 sur le possible ou l'impossible ; pas de dogmes-formules
 apportant des solutions combinées d'avance ; pas de méthodes
 passe -partout répétées machinalement comme des rites immua-
@@ -2410,9 +2236,7 @@ du positi-
 
 [^p64-1]: Cf. Vocabulaire technique et critique de la Philosophie, publié par A. LALANDE : Observation faite par moi à l'article Positivisme .
 
-[p. 65]
-
-LA DISCIPLINE DE L'INVENTION
+[p. 65] LA DISCIPLINE DE L'INVENTION
 65
 
 visme comtien. Il doit savoir notamment saisir et respecter
@@ -2455,11 +2279,7 @@ mettant de surmonter les peines d'un tel travail, pour guider
 le vif sentiment des valeurs spirituelles, celui-là même qui
 
 11
-5
-
-[p. 66]
-
-fait prendre la poésie au sérieux, qui inspire confiance dans
+5 [p. 66] fait prendre la poésie au sérieux, qui inspire confiance dans
 l'ascèse intuitive et qui est aussi un élément de la foi mystique.
 L'inventeur ne doit donc pas être seulement un artiste, un
 homme d'action, un savant, avec les qualités d'esprit et les
@@ -2478,9 +2298,7 @@ par l'analyse plus détaillée des phases que traverse l'esprit de
 l'inventeur pendant la recherche et des lois deconduite dont
 chacune d'elles exige le respect.
 
-[p. 67]
-
-CHAPITRE
+[p. 67] CHAPITRE
 II
 
 Les phases de l'imagination créatrice
@@ -2510,11 +2328,7 @@ perspective directement inverse de celle où nous étions placés
 jusqu'ici ; ce qui appelle emploi d'un langage lui-même
 retourné : détente pour s'ouvrir aux suggestions de la matière,
 tension pour imposer une forme intelligible, au moins pro-
-visoire, à la masse d'abord incohérente et confuse des données
-
-[p. 68]
-
-recueillies (1 ) .
+visoire, à la masse d'abord incohérente et confuse des données [p. 68] recueillies (1 ) .
 Créer, à partir du connu, des systèmes de
 concepts fortement liés, qui l'interprètent ; puis les laisser
 doucement se dissoudre dans le flot des images extérieures que
@@ -2543,9 +2357,7 @@ Ainsi, quand sonne l'heure de choisir, on n'a plus à organiser [^p68-1]
 [^p68-1]: Cf. tome I, p. 57 et 183-184 . Je parlais alors de détente con- ceptuelle ; et maintenant c'est le discours qui exige tension. Rien là de contradictoire l'orientation a changé. Il ne s'agit plus de la même tension ni de la même détente.
 [^p68-2]: Sous forme de schémas dynamiques, bien entendu. Voir p. 78-80 du premier volume .
 
-[p. 69]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 69] LES PHASES DE L'IMAGINATION CRÉATRICE
 69
 
 le système de conséquences qu'entraîne tel ou tel choix de
@@ -2583,9 +2395,7 @@ les ressources de toutes les autres. Et cela implique chez lui ,
 pendant la phase d'ouverture, une succession balancée d'atti-
 tudes contraires .
 
-[p. 70]
-
-Attachement et détachement : cette formule convient donc à
+[p. 70] Attachement et détachement : cette formule convient donc à
 
 la vie spéculative autant qu'à la vie morale [^p70-1] . Attachement
 au discours pour l'épreuve de vérification ; détachement du
@@ -2623,9 +2433,7 @@ joie et de victoire ? Quand il a réalisé une grande assimilation :
 
 [^p70-1]: Cf. BERGSON, Bulletin de la Société française de Philosophie, séance du a mai 1gor , p. 57 . (a) Bulletin de la Société française de Philosophie, séance du 24 février 1921 , p. 64 .
 
-[p. 71]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 71] LES PHASES DE L'IMAGINATION CRÉATRICE
 71
 
 de la chute des corps au mouvement des astres, de la lumière
@@ -2658,11 +2466,7 @@ cience de ses instruments, de leurs articulations intérieures,
 de leurs aptitudes opératoires. Ce sont vraiment pour lui des
 organes sensoriels nouveaux, des systèmes de gestes montés
 d'avance en habitudes automatiques. Et ce prolongement de
-son corps accroît son pouvoir d'action, lui apporte la possi
-
-[p. 72]
-
-bilité d'une sorte nouvelle de réflexe ou d'instinct : si bien
+son corps accroît son pouvoir d'action, lui apporte la possi [p. 72] bilité d'une sorte nouvelle de réflexe ou d'instinct : si bien
 
 qu'il est prêt sans effort ni retard à matérialiser en expériences
 positives toute idée qui lui vient, discourant désormais en
@@ -2699,9 +2503,7 @@ aux cas de recherche les plus divers, et même à ceux de la
 création artistique ou morale, car là encore un métier doit
 être appris et une puissance de discours acquise , - de telles
 
-[p. 73]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 73] LES PHASES DE L'IMAGINATION CRÉATRICE
 73
 
 remarques acheminent évidemment vers une théorie de l'inven-
@@ -2736,9 +2538,7 @@ analyse , développe, assouplit des formes, qui se trouveront
 
 [^p73-1]: Cf. G. MILHAUD, Une condition du progrès scientifique, p. 75-107 du volume intitulé Le Rationnel (Paris, Alcan, 1898).
 
-[p. 74]
-
-ainsi toutes prêtes au jour du besoin : lejeu est ici comme
+[p. 74] ainsi toutes prêtes au jour du besoin : lejeu est ici comme
 ailleurs un apprentissage de conduite ; et ce travail préalable
 a d'autant plus de prix que nous ne savons jamais par avance
 quelles formes seront utiles et quelles resteront éternellement
@@ -2771,9 +2571,7 @@ immédiate, on demande
 libre spéculation inspirée par le seul désir de connaître et
 de comprendre, on prononce les mots toujours un peu mépri
 
-[p. 75]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 75] LES PHASES DE L'IMAGINATION CRÉATRICE
 75
 
 sants de jeu puéril ou de rêve utopique. Bref on estime que
@@ -2810,9 +2608,7 @@ nous ne saurions presque rien de ces mondes perdus à de ver-
 (1 ) Surtout, il est vrai, parmi celles qui ont été faites à l'aube de la
 civilisation .
 
-[p. 76]
-
--
+[p. 76] -
 
 tigineuses distances, ni l'astronomie ni la mécanique céleste
 n'existeraient, et,
@@ -2846,9 +2642,7 @@ de la spiritualité. Le désintéressement propice à l'invention , [^p76-1]
 
 [^p76-1]: Quelles applications utiles pouvaient se promettre les physiciens du XVIIIe siècle en étudiant l'électricité ?
 
-[p. 77]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 77] LES PHASES DE L'IMAGINATION CRÉATRICE
 77
 
 plus ou moins requis par elle, est celui qui opère une façon
@@ -2880,11 +2674,7 @@ toutes faites ; 2º au début des sciences, dans la période pure-
 ment empirique, lorsque l'on garde encore les perspectives
 communes et qu'il s'agit seulement de mettre des matières
 nouvelles sous les formes déjà élaborées ; 3° au cours de
-l'enseignement, lorsque la solution du problème est connue
-
-[p. 78]
-
-avant l'énoncé par le professeur et qu'il ne s'agit pour l'élève
+l'enseignement, lorsque la solution du problème est connue [p. 78] avant l'énoncé par le professeur et qu'il ne s'agit pour l'élève
 que de combiner des notions préalablement construites. Mais ,
 chez le savant parvenu aux stades supérieurs, le vrai travail
 d'invention échappe au code formulé par Stuart Mill, aux
@@ -2917,9 +2707,7 @@ Travaillez ; faites effort ; prenez beaucoup de peine . Ayez
 
 ( 1) Si l'on écarte, bien entendu, la chimère dite « liberté d'indifférence » .
 
-[p. 79]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 79] LES PHASES DE L'IMAGINATION CRÉATRICE
 79
 
 la persévérance qui sait vouloir, qui veut avec suite, avec sou-
@@ -2956,9 +2744,7 @@ avec M. Wilbois [^p79-1], les Exercices de saint Ignace offrent un
 
 [^p79-1]: Revuede Métaphysique et de Morale, mars 1901 , p. 181 .
 
-[p. 80]
-
-meilleur modèle que les canons de Stuart Mill. C'est qu'au
+[p. 80] meilleur modèle que les canons de Stuart Mill. C'est qu'au
 fond il s'agit pour la conscience de franchir ses frontières
 communes, de gagner sur les régions de pénombre et d'instinct
 qui l'entourent. Deux groupes de maximes lui tracent alors
@@ -2989,9 +2775,7 @@ méritequ'on s'en nourrisse. La vraie logique de l'invention,
 en un mot, c'est la philosophie entière ; et, par-dessus la
 philosophie elle-même, c'est la discipline de vie mystique .
 
-[p. 81]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 81] LES PHASES DE L'IMAGINATION CRÉATRICE
 81
 
 Peut-être sera-t-on un peu déçu de si amples généralités .
@@ -3030,11 +2814,7 @@ berté. On pourrait suivre l'analogie dans le détail ; elle est
 complète et vajusqu'à l'identité presque totale : invention et
 
 11
-6
-
-[p. 82]
-
-liberté ne fontqu'un àla limite, si bien que les deux termes
+6 [p. 82] liberté ne fontqu'un àla limite, si bien que les deux termes
 s'éclairent l'un l'autre. C'est pourquoi on ne peut songer qu'à
 des règles très générales. Bornons-nous d'abord àunseul point,
 résumé des remarques précédentes. L'inventeur est un homme
@@ -3065,9 +2845,7 @@ ni une psychologie curieusedesindividualités illustres,nimême
 une sociologie tendant à l'exploration du passé dans tous ses
 recoins, en vue de saisir les nuances des époques ou d'en
 
-[p. 83]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 83] LES PHASES DE L'IMAGINATION CRÉATRICE
 83
 
 expliquer les vicissitudes. Il ne s'agit quede reconnaître quels
@@ -3103,9 +2881,7 @@ sans l'intervention d'un révélateur. Or, n'est-ce point là cou-
 vanciers pour y prendre de simples indications, trouvant plus court de
 réinventer ainsi que de lire, et pas beaucoup plus difficile.
 
-[p. 84]
-
--
+[p. 84] -
 
 rir gravement le risque de préjugé ? Si le chercheur peut tirer
 profit réel des leçons de l'histoire, du moins semble-t-il que
@@ -3142,9 +2918,7 @@ qu'une impulsion générale et préfèrent, sur tel point précis ,
 entreprendre d'abord l'effort personnel de solution, afin que
 celui-ci reste libre : ils n'interrogent guère spécialement le
 
-[p. 85]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 85] LES PHASES DE L'IMAGINATION CRÉATRICE
 85
 
 -
@@ -3182,9 +2956,7 @@ sans doute, ne furentpas en fait écrites, mais qui, par nature,
 ( 1) Pour l'explication du terme de « noosphère » , voir Les origines hu-
 maines et l'évolution de l'intelligence .
 
-[p. 86]
-
-eussent aussi bien pu l'êtreque celles dont le discours a effec-
+[p. 86] eussent aussi bien pu l'êtreque celles dont le discours a effec-
 tué la codification. Or c'est là une complète erreur. La Tra-
 dition ne s'ajoute pas numériquement à l'Écriture
 : elle en
@@ -3218,9 +2990,7 @@ logique. Ainsi peuvent se résoudre les antinomies, par un
 effort qui remonte à la source de toute conceptualisation , à
 l'origine intuitive où elles naissent d'abstractions divergentes .
 
-[p. 87]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 87] LES PHASES DE L'IMAGINATION CRÉATRICE
 87
 
 Ainsi peuvent se préparer surtout les renouvellements d'atti-
@@ -3253,11 +3023,7 @@ devant eux ! Combien oscillent, toujours « ailleurs » , d'un
 automatisme fait de passé mort dans l'habitudeune fois prise
 àun songe inefficace d'avenir simplement rêvé !Au contraire,
 l'homme d'action véritable travaille incessamment à percevoir
-ce qui l'entoure ; il sent avec intensité, par toutes ses an
-
-[p. 88]
-
-tennes, son insertion dans le milieu environnant, jusqu'à
+ce qui l'entoure ; il sent avec intensité, par toutes ses an [p. 88] tennes, son insertion dans le milieu environnant, jusqu'à
 éprouver de chaque situation qu'il traverse comme une im-
 pression physique ; bref, ses facultés, en
 effort continuel de
@@ -3292,9 +3058,7 @@ complaît au spectacle du passé, sans rien vouloir y choisir,
 ni par suite en extraire ce qu'il contient dejouable et d'utile
 pour tel ou tel cas concret, est un rêveur ; et celui qui cède
 
-[p. 89]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 89] LES PHASES DE L'IMAGINATION CRÉATRICE
 89
 
 au vertige du mouvement, penché sur l'avenir sans le lest de
@@ -3327,11 +3091,7 @@ ment, avec l'aptitude à percevoir les « impondérables>> : et
 ainsi naît le sens du réel ou bon sens, faculté maîtressede l'in-
 venteur en tant qu'il est homme d'action. Pourquoi l'appelle-
 t-on un « sens » et n'est-ce point à bon droit ? Celui qui rêve
-sa pensée, mais ne la joue pas, qui a peur oudédain des con
-
-[p. 90]
-
-tacts matériels, celui-là ne sort jamais du roman et, lorsqu'il
+sa pensée, mais ne la joue pas, qui a peur oudédain des con [p. 90] tacts matériels, celui-là ne sort jamais du roman et, lorsqu'il
 tente la réalisation, n'aboutit qu'à l'échec. Il faut que l'effort
 de spiritualité s'incarne. Alors, et seulement alors, l'action in-
 ventivemord sur les choses, devient efficace, opérante ;et c'est
@@ -3362,9 +3122,7 @@ un tact délicat de l'actuel et une divination du progrès pos-
 sible qui évitent les froissements, les violences, les grippages ,
 les ruptures, les écarts : voilà le jeu essentiel de l'action du
 
-[p. 91]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 91] LES PHASES DE L'IMAGINATION CRÉATRICE
 91
 
 rablement attentive, la seule qui invente au besoin. Attention,
@@ -3397,11 +3155,7 @@ lacres dont elle se leurre, les comédies qu'elle se joue à elle-
 même, les fraudes plus ou moins hypocrites où elle se dupe.
 Tout autrement veut l'inventeur, celui qui a su garder vive
 l'intuitionde laduréecréatrice. Il ne metpas sa confiance dans
-les coups d'état dialectiques, non plus que dans une raideur
-
-[p. 92]
-
-doctrinaire de conduite rebelle aux tâtonnements. Sa recherche
+les coups d'état dialectiques, non plus que dans une raideur [p. 92] doctrinaire de conduite rebelle aux tâtonnements. Sa recherche
 a la souplesse autant que l'obstination des forces vitales qui
 s'infléchissent au moindre obstacle, mais qui savent aussi
 profiter de la moindre fissure. Ou, si l'on préfère, l'inventeur
@@ -3436,9 +3190,7 @@ au principe et au cours de la facture, preuve suffisante en est
 
 -
 
-[p. 93]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 93] LES PHASES DE L'IMAGINATION CRÉATRICE
 93
 
 donnée par l'indispensable intervention d'une technique ma-
@@ -3476,9 +3228,7 @@ possèdent à ses yeux une réelle existence : sur ceux-ci , une cer-
 
 -
 
-[p. 94]
-
-taine expérience le renseigne d'abord , et ladémonstration rigou-
+[p. 94] taine expérience le renseigne d'abord , et ladémonstration rigou-
 reuse ne vient qu'ensuite pour uncontrôle d'après coup. Iln'en
 va pas autrement au laboratoire. Sans doute, le profane se
 montre impuissant à saisir les faits que le physicienjuge les
@@ -3514,9 +3264,7 @@ marches dont chacun appelle quelques remarques
 On aurait tort de croire
 que tout le monde sache d'instinct percevoir comme il faut.
 
-[p. 95]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 95] LES PHASES DE L'IMAGINATION CRÉATRICE
 95
 
 Un certain art de perception, semblable à celui qui fait le
@@ -3553,9 +3301,7 @@ avec largeur suffisante. Citons ici
 
 -
 
-[p. 96]
-
-M. Wilbois parlant de L'Esprit positif ( 1) : « On a dit qu'il
+[p. 96] M. Wilbois parlant de L'Esprit positif ( 1) : « On a dit qu'il
 faut être ignorant pour être inventeur. Il est certain qu'un
 homme na pas le temps de connaître tous les faits acquis.
 Mais cette connaissance lui serait inutile. Car tous les faits ne
@@ -3588,9 +3334,7 @@ cevoir des objets, des choses. Qu'on se rappelle, à cet égard, [^p96-1]
 [^p96-1]: Revue de Métaphysique et de Morale, septembre 1901 , р. 617 .
 [^p96-2]: Id , novembre 1911 , p . 821 .
 
-[p. 97]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 97] LES PHASES DE L'IMAGINATION CRÉATRICE
 97
 
 une remarque déjà faite. Il arrive souvent, lors d'une inven-
@@ -3627,11 +3371,7 @@ dès lors être jugées fortuites. Sans doute le bonheur de trou-
 vaille, qu'on observe constant chez eux et qu'on nomme leur
 
 7
-11
-
-[p. 98]
-
-génie, tient-il en part majeure à quelque richesse anormale
+11 [p. 98] génie, tient-il en part majeure à quelque richesse anormale
 de perception qui les fait échapper au rétrécissement utilitaire
 du commun.
 2º Mémoire et synthèse . - Bien connu est le rôle du souve-
@@ -3663,9 +3403,7 @@ mette ici de reprendre une observation déjà faite naguère. La
 différence du maître au disciple n'est pas dans l'aptitude à sai-
 sir tel pas dialectique élémentaire, tel rapport, tel concept :
 
-[p. 99]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 99] LES PHASES DE L'IMAGINATION CRÉATRICE
 99
 
 elle est dans le pouvoir de synthèse. L'un est capable d'uni-
@@ -3702,9 +3440,7 @@ D'où cette conclusion capitale : un fait ne vaut scientifique-
 ment que par le principe qui le traverse ; le « discernement >>
 du fait, dirai-je, se confond avec la « mémoire » du principe.
 
-[p. 100]
-
-100
+[p. 100] 100
 LA PENSÉE INTUITIVE
 
 Non pas, certes, que l'élément reçu soit négligable. Mais,
@@ -3741,9 +3477,7 @@ depuis longtemps familier, machinal . Ainsi une tension accom-
 pagnait le retour à l'immédiat ; et une détente, l'accès au dis-
 cours. A présent, il va être question du passage à l'acte à
 
-[p. 101]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 101] LES PHASES DE L'IMAGINATION CRÉATRICE
 101 :
 
 partir de l'état supérieur supposé acquis. Ce passage est né-
@@ -3774,11 +3508,7 @@ saisir, de quelle façon commence l'entreprise? Une seconde
 retouche devrait être apportée ici au langage traditionnel, si on
 le voulait d'une rigueur parfaite. Imagination « créatrice » dit
 trop, mais imagination « combinatrice » pas assez : le terme
-exact serait imagination « novatrice ». Eh bien ! Sous quelle
-
-[p. 102]
-
-forme apparaît le principe de nouveauté ? Voilà le point qui
+exact serait imagination « novatrice ». Eh bien ! Sous quelle [p. 102] forme apparaît le principe de nouveauté ? Voilà le point qui
 retiendra d'abord notre attention. Tout le monde sait l'impor-
 tance d'un bon départ : on a dit très justement que c'est la
 moitié de la solution. Attachons-nous donc à examiner cette
@@ -3794,7 +3524,7 @@ D'abord, une matière préalable, une donnée excitatrice. Nulle
 part dans l'ordre humain ,
 et pas plus ici qu'ailleurs, je l'ai
 dit, je le répète, - on n'observe de commencement absolu , de
-création ex nihilo . L'invention la plus géniale suppose toujours
+création *ex nihilo* . L'invention la plus géniale suppose toujours
 un milieu préexistant, où elle prend naissance et puise la
 nourriture qui lui permet de grandir. Milieu interne ou externe ,
 psychique ou physique, individuel ou social, l'un et l'autre
@@ -3808,9 +3538,7 @@ d'en surfaire l'importance comme d'en méconnaître le rôle [^p102-1] .
 
 [^p102-1]: Il y a une méthode matérialiste pour étudier l'invention : tendre à ré- duire la découverte aux matériaux, l'individualité au milieu , l'homme de génie aux influences reçues de ses précurseurs, la forme originale aux élé- ments communs qu'elle saisit. Cette méthode répugne davantage « à mesure qu'on a plus d'esprit » , et à bon droit, car elle n'explique vraiment que les
 
-[p. 103]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 103] LES PHASES DE L'IMAGINATION CRÉATRICE
 103
 
 C'est là qu'intervient parfois le hasard, dans la rencontre du
@@ -3846,9 +3574,7 @@ phénomènes d'inertie, de vitesse acquise, les orthogénèses. Mais ceci n'en-
 traîne pas qu'on puisse la négliger à son rang subalterne : elle a toujours
 son mot à dire.
 
-[p. 104]
-
-plus qu'une secousse, une impulsion; et ce n'est làque l'aube
+[p. 104] plus qu'une secousse, une impulsion; et ce n'est làque l'aube
 encore incertaine de la découverte proprement dite.
 Arrêtons-nous y toutefois un instant et supposons que le
 chercheur ait su y trouver ungerme d'hypothèse nouvelle.Ace
@@ -3877,9 +3603,7 @@ lement polarisé de l'imagination.
 [^p104-1]: L'Energie spirituelle, p . 171-172 . On peut ne pas goûter particulière- ment ce nom de « schéma dynamique , dont rienne serait plus facile que de critiquer la composition. Mieux vaut cependant le conserver tel quel, parce qu'il est entré dans l'usage et que tout conseille d'éviter les perpétuels changements de vocabulaire .
 [^p104-2]: P 58.85 du premier volure, La Pensée intuitive, 1. Au delà du Discours .
 
-[p. 105]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 105] LES PHASES DE L'IMAGINATION CRÉATRICE
 105
 
 -
@@ -3914,11 +3638,7 @@ qu'au début l'esprit ne possédait qu'un schéma de méthode
 motrice et non le moindre groupe de résultats, fussent-ils
 embryonnaires ; - enfin l'œuvre de génie manifeste une vertu
 mmortelle de développement, elle se prête à une multitude
-innombrable d'interprétations selon la diversité des points de
-
-[p. 106]
-
-vue, elle se renouvelle perpétuellement et vit d'une vie féconde
+innombrable d'interprétations selon la diversité des points de [p. 106] vue, elle se renouvelle perpétuellement et vit d'une vie féconde
 que rien n'achève jamais, bref elle se montre capable de durée
 inexhaustible : marque évidente qu'elle consiste avant tout en
 invention de schéma dynamique ( 1) .
@@ -3952,9 +3672,7 @@ par une sorte d'enchantement qui en apprivoise la pudeur [^p106-1]
 
 [^p106-1]: Et c'est pourquoi tout génie authentique ades disciples, est à quelque degré chef d'école, déclenche un long mouvement d'applications.
 
-[p. 107]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 107] LES PHASES DE L'IMAGINATION CRÉATRICE
 107
 
 farouche, de la mettre endisposition de sympathie, de consen-
@@ -3988,11 +3706,7 @@ un langage reste toujours l'unique ins-
 trument possible de la communication. Mais simple moyen : la
 technique est peu de chose là où manque l'émotion, l'ériger en
 fin autonome (fût-ce avec le plus miraculeux succès) conduit à
-la virtuosité pure, et il y a une différence radicale entre poète
-
-[p. 108]
-
-véritable et virtuose du vers ( 1) . Que sera donc le discours sans
+la virtuosité pure, et il y a une différence radicale entre poète [p. 108] véritable et virtuose du vers ( 1) . Que sera donc le discours sans
 lequel nulle poésie ne subsiste ? Et à quels éléments ou caractères
 en sera due la puissance magique? Ce qu'il offre de significa-
 tion explicite et clairement intelligible, ce qui peut en être expli-
@@ -4023,9 +3737,7 @@ de poèmes où l'âme profonde se délecte néanmoins dans un [^p108-1]
 [^p108-1]: Plaisir de la difficulté vaincue : réel, mais inférieur.
 [^p108-2]: Quitte, bien entendu, à devoir peut-être se donner pour cela quelque peine.
 
-[p. 109]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 109] LES PHASES DE L'IMAGINATION CRÉATRICE
 109
 
 délice d'entière quiétude ! A quoi bon insister ? Nous sommes là
@@ -4059,11 +3771,7 @@ Par où cependant, par quel caractère précis ,- malgré les
 mélanges de fait, - la poésie diffère-t-elle de l'éloquence ?
 Elle insinue les idées ou les sentiments plutôt qu'elle ne les
 étale, suggère plus qu'elle n'exprime. Son domaine propre est
-celui de l'ineffable, du voilé, du nocturne, de l'infini ; son
-
-[p. 110]
-
-but : une évocation de mystère intérieur, une intensité de
+celui de l'ineffable, du voilé, du nocturne, de l'infini ; son [p. 110] but : une évocation de mystère intérieur, une intensité de
 rêve qui surpasse l'entendement, l'introduction à une sorte
 d'au-delà. D'où l'usage qu'elle fait du symbole, surtout du
 symbole qui ne se fige point en allégorie explicite, mais reste
@@ -4092,11 +3800,7 @@ ouvrir l'accès , une certaine musicalité du discours . Mais quelle
 musicalité ? Quelque chose, à coup sûr, en provientdu son des
 mots et des phrases : tels versificateurs, parfois très habiles, ne
 sont pourtant pas des poètes, parce que leur vers n'a point de
-son original ; et tels autres , - Verlaine par exemple, -mal-
-
-[p. 111]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+son original ; et tels autres , - Verlaine par exemple, -mal-[p. 111]LES PHASES DE L'IMAGINATION CRÉATRICE
 111
 
 qui
@@ -4132,11 +3836,7 @@ aspects de la nature, et dont le fondement est leur aptitude
 commune à traduire certains rythmes de respiration vitale.
 Est-ce là reprendre simplement le vieux cliché : la poésie
 est faite d'images ? Oui et non. Sans doute la métaphore
-constitue l'instrument ordinaire du poète, non pas la méta-
-
-[p. 112]
-
-phore usée qu'implique toutdiscours, mais la métaphore fraî-
+constitue l'instrument ordinaire du poète, non pas la méta-[p. 112]phore usée qu'implique toutdiscours, mais la métaphore fraî-
 che et neuve, toute vibrante encore de l'impression vive, et la
 métaphore à laquelle on croit, c'est-à-dire poussée jusqu'au
 mythe. L'image cependant n'est pas nécessaire : tels vers,
@@ -4169,9 +3869,7 @@ mesure qui suspend les puissances de discours et leur marche
 
 [^p112-1]: Jeprends l'exemplede la poésie française, mais on généralisera sans peine.
 
-[p. 113]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 113] LES PHASES DE L'IMAGINATION CRÉATRICE
 113
 
 hâtive, qui concentre l'âme enla détachantde ses facultés super-
@@ -4209,11 +3907,7 @@ des parfums ou qui émeuventcomme d'immatérielles caresses ,
 puis ces trains de strophes au rythme libre ou défini, en accord
 
 I
-8
-
-[p. 114]
-
-possible avec toutes les tonalités et tous les frissons de la vie
+8 [p. 114] possible avec toutes les tonalités et tous les frissons de la vie
 intérieure. Tout cela dégage et met en acte la puissance émo-
 tive du langage : tout cela d'autant plus prenant que les sens
 ne sont qu'effleurés,mis en émoi, mais non assouvis, et qu'une
@@ -4245,9 +3939,7 @@ bles ( 1 ) . D'ordinaire, c'est un mélange des deux factures qui [^p114-1]
 
 [^p114-1]: Cf. P. S. COCULESCO, Les deux rimes, dans la Revue des Cours et Conférences, 30 mars, 15 avril . 15 ct 30mai 1927 .
 
-[p. 115]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 115] LES PHASES DE L'IMAGINATION CRÉATRICE
 115
 
 peut être observé. Le poète commence par des vers épars, au
@@ -4286,9 +3978,7 @@ terme de pré-image pour la définir. Telle se manifeste, aux
 
 -
 
-[p. 116]
-
-origines de l'œuvre poétique, l'activité de l'imagination créa-
+[p. 116] origines de l'œuvre poétique, l'activité de l'imagination créa-
 trice ; tel se présente alors initialement le facteur de novation.
 Le nouveau est d'abord pré-imaginé. C'est à mettre ce point
 en évidence que voulait parvenir une étude où le souci de
@@ -4320,9 +4010,7 @@ chacune de ses parties, c'est toujours en revivre le mouvement [^p116-1]
 
 [^p116-1]: P. 74-75 du premier volume, -
 
-[p. 117]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 117] LES PHASES DE L'IMAGINATION CRÉATRICE
 117
 
 de genèse ; et cela n'est possible que sous les espèces d'une
@@ -4356,9 +4044,7 @@ surtout morale : ce qui explique pourquoi est alors possible
 
 (1)Cf. H. POINCARE, Science etMéthode, chap . ш.
 
-[p. 118]
-
-mieux qu'ailleurs, comme le montrent tant de faits, une grande
+[p. 118] mieux qu'ailleurs, comme le montrent tant de faits, une grande
 précocité d'invention. Il est facile de voir néanmoins ce qui
 ferme tels ou tels aux mathématiques, ce qui les empêche de
 trouver (sinon même de comprendre) dans cet ordre.
@@ -4390,9 +4076,7 @@ ce sens .
 De fait, une autre cause, plus grave sans doute et plus effi-
 cace, entre ici bientôt en jeu : l'insuffisance de mémoire.Com
 
-[p. 119]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 119] LES PHASES DE L'IMAGINATION CRÉATRICE
 119
 
 bienelle influe, cela est montré par l'impuissance où l'on voit
@@ -4424,11 +4108,7 @@ dominer leur matière. Qu'y a-t-il donc d'exceptionnel dans le
 domaine mathématique ?
 Je pense que l'explication principale doit être cherchée,-
 et qu'on la trouve, - dans un certain défaut d'imagination ,
-d'une imagination particulière, spécifique,de ce qu'on pourrait
-
-[p. 120]
-
-appeler l'imagination de l'opératoire. Chezbeaucoup, les objets
+d'une imagination particulière, spécifique,de ce qu'on pourrait [p. 120] appeler l'imagination de l'opératoire. Chezbeaucoup, les objets
 de l'Analyse ne sont que mots vides, non réalités vécues. De là
 pour eux, en face de tels objets, un manque d'intérêt sensible
 et, par conséquent, d'attention intense, commeaussi de mémoire
@@ -4442,7 +4122,7 @@ pondante. Ce qui est requis, du reste, plus que la métaphore
 et le symbole, que le mythe figuratif emprunté au monde sen-
 sible, c'est l'image prédiscursive, l'image presque immatérielle
 par où s'affirme et agit avant toute œuvre explicite le schéma
-dynamique . Cette image sui generis est au fond nécessaire
+dynamique . Cette image *sui generis* est au fond nécessaire
 dès les premiers pas ; l'image proprement visuelle n'en fournit
 qu'un succédané toujours médiocre et souvent même impossi-
 ble. Voilà en somme le point d'achoppement commun. Nor-
@@ -4459,9 +4139,7 @@ culture, si négligée le plus souvent, de la vitalité imaginative .
 
 1) Même chose, plus accentuée encore, devant un problème à résoudre .
 
-[p. 121]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 121] LES PHASES DE L'IMAGINATION CRÉATRICE
 121
 
 Là est la sourcepremière, à condition bien entendu de prendre
@@ -4494,11 +4172,7 @@ tions sur lui des faits nouveaux qu'il suscite ou rencontre. Pour
 l'usage scientifique et le perfectionnement graduel de la théorie,
 le plus important est à coup sûr une observation précise de la
 manière dont elle réussit et, surtout peut-être, dont elle échoue.
-Aussi, d'ordinaire, est-ce de la deuxième démarche que logi
-
-[p. 122]
-
-ciens et critiques parlentde préférence. Mais,du moins dans la
+Aussi, d'ordinaire, est-ce de la deuxième démarche que logi [p. 122] ciens et critiques parlentde préférence. Mais,du moins dans la
 perspective d'une psychologie de l'invention, le choix initial
 prend valeur prépondérante. Or, à cet égard, il faut se deman-
 der comment le jeu de l'imagination créatrice évite l'arbitraire.
@@ -4531,11 +4205,7 @@ un simple mouvement de nature, comme si la chose allait de
 soi . Or un tel postulat n'a rien de nécessaire et même, très
 probablement, est-il dangereux, trompeur. J.-J. Thomson , le
 premier peut-être, a fait remarquer ce qu'il y a d'étrange ga-
-geuredans la tentative d'édifier une théorie de l'atome sans intro-
-
-[p. 123]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+geuredans la tentative d'édifier une théorie de l'atome sans intro-[p. 123]LES PHASES DE L'IMAGINATION CRÉATRICE
 123
 
 duire, parmi ses éléments fondamentaux, quelque longueur qui
@@ -4567,9 +4237,7 @@ que nous sommes incapables d'imaginer ou d'accomplir, il se [^p123-1]
 [^p123-1]: Ou images l'un de l'autre dans un miroir, comme le sont nos deux mains.
 [^p123-2]: Pour s'en rendre compte, il suffit de considérer le cas analogue de deux triangles dans un plan : la superposition exige retournement de l'un d'eux, c'est-à-dire entrée dans l'espace à trois dimensions .
 
-[p. 124]
-
-pourrait que la nature les réalisât dans certains phénomènes , à
+[p. 124] pourrait que la nature les réalisât dans certains phénomènes , à
 une échelle où notre œil ne sait plus voir ni nos membres ma-
 nier . Rien , du reste, n'interdit l'espérance de dresser indirecte-
 ment notre imagination à s'élargir en ce sens : les géomètres
@@ -4601,9 +4269,7 @@ de chances qu'il suffise à la chimie. Elle se heurte en effet à
 un double écueil. Il lui faudrait un modèle statique plutôt que
 dynamique ; d'autre part, elle attache beaucoup de prix aux
 
-[p. 125]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 125] LES PHASES DE L'IMAGINATION CRÉATRICE
 125
 
 configurations, tandis que la physique, à propos des électrons ,
@@ -4636,11 +4302,7 @@ venons de le voir, en existe chez les penseurs . Dans l'ordre
 spirituel , notamment, les mythes platoniciens ont leurs homo-
 logues. Je ne crois guère chez Platon à une défaillance de la
 pensée dialectique, à un abandon involontaire ou délibéré aux
-fables de l'imagination inférieure : il s'agit plutôt d'un effort
-
-[p. 126]
-
-pour suggérer ce que nul discours ne saurait traduire. Toute
+fables de l'imagination inférieure : il s'agit plutôt d'un effort [p. 126] pour suggérer ce que nul discours ne saurait traduire. Toute
 métaphysique profonde en est là ; de même toute sagesse, à
 une certaine hauteur. Et, plus haut encore, la sainteté , -que
 marque une disparition au moins partielle et relative des ten-
@@ -4672,9 +4334,7 @@ créations d'art . D'ordinaire, celui qui pense à un « beau sujet>>
 n'a dans l'esprit qu'un idéal inerte et lointain, une vague direc-
 tion desonge plus ou moins paresseux , bref un schéma statique
 
-[p. 127]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 127] LES PHASES DE L'IMAGINATION CRÉATRICE
 127
 
 et non dynamique : il lui manque et la précision d'attitude
@@ -4707,9 +4367,7 @@ d'art, de science ou de vie pratique,- sans doute elle com- [^p127-1]
 
 [^p127-1]: Cf. BERGSON, Matière et Mémoire, chap. 1, p. 14-17 . - C'est comme un« système nerveux » d'ordre spirituel que l'inventeur s'est constitué par laculture préalable et comme une œuvre de « perception supra-sensible>>> qu'il accomplit ensuite.
 
-[p. 128]
-
-porteune part de mécanisme qu'on peut acquérir discursive-
+[p. 128] porteune part de mécanisme qu'on peut acquérir discursive-
 ment. Toutefois, il est essentiel d'en obtenir une concentration
 intuitive, car tout revient en fin de compte à percevoir une
 finalité. Pour quoi est nécessaire, est seule efficace la genèse
@@ -4741,9 +4399,7 @@ témoignent les moindres faits de la plus banale expérience. Les
 professeurs , par exemple, savent bienqu'on peut enseigner un
 certain art de résoudre les problèmes : art de définir chaque
 
-[p. 129]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 129] LES PHASES DE L'IMAGINATION CRÉATRICE
 129
 
 fois l'endroit exact où se rencontre le nœud de la difficulté,
@@ -4778,11 +4434,7 @@ correspondant pour chacun à sa propre nature d'esprit, de vo-
 cation : rien de mieux ni de plus sage, - pourvu qu'onn'ou
 
 II
-9
-
-[p. 130]
-
-blie pas le rapport de cette vocation elle-même et de cette
+9 [p. 130] blie pas le rapport de cette vocation elle-même et de cette
 nature au travail préparatoire dont elles représentent le fruit.
 Après l'œuvre de culture profonde qui fait l'âme et sa ri-
 chesse de sentiment ou de pensée, œuvre principale accomplie
@@ -4817,11 +4469,7 @@ teurs .
 Enfin,
 ultime remarque, de même portée, de signification
 comment compose-t-on , fût-ce pour soi
-analogue toujours ,
-
-[p. 131]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+analogue toujours , [p. 131] LES PHASES DE L'IMAGINATION CRÉATRICE
 131
 
 seul et avant toute parole adressée au dehors , le discours qui
@@ -4853,11 +4501,7 @@ la fois, de sorte que l'œuvre entière avance de front comme un
 êtrevivant qui grandit.En quellemesure elle y est parvenue, on
 le reconnaît au type d'organisation que possède le résultat final .
 Certains livres laissent voir qu'ils ont été faitsà coups de fiches,
-par assemblagedepièces distinctes, de morceaux élémentaires :
-
-[p. 132]
-
-leur composition est du type annelé . D'autres, déjà moins
+par assemblagedepièces distinctes, de morceaux élémentaires : [p. 132] leur composition est du type annelé . D'autres, déjà moins
 médiocres et parfois même d'une belle structure, accusent un
 équilibre de symétries architecturales, ou un rythme de pas
 dans une ascension dialectique , ou l'allure de fleuve d'un récit,
@@ -4887,9 +4531,7 @@ Avec cette remarque, s'achève ce que nous sommes en état
 
 [^p132-1]: Ainsi de VICTOR HUGO, Choses du soir, dans l'Art d'étre grand-père.- LA FONTAINE fournirait également des exemples classiques.
 
-[p. 133]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 133] LES PHASES DE L'IMAGINATION CRÉATRICE
 133
 
 ~
@@ -4923,11 +4565,7 @@ nie » ; et c'est alors sans hésitation ni délais appréciables que
 l'étincelle jaillit, que s'opère la synthèse. Mais cette soudaineté
 n'est souvent aussi qu'apparente. Car, d'ordinaire, le coup de
 génie contracte une immense duréeenun bref instant et, dans
-sa brusque illumination, l'analyse retrouve une longue histoire
-
-[p. 134]
-
-que d'autres cas nous montrentplus explicitement délayée à tra-
+sa brusque illumination, l'analyse retrouve une longue histoire [p. 134] que d'autres cas nous montrentplus explicitement délayée à tra-
 vers toute une époque parfois ou même une série d'époques
 successives. Ici et là, d'ailleurs, le procès demeure au fond tou-
 jours analogue : il n'y a de différence que dans la tension du
@@ -4954,9 +4592,7 @@ solu magistralement par M. Bergson en quelques lignes de son
 [^p134-1]: C'est à quoi tend l'organisation sociale de la culture et de la recher- che : constitution d'un milieu, d'un esprit, devenant une manière d'inven- teur collectif.
 [^p134-2]: En parlant alors de dilution, on doit cependant ne pas oublier que, même au cours du mouvement évolutif, il y a d'une part des crises de mutation et d'autre part des individus exceptionnels ayant valeur « noosphé- rique ». Cf. mon livre sur Les origines humaines et l'évolution de l'intel- ligence (Boivin, 1928) .
 
-[p. 135]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 135] LES PHASES DE L'IMAGINATION CRÉATRICE
 135
 
 mémoire sur L'effort intellectuel. Rien ici que de très simple.
@@ -4988,11 +4624,7 @@ vre plus longuement de plus diverses conséquences, enfin à ne
 retenir comme dignes d'attention que les schémas susceptibles
 de tels prolongements, mais pour ceux-ci à ne pas les clore
 trop tôt ni les borner trop vite.
-Quoi qu'il en soit, voici maintenant (du moins en gros) le
-
-[p. 136]
-
-mécanisme du phénomène [^p136-1] . Le schéma, exigence de déve-
+Quoi qu'il en soit, voici maintenant (du moins en gros) le [p. 136] mécanisme du phénomène [^p136-1] . Le schéma, exigence de déve-
 loppement, suscite l'apparition d'images (ou de concepts) pour
 prendre corps, s'actualiser, se remplir de substance concrète,
 s'étoffer en se complétant et précisant. Il les cherche d'abord
@@ -5026,9 +4658,7 @@ sans cesse en éveil, sous la dictée d'un « goût >> non moins pré-
 
 [^p136-1]: On notera d'étroites ressemblances avec le travail de la vie dans la genèse des espèces. J'ai montré ailleurs la possibilité de traduire l'une par l'autre théorie de l'évolution et théorie de l'invention.
 
-[p. 137]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 137] LES PHASES DE L'IMAGINATION CRÉATRICE
 137
 
 cieux au savant qu'à l'artiste. Certaines images sont absorbées ,
@@ -5062,9 +4692,7 @@ la logique dans l'invention comme il y a du mécanisme dans
 
 (1)Psychologie de l'invention, livre II.
 
-[p. 138]
-
-la vie. Sans doute, on ne saurait définir aucun art qui donne à
+[p. 138] la vie. Sans doute, on ne saurait définir aucun art qui donne à
 coup sûr des idées fécondes. Mais, par contre, il en est un de
 se mettre dans un état favorable. Et puis l'inventeur authentique
 réalise et vérifie, jusqu'à un certain point, à mesure qu'il
@@ -5100,9 +4728,7 @@ chercher un corps etqui peut le trouver sous mille formes dif-
 
 [^p138-1]: Cf. PAUL VALÉRY, Bulletin de la Société française de Philosophie, séance du 28 janvier 1928.
 
-[p. 139]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 139] LES PHASES DE L'IMAGINATION CRÉATRICE
 139
 
 férentes , en desvoies de représentation et de pensée très diverses ,
@@ -5140,9 +4766,7 @@ térieurs du savoir, on s'efforce de reconnaître si elle est vraiment
 
 -
 
-[p. 140]
-
-prégnante et quelles voies d'enquête ont chance d'être fécondes
+[p. 140] prégnante et quelles voies d'enquête ont chance d'être fécondes
 en ce qui la concerne. Du raisonnement, pour s'assurer qu'il
 vaut la peine d'être suivi, on trace un schéma probable et on
 s'applique à prévoir les principaux tournants, les crises ma-
@@ -5173,9 +4797,7 @@ méthode ( 1) . Essentiely est le rôle de la logique : rôle d'expli- [^p140-1]
 
 [^p140-1]: Voir sur ce point : J. PICARD, Essai sur les conditions positives de l'in
 
-[p. 141]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 141] LES PHASES DE L'IMAGINATION CRÉATRICE
 141
 
 citationqui assure lebon rendement des hypothèses. Tirer de
@@ -5210,9 +4832,7 @@ vention dans les sciences et Essai sur la logique de l'invention dans les scienc
 Alcan, 1928,
 deux volumes où sont réunis beaucoup d'exemples.
 
-[p. 142]
-
-Cette rumination ne doit pas se confiner dans les sphères de
+[p. 142] Cette rumination ne doit pas se confiner dans les sphères de
 l'intelligence pure. Il fautqu'elle ressemble psychologiquement
 à l'oraison telle que la préconisent les maîtres de la vie inté-
 rieure, à une oraison fervente et cordiale, non abstraite ni dia-
@@ -5243,9 +4863,7 @@ tend pour son propre compte à s'épanouir en gerbe, se nouent
 donc en plusieurs directions des rapports de tangences parfois
 fécondantes . Plus ces rivaux viennent de loin l'un vers l'autre
 
-[p. 143]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 143] LES PHASES DE L'IMAGINATION CRÉATRICE
 143
 
 et plus, d'ordinaire, s'ils s'accordent, leur conjugaison sera
@@ -5287,9 +4905,7 @@ nologique d'un de ces éléments sur l'autre. Souvent le schéma
 
 [^p143-1]: Un bon exemple, en Mathématique, est celui de Poincaré dans ses travaux sur les fonctions fuchsiennes, où l'on voit concourir des schémas empruntés à l'Analyse, à l'Arithmétique, à laGéométrie (ScienceetMéthode, р. 50-53). - En Physique, on pourrait citer la découverte de l'analyse spectrale qui rapproche Astronomie et Chimie. L'œuvre de Pasteur se laisse interpréter de même. -Enfin, pour revenir à la Poésie, les plus belles images sont d'ordinaire celles qui réunissent des termes très éloignés. -
 
-[p. 144]
-
-plir. Parfois il ne reste plus rien du schéma primitif dans
+[p. 144] plir. Parfois il ne reste plus rien du schéma primitif dans
 l'image définitive » [^p144-1] . Il y a ainsi de l'aventure dans le dé-
 veloppement d'une invention. On était parti pour trouver quel-
 que chose ; et c'est autre chose qu'on trouve. L'esprit de radi-
@@ -5320,9 +4936,7 @@ que de la forme et de la matière. Le schéma varie de période
 [^p144-1]: BERGSON, L'énergie spirituelle, p. 187 .
 [^p144-2]: BERGSON, loc . cit . , p. 187-188 .
 
-[p. 145]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 145] LES PHASES DE L'IMAGINATION CRÉATRICE
 145
 
 à période ; mais dans chacune des périodes il reste relative-
@@ -5359,11 +4973,7 @@ tenir pendant cette suprême phase du travail d'imagination
 créatrice : la phase de vérification. Mais auparavant, pour
 achever l'examen des phases primordiales , de celles qui repré- [^p145-1]
 
-[^p145-1]: BERGSON, loc. cit., p. 193-194. 11 10
-
-[p. 146]
-
-sentent l'œuvre d'invention proprement dite, il reste quelques
+[^p145-1]: BERGSON, loc. cit., p. 193-194. 11 10 [p. 146] sentent l'œuvre d'invention proprement dite, il reste quelques
 remarques encore à présenter sur ladisciplinede la trouvaille
 elle-même, sur la manière dont l'inventeur, avant la critique
 finale, doit conduire son effort.
@@ -5394,9 +5004,7 @@ même !- il se sertcommed'un bienpropre ; il se contented'en
 
 (1)De quoi Pasteur a donné magnifiquement le précepte et le modèle.
 
-[p. 147]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 147] LES PHASES DE L'IMAGINATION CRÉATRICE
 147
 
 jouer etd'en jouir; il ne larespecte guère, n'a pas foi en elle, ne
@@ -5431,11 +5039,7 @@ que moyen d'avoir avec elles ce contact durable qui seul est
 fécondant. Non qu'il faille, à l'inverse, mépriser les enseigne-
 ments de la tradition : car le danger serait alors de se prendre
 au mirage de quelque hallucination purement subjective. Il faut
-donc savoir également s'ouvrir aux plus divers systèmes, cul-
-
-[p. 148]
-
-tiver tour à tour en toute sincérité de ferveur chaque forme
+donc savoir également s'ouvrir aux plus divers systèmes, cul-[p. 148]tiver tour à tour en toute sincérité de ferveur chaque forme
 de la pensée ou de l'expérience, ne pas craindre même la cré-
 dulité provisoire qui ferme pour un temps au doute. L'inven-
 teur échappera aux périls d'une telle attitude, s'il demeure fi-
@@ -5467,9 +5071,7 @@ je ne sais quelle exquise et délicate
 sensualité . Sensualité d'autant plus profonde, enivrante et ruis-
 selante, et donc d'autant plus suggestive et motrice, qu'elle
 
-[p. 149]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 149] LES PHASES DE L'IMAGINATION CRÉATRICE
 149
 
 reçoit moins de satisfactions matérielles , « comme si, par une
@@ -5503,9 +5105,7 @@ question. Mais parler seulement de sensualité serait dire beau- [^p149-1]
 
 [^p149-1]: WILBOIS, Revue de Métaphysique et de Morale, septembre 1901 , p. 608.
 
-[p. 150]
-
--
+[p. 150] -
 
 coup trop peu : parlons en général et mieux de sensibilité.
 On ne saurait exagérer l'importance de ce facteur affectif. De
@@ -5540,9 +5140,7 @@ vue du psychologue. On a défini la génération physiologique
 france régnant à la surface de l'âme ou dans ses régions moyennes de dis-
 cours et d'action .
 
-[p. 151]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 151] LES PHASES DE L'IMAGINATION CRÉATRICE
 151
 
 pour la génération psychique appelée invention. Aussi con-
@@ -5574,11 +5172,7 @@ unpeu ses frontières habituelles ; et ce phénomène d'hyperes-
 thésie marque la découverte même .
 Tout cet effort vital, tout cejeu d'émotions et d'ardeurs est
 du reste le plus souvent orienté par l'aptitude spéciale due à
-l'entraînement préparatoire. Devenir semblable à un résona
-
-[p. 152]
-
-teur très sensible dans un certain ordre de perception et de
+l'entraînement préparatoire. Devenir semblable à un résona [p. 152] teur très sensible dans un certain ordre de perception et de
 pensée, voilà ce qu'il faut; et le travaild'apprentissage produit
 précisément cet effet de sensibilisation . Aussi l'inventeur est-il
 d'ordinaire comme polarisé : il ne vibre que dans une direc-
@@ -5596,9 +5190,7 @@ primatde « faculté inaîtresse » ( 1 ) . [^p152-1]
 
 [^p152-1]: Il y a ici, pour l'inventeur, deux conditions à remplir, qui, à bien des égards, se contrarient : condition de richesse et condition de pureté. L'idéal est une conciliation. Comment y atteindre ? On peut dire que, lorsqu'elle se réalise heureusement, tout se passe (ou doit se passer) comme dans les cas où deux types hétérogènes de moyens artistiques s'associent : musique et poésie, par exemple. Ce sont là deux arts complets dont chacun se suffit et qui, joints ensemble, risquent de se gener mutuellement, la musique empêchant d'entendre la poésie ou la poésie ne faisant que répéterce que ditdéjà la musique. La solution est que l'un des deux arts se fasse le très simple et discret serviteur de l'autre : l'air de flûte qui soutenait la voix de l'orateur antique ou l'accompagnement de vagues et flottantes paroles précisant à peine la mélodie associée que permettent certaines pièces de Verlaine. De beaux vers n'admettent pas qu'on leur ajoute un chant musi- cal explicite ; seule estpossible autourd'eux une sorte de mélopée en sour- dine. Il semble pareillement que de belle musique soit incompatible avec des vers d'une facture trop expressive. J'en dirais presque autant, à l'inté- rieurmême de la poésie, des rapports entre son et sens ou biendu concours de deux techniques, celle des vers qui se couronnent de rimes ou celle des
 
-[p. 153]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 153] LES PHASES DE L'IMAGINATION CRÉATRICE
 153
 
 Il est, dans chaque département del'esprit, un art particulier
@@ -5635,9 +5227,7 @@ rimes qui sedilatent en vers. Ettout cela, queje me borneà signaler d'un
 mot, onle transposera facilement au cas de l'invention en général.
 ( 1 ) Revue scientifique, t. XV, p. 650.
 
-[p. 154]
-
-réalité agissante, mais incarner parmi elles une idée devenue
+[p. 154] réalité agissante, mais incarner parmi elles une idée devenue
 force créatrice efficace. Comment pourrait-onne pas songer ici
 aux confessions des mystiques P
 Me voilà donc revenu encore une fois à l'exemple des spiri-
@@ -5668,9 +5258,7 @@ sable , mais d'habitude au sein d'une pénombre, sinon d'une
 complète nuit, de supra-conscience. Il se révèle toutefois par
 éclairs ; et l'âme vit alors le secret merveilleux de sa vraie
 
-[p. 155]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 155] LES PHASES DE L'IMAGINATION CRÉATRICE
 155
 
 nature, dans unmomentd'union illuminante où elle se perçoit
@@ -5702,11 +5290,7 @@ cumuler des connaissances que d'acquérir un esprit et de con-
 tracterdes habitudes libératrices, moins de s'accroître en éten-
 due que de s'intensifier en profondeur, moins de lire une foule
 de livres que de beaucoup lire ceux qu'on lit, se nourrissant
-de chaque parcelle, y appliquant son âme entière et s'efforçant
-
-[p. 156]
-
-de tourner toute suggestion en bien. Quant à la conduite même
+de chaque parcelle, y appliquant son âme entière et s'efforçant [p. 156] de tourner toute suggestion en bien. Quant à la conduite même
 du travail, une succession alternée d'attitudes et de démarches
 contraires
 : tantôt se fâcher contre soi-même et se tendre éner-
@@ -5749,9 +5333,7 @@ suelle, que détermine le premier contact avec l'activité pro-
 fonde. En face des énergies éveillées , et d'autant qu'elles sont
 plus intenses, un devoir de sublimation s'impose .
 
-[p. 157]
-
-LES PHASES DE L'IMAGINATION CRÉATRICE
+[p. 157] LES PHASES DE L'IMAGINATION CRÉATRICE
 167
 
 Dans cette perspective, une règle est tout de suite évidente :
@@ -5786,9 +5368,7 @@ cice de ses pouvoirs sensibles . [^p157-1]
 
 [^p157-1]: Du fondement de l'induction, p. 83 .
 
-[p. 158]
-
-Toutefois , - ai-jebesoin de le dire ?-l'esthétique ne suffit
+[p. 158] Toutefois , - ai-jebesoin de le dire ?-l'esthétique ne suffit
 pas, de beaucoup s'en faut. C'est, malgré tout, une règle trop
 vague, trop changeante. Je n'en ai dit un mot que pour signaler
 un facteur qui n'est point négligeable et pour n'avoir plus à y
@@ -5805,9 +5385,7 @@ ainsi dans son époque suprême l'œuvre de pensée intuitive, la
 véritable réponse apparaîtra aux questions encore pendantes ,
 une réponse d'ordre intellectuel et moral tout ensemble.
 
-[p. 159]
-
-CHAPITRE III
+[p. 159] CHAPITRE III
 
 De la vérification
 
@@ -5835,11 +5413,7 @@ concevoir la vérité, et même consiste au moins partiellement
 enune telle transformation. D'où résulte que, pour ceux qui
 ne se rendent pas un compte exact de la transposition effec-
 tuée, pour ceux qui s'en tiennent donc à l'ancien concept
-comme au seul qui soit àjamais légitime, le système nouveau
-
-[p. 160]
-
-paraît ne pas croire à la vérité, paraît tendre àdissoudre l'idée
+comme au seul qui soit àjamais légitime, le système nouveau [p. 160] paraît ne pas croire à la vérité, paraît tendre àdissoudre l'idée
 même de vérité. Et c'est précisément par ce qu'il renferme de
 plus positif aux yeux des uns qu'il semble aux yeux des au-
 tres négatif et destructeur. Il est si communde confondre idée
@@ -5869,11 +5443,7 @@ intenses ; bref, d'ébranler, de ruiner toute règle, toute preuve ,
 toute hiérarchie, tout étalon de valeur. Quoi de plus naturel
 que ce reproche ? Inventer intuitivement, c'est toujours accom-
 plir une sorte de révolution qui ne saurait aller sans troubles .
-Mais il est nécessaire que l'ordre et le calme finissent par se
-
-[p. 161]
-
-rétablir. Le problème de la vérité se pose donc en fin decompte
+Mais il est nécessaire que l'ordre et le calme finissent par se [p. 161] rétablir. Le problème de la vérité se pose donc en fin decompte
 inéluctablement, et avec une particulière urgence dans notre
 perspective, devant l'inventeur.
 Nous avons ici à envisager le sujetd'un pointde vue critique
@@ -5905,11 +5475,7 @@ d'invention, il faut savoir juger le résultat. D'où la nécessité
 de réfléchir au caractère et à l'exigence de l'idéal pressenti
 
 II
-11
-
-[p. 162]
-
-sous les noms de certitude et de vérité. Ce nesont point làdes
+11 [p. 162] sous les noms de certitude et de vérité. Ce nesont point làdes
 idées si simples , si transparentes ,qu'on en pénètre d'un seul re-
 gard la signification profonde,qu'elles n'appellent aucun éclair-
 cissement, qu'il n'y ait lieu de se poserà leur sujet aucun pro-
@@ -5941,9 +5507,7 @@ dant trouver comme preuve ? C'est en pareil cas surtoutque le
 problème se dresse avec une impérieuse urgence devant l'inven-
 teur. Pour le résoudre, nous allons d'abord essayer de voir en
 
-[p. 163]
-
-DE LA VÉRIFICATION
+[p. 163] DE LA VÉRIFICATION
 163
 
 général, autant que celaest possible, comment se développe et
@@ -5977,11 +5541,7 @@ Est-ce une limite infranchissable imposée à nos changements
 d'attitudes et d'hypothèses, ou n'est-ce qu'une impuissance acci-
 dentelle à imaginer actuellement autre chose ?
 Telle est la secondeface que présente le problème de la certi-
-tude : la question de droit après la question de fait. Pouvons
-
-[p. 164]
-
-nous
+tude : la question de droit après la question de fait. Pouvons [p. 164] nous
 être légitimement certains ? Y a-t-il des cas où nous
 soyons en mesure d'affirmer sans restrictions ni réserves , sans
 risque plus ou moinsvaguement pressenti d'avoir jamais à re-
@@ -6013,11 +5573,7 @@ de la conscience immédiate .
 Oui , tout cela est possible, comme l'est aussi la conduite
 opposée, la conduite généreuse et droite ; et c'est pourquoi
 nous sommes responsables de ce que nous pensons , responsa-
-bles même en un sens de voir ou de ne voir point. En toute
-
-[p. 165]
-
-rigueur, je le répète, le scepticismene se réfute pas, puisqu'il
+bles même en un sens de voir ou de ne voir point. En toute [p. 165] rigueur, je le répète, le scepticismene se réfute pas, puisqu'il
 faut déjà n'être plus sceptique pour être touché par la réfuta-
 tion. Mais, possible par éclairs etdans une sorte de jeu, le scep-
 ticisme reste une attitude insoutenable, quine saurait être sérieu-
@@ -6048,11 +5604,7 @@ certain idéal de preuve et de vérité, qu'il juge ensuite inacces-
 sible, ou du moins non atteint, dans chacun des cas offerts à
 sa critique ? Pour dire que tout est erreur fatale ou insoluble
 problème, il faut d'abord que le sceptique avoue fondés et va-
-lables quelque type d'évidence, quelque modèle de démonstra
-
-[p. 166]
-
-tion, quelque principe de jugement. Une affirmation règne donc
+lables quelque type d'évidence, quelque modèle de démonstra [p. 166] tion, quelque principe de jugement. Une affirmation règne donc
 sourdement en lui, que cela seul doit être dit vrai et certain
 qui répond à telles et telles conditions. Et d'ailleurs une autre
 affirmation implicite accompagne la première, que la vérité
@@ -6082,14 +5634,10 @@ jour répétée de ce choix. En notre siècle de science victorieuse ,
 les doctrines de doute universel ne peuvent plus être que des
 curiosités archéologiques. Il ne reste qu'à voirjusqu'où s'étend
 le droit de conclure .
-Alors voici précisément la question qui se pose : dans quels
-
-[p. 167]
-
-cas et de quelle manière parvenons-nous à la certitude authen-
+Alors voici précisément la question qui se pose : dans quels [p. 167] cas et de quelle manière parvenons-nous à la certitude authen-
 tique et affirmons-nous sans réserve ni déception qu'elle est signe
 de vérité ? Cette formule d'énoncé implique le principe de la
-méthode à suivre : non pointpartir d'une définition a priori de
+méthode à suivre : non pointpartir d'une définition *a priori* de
 la vérité pour se demander ensuite si la vérité est accessible
 ou non, mais au contraire définir la notion de vérité d'après les
 cas de certitude que l'expérience de la vie nous présente.
@@ -6117,11 +5665,7 @@ le vrai problème,qui porte non sur l'existence, mais sur la sta-
 bilité de la certitude .
 
 Il semble tout d'abord inévitable de répondre par la négative
-et de donner ainsi raison au scepticisme. En effet, si quelque
-
-[p. 168]
-
-chose est bien établi par l'expérience de l'histoire, c'est qu'il
+et de donner ainsi raison au scepticisme. En effet, si quelque [p. 168] chose est bien établi par l'expérience de l'histoire, c'est qu'il
 n'existe aucun réactif mécanique et infaillible du vrai, aucun
 signal qui se déclenche automatiquement quand le chercheur a
 mis dans la cible. Nulle autorité extérieure, de quelque nature
@@ -6150,11 +5694,7 @@ dans l'instantané ce qui appartient à l'ordre de la durée, re-
 vient donc à nier celle- ci au moment même où on lapose, où
 on en affirme l'influence éventuelle en se demandant ce qu'elle
 peut produire , ce qu'elle peut apporter en nous de change-
-ments imprévus et imprévisibles . Prétendre conclure à la sta
-
-[p. 169]
-
-bilité nécessaired'une certitude, c'est vouloir faire tenir la du-
+ments imprévus et imprévisibles . Prétendre conclure à la sta [p. 169] bilité nécessaired'une certitude, c'est vouloir faire tenir la du-
 rée totale de la pensée dans un unique instant, une mobilité
 dans un éclair .
 
@@ -6185,11 +5725,7 @@ quelle tentative de s'élever au dessus du temps, jusqu'à une
 damnée d'avance : car nous et nos œuvres appartenons inévi-
 tablement au monde mobile de la durée .
 
-La difficulté est réelle. On aurait tort cependantde la juger
-
-[p. 170]
-
-invincible. Seulement, pour la vaincre, une certaine attitude
+La difficulté est réelle. On aurait tort cependantde la juger [p. 170] invincible. Seulement, pour la vaincre, une certaine attitude
 est requise d'abord. Nous ne devons pas attendre passivement
 que la vérité, faisant seule tous les frais, vienne toute faite à
 nous avec un éclat souverain ; nous avons , au contraire, à mar-
@@ -6220,11 +5756,7 @@ autre explication le sentiment de l'évidence. Un tel critère
 serait à la fois trop peu déterminé et trop peu déterminant.
 Son
 application exige l'emploi d'autres
-critères qui per
-
-[p. 171]
-
-mettent la différenciation des cas et précisent les modalités .
+critères qui per [p. 171] mettent la différenciation des cas et précisent les modalités .
 Ce n'est point assez de se résoudre à ne recevoir pour vrai
 que ce que l'on voit clairement être tel, si l'on ne dit point
 aussi quelle
@@ -6262,9 +5794,7 @@ spéculation idéologique, en dehors de toute pratique effective .
 
 ( 1) Premier volume, p . 145-147. - Cf. p . 177-179 .
 
-[p. 172]
-
-Pourtant que dirait-ond'un maître qui voudrait enseigner n'im-
+[p. 172] Pourtant que dirait-ond'un maître qui voudrait enseigner n'im-
 porte quel art parle seul moyen du discours ? La situation reste
 analogue, malgré les différences d'objet et de but, même dans
 la science positive, même en mathématique ou en physique. Il
@@ -6293,11 +5823,7 @@ uniformes , tandis que l'évidence et la vérité sont choses
 essentiellement nuancées et particulières, qui valent sur-
 tout par leur adaptation à telle ou telle difficulté, par leur
 ajustement à telle ou telle phase de recherche. Il faut admet-
-tre que nulle méthode n'est suffisante universellement, que
-
-[p. 173]
-
-toutequestion ne relève pas des mêmes principes ni je dirais
+tre que nulle méthode n'est suffisante universellement, que [p. 173] toutequestion ne relève pas des mêmes principes ni je dirais
 presque de la même logique ( 1). Ne soyons point exclusifs
 comme des partisans ; rien qui sente la secte ou l'école : car
 
@@ -6328,9 +5854,7 @@ ambition encyclopédique. Mais une généralisation quelconque [^p173-1]
 
 [^p173-1]: Il y aurait lieu de distinguer entre logique des choses et logique des progrès, logique des faits et logique des principes, logique du savoir et lo- gique du vouloir. Cf. O. LEMARIÉ, Esquisse d'une philosophie (Alcan, 1927). -
 
-[p. 174]
-
-ne peut jamais être tenue que pour une esquisse hypothétique ,
+[p. 174] ne peut jamais être tenue que pour une esquisse hypothétique ,
 un projet provisoire à soumettre au contrôle de l'expérience ;
 elle n'a de valeur qu'autant qu'elle exprime des souvenirs ou
 des prévisions de gestes expérimentaux, que dans la mesure où
@@ -6362,9 +5886,7 @@ tueusementinvoqué la « Raison », je ne sais quelle raison sché- [^p174-1]
 
 [^p174-1]: A l'intérieur d'une même science, d'un chapitre à l'autre , s'ils font in- tervenir des ordres de grandeur différents, on observe déjà une circonstance analogue. Exemple: physique et microphysique.
 
-[p. 175]
-
-matique, indifférente aux circonstances, aux modalités, sus-
+[p. 175] matique, indifférente aux circonstances, aux modalités, sus-
 penduedans le vide au dessus des applications particulières et
 donnant la même réponse lointaine aux questions les plus va-
 riées, véritable clef magique qui ouvrirait toutes les portes de
@@ -6393,11 +5915,7 @@ Inversement l'épreuve de durée peut aussi parfois dissoudre des
 mation, dès lors, qu'en proportion des crises qu'elle a surmon-
 tées. D'où le conseil de Pasteur : ne produire aucun résultat ,
 ne s'arrêter soi-même à aucune conclusion , avant d'avoir épuisé
-autant que possible toutes les manières de les combattre. A ce
-
-[p. 176]
-
-prix seulement, on obtiendra une certitude légitime. Naturel-
+autant que possible toutes les manières de les combattre. A ce [p. 176] prix seulement, on obtiendra une certitude légitime. Naturel-
 lement la chose est plus manifeste encore dans l'ordre spirituel ,
 mais elle est sensible déjà dans la science pure. Par une lente
 imprégnation, chacun de nous fait ainsi, en large mesure, les
@@ -6429,11 +5947,7 @@ mais plutôt que tout ne soit pas certain. En quoi consistentet
 commentjouent les réducteurs critiques, ces sortes de ressorts
 antagonistes qui limitent l'expansion spontanée de la croyance ?
 D'où vient que nous posions le problème de la vérité, que nous
-arrivions parfois à reconnaître la présence de l'erreur ? L'énoncé
-
-[p. 177]
-
-classique doit être, on le voit, retourné. Pour nous, une idée
+arrivions parfois à reconnaître la présence de l'erreur ? L'énoncé [p. 177] classique doit être, on le voit, retourné. Pour nous, une idée
 vraie se définit pratiquement comme une idée non fausse, que
 nulle autre idée ne tient en échec, qui a subi victorieusement
 l'épreuve de la critique et a résisté à l'action dissolvante des
@@ -6465,11 +5979,7 @@ finesse qu'à l'esprit de géométrie, nous ne cherchons plus à
 procéder exclusivement par suites linéaires de théorèmes rigou
 
 II
-12
-
-[p. 178]
-
-reusement déduits. D'autre part, le critère du faita perdu à nos
+12 [p. 178] reusement déduits. D'autre part, le critère du faita perdu à nos
 yeux la simplicité brutale que lui attribuait l'empirisme clas-
 sique. Non que ses partisans soient désormais sans raisons no-
 tables à faire valoir. Ils sentent avec force-etqui les enblâme-
@@ -6501,11 +6011,7 @@ risme classique, est pure chimère sans consistance ni valeur.
 Sous cette forme donc, aussi bien que sous la précédente, une
 conception unilatérale de la vérification s'accuse désormais
 caduque.
-Bref, la vérité nous paraît aujourd'hui un idéal plus com
-
-[p. 179]
-
-plexe et plus difficilement accessible qu'on nel'imaginait jadis.
+Bref, la vérité nous paraît aujourd'hui un idéal plus com [p. 179] plexe et plus difficilement accessible qu'on nel'imaginait jadis.
 Nous la voyons plutôt commeune convergence d'approxima-
 tions, comme une lointaine intersection de probabilités con-
 courantes . Elle nous semble résider dans la cohésion et le mou-
@@ -6538,9 +6044,7 @@ tique vérifiante supposent encore leplus souvent initiative de [^p179-1]
 
 [^p179-1]: Ou du moins, si alors on parle d'état, il faut l'entendre au sens que Bérulle donnait à ce mot en lui faisantdésigner un momentde conscience qui est activité encore, mais activité devenue intuitive.
 
-[p. 180]
-
-génie, trouvaille d'idées neuves. Pas de coupure absolue
+[p. 180] génie, trouvaille d'idées neuves. Pas de coupure absolue
 entre les deux phases du travail : au contraire, l'intuition fé-
 conde est précisément celle qui a souci de se vérifier, au moins
 par étapes , à mesure qu'elle progresse. Or, de ce point de vue,
@@ -6572,9 +6076,7 @@ vifiant celui-là .
 
 Lesens commun appelle vraie toute idée conforme à la chose
 
-[p. 181]
-
-DE LA VÉRIFICATION
+[p. 181] DE LA VÉRIFICATION
 181
 
 qu'elle représente. Le vrai, de ce point de vue réaliste, c'est
@@ -6608,9 +6110,7 @@ encore le jugement vécu à titre d'intuition opératoire [^p181-2] . De [^p181-
 [^p181-1]: Encore verrons-nous bientôt que ce dernier cas diffère déjà quelque peu des précédents .
 [^p181-2]: Voir le premier volume, p. 69-71 .
 
-[p. 182]
-
-là, dès qu'on dépasse les étapes intermédiaires du savoir, la
+[p. 182] là, dès qu'on dépasse les étapes intermédiaires du savoir, la
 nécessité qui s'impose de ne pas s'en tenir à la conception
 commune de la vérité .
 Au surplus , cette conception semble très simple ; mais, en
@@ -6641,13 +6141,9 @@ conque, ne fût-ce qu'à titre problématique et pour le déclarer
 inconnaissable, ce je ne sais quoi qui serait posé par hypothèse
 comme existence extérieure et antérieure à toute pensée . La
 <<< chose absolue >>>>
-reste radicalement impensable : un pur
-
-[p. 183]
-
-néant. Ainsi la conception commune de la vérité, valable re-
+reste radicalement impensable : un pur [p. 183] néant. Ainsi la conception commune de la vérité, valable re-
 lativement et momentanément, ne saurait du moins se suffire .
-Laissons toutefois de côté ces considérations a priori. La dé-
+Laissons toutefois de côté ces considérations *a priori*. La dé-
 finition discutée, lorsqu'on la met en usage, conduit à procla-
 mer le critère du fait : examinons-la sous ce biais . Par cet exa-
 men, c'està l'observation des sciences elles-mêmes , telles qu'elles
@@ -6675,9 +6171,7 @@ se constitue sans l'autre, l'ajustement est réciproque et ne peut [^p183-1]
 
 [^p183-1]: On trouvera un résumé de la discussion dans deux de mes récents ouvrages : Les origines humaines et l'évolution de l'intelligence (Boivin, 1928) , p. 63-67; Le problème de Dieu ( L'Artisan du Livre, 1929),p. 244 et suiv.
 
-[p. 184]
-
-être comparé à celui d'un portrait au modèle. La vérification
+[p. 184] être comparé à celui d'un portrait au modèle. La vérification
 expérimentale d'une théorie est tout autre chose qu'une correc-
 tion d'épreuves. La genèse même des faits discriminateurs doit
 être vérifiée, de sorte qu'un second critère s'accuse indispen-
@@ -6711,9 +6205,7 @@ senti des activités discursives devant [^p184-2]
 [^p184-1]: Rien ne le montre mieux que les innombrables travaux sur les textes bibliques.
 [^p184-2]: Chapitre 11 du premier volume.
 
-[p. 185]
-
-l'éveil d'une activité plus profonde, mais qui échappe à la cons-
+[p. 185] l'éveil d'une activité plus profonde, mais qui échappe à la cons-
 cience commune.
 Dans les cas extrêmes par conséquent, lorsque visiblement
 la penséeest seule en face de soi, et de proche en proche par-
@@ -6726,7 +6218,7 @@ l'idée qui se montre conforme aux exigences propres de l'es-
 prit. Cette définition n'invoque pas le contrôle prétendu décisif
 d'une matière extérieure, hétérogène à la pensée et qui la régi-
 rait du dehors ; mais elle présente lapensée comme un en-
-semble a priori de formes constitutives et elle déclare vrai ce
+semble *a priori* de formes constitutives et elle déclare vrai ce
 qui réussit à se logerdans ces formes .
 De la conception ainsi définie, une première modalité ne
 nous retiendra pas longtemps, parce que l'insuffisance en est
@@ -6743,11 +6235,7 @@ D'abord, et en tout cas, un tel critère ne garantit que le
 possible, non le réel. Valable en mathématique pure, làoù les
 théorèmes n'expriment que des nécessités hypothétiques, des
 conséquences de suppositions, les autres sciences ne sauraient
-s'en contenter . L'idéal d'une mathématique universelle est au
-
-[p. 186]
-
-jourd'hui périmé définitivement. Nous ne sommes plus si sim-
+s'en contenter . L'idéal d'une mathématique universelle est au [p. 186] jourd'hui périmé définitivement. Nous ne sommes plus si sim-
 plistes ; nous savons que la rigueur mathématique, avec ses
 procédés de construction et d'analyse déductive, suppose qu'on
 étudie seulement l'activité opératoire de l'esprit. Au reste, en
@@ -6777,9 +6265,7 @@ possibles et, depuis, se sont faites ! Notez que les démonstra- [^p186-1]
 [^p186-1]: Ainsi dans la théorie des ensembles .
 [^p186-2]: Comme exemple, on peut citer le théorème de Weierstrass disant que les seuls nombres complexes qui puissent obéir à toutes les lois ordinaires du calcul sont les imaginaires classiques.
 
-[p. 187]
-
-tions n'étaient pas intrinsèquement vicieuses ; mais elles
+[p. 187] tions n'étaient pas intrinsèquement vicieuses ; mais elles
 n'avaient pas prévu, elles ne pouvaient prévoir certains chan-
 gements de perspective ou de condition. Et de même dans la
 théorie,jusqu'en pure analyse : que de contradictions révélées ,
@@ -6815,16 +6301,12 @@ tères que ceuxde la logique formelle. Quand il s'agit de nou-
 veautés véritables , irréductibles, on ne les voit tout à fait tran-
 quilles, tout à fait sûrs de leursthèses, que s'ils possèdent plu-
 sieurs démonstrations concourantes, si l'accord s'établit entre
-des penseurs nombreux venant au même centre par des che
-
-[p. 188]
-
-mins différents , si le résultat résiste à l'épreuve de mise en ser-
+des penseurs nombreux venant au même centre par des che [p. 188] mins différents , si le résultat résiste à l'épreuve de mise en ser-
 vice, enfin s'il est fécond, générateur de lumière, et puise, dans
 les difficultés mêmes qu'il suscite ou rencontre, des occasions
 de s'affirmer davantage et de se développer. On accordera sans
 doute aisément que, si telles sont déjà les circonstances réelles
-en mathématique, il en doit être a fortiori de même dans les
+en mathématique, il en doit être *a fortiori* de même dans les
 autres sciences et partout ailleurs. Ainsi l'expérience apparaît
 comme la seule démarche durablement vérifiante.
 Mais les formes logiques ne sont pas tout l'esprit. Le propre
@@ -6851,9 +6333,7 @@ matière aux formes ? Quel sera le critère du critère ? D'où
 saurons - nous jamais s'il a été correctement appliqué ? Là en-
 core le recours à l'expérience paraît indispensable .
 
-[p. 189]
-
-Et puis l'esprit n'est pas une chose définissable statiquement,
+[p. 189] Et puis l'esprit n'est pas une chose définissable statiquement,
 une immuable nature donnée une fois pour toutes. Il est
 essentiellement vie, durée, puissance de transformation et de
 progrès, en un mot activité plastique et liberté créatrice. Les
@@ -6882,11 +6362,7 @@ ception vulgaire. Suffit-elle cependant ? J'estime que non. Pas
 plus que la vérification ne peut être définie par conformité à
 la nature d'un objet qui serait chose extérieure, pas plus elle
 ne se laisse définir par conformité à je ne sais quelle nature
-absolue et immuable de l'esprit. Il faudrait pour cela qu'on
-
-[p. 190]
-
-pût attribuer à l'intelligence, en ce qu'elle a de plus haut et
+absolue et immuable de l'esprit. Il faudrait pour cela qu'on [p. 190] pût attribuer à l'intelligence, en ce qu'elle a de plus haut et
 profond, une semblable nature. Or la raison n'est pas un
 système clos de catégories définitives dont il serait possible de
 dresser à blanc une liste à jamais valable. Comment pour-
@@ -6915,12 +6391,8 @@ identité ou causalité par exemple, dont chaque application
 requiert un mode spécialement adapté.
 Bref, la raison n'est pas un tableau de jugements rendus
 d'avance, un barème, une provision d'arrêts typiques formulés
-a priori et qui constitueraient une législation virtuelle unifor-
-mément applicable. Sans doute peut-on admettre avec M. La-
-
-[p. 191]
-
-lande [^p191-1] « qu'il est possible, pour un moment et pour une
+*a priori* et qui constitueraient une législation virtuelle unifor-
+mément applicable. Sans doute peut-on admettre avec M. La-[p. 191]lande [^p191-1] « qu'il est possible, pour un moment et pour une
 société d'esprits donnés (par exemple, pour les savants et les
 philosophes du xvine siècle), d'établir un tableau de ce genre,
 donnant un contenu approximatif à cette idée de raison, et
@@ -6950,14 +6422,12 @@ grès, non pas une essence intemporelle et immuable ; et ses
 habitudes, qui lui font un corps permettant l'action précise,
 n'en exprimentjamais qu'un moment,une époque. La pensée,
 gerbe de tendances, n'est pas nature close, dont on puisse
-a priori circonscrire lacapacité dedéveloppement ; elle a des
+*a priori* circonscrire lacapacité dedéveloppement ; elle a des
 ressources virtuelles bien plus riches et diverses qu'on ne le
 
 [^p191-1]: Bulletin de la Société française de Philosophie, séancedu 24 février 1921, p. 63.
 
-[p. 192]
-
-croit d'ordinaire, capables de se renouveler et de croître au
+[p. 192] croit d'ordinaire, capables de se renouveler et de croître au
 delà de tout stade atteint ; et, avec M. Lalande, il faut admet-
 tre, supérieure à la raison constituée, une raison constituante .
 Celle-ci , enfin, n'est pas chose donnée d'avance, arrêtée dans
@@ -6995,11 +6465,7 @@ individuelle , notamment par l'ordre inverse de destruction
 morbide ou sénile .
 
 2º Preuves tirées de la sociologie . - Quelque chose d'une
-genèse, d'une histoire ou préhistoire des catégories (causalité
-
-[p. 193]
-
-ou identité , par exemple) , des formes primaires de représen-
+genèse, d'une histoire ou préhistoire des catégories (causalité [p. 193] ou identité , par exemple) , des formes primaires de représen-
 tation(espace et temps), se laisse deviner quand on observe au
 sein des « sociétés inférieures » ce qui a reçu lenom (d'ailleurs
 assez mal choisi ) de mentalité « primitive » ou « prélogique » .
@@ -7035,11 +6501,7 @@ la rupture immanquable tôt ou tard de tout systèmede prin-
 cipes et de catégories, eût-on possédé à une époque les plus
 fortes raisons de le croire définitif. Et, suivant une expression
 
-13
-
-[p. 194]
-
-de M. Brunschvicg ( 1),
+13 [p. 194] de M. Brunschvicg ( 1),
 il n'y aurait là échec véritable que
 pour une pensée paresseuse qui estimerait avoir terminé la
 campagne et pouvoir démobiliser : mais ce n'en est plus un,
@@ -7071,9 +6533,7 @@ tion alors : ce devenir, faut-il se le représenter incohérent et [^p194-1]
 
 [^p194-1]: Bulletin de la Société française de Philosophie, séance du 24 février 1921 , p . 40 .
 
-[p. 195]
-
-anarchique, purement capricieux, fortuit, arbitraire ? Impossible
+[p. 195] anarchique, purement capricieux, fortuit, arbitraire ? Impossible
 de nouveau, sous peine d'en faire le type même de l'irrationa-
 lité. Le problème de la vérification se pose donc toujours
 devant nous avec une acuité pressante, exaspéré plutôt que
@@ -7102,11 +6562,7 @@ Parmi les tendances généralissimes dont la pérennité régle-
 rait l'œuvre de vérification, sans doute faudrait-il compter
 la tendance à l'identification du divers [^p195-1]. Mais, autant que
 
-[^p195-1]: M. LALANDE a longuement et à maintes reprises développé cettevue. On en trouvera un résumé substantiel dans le Bulletin de la Sociétéfran
-
-[p. 196]
-
-tendance à l'identique, à la réduction assimilatrice, la raison
+[^p195-1]: M. LALANDE a longuement et à maintes reprises développé cettevue. On en trouvera un résumé substantiel dans le Bulletin de la Sociétéfran [p. 196] tendance à l'identique, à la réduction assimilatrice, la raison
 paraît effort d'élargissement, effort pour comprendre de mieux
 enmieux le divers comme tel, le changeant et le spécifique, le
 concret , l'individuel même ; et il le faut bien, car une recherche
@@ -7137,12 +6593,10 @@ qu'à la condition d'embrasser entière la suite infinie des étages
 çaise de Philosophie, séance du 24 février 1921, p. 63 et suivantes.
 M. Meyerson définit la « raison » , d'une manière analogue . Je ne repousse de
 la théorie que ce qu'elle a d'unilatéral, d'exclusif.
-(1) M. Lalande n'écarte cette objection ( loc. cit.) qu'en rétablissant une
+(1) M. Lalande n'écarte cette objection ( *loc. cit.*) qu'en rétablissant une
 sorte de réalisme déguisé.
 
-[p. 197]
-
-ou époques de lapensée. Autant dire qu'un recours est néces-
+[p. 197] ou époques de lapensée. Autant dire qu'un recours est néces-
 saire à l'idée de limite. Seulement, ici, attention ! La raison, je
 le répète, ne saurait être subordonnée à rien d'extérieur, ou
 plutôt d'étranger, ni son progrès borné irrémédiablement par
@@ -7173,9 +6627,7 @@ d'une époque de la pensée par rapport à une autre, celle-là
 
 [^p197-1]: Voir le premier volume, p . 137 et 203.
 
-[p. 198]
-
-comprenant celle-ci sans réciprocité. Ainsi peut être mise en
+[p. 198] comprenant celle-ci sans réciprocité. Ainsi peut être mise en
 lumière l'amorce d'une convergence. Toutefois ici, à l'inverse
 de ce qui se passe en mathématique, la suite des approxima-
 tions ne saurait être donnée par avance tout entière, inscrite
@@ -7204,11 +6656,7 @@ tion, sans qu'y suffisejamais une liste de caractères énonçables
 d'avance une fois pour toutes .
 Sous quels traits se présente alors pratiquement l'œuvre de
 vérification ? Deux ou trois points peuvent être tenus désormais
-pour acquis. L'esprit humain ne dispose d'aucune pierre de
-
-[p. 199]
-
-touchequi lui permette, parcomparaison avecquelques brutales
+pour acquis. L'esprit humain ne dispose d'aucune pierre de [p. 199] touchequi lui permette, parcomparaison avecquelques brutales
 données de fait ou quelques simples règles formelles, de dis-
 tinguer infailliblement et presque mécaniquement les idées
 vraies des idées fausses. Il faut répéter que l'évidence est le ca-
@@ -7238,11 +6686,7 @@ travers un dynamisme de vérification, une sorte de progrès
 dialectique. Et en effet qu'observe-t-on ? Jamais, nulle part,
 de données empiriques ni de principes rationnels qui soient
 dès le prime abord définitifs et intangibles ; jamais non plus
-de résultats fragmentaires qu'on puisse fixer absolument . Non ;
-
-[p. 200]
-
-mais , à chaque niveau comme au début, un état initial de
+de résultats fragmentaires qu'on puisse fixer absolument . Non ; [p. 200] mais , à chaque niveau comme au début, un état initial de
 connaissance approchée, que l'on rectifie peu à peu : d'où un
 perpétuel remaniement des points de départ. Ainsi procède
 évidemment la science positive : sans quoi la critique y ferait
@@ -7273,11 +6717,7 @@ mesurant au succès atteint .
 En définitive, une affirmation est proclamée vraie lorsqu'elle
 présente et autant qu'elle présente ce double caractère
 : capa-
-cité de résistance à la dissolution critique, fécondité en consé
-
-[p. 201]
-
-quences éclairantes et fructueuses. Voilà ce qu'on pourrait
+cité de résistance à la dissolution critique, fécondité en consé [p. 201] quences éclairantes et fructueuses. Voilà ce qu'on pourrait
 nommer les critères différentiels, ceux qui assurent le chemi-
 nement infinitésimal devérification. Toutefois, quant au mou-
 vement générateur de la courbe entière, on aurait tort de croire
@@ -7307,11 +6747,7 @@ plique toujours dynamisme de maturation vécue, exercice
 d'action et de durée, enun mot expérience. Assurément l'ex-
 périence est multiforme : bien des genres en doivent être dis-
 tingués, autant que de disciplines. Dans tous les cas, cepen-
-dant, c'est à une expérience effective, réellement et pratique-
-
-[p. 202]
-
-ment opérée, qu'il faut en venir. D'une telle conclusion, qui
+dant, c'est à une expérience effective, réellement et pratique-[p. 202]ment opérée, qu'il faut en venir. D'une telle conclusion, qui
 résume les résultats jusqu'ici obtenus, nous avons mainte-
 nant à tirer les dernières conséquences. Peut-être y trouve-
 rons-nous un moyen de trancher le problème ultime encore
@@ -7348,11 +6784,7 @@ C'est là, en
 somme, une application de la maxime évangélique : a fructi-
 bus eorum cognoscetis eos . Toute vérité ressemble, de ce chef,
 à ce qu'on appelle parfois « vérité morales : on la reconnaît
-à ses œuvres , à ses effets . D'où il suit qu'elle ne saurait être
-
-[p. 203]
-
-définie indépendamment de sa durée. Les méthodes qu'ensei-
+à ses œuvres , à ses effets . D'où il suit qu'elle ne saurait être [p. 203] définie indépendamment de sa durée. Les méthodes qu'ensei-
 gnent une sainte Thérèse ou un saint Jeande la Croix pour le
 discernement des esprits, à peine transposées, se tournent en
 règles de vérification plus profondes que toutes les règles de
@@ -7382,9 +6814,7 @@ gence d'affirmation. Et ainsi prend son plein sens une conclu- [^p203-1]
 
 [^p203-1]: Les origines humaines et l'évolution de l'intelligence, p. 63-67 ; Le pro- blème de Dieu, p. 101-104 et 244-249.
 
-[p. 204]
-
-sion que j'emprunte presque textuellement à Lagneau : la cer-
+[p. 204] sion que j'emprunte presque textuellement à Lagneau : la cer-
 titude parfaite habite une région profonde où la pensée n'ac-
 cède et ne se maintient que par l'action .
 Dès lors , et de quelque discipline qu'il s'agisse, la vérité,
@@ -7418,9 +6848,7 @@ vérité, comme la vie, est suite évolutive, continuité tradition-
 nelle , travail de maturation tantôt lente et tantôt rapide , mais
 ininterrompue et qui se grossit incessamment d'elle-même .
 
-[p. 205]
-
-D'ailleurs la vérité s'accroît par intussusception comme un
+[p. 205] D'ailleurs la vérité s'accroît par intussusception comme un
 organisme, non comme un minéral par addition numérique.
 On n'a jamais à choisir entre deux modes séparés de cristalli-
 sation définie qui seraient totalement distincts l'un de l'autre.
@@ -7451,11 +6879,7 @@ pourrait s'installer et dormir. Pas de vérité humaine, au moins
 de vérité majeure, métaphysique par exemple, que sous
 forme d'un mouvement de vérification qui se prolonge, qui
 demeure dès lors inséparable d'une activité spirituelle mainte-
-nue en éveil, en exercice ; et au cours de cette action, loin de
-
-[p. 206]
-
-pouvoir attendre que l'harmonie vérifiante se fasse d'elle-
+nue en éveil, en exercice ; et au cours de cette action, loin de [p. 206] pouvoir attendre que l'harmonie vérifiante se fasse d'elle-
 même avec nos habitudes, nous devons reconnaître qu'un
 devoir de transformation s'impose à nous.
 Si donc nous voulons garder ici l'image classique d'un
@@ -7485,9 +6909,7 @@ changement ( 1 ). Elle est homogène à la conception dyna- [^p206-1]
 
 [^p206-1]: J'y ai consacré le premier chapitre de mon volume sur L'exigence idéaliste et le fait de l'évolution (Boivin, 1927).
 
-[p. 207]
-
-mique du réel qui en dérive ; et de là vient qu'elle échappe
+[p. 207] mique du réel qui en dérive ; et de là vient qu'elle échappe
 aux objections que le sens commun serait tentéde lui faire.
 Si l'on se représentait la vérité comme fixe en concevant la
 réalité comme changeante et mobile ou si l'on se représentait
@@ -7516,11 +6938,7 @@ comme une stabilité dynamique. Il n'y a de permanent en
 elle qu'une direction ; et l'analogie est profonde avec la ver-
 tu, la sagesse, la sainteté. Elle aussi, loin de pouvoir se fixer
 jamais, n'existe réellement que dans l'effort même qu'on fait
-pour la conquérir, puis la dépasser. La genèse, la génération
-
-[p. 208]
-
-intérieure en peut être comparée à une ascension morale
+pour la conquérir, puis la dépasser. La genèse, la génération [p. 208] intérieure en peut être comparée à une ascension morale
 :
 comparaison à double effet réciproque, dont les deux termes
 s'éclairent l'un l'autre. Ici et là, nécessité des œuvres effec-
@@ -7552,11 +6970,7 @@ Faut-il en conclure qu'une possession de la vérité demeure
 interdite à l'esprit humain ? Tout revientà s'entendre sur le
 sens du mot « possession » . Certes, on ne possède jamais la
 vérité à la façon d'une chose qui tiendrait, captée et réduite à
-notre service, dans un groupe de formules solidifiées. Mais
-
-[p. 209]
-
-c'est la tenir et la posséder comme elle peut l'être, c'est-à-dire
+notre service, dans un groupe de formules solidifiées. Mais [p. 209] c'est la tenir et la posséder comme elle peut l'être, c'est-à-dire
 spirituellement, que de savoir en chaque circonstance et à
 chaque moment quelle attitude il convient de prendre, quelle
 démarche d'accomplir, pour en conserver la direction de crois-
@@ -7589,11 +7003,7 @@ L'analyse critique de la science la plus positive, de la mathé-
 matique notamment, nous avertit cependant que les choses, en
 
 II
-14
-
-[p. 210]
-
-réalité, sont plus complexes et plus variées qu'on ne le croit .
+14 [p. 210] réalité, sont plus complexes et plus variées qu'on ne le croit .
 J'ai déjà eu l'occasion de faire, d'après Poincaré, une remar-
 que à cet égard : il n'y a pas tant des problèmes résolus en
 contraste avec des problèmes non résolus que des problèmes
@@ -7624,9 +7034,7 @@ pour donner un sens précis à cette question : tel jugement [^p210-1]
 
 [^p210-1]: Un exemple est classique : celui du sens que comporte le mot « résou- dre>> au sujet d'une équation algébrique. De même pour les équations différentielles . Et ce fait est général.
 
-[p. 211]
-
-est-il vrai ? En d'autres termes, qu'est-ce que la vérité d'un
+[p. 211] est-il vrai ? En d'autres termes, qu'est-ce que la vérité d'un
 moment de la recherche totale ?Devant une réalité qui n'est
 jamais définitivement faite, en face d'une solution qui évolue
 toujours, gardons-nous d'unehâte excessive à conclure, à clore
@@ -7656,11 +7064,7 @@ que, invention et vérification se rapprochent finalement jus-
 qu'à se compénétrer. De cela, mille exemples s'offriraient aux
 regards, non seulement parmi les sciences, mais encore dans
 le domaine de l'art, où le travail du goût qui corrige est
-l'homologue de la critique vérificatrice. Plusieurs de ces exem
-
-[p. 212]
-
-ples, assez divers, furent déjà cités ici même avec quelque
+l'homologue de la critique vérificatrice. Plusieurs de ces exem [p. 212] ples, assez divers, furent déjà cités ici même avec quelque
 détail . Qu'il me soit permis d'en donner unde plus, d'un genre
 différent, choisi pour sa perfection et pour sa brièveté nette
 et forte . Je l'emprunte à l'histoire littéraire, une de ces « pau-
@@ -7695,9 +7099,7 @@ ses recherches, on en trouvera un raccourci admi-
 rable en quelques pages dans le tome XII de l'Histoire de la Nation fran-
 çaise publiée sous la direction de M. Hanotaux.
 
-[p. 213]
-
-tive, durant laquellede multiples essais d'enchaînements tentés
+[p. 213] tive, durant laquellede multiples essais d'enchaînements tentés
 en tous sens évoquent et hâtent l'heure de lumière plus ou
 moins soudaine où surgit le principe dynamique de méthode ,
 l'idée-source apparaissant d'ordinaire sous
@@ -7727,11 +7129,7 @@ d'une constatation quelconque : c'est trop clair, puisqu'il
 n'existe nulle part de fait brut. Non pas davantage , malgré
 une vieille illusion, au bout d'un raisonnement de logique abs-
 traite, quelque rigoureux qu'il semble, car le calcul mêmedoit.
-toujours être soumis au contrôle d'une expérience, fût-ce en
-
-[p. 214]
-
-pure analyse mathématique. D'une façon générale, aussitôt
+toujours être soumis au contrôle d'une expérience, fût-ce en [p. 214] pure analyse mathématique. D'une façon générale, aussitôt
 qu'on entredans les voies du morcelage, il ne saurait plus être
 question que de vérités relatives les unes aux autres, quede
 certitudes conditionnelles. Et c'est bien ce que l'on observe en
@@ -7761,11 +7159,7 @@ mation soit tellement inhérente à nos actes de pensée, de vie
 spirituelle, si indissolublement impliquée en eux, qu'elle se re-
 trouve partout inévitable, et jusqu'au fond de ceux que nous
 voudrions tourner contre elle, comme la condition de leur être ,
-comme le souffle créateur qui les anime et l'atmosphère où ils
-
-[p. 215]
-
-respirent leur propre force, si bien que chaque moment de
+comme le souffle créateur qui les anime et l'atmosphère où ils [p. 215] respirent leur propre force, si bien que chaque moment de
 notre durée, fût-ce un essai de doute à son égard, constitue
 encore de cette affirmation une expérience qui la confirme :
 c'est alors que nous aurons atteint, dans une indestructibilité
@@ -7794,11 +7188,7 @@ ment obligerait à une refonte essentielle de tout le discours
 humain ? Ainsi nos vues sur la nature dynamique de la véri-
 fication n'excluent nullement la possibilité de concevoir
 une certaine fixation des vérités particulières. Cette fixation
-peut même acquérir, dans tels ou tels cas , une force de stabilité
-
-[p. 216]
-
-très grande. Mais il ne s'agit toujours que d'asymptotisme.
+peut même acquérir, dans tels ou tels cas , une force de stabilité [p. 216] très grande. Mais il ne s'agit toujours que d'asymptotisme.
 Nous voici,en terminant, autorisés à reprendreavecplusdefer-
 meté quejamais nos conclusions antérieures. La vraie certitude
 est progrès, non chose ; elle demeure essentiellement ouverte :
@@ -7828,11 +7218,7 @@ cette idée, prise comme principe de méthode, soit source de
 vérification indéfiniment croissante pour les idées ultérieures
 qu'elle suscite, informe et anime .
 Impossible donc, - ce sera notre dernière conclusion, -
-impossible d'éliminer absolument toutes les chances mauvaises :
-
-[p. 217]
-
-il y a toujours un risque à vivre et la vérification n'y saurait
+impossible d'éliminer absolument toutes les chances mauvaises : [p. 217] il y a toujours un risque à vivre et la vérification n'y saurait
 échapper. Quant au devenir de la raison vérifiante, on peut
 constater un succès ininterrompu dans le passé, en tirer motif
 de confiance pour
@@ -7861,11 +7247,7 @@ brut ou à un pur concept comme à un point d'arrêt au delà
 duquel rien ne resterait à découvrir ; et, de ce chef, on peut
 déjà prétendre que sont dépassés Empirisme et Rationalisme
 définis selon le vieux style. D'ailleurs l'observation de leurs
-départs conduit au même jugement. Au principe de tout
-
-[p. 218]
-
-empirisme, la critique discerne, latent peut-être, mais effectif
+départs conduit au même jugement. Au principe de tout [p. 218] empirisme, la critique discerne, latent peut-être, mais effectif
 et irréductible, un acte de la raison ; puis, au principe de
 l'attitude rationaliste à son tour, quand on l'adopte, il y a
 autre chose qu'une évidence de nécessité: il y a un choix,
@@ -7898,11 +7280,7 @@ pour se conduire, pour mener à bien sa tâche. Assurément
 il faut toujours que la clarté intelligible se fasse, que l'exi-
 gence critique finisse par être satisfaite ; et le jugement en der-
 nier ressort appartient toujours à l'intelligence. Mais cette rai-
-son appelée à devenir souveraine, elle n'est pas toute faite en
-
-[p. 219]
-
-nous d'avance ; elle doit se faire graduellement, de plus en
+son appelée à devenir souveraine, elle n'est pas toute faite en [p. 219] nous d'avance ; elle doit se faire graduellement, de plus en
 plus large et souple; et elle ne devient décidément compé-
 tente qu'après s'être informée,
 au besoin réformée , trans-
@@ -7936,11 +7314,7 @@ devenir capable de percevoir plus de vérité, il est nécessaire
 de réaliser, de mettre en pratique ce qui en est déjà perçu .
 Voilà ce que suggère l'analogiede l'expérience morale Pareil-
 lement, dans l'ordre de la connaissance pure, une action créa-
-trice devient, à unmoment, nécessaire : une action qui, d'ail
-
-[p. 220]
-
-leurs, est pensée encore, mais pensée intuitive, pensée immé-
+trice devient, à unmoment, nécessaire : une action qui, d'ail [p. 220] leurs, est pensée encore, mais pensée intuitive, pensée immé-
 diate.
 
 Finalement, il faut bien admettre que le critère suprême des
@@ -7976,9 +7350,7 @@ forme de pragmatisme ? On l'a prétendu ; mais la qualification
 n'est pas juste . Du moins ne s'agirait-il qued'un pragmatisme
 bien particulier. Ce pragmatisme-là ne substitue en aucune
 
-[p. 221]
-
-DE LA VÉRIFICATION
+[p. 221] DE LA VÉRIFICATION
 221
 
 manière au souci de la vérité je ne sais quelle considération
@@ -8006,9 +7378,7 @@ du pragmatisme, sous l'influence médiatrice d'un rapproche-
 ment opéré entre les disciplines de l'ordre critique et de
 l'ordre spirituel .
 
-[p. 222]
-
-CHAPITRE IV
+[p. 222] CHAPITRE IV
 
 Les notions de connaissance et de réalité absolues
 
@@ -8043,9 +7413,7 @@ de résoudre. Je crois d'ailleurs qu'après les résultats précé-
 demment obtenus nous aurons facile d'y réussir. Seulement,
 cette solution soulèvera aussitôt une dernière difficulté. Un
 
-[p. 223]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 223] CONNAISSANCE ET RÉALITÉ ABSOLUES
 223
 
 effort de ce genre ne risque-t-il pas de faire sombrer l'esprit
@@ -8080,11 +7448,7 @@ les sont connaissables par l'esprit humain les relations des
 choses les unes aux autres, non pas les choses elles-mêmes .
 En ce sens, nous ne saisirions jamais rien d'absolu , c'est-à-dire
 aucun être indépendammentdu tissu de relations dont il mar-
-que lecentre et noue le réseau. Nous ne pourrions atteindre
-
-[p. 224]
-
-de chaque objet que ses points d'attache avec ce qui n'est pas
+que lecentre et noue le réseau. Nous ne pourrions atteindre [p. 224] de chaque objet que ses points d'attache avec ce qui n'est pas
 lui . Mais au moins ce qui nous resterait alors accessible, j'en-
 tends le système des relations, peut-être serions-nous en état
 de le connaître absolument, tel qu'il est en soi, sans rien d'er-
@@ -8117,9 +7481,7 @@ il serait chimérique de prétendre nous en affranchir, puisque
 connaître signifierait alors voir à travers certains cadres ou
 certains systèmes optiques inhérents à notre vue .
 
-[p. 225]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 225] CONNAISSANCE ET RÉALITÉ ABSOLUES
 225
 
 En contraste avec la double notion de relativité, voici main-
@@ -8149,11 +7511,7 @@ damment de toute référence à un point de vue ou à des repè-
 res; et par suite une connaissance d'absolu, c'est une connais-
 sance obtenue du dedans et non d'un observatoire extérieur,
 
-[^p225-1]: Une troisième formule, parfois proposée, veut nous faire entendre sous le nom d'absolu unje ne sais quoi qui seraitdélié de toute relation et dès lors incoordonnable . Je la laisse de côté parce qu'en tout cas elle ne conviendrait qu'à Dieu , que d'ailleurs elle estalors très inexacte, et qu'elle me semble donc sans possibilité d'emploi positif quelconque . II 15
-
-[p. 226]
-
-parconscience immédiate et sympathique, non par conception
+[^p225-1]: Une troisième formule, parfois proposée, veut nous faire entendre sous le nom d'absolu unje ne sais quoi qui seraitdélié de toute relation et dès lors incoordonnable . Je la laisse de côté parce qu'en tout cas elle ne conviendrait qu'à Dieu , que d'ailleurs elle estalors très inexacte, et qu'elle me semble donc sans possibilité d'emploi positif quelconque . II 15 [p. 226] parconscience immédiate et sympathique, non par conception
 plus ou moins lointaine à travers des symboles interposés .
 Connaissance absolue et connaissance d'absolu ne sont d'ail-
 
@@ -8188,9 +7546,7 @@ naissait, il nepourrait trouver de mots pour l'exprimer. Non [^p226-1]
 
 [^p226-1]: La valeur de la soience, p . 266-267 .
 
-[p. 227]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 227] CONNAISSANCE ET RÉALITÉ ABSOLUES
 227
 
 seulement nous ne pouvons deviner la réponse ; mais, si on
@@ -8227,11 +7583,7 @@ desjugements de ressemblance ou de différence. Je ne puis
 percevoirvotre « rouge >> ni votre « bleu » ; je sais, par contre,
 que cesmotsdésignent deux classes de sensations qui n'affec-
 tent pas semblablement vos yeux ni les miens et où ceux-ci
-commeceux-là rangent les mêmes objets.- Prenons mante-
-
-[p. 228]
-
-nantun deuxième exemple, de l'ordre intelligible. Soient les
+commeceux-là rangent les mêmes objets.- Prenons mante-[p. 228]nantun deuxième exemple, de l'ordre intelligible. Soient les
 notions fondamentales du même et de l'autre (on dirait mieux
 de mêmeté et d'altérité) . Ces deux notions se nient mutuelle-
 ment ; chacune d'elles est définie comme lanégation de l'au-
@@ -8263,9 +7615,7 @@ toutes les substitutions d'images, les mêmes rapports pouvant
 une théorie, nous serions, pour ainsi dire, en présence d'un
 système articulé où les liaisons seules sont connaissables et
 
-[p. 229]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 229] CONNAISSANCE ET RÉALITÉ ABSOLUES
 229
 
 comportent la qualification de vraies ou de fausses. Là serait
@@ -8300,9 +7650,7 @@ lemoi se constitue comme sujet pensantpar un travail qui l'as [^p229-1]
 
 [^p229-1]: Ce point a été discuté dans le premier volume, p. 172-176 .
 
-[p. 230]
-
-socie à des affections diffuses et anonymes, antérieures à son
+[p. 230] socie à des affections diffuses et anonymes, antérieures à son
 éclosion. Cette sensibilité initiale et radicale, unique révélatrice
 d'existence réelle, n'habille-t-elle pas toute perception ou con-
 ception ultérieure, incurablement, du voilede subjectivité que
@@ -8333,9 +7681,7 @@ possibilités, des ressources, des moyens, dont il y aurait lieu
 ( 1) A condition,bien entendu, que cette conscience y consente, car elle
 peut se fermer, quitte ainsi à se diminuer elle-même d'autant.
 
-[p. 231]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 231] CONNAISSANCE ET RÉALITÉ ABSOLUES
 231
 
 de tenir compte parce qu'une transposition en est applicable
@@ -8368,11 +7714,7 @@ demander jusqu'à quelle profondeur la conscience porte en
 nous . Que reste-t-il dès lors ? Uniquement ceci : connaître une
 chose en soi, c'est la prendre comme observatoire ou point de
 vue pour regarder et comprendre l'ensemble de l'univers. Quoi
-de chimérique alors dans une telle entreprise ? On admet qu'une
-
-[p. 232]
-
-chose puisse être absolument connue en tant que centrede re-
+de chimérique alors dans une telle entreprise ? On admet qu'une [p. 232] chose puisse être absolument connue en tant que centrede re-
 lations: est-elle plus que cela, plus qu'un foyer de convergence
 dans l'ordre universel ? A semblable question, réponse a été
 fournie d'avance par deux discussions auxquelles j'ai déjà
@@ -8403,9 +7745,7 @@ n'est pas obstruée par le même obstacle, parce que l'idée s'y [^p232-1]
 
 [^p232-1]: Voir les notes I et a à la page 118 du premier volume.
 
-[p. 233]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 233] CONNAISSANCE ET RÉALITÉ ABSOLUES
 233
 
 définit en finde compte comme schéma opératoire et nonpoint
@@ -8430,9 +7770,7 @@ point devue, laconnaissance est regardée comme réalisant un [^p233-1]
 
 [^p233-1]: Dans ce qui suit, j'envisage moins le kantisme orthodoxe en toute sa complexité que l'interprétation commune qui l'a vulgarisé sous des traits un peu grossis. Chez Kant lui-même, l'entendement est la faculté qui ordonne le divers pour le rendre pensable ; la sensibilité, celle qui donne le divers à l'état d'éparpillement. L'un et l'autre apportent leurs formes propres : celle-ci l'espace et le temps, celui-là l'exigence rationnelle d'unité qu'il explicite en catégories et en principes. L'ensemble des deux constitue le sujet. Quant à l'objet, il ne devient tel en exacte rigueur qu'une fois rendu représentable : par un acte du sujet. Mais cet acte transcendantal précède l'expérience positive et suppose un « noumène » . Ici , plus sommairement , j'appelle objet la matière de la connaissance en tant que donnée au sujet connaissant, quel que soit le stade où l'on prenne l'œuvre du savoir .
 
-[p. 234]
-
-accord du sujet et de l'objet, eux-mêmes considérés en tant
+[p. 234] accord du sujet et de l'objet, eux-mêmes considérés en tant
 que puissances qui ont chacune sa nature propre bien définie
 et viennent à la rencontre l'une de l'autre avec leurs caractères
 désormais immuables . Dans une telle perspective, le fait est la
@@ -8463,9 +7801,7 @@ degrés ni nuances. Aucune question là-dessus chez Kant.
 (2) Dans ce qui suit, je reprends çà et là, telles quelles, diverses formules
 que donnait déjà mon petit livre Une philosophie nouvelle, p. 189-191.
 
-[p. 235]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 235] CONNAISSANCE ET RÉALITÉ ABSOLUES
 235
 
 L'accord est tenu pour virtuellement parfait d'avance ; et rien
@@ -8497,11 +7833,7 @@ elle-même ne dure pas. C'est le lieu immobile, c'est l'atmo-
 sphère d'éternité morte où se déploie toute action de l'esprit.
 Cependant, je répète que telle ne saurait être la vérité définitive
 et complète. N'est-ce pas un fait, le plus incontestable des faits ,
-que l'intelligence humaine s'est constituée lentement et par
-
-[p. 236]
-
-étapes au cours de l'évolution biologique ? Pour la connaître,
+que l'intelligence humaine s'est constituée lentement et par [p. 236] étapes au cours de l'évolution biologique ? Pour la connaître,
 
 il ne s'agit donc pas tant de la démêler statiquement de
 ses œuvres
@@ -8536,9 +7868,7 @@ désormais enun effort pour comprendre les sciences diverses à [^p236-1]
 
 [^p236-1]: C'est le problème de la raison humaine qui est ici posé, non le pro- blèmede laRaison en soi, lequel n'est autre que le problèmede Dieu.
 
-[p. 237]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 237] CONNAISSANCE ET RÉALITÉ ABSOLUES
 237
 
 titrede disciplines spécifiquement distinctes, enparticulier celles
@@ -8570,11 +7900,7 @@ Kant, la relativité de la connaissance vient avant tout d'une
 réfraction inévitable subie par lachose en soipour entrer, à titre
 de représentation, dans notreatmosphère subjective. Maisn'est-il
 pas possible d'analyser cette réfraction, de découvrir en quoi
-elleconsiste,comment elle est opérée ? C'est dire que le dessein
-
-[p. 238]
-
-principal de la recherche critique ne doit pas être seulement de
+elleconsiste,comment elle est opérée ? C'est dire que le dessein [p. 238] principal de la recherche critique ne doit pas être seulement de
 démontrer que la connaissance est relative, mais encore et sur-
 tout de définir le genre et le motif de cette relativité, de la
 mesurer, de la qualifier, d'en déterminer les causes et par là
@@ -8604,9 +7930,7 @@ ténèbres extérieures de l'inconnaissable : noumène réductible
 d'ailleurs , qui se résout quand la pensée s'oriente autrement,
 parce qu'il ne représente que la limite relative et momentanée
 
-[p. 239]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 239] CONNAISSANCE ET RÉALITÉ ABSOLUES
 239
 
 d'une méthode, ce qui de l'être échappe à ses prises partielles .
@@ -8640,9 +7964,7 @@ définitivement inaccessible . [^p239-1]
 [^p239-1]: Le mot a existence » lui-même n'aurait alors aucun sens.
 [^p239-2]: Sur ce principe, qui traduit « l'exigence idéaliste », voir : Le pro- blème de Dieu, p. 251-260.
 
-[p. 240]
-
-Je sais bien qu'une illusion demeure possible. Sitôt que l'on
+[p. 240] Je sais bien qu'une illusion demeure possible. Sitôt que l'on
 a posé par la distinction de l'implicite et de l'effectif dans la
 connaissance la dualité mystérieuse de l'apparent et du réel,
 sitôt que l'on a conçu le donné comme gros d'un inépuisable
@@ -8673,9 +7995,7 @@ nit tout ; et ce qu'elle donne d'authentiquement réel, c'est la
 part d'opératoire qu'elle parvient à saisir au vif dans la repré-
 sentation correspondante. Le philosophe procédera donc par
 
-[p. 241]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 241] CONNAISSANCE ET RÉALITÉ ABSOLUES
 241
 
 exhaustion progressive, le résidu de chaque époque dialectique
@@ -8710,11 +8030,7 @@ simple de vérités indéfiniment multiples, centre capable de
 résister invariant àtoutes les opérations critiques. Mais il y a
 
 11
-16
-
-[p. 242]
-
-des degrés dans le réel. Plus l'apparition est centrale, plus
+16 [p. 242] des degrés dans le réel. Plus l'apparition est centrale, plus
 solide en est l'invariance, plus nombreuses, importantes et
 variées sont les attitudes et démarches de pensée dont elle fait
 la convergence, et plus cette apparition est réelle. Enfin la
@@ -8745,9 +8061,7 @@ gentes , et dont la vérité,- car on voitque les deux questions
 sont identiques et appellent mêmes formules de réponse,-
 est un progrès plus qu'une chose, une direction de croissance
 
-[p. 243]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 243] CONNAISSANCE ET RÉALITÉ ABSOLUES
 243
 
 plus qu'un terme final. Peut-on dire cependant que l'on pos-
@@ -8782,9 +8096,7 @@ tique même, -je l'ai dit et redit, mais on n'y insistera ja-
 
 [^p243-1]: Ainsi , à chaque instant, notre savoir positif est borné, partiel, mais gros d'absolu .
 
-[p. 244]
-
--
+[p. 244] -
 
 mais trop,
 les notions correspondantes se laissent inter-
@@ -8824,9 +8136,7 @@ nous permet de voir naître celles-ci et, par là, de travailler à [^p244-1]
 
 [^p244-1]: Comme quand on dit que 2 est la somme de la progression géomé- trique indéfiniment prolongée dont le premier terme est i et la raison 1/2 .
 
-[p. 245]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 245] CONNAISSANCE ET RÉALITÉ ABSOLUES
 245
 
 nous en affranchir. Prise en soi, elle nous confère donc une
@@ -8858,11 +8168,7 @@ sens commun ; et la critique s'efforce de la restituer à l'état
 pur. Une part complémentaire, donnant lieu à une critique
 analogue, est évoquée ensuite par la science au cours de l'ac [^p245-1]
 
-[^p245-1]: Voir le premier volume, chap . II, passim,
-
-[p. 246]
-
-tion expérimentale. Mais tout cela ne nous livre le réel que par
+[^p245-1]: Voir le premier volume, chap . II, passim, [p. 246] tion expérimentale. Mais tout cela ne nous livre le réel que par
 éclairs discontinus , par lueurs évanouissantes. Ces lueurs fugi-
 tives et sporadiques, ces éclairs intermittents qui marquent
 nos moments d'action vive, il faut, disions-nous, les soutenir,
@@ -8897,9 +8203,7 @@ intelligibles de discernement et de qualification . C'est l'œuvre [^p246-1]
 
 [^p246-1]: Cf. Une philosophie nouvelle, Alcan, 1912, passim .
 
-[p. 247]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 247] CONNAISSANCE ET RÉALITÉ ABSOLUES
 247
 
 des théories et des systèmes dans la science et dans la philo-
@@ -8935,9 +8239,7 @@ pli ceprogramme sur le point considéré ? L'effort du philoso-
 phene tend qu'à généraliser un pareil état. Et si, à propos de
 la matière , iln'est pas au pouvoir de l'esprit humain d'attein-
 
-[p. 248]
-
-248
+[p. 248] 248
 LA PENSÉE
 INTUITIVE
 
@@ -8973,9 +8275,7 @@ mule et du geste ; elle s'appauvrit et se schématise. Disons, [^p248-1]
 
 [^p248-1]: Cahiers de la Nouvelle Journée, nº 15, 1929, p. 133-165.
 
-[p. 249]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 249] CONNAISSANCE ET RÉALITÉ ABSOLUES
 249
 
 pour suivre toujours l'image du spectre, que le souci d'utilité
@@ -9010,9 +8310,7 @@ divers degrés de tensionde laconscience qui perçoit. Et ici, de [^p249-1]
 
 [^p249-1]: Matière et Mémoire, p233.
 
-[p. 250]
-
-nouveau, une transposition serait facile, de l'ordre sensible
+[p. 250] nouveau, une transposition serait facile, de l'ordre sensible
 concret à l'ordre intelligible abstrait. Dans un cas comme
 dans l'autre, la conscience cueille des accords (pittoresques ou
 conceptuels) dont chacun contracte un vaste ensemble en un
@@ -9048,9 +8346,7 @@ spirituellement sentie et interprétée. Chaque série ne procure
 qu'une connaissance relative, parce qu'elle suppose une abs-
 traction morcelante, l'élection d'un point de vue et d'une
 
-[p. 251]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 251] CONNAISSANCE ET RÉALITÉ ABSOLUES
 251
 
 méthode. La simple juxtaposition des trois séries nous laisse
@@ -9085,9 +8381,7 @@ comprendre que selon l'analogiede l'habitude, en fonctiond'un [^p251-1]
 
 [^p251-1]: Voir les leçons I et II de mon cours sur L'exigence idéaliste et le fait de l'évolution (Boivin, 1927) .
 
-[p. 252]
-
-252
+[p. 252] 252
 LA PENSÉE
 INTUITIVE
 
@@ -9124,9 +8418,7 @@ médiable. La question se trouve posée alors de manière à
 demeurer nécessairement sans réponse. C'est qu'objet pur et
 pur sujet sont moins deux réalités préalables que deux pôles
 
-[p. 253]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 253] CONNAISSANCE ET RÉALITÉ ABSOLUES
 253
 
 schématiques symbolisant les extrémités d'une continuité inter-
@@ -9156,7 +8448,7 @@ que, du reste, nulle coupure ne sépare de la zone médiane.
 Voilà dans quelle perspective nous avons maintenant à dis-
 cuter le problème du couple Objet-Sujet. Jusqu'où va leur
 opposition, jusqu'à quelle profondeur dans l'être ? Est-elle
-a priori, antérieure à toute perception, à toute expérience, à
+*a priori*, antérieure à toute perception, à toute expérience, à
 toute vie effective, à toute pensée explicite ? Implique-t-elle
 indépendance radicale, séparation originelle des deux termes ?
 Il semble communément que la connaissance, par nature, soit
@@ -9166,11 +8458,7 @@ dans la portion de réalité que nous appelons notre « moi ».
 D'où, lorsqu'il estquestionde passer de l'une àl'autre, l'obstacle
 au moins apparent d'une distance ou plutôt d'une coupure à
 franchir et, par conséquent, les conclusions ordinaires de rela-
-tivité incurable. Que vaut cependant une telle représentation,
-
-[p. 254]
-
-source d'un teljugement ? Bref, on accorde volontiers à l'anti-
+tivité incurable. Que vaut cependant une telle représentation, [p. 254] source d'un teljugement ? Bref, on accorde volontiers à l'anti-
 thèse du sujet et de l'objet une valeur souveraine. Faut-il
 admettre qu'en effet toute conscience l'implique, toute con-
 naissance la suppose ? et devons-nous renoncer à sortir jamais
@@ -9199,9 +8487,7 @@ poursuivre sans fin un mouvement de pénétration perceptive,
 quand bien même la porte d'entrée ne serait qu'un élément
 infinitésimal, de proche en proche la connaissance obtenue
 
-[p. 255]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 255] CONNAISSANCE ET RÉALITÉ ABSOLUES
 255
 
 s'affranchirait des relativités initiales et, finissant par concentrer
@@ -9235,9 +8521,7 @@ la pointe d'émergence d'une pyramide qui se prolonge profon-
 ( 1 ) Par où, déjà , se trouve pour chacun quelque possibilité de communi-
 cation avec autrui, puisque la nature est « commune ».
 
-[p. 256]
-
-dément dans une pénombre subliminale graduellement accrue
+[p. 256] dément dans une pénombre subliminale graduellement accrue
 et qui va se perdre enfin dans la nuit complète. C'est le centre
 lumineux d'une large nébulosité diffuse à dégradations continues
 et dont les marges sont indécises. Or, jusqu'où descend ainsi
@@ -9269,9 +8553,7 @@ analyse un assemblage de pièces non seulement distinctes , mais [^p256-1]
 
 [^p256-1]: Revue deMétaphysique et deMorale,novembre 1911 , p 824.
 
-[p. 257]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 257] CONNAISSANCE ET RÉALITÉ ABSOLUES
 257
 
 séparées , il y aurait quelque chose d'absurde à prétendre en
@@ -9308,16 +8590,12 @@ relativité à l'échelle propre de la perception humaine ? Pour
 (1, Au sens où individu s'oppose à personne.
 
 11
-17
-
-[p. 258]
-
-lever ce doute suprême, il faut que nous discutions point par
+17 [p. 258] lever ce doute suprême, il faut que nous discutions point par
 point le faitde la dualité Objet-Sujet.
 L'opinion commune, qu'inspire le souci utilitaire de l'ac-
 tion par gestes ou formules et que favorise la structure trop
 géométrique de notre langage usuel, admet la distinctiondu
-sujet et de l'objet comme a priori, donc primitive et radicale.
+sujet et de l'objet comme *a priori*, donc primitive et radicale.
 C'est pour elle un irréductible point de départ, une sortede
 fait premier, de condition donnée à la façon d'une chose. Elle
 la regarde comme absolue, sans degrés ou nuances ; comme
@@ -9341,11 +8619,7 @@ de langage plus ou moins malheureux, mais que ce langage
 traduit en cela très justement les démarches ordinaires de
 l'esprit quand il cherche à connaître un objet en se laissant
 aller à suivre la pente familière de ses habitudes . L'esprit
-tourne alors autour de l'objet, adopte des points de vue sur lui,
-
-[p. 259]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+tourne alors autour de l'objet, adopte des points de vue sur lui, [p. 259] CONNAISSANCE ET RÉALITÉ ABSOLUES
 259
 
 s'installe pour l'étudier en des observatoires périphériques , le
@@ -9380,16 +8654,14 @@ il est facile de voirl'erreurd'un tel postulat.
 
 [^p259-1]: Cf. Une philosophie nouvelle, p. 35-49, passim.
 
-[p. 260]
-
-260
+[p. 260] 260
 LA PENSÉE INTUITIVE
 
 D'abord, la forme d'espace ne peut être appliquée ici que
 par abus ; ou plutôt il y a incompatibilité, contradiction entre
 lathèse que l'on affirme et la forme interprétative sous laquelle
 on prétend se la représenter. Si la distinction du sujet et de
-l'objet est réellement a priori, donc rigoureusement originelle
+l'objet est réellement *a priori*, donc rigoureusement originelle
 et primitive, littéralement radicale, c'est-à-dire poséeà la ra-
 cine de tout savoir, antérieure à toute expérience, à toute pen-
 sée, à toute perception, à toute vie, ce n'est pas en images spa-
@@ -9419,9 +8691,7 @@ blie, solution paresseuse qui n'a rien d'explicatif. En dernier
 ressort, dans cette perspective, le réalisme de la chose en soi se
 trouve plus ou moins sourdement restauré. Voilà encore une
 
-[p. 261]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 261] CONNAISSANCE ET RÉALITÉ ABSOLUES
 261
 
 raison qui nous force à conclure que le problème est à re-
@@ -9457,9 +8727,7 @@ même est déjà conscience puisqu'elle est image : thèse idéaliste [^p261-1]
 
 [^p261-1]: Matière et Mémoire, p. 36.
 
-[p. 262]
-
-àlaquelle nul ne saurait échapper. Toutefois il s'agit alors de
+[p. 262] àlaquelle nul ne saurait échapper. Toutefois il s'agit alors de
 conscience anonyme, non centralisée, à concevoir dynamique-
 ment, potentiellement : matrice despointsdeconscience réflé-
 chie que sont les monades explicites. Le premier moment de
@@ -9491,9 +8759,7 @@ des Contemplations : «Ah ! Insensé, qui crois que je ne suis
 
 [^p262-1]: Rien ne le montre mieuxque l'analyse du Cogito cartésien.
 
-[p. 263]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 263] CONNAISSANCE ET RÉALITÉ ABSOLUES
 263
 
 pas toi ! » L'intérieur, pour chacun de nous, c'est d'abord
@@ -9525,11 +8791,7 @@ que le sujet se recueille et se dégage, se concentre, se condense,
 enfin se retirede presque tout l'ensemble des images qui, du
 même coup, s'éteint, se fige et ainsi se constitue en objet. Au
 début, rien ne doit être qualifié objectif ou subjectif, extérieur
-ou intérieur : simple puissancede ces contraires ; le commen
-
-[p. 264]
-
-cement n'est en somme ni<« dedans » ni « dehors » , mais
+ou intérieur : simple puissancede ces contraires ; le commen [p. 264] cement n'est en somme ni<« dedans » ni « dehors » , mais
 
 action . Ce qui importe ici plus que tout, c'est de renoncer aux
 classifications discursives qui ne prendront sens qu'ensuite,
@@ -9566,9 +8828,7 @@ pusculaire, l'opération perceptive doit être déjà caractérisée
 parunmot qui en annonce la direction de progrès, le mot
 discernement. Le discernement dont je parle ici n'est pas
 
-[p. 265]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 265] CONNAISSANCE ET RÉALITÉ ABSOLUES
 265
 
 encore l'abstraction : ce n'en est que le germe vécu, dont
@@ -9604,9 +8864,7 @@ conque dans l'ordre intellectuel ou dans l'ordre moral, et qui
 l'ordre animal à l'ordre humain,
 (2) Voir Les origines humaines et l'évolution de l'intelligence, X et XIII .
 
-[p. 266]
-
-est toujours un discernement prophétiquede valeur ; 2º avec
+[p. 266] est toujours un discernement prophétiquede valeur ; 2º avec
 ce que l'histoire nous montre au début de la philosophie en
 Grèce, et quej'appellerai le discernement présocratique des
 grandes directions de la pensée spéculative ; 3º avec ce que
@@ -9646,9 +8904,7 @@ de repère, dont la moindre variation bouleverse tout l'ensem-
 
 [^p266-1]: Matière et Mémoire, chap . 1 .
 
-[p. 267]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 267] CONNAISSANCE ET RÉALITÉ ABSOLUES
 267
 
 -
@@ -9691,11 +8947,7 @@ La conscience, graduellement éveillée, se retire ainsi en soi ;
 elle se recueille, se concentre , s'approfondit, s'intériorise tou-
 jours davantage ; elle en vient presque à reléguer le corps à
 son tour dans le domaine extérieur, jamais cependant jusqu'à
-rompre tous liens de continuité, soit avec l'entourage matériel ,
-
-[p. 268]
-
-soit avec les autres hommes. A la fin, toutefois, le sens du
+rompre tous liens de continuité, soit avec l'entourage matériel , [p. 268] soit avec les autres hommes. A la fin, toutefois, le sens du
 mouvement se renverse ; nous arrivons à trouver, au plus
 intime fond de nous-mêmes, non plus des principes d'égoïsme
 séparant, mais une exigence de communion universelle ; et
@@ -9722,11 +8974,7 @@ finalement la coupure entrele moi et lenon-moi pratiquée peu
 profonde, et par suite l'extériorité incapable d'être une cause
 de relativité irréductible ( 1 ) . [^p268-1]
 
-[^p268-1]: Comment ladoctrine qui vient d'être exposée ne constitue pas un monisme, je l'ai dit ailleurs : voir L'exigence idéaliste et le fait de l'évolution, p. 38-39 . Ce qui fut expliqué alors du couple Esprit-Matière, on peut le reprendre sans modification ici pour une métaphysique du changement substantiel, inversion de sens équivaut à différence de nature,
-
-[p. 269]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[^p268-1]: Comment ladoctrine qui vient d'être exposée ne constitue pas un monisme, je l'ai dit ailleurs : voir L'exigence idéaliste et le fait de l'évolution, p. 38-39 . Ce qui fut expliqué alors du couple Esprit-Matière, on peut le reprendre sans modification ici pour une métaphysique du changement substantiel, inversion de sens équivaut à différence de nature, [p. 269] CONNAISSANCE ET RÉALITÉ ABSOLUES
 269
 
 D'où vient alors la subjectivité de notre perception com-
@@ -9761,9 +9009,7 @@ du fondcommun. Ily a là une sorte de faculté d'accommoda-
 
 -
 
-[p. 270]
-
-tion perceptive, demise au point intellectuelle,permettant d'iso-
+[p. 270] tion perceptive, demise au point intellectuelle,permettant d'iso-
 ler une image particulière et de la contempler à l'exclusion des
 autres . L'esprit possède également la faculté d'abstraire : il est
 un dissolvant du réel. De ce qu'il percevait au commencement
@@ -9795,9 +9041,7 @@ ultérieure .
 Quels sont les facteurs essentiels de cette subjectivité? Nous
 en avons déjà distingué trois, queje rappelle sommairement :
 
-[p. 271]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 271] CONNAISSANCE ET RÉALITÉ ABSOLUES
 271
 
 1º Il y a d'abord lasélection morcelante opérée par nos sens,
@@ -9830,11 +9074,7 @@ spontanément que de certaines résonances. Et que notre per-
 ception soit liée d'une telle manière à des rythmes qu'elle ne
 sait pas changer, c'est de nouveau ce qui la rend subjective,d'une
 subjectivité illusoire.
-3° Il y a enfin-et j'y insisterai davantage - la symbolisa
-
-[p. 272]
-
-tion qu'opèrent notre mémoire et notre entendement : symbo-
+3° Il y a enfin-et j'y insisterai davantage - la symbolisa [p. 272] tion qu'opèrent notre mémoire et notre entendement : symbo-
 lisation à plusieurs degrés, depuis la moyenne sensible formée
 par neutralisation réciproque de nuances brouillées ensemble
 jusqu'au schème abstrait du discours conceptuel. Chaque
@@ -9866,9 +9106,7 @@ la zone moyenne seule en proportion avec les gestes humains ,
 face.
 Je lui emprunte plusieurs des exemples qui suivent .
 
-[p. 273]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 273] CONNAISSANCE ET RÉALITÉ ABSOLUES
 273
 
 formant double contraste avec elle, d'une part la physique de
@@ -9909,11 +9147,7 @@ une onde lumineuse ; jamais ne sera perçue la réunion de ces
 -
 
 11
-18
-
-[p. 274]
-
-rythmes incomparables. D'où la même conclusion toujours. Du
+18 [p. 274] rythmes incomparables. D'où la même conclusion toujours. Du
 reste, les remarques précédentes ne s'appliquent pas seulement
 aux diverses régions de l'être cosmique : elles valent aussi bien
 à propos d'un objet déterminé, suivant les niveaux de l'ana-
@@ -9944,9 +9178,7 @@ qui nous insère en pleine réalité. Toutefois les actes à peine
 ébauchés de cette perception initialene doivent pas être con-
 çus comme des œuvres explicites, accomplies par un agent
 
-[p. 275]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 275] CONNAISSANCE ET RÉALITÉ ABSOLUES
 275
 
 déjà constitué sur une matière déjà nettement distincte de lui.
@@ -9981,11 +9213,7 @@ du travail par lequel nous la découpons au sein du tout pri-
 mitif et la recouvrons de symboles conceptuels pour nous l'ap-
 proprier, surtout de l'oubli où bien vite nous laissons tomber
 ce travail. Il n'en reste pas moins que notre perception plonge
-toujours par ses racines en pleine réalité. Ainsi subsiste pour
-
-[p. 276]
-
-nous, à toute époque, une possibilité de connaissance absolue.
+toujours par ses racines en pleine réalité. Ainsi subsiste pour [p. 276] nous, à toute époque, une possibilité de connaissance absolue.
 J'ai déjà dit comment concourent Science et Critique à
 nous faire entrer dans cette voie. La première sans doute, bien
 qu'elle commence à nous détacher d'une perspective trop
@@ -10017,9 +9245,7 @@ puis de raccorder entre eux les segments hétérogènes de la
 réalité. Cet embarras est indéniable ; mais notre connaissance
 en devient limitée, partielle, incomplète, plutôt que relative.
 
-[p. 277]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 277] CONNAISSANCE ET RÉALITÉ ABSOLUES
 277
 
 Encore l'usage des instruments et des théories qu'ils concré-
@@ -10050,14 +9276,10 @@ Kant,
 etson opinion estaujourd'hui classique,- l'intelli-
 gence humaine baigne et respire dans une atmosphère de spa-
 tialité dont rien ne saurait l'affranchir. Aucune perception ne
-lui arrive que revêtue des formes a priori de la sensibilité,
+lui arrive que revêtue des formes *a priori* de la sensibilité,
 déjà imprégnée d'une géométrie antérieure à toute expérience.
 Mais cela n'exprimerait que la nature propre du sujet perce-
-vant, non le réel : ce serait la condition requise pour que la
-
-[p. 278]
-
-diversité sensible soit donnée à l'esprit humain. Et voilà en
+vant, non le réel : ce serait la condition requise pour que la [p. 278] diversité sensible soit donnée à l'esprit humain. Et voilà en
 définitive pourquoi il resterait impossible que soit jamais levé
 entièrement le voilede la subjectivité. Dès lors , nous ne sau-
 rions ici conclure, sans avoir discuté au moins sommairement
@@ -10088,9 +9310,7 @@ longue portée , à lointaines conséquences: le problème kantien
 en est profondément renouvelé. On découvre en effet, au sein
 de la notion d'espace, toute une série de couches successives
 
-[p. 279]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 279] CONNAISSANCE ET RÉALITÉ ABSOLUES
 279
 
 qui n'ont peut-être ni la même valeur ni le même âge, bref une
@@ -10128,9 +9348,7 @@ mose. L'un devient le corps expressif, le mythe graphique de
 l'autre. Le second finit par transparaître lisible au sein du
 premier qui lui apporte un support d'illustration concrète.
 
-[p. 280]
-
-Une correspondance, dirons-nous, s'établit entre l'espace géo-
+[p. 280] Une correspondance, dirons-nous, s'établit entre l'espace géo-
 métrique
 et l'espace imaginable, celui-ci réalisant celui-là,
 l'introduisant au seindu perçu, le premiervenant se poser sur
@@ -10162,9 +9380,7 @@ mais non pas de dire qu'elles sontdeplus enplus petites>> ( 1 ) ; [^p280-1]
 
 [^p280-1]: J. PERRIN, Les Éléments de la Physique, p. 17 (Albin Michel, 1929)
 
-[p. 281]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 281] CONNAISSANCE ET RÉALITÉ ABSOLUES
 281
 
 et là aussi l'effort de refonte s'avère possible. Passons main-
@@ -10197,11 +9413,7 @@ et de discours. Cette ébauche d'ordre, que résume l'espace,
 la science expérimentale, par ses moyens opératoires nou-
 veaux, la précise et l'approfondit ; puis la critique achève la
 science en l'expliquant à son tour, la parfait et l'épure en la
-détachant du souci d'utilité. De là un double rôle de laper
-
-[p. 282]
-
-ceptionsavante : 1º recueillir toutes les données réelles, et non
+détachant du souci d'utilité. De là un double rôle de laper [p. 282] ceptionsavante : 1º recueillir toutes les données réelles, et non
 pas seulement les données pratiquement utiles ; 2º déterminer
 l'ordre vrai des phénomènes , l'ordre intime et profond, l'ordre
 élémentaire, et non pas seulement cet ordre superficiel et glo-
@@ -10236,9 +9448,7 @@ maintenant à la seconde . [^p282-1]
 
 [^p282-1]: Matière et Mémoire, p. 38.
 
-[p. 283]
-
-CONNAISSANCE ET RÉALITÉ ABSOLUES
+[p. 283] CONNAISSANCE ET RÉALITÉ ABSOLUES
 283
 
 J'ai distingué naguère deux sens du mot « immédiat » : l'un
@@ -10277,11 +9487,7 @@ pointes intuitives que marquent les éclairs de perception immé-
 diate. Chacune d'elles représente une élévation jusqu'au centre
 supra-conscient de l'esprit. Là est le sommet de lumière
 absolue, où sans doute nul ne s'installe jamais ici-bas , où il
-est permis cependant à chacun de se hausser par intervalles et
-
-[p. 284]
-
-pour un bref moment. L'individu, en tant que séparé, n'y
+est permis cependant à chacun de se hausser par intervalles et [p. 284] pour un bref moment. L'individu, en tant que séparé, n'y
 accède pas , mais seulement la personne, qui trouve alors pos-
 sibilité de communication sympathique avec les autresmonades:
 car c'est là que chaque monade pensante participe à la Pensée,
@@ -10307,9 +9513,7 @@ pensée absolue notre conduite, mélange d'aspiration et de cer-
 titude, un nom à entendre au sens fort que lui donne la reli-
 gion : Espérance .
 
-[p. 285]
-
-ÉPILOGUE
+[p. 285] ÉPILOGUE
 
 Le dessein majeur du présent ouvrage était de répondre aux
 questions suivantes : qu'est-ceque l'intuition? en quoi consiste
@@ -10337,11 +9541,7 @@ de distinguer entre l'intuition primordiale ou préintuition,
 encoreplus ou moins confuse, et l'intuition consommée, qui est
 essentiellement pensée redevenue simple après la dispersion
 d'analyse . C'est cequej'ai fait, en m'attachant surtoutà la forme
-supérieure . Pourquoi ? Il est facile de le comprendre. Nul ne
-
-[p. 286]
-
-conteste l'intuition en tant que préface ou accompagnement de
+supérieure . Pourquoi ? Il est facile de le comprendre. Nul ne [p. 286] conteste l'intuition en tant que préface ou accompagnement de
 discours .Mais l'autonomie de l'intuition finale et parfaite éveille
 nombre de scrupules. Voilà pour quel motifj'ai cru devoir y
 insister davantage. Aussi bien, ici comme ailleurs, les vrais
@@ -10373,9 +9573,7 @@ de la critique ou de la psychologie ; mais elle est suggérée par
 eux et, d'autre part, leur fournit un cadre de synthèse. Je n'ai
 pu y faire, en cours de route, que des allusions rapides. Il sera
 
-[p. 287]
-
-ÉPILOGUE
+[p. 287] ÉPILOGUE
 287
 
 donc utile, pour finir, d'en esquisser brièvement les grandes
@@ -10407,11 +9605,7 @@ rationnel admis désormais comme représentant la vérité de l'u-
 nivers . Les divergences des philosophes dans le passé ont tenu
 sans doute presque toujours à quelque restriction abusive de ce
 programme en trois étapes solidaires. Mais la tendance contem-
-poraine va au contraire vers une synthèse qui se dessine déjà et
-
-[p. 288]
-
-dont nous allons voir tout de suite se dégager le principe essen-
+poraine va au contraire vers une synthèse qui se dessine déjà et [p. 288] dont nous allons voir tout de suite se dégager le principe essen-
 tiellement concret : primat de la pensée, d'une pensée aux mille
 plans successifs entre l'image et le concept, et qui est avant
 tout action créatrice .
@@ -10448,9 +9642,7 @@ Sens et portée en varient profondément aux divers niveaux de
 l'étude, à mesure que s'affine l'analyse ou ques'étendlasynthèse .
 La pensée commune, qui n'envisage les phénomènes que d'une
 
-[p. 289]
-
-ÉPILOGUE
+[p. 289] ÉPILOGUE
 289
 
 façon globale et massive, qui se borne à relier engros un groupe
@@ -10485,11 +9677,7 @@ l'infiniment grand, elles se montrent inadequates. Et cette
 conclusion souligne la part qu'il faut reconnaître en fin de
 
 11
-19
-
-[p. 290]
-
-compte à l'activité de l'esprit, à l'initiativede son imagination
+19 [p. 290] compte à l'activité de l'esprit, à l'initiativede son imagination
 créatrice, de ses opérations, de ses choix,jusque dans les pro-
 vinces du savoir où il ne s'agit toujours que de la matière
 inerte.
@@ -10521,9 +9709,7 @@ des mesures possibles est infinie ; parmi tous ces nombres, il
 faut pêcher ceux qui valent, qui comptent, les nombres signifi-
 catifs ; et c'est une théoriequi les pêche. Partout donc apparaît
 
-[p. 291]
-
-ÉPILOGUE
+[p. 291] ÉPILOGUE
 291
 
 au premier plan dans la connaissance un facteur d'invention .
@@ -10561,9 +9747,7 @@ vation ou d'inertie et une loi d'usure ou de dégradation ; rien
 là qui représente une puissance quelconque de commencement
 ni de progrès . Or, par contre, la vie apparaît comme une his-
 
-[p. 292]
-
-292
+[p. 292] 292
 LA PENSÉE INTUITIVE
 
 toire et même, en dépit de mille accidents régressifs , comme
@@ -10595,9 +9779,7 @@ s'est faite peu à peu et continue de se faire, ni la forme sous [^p292-1]
 
 [^p292-1]: J'emprunte ici quelques formules à un passage de mon livre sur Le problème de Dieu, p. 216. Elles précisent le rapport, précédemment signalé déjà, entre invention et liberté : rapportque ne contredit en rien le devoirde soumission au réel.
 
-[p. 293]
-
-ÉPILOGUE
+[p. 293] ÉPILOGUE
 293
 
 laquelle est perçue l'exigence du devoir et dont la genèse relève
@@ -10632,11 +9814,7 @@ toutes nos puissances de conquête .
 Ces quelques mots d'aperçu évidemment trop rapide suffi-
 ront peut-être néanmoins à faire entrevoir comment une phi-
 losophie de l'invention peut se constituer sans exclure aucun
-point de vue légitime, comment elle peut résoudre au con
-
-[p. 294]
-
-traire mieux que nulle autre le problème central de l'accord
+point de vue légitime, comment elle peut résoudre au con [p. 294] traire mieux que nulle autre le problème central de l'accord
 entre les deux sources detoute pensée vraiment philosophique :
 science et spiritualité.
 Ils n'étaient pas nécessaires au terme
@@ -10680,9 +9858,7 @@ Ainsi toute réflexion suppose un donné ; et une action don-
 nante précède forcément une réflexion quelconque. Celle-ci ne
 peut être jamais qu'un second mouvement. Le nom même de
 
-[p. 295]
-
-ÉPILOGUE
+[p. 295] ÉPILOGUE
 295
 
 réflexion l'indique : il désigne un retour sur une position anté-
@@ -10715,11 +9891,7 @@ mais la pensée ne devient vraiment novatrice et féconde que
 par l'imagination de l'opératoire. Demême,la seule certitude
 indéfectible est cellede l'opératoire ; la seule évidence impé-
 rissable, celle qui invoque, par delà toute vision de rapport
-simplement lu, un acte vif de mise en rapport opératoire ;
-
-[p. 296]
-
-296
+simplement lu, un acte vif de mise en rapport opératoire ; [p. 296] 296
 LA PENSÉE INTUITIVE
 
 vérifier, en somme, c'est toujours et partout réduire à l'opé-
@@ -10743,9 +9915,7 @@ sion de sa forme parfaite et pure. La Philosophie exige, à sa
 manière, entrée dans les voies mystiques ; et c'est ainsi seule-
 ment qu'elle devient discipline positive.
 
-[p. 297]
-
-PRÉFACE .
+[p. 297] PRÉFACE .
 
 TABLE DES MATIÈRES
 

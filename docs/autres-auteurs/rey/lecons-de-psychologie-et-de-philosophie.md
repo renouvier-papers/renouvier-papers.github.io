@@ -10,9 +10,7 @@ title: "Leçons de psychologie et de philosophie (3e éd. 1911)"
 
 ---
 
-[p. V]
-
-PREFACE
+[p. V] PREFACE
 
 Ce livre cherche à s'inspirer partout des exigences de l'expé-
 rience et de la raison, qui ne m'ont jamais paru s'exclure.
@@ -43,11 +41,7 @@ celui que je dois aux miennes propres ; et j'ai pu , en faisant à
 ces dernières leurpart, donner plus de vie et d'unité à l'ensemble .
 Mais j'ai voulu faire un manuel et non défendre un système . Je
 nè m'abuse pas d'ailleurs sur la très imparfaite réalisation d'un
-idéal aussi difficile . Je ne demande qu'à travailler encore en ce
-
-[p. VI]
-
-sens . Il me paraît le seul acceptable quand on s'adresse à des
+idéal aussi difficile . Je ne demande qu'à travailler encore en ce [p. VI] sens . Il me paraît le seul acceptable quand on s'adresse à des
 jeunes gens qui approchent de leur majorité ou l'ont déjà atteinte .
 Je ne me flatte pas du reste de satisfaire ceux pour qui la
 liberté de penser consiste à revendiquer ce droit pour eux et
@@ -89,9 +83,7 @@ de classer d'une façon claire et commode, afin que l'élève puisse [^pVI-1]
 
 [^pVI-1]: Et les revisions que j'ai faites et continuerai à faire ont pour but d'indiquer les modifications que des recherches nouvelles apportent à nos conceptions antérieures .
 
-[p. VII]
-
-les retrouver ou les rappeler aisément quand sa réflexion les
+[p. VII] les retrouver ou les rappeler aisément quand sa réflexion les
 réclame .
 Ce n'est donc pas un cours qu'on peut chercher ici, mais la
 documentation matérielle , les connaissances objectives , les faits
@@ -148,9 +140,7 @@ Méthode des sciences sociales
 définition des faits sociologiques , les
 règles de la méthode sociologique (d'après Durkheim) .
 
-[p. VIII]
-
-(d'après Durkheim et Lévy-Brühl) .
+[p. VIII] (d'après Durkheim et Lévy-Brühl) .
 Revision générale .
 IV . Philosophie générale : Revision générale .
 
@@ -178,9 +168,7 @@ tée . Les ouvrages cités ont été rangés d'après leur date d'apparition
 (les ouvrages traduits d'après la date d'apparition de l'original), à cause
 de l'intérêt scientifique et historique qu'elle présente .
 
-[p. IX]
-
-CONSEILS SUR LA MANIÈRE DE SE SERVIR DE CE LIVRE
+[p. IX] CONSEILS SUR LA MANIÈRE DE SE SERVIR DE CE LIVRE
 
 LA PARTIE NON MARQUÉE DE TRAITS MARGINAUX FOURNIT A PEU
 
@@ -241,9 +229,7 @@ Ce sommaire ne doit pas dispenser l'élève d'un résumé plus
 étendu, fait par écrit, après qu'il a étudié le chapitre ; dans ce résumé
 il complète de ses propres réflexions les faits fournis par le texte.
 
-[p. X]
-
-J'ai publié¹ , en outre, des résumés rédigés avec mes élèves
+[p. X] J'ai publié¹ , en outre, des résumés rédigés avec mes élèves
 au cours des leçons que je leur faisais . Ce sont, à vrai dire, plutôt
 des introductions destinées à faciliter l'étude des questions , à dé-
 gager les points les plus importants, et à les éclaircir, en un mot
@@ -282,9 +268,7 @@ ordre chronologique . [^pX-1] [^pX-2]
 [^pX-1]: A. REY. Psychologie et philosophie . - Introduction aux études philosophiques .- Un vol. petit in-16, 356 pages . Paris , Cornély et Cis, éditeurs . A. REY. Philosophie scientifique et morale . Introduction aux études philo- sophiques . Un vol . petit in-16, 144 pages . Paris , Cornély et C¹ , éditeurs .
 [^pX-2]: Les références des citations renvoient : - quand il y a simplement lenom de l'auteur, à la référence précédente ; - quand il y a un numéro , ou le nom de l'auteur suivi d'un numéro, à la page ainsi numérotée du dernier ouvrage cité de cet auteur ; quand il y a un nom d'ouvrage sans nom d'auteur au dernier auteur cité .- S'il n'y a aucune référence, se reporter à la première indication que l'on rencontrera à la suite . Quelquefois le titre de l'ouvrage est indiqué d'une façon abrégée, mais toujours suffisamment explicite. Se reporter, pour avoirle titre exact et complet, à la bibliogra- phie placée à la fin du volume .
 
-[p. 1]
-
-LIVRE PREMIER
+[p. 1] LIVRE PREMIER
 
 INTRODUCTION
 
@@ -371,11 +355,7 @@ dégagent de la plupart des travaux philosophiques actuels. En
 
 quelques mots elle peut se caractériser ainsi : d'un côté la philo
 
-1
-
-[p. 2]
-
-sophie tend à se rapprocher de la science, et à s'appuyer sur elle
+1 [p. 2] sophie tend à se rapprocher de la science, et à s'appuyer sur elle
 comme point de départ ; de l'autre , elle ne se laisse pas absorber par
 elle ; elle veut conserver une certaine originalité dans son
 objet
@@ -426,11 +406,7 @@ A mesure que son intelligence s'éveillait , l'homme
 l'appliquait
 d'une façon fort désordonnée à la connaissance des objets au milieu
 desquels il vivait . Les perceptions , les images , les idées d'un enfant
-nous présentent assez fidèlement cetteintelligence primitive etcette
-
-[p. 3]
-
-manière toute spontanée de connaître . Nous la trouvons encore dans
+nous présentent assez fidèlement cetteintelligence primitive etcette [p. 3] manière toute spontanée de connaître . Nous la trouvons encore dans
 l'ensemble des préjugés , des superstitions, des idées toutes faites ,
 imposées par la routine et acceptées sans discussion, qui constituent
 la manière de voir courantedu plus grand nombre . Maislarégularité
@@ -478,11 +454,7 @@ entre eux . Chacun de ces groupes est devenu l'objet d'une science
 spéciale qui inventa, pourl'étudier, des procédés spéciaux. La science
 sefractionna en sciences particulières : mathématiques , astronomie ,
 mécanique , physique , chimie , etc. Ces sciences spéciales , les unes
-après les autres, se séparèrent des essais de science universelle
-
-[p. 4]
-
-où elles étaient d'abord confondues . Elles formèrent
+après les autres, se séparèrent des essais de science universelle [p. 4] où elles étaient d'abord confondues . Elles formèrent
 le domaine
 proprement scientifique , le domaine des sciences positives .
 
@@ -538,9 +510,7 @@ de connaître , on continue à poursuivre parallèlement des essais de
 science universelle désignés sous le nom de spéculations philoso-
 phiques . La tradition essaye de les justifier par les raisons suivantes .
 
-[p. 5]
-
-INTRODUCTION
+[p. 5] INTRODUCTION
 : LA SCIENCE ET LA PHILOSOPHIE
 5
 
@@ -597,11 +567,7 @@ de façon à ne pas entraver leurs progrès par des questions oiseuses
 
 ou insolubles .
 
-4º Nous savons, d'autre part, que, si l'homme a cherché à con-
-
-[p. 6]
-
-naître la nature , c'était , dans une large mesure , qu'il y était con-
+4º Nous savons, d'autre part, que, si l'homme a cherché à con-[p. 6]naître la nature , c'était , dans une large mesure , qu'il y était con-
 traint par les nécessités pratiques . Pour vivre, il faut agir,
 et
 pour agir il faut savoir, si l'on veut que l'action soit utile et profi-
@@ -664,9 +630,7 @@ font foi : « Avec l'apparition de la raison , c'est-à-dire de l'homme, la
 sagesse de la nature s'éveille pour la première fois à la réflexion :
 elle s'étonne de ses propres œuvres , et se demande à elle-même ce
 
-[p. 7]
-
-INTRODUCTION
+[p. 7] INTRODUCTION
 LA SCIENCE ET LA PHILOSOPHIE
 7
 
@@ -724,11 +688,7 @@ se décompose à travers un prisme en rayons diversement colorés.
 Son travail consiste à suivre la nature pas à pas et à ne rien
 avancer qui ne se trouve présenté par la nature. Mais, puisque les
 recherches philosophiques, au lieu de porter surdes faits, portent seu-
-lementsur les résultats que l'esprit obtient en appliquant à ces faits
-
-[p. 8]
-
-l'observation et l'expérience, il nepeut être question de recourir à ces
+lementsur les résultats que l'esprit obtient en appliquant à ces faits [p. 8] l'observation et l'expérience, il nepeut être question de recourir à ces
 méthodes . On réfléchira au contraire sur les résultats scientifiques ,
 on les analysera à l'aide de la seule raison, onen déduira les consé-
 quences , idéalement. La philosophie se distingue donc par sa mé-
@@ -777,9 +737,7 @@ auquel doit se placer le philosophe .
 5° Enfin nous arrivons à ladifférence capitale qui séparerait tou-
 jours les sciences de laphilosophic, quels que soient leurs progrès .
 
-[p. 9]
-
-INTRODUCTION
+[p. 9] INTRODUCTION
 LA SCIENCE ET LA PHILOSOPHIE
 9
 
@@ -843,9 +801,7 @@ s'égarer dans une voie mystique et de suivre les jeux de notre
 pauvre imagination, en abandonnant le terrain solide des sciences
 et de l'expérience .
 
-[p. 10]
-
-Aussi bien , tous les grands systèmes de philosophie que nous
+[p. 10] Aussi bien , tous les grands systèmes de philosophie que nous
 trouvons dans l'histoire , depuis Platon jusqu'à Kant , en passant
 par Aristote , Galilée , Descartes , Bacon , Newton , Leibniz et Spinosa,
 ont été l'œuvre de très grands savants . Ils ont été
@@ -895,9 +851,7 @@ n'est pas pris dans son sens propre . Elle reste essentiellement un [^p10-1]
 
 [^p10-1]: Cf. Pascal , Préface du « Traité sur le Vide » ; Descartes , Discours de la Méthode , 1º partie.
 
-[p. 11]
-
-INTRODUCTION
+[p. 11] INTRODUCTION
 : LA SCIENCE ET LA PHILOSOPHIE
 11
 
@@ -954,11 +908,7 @@ des interprétations qui en peuvent être données pour établir les
 applications pratiques auxquelles ils conduisent .
 5º Est-ce là toutes les études particulières que comportent les
 
-recherches philosophiques? Savoir et action ont leur condition
-
-[p. 12]
-
-nécessaire dans la conscience , dans la connaissance que nous avons
+recherches philosophiques? Savoir et action ont leur condition [p. 12] nécessaire dans la conscience , dans la connaissance que nous avons
 de nous-même comme être pensant et agissant , doué de sentiment,
 d'intelligence et de volonté . Aussi on a longtemps considéré
 et
@@ -1005,11 +955,7 @@ chacune une méthode et un domaine
 absolument distincts .
 La
 science n'étudierait qu'une partie de l'expérience, qu'on la prenne
-en étendue aussi bien qu'en profondeur . Cette tendance se présente
-
-[p. 13]
-
-de façons fort diverses : agnostiques professant un scepticisme com-
+en étendue aussi bien qu'en profondeur . Cette tendance se présente [p. 13] de façons fort diverses : agnostiques professant un scepticisme com-
 plet à l'égard de la science et des facultés humaines ; mystiques
 trouvant, dans le sentiment et la foi, des moyens de connaissance ,
 des intuitions , supérieurs à la science ; certains métaphysiciens ,
@@ -1054,9 +1000,7 @@ centrale de la philosophie.
 partie négative ou critique de leurs philosophies (d'ailleurs très
 nuancées et très diverses) se confond avec la critique de Bergson .
 
-[p. 14]
-
-Mais leur partie positive est fort différente, en ce qu'ils répugnent à
+[p. 14] Mais leur partie positive est fort différente, en ce qu'ils répugnent à
 construire une métaphysique systématique . Pour eux , l'expérience
 réelle n'est pas seulement l'ensemble de ces données que retrouve
 la réflexion . C'est tout ce qui est donné. De ce vaste ensemble la
@@ -1103,11 +1047,7 @@ jamais complète , mais elle n'est pas d'avance et théoriquement im-
 possible . On peut s'en approcher toujours davantage au fur et à
 mesure des progrès scientifiques . La science est donc susceptible , par
 sa méthode et par les hypothèses qui font partie intégrante de cette
-méthode , d'aborder leur étude. Elle peut prétendre, à la limite, à la
-
-[p. 15]
-
-connaissance de l'absolu, pourvu qu'on sache bien comprendre
+méthode , d'aborder leur étude. Elle peut prétendre, à la limite, à la [p. 15] connaissance de l'absolu, pourvu qu'on sache bien comprendre
 ce mot .
 
 Il n'implique pas , est-il besoin de le dire, que l'homme soit, un
@@ -1118,7 +1058,7 @@ le rendent capable de pénétrer peu à peu le réel . Chaque décou-
 verte est un coup de sonde qu'il y jette , et qui lui en révèle
 quelque fragment . Ce positivisme élargi, réaliste et non plus rela-
 tiviste, n'admet plus comme le positivisme orthodoxe des limites
-fixées d'avance et a priori à l'investigation légitime .
+fixées d'avance et *a priori* à l'investigation légitime .
 La philosophie ne se sépare plus ici de la science elle-même ,
 celle- ci offrant moins une « somme » de vérités définitives que
 l'ensemble organique de toutes nos méthodes de connaissance con-
@@ -1153,11 +1093,7 @@ ment prouvé leur insuffisance . Quand on a une méthode sûre , il
 faut s'y tenir, surtout lorsqu'on n'a jamais pu en trouver d'autre
 qui offre les mêmes garanties, qui offre même des garanties quel-
 conques , pour rallier le consentement universel .
-Pour appuyer cette opinion, le positivisme peut montrer que les
-
-[p. 16]
-
-derniers fragments de la réalité, où l'on n'avait pas encore essayé
+Pour appuyer cette opinion, le positivisme peut montrer que les [p. 16] derniers fragments de la réalité, où l'on n'avait pas encore essayé
 l'application de la méthode scientifique et que la philosophie con-
 tinuait à revendiquer comme son objet propre , commencent à être
 aujourd'hui étudiés à l'aide de cette méthode . La science est devenue
@@ -1201,9 +1137,7 @@ A.
 Rapports de la psychologie et de la philosophie . —
 Actuellement on peut dire que la question semble réglée pour la
 
-[p. 17]
-
-INTRODUCTION
+[p. 17] INTRODUCTION
 : LA SCIENCE ET LA PHILOSOPHIE
 17
 
@@ -1278,9 +1212,7 @@ certains métaphysiciens , l'application de la méthode expérimentale
 
 [^p17-1]: Quoiqu'on ait pu observer depuis une dizaine d'années un retour offensif de la métaphysique dans le domaine de la psychologie et que celle- ci ait peut-être d'abord trop attendu de certaines de ses méthodes scientifiques , et trop présumé de ses forces .
 
-[p. 18]
-
-une abstraction, mais comme une réalité concrète, le phénomène
+[p. 18] une abstraction, mais comme une réalité concrète, le phénomène
 psychologique est un phénomène à double face ; ce qui se présente
 dans la conscience est accompagné de mouvements externes , de
 concomitants physiologiques , qui tombent sous les sens et sont
@@ -1323,11 +1255,7 @@ On retrouvera la question à propos de la méthode en psychologie .
 (Cf. Logique , p . 721 sq .)
 
 B. Rapports de l'esthétique, de la logique, de la morale et
-de la philosophie.' - La question est loin d'être aussi avancée en
-
-[p. 19]
-
-ce qui concerne les rapports de l'esthétique, de la logique et de la
+de la philosophie.' - La question est loin d'être aussi avancée en [p. 19] ce qui concerne les rapports de l'esthétique, de la logique et de la
 morale, avec la philosophie, qu'en ce qui concerne les rapports de
 la psychologie et de la philosophie .
 Il y a une certaine similitude entre ces
@@ -1374,9 +1302,7 @@ résultats qu'ils obtiennent. Cela est surtout manifeste à propos de
 la morale, car l'esthétique et la logique ont déjà des parties posi-
 tives bien établies .
 
-[p. 20]
-
-C. Conclusion . - En somme , on peut, pour s'en tenir aux con-
+[p. 20] C. Conclusion . - En somme , on peut, pour s'en tenir aux con-
 clusions qu'autorise l'état actuel des choses , avancer que la psycho-
 logie sera désormais une science positive , une science expérimen-
 tale , une science de faits . Si l'on y rencontre parfois encore des
@@ -1417,9 +1343,7 @@ déterminer notre rôle, notre place, notre destinée dans la nature, [^p20-1]
 
 [^p20-1]: Il est vrai qu'elles devraient s'appuyer beaucoup plus encore sur la sociologie, car l'activité humaine est, au moins le plus souvent, une activité sociale . Malheureusement la sociologie est dans un état encore si rudimentaire qu'il nous paraît impossible de tenter un < manuel » de sociologie . Nous nous contenterons ici de faire appel et de renvoyer toutes les fois qu'il sera possible aux travaux sociologiques (histoire de l'art pour l'esthétique , histoire des sciences pour la logique, histoire des institutions et des mœurs et travaux sociologiques proprement dits pour la morale) .
 
-[p. 21]
-
-INTRODUCTION
+[p. 21] INTRODUCTION
 LA SCIENCE ET LA PHILOSOPHIE
 21
 
@@ -1458,9 +1382,7 @@ cherches sous le nom traditionnel de philosophie . Et c'est pourquoi
 nous pouvons encore réunir ces recherches un peu disparates, sous
 le nom plus traditionnel que juste de « sciences philosophiques » .
 
-[p. 23]
-
-PSYCHOLOGIE
+[p. 23] PSYCHOLOGIE
 
 LIVRE
 II
@@ -1509,9 +1431,7 @@ exacte d'une science, il faut donc examiner le groupe de phéno-
 mènes qu'elle étudie, ce qu'on appelle son objet, et essayer de le
 définir, ce qui définira la science elle-même .
 
-[p. 24]
-
-24
+[p. 24] 24
 LA CONSCIENCE
 
 Or, la psychologie est une science, et, si nous voulons la définir ,
@@ -1568,11 +1488,7 @@ logie et la sociologie s'étend donc toute une région commune sur
 laquelle travaillent utilement psychologues et sociologues : la psy-
 chologie sociale .
 Une difficulté beaucoup plus grande, c'est qu'il y a une multi-
-tude de faits qui interviennent dans la production des mouvements
-
-[p. 25]
-
-dits conscients , et qui sont « inconscients » . L'activité qu'ils cons-
+tude de faits qui interviennent dans la production des mouvements [p. 25] dits conscients , et qui sont « inconscients » . L'activité qu'ils cons-
 tituent a tous les caractères ou presque tous les caractères de
 l'activité consciente ; mais autant qu'on peut s'en rendre compte
 sur autrui , et en tout cas sur nous-mêmes , elle n'est pas consciente .
@@ -1617,9 +1533,7 @@ chimie, etc.
 Mais si j'absorbe de l'alcool ou dela morphine , si mon œil atelie
 ou telle hallucination , si les sensations antécédentes ou concomi-
 
-[p. 26]
-
-26
+[p. 26] 26
 LA CONSCIENCE
 
 tantes que j'ai ressenties ont modifié les sensations de couleur,
@@ -1675,9 +1589,7 @@ tères généraux qui paraissent appartenir aussi , autant qu'on a pu
 s'en rendre compte jusqu'à présent, à la vie psychologique au-
 tomatique . La conscience est un changement , un devenir perpétuel .
 
-[p. 27]
-
-Si nous nous examinons nous-mêmes , nous observons une succes-
+[p. 27] Si nous nous examinons nous-mêmes , nous observons une succes-
 sion ininterrompue et continue de faits (images, idées , plaisirs ,
 douleurs , émotions, actes , etc.) dont la physionomie se transforme
 continuellement .
@@ -1726,11 +1638,7 @@ dans ses résultats. Il y a plus qu'un simple rapprochement, il ya
 une véritable fusion, une intégration .
 Mais cela suppose nécessairement que l'ordre primitif peut être
 changé , que la conscience peut détacher certains états de la trame
-dans laquelle ils étaient engagés , les isoler, les mettre à part, pour
-
-[p. 28]
-
-28
+dans laquelle ils étaient engagés , les isoler, les mettre à part, pour [p. 28] 28
 LA CONSCIENCE
 
 établir ensuite l'ordre nouveau et fusionner des éléments antérieu-
@@ -1785,11 +1693,7 @@ consiste à ressentir certaines iufluences et à se diriger d'après elles .
 C'est ce que nous appelons, par analogie avec ce que nous observons
 sur nous-mêmes , une conscience. Or l'observation nous montre que
 l'irritation primitive se transforme en mouvements spontanés et
-adaptés chez les animaux doués d'un système nerveux , et chez ceux-
-
-[p. 29]
-
-axe
+adaptés chez les animaux doués d'un système nerveux , et chez ceux-[p. 29]axe
 cellulaires
 Dandrites
 Cylindre
@@ -1852,11 +1756,7 @@ icellulaires
 Dendrites
 (filets
 àarborescences
-)
-
-[p. 30]
-
-30
+) [p. 30] 30
 LA CONSCIENCE
 
 réponse à ces excitations . Le neurone paraît du reste garder de
@@ -1906,11 +1806,7 @@ qu'elles ont entraînées . Certaines impressions sont conservées pour
 ainsi dire à l'état latent dans les réseaux neuriques qui constituent
 les centres, et elles peuvent, sans nouvelle impression extérieure ,
 donner lieu à des mouvements réactifs bien définis . Certaines asso-
-ciations et certaines directions surtoutse conservent avecpersistance ,
-
-[p. 31]
-
-les fibres associatives présentant sans doute une facilité plus grande
+ciations et certaines directions surtoutse conservent avecpersistance , [p. 31] les fibres associatives présentant sans doute une facilité plus grande
 à être parcourues à nouveau par le courant nerveux, quand elles
 l'ont été déjà . Tout se passe donc comme si un véritable souvenir
 des impressions et des excitations se conservait organiquement dans
@@ -1960,9 +1856,7 @@ Avec ces centres , lesmouvements deviennent plus complexes , plus
 importants , plus précis. Impressions et réactions sont coordonnées
 et assez bien appropriées les unes aux autres, surtout chez les anı-
 
-[p. 32]
-
-32
+[p. 32] 32
 LA CONSCIENCE
 
 maux dont les centres supérieurs à ceux-ci sont peu développés :
@@ -2096,11 +1990,7 @@ A gauche : Figure schématique montrant la hiérarchie des différents centres d
 ration et le cheminement des impressions nerveuses.
 A droite : Coupe schématique du cerveau indiquant la forme et la place de ces centres.
 
-<<Dans la mesure où l'on a pu, par la section de la moelle épinière
-
-[p. 33]
-
-et par l'excitation des parties situées au-dessous de la section, pro-
+<<Dans la mesure où l'on a pu, par la section de la moelle épinière [p. 33] et par l'excitation des parties situées au-dessous de la section, pro-
 voquer des réflexes chez les mammifères , ces réflexes ont paru
 jusqu'à un certain point coordonnés, mais pas si bien appropriés
 que chez les grenouilles . »
@@ -2145,11 +2035,7 @@ céphale moyen , paraît encore en possession des appareils moteurs
 nécessaires à l'exercice des mouvements spontanés , mais ne se meut ,
 semble-t-il, que si une excitation sensible déterminée l'y pousse. Il
 
-3
-
-[p. 34]
-
-34
+3 [p. 34] 34
 LA CONSCIENCE
 
 lui manque l'aptitude àprendre une initiative. Elle asur la grenouille,
@@ -2225,11 +2111,7 @@ figure : Surface externe d'un hémisphère .
 si on la jette dans l'eau, l'excitation produite par le mouvement
 des molécules liquides la fait nager. Mais elle a toujours besoin
 pour se mouvoir d'une impulsion extérieure. » (Id. )
-ɛ Nous rencontrons enfin les hémisphères cérébraux ou cerveau
-
-[p. 35]
-
-proprement dit : « Le cerveau forme la clefde voûte de l'ingénieuse
+ɛ Nous rencontrons enfin les hémisphères cérébraux ou cerveau [p. 35] proprement dit : « Le cerveau forme la clefde voûte de l'ingénieuse
 construction du système nerveux. Plus nous nous en approchons ,
 
 plus aussi les rapports deviennent compliqués, plus se multiplient
@@ -2333,9 +2215,7 @@ il est ainsi l'organe tend à ramener à l'unité toutes les données
 
 de la conscience .
 
-[p. 36]
-
-36
+[p. 36] 36
 LA CONSCIENCE
 
 3º Fonction de dissociation .
@@ -2388,9 +2268,7 @@ cience , [^p36-1]
 
 [^p36-1]: Voir, dans la LOGIQUE (p. 655), l'examen de cette méthode.
 
-[p. 37]
-
-Cette définition est importante au point de vue de la méthode
+[p. 37] Cette définition est importante au point de vue de la méthode
 psychologique
 : l'observation interne permet sans doute de décrire
 le fait de conscience, mais elle ne peut jeter les fondements d'une
@@ -2438,9 +2316,7 @@ physiologues , même de la majorité d'entre eux. L'exposé fait ici peut
 encore être considéré comme le résumé des faits les plus généralement
 admis .
 
-[p. 38]
-
-1.
+[p. 38] 1.
 II.
 
 111.
@@ -2490,9 +2366,7 @@ système nerveux . Cabanis a dit
 comme le foie sécrète la bile » , et Maudsley : « L'homme n'est pas
 une plus mauvaise machine sans la conscience qu'avec elle . >>>
 
-[p. 39]
-
-La conscience n'est donc qu'un reflet, un luxe , un témoin inactif,
+[p. 39] La conscience n'est donc qu'un reflet, un luxe , un témoin inactif,
 un épiphénomène qui nous renseigne sur quelques-uns des états
 qui se passent en nous, mais n'intervient aucunement dans leur for-
 mation et leurs modifications ; on peut la négliger complètement
@@ -2534,9 +2408,7 @@ niques .
 Il s'ensuit que la psychologie est une science légitime et
 nécessaire , et nécessairement indépendante de la physiologie .
 
-[p. 40]
-
-40
+[p. 40] 40
 LA CONSCIENCE
 
 II .
@@ -2585,11 +2457,7 @@ Nous ne concevons pas comment, en s'additionnant, des proces-
 sus nerveux peuvent arriver à prendre conscience d'eux-mêmes , à
 savoir eux-mêmes ce qu'ilssont . Notre système nerveux sait ce qu'il
 est, connaît les états qui l'affectent, les mouvements qu'il produit .
-Or, entre cette propriété et toutes les modifications organiques qui
-
-[p. 41]
-
-se passent au sein de ce système, il y a une différence indéniable .
+Or, entre cette propriété et toutes les modifications organiques qui [p. 41] se passent au sein de ce système, il y a une différence indéniable .
 Cettedifférence entraîne, entre lapsychologie et la physiologie, une
 différence analogue à celle qui existe entre deux autres sciences quelles
 qu'elles soient , par exemple entre les mathématiques et la physique
@@ -2638,11 +2506,7 @@ ment physiologique. Affirmer que la psychologie est une science
 indépendante de la physiologie, ce n'est pas dire autre chose.
 2º Ainsile caractère d'être conscient, de donner à un être notion
 de lui-même et de ce qui lui arrive , voilà le caractère fondamental
-qui nécessite, pour le fait psychologique , une étude distincte de celle
-
-[p. 42]
-
-42
+qui nécessite, pour le fait psychologique , une étude distincte de celle [p. 42] 42
 LA CONSCIENCE
 
 naître cette propriété d'une façon scientifique , nous voyons tout de
@@ -2701,11 +2565,7 @@ chimiques ?
 D'ailleurs les procédés physiologiques d'expérimentation ne sont,
 en psychologie, qu'un biais pour atteindre autre chose que le fait
 physiologique , à savoir le fait de conscience, tandis qu'en physio-
-logie ils sont dirigés directement vers la connaissance des faits
-
-[p. 43]
-
-physiologiques . Aussi, en physiologie, ne fait-on jamais intervenir
+logie ils sont dirigés directement vers la connaissance des faits [p. 43] physiologiques . Aussi, en physiologie, ne fait-on jamais intervenir
 les opinions du sujet expérimenté. Au contraire, lorsqu'un psycho-
 logue exécute une expérience sur un sujet par des moyens physio-
 logiques ,
@@ -2749,11 +2609,7 @@ extérieures qui les ont produites , mais indépendamment de notre
 conscience et de notre organisation individuelle , ce qui est l'objet
 des sciences autres que la psychologie, la nature nous présente un
 nouvel ordre de faits à étudier : nos sensations dans leur rapport
-avec notre conscience et notre organisation propre; et l'on voit que
-
-[p. 44]
-
-44
+avec notre conscience et notre organisation propre; et l'on voit que [p. 44] 44
 LA CONSCIENCE
 
 ce nouvel ordre de faits est suffisamment différencié des autres
@@ -2824,9 +2680,7 @@ mentl'effet de causes données, qui accompagnenttoujours la disso-
 ciation consciente : elle est élective . L'attention nous présente un
 détail aux dépens des autres , qu'elle supprime .
 
-[p. 45]
-
-3º Toute combinaison matérielle ou physiologique est une associa-
+[p. 45] 3º Toute combinaison matérielle ou physiologique est une associa-
 tion ; mais , dans une combinaison matérielle ou physiologique , il y
 a toujours juxtaposition mécanique . Avec des réactifs puissants , on
 peut toujours dissocier une combinaison et isoler ses éléments .
@@ -2872,11 +2726,7 @@ suivre la chaîne ; elle nous apparaîtrait comme brisée.
 suivant et d'un très grand nombre d'autres , la conscience apparaît
 au sein des autres phénomènes naturels , et, pour préciser au milieu
 des phénomènes purement physiologiques qui constituent le vivant,
-comme une force d'adaptation , un facteur d'évolution , absolument
-
-[p. 46]
-
-46
+comme une force d'adaptation , un facteur d'évolution , absolument [p. 46] 46
 LA CONSCIENCE
 
 nécessaire à l'existence d'un organisme qui a atteint une certaine
@@ -2930,11 +2780,7 @@ tique .
 Cette forme d'énergie n'est pas plus mystérieuse que les
 autres . Elle se manifeste quand disparaît une certaine quantité
 d'autres énergies , en particulier l'énergie chimique et biologique .
-La conscience est donc avec le physiologique dans le même rap-
-
-[p. 47]
-
-port que la chaleur avec le mouvement dans les théories de la
+La conscience est donc avec le physiologique dans le même rap-[p. 47]port que la chaleur avec le mouvement dans les théories de la
 thermodynamique .
 Mais on risque de tomber assez vite dans une interprétation
 métaphysique . Si l'on admet au contraire que les diverses mani-
@@ -2954,9 +2800,7 @@ sans aller plus loin, en attendant de l'établissement progressif de
 telles relations les éclaircissements possibles, s'il en est, au sujet
 de leur nature .
 
-[p. 48]
-
-4
+[p. 48] 4
 
 CHAPITRE IV
 
@@ -3007,11 +2851,7 @@ nous voyons qu'elle nous fait connaître des impressions venues du
 monde extérieur : ces impressions déterminent une certaine tonalité
 dans notre vie psychologique, une attitude de bien-être ou de mal-
 être ; puis nous dirigeons nos mouvements et réagissons sur les causes
-extérieures de ces impressions, en vertu de la connaissance que nous
-
-[p. 49]
-
-en avons et de la tonalité qu'elles ont déterminée. On peut donc
+extérieures de ces impressions, en vertu de la connaissance que nous [p. 49] en avons et de la tonalité qu'elles ont déterminée. On peut donc
 dire que, plus ou moins clairement, l'analyse d'un moment assez
 durable de notre vie psychologique nous amène à constater trois
 ordres de phénomènes bien distincts : les phénomènes de connais-
@@ -3064,11 +2904,7 @@ lulipètes des neurones, nerfs sensitifs),qui recueillent et amènent les
 impressions aux centres ; les éléments efférents (cylindres-axes et nerfs
 moteurs ), qui transmettent l'énergie nerveuse aux organes moteurs .
 
-4
-
-[p. 50]
-
-50
+4 [p. 50] 50
 LA CONSCIENCE
 
 Les nerfs afférents enfin constituent deux systèmes , le système
@@ -3114,11 +2950,7 @@ rons de considérer la conscience comme formée par la juxtaposition
 de phénomènes isolés et sans rapports intimes entre eux. La cons-
 cience, quels que soientles points saillantsquifixentnotre attention , en
 se séparant de l'ensemble, est avant tout une unité organique , sem-
-blable à celle de l'être vivant dont elle n'est que l'aspect interne :
-
-[p. 51]
-
-elle est constamment et à la fois , quoique à des degrés très différents ,
+blable à celle de l'être vivant dont elle n'est que l'aspect interne : [p. 51] elle est constamment et à la fois , quoique à des degrés très différents ,
 affective , représentative et motrice . De même que , dans l'organisme,
 les différentes parties, et, en particulier, les différents éléments du
 système nerveux, ne peuvent vivre et subsister les uns sans les
@@ -3166,11 +2998,7 @@ apparence immédiates des sensations ( connaissance sensible) ;
 les
 faits actifs sont les impulsions instinctives . Réfléchis , élaborés , nous
 avons dans l'ordre affectif le sentiment , combinaison d'émotions
-atténuées , intellectualisées et beaucoup plus durables ; dans l'ordre
-
-[p. 52]
-
-52
+atténuées , intellectualisées et beaucoup plus durables ; dans l'ordre [p. 52] 52
 LA CONSCIENCE
 
 représentatif, la connaissance intellectuelle , c'est-à-dire les idées ou
@@ -3231,11 +3059,7 @@ et qui est toujours , dans une certaine mesure, voulue et réfléchie.
 C. Subdivision des faits de conscience spontanés en deux
 classes : faits complexes et faits élémentaires .
 Les événe-
-ments de la vie psychologique spontanée se divisent eux-mêmes
-
-[p. 53]
-
-en deux classes
+ments de la vie psychologique spontanée se divisent eux-mêmes [p. 53] en deux classes
 : les événements complexes et les événements
 simples ou élémentaires qu'il est difficile d'observer directement,
 et isolés .
@@ -3279,9 +3103,7 @@ simples de conscience que l'analyse introspective (d'une façon vague)
 et l'expérience nous permettent de nous représenter. C'est avec eux
 que commence l'étude psychologique proprement dite.
 
-[p. 54]
-
-54
+[p. 54] 54
 LA CONSCIENCE
 
 III . - EXISTENCE D'UN TROISIÈME DEGRÉ AU-DESSOUS DE LA SPONTANÉITÉ
@@ -3339,9 +3161,7 @@ L'habitude , qui ne fait qu'un avec la mémoire, répète d'une fa-
 absolument conscients . Les tics sont de cet ordre . De même cer-
 tains besoins et certaines inclinations émotives .
 
-[p. 55]
-
-3º Les faits conscients peuvent résulter d'un travail préparatoire
+[p. 55] 3º Les faits conscients peuvent résulter d'un travail préparatoire
 inconscient : telle l'appréciation des distances , et, nous le verrons ,
 tous les phénomènes de la perception extérieure, et telle encore la
 formation des émotions .
@@ -3388,11 +3208,7 @@ mique, qui est un état latent d'activité, d'élaboration, d'incubation .
 On pourrait donner à profusion des preuves de cette rumination
 inconsciente . Le fait bien connu qu'un travail intellectuel gagne à
 être interrompu ; qu'en le reprenant on le trouve souvent éclairci,
-transformé, même achevé, » en est un exemple . (Ribot, Essai sur
-
-[p. 56]
-
-56
+transformé, même achevé, » en est un exemple . (Ribot, Essai sur [p. 56] 56
 LA CONSCIENCE
 
 l'imagination créatrice , p. 283.) La plus grande partie du travail
@@ -3438,11 +3254,7 @@ et motrices paraissent le plus souvent subordonnés à notre fonction
 représentative : c'est cet aspect que nous présente la vie psycholo-
 gique supérieure, celle de « l'homme blanc, adulte et civilisé » .
 Si bien qu'il convient, pour savoir clairement de quoi l'on parle ,
-de connaître d'abord cette fonction représentative, qui éclaire en
-
-[p. 57]
-
-quelque sorte toutes les autres et comprend de toutes les manifes-
+de connaître d'abord cette fonction représentative, qui éclaire en [p. 57] quelque sorte toutes les autres et comprend de toutes les manifes-
 tations de la conscience celles qui sont les plus immédiatement
 accessibles .
 Nous étudierons donc d'abord les faits représentatifs, en renver-
@@ -3491,11 +3303,7 @@ rales de la conscience .
 
 1º Mémoire et habitude.
 2º Association .
-3º Attention
-
-[p. 58]
-
-58
+3º Attention [p. 58] 58
 LA CONSCIENCE
 
 B. ÉTUDES DE FAITS PSYCHOLOGIQUES PARTICULIERS .
@@ -3551,9 +3359,7 @@ La personnalité .
 
 L'automatisme psychologique.
 
-[p. 59]
-
-CHAPITRE V
+[p. 59] CHAPITRE V
 
 L'INCONSCIENT
 OU AUTOMATISME PSYCHOLOGIQUE
@@ -3596,9 +3402,7 @@ N'y a-t-il pas contradiction à parler d'un inconscient qui joue un
 rôledans la conscience ? d'un fait psychologique inconscient, puisque
 le caractère essentiel du fait psychologique, c'est d'être conscient ?
 
-[p. 60]
-
-60
+[p. 60] 60
 LA CONSCIENCE
 
 C'est la solution de ce problème qu'ont tentée les nombreuses
@@ -3650,9 +3454,7 @@ science est un reflet qu'ils produisent dans certaines circonstances .
 Rien d'étonnant donc à ce que tout fait conscient soit le produit
 d'éléments inconscients et d'opérations inconscientes .
 
-[p. 61]
-
-c) Quelques idéalistes , en particulier Leibniz dont se réclament
+[p. 61] c) Quelques idéalistes , en particulier Leibniz dont se réclament
 beaucoup de philosophes contemporains
 (Renouvier entre autres ) ,
 renversent complètement le point de vue matérialiste . Pour eux
@@ -3698,11 +3500,7 @@ Tordinaire, accompagne le travail des centres nerveux est absent.>>>
 Comment expliquer qu'il soit présent dans certains cas , absent en
 d'autres? Comment passer de l'organisme au conscient? La théorie
 physiologique se refuse à répondre à cette question qui est du
-domaine métaphysique des origines de la conscience . Elle ne
-
-[p. 62]
-
-02
+domaine métaphysique des origines de la conscience . Elle ne [p. 62] 02
 LA CONSCIENCE
 
 dit pas, comme la philosophie matérialiste le disait tout à l'heure ,
@@ -3756,9 +3554,7 @@ particulière et élémentaire des phénomènes conscients , mais ils sont
 en dehors de la conscience de notre activité générale ; ils ne sont
 pas rattachés au moi .
 
-[p. 63]
-
-Des observations précises rendent cette conception très vraisem-
+[p. 63] Des observations précises rendent cette conception très vraisem-
 blable. Voici un cas typique rapporté par Pierre Janet : « Après
 un malaise initial, elle (le sujet examiné) tombe évanouie : les
 muscles sont flasques, la figure pâle. Aucun geste ni mouvement
@@ -3814,11 +3610,7 @@ sibles le mouvement libre et naturel des représentations et leur
 lutte mutuelle. Plus tard, les idées fixes elles-mêmes ne peuvent
 etre maintenues et développées. Enfin, il se produit une absence
 complète d'images et de pensées . Les impressions sensibles ne sont
-plus élaborées, la mémoire est presque éteinte, et le langage en
-
-[p. 64]
-
-64
+plus élaborées, la mémoire est presque éteinte, et le langage en [p. 64] 64
 LA CONSCIENCE
 
 majeure partie aboli... L'absence de connexion ne caractérise pas
@@ -3870,9 +3662,7 @@ un retour à l'état ancestral . Chez les animaux supérieurs et chez
 
 [^p64-1]: Ces conclusions seront éclaircies et développées dans la suite de ces études . notamment p. 209 .
 
-[p. 65]
-
-l'homme primitif, toutes les actions trophiques entraient, d'après
+[p. 65] l'homme primitif, toutes les actions trophiques entraient, d'après
 eux, dans la conscience et étaient réglées par elle ; au cours de l'évo-
 lution, cela s'est organisé : la conscience supérieure a laissé à la
 conscience subliminale le soin de gouverner silencieusement la vie
@@ -3918,11 +3708,7 @@ nuité croissante ou décroissante de la conscience ; on a même pu
 soutenir que la conscience « répugne à la continuité !>>>
 << En somme , les deux théories rivales sont également impuis-
 
-5
-
-[p. 66]
-
-66
+5 [p. 66] 66
 LA CONSCIENCE
 
 (Ribot , Essai sur l'imagination créatrice , p . 284 sq . )
@@ -3968,11 +3754,7 @@ Ces conclusions générales , admises à peu
 près par tous les psychologues actuels, s'opposent dans une certaine
 mesure aux conclusions
 auxquelles arrivaient presque tous les
-psychologues antérieurs . Traitant leur objet d'une façon abstraite
-
-[p. 67]
-
-et idéologique, ils considéraient la conscience comme une suite
+psychologues antérieurs . Traitant leur objet d'une façon abstraite [p. 67] et idéologique, ils considéraient la conscience comme une suite
 d'états isolés en eux-mêmes , fixes et bien déterminés ; et même
 quelquefois, comme dans l'école écossaise, puis dans l'école éclec-
 tique , ils isolaient la conscience des états de conscience et la con-
@@ -4017,11 +3799,7 @@ lui-même constamment, l'équilibre ne peut être qu'instable
 : il
 faudra ou que l'habitude acquise se transforme, ou que s'y adjoignent
 de nouvelles habitudes ; de nouvelles modifications se produiront
-donc dans l'être vivant ; de nouvelles oscillations amèneront un
-
-[p. 68]
-
-68
+donc dans l'être vivant ; de nouvelles oscillations amèneront un [p. 68] 68
 LA CONSCIENCE
 
 nouvel état d'équilibre et ainsi de suite , à peu près sans fin . Mais , dira-
@@ -4074,11 +3852,7 @@ b) Application de la théorie de l'évolution à la psychologie.
 sciences psychologiques , dans leur état actuel, font intervenir à leur
 tour cette théorie dans toutes leurs considérations , dans tous leurs
 
-Les
-
-[p. 69]
-
-essais d'explication. L'organisme pyschologique est étroitement
+Les [p. 69] essais d'explication. L'organisme pyschologique est étroitement
 lié à l'organisme physiologique : il doit donc subir les mêmes lois ,
 évoluer d'après les mêmes principes, se développer d'après les
 mêmes conditions : adaptation , sélection naturelle, habitudes utiles .
@@ -4126,11 +3900,7 @@ peuvent alors être , soit utiles , c'est-à-dire l'équilibrer, l'adapter au
 milieu , soit nuisibles , c'est-à-dire provoquer sa déchéance et même
 sa mort. Il faut de toute nécessité qu'un tri puisse se faire entre
 les actes utiles et les actes nuisibles ; sans cela l'animal , faisant in-
-différemment les uns ou les autres , marchera vers sa ruine . D'après
-
-[p. 70]
-
-70
+différemment les uns ou les autres , marchera vers sa ruine . D'après [p. 70] 70
 LA CONSCIENCE
 
 la théorie de l'évolution et le principe de la sélection naturelle,
@@ -4176,9 +3946,7 @@ Itendu à supprimer tous les êtres chez qui les actes nuisibles s'accom [^p70-1
 
 [^p70-1]: Scientifiquement, cette assertion est bien osée, car il est impossible de prévoir ce que réserve l'avenir. La vie , elle aussi, est apparue longtemps comme une donnée pre- mière inexplicable. Beaucoup de savants pensent aujourd'hui qu'on pourra l'expliquer en la réduisant à une combinaison particulièrement instable et complexe d'éléments inorganiques. Et il est indéniable que les progrès de la chimie organique, les innom- brables synthèses de matières organiques réalisées déjà à ce jour ne permettent pas de dédaigner cette hypothèse .
 
-[p. 71]
-
-pagnaient de plaisir, parce qu'ils étaient conduits à les répéter sans
+[p. 71] pagnaient de plaisir, parce qu'ils étaient conduits à les répéter sans
 cesse . A mesure donc ne survivent que les êtres chez qui , en géné-
 ral, les actes utiles produisent une impression de plaisir, les actes
 nuisibles une impression de douleur, et qui, par suite , recherchent
@@ -4227,11 +3995,7 @@ les souvenirs de cas semblables ou voisins, pour faire face avec
 toutes les expériences anciennes aux difficultés nouvelles . La con-
 science se présente en un mot comme l'agent le plus puissant d'évo-
 lution qui ait pu assurer l'existence d'êtres très complexes et
-appelés à vivre dans les circonstances les plus diverses . Sans la
-
-[p. 72]
-
-72
+appelés à vivre dans les circonstances les plus diverses . Sans la [p. 72] 72
 LA CONSCIENCE
 
 conscience il est vraisemblable que l'animalité aurait été limitée à
@@ -4277,9 +4041,7 @@ plique progressivement jusqu'à perdre sa spontanéité et devenir
 enfin réfléchie, dans les formes les plus élevées de la conscience
 humaine .
 
-[p. 73]
-
-LIVRE
+[p. 73] LIVRE
 III
 
 LES FONCTIONS GÉNÉRALES DE LA CONSCIENCE
@@ -4337,9 +4099,7 @@ l'assimilation ; 2º les lois de l'association pour l'intégration ; 3ºl'at-
 tention pour la discrimination . Cela nous permettra d'en établir la
 physionomie générale
 
-[p. 74]
-
-I. -
+[p. 74] I. -
 MÉMOIRE ET HABITUDE . DESCRIPTION GÉNÉRALE
 
 A. Définitions : les images.
@@ -4389,9 +4149,7 @@ genre, puisqu'on retrouve de suite les images du jour précédent,
 dès que l'influence d'arrêt, exercée par le sommeil, n'existe plus .
 Même lorsqu'une image paraît entièrement oubliée, il ne faut pas
 
-[p. 75]
-
-FONCTION D'ASSIMILATION .
+[p. 75] FONCTION D'ASSIMILATION .
 75
 MÉMOIRE ET HABITUDE
 
@@ -4439,11 +4197,7 @@ reviviscence complète se manifeste chez les tempéraments émotion-
 nels. « Les gens irascibles , au seul nom, à la seule pensée de leur
 ennemi , ressentent la colère à l'état naissant. Le peureux frissonne
 et pâlit au seul souvenir du danger couru ... Plusieurs personnes
-affirment que le souvenir d'une émotion les secoue aussivivement
-
-[p. 76]
-
-que l'émotion primitive . » Les états affectifs sont donc assujettis
+affirment que le souvenir d'une émotion les secoue aussivivement [p. 76] que l'émotion primitive . » Les états affectifs sont donc assujettis
 aux mêmes conditions de reviviscence que les autres faits psycho-
 logiques .
 2º Pour les états représentatifs , la reviviscence est une condition
@@ -4490,9 +4244,7 @@ images affectives ; 4° le type moteur, en qui la mémoire motrice
 est particulièrement développée (personnes remarquablement aptes
 aux exercices physiques , etc.).
 
-[p. 77]
-
-FONCTION D'ASSIMILATION .
+[p. 77] FONCTION D'ASSIMILATION .
 77
 MÉMOIRE ET HABITUDE
 
@@ -4544,11 +4296,7 @@ impressions très vives .
 DEUXIÈME LOI : Clarté et distinction de l'état primitif. - Mais cer-
 tains états peuvent être très vifs et ne pas laisser une image
 nette et facile à reproduire ; les états affectifs, par exemple . C'est
-qu'ils sont très confus et très indistincts. Plus l'état primaire est
-
-[p. 78]
-
-clair et distinct, et mieux et plus longtemps il sera retenu par la
+qu'ils sont très confus et très indistincts. Plus l'état primaire est [p. 78] clair et distinct, et mieux et plus longtemps il sera retenu par la
 mémoire et l'habitude .
 
 TROISIÈME LOI : Durée de l'état primitif. - Un état de conscience
@@ -4602,9 +4350,7 @@ Mais on aurait une vue tout à fait partielle de la
 conservation psychologique, si l'on en restait à cette étude descrip-
 tive et à la seule observation interne . La conservation est liée à des
 
-[p. 79]
-
-FONCTION D'ASSIMILATION .
+[p. 79] FONCTION D'ASSIMILATION .
 79
 MÉMOIRE ET HABITUDE
 
@@ -4662,11 +4408,7 @@ cette
 mémoire organique ressemble en tout à la mémoire psychologique
 sauf un point : l'absence de la conscience » (au moins en appa-
 rence). (Id. , 7. ) La conscience intervient-elle effectivement , rien n'est
-changé dans le fait biologique d'une façon appréciable ; depuis
-
-[p. 80]
-
-l'automatisme musculaire le plus simple jusqu'aux cas les plus com-
+changé dans le fait biologique d'une façon appréciable ; depuis [p. 80] l'automatisme musculaire le plus simple jusqu'aux cas les plus com-
 plexes de mémoire consciente, il y a continuité constante au point
 de vue physiologique .
 
@@ -4677,7 +4419,7 @@ mémoire , quels changements a subis le système nerveux, quand un
 groupe de mouvements est définitivement organisé
 (habitude) ... 11
 nous est impossible, dans cette recherche, de ne pas faire une part
-à l'hypothèse . Mais , en évitant toute conception a priori, en nous
+à l'hypothèse . Mais , en évitant toute conception *a priori*, en nous
 tenant près des faits , en nous appuyant sur ce qu'on sait de l'action
 nerveuse , nous évitons toute grosse chance d'erreur. Le premier
 point à établir est relatif au siège de la conservation et des images :
@@ -4715,9 +4457,7 @@ Modification particulière imprimée aux éléments nerveux .
 Toute
 image implique d'abord une modification particulière imprimée
 
-[p. 81]
-
-FONCTION D'ASSIMILATION .
+[p. 81] FONCTION D'ASSIMILATION .
 81
 MÉMOIRE ET HABITUDE
 
@@ -4778,11 +4518,7 @@ que ce qui a contribué à cette illusion, c'est l'artifice de langage
 qui nous fait considérer un mouvement, une perception, une idée,
 une image, un sentiment comme une chose , comme une unité. La
 
-6
-
-[p. 82]
-
-réflexion montre pourtant bien vite que chacune de ces prétendues
+6 [p. 82] réflexion montre pourtant bien vite que chacune de ces prétendues
 unités est composée d'éléments nombreux et hétérogènes ; qu'elle
 est une association, un groupe, une fusion, un complexus, une
 multiplicité . » (Id. , 15 sq.) Nous verrons que le fait de conscience le
@@ -4840,11 +4576,7 @@ petites pour mettre en activité un groupe au lieu d'un autre . >>>
 (Mots prononcés pour d'autres, et commençant par la même lettre
 ou la même syllabe, gestes se continuant automatiquement d'une
 façon autre qu'on le désire, etc.)
-Cette conception de l'élément conservé assimile, comme on le voit,
-
-[p. 83]
-
-FONCTION D'ASSIMILATION .
+Cette conception de l'élément conservé assimile, comme on le voit, [p. 83] FONCTION D'ASSIMILATION .
 83
 MÉMOIRE ET HABITUDE
 
@@ -4897,9 +4629,7 @@ duite est pour ainsi dire incorporée ou incarnée dans la structure
 de l'encéphale . Nous touchons ici à la raison dernière de la mémoire
 dans l'ordre biologique : elle est une imprégnation . »
 
-[p. 84]
-
-B.
+[p. 84] B.
 Reproduction du souvenir : lois de l'habitude proprement dite .
 
 Un souvenir est d'autant mieux reproduit qu'il est mieux con-
@@ -4962,9 +4692,7 @@ duction .
 Si chaque fois la répétition augmente la tendance à la
 -
 
-[p. 85]
-
-FONCTION D'ASSIMILATION .
+[p. 85] FONCTION D'ASSIMILATION .
 85
 MÉMOIRE ET HABITUDE
 
@@ -5017,11 +4745,7 @@ faits affectifs tendent très peu et très difficilement à réapparaître .
 La raison en est que les faits affectifs agréables ou douloureux
 dépendent essentiellement de différences très fortes qui s'effec-
 tuent dans la quantité d'énergie dont dispose notre organisation .
-Ils sont liés soit à une augmentation , soit à une diminution de
-
-[p. 86]
-
-cette énergie . Or la reproduction des faits psychologiques, atté-
+Ils sont liés soit à une augmentation , soit à une diminution de [p. 86] cette énergie . Or la reproduction des faits psychologiques, atté-
 nuant considérablement l'effort, diminue dans la même propor-
 tion les variations de l'énergie disponible : et c'est pourquoi les
 états aflectifs tendent à s'atténuer de plus en plus par la répétition.
@@ -5072,9 +4796,7 @@ qui , par tous ses effets tend à faciliter, et à renforcer l'activité .
 Elle
 est donc essentiellement active et ne tend à diminuer notre
 
-[p. 87]
-
-FONCTION D'ASSIMILATION .
+[p. 87] FONCTION D'ASSIMILATION .
 MÉMOIRE ET HABITUDE
 87
 
@@ -5137,11 +4859,7 @@ que celles de la conservation . On peut remarquer toutefois que la
 circulation (qui est liée intimement d'ailleurs à la nutrition) joue
 un rôle prépondérant , et présente avec la reproduction des varia-
 tions corrélatives : la fièvre à ses divers degrés s'accompagne d'une
-suractivité de la mémoire, d'une surproduction des gestes habi
-
-[p. 88]
-
-tuels .
+suractivité de la mémoire, d'une surproduction des gestes habi [p. 88] tuels .
 Les romanciers ont noté que , dans
 les moments où une
 
@@ -5193,9 +4911,7 @@ la mémoire
 : la
 reconnaissance , qui est proprement psychologique et ne peut se
 
-[p. 89]
-
-FONCTION D'ASSIMILATION .
+[p. 89] FONCTION D'ASSIMILATION .
 MÉMOIRE ET HABITUDE
 89
 
@@ -5243,11 +4959,7 @@ psychologique , sont au fond une seule et même réalité .
 D'où vient cette qualité de déjà vu et cette assimilation à un état
 antérieur qui constituent la reconnaissance ? En général la netteté
 et la vivacité des souvenirs ordinaires sont beaucoup plus faibles
-que celles des états primaires : les images visuelles sont moins colo
-
-[p. 90]
-
-rées , plus ternes. Pour certains individus, elles sont comme (
+que celles des états primaires : les images visuelles sont moins colo [p. 90] rées , plus ternes. Pour certains individus, elles sont comme (
 photographies un peu floues de la réalité ; ils sont frappés de lapále
 de leurs souvenirs . Pour les autres images de même : ilyato
 jours une différence, si petite qu'elle soit, entre une image et
@@ -5295,9 +5007,7 @@ théorique de la localisation dans le temps l'est du même coup, ca
 
 [^p90-1]: Cf. PERCEPTION INTERNE , P. 203 .
 
-[p. 91]
-
-FONCTION D'ASSIMILATION .
+[p. 91] FONCTION D'ASSIMILATION .
 MÉMOIRE ET HABITUDE
 91
 
@@ -5348,11 +5058,7 @@ terne et moins précise . » D'ailleurs , W. James a montré avec force
 absolument semblables », ce qui rend cette superposition impos-
 sible. Mais il y a des états de conscience voisins qui sont accom-
 pagnés par des réactions motrices habituelles identiques , parce que
-notre système musculaire ne dispose que d'un nombre relativement
-
-[p. 92]
-
-restreint d'habitudes bien enregistrées : la même réaction motrice
+notre système musculaire ne dispose que d'un nombre relativement [p. 92] restreint d'habitudes bien enregistrées : la même réaction motrice
 habituelle répondra donc à toutes les excitations à peu près sem-
 blables, et « la reconnaissance n'est que l'écho conscient » de cette
 identité des réponses motrices . ( D'après le même ouvrage , p . 100-104. )
@@ -5368,9 +5074,7 @@ d'après les investigations contemporaines ; mais il importe de ne pas
 oublier toutes les incertitudes et parfois les erreurs que peut comporter
 actuellement une étude de ce genre .
 
-[p. 93]
-
-CHAPITRE VII
+[p. 93] CHAPITRE VII
 
 FONCTION D'ASSIMILATION
 : HABITUDE ET MÉMOIRE (suite)
@@ -5426,9 +5130,7 @@ lequel elle se greffe .
 On peut appeler la première théorie, théorie psychologique pure ,
 la seconde, théorie physiologique.
 
-[p. 94]
-
-a) LE PUR PSYCHOLOGISME doit montrer que la mémoire n'est en
+[p. 94] a) LE PUR PSYCHOLOGISME doit montrer que la mémoire n'est en
 aucune façon la
 restauration d'un état conservé tel quel par la
 conscience comme une empreinte matérielle . Pour cela il distingue
@@ -5481,9 +5183,7 @@ l'intuition » , de dégager nettement ce qui apparaît, aux regards
 de la seule conscience, pure de toute représentation tirée du milieu
 extérieur , comme le caractère propre de l'activité psychologique.
 
-[p. 95]
-
-FONCTION D'ASSIMILATION
+[p. 95] FONCTION D'ASSIMILATION
 HABITUDE ET MÉMOIRE
 95
 
@@ -5541,11 +5241,7 @@ lement une théorie explicative de la mémoire ?
 -
 c) Que deviennent nos souvenirs quand nous n'y pensons pas ?
 Cette question , au fond , n'est qu'un cas particulier de la question de
-l'inconscient . Et sa solution dépendrait à la fois d'une théorie sur
-
-[p. 96]
-
-lanature de la mémoire et de la théorie del'inconscient. Malheureu-
+l'inconscient . Et sa solution dépendrait à la fois d'une théorie sur [p. 96] lanature de la mémoire et de la théorie del'inconscient. Malheureu-
 sement nous venons de voir qu'il est aussi difficile d'établir l'une
 que l'autre . Plusieurs solutions sont donc possibles
 :
@@ -5592,9 +5288,7 @@ de revivre . Seulement , les nécessités de l'action, le moment consi-
 déré, découpent dans cette synthèse , et isolent, grâce à l'attention ,
 une image ou un groupe d'images particulières, qui font saillie
 
-[p. 97]
-
-FONCTION D'ASSIMILATION
+[p. 97] FONCTION D'ASSIMILATION
 HABITUDE ET MÉMOIRE
 97
 
@@ -5649,11 +5343,7 @@ clusions opposées : 1º Les uns faisaient de l'habitude un phéno-
 mène physique et mécanique ; c'était la conséquence des lois de la
 matière, inerte par elle-même, continuant le mouvement commencé
 
-7
-
-[p. 98]
-
-jusqu'à ce qu'un obstacle vienne le modifier . Aux lois aveugles
+7 [p. 98] jusqu'à ce qu'un obstacle vienne le modifier . Aux lois aveugles
 obéissaient tous les corps de la nature, y compris le nôtre (les
 Cartésiens) , et même la conscience, quand , comme les philosophes
 matérialistes , on en faisait une simple propriété corporelle . L'habi-
@@ -5704,9 +5394,7 @@ VIE . [^p98-1]
 
 [^p98-1]: Voir, pour plus de détails , Théorie de l'instinct dans ses rapports avec l'habitude , p. 424.
 
-[p. 99]
-
-FONCTION D'ASSIMILATION
+[p. 99] FONCTION D'ASSIMILATION
 HABITUDE ET MÉMOIRE
 99
 comme moins riche que la matière brute, puisque le balancier
@@ -5755,9 +5443,7 @@ de ce avec quoi elle est liée. >> Tout être tend à persévérer dans son
 être, si on entend, par ce mot être , le systèmecomplexe formé par
 un organisme vivant et son milieu .
 
-[p. 100]
-
--
+[p. 100] -
 
 c) COMMENT AGIT L'HABITUDE DANS L'ETRE VIVANT
 : L'ADAPTATION .
@@ -5812,9 +5498,7 @@ et progresse en créant de nouvelles habi-
 tudes , puisque les habitudes anciennes devaient plutôt tendre à la
 faire rester identique à elle-même. Comment une seconde nature se
 
-[p. 101]
-
-FONCTION D'ASSIMILATION
+[p. 101] FONCTION D'ASSIMILATION
 HABITUDE ET MÉMOIRE
 101
 
@@ -5865,11 +5549,7 @@ Les variations du milieu produisent au hasard des mouvements
 variés dans lesorganismes . Ces mouvements tendent tousà se fixer, si
 le milieu les provoque souvent. Mais de ces mouvements il en est
 d'utiles, il en estde nuisibles . Ceuxqui sontnuisibles entraînent bien-
-tôt la disparition de l'organisme . Seuls subsistent les êtres chez qui
-
-[p. 102]
-
-les excitations du milieu multiplient les mouvements utiles ; ces
+tôt la disparition de l'organisme . Seuls subsistent les êtres chez qui [p. 102] les excitations du milieu multiplient les mouvements utiles ; ces
 mouvements deviennent, en se répétant, des habitudes adaptatrices ,
 le milieu
 s'accommodant
@@ -5922,9 +5602,7 @@ goûts , les formes d'esprit, etc. Ribot, dans son livre l'Hérédité , cite
 des familles où l'on est musicien (les Bach, les Mozart) , peintre (les
 Carrache) , mathématicien (les Bernouilli), de père en fils . L'esprit
 
-[p. 103]
-
-FONCTION D'ASSIMILATION
+[p. 103] FONCTION D'ASSIMILATION
 : HABITUDE ET MÉMOIRE
 1032
 
@@ -5984,9 +5662,7 @@ poraires ; 2º amnésies périodiques ; 3º amnésies à forme progres-
 
 sive ; 4º amnésies congénitales.
 
-[p. 104]
-
-1º Les amnésies temporaires se produisent d'une façon brusque ,
+[p. 104] 1º Les amnésies temporaires se produisent d'une façon brusque ,
 et finissent de mème . Leur durée est variable, quelques minutes
 ou plusieurs années ; elles peuvent nécessiter une rééducation com-
 plète du sujet, ou le priver seulement des souvenirs concernant la
@@ -6039,9 +5715,7 @@ Les habitudes affectives sont plus résistantes que les acquisitions
 intellectuelles , et cela, parce qu'elles sont plus profondes en nous
 que les habitudes intellectuelles, qui sont acquises . L'amnésie des
 
-[p. 105]
-
-FONCTION D'ASSIMILATION
+[p. 105] FONCTION D'ASSIMILATION
 : HABITUDE ET MÉMOIRE
 105
 
@@ -6096,9 +5770,7 @@ cas d'amnésie des signes
 
 il n'y a cependant ni paralysie de la langue ni paralysie du bras .
 
-[p. 106]
-
-C'est un oubli complet de la façon dont on exécute les signes néces-
+[p. 106] C'est un oubli complet de la façon dont on exécute les signes néces-
 saires .
 Cette amnésie des signes est surtout une maladie de la
 mémoire motrice ; car le malade conserve ses idées , ses souvenirs ,
@@ -6156,9 +5828,7 @@ la mémoire , p . 141.)
 partie de la mémoire seule qui sort de la normale . On ne peut
 découvrir de loi qui les règle .
 
-[p. 107]
-
-FONCTION
+[p. 107] FONCTION
 D'ASSIMILATION
 HABITUDE ET MÉMOIRE
 107
@@ -6209,11 +5879,7 @@ Il prend la place de l'impression réelle, il paraît le
 plus récent et il l'est en fait... » (Ribot , Maladies de la mémoire . )
 Exemple d'illusion de la mémoire
 : « Un malade apprenant la
-mort d'une personne qu'il connaissait fut saisi d'une terreur indéfi
-
-[p. 108]
-
-nissable , parce qu'il lui sembla qu'il avait déjà ressenticette impres-
+mort d'une personne qu'il connaissait fut saisi d'une terreur indéfi [p. 108] nissable , parce qu'il lui sembla qu'il avait déjà ressenticette impres-
 sion . « Je sentais que déjà auparavant, étant couché ici dans ce même
 lit, X... était venu et m'avait dit : « Muller est mort .>> Je répondis :
 <<Muller est mort il y a quelque temps, il n'a pu mourir deux fois . >>>
@@ -6257,9 +5923,7 @@ facultés de contrôle avec soin , pour n'en pas être dupes .
 
 १
 
-[p. 109]
-
-CHAPITRE
+[p. 109] CHAPITRE
 VIII
 
 L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
@@ -6307,11 +5971,7 @@ synthèses nouvelles , c'est-à-dire les lois de l'association . On les présent
 souvent comme une pure conséquence de la mémoire , puisqu'elles
 expliquent l'ordre de reproduction, mais il est aisé de voir qu'elles
 sont une fonction tout à fait différente : elles commandent à cet ordre ,
-luidonnent une physionomie nouvelle et originale, sont la condition
-
-[p. 110]
-
-de toute combinaison psychologique et par là jouent un rôle nou-
+luidonnent une physionomie nouvelle et originale, sont la condition [p. 110] de toute combinaison psychologique et par là jouent un rôle nou-
 veau et bien distinct. Comme l'avait vu la psychologie anglaise, dite
 psychologie associationiste , les lois de l'association sont la manifesta-
 tion d'une des fonctions primordiales de la conscience : la fonction
@@ -6360,9 +6020,7 @@ elle y perçoit nettement , après coup, le travail associatif : le rêve, la
 rêverie , l'imagination reproductrice, les émotions, les perceptions ,
 les actes impulsifs nous en fourniront des exemples . Dans ces deux
 
-[p. 111]
-
-L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
+[p. 111] L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
 111
 
 cas , l'automatisme de l'association la fait dépendre de l'habitude ;
@@ -6411,9 +6069,7 @@ qualitative . Celle-ci a lieu entre des propriétés qui sans doute ne
 peuvent pas s'identifier, mais qui paraissent néanmoins de même
 famille. » Une couleur rouge rappelle celle du sang.
 
-[p. 112]
-
-c) « Une ressemblance encore plus éloignée , c'est la ressemblance
+[p. 112] c) « Une ressemblance encore plus éloignée , c'est la ressemblance
 de rapports ou analogie . Ici , la représentation d'un rapport entre les
 parties ou les propriétés d'un objet suscite la représentation d'un
 autre objet, entre les parties ou propriétés duquel existe un rap-
@@ -6470,9 +6126,7 @@ processus psychologique (loi de totalisation) .
 B. Association par contiguïté: - DEUXIÈME LOU : Une représen-
 tation qui se présente toujours simultanément avec une autre , ou
 
-[p. 113]
-
-L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
+[p. 113] L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
 113
 
 -
@@ -6525,11 +6179,7 @@ dales ... Arrivé au neuvième mois le cerveau de l'enfant est achevé
 dans son ensemble... Mais son développement se combine et se
 perfectionne dans le détail ; on voit encore apparaître de nouvelles
 
-8
-
-[p. 114]
-
-fibres médullaires jusqu'à la fin de la deuxième année ... En mesu-
+8 [p. 114] fibres médullaires jusqu'à la fin de la deuxième année ... En mesu-
 rant l'épaisseur comparative des couches de fibres tangentielles ,
 on voit qu'elle augmente certainement jusqu'à quarante ou cin-
 quante ans . Les cellules ne croissent pas en nombre , mais en éten-
@@ -6587,11 +6237,7 @@ A côté de ces centres généraux d'association, sont toutes les
 voies de communication plus spéciales qui abondent surtout dans
 les circonvolutions ne renfermant pas de centres moteurs . <<
 Elles
-comprennent : 1º les fibres tangentielles , qui sont intra-corticales ... ;
-
-[p. 115]
-
-L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
+comprennent : 1º les fibres tangentielles , qui sont intra-corticales ... ; [p. 115] L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
 115
 
 Fibres arques
@@ -6696,9 +6342,7 @@ Centres d'association (face interne du cerveau).
 
 CENTRES ET FIBRES D'ASSOCIATION .
 
-[p. 116]
-
-2º les fibres arquées tendues d'une circonvolution à l'autre ; 3° les
+[p. 116] 2º les fibres arquées tendues d'une circonvolution à l'autre ; 3° les
 faisceaux antéro-postérieurs à long
 trajet
 (supérieur ,
@@ -6752,9 +6396,7 @@ D'ailleurs ses partisans, comme Claparède , considèrent comme
 la principale objection qui peut être faite à la seconde théorie la diffi-
 culté qu'elle a à relier l'association consciente à la transmission
 
-[p. 117]
-
-L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
+[p. 117] L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
 11
 
 d'énergie à travers les connexions nerveuses. On s'imagine difficile-
@@ -6811,9 +6453,7 @@ mentions sur ses ressorts intimes, et que nous voyions ce qui se
 passe dans le cerveau . Aussi la psychologie scientifique, qui est
 expérimentale et physiologique, a-t-elle une inclination vers elle .
 
-[p. 118]
-
-De plus l'association par contiguïté n'est guère autre chose qu'une
+[p. 118] De plus l'association par contiguïté n'est guère autre chose qu'une
 habitude. Elle répète dans la conscience l'ordre dans lequel ses états
 se sont déjà présentés , et se présentent d'habitude . Le principe de
 l'habitude , sans rien supposer d'autre , suffit donc à rendre compte
@@ -6873,9 +6513,7 @@ continuation d'actes semblables. Une preuve indirecte peut en
 être donnée dans ce fait que « l'association par ressemblance atteint
 son maximum de facilité et d'intensité lorsque le cerveau est dans
 
-[p. 119]
-
-L'ASSOCIATION ET LA FONCTION D'INTEGRATION
+[p. 119] L'ASSOCIATION ET LA FONCTION D'INTEGRATION
 119
 
 un état de vitalité exubérante ou de forte tension . C'est ce qui
@@ -6933,9 +6571,7 @@ a + a
 où a et b sont deux états successifs différents et a + a deux états
 semblables.
 
-[p. 120]
-
-Nous pouvons représenter la transformation générale d'un état
+[p. 120] Nous pouvons représenter la transformation générale d'un état
 de conscience en un autre de la façon suivante
 : a fait place par
 transitions
@@ -7007,9 +6643,7 @@ ciation par contiguïté, ne parait qu'une manifestation particulière
 d'une
 activité synthétique, qui déborde tout le champ de la vie
 
-[p. 121]
-
-L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
+[p. 121] L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
 121
 
 mentale et qui est une caractéristique générale del'activité psycho-
@@ -7086,11 +6720,7 @@ habitudes que lui ont fait acquérir les expériences passées. Il faut
 encore qu'il puisse se servir de ces souvenirs et de ces habitudes
 selon les circonstances , par suite, qu'il associe à certaines représen-
 
-tations, certains souvenirs et certaines habitudes qui les accom-
-
-[p. 122]
-
-pagnent d'ordinaire . Il a ainsi immédiatement tous les éléments
+tations, certains souvenirs et certaines habitudes qui les accom-[p. 122]pagnent d'ordinaire . Il a ainsi immédiatement tous les éléments
 nécessaires à l'acte que les circonstances exigentde lui. Il sera encore
 mieux armé pour la vie, s'il peut associer à ces représentations non
 seulement tout ce qui y est relié d'ordinaire, et d'une façon habi-
@@ -7135,9 +6765,7 @@ et la douleur ne nous présentent-ils pas en un seul état la syn-
 thèse d'impressions très nombreuses et très rapides ?
 Pour sortir de ce domaine très hypothétique , l'observation nous
 
-[p. 123]
-
-L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
+[p. 123] L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
 123
 
 montre incontestablement , alors , l'œuvre de l'association , dans la
@@ -7189,9 +6817,7 @@ de la psychologie une science, car il n'y a pas de science sans [^p123-1] [^p123
 [^p123-1]: Cf..pour plus de détails, les parties de cet ouvrage où il est traité spécialement des opérations ici mentionnées .
 [^p123-2]: Cf., pour le détail de cette réduction : l'activité créatrice de l'esprit (p. 295), la théorie des principes rationnels (p.1046) et la genèse de la conscience morale(p. 776).
 
-[p. 124]
-
-un essai de réduction du complexe au simple , sans la recherche
+[p. 124] un essai de réduction du complexe au simple , sans la recherche
 d'une unité profonde de développement au -dessous des diversités
 apparentes . Elle a aussi fait entrevoir la possibilité de découvrir
 par une observation et une expérimentation scientifiques (analyse
@@ -7246,9 +6872,7 @@ et artificiel qui n'a plus semblé
 très bien correspondre aux résultats de l'observation concrète .
 D'après l'associationisme, la conscience serait d'abord et essentiel
 
-[p. 125]
-
-L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
+[p. 125] L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
 125
 
 lement constituée par des états de conscience isolés, se suffi-
@@ -7312,9 +6936,7 @@ thougth) de la << durée réelle » (Bergson) veut marquer une sépa-
 ration absolue entre ces deux mondes, entre ces deux plans d'expé-
 rience. La conscience est une donnée originale et première .
 
-[p. 126]
-
-C) CONCLUSION PROPOSÉE .
+[p. 126] C) CONCLUSION PROPOSÉE .
 Nous avons déjà fait observer à plu-
 sieurs reprises que les « états de conscience » , tels que la psycholo-
 gie les dépeint d'ordinaire , étaient des abstractions nécessitées par
@@ -7368,11 +6990,7 @@ fiante .
 La fonction de
 discrimination et d'attention comme nous
 l'allons voir estparcontre la fonction qui, parallèlement, tend à donner
-aux réactions psychologiques une individualité et des différencia-
-
-[p. 127]
-
-L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
+aux réactions psychologiques une individualité et des différencia-[p. 127]L'ASSOCIATION ET LA FONCTION D'INTÉGRATION
 127
 
 tions plus précises et plus complètes . L'aspect général de la cons-
@@ -7422,11 +7040,7 @@ ner toutes les parties. Il est bien de même nature que le processus
 fondamental de l'association proprement dite ou automatique, tel
 que nous l'avons défini à la suite de Höffding : reconstituer le tout
 dès qu'un de ses éléments apparaît dans le champ de la conscience.
-Et ce processus va peut-être se rapprocher aux frontières extrêmes
-
-[p. 128]
-
-de la vie psychologique, de l'assimilation physiologique et de la
+Et ce processus va peut-être se rapprocher aux frontières extrêmes [p. 128] de la vie psychologique, de l'assimilation physiologique et de la
 synthèse organique .
 En résumé, la conscience se représenterait assez mal par une mo-
 saïque d'états de conscience isolés, parce qu'elle est essentiellement
@@ -7474,9 +7088,7 @@ cette activité, comme si elles pouvaient être indépendantes les unes
 des autres . Ces deux fonctions s'impliquent mutuellement , d'une
 façon à peu près constante .
 
-[p. 129]
-
-1 .
+[p. 129] 1 .
 
 11.
 111 .
@@ -7545,9 +7157,7 @@ opiniâtre et poursuivie avec méthode et durée.
 
 9
 
-[p. 130]
-
-III .
+[p. 130] III .
 CONDITIONS PSYCHOLOGIQUES.
 
 -
@@ -7600,9 +7210,7 @@ tanées fussent appréhendées d'un seul coup et fixées par l'attention. [^p130
 
 [^p130-1]: On peut noter deux états différents de distraction. Le premier, c'est l'abolition presque totale de l'attention. La conscience ne se fixe sur rien, devient instable et se dissout . Le deuxième a pour cause une attention trop vive à un état particulier, qui empêche alors d'appréhender tout ce qui ne concerne pas cet état (distractions des savants, de l'homme vivement intéressé par une idée ou une action, etc.) . Les effets dans tes deux cas sont les mêmes. La conscience ne discerne plus suffisamment les impres- sions qui la frappent.
 
-[p. 131]
-
-L'ATTENTION ET LA FONCTION DE DISCRIMINATION
+[p. 131] L'ATTENTION ET LA FONCTION DE DISCRIMINATION
 131
 
 Les expériences de Wundt etJevons sont nettementpour l'affirmative ,
@@ -7622,7 +7230,7 @@ ruissellement de météores semblables à une grande aurore boréale ,
 quelque chose comme un ensemble de couleurs ... où s'accompli-
 rait une incessante évolution de nuances délicates infiniment diver-
 
-sifiées. » (Le Roy, Revue de métaphysique et de morale ; 1899 : Ar-
+sifiées. » (Le Roy, *Revue de métaphysique et de morale* ; 1899 : Ar-
 ticle Science et Philosophie, p . 379. )
 Mais ce flux indistinct , où l'être est absolument passif, ne peut
 guère subsister chez un être vivant , c'est-à-dire agissant . En tant
@@ -7652,11 +7260,7 @@ motrice appropriée, serait bien mal armé pour sa conservation.>>
 
 (Th . Ribot . )
 
-en
-
-[p. 132]
-
-ciens , à savoir que l'attention diminue le temps nécessaire à la con-
+en [p. 132] ciens , à savoir que l'attention diminue le temps nécessaire à la con-
 
 naissance , et cela dans des proportions notables . L'attention volon-
 
@@ -7716,9 +7320,7 @@ celle qui, en français, désigne un penseur vif, mais superficiel ,
 comme incapable d'une œuvre de longue haleine. » Le bâillement,
 le soupir qui suivent un effort soutenu d'attention sont probable
 
-[p. 133]
-
-L'ATTENTION ET LA FONCTION DE DISCRIMINATION
+[p. 133] L'ATTENTION ET LA FONCTION DE DISCRIMINATION
 133
 
 ment les effets du ralentissement de la respiration . La bouche
@@ -7774,11 +7376,7 @@ le frontal... En se contractant, il tire à lui le sourcil, l'élève et
 
 détermine des rides transversales sur le front : par suite l'œil est
 
-grand ouvert, bien éclairé... La réflexion (attention àun fait interne)
-
-[p. 134]
-
-s'exprime d'une autre manière presque inverse. Elle agit sur l'orbi-
+grand ouvert, bien éclairé... La réflexion (attention àun fait interne) [p. 134] s'exprime d'une autre manière presque inverse. Elle agit sur l'orbi-
 culaire supérieur des paupières, abaisse le sourcil. Par suite, il se
 forme des petits plis verticaux dans l'espace intersourcilier, l'œil
 est voilé ou tout à fait fermé , ou bien il regarde intérieurement ...
@@ -7828,9 +7426,7 @@ sensoriel prend volontairement la position appropriée à la percep-
 tion de l'excitation... A chaque instant il nous arrive plusieurs
 impressions , et, comme l'attention ne peut se tourner que vers une
 
-[p. 135]
-
-L'ATTENTION ET LA FONCTION DE DISCRIMINATION
+[p. 135] L'ATTENTION ET LA FONCTION DE DISCRIMINATION
 135
 
 seule d'entre elles, un choix estnécessaire . » (Höffding, 154.) Ce choix
@@ -7904,11 +7500,7 @@ tion d'un état d'avec un autre , discrimination, comme, au point de
 
 physiologique, activité nerveuse suppose variation de l'énergie
 
-vue
-
-[p. 136]
-
-du système : une sorte d'ondulation, d'oscillation perpétuelles et
+vue [p. 136] du système : une sorte d'ondulation, d'oscillation perpétuelles et
 rythmiques . La conscience à ce point de vue est donc bien, comme
 le disentles Anglais ,
 « le sentiment d'une différence » , mais il ne
@@ -7969,9 +7561,7 @@ celles de l'attention spontanée .
 Quant à l'attention
 volontaire qui se produit par un effort
 
-[p. 137]
-
-L'ATTENTION ET LA FONCTION DE DISCRIMINATION
+[p. 137] L'ATTENTION ET LA FONCTION DE DISCRIMINATION
 137
 
 conscient, réfléchi et pour un but que nous déterminons nous-
@@ -8026,11 +7616,7 @@ toute notre énergie mentale sur cet objet, si bien que, dans certains
 
 cas, par une sorte d'hallucination , nous voyons ce que nous voulons
 
-voir, et non ce qui est réellement. Les conditions biologiques de
-
-[p. 138]
-
-l'attention ne peuvent donc être que les effets dont cette faculté est
+voir, et non ce qui est réellement. Les conditions biologiques de [p. 138] l'attention ne peuvent donc être que les effets dont cette faculté est
 la cause ; notre corps obéit à notre activité psychologique, comme
 un docile instrument .
 Les philosophes, qui étaient au contraire portés par leur système
@@ -8084,9 +7670,7 @@ disponible . Cet état de conscience tire son aspect et son contenu de [^p138-2]
 [^p138-1]: Voir p . 359 .
 [^p138-2]: Voir p . 445.
 
-[p. 139]
-
-L'ATTENTION ET LA FONCTION DE DISCRIMINATION
+[p. 139] L'ATTENTION ET LA FONCTION DE DISCRIMINATION
 139
 
 toutes les modifications organiques qui s'exercent en ce moment,
@@ -8135,11 +7719,7 @@ sommeil. Un cortège si important de modifications organiques nous
 montre bien quelle grande place l'attention tient dans notre vie
 psychique , aussi bien que dans notre vie organique . » (Nayrac,
 Revue Scientifique 1906, I, p. 423. ) L'attention, inséparable de
-l'effort et de la volonté (les partisans de la théorie psychologique
-
-[p. 140]
-
-disent même qu'elle leur est identique, et tous s'accordent pour
+l'effort et de la volonté (les partisans de la théorie psychologique [p. 140] disent même qu'elle leur est identique, et tous s'accordent pour
 voir dans ces trois phénomènes des phénomènes très voisins) est,
 dans l'organisme psychologique, le grand facteur de l'adaptation .
 Elle dirige la formation des nouvelles habitudes, qui viennent
@@ -8187,9 +7767,7 @@ croissante
 de nouvelles
 sensations du même
 
-[p. 141]
-
-L'ATTENTION ET LA FONCTION DE DISCRIMINATION
+[p. 141] L'ATTENTION ET LA FONCTION DE DISCRIMINATION
 141
 
 ordre , différentes même des précédentes quant à l'intensité ou à
@@ -8242,9 +7820,7 @@ et qui tend à varier sans cesse , à se transformer en faisant place à [^p141-
 
 [^p141-1]: Voir l'étude particulière de tous ces faits, dans la suite de l'ouvrage, pour plus de détails sur le rôle de l'attention .
 
-[p. 142]
-
-un autre état de conscience, lorsque la nécessité de l'action
+[p. 142] un autre état de conscience, lorsque la nécessité de l'action
 (en-
 tendue au sens le plus large du mot) , force notre esprità s'appliquer
 à autre chose . C'est ce qu'à chaque instant nous voyons , entendons ,
@@ -8293,9 +7869,7 @@ remarquer à la fin du chapitre précédent. Elle délimite un champ
 tandis que d'autre part elle condense la plus grande quantité pos-
 sible de l'expérience passée grâce à l'association .
 
-[p. 143]
-
-L'ATTENTION ET LA FONCTION DE DISCRIMINATION
+[p. 143] L'ATTENTION ET LA FONCTION DE DISCRIMINATION
 143
 
 Ce qu'on appelle vulgairement l'attention n'est donc qu'un cas
@@ -8338,7 +7912,7 @@ l'es-
 prit que si elle est englobée et fondue dans une masse de repré-
 sentations et d'idées anciennes . On appelle cette masse la masse
 aperceptive . Nous verrons en effet (en parlant de la perception
-extérieure ) que c'est là la condition sine qua non de toute perception,
+extérieure ) que c'est là la *condition sine qua non* de toute perception,
 une perception étant une combinaison d'images et d'expériences
 antérieures innombrables avec
 les
@@ -8369,9 +7943,7 @@ d'un matériel approprié et qu'elle dirige vers l'appréhension d'un
 
 | élément représentatif donné .
 
-[p. 144]
-
-144
+[p. 144] 144
 LES FONCTIONS GÉNÉRALES DE LA CONSCIENCE
 En même temps cette masse aperceptive qui constitue nos ten-
 dances , nos goûts, et d'une façon plus particulière, ce à quoi nous
@@ -8426,9 +7998,7 @@ conscience dans un lit étroit sans qu'elle en puisse sortir, qui sté-
 rilise plus ou moins tout ce qui est étranger à sa domination .
 L'hypocondrie , mieux encore les idées fixes et l'extase. sont des
 
-[p. 145]
-
-L'ATTENTION ET LA FONCTION DE DISCRIMINATION
+[p. 145] L'ATTENTION ET LA FONCTION DE DISCRIMINATION
 145
 
 cas de ce genre . Ils forment un premier groupe morbide que j'appel-
@@ -8483,9 +8053,7 @@ déments . » (Ribot, Psychologie de l'attention , p. 117, sq.)
 
 10
 
-[p. 146]
-
-VII .
+[p. 146] VII .
 CONCLUSIONS D'ENSEMBLE SUR LES FONCTIONS GÉNÉRALES
 DE LA CONSCIENCE
 
@@ -8533,11 +8101,7 @@ physiologiques de la reconnaissance , de l'association et de l'atten-
 tion » (p . 94) .
 Les réactions motrices de l'attention sélectionnent et associent les
 
-états psychologiques reconnus comme peu différents, ou qui se pré-
-
-[p. 147]
-
-L'ATTENTION ET LA FONCTION DE DISCRIMINATION
+états psychologiques reconnus comme peu différents, ou qui se pré-[p. 147]L'ATTENTION ET LA FONCTION DE DISCRIMINATION
 147
 
 sentent toujours ensemble : ce qui était nécessaire , car notre orga-
@@ -8577,9 +8141,7 @@ d'après les investigations contemporaines ; mais il importe de ne pas
 oublier toutes les incertitudes et parfois les erreurs que peut comporter
 actuellement une étude de ce genre .
 
-[p. 149]
-
-LIVRE
+[p. 149] LIVRE
 IV
 
 LES FAITS REPRÉSENTATIFS
@@ -8641,11 +8203,7 @@ de le connaître d'une façon plus ou moins précise. Tous ces faits
 se ramènent à des éléments bien déterminés : des phénomènes de
 conscience très simples, immédiatement consécutifs, semble-t-il, a
 une impression qui émane de l'objet et s'exerce sur nos or-
-ganes sensoriels : ce sont les sensations . Elles jouent dans la vie
-
-[p. 150]
-
-150
+ganes sensoriels : ce sont les sensations . Elles jouent dans la vie [p. 150] 150
 LES FAITS REPRÉSENTATIFS
 
 représentative le mème rôle que les affections élémentaires de plaisir
@@ -8693,9 +8251,7 @@ sont très restreintes et très grossières . La sensibilité y commence à
 peine à se distinguer de l'irritabilité, qui est la propriété élémentaire
 du tissu vivant. Les différents sens sont sortis par évolution de cette
 
-[p. 151]
-
-LES ÉLÉMENTS
+[p. 151] LES ÉLÉMENTS
 : LES SENSATIONS
 151
 
@@ -8747,9 +8303,7 @@ l'ouïe
 (expériences
 de Helmholtz , W. James , Anderson) .
 
-[p. 152]
-
-152
+[p. 152] 152
 LES FAITS REPRÉSENTATIFS
 
 6) L'ASPECT DES SENSATIONS DÉPEND AUSSI DE LA RAPIDITÉ AVEC LA-
@@ -8806,11 +8360,7 @@ sont accompagnées de leurs couleurs complémentaires .
 f) TONALITÉ DE LA SENSATION . — Une sensation influe toujours sur
 la vie organique de l'individu , d'où un état agréable ou désagréable ,
 qui constitue comme le ton de la sensation. Cette tonalité est en
-raison inverse de la clarté, de la représentativité de la sensation;
-
-[p. 153]
-
-LES ÉLÉMENTS
+raison inverse de la clarté, de la représentativité de la sensation; [p. 153] LES ÉLÉMENTS
 : LES SENSATIONS
 153
 
@@ -8883,11 +8433,7 @@ ment dans la conscience la notion de durée et que celle-ci est un
 caractère primitif de la sensation (Bourdon) .
 
 k) ÉTENDUE
-NDUE OU EXTENSIVITÉ DES SENSATIONS . - Jusqu'à ces dernières
-
-[p. 154]
-
-154
+NDUE OU EXTENSIVITÉ DES SENSATIONS . - Jusqu'à ces dernières [p. 154] 154
 LES FAITS REPRÉSENTATIFS
 
 années, la psychologie considérait que la sensation était par elle-
@@ -8949,9 +8495,7 @@ a) LES ORGANES SENSORIELS .
 particulières relatives à chaque sens . -D'une façon générale, les sens
 se composent d'une quantité énorme de petits filaments nerveux
 
-[p. 155]
-
-LES ÉLÉMENTS
+[p. 155] LES ÉLÉMENTS
 : LES SENSATIONS
 155
 
@@ -9001,11 +8545,7 @@ qu'elle impressionne tel ou tel sens . La vibration qui produit, grâce
 calorique .
 2° Nature de l'impression . - D'après la physiologie actuelle, l'im-
 pression serait une action chimique déterminée par l'énergie dépen-
-sée dans le mouvement excitatoire, action chimique qui modifierait
-
-[p. 156]
-
-156
+sée dans le mouvement excitatoire, action chimique qui modifierait [p. 156] 156
 LES FAITS REPRÉSENTATIFS
 
 l'état des terminaisons sensorielles . Wundt distinguait les sens en
@@ -9060,11 +8600,7 @@ b) LES NERFS SENSITIFS .
 L'impression est transmise ensuite
 auxcentres par les nerfs, qui les relient aux organes sensorieis . La
 physiologie est très peu avancée sur la nature de ce phénomène de
-transmission . Certains y voient la propagation d'un mouvement on-
-
-[p. 157]
-
-LES ÉLÉMENTS : LES SENSATIONS
+transmission . Certains y voient la propagation d'un mouvement on-[p. 157]LES ÉLÉMENTS : LES SENSATIONS
 157
 
 dulatoire (l'onde nerveuse ou l'influx nerveux), analogue, peut-
@@ -9117,11 +8653,7 @@ Les centres du cerveau moyen où aboutissent la plupart des
 nerfs sensoriels paraissent destinés à une première élaboration des
 modifications nerveuses. Et cette élaboration consiste sans doute en
 une synthèse qui rassemble, combine, et fond en un tout, des
-impressions multiples, car le nombre des fibres que ces centres
-
-[p. 158]
-
-158
+impressions multiples, car le nombre des fibres que ces centres [p. 158] 158
 LES FAITS REPRÉSENTATIFS
 
 envoient aux centres supérieurs est infiniment moins considérable
@@ -9199,9 +8731,7 @@ faut pas perdre de vue, dans toute cette question, c'est la nature
 extrêmement compliquée des processus qui ont lieu dans le cerveau >>>
 etdont nous ignorons à peu près tout.
 
-[p. 159]
-
-LES ÉLÉMENTS
+[p. 159] LES ÉLÉMENTS
 : LES SENSATIONS
 159
 d) DURÉE DU TRAVAIL PHYSIOLOGIQUE.- On n'a pas de peine à com-
@@ -9251,9 +8781,7 @@ réaction motrice) ;
 « 7º Le temps requis pour produire la contraction musculaire .
 (Th . Ribot , Psychologie allemande, p. 15, 19) .
 
-[p. 160]
-
-160
+[p. 160] 160
 I.ES FAITS REPRESENTATIFS
 
 Ces temps sont connus , sauf le premier, « qui n'a pu être étudié
@@ -9306,11 +8834,7 @@ consciente n'est que la résultante , la fusion , la synthèse .
 Cette décomposition de la sensation en impressions élémentaires
 a d'abord été faite pour les sensations de l'ouïe . Dans un son très
 bas , l'oreille distingue déjà avec un peu d'attention les pulsations
-successives dont le total fournit la sensation. Des appareils absolu-
-
-[p. 161]
-
-LES ÉLÉMENTS
+successives dont le total fournit la sensation. Des appareils absolu-[p. 161]LES ÉLÉMENTS
 : LES SENSATIONS
 161
 ment précis , comme la sirène de Cagniard-Latour ou de Helmholtz
@@ -9383,11 +8907,7 @@ B. Conditions physiques d'excitation. - a) CONDITIONS GÉNÉ-
 Il nous reste à étudier maintenant l'action extérieure ou
 RALES.
 
-11
-
-[p. 162]
-
-162
+11 [p. 162] 162
 LES FAITS REPRÉSENTATIFS
 
 excitation
@@ -9442,9 +8962,7 @@ que ce mouvement ait une certaine intensité. Au-dessous , tout se
 passe comme si aucun ébranlement n'était communiqué à l'organe
 sensoriel . Il y a donc un minimum d'excitation qui est défini par la
 
-[p. 163]
-
-LES ÉLÉMENTS
+[p. 163] LES ÉLÉMENTS
 : LES SENSATIONS
 133
 
@@ -9509,11 +9027,7 @@ pas constamnient des sensations de chaleur. Il faut donc déterminer
 de combien cette tenipérature de la peau , où l'on ne sent ni chaud
 ni froid, doit être élevée ou abaissée pour produire le minimum
 de chaud et de froid . Or, cette température varie suivant l'instant,
-etla partie du corps. Pour la main, elle est à peu près 18°4', et il
-
-[p. 164]
-
-164
+etla partie du corps. Pour la main, elle est à peu près 18°4', et il [p. 164] 164
 LES FAITS REPRÉSENTATIFS
 
 faut alors 1/8° de degré, en plus ou en moins, pour qu'on sente une
@@ -9569,9 +9083,7 @@ Nous considérons l'ombre projetée par la règle sur le tableau
 : en
 même temps on éloigne de plus en pluslalumière . Par suite, l'ombre
 
-[p. 165]
-
-LES ÉLÉMENTS
+[p. 165] LES ÉLÉMENTS
 : LES SENSATIONS
 165
 
@@ -9622,9 +9134,7 @@ A un poids de 10 grammes que vous tenez dans la main ajoutez un
 autre poids de 10 grammes, vous sentirez clairement la différence ;
 mais , si vous ajoutez ce poids de 10 grammes à un quintal, la dif-
 
-[p. 166]
-
-166
+[p. 166] 166
 LES FAITS REPRESENTATIFS
 
 férence n'est plus sentie... Que signifient ces phénomènes ? Ils signi-
@@ -9676,9 +9186,7 @@ imperceptible .
 La deuxième méthode , dite des cas vrais etfaux, consiste à prendre
 des excitations, des poids , par exemple, différant très peu, et à les
 
-[p. 167]
-
-LES ÉLÉMENTS
+[p. 167] LES ÉLÉMENTS
 : LES SENSATIONS
 167
 
@@ -9745,9 +9253,7 @@ de 1/3
 de 1/17°
 de 1/100°
 
-[p. 168]
-
-168
+[p. 168] 168
 LES FAITS REPRÉSENTATIFS
 
 Ces nombres ont permis d'énoncer la loi générale suivante « qui
@@ -9798,9 +9304,7 @@ Elle nous donne des renseignements importants sur la nature de
 la sensation : « Elle nous apprend qu'il n'y a point égalité ni équi-
 valence entre les variations d'intensité objective (excitation) et les
 
-[p. 169]
-
-LES ÉLEMENTS : LES SENSATIONS
+[p. 169] LES ÉLEMENTS : LES SENSATIONS
 169
 
 Variations d'intensité subjective (sensation) ; que notre connaissance
@@ -9849,11 +9353,7 @@ parrapport à ces états : elle exprime non seulement une impression
 donnée, mais aussi la différence qu'il y a entre cette impression
 etles impressions antécédentes ou concomitantes . ( Voir loi de Weber.)
 En un mot , elle est relative à un ensemble : elle se présente comme
-une comparaison élémentaire et spontanée (Höffding) ; c'est,lu reste ,
-
-[p. 170]
-
-170
+une comparaison élémentaire et spontanée (Höffding) ; c'est,lu reste , [p. 170] 170
 LES FAITS REPRÉSENTATIFS
 
 nous le savons , un des caractères généraux de la conscience elle-
@@ -9909,9 +9409,7 @@ tude de phénomènes élémentaires , inconscients , chacun en particu-
 lier : ils ne sont sentis que fondus ensemble. Elle est toujours
 partie intégrante d'une synthèse plus large encore, qui lui donne
 
-[p. 171]
-
-LES ÉLÉMENTS
+[p. 171] LES ÉLÉMENTS
 : LES SENSATIONS
 171
 son aspect original. Ces caractères s'expliquent si l'on essaye de
@@ -9967,11 +9465,7 @@ faire les composantes , ou bien elles ne sont pas senties du tout ;
 ce ne sont plus alors des faits de conscience, et expliquer une
 résultante par des composantes qui n'ont rien de commun avec
 elle, est absurde . D'ailleurs, qu'est-ce que ces éléments physio-
-logiques? Ce sont des images nous représentant des organes d'une
-
-[p. 172]
-
-172
+logiques? Ce sont des images nous représentant des organes d'une [p. 172] 172
 LES FAITS REPRESENTATIFS
 
 forme particulière , impressionnés par des particules matérielles ;
@@ -10020,9 +9514,7 @@ qu'il soit. rotatoire , ondulatoire ou tout autre , ne ressemble en rien
 à la sensation de l'amer, du jaune, du froid ou de la douleur. Nous
 ne pouvons convertir aucune des deux conceptions en l'autre, et
 
-[p. 173]
-
-LES ÉLÉMENTS
+[p. 173] LES ÉLÉMENTS
 : LES SENSATIONS
 173
 partant les deux événements semblent être de qualité absolument
@@ -10078,9 +9570,7 @@ d'une façon grossière et globale les relations d'existence et qu'ana-
 lyseraient, en précédant et en précisant leurs relations, les proces-
 sus ultérieurs de la connaissance .
 
-[p. 174]
-
-174
+[p. 174] 174
 LES FAITS REPRÉSENTATIFS
 
 VI.
@@ -10133,11 +9623,7 @@ comme Taine , Strong, être de véritables sensations . Ce sont plutôt
 des états spéciaux capables d'accompagner n'importe quelle sensa-
 tion et qui ont des conditions toutes différentes de celles des sen-
 sations . Malgré tous les efforts que l'on a faits il a été impossible de
-trouver un organe sensoriel du plaisir et de la douleur. Les sensa-
-
-[p. 175]
-
-LES ÉLÉMENTS
+trouver un organe sensoriel du plaisir et de la douleur. Les sensa-[p. 175]LES ÉLÉMENTS
 : LES SENSATIONS
 175
 tions de bien-être ou de mal être ont au contraire une physionomie
@@ -10189,9 +9675,7 @@ refroidissement de la peau, mais simplement à une hyperesthésie des
 nerfs du froid , qui leur font sentir tout contact et en particulier le
 souffle de l'air comme un froid très vif .
 
-[p. 176]
-
-176
+[p. 176] 176
 LES FAITS REPRESENTATIFS
 
 5º Sens tactile proprement dit .
@@ -10249,9 +9733,7 @@ d'odeur piquante donnée par l'ammoniaque . Pour les sensations
 de saveur , l'âcreté , l'astringeance, l'irritation, la chaleur, la frai-
 cheur, appartiennent nécessairement aux sensations cutanées .
 
-[p. 177]
-
-LES ÉLÉMENTS
+[p. 177] LES ÉLÉMENTS
 LES SENSATIONS
 177
 
@@ -10309,9 +9791,7 @@ actuellementune étude de ce genre.
 
 12
 
-[p. 178]
-
-CHAPITRE XI
+[p. 178] CHAPITRE XI
 
 L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LES PERCEPTIONS
@@ -10363,11 +9843,7 @@ résulter de l'influence du milieu sur nous et constituent ce qu'on
 appelle la perception extérieure . Ou bien elles se localisent seule-
 ment à un moment du temps et nous apparaissent comme pro-
 duites directement par nous-mêmes ; elles nous donnent alors la
-notion de notre propre personnalité, de notre moi : c'est la percep-
-
-[p. 179]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+notion de notre propre personnalité, de notre moi : c'est la percep-[p. 179]L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LA PERCEPTION EXTÉRIEURE
 179
 tion interne . Ou, enfin, elles ne se localisent nulle part, elles sont le
@@ -10434,9 +9910,7 @@ extérieur
 
 localisée .
 
-[p. 180]
-
-180
+[p. 180] 180
 LES FAITS REPRESENTATIFS
 
 II .
@@ -10486,9 +9960,7 @@ de plus , les sensations correspondant aux impressions antérieures
 sont conservées ou encore reproduites dans la mémoire, tandis que
 les impressions suivantes se produisent tour à tour . » (Höffding , 152.)
 
-[p. 181]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+[p. 181] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LA PERCEPTION EXTÉRIEURE
 181
 Ce type se réduit donc à une fusion extrêmement rapide de sen-
@@ -10541,11 +10013,7 @@ temps (dès le troisième mois, d'après Compayré) un atlas visuel
 qui nous représente les différents points de notre corps, et les dif-
 férents points du milieu où nous nous trouvons placés. Les deux
 atlas s'associent entre eux, et une perception quelconque comprend
-essentiellement uneimage constitutive visuelle del'objet représenté ,
-
-[p. 182]
-
-182
+essentiellement uneimage constitutive visuelle del'objet représenté , [p. 182] 182
 LES FAITS REPRESENTATIFS
 
 carla vue, à cause de son champ d'action , devient vite prédomi-
@@ -10596,9 +10064,7 @@ perceptions extérieures sont tous rapportés à despoints précis de l'es-
 pace. Si bien que ce qui ne coïncide pas avec cette forte organisa-
 tion et ce repérage est rejeté dans le domaine de l'irréel et du rêve .
 
-[p. 183]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+[p. 183] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LA PERCEPTION EXTÉRIEURE
 183
 
@@ -10649,11 +10115,7 @@ faites avee le toucher et en mouvant un ou plusieurs organes . >>>
 
 (Höffding,263.)
 L'aveugle opéré par Franz (1840) ne fut pas capable de former
-Timage d'un carré ou d'un disque jusqu'àce qu'il eût éprouvé aux
-
-[p. 184]
-
-184
+Timage d'un carré ou d'un disque jusqu'àce qu'il eût éprouvé aux [p. 184] 184
 LES FAITS REPRESENTATIFS
 
 extrémités des doigts la même sensation que s'il eût réellement tou-
@@ -10706,11 +10168,7 @@ logue à la nôtre, ainsi que le montre l'observation de Platner .
 rents (par exemple de droite à gauche et de gauche à droite, de
 haut en bas et de bas en haut) la série successive de nos sensations ,
 ce qui nous les fait considérer comme permanentes et simultanées .
-Car, dans le temps, l'ordre des sensations ne dépend pas de nous ;
-
-[p. 185]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+Car, dans le temps, l'ordre des sensations ne dépend pas de nous ; [p. 185] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LA PERCEPTION EXTÉRIEURE
 185
 
@@ -10777,9 +10235,7 @@ les objets touchaient ses yeux. L'opéré de Franz ( 1840) prenait un
 dé pour un carré, une boule pour un disque et une pyramide pour
 un triangle. Tous les objets étaient plats .
 
-[p. 186]
-
-186
+[p. 186] 186
 LES FAITS REPRÉSENTATIFS
 
 ))
@@ -10836,9 +10292,7 @@ l'image totale de notre corps . Nous avons une confirmation de
 l'exactitude de ce processus dans les illusions des amputés . L'am-
 puté continue à sentir les douleurs et les impressions de contact
 
-[p. 187]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+[p. 187] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LA PERCEPTION EXTÉRIEURE
 187
 
@@ -10901,11 +10355,7 @@ ducorps quel'aveugletouchene faisaient pas sur ses nerfs sensitifs des
 impressions d'espèces différentes , il regarderait tout ce qui est exté-
 rieur comme une seule chose qui agirait successivement sur lui ;
 avec plus de force , par exemple, quand il pose la main sur une
-surface que lorsqu'il y met le doigt; avec moins deforcequand il la
-
-[p. 188]
-
-188
+surface que lorsqu'il y met le doigt; avec moins deforcequand il la [p. 188] 188
 LES FAITS REPRÉSENTATIFS
 
 frôle de la main ou que ses pieds y marchent . Dans son propre corps ,
@@ -10954,9 +10404,7 @@ le signe d'un acte pratique à exécuter qu'elle éveille tous les élé-
 ments d'information (images antérieures) nécessaires à cet acte .
 Les conditions générales de la perception sont donc les conditions
 
-[p. 189]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE : LA PERCEPTION EXTÉRIEURE
+[p. 189] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE : LA PERCEPTION EXTÉRIEURE
 189
 de la sensation jointes aux conditions des trois fonctions psycholo-
 giques d'élaboration : attention, mémoire et association .
@@ -11022,11 +10470,7 @@ T'habitude et de l'adaptation organiques, lorsque s'ymèle et y inter-
 vient la conscience .
 
 Les excitations sensorielles provoquent en nous des mouvements ;
-mais ces excitations sensorielles sont infiniment plus nombreuses
-
-[p. 190]
-
-190
+mais ces excitations sensorielles sont infiniment plus nombreuses [p. 190] 190
 LES FAITS REPRÉSENTATIFS
 
 que les mouvements dont nous disposons pour y répondre . Il en
@@ -11072,9 +10516,7 @@ une seule indication devient l'équivalent d'une multitude d'autres ,
 et abrège considérablement notre travail en économisant nos efforts .
 Pourquoi cette synthèse se fait-elle chez tous les individus , de
 
-[p. 191]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+[p. 191] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LA PERCEPTION EXTÉRIEURE
 191
 même façon ? Si la perception extérieure enchaîne les sensations sur
@@ -11136,11 +10578,7 @@ croyance à l'existence réelle d'images multiples empruntées au
 souvenir (notions d'étendue, de distances, localisations
 , sensations
 
-diverses), suscitées par une sensation et qui se combinent avec elle ;
-
-[p. 192]
-
-192
+diverses), suscitées par une sensation et qui se combinent avec elle ; [p. 192] 192
 LES FAITS REPRÉSENTATIFS
 
 hallucination encore , puisque nous savons que tout cela est le fruit
@@ -11187,9 +10625,7 @@ commode , et avec une meilleure réussite . Nous verrons au chapitre [^p192-1]
 
 [^p192-1]: Les illusions nombreuses connues sous le nom d'erreurs des sens viennent préci- sément de ce que l'éducation de ces derniers n'est jamais parfaite ; nous nous atten- dons à l'existence réelle de propriétés qui ne sont que des images subjectives suscitées par l'objet, alors que celui- ci ne les présente pas réellement. L'expérience nous apprend ensuite que notre attente estdéçue . Epicure avait déjà exprimé cette remarque , devenue classique , en disant que les sens ne nous trompentjamais, mais que l'erreur vient de ce que nous ajoutons de notre propre cru à leurs données , de l'interprétation que nous en faisons grâce aux souvenirs de notre expérience passée . A l'origine nous étendons même cette objectivation toute image : le sauvage, le jeune enfant distinguent mal le rêve et l'imagination de la réalité . Certaines maladies mentales, les désorganisations passagères de la conscience aux moments où l'on s'endort amènent des confusions analogues . tant elle est naturelle a
 
-[p. 193]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+[p. 193] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LA PERCEPTION EXTÉRIEURE
 193
 
@@ -11253,11 +10689,7 @@ Montrer que la perception est un
 
 ensemble de souvenirs provoqué par une sensation actuelle, c'est
 
-montrer aussi qu'elle est une synthèse associative. A la donnée
-
-[p. 194]
-
-194
+montrer aussi qu'elle est une synthèse associative. A la donnée [p. 194] 194
 LES FAITS REPRÉSENTATIFS
 
 -J
@@ -11311,9 +10743,7 @@ l'attention ,
 se manifeste le ressort intime de la perception exté-
 rieure . C'est en dernière analyse la théorie de l'évolution qui nous
 
-[p. 195]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+[p. 195] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LA PERCEPTION EXTÉRIEURE
 195
 
@@ -11366,11 +10796,7 @@ perception interne, est une perception claire, confuse, la perception
 de tel objet. Pour la clarté du langage, il serait peut-être bon de
 réserver le mot de perception à la fonction, et d'employer celui
 de percept, pour le résultat.Mais on est forcé de tenir compte des
-locutions usuelles . Il suffit de faire attention au langage employé et
-
-[p. 196]
-
-196
+locutions usuelles . Il suffit de faire attention au langage employé et [p. 196] 196
 LES FAITS REPRÉSENTATIFS
 
 de préciser toujours
@@ -11398,9 +10824,7 @@ d'après les investigations contemporaines ; mais il importe de ne pas
 oublier toutes les incertitudes et parfois les erreurs que peut comporter
 actuellement une étude de ce genre .
 
-[p. 197]
-
-11.
+[p. 197] 11.
 
 CHAPITRE XII
 
@@ -11468,9 +10892,7 @@ De même que la perception externe posait
 
 avec force, en face des illusions, du rêve, de l'hallucination, l'exis-
 
-[p. 198]
-
-198
+[p. 198] 198
 LES FAITS REPRÉSENTATIFS
 
 tence du monde extérieur, comme quelque chose de primitif et
@@ -11527,11 +10949,7 @@ sensations .
 sonnalité
 : ses différents stades .
 C'est à la suite de l'étude
-pénétrante de Hume que la psychologie a fait l'analyse de la per-
-
-[p. 199]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+pénétrante de Hume que la psychologie a fait l'analyse de la per-[p. 199]L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LA PERCEPTION INTERNE , LE MOΟΙ
 199
 
@@ -11602,11 +11020,7 @@ toujours relative » , et ses éléments sont quelquefois en lutte . Son
 
 caractère composé, sporadique « n'apparaît pas seulement au début
 
-de la vie psychologique, mais aussiultérieurement dans les crises
-
-[p. 200]
-
-200
+de la vie psychologique, mais aussiultérieurement dans les crises [p. 200] 200
 LES FAITS REPRÉSENTATIFS
 
 et les périodes de transition » (Höffding, 178) . Les songes dans
@@ -11655,11 +11069,7 @@ perception externe . Elles nous montrent une combinaison d'états
 blable à la perception interne normale. Sur la personnalité qu'on
 peut appeler primitive et fondamentale , dont il subsiste des restes
 altérés , se greffent tour à tour deux personnalités nouvelles non seu-
-lement très distinctes, mais qui s'excluent totalement . » (Th . Ribot,
-
-[p. 201]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+lement très distinctes, mais qui s'excluent totalement . » (Th . Ribot, [p. 201] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LA PERCEPTION INTERNE , LE MOΙ 201
 
 con-
@@ -11730,9 +11140,7 @@ peuvent, toutefois , être communs .
 Ce qui peut-être est plus surprenant encore, c'est la double
 personnalité simultanée, les synthèses se développant parallèle-
 
-[p. 202]
-
-202
+[p. 202] 202
 LES FAITS REPRÉSENTATIFS
 
 ment, chacune pour elle-même , sans se mêler. « Les malades sont
@@ -11785,9 +11193,7 @@ la perception externe et en s'opposant à elle. Cette distinction se
 fait grâce aux sensations cénesthétiques et musculaires (sens vital
 et sens de l'effort) .
 
-[p. 203]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+[p. 203] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LA PERCEPTION INTERNE, LE MOI
 203
 
@@ -11843,11 +11249,7 @@ objets externes soient modifiés. Ils apparaissent par suite comme
 indépendants des réalités extérieures et se posent naturellement
 comme fragments du dedans, comme états internes. Bien plus,
 <<ils sont affectés d'une contradiction qui les nie comme objets ex-
-ternes », car ces derniers forment autourde nous un enchainement
-
-[p. 204]
-
-204
+ternes », car ces derniers forment autourde nous un enchainement [p. 204] 204
 LES FAITS REPRÉSENTATIFS
 
 serré qui s'impose d'une façon absolue,
@@ -11901,9 +11303,7 @@ sente en un tout unique dans le champ de la conscience . Et nos
 états se coordonnent dans cette vie intérieure d'une façon aussi
 étroite et sûre que dans la représentation du monde extérieur .
 
-[p. 205]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+[p. 205] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LA PERCEPTION INTERNE , LE MOI
 205
 
@@ -11964,11 +11364,7 @@ une association d'individus à peu près encore complètement indé-
 pendants les uns des autres.Le voisinage forcé, la continuité des
 tissus, l'unité à peu près constante del'appareil digestif établit néan-
 moins entre eux un certain nombre de rapports qui font que chaque
-individu ne peut demeurer absolument étranger à ce qui se passe
-
-[p. 206]
-
-206
+individu ne peut demeurer absolument étranger à ce qui se passe [p. 206] 206
 LES FAITS REPRÉSENTATIFS
 
 く
@@ -12023,11 +11419,7 @@ toutes les individualités particulières...
 coordinateur par
 excellence (Cf. chap .
 I et IV) , est le signe visible d'un progrès
-vers une individualité ... plus harmonique. Mais cette centrali-
-
-[p. 207]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE : LA PERCEPTION INTERNE , LE MOI 207
+vers une individualité ... plus harmonique. Mais cette centrali-[p. 207]L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE : LA PERCEPTION INTERNE , LE MOI 207
 
 sation ne s'établit pas d'emblée. Chez les annélides ,
 les gan-
@@ -12084,9 +11476,7 @@ psychologique des consciences élémentaires, la fusion de toute l'ac-
 tivité interne. Elle est le retentissement de l'unité physio-psycho-
 logique.
 
-[p. 208]
-
-208
+[p. 208] 208
 LES FAITS REPRÉSENTATIFS
 
 IV .
@@ -12138,9 +11528,7 @@ actuelle , que grace à cette coordination, infiniment plus étroite ,
 plus une que la synthèse mécanique telle que nous la rencontrons
 dans le monde extérieur . Elle est d'ailleurs la seule qui pouvait
 
-[p. 209]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+[p. 209] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LA PERCEPTION INTERNE, LE MOI
 209
 
@@ -12191,11 +11579,7 @@ sont plus ou moins clairs et distincts, plus ou moins éclairés et
 
 paraissent aussi plus ou moins sous notre domination directe plus
 
-14
-
-[p. 210]
-
-210
+14 [p. 210] 210
 LES FAITS REPRÉSENTATIFS
 
 ou moins vraiment conscients (ce qui doit encore être pris en consi-
@@ -12249,9 +11633,7 @@ il n'apparaît d'ailleurs que dans une vie intérieure très évoluée
 pouvoir personnel, cette partie de notre personnalité, qui lui donne
 son unité la plus haute et la plus complète, mais aussi la dernière
 
-[p. 211]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE : LA PERCEPTION INTERNE , LE MOI
+[p. 211] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE : LA PERCEPTION INTERNE , LE MOI
 211
 
 à apparaître et la plus fragile, et on lui oppose notre spontanéité ,
@@ -12301,9 +11683,7 @@ moyens psychologiques (suggestions dans le somnambulisme arti-
 ficiel), et alors , à mesure que l'une d'elles apparaît, l'état particulier
 du corps, qui lui est lié, apparaît aussi.
 
-[p. 212]
-
-212
+[p. 212] 212
 LES FAITS REPRÉSENTATIFS
 
 Remarque très importante .
@@ -12317,9 +11697,7 @@ d'après les investigations contemporaines ; mais il importe de ne pas
 oublier toutes les incertitudes et parfois les erreurs que peut comporter
 actuellement une étude de ce genre .
 
-[p. 213]
-
-CHAPITRE XIII
+[p. 213] CHAPITRE XIII
 
 L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LES PERCEPTIONS
@@ -12377,11 +11755,7 @@ un être un, qui se développe en restant toujours au fond identique
 à soi, comme une personnalité . C'est du moins l'explication à
 laquelle on est amené, si l'on reste placé au point de vue de la
 psychologie expérimentale.
-Mais nos souvenirs peuvent, il est facile de le constater par
-
-[p. 214]
-
-214
+Mais nos souvenirs peuvent, il est facile de le constater par [p. 214] 214
 LES FAITS REPRÉSENTATIFS
 
 l'expérience , s'affranchir de l'ordre qu'ils ont dans le temps ; ils
@@ -12434,9 +11808,7 @@ traces de ce qui l'a affectée . C'est en ce sens qu'il y a des images
 affectives et une mémoire affective , des images motrices et une mé-
 moire motrice qui rejoint, par transitions continues, l'habitude .
 
-[p. 215]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+[p. 215] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LES IMAGES
 215
 
@@ -12485,11 +11857,7 @@ laquelle nous inventons , c'est-à-dire, par laquelle progresse notre
 intelligence; elle a ainsi une toute autre valeur, une toute autre por-
 tée que l'imagination reproductrice, qui n'est qu'un cas particulier
 de la perception, et se borne à peu près à répéter nos souvenirs .
-Pourtant cette dernière les groupe déjàdans un autre ordre, et, en
-
-[p. 216]
-
-216
+Pourtant cette dernière les groupe déjàdans un autre ordre, et, en [p. 216] 216
 LES FAITS REPRÉSENTATIFS
 
 ce sens, elle prélude à l'imagination créatrice. On ne peut donc
@@ -12542,11 +11910,7 @@ tincte, moins énergique et privée de plusieurs de ses alentours .>>>
 Cet effacement est plus ou moins grand selon les divers esprits
 et c'est ce qu'on exprime vulgairement en disant que les hommes
 ont plus ou moins de mémoire , en employant ce mot dans ce sens
-restreint, on devrait dire : plus ou moins d'imagination reproduc-
-
-[p. 217]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+restreint, on devrait dire : plus ou moins d'imagination reproduc-[p. 217]L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LES IMAGES
 217
 
@@ -12603,11 +11967,7 @@ de croire l'avoir trouvé .
 
 3ºL'image est, en général, pendant un instant si court qu'ilsoit, prise
 pour la réalité, lorsqu'elle est très vive. C'est ce qu'on appelle l'illu-
-lusion; si cette méprise se prolongeait, l'illusion deviendrait hallu
-
-[p. 218]
-
-218
+lusion; si cette méprise se prolongeait, l'illusion deviendrait hallu [p. 218] 218
 LES FAITS REPRÉSENTATIFS
 
 cination ; mais , à l'état normal , comme nous le verrons en étudiant
@@ -12653,11 +12013,7 @@ précédente ne l'est pas véritablement, entre les deux étaient les
 intermédiaires que
 l'habitude, l'inattention, la promptitude de
 l'opération nous ont empêchés de remarquer ; ces intermédiaires
-ont servi de transition invisible ... Hobbes , l'un des premiers fonda-
-
-[p. 219]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+ont servi de transition invisible ... Hobbes , l'un des premiers fonda-[p. 219]L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 ; LES IMAGES
 219
 
@@ -12719,9 +12075,7 @@ y joue un rôle tout à fait subordonné et y parait plutôt un défaut
 qu'une qualité . Les images sont altérées inconsciemment par
 l'esprit qui, dans une certaine mesure, est dupe de cette altération.
 
-[p. 220]
-
-220
+[p. 220] 220
 LES FAITS REPRÉSENTATIFS
 
 :
@@ -12778,9 +12132,7 @@ conscience, et dont tantôt Tun,
 tantot l'autre aura la prépondé-
 rance » , selon le moment ou l'individu . « L'un est déterminé par la
 
-[p. 221]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+[p. 221] L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LES IMAGES
 221
 
@@ -12836,11 +12188,7 @@ fondamentaux sont les mêmes : ils se coordonnent comme dans la
 perception externe ; ils se différencient de celle-ci en ce que, dans
 la perception, il y a dépendance du phénomène par rapport à des
 excitations externes et qu'ici le phénomène dépend uniquement
-des centres nerveux supérieurs. Mais, dans ces centres, les parties
-
-[p. 222]
-
-222
+des centres nerveux supérieurs. Mais, dans ces centres, les parties [p. 222] 222
 LES FAITS REPRÉSENTATIFS
 
 affectées sont les mêmes , car une même lésion cérébrale entraîne
@@ -12901,11 +12249,7 @@ une pensée consciente d'elle-même, se dirigeant vers un but, au
 moyen de lois qui ne sont plus le décalque pur et simple des asso-
 ciations présentées par le hasard. Elle nous permet de mener une
 vie de souvenirs et de pensées et non plus exclusivement de sensa-
-tions et de perceptions . On a très justement comparé ces représen-
-
-[p. 223]
-
-L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
+tions et de perceptions . On a très justement comparé ces représen-[p. 223]L'ACTIVITÉ REPRÉSENTATIVE SPONTANÉE
 : LES IMAGES
 223
 
@@ -12940,9 +12284,7 @@ prit, ou à son activité rationnelle . Une imaginatiou reproductrice
 trop précise et trop riche peut alourdir l'esprit, en l'encombrant
 d'un bagage peu maniable .
 
-[p. 224]
-
-CHAPITRE
+[p. 224] CHAPITRE
 XIV
 
 L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
@@ -13001,9 +12343,7 @@ infinité de perceptions possibles , et bien entendu ne renferment
 plus les détails particuliers de chacune, qui sont éliminés . Cet
 acte est une notion, un concept, une idée , ou, plus précisément, une
 
-[p. 225]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 225] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 225
 
@@ -13056,11 +12396,7 @@ que l'on en a eus : par exemple l'idée que je me fais de la table
 sur laquelle j'écris, qui fusionne toutes les images que j'ai pu
 avoir, chaque fois que j'ai vu cette table. Ces idées, très concrètes
 
-15
-
-[p. 226]
-
-226
+15 [p. 226] 226
 LES FAITS REPRÉSENTATIFS
 
 encore, forment la transition naturelle de la perception au concept :
@@ -13109,9 +12445,7 @@ s'opèrent en même temps et réagissent l'une sur l'autre. Nous ne
 les séparons que pour la commodité de l'étude analytique . L'abs-
 traction a d'ailleurs une tendance à précéder la généralisation .
 
-[p. 227]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 227] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 227
 
@@ -13168,11 +12502,7 @@ a= dd - (b + c) . S'il en était ainsi, bet e seraient conservés tels
 quels dans la conscience ; il n'y aurait pas d'abstraction . D'autre
 part, lareprésentation du tout d ne pouvant être supprimée purement
 et simplement, b et c ne peuvent être totalement anéantis. Ils sub-
-sistent donc à l'état de résidus qu'on peut désigner par z, et la
-
-[p. 228]
-
-228
+sistent donc à l'état de résidus qu'on peut désigner par z, et la [p. 228] 228
 LES FAITS REPRESENTATIFS
 
 représentation abstraite est non pas a , mais az renforcée ou A.
@@ -13235,11 +12565,7 @@ ment : elle est une simplification de simplification. » (Th . Ribot , 9.)
 Cette simplification est, en grande partie, favorisée et continuée par
 l'expérience où une qualité déterminée nous est donnée comme partie
 intégrante de groupes très différents : « Une impression totale dont
-les éléments ne nous auraient jamais été donnés à part dans l'expé-
-
-[p. 229]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+les éléments ne nous auraient jamais été donnés à part dans l'expé-[p. 229]L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 229
 
@@ -13292,11 +12618,7 @@ et générales qui dépassent l'idée individuelle .
 « Dès qu'on dépasse
 la relation individuelle pure, on entre dans une hiérarchie de
 notions qui, à part le caractère commun à toutes d'être générales,
-sont de nature fort hétérogène... Il faut fixer les principaux éche
-
-[p. 230]
-
-230
+sont de nature fort hétérogène... Il faut fixer les principaux éche [p. 230] 230
 LES FAITS REPRÉSENTATIFS
 
 lons de cette hiérarchie et, pour cela, il faut une notation objec-
@@ -13344,9 +12666,7 @@ réciproque des images concrètes , une nouvelle image, « dont on
 peut dire à bon droit qu'elle représente les autres, puisqu'elle en
 est en quelque sorte la moyenne, corrige cette erreur » . Mais il
 
-[p. 231]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 231] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 231
 
@@ -13394,11 +12714,7 @@ où se présentent les mêmes propriétés .
 3º Ce travail arrive à son terme , et se dissimule alors presque
 complètement, dans les concepts complètement élaborés ou concepts
 supérieurs . Ils ontpour marque propre de n'être plus représentables
-par une image quelconque. « Tout se réduit, en apparence du
-
-[p. 232]
-
-232
+par une image quelconque. « Tout se réduit, en apparence du [p. 232] 232
 LES FAITS REPRÉSENTATIFS
 
 moins , au mot seul >>
@@ -13452,9 +12768,7 @@ Ribot, et même dès ce stade, d'après Ruyssen , en somme, dès que
 nous avons à faire à quelque représentation qui ressemble plus à
 une idée qu'à une image, la représentation ne se pose pas d'une
 
-[p. 233]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 233] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 233
 
@@ -13511,11 +12825,7 @@ la croyance, l'adhésion de l'esprit est àpeu près immédiate, sans
 que l'on ait besoin d'analyser l'opération pour la confirmer. Telle
 
 est la première forme du jugement, la plus rudimentaire ; ce n'est
-que par les nombreuses erreurs auxquelles elle peut amener , qu'on
-
-[p. 234]
-
-234
+que par les nombreuses erreurs auxquelles elle peut amener , qu'on [p. 234] 234
 LES FAITS REPRÉSENTATIES
 
 a été conduit , peu à peu, à en analyser les termes , à vérifier scru-
@@ -13566,9 +12876,7 @@ T'habitude ,
 l'attention et l'association
 : et elle montre, dès ses
 
-[p. 235]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 235] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 235
 
@@ -13620,11 +12928,7 @@ un signe. Jusqu'à présent, en effet, nous n'avons défini l'idée que
 par des actes théoriques, des opérations possibles , des virtualités
 (c'est une habitude, une possibilité indéfinie de substitutions) et non
 pas quelque chose de réel pour la conscience. Il fallait absolument
-que celle-ci trouvat un symbole réel qui matérialisat et figurât
-
-[p. 236]
-
-236
+que celle-ci trouvat un symbole réel qui matérialisat et figurât [p. 236] 236
 LES FAITS REPRÉSENTATIFS
 
 l'idée , lui donnat une existence effective . Ce signe, dans l'espèce
@@ -13682,9 +12986,7 @@ amphibies .
 « Avec
 le
 
-[p. 237]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 237] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 237
 
@@ -13756,9 +13058,7 @@ pement de la troisième frontale soit un des meilleurs signes pour
 estimer la valeur cérébrale.
 >>>
 
-[p. 238]
-
-238
+[p. 238] 238
 LES FAITS REPRÉSENTATIFS
 
 4° Insuffisance des plis d'union : les plis d'anastomose sont moins
@@ -13811,9 +13111,7 @@ servation
 :
 « Si à certaines images génériques correspondent bien
 
-[p. 239]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 239] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 LES CONCEPTS
 239
 
@@ -13868,11 +13166,7 @@ conditions physiologiques, sauf en ce qui concerne la parole, sont
 très mal connues : elles sont en général ce qui distingue au point
 de vue physiologique l'écorce cérébrale de l'homme adulte et civi-
 lisé, du cerveau des races inférieures, du cerveau de l'enfant et
-du cerveau animal. Cette indétermination ne nous empêche pas
-
-[p. 240]
-
-240
+du cerveau animal. Cette indétermination ne nous empêche pas [p. 240] 240
 LES FAITS REPRÉSENTATIFS
 
 de poursuivre l'étude de l'idée abstraite et générale, car, son élabo-
@@ -13910,9 +13204,7 @@ lation , puisqu'il n'y a vraiment de connaissance organisée que [^p240-1]
 
 [^p240-1]: Le problème de la valeur des idées générales et de leur nature (qu'avons-nous dans l'esprit quand nous pensons une idée générale ?) a été un de ceux qui ont le plus passionné les philosophes du moyen âge. La scolastique est remplie des discussions entre réalistes ( disciples de Platon et d'Aristote ) , conceptualistes (Abélard) et nomi- nalistes (Roscelin ) . Les réalistes croient que toutes nos idées sont des intuitions immédiates de l'esprit, d'une vérité absolue . Les conceptualistes vont moins loin ; pour eux nos idées sont des rapports établis entre les images perceptives par l'esprit et corres- pondent à des rapports entre les phénomènes . Les nominalistes enfin pensenique indée n'existe pas , qu'il n'y a que des images particulières et des noms ; la généralité consiste à appliquer le méme mot à plusieurs images . Ils représentent donc le scepticisme contre les dogmatiques, réalistes ou conceptualistes . D'après ce que nous avons dit. les idées ne nécessitent aucune intuition spéciale pour leur formation, et nous sommes sur ce point d'accord avec le nominalisme ; mais elles existent en tant que symboles établis par l'expérience, comme substituts communs à des images perceptives multiples . (Voir METAPHYSIQUE. )
 
-[p. 241]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 241] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 241
 
@@ -13966,11 +13258,7 @@ convertible en objets de consommation ... , est un pur néant qu'on
 peut entasser dans sa caisse sans rien posséder que des apparences ;
 de même, si les plus hauts symbolesde l'abstraction ne sont réduc-
 
-16
-
-[p. 242]
-
-242
+16 [p. 242] 242
 LES FAITS REPRÉSENTATIFS
 
 tibles aux données de l'expérience, on peut, comme il arrive trop
@@ -14018,9 +13306,7 @@ donc dans l'esprit quand il pensera à une idée générale soit la [^p242-1]
 
 [^p242-1]: Langue de perroquet .
 
-[p. 243]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 243] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 243
 
@@ -14068,11 +13354,7 @@ Mais, alors, l'idée générale ne semble-t-elle pas complètement
 étrangère à la réalité, puisque il n'y a dans l'esprit, quand nous la
 pensons , que des éléments qui n'ont aucun rapport ou que très peu
 derapport avec cette réalité ? Sa substructurepsychologique étant un
-signe, elle-même ne peut être qu'un symbole, commode peut-être,
-
-[p. 244]
-
-244
+signe, elle-même ne peut être qu'un symbole, commode peut-être, [p. 244] 244
 LES FAITS REPRÉSENTATIFS
 
 pour guider notre action , mais sans aucune valeur de connaissance .
@@ -14123,9 +13405,7 @@ gurées ; et les conceptualistes , que si les éléments de la réalité
 étaient altérés par cet acte de l'esprit, ou plutot restaient tels que
 la perception nous les donnait, à tout le moins cet acte nous faisait
 
-[p. 245]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 245] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LES CONCEPTS
 245
 
@@ -14173,11 +13453,7 @@ On peut même dire une connaissance plus exacte, sans paradoxe,
 car les objets de la connaissance ne sont pas des individualités iso-
 lées, comme nos images perceptives nous les représentent ; ils ont,
 au contraire , entre eux une multitude de rapports plus ou moins
-cachés que les idées nous font connaître. Comme ces rapports sont
-
-[p. 246]
-
-246
+cachés que les idées nous font connaître. Comme ces rapports sont [p. 246] 246
 LES FAITS REPRÉSENTATIFS
 
 ceux suivant lesquels les choses agissent les unes sur les autres ,
@@ -14214,9 +13490,7 @@ et le plus utilement
 
 - à
 
-[p. 247]
-
-CHAPITRE XV
+[p. 247] CHAPITRE XV
 
 L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 LES CONCEPTS (suite)
@@ -14271,11 +13545,7 @@ vivant et change; il se forme lentement et s'élabore en se pré-
 cisant, en devenant de plus en plus clair et distinct : cette élabo-
 ration se fait par des rapports nouveaux, aperçus et posés par la
 pensée, c'est-à-dire par des rapprochements entre le concept consi-
-déré et d'autres concepts. Quand je dis, par exemple, que les planètes
-
-[p. 248]
-
-248
+déré et d'autres concepts. Quand je dis, par exemple, que les planètes [p. 248] 248
 LES FAITS REPRÉSENTATIFS
 
 sont sphériques, je donne à mon concept de planète une propriété
@@ -14329,9 +13599,7 @@ Tous
 les solides sont pesants ; le soleil est
 brillant : voilà des jugements où les propriétés affirmées sont
 
-[p. 249]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 249] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LE JUGEMENT
 249
 
@@ -14383,11 +13651,7 @@ dans toute technique, aussi bien que dans les domaines plus élevés
 de la morale, de l'art et de la religion, c'est celle de leur valeur ob-
 jective : savoir à quoi ils correspondent dans la réalité. Mais au
 point de vue de lascience psychologique, jugement de réalité ou
-jugement de valeur s'élaborent de façons semblables ; et ce qui
-
-[p. 250]
-
-250
+jugement de valeur s'élaborent de façons semblables ; et ce qui [p. 250] 250
 LES FAITS REPRÉSENTATIFS
 
 tendrait à le prouver,
@@ -14441,9 +13705,7 @@ Ensuite , nous cherchons à relier les éléments dissociés
 c'est
 alors la tâche du jugement synthétique et du raisonnement inductif.
 
-[p. 251]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE : LE JUGEMENT
+[p. 251] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE : LE JUGEMENT
 251
 
 Et c'est sur les rapports alors clairs et distincts établis par ces syn-
@@ -14493,9 +13755,7 @@ valeur.
 <<Il est clair que, dans les deux premiers stades, il n'y a pas de juge-
 ment. C'est au troisième qu'il commencerait à apparaître : par con-
 
-[p. 252]
-
-252
+[p. 252] 252
 LES FAITS REPRÉSENTATIFS
 
 séquent avec les images génériques les plus élevées ou les abstraits
@@ -14548,9 +13808,7 @@ c'est ainsi que le mouvement apparent du soleil autour de la terre...
 ne nous empêche pas d'affirmer que la terre tourne autour du soleil.
 « L'association constitue une série purement subjective, soumise
 
-[p. 253]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 253] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LE JUGEMENT
 253
 
@@ -14601,9 +13859,7 @@ pose à d'autres faits ; il ne se confond pas avec lui. Le doute reste [^p253-1]
 
 [^p253-1]: Au moins, car on verra au chapitre suivant que certains psychologues doutent de cette nécessité et prétendentque toute affirmation est toujours une croyance.
 
-[p. 254]
-
-254
+[p. 254] 254
 LES FAITS REPRÉSENTATIFS
 
 la suspension du jugement ( Descartes) , en tant qu'il divise l'atten-
@@ -14657,9 +13913,7 @@ réactions répétées à vide , ces tendances , sont l'origine première du
 contraste entre le sentiment du réel et celui de l'irréel, du donné
 et du possible. Le sentiment de l'irréel est peut-être la première
 
-[p. 255]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 255] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 LE JUGEMENT
 255
 
@@ -14707,9 +13961,7 @@ posent un doute conscient et une réflexion souvent très longue . [^p255-1]
 
 [^p255-1]: Remarquons-le enpassant : cette constatation psychologique a une importance pé- dagogique très grande. L'enseignement véritable s'adresse à la réflexion et repose sur le libre examen, etc.
 
-[p. 256]
-
-256
+[p. 256] 256
 LES FAITS REPRÉSENTATIFS
 d) LES FACTEURS DE LA CROYANCE . - D'après ce qui précède , on
 doit considérer « la connaissance comme un processus non plus lo-
@@ -14761,9 +14013,7 @@ voir créateur d'habitudes et notre grand pouvoir d'adaptation . Ce rôle
 de la volonté dans le jugement se traduit intérieurement par le sen-
 timent d'effort qui accompagne souvent notre activité intellectuelle
 
-[p. 257]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 257] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 LE JUGEMENT
 257
 
@@ -14814,11 +14064,7 @@ V'adaptation, que nous avons rencontrés à l'origine même de la vie
 psychologique, puis dans toutes les manifestations de la vie repré-
 sentative et qui plongent par leurs racines dans la vie biologique.
 
-17
-
-[p. 258]
-
-258
+17 [p. 258] 258
 LES FAITS REPRÉSENTATIFS
 
 La faculté de juger doit donc être considérée comme une fonc-
@@ -14872,9 +14118,7 @@ Cet étroit rapport physio-psychologique entre le jugement et
 l'adaptation motrice confirme de tous points et explique les résul-
 tats de l'analyse psychologique du jugement.
 
-[p. 259]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 259] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LE JUGEMENT
 259
 
@@ -14920,9 +14164,7 @@ B. Importance du jugement.-Aussi le jugement a-t-il apparu
 comme l'opération intellectuelle essentielle : « Penser, c'est juger » ,
 disait Kant, c'est-à-dire affirmer des rapports .
 
-[p. 260]
-
-260
+[p. 260] 260
 LES FAITS REPRÉSENTATIES
 
 Toutes nos idées, en effet, sont des rapports, et les penser, c'est
@@ -14970,9 +14212,7 @@ qu'implique le jugement sontune seule et même chose .
 Ce reproche, considéré en lui-même , ne nous paraît pas fondé,
 et nous maintenons notre analyse psychologique et la théorie dont
 
-[p. 261]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 261] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 LE JUGEMENT
 261
 
@@ -15009,9 +14249,7 @@ et on croira vrai-
 
 semblable que cette intuition est d'ordre expérimental .
 
-[p. 262]
-
-CHAPITRE XVI
+[p. 262] CHAPITRE XVI
 
 L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 
@@ -15065,9 +14303,7 @@ toutes nos opinions et tous nosjugements par le moyen du raison-
 nement proprement dit. C'est, au contraire, le cours spontané de
 nos représentations qui paraît être en nous l'élément véritablement
 
-[p. 263]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 263] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 LE RAISONNEMENT
 263
 
@@ -15118,9 +14354,7 @@ opérations plus complexes. Mais enfin on peut, d'une manière assez
 cohérente, indiquer grossièrement cette évolution de la simple
 croyance vers la nécessité logique ; et c'est ce que nous allons faire.
 
-[p. 264]
-
-264
+[p. 264] 264
 LES FAITS REPRÉSENTATIFS
 
 II.
@@ -15173,9 +14407,7 @@ l'esprit est moins occupé du souvenir des brûlures passées que de
 l'attente d'une répétition du même fait dans le cas présent ; c'est-à-
 dire qu'il se rappelle moins le fait d'avoir été brûlé qu'il ne tire la
 
-[p. 265]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 265] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 LE RAISONNEMENT
 265
 
@@ -15229,11 +14461,7 @@ Tinduction parfaite... Il suppose, au moins dans ses formes les
 plus hautes chez l'animal, une construction de l'esprit : le but est
 posé, et les moyens sont imaginés pour l'atteindre . » (Id . , 36.)
 Cet acte consiste en un enchaînement d'images génériques , et en
-V'attente d'une conformité dans la suite de cet enchainement ;
-
-[p. 266]
-
-266
+V'attente d'une conformité dans la suite de cet enchainement ; [p. 266] 266
 LES FAITS REPRÉSENTATIFS
 
 ((
@@ -15284,9 +14512,7 @@ quoi il vient. Il nous est impossible de le deviner par la seule
 intuition de la pensée. Nous ne pouvons que le constater par l'expé-
 rience .
 
-[p. 267]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 267] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LE RAISONNEMENT
 267
 
@@ -15350,9 +14576,7 @@ dont la première donnée n'estquel'ensemble ou le total » (Id. , 418). [^p267-
 
 [^p267-1]: Voir la théorie philosophique du fondement de l'induction en logique, p. 689 .
 
-[p. 268]
-
-268
+[p. 268] 268
 LES FAITS REPRÉSENTATIFS
 
 La notion d'identité est donc posée par l'esprit comme la règle , la
@@ -15408,9 +14632,7 @@ nouveaux et doivent recevoir une acception plus générale . Il est
 vrai que cette généralisation n'est pas la conséquence directe et
 immédiate de la méthode déductive . Elle est due, comme on le
 
-[p. 269]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 269] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LE RAISONNEMENT
 269
 
@@ -15459,9 +14681,7 @@ comme le jugement analytique, sur une habitude acquise, tandis
 que l'induction, comme le jugement synthétique, est la formation
 d'une habitude nouvelle, une adaption, une découverte .
 
-[p. 270]
-
-270
+[p. 270] 270
 LES FAITS REPRÉSENTATIFS
 
 De plus, dans les sciences de la nature , l'expérience qui fonde
@@ -15512,9 +14732,7 @@ et les tatonnements, est dans l'ordre de l'activité organique . C'est
 une habitude mentale indéfectible , comme le mouvement devenu
 automatique , est une habitude organique indéfectible .
 
-[p. 271]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 271] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LE RAISONNEMENT
 271
 
@@ -15572,9 +14790,7 @@ meront un immense système, qui nous représentera exactement,
 
 adéquatement, l'univers dans lequel nous vivons.
 
-[p. 272]
-
-272
+[p. 272] 272
 LES FAITS REPRÉSENTATIFS
 
 Les rapports établis entre nos idées deviendront les rapports
@@ -15628,9 +14844,7 @@ pas encore partie de notre nature , parce qu'elle étonne encore , et ne
 rentre pas dans le système rigide, stéréotypé de nos habitudes ,
 elle ne rend pas complètement compte d'elle-même .
 
-[p. 273]
-
-L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
+[p. 273] L'ACTIVITÉ REPRÉSENTATIVE ÉLABORÉE
 : LE RAISONNEMENT
 273
 
@@ -15684,9 +14898,7 @@ raisonnement.
 
 18
 
-[p. 274]
-
-I.
+[p. 274] I.
 
 11 .
 
@@ -15745,9 +14957,7 @@ de ces propriétés , et les représente nettement au milieu de tous les
 détails insignifiants que comporte chaque objet réel. Il fixe le résul-
 tat de l'abstraction , et par suite rend notre idée claire, en mettant
 
-[p. 275]
-
-LES SIGNES
+[p. 275] LES SIGNES
 : RAPPORTS DU LANGAGE ET DE LA PENSÉE
 275
 
@@ -15799,11 +15009,7 @@ doit aux systèmes d'idées que le langage apermis. Le langage n'a
 donc pas seulement étayé le conceptàson origine : ila permis, en
 enfaisant quelque chosede social, tout l'essor de la pensée humaine.
 
-un
-
-[p. 276]
-
-276
+un [p. 276] 276
 LES FAITS REPRÉSENTATIFS
 
 L'idée n'a pu se généraliser vraiment qu'en s'appuyant sur une
@@ -15857,11 +15063,7 @@ grande fortune dans l'ancienne psychologie : le langage est-il pos-
 térieur ou antérieur à la pensée ? Certains soutenaient que, pour
 nommer une idée,
 il faut d'abord l'avoir ; on avait donc formé
-l'idée, puis peu à peu on lui avait associé un nom. D'autres,
-
-[p. 277]
-
-LES SIGNES
+l'idée, puis peu à peu on lui avait associé un nom. D'autres, [p. 277] LES SIGNES
 : RAPPORTS DU LANGAGE ET DE LA PENSÉE
 277
 
@@ -15911,11 +15113,7 @@ Thumanité, la plupart des émotions ;
 de signes chargés d'indiquer certains faits ou certaines décisions
 
 (signes de télégraphie électrique ou aérienne, signaux des chemins
-de fer, de la navigation, etc.) ;
-
-[p. 278]
-
-278
+de fer, de la navigation, etc.) ; [p. 278] 278
 LE
 FAITS REPRÉSENTATIFS
 
@@ -15969,9 +15167,7 @@ lectuelle et semi-consciente et devenirun véritable germe de langage
 conceptuel
 : « Pour les fourmis , des observateurs, tels Kirby et
 
-[p. 279]
-
-LES SIGNES
+[p. 279] LES SIGNES
 : RAPPORTS DU LANGAGE ET DE LA PENSÉE
 279
 
@@ -16038,9 +15234,7 @@ des cordes vocales. Les raisons physiologiques que nous venons
 d'énumérer, jointes à la sélection naturelle, ont perfectionné peu
 à peu ce langage embryonnaire .
 
-[p. 280]
-
-280
+[p. 280] 280
 LES FAITS REPRESENTATIFS
 
 Ce qui est essentiel à retenir de cette histoire des origines , c'est
@@ -16093,9 +15287,7 @@ pour que tout cela se produisît, il n'était point du toutnécessaire ,-
 insistons -y,- que le langage fût à l'origine un acte intelligent. Tout
 au contraire . Voilà donc le langage, simple réflexe individuel à ses
 
-[p. 281]
-
-LES SIGNES
+[p. 281] LES SIGNES
 : RAPPORTS DU LANGAGE ET DE LA PENSÉE
 281
 
@@ -16153,9 +15345,7 @@ ments
 
 [^p281-1]: Consulter sur tout ceci : Expression des émotions , p . 357 .
 
-[p. 282]
-
-282
+[p. 282] 282
 LES FAITS REPRÉSENTATIFS
 
 son qui a perdu son caractère de simple manifestation individuelle
@@ -16207,11 +15397,7 @@ une pensée , désigner un objet . Elle est purement automatique et
 réflexe . Ce n'est qu'ensuite qu'il y a eu expression
 consciente
 d'une idée , et par voie de conséquence . Les onomatopées primitives
-sont donc les sons que suscitaient par ces sortes de métaphores auto-
-
-[p. 283]
-
-LES SIGNES
+sont donc les sons que suscitaient par ces sortes de métaphores auto-[p. 283]LES SIGNES
 RAPPORTS DU LANGAGE ET DE LA PENSÉE
 283
 
@@ -16266,9 +15452,7 @@ pratique qu'une véritable connaissance . Toute connaissance relati [^p283-1]
 
 [^p283-1]: L'intelligence est en effet employée, au sens large , pour désigner la fonction repré- sentative , la fonction de la connaissance dans sa totalité . Elle est l'ensemble des faits représentatifs sensations, percepts, concepts) . Elle comprend alors à la fois sensibilité (penséepar images) et entendement (pensée par concepts) .
 
-[p. 284]
-
-284
+[p. 284] 284
 LES FAITS REPRÉSENTATIFS
 
 vement claire qui distingue l'objet connu, en tant qu'objet, d'une
@@ -16323,9 +15507,7 @@ la suite (comme en turc ou en mongol) , et alors on les appelle
 suffixes . » ( Deniker, Races et Peuples de la terre, 155.) Ainsi, l'expres-
 sion verbale est un mot-phrase qui indique tout un jugement : les
 
-[p. 285]
-
-LES SIGNES
+[p. 285] LES SIGNES
 : RAPPORTS DU LANGAGE ET DE LA PENSÉE
 285
 
@@ -16383,11 +15565,7 @@ donné que par la place respective qu'ils occupent. Toute la gram-
 maire y est réduite à la syntaxe »
 (Deniker , 156), et la syntaxe
 
-exprime par elle-même le rapport et le genre de rapport (ou caté
-
-[p. 286]
-
-286
+exprime par elle-même le rapport et le genre de rapport (ou caté [p. 286] 286
 LES FAITS REPRÉSENTATIFS
 
 gorie) qu'affirme le jugement. Sauf la Chine , l'Indo-Chine, le Thibet,
@@ -16436,9 +15614,7 @@ qui caractérise l'exercice et le développement de la pensée .
 Il n'y a dans tout ceci que des hypothèses très aventurées ; l'état
 actuel de nos connaissances ne peut permettre que de les proscrire .
 
-[p. 287]
-
-Mais il n'en est pas de même d'une autre constatation d'une
+[p. 287] Mais il n'en est pas de même d'une autre constatation d'une
 haute importance psychologique celle-là, car elle confirme le ré-
 sultat des études actuelles sur le concept. Tout son vocal , à l'ori-
 gine, est au fond une véritable phrase, comme toute idée , et même
@@ -16488,9 +15664,7 @@ Si au lieu de
 3º L'acquisition du langage par les enfants .
 considérer les races humaines et l'évolution du langage, nous con-
 
-[p. 288]
-
-288
+[p. 288] 288
 LES FAITS REPRESENTATIFS
 
 sidérons comment les enfants se mettent à parler, nous pourrons
@@ -16547,9 +15721,7 @@ c'est pourquoi de tels centres ne siègent que sur un des
 deux hémisphères , sur celui qui fonctionne
 à l'état habituel (le
 
-[p. 289]
-
-LES SIGNES
+[p. 289] LES SIGNES
 : RAPPORTS DU LANGAGE ET DE LA PENSÉE
 289
 
@@ -16601,11 +15773,7 @@ pensent qu'en ayant dans l'esprit les images des mots écrits ou
 imprimés qui correspondent àleurs idées. Un plus petit nombre pense
 en entendant le son des mots qui expriment leur pensée , ce sont
 
-19
-
-[p. 290]
-
-290
+19 [p. 290] 290
 LES FAITS REPRÉSENTATIFS
 
 les verbo -auditifs .
@@ -16658,9 +15826,7 @@ cerveau .
 Pour les images motrices du langage, c'est le pied de la troisième
 frontale du côté gauche ; pour les images motrices de l'écriture.
 
-[p. 291]
-
-LES SIGNES
+[p. 291] LES SIGNES
 : RAPPORTS DU LANGAGE ET DE LA PENSÉE
 291
 
@@ -16707,11 +15873,7 @@ indépendamment de l'intelligence... Il n'existe pas à vrai dire entre
 les objets eux-mêmes , mais entre leurs idées ; tout cas de significa-
 tion est un cas d'association d'idées . Mais tout cas d'association d'idées
 
-n'est pas un cas de signification... Le signe, pour être tel, ne doit
-
-[p. 292]
-
-292
+n'est pas un cas de signification... Le signe, pour être tel, ne doit [p. 292] 292
 LES FAITS REPRÉSENTATIFS
 
 pas seulement suggérer l'idée d'une chose , mais être la marque ,
@@ -16761,9 +15923,7 @@ Quoiqu'il en soit de la théorie de Taine et de Condillac,
 
 [^p292-1]: Voir p. 109 sq .
 
-[p. 293]
-
-LES SIGNES
+[p. 293] LES SIGNES
 RAPPORTS DU LANGAGE ET DE LA PENSÉE
 293
 
@@ -16819,9 +15979,7 @@ L'écriture a été d'abord une série de gestes naturels , comme la
 
 I parole ; elle consiste à reproduire, à dessiner l'objet auquel on pense .
 
-[p. 294]
-
-294
+[p. 294] 294
 LES FAITS REPRÉSENTATIFS
 
 C'est une réaction motrice naturelle - surtout si l'on songe que l'on
@@ -16855,9 +16013,7 @@ artificielle se superposer aux signes naturels originaires , encore
 qu'il reste dans cette utilisation des signes naturels une grande part
 de subconscient.
 
-[p. 295]
-
-CHAPITRE XVIII
+[p. 295] CHAPITRE XVIII
 
 LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT
 INTELLECTUEL
@@ -16918,11 +16074,7 @@ développement. Après l'analyse des phénomènes , il est naturel de
 poser les éléments d'une synthèse qui permette d'en comprendre
 Tévolution . Est-il besoin de faire remarquer que cette tache nou-
 velle suppose une science très avancée, puisqu'elle est, en quelque
-sorte, l'achèvement de la science ; la psychologie, science naissante ,
-
-[p. 296]
-
-296
+sorte, l'achèvement de la science ; la psychologie, science naissante , [p. 296] 296
 LES FAITS REPRÉSENTATIFS
 
 ne permet donc de l'entreprendre que d'une façon très rudimen-
@@ -16977,9 +16129,7 @@ ceux
 qui paraissent répondre le mieux aux circonstances pour
 lesquelles ils sont tentés. Elle systématise, rectifie et choisit . Elle
 
-[p. 297]
-
-FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
+[p. 297] FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
 ACTIVITÉ CRÉATRICE
 297
 
@@ -17020,11 +16170,7 @@ III .
 CONDITIONS PSYCHOLOGIQUES
 
 Il est trop évident que l'imagination n'est créatrice que par
-métaphore ; elle puise tous ses éléments dans la réserve des sou
-
-[p. 298]
-
-298
+métaphore ; elle puise tous ses éléments dans la réserve des sou [p. 298] 298
 LES FAITS REPRÉSENTATIFS
 
 venirs conservés dans notre conscience, et sans laquelle celle-ci
@@ -17091,11 +16237,7 @@ tion aucune ; que ce n'est pas une assertion gratuite, qu'elle est au
 contraire rigoureusement justifiée par les faits et que l'on est en
 droit de soutenir les deux propositions suivantes : Toutes les formes
 de l'imagination créatrice impliquent des éléments affectifs (plaisir
-ou peine, espoir, dépit, colère, espérance, crainte : d'où la nervo-
-
-[p. 299]
-
-FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
+ou peine, espoir, dépit, colère, espérance, crainte : d'où la nervo-[p. 299]FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
 : ACTIVITÉ CRÉATRICE
 299
 
@@ -17157,11 +16299,7 @@ conscience une irruption brusque, mais qui suppose un travail
 latent, souvent très long. Elle a ses analogues dans d'autres états
 psychiques bien connus : par exemple, une passion qui s'ignore et
 qui, après une longue période d'incubation , se révèle par un acte ;
-ou bien une résolution soudaine , après des délibérations sans fin
-
-[p. 300]
-
-300
+ou bien une résolution soudaine , après des délibérations sans fin [p. 300] 300
 LES FAITS REPRÉSENTATIFS
 
 qui ne paraissaient pas devoir aboutir. Absence d'effort, et en appa-
@@ -17227,9 +16365,7 @@ expériences passées : dans
 sa totalité , il a sa figure à lui, dans
 laquelle on n'aperçoit pas plus de lignes composantes que, dans
 
-[p. 301]
-
-FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
+[p. 301] FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
 : ACTIVITÉ CRÉATRICE
 301
 
@@ -17281,9 +16417,7 @@ a remarqué en effet que le génie s'accompagne parfois d'une ten-
 dance à la folie. L'expression moderne de cette théorie se trouve
 dansla formule de Moreau de Tours : « Le génie est une névrose . »
 
-[p. 302]
-
-302
+[p. 302] 302
 LES FAITS REPRESENTATIFS
 
 « Lombroso , dans un livre qui fourmille en documents suspects et
@@ -17330,9 +16464,7 @@ guérit » , c'est-à-dire les miracles de toutes les religions, dans tous les
 temps et dans tous les lieux. »
 (Id.)
 
-[p. 303]
-
-FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
+[p. 303] FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
 : ACTIVITÉ CRÉATRICE
 303
 
@@ -17376,11 +16508,7 @@ L'activité se traduit sous une forme motrice parce que le développe-
 ment intellectuel est insuffisant et que le système moteur prédomine ;
 mais , pour s'exercer sur les images motrices , les synthèses créatrices
 n'en existent pas moins . Lejeu est très important à considérer parce
-qu'il est le prélude de l'activité esthétique qui, chez l'homme , sera
-
-[p. 304]
-
-304
+qu'il est le prélude de l'activité esthétique qui, chez l'homme , sera [p. 304] 304
 LES FAITS REPRÉSENTATIFS
 
 une des principales manifestations de l'imagination créatrice . Groos
@@ -17435,9 +16563,7 @@ L'imagination créatrice vraiment intellectuelle apparaît avec
 l'illusion et les combinaisons d'images auxquelles un enfant se
 complait volontiers dans la rêverie ; mais elle n'est encore, à ce
 
-[p. 305]
-
-FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
+[p. 305] FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
 : ACTIVITÉ CRÉATRICE
 305
 
@@ -17489,9 +16615,7 @@ permettra de créer à leur tour . Aussi les premiers essais sont faits
 de réminiscences et plutôt imités que créés ... Un enfant de trois
 20
 
-[p. 306]
-
-LES FAITS REPRESENTATIFS
+[p. 306] LES FAITS REPRESENTATIFS
 306
 
 ans et demi voit un boiteux cheminant le long d'une route ; il
@@ -17578,9 +16702,7 @@ richissent , grâce aux rapports des hommesdans la société ; elles sont
 
 des habitudes sociales .
 
-[p. 307]
-
-FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
+[p. 307] FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
 : ACTIVITÉ CRÉATRICE
 307
 
@@ -17629,11 +16751,7 @@ qui montre qu'il y a une influence collective et sociale sur l'inven-
 tion;
 et même sur l'originalité artistique : l'imitation paraît
 insuffisante pour expliquer qu'à un moment donné l'art présente ,
-chez la plupart des artistes , certaines tendances à l'exclusion de
-
-[p. 308]
-
-308
+chez la plupart des artistes , certaines tendances à l'exclusion de [p. 308] 308
 LES FAITS REPRÉSENTATIFS
 
 certaines autres . On l'a dit bien souvent : les grands hommes doivent
@@ -17684,9 +16802,7 @@ première méthode pour trouver » (Voir AssOC . DESIDÉES) . Ces asso-
 ciations d'idées se manifestent par une vocation particulière qui se
 marque par la nécessité, la fatalité de la création , et souvent aussi
 
-[p. 309]
-
-FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
+[p. 309] FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
 : ACTIVITÉ CRÉATRICE
 309
 
@@ -17729,11 +16845,7 @@ comme condition nécessaire une très grande force d'analyse et
 d'abstraction , puisqu'il faut que ces ressemblances, toujours très
 lointaines, soient isolées de l'amas confus des détails qui les
 masquent et empêchent un esprit moins subtil de les aperce-
-voir. Cette puissance d'analyse et d'abstraction caractérise le génie
-
-[p. 310]
-
-310
+voir. Cette puissance d'analyse et d'abstraction caractérise le génie [p. 310] 310
 LES FAITS REPRESENTATIFS
 
 scientifique . Dans les sciences expérimentales elle devient l'esprit
@@ -17786,9 +16898,7 @@ ici leur individualité concrète , au lieu de devenir un schéma
 abstrait . L'aptitude à conserver dans toute leur fraîcheur telles
 ou telles images détermine les aptitudes artistiques spéciales (le
 
-[p. 311]
-
-FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
+[p. 311] FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
 ACTIVITÉ CRÉATRICE
 311
 
@@ -17840,11 +16950,7 @@ regard impassible sur l'orage, l'éclair s'identifia dans son esprit
 avec l'étincelle d'une décharge électrique au milieu d'une diversité
 de caractères dont peu d'intelligences eussent pu s'affranchir . >>>
 
-(Bain , p . 489 ; cité par Rabier, p . 229.)
-
-[p. 312]
-
-312
+(Bain , p . 489 ; cité par Rabier, p . 229.) [p. 312] 312
 LES FAITS REPRESENTATIFS
 
 a et b) « Pour l'œil d'un observateur vulgaire, qu'était-ce que la
@@ -17900,9 +17006,7 @@ en restant juste, plus elle est belle, plus elle suppose de génie
 poétique. Qu'elle vient de loin, dit justement M. Bain , et qu'elle
 est belle l'image d'Homère qui compare Apollon descendant de
 
-[p. 313]
-
-FACTEURS DU DEVELOPPEMENT INTELLECTUEL
+[p. 313] FACTEURS DU DEVELOPPEMENT INTELLECTUEL
 : ACTIVITÉ CRÉATRICE
 313
 
@@ -17957,11 +17061,7 @@ pliée qui se redresse ; il songe alors au mouvement de son bras
 lançant une pierre ou un trait, et il construit l'arc qui lance les
 flèches plus juste et plus loin que son bras . « Nécessité l'ingé-
 nieuse » , dit le proverbe ! La nécessité est en effet la mère des
-arts pratiques , parce que, stimulés par la nécessité et cherchant
-
-[p. 314]
-
-314
+arts pratiques , parce que, stimulés par la nécessité et cherchant [p. 314] 314
 LES FAITS REPRÉSENTATIFS
 
 partout la satisfaction de nos besoins, nous tournons et retournons
@@ -18007,9 +17107,7 @@ rapport de signe à chose signifiée, lequel se trouvait enveloppé dans
 l'emploi de tel geste ou de tel cri pour désigner tel objet particu-
 lier. » (Rabier, pp . 218, 220.)
 
-[p. 315]
-
-CHAPITRE
+[p. 315] CHAPITRE
 XIX
 
 LES FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT INTELLECTUEL
@@ -18063,11 +17161,7 @@ aussi bien quantitativement que qualitativement
 l'entendement, de la raison, etc.) . Nous indiquerons sommairement
 quelques-unes de leurs solutions , quand nous reprendrons la ques-
 tion au pointde vue métaphysique (p. 1037) . La psychologie n'a
-qu'à étudier quelles sont les idées les plus générales qui orientent
-
-[p. 316]
-
-316
+qu'à étudier quelles sont les idées les plus générales qui orientent [p. 316] 316
 LES FAITS REPRÉSENTATIFS
 
 toute notre activité psychologique quand elle cherche à nous donner
@@ -18119,9 +17213,7 @@ suite , on considère des apparences diverses comme appartenant à un
 même sujet identique et permanent .
 Les idées de relation (les objets de notre reconnaissance sont tous
 
-[p. 317]
-
-FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
+[p. 317] FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
 PRINCIPES RATIONNELS
 317
 
@@ -18175,9 +17267,7 @@ et la
 notion de distance , selon laquelle les objets se situent en pro-
 fondeur .
 
-[p. 318]
-
-318
+[p. 318] 318
 LES FAITS REPRESENTATIFS
 
 Nous avons étudié l'acquisition de ces notions à propos de la
@@ -18231,11 +17321,7 @@ de temps
 uniforme et continu telle que nous la donnent l'horloge et le calen-
 drier , ces atlas auxiliaires dont
 nous avons parlé et qui nous
-servent actuellement à mesurer ou plutôt à répérer la durée con-
-
-[p. 319]
-
-FACTEURS
+servent actuellement à mesurer ou plutôt à répérer la durée con-[p. 319]FACTEURS
 DU DÉVELOPPEMENT INTELLECTUEL
 : PRINCIPES RATIONNELS
 319
@@ -18289,11 +17375,7 @@ réponses faites par les psychologues sont fort diverses
 préfèrent les sensations externes , en tant qu'elles nous donnent la
 conscience d'une succession. L'ouïe a été appelée le sens du temps
 par excellence . Cette thèse a été soutenue notamment par Mach ,
-comme dans une mélodie, nous pouvons séparer le rythme des
-
-[p. 320]
-
-320
+comme dans une mélodie, nous pouvons séparer le rythme des [p. 320] 320
 LES FAITS REPRESENTATIFS
 
 sons qui la constituent , il en conclut que le rythme forme une série
@@ -18352,11 +17434,7 @@ presqu'exlusif à la respiration quoique, d'après lui, l'origine de
 notre notion de la durée doive être cherchée dans la conscience de
 
 l'effort musculaire en général , et qu'il ait saprimitive mesure dans
-le rythme des processus corporels ; cependant l'élévation et l'abais-
-
-[p. 321]
-
-FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
+le rythme des processus corporels ; cependant l'élévation et l'abais-[p. 321]FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
 PRINCIPES RATIONNELS
 321
 
@@ -18414,11 +17492,7 @@ occupée ;
 fois ceux-ci ne sont plus des images , mais des sensations internes
 de tension , d'effort : élément plutôt subconscient que la conscience
 
-21
-
-[p. 322]
-
-322
+21 [p. 322] 322
 LES FAITS REPRÉSENTATIFS
 
 peut pourtant saisir par observation ou induction. Cette théorie a
@@ -18471,9 +17545,7 @@ apparente contradiction psychologique . Cependant les deux cas
 s'expliquent également par la quantité des états de conscience. Le
 premier est plein d'événements, le second est plein d'efforts . Après
 
-[p. 323]
-
-FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
+[p. 323] FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
 PRINCIPES RATIONNELS
 323
 
@@ -18529,11 +17601,7 @@ moment, dans le même lieu et sous le même rapport.
 -
 
 On n'a jamais pu se proposer de remonter au delà que par des
-abstractions métaphysiques, et encore présupposaient-elles implici
-
-[p. 324]
-
-324
+abstractions métaphysiques, et encore présupposaient-elles implici [p. 324] 324
 LES FAITS REPRESENTATIFS
 
 tement ce principe : par exemple , Hegel qui pose que l'être est dirigé
@@ -18582,9 +17650,7 @@ former des phénomènes, et qui sont toujours des approximations
 guidées dans une certaine mesure par la pratique et valables seule-
 ment pour notre esprit ; mais bien sur la nature intime des choses .
 
-[p. 325]
-
-FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
+[p. 325] FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
 PRINCIPES RATIONNELS
 325
 
@@ -18633,11 +17699,7 @@ fondement de l'inférence du particulier au particulier, et cette asso-
 ciation par ressemblance un peu plus précise qu'est l'analogie
 (car
 jusque-là remontent ses origines) ,mais s'en différencie en ce qu'elle
-a toujours par les caractères d'uniformité et de constance qu'elle
-
-[p. 326]
-
-326
+a toujours par les caractères d'uniformité et de constance qu'elle [p. 326] 326
 LES FAITS REPRÉSENTATIFS
 
 apporte avec elle, un commencement de généralisation, une plus
@@ -18686,11 +17748,7 @@ une association d'idées permanentes , résultat de la répétition et
 de l'habitude .
 
 << Mais tout cela n'est qu'une conception extérieure de la cau-
-salité , de sa forme, non de sa nature ; c'est une vue du dehors,
-
-[p. 327]
-
-FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
+salité , de sa forme, non de sa nature ; c'est une vue du dehors, [p. 327] FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
 : PRINCIPES RATIONNELS
 327
 
@@ -18744,11 +17802,7 @@ philosophes et des savants ont propagé cette notion et l'ont rendue
 assez familière . Elle n'en reste pas moins une conception tardive,
 ignorée de la plus grande portion du genre humain . La recherche
 scientifique a commencé par établir des lois (c'est-à-dire des rapports
-invariables de cause à effet) entre certains groupes de phénomènes , à
-
-[p. 328]
-
-328
+invariables de cause à effet) entre certains groupes de phénomènes , à [p. 328] 328
 LES FAITS REPRESENTATIFS
 
 établir une loi de causalité valable pour eux, rien que pour eux ;
@@ -18815,9 +17869,7 @@ l'ordre
 social,
 croient tout possible, reconstruisent la société
 
-[p. 329]
-
-FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
+[p. 329] FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
 PRINCIPES RATIONNELS
 329
 
@@ -18866,11 +17918,7 @@ peut céder sur quelques points où il se produirait des brèches .
 ne pas affirmer que la notion de causalité universelle, d'uniformité
 du cours de la nature, de déterminisme rigoureux
 (et autres for-
-mules analogues) est acquise, superposée , que cette notion soit
-
-[p. 330]
-
-330
+mules analogues) est acquise, superposée , que cette notion soit [p. 330] 330
 LES FAITS REPRESENTATIFS
 
 applicable à toute l'expérience, quoique l'expérience ne soit pas épui-
@@ -18923,9 +17971,7 @@ plupart des philosophes idéalistes et spiritualistes du dernier siècle ,
 Fichte, Schelling , Hegel, en Allemagne , Ravaisson , Lachelier, en
 France , suivront, dans cette direction , certaines indications de Kant.
 
-[p. 331]
-
-FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
+[p. 331] FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
 PRINCIPES RATIONNELS
 331
 La notion de succession invariable ou principe de causalité efficiente
@@ -18975,11 +18021,7 @@ son nom, celui qui étudie le monde physique voit nécessairement
 les changements du dehors . Il considère la cause non plus comme
 un facteur interne révélé par la conscience , mais comme une suc-
 cession donnée par les sens. Antécédents , conséquents , succession
-invariable , telles sont pour lui les seules données utiles. Conditions
-
-[p. 332]
-
-332
+invariable , telles sont pour lui les seules données utiles. Conditions [p. 332] 332
 LES FAITS REPRÉSENTATIFS
 
 égalent cause ; et la détermination importante n'est pas celle d'une
@@ -18999,7 +18041,7 @@ tale . On a dit justement que la théorie mécanique de l'univers (cor-
 rélation des forces , conservation et transformation de l'énergie, etc.)
 est la forme contemporaine du concept de la causalité naturelle .
 Exprimée dès l'antiquité sous la forme d'une anticipation méta-
-physique (ex nihilo nihil) , elle entre au xvn siècle dans sa phase
+physique (*ex nihilo* nihil) , elle entre au xvn siècle dans sa phase
 scientifique et s'achève dans le nôtre . Les physiciens qui l'ont établie
 sur l'expérience et le calcul ont bien vu , d'ailleurs , la conséquence
 qui en découle . Pour n'en citer qu'un , R. Mayer, dans sa Mechanik
@@ -19029,9 +18071,7 @@ gie, tant vaut le concept actuel de la causalité naturelle. Il s'agis-
 sait simplement de suivre l'évolution de ce concept jusqu'à ce jour ,
 demontrer comment il s'est transformé, mais sans rien préjuger de
 
-[p. 333]
-
-FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
+[p. 333] FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
 PRINCIPES RATIONNELS
 333
 
@@ -19080,11 +18120,7 @@ sont en outre universels dans la race, pourquoi le bon sens est « la
 chose du monde la mieux partagée >> (Descartes). Pourquoi, en
 ellet, contractons-nous tous , malgré les différences de nos caractères
 et de nos expériences , les mèmes habitudes générales ? Mais cette
-généralité même ne nous permet-elle pas de le comprendre ? Ces
-
-[p. 334]
-
-334.
+généralité même ne nous permet-elle pas de le comprendre ? Ces [p. 334] 334.
 LES FAITS REPRÉSENTATIFS
 
 habitudes sont celles que pouvait faire contracter n'importe quel
@@ -19146,9 +18182,7 @@ En somme les principes rationnels seraient des habitudes , des
 instincts très profonds contractés inconsciemment sous la pression
 des nécessités vitales, par les expériences sans nombre de l'huma
 
-[p. 335]
-
-FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
+[p. 335] FACTEURS DU DÉVELOPPEMENT INTELLECTUEL
 PRINCIPES RATIONNELS
 335
 
@@ -19173,7 +18207,7 @@ faire au social dans l'explication de cette dernière . Nous avons
 encore à propos du jugement de valeur , aspect primitif du juge-
 ment, noté qu'il était conditionné par la vie sociale. Enfin nous
 avons insisté sur l'implication du développement du langage et de
-celui de la pensée en étudiant le langage . Mais , a fortiori ,
+celui de la pensée en étudiant le langage . Mais , *a fortiori* ,
 le
 raisonnement qui est l'instrument de la persuasion, c'est-à-dire de
 la communication des idées, de leur liaison, et les principes qui
@@ -19199,11 +18233,7 @@ qu'ont revêtue d'autres catégories qui fonctionnent toujours dans
 nos esprits : celles de substances et de cause .
 »
 L'étude de la classification des notions chez quelques sociétés ,
-montre « que le genre a pour modèle la famille humaine . C'est à la
-
-[p. 336]
-
-336
+montre « que le genre a pour modèle la famille humaine . C'est à la [p. 336] 336
 LES FAITS REPRÉSENTATIFS
 
 façon dont les hommes se rangent dans leurs
@@ -19257,9 +18287,7 @@ l'expérience des choses , telle que commencent à nous ladonner ces
 fonctions . Quant à la théorie sociologique, si la raison y dépasse
 bien l'expérience individuelle, n'est-elle pas une acquisition sociale ?
 
-[p. 337]
-
-LIVRE
+[p. 337] LIVRE
 V
 
 LES FAITS AFFECTIFS
@@ -19319,11 +18347,7 @@ psychologique des faits que nous étudions . Nous devons donc le
 considérer comme le phénomène élémentaire de la vie affective .
 Les autresn'en sont que des formes plus complexes et plus évoluées .
 Cette simplicité absolue des affections de plaisir et de douleur est
-ce qui rend impossible d'en donner une définition . Ce sont des états
-
-[p. 338]
-
-338
+ce qui rend impossible d'en donner une définition . Ce sont des états [p. 338] 338
 LES FAITS AFFECTIFS
 
 que l'on constate directement par l'observation interne , etdont la
@@ -19372,9 +18396,7 @@ ment vital ou cénesthésie, « tonalité fondamentale qui résulte de
 l'état total de l'organisme , de la marche normale ou anormale des
 mouvements vitaux, particulièrement des fonctions végétatives » .
 
-[p. 339]
-
-LES ÉLÉMENTS . - LE PLAISIR ET LA DOULEUR
+[p. 339] LES ÉLÉMENTS . - LE PLAISIR ET LA DOULEUR
 339
 
 Höffding répond que la conscience perçoit quand même un chan-
@@ -19420,11 +18442,7 @@ qu'il produit lasyncope>> ; le plaisir, par contre , active la circulation ,
 surtout à la tête (expériences de Lehmann) . La douleur diminue
 notablement l'acide carbonique exhalé dans la respiration, qui de-
 vient irrégulière et instable : il y a donc aussi ralentissement de
-cette fonction. Le plaisir, au contraire, l'accélère, et par suite élève
-
-[p. 340]
-
-340
+cette fonction. Le plaisir, au contraire, l'accélère, et par suite élève [p. 340] 340
 LES FAITS AFFECTIFS
 
 la température du corps . Mêmes observations par rapport aux
@@ -19486,9 +18504,7 @@ supposent donc ces tendances primitives dont l'expression orga-
 nique nous est donnée dans les modifications corporelles que nous
 venons d'étudier.
 
-[p. 341]
-
-LES ÉLÉMENTS .
+[p. 341] LES ÉLÉMENTS .
 LE PLAISIR ET LA DOULEUR
 341
 
@@ -19543,9 +18559,7 @@ douleur retardent toujours sur la sensation proprement dite. Il faut
 
 -
 
-[p. 342]
-
-342
+[p. 342] 342
 LES FAITS AFFECTIFS
 
 donner le temps aux manifestations motrices et organiques de se
@@ -19594,9 +18608,7 @@ plaisir ou comme douleur , selon les circonstances où il s'exerce, et
 la manière dont il s'exerce . Un fait d'observation courante montre
 que le plaisir poussé à l'excès ou trop prolongé se transforme en
 
-[p. 343]
-
-LES ÉLÉMENTS .
+[p. 343] LES ÉLÉMENTS .
 343
 LE PLAISIR ET LA DOULEUR
 
@@ -19645,9 +18657,7 @@ qu'elles le sont avec exagération : « L'opposition du plaisir et de la [^p343-
 
 [^p343-1]: On a discuté pour savoir s'il y a des états neutres , absolument sans plaisir ni dou- leur . Ribot considère avec raison que l'état ordinaire est à peu près neutre . Mais déjà , avec le sentiment de bien être qui caractérise l'état de santé normale, apparaît un premier degré du plaisir.
 
-[p. 344]
-
-344
+[p. 344] 344
 LES FAITS AFFECTIFS
 
 douleur est donc une expression de l'opposition entre le progrès et
@@ -19700,9 +18710,7 @@ s'accomplit : aussi est-elle une souffrance
 momentanée . Les effets heureux seront bien postérieurs et seront
 accompagnés d'un soulagement certain. De même un poison pour
 
-[p. 345]
-
-LES ÉLÉMENTS . - LE PLAISIR ET LA DOULEUR
+[p. 345] LES ÉLÉMENTS . - LE PLAISIR ET LA DOULEUR
 345
 
 l'organisme général peut constituer une excitation normale de
@@ -19749,11 +18757,7 @@ semblent bien n'être apparus à leur tour que comme une nécessité
 de l'adaptation , la sélection naturelle a dû éliminer tous les êtres
 tant soit peu complexes chez qui ces données conscientes n'exis-
 taient pas, si bien qu'aujourd'hui toute activité consciente ne
-peut nous apparaître qu'avec ses données . Aussi le plaisir et la
-
-[p. 346]
-
-346
+peut nous apparaître qu'avec ses données . Aussi le plaisir et la [p. 346] 346
 LES FAITS AFFECTIFS
 
 douleur sont-ils considérés par tous les psychologues comme la
@@ -19804,9 +18808,7 @@ vivement, le rythme y étant beaucoup plus inégal. En un mot, le
 plaisir et la douleur sont toujours relatifs , et, par suite, ne doivent
 jouer qu'un rôle relatif dans la direction générale de l'être : « Il ne
 
-[p. 347]
-
-LES ÉLÉMENTS .
+[p. 347] LES ÉLÉMENTS .
 LE PLAISIR ET LA DOULEUR
 347
 
@@ -19856,9 +18858,7 @@ p . 378. ) La douleur n'existe au contraire que relativement au plaisir
 normal qu'elle nous pousse constamment à chercher, en poursui-
 vant le progrès de notre être .
 
-[p. 348]
-
-348
+[p. 348] 348
 LES FAITS AFFECTIFS
 
 NOTE
@@ -19908,9 +18908,7 @@ nismes sains , la douleur est l'exception . Ils ne sont donc pas des
 contraires au sens propre du mot, c'est-à-dire deux exceptions de
 sens opposé .
 
-[p. 349]
-
-I.
+[p. 349] I.
 
 II.
 
@@ -19966,11 +18964,7 @@ introduisent déjà dans une région assez élevée de la vie
 affective générale .
 « L'émotion est, dans l'ordre affectif, l'équivalent de la percep-
 tion dans l'ordre intellectuel, un état complexe, synthétique » ;
-plaisirs et douleurs y jouent le même rôle que les sensations
-
-[p. 350]
-
-350
+plaisirs et douleurs y jouent le même rôle que les sensations [p. 350] 350
 LES FAITS AFFECTIFS
 
 simples dans nos perceptions . Elle est, comme tout état spontané ,
@@ -20023,9 +19017,7 @@ nosa , de trois affections fondamentales : désir, joie, tristesse . Mais
 ces déductions étaient arbitraires et imaginatives . Il les eût fallu
 fonder sur l'analyse des facteurs et non sur le raisonnement.
 
-[p. 351]
-
-L'ACTIVITÉ AFFECTIVE SPONTANÉE : LES ÉMOTIONS ET LES PASSIONS
+[p. 351] L'ACTIVITÉ AFFECTIVE SPONTANÉE : LES ÉMOTIONS ET LES PASSIONS
 351
 
 b) Comme les faits représentatifs liés aux émotions sont assez
@@ -20085,9 +19077,7 @@ généralisés et associés à des états intellectuels complexes .
 Les états désagréables sont
 -
 
-[p. 352]
-
-352
+[p. 352] 352
 LES FAITS AFFECTIFS
 
 beaucoup plus nets, et fixent plus rapidement l'attention que les
@@ -20149,9 +19139,7 @@ ration .
 9° Émotion sexuelle .
 L'émotion sexuelle se caractérise par une
 
-[p. 353]
-
-L'ACTIVITÉ AFFECTIVE SPONTANÉE
+[p. 353] L'ACTIVITÉ AFFECTIVE SPONTANÉE
 : LES ÉMOTIONS ET LES PASSIONS
 353
 
@@ -20203,11 +19191,7 @@ paraître , l'émotion reste fixe ou qu'elle se répète incessamment,
 toujours la même avec les légères modifications qu'exige le passage
 de l'état aigu à l'état chronique : c'est la passion, qui est l'émotion
 
-23
-
-[p. 354]
-
-354
+23 [p. 354] 354
 LES FAITS AFFECTIFS
 
 en permanence . Malgré d'apparentes éclipses, elle est toujours là,
@@ -20257,9 +19241,7 @@ centrale, prennent une direction déterminée, et c'est alors qu'il y a
 la vie représentative, et les facteurs empruntés à cette dernière
 vont contribuer à différencier les émotions et à les organiser.
 
-[p. 355]
-
-LACTIVITÉ AFFECTIVE SPONTANÉE
+[p. 355] LACTIVITÉ AFFECTIVE SPONTANÉE
 LES ÉMOTIONS ET LES PASSIONS
 355
 
@@ -20307,11 +19289,7 @@ sentir une brusque sympathie pour un jeune homme qui ressemble
 sion, la pitié et beaucoup d'émotions altruistes ont une origine
 analogue .
 4° << Plus considérable est le changement subi par le sentiment
-primitif quand l'élément intellectuel nouveau est relié non par la
-
-[p. 356]
-
-356
+primitif quand l'élément intellectuel nouveau est relié non par la [p. 356] 356
 LES FAITS AFFECTIFS
 
 ressemblance , mais par la contiguïté . » (Höffding, 319.) « La jalou-
@@ -20362,9 +19340,7 @@ ont émis l'hypothèse très plausible que tous les effets physiologiques
 de l'émotion se ramènent à des troubles circulatoires résultant de
 l'action des nerfs vaso- moteurs . Les nerfs vaso-moteurs modifiant
 
-[p. 357]
-
-L'ACTIVITÉ AFFECTIVE SPONTANÉE
+[p. 357] L'ACTIVITÉ AFFECTIVE SPONTANÉE
 LES ÉMOTIONS ET LES PASSIONS
 357
 
@@ -20418,11 +19394,7 @@ et les muscles grèles de la face; puis, elle envahit successivement
 les bras , les jambes , le tronc du corps . Les mouvements de la queue
 chez le chien et le chat, de l'oreille chez le cheval et beaucoup
 d'autres analogues chez les animaux sont des illustrations de cette
-loi. » (Th . Ribot, 126 sq. ) Cette loi explique surtoutles mouvements
-
-[p. 358]
-
-358
+loi. » (Th . Ribot, 126 sq. ) Cette loi explique surtoutles mouvements [p. 358] 358
 LES FAITS AFFECTIFS
 
 soustraits à ladomination de la volonté et qui paraissent incohérents
@@ -20470,9 +19442,7 @@ d) Les autres principes (troisième principe de Darwin, dit de
 Tantithèse , qui ferait accompagner certaines émotions de gestes
 contraires à ceux qui expriment l'émotion opposée ; - troisième
 
-[p. 359]
-
-L'ACTIVITÉ AFFECTIVE SPONTANÉE
+[p. 359] L'ACTIVITÉ AFFECTIVE SPONTANÉE
 : LES ÉMOTIONS ET LES PASSIONS
 359
 
@@ -20518,11 +19488,7 @@ je défends dit que cet ordre de succession est incorrect, que le second
 des deux états n'est pas immédiatement produit par l'autre, que
 les manifestations corporelles doivent d'abord s'interposer entre
 eux. Pour s'exprimer d'une façon rationnelle, il faudrait dire : nous
-sommes tristes parce que nous pleurons, irrités parce que nous
-
-[p. 360]
-
-360
+sommes tristes parce que nous pleurons, irrités parce que nous [p. 360] 360
 LES FAITS AFFECTIFS
 
 frappons , effrayés parce que nous tremblons , et non pas que nous
@@ -20570,11 +19536,7 @@ le déjeuner paraît indifférente après le repas, un projet qui nous
 semblait hérissé de difficultés nous semble facile. » (Id.) La seule
 vue du sang peut provoquer une syncope.
 Il est juste d'ajouter que, si la cause essentielle du ton affectif est
-la conscience de tous ces mouvements organiques si complexes ,
-
-[p. 361]
-
-L'ACTIVITÉ AFFECTIVE SPONTANÉE
+la conscience de tous ces mouvements organiques si complexes , [p. 361] L'ACTIVITÉ AFFECTIVE SPONTANÉE
 : LES ÉMOTIONS ET LES PASSIONS
 361
 
@@ -20621,14 +19583,10 @@ dans le but de favoriser les émotions agréables et de diminuer les
 émotions tristes ou de les supprimer tout à fait (usage du vin et
 des boissons spiritueuses pour combattre la tristesse et la crainte ,
 application d'eau froide dans les mêmes circonstances, etc ... ). »
-(Lange.)
-
-[p. 362]
-
-362
+(Lange.) [p. 362] 362
 LES FAITS AFFECTIFS
 
-Certaines observations (R. d'Allonnes , Revue philosophique , no-
+Certaines observations (R. d'Allonnes , *Revue philosophique* , no-
 vembre 1905 ) semblent rattacher la disparition des facultés émo-
 tives à une anesthésie complète de la sensibilité viscérale (en parti-
 culier de la
@@ -20678,9 +19636,7 @@ la faim, toutes les modifications de la sensibilité organique ... Ces
 Les sentiments résultent de la coexistence dans l'esprit , d'idées qui
 s'accordent ou ne s'accordent pas ... C'est par le terme vague de
 
-[p. 363]
-
-L'ACTIVITÉ AFFECTIVE SPONTANÉE
+[p. 363] L'ACTIVITÉ AFFECTIVE SPONTANÉE
 : LES ÉMOTIONS ET LES PASSIONS
 363
 
@@ -20740,11 +19696,7 @@ dition remarquable d'adaptation, qui , par suite , devait être main-
 tenue et développée par la sélection naturelle, que l'organisme pût
 réagir immédiatement, et en bloc pour ainsi dire, par quelques
 attitudes générales appropriées aux circonstances les plus ordi-
-naires de la vie : attaque, défense, présence d'un danger, d'une
-
-[p. 364]
-
-364
+naires de la vie : attaque, défense, présence d'un danger, d'une [p. 364] 364
 LES FAITS AFFECTIFS
 
 situation favorable, union avec des individus de même espèce. pour
@@ -20797,16 +19749,14 @@ de formation secondaire et plus complexe . >> Elle est une cristallisa-
 tion des
 forces émotives autour d'une idée fixe qui donne à ces
 
-[p. 365]
-
-L'ACTIVITÉ AFFECTIVE SPONTANÉE
+[p. 365] L'ACTIVITÉ AFFECTIVE SPONTANÉE
 : LES ÉMOTIONS ET LES PASSIONS
 365
 
 forces une stabilité , une durée inconnue à l'émotion proprement
 dite, et en même temps une intensité que ne connaîtra jamais le
 sentiment proprement dit, beaucoup plus pondéré et réfléchi .
-L'idée fixe, d'après Ribot (Revue philosophique, mai et juin 1906) ,
+L'idée fixe, d'après Ribot (*Revue philosophique*, mai et juin 1906) ,
 caractérise la passion qui est une forme intellectualisée de la vie
 affective
 :
@@ -20854,9 +19804,7 @@ et l'ajouter à la théorie générale dés émotions et de la vie affective
 (A. du présent §) , puisque la nature de la passion ne diffère de celle
 de l'émotion que par sa complexité .
 
-[p. 366]
-
-366
+[p. 366] 366
 LES FAITS AFFECTIFS
 
 Rôle général des passions . - Des différents effets de la passion et
@@ -20901,9 +19849,7 @@ nuisible à l'individu ainsi qu'à la société, et se manifeste comme
 un facteur de trouble ou de régression plutôt que comme un fac-
 teur d'adaptation et de progrès .
 
-[p. 367]
-
-CHAPITRE
+[p. 367] CHAPITRE
 XXII
 
 LA VIE AFFECTIVE ÉLABORÉE
@@ -20951,9 +19897,7 @@ tant un soutien continu . L'émotion a gagné en durée et en stabilité
 ce qu'elle a perdu en violence et en brusquerie : elle s'est atténuée
 tout en élargissant son champ .
 
-[p. 368]
-
-368
+[p. 368] 368
 LES FAITS AFFECTIFS
 
 Supposons l'atténuation plus prononcée, l'organisation plus forte ,
@@ -21009,9 +19953,7 @@ souvenir. La source de toute poésie, de toute morale et de toute
 religion supérieures ne se trouve que là où l'émotion n'a pas son
 objet immédiatement présent. » (Höffding, 340. ) Par la distance et
 
-[p. 369]
-
-LA VIE AFFECTIVE ÉLABORÉE : LES SENTIMENTS
+[p. 369] LA VIE AFFECTIVE ÉLABORÉE : LES SENTIMENTS
 369
 
 l'éloignement de la cause, par la facilité et le nombre des associa-
@@ -21072,11 +20014,7 @@ Si nous cherchons au-dessous de
 ces facteurs intellectuels les
 causes du mouvement idéal qui les amène à la conscience, nous
 
-24
-
-[p. 370]
-
-370
+24 [p. 370] 370
 LES FAITS AFFECTIFS
 
 sommes amenés à une
@@ -21140,9 +20078,7 @@ ravage ? ... Et les procédés employés pour susciter, raviver ou ren- [^p370-1
 
 [^p370-1]: Remarque importante . suivant, surtout le & II . Voir pour plus de détails sur les inclinations le chapitre
 
-[p. 371]
-
-LA VIE AFFECTIVE ÉLABORÉE : LES SENTIMENTS
+[p. 371] LA VIE AFFECTIVE ÉLABORÉE : LES SENTIMENTS
 371
 
 -
@@ -21194,11 +20130,7 @@ froides et décolorées .
 La preuve
 a) Transformation de l'émotion en sentiment .
 la plus nette qu'on en puisse apporter, c'est de montrer que les sen-
-timents ne sont que des émotions transformées . D'après Th. Ribot ,
-
-[p. 372]
-
-372
+timents ne sont que des émotions transformées . D'après Th. Ribot , [p. 372] 372
 LES FAITS AFFECTIFS
 
 les procédés de transformation sont réductibles à trois ; 1 ° évolu-
@@ -21254,9 +20186,7 @@ l'irrémédiable, de l'inanité de tout effort.
 
 :
 
-[p. 373]
-
-LA VIE AFFECTIVE ÉLABORÉE : LES SENTIMENTS
+[p. 373] LA VIE AFFECTIVE ÉLABORÉE : LES SENTIMENTS
 373
 
 3º « La transformation par composition est un terme général sous
@@ -21316,11 +20246,7 @@ sent la distinction entre un sentiment et une émotion ou une pas-
 sion , et ne les confond pas :
 « Il y a des états affectifs qui expriment les appétits , besoins ,
 tendances inhérents à notre organisation psychologique. Ils consti-
-tuent le cours régulier et ordinaire de la vie qui, chez la moyenne
-
-[p. 374]
-
-374
+tuent le cours régulier et ordinaire de la vie qui, chez la moyenne [p. 374] 374
 LES FAITS AFFECTIFS
 
 des hommes , n'est faite ni d'émotions , ni de passions , mais d'états
@@ -21371,9 +20297,7 @@ abstraction, empêche de voir les détails , émousse la finesse nécessaire
 à l'action , car l'action est toujours subordonnée à des circonstances
 particulières et spécifiques . Le flair, le tact, la finesse, la délicatesse
 
-[p. 375]
-
-LA VIE AFFECTIVE ÉLABORÉE
+[p. 375] LA VIE AFFECTIVE ÉLABORÉE
 : LES SENTIMENTS
 375
 
@@ -21395,9 +20319,7 @@ historiquement, et on entend encore aujourd'hui, la classification
 générale des faits affectifs . (En ce sens , cette question est traitée ici,
 p . 338 , surtout p . 350 sq . , et p . 368. )
 
-[p. 376]
-
-I.
+[p. 376] I.
 
 II .
 
@@ -21476,9 +20398,7 @@ ensemble d'une façon inséparable .
 La vie affective s'intercale en quelque sorte nécessairement dans
 la vie motrice : elle y a ses conditions antécédentes et ses effets .
 
-[p. 377]
-
-FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
+[p. 377] FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
 : INCLINATIONS
 377
 
@@ -21532,11 +20452,7 @@ de la vie affective supérieure, consciente. La sensibilité vitale est
 au sentir conscient ce que la mémoire organique est à la mémoire
 au sens courant du mot .
 
-Cette sensibilité vitale est la propriété de recevoir des excitations
-
-[p. 378]
-
-378
+Cette sensibilité vitale est la propriété de recevoir des excitations [p. 378] 378
 LES FAITS AFFECTIFS
 
 et de réagir en conséquence (D'après Ribot, Psychologie des senti-
@@ -21592,9 +20508,7 @@ tissu , chaque organe, n'a
 qu'un but, exercer son activité, et l'individu physiologique n'est
 pas autre chose que l'expression convergente de toutes ces tendances.
 
-[p. 379]
-
-FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
+[p. 379] FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
 : INCLINATIONS
 379
 
@@ -21646,11 +20560,7 @@ sentations claires . » (Höffding, Psychologie, 303. )
 Nous pénétrons avec le désir dans le domaine de la volonté, au
 point de vue moteur, de l'imagination et de la pensée abstraite
 au point de vue représentatif : ce qui explique que le désir puisse
-s'attacher fréquemment à des objets irréalisables et soit souvent
-
-[p. 380]
-
-380
+s'attacher fréquemment à des objets irréalisables et soit souvent [p. 380] 380
 LES FAITS AFFECTIFS
 
 chimérique , que le sentiment qui toujours l'implique ait, toujours
@@ -21704,9 +20614,7 @@ mentés , il cherche l'un et fuit l'autre... C'est la forme définitive , et
 
 -
 
-[p. 381]
-
-FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
+[p. 381] FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
 : INCLINATIONS
 381
 
@@ -21754,11 +20662,7 @@ tudes de l'homme civilisé s'expliqueraient par l'influence obscurcie
 exercée sur nous par les habitudes des hommes primitifs . Tout homme
 a en luides tendances latentes qu'un événement fortuit peut révéler .
 On peut les dire aussi héréditaires , puisqu'elles sont dans un orga-
-nisme hérité. (D'après Ribot, Psychologie des sentiments , p. 174.)
-
-[p. 382]
-
-382
+nisme hérité. (D'après Ribot, Psychologie des sentiments , p. 174.) [p. 382] 382
 LES FAITS AFFECTIFS
 
 2º L'inconscient personnel venant de la cénesthésie, c'est-à-dire des
@@ -21818,9 +20722,7 @@ plus haute, et peut passer d'un individu à plusieurs, à une classe ,
 à des classes . Cette possibilité d'un transfert illimité a été un fac-
 teur moral et social de premier ordre . Il a permis l'extension des
 
-[p. 383]
-
-FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
+[p. 383] FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
 : INCLINATIONS
 383
 
@@ -21884,11 +20786,7 @@ longtemps à ce problème, c'est que toute la vie affective se rame-
 nerait à la tendance primordiale qu'a l'être à se conserver dans son
 étre; par suite, elle seraitl'épanouissementd'un égoïsmefondamen-
 tal : grâce aux représentations qui lui sont liées, elle se dirigerait
-constamment vers tout ce qui peut accroître les forces de l'individu,
-
-[p. 384]
-
-384
+constamment vers tout ce qui peut accroître les forces de l'individu, [p. 384] 384
 LES
 FAITS AFFECTIFS
 
@@ -21943,9 +20841,7 @@ rien de si impétueux que ses désirs, rien de si caché que ses des-
 
 -
 
-[p. 385]
-
-FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
+[p. 385] FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
 : INCLINATIONS
 385
 
@@ -21996,11 +20892,7 @@ a primitivement pu naître, peut être complètement oublié. L'avare
 aime l'argentpour l'argent ; bien plus, il renonce même tout à fait
 aux biens que l'argent peutprocurer. » L'état affectif qui s'attachait
 d'abord aux biens que l'argent procure s'attache à l'argent lui
-25
-
-[p. 386]
-
-386
+25 [p. 386] 386
 LES FAITS AFFECTIFS
 
 même , et la représentation de ces biens a disparu . Un déplace-
@@ -22050,9 +20942,7 @@ tout élément organique ?
 b) L'imitation .- Mais, en acceptant cette dernière hypothèse , nous
 allons voir qu'il y aautantde raisons, et aussi concluantes , pour faire
 
-[p. 387]
-
-FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
+[p. 387] FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
 : INCLINATIONS
 387
 
@@ -22098,11 +20988,7 @@ entraîne la veuve de l'Inde à suivre son mari dans la mort, le vieux
 Celte à débarrasser ses compagnons d'une bouche inutile par une
 fin volontaire , tout cela, n'est- ce pas de l'altruisme ? On traiteraces
 pratiques de superstitions; qu'importe, pourvu qu'elles témoignent
-d'une aptitude à sedonner . » (Durkheim, Division du travail, 214.)
-
-[p. 388]
-
-388
+d'une aptitude à sedonner . » (Durkheim, Division du travail, 214.) [p. 388] 388
 LES FAITS AFFECTIFS
 
 d) Les considérations sociologiques nous permettent même d'aller
@@ -22160,9 +21046,7 @@ pas encore à autrui. C'est une solidarité aussi biologique que psycho-
 logique, et à laquelle nous pouvons donner le nom de sympathie
 (car elle en est la forme la plus basse), oude tendance égo-altruiste.
 
-[p. 389]
-
-FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
+[p. 389] FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
 INCLINATIONS
 389
 
@@ -22217,11 +21101,7 @@ et populaire du mot : elle est un unisson psychologique plus un
 tive , l'émotion tendre (bienveillance, compassion, pitié, etc.) . Ce
 n'est plus la sympathie pure et simple, c'est un composé binaire .
 L'habitude commune de ne considérer les phénomènes que sous
-leur forme complète, supérieure, en masque souvent l'origine et
-
-[p. 390]
-
-390
+leur forme complète, supérieure, en masque souvent l'origine et [p. 390] 390
 LES FAITS AFFECTIFS
 
 la composition . Pour comprendre d'ailleurs qu'il y a ici dualité ,
@@ -22276,9 +21156,7 @@ monde, quelle a été sa première manifestation. A cet égard il n'y a
 que trois hypothèses possibles : l'instinct sexuel (cequi est bien peu
 vraisemblable) , l'état grégeaire , c'est-à-dire l'instinct de sociabilité
 
-[p. 391]
-
-FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
+[p. 391] FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
 : INCLINATIONS
 391
 
@@ -22331,9 +21209,7 @@ obligation , d'une règle, de ce qui doit être fait ou évité : c'est
 l'apparition du sentiment moral... Toute morale réelle qui a vécu ,
 qui a fourni sa pleine carrière, présente deux périodes principales . »
 
-[p. 392]
-
-392
+[p. 392] 392
 LES FAITS AFFECTIFS
 
 L'une instinctive, spontanée, inconsciente,
@@ -22382,9 +21258,7 @@ Les promoteurs de cette abolition, individus ou groupes , ont été
 des inventeurs . On connaît l'universalité des sacrifices humains ...
 Comment ont-ils disparu ? Il n'y a sur ce point qu'ignorance ou
 
-[p. 393]
-
-FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
+[p. 393] FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
 : INCLINATIONS
 393
 
@@ -22435,9 +21309,7 @@ il est toujours précédé d'un apprentissage de gestes . Tout
 emploi de signes , en somme , n'est guère possible, chez les animaux
 comme chez l'homme , que par l'imitation .
 
-[p. 394]
-
-394
+[p. 394] 394
 LES FAITS AFFECTIFS
 
 Les sociétés primitives sont essentiellement routinières. Ilya
@@ -22490,9 +21362,7 @@ tation .
 
 « C'est l'imitation , développée par la vie commune, qui facilitera
 
-[p. 395]
-
-FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
+[p. 395] FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
 : INCLINATIONS
 395
 
@@ -22551,11 +21421,7 @@ la tendance à la sociabilité. Elle se développe par la sympathie , la
 solidarité , la vie commune, mais par un choc en retour, où elle
 rend souvent plus qu'elle ne reçoit, elle développe sympathie , soli-
 darité et vie commune .
-Seulement elle est une collaboratrice inconsciente etpassive . C'est
-
-[p. 396]
-
-396
+Seulement elle est une collaboratrice inconsciente etpassive . C'est [p. 396] 396
 LES FAITS AFFECTIFS
 
 en quelque sorte par une inertie naturelle qu'on imite ce qu'on voit.
@@ -22604,11 +21470,7 @@ vivent en société qu'ils s'imitent .
 << Tout ce qui est social, dit Tarde, et non vital ou physique,
 dans les phénomènes des sociétés , aussi bien dans leurs similitudes
 que dans leurs différences, a l'imitation pour cause .
-<< Aussi n'est-ce pas sans raison qu'on donne généralement l'épi-
-
-[p. 397]
-
-FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
+<< Aussi n'est-ce pas sans raison qu'on donne généralement l'épi-[p. 397]FACTEURS DU DÉVELOPPEMENT DE LA VIE AFFECTIVE
 : INCLINATIONS
 397
 
@@ -22646,9 +21508,7 @@ se développe comme un moyen (inconscient d'abord, et qui le
 reste souvent ensuite), de se mettre d'accord avec cette très impor-
 tante partie du milieu qu'est le milieu social.
 
-[p. 399]
-
-LIVRE VI
+[p. 399] LIVRE VI
 
 LES FAITS D'ACTIVITÉ
 
@@ -22699,9 +21559,7 @@ car la conscience telle que nous l'observons n'intervient en aucune
 façon dans leur formation, leur direction, leur développement ; elle
 n'y a que des conditions lointaines ou des concomitants indirects .
 
-[p. 400]
-
-400
+[p. 400] 400
 LES FAITS D'ACTIVITÉ
 
 Le mouvement psychologique élémentaire est celui qui, au con-
@@ -22755,9 +21613,7 @@ physique des centres nerveux, le mouvement s'explique encore
 d'une façon toute chimique. Le système nerveux ne fait pas inter-
 venir ses propriétés spécifiques dans la production du mouvement.
 
-[p. 401]
-
-LES ÉLÉMENTS . - LE RÉFLEXE PSYCHIQUE
+[p. 401] LES ÉLÉMENTS . - LE RÉFLEXE PSYCHIQUE
 401
 
 B. Le mouvement
@@ -22811,11 +21667,7 @@ psychique à cette dernière catégorie de réflexes, la plus complexe
 de toutes . Elle peut être considérée comme l'élément de la motricité
 psychologique, car on trouve une série continue de degrés entre elle
 
-26
-
-[p. 402]
-
-402
+26 [p. 402] 402
 LES FAITS D'ACTIVITÉ
 
 et l'activité consciente la plus haute ( Höffding , Richet, Spencer) .
@@ -22871,9 +21723,7 @@ vibration plus ou moins intense de la moelle selon l'intensité plus
 ou moins grande du choc extérieur qui produit la vibration ner-
 veuse . » (Id. )
 
-[p. 403]
-
-LES ÉLÉMENTS .
+[p. 403] LES ÉLÉMENTS .
 LE RÉFLEXE PSYCHIQUE
 403
 
@@ -22924,9 +21774,7 @@ plication psychologique, appréciation plus fine, prédominance plus
 grande de la qualité de l'excitation, et coordination plus délicate,
 plus indirecte, donc plus parfaite .
 
-[p. 404]
-
-404
+[p. 404] 404
 LES FAITS D'ACTIVITÉ
 
 Le réflexe d'acquisition touche aux actes beaucoup plus complexes
@@ -22979,9 +21827,7 @@ vement. En même temps elle détermine toujours dans une certaine
 mesure la forme, la durée , l'intensité, la direction du réflexe. Car
 la conscience est affectée non seulement par la quantité, mais par
 
-[p. 405]
-
-LES ÉLÉMENTS . - LE RÉFLEXE PSYCHIQUE
+[p. 405] LES ÉLÉMENTS . - LE RÉFLEXE PSYCHIQUE
 405
 
 la qualité de l'excitation. Et c'est cette qualitéqui intervient comme
@@ -23032,9 +21878,7 @@ A. Conditions organiques .- 1º L'ORGANE RÉFLEXE [^p405-1]. - Un réflexe
 
 [^p405-1]: Voir les figurations schématiques de l'organe du réflexe non psychique et du réflexe psychique , p. 449, fig. 1 et 2 .
 
-[p. 406]
-
-406
+[p. 406] 406
 LES FAITS D'ACTIVITÉ
 
 élémentaire résulte d'une excitation transmise par un nerf centri-
@@ -23083,9 +21927,7 @@ faire varier l'intensité de ce mouve-
 ment : « Le mouvement de réponse à l'irritation est d'autant plus
 fort pour des irritations égales que l'équilibre de la cellule est
 
-[p. 407]
-
-LES ÉLÉMENTS .
+[p. 407] LES ÉLÉMENTS .
 LE RÉFLEXE PSYCHIQUE
 407
 
@@ -23145,9 +21987,7 @@ centres encéphaliques est caractéristique du réflexe psychique.
 3º La réaction réflexe résulte de la fusion de plusieurs secousses
 ou contractions musculaires élémentaires .
 
-[p. 408]
-
-408
+[p. 408] 408
 LES FAITS D'ACTIVITÉ
 
 La fibre musculaire ne se contracte qu'un temps appréciable
@@ -23210,9 +22050,7 @@ main, la planchette des spirites
 trois roulettes mobiles en tous sens, munie d'un crayon en son
 centre, et sur laquelle on appuie la main), la plume électrique
 
-[p. 409]
-
-LES ÉLÉMENTS . - LE RÉFLEXE PSYCHIQUE
+[p. 409] LES ÉLÉMENTS . - LE RÉFLEXE PSYCHIQUE
 409
 
 с . -
@@ -23269,11 +22107,7 @@ de rotation du cylindre , on saura ce que représente comme temps
 un centimètre de l'abscisse. Si l'on exerce une pression, le stylet
 s'élèvera ou s'abaissera au-dessus de l'abscisse, suivant l'intensité
 du phénomène auquel il obéit. Comme en même temps le cylindre
-continue à tourner, il en résultera que le stylet ne tracera pas
-
-[p. 410]
-
-410
+continue à tourner, il en résultera que le stylet ne tracera pas [p. 410] 410
 LES FAITS D'ACTIVITÉ
 
 simplement une ligne droite; le stylet tracera une courbe
@@ -23325,9 +22159,7 @@ constant, de sorte que la chronophotographie donne exactement et
 à la fois la forme et le temps . » (Binet, Id.) La cinématographie
 peut reconstituer le mouvement à l'aide de ces épreuves.
 
-[p. 411]
-
-LES ÉLÉMENTS .
+[p. 411] LES ÉLÉMENTS .
 LE RÉFLEXE PSYCHIQUE
 411
 
@@ -23388,11 +22220,7 @@ querons encore à tous les degrés de l'activité, l'état affectif a une
 influence prédominante : il est une tendance à l'acte beaucoup plus
 forte que la simple représentation de l'excitation , et, si celle-ci
 n'était pas accompagnée de plaisir ou de douleur, le mouvement
-consécutif serait nul ou très faible. Car la quantité d'énergie dé
-
-[p. 412]
-
-412
+consécutif serait nul ou très faible. Car la quantité d'énergie dé [p. 412] 412
 LES FAITS D'ACTIVITÉ
 
 gagée par l'excitation externe est trop minime pour produire le
@@ -23445,9 +22273,7 @@ inférieurs et au début de la vie des
 êtres plus élevés le confirme (mouvements sporadiques du nouveau-
 né, - premiers mouvements consécutifs à l'état cataleptique dans
 
-[p. 413]
-
-LES ÉLÉMENTS . - LE RÉFLEXE PSYCHIQUE
+[p. 413] LES ÉLÉMENTS . - LE RÉFLEXE PSYCHIQUE
 413
 
 les
@@ -23493,9 +22319,7 @@ qu'on adopte , considérer la volonté (motricité) comme la plus pri-
 mitive ou bien comme la plus complexe et la plus dérivée de toutes
 les manifestations psychiques. » (Höffding, 406. )
 
-[p. 414]
-
-CHAPITRE
+[p. 414] CHAPITRE
 XXV
 
 L'INSTINCT
@@ -23567,9 +22391,7 @@ caractère général et superficiel qui nous fournit une première
 démarcation , c'est la complexité de l'acte instinctif par rapport à
 l'acte réflexe. Nous appelons instinctifs non un mouvement, si
 
-[p. 415]
-
-L'ACTIVITÉ MOTRICE SPONTANÉE .
+[p. 415] L'ACTIVITÉ MOTRICE SPONTANÉE .
 L'INSTINCT
 415
 
@@ -23619,9 +22441,7 @@ voqué par une irritation unique presque nulle... (Richet, 94 ). L'acte
 instinctif paraît même émaner, la plupart du temps, d'une excita-
 tion tout interne , et de tendances affectives , sans stimulus externe .
 
-[p. 416]
-
-416
+[p. 416] 416
 LES FAITS D'ACTIVITÉ
 
 L'oiseau voit constamment des brins d'herbe; cependant les actes
@@ -23671,9 +22491,7 @@ premier mouvement jusqu'au dernier ; il ne saurait y avoir d'hési-
 tation, puisqu'il faudrait pour cela qu'il y eût conscience plus ou
 moins nette du but à atteindre .
 
-[p. 417]
-
-L'ACTIVITÉ MOTRICE SPONTANÉE .
+[p. 417] L'ACTIVITÉ MOTRICE SPONTANÉE .
 L'INSTINCT
 417
 
@@ -23733,11 +22551,7 @@ psychologiques. Ces deux points de vue sont absolument paral-
 lèles , la complication rendant nécessaire un accroissement d'in-
 fluence de la conscience .
 
-27
-
-[p. 418]
-
-418
+27 [p. 418] 418
 LES FAITS D'ACTIVITÉ
 
 A. Instincts primaires.-Les réflexes d'acquisition forment la
@@ -23792,9 +22606,7 @@ voile de soie, auquel la chrysalide peut être fermement suspendue,
 mais qui , placée dans une boîte recouverte d'un couvercle en
 mousseline, s'aperçoit que ce voile n'est pas nécessaire et suspend
 
-[p. 419]
-
-L'ACTIVITÉ MOTRICE SPONTANÉE .
+[p. 419] L'ACTIVITÉ MOTRICE SPONTANÉE .
 L'INSTINCT
 419
 
@@ -23843,11 +22655,7 @@ ses mouvements sont conduits par une association fixe, fatale de ten-
 dances ou images kinesthésiques .
 
 B. Éléments représentatifs d'excitation (perceptions).- Les
-images motrices se déroulent toujours à l'occasion d'une excitation
-
-[p. 420]
-
-420
+images motrices se déroulent toujours à l'occasion d'une excitation [p. 420] 420
 LES FAITS D'ACTIVITÉ
 
 externe .
@@ -23906,9 +22714,7 @@ A. Conditions organiques de production. - Au point de vue
 physiologique, la seule ligne de démarcation entre le réflexe et
 l'instinct, c'est que ce dernier estplus complexe et plus actif, tout
 
-[p. 421]
-
-L'ACTIVITÉ MOTRICE SPONTANÉE .
+[p. 421] L'ACTIVITÉ MOTRICE SPONTANÉE .
 L'INSTINCT
 421
 
@@ -23955,11 +22761,7 @@ se manifestent aussi très nettement dans des êtres chez lesquels
 les hémisphères du cerveau n'ont aucune importance (instinct de
 nutrition des nouveau-nés) . Il est donc probable que des mouve-
 ments instinctifs peuvent provenir aussi des centres inférieurs de
-l'encéphale. » (Höffding, 411.)
-
-[p. 422]
-
-422
+l'encéphale. » (Höffding, 411.) [p. 422] 422
 LES FAITS D'ACTIVITÉ
 
 -
@@ -24018,9 +22820,7 @@ et de beaucoup, sur l'impulsion instinctive. Plus un être obéit à
 l'instinct, et plus aussi il est émotif .
 L'homme primitif, l'enfant, l'animal ont une vic beaucoup plus
 
-[p. 423]
-
-L'ACTIVITÉ MOTRICE SPONTANÉE .
+[p. 423] L'ACTIVITÉ MOTRICE SPONTANÉE .
 L'INSTINCT
 423
 
@@ -24076,11 +22876,7 @@ fois formés, se modifient, lorsque le milieu vient à changer, si ce
 changement est assez peu sensible pour ne pas présenter un danger
 immédiat pour l'individu . Alors les excitations nouvelles amèneront
 des mouvements nouveaux et déformeront , dans une certaine mesure ,
-la trame ancienne. Ceux qui seront suivis de conséquences nuisibles,
-
-[p. 424]
-
-424
+la trame ancienne. Ceux qui seront suivis de conséquences nuisibles, [p. 424] 424
 LES FAITS D'ACTIVITÉ
 
 partant d'états douloureux, s'élimineront, et ceux qui seront utiles
@@ -24134,9 +22930,7 @@ diaires entre l'instinct et l'intelligence , entre l'automatisme et la
 volonté , ont suggéré une explication de l'instinct qui contredirait
 ce que nous venons de dire sur la nature de ce phénomène . Bien
 
-[p. 425]
-
-L'ACTIVITÉ MOTRICE SPONTANÉE.
+[p. 425] L'ACTIVITÉ MOTRICE SPONTANÉE.
 L'INSTINCT
 425
 qu'elle soit plus métaphysique que psychologique, cette explica-
@@ -24197,9 +22991,7 @@ finaliste rétablit sous l'inconscience et la fatalité apparentedes mou-
 
 -
 
-[p. 426]
-
-426
+[p. 426] 426
 LES FAITS D'ACTIVITÉ
 
 ((
@@ -24253,9 +23045,7 @@ nous montrent de la manière la plus évidente que des êtres peuvent
 travailler à leur but avec la plus grande sûreté ou précision sans
 le connaître, sans en avoir la moindre représentation . » (Janet et
 
-[p. 427]
-
-L'ACTIVITÉ MOTRICE SPONTANÉE .
+[p. 427] L'ACTIVITÉ MOTRICE SPONTANÉE .
 427
 L'INSTINCT
 
@@ -24315,9 +23105,7 @@ scientifiques que nous avons exposées en psychologie ; et c'est ce [^p427-1]
 
 [^p427-1]: Voir théorie de l'habitude , p . 97.
 
-[p. 428]
-
-428
+[p. 428] 428
 LES FAITS D'ACTIVITÉ
 
 qui fait sa force. Les conditions du réflexe et de l'instinct étant
@@ -24365,9 +23153,7 @@ leurs instincts , tandis que les autres disparaissaient de plus en plus .
 Un choix , un tri , une sélection s'est faite naturellement, grâce à la
 concurrence vitale , c'est-à-dire aux chances de survie dans un milieu
 
-[p. 429]
-
-L'ACTIVITÉ MOTRICE SPONTANÉE .
+[p. 429] L'ACTIVITÉ MOTRICE SPONTANÉE .
 429
 L'INSTINCT
 
@@ -24423,9 +23209,7 @@ mènes mécaniques dans une certaine direction et dans une liaison
 particulière . Tout s'expliquait mécaniquement, sauf la combinaison
 des différents phénomènes mécaniques entre eux .
 
-[p. 430]
-
-430
+[p. 430] 430
 LES FAITS D'ACTIVITÉ
 
 C'est cette combinaison , dont l'évolution enfin a donné une expli-
@@ -24453,9 +23237,7 @@ d'après les investigations contemporaines ; mais il importe de ne pas
 oublier toutes les incertitudes et parfois les erreurs que peut comporter
 actuellement une étude de ce genre .
 
-[p. 431]
-
-CHAPITRE XXVI
+[p. 431] CHAPITRE XXVI
 
 L'ACTIVITÉ MOTRICE ÉLABORÉE
 LES VOLITIONS
@@ -24515,9 +23297,7 @@ termes qu'ils supposent, excitation, élaboration centrale, exécution,
 seuls l'excitation et le mouvement exécuté peuvent être conscients
 dans le réflexe, l'excitation et l'exécution elle-même (images mo-
 
-[p. 432]
-
-ου
+[p. 432] ου
 
 LES FAITS D'ACTIVITÉ
 
@@ -24617,9 +23397,7 @@ peau du crâne, d'une pression qui s'exercerait du dehors sur toute
 
 la tête.>>>
 
-[p. 433]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 433] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 433
 LES VOLITIONS
 
@@ -24677,11 +23455,7 @@ démonstration spéciale... ; plus les processus cérébraux sont com-
 plexes, plus aussi la différenciation psychologique fait de progrès .
 Il est également évident qu'un temps plus long est nécessaire pour
 que la réaction ait lieu, quand ce sont plusieurs activités différentes
-28
-
-[p. 434]
-
-434
+28 [p. 434] 434
 LES FAITS D'ACTIVITÉ
 
 qui se déploient, d'où une certaine indépendance à l'égard des
@@ -24748,9 +23522,7 @@ l'idée et l'acte, et celui-ci s'accomplit d'une façon réfléchie et mo-
 dérée
 : c'est l'acte volontaire sous sa forme la plus délibérée et la
 
-[p. 435]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 435] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 435
 - LES VOLITIONS
 
@@ -24814,11 +23586,7 @@ Il en est en quelque sorte l'expression affective .
 Mais par là même on voit qu'il n'en est qu'une phase, qu'un moment
 préparatoire , qu'un côté partiel, puisque dans l'acte volontaire il
 intervient d'autres facteurs que les phénomènes affectifs ; nous
-verrons même qu'il faut que ceux-ci se subordonnent aux motifs
-
-[p. 436]
-
-436
+verrons même qu'il faut que ceux-ci se subordonnent aux motifs [p. 436] 436
 LES FAITS D'ACTIVITÉ
 
 d'ordre représentatif et rationnel pour qu'il y ait vraiment volition ,
@@ -24873,9 +23641,7 @@ une affirmation théorique, de la volition ; sinon que celle-ci se tra-
 duit par un acte et qu'elle est ainsi un jugement mis à exécution...
 Elle estanalogue au jugement, avec cette différence que l'un exprime
 
-[p. 437]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 437] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 LES VOLITIONS
 437
 
@@ -24927,11 +23693,7 @@ Nous avons vu dans
 l'instinct que le rapport entre l'excitation externe et l'acte est beau-
 coup moins direct et immédiat que dans le réflexe. Dans l'acte
 volontaire , il y a rupture complète entre l'excitation externe et la
-réponse motrice. Non seulement l'excitation est la plupart du temps
-
-[p. 438]
-
-438
+réponse motrice. Non seulement l'excitation est la plupart du temps [p. 438] 438
 LES FAITS D'ACTIVITÉ
 
 tout interne et vient du seul travail cérébral parallèle à l'éveil des
@@ -25000,9 +23762,7 @@ corporelle correspondante .
 Hitzig ( 1870) a reconnu l'excitabilité de l'écorce et indiqué la plu-
 part des centres moteurs . Charcot a confirmé ces localisations par
 
-[p. 439]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 439] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 LES VOLITIONS
 439
 
@@ -25052,11 +23812,7 @@ occupe la région pariétale postérieure .
 Remarquons encore que ces centres corticaux sont en rapport
 étroit avec le système sympathique, par l'intermédiaire de la couche
 optique.
-Ils influent directement ainsi sur les nerfs sécréteurs et
-
-[p. 440]
-
-440
+Ils influent directement ainsi sur les nerfs sécréteurs et [p. 440] 440
 LES FAITS D'ACTIVITÉ
 
 vaso-moteurs et peuvent être influencés par eux : d'où les rapports
@@ -25135,9 +23891,7 @@ existent des centres contigus, mais distincts, pour le facial intérieur
 larynx (centre de la phonation). »
 << Tous les centres musculaires ne sont pas connus. On ignore le
 
-[p. 441]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 441] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 LES VOLITIONS
 441
 
@@ -25189,11 +23943,7 @@ La zone motrice étant
 identique à la zone sensitive, « les centres moteurs sont des agglo-
 mérations de cellules nerveuses , surtout des grandes cellules pyra-
 midales , dont les cylindres-axes deviennent les fibres constitutives du
-faisceau pyramidal ou du faisceau géniculé. Par ces faisceaux elles
-
-[p. 442]
-
-442
+faisceau pyramidal ou du faisceau géniculé. Par ces faisceaux elles [p. 442] 442
 LES FAITS D'ACTIVITÉ
 
 mettent en jeu les cellules radiculaires motrices des nerfs craniens
@@ -25288,9 +24038,7 @@ Les plus petites cellules sont dans les centres moteurs de la face.>>>
 
 [^p442-1]: Le μ = 1/1000° de millimètre .
 
-[p. 443]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 443] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 443
 LES VOLITIONS
 
@@ -25345,11 +24093,7 @@ tion dans ces derniers temps , conclut que le cervelet communique,
 on pourrait dire injecte, aux autres centres nerveux , une force
 lente , tranquille et continue ... Cette influence , dit Luciani, se ma-
 nifeste de trois manières : par une action sthénique , qui augmente
-l'énergie potentielle dont disposent les appareils neuro -musculaires ;
-
-[p. 444]
-
-444
+l'énergie potentielle dont disposent les appareils neuro -musculaires ; [p. 444] 444
 LES FAITS D'ACTIVITÉ
 
 par une action tonique, qui accroît la tension de ces appareils pen-
@@ -25399,9 +24143,7 @@ si rapide que semble la résolution, le temps du
 mouvement volontaire le plus simple est plus long que le temps d'un
 mouvement automatique .
 
-[p. 445]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 445] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 445
 LES VOLITIONS
 
@@ -25459,11 +24201,7 @@ une fois
 qu'elles sont produites : ce serait la synthèse des sensations muscu-
 laires qui nous avertiraient de l'effet produit
 et nous serviraient ,
-par leurs images , à corriger ou à reproduire ensuite le mouvement
-
-[p. 446]
-
-446
+par leurs images , à corriger ou à reproduire ensuite le mouvement [p. 446] 446
 LES FAITS D'ACTIVITÉ
 
 (Bastian , Ferrier , W. James ) , — soit enfin comme un mélange des
@@ -25512,9 +24250,7 @@ mettent la délibération précise, la résolution intelligente et sûre,
 grâce à la facilité avec laquelle nous les manions et à la certitude
 de nos raisonnements . Malheureusement elles n'ont guère de pou
 
-[p. 447]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 447] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 LES VOLITIONS
 447
 
@@ -25563,11 +24299,7 @@ par la douleur, a été contraint d'abandonner beaucoup de directions
 dans son développement, et qui s'est répandu sur les routes auto-
 risées , subissant en quelque sorte la loi, ou de périr, ou de se cou-
 ler en des canaux qui sont les tendances particulières organisées ? >>>
-(Id. , 49.) En un mot, notre caractère est surtout déterminé par notre
-
-[p. 448]
-
-448
+(Id. , 49.) En un mot, notre caractère est surtout déterminé par notre [p. 448] 448
 LES FAITS D'ACTIVITÉ
 
 vie affective et par ses conditions organiques (notre tempérament) .
@@ -25624,9 +24356,7 @@ nation, puisqu'elle
 permettait une adaptation plus
 consciente
 
-[p. 449]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 449] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 449
 LES VOLITIONS
 
@@ -25744,11 +24474,7 @@ grâce au trajet Ka, Ma.
 (Les flèches indiquent la direction suivie par le courant nerveux; le pointillé, la voie utilisée ;
 le trait plein, le trajet conscient.)
 
-29
-
-[p. 450]
-
-450
+29 [p. 450] 450
 LES FAITS D'ACTIVITÉ
 et plus intelligente de
 l'être
@@ -25770,8 +24496,8 @@ ce que nous venons de dire que l'acte volontaire est un processus
 dérivé, une résultante, une conséquence .
 Il ne peut pas y avoir
 d'acte volontaire antérieur aux mouvements réflexes et instinctifs ;
-il ne peut pas y avoir de direction a priori imposée aux mouvements
-pas plus qu'il n'y a d'idées a priori , ou de sentiments innés , du
+il ne peut pas y avoir de direction *a priori* imposée aux mouvements
+pas plus qu'il n'y a d'idées *a priori* , ou de sentiments innés , du
 moins
 au point de vue psychologique (car la question doit être
 réservée au point de vue métaphysique) . Dans notre conscience se
@@ -25809,9 +24535,7 @@ l'instinct, puisqu'il n'en est que l'évolution plus haute et plus
 complexe, ce qui explique que les êtres qui ont le plus d'instincts
 nous paraissent aussi les plus intelligents .
 
-[p. 451]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 451] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 451
 LES VOLITIONS
 
@@ -25869,9 +24593,7 @@ pleinement consciente, c'est-à-dire l'ensemble des états psycholo- [^p451-1]
 
 [^p451-1]: Pour le problème métaphysique de la liberté, voir p . 1064 sq .
 
-[p. 452]
-
-452
+[p. 452] 452
 LES FAITS D'ACTIVITÉ
 
 giques étroitement rattachés au moi ; elle se traduit extérieurement
@@ -25929,9 +24651,7 @@ possibilité d'un choix, la manifestation d'un pouvoir libre, de notre
 propre puissance , de notre bon plaisir. Aussi éveille-t-elle insensi-
 blement le sentiment de notre responsabilité.
 
-[p. 453]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 453] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 LES VOLITIONS
 453
 Enfin l'acte, au lieu de se déclancher automatiquement, est sus-
@@ -25984,11 +24704,7 @@ jusqu'à la pleine maturité. L'activité chez l'enfant, comme chez les
 peuples peu
 cultivés qui représentent encore pour ainsi dire
 l'enfance de l'humanité, est entièrement spontanée , automatique ;
-les premiers mouvements chez l'enfant sont des réflexes ; bientôt
-
-[p. 454]
-
-454
+les premiers mouvements chez l'enfant sont des réflexes ; bientôt [p. 454] 454
 LES FAITS D'ACTIVITÉ
 
 après vient le règne des instincts ; pendant les premiers mois de la
@@ -26036,9 +24752,7 @@ Mais ensuite l'acte est soustrait aux prises de la personnalité ; il
 tend vers l'automatisme .
 Or, on sait que chez l'enfant, chez le primitif, chez le dégénéré, le
 
-[p. 455]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 455] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 LES VOLITIONS
 455
 
@@ -26076,9 +24790,7 @@ d'après les investigations contemporaines ; mais il importe de ne pas
 oublier toutes les incertitudes et parfois les erreurs que peut comporter
 actuellement une étude de ce genre .
 
-[p. 456]
-
-CHAPITRE
+[p. 456] CHAPITRE
 XXVII
 
 FACTEURS GÉNÉRAUX DU DÉVELOPPEMENT DE L'ACTIVITÉ
@@ -26133,9 +24845,7 @@ volonté, chez qui l'activité est consciente, réfléchie au plus haut
 point, chez qui l'instinct, l'inclination sont en général refoulés au
 second plan ou asservis . L'éducation s'est faite, comme nous l'avons
 
-[p. 457]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 457] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 457
 LE CARACTÈRE
 
@@ -26186,9 +24896,7 @@ synthétique de toute la vie psychologique. Aussi la psychologie sur
 ce point est-elle très peu avancée. Elle ne s'est guère élevée plus
 haut qu'à des essais de classification .
 
-[p. 458]
-
-458
+[p. 458] 458
 LES FAITS D'ACTIVITÉ
 
 II .
@@ -26234,9 +24942,7 @@ réagir toujours constante avec elle-même, une convergence géné [^p458-1]
 
 [^p458-1]: « Le bon sens est la chose du monde la mieux partagée » , dit Descartes , au début dù Discours de la Méthode . Par bon sens, il entend la raison
 
-[p. 459]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 459] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 459
 LE CARACTÈRE
 
@@ -26295,11 +25001,7 @@ article intéressant
 que tous les mouvements spéciaux qui se produisent chez les ani-
 maux supérieurs ne sont que des différenciations de deux mou-
 vements simples et primitifs , la contraction et l'expansion . La
-tendance à la contraction est la source de toutes les impulsions et
-
-[p. 460]
-
-460
+tendance à la contraction est la source de toutes les impulsions et [p. 460] 460
 LES FAITS D'ACTIVITÉ
 
 réactions par lesquelles l'animal agit dans le sens de sa conser-
@@ -26350,9 +25052,7 @@ les plus élémentaires, les plus proches des origines . Il faut donc
 nous attendre à ce que cette marque individuelle, qui s'applique à
 toute vie psychologique, ait elle aussi ses conditions dans les moda
 
-[p. 461]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 461] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 461
 LE CARACTÈRE
 
@@ -26401,11 +25101,7 @@ donne une teinte générale , une nuance caractéristique .
 B. Les facteurs inconscients : les instincts et les habitudes .-
 Au-dessus de cette première couche d'éléments conditionnants du
 caractère , couche organique et profonde, la plus résistante aux alté-
-rations morbides , ou aux effets de l'éducation, il en est une seconde
-
-[p. 462]
-
-462
+rations morbides , ou aux effets de l'éducation, il en est une seconde [p. 462] 462
 LES FAITS D'ACTIVITÉ
 
 plus près de la conscience, moins stable déjà, quoiqu'elle ne se
@@ -26460,9 +25156,7 @@ aux supérieurs
 sans supposer une action du dehors , ne fût-ce
 que pour dégager le ressort interne. Dans le développement de
 
-[p. 463]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE.
+[p. 463] L'ACTIVITÉ MOTRICE ÉLABORÉE.
 LE CARACTÈRE
 463
 
@@ -26513,9 +25207,7 @@ dure pas , cette cohésion de désir est de nulle valeur pour déter-
 miner un caractère. Il faut qu'elle se maintienne ou se répète
 toujours la même dans des circonstances identiques ou analogues .
 
-[p. 464]
-
-464
+[p. 464] 464
 LES FAITS DACTIVITÉ
 
 La marque propre d'un vrai caractère , c'est d'apparaître dès l'enfance
@@ -26570,9 +25262,7 @@ mesure ? Ne l'est-elle pas du tout. La morale, le droit pénal et la
 pédagogie ont un intérêt très vif à la solution de ce problème, car
 c'est de cette solution que dépend leur utilité pratique. Si le carac
 
-[p. 465]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+[p. 465] L'ACTIVITÉ MOTRICE ÉLABORÉE .
 465
 LE CARACTÈRE
 
@@ -26625,11 +25315,7 @@ tère amorphe est éducable ? Et est- il toujours souhaitable de tendre
 vers un caractère entier , facilement étroit et aveugle. Le modifier ,
 progresser, n'est-ce pas aussi la marque de l'intelligence ? Un vrai
 
-30
-
-[p. 466]
-
-466
+30 [p. 466] 466
 LES FAITS D'ACTIVITÉ
 
 caractère peut être un caractère de brute ou un très mauvais carac-
@@ -26681,11 +25367,7 @@ tère , à supposer qu'elles soient possibles .
 instincts ,
 l'automatisme psychologique
 (le subconscient) et les
-habitudes. Là encore l'éducation a peu de prise, sauf sur les habi-
-
-[p. 467]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE .
+habitudes. Là encore l'éducation a peu de prise, sauf sur les habi-[p. 467]L'ACTIVITÉ MOTRICE ÉLABORÉE .
 467
 LE CARACTÈRE
 
@@ -26741,11 +25423,7 @@ un très grand nombre d'autres .
 L'observation nous montre encore que la conscience
 claire ,
 réfléchie , entre souvent en conflit avec tous les éléments spontanés
-plus ou moins confus qui ne sont pas reliés à elle, ou le sont d'une
-
-[p. 468]
-
-468
+plus ou moins confus qui ne sont pas reliés à elle, ou le sont d'une [p. 468] 468
 LES FAITS D'ACTIVITÉ
 
 façon très lâche (Voir : PERCEPTION INTERNE , conclusion) . Analysons
@@ -26798,9 +25476,7 @@ B. Les moyens pratiques . - On peut d'ailleurs préciser par
 des faits quelques points de ces conclusions très générales , forcé-
 ment hypothétiques, sur l'éducation du caractère.
 
-[p. 469]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE . - LE CARACTÈRE
+[p. 469] L'ACTIVITÉ MOTRICE ÉLABORÉE . - LE CARACTÈRE
 469
 
 Le problème n'est que la suite de celui que nous avons posé en
@@ -26855,11 +25531,7 @@ sciente et volontaire, continue son rôle . La volonté devient ainsi
 un élément essentiel dans toute notre vie intellectuelle supérieure .
 C'est elle qui la rend méthodique et nous donne le goût toujours
 plus vif du vrai, en même temps qu'elle nous fournit le contrôle
-nécessaire à toutes les opérations que nous tentons pour l'atteindre.;
-
-[p. 470]
-
-470
+nécessaire à toutes les opérations que nous tentons pour l'atteindre.; [p. 470] 470
 LES FAITS D'ACTIVITÉ
 
 2º Mais l'idée agit surtout grâce aux sentiments qui l'accom-
@@ -26909,9 +25581,7 @@ bliait trop sans doute M. de Fleury et, à son tour, il néglige peut-
 rapeutique , malgré son chapitre sur l'hygiène corporelle . On trouvera
 dans son ouvrage une très intéressante étude sur les moyens de
 
-[p. 471]
-
-L'ACTIVITÉ MOTRICE ÉLABORÉE ,
+[p. 471] L'ACTIVITÉ MOTRICE ÉLABORÉE ,
 471
 LE CARACTÈRE
 
@@ -26961,11 +25631,7 @@ aussi , un facteur éducatif. Lorsque notre inertie, notre veulerie
 nous empêchent de vouloir directement ou d'attaquer de front nos
 habitudes
 antérieures
-(sentimentales et passionnelles), on peut
-
-[p. 472]
-
-472
+(sentimentales et passionnelles), on peut [p. 472] 472
 LES FAITS D'ACTIVITÉ
 
 faire appel à l'habitude et à l'automatisme pour lutter contre
@@ -26998,9 +25664,7 @@ aussi sincère et loyale que possible - des faits
 
 tels que nous croyons les connaître nous-mêmes .
 
-[p. 473]
-
-CHAPITRE
+[p. 473] CHAPITRE
 XXVIII
 
 CONCLUSION
@@ -27052,9 +25716,7 @@ action directe sur le corps. Enfin, pour toutes les opérations supé-
 rieures de l'esprit, on déclarait que « c'était sans organe que l'on
 pense » .
 
-[p. 474]
-
-474
+[p. 474] 474
 LES FAITS D'ACTIVITÉ
 
 -A. Tout fait psychologique a des conditions organiques .
@@ -27102,11 +25764,7 @@ L'analogie ne permet
 vraiment d'attribuer la sensibilité au plaisir et à la douleur et, par
 suite, la conscience, dont elle est le premier signe , qu'aux orga-
 nismes doués d'éléments nerveux .
-Il faut s'en tenir là pour le
-
-[p. 475]
-
-moment et noter le progrès de la conscience avec la complication
+Il faut s'en tenir là pour le [p. 475] moment et noter le progrès de la conscience avec la complication
 et la richesse du système nerveux ;
 2º Si de la considération de la série animale (psychologie com-
 parée) nous passons à la considération de l'espèce humaine , nous
@@ -27152,11 +25810,7 @@ moral . La conscience de l'émotion paraît bien, dans certaines ex-
 périences , n'être pas la cause de l'attitude corporelle, mais en
 être l'effet ou au moins
 le concomitant . Ainsi les modifications
-physiques sont considérées comme précédant les faits psycho
-
-[p. 476]
-
-476
+physiques sont considérées comme précédant les faits psycho [p. 476] 476
 LES FAITS D'ACTIVITÉ
 
 logiques, ou tout au moins comme données en même temps .
@@ -27206,9 +25860,7 @@ l'acte conscient doit être l'exception ; l'acte automatique, la règle.
 Il en résulte encore que, dans les organismes plus compliqués et
 chez l'homme lui-même, un très grand nombre d'actes simples
 
-[p. 477]
-
-CONCLUSION .
+[p. 477] CONCLUSION .
 LE PHYSIQUE ET LE MORAL
 477
 
@@ -27268,9 +25920,7 @@ frontales des hémisphères) se trouve une quantité innombrable de
 centres inférieurs commandantà des mouvements qui ne paraissent
 pas absolument aveugles .
 
-[p. 478]
-
-478
+[p. 478] 478
 LES FAITS D'ACTIVITÉ
 
 B. La personnalité.
@@ -27321,9 +25971,7 @@ tend à la subordonner à son contrôle : accentuer cette subordina-
 tion , voilà l'œuvre de la vie psychologique supérieure et voilà la
 tâche la plus haute que l'éducation individuelle peut se proposer
 
-[p. 479]
-
-ESTHÉTIQUE
+[p. 479] ESTHÉTIQUE
 
 LIVRE
 VII
@@ -27377,15 +26025,13 @@ différentes
 (comme la logique, la morale
 et la philosophie
 tout entière).
-1º Certains se sont bornés à en faire une déduction a priori de
+1º Certains se sont bornés à en faire une déduction *a priori* de
 quelques principes posés intuitivement et abstraitement sur le beau .
 Ils ont recours à la seule réflexion métaphysique, et négligent
 complètement l'examen de laformationdu goût et les manifestations
 de l'art. Ils arrivent ainsi à une conception toute subjective .
 
-[p. 480]
-
-Les Anciens , en particulier Platon , considéraient que le beau était
+[p. 480] Les Anciens , en particulier Platon , considéraient que le beau était
 une qualité des objets et que nos jugements de goût qui l'appré-
 ciaient étaient dus à une sorte de sens , d'intuition de la beauté que
 posséderait notre esprit . Nous sentirions le beau comme nous voyons
@@ -27430,9 +26076,7 @@ faction ne sont compréhensibles que si l'on pense en même temps
 à la réalisation d'un but : nous ne nous sentons satisfaits que
 lorsque nous avons atteint une fin que nous nous sommes propo
 
-[p. 481]
-
-NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
+[p. 481] NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
 481
 
 sée. Il exprime cette remarque en disant que tout plaisir marque
@@ -27486,9 +26130,7 @@ tâche, dans l'état actuel des choses, n'est aucunement scientifique.
 
 31
 
-[p. 482]
-
-Elle supposerait la science de l'art entièrement achevée, et capable
+[p. 482] Elle supposerait la science de l'art entièrement achevée, et capable
 de fonder une technique, un art pratique rationnel, à peu près
 comme la physique rend possible l'art de l'ingénieur ; l'esthé-
 tique, à supposer, ce qui n'est pas sûr, qu'elle puisse jamais
@@ -27531,11 +26173,7 @@ leur vie et leur caractère .
 2º Le problème artistique pourra être étudié au point de vue
 sociologique. <<< S'il est impossible d'expliquer le caractère indivi-
 duel d'une œuvre d'art par le caractère individuel de l'auteur, il ne
-nous reste pas autre chose à faire que de réduire le caractère col-
-
-[p. 483]
-
-NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
+nous reste pas autre chose à faire que de réduire le caractère col-[p. 483]NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
 483
 
 lectif des groupes artistiques, ayant une certaine étendue dans le
@@ -27588,9 +26226,7 @@ uniforme, comment expliquer les différences entre la valeur ou les
 tous romanciers de
 Paris, de Flaubert et de Chateaubriand, tous deux de la France .
 
-[p. 484]
-
-du Nord , de Shakespeare , Dickens , Shelley , Swinburne , tous Anglais
+[p. 484] du Nord , de Shakespeare , Dickens , Shelley , Swinburne , tous Anglais
 (Cités par Hennequin, la Critique Scientifique) .
 « Taine oublie avant tout que, si l'art dépend en quelque sorte
 du goût du public, il le crée aussi , en une certaine mesure . Certes
@@ -27638,9 +26274,7 @@ des non-civilisés . » Pour mener cette tâche à bien , la science doit
 s'adresser à l'ethnographie , et non à l'histoire, ni même à la pré-
 histoire, qui ne disposent pas de documents suffisants .
 
-[p. 485]
-
-NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
+[p. 485] NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
 485
 
 Il y a d'ailleurs des difficultés qui s'opposent à cette methode
@@ -27680,9 +26314,7 @@ public ! Un art individuel dans le sens le plus étroit du mot, quand
 bien même on pourrait le concevoir, n'existe nulle part . » (Grösse ,
 les Débuts de l'art, p . 37.)
 
-[p. 486]
-
-II .
+[p. 486] II .
 
 PREMIÈRE PARTIE
 
@@ -27728,9 +26360,7 @@ se
 trouve soumise à des
 règles conventionnelles ; elle
 
-[p. 487]
-
-NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
+[p. 487] NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
 487
 
 échappe à la pure spontanéité. L'homme primitif est, nous le savons ,
@@ -27784,9 +26414,7 @@ toute inutilité produite pour satisfaire les tendances affectives, pour
 causer du plaisir. L'ornement, par gestes moteurs ou vocaux, tra-
 ditionnels aux jours de fête, voilà l'origine de l'art.
 
-[p. 488]
-
-Mais l'imitation transforme encore l'instinct dujeu par une autre
+[p. 488] Mais l'imitation transforme encore l'instinct dujeu par une autre
 voie, et donne naissance, à côté de ce qu'on pourrait appeler les
 arts en mouvements , aux arts plastiques. Il est probable, d'ailleurs ,
 qu'ils furent à l'origine intimement mêlés. Les imitations que nous
@@ -27816,9 +26444,7 @@ tout le développement, ce qui nous dispense d'insister.
 
 [^p488-1]: REMARQUE IMPORTANTE . Voir sur tout ceci le chapitre sur l'Activité créatrice de l'esprit, notamment p. 303 sq .
 
-[p. 489]
-
-NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
+[p. 489] NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
 489
 
 DEUXIÈME PARTIE
@@ -27860,11 +26486,7 @@ A. Théorie objective et sociologique. — Si nous examinons les
 manifeste
 : il y a, certes , des transformations depuis les œuvres
 dejeunesse jusqu'à celles des dernières années, mais elles marquent
-toutes des procédés semblables et une inspiration commune . C'est
-
-[p. 490]
-
-490
+toutes des procédés semblables et une inspiration commune . C'est [p. 490] 490
 ESTHETIQUE
 
 que toutes, elles traduisent un tempérament, un caractère unique .
@@ -27905,7 +26527,7 @@ Benvenuto Cellini, les romantiques) . Il s'oppose au bourgeois, « au
 philistin » . Les plus remarquables expressions de cette conception
 sont les théories issues de Kant, en particulier celles de Schiller ,
 de Schopenhauer, de Wagner et de Nietzsche .
-Kant (Critique du jugement) estime que la pensée humaine a
+Kant (*Critique du jugement*) estime que la pensée humaine a
 deux facultés essentielles : la sensibilité, qui est individuelle , et
 l'entendement, qui est universel. L'imagination est le lien naturel
 par lequel la seconde pénètre la première et s'individualise . L'art
@@ -27920,9 +26542,7 @@ Mais
 l'artiste doit avant tout exprimer son individualité et satis-
 faire sa sensibilité. L'art n'a point sa fin hors de lui, il est à
 
-[p. 491]
-
-NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
+[p. 491] NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
 491
 
 lui-même sa propre fin, il est une finalité sans fin . Schiller va
@@ -27968,11 +26588,7 @@ péter d'une voix d'enfant ce que la nature dit de sa voie puissante ?
 Pour imiter l'objet réel , il faudrait, artisan très habile , procéder len-
 tement, comparer sans cesse , faire chaque détail tour à tour, composer
 de pièces rapportées une machine toujours au-dessous des figures de
-cire et des automates de Vaucanson . Le véritable artiste serait ce
-
-[p. 492]
-
-bourgeois qui d'un voyage d'Italie n'avait rapporté qu'un oiseau
+cire et des automates de Vaucanson . Le véritable artiste serait ce [p. 492] bourgeois qui d'un voyage d'Italie n'avait rapporté qu'un oiseau
 mécanique qu'il faisait voltiger et chanter au dessert. On ne prend
 pas à la nature le soleil, la chaleur, la perpétuelle mobilité des
 aspects successifs . Quand un hasard fait passer brusquement d'une
@@ -28015,11 +26631,7 @@ musique, outre que des tracesd'imitation très nettes se laissent voir
 à leur origine (la cabane de bois et l'architecture dorique-l'art go-
 thique- les chants et les rythmes en usage dans les fêtes des sau-
 vages), ils cherchent toujours à réaliser des lois naturelles, et avec des
-moyens naturels : l'harmonie d'un temple ou d'une œuvre musicale,
-
-[p. 493]
-
-NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
+moyens naturels : l'harmonie d'un temple ou d'une œuvre musicale, [p. 493] NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
 493
 
 est toujours en rapports étroits avec la simplicité des moyens et
@@ -28065,11 +26677,7 @@ donnée le génie du poète. Est-ce à dire que l'idée n'ait eu aucun
 rôle dans sa création? Des Pauvres Gens que reste-t-il ? Une géné-
 rosité invraisemblable, un acte sublime. Ce rien est bien quelque
 chose. C'est ce rien qui a soulevé dans l'esprit du poète la multi-
-tude des images . L'idée ne serait rien sans la forme, mais c'est
-
-[p. 494]
-
-elle qui a créé la forme. Supprimez tout ce qui vient d'elle, l'amour
+tude des images . L'idée ne serait rien sans la forme, mais c'est [p. 494] elle qui a créé la forme. Supprimez tout ce qui vient d'elle, l'amour
 
 de V. Hugo pour les humbles , son désir de leur trouver des titres
 
@@ -28152,9 +26760,7 @@ tation servile de la nature, ni dans l'abstraction pure . « L'art, c'est
 
 l'esprit, non pas qui se détache de la nature, mais qui de plus en
 
-[p. 495]
-
-NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
+[p. 495] NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
 495
 
 plus la pénètre, se voit et se manifeste en elle. L'art, c'est la nature
@@ -28206,11 +26812,7 @@ A. Appréciationde l'œuvre d'art.- Loin de détruirele vrai , par
 le bien, le beau en est la synthèse . On pourraitdéduire de là des règles
 d'esthétique spéciales qui sortent de notre cadre . Nous nous conten-
 terons d'en exposer les principes fondamentaux d'après Taine (Philo-
-sophie de l'art, t . II) : « L'œuvre d'art est un système de parties, tantôt
-
-[p. 496]
-
-créé de toutes pièces comme il arrive dans l'architecture et la musique
+sophie de l'art, t . II) : « L'œuvre d'art est un système de parties, tantôt [p. 496] créé de toutes pièces comme il arrive dans l'architecture et la musique
 (d'après les lois du réel), tantôt reproduit d'après quelque objet réel,
 comme il arrive dans la littérature, la sculpture, la peinture : le but
 de l'art est de manifester par cet ensemble quelque caractère notable .
@@ -28262,11 +26864,7 @@ viduelles avec toutes les vies affectives. Il reste donc possible
 d'apprécier les œuvres d'art et de porter sur elles de véritables
 jugements, qui seront ratifiés par tous, encore qu'on ne puisse les
 justifier par une démonstration. « Le beau est ce qui plaît universel-
-lement, sans concept », disait Kant. Il est objet de plaisir universel,
-
-[p. 497]
-
-NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
+lement, sans concept », disait Kant. Il est objet de plaisir universel, [p. 497] NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
 497
 
 pour des raisons particulières infiniment diverses, et le plus souvent
@@ -28317,11 +26915,7 @@ absolu d'une langue
 idéale, indépendante du sentiment, seule
 légitime , expression immédiate et nécessaire des idées éternelles ,
 
-32
-
-[p. 498]
-
-des essences primitives . Nous affirmons que le sentiment crée le
+32 [p. 498] des essences primitives . Nous affirmons que le sentiment crée le
 procédé; que la langue artistique varie comme l'émotion dont elle
 n'est que le signe ; qu'il n'y a pas plus de style absolu , que de
 caractère absolu , s'exprimant par une physionomie absolue ; que
@@ -28368,9 +26962,7 @@ exprimant leurs vibrations sont entre eux dans des rapports
 simples (comme 1 est à 2, 2 à 3, 3 à 4, etc.) . Au lieu de juger de
 P'harmonie par les sens, par le plaisir qui lui répond, si on l'ana
 
-[p. 499]
-
-NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
+[p. 499] NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
 499
 
 lyse, si on l'étudie dans ses éléments , le plaisir sensible se résout
@@ -28418,11 +27010,7 @@ Enfin l'art est toute une science, en ce qu'il obéit à la plus haute
 raison , à la logique laplus rigoureuse. L'analyse d'une œuvre d'art
 montre combien l'harmonie réalisée implique d'attention, de rap-
 prochements ingénieux de souvenirs et d'associations .
-« Que d'expériences antérieures, que de raisonnements cachés
-
-[p. 500]
-
-sont résumés dans le langage pittoresque ! Le sens des lignes , des
+« Que d'expériences antérieures, que de raisonnements cachés [p. 500] sont résumés dans le langage pittoresque ! Le sens des lignes , des
 formes , des
 couleurs, dépend de deux facteurs ,
 de leur action
@@ -28487,9 +27075,7 @@ et se réalisant elle-même ..... »
 
 « Le génie , c'estl'unité de l'esprit vivant, c'est le concours de tous
 
-[p. 501]
-
-NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
+[p. 501] NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
 501
 
 ses pouvoirs en un même acte . Les lois de l'intelligence sont en
@@ -28538,11 +27124,7 @@ D'ailleurs , l'art véritable, quelle que soit la scène qu'il nous
 retrace, ne peut être , par lui-même,immoral . Car l'art véritable exige
 une sérénité et une élévation d'idées et de sentiments qui sont
 
-:
-
-[p. 502]
-
-incompatibles avec toute immoralité . Si l'art déchoit jusqu'à cesser
+: [p. 502] incompatibles avec toute immoralité . Si l'art déchoit jusqu'à cesser
 d'être lui-même , en se donnant des préoccupations
 morales, en
 visant une utilité pratique, qui ne comprend que l'art déchoit
@@ -28590,9 +27172,7 @@ de Hartmann , et d'après laquelle le développement de l'industrie ,
 des sciences et de la civilisation
 pratique, développement qui, à
 
-[p. 503]
-
-NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
+[p. 503] NOTIONS SOMMAIRES SUR L'ART ET LE BEAU
 503
 
 notre époque, a pris un très grand essor, serait nuisible au déve-
@@ -28640,13 +27220,9 @@ sible
 des faits tels que nous croyons les connaître nous-mêmes .
 -
 
-[p. 504]
+[p. 504] !
 
-!
-
-[p. 505]
-
-L
+[p. 505] L
 
 11 .
 
@@ -28698,9 +27274,7 @@ l'erreur ? Que valent chacune des démarches de notre pensée . Ces
 
 32*
 
-[p. 506]
-
-questions de valeur ne peuvent plus être tranchées par la psycho-
+[p. 506] questions de valeur ne peuvent plus être tranchées par la psycho-
 logie. Elles sont l'objet d'autres recherches , et ce sont ces recherches
 dont l'ensemble est appelé, depuis Aristote , la Logique .
 La psychologie
@@ -28748,11 +27322,7 @@ ne s'inquiète pas de savoir comment en fait nous sommes arrivés
 Mais la logique se demande simplement si nous avons le droit de
 la formuler, si la proposition est susceptible d'être considérée
 comme vraie ou non , admissible ou non , prouvée ou non .
-Ceci posé et admis (tous les logiciens l'accorderaient), il s'agit de
-
-[p. 507]
-
-savoir comment on peut arriver à établir ces règles, à fonder ce
+Ceci posé et admis (tous les logiciens l'accorderaient), il s'agit de [p. 507] savoir comment on peut arriver à établir ces règles, à fonder ce
 droit, et c'est ici que nous entrons sur le terrain de discussions
 toujours ouvertes et qui ne paraissent pas près de leur fin .
 
@@ -28794,14 +27364,12 @@ valeur de notre raisonnement et les conditions des démarches de
 la pensée qui doivent nous faire atteindre la vérité, on soit porté a
 considérer de suite le problème à un point de vue général et phi-
 losophique . On posera d'abord une définition de la vérité, puis , en
-vertu de cette définition, on cherchera, a priori, les conditions du
+vertu de cette définition, on cherchera, *a priori*, les conditions du
 raisonnement qui permet d'atteindre la vérité , les méthodes qui
 doivent toujours nous préserver de l'erreur . Envisagée à ce point
 de vue, la logique est absolument indépendante de l'expérience.
 
-[p. 508]
-
-Elle doit se développer tout entière a priori.
+[p. 508] Elle doit se développer tout entière *a priori*.
 En effet, déterminer la vérité à un point de vue idéal , déterminer
 ce que doit être une véritén'est possible, que si l'on a de la pensée
 humaine une conception complète , définitive . Cette conception ne
@@ -28842,11 +27410,7 @@ b) A LA RENAISSANCE, la logique d'Aristote fut fortement atta-
 quée par tous les savants, entre autres Galilée , Bacon , Descartes ,
 Pascal .
 La critique , d'une façon générale, établit que la pensée abstraite
-était incapable de nous faire découvrir quoi que ce soit. Seule
-
-[p. 509]
-
-était féconde la pensée concrète , soit qu'elle s'appuie sur l'expé-
+était incapable de nous faire découvrir quoi que ce soit. Seule [p. 509] était féconde la pensée concrète , soit qu'elle s'appuie sur l'expé-
 rience et l'induction comme avec Galilée et Bacon ,
 soit qu'elle
 s'appuie sur les intuitions du nombre et de la grandeur, sur les
@@ -28872,7 +27436,7 @@ la logique .
 Kant conserve cette conception. La logique formelle est un savoir
 rigoureux et définitif, mais qui ne concerne en aucune façon la
 réalité . Il ne porte que sur les principes et sur les règles de la
-pensée abstraite , considérée a priori . C'est à d'autres méthodes à
+pensée abstraite , considérée *a priori* . C'est à d'autres méthodes à
 fournir à la pensée réelle un contenu , et ce contenu a d'autres lois ,
 d'autres
 principes . La logique formelle n'est que la base de
@@ -28882,7 +27446,7 @@ LOGIQUE CONTEMPORAINS QUI MAINTIENNENT
 DES RAPPORTS INTIMES ENTRE LA PHILOSOPHIE ET LA LOGIQUE se placent
 maintenant à ce point de vue.
 Ils divisent la logique en deux
-grandes parties : la logique formelle, qui est la recherche a priori
+grandes parties : la logique formelle, qui est la recherche *a priori*
 des principes de la pensée pure, de la raison et des règles néces-
 saires , d'après lesquelles cette pensée, cette raison traiteront tous
 les objets , quels qu'ils soient, auxquels elles s'appliquent. C'est le
@@ -28894,16 +27458,12 @@ quée, une logique des sciences qui étudie, d'après les méthodes
 scientifiques , les manières dont notre esprit apprend peu à peu à
 connaître le réel , en vérifiant lesrésultats , en administrant la preuve ,
 dans chaque ordre de connaissances .
-Les esprits les plus métaphysiques se contentent de chercher à
-
-[p. 510]
-
-déduire la logique appliquée de la logique formelle en présentant
+Les esprits les plus métaphysiques se contentent de chercher à [p. 510] déduire la logique appliquée de la logique formelle en présentant
 celle-ci comme la base nécessaire de celle-là . Ceux qui sont moins
 métaphysiques juxtaposent les deux parties , sans chercher à les
 déduire , comme deux recherches qui portent sur des objets différents ,
 et qui ont une origine différente : la logique formelle ayant une
-existence a priori, la méthodologie résultant d'une critique aposte-
+existence *a priori*, la méthodologie résultant d'une critique aposte-
 riori des sciences .
 Cette conception aboutit à définir la logique comme une science
 particulière et originale, comme une science philosophique . Elle se
@@ -28915,7 +27475,7 @@ ils se
 passent et non comment ils doivent se passer. Mais elle est une
 science et non un art, en ce qu'elle ne dérive pas les règles qu'elle
 nous donne d'une science positive , mais de lois qu'elle établit elle-
-même a priori : Ces lois sont les lois de la pensée pure, et on les
+même *a priori* : Ces lois sont les lois de la pensée pure, et on les
 découvre lorsque la pensée réfléchit sur elle-même pour voir com-
 ment elle raisonne, lorsqu'elle s'analyse dans son fonctionnement.
 La logique est donc bien dans le cadre de cette philosophie , qui se
@@ -28945,11 +27505,7 @@ point de vue particulier. Il reste les relations tout à fait générales
 qu'un objet de la pensée peut avoir avec un autre objet, lorsqu'on
 néglige toutes les propriétés particulières de ces objets (propriétés
 numérique , géométrique , physique, etc.) .
-Or un objet à ce point de vue si général n'est plus qu'un terme,
-
-[p. 511]
-
-une forme de la pensée, un concept. Les rapports entre de pa-
+Or un objet à ce point de vue si général n'est plus qu'un terme, [p. 511] une forme de la pensée, un concept. Les rapports entre de pa-
 reilles abstractions sont les propositions ou les jugements consi-
 dérés indépendamment de ce qu'ils signifient. Les rapports entre
 ces propositions sont les différentes formes de raisonnement déduc-
@@ -28995,11 +27551,7 @@ thode syllogistique : elles atteignirent du reste presque immédiate-
 ment des résultats considérables et d'une très haute valeur. La
 pensée humaine se trouvait donc en possession pour rechercher
 et découvrir la vérité de méthodes nouvelles, et la question se
-posait d'analyser et de critiquer ces méthodes et d'énoncer leurs
-
-[p. 512]
-
-principes . C'est ce qu'ont fait Bacon, dans le Novum organum
+posait d'analyser et de critiquer ces méthodes et d'énoncer leurs [p. 512] principes . C'est ce qu'ont fait Bacon, dans le Novum organum
 pour la méthode expérimentale, et Descartes dans le Discours
 de la méthode pour l'extension de la méthode mathématique aux
 sciences physiques On peut dire qu'à ce point de vue ces ou-
@@ -29008,7 +27560,7 @@ qui , au lieu de se placer au point de vue de la raison pure pour
 construire ces règles , en chercherait au contraire le fondement dans
 l'analyse des méthodes que les savants appliquent à leurs re-
 cherches . Ce sont les premiers essais d'une logique indépendante de
-considération métaphysique et a priori, bien que pourtant leur
+considération métaphysique et *a priori*, bien que pourtant leur
 réalisation marque encore une très forte empreinte métaphysique .
 6) Il a fallu attendre , malgré de nombreux essais au xvin siècle
 
@@ -29034,7 +27586,7 @@ du raisonnement, du développement dela pensée, et dans tous ces
 travaux ils ont apporté à la logique de précieuses contributions .
 On peut dire que se sont eux qui, vraiment, fournissent les élé-
 ments d'une logique indépendante de toute spéculation philoso-
-phique , inspirée par l'expérience , a posteriori,
+phique , inspirée par l'expérience , *a posteriori*,
 puisqu'elle émane
 de la pratique quotidienne du raisonnement ou du laboratoire .
 La logique peut alors être définie, soit comme par Stuart Mill,
@@ -29054,9 +27606,7 @@ collectifs de la
 pensée , grammaire, langage , histoire des sciences etc.), et les
 travaux des savants sur leurs méthodes .
 
-[p. 513]
-
-De même que la morale peut être considérée comme une appli-
+[p. 513] De même que la morale peut être considérée comme une appli-
 cation technique, un ensemble de règles déduites de la science des
 mœurs , la logique serait une application technique déduite de ces
 renseignements d'ordre psychologique et historique . Ainsi l'hygiène
@@ -29107,11 +27657,7 @@ science et l'utilisation des résultats de ces études .
 2º Avec l'école sociologique, on pourrait encore
 et cette vue
 
-33
-
-[p. 514]
-
-s'allie très bien avec la précédente - considérer la pensée humaine
+33 [p. 514] s'allie très bien avec la précédente - considérer la pensée humaine
 comme étant, au moins pour une très grande partie, un produit
 de la vie sociale . C'est alors par l'étude de la vie sociale et par
 des travaux historiques que l'on découvrirait les facteurs et les
@@ -29150,8 +27696,8 @@ bien voir ce que le temps en consacrera .
 La conception de la logique comme science, et comme science
 philosophique , est l'énonciation exacte de toutes les combinaisons
 possibles de nos concepts qui satisfont aux lois générales de l'esprit .
-Elle établit a priori tout son contenu , à peu près comme on établit
-a priori toutes les combinaisons d'un jeu de cartes ou du jeu
+Elle établit *a priori* tout son contenu , à peu près comme on établit
+*a priori* toutes les combinaisons d'un jeu de cartes ou du jeu
 d'échecs .
 La conception de la logique comme art fait au contraire de la
 logique une hygiène de l'esprit fondée sur les lois psychologiques et
@@ -29159,9 +27705,7 @@ historiques relatives à la constitution et à l'évolution de l'esprit , et
 sur l'analyse des méthodes scientifiques . Comme ces lois sont tirées
 de l'expérience, l'art logique est directement issu de l'expérience .
 
-[p. 515]
-
-L'avenir établira,de ces deux conceptions de la logique qui restent
+[p. 515] L'avenir établira,de ces deux conceptions de la logique qui restent
 en présence,
 celle qui doit vaincre définitivement ou absorber
 l'autre .
@@ -29192,9 +27736,7 @@ et classés autrement . Il doit donc faire plus attention à ces faits eux-même
 qu'à la classification que j'en donne , et les interpréter ou les classer au-
 trement, si cela lui semble préférable .
 
-[p. 516]
-
-1.
+[p. 516] 1.
 11 .
 
 111 .
@@ -29269,11 +27811,7 @@ sont expressions synonymes .
 Comine notre pensée s'accorde- quelle que soit la raison de cet
 accord
 avec les choses, puisqu'elle sert à exposer ce que nous
-savons des choses et à agir sur elles, il s'ensuit que l'art de la con
-
-[p. 517]
-
-séquence énonce les rapports les plus généraux qu'il y ait entre les
+savons des choses et à agir sur elles, il s'ensuit que l'art de la con [p. 517] séquence énonce les rapports les plus généraux qu'il y ait entre les
 choses , c'est-à-dire les rapports dont elles sont susceptibles , quelles
 qu'elles puissent étre, les rapports auxquels sont soumises nécessai-
 rement toutes les choses possibles .
@@ -29286,7 +27824,7 @@ donc indépendamment de toute expérience concrète . Elle ne porte
 que sur la pensée abstraite . Si nous nous souvenons des classifica-
 tions psychologiques dujugement et duraisonnement, nous voyons
 qu'elle ne doit s'occuper que du jugement considéré comme ana-
-lytique (tirant du sujet par abstraction , a priori, un attribut qui lui
+lytique (tirant du sujet par abstraction , *a priori*, un attribut qui lui
 convient) et du raisonnement déductif (qui conclut d'une proposi-
 tion générale une application particulière de cette proposition) .
 
@@ -29318,11 +27856,7 @@ Le terme est le mot par lequel on pense une
 notion . La logique formelle porte donc sur les termes qui sont les
 substituts des notions, des concepts et des idées .
 a) TERMES SINGULIERS ET TERMES GÉNÉRAUX .
-Les termes singu
-
-[p. 518]
-
-liers sont ceux qui expriment des notions concrètes, les termes
+Les termes singu [p. 518] liers sont ceux qui expriment des notions concrètes, les termes
 généraux , des notions abstraites .
 On distingue singulier de particulier, en ce sens que singulier
 désigne toujours un objet représentable dans l'intuition, un indi-
@@ -29370,11 +27904,7 @@ C. Classification et division.- 1º Classification . — Les échelles
 constituées par l'extension et parla compréhension sont identiques ,
 puisque ces deux propriétés sont rigoureusement en raison inverse
 l'une de l'autre. La hiérarchie formée par les termes au point de
-vue de la compréhension constitue donc la hiérarchie formée par
-
-[p. 519]
-
-lesmêmes termes au point de vue de l'extension quand on la par-
+vue de la compréhension constitue donc la hiérarchie formée par [p. 519] lesmêmes termes au point de vue de l'extension quand on la par-
 court en sens inverse. Il n'y a donc qu'une seule échelle qui
 fournit ainsi une classification, la seule possible, des termes au
 point devue de la logique formelle .
@@ -29428,9 +27958,7 @@ l'essence , aux qualités accidentelles les qualités essentielles . L'essence
 dans une notion n'est rien autre chose que la totalité des qualités
 constantes constituantles différences et ressemblances . >>>
 
-[p. 520]
-
--
+[p. 520] -
 3º Division .
 On appelle division en logique l'opération par
 laquelle on distingue les différentes espèces d'un genre donné.
@@ -29483,11 +28011,7 @@ cription dans le domaine général de la pensée. Rien ne nous
 empèche d'ailleurs , si nous n'avons pas une idée bien nette du terme
 qui désigne le genre prochain, de recommencer la même opération
 pour le genre prochain en le considérant à son tour comme une
-espèce. Ainsi , en parcourant la classification des concepts, non plus
-
-[p. 521]
-
-au point de vue de l'extension , mais au point de vue de la compré-
+espèce. Ainsi , en parcourant la classification des concepts, non plus [p. 521] au point de vue de l'extension , mais au point de vue de la compré-
 hension , nous avons un procédé certain, au point de vue formel ,
 pour définir tous les termes .
 La définition est l'opération de la logique formelle qui est la base
@@ -29531,9 +28055,7 @@ thématiques , soit dans les sciences de la nature et qu'on verra plus
 loin, car elles ne posent jamais la question du rapport du concept
 avec les objets de l'intuition ou de l'expérience .
 
-[p. 522]
-
-III .
+[p. 522] III .
 DES PROPOSITIONS
 
 A. Lespropositions .- Sujet.- Copule.- Prédicat.-Tandis
@@ -29558,7 +28080,7 @@ qu'il ne contenait pas . Ils supposent une intuition. Exemple : la
 terre est sphérique . C'est l'expérience et le calcul qui nous ont
 appris cette propriété .
 Les jugements d'expérience ou de perception sont tous synthé-
-tiques . Les jugements a priori sont tous analytiques , a priori, c'est-
+tiques . Les jugements *a priori* sont tous analytiques , *a priori*, c'est-
 à-dire posés par l'esprit seul , indépendamment de l'expérience .
 Comme la logique formelle ne s'occupe que des opérations de la
 pensée, indépendamment de toute expérience, elle a étudié surtout
@@ -29576,9 +28098,7 @@ déterminé d'individus , la proposition est dite singulière : Socrate
 était un sage . Les propositions singulières sont comptées comme
 universelles .
 
-[p. 523]
-
-La qualité d'une proposition résulte de l'affirmation qui met l'at-
+[p. 523] La qualité d'une proposition résulte de l'affirmation qui met l'at-
 tribut dans la compréhension du sujet, ou de la négation qui met
 l'attribut en dehors de la compréhension du sujet.
 Toute proposition a une quantité et une qualité. On a donc quatre
@@ -29642,9 +28162,7 @@ subalternes
 Tel est le tableau par lequel on peut résumer la distinction des
 différentes espèces de propositions et leurs rapports .
 
-[p. 524]
-
-IV.
+[p. 524] IV.
 LES INFÉRENCES .
 LE RAISONNEMENT.
 LES INFÉRENCES
@@ -29700,11 +28218,7 @@ selle affirmative exclut en effettoute négation particulière du même
 attribut , du même sujet. Réciproquement, s'il est vrai que quelques
 hommes ne sont pas sincères, il est faux que tous les hommes sont
 sincères ; car l'exclusion d'un certain attribut d'une partie d'un
-sujet donné exclut nécessairement l'inclusion de ce même attribut
-
-[p. 525]
-
-dans la totalité du même sujet. On en dirait autant de l'univer-
+sujet donné exclut nécessairement l'inclusion de ce même attribut [p. 525] dans la totalité du même sujet. On en dirait autant de l'univer-
 selle négative et de la particulière affirmative .
 
 -
@@ -29756,11 +28270,7 @@ métaux . Ce mode de conversion s'applique uniquement aux propo-
 sitions affirmatives universelles .
 Les définitions qui se formulent en affirmatives universelles font
 seules exception à cette règle ; elles se convertissent simplement,
-car en elles le prédicat a même extension que le sujet ; tous les
-
-[p. 526]
-
-526
+car en elles le prédicat a même extension que le sujet ; tous les [p. 526] 526
 LOGIQUE
 hommes sont des animaux raisonnables ; tous les animaux raison-
 nables sont des hommes .
@@ -29817,11 +28327,7 @@ est la forme ordinaire que, pratiquement,
 re-
 vêtent nos raisonnements .
 D'ailleurs l'induction, si l'on adopte
-les idées de Cl . Bernard et d'un grand nombre de théoriciens de
-
-[p. 527]
-
-l'induction, se formulant dans la pensée et s'articulant comme un
+les idées de Cl . Bernard et d'un grand nombre de théoriciens de [p. 527] l'induction, se formulant dans la pensée et s'articulant comme un
 syllogisme dont il s'agit
 de
 vérifier la conclusion par l'expé-
@@ -29872,9 +28378,7 @@ homme qui implique Socrate .
 
 -
 
-[p. 528]
-
-Tout syllogisme adonc trois propositions, trois termes et une forme
+[p. 528] Tout syllogisme adonc trois propositions, trois termes et une forme
 analogue à la suivante :
 
 Majeure
@@ -29936,9 +28440,7 @@ misses ne serait plus celui qui a été comparé au moyen terme , et
 comme cette comparaison est la garantie de la conclusion, la con-
 clusion serait illégitime .
 
-[p. 529]
-
-« 5º Utraque si præmissa neget nil inde sequitur (Si les deux pré-
+[p. 529] « 5º Utraque si præmissa neget nil inde sequitur (Si les deux pré-
 misses sont négatives , on ne peut rien conclure) .
 En effet , de се
 que deux termes n'ont aucun rapport de convenance avec un troi-
@@ -29989,11 +28491,7 @@ deux particulières négatives ; nous retombons dans le cas de la
 cinquième règle. Si l'une des prémisses est particulière négativé,
 et l'autre particulière affirmative , on n'obtient pas davantage de
 
-34
-
-[p. 530]
-
-conclusion. En effet, si quelques B sont A, si quelques B ne sont
+34 [p. 530] conclusion. En effet, si quelques B sont A, si quelques B ne sont
 pas C , on ignore si les B de la première prémisse sont les B de la
 seconde ; d'ailleurs , dans ce cas particulier, le syllogisme est impos-
 sible en vertu de la règle 3. » ( Liard , Logique, 40-43 .)
@@ -30041,9 +28539,7 @@ suivant la figure, certains modes sont impossibles .
 Il n'y a de possible dans la première figure que 4 modes : 1 ° a ,
 a, a; 2º e, a, e ; 3º a , i , i ; 4º° e , i , o .
 
-[p. 531]
-
-Deuxième figure , 4 modes concluants : 1 ° e , a , c ; 2° a , c ,
+[p. 531] Deuxième figure , 4 modes concluants : 1 ° e , a , c ; 2° a , c ,
 e ;
 3º e, i , o ; 4 ° а , о , о .
 
@@ -30097,11 +28593,7 @@ D. Les principes du syllogisme. — A propos du raisonnement
 déductif, en général, on a vu que son principe était le principe
 d'identité , qui d'ailleurs est la loi générale et unique de la logique
 formelle . Le principe du syllogisme comme des déductions immé-
-diates , est donc le principe d'identité. Toutefois les logiciens, sous
-
-[p. 532]
-
-le nom de dictum de omni et nullo, ont fait une application parti-
+diates , est donc le principe d'identité. Toutefois les logiciens, sous [p. 532] le nom de dictum de omni et nullo, ont fait une application parti-
 culière du principe d'identité, valable directement pour le syllo-
 gisme et pour lui seul. Cette forme particulière donnée au principe
 d'identité peut donc être considérée comme le principe propre du
@@ -30148,9 +28640,7 @@ Le dilemme rentre dans cette catégorie d'arguments . - C'est l'ar-
 gument tel que, quelle que soitl'hypothèse posée , elle amène toujours
 la même conclusion .
 
-[p. 533]
-
-VI .
+[p. 533] VI .
 LA RÉFORME DE LA LOGIQUE FORMELLE .
 LA LOGISTIQUE
 
@@ -30190,11 +28680,7 @@ est universel ou particulier, il est quantifié, le prédicat ne l'est pas .
 Je dis , par exemple : Tous les hommes sont mortels, les triangles
 sont les figures à trois côtés, sans attribuer une quantité détermi-
 née aux prédicats « mortels » , et « figures à trois côtés » . D'après
-Hamilton ce serait là un défaut de langage. En fait, dans la pensée,
-
-[p. 534]
-
-une quantité serait attribuée au prédicat : dire tous les hommes
+Hamilton ce serait là un défaut de langage. En fait, dans la pensée, [p. 534] une quantité serait attribuée au prédicat : dire tous les hommes
 sont mortels , c'est penser << tous les hommes sont quelques mortels ,
 puisqu'il y a d'autres mortels que les hommes . Dire les triangles
 sont les figures à trois côtés , c'est dire tous les triangles sont toutes
@@ -30238,11 +28724,7 @@ triangle est quelque figure ;
 3º Les affirmations parti-totales, dans lesquelles le sujet est par-
 ticulier et le prédicat universel ; exemple : quelque figure est tout
 triangle ;
-4° Les affirmations parti-partielles, dans lesquelles sujet et pré-
-
-[p. 535]
-
-dicat sont tous les deux particuliers; exemple : quelques figures
+4° Les affirmations parti-partielles, dans lesquelles sujet et pré-[p. 535]dicat sont tous les deux particuliers; exemple : quelques figures
 équilatérales sont quelques triangles ;
 5° Les négatives toto-totales dans lesquelles le sujet en toute son
 extension est exclu du prédicat ; exemple : aucun triangle n'est
@@ -30288,11 +28770,7 @@ nos jours Lachelier .
 Mais
 si grands que soient ses avantages, la quantification du
 prédicat ne nous donne encore qu'une notation symbolique et plus
-précise de la logique traditionnelle . Ils'agit de pousser plusloin en
-
-[p. 536]
-
-core dans cette voie et de faire de la logique déductive l'instru-
+précise de la logique traditionnelle . Ils'agit de pousser plusloin en [p. 536] core dans cette voie et de faire de la logique déductive l'instru-
 ment universel de la pensée raisonnante .
 On ambitionne la création d'une logique où la différence essen-
 tielle du point de vue de la qualité et de la quantité s'efface pour
@@ -30344,11 +28822,7 @@ traditionnelle des classes , par une logique des propositions , en
 faisant subir à celles -ci , c'est-à-dire aux termes composés , les mêmes
 opérations ou des opérations analogues . Il s'agit de voir comment
 les propositions se subdivisent et s'impliquent,
-se classent, pour
-
-[p. 537]
-
-rendre possible la déduction , c'est-à-dire le raisonnement concluant.
+se classent, pour [p. 537] rendre possible la déduction , c'est-à-dire le raisonnement concluant.
 2º D'autre part la logique traditionnelle en traitant des propo-
 sitions , ne s'occupe que desrelations d'inclusion , c'est-à -dire de ces
 relations entre les concepts qui sont marquées par le verbe étre , et
@@ -30398,18 +28872,14 @@ La logique formelle doit devenir la théorie générale de l'élimi-
 nation . Or l'algèbre, dans la théorie des équations , nous a déjà mis
 en face d'une théorie de l'élimination ; mais l'élimination ne porte
 là jamais que sur des quantités . Est-il possible d'élargir ce procédé
-de calcul, jusqu'à le faire porter aussi bien sur les qualités que
-
-[p. 538]
-
-sur les quantités, sur les concepts et les propositions aussi bien que
+de calcul, jusqu'à le faire porter aussi bien sur les qualités que [p. 538] sur les quantités, sur les concepts et les propositions aussi bien que
 sur les nombres et les relations numériques. Certainement, puisque
 le mathématicien ne tient compte tant qu'il raisonne , que des
 opérations à effectuer sur des symboles , abstraction faite de toute
 interprétation de ces symboles, de toute considération des choses
 concrètes qu'ils représentent .
 Quelles seront alors les règles à observer dans ce calcul nouveau .
-Nous ne savons pas a priori si elles seront les mêmes que dans le
+Nous ne savons pas *a priori* si elles seront les mêmes que dans le
 calcul algébrique .
 Mais , pour les formuler, il faut et il suffit d'analyser toutes les
 opérations de l'esprit engagées dans la déduction, les représenter
@@ -30453,11 +28923,7 @@ celles-là seulement. Ce procédé est l'ensemble des moyens auto-
 matiques , qui permettent d'éliminer les moyens .
 Il se trouve que toutes ces règles concordent purement et sim-
 plement avec celles qui président, en algèbre , à la résolution des
-équations , par rapport aux inconnues , et à l'élimination des
-
-[p. 539]
-
-inconnues . La méthode du calcul logique n'est donc autre , on le
+équations , par rapport aux inconnues , et à l'élimination des [p. 539] inconnues . La méthode du calcul logique n'est donc autre , on le
 sait maintenant, que la méthode du calcul mathématique .
 On arrive ainsi à énoncer explicitement dans le langage tout ce
 qui est contenu dans la pensée . En résumé, étant posés
@@ -30511,11 +28977,7 @@ axiomes , les postulats, les principes, qui différencient ces différents
 développements
 scientifiques , s'évanouissent
 en tant qu'existence
-réelle et ne soient plus que des définitions déguisées , ou des théo
-
-[p. 540]
-
-rèmes permettant le développement complet de la science à l'aide
+réelle et ne soient plus que des définitions déguisées , ou des théo [p. 540] rèmes permettant le développement complet de la science à l'aide
 des seuls axiomes de la logique formelle .
 Alors toutes les notions envisagées dans ces champs de l'investiga-
 tion rationnelle, ne seront plus que les pièces d'un universel for-
@@ -30562,13 +29024,11 @@ vaillant sur des objets concrets ; mais elle fait abstraction de ces
 objets . Elle considère le travail de notre pensée indépendamment
 de ce sur quoi porte ce travail .
 
-[p. 541]
-
-Si
+[p. 541] Si
 la logique , comme certains métaphysiciens
 l'ont
 définie ,
-voulait vraiment nous donner les lois générales et a priori d'une
+voulait vraiment nous donner les lois générales et *a priori* d'une
 pensée qui se suffit à elle-même, sans aucun recours à une intui-
 tion concrète , elle pourrait peut-être mériter le reproche d'être un
 jeu dialectique vain etstérile. Mais lalogique formelle tend constam-
@@ -30583,7 +29043,7 @@ fondamentale a été de ramener « la logique aux faits et à l'expé-
 rience que l'ancienne logique avait trop dédaignés... En dépit des
 apparences, elle ne perd jamais de vue le réel ; c'est de lui qu'elle
 part, c'est à lui qu'elle revient. »
-(Brochard, Revue philosophique ,
+(Brochard, *Revue philosophique* ,
 t. XII . )
 Certains logiciens modernes sont allés plus loin encore . On a pu
 définir la logique formelle, la science des rapports les plus géné-
@@ -30614,11 +29074,7 @@ substituts (idées, termes) par lesquels notre esprit pense les choses
 et en parle . Elle est l'ensemble des règles auxquelles l'expression ,
 l'exposition doivent se soumettre, si elles ne veulent pas nous
 trahir . Descartes , quand il critiquait la logique, avait bien vu les
-services qu'elle peut rendre par ce côté . Bien qu'il l'accusat de sté
-
-[p. 542]
-
-rilité partout ailleurs , il reconnaissait qu'elle était la seuře direc-
+services qu'elle peut rendre par ce côté . Bien qu'il l'accusat de sté [p. 542] rilité partout ailleurs , il reconnaissait qu'elle était la seuře direc-
 trice possible , quand nous voulons exposer les résultats de notre
 pensée.
 La logique formelle est donc l'art d'exprimer sa pensée d'une
@@ -30668,11 +29124,7 @@ Pour arriver à une
 conclusion vraie, il faut évidemment et d'abord que nous ne con-
 tredisions pas les prémisses dont nous partons ; que nous
 sovons
-d'accord avec nous-mêmes, dans toute la suite de nos opérations
-
-[p. 543]
-
-mentales ; toutes les erreurs seraient possibles , et tous les moyens
+d'accord avec nous-mêmes, dans toute la suite de nos opérations [p. 543] mentales ; toutes les erreurs seraient possibles , et tous les moyens
 de contrôle supprimés, si nous nous permettions l'incohérence et la
 contradiction ; cela va de soi .
 
@@ -30719,9 +29171,7 @@ vente pas ; il ordonne et tire les conséquences : rien de plus . C'est
 une des règles les mieux établies de la méthode scientifique mo-
 derne qu'une vérité ne peut être découverte par raisonnement .
 
-[p. 544]
-
-Seule l'intuition
+[p. 544] Seule l'intuition
 mathématique on expérimentale
 peut nous
 faire
@@ -30773,9 +29223,7 @@ lui est au fond identique . Si nous partons du vrai, nous ne pouvons
 donc que rester dans le vrai, en raisonnant par syllogisme ; et c'est
 une garantie qui a bien sa valeur .
 
-[p. 545]
-
-1.
+[p. 545] 1.
 
 11.
 
@@ -30822,11 +29270,7 @@ général de la magie quelques tendances qui, après avoir évolué,
 se retrouveront plus tard dans l'esprit scientifique : l'idée que les
 choses sont liées entre elles et agissent les unes sur les autres (pre-
 mière intuition de l'idée de cause), et l'idée qu'il est possible à
-35
-
-[p. 546]
-
-l'homme de modifier l'ordre des choses en agissantd'après les liaisons
+35 [p. 546] l'homme de modifier l'ordre des choses en agissantd'après les liaisons
 qu'elles ont entre elles (première institution de l'expérimentation et
 du pouvoir que la science peut donner à l'homme sur la nature) .
 Mais la magie se rapproche des traditions religieuses beaucoup
@@ -30873,11 +29317,7 @@ tiques bizarres .
 Ces recettes sont suivies de lafaçon la plus scrupuleuse. Le prin-
 cipe d'autorité règne là encore en maître ; il fait obstacle à l'ini-
 tiative,
-au progrès, aux recherches nouvelles . Toutefois l'idée
-
-[p. 547]
-
-que c'est l'homme qui crée par des moyens humains les produits
+au progrès, aux recherches nouvelles . Toutefois l'idée [p. 547] que c'est l'homme qui crée par des moyens humains les produits
 de son art, habitue peu à peu à considérer qu'il est possible
 de connaître les secrets de la nature et de les utiliser pour se
 rendre maître de cette nature . L'esprit humain se déshabitue ainsi
@@ -30921,11 +29361,7 @@ suffisants ;
 l'esprit scientifique se présente donc immédiatement
 comme un effort pour satisfaire la curiosité aussi complètement que
 possible , grâce à la recherche des raisons ou des causes . Ils n'utili-
-seront la formule que si elle est fondée en raison c'est-à-dire si elle
-
-[p. 548]
-
-est aperçue clairement par l'esprit comme la conséquence de quelque
+seront la formule que si elle est fondée en raison c'est-à-dire si elle [p. 548] est aperçue clairement par l'esprit comme la conséquence de quelque
 autre chose que l'esprit ait déjà expliquée ou qu'il trouve suffisam-
 ment claire pour être prise comme point de départde l'explication .
 En d'autres termes , l'esprit ne veut pas de mystère, il cherche à com-
@@ -30970,11 +29406,7 @@ eue dans les forces de l'esprit humain, pour résoudre ces nouveaux
 problèmes : leur grandeur ici a été, par opposition aux civilisations
 de l'Orient qui n'admettaient dans ces domaines que la tradition
 religieuse, de multiplier les hypothèses, grâce à une méthode de
-libre examen absolu : si bien qu'il est peu de théories scientifiques
-
-[p. 549]
-
-modernes dont on ne puisse retrouver les pressentiments grossiers
+libre examen absolu : si bien qu'il est peu de théories scientifiques [p. 549] modernes dont on ne puisse retrouver les pressentiments grossiers
 dans les œuvres des philosophes grecs. Ce qui leur manqua pour
 fonder d'une façon positive les sciences de la nature, comme ils
 avaient fondé d'une façon positive les sciences mathématiques, ce
@@ -31026,9 +29458,7 @@ que les Grecs avaient mises dans leur vraie voie et qui , grâce à la
 simplicité de leur objet, pouvaient se continuer à peu près par le
 seul raisonnement, eurent quelque prospérité.
 
-[p. 550]
-
-III .
+[p. 550] III .
 LA SCIENCE POSITIVE
 
 Lorsqu'enfin ,
@@ -31066,7 +29496,7 @@ mentale et rationnelle .
 Mais il a fallu presque jusqu'à nos jours pour émanciper -
 comme on le verra dans la suite
 l'ensemble des sciences parti-
-culières des habitudes métaphysiques, des idées a priori , et des
+culières des habitudes métaphysiques, des idées *a priori* , et des
 vues purement imaginatives de l'esprit. Il a fallu jusqu'à nos
 jours aussi pour émanciper l'esprit scientifique de toute considéra-
 tion extérieure à la recherche de la vérité .
@@ -31079,11 +29509,7 @@ qu'eut à
 lutter
 la
 science : ce serait une grosse erreur de le croire. C'est contre l'es-
-prit religieux sous toutes ses faces, etjusque dans ses conséquences
-
-[p. 551]
-
-les plus
+prit religieux sous toutes ses faces, etjusque dans ses conséquences [p. 551] les plus
 lointaines,
 les moins aisément perceptibles, que
 le
@@ -31135,11 +29561,7 @@ chaque fois que la chose est possible, le domaine théologique est
 restreint à la création et laisse, à partir de là, le champ libre à la
 physique .
 Vers la fin du xvme siècle , on est frappé par un revirement en
-apparence tout à fait subit, mais qui, au fond, est une consé
-
-[p. 552]
-
-quence nécessaire du processus de développement que nous avons
+apparence tout à fait subit, mais qui, au fond, est une consé [p. 552] quence nécessaire du processus de développement que nous avons
 décrit . Lagrange , après avoir, dans une œuvre de jeunesse , voulu
 baser toute la mécanique sur le principe de la moindre action d'Eu-
 ler, reprit à nouveau le même sujet et déclara qu'il voulait s'abs-
@@ -31178,9 +29600,7 @@ le xvm
 siècle un sentiment de mélancolique regret. » (Mach, la
 Mécanique , p . 419 sq .)
 
-[p. 553]
-
-LES SCIENCES .
+[p. 553] LES SCIENCES .
 
 -
 
@@ -31234,11 +29654,7 @@ une forêt deux feuilles d'arbre qui soient exactement identiques ; et
 chaque feuille considérée en elle-même varie, si peu que ce soit,
 d'un instant à l'autre, car elle est le siège d'une infinité de phéno-
 mènes chimiques. Mais, dès que l'observation se fait attentive et
-réfléchie, on s'aperçoit que, sous ces changements, il y a des élé
-
-[p. 554]
-
-ments fixes qui se présentent toujours d'une manière semblable .
+réfléchie, on s'aperçoit que, sous ces changements, il y a des élé [p. 554] ments fixes qui se présentent toujours d'une manière semblable .
 La variété n'exclut pas certaines analogies et certaines uniformités .
 Les feuilles d'un chêne ont toutes une contexture identique, si elles
 diffèrent toutes par quelque détail, et les phénomènes chimiques
@@ -31291,9 +29707,7 @@ gaz étaient eux-mêmes soumis à l'action de la pesanteur. J'ai fait
 l'expérience dans différents milieux, dans l'atmosphère à divers
 degrés de condensation , dans l'air raréfié, dans le vide le moins
 
-[p. 555]
-
-LES SCIENCES
+[p. 555] LES SCIENCES
 CLASSIFICATION DES SCIENCES
 555
 
@@ -31342,11 +29756,7 @@ sance scientifique substitue donc des notions claires et distinctes
 aux idées obscures que l'on se fait spontanément des choses . Et
 c'est cette simplicité, par la clarté qu'elle entraîne, qui nous permet
 d'éviter, autant qu'il est possible , l'erreur .
-3º Enfin , et c'est là le caractère fondamental de la science , elle
-
-[p. 556]
-
-ramène le contingent au nécessaire. Une fois que nous avons
+3º Enfin , et c'est là le caractère fondamental de la science , elle [p. 556] ramène le contingent au nécessaire. Une fois que nous avons
 expliqué un ensemble de phénomènes par des lois générales et
 simples , nous voyons nettement comment ces phénomènes se pro-
 duisent, et qu'ils ne pourraient pas se produire autrement. Il est
@@ -31396,9 +29806,7 @@ La loi se présente à l'ordinaire
 comme un rapport général, simple et nécessaire établi entre deux
 groupes de phénomènes . Ce rapport comprend deux termes qui sont
 
-[p. 557]
-
-LES SCIENCES
+[p. 557] LES SCIENCES
 CLASSIFICATION DES SCIENCES
 557
 
@@ -31447,9 +29855,7 @@ hypothèse et seraient rapportées à deux causes très générales
 l'adaptation au milieu et la sélection naturelle . De même, en phy-
 sique, en chimie, tous les phénomènes seraient commandés par les
 
-[p. 558]
-
-م
+[p. 558] م
 
 lois relatives aux transformations de l'énergie, et mieux encore , une
 hypothèse prétend déduire ces lois de celles qui régissent le mou-
@@ -31501,9 +29907,7 @@ Pourquoi le charbon , l'hydrogène, en se combinant avec l'oxy-
 gène , produisent-ils de la chaleur ? Telle est la question qui se pré-
 sente maintenant à nous . L'expérience des chimistes a répondu que
 
-[p. 559]
-
-LES SCIENCES
+[p. 559] LES SCIENCES
 : CLASSIFICATION DES SCIENCES
 559
 
@@ -31559,9 +29963,7 @@ indiqué immédiatement par la marche même de l'analyse à l'aide
 
 -
 
-[p. 560]
-
-de laquelle la science s'est élevée aux notions les plus générales
+[p. 560] de laquelle la science s'est élevée aux notions les plus générales
 dans tous les genres de la connaissance humaine.
 Il n'y a qu'à
 partir de celles-ci, et à redescendre peu à peu, en les combinant
@@ -31610,9 +30012,7 @@ de l'évolution, destinées à rattacher entre eux tous les phénomènes
 et à les déduire de quelques lois très générales .
 L'analyse et la synthèse sont donc les deux démarches néces
 
-[p. 561]
-
-LES SCIENCES
+[p. 561] LES SCIENCES
 CLASSIFICATION DES SCIENCES
 561
 
@@ -31664,11 +30064,7 @@ vant est toujours prêt à renier ses théories, si une expérience
 dément indiscutablement une de leurs conséquences .
 On pourrait dire alors que les mathématiques ne méritent pas le
 
-36
-
-[p. 562]
-
-562
+36 [p. 562] 562
 LOGIQUE
 nom de science positive, car il ne paraît point qu'on y fait des expé-
 riences . Mais , outre qu'un grand nombre de mathématiciens croient
@@ -31717,9 +30113,7 @@ colonne d'air au-dessus de chaque plateau était la même et que la
 véritable cause de la rupture d'équilibre était le poids de la vapeur
 l'eau et de l'acide carbonique, contenus dans l'air insufflé dans l'outre .
 
-[p. 563]
-
-LES SCIENCES
+[p. 563] LES SCIENCES
 : CLASSIFICATION DES SCIENCES
 563
 
@@ -31769,11 +30163,7 @@ encore par la possibilité de la mesure .
 
 3º LE RAISONNEMENT .
 Une science n'est pas un ensemble inor-
-ganique d'expériences et de mesures isolées. Bien au contraire , la
-
-[p. 564]
-
-science, cherchant le général, met, par les lois qu'elle découvre ,
+ganique d'expériences et de mesures isolées. Bien au contraire , la [p. 564] science, cherchant le général, met, par les lois qu'elle découvre ,
 l'unité dans les phénomènes naturels. Elle nous donne du monde
 une vue de plus en plus synthétique ; par ses théories, elle orga-
 nise les faits en systèmes . Le savant, comme dit Bacon , ne doit res-
@@ -31791,7 +30181,7 @@ C'est par le raisonnement déductif que la science moderne réalise
 dans ses théories cette unification systématique des données expé-
 rimentales . Mais cet emploi du raisonnement se distingue encore
 très nettement de l'emploi que la science antique ou du moyen âge
-en faisait. La science antique raisonnait, mais raisonnait a priori.
+en faisait. La science antique raisonnait, mais raisonnait *a priori*.
 Le raisonnement était vague et fuyant comme la parole peut l'être .
 C'était moins de la logique que de la rhétorique ; c'était de la dia-
 lectique .
@@ -31820,9 +30210,7 @@ que la science moderne tend de plus en plus à revêtir, à mesure
 qu'elle rationalise son contenu expérimental, grace aux rapports
 systématiques , logiques, qu'elle aperçoit entre toutes les lois natu
 
-[p. 565]
-
-LES SCIENCES
+[p. 565] LES SCIENCES
 : CLASSIFICATION DES SCIENCES
 565
 
@@ -31870,11 +30258,7 @@ champ clos où luttaient les hypothèses ,
 sans que jamais l'une
 d'entre elles pût triompher assurément des autres .
 La science moderne est faite , au contraire , par un travail collectif
-auquel les simples talents et tous les laborieux collaborent à côté
-
-[p. 566]
-
-des hommes de génie. Et ce n'est pas l'ingéniosité, la puissance
+auquel les simples talents et tous les laborieux collaborent à côté [p. 566] des hommes de génie. Et ce n'est pas l'ingéniosité, la puissance
 d'un individu , si admirable soit-il, qui fait admettre une conclu-
 sion scientifique , c'est l'expérience que tout le monde peut répéter .
 On ne doit croire que lorsqu'on a vu . Et l'on ne s'en fie même pas
@@ -31904,9 +30288,7 @@ rationnelle , et qu'on dit que les savants modernes sont rationalistes .
 Ils n'admettent en effet que ce que leur raison est contrainte d'ac-
 cepter par l'expérience ou la logique .
 
-[p. 567]
-
-LES SCIENCES
+[p. 567] LES SCIENCES
 CLASSIFICATION DES SCIENCES
 567
 
@@ -31956,11 +30338,7 @@ matérielle et intellectuelle
 : elle l'est aussi à notre vie morale et
 sociale :
 
-« C'est énoncer une vérité désormais banale que de dire que ce
-
-[p. 568]
-
-sont les idées qui mènent le monde. C'est d'ailleurs dire plutôt ce
+« C'est énoncer une vérité désormais banale que de dire que ce [p. 568] sont les idées qui mènent le monde. C'est d'ailleurs dire plutôt ce
 qui devrait être et ce qui sera que ce qui a été... Mais ce qui reste
 incontestable, c'est que l'humanité tend sans cesse à travers ses
 oscillations à un état plus parfait et qu'elle a le droit et le pouvoir
@@ -32005,9 +30383,7 @@ part des savants . Que nous consultions les philosophes depuis les
 premiers Sages de la Grèce jusqu'à Kant , ou que nous nous réfé-
 rions au positivisme, la science, comme son nom l'indique , a surtout
 
-[p. 569]
-
-LES SCIENCES
+[p. 569] LES SCIENCES
 CLASSIFICATION DES SCIENCES
 569
 
@@ -32058,9 +30434,7 @@ L'opinion qui n'attribue à la science qu'une valeur pratique, une
 valeur d'utilité et lui dénie toute valeur de savoir, paraît donc au
 moins hasardée .
 
-[p. 570]
-
-IV.
+[p. 570] IV.
 CLASSIFICATIONS DES SCIENCES .
 -
 
@@ -32103,11 +30477,7 @@ des spécialistes modernes un nouveau genre de spécialistes qui
 s'occuperaient des généralités et qui, au lieu de rester cantonnés
 dans l'étude d'un chapitre particulier de la science, étendraient leurs
 recherches à la science toute entière. Ces spécialistes seraient les
-philosophes . Et la première tâche qui s'offrirait à leurs efforts ,
-
-[p. 571]
-
-LES SCIENCES
+philosophes . Et la première tâche qui s'offrirait à leurs efforts , [p. 571] LES SCIENCES
 CLASSIFICATION DES SCIENCES
 571
 
@@ -32158,11 +30528,7 @@ individuelles (scientifiques) comme le naturaliste considère les
 diverses espèces de végétaux et d'animaux...
 « Les groupes où se trouveront réunies les vérités qui ont entre
 elles les rapports les plus intimes correspondront aux genres du
-naturaliste , et seront des sciences du dernier ordre . Elles se réuni
-
-[p. 572]
-
-ront en sciences de l'ordre immédiatement précédent, comme les
+naturaliste , et seront des sciences du dernier ordre . Elles se réuni [p. 572] ront en sciences de l'ordre immédiatement précédent, comme les
 genres se réunissent en familles . De ces nouvelles sciences se for-
 meront des sciences plus étendues qui correspondront aux ordres
 adoptés en histoire naturelle, et ainsi de suite, jusqu'à ce qu'on
@@ -32214,9 +30580,7 @@ Reste à savoir
 et c'est en cela que consiste le problème de la
 classification des sciences- si l'on peut trouver entre elles un ordre
 
-[p. 573]
-
-LES SCIENCES
+[p. 573] LES SCIENCES
 CLASSIFICATION DES SCIENCES
 573
 
@@ -32266,9 +30630,7 @@ Enfin la sociologie ne s'occupe que des relations qui peuvent
 exister
 entre les hommes .
 
-[p. 574]
-
-C) OBJECTIONS APPORTÉES A LA CLASSIFICATION DE COMTE ET CLASSIFI-
+[p. 574] C) OBJECTIONS APPORTÉES A LA CLASSIFICATION DE COMTE ET CLASSIFI-
 CATION DE SPENCER .
 On a fait à la classification de Comte les
 objections suivantes
@@ -32322,9 +30684,7 @@ entre la longueur et la largeur d'un rectangle, en supprimant par
 la pensée tout ce que je vois, je fais des mathématiques , je suis
 dans le domaine des sciences abstraites . Les sciences , qui s'occupent
 
-[p. 575]
-
-LES SCIENCES
+[p. 575] LES SCIENCES
 : CLASSIFICATION DES SCIENCES
 575
 
@@ -32374,9 +30734,7 @@ de phénomènes, les êtres distincts que l'expérience nous présente
 deux grandes classes on rangera les sciences en suivant le prin-
 cipe de Comte (complexité croissante de l'objet) .
 
-[p. 576]
-
-376
+[p. 576] 376
 LOGIQUE
 On arrive ainsi au tableau suivant
 :
@@ -32438,9 +30796,7 @@ La première hypothèse constitue le monisme scientifique . D'après
 elle tous
 les phénomènes de la nature peuvent se réduire à
 
-[p. 577]
-
-LES SCIENCES
+[p. 577] LES SCIENCES
 CLASSIFICATION DES SCIENCES
 577
 
@@ -32493,11 +30849,7 @@ ne peuvent être que descriptives et historiques , ou encore une
 recherche idéale de règles à proposer à l'activité humaine (esthé-
 tique, logique , morale, droit, politique, économique, etc.) ; ici il ne
 
-37
-
-[p. 578]
-
-peut être parlé de cause et d'effets, de lois nécessaires, car la liberté
+37 [p. 578] peut être parlé de cause et d'effets, de lois nécessaires, car la liberté
 humaine s'y opposerait .
 La question ne peut encore être tranchée d'une façon décisive .
 Cependant on peut remarquer que les sciences tendent de plus en
@@ -32542,9 +30894,7 @@ même en deux sous-groupes : a) le groupe des sciences de la nature,
 où les faits nous sont donnés immédiatement, et où nous pouvons
 observer et expérimenter directement ; et b) le groupe des sciences
 
-[p. 579]
-
-LES SCIENCES
+[p. 579] LES SCIENCES
 CLASSIFICATION DES SCIENCES
 579
 morales (psychologie et sociologie) , où nous sommes obligés de
@@ -32553,9 +30903,7 @@ expérimenter qu'indirectement . Cette division trace le plan de nos
 études logiques, puisque nous nous proposons d'étudier non les
 sciences , mais leurs méthodes .
 
-[p. 580]
-
-1.
+[p. 580] 1.
 
 11 .
 
@@ -32631,9 +30979,7 @@ sur des relations et que les relations quantitatives, objet propre
 des mathématiques , sont encore des mesures, on définit quelquefois
 la mathématique la science de la mesure .
 
-[p. 581]
-
-Les sciences mathématiques , dans leur état actuel, se caracté-
+[p. 581] Les sciences mathématiques , dans leur état actuel, se caracté-
 risent, d'une façon grossière et superficielle peut- être , mais qui se
 prête par cela même très aisément à les déterminer, en ce que
 l'expérience n'intervient pas, au moins d'une façon directe , dans
@@ -32674,11 +31020,7 @@ position entre les différentes parties d'un objet sont remarquable-
 ment précisées. D'ailleurs, les peuples qui furent comme les Égyp-
 tiens de grands constructeurs devaient nécessairement s'intéresser
 à la géométrie , qui leur fournissait le moyen de dessinerd'une façon
-exacte leurs plans. Un des facteurs les plus importants du dévelop
-
-[p. 582]
-
-pementde la géométrie est aussi la nécessité où les peuples primi-
+exacte leurs plans. Un des facteurs les plus importants du dévelop [p. 582] pementde la géométrie est aussi la nécessité où les peuples primi-
 tifs se trouvaient de mesurer et de diviser la terre pour en distri-
 buer les parcelles ; les premières formes de propriété apparaissent
 presque partout collectives .
@@ -32725,11 +31067,7 @@ de départ dans l'expérience, d'abord sous une forme concrète . << Quoi-
 qu'elle puisse entrer dans
 la conscience par plusieurs portes ,
 quelques psychologues, sans raisons légitimes, ont attribué son
-origine à un mode déterminé de perception externe ou même interne
-
-[p. 583]
-
-qu'ils ont choisi à l'exception de tout autre . >> Pour les uns , c'est le
+origine à un mode déterminé de perception externe ou même interne [p. 583] qu'ils ont choisi à l'exception de tout autre . >> Pour les uns , c'est le
 toucher ; là où il y a des pleins et des vides, où il y a discontinuité
 on aperçoit une pluralité, et on a l'idée de la nombrer, c'est-à-dire de
 compter à chaque discontinuité une unité nouvelle . Pour d'autres ,
@@ -32774,11 +31112,7 @@ une collection d'unités .
 Rassembler, collectionner des unités , d'une façon précise , c'est-à-
 dire les compter, les nombrer, est l'opération que l'on appelle
 numération . Elle est dite cardinale quand il s'agit de savoir d'une
-façon précise combien la collection enferme d'unités , ordinale ,
-
-[p. 584]
-
-| quand il s'agit en outre d'ordonner tous les termes qui composent
+façon précise combien la collection enferme d'unités , ordinale , [p. 584] | quand il s'agit en outre d'ordonner tous les termes qui composent
 la collection , en assignant à chacun un rang . Il semble que le
 nombre cardinal, c'est-à-dire l'idée de simple collection , ait pré-
 cédé l'idée de nombre ordinal ,
@@ -32823,9 +31157,7 @@ nombres se confondent avec les noms des doigts (d'où très proba-
 blement l'origine de la numération décimale). Le vulgaire compte
 encore partout sur les doigts .
 
-[p. 585]
-
-Les Babyloniens onteu unsystèmede numération très curieux . Dans
+[p. 585] Les Babyloniens onteu unsystèmede numération très curieux . Dans
 une tablette trouvée récemment et qui date d'au moins 1600 ans ,
 si ce n'est même de 2300 ans , avant notre ère , on trouve les carrés
 des nombres entiers jusqu'à 60. Ces carrés sont indiqués pour les
@@ -32873,11 +31205,7 @@ contemporains ,
 le nombre 10.000 représente
 l'infini .
 
-Il faut encore remarquer que, sauf chez les Babyloniens, l'on ne
-
-[p. 586]
-
-voit pas apparaître, pour représenter les nombres, deprincipe multi-
+Il faut encore remarquer que, sauf chez les Babyloniens, l'on ne [p. 586] voit pas apparaître, pour représenter les nombres, deprincipe multi-
 plicatif (numération de position) ; même chez les Grecs et chez les
 Romains , la numération est purement additive, c'est-à-dire qu'il
 suffit d'additionner les signes qui forment un nombre pour avoir la
@@ -32917,11 +31245,7 @@ Descartes dans laquelle on peut raisonner algébriquement sans
 opérer une construction figurée .
 Les connaissances géométriques se réduisent à quelques consi-
 dérations expérimentales , très approchées, aussi bien chez les Baby-
-loniens que chez les Égyptiens. Les Babyloniens et les Hébreux
-
-[p. 587]
-
-estiment que le rapport de la circonférence à son diamètre est égal
+loniens que chez les Égyptiens. Les Babyloniens et les Hébreux [p. 587] estiment que le rapport de la circonférence à son diamètre est égal
 à 3. Les Égyptiens considèrent que la surface d'un triangle est le
 produit de la moitié du plus grand coté par le plus petit. Il n'y a
 aucune méthode rationnelle de démonstration pour toutes les pro-
@@ -32972,9 +31296,7 @@ d'assez haute culture, on chercherait en vain l'emploi du pentagone
 ou du décagone régulier, figures dont la construction est assez
 compliquée... » (Id. )
 
-[p. 588]
-
-V.
+[p. 588] V.
 PRÉHISTOIRE DE L'ARITHMÉTIQUE
 -
 
@@ -33017,9 +31339,7 @@ l'unité. Souvent encore actuellement les élèves ont de la peine à
 comprendre comment on peut multiplier ou diviser par une
 fraction . Ils n'imaginent pas l'opération .
 
-[p. 589]
-
-De tous les vestiges que ces peuples nous ont laissés de leurs
+[p. 589] De tous les vestiges que ces peuples nous ont laissés de leurs
 mathématiques on peut conclure ceci : ils nous présentent un très
 grand effort pour arriver à isoler les relations numériques des
 expériences concrètes qui donnent occasion de les concevoir , mais
@@ -33072,11 +31392,7 @@ représentable. L'impossibilité de penser les rapports, même les plus
 simples , indépendamment de choses concrètes , voilà ce qui em-
 pêche les mathématiques de prendre la forme qu'elles revêtiront
 plus tard.
-Dans toute la période que nous avons examinée et que l'on peut
-
-[p. 590]
-
-qualifier de préscientifique, nous ne voyons que des opérations faites
+Dans toute la période que nous avons examinée et que l'on peut [p. 590] qualifier de préscientifique, nous ne voyons que des opérations faites
 sur les objets réels ou sur leurs images . Nous ne voyons que des
 esprits absorbés dans le concret et qui ne peuvent comprendre qu'à
 condition de voir une forme concrète .
@@ -33120,9 +31436,7 @@ et la géométrie des Égyptiens, les résultats approchés que l'on y
 trouve rappellent par leur forme générale les lois approchées de
 nos sciences expérimentales .
 
-[p. 591]
-
-VII . - DÉVELOPPEMENT DES MATHÉMATIQUES CHEZ LES GRECS.
+[p. 591] VII . - DÉVELOPPEMENT DES MATHÉMATIQUES CHEZ LES GRECS.
 
 CONSTITUTION DE LA GÉOMÉTRIE COMME SCIENCE RATIONNELLE .
 
@@ -33166,9 +31480,7 @@ Il ne faut pas s'étonner que les Grecs, qui furent les
 créateurs de la logique, aient été aussi les créateurs des mathéma-
 tiques : l'un ne pouvait aller sans l'autre .
 
-[p. 592]
-
-La géométrie devient alors science positive , en devenant science
+[p. 592] La géométrie devient alors science positive , en devenant science
 rationnelle . Les rapports qui s'établissent entre les objets, par suite
 de leur situation dans l'espace, les rapports qui unissent telles
 portions de l'étendue, telles figures , aux éléments qui les condition-
@@ -33212,11 +31524,7 @@ et de nombre, de ligne, de surface, de volume, de position
 point) , de distance, et quelques rapports simples impliqués par
 ces notions ou construits à leur aide . Aussi , une fois cette base
 fixée d'une façon inébranlable, on pouvait immédiatement et sans
-faire appel à des expériences précises opérer d'une façon exclusi
-
-[p. 593]
-
-vement rationnelle . Les mathématiques ont un objet si simple que
+faire appel à des expériences précises opérer d'une façon exclusi [p. 593] vement rationnelle . Les mathématiques ont un objet si simple que
 sa représentation expérimentale est en quelque sorte
 présente
 constamment à l'espritet qu'on n'a pas besoin d'y faire appel d'une
@@ -33267,9 +31575,7 @@ Il ne semble pas en effet que les
 
 38
 
-[p. 594]
-
-Grecs aient pu concevoir le nombre pur sans une intuition géomé-
+[p. 594] Grecs aient pu concevoir le nombre pur sans une intuition géomé-
 trique , et les relations de nombre sans les relations encore concrètes
 de l'étendue
 : ce qui explique que , remarquables géomètres ,
@@ -33315,11 +31621,7 @@ assigne dans la numération à chaque chiffre une valeur suivant sa
 place, les règles de calcul qui y sont attachées et qui sont devenues
 les règles de nos quatre opérations, sont nettement énoncées dans
 la mathématique hindoue. Le chiffre 0, très importantdans ce sys-
-tème de numération, se trouve déjà dans des ouvrages du vº siècle
-
-[p. 595]
-
-après Jésus-Christ et il marque un puissant effort d'abstraction . Il
+tème de numération, se trouve déjà dans des ouvrages du vº siècle [p. 595] après Jésus-Christ et il marque un puissant effort d'abstraction . Il
 est vraisemblable que lesArabes , dès le moyen âge , ont dû beaucoup
 à la mathématique hindoue . Il est en tout cas incontestable qu'à la
 fin du moyen age, les Occidentaux sont en possession d'un système
@@ -33368,9 +31670,7 @@ et des signes symboliques pour indiquer d'une façon générale cer-
 taines opérations . Certes, déjà, chez les Pythagoriciens on employait
 des signes et des lettres pour indiquer des opérations mathématiques.
 
-[p. 596]
-
-Mais Viète a vu qu'au lieu d'employer ce procédé au hasard des
+[p. 596] Mais Viète a vu qu'au lieu d'employer ce procédé au hasard des
 circonstances et pour les cas particuliers qui s'y prétaient d'une
 façon
 très naturelle ,
@@ -33424,11 +31724,7 @@ cette dernière science en introduisant l'idée de grandeur dirigée et
 d'expressions algébriques représentant non seulement des nombres
 ou des figures, mais encore des directions dans l'espace .
 Jusqu'ici
-les progrès faits dans l'abstraction permettaient de
-
-[p. 597]
-
-traiter les grandeurs finies et déterminées ; mais on n'avait pas en-
+les progrès faits dans l'abstraction permettaient de [p. 597] traiter les grandeurs finies et déterminées ; mais on n'avait pas en-
 core conçu des grandeurs n'existant que comme
 rapports entre
 grandeurs variables . Pour cela il faut abandonner résolument toute
@@ -33480,11 +31776,7 @@ siècle, l'ensemble des pro-
 blèmes capitaux du calcul différentiel et intégral, c'est-à-dire de
 l'analyse infinitésimale était résolu pour les fonctions alors en
 usage , mais il ne l'était que comme solution particulière de ques-
-tions dont les données étaient bien déterminées et représentées
-
-[p. 598]
-
-toujours d'une façon plus ou moins intuitive ; on ne possédait ni
+tions dont les données étaient bien déterminées et représentées [p. 598] toujours d'une façon plus ou moins intuitive ; on ne possédait ni
 méthode générale ni notions suffisammentabstraites et rationnelles
 pour permettre l'établissement de cette méthode. Chaque géomètre
 avait d'ailleurs ses notations particulières , et tout ce qui ce rappor-
@@ -33527,11 +31819,7 @@ nécessaires , les lois, qui les relient entre elles, ou relient leurs
 Cette abstraction permettait aussi l'application de méthodes de
 plus en plus générales et de plus en plus rigoureuses. Le symbo-
 lisme opératoire parait avoir été la condition nécessaire de la géné-
-ralisation de ces méthodes ; si bien qu'actuellement les mathéma
-
-[p. 599]
-
-tiques paraissent réduites à une sorte de symbolisme mécanique
+ralisation de ces méthodes ; si bien qu'actuellement les mathéma [p. 599] tiques paraissent réduites à une sorte de symbolisme mécanique
 n'opérant que sur des signes et à une série d'opérations purement
 logiques .
 Elles sont fort loin de l'expérience et elles s'éloignent beaucoup
@@ -33540,9 +31828,7 @@ toute intuition ? C'est un problème qu'agite la critique de ces
 sciences , mais qu'elle n'a pas encore résolu . Nons le retrouverons
 au chapitre suivant .
 
-[p. 600]
-
-CHAPITRE XXXV
+[p. 600] CHAPITRE XXXV
 
 MÉTHODE DÉDUCTIVE
 SCIENCES MATHÉMATIQUES
@@ -33619,9 +31905,7 @@ des vérités qui nous étaient auparavant inconnues ; constamment
 encore elles s'enrichissent de découvertes nouvelles . C'est ainsi que
 l'algèbre a été une généralisation de l'arithmétique, que la notion
 
-[p. 601]
-
-MÉTHODE DÉDUCTIVE .
+[p. 601] MÉTHODE DÉDUCTIVE .
 601
 SCIENCES MATHÉMATIQUES
 
@@ -33675,9 +31959,7 @@ part l'étude des éléments qui viennent sans cesse alimenter la
 déduction en apportant à notre connaissance des données nouvelles
 qui n'étaient pas contenues dans les données antérieures .
 
-[p. 602]
-
-II .
+[p. 602] II .
 LES ÉLÉMENTS DE LA DÉDUCTION MATHÉMATIQUE .
 
 La déduction mathématique comporte
@@ -33723,9 +32005,7 @@ séquences elles-mêmes .
 déterminée soit dans une collection d'unités , soit dans l'espace con-
 tinu, matières communes de tous les nombres et de toutes les figures .
 
-[p. 603]
-
-MÉTHODE DÉDUCTIVE .
+[p. 603] MÉTHODE DÉDUCTIVE .
 603
 SCIENCES MATHÉMATIQUES
 
@@ -33775,11 +32055,7 @@ puis , sans le détruire, y ajouter ou en retrancher une unité . De
 même le point dont le mouvement engendre une ligne droite ne
 peut changer de direction sans qu'aussitôt la figure engendrée soit
 autre .
-))
-
-[p. 604]
-
-4° Par suite , « les définitions mathématiques sont absolument unı-
+)) [p. 604] 4° Par suite , « les définitions mathématiques sont absolument unı-
 verselles » (Id. ) . Quel que soit le moment, le lieu où nous considérons
 un nombre donné , il aura toujours la même loi de formation et les
 mêmes propriétés . De même pour une figure géométrique . Si leurs
@@ -33830,9 +32106,7 @@ avec l'expérience . Hypothèse en mathématiques signifierait donc
 ce qu'on prend pour accordé, ce dont on part, — et serait toujours
 assez voisin de ce qu'on appelle hypothèse dans l'énoncé d'un théo
 
-[p. 605]
-
-MÉTHODE DÉDUCTIVE .
+[p. 605] MÉTHODE DÉDUCTIVE .
 605
 SCIENCES MATHÉMATIQUES
 
@@ -33885,11 +32159,7 @@ des sciences de la nature enrichit la conception que nous nous
 faisions des faits qu'elle concerne et leur donne parfois un sens tout
 à fait nouveau . Par exemple, la définition de la circonférence
 comme section conique l'apparente aux autres coniques; de même
-sa définition par son équation analytique . Ainsi se trouve facilitée
-
-[p. 606]
-
-la solution de toute une série de questions, ou s'entrevoient des
+sa définition par son équation analytique . Ainsi se trouve facilitée [p. 606] la solution de toute une série de questions, ou s'entrevoient des
 aperçus nouveaux .
 2º Dans les autres cas , les plus fréquents, on ne peut pas dire
 que la définition nouvelle modifie la notion ou l'enrichit , car l'en-
@@ -33937,9 +32207,7 @@ développement de la science .
 En général , on rencontre , en chemin, les postulats, tandis que
 les axiomes sont énoncés dans les préliminaires de la science .
 
-[p. 607]
-
-MÉTHODE DÉDUCTIVE .
+[p. 607] MÉTHODE DÉDUCTIVE .
 607
 SCIENCES MATHÉMATIQUES
 
@@ -33996,11 +32264,7 @@ Ces jugements ont cette particularité d'unir le terme sujet au
 terme attribut par la copule égale =. Cette copule n'est que la
 copule est avec un sens plus précis et plus fort. A la perception
 d'un rapport plus ou moins vague que signifie dans un jugement
-ordinaire la copule est, la copule égale substitue l'affirmation d'un
-
-[p. 608]
-
-rapport d'équivalence absolue et rigoureuse . Ce sont des rela-
+ordinaire la copule est, la copule égale substitue l'affirmation d'un [p. 608] rapport d'équivalence absolue et rigoureuse . Ce sont des rela-
 tions d'équivalence établissant en définitive une identité entre des
 éléments qui ne laissent pas apercevoir cette identité d'une façon
 immédiate .
@@ -34048,9 +32312,7 @@ PREMIER CAS . - Synthèse immédiate par superposition.
 «Soit à démontrer que deux triangles, qui ont un angle sgal compris
 entre deux côtés égaux chacun à chacun, sont égaux .
 
-[p. 609]
-
-MÉTHODE DÉDUCTIVE .
+[p. 609] MÉTHODE DÉDUCTIVE .
 609
 SCIENCES MATHÉMATIQUES
 
@@ -34120,11 +32382,7 @@ les deux triangles AOD et
 EOC sont égaux ; le trapèze
 est égal à la somme de AOCB et de AOD ; si j'en retranche le
 
-39
-
-[p. 610]
-
-triangle AOD et que j'y ajoute le triangle égal COE, la surface
+39 [p. 610] triangle AOD et que j'y ajoute le triangle égal COE, la surface
 totale n'est ni augmentée ni diminuée. Par conséquent, le trapèze
 ABCD est équivalent au triangle ABE, qui a pour mesure le produit
 de la somme BC et CE par la moitié de sa hauteur .
@@ -34188,9 +32446,7 @@ termes du carré r² + px + 2; j'ajoute
 4
 4
 
-[p. 611]
-
-MÉTHODE DÉDUCTIVE .
+[p. 611] MÉTHODE DÉDUCTIVE .
 SCIENCES MATHÉMATIQUES
 611
 
@@ -34266,9 +32522,7 @@ grâce auxquels ces liaisons apparaissent comme les conséquences
 nécessaires de liaisons déjà démontrées ou évidentes par elles-
 mêmes . » (Liard , Logique , 86 à 91. )
 
-[p. 612]
-
-Nous voyons ainsi que ce qui fait la force de la démonstration
+[p. 612] Nous voyons ainsi que ce qui fait la force de la démonstration
 mathématique ,
 c'est-à-dire de l'enchainement des propositions ,
 c'est ce qui fait la force de ces propositions elles-mêmes : l'esprit y
@@ -34314,9 +32568,7 @@ un cas particulier de la précédente . On montre que la proposition
 contradictoire de celle que l'on veut démontrer est fausse , d'où
 résulte nécessairement la vérité de celle que l'on veut démontrer :
 
-[p. 613]
-
-MÉTHODE DÉDUCTIVE .
+[p. 613] MÉTHODE DÉDUCTIVE .
 SCIENCES MATHÉMATIQUES
 613
 
@@ -34368,11 +32620,7 @@ trie , à réduire d'une façon systématique des grandeurs géométriques
 méthode étant, elle aussi, une méthode de réduction , ramène les
 questions considérées à des propositions algébriques et que l'on
 sait déjà traiter. Pour cela elle mérite bien son nom d'analyse ,
-surtout si l'on songe que, par cette réduction, on traite les ques
-
-[p. 614]
-
-tions géométriques à l'aide de rapports quantitatifs qui , en somme ,
+surtout si l'on songe que, par cette réduction, on traite les ques [p. 614] tions géométriques à l'aide de rapports quantitatifs qui , en somme ,
 sont les éléments implicites de ces questions, et les déterminent .
 
 V.
@@ -34416,9 +32664,7 @@ Supposons que l'on ait défini l'opération :
 
 x + (a - 1)
 
-[p. 615]
-
-MÉTHODE DÉDUCTIVE .
+[p. 615] MÉTHODE DÉDUCTIVE .
 615
 SCIENCES MATHÉMATIQUES
 
@@ -34468,9 +32714,7 @@ En résumé, définitions , axiomes et postulats , raisonnements par
 récurrence sont des points de départ dont la déduction a besoin ,
 mais qu'elle n'établit pas . D'où viennent-ils ?
 
-[p. 616]
-
-VI .
+[p. 616] VI .
 
 DEUXIÈME PARTIE
 
@@ -34516,9 +32760,7 @@ d'abord créés . Le progrès des mathématiques n'estdû qu'à la com-
 plexité indéfiniment croissante de ces combinaisons rationnelles .
 La mathématique est une promotion de la logique , a dit Leibniz .
 
-[p. 617]
-
-MÉTHODE DÉDUCTIVE .
+[p. 617] MÉTHODE DÉDUCTIVE .
 617
 SCIENCES MATHÉMATIQUES
 
@@ -34570,11 +32812,7 @@ tue l'expérience, la nature au sens vulgaire du mot. Cette connais-
 sance empirique est appelée l'intuition sensible ;
 2º Un certain nombre de philosophes (les spiritualistes et la plu-
 part des
-idéalistes ) croient en outre que la raison , à côté de ses
-
-[p. 618]
-
-fonctions logiques qui consistent à enchaîner, grâce au raisonne-
+idéalistes ) croient en outre que la raison , à côté de ses [p. 618] fonctions logiques qui consistent à enchaîner, grâce au raisonne-
 ment, les éléments fournis par l'intuition, possède elle-même une
 faculté d'intuition qui nous révèle certaines notions ignorées com-
 plètement de l'intuition sensible
@@ -34584,8 +32822,8 @@ une connaissance qu'après un contact avec lanature, l'intuition intel-
 lectuelle nous fait connaître les données qui lui sont spéciales,
 immédiatement, par la seule réflexion sur nous -mêmes , avant toute
 expérience . Aussi dit-on des connaissances de l'intuition sensible ou
-connaissances empiriques qu'elles sont a posteriori ; des connais-
-sances de l'intuition intellectuelle, qu'elles sont a priori .
+connaissances empiriques qu'elles sont *a posteriori* ; des connais-
+sances de l'intuition intellectuelle, qu'elles sont *a priori* .
 Pour la plupart des philosophes de la Renaissance , qui conservent
 de la philosophie grecque un certain dédain de l'intuition sensible ,
 toutes les connaissances scientifiques, et par conséquent les intui-
@@ -34597,8 +32835,8 @@ simples » qui se révèlent directement à l'esprit : dans les mathé-
 matiques , les nombres et les figures .
 Kant modifiera cette conception . Pour lui tous les objets d'expé-
 rience sont forcés , au moment même ou nous les connaissons , d'en-
-trer dans certains rapports qui leur sont imposés a priori par
-l'esprit . Il appelle ces rapports des jugements synthétiques a priori .
+trer dans certains rapports qui leur sont imposés *a priori* par
+l'esprit . Il appelle ces rapports des jugements synthétiques *a priori* .
 Tous les rapports donnés dans l'espace et dans le temps sont pré-.
 cisément des jugements synthétiques apriori, parce que l'espace et
 le temps sont des cadres généraux , des formes que l'esprit impose
@@ -34620,15 +32858,13 @@ des fonctions qui sont tout à fait indépendantes du raisonnement et
 qui impliquent les notions d'espace ou de temps .
 Un certain nombre de mathématiciens modernes , H. Poincaré par
 
-[p. 619]
-
-MÉTHODE DÉDUCTIVE.
+[p. 619] MÉTHODE DÉDUCTIVE.
 619
 SCIENCES MATHÉMATIQUES
 
 exemple , sont de l'avis de Kant. Les mathématiques ne font pas
 appel à l'expérience mais elles ne se développent pas non plus par
-le seul raisonnement déductif. Elles ont besoin d'intuitions a priori,
+le seul raisonnement déductif. Elles ont besoin d'intuitions *a priori*,
 d'actes spéciaux de l'esprit. Ces actes sont : en géométrie, les cons-
 tructions des figures qui entraînent les définitions de ces mêmes
 figures et impliquent une intuition de l'espace, en arithmétique et
@@ -34642,7 +32878,7 @@ ou moins longue, mais toujours limitée, de la série indéfinie des
 termes que nous considérons, mais ne pourrait jamais épuiser cette
 série indéfinie : « Cette règle, inaccessible à la démonstration ana-
 lytique et à l'expérience , est le véritable type du jugement synthé-
-tique a priori... Pourquoi donc ce jugement s'impose-t-il à nous
+tique *a priori*... Pourquoi donc ce jugement s'impose-t-il à nous
 avec une irrésistible évidence ? C'est qu'il n'est que l'affirmation de
 la puissance de l'esprit, qui se sait capable de concevoir la répétition
 indéfinie d'un même acte , dès que cet acte est une fois possible .
@@ -34666,16 +32902,12 @@ matique y va en décroissant.
 1º Dans la conception cartésienne , l'intuition intellectuelle nous
 fait connaître des propriétés réelles que les sens sont impuissants
 à nous révéler ;
-2º Avec Kant le jugement synthétique a priori est simplement
+2º Avec Kant le jugement synthétique *a priori* est simplement
 une relation nécessaire selon laquelle notre esprit se représente le
 donné , mais qui par elle-même n'a rien de réel ;
 3º Enfin , pour Poincaré la notion mathématique est une con-
 vention de l'esprit qui, en soi, n'a plus rien de réel, ni de néces-
-saire : c'est en ce sens que Poincaré insiste sur le rôle de l'hypothèse
-
-[p. 620]
-
-en mathématiques , puisque , pour lui , toute proposition mathéma-
+saire : c'est en ce sens que Poincaré insiste sur le rôle de l'hypothèse [p. 620] en mathématiques , puisque , pour lui , toute proposition mathéma-
 tique est une création arbitraire de l'esprit .
 On pourrait alors demander comment il se fait, si les mathéma-
 tiques sont tirées toutes entières de l'esprit , qu'elles rendent de si
@@ -34734,9 +32966,7 @@ Les définitions mathématiques ,
 sugges-
 tions de l'expérience . — Admettre que les sciences mathématiques
 
-[p. 621]
-
-MÉTHODE DEDUCTIVE .
+[p. 621] MÉTHODE DEDUCTIVE .
 SCIENCES MATHÉMATIQUES
 621
 
@@ -34783,11 +33013,7 @@ rer que les calculs algébriques et les constructions géométriques
 constituaient des expériences d'un ordre spécial. Cette expérience
 idéale , dont la matière serait toujours une construction de l'esprit,
 se distinguerait par là de l'expérience dans les sciences de la nature ,
-mais elle y serait apparentée en tant que procédé méthodologique. Il
-
-[p. 622]
-
-semble d'ailleurs qu'on peut très bien relier cette expérience idéale
+mais elle y serait apparentée en tant que procédé méthodologique. Il [p. 622] semble d'ailleurs qu'on peut très bien relier cette expérience idéale
 à l'expérience , au sens ordinaire du mot, c'est-à-dire à l'expérience
 sensible . Ne paraîtrait-elle pas idéale , seulement parce qu'elle met
 en jeu des relations abstraites de l'expérience sensible , mais très
@@ -34836,9 +33062,7 @@ géométrique.
 Les qualités d'esprit nécessaires à la pratique de
 la méthode mathématique sont naturellement aussi les qualités que
 
-[p. 623]
-
-MÉTHODE DÉDUCTIVE .
+[p. 623] MÉTHODE DÉDUCTIVE .
 SCIENCES MATHÉMATIQUES
 623
 
@@ -34873,9 +33097,7 @@ pas les détails , mais les raisons des choses, les propriétés ou les
 liens caractéristiques , et pour cela essentiels , qui permettent la dé-
 duction rigoureuse des résultats cherchés .
 
-[p. 624]
-
-CHAPITRE XXXVI
+[p. 624] CHAPITRE XXXVI
 
 NOTIONS HISTORIQUES SOMMAIRES SUR LA MÉTHODE
 
@@ -34938,11 +33160,7 @@ elles arrivaient à définir une constitution de la matière , ce ne serait
 que par des rapports . L'hypothèse atomique par exemple ne pourra
 jamais connaître des atomes que leur figure, laquelle est constituée
 par des rapports de situation dans l'espace ,
-c'est-à-dire des rap-
-
-[p. 625]
-
-ports géométriques, leur élasticité et leur impénétrabilité qui ré-
+c'est-à-dire des rap-[p. 625]ports géométriques, leur élasticité et leur impénétrabilité qui ré-
 sultent des rapports qu'ils manifestent entre eux lorsqu'ils
 se
 rencontrent, leur mouvement, c'est-à-dire leur distance, leur rapport
@@ -34988,11 +33206,7 @@ que nous ne contrôlons pas expérimentalement, d'une façon cons-
 ciente et réfléchie, les prémisses d'où nous partons, celles-ci nous
 paraissant évidentes ou se déduisant elles-mêmes de prémisses
 
-40
-
-[p. 626]
-
-évidentes . Au contraire nous serons dans le domaine d'une science
+40 [p. 626] évidentes . Au contraire nous serons dans le domaine d'une science
 de la nature , lorsque nous demanderons d'une façon consciente et
 réfléchie à l'expérience le contrôle des propositions à partir desquelles
 nous raisonnons et des résultats auxquels nous parvenons .
@@ -35036,9 +33250,7 @@ giques , règles tirées de l'empirisme technique et d'ailleurs très con-
 fuses et très chaotiques, voilà tout ce que l'on trouve relativement
 à l'étude de la nature .
 
-[p. 627]
-
-III .
+[p. 627] III .
 ÉPOQUE PRÉSCIENTIFIQUE
 -
 
@@ -35080,11 +33292,7 @@ xvi° siècle . La forme de cette physique semble avoir été déterminée
 par deux circonstances principales :
 1º Cherchant constamment à se représenter par une intuition de
 l'esprit la raison d'être des phénomènes naturels, on devait en arri-
-ver à la trouver dans les idées , les opinions que l'on se faisait, en
-
-[p. 628]
-
-général , de ces phénomènes . Transposée d'une façon scientifique ,
+ver à la trouver dans les idées , les opinions que l'on se faisait, en [p. 628] général , de ces phénomènes . Transposée d'une façon scientifique ,
 cette tendance devenait une méthode qui, à l'aide du raisonnement
 logique, cherchait en discutant, en opposant les unes aux autres les
 opinions subjectives et individuelles, à atteindre une définition du
@@ -35134,11 +33342,7 @@ réduira donc à l'étude qualitative des choses . Le monde sera
 conçu comme un ensemble de qualités systématiquement liées
 entre elles . Par exemple, il sera formé par quatre éléments fonda-
 mentaux qui sont les quatre qualités générales qui distinguent les
-différents corps : le lourd, le léger (ou air), le chaud (feu ou éther)
-
-[p. 629]
-
-et l'humide . La combinaison chimique (mixte) était considérée
+différents corps : le lourd, le léger (ou air), le chaud (feu ou éther) [p. 629] et l'humide . La combinaison chimique (mixte) était considérée
 comme l'apparition d'une nouvelle qualité , d'une nouvelle forme
 
 (car les qualités s'appelaient des formes) remplaçant les autres qua-
@@ -35183,11 +33387,7 @@ gulièrement altérée pour la mettre d'accord avec le dogme religieux ,
 régna à peu près sans conteste. L'Église trouvait, en effet, dans
 cette doctrine une conception du monde qui s'alliait assez bien
 avec ses dogmes, et qui faisait ainsi de la science la << servante
-de la théologie » (ancilla theologiæ) . On peut bien trouver chez
-
-[p. 630]
-
-quelques esprits hardis la conservation de la véritable tradition
+de la théologie » (ancilla theologiæ) . On peut bien trouver chez [p. 630] quelques esprits hardis la conservation de la véritable tradition
 grecque : le rationalisme et la libre recherche, notamment à la fin
 du xu° siècle (où il y eut une véritable Renaissance anticipée) . Mais
 ces initiatives sont étouffées par la scolastique, dont la conception
@@ -35229,11 +33429,7 @@ et distinctes qui doivent remplacer les qualités occultes , comme
 principes d'explication .
 3º On rejettera complètement la notion de cause finale qui, comme
 le dit Bacon , est une « vierge stérile » .
-Il faut remarquer ici que la méthode suivie par les Grecs en géo-
-
-[p. 631]
-
-métrie, au contraire de leur méthode physique, reposait précisé-
+Il faut remarquer ici que la méthode suivie par les Grecs en géo-[p. 631]métrie, au contraire de leur méthode physique, reposait précisé-
 ment sur cette double assise : considérer des faits particuliers des
 rapports singuliers et non point des idées générales : l'étude du
 triangle consiste à chercher d'abord toutes les propriétés particu-
@@ -35283,9 +33479,7 @@ propositions premières, les principes nécessaires à la solution de
 la question .
 Ces notions élémentaires sont obtenues par une analyse , c'est-à-
 
-[p. 632]
-
--
+[p. 632] -
 
 dire par une méthode analogue à la méthode mathématique de
 réduction . Il s'agit de remonter d'un faitconsidéré comme un résul-
@@ -35335,11 +33529,7 @@ Aussi Bacon propose-t-il de dresser, à propos de tout phénomène
 qu'il s'agit d'expliquer, c'est-à-dire de ramener à ses éléments, à ses
 causes , une table de présence des phénomènes semblables à ceux
 que l'on veut étudier. Il demande encore que , par une table d'ab-
-sence , on montre que dans toutes les circonstances où l'on pourrait
-
-[p. 633]
-
-s'attendre à voir apparaître un arc-en-ciel, il ne se produit pas s'il
+sence , on montre que dans toutes les circonstances où l'on pourrait [p. 633] s'attendre à voir apparaître un arc-en-ciel, il ne se produit pas s'il
 n'y a pas de gouttelettes d'eau suspendues dans l'atmosphère . Enfin
 
 il trouve bon , si le phénomène étudié est susceptible de variation ,
@@ -35387,11 +33577,7 @@ Nous devons
 demander à des expériences portant sur des faits particuliers réels ,
 et non à des asbtractions générales , de nous enseigner les rapports
 des phénomènes , rapports qui deviendront les lois physiques . Et,
-d'autre part, si de ces lois nous déduisons des prévisions concer-
-
-[p. 634]
-
-nant un phénomène particulier,
+d'autre part, si de ces lois nous déduisons des prévisions concer-[p. 634]nant un phénomène particulier,
 il faudra demander encore à
 l'expérience de vérifier ces prévisions . Toute généralisation s'ap-
 puiera donc sur l'expérience et ne sera admise qu'après vérification
@@ -35441,9 +33627,7 @@ périence pour la développer d'une façon purement mathématique .
 
 1
 
-[p. 635]
-
-Avec Descartes
+[p. 635] Avec Descartes
 on
 cherche
 exclusivement dans les intuitions
@@ -35489,11 +33673,7 @@ rendre compte auxdistances sensibles de l'attraction et aux distances
 insensibles de la cohésion .
 Aujourd'hui la physique paraît bien avoir subordonné définiti-
 vement la systématisation mathématique et rationnelle aux résultats
-de l'expérience . Ainsi se trouvent conciliées les deux grandes idées
-
-[p. 636]
-
-qui se sont fait jour à l'époque de la Renaissance au sujet de la
+de l'expérience . Ainsi se trouvent conciliées les deux grandes idées [p. 636] qui se sont fait jour à l'époque de la Renaissance au sujet de la
 méthode des sciences de la nature : le système surtout expéri-
 mental de Bacon, et le système surtout rationnel de Descartes .
 Toutefois , dans l'application de cette double méthode, on ren-
@@ -35549,11 +33729,7 @@ mouvement matériel, dont la mécanique est la science, on peut
 conserver le nom de mécaniste à cette école . Nombre de ses parti-
 sans actuels toutefois, au lieu de déduire comme jadis toutes les
 
-((
-
-[p. 637]
-
-lois naturelles de la mécanique rationnelle, ne voient dans celle-
+(( [p. 637] lois naturelles de la mécanique rationnelle, ne voient dans celle-
 ci que les lois des mouvements particuliers . Ils cherchent ailleurs ,
 notamment dans la théorie de l'électricité , comme on va voir, les
 lois générales du mouvement. Mais il s'agit bien là toujours d'ex-
@@ -35602,11 +33778,7 @@ Une quatrième hypothèse due au Dr Gustave Le Bon considère que
 la matière est une condensation formidable d'énergie dans certains
 états d'équilibre de l'éther,états suffisamment stables pour avoir été
 crus indestructibles (atomes) . La vitesse des tourbillons de l'éther ou
-de ses éléments constitutifs expliquerait cette condensation d'éner
-
-[p. 638]
-
-gie . Mais la stabilité de la matière (de l'atome) ne serait pas éter-
+de ses éléments constitutifs expliquerait cette condensation d'éner [p. 638] gie . Mais la stabilité de la matière (de l'atome) ne serait pas éter-
 nelle : la matière se dématérialiserait petit à petit en retournant
 à l'éther impondérable , et cette dématérialisation , en libérant l'éner-
 gie intra-atomique , serait l'origine des grandes forces naturelles
@@ -35657,11 +33829,7 @@ Elles reposent sur une théorie moléculaire de la matière
 :
 n'est pas ici le lieu d'examiner si l'hypothèse moléculaire répond à
 
-« Ce
-
-[p. 639]
-
-la réalité... Un fait certain, et c'est la seule chose importante et
+« Ce [p. 639] la réalité... Un fait certain, et c'est la seule chose importante et
 décisive , c'est que l'hypothèse moléculaire est, dans toutes les sciences
 de la nature... , un auxiliaire tel que jamais la spéculation théorique
 n'en a fourni d'aussi vaste ni d'aussi puissant. » (Nernst, 518. )
@@ -35709,11 +33877,7 @@ phénomènes étant très mal connus et l'esprithumain toujours tentéde
 donner une explication définitive, même pour ce qu'il connait mal ,
 on continuait à se contenter d'une description superficielle des
 phénomènes et d'une explication au moyen des qualités occultes .
-Période préscientifique . - Le type de ces explications se trouve
-
-[p. 640]
-
-dans les célèbres théories qui se partagèrent les médecins dans
+Période préscientifique . - Le type de ces explications se trouve [p. 640] dans les célèbres théories qui se partagèrent les médecins dans
 la première moitié du xix
 siècle : animisme et vitalisme .
 L'animisme , soutenu en partie autrefois par Platon et Aristote ,
@@ -35777,11 +33941,7 @@ cation .
 L'idée de finalité dans les sciences de la vie .
 Mais la méthode
 scientifique moderne ne demande pas seulement qu'on exclue de
-toute explication les qualités occultes , en faisant uniquement appel
-
-[p. 641]
-
-à des éléments fournis clairement et distinctement par l'observa-
+toute explication les qualités occultes , en faisant uniquement appel [p. 641] à des éléments fournis clairement et distinctement par l'observa-
 tion et par l'expérience . Elle a cherché encore , comme nous l'avons
 vu , à éliminer partout le recours aux causes finales : parce qu'il
 prête trop facilement à l'imagination et parce qu'il ne peut pas
@@ -35834,11 +33994,7 @@ tour n'existent que par la vie du tout (exemple
 : les feuilles con-
 courent à assurer la vie d'un arbre, mais c'est la vie de l'arbre qui
 
-41
-
-[p. 642]
-
-produit ces feuilles). Autrement dit, « l'idée du tout détermine l'exis-
+41 [p. 642] produit ces feuilles). Autrement dit, « l'idée du tout détermine l'exis-
 tence des parties » .
 Il en résulte que, pour comprendre un être vivant,
 il faudra,
@@ -35883,11 +34039,7 @@ La théorie physico-chimique des faits biologiques . -
 Mais il faut
 reconnaître que la très grande majorité des biologistes considère
 qu'il y a dans ces théories un reste de métaphysique et accepte avec
-toutes ses conséquences que la vie n'est qu'un ensemble de phéno-
-
-[p. 643]
-
-mènes physico-chimiques et, par suite, mécaniques . Le mécanisme
+toutes ses conséquences que la vie n'est qu'un ensemble de phéno-[p. 643]mènes physico-chimiques et, par suite, mécaniques . Le mécanisme
 s'étend donc, pour la plupart des savants , à la matière vivante .
 a) Les phénomènes biologiques sont des réactions chimiques par-
 ticulièrement complexes et instables . On a pu réaliser de nom-
@@ -35930,11 +34082,7 @@ de la théorie évolutioniste . Elles constituent un contre-sens com-
 plet . L'adaptation utilitaire a un sens purement mécaniste . Et le
 mot « utilité » n'est qu'un mot commode pour exprimer l'établis-
 sement d'un équilibre mécanique, obtenu par le simple jeu d'actions
-et de réactions rigoureusement déterminées les unes par les autres ;
-
-[p. 644]
-
-c'est-à-dire par le simple jeu des causes antécédentes . Les modi-
+et de réactions rigoureusement déterminées les unes par les autres ; [p. 644] c'est-à-dire par le simple jeu des causes antécédentes . Les modi-
 fications nouvelles des théories de l'évolution et de l'origine des
 espèces , loin de revenir sur cette tendance des fondateurs de la
 doctrine, ne cherchent qu'à expulser tout ce que l'adaptation uti-
@@ -35975,11 +34123,7 @@ nique : les sciences naturelles des corps inorganiques : minéralogie ,
 géologie, astronomie physique, ne sont plus uniquement descrip-
 tives et classificatives . Elles sont, elles aussi, explicatives .
 Sans parler de cette hypothèse hardie qui découvrirait dans les
-espèces chimiques simples les résultats de la combinaison évolutive
-
-[p. 645]
-
-des éléments d'une matière première identique, il est incontestable
+espèces chimiques simples les résultats de la combinaison évolutive [p. 645] des éléments d'une matière première identique, il est incontestable
 que les corps simples se classent en familles par leurs propriétés
 analogues, et que cette classification semble bien se rattacher à
 leur structure et à leur poids atomique (loi de Mendeleef) .
@@ -36002,9 +34146,7 @@ Sa surface, en particulier, est modelée par les agents atmo-
 sphériques ou intérieurs . La succession des âges géologiques n'est
 autre que l'histoire de cette évolution .
 
-[p. 646]
-
-CHAPITRE XXXVII
+[p. 646] CHAPITRE XXXVII
 
 MÉTHODE EXPÉRIMENTALE DIRECTE
 
@@ -36113,9 +34255,7 @@ DE LA NATURE MATÉRIELLE .
 Si facile que soit, en général , la constatation des faits dans les
 sciences de la nature matérielle (plus simplement de la nature) .
 
-[p. 647]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 647] MÉTHODE EXPÉRIMENTALE DIRECTE
 647
 
 nous sommes obligés de prendre certaines précautions , de recou-
@@ -36162,11 +34302,7 @@ sions optiques ne se transmettent pas avec la même vitesse au
 cerveau . On nomme équation personnelle cette cause d'erreurs . Les
 instruments enregistreurs permettent de l'éliminer complètement.
 On voit que, dans les sciences de la nature, où l'observation
-s'applique directement aux phénomènes, et reste relativement aisée,
-
-[p. 648]
-
-elle nécessite cependant des qualités spéciales et un apprentissage
+s'applique directement aux phénomènes, et reste relativement aisée, [p. 648] elle nécessite cependant des qualités spéciales et un apprentissage
 qui ne se peut faire que dans les laboratoires. Tout le monde le
 sait
 : l'esprit d'observation , qui résulte de ces qualités et de cette
@@ -36211,11 +34347,7 @@ est parfaite, plus la probabilité augmente. Ainsi nous jugeons ,
 sans aucun doute, que des êtres pourvus des mêmes organes exé-
 cutent les mêmes choses, éprouvent les mêmes sensations et sont
 mus par les mêmes désirs . » « En consultant l'étymologie, qui est
-presque toujours le meilleur guide , nous devons entendre plus spé-
-
-[p. 649]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+presque toujours le meilleur guide , nous devons entendre plus spé-[p. 649]MÉTHODE EXPÉRIMENTALE DIRECTE
 649
 
 cialement.par analogie un procédé de l'esprit qui s'élève par l'obser-
@@ -36262,11 +34394,7 @@ a) Cette induction est une hypothèse tant qu'elle n'est pas vérifiée
 par les méthodes expérimentales . C'est une suggestion de l'imagi-
 nation (Voir p . 311 ) : « Une idée anticipée ou une hypothèse est le
 point de départ nécessaire de tout raisonnement inductif. Sans cela
-on ne saurait faire aucune investigation ni s'instruire ; on ne pour-
-
-[p. 650]
-
-rait qu'entasser des observations stériles ... Les idées expérimentales
+on ne saurait faire aucune investigation ni s'instruire ; on ne pour-[p. 650]rait qu'entasser des observations stériles ... Les idées expérimentales
 ne sont point innées . Elles ne surgissent point spontanément , il leur
 faut une occasion et un excitant extérieur ... L'esprit de l'homme
 ne peut concevoir un effet sans cause, de telle sorte que la vue d'un
@@ -36311,9 +34439,7 @@ qu'il s'agit alors de déterminer la forme précise, mathématique de
 la loi qui l'exprime .
 b) Nous verrons ensuite que les analogies de formes présentées
 
-[p. 651]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 651] MÉTHODE EXPÉRIMENTALE DIRECTE
 651
 
 par ces expressions mathématiques suggèrent parfois de nouvelles
@@ -36363,11 +34489,7 @@ moins vrai que c'est parce que l'esprit du savant , dans un très
 grand nombre de cas , a été poussé par elles, aiguillé sur telle
 voie plutôt que sur telle autre , qu'il a été amené à la découverte .
 La plupart des découvertes de la chimie procèdent plus ou moins
-nettement de la conception atomique ou de l'idée de l'unité de
-
-[p. 652]
-
-constitution de la matière . On pourrait en dire autant des découvertes
+nettement de la conception atomique ou de l'idée de l'unité de [p. 652] constitution de la matière . On pourrait en dire autant des découvertes
 de la physique relatives aux gaz et aux dissolutions , des découvertes
 récentes sur la nature de la radioactivité et sur l'électricité . L'idée
 que les transformations matérielles se comportent comme celles
@@ -36413,11 +34535,7 @@ Ce rôle , si important soit-il, est-il cependant absolument néces-
 saire ? Faut-il voir dans l'hypothèse simplement une ressource pré-
 cieuse ou au contraire une condition nécessaire de la création de la
 science ?
-Nous croyons qu'il est impossible de ne pas admettre cette der-
-
-[p. 653]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+Nous croyons qu'il est impossible de ne pas admettre cette der-[p. 653]MÉTHODE EXPÉRIMENTALE DIRECTE
 653
 
 nière alternative. Les logiciens d'ordinaire racontent que certains
@@ -36470,11 +34588,7 @@ ce qu'elle est en réalité : le moyen nécessaire de la découverte, une
 LES PRÉCAUTIONS DANS LE MANIEMENT DES HYPOTHÈSES .
 Seulement ,
 par suite même des erreurs auxquelles ce procédé peut conduire ,
-nous devons prendre de très grandes précautions dans son ma
-
-[p. 654]
-
-niement . D'abord une hypothèse particulière ne doit pas être faite
+nous devons prendre de très grandes précautions dans son ma [p. 654] niement . D'abord une hypothèse particulière ne doit pas être faite
 à la légère . Elle doit , comme on le voitdans les tables baconniennes .
 jaillir au contact des
 faits , sortir de leur observation
@@ -36532,9 +34646,7 @@ qu'elle
 obsédât son esprit. Les calculs de vérification qu'il avait faits pour
 expliquer par elle les positions de la lune par rapport à la terre ne
 
-[p. 655]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 655] MÉTHODE EXPÉRIMENTALE DIRECTE
 655
 
 coïncidaient pas en effet avec les données qu'il possédait parce qu'il
@@ -36587,11 +34699,7 @@ rien omettre des faits que la nature lui présente. L'expérimen-
 tateur , au contraire , s'est déjà formé une explication anticipée du
 phénomène , et, s'il le modifie, le fait varier, s'il met la nature « à
 la question , à la torture » , c'est guidé par son hypothèse et pour
-la vérifier . La différence essentielle entre l'observation et l'expé-
-
-[p. 656]
-
-rimentation n'est donc ni l'activité , ni le travail mental du savant ,
+la vérifier . La différence essentielle entre l'observation et l'expé-[p. 656]rimentation n'est donc ni l'activité , ni le travail mental du savant ,
 qui , dans toutes deux, sont les facteurs prépondérants, ni le génie
 particulier, également indispensable pour l'une comme pour l'autre ,
 ni les modifications apportées aux faits , résultats de cette activité
@@ -36637,9 +34745,7 @@ ment essentiel et permanent. C'est à quoi se réduit le rôle de l'ex-
 périmentation .
 Pour cela faire, « les méthodes employées par les savants sont
 
-[p. 657]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 657] MÉTHODE EXPÉRIMENTALE DIRECTE
 657
 
 très complexes et très variées ; on peut dire même qu'elles varient
@@ -36691,11 +34797,7 @@ jours en même temps, tandis que tous les autres peuvent varier dans
 les cas que nous avons observés .
 2º Méthode de différence . - « La méthode de concordance montre
 
-42
-
-[p. 658]
-
-bien qu'il y a une liaison entre tel phénomène et tel autre phéno-
+42 [p. 658] bien qu'il y a une liaison entre tel phénomène et tel autre phéno-
 mène ; mais elle ne suffit pas toujours à faire voir lequel des deux
 est le déterminant de l'autre, et surtout elle n'établit pas que les
 deux ne sont pas les effets d'un troisième . Est-ce la basse tempéra-
@@ -36748,9 +34850,7 @@ De ces méthodes, les plus probantes, celles qui éliminent le
 mieux le hasard et l'accident , sont la méthode de différence et celle
 des variations concomitantes .
 
-[p. 659]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 659] MÉTHODE EXPÉRIMENTALE DIRECTE
 659
 
 Pourquoi¹ ? On dit d'ordinaire (Rabier, Logique, 132) que la mé-
@@ -36800,9 +34900,7 @@ en [^p659-1]
 
 [^p659-1]: Dans tout ce qui va suivrejusqu'à la fin du chapitre,je me suis fréquemment servi, dehors des auteurs cités et de mes propres travaux sur la théorie de la physique , du grand traité de physique de Chwolson qu'a traduit Davaux (Paris , Hermann) .
 
-[p. 660]
-
-qu'elle vise paraissent faciles . Il n'en est rien , d'ordinaire . Les labo-
+[p. 660] qu'elle vise paraissent faciles . Il n'en est rien , d'ordinaire . Les labo-
 ratoires de recherches montrent aux yeux les moins prévenus les
 difficultés considérables qu'il a fallu vaincre, et toute l'ingéniosité
 qui a été requise, pour vérifier certaines lois et appliquer les mé-
@@ -36858,9 +34956,7 @@ des variations concomitantes , le
 moment où , faisant varier un phénomène,on arrive à le supprimer
 totalement .
 
-[p. 661]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 661] MÉTHODE EXPÉRIMENTALE DIRECTE
 661
 
 Enfin l'emploi successif de la méthode de concordance et de diffé-
@@ -36917,11 +35013,7 @@ la première origine de la découverte de l'électricité magnétique .
 >>>
 D'accord : ce fait résiduel a suggéré l'hypothèse assez simple que
 le plateau de cuivre pouvait bien avoir cette influence retardatrice .
-Mais ce ne pouvait être qu'une suggestion, une hypothèse , car il
-
-[p. 662]
-
-yavaitbien d'autres causes possibles en jeu que la résistance de l'air
+Mais ce ne pouvait être qu'une suggestion, une hypothèse , car il [p. 662] yavaitbien d'autres causes possibles en jeu que la résistance de l'air
 oucelle du fil de soie . Il y avait en particulier toutlinconnu , toutes
 les causes cachées , que nous pouvons affirmer se trouver dans les
 milieux où se passent les phénomènes . C'est aux trois autres mé-
@@ -36969,9 +35061,7 @@ Tout d'abord il n'échappera pas au lecteur d'un traité de méca-
 nique , de physique, de chimie ou de biologie que la science ne se
 présente pas sous forme de simples indications de relations cau
 
-[p. 663]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 663] MÉTHODE EXPÉRIMENTALE DIRECTE
 663
 
 sales , c'est-à-dire de coïncidences nécessaires entre des couples ou
@@ -37023,11 +35113,7 @@ ces phénomènes
 qualitative . La chimie nous fait particulièrement bien saisir cet
 état de la science : elle commence par décrire qualitativement les
 corps par leurs propriétés sensibles . Puis , sous le nom
-d'analyse
-
-[p. 664]
-
-qualitative , elle établit entre ces corps connus seulement par leurs
+d'analyse [p. 664] qualitative , elle établit entre ces corps connus seulement par leurs
 qualités des rapports qualitatifs de composition . L'eau , connue par
 ses propriétés sensibles est ainsi présentée comme le produit de
 la combinaison de l'oxygène et de l'hydrogène décrits également
@@ -37086,9 +35172,7 @@ des quantités élémentaires bien définies ; et celles-ci seront posées
 comme les éléments constituants ou les déterminants des systèmes
 matériels qui présentent ces qualités . C'est donc par tout un sys
 
-[p. 665]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 665] MÉTHODE EXPÉRIMENTALE DIRECTE
 665
 
 tème de mesures , dans l'invention duquel il faudra souvent non
@@ -37144,11 +35228,7 @@ tout à l'heure et que nous précisons maintenant
 quantitativement par la mesure .
 On peut avoir affaire d'ailleurs non seulement à deux séries , mais
 à un nombre quelconque de séries de variations concomitantes
-:
-
-[p. 666]
-
-par exemple le volume d'une masse gazeuse n'est pas seulement
+: [p. 666] par exemple le volume d'une masse gazeuse n'est pas seulement
 fonction de la pression , mais encore de la température. Le problème
 est le même , plus difficile voilà tout .
 
@@ -37230,9 +35310,7 @@ en prenant pour représenter l'heure une certaine longueur déter-
 minée 1 : la demi-heure est représentée par une longueur moitié
 moindre , etc. Admettons alors que la première expérience se fasse
 
-[p. 667]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 667] MÉTHODE EXPÉRIMENTALE DIRECTE
 667
 à minuit
 : le temps zéro ou minuit sera représenté par le
@@ -37295,11 +35373,7 @@ et je mène par ces points des parallèles aux axes . Le point d'inter-
 section e figure le résultat de l'expérience. Je fais de même pour
 toutes les lignes du tableau à double entrée ; j'obtiens ainsi autant
 de points qu'il y a d'expériences .
-On ne conserve pas ces points isolés, on les réunit par une
-
-[p. 668]
-
-courbe continue , sans s'astreindre à ce que cette courbe passe rigou-
+On ne conserve pas ces points isolés, on les réunit par une [p. 668] courbe continue , sans s'astreindre à ce que cette courbe passe rigou-
 reusement sur eur . On pose en principe que les phénomènes natu-
 rels ne varient pas brusquement ; on sait d'ailleurs que les expé-
 riences sont sujettes à des erreurs . En conséquence , on tolère que
@@ -37354,9 +35428,7 @@ Les difficultés rencontrées dans certaines expériences font qu'on
 ne peut guère les répéter en grand nombre . Les nombresqu'on pos-
 sède sont dans ce cas assezdistantsles uns des autres , ou encore sont
 
-[p. 669]
-
-METHODE EXPÉRIMENTALE DIRECTE
+[p. 669] METHODE EXPÉRIMENTALE DIRECTE
 669
 
 restreints à une région déterminée particulièrement accessible .
@@ -37415,11 +35487,7 @@ ge (pour employer la formule classique v²
 2ge)
 
 Certains dispositifs expérimentaux aident singulièrement à toute
-cette besogne : ce sont les appareils enregistreurs qui inscrivent
-
-[p. 670]
-
-automatiquement la série des diverses valeurs que prend, au cours
+cette besogne : ce sont les appareils enregistreurs qui inscrivent [p. 670] automatiquement la série des diverses valeurs que prend, au cours
 de l'expérimentation, tel de ses éléments : par exemple la pression ,
 la température , etc. On a alors le graphique de toutes les variations
 de la propriété du phénomène que l'on étudie par rapport à un
@@ -37483,9 +35551,7 @@ si
 les erreurs sont beaucoup plus grandes que ne permet de le conce-
 voir la précision des appareils employés . Alors la loi peut être soit
 
-[p. 671]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 671] MÉTHODE EXPÉRIMENTALE DIRECTE
 671
 
 complètement inexacte , soit une loi-limite . Examinons d'abord le
@@ -37536,9 +35602,7 @@ formule mathématique précise qui condense en elle-même tout le
 contenu et toutes les applications possibles de la loi naturelle. Le
 calcul suffit à les en tirer .
 
-[p. 672]
-
-672
+[p. 672] 672
 LOGIQUE
 d) Avantages de ce mathématisme .
 Voici , sommairement indi-
@@ -37583,9 +35647,7 @@ telligible en soi . La mécanique chimique et la chimie physique
 nous font ainsi pénétrer peu à peu la nature de la transformation
 chimique .
 
-[p. 673]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 673] MÉTHODE EXPÉRIMENTALE DIRECTE
 673
 
 IV . –
@@ -37636,12 +35698,8 @@ b) La forme déductive et mathématique rend encore des services
 plus spéciaux et d'ordre plus proprement méthodologique .
 D'abord elle sert à l'administration de la preuve . La loi étant
 
-43
-
-[p. 674]
-
-formulée mathématiquement, on peut en déduire déductivement
-et a priori par le calcul tel résultat de l'expérience dans telles cir-
+43 [p. 674] formulée mathématiquement, on peut en déduire déductivement
+et *a priori* par le calcul tel résultat de l'expérience dans telles cir-
 constances données . On fait ensuite l'expérience dans ces circons-
 tances rigoureuses . Si le résultat est bien celui qu'a fait prévoir le
 calcul (aux erreurs d'expérience près) , on a une remarquable vérifica-
@@ -37687,11 +35745,7 @@ tanées et se faisant équilibre . Dans l'étude des phénomènes régis
 par la loi des phases et des phénomènes de catalypse on peut suivre
 l'application de ces emplois de la déduction .
 
-) On peut encore déduire d'une formule mathématique cer-
-
-[p. 675]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+) On peut encore déduire d'une formule mathématique cer-[p. 675]MÉTHODE EXPÉRIMENTALE DIRECTE
 675
 
 taines conséquences qui se trouvent réalisées dans la nature et
@@ -37745,11 +35799,7 @@ connaissances , le même contenu , identiquement ( seulement elles
 s'y rangent dans un sens à peu près inverse l'un de l'autre)
 : l'un
 qui suit pas à pas la marche de l'induction du particulier au géné-
-ral ou plutôt de la conséquence à la raison est l'ordre de l'acquisi
-
-[p. 676]
-
-tion et de la découverte : l'autre , qui , selon la voie déductive va du
+ral ou plutôt de la conséquence à la raison est l'ordre de l'acquisi [p. 676] tion et de la découverte : l'autre , qui , selon la voie déductive va du
 général au particulier, ou mieux de la raison à la conséquence est
 l'ordre de Ferposition et de l'explication . Il a l'avantage de systé-
 matiser ,
@@ -37800,9 +35850,7 @@ méthode inductive qui la préparée, toutes deux étant rapportées
 au point de vue particulier de l'enseignement des sciences phy-
 siques .
 
-[p. 677]
-
-MÉTHODE EXPERIMENTALE DIRECTE
+[p. 677] MÉTHODE EXPERIMENTALE DIRECTE
 677
 
 « Il y a deux manières pratiques d'enseigner les sciences natu-
@@ -37832,7 +35880,7 @@ connaîtraient rien . L'élève s'imaginerait que les principes nous
 ont été mystérieusement révélés ; il ne comprendrait pas que l'em-
 ploi de la méthode dogmatique et déductive d'exposition a été
 précédé par l'emploi de la méthode inductive de découverte . Il
-serait tenté d'attribuer aux principes une certitude a priori, qu'ils
+serait tenté d'attribuer aux principes une certitude *a priori*, qu'ils
 n'ont pas , et se ferait une idée erronée deleur nature .
 Il est vrai
 que le savant qui trouve une loi est véritablement inspiré ;
@@ -37859,9 +35907,7 @@ déductive . Et toute la construction déductive est elle -même étayée
 dans son ensemble par ce fait qu'elle n'est que le revêtement des
 résultats obtenus antérieurement par l'expérience .
 
-[p. 678]
-
-Il s'agit toujours , il ne s'agit jamais que d'un raisonnement
+[p. 678] Il s'agit toujours , il ne s'agit jamais que d'un raisonnement
 expérimental , ou , si l'on admet mieux , d'un raisonnement à base
 expérimentale .
 
@@ -37912,9 +35958,7 @@ Mais on voit par cet exemple même qu'ils ne sont pas tombés
 tout entiers .
 Ils restent vrais dans un domaine , entre certaines
 
-[p. 679]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 679] MÉTHODE EXPÉRIMENTALE DIRECTE
 679
 
 limites . Pourquoi ? C'est que , s'ils n'étaient pas des vérités expéri-
@@ -37950,14 +35994,14 @@ connaissances . Nous
 tâchons de deviner par une généralisation hardie des principes dé-
 passant l'expérience et par cela même indémontrables ; nous antici-
 pons sur les faits ; quelquefois notre audace est récompensée par une
-construction a priori qui se trouve être l'interprétation exacte de la
+construction *a priori* qui se trouve être l'interprétation exacte de la
 nature .
 
 Bacon nous dit qu'il ne faut point attacher des ailes à l'entende-
 ment, mais au contraire du plomb qui le retienne et l'empêche de
 s'élancer de prime saut aux principes les plus élevés . C'est qu'en
 effet la tentation est forte , après quelques expériences, de chercher
-un système a priori, duquel on pourrait ensuite déduire tous les
+un système *a priori*, duquel on pourrait ensuite déduire tous les
 faits
 par
 simple
@@ -37979,9 +36023,7 @@ le vrai principe , celui qui interprète exactement la nature .
 Mais , pour nombreuses que soient les écoles , l'audace est parfois
 couronnée de succès .
 
-[p. 680]
-
-680
+[p. 680] 680
 LOGIQUE
 Après avoir étudié le levier, la poulie , - les machines simples
 peu nombreuses alors connues ,
@@ -37994,8 +36036,8 @@ cement . Toutes les machines inventées depuis , et le plus souvent
 même en se laissant guider par ce principe, machines dont le
 nombre se chiffre par milliers , y satisfont exactement. Assurément
 pas plus du temps de Galilée que du nôtre on ne saurait donner
-une démonstration générale et a priori du principe du travail.
-C'est évident puisque la démonstration a priori de sa vérité exi-
+une démonstration générale et *a priori* du principe du travail.
+C'est évident puisque la démonstration *a priori* de sa vérité exi-
 gerait que l'on connût ce qu'il renferme, et tous les jours nous lui
 trouvons des applications nouvelles . L'énoncé de ce principe a donc
 été une heureuse divination ; il s'applique à tant de faits , il éclaire
@@ -38030,9 +36072,7 @@ susceptible d'être vrai ou faux, confirmé ou infirmé par l'expéri-
 mentation directe, dans le domaine beaucoup plus restreint que
 comporte la loi expérimentale qui l'a suggéré .
 
-[p. 681]
-
-METHODE EXPÉRIMENTALE DIRECTE
+[p. 681] METHODE EXPÉRIMENTALE DIRECTE
 681
 
 Il faut donc plutôt considérer un « principe » comme une règle
@@ -38086,11 +36126,7 @@ Expliquer un fait, c'est en dernière
 analyse le ramener à un
 autre . Lorsque nous
 induisons , que nous établissons un lien de
-causalité , c'est pour arriver, nous l'avons vu , à formuler une loi
-
-[p. 682]
-
-générale qui nous permettra de ramener une multitude de faits à
+causalité , c'est pour arriver, nous l'avons vu , à formuler une loi [p. 682] générale qui nous permettra de ramener une multitude de faits à
 la relation qu'elle exprime . La loi est un principe explicatif parce
 qu'elle est un principe de réduction , parce qu'elle fait dépendre un
 groupe de faits particuliers d'un fait plus général qui est larelation
@@ -38152,9 +36188,7 @@ plusieurs reprises , et nous avons vu leur utilité pour la découverte .
 Ces grandes hypothèses, qui ne sont plus comme les trois genres
 d'hypothèses déjà examinées un moment précis de toute décou
 
-[p. 683]
-
-MÉTHODE EXPERIMENTALE DIRECTE
+[p. 683] MÉTHODE EXPERIMENTALE DIRECTE
 683
 
 verte expérimentale
@@ -38202,11 +36236,7 @@ représentations concrètes , - la connaissance d'une chose étant tou-
 jours une intuition concrète de cette chose , un moyen de se repré-
 senter cette chose dans ses rapports avec les autres .
 Si la science est vraiment, comme nous le croyons et comme nous
-l'avons exposé jusqu'ici , un moyen d'atteindre une véritable con
-
-[p. 684]
-
-naissance de la nature
+l'avons exposé jusqu'ici , un moyen d'atteindre une véritable con [p. 684] naissance de la nature
 et non simplement un moyen d'agir
 sur la matière , ou d'y mettre un ordre logique subjectif, ne valant
 que pour les seuls besoins pratiques de notre esprit ,
@@ -38256,9 +36286,7 @@ tel ou tel phénomène particulier.
 Elles
 donnent de la vie et de l'unité à l'organisme scientifique .
 
-[p. 685]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 685] MÉTHODE EXPÉRIMENTALE DIRECTE
 685
 
 ))
@@ -38317,11 +36345,7 @@ une anticipation de
 l'expérience , seulement d'une expérience très
 complexe et très lointaine dans le second .
 Ajoutons que ce deuxième genre d'hypothèse, les hypothèses
-générales , qui prétendent à représenter par une anticipation fort
-
-[p. 686]
-
-lointaine
+générales , qui prétendent à représenter par une anticipation fort [p. 686] lointaine
 de l'expérience, et par
 suite fort aventurée,
 tout un
@@ -38372,9 +36396,7 @@ En un sens toute définition est une définition de mot , car elle
 assigne un mot pour l'expression de certains faits . Mais on réserve
 plus strictement ce nom aux définitions préliminaires dont nous
 
-[p. 687]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 687] MÉTHODE EXPÉRIMENTALE DIRECTE
 687
 
 allons parler et qui tout en circonscrivant l'objet d'une recherche ,
@@ -38427,9 +36449,7 @@ des cétacés quand on les rattachait aux poissons ; de la chaleur ou
 de l'électricité quand on les considérait comme des fluides ; de la
 lumière dans la théoric de l'émission ; etc.) .
 
-[p. 688]
-
-B. Classifications .
+[p. 688] B. Classifications .
 A mesure que chaque phénomène
 est
 mieux connu et par conséquent plus exactement défini, il se situe
@@ -38492,9 +36512,7 @@ sente pas un ordre réel des phénomènes .
 Ce n'est qu'à mesure que l'on connaît de mieux en mieux les
 faits que la classification devient de plus en plus naturelle .
 
-[p. 689]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 689] MÉTHODE EXPÉRIMENTALE DIRECTE
 689
 
 Mais une classification reste toujours artificielle par quelques cò-
@@ -38528,9 +36546,7 @@ L'INDUCTION [^p689-4]
 
 [^p689-4]: Position du problème . - La force probante d'un raisonne- ment inductifest, comme on l'a vu dans tout ce qui précède , tirée tout entière d'une constatation expérimentale, c'est-à-dire l'examen de quelques cas particuliers . Et il aboutit à une conclusion générale . Qui nous garantit alors que la succession qu'il révèle est bien constante et uniforme ? Qui nous garantit que demain des expé- riences contradictoires ne viendront pas renverser la prétendue né- cessité de nos conclusions? L'expérimentation ne vaut que pour les cas particuliers sur lesquels elle a porté . Tout ce qui est induction dans la science serait-il donc hypothé- tique , c'est-à-dire toutes les sciences , sauf les sciences mathéma- tiques ? Ou , au contraire , le raisonnement inductifimpliquerait-il des éléments que notre analyse a laissé échapper et qui lui conféreraient la certitude ? 44
 
-[p. 690]
-
--
+[p. 690] -
 -
 B.
 Les
@@ -38586,9 +36602,7 @@ sur le modèle d'une volonté humaine .
 Si les forces naturelles sont des causes créatrices, à toutle moins
 faudrait-il ajouter qu'elles agissent toujours de même façon et
 
-[p. 691]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 691] MÉTHODE EXPÉRIMENTALE DIRECTE
 691
 
 qu'elles ne peuvent pas dévier de l'ordre immuable de la nature .
@@ -38609,7 +36623,7 @@ pouvons pas trouver une justification de l'induction . Mais l'induc-
 tion implique autre chose que ce rapport empirique . Elle implique
 vicissitudes . Ce principe est du genre des vérités premières à l'aide
 desquelles Descartes explique la certitude des déductions mathéma-
-tiques . Il est inné , a priori . C'est une loi de la raison ; tout ce que
+tiques . Il est inné , *a priori* . C'est une loi de la raison ; tout ce que
 nous connaissons y est nécessairement soumis . L'induction estalors
 aussi certaine qu'une conclusion déductive, logique ou mathéma-
 tique ,
@@ -38637,11 +36651,7 @@ qui les unit est doncnécessaire et universel, puisqu'ils ne peuvent
 pas exister l'un sans l'autre .
 Ce double rapport est particulièrement manifeste dansles phéno-
 mènes biologiques : Un être vivant est le résultat, l'effet des acti-
-vités d'un certain nombre d'organes ; mais , à leurtour, ces activités
-
-[p. 692]
-
-sont déterminées par le plan général de l'organisme qu'elles entre-
+vités d'un certain nombre d'organes ; mais , à leurtour, ces activités [p. 692] sont déterminées par le plan général de l'organisme qu'elles entre-
 tiennent . Le tout est l'effet des
 parties; mais, inversement,
 les
@@ -38694,9 +36704,7 @@ A quel moment acquièrent-ils ce maximum de force probante et
 de clarté, et que se passe-t-il dans l'esprit ?
 2° La légitimité de l'induction est la possibilité d'une déduction
 
-[p. 693]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 693] MÉTHODE EXPÉRIMENTALE DIRECTE
 693
 
 future . - Si nous analysons l'état psychologique, nous voyons que
@@ -38747,9 +36755,7 @@ plutôt que la possibilité de la déduction rationnelle ne fait que
 recouvrir l'évidence expérimentale qui la fonde . Elle n'en est que
 le signe et la manifestation .
 
-[p. 694]
-
-VIII .
+[p. 694] VIII .
 LA CERTITUDE EXPÉRIMENTALE
 
 En d'autres termes le problème philosophique de l'induction
@@ -38795,9 +36801,7 @@ savants contemporains
 << théorie scientifique » , serait un cadre construit par notre esprit
 pour sa commodité, ses exigences propres . Il ne correspondrait à
 
-[p. 695]
-
-METHODE EXPÉRIMENTALE DIRECTE
+[p. 695] METHODE EXPÉRIMENTALE DIRECTE
 695
 
 rien dans la réalité. C'est en cesens que Duhem dit qu'une théorie
@@ -38848,11 +36852,7 @@ nécessaire de la cause), cette opinion est préférable .
 L'histoire de la science nous montrerait ainsi une adaptation gra-
 duelle de notre organisation représentative , aux objets de la con-
 naissance et comme une pénétration croissante de l'objet par notre
-pensée, dans l'application de la méthode expérimentale . Nous
-
-[p. 696]
-
-avons avec elle les moyens de nous faire peu à peu une représen-
+pensée, dans l'application de la méthode expérimentale . Nous [p. 696] avons avec elle les moyens de nous faire peu à peu une représen-
 tation exacte des choses , d'en prendre une intuition plus précise ,
 dans la région qui est accessible à notre investigation, à notre
 expérience . Seulement cette région est évidemment restreinte , aussi
@@ -38901,9 +36901,7 @@ tendu parler du monocle de Néron . »
 Sciences , 79 sq .
 partie rédigée par Bouasse . )
 
-[p. 697]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 697] MÉTHODE EXPÉRIMENTALE DIRECTE
 697
 
 Le phénomène que l'on vient de citer et bien d'autres constituaient
@@ -38959,11 +36957,7 @@ disparaître quand on la supprime .
 Toute répétition de l'expérience ne fera que servir de contre-
 épreuve aux expériences antérieures .
 La cause est déterminée qualitativement. Il s'agit de
-s'élever
-
-[p. 698]
-
-maintenant à une loi plus précise déterminant les quantités d'effet
+s'élever [p. 698] maintenant à une loi plus précise déterminant les quantités d'effet
 par rapport aux quantités de causes , si l'on peut dire . Ce fut l'œuvre
 que commença Claude Ptolémée (70 ou 77-147 ap . J.-C. ) .
 Il va chercher à fairedes mesures de déterminations numériques .
@@ -39020,9 +37014,7 @@ traités
 manipulations . Les instruments étaient
 assez rudimentaires ; il ne mesurait les angles qu'à un demi-degré
 
-[p. 699]
-
-MÉTHODE EXPÉRIMENTALB DIRECTE
+[p. 699] MÉTHODE EXPÉRIMENTALB DIRECTE
 699
 
 près . Voici la table qu'on trouve dans son Optique . Jy ajoute deux
@@ -39144,11 +37136,7 @@ sont inscrits dans les 3º et 6º colonnes du tableau) , nous n'obtenons
 pas des nombres constants . Qu'il s'agisse du passage de l'air dans
 l'eau ou du passage de l'air dans le verre , le quotient i
 rcroît
-systématiquement quand l'angle i croît de 0 à 90°.... Toutefois ,
-
-[p. 700]
-
-et c'est une remarque importante , l'inconstance du quotient
+systématiquement quand l'angle i croît de 0 à 90°.... Toutefois , [p. 700] et c'est une remarque importante , l'inconstance du quotient
 i
 :
 r
@@ -39204,9 +37192,7 @@ rapport que nous cherchions .
 << Insistons sur les avantages de posséder la forme vraie , à la place
 du tableau de nombres qu'elle résume .
 
-[p. 701]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 701] MÉTHODE EXPÉRIMENTALE DIRECTE
 701
 
 Cette substitution permet deux opérations importantes : l'inter-
@@ -39273,11 +37259,7 @@ allons voir maintenant comment cette forme mathématique va nous
 permettre, en calculant déductivement un résultat pour des con-
 ditions données , de vérifier notre loi d'une façon décisive , d'instituer
 une expérience cruciale à son égard .
-<<Reprenons la loi de la réfraction approchée : i == nr , et la loi
-
-[p. 702]
-
-exacte
+<<Reprenons la loi de la réfraction approchée : i == nr , et la loi [p. 702] exacte
 : sini = n sinr ; cherchons si les conséquences de ces lois
 sont conformes à l'expérience .
 Nous rencontrons d'abord un phénomène curieux connu sous le
@@ -39316,7 +37298,7 @@ l'incidence, et, par conséquent , delazimut du prisme . Corrélative-
 ment, une expérience quantitative est inutile pour éliminer cette
 loi
 : l'observation la plus grossière prouvant l'existence d'un mi-
-nimum , nous ne pouvons certes pas conclure ipso facto la correc-
+nimum , nous ne pouvons certes pas conclure *ipso facto* la correc-
 tion de la loi sin i = n sinr , qui l'explique ; mais nous pouvons
 rejeter la loi i = nr , comme assurément insuffisante .
 Cette expérience est donc cruciale contre le postulat approché ;
@@ -39340,9 +37322,7 @@ Ils se réfléchissent à l'inté-
 rieur , se réfractent une seconde fois et émergent inclinés sur leur
 direction primitive d'un angle 4r - 21 .
 
-[p. 703]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 703] MÉTHODE EXPÉRIMENTALE DIRECTE
 703
 
 Parmi tous les rayons émergents , pourquoi certains excitent-ils
@@ -39392,9 +37372,7 @@ riodique des milieux où elle se propage .
 
 [^p703-1]: On sait que l'indice de réfraction est égal au rapport de ces vitesses .
 
-[p. 704]
-
-2
+[p. 704] 2
 
 Dans la théorie ondulatoire de Fresnel, la lumière est considérée
 comme un mouvement vibratoire périodique transversal de l'éther
@@ -39444,9 +37422,7 @@ peut dire comme le savant allemand Nernst et la majorité des physi-
 ciens : « au lieu que dansles cours des siècles les théories physiques
 tombent comme des feuilles jaunies, il semble plutôt qu'entre cer
 
-[p. 705]
-
-MÉTHODE EXPÉRIMENTALE DIRECTE
+[p. 705] MÉTHODE EXPÉRIMENTALE DIRECTE
 705
 
 taines limites une vie éternelle leur soit départie ; toute loi nou-
@@ -39514,9 +37490,7 @@ simpliste , trop systématique ou abstraite .
 
 45
 
-[p. 706]
-
-CHAPITRE
+[p. 706] CHAPITRE
 XXXVIII
 
 HISTOIRE SOMMAIRE DES MÉTHODES DANS LES SCIENCES
@@ -39568,11 +37542,7 @@ dont l'ensemble forme la sociologie,
 cherchent les lois générales auxquelles obéissent les faits de la vie
 sociale .
 En résumé , la psychologie est la science des transformations de
-l'activité consciente . La sociologie (qui comprend les sciences his
-
-[p. 707]
-
-toriques et sociales, les premières ne faisant qu'établir sa nature ) a
+l'activité consciente . La sociologie (qui comprend les sciences his [p. 707] toriques et sociales, les premières ne faisant qu'établir sa nature ) a
 pour objet les transformations de la vie sociale , ou , comme les ma-
 nifestations de la vie sociale sont encore appelées des institutions ,
 les transformations des institutions
@@ -39617,11 +37587,7 @@ La psychologie sera définie la science de l'âme , c'est-à-dire d'une réa-
 litémétaphysique . Elle cherchera à exprimer l'essence de cette réa-
 litéet non point les rapports des faits de conscience , qui en sont con-
 sidérés comme les modalités .
-La philosophie moderne admettait naguère encore que le fonda-
-
-[p. 708]
-
-teur de la psychologie était Socrate , qui , par son célèbre « connais-
+La philosophie moderne admettait naguère encore que le fonda-[p. 708]teur de la psychologie était Socrate , qui , par son célèbre « connais-
 toi toi-même » , avait institué la méthode réflexive qui
 est la
 première forme de la méthode dialectique , de la méthode philoso-
@@ -39670,11 +37636,7 @@ plus trouver que des détails , des nuances, des raffinements , des
 subtilités . Même à ce degré où il touche à la profondeur, il ne fera
 que descendre plus avant dans les nuances plus délicates ou plus
 cachées . Il ne saisit pas le général, il n'explique pas . Dans ces con-
-ditions , le psychologue devient un romancier ou un poète d'une
-
-[p. 709]
-
-espèce particulière , qui cherche l'abstrait au lieu du concret, qui
+ditions , le psychologue devient un romancier ou un poète d'une [p. 709] espèce particulière , qui cherche l'abstrait au lieu du concret, qui
 dissèque au lieu de créer ; et la psychologie devient une forme de
 critique littéraire très approfondie, très bien raisonnée ; rien de
 plus . L'étude des phénomènes psychiques dans leur totalité, de la
@@ -39723,11 +37685,7 @@ Trop de raisonnements : telle est l'impression que laisse l'ancienne
 psychologie aux partisans de la nouvelle. Le raisonnement, c'est la
 confiance de l'esprit en lui-même et la foi à la simplicité des choses .
 La nouvelle psychologie soutient que l'esprit doit se défier de lui-
-même et croire à la complexité des choses . Même dans l'ordre bien
-
-[p. 710]
-
-moins complexe des sciences biologiques , nos inductions et nos
+même et croire à la complexité des choses . Même dans l'ordre bien [p. 710] moins complexe des sciences biologiques , nos inductions et nos
 déductions reçoivent à chaque pas des démentis . Ce qui doit être
 n'est pas ; ce qui est inféré n'est pas vérifié ; où la logique dit oui ,
 l'expérience dit non .
@@ -39777,11 +37735,7 @@ elles leurs affaires . Dans cette
 espèce de phraséologie,
 l'esprit apparaît souvent
 comme une
-sorte de champ dans lequella perception, la mémoire, l'imagination ,
-
-[p. 711]
-
-la raison, la volonté, la conscience , les passions produisent leurs
+sorte de champ dans lequella perception, la mémoire, l'imagination , [p. 711] la raison, la volonté, la conscience , les passions produisent leurs
 opérations , comme autant de puissances alliées entre elles ou en
 hostilité . Parfois l'une de ces facultés a la suprématie et les autres
 sont subordonnées ; l'une usurpe l'autorité et une
@@ -39834,11 +37788,7 @@ prédominance de ces faits imaginaires dans les écrits métaphysiques
 
 (psychologiques ) montre que l'humanité en estdans la philosophie
 mentale à cette période où, en physique, on parlait de transmuta-
-tion des métaux, d'élixir de vie, d'influence des étoiles , d'existence
-
-[p. 712]
-
-d'une légèreté substantielle, d'une horreur de la nature pour le
+tion des métaux, d'élixir de vie, d'influence des étoiles , d'existence [p. 712] d'une légèreté substantielle, d'une horreur de la nature pour le
 vide et autres choses semblables . »
 (Ribot, Psychologie anglaise contemporaine , Introduction , pages 29 ,
 30 et 31. )
@@ -39898,11 +37848,7 @@ avaient commencé avec Fechner, Weber, et les psycho-physiciens ,
 sensations , les temps de réaction , la durée de certains faits psycho-
 logiques .
 Bain ,
-Bailey , Mill, Lewes , Spencer, J. Sully, en Angleterre ;
-
-[p. 713]
-
-W. James , Wood, Titchener, en Amérique ; Lotze , Wundt, Münster-
+Bailey , Mill, Lewes , Spencer, J. Sully, en Angleterre ; [p. 713] W. James , Wood, Titchener, en Amérique ; Lotze , Wundt, Münster-
 berg, en Allemagne ; Taine, Ribot, Pierre Janet , Dumas , Binet , en
 France, Lange et Höffding, en Danemarck, sont les principaux
 savants qui ont le plus contribué à développer, soit par les expé-
@@ -39948,11 +37894,7 @@ pas absolument le fait lui-même .
 -
 B) Les débuts de la méthode positive.
 On commence au
-xvm . siècle à observer les faits historiques d'une façon objective et
-
-[p. 714]
-
-à considérer que, si l'homme est une volonté libre, à tout lemoins ,
+xvm . siècle à observer les faits historiques d'une façon objective et [p. 714] à considérer que, si l'homme est une volonté libre, à tout lemoins ,
 
 il y a des influences constantes qui limitent cette liberté. Montes-
 quieu parle du caractère des peuples, des influences du climat . Il
@@ -39997,11 +37939,7 @@ vent , dans la nature individuelle de l' « homo economicus » ,
 les
 principes d'une explication suffisante de tous les faits économiques :
 l'homme cherchant toujours le plus grand avantage au prix de la
-plus petite peine, les relations économiques devaient nécessaire
-
-[p. 715]
-
-ment être telles ou telles . De même les théoriciens du droit naturel
+plus petite peine, les relations économiques devaient nécessaire [p. 715] ment être telles ou telles . De même les théoriciens du droit naturel
 recherchentles caractèresjuridiques et moraux de la nature humaine ,
 et les institutions juridiques sont à leurs yeux des tentatives plus
 ou moins heureuses pour satisfaire les rigueurs de cette nature ;
@@ -40056,9 +37994,7 @@ pense Durkheim , il est incontestable qu'il y a des faits sociaux et
 une vie sociale, qu'ils ont leurs facteurs spéciaux et qu'ils doivent
 faire l'objet d'une science naturelle .
 
-[p. 716]
-
-716
+[p. 716] 716
 LOGIQUE
 D) Les conceptions actuelles des sciences historiques et
 sociales .
@@ -40106,11 +38042,7 @@ ries soi-disant valables pour toute l'humanité , les seules explications
 que les historiens croient possibles ne s'appliqueraient qu'à telle
 société déterminée, considérée à tel moment précis de son évolu-
 tion . On n'admet pas qu'il y ait de causes générales partout agis-
-santes dont la recherche peut être utilement entreprise; on s'as-
-
-[p. 717]
-
-signe pour tâche d'enchaîner des événements particuliers à des
+santes dont la recherche peut être utilement entreprise; on s'as-[p. 717]signe pour tâche d'enchaîner des événements particuliers à des
 événements particuliers . En réalité , on suppose dans les faits une
 infinie diversité ainsi qu'une infinie contingence ...>>>
 Tout autre est l'explication proprement sociologique ... D'abord elle
@@ -40122,7 +38054,7 @@ l'autre sont également explicables. Aussi, tous les faits qui pré-
 sentent les caractères indiqués comme ceux du fait social, peuvent
 et doivent être objets de recherches . Il y en a que le sociologue ne
 peut actuellement intégrer dans un système , il n'y en a pas qu'il ait
-le droit de mettre , a priori, en dehors de la science et de l'explica-
+le droit de mettre , *a priori*, en dehors de la science et de l'explica-
 tion . La sociologie ainsi entendue n'est donc pas une vue générale et
 lointaine de la réalité collective, mais elle en est une analyse aussi
 profonde , aussi complète que possible. Elle s'oblige à l'étude du
@@ -40157,11 +38089,7 @@ institu-
 tions s'engendrent les unes les autres ; par exemple, comment le
 culte des ancêtres s'est développé sur le fond des rites funéraires .
 D'autre fois elle apercevra de véritables coalescences de phénomènes
-sociaux ; par exemple , la notion si répandue au sacrifice du dieu ,
-
-[p. 718]
-
-est expliquée par une sorte de fusion qui s'est opérée entre cer-
+sociaux ; par exemple , la notion si répandue au sacrifice du dieu , [p. 718] est expliquée par une sorte de fusion qui s'est opérée entre cer-
 tains rites sacrificiels et certaines notions mystiques ...
 Mais comment les faits sociaux se produisent-ils ainsi les uns les
 autres ? Quand nous disons que des institutions produisent des
@@ -40206,11 +38134,7 @@ la première sont, en effet, d'une tout autre nature que celles dont
 s'occupela seconde . C'estdéjà ce qui ressort de ce que nous avons dit
 à propos des caractères du phénomène social, car il est évident
 que des faits qui possèdentdes propriétés aussi différentes ne peuvent
-pas être de même espèce, il y a , dans les consciences, des repré
-
-[p. 719]
-
-sentations collectives qui sont distinctes des représentations indi-
+pas être de même espèce, il y a , dans les consciences, des repré [p. 719] sentations collectives qui sont distinctes des représentations indi-
 viduelles . Sans doute les sociétés ne sont faites qu'à la manière
 dont les consciences individuelles peuvent agir et réagir les unes
 sur les autres au sein d'un groupe constitué. Mais ces actions et
@@ -40241,9 +38165,7 @@ mique , de mouvements des foules , d'hallucination collective , etc. >>>
 
 (Mauss et Fauconnet, article : Sociologie de la Grande Encyclopédie . )
 
-[p. 720]
-
-لا
+[p. 720] لا
 
 CHAPITRE XXXIX
 
@@ -40305,9 +38227,7 @@ suffit
 d'observer , c'est-à-dire d'appliquer son attention aux faits tels que
 la nature nous les présente .
 
-[p. 721]
-
-Mais il est loin d'en être ainsi dans le domaine de ce qu'on appe-
+[p. 721] Mais il est loin d'en être ainsi dans le domaine de ce qu'on appe-
 
 iait autrefois les sciences morales
 et politiques et qui constitue
@@ -40367,11 +38287,7 @@ est elle-même une cause de trouble . L'impartialité de l'observateur
 a donc peu de garantie dans l'observation interne .
 3º Il est vrai que la mémoire peut apporter un remède à ces
 
-46
-
-[p. 722]
-
-inconvénients . Par le souvenir, on peut observer à plusieurs
+46 [p. 722] inconvénients . Par le souvenir, on peut observer à plusieurs
 reprises le même état psychologique, ce qui remédie à son instabilité.
 On peut rectifier et corriger ses premières observations, observer
 enfin après coup les états qui ne permettaient guère le dédouble-
@@ -40418,11 +38334,7 @@ la conscience
 : <<mais la conscience n'est pas un monde absolu-
 ment clos ; à chaque instant de nouveaux phénomènes surgissent
 que, du seul point de vue de la conscience, nous ne pouvors pas
-dériver de quelque chose d'antérieur. Toute sensation nouvelle
-
-[p. 723]
-
-semble naître de rien. Nous pouvons sans doute suivre ses trans-
+dériver de quelque chose d'antérieur. Toute sensation nouvelle [p. 723] semble naître de rien. Nous pouvons sans doute suivre ses trans-
 formations et ses effets dans la conscience ; mais nous ne pouvons
 rien dire sur la manière dont elle y a pénétré au début. » (Id. , 29. )
 En particulier l'origine d'un fait de conscience doit être souvent
@@ -40470,11 +38382,7 @@ questionnaires .
 « La méthode des tests (épreuve) consiste dans la détermi-
 nation , chez un homme normal, des caractères physiques et psy-
 chiques qui lui sont propres. Les premiers essais de ce genre ont
-été publiés aux États-Unis en 1897. Ils forment la base de l'anthro
-
-[p. 724]
-
-pométrie dont nous n'avons pas à nous occuper. D'après les pro-
+été publiés aux États-Unis en 1897. Ils forment la base de l'anthro [p. 724] pométrie dont nous n'avons pas à nous occuper. D'après les pro-
 moteurs de ce procédé, les tests ont une grande valeur pour déter-
 miner la nature et la portée des variations individuelles et des
 différences de classes . Ils sont instructifs surtout quand ils peuvent
@@ -40511,7 +38419,7 @@ une tendance à en surfaire la valeur. Or il convient de remarquer
 que les statistiques et pourcentages n'ont qu'une apparence de ri-
 gueur scientifique ; d'autre part, ce procédé de mesure appliqué aux
 formes supérieures de la vie psychologique , même à la mémoire et
-à l'association , a fortiori aux opérations complexes du raison-
+à l'association , *a fortiori* aux opérations complexes du raison-
 nement, de la construction imaginative , aux passions , etc. , ne sont
 pas toujours efficaces : ils sont trop simples, trop restreints, sou-
 vent superficiels, sans garantie suffisante et ils ne peuvent être
@@ -40520,11 +38428,7 @@ II.
 « Sans que je puisse en fournir la preuve , l'enquête appli-
 quée aux faits de psychologie comme procédé intermédiaire entre
 l'observation et l'expérimentation me paraît d'origine anglaise...
-Dans cette méthode, je distingue deux formes très différentes
-
-[p. 725]
-
-qu'il faut étudier séparément : l'enquête indirecte ou questionnaire
+Dans cette méthode, je distingue deux formes très différentes [p. 725] qu'il faut étudier séparément : l'enquête indirecte ou questionnaire
 proprement dit, l'enquête directe ou orale .
 1º Le procédé du questionnaire est si connu qu'il est inutile de
 le décrire . On ne peut nier qu'au premier abord il est séduisant .
@@ -40572,11 +38476,7 @@ générale et spéciale . L'ignorance de tous ces facteurs nous lancerait
 dans l'inconnu .
 Ensuite , il y a l'interprétation des réponses par le psychologue .
 Ceci
-est une épuration personnelle inévitable . Tout l'effort doit
-
-[p. 726]
-
-tendre à la réduire au minimum . L'attitude de l'interrogateur doit
+est une épuration personnelle inévitable . Tout l'effort doit [p. 726] tendre à la réduire au minimum . L'attitude de l'interrogateur doit
 ètre passive , réceptive, et sa vertu principale consiste à ressembler
 à un instrument enregistreur. Dans
 certaines
@@ -40632,9 +38532,7 @@ pendant des siècles , sur des résultantes enfin, où les particularités
 se sont évanouies pour ne laisser la place qu'aux phénomènes géné-
 raux , conséquences des causes générales .
 
-[p. 727]
-
-(
+[p. 727] (
 ( Les langues , disait Max Müller, contiennent une psychologie
 pétrifiée . Les trois grandes
 classes d'idiome
@@ -40698,11 +38596,7 @@ nous laisse
 mieux
 voir
 les
-que
-
-[p. 728]
-
-grands traits de la vie psychologie et ses facteurs primordiaux .
+que [p. 728] grands traits de la vie psychologie et ses facteurs primordiaux .
 On peut y ajouter l'étude des cas spéciaux : les renseignements
 que nous pouvons
 tirer des œuvres littéraires où l'artiste a essayé
@@ -40753,11 +38647,7 @@ Enfin
 elle nous
 montre au -dessus des manifestations plus complexes , plus instables ,
 plus
-rares , celles que la dissolution détruit les premières , parce
-
-[p. 729]
-
-qu'elles sont les dernières formées . Cette introduction de l'idée de
+rares , celles que la dissolution détruit les premières , parce [p. 729] qu'elles sont les dernières formées . Cette introduction de l'idée de
 genèse en psychologie , cette substitution de l'hypothèse d'un déve-
 loppement lent à travers les espèces et dans l'individu
 ce qu'on
@@ -40807,11 +38697,7 @@ grace à leurs relations avec les conditions physiques de leur pro-
 duction ; la deuxième , avec leurs conditions organiques .
 1° La psycho-physique, « dans ces dernières années , a étudié expé-
 rimentalement la genèse et l'action réciproque des sensations , les
-cas les plus simples de synthèse représentative, les sentiments de
-
-[p. 730]
-
-plaisir et de douleur, le temps rempli par ces faits de conscience
+cas les plus simples de synthèse représentative, les sentiments de [p. 730] plaisir et de douleur, le temps rempli par ces faits de conscience
 élémentaires et d'autres analogues¹ »
 ( attention , réflexes , etc. ) .
 Elle a surtout procédé à des mensurations de la durée et de l'in-
@@ -40862,9 +38748,7 @@ un des meilleurs exemples à produire pour montrer combien est [^p730-1]
 
 [^p730-1]: Hoffding , p . 26. Voiriciles chapitres de psychologie relatifs aux phénomènes cités .
 
-[p. 731]
-
-fructueuse la méthode pathologique . La faculté de la parole volon-
+[p. 731] fructueuse la méthode pathologique . La faculté de la parole volon-
 taire , de la répétition des mots entendus , de lalecture à haute voix ,
 de l'écriture volontaire ou sous la dictée, de la compréhension des
 mots parlés , des mots écrits , la faculté de copier, toutes ces facul-
@@ -40913,11 +38797,7 @@ l'activité inconsciente ou subcon-
 sciente . Il est clair que la méthode d'observation intérieure est ici
 d'usage nul , ou ne peut servir qu'à tromper. C'est avec l'emploi
 toujours grandissant de la méthode objective que la psychologie ,
-confinée longtemps dans la conscience claire , a étendu son domaine
-
-[p. 732]
-
-et s'est habituée à admettre que ce quitombe sous ses prises n'est
+confinée longtemps dans la conscience claire , a étendu son domaine [p. 732] et s'est habituée à admettre que ce quitombe sous ses prises n'est
 qu'une faible partie de la vie mentale .
 L'hypnotisme est un procédé excellent pour explorer ce monde
 souterrain qui, connu on inconnu , fait partie de nous-même, qui
@@ -40960,11 +38840,7 @@ préparatoire la critique des textes, n'est rien autre en effet que la
 reconstitution des faits sociaux et la première démarche des sciences
 sociales . Dans
 l'état actuel de ces sciences , il faut reconnaître
-même que tout le travail se borne à peu près à cette première dé-
-
-[p. 733]
-
-marche , et que les généralisations inductives et les déductions pro-
+même que tout le travail se borne à peu près à cette première dé-[p. 733]marche , et que les généralisations inductives et les déductions pro-
 bantes y sont fort vagues et fort rares .
 
 LA MÉTHODE HISTORIQUE
@@ -41006,9 +38882,7 @@ sement encore fort imparfaits - de l'heuristique . [^p733-1]
 
 [^p733-1]: Ce chapitre est à peu près l'analyse du remarquable ouvrage de Seignobos et Langlois , Introduction à la Méthode historique , à qui sont empruntées toutes les citations .
 
-[p. 734]
-
-B. Critique historique . — a) GÉNÉRALITÉS
+[p. 734] B. Critique historique . — a) GÉNÉRALITÉS
 : DEUX ESPÈCES DE DOCU-
 MENTS . - Les documents réunis, d'une façon souvent assez pénible ,
 
@@ -41055,11 +38929,7 @@ de l'imprimé) pour aboutir au fait ancien .
 « D'abord on observe le document : Est-il tel qu'il était lorsqu'il a
 été produit ? N'a-t-il pas été fabriqué ? afin de le restituer au besoin
 dans sa teneur originelle et d'en déterminer la provenance . Ce pre-
-mier groupe de recherches préalables , qui porte sur l'écriture , la
-
-[p. 735]
-
-langue , les formes , les sources , etc. , constitue le domaine particu-
+mier groupe de recherches préalables , qui porte sur l'écriture , la [p. 735] langue , les formes , les sources , etc. , constitue le domaine particu-
 lier de la critique externe ou critique d'érudition (ou critique philo-
 logique) . Ensuite intervient la critique interne : elle travaille au
 moyen de raisonnements par analogie... à se représenter les états
@@ -41110,11 +38980,7 @@ aussi conforme que possible au manuscrit autographe de l'auteur ;
 et lorsque le texte est mauvais , l'améliorer . Agir autrement est dan-
 gereux... Des théories ont été en effet bâties sur des passages viciés
 par des erreurs de transcription, qui sont tombées à plat, en bloc,
-lorsque le texte original de ces passages a été découvert ou resti
-
-[p. 736]
-
-tué ... Tous les documents historiques n'ont pas été publiés jus-
+lorsque le texte original de ces passages a été découvert ou resti [p. 736] tué ... Tous les documents historiques n'ont pas été publiés jus-
 qu'ici de manière à procurer aux historiens la sécurité dont ils ont
 besoin, et quelques historiens agissent encore comme s'ils ne se
 rendaient pas compte qu'un texte mal établi est, par cela même ,
@@ -41128,7 +38994,7 @@ Premier cas . — <<Le cas le plus simple est celui où l'on possède
 l'original, l'autographe même de l'auteur . Il n'y a qu'à en repro-
 duire le texte avec une exactitude complète ... »
 Deuxième cas . — « L'original est perdu ; on n'en connaît qu'une
-copie. Il faut se tenir sur ses gardes , car il est probable , a priori ,
+copie. Il faut se tenir sur ses gardes , car il est probable , *a priori* ,
 que cette copie contient des fautes . Les textes dégénèrent suivant
 certaines lois . On s'est appliqué à distinguer et à classer les causes
 et les formes ordinaires des différences qui s'observent entre les
@@ -41158,11 +39024,7 @@ générales sur le processus de la dégénérescence des textes, la con-
 naissance approfondie
 : 1° d'une langue ; 2° d'une paléographie
 spéciale ; 3º des confusions (de lettres , de sens et de mots) dont
-les copistes de textes rédigés dans la même langue et écrits de la
-
-[p. 737]
-
-même manière avaient ou ont l'habitude . Pour l'apprentissage de
+les copistes de textes rédigés dans la même langue et écrits de la [p. 737] même manière avaient ou ont l'habitude . Pour l'apprentissage de
 l'émendation conjecturale des textes grecs et latins, des réper-
 toires (alphabétiques et méthodiques) de variantes de tradition , de
 confusions fréquentes , de corrections probables ont été dressés >>>
@@ -41216,11 +39078,7 @@ de pureté la même tradition, on recourt encore à la méthode de la
 comparaison des fautes. Elle permet ordinairement de dresser sans
 trop de peine un tableau généalogique complet des exemplaires
 
-47
-
-[p. 738]
-
-conservés qui met très clairement en relief leur importance relative .
+47 [p. 738] conservés qui met très clairement en relief leur importance relative .
 Quand l'arbre généalogique des exemplaires est dressé, on com-
 pare, pour restituer le texte de l'archetype, les traditions indépen-
 dantes .
@@ -41276,9 +39134,7 @@ qui sert à déterminer, autant que possible, celle des documents
 dépourvus de toute indication d'origine. Les procédés sont les
 mêmes dans les deux cas .
 
-[p. 739]
-
-α) « Le principal instrument de la critique de provenance
+[p. 739] α) « Le principal instrument de la critique de provenance
 est
 l'analyse interne du document considéré, faite en vue d'y relever
 tous les indices propres à renseigner sur l'auteur, sur le temps et
@@ -41329,11 +39185,7 @@ aient rapportés de la même façon. On s'attache à former des
 familles de documents de la même manière que l'on forme des
 familles de manuscrits... Les examinateurs qui corrigent les com-
 positions des candidats au baccalauréat ont quelquefois à s'aperce-
-voir que les copies de deux candidats (placés l'un à côté de l'autre)
-
-[p. 740]
-
-ont un air de famille . S'il leur plaît de rechercher quelle est celle
+voir que les copies de deux candidats (placés l'un à côté de l'autre) [p. 740] ont un air de famille . S'il leur plaît de rechercher quelle est celle
 dont l'autre dérive, ils la reconnaissent aisément, en
 dépit des
 petits
@@ -41372,7 +39224,7 @@ tion...
 en vue d'une œuvre historique et celui de l'érudit qui compose un
 regeste . Regestes (de regerere, consigner par écrit) et Corpus sont
 des collections , méthodiquement classées, de documents historiques .
-Les documents sont reproduits in extenso dans un corpus, analysés
+Les documents sont reproduits *in extenso* dans un corpus, analysés
 et décrits dans un regeste. Corpus et regestes sont destinés à aider
 les travailleurs dans la collection des documents . Des érudits se
 dévouent à effectuer une fois pour toutes des besognes de recherche
@@ -41389,11 +39241,7 @@ scriptorum ecclesiasticorum
 latinorum; regesta imperii ; regesta
 pontificorum romanorum) .
 
-c) CRITIQUE INTERNE . - Étudions maintenant les opérations de la
-
-[p. 741]
-
-critique interne destinée à rétablir le sens du document : « La cri-
+c) CRITIQUE INTERNE . - Étudions maintenant les opérations de la [p. 741] critique interne destinée à rétablir le sens du document : « La cri-
 tique est destinée à discerner dans le document ce qui peut être
 accepté comme vrai. Or le document n'est que le résultat dernier
 d'une longue série d'opérations dont l'auteur ne nous fait pas
@@ -41441,11 +39289,7 @@ pays , etc., il faut savoir la langue du temps, du pays , de l'auteur, le
 sens particulier du passage. Car une expression change de sens
 suivant le passage où elle se trouve ; on doit donc interpréter
 chaque mot et chaque phrase non pas isolément, mais en tenant
-compte du sens général du morceau (le contexte) . C'est la règle du
-
-[p. 742]
-
-contexte , règle fondamentale de l'interprétation. Elle implique
+compte du sens général du morceau (le contexte) . C'est la règle du [p. 742] contexte , règle fondamentale de l'interprétation. Elle implique
 qu'avant de faire usage d'une phrase ou d'un texte on a lu le texte
 dans son ensemble ; elle interdit de ramasser dans un travail mo-
 derne des citations , c'est-à-dire des lambeaux de phrase arrachés
@@ -41495,11 +39339,7 @@ admettre l'erreur ou le mensonge ; ainsi s'est imposée la nécessité
 de la critique négative pour écarter les affirmations manifestement
 menteuses ou erronées . >>>
 Mais l'instinct de confiance est si indestructible que la plupart
-des historiens en sont restés sur ce point à des notions vulgaires et
-
-[p. 743]
-
-des formules vagues. « Ils se bornent à examiner si l'auteur a été
+des historiens en sont restés sur ce point à des notions vulgaires et [p. 743] des formules vagues. « Ils se bornent à examiner si l'auteur a été
 en général contemporain des faits , s'il en a été témoin oculaire ; s'il
 a été sincère et bien informé, s'il a su la vérité ou s'il a voulu la
 dire ; ou même , résumant tout en une formule, s'il a été digne de
@@ -41509,7 +39349,7 @@ l'absence de critique, et elle a suffi pour donner à ceux qui l'ont
 pratiquée laconscience d'une supériorité incontestable ; mais elle n'est
 qu'à mi-chemin entre la crédulité vulgaire et une méthode scienti-
 fique . Ici , comme en toute science, le point de départ doit être le
-doute méthodique... L'historien doit , a priori, se défierde toute affir-
+doute méthodique... L'historien doit , *a priori*, se défierde toute affir-
 mation d'un auteur, car il ignore si elle n'est pas mensongère ou
 erronée. Elle nepeut être pour lui qu'une présomption. La critique
 interne aboutit à deux règles générales :
@@ -41545,9 +39385,7 @@ causes d'incorrection. On l'appliquera aux conditions générales de
 composition du document pour découvrir celles qui ont pu rendre
 les opérations incorrectes et vicier les résultats ...
 
-[p. 744]
-
-β « La critique des affirmations particulières ne peut se faire que
+[p. 744] β « La critique des affirmations particulières ne peut se faire que
 par un seul procédé, singulièrement paradoxal : l'étude des condi-
 tions universelles de composition des documents ... On sait dans quels
 cas l'homme en général est enclin à altérer volontairement ou à
@@ -41592,11 +39430,7 @@ ou collectif.
 »
 Cas d'une affirmation de seconde main ou anопуте .- « Ces deux
 premières séries de questions sur la sincérité et l'exactitude des affir-
-mations du document supposent que l'auteur a observé lui-même le
-
-[p. 745]
-
-fait... » Mais, en histoire, la pénurie des observations directes, même
+mations du document supposent que l'auteur a observé lui-même le [p. 745] fait... » Mais, en histoire, la pénurie des observations directes, même
 médiocrement faites, est si grande qu'on en est réduit à tirer parti des
 documents dont ne voudrait aucune autre science... << Dans presque
 tout document, le plus grand nombre des affirmations ne viennent
@@ -41641,11 +39475,7 @@ blement liée , en fait, à la lecture des documents .
 sur le modèle d'un ensemble observé dans la réalité, et supposé ana-
 logue à l'ensemble passé. C'est la seconde opération. Elle se fait
 au moyen d'un questionnaire et aboutit à découper dans la masse
-des faits historiques des morceaux de même nature, qu'on groupe
-
-[p. 746]
-
-ensuite entre eux, jusqu'à ce que toute l'histoire du passé soit classée
+des faits historiques des morceaux de même nature, qu'on groupe [p. 746] ensuite entre eux, jusqu'à ce que toute l'histoire du passé soit classée
 dans un cadre universel .
 
 3º Quand on a rangé dans ce cadre les faits extraits des documents ,
@@ -41697,11 +39527,7 @@ consciences individuelles , en vertu du premier caractère .
 
 C. Expérimentation indirecte en sociologie.-Méthode com-
 parative .
-Dans les sciences sociales, l'expérimentation paraît en
-
-[p. 747]
-
-core plus impossible qu'en psychologie . Comment expérimenter sur
+Dans les sciences sociales, l'expérimentation paraît en [p. 747] core plus impossible qu'en psychologie . Comment expérimenter sur
 une société , supprimer un de ses rouages essentiels , sans causer une
 révolution effroyable? Une « vivisection sociale >> serait autrement
 dangereuse , à supposer qu'elle soit possible, qu'une « vivisection
@@ -41747,13 +39573,9 @@ en s'égarant, par défaut de méthode, dans des voies de traverse .
 1º La règle fondamentale de la méthode sociologique consistera
 donc , selon la formule si nette de Durkheim , à « traiter les faits so-
 ciaux comme les choses » . Pour cela , il faut écarter de la science
-toutes les idées a priori qu'on peut se faire, ou que la tradition
+toutes les idées *a priori* qu'on peut se faire, ou que la tradition
 vulgaire se fait de ces phénomènes , toutes les conceptions indivi-
-duelles , si séduisantes qu'elles soient. Il sera indispensable de
-
-[p. 748]
-
-grouper les faits d'après leurs caractères extérieurs, très apparents ,
+duelles , si séduisantes qu'elles soient. Il sera indispensable de [p. 748] grouper les faits d'après leurs caractères extérieurs, très apparents ,
 et aussi objectifs que possible , et non d'après le résultat d'une ana-
 lyse interne , où l'on risque de prendre ce qui est momentané ou
 partiel , surtout ce qui est interprétation personnelle, ce qui peut
@@ -41804,11 +39626,7 @@ par des causes psychologiques , c'est confondre deux sciences bien
 séparées , et c'est revenir presque toujours à ce point de vue finaliste ,
 tare de toutes les idéologies métaphysiques , car c'est expliquer les
 faits sociaux par une soi-disant utilité individuelle, comme si la vie
-sociale était organisée consciemment par des volontés individuelles
-
-[p. 749]
-
-et pour des fins particulières . Ce point de vue utilitaire a partout
+sociale était organisée consciemment par des volontés individuelles [p. 749] et pour des fins particulières . Ce point de vue utilitaire a partout
 montré sa puérilité et son insuffisance . Les faits sociaux dépassent
 les consciences individuelles et, loin d'être posés par celles- ci ,
 s'imposent au contraire à elles . En somme, il s'agit de rester fidèle
@@ -41855,9 +39673,7 @@ analytique , défiante et irrespectueuse , qu'on appelle « le sens critique » 
 ou encore l'esprit critique, et qui est seulement l'habitude incons-
 ciente de la critique .
 
-[p. 750]
-
-Si c'est surtout pour les faits historiques que se voit la nécessité
+[p. 750] Si c'est surtout pour les faits historiques que se voit la nécessité
 de cet esprit critique , il reste pourtant l'attitude universelle qui
 s'impose absolument, lorsqu'il s'agit d'établir des faits , c'est -à-dire
 au début de toute recherche de la vérité . Seulement , dans les sciences
@@ -41880,9 +39696,7 @@ quelle qu'elle soit, sans se laisser égarer par les apparences, les
 illusions , les préjugés, les autorités traditionnelles et surtout la par-
 tialité .
 
-[p. 751]
-
-1.
+[p. 751] 1.
 
 CHAPITRE XL
 
@@ -41941,9 +39755,7 @@ mathématiquement évaluer dans un grand nombre de cas la pro-
 babilité (calcul des probabilités) . On estime ainsi le nombre des
 chances de vérité et d'erreur .
 
-[p. 752]
-
--
+[p. 752] -
 
 On distingue encore la vérité absolue et la vérité relative . La
 vérité absolue serait la vérité indépendante de toute condition ,
@@ -41995,9 +39807,7 @@ s'exercent . L'erreur ne commence que lorsque nous interprétons
 
 | leurs données . L'erreur des sens vient donc de ce que la perception
 
-[p. 753]
-
-L'ERREUR ET LA VÉRITÉ
+[p. 753] L'ERREUR ET LA VÉRITÉ
 753
 
 n'est pas simple, mais résulte d'une construction de
@@ -42050,9 +39860,7 @@ pour accordée .
 
 48
 
-[p. 754]
-
-Nous prenons ces données sans les critiquer, dans leur sens usuel
+[p. 754] Nous prenons ces données sans les critiquer, dans leur sens usuel
 et pratique , et nous ne nous
 préoccupons que des rapports que
 l'esprit établit entre ces données , celles-ci étant la référence der-
@@ -42109,9 +39917,7 @@ commun avec les idées de celui-ci .
 Elles consistent toujours à fonder sur
 un fait accidentel une loi générale ou à infirmer une loi à l'aide
 
-[p. 755]
-
-L'ERREUR ET LA VÉRITÉ
+[p. 755] L'ERREUR ET LA VÉRITÉ
 755
 
 d'une conséquence accidentelle : croire qu'un fait est la cause
@@ -42162,9 +39968,7 @@ par là un signe auquel on reconnaîtrait d'une façon indubitable la
 vérité d'une proposition prise isolément, et qui fonderait notre
 certitude d'une façon inébranlable .
 
-[p. 756]
-
-756
+[p. 756] 756
 LOGIQUE
 On a proposé un grand nombre de critériums
 :
@@ -42214,9 +40018,7 @@ hésitation la vérité de tout ce qui est démontré .
 donc plus qu'une voie pour trouver un critérium. C'est deconsidérer
 les propositions dont nous avons besoin pour assurer toute notre
 
-[p. 757]
-
-L'ERREUR ET LA VÉRITÉ
+[p. 757] L'ERREUR ET LA VÉRITÉ
 737
 
 science , en elles -mêmes, et isolément. Si nous pouvons découvrir
@@ -42244,9 +40046,9 @@ Les jugements analytiques dans lesquels l'attribut se tire direc-
 tement du
 sujet répondraient à la question à condition
 qu'ils
-fussent posés par l'esprit a priori . Pour admettre le critérium de
+fussent posés par l'esprit *a priori* . Pour admettre le critérium de
 Descartes , il faudrait donc admettre que notre connaissance repose
-sur des principes a priori , indépendants de l'expérience, ce qui est
+sur des principes *a priori* , indépendants de l'expérience, ce qui est
 une opinion métaphysique, c'est-à-dire une croyance très discutable .
 
 CONCLUSIONS
@@ -42276,11 +40078,7 @@ objectivement et qui ne pourrait pas se produire autrement que par
 ces habitudes , étant donnée notre organisation mentale .
 D'autre part , l'expérience nous montre encore constamment la
 possibilité de réduire certaines lois à d'autres plus générales ,
-si
-
-[p. 758]
-
-bien qu'au terme encore nos connaissances s'organisent dans chaque
+si [p. 758] bien qu'au terme encore nos connaissances s'organisent dans chaque
 science en un système qui se déduit des principes dont nous venons
 de parler, et a autant de valeur qu'eux .
 Enfin , dans les relations constantes qui constituent ces principes ,
@@ -42316,12 +40114,10 @@ tifiques ordinaires , nous donne une méthode valable de connais-
 sance objective : la seule en tout cas qui ait donné des résultats
 incontestés , surtout si l'on songe qu'elle corrige à mesure d'elle-
 même, pourvu qu'on lui soit rigoureusement fidèle , les interpréta-
-tions trop hâtives qu'en fait notre esprit, par les vues a priori qu'il
+tions trop hâtives qu'en fait notre esprit, par les vues *a priori* qu'il
 peut y mêler .
 
-[p. 759]
-
-L'ERREUR ET LA VÉRITÉ
+[p. 759] L'ERREUR ET LA VÉRITÉ
 759
 
 Remarque très importante .
@@ -42359,9 +40155,7 @@ quer, si la critique est loyale et sincère . L'absence ou la restriction des
 droits de la critique ou de la pensée serait la plus forte atteinte portée à
 la méthode scientifique elle-même .
 
-[p. 761]
-
-I.
+[p. 761] I.
 11.
 
 III .
@@ -42433,11 +40227,7 @@ On définit la morale, la recherche des règles de conduite. Mais on
 est loin de s'entendre sur le sens réel de cette définition, c'est-à-
 dire sur l'objet et le caractère de la morale .
 On s'en fait aujourd'hui deux conceptions différentes : 1 ° ou bien
-on suit la voie traditionnelle qu'a suivie jusqu'à ce jour lamorale ;
-
-[p. 762]
-
-762
+on suit la voie traditionnelle qu'a suivie jusqu'à ce jour lamorale ; [p. 762] 762
 PRÉLIMINAIRES ET HISTORIQUE
 LA MORALE .
 
@@ -42487,11 +40277,7 @@ ne peut s'édifier sur des faits que si nous possédons sur la nature
 humaine et les relations sociales des vues assez complètes .
 Or
 l'essor scientifique ne date vraiment que du xvm
-siècle , et les
-
-[p. 763]
-
-sciences morales en sont à leur début. De là une tendance incon-
+siècle , et les [p. 763] sciences morales en sont à leur début. De là une tendance incon-
 sciente à édifier la morale sur des principes tirés directement de la
 réflexion .
 L'interprétation purement idéaliste que l'on donnait de la science,
@@ -42547,11 +40333,7 @@ EXAMEN DES PRINCIPAUX SYSTÈMES DE MORALE INTUITIVE
 s'en tient à quelques principes tirés confusément de l'ensemble de
 notre vie consciente et de nos tendances : à un sens moral que
 chacun perçoit en son for intérieur (morales du sentiment) ; ou qu'on
-précise et élucide ces tendances à l'aide d'une réflexion critique,
-
-[p. 764]
-
-764
+précise et élucide ces tendances à l'aide d'une réflexion critique, [p. 764] 764
 PRELIMINAIRES ET HISTORIQUE
 LA MORALE .
 
@@ -42606,11 +40388,7 @@ fondamentale ; elle trompe l'homme, car, rattachant toutes choses
 les unes aux autres, elle lui fait nier liberté et moralité. La nature,
 au contraire, ne raisonne pas : elle crée d'instinct,
 et, comme
-elle, le sentiment procède par créations intuitives : il nous révèle ,
-
-[p. 765]
-
-sans erreurs possibles , notre nature, par suite le modèle idéal que
+elle, le sentiment procède par créations intuitives : il nous révèle , [p. 765] sans erreurs possibles , notre nature, par suite le modèle idéal que
 nous devons tous imiter .
 Ce qui laisse à désirer dans toutes ces morales, c'est non pas les
 conclusions, qui sont généreuses et belles , mais la justification du
@@ -42661,11 +40439,7 @@ répugne à la justification , étant un élan tout spontané et tout indivi-
 duel, un instinct irrésistible , une intuition confuse, quelque chose
 de très obscur et d'inintelligible .
 Mais allons -nous faire dépendre toute la conduite humaine , qui a
-besoin d'indications si précises et si claires , d'un principe aussi
-
-[p. 766]
-
-766
+besoin d'indications si précises et si claires , d'un principe aussi [p. 766] 766
 LA MORALE .
 PRÉLIMINAIRES ET HISTORIQUE
 
@@ -42718,11 +40492,7 @@ actes de la volonté, nous nous apercevons qu'au lieu d'y employer
 le verbe étre , comme dans les jugements de connaissance , nous y
 employons la formule doit être , le verbe devoir.
 Quand nous agissons, nous ne disons pas du sujet, qui est nous-
-même , qu'il est ceci ou cela, nous disons qu'il doit exécuter ceci ou
-
-[p. 767]
-
-cela . Ces jugements pratiques, qui emploient nécessairement la
+même , qu'il est ceci ou cela, nous disons qu'il doit exécuter ceci ou [p. 767] cela . Ces jugements pratiques, qui emploient nécessairement la
 copule : devoir , sont ce que Kant appelle des impératifs . Or il y a
 deux sortes d'impératifs .
 a) La volonté peut viser dans son acte à se satisfaire par quelque
@@ -42747,7 +40517,7 @@ y obéissant, la volonté estforcément bonnepar elle-même, puisqu'il
 n'y a que sa satisfaction personnelle, il n'y a qu'elle-même qui soit en
 jeu . Je dois obéir au devoir pur, sans aucune autre considération ,
 voilà le principe suprême de la bonne volonté. Cette loi morale est
-a priori et universelle, puisqu'elle ne dépend ni de l'expérience, ni
+*a priori* et universelle, puisqu'elle ne dépend ni de l'expérience, ni
 de nos sentiments particuliers, mais qu'elle est formulée immédia-
 tement par la raison dans toute conscience , dès qu'on veut agir. C'est
 donc la base nécessaire et suffisante de la morale , base qui , d'après
@@ -42773,9 +40543,7 @@ déduire de ce principe les applications pratiques . Je dois , mais
 qu'est-ce que je dois ? Où trouverons-nous la spécification de nos
 différents devoirs ?
 
-[p. 768]
-
-768
+[p. 768] 768
 PRÉLIMINAIRES ET HISTORIQUE
 LA MORALE .
 
@@ -42824,11 +40592,7 @@ pouvoir de suggestion moral, a aussi sa place dans la morale de
 Kant. Le sentiment joue un trop grand rôle dans l'activité, et un
 rôle souvent trop noble pour que la morale se prive de son con-
 cours (comme l'avait fait la morale stoïcienne) . Mais si Kant fait
-au sentiment sa part, il le subordonne étroitement à la loi mo
-
-[p. 769]
-
-rale. Tout acte vraiment moral suggère le respect pour celui qui
+au sentiment sa part, il le subordonne étroitement à la loi mo [p. 769] rale. Tout acte vraiment moral suggère le respect pour celui qui
 l'a fait, et on se respecte soi-même , on garde intact le sentiment
 de sa dignité, quand on agit conformément à la loi morale. Le
 respect, voilà donc un sentiment qui nous permettra de reconnaître
@@ -42850,7 +40614,7 @@ usage pratique , paraît insuffisante .
 Critique générale .- Il reste toujours en effet que, parti d'un prin-
 cipe qui est une forme vide et abstraite, on ne pourra lui fournir
 un contenu et en tirer des devoirs réels et concrets, qu'en faisant
-appel à l'expérience, et non en procédant par déduction a priori,
+appel à l'expérience, et non en procédant par déduction *a priori*,
 comme le veut faire Kant. De toutes façons, on ne peut sans illo-
 gisme, en s'appuyant sur la seule conscience individuelle, établir
 une morale concrète qui règle tous les rapports sociaux. La morale
@@ -42875,11 +40639,7 @@ Ce qui le montre bien, c'est que, par sa morale, Kant établit les
 principes de la métaphysique courante : liberté de l'homme, immor-
 talité de l'âme, existence de Dieu. Pour lui autant de postulats de
 
-49
-
-[p. 770]
-
-770
+49 [p. 770] 770
 PRELIMINAIRES ET HISTORIQUE
 LA MORALE.
 
@@ -42937,9 +40697,7 @@ démontrer , à titre de postulat , l'existence d'un être tout-puissant, infini
 bon, qui seul peut réaliser l'harmonie de la vertu etdu bonheur, laquelle, en elle-même
 ct par les seules lois naturelles , est irréalisable .
 
-[p. 771]
-
-controns à chaque pas dans son étude ? La conscience enfin est
+[p. 771] controns à chaque pas dans son étude ? La conscience enfin est
 éminemment individuelle ; peut-on
 sans sophisme en
 tirer des
@@ -42983,11 +40741,7 @@ le trouvons enfin dans nombre de travaux récents , où l'évolution-
 nisme et le darwinisme sont développés dans un sens scrupuleuse-
 ment naturaliste . La vraie morale naturaliste n'est, à la lettre , que
 l'histoire naturelle de la moralité, sans aucun mélange d'hypothèse
-érigée en règle impérative . Les sciences naturelles recherchent les
-
-[p. 772]
-
-lois qui régissent la formation et les changements des divers êtres
+érigée en règle impérative . Les sciences naturelles recherchent les [p. 772] lois qui régissent la formation et les changements des divers êtres
 de la nature . Elles nous font voir sans aucune idée préconçue par
 quelles phases successives ils ont passé pour parvenir à leur état
 actuel . On applique purement et simplement cette méthode de
@@ -43040,11 +40794,7 @@ la monnaie du
 plaisir. II
 n'existe qu'à condition de pouvoir s'échanger contre le plaisir.
 Rechercher le maximum d'utilité et par suite le maximum de
-plaisir, voilà la loi universelle de nos actions . Mais comment
-
-[p. 773]
-
-atteindre ce maximum. Les divers systèmes
+plaisir, voilà la loi universelle de nos actions . Mais comment [p. 773] atteindre ce maximum. Les divers systèmes
 utilitaristes ou hédo-
 nistes vont essayer de nous l'apprendre , en restant toujours pure-
 ment objectifs, c'est-à-dire en ne tenant compte
@@ -43094,11 +40844,7 @@ près cette manière de voir .
 Pourquoi abdiquer son intérêt privé devant l'intérêt général? Le
 principe est à coup sûr tiré d'une observation exacte, mais encore
 avons-nous besoin d'expliquer cette loi pour bien comprendre les
-actes que nous faisons instinctivement en ce sens . Bentham répond
-
-[p. 774]
-
-774
+actes que nous faisons instinctivement en ce sens . Bentham répond [p. 774] 774
 LA MORALE.
 PRELIMINAIRES ET HISTORIQUE
 
@@ -43152,11 +40898,7 @@ plus complet que les précédents ; mais les exceptions que l'individu
 peut remarquer à cette
 liaison entre l'intérêt particulier et l'in-
 térêt général empêcheraient forcément l'association inséparable et le
-transfert affectif. De plus , on ne découvre que fort tard cette liaison ,
-
-[p. 775]
-
-et par la réflexion. Elle n'est pas spontanée ; elle n'est donc pas la
+transfert affectif. De plus , on ne découvre que fort tard cette liaison , [p. 775] et par la réflexion. Elle n'est pas spontanée ; elle n'est donc pas la
 règle universellement suivie, en fait, ce qu'exigerait le point de
 vue objectif.
 
@@ -43222,9 +40964,7 @@ lien moral
 : L'ordre pour base, l'amour pour principe, le progrès
 pour but , telle est la formule qui résume cette conception .
 
-[p. 776]
-
-776
+[p. 776] 776
 LA MORALE .
 PRELIMINAIRES ET HISTORIQUE
 
@@ -43276,11 +41016,7 @@ exigences de la vie extérieure . Darwin laisse encore une place à la
 réflexion individuelle ; or une théorie absolument objective doit l'éli-
 minercomplètement. C'est ce qu'atenté Spencer, le plus systématique
 de tous les moralistes de cette école , avec une théorie qui eut son
-heure de fortune en sociologie : la théorie de l'organisme social,
-
-[p. 777]
-
-bien qu'il ne lui donne pas la forme exagérée et absurde qui l'a
+heure de fortune en sociologie : la théorie de l'organisme social, [p. 777] bien qu'il ne lui donne pas la forme exagérée et absurde qui l'a
 complètement discréditée aujourd'hui. Il est facile de relever des
 analogies nombreuses entre les fonctions sociales et les fonctions
 physiologiques . Une société naît, grandit, atteint son maximum
@@ -43326,11 +41062,7 @@ de morale objective , en devenantde plus en plus cohérents , finissent
 par éliminer l'individu lui-même et les réactions propres de la con-
 science morale . Tous les actes sont des effets inéluctables des condi-
 tions physiques, biologiques , psychologiques et sociologiques des
-individus . « Le résultat auquel on arrive est évident, et il est proclamé
-
-[p. 778]
-
-778
+individus . « Le résultat auquel on arrive est évident, et il est proclamé [p. 778] 778
 PRÉLIMINAIRES ET HISTORIQUE
 LA MORALE .
 
@@ -43369,7 +41101,7 @@ de la nature , ce qui est (car alors conseiller aux hommes de les
 suivre serait inutile) , mais les moyens d'utiliser, selon les besoins et
 les circonstances, les lois naturelles trouvées par ailleurs , en déter-
 minant idéalement ce qui peut et doit être .
-La morale théorique ne serait alors ni une construction a priori
+La morale théorique ne serait alors ni une construction *a priori*
 ni une simple transcription des faits . Mais sa méthode ne pour-
 rait-elle
 pas
@@ -43384,11 +41116,7 @@ dans un domaine métaphysique et mystique où nous construirions
 un idéal sans savoir s'il est réalisable . Nous tiendrons compte à
 la fois des faits , et de celles des aspirations de notre conscience ,
 que l'incessant devenir des faits permettra de satisfaire . Nous sui-
-vrons en morale la méthode philosophique rationnelle qui, au delà
-
-[p. 779]
-
-du fait, cherche le droit, par delà ce qui est, ce qui doit ftre , mais
+vrons en morale la méthode philosophique rationnelle qui, au delà [p. 779] du fait, cherche le droit, par delà ce qui est, ce qui doit ftre , mais
 enmême temps ce qui peut êtreet ce qui sera . On peut dépasser les
 faits par l'idéal, mais en les continuant, vaincre la nature en obéis-
 sant à ses nécessités . Nous considérerons l'ensemble des faits , et nous
@@ -43448,9 +41176,7 @@ Cette déduction se fait aussi par une intuition immédiate . Le bien
 sommes justes avec la même nécessité que la somme des angles d'un
 triangle égale deux droits .
 
-[p. 780]
-
-780
+[p. 780] 780
 LA MORALE .
 PRÉLIMINAIRES ET HISTORIQUE
 
@@ -43496,11 +41222,7 @@ une expérience très limitée , était elle-même toute métaphysique
 dans ses conclusions . Mais l'effort de la science comme de la mo-
 rale grecques est très nettement rationaliste et positif. La morale
 doit appliquer à la détermination du bien la raison seule, et la rai-
-son qui veut être rigoureusement méthodique , qui n'admet pas
-
-[p. 781]
-
-d'ordre mystique, comme chez Kant, mais tire ses données d'un
+son qui veut être rigoureusement méthodique , qui n'admet pas [p. 781] d'ordre mystique, comme chez Kant, mais tire ses données d'un
 essai d'explication générale de la nature .
 
 B. Rationalisme moderne .
@@ -43549,11 +41271,7 @@ moralité .
 En d'autres termes, les consciences humaines cherchent la per-
 fection en cherchant le bonheur . Mais elles trouvent la perfection
 et le bonheur en se dégageant toujours davantage de l'instinct
-obscur et confus et en devenant, par la science, de plus en plus
-
-[p. 782]
-
-782
+obscur et confus et en devenant, par la science, de plus en plus [p. 782] 782
 PRELIMINAIRES ET HISTORIQUE
 LA MORALE .
 
@@ -43604,9 +41322,7 @@ métal dans sa gangue. Il nous impose le devoir de le poursuivre
 de toutes nos forces . Par là, sur le Bien idéal assigné par la ré-
 flexion, aussi scientifiquement conduite que possible, se fondent
 
-[p. 783]
-
--
+[p. 783] -
 A. Formation de la conscience morale.
 Voici les conclu-
 sions générales qu'admettent la plupart des moralistes modernes
@@ -43649,9 +41365,7 @@ des faits que nous révèle l'observation scientifique et formulera , &
 l'aide de la RAISON, ce qui paraît , en conséquence de ces faits , devoir
 et pouvoir être exigé dans l'avenir pour satisfaire notre conscience .
 
-[p. 784]
-
-784
+[p. 784] 784
 PRÉLIMINAIRES ET HISTORIQUE
 LA MORALE .
 
@@ -43705,11 +41419,7 @@ de la conscience ne sont pas éliminés non plus ; seulement, au
 lieu de rester inexpliqués et inexplicables, comme dans les morales
 sentimentales et religieuses, comme dans la morale kantienne, ils
 sont fondés, en fait et en droit, par une vue rationnelle de la
-nature . Nous arrivons ainsi à construire un eudémonisme rationnel,
-
-[p. 785]
-
-c'est-à-dire une doctrine qui doit donner à l'humanité tout le
+nature . Nous arrivons ainsi à construire un eudémonisme rationnel, [p. 785] c'est-à-dire une doctrine qui doit donner à l'humanité tout le
 bonheur réalisable, en montrant clairement à la raison qu'il est
 réalisable .
 Kant et les intuitifs distinguent bonheur et moralité, bonheur et
@@ -43742,11 +41452,7 @@ du moins l'opinion personnelle que nous proposons à la réflexion
 du lecteur. Nous retrouverons d'ailleurs une discussion plus déve-
 loppée de ces méthodes au chapitre XLIV .
 
-50
-
-[p. 786]
-
-1.
+50 [p. 786] 1.
 
 II .
 III .
@@ -43806,11 +41512,7 @@ rience, « persistent à se présenter comme proprement spéculatives
 et à tenter de légitimer par leurs démonstrations les règles qu'elles
 formulent » . Aussi aboutissent-elles à ce résultat contradictoire ou
 inutile de transformer une loi prétendue inévitable en une règle
-que l'on conseille de suivre . Ne semble-t-il pas qu'en dessous des
-
-[p. 787]
-
-détours ingénieux que l'on prendra, on reviendra toujours se heur-
+que l'on conseille de suivre . Ne semble-t-il pas qu'en dessous des [p. 787] détours ingénieux que l'on prendra, on reviendra toujours se heur-
 ter à cette alternative : ou bien la morale est une science qui , pro-
 cédant comme toutes les autres sciences , tire des faits une loi néces-
 saire, et alors il n'y a plus de règle morale ; ou bien l'individu peut
@@ -43853,11 +41555,7 @@ grossièrement empiriques des règles fondées sur les résultats de ces
 études scientifiques . La morale doit donc, partout où elle le peut,
 devenir un art rationnel et scientifique, comme le sont devenus les
 arts de l'ingénieur ou du chimiste, de l'hygiéniste ou du médecin .
-Les morales théoriques (métamorales) doivent être rangées à côté
-
-[p. 788]
-
-788
+Les morales théoriques (métamorales) doivent être rangées à côté [p. 788] 788
 PRÉLIMINAIRES ET HISTORIQUE
 LA MORALE .
 
@@ -43906,9 +41604,7 @@ une morale , mais d'étudier la réalité morale donnée. L'objet de la
 morale est d'essayer d'intervenir efficacement une fois que nous
 connaîtrons les lois auxquelles obéit la réalité morale.
 
-[p. 789]
-
-III .
+[p. 789] III .
 OBJECTIONS ADRESSÉES A LA CONCEPTION D'UNE MORALE EXCLU-
 
 SIVEMENT PRATIQUE , ET COMMENT SES PARTISANS Y RÉPONDENT
@@ -43955,11 +41651,7 @@ appliquer aux diverses circonstances de notre vie, elles sont obli-
 gées elles aussi de s'adresser aux réalités morales contemporaines .
 Sans cela nous saurions tout simplement que nous avons un devoir
 sans savoir en quoi consiste ce devoir .
-3º Quant à la dernière objection, si la science des mœurs n'est
-
-[p. 790]
-
-790
+3º Quant à la dernière objection, si la science des mœurs n'est [p. 790] 790
 LA MORALE.
 PRÉLIMINAIRES ET HISTORIQUE
 
@@ -44021,11 +41713,7 @@ science
 est
 en
 état d'éclairer la pratique, de nous
-apprendre ce que nous devons vouloir, en fournissant un critère
-
-[p. 791]
-
-objectif qui nous permette de distinguer la santé de la maladie
+apprendre ce que nous devons vouloir, en fournissant un critère [p. 791] objectif qui nous permette de distinguer la santé de la maladie
 dans les divers ordres de phénomènes sociaux , puisque la santé
 est bonne et désirable, et que la maladie au contraire
 est mau-
@@ -44075,11 +41763,7 @@ COMME LA MORALE THÉORIQUE, LA QUESTION DES FINS DE LA VIE .
 Une dernière objection plus grave a été faite à cette manière de
 concevoir la morale . On a dit : Dans tout art on cherche à atteindre
 un but, une fin . Or, qui nous indique ce but en morale : ce ne peut
-être que la morale théorique . Par conséquent, même en admettant
-
-[p. 792]
-
-792
+être que la morale théorique . Par conséquent, même en admettant [p. 792] 792
 LA MORALE .
 PRELIMINAIRES ET HISTORIQUE
 
@@ -44130,9 +41814,7 @@ nature de la société , c'est nier celle-ci, et, par suite, se nier soi
 même .
 »
 
-[p. 793]
-
-Ainsi, dans chaque circonstance où nous avons à nous poser la
+[p. 793] Ainsi, dans chaque circonstance où nous avons à nous poser la
 question de savoir comment nous allons agir, la morale doit exa-
 miner tout ce qui concerne les actions des hommes, dans cette cir-
 constance , au sein de la société où nous vivons . De cet examen
@@ -44175,9 +41857,7 @@ séquence . Ainsi , tout en s'inspirant de la réalité passée et surtout [^p79
 
 [^p793-1]: Rauh considère, en se séparant ici de Durkheim et de Lévy-Brühl , que la morale de l'individu n'est pas la pure et simple prolongation de la morale sociale . Elle s'y superpose et peut revendiquer des principes d'action autonome , qu'elle ne tire d'ailleurs encore que des faits , que d'une observation expérimentale , mais autre- ment entendue que dans la méthode sociologique . Pour lui celle-ci fait, malgré tout, <<<trop adorer à l'homme la trace de ses pas » et ne donne pas assez d'autorité à la conscience et à la raison individuelle en face de la tradition collective .
 
-[p. 794]
-
-794
+[p. 794] 794
 LA MORALE .
 PRELIMINAIRES ET HISTORIQUE
 
@@ -44225,9 +41905,7 @@ pratique à une morale théorique , et enfin les difficultés considé-
 rables qu'il y a à appliquer une méthode scientifique à l'observation
 des réalités morales .
 
-[p. 795]
-
-VII .
+[p. 795] VII .
 CONCLUSIONS GÉNÉRALES , - PROPOSÉES ,
 
 ET LE CARACTÈRE DE LA MORALE
@@ -44272,11 +41950,7 @@ d'éléments importants du sentiment moral . Et, en tout cas, dans
 l'état actuel des choses, c'est ne pas abandonner, trop vite , une
 méthode dont les adversaires sont encore peu nombreux,
 très
-récents , très discutés . Ce sera peut-être aussi, pour ceux-ci , le
-
-[p. 796]
-
-796
+récents , très discutés . Ce sera peut-être aussi, pour ceux-ci , le [p. 796] 796
 LA MORALE.
 PRELIMAIRES ET HISTORIQUE
 
@@ -44329,9 +42003,7 @@ opinion personnelle. Nous ne faisons que la proposer à la réflexion du
 lecteur, en l'invitant à l'examiner et à la critiquer avec toute l'attention
 que comporte le sujet .
 
-[p. 797]
-
-CHAPITRE
+[p. 797] CHAPITRE
 XLIII
 
 NOTIONS HISTORIQUES SUR LA MORALE THÉORIQUE
@@ -44347,7 +42019,7 @@ Première partie : l'obligation .
 L'OBLIGATION DANS LES MORALES INTUITIVES .
 L'analyse des caractères du devoir
 
-(universel , absolu, a priori) dans la morale de Kant.
+(universel , absolu, *a priori*) dans la morale de Kant.
 11.
 L'OBLIGATION DANS LES MORALES NATURALISTES .
 Genèse empirique de la con-
@@ -44395,11 +42067,7 @@ même qu'elles admettent que toutes les règles morales peuvent
 être déduites de quelques principes généraux découverts d'une
 façon spéculative, formuler d'abord ces principes .
 Aussi rencontrons-nous dans toutes ces conceptions, sous le nom
-de données de la conscience morale , de mobiles de la conduite et de
-
-[p. 798]
-
-798
+de données de la conscience morale , de mobiles de la conduite et de [p. 798] 798
 LA MORALE .
 PRÉLIMINAIRES ET HISTORIQUE
 
@@ -44453,9 +42121,7 @@ quences de nos actes , conséquences heureuses ou malheureuses ,
 selon que l'on aura obéi ou non à l'obligation morale .
 Les morales théoriques précisent par là l'idée d'obligation morale.
 
-[p. 799]
-
-Cette obligation se distingue des lois de la nature , qui nous obligent
+[p. 799] Cette obligation se distingue des lois de la nature , qui nous obligent
 elles aussi, en ce sens que la première peut être violée, tandis que
 les secondes ne le peuvent pas . Toutes les fois que nous allons agir ,
 nous nous sentons bien obligés moralement à agir d'une façon plu-
@@ -44491,11 +42157,7 @@ là qui ressemble à la notion d'une obligation, d'un devoir, donnée
 immédiate de la conscience .
 C'est la religion chrétienne qui parait avoir précisé cette notion.
 La morale cartésienne, qui est inspirée par les idées de la Renais-
-sance , ne semble pas pourtant, malgré l'influence du christianisme,
-
-[p. 800]
-
-lui faire jouer un rôle prépondérant . Mais les morales du senti-
+sance , ne semble pas pourtant, malgré l'influence du christianisme, [p. 800] lui faire jouer un rôle prépondérant . Mais les morales du senti-
 ment et surtout la morale de Kant ont dégagé et analysé l'obli-
 gation, et cette notion paraît donc être dans la morale tout à fait
 récente .
@@ -44523,7 +42185,7 @@ homme en a l'idée claire et distincte dès qu'il va agir. En prenant
 cette notion comme fondement de la morale, on a l'avantage de
 donner à celle-ci un principe que tout homme possède en lui et
 qu'il n'a pas besoin d'analyser pour le comprendre ;
-2º La notion d'obligation est a priori : elle est indépendante de
+2º La notion d'obligation est *a priori* : elle est indépendante de
 toute expérience, antérieure à toute expérience, si bien que sa va-
 lidité ne peut dépendre d'aucun fait donné à l'observation . Peu
 importe les mœurs d'un
@@ -44552,11 +42214,7 @@ tout élément d'hésitation et de doute . La morale est une et iden-
 tique ; tout homme porte, en lui la mème loi morale, qu'il soit igno-
 rant on savant, intelligent ou pauvre d'esprit. Kant, par cette
 analyse, pense avoir donné à la morale une base inébranlable , et
-certainement il y aurait réussi si cette analyse était exacte . Mal-
-
-[p. 801]
-
-NOTIONS HISTORIQUES SUR LA MORALE THEORIQUE
+certainement il y aurait réussi si cette analyse était exacte . Mal-[p. 801]NOTIONS HISTORIQUES SUR LA MORALE THEORIQUE
 801
 heureusement cette morale à peine née a été , comme ses devan-
 cières , l'objet de tant de discussions qu'il estbien difficile de croire
@@ -44602,16 +42260,12 @@ Mais , s'il en est ainsi, le sentiment d'obligation n'a plus aucun
 des caractères qui décidaient Kant à fonder sur lui sa morale. Il
 n'est pas un principe, il n'est qu'un résultat. Il n'est pas uni-
 versel, puisqu'il dépend simplement des réactions réciproques des
-individus et du milieu ; il n'est pas a priori, puisqu'il résulte de
+individus et du milieu ; il n'est pas *a priori*, puisqu'il résulte de
 l'expérience et, par suite, les expériences futures peuvent le rui-
 ner aussi bien que les expériences anciennes l'ont établi. De plus ,
 soncontenu n'est pas identique chez tous, puisqu'il est relatif aux
 
-51
-
-[p. 802]
-
-202
+51 [p. 802] 202
 LA MORALE .
 PRÉLIMINAIRES ET HISTORIQUE
 
@@ -44657,11 +42311,7 @@ idéal rationnel .
 A un point de vue positif, on ne peut que constater :
 1º Que dans toute société il y a toujours eu, jusqu'à présent , des
 contraintes qui pèsent sur la conscience de l'individu, que celui-ci
-le veuille ou non ; il senten lui des obligations ;
-
-[p. 803]
-
-2º Mais ces obligations semblent relatives, multiples et par suite
+le veuille ou non ; il senten lui des obligations ; [p. 803] 2º Mais ces obligations semblent relatives, multiples et par suite
 intimement liées aux exigences sociales .
 
 Il y a des obligations particulières incontestables ; il paraît beau-
@@ -44700,11 +42350,7 @@ naturel de chercher la sanction dans la conscience . Le sentiment
 de satisfaction intérieure que nous ressentons lorsque nous avons
 fait notre devoir, le remords qui, par contre, fait souffrir le coupable ,
 ne sont-ils pas la réaction directe de la façon dont on a obéi ou
-non à l'obligation morale sur la conscience de l'agent. De même
-
-[p. 804]
-
-804
+non à l'obligation morale sur la conscience de l'agent. De même [p. 804] 804
 PRÉLIMINAIRES ET HISTORIQUE
 LA MORALE .
 
@@ -44752,14 +42398,12 @@ Cette déduction pourrait être prise en considération, si toutce que
 dit Kant au sujet de l'obligation était à l'abri de la critique . Mais
 nous avons vu qu'il n'en est rien. Cette nouvelle sanction ne peut
 donc servir qu'à ceux qui croient que l'obligation morale est une
-loi innée et a priori de toute conscience . Mais il n'est que trop évi-
+loi innée et *a priori* de toute conscience . Mais il n'est que trop évi-
 dent qu'elle n'a aucune valeur pour ceux qui considèrent que
 l'obligation morale n'est qu'une habitude, un sentiment qu'a déve-
 loppé en nous l'existence sociale .
 
-[p. 805]
-
-VII .
+[p. 805] VII .
 LES SANCTIONS DANS LES MORALES NATURALISTES
 
 Les morales naturalistes ont au contraire cherché dans l'expé-
@@ -44807,11 +42451,7 @@ exiger
 qu'elle soit toujours accompagnée d'une sanction.
 Il faut, en
 d'autres termes, si l'on accepte l'obligation comme fondement
-nécessaire de la morale, avoir l'âme assez haute pour abandonner
-
-[p. 806]
-
-l'idée vulgaire de sanction et dire avec le stoïcien Marc Aurèle :
+nécessaire de la morale, avoir l'âme assez haute pour abandonner [p. 806] l'idée vulgaire de sanction et dire avec le stoïcien Marc Aurèle :
 
 << S'il y a des dieux, il est impossible que le sage ne reçoive pas la
 récompense de sa sagesse ; s'il n'y en a pas, cela ne doit pas empê-
@@ -44858,11 +42498,7 @@ quate à la morale ordinaire, comme ayant même étendue , comme
 étant presque aussi impérative dans ses préceptes . Cela n'est pas
 possible . Lorsque la science a renversé les dogmes des diverses
 religions , elle n'a pas pensé les remplacer tous... ; sa situation à
-l'égard de la morale est la même qu'en face de la religion . Rien
-
-[p. 807]
-
-n'indique qu'une morale purement scientifique , c'est-à-dire fondée
+l'égard de la morale est la même qu'en face de la religion . Rien [p. 807] n'indique qu'une morale purement scientifique , c'est-à-dire fondée
 uniquement sur ce qu'on sait, doive coïncider avec la morale ordi-
 naire, composée en grande partie de choses qu'on sent ou qu'on
 préjuge . Pour faire coïncider ces deux morales, les Bentham et
@@ -44904,11 +42540,7 @@ métaphysique, peut être à jamais cachée dans les nuages ; mais il
 faut qu'elle ait aussi une base solide et qu'on sache avec précision
 le point où l'homme doit se résigner à entrer dans le nuage . »
 Les conclusions des études ou recherches de Guyau peuvent se
-résumer ainsi :
-
-[p. 808]
-
-808
+résumer ainsi : [p. 808] 808
 PRÉLIMINAIRES ET HISTORIQUE
 LA MORALE .
 -
@@ -44969,11 +42601,7 @@ des disciples de Guyau , par les partisans d'une morale anarchiste
 (Elisée Reclus), qui n'acceptent pas que la liberté de l'homme puisse
 être contrainte par quelque autorité que ce soit, et ne peuvent
 admettre par conséquent l'autorité d'une loi morale universelle . Ils
-adaptent à leur doctrine celle de Spencer et de l'évolutionnisme en
-
-[p. 809]
-
-remplaçant la notion de la lutte pour la vie par l'entraide .
+adaptent à leur doctrine celle de Spencer et de l'évolutionnisme en [p. 809] remplaçant la notion de la lutte pour la vie par l'entraide .
 L'amour qui résulte nécessairement de cette loi générale de coopé-
 ration suffit à assurer la moralité de la conduite .
 
@@ -45018,11 +42646,7 @@ de l'application des lois qui en gouvernent l'évolution, elle admet
 l'obligation et la sanction non plus certes en un sens abstrait , absolu
 et métaphysique , mais en un sens concret, positif et relatif, ce qui
 la différencie absolument des morales anarchistes , comme ses fon-
-dements sociologiques et l'exclusion de tout esprit métaphysique la
-
-[p. 810]
-
-810
+dements sociologiques et l'exclusion de tout esprit métaphysique la [p. 810] 810
 PRÉLIMINAIRES ET HISTORIQUE
 LA MORALE .
 
@@ -45043,9 +42667,7 @@ méthode scientifique de laisser croire que la plupart des propositions
 nelles; nous ne faisons que les proposer (nous insistons sur ce mot : pro-
 poser) à la réflexion et à la libre critique du lecteur .
 
-[p. 811]
-
-CHAPITRE
+[p. 811] CHAPITRE
 XLIV
 
 NOTIONS HISTORIQUES SUR LA MORALE THÉORIQUE
@@ -45113,9 +42735,7 @@ rales théoriques .
 
 mo-
 
-[p. 812]
-
-812
+[p. 812] 812
 LA MORALE .
 PRELIMINAIRES ET HISTORIQUE
 
@@ -45158,11 +42778,7 @@ chose de tout à fait variable, d'après les individus et même d'après
 le moment considéré. Le plaisir, nous apprend la psychologie ,
 est essentiellement relatif. Aussi, conseiller aux hommes , comme
 règle générale, de suivre l'impulsion qui les pousse vers le plaisir ,
-c'est conseiller à chacun d'agir à sa guise , c'est supprimer la mo-
-
-[p. 813]
-
-rale théorique en déclarant qu'il est impossible de prescrire à tous
+c'est conseiller à chacun d'agir à sa guise , c'est supprimer la mo-[p. 813]rale théorique en déclarant qu'il est impossible de prescrire à tous
 les hommes de se conduire d'une manière identique ;
 2° Si l'on fait un choix entre les plaisirs , on subordonne
 la
@@ -45215,9 +42831,7 @@ comme le conseillaient les morales helléniques , dans l'idéal qu'une
 morale théorique, si elle est possible, peut se former de la vie
 vertueuse .
 
-[p. 814]
-
-814
+[p. 814] 814
 LA MORALE .
 PRELIMINAIRES ET HISTORIQUE
 
@@ -45262,9 +42876,7 @@ qui est lié à tout acte moral, à toute conduite honnête . Accomplir
 des choses respectables , respecter les autres , se respecter soi-même ,
 voilà les ordres de la loi morale , traduits en termes de sentiment .
 
-[p. 815]
-
-IV .
+[p. 815] IV .
 LA RAISON
 
 Le sentiment pas plus que le plaisir ne paraît à lui seul pouvoir
@@ -45310,11 +42922,7 @@ débattus au milieu d'une contradiction qu'ils n'ont pas résolue
 :
 Ils voudraient identifier la nature et la raison en considérant
 notre raison comme le reflet de la raison universelle ; mais , à voir
-les conflits de nos instincts , de nos désirs , et les hasards de la
-
-[p. 816]
-
-nature , cette identification paraît tout à fait arbitraire . Ils sont
+les conflits de nos instincts , de nos désirs , et les hasards de la [p. 816] nature , cette identification paraît tout à fait arbitraire . Ils sont
 obligés de sacrifier soit la nature à la raison, et d'en venir à une
 morale tout intérieure et formelle, voisine de celle de Kant (les
 stoïciens) , ou la raison à la nature, en se rapprochant des natu-
@@ -45352,11 +42960,7 @@ L'INTÉRÊT PARTICULIER ET L'INTÉRÊT GÉNÉRAL
 -
 
 Les morales inductives nous ont proposé soit l'intérêt particulier,
-soit l'intérêt général : il faut d'abord remarquer que ces deux fins
-
-[p. 817]
-
-sont incompatibles entre elles dans une certaine mesure ; car l'in-
+soit l'intérêt général : il faut d'abord remarquer que ces deux fins [p. 817] sont incompatibles entre elles dans une certaine mesure ; car l'in-
 térêt général exige toujours le sacrifice de l'intérêt particulier . On
 ne peut donc poursuivre l'un et l'autre à la fois, et les moralistes
 de l'intérêtse sont évertués à ramener l'un à l'autre , sans , semble-
@@ -45400,11 +43004,7 @@ auraient presque perdu tout leur agrément. Il n'y a pas de bonheur
 continu . La recherche du bonheur sensible suppose encore que les
 lois de l'univers sont telles que des êtres sensibles constitués comme
 
-52
-
-[p. 818]
-
-818
+52 [p. 818] 818
 LA MORALE .
 PRÉLIMINAIRES ET IIISTORIQUE
 
@@ -45448,11 +43048,7 @@ Au fond , c'est au bonheur sensible que nous proposentde tendre les
 morales utilitaires . Mais à côté du bonheur sensible qui n'est gros-
 sièrement que la plus grande somme de plaisir, il y a un bonheur
 plus élevé qui peut se définir comme la participation la plus
-grande possible de l'individu à l'ordre universel. Ce bonheur
-
-[p. 819]
-
-s'acquiert surtout par la compréhension exacte, la science absolue
+grande possible de l'individu à l'ordre universel. Ce bonheur [p. 819] s'acquiert surtout par la compréhension exacte, la science absolue
 de la nature supposée connaissable jusque dans son fond; au terme ,
 l'absolu savoir serait, sous sa forme la plus haute, le bonheur que
 l'on peut se proposer d'atteindre, l'idéal moral réalisé .
@@ -45503,9 +43099,7 @@ pour contribuer au bonheur. Mais, à leur donner un rôle à côté du
 bonheur intellectuel, on fait dépendre le bonheur d'autre chose
 que de la conduite raisonnable .
 
-[p. 820]
-
-820
+[p. 820] 820
 PRÉLIMINAIRES ET HISTORIQUE
 LA MORALE.
 
@@ -45547,7 +43141,7 @@ l'idéal contemplatif de Platon et
 d'Aristote et entraîne les mêmes difficultés .
 2º On ne peut donc guère s'étonner que Kant ait trouvé que le
 problème moral avait été mal posé jusqu'à lui par la morale
-rationaliste . Il a démontré dans la critique de la raison pure que
+rationaliste . Il a démontré dans la *critique de la raison pure* que
 le savoir absolu est impossible . Ce que nous croyons être l'ordre
 universel dépend uniquement de la constitution de notre esprit.
 D'autre part, essayer de concilier la nature et la raison, c'est se
@@ -45563,11 +43157,7 @@ il croit être arrivé avec la notion du devoir .
 
 Tandis donc que ses prédécesseurs faisaient dépendre ce qu'il
 faut faire d'un bien à réaliser, il dira
-au contraire, qu'est bien
-
-[p. 821]
-
-tout ce qu'il faut faire, c'est-à-dire tout ce que la raison nous
+au contraire, qu'est bien [p. 821] tout ce qu'il faut faire, c'est-à-dire tout ce que la raison nous
 ordonne de faire, et il compare ce changement de point de vue à
 celui de Copernic en astronomie .
 La morale de
@@ -45616,11 +43206,7 @@ VII .
 PERFECTION INDIVIDUELLE ET PROGRÈS DE L'HUMANITÉ
 
 On a proposé récemmentdes principes moins métaphysiques pour
-fonder la morale théorique, la perfection individuelle et le progrès
-
-[p. 822]
-
-822
+fonder la morale théorique, la perfection individuelle et le progrès [p. 822] 822
 PRELIMINAIRES ET HISTORIQUE
 LA MORALE .
 
@@ -45668,11 +43254,7 @@ relations internationales , où elle se prête si bien à l'explication
 historique . Elle amène à deux grandes conséquences .
 La première a été formulée par Nietzsche dans la doctrine du sur-
 homme . « L'homme doit toujours tendre à se dépasser lui-même ; le
-repos ou la paix n'est que le moyen d'une guerre nouvelle . Peu
-
-[p. 823]
-
-importent les moyens employés ; peu importent les victimes laissées
+repos ou la paix n'est que le moyen d'une guerre nouvelle . Peu [p. 823] importent les moyens employés ; peu importent les victimes laissées
 sur la route : l'homme n'a qu'un but, triompher, être le maître , faire
 ce qu'il veut, dominer les autres hommes en leur imposant sa propre
 conception . Le surhomme est celui qui détermine les croyances de
@@ -45722,9 +43304,7 @@ vaise qu'elle n'a jamais été. La charité est une victoire que se
 donnent facilement le faible et le médiocre sur de plus faibles que
 lui.
 
-[p. 824]
-
-824
+[p. 824] 824
 PRELIMINAIRES ET HISTORIQUE
 LA MORALE .
 
@@ -45778,9 +43358,7 @@ seul,
 en opposition avec tout le reste du monde, dans un indi-
 vidualisme extrême et absolu .
 
-[p. 825]
-
--
+[p. 825] -
 
 par-
 2° L'humanitarisme absolu .
@@ -45830,9 +43408,7 @@ elle s'est adaptée à la civilisation , a pris le parti de réserver pourla
 vie future la vertu que le Christ avait conseillée pour la vie pré-
 sente . En résumé , la civilisation tout entière est un mensonge . »
 
-[p. 826]
-
-826
+[p. 826] 826
 LA MORALE .
 PRÉLIMINAIRES ET HISTORIQUE
 
@@ -45880,11 +43456,7 @@ font une très grande part aux sentiments altruistes (Guyau), enfin
 des morales qui essayent de se rapprocher aussi près que possible
 d'une morale purement positive (Simmel, Bouglé) . La plupart de
 ceux qui fondent la morale sur les sciences sociales, lorsqu'ils
-admettent en même temps lanécessité d'un idéal qui vient se mêler
-
-[p. 827]
-
-aux inductions sociologiques, mais qui en émane, aboutissent à
+admettent en même temps lanécessité d'un idéal qui vient se mêler [p. 827] aux inductions sociologiques, mais qui en émane, aboutissent à
 des morales de la solidarité .
 La morale de la solidarité s'appuie sur ce que, bien plus que la
 lutte, la coopération est un facteur d'évolution et de progrès . Il ne
@@ -45926,11 +43498,7 @@ gresse, plus elle nous paraît établir de solidarité entre toutes les
 forces de l'être, jusqu'à ce qu'elle arrive chez l'homme à cette
 étroite synthèse que nous appelons la personnalité et le caractère .
 Grâce à la personnalité et au caractère, chaque instant de la vie
-d'unhomme est solidaire de tous les instants ; chaque acte est soli
-
-[p. 828]
-
-828
+d'unhomme est solidaire de tous les instants ; chaque acte est soli [p. 828] 828
 PRELIMINAIRES ET HISTORIQUE
 LA MORALE .
 
@@ -45979,11 +43547,7 @@ que de progrès .
 (Nietzsche ici aurait raison. ) Elle transmet les
 tares comme les qualités ; la solidarité dans le crime existe comme
 la solidarité dans la vertu . Aussi, pour développer l'idéal contenu
-implicitement dans cette morale, les solidaristes montrent que la
-
-[p. 829]
-
-coopération ne peut avoir des effets recommandables que
+implicitement dans cette morale, les solidaristes montrent que la [p. 829] coopération ne peut avoir des effets recommandables que
 si elle
 est éclairée par un principe interne de justice et de générosité . La
 sociabilité est insuffisante à fonder elle-même une morale .
@@ -46027,11 +43591,7 @@ serait appliquée sans réflexion ni critique . On pourrait en effet
 facilement pousser la morale de la solidarité dans le sens d'un
 asservissement de l'individu au groupe social . D'autre part , l'anti-
 nomie entre l'individu et la société est résolue d'une façon plus
-théorique et verbale que pratique et réelle. Au nom de la solida
-
-[p. 830]
-
-830
+théorique et verbale que pratique et réelle. Au nom de la solida [p. 830] 830
 LA MORALE .
 PRÉLIMINAIRES ET HISTORIQUE
 
@@ -46077,11 +43637,7 @@ Or , la société et l'individu ont besoin de règles positives qui ne
 soient pas suspendues à toutes ces hésitations et à tous ces doutes ,
 qui ne soient pas continuellement à la merci de la critique et ne
 reposent pas sur une solution que l'on voit toujours s'éloigner à
-mesure qu'on croitl'atteindre. <<<Vivre d'abord , philosopher ensuite » ,
-
-[p. 831]
-
-telle était la maxime d'un sage antique. A l'appliquer complète-
+mesure qu'on croitl'atteindre. <<<Vivre d'abord , philosopher ensuite » , [p. 831] telle était la maxime d'un sage antique. A l'appliquer complète-
 ment, il nous faudrait renoncer , semble-t-il, aux ambitieux essais
 d'une morale théorique, d'une métaphysique morale, pour nous
 contenter d'une morale pratique .
@@ -46130,11 +43686,7 @@ moins inconscients , et en abordant l'étude impartiale et désinté-
 ressée des réalités .
 Nous ne croyons pouvoir mieux faire ici, pour clore cet examen
 rapide des problèmes
-relatifs à la nature de la morale, que de
-
-[p. 832]
-
-citer l'esquisse dans laquelle Durkheim expose ses propres idées à
+relatifs à la nature de la morale, que de [p. 832] citer l'esquisse dans laquelle Durkheim expose ses propres idées à
 leur sujet (Bulletin de la Société française de philosophie, avril 1906 ,
 p . 117 sq) . On y verra précisées la plupart des vues que nous
 avons jusqu'ici proposées dans nos conclusions .
@@ -46181,11 +43733,7 @@ Par cela même que je me désintéresse de la façon dont tel ou tel
 individu
 se représente à lui-même la morale, je laisse de côté
 l'opinion des philosophes et des moralistes. Je ne tiens aucun
-compte de leurs essais systématiques faits pour expliquer ou cons-
-
-[p. 833]
-
-truire la réalité morale, sauf dans la mesure où l'on est fondé d'y
+compte de leurs essais systématiques faits pour expliquer ou cons-[p. 833]truire la réalité morale, sauf dans la mesure où l'on est fondé d'y
 voir une expression, plus ou moins adéquate de la morale de leur
 temps . Un moraliste, c'est avant tout une conscience plus large que
 les consciences moyennes,
@@ -46251,9 +43799,7 @@ synthétique .
 
 53
 
-[p. 834]
-
-J'appelle sanction les conséquences ainsi rattachéesà l'acte par un
+[p. 834] J'appelle sanction les conséquences ainsi rattachéesà l'acte par un
 lien synthétique . Ce lien , je ne sais pas encore d'où il vient , quelle
 est son origine ou sa raison d'être ; j'en constate l'existence et la
 nature sans aller présentement plus loin .
@@ -46300,11 +43846,7 @@ est le même . La sanction , dans ce cas comme dans le précédent,
 vient non pas de l'acte lui-même, mais de ce qu'il est conforme à
 une règle qui le prescrit. Sans doute cette espèce d'obligation est
 d'une nuance différente de la précédente ; mais ce sont deux variétés
-du même groupe. Il n'y a donc pas là deux sortes de règles morales ,
-
-[p. 835]
-
-les unes défendant, les autres commandant ; ce sont deux espèces
+du même groupe. Il n'y a donc pas là deux sortes de règles morales , [p. 835] les unes défendant, les autres commandant ; ce sont deux espèces
 d'un même genre .
 L'obligation morale est donc définie , et cette définition n'est pas
 sans intérêt ; car elle fait voir à quel point les morales utilitaires
@@ -46350,17 +43892,13 @@ vons au-dessus de notre être naturel, ce qui ne va pas sans une cer-
 taine tension , une certaine contraintesur soi . Nous avons conscience
 que nous faisons violence à toute une partie de notre nature . Ainsi ,
 il faut faire une certaine place à l'eudémonisme , et on pourrait
-montrer que , jusque dans l'obligation, le plaisir et la désirabilité
-
-[p. 836]
-
-836
+montrer que , jusque dans l'obligation, le plaisir et la désirabilité [p. 836] 836
 LA MORALE .
 PRELIMINAIRES ET HISTORIQUE
 
 pénètrent : nous trouvons un certain charme à accomplir l'acte
 moral qui nous est ordonné par la règle, et par cela seul qu'il nous
-est commandé . Nous éprouvons un plaisir sui generis à faire notre
+est commandé . Nous éprouvons un plaisir *sui generis* à faire notre
 devoir, parce qu'il est le devoir. La notion du bien pénètre jusque
 dans la notion de devoir comme la notion de devoir et d'obligation
 pénètre dans celle du bien . L'eudémonisme est partout dans la vie
@@ -46415,11 +43953,7 @@ peuples , c'est l'idée du Souverain Bien qui prédomine . D'une ma-
 nière générale il en est de même, je crois , partout où la morale est
 essentiellement religieuse . Enfin le rapport des deux éléments va-
 rie aussi profondément à une même époque suivant les individus .
-Suivantles consciences , l'un ou l'autre élément est ressenti plus
-
-[p. 837]
-
-a
+Suivantles consciences , l'un ou l'autre élément est ressenti plus [p. 837] a
 ou moins vivement, et il est bien rare que les deux aient même
 intensité . Chacun de nous a son daltonisme moral spécial.
 Il y
@@ -46482,11 +44016,7 @@ autres , on n'est fondé à nier un fait constant, parce qu'on n'en peut
 pas donner présentement une explication satisfaisante . Puis , pour
 que le caractère obligatoire des règles soit fondé , il
 suffit que
-la notion d'autorité morale soit fondée , elle aussi, car, à une autorité
-
-[p. 838]
-
-838
+la notion d'autorité morale soit fondée , elle aussi, car, à une autorité [p. 838] 838
 LA MORALE .
 PRELIMINAIRES ET HISTORIQUE
 
@@ -46532,11 +44062,7 @@ de morale n'a été appliquée à un acte qui n'a pour objet que l'in-
 térêt de l'individu, ou la perfection de l'individu entendue d'une
 manière purement égoïste ; 2º si l'individu que je suis ne consti-
 tue pas une fin ayant par elle-même un caractère moral , il en est
-nécessairement de mème des individus qui sont mes semblables
-
-[p. 839]
-
-et qui ne diffèrent de moi qu'en degrés , soit en plus , soit en moins :
+nécessairement de mème des individus qui sont mes semblables [p. 839] et qui ne diffèrent de moi qu'en degrés , soit en plus , soit en moins :
 3º d'où l'on conclura que , s'il y a une morale , elle ne peut avoir
 pour objectif que le groupe formé par la pluralité d'individus as-
 sociés , c'est-à-dire la société, sous condition toutefois que la société
@@ -46583,17 +44109,13 @@ sans se proposer systématiquement d'être éclectique , elle se trouve
 faire place aux points de vue qui passent d'ordinaire pour les plus
 opposés . Je me suis surtout appliqué à montrer qu'elle permet
 de traiter empiriquement les faits moraux, tout en leur laissant
-leur caractère sui generis , c'est-à-dire cette religiosité qui leur est
+leur caractère *sui generis* , c'est-à-dire cette religiosité qui leur est
 inhérente et qui les met à partdans l'ensemble des phénomènes hu-
 mains . On échappe ainsi et à l'empirisme utilitaire qui tente bien
 d'expliquer rationnellement la morale, mais en niantses caractères
 spécifiques , en ravalant ses notions essentielles au même rang que
 les notions fondamentales des techniques économiques , et à l'aprio-
-risme kantien, qui donne une analyse relativement fidèle de la cons
-
-[p. 840]
-
-840
+risme kantien, qui donne une analyse relativement fidèle de la cons [p. 840] 840
 PRÉLIMINAIRES ET HISTORIQUE
 LA MORALE .
 
@@ -46623,9 +44145,7 @@ réalités sociales , une prudence , sans les-
 quelles n'a jamais pu se produire une transformation heureuse et durable
 des mœurs , si minime qu'elle soit .
 
-[p. 841]
-
-LIVRE X
+[p. 841] LIVRE X
 
 MORALE
 PRATIQUE
@@ -46681,11 +44201,7 @@ tiquement, grâce aux documents historiques les plus anciens et sur-
 tout à l'examen des sociétés sauvages actuelles ; celles-ci, en effet,
 peuvent être considérées comme des arrêts de développement de
 l'humanité, de même que, en zoologie, certaines espèces ont été
-maintenues à un état inférieur de l'évolution par les conditions du
-
-[p. 842]
-
-milieu . Les sociétés sauvages nous représentent donc - et un grand
+maintenues à un état inférieur de l'évolution par les conditions du [p. 842] milieu . Les sociétés sauvages nous représentent donc - et un grand
 nombre d'analogies avec les sociétés anciennes, dont l'histoire est
 assez bien établie , confirment cette vue
 un état assez primitif de
@@ -46735,9 +44251,7 @@ cessus complexe... Une famille élargie qui ne comprend aucun
 membre adoptif ne peut être appelée une société, pas davantage
 qu'une congrégation temporaire d'individus sans parenté. » (Id. , 96.)
 
-[p. 843]
-
-L'INDIVIDU
+[p. 843] L'INDIVIDU
 : MORALE PERSONNELLE
 843
 
@@ -46797,11 +44311,7 @@ les uns des autres . Le voisinage, la promiscuité devaient donc peu
 ètre là plutôt que dans un lien du sang, bien abstrait pour des in-
 telligences aussi frustes, que se trouve l'origine de la notion de
 parenté. Une sorte de solidarité de fait et toute de hasard s'impose
-I d'abord , et la solidarité physiologique des liens du sang se fusionne
-
-[p. 844]
-
-en quelque sorte avec elle par un artifice et un mélange incons-
+I d'abord , et la solidarité physiologique des liens du sang se fusionne [p. 844] en quelque sorte avec elle par un artifice et un mélange incons-
 cients , qui la rendent plus vivante, effective, tangible en quelque
 sorte . C'est là sans doute qu'est l'origine de ce fait éminemment
 caractéristique du clan , son expression sociologique distinctive
@@ -46862,9 +44372,7 @@ notion juridique primitive
 : 1 ° « Tous
 les membres d'un clan
 
-[p. 845]
-
-L'INDIVIDU
+[p. 845] L'INDIVIDU
 MORALE PERSONNELLE
 845
 
@@ -46918,11 +44426,7 @@ l'expérience individuelle. Un procédé similaire développe l'esprit
 social , résidu des expériences communes à tous. Par le langage ,
 l'individu participe au fond commun, qui devient ainsi pour lui une
 influence objective et impersonnelle . »
-« Nous devons éviter avec soin d'associer des concepts faux aux
-
-[p. 846]
-
-expressions esprit social ou conscience sociale . Elles ne représentent
+« Nous devons éviter avec soin d'associer des concepts faux aux [p. 846] expressions esprit social ou conscience sociale . Elles ne représentent
 pas de simples abstractions . L'esprit social est une chose concrète .
 Il est plus que tout esprit individuel et domine toute volonté indi-
 viduelle . Cependant il n'existe que dans des esprits individuels , et
@@ -46970,9 +44474,7 @@ effectué par le clan tout entier, bien avant de l'être par les indivi-
 dus. Non seulement le clan soutenait
 les règles coutumières
 
-[p. 847]
-
-L'INDIVIDU
+[p. 847] L'INDIVIDU
 MORALE PERSONNELLE
 847
 du mariage et de
@@ -47023,11 +44525,7 @@ et femmes du même clan, il fallait,pour qu'une société pût se per-
 pétuer régulièrement,qu'elle fût formée de clans juxtaposés .
 Quelle que soit d'ailleurs la raison du fait, le fait est incontes-
 table , et le groupe social primitif, tel qu'on peut encore l'observer ,
-est un agrégat de clans. On peut l'appeler, avec Durkheim , groupe
-
-[p. 848]
-
-politico-familial. On voit alors que « cette organisation ne comporte
+est un agrégat de clans. On peut l'appeler, avec Durkheim , groupe [p. 848] politico-familial. On voit alors que « cette organisation ne comporte
 pas d'autre solidarité que celle qui dérive des similitudes , puisque
 la société est formée de segments similaires et que ceux-ci , à leur
 tour, ne renferment que des éléments homogènes » .
@@ -47075,9 +44573,7 @@ d'observer ; il en est, au contraire, qui sont soumis à un pouvoir
 absolu ... Cependant, le lien qui , dans ce cas , unit l'individu au
 chef est identique à celui qui, de nos jours, rattache la chose à la
 
-[p. 849]
-
-L'INDIVIDU
+[p. 849] L'INDIVIDU
 MORALE PERSONNELLE
 849
 
@@ -47134,11 +44630,7 @@ où
 celui-ci s'esteffacé. En effet, les individus y sont groupés , non plus
 d'après leurs rapports de descendance , mais d'après la nature parti
 
-54
-
-[p. 850]
-
-culière de l'activité sociale à laquelle ils se consacrent. Leur milieu
+54 [p. 850] culière de l'activité sociale à laquelle ils se consacrent. Leur milieu
 naturel et nécessaire n'est plus le milieu natal, mais le milicu pro-
 fessionnel . Ce n'est plus la consanguinité, réelle ou fictive, qui
 marque la place de chacun, mais la fonction qu'il remplit . Sans
@@ -47185,9 +44677,7 @@ compromission . Nous trouvons, en effet, chez ce peuple, outre une
 autorité centrale régulière et stable, tout un appareil de fonctions
 administratives , judiciaires ; et, d'autre part, l'existence d'un droit
 
-[p. 851]
-
-L'INDIVIDU
+[p. 851] L'INDIVIDU
 MORALE PERSONNELLE
 851
 
@@ -47235,9 +44725,7 @@ d'importantes corporations de fonctionnaires (sénateurs , chevaliers ,
 collège de pontifes , etc.) , des corps de métiers , en même temps que
 la notion de l'état laïque se dégage . >>>
 
-[p. 852]
-
-852
+[p. 852] 852
 MORALE
 PRATIQUE
 
@@ -47291,9 +44779,7 @@ la perception externe et interne. L'homme perçoit les objets avant
 d'avoir une notion de sa propre personnalité. Il est d'abord absorbé
 dans le monde extérieur, fait corps avec lui.
 
-[p. 853]
-
-L'INDIVIDU
+[p. 853] L'INDIVIDU
 MORALE PERSONNELLE
 853
 
@@ -47349,11 +44835,7 @@ d'initiative individuelle . Physiologiquement et moralement les res-
 semblances sont manifestes . On a quelquefois objecté ( Tarde) qu'il
 y a moins de différence entre des individus de nationalité différente
 aujourd'hui qu'autrefois . C'est exact : les groupes pris en totalité
-diflèrent moins , mais les individus pris dans le même groupe dif-
-
-[p. 854]
-
-fèrent infiniment plus . Les deux thèses se concilient très bien et
+diflèrent moins , mais les individus pris dans le même groupe dif-[p. 854]fèrent infiniment plus . Les deux thèses se concilient très bien et
 s'expliquent de même façon: la solidarité organique fondée sur la
 division du travail a remplacé de plus en plus la solidarité méca-
 nique , d'où à la fois plus de différenciations et plus de contacts
@@ -47396,9 +44878,7 @@ contrainte du groupe et à l'automatisme : l'individu acquiert une
 notion sans cesse grandissante de sa dignité personnelle et de son
 autonomie morale, de sa responsabilité et de son devoir.
 
-[p. 855]
-
-L'INDIVIDU
+[p. 855] L'INDIVIDU
 MORALE PERSONNELLE
 855
 
@@ -47415,9 +44895,7 @@ d'après les investigations contemporaines ; mais il importe de ne pas
 oublier toutes les incertitudes et parfois les erreurs que peut comporter
 actuellement une étude de ce genre .
 
-[p. 856]
-
-CHAPITRE
+[p. 856] CHAPITRE
 XLVI
 
 L'INDIVIDU
@@ -47486,11 +44964,7 @@ et ne
 pourrait raisonnablement agir que selon son bon
 plaisir , sans aucune règle, ni contrainte . Il réaliserait le rêve anar-
 
-so-
-
-[p. 857]
-
-L'INDIVIDU
+so-[p. 857]L'INDIVIDU
 MORALE PERSONNELLE
 857
 
@@ -47540,11 +45014,7 @@ société
 et le milieu . Par suite, faire appel à son initiative est un
 leurre ; lui proposer un idéal personnel , une chimère . Il faut , au
 contraire , agir sur lui de l'extérieur. C'est en lui imposant des lois
-qu'on le réformera ; c'est en faisant régner la justice et le droit dans
-
-[p. 858]
-
-les conditions sociales qu'on fera des hommes justes et honnêtes .
+qu'on le réformera ; c'est en faisant régner la justice et le droit dans [p. 858] les conditions sociales qu'on fera des hommes justes et honnêtes .
 L'individu n'est rien , le milieu social est tout ; il n'a de devoirs envers
 lui-même que parce qu'il en a envers la Société' .
 
@@ -47591,9 +45061,7 @@ comme fin en soi, et non pas simplement comme moyen , pou: [^p858-1]
 
 [^p858-1]: Voir, pour plus d'explications, les théories de certains criminalistes (chap . L. IVA
 
-[p. 859]
-
-L'INDIVIDU
+[p. 859] L'INDIVIDU
 MORALE PERSONNELLE
 859
 
@@ -47641,12 +45109,8 @@ gation ; l'obligation est, à elleseule, une raison suffisante de croire
 la règle de notre conduite est une lumière naturelle, dont les
 premières lueurs apparaissent dès le berceau et que tous nous
 portons en nous . » (Marion .) La conscience morale est un ensemble de
-données innées , a priori, d'intuitions directes de notre raison , et non
-pas une résultante naturelle des faits . L'individu n'a de devoirs
-
-[p. 860]
-
-envers la Société qu'indirectement, et parce qu'il a des
+données innées , *a priori*, d'intuitions directes de notre raison , et non
+pas une résultante naturelle des faits . L'individu n'a de devoirs [p. 860] envers la Société qu'indirectement, et parce qu'il a des
 devoirs
 envers lui-même .
 
@@ -47694,9 +45158,7 @@ l'autre comme toutes les forces naturelles ; ils sont fonction l'un de
 l'autre . La conscience morale de l'individu réfracte son milieu social
 avec un indice personnel.
 
-[p. 861]
-
-L'INDIVIDU
+[p. 861] L'INDIVIDU
 MORALE PERSONNELLE
 861
 
@@ -47742,9 +45204,7 @@ rale (atrophie de la conscience, subordination de toute activité à la
 tendance alcoolique) ; cause par suite de misère économique et so-
 ciale .
 
-[p. 862]
-
-862
+[p. 862] 862
 MORALE PRATIQUE
 B. L'individualité psychologique. - On divise ordinairement
 
@@ -47798,9 +45258,7 @@ l'amour de la vérité et des procédés critiques qui en sont la seule
 garantie, tout ce qui se fonde sur l'opinion courante , le préjugé, la
 coutume irraisonnée , la superstition , tout ce qui se dérobe à la libre
 
-[p. 863]
-
-L'INDIVIDU
+[p. 863] L'INDIVIDU
 MORALE PERSONNELLE
 863
 
@@ -47855,11 +45313,7 @@ marche des faits sociaux : « Tout réformateur, comme Socrate ,
 sacrifie un coq à Esculape, c'est-à-dire demeure attaché par quelque
 côté aux opinions courantes que son influence transforme à d'autres
 points de vue... La doctrine de Jésus , si originale au milieu des
-systèmes de morale antique , est cependant encore , sur bien des
-
-[p. 864]
-
-points, un judaïsme à peine dissimulé... Mais, si l'indépendance de
+systèmes de morale antique , est cependant encore , sur bien des [p. 864] points, un judaïsme à peine dissimulé... Mais, si l'indépendance de
 l'esprit à l'égard du passé est si difficile à conquérir que les meil-
 leurs penseurs n'ont pu l'obtenir tout entière, il n'est pas moins
 véritable que l'individu réagit à son tour sur le milieu, comme un
@@ -47910,9 +45364,7 @@ tible , toute sa perfection propre . Il présentera par suite à la société
 toutes les qualités que celle- ci peut lui demander pour remplir les
 différentes charges qu'elle lui impose . Et il les remplira nécessai
 
-[p. 865]
-
-L'INDIVIDU
+[p. 865] L'INDIVIDU
 MORALE PERSONNELLE
 865
 
@@ -47962,11 +45414,7 @@ et sociale. Les ruptures ne doivent être tentées que lorsqu'elles
 sont inévitables et que les obstacles dressés contre la moralité ne
 peuvent être renversés , sinon par une action brusque et violente. A
 
-55
-
-[p. 866]
-
-moins de laisser le champ libre au vice et à l'immoralité, il faut
+55 [p. 866] moins de laisser le champ libre au vice et à l'immoralité, il faut
 quelquefois en arriver là . Le Christ, qui porta à un si haut degré la
 charité et l'amour, ne prit-il pas un fouet pour chasser les ven-
 deurs du temple ? Mais , en général , la vertu peut s'exercer avec
@@ -48008,9 +45456,7 @@ moral lorsqu'il est conscient de son acte et qu'il s'est déterminé
 à le faire d'après son seul pouvoir personnel, c'est-à-dire , dans
 toute la force des termes , volontairement et délibérément .
 
-[p. 867]
-
-L'INDIVIDU
+[p. 867] L'INDIVIDU
 MORALE PERSONNELLE
 867
 
@@ -48063,9 +45509,7 @@ circonstances , qui montrentque le pouvoir personnel ajoué un rôle
 exclusif et prépondérant dans la détermination de l'acte, peuvent
 être considérées comme aggravantes ( préméditation) .
 
-[p. 868]
-
-868
+[p. 868] 868
 MORALE PRATIQUE
 En d'autres termes, la question essentielle qui engage la respon-
 sabilité de l'agent moral est celle-ci : l'individu était-il conscient
@@ -48117,11 +45561,7 @@ manière de réagir vis -à-vis des influences et des obligations parti-
 culières qu'impose cette société .
 Mais c'est une réaction . Et il faut prendre ce mot dans toute la
 force du terme . La conduite de l'individu ne peut pas être consi-
-dérée comme le simple reflet, la résultante automatique et néces-
-
-[p. 869]
-
-L'INDIVIDU
+dérée comme le simple reflet, la résultante automatique et néces-[p. 869]L'INDIVIDU
 MORALE PERSONNELLE
 869
 
@@ -48160,7 +45600,7 @@ au
 contact des faits . L'honnête homme en fait continuellement
 l'expérience , et il n'est moral qu'en faisant précisément cette expé-
 rience constante . En ce sens il pense sa vie d'une façon active et
-non pas d'une façon verbale et idéologique. Il la pense a priori,
+non pas d'une façon verbale et idéologique. Il la pense *a priori*,
 c'est-à-dire sans se subordonner d'une façon absolue aux circons-
 tances présentes , car il cherche à les dominer et à les dépasser .
 Mais il n'oublie pas que cette vie doit se réaliser par chacun des
@@ -48174,11 +45614,7 @@ aident à dégager les aspirations plus ou moins constantes de la
 conscience humaine . Ils éclairent la route vers l'idéal. Mais l'hon-
 nête homme ne doit pas oublier que toutes ces théories ne sont
 que des théories et qu'en tant que théories elles planent trop loin
-des conditions de l'action. Aussi doit- il, répudiant toute intolé
-
-[p. 870]
-
-rance, se placer dans une attitude impersonnelle vis-à-vis
+des conditions de l'action. Aussi doit- il, répudiant toute intolé [p. 870] rance, se placer dans une attitude impersonnelle vis-à-vis
 des
 théories et chercher sa voie par lui-même dans chacun de ses
 
@@ -48202,9 +45638,7 @@ détail, une connaissance des réalités sociales , une prudence, sans les-
 quelles n'a jamais pu se produire une transformation heureuse et durable
 des mœurs , si minime qu'elle soit.
 
-[p. 871]
-
-CHAPITRE XLVII
+[p. 871] CHAPITRE XLVII
 
 LA FAMILLE
 LE DROIT DOMESTIQUE
@@ -48276,9 +45710,7 @@ la famille : les rapports entre les deux sexes sont assez libres chez
 les peuples incultes, tant qu'il n'y a pas de mariage formel . On
 pourrait citer bien des coutumes qui choquentnos idées surlachasteté .
 
-[p. 872]
-
-Mais , une fois le mariage contracté , soit le clan, soit le mari sur-
+[p. 872] Mais , une fois le mariage contracté , soit le clan, soit le mari sur-
 
 veille sévèrement l'observation des règles de la vie conjugale qui
 sont en usage ; et les lois , écrites ou non, punissent tout écart.
@@ -48329,9 +45761,7 @@ traliens Wotjoballuk du Nord-Ouest de Victoria.
 Cette tribu est
 divisée en deux classes ou clans , les Gamutch et les Krokitch . Les
 
-[p. 873]
-
-LA FAMILLE
+[p. 873] LA FAMILLE
 LE DROIT DOMESTIQUE
 873
 
@@ -48386,11 +45816,7 @@ pourra pas épouser sa sœur utérine puisqu'elle est du même clan que
 lui » , mais seulement une étrangère du clan Gamutch , qui, au degré
 le plus rapproché, ne peut guère être que sa cousine. Théori-
 quement, un père du clan Gamutch pourrait épouser sa fille , puis-
-qu'elle est du clan Krokitch ; mais ces cas sont évités par l'existence
-
-[p. 874]
-
-non pas de deux, mais de quatre ou huit classes dans la tribu, avec
+qu'elle est du clan Krokitch ; mais ces cas sont évités par l'existence [p. 874] non pas de deux, mais de quatre ou huit classes dans la tribu, avec
 prohibition de mariage entre les gens de certaines de ces classes ,
 dans les sociétés déjà un peu évoluées .
 << Il faut dire cependant que les préoccupations relatives à l'inceste
@@ -48437,9 +45863,7 @@ Zaporogues), la polyandrie revêt toujours la forme fraternelle,
 c'est-à-dire que les maris de la femme sont frères entre eux . Le
 pays classique de la polyandrie est le Tibet. Là, chacun des
 
-[p. 875]
-
-LA FAMILLE
+[p. 875] LA FAMILLE
 : LE DROIT DOMESTIQUE
 875
 
@@ -48488,11 +45912,7 @@ concubinage légal
 la monogamie , nominale ou réelle, se développe, et avec elle on voit
 apparaître un peu de respect pour la femme. Celle-ci devient plus
 libre, de même que les enfants qui ont dépassé un certain age . Le
-mariage individuel... est le plus souvent lié à une forme nouvelle
-
-[p. 876]
-
-de filiation , celle du patriarcat, qui a ses racines dans la consti-
+mariage individuel... est le plus souvent lié à une forme nouvelle [p. 876] de filiation , celle du patriarcat, qui a ses racines dans la consti-
 tution de la propriété et dans la subordination de la femme à
 l'homme . Dans le matriarcat , le défenseur naturel de l'enfant et de
 la famille est le frère de la mère ; dans le patriarcat, il est remplacé
@@ -48538,9 +45958,7 @@ de transférer symboliquement au père l'importance juridique et
 sociale de la mère dans la famille . Cette autorité paternelle se trouve
 alors augmentée par la religion et s'allie étroitement aux coutumes
 
-[p. 877]
-
-LA FAMILLE
+[p. 877] LA FAMILLE
 LE DROIT DOMESTIQUE
 877
 
@@ -48593,11 +46011,7 @@ et chevaleresque des dames , les légendes du Rhin
 et de la Bre-
 tagne , avant l'organisation définitive de la famille féodale et du
 droit d'aînesse , sous les influences romaines .
-C'est enfin et surtout le grand mouvementrationaliste , égalitaire
-
-[p. 878]
-
-et justicier de la Révolution française, qui aboutit, en 1793 , à la
+C'est enfin et surtout le grand mouvementrationaliste , égalitaire [p. 878] et justicier de la Révolution française, qui aboutit, en 1793 , à la
 conception d'une société où les individus sont enfin majeurs et
 peuvent choisir et contracter librement ; tous possèdent la même
 indépendance, et la loi est la même pour tous; le contrat matri-
@@ -48653,9 +46067,7 @@ quels les circonstances naturelles donnent le plus d'influence dans
 l'organisation familiale .
 L'évolution paraît avoir toujours relevé la situation de ceux qui
 
-[p. 879]
-
-LA FAMILLE
+[p. 879] LA FAMILLE
 LE DROIT DOMESTIQUE
 879
 
@@ -48717,11 +46129,7 @@ présent et hostile à l'avenir . L'égoïsme et la rivalité des familles
 contribuent parfois à la ruine de l'État. Elles entrent en lutte et
 déchirent la société. On l'a vu au moyen âge ...
 <<L'esprit de famille, aveuglé, fanatisé par la passion, devient
-encore , par une autre voie, un instrument d'injustice, de désordre et
-
-[p. 880]
-
-de crime . Il transmet le mal comme le bien, les haines comme les
+encore , par une autre voie, un instrument d'injustice, de désordre et [p. 880] de crime . Il transmet le mal comme le bien, les haines comme les
 affections , et ce mal et ces haines, envenimés par les passions anté-
 rieures qu'ils ont excitées , s'infusent avec le sang, par la parole et
 par les exemples , dans le cœur des enfants ... L'abus le plus com-
@@ -48767,9 +46175,7 @@ autonomie . Ce sont toutes deux des fins en soi, selon le motheureux
 de Kant, et l'une ne doit pas être prise comme moyen par l'autre, si
 atténuée et déguisée que soit la subordination de la femme au
 
-[p. 881]
-
-LA FAMILLE
+[p. 881] LA FAMILLE
 LE DROIT DOMESTIQUE
 881
 
@@ -48819,11 +46225,7 @@ APPLICATIONS PRATIQUES .
 A. Le mariage. - a) SA FORME . - Puisque la famille a un but
 social , la société doit intervenir pour la fonder. Le mariage est la
 
-56
-
-[p. 882]
-
-consécration sociale de l'union . Cette union, en dehors de toute
+56 [p. 882] consécration sociale de l'union . Cette union, en dehors de toute
 consécration sociale, livre fréquemment, dans les conditions actuelles ,
 à la misère matérielle et morale les membres les plus faibles de la
 famille, femme et enfants . Elle ne favorise que l'égoïsme du plus
@@ -48870,9 +46272,7 @@ C) SA DISSOLUTION .
 Le mariage constitué par un acte social
 (acte civil, dans le langage administratif) ne peut pas se dissoudre
 
-[p. 883]
-
-LA FAMILLE
+[p. 883] LA FAMILLE
 : LE DROIT DOMESTIQUE
 883
 
@@ -48927,11 +46327,7 @@ chait la justification de l'esclavage dans l'infériorité intellectuelle
 du serviteur. Mais les considérations scientifiques, aussi bien que
 les faits, ont donné raison au féminisme : à la doctrine qui ne veut
 plus de différence entre les droits des conjoints. La constitution
-de la femme se prête à tous les travaux aussi bien que celle de
-
-[p. 884]
-
-l'homme . La société a longtemps abandonné tout le travail de force
+de la femme se prête à tous les travaux aussi bien que celle de [p. 884] l'homme . La société a longtemps abandonné tout le travail de force
 à la femme . La bourgeoisie moderne remplace l'homme par la
 femme dans les ateliers , dès qu'elle y a un intérêt (à Manchester ,
 les hommes s'occupaient du ménage, les femmes gagnant l'existence
@@ -48996,9 +46392,7 @@ possible
 en toutes circonstances entre la femme et le mari ; et
 il reste bien entendu qu'en dehors des fonctions familiales, il n'y
 
-[p. 885]
-
-LA FAMILLE
+[p. 885] LA FAMILLE
 LE DROIT DOMESTIQUE
 885
 
@@ -49046,11 +46440,7 @@ cette société . Quand la société est obligée d'élever des enfants , elle
 est forcée de les confier à un milieu plus restreint qu'elle copie sur
 la famille. Et lorsque , par malheur, les enfants s'élèvent seuls au
 sein de la société , ils sont d'ordinaire très mal élevés . Aussi la fa-
-mille présente-t-elle comme une petite société où l'enfant apprend
-
-[p. 886]
-
-qu'il ne peut pas vivre sans se soucier des autres , qu'il est obligé
+mille présente-t-elle comme une petite société où l'enfant apprend [p. 886] qu'il ne peut pas vivre sans se soucier des autres , qu'il est obligé
 à une certaine discipline et à un certain labeur, à une certaine
 entr'aide aussi , s'il veut profiter des avantages de la vie sociale .
 Cette petite société ne peut remplir son rôle d'éducatrice que si,
@@ -49101,9 +46491,7 @@ dont les
 parents , et le plus souvent une conception sociale mauvaise du
 mariage et de lafamille , sont responsables ?
 
-[p. 887]
-
-LA FAMILLE
+[p. 887] LA FAMILLE
 LE DROIT DOMESTIQUE
 887
 6) L'ÉDUCATION .
@@ -49150,11 +46538,7 @@ mission éducatrice, dans notre histoire . Son autorité fut en cela
 représentée , aux époques d'unité confessionnelle et de dissémina-
 tion politique ou de religion d'État, par l'Église , alors étroitement
 associée à celui-ci. Aujourd'hui , cette autoritétend à peu près par-
-tout à être exercée par l'État, devenu le représentant par excel-
-
-[p. 888]
-
-lence du groupement social vis-à-vis des individus . Elle consiste ,
+tout à être exercée par l'État, devenu le représentant par excel-[p. 888]lence du groupement social vis-à-vis des individus . Elle consiste ,
 selon les mœurs du pays, soit à contrôler
 sans aucun esprit de
 parti, avec le seul souci du respect de l'enfance, sur tous les points ,
@@ -49209,9 +46593,7 @@ vu , une charge éducative bien qu'elles ne doivent pas l'exercer sans
 contrôle . Certains membres de l'enseignement public, en France ,
 multiplient d'ailleurs actuellement les efforts pour instituer leur
 
-[p. 889]
-
-LA FAMILLE
+[p. 889] LA FAMILLE
 LE DROIT DOMESTIQUE
 889
 
@@ -49249,9 +46631,7 @@ détail , une connaissance des réalités sociales, une prudence , sans les-
 quelles n'a jamais pu se produire une transformation heureuse et durable
 des mœurs , si minime qu'elle soit .
 
-[p. 890]
-
-CHAPITRE XLVIII
+[p. 890] CHAPITRE XLVIII
 
 MORALE SOCIALE : LE DROIT
 
@@ -49308,9 +46688,7 @@ de lui à des obligations réciproques . Il a le droit d'exiger qu'on les
 remplisse . Le droit est donc intimement lié au devoir. Et on peut
 en général toujours faire correspondre un droit à un devoir. On
 
-[p. 891]
-
-MORALE SOCIALE
+[p. 891] MORALE SOCIALE
 LE DROIT
 891
 
@@ -49362,9 +46740,7 @@ droit naturel se présente donc comme le minimum moral que la
 personne humaine peut revendiquer. C'est, comme on le voit, une
 notion métaphysique .
 
-[p. 892]
-
-892
+[p. 892] 892
 MORALE PRATIQUE
 On distingue encore le droit codifié et le droit coutumier, selon
 que les prescriptions sociales sont uniquement imposées par la
@@ -49415,9 +46791,7 @@ mœurs . Le droit n'est pas d'ailleurs un produit arbitraire que les
 circonstances , le hasard ou la sagesse des hommes auraient pu faire
 différent : il sort de la conscience commune du peuple , de l'esprit
 
-[p. 893]
-
-MORALE SOCIALE
+[p. 893] MORALE SOCIALE
 LE DROIT
 893
 
@@ -49471,11 +46845,7 @@ par ignorance ou par mauvais vouloir . Il peut donc être nécessaire
 de lui donner ce signe, qui le mette hors de toute contestation .
 
 (( La loi complète le droit coutumier et l'aide dans son dévelop-
-pement progressif. Elle est bienfaisante , ou même indispensable ,
-
-[p. 894]
-
-lorsque le changement des mœurs, des opinions, des besoins, exige
+pement progressif. Elle est bienfaisante , ou même indispensable , [p. 894] lorsque le changement des mœurs, des opinions, des besoins, exige
 impérieusement le changement du droit. Ces modifications du
 droit existant sont souvent mieux assurées par la loi que par les
 forces invisibles qui ont créé le droit primitif, à cause de la lenteur
@@ -49522,9 +46892,7 @@ puissance. Cette loi coutumière tend à prendre la forme d'un droit
 supérieur à la nation. Chaque nation, après avoir considéré sa loi
 comme un trésor de sagesse unique, entrant soit par la guerre , soit
 
-[p. 895]
-
-MORALE SOCIALE
+[p. 895] MORALE SOCIALE
 LE DROIT
 895
 
@@ -49584,11 +46952,7 @@ cédures , administratif et constitutionnel ,
 règles pénales qui peuvent s'y trouver>>). La plus grande partie de
 ce droit restitutif est un droit cooperatif, qui ne peut exister que
 dans une société où la solidarité est du type organique (individus
-différenciés coopérant ensemble) , tandis que le droit répressif se
-
-[p. 896]
-
-conçoit très bien et est en fait le seul droit existant dans les sociétés
+différenciés coopérant ensemble) , tandis que le droit répressif se [p. 896] conçoit très bien et est en fait le seul droit existant dans les sociétés
 où la solidarité est de forme mécanique .
 Durkheim a insisté sur cette division dans son ouvrage
 : De la
@@ -49642,9 +47006,7 @@ directement
 quelques-unes de ces règles que nous avons attribuées au droit
 restitutif . Après avoir décidé que la femme divorcée ne pourra plus
 
-[p. 897]
-
-MORALE SOCIALE
+[p. 897] MORALE SOCIALE
 LE DROIT
 897
 
@@ -49695,11 +47057,7 @@ qu'elle se fasse sentir aux consciences , et ce sentiment est aussi à
 la base de toute religiosité. Voilà pourquoi , d'une manière générale ,
 la répression domine tout le droit chez les sociétés inférieures : c'est
 
-57
-
-[p. 898]
-
-que la religion y pénètre toute la vie juridique, comme d'ailleurs
+57 [p. 898] que la religion y pénètre toute la vie juridique, comme d'ailleurs
 toute la vie sociale .
 Aussi ce caractère est-il encore très marqué dans les lois de
 Manou . Il n'y a qu'à voir la place éminente qu'elles attribuent à la
@@ -49743,11 +47101,7 @@ Aussi le droit criminel n'occupe-t-il plus toute la place . Les
 règles qui sont sanctionnées par des peines et celles qui n'ont que
 des sanctions restitutives sont, cette fois, bien distinguées les unes
 des autres . Le droit restitutif s'est dégagé du droit répressif qui
-l'absorbait primitivement ; il a maintenant ses caractères propres ,
-
-[p. 899]
-
-sa constitution personnelle, son individualité . Il existe comme espèce
+l'absorbait primitivement ; il a maintenant ses caractères propres , [p. 899] sa constitution personnelle, son individualité . Il existe comme espèce
 juridique distincte, munie d'organes spéciaux , d'une procédure spé-
 ciale. Le droit coopératif lui-même fait son apparition : on trouve
 dans les XII Tables un droit domestique et un droit contractuel.
@@ -49792,9 +47146,7 @@ naissent du délit. » Quant au droit public, outre qu'il est encore
 assez simple , il a en grande partie un caractère pénal, parce qu'il a
 gardé un caractère religieux .
 
-[p. 900]
-
-900
+[p. 900] 900
 MORALE PRATIQUE
 A partir de cette époque le droit répressif n'a fait que perdre de
 son importance relative . D'une part, à supposer même qu'il n'ait
@@ -49839,11 +47191,7 @@ taires , ni sur ceux contre la religion, et la prépondérance du droit
 répressif apparaîtra plus considérable encore .
 Elle est déjà moindre dans la loi des Burgundes, qui est plus
 récente . Sur 311 articles , nous en avons compté 98 , c'est-à-dire-près
-d'un tiers, qui ne présentent aucun caractère pénal . Mais l'accrois-
-
-[p. 901]
-
-MORALE SOCIALE
+d'un tiers, qui ne présentent aucun caractère pénal . Mais l'accrois-[p. 901]MORALE SOCIALE
 LE DROIT
 901
 
@@ -49890,11 +47238,7 @@ n'exprime pas davantage tous les liens qu'engendre la division du
 travail, car il ne nous donne également de toute cette partie de la
 vie sociale
 qu'une représentation schématique. Dans une multi-
-tude de cas , les rapports de mutuelle dépendance qui unissent les
-
-[p. 902]
-
-fonctions divisées ne sont réglés que par des usages, et ces règles
+tude de cas , les rapports de mutuelle dépendance qui unissent les [p. 902] fonctions divisées ne sont réglés que par des usages, et ces règles
 non écrites dépassent certainement en nombre celles qui servent
 de prolongement au droit répressif, car elles doivent être aussi
 diverses que les fonctions sociales elles-mêmes . Le rapport entre
@@ -49943,9 +47287,7 @@ les Koukis. Chez les Germains, tout homme qui aimait la guerre
 pouvait se faire soldat sous un chef de son choix . « Rien n'était plus
 ordinaire et ne semblait plus légitime . Un homme se levait au
 
-[p. 903]
-
-MORALE SOCIALE
+[p. 903] MORALE SOCIALE
 LE DROIT
 903
 
@@ -49997,11 +47339,7 @@ ne pas faire aux autres ce
 qu'on ne voudrait pas qui fût fait à soi-même .
 Les lois ont pour but de maintenir dans la société un équilibre
 qui remet à chaque instant les choses en état, si l'équilibre a été
-rompu du fait d'un individu. Le droit pénal, la force n'est employée
-
-[p. 904]
-
-que dans les cas où il y aura eu volonté de nuire . Dans tous les
+rompu du fait d'un individu. Le droit pénal, la force n'est employée [p. 904] que dans les cas où il y aura eu volonté de nuire . Dans tous les
 autres cas , on cherchera équitablement ce qui revient à chacun .
 On voit maintenant combien est fausse la thèse de certains philo-
 sophes et non des moindres, comme Spencer, qui prétendait que
@@ -50043,11 +47381,7 @@ individuel , sans que tel ou tel individu puisse être rendu directement
 responsable de ce fait .
 D'abord c'est à l'initiative privée et individuelle, à la charité que
 l'on a laissé le soin de réparer les injustices du sort.
-Mais l'évolution du droit montre qu'à chaque instant ce qui est
-
-[p. 905]
-
-conçu comme un acte de bienfaisance par la morale sociale devient
+Mais l'évolution du droit montre qu'à chaque instant ce qui est [p. 905] conçu comme un acte de bienfaisance par la morale sociale devient
 à l'instant suivant une obligation juridique .
 Acôté d'une justice relative qui cherche à rétablir l'ordre troublé
 du fait d'un individu , s'organise ainsi une justice plus complète ,
@@ -50090,9 +47424,7 @@ d'après les investigations contemporaines ; mais il importe de ne pas
 oublier toutes les incertitudes et parfois les erreurs que peut comporter
 actuellement une étude de ce genre .
 
-[p. 906]
-
-LE DROIT
+[p. 906] LE DROIT
 
 CHAPITRE XLIX
 
@@ -50143,9 +47475,7 @@ caractérisent . Comment expliquer - et c'est là la question philo-
 sophique du droit - l'origine , la nature d'une telle institution et
 ses transformations successives ?
 
-[p. 907]
-
-MORALE SOCIALE
+[p. 907] MORALE SOCIALE
 LE DROIT
 907
 
@@ -50197,9 +47527,7 @@ visible du droit, que chacune des victoires de la force marque un
 triomphe partiel du droit : celui-ci se trouve donc toujours du côté
 de la force .
 
-[p. 908]
-
-Ces systèmes , tout en ayant la prétention de rester d'accord avec
+[p. 908] Ces systèmes , tout en ayant la prétention de rester d'accord avec
 les faits , n'en sont qu'une reconstitution imaginative qu'autorisait
 l'absence de toute donnée scientifique sur les phénomènes sociaux
 à l'époque où ils furent élaborés . Aujourd'hui , ce que nous savons
@@ -50246,9 +47574,7 @@ lui qu'une apparence ; ce n'est pas le fond des choses. Les phéno-
 mènes internes, tels que le caractère du peuple, sa manière de
 penser et de sentir... se résolvent purement et simplement par une
 
-[p. 909]
-
-MORALE SOCIALE
+[p. 909] MORALE SOCIALE
 LE DROIT
 909
 
@@ -50299,9 +47625,7 @@ kel... a signalé en très bons termes l'erreur de Jhering sur ce
 point . L'utilitarisme
 perfectionné, tel qu'il le reconnaît chez
 
-[p. 910]
-
-Jhering , Stuart Mill, Leslie
+[p. 910] Jhering , Stuart Mill, Leslie
 Stephen et d'autres, n'accorde pas la
 valeur qui leur appartient aux conceptions idéales qui se forment
 en nous sur l'être humain et son action dans la société. Nous avons
@@ -50350,9 +47674,7 @@ ratif catégorique, qui commande sans motiver ses ordres, et veut
 être obéi, simplement parce qu'il est.
 Or, pour qu'une telle notion puisse commander en nous, ilfaut -
 
-[p. 911]
-
-MORALE SOCIALE
+[p. 911] MORALE SOCIALE
 : LE DROIT
 911
 
@@ -50410,11 +47732,7 @@ nullement d'accord avec les faits
 n'est pas dans les doctrines du vieux droit naturel tirées de la
 fiction, depuis longtemps abandonnée , d'un état primitif de nature,
 ou de celle de la convention et du contrat social, ni même dans
-les théories rationalistes demeurées plus en faveur, qui fondent
-
-[p. 912]
-
-l'ordre juridique sur quelques principes abstraits dont elles font
+les théories rationalistes demeurées plus en faveur, qui fondent [p. 912] l'ordre juridique sur quelques principes abstraits dont elles font
 sortir, par une série de déductions logiques plus ou moins labo-
 rieuses , tout le contenu du droit. Ni la maxime du droit naturel et
 de l'égale liberté, ni aucune autre formule purement rationnelle de
@@ -50460,9 +47778,7 @@ C'est ce qu'a bien montré l'école historique avec Savigny et
 Puchta, qui nous paraissent avoir déterminé assez exactement l'es-
 sence du droit, en faisant appel aux deux notions de conscience
 
-[p. 913]
-
-MORALE SOCIALE
+[p. 913] MORALE SOCIALE
 : LE DROIT
 913
 
@@ -50514,9 +47830,7 @@ l'expérience, mais pour la continuer et la dépasser.
 
 58
 
-[p. 914]
-
-II.
+[p. 914] II.
 APPLICATIONS PRATIQUES
 : JUSTICE, CHARITÉ , SOLIDARITÉ
 
@@ -50563,9 +47877,7 @@ selon nous , une différence essentielle entre la justice et la charité ,
 et de faire de cette dernière un principe irréductible et également
 nécessaire à la morale .
 
-[p. 915]
-
-MORALE SOCIALE
+[p. 915] MORALE SOCIALE
 LE DROIT
 915
 
@@ -50618,11 +47930,7 @@ comme il y a des génies doués pour l'invention scientifique . C'est
 par la propagande faite sans relâche autour de ces inventions mo .
 rales , par l'évidence qu'elles favorisent un meilleur être de l'hu-
 manité, que peu à peu elles deviennent les exigences de toute
-conscience raisonnable , et s'imposent comme règles universelles de
-
-[p. 916]
-
-916
+conscience raisonnable , et s'imposent comme règles universelles de [p. 916] 916
 MOPALE PRATIQUE
 
 justice. Ce que nous avons dit pour l'assassinat pourrait être dit de
@@ -50680,17 +47988,13 @@ toujours une justice incomplète que l'on oppose à la
 charité, ou une charité injuste et immorale que l'on oppose à la
 justice .
 
-<<< Si l'empire de lajustice nous semble insuffisant pour le bonheur
-
-[p. 917]
-
-des hommes , c'est que nous sommes malheureusement privés de
+<<< Si l'empire de lajustice nous semble insuffisant pour le bonheur [p. 917] des hommes , c'est que nous sommes malheureusement privés de
 ce spectacle que la terre n'a jamais contemplé... En réalité , ce
 monde où la raison (c'est-à-dire la justice) commanderait, serait un
 monde où la bonté, libre enfin des chaînes dont l'iniquité la charge
 de toutes parts, nous paraîtrait régner toute seule. »
 (Renouvier,
-Science de la morale , 164.)
+*Science de la morale* , 164.)
 Quant à l'homme qui transgresse une règle manifeste de justice
 en faveur de quelqu'un, celui qui, pour sauver un coupable, lui
 permet de nuire ensuite à des milliers d'honnêtes gens, celui qui,
@@ -50731,11 +48035,7 @@ reuses ou passionnées de notre seul individu. Elle s'inspire des
 faits et non des écarts de l'imagination . Elle considère tout acte
 sous la forme de la raison , sub specie æterni, aurait dit Spinosa .
 Elle est la bonté éclairée, et dominée par la justice .
-Les règles pratiques que nous allons déterminer dans la suite
-
-[p. 918]
-
-seront le développement de ce point de vue ; prenant les différentes
+Les règles pratiques que nous allons déterminer dans la suite [p. 918] seront le développement de ce point de vue ; prenant les différentes
 relations et circonstances où se trouve engagé l'agent moral, nous
 montrerons à quoi l'amènent la justice actuellement réalisée et la
 justice à réaliser, c'est-à-dire la solidarité morale. Cette notion de
@@ -50779,9 +48079,7 @@ grès de la justice, du progrès des lois et de la raison .
 C'est du milieu des actes confus provoqués par le sentiment que
 sortent peu à peu les règles morales nouvelles qui nous paraissent
 
-[p. 919]
-
-MORALE SOCIALE
+[p. 919] MORALE SOCIALE
 LE DROIT
 919
 
@@ -50830,11 +48128,7 @@ de l'esclavage) . Par suite, la notion des devoirs de justice et des
 devoirs de charité est toute relative. Et constamment, par la création
 de droits nouveaux, la société élargit le cercle de la justice aux
 dépens de celui de la charité .
-Si nous considérons maintenant le droit idéal qui commence
-
-[p. 920]
-
-par atteindre une certaine positivité, en étant toujours sanctionné
+Si nous considérons maintenant le droit idéal qui commence [p. 920] par atteindre une certaine positivité, en étant toujours sanctionné
 d'abord par l'opinion publique avant de l'ètre par la loi, nous voyons
 que l'on peut dire, conformémentà nos conclusions précédentes, qu'il
 n'y a point d'acte de charité véritable qui ne puisse être réclamé
@@ -50872,9 +48166,7 @@ détail, une connaissance des réalités sociales, une prudence, sans les-
 quelles n'a jamais pu se produire une transformation heureuse et durable
 des mœurs , si minime qu'elle soit .
 
-[p. 921]
-
-CHAPITRE L
+[p. 921] CHAPITRE L
 
 SANCTIONS DES DROITS .
 LE DROIT DE PUNIR
@@ -50934,9 +48226,7 @@ Pour nous faire une idée nette du droit et de sa force coercitive
 dans toute société , il nous reste donc à examiner ce caractère , qu'il
 possède toujours plus ou moins directement, d'être sanctionné .
 
-[p. 922]
-
-II . - HYPOTHÈSE ERRONÉE DE LA VENGEANCE PRIVÉE ,
+[p. 922] II . - HYPOTHÈSE ERRONÉE DE LA VENGEANCE PRIVÉE ,
 COMME ORIGINE DE LA PEINE
 
 << L'histoire de la peine et des doctrines pénales n'a jamais été
@@ -50981,9 +48271,7 @@ viduelle.C'est la vendetta, et la vendetta n'est que le souvenir de la
 luttede clan à clan pour venger l'insulte ou le dommage faits-au
 clan.
 
-[p. 923]
-
-SANCTION DES DROITS
+[p. 923] SANCTION DES DROITS
 LE DROIT DE PUNIR
 923
 
@@ -51033,11 +48321,7 @@ prendre paie le prix convenu . » (Id.)
 B. Évolution du droitde punir.- « En même temps que ces
 wergeld , peines privées si l'on veut, il y avait, parallèlement, de
 véritables expiations publiques pour les faits qui portaient atteinte
-à la sécurité de la tribu, faits de trahison par exemple... Partout où
-
-[p. 924]
-
-il y a un petit groupe organisé... nous trouvons ces deux formes de la
+à la sécurité de la tribu, faits de trahison par exemple... Partout où [p. 924] il y a un petit groupe organisé... nous trouvons ces deux formes de la
 peine, la peine protection , du côté de l'extérieur (wergeld), et lapeine
 expiation , du côté de l'intérieur ; et le jour où les groupes arrivèrent
 à se fédéraliser sans se confondre , ces deux côtés de la peine se
@@ -51083,9 +48367,7 @@ donne .
 n'est pas un simple moyen de défense, c'est une sanction du malréalisé,
 une équivalence entre le mal commis et le mal infligé.
 
-[p. 925]
-
-SANCTION DES DROITS
+[p. 925] SANCTION DES DROITS
 LE DROIT DE PUNIR
 925
 
@@ -51137,11 +48419,7 @@ MORALES
 
 Nous allons nous trouver en présence de deux théories opposées :
 l'une se borne à transcrire les faits, sans chercher à en compléter
-l'enseignement par la réflexion philosophique qui interprète leurs
-
-[p. 926]
-
-transformations et leurs progrès à l'aide des aspirations de la
+l'enseignement par la réflexion philosophique qui interprète leurs [p. 926] transformations et leurs progrès à l'aide des aspirations de la
 conscience actuelle. Elle est fatalement portée à négliger l'individu ,
 ses sentiments intimes au moment de l'acte, pour ne considérer
 que la réaction autoritaire de la société, l'exercice de sa contrainte :
@@ -51188,9 +48466,7 @@ d'obligation et de sanction expiatoire .
 B. La peine, moyen d'expiation pour qui a mésusé de son
 libre arbitre .- Théorie classique.- Les données de la conscience
 
-[p. 927]
-
-SANCTION DES DROITS
+[p. 927] SANCTION DES DROITS
 LE DROIT DE PUNIR
 927
 
@@ -51243,9 +48519,7 @@ laire, en prononçant son verdict, se préoccupe de savoir non si l'acte
 incriminé a été libre... mais s'il a été conforme au caractère per-
 manent et fondamental de l'accusé. » (D'après Tarde .)
 
-[p. 928]
-
-De nos jours il n'est presque plus personne qui admette les
+[p. 928] De nos jours il n'est presque plus personne qui admette les
 idées de l'école classique dans leur intégrité , et ce sont cependant
 ces idées qui ont présidé à la publication de notre Code pénal
 en 1810. Elles sont très atténuées. Cette présomption de l'identité
@@ -51292,9 +48566,7 @@ le but essentiel de tout système pénitentiaire .
 Ainsi on n'abolit pas dans ce système responsabilité, sentiment
 d'obligation , expiation ou sanction individuelle d'un écart aux lois
 
-[p. 929]
-
-SANCTION DES DROITS
+[p. 929] SANCTION DES DROITS
 LE DROIT DE PUNIR
 929
 morales, comme dans les conceptions de l'école italienne ; on ne dit
@@ -51343,9 +48615,7 @@ pensation, par la souffrance individuelle, du mal qui a été commis .
 
 59
 
-[p. 930]
-
-Si l'on se place à ce point de vue, ce qui frappe uniquement dans le
+[p. 930] Si l'on se place à ce point de vue, ce qui frappe uniquement dans le
 crime , c'est le résultat matériel qu'il a réalisé ; c'est le trouble social
 qu'il a causé, le mal individuel ou collectif qui en est résulté , et dont
 la société a pris conscience et sentila répercussion ... La loi devra donc
@@ -51398,9 +48668,7 @@ nels en deux groupes irréductibles, ceux qui sont amendables et
 ceux qui ne le sont pas » . Ces derniers sont des malades incurables
 il n'y a qu'à les isoler. « Pour les autres, il importera d'en étudier
 
-[p. 931]
-
-SANCTION DES DROITS
+[p. 931] SANCTION DES DROITS
 LE DROIT DE PUNIR
 931
 
@@ -51437,9 +48705,7 @@ détail , une connaissance des réalités sociales, une prudence, sans les-
 quelles n'a jamais pu se produire une transformation heureuse et durable
 des mœurs , si minime qu'elle soit .
 
-[p. 932]
-
-CHAPITRE LI
+[p. 932] CHAPITRE LI
 
 LES DROITS FONDAMENTAUX
 : LE RESPECT DE LA
@@ -51486,9 +48752,7 @@ même ou d'exiger des autres .
 En ce sens, remarquons bien que le respect de la vie, qui est un
 droit primordial, n'est que le premier des droits qui assurent notre
 
-[p. 933]
-
-DROITS FONDAMENTAUX
+[p. 933] DROITS FONDAMENTAUX
 933
 
 liberté individuelle . Et il est tout à fait légitime de dire que le
@@ -51536,11 +48800,7 @@ envisagés ;
 2º La loi sanctionne encore dans la plupart des pays la suppres-
 sion de la vie, comme châtiment des crimes de sang ou des crimes
 politiques . Le second cas répugne énergiquement à la conscience
-actuelle . Quant au premier, on peut remarquer que c'est sanctionner
-
-[p. 934]
-
-l'atteinte à la vie par une atteinte à la vie : souvenir du
+actuelle . Quant au premier, on peut remarquer que c'est sanctionner [p. 934] l'atteinte à la vie par une atteinte à la vie : souvenir du
 talion
 primitif. On ne peut vraiment s'y résigner que si l'expérience le
 montre encore absolument nécessaire
@@ -51588,9 +48848,7 @@ société (habeas corpus) , et c'est là le sens le plus usuel. Nous consi-
 dérerons donc que la liberté individuelle estl'ensemble des droits que
 possède l'individu en face de la société, une fois que lui a été
 
-[p. 935]
-
-DROITS FONDAMENTAUX
+[p. 935] DROITS FONDAMENTAUX
 935
 
 reconnue la première des libertés, celle de vivre, dont nous venons
@@ -51638,11 +48896,7 @@ c) Mais ce qui est plus grave, c'est qu'un grand nombre d'indi-
 vidus sont, par suite de circonstances inévitables qui viennent de
 l'organisation sociale , dans l'impossibilité d'user de tous les droits
 qu'implique la liberté individuelle. Il ne suffit pas, en effet , d'avoir
-théoriquement la jouissance d'un droit. Il faut encore avoir la ca
-
-[p. 936]
-
-pacité d'en user pratiquement. Or, les conditions du travail sont
+théoriquement la jouissance d'un droit. Il faut encore avoir la ca [p. 936] pacité d'en user pratiquement. Or, les conditions du travail sont
 telles actuellement qu'un grand nombre d'individus sont subor-
 donnés étroitement à la volonté et à la fortune d'autres individus ,
 ou à la merci de circonstances fortuites , par suite des conditions
@@ -51687,9 +48941,7 @@ L'intolérance individuelle
 (car la pratique du respect de la
 liberté de pensée constitue la tolérance) est une faute morale à
 
-[p. 937]
-
-DROITS FONDAMENTAUX
+[p. 937] DROITS FONDAMENTAUX
 937
 
 laquelle on ne peut remédier que par l'éducation (patrons plaçant
@@ -51737,11 +48989,7 @@ des initiatives et par suite des situations individuelles . Celles-ci
 créent des privilèges fatals et, là où il y a privilège, il ne peut plus
 y avoir liberté individuelle au sens plein du mot pour ceux qui ne
 les possèdent pas. Égaliser les situations paraît à beaucoup,
-d'un
-
-[p. 938]
-
-côté , supprimer les initiatives individuelles et par là le ressortvéritable
+d'un [p. 938] côté , supprimer les initiatives individuelles et par là le ressortvéritable
 des progrès de l'humanité , — de l'autre , anéantir la liberté (qu'on
 voudrait au contraire établir) en instaurant une tyrannie continuelle
 dans le jeu de la vie économique . Aussi les aspirations modernes
@@ -51787,9 +49035,7 @@ pour nos libertés . L'affirmation du droit reste, même dans nos
 sociétés , plus théorique que pratique . Et ceux qui ont fait la cri-
 tique du droit de propriété, les économistes socialistes , ont insisté
 
-[p. 939]
-
-DROITS FONDAMENTAUX
+[p. 939] DROITS FONDAMENTAUX
 939
 
 surtout sur ce fait que si la propriété est un droit qui, d'après les
@@ -51840,11 +49086,7 @@ hausse .
 Mais on voit tout de suite alors ce qui fait le fond du problème
 que pose le droit de propriété . Nous sommes loin d'un régime où
 la propriété irait de pair avec le travail , où chacun posséderait tout
-ce qu'il doit à ses efforts , et ne posséderait que cela. Notre société
-
-[p. 940]
-
-est encore trop voisine des civilisations où la propriété s'établissait
+ce qu'il doit à ses efforts , et ne posséderait que cela. Notre société [p. 940] est encore trop voisine des civilisations où la propriété s'établissait
 pour ainsi dire en sens contraire du travail , où les travailleurs ,
 esclaves ou serfs , ne possédaient pas , et où presque tous les posses-
 seurs tenaient à honneur de ne pas travailler .
@@ -51889,9 +49131,7 @@ détail, une connaissance des réalités sociales , une prudence, sans les-
 quelles n'a jamais pu se produire une transformation heureuse et durable
 des mœurs, si minime qu'elle soit .
 
-[p. 941]
-
-EXPOSÉ DES DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+[p. 941] EXPOSÉ DES DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 
 AVANT-PROPOS DES DEUX CHAPITRES QUI SUIVENT
 
@@ -51926,9 +49166,7 @@ tions sont vivement discutées et qu'on ne peut pas les considérer
 comme entraînant l'adhésion unanime de ceux qui étudient ces
 questions avec loyauté et compétence .
 
-[p. 942]
-
-CHAPITRE LII
+[p. 942] CHAPITRE LII
 
 EXPOSÉ DES DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 
@@ -51999,9 +49237,7 @@ universelle : celles qui ont rapport à la satisfaction des besoins les
 plus simples , les plus élémentaires et les plus nécessaires de tous :
 les besoins matériels qui dérivent des nécessités vitales .
 
-[p. 943]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+[p. 943] DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 943
 
 B. Importance.- La vie humaine est tout entière conditionnée
@@ -52046,11 +49282,7 @@ matériel et social . » (Andler, Commentaire du Manifeste économique
 de Marx , 74. ) L'état économique détermine en effet une répartition
 des charges sociales parmi les hommes , et les classe en groupements
 nécessaires qui ont des intérêts antagonistes ; et toute l'histoire des
-peuples est déterminée par la lutte de ces classes . « Toute l'histoire
-
-[p. 944]
-
-de la société humaine jusqu'à ce jour est l'histoire de la lutte des
+peuples est déterminée par la lutte de ces classes . « Toute l'histoire [p. 944] de la société humaine jusqu'à ce jour est l'histoire de la lutte des
 classes . Homme libre et esclave, patricien et plébéien, baron et
 serf, maître-artisan et compagnon, en un mot oppresseurs et oppri-
 més , dressés les uns contre les autres dans un conflit incessant,
@@ -52098,9 +49330,7 @@ ment . Certes les relations économiques jouent un très grand rôle,
 puisqu'elles déterminent toute notre vie matérielle et organique,
 donc la condition première de toute existence ; mais il n'est que juste
 
-[p. 945]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+[p. 945] DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 945
 
 de faire à côté d'elles leur part aux autres facteurs que l'observation
@@ -52148,9 +49378,7 @@ souhaitable .
 
 60
 
-[p. 946]
-
-III .
+[p. 946] III .
 ÉTUDE DE LA VALEUR .
 
 A. Les
@@ -52201,9 +49429,7 @@ chapeau , ici nous perdons le fil. Lequel en effet est le plus utile ? >>>
 (Id. , 58) . De plus, les choses les plus utiles , l'eau, le blé, le charbon ,
 le fer, sont souvent celles qui ont le moins de valeur, et les moins
 
-[p. 947]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+[p. 947] DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 947
 
 utiles , les diamants , les dentelles, celles qui en ont le plus . Il y a
@@ -52257,11 +49483,7 @@ satisfait. »
 ( Id. , 60.)
 Mais, dans la production actuelle, on peut produire, la plupart
 du temps , grâce à lagrande industrie et au machinisme, autant d'ob-
-jets qu'il y a de besoins et de désirs à satisfaire . Tous les objets ma-
-
-[p. 948]
-
-nufacturés
+jets qu'il y a de besoins et de désirs à satisfaire . Tous les objets ma-[p. 948]nufacturés
 devraient donc tomber, comme l'eau ou l'air, à une
 valeur presque nulle ou nulle : ce qui est absurde. Cette théorie
 explique parfaitement les variations toujours limitées de la valeur
@@ -52308,9 +49530,7 @@ nous les désirons plus ou moins vivement selon qu'elles sont en
 quantité plus ou moins insuffisante pour nos besoins (utilité et ra-
 reté) , et ceci explique les fluctuations accidentelles de la valeur
 
-[p. 949]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+[p. 949] DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 949
 
 d'échange ; 3º enfin qu'elles sont en quantité plus ou moins insuf-
@@ -52359,11 +49579,7 @@ besoins , même ceux que la nature nous donne d'elle-même , fruits
 de l'arbre à pain, bananes , dattes, ou tous les crustacés ou coquil-
 lages... encore faut-il que l'homme ait pris la peine de les ramas-
 ser ; or la cueillette représente certainement un travail, et qui peut
-même, suivant les circonstances , devenir fort pénible. Il faut remar-
-
-[p. 950]
-
-quer d'ailleurs que l'on ne se fait pas d'ordinaire une idée juste
+même, suivant les circonstances , devenir fort pénible. Il faut remar-[p. 950]quer d'ailleurs que l'on ne se fait pas d'ordinaire une idée juste
 du rôle considérable que joue le travail, même dans la création de
 ces produits
 qualifiés
@@ -52412,9 +49628,7 @@ cela tient uniquement à une organisation vicieuse de nos sociétés
 modernes . » (Id. , 117.)
 Il est facile de voirmaintenant que le travail seul intervient dans
 
-[p. 951]
-
-【DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+[p. 951] 【DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 951
 
 -
@@ -52468,11 +49682,7 @@ nomique (familia romaine, seigneurie du moyen âge), en ce sens
 qu'ils se suffisent à eux-mêmes , ne consommant guère que ce qu'ils
 ont produit et ne produisant guère que ce qu'ils doivent consom-
 mer . L'échange et la division du travail n'existent qu'à l'état em-
-bryonnaire . >>> (Id. , 164.)
-
-[p. 952]
-
-« L'homme primitif considérait ce qu'il avait fait, les produits de
+bryonnaire . >>> (Id. , 164.) [p. 952] « L'homme primitif considérait ce qu'il avait fait, les produits de
 son travailcomme inhérents à sa personne . De là les formalités étran-
 gement solennelles dont l'aliénation est entourée à ses origines (par
 exemple la mancipatio du droit romain) . Chose curieuse, le don pa-
@@ -52523,11 +49733,7 @@ tier ne fait qu'un genre de travail , et même les règlements veillent
 avecun soin jaloux à ce que chacun reste enfermé dans sa spécialité...
 La même industrie se subdivise en branches divergentes (les ouvriers
 du bois subdivisés en menuisiers , charpentiers , charrons , etc. ) ou en
-branches successives (le bois passant successivement des mains des bû-
-
-[p. 953]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+branches successives (le bois passant successivement des mains des bû-[p. 953]DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 953
 
 cherons à celles des scieurs de long , etc.) dont chacune forme un
@@ -52590,11 +49796,7 @@ clients ,
 et une solidarité économique croissante . La
 puissance
 productive et le bien-être social ont augmenté dans une très forte
-proportion . Mais le producteur n'est plus maître de l'objet qu'il a
-
-[p. 954]
-
-produit. De là une dépendance fatale et malheureuse de l'ouvrier
+proportion . Mais le producteur n'est plus maître de l'objet qu'il a [p. 954] produit. De là une dépendance fatale et malheureuse de l'ouvrier
 vis-à-vis du patron, dépendance qui va devenir, dans la qua-
 trième phase, un obstacle formidable à l'émancipation de l'indi-
 vidu .
@@ -52641,11 +49843,7 @@ sion extrême du travail, localisation des industries où elles sont le
 mieux placées, en résumé coût de production abaissé dans des pro-
 portions considérables .
 La solidarité économique va donc grandissant, multipliant les
-dépendances réciproques . Mais , dans ces mailles de plus en plus nom-
-
-[p. 955]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+dépendances réciproques . Mais , dans ces mailles de plus en plus nom-[p. 955]DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 955
 
 breuses et de plus en plus serrées, il n'y a pas place, semble-
@@ -52691,11 +49889,7 @@ liberté que là où toutes les relations sont équitablement et nette-
 ment définies . Cette prétendue liberté de la production n'est qu'une
 lutte, un antagonisme, une guerre entre consommateurs et produc-
 teurs d'abord , entre producteurs ensuite ; c'est la force des choses
-qui équilibre très rarement et pour très peu de temps consomma-
-
-[p. 956]
-
-tion et production . Et une lutte livrée au hasard, c'est le contraire
+qui équilibre très rarement et pour très peu de temps consomma-[p. 956]tion et production . Et une lutte livrée au hasard, c'est le contraire
 même de la liberté . Cette contradiction, le nom même que les éco-
 nomistes ont donné à ce régime la rend manifeste : ils l'ont appelée
 le régime de la libre concurrence : c'est-à-dire de la liberté de la
@@ -52740,9 +49934,7 @@ sont que des instruments entre ses mains, la confiance que nous
 imposait cette belle symétrie est un peu ébranlée, et il semble
 que naturellement c'est le travailleur qui devrait avoir pour lui
 
-[p. 957]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+[p. 957] DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 957
 
 l'intégralité du produit . »
@@ -52795,11 +49987,7 @@ Or, quel est le coût de production du travail humain ? C'est évi-
 demment ce qui est nécessaire pour permettre au travailleur de
 vivre, de s'entretenir et de se perpétuer
 le salaire doit se réduire
-au minimum strict qui permet à un ouvrier de vivre, lui, et sa
-
-[p. 958]
-
-famille, dans la mesure seulement où celle-ci satisfait aux besoins
+au minimum strict qui permet à un ouvrier de vivre, lui, et sa [p. 958] famille, dans la mesure seulement où celle-ci satisfait aux besoins
 de la reproduction sociale (loi d'airain) .
 Ce minimum, du reste ,
 est assez mal défini : il dépend des
@@ -52846,9 +50034,7 @@ pour « reparaître sous la figure de commis, d'employés, c'est-à-dire
 de salariés travaillant pour le compte d'immenses entreprises diri-
 gées par des capitalistes milliardaires ou par des sociétés anonymes . >>>
 
-[p. 959]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+[p. 959] DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 959
 
 (Gide, 192. ) Autrement dit, des réserves formidables se constituent; ce
@@ -52893,11 +50079,7 @@ de la production elle-même que s'est créé le capital : « La hache
 de pierre taillée de l'homme quaternaire n'a pas été le résultat
 d'une épargne. Il est probable qu'il était aussi peu en mesure
 de restreindre sa consommation que le prolétaire de nos jours , qui
-gagne tout juste de quoi ne pas mourir de faim. Ce n'est pas en
-
-[p. 960]
-
-restreignant sa consommation, c'est en augmentant sa production ,
+gagne tout juste de quoi ne pas mourir de faim. Ce n'est pas en [p. 960] restreignant sa consommation, c'est en augmentant sa production ,
 par exemple à la suite d'une journée de chasse heureuse qui lui avait
 rapporté plus que de coutume , qu'il a créé ce premiercapital. Peut-on
 dire que , pour passer de l'état de peuple chasseur à l'état agricole ,
@@ -52947,9 +50129,7 @@ francs .
 » Mais il ne saurait évidemment
 y avoir qu'un seul et même prix sur un marché pour des produits
 
-[p. 961]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+[p. 961] DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 961
 
 identiques . « Le prix de vente de tous les sacs de blé sera donc le
@@ -53002,11 +50182,7 @@ Le produit livré par l'entrepreneur sur le marché a en effet une
 valeur déterminée par le travail qu'il a coûté, d'après la théorie de
 la valeur . Mais ce n'est pas le travailleur qui profite de ce produit
 
-61
-
-[p. 962]
-
-de son travail, car il a été obligé par l'évolution économique d'aban-
+61 [p. 962] de son travail, car il a été obligé par l'évolution économique d'aban-
 donner tout le soin de l'entreprise aux entrepreneurs : son travail
 n'est plus rétribué que par le salaire .
 Or , il y a une différence très grande entre le taux de ce salaire
@@ -53071,9 +50247,7 @@ antagonisme de classes , fondé sur l'inégalité flagrante de la répar-
 tition . Et c'est cet antagonisme qui pose les principaux problèmes
 moraux que nous aurons à résoudre .
 
-[p. 963]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+[p. 963] DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 963
 
 VI .
@@ -53123,11 +50297,7 @@ les diverses législations comme le fait originaire d'où découle le
 droit de propriété . » Le droit du premier occupant n'est, du reste,
 qu'une transformation du droit du plus fort . « Dans les sociétés
 antiques
-l'occupation est... fondée sur la conquête. Le type de la
-
-[p. 964]
-
-propriété quiritaire à Rome , c'est celle qui a été acquise sub hasta
+l'occupation est... fondée sur la conquête. Le type de la [p. 964] propriété quiritaire à Rome , c'est celle qui a été acquise sub hasta
 
 (par la lance) . Et une vieille chanson grecquedit : « Marichesse est
 ma lance, mon glaive et mon beau bouclier, rempart de mon corps .
@@ -53179,11 +50349,7 @@ La terre conquise, en général , par la horde tout entière, travail-
 lée collectivement et d'ailleurs surabondante, reste d'abord pro-
 priété commune de la horde . Lorsque la population devient plus
 dense, plus sédentaire et se fixe davantage sur le sol, elle com-
-mence à cultiver la terre d'une façon plus suivie et plus produc-
-
-[p. 965]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+mence à cultiver la terre d'une façon plus suivie et plus produc-[p. 965]DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 965
 
 trice . Alors à la première phase de la propriété foncière en succède
@@ -53234,11 +50400,7 @@ même temps qu'une forme collective de la propriété, une défaveur
 groupe . En même temps que la propriété s'attachera davantage à
 l'individu et perdra son caractère collectif, elle deviendra moins
 exclusive , moins fixe , plus souple et plus mobile .
-En subissant ces transformations au point de vue de la forme,
-
-[p. 966]
-
-le droit depropriété se complique et se transforme au point de vue
+En subissant ces transformations au point de vue de la forme, [p. 966] le droit depropriété se complique et se transforme au point de vue
 de ses attributs , de ses caractères. A l'origine , ce droit n'est guère
 que celui d'utiliser soi-même, puis de faire valoir son bien , « c'est-
 à-dire de l'exploiter par le travail d'autrui » , des esclaves d'abord,
@@ -53283,11 +50445,7 @@ confère par la propriété individuelle et mobile la libre et directe
 consommation de tous les produits , de même qu'il laisse se régler,
 par la libre concurrence , la production , et par la rente et le privilège
 du capital, la répartition . Le droit de propriété individuelle nous
-paraît logiquement et naturellement lié à tout le système écono-
-
-[p. 967]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+paraît logiquement et naturellement lié à tout le système écono-[p. 967]DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 967
 
 mique actuel . Aussi en est-il, avec le rôle du capital et la possi-
@@ -53339,11 +50497,7 @@ qu'elle a revêtues avant la Révolution faisaient une grande part à
 la réglementation économique,
 elles avaient une activité morale
 incontestable . Elles surveillaient les mœurs de l'apprenti aussi bien
-que son travail . Elles constituaient un instrument d'assistance très
-
-[p. 968]
-
-développé (compagnonnage) . Il estdonc permis de dire que l'absence
+que son travail . Elles constituaient un instrument d'assistance très [p. 968] développé (compagnonnage) . Il estdonc permis de dire que l'absence
 de tout lien corporatif est presque aussi anormale que l'absence de
 tout lien familial . Laisser l'individu abandonné à lui- même dans la
 lutte économique n'est pas loin d'être aussi antisocial que laisser
@@ -53392,11 +50546,7 @@ Il y a également une tendance pour intéresser la société toute
 entière à l'atténuation des maux que la concurrence peut causer
 (législation ouvrière sur la durée du travail, la nécessité du repos ,
 les accidents du travail, le travail des femmes et des enfants, l'hy-
-giène des ateliers , l'assurance en cas de maladieou de chômage,
-
-[p. 969]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+giène des ateliers , l'assurance en cas de maladieou de chômage, [p. 969] DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 969
 
 les retraites ouvrières, etc ...) . Les nations elles-mêmes tendent par
@@ -53448,9 +50598,7 @@ celle- ci se trouve par là
 même battue fortement en brèche , ainsi que ses corollaires la théorie
 du salaire et celle de la valeur .
 
-[p. 970]
-
-Mais si la petite propriété se maintient, sa situation , de l'aveu
+[p. 970] Mais si la petite propriété se maintient, sa situation , de l'aveu
 même des « classes moyennes » qui la représentent, semble de plus
 en plus précaire . L'association sous ses formes si diverses (entente ,
 coopération , mutualité , syndicat, etc.) se montre à peu près seule
@@ -53463,9 +50611,7 @@ socialistes .
 et d'une manière abstraite et sommaire . Ils sont évidem-
 ment contestés dans les doctrines adverses .
 
-[p. 971]
-
-CHAPITRE LIII
+[p. 971] CHAPITRE LIII
 
 EXPOSÉ DES DOCTRINES SOCIALISTE ET DÉMOCRATIQUE (suite)
 
@@ -53522,11 +50668,7 @@ l'homme n'a qu'à subir, et le plus passivement possible ; il ne
 doit pas , il ne peut pas intervenir dans le cours naturel des choses ,
 pour essayer de le modifier, de l'utiliser dans le sens des aspirations
 de sa conscience, et celles-ci sont purement illusoires . Une deuxième
-doctrine, tout opposée, fait bon marché de ces lois naturelles et
-
-[p. 972]
-
-croit que l'homme peut, à son gré, se donner les conditions d'exis-
+doctrine, tout opposée, fait bon marché de ces lois naturelles et [p. 972] croit que l'homme peut, à son gré, se donner les conditions d'exis-
 tence sociale qu'il souhaite . Enfin , et c'est la doctrine à laquelle
 se rangent plus ou moins socialistes et démocrates , on a le droit
 de dire : les faits nous montrent un devenir, des lois de change-
@@ -53580,9 +50722,7 @@ entre ces intérêts individuels, antagonistes en apparence, une har-
 monie qui constitue précisément l'ordre naturel et qui est de
 beaucoup supérieure à toute combinaison artificielle que l'on pourrait
 
-[p. 973]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+[p. 973] DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 973
 
 imaginer ; 3º Le rôle du législateur, s'il veut assurer l'ordre social
@@ -53634,9 +50774,7 @@ dents , n'est qu'un moment transitoire , gros de souffrances et de
 misères , et qui nous invite à hâter sa transformation, dans toute la
 mesure de nos forces .
 
-[p. 974]
-
-Il est faux que le principe de la concurrence économique soit
+[p. 974] Il est faux que le principe de la concurrence économique soit
 du même ordre que celui de la concurrence vitale dans l'ordre bio-
 logique . Ce dernier nous montre partout le triomphe du mieux
 adapté et du plus fort. Or l'association est une force et une
@@ -53686,9 +50824,7 @@ davantage sur chaque article. » (Id. , 176.)
 4° << Elle n'amène pas nécessairement l'égalisation des profits et
 des fortunes , puisque, en somme, la concurrence est une véritable
 
-[p. 975]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+[p. 975] DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 975
 
 guerre qui assure la victoire aux forts par l'écrasement
@@ -53737,11 +50873,7 @@ vue de la répartition . Si l'état social actuel est établi sur des bases
 si différentes , c'est que, hérité de régimes uniquement fondés sur
 la force brutale et les nécessités créées par le hasard, il n'a réalisé
 que dans une mesure infime l'émancipation réelle des individus et
-une solidarité équitable pour régler leurs rapports. Les privilégiés
-
-[p. 976]
-
-ont eu des bénéfices énormes . De là la marche progressive vers un
+une solidarité équitable pour régler leurs rapports. Les privilégiés [p. 976] ont eu des bénéfices énormes . De là la marche progressive vers un
 monopole de fait de toutes les richesses en quelques mains, et l'exis-
 tence du salariat pour tous les autres : car les richesses rapportent
 des richesses sans
@@ -53796,9 +50928,7 @@ veté, conséquence de l'hérédité et de la rente ; et la dernière,
 c'est le paupérisme . » (Gide , 395. )
 Le régime actuel de la propriété est donc le résultat d'une série
 
-[p. 977]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+[p. 977] DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 977
 
 IF
@@ -53850,11 +50980,7 @@ non seulement interdite, mais encore inutile,chacunpouvant se four-
 nir à son gré de ce qui lui est nécessaire. Concurrence et propriété
 capitalistique sont supprimées en fait, et avec elles tous les maux
 
-62
-
-[p. 978]
-
-qui leur sont inhérents : la hiérarchie autoritaire chargée de faire
+62 [p. 978] qui leur sont inhérents : la hiérarchie autoritaire chargée de faire
 respecter les droits acquis (ni Dieu, ni maître), l'usage de la force,
 le crime qui suppose toujours la notion de propriété privée .
 Critique .
@@ -53909,9 +51035,7 @@ sinon par tête, du moins par famille... (partages plus ou moins
 
 -
 
-[p. 979]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+[p. 979] DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 979
 
 légendaires de Minos , Lycurgue, Romulus) . Et comme, au bout de
@@ -53944,7 +51068,7 @@ ils tiennent beaucoup plus du rêve que
 de la réalité. Leur trait commun, c'est de partir de
 certaines
 aspirations de la conscience , d'intuitions morales , en un mot de
-la notion de justice ( qui, posée tout à fait a priori, est alors
+la notion de justice ( qui, posée tout à fait *a priori*, est alors
 une simple imagination individuelle) , et d'en déduire une évo-
 lution sociale et un terme final voisin du communisme .
 Pour
@@ -53990,11 +51114,7 @@ Nous sommes en face de deux tendances op-
 
 La première s'appuie uniquement sur les faits ; elle croit à l'éter-
 nité des formes actuelles ; elle considère la société à un point de
-vue statique, comme un équilibre parfait etimmuable ; elle ne voit
-
-[p. 980]
-
-pas que le fait le mieux établi, c'est précisément son incessante évo-
+vue statique, comme un équilibre parfait etimmuable ; elle ne voit [p. 980] pas que le fait le mieux établi, c'est précisément son incessante évo-
 lution .
 La deuxième tendance, au contraire, puise dans la conscience les
 notions de devoir, de justice, d'idéal : elle construit un système
@@ -54055,9 +51175,7 @@ se transforme sans cesse
 et il faut reconnaître que ce point de
 -
 
-[p. 981]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+[p. 981] DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 981
 
 5
@@ -54113,11 +51231,7 @@ ou la solidarité , régneront donc sur leterrain économique et c'est le
 seul moyen certain de les assurer dans les autres domaines. Plus
 d'exploitation de l'homme par l'homme et d'accaparement aux
 dépens d'autrui, plus d'oisiveté ni de parasitisme, plus de labeur
-excessif, plus de paupérisme. Enfin, ce système, en supprimant les
-
-[p. 982]
-
-privilèges de la répartition et en leur substituant la répartition collec-
+excessif, plus de paupérisme. Enfin, ce système, en supprimant les [p. 982] privilèges de la répartition et en leur substituant la répartition collec-
 tive selon le travail fourni, rend à chacun le produit intégral de son
 travail . Il fonde ainsi la véritable et légitime propriété individuelle ,
 avec droit et possibilité constante de libre consommation, puisque ,
@@ -54162,11 +51276,7 @@ plus grande égalisation, une tout
 autre physionomie - restera
 la garantie de la liberté et des droits de l'individu. Le principe
 en sera, par suite, toujours respecté .
-Cette différence capitale en entraîne plusieurs autres : la néga-
-
-[p. 983]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+Cette différence capitale en entraîne plusieurs autres : la néga-[p. 983]DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 983
 
 -
@@ -54226,9 +51336,7 @@ cialiste , on peut donc dire que de plus en plus on accepte d'envi-
 sager la plupart des problèmes que le socialisme a posés, comme
 posés à bon droit et d'une étude urgente .
 
-[p. 984]
-
-IV.
+[p. 984] IV.
 LES APPLICATIONS PRATIQUES .
 
 -
@@ -54289,11 +51397,7 @@ doit pas pouvoir échapper à l'obligation de la secourir, et les
 dépenses nécessaires à cet effet devront être inscrites d'office au
 budget de l'État ou des communes . » (Gide, 409.) L'assistance doit
 s'étendre
-: 1º à ceux qui n'ont pas la force de travailler : enfants,
-
-[p. 985]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+: 1º à ceux qui n'ont pas la force de travailler : enfants, [p. 985] DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 985
 
 vieillards malades , infirmes ; 2º à ceux qui, par débilité mentale,
@@ -54342,11 +51446,7 @@ assurée par là même. La liberté, l'émancipation individuelle en
 résulteront, puisque entre égaux il ne peut y avoir d'oppression .
 L'individu , libéré de toutes les craintes, du risque, de la crise , de.
 la défaite par plus fort que lui dans une lutte sans merci, pourra
-développer librement ses tendances et ses virtualités. La guerre
-
-[p. 986]
-
-aura fait place à la paix, la justice se sera substituée à la force .
+développer librement ses tendances et ses virtualités. La guerre [p. 986] aura fait place à la paix, la justice se sera substituée à la force .
 et tout motif de haine aura disparu sur le terrain économique .
 
 -
@@ -54395,11 +51495,7 @@ tion des services nationaux , la municipalisation des services de la
 commune (voies et moyens de transports, par exemple, assurance,
 entreprises d'éclairage, de distribution de force motrice , instruction
 et éducation générales , etc. ); ces réformes ont déjà été accom-
-plies partiellement dans certains pays (chemins de fer, instruction,
-
-[p. 987]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+plies partiellement dans certains pays (chemins de fer, instruction, [p. 987] DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 987
 
 7
@@ -54464,11 +51560,7 @@ il laisse à celui-ci les entreprises d'ordre général, et se borne à
 celles qui sont particulières à un lieu, à des produits et à des
 hommes déterminés, pour les faire sortir du régime de l'exploitation
 capitaliste, et les amenerau régime du droit, au produit intégral du
-travail. <<« Par son principe comme par son programme... cette doc-
-
-[p. 988]
-
-trine a le rare privilège de rallier des adhérents venus des camps
+travail. <<« Par son principe comme par son programme... cette doc-[p. 988]trine a le rare privilège de rallier des adhérents venus des camps
 les plus opposés , du vieux socialisme idéaliste français de Fourier et
 de Leroux , du positivisme d'Auguste Comte, du socialisme évan-
 gélique de Carlyle et de Ruskin, et des laboratoires de biologie. »
@@ -54512,11 +51604,7 @@ mais de lui enlever le rôle dirigeant dans la production, comme
 aussi de lui enlever la part qu'il prélève à titre de pouvoir dirigeant
 sous forme de profit et de dividendes ...
 ɛ « Toutes enfin ont une valeur éducative considérable en appre-
-nant à ceux qui en font partie non point à sacrifier une part quel-
-
-[p. 989]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+nant à ceux qui en font partie non point à sacrifier une part quel-[p. 989]DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 989
 
 conque de leur individualité, de leur esprit d'entreprise, mais au
@@ -54571,11 +51659,7 @@ et surtout les démo-
 
 -
 4° LES ASSOCIATIONS PROFESSIONNELLES ET LES SYNDICATS OUVRIERS .
-Mais ce qui paraît avant tout désirable, c'est la formation, par tous
-
-[p. 990]
-
-ceux qui travaillent, d'associations et de syndicats professionnels ,
+Mais ce qui paraît avant tout désirable, c'est la formation, par tous [p. 990] ceux qui travaillent, d'associations et de syndicats professionnels ,
 et, par suite, l'entrée de tous dans ces associations et syndicats, là
 où ils sont déjà formés . Nous avons vu en effet que, par la force
 des choses , le capital tendait à se concentrer, avec les trusts, et à
@@ -54625,9 +51709,7 @@ il doit l'être aussi
 de ses engagements et de ses devoirs
 au lieu d'un troupeau
 
-[p. 991]
-
-DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
+[p. 991] DOCTRINES SOCIALISTE ET DÉMOCRATIQUE
 991
 
 d'individus isolés . Le contrat collectif du travail devient donc le
@@ -54675,11 +51757,7 @@ A côté de
 ces
 principes généraux de la morale socialiste contemporaine, il faut
 noter comme palliatifs, souvent avisés et heureux, dus à l'initiative
-privée très en faveur auprès de certains démocrates :
-
-[p. 992]
-
-1° Des œuvres particulières de charité, variées à l'infini, ache-
+privée très en faveur auprès de certains démocrates : [p. 992] 1° Des œuvres particulières de charité, variées à l'infini, ache-
 minement très imparfait et très rudimentaire vers la justice sociale
 (fondations hospitalières , dispensaires , secours à domicile, etc. , etc. ) .
 2º Les œuvres privées à caractère plus large comme , entre autres
@@ -54700,9 +51778,7 @@ théoriques et générales . Au lecteur de réfléchir et de décider en toute i
 pendance sur les problèmes qu'elles mettent en tout cas très nettement en
 évidence .
 
-[p. 993]
-
-7
+[p. 993] 7
 
 CHAPITRE LIV
 
@@ -54763,11 +51839,7 @@ Historiquement, l'association politique repose sur la communauté
 d'un territoire, ne serait-ce qu'un territoire de pêche , de chasse ou
 de pacage (ce sera plus tard la nation) ; et sur l'observance com
 
-63
-
-[p. 994]
-
-994
+63 [p. 994] 994
 MORALE PRATIQUE
 mune de certaines règles ou traditions , plus tard des lois, ayant
 pour but le maintien et la défense du groupement, et se mêlant
@@ -54810,9 +51882,7 @@ partout la fusion des deux modes, qui sontprobablement antérieurs
 
 [^p994-1]: L'état des connaissances sur le sujet ne nous permet guère de les présenter que comme très hypothétiques .
 
-[p. 995]
-
-I
+[p. 995] I
 
 à l'homme
 (sociétés
@@ -54863,11 +51933,7 @@ d'un agrégat plus large- la peuplade.
 « Les tribus , s'accroissant, peuvent se subdiviser. En ce cas , des
 membres de chaque clan sont assignés à chaque nouvelle tribu .
 Les mêmes clans, par suite, se répandent dans toutes les tribus ,
-Ainsi liées ensemble par les clans, parlant des dialectes d'une même
-
-[p. 996]
-
-langue , conservant la tradition d'un lignage commun, ces tribus
+Ainsi liées ensemble par les clans, parlant des dialectes d'une même [p. 996] langue , conservant la tradition d'un lignage commun, ces tribus
 deviennent une peuplade énatique ou matronymique par un nou-
 veau développement de l'esprit social... Menacées par des ennemis
 communs , de souche différente, ces tribus peuvent former une
@@ -54914,11 +51980,7 @@ affaibli ; à un instant donné, le changement peut être impercep-
 tible; mais , dans la suite des temps , on voit que le système tribal a
 été singulièrement modifié par une féodalité barbare . >>>
 Les rangs et les dignités, même conférés par les suffrages de
-parents ou d'égaux, sont presque toujours associés, comme causes
-
-[p. 997]
-
-2
+parents ou d'égaux, sont presque toujours associés, comme causes [p. 997] 2
 
 김
 
@@ -54973,11 +52035,7 @@ lité agricole plus récente qui développa en un système gigantesque
 les principes essentiels de la féodalité pastorale . Le earl, qui acqué-
 rait cinq mesures de terre , devenait thane . Les thanes étaient les
 compagnons immédiats du roi, son comitatus, et, dès qu'ils pa-
-raissent dans l'histoire d'Angleterre , ils se placent parmi la plus an
-
-[p. 998]
-
-cienne noblesse des earls saxons , descendants des anciens chefs de
+raissent dans l'histoire d'Angleterre , ils se placent parmi la plus an [p. 998] cienne noblesse des earls saxons , descendants des anciens chefs de
 tribus . Ainsi , les thanes , comme noblesse de nouveaux riches , cor-
 respondaient aux << gentilshommes de bétail, d'un temps plus
 reculé » .
@@ -55021,11 +52079,7 @@ caractère et de structure .
 
 1º « Dans sa première période, la société civile a peu ou point de
 communications amicales avec d'autres sociétés de développement
-semblable . Elle est sans cesse obligée de se défendre ou contre une
-
-[p. 999]
-
-barbarie presque universelle, ou contre unÉtat rival. Les énergies
+semblable . Elle est sans cesse obligée de se défendre ou contre une [p. 999] barbarie presque universelle, ou contre unÉtat rival. Les énergies
 de la population sont consacrées d'abord à l'établissement del'unité
 politique, de l'organisation militaire et de la sécurité. Ce n'est que
 secondairement qu'elles s'occupent - si elles s'en occupent- de
@@ -55067,11 +52121,7 @@ droit de ne pas tolérer que les citoyens fussent difformes ou contre-
 faits ... La liberté de penser à l'égard de la religion de la cité était
 absolument inconnue chez les anciens... L'État n'avait pas seule-
 ment , comme dans nos cités modernes , undroit de justice à l'égard
-des citoyens . Il pouvait frapper sans qu'on fût coupable et par cela
-
-[p. 1000]
-
-seul que son intérêt était enjeu . » (Fustel de Coulanges , la Cité an-
+des citoyens . Il pouvait frapper sans qu'on fût coupable et par cela [p. 1000] seul que son intérêt était enjeu . » (Fustel de Coulanges , la Cité an-
 tique , 262.)
 3º Mais les nations fondées après
 les invasions germaniques ,
@@ -55125,11 +52175,7 @@ directions . Ces nations sont entrées dans le troisième
 stade,
 le
 stade économique-éthique .
-Elles s'absorbent, dans l'industrie, à
-
-[p. 1001]
-
-1 amasser des richesses et à leur découvrir un emploi, et, dans l'édu-
+Elles s'absorbent, dans l'industrie, à [p. 1001] 1 amasser des richesses et à leur découvrir un emploi, et, dans l'édu-
 cation des peuples, à réaliser les possibilités de vie des masses
 populaires .
 » (Giddings , Principes de Sociologie . )
@@ -55187,11 +52233,7 @@ de
 race, qui rapproche
 les habitants
 par
-l'esprit général et le caractère ; 3° la communauté de langue
-
-[p. 1002]
-
-qui facilite encore ce rapprochement, à supposer qu'elle n'en soit
+l'esprit général et le caractère ; 3° la communauté de langue [p. 1002] qui facilite encore ce rapprochement, à supposer qu'elle n'en soit
 pas la conséquence, ce qui semblerait plus exact ; 4º la communauté
 de mœurs et de coutume , en particulierla communauté d'institutions
 familiales , qui préparent les clans à s'agglomérer en tribus, et
@@ -55242,11 +52284,7 @@ cains , etc.) .
 ne peuvent pas être fournis par le consentement individuel . Puisque
 la nation s'est formée en dehors et au-dessus des individus , à
 la suite de faits physiques et historiques, l'Etat, c'est-à-dire l'en-
-semble de ces liens qui resserrent tous les membres de la nation,
-
-[p. 1003]
-
-n'a pas à se préoccuper des individus ; il doit rester supérieur et ex-
+semble de ces liens qui resserrent tous les membres de la nation, [p. 1003] n'a pas à se préoccuper des individus ; il doit rester supérieur et ex-
 térieur à eux , à moins d'introduire dans la nation une cause de
 dégénérescence et de faiblesse .
 Il ne visera qu'à adapter son auto-
@@ -55294,11 +52332,7 @@ qui retarde l'évolution de certains en les amenant à des sacrifices
 énormes (guerre du Transvaal) , et en a ruiné d'autres
 (Espagne ,
 Portugal) .
-Il ne rencontre plus maintenant de défenseurs déguisés que dans
-
-[p. 1004]
-
-certains esprits aveuglément réactionnaires et égoïstes, qui voient
+Il ne rencontre plus maintenant de défenseurs déguisés que dans [p. 1004] certains esprits aveuglément réactionnaires et égoïstes, qui voient
 dans la force militaire un moyen commode de sauvegarder les pri-
 vilèges de leur classe, et l'utiliseraient pour la guerre du dedans
 contre tous ceux chez qui ces privilèges injustifiés font naître une
@@ -55344,9 +52378,7 @@ l'individu . Voilà ce qui explique que souvent les réformes faites par
 la seule autorité de l'État, sans tenir compte de la volonté et de
 l'éducation nationale , aboutissent à de lamentables échecs .
 
-[p. 1005]
-
-1
+[p. 1005] 1
 
 1
 
@@ -55405,11 +52437,7 @@ de ses engagements avec ce groupe . Il peut justifier toutes ses déci-
 sions par la formule des anciens despotes : « tel est mon bon plaisir » .
 Toute autorité du groupe sur l'individu a disparu . Ce serait peut-
 être l'idéal pour le bien-être de chaque individu , mais il faudrait, en
-tout cas, des individus a peu près parfaits, comprenant tous com
-
-[p. 1006]
-
-plètement et de même façon leurs droits et leurs devoirs . Cette sou-
+tout cas, des individus a peu près parfaits, comprenant tous com [p. 1006] plètement et de même façon leurs droits et leurs devoirs . Cette sou-
 veraineté individuelle absolue est irréalisable .
 La plupart des théoriciens ne vont pas jusque-là : ils admettent
 que le contrat lie, une fois consenti, que les individus acceptent
@@ -55467,11 +52495,7 @@ de droits . La raison y intervient donc plus ou
 moins pour réglerles relations selon la justice et contenir la force. >>>
 Une société, dit-on, qui rompt avec son passé perd nécessairement
 l'équilibre . Mais une société qui resterait enfermée dans son passé
-irait à sa ruine, car elle se mettrait, par une chimère follement
-
-[p. 1007]
-
-réactionnaire , en lutte contre la loi naturelle. La stagnation indé-
+irait à sa ruine, car elle se mettrait, par une chimère follement [p. 1007] réactionnaire , en lutte contre la loi naturelle. La stagnation indé-
 finie est aussi immorale que la révolution et l'agitation continues .
 En réalité, toute révolution doit être la consécration d'une évolution .
 Elle ne rompt pas avec le passé, elle le continue en vertu d'impul-
@@ -55525,11 +52549,7 @@ traditions injustes , les longs oublis de soi-même . »
 rale , 333. )
 Concluons donc avec Renan , au sujet de l'origine et de la nature
 de la nation :
-« Une nation est une âme. Deux choses qui , à vrai
-
-[p. 1008]
-
-dire, n'en font qu'une, constituent cette âme. L'une est dans le
+« Une nation est une âme. Deux choses qui , à vrai [p. 1008] dire, n'en font qu'une, constituent cette âme. L'une est dans le
 passé, l'autre dans le présent. L'une est la possession en commun
 d'un riche legs de souvenirs ; l'autre est le consentement actuel, le
 désir de vivre ensemble , la volonté de continuer à faire valoir l'hé-
@@ -55575,11 +52595,7 @@ l'évolution
 actuelle de l'Etat. Cette forme est la forme républicaine , fondée sur
 le principe de la souveraineté nationale qui exclut à la fois la con-
 trainte autoritaire du despotisme, et l'arbitraire de l'anarchie . La
-république est une association de droits . Elle est définie par l'obser-
-
-[p. 1009]
-
-ED
+république est une association de droits . Elle est définie par l'obser-[p. 1009]ED
 
 vance rigoureuse du droit tel que nous l'avons conçu : l'ensemble
 des règles qui se sont peu à peu élaborées en conciliant les exigences
@@ -55632,9 +52648,7 @@ tie) , ou de quelques-uns (aristocratie), ou de tous (démocratie).
 
 64
 
-[p. 1010]
-
--
+[p. 1010] -
 a)
 GOUVERNEMENT AUTOCRATIQUE ET ARISTOCRATIQUE .
 En
@@ -55684,11 +52698,7 @@ Elle tend partout, au fur et à mesure des progrès sociaux, à s'atté-
 nuer, en même temps que le despotismede l'Etat, par la monarchie
 constitutionnelle et aristocratique qui est une transition à l'Etat
 démocratique . Le gouvernement du bon tyran lui-même porte en
-soi sa condamnation , car l'éducation individuelle qui en serait le
-
-[p. 1011]
-
-4
+soi sa condamnation , car l'éducation individuelle qui en serait le [p. 1011] 4
 
 5!
 
@@ -55751,11 +52761,7 @@ sur la valeur législatrice de ceux qui seraient élus à une série de
 degrés , selon le système préconisé par Taine, et qui fourniraient,
 après la dernière sublimation, un petit groupe comprenant les plus
 savants et les plus qualifiés parmi tous . Cette aristocratie de talent
-rêvée par Comte , par Renan , ferait probablement un Gouvernement
-
-[p. 1012]
-
-déplorable. Nous avons vu, en effet, que les lois ne devaient pas
+rêvée par Comte , par Renan , ferait probablement un Gouvernement [p. 1012] déplorable. Nous avons vu, en effet, que les lois ne devaient pas
 devancer l'opinion : elles la peuvent préciser, dégager, quand elle
 est latente, mais non la précéder absolument, sans quoi elles sont
 ou inutiles ou nuisibles . Or c'est ce que seraient la plupart des
@@ -55812,9 +52818,7 @@ ses opinions
 pareront les projets de lois, en examineront les rapports avec le
 reste de la législation , et voteront, enfin, un textemûrement délibéré .
 
-[p. 1013]
-
-Leurs discussions éclaireront l'opinion moyenne. Et c'est alors que
+[p. 1013] Leurs discussions éclaireront l'opinion moyenne. Et c'est alors que
 l'on pourrait, et une démocratie véritable nous parait postuler ce
 dernier acte, provoquer le vole de toute la nation sur le texte
 adonté : le referendum .
@@ -55862,9 +52866,7 @@ ne peut changer la loi : il en impose le respect, et doit commencer
 par la respecter lui-même. A ce point de vue, il est sous le contrôle
 des deux autres pouvoirs .
 
-[p. 1014]
-
-B. Droits civiques et politiques. - Les droits civiques et
+[p. 1014] B. Droits civiques et politiques. - Les droits civiques et
 politiques ont été énumérés d'une façon à peu près définitive par
 la Déclaration française de 1793, qui nous paraît plus précise.
 plus logique et plus complète que celle de 1789, plus près aussi
@@ -55909,9 +52911,7 @@ l'état des relations internationales. Elle
 serait allégée de beau-
 coup (comme en Suisse) si ces relations devenaient plus morales.
 
-[p. 1015]
-
-1
+[p. 1015] 1
 La caserne et tous ses inconvénients pourraient être supprimés ,
 et l'armée prendre la forme idéale d'une milice nationale .
 4º Pour subvenir aux multiples charges de l'État : protection,
@@ -55957,9 +52957,7 @@ accession de tous à toutes les fonctions, selon ses capacités , et
 uniquement d'après elles) , enfin tout ce qui peut être exigé par la
 solidarité et la perfectibilité individuelle.
 
-[p. 1016]
-
-7° La liberté de penser avec ses corollaires, liberté de réunion ,
+[p. 1016] 7° La liberté de penser avec ses corollaires, liberté de réunion ,
 liberté de la presse, liberté d'écrire, mérite une attention spéciale.
 Onl'appelle encore la tolérance , et cette liberté comme cette tolérance
 sont, bien entendu , des droits stricts du citoyen. Il faut, pour le pro-
@@ -56002,11 +53000,7 @@ déduit immédiatement : 1 ° sa mission d'instruction et d'éducation ;
 sciente de l'opinion, par quelques moyens que ce soit ; 3º et de tout
 acte , d'intolérance .
 
-a) L'État devrait mettre à la portée de touségalement- selon leurs
-
-[p. 1017]
-
-les
+a) L'État devrait mettre à la portée de touségalement- selon leurs [p. 1017] les
 aptitudes , bien entendu , mais sans aucune autre distinction
 moyens d'instruction et d'éducation . Cet enseignement devrait être
 confié à des personnes dont les capacités ontété l'objet d'une apprécia-
@@ -56054,9 +53048,7 @@ des actes publics qui tendraient à imposer un crédo particulier,
 en faisant appel à d'autres moyens que la libre discussion, ou vou-
 draient exclure une partie de la nation de l'usage légitime des droits .
 
-[p. 1018]
-
-C. Devoirs civiques et politiques . - Ces droits créent, comme
+[p. 1018] C. Devoirs civiques et politiques . - Ces droits créent, comme
 tous les autres droits , des devoirs qui en sont la réciproque .
 1º Tous les citoyens ayant droit à l'égale protection de la loi ont
 le devoir d'obéir à toutes les lois .
@@ -56096,9 +53088,7 @@ dition , l'esprit national , les événements intérieurs ou extérieurs, les fa
 des gouvernements ou leur habileté et leurs succès yjouent un rôle consi-
 dérable .
 
-[p. 1019]
-
-2
+[p. 1019] 2
 
 CHAPITRE LV
 
@@ -56145,11 +53135,7 @@ primordiale. Les actes d'un État doivent fatalement n'être que
 le développementde sa force ; et quand la force décline, ouque l'État
 s'égare à d'autres fins , c'est qu'il disparaît. L'histoire seraittout entière
 la confirmation de cette doctrine . Quant aux raisons pratiques,
-la principale est que l'emploi courant de la force, c'est-à-dire la
-
-[p. 1020]
-
-guerre ou la préparation à la guerre, est la meilleure école de
+la principale est que l'emploi courant de la force, c'est-à-dire la [p. 1020] guerre ou la préparation à la guerre, est la meilleure école de
 courage et de vertu pour les individus . La guerre serait la grande
 moralisatrice ; elle seule peut pousser au développement physique,
 intellectuel et moral de la race, apaiser par la gloire ses souf-
@@ -56200,9 +53186,7 @@ plusieurs conventions, relatives à l'Etat militaire de certains pays
 (neutralités de la Suisse, de la Belgique, de la Savoie, conven-
 tions du Danube, du Bosphore, du canal de Suez, du canal in-
 
-[p. 1021]
-
-3
+[p. 1021] 3
 
 terocéanique) , etdes conventions relatives aux droits des neutres , à
 la prohibition de la course, aux règles universelles à suivre en
@@ -56253,9 +53237,7 @@ miques de la vie nationale. Que le droit fasse encore quelques
 progrès dans les constitutions particulières des peuples et les
 Etats -Unis d'Europe seront une réalité .
 
-[p. 1022]
-
-Ce
+[p. 1022] Ce
 3' Abolition de la paix armée et de la guerre économique . —
 qui maintient encore au-dessus de nos têtes cette menace de la
 guerre, honteuse pour des civilisés, c'est d'abord le souvenir de
@@ -56313,9 +53295,7 @@ après avoir longtemps reven- [^p1022-1]
 [^p1022-1]: Questions de l'Alsace-Lorraine de la Pologne des pays chrétiens dans l'empire ottoman, etc.
 [^p1022-2]: L'empereur de Russie a provoqué la conférence de la Haye, pour le désarmement européen.
 
-[p. 1023]
-
-diqué leur indépendance absolue , les membres des nationalités
+[p. 1023] diqué leur indépendance absolue , les membres des nationalités
 opprimées en grande majorité ne demandent plus qu'à être traités
 également, en conservant leurs liens fédératifs . Ils demandent à
 ce que le groupement arbitraire devienne une fédération, et s'ap-
@@ -56363,11 +53343,7 @@ ces duels accumulent .
 5° La guerre a toujours été d'ailleurs un moyen juridique , mais très
 imparfait . - Le mot duel doit d'ailleurs garder tout son sens . Le
 duel est une des formes primitives de la décision judiciaire .
-La grossière intelligence du primitif, du barbare, s'en remettait
-
-[p. 1024]
-
-à la force et au hasard du soin de trancher les différends entre
+La grossière intelligence du primitif, du barbare, s'en remettait [p. 1024] à la force et au hasard du soin de trancher les différends entre
 particuliers ou entre clans (ordalies , jugements de Dieu au moyen
 age ) . Lorsque l'unité de groupement s'identifia avec le territoire ,
 l'ordalie , la vendetta, devinrent la guerre. La guerre n'a été que
@@ -56416,11 +53392,7 @@ lourds , éviter la guerre .
 La très grande majorité des guerres modernes ont été le résul-
 tat d'agressions et d'empiètements réciproques, ou d'ambitions
 incompatibles. Elles ont été des deux côtés offensives et voulues,
-quels que soient les déguisements hypocrites cherchés par les
-
-[p. 1025]
-
-17
+quels que soient les déguisements hypocrites cherchés par les [p. 1025] 17
 
 디스
 
@@ -56471,11 +53443,7 @@ Tous les sociologues ont remarqué , comme nous l'avons fait plus
 haut, l'importance croissante de l'organisation et du groupement
 professionnels aux dépens des autres . L'État devient professionnel;
 
-65
-
-[p. 1026]
-
-les luttes entre États ont surtout des causes économiques ; les États,
+65 [p. 1026] les luttes entre États ont surtout des causes économiques ; les États,
 les pays , les villes semblent se spécialiser dans certaines fonctions
 économiques . Mais, si les institutions nouvelles à base exclusive-
 ment professionnelle se moulent, comme cela eut toujours lieu ,
@@ -56523,11 +53491,7 @@ transformations que nous réserve l'avenir, il ne faut pas que la
 superstition de l'avenir nous fasse oublier les réalités présentes et
 les devoirs qu'elles entraînent .
 Il faut d'ailleurs remarquer que le stade où la solidarité du grou-
-pement civique et politique a une base territoriale n'est pas encore
-
-[p. 1027]
-
-atteint partout, même en Europe.
+pement civique et politique a une base territoriale n'est pas encore [p. 1027] atteint partout, même en Europe.
 La délimitation territoriale est
 loin de concorder partout avec le sentiment national, et des fractions
 importantes de peuples (dont quelques-uns sont encore groupés uni-
@@ -56552,9 +53516,7 @@ que d'orientations théoriques très abstraites . Or c'est surtout ici que les
 réalités historiques et les circonstances commandent impérieusement aux
 volontés et aux aspirations individuelles .
 
-[p. 1029]
-
-LES THÉORIES MÉTAPHYSIQUES
+[p. 1029] LES THÉORIES MÉTAPHYSIQUES
 
 LIVRE
 XI
@@ -56611,11 +53573,7 @@ La métaphysique se définit, comme toute recherche spéculative ,
 A. Son objet .
 Si l'on considère que la science est incapable
 de satisfaire par elle-même toute notre curiosité, notre besoin de
-connaître et de savoir, si l'on trouve que ses affirmations sont tou
-
-[p. 1030]
-
-jours et seront toujours relatives ou partielles , il restera un cer-
+connaître et de savoir, si l'on trouve que ses affirmations sont tou [p. 1030] jours et seront toujours relatives ou partielles , il restera un cer-
 tain nombre de questions à étudier et à résoudre en dehors de la
 science .
 Ces questions porteront sur ce qui existe en général, la nature
@@ -56642,7 +53600,7 @@ sentent nécessairement la probabilité minimum .
 
 B. La méthode .
 Bien entendu, la méthode, ici, ne pourra
-être a fortiori que la méthode philosophique ordinaire : la réflexion,
+être *a fortiori* que la méthode philosophique ordinaire : la réflexion,
 c'est-à-dire de pures déductions de la pensée logique, cherchant
 seulement à rester aussi logiques, aussi rationnelles que possible,
 puisqu'il n'y a plus de vérification satisfaisante. Dans les spécula-
@@ -56660,9 +53618,7 @@ chances d'erreurs.Au moins, avec laraison rigoureusement logique,
 on reste dans la sphère du possible , sinon du réel, et l'on évite
 l'extravagance et l'absurdité.
 
-[p. 1031]
-
-J
+[p. 1031] J
 
 2
 
@@ -56712,9 +53668,7 @@ naissance .
 
 La théorie de la connaissance a une utilité spéculative gé-
 
-[p. 1032]
-
--
+[p. 1032] -
 
 nérale, car
 elle ne concerne pas seulement la possibilité de la
@@ -56760,11 +53714,7 @@ l'intérêt de la théorie métaphysique de la connaissance . C'est une
 question que notre curiosité a le droit de se poser que de savoir
 quelle valeur intrinsèque et absolue peut bien avoir ce qui a une
 valeur pratique incontestable. D'autre part, il faut remarquer qu'au
-point de vue de notre destinée, les conclusions d'une théorie de la
-
-[p. 1033]
-
-123
+point de vue de notre destinée, les conclusions d'une théorie de la [p. 1033] 123
 
 1
 
@@ -56817,11 +53767,7 @@ Dans chacun de ces cas , nos vues spéculatives générales sur l'uni-
 vers et sur notre destinée se présenteront d'une façon tout à fait
 particulière . Elles nous donneront de notre rôle et de notre place
 dans l'univers , de ce que nous croirons devoir faire ou savoir, des
-idées très dissemblables . Par là on voit l'importance d'une théorie
-
-[p. 1034]
-
-de la connaissance ; mais on voit aussi que cette importance laissera
+idées très dissemblables . Par là on voit l'importance d'une théorie [p. 1034] de la connaissance ; mais on voit aussi que cette importance laissera
 intactes notre vie ordinaire et
 l'utilité purement pratique
 des
@@ -56873,9 +53819,7 @@ térieure n'a donc rien qui la distingue de l'hallucination . >>>
 
 )
 
-[p. 1035]
-
--
+[p. 1035] -
 C) THÉORIE DES PERCEPTIONS SIMPLES ET IMMÉDIATES .
 Mais , à côté
 des perceptions acquises ou complexes , qui sont le produit d'une
@@ -56930,11 +53874,7 @@ substance dont
 tous les corps de la nature sont faits : toutes leurs autres qualités
 sont confuses et illusoires , s'évanouissent avec l'analyse scienti-
 fique ; elles sont dues à la structure de nos sens . Mais l'étendue ré-
-siste toujours comme un résidu fixe, permanent, universel , à toute
-
-[p. 1036]
-
-analyse.
+siste toujours comme un résidu fixe, permanent, universel , à toute [p. 1036] analyse.
 Il est impossible de concevoir un corps sans étendue .
 L'étendue constitue autour de nous un ordre immuable , un cadre
 rigide auquel nous sommes forcés de rapporter, toujours et de la
@@ -56984,9 +53924,7 @@ B. Scepticisme ; idéalisme .
 - Les sceptiques et les idéalistes
 montrent que toutes ces conclusions sont erronées .
 
-[p. 1037]
-
-12
+[p. 1037] 12
 
 J
 
@@ -57022,9 +53960,9 @@ velles confirmations .
 
 3º Théorie de Kant ; l'idéalité de l'espace .
 Kant, dans la pre-
-mière partie de la Critique de la raison pure (Esthétique transcen-
+mière partie de la *Critique de la raison pure* (Esthétique transcen-
 dantale), fait voir que la notion d'espace ne peut être qu'une forme
-a priori de la sensibilité, c'est-à-dire un cadre que notre
+*a priori* de la sensibilité, c'est-à-dire un cadre que notre
 esprit
 impose à nos représentations pour les organiser et les connaître :
 ce sont des éléments introduits par l'esprit dans toute expérience .
@@ -57040,11 +53978,9 @@ ou infini , et qu'il est composé d'un nombre fini ou infinide parties .
 4º Résultats de la psychologie expérimentale . - Enfin, la psycho-
 logie expérimentale a montré que les trois dimensions de l'espace
 étaient le produit d'une construction empirique de l'esprit, et
-n'avaient même pas la valeur de formes a priori de l'expérience .
+n'avaient même pas la valeur de formes *a priori* de l'expérience .
 
-[p. 1038]
-
-b) SUBJECTIVITÉ DE LA NOTION DE RÉSISTANCE.- L'impénétrabilité,
+[p. 1038] b) SUBJECTIVITÉ DE LA NOTION DE RÉSISTANCE.- L'impénétrabilité,
 à défaut de l'étendue, est-elle quelque chose de plus réel , une exis-
 tence certaine et concevable ? Mais cette impénétrabilité , outre
 qu'elle est susceptible de degrés infiniment nombreux
@@ -57098,11 +54034,7 @@ ceptions sont une élaboration de sensations , elles sont donc des
 indications
 relatives aux
 modifications et aux
-interactions des
-
-[p. 1039]
-
-i
+interactions des [p. 1039] i
 
 1
 
@@ -57158,9 +54090,7 @@ Les matérialistes , en
 posant que notre science n'est que l'image exacte des choses dans
 notre esprit, professent le même dogmatisme .
 
-[p. 1040]
-
-L'expression la plus précise du dogmatisme se trouve certaine-
+[p. 1040] L'expression la plus précise du dogmatisme se trouve certaine-
 ment dans le système de Spinosa, car là elle dépasse tous les sys-
 tèmes particuliers de métaphysique, spiritualistes ou matérialistes ,
 pour s'établir en quelque sorte par elle-même dans l'absolu : « C'est
@@ -57207,9 +54137,7 @@ dire qu'en lui-même il est infaillible : on l'affirme expressément, et
 pourtant il se trompe... La question est d'autant plus grave que
 souvent, quand nous nous trompons, nous déclarons être certains .
 
-[p. 1041]
-
-11
+[p. 1041] 11
 
 Les grands métaphysiciens, Platon , Descartes , Malebranche , Spi-
 noza, n'ont pas méconnu l'importance de la question ; ils en ont
@@ -57263,14 +54191,10 @@ notions complexes qui sont presque toutes un trouble profond pour
 la raison : « La logique, déjà... suppose des données irréductibles
 à la relation analytique, qui est le seul type de la parfaite intelligi
 
-66
-
-[p. 1042]
-
-bilité ... Si la logique contient des éléments irréductibles , les mathé-
+66 [p. 1042] bilité ... Si la logique contient des éléments irréductibles , les mathé-
 matiques en contiennent davantage. Malgré tous leurs efforts , les
 mathématiciens n'ont pu les ramener à la pure logique ... Sous les
-noms divers dejugements synthétiques a priori , postulats , défini-
+noms divers dejugements synthétiques *a priori* , postulats , défini-
 tions, axiomes, faits fondamentaux, les mathématiciens philosophes
 admettent soit comme venant de l'expérience, soit comme venant
 de l'esprit , des principes bruts et impénétrables ... En fait, l'ana-
@@ -57310,11 +54234,7 @@ lats dont la nécessité est indémontrable, et ainsi leur nécessité
 n'est et semble ne pouvoir être qu'hypothétique. D'autre part, l'ap-
 plication des mathématiques à la réalité n'est et semble ne pouvoir
 être qu approximative . » (Boutroux , L'Idée de la loi naturelle , 139. )
-Boutroux se garde de tirer de cette analyse des conclusions scep-
-
-[p. 1043]
-
-si
+Boutroux se garde de tirer de cette analyse des conclusions scep-[p. 1043]si
 
 1
 
@@ -57371,11 +54291,7 @@ sous les phénomènes et même s'il y en a une , du moins elle est
 une explication de plus en plus rigoureuse et certaine des phéno-
 mènes dont elle reproduit le système tous les jours d'une façon
 plus parfaite . Le positivisme et le relativisme concluent donc qu'il
-nous est aussi impossible de concevoir une SUBSTANCE MATÉRIELLE à
-
-[p. 1044]
-
-l'aide d'une observation sensible qu'une SUBSTANCE SPIRITUELLE à l'aide
+nous est aussi impossible de concevoir une SUBSTANCE MATÉRIELLE à [p. 1044] l'aide d'une observation sensible qu'une SUBSTANCE SPIRITUELLE à l'aide
 de la réflexion ; en somme , nous n'avons aucun moyen de connaitre
 une SUBSTANCE quelle qu'elle soit . Nous ne pouvons constater , enre-
 gistrer, analyser que des phénomènes , et, en cela, les procédés scien-
@@ -57429,11 +54345,7 @@ humaine (Descartes ), la certitude scientifique ne se distingue pas de
 la croyance . En poussant le raisonnement à l'extrême (car, pour
 Descartes , la croyance raisonnable ne peut s'attacher qu'à ce qui est
 évident, qu'aux intuitions claires et distinctes, et nous revenons
-par là à un dogmatisme presque analogue à celui de Spinoza) , le
-
-[p. 1045]
-
-1
+par là à un dogmatisme presque analogue à celui de Spinoza) , le [p. 1045] 1
 
 +
 
@@ -57490,9 +54402,7 @@ quer , si la critique est loyale et sincère . L'absence ou la restriction des
 droits de la critique ou de la pensée serait la plus forte atteinte portée à
 la méthode scientifique elle-même .
 
-[p. 1046]
-
-CHAPITRE
+[p. 1046] CHAPITRE
 LVII
 
 LA THÉORIE DE LA CONNAISSANCE (Suite)
@@ -57542,11 +54452,7 @@ connaissance , des plus simples aux plus compliquées .
 Il y a là un nouveau problème pour la théorie de la connais-
 sance ; mais il y a là aussi un nouveau biais par lequel on peut
 l'aborder. Si nos connaissances supposent des principes généraux
-auxquels elles sont pour ainsi dire suspendues tout entières (prin-
-
-[p. 1047]
-
-cipes rationnels , principes directeurs de la connaissance , lois de la
+auxquels elles sont pour ainsi dire suspendues tout entières (prin-[p. 1047]cipes rationnels , principes directeurs de la connaissance , lois de la
 raison , lois nécessaires de l'entendement, ou plus simplement raison ,
 telles sont leurs diverses appellations) , elles tirent peut-être une
 valeur nouvelle de ces principes ,
@@ -57554,8 +54460,8 @@ valeur nouvelle de ces principes ,
 gine autre que nos connaissances sensibles ou scientifiques , c'est-à-
 dire autre que l'expérience . La question se pose donc de savoir si ces
 principes sont indépendants ou non de l'expérience , s'ils sont innés
-et a priori ,
-ou empiriques , a posteriori .
+et *a priori* ,
+ou empiriques , *a posteriori* .
 Dans le premier cas, nous aurons peut-être la possibilité, grâce à
 unefaculté spéciale, supérieure , - transcendante à l'expérience , la
 raison , dont ces principes ne sont que les lois , de dépasser le positi-
@@ -57593,15 +54499,11 @@ sible est un élément primitif et nécessaire . La connaissance vraie
 doit la dépasser par une force intuitive propre à l'âme, mais s'en
 servir . L'intelligence humaine est formée de deux intelligences pour
 ainsi dire : l'une, l'intelligence passive (νοῦς παθητικός), qui n'est qu'un
-décalque de l'expérience sensible, qui comprend tous les éléments
-
-[p. 1048]
-
-inférieurs de la connaissance (sensations et images); l'autre , l'intellect
+décalque de l'expérience sensible, qui comprend tous les éléments [p. 1048] inférieurs de la connaissance (sensations et images); l'autre , l'intellect
 actif(νοῦς ποιητικός) , qui dégage par sa vertu propre, innée, ce qui dans
 ces éléments est universel et nécessaire . Il y a ainsi dans l'esprit une
 partie assimilatrice qui acquiert les éléments et une partie active
-qui les transforme , a priori, en connaissances universelles et néces-
+qui les transforme , *a priori*, en connaissances universelles et néces-
 saires , c'est-à-dire rationnelles .
 
 C) LE CARTESIANISME .
@@ -57631,9 +54533,9 @@ mathématiques sont pour lui le modèle , le type de la science . » (Janet
 et Séailles , Histoire de la philosophie, 131.) Mais les mathématiques
 rattachentleurs longues chaines deraisons à des principespremiers . Ce
 sont ces principes premiers qui ne se démontrent pas elque Descartes
-considère comme a priori et innés , et ceux-là seulement. Ces prin-
+considère comme *a priori* et innés , et ceux-là seulement. Ces prin-
 cipes sont l'objetd'une intuition rationnelle ; ils constituent les vérités
-premières : « Quelles sont maintenant ces idées a priori? ces idées
+premières : « Quelles sont maintenant ces idées *a priori*? ces idées
 primitives innées ? La notion la plus naturelle et la plus importante
 est la notion de Dieu , de l'Infini, du Parfait » (Id. , 132), puis celles
 de l'âme et de la matière , enfin les principes rationnels qui per-
@@ -57647,9 +54549,7 @@ réalisées dans notre monde, par ces éléments simples
 « Nous
 avons en nous l'étoffe de nos pensées ; ce que l'expérience nous ap-
 
-[p. 1049]
-
-22
+[p. 1049] 22
 
 R
 
@@ -57702,11 +54602,7 @@ viennent de notre propre fond, expriment la spontanéité, la fécon-
 dité propre de l'âme. Il faut donc compléter la formule des sensua-
 listes en disant : nisi ipse intellectus » , si ce n'estl'intelligence elle-
 même, puisque aussi bien , ce que nous appelons l'expérience, ce n'est
-que l'intelligence confuse, l'intelligence qui s'ignore . (Id. ) La théorie
-
-[p. 1050]
-
-de Leibniz admet donc que l'acquisition par l'expérience des vérités
+que l'intelligence confuse, l'intelligence qui s'ignore . (Id. ) La théorie [p. 1050] de Leibniz admet donc que l'acquisition par l'expérience des vérités
 nécessaires est un moment du développement nécessaire de notre
 conscience ; mais cette acquisition ne fait que dégager, qu'expliciter
 ces vérités , qui étaient déjà impliquées par notre nature spirituelle.
@@ -57736,7 +54632,7 @@ Hume , Kant avoue donc que notre raison n'a rien d'intuitif, que
 ses idées n'atteignent pas directement des vérités primordiales et
 nécessaires . Mais est-ce à dire qu'elle ne mette rien d'elle dans les
 connaissances qu'elle a des choses, qu'elle ne les modifie pas par
-l'introduction d'éléments a priori? Loin de là. Certes toutes nos
+l'introduction d'éléments *a priori*? Loin de là. Certes toutes nos
 connaissances viennent des sens, voilà ce qu'il faut accorder à l'em-
 pirisme ; mais, si ceux-ci fournissent tout le contenu de notre savoir,
 toute sa matière, c'est l'esprit qui possède la forme dans laquelle
@@ -57751,17 +54647,13 @@ même chaque chose existe isolément de toutes les autres . Notre
 esprit seul peut établir des relations entre elles. De plus, l'expé-
 rience est toujours contingente, par suite de l'isolement même de
 chacune de ses données . Si notre esprit conçoit pourtant des lois
-nécessaires et universelles , c'est qu'il est constitué de telle sorte
-
-[p. 1051]
-
-qu'il arrange toutes les données sensibles dans un certain ordre .
+nécessaires et universelles , c'est qu'il est constitué de telle sorte [p. 1051] qu'il arrange toutes les données sensibles dans un certain ordre .
 Cet ordre dépend donc de l'esprit et non de l'expérience : il est
-a priori .
+*a priori* .
 
 ( Pour bien entendre la pensée de Kant, il faut la distinguer de
 celle des philosophes antérieurs : qu'est-ce qui distingue les idées
-innées de Descartes et de Leibniz des formes a priori de Kant? C'est
+innées de Descartes et de Leibniz des formes *a priori* de Kant? C'est
 que, dans Descartes comme dans Malebranche et même dans Leibniz ,
 l'entendement est intuitif. Les idées atteignent immédiatement
 l'être (soit l'âme , soit Dieu, soit la nature simple). Dans Kant,
@@ -57781,13 +54673,13 @@ esprit contient ainsi trois sortes de principes : 1º les
 formes de la sensibilité qui servent à organiser nos perceptions
 tant externes qu'internes : ce sont le temps et l'espace, sortes de
 cadres constitués par notre esprit pour y disposer nos sensations :
-Kant prétend démontrer qu'ils sont a priori et dépendent de
+Kant prétend démontrer qu'ils sont *a priori* et dépendent de
 l'esprit parce qu'ils sont universels , nécessaires et infinis , tandis
 que l'expérience ne donne que des objets particuliers , contingents
 et finis , et parce que les propositions mathématiques qui ne portent
 que sur le temps et l'espace sont elles-mêmes nécessaires , univer-
 selles
-et peuvent se démontrer a priori . Cette démonstration est
+et peuvent se démontrer *a priori* . Cette démonstration est
 faite dans l'Esthétique transcendantale , première partie de la Critique
 de la raison pure ;- 2º les catégories de l'entendement, au nombre de
 douze, organisent nos jugements comme le temps et l'espace nos
@@ -57800,22 +54692,18 @@ fixe , qu'ils soient reliés les uns aux autres par des rapports inva-
 riables . » Ces rapports invariables ,
 nécessaires ,
 universels et, par
-suite , a priori , sont ces catégories qui se systématisent selon quatre
+suite , *a priori* , sont ces catégories qui se systématisent selon quatre
 principes directeurs de l'entendement pur
 : quantité, qualité, rela-
 tion , modalité . « Nous saisissons maintenant la pensée de Kant, et
 nous voyons quelle part revient à l'esprit dans la connaissance . La
 matière seule nous est donnée, la forme vient de nous . Ce n'est pas
-l'esprit qui se soumet aux lois des choses , ce sont les choses qui
-
-[p. 1052]
-
-se soumettent aux lois de l'esprit>> (et c'est en ce sens que Kant se
+l'esprit qui se soumet aux lois des choses , ce sont les choses qui [p. 1052] se soumettent aux lois de l'esprit>> (et c'est en ce sens que Kant se
 distingue radicalement des empiristes ) . « Les conditions de la pensée
 doivent donc être pour le monde des lois nécessaires, dont la vio-
 lation ferait évanouir à la fois et la pensée et le monde qui en est
 l'objet. » (Id. , 153-155.) Tel est l'objet de la deuxième partie de la
-Critique de la raison pure : l'Analytique transcendantale ;— 3°dansla
+*Critique de la raison pure* : l'Analytique transcendantale ;— 3°dansla
 troisième et la dernière : la Dialectique transcendantale , Kant éta-
 blit que toute connaissance venant à la fois de l'expérience et des
 lois de l'esprit est relative et ne peut nous donner la réalité même .
@@ -57858,9 +54746,7 @@ entrer l'expérience sensible, des manières de considérer les choses .
 L'évolution même de l'innéisme fait sa propre critique : elle nous
 amène à nous demander s'il n'y a pas lieu d'abandonner complète-
 
-[p. 1053]
-
-3
+[p. 1053] 3
 
 ment cette théorie et d'admettre que tout ce que nous pensons
 résulte de l'expérience sensible, c'est-à-dire des éléments inférieurs
@@ -57899,7 +54785,7 @@ sophistes , les épicuriens et, dans une certaine mesure, les stoïciens ,
 nous présente la première forme de l'empirisme, qui a été reprise ,
 sans modification fondamentale, par Hobbes , Condillac et les matéria-
 listes du xvm siècle . Notre esprit est, à l'origine,une tablette de cire
-absolument lisse (tabula rasa) . A mesure que des sensations nous
+absolument lisse (*tabula rasa*) . A mesure que des sensations nous
 sont données , elles impriment sur l'esprit leurs caractères généraux
 et essentiels . Ces caractères s'abstraient peu à peu , et deviennent
 les idées générales . Les plus générales de ces idées, celles qui entrent
@@ -57909,11 +54795,7 @@ de la raison .
 
 b) L'ASSOCIATIONNISME . – La psychologie du sensualisme est som-
 maire: les travaux récents ont montré que le travail psychologique
-est, même dans la formation des idées les plus concrètes , beaucoup
-
-[p. 1054]
-
-plus compliqué . La conscience manifeste une activité incontestable,
+est, même dans la formation des idées les plus concrètes , beaucoup [p. 1054] plus compliqué . La conscience manifeste une activité incontestable,
 qui se traduit par la mémoire , l'attention , et l'association . L'empi-
 risme moderne doit donc expliquer la formation des principes de la
 raison en faisant entrer, à côté des impressions que reçoit passi-
@@ -57960,11 +54842,7 @@ tion inflexiblement mécanique. Il y a là une assimilation du point
 de vue interne et de la synthèse consciente, au point de vue externe
 et à la composition mécanique, qui peut sembler difficile à admettre.
 La raison apparaît non seulement comme la résultante des in-
-fluences du milieu tant ancestral qu'actuel, mais encore une inter-
-
-[p. 1055]
-
-dis
+fluences du milieu tant ancestral qu'actuel, mais encore une inter-[p. 1055]dis
 
 ne sa
 
@@ -58021,11 +54899,7 @@ II . -
 VUE D'ENSEMBLE SUR LES THEORIES DE LA CONNAISSANCE
 
 En somme, si nous voulons, au -dessus des contingences histo-
-riques et des nuances de chaque système, nous faire une idée géné
-
-[p. 1056]
-
-rale des grandes directions qui ont animé toutes ces théories , nous
+riques et des nuances de chaque système, nous faire une idée géné [p. 1056] rale des grandes directions qui ont animé toutes ces théories , nous
 pouvons dresser à peu près le tableau suivant .
 A. Dogmatisme . - Une partie des théories de la connaissance
 s'efforcent de montrer que la connaissance humaine a une valeur
@@ -58080,9 +54954,7 @@ base à la science moderne (idée d'étendue, notions mathématiques
 et mécaniques) et les idées qui formaient l'ossature du sentiment
 religieux (âme immortelle et Dieu) .
 
-[p. 1057]
-
-1
+[p. 1057] 1
 
 La raison était donc à la fois la faculté de la science, telle qu'on
 la concevait à l'époque, et la faculté qui découvrait en nous , par la
@@ -58131,11 +55003,7 @@ faculté du vrai .
 B. Scepticisme. - De tout temps, dès que l'on a réfléchi sur la
 connaissance , les critiques, au lieu de préciser et d'épurer le dogma-
 
-67
-
-[p. 1058]
-
-tisme , ont entraîné d'autres esprits à nier que l'esprit fût capable
+67 [p. 1058] tisme , ont entraîné d'autres esprits à nier que l'esprit fût capable
 d'atteindre la vérité .
 
 a) SOPHISTES ET SCEPTIQUES GRECS . - Ce sont d'abord les sophistes
@@ -58182,11 +55050,7 @@ dont nous venons de parler .
 
 C. Relativisme et positivisme . - La doctrine de la relativité
 de la connaissance est la conséquence des critiques du rationa-
-lisme par les sceptiques et d'un effort pour retrouver quand même
-
-[p. 1059]
-
-un sens à l'expression : vérité. Il consiste à dire que nous ne pou-
+lisme par les sceptiques et d'un effort pour retrouver quand même [p. 1059] un sens à l'expression : vérité. Il consiste à dire que nous ne pou-
 vons pas atteindre la vérité absolue, le dernier mot des choses.
 Nous sommes hommes et nos connaissances ne vaudront que pour
 les hommes , pour des esprits faits comme les nôtres . Nousne pouvons
@@ -58205,7 +55069,7 @@ l'a vu dans l'étude des principes directeurs de la connaissance,
 l'expérience se moule en quelque sorte dans les cadres que contient
 notre esprit : formes de la sensibilité et catégories de l'entendement.
 Tous les liens qui unissent entre elles les données de l'expérience
-leur sont imposés par ces formes a priori . Or ces formes dépendent
+leur sont imposés par ces formes *a priori* . Or ces formes dépendent
 de la constitution de notre esprit. Elles sont nécessaires et univer-
 selles pour tous les esprits faits comme le nôtre. Les relations que
 nous établissons entre les données de l'expérience en nous appuyant
@@ -58234,11 +55098,7 @@ avec la certitude morale qui, seule, a pour lui une valeur absolue .
 rapprochée du relativisme. Cette thèse prétend que nos connais-
 sances ne sont que relatives, mais elle diminue encore cette valeur
 relative en montrant que les lois scientifiques , à mesure qu'elles se
-rapprochent de plus en plus de la réalité concrète , deviennent
-
-[p. 1060]
-
-moins
+rapprochent de plus en plus de la réalité concrète , deviennent [p. 1060] moins
 exactes et moins nécessaires . Non seulement elles ne sont
 qu'approchées (on pourrait espérer alors que les progrès futurs
 remédieront à leurs incertitudes et à leur grossièreté actuelle) ;
@@ -58286,9 +55146,7 @@ en évidence en physique les li-
 mites entre lesquelles varient les erreurs possibles en énonçant
 toujours les résultats à telle quantité près ?
 
-[p. 1061]
-
--
+[p. 1061] -
 
 1) POSITIVISME .
 relative de la science , non plus comme Kant au nom d'une critique
@@ -58338,11 +55196,7 @@ e ) ÉVOLUTIONNISME.
 L'Évolutionnisme fonde d'une façon plus
 logique le positivisme quand il montre que nos connaissances ne
 sont que le résultat de l'adaptation héréditaire de notre organisme
-avec le milieu . Étant donné notre milieu, le monde tel que nous
-
-[p. 1062]
-
-le connaissons, et nous-mêmes tels que nous nous connaissons ,
+avec le milieu . Étant donné notre milieu, le monde tel que nous [p. 1062] le connaissons, et nous-mêmes tels que nous nous connaissons ,
 notre connaissance ne pouvait être autre qu'elle ne s'est établie .
 Elle est le résultat nécessaire et universel pour toute l'espèce
 humaine des actions réciproques de notre être et du milieu . Elle
@@ -58389,9 +55243,7 @@ nue-t- elle la vérité ? L'exprimer n'est pas la déformer,
 c'est au
 contraire la faire connaître .
 
-[p. 1063]
-
-21
+[p. 1063] 21
 
 Remarque très importante .
 Mais , pour bien comprendre l'esprit dans
@@ -58435,12 +55287,10 @@ les mêmes controverses que les principes de la raison proprement dits
 (cause , substance , etc. ), dans la plupart des systèmes, comme on l'a vu à
 propos de Descartes (idée de matière ou d'étendue , de Kant , formes de la
 sensibilité , de Spencer, etc.) . C'est pourquoi nous ne leur avons pas con-
-sacre un chapitre spécial . Il n'y a qu'à leur appliquer, mutatis mutandis,
+sacre un chapitre spécial . Il n'y a qu'à leur appliquer, *mutatis mutandis*,
 l'historique général et les conclusions du § I du présent chapitre .
 
-[p. 1064]
-
-CHAPITRE
+[p. 1064] CHAPITRE
 LVIII
 
 THÉORIE DE L'ACTION.
@@ -58493,9 +55343,7 @@ comme pour ces dernières , des différences très nettes se marquent
 a chaque grande étape de cette évolution , et, s'il est absolument
 impossible d'établir une démarcation précise entre des moments
 
-[p. 1065]
-
-THÉORIE DE L'ACTION.
+[p. 1065] THÉORIE DE L'ACTION.
 LA LIBERTÉ
 1065
 
@@ -58511,7 +55359,7 @@ mais une différence de nature et d'essence . Et cette différence se mani-
 festerait nettement en ce que l'acte volontaire est libre, tandis que
 tous les autres mouvements organiques, comme tous les mouve-
 ments matériels , sont déterminés , conditionnés par des mouvements
-antérieurs . Cette liberté serait la condition sine qua non de la vie
+antérieurs . Cette liberté serait la *condition sine qua non* de la vie
 morale , le principe sur lequel devrait s'appuyer toute théorie de
 l'action .
 
@@ -58550,9 +55398,7 @@ mental, la manifestation de notre libre puissance? Ne sentons-nous
 pas en lui laforce qui émane de notre être et le dirige à notre gré
 pour commander à tous nos actes ?
 
-[p. 1066]
-
-3º La liberté d'indifférence . - Reid est allé plus loin. Il croit
+[p. 1066] 3º La liberté d'indifférence . - Reid est allé plus loin. Il croit
 trouver, ce que Bacon appelleunfaitprivilégié, une expérience cruciale
 qui lui permette de montrer d'une façon indiscutable l'existence de
 laliberté : ce fait privilégié serait fourni par les cas dits d'indifférence .
@@ -58608,9 +55454,7 @@ avons à nous demander en chaque circonstance
 : Dois-je agir
 ainsi ou autrement? Cette formule « dois-je » n'aurait aucun sens si
 
-[p. 1067]
-
-THÉORIE DE L'ACTION.
+[p. 1067] THÉORIE DE L'ACTION.
 1067
 LA LIBERTÉ
 
@@ -58668,11 +55512,7 @@ derne , c'est Descartes . Si , par un côté , sa doctrine se présente comme
 une doctrine toute mathématique, par un autre côté elle peut être
 entenduecomme une philosophie delaliberté . L'âme, pour Descartes ,
 n'est pas seulement intelligence , elle est liberté. « Par l'entende-
-ment seul, je n'assure ni ne nie aucune chose, mais je conçois seu
-
-[p. 1068]
-
-lement les idées des choses que je puis assurer ou nier . » C'est la
+ment seul, je n'assure ni ne nie aucune chose, mais je conçois seu [p. 1068] lement les idées des choses que je puis assurer ou nier . » C'est la
 volonté qui donne son consentement à ce que nous avons aperçu
 par l'entendement ; l'intelligence elle-même est en un sens subor-
 donnée à la liberté. Juger, c'est vouloir. Ce qui caractérise la vo-
@@ -58725,9 +55565,7 @@ Leibniz . Ils accepteront le déterminisme général des faits naturels ,
 donc des faits psychologiques. Et pourquoi ? Parce que toute proposi-
 tion scientifique le montre manifestement, puisqu'elle établit une
 
-[p. 1069]
-
-THÉORIE DE L'ACTION.
+[p. 1069] THÉORIE DE L'ACTION.
 LA LIBERTÉ
 1069
 
@@ -58756,10 +55594,10 @@ constitution de notre esprit et n'atteignent en rien la réalité der-
 nière des choses . Le monde tel qu'il nous apparaît est soumis au
 déterminisme ; mais ce n'est qu'un monde apparent. Nous n'avons
 pas le droit de conclure de ce qui nous apparaît à ce qui est. Telle est
-la conclusion de la critique de la raison pure
+la conclusion de la *critique de la raison pure*
 : la liberté
 est
-donc possible ; la critique de la raison pratique établit qu'elle
+donc possible ; la *critique de la raison pratique* établit qu'elle
 est nécessaire . Nous sommes forcés de croire au devoir, dont nous
 avons l'intuition constante
 en nous . Ce devoir nous oblige à
@@ -58779,11 +55617,7 @@ l'inconnaissable, du moins au sujet de la liberté .
 C'est ainsi que Secrétan prétend que notre monde ne peut s'expli-
 quer d'une façon cohérente que par la chute, celle-ci par le péché
 originel, et ce dernier par la liberté. Il faut donc admettre,
-pour expliquer le déterminisme actuel du monde tel que nous le
-
-[p. 1070]
-
-connaissons , la réalité du libre arbitre. Mais cette démonstration
+pour expliquer le déterminisme actuel du monde tel que nous le [p. 1070] connaissons , la réalité du libre arbitre. Mais cette démonstration
 n'est encore qu'un appel à la croyance. Cet appel à la croyance est
 plus
 et dans la théorie de J. Lequier, qui pose une sorte de pari
@@ -58826,11 +55660,7 @@ des commencements absolus, des actes libres .
 Certes cette théorie est plutôt une théorie de la possibilité de la
 liberté, malgré le déterminisme naturel, qu'une théorie concluant
 à l'existence réelle de la liberté . Aussi Renouvier s'adresse-t- il
-encore à la croyance pour trancher le débat ; il fait appel à des
-
-[p. 1071]
-
-a
+encore à la croyance pour trancher le débat ; il fait appel à des [p. 1071] a
 
 avantages logiques , psychologiques et moraux, pour établir l'exis-
 tence de la liberté, puisque, pense-t-il, elle n'est pas impossible .
@@ -58876,11 +55706,7 @@ fait la distance entre les mathématiques et la réalité n'est pas près
 d'être comblée .
 Et Boutroux, comme Poincaré, montre que l'ensemble des lois
 naturelles ne sont que des formules approximatives qui tracent
-abstraitement des rapports-limites à la réalité concrète ; ces rap
-
-[p. 1072]
-
-ports nous sont pratiquement
+abstraitement des rapports-limites à la réalité concrète ; ces rap [p. 1072] ports nous sont pratiquement
 très utiles, mais sont loin d'une
 exactitude complète.
 
@@ -58923,11 +55749,7 @@ sont les innombrables facteurs qui ont formé notre organisme
 physiologique , notre tempérament, notre caractère. L'acte volon-
 taire est la conséquence nécessaire de cette immense et fatale série.
 La délibération elle-même qui manifeste les plus apparentes de
-ces causesnous montre une suite de phénomènes psychologiques évo-
-
-[p. 1073]
-
-THÉORIE DE L'ACTION.
+ces causesnous montre une suite de phénomènes psychologiques évo-[p. 1073]THÉORIE DE L'ACTION.
 LA LIBERTÉ
 1073
 
@@ -58980,11 +55802,7 @@ identiques dans des peuplades qui n'ont pu avoir de communica-
 tion ensemble . La statistique nous présente égalementdes moyennes
 à peu près fixes pour les actes où nous croirions le plus volontiers à
 
-68
-
-[p. 1074]
-
-la seule intervention du libre arbitre. Les suicides, les mariages ,
+68 [p. 1074] la seule intervention du libre arbitre. Les suicides, les mariages ,
 leurs formes particulières, le choix des professions sont, pour un
 milieu donné,
 déterminés avec une
@@ -59030,9 +55848,7 @@ vité est soumise à des lois nécessaires . Alors nous pouvons essayer
 de réaliser tels ou tels effets ,
 c'est-à-dire provoquer tels actes
 
-[p. 1075]
-
-نان
+[p. 1075] نان
 
 déterminés chez les hommes , telle attitude , telle conduite , à mesure
 que nous connaitrons ces lois et leurs conséquences. Toute éduca-
@@ -59086,9 +55902,7 @@ les lois de la nature et, en particulier, les lois des sociétés seront
 mieux connues , à mesure aussi individu et société gagneront en
 moralité et en bonheur .
 
-[p. 1076]
-
-1076
+[p. 1076] 1076
 LES THÉORIES METAPHYSIQUES
 、
 
@@ -59144,9 +55958,7 @@ au lieu de suivre des lois invariables, permettant la prédiction cer-
 taine , obéissent à la volonté impénétrable d'une ou de multiples
 puissances surhumaines . Tout arrive fatalement, mais la fatalité
 
-[p. 1077]
-
-THÉORIE DE L'ACTION.
+[p. 1077] THÉORIE DE L'ACTION.
 LA LIBERTÉ
 1077
 
@@ -59195,11 +56007,7 @@ cette remarque
 de vue moral comme au point de vue social, qu'on soit métaphysi-.
 quement partisan de la liberté ou du déterminisme . Les objections
 faites de ce point de vue au déterminisme n'ont aucune valeur.
-Qu'on se reporte (ch . L , § IV , B) à la théorie de la responsabi-
-
-[p. 1078]
-
-lité, on y verra que des sociologues idéalistes comme Tarde , des
+Qu'on se reporte (ch . L , § IV , B) à la théorie de la responsabi-[p. 1078]lité, on y verra que des sociologues idéalistes comme Tarde , des
 jurisconsultes
 catholiques comme Saleilles , admettent
 très bien
@@ -59225,9 +56033,7 @@ se laisser critiquer, si la critique est loyale et sincère. L'absence ou la
 restriction des droits de la critique ou de la pensée serait la plus forte
 atteinte portée à la méthode scientifique elle-même .
 
-[p. 1079]
-
-CHAPITRE LIX
+[p. 1079] CHAPITRE LIX
 
 THÉORIES MÉTAPHYSIQUES DE LA MATIÈRE
 
@@ -59272,9 +56078,7 @@ Cette conception traduit les idées religieuses et les mythes popu-
 laires , en s'efforçant de leur donner une apparence rationnelle et
 de faire appel à l'expérience. La physique des philosophes ioniens.
 
-[p. 1080]
-
-est un essai de science universelle dans lequel l'homme ne s'est pas
+[p. 1080] est un essai de science universelle dans lequel l'homme ne s'est pas
 encore dégagé nettement de la nature . La matière est une force
 confuse et vague qui engendre aussi bien les vivants que les corps
 inorganiques, car elle est à mi-chemin des deux . Elle est conçue , sous
@@ -59322,11 +56126,7 @@ Anaxagore fit peut-être le premier la distinction de la matière
 chaotique et dans une certaine mesure passive et inerte , et d'une
 force organisatrice et active, l'esprit (le vous) qu'il devait entendre
 encore en un sens assez matériel . En tout cas la distinction est très
-nette avec la philosophie socratique, surtout avec Platon . Toute
-
-[p. 1081]
-
-activité , toute existence réelle vient des Idées qui sont de nature
+nette avec la philosophie socratique, surtout avec Platon . Toute [p. 1081] activité , toute existence réelle vient des Idées qui sont de nature
 spirituelle . La matière en dérive, et n'a qu'une existence emprun-
 tée ; elle est un reflet confus et par là un principe d'imperfection ,
 passif et inerte par lui-même .
@@ -59370,11 +56170,7 @@ Il est vrai qu'un courant d'idées , étouffé par le grand éclat de
 la philosophie socratique, et qui n'a guère que deux grands repré-
 sentants : Démocrite et Epicure , s'est rapproché beaucoup plus de
 
-E
-
-[p. 1082]
-
-1
+E [p. 1082] 1
 
 la conception moderne , et résulte d'une analyse plus précise de
 l'expérience
@@ -59425,11 +56221,7 @@ tendances dans la matière et des fins auxquelles elle aspire . Un
 corps matériel paraît seulement susceptible de rester identiquement
 tel qu'il est, dans son repos ou son mouvement, tant qu'une force
 extérieure ne vient pas s'y appliquer. En conséquence, la matière
-est inerte, passive, et elle s'oppose aux principes spirituels quels
-
-[p. 1083]
-
-qu'ils soient, seuls actifs et susceptibles de tendre vers des fins dé-
+est inerte, passive, et elle s'oppose aux principes spirituels quels [p. 1083] qu'ils soient, seuls actifs et susceptibles de tendre vers des fins dé-
 terminées .
 De cette conception nous avons quantité de manifestations diffé-
 rentes dans la philosophie et la science des temps modernes
@@ -59478,11 +56270,7 @@ virtualité , caractères qui ne sont compatibles qu'avec une existence
 spirituelle .
 B. Dans tout le cours du xvme siècle, se sont développées les
 théories idéalistes de la matière . Il semble aux idéalistes que c'est
-faire une trop grande part aux préjugés tirés de notre perception
-
-[p. 1084]
-
-extérieure que de supposer l'existence d'une matière inerte et pas-
+faire une trop grande part aux préjugés tirés de notre perception [p. 1084] extérieure que de supposer l'existence d'une matière inerte et pas-
 sive . Ce qui est inerte et passif, ce qui n'agit pas , n'a pas de raison
 d'être ; tout ce qui est doit agir. Il ne doit donc exister que des
 esprits .
@@ -59524,11 +56312,7 @@ tera les existences des phénomènes matériels et psychiques, exis-
 tences qui se poseront au même titre et sur le même rang, et l'on
 se gardera de conclure si ces deux existences sont séparées, ou au
 contraire sont la manifestation d'une seule et même substance . On
-noteraseulement que, chez les vivants conscients, les phénomènes de
-
-[p. 1085]
-
-1
+noteraseulement que, chez les vivants conscients, les phénomènes de [p. 1085] 1
 
 ST
 
@@ -59555,7 +56339,7 @@ pas être posé, parce qu'il ne peut pas être résolu, actuellement du
 moins .
 Mais
 il semble de plus en plus aujourd'hui que le positivisme
-n'a pas le droit d'imposer a priori des limites à la science humaine .
+n'a pas le droit d'imposer *a priori* des limites à la science humaine .
 La physique ne consent plus guère à ce que le problème de la ma-
 tière lui soit interdit . Elle a déjà à son actif certaines expériences
 (relatives à l'électricité , à la radioactivité , aux dissolutions . etc. ) , qui
@@ -59569,11 +56353,7 @@ lequel nous proposons cette idée générale, il importe absolument de faire
 attention aux deux points suivants :
 1º La science est bien plus une organisation des méthodes qu'un
 ensemble de résultats . Il est en effet de l'essence des méthodes scienti-
-fiques de se tenir constamment prêtes à reviser les résultats qu'elles ont
-
-[p. 1086]
-
-déjà obtenus . Ceux-ci ne sont que des pierres d'attente qui jalonnent la
+fiques de se tenir constamment prêtes à reviser les résultats qu'elles ont [p. 1086] déjà obtenus . Ceux-ci ne sont que des pierres d'attente qui jalonnent la
 route de la vérité , que des étapes vers toujours plus de vérité. La science
 est sans cesse placée sur le terrain de l'esprit critique et du libre examen .
 Elle n'est que cet esprit critique et ce libre examen en acte .
@@ -59608,9 +56388,7 @@ laisser critiquer, si la critique est loyale et sincère . L'absence ou la restr
 tion des droits de la critique ou de la pensée serait la plus forte atteinte
 portée à la méthode scientifique elle-même .
 
-[p. 1087]
-
-E
+[p. 1087] E
 
 CHAPITRE LX
 
@@ -59665,11 +56443,7 @@ l'action . Elle s'oppose à la matière mais elle ne s'en distingue pas
 encore radicalement.
 Ainsi, pour Aristote il n'y a pas de forme
 sans matière . Il distingue quatre sortes d'âmes : l'âme végétative ,
-forme générale qui donne la vie à la matière ; l'âme motrice qui se
-
-[p. 1088]
-
-superpose à la première chez les animaux ; l'âme sensible, siège
+forme générale qui donne la vie à la matière ; l'âme motrice qui se [p. 1088] superpose à la première chez les animaux ; l'âme sensible, siège
 de la connaissance par images, et enfin l'âme raisonnable qui est
 la forme spéciale à l'homme .
 
@@ -59718,9 +56492,7 @@ du moi,
 est impossible. Je doute, donc je pense, donc je suis.
 Cogito, ergo sum . Il n'y a pas là de raisonnement, bien que nous
 
-[p. 1089]
-
-THEORIES DE L'AME
+[p. 1089] THEORIES DE L'AME
 1089
 
 exprimions cette intuition sous forme de déduction, car un raison-
@@ -59772,11 +56544,7 @@ de nos mouvements corporels) et la toute-puissance et l'omniscience
 de Dieu , auxquelles notre liberté semble faire échec : Si nous agis-
 sons librement, comment Dieu peut-il savoir ce que nous allons faire
 
-69
-
-[p. 1090]
-
-de toute éternité ? pour que nous agissions librement, il faut que
+69 [p. 1090] de toute éternité ? pour que nous agissions librement, il faut que
 Dieu ne nous fasse pas agir, donc que sa puissance soit limitée en
 fait par la nôtre, toutes les fois que nous agissons librement.
 Sans entrer dans le détail de la doctrine de Descartes , voici en gros
@@ -59824,9 +56592,7 @@ création .
 Malebranche développera l'occasionalisme en séparant encore
 plus nettement les mouvements du corps des intentions de l'esprit .
 
-[p. 1091]
-
-THEORIES DE L'AME
+[p. 1091] THEORIES DE L'AME
 1091
 
 L'esprit voit en quelque sorte en Dieu les mouvements matériels,
@@ -59872,11 +56638,7 @@ pour ainsi dire, ce qu'elle est dans son langage propre. Nous n'avons
 plus alors à poser la question des rapports de l'esprit et de la ma-
 tière , de l'âme et du corps, puisqu'ils se correspondent en tous
 points . Leurs modes , c'est-à-dire les manifestations diverses que nous
-en connaissons, sont parallèles. En partant des mêmes principes
-
-[p. 1092]
-
-que Descartes : penséc , Dieu et étendue, Spinoza évite ces difficultés
+en connaissons, sont parallèles. En partant des mêmes principes [p. 1092] que Descartes : penséc , Dieu et étendue, Spinoza évite ces difficultés
 du cartésianisme en ramenant ces trois termes à l'unité.
 
 IV .
@@ -59922,9 +56684,7 @@ nant la distinction de la matière et de l'âme , s'efforce de lui faire
 perdre son sens vulgaire et superficiel. Ravaisson, beaucoup de
 philosophes chrétiens , sont les représentants de cette direction .
 
-[p. 1093]
-
-3
+[p. 1093] 3
 
 L'esprit est considéré essentiellement comme une force active ori-
 ginale qui a, en elle-même , ses principes et son commencement,
@@ -59979,9 +56739,7 @@ D'un autre côté ,
 
 -
 
-[p. 1094]
-
-la matière, on confondrait avec lui le spiritualisme absolu qui, bien
+[p. 1094] la matière, on confondrait avec lui le spiritualisme absolu qui, bien
 que très voisin , n accepte pas cette confusion .
 Dans le spiritualisme le plus absolu, il reste toujours une oppo-
 sition entre la matière et l'esprit . La matière est une résistance que
@@ -60026,11 +56784,7 @@ proprement dits), ou bien qu'elle est quelque chose d'inconnaissable :
 ce que nous connaissons comme matière n'est alors qu'une collec-
 tion d'états de conscience (Malebranche , Kant) .
 En résumé , l'idéalisme part toujours d'une critique qui définit
-Tunivers , tel que nous le connaissons (l'univers sensible), comme
-
-[p. 1095]
-
-ai
+Tunivers , tel que nous le connaissons (l'univers sensible), comme [p. 1095] ai
 
 notre représentation : c'est un ensemble d'apparences , donc une
 construction de l'esprit. Il oppose à cette représentation une réalité
@@ -60081,11 +56835,7 @@ Pour moi , quand je pénètre au plus intime de ce que j'appelle moi-
 même , c'est toujours pour tomber sur une perception particulière
 ou sur une autre : une perception de chaud ou de froid, de lumière
 ou d'obscurité, d'amour ou de haine, de peine ou de plaisir. Je ne
-puis jamais arriver à me saisir moi-même sans une perception , et
-
-[p. 1096]
-
-jamais je ne puis observer autre chose que la perception » (c'est-à-
+puis jamais arriver à me saisir moi-même sans une perception , et [p. 1096] jamais je ne puis observer autre chose que la perception » (c'est-à-
 dire le phénomène de conscience) . « En laissant de côté quelques
 métaphysiciens, je peux me risquer à affirmer du reste des hommes
 qu'ils ne sont autre chose que des assemblages ou collections de
@@ -60133,9 +56883,7 @@ le flux perpétuel des états de conscience que nous y rattachons, de
 quelque chose que nous nous figurons comme restant le même , tan-
 dis que les impressions particulières par lesquelles il révèle son
 
-[p. 1097]
-
-THEORIES DE L'AME
+[p. 1097] THEORIES DE L'AME
 1097
 
 台灣
@@ -60185,11 +56933,7 @@ atomistes et les monistes matérialistes , ou plus simplement les
 monistes .
 Notre esprit, disent-ils, n'est qu'une propriété particulière d'un
 corps particulier , le nótre , et même, semble-t-il, d'une partie seule-
-ment de notre corps , le cerveau . Pourquoi attribuer une nature spé-
-
-[p. 1098]
-
-ciale à cette partie de notre corps , qui, au milieu des autres corps,
+ment de notre corps , le cerveau . Pourquoi attribuer une nature spé-[p. 1098]ciale à cette partie de notre corps , qui, au milieu des autres corps,
 n'est elle-même qu'une parcelle infime ? Il y a là une illusion qui pro-
 vient de l'orgueil humain. L'homme se croit le centre et la raison
 d'être du monde . Il explique ce monde par lui-même , par son esprit
@@ -60234,9 +56978,7 @@ matériels . Il faut étudier les rapports qu'ils ont avec les faits ma-
 tériels sans prétendre résoudre la raison dernière de ces rapports ,
 raison qui nous échappe actuellement.
 
-[p. 1099]
-
-t
+[p. 1099] t
 
 On appelle cette attitude, positive. Ceux qui l'adoptent préten-
 dent que nous ne pouvons connaître que les phénomènes , et non la
@@ -60284,11 +57026,7 @@ conçue, ni fin intéressée, et la critique (le contrôle rationnel et expéri-
 mental en toute liberté, mais aussi sans aucun parti pris) des conclusions
 de cette étude .
 
-D'ailleurs nous ne bornons pas étroitement l'attitude scientifique à la
-
-[p. 1100]
-
-seule constatation des relations certaines . La systématisation, les hypo-
+D'ailleurs nous ne bornons pas étroitement l'attitude scientifique à la [p. 1100] seule constatation des relations certaines . La systématisation, les hypo-
 thèses et leur discussion , l'évaluation des probabilités, partant l'étude
 des conditions et de la valeur de la science et la critique qu'elle doit
 faire constamment d'elle-même, sont impliquées nécessairement par cette
@@ -60311,9 +57049,7 @@ laisser critiquer, si la critique est loyale et sincère. L'absence ou la restri
 tion des droits de la critique ou de la pensée serait la plus forte atteinte
 portée à la méthode scientifique elle-même .
 
-[p. 1101]
-
-2
+[p. 1101] 2
 
 1
 
@@ -60365,11 +57101,7 @@ perceptions de l'intelligence.
 B. Le MATÉRIALISME peut se définir par la contre-partie exacte des
 définitions de l'idéalisme et du spiritualisme.
 Il réduit la con-
-science aux phénomènes physiologiques, l'esprit aux manifestations
-
-[p. 1102]
-
-vitales , car toute connaissance dérive de la sensation et la sensation
+science aux phénomènes physiologiques, l'esprit aux manifestations [p. 1102] vitales , car toute connaissance dérive de la sensation et la sensation
 n'est qu'un choc nerveux. De même toute activité se réduit au
 réflexe , c'est-à-dire à un mouvement purement mécanique , la ten-
 dance n'étant qu'un mouvement arrêté par un obstacle et qui s'exé-
@@ -60415,11 +57147,7 @@ et un second terme ; c'est le voir à travers autre chose . Nos con-
 naissances ne porteront donc que sur des relations entre des élé-
 ments qui nous resteront toujours inconnus. On exprime encore
 cela en disantque, puisque connaîtrec'est sereprésenter, toute con-
-naissance n'a qu'une valeur de représentation, elle ne porte que sur
-
-[p. 1103]
-
-2
+naissance n'a qu'une valeur de représentation, elle ne porte que sur [p. 1103] 2
 
 des phénomènes, des apparences, et laisse inconnaissable le fond
 des choses, la ou les substances. Lorsque cette doctrine prétend que
@@ -60469,9 +57197,7 @@ pose notre curiosité . La science nous fournit donc la seule méthode
 de connaissance ; etcette méthode est universelle . Elle apratiquement
 une valeur absolue .
 
-[p. 1104]
-
-CHAPITRE LXII
+[p. 1104] CHAPITRE LXII
 
 L'IDÉE DE DIEU.
 PHILOSOPHIE ET RELIGION
@@ -60536,9 +57262,7 @@ et la curiosité humaine par des causes actives (étrangères aux lois
 naturelles , qu'elles semblaient le plus souvent contredire) , par des
 principes surnaturels : les dieux. Les formes religieuses primitives
 
-[p. 1105]
-
-L'IDÉE DE DIEU .
+[p. 1105] L'IDÉE DE DIEU .
 1105
 PHILOSOPHIE ET RELIGION
 
@@ -60598,11 +57322,7 @@ nalité divine est dégagée de tout ce qui limite en nous notre person-
 nalité. C'est un pur esprit , car le corps est une limitation en éten-
 due, durée et puissance . Cet esprit possède, élevées à l'infini , toutes
 
-70
-
-[p. 1106]
-
-les qualités que l'on reconnaît actuellement aux personnes hu-
+70 [p. 1106] les qualités que l'on reconnaît actuellement aux personnes hu-
 maines :
 toute-puissance,
 omniscience,
@@ -60660,9 +57380,7 @@ verselle, et la loi qui la dirige sans analogie avec ce que nous appe-
 lons conscience ou pensée, mais développement fatal d'une force
 aveugle et mécanique, nous avons le panthéisme matérialiste ou
 
-[p. 1107]
-
-L'IDÉE DE DIEU .
+[p. 1107] L'IDÉE DE DIEU .
 1107
 PHILOSOPHIE ET RELIGION
 
@@ -60721,11 +57439,7 @@ LES ARGUMENTS PRÉSENTÉS D'ORDINAIRE COMME PREUVES
 DE L'EXISTENCE DE DIEU .
 
 Dieu étantnommé, car nous ne pouvons guère que cela, comme
-disent les théologiens , la raison peut-elle, à tout le moins , en
-
-[p. 1108]
-
-prouver l'existence, bien qu'elle n'en puisse connaître la nature ?
+disent les théologiens , la raison peut-elle, à tout le moins , en [p. 1108] prouver l'existence, bien qu'elle n'en puisse connaître la nature ?
 C'est le problème des preuves de l'existence de Dieu . Est-il besoin
 de dire que d'avance ces preuves ne peuvent exister, que Dieu est
 un objet de croyance et non de démonstration logique -
@@ -60737,7 +57451,7 @@ Ces preuves n'ont plus qu'un intérêt historique. On les divise
 quelquefois en preuves physiques, morales, métaphysiques, etc. ,
 mais elles sont toutes métaphysiques . Kant les a clairementrame-
 nées à trois principales , qu'il a critiquées et infirmées d'une façon
-définitive dans la troisième partie de la Critique de la raison pure :
+définitive dans la troisième partie de la *Critique de la raison pure* :
 la Dialectique transcendantale.
 
 A. Preuve ontologique. — Cette preuve a été donnée par saint
@@ -60774,9 +57488,7 @@ l'existence comme une propriété : « On ne peut, dit Kant, dire d'un
 existe, il a toutes les qualités , mais rien ne prouve qu'il existe .>>>
 L'existence n'est pas une qualité particulière; c'est la position
 
-[p. 1109]
-
-L'IDÉE DE DIEU .
+[p. 1109] L'IDÉE DE DIEU .
 PHILOSOPHIE ET RELIGION
 1109
 21
@@ -60832,11 +57544,7 @@ poursuivent leur réunion de plus en plus intime .
 Il n'y a donc pas de preuves , au sens scientifique du mot, de
 l'existence de Dieu , ni de connaissance scientifique de sa nature et
 de ses attributs . Aucun des moyens proposés à ces fins n'est à
-l'abri de la critique. Mais il ne faudrait pas parce que les preuves
-
-[p. 1110]
-
-proposées pour démontrer l'existence de Dieu d'une façon rigou-
+l'abri de la critique. Mais il ne faudrait pas parce que les preuves [p. 1110] proposées pour démontrer l'existence de Dieu d'une façon rigou-
 reusement logique ne se sont pas montrées susceptibles d'entraî-
 ner la persuasion unanime (ce qui estle caractère de la démonstra-
 tion logique rigoureuse) , s'imaginer que leurs critiques démontrent
@@ -60881,9 +57589,7 @@ ont, en général, insisté sur les points suivants
 :
 1°) La sociologie religieuse a relevé le caractère naturel et normal
 
-[p. 1111]
-
-L'IDÉE DE DIEU .
+[p. 1111] L'IDÉE DE DIEU .
 1111
 PHILOSOPHIE ET RELIGION
 
@@ -60947,9 +57653,7 @@ manifestations sociales dans un système général du monde, son
 rôle et sa place aussi bien en fait qu'en droit , ses rapports avec la
 science, la morale et la métaphysique .
 
-[p. 1112]
-
-1112
+[p. 1112] 1112
 LES THEORIES MÉTAPHYSIQUES
 Un grand nombre de philosophes ont insisté sur les affinités de
 la religion et de la morale, du sentiment religieux et du sentiment
@@ -60980,9 +57684,7 @@ On ne peut qu'attirer ici l'attention du lecteur sur ce problème
 complexe , l'un des plus importants qui se posent à la pensée con-
 temporaine. Il n'y saurait consacrer trop de réflexion et d'efforts .
 
-[p. 1113]
-
-CHAPITRE LXIII
+[p. 1113] CHAPITRE LXIII
 
 CONCLUSION GÉNÉRALE
 : RAPPORTS DE LA MÉTAPHYSIQUE
@@ -61026,11 +57728,7 @@ nécessité (Voir aussi, chap . I, § 11 , B) .
 c) Si la science n'a rien à voir avec la métaphysique, peut-on en
 dire autant de la métaphysique par rapport à la science ?
 1º Certains métaphysiciens fidéistes et mystiques le pensent. La
-métaphysique n'est plus alors qu'un rêve de l'imagination, rêve
-
-[p. 1114]
-
-individuel et stérile poème , qui ne se recommandera que par son
+métaphysique n'est plus alors qu'un rêve de l'imagination, rêve [p. 1114] individuel et stérile poème , qui ne se recommandera que par son
 obscurité et ses difficultés ;
 2º Pour la plupart des esprits philosophiques qui admettent
 encore la légitimité de la philosophie à côté de la science positive ,
@@ -61076,11 +57774,7 @@ La philosophie rationaliste a toujours soutenu en somme la thèse
 de la morale indépendante . Pour Socrate , les stoïciens , Descartes ,
 Kant, pour les positivistes , la morale est une spéculation rationnelle
 qui doit poser et justifier à elle seule ses principes. Elle peut avoir
-des affinités avec la métaphysique ; mais elle n'a pas, en tant que
-
-[p. 1115]
-
-21
+des affinités avec la métaphysique ; mais elle n'a pas, en tant que [p. 1115] 21
 
 morale , à s'en préoccuper. C'est la métaphysique, au contraire , qui
 devra tenir compte des résultats de la morale et de ses exigences ,
@@ -61098,7 +57792,7 @@ siques la morale théorique. Mais poser la question n'est pas la
 résoudre . La plupart des moralistes, tout en professant qu'il faut
 être aussi positif que possible en morale, et faire appel à l'obser-
 vation des faits et à l'expérience , pensent qu'il sera bien difficile de
-se passer d'un idéal, d'une évaluation a priori, par conséquent de
+se passer d'un idéal, d'une évaluation *a priori*, par conséquent de
 la réflexion philosophique .
 Bien entendu, pour ceux qui considèrent comme légitimes les
 spéculations métaphysiques , mais veulent rester dans la tradition
@@ -61132,11 +57826,7 @@ beaucoup plus radicaux , considèrent que la philosophie doit être la
 continuation
 directe de
 la science que dans la réalité ellés
-se
-
-[p. 1116]
-
-pénètrent toujours et que le système entier de nos connaissances et
+se [p. 1116] pénètrent toujours et que le système entier de nos connaissances et
 de notre pratique doit s'organiser par une collaboration continue
 d'efforts visant à garder partout l'attitude scientifique. Celle-ci serait
 caractérisée par la possibilité du contrôle dans toutes les méthodes
@@ -61162,9 +57852,7 @@ se classer et se hiérachiser autrement .
 
 •
 
-[p. 1117]
-
-OUVRAGES A CONSULTER
+[p. 1117] OUVRAGES A CONSULTER
 
 [^p1117-1]
 
@@ -61189,20 +57877,16 @@ Lorsque plusieurs ouvrages du même auteur, édités chez le même éditeur, son
 à la suite les uns des autres, le nom de l'éditeur n'est indiqué qu'après le dernier.
 
 Sur toutes les questions de psychologie, de philosophie et d'histoire des sciences et
-de la philosophie, consulter la Revue philosophique ; la Revue de Métaphysique et de Mo-
+de la philosophie, consulter la *Revue philosophique* ; la Revue de Métaphysique et de Mo-
 rale ; la Revue de synthèse historique , la Rivista di Scienza « Scientia » (dont tous les ar-
 ticles sont traduits en français) , la Revue de Philosophie ; l'Année philosophique ; l'Année
 psychologique ; l'Année sociologique ; le Journal de psychologie normale et pathologique .
-La Revue philosophique publie une table décennale bien faite, où les articles et
+La *Revue philosophique* publie une table décennale bien faite, où les articles et
 comptes rendus sont rangés à la fois par noms d'auteurs et par ordre de matière .
 Le
 
 [^p1117-1]: Cette bibliographie n'apas la prétentiond'être complète : elle indique seulement les ouvrages auxquels on a eu recours pour l'établissement de ces Leçons et qui sont les plus importants ou les plus récents sur la question, partant ceux qu'on peut con- sulter le plus aisément. Pour cette dernière raison, ont été éliminés tous les ouvrages étrangers non traduits , bien qu'il y en ait d'une importance considérable, tels que les Principles of psychology de W. James (1890) , ou The Human mind de J. Sully (1892 ) , les ouvrages non traduits de Wundt (Völkerpsychologie , Logik, Ethik, etc. ) , d'Ebbinghaus (Grundzüge der Psychologie, 1903 sq.), de Münsterberg (Grundzüge der Psychologie , 1900) , de Külpe (Gundriss der Psychologie , 1893), de Kräpelin (Psychiatrie) , etc.; de Baldwin (Handbook of psychology , 1891 ) ; de Stout ( Analytic psychology) ; de Titchener (Experi- mental psychology, etc. ) : les traités récents d'Angell, de Judd sur la psychologie ; les ouvrages de Lotze , Sigwart , Whewell , St. Jevons , Bosanquet, Dewey, Mach, Meinong , sur la logique, la méthodologie scientifique et l'histoire des sciences ; de Prantl sur T'histoire de la logique de Sidgwick , Green , Paulsen, Eucken, sur la morale, etc. etc.
-[^p1117-2]: Les erreurs et les lacunes dans la bibliographie étant malheureusement toujours possibles , à cause des difficultés à trouver certains des renseignements qui y sont indiqués , nous serons reconnaissants de toutes les indications qu'on voudra bien nous communiquer à ce sujet . 71
-
-[p. 1118]
-
-1118
+[^p1117-2]: Les erreurs et les lacunes dans la bibliographie étant malheureusement toujours possibles , à cause des difficultés à trouver certains des renseignements qui y sont indiqués , nous serons reconnaissants de toutes les indications qu'on voudra bien nous communiquer à ce sujet . 71 [p. 1118] 1118
 OUVRAGES A CONSULTER
 
 3º volume du Dictionary of psychology and philosophy de Baldwin donne une biblio-
@@ -61288,9 +57972,7 @@ Perez , les Trois premières années de l'enfant, 1878 ; - l'Enfant de trois à 
 
 1907 (Paris , ALCAN).
 
-[p. 1119]
-
-OUVRAGES A CONSULTER
+[p. 1119] OUVRAGES A CONSULTER
 1119
 
 Compayré , Evolution intellectuelle de l'enfant (Paris , HACHETTE , 1893) .
@@ -61354,7 +58036,7 @@ FONCTIONS GÉNÉRALES DE LA CONSCIENCE
 I.
 MÉMOIRE ET HABITUDE
 
-Ravaisson, l'Habitude , 1838 (N° 1 de la Revue de métaphysique et de morale, année 1894) .
+Ravaisson, l'Habitude , 1838 (N° 1 de la *Revue de métaphysique et de morale*, année 1894) .
 Ribot, les Maladies de la mémoire (Paris, ALCAN, 1881 ) ;
 7° éd. , 1891 .
 Van Bervliet, la Mémoire (Paris, ALCAN, 1892, DOIN, 1903) :
@@ -61377,11 +58059,7 @@ ASSOCIATION
 
 L. Ferri , la Psychologie de l'association (Paris, ALCAN , 1883) .
 Claparède , les Lois de l'association (Paris , DOIN, 1903) .
-Sollier, Essai critique et théorique sur l'association en psychologie (Paris , ALCAN, 1907)
-
-[p. 1120]
-
-1120
+Sollier, Essai critique et théorique sur l'association en psychologie (Paris , ALCAN, 1907) [p. 1120] 1120
 OUVRAGES A CONSULTER
 
 LA VIE AFFECTIVE
@@ -61462,11 +58140,7 @@ III .
 PERCEPTIONS
 
 a) externes
-Dialogues d'Hylas et de Philonoüs , 1709 (tr. fr. Paris ,
-
-[p. 1121]
-
-OUVRAGES A CONSULTER
+Dialogues d'Hylas et de Philonoüs , 1709 (tr. fr. Paris , [p. 1121] OUVRAGES A CONSULTER
 1121
 
 f
@@ -61548,9 +58222,7 @@ le Mouvement , 1893
 
 (Paris. ALCAN) .
 
-[p. 1122]
-
-1122
+[p. 1122] 1122
 OUVRAGES A CONSULTER
 
 Fabre, Souvenirs entomologiques , 1880-1886 ; la Vie des Insectes , 1910 ( Paris , DELAGRAVE) .
@@ -61579,13 +58251,13 @@ Lapie. Logique de la volonté ( Paris , ALCAN , 1902 ) .
 B.
 ESTHÉTIQUE
 
-Kant, Critique du jugement , 1790. — Essai sur le Beau et le Sublime, 1790 (tr . fr. Paris ,
+Kant, *Critique du jugement* , 1790. — Essai sur le Beau et le Sublime, 1790 (tr . fr. Paris ,
 LADRANGE) .
 Schiller , Lettres sur l'esthétique , 1795 (tr . fr . Paris , HACHETTE , 1861) .
 Schopenhauer , Note dans le 2º volume de : le Monde comme volonté etreprésentation ,
 1819 (tr . fr . , Paris , ALCAN, 1888 ) .
 Ruskin ,
-Œuvres traduites , passim ( 1834-1885) .
+Œuvres traduites , *passim* ( 1834-1885) .
 Taine , la Philosophie de l'Art
 ( Paris , HАСНЕТТЕ , 1865, 5º éd. 1890) .
 Blanc , Grammaire des arts du dessin ( Paris, LAURENS, 1867) .
@@ -61611,7 +58283,7 @@ Riemann , l'Esthétique musicale ( Paris , ALCAN, 1900) .
 Dauriac, l'Esprit musical (Paris, ALCAN, 1904) .
 Paulhan , le Mensonge de l'art (Paris, ALCAN, 1907).
 Dubufe , la Valeur de l'art (Paris, FLAMMARION, 1908) .
-Chevrillon, Ruskin et la vie (Revue des Deux Mondes, 1909) .
+Chevrillon, Ruskin et la vie (*Revue des Deux Mondes*, 1909) .
 Lalo , les Sentiments esthétiques (Paris , ALCAN, 1910) .
 
 C.
@@ -61630,9 +58302,7 @@ Condillac, Logique , 1792 ; - Langue du calcul, 1798 .
 Stuart Mill, Système de logique inductive et déductive, 1843 (tr. fr. Paris, ALCAN, 1866) .
 Bain, Logique inductive et déductive , 1870 (tr. fr . Paris, ALCAN, 1875) .
 
-[p. 1123]
-
-OUVRAGES A CONSULTER
+[p. 1123] OUVRAGES A CONSULTER
 1123
 
 Liard , des Définitions géométriques et des Définitions empiriques , 1873
@@ -61727,9 +58397,7 @@ Enriques, les Problèmes de la science et la logique (Paris, ALCAN, 1908) .
 E. de Martonne , Traité de géographie physique (Paris , COLEN , 1908) .
 Blum , Lectures sur la philosophie des sciences (Paris , BELIN ; - 2° éd . , 1909) .
 
-[p. 1124]
-
-1124
+[p. 1124] 1124
 OUVRAGES A CONSULTER
 
 B. Brunhes , la Dégradation de l'énergie (Paris . FLAMMARION , 1909) .
@@ -61824,9 +58492,7 @@ Hannequin , Introduction à la psychologie (Paris, MASSON, 1890 ) .
 
 e
 
-[p. 1125]
-
-OUVRAGES A CONSULTER
+[p. 1125] OUVRAGES A CONSULTER
 1125
 
 ス
@@ -61877,7 +58543,7 @@ Stuart Mill , l'Utilitarisme , 1863 (tr . fr . Paris, ALCAN , 1883 ) .
 Barni , Histoire des idées morales en France au XVIII° siècle , 1865-1865;
 la Morale
 
-Renouvier, la Science de la Morale (Paris , ALCAN , 1869) .
+Renouvier, la *Science de la Morale* (Paris , ALCAN , 1869) .
 dans la démocratie , 2° éd ., 1885 (Paris , ALCAN ) .
 
 Vacherot, la Science et la conscience (Paris, HACHETTE, 1870 ) .
@@ -61890,7 +58556,7 @@ Nietzche , Aurore , 1881 ;
 le Gai savoir,, 1882 ; - Ainsi parla Zarathustra , 1885 ;
 Par delà le bien et le mal , 1886 ;
 
-Euvres passim (tr . , MERCURE DE FRANCE) .
+Euvres *passim* (tr . , MERCURE DE FRANCE) .
 
 la Généalogie de la morale ,
 1887 ;
@@ -61920,9 +58586,7 @@ Berthelot , Science et morale (Paris , CALMANN-LÉVY , 1896) .
 Cresson , la Morale de Kant (Paris , ALCAN , 1897) .
 Bourgeois , la Solidarité (Paris , COLIN , 2° éd . , 1899 ) .
 
-[p. 1126]
-
-1126
+[p. 1126] 1126
 OUVRAGES A CONSULTER
 
 Bourgeois et Croiset. Essai d'une philosophie de la solidarité (Paris , ALCAN, 1902) .
@@ -62005,9 +58669,7 @@ Stuart Mill , l'Assujettissement des femmes , 1869.
 Denise , 1885 et les préfaces
 ( Paris
 
-[p. 1127]
-
-OUVRAGES A CONSULTER
+[p. 1127] OUVRAGES A CONSULTER
 1127
 
 1
@@ -62079,7 +58741,7 @@ Stirner , l'Unique et sa propriété, 1844 (tr . Paris , Ѕтоск , 1900) .
 K. Marx , le Capital, 1867 (tr. Paris, FLAMMARION, 1872 et 1901 ) ;
 niste , 1848 (Paris , SOCIÉTÉ NOUVELLE - CORNÉLY , 1910) .
 Tolstoi ,
-Œuvres sociales et religieuses , 1877-1910, passim .
+Œuvres sociales et religieuses , 1877-1910, *passim* .
 
 Manifeste commu-
 
@@ -62093,11 +58755,7 @@ contemporain , 6° éd . 1891 (Paris , ALCAN) .
 Espinas, Histoire des doctrines économiques (Paris, COLIN , 1891 ) .
 
 le
-Socialisme
-
-[p. 1128]
-
-1128
+Socialisme [p. 1128] 1128
 OUVRAGES A CONSULTER
 
 Le Bon , Psychologie du socialisme (Paris , ALCAN , 1892 ) .
@@ -62179,9 +58837,7 @@ Bibliographie de la paix et de l'arbitrage international (Paris, INSTITUT INTERN
 DE BIBLIOGRAPHIE , 1904) .
 Fournière , l'Individu , l'Association et l'État (Paris , ALCAN, 1906) .
 
-[p. 1129]
-
-OUVRAGES A CONSULTER
+[p. 1129] OUVRAGES A CONSULTER
 1129
 
 LES RELATIONS INTERNATIONALES
@@ -62266,16 +58922,14 @@ Russel, la Philosophie de Leibniz (Paris , ALCAN , 1909) .
 Tisserand , Maine de Biran ( Paris , ALCAN , 1909) .
 Ilamelin , la Philosophie de Descartes (Paris , ALCAN, 1910) .
 
-[p. 1130]
-
-1130
+[p. 1130] 1130
 OUVRAGES A CONSULTER
 
 SUR LES GRANDS COURANTS DE LA PENSÉE CONTEMPORAINE
 
 Aug. Comte , Cours de philosophie positive , 1828-1842 (surtout les deux premiers vo-
 lumes).
-Renouvier , Essais de critique générale, 1854-1896 (Paris, FISCHBACHER) ; la Monadologie .
+Renouvier , *Essais de critique générale*, 1854-1896 (Paris, FISCHBACHER) ; la Monadologie .
 nouvelle, 1899 :
 les Dilemmes de la métaphysique pure, 1901 ; - Histoire et solution
 des problèmes métaphysiques ,
@@ -62305,7 +58959,7 @@ des idées-forces , 1890 ;
 le Mouvement positiviste et la conception sociologique du
 monde, 1896 ;
 leMouvement idéaliste et la réaction contre la science positive, 1896 et
-les autres œuvres , passim (Paris , ALCAN ) .
+les autres œuvres , *passim* (Paris , ALCAN ) .
 W. James . Œuvres traduites , 1890-1910 , citées ici sous différentes rubriques .
 Naville , la Définition de la Philosophie, 1894 ; - les
 Philosophies négatives , 1899
@@ -62341,7 +58995,7 @@ VALEUR DE LA CONNAISSANCE ET DE LA SCIENCE
 De l'enchainement des
 Cournot , Essai sur le fondementde nos connaissances , 1851 ;
 idées fondamentales dans les sciences et dans l'histoire, 1861 (Paris, HACHETTE) .
-Renouvier, Essais de critique générale , 1854 (Paris , FISCHBACHER ) .
+Renouvier, *Essais de critique générale* , 1854 (Paris , FISCHBACHER ) .
 Stuart Mill , Examen de la philosophie de Hamilton , 1863 (tr. Paris, ALCAN , 1869) .
 Lachelier, Fondement de l'induction (Paris , ALCAN, 1871 ) .
 Boutroux , la Contingence des lois de la nature , 1874 ; - De l'idée de loi naturelle, 1895
@@ -62356,9 +59010,7 @@ Mémoire, 1900 (Paris , ALCAN
 
 Matière et
 
-[p. 1131]
-
-OUVRAGES A CONSULTER
+[p. 1131] OUVRAGES A CONSULTER
 1131
 
 bu
@@ -62437,9 +59089,7 @@ Secrétan , Philosophie de la liberté, 1879 .
 Clay, l'Alternative ( Paris , ALCAN, 1886) .
 Naville, le Libre arbitre (Paris , ALCAN, 1890) .
 
-[p. 1132]
-
-1132
+[p. 1132] 1132
 OUVRAGES A CONSULTER
 
 Fonsegrive , Essai sur le libre arbitre ( Paris , ALCAN , 2° éd . 1895).
@@ -62497,7 +59147,7 @@ religion de l'esprit,
 Piat, la Destinée de l'homme, 1898 ;
 De la croyance en Dieu , 1907 (Paris, ALCAN) .
 Loisy ,
-Œuvres (passim) (la plupart Paris , Leroux , à partir de 1900) .
+Œuvres (*passim*) (la plupart Paris , Leroux , à partir de 1900) .
 Höffding, Philosophie de la religion , 1901
 (Paris , ALCAN) .
 Le Dantec , Le Conflit
@@ -62524,9 +59174,7 @@ Hubert et Mauss , Mélanges d'histoire des religions (Paris, ALCAN, 1909 ) .
 Lyon , Enseignement et Religion , 1909 (Paris , ALCAN).
 Guignebert, l'Evolution des dogmes (Paris , FLAMMARION, 1910) .
 
-[p. 1133]
-
-INDEX
+[p. 1133] INDEX
 BIOGRAPHIQUE¹
 
 DES PRINCIPAUX AUTEURS CITÉS
@@ -62637,11 +59285,7 @@ remarquables de vulgarisation : Astronomie po-
 pulaire) . A joué un rôle politique sous Louis-
 Philippeet surtout en 1848.- Page 309. [^p1133-1]
 
-[^p1133-1]: Nous serons reconnaissants de toutes les omissions ou erreurs qu'on voudra bien nous signaler dans cet index qui, en ce qui concerne les contemporains, est difficile à établir ou à contrôler. 72
-
-[p. 1134]
-
-1134
+[^p1133-1]: Nous serons reconnaissants de toutes les omissions ou erreurs qu'on voudra bien nous signaler dans cet index qui, en ce qui concerne les contemporains, est difficile à établir ou à contrôler. 72 [p. 1134] 1134
 INDEX BIOGRAPHIQUE
 
 Archimède ,
@@ -62876,9 +59520,7 @@ Evêque et philosophe . - Continue l'analyse
 des représentations commencées par Locke,
 conclut que les notions d'objets matériels et
 
-[p. 1135]
-
-INDEX BIOGRAPHIQUE
+[p. 1135] INDEX BIOGRAPHIQUE
 1135
 
 l'espace ne sont que des constructions men-
@@ -63122,11 +59764,7 @@ Broca,
 Sainte-Foy (1824-1880) .
 Chirurgien
 français ,fondateur de l'Ecole d'Anthropologie ,
-travaux d'anatomie et de physiologie ( centres
-
-[p. 1136]
-
-1136
+travaux d'anatomie et de physiologie ( centres [p. 1136] 1136
 INDEX BIOGRAPHIQUE
 
 nerveux,
@@ -63363,9 +60001,7 @@ triomphe de la théorie héliocentrique sur la
 theoriegeocentrique dePtolémée.-Pages480.
 552.770.821 . 1082.
 
-[p. 1137]
-
-INDEX BIOGRAPHIQUE
+[p. 1137] INDEX BIOGRAPHIQUE
 1137
 
 Corti , Pavie (1475-1544).
@@ -63613,11 +60249,7 @@ sion du travail social .
 Le suicide .
 L'année
 sociologique,etc.- Travaux importants de pé-
-dagogie , et surtout effort pour formuler une
-
-[p. 1138]
-
-1138
+dagogie , et surtout effort pour formuler une [p. 1138] 1138
 INDEX BIOGRAPHIQUE
 
 morale véritablement positive.
@@ -63845,9 +60477,7 @@ Fresnel , Broglie (1788-1827).
 Grand physicien
 français, étude magistrale de la diffractionet
 
-[p. 1139]
-
-INDEX BIOGRAPHIQUE
+[p. 1139] INDEX BIOGRAPHIQUE
 1139
 
 a
@@ -64091,11 +60721,7 @@ le principe de la conservation de l'énergie, la
 thermodynamique, l'acoustique, l'optiquephy-
 siologique , l'électricité et surlaphilosophiedes
 sciences .
-Pages 151 , 161 , 165, 168, 180, 407
-
-[p. 1140]
-
-1140
+Pages 151 , 161 , 165, 168, 180, 407 [p. 1140] 1140
 INDEX BIOGRAPHIQUE
 
 Helvétius , Paris (1715-1771 ) .
@@ -64337,9 +60963,7 @@ James (W.), New-York (1842-1910).-Philosophe
 américain , professa à l'Université de Harvard.
 Grande influence sur la pensée contemporaine .
 
-[p. 1141]
-
-INDEX BIOGRAPHIQUE
+[p. 1141] INDEX BIOGRAPHIQUE
 1141
 
 Fondateur du pragmatisme .
@@ -64407,10 +61031,10 @@ sophes allemands avec Leibniz . Sa doctrine
 est le criticisme . ou idéalisme transcendantal,
 qu'il exposa à partir de 1781.
 Ouvrages ca-
-pitaux : Critique de la raison pure ( 1781). —
-Critique de la raison pratique (1787) .
+pitaux : *Critique de la raison pure* ( 1781). —
+*Critique de la raison pratique* (1787) .
 gomenes à toute métaphysique future (1788). -
-Critique du jugement (1790).
+*Critique du jugement* (1790).
 Pages 10, 259,
 330, 332, 429, 466,480,481, 490, 509, 568. 618 ,
 619,635,641,690,763 , 766-770, 782, 785, 800-802,
@@ -64565,9 +61189,7 @@ français, initiateur de la théorie de la liberté
 morale qu'a reprise Renouvier .
 Page 1070.
 
-[p. 1142]
-
-INDEX BIOGRAPHIQUE
+[p. 1142] INDEX BIOGRAPHIQUE
 1142
 
 Leroux, Paris
@@ -64808,9 +61430,7 @@ Marc-Aurèle, Rome (121-180 ap . J.-C.) , — Fut
 peut-être le plus grand empereur romain
 Etait profondément attaché aux doctrines
 
-[p. 1143]
-
-INDEX BIOGRAPHIQUE
+[p. 1143] INDEX BIOGRAPHIQUE
 1143
 
 stoïciennes qu'il a résumées dans ses admi-
@@ -65054,9 +61674,7 @@ de psychologie expérimentale.
 Pages 138,
 139.
 
-[p. 1144]
-
-1144
+[p. 1144] 1144
 INDEX BIOGRAPHIQUE
 
 Nernst . Briesen. - Physicienet chimiste alle-
@@ -65288,9 +61906,7 @@ sur la pensée actuelle.
 Pages 601, 604.614 ,
 615, 618 , 619 , 671 , 676, 680, 1071 .
 
-[p. 1145]
-
-INDEX BIOGRAPHIQUE
+[p. 1145] INDEX BIOGRAPHIQUE
 1143
 
 4-1
@@ -65564,9 +62180,7 @@ et critique anglais . Ses théories esthétiques
 et sociales sont très célèbres .
 Page 988 .
 
-[p. 1146]
-
-1146
+[p. 1146] 1146
 INDEX BIOGRAPHIQUE
 
 Russel, Chepstouse (1872).
@@ -65796,11 +62410,7 @@ des plus grands philosophes de l'Angleterre ,
 dontl'influence a été universelle. A construit
 un système complet de la nature sur des bases
 évolutionnistes et a fait de la théorie de l'évo-
-lution une philosophie générale . L'un des créa-
-
-[p. 1147]
-
-INDEX BIOGRAPHIQUE
+lution une philosophie générale . L'un des créa-[p. 1147]INDEX BIOGRAPHIQUE
 1147
 
 2
@@ -66057,9 +62667,7 @@ Mathématicien italien .
 Travaux importants de logique et de logis-
 tique. - Page 536 .
 
-[p. 1148]
-
-1148
+[p. 1148] 1148
 INDEX BIOGRAPHIQUE
 
 Vanini, Taurizano (1585-1619) .
@@ -66269,9 +62877,7 @@ Cytium en Chypre
 (3602-263 ?).
 Page1080.
 
-[p. 1149]
-
-1
+[p. 1149] 1
 
 다
 
@@ -66442,11 +63048,7 @@ Beaux-Arts: cf. Art ; Esthétique .
 Bentham : théorie de la morale utilitaire :
 774 : cf. Utilitarisme .
 
-73
-
-[p. 1150]
-
-1150
+73 [p. 1150] 1150
 INDEX ALPHABETIQUE
 
 Berkeley : théorie de la perception de l'es-
@@ -66541,7 +63143,7 @@ Dissociation : cf. Attention .
 Divinité
 : 1004-1012 .
 Dogmatisme : 1031-1063 : cf. Théorie de la
-Connaissance (passim) .
+Connaissance (*passim*) .
 Douleur : cf. Plaisir .
 Droit
 domestique : 878 ;
@@ -66644,11 +63246,7 @@ ou de résistance
 :
 1035.
 Égoïsme
-dans les faits affectifs : 352;
-
-[p. 1151]
-
-INDEX ALPHABÉTIQUE
+dans les faits affectifs : 352; [p. 1151] INDEX ALPHABÉTIQUE
 1151
 
 -3
@@ -66823,7 +63421,7 @@ ment des sciences physico-chimiques , bio-
 logiques ,
 naturelles , psychologiques
 et
-sociales ( passim) .
+sociales ( *passim*) .
 
 G
 
@@ -66870,11 +63468,7 @@ Idéalisme
 la théorie de la cons-
 cience : 61 ; - de la connaissance : 1047;
 de l'art : 492 ;
-des notions mathé
-
-[p. 1152]
-
-1152
+des notions mathé [p. 1152] 1152
 INDEX ALPHABETIQUE
 
 matiques : 617 ; - de l'induction : 691 ;
@@ -67095,11 +63689,7 @@ et qualités premières : 1035 .
 Matriarcat
 843, 872, 873 .
 
-| Mécaniste (théorie) : de l'instinct : 427 ;
-
-[p. 1153]
-
-INDEX ALPHABETIQUE
+| Mécaniste (théorie) : de l'instinct : 427 ; [p. 1153] INDEX ALPHABETIQUE
 1153
 
 주요
@@ -67335,9 +63925,7 @@ rique de la
 Psychologiques (faits) : Cf. Faits .
 Psycho-physique : 165, 729 .
 
-[p. 1154]
-
-14.54
+[p. 1154] 14.54
 INDEX ALPHABÉTIQUE
 Q
 
@@ -67407,7 +63995,7 @@ Salaire : 957 .
 S
 
 Scepticisme : cf. théorie de la Connaissance
-(passim) : au point de vue de l'esprit: cf.
+(*passim*) : au point de vue de l'esprit: cf.
 Matérialisme : au point de vue dela ma-
 tière : cf. Idéalisme .
 Science : origines de la
@@ -67573,9 +64161,7 @@ science :
 
 :
 
-[p. 1155]
-
-INDEX ALPHABÉTIQUE
+[p. 1155] INDEX ALPHABÉTIQUE
 1155
 
 一
@@ -67660,9 +64246,7 @@ la
 
 -
 
-[p. 1157]
-
-TABLE DES MATIÈRES
+[p. 1157] TABLE DES MATIÈRES
 
 PRÉFACE..
 
@@ -67751,11 +64335,7 @@ La conscience , cause déterminante de phénomènes particuliers ..........
 44
 
 LEÇONS DE PSYCHOLOGIE ET DE PHILOSOPHIE .
-74
-
-[p. 1158]
-
-1.
+74 [p. 1158] 1.
 11.
 
 111.
@@ -67884,11 +64464,7 @@ Les états morbides de l'attention . Les distractions
 144
 VII .
 Conclusions d'ensemble sur les fonctions générales de la conscience...
-146
-
-[p. 1159]
-
-1
+146 [p. 1159] 1
 
 LIVRE IV
 
@@ -68014,9 +64590,7 @@ V.
 Nature des idées ...
 239
 
-[p. 1160]
-
-CHAPITRE XV
+[p. 1160] CHAPITRE XV
 
 L'activité représentative élaborée. Les concepts (suite).
 
@@ -68155,9 +64729,7 @@ Nature et rôle des principes directeurs de la connaissance .
 325
 333
 
-[p. 1161]
-
-LIVRE V
+[p. 1161] LIVRE V
 
 LES FAITS AFFECTIFS
 
@@ -68293,9 +64865,7 @@ Conditions psychologiques
 
 411
 
-[p. 1162]
-
-CHAPITRE XXV
+[p. 1162] CHAPITRE XXV
 
 L'activité motrice spontanée. L'instinct.
 
@@ -68405,9 +64975,7 @@ L'artet le beau....
 V. - Applications : Appréciations de l'œuvre d'art .
 495
 
-[p. 1163]
-
-LOGIQUE
+[p. 1163] LOGIQUE
 
 LIVRE VIII
 
@@ -68530,9 +65098,7 @@ VI .
 La méthode mathématique chez les anciens peuples de l'Orient .
 589
 
-[p. 1164]
-
-Pages.
+[p. 1164] Pages.
 VII .
 Développement des mathématiques chez les Grecs . Constitution de la
 
@@ -68677,9 +65243,7 @@ Développement des sciences historiques et sociales.....
 707
 713
 
-[p. 1165]
-
-CHAPITRE XXXIX
+[p. 1165] CHAPITRE XXXIX
 
 Les moyens indirects d'observation dans les sciences psychologiques et sociales (ou morales)
 Méthode psychologique et méthode historique.
@@ -68807,9 +65371,7 @@ VU.
 Conclusions générales sur l'objet et le caractère de la morale..
 795
 
-[p. 1166]
-
-CHAPITRE XLIII
+[p. 1166] CHAPITRE XLIII
 
 Notions historiques sur la morale théorique .
 Les données de la conscience morale
@@ -68947,9 +65509,7 @@ Deuxième partie : Interprétation des règles morales
 Le fondement des devoirs individuels ..
 857
 
-[p. 1167]
-
-Pages.
+[p. 1167] Pages.
 II.
 Applications pratiques
 : Les devoirs de l'individu .
@@ -69079,9 +65639,7 @@ V.
 La propriété et le travail ..
 938
 
-[p. 1168]
-
-Exposé des doctrines socialiste et démocratique .
+[p. 1168] Exposé des doctrines socialiste et démocratique .
 
 Avant-propos ..
 
@@ -69192,11 +65750,7 @@ Définition et utilité d'une théorie de la connaissance .
 1020
 
 1029
-1031
-
-[p. 1169]
-
-11 .
+1031 [p. 1169] 11 .
 III.
 
 1
@@ -69348,9 +65902,7 @@ Sociologie, psychologie et philosophie de la
 religion
 1110
 
-[p. 1170]
-
-Conclusion générale : Rapports de la métaphysique avec la science et la morale.
+[p. 1170] Conclusion générale : Rapports de la métaphysique avec la science et la morale.
 
 1.
 11.
@@ -69412,9 +65964,7 @@ et à l'Inspection primaire .
 TOURS .
 IMPRIMERIE DESLIS FRÈRES , 6 , RUE GAMBETTA .
 
-[p. 1]
-
-SUJETS
+[p. 1] SUJETS
 
 DE COMPOSITIONS ÉCRITES DE PHILOSOPHIE
 
@@ -69489,9 +66039,7 @@ que désignent les mots décrire et définir .
 
 [^p1-1]: Les candidats au baccalauréat choisissent , au moment de composer, un sujet parmi les trois qui leur sont proposés . SUJETS . a
 
-[p. 2]
-
-Université d'Aix
+[p. 2] Université d'Aix
 Marseille .
 
 Quel est le rôle de l'imagination dans les perceptions acquises de la vue
@@ -69585,9 +66133,7 @@ En quel sens.eten quelle mesure expérimente-t-on sur les états de cons-
 cience ?
 L'instinct peut-il se ramener à une habitude héréditaire ?
 
-[p. 3]
-
-Université de Caen .
+[p. 3] Université de Caen .
 
 1. - Expliquer et développer cette pensée de Leibniz : « Les paroles ne sont
 
@@ -69680,9 +66226,7 @@ Expliquer ce mot de F. Bacon : Ars homo additus naturæ .
 L'art c'est
 l'homme s'ajoutant à la nature .
 
-[p. 4]
-
-1.
+[p. 4] 1.
 
 2.
 
@@ -69770,9 +66314,7 @@ quantité de corps semblables entre eux , ou à peu près semblables, et
 si l'on ne pouvait conclure, par exemple , d'un morceau de phosphore
 à un autre morceau de phosphore ? >>>
 
-[p. 5]
-
-2.
+[p. 5] 2.
 3.
 
 1.
@@ -69874,9 +66416,7 @@ L'autorité dans la famille .
 Est-ce vrai qu'elle tende à disparaître ?
 L'humanité est-elle en progrès ?
 
-[p. 6]
-
-1.
+[p. 6] 1.
 2.
 
 3.
@@ -69963,9 +66503,7 @@ que le monde des corps n'existe que dans et par la pensée. Indiquez
 comment s'est établie une théorie aussi paradoxale et sur quelles rai-
 sons elle s'appuie .
 
-[p. 7]
-
-1.
+[p. 7] 1.
 
 2.
 
@@ -70064,9 +66602,7 @@ De la part de la volonté dans le jugement et la croyance .
 Pouvons-nous développer l'énergie de notre propre volonté, et, si oui ,
 par quels moyens ?
 
-[p. 8]
-
-3 .
+[p. 8] 3 .
 
 1.
 
@@ -70149,11 +66685,7 @@ de l'homme et de l'animal ?
 
 Université de Caen .
 - Expliquer et développer cette pensée de Renouvier : « Le public a l'habi-
-tude de confondre sous le nom de science toutes les sciences possibles ,
-
-[p. 9]
-
-2.
+tude de confondre sous le nom de science toutes les sciences possibles , [p. 9] 2.
 
 si diverses en nature et en procédés , puis dans chaque science l'acquis
 certain avec l'acquis très probable , et celui-ci avec le moins probable
@@ -70247,9 +66779,7 @@ Des conditions et de la nature de la sensation .
 Quels services les savants demandent-ils aux sens pour constituer et faire
 avancer les sciences ?
 
-[p. 10]
-
-1.
+[p. 10] 1.
 
 2.
 
@@ -70348,9 +66878,7 @@ a-t- il pas , au point de vue moral , danger à s'y trop complaire ?
 3 .
 En quoi consistent, pour l'esprit, la santé et la maladie ?
 
-[p. 11]
-
-1.
+[p. 11] 1.
 21
 
 2.
@@ -70446,9 +66974,7 @@ applicable .
 Qu'est-ce qu'une théorie, et quelles différences y a-t-il entre une théorie
 et une hypothèse ?
 
-[p. 12]
-
-1.
+[p. 12] 1.
 
 2.
 
@@ -70530,11 +67056,7 @@ Marseille .
 De l'analyse et de la synthèse
 rôle de ces procédés dans les sciences
 physiques .
-Comment établit-on la vérité d'un fait historique ; en quoi un tel fait
-
-[p. 13]
-
-2
+Comment établit-on la vérité d'un fait historique ; en quoi un tel fait [p. 13] 2
 
 1.
 
@@ -70638,9 +67160,7 @@ dignité personnelle ?
 Dans quelle mesure convient-il de tenir compte de l'opinion publique ?
 Dans quelle mesure est-il possible de s'élever au-dessus d'elle ?
 
-[p. 14]
-
-1.
+[p. 14] 1.
 
 2.
 
@@ -70741,9 +67261,7 @@ d'obligation morale ?
 Quel estl'élément principal du bonheur humain ?
 La morale est- elle une science de faits positifs ou une science de l'idéal ?
 
-[p. 15]
-
-1.
+[p. 15] 1.
 
 2.
 
@@ -70835,9 +67353,7 @@ Comment sommes - nous à la fois libres et obligés ?
 Quels sont, dans l'ordre de la moralité, le sens et la valeur du précepte :
 « Connais -toi toi-même » ?
 
-[p. 16]
-
-1.
+[p. 16] 1.
 2.
 
 3 .
@@ -70931,9 +67447,7 @@ Loi naturelle, loi sociale , loi morale .
 3 .
 Les méthodes de Stuart Mill .
 
-[p. 17]
-
-1.
+[p. 17] 1.
 
 2.
 
@@ -71027,11 +67541,7 @@ De la définition. Nature et rôle des définitions dans les mathématiques et
 dans les sciences empiriques .
 
 SUJETS .
-b
-
-[p. 18]
-
-2.
+b [p. 18] 2.
 
 3 .
 
@@ -71127,9 +67637,7 @@ Fondement du droit de punir pour la société.
 3 .
 Origine de la loi morale .
 
-[p. 19]
-
-1.
+[p. 19] 1.
 2.
 
 3.
@@ -71230,9 +67738,7 @@ démonstration
 mathématique : donner des
 exemples .
 
-[p. 20]
-
-Comment fait-on une induction dans les sciences expérimentales
+[p. 20] Comment fait-on une induction dans les sciences expérimentales
 : don-
 ner un exemple .
 La valeur de l'induction .
@@ -71332,9 +67838,7 @@ même temps être bien convaincu que nous n'avons ce rapport que
 d'une façon plus ou moins approximative et que les théories que nous
 possédons sont loin de représenter la vérité immuable. »
 
-[p. 21]
-
-نا
+[p. 21] نا
 
 1.
 
@@ -71432,9 +67936,7 @@ La charité est-elle obligatoire , au même titre que lajustice ?
 De la liberté de penser . En quoi consiste l'exercice de ce droit ? Quelles
 en sont les limites ? De quelle façon y est-il porté atteinte ?
 
-[p. 22]
-
-2.
+[p. 22] 2.
 
 3.
 -
@@ -71518,9 +68020,7 @@ tique ; la politique est-elle ou doit-elle être autre chose qu'une routine ?
 Est-elle un art ? une science ? une science morale ? un composé de
 science et de morale ?
 
-[p. 23]
-
-LICENCE ÈS LETTRES¹
+[p. 23] LICENCE ÈS LETTRES¹
 
 (PHILOSOPHIE)
 
@@ -71595,9 +68095,7 @@ La responsabilité morale .
 
 [^p23-1]: Les candidats choisissent, au moment de composer , un sujet de composition dogmatique parmi les quatre qui leur sont proposés . La composition d'histoire de la philosophie est obliga- Nous donnons aussi ceux des sujets à option qui se rapportent à la philosophie . toire.
 
-[p. 24]
-
-Exposer sommairement la critique du cartésianisme par Leibniz .
+[p. 24] Exposer sommairement la critique du cartésianisme par Leibniz .
 
 SCIENCE DE L'ÉDUCATION
 
@@ -71675,9 +68173,7 @@ COMPOSITION DOGMATIQUE
 - Montrer que la fonction de l'esprit est de mettre l'unité dans la diversité
 des phénomènes .
 
-[p. 25]
-
-2.
+[p. 25] 2.
 
 3 .
 4.
@@ -71698,7 +68194,7 @@ Peut-on établir une morale sans obligation ?
 
 HISTOIRE DE LA PHILOSOPHIE
 
-Analyser la doctrine de la <<< Critique de la Raison pratique » de Kant et en
+Analyser la doctrine de la <<< *Critique de la Raison pratique* » de Kant et en
 montrer l'originalité .
 
 Université de Caen .
@@ -71773,9 +68269,7 @@ L'idée de patrie .
 4.
 La preuve de la liberté par la conscience .
 
-[p. 26]
-
-HISTOIRE DE
+[p. 26] HISTOIRE DE
 LA
 PHILOSOPHIE
 
@@ -71795,7 +68289,7 @@ L'atomisme .
 HISTOIRE DE LA
 PHILOSOPHIE
 
-Les idées de la Raison dans la critique de la Raison pure de Kant.
+Les idées de la Raison dans la *critique de la Raison pure* de Kant.
 
 Université de Grenoble .
 
@@ -71877,9 +68371,7 @@ titutions sociales .
 HISTOIRE DE LA PHILOSOPHIE
 Le Cartésianisme et les critiques de Locke .
 
-[p. 27]
-
-1. - Philosophie générale .
+[p. 27] 1. - Philosophie générale .
 
 COMPOSITION DOGMATIQUE
 
@@ -71981,9 +68473,7 @@ DE LA PHILOSOPHIE
 
 L'usage des passions selon Descartes et Spinoza .
 
-[p. 28]
-
-1.
+[p. 28] 1.
 2.
 3.
 
@@ -72071,17 +68561,15 @@ Philosophie générale .
 L'attitude critique imposée àl'espritpar l'éducation
 scientifique équivaut-elle au scepticisme ?
 Morale et sociologie .
-Est-il possible de déterminer a priori le fondement
+Est-il possible de déterminer *a priori* le fondement
 de la morale ?
 
-[p. 29]
-
-HISTOIRE DE LA
+[p. 29] HISTOIRE DE LA
 PHILOSOPHIE
 
 Commenter ce texte de la troisième méditation de Descartes
 :
-<<Ego sum res cogitans, id est dubitans , affirmans , negans, pauca intelli-
+<<Ego sum *res cogitans*, id est dubitans , affirmans , negans, pauca intelli-
 gens , multa ignorans , volens , nolens , imaginans etiam et sentiens ; ut enim
 ante animadverti , quamvis illa quae sentio vel imaginor extra me fortasse
 nihil sint, illos tamen cogitandi modos , quos sensus et imaginationes appello ,
@@ -72166,11 +68654,7 @@ connaissance proprement scientifique ?
 2.
 La logique des sentiments .
 3 .
-Notre esprit, dit Auguste Comte , ne pourrait entreprendre l'observation
-
-[p. 30]
-
-des faits << sans être d'abord dirigé et ensuite continuellement sollicité
+Notre esprit, dit Auguste Comte , ne pourrait entreprendre l'observation [p. 30] des faits << sans être d'abord dirigé et ensuite continuellement sollicité
 <<par quelques théories
 préliminaires ... L'empirisme absolu serait
 << non seulement tout à fait stérile , mais même radicalement impos-
@@ -72242,9 +68726,7 @@ PHILOSOPHIE ET PSYCHOLOGIE
 En quel sens y a-t-il eu, en quel sens peut-il y avoir une critique de la raison ?
 Des problèmes et de la méthode propres à une telle critique.
 
-[p. 31]
-
-HISTOIRE DE LA PHILOSOPHIE DANS SES RAPPORTS AVEC LES SCIENCES
+[p. 31] HISTOIRE DE LA PHILOSOPHIE DANS SES RAPPORTS AVEC LES SCIENCES
 
 La mathématique théorique , rationnelle , désintéressée (au moins dans un cer-
 tain sens) semble bien être née dans les colonies grecques au vie siècle avant
@@ -72313,9 +68795,7 @@ LOGIQUE
 
 Quels sont les caractères communs de méthode dans les sciences de la nature ?
 
-[p. 32]
-
-SCIENCES DE L'EDUCATION
+[p. 32] SCIENCES DE L'EDUCATION
 
 Conception d'éducation négative chez Rousseau .
 
@@ -72394,9 +68874,7 @@ Morale et sociologie . - Le droit et la force .
 HISTOIRE DE LA PHILOSOPHIE
 La dialectique de Platon .
 
-[p. 33]
-
-A
+[p. 33] A
 
 Université de Besançon .
 
@@ -72492,9 +68970,7 @@ Exposer et discuter une doctrine de la relativité de la science .
 SUJETS .
 C
 
-[p. 34]
-
-HISTOIRE
+[p. 34] HISTOIRE
 DE LA PHILOSOPHIE
 
 Les théories épicuriennes de la matière et de l'âme d'après Lucrèce .
@@ -72583,9 +69059,7 @@ HISTOIRE DE LA PHILOSOPΙΙΕ
 
 Nature et rôle de la perception selon la doctrine de Maine de Biran .
 
-[p. 35]
-
-Université de
+[p. 35] Université de
 Lille .
 
 1 .
@@ -72687,11 +69161,7 @@ COMPOSITION DOGMATIQUE
 1.
 Philosophie
 générale .
-La notion de matière est-elle susceptible de
-
-[p. 36]
-
-2.
+La notion de matière est-elle susceptible de [p. 36] 2.
 
 quelque détermination indépendamment des divers phénomènes par-
 ticuliers donnés dans l'expérience sensible ?
@@ -72722,7 +69192,7 @@ venir de rien ni retourner au néant » ?
 2.
 Du mécanisme et de la finalité dans l'activité psychique .
 3 .
-Y a-t-il des propositions certaines a priori ?
+Y a-t-il des propositions certaines *a priori* ?
 4.
 Valeur morale de l'hypothèse du libre arbitre .
 
@@ -72781,9 +69251,7 @@ PHILOSOPHIE
 
 Qu'est-ce que Spinoza entend par un mode fini ?
 
-[p. 37]
-
-COMPOSITION DOGMATIQUE
+[p. 37] COMPOSITION DOGMATIQUE
 - Philosophie générale .
 Est-il possible , sans dépasser les limites de l'ex-
 périence , de constituer une philosophie de l'esprit ?
@@ -72876,11 +69344,7 @@ Du raisonnement mathématique .
 HISTOIRE DE LA
 PHILOSOPHIE
 La critique et la métaphysique dans la philosophie de Kant : nature et rôle de
-la critique ; rapports de la critique, d'une part avec la métaphysique dogma-
-
-[p. 38]
-
-tique qu'elle combat, de l'autre avec la métaphysique de la nature et des
+la critique ; rapports de la critique, d'une part avec la métaphysique dogma-[p. 38]tique qu'elle combat, de l'autre avec la métaphysique de la nature et des
 mœurs qu'elle prépare .
 
 ADMISSION A L'ÉCOLE NORMALE SUPÉRIEURE
@@ -72953,9 +69417,7 @@ Quel sens et quelle valeurattribuez-vous à cette affirmation ?
 MORALE OU PSYCHOLOGIE APPLIQUÉE A L'ÉDUCATION
 Étude psychologique et pédagogique de l'émulation .
 
-[p. 39]
-
-CONCOURS DIVERS
+[p. 39] CONCOURS DIVERS
 39
 
 1909
@@ -73025,9 +69487,7 @@ les vivants ?
 Ce qu'on entend par la personnalité. Est-il possible de la développer
 en nous ? Par quels moyens et dans quelle mesure ?
 
-[p. 40]
-
-CERTIFICAT D'APTITUDE AU PROFESSORAT
+[p. 40] CERTIFICAT D'APTITUDE AU PROFESSORAT
 DES ÉCOLES NORMALES
 
 ORDRE DES LETTRES

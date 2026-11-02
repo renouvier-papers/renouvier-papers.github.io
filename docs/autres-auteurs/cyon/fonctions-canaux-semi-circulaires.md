@@ -10,15 +10,11 @@ title: "Recherches expérimentales sur les fonctions des canaux semi-circulaires
 
 ---
 
-[p. 3]
-
-A LA MÉMOIRE VÉNÉRÉE
+[p. 3] A LA MÉMOIRE VÉNÉRÉE
 
 DE MON CHER ET ILLUSTRE MAITRE CLAUDE BERNARD
 
-[p. 5]
-
-PRINCIPALES PUBLICATIONS DU MÈME AUTEUR
+[p. 5] PRINCIPALES PUBLICATIONS DU MÈME AUTEUR
 
 A.
 
@@ -48,9 +44,7 @@ B.
 
 Mémoires scientifiques .[^p5-1][^p5-2][^p5-3][^p5-4][^p5-5][^p5-6][^p5-7][^p5-8][^p5-9][^p5-10][^p5-11][^p5-12][^p5-13][^p5-14]
 
-[p. 6]
-
-21. La formation de l'urée dans le foie . (Centralblatt,för med. Wiss . 1870.)
+[p. 6] 21. La formation de l'urée dans le foie . (Centralblatt,för med. Wiss . 1870.)
 
 22. Les excitations et les modérations des centres vaso-moteurs . (Bull. de l'Acad .
 
@@ -60,9 +54,9 @@ des sciences de Saint-Pétersbourg , 1871.)
 
 (Ibid .)
 
-24. Le rôle des nerfs dans la production du diabète (Ibid. )
+24. Le rôle des nerfs dans la production du diabète (*Ibid.* )
 
-25. Une action paradoxale d'un nerf sensible. (Ibid. )
+25. Une action paradoxale d'un nerf sensible. (*Ibid.* )
 
 26. Le cœur et le cerveau. (Revue scientifique, 1873.)
 
@@ -70,15 +64,15 @@ des sciences de Saint-Pétersbourg , 1871.)
 
 28. L'influence des variations de la température sur les terminaisons centrales
 
-des nerfs pneumogastriques. (Ibid.)
+des nerfs pneumogastriques. (*Ibid.*)
 
-29. L'innervation de la matrice (avec M. Scherschewsky) . (Ibid. )
+29. L'innervation de la matrice (avec M. Scherschewsky) . (*Ibid.* )
 
-30. L'excitation des centres vaso-moteurs (avec M. Tschirieff) . (Ibid.)
+30. L'excitation des centres vaso-moteurs (avec M. Tschirieff) . (*Ibid.*)
 
 31. L'action des racines postérieures de la moelle sur les racines antérieures .
 
-(Ibid.)
+(*Ibid.*)
 
 32. La vitesse de propagation de l'excitation dans les centres nerveux . (Bull .
 
@@ -100,7 +94,7 @@ rendus , 1876. )
 
 antérieures (Société de biologie, 1876. )
 
-38. L'action physiologique du téléphone. (Ibid. , 1877.)
+38. L'action physiologique du téléphone. (*Ibid.* , 1877.)
 
 39. Les organes périphériques du sens de l'espace (Comptes rendus , 1877.)
 
@@ -108,9 +102,7 @@ antérieures (Société de biologie, 1876. )
 
 1878.)
 
-[p. 7]
-
-RECHERCHES EXPÉRIMENTALES
+[p. 7] RECHERCHES EXPÉRIMENTALES
 
 SUR LES FONCTIONS DES CANAUX SEMI- CIRCULAIRES
 
@@ -130,11 +122,7 @@ On peut considérer comme chose rare dan l'histoire des sciences qu'une grande d
 
 Ce cas est d'autant plus intéressant au point de vue de l'histoire de la science, que les observations de Flourens ont été faites d'une manière bien autrement précise que beaucoup de celles qui ont dernièrement contribué à l'interprétation des fonctions de ces organes .
 
-On ne s'en rend bien compte qu'en se rappelant qu'une découverte ne porte ses fruits que lorsqu'elle a été accompagnée ou suivie de travaux préparant l'esprit à la comprendre . Il faut que la science soit arrivée à un degré suffisant de développement, que certaines questions soient complétement élaborées
-
-[p. 8]
-
-pour que la lumière puisse se faire sur des phénomènes connus cependant depuis longtemps .
+On ne s'en rend bien compte qu'en se rappelant qu'une découverte ne porte ses fruits que lorsqu'elle a été accompagnée ou suivie de travaux préparant l'esprit à la comprendre . Il faut que la science soit arrivée à un degré suffisant de développement, que certaines questions soient complétement élaborées [p. 8] pour que la lumière puisse se faire sur des phénomènes connus cependant depuis longtemps .
 
 La première communication faite par Flourens sur les canaux semi-circulaires, se trouve dans un mémoire lu à l'Académie des sciences le 11 août 1828. La description qu'il donne de ces observations est tellement claire et précise, qu'elle répond encore parfaitement aux faits tels que nous les connaissons à présent . L'ouvrage classique de Flourens, se trouvant dans les mains de tous les physiologistes, nous nous bornerons à reproduire la conclusion qu'il tire de ses expériences (Recherches expérimentales , etc., p. 495. Paris, 1842) .
 
@@ -152,11 +140,7 @@ Nous n'avons pas à rechercher si l'explication qui précède était suffisante 
 
 Observations de Purkinje sur le vertige.
 
-Presque en même temps que Flourens publiait ses recherches , un autre éminent physiologiste, Purkinje, communiquait
-
-[p. 9]
-
-9 une série d'observations sur le vertige, qui, quoique conçues dans un ordre d'idées tout à fait différent, ne présentent pas moins beaucoup de rapports avec les expériences précédentes sur les canaux semi-circulaires .
+Presque en même temps que Flourens publiait ses recherches , un autre éminent physiologiste, Purkinje, communiquait [p. 9] 9 une série d'observations sur le vertige, qui, quoique conçues dans un ordre d'idées tout à fait différent, ne présentent pas moins beaucoup de rapports avec les expériences précédentes sur les canaux semi-circulaires .
 
 Ces rapports n'ont été indiqués que tout récemment par M. Mach . Quoique ce dernier observateur en ait considérablement exagéré l'importance comme pouvant servir de base pour l'explication des phénomènes observés par Flourens , nous devons néanmoins mentionner ici les conclusions de Purkinje sur l'origine du vertige. Nous verrons plus loin que ces conclusions sont pour la plupart très-exactes , et comme telles elles nous seront d'une grande utilité pour la discussion des phénomènes qui font l'objet principal de notre travail .
 
@@ -178,11 +162,7 @@ E.
 
 DE CYON .
 
-2
-
-[p. 10]
-
-10 l'axe de cette rotation imaginaire de l'espace qui nous environne est déterminé par l'axe de la rotation réelle qu'a exécuté notre tête . En changeant la position de cette dernière, après avoir arrêté le mouvement du corps, nous observons que la position de l'axe du mouvement imaginaire est toujours la mème , c'est-à-dire que, quelle soit la position de notre tête , cet axe passe toujours par elle .
+2 [p. 10] 10 l'axe de cette rotation imaginaire de l'espace qui nous environne est déterminé par l'axe de la rotation réelle qu'a exécuté notre tête . En changeant la position de cette dernière, après avoir arrêté le mouvement du corps, nous observons que la position de l'axe du mouvement imaginaire est toujours la mème , c'est-à-dire que, quelle soit la position de notre tête , cet axe passe toujours par elle .
 
 Voici textuellement l'explication que Purkinje a donnée de ce phénomène :
 
@@ -192,11 +172,7 @@ Voici textuellement l'explication que Purkinje a donnée de ce phénomène :
 
 >> D'après les résultats connus des expériences sur les ani>> maux , j'attribuerais ces troubles surtout à l'altération du >> cervelet et des pédoncules cérébraux ; l'étourdissement devait >> être attribué aux lobes cérébraux . »
 
-Dans un autre endroit de son remarquable travail, Purkinje revient à cette explication et y ajoute de nouveaux détails . Le vertige serait produit par le changement des sensations que les parties du cerveau éprouvent à l'état normal de leur contact mutuel ; ce contact changeant pendant le déplacement de ces
-
-[p. 11]
-
-parties , produit par la rotation du corps, ces sensations doivent nécessairement se modifier .
+Dans un autre endroit de son remarquable travail, Purkinje revient à cette explication et y ajoute de nouveaux détails . Le vertige serait produit par le changement des sensations que les parties du cerveau éprouvent à l'état normal de leur contact mutuel ; ce contact changeant pendant le déplacement de ces [p. 11] parties , produit par la rotation du corps, ces sensations doivent nécessairement se modifier .
 
 << Dans l'attitude et les mouvements habituels de notre corps , >>>l'influence de la pesanteur est ressentie dans chaque partie, et >> cette sensation sert pour régulariser les mouvements et pour >> compenser l'équilibre du corps . Or, quand la pesanteur >> change de direction dans une partie quelconque de notre >> corps , surtout dans sa plus noble partie, dans la tête, qui elle >> profite de tous les instincts [^p11-1] du reste du corps, alors les >> sensations éprouvées dans toutes les parties de notre corps >> s'embrouillent, des mouvements inconscients se produisent, >> qui servent à rétablir l'attitude normale de la tête et en >> arrêter le mouvement apparent . >>>
 
@@ -216,9 +192,7 @@ Brown-Séquard et Schiff.
 
 Nous devons brièvement exposer ici les recherches et explications qui ont suivi les travaux de Flourens .
 
-[p. 12]
-
-Les troubles des mouvements produits par les lésions des canaux semi-circulaires ont été constatés par beaucoup d'auteurs . Mais, si presque tous étaient d'accord avec Flourens sur les faits eux-mêmes, l'explication à leur donner a beaucoup varié . Ainsi, par exemple, M. Vulpian voit la cause de ces troubles dans « un vertige auditif qui retentit sur tout l'organisme » . L'observation de M. Brown-Séquard, que les lésions des nerfs auditifs produisent des troubles pareils, paraît à M. Vulpian une confirmation de cette manière de voir.
+[p. 12] Les troubles des mouvements produits par les lésions des canaux semi-circulaires ont été constatés par beaucoup d'auteurs . Mais, si presque tous étaient d'accord avec Flourens sur les faits eux-mêmes, l'explication à leur donner a beaucoup varié . Ainsi, par exemple, M. Vulpian voit la cause de ces troubles dans « un vertige auditif qui retentit sur tout l'organisme » . L'observation de M. Brown-Séquard, que les lésions des nerfs auditifs produisent des troubles pareils, paraît à M. Vulpian une confirmation de cette manière de voir.
 
 M. Brown-Séquard incline aussi vers l'interprétation de ces phénomènes par un vertige auditif, quoiqu'il n'admette pas que les canaux semi-circulaires soient directement engagés dans la production des mouvements désordonnés .
 
@@ -234,11 +208,7 @@ La série d'expériences sur les canaux semi-circulaires avec des modifications 
 
 Depuis , un grand nombre des recherches exécutées par différents physiologistes a remis l'étude des fonctions de ces canaux à l'ordre du jour de la science .
 
-M. Loewenberg a exécuté un grand nombre d'expériences, surtout sur le canal horizontal et le vertical postérieur ; ne se bornant pas aux simples lésions de ces canaux, il essayait de les exciter tantôt par la voie mécanique, tantôt par des excitants chimiques . Dans d'autres expériences, M. Loewenberg produisait en même temps que les lésions des canaux des lésions des
-
-[p. 13]
-
-différentes parties du cerveau ; il répétait les mêmes expériences pendant la narcose, etc.
+M. Loewenberg a exécuté un grand nombre d'expériences, surtout sur le canal horizontal et le vertical postérieur ; ne se bornant pas aux simples lésions de ces canaux, il essayait de les exciter tantôt par la voie mécanique, tantôt par des excitants chimiques . Dans d'autres expériences, M. Loewenberg produisait en même temps que les lésions des canaux des lésions des [p. 13] différentes parties du cerveau ; il répétait les mêmes expériences pendant la narcose, etc.
 
 Voici les principales conclusions de ce travail :
 
@@ -270,9 +240,7 @@ La lésion d'un de ces trois systèmes suffit pour troubler les mouvements combi
 
 Les phénomènes de Flourens ne pouvaient évidemment trouver leur explication dans ces conclusions , les canaux semicirculaires n'appartenant apparemment à aucun de ces éléments . M. Goltz voyait ainsi une contradiction apparente qui nécessitait avant tout une répétition de ces expériences .
 
-[p. 14]
-
-Ajoutons pourtant que M. Goltz n'a que très-imparfaitement réussi à répéter les expériences de Flourens . Sa manière d'opérer consistait simplement dans la destruction à l'aide d'un trépan de la partie de l'os occipital qui recouvre les canaux, ainsi que des deux canaux horizontaux et verticaux postérieurs .
+[p. 14] Ajoutons pourtant que M. Goltz n'a que très-imparfaitement réussi à répéter les expériences de Flourens . Sa manière d'opérer consistait simplement dans la destruction à l'aide d'un trépan de la partie de l'os occipital qui recouvre les canaux, ainsi que des deux canaux horizontaux et verticaux postérieurs .
 
 Cette opération était toujours accompagnée d'une « perte de sang considérable » . Peu des pigeons opérés survivaient à l'opération .
 
@@ -286,11 +254,7 @@ D'après lui, les canaux ne servent à cet équilibre qu'indirectement, en ayant
 
 Ils remplissent cette dernière fonction de la manière suivante : L'endolymphe qui se trouve dans les canaux exercerait une plus forte pression sur les parois des ampoules, quand dans les mouvements de la tête ces ampoules se trouvent situées plus bas. Cette pression exciterait les nerfs des ampoules, et les sensations produites par cette excitation serviraient à équilibrer la tête .
 
-Les mouvements désordonnés du corps qui s'observent chez
-
-[p. 15]
-
-15 les pigeons après les lésions de ces canaux devraient, d'après cette hypothèse, être regardés comme secondaires, c'est-à-dire comme étant provoqués indirectement par la perte de la faculté d'équilibrer la tête .
+Les mouvements désordonnés du corps qui s'observent chez [p. 15] 15 les pigeons après les lésions de ces canaux devraient, d'après cette hypothèse, être regardés comme secondaires, c'est-à-dire comme étant provoqués indirectement par la perte de la faculté d'équilibrer la tête .
 
 #### § 6
 
@@ -304,11 +268,7 @@ Nous aurons encore l'occasion de revenir sur mes opinions à ce sujet ; je me bo
 
 Avant d'aborder l'expérimentation sur les canaux semi-circulaires, j'ai cru utile de déterminer l'influence qu'une position anormale de la tête peut exercer sur la régularité des mouvements .
 
-En effet, les mouvements désordonnés de la tête étant le symptôme dominant d'une lésion des canaux, il était de première nécessité de décider si la perte de l'équilibre du corps n'était qu'une suite indirecte de ces mouvements. Cette néces
-
-[p. 16]
-
-16 sité me paraissait d'autant plus indiquée que déjà les expériences de Longet, sur les troubles des mouvements après la
+En effet, les mouvements désordonnés de la tête étant le symptôme dominant d'une lésion des canaux, il était de première nécessité de décider si la perte de l'équilibre du corps n'était qu'une suite indirecte de ces mouvements. Cette néces [p. 16] 16 sité me paraissait d'autant plus indiquée que déjà les expériences de Longet, sur les troubles des mouvements après la
 
 ### section de quelques muscles du cou, parlaient très-hautement
 
@@ -322,11 +282,7 @@ Aussitôt que les lésions se cicatrisent et que la tête commence à reprendre 
 
 Pour établir encore davantage que la perte de l'équilibre provient uniquement des oscillations de la tête, j'ai essayé de la fixer par un collier d'une construction spéciale ; cette fixation est plus difficile à obtenir qu'on ne le croirait ; mais, dans les cas où elle réussit, les troubles des mouvements disparaissent instantanément [^p16-1] .
 
-Dans le même ordre d'idées, je produisais chez les pigeons des attitudes anormales de la tête, en la fixant par quelques sutures à la peau, de manière que le bec fùt tourné en l'air, tandis que l'occiput était dirigé en bas . Dans ce cas où aucune
-
-[p. 17]
-
-lésion des parties importantes n'a été produite, les pigeons se comportaient exactement comme après la section des canaux semi-circulaires
+Dans le même ordre d'idées, je produisais chez les pigeons des attitudes anormales de la tête, en la fixant par quelques sutures à la peau, de manière que le bec fùt tourné en l'air, tandis que l'occiput était dirigé en bas . Dans ce cas où aucune [p. 17] lésion des parties importantes n'a été produite, les pigeons se comportaient exactement comme après la section des canaux semi-circulaires
 
 : même difficulté de maintenir l'équilibre , mêmes mouvements de manége, mêmes culbutes dans l'un ou dans l'autre sens, mêmes efforts pour trouver dans la tête ou dans la queue un troisième point d'appui.
 
@@ -354,9 +310,7 @@ DE CYON .
 
 3
 
-[p. 18]
-
-Nous avons pris les plus grands soins pour arriver à opérer par des procédés aussi nets et exacts que possible [^p18-1] .
+[p. 18] Nous avons pris les plus grands soins pour arriver à opérer par des procédés aussi nets et exacts que possible [^p18-1] .
 
 Si quelque part en physiologie les résultats à observer varient en grande partie avec la précision plus ou moins grande de l'expérimentation, c'est certes dans les expériences sur les canaux semi-circulaires .
 
@@ -372,9 +326,7 @@ Ces oscillations ayant cessé, on sectionne de la même manière le canal corres
 
 Le pigeon perd l'équilibre, il tombe à chaque pas en avant, tourne autour de l'axe vertical de son corps, exécute des mouvements de manége , etc.
 
-[p. 19]
-
-19
+[p. 19] 19
 
 Il suffit de fixer le bec d'un pigeon se trouvant dans ces conditions, en l'appuyant par exemple sur un doigt, pour qu'immédiatement tous ces mouvements désordonnés cessent. Aussitôt que la tête est immobile, le pigeon se calme. Sans cet appui du dehors , l'animal fait de longs efforts pour rattraper l'équilibre et arrêter ses mouvements ; il y réussit habituellement en s'appuyant sur la queue .
 
@@ -388,11 +340,7 @@ Huit ou dix jours après l'opération, le pigeon est le plus souvent compléteme
 
 Mais ces symptômes eux-mêmes finissent par disparaître et il ne reste de trace de l'opération qu'une certaine maladresse dans le vol .
 
-Cette issue favorable ne s'observe que quand l'opération a été exécutée avec beaucoup de soin ; quand toute perte de sang
-
-[p. 20]
-
-pendant l'opération a été évitée et surtout quand la section des deux canaux a été la seule lésion produite .
+Cette issue favorable ne s'observe que quand l'opération a été exécutée avec beaucoup de soin ; quand toute perte de sang [p. 20] pendant l'opération a été évitée et surtout quand la section des deux canaux a été la seule lésion produite .
 
 La série des phénomènes qui se déroule chez les pigeons après la section des canaux verticaux postérieurs [^p20-1] est identique à celle que nous venons de décrire. La différence ne consiste que dans la direction des mouvements. Ainsi les mouvements de la tête se font de bas en haut et de haut en bas , c'est-à-dire dans un plan vertical et autour d'un axe horizontal . Le corps aussi , au lieu d'exécuter les mouvements de manége ou de tourner autour d'un axe vertical comme après les lésions des canaux horizontaux, fait des culbutes autour de l'axe transversal de son corps, comme si tout le corps était entraîné par le mouvement violent de bas en haut de la tête .
 
@@ -402,11 +350,7 @@ Il reste encore à ajouter qu'en général tous les mouvements exécutés après
 
 La marche des perturbations après l'opération est la même que celle décrite plus haut : après huit à douze jours, ces perturbations disparaissent presque complétement en ne laissant qu'une certaine gêne dans les mouvements brusques et une presque impossibilité de voler.
 
-L'issue de l'opération est rarement aussi favorable quand elle était accompagnée d'une perte de sang un peu considérable ou quand les parties environnantes ont subi des lésions plus ou moins profondes. Quel que soit le canal lésé, on observe dans
-
-[p. 21]
-
-21 ce cas quelques jours après l'opération les symptômes d'une forte irritation du cervelet ; le pigeon est constamment agité ;
+L'issue de l'opération est rarement aussi favorable quand elle était accompagnée d'une perte de sang un peu considérable ou quand les parties environnantes ont subi des lésions plus ou moins profondes. Quel que soit le canal lésé, on observe dans [p. 21] 21 ce cas quelques jours après l'opération les symptômes d'une forte irritation du cervelet ; le pigeon est constamment agité ;
 
 la moindre secousse produit chez lui de fortes convulsions musculaires . Souvent l'animal succombe après quelques jours et l'autopsie permet de constater une forte hyperémie, quelquefois même une suppuration du cervelet. Dans les cas de guérison , le pigeon garde habituellement une attitude anormale de la tête et les troubles des mouvements peuvent se produire encore longtemps après, presque avec le même caractère qu'aussitôt après l'opération .
 
@@ -420,11 +364,7 @@ Chez des pigeons ayant les deux canaux coupés de deux côtés , j'ai essayé de
 
 Malgré cette difficulté, j'ai pu arrêter avec un collier en carton les mouvements d'un pigeon au moins pendant qu'il restait sur une surface molle ou inégale. Sur un plancher. verni le maintien de l'équilibre lui était impossible malgré la fixation de la tête .
 
-N'ayant pas dans ce moment réussi à opérer avec la même précision sur le canal vertical supérieur, je me suis abstenu de
-
-[p. 22]
-
-22 parler dans mon premier mémoire des troubles qui surviennent chez les pigeons après les lésions de ce canal . J'y reviendrai plus loin .
+N'ayant pas dans ce moment réussi à opérer avec la même précision sur le canal vertical supérieur, je me suis abstenu de [p. 22] 22 parler dans mon premier mémoire des troubles qui surviennent chez les pigeons après les lésions de ce canal . J'y reviendrai plus loin .
 
 Pour pouvoir mieux me rendre compte du mécanisme des mouvements qu'on observe chez les pigeons après la lésion des canaux semi-circulaires, j'ai divisé ces mouvements en trois groupes .
 
@@ -436,11 +376,7 @@ Nous avons déclaré pour deux raisons la perte de la faculté de maintenir le c
 
 2º la nature des mouvements que nous avons rapportés au second groupe ne laisse pas de doute sur ce que les canaux semi- circulaires jouent un grand ròle dans l'orientation de notre corps dans l'espace . Ce second point exige un développement spécial .
 
-La disposition anatomique des trois canaux semi-circulaires, dont les directions représentent exactement les coordonnées des trois dimensions de l'espace, indique déjà jusqu'à un certain point que ces canaux ont une certaine relation avec notre faculté de nous orienter dans l'espace. L'analyse détaillée des
-
-[p. 23]
-
-mouvements qui apparaissent après la section de chaque paire de canaux prête de nouveaux appuis à cette considération . En effet , la lésion des deux canaux horizontaux amène les mouvements de la tête et du corps entier dans un plan horizontal parallèle à la direction des canaux lésés .
+La disposition anatomique des trois canaux semi-circulaires, dont les directions représentent exactement les coordonnées des trois dimensions de l'espace, indique déjà jusqu'à un certain point que ces canaux ont une certaine relation avec notre faculté de nous orienter dans l'espace. L'analyse détaillée des [p. 23] mouvements qui apparaissent après la section de chaque paire de canaux prête de nouveaux appuis à cette considération . En effet , la lésion des deux canaux horizontaux amène les mouvements de la tête et du corps entier dans un plan horizontal parallèle à la direction des canaux lésés .
 
 Au contraire, la section de deux canaux verticaux postérieurs provoque des mouvements dans un plan vertical parallèle aux canaux sectionnés . Enfin, la section des deux paires de canaux produit des mouvements dont la direction est la résultante des deux directions que je viens de désigner .
 
@@ -456,11 +392,7 @@ si vite après l'opération .
 
 Le rétablissement de notions justes sur la position de notre corps, et par conséquent le rétablissement de l'équilibre, devient bien autrement pénible et laborieux quand, au lieu d'un canal, on sectionne deux canaux correspondants .
 
-Dans ce cas , il se passe souvent des jours, et même des semaines , avant que l'animal , à l'aide des canaux restés intacts
-
-[p. 24]
-
-et à l'aide des autres organes des sens, parvienne enfin à corriger les troubles apportés dans ses notions .
+Dans ce cas , il se passe souvent des jours, et même des semaines , avant que l'animal , à l'aide des canaux restés intacts [p. 24] et à l'aide des autres organes des sens, parvienne enfin à corriger les troubles apportés dans ses notions .
 
 Comme mes autres expériences ont montré qu'une fausse position de la tète produite subitement suffisait déjà pour faire perdre aux animaux l'équilibre de tout le corps, je me suis cru autorisé à conclure de mes expériences sur les canaux qu'ils n'agissent sur l'équilibre du corps qu'en nous communiquant des notions justes sur la position de notre tête dans l'espace .
 
@@ -482,11 +414,7 @@ Les conclusions de mes premières recherches .
 
 Voici en résumé les résultats de mon premier travail sur les canaux semi-circulaires, tels qu'ils ont été formulés dans mon mémoire publié en 1873 , dans les Archives de M. Pflüger :
 
-1 ° Pour conserver l'équilibre de notre corps, il nous est
-
-[p. 25]
-
-25 indispensable d'avoir une notion juste sur la position de notre tête dans l'espace .
+1 ° Pour conserver l'équilibre de notre corps, il nous est [p. 25] 25 indispensable d'avoir une notion juste sur la position de notre tête dans l'espace .
 
 2º Les fonctions des canaux semi-circulaires consistent à nous communiquer, à l'aide de sensations inconscientes, la représentation juste de cette position. Chaque canal a une relation déterminée avec une des dimensions de l'espace.
 
@@ -528,9 +456,7 @@ DE CYON .
 
 4
 
-[p. 26]
-
-La natation se modifie d'une manière très-caractéristique :
+[p. 26] La natation se modifie d'une manière très-caractéristique :
 
 la grenouille, en nageant, soulève tantòt une moitié, tantôt l'autre moitié de son corps, en oscillant autour de son axe longitudinal .
 
@@ -552,11 +478,7 @@ Objections de M. Böttcher .
 
 Les premiers travaux sur les canaux semi-circulaires qui ont paru bientôt après le mien sont ceux de MM . Mach, Crum Brown et Breuer. Mais, avant de passer à l'examen de ces travaux , je dois encore mentionner une communication de M. le professeur Böttcher de Dorpat, qui pouvait rendre toute nouvelle recherche sur les canaux semi-circulaires inutile .
 
-Se basant sur le défaut de précision dans les procédés opératoires de quelques physiologistes qui ont publié des recherches sur les phénomènes de Flourens, M. Böttcher considérait ces phénomènes comme étant la suite des lésions du cervelet ou des parties voisines du cerveau ; une section des canaux semi-circu
-
-[p. 27]
-
-27 laires qui n'était pas accompagnée de pareilles lésions secondaires devait, d'après lui, rester sans influence aucune sur les troubles des mouvements décrits par Flourens. Tout en admettant que des procédés opératoires, tels que les a employés par exemple M. Goltz, ne soient pas exempts du reproche de produire des lésions dans les parties avoisinantes, nous ne pouvons accepter les reproches de M. Böttcher ni pour les expériences de Flourens , ni pour celles de MM . Vulpian, Lœwenberg ou les miennes .
+Se basant sur le défaut de précision dans les procédés opératoires de quelques physiologistes qui ont publié des recherches sur les phénomènes de Flourens, M. Böttcher considérait ces phénomènes comme étant la suite des lésions du cervelet ou des parties voisines du cerveau ; une section des canaux semi-circu [p. 27] 27 laires qui n'était pas accompagnée de pareilles lésions secondaires devait, d'après lui, rester sans influence aucune sur les troubles des mouvements décrits par Flourens. Tout en admettant que des procédés opératoires, tels que les a employés par exemple M. Goltz, ne soient pas exempts du reproche de produire des lésions dans les parties avoisinantes, nous ne pouvons accepter les reproches de M. Böttcher ni pour les expériences de Flourens , ni pour celles de MM . Vulpian, Lœwenberg ou les miennes .
 
 Les symptômes d'une affection du cervelet, qu'on observe de temps en temps sur les pigeons, n'apparaissent que plusieurs jours après l'opération et quand celle-ci a été mal exécutée , tandis que les phénomènes de Flourens suivent instantanément la lésion des canaux membraneux .
 
@@ -568,11 +490,7 @@ Comme nous l'avons vu plus haut, les troubles des mouvements diffèrent considé
 
 Outre cette objection que j'ai déjà produite contre M. Böttcher dans une annotation à la publication russe de mon travail [^p27-1] , il en existe encore une autre qui ne laisse pas de doute sur la question en litige .
 
-Quand, au lieu de sectionner deux canaux symétriques , on opère par exemple d'un côté sur un canal horizontal , de l'autre
-
-[p. 28]
-
-sur un canal vertical , on n'observe aucun désordre dans les mouvements . Les lésions secondaires du cerveau ou du cervelet ne sont donc pour rien dans la production de ces désordres .
+Quand, au lieu de sectionner deux canaux symétriques , on opère par exemple d'un côté sur un canal horizontal , de l'autre [p. 28] sur un canal vertical , on n'observe aucun désordre dans les mouvements . Les lésions secondaires du cerveau ou du cervelet ne sont donc pour rien dans la production de ces désordres .
 
 Même absence des phénomènes de Flourens quand on sectionne deux canaux du même côté. Outre les quelques oscillations de la tête qui suivent la section de chaque canal , aucun autre phénomène ne se produit .
 
@@ -592,11 +510,7 @@ Ses considérations théoriques sont développées avec une grande hauteur de vu
 
 Quoique M. Mach se soit également abstenu de l'expérimentation directe sur les canaux semi-circulaires, son ouvrage ne contient pas moins un grand nombre d'autres expériences pleines d'intérêt ; ces expériences gardent toutes leur valeur, malgré leur peu d'application à la physiologie des canaux semi-circulaires , à laquelle M. Mach a essayé de les rattacher.
 
-Nous pouvons d'autant plus nous borner à n'analyser que les vues de M. Mach que les deux autres auteurs se sont depuis
-
-[p. 29]
-
-1
+Nous pouvons d'autant plus nous borner à n'analyser que les vues de M. Mach que les deux autres auteurs se sont depuis [p. 29] 1
 
 29 rapprochés de ses vues sur presque tous les points, par lesquels ils différaient au commencement .
 
@@ -612,9 +526,7 @@ A l'aide d'un appareil consistant dans un cadre muni d'un siége qui tous deux p
 
 Ces expériences ont eu pour but principal d'étudier d'une manière plus exacte les sensations du vertige et celles du mouvement. La conclusion principale à laquelle il est arrivé est celle que « nous ne percevons que l'accélération angulaire et non la vitesse angulaire » .
 
-[p. 30]
-
-30 D'autres expériences l'ont convaincu que les sensations produites par l'accélération angulaire durent plus longtemps que l'accélération elle-même, et que la position de la tête, pendant ces mouvements, a une influence prépondérante sur la nature de ces sensations, et sur la possibilité que nous avons d'en déterminer la direction .
+[p. 30] 30 D'autres expériences l'ont convaincu que les sensations produites par l'accélération angulaire durent plus longtemps que l'accélération elle-même, et que la position de la tête, pendant ces mouvements, a une influence prépondérante sur la nature de ces sensations, et sur la possibilité que nous avons d'en déterminer la direction .
 
 Variant l'angle que formaient entre eux le siège sur lequel il .
 
@@ -628,11 +540,7 @@ Dans ce but, il passe en revue tous les organes qui pourraient être le siége d
 
 M. Mach passe ensuite à l'analyse des déplacements considérables que doit subir la masse sanguine pendant la rotation du corps, et trouve peu probable que les sensations de ces déplacements puissent nous permettre de définir le sens et la direction de cette rotation .
 
-Cette dernière exclusion amène M. Mach à discuter plus au long les phénomènes visuels qu'on observe pendant la rotation de notre corps et à rechercher si les déplacements des
-
-[p. 31]
-
-31 globes oculaires ne suffiraient pas pour en rendre compte .
+Cette dernière exclusion amène M. Mach à discuter plus au long les phénomènes visuels qu'on observe pendant la rotation de notre corps et à rechercher si les déplacements des [p. 31] 31 globes oculaires ne suffiraient pas pour en rendre compte .
 
 Nous avons rappelé plus haut que Purkinje attribuait une grande importance à ces déplacements ; d'après lui, la tendance du globe oculaire à fixer les objets pendant la rotation de la tète a pour effet que les yeux ne suivent pas ce mouvement avec la même vitesse ; ils s'attardent pour ainsi dire en route, et ne reprennent leur position normale dans l'orbite qu'un peu plus tard. Le vertige qui nous fait croire que les objets qui nous entourent continuent à tourner autour de nous , consisterait , d'après cette théorie de Purkinje, dans un déplacement du champ visuel produit par le mouvement des globes oculaires et que nous attribuons d'une manière tout à fait inconsciente aux objets eux-mêmes ; habitués que nous sommes de juger les changements de position des objets environnants par les sensations que provoque la contraction des muscles du globe oculaire , pendant qu'avec nos yeux nous suivons ces objets .
 
@@ -644,9 +552,7 @@ Mais , comme pendant ce retour à la position normale les objets extérieurs pas
 
 Quelle que soit la valeur de cette modification apportée par
 
-[p. 32]
-
-M. Breuer à la théorie du vertige donnée par Purkinje, elle aussi ne satisfait pas complétement M. Mach .
+[p. 32] M. Breuer à la théorie du vertige donnée par Purkinje, elle aussi ne satisfait pas complétement M. Mach .
 
 Certaines observations faites pendant ses expériences sur lui-même lui ont montré que le mouvement apparent des objets
 
@@ -674,13 +580,9 @@ semi - circulaires
 
 serait
 
-cet >> organe (B) dont nous venons de développer le schéma. Il est
+cet >> organe (B) dont nous venons de développer le schéma. Il est [p. 33] 33 >> probable que, pour les deux premiers cas, existent des nerfs >> spéciaux distincts de ceux qui servent au troisième . Quand >> nous étudions les canaux semi-circulaires, ils nous paraissent >> surtout bien désignés pour satisfaire à ce principe de la con>> servation des aires .
 
-[p. 33]
-
-33 >> probable que, pour les deux premiers cas, existent des nerfs >> spéciaux distincts de ceux qui servent au troisième . Quand >> nous étudions les canaux semi-circulaires, ils nous paraissent >> surtout bien désignés pour satisfaire à ce principe de la con>> servation des aires .
-
->> Pendant chaque accélération angulaire autour d'un axe >> vertical ou dans le plan d'un canal, son contenu doit exercer >> une traction dans le sens inverse qui se communiquerait >> aux nerfs des ampoules comme signe de cette accélération >>> angulaire . » (Loc. cit. , p. 103.)
+>> Pendant chaque accélération angulaire autour d'un axe >> vertical ou dans le plan d'un canal, son contenu doit exercer >> une traction dans le sens inverse qui se communiquerait >> aux nerfs des ampoules comme signe de cette accélération >>> angulaire . » (*Loc. cit.* , p. 103.)
 
 D'après la loi des énergies spécifiques donnée par J. Müller, << les nerfs des ampoules ont l'énergie spécifique de répondre à >> chaque excitation quelle que soit sa nature, par une sensa>> tion de rotation ....
 
@@ -688,9 +590,7 @@ D'après la loi des énergies spécifiques donnée par J. Müller, << les nerfs 
 
 Nous arrêtons là nos citations . Tachons de résumer les opinions de M. Mach .[^p33-1][^p33-2][^p33-3]
 
-[p. 34]
-
-34 au principe de la conservation des aires , ce liquide devrait exécuter un mouvement dans un sens opposé au mouvement du canal osseux. Ce mouvement du liquide, ou plutôt cette tendance de mouvement pendant chaque accélération angulaire des canaux, produit, d'après M. Mach, les sensations du mouvement qui provoquent le vertige (de Purkinje) et les phénomènes de Flourens .
+[p. 34] 34 au principe de la conservation des aires , ce liquide devrait exécuter un mouvement dans un sens opposé au mouvement du canal osseux. Ce mouvement du liquide, ou plutôt cette tendance de mouvement pendant chaque accélération angulaire des canaux, produit, d'après M. Mach, les sensations du mouvement qui provoquent le vertige (de Purkinje) et les phénomènes de Flourens .
 
 Comme je l'ai déja mentionné plus haut, MM. Breuer et Crum Brown donnent, sur les fonctions des canaux semi-circulaires , des théories complétement conformes à celle de M. Mach, quoique moins complètes et moins bien développées .
 
@@ -704,11 +604,7 @@ Outre cela, un grand nombre d'observations que j'ai eu l'occasion de faire penda
 
 Dans une question aussi délicate que celle des fonctions des canaux semi-circulaires et aussi riche en observations contradictoires, une théorie qui prétend expliquer tous les phénomènes sans laisser subsister le moindre point litigieux doit déjà, par cela même, inspirer un peu de méfiance .
 
-Une reprise des recherches sur cette question ne me paraissait donc point inutile, et je me suis livré, sur ce point, à de nom
-
-[p. 35]
-
-breuses expériences dont les résultats seront exposés dans la suite de ce travail [^p35-1] .
+Une reprise des recherches sur cette question ne me paraissait donc point inutile, et je me suis livré, sur ce point, à de nom [p. 35] breuses expériences dont les résultats seront exposés dans la suite de ce travail [^p35-1] .
 
 #### § 11
 
@@ -734,9 +630,7 @@ des
 
 dimensions de l'espace . La perte de l'équilibre et les autres troubles des mouvements ne sont que la suite des perturbations apportées à ces sensations par la section des canaux .
 
-[p. 36]
-
-MM. Mach , Crum Brown et Breuer .
+[p. 36] MM. Mach , Crum Brown et Breuer .
 
 Les canaux semicirculaires sont les organes des sensations de l'accélération du mouvement ou les organes du sens de rotation ; ces sensations sont provoquées par la tendance de l'endolymphe à exécuter un mouvement dans le sens opposé au mouvement du canal membraneux pendant la rotation de la tète ; le vertige de Purkinje repose sur ces excitations des canaux semi-circulaires [^p36-1] .
 
@@ -744,11 +638,7 @@ Dans son second mémoire M. Breuer, en citant textuellement mes opinions exprim�
 
 Ce dernier physiologiste, qui n'a produit que des lésions profondes de quatre canaux à la fois, a été surtout frappé par les graves désordres des mouvements et de l'équilibre ; il a été amené par là à conclure que les canaux semi-circulaires ont pour fonction la coordination des mouvements et l'équilibre de notre corps .
 
-MM . Breuer et Mach croient à tort que c'est M. Goltz qui est arrivé le premier à cette conclusion : Flourens l'a déjà formulée il y a cinquante ans et, comme nous verrons plus tard, sa manière de comprendre l'intervention des canaux semi-circulaires dans la coordination des mouvements se rapproche plus de la vérité que celle de M. Goltz. Ce qui fait le principal mérite du mémoire de M. Goltz, c'est que, le premier, il a essayé
-
-[p. 37]
-
-37 de donner une explication scientifique du mécanisme, par lequel ces canaux accomplissent leur fonction . L'hypothèse sur le rôle de l'endolymphe dans ce mécanisme, hypothèse qui a servi de base aux raisonnements de MM. Mach, Crum Brown et Breuer, fait la partie originale du mémoire de M. Goltz .
+MM . Breuer et Mach croient à tort que c'est M. Goltz qui est arrivé le premier à cette conclusion : Flourens l'a déjà formulée il y a cinquante ans et, comme nous verrons plus tard, sa manière de comprendre l'intervention des canaux semi-circulaires dans la coordination des mouvements se rapproche plus de la vérité que celle de M. Goltz. Ce qui fait le principal mérite du mémoire de M. Goltz, c'est que, le premier, il a essayé [p. 37] 37 de donner une explication scientifique du mécanisme, par lequel ces canaux accomplissent leur fonction . L'hypothèse sur le rôle de l'endolymphe dans ce mécanisme, hypothèse qui a servi de base aux raisonnements de MM. Mach, Crum Brown et Breuer, fait la partie originale du mémoire de M. Goltz .
 
 Tout autre a été ma manière d'envisager les fonctions des canaux semi-circulaires. Avant tout, je n'admettais pas (et je n'admets pas encore) l'existence d'organes distincts centraux ou périphériques ayant pour fonction exclusive la coordination des mouvements .
 
@@ -758,17 +648,13 @@ Déjà dans mes monographies sur la chorée et l'ataxie locomotrice, je me suis 
 
 organes de coordination .
 
-Dès que je suis arrivé à bien distinguer les différents caractères des mouvements qu'on observe après la lésion des différents canaux , mon attention a été surtout attirée sur la disposition anatomique des trois canaux qui correspond aux trois dimensions de l'espace, et sur les rapports qui peuvent exister entre cette disposition et nos notions sur ces dimensions . Dans ma communication , j'ai analysé d'après M. Helmholtz la manière dont se forme notre jugement, sur les objets situés dans notre champ visuel , grâce aux sensations inconscientes des mus
-
-[p. 38]
-
-38 cles du globe oculaire ainsi que des muscles de la tête . C'est en me plaçant à ce point de vue, que j'ai discuté l'importance que nos connaissances sur la position de la tête dans l'espace, peuvent avoir pour l'équilibre de notre corps. L'expérience mentionnée plus haut concernant la production d'un strabisme artificiel et l'observation des troubles dans l'équilibre du corps qui s'en sont suivis ont été conçues dans le même ordre d'idées . Ceci indique par conséquent clairement que même sur l'unique point sur lequel je me suis rencontré avec M. Goltz , à savoir sur le rôle de la position de la tête par rapport à l'équilibre du corps, nos vues étaient au fond bien différentes .
+Dès que je suis arrivé à bien distinguer les différents caractères des mouvements qu'on observe après la lésion des différents canaux , mon attention a été surtout attirée sur la disposition anatomique des trois canaux qui correspond aux trois dimensions de l'espace, et sur les rapports qui peuvent exister entre cette disposition et nos notions sur ces dimensions . Dans ma communication , j'ai analysé d'après M. Helmholtz la manière dont se forme notre jugement, sur les objets situés dans notre champ visuel , grâce aux sensations inconscientes des mus [p. 38] 38 cles du globe oculaire ainsi que des muscles de la tête . C'est en me plaçant à ce point de vue, que j'ai discuté l'importance que nos connaissances sur la position de la tête dans l'espace, peuvent avoir pour l'équilibre de notre corps. L'expérience mentionnée plus haut concernant la production d'un strabisme artificiel et l'observation des troubles dans l'équilibre du corps qui s'en sont suivis ont été conçues dans le même ordre d'idées . Ceci indique par conséquent clairement que même sur l'unique point sur lequel je me suis rencontré avec M. Goltz , à savoir sur le rôle de la position de la tête par rapport à l'équilibre du corps, nos vues étaient au fond bien différentes .
 
 Quant à l'hypothèse de M. Goltz sur le rôle que joue le liquide contenu dans les canaux membraneux dans leur fonctionnement, je me suis abstenu dans mon mémoire de la discuter .
 
 J'ai pratiqué la même abstention même en publiant une année après une traduction russe de mon mémoire, quoique dans l'intervalle aient paru les recherches de MM. Mach, Crum Brown et Breuer, qui sont basées en plus grande partie sur cette hypothèse : tellement elle me paraissait en contradiction avec les résultats de l'expérimentation !
 
-### Chapitre ii
+### Chapitre II
 
 NOUVELLES RECHERCHES DE L'AUTEUR .
 
@@ -780,11 +666,7 @@ En passant maintenant à l'exposé de mes nouvelles recherches, je les communiqu
 
 Nous commencerons par les expériences sur le rôle que le mouvement de l'endolymphe, contenue dans les canaux membraneux, peut jouer dans leur fonctionnement .
 
-Les différents auteurs ne comprennent pas ce ròle de la même façon . M. Goltz suppose que les deux ampoules doivent
-
-[p. 39]
-
-être tendues d'une manière plus ou moins forte, d'après la hauteur de la colonne du liquide qui pèse sur elles. Cette manière de voir n'est pas tout à fait exacte, vu que les canaux membraneux eux-mêmes sont plongés dans un liquide d'un poids spécifique, presque égal à celui de l'endolymphe qui les remplit.
+Les différents auteurs ne comprennent pas ce ròle de la même façon . M. Goltz suppose que les deux ampoules doivent [p. 39] être tendues d'une manière plus ou moins forte, d'après la hauteur de la colonne du liquide qui pèse sur elles. Cette manière de voir n'est pas tout à fait exacte, vu que les canaux membraneux eux-mêmes sont plongés dans un liquide d'un poids spécifique, presque égal à celui de l'endolymphe qui les remplit.
 
 Dans ces conditions, les pressions sur les surfaces extérieure et intérieure des parois devraient se contre-balancer mutuellement.
 
@@ -794,11 +676,7 @@ MM . Crum Brown et Breuer ont proposé une autre explication de la manière dont
 
 Ces auteurs supposent que le liquide contenu dans chaque canal semi-circulaire est mis en mouvement dans une direction opposée à celle du canal lui-même, pendant les mouvements de la tête. Cette supposition pourrait trouver une certaine application, s'il ne s'agissait pas de canaux d'un diamètre capillaire , dans lesquels tout mouvement du liquide serait détruit par la résistance des parois et le frottement des couches liquides entre elles. Cette dernière source de résistance devrait être d'autant plus considérable que nous avons affaire ici à un liquide très-visqueux. Cette impossibilité n'a pas échappé à la sagacité de M. Mach . Il a donc recours pour expliquer l'action de l'endolymphe, comme excitant les terminaisons nerveuses dans les ampoules, à une autre hypothèse :
 
-il admet que ces terminaisons ne sont excitées que par la pression momentanée que le liquide exerce sur les parois des
-
-[p. 40]
-
-canaux dans une direction opposée au mouvement du canal.
+il admet que ces terminaisons ne sont excitées que par la pression momentanée que le liquide exerce sur les parois des [p. 40] canaux dans une direction opposée au mouvement du canal.
 
 Mais l'hypothèse de M. Mach est aussi inadmissible au point de vue physiologique que celle de M. Breuer l'est au point de vue physique . Voici pourquoi :
 
@@ -808,11 +686,7 @@ M. Mach essaye de tourner cette difficulté par plusieurs autres suppositions qu
 
 Ainsi toutes les corrections apportées dans ce dernier temps à l'hypothèse de M. Goltz, sur le rôle de l'endolymphe, sont en contradiction, les unes avec les lois de l'hydrodynamique, les autres avec les lois psychophysiques. Nous aurions pu citer encore d'autres objections, purement théoriques, contre cette hypothèse, tirées en partie de la position des ampoules pendant les mouvements de la tête, en partie de quelques observations faites pendant l'expérimentation sur les canaux. Aussi, tous ceux parmi les auteurs qui ont réellement fait un grand nombre d'expériences sur ces canaux, comme MM . Curschmann , Barthold, Bornhardt et d'autres, se sont toujours refusés à adopter l'hypothèse de M. Goltz .
 
-J'ai néanmoins cru nécessaire de faire quelques expériences dans le but spécial de vérifier la valeur réelle de cette hypothèse . Vu l'impossibilité de varier directement la pression intérieure des canaux membraneux, sans risquer de léser leurs parois, j'ai dû me borner à modifier cette pression d'une manière indirecte . Il est évident que si le moindre changement de pression intérieure suffisait pour produire les phénomènes de
-
-[p. 41]
-
-41 Flourens , nous devrions observer ces phénomènes chaque fois que nous augmentons ou diminuons la pression extérieure sur les parois des canaux. Chaque pression extérieure sur les parois des canaux membraneux doit déplacer à l'endroit correspondant une partie de l'endolymphe et produire par conséquent cette « tendance au mouvement » de M. Mach, qui doit exciter les terminaisons nerveuses .
+J'ai néanmoins cru nécessaire de faire quelques expériences dans le but spécial de vérifier la valeur réelle de cette hypothèse . Vu l'impossibilité de varier directement la pression intérieure des canaux membraneux, sans risquer de léser leurs parois, j'ai dû me borner à modifier cette pression d'une manière indirecte . Il est évident que si le moindre changement de pression intérieure suffisait pour produire les phénomènes de [p. 41] 41 Flourens , nous devrions observer ces phénomènes chaque fois que nous augmentons ou diminuons la pression extérieure sur les parois des canaux. Chaque pression extérieure sur les parois des canaux membraneux doit déplacer à l'endroit correspondant une partie de l'endolymphe et produire par conséquent cette « tendance au mouvement » de M. Mach, qui doit exciter les terminaisons nerveuses .
 
 Le moyen le plus simple d'obtenir un pareil changement de pression consiste à ouvrir avec précaution les canaux osseux dans plusieurs endroits et sur un parcours assez grand ; la périlymphe s'écoule alors très-facilement et est remplacée par de l'air.
 
@@ -822,11 +696,7 @@ Une autre expérience que j'ai instituée est encore plus concluante. Au lieu d'
 
 E. DE CYON .
 
-6
-
-[p. 42]
-
-42 resserrement et l'aplatissement du canal membraneux . Dans ce cas, le système des canaux membraneux, dont la pression intérieure a beaucoup diminué, se rétrécit d'une manière relativement assez considérable. Si les hypothèses de MM . Goltz et Mach étaient fondées, les phénomènes de Flourens devraient se produire dans cette expérience avec une violence excessive :
+6 [p. 42] 42 resserrement et l'aplatissement du canal membraneux . Dans ce cas, le système des canaux membraneux, dont la pression intérieure a beaucoup diminué, se rétrécit d'une manière relativement assez considérable. Si les hypothèses de MM . Goltz et Mach étaient fondées, les phénomènes de Flourens devraient se produire dans cette expérience avec une violence excessive :
 
 pourtant aucun de ces phénomènes ne s'est manifesté .
 
@@ -836,11 +706,7 @@ Malgré ces difficultés, j'ai réussi à pratiquer dans plusieurs expériences 
 
 Il est pourtant inadmissible que dans ces conditions il puisse se produire un changement quelconque de la pression intérieure dans les canaux membraneux ; car toute variation de pression est impossible sans une dilatation quelconque des parois du canal ; or, la gaîne solide qui enveloppait ces canaux rendait toute extension impossible .
 
-Dans d'autres expériences, j'introduisais dans le canal osseux des bâtonnets très-minces de laminaria, tout en ayant soin de
-
-[p. 43]
-
-43 ne pas blesser les canaux membraneux. L'imbibition et le gonflement de ces bâtonnets comprime d'une manière assez considérable les canaux membraneux ; mais, grâce à la compression très-lente, aucun des phénomènes de Flourens ne s'observe les premiers jours après l'expérience. Il suffit, par contre, de sectionner les canaux membraneux ainsi comprimés, pour provoquer instantanément ces phénomènes .
+Dans d'autres expériences, j'introduisais dans le canal osseux des bâtonnets très-minces de laminaria, tout en ayant soin de [p. 43] 43 ne pas blesser les canaux membraneux. L'imbibition et le gonflement de ces bâtonnets comprime d'une manière assez considérable les canaux membraneux ; mais, grâce à la compression très-lente, aucun des phénomènes de Flourens ne s'observe les premiers jours après l'expérience. Il suffit, par contre, de sectionner les canaux membraneux ainsi comprimés, pour provoquer instantanément ces phénomènes .
 
 Toutes ces expériences ne laissent dans mon esprit aucun doute sur le mal fondé de l'hypothèse de M. Goltz, même dans la forme que lui a donnée M. Mach .
 
@@ -848,11 +714,7 @@ Nous voulons, pour terminer, attirer l'attention encore sur un fait, qui rend à
 
 Or, si la membrane de la fenêtre ronde est assez flexible pour permettre des déplacements de l'endolymphe, suffisamment considérables pour pouvoir produire des excitations nerveuses , il est évident qu'elle ne pourrait pas non plus empêcher les mêmes pulsations de se produire même quand le canal osseux reste fermé. L'hypothèse de M. Mach admise, nous devrions donc avoir des excitations rhythmiques des terminaisons nerveuses dans les ampoules .
 
-Tout ce qui précède n'empèche pas naturellement que la présence de l'endolymphe ne soit nécessaire pour le fonctionnement des canaux semi-circulaires ; les expériences que je viens d'exposer démontrent que ce n'est pas dans les varia
-
-[p. 44]
-
-44 tions de pression de ce liquide qu'il faut chercher la cause d'excitation des canaux semi-circulaires .
+Tout ce qui précède n'empèche pas naturellement que la présence de l'endolymphe ne soit nécessaire pour le fonctionnement des canaux semi-circulaires ; les expériences que je viens d'exposer démontrent que ce n'est pas dans les varia [p. 44] 44 tions de pression de ce liquide qu'il faut chercher la cause d'excitation des canaux semi-circulaires .
 
 #### § 13
 
@@ -862,15 +724,11 @@ En poursuivant la recherche des preuves pour ou contre les théories de MM . Mac
 
 Parmi les nombreuses expériences instituées par M. Mach, il s'en trouve plusieurs faites sur des lapins qu'il a soumis à la rotation passive sur un excentrique . Cette rotation produit chez les lapins un vertige qui se manifeste de la manière suivante : aussitôt la rotation passive interrompue et les lapins laissés libres , ils exécutent encore plusieurs rotations involontaires autour de l'axe longitudinal de leur corps, ou quelques mouvements de manége. M. Mach a comparé avec raison ces symptômes de vertige avec ceux décrits par Purkinje . Mais, en voulant rattacher ces phénomènes aux troubles provoqués dans les canaux circulaires par la rotation du corps, il propose d'en chercher la preuve dans l'expérience suivante :
 
-<<Une expérience importante, dit M. Mach (loc. cit. , p . 126), consisterait à imprimer un mouvement de rotation à un animal dont le nerf acoustique est sectionné. Ces animaux ne doivent plus subir le vertige de rotation ..... M. Breuer affirme qu'en effet il n'a pu observer ce vertige chez les pigeons, dont les canaux étaient détruits .
+<<Une expérience importante, dit M. Mach (*loc. cit.* , p . 126), consisterait à imprimer un mouvement de rotation à un animal dont le nerf acoustique est sectionné. Ces animaux ne doivent plus subir le vertige de rotation ..... M. Breuer affirme qu'en effet il n'a pu observer ce vertige chez les pigeons, dont les canaux étaient détruits .
 
 >>
 
-Cette dernière affirmation de M. Breuer est des plus hasardées . Comme nous verrons plus loin, les troubles des mouvements chez les pigeons ainsi opérés, sont si intenses, qu'il est complétement impossible d'instituer encore sur eux des observations sur le vertige. Ce n'est qu'en sectionnant les deux nerfs acoustiques qu'on peut élucider cette question. Pour des raisons faciles à comprendre, les lapins sont préférables aux pigeons pour ce genre d'expériences. Mais , même chez le
-
-[p. 45]
-
-45 lapin, la section isolée des nerfs acoustiques n'est pas une opération aisée .
+Cette dernière affirmation de M. Breuer est des plus hasardées . Comme nous verrons plus loin, les troubles des mouvements chez les pigeons ainsi opérés, sont si intenses, qu'il est complétement impossible d'instituer encore sur eux des observations sur le vertige. Ce n'est qu'en sectionnant les deux nerfs acoustiques qu'on peut élucider cette question. Pour des raisons faciles à comprendre, les lapins sont préférables aux pigeons pour ce genre d'expériences. Mais , même chez le [p. 45] 45 lapin, la section isolée des nerfs acoustiques n'est pas une opération aisée .
 
 Nous avons employé trois méthodes différentes pour opérer cette section
 
@@ -880,19 +738,11 @@ La première consistait à ouvrir
 
 Dans le second procédé, on fait deux petites ouvertures dans l'os occipital de deux côtés des ligaments occipito-atloïdiens postérieurs. Par ces ouvertures , on découvre facilement les dernières paires des nerfs crâniens ; guidé par eux, on arrive aux deux nerfs acoustiques. Avec ce procédé, on voit les nerfs , avant de les sectionner. Quand après plusieurs opérations exécutées selon ce procédé, on est arrivé à être bien orienté dans la région en question, alors on peut avoir recours au troisième procédé opératoire qui, lui, évite la trépanation du crâne. II n'exige que l'enlèvement d'une partie des ligaments occipitoatloïdiens postérieurs . En se servant d'un couteau dans le genre de celui que Claude Bernard a indiqué pour la section des nerfs crâniens, on peut parvenir jusqu'au nerf acoustique, en rasant la base du crâne et en évitant de blesser les autres nerfs .
 
-C'est à ce dernier procédé que je donnais la préférence toutes
+C'est à ce dernier procédé que je donnais la préférence toutes [p. 46] 46 les fois que je n'étais pas obligé d'ouvrir la cavité cylindrique déjà indiquée pour opérer aussi sur les canaux. Les résultats de ces sections sont décrits plus loin ; ici il suffit d'indiquer que les lapins ayant les deux nerfs acoustiques sectionnés présentent, après avoir été soumis aux rotations sur l'excentrique, les mèmes symptômes de vertige que ceux que M. Mach a observés chez le lapin normal. Tout le système de raisonnements par lequel MM. Mach et Crum Brown sont arrivés à voir dans cette observation la preuve que les canaux semi-circulaires sont des organes destinés à indiquer chaque rotation de la tête par une sensation spécifique de rotation, sensation destinée à provoquer des mouvements compensateurs, tout ce système, dis-je, devient insoutenable par le fait [^p46-1] que les mèmes mouvements se produisent, quand toute communication entre ces canaux et le cerveau est rompue. Les phénomènes de Purkinje ne dépendent donc pas des canaux semi-circulaires ; l'explication que ce physiologiste en a donnée, en les attribuant aux perturbations produites dans le cerveau lui-même, par la rotation de la tête, est donc la seule admissible. Peut-être ces perturbations ne sont- elles que la suite des troubles dans les vaisseaux intra-cràniens, les plus éloignés de l'axe de rotation. Les observations faites sur les derviches, sur les shakers américains ainsi que sur certaines sectes religieuses russes, qui pratiquent les mouvements de rotation avec une grande véhémence, pendant des heures et même des journées entières, prouvent que les plus grands bouleversements psychiques, comme les hallucinations, les visions, la perte complète de connaissance, etc. , peuvent ètre la suite de ces mouvements violents . C'est donc le cerveau lui-même qui, en première ligne, subit l'effet de ces mouvements .
 
-[p. 46]
+Je pourrais ici discuter encore longuement l'hypothèse qui veut voir dans les canaux semi-circulaires les organes d'un [p. 47] 47 sens de rotation, ou des sensations d'accélération, et d'accumuler de nouvelles preuves contre cette manière de voir.
 
-46 les fois que je n'étais pas obligé d'ouvrir la cavité cylindrique déjà indiquée pour opérer aussi sur les canaux. Les résultats de ces sections sont décrits plus loin ; ici il suffit d'indiquer que les lapins ayant les deux nerfs acoustiques sectionnés présentent, après avoir été soumis aux rotations sur l'excentrique, les mèmes symptômes de vertige que ceux que M. Mach a observés chez le lapin normal. Tout le système de raisonnements par lequel MM. Mach et Crum Brown sont arrivés à voir dans cette observation la preuve que les canaux semi-circulaires sont des organes destinés à indiquer chaque rotation de la tête par une sensation spécifique de rotation, sensation destinée à provoquer des mouvements compensateurs, tout ce système, dis-je, devient insoutenable par le fait [^p46-1] que les mèmes mouvements se produisent, quand toute communication entre ces canaux et le cerveau est rompue. Les phénomènes de Purkinje ne dépendent donc pas des canaux semi-circulaires ; l'explication que ce physiologiste en a donnée, en les attribuant aux perturbations produites dans le cerveau lui-même, par la rotation de la tête, est donc la seule admissible. Peut-être ces perturbations ne sont- elles que la suite des troubles dans les vaisseaux intra-cràniens, les plus éloignés de l'axe de rotation. Les observations faites sur les derviches, sur les shakers américains ainsi que sur certaines sectes religieuses russes, qui pratiquent les mouvements de rotation avec une grande véhémence, pendant des heures et même des journées entières, prouvent que les plus grands bouleversements psychiques, comme les hallucinations, les visions, la perte complète de connaissance, etc. , peuvent ètre la suite de ces mouvements violents . C'est donc le cerveau lui-même qui, en première ligne, subit l'effet de ces mouvements .
-
-Je pourrais ici discuter encore longuement l'hypothèse qui veut voir dans les canaux semi-circulaires les organes d'un
-
-[p. 47]
-
-47 sens de rotation, ou des sensations d'accélération, et d'accumuler de nouvelles preuves contre cette manière de voir.
-
-Mais je crois que les expériences exposées l'ont déjà suffisamment réfuté. Quelques mots seulement pour mieux faire ressortir l'invraisemblance a priori de la théorie de MM . Mach, Crum Brown et d'autres. Comment admettre que les canaux semi-circulaires servent à nous informer sur la rotation de la tête, quand nous voyons les mêmes organes parfaitement bien développés chez les animaux qui, comme les grenouilles ou les poissons, ont la tête presque immobile et qui d'ailleurs, pas plus que les autres animaux, n'exécutent pas habituellement des mouvements de rotation ?
+Mais je crois que les expériences exposées l'ont déjà suffisamment réfuté. Quelques mots seulement pour mieux faire ressortir l'invraisemblance *a priori* de la théorie de MM . Mach, Crum Brown et d'autres. Comment admettre que les canaux semi-circulaires servent à nous informer sur la rotation de la tête, quand nous voyons les mêmes organes parfaitement bien développés chez les animaux qui, comme les grenouilles ou les poissons, ont la tête presque immobile et qui d'ailleurs, pas plus que les autres animaux, n'exécutent pas habituellement des mouvements de rotation ?
 
 Pourquoi justement la présence d'un organe des sens pour un mouvement peu habituel et pas pour beaucoup d'autres , pour les mouvements que les animaux exécutent continuellement ?
 
@@ -900,11 +750,7 @@ Et, d'ailleurs , est-ce bien certain que nous ne sentons que l'accélération du
 
 Toutes les preuves que M. Mach cite lui-même en faveur de l'opinion que les nerfs de nos articulations, de nos muscles, de la peau, des téguments, etc. , prennent part à la sensation du mouvement sont, malgré ses objections, bien autrement concluantes que l'hypothèse qui localise ces sensations dans les canaux semi-circulaires .
 
-Nous devons avouer qu'il nous est tout à fait impossible de
-
-[p. 48]
-
-comprendre comment on peut localiser les sensations conscientes qui proviennent de tout notre corps, dans un petit organe situé dans le crane qui, lui-même, ne nous envoie aucune sensation consciente . Je trouve une pareille localisation aussi inadmissible et aussi irrationnelle que cette autre théorie qui veut mettre dans ces mêmes canaux la sensibilité musculaire !
+Nous devons avouer qu'il nous est tout à fait impossible de [p. 48] comprendre comment on peut localiser les sensations conscientes qui proviennent de tout notre corps, dans un petit organe situé dans le crane qui, lui-même, ne nous envoie aucune sensation consciente . Je trouve une pareille localisation aussi inadmissible et aussi irrationnelle que cette autre théorie qui veut mettre dans ces mêmes canaux la sensibilité musculaire !
 
 Il suffit d'ailleurs de s'observer un peu pendant nos mouvements habituels pour se convaincre combien sont diverses les causes qui déterminent notre appréciation de la vitesse des mouvements . Ainsi, par exemple, quand on monte un cheval qui a un trot très-long et qui, par conséquent, fait des pas grands mais rares, on éprouve une sensation d'un mouvement très-lent ; tandis qu'un cheval faisant des pas fréquents, mais plus courts , nous donne la sensation de la vitesse, quoique au fond le premier avance beaucoup plus rapidement. Ici nous jugeons la vitesse d'après le nombre des secousses que chaque pas communique à nos articulations, à nos muscles, etc.
 
@@ -912,11 +758,7 @@ Pour moi, quand je monte à l'anglaise, la sensation de lenteur, dans le premier
 
 Quand nous nous trouvons en chemin de fer, dans un train marchant avec une vitesse de 20 à 30 kilomètres, nous éprouvons une sensation de lenteur très-désagréable. Dans une voiture ou dans des traîneaux avançant avec la vitesse de 20 kilomètres par heure, nous éprouvons au contraire des sensations de vitesse et d'accélération. Ici, nos. sensations proviennent d'un raisonnement , souvent inconscient , qui nous dit que , dans le premier cas, nous sommes encore loin d'avoir atteint le maximum de vitesse possible, tandis que dans le second les chevaux font le maximum d'effort .
 
-Pour les mêmes raisons, je préfère, par exemple, de voyager sur les lacs suisses en bateau à rames ou à voile qu'en bateau
-
-[p. 49]
-
-49 à vapeur ; la sensation de lenteur, sur ce dernier, m'étant trop intolérable . Il ne serait pas difficile de trouver d'autres exemples qui démontrent que les sensations provoquées par le mouvement peuvent avoir encore d'autres caractères et d'autres causes . Ainsi, par exemple, la descente rapide des montagnes russes ne produit aucune sensation d'accélération, mais bien une sensation d'une légèreté dans tout le corps, accompagnée d'un léger étourdissement très-agréable . Ces sensations proviennent en grande partie de la diminution de la pression que les parties supérieures du corps exercent sur les parties inférieures, et surtout de la diminution de la pression que le cerveau exerce sur la base crânienne .
+Pour les mêmes raisons, je préfère, par exemple, de voyager sur les lacs suisses en bateau à rames ou à voile qu'en bateau [p. 49] 49 à vapeur ; la sensation de lenteur, sur ce dernier, m'étant trop intolérable . Il ne serait pas difficile de trouver d'autres exemples qui démontrent que les sensations provoquées par le mouvement peuvent avoir encore d'autres caractères et d'autres causes . Ainsi, par exemple, la descente rapide des montagnes russes ne produit aucune sensation d'accélération, mais bien une sensation d'une légèreté dans tout le corps, accompagnée d'un léger étourdissement très-agréable . Ces sensations proviennent en grande partie de la diminution de la pression que les parties supérieures du corps exercent sur les parties inférieures, et surtout de la diminution de la pression que le cerveau exerce sur la base crânienne .
 
 $ 14.
 
@@ -932,11 +774,7 @@ Aussitôt qu'on sectionne ce canal vertical d'un côté, le pigeon
 
 E. DE CYON .
 
-7
-
-[p. 50]
-
-50 exécute un ou deux mouvements de la tête, dirigés d'arrière en avant et de droite à gauche ou vice versa ; ces mouvements rappellent les oscillations de la tête des pigeons pendant leur marche, seulement, au lieu de se faire dans la direction droite d'arrière en avant, elles se font dans un plan diagonal. La
+7 [p. 50] 50 exécute un ou deux mouvements de la tête, dirigés d'arrière en avant et de droite à gauche ou *vice versa* ; ces mouvements rappellent les oscillations de la tête des pigeons pendant leur marche, seulement, au lieu de se faire dans la direction droite d'arrière en avant, elles se font dans un plan diagonal. La
 
 ### section du canal correspondant de l'autre côté provoque le
 
@@ -948,13 +786,11 @@ Les mouvements du corps entier ont la même direction , mais ils sont un peu plu
 
 les mouvements se font donc dans un plan horizontal .
 
-[p. 51]
-
-51 Après la section des canaux verticaux postérieurs, le corps entier exécute des culbutes autour de la queue. Si on analyse bien ces culbutes, on voit facilement qu'elles sont provoquées de la manière suivante : le corps du pigeon subit un élan de bas en haut qui le place dans une position presque verticale ;
+[p. 51] 51 Après la section des canaux verticaux postérieurs, le corps entier exécute des culbutes autour de la queue. Si on analyse bien ces culbutes, on voit facilement qu'elles sont provoquées de la manière suivante : le corps du pigeon subit un élan de bas en haut qui le place dans une position presque verticale ;
 
 le pigeon est comme assis sur la queue ; mais comme en même temps les mouvements de la tète de bas en haut continuent, le corps entier est entraîné en arrière et, le plus souvent, le pigeon achève la culbute et tombe sur le dos. On voit facilement que le mouvement principal du corps se fait dans un plan vertical, parallèle au canal vertical postérieur.
 
-Quant aux suites de la section du canal vertical supérieur (ou antérieur), nous avons déjà vu qu'elle a pour effet de faire exécuter à la tête des mouvements diagonaux dirigés d'arrière et de droite en avant et à gauche ou vice versa . Le corps a de la tendance à tomber en avant ; mais, entraîné par les violentes oscillations de la tête, il dépasse le but et culbute souvent autour de la tète. En général, le mouvement s'exécute dans un plan parallèle à la direction des canaux verticaux supérieurs .
+Quant aux suites de la section du canal vertical supérieur (ou antérieur), nous avons déjà vu qu'elle a pour effet de faire exécuter à la tête des mouvements diagonaux dirigés d'arrière et de droite en avant et à gauche ou *vice versa* . Le corps a de la tendance à tomber en avant ; mais, entraîné par les violentes oscillations de la tête, il dépasse le but et culbute souvent autour de la tète. En général, le mouvement s'exécute dans un plan parallèle à la direction des canaux verticaux supérieurs .
 
 #### § 15
 
@@ -962,11 +798,7 @@ Destruction des six canaux semi-circulaires .
 
 Cela établi , j'ai voulu constater l'effet de la section de tous les six canaux semi-circulaires . Cette opération peut être exécutée également presque sans perte de sang et sans produire la moindre lésion dans les organes voisins . Plusieurs fois j'ai même enlevé, par de petites ouvertures faites dans les canaux osseux, tous les six canaux membraneux avec leurs ampoules .
 
-L'effet d'une pareille section des canaux semi-circulaires est foudroyant : il est impossible de donner une idée du mouvement perpétuel que présente le pigeon ; il ne peut ni se tenir debout ni rester couché ni voler ni, en général, exécuter un mouvement combiné quelconque ni garder, même pendant un instant , l'attitude qu'on lui donne. Tous les muscles de son corps se contractent violemment ; il exécute de violentes culbutes tantôt en avant, tantôt en arrière ; il roule autour de
-
-[p. 52]
-
-52 son axe longitudinal, saute en l'air et retombe par terre pour recommencer les mêmes mouvements. Si on ne le retenait pas , il se briserait bientôt la tête contre le premier obstacle venu .
+L'effet d'une pareille section des canaux semi-circulaires est foudroyant : il est impossible de donner une idée du mouvement perpétuel que présente le pigeon ; il ne peut ni se tenir debout ni rester couché ni voler ni, en général, exécuter un mouvement combiné quelconque ni garder, même pendant un instant , l'attitude qu'on lui donne. Tous les muscles de son corps se contractent violemment ; il exécute de violentes culbutes tantôt en avant, tantôt en arrière ; il roule autour de [p. 52] 52 son axe longitudinal, saute en l'air et retombe par terre pour recommencer les mêmes mouvements. Si on ne le retenait pas , il se briserait bientôt la tête contre le premier obstacle venu .
 
 Pour le maintenir en repos, il faut un effort relativement considérable .
 
@@ -978,9 +810,7 @@ intervention étrangère. Pendant cet état, qui dure 10 à 15 jours, le pigeon 
 
 Quand le pigeon est arrivé à ce point, je le laisse se promener sur le plancher ; c'est surtout dans cet état qu'il est intéressant à observer : l'impression générale que le pigeon produit est celle d'un animal qui commence à apprendre à se mouvoir, à se tenir debout, etc.
 
-[p. 53]
-
-53
+[p. 53] 53
 
 Pendant cet apprentissage, le pigeon a besoin du concours de ses autres organes des sens, surtout de la vue. Il suffit de lui fermer les yeux à l'aide d'un petit bonnet passé par-dessus sa tète pour qu'il perde instantanément tous les fruits de sa nouvelle éducation : il retombe dans l'état dans lequel il était quelques jours après l'opération .
 
@@ -1000,9 +830,7 @@ Une autre série de mes expériences avait pour but d'étudier les effets d'une 
 
 La connaissance de ces effets est d'une importance capitale, aussi bien pour notre manière de voir que pour celle de
 
-[p. 54]
-
-MM . Mach , Breuer et Crum Brown. C'est pourquoi M. Breuer a fait plusieurs expériences dans cette direction, dont les résultats sont d'ailleurs en contradiction complète avec les nôtres .
+[p. 54] MM . Mach , Breuer et Crum Brown. C'est pourquoi M. Breuer a fait plusieurs expériences dans cette direction, dont les résultats sont d'ailleurs en contradiction complète avec les nôtres .
 
 La théorie des trois auteurs cités exige que, parmi les canaux verticaux, le canal vertical postérieur d'un côté ait pour corollaire de ses fonctions le canal vertical supérieur de l'autre côté .
 
@@ -1016,9 +844,7 @@ Mes expériences sont en contradiction complète avec celles de M. Breuer sur ce
 
 En effet, quand on coupe chez le pigeon tous les canaux semi-circulaires d'un seul côté, on ne voit que les mouvements passagers de la tête pendant l'opération elle-même, quelques mouvements de manége, la tête étant dirigée du côté opéré et des trébuchements pendant la marche trop rapide .
 
-[p. 55]
-
-55 Ces symptômes disparaissent le plus souvent le second jour ;
+[p. 55] 55 Ces symptômes disparaissent le plus souvent le second jour ;
 
 après quoi il devient presque impossible de distinguer le pigeon opéré d'un pigeon normal .
 
@@ -1036,9 +862,7 @@ Excitation électrique des canaux.
 
 Je vais rapporter encore quelques expériences sur les pigeons, où les canaux semi-circulaires ont été soumis à l'excitation électrique .
 
-[p. 56]
-
-56 Les deux électrodes étaient composées par deux fils en or dont les extrémités, recourbées en forme de crochets, furent introduites dans deux petites ouvertures pratiquées dans un des canaux osseux ; ces fils aboutissaient de l'autre côté aux pòles d'un appareil d'induction .
+[p. 56] 56 Les deux électrodes étaient composées par deux fils en or dont les extrémités, recourbées en forme de crochets, furent introduites dans deux petites ouvertures pratiquées dans un des canaux osseux ; ces fils aboutissaient de l'autre côté aux pòles d'un appareil d'induction .
 
 La difficulté de localiser dans ces conditions l'action des courants électriques, tout en laissant les pigeons libres dans leurs mouvements, empèche d'obtenir des résultats bien décisifs .
 
@@ -1056,11 +880,7 @@ Comme Flourens l'a déjà indiqué, il est utile, pour les expériences sur les 
 
 Le procédé opératoire est décrit dans mon Traité des méthodes .
 
-Rappelons seulement ici que l'opérateur inexpérimenté peut
-
-[p. 57]
-
-57 sans crainte enlever le flocculus, dans le but de se faciliter les opérations sur les canaux semi-circulaires, car il ne résulte de cette ablation aucun trouble dans la locomotion ou dans la faculté de maintenir l'équilibre [^p57-1] .
+Rappelons seulement ici que l'opérateur inexpérimenté peut [p. 57] 57 sans crainte enlever le flocculus, dans le but de se faciliter les opérations sur les canaux semi-circulaires, car il ne résulte de cette ablation aucun trouble dans la locomotion ou dans la faculté de maintenir l'équilibre [^p57-1] .
 
 Les différences entre les phénomènes qu'on observe chez les pigeons et ceux qui accompagnent les lésions des canaux semicirculaires chez les lapins sont les suivantes :
 
@@ -1078,9 +898,7 @@ il reste à demi couché sur le ventre .
 
 Parmi tous les mouvements provoqués par les lésions des canaux semi-circulaires, ceux qui présentent le plus grand intérêt et qui sont les plus prononcés sont les mouvements des globes oculaires .
 
-[p. 58]
-
-58 Déjà Flourens mentionne en passant le nystagmus qui, d'après ses observations, se produit pendant les mouvements de la tête et cesse instantanément quand la tête est en repos . Il y a là, certainement, une erreur grave de la part de l'éminent physiologiste .
+[p. 58] 58 Déjà Flourens mentionne en passant le nystagmus qui, d'après ses observations, se produit pendant les mouvements de la tête et cesse instantanément quand la tête est en repos . Il y a là, certainement, une erreur grave de la part de l'éminent physiologiste .
 
 Il va sans dire que chaque mouvement de la tête est, chez le lapin comme chez tout autre animal , même avec des canaux intacts, accompagné d'un mouvement du globe oculaire. Comme nous l'avons constaté plus haut à l'occasion des expériences de Purkinje , le globe oculaire suit toujours le mouvement de la tète avec un petit retard .
 
@@ -1100,9 +918,7 @@ quelques minutes, souvent même une heure
 
 et davantage .
 
-[p. 59]
-
-59
+[p. 59] 59
 
 $ 19.
 
@@ -1122,11 +938,7 @@ Voici la description de ces mouvements, telle que je l'ai donnée dans mon premi
 
 >> L'excitation d'un canal produit toujours les mouvements >> oculaires dans les deux yeux ; mais, dans le globe du côté >> opposé au canal atteint, les mouvements ont lieu dans le sens >> contraire à ceux du globe de l'autre côté. La pupille se con>> tracte du côté où a lieu l'excitation et reste dilatée du côté >> opposé .
 
->> Au moment même de l'excitation, la contraction des >> muscles moteurs du globe a un caractère tétanique : les yeux >> restent violemment déviés dans les sens indiqués ; immédia>> tement après , ils commencent à exécuter des mouvements >> oscillatoires dans le sens opposé. Ces oscillations ont une >> fréquence variable entre 20 et 150 par minute. Leur durée
-
-[p. 60]
-
-60 >> dépend de la force de l'excitation, mais dépasse rarement >> une demi-heure .
+>> Au moment même de l'excitation, la contraction des >> muscles moteurs du globe a un caractère tétanique : les yeux >> restent violemment déviés dans les sens indiqués ; immédia>> tement après , ils commencent à exécuter des mouvements >> oscillatoires dans le sens opposé. Ces oscillations ont une >> fréquence variable entre 20 et 150 par minute. Leur durée [p. 60] 60 >> dépend de la force de l'excitation, mais dépasse rarement >> une demi-heure .
 
 >> Ces mouvements oscillatoires disparaissent lorsqu'on sec>>>tionne le nerf acoustique du côté opposé . De nouvelles excita>> tions d'un canal semi-circulaire ne produisent plus que des >> contractions tétaniques .>>>
 
@@ -1144,9 +956,7 @@ qu'on observe pendant l'excitation des trois canaux semi-circulaires , nous diro
 
 On sait que les ophthalmologistes distinguent quatre genres de nystagmus : nystagmus horizontal, vertical, diagonal et rotatoire . Dans ces nystagmus, les mouvements des deux globes se font toujours dans le mème sens. C'est le contraire que nous observons chez les lapins pendant l'excitation unilatérale d'un canal.
 
-[p. 61]
-
-61
+[p. 61] 61
 
 Il ne serait pas difficile de réduire les différents nystagmus , produits artificiellement par l'excitation des canaux semi-circulaires et du nerf acoustique , sur les quatre formes désignées .
 
@@ -1162,11 +972,7 @@ Pour le moment, le caractère exact de ces mouvements est d'une importance secon
 
 Pour terminer l'exposé des faits qui résultent de mes expériences, je dois ajouter encore ceux observés après la section des nerfs acoustiques .
 
-Chez les lapins , l'excitation d'un nerf acoustique produit de violents tournoiements autour de l'axe longitudinal du corps, dans la direction du côté opéré. L'excitation des deux nerfs acoustiques produite par leur écrasement produit des mouve
-
-[p. 62]
-
-ments très-irréguliers : l'animal a de la tendance à se rouler, tantôt d'un côté, tantôt de l'autre ; de ces deux tendances opposées résulte, pour l'animal, l'incapacité complète de se mouvoir ou de se tenir debout. Les pigeons chez lesquels on extirpe les six canaux membraneux avec leurs ampoules présentent, aussitôt après l'opération, les mêmes phénomènes .
+Chez les lapins , l'excitation d'un nerf acoustique produit de violents tournoiements autour de l'axe longitudinal du corps, dans la direction du côté opéré. L'excitation des deux nerfs acoustiques produite par leur écrasement produit des mouve [p. 62] ments très-irréguliers : l'animal a de la tendance à se rouler, tantôt d'un côté, tantôt de l'autre ; de ces deux tendances opposées résulte, pour l'animal, l'incapacité complète de se mouvoir ou de se tenir debout. Les pigeons chez lesquels on extirpe les six canaux membraneux avec leurs ampoules présentent, aussitôt après l'opération, les mêmes phénomènes .
 
 Lorsque la section intra-crânienne de deux acoustiques est bien réussie , sans être accompagnée d'un épanchement de sang ou d'autres accidents, les animaux survivent à l'opération et les mêmes phénomènes décrits plus haut disparaissent peu à peu . Après six à dix jours, l'animal se tient debout, il peut changer de place, se mouvoir, etc . ; mais il lui reste un certain manque d'assurance dans ses mouvements , à la suite duquel il ne se déplace que quand on le force à le faire. Il cherche toujours un mur ou un coin où il puisse trouver un point d'appui . Dans ce déplacement, chaque animal choisit toujours la mème direction ; l'un marche de préférence en arrière, l'autre de côté, etc.
 
@@ -1178,9 +984,7 @@ Abordons maintenant la discussion des faits nombreux que je viens d'exposer .
 
 Les expériences que j'ai instituées en 1872 m'ont conduit, comme on l'a vu plus haut, à la conclusion que les fonctions des canaux semi-circulaires sont en rapport avec nos notions sur l'espace , et que chaque canal a une relation déterminée avec des dimensions de l'espace. Je ne connaissais pas encore l'influence dominante que les canaux exercent sur l'appareil moteur de l'œil, appareil qui joue un rôle prépondérant dans nos représentations de la forme et de la disposition des objets dans l'espace . Néanmoins, j'ai déjà alors fortement appuyé sur le rôle que les sensations inconscientes provenant des muscles oculaires eux-mêmes ou de leur centre d'innervation jouent dans nos notions sur l'espace, et j'inclinais vers la conception que le système des canaux semi-circulaires a sa part dans l'utilisation de ces sensations .
 
-[p. 63]
-
-63
+[p. 63] 63
 
 Les principaux motifs de mon opinion étaient : 1. la disposition anatomique de ces canaux ; 2º la régularité absolue avec laquelle l'excitation de chaque canal produit des mouvements de la tête et du corps dans un plan parallèle à celui du canal ;
 
@@ -1196,11 +1000,7 @@ Les résultats de mes expériences nouvelles et les preuves si éclatantes de l'
 
 Étant donné, d'une part, que nos représentations touchant la disposition des objets dans l'espace dépendent surtout des sensations inconscientes d'innervation ou de contraction des muscles oculo-moteurs ; d'autre part que chaque excitation , même minime, des canaux semi-circulaires produit des contractions et des innervations des mêmes muscles, il est incontestable que
 
-les centres nerveux dans lesquels aboutissent les fibres nerveuses qui se distribuent dans les canaux sont en relation physiologique intime avec le centre oculo-moteur, et que, par conséquent, leur excitation peut intervenir, d'une ma
-
-[p. 64]
-
-64 nière déterminante , dans la formation de nos notions sur l'espace.
+les centres nerveux dans lesquels aboutissent les fibres nerveuses qui se distribuent dans les canaux sont en relation physiologique intime avec le centre oculo-moteur, et que, par conséquent, leur excitation peut intervenir, d'une ma [p. 64] 64 nière déterminante , dans la formation de nos notions sur l'espace.
 
 Cette conclusion n'étant, au fond, que la simple expression des faits eux-mêmes ne contient assurément rien d'arbitraire .
 
@@ -1220,9 +1020,7 @@ Je ne saurais donc m'abstenir d'aborder la seconde partie de la tàche que je vi
 
 L'origine de nos notions sur l'espace n'est pas seulement un problème purement physiologique, elle touche à de graves problèmes de psychologie et de mathématiques . Elle a donc été l'objet d'études approfondies de la part des philosophes et des mathématiciens de tous les temps .
 
-[p. 65]
-
-65 En abordant pour ma part cette question, je tiens à constater que je n'ai nullement l'intention de discuter ici toutes les opinions philosophiques qui ont été émises à ce sujet [^p65-1] . Ce n'est que le côté purement physiologique de la question dont j'aurai à m'occuper, autant du moins que la constatation d'un organe spécial pour la formation de nos notions sur l'espace doit modifier les théories physiologiques actuellement admises sur cette formation.
+[p. 65] 65 En abordant pour ma part cette question, je tiens à constater que je n'ai nullement l'intention de discuter ici toutes les opinions philosophiques qui ont été émises à ce sujet [^p65-1] . Ce n'est que le côté purement physiologique de la question dont j'aurai à m'occuper, autant du moins que la constatation d'un organe spécial pour la formation de nos notions sur l'espace doit modifier les théories physiologiques actuellement admises sur cette formation.
 
 #### § 22
 
@@ -1242,11 +1040,7 @@ La seconde a été élevée par M. Helmholtz à la hauteur d'un système scienti
 
 local . Les signes locaux des sensations de l'œil droit sont généralement différents de ceux des points correspondants de l'œil gauche .... Nous sentons, en outre, le degré d'innervation que nous transmettons aux nerfs des muscles oculaires . >>>
 
-« Les notions d'étendue de ce mouvement ne dépendent pas nécessairement des perceptions visuelles, ou tout au moins
-
-[p. 66]
-
-66 elles n'en dépendent pas uniquement, puisque les aveugles-nés les acquièrent avec une exactitude parfaite par le sens du toucher ; nous pouvons donc, pour notre objet, les considérer comme données préalablement.....
+« Les notions d'étendue de ce mouvement ne dépendent pas nécessairement des perceptions visuelles, ou tout au moins [p. 66] 66 elles n'en dépendent pas uniquement, puisque les aveugles-nés les acquièrent avec une exactitude parfaite par le sens du toucher ; nous pouvons donc, pour notre objet, les considérer comme données préalablement.....
 
 << Pour la théorie empiriste,
 
@@ -1264,17 +1058,13 @@ Toute autre est la manière de voir des nativistes : « En ce qui concerne les d
 
 dit M. Helmholtz , « leur point fondamental, c'est qu'elles attribuent la localisation des impressions dans le champ visuel à une disposition innée, soit que l'on ait une connaissance directe des dimensions de la rétine, soit que l'excitation des fibres nerveuses déterminées donne lieu à certaines représentations d'espace par un mécanisme préétabli et impossible à définir avec plus de précision. >>>
 
-« C'est surtout J. Muller qui a développé cette théorie sous la première forme . Il dit : « L'idée d'espace ne peut pas être un produit d'éducation ; au contraire, la notion de l'espace et du temps est nécessaire, et toutes les sensations se soumettent nécessairement à ces notions : aucune sensation ne peut exister en dehors de la notion d'espace et de temps. Mais quant à ce qui remplit l'espace, nous ne sentons rien autre que nousmême dans l'espace, quand nous parlons de sensation ou de sens ... Dans chaque camp visuel, la rétine voit sa propre étendue à l'état d'affection ; lorsque nous gardons le repos le plus
-
-[p. 67]
-
-67 absolu et que les yeux sont fermés, elle se perçoit à l'état obscur dans l'espace .>>> Cette théorie, en admettant que la localisation spéciale de chaque impression est donnée par une intuition immédiate, est donc une extension de l'opinion de Kant , d'après laquelle l'espace et le temps sont des formes de nos notions . >>> Kant regardait, en effet, l'espace et le temps comme deux formes données de notre intuition .
+« C'est surtout J. Muller qui a développé cette théorie sous la première forme . Il dit : « L'idée d'espace ne peut pas être un produit d'éducation ; au contraire, la notion de l'espace et du temps est nécessaire, et toutes les sensations se soumettent nécessairement à ces notions : aucune sensation ne peut exister en dehors de la notion d'espace et de temps. Mais quant à ce qui remplit l'espace, nous ne sentons rien autre que nousmême dans l'espace, quand nous parlons de sensation ou de sens ... Dans chaque camp visuel, la rétine voit sa propre étendue à l'état d'affection ; lorsque nous gardons le repos le plus [p. 67] 67 absolu et que les yeux sont fermés, elle se perçoit à l'état obscur dans l'espace .>>> Cette théorie, en admettant que la localisation spéciale de chaque impression est donnée par une intuition immédiate, est donc une extension de l'opinion de Kant , d'après laquelle l'espace et le temps sont des formes de nos notions . >>> Kant regardait, en effet, l'espace et le temps comme deux formes données de notre intuition .
 
 « L'espace , dit-il, est une représentation nécessaire, aprioristique qui sert pour base à toutes nos idées..... )
 
 << Nous ne pouvons pas nous imaginer qu'il n'existe pas d'espace, quoique nous pouvons très-bien admettre qu'il n'y ait pas d'objets dans l'espace .... L'espace est une pure idée.....
 
-(loc. cit. , p. 29) . »
+(*loc. cit.* , p. 29) . »
 
 Pour M. Hering, les différents points de la rétine peuvent produire non-seulement les sensations des couleurs, mais encore les trois sensations de l'espace .
 
@@ -1286,9 +1076,7 @@ On voit que les deux théories diffèrent entre elles par des points essentiels 
 
 Dans une science exacte et basée sur l'observation, lorsque
 
-[p. 68]
-
-- 68 deux théories aussi contradictoires peuvent exister simultanément, sans qu'aucune d'elles parvienne à rallier toutes les opinions, c'est presque toujours une preuve que toutes les deux ont certains côtés défectueux, qu'aucune n'est absolument satisfaisante . M. Helmholtz admet lui-même que « notre connaissance des phénomènes se rapportant à cette question est encore trop incomplète pour ne permettre qu'une seule théorie et exclure toute autre . >>>
+[p. 68] - 68 deux théories aussi contradictoires peuvent exister simultanément, sans qu'aucune d'elles parvienne à rallier toutes les opinions, c'est presque toujours une preuve que toutes les deux ont certains côtés défectueux, qu'aucune n'est absolument satisfaisante . M. Helmholtz admet lui-même que « notre connaissance des phénomènes se rapportant à cette question est encore trop incomplète pour ne permettre qu'une seule théorie et exclure toute autre . >>>
 
 Nous ne voulons indiquer ici que quelques-unes des objections faites à chacune des deux théories dont nous venons d'indiquer les traits principaux. Ces objections, bien qu'en partie d'un caractère purement métaphysique, suffisent néanmoins pour en faire ressortir les points faibles .
 
@@ -1306,9 +1094,7 @@ Si les notions sur l'espace sont la conséquence des sensations de mouvement
 
 d'innervation musculaire , associées à la reconnaissance des signes locaux, elles doivent créer par elles-mêmes la représentation d'un espace à trois dimensions .
 
-[p. 69]
-
-L'insuffisance de cette hypothèse saute aux yeux. Les sensations produites par les contractions et les innervations des muscles des yeux ou du corps en général ne pourraient en dernier lieu nous instruire que sur les résultats de ces contractions. Par exemple , la contraction du muscle droit supérieur nous renseigne sur la direction donnée à notre œil dans le but de recevoir l'image nette d'un objet sur lequel notre attention s'est portée.
+[p. 69] L'insuffisance de cette hypothèse saute aux yeux. Les sensations produites par les contractions et les innervations des muscles des yeux ou du corps en général ne pourraient en dernier lieu nous instruire que sur les résultats de ces contractions. Par exemple , la contraction du muscle droit supérieur nous renseigne sur la direction donnée à notre œil dans le but de recevoir l'image nette d'un objet sur lequel notre attention s'est portée.
 
 Ou , si c'est à l'aide du toucher que nous voulons reconnaître la forme complète d'un objet, les sensations ne sont pas autres que celles produites par les contractions des muscles ou des groupes musculaires, mis en mouvement dans un ordre déterminé, pour mettre nos doigts en rapport avec l'objet à reconnaître .
 
@@ -1318,13 +1104,11 @@ La difficulté reste absolument la même si nous ajoutons à ces sensations les 
 
 § 23. -Opinion de M. Lotze sur la formation de la notion de l'espace.
 
-Cette difficulté est très-bien exprimée dans une remarquable étude de M. Lotze (un des vétérans de la philosophie allemande) « Sur la formation de la notion de l'espace » , publiée dans la Revue Philosophique en 1877 (n° 10) .
+Cette difficulté est très-bien exprimée dans une remarquable étude de M. Lotze (un des vétérans de la philosophie allemande) « Sur la formation de la notion de l'espace » , publiée dans la *Revue Philosophique* en 1877 (n° 10) .
 
 Nous nous permettons de citer textuellement cette exposi-
 
-[p. 70]
-
-70 tion lumineuse qui exprime en partie notre propre manière de voir :
+[p. 70] 70 tion lumineuse qui exprime en partie notre propre manière de voir :
 
 << Comment se fait-il donc que pour localiser les sensations που κ l'ame soit déterminée par la seule addition des signes a ou 6 qui ne sont pas moins étrangers eux-mêmes à toute notion de lieu ? Que l'addition de ces signes nous force à distinguer les sensations
 
@@ -1340,19 +1124,11 @@ et κ .
 
 L'une est de savoir pourquoi l'âme arrange la multitudede ses sensations dans ce cadre de relations géométriques et non dans tel ou tel autre ordre tout à fait différent, mais dont, par suite de cette habitude merveilleuse d'intuition géométrique , nous n'avons pas la moindre idée . >>
 
-« L'autre question , supposant comme données, dans la nature de l'âme, et la faculté et la détermination de cette disposition des sensations , est simplement de savoir comment fait l'âme pour assigner dans cette intuition de l'espace, qui lui est nécessaire , à chacune de ces sensations sa place déterminée, en correspondance avec l'objet qui en est la cause. C'est à cette seconde question seulement que nous prétendons répondre par notre théorie des signes locaux, et, loin de vouloir satisfaire à la première, nous condamnons comme impossible toute tentative de répondre à ce problème insoluble . Non-seulement ce n'est pas un problème de psychologie physiologique , mais encore tous les efforts que la spéculation philosophique pourrait faire pour en donner la solution demeureraient stériles comme ils l'ont été jusqu'à ce jour. On connaît, sous le nom de déduction de l'espace , ces entreprises téméraires qui, à l'aide d'une dialectique mystérieuse, se flattent de construire l'espace
-
-[p. 71]
-
-71 avec ce qui n'est pas l'espace ; elles ont toutes échoué ; ce n'est, en effet, que par des pétitions de principes qu'elles introduisent subrepticement la notion d'étendue, en prétendant l'avoir créé de toutes pièces. Des théoriciens d'aujourd'hui font profession de mépriser toute spéculation, mais ils ne sont pas moins désorientés que leurs devanciers ; comptant, comme sur le plus puissant talisman, sur la seule expérience, ils s'efforcent de faire produire l'intuition d'étendue et d'espace à une pure association de sensations ; ils échoueront comme les autres . Il ne sera jamais possible d'augmenter un nombre de zéros jusqu'à ce qu'il représente une quantité réelle ; il sera tout aussi impossible de tirer d'une association d'éléments un caractère tout à fait nouveau, dont aucun germe ne puisse se rencontrer dans ces éléments eux-mêmes . Il est difficile d'ailleurs de comprendre l'obstination avec laquelle , sans se lasser, on recommence toujours cette tentative. A-t-on jamais songé à se demander pourquoi les ondes lumineuses se perçoivent sous la forme de couleurs, et non sous celle d'odeurs ou de sons ? ... c'est une simple donnée de l'expérience que l'on prend comme telle .
+« L'autre question , supposant comme données, dans la nature de l'âme, et la faculté et la détermination de cette disposition des sensations , est simplement de savoir comment fait l'âme pour assigner dans cette intuition de l'espace, qui lui est nécessaire , à chacune de ces sensations sa place déterminée, en correspondance avec l'objet qui en est la cause. C'est à cette seconde question seulement que nous prétendons répondre par notre théorie des signes locaux, et, loin de vouloir satisfaire à la première, nous condamnons comme impossible toute tentative de répondre à ce problème insoluble . Non-seulement ce n'est pas un problème de psychologie physiologique , mais encore tous les efforts que la spéculation philosophique pourrait faire pour en donner la solution demeureraient stériles comme ils l'ont été jusqu'à ce jour. On connaît, sous le nom de déduction de l'espace , ces entreprises téméraires qui, à l'aide d'une dialectique mystérieuse, se flattent de construire l'espace [p. 71] 71 avec ce qui n'est pas l'espace ; elles ont toutes échoué ; ce n'est, en effet, que par des pétitions de principes qu'elles introduisent subrepticement la notion d'étendue, en prétendant l'avoir créé de toutes pièces. Des théoriciens d'aujourd'hui font profession de mépriser toute spéculation, mais ils ne sont pas moins désorientés que leurs devanciers ; comptant, comme sur le plus puissant talisman, sur la seule expérience, ils s'efforcent de faire produire l'intuition d'étendue et d'espace à une pure association de sensations ; ils échoueront comme les autres . Il ne sera jamais possible d'augmenter un nombre de zéros jusqu'à ce qu'il représente une quantité réelle ; il sera tout aussi impossible de tirer d'une association d'éléments un caractère tout à fait nouveau, dont aucun germe ne puisse se rencontrer dans ces éléments eux-mêmes . Il est difficile d'ailleurs de comprendre l'obstination avec laquelle , sans se lasser, on recommence toujours cette tentative. A-t-on jamais songé à se demander pourquoi les ondes lumineuses se perçoivent sous la forme de couleurs, et non sous celle d'odeurs ou de sons ? ... c'est une simple donnée de l'expérience que l'on prend comme telle .
 
 Pourquoi ne pas avouer qu'il est de même de l'intuition de l'espace ? Elle est la forme donnée sous laquelle nous percevons les relations de certaines multitudes de sensations simultanées ; nous n'avons absolument qu'à déterminer les règles suivant lesquelles nous faisons un usage indéfiniment varié de cette forme générale toujours la même . >>>
 
-Et, plus loin : « Nous avons déjà vu, et nous le répétons ici, que rien au monde ne pourrait nous faire comprendre pourquoi ce système de sensations, qui n'implique encore aucune notion d'espace, devrait nécessairement être perçu sous la forme de l'espace, comme un système de relations dans l'étendue ; mais si l'on suppose dans la nature de l'âme une faculté, une tendance à percevoir les impressions sous la forme de l'espace, voilà les conditions que l'on ne saurait imaginer sans s'attendre à ce qu'elles provoquent l'exercice de cette tendance. En répétant ces rotations du globe de l'œil, en les dirigeant de droite à gauche ou de gauche à droite, en retrouvant toujours la même
-
-[p. 72]
-
-72 liaison des impressions, en apercevant la persistance d'un groupe central par rapport aux termes qui vont et viennent, nous nous persuadons que la précision n'est qu'en nous-mêmes , que la coexistence est dans les choses et que ce qui cause le changement de nos sensations ne consiste que dans la diversité de nos relations par rapport à des objets permanents du monde extérieur . C'est en ces termes que l'on peut exprimer la notion , pour ainsi dire abstraite, de ce que l'espace est sous forme intuitive. Ajoutons enfin qu'il y a aussi, pour les sensations de la peau, quelque chose qui ressemble à ces conditions favorables à la localisation des sensations. Elle aussi possède d'innombrables points sensibles, mais les mouvements nécessaires pour en apprécier les positions ne sont pas possibles à ces points immédiatement comme ils le sont à ceux de la rétine, et il faut que le concours d'organes mobiles supplée à ce défaut » (loc . cit . , p . 363 ) .
+Et, plus loin : « Nous avons déjà vu, et nous le répétons ici, que rien au monde ne pourrait nous faire comprendre pourquoi ce système de sensations, qui n'implique encore aucune notion d'espace, devrait nécessairement être perçu sous la forme de l'espace, comme un système de relations dans l'étendue ; mais si l'on suppose dans la nature de l'âme une faculté, une tendance à percevoir les impressions sous la forme de l'espace, voilà les conditions que l'on ne saurait imaginer sans s'attendre à ce qu'elles provoquent l'exercice de cette tendance. En répétant ces rotations du globe de l'œil, en les dirigeant de droite à gauche ou de gauche à droite, en retrouvant toujours la même [p. 72] 72 liaison des impressions, en apercevant la persistance d'un groupe central par rapport aux termes qui vont et viennent, nous nous persuadons que la précision n'est qu'en nous-mêmes , que la coexistence est dans les choses et que ce qui cause le changement de nos sensations ne consiste que dans la diversité de nos relations par rapport à des objets permanents du monde extérieur . C'est en ces termes que l'on peut exprimer la notion , pour ainsi dire abstraite, de ce que l'espace est sous forme intuitive. Ajoutons enfin qu'il y a aussi, pour les sensations de la peau, quelque chose qui ressemble à ces conditions favorables à la localisation des sensations. Elle aussi possède d'innombrables points sensibles, mais les mouvements nécessaires pour en apprécier les positions ne sont pas possibles à ces points immédiatement comme ils le sont à ceux de la rétine, et il faut que le concours d'organes mobiles supplée à ce défaut » (loc . cit . , p . 363 ) .
 
 #### § 24
 
@@ -1364,11 +1140,7 @@ Ces difficultés disparaissent complétement, si on admet que nous possédons un
 
 Cet organe, nous le plaçons, d'après nos expériences , dans le système des canaux semi-circulaires .
 
-Les objections présentées plus haut à la possibilité de placer ces sensations dans les fibres nerveuses, qui servent en même temps au sens de la lumière, n'existent plus ici. En effet, s'il nous est impossible d'admettre qu'une seule fibre nerveuse puisse nous donner la représentation de l'espace, nous pouvons par contre très-bien comprendre comment toute une série de fibres , disposées dans une des directions de l'espace, nous com
-
-[p. 73]
-
-muniquent , lorsqu'elles sont excitées, des sensations inconscientes d'une étendue ayant la même direction .
+Les objections présentées plus haut à la possibilité de placer ces sensations dans les fibres nerveuses, qui servent en même temps au sens de la lumière, n'existent plus ici. En effet, s'il nous est impossible d'admettre qu'une seule fibre nerveuse puisse nous donner la représentation de l'espace, nous pouvons par contre très-bien comprendre comment toute une série de fibres , disposées dans une des directions de l'espace, nous com [p. 73] muniquent , lorsqu'elles sont excitées, des sensations inconscientes d'une étendue ayant la même direction .
 
 D'autre part, la lacune que nous avons signalée dans la théorie empiriste disparaît par la constatation d'un organe spécial pour le sens de l'espace .
 
@@ -1394,9 +1166,7 @@ DE CYON .
 
 10
 
-[p. 74]
-
-La seconde de ces théories était pleinement en droit d'admettre que les notions d'espace nous sont données par l'excitation des fibres nerveuses, déterminées à l'aide d'un mécanisme encore inconnu (voy. plus haut) .
+[p. 74] La seconde de ces théories était pleinement en droit d'admettre que les notions d'espace nous sont données par l'excitation des fibres nerveuses, déterminées à l'aide d'un mécanisme encore inconnu (voy. plus haut) .
 
 D'un autre côté, la théorie empiriste a raison d'attribuer aux signes locaux et aux sensations d'innervation et des contractions musculaires, nos représentations sur la forme des objets extérieurs et sur leur disposition dans l'espace .
 
@@ -1416,11 +1186,7 @@ Le bruit le guidait avec une précision comparable à celle de la vue . Je me de
 
 Observations sur le vertige visuel .
 
-Ce n'est pas le moment de pousser plus loin la discussion des modifications que la connaissance d'un organe spécial de
-
-[p. 75]
-
-75 l'espace doit apporter à la théorie de la vision binoculaire et, en général, à l'étude des localisations de nos impressions .
+Ce n'est pas le moment de pousser plus loin la discussion des modifications que la connaissance d'un organe spécial de [p. 75] 75 l'espace doit apporter à la théorie de la vision binoculaire et, en général, à l'étude des localisations de nos impressions .
 
 Je me permettrai seulement de citer encore quelques obser .
 
@@ -1436,11 +1202,7 @@ Quelle que soit la nature des troubles provoqués par la rotation de notre corps
 
 Je voudrais rappeler ici une des observations nombreuses et très-instructives de M. Mach , parce qu'elle est d'une grande valeur pour la manière de voir que nous venons d'exposer et que j'ai eu très-souvent l'occasion de la vérifier moi-même ; je dois ajouter aussi que, loin d'être une exception comme chez M. Mach , cette observation s'est toujours renouvelée chez moi pendant mes expériences sur le vertige .
 
-Lorsqu'on exécute quelques mouvements passifs ou actifs
-
-[p. 76]
-
-76 autour de l'axe vertical de son corps et qu'on produit en même temps un phosphène, on constate que celui-ci prend part à la rotation quand même on maintiendrait l'œil dans l'impossibilité d'exécuter un mouvement .
+Lorsqu'on exécute quelques mouvements passifs ou actifs [p. 76] 76 autour de l'axe vertical de son corps et qu'on produit en même temps un phosphène, on constate que celui-ci prend part à la rotation quand même on maintiendrait l'œil dans l'impossibilité d'exécuter un mouvement .
 
 Dans cette expérience, l'œil étant resté immobile, le mouvement apparent du phosphène doit avoir une autre origine qu'un déplacement de la rétine .
 
@@ -1450,9 +1212,7 @@ En répétant souvent les expériences se rapportant à cette question , j'ai av
 
 Contrairement à l'opinion de plusieurs auteurs [^p76-2] qui affirment que le vertige visuel s'affaiblit, sinon disparaît complétement quand on fixe subitement un objet quelconque , par exemple le doigt placé à courte distance de l'œil , j'ai toujours observé le phénomène contraire . Chez moi, tous les symptômes du vertige augmentent par le fait d'une pareille fixation.
 
-[p. 77]
-
-77
+[p. 77] 77
 
 Ce qui a pu induire en erreur quelques auteurs, c'est qu'au moment où nous fixons le doigt, notre attention se détourne des autres objets : leur mouvement apparent ne nous frappe plus aussi distinctement, parce qu'ils se trouvent dans le champ visuel indirect .
 
@@ -1470,9 +1230,7 @@ M. Breuer, qui a aussi eu l'occasion de vérifier l'observation de M. Mach , s'a
 
 Mais où cette explication devient tout à fait inadmissible, c'est quand nous voyons les phosphènes se déplacer, lorsqu'au lieu d'immobiliser l'œil par le doigt (procédé très-incertain) , nous le faisons en fixant avec les deux yeux un objet trèsrapproché [^p77-1] .
 
-[p. 78]
-
-78 Dans ce cas, il est évident que les sensations d'innervation ne nous donneront que la notion d'immobilité des globes oculaires .
+[p. 78] 78 Dans ce cas, il est évident que les sensations d'innervation ne nous donneront que la notion d'immobilité des globes oculaires .
 
 Si donc même alors le phospène continue à se déplacer, il est hors de doute que le vertige visuel peut se produire sans aucun concours de l'appareil moteur de l'œil, c'est-à-dire qu'il peut avoir une autre origine psychologique .
 
@@ -1506,9 +1264,7 @@ Cette explication est admissible pour le vertige visuel au moment de son apparit
 
 on arrive, en gardant le doigt dans la même position, à maintenir les yeux dans l'attitude prise. Je fixe souvent, dans ces expériences, le bout de mon nez .
 
-[p. 79]
-
-79 des contractions musculaires ont eu le temps de prendre part à la formation du jugement inconscient, l'erreur devrait immédiatement être corrigée .
+[p. 79] 79 des contractions musculaires ont eu le temps de prendre part à la formation du jugement inconscient, l'erreur devrait immédiatement être corrigée .
 
 En effet, les cas où l'on voit ainsi le vertige cesser sont trèsfréquents ; je ne veux rappeler que les personnes atteintes d'un nystagmus chronique n'ont souvent aucun vertige visuel.
 
@@ -1524,11 +1280,7 @@ Chez une personne atteinte du mal de mer, les yeux ouverts n'ont devant eux que 
 
 Dans le mal de mer, le vertige est ainsi produit par deux causes, premièrement par le mouvement continuel des objets dans le champ visuel et par les déplacements que subit le cerveau du malade .
 
-Supposons qu'un homme disposé au vertige se trouve sur
-
-[p. 80]
-
-80 un navire dans une position dans laquelle les mouvements du navire ne l'atteignent pas ; il serait pris , néanmoins, du vertige , en regardant autour de lui les objets qui se trouvent dans un mouvement continuel ; comme nous éprouvons du vertige en regardant d'un pont très-bas l'eau couler avec une grande vitesse. Aussi bien dans ce cas que pendant le mal de mer, on élimine une des causes du vertige en fermant les yeux.
+Supposons qu'un homme disposé au vertige se trouve sur [p. 80] 80 un navire dans une position dans laquelle les mouvements du navire ne l'atteignent pas ; il serait pris , néanmoins, du vertige , en regardant autour de lui les objets qui se trouvent dans un mouvement continuel ; comme nous éprouvons du vertige en regardant d'un pont très-bas l'eau couler avec une grande vitesse. Aussi bien dans ce cas que pendant le mal de mer, on élimine une des causes du vertige en fermant les yeux.
 
 Par contre, le vertige produit par la rotation du corps augmente lorsqu'on ferme les yeux, et même, comme nous l'avons déjà dit, lorsqu'on fixe subitement un objet situé tout près des yeux, parce qu'ici les sensations d'innervation, loin d'augmenter le vertige, servent, au contraire, à le combattre .
 
@@ -1536,11 +1288,7 @@ De mème , un malade atteint du vertige par une cause centrale, par exemple une 
 
 Les exemples multiples que nous venons de citer ont eu pour objet de démontrer que le vertige visuel est loin d'avoir pour cause unique les troubles des innervations des muscles oculaires .
 
-L'illusion d'un mouvement apparent doit se produire toutes les fois qu'il y a désaccord entre notre perception et notre représentation de l'espace idéal. Que ce désaccord soit produit par un nystagmus subit, par des mouvements passifs des globes oculaires , au début des paralysies des muscles bulbaires, par des perturbations mécaniques dans le cerveau (comme pendant la rotation prolongée de notre corps autour de son axe longitudinal) ou enfin par des lésions des canaux semi-circulaires, le
-
-[p. 81]
-
-81 résultat sera toujours le même : nous verrons du mouvement là où en réalité il n'y a que le repos .
+L'illusion d'un mouvement apparent doit se produire toutes les fois qu'il y a désaccord entre notre perception et notre représentation de l'espace idéal. Que ce désaccord soit produit par un nystagmus subit, par des mouvements passifs des globes oculaires , au début des paralysies des muscles bulbaires, par des perturbations mécaniques dans le cerveau (comme pendant la rotation prolongée de notre corps autour de son axe longitudinal) ou enfin par des lésions des canaux semi-circulaires, le [p. 81] 81 résultat sera toujours le même : nous verrons du mouvement là où en réalité il n'y a que le repos .
 
 Quand le vertige produit par ce désaccord atteindra un degré supérieur, nous en subirons toutes les conséquences, comme les nausées, les vomissements, l'impossibilité de maintenir l'équilibre , la tendance aux mouvements involontaires , etc.
 
@@ -1560,11 +1308,7 @@ E.
 
 DE CYON .
 
-11
-
-[p. 82]
-
-82 bien plus violentes que dans les autres cas . En outre , elles seront plus persistantes, parce qu'elles continueront jusqu'à ce que cesseront les
+11 [p. 82] 82 bien plus violentes que dans les autres cas . En outre , elles seront plus persistantes, parce qu'elles continueront jusqu'à ce que cesseront les
 
 excitations extérieures qui les
 
@@ -1586,11 +1330,7 @@ La même prédilection se manifeste chez les lapins ayant les canaux sectionnés
 
 aussitôt qu'ils ont repris la faculté de changer de place. Souvent même on trouve les lapins dans un coin sombre et ayant, en outre, les yeux fermés,
 
-Quand, aussitôt après avoir pratiqué une opération sur les canaux, on ferme aux pigeons les yeux à l'aide d'un petit
-
-[p. 83]
-
-83 bonnet, ils restent sur place immobiles, ou s'ils se déplacent, on ne leur voit pas la moindre tendance à chercher un coin ou l'appui d'un mur.
+Quand, aussitôt après avoir pratiqué une opération sur les canaux, on ferme aux pigeons les yeux à l'aide d'un petit [p. 83] 83 bonnet, ils restent sur place immobiles, ou s'ils se déplacent, on ne leur voit pas la moindre tendance à chercher un coin ou l'appui d'un mur.
 
 Il est facile de se rendre compte de cette crainte de la lumière dans les cas très-rares où l'opération a provoqué chez le pigeon un nystagmus, ou de fortes oscillations de la tête ;
 
@@ -1610,11 +1350,7 @@ fausses représentations sur l'espace , ou, pour mieux dire, à un désaccord en
 
 Tous les observateurs ont pu constater cet étrange phénomène que les pigeons, ayant les canaux lésés (surtout quand l'opération a porté sur les verticaux postérieurs seuls ou, en même temps, sur une autre paire) , ne peuvent souvent conserver leur équilibre que quand ils renversent complétement la position de la tête, c'est-à-dire quand leur tête est placée de manière que le bec est dirigé en haut et l'occiput en bas . Dans cette position, l'œil droit se trouve à gauche, l'œil gauche à droite, les parties supérieures de la rétine deviennent les parties inférieures , etc.
 
-Aussitôt que le pigeon arrive à être un peu maître de ses mouvements, il choisit cette attitude qu'il garde aussi longtemps
-
-[p. 84]
-
-84 qu'une impulsion de dehors ne le force pas de l'abandonner. Il suffit de lui remettre la tête dans l'attitude normale pour, immédiatement , provoquer un accès de mouvements involontaires .
+Aussitôt que le pigeon arrive à être un peu maître de ses mouvements, il choisit cette attitude qu'il garde aussi longtemps [p. 84] 84 qu'une impulsion de dehors ne le force pas de l'abandonner. Il suffit de lui remettre la tête dans l'attitude normale pour, immédiatement , provoquer un accès de mouvements involontaires .
 
 On dirait que par la position renversée de la tête le pigeon parvient à rétablir, en partie, l'accord entre les deux espaces , et à maîtriser ainsi son vertige .
 
@@ -1632,9 +1368,7 @@ J'aurais d'autant plus dû remarquer que la présence des mouvements de la tête
 
 Ce n'est pourtant qu'après avoir, pour la première fois , observé chez le pigeon les troubles de l'équibre les plus prononcés sans la moindre oscillation de la tête, que je suis revenu de ma première manière de voir .
 
-[p. 85]
-
-85
+[p. 85] 85
 
 Les observations sur le nystagmus, provoqué chez les lapins par
 
@@ -1654,11 +1388,7 @@ En un mot, dans les cas où il y a immobilité de la tête, le vertige est encor
 
 Il ressort de l'ensemble des observations sur les lésions des canaux semi-circulaires chez les différents animaux, encore un autre fait que je regarde comme des plus importants pour ma théorie de leurs fonctions .
 
-Par l'exposé des expériences, le lecteur a pu se convaincre que chez divers animaux les suites de ces lésions diffèrent sensiblement : chez les pigeons, les troubles se concentrent principalement dans les muscles de la tête ; chez la grenouille , c'est presque exclusivement le tronc qui est atteint, tandis que chez
-
-[p. 86]
-
-86 le lapin, ce sont surtout les muscles du globe oculaire qui sont pris .
+Par l'exposé des expériences, le lecteur a pu se convaincre que chez divers animaux les suites de ces lésions diffèrent sensiblement : chez les pigeons, les troubles se concentrent principalement dans les muscles de la tête ; chez la grenouille , c'est presque exclusivement le tronc qui est atteint, tandis que chez [p. 86] 86 le lapin, ce sont surtout les muscles du globe oculaire qui sont pris .
 
 Or, l'excessive mobilité de la tête des pigeons leur sert, à l'état normal, comme moyen principal d'orientation ; l'appareil moteur des yeux est très-peu développé chez eux .
 
@@ -1690,11 +1420,7 @@ que les observations communiquées en dernier lieu prêtent à ma manière d'env
 
 Explication des phénomènes de Flourens .
 
-Nous devons, maintenant, discuter encore une question de grande importance, celle du rapport entre les divers troubles de
-
-[p. 87]
-
-locomotion qu'on observe et la section des canaux semi-circulaires.
+Nous devons, maintenant, discuter encore une question de grande importance, celle du rapport entre les divers troubles de [p. 87] locomotion qu'on observe et la section des canaux semi-circulaires.
 
 L'exposé de nos vues sur la fonction de ces organes indique clairement que nous regardons la perte de l'équilibre , comme une conséquence du trouble psychique dans la notion de l'espace produit, par la lésion de ces canaux .
 
@@ -1706,11 +1432,7 @@ Chacun de nous a eu occasion de constater sur lui-même comment cette tendance e
 
 Nous pouvons donc parfaitement admettre qu'un vertige intense produit par la lésion des canaux amène l'animal à exécuter des mouvements involontaires .
 
-Le caractère un peu étrange de ces mouvements chez le pigeon ne doit pas trop nous surprendre. Les culbutes sont des
-
-[p. 88]
-
-mouvements qu'on apprend très-facilement aux pigeons ; il suffit de se rappeler les pigeons culbuteurs, qui exécutent ces mouvements mème à l'état normal .
+Le caractère un peu étrange de ces mouvements chez le pigeon ne doit pas trop nous surprendre. Les culbutes sont des [p. 88] mouvements qu'on apprend très-facilement aux pigeons ; il suffit de se rappeler les pigeons culbuteurs, qui exécutent ces mouvements mème à l'état normal .
 
 D'un autre côté, nous n'avons qu'à nous rappeler l'impulsion irrésistible à la culbute que nous éprouvons, quand nous nous mettons sur la tête ayant les pieds en l'air, pour pouvoir nous rendre compte pourquoi un pigeon une fois amené à se mettre verticalement sur la tête ou sur la queue éprouve une tendance à culbuter.
 
@@ -1720,7 +1442,7 @@ On n'a qu'à essayer de s'opposer à ces mouvements pour apprécier leur force e
 
 Même chez le pigeon on a souvent bien de la peine à retenir les mouvements, surtout quand tous les canaux semi-circulaires ont été détruits .
 
-Flourens , avec cette finesse d'observation qui lui était propre, a été amené par la violence de ces mouvements à la conclusion que : « dans les canaux semi-circulaires ... résident les forces modératrices des mouvements » (loc. cit. , p. 501) .
+Flourens , avec cette finesse d'observation qui lui était propre, a été amené par la violence de ces mouvements à la conclusion que : « dans les canaux semi-circulaires ... résident les forces modératrices des mouvements » (*loc. cit.* , p. 501) .
 
 Cette conclusion qui, à l'état de connaissances physiologiques à cette époque, ne pouvait pas être plus approfondie, contient le germe de la vérité ; tâchons de l'établir .
 
@@ -1728,11 +1450,7 @@ Dans les mouvements que nous exécutons, la force de l'innervation de chaque mus
 
 La force de la contraction musculaire dépendant directement de la force d'innervation, on comprend aisément que dans la plupart des mouvements combinés c'est cette dernière force qui en détermine le caractère et le but .
 
-La distribution ou, pour mieux dire, la graduation de la force d'innervation décide seule quel groupe de muscles produira le mouvement principal, quel autre ne servira qu'à fixer
-
-[p. 89]
-
-89 d'autres parties du corps ou modérera par le jeu des antagonistes le mouvement projeté, etc.
+La distribution ou, pour mieux dire, la graduation de la force d'innervation décide seule quel groupe de muscles produira le mouvement principal, quel autre ne servira qu'à fixer [p. 89] 89 d'autres parties du corps ou modérera par le jeu des antagonistes le mouvement projeté, etc.
 
 Cette graduation troublée, tout mouvement combiné devient aussi impossible que si, à la place des muscles qui devaient entrer en contraction, c'étaient d'autres qui dussent se contracter .
 
@@ -1752,11 +1470,7 @@ Même en mettant une partie de ces mouvements sur le compte de l'excitation réf
 
 E. DE CYON .
 
-12
-
-[p. 90]
-
-90
+12 [p. 90] 90
 
 Cette exagération dans les contractions est tellement frappante que plusieurs auteurs qui se sont occupés des lésions des canaux semi-circulaires, n'ayant en vue que ce fait, en ont conclu que les canaux règlent la sensibilité musculaire, et que c'est la perte de cette sensibilité qui provoque les troubles de la locomotion (M. Bornhardt et d'autres) .
 
@@ -1772,13 +1486,9 @@ Il rappelle de très-près la marche caractéristique des atactiques . Ici nous 
 
 Comme cette absence coïncide avec les lésions des canaux semi-circulaires, on doit en conclure que les centres nerveux auxquels aboutissent les sensations transmises par ces canaux , interviennent d'une manière quelconque dans la distribution de la force d'innervation .
 
-A priori une telle participation de ces centres à la régularisation de la force d'innervation est de plus justifiée. Il est, en effet, évident que la force d'innervation doit se régler, avant tout, d'après l'intensité du mouvement projeté, c'est-à-dire d'après l'intensité du déplacement projeté d'une partie de notre corps par rapport au monde extérieur .
+*A priori* une telle participation de ces centres à la régularisation de la force d'innervation est de plus justifiée. Il est, en effet, évident que la force d'innervation doit se régler, avant tout, d'après l'intensité du mouvement projeté, c'est-à-dire d'après l'intensité du déplacement projeté d'une partie de notre corps par rapport au monde extérieur .
 
-Pour combiner un tel déplacement, l'exacte appréciation des distances est de première nécessité. L'organe où se concentrent
-
-[p. 91]
-
-91 toutes les notions sur l'espace et sur la position de notre corps dans l'espace extérieur est donc le plus à même de se charger de cette combinaison .
+Pour combiner un tel déplacement, l'exacte appréciation des distances est de première nécessité. L'organe où se concentrent [p. 91] 91 toutes les notions sur l'espace et sur la position de notre corps dans l'espace extérieur est donc le plus à même de se charger de cette combinaison .
 
 En résumé, les troubles qui se manifestent après les lésions des canaux semi-circulaires sont dus a. A un vertige visuel produit par le désaccord entre l'espace vu et l'espace idéal ;
 
@@ -1798,11 +1508,7 @@ Avant d'aborder cette question, il me faut répondre à une objection à priori 
 
 Nous sommes habitués, chaque fois qu'il s'agit d'un organe des sens, de rechercher quel est l'agent réel du monde extérieur qui, agissant sur la partie périphérique de cet organe , provoque chez nous les sensations qui, perçues par notre intelligence, nous servent à former le jugement sur les propriétés de cet agent extérieur . Or, quel peut être l'agent extérieur agissant sur les nerfs d'un canal membraneux qui peut nous amener à la représentation d'un espace à trois dimensions ? Nous verrons tout de suite qu'il n'est pas impossible de donner à cette question une réponse assez satisfaisante .
 
-Mais je tiens à constater auparavant que même, si nous étions incapables de donner une pareille réponse, ceci ne prouverait
-
-[p. 92]
-
-f encore rien contre la justesse de notre théorie des fonctions des canaux semi-circulaires .
+Mais je tiens à constater auparavant que même, si nous étions incapables de donner une pareille réponse, ceci ne prouverait [p. 92] f encore rien contre la justesse de notre théorie des fonctions des canaux semi-circulaires .
 
 En effet, y a-t-il longtemps que nous avons des notions scientifiques sur la nature des excitants qui provoquent nos perceptions des couleurs ou des sons ?
 
@@ -1820,11 +1526,7 @@ celle de M. Mach .
 
 En effet , étant donné que l'excitation de ces canaux doit nous procurer des représentations sur l'espace, les sensations provoquéęs par les changements de position de la tête par rapport à l'espace extérieur, pourraient très-bien servir à la formation de cette représentation . Aussi n'est-ce qu'à regret que j'ai dû renoncer à l'hypothèse de MM. Goltz et Mach, en vue du résultat des expériences mentionnées plus haut ; ce résultat prouvant que même des changements assez notables de pression dans les canaux membraneux ne produisent aucun des phénomènes de Flourens .
 
-Mais la nécessité d'abandonner l'hypothèse de M. Goltz est loin de nous ôter tout moyen de rattacher les excitations des canaux membraneux aux déplacements de la tête ; il suffit de
-
-[p. 93]
-
-93 fixer l'attention par la structure des terminaisons nerveuses dans les ampoules et dans les canaux semi-circulaires pour trouver plusieurs conditions favorables à leur excitation mécanique .
+Mais la nécessité d'abandonner l'hypothèse de M. Goltz est loin de nous ôter tout moyen de rattacher les excitations des canaux membraneux aux déplacements de la tête ; il suffit de [p. 93] 93 fixer l'attention par la structure des terminaisons nerveuses dans les ampoules et dans les canaux semi-circulaires pour trouver plusieurs conditions favorables à leur excitation mécanique .
 
 Comme de raison, la première est donnée par les otolithes contenus non-seulement dans les saccules, mais aussi dans les ampoules et même dans les canaux. Chaque déplacement de la tête , soit actif, soit passif, doit produire un ébranlement de ces otolithes qui amènera une excitation mécanique des terminaisons nerveuses .
 
@@ -1836,11 +1538,7 @@ Non-seulement les ondes sonores de l'air, c'est-à-dire celles dont le nombre pa
 
 La faculté de reconnaître la direction du son, faculté si développée chez l'homme à l'état sauvage et chez quelques animaux, serait peut-être aussi en rapport avec la fonction de la huitième paire , que nous venons d'établir .
 
-Nos connaissances anatomiques sur les parties en question sont, malgré leur variété, encore trop incomplètes pour qu'on puisse pénétrer plus avant dans le mécanisme de l'excitation des terminaisons nerveuses . Ainsi il serait par exemple important de connaître le poids spécifique des otolithes, par rapport
-
-[p. 94]
-
-à celui de l'endolymphe, pour pouvoir bien préciser les conditions dans lesquelles un otolithe peut entrer en vibration .
+Nos connaissances anatomiques sur les parties en question sont, malgré leur variété, encore trop incomplètes pour qu'on puisse pénétrer plus avant dans le mécanisme de l'excitation des terminaisons nerveuses . Ainsi il serait par exemple important de connaître le poids spécifique des otolithes, par rapport [p. 94] à celui de l'endolymphe, pour pouvoir bien préciser les conditions dans lesquelles un otolithe peut entrer en vibration .
 
 Il se pourrait même que le mouvement de l'otolithe dans l'utriculus ou le succulus communiquât une série de secousses aux fibres nerveuses, tantôt d'un canal membraneux, tantòt d'un autre, selon la position que prend ce canal membraneux par le déplacement de la tête .
 
@@ -1860,9 +1558,7 @@ Cependant nous pouvons formuler sur la nature de la sensation inconsciente à la
 
 Nous avons déjà indiqué plus haut la disposition anatomique des terminaisons nerveuses dans des plans perpendiculaires l'un à l'autre , comme favorisant considérablement le fonctionnement des canaux semi-circulaires .
 
-[p. 95]
-
-95
+[p. 95] 95
 
 En effet, nous pouvons très-bien nous représenter que l'excitation des terminaisons nerveuses d'un canal membraneux produit des sensations d'étendue (Empfindung einer räumlichen Ausdehnung) dans un plan perpendiculaire aux plans des deux autres canaux.
 
@@ -1876,11 +1572,7 @@ Voici encore un point sur lequel je désire attirer l'attention, et qui ne plaid
 
 Nous n'avons pas insisté dans ce travail sur les nombreuses recherches faites par MM. Nagel, Skrebitzky, Aubert et d'autres sur les mouvements des globes oculaires qui suivent les différentes inclinaisons de la tête, et les variations dans le jugement sur la position de la verticale qui résultent de ces mouvements .
 
-Mais après les observations sur les relations entre les canaux semi-circulaires et les centres d'innervation des muscles des yeux, on peut à peine douter que le mécanisme par lequel les
-
-[p. 96]
-
-96 globes oculaires suivent les changements d'attitude de la tête ne soit donné par les relations indiquées .
+Mais après les observations sur les relations entre les canaux semi-circulaires et les centres d'innervation des muscles des yeux, on peut à peine douter que le mécanisme par lequel les [p. 96] 96 globes oculaires suivent les changements d'attitude de la tête ne soit donné par les relations indiquées .
 
 Notre hypothèse que les déplacements de la tête donnent la première impulsion à l'excitation des terminaisons nerveuses dans les canaux trouve ainsi un nouvel appui.
 
@@ -1902,9 +1594,7 @@ Or, il est évident que la section d'un canal membraneux ne peut, en aucune faç
 
 nement des canaux peut persister encore après leur section .
 
-[p. 97]
-
-- 97 Ceci se comprend : vu la disposition des éléments anatomiques dans ces canaux, la section ne peut que troubler leurs fonctions ou en détruire une partie, celle, par exemple, qui dépend des terminaisons nerveuses séparées, par la section, du tronc nerveux .
+[p. 97] - 97 Ceci se comprend : vu la disposition des éléments anatomiques dans ces canaux, la section ne peut que troubler leurs fonctions ou en détruire une partie, celle, par exemple, qui dépend des terminaisons nerveuses séparées, par la section, du tronc nerveux .
 
 Il s'ensuit donc que pour déterminer si l'ouïe persiste après l'ablation des canaux semi-circulaires, il ne suffit pas de les sectionner ; il faut les détruire complétement . Ce que j'ai fait plusieurs fois , en retirant les canaux membraneux avec les ampoules par les ouvertures faites dans les canaux osseux .
 
@@ -1926,11 +1616,7 @@ E.
 
 DE CYON .
 
-13
-
-[p. 98]
-
-beaucoup de détails cette double origine de la huitième paire .
+13 [p. 98] beaucoup de détails cette double origine de la huitième paire .
 
 Une de ses racines prend son origine dans un noyau de petites cellules ganglionnaires, situé au plancher du quatrième ventricule . La seconde racine, composée de cylindres axes, les plus forts qu'on rencontre dans le corps, a son origine dans un noyau de grandes cellules situé dans les pédoncules cérébelleux. Cette dernière racine porte, à l'instar des racines postérieures de la moelle, un petit ganglion aussitôt après sa sortie de la moelle .
 
@@ -1942,11 +1628,7 @@ Jusqu'à présent les zoologistes ont eu l'habitude de décrire comme organe de 
 
 Ils ne réagissent d'habitude contre aucun bruit ; un organe auditif serait d'ailleurs pour ces animaux d'une utilité trèsproblématique .
 
-Par contre, un organe d'orientation serait de première nécessité pour tous les animaux capables de se déplacer ; et, si nous étudions la structure des organes appelés auditifs en descendant dans l'échelle des animaux, nous pouvons constater que c'est le limaçon qui disparaît le premier, tandis que les
-
-[p. 99]
-
-99 canaux semi-circulaires
+Par contre, un organe d'orientation serait de première nécessité pour tous les animaux capables de se déplacer ; et, si nous étudions la structure des organes appelés auditifs en descendant dans l'échelle des animaux, nous pouvons constater que c'est le limaçon qui disparaît le premier, tandis que les [p. 99] 99 canaux semi-circulaires
 
 et surtout les saccules
 
@@ -1968,9 +1650,7 @@ J'ai gardé les lamproies dans le même aquarium avec des grenouilles , et la di
 
 Pour vérifier ma manière d'envisager les fonctions des canaux semi-circulaires, je les ai détruits chez quelques lamproies ; les résultats de cette opération sont venus, on ne peut mieux , confirmer mes prévisions : les mêmes organes qui se sont montrés si réfractaires à toute excitation sonore, ont réagi contre cette destruction de la manière la plus frappante par les troubles dans la locomotion .
 
-[p. 100]
-
-100
+[p. 100] 100
 
 L'opération elle-même est très-facile à exécuter : on trouve la caisse cartilagineuse qui s'appuie contre le crâne, à deux millimètres de l'œil, dans une direction diagonale allant de l'œil vers la partie postérieure du dos. Après avoir enlevé les couches musculaires , on découvre la petite caisse, qu'on ouvre à l'aide de la pointe d'un scalpel ; après quoi on retire le labyrinthe membraneux avec une pince à branches allongées .
 
@@ -1982,11 +1662,7 @@ On observe le même phénomène quand on la retourne sur le dos ; elle nage alor
 
 quand elle s'arrête, elle cherche à s'attacher par la partie dorsale de sa ventouse, et ce n'est qu'après plusieurs efforts inutiles qu'elle reprend sa position normale. Souvent ce mouvement de manége est exécuté dans un plan vertical, toute la lamproie ne formant qu'un cercle , grâce à ce que la tête touche la queue .
 
-Que les canaux semi-circulaires soient détruits d'un côté ou des deux côtés, la paresse habituelle des lamproies en est considérablement augmentée . Elles restent des journées entières attachées avec leurs ventouses à la même place, et ne se dé
-
-[p. 101]
-
-101 placent que quand elles y sont forcées par une influence exté rieure . Au moment où j'écris ces lignes, je conserve des lamproies ainsi opérées depuis sept semaines, et les troubles de leurs mouvements sont restés les mêmes. Si je ferme leurs yeux au moyen d'un petit bonnet, elles se débattent sur place et nagent en arrière ; une lamproie ayant ses canaux intacts, quand on la place dans les mêmes conditions, fait avec sa queue des efforts pourarracher le bonnet jusqu'à ce qu'elle y ait réussi .
+Que les canaux semi-circulaires soient détruits d'un côté ou des deux côtés, la paresse habituelle des lamproies en est considérablement augmentée . Elles restent des journées entières attachées avec leurs ventouses à la même place, et ne se dé [p. 101] 101 placent que quand elles y sont forcées par une influence exté rieure . Au moment où j'écris ces lignes, je conserve des lamproies ainsi opérées depuis sept semaines, et les troubles de leurs mouvements sont restés les mêmes. Si je ferme leurs yeux au moyen d'un petit bonnet, elles se débattent sur place et nagent en arrière ; une lamproie ayant ses canaux intacts, quand on la place dans les mêmes conditions, fait avec sa queue des efforts pourarracher le bonnet jusqu'à ce qu'elle y ait réussi .
 
 J'ai eu un trop petit nombre de lamproies à ma disposition pour pouvoir m'exercer à opérer sur chaque canal séparément ;
 
@@ -1996,11 +1672,7 @@ Je me propose de pousser encore plus loin mes études sur les mouvements des lam
 
 Quoi qu'il en soit, il ressort des expériences instituées par moi, que chez les lamproies, chez lesquelles le limaçon est absent, l'organe appelé auditif ne sert probablement que comme organe d'orientation dans l'espace. Serait-il bien osé de conclure après cela que chez les animaux non vertébrés les organes dites de l'ouïe ne sont que des organes du sens de l'espace ou tout au moins des organes d'orientation ?
 
-Je me permettrai encore d'attirer l'attention sur un point qu'il ne faut pas perdre de vue ; je suis arrivé plus haut à voir
-
-[p. 102]
-
-102 dans les mouvements des otolithes la cause de l'excitation des terminaisons périphériques de notre organe des sens . Or, il est constaté que les otolithes se trouvent chez tous les animaux qui possèdent un organe auditif, même dans l'état le plus rudimentaire .
+Je me permettrai encore d'attirer l'attention sur un point qu'il ne faut pas perdre de vue ; je suis arrivé plus haut à voir [p. 102] 102 dans les mouvements des otolithes la cause de l'excitation des terminaisons périphériques de notre organe des sens . Or, il est constaté que les otolithes se trouvent chez tous les animaux qui possèdent un organe auditif, même dans l'état le plus rudimentaire .
 
 Inutile d'insister davantage sur l'appui que ce fait prête à ma manière d'envisager le fonctionnement des canaux semicirculaires .
 
@@ -2106,7 +1778,7 @@ M. BÖTTCHER .
 
 M. BARTHOLD .
 
-Ibid.
+*Ibid.*
 
 M. BORNHARDT .
 
@@ -2120,9 +1792,7 @@ M. HELMHOLTZ .
 
 Traité d'optique physiologique, traduit par M. Javal. Paris.[^p103-1][^p103-2][^p103-3]
 
-[p. 104]
-
-[p. 105]
+[p. 104] [p. 105]
 
 ## Table des Matières
 
@@ -2204,7 +1874,7 @@ Expériences sur les canaux semi-circulaires des grenouilles ..
 
 Objections de M. Böttcher .
 
-### Chapitre ii
+### Chapitre II
 
 NOUVELLES RECHERCHES DE L'AUTEUR....
 
@@ -2402,9 +2072,7 @@ Thérapeutique . - Des indications de la médication vomitive .
 
 Hygiène . -Des bains .
 
-[p. 108]
-
-108 Médecine légale. — Est-il indispensable pour affirmer qu'il y a eu empoisonnement que la substance toxique ait été isolée.
+[p. 108] 108 Médecine légale. — Est-il indispensable pour affirmer qu'il y a eu empoisonnement que la substance toxique ait été isolée.
 
 Accouchements .
 

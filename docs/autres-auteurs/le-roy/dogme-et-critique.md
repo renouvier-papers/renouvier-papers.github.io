@@ -10,9 +10,7 @@ title: "Dogme et critique (1907)"
 
 ---
 
-[p. V]
-
-PRÉFACE.
+[p. V] PRÉFACE.
 
 Ilya presque deux ans, le 16 avril 1905, je publiais
 dans la Quinzaine un article intitulé Qu'est-ce qu'un
@@ -39,9 +37,7 @@ ou queje doute le moins du monde sur mon devoir
 de catholique..
 236264
 
-[p. VI]
-
-Mon but était en somme d'exposer certains faits
+[p. VI] Mon but était en somme d'exposer certains faits
 que j'avais pu observer autour de moi, et aussi de
 rapporter une expérience que j'avaisfaite dans mes
 relations avec le monde intellectuel incroyant. Aux
@@ -80,9 +76,7 @@ enfin de compte que je trouve peu respectueuses.
 
 [^pVI-1]: La Vérité Française. nº du 20 décembre 1905 .
 
-[p. VII]
-
-Pour moi,relisant ce quifut écrit et me sentant prêt
+[p. VII] Pour moi,relisant ce quifut écrit et me sentant prêt
 à l'écrire encore, je déclare avec M. Fonsegrive [^pVII-1] :
 •Avons-nous eu tort de dire cela tout haut et, catho-
 liques, d'avoir eu assez de confiance dans notre foi,
@@ -119,9 +113,7 @@ prenne tout entiers, cœur, volonté, intelligence ; en
 
 [^pVII-1]: Quinzaine du 1erjanvier 1906, p. 30.
 
-[p. VIII]
-
-un mot, une obéissance d'hommes raisonnables et
+[p. VIII] un mot, une obéissance d'hommes raisonnables et
 d'hommeslibres, non d'esclaves ou de muets .
 Cependant, aussitôt paru l'article Qu'est-ce qu'un
 dogme ? une vaste controverse commença, qui se
@@ -157,9 +149,7 @@ pour comprendreet necherchant que le royaume de [^pVIII-1]
 
 [^pVIII-1]: Voirla Note I à la findu volume. !
 
-[p. IX]
-
-Dieu, le bien des âmes, la lumière de la vérité. Le
+[p. IX] Dieu, le bien des âmes, la lumière de la vérité. Le
 présent livre leur est dédié, à eux et à tous ceих,
 connus ou inconnus, qui leur ressemblent. A -t- il
 besoin de se justifier autrement que par ces paroles
@@ -194,11 +184,7 @@ estposée, et nul ne fera qu'elle ne le soit point; les
 idéesferont désormais leur chemin toutes seules, et
 nul ne les arrêtera . A l'avenir de répondre. Peut-
 être verrons-nous bientôt une fois de plus ce qui fut
-d'abordjugé téméraire et scandaleux finir par être
-
-[p. X]
-
-universellement accepté comme une chose toute
+d'abordjugé téméraire et scandaleux finir par être [p. X] universellement accepté comme une chose toute
 simple et toute banale .
 
 *
@@ -232,11 +218,7 @@ que j'ai cru préférable de parler français . Mais est-
 on bien sûr que ce soit par ignorance ? Ne serait ce
 pas plutôt parce qu'ily a des langages qui supposent
 et impliquent toute une philosophie ? Au surplus,
-peut-être n'est-il pas mauvais de parler aux gens un
-
-[p. XI]
-
-langage qu'ils entendent. Or on ne saurait nier
+peut-être n'est-il pas mauvais de parler aux gens un [p. XI] langage qu'ils entendent. Or on ne saurait nier
 qu'aujourd'hui l'emploi du langage scolastique soit
 moins une aide qu'un obstacle . A quoi bon dès lors,
 quand on s'adresse à des modernes avec le désir
@@ -273,11 +255,7 @@ et le reproche serait
 plus grave, s'il était fondé - d'être un artisan de
 scandale, detroubler lafoides simples. Quelques uns.
 ont même eu la charité de dire que je m'y appliquais.
-Étrange illusion ! Ily a beau temps qu'en France les
-
-[p. XII]
-
-questions de critique religieuse appartiennent au do-
+Étrange illusion ! Ily a beau temps qu'en France les [p. XII] questions de critique religieuse appartiennent au do-
 maine public. Espère-t-on réussir à garder en vase
 clos, loin de tout ce qui se dit et de tout ce qui se fait,
 les âmes desfidèles ? Dans la mesure toujours petite
@@ -311,11 +289,7 @@ scandaliser les incroyants: car eux ne disposent
 point des ressources surnaturelles qui sont là pour
 protéger et soutenir tout chrétien, même simple, dès
 qu'il le veut . Voilà où vraiment lapartie n'est pas
-égale . Et quant aux ignorants - que d'ailleurs on
-
-[p. XIII]
-
-protégerait mieux en n'appelant pointpar tant de
+égale . Et quant aux ignorants - que d'ailleurs on [p. XIII] protégerait mieux en n'appelant pointpar tant de
 bruit leur attention sur des controverses qui ne leur
 sontpas destinées – je ne voudrais certes pas qươn
 se crût en droit de mépriser leurs représentations
@@ -353,9 +327,7 @@ que ceux qui parlent ainsi n'appartiennent pas plus
 
 [^pXIII-1]: A. LOISY, La religion d'Israël,p. 20.
 
-[p. XIV]
-
-quenous à l'Église enseignante. Sous le vocable de
+[p. XIV] quenous à l'Église enseignante. Sous le vocable de
 l'autorité, c'est en faveur de leurs propres opinions
 qu'ils réclament . Sur quoi donc reposent leurs pré-
 tentions? Notre pensée, notre foi, notre vie, notre
@@ -388,11 +360,7 @@ sion d'enseigner et de conduire, nous devons respect
 et soumission . Cette soumission et ce respect, nous
 les donnons sans réserves . Toutefois notre obéissance
 veut être celle de fils, non de courtisans ou d'es-
-claves ; et elle se concilie avec le devoir, qui nous
-
-[p. XV]
-
-incombe en qualité d'hommes, de penser et d'agır
+claves ; et elle se concilie avec le devoir, qui nous [p. XV] incombe en qualité d'hommes, de penser et d'agır
 par nous-mêmes ( ') .
 
 [^pXV-1]
@@ -428,9 +396,7 @@ moins et véhicules de la pensée chrétienne à travers
 [^pXV-1]: Voir la Note IX à la fin du volume.
 [^pXV-2]: Voir la Note II à la fin du volume.
 
-[p. XVI]
-
-les âges, selon leur rapport avec lafoi plutôt qu'avec
+[p. XVI] les âges, selon leur rapport avec lafoi plutôt qu'avec
 l'histoire. N'est-ce pas légitime quand il s'agit de dé-
 fendre contre des objections théologiquesle caractère
 authentiquement traditionnel de certaines idées ?
@@ -462,11 +428,7 @@ frappent sans instruire, qui n'expliquent rien, qui
 ne répondent pas aux difficultés, qui ne substituent
 aucune solution à celles qu'elles rejettent. Quand on
 s'adresse à des chrétiens qui sont et veulent rester
-soumis, on pourrait, semble-t- il, procéder autrement
-
-[p. XVII]
-
-de manière à ne pas accumuler comme à plaisir
+soumis, on pourrait, semble-t- il, procéder autrement [p. XVII] de manière à ne pas accumuler comme à plaisir
 les obstacles sur le chemin de l'apologétique.
 Quoi qu'il arrive, d'ailleurs,
 et c'est par cette
@@ -481,9 +443,7 @@ opinions personnelles, d'avance nous y adhérons .
 
 Dogmeet Critique
 
-[p. 1]
-
-QU'EST-CE QU'UN DOGME ? [^p1-1]
+[p. 1] QU'EST-CE QU'UN DOGME ? [^p1-1]
 
 Ce titre n'est qu'une simple question, nullement une
 promesse de réponse: question du philosophe au théo-
@@ -513,9 +473,7 @@ dans le monde incrédule où il vit. Lui seul peut effica-
 
 [^p1-1]: Article publié dans la Quinzaine du 16 avril 1905.
 
-[p. 2]
-
-cement servir de véhicule et d'intermédiaire à la parole
+[p. 2] cement servir de véhicule et d'intermédiaire à la parole
 chrétienne pour atteindre ceux qui ont la défiance du
 prêtre. Il est donc inévitable que des problèmes d'apo-
 logétique se posent devant lui, problèmes dont la solu-
@@ -553,11 +511,7 @@ atteint mon but. Il ne s'agit pas de soutenir un système
 'ni d'aligner des arguments pour ou contre telle ou telle
 école, mais uniquement d'éclaircir certaines idées fon-
 damentales dont la considération s'impose à tout sys-
-tème et à toute école. Un effort vers la lumière, au sein
-
-[p. 3]
-
-de la vérité catholique fidèlement acceptée dans så plé-
+tème et à toute école. Un effort vers la lumière, au sein [p. 3] de la vérité catholique fidèlement acceptée dans så plé-
 nitude et sa rigueur : voilà ce que je soumets au juge
 ment de ceux qui ont charge de définir et d'interpréter.
 Ce que je voudrais avant tout, je le répète, c'est faire
@@ -599,9 +553,7 @@ saire d'entreprendre en général.
 
 [^p3-1]: J'avertis une fois pour toutes que par <<< dogme > j'entends surtout la proposition dogmatique », la <<formule dogmatiqué », non point la réalité sous-jacente.
 
-[p. 4]
-
-Qu'on ne croie pas un tel travail inutile ou superflul
+[p. 4] Qu'on ne croie pas un tel travail inutile ou superflul
 Rien au contraire n'est aujourd'hui d'une plus impérieu-
 se, d'une plus urgente nécessité. Il est étrange et lamen-
 table à quel point on ignore ou méconnaît parfois, du
@@ -641,9 +593,7 @@ lades il y a ? Elle doit donc prendre les gens comme ils
 [^p4-1]: J'en dirais autant, d'ailleurs, de nos adversaires par rap- port à nous .
 [^p4-2]: L'objet de la foi reste toujours le même, mais non point manière de le penser ou d'y accéder.
 
-[p. 5]
-
-sont, et nonpas exiger d'eux qu'ils viennent d'abord par
+[p. 5] sont, et nonpas exiger d'eux qu'ils viennent d'abord par
 leurs seules forces là où elle se place de préférence. Il
 serait étrange encore une fois qu'on n'eût pas le droit
 de guérir autrement que par certains remèdes .
@@ -679,11 +629,7 @@ théologiens de les résoudre.
 Nous ne sommes plus au temps des hérésies partielles.
 Une argumentation purement logique et dialectique pou-
 vait suffire alors, parce que des principes communs
-étaient toujours admis de part et d'autre. Mais il n'en
-
-[p. 6]
-
-va plus demême quand ces principes font défaut, quand
+étaient toujours admis de part et d'autre. Mais il n'en [p. 6] va plus demême quand ces principes font défaut, quand
 la difficulté fondamentale est d'établir un point de dé
 part sur lequel on s'accorde. Or, tel est bien l'état pré
 sent des choses. La négation ne s'attaque pas aujour-
@@ -705,7 +651,7 @@ Leibniz, s'efforce de plus en plus de démontrer jus-
 qu'aux anciens « axiomes ». A tout le moins veut-elle
 avec Kant les justifier par une analyse critique qui les
 montre conditions nécessaires de la connaissance, impli-
-quées a priori dans tout acte de raison. Elle se défie de
+quées *a priori* dans tout acte de raison. Elle se défie de
 ces prétendues évidences immédiates qu'on multipliait si
 facilement jadis. Elle y découvre bien souvent de sim-
 ples postulats adoptés dans un but d'utilité pratique plus
@@ -723,9 +669,7 @@ ment d'illusions et de méprises, de lacunes et d'à peu
 [^p6-1]: J'entends parler ici de démonstration intrinsèque.
 [^p6-2]: Cf. la Philosophie nouvelle issue des travaux de M. Berg son...
 
-[p. 7]
-
-près . Elle n'aime pas non plus les raisonnements exté-
+[p. 7] près . Elle n'aime pas non plus les raisonnements exté-
 rieurs, extrinsèques, qui aboutissent à des démonstra-
 tions d'un caractère négatif, à des démonstrations par
 l'absurde, fondées sur des jugements de contradiction
@@ -765,9 +709,7 @@ de leur vérité. Il y a quelque analogie, semble-t-il, entre
 [^p7-1]: Dans les sciences notamment.
 [^p7-2]: Cette méthode de démonstration extrinsèque se donne comme traditionnelle. C'est là un point d'histoire sur lequel il y aurait beaucoup à dire. Mais une telle discussion est étran- gère à mon sujet.
 
-[p. 8]
-
-8
+[p. 8] 8
 DUGME ET CRITIQUE
 
 une telle démarche et celle du mathématicien qui se
@@ -808,11 +750,7 @@ qu'il s'agit de phénomènes de même espèce que ceux
 dont il a par ailleurs le spectacle direct. Encore juge-t-il
 sa science toujours conjecturale et incertaine dès qu'il
 s'agit de causes un peu profondes ou d'événements un
-peu lointains. Combien plus devra-t-on conclure ainsi
-
-[p. 9]
-
-dans le cas des dogmes où l'on n'envisage que des faits
+peu lointains. Combien plus devra-t-on conclure ainsi [p. 9] dans le cas des dogmes où l'on n'envisage que des faits
 mystérieux, singuliers, déconcertants , auxquels ne cor-
 respond rien d'analogue dans notre expérience humaine l
 On a beau faire : la prétendue démonstration indirecte
@@ -854,9 +792,7 @@ saisirions-nous ? L'expérience elle-même n'est point du
 
 [^p9-1]: Ou du moins paraît prétendre, étant donnée la forme sous laquelle trop souvent on la présente.
 
-[p. 10]
-
-tout une acquisition de « choses » qui nous seraient d'a
+[p. 10] tout une acquisition de « choses » qui nous seraient d'a
 bord totalement étrangères; non, mais plutôt un passage
 de l'implicite à l'explicite, un mouvement en profondeur
 nous révélant des exigences latentes et des richesses vir-
@@ -898,9 +834,7 @@ teux, par exemple, que la doctrine du Verbe ait, dans
 
 [^p10-1]: Voir le Bulletin de la Société française de philosophic, séance du 25 février 1904.
 
-[p. 11]
-
-son origine et dans sa contexture, des attaches étroites
+[p. 11] son origine et dans sa contexture, des attaches étroites
 avec le néo-platonisme alexandrin ; que la théorie de la
 matière et de la forme dans les sacrements ou celle des
 rapports entre substance et accidents dans le dogme de
@@ -939,11 +873,7 @@ en ce qu'ils ne parviennent pas à leur découvrir un sens
 pensable. Ces énoncés ne leur disent rien, ou plutôt leur
 paraissent indissolublement liés à un état d'esprit qu'ils
 n'ont plus et auquel ils estiment ne plus pouvoir revenir
-sans déchoir. Beaucoup de croyants sont d'ailleurs in
-
-[p. 12]
-
-plicitement du même avis et préfèrent s'abstenir de
+sans déchoir. Beaucoup de croyants sont d'ailleurs in [p. 12] plicitement du même avis et préfèrent s'abstenir de
 toute réflexion, pressentant quels obstacles ils rencon-
 treraient à penser ce qu'ils croient sous les formes qu'on
 leur propose. Un philosophe contemporain l'a dit : « Се
@@ -984,9 +914,7 @@ dans toute leur force, me plaçant, pour les exposer, au
 BELOT, Bibliothèque du Congrès international ae Philoso-
 phie de 1900, Paris, Armand Colin.
 
-[p. 13]
-
-point de vue même de ceux qui les estiment décisifs et
+[p. 13] point de vue même de ceux qui les estiment décisifs et
 parlant, pour ainsi dire, non en mon nom, mais au leur.
 Reste à chercher maintenant quelles conclusions et
 quels enseignements nous devons, nous, en tirer.
@@ -1025,9 +953,7 @@ it pas de sens pour moi. [^p13-2]
 [^p13-1]: Je dis réfuter : mais on peut y couper court, en détruisant le postulat qui est sa racine.
 [^p13-2]: La discussion détaillée de ces réponses serait fort inté- ressante à faire; mais elle ne saurait trouver place ici .
 
-[p. 14]
-
-Je ne dis pas seulement qu'elle n'en a point le droit,
+[p. 14] Je ne dis pas seulement qu'elle n'en a point le droit,
 mais que c'est chose radicalement impossible : car, en
 définitive, c'est moi qui pense et non l'autorité qui pense
 pour moi. Contre ce fait, rien ne saurait prévaloir. Moi-
@@ -1064,11 +990,7 @@ de ne plus penser du tout ? Je ne le crois certes point.
 Mais, pour éviter les objections en cause et obtenir la
 conciliation souhaitée, je me demande et je demande si
 ce n'est pas la manière même dont l'idée de dogme est
-présentée qui est la cause vraie du conflit et si, par con
-
-[p. 15]
-
-séquent, il n'y a point lieu de changer cette manière [^p15-1].
+présentée qui est la cause vraie du conflit et si, par con [p. 15] séquent, il n'y a point lieu de changer cette manière [^p15-1].
 Or, quand on examine la conception du dogme que
 supposent et impliquent les quatre objections énumérées
 plus haut, on trouve avec surprise qu'elle est commune
@@ -1103,11 +1025,7 @@ regrettables et malheureusement très fréquentes, l'une
 consistant à confondre les dogmes proprement dits avec
 certaines opinions ou certains systèmes théologiques,
 
-[^p15-1]: Je prie qu'on prenne bien garde aux limites dans les- quelles cette question s'enferme elle-même. Il ne s'agit en aucune manière de modifier le contenu du dogme ni même son interprétation religieuse traditionnelle, mais seulement de déterminer la modalité du jugement dogmatique et la qualifica- tion qui lui convient. Dogmeet Critique 3
-
-[p. 16]
-
-c'est-à-dire avec des représentations intellectuelles ac
+[^p15-1]: Je prie qu'on prenne bien garde aux limites dans les- quelles cette question s'enferme elle-même. Il ne s'agit en aucune manière de modifier le contenu du dogme ni même son interprétation religieuse traditionnelle, mais seulement de déterminer la modalité du jugement dogmatique et la qualifica- tion qui lui convient. Dogmeet Critique 3 [p. 16] c'est-à-dire avec des représentations intellectuelles ac
 cessoires, l'autre consistant à ne point voir qu'un dogme
 ne saurait posséder jamais aucune signification scienti-
 fique et qu'il n'y a pas plus de dogmes concernant par
@@ -1144,9 +1062,7 @@ faisant [^p16-2] .
 [^p16-1]: Au moins dans les livres d'usage courant et dans l'ensei- gnement élémentaire.
 [^p16-2]: Dieu a parlé, dit-on. Que signifie le mot « parler » dans ce cas? A coup sûr, c'est une métaphore. Quelle réalité cache- t-elle? Toute la difficulté est la.
 
-[p. 17]
-
-En effet, sans revenir sur des considérations généra-
+[p. 17] En effet, sans revenir sur des considérations généra-
 les que j'ai déjà développées, prenons quelques exemples
 qui achèveront de préciser ce que nous n'avons encore
 vu qu'en gros .
@@ -1188,11 +1104,7 @@ semblage quelconque de syllabes dénué de toute signifi-
 cation positive; soit A cet assemblage ; « Dieu est per-
 sonnel » n'a pas , dans notre hypothèse, d'autre sens que
 • Dieu est A »; est-ce là une idée ?
-Le dilemme est irréductible pour qui cherche une in
-
-[p. 18]
-
-terprétation intellectualiste du dogme << Dieu est per-
+Le dilemme est irréductible pour qui cherche une in [p. 18] terprétation intellectualiste du dogme << Dieu est per-
 sonnel ». Ou bien on définira le mot « personnalité », et
 alors on tombera fatalement dans l'anthropomorphisme ;
 ou bien on ne le définira pas, et alors on versera non
@@ -1235,9 +1147,7 @@ restant en lui-même insaisissable à la perception, il se
 
 [^p18-1]: 1 Mêmes remarques au sujet des propositions : << Dieu a Conscience de soi, Dieu aime, veut, pense, etc. >>>
 
-[p. 19]
-
-manifeste par des effets perceptibles. Or, d'après le dog-
+[p. 19] manifeste par des effets perceptibles. Or, d'après le dog-
 me lui-même, aucune de ces deux circonstances n'est
 réalisée dans le cas actuel. La présence en question est
 une présence mystérieuse, ineffable, singulière, sans ana-
@@ -1281,9 +1191,7 @@ personnel » ne m'apporte aucune conception positive
 
 [^p19-1]: Nous verrons tout à l'heure comment les dogmes sont plus et mieux que cela . Mais je me place, pour commencer, à un point de vue strictement intellectuel.
 
-[p. 20]
-
-nouvelle et il ne me garantit pas davantage la vérité
+[p. 20] nouvelle et il ne me garantit pas davantage la vérité
 d'un système particulier parmi ceux que l'histoire de la
 philosophie montre avoir été successivement proposés,
 mais il m'avertit que telles et telles formes de panthéis-
@@ -1322,9 +1230,7 @@ alors indispensable . Mais tel n'est point mon but actuel.
 
 [^p20-1]: <<< Reprise du corps >> ne peut signifier que « reprise de T'activité pratique », puisqu'il est entendu que cela ne signifie pas<< recommencement des phénomènes corporels ordinaires ».
 
-[p. 21]
-
-Je veux m'en tenir à la simple indication d'une idée.
+[p. 21] Je veux m'en tenir à la simple indication d'une idée.
 C'est pourquoi je ne m'attache ni à multiplier les exem-
 ples ni même à développer complètement aucun d'eux.
 Au reste, l'idée en cause n'est pas nouvelle. Elle ap-
@@ -1364,9 +1270,7 @@ d'Arius, sur la procession du Saint-Esprit contre les [^p21-1]
 
 [^p21-1]: Conira Gentiles, lib . I, cap . XIV.
 
-[p. 22]
-
-Macédoniens, etc. [^p22-1]. De ce chef, par conséquent, rien
+[p. 22] Macédoniens, etc. [^p22-1]. De ce chef, par conséquent, rien
 de contraire à nos conclusions : c'est la forme gramma-
 ticale seule qui est affirmative ici, au fond il s'agit d'er-
 reurs à exclure plus que de théories à formuler. Mais
@@ -1406,9 +1310,7 @@ nes de ces représentations intellectuelles. De là vient
 [^p22-1]: Il serait facile d'insister sur l'exemple du consubstantialem ou celui du Filioque.
 [^p22-2]: Cf. la formule habituelle des décrets conciliaires : < Si quis dixerit ... , anathema sit. »
 
-[p. 23]
-
-que les formules dogmatiques empruntent souvent des
+[p. 23] que les formules dogmatiques empruntent souvent des
 expressions à diverses philosophies sans se mettre en
 peine de fondre ensemble et d'unifier ces langages hété-
 rogènes ; cela n'offre pas d'inconvénients, non plus que
@@ -1447,9 +1349,7 @@ les objections de principe contre les dogmes est de
 
 [^p23-1]: Au point de vue théorique, s'entend . Les dogmes sont pensés en fonction des systèmes humains auxquels ils s'op- posent.
 
-[p. 24]
-
-concevoir ceux-ci, ainsi que nous l'avons fait, comme
+[p. 24] concevoir ceux-ci, ainsi que nous l'avons fait, comme
 n'étant définissables en tant que propositions spéculati-
 ves que par rapport à des doctrines antérieures, sur
 lesquelles
@@ -1486,11 +1386,7 @@ Ici plus que jamais, j'insiste pour qu'on ne se mé-
 prenne point sur l'intention et la tendance des pages
 qui vont suivre . Le ton affirmatif n'y est, je le répète,
 qu'un moyen de clarté. Au fond, il ne s'agit toujours
-que de ce que j'ai précisé au début. Voici, pourrais -je
-
-[p. 25]
-
-dire, sous quelle forme l'expérience m'a montré que la
+que de ce que j'ai précisé au début. Voici, pourrais -je [p. 25] dire, sous quelle forme l'expérience m'a montré que la
 notion de dogme est le plus facilement assimilable aux
 intelligences d'aujourd'hui :
 Un dogme a surtout un sens pratique.
@@ -1531,9 +1427,7 @@ une personne humaine ». Pareillement, « Jésus est res-
 
 [^p25-1]: Essais de philosophie religieuse, p . 272, Paris, Lethielleux.
 
-[p. 26]
-
-suscité >> veut dire « soyez par rapport à Lui comme
+[p. 26] suscité >> veut dire « soyez par rapport à Lui comme
 vous auriez été avant sa mort, comme vous êtes vis-à-vis
 d'un contemporain ». De même encore le dogme de la
 présence réelle veut dire qu'il faut avoir en face de
@@ -1571,9 +1465,7 @@ pensée et l'action. Problème difficile sans doute, mais
 [^p26-1]: je ne prétends pas du tout que le commentaire précéden. épuise le sens des dogmes cités ; je me contente d'indiquer une direction de recherche.
 [^p26-2]: C'est pourquoi l'assentiment aux dogmes est toujours un acte de liberté, non le résultat fatal d'une argumentation con- traignante.
 
-[p. 27]
-
-QU'T
+[p. 27] QU'T
 -CE QU'UN DOGME ?
 27
 
@@ -1586,7 +1478,7 @@ parfaitement aisée. Toutefois, un des plus gros obstacles
 s'est aplani. Les vérités pratiques s'établissent autre-
 ment que les vérités spéculatives . Le recours à l'autorité,
 totalement irrecevable dans l'ordre de la pensée pure,
-semble a priori moins choquant dans celui de l'action,
+semble *a priori* moins choquant dans celui de l'action,
 parce que, si l'autorité a quelque part des droits légiti-
 mes, c'est à coup sûr dans le domaine de la pratique.
 Le Concile du Vatican nous dit : « Si quis dixerit in
@@ -1620,9 +1512,7 @@ a-
 
 [^p27-1]: La soumission aux dogmes est a'ors, à un certain point de vue, pour le croyant, ce qu'est pour le savant la soumission aux faits.
 
-[p. 28]
-
-vouer implicitement qu'on ne saurait voir dans la for
+[p. 28] vouer implicitement qu'on ne saurait voir dans la for
 aux dogmes un acte qui soit d'abord intellectuel sans le
 faire par là inférieur aux actes ordinaires de la pensée ?
 Comment un tel acte
@@ -1662,11 +1552,7 @@ somme, une preuve insuffisante n'est pas une preuve ac-
 ceptable, surtout en si grave et si difficile matière. Une
 attitude intellectualiste laisse désarmé en face de ce di-
 lemme, la liberté n'appartenant pas à l'ordre de l'intel-
-ligence pure et n'ayant aucune place ni aucun rôle dans
-
-[p. 29]
-
-les démarches de la raison discursive. Mais avec l'autre
+ligence pure et n'ayant aucune place ni aucun rôle dans [p. 29] les démarches de la raison discursive. Mais avec l'autre
 attitude, le dilemme peut se résoudre, parce que , cette
 fois, la dialectique en cause est action et vie, non simple
 raisonnement, et que la liberté relève de la vie et de
@@ -1705,9 +1591,7 @@ serait désirable ; mais j'imagine qu'une simple indication
 peut, en somme, suffire pour le moment et que le lecteur
 achèvera sans peine de lui-même.
 
-[p. 30]
-
-Toutefois, il me semble nécessaire de prévenir une
+[p. 30] Toutefois, il me semble nécessaire de prévenir une
 objection possible, afin d'éviter tout malentendu.
 J'ai parlé de pratique. Il faut bien entendre ce mot.
 Je le prends dans l'acception la plus large. Action et vie
@@ -1748,9 +1632,7 @@ contraire aux exigences de la foi qui veut saisir tout
 
 [^p30-1]: Le lecteur désireux d'approfondir davantage ce point pourra se reporter à divers articles que j'ai publiés depuis 1899 dans la Revue de Métaphysique et de Morale et dans le Bulletin de la Société française de Philosophie.
 
-[p. 31]
-
-l'homme. Il est contraire aux exigences de la philoso-
+[p. 31] l'homme. Il est contraire aux exigences de la philoso-
 phie qui veut l'unité spirituelle. Et il est contraire enfin
 aux exigences de la moralité qui ne peut approuver une
 action systématiquement irréfléchie.
@@ -1796,11 +1678,7 @@ dre dont la répétition constituerait une sorte de consi-'
 gne inintelligible ; 2º Ces dogmes ne pourraient en outre
 
 Dogmeet Critique
-4
-
-[p. 32]
-
-être communs ni à tous les temps ni à toutes les intelli-
+4 [p. 32] être communs ni à tous les temps ni à toutes les intelli-
 gences [^p32-1] .
 Non, les dogmes ne sont point cela. Leur sens, nous
 l'avons vu, est avant tout pratique et moral. Le catholi-
@@ -1846,9 +1724,7 @@ l'expression d'une donnée dont bien des représentations
 
 [^p32-1]: En deux mots , ésotérisme et pharisaïsme : tel serait le double écueil inévitable.
 
-[p. 33]
-
-intellectuelles sont légitimes, mais dont ne saurait à bon
+[p. 33] intellectuelles sont légitimes, mais dont ne saurait à bon
 droit s'affranchir aucun système explicatif (1).
 De là découle tout naturellement la marche que nous
 avons reconnue habituelle à la pensée religieuse dans
@@ -1899,9 +1775,7 @@ pratique. De là les censures avec note inférieure à celle d'hé-
 résie. Mais ces condamnations-là ne sont point proprement
 dogmatiques .
 
-[p. 34]
-
-notre activité pratique, c'est la direction suivant laquelle
+[p. 34] notre activité pratique, c'est la direction suivant laquelle
 il infléchit notre conduite. Mais les théories explicati-
 ves, les représentations intellectuelles changent inces-
 samment au cours des âges selon les individus et les
@@ -1938,9 +1812,7 @@ nous apprendre comment ils estiment être en mesure
 de franchir autrement les obstacles qui nous embar-
 rassent.
 
-[p. 35]
-
-PREMIÈRE LETTRE
+[p. 35] PREMIÈRE LETTRE
 
 M. le Directeur de la Vérité Française [^p35-1]
 
@@ -1967,9 +1839,7 @@ que la certitude mathématique; ni que je méconnaisse
 
 [^p35-1]: Insérée dans le n° du 13 juillet 1905.
 
-[p. 36]
-
-l'existence de plusieurs ordres de connaissance. L'article
+[p. 36] l'existence de plusieurs ordres de connaissance. L'article
 Qu'est-ce qu'un Dogme ? ne dit rien de tout cela; et les
 autres articles que j'ai publiés disent exactement le
 contraire.
@@ -2011,9 +1881,7 @@ que je juge un amas de contradictions et d'incohéren-
 ces, ce sont les conceptions de certaines gens, au nom-
 bre desquels il faut bien maintenant que je range M.
 
-[p. 37]
-
-PREMIÈRE LETTRE
+[p. 37] PREMIÈRE LETTRE
 37
 
 Fontaine. Mais je persiste à croire que l'Église ne se
@@ -2029,9 +1897,7 @@ tion.
 
 Édouard LE ROY.
 
-[p. 38]
-
-DEUXIÈME LETTRE
+[p. 38] DEUXIÈME LETTRE
 
 M. le Directeur de la Vérité Française [^p38-1]
 
@@ -2060,9 +1926,7 @@ avait cru devoir m'attaquer
 
 [^p38-1]: Insérée dans le n° du 20-21 novembre 1905 .
 
-[p. 39]
-
-DEUXIÈME LETTRE
+[p. 39] DEUXIÈME LETTRE
 39
 
 comme ayant déchaîné sur l'Église de France un plus
@@ -2109,9 +1973,7 @@ de vie plus forte que tous les discours.
 
 -
 
-[p. 40]
-
-Sur le fond du débat, je ne puis évidemment m'expli-
+[p. 40] Sur le fond du débat, je ne puis évidemment m'expli-
 quer ici. Force m'est bien de renvoyer aux Revues où
 paraîtront mes réponses détaillées. Mais on m'a prêté
 tant d'erreurs et de sottises, on a si étrangement défi-
@@ -2158,9 +2020,7 @@ modalité des affirmations correspondantes et comment
 
 il convient de la qualifier ? sous quelles espèces nous
 
-[p. 41]
-
-DEUXIÈME LETTRE
+[p. 41] DEUXIÈME LETTRE
 41
 
 sont notifiées par elles ces réalités existantes qui consti
@@ -2207,11 +2067,7 @@ proprement philosophique ; 2º les spéculations théologi-
 ques sont parfaitement légitimes et valables (et même
 nécessaires pour qui veut
 être un
-chrétien philo
-
-[p. 42]
-
-sophe), mais elles restent affaire de discussion libre,
+chrétien philo [p. 42] sophe), mais elles restent affaire de discussion libre,
 sauf les cas où le dogme - jouant son rôle négatif
 intervient en sa qualité de fait, de donnée, comme cri-
 tère des théories: il serait inadmissible que l'adhésion
@@ -2253,9 +2109,7 @@ ter des éclaircissements. Un fidèle aurait-il moins de
 droits au respect qu'un incrédule ? Or, je le demande
 aux hommes de bonne foi, à ceux qui ne pensent pas
 
-[p. 43]
-
-DEUXIÈME LETTRE
+[p. 43] DEUXIÈME LETTRE
 43
 
 que prêter aux gens des intentions occultes soit un pro-
@@ -2281,9 +2135,7 @@ de mes sentiments les plus distingués .
 
 Édouard LE ROY.
 
-[p. 44]
-
-SUR LA NOTION DE DOGME [^p44-1]
+[p. 44] SUR LA NOTION DE DOGME [^p44-1]
 
 RÉPONSE A M. L'ABBÉ WEHRLÉ
 
@@ -2312,11 +2164,7 @@ toujours que, par un effort collectif de pensées d'abord
 contraires , grâce à une lutte d'idées où les adversaires
 communient au plus profond de leurs âmes dans les
 
-[^p44-1]: Article publié dans la Revue biblique, janvier 1906 . Voir Note I, à la fin du volume, un bref récit des incidents qui ont marqué cette publication . 1
-
-[p. 45]
-
-mêmes sentiments et les mêmes intentions, la vérité s'é-
+[^p44-1]: Article publié dans la Revue biblique, janvier 1906 . Voir Note I, à la fin du volume, un bref récit des incidents qui ont marqué cette publication . 1 [p. 45] mêmes sentiments et les mêmes intentions, la vérité s'é-
 labore et peu à peu se dégage. A cette grande œuvre les
 contradictions servent efficacement, dès lors qu'elles
 sont réfléchies, bienveillantes et pacifiques, désireuses
@@ -2353,11 +2201,7 @@ est énoncé par moi contiendrait implicitement déjà et
 subrepticement imposerait la solution que j'en donne.
 Tout le mal viendrait ainsi des prémisses, des considé-
 rants qui introduisent la thèse. A la base de mon tra-
-vail, il y aurait quelque chose comme une pétition de
-
-[p. 46]
-
-principe; et la cause essentielle de mon erreur se trou-
+vail, il y aurait quelque chose comme une pétition de [p. 46] principe; et la cause essentielle de mon erreur se trou-
 verait dans les données que j'accepte.
 Voilà ce que M. Wehrlé juge surtout périlleux. Pour
 discuter avec lui, c'est donc l'examen des quatre « ob-
@@ -2399,11 +2243,7 @@ dante des objets mystérieux qui nous sont proposés ?
 Comment l'affirmation de leur réalité en soi s'accorde-
 t-elle avec le principe idéaliste [^p46-1] qui est l'âme de toute
 
-[^p46-1]: Voir Bulletin de la Société française de Philosophie, séance du 25 février 1904 . Dogmeet Critique 5
-
-[p. 47]
-
-la philosophie moderne et le résultat le plus certain
+[^p46-1]: Voir Bulletin de la Société française de Philosophie, séance du 25 février 1904 . Dogmeet Critique 5 [p. 47] la philosophie moderne et le résultat le plus certain
 auquel jusqu'à présent elle soit parvenue ? Sous quelle
 forme et par quels moyens convient-il de résoudre pour
 le cas actuel ce problème de l'objectivité absolue, qui
@@ -2444,9 +2284,7 @@ expressions officielles de sa doctrine, comme règle de
 
 [^p47-1]: De là le mot « surtout >> dans la note en cause.
 
-[p. 48]
-
-ses actes et de son enseignement, bien que de son pro-
+[p. 48] ses actes et de son enseignement, bien que de son pro-
 pre aveu la réalité de l'objet les déborde toujours infini-
 ment. En d'autres termes, il y a des propositions
 dites propositions dogmatiques
@@ -2485,11 +2323,7 @@ s'adresse donc aux croyants, en vue de préparer les
 voies à une apologétique future.
 On aperçoit peut-être maintenant en lumière assez
 vive l'erreur d'interprétation commise par M. Wehrlé
-dans sa critique de l'attitude adoptée par moi. Il fait,
-
-[p. 49]
-
-en deux pages de début [^p49-1], la « psychologie » de mon
+dans sa critique de l'attitude adoptée par moi. Il fait, [p. 49] en deux pages de début [^p49-1], la « psychologie » de mon
 article, et je dois dire que je ne me reconnais pas du
 tout dans cette psychologie .
 M. Wehrlé se méprend d'abord tout à fait sur mes
@@ -2530,9 +2364,7 @@ La question que je pose concerne tout formulaire, quel
 [^p49-1]: Les pages 325 et 326.
 [^p49-2]: A certains égards je ne demande rien de tout cela. II faut garder le formulaire tel qu'il est. Mais comment doit-on le lire ? dans quel ton, si vous voulez ? Voilà ce que j'examine.
 
-[p. 50]
-
-SUR LA NOTION DE DOGNE
+[p. 50] SUR LA NOTION DE DOGNE
 51
 
 qu'il soit, dès lors qu'on le tient pour un formulaire
@@ -2582,11 +2414,7 @@ ractère négatif, celle de rejeter certaines représentations
 et certaines théories incompatibles avec la règle prati-
 que édictée par le dogme . »
 Telles sont les deux
-thèses en présence. Finalement : le dogme s'adresse-t-il
-
-[p. 51]
-
-d'abord à notre intelligence théorique ou d'abord à
+thèses en présence. Finalement : le dogme s'adresse-t-il [p. 51] d'abord à notre intelligence théorique ou d'abord à
 notre
 action ?
 est-il d'abord l'énoncé d'une thèse ou
@@ -2629,11 +2457,7 @@ procéder ainsi ni de contester mon point de départ au
 nom de la foi qui nous est commune .
 
 Pour finir, je ne crois nullement avoir opéré cette
-dichotomie contre laquelle M. Wehrlé part en guerre
-
-[p. 52]
-
-avec tant de force et de raison, qui consisterait à pré-
+dichotomie contre laquelle M. Wehrlé part en guerre [p. 52] avec tant de force et de raison, qui consisterait à pré-
 tendre considérer la lettre d'une formule en faisant
 abstraction de la réalité qu'elle signifie. Procéder ainsi ,
 je l'accorde, serait << ériger l'expression intellectuelle
@@ -2676,9 +2500,7 @@ du dogme. » S'il y a quelque part intellectualisme ori-
 ginel, c'est dans la manière dont M. Wehrlé interprète
 le problème que je pose. C'est lui-même qui ériga
 
-[p. 53]
-
-<<l'idole ridicule et détestable » à laquelle il m'accuse
+[p. 53] <<l'idole ridicule et détestable » à laquelle il m'accuse
 de sacrifier inconsciemment. Je ne donne pas la prépon-
 dérance au signe sur la chose signifiée ; mais je cherche
 à quelle langue
@@ -2724,11 +2546,7 @@ admettre
 indûment que la formule ne peut être expressive du
 dogme que d'une seule manière, c'est-à-dire supposer
 gratuitement cela même qui est en question. De nou-
-veau, le préjugé intellectualiste reparaît. On raisonne
-
-[p. 54]
-
-comme si la réalité dogmatique et la forme intellec-
+veau, le préjugé intellectualiste reparaît. On raisonne [p. 54] comme si la réalité dogmatique et la forme intellec-
 tuelle abstraite étaient unies et soudées sans retour,
 comme
 si l'une ne pouvait être manifestée que par
@@ -2774,11 +2592,7 @@ implicitement ? J'ai parlé de preuves directes et spécifi-
 ques . Est-ce que la mathématique est seule à requérir
 de telles preuves ? Il me semble que le physicien re-
 pousse les preuves de témoignage; le biologiste,
-les
-
-[p. 55]
-
-preuves de raisonnement pur; l'exégète ou l'historien,
+les [p. 55] preuves de raisonnement pur; l'exégète ou l'historien,
 les preuves d'ordre philosophique. Le physicien veut
 des preuves physiques; le biologiste, des preuves bio-
 logiques ;
@@ -2802,7 +2616,7 @@ que les vérités religieuses ne sont pas du tout en elles-
 mêmes (et pour autant qu'elles exigent une adhésion de
 foi) des énoncés théoriques, de quelque genre que ce
 soit. Oui, ces vérités affectent un caractère propre et
-réclament une justification sui generis . Elles constituent
+réclament une justification *sui generis* . Elles constituent
 un ordre à part, spécifiquement distinct. Quelques-uns
 se comportent à leur endroit comme si elles relevaient
 uniquement de l'histoire ; d'autres, comme si elles rele-
@@ -2822,9 +2636,7 @@ juste titre de soumettre les affirmations dogmatiques
 [^p55-1]: Il y a en réalité bien plus que cela.
 [^p55-2]: La vérité religieuse est transhistorique : elle suppose le passage d'une signification métaphysique et morale à travers les faits de l'histoire .
 
-[p. 56]
-
-et d'outrer ainsi le crédit dû à la science ? Ne sont-ce
+[p. 56] et d'outrer ainsi le crédit dû à la science ? Ne sont-ce
 pas justement ceux qui tiennent avant tout ces affirma-
 tions pour des énoncés de thèses théoriques ? Assuré-
 ment ce sont ceux-là qui créent la force de l'objection.
@@ -2867,9 +2679,7 @@ erreurs d'interprétation à rectifier. [^p56-1]
 
 [^p56-1]: A. LOISY, l'Evangile et l'Eglise, page 171, 1e édition.
 
-[p. 57]
-
-Je sais très bien que je ne suis pas le premier ni le
+[p. 57] Je sais très bien que je ne suis pas le premier ni le
 seul à reconnaître nécessaire un renouvellement de l'a-
 pologétique. Ce que M. Wehrlé dit là-dessus est parfai-
 tement juste ; et notamment je m'associe de tout cœur
@@ -2914,9 +2724,7 @@ elle autre chose que cette « action » même ? Qui ne sait
 
 [^p57-1]: Aussi bien le princine d'immanence affirme-t-il, comme je le disais, que « chacun de nos états et de nos actes enveloppe notre âme entière et la totalité de ses puissances ». 1.
 
-[p. 58]
-
-que, dans le langage de la philosophie moderne,
+[p. 58] que, dans le langage de la philosophie moderne,
 le
 mot Esprit a un sens beaucoup plus large que ce sens
 intellectuel auquel M. Wehrlé semble croire que je me
@@ -2956,11 +2764,7 @@ aliment est toujours, il me semble, accepter une impor-
 tation qui nous enrichit.
 Mais, puisque nous en sommes à cette question des
 rapports entre immanence et transcendance, qu'il me
-soit permis de présenter brièvement les remarques sui
-
-[p. 59]
-
-vantes, bien qu'elles ne s'adressent pas spécialement à
+soit permis de présenter brièvement les remarques sui [p. 59] vantes, bien qu'elles ne s'adressent pas spécialement à
 M. Wehrlé : il faut saisir toutes les occasions de dissi-
 per les malentendus .
 Ceux qui ont forgé le nom barbare d'Immanentisme et
@@ -2987,7 +2791,7 @@ vers ?
 L'erreur
 est de croire qu'en énonçant le principe
 d'immanence on puisse conserver la notion scolastique
-de << nature » . Cette notion exclut a priori ce principe. En
+de << nature » . Cette notion exclut *a priori* ce principe. En
 quoi consiste-t-elle, en effet ? Ce ne sera pas la mécon-
 naître que de ne lui trouver comme objet qu'une fiction
 abstraite [^p59-1] . Nous sommes bien là en présence d'une de
@@ -3003,9 +2807,7 @@ moment, avec le système d'interprétation que je vise,
 [^p59-1]: Dont je ne veux pas contester d'ailleurs qu'elle ait par- fois sa raison d'être .
 [^p59-2]: Cf. l'admirable Introduction à la Métaphysique publiée par M. BERGSON dans la Revue de Métaphysique et de Morale, nº de janvier 1903 .
 
-[p. 60]
-
-que représente le mot « nature>> ? Quidquid rei defini-
+[p. 60] que représente le mot « nature>> ? Quidquid rei defini-
 tione continetur, dit Hurter [^p60-1]. Ce qui implique qu'il
 s'agit d'une chose, dont le contenu essentiel est déter-
 minable une fois pour toutes, dont les facteurs consti-
@@ -3023,7 +2825,7 @@ spatiales, des divisions et coupures numériques et géo-
 métriques, la même attitude de logicien confiné dans le
 monde intemporel et immobile des abstractions . Le criti-
 cisme, en effet, ne caractérise-t-il pas l'esprit par un
-ensemble de lois et formes a priori données elles-mê-
+ensemble de lois et formes *a priori* données elles-mê-
 mes une fois pour toutes en dehors de toute durée [^p60-2] ?
 Dans ces conditions, il est clair qu'il y a incompatibi-
 lité irréductible et absolue entre le principe d'imma-
@@ -3045,9 +2847,7 @@ me conception initiale sous-jacente . Tout cela est si
 [^p60-2]: Cf. Bulletin de la Société française de Philosophie, séance du 25 février 1904, pages 159 et 160.
 [^p60-3]: J'entends parler surtout des scolastiques modernes.
 
-[p. 61]
-
-clair, si simple, si obvie, qu'on devrait bien nous faire
+[p. 61] clair, si simple, si obvie, qu'on devrait bien nous faire
 l'honneur de supposer que nous avons su le voir, que
 notre théorie est donc un peu plus subtile qu'on ne la
 fait quand on la réfute avec tant d'aisance. En réalité,
@@ -3087,9 +2887,7 @@ de résultats achevés .
 
 [^p61-2]: Il y a cependant un cas où, même en ce qui concerne la mouvante continuité de l'esprit, les cristaliatens di discours deviennent légitimes : c'est quand on se place au point de vue plutôt juridique que philosophique qui est en effet à beaucoup d'égards le point de vue ordinaire de la scolastique.
 
-[p. 62]
-
-entreprend si fort ? Rien que de très simple et de très
+[p. 62] entreprend si fort ? Rien que de très simple et de très
 certain. Il ne s'agit aucunement de je ne sais quelle
 doctrine << naturaliste > selon laquelle l'homme se suffi-
 rait à lui-même pour remplir sa destinée. Qui a jamais
@@ -3133,11 +2931,7 @@ pour nous aucun sens : comme quand on parle de philo-
 sophie à un animal.
 Ai-je besoin d'insister là-dessus ? Ce serait, il me sem-
 
-Dogmeet Critique
-
-[p. 63]
-
-ble, faire injure au lecteur. Aussi bien je ne saurais
+Dogmeet Critique [p. 63] ble, faire injure au lecteur. Aussi bien je ne saurais
 mieux dire que M. l'abbé Laberthonnière dans
 ses
 Essais de Philosophie religieuse. Je ne crois pas qu'après
@@ -3176,9 +2970,7 @@ pour le salut est donnée à tous sans nulle exception [^p63-3].
 [^p63-2]: Ce qui ne veut pas dire << au point de vue individualiste » : ai-je besoin de le rappeler à des chrétiens et surtout à des catholiques ?
 [^p63-3]: Omnibus hominibus adultis, etiam infidelibus, datur gratia proxime vel remote ad salutem sufficiens (HURTER, Theol. dogm., tomus III, 11ª ed., p . 70).
 
-[p. 64]
-
-Je n'en finirais pas de citer les textes qui l'établissent.
+[p. 64] Je n'en finirais pas de citer les textes qui l'établissent.
 Qu'il me suffise de rappeler quelques-uns de ceux que
 les théologiens invoquent d'habitude et qui se rappor-
 tent le plus directement à notre objet [^p64-1] . « Ecce dies
@@ -3240,9 +3032,7 @@ ritus sancti sic expressum est, ut ipse facere diceretur,
 
 [^p64-1]: Je n'ai pas à entreprendre ici une exégèse détaillée de ces textes : je les utilise dans un sens familier aux théo- logiens.
 
-[p. 65]
-
-quod ut faciamus facit » (Ad Sixtum, ep. 149, n. 16).
+[p. 65] quod ut faciamus facit » (Ad Sixtum, ep. 149, n. 16).
 Enfin ai-je besoin de rappeler qu'Alexandre VIII a con-
 damné la proposition suivante : «Pagani, judaei, haere-
 dicti aliique hujus generis nullum omnino accipiunt a
@@ -3282,9 +3072,7 @@ car vous n'êtes pas seuls en vous-mêmes, un Autre ha-
 
 [^p65-1]: J'entends ici la nature statiquement envisagée dans n'im- porte lequel de ses états.
 
-[p. 66]
-
-bite votre cœur avec vous, et cet Autre, que vous ne
+[p. 66] bite votre cœur avec vous, et cet Autre, que vous ne
 savez pas nommer encore, que vous confondez encore
 avec vous, cet Autre a déjà mis en vous le germe et la
 force d'une croissance ineffable .
@@ -3324,11 +3112,7 @@ vent partout les traces , qu'ils voient commencer au ber-
 ceau même de la race humaine, et que la solidarité des
 générations a dû transmettre au moins sous forme impli-
 cite et potentielle à tous les hommes au cours des
-siècles ? N'expliquent-ils pas les délais de l'Incarnation
-
-[p. 67]
-
-rédemptrice par des préparations divines ayant pour ob-
+siècles ? N'expliquent-ils pas les délais de l'Incarnation [p. 67] rédemptrice par des préparations divines ayant pour ob-
 jet de disposer l'homme à recevoir le Don qui va lui être
 fait ? N'est-il pas question parmi eux d'une espérance
 messianique, d'une attente universelle,
@@ -3374,9 +3158,7 @@ manence .
 
 [^p67-1]: Cf. P. MONSABRÉ, Conférences de Notre-Dame de Paris, Carême 1877, spécialement la 29e conférence.
 
-[p. 68]
-
-Après ces explications , peut-être şera-t-on satijait ?
+[p. 68] Après ces explications , peut-être şera-t-on satijait ?
 peut-être cessera-t-on de crier au scandale et à l'héré-
 sie? Je ne puis insister ici davantage, ni développer
 toutes les preuves en reprenant ce que d'ailleurs MM.
@@ -3422,9 +3204,7 @@ se rapporte pas seulement à l'emploi d'une terminolo-
 
 [^p68-1]: Voir notamment la page 340 de son article : « Une seconde remarque... >>>
 
-[p. 69]
-
-70
+[p. 69] 70
 DCGME ET CRITIQUE
 
 gie scientifique démodée ou d'une expression empruntée
@@ -3465,9 +3245,7 @@ D'où la même conclusion toujours. Je n'ai pas dit ni
 
 [^p69-1]: Je suis heureux de pouvoir renvoyer aux déclarations faites par M. l'abbé Sertillanges à propos de mon article (Quinzaine du 1er juin 1905 et Bulletin de littérature ecclésias- tique, nº de juillet-octobre 1905) . Ces pages expriment exacte- ment ma pensée sur le point qui nous occupe ici. Je crois aussi qu'à des nuances près, et peut-être avec une différence de vocabulaire , je suis d'accord avec le R. P. Allo (Quinzaine du du 1er août) .
 
-[p. 70]
-
-voulu dire autre chose. Et cela ne signifie nullement que
+[p. 70] voulu dire autre chose. Et cela ne signifie nullement que
 la réalité qui correspond au dogme soit « littéralement
 impensable » de quelque manière qu'on s'y prenne. Cela
 veut dire tout simplement que le dogme n'est pas en lui-
@@ -3511,9 +3289,7 @@ que je ne devrai pas aux représentations de cette théorie
 
 [^p70-1]: Et à nous traiter réciproquement en frères .
 
-[p. 71]
-
-une adhésion d'une autre nature qu'aux conclusions
+[p. 71] une adhésion d'une autre nature qu'aux conclusions
 ordinaires de la science et de la philosophie, sous réserve
 pour moi de ne pas détruire ni altérer la signification
 pratique, la valeur de vie du fait que j'ai à interpréter, de
@@ -3556,9 +3332,7 @@ bâtons qui en arrêtent le mouvement. Les deux repro
 [^p71-1]: Alors que, par votre attitude, vous venez d'affirmer une commune mesure .
 [^p71-2]: C'est vous-mêmes qui avez placé les dogmes dans un plan où ils font antinomie : comme s'il n'y avait qu'un seul plan de pensée.
 
-[p. 72]
-
-ches de transcendance et d'immutabilité sont donc égale-
+[p. 72] ches de transcendance et d'immutabilité sont donc égale-
 ment fondés et parfaitement conciliables: complémen-
 taires, pourrait-on dire. Mais, je le répète, ce qu'ils
 ruinent, c'est la conception intellectualiste du dogme,
@@ -3595,11 +3369,7 @@ commune, le plus souvent implicite et sous-entendue.
 Toutefois, si c'en était ici le lieu, il ne me serait pas
 difficile d'avancer une foule de textes empruntés à des
 écrits contemporains et nettement révélateurs de l'état
-d'esprit que j'incrimine. Quiconque connaît la littérature
-
-[p. 73]
-
-apologétique d'aujourd'hui ne peut conserver aucun
+d'esprit que j'incrimine. Quiconque connaît la littérature [p. 73] apologétique d'aujourd'hui ne peut conserver aucun
 doute à cet égard. M. Wehrlé en convient d'ailleurs ,
 car il écrit : << Assurément, il ne paraît pas contestable
 qu'on ait commis parmi nous des abus intellectualistes
@@ -3642,11 +3412,7 @@ son ou a-t-on tort de l'envisager comme l'expression
 intelligible et par conséquent intellectuelle d'un ensem-
 ble de réalités ou de faits appartenant à l'ordre religieux
 révélé ? » Et la question ainsi formulée, il la subdivise
-en deux parties distinctes, qui appellent deux examens
-
-[p. 74]
-
-successifs : 1º la révélation nous apprend-elle quelque
+en deux parties distinctes, qui appellent deux examens [p. 74] successifs : 1º la révélation nous apprend-elle quelque
 chose ? 2º ce quelque chose a-t-il un sens pour nous ?
 Il m'est impossible de ne pas faire observer tout
 d'abord que cette manière de transposer le problème, en
@@ -3687,11 +3453,7 @@ En écrivant cette note, je prie
 qu'on le remarque bien, je n'avançais nullement que la
 révélation n'est pas une réalité (car, si la métaphore
 cache une réalité, c'est que cette réalité existe), mais
-seulement que de la réalité en cause nous n'avons pas
-
-[p. 75]
-
-une vue directe (est-ce dans cette Revue qu'il y a lieu
+seulement que de la réalité en cause nous n'avons pas [p. 75] une vue directe (est-ce dans cette Revue qu'il y a lieu
 d'insister là-dessus ?) et que pour la saisir il nous faut
 interpréter des analogies et des images. Or il me semble
 que cela est l'évidence même. Je ne conteste rien des
@@ -3732,9 +3494,7 @@ phique » et que « la Divinité absolue du Christ fait que [^p75-1]
 
 [^p75-1]: Quand la Bible dit : pluit Dominus (EXOD ., IX, 23), pluerat Dominus Deus (GEN., II, 5), tonabit Deus (JOB . , XXXVII , 5), on ne l'entend pas au pied de la lettre. Pourquoi procéder autrement pour le Dixit Deus ad Moysen du Penta- teuque ou le Haec dicit Dominus des Prophètes ?
 
-[p. 76]
-
-Dicu a parlé d'une façon immédiate, sensible, terres-
+[p. 76] Dicu a parlé d'une façon immédiate, sensible, terres-
 tre. >> Mais enfin ce n'est pas en dehors de toute révéla-
 tion que cela nous est connu [^p76-1]. De sorte que nous voilà
 ramenés au point de départ. C'est qu'en effet la diffi-
@@ -3778,9 +3538,7 @@ que le dogme, en tant que tel, nous propose le divin
 [^p76-1]: M. Wehrlé le dit lui-même (pages 337 et 338 de son article, passim, à propos de l'Incarnation).
 [^p76-2]: Il y expose à grands traits l'économie de la révélation chrétienne .
 
-[p. 77]
-
-comme article de vie, donc sous des espèces anthropo-
+[p. 77] comme article de vie, donc sous des espèces anthropo-
 morphiques , à travers des voiles qui appartiennent à
 l'ordre courant des idées et des faits, et dans le langage
 de l'action morale. Sans doute les enseignements qu'il
@@ -3824,9 +3582,7 @@ cela n'empêche en aucune manière qu'au point de vue
 [^p77-1]: Pages 339-342 de son article.
 [^p77-2]: Voir ci -dessus, page 31 .
 
-[p. 78]
-
-tout différent de la spéculation théorique le symbole des
+[p. 78] tout différent de la spéculation théorique le symbole des
 Apôtres lui-même ne fasse que poser des objets et, par .
 suite , des problimes . Que l'affirmation chrétienne ait un
 caractère absolu, qu'elle ne puisse perdre ce caractère
@@ -3866,11 +3622,7 @@ ports auxquels ces amendements donnèrent lieu
 [^p78-2] ,
 
 [^p78-1]: Cf. BERGSON, Introduction à la Métaphysique, dans la Revue de Métaphysique et de Morale, janvier 1903 .
-[^p78-2]: A titre d'exemple, voir : VACANT, Etudes théologiques sur les Constitutions du Concile du Vatican, t. I, chap . I , Art. Dogme et Critique 7
-
-[p. 79]
-
-j'en reviens toujours à la même remarque, à savoir
+[^p78-2]: A titre d'exemple, voir : VACANT, Etudes théologiques sur les Constitutions du Concile du Vatican, t. I, chap . I , Art. Dogme et Critique 7 [p. 79] j'en reviens toujours à la même remarque, à savoir
 que : 1º les déclarations d'allure positive doivent tou-
 jours être prises comme formulées en langage ordinaire,
 donc dans un langage qui suggère immédiatement une
@@ -3915,18 +3667,14 @@ sion prosynodale est très révélatrice à cet égard et manifeste
 clairement les intentions du Concile .
 Voir aussi un com-
 mentaire intéressant sur les rapports entre Canons et Chapitres,
-dans VACANT, loc. cit. , Introduction, Art. 5,
+dans VACANT, *loc. cit.* , Introduction, Art. 5,
 § 27.
 on pourra consulter avec fruit le rapport présenté au nom de
 la Députation de la Foi dans la 30e congrégation générale
 (18 mars 1870) par Mgr Simor, archevêque de Gran et primat
 de Hongrie.
 
-Enfin
-
-[p. 80]
-
-quoi ? Parce que la personnalité divine n'échappe pas
+Enfin [p. 80] quoi ? Parce que la personnalité divine n'échappe pas
 totalement aux prises naturelles de la raison humaine .
 Il est vrai . Ce dogme n'est pas de même sorte que celui
 de la présence réelle. C'est justement à cause de cela
@@ -3972,9 +3720,7 @@ définir tant soit peu la
 [^p80-1]: Au moins par le magistère ordinaire et universel, sinon par les définitions du Vatican . Cf. VACANT, loc. cit. , t. I, chap. 1, passim . L'affirmative
 [^p80-2]: Cf. VACANT, loc. cit. , t. II , art. 122 . n'est pas douteuse, au moins lorsqu'il est question comme ici de ce qu'on pourrait appeler un mystère naturel.
 
-[p. 81]
-
-conscience et la personnalité d'un Ange ! Déjà dans ce
+[p. 81] conscience et la personnalité d'un Ange ! Déjà dans ce
 cas ils préfèrent la méthode négative [^p81-1] . Et que sera-ce
 quand il faudra passer à la limite, deviner le terme de
 la progression et s'élever jusqu'à Dieu ? Il n'est pas
@@ -4015,9 +3761,7 @@ ment cette personnalité, peu importe à bord de quel
 [^p81-1]: Cf. HURTER, Theol. dogm. , 11ª ed., t. II, n. 404 .
 [^p81-2]: Peut-être y a-t-il là une des voies d'accès de la raison au pressentiment de la Trinité divine ? Mais on voit alors com- bien peu fermes et peu précises doivent être les conclusions atteintes , puisque la Trinité n'appartient pas à l'ordre ration- nel.
 
-[p. 82]
-
-système philosophique ma foi est embarquée, peu im-
+[p. 82] système philosophique ma foi est embarquée, peu im-
 porte même que je m'en tienne à saisir le fait en dehors
 de toute explication intellectuelle sous les espèces de la
 conduite qu'il me commande : j'ai rempli tout mon de-
@@ -4063,11 +3807,7 @@ dépendamment de son corps ». A imaginer, oui ; mais
 non à concevoir. Or, l'intellectualisme pur ne s'accom-
 mode guère de cette prééminence attribuée à l'imagina-
 tion : c'est tout ce que j'ai voulu dire. J'accorde au sur-
-plus que l'immortalité de l'âme soulèverait, elle aussi,
-
-[p. 83]
-
-d'inextricables difficultés dans un système d'interpréta-
+plus que l'immortalité de l'âme soulèverait, elle aussi, [p. 83] d'inextricables difficultés dans un système d'interpréta-
 tion intellectualiste. Là encore il me semble que le dog-
 me signifie avant tout : « Conduisez-vous en hommes dont
 la destinée ne finit pas avec le corps et qui seront un
@@ -4118,9 +3858,7 @@ Wehrlé. En particulier, le par exemple laisse entendre
 assez , ce me semble, que je ne donne pas le dogme pour
 dirigé seulement contre la théorie des Sacramentaires .
 
-[p. 84]
-
-Mais que le canon 1 de la session XIII fasse plus que
+[p. 84] Mais que le canon 1 de la session XIII fasse plus que
 condamner Zwingle et Ecolampade, qu'il réprouve ex-
 pressément la théorie calviniste de la présence dyna-
 mique, enfin que le canon 2 de la même session désa-
@@ -4159,9 +3897,7 @@ même de la vie concrète, au-dessus des dissociations con-
 [^p84-1]: Encore suis-je loin d'avoir dit tout ce qu'il y avait à dire. Aussi je demande la permission de renvoyer le lecteur à d'autres articles qui paraîtront à peu près en même temps que celui-ci .
 [^p84-2]: Voir en particulier : Bulletin de la Société française de Philosophie, séance du 25 février 1904.
 
-[p. 85]
-
-ceptuelles qui opposent la pensée théorique à l'action
+[p. 85] ceptuelles qui opposent la pensée théorique à l'action
 aveugle, dans la synthèse encore vierge de l'intuition
 antérieure et supérieure à tout discours ?
 Il n'est pas question de formules qui promulgueraient
@@ -4196,14 +3932,12 @@ tout, le principe de notre vie religieuse,
 comme si tel
 était l'aboutissement réel du pragmatisme, - c'est mon-
 trer qu'on n'a pas saisi le vrai point de vue de l'action,
-qu'on part encore de la dissociation conceptuelle a priori
+qu'on part encore de la dissociation conceptuelle *a priori*
 dont le dogmatisme moral nie justement le caractère pri-
 mitif ou nécessaire , et qu'en définitive on continue à
 subir l'influence d'un intellectualisme inconscient.
 
-[p. 86]
-
-Quant au péril que, suivant M. Wehrlé, ma doctrine
+[p. 86] Quant au péril que, suivant M. Wehrlé, ma doctrine
 recélerait, c'est le danger même qui est inhérent à l'acte
 de vivre. Il est inéluctable, car on ne saurait empêcher
 que vivre soit toujours courir un risque ; et il n'y a au-
@@ -4211,9 +3945,7 @@ cune conséquence à tirer de là, sinon que rien ne peut
 jamais nous dispenser en cette vie d'avoir à opérer
 notre salut dans la crainte et le tremblement.
 
-[p. 87]
-
-QU'EST-CE QU'UN DOGME ?
+[p. 87] QU'EST-CE QU'UN DOGME ?
 
 RÉPONSE A M. DE GRANDMAISON
 ( 1)
@@ -4251,9 +3983,7 @@ point et je demande au Bulletin sa libérale hospitalité [^p87-1]
 [^p87-1]: Extrait du Bulletin de littérature ecclésiastique, nº de janvier 1906. Voir la Note I, à la fin du volume, sur les circonstances de cette première publication .
 [^p87-2]: Voir la Quinzaine du 16 avril 1905, et ci-dessus page 1.
 
-[p. 88]
-
-pour les produire. Je suivrai d'ailleurs le plan même
+[p. 88] pour les produire. Je suivrai d'ailleurs le plan même
 adopté par M. de Grandmaison, en m'efforçant de gar-
 der toujours comme lui cet esprit de paix et de liberté
 qui fait les discussions sereines et fructueuses, et qui seul
@@ -4293,11 +4023,7 @@ que philosophique en ce qu'il vise à régler notre con-
 duite plutôt qu'à augmenter notre science . Comme les
 écrivains du Nouveau Testament, comme les Pères apos-
 toliques , j'insiste sur l'aspect auctoritatif, impératif, des
-propositions dogmatiques. De ce côté, du moins, on ne
-
-[p. 89]
-
-pourra pas m'opposer la tradition. Mon travail se réduit,
+propositions dogmatiques. De ce côté, du moins, on ne [p. 89] pourra pas m'opposer la tradition. Mon travail se réduit,
 si l'on veut, à faire le départ de ce qui est δόξα et de
 ce qui est δόγμα dans les énoncés doctrinaux d'aujour-
 d'hui (¹).
@@ -4340,9 +4066,7 @@ contraire pour une bonne part la substance même de [^p89-1]
 
 [^p89-1]: Voir la Note III à la fin du volume.
 
-[p. 90]
-
-mon article . Tout ce que dit excellemment mon interlo-
+[p. 90] mon article . Tout ce que dit excellemment mon interlo-
 cuteur à ce sujet [^p90-1] me paraît la vérité même et avec
 lui je pense qu'il y a là de quoi faire tomber plusieurs
 des difficultés que propose la pensée incroyante mo-
@@ -4388,9 +4112,7 @@ critère
 [^p90-1]: Voir la Note III à la fin du présent volume.
 [^p90-2]: Voir plus haut, pages 29-33 .
 
-[p. 91]
-
-pourra-t-on recourir, sinon au critère que fournit l'in-
+[p. 91] pourra-t-on recourir, sinon au critère que fournit l'in-
 terprétation morale et pratique des dogmes ?
 Je comprends très bien l'attitude expectante, simple-
 ment permissive, du magistère ecclésiastique à l'égard
@@ -4436,9 +4158,7 @@ l'article de M. de Grandmaison .
 
 [^p91-1]: Notamment au bas de la page 249 . la fin du volume. Voir Note IV, à
 
-[p. 92]
-
-Quant aux textes de saint Paul cités ensuite, qu'ont-
+[p. 92] Quant aux textes de saint Paul cités ensuite, qu'ont-
 ils de gênant pour moi [^p92-1] ? Poser à titre de données et
 de faits, dans un langage de connaissance pratique, des
 objets dont toute spéculation devra tenir compte, déter-
@@ -4477,9 +4197,7 @@ leurs la pensée-action [^p92-2]
 [^p92-1]: Le chapitre II de la première épître aux Corinthiens me paraît en particulier tout à fait dars le sens de ma thèse : qu'on en pèse chaque mot.
 [^p92-2]: J'ai insisté plus longuement sur tout cela dans un travail Sur la notion de dogme écrit en réponse à un article de M. l'abbé Wehrlé . - Voir supra, page 45.
 
-[p. 93]
-
-Que le dogme ait une valeur intellectuelle, qu'il cons-
+[p. 93] Que le dogme ait une valeur intellectuelle, qu'il cons-
 titue une source positive de connaissance, en vérité cela
 ne fait pas question. Il fournit en effet, si l'on me passe
 le mot, des données théologisables ; une fois reçu, il de-
@@ -4518,11 +4236,7 @@ l'hypothèse intellectualiste. Mais le pragmatisme ouvre
 une issue. Car l'anthropomorphisme devient légitime
 
 Dogme et Critique
-3
-
-[p. 94]
-
-dès lors qu'il s'agit de caractériser l'action qu'un objet
+3 [p. 94] dès lors qu'il s'agit de caractériser l'action qu'un objet
 en soi mystérieux commande en l'homme ; et l'agnosti-
 cisme n'est plus total, dès lors que l'objet déclaré inac-
 cessible en soi nous est livré sous les espèces de la réper-
@@ -4558,9 +4272,7 @@ paraît contenue dans la révélation, implicitement peut-
 
 [^p94-1]: Je souscris entièrement aux remarques de M. Lévy-Bruhl citées par M. de Grandmaison à la page 200 de son article . J'ai moi-même écrit quelque chose d'analogue (Bulletin de la Société française de Philosophie, 1904, p . 155) . Mais est-ce que cela ne montre pas justement la nécessité d'en venir au point de vue de l'action si l'on veut maintenir néanmoins la transcendance absolue du surnaturel par rapport à la raison humaine ? Voir la note VI, à la fin du volume.
 
-[p. 95]
-
-être, mais formellement et non virtuellement ; 2º elle me
+[p. 95] être, mais formellement et non virtuellement ; 2º elle me
 paraît aussi proposée comme telle par l'Église, sinon
 par les définitions
 solennelles du Vatican, du moins
@@ -4598,9 +4310,7 @@ Que si nous nous obstinons à nous en tenir quand
 
 [^p95-1]: A ce point de vue, M. de Grandmaison dit en passant que le dogme Dieu est personnel exclut non pas seulement telles et telles formes, mais toute forme de panthéisme . Cela est exces- sif. Car sans doute, si le concile du Vatican a pris soin d'énu- mérer très précisément certaines doctrines panthéistes pour des frapper de ses anathèmes (Can. 3 et 4 du chap. I dans la Const. Dei Filius) , ce n'est pas sans motif.
 
-[p. 96]
-
-98
+[p. 96] 98
 LOGME ET CRITIQUE
 
 même au premier, nous ne parvenons à éviter l'anthro-
@@ -4644,11 +4354,7 @@ cience, dit-il, est dans nos concepts, non en Dieu. La
 voie de négation ne signifie pas seulement que Dieu n'est
 pas ceci ou cela, mais que Dieu est plus que tout cela .
 Nos formules ne conviennent pas, non par défaut en
-Dieu, mais par excès : elles doivent être majorées infi
-
-[p. 97]
-
-niment, car ce qu'elles expriment est en Dieu non
+Dieu, mais par excès : elles doivent être majorées infi [p. 97] niment, car ce qu'elles expriment est en Dieu non
 comme elles l'expriment, mais excellentiori modo , dit
 saint Thomas. Nous dirons donc que Dieu est supra-
 personnel, voulant signifier ainsi que la notion de person-
@@ -4689,11 +4395,7 @@ trouve que les
 portées deviennent irréfutables quand on se fait une
 conception intellectualiste du dogme. Je n'ai pas entendu
 démontrer autre chose ; et je n'ai pas besoin de dire qu'à
-mes yeux les objections en cause ruinent l'idée qu'on
-
-[p. 98]
-
-se fait parfois du dogme et non pas le dogme lui-même.
+mes yeux les objections en cause ruinent l'idée qu'on [p. 98] se fait parfois du dogme et non pas le dogme lui-même.
 Sur le principe d'immanence dont M. de Grandmaison
 parle ensuite, je présenterai une seule observation. Ce
 principe n'est pas une opinion particulière propre à telle
@@ -4731,11 +4433,7 @@ notre esprit . Mais ce n'est là peut-être qu'une simple
 nuance. En tout cas, je m'explique longuement
 là-
 dessus , en ce qui regarde la vérité surnaturelle, dans un
-article de la Revue biblique auquel j'ai déjà fait allusion ;
-
-[p. 99]
-
-pour ne pas répéter ici les mêmes choses, je demande la
+article de la Revue biblique auquel j'ai déjà fait allusion ; [p. 99] pour ne pas répéter ici les mêmes choses, je demande la
 permission d'y renvoyer le lecteur (¹) .
 Enfin , dans tout ce que dit après cela M. de Grand-
 maison sur l'apologétique, je ne vois pas, pour ma part,
@@ -4777,9 +4475,7 @@ fortement sur le primat de la doctrine par rapport aux [^p99-1]
 
 [^p99-1]: Voir ci -dessus, page 45.
 
-[p. 100]
-
-applications pratiques. Je ne veux rien contester de cela.
+[p. 100] applications pratiques. Je ne veux rien contester de cela.
 A aucun degré, je ne me range parmi ceux qui affectent
 de regarder le christianisme comme une morale sublime
 à prendre en faisant bon marché du dogme positif. Cette
@@ -4834,9 +4530,7 @@ l'apologétique de l'immanence. « Quaedam mulier, no- [^p100-1]
 [^p100-1]: Voir supra, p. 94 .
 [^p100-2]: Quinzaine du 1er juin 1905, p. 412 .
 
-[p. 101]
-
-mine Lydia, ...
+[p. 101] mine Lydia, ...
 colens Deum, audivit : cujus Dominus
 apcruit cor intenlere his quze d'celantur a Paulo » (Aст.
 APOST., XVI , 14) .
@@ -4881,11 +4575,7 @@ pliquer à ce cas ce que j'ai dit ailleurs sur la connais-
 sance en général, dans une critique d'ensemble de l'in-
 tellectualisme [^p101-1] : la vraie connaissance est action .
 
-[^p101-1]: Voir dans la Revue de Métaphysique et de Morale,
-
-[p. 102]
-
-De là résulte clairement le sens que j'attache à la
+[^p101-1]: Voir dans la Revue de Métaphysique et de Morale, [p. 102] De là résulte clairement le sens que j'attache à la
 règle évangélique : « a fructibus eorum cognoscetis eos »,
 comme critère de vérification (¹). J'y insisterai ailleurs [^p102-2] .
 Mais ce que je veux noter tout de suite, c'est que ce
@@ -4922,9 +4612,7 @@ adressées
 [^p102-1]: Quand j'ai écrit (p. 12 de l'article Qu'est-ce qu'un dog- me ?) : « La valeur d'une vérité se mesure avant tout aux ser- vices qu'elle rend », je restais placé par hypothèse dans l'ordre de la science et de la philosophie, comme le contexte en fait foi . C'est à vouloir, d'un point de vue intellectualiste, trans- former les dogmes en énoncés théoriques et spéculatifs qu'on risque de les faire paraître inutiles et inféconds. Je ne dis pas du tout qu'ils soient tels par rapport à notre vie religieuse, ni même indirectement, et sous la forme du pragmatisme, par rapport à notre vie intellectuelle entendue au sens le plus large.
 [^p102-2]: Dans un travail Sur la logique de l'invention actuellement en cours de publication (voir Revue de Métaphysique et de Morale, mars 1905). Voir aussi un article que j'ai inséré dans la Correspondance de l'Union pour la Vérité, 1906, nº I.
 
-[p. 103]
-
-glise n'en eût pas fait des dogmes définis et les eût
+[p. 103] glise n'en eût pas fait des dogmes définis et les eût
 laissés à jamais dans le domaine des opinions libres .
 Et, pour finir, il me semble que l'interprétation prag-
 matique des dogmes est celle qui permet le mieux de
@@ -4967,11 +4655,7 @@ par les formes du discours, je me retrouve plus claire-
 ment encore en pleine communion de sentiment et de
 volonté avec lui. Oui, travaillons à nous comprendre,
 sans rien méconnaître , sans rien oublier : au terme de
-notre effort, il y a la paix, cette paix divinement pro
-
-[p. 104]
-
-mise aux hommes de bonne volonté. La vérité vaincra ;
+notre effort, il y a la paix, cette paix divinement pro [p. 104] mise aux hommes de bonne volonté. La vérité vaincra ;
 sa victoire ne sera pas celle d'un homme sur un homme ;
 elle trouvera chacun de nous prêt à l'acclamer dans le
 plus intime de son âme. Pour préparer ce triomphe dans
@@ -4999,9 +4683,7 @@ y a Celui qui nous a dit un jour la parole de suprême
 apaisement :
 « Confidite : Ego vici mundum. »
 
-[p. 105]
-
-QU'EST-CE QU'UN DOGME ?
+[p. 105] QU'EST-CE QU'UN DOGME ?
 
 RÉPONSE A M. PORTALIÉ , A Mgr TURINAZ
 
@@ -5027,11 +4709,7 @@ d'après lequel il a conçu ses deux articles sur l'explica-
 ti
 morale des dogmes . Toutefois je profiterai de l'oc-
 casion pour répondre en même temps à quelques autres
-contradicteurs, notamment à Mgr Turinaz, dont la bro
-
-[p. 106]
-
-chure Une très grave question doctrinale [^p106-1] ne peut être
+contradicteurs, notamment à Mgr Turinaz, dont la bro [p. 106] chure Une très grave question doctrinale [^p106-1] ne peut être
 négligée, à raison de la situation officielle qu'occupe son
 signataire et des manifestations diverses par lesquelles
 
@@ -5064,7 +4742,7 @@ parmi nous rien qui ressemble à une Ecole, encore
 moins à une Secte ; chacun de nous pense pour son
 compte, à ses risques et périls, avec le bonheur seule-
 ment de rencontrer parfois d'autres esprits dont la pen-
-sée est concordante ; et a priori nous n'avons en com-
+sée est concordante ; et *a priori* nous n'avons en com-
 mun, outre le désir de bien faire, que la foi catholique et
 la volonté d'obéissance à l'Église .
 Quant à M. Loisy, dont une véritable hantise (quand
@@ -5078,9 +4756,7 @@ j'assume seul, sans « désarroi » aucun, n'en déplaise
 [^p106-1]: Paris, Roger et Chernoviz . Mgr Turinaz a publié, -sous le même titre et chez les mêmes éditeurs, une seconde brochure, en réponse à M. l'abbé Sertillanges.
 [^p106-2]: D'aucuns ont même parlé de « complot >> !>
 
-[p. 107]
-
-à M. Portalié, avec pleine conscience de ce que j'ai
+[p. 107] à M. Portalié, avec pleine conscience de ce que j'ai
 voulu et de ce que j'ai fait . A chacun sa charge. Pas
 de bouc émissaire. Lorsque j'ai conçu la doctrine dont
 s'inspire l'article Qu'est-ce qu'un dogme ?
@@ -5122,9 +4798,7 @@ Ce serait bien mal me comprendre que de lire ce que [^p107-1]
 
 [^p107-1]: Cela ne veut pas dire, bien entendu, que je m'interdise aujourd'hui d'utiliser selon l'occurrence l'œuvre de M. Loisy.
 
-[p. 108]
-
-j'ai écrit comme tendant à restreindre ou à diminuer
+[p. 108] j'ai écrit comme tendant à restreindre ou à diminuer
 la foi.
 Cherchons donc hardiment et loyalement, travaillons
 de tout notre effort à penser de mieux en mieux ce que
@@ -5159,9 +4833,7 @@ bien heureuse; mais aujourd'hui surtout c'est un dan-
 ger beaucoup plus qu'une sauvegarde. Qui facit verita-
 tem venit ad lucem .
 
-[p. 109]
-
-I. - POSITION DU PROBLÈME.
+[p. 109] I. - POSITION DU PROBLÈME.
 
 M. Portalié commence par une analyse de mon arti-
 cle . Et déjà, dans cette analyse, les expressions qui tra-
@@ -5190,11 +4862,7 @@ pour une juxtaposition de facultés ayant chacune son
 domaine rigoureusement délimité. Elle implique une
 philosophie de l'intelligence séparée, une philosophie de
 
-Dogmeet Critique
-
-[p. 110]
-
-l'idée pure, aussi incomplète et inexacte en son genre que
+Dogmeet Critique [p. 110] l'idée pure, aussi incomplète et inexacte en son genre que
 ce qu'on a nommé philosophie du sentiment ou philo-
 sophie de la volonté. Qu'on en juge par les quelques phra-
 ses suivantes, extraites de la Revue thomiste (septembre-
@@ -5238,11 +4906,7 @@ séparée de l'action : le concret, c'est la pensée-action , la
 vie de l'esprit [^p110-2], réalité antérieure à l'analyse concep-
 
 [^p110-1]: Le même auteur entend par dogme « une proposition à laquelle l'intelligence seule peut et doit formellement adhérer>>.
-[^p110-2]: J'ai précisé ces notions dans des articles antérieurs. Cf. notamment : Revue de Métaphysique et de Morale, mai 1901, et Bulletin de la Société française de Philosophie, séance du
-
-[p. 111]
-
-tuelle qui oppose intelligence et volonté. Voilà ce qu'il
+[^p110-2]: J'ai précisé ces notions dans des articles antérieurs. Cf. notamment : Revue de Métaphysique et de Morale, mai 1901, et Bulletin de la Société française de Philosophie, séance du [p. 111] tuelle qui oppose intelligence et volonté. Voilà ce qu'il
 ne faut pas perdre de vue pour bien comprendre
 ce que j'ai voulu dire dans mon résumé des objections
 modernes contre les dogmes. Beaucoup des reproches
@@ -5286,9 +4950,7 @@ volume.
 Psychologie de la
 foi, page 32, Paris, Bloud, 1905.
 
-[p. 112]
-
-tivement à la portée de tous ? [^p112-1] Le pragmatisme [^p112-2]
+[p. 112] tivement à la portée de tous ? [^p112-1] Le pragmatisme [^p112-2]
 seul donne la solution de ce problème, en présentant
 les dogmes comme appartenant à l'ordre de l'action et
 de la vie. Leur signification, dit-il, est avant tout pra-
@@ -5328,9 +4990,7 @@ genre puisqu'elle est simplement son contraire [^p112-3]
 [^p112-2]: J'avertis une fois pour toutes que je ne prends pas ce mot dans l'acception restreinte où il désigne une certaine philosophie anglo-américaine dont William James peut être regardé comme l'initiateur. Voir ci-dessus, p. 104.
 [^p112-3]: Si j'ai choisi le mot action (d'où pragmatisme), c'est jus- tement pour prévenir la méprise à laquelle pourrait donner lieu un nom de << faculté » particulière.
 
-[p. 113]
-
-Je n'ai jamais accusé les dogmes eux-mêmes d'absur-
+[p. 113] Je n'ai jamais accusé les dogmes eux-mêmes d'absur-
 dité irrémédiable; je ne les ai jamais prétendus con-
 damnés en eux-mêmes sans retour par les progrès de la
 philosophie moderne ; je n'ai jamais conclu à une irré-
@@ -5377,18 +5037,14 @@ a songé. Mais irait-on jusqu'à prétendre que le moral
 n'est affaire que de sentiment ou de geste et n'a aucun
 rapport avec la pensée ? « Soutenir que l'existence de
 
-[p. 114]
-
-Dieu, de l'âme, de la vie future est indémontrable »,
+[p. 114] Dieu, de l'âme, de la vie future est indémontrable »,
 aucun de nous ne l'a fait non plus. Mais voulez-vous
 dire qu'en dehors de votre raison
 il n'y a plus de
 raison, qu'en dehors de vos preuves il n'y a point de
 salut?
 
-[p. 115]
-
-II.
+[p. 115] II.
 
 -
 
@@ -5423,9 +5079,7 @@ ce jour, sans racines dans le passé chrétien, en oppo-
 
 [^p115-1]: Mgr Turinaz, après le P. Fontaine, va même jusqu'à parler de mon « complet mépris » pour « tous les Pères, tous les Docteurs, tout l'enseignement de l'Église . >>>
 
-[p. 116]
-
-sition flagrante avec lui, et dont l'adoption constituerait
+[p. 116] sition flagrante avec lui, et dont l'adoption constituerait
 une rupture de la tradition authentique. Mais il me
 sera facile de prouver que c'est là une erreur de fait.
 Si la tradition véritable était unanime en faveur de
@@ -5478,9 +5132,7 @@ obtenir le salut [^p116-1], non un système de philosophie
 
 [^p116-1]: Ne pas traduire moyen pratique par recette aveugle . Un l'a fait (cf. FRANON, Bulletin de littérature ecclésiastique, juin 1905, р. 168), mais je proteste absolument contre une telle déformation de ma pensée.
 
-[p. 117]
-
-spéculative (1) A ceux qui me contredisent, je demande
+[p. 117] spéculative (1) A ceux qui me contredisent, je demande
 s'ils
 soutiennent
 catégoriquement
@@ -5530,11 +5182,7 @@ philosophie à faire, non une philosophie que la révélation
 nous fournirait toute faite ;
 et à cette philosophie n'est pas
 due une adhésion de foi proprement dite.
-2. Cité par H. BRÉMOND dans l'ouvrage récent qui a pour
-
-[p. 118]
-
-fait à peine mention de l'existence de la raison, comme
+2. Cité par H. BRÉMOND dans l'ouvrage récent qui a pour [p. 118] fait à peine mention de l'existence de la raison, comme
 d'un attribut distinct et principal de l'âme. »
 Il nous
 propose une vie plutôt qu'une science, une discipline
@@ -5578,9 +5226,7 @@ titre : Newman : Psychologie de la Foi, page 65 ; Paris, Bloud [^p118-1]
 
 [^p118-1]: L'Évangile est, avant tout, un livre d'expérience religieuse.
 
-[p. 119]
-
-à faire pour naître à la vie éternelle. La vérité qu'il
+[p. 119] à faire pour naître à la vie éternelle. La vérité qu'il
 enseigne est toujours présentée par lui sous son aspect
 pratique et moral, sous les espèces de l'action qu'elle
 commande et de la vie qu'elle communique, dans et
@@ -5639,9 +5285,7 @@ judicavi me scire aliquid inter vos , nisi Jesum Christum
 
 [^p119-1]: La meilleure manière de ne pas comprendre St Paul est de le traduire « en scolastique ». De même pour les écrits johanniques.
 
-[p. 120]
-
-et hunc crucifixum ..... Et sermo meus et praedicatio mea
+[p. 120] et hunc crucifixum ..... Et sermo meus et praedicatio mea
 non in persuasibilibus humanae sapientiae verbis , sed
 in
 ostensione spiritus et virtutis :
@@ -5701,9 +5345,7 @@ sion de foi , le mot obsequium : l'emploi de ce mot est
 
 [^p120-1]: L'acte de foi est bien un acte au sens le plus riche du Cf. la note mise par le P. GAUDEAU, S. J., dans son Libellus fidei, p. 25. mot.
 
-[p. 121]
-
-d'autant plus significatif qu'il fut plus délibéré, un Père
+[p. 121] d'autant plus significatif qu'il fut plus délibéré, un Père
 ayant proposé assensum au lieu d'obsequium et l'amen-
 dement ayant été rejeté sur un rapport présenté par
 Mgr
@@ -5756,9 +5398,7 @@ i Mgr Turinaz, dans sa seconde brochure, p. 19,
 écrit :
 << Il est des dogmes qui n'ont pas de signification pratique.>>>
 
-[p. 122]
-
-cette École, Frassen [^p122-1], qui sont bien remarquables :
+[p. 122] cette École, Frassen [^p122-1], qui sont bien remarquables :
 «Theologia nostra non
 est scientia...
 Nostra
@@ -5813,9 +5453,7 @@ déploie toute sa vertu à nous appliquer à l'action, et non
 [^p122-1]: Voir la note VIII à la fin du volume.
 [^p122-2]: On sait que l'Imitation fut précisément une protestation et une réaction contre les abus intellectualistes de la Scolas- tique.
 
-[p. 123]
-
-Sur la parole de Dieu, Bossuet avait écrit déjà cette
+[p. 123] Sur la parole de Dieu, Bossuet avait écrit déjà cette
 page admirable :
 <<< Mais quand Dieu même parlerait
 à l'entendement par la manifestation de la vérité,
@@ -5863,9 +5501,7 @@ vent donner matière.
 
 [^p123-1]: Cf. H. BREMOND, Newman : Psychologic de la Foi, page 277; Paris. Bloud. 1905 .
 
-[p. 124]
-
-On voit en définitive combien on serait mal venu
+[p. 124] On voit en définitive combien on serait mal venu
 à invoquer contre moi l'argument de tradition. Assu-
 rément
 les étroites limites de cette réponse ne me
@@ -5877,9 +5513,7 @@ l'article Qu'est-ce qu'un dogme ?
 1. Cf. un livre récent de M. l'abbé MARTIN, L'Apologétique
 traditionnelle, Paris, Lethicilcus. 3 vol .
 
-[p. 125]
-
-111 .
+[p. 125] 111 .
 - PRINCIPES GÉNÉRAUX.
 
 Que l'acte de foi implique un assentiment intellectuel,
@@ -5906,11 +5540,7 @@ lisme et du volontarisme : systèmes antithétiques,
 je
 le veux bien, mais qui ont une même racine, et qui ne [^p125-1]
 
-[^p125-1]: Je laisse entièrement de côté ici l'élément surnaturel, la grâce; ce qui ne veut pas dire que je le méconnaisse : au contraire, je ie suppose partout. Dogmeet Critique 10
-
-[p. 126]
-
-diffèrent en somme que par le coefficient d'importance
+[^p125-1]: Je laisse entièrement de côté ici l'élément surnaturel, la grâce; ce qui ne veut pas dire que je le méconnaisse : au contraire, je ie suppose partout. Dogmeet Critique 10 [p. 126] diffèrent en somme que par le coefficient d'importance
 attribué aux deux éléments ; systèmes que l'on peut se
 représenter comme les deux pôles extrêmes, les deux
 limites opposées d'une même dissociation conceptuelle.
@@ -5954,11 +5584,7 @@ dans chacun de ses mots. De là vient la nécessité de
 formules différentes pour traduire la même réalité con-
 crète [^p126-1].
 
-[^p126-1]: Je ne dis pas que le doublet Intelligence-Volonté ne com. porte aucune application légitime. Mais il en comporte d'au-
-
-[p. 127]
-
-La vraie manière de poser le problème serait donc
+[^p126-1]: Je ne dis pas que le doublet Intelligence-Volonté ne com. porte aucune application légitime. Mais il en comporte d'au-[p. 127]La vraie manière de poser le problème serait donc
 selon moi celle-ci : comment faut-il effectuer le morcelage
 indispensable au discours, pour éviter les
 faux
@@ -6011,9 +5637,7 @@ la réalité tout à fait intacte, ne la traduit exactement comme
 elle est. Aux endroits des coupures se posent des problèmes
 que le découpage même a rendus insolubles .
 
-[p. 128]
-
-130
+[p. 128] 130
 OGME ET CRITIQUE
 
 due encore une adhésion de foi, mais sous la forme
@@ -6061,9 +5685,7 @@ volume.
 
 -
 
-[p. 129]
-
-constituent l'objet de la foi. Ce sont des mystères, sinon
+[p. 129] constituent l'objet de la foi. Ce sont des mystères, sinon
 uniquement, du moins principalement. Disons donc quel-
 ques mots des mystères .
 Obscurité irréductible de la foi, caractère surnaturel-
@@ -6108,9 +5730,7 @@ sensum est.
 [^p129-1]: Qu'on n'oublie pas que je parle ici au point de vue de la foi, non pas au point de vue des spéculations humaines dont elle peut être l'occasion et la matière .
 [^p129-2]: La plupart des résultats scientifiques acquis de nos jours étaient radicalement inaccessibles au temps d'Archimède : ils
 
-[p. 130]
-
-Il faut aller plus loin encore. Non seulement la raison
+[p. 130] Il faut aller plus loin encore. Non seulement la raison
 est impuissante à expliquer les mystères, mais elle ne
 peut pas même les découvrir, en prouver l'existence
 de fait, sans le secours d'une révélation [^p130-1] . Non seule-
@@ -6144,9 +5764,7 @@ humain.
 [^p130-3]: Divina enim mysteria suapte natura intellectum creatum sic excedunt, ut etiam revelatione tradita et fide suscepр- ta, ipsius tamen fidei velamine contecta et quadam quasi caligine obvoluta maneant, quamdiu in hac mortali vita peregrinamur a Domino . (Const. Dei Filius, cap IV . )
 [^p130-4]: Mgr Turinaz (p. 38 de sa première brochure) tombe en plein dans cette erreur. Je le renvoie, pour toute réponse, à une page très nette écrite par un théologien qui fut professeur dans son Grand Séminaire : VACANT , Etudes théologiques sur les constitutions du Concile du Vatican, t. II, p. 190.
 
-[p. 131]
-
-en un mot comme définie par ses déterminations intrin-
+[p. 131] en un mot comme définie par ses déterminations intrin-
 sèques . Or : 1º une telle prétention ne cadre pas avec la
 nature de mystère que nous venons de reconnaître aux
 objets de la foi ; 2º si l'on fait appel aux conceptions
@@ -6185,9 +5803,7 @@ contraints à se contenter d'imaginations qu'ils ont dé-
 
 [^p131-1]: Il ne faut rien exagérer. Je ne prétends pas que ces résul- tats lamentables se produisent toujours explicitement. Dans la pratique, d'heureuses inconséquences corrigent bien des choses, avec la grâce de Dieu. La plupart des catholiques vi- vent en fait un pragmatisme dont ils se rendent mal compte. Ainsi trouvent-ils un chemin entre l'agnosticisme et l'anthropo- morphisme . Il est très suggestif de les interroger à cet égard. C'est invariablement à une interprétation pratique et morale qu'ils ont recours quand on les presse un peu et qu'on les met en demeure de définir le contenu de leur foi .
 
-[p. 132]
-
-passées ; 2º le mystère reste mystère au sens plein du
+[p. 132] passées ; 2º le mystère reste mystère au sens plein du
 mot, tout en étant exprimé avec précision par un sym-
 bolisme qui le traduit d'une manière indirecte en fonc-
 tion de son retentissement dans l'homme ; 3º aucun
@@ -6215,9 +5831,7 @@ aux autres .
 
 [^p132-1]: Même remarque au sujet du mot expérience qu'au sujet du mot fait. Voir page 130, note 1 .
 
-[p. 133]
-
-IV.
+[p. 133] IV.
 
 -
 
@@ -6249,9 +5863,7 @@ traités de théologie la formulent explicitement ; et per-
 [^p133-1]: Etudes du 20 juillet 1905, p. 152, note 1 .
 [^p133-2]: Prière au lecteur de se reporter à deux articles récents : 1º DESBUTS, La notion d'analogie d'après S. Thomas d'Aquin; nº de janvier 1906 des Annales de philosophie chrétienne ; 2° SERTILLANGES, Agnosticisme ou anthropomorphisme ? nº de fé- vrier 1906 de la Revue de Philosophie. Cf. S. THOMAS : Summ . Th . , P. I, Q. XII et XIII ; Contra Gentes, lib. I, cap. XXIX-XXXVI ; de Pot., Q. VII .
 
-[p. 134]
-
-:
+[p. 134] :
 
 sonne certainement ne la contestera, bien que beaucoup
 aujourd'hui aient tendance à l'oublier dans la pratique,
@@ -6307,9 +5919,7 @@ eo praedicentur [^p134-4] » ; « Absolute negari possunt » [^p134-5] . 11
 [^p134-4]: PSEUDO-DENYS, Coclest. Hir. , cap . II ; cité par S. THO MAS : Summ. Th ., P. I, Q XIII , art . 3 .
 [^p134-5]: De Potentia, Q. VII, art . 5, ad 2m.
 
-[p. 135]
-
-ajoute : « Deo non conjungimur nisi quasi ignoto (1) » ; et
+[p. 135] ajoute : « Deo non conjungimur nisi quasi ignoto (1) » ; et
 enfin : « Non enim de Deo capere possumus quid est, sed
 quid non est, et qualiter alia se habeant ad ipsum (2) . »
 Que dirai-je après cela ? Les Mystiques sont plus auda-
@@ -6373,9 +5983,7 @@ sensus
 est ejus,
 neque phantasia, neque opinio, nec ratio, nec scientia .
 
-[p. 136]
-
-puéril. Mais au fond elles symbolisent - quoique tres
+[p. 136] puéril. Mais au fond elles symbolisent - quoique tres
 imparfaitement
 quelque chose de vrai. Aucune image
 n'exprime Dieu, parce que Dieu n'est pas une réalité
@@ -6425,9 +6033,7 @@ dire au point de vue d'une représentation conceptuelle,
 
 [^p136-1]: Bien des gens qui ne jurent que par S. Thomas et la
 
-[p. 137]
-
--
+[p. 137] -
 
 idéologique, d'une représentation prétendue directe et
 intrinsèque par des termes statiquement définis, une
@@ -6473,9 +6079,7 @@ connu positivement, où d'ailleurs les limites sont essentielles,
 et un second terme insaisissable en soi que S.Jean Damascène
 a pu appeler pelagus substantiae infinitum et indeterminatum ?
 
-[p. 138]
-
-et que d'autre part nul n'en a une intuition directe ; mais
+[p. 138] et que d'autre part nul n'en a une intuition directe ; mais
 il ne s'agit pas d'un symbolisme algébrique entièrement
 conventionnel; car un tel symbolisme n'a de sens que
 s'il est un symbolisme au second degré, un symbolisme
@@ -6517,9 +6121,7 @@ Cependant nous ne possédons aucune idée qui con- [^p138-1]
 [^p138-1]: Voir la Note VI, à la fin du volume.
 [^p138-2]: Avec quoi composer un concept qui convienne à Dieu sans trace aucune d'équivoque ?
 
-[p. 139]
-
-vienne univoquement à Dieu et aux créatures . Tout
+[p. 139] vienne univoquement à Dieu et aux créatures . Tout
 le monde est d'accord là-dessus . « Nihil dicitur univoce
 de Deo et creaturis » , dit S. Thomas [^p139-1] . Impossible
 donc d'avoir de Dieu une connaissance propre et directe.
@@ -6565,9 +6167,7 @@ qui se conquiert, qui est unification progressive plutôt
 [^p139-2]: << Non, rassurez-vous, Monsieur, me répond un Professeur de Lycée (Quinzaine du 16 juillet 1905, p . 252), le gros mot d'anthropomorphisme n'a pas son application ici... Chacun sait que l'anthropomorphisme consiste à donner à Dieu des mains, des bras, une poitrine et une grande barbe. >>> même << professeur » parle de mesure incommensurable et pré- fère l'autorité de La Palisse à celle de S. Thomas : des goûts comme des couleurs, il ne faut point discuter. Le
 [^p139-3]: On peut dire aussi que la définition en cause est d'origine et de caractère juridiques. A ce point de vue, elle se justifie mieux; mais, si l'on ne veut pas tomber dans un anthropomor- phisme flagrant, on ne peut pas l'appliquer telle quelle à Dieu . Dire que Dieu est une personne, c'est dire alors qu'il est pour nous un centre de devoirs .
 
-[p. 140]
-
-qu'unité parfaite, qui (en un sens) peut aussi se diviser
+[p. 140] qu'unité parfaite, qui (en un sens) peut aussi se diviser
 ou même se perdre. Mais à quoi bon insister ? Personne
 assurément ne soutiendra qu'il existe un seul attribut
 commun à Dieu et à l'homme, l'attribution étant uni-
@@ -6616,9 +6216,7 @@ Il y a plus. Le divin ne constitue pas un genre
 [^p140-1]: SERTILLANGES, Revue de Philosophie, 1er février 1906 p. 151.
 [^p140-2]: Au sens pascalien du mot.
 
-[p. 141]
-
-poser ainsi serait encore le soumettre à des conditions
+[p. 141] poser ainsi serait encore le soumettre à des conditions
 qui, à un certain point de vue, le placeraient sur le
 même plan, l'inséreraient dans le même ordre que les
 êtres créés. Or Dieu ne peut pas même être conçu
@@ -6658,11 +6256,7 @@ sais quel vague indéterminable qui équivaut à l'agnos-
 ticisme [^p141-2] . Je voudrais bien voir quelqu'un me donner
 
 [^p141-1]: Cf. PSEUDO-DENYS, Coelest . Hier., cap II, (cité par S. THOMAS, Summ . Th . , P. Q. XIV, art. 12) : Negationes de Deo sunt verae, affirmationes autem incompactas 1.
-[^p141-2]: Quand on dit que les perfections créées préexistent en Dogmeet Critique
-
-[p. 142]
-
-une définition pure de toute idée négative et limitative !
+[^p141-2]: Quand on dit que les perfections créées préexistent en Dogmeet Critique [p. 142] une définition pure de toute idée négative et limitative !
 Et puis, je le répète, nous ne pouvons pas appliquer
 à Dieu univoquement la plus petite parcelle de nos
 concepts ; n'imaginons pas que ceux-ci soient un mé-
@@ -6714,9 +6308,7 @@ cela est juste
 mais c'est cette éminence
 qu'un intellectualisme statique est incapable de préciser.
 
-[p. 143]
-
-un sens différent d'un concept à l'autre, bref tout ce
+[p. 143] un sens différent d'un concept à l'autre, bref tout ce
 qui rend les concepts saisissables discursivement. D'où ,
 par un détour, une rechute encore dans l'agnosticisme.
 Pour éviter une telle conséquence,
@@ -6757,9 +6349,7 @@ conclure qu'en toute rigueur lui seul existe, lui seul
 
 [^p143-1]: En voici la formule donnée par S. Augustin (in lib . 83 Quaest . , q. 20) : In ipso potius sunt omnia quam ipse alicubi.
 
-[p. 144]
-
-est réel, le reste n'ayant d'existence et de réalité qu'en
+[p. 144] est réel, le reste n'ayant d'existence et de réalité qu'en
 lui et par lui. S. Augustin disait en ce sens (in Ps. 134,
 n. 4) : « Ita Deus est, ut in ejus comparatione ea, quae
 facta sunt, non sint . Illi non comparata, sunt, quoniam
@@ -6811,9 +6401,7 @@ est à Dieu ce que la personnalité est à l'homme. Une fois
 encore, la prétention de saisir Dieu tel qu'il est en
 soi conduirait ainsi à l'agnosticisme .
 
-[p. 145]
-
-La seule ressource qui nous reste pour sortir d'em-
+[p. 145] La seule ressource qui nous reste pour sortir d'em-
 barras est de conserver la distinction entre Dieu et son
 attribut. Mais cette distinction n'est pas réelle ontolo-
 giquement. La maintenir, c'est donc envisager Dieu
@@ -6856,11 +6444,7 @@ Pour achever d'éclaircir ce point,
 il sera bon d'in-
 diquer en quelques mots comment on arrive à l'affir-
 mation de la personnalité divine, entendue au sens qui
-vient d'être précisé. Je me bornerai forcément à une
-
-[p. 146]
-
-esquisse très brève (¹) . Qu'on
+vient d'être précisé. Je me bornerai forcément à une [p. 146] esquisse très brève (¹) . Qu'on
 veuille
 bien en tenir
 compte.
@@ -6904,9 +6488,7 @@ reusement dans la mesure où nous les voyons déjà. [^p146-1]
 
 [^p146-1]: J'ai développé ce point dans un article de la Revue de Métaphysique et de Morale, mars 1907, sous le titre: Comment se pose le problème de Dieu.
 
-[p. 147]
-
-Or il nous serait impossible de nous donner sincère-
+[p. 147] Or il nous serait impossible de nous donner sincère-
 ment à ce que nous jugerions moindre que nous, de
 trouver le fondement de notre existence personnelle
 dans ce que nous penserions sous une forme inférieure à
@@ -6942,11 +6524,7 @@ que en nous et qui nous entraîne vers lui [^p147-1]. Il est seul
 réel en ce que rien ne se réalise que par lui. Il est
 incompréhensible en ce qu'il constitue la lumière qui
 
-[^p147-1]: Il faut ajouter que Dieu n'est jamais connu autant qu'il est connaissable puisque notamment il est, par définition même, le principe qui force toute connaissance à se dépas- ser sans fin ni repos. C'est ce que S. Thomas dit même de la vision béatifique (Summ. Th. , P. I, Q. XII, art. 7, ad 2m) : Non ita perfecte videtur, sicut visibilis est. 3
-
-[p. 148]
-
-éclaire tout et qui ne peut donc elle-même être éclairée
+[^p147-1]: Il faut ajouter que Dieu n'est jamais connu autant qu'il est connaissable puisque notamment il est, par définition même, le principe qui force toute connaissance à se dépas- ser sans fin ni repos. C'est ce que S. Thomas dit même de la vision béatifique (Summ. Th. , P. I, Q. XII, art. 7, ad 2m) : Non ita perfecte videtur, sicut visibilis est. 3 [p. 148] éclaire tout et qui ne peut donc elle-même être éclairée
 par rien; en ce qu'il
 est principe moteur que nulle
 analyse ne saurait atteindre, source de vie que nulle
@@ -6999,9 +6577,7 @@ fidèle à cette aspiration jusqu'au bout de ses exigences, [^p148-1]
 
 [^p148-1]: On connaît l'affirmation du Vatican : Deum ... naturali humanæ rationis lumine.... certo cognosci posse. Ce texte est d'autant plus remarquable que le schéma prosynodal portait demonstrari et que ce fut après une délibération expresse qu'on remplaça ce mot par cognosci.
 
-[p. 149]
-
-qui s'offre donc à toute âme droite, constitue l'effort
+[p. 149] qui s'offre donc à toute âme droite, constitue l'effort
 même de sa vie et se développe en elle pour autant
 qu'elle n'y met pas obstacle [^p149-1] . Voilà ce que je puis
 décrire ; et chacun peut vérifier s'il veut. Mais je ne puis
@@ -7040,9 +6616,7 @@ nalité divine. Il commencera peut-être par essayer quel-
 
 [^p149-1]: Je ne conteste pas du tout que cette expérience im- plique des moments d'analyse conceptuelle et de dialectique abstraite. Je conteste encore moins qu'elle soit, pour une large part, sociale et traditionnelle. Mais tout cela n'est que pour nous amener à entendre la voix qui parle en nous.
 
-[p. 150]
-
-que définition théorique. Mais pressez-le tant soit peu,
+[p. 150] que définition théorique. Mais pressez-le tant soit peu,
 en lui montrant
 ce qui sera facile
 tout proche
@@ -7095,9 +6669,7 @@ mêmes dogmatiques et que ce n'est pas sur elles que [^p150-1]
 [^p150-3]: Ire Brochure, p. 37.
 [^p150-4]: Inutile de redire qu'aucun des concepts vie, intelligence, conscience, volonté, activité, etc., ne s'applique univoquement à Dieu et aux créatures .
 
-[p. 151]
-
-portera jamais l'obligation dogmatique. Le dogme, sup-
+[p. 151] portera jamais l'obligation dogmatique. Le dogme, sup-
 posé par ailleurs établi et constitué, pourra donner
 après coup une consistance plus grande à de telles
 conjectures, mais à condition évidemment que ces con-
@@ -7128,9 +6700,7 @@ religieuse, c'est vouloir m'imposer de dire plutôt Dieu =
 [^p151-3]: Bulletin de littérature ecclésiastique, nº de juillet-octobre 1905, р. 195, en note.
 [^p151-4]: Revue du Clergé français, 1er septembre 1905, p. 58.
 
-[p. 152]
-
-151
+[p. 152] 151
 DJGME ET CRITIQUE
 
 symboles
@@ -7153,9 +6723,7 @@ différents termes , traduisant la réalité par ce que nous
 devons être à son égard, désignent différents groupes
 d'attitudes et de démarches .
 
-[p. 153]
-
-V.
+[p. 153] V.
 DEUXIÈME EXEMPLE :
 -
 
@@ -7176,9 +6744,7 @@ Ainsi on est prévenu qu'il faudra toujours tenir mes
 
 [^p153-1]: Le <<< professeur de lycée » , qui semble avoir fait la gageure de tout comprendre exactement à l'envers et dont on a dit cependant (Revue thomiste, septembre-octobre 1905, p. 444) que sa réponse « pourrait être signée d'un théologien », écrit dans la Quinzaine du 16 juillet 1905 (p. 253) que pour moi le Christ vit sans doute, mais dans la persistance de son enseignement, comme un V. Hugo se survit dans ses vers et dans sa gloire . Or mon premier article contenait cette phrase (p. 20 du présent volume) : « Jésus intervient encore et vit parmi nous, et non point seulement comme un penseur disparu dont l'influence reste féconde et vivace et dont l'œuvre pro- duit longtemps des conséquences . >>>
 
-[p. 154]
-
-critiques pour dirigées seulement contre telles ou telles
+[p. 154] critiques pour dirigées seulement contre telles ou telles
 représentations du fait, non pas contre le fait lui-même.
 Mais , cela posé, le problème de la résurrection sub-
 siste; et l'on ne peut pas regarder la question comme
@@ -7217,11 +6783,7 @@ de la résurrection ? qu'en pouvons -nous savoir en dehors
 de la foi ?
 On m'excusera de
 faire peut-être parfois un peu
-J'avocat du diable : cela est nécessaire pour déblayer le
-
-[p. 155]
-
-terrain et permettre finalement de solides affirmations
+J'avocat du diable : cela est nécessaire pour déblayer le [p. 155] terrain et permettre finalement de solides affirmations
 positives. La meilleure manière de vaincre une difficulté
 (ou même à vrai dire la seule), c'est de commencer
 par bien la voir, sans atténuations ni faux fuyants.
@@ -7270,9 +6832,7 @@ l'œuvre de connaissance envisagée dans son dynamisme
 1. Cf. un article Sur la notion de vérité que j'ai inséré
 dans la Correspondance de l'Union pour la Vérité, nº 1, 1906.
 
-[p. 156]
-
-158
+[p. 156] 158
 OGME ET CRITIQUE
 
 même. De là les deux critères précédents . Du reste un
@@ -7319,11 +6879,7 @@ montre solidaire de l'ensemble où elle est insérée, plus
 elle est jugée réelle dans son genre. Cependant elle
 n'appartient pas à tous les plans de l'activité spirituelle,
 ni surtout aux plus profonds , et d'autre part elle suppose
-des postulats dont l'esprit peut s'affranchir, si bien qu'il
-
-[p. 157]
-
-existe des cas où la vérité en cause ne vaut plus : c'est
+des postulats dont l'esprit peut s'affranchir, si bien qu'il [p. 157] existe des cas où la vérité en cause ne vaut plus : c'est
 pourquoi elle n'est pas réelle simpliciter, mais secundum
 quid. Plus réels, et pour des raisons semblables , avec
 des nuances d'ailleurs, sont les objets sensibles et les
@@ -7364,11 +6920,7 @@ Cela posé,
 conformément, je le répète, aux plus
 profondes et aux meilleures tendances de la philosophie
 
-[^p157-1]: 1 Voir, à ce sujet, l'analyse du Cogito cartésien que j'ai donnée dans le Bulletin de la Société française de Philosophie, séance du 25 février 1904. Dogmeet Critique 12
-
-[p. 158]
-
-160
+[^p157-1]: 1 Voir, à ce sujet, l'analyse du Cogito cartésien que j'ai donnée dans le Bulletin de la Société française de Philosophie, séance du 25 février 1904. Dogmeet Critique 12 [p. 158] 160
 DOGME ET CRITIQUE..
 moderne,
 il est bien curieux d'observer l'attitude
@@ -7411,11 +6963,7 @@ des procédés analogues .
 Ce postulat est nécessaire et suffisant pour justifier
 l'attitude commune. C'est par lui notamment que le
 triomphe de Pâques peut devenir un argument apolo-
-gétique à l'adresse de ceux mêmes qui n'ont encore
-
-[p. 159]
-
-aucune foi. Supposez en effet que la résurrection soit
+gétique à l'adresse de ceux mêmes qui n'ont encore [p. 159] aucune foi. Supposez en effet que la résurrection soit
 pur et simple retour à la vie naturelle antérieure [^p159-1], ou
 du moins passage à une forme de vie plus haute peut-
 être, mais phénoménale encore, un peu comme dans
@@ -7455,9 +7003,7 @@ porels posés antérieurement à leurs relations récipro-
 [^p159-1]: Comme par exemple, selon le quatrième évangile, aurait été la résurrection de Lazare .
 [^p159-2]: La représentation populaire se rattache plutôt à ce se- cond type.
 
-[p. 160]
-
-ques ou que l'on définisse les corps comme des foyers
+[p. 160] ques ou que l'on définisse les corps comme des foyers
 de concentration dans une continuité qualitative pré-
 existante, la résurrection suppose toujours ici un mor-
 celage irréductible, car la formule « réanimation du
@@ -7495,9 +7041,7 @@ l'ordre divin [^p160-4] . [^p160-1]
 [^p160-3]: Loc . cit. , art. 2 .
 [^p160-4]: Je ne veux pas dire ici, bien entendu, l'ordre de la grâce.
 
-[p. 161]
-
-Par conséquent, ce n'est pas la même notion de
+[p. 161] Par conséquent, ce n'est pas la même notion de
 vie qui convient avant la mise en croix et après la
 sortie du tombeau : de sorte que, si le mot ne change
 pas quand on passe d'une période à l'autre,
@@ -7538,9 +7082,7 @@ tenu le concept usuel de vie [^p161-1] ? Remarquez bien qu'il
 
 [^p161-1]: Ordinairement on ne se tire de là que par un recours à l'imagination. D'où une sorte de mythologie, dont on trou- vera de nombreux exemples jusque dans S. Thomas.
 
-[p. 162]
-
-s'agit de définir la vie d'un corps, non celle d'une âme
+[p. 162] s'agit de définir la vie d'un corps, non celle d'une âme
 désincarnée [^p162-1] Or comment concevoir dans le cas ac-
 tuel le jeu des fonctions organiques ? Et si nous en
 faisons abstraction, que restera-t-il de l'idée que dé-
@@ -7577,9 +7119,7 @@ sique proprement dite. Il ne semble pas qu'il y ait eu
 [^p162-1]: Deux écueils à craindre : ou subtiliser la résurrection jusqu'à en faire une simple survivance de l'âme, ou trop insister pour la définir sur le rôle éternel et universel du Christ, ce qui risquerait risquerait de rendre inconcevable l'état de mort pendant les trois jours .
 [^p162-2]: Prière aux contradicteurs de ne pas me faire dire ce que je ne dis pas. Je ne formule ici aucune conclusion ferme : je signale seulement quelques difficultés, celles qui surgissent quand on se place dans l'ordre phénoménal.
 
-[p. 163]
-
-toujours évidence sensible incontestable: quidam autem
+[p. 163] toujours évidence sensible incontestable: quidam autem
 dubitaverunt
 ( MATTH. ,
 XXVIII,
@@ -7633,9 +7173,7 @@ corps est faite de ses liens avec le reste de l'univers,
 [^p163-2]: Et qui avaient déjà un commencement de foi : car ni S. Paul ni le Didyme ne peuvent être considérés comme de purs incrédules.
 [^p163-3]: Qu'on remarque en passant une expression du texte évangélique : ostensus est in alia effigie (MARC, XVI, 12) .
 
-[p. 164]
-
-elle n'existe pas en dehors et à part de ces liens, elle
+[p. 164] elle n'existe pas en dehors et à part de ces liens, elle
 se mesure à leur nombre et à leur solidité. Bref un
 corps consiste en un point de vue plus ou moins riche
 et nécessaire sur l'ensemble des choses. Au sein de la
@@ -7663,11 +7201,7 @@ servateur ait été enfermé dans le tombeau avec le corps
 de Jésus. En tout état de cause, voici les seules con-
 
 [^p164-1]: Voir un article que j'ai publié dans la Revue de Méta- physique et de Morale, juillet 1899, notamment au paragraphe intitulé Morcelage et dislocation de la matière. Ne pas oublier que le mot cadavre n'a de sens que dans l'ordre phénoménal.
-[^p164-2]: Remarquez bien qu'au point de vue physique où nous sommes placés les relations dont il s'agit sont celles que la science peut noter. Par exemple, une de ces relations est celle qu'exprime le verbe peser, c'est-à-dire être capable de faire trébucher une balance, être une maille dans le réseau des attractions newtoniennes. Ce sont les relations de ce genre qui définissent la réalité physique (non pas en tant que réalité, mais en tant que physique) et justement ce sont aussi les relations auxquelles échappe le corps glorieux. Cela ne veut pas dire simpliciter que celui-ci ne soit point une réalité, mais que ce n'est pas une réalité physique. bien une réalité physique. - Le cadavre, lui, est
-
-[p. 165]
-
-statations que physiquement il eût pu faire: à un instant
+[^p164-2]: Remarquez bien qu'au point de vue physique où nous sommes placés les relations dont il s'agit sont celles que la science peut noter. Par exemple, une de ces relations est celle qu'exprime le verbe peser, c'est-à-dire être capable de faire trébucher une balance, être une maille dans le réseau des attractions newtoniennes. Ce sont les relations de ce genre qui définissent la réalité physique (non pas en tant que réalité, mais en tant que physique) et justement ce sont aussi les relations auxquelles échappe le corps glorieux. Cela ne veut pas dire simpliciter que celui-ci ne soit point une réalité, mais que ce n'est pas une réalité physique. bien une réalité physique. - Le cadavre, lui, est [p. 165] statations que physiquement il eût pu faire: à un instant
 A,
 perception d'un corps ; à un instant B ultérieur,
 anéantissement de cette perception. Mais le passage de
@@ -7706,13 +7240,11 @@ la résurrection,
 introduite dans le monde phénoménal à titre de phé-
 nomène particulier, ferait éclater ce monde et le rendrait
 impossible ou contradictoire en le forçant à violer sur
-un point ses conditions a priori. « On ne peut pas affran-
+un point ses conditions *a priori*. « On ne peut pas affran-
 
 [^p165-1]: Bien entendu, je ne tire de là qu'une conséquence, à savoir que ce n'est pas d'un point de vue phénoménal qu'il faut chercher à définir et à concevoir la résurrection.
 
-[p. 166]
-
-.
+[p. 166] .
 
 chir des catégories ce qu'on entend placer dans un plan
 de connaissance défini par ces catégories elles-mêmes .
@@ -7750,9 +7282,7 @@ dit à propos des attributs divins [^p166-3]. [^p166-1]
 [^p166-2]: J'entends parler, bien entendu, de perception au sens ordinaire du mot.
 [^p166-3]: Cela ne veut pas dire, notez-le bien, que le corps du Christ ressuscité soit une simple apparence imaginaire, un
 
-[p. 167]
-
-Nous sommes arrivés à cette conclusion que, si la
+[p. 167] Nous sommes arrivés à cette conclusion que, si la
 résurrection est entrée dans la gloire, elle ne saurait
 être ni constatée ni définie d'un point de vue phé-
 noménal .
@@ -7796,9 +7326,7 @@ position entre deux éléments hétérogènes: la vie du Christ
 ressuscité est une.
 2. Il s'agit de résurrection et non de réincarnation.
 
-[p. 168]
-
-même permis de recourir à des imaginations
+[p. 168] même permis de recourir à des imaginations
 matéria-
 listes ? Prenons l'exemple de notre propre résurrection
 future. Là aussi c'est notre corps qui doit ressusciter : il
@@ -7829,7 +7357,7 @@ cause, le principe, le germe de la nôtre : Christus resur-
 rexit a mortuis,
 primitiae dormientium
 (I COR. , XV,
-20) ; in Christo omnes vivificabuntur (loc. cit., 22) . C'est
+20) ; in Christo omnes vivificabuntur (*loc. cit.*, 22) . C'est
 que par elle nous avons été littéralement incorporés au
 Christ .
 Cette expression dit assez
@@ -7842,11 +7370,7 @@ indiquée tout à l'heure, car elle nous suggère qu'en
 un certain sens la résurrection du Christ et la nôtre
 ne font vraiment qu'un .
 Or que pouvons-nous affirmer en ce qui nous con-
-cerne, à considérer les choses du point de vue phé
-
-[p. 169]
-
-noménal ? Notre corps se renouvelle incessamment, et
+cerne, à considérer les choses du point de vue phé [p. 169] noménal ? Notre corps se renouvelle incessamment, et
 néanmoins c'est notre corps qui ressuscitera : ne faut-il.
 point en conclure que ce qui fait nôtre tel corps n'est
 pas la matière qui à un moment donné le compose ?
@@ -7885,9 +7409,7 @@ soumise à des conditions d'ordre physique ? pourquoi
 
 [^p169-1]: De telles reliques, à vrai dire, il y en a partout, dans tout ce qui a rayonné du Christ au cours de son existence terrestre.
 
-[p. 170]
-
-exigerait-elie un trou, une soudaine rupture dans la
+[p. 170] exigerait-elie un trou, une soudaine rupture dans la
 continuité de nos perceptions possibles, je veux dire
 la brusque soustraction de « quelque chose » à l'ordre
 phénoménal naturel ?
@@ -7909,7 +7431,7 @@ que ce ne soit encore une entité purement verbale. Ce
 n'est sûrement rien de ce que saisissent la perception
 et la science: d'abord parce que ces éléments perdent
 toute signification dès qu'on entreprend de les sous-
-traire aux conditions a priori de l'expérience terrestre ,
+traire aux conditions *a priori* de l'expérience terrestre ,
 ensuite parce qu'à vouloir les << glorifier >> tels quels
 on adopte une position intenable, féconde en problèmes
 saugrenus et inconvenants. Il faut se défier des con-
@@ -7924,9 +7446,7 @@ empirique et provisoire à laquelle on ne saurait se tenir
 
 [^p170-1]: Voyez par exemple presque tout ce qui concerne les pro- priétés des corps glorieux, soit à propos de la résurrection de Jésus, soit à propos de la résurrection commune. Les pro- grès de la science forceraient même aujourd'hui à beaucoup allonger la liste, notamment en ce qui touche aux contre-coups physiques de la résurrection physiquement entendue.
 
-[p. 171]
-
-comme si elle était exhaustive, que c'est abuser d'elles
+[p. 171] comme si elle était exhaustive, que c'est abuser d'elles
 que de les ériger en je ne sais quelles normes méta-
 physiques du possible et de l'impossible. Sans doute ;
 mais, si on les écarte, tout en prétendant rester au point
@@ -7972,11 +7492,7 @@ clusion en examinant une autre face du problème.
 En effet, pour nous qui vivons aujourd'hui, la réalité
 du fait de la résurrection - supposée d'ordre sensible
 
-[^p171-1]: Nous avons déjà vu à quoi se réduiraient en tout cas les constatations possibles. Quoi qu'il en soit, la possibilité de
-
-[p. 172]
-
-serait en tout cas à établir par voie historique : ainsi
+[^p171-1]: Nous avons déjà vu à quoi se réduiraient en tout cas les constatations possibles. Quoi qu'il en soit, la possibilité de [p. 172] serait en tout cas à établir par voie historique : ainsi
 seulement pourrait-elle être saisie comme objet de con-
 naissance positive et de certitude purement intellectuelle.
 Or je soutiens que l'histoire n'est pas compétente en
@@ -8029,9 +7545,7 @@ surrection soit réel, ce n'est pas cette possibilité qui fonde
 ou constitue sa réalité : voilà tout ce que je veux dire ici.
 1. Au sens que l'on donne vulgairement à ce mot .
 
-[p. 173]
-
-n'est pas même indiquée de loin [^p173-1] . « Ille autem dicebat
+[p. 173] n'est pas même indiquée de loin [^p173-1] . « Ille autem dicebat
 de templo corporis sui » (JOAN., II, 21). Voilà l'inter-
 prétation allégorique, le commentaire d'après coup, ex-
 pression plutôt que fondement de la foi. Cette explication
@@ -8070,11 +7584,7 @@ IX, 8, 30 ; X, 34 ; XIV, 28. LUC,
 IX, 22 ; XVIII, 33) , où
 
 [^p173-1]: Quant à la supposition sans base aucune dans les textes selon laquelle Jésus par un geste aurait désigné son propre corps, elle est ridicule, puisque les Apôtres eux-mêmes ont entendu la chose du temple matériel .
-[^p173-2]: Notez de plus que, par ce discours, Jésus veut déclarer qu'il n'y aura point de « signe », au sens charnel du mot. Dogmeet Critique 13
-
-[p. 174]
-
-1
+[^p173-2]: Notez de plus que, par ce discours, Jésus veut déclarer qu'il n'y aura point de « signe », au sens charnel du mot. Dogmeet Critique 13 [p. 174] 1
 
 la résurrection est énoncée sans métaphore ni allégorie,
 sous une forme aussi explicite que dans le Symbole des
@@ -8118,9 +7628,7 @@ et n'empêche pas que tout effort de mémoire soit tou-
 
 [^p174-1]: De plus il est clair et cela est dit dans les Évangiles. mêmes que les rédacteurs poursuivaient un but apologé tique.
 
-[p. 175]
-
-jours plus ou moins un effort de reconstruction : on ne
+[p. 175] jours plus ou moins un effort de reconstruction : on ne
 peut pas vivre une pensée et en garder cependant une
 représentation intellectuelle immuable. Au surplus l'ef-
 fort des évangélistes fut-il un simple effort de mémoire ?
@@ -8173,9 +7681,7 @@ insuffisante. Mais ce n'est pas en qualité d'historien
 [^p175-2]: De même pour le passage similaire de MARC, X, 28-45 .
 [^p175-3]: Je n'ai pas ici à entreprendre cette analyse en détail. Je me borne à une indication et je renvoie pour le reste aux ouvrages spéciaux.
 
-[p. 176]
-
-qu'il formulera jamais un tel jugement. Ne lui deman-
+[p. 176] qu'il formulera jamais un tel jugement. Ne lui deman-
 dons pas à la fois de s'en tenir aux seules lumières
 de l'histoire et néanmoins de partir de principes ou
 d'arriver à des conclusions qui dépassent l'histoire .
@@ -8215,9 +7721,7 @@ réflexion tant soit peu attentive. Rappelons-nous en effet
 [^p176-1]: Les récits de la résurrection sont très nets à cet égard.
 [^p176-2]: Je ne veux pas dire que les textes actuels relatifs aux prophétis de la résurrection n'aient aucune racine historique : mais cette racine est aujourd'hui indéterminable.
 
-[p. 177]
-
-les exigences de la foi. La résurrection de Jésus est
+[p. 177] les exigences de la foi. La résurrection de Jésus est
 un article du Credo ; c'est un dogme que nous devons
 croire sur la parole de Dieu qui l'a révélé, et non pas
 à cause de son évidence historique; c'est un mystère
@@ -8258,11 +7762,7 @@ l'humanité : << Si Moysen et Prophetas non audiunt, neque
 si quis ex mortuis resurrexerit credent [^p177-1] . »
 D'ailleurs, que le fait de la résurrection ne puisse
 
-[^p177-1]: Le discours adressé aux disciples d'Emmaüs contient le même enseignement. Là aussi Jésus, comme en toute circons- tance d'ailleurs, « ouvre les Écritures » et à titre de preuve nécessaire invoque la tradition, c'est-à-dire l'expérience reli- gieuse durable, continue, progressive. Jamais il ne donne pour suffisante une simple constatation sensible. Une fois même (JOAN . , XX, 29), il dit : « Quia vidisti me , Thoma, credidisti : beati qui non viderunt et crediderunt. » — Certains apologistes
-
-[p. 178]
-
-pas être saisi en dehors de toute foi, qu'il ne comporte
+[^p177-1]: Le discours adressé aux disciples d'Emmaüs contient le même enseignement. Là aussi Jésus, comme en toute circons- tance d'ailleurs, « ouvre les Écritures » et à titre de preuve nécessaire invoque la tradition, c'est-à-dire l'expérience reli- gieuse durable, continue, progressive. Jamais il ne donne pour suffisante une simple constatation sensible. Une fois même (JOAN . , XX, 29), il dit : « Quia vidisti me , Thoma, credidisti : beati qui non viderunt et crediderunt. » — Certains apologistes [p. 178] pas être saisi en dehors de toute foi, qu'il ne comporte
 point de preuve péremptoire proprement historique,
 en un mot qu'il soit révélé plutôt que constaté, ce n'est
 pas une opinion si nouvelle qu'il semble à quelques-uns .
@@ -8322,9 +7822,7 @@ un fait religieux surnaturel.
 « capables de
 prouver avec évidence > : nous y reviendrons plus loin.
 
-[p. 179]
-
-HOMO NON PERCIPIT EA QUAE SUNT SPIRITUS DEI, ut
+[p. 179] HOMO NON PERCIPIT EA QUAE SUNT SPIRITUS DEI, ut
 dicitur I ad Corinth . II, 14. Et ideo Christus quibusdam
 ad credendum dispositis post resurrectionem apparuit in
 sua effigie ; illis autem in alia effigie apparuit, qui jam
@@ -8368,9 +7866,7 @@ non plus n'est pas ressuscité. Si le Christ n'est pas
 [^p179-4]: Quant au genre d'objectivité .
 [^p179-5]: Notez cependant I COR., IX, 1.
 
-[p. 180]
-
-ressuscité, notre prédication et votre foi sont vaines.
+[p. 180] ressuscité, notre prédication et votre foi sont vaines.
 Nous sommes alors, nous Apôtres, de faux témoins
 devant Dieu. Et vous êtes encore sous le joug du péché.
 Et ceux qui se sont endormis dans l'espérance du Christ.
@@ -8421,9 +7917,7 @@ I COR , XV,
 3. LOISY, Revue d'Histoire et de Littérature religieuses, nº de:
 janvier-février 1906, p. 70.
 
-[p. 181]
-
-et aux Écritures, c'est-à-dire à des arguments qui sup--
+[p. 181] et aux Écritures, c'est-à-dire à des arguments qui sup--
 posent une certaine foi préexistante. Sans doute
 ils
 parlent de constatations
@@ -8467,11 +7961,7 @@ et l'alternative qui s'ouvre à chaque
 instant devant
 nous est non pas d'y entrer ou de rester à l'intérieur,
 
-4
-
-[p. 182]
-
-mais de le suivre ou de lui résister. En sorte qu'il n'y
+4 [p. 182] mais de le suivre ou de lui résister. En sorte qu'il n'y
 a pas le moindre cercle vicieux à soutenir que la foi
 en la résurrection est le fruit et comme l'épanouissement
 d'une foi antérieure .
@@ -8512,9 +8002,7 @@ si grandes que, pour les résoudre, les Pères n'hésitaient [^p182-1]
 
 [^p182-1]: Il y aurait ici matière à de suggestifs rapprochements avec les travaux de M. Bergson sur la nature et le rôle de la perception et de la mémoire dans la vie psychologique.
 
-[p. 183]
-
-pas à recourir largement aux interprétations allégo-
+[p. 183] pas à recourir largement aux interprétations allégo-
 riques et mystiques. Les récits offrent des divergences
 qui vont presque jusqu'à la contradiction. Il est impossible
 d'en établir exactement la concordance, de reconstituer
@@ -8551,9 +8039,7 @@ tombeau vide ; et cette donnée , même en la supposant
 
 [^p183-1]: Voici , à titre d'exemples et au courant de la plume, quel- ques-unes des difficultés principales que soulève la compa- raison des Évangiles : la découverte du tombeau vide ne se fait pas dans les mêmes conditions ; l'attitude des femmes, notamment, est très différente ici et là; les apparitions se pro- duisent à Jérusalem tandis que les apôtres sont convoqués en Galilée pour en être témoins ; Matthieu et le chapitre addi- tionnel de Jean les placent en Galilée, mais Luc et la finale de Marc les mettent à Jérusalem; etc. On a l'impression d'un mélange de plusieurs traditions distinctes et incompatibles . Certains apologistes glissent rapidement là-dessus et s'attar- dent avec complaisance à résoudre des difficultés beaucoup moindres : achat des aromates, nombre des femmes, heure de leur pèlerinage, etc.
 
-[p. 184]
-
-2
+[p. 184] 2
 par elle seule une preuve péremptoire. A partir de là,
 quelque manière de voir que l'on adopte, c'est toujours
 par hypothèses, par interprétations, par essais de théo-
@@ -8600,9 +8086,7 @@ pareille matière de conclure avec rigueur par exclusion
 
 [^p184-1]: Par hallucination pure, j'entends celle qu'on tient pour dénuée de toute valeur objective, de quelque manière que l'on conçoive cette valeur.
 
-[p. 185]
-
-de tous les cas sauf un seul : est-on jamais sûr d'avoir
+[p. 185] de tous les cas sauf un seul : est-on jamais sûr d'avoir
 épuisé la liste des hypothèses concevables ? Et cepen-
 dant,
 s'il s'agit de conclure au miracle par voie pro-
@@ -8627,7 +8111,7 @@ de l'apologétique usuelle ne paraissent pas concluantes :
 La méthode suivie est fort contestable dans
 son principe même. La critique des témoignages est
 en effet conçue communément selon l'analogie judi-
-ciaire. On détermine a priori les conditions requises
+ciaire. On détermine *a priori* les conditions requises
 pour qu'un tribunal admette la déposition d'un témoin.
 Puis on cherche à montrer que les évangélistes remplis-
 sent parfaitement ces conditions. Cela irait encore, à la
@@ -8658,11 +8142,7 @@ sincérité de
 conviction, non pas sa valeur objective. Une foi, même
 très intense, peut ne pas se rendre un compte exact de
 sa propre genèse, ni surtout de sa portée. Sans qu'il
-soit besoin de parler outre mesure d'hallucinations
-
-[p. 186]
-
-188
+soit besoin de parler outre mesure d'hallucinations [p. 186] 188
 DOGMF ET CRITIQUE
 
 maladives, de troubles nerveux, la psychologie de l'in-
@@ -8716,9 +8196,7 @@ et cherchons
 à nous représenter d'après les textes la genèse de la
 foi à la résurrection.
 
-[p. 187]
-
-Je parle d'abord pour ceux qui maintiennent l'his-
+[p. 187] Je parle d'abord pour ceux qui maintiennent l'his-
 toricité des récits concernant la sépulture et la décou-
 verte du tombeau vide. L'historien peut-il trouver là
 quelque preuve péremptoire, d'ordre physique, en fa-
@@ -8769,9 +8247,7 @@ donc expression rétrospective portant témoignage d'une foi
 déjà élaborée plutôt que lettre d'histoire sur laquelle on se
 puisse appuyer pour reconstruire la série des phénomènes.
 
-[p. 188]
-
-et régulière soit suivie jusqu'au bout, et ceux qui in-
+[p. 188] et régulière soit suivie jusqu'au bout, et ceux qui in-
 sistent sur leurs sentiments de haine sont encore moins
 fondés que quiconque à le nier ; 2º les juifs devaient
 penser à prévenir toutes les manifestations plus ou
@@ -8820,11 +8296,7 @@ matin?
 
 -
 
-Qui empêche de supposer une démarche des
-
-[p. 189]
-
-juifs auprès de Pilate pour lui représenter les incon-
+Qui empêche de supposer une démarche des [p. 189] juifs auprès de Pilate pour lui représenter les incon-
 vénients de sa condescendance et pour faire valoir
 à ses yeux la légalité de la mesure qu'ils voulaient
 prendre ? N'oublions pas qu'avant la révolte et la ruine
@@ -8881,11 +8353,7 @@ par les juifs peut être très bien défendue.
 Si l'on
 
 Dogmeet Critique
-14
-
-[p. 190]
-
-y trouve encore quelques difficultés, il reste au moins
+14 [p. 190] y trouve encore quelques difficultés, il reste au moins
 que celles de la résurrection
 au sens vulgaire du
 mot
@@ -8917,7 +8385,7 @@ Remarquez bien que,
 si nous nous plaçons à un
 point de vue apologétique, c'est-à-dire si nous nous
 adressons à ceux qui ne croient point encore, nous ne
-pouvons pas raisonnablement leur demander a priori de
+pouvons pas raisonnablement leur demander *a priori* de
 consentir aux textes
 évangéliques un traitement de
 faveur, nous ne pouvons pas, sous peine de cercle vicieux,
@@ -8926,9 +8394,7 @@ des Évangiles au sens étroit que tels ou tels théologiens
 
 [^p190-1]: Je ne dis pas que l'histoire suffise; mais, pour autant qu'on en fait, il faut la faire en historien, non en théologien.
 
-[p. 191]
-
-attachent à ce mot (1), nous ne pouvons pas faire inter-
+[p. 191] attachent à ce mot (1), nous ne pouvons pas faire inter-
 venir dans nos raisonnements des principes dogma-
 tiques . En toute hypothèse , d'ailleurs, et même lorsqu'on
 discute entre croyants, si l'on veut éviter le pur fidéisme ,
@@ -8979,9 +8445,7 @@ abstraites,
 sans souci du contexte ni d'aucune relativité , ne saurait être
 défendue.
 
-[p. 192]
-
-donnant une signification à ceux-là et déterminant peu
+[p. 192] donnant une signification à ceux-là et déterminant peu
 à peu la lecture qu'on en doit faire. Qu'à la fin de ce
 travail, qui constitue véritablement une expérience, unc
 adaptation se produise de la matière à la forme et de
@@ -9024,9 +8488,7 @@ une dialectique dont le principe organisateur fut un
 critère de vraisemblance ? Notamment, au sujet de la
 résurrection, ne voit-on pas la faiblesse de certaines
 
-[p. 193]
-
-<< réfutations » pour motif d'invraisemblance , quand soi-
+[p. 193] << réfutations » pour motif d'invraisemblance , quand soi-
 même on propose ensuite une explication plus invrai-
 semblable que toutes les autres ?
 Certaines Vies de Notre Seigneur Jésus- Christ pèchent
@@ -9069,11 +8531,7 @@ Appliquons ces principes au cas des Évangiles, afin
 d'établir le caractère général des textes que nous avons
 à interpréter [^p193-1]. Cela est nécessaire, un fragment quel-
 
-[^p193-1]: Je me borne ici forcément à un résumé schématique des conclusions que la critique formule. Pour les dévelop, e
-
-[p. 194]
-
-conque n'ayant sa nuance précise de signification que
+[^p193-1]: Je me borne ici forcément à un résumé schématique des conclusions que la critique formule. Pour les dévelop, e [p. 194] conque n'ayant sa nuance précise de signification que
 par le reflet du livre tout entier sur lui.
 Or que sont les Évangiles, en tant que sources d'his-
 toire ? Nous n'avons pas en eux une chronique purement
@@ -9121,9 +8579,7 @@ objective, surtout quant aux principes de méthode.
 1. Les Apocryphes sont à peu près aux Évangiles canoniques
 ce que les gnoses hérétiques sont à l'orthodoxie .
 
-[p. 195]
-
-les événements rapportés soient imaginaires [^p195-1] ; mais il
+[p. 195] les événements rapportés soient imaginaires [^p195-1] ; mais il
 reste à chercher dans quelle mesure le fait pour eux
 d'être utilisés à titre de symboles a réagi sur la repré-
 sentation qu'on
@@ -9164,9 +8620,7 @@ lequel la foi s'est peu à peu conquise et définie à elle-
 [^p195-2]: LOISY, Revue d'Histoire et de Littérature religieuscs, janvier-février 1906, p. 61 .
 [^p195-3]: Il faut tenir compte, par exemple, de la mentalité juive, qui ne concevait pas l'immortalité en dehors de la résurrection.
 
-[p. 196]
-
-même ; et de cette élaboration la trace manifeste subsiste
+[p. 196] même ; et de cette élaboration la trace manifeste subsiste
 encore aujourd'hui dans les incohérences des récits
 évangéliques .
 Il y a longtemps qu'on a remarqué une phrase qui
@@ -9217,9 +8671,7 @@ d'histoire
 ni que leur autorité soit méconnue : la relation qui les
 unit au témoignage des Apôtres et à l'enseignement de
 
-[p. 197]
-
-Jésus, pour être plus complexe, n'en est pas moins réelle.
+[p. 197] Jésus, pour être plus complexe, n'en est pas moins réelle.
 3°
 En disant que l'Évangile est témoignage de
 foi qui s'adresse à la foi plutôt que lettre d'histoire à
@@ -9260,11 +8712,7 @@ sissable en dehors de toute foi . Or c'est là un point de
 vue tout moderne, qui n'a rien de traditionnel . Ne nous
 lassons pas de dire que S. Thomas, par exemple, ne
 donne comme preuves de la résurrection que les appa-
-ritions du Christ ressuscité, le témoignage des Anges,
-
-[p. 198]
-
-celui des Écritures, enfin l'affirmation même de Jésus
+ritions du Christ ressuscité, le témoignage des Anges, [p. 198] celui des Écritures, enfin l'affirmation même de Jésus
 confirmée par des miracles (¹).
 Les exégètes rationalistes renversent l'ordre précé-
 dent.
@@ -9300,9 +8748,7 @@ matique. Prière donc au lecteur de ne pas transformer [^p198-1]
 
 [^p198-1]: Cf. Summ . Th . , P. III, Q. LV, art. 4, 3 ; art. 6, in corp., ad 1m. S. Thomas accorde la prépondérance aux témoignages angéliques et scripturaires, et il ajoute : Licet singula argu- mentorum non sufficerent ad manifestandam perfecte Christi resurrectionem, tamen omnia simul accepta perfecte Christi resurrectionem manifestant.
 
-[p. 199]
-
-en thèse formelle un simple « rapport », comme aussi
+[p. 199] en thèse formelle un simple « rapport », comme aussi
 de ne pas le confondre avec une « somme » qui pré-
 tendrait épuiser son objet.
 Je vais résumer d'abord en quelques
@@ -9351,9 +8797,7 @@ l'écho .
 Pour ce qui est des Évangiles eux-mêmes , les récits
 concernant le tombeau vide présentent de telles diver.
 
-[p. 200]
-
-gences que l'historien ne sait trop quel fond faire sur
+[p. 200] gences que l'historien ne sait trop quel fond faire sur
 eux. Le merveilleux qui s'y mêle ne saurait au premier
 abord
 lui
@@ -9416,9 +8860,7 @@ moins dans certaines églises, comme des écrits inspirés ;
 
 [^p200-1]: Cf. LOISY, Le quatrième évangile. On trouvera un résumé de la thèse par l'auteur lui-même dans Autour d'un petit livre, pp . 85-103 .
 
-[p. 201]
-
-les
+[p. 201] les
 Synoptiques en montrent
 eux-mêmes des
 traces
@@ -9469,11 +8911,7 @@ En effet les récits du troisième Évangile complétés
 par ceux des Actes qui leur font suite (LUC , XXIV, 12 ,
 33, 49, 51 , 52 ; Аст. , 1, 4 , 12, 14) ne laissent place à
 aucune possibilité de voyage en Galilée : les Apôtres ne
-quittent pas Jérusalem. Il faut donc choisir entre les
-
-[p. 202]
-
-deux traditions . Or celle de Luc ne paraît pas la mieux
+quittent pas Jérusalem. Il faut donc choisir entre les [p. 202] deux traditions . Or celle de Luc ne paraît pas la mieux
 garantie. En effet, au moins quant aux manifestations
 du Christ ressuscité, le troisième Évangile est parmi
 les Synoptiques le plus avancé dans la voie qui mène
@@ -9541,9 +8979,7 @@ source par rapport aux deux autres Synoptiques, il n'y
 [^p202-1]: Il y aurait aussi contradiction avec MARC, XVI, 13.
 [^p202-2]: On sait la dépendance de Luc par rapport à Paul .
 
-[p. 203]
-
-a pas d'autre méthode légitime. Toutefois ici une dis-
+[p. 203] a pas d'autre méthode légitime. Toutefois ici une dis-
 tinction s'impose.
 On sait les motifs qu'ont les critiques de considérer
 la finale deutérocanonique de Marc (XVI, 9-20) comme
@@ -9589,9 +9025,7 @@ la pêche miraculeuse et la réhabilitation de Pierre
 
 -
 
-[p. 204]
-
-206
+[p. 204] 206
 DOGME ET CRITIQUE
 à la tradition synoptique [^p204-1]. Ne serait-ce point là le
 récit
@@ -9645,9 +9079,7 @@ tive exacte des circonstances historiques où se serait
 [^p204-3]: Le déplacement dans Luc vient toujours de la même cause : l'incompatibilité du cadre de cet évangile avec le récit d'une apparition galiléenne .
 [^p204-4]: Il n'est pas jusqu'au symbolisme de la pêche miraculeuse qui n'oriente l'attention dans le même sens.
 
-[p. 205]
-
-affirmée la prééminence en cause, à savoir la genèse
+[p. 205] affirmée la prééminence en cause, à savoir la genèse
 de la foi à la résurrection ? De plus, étant donnée son
 origine encore, n'était-il pas naturel qu'après avoir ra-
 conté le reniement il racontât aussi la rentrée en grâce ?
@@ -9662,7 +9094,7 @@ D'abord,
 c'est la tradition galiléenne qui paraît la
 mieux fondée :
 1°
-A priori elle est la plus vraisemblable [^p205-2]. Ici,
+*A priori* elle est la plus vraisemblable [^p205-2]. Ici,
 l'Évangile de Pierre, quelque suspect qu'il puisse être
 par ailleurs , a toute chance de nous donner une repré-
 sentation conforme aux faits authentiques : une fois les
@@ -9695,11 +9127,7 @@ ra-
 conte, les sentiments qu'il prête alors aux apôtres éveil-
 
 [^p205-1]: Je parle bien entendu des versets 1-17, car le reste du chapitre appartient certainement au rédacteur qui a voulu compléter l'évangile johannique.
-[^p205-2]: Notez aussi MARC, XIV, 27, et MATTH ., XXVI, 31 : dispergentur oves . Dogmeet Critique 15
-
-[p. 206]
-
-f
+[^p205-2]: Notez aussi MARC, XIV, 27, et MATTH ., XXVI, 31 : dispergentur oves . Dogmeet Critique 15 [p. 206] f
 
 lent l'idée d'une première rencontre de ceux-ci avec
 le Christ ressuscité ; et l'on se confirme dans cette ma-
@@ -9743,11 +9171,7 @@ droit vaille que vaille à la tradition galiléenne trop
 forte et trop nette pour être négligée ? Il est permis de
 trouver là un argument très fort en faveur de l'auto-
 rité et de l'ancienneté de cette tradition, comme aussi
-peut-être en faveur de l'hypothèse qui rattache la pêche
-
-[p. 207]
-
-niraculeuse et la réhabilitation de Pierre à la finale
+peut-être en faveur de l'hypothèse qui rattache la pêche [p. 207] niraculeuse et la réhabilitation de Pierre à la finale
 primitive de Marc.
 L'autre donnée historique certaine est le fait que
 rapporte S. Paul (I COR., XV, 5) et qu'éclaire encore
@@ -9789,9 +9213,7 @@ l'adjonction du chapitre supplémentaire au texte johan-
 
 [^p207-1]: Cette explication est parfaitement conforme à l'usage que les théologiens font du texte en question, surtout depuis le concile du Vatican, car la foi à la résurrection est le principe de l'Église et la clef de voûte du christianisme tout entier.
 
-[p. 208]
-
-nique apporte une dernière preuve à l'appui de notre
+[p. 208] nique apporte une dernière preuve à l'appui de notre
 thèse: qu'il ait été introduit malgré les inconvénients
 qui en résultaient pour l'équilibre et l'harmonie du
 livre,
@@ -9832,9 +9254,7 @@ intervention d'un grand personnage
 
 [^p208-1]: J'ai parlé plus haut (p. 189, n. 1) du récit de Matthieu. Il faut ajouter que ce récit rend tout à fait incompréhensible la psychologie des « princes des prêtres » et des « anciens du peuple ». Comment se souviennent-ils d'une prophétie que les disciples eux-mêmes n'ont pas comprise ou ont totalement oubliée ? Comment se croient-ils obligés de recourir à Filate pour la garde du tombeau, alors que de leur propre autorité ils ont fait procéder à l'arrestation ? Comment prennent-ils. de si piètres précautions, en même temps que si compliquées, quand il y en avait une si simple, qui eût coupé court à tout projet d'enlèvement furtif ? Comment enfin résistent-ils tous, sans exception, à l'évidence du témoignage que leur appor-- tent les soldats ?
 
-[p. 209]
-
-tel que Joseph d'Arimathée , tombeau neuf, aromates ,
+[p. 209] tel que Joseph d'Arimathée , tombeau neuf, aromates ,
 ont pu faire penser à une intention de montrer ac-
 complie la prédiction d'Isaïe (XI, 10) : Erit sepulcrum
 ejus gloriosum. D'autres passages accusent des préoc-
@@ -9884,9 +9304,7 @@ accepter , au moins en certains cercles . On est fondé
 
 [^p209-1]: Histoire ancienne de l'Eglise, t. I, chap. X, p. 141 , 2m édition.
 
-[p. 210]
-
-sible ou impossible de proposer à ce public. L'auteur
+[p. 210] sible ou impossible de proposer à ce public. L'auteur
 de l'évangile de Pierre suppose existants nos quatre
 canoniques . Or
 il est invraisemblable à quel point il
@@ -9928,9 +9346,7 @@ sainte, la capitale religieuse traditionnelle , comme c'était
 [^p210-1]: Inutile de redire que l'historien ne saurait, comme tel, faire intervenir l'inspiration. L'inerrance, pour lui, ne peut être qu'une conclusion de fait, non un principe ou un critère.
 [^p210-2]: Cf. Аст. , І, 3 .
 
-[p. 211]
-
-le lieu où fut inauguré le ministère de la prédication
+[p. 211] le lieu où fut inauguré le ministère de la prédication
 publique, où la croyance acheva de se définir, où se
 réalisèrent les prémices de la conquête, où le culte
 nouveau commença de s'exercer, les événements qui s'y
@@ -9963,9 +9379,7 @@ sultat final, plus clair et plus maniable, que se coor-
 [^p211-1]: N'oublions pas que les Apôtre prêchaient le Christ res- suscité: ils ne se proposaient pas seulement de le raconter. Aussi la signification religieuse des faits les intéressait-elle plus que leur simple phénoménalité .
 [^p211-2]: Cela n'introduit pas d'erreur dans l'Évangile . Car l'Évan- gile ne raconte que pour enseigner . Or on ne peut par'er d'er- reur que par rapport à une intention d'affirmer. Cf. St-Augus- tin, cité par S. Thomas (Summ. Th . , P. III , Q. LV, art . 4, ad 1m) : << Non omne quod fingimus mendacium est ; sed quando illud fingimus quod nihil significat , tunc est mendacium ; cum autem fictio nostra refertur in aliquam significationem, non est mendacium, sed aliqua figura veritatis . » Remarquez que cela est dit non à propos des paraboles, mais à propos de l'apparition du Christ in alia effigie (MARC, XVI, 12).
 
-[p. 212]
-
-donnent les étapes successives, autour de lui qu'elles
+[p. 212] donnent les étapes successives, autour de lui qu'elles
 se groupent et de son reflet qu'elles restent lumineuses .
 La représentation de celles-ci se schématise et acquiert
 une sorte de précision rétrospective sous l'influence
@@ -10011,11 +9425,7 @@ pés et unis (LUC, XXIV, 33, 36, 48-53 ; Аст. ,
 13, 14), avec un chef (Luc, XXIV, 33 , 36, 48-53 ; Аст. , І ,
 15-22), l'idée que leur mission est universelle
 (MARC,
-XVI , 15 ; LUC, XXIV , 47 ; Аст. , 1, 8), et le sentiment
-
-[p. 213]
-
-de l'autorité religieuse dont ils sont dépositaires (MARC ,
+XVI , 15 ; LUC, XXIV , 47 ; Аст. , 1, 8), et le sentiment [p. 213] de l'autorité religieuse dont ils sont dépositaires (MARC ,
 XVI, 16 ; Аст.,
 1, 5, 23-26) ; le symbolisme mystique
 s'accuse (présence cachée de Jésus parmi ceux qui le
@@ -10070,9 +9480,7 @@ on devait savoir ce qui s'était passé ; et cela, d'ailleurs ,
 on ne pouvait se le représenter que sous les formes
 naturelles à l'imagination populaire.
 
-[p. 214]
-
-L'idée de la sépulture s'offrait d'elle-même. Puis, chez
+[p. 214] L'idée de la sépulture s'offrait d'elle-même. Puis, chez
 des esprits simples pour qui la continuité de Jésus de
 Nazareth au Christ glorieux se traduisait par l'image
 réanimation du cadavre, la sépulture appelait la décou-
@@ -10114,9 +9522,7 @@ d'être pour eux le message décisif [^p214-7] .
 [^p214-6]: Luc, xxiv, 12, 24 ; JOAN. , XX, 3-8 .
 [^p214-7]: LUC, XXIV, 11 ; JOAN ., XX, 8, 18, fait encore un pas de plus dans la voie qui relie la foi des apôtres à la découverte du tombeau vide ; MARC, XVI , 8, reste en deçà de Luc.
 
-[p. 215]
-
-Telle est, dans ses grandes lignes, la théorie que
+[p. 215] Telle est, dans ses grandes lignes, la théorie que
 j'avais annoncée. Ce n'est qu'une théorie sans doute ;
 mais elle repose, on a pu le voir, sur une solide base
 de faits positifs et d'autre part, réagissant sur eux, elle
@@ -10155,9 +9561,7 @@ consignés dans nos textes actuels . Paul, dont le témoi-
 
 [^p215-1]: Notons toutefois que cela ne fait pas quatre témoignages indépendants.
 
-[p. 216]
-
-gnage est le plus direct, ne donne aucun détail ; et il
+[p. 216] gnage est le plus direct, ne donne aucun détail ; et il
 est même impossible de retrouver dans les Évangiles
 une par une les manifestations qu'il énumère . Quant
 aux récits que ces derniers contiennent, les pages pré-
@@ -10198,9 +9602,7 @@ cevoir n'étant qu'une invention plus ou moins incons
 [^p216-1]: Les récits évangéliques (sauf JOAN., XXI, dans une cer- taine mesure) paraissent correspondre moins à des faits par- ticuliers précis qu'aux aspects divers du même fait général. Ils analysent plus qu'ils ne racontent. C'est pourquoi on ne parvient pas à les identifier avec les termes de la liste dressée par S. Paul.
 [^p216-2]: Remarquez bien que je dis objectivité autre, non pas forcément moindre .
 
-[p. 217]
-
-ciente de leur propre esprit ? ou bien entrèrent-ils en
+[p. 217] ciente de leur propre esprit ? ou bien entrèrent-ils en
 contact et en relation avec une réalité véritable ?
 Je ne discuterai pas l'hypothèse de l'hallucination
 pure sous la forme ridicule que lui a donnée Renan .
@@ -10245,11 +9647,7 @@ distance et sur deux ou trois indices un diagnostic si
 catégorique . Toujours est-il que S. Paul lui-même fait
 cette allusion significative : Cum infirmor , tunc potens
 sum . Qu'on lise attentivement le passage où il parle de
-ses visions (II COR. , XII, 1-10) : on comprendra que
-
-[p. 218]
-
-l'idée soit venue d'y voir des accidents pathologiques,
+ses visions (II COR. , XII, 1-10) : on comprendra que [p. 218] l'idée soit venue d'y voir des accidents pathologiques,
 des crises morbides. Ce que les Actes nous racontent
 qui lui arriva sur le chemin de Damas présente encore ce
 caractère et fait plutôt penser à un phénomène pure-
@@ -10293,11 +9691,9 @@ donnent que de vagues indices, des signes qui n'ont [^p218-1]
 [^p218-2]: Nous sommes ici en face d'une grande expérience mys- tique. Ce que nous observons dans une Ste Thérèse ou un S. Jean de la Croix doit donc sans doute s'y retrouver.
 [^p218-3]: C'était à tout le moins un homme de génie et un mys tique.
 
-[p. 219]
-
-rien de décisif, des symptômes qu'on peut interpréter
+[p. 219] rien de décisif, des symptômes qu'on peut interpréter
 de manières bien diverses. Dès lors sur quoi repose au
-fond l'hypothèse discutée ? Sur un principe a priori,
+fond l'hypothèse discutée ? Sur un principe *a priori*,
 sur un postulat préconçu: l'impossibilité d'apparitions
 véritables ayant une valeur objective. Or ce principe,
 ce postulat ne sont nullement évidents par eux-mêmes.
@@ -10337,9 +9733,7 @@ l'acceptation joyeuse du martyre.
 [^p219-1]: Cf. Bulletin de la Société française de Philosophie, séance du 26 octobre 1905, p. 26 (M. SOREL), p . 32 (M. LALANDE).
 [^p219-2]: Les citations précédentes sont extraites de la Revue d'His- toire et de Littérature religieuses, janvier-février 1906, p . 86 . Elles sont de M. Loisy dans un compte rendu bibliographique où elles expriment non pas sa propre pensée, mais celle de l'auteur qu'il analyse.
 
-[p. 220]
-
-fléchi, sauf chez Judas, jusqu'à l'heure de la catastrophe,
+[p. 220] fléchi, sauf chez Judas, jusqu'à l'heure de la catastrophe,
 en sorte que la déconvenue subite, chez ces natures
 simples , n'excita point le doute sur la foi antérieure ,
 mais un abattement de surprise, après lequel, les apôtres
@@ -10364,7 +9758,7 @@ percepts les plus communs n'ont-ils pas aussi ce carac-
 tère ? Dans l'acte de percevoir, la critique nous montre
 plus nettement chaque jour le rôle actif du sujet, la
 part prépondérante qui revient à son activité [^p220-2]. Ni
-l'hallucination n'est création ex nihilo, ni la perception
+l'hallucination n'est création *ex nihilo*, ni la perception
 n'est
 pure réception passive .
 Toutes deux
@@ -10386,9 +9780,7 @@ gnent pas en général dans la vie ordinaire ?
 [^p220-1]: LOISY, loc. cit .
 [^p220-2]: Cf. BERGSON , Le rêve, conférence publiée dans le Bulle tin de l'Institut Psychologique International, mai 1901 ; L'effort intellectuel, article inséré dans la Revue philosophique, janvier 1902 .
 
-[p. 221]
-
-Il se peut aussi que toute apparition soit le produit
+[p. 221] Il se peut aussi que toute apparition soit le produit
 d'une foi préexistante. Toute perception n'est-elle pas
 de même le produit d'une pensée ? Cela n'empêche
 pas plus l'une que l'autre d'avoir une portée objective.
@@ -10441,14 +9833,12 @@ Abauzit.
 2. ABBÉ BAUDIN, Revue catholique des Eglises, février 1906,
 p. 80-81.
 3. Cf. Vte BRENIER DE MONTMORAND, Les états mystiques,
-dans la Revue philosophique de juillet 1905 .
+dans la *Revue philosophique* de juillet 1905 .
 
 Dogmeet Critique
 16
 
-[p. 222]
-
-Le terrain une fois déblayé par ces remarques pré-
+[p. 222] Le terrain une fois déblayé par ces remarques pré-
 liminaires , appliquons maintenant à la résurrection du
 Christ les deux critères de réalité dont j'ai dit un mot au
 début de la présente étude. Ce qui est pure chimère
@@ -10487,11 +9877,7 @@ employer le terme d'hallucinations, au moins est-ce le
 cas, ou jamais, d'ajouter que ce furent des hallucinations
 vraies .
 
-Nous sommes à présent en mesure de nous repré
-
-[p. 223]
-
-senter historiquement la genèse de la foi à la résurrec-
+Nous sommes à présent en mesure de nous repré [p. 223] senter historiquement la genèse de la foi à la résurrec-
 tion. En voici le tableau schématique.
 Partons de ce fait, la croyance primitive des Apôtres,
 du vivant de Jésus: confiance totale dans le Maître,
@@ -10536,9 +9922,7 @@ et global . Peu à peu, au contact des événements et sous [^p223-1]
 [^p223-1]: LOISY, Autour d'un petit livre, pp. 119-120
 [^p223-2]: Id.
 
-[p. 224]
-
-leur pression, la foi antérieure se détermina. Peu à peu
+[p. 224] leur pression, la foi antérieure se détermina. Peu à peu
 il apparut qu'une telle détermination, nouvelle en un
 sens , était cependant exigée par la foi déjà acquise ,
 contenue virtuellement en elle. C'était la réaction par
@@ -10583,9 +9967,7 @@ lité ineffable qu'en y participant en effet, par une
 [^p224-2]: Cf. LOISY, Autour d'un petit livre, pp. 120-121.
 [^p224-3]: Cf. E. LE ROY, Essai sur la notion du miracle, trois articles publiés dans les Annales de Philosophie chrétienne, 1906.
 
-[p. 225]
-
-insertion pratique dans le Christianisme dont elle cons-
+[p. 225] insertion pratique dans le Christianisme dont elle cons-
 titue l'acte vital par excellence [^p225-1]. Elle est donc sus-
 ceptible de jouer un rôle apologétique efficace, mais
 à la condition qu'on l'aborde avec une foi déjà com-
@@ -10624,9 +10006,7 @@ il est
 [^p225-2]: Que la résurrection ne puisse être saisie dans sa vérité plénière sans une préparation intérieure et une bonne volonté agissante, c'est la conséquence de ceci qu'elle constitue un fait religieux et moral .
 [^p225-3]: Ici je puis prendre les récits évangéliques moins comme documents d'histoire que comme témoins de la foi primitive.
 
-[p. 226]
-
-trop facile de répondre que le coup de foudre sur le
+[p. 226] trop facile de répondre que le coup de foudre sur le
 chemin de Damas ne fut pour lui que l'explosion su-
 prême qui terminait une crise de foi subliminale (1).
 L'histoire va plus loin encore. Elle nous montre la
@@ -10679,9 +10059,7 @@ Voir aussi p . 87-88.)
 3.
 LOISY, Autour d'un petit livre, p. 242 .
 
-[p. 227]
-
-à considérer que la résurrection n'est pas un fait sépa-
+[p. 227] à considérer que la résurrection n'est pas un fait sépa-
 rable du système entier de la doctrine catholique.
 
 On voit finalement que le problème de la résurrection
@@ -10720,11 +10098,7 @@ recipientis recipitur. Cette loi est générale ; et nous
 avons ici comme ailleurs à tenir compte d'une double
 relativité :
 psychologique et historique. La représen-
-tation des Apôtres fut nécessairement conditionnée par
-
-[p. 228]
-
-leur nature humaine, par leur degré de culture, par les
+tation des Apôtres fut nécessairement conditionnée par [p. 228] leur nature humaine, par leur degré de culture, par les
 conceptions habituelles de leur temps et de leur milieu.
 Cela posé, comment définir le rapport vrai entre
 les apparitions et la réalité sous-jacente ? comment con-
@@ -10773,11 +10147,7 @@ qu'il conclue :
 le miracle de la résurrection. C'est trop lui demander .
 S'il n'est qu'historien, il ne pourra dire que ceci : « je
 ne sais pas, je ne vois aucune solution acceptable, il ya
-quelque chose qui m'échappe ». Et il attendra qu'une
-
-[p. 229]
-
-idée meilleure lui vienne,
+quelque chose qui m'échappe ». Et il attendra qu'une [p. 229] idée meilleure lui vienne,
 et
 il se bornera aux faits
 eux-mêmes en attendant, et il réservera son jugement
@@ -10824,9 +10194,7 @@ il ne s'ensuit nullement qu'elle n'im-
 [^p229-1]: Au moins est-ce là une hypothèse que l'historien n'a pas le droit d'exclure a priori, sur laquelle même il n'a pas compétence pour statuer en dernier ressort .
 [^p229-2]: En ce sens qu'elle est incapable de définir par ses seules forces les hypothèses entre lesquelles il s'agit de juger.
 
-[p. 230]
-
-plique pas des phénomènes historiques, ni que les mé-
+[p. 230] plique pas des phénomènes historiques, ni que les mé-
 thodes de l'histoire n'aient pas à intervenir pour la
 solution du problème. Il y a en effet une phénoméno-
 logie historique de la résurrection:
@@ -10870,9 +10238,7 @@ pas toute sa signification, toute sa réalité, qu'on ne
 saurait la définir par ce fait seul, que ce fait lui-même
 est prophétie ou promesse autant qu'accomplissement.
 
-[p. 231]
-
-Assurément il serait inexact de prétendre que la résur-
+[p. 231] Assurément il serait inexact de prétendre que la résur-
 rection consiste en la survie du Christ dans l'Église .
 Néanmoins cette survie en fait partie. Ce n'est point
 pure métaphore que de parler de l'Église comme étant
@@ -10905,9 +10271,7 @@ réapparition glorieuse, elle est bien témoignage irré-
 [^p231-1]: Ne faisant pas ici d'exégèse, je laisse de côté un autre rôle de l'histoire, capital cependant : établir d'après la critique des textes les données véritables du problème .
 [^p231-2]: Qu'on veuille bien comprendre ma pensée exacte. Je ne me prononce pas catégoriquement contre la disparition du corps. Je dis seulement qu'en toute hypothèse, et quand bien même on arriverait à en trouver une explication naturelle satisfaisante ou à prouver qu'elle n'a pas eu lieu, la réalité de la résurrection ne serait pas détruite pour cela. Je dis aussi qu'en toute hypothèse encore, et quand bien même cette dis- parition serait démontrée inexplicable par une cause naturelle, la réalité de la résurrection ne serait pas établie par cela .
 
-[p. 232]
-
-fragable et révélation véritable. Mais de quoi ? Pour
+[p. 232] fragable et révélation véritable. Mais de quoi ? Pour
 la saisir dans sa signification vraie, il ne suffit pas de
 ces constatations empiriques dont on voulait se con-
 tenter [^p232-1] . En tout cas
@@ -10947,9 +10311,7 @@ réanimation
 [^p232-1]: Je ne prétends pas du tout qu'en l'espèce il n'y ait piace pour aucune constatation sensible. Mais je prétends qu'ici les constatations se rapprochent de la perception mystique plus que de la perception commune : la foi en est un facteur essentiel.
 [^p232-2]: Nous verrons plus loin quel peut être ici le rôle de l'apologiste.
 
-[p. 233]
-
-ou volatilisation du cadavre prises au sens où les entend
+[p. 233] ou volatilisation du cadavre prises au sens où les entend
 l'imagination populaire. Inutile de revenir sur cette
 critique. Mais il faut rappeler que les objections en
 cause valent seulement contre une certaine idée de la
@@ -10982,7 +10344,7 @@ La survie de Jésus est autre et plus que celle de
 Mahomet ou de Socrate.
 Mais en quoi consiste
 le
-rapport sui generis qui unit le Christ à son œuvre ? et
+rapport *sui generis* qui unit le Christ à son œuvre ? et
 comment définir l'immanence active du Christ à son
 œuvre ? La résurrection est entrée dans la gloire. Mais
 qu'est-ce
@@ -10993,9 +10355,7 @@ la gloire ? On lit au livre des Actes
 
 [^p233-1]: Cf. LOISY, L'Evangile et l'Eglise. Nul n'a mieux mis en lumière, du point de vue de l'histoire, cette sorte de rap- port vivant que je veux dire . Là-dessus le petit livre précédent est un chef-d'œuvre d'irrésistible apologie.
 
-[p. 234]
-
-bien toute la maison d'Israël que Dieu a fait Seigneur
+[p. 234] bien toute la maison d'Israël que Dieu a fait Seigneur
 et Christ ce Jésus que vous avez crucifié. » Mais qu'est-
 ce qu'être Seigneur et Christ ? et qu'implique une telle
 notion ? Voilà ce que l'histoire et la philosophie ne
@@ -11030,9 +10390,7 @@ depuis Descartes [^p234-3].
 [^p234-2]: Cf. l'esquisse d'une théorie de la matière, dans la Revue de Métaphysique et de Morale, juillet 1901; une analyse du Cogito cartésien, dans le Bulletin de la Société française de Philosophie, séance du 25 février 1904; et un essai sur la notion du miracle, dans les Annales de philosophie chrétienne, 1906.
 [^p234-3]: Je ne puis insister ici sur les preuves. Elles se résument à deux principales. D'abord, une preuve a priori : critique
 
-[p. 235]
-
-Selon cette conception, la matière existe sans doute,
+[p. 235] Selon cette conception, la matière existe sans doute,
 mais elle n'existe que dans et par l'esprit, intérieurement
 et relativement à l'esprit. En tant que matière pure,
 elle s'impose à l'esprit, mais n'est qu'une virtualité :
@@ -11067,7 +10425,7 @@ droit serait souveraine, et le progrès humain consiste
 du réalisme ontologique, où l'on montre l'inconcevabilité ra-
 dicale de tout support ou substrat, distinct des qualités, phé-
 nomènes, relations, qui ferait à la matière une base d'exis-
-tence hétérogène à la pensée. Ensuite, une preuve a posteriori :
+tence hétérogène à la pensée. Ensuite, une preuve *a posteriori* :
 critique de la perception et de la science, où l'on montre que
 la matière ne saurait être définie, à quelque degré que ce
 soit, que par rapport à l'esprit et en fonction de l'esprit.
@@ -11078,9 +10436,7 @@ Voir les Notes V, V et VII à la fin du volume.
 [^p235-1]: C'est ainsi que la doctrine en question touchant la ma- tière n'est pas un subjectivisme.
 [^p235-2]: Il y a ici un point de contact entre la théorie de la matière et celle du péché originel.
 
-[p. 236]
-
-Dans ces conditions, qu'est-ce que notre corps ? Un
+[p. 236] Dans ces conditions, qu'est-ce que notre corps ? Un
 groupe de fonctions, le système des habitudes et méca-
 nismes organisés en vue de la vie pratique, notre point
 d'insertion dans la matière. Et ce qui le fait nôtre, ce
@@ -11117,9 +10473,7 @@ ception et d'initiative ; mais par ailleurs on peut dire
 [^p236-1]: Ce que mon corps élimine chaque jour cesse d'être lui; ce que chaque jour il assimile devient lui au contraire . Si l'on me coupait un membre et que j'eusse la puissance de le régé- nérer comme certains animaux, c'est le membre régénéré que je tiendrais pour mien, non le membre coupé. Si dans une sorte de métamorphose j'opérais une mue si complète que je quitte la totalité de mon corps visible pour en adopter un autre, c'est le nouveau corps que je regarderais comme le mien, non la chrysalide abandonnée. Là comme ailleurs la propriété est liée à la production et à l'usage .
 [^p236-2]: Cf. E. LE ROY, Revue de Métaphysique et de Morale, juillet 1899.
 
-[p. 237]
-
-QU'EST -CE QU'UN DO
+[p. 237] QU'EST -CE QU'UN DO
 239
 
 en un sens que nous sommes tous constitués les uns
@@ -11150,11 +10504,7 @@ dit S. Thomas [^p237-3]. Le germe, la tendance qui persistent
 
 [^p237-1]: En somme, il y a entre notre vrai corps (l'ensemble de la matière) et notre corps apparent (l'organisme limité que nous attribue le sens commun) un rapport analogue à celui qui existe entre le moi subliminal et la conscience claire. Pas plus dans un cas que dans l'autre il ne faut imaginer une coupure tranchée qui sépare les deux régions : la transition se fait par une pénombre continûment dégradée. Pour ce qui est de notre corps, par exemple, il ne serait pas difficile de citer telles ou telles parties de l'organisme que nous considérons volon- tiers comme intermédiaires entre nous et le monde extérieur. De même il y a tels objets extérieurs que nous regardons comme faisant déjà un peu partie de notre corps. Du reste la science ne montre-t-elle pas à sa manière que la nature n'est pour chacun de nous qu'une dépendance et un prolongement du corps, dont celui-ci contient virtuellement le tout ?
 [^p237-2]: Ne pas oublier que les hommes ne sont point les seules monades existantes . Tout ce qui a vie est monade et cela seul existe en soi qui vit.
-[^p237-3]: Cf. Summ . Th., suppl., Q. LXX, art . 1, in corp. et ad 1m. - Comparer à certaines idées de Leibniz : la génération con- çue comme développement, la mort comme enveloppement. Dogmeet Critique 17
-
-[p. 238]
-
-ainsi sont ce qui rend possible et concevable une résur-
+[^p237-3]: Cf. Summ . Th., suppl., Q. LXX, art . 1, in corp. et ad 1m. - Comparer à certaines idées de Leibniz : la génération con- çue comme développement, la mort comme enveloppement. Dogmeet Critique 17 [p. 238] ainsi sont ce qui rend possible et concevable une résur-
 rection, laquelle n'est pas autre chose qu'une reprise
 des fonctions d'activité pratique, une reconstruction de
 mécanismes plus ou moins semblables à ceux qu'on
@@ -11193,11 +10543,7 @@ réalisé la plénitude intégrale de sa vie, l'explicitation
 
 [^p238-1]: Pour Leibniz, la naissance et la mort sont les deux cas extrêmes de l'assimilation et de l'élimination .
 [^p238-2]: Telle serait la résurrection de Lazare : une sorte de gué- rison.
-[^p238-3]: Ce n'est que pour l'imagination matérialiste que le ca- davre est le corps
-
-[p. 239]
-
-parfaite de ses virtualités et richesses latentes . C'est
+[^p238-3]: Ce n'est que pour l'imagination matérialiste que le ca- davre est le corps [p. 239] parfaite de ses virtualités et richesses latentes . C'est
 donc l'univers entier vécu par nous, non plus dans
 l'inertie mécanique et la pénombre subliminale, mais
 dans la lumière et dans la liberté. De là vient que la
@@ -11242,11 +10588,7 @@ habitude aveugle et mécanisme figé. Mais tout cela
 disparaît du corps glorieux ; plus de frontières marquant
 l'endroit où cesse la possibilité de l'atteindre et d'en
 être atteint ; c'est partout qu'il est centre de perception
-et d'initiative, partout que réside son intégrale unité,
-
-[p. 240]
-
-comme l'âme est tout entière dans chacun de ses états
+et d'initiative, partout que réside son intégrale unité, [p. 240] comme l'âme est tout entière dans chacun de ses états
 et de ses actes, dans chacun des fragments de l'orga-
 nisme qu'elle anime. De là résulte son invisibilité exté-
 rieure:
@@ -11282,9 +10624,7 @@ et unique organisme. Aussi la résurrection glorieuse
 
 [^p240-1]: C'est de ce point de vue qu'on peut définir pour chacun de nous une réintégration future de tous les éléments matériels épars , dispersés au cours de la vie terrestre, qu'on peut con- cevoir leur reprise de possession par l'être ressuscité : le corps glorieux, étant l'univers entier, embrasse tout ce qui a tenu au corps mortel, même ce qui n'en fut pas proprement animé. C'était inconcevable et indéfinissable, au contraire, au point de vue réanimation du cadavre : car ce point de vue attribuait à l'atomisme individuel une réalité exclusive et définitive, érigeait en absolu les apparences de séparatisme et de morce- lage, supposait adéquate notre présente vue du temporel et du spatial.
 
-[p. 241]
-
-ne peut-elle être que commune à tous [^p241-1] : elle mani-
+[p. 241] ne peut-elle être que commune à tous [^p241-1] : elle mani-
 festera et actualisera ce qui demeure présentement po-
 tentiel et caché. J'ajoute que cette conséquence ne
 concerne pas les hommes seulement, mais toutes les
@@ -11323,9 +10663,7 @@ existence en devenir, une existence relative, dynamique,
 [^p241-2]: C'est à juste titre que la tradition appelle ce terme la Cité de Dieu, la Jérusalem céleste : Deus omnia in omnibus.
 [^p241-3]: ROM., VIII, 19, 21 , 22 ; APOC., XXI , 1 , 2 .
 
-[p. 242]
-
-presque entièrement virtuelle, au sein d'esprits qui ne
+[p. 242] presque entièrement virtuelle, au sein d'esprits qui ne
 la vivent que d'une vie chancelante et limitée. Il est
 bien celui in quo omnia constant, celui qui fonde et as-
 sure dans l'absolu la conspiration des monades (¹). Là
@@ -11362,9 +10700,7 @@ faut les entendre . [^p242-1] [^p242-2]
 [^p242-3]: Si toute naissance phénoménale n'est qu'un développe- ment, donc une phase de vie, nous devons concevoir en un sens le Christ comme incarné depuis l'origine du monde.
 [^p242-4]: Cf. PASCAL, Pensées , éd. Brunschvicg, 553 : « Jésus sera en agonie jusqu'à la fin du monde . » On peut penser ici au sacrifice de la messe .
 
-[p. 243]
-
-Il sera facile maintenant, pour conclure, de montrer
+[p. 243] Il sera facile maintenant, pour conclure, de montrer
 comment par la résurrection Jésus a vraiment repris
 un corps [^p243-1], c'est-à-dire une activité pratique. Il est
 d'abord universellement actif dans la création, en ce
@@ -11403,9 +10739,7 @@ théorie précédente. Elle respecte intégralement les don-
 [^p243-2]: Toute la nature est pour ainsi dire surnaturalisée en Jésus.
 [^p243-3]: E. LE ROY, Essai sur la notion du miracle , dans les 'Annales de philosophie chrétienne, 1906. - Je prie expressément le lecteur de se reporter à ces pages .
 
-[p. 244]
-
-nées de la théologie orthodoxe et conserve son sens
+[p. 244] nées de la théologie orthodoxe et conserve son sens
 traditionnel au dogme de la résurrection ; mais en outre
 elle met l'exégèse, l'histoire et la critique d'accord avec
 la foi, sans aucun sacrifice d'une part ou de l'autre :
@@ -11419,7 +10753,7 @@ cette interprétation s'y adapte sans leur faire violence.
 Tout cela sans doute constitue en sa faveur un argument
 de probabilité. Toutefois ce n'est point une démonstra-
 tion proprement dite. La vérité de la résurrection ne
-peut ni s'induire des faits ni se déduire a priori . La
+peut ni s'induire des faits ni se déduire *a priori* . La
 foi seule est ici principe de certitude, et il faut voir de
 quelle façon précise.
 La résurrection est un fait d'ordre transcendant, dont
@@ -11444,9 +10778,7 @@ et croire au Christ ressuscité ne font qu'un, en sorte que
 
 [^p244-1]: Voir ce que j'ai dit sur l'apologétique du miracle dans les Annales de philosophie chrétienne, 1906. Le lecteur fera aisément la transposition au cas actuel.
 
-[p. 245]
-
-l'apologétique de la résurrection, c'est l'apologétique
+[p. 245] l'apologétique de la résurrection, c'est l'apologétique
 tout entière .
 Je n'ai pas à refaire ici une théorie de la méthode
 apologétique.
@@ -11496,9 +10828,7 @@ décisive.
 2. MALLET, L'œuvre du Cardinal Dechamps, no d'octobre
 1905 des Annales de philosophie chrétienne, p. 76 .
 
-[p. 246]
-
-n'est plus loin de ma pensée. Au contraire , ainsi qu'on
+[p. 246] n'est plus loin de ma pensée. Au contraire , ainsi qu'on
 l'a vu, je maintiens à fond, sans réserve ni jeu de
 mots, le fait de la résurrection in carne propria, en-
 tendu au sens littéral. Mais il s'agit de savoir si la
@@ -11545,9 +10875,7 @@ et de conclure .
 2. A certains égards, le sens commun lui-même est déjà
 une théorie : à moins qu'on ne l'interprète pragmatiquement.
 
-[p. 247]
-
-indiqué quelques-unes. Sans les reprendre ici, j'appel-
+[p. 247] indiqué quelques-unes. Sans les reprendre ici, j'appel-
 lerai seulement l'attention sur deux points:
 1°
 La disparition du cadavre n'a de sens qu'au
@@ -11583,7 +10911,7 @@ Si l'on maintient la disparition phénoménale
 du corps,
 il faut se rendre compte des conséquences
 que cela entraîne inévitablement. Le dogme de la ré-
-surrection est placé ipso facto sur le terrain de la phy-
+surrection est placé *ipso facto* sur le terrain de la phy-
 sique et on ne peut empêcher désormais qu'il devienne
 par certains de ses côtés justiciable de la science posi-
 tive .
@@ -11604,9 +10932,7 @@ sens où justement la notion de miracle est contraire
 [^p247-1]: La volatilisation du cadavre suppose le morcelage, et alors ce n'est pas une réalité véritable . Ou bien ce serait l'anéantissement de tout l'ordre phénoménal : car le noumène de chaque élément, c'est le Tout.
 [^p247-2]: N'objectez pas l'hostie consacrée : car là rien n'inter- rompt ou ne trouble la continuité phénoménale ordinaire.
 
-[p. 248]
-
-à toutes les données de la critique [^p248-1]. Dieu sait en
+[p. 248] à toutes les données de la critique [^p248-1]. Dieu sait en
 outre combien de questions saugrenues vont dès lors
 se poser inéluctablement ! Et ces questions ridicules,
 on ne pourra les esquiver, car une fois un problème
@@ -11649,9 +10975,7 @@ elle se représente l'apparition d'un saint, ne lui attribue
 
 [^p248-1]: Voir mes articles déjà cités sur le miracle. Sans doute l'ordre phénoménal n'est pas un absolu ; cependant il existe; et par suite on n'est pas en droit de poser des conditions qui le rendraient inconcevable.
 
-[p. 249]
-
-pas un corps, et même son corps, à peu près dans les
+[p. 249] pas un corps, et même son corps, à peu près dans les
 mêmes conditions qui se rencontreraient ici (¹) .
 Quoi
 qu'il en
@@ -11696,9 +11020,7 @@ les voies s'impose à nous toujours, il reste une dernière [^p249-1]
 [^p249-4]: Ne modernisons pas indûment l'état d'esprit des premiers chrétiens : en ce temps-là, on n'avait guère souci des constata- tions positives, des preuves d'ordre scientifique, et l'on était beaucoup plus sensible à l'argument tiré des Écritures.
 [^p249-5]: L'attention était ailleurs : elle ne faisait que traverser le récit pour aller au sens religieux. -
 
-[p. 250]
-
-questionà résoudre. Que s'est-il passé le jour de Pâques ?
+[p. 250] questionà résoudre. Que s'est-il passé le jour de Pâques ?
 Ou plutôt qu'est-ce que le jour de Pâques ? Fut-ce une
 date historique ? Est-ce aujourd'hui un véritable anni-
 versaire ? Ou ne faut-il y voir qu'une simple fête sym-
@@ -11742,9 +11064,7 @@ et morales. [^p250-1]
 
 [^p250-1]: Voir ci -dessus, p. 217.
 
-[p. 251]
-
-Essayons maintenant de conclure toute cette longue
+[p. 251] Essayons maintenant de conclure toute cette longue
 étude sur la résurrection, en cherchant à déterminer ce
 qui est strictement de foi, ce qui compose et constitue le
 dogme proprement dit sur ce point.
@@ -11784,9 +11104,7 @@ de sa teneur même, une foi condamnée à se repaître
 d'imaginations vaines, une foi dont la vérité profonde
 serait sans rapports avec la représentation intellectuelle ?
 
-[p. 252]
-
-254
+[p. 252] 254
 OGME ET CRITIQUE
 
 Il n'y a qu'une seule manière d'éviter ce dilemme égale-
@@ -11828,11 +11146,7 @@ alors on deviendra inintelligible aux simples, à ceux
 même qui plus cultivés n'ont pas fait cependant un long
 apprentissage de la philosophie, et on les abandonnera
 aux jeux illusoires de l'imagination, chose grave lors-
-qu'on fonde la foi elle-même sur l'acceptation d'un
-
-[p. 253]
-
-concept pris en tant que théoriquement représentatif.
+qu'on fonde la foi elle-même sur l'acceptation d'un [p. 253] concept pris en tant que théoriquement représentatif.
 Ou bien, pour sauvegarder le caractère essentiel de la
 foi qui doit être commune à tous, accessible à tous,
 à laquelle donc on ne peut pas prescrire des conditions
@@ -11866,11 +11180,7 @@ temporain (¹). Voilà, sommairement, l'énoncé du dogme
 en tant qu'il est affirmation positive. Des négations,
 elles aussi dogmatiques, achèvent de le préciser : dire [^p253-1]
 
-[^p253-1]: Je me borne à une simple indication, laissant au lecteur le soin d'approfondir la formule et d'en développer le con- tenu. Ne pas oublier, dans ce travail, que d'autres dogmes - tel celui de la divinité de Jésus - viennent interférer avec le dogme de la résurrection. Ne pas oublier non plus les liens de ce dernier dogme avec ceux de l'Église, de l'Eucharistie, de notre propre résurrection future, etc. Dogme et Critique
-
-[p. 254]
-
-que Jésus est ressuscité ne signifie pas seulement
+[^p253-1]: Je me borne à une simple indication, laissant au lecteur le soin d'approfondir la formule et d'en développer le con- tenu. Ne pas oublier, dans ce travail, que d'autres dogmes - tel celui de la divinité de Jésus - viennent interférer avec le dogme de la résurrection. Ne pas oublier non plus les liens de ce dernier dogme avec ceux de l'Église, de l'Eucharistie, de notre propre résurrection future, etc. Dogme et Critique [p. 254] que Jésus est ressuscité ne signifie pas seulement
 qu'il
 suri
 la façon d'un grand homme dans son œuvre et
@@ -11912,9 +11222,7 @@ aptitude inégale à penser ce qu'il croit. Les diversités [^p254-1]
 
 [^p254-1]: Seulement cette théorie est variable avec l'idée qu'on se fait du corps et de sa réalité.
 
-[p. 255]
-
-n'offriront
+[p. 255] n'offriront
 - qui ne constitueront pas des divergences, mais des
 degrés et moments dans un même progrès
 point cette fois l'inconvénient désastreux qu'elles présen-
@@ -11948,9 +11256,7 @@ par le dynamisme de leur succession, sans qu'il y ait
 place alors pour aucune proposition explicite immuable
 à laquelle soit due l'adhésion de foi proprement dite.
 
-[p. 256]
-
-{
+[p. 256] {
 
 VI .
 TROISIÈME EXEMPLE :
@@ -11978,9 +11284,7 @@ entraîner légitimement en nous un tel devoir d'attitude
 
 [^p256-1]: Je ne détaillerai pas ici le contenu de la notion que re- présente le mot altitude. Je veux seulement noter que ce mot désigne, suivant l'expression de M. Sertillanges, « des atti- tudes d'esprit autant que des attitudes extérieures ». Mais requérir une attitude d'esprit n'est pas la même chose qu'im- poser des conceptions toutes faites .
 
-[p. 257]
-
-et de conduite, c'est affaire de spéculation libre où le
+[p. 257] et de conduite, c'est affaire de spéculation libre où le
 dogme n'intervient que sous la forme négative de l'ana-
 thème fulminé contre telles et telles théories [^p257-1] .
 Mais je ne veux pas insister. Je répondrai seulement
@@ -12018,9 +11322,7 @@ divine) si l'on veut éviter l'erreur du panthéisme [^p257-3] .
 [^p257-2]: Page 552 de son premier article , note 3 .
 [^p257-3]: Il suffira de noter, sans autre preuve ni développement, que les mystiques, non les spéculatifs, sont ceux qui parvien- nent le mieux à l'intuition de la présence divine.
 
-[p. 258]
-
-Et cette dernière ressource est la seule qui nous per-
+[p. 258] Et cette dernière ressource est la seule qui nous per-
 mette d'entendre sûrement le fait de la présence réelle
 dans l'Eucharistie, puisqu'alors
 il n'y a ni perception
@@ -12050,9 +11352,7 @@ chose [^p258-3] de tel que ce changement d'attitude et de
 [^p258-2]: Au point de vue religieux, s'entend. Car, au point de vue scientifique, la conservation des apparences fait que l'hostie possède les mêmes propriétés et par suite joue le même rôle dans la série des phénomènes avant et après la consécra- tion.
 [^p258-3]: D'ailleurs ce quelque chose ne nous est pas défini par ses déterminations intrinsèques , mais seulement par les devoirs qu'il entraîne pour nous . La théologie de l'Eucharistie con- tient: 1º une part purement réglementaire et juridique ; 2º une part négative tendant à exclure les théories qui, traduites en action, nous inspireraient une manière d'être et d'agir contraire à ce que le dogme prescrit ; 3° une part positive, qui est toute pragmatique . Après cela commencent les théories ex- licatives, mais elles ne sont point de foi.
 
-[p. 259]
-
-conduite en est la conséquence raisonnablement obli-
+[p. 259] conduite en est la conséquence raisonnablement obli-
 gatoire pour nous. « Remarquons d'abord, dit M. Ser-
 tillanges [^p259-1], que la définition citée ne parle pas d'ac-
 cidents : elle emploie le mot species, mot que nos caté-
@@ -12093,9 +11393,7 @@ Au point de vue de l'histoire, il est très certain que
 [^p259-2]: Id. , 1er octobre 1905, p. 314.
 [^p259-3]: Elles ont du reste, par traduction, leurs homologues ou équivalents dans le langage des autres philosophies. Ce qui prouve bien qu'en somme elles ne canonisent aucune acception technique particulière du mot substance, mais le prennent dans l'acception empirique vulgaire.
 
-[p. 260]
-
-les Pères de Trente professaient la philosophie scolas-
+[p. 260] les Pères de Trente professaient la philosophie scolas-
 tique : c'est en fonction de cette philosophie qu'ils ont
 pensé le dogme et dans son langage qu'ils se sont ex-
 primés .
@@ -12127,9 +11425,7 @@ cherches théoriques. [^p260-1]
 
 [^p260-1]: Ce ne sont ni les mots ni les concepts comme tels qui s'imposent à la foi, mais la réalité qu'ils signifient et qu'ils revêtent de formes humaines, donc inadéquates et imparfaites.
 
-[p. 261]
-
-VII . - AUTRES EXEMPLES.
+[p. 261] VII . - AUTRES EXEMPLES.
 
 Il ne faudrait pas croire que les seuls dogmes prêtant
 aux remarques précédentes soient ceux que je viens
@@ -12165,9 +11461,7 @@ et que, sous leurs métaphores,
 
 [^p261-1]: J. WEHRLÉ, Revue biblique, juillet 1905.
 
-[p. 262]
-
-prises ou non à la lettre, tout le monde saisissait le sens
+[p. 262] prises ou non à la lettre, tout le monde saisissait le sens
 profond [^p262-1] . >> Dans ces divers cas, l'indifférence de
 l'Église pour les théories possibles n'est-elle pas elle-
 même significative ?
@@ -12209,9 +11503,7 @@ tard et graduellement, sous forme négative, à propos
 
 [^p262-1]: R. P. ALLO, Quinzaine, 1er août 1905 .
 
-[p. 263]
-
-des essais d'explication que furent les hérésies. Prenez
+[p. 263] des essais d'explication que furent les hérésies. Prenez
 l'une après l'autre les formules de la Christologie or-
 thodoxe, j'entends celles qui ont une valeur stricte-
 ment dogmatique,
@@ -12250,9 +11542,7 @@ consacre et impose des conceptions ou théories philo-
 [^p263-2]: Aujourd'hui encore, Jésus est Dieu signifie pour tous les croyants Jésus est tel en soi que notre attitude à son égard doit être sans restriction d'aucune sorte l'attitude même que nous avons par rapport à Dieu.
 [^p263-3]: J. ZEILLER, Annales de philosophie chrétienne, juin 1906, p. 309.
 
-[p. 264]
-
-sophiques proprement dites ? Ce serait alors au sens de
+[p. 264] sophiques proprement dites ? Ce serait alors au sens de
 la philosophie jadis régnante qu'il faudrait les entendre.
 Or ce sens n'est plus assimilable aujourd'hui et soulève
 d'inextricables difficultés. Je ne veux pas les développer
@@ -12307,9 +11597,7 @@ ci-dessus, Ier exemple.
 2. Remarquez que je ne dis pas : comment cela est-il possible ?
 mais : qu'est- ce que cela veut dire ?
 
-[p. 265]
-
-peut pas être cela même qui constitue l'objet de la
+[p. 265] peut pas être cela même qui constitue l'objet de la
 foi immuable. Pour sortir de ces embarras, prenons les
 termes de nature et de personne, non dans une acception
 savante, mais dans leur acception vulgaire. Affirmer
@@ -12352,9 +11640,7 @@ non d'une seule, demande M. Dubois [^p265-2], si la pierre de [^p265-1]
 [^p265-1]: Pour ce qui est de la nature humaine, il faut entendre que Jésus-Christ fut<< en tout semblable à l'un de nous, sauf le péché » (Hébr. , IV, 15). Mais cette restriction même com- porte encore une interprétation pragmatique.
 [^p265-2]: Revue du Clergé français, 1er septembre 1905.
 
-[p. 266]
-
-touche d'une interprétation dogmatique doit être son
+[p. 266] touche d'une interprétation dogmatique doit être son
 harmonie avec l'attitude pratique que le dogme prescrit ?
 Si le dogme de la personnalité divine se réduit à l'obli-
 gation de traiter Dieu comme une personne, est-ce que
@@ -12401,15 +11687,13 @@ voici le principe de l'interprétation pragmatique [^p266-2].
 [^p266-1]: Id., 1er octobre 1905 .
 [^p266-2]: Je ne puis évidemment songer à écrire ici un Traité complet De Deo trino.
 
-[p. 267]
-
-Inutile d'insister sur la partie de la formule qui maintient
+[p. 267] Inutile d'insister sur la partie de la formule qui maintient
 le monothéisme : sa signification religieuse, donc pra-
 tique et morale, saute aux yeux. Quant à l'autre partie,
 celle qui affirme la trinité dans l'unité, n'est-ce pas en
 termes de vie spirituelle qu'on la commente toujours ?
 A propos de chacune des « personnes », il y aurait lieu
-de refaire, mutatis mutandis, en entrant dans le détail de
+de refaire, *mutatis mutandis*, en entrant dans le détail de
 nos attitudes et démarches par rapport à Dieu, en
 analysant les divers actes de notre vie religieuse, la
 discussion déjà faite au sujet de la personnalité divine
@@ -12442,9 +11726,7 @@ procédé suivi pour dégager la donnée de foi; autre
 [^p267-1]: Le Sabellianisme, par exemple, détruit pratiquement la réalité de la médiation rédemptrice dont il fait une sorte de comédie jouée par Dieu. Il n'est pas jusqu'à la procession ab utroque qui ne comporte une interprétation pragmatique . Si en effet le Saint-Esprit ne procède pas du Père et du Fils comme d'un seul et même principe, nous ne pouvons plus nous conduire comme trouvant en Jésus la plénitude de Dieu et voilà notre vie religieuse scindée en deux morceaux.
 [^p267-2]: Quinzaine du 1er août 1905, p. 415.
 
-[p. 268]
-
-chose la donnée de foi elle-même en tant qu'obligatoire.
+[p. 268] chose la donnée de foi elle-même en tant qu'obligatoire.
 Les Pères et les Conciles ont assurément dogmatisé en
 fonction de la philosophie alors régnante : le dogme
 n'est point lié pour cela à telles ou telles formes de
@@ -12481,9 +11763,7 @@ dant des systèmes, puisqu'on leur oppose d'autres sys-
 [^p268-2]: Cf. Mgr DUCHESNE, Histoire ancienne de l'Eglise, t. I.
 [^p268-3]: Revue du Clergé français, 1er octobre 1905, p. 321 .
 
-[p. 269]
-
-tèmes, le matérialisme, le déterminisme, classés comme
+[p. 269] tèmes, le matérialisme, le déterminisme, classés comme
 tels en philosophie. » Il y a là une confusion. Le spi-
 ritualisme cousinien auquel on fait allusion ici n'a jamais
 été un système philosophique digne de ce nom : ce n'est
@@ -12529,9 +11809,7 @@ dépassée [^p269-2].
 [^p269-1]: SERTILLANGES, id., p. 313 .
 [^p269-2]: Cf. LABERTHONNIÈRE, Le dogme de la Rédemption et Dogme et Critique 19
 
-[p. 270]
-
-Enfin considérons les deux derniers dogmes définis
+[p. 270] Enfin considérons les deux derniers dogmes définis
 et promulgués par l'Église au cours du siècle qui vient
 de finir. Celui de l'infaillibilité pontificale est très clair :
 1º on ne peut pas en appeler du pape au concile : déci-
@@ -12577,9 +11855,7 @@ niser à sa guise. Elle se reconnaît pourtant un pouvoir
 l'histoire, dans les Annales de philosophie chrétienne, février
 1906.
 
-[p. 271]
-
-indirect en ce que telle solution politique, sous prétexte
+[p. 271] indirect en ce que telle solution politique, sous prétexte
 d'organiser le bien commun, peut arriver à le compro-
 mettre assez pour compromettre du même coup la fin
 que poursuit l'Église. La subordination des fins doit
@@ -12606,9 +11882,7 @@ là nier que la lumière soit une réalité objective ?
 1. SERTILLANGES, Revue du Clergé français, 1er novembre
 1905, p. 539.
 
-[p. 272]
-
-VIII .
+[p. 272] VIII .
 
 -
 
@@ -12642,9 +11916,7 @@ en tant qu'elle est philosophie de
 
 [^p272-1]: Un professeur de Lycée (Quinzaine du 16 juillet 1905), Mgr Turinaz (brochure intitulée Une très grave question doc trinale) , M. Letourneau (Instruction prêchée à St-Sulpice le 17 décembre 1905 et résumée par la Vérité française du 20)
 
-[p. 273]
-
--
+[p. 273] -
 la foi
 participe à l'évolution générale de l'esprit
 humain et s'adapte à ses états successifs,
@@ -12698,9 +11970,7 @@ certains égards, toute hérésie peut être regardée comme une
 expérience de la pensée religieuse, dont l'histoire montre que
 l'Église a proft : oportet haereses eise.
 
-[p. 274]
-
-à quelle distance je reste de l'agnosticisme dont on
+[p. 274] à quelle distance je reste de l'agnosticisme dont on
 s'est plu à m'accuser.
 Ne soyons pas exclusifs. Toute erreur, a-t-on dit, est
 l'exagération d'une vérité. Rien de plus juste. Et ainsi
@@ -12743,11 +12013,7 @@ dois et veux être chrétien, mais à tous les moments
 et par toutes les fonctions , non seulement dans l'intime
 secret de mon cœur, mais dans ma famille et dans ma
 profession, non seulement comme individu, mais comme
-citoyen, non seulement lorsque j'agis en tant que mem
-
-[p. 275]
-
-bre de l'Église établie, mais encore lorsque je fais
+citoyen, non seulement lorsque j'agis en tant que mem [p. 275] bre de l'Église établie, mais encore lorsque je fais
 œuvre de savant ou de philosophe. A ce dernier point
 de vue, je souscris entièrement à une remarque faite
 par M. Jousse de la Motte [^p275-1] . Les dogmes, avais-je
@@ -12790,9 +12056,7 @@ sous sa forme négative
 [^p275-1]: Quinzaine du 16 juin 1905, p. 549. nous
 [^p275-2]: Quelquefois ils influent secrètement sur ceux-là mêmes qui les repoussent. On n'a pas fait assez l'histoire de la philo- sophie moderne à ce point de vue.
 
-[p. 276]
-
-au
+[p. 276] au
 
 protège contre les écarts possibles et ferme les voies
 où la réalité sous-jacente risquerait d'être altérée ou
@@ -12800,10 +12064,10 @@ méconnue. En un mot, ce que la foi nous donne
 point de vue philosophique, s'entend
 n'est pas sans
 analogie avec un principe expérimental (¹). Un tel prin-
-cipe, on le sait, est a priori par rapport à l'expérience
+cipe, on le sait, est *a priori* par rapport à l'expérience
 qu'il informe ; mais en même temps la nouvelle expé-
 rience, réagissant sur lui, le précise et le développe.
-Ainsi peut-on concevoir l'orthodoxie, comme l'a priori
+Ainsi peut-on concevoir l'orthodoxie, comme l'*a priori*
 de l'expérience religieuse dans l'ordre intellectuel.
 On pourrait dire en somme qu'un dogme intervient
 et fonctionne dans l'ordre spéculatif à peu près comme
@@ -12836,9 +12100,7 @@ sous peine de renoncer pratiquement [^p276-1] [^p276-3]
 [^p276-2]: Cf. BERGSON, L'effort intellectuel, dans la Revue philo sophique de janvier 1902 .
 [^p276-3]: Cf. un article Sur la logique de l'invention que j'ai pu- blié en mars 1905 dans la Revue de Métaphysique et de Morale.
 
-[p. 277]
-
-à toute pensée
+[p. 277] à toute pensée
 d'utiliser ces moyens d'analyse
 et
 d'expression, si imparfaits soient-ils. Seulement il con-
@@ -12882,9 +12144,7 @@ des positions immobiles qu'il traverse ; le mouvement,
 
 [^p277-1]: D'une façon générale, c'est dynamiquement, non sta- tiquement, que l'absolu est saisissable à la pensée humaine. Les thèses contraires sur la relativité de la connaissance ou la possibilité de connaître l'absolu me paraissent également fausses d'un point de vue statique. A mon avis, la vérité se trouve dans un relativisme dynamique qui concilie tout.
 
-[p. 278]
-
-c'est la traversée du point, ce n'est pas le point traversé.
+[p. 278] c'est la traversée du point, ce n'est pas le point traversé.
 Ainsi l'intellectualisme, ici encore, demeure impuissant
 et stérile : trop attentif au discours , c'est-à-dire au corps
 de la vérité,
@@ -12932,9 +12192,7 @@ avons reconnu. D'autre part il serait évidemment chimé-
 [^p278-1]: Voir l'article intitulé Un positivisme nouveau que j'ai pu- blié en mars 1901 dans la Revue de Métaphysique et de Morale.
 [^p278-2]: On ne pourrait même pas les formuler, car au point de vue théorique il n'y a pas un concept qui ne soit solidaire de tous les autres et qui par suite ne varie incessamment.
 
-[p. 279]
-
-rique de vouloir que tous reçoivent au même titre l'im-
+[p. 279] rique de vouloir que tous reçoivent au même titre l'im-
 pulsion spéculative dont il était question ci-dessus. Con-
 cluons donc que nous sommes ici dans le domaine de la
 discussion libre. Libre, du reste, ne veut pas dire arbi-
@@ -12977,11 +12235,7 @@ il ne fonctionne que de la manière indiquée précédem-
 ment. On voit très bien alors comment la foi, loin de
 limiter la science et d'empiéter sur son domaine, la sert
 et l'accroît. Certes
-il y a encore après cela d'autres
-
-[p. 280]
-
-282
+il y a encore après cela d'autres [p. 280] 282
 ME ET CRITIQUE
 
 difficultés à résoudre. Mais n'est-ce point tout de même
@@ -13029,9 +12283,7 @@ est la règle de la foi.
 
 [^p280-1]: Voir un article que j'ai publié dans la Revue de Métaphy- sique et de Morale (mai 1901) et où se trouve développé ce que j'indique seulement ici .
 
-[p. 281]
-
-De tout cela, je ne conteste rien. Mais qui ne voit
+[p. 281] De tout cela, je ne conteste rien. Mais qui ne voit
 aussi que tout cela n'a qu'un sens pratique, une valeur
 pratique ?
 Au point de vue intellectuel pur, la question qui se
@@ -13070,9 +12322,7 @@ convergence, par leur mouvement progressif, que par
 
 [^p281-1]: Cf. LABERTHONNIÈRE, Le dogme de la Rédemption et l'histoire, dans les Annales de philosophie chrétienne, février 1906.
 
-[p. 282]
-
-leur contenu statique [^p282-1]. En ce sens, la théologie est
+[p. 282] leur contenu statique [^p282-1]. En ce sens, la théologie est
 bienune philosophie, la philosophie de la foi.
 Bien des
 théories diverses respectent les données
@@ -13123,9 +12373,7 @@ germe jusqu'au plein épanouissement. On connaît à cet
 
 [^p282-1]: Voir plus loin l'article intitulé Scolastique et philosophie moderne .
 
-[p. 283]
-
-de mieux dire (1). Or il est facile de voir le rôle de la
+[p. 283] de mieux dire (1). Or il est facile de voir le rôle de la
 théologie dans ce progrès. Une proposition théologique
 et j'entends par là soit une conclusion déduite des
 principes révélés, soit une formulation de ces principes
@@ -13158,9 +12406,7 @@ qu'en ont tiré Newman et surtout M. Loisy.
 toire dans un sens péjoratif: je ne les emploie que faute de
 mieux. Peut-être pourrait-on dire canon et exercice ?
 
-[p. 284]
-
--
+[p. 284] -
 IX. — ЕXАMEN DE QUELQUES
 DIFFICULTÉS.
 
@@ -13190,9 +12436,7 @@ ment avec ce principe de la soumission au fait. La raison
 la plus scrupuleuse et la plus jalouse ne voit aucune
 gêne à la liberté de sa recherche dans l'obligation
 
-[p. 285]
-
-'d'admettre que les faits jugent les théories, que les faits
+[p. 285] 'd'admettre que les faits jugent les théories, que les faits
 fonctionnent comme critères par rapport aux théories .
 Et elle accepte même sans nulle peine l'idée que les
 faits puissent exclure et condamner certaines théories .
@@ -13231,11 +12475,7 @@ elle était en vous action et vie, attitude et travail de
 votre âme et de votre corps. Eh bien! il en est de même
 pour les dogmes . Assurement toute formule qui les
 
-[^p285-1]: Je ne dis pas independammem ac toute pensée. Car in y aune pensée non spéculative qui est la lumière intrinsèque de l'action, qui est l'action elle-même en tant que lumineuse. Dogme en Critique 20
-
-[p. 286]
-
-énonce est un tissu de représentations théoriques. Mais
+[^p285-1]: Je ne dis pas independammem ac toute pensée. Car in y aune pensée non spéculative qui est la lumière intrinsèque de l'action, qui est l'action elle-même en tant que lumineuse. Dogme en Critique 20 [p. 286] énonce est un tissu de représentations théoriques. Mais
 il est possible de prendre seulement ces représenta-
 tions comme le véhicule d'un sens pratique et moral,
 comme le corps qui manifeste une âme d'action vécue
@@ -13278,11 +12518,7 @@ tualiste pour me lire, dès que l'on fait l'effort nécessaire
 pour envisager moins
 la
 structure statique de mes
-formules que leur tendance dynamique. Dans chaque
-
-[p. 287]
-
-mot qu'on lit il faut savoir entendre une résonnance de
+formules que leur tendance dynamique. Dans chaque [p. 287] mot qu'on lit il faut savoir entendre une résonnance de
 la doctrine entière .
 Pratique pure et pure spéculation ne sont pas des
 choses immobiles, des termes antithétiques donnés, mais
@@ -13325,9 +12561,7 @@ elle anime et dirige la vie créatrice de l'esprit. C'est dire [^p287-1]
 
 [^p287-1]: Je ne conteste pas que le discours soit lui-même un mo- ment et un facteur de vie. Nous devons en effet passer par le discours pour atteindre la plénitude de la vie. Mais il ne faut que passer par lui, non pas nous y arrêter . Ce qui revient à dire qu'il faut tendre à faire du discours lui-même une action.
 
-[p. 288]
-
-que, prise en soi, elle n'a rien de discursif. Sans doute
+[p. 288] que, prise en soi, elle n'a rien de discursif. Sans doute
 elle tend et travaille sans cesse à se trouver des expres-
 sions au moins provisoires et transitoires. Mais aussi
 son mouvement l'emporte toujours au delà des expres-
@@ -13374,9 +12608,7 @@ simples . « Or les masses sont toujours d'un simplisme
 
 [^p288-1]: J'envisage ici la foi dans sa fonction cognitive ou révéla- trice: N'empêche que sa fonction vivifiante et unitive reste la principale.
 
-[p. 289]
-
-très exigeant en fait de précision. Pour qu'elles compren-
+[p. 289] très exigeant en fait de précision. Pour qu'elles compren-
 nent et s'assimilent d'une façon pratique un ensemble
 d'idées, il faut qu'on le leur ait transformé en deux ou
 trois formules ou « recettes » dont l'interprétation ne
@@ -13403,11 +12635,7 @@ caractère définitif et absolu à une représentation forcé-
 ment inadéquate.
 
 1. R. P. ALLO, Revue du Clergé français, nº du 15 octobre
-1906,
-
-[p. 290]
-
--
+1906, [p. 290] -
 
 X. – LES OBJECTIONS DE M. PORTALIÉ
 ET DE Mgr TURINAZ.
@@ -13440,9 +12668,7 @@ peine. Je n'ai pas prétendu écrire une Théorie de la [^p290-1]
 [^p290-1]: Etudes du 20 juillet 1905, p. 158.
 [^p290-2]: Quinzaine du 16 juin 1905 .
 
-[p. 291]
-
-connaissance religieuse ni un Traité de la foi : siniplement
+[p. 291] connaissance religieuse ni un Traité de la foi : siniplement
 un mémoire apportant sa modeste contribution à l'étude
 de certains problèmes. Depuis quand un auteur est-il
 obligé de reprendre ab ovo la totalité des questions qui
@@ -13488,9 +12714,7 @@ et sa
 [^p291-2]: PORTALIÉ, loc. cit., p. 158.
 [^p291-3]: Loc . cit . , pages 157-164, passim.
 
-[p. 292]
-
-misérablement sur les mots et d'essayer de sauver son
+[p. 292] misérablement sur les mots et d'essayer de sauver son
 empire sur les âmes au prix d'une équivoque déshono-
 rante »
 (1 ). La doctrine que
@@ -13547,9 +12771,7 @@ Annales de Philosophie
 chrétienne
 (décembre 1905 et janvier
 
-[p. 293]
-
-Je n'ai jamais dit de l'Église « qu'elle n'a point en
+[p. 293] Je n'ai jamais dit de l'Église « qu'elle n'a point en
 dépôt des vérités immuables reçues du ciel, et que l'idée
 antique d'une révélation par laquelle Dieu aurait parlé
 à l'homme est un anthropomorphisme grossier, inac-
@@ -13593,11 +12815,9 @@ latif et malgré le perpétuel changement des théories phi-
 
 1906) . Mais rien ne vautà ce point de vue les brochures elles-
 mêmes et la Lettre insérée dans les Annales de janvier 1906.
-1. Etudes du 20 juillet 1905, pages 160 et 161, passim.
+1. Etudes du 20 juillet 1905, pages 160 et 161, *passim*.
 
-[p. 294]
-
-losophiques au cours de l'histoire, n'est-ce pas la preuve
+[p. 294] losophiques au cours de l'histoire, n'est-ce pas la preuve
 la plus nette que ce sens qui doit être et rester commun
 appartient en effet à l'ordre
 pratique et vital ? Un
@@ -13642,9 +12862,7 @@ qu'il est raisonnable, salutaire et obligatoire de l'aimer,
 [^p294-2]: Je me trouve ainsi accusé à la fois de rationalisme et d'agnosticisme : peut-être faudrait-il choisir ?
 [^p294-3]: Voir pages 13-14 du présent volume.
 
-[p. 295]
-
-de l'adorer, de le prier, etc.; mais je n'arrive pas à me
+[p. 295] de l'adorer, de le prier, etc.; mais je n'arrive pas à me
 représenter théoriquement sa personnalité sans tomber
 dans l'anthropomorphisme ou dans l'agnosticisme » :
 oserez-vous bien m'excoinmunier ? En vérité, il y a des
@@ -13689,9 +12907,7 @@ est ressuscité et vivant. On nous demande de nous con- [^p295-1]
 [^p295-3]: Etudes du 20 juillet 1905, р. 162 .
 [^p295-4]: Loc . cit. Page 57 de sa première brochure.
 
-[p. 296]
-
-duire à l'égard de Jésus-Christ dans l'Eucharistie comme
+[p. 296] duire à l'égard de Jésus-Christ dans l'Eucharistie comme
 s'il était dans l'Eucharistie, sans croire qu'il est présent
 dans
 l'Eucharistie. >>> Déjà M. Franon m'avait
@@ -13739,9 +12955,7 @@ serait à mes yeux d'impli-
 [^p296-1]: Bulletin de littérature ecclésiastique, juin 1905, p. 168.
 [^p296-2]: Quinzaine du 1er août 1905, p. 405. Le R. P. Allo et le R. P. Sertillanges ont répondu pour moi à l'accusation de subjectivisme : je ne vois rien à ajouter sur ce point à leurs remarques.
 
-[p. 297]
-
-quer la conception séparatiste que je combats. Il ya
+[p. 297] quer la conception séparatiste que je combats. Il ya
 même plus . Ontologiquement, c'est parce que la réalité
 surnaturelle est telle et telle en soi que telle et telle
 doit être notre conduite à son égard. Cela n'est pas
@@ -13761,9 +12975,7 @@ subversif ( 1) ?
 1. Lex orandi , lex credendi : on connaît la formule célèbre
 qui subordonne le second terme au premier.
 
-[p. 298]
-
-ΧΙ.
+[p. 298] ΧΙ.
 SUR L'APOLOGÉTIQUE.
 -
 
@@ -13805,9 +13017,7 @@ elles ne sont pas le fait d'intelligences perverties ou
 
 [^p298-1]: Etudes du 20 juillet 1905, pages 166-171.
 
-[p. 299]
-
-malades , comme d'aucuns aiment trop à le redire. J'y
+[p. 299] malades , comme d'aucuns aiment trop à le redire. J'y
 verrais plutôt le résultat logique et l'aboutissant iné-
 luctable d'une confusion dont les incrédules ne sont
 pas seuls responsables. Mais j'ai assez de confiance
@@ -13857,9 +13067,7 @@ l'intellectualiste qui part d'une dissociation de [^p299-1]
 [^p299-2]: Jugum meum suave est, et onus meum leve . (MATTH., ΧΙ,
 [^p299-3]: Etudes du 20 juillet 1905, p. 167.
 
-[p. 300]
-
-l'esprit en facultés distinctes, qui met la pensée d'un
+[p. 300] l'esprit en facultés distinctes, qui met la pensée d'un
 côté, l'action de l'autre, et qui érige en principe je ne
 sais quelle séparation des pouvoirs, il est inéluctable
 de placer avant tout précepte une idée pure, une con-
@@ -13900,9 +13108,7 @@ monstrations que je trouve mauvaises et inefficaces : [^p300-1]
 [^p300-2]: Pourquoi M. Portalié a-t-il ajouté (loc. cit., p. 168) : « si c'est à elle qu'on veut recourir, comme il semble >> ? Il sait parfaitement à quoi s'en tenir sur mon attitude et mes inte tions . Alors dans quel dessein une telle insinuation ?
 [^p300-3]: Loc. cit. , p. 167.
 
-[p. 301]
-
-je n'ai rien dit de plus. M. Portalié pourra s'en con-
+[p. 301] je n'ai rien dit de plus. M. Portalié pourra s'en con-
 vaincre en lisant de plus près mon premier article [^p301-1].
 Et quand il ajoute, parlant de moi : « Comment éta-
 blira-t-il qu'il y a un salut à procurer et que les règles
@@ -13945,11 +13151,7 @@ cipe d'immanence, en ayant parlé déjà dans mes autres
 [^p301-2]: Loc. cit . , p. 167. Reinarquez que je suis accusé main- tenant de fidéisme : tout à l'heure c'était de rationalisme .
 [^p301-3]: Je dis « à i'intellectualisme > : prière de ne pas traduire <<< à l'intelligence » .
 [^p301-4]: Seulement, je soutiens que la certitude véritable, surtout en pareille matière, ne relève pas de la seule intelligence conçue comme faculté séparée.
-[^p301-5]: Loc. cit. , pages 170-171. Dogmeet Critique 21
-
-[p. 302]
-
-réponses. Je vois bien que M. Portalié ne s'en fait pas
+[^p301-5]: Loc. cit. , pages 170-171. Dogmeet Critique 21 [p. 302] réponses. Je vois bien que M. Portalié ne s'en fait pas
 une idée nette. Mgr Turinaz,
 surtout,
 déclare avec
@@ -13980,9 +13182,7 @@ l'énoncé ? [^p302-1]
 [^p302-2]: Au fond, l'article Qu'est-ce qu'un dogme ? ne citait qu'in- cidemment le principe d'immanence; il ne prétendait ni l'ex- poser ni le justifier, mais seulement le rappeler. C'est ce que Mgr Turinaz a commencé par ne pas voir. Cf. ci -dessus mes réponses à M. Wehrlé (pp. 60-69) et à M. de Grandmaison (pp. 100 et 102-103).
 [^p302-3]: M. l'abbé Bousquet écrit dans la Revue pratique d'Apo- logétique (1er décembre 1905, р. 216) : « Il est dangereux, si l'on prétend écrire en français, d'employer les mots dans un sens différent de celui qu'ils ont ordinairement en français ; il est imprudent de parler à des Français, obstinément logiques et même simplistes, comme à des Allemands, qui sont plus habiles que nous dans l'art d'élever des cloisons étanches . >> Je me perds à chercher quels sont les mots que j'ai bien pu employer dans une acception allemande et non française ! Et quant aux cloisons étanches, le principe d'immanence exprime justement qu'il n'y en a pas . (Cf. pp . 9-10 du présent volume.)
 
-[p. 303]
-
-Autre chose. Je proteste absolument contre l'expres-
+[p. 303] Autre chose. Je proteste absolument contre l'expres-
 sion<< philosophie de l'immanence >> [^p303-1] . Il y a un « prin-
 cipe d'immanence »
 duquel
@@ -14024,9 +13224,7 @@ enseignement extérieur nous proposant la vérité par voie
 
 [^p303-1]: Mgr Turinaz dit même une fois « religion de l'imma- nence » ! (2e brochure, p. 19).
 
-[p. 304]
-
-de révélation. Il se borne à préciser les conditions sous
+[p. 304] de révélation. Il se borne à préciser les conditions sous
 lesquelles cet enseignement peut nous atteindre, à faire
 la théorie de la préparation intérieure nécessaire . Et
 ce qu'il exclut, c'est aussi bien l'intrinsécisme pur que
@@ -14069,9 +13267,7 @@ finalement , c'est une véritable circumincession, une inté- [^p304-1]
 
 [^p304-1]: Ne pas oublier que le désir lui-même est en un sens un don. Voir ci-dessus ma réponse à M. Wehrlé, pages 60 68.
 
-[p. 305]
-
--
+[p. 305] -
 
 riorité réciproque, une implication mutuelle, de sorte
 qu'à aucun instant nous ne trouvons en ce que nous
@@ -14124,9 +13320,7 @@ qu'il ait plu à Dieu de vouloir que son enseignement
 
 [^p305-1]: Cf. LABERTHONNIÈRE, Essais de philosophie religieuse, Appendice I.
 
-[p. 306]
-
-308
+[p. 306] 308
 DOGME ET
 CRITIQUE
 
@@ -14172,11 +13366,7 @@ pour atteindre l'homme, réciproquement le divinise pour
 qu'il puisse être touché [^p306-2]. L'apologétique, à sa façon,
 
 [^p306-1]: Ce texte condamne surtout l'individualisme religieux .
-[^p306-2]: On sait que Clément XI a condamné des propositions affirmant que la foi est la première grâce et que nulle grâce n'est donnée que par la foi. (Denzinger, 1241, 1242.)
-
-[p. 307]
-
-retrouve
+[^p306-2]: On sait que Clément XI a condamné des propositions affirmant que la foi est la première grâce et que nulle grâce n'est donnée que par la foi. (Denzinger, 1241, 1242.) [p. 307] retrouve
 cette
 loi :
 « Videntium
@@ -14227,9 +13417,7 @@ terra, et germinet salvatorem [^p307-3]. [^p307-1]
 [^p307-2]: Se rappeler toujours la définition du mot nature donnée plus haut, p. 62.
 [^p307-3]: Is . , XLV, 8 .
 
-[p. 308]
-
-ΧΙΙ .
+[p. 308] ΧΙΙ .
 
 -
 
@@ -14263,9 +13451,7 @@ de vue de la spéculation théorique et en tant qu'à cet
 
 [^p308-1]: Etudes du 6 août 1905, pages 338 et 339. Cela n'em- pêche pas M. Portalié (Etudes du 20 juillet 1905, page 154) de déclarer << accessoire » ce que j'ai dit sur le rôle négatif des dogmes . Il n'explique pas comment ces deux appréciations contradictoires peuvent s'accorder.
 
-[p. 309]
-
-égard est exigée une adhésion de foi. Cela ne signifie
+[p. 309] égard est exigée une adhésion de foi. Cela ne signifie
 en aucune manière que « les dogmes n'affirment rien. >>>
 Mgr Turinaz, dont la réponse est identique à celle de
 M. Portalié, seulement encore un peu simplifiée et gros-
@@ -14308,9 +13494,7 @@ Ce passage n'est pas unique, loin de là. Le Docteur [^p309-1]
 
 [^p309-1]: Etudes , loc. cit., pages 154 et 338 .
 
-[p. 310]
-
-Angélique,
+[p. 310] Angélique,
 après avoir prouvé l'existence de
 Dieu,
 ajoute
@@ -14359,9 +13543,7 @@ Deus est ignotum, dit quelque part S. Thomas :
 je prie
 le lecteur de remarquer la hardiesse de ce neutre ignotum.
 
-[p. 311]
-
-ineffable, ni comprendre combien il est incompréhen-
+[p. 311] ineffable, ni comprendre combien il est incompréhen-
 sible (¹) .
 >>
 Passons enfin aux Conciles , et spécialement -
@@ -14407,9 +13589,7 @@ recueil de conciles >> ? J'attends avec tranquillité qu'on [^p311-1]
 [^p311-2]: Lorsque des mots appartenant au vocabulaire de la phi- losophie interviennent dans les énoncés dogmatiques , ce n'est point selon leur sens technique, mais selon leur sens vulgaire ; à moins qu'il ne s'agisse de condamner un système, auquel cas ils doivent être pris dans le sens de ce système .
 [^p311-3]: Par exemple, dans : VACANT, Etudes théologiques sur les Constitutions du Concile du Vatican.
 
-[p. 312]
-
-me cite un cas où un Concile aurait dit : « Je condamne
+[p. 312] me cite un cas où un Concile aurait dit : « Je condamne
 telle théorie et j'impose telle autre théorie. >> Partout
 et toujours je vois les Conciles dire simplement : « Je
 condamne telle théorie au nom de tel fait : arrangez-
@@ -14447,9 +13627,7 @@ la question de savoir sous quelles formes il convient de [^p312-1]
 [^p312-1]: Mgr Turinaz écrit, lui, dans sa seconde brochure, p. 13, <<<qu'avant de condamner une doctrine il faut d'abord l'affir- mer >> !
 [^p312-2]: Je ne pré ends pas énoncer ici une christologie complète : je me borne à en indiquer le principe et le centre . Qu'on veuille bien aussi ne pas entendre le comme dans un sens qui affirmerait que Jésus n'est ni homme ni Dieu, mais que nous avons cependant à nous comporter vis à vis de lui comme s'il était homme et comme s'il était Dieu. Le comme veut dire tout simplement que les mots homme et Dieu désignent ici des conceptions pratiques et non théoriques .
 
-[p. 313]
-
-la penser, quelle théorie représentative en exprime le
+[p. 313] la penser, quelle théorie représentative en exprime le
 mieux la nature et la fait comprendre le mieux, le dogme
 se borne à proscrire les systèmes qui mutilent ou mé-
 connaissent le fait, sans promulguer de lui-même une
@@ -14496,9 +13674,7 @@ les principes d'autonomie absolue qu'il a posés et les [^p313-1]
 [^p313-1]: Page 33 du présent volume.
 [^p313-2]: Etudes du 20 juillet 1905, р . 172.
 
-[p. 314]
-
-limites dans lesquelles il emprisonne maintenant la li-
+[p. 314] limites dans lesquelles il emprisonne maintenant la li-
 berté. » Et pourquoi cela ? L'autonomie, la liberté ne
 consistent pas en je ne sais quel droit de s'abandonner
 à tous les caprices de la fantaisie. Je ne sache pas que
@@ -14514,11 +13690,9 @@ tâchez de mieux concevoir par l'exemple des sciences
 la différence qu'il y a entre un fait et une théorie ;....
 et nous reparlerons ensuite de vos difficultés. >>>
 
-1. Loc. cit., pp. 172-173.
+1. *Loc. cit.*, pp. 172-173.
 
-[p. 315]
-
-XIII . - LES QUATRE OBJECTIONS.
+[p. 315] XIII . - LES QUATRE OBJECTIONS.
 
 M. Portalié conteste enfin la valeur des quatre ob-
 jections résumées par moi dans la Quinzaine ( 1 ) . C'est
@@ -14548,9 +13722,7 @@ plète ! Je suis fort loin d'accepter cet état d'esprit pure [^p315-1]
 [^p315-2]: Etudes du 5 août 1905.
 [^p315-3]: Pages 14-15 du présent volume.
 
-[p. 316]
-
-ment et simplement tel qu'il est, fort loin de l'admirer
+[p. 316] ment et simplement tel qu'il est, fort loin de l'admirer
 et de l'approuver sans réserves . Les nombreux articles
 que j'ai publiés dans la Revue de Métaphysique et de
 Morale sont là pour en témoigner. J'y dénonce avec
@@ -14589,9 +13761,7 @@ prends pas qu'on puisse me chercher noise. Il y a bien [^p316-1]
 
 [^p316-1]: Il n'y a pas d'erreur que j'aie combattue avec plus d'in- sistance que le mathématisme. Par quel étrange contre-sens en est-on venu à croire que je m'en inspirais ?
 
-[p. 317]
-
-longtemps qu'on l'a dit : l'esprit humain ne cède jamais
+[p. 317] longtemps qu'on l'a dit : l'esprit humain ne cède jamais
 qu'à l'autorité de l'évidence ou à l'évidence de l'autorité.
 Dans tous les cas, son adhésion s'appuie en dernier
 ressort sur une évidence (¹).
@@ -14629,11 +13799,7 @@ divin ni les droits et prérogatives de la parole divine [^p317-1]
 [^p317-2]: Première brochure, pp. 20-22 ; seconde brochure, p. 10.
 [^p317-3]: Le passage de Qu'est-ce qu'un dogme ? auquel il renvoic ne signifie pas du tout ce qu'il lui fait dire.
 [^p317-4]: Dans l'ordre de la foi, ce serait le fidéisme ; et je n'ai pas besoin de rappeler tous les textes qui condamnent ce système .
-[^p317-5]: Concile du Vatican, Const. Dei Filius, chap. III, § I. Dogme et Critique
-
-[p. 318]
-
-ne sont des réalités d'ordre scientifique, des réalités que
+[^p317-5]: Concile du Vatican, Const. Dei Filius, chap. III, § I. Dogme et Critique [p. 318] ne sont des réalités d'ordre scientifique, des réalités que
 l'on puisse constater ou vérifier par des procédés pro-
 prement scientifiques ; et j'en déduis que la révélation ne
 doit pas non plus être assimilée à un enseignement scien-
@@ -14678,9 +13844,7 @@ il a fait une vérification directe ; 3º en tout cas il ne [^p318-1]
 [^p318-1]: Quand je dis non scientifique, prière de ne pas lire anti- scientifique . Prière aussi de ne pas me faire nier que l'autorité divine ou la révélation soient des réalités : ce sont des réalités transcendantes à l'ordre scientifique, des réalités infiniment plus réelles que les réalités dites scientifiques .
 [^p318-2]: Concile du Vatican, Const. Dei Filius, chap. III, can. 2.
 
-[p. 319]
-
-prétend qu'à des conclusions toujours réformables . Je
+[p. 319] prétend qu'à des conclusions toujours réformables . Je
 verrais plutôt l'analogie en faveur de ma thèse ; car, ce
 que le savant admet sur la foi d'autrui, ce ne sont que
 des faits, c'est-à-dire des données traduites en langage
@@ -14721,9 +13885,7 @@ soumission. Quant à ce qui concerne l'individu, pour [^p319-1]
 
 [^p319-1]: Voir Revue de Métaphysique et de Morale, juillet 1901, l'esquisse d'une théorie de la matière. Voir aussi Bulletin de la Société française de Philosophie, séance du 26 février 1903, pp. 109 et 114.
 
-[p. 320]
-
-322
+[p. 320] 322
 DOGNE ET CRITIQUE
 
 autant qu'il est limitation de l'esprit, il faut parler de
@@ -14768,9 +13930,7 @@ lues avec attention, avec sympathie, avec un préjugé
 [^p320-1]: Cette conquête exige durée, c'est-à-dire tradition ; sacri- fice, c'est-à-dire oubli de son individualité particulière; solida- rité, c'est-à-dire insertion dans une société spirituelle, etc. Mais je ne puis développer ici ces rapides aperçus.
 [^p320-2]: Si tant est que le mot hétéronomie convienne pour dési- gner le règne de l'amour en nous .
 
-[p. 321]
-
-très net en leur faveur; je m'en suis nourri, je me suis
+[p. 321] très net en leur faveur; je m'en suis nourri, je me suis
 complu dans l'idée qu'elles étaient péremptoires ; mais
 un jour est venu où, passant du rêve à l'action, je me
 suis trouvé
@@ -14812,11 +13972,7 @@ par elle.
 Je n'ai pas dit du tout qu'il n'y a aucune manière
 légitime d'établir indirectement la vérité du dogme,
 mais bien que la manière ordinairement suivie de nos
-jours est défectueuse, une apologétique d'immanence
-
-[p. 322]
-
-devant accompagner l'apologétique objective pour que
+jours est défectueuse, une apologétique d'immanence [p. 322] devant accompagner l'apologétique objective pour que
 celle-ci prenne un sens et devienne valable.Autre chose,
 en vérité, est de dire aux gens : << il n'y a pas de démons-
 tration possible >> ;
@@ -14858,9 +14014,7 @@ sont, je vous prie, ceux qui méconnaissent la spécificité [^p322-1]
 [^p322-1]: Un théologien traditionnel, dans la Quinzaine du 1er juil- let 1905, m'objecte le Concile du Vatican. Mais ce Concile n'a rien défini sur la manière dont il convient d'utiliser les miracles, prophéties, etc., comme arguments apologétiques .
 [^p322-2]: Bien que chaque méthode ait son mot à dire dans la question .
 
-[p. 323]
-
-des dogmes, sinon ceux-là mêmes qui — les concevant
+[p. 323] des dogmes, sinon ceux-là mêmes qui — les concevant
 comme des sortes de théorèmes, de thèses essentielle-
 ment relatives à la connaissance pure,
 entreprennent
@@ -14916,9 +14070,7 @@ et comment nous devons progresser. >> Voilà pourquoi l'his-
 toire ne peut jarnais suffire, ni en Apologétique, ni en Théo-
 logie.
 
-[p. 324]
-
-historique, telle que la conçoit une certaine École qui
+[p. 324] historique, telle que la conçoit une certaine École qui
 se croit à tort traditionnelle, c'est-à-dire je ne sais quel
 mélange de constatation et de dialectique où documents
 et syllogismes seraient simplement juxtaposés, cette
@@ -14955,9 +14107,7 @@ encore [^p324-2] . Voilà en deux mots ce qui condamne irré- [^p324-1]
 [^p324-1]: Je veux parler ici, suivant l'expression de M. Blondel, du surnaturel << exigeant en nous », non pas d'un surnaturel << exigé par nous », ce qui serait contradictoire.
 [^p324-2]: Tout ce que peut faire légitimement l'histoire en tant que pure histoire, c'est d'avouer son impuissance actuelle à expliquer certains faits, puis d'attendre ou de nouvelles hy- pothèses plus satisfaisantes ou des lumières venues d'ailleurs .
 
-[p. 325]
-
-médiablement l'historicisme. Le mathématisme est, lui,
+[p. 325] médiablement l'historicisme. Le mathématisme est, lui,
 d'une incapacité radicale , absolue ; et je me demande
 comment on a pu me suspecter de pencher vers lui [^p325-1]
 alors que je présente les dogmes comme appartenant à
@@ -14989,9 +14139,7 @@ La tradition l'enseigne ; déjà Origène l'affir-
 [^p325-2]: Bulletin de la Société française de philosophie, séance du 25 février 1904. Il y est surtout question de l'expé- rience physique, mais la transposition est facile. Voir la note V, à la fin du volume.
 [^p325-3]: Par quei contre-sens bizarre en est-on venu à croire qu'il s'agissait pour moi d'une expérience purement individuelle où chacun aurait à se comporter comme s'il était seul ? L'expérience que j'invoque est une expérience historique et sociale, c'est l'expérience collective et séculaire de tout le peuple chrétien. En tant qu'épreuve par la durée, elle s'ap- pelle tradition. En tant que vie et action communes, elle a l'Eglise comme organe et comme interprète . Ce qui n'em- pêche pas que chacun de nous, pour s'insérer en elle, pour y prendre part, pour la poursuivre et se l'assimiler, doive l'ac- compagner d'une expérience psychologique et morale, celle-ci individuelle ou plutôt personnelle.
 
-[p. 326]
-
-mait contre Celse ; S. Augustin, S. Thomas le disent en
+[p. 326] mait contre Celse ; S. Augustin, S. Thomas le disent en
 des textes nombreux ; plus récemment Bautain et Bon-
 netty furent obligés d'y souscrire ; Pie IX le déclara
 explicitement à plusieurs reprises ; et enfin le Concile
@@ -15033,11 +14181,7 @@ La foi reste libre même au cours de la recherche , même
 adoptée .
 On pourrait être tenté de dire qu'il y a aussi liberté
 d'attitude intérieure au cours de la recherche, celle-ci
-exigeant le concours d'une bonne volonté sincère par
-
-[p. 327]
-
-laquelle on se rend perméable aux lumières de l'évi-
+exigeant le concours d'une bonne volonté sincère par [p. 327] laquelle on se rend perméable aux lumières de l'évi-
 dence. Et assurément l'expérience de chaque jour nous
 montre cette liberté en exercice. Mais elle ne suffit
 point encore. Car il faut qu'il y ait liberté jusque dans
@@ -15080,9 +14224,7 @@ mine à croire ou à ne pas croire . C'est de cette détermi-
 .1. Remarquons que le Concile, en affirmant la liberté de la
 foi, dit assensum et non plus obsequium .
 
-[p. 328]
-
-nation, qui commande ou refuse l'acte de foi, que vient
+[p. 328] nation, qui commande ou refuse l'acte de foi, que vient
 la liberté de cet acte [^p328-1]. »
 Voilà bien l'intellectualisme, avec son habituel pos-
 tulat de morcelage : séparation, puis juxtaposition de
@@ -15125,9 +14267,7 @@ et celle de la volonté, l'une précédant l'autre ; puis on
 [^p328-2]: Comment la volonté, conçue comme extérieure à l'intelli- gence, peut-elle contraindre celle-ci à produire un acte qui soit néanmoins raisonnable ?
 [^p328-3]: Qu'on veuille bien y faire attention. On parle de volonté éclairée par l'intelligence, comme si l'intelligence projetait du dehors sa lumière sur la volonté obscure en elle-même. Cela ne servirait à rien, si la volonté n'avait un œil intérieur capable de percevoir cette lumière.
 
-[p. 329]
-
-veut que l'adhésion de foi porte sur des vérités d'ordre
+[p. 329] veut que l'adhésion de foi porte sur des vérités d'ordre
 purement intellectuel ; dans ces conditions, les preuves
 qu'on en donne doivent être aussi d'ordre purement
 intellectuel ; mais alors,
@@ -15171,9 +14311,7 @@ entre la
 
 [^p329-1]: Nous sommes ici en face d'une question qui se pose après morcelage sur le bord même d'une coupure: elle ne peut être résolue que par abandon du morcelage dont elle marque la limite d'emploi légitime.
 
-[p. 330]
-
-doctrine que je défends et le « pragmatisme > anglais
+[p. 330] doctrine que je défends et le « pragmatisme > anglais
 contemporain. Celui-ci, semble-t-il, substitue en somme
 au souci de la vérité une préoccupation de simple utilité.
 Je ne propose rien de pareil. Tout ce que je dis, c'est
@@ -15220,9 +14358,7 @@ jadis. Il est clair que je ne puis entreprendre ici leur [^p330-1]
 
 [^p330-1]: La certitude correspondante s'appelle certitude morale : nom qui désigne non pas un degré, mais un genre de certitude.
 
-[p. 331]
-
-discussion . Aussi bien n'a-t-elle rien à voir avec notre
+[p. 331] discussion . Aussi bien n'a-t-elle rien à voir avec notre
 sujet. Mais je veux rétablir quelques faits, très briève-
 ment .
 
@@ -15269,9 +14405,7 @@ Je n'accepte pas une seule des objections de M. Poin- [^p331-1]
 [^p331-1]: Voir, dans la Revue de Métaphysique et de Morale, les articles suivants : Science et Philosophie (1899 et 1900), Un positivisme nouveau (1901), Sur quelques objections adressées à la nouvelle philosophie (1901).
 [^p331-2]: Dans tout ce passage, j'entends parler seulement des sciences dites positives .
 
-[p. 332]
-
-caré [^p332-1] . Elles reposent toutes sur une fausse interpréta-
+[p. 332] caré [^p332-1] . Elles reposent toutes sur une fausse interpréta-
 tion de ma doctrine. Libre à M. Portalié de les estimer
 irréfutables, pour les besoins de sa thèse. En ce qui me
 concere, je n'ai pas même à les réfuter : elles ne portent
@@ -15317,9 +14451,7 @@ non plus sur la comparaison que M. Portalié institue
 [^p332-1]: Telles que M. Portalié les fait siennes .
 [^p332-2]: Cf. DUHEM, La théorie physique, Paris, Chevalier et Rivière, 1906 .
 
-[p. 333]
-
-entre la conception dynamique et la conception statique
+[p. 333] entre la conception dynamique et la conception statique
 de la vérité . La première lui a complètement échappé :
 les reproches qu'il lui adresse prouvent qu'il la croit
 tout autre qu'elle n'est. On dirait qu'il ne voit point de
@@ -15368,9 +14500,7 @@ siblement la même, basée sur les mêmes contre-sens .
 
 [^p333-1]: Voir Correspondance de l'Union pour la Vérité, 1906 , nº I. Dogmeet Critique 23
 
-[p. 334]
-
-Je ne rejette nullement les dogmes; ce que je rejette,
+[p. 334] Je ne rejette nullement les dogmes; ce que je rejette,
 c'est une certaine manière de les concevoir (¹). Je crois
 qu'à vouloir les définir en tant que dogmes dans un lan-
 gage de théorie spéculative on aboutit à des résultats
@@ -15410,9 +14540,7 @@ bon sens de trouver là « un outrage aux dogmes, à la [^p334-1]
 [^p334-1]: Si une certaine philosophie était si intimement liée au dogme que celui-ci ne puisse s'en passer, comment donc aurait-on fait aux premiers siècles de l'Église, quand cette philosophie n'était pas encore inventée ?
 [^p334-2]: Il est très vrai que les philosophes ne sont pas toujours parfaitement clairs ; mais aussi ils ne réclament pas pour leurs doctrines une adhésion absolue et irréformable, et surtout ils ne présentent pas l'adhésion à ces doctrines comme néces saire à tous pour le salut.
 
-[p. 335]
-
-révélation, à Dieu lui-même »
+[p. 335] révélation, à Dieu lui-même »
 (¹).
 Mais à quoi bon
 discuter avec qui n'écoute pas ? Je reviens donc à
@@ -15457,9 +14585,7 @@ n'est donc pas arrêtée ou limitée par des concepts; elle [^p335-1]
 [^p335-2]: Talium est enim regnum coelorum (MATTH., XIX, 14).
 [^p335-3]: On trouvera la réponse de M. Fonsegrive dans la Quin- zaine du 1er janvier 1906.
 
-[p. 336]
-
-va plus loin par nos idées (1). » M. Portalié (2)fait suivre
+[p. 336] va plus loin par nos idées (1). » M. Portalié (2)fait suivre
 cette citation du commentaire que voici : « Là est l'il-
 lusion capitale du système : il n'est point vrai que notre
 foi aille plus loin que nos idées.... ». Et un peu plus loin
@@ -15519,9 +14645,7 @@ excelsus
 
 [^p336-4]: Si M. Portalié réclame et prétend qu'on peut interpréter sa phrase dans un sens acceptable, je lui demanderai pour- quoi il ne nous applique pas une méthode semblable : ce serait assurément plus facile que dans son cas.
 
-[p. 337]
-
-sur le même plan, dans la même perspective, - en les
+[p. 337] sur le même plan, dans la même perspective, - en les
 appelant les unes et les autres des théorèmes, en leur
 attribuant un même caractère spéculatif,
 les affir-
@@ -15562,11 +14686,7 @@ dernière chicane que me cherche mon contradicteur à
 propos des épithètes « immuable » , « étranger au pro-
 grès » , j'observe qu'elle implique une confusion complète
 
-[^p337-1]: Réponse à M. Franon, dans le Bulletin de littérature ecclésiastique, nº de juillet-octobre 1905, p. 252. (Voir la note IV à la fin de ce volume .)
-
-[p. 338]
-
-entre théologie et dogme : ce qui me dispense d'insister.
+[^p337-1]: Réponse à M. Franon, dans le Bulletin de littérature ecclésiastique, nº de juillet-octobre 1905, p. 252. (Voir la note IV à la fin de ce volume .) [p. 338] entre théologie et dogme : ce qui me dispense d'insister.
 En terminant, M. Portalié déclare n'avoir pas << le
 courage de poursuivre ». Sur ce point, il aurait mieux
 fait de ne pas commencer. Car c'est plutôt à moi qu'il
@@ -15574,9 +14694,7 @@ appartient de m'étonner du contraste offert par des
 arguments si faibles et si mal dirigés « avec l'assurance
 triomphante qui les propose comme invincibles ».
 
-[p. 339]
-
-XIV.
+[p. 339] XIV.
 
 -
 
@@ -15613,11 +14731,7 @@ théologie [^p339-2] . Je ne relèverai pas toutes les amabilités
 dont on les gratifie. Ce sont là de ces choses qui portent [^p339-1]
 
 [^p339-1]: Voir l'Appendice III dans les Essais de philosophie religieuse de M. l'abbé LABERTHONNIÈRE.
-[^p339-2]: On dirait par moments que M. Portalié réclame pour ceux qui pensent comme lui une sorte de monopole, je ne sais quel privilège de grâce illuminante : « Ne lit pas, ne com- prend pas qui veut les docteurs d'Hippone ou d'Aquin » , (Etudes du 5 août 1905, p. 338.)
-
-[p. 340]
-
-leur sanction avec elles . Et que dire des exhortations
+[^p339-2]: On dirait par moments que M. Portalié réclame pour ceux qui pensent comme lui une sorte de monopole, je ne sais quel privilège de grâce illuminante : « Ne lit pas, ne com- prend pas qui veut les docteurs d'Hippone ou d'Aquin » , (Etudes du 5 août 1905, p. 338.) [p. 340] leur sanction avec elles . Et que dire des exhortations
 et
 avertissements
 dont on les combie? Plût à Dieu
@@ -15663,9 +14777,7 @@ spéculatifs ombrageux et hautains enfermés loin de la
 [^p340-1]: Loc. cit. , p. 340.
 [^p340-2]: Revue pratique d'apologétique, 1er décembre 1905.
 
-[p. 341]
-
-vie réelle dans leur tour d'ivoire, ils sont nés au contact
+[p. 341] vie réelle dans leur tour d'ivoire, ils sont nés au contact
 immédiat des âmes qui souffrent et qui cherchent, ils
 ont subi le contrôle de l'expérience la plus concrète .
 Quant aux << scandales >> et aux « tempêtes », est-ce nous
@@ -15710,9 +14822,7 @@ tourner des accusations , qu'est-ce que cela prouve, en
 
 [^p341-1]: Etudes du 5 août 1905, p. 340.
 
-[p. 342]
-
-somme ? A l'heure présente, nous avons peut-être mieux
+[p. 342] somme ? A l'heure présente, nous avons peut-être mieux
 à faire que de nous disputer. Les âmes sont là, d'innom-
 brables âmes , qui souffrent, qui attendent, qui se dé-
 solent dans la détresse et dans la nuit, et qui appellent
@@ -15753,19 +14863,13 @@ participons à la même vie, nous sommes
 résolus à la même obéissance, nous communions dans
 la même prière, nous avons au cœur le même désir et
 le même amour. Par quoi donc pourrions-nous être
-séparés ? Que notre effort se conforme au vœu suprême
-
-[p. 343]
-
-de Jésus : ut sint consummati in unum ! Mais cette unité
+séparés ? Que notre effort se conforme au vœu suprême [p. 343] de Jésus : ut sint consummati in unum ! Mais cette unité
 vivante n'est pas de celles qui se réalisent d'un coup
 par contrainte sans nuances ni progrès. Et nous devons
 craindre toujours de la rapetisser à la mesure de nos
 étroitesses . Ubi Spiritus, ibi libertas .
 
-[p. 344]
-
-SCOLASTIQUE
+[p. 344] SCOLASTIQUE
 ET PHILOSOPHIE MODERNE [^p344-1].
 
 On parle souvent de la <<philosophie moderne >> comme
@@ -15790,9 +14894,7 @@ chotomies statiques inventées pour les besoins du lan-
 
 [^p344-1]: Extrait de Demain, no du 15 juin 1906. Le lecteur comprendra que je m'attaque seulement à des tendances d'es- prit. Cela n'empêche pas qu'un thomiste, par exemple, puisse être un philosophe moderne.
 
-[p. 345]
-
-gage. L'histoire ne tient pas dans une antithèse. Le
+[p. 345] gage. L'histoire ne tient pas dans une antithèse. Le
 problème philosophique ne se pose pas sous la forme
 d'un dilemme éternel. En réalité, la pensée humaine
 fait mieux qu'osciller entre deux termes extrêmes, entre
@@ -15831,11 +14933,7 @@ rien ne pourra
 faire qu'elle ne soit pas la philosophie d'il y a six cents
 ans . Pourquoi vouloir arrêter la vie de la vérité à l'un
 des stades de son développement ? C'est la tuer. Car,
-en tant qu'humaine, elle n'est pas une essence éternelle,
-
-[p. 346]
-
-SCOLASTIQUE ET PHILOSOPHIE MODERNE
+en tant qu'humaine, elle n'est pas une essence éternelle, [p. 346] SCOLASTIQUE ET PHILOSOPHIE MODERNE
 319
 
 transcendante à tout devenir. Qui cesse de progresser.
@@ -15881,9 +14979,7 @@ C'est le jour où l'on a cru devoir ainsi s'arrêter qu'est
 
 [^p346-1]: Ce sont bien, malheureusement, des sommes, non des organismes ; rien de moins homogène; on dirait un travail de marqueterie.
 
-[p. 347]
-
-né le conflit entre ce qui a continué d'être à chaque
+[p. 347] né le conflit entre ce qui a continué d'être à chaque
 époque la « pensée moderne » et ce qui est devenu
 depuis lors la « pensée ancienne », de plus en plus an-
 cienne, en effet. Le conflit ne pourra que s'aggraver
@@ -15923,9 +15019,7 @@ qu'on leur impose ce moment de la philosophie comme
 l'expression ne varietur de la vérité, comme la norme
 définitive et indiscutable de ce qui doit être à jamais
 
-[p. 348]
-
-SCOLASTIQUE ET PHILOSOPHIE MODERNE .
+[p. 348] SCOLASTIQUE ET PHILOSOPHIE MODERNE .
 351
 
 pensé. Ils se sentent, eux, en continuité avec l'École ,
@@ -15971,11 +15065,7 @@ propre définition de la vie, motus ab intrinseco, elle
 n'est plus vivante. On dirait qu'elle s'est résignée à ne
 
 Dogme et Critique
-42
-
-[p. 349]
-
-plus recevoir d'impulsion que de ses adversaires . Qu'au
+42 [p. 349] plus recevoir d'impulsion que de ses adversaires . Qu'au
 rait-elle à dire, je le demande, si, par hasard, ceux-ci
 se taisaient ? En un mot, elle apparaît stérile. Voilà
 exactement de quoi elle meurt . La parabole évangélique
@@ -16016,9 +15106,7 @@ une limite : soit en marchant toujours dans le même
 sens, soit en oscillant de part et d'autre. La seconde ma-
 mère est souvent celle de la philosophie. A mesure que
 
-[p. 350]
-
-SCOLASTIQUE ET PHILOSOPHIE MODERNE .
+[p. 350] SCOLASTIQUE ET PHILOSOPHIE MODERNE .
 353
 
 les distinctions se multiplient et deviennent plus fines,
@@ -16066,11 +15154,7 @@ timité ni toute valeur à l'attitude scolastique. Elle a
 son domaine et son rôle . Dans l'ordre du dogme , notam-
 ment, elle fournit une sorte de formulaire mathématique
 officiel, quelque chose comme un procès-verbal d'inven-
-taire, bref une description statique assez analogue à un
-
-[p. 351]
-
-règlement de police intellectuelle ;
+taire, bref une description statique assez analogue à un [p. 351] règlement de police intellectuelle ;
 et cela peut avoir
 son utilité en des questions qui ont un côté légal et ad-
 ministratif. La scolastique, en un mot, apparaît, à bien
@@ -16113,9 +15197,7 @@ nécessaire, dès lors, que de pratiquer plusieurs modes
 de limitation différents ? Nous prenons conscience des
 limites par leurs changements de place et de nature. De
 
-[p. 352]
-
-SCOLASTIQUE ET PHILOSOPHIE MODERNE .
+[p. 352] SCOLASTIQUE ET PHILOSOPHIE MODERNE .
 355
 
 là, nous apprenons
@@ -16160,13 +15242,9 @@ il
 [^p352-1]: Discours sur le bon sens et les études classiques prononcé à la distribution des prix du Concours général en 1895.
 [^p352-2]: C'est là le véritable éclectisme : éclectisme dynamique, très différent de la marqueterie statique préconisée par Cousin.
 
-[p. 353]
+[p. 353] (
 
-(
-
-[p. 354]
-
-:
+[p. 354] :
 
 SCOLASTIQUE
 ET PHILOSOPHIE MODERNE [^p354-1].
@@ -16195,9 +15273,7 @@ chotomies statiques inventées pour les besoins du lan-
 
 [^p354-1]: Extrait de Demain, no du 15 juin 1906. Le lecteur comprendra que je m'attaque seulement à des tendances d'es- prit. Cela n'empêche pas qu'un thomiste, par exemple, puisse être un philosophe moderne .
 
-[p. 355]
-
-tombe ; et la vérité, qui est esprit, lui échappe. La seule
+[p. 355] tombe ; et la vérité, qui est esprit, lui échappe. La seule
 pensée dont il soit capable, c'est une pensée militante,
 non point encore triomphante. Son lot, c'est une vérifi-
 cation progressive plutôt qu'une vérité faite. Nous som-
@@ -16238,11 +15314,7 @@ de réinterprétation perpétuelle, continuité plutôt qu'im-
 mobilité ; elle est dynamisme, durée, développement,
 passage graduel de l'implicite vécu à l'explicite formulé,
 en un mot, expérience ; elle est mémoire vivante et active
-c'est-à-dire application du passé au présent, saisie du pas-
-
-[p. 356]
-
-SCOLASTIQUE ET PHILOSOPHIE MODERNE .
+c'est-à-dire application du passé au présent, saisie du pas-[p. 356]SCOLASTIQUE ET PHILOSOPHIE MODERNE .
 357
 
 sé comme facteur du présent ; elle soutient avec l'Écri-
@@ -16264,13 +15336,9 @@ on ne connaît le mouvement que par la marche, et le
 passé ne se révèle vraiment que dans l'avenir, comme
 une impulsion ne se manifeste que dans ses effets .
 
-[p. 357]
+[p. 357] 1
 
-1
-
-[p. 358]
-
-NOTES ET DOCUMENTS.
+[p. 358] NOTES ET DOCUMENTS.
 
 NOTE I.
 
@@ -16312,9 +15380,7 @@ TILLANGES (1er juin) et du R. P. ALLO (1er août) .
 G. FONSEGRIVE, Préface pour l'année 1906, 1er janvier
 1906.
 
-[p. 359]
-
-Revue biblique :
+[p. 359] Revue biblique :
 
 J. WEHRLÉ, De la nature du dogme, juillet 1905 .
 EDOUARD LE Rov, Réponse à M. l'abbé Wehrlé, janvier
@@ -16383,9 +15449,7 @@ quiers, au besoin, d'insérer dans son prochain nu-
 méro ma réponse au P. de Grandmaison sur la
 question Qu'est-ce qu'un dogme ? »
 
-[p. 360]
-
-NOTES ET DOCUMENTS .
+[p. 360] NOTES ET DOCUMENTS .
 261
 
 Études :
@@ -16454,9 +15518,7 @@ Chez Retaux et chez Roger et Chernoviz :
 MGR TURINAZ, Une très grave question doctrinale : Ré-
 ponse à M. Edouard Le Roy, brochure, 61 pp.; Ré
 
-[p. 361]
-
--
+[p. 361] -
 ponse à M.
 l'abbé Sertillanges, brochure, 23 pp.
 Cette seconde brochure contient la reproduction d'une
@@ -16513,9 +15575,7 @@ qui ne sont au fond que des ignorants, essaient de
 quintessencier la foi et se demandent avec une an-
 goisse prétentieuse et naïve : Qu'est-ce qu'un dogme?
 
-[p. 362]
-
-NOTES ET DOCUMENTS .
+[p. 362] NOTES ET DOCUMENTS .
 363
 
 ... Jésus-Christ est-il réellement présent dans l'Eucha-
@@ -16577,9 +15637,7 @@ ancienne maîtresse, sans demander ni l'absolution ni
 la communion, et sans avoir non plus un mot de prière
 pour la Sainte Vierge. C'est pour cela qu'il est le saint. »
 
-[p. 363]
-
-NOTE II .
+[p. 363] NOTE II .
 
 Voici quelques indications bibliographiques touchant
 ceux de mes autres écrits qui se rapportent plus ou
@@ -16591,7 +15649,7 @@ si l'on veut établir
 avec précision ce qu'on pourrait appeler le milieu phi-
 losophique du livre actuel .
 
-REVUE DE MÉTAPHYSIQUE ET DE MORALE :
+*REVUE DE MÉTAPHYSIQUE ET DE MORALE* :
 Science et Philosophie, juillet, septembre, novembre 1899,
 janvier 1900 : I Les données du sens commun, I ! L'or-
 ganisation scientifique, III L'intuition philosophique.
@@ -16639,9 +15697,7 @@ contemporaine, séance du 30 janvier 1902 .
 La notion de liberté morale, séance du 26 février 1903 .
 Idéalisme et Positivisme, séance du 25 février 1904 .
 
-[p. 364]
-
-NOTES ET DOCUMENTS
+[p. 364] NOTES ET DOCUMENTS
 255
 
 NOTE III ,
@@ -16713,11 +15769,7 @@ un ensemble de spéculations philosophiques :
 λογος, forma,
 etc. L'Église ne les accepte, ou ne les impose, que dans leur
 sens général, et purifiées des conceptions systématiques qui
-s'y sont comme incrustées. Confesser que Jésus est le Verbe
-
-[p. 365]
-
-n'est nullement, pour un chrétien, accepter la notion infini-
+s'y sont comme incrustées. Confesser que Jésus est le Verbe [p. 365] n'est nullement, pour un chrétien, accepter la notion infini-
 ment complexe, et parfois contradictoire, qu'entendaient sous
 ce mot les Stoïciens ou Philon. En adoptant ce terme, l'Église
 indique seulement que l'idée première alors suggérée par lui,
@@ -16765,9 +15817,7 @@ sans se voir imposer pour cela une philosophie particulière.
 Or, comme tout le monde- je veux dire les gens compétents
 - j'ai répondu simplement : Oui.
 
-[p. 366]
-
-NOTES ET DOCUMENTS .
+[p. 366] NOTES ET DOCUMENTS .
 267
 
 -
@@ -16828,11 +15878,7 @@ me paraît dire trop ou trop peu, et distinguer sans raison suf-
 fisante les sciences de la nature des sciences supérieures dont
 
 Dogme et Critique
-25
-
-[p. 367]
-
-le cas est tout pareil, au regard de notre problème. Je dirais,
+25 [p. 367] le cas est tout pareil, au regard de notre problème. Je dirais,
 quant à moi, que la Révélation peut avoir pour objet, en
 certain cas, de nous apprendre la géologie ou l'astronomie
 tout autant que la métaphysique, le tout pouvant avoir rap-
@@ -16879,9 +15925,7 @@ vons digne de nous de proposer aux hommes la vie divine
 avec, pour condition, l'adhésion à nos propres pensées ou à
 nos traditions de famille.
 
-[p. 368]
-
-NOTES ET DOCUMENIS .
+[p. 368] NOTES ET DOCUMENIS .
 369
 
 NOTE V.
@@ -16949,11 +15993,7 @@ que l'on expérimente, que l'on élabore les faits, et au sein
 d'une théorie mobile, changeante, plastique, partiellement in-
 déterminée encore. Le fait, d'abord, doit avoir une significa-
 tion par rapport à la théorie, être suscité par elle, appelé,
-évoqué par ses besoins et ses exigences ; bref il ne se définit
-
-[p. 369]
-
-qu'en elle et par elle. D'autre part, il faut que la théorie ne
+évoqué par ses besoins et ses exigences ; bref il ne se définit [p. 369] qu'en elle et par elle. D'autre part, il faut que la théorie ne
 soit pas un bloc indéformable, un cadre rigide qu'on ne
 puisse que prendre ou laisser. L'épreuve expérimentale d'une
 théorie par les faits est nutrition et développement, non pas
@@ -17001,9 +16041,7 @@ de mauvaises, il y en a qui
 éclairent et d'autres qui sont
 négligeables , les deux cas comportant la même netteté de cons
 
-[p. 370]
-
-NOTES ET DOCUMENTS .
+[p. 370] NOTES ET DOCUMENTS .
 1
 
 tatation sensible : n'est-ce pas la preuve qu'un fait scientifique
@@ -17054,11 +16092,7 @@ où l'esprit, par conséquent, serait passif et se bornerait à
 enregistrer es orddres venus de l'extérieur. Cette conception
 ne correspond nullement à la réalité des choses. La science
 ne connaît pas le fait en soi, mais seulement le fait relatif à
-un système théorique. Les faits, pour elle, ne sont pas définis-
-
-[p. 371]
-
-sables abstraitement, mais seulement dans et par le système
+un système théorique. Les faits, pour elle, ne sont pas définis-[p. 371]sables abstraitement, mais seulement dans et par le système
 qui les produit et se les assimile. Aussi n'existe-t-il à ses yeux
 que des faits qualifiés
 faits mathématiques, physiques, chi-
@@ -17113,9 +16147,7 @@ Maintenant le fait, une fois né, ne révèle pas d'un seul coup
 la totalité de son contenu. Notre vue n'est pas si perçante.
 Ce n'est que peu à peu que le fait laisse voir complètement
 
-[p. 372]
-
-NOTES ET DOCUMENTS .
+[p. 372] NOTES ET DOCUMENTS .
 373
 
 à quelles exigences implicites antérieures il répond, de quel-
@@ -17179,11 +16211,7 @@ avions quelque idée... L'idée d'une réalité à jamais inacces-
 sible à la pensée est donc équivoque. C'est pour l'esprit un
 moyen de se faire illusion à lui-même ...
 
-Voici maintenant le passage similaire que j'ai à mon
-
-[p. 373]
-
-tour écrit
+Voici maintenant le passage similaire que j'ai à mon [p. 373] tour écrit
 (Bulletin de la Société française de Philo-
 sophie, séance du 25 février 1904, p. 154 et 155) :
 
@@ -17242,9 +16270,7 @@ absolu ? De
 deux choses l'une : ou bien le nom qu'on lui donnera sera
 un nom propre qu'on ne tentera aucunement de définir, et à
 
-[p. 374]
-
-NOTES ET DOCUMENTS ,
+[p. 374] NOTES ET DOCUMENTS ,
 375
 
 ce nom ne correspondra dès lors qu'un néant de pensée, un
@@ -17291,15 +16317,13 @@ fais ainsi l'unité du moi autour de l'idée d'action, c'est pour
 exprimer ce fait que la lumière même qui nous guide est notre
 œuvre, une œuvre lentement accomplie et toujours inachevée,
 une œuvre qui se modifie sans cesse, bien loin de rester
-éternelle et immuable dans un absolu a priori. J'évite peut-
+éternelle et immuable dans un absolu *a priori*. J'évite peut-
 être de cette manière les inconvénients du mot pensée ou
 raison qui tend toujours par une pente fatale à nous incliner
 vers un intellectualisme rigide uniquement attentif au corps
 de la raison ou de la pensée, je veux dire au discours.
 
-[p. 375]
-
-D'ailleurs, en choisissant ce terme d'action dont on n'use pas
+[p. 375] D'ailleurs, en choisissant ce terme d'action dont on n'use pas
 d'habitude pour désigner une faculté, je voudrais faire en-
 tendre que je ne songe pas du tout à soutenir une philo-
 sophie de la volonté ou du sentiment en face de cette
@@ -17353,7 +16377,7 @@ la valeur, la portée de mon doute, sur l'affirmation qu'il im-
 plique et par laquelle il se limite, n'ai-je pas dû poser ce
 doute même à titre d'acte vécu ? La pensée réfléchie ne peut
 pas se penser elle-même comme première, comme fondement
-a priori de tout, se suffisant à soi-même et ne présupposant
+*a priori* de tout, se suffisant à soi-même et ne présupposant
 rien. Non,
 elle
 se juge
@@ -17362,9 +16386,7 @@ seconde. Avant la
 pensée réfléchie, il y a la réflexion de la pensée ; avant cette
 réflexion même, il y a la position initiale...
 
-[p. 376]
-
-NOTES ET DOCUMENTS .
+[p. 376] NOTES ET DOCUMENTS .
 377
 
 Si l'on admet que l'esprit ne possède pas d'autre pouvoir
@@ -17417,9 +16439,7 @@ Telle la
 vous laissant le soin de les traduire dans la langue philosophique d'au-
 jourd'hui.
 
-[p. 377]
-
-géométrie. C'est l'exemple qu'emprunte P. Auréolus. Quelle
+[p. 377] géométrie. C'est l'exemple qu'emprunte P. Auréolus. Quelle
 que soit l'origine et la valeur réelle des idées, le contenu de
 toute science est abstrait, ses principes sont évidents . Hors
 le cas de folie, personne ne se croit libre de refuser ses
@@ -17468,9 +16488,7 @@ cursives, même scolastiques et subtiles, demeurent marquées
 du sceau de leur libre origine. L'école les maintient en dehors
 de tout classement scientifique.
 
-[p. 378]
-
-NOTES ET DOCUMENTS .
+[p. 378] NOTES ET DOCUMENTS .
 370
 
 Une conséquence, considérable à votre point de vue,
@@ -17537,11 +16555,7 @@ mystère persiste à demeurer mystérieuse.
 Les principes du
 probabilisme trouveront alors leur application et c'est par eux
 qu'il faudra conclure.
-L'Église peut condamner l'école franciscaine et les autres
-
-[p. 379]
-
-écoles scolastiques au profit du seul thomisme. Elle peut
+L'Église peut condamner l'école franciscaine et les autres [p. 379] écoles scolastiques au profit du seul thomisme. Elle peut
 aussi
 bien imposer la thèse
 probabilioriste.
@@ -17585,7 +16599,7 @@ Frassen que j'ai faites plus haut (p. 124). Elles sont
 extraites de l'ouvrage intitulé : SCOTUS ACADEMICUS ,
 SEU UNIVERSA DOCTORIS SUBTILIS THEOLOGICA DOG-
 MATA , auctore R. P. Claudio Frassen, Paris, 1672, 3 vol .
-in-folio.
+*in-folio*.
 
 NOTE IX.
 
@@ -17612,9 +16626,7 @@ dupe, chez les catholiques, lorsqu'on s'imagine résoudre l'an-
 tinomie des deux positions orthodoxie et libéralisme ; puis il
 ajoutait : «Je ne saurais souscrire au jugement de ceux qui.
 
-[p. 380]
-
-NOTES ET DOCUMENT
+[p. 380] NOTES ET DOCUMENT
 81
 
 tenant M.M. Tyrrell ou Édouard Le Roy, par exemple, pour
@@ -17679,9 +16691,7 @@ je ne veux à aucun degré. Parler net me paraît un devoir de
 sincérité; et puisque vous voulez bien m'en offrir l'occasion,
 c'est ce que je vais faire.
 
-[p. 381]
-
-Je suis et resterai de ceux qui « obéissent ». Ma volonté
+[p. 381] Je suis et resterai de ceux qui « obéissent ». Ma volonté
 expresse est d'appartenir toujours au corps de l'Église, non
 pas seulement à son âme. Quoi qu'on fasse d'un côté ou de
 l'autre, i'entends vivre et mourir dans la communion romaine,
@@ -17727,9 +16737,7 @@ de césarisme spirituel. A cet égard, les << clameurs fanatiques >>>
 de quelques-uns ne doivent pas nous empêcher d'entendre la
 voix authentique de la tradition.
 
-[p. 382]
-
-NOTES ET DOCUMENTS ,
+[p. 382] NOTES ET DOCUMENTS ,
 383
 
 Qu'à prendre une telle attitude on ait à supporter plus d'un
@@ -17796,9 +16804,7 @@ Dogme et Critique
 
 26
 
-[p. 383]
-
-TABLE ANALYTIQUE.
+[p. 383] TABLE ANALYTIQUE.
 
 Action: 30, 34, 58-59, 85-86, 94, 101-
 104, 112-113, 114, 128, 158 , 287-
@@ -17908,11 +16914,7 @@ Expérience : 8, 9-10, 29-31, 85, 134,
 315, 327, note v.
 Extrinsécisme : 9-10, 12, 63, 306-
 309, 320 321, 327, note V.
-Faits(Naturedes-et comparaison
-
-[p. 384]
-
-des dogmes aux -) : 10, 27, 30,
+Faits(Naturedes-et comparaison [p. 384] des dogmes aux -) : 10, 27, 30,
 95, 104, 226, 273, 286-288, 316,
 334, notes IV et v.
 Fénelon : IX.
@@ -18042,9 +17044,7 @@ dela-) : 10-12, 22-23, 26, 31-33,
 83, 91-93, 95, 113, 115-116, 118-
 119, 152-153, 234, 256-257, 260-
 
-[p. 385]
-
-262, 269-271, 274-285, 313-314,
+[p. 385] 262, 269-271, 274-285, 313-314,
 notes III et IV.
 PieIX: 132, 305, 328.
 Platon : 275, 350.
@@ -18149,9 +17149,7 @@ Wehrlé : 45-87, 94, 263, 304, 306.
 Wilbois : 278.
 Zeiller: 265.
 
-[p. 386]
-
-Préface.
+[p. 386] Préface.
 •
 
 TABLE DES MATIÈRES.

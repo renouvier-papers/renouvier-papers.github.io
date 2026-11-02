@@ -10,9 +10,7 @@ title: "Étude critique sur la mécanique"
 
 ---
 
-[p. 87]
-
-ÉTUDE CRITIQUE
+[p. 87] ÉTUDE CRITIQUE
 
 SUR LA MÉCANIQUE
 
@@ -28,9 +26,7 @@ Notion et mesure du temps.
 
 Mouvement.[^p87-1][^p87-2]
 
-[p. 88]
-
-de cette figure varient : la figure en question forme les repères et comme sa forme n'a pas d'importance, nous supposerons que cette figure consiste en trois axes de coordonnées ox, oy, oz. Le lieu géométrique des diverses positions du point m par rapport aux axes est la trajectoire T de ce point.
+[p. 88] de cette figure varient : la figure en question forme les repères et comme sa forme n'a pas d'importance, nous supposerons que cette figure consiste en trois axes de coordonnées ox, oy, oz. Le lieu géométrique des diverses positions du point m par rapport aux axes est la trajectoire T de ce point.
 
 3. Supposons maintenant que le système d'axes oxyz par rapport auquel on a déterminé la trajectoire T du mobile se déplace lui-même par rapport à un second système d'axes o'x'y'z', le même mobile décrira par rapport à ces nouveaux axes une nouvelle trajectoire T'qui, d'ailleurs, se déduira géométriquement de la première si la loi du déplacement de oxyz par rapport à o'x'y'z' est connue. Il ne faut donc jamais perdre de vue que la trajectoire d'un mobile est relative à un système d'axes oxyz ; la première chose à faire dans une question de mouvement, est donc d'indiquer les axes que l'on choisit.
 
@@ -38,9 +34,7 @@ de cette figure varient : la figure en question forme les repères et comme sa f
 
 Notion du Temps.[^p88-1][^p88-2]
 
-[p. 89]
-
-constitue pour nous la notion même du temps ; insistons un peu sur ce point.
+[p. 89] constitue pour nous la notion même du temps ; insistons un peu sur ce point.
 
 Dans l'univers, les positions successives des mobiles se révèlent à nous par l'intermédiaire des sens ; c'est ainsi, par exemple, que nous voyons les diverses positions des astres lumineux ; chaque position correspond donc pour nous à une sensation, de sorte que la simultanéité et la successivité des positions ne sont pas autre chose que la simultanéité et la successivité des sensations correspondantes centralisées et comparées entre elles par notre cerveau. L'idée même du temps est donc inhérente au mode de fonctionnement de notre cerveau et n'a de sens que pour des esprits faits comme le nôtre.
 
@@ -58,15 +52,11 @@ De même si nous considérons n mobiles, on peut déterminer de la même façon,
 
 de là n- 1 équations entre les arcs décrits simultanément par ces n mobiles.
 
-#### M
 
-#### M
 
 T[^p89-1]
 
-[p. 90]
-
-teur OM prend une valeur déterminée pour chaque position du mobile ; de même, l'aire décrite par ce rayon vecteur, l'angle M.OM, le rayon de courbure de la trajectoire en M sont autant de grandeurs variables qui, comme l'arc MM, prennent des valeurs déterminées pour chaque position M.
+[p. 90] teur OM prend une valeur déterminée pour chaque position du mobile ; de même, l'aire décrite par ce rayon vecteur, l'angle M.OM, le rayon de courbure de la trajectoire en M sont autant de grandeurs variables qui, comme l'arc MM, prennent des valeurs déterminées pour chaque position M.
 
 Donc, toutes les grandeurs qui se rattachent au mouvement varient simultanément, ainsi que les arcs de trajectoires ; le fait de la simultanéité équivaut donc, pour ces grandeurs, à n équations, n étant le nombre de ces grandeurs.
 
@@ -92,11 +82,7 @@ Le mot conditions est peut-être un peu vague, mais il n'est évidemment questio
 
 Il faut donc, d'après cela, pour mesurer le temps, constater l'identité de ces diverses grandeurs dans deux mouvements non simultanés : or, cette constatation est impossible pour la vitesse, l'accélération et les autres grandeurs qui en dérivent, puisqu'on ne peut mesurer des vitesses, par exemple, qu'à la condition d'avoir une mesure du temps.
 
-Mais on objectera peut-être qu'il suffit, dans les deux mouvements en question, de constater l'identité des forces en jeu : re
-
-[p. 91]
-
-marquons d'abord que cette constatation ne peut se faire statiquement ; les deux mouvements, en effet, ne sont pas simultanés ;
+Mais on objectera peut-être qu'il suffit, dans les deux mouvements en question, de constater l'identité des forces en jeu : re [p. 91] marquons d'abord que cette constatation ne peut se faire statiquement ; les deux mouvements, en effet, ne sont pas simultanés ;
 
 or, la statique n'étudie que des forces qui se produisent à la fois, simultanément. Ainsi, on peut constater statiquement que deux poids sont égaux, à un même instant, qu'ils seront encore égaux entre eux à l'instant suivant, mais non pas que dans ce second instant ils sont respectivement égaux à ce qu'ils étaient dans le premier.
 
@@ -112,11 +98,7 @@ Il suit de là qu'il n'est possible, d'aucune façon, de s'assurer que les deux 
 
 or cet instrument est toujours un appareil qui reproduit une série de mouvements successifs supposés identiques entre eux : mais c'est précisément ce qui n'aurait pas lieu si la vitesse de rotation de la terre n'était pas constante ; il y a donc là un véritable cercle vicieux.
 
-10. En résumé, dans l'état actuel de la science, le choix de l'angle de la rotation terrestre comme mesure du temps n'est pas justifié ; on peut donc se demander si ce choix est nécessaire et ce que deviendrait la mécanique s'il était différent. Dans cet ordre d'idées, la question se pose de la façon suivante : soit n le nombre
-
-[p. 92]
-
-des grandeurs qui varient simultanément dans les mouvements que nous offre l'univers ; ces n grandeurs sont liées entre elles par n
+10. En résumé, dans l'état actuel de la science, le choix de l'angle de la rotation terrestre comme mesure du temps n'est pas justifié ; on peut donc se demander si ce choix est nécessaire et ce que deviendrait la mécanique s'il était différent. Dans cet ordre d'idées, la question se pose de la façon suivante : soit n le nombre [p. 92] des grandeurs qui varient simultanément dans les mouvements que nous offre l'univers ; ces n grandeurs sont liées entre elles par n
 
 1 équations (7) ; ces équations varient d'abord suivant les axes de coordonnées choisis comme repères ; de plus, si on suppose ces n — 1 équations résolues par rapport à l'une des n grandeurs prise comme variable principale, la forme des équations change suivant qu'on adopte felle ou telle variable principale : existe-t-il un système d'axes et une variable pour lesquels ces équations présentent une forme plus particulièrement remarquable ? Si cela a lieu, nous serons en droit de choisir le système d'axes et la variable qui donnent lieu à cette particularité et ce choix sera ainsi justifié et défini à la fois. Nous allons done étudier la mécanique à ce point de vue, c'est-à-dire sans choisir à priori ni les axes de coordonnées, ni la variable principale destinée à mesurer le temps et nous verrons si, dans le cours de cette étude, nous sommes amené à faire un choix particulier.
 
@@ -130,11 +112,7 @@ La mécanique ainsi comprise peut se définir comme il suit :
 
 Des points se déplacent par rapport à un système d'axes de telle façon qu'ils prennent des positions déterminées pour chaque position de l'un d'entre eux, étudier les variations des diverses grandeurs qui se rattachent à ces déplacements.
 
-Quant à la correspondance des points mobiles, elle peut résulter, soit de lois géométriques, soit d'équations auxquelles doivent
-
-[p. 93]
-
-satisfaire les mouvements des points ; mais ces lois géométriques ou ces équations sont toujours supposées exister, car sans cela il n'y aurait que des mouvements indépendants les uns des autres et ce ne serait plus une question de mécanique : en un mot la mécanique consiste dans l'étude des mouvements entre lesquels il existe une dépendance.
+Quant à la correspondance des points mobiles, elle peut résulter, soit de lois géométriques, soit d'équations auxquelles doivent [p. 93] satisfaire les mouvements des points ; mais ces lois géométriques ou ces équations sont toujours supposées exister, car sans cela il n'y aurait que des mouvements indépendants les uns des autres et ce ne serait plus une question de mécanique : en un mot la mécanique consiste dans l'étude des mouvements entre lesquels il existe une dépendance.
 
 12. Avant d'aborder la mécanique proprement dite, nous allons examiner une question qui, en réalité, appartient à la géométrie, mais qui se rattache à la mécanique par ses applications les plus importantes, nous voulons parler de la composition des segments de droite.
 
@@ -194,7 +172,6 @@ A
 
 A2
 
-#### M
 
 A
 
@@ -218,9 +195,7 @@ Théorème.
 
 La projection de la résultante sur une droite est la somme algébrique des projections des segments sur cette droite.
 
-[p. 95]
-
-Soient X, Y, Z, les projections du segment A, sur les axes, R. Ry R₂ les projections de R ; on a d'après cela :
+[p. 95] Soient X, Y, Z, les projections du segment A, sur les axes, R. Ry R₂ les projections de R ; on a d'après cela :
 
 R₁ = X + X +
 
@@ -282,9 +257,7 @@ Z₁ + Z + Z3 +
 
 = Z, ' + Z,' + Z,' +...[^p95-1][^p95-3]
 
-[p. 96]
-
-La relation M
+[p. 96] La relation M
 
 N exprime que les deux segments Met N sont égaux, parallèles et de même sens ; de plus, s'ils ont même origine, ils coïncident.
 
@@ -354,7 +327,6 @@ C = A +
 
 B + µС₁. Се théorème permet de combiner des systèmes ayant deux à deux même résultante, de façon à en obtenir deux autres ayant encore même résultante.
 
-#### C
 
 Cette notation nous sera d'une grande utilité dans toute la mécanique.
 
@@ -362,9 +334,7 @@ Cette notation nous sera d'une grande utilité dans toute la mécanique.
 
 Moment des segments.[^p96-1]
 
-[p. 97]
-
-du segment A par la notation μ(A) ; le moment µ(A) est égal en grandeur au double de l'aire du triangle mOn.
+[p. 97] du segment A par la notation μ(A) ; le moment µ(A) est égal en grandeur au double de l'aire du triangle mOn.
 
 Nous tirons de cette définition les conséB
 
@@ -410,7 +380,6 @@ P
 
 a
 
-#### C
 
 m
 
@@ -428,7 +397,6 @@ parallèle à OZ, soit quand A rencontre OZ, ou enfin quand A est nul.
 
 0
 
-#### X
 
 Soit OB égal au moment µ.(A) par rapport à l'origine des coordonnées ; si ux (A), μµy (A) et μ₂ (A) sont Y les moments de A par rapport aux trois axes, μ..(Α), μy (A) et μ₂(A)
 
@@ -436,11 +404,7 @@ SOC. DES SCIENCES.
 
 1881.
 
-7
-
-[p. 98]
-
-sont, d'après ce qui précède, les projections du segment μ (A) sur ces trois axes : on en déduit ce théorème :
+7 [p. 98] sont, d'après ce qui précède, les projections du segment μ (A) sur ces trois axes : on en déduit ce théorème :
 
 Théorème.
 
@@ -462,7 +426,6 @@ notation μ (Α, A, A,...) et nous aurons ainsi :
 
 μιγ
 
-#### M
 
 (A.
 
@@ -500,9 +463,7 @@ Théorème.
 
 - Pour que deux systèmes de segments aient même moment en un point O, il faut et il suffit qu'ils aient même moment par rapport aux trois axes OX, OY, OZ.
 
-[p. 99]
-
-20. Soit S un système de segments dont R est la résultante de translation et μ (S) le moment par rapport à un point O d'ailleurs quelconque : soit S, un autre système se déduisant de S par l'adjonction de deux segments B et-B placés sur une même droite, égaux et de signe contraire ; dans le polygone de composition qui donne la résultante de translation
+[p. 99] 20. Soit S un système de segments dont R est la résultante de translation et μ (S) le moment par rapport à un point O d'ailleurs quelconque : soit S, un autre système se déduisant de S par l'adjonction de deux segments B et-B placés sur une même droite, égaux et de signe contraire ; dans le polygone de composition qui donne la résultante de translation
 
 B
 
@@ -522,9 +483,7 @@ Nous allons maintenant chercher à ramener un système de segments au système l
 
 § 3. — Segments concourants et parallèles. Couples.[^p99-1]
 
-[p. 100]
-
-quelconque O de ce plan est égal au moment µ(R) de la résultante R par rapport à 0 : comme, de plus, μ (S) et μ. (R) sont dirigés suivant la normale en O à ce plan, ils sont égaux en grandeur, direction et sens.
+[p. 100] quelconque O de ce plan est égal au moment µ(R) de la résultante R par rapport à 0 : comme, de plus, μ (S) et μ. (R) sont dirigés suivant la normale en O à ce plan, ils sont égaux en grandeur, direction et sens.
 
 Théorème.
 
@@ -592,11 +551,7 @@ A3
 
 Théorème.
 
-Théorème. — Quand on projette sur un plan un système de segments parallèles de centre G, on obtient en projection un
-
-[p. 101]
-
-second système de segments parallèles dont le centre est la projection de G.
+Théorème. — Quand on projette sur un plan un système de segments parallèles de centre G, on obtient en projection un [p. 101] second système de segments parallèles dont le centre est la projection de G.
 
 De même, quand on projette des segments parallèles sur une droite, le centre G se projette suivant le centre des segments projetés.
 
@@ -622,9 +577,7 @@ Cette résultante de translation R qui passe par le centre des segments parallè
 
 Bien entendu, les segments parallèles dont nous venons de parler ne sont pas nécessairement de même sens.[^p101-1]
 
-[p. 102]
-
-conque, la condition d'égalité des résultantes étant toujours remplie, puisque ces résultantes sont nulles.
+[p. 102] conque, la condition d'égalité des résultantes étant toujours remplie, puisque ces résultantes sont nulles.
 
 Le sens d'un couple A, A, dépend du sens des segments A, et A. ; l'aire du couple est l'aire du parallélogramme a bab₂, aire qui reste constante quand on fait glisser les segments suivant leur direction ; cette aire est égale à hh' × A,.
 
@@ -668,7 +621,6 @@ Z
 
 0
 
-#### X
 
 a
 
@@ -722,11 +674,7 @@ effet, transportons C parallèlement à
 
 lui-même de façon que le point a,
 
-A2 vienne en 0 ; la nouvelle position C'du couple est, d'après le théo
-
-[p. 103]
-
-rème précédent, équivalente à la position primitive C ; or le moment de C'par rapport à O se réduit au moment du segment a,' b ', puisque l'autre segment passe par 0.
+A2 vienne en 0 ; la nouvelle position C'du couple est, d'après le théo [p. 103] rème précédent, équivalente à la position primitive C ; or le moment de C'par rapport à O se réduit au moment du segment a,' b ', puisque l'autre segment passe par 0.
 
 Par suite, le moment de C'ou de C est perpendiculaire au plan Oa,' b ', c'est-à-dire au plan de Cet égal au double de l'aire du triangle Oa,' b ', c'est-à-dire à l'aire du couple C ; d'où ce théorème
 
@@ -748,9 +696,7 @@ Théorème.
 
 Réduction d'un système de segments.[^p103-1]
 
-[p. 104]
-
-On peut dans le plan IA, décomposer A, en deux segments, l'un a, suivant li et l'autre b, situé dans le plan P ; A, sera alors
+[p. 104] On peut dans le plan IA, décomposer A, en deux segments, l'un a, suivant li et l'autre b, situé dans le plan P ; A, sera alors
 
 remplacé par ses deux composantes a, et
 
@@ -802,11 +748,7 @@ Ce point étant unique, on en déduit immédiatement cet autre théorème :
 
 Théorème.- Si dans la réduction d'un système à deux segments, on laisse le plan P fixe en faisant varier le point I, la résultante R, qui passe par I passe toujours par le foyer F du plan P.
 
-30. Le second moyen de réduire un système résulte de la théorie des couples : prenons un point O quelconque dans l'espace ; en ce point menons deux segments A, ' et — A₁ ' égaux et parallèles au segment A, du système ; le système reste ainsi équivalent à lui-même : procédons de même pour tous les autres segments ; nous avons finalement : 1º les segments comme A', qui
-
-[p. 105]
-
-sont les segments mêmes du système transportés parallèlement en O et qui ont une résultante unique R, laquelle n'est autre que la résultante de translation du système ; 2° les couples comme
+30. Le second moyen de réduire un système résulte de la théorie des couples : prenons un point O quelconque dans l'espace ; en ce point menons deux segments A, ' et — A₁ ' égaux et parallèles au segment A, du système ; le système reste ainsi équivalent à lui-même : procédons de même pour tous les autres segments ; nous avons finalement : 1º les segments comme A', qui [p. 105] sont les segments mêmes du système transportés parallèlement en O et qui ont une résultante unique R, laquelle n'est autre que la résultante de translation du système ; 2° les couples comme
 
 A₁ ' A, qui peuvent être remplacés par un couple unique C.
 
@@ -842,11 +784,7 @@ on a donc µ (C) + μ (R) / μ(C) + μ (R) + μ (ρ), c'est-à-dire μ(ρ)
 
 = 0 ; on verrait de même que le moment de p en O, est nul ; μ (ρ)
 
-étant nul pour les deux points O₂, O, il faut nécessairement que psoit nul, carp passant par 0, ne peut passer à la fois par O, et O,,
-
-[p. 106]
-
-puisque les points 0,, 0, et O, ne sont pas en ligne droite ; pétant nul, on a R
+étant nul pour les deux points O₂, O, il faut nécessairement que psoit nul, carp passant par 0, ne peut passer à la fois par O, et O,, [p. 106] puisque les points 0,, 0, et O, ne sont pas en ligne droite ; pétant nul, on a R
 
 R' ; dès lors les deux systèmes ont même résultante de translation et même moment en 0 ; par suite, ils sont équivalents.
 
@@ -900,11 +838,7 @@ et R, C sont ainsi équivalents au système primitif et par conséquent entre eu
 
 0
 
-Y
-
-[p. 107]
-
-donc aussi µ.(C, R) = 0 ; mais R est la résultante de translation de R, et R, ; il en résulte que R₁, R, et R sont parallèles à un même plan auquel X est nécessairement perpendiculaire ; dès lors X est aussi perpendiculaire à R et par suite à μ (C) ; μ (C) étant perpendiculaire à Χ, μ..(C) qui est la projection de µ(C) sur X est nul et l'on a µ. (R, C) = μ. (R) = 0 ; or R n'est ni nul ni parallèle à X, donc R rencontre X. De là ce théorème :
+Y [p. 107] donc aussi µ.(C, R) = 0 ; mais R est la résultante de translation de R, et R, ; il en résulte que R₁, R, et R sont parallèles à un même plan auquel X est nécessairement perpendiculaire ; dès lors X est aussi perpendiculaire à R et par suite à μ (C) ; μ (C) étant perpendiculaire à Χ, μ..(C) qui est la projection de µ(C) sur X est nul et l'on a µ. (R, C) = μ. (R) = 0 ; or R n'est ni nul ni parallèle à X, donc R rencontre X. De là ce théorème :
 
 Théorème.
 
@@ -934,9 +868,7 @@ Théorème. — Lorsque quatre plans passent par une droite L₁, le rapport anh
 
 Ainsi que nous l'avons dit, il s'agit là d'un cas particulier des figures corrélatives ; ce qui le distingue du cas général, c'est que le point qui correspond à un plan est situé dans ce plan, puisqu'il en est le foyer.
 
-[p. 108]
-
-CHAPITRE
+[p. 108] CHAPITRE
 
 Cinématique.
 
@@ -960,7 +892,6 @@ même de la mécanique
 
 (1[^p108-1], toutes les gran2
 
-#### M
 
 #### V
 
@@ -988,7 +919,6 @@ principale ; la longueur
 
 0
 
-#### X
 
 Y.
 
@@ -996,9 +926,7 @@ s de l'arc parcouru M.M est donc liée à t par une équation de la forme :
 
 s = f(t).
 
-[p. 109]
-
-36. On a souvent à étudier en mécanique des segments comme v,, variables et mobiles ; il est commode de transporter ces segments parallèlement à eux-mêmes en un point fixe, par exemple à l'origine des coordonnées.
+[p. 109] 36. On a souvent à étudier en mécanique des segments comme v,, variables et mobiles ; il est commode de transporter ces segments parallèlement à eux-mêmes en un point fixe, par exemple à l'origine des coordonnées.
 
 De cette façon, le point initial devient fixe, et l'autre extrémité du segment décrit une courbe à laquelle nous donnerons le nom général d'indicatrice.
 
@@ -1010,9 +938,7 @@ De même, si l'on prend l'indicatrice que décrit l'extrémité libre de v, tran
 
 C'est ainsi que l'on définit les vitesses des différents ordres du point M par rapport à t : quand il s'agira de la première vitesse, nous dirons simplement la vitesse du point.[^p109-1]
 
-[p. 110]
-
-riable est sans influence sur les vitesses, c'est lorsqu'on at = kt',
+[p. 110] riable est sans influence sur les vitesses, c'est lorsqu'on at = kt',
 
 ds
 
@@ -1036,7 +962,6 @@ vitesse de M sera la vitesse du point V,
 
 extrémité de la vitesse v transportée en 0 ;
 
-#### M
 
 #### V
 
@@ -1074,9 +999,7 @@ dt
 
 Réciproquement, quand la vitesse est constante, l'équation du mouvement est du premier degré en t.
 
-[p. 111]
-
-Dans ce mouvement, les arcs décrits sont proportionnels aux variations correspondantes de t.
+[p. 111] Dans ce mouvement, les arcs décrits sont proportionnels aux variations correspondantes de t.
 
 40. Projetons la trajectoire d'un point M sur un plan, le plan des XY, par exemple ; soient ds l'élément de trajectoire correspondant à la variation dt de la variable et ds'la projection de ds ;
 
@@ -1108,9 +1031,7 @@ Dans le mouvement projeté, les vitesses d'ordre quelconque sont respectivement 
 
 Ce théorème est vrai, qu'on projette sur un plan ou sur une droite.[^p111-1]
 
-[p. 112]
-
-Supposons, en particulier, que l'origine des coordonnées soit un point O de la trajectoire ; prenons, de plus, la tangente en O
+[p. 112] Supposons, en particulier, que l'origine des coordonnées soit un point O de la trajectoire ; prenons, de plus, la tangente en O
 
 comme axe des X et le plan osculateur comme plan des XY, OY étant
 
@@ -1120,7 +1041,6 @@ ainsi la normale principale ; cherchons l'accélération j du mobile en
 
 Z
 
-#### X
 
 dx d'y
 
@@ -1130,7 +1050,6 @@ dt
 
 et
 
-#### M
 
 des trois accélérations
 
@@ -1266,9 +1185,7 @@ dt done finalement
 
 d
 
-[p. 113]
-
-C'est ce qu'on appelle l'accélération normale.
+[p. 113] C'est ce qu'on appelle l'accélération normale.
 
 D'après cela, l'accélération du mobile en O est la diagonale d'un rectangle construit sur OX et OY et ayant pour côtés
 
@@ -1332,9 +1249,7 @@ Théorème. — La trajectoire d'un mobile et son mouvement sur cette trajectoir
 
 et, pour une valeur particulière de t, sa position ainsi que ses (n — 1) premières vitesses.[^p113-1]
 
-[p. 114]
-
-Portons NN'en MN, sur vn + 1 ; on voit alors que vn'est la résultante de va et de MN, ou v₂ + 1 dt, Un + 1 dt ayant, bien entendu, la direction de vn + 1.
+[p. 114] Portons NN'en MN, sur vn + 1 ; on voit alors que vn'est la résultante de va et de MN, ou v₂ + 1 dt, Un + 1 dt ayant, bien entendu, la direction de vn + 1.
 
 On a donc :
 
@@ -1408,9 +1323,7 @@ Lorsqu'il s'agit d'un mouvement s'exécutant dans un plan Pet que le point O est
 
 puisque les moments s'ajoutent au lieu de se composer : toutes les indicatrices comme u se confondent alors avec la normale OZ.
 
-[p. 115]
-
-44. Soit M, la position initiale du mobile M sur sa trajectoire T, prenons les arcs Mom, mm, mm3..., qui correspondent à une variation très petite dt de la variable t, et menons les rayons vecteurs OM., Om,, Om,, etc. ; nous représenterons, suivant l'usage, les aires triangun'
+[p. 115] 44. Soit M, la position initiale du mobile M sur sa trajectoire T, prenons les arcs Mom, mm, mm3..., qui correspondent à une variation très petite dt de la variable t, et menons les rayons vecteurs OM., Om,, Om,, etc. ; nous représenterons, suivant l'usage, les aires triangun'
 
 Z
 
@@ -1422,7 +1335,6 @@ N
 
 T
 
-#### M
 
 m
 
@@ -1430,11 +1342,9 @@ ma
 
 ma
 
-#### M
 
 n ;
 
-#### M
 
 na triangles et proportionnels à leurs surfaces. Compoກ 2
 
@@ -1442,7 +1352,6 @@ n.
 
 0
 
-#### X
 
 sons tous ces segments, leur résulY tante On est déterminée de grandeur et de direction pour chaque position du rayon vecteur mobile OM : On est ce que nous appellerons l'axe des aires de l'arc MM par rapport au point 0 : cet axe jouit de la propriété suivante que nous nous bornerons à énoncer :
 
@@ -1468,9 +1377,7 @@ La vitesse aréolaire du mobile M par rapport au point O est la vitesse du point
 
 Théorème.
 
-[p. 116]
-
-Dans le cas où la courbe Test plane et le point O situé dans son plan, l'indicatrice N est évidemment la normale en O à ce plan.
+[p. 116] Dans le cas où la courbe Test plane et le point O situé dans son plan, l'indicatrice N est évidemment la normale en O à ce plan.
 
 do
 
@@ -1498,15 +1405,12 @@ plan : donc wet μ (v) sont
 
 H
 
-#### M
 
-#### M
 
 レ
 
 P μ(ν)
 
-#### X
 
 0
 
@@ -1558,9 +1462,7 @@ Il en résulte que
 
 (1) est en grandeur et direction la vitesse de l'extrémité du segment w sur l'indicatrice que décrit cette extrémité.
 
-[p. 117]
-
-46. Dans le cas où le mouvement est plan et le point O situé dans ce plan, o est toujours normal à ce plan au point O, et cette normale est l'indicatrice de son extrémité ; on a alors :
+[p. 117] 46. Dans le cas où le mouvement est plan et le point O situé dans ce plan, o est toujours normal à ce plan au point O, et cette normale est l'indicatrice de son extrémité ; on a alors :
 
 1
 
@@ -1594,9 +1496,7 @@ dt (j), μ(j) est constamment nul, ce qui exige ou que j soit nul ou que j passe
 
 Étude de quelques mouvements.[^p117-1]
 
-[p. 118]
-
-vitesse d'un certain ordre d'un mobile, le mouvement du mobile est déterminé si l'on se donne en même temps les conditions initiales du mouvement (42). Nous en tirons cette conséquence : de l'équation du mouvement :
+[p. 118] vitesse d'un certain ordre d'un mobile, le mouvement du mobile est déterminé si l'on se donne en même temps les conditions initiales du mouvement (42). Nous en tirons cette conséquence : de l'équation du mouvement :
 
 S = a + l
 
@@ -1656,11 +1556,7 @@ est dirigée vers le centre
 
 v2
 
-P O et est de plus constante, pétant le rayon du cercle ; on constate facilement que dans ce cas très simple les indicatrices des vitesses de différents ordres sont toutes des cercles de centre 0 ; quant à ces vitesses en un même point M, elles sont alternativement dirigées suivant la tangente et la normale au cercle et ont respecti-
-
-[p. 119]
-
-vement pour valeurs v₁ = ωρ, υ, = ωρ, υ, vitesse angulaire du mouvement.
+P O et est de plus constante, pétant le rayon du cercle ; on constate facilement que dans ce cas très simple les indicatrices des vitesses de différents ordres sont toutes des cercles de centre 0 ; quant à ces vitesses en un même point M, elles sont alternativement dirigées suivant la tangente et la normale au cercle et ont respecti-[p. 119]vement pour valeurs v₁ = ωρ, υ, = ωρ, υ, vitesse angulaire du mouvement.
 
 wp..., ω étant la
 
@@ -1676,7 +1572,6 @@ les angles π
 
 #### V
 
-#### M
 
 V2
 
@@ -1720,7 +1615,6 @@ vi
 
 m
 
-#### M
 
 A
 
@@ -1728,11 +1622,7 @@ A
 
 0
 
-Considérons la première indicatrice, c'est-à-dire celle que décrit l'extrémité de la première vitesse ; cette indicatrice, avons — nous dit, est une ellipse homothétique à la trajectoire ; la vitesse en M'est donc
-
-[p. 120]
-
-égale au diamètre de cette seconde ellipse conjugué à OM'; cette vitesse est par suite proportionnelle au diamètre Om'conjugué à OM'dans la trajectoire.
+Considérons la première indicatrice, c'est-à-dire celle que décrit l'extrémité de la première vitesse ; cette indicatrice, avons — nous dit, est une ellipse homothétique à la trajectoire ; la vitesse en M'est donc [p. 120] égale au diamètre de cette seconde ellipse conjugué à OM'; cette vitesse est par suite proportionnelle au diamètre Om'conjugué à OM'dans la trajectoire.
 
 On verrait de même que l'accélération est proportionnelle à OM'. Plus généralement, les vitesses d'ordre impair sont proportionnelles à Om'et celles d'ordre pair à OM'.
 
@@ -1772,7 +1662,6 @@ Om² p
 
 m
 
-#### M
 
 ✓sion dej cose, il vientj cose
 
@@ -1812,9 +1701,7 @@ Appliquons ce résultat à deux exemples.
 
 j =
 
-[p. 121]
-
-50. La trajectoire du point M est une conique dont le point O est le centre : soient F et F, ses foyers, Fn et F₁n, les perpendiculaires abaissées des foyers sur la tangente en M ; partons de la for1
+[p. 121] 50. La trajectoire du point M est une conique dont le point O est le centre : soient F et F, ses foyers, Fn et F₁n, les perpendiculaires abaissées des foyers sur la tangente en M ; partons de la for1
 
 (FnF, n) =
 
@@ -1894,7 +1781,6 @@ rcose.p
 
 Le rayon de courbure a pour expres-
 
-#### M
 
 la formule j =
 
@@ -1916,9 +1802,7 @@ Réciproquement, quand l'accélération du mobile passe par un point fixe O et e
 
 Ce mouvement est, comme on le sait, celui des planètes sur leurs orbites autour du soleil.
 
-[p. 122]
-
-§ 3. — Mouvements simultanés.
+[p. 122] § 3. — Mouvements simultanés.
 
 52. Les mouvements les plus simples d'un solide sont, comme on sait, la translation et la rotation ; nous rappelons les propriétés principales de ces mouvements.
 
@@ -1938,7 +1822,6 @@ l'axe décrit ainsi un arc de cercle égal à ro : pour
 
 une variation do de l'angle o, la variable princi0
 
-#### M
 
 3
 
@@ -1958,11 +1841,8 @@ Ce segment détermine complètement le mouvement du solide pour la position cons
 
 53. Un mobile M décrit une trajectoire T par rapport aux axes OX, OY, OZ pris comme repères.
 
-[p. 123]
+[p. 123] Supposons maintenant que le système de repères OXYZ soit luimême en mouvement par rapport à un autre système de repères OXYZ. Le problème des mouvements simultanés se pose comme il suit :
 
-Supposons maintenant que le système de repères OXYZ soit luimême en mouvement par rapport à un autre système de repères OXYZ. Le problème des mouvements simultanés se pose comme il suit :
-
-#### M
 
 2.
 
@@ -1972,7 +1852,6 @@ T
 
 Le mouvement du point M par rapport à OXYZ et celui de OXYZ par rapport à O, X, Y, Z, étant déterminés tous les deux par rapport à la même variable principalet, d'ailleurs quelconque, trouver la trajectoire et la loi du mouvement de M par rapport aux repères O, X, Y, Z,.
 
-#### X
 
 0
 
@@ -1996,13 +1875,10 @@ Pour cette même variation dt, les repères OXYZ se déplacent par rapport aux r
 
 11 ce mouvement la trajectoire T qui vient en T₁ ;
 
-#### M
 
 мі les points Met M'de T viennent sur T, en M, et M,' et MM, ' est le chemin décrit, pour la variation
 
-#### M
 
-#### M
 
 τ.
 
@@ -2014,11 +1890,7 @@ Mais la figure infiniment petite MM'M, 'M, est un parallélogramme ; donc MM,' e
 
 Théorème.
 
-Si ds, ds,, ds.... et dS sont les mouvements
-
-[p. 124]
-
-partiels et le mouvement total pour une variation commune infiniment petite dt de la variable, on a :
+Si ds, ds,, ds.... et dS sont les mouvements [p. 124] partiels et le mouvement total pour une variation commune infiniment petite dt de la variable, on a :
 
 dS
 
@@ -2092,11 +1964,7 @@ u
 
 レ
 
-0
-
-[p. 125]
-
-tielles jet y et l'accélération totale J multipliées par dt ; donc pp' étant la résultante de pq et qp', J est aussi la résultante de j et γ.
+0 [p. 125] tielles jet y et l'accélération totale J multipliées par dt ; donc pp' étant la résultante de pq et qp', J est aussi la résultante de j et γ.
 
 En raisonnant de même sur les accélérations, on démontrerait que la troisième vitesse totale est la résultante des troisièmes vitesses partielles ; de même, enfin, pour les vitesses d'ordre quelconque.
 
@@ -2118,9 +1986,7 @@ n on peut toujours remplacer chaque vitesse comme V. par l'expression un + Un + 
 
 n [^p125-1]
 
-[p. 126]
-
-OX, OY, OZ se transportent parallèlement à eux-mêmes en O'X', O'Y', O'Z' ; tel est le mouvement de OXYZ par rapport à O, X, Y, Z,. Prenons maintenant 0,0, ' égal et parallèle à 00 ′ et de sens contraire, et soit O, 'X, Y, Z, ' le système O, X, Y, Z, transporté parallėlement en O,', la simple inspection de la figure montre que les deux systèmes d'axes 0, et O ' forment une figure égale à celle formée par les deux systèmes d'axes 0, ' et 0 ; donc 00 ' et 0,0,' sont les déplacements simultanés de O par rapport à O, X, Y, Z, et de 0, par rapport à OXYZ.
+[p. 126] OX, OY, OZ se transportent parallèlement à eux-mêmes en O'X', O'Y', O'Z' ; tel est le mouvement de OXYZ par rapport à O, X, Y, Z,. Prenons maintenant 0,0, ' égal et parallèle à 00 ′ et de sens contraire, et soit O, 'X, Y, Z, ' le système O, X, Y, Z, transporté parallėlement en O,', la simple inspection de la figure montre que les deux systèmes d'axes 0, et O ' forment une figure égale à celle formée par les deux systèmes d'axes 0, ' et 0 ; donc 00 ' et 0,0,' sont les déplacements simultanés de O par rapport à O, X, Y, Z, et de 0, par rapport à OXYZ.
 
 Il en résulte évidemment que 0,' est le symétrique de O' par rapport au milieu I de 00 ' : donc finalement la trajectoire de 0, par rapport à OXYZ est la symétrique par rapport à ce point I de la trajectoire de O par rapport à OXYZ.
 
@@ -2200,9 +2066,7 @@ m + m₁1
 
 Ce problème trouve son application dans l'étude du mouvement des planètes autour du soleil.
 
-[p. 127]
-
-§ 4. — Déplacement des solides.
+[p. 127] § 4. — Déplacement des solides.
 
 59. Le déplacement total infiniment petit d'un mobile peut résulter, d'une infinité de manières, de déplacements partiels ;
 
@@ -2228,7 +2092,6 @@ Pour que deux systèmes de déplacements partiels soient équivalents, il faut e
 
 r
 
-#### M
 
 3
 
@@ -2252,9 +2115,7 @@ Examinons en effet le déplacement total d'un solide résultant d'un système qu
 
 2
 
-[p. 128]
-
-+...
+[p. 128] +...
 
 V ; or v1, v2, v3... sont les mêmes pour tous les points (52) ; donc V a aussi pour tous les points même grandeur, direction et sens, et par suite le mouvement total est une translation de vitesse V.
 
@@ -2268,9 +2129,7 @@ Deux rotations faisant couple équivalent à une translation.
 
 Réciproquement, une translation de vitesse v peut toujours être remplacée par un couple de rotation de moment v. Il résulte de là que l'on peut toujours considérer un système de rotations et de translations simultanées comme composé uniquement de rotations.[^p128-1]
 
-[p. 129]
-
-ce qui exprime que les deux systèmes de segments A et B ont même moment par rapport au point M : or, nous savons que si A et B ont même moment en trois points non en ligne droite, ces deux systèmes de segments sont équivalents dans le sens qu'a cette expression lorsqu'il s'agit de segments (31) ; dès lors, les systèmes ont même moment pour un point quelconque. De là ce théorème :
+[p. 129] ce qui exprime que les deux systèmes de segments A et B ont même moment par rapport au point M : or, nous savons que si A et B ont même moment en trois points non en ligne droite, ces deux systèmes de segments sont équivalents dans le sens qu'a cette expression lorsqu'il s'agit de segments (31) ; dès lors, les systèmes ont même moment pour un point quelconque. De là ce théorème :
 
 Théorème. — L'équivalence des deux systèmes A et B de rotations simultanées n'est pas autre chose que l'équivalence des deux systèmes de segments représentant les vitesses angulaires de ces rotations.
 
@@ -2292,11 +2151,7 @@ autour de ce même axe ; c'est le mouvement hélicoïdal.
 
 1884.
 
-9
-
-[p. 130]
-
-tation & autour d'un axe situé dans le plan perpendiculaire à AA' en son milieu amènera le point A' en A ; le triangle A'B'C'aura
+9 [p. 130] tation & autour d'un axe situé dans le plan perpendiculaire à AA' en son milieu amènera le point A' en A ; le triangle A'B'C'aura
 
 ainsi la position Abe ; les côtés Ab et AB
 
@@ -2344,11 +2199,7 @@ Théorème.
 
 Tout déplacement infiniment petit d'un solide est un mouvement héliçoïdal.
 
-L'axe central s'appelle pour cette raison l'axe instantané. Le
-
-[p. 131]
-
-déplacement des figures a été étudié très longuement ; il constitue une véritable géométrie tout entière à laquelle on a donné le nom de géométrie cinématique.
+L'axe central s'appelle pour cette raison l'axe instantané. Le [p. 131] déplacement des figures a été étudié très longuement ; il constitue une véritable géométrie tout entière à laquelle on a donné le nom de géométrie cinématique.
 
 Nous allons indiquer très succinctement comment cette géométrie se rattache aux principes que nous venons de formuler.
 
@@ -2366,15 +2217,12 @@ Théorème.
 
 Dans le mouvement d'une figure plane, la courbe lien des centres instantanés dans la figure mobile roule sans glisser sur la courbe lien des centres instantanés dans le plan ; en un mot, le mouvement d'une figure plane est toujours un mouvement épicycloïdal.[^p131-1][^p131-2]
 
-[p. 132]
-
-B jectoire du point M situé sur la droite A passe par sa conjuguée B (68) ; dès lors ƒ M appartient à ce
+[p. 132] B jectoire du point M situé sur la droite A passe par sa conjuguée B (68) ; dès lors ƒ M appartient à ce
 
 plan normal et est normale à la trajectoire
 
 de M. Donc :
 
-#### M
 
 P
 
@@ -2418,23 +2266,18 @@ N
 
 1
 
-#### M
 
 Toute normale à la trajectoire d'un point qui rencontre une droite A rencontre aussi sa conjuguée B.
 
 Toutes ces propositions peuvent d'ailleurs se démontrer directement sans qu'il soit nécessaire de passer par la théorie des mouvements simultanés.[^p132-1]
 
-[p. 133]
-
-Cela posé, soit Mm l'élément de la trajectoire primitive décrit par le mobile M pendant la variation dt de la variable.
+[p. 133] Cela posé, soit Mm l'élément de la trajectoire primitive décrit par le mobile M pendant la variation dt de la variable.
 
 Le déplacement de la trajectoire pour cette même variation dt peut s'obtenir par une translation amenant Mm en m'M'et une rota-
 
-#### M
 
 the tion & amenant m'M'en m'M₁, de sorte que M, est la position définitive du mobile : soient u et v les
 
-#### M
 
 #### V
 
@@ -2442,7 +2285,6 @@ the tion & amenant m'M'en m'M₁, de sorte que M, est la position définitive du
 
 m
 
-#### M
 
 ω deux vitesses partielles de M, u étant la vitesse d'entraînement, u' et v ' celles de M', u, et v, celles de M. ;
 
@@ -2510,9 +2352,7 @@ formule dans laquelle odt v' sin
 
 représente également une vitesse perpendiculaire à la trajectoire et à w.
 
-[p. 134]
-
-On peut, d'ailleurs, remplacer v' par v qui n'en diffère que d'un infiniment petit : il vient alors en composant (1) et (2) :
+[p. 134] On peut, d'ailleurs, remplacer v' par v qui n'en diffère que d'un infiniment petit : il vient alors en composant (1) et (2) :
 
 1 u + v = V = u' + v + 2 wdt v sino
 
@@ -2534,9 +2374,7 @@ qu'il faut composer avec J'pour avoir l'accélération totale J₁ ; nous rappel
 
 Action des segments. Conclusions.[^p134-1]
 
-[p. 135]
-
-variation infiniment petite dt de la variable t, son point initial M décrit un arc infiniment petit MM'= ds ; l'action élémentaire de ce segment pour ce déplacement
+[p. 135] variation infiniment petite dt de la variable t, son point initial M décrit un arc infiniment petit MM'= ds ; l'action élémentaire de ce segment pour ce déplacement
 
 N
 
@@ -2544,7 +2382,6 @@ N
 
 L'action pour un déplacement fini quelconque du point M est la somme de ses actions élémentaires.
 
-#### M
 
 M'
 
@@ -2566,9 +2403,7 @@ Théorème.
 
 Si le déplacement total MM'est la résultante des déplacements partiels ds,, ds,, ds.... l'action de l pour le déplacement total est la somme algébrique des actions de I pour les divers déplacements partiels.[^p135-1]
 
-[p. 136]
-
-nulle ; donc l'action de I ne diffère pas de l'action de sa projection l'; on a ainsi pour cette action l'× MM'× cos l'MM'= l'rdo cos l'. MM'= l'. OH. do, OII étant la perpendiculaire à MN'; or l'. OH est la valeur u. du moment de I par rapport à l'axe OZ ; ainsi on a pour l'action cherchée do. μ₂ (1). De là ce théorème :
+[p. 136] nulle ; donc l'action de I ne diffère pas de l'action de sa projection l'; on a ainsi pour cette action l'× MM'× cos l'MM'= l'rdo cos l'. MM'= l'. OH. do, OII étant la perpendiculaire à MN'; or l'. OH est la valeur u. du moment de I par rapport à l'axe OZ ; ainsi on a pour l'action cherchée do. μ₂ (1). De là ce théorème :
 
 Théorème.
 
@@ -2580,11 +2415,9 @@ Il faut bien remarquer qu'il s'agit seulement de la valeur algébrique du moment
 
 Cette accélération est la résul-
 
-#### M
 
 tante de l'accélération tangen-
 
-#### M
 
 d's
 
@@ -2598,9 +2431,7 @@ male
 
 d [^p136-1][^p136-2]
 
-[p. 137]
-
-les théorèmes de la cinématique matérielle basée sur la notion du temps.
+[p. 137] les théorèmes de la cinématique matérielle basée sur la notion du temps.
 
 D'ailleurs, cette dernière n'est évidemment qu'une application particulière de notre cinématique géométrique : nous dirons plus, pour passer de la cinématique pure à la cinématique appliquée, il n'est nullement nécessaire de choisir l'angle de rotation de la terre pour variable principale ; tous les théorèmes démontrés sont indépendants du choix de la variable qui sert à mesurer le temps ; cette remarque est extrêmement importante, car elle nous montre que la cinématique est une science bien plus générale qu'on ne l'avait cru jusqu'ici.
 
@@ -2628,11 +2459,9 @@ Nous dirons donc pour conclure :
 
 2º La cinématique matérielle, qui n'est qu'une application de la précédente, est indépendante du choix de la variable qui sert à mesurer le temps.
 
-[p. 138]
+[p. 138] "
 
-"
-
-### Chapitre Iv.
+### Chapitre IV.
 
 1
 
@@ -2676,7 +2505,6 @@ fi
 
 J
 
-#### M
 
 m
 
@@ -2690,9 +2518,7 @@ m et de la réaction peut dès lors s'énoncer comme suit :
 
 79. La loi ainsi dédoublée, occupons-nous de la première partie ; cette première partie ne contient ni l'idée de force ni l'idée de masse ; elle est simplement une loi sur la direction des accélérations de deux points en présence. Maintenant faisons abstraction des considérations qui nous ont amené à formuler ainsi cette loi et supposons-la déduite directement de l'expérience.
 
-[p. 139]
-
-Remarquons bien la différence qui existe entre notre point de vue et celui des auteurs ; ces derniers font entrer dans les principes fondamentaux qu'ils empruntent à l'expérience une notion, celle de la force qui n'est pas définie, tandis que dans le principe énoncé ci-dessus, il ne s'agit que de l'accélération, grandeur connue et étudiée en cinématique : nous rappelons encore que cette accélération est prise par rapport à une variable t bien déterminée, l'angle de la rotation terrestre dans le système des étoiles fixes, c'est-à-dire la mesure ordinaire du temps.
+[p. 139] Remarquons bien la différence qui existe entre notre point de vue et celui des auteurs ; ces derniers font entrer dans les principes fondamentaux qu'ils empruntent à l'expérience une notion, celle de la force qui n'est pas définie, tandis que dans le principe énoncé ci-dessus, il ne s'agit que de l'accélération, grandeur connue et étudiée en cinématique : nous rappelons encore que cette accélération est prise par rapport à une variable t bien déterminée, l'angle de la rotation terrestre dans le système des étoiles fixes, c'est-à-dire la mesure ordinaire du temps.
 
 Or, que devient cette loi sur les directions des accélérations quand on change les repères ou la variable ?
 
@@ -2712,9 +2538,7 @@ Or nous avons montré (37) que tout changement de variable modifiait la directio
 
 Donc, si les accélérations des deux points Met M, sont dirigées suivant MM, pour une variable déterminée t, qui est l'angle de la rotation terrestre, elles n'ont cette direction que pour cette variable seulement.
 
-[p. 140]
-
-L'angle de la rotation terrestre est donc dans l'univers une variable unique jouissant, à l'exclusion de toute autre, d'une propriété caractéristique, celle de donner pour deux points des accélérations dirigées suivant la droite qui les joint.
+[p. 140] L'angle de la rotation terrestre est donc dans l'univers une variable unique jouissant, à l'exclusion de toute autre, d'une propriété caractéristique, celle de donner pour deux points des accélérations dirigées suivant la droite qui les joint.
 
 Nous sommes fondé maintenant à adopter cette variable particulière, car nous savons qu'aucune autre ne pourrait nous donner les mêmes résultats.
 
@@ -2738,11 +2562,7 @@ Remarquons bien qu'il faut considérer la propriété précédente comme vérifi
 
 mj = mj
 
-(a) les repères, avons-nous dit, sont le système des étoiles fixes et la variable principale l'angle de la rotation terrestre : un changement des repères ou de la variable modifiera évidemment la forme de l'équation (a) ; mais la nouvelle formule contiendra encore les masses met m, qui sont des constantes ; ces masses seront sim
-
-[p. 141]
-
-plement engagées d'une autre façon dans l'équation des mouvements des deux points.
+(a) les repères, avons-nous dit, sont le système des étoiles fixes et la variable principale l'angle de la rotation terrestre : un changement des repères ou de la variable modifiera évidemment la forme de l'équation (a) ; mais la nouvelle formule contiendra encore les masses met m, qui sont des constantes ; ces masses seront sim [p. 141] plement engagées d'une autre façon dans l'équation des mouvements des deux points.
 
 Par suite, les masses sont des constantes qu'on retrouve toujours, quels que soient le système des repères et la variable principale : sous ce point de vue, la masse peut se définir comme il suit :
 
@@ -2756,9 +2576,7 @@ C'est cette étude que nous allons faire succinctement et d'une façon exclusive
 
 - Centres de gravité.[^p141-1][^p141-2]
 
-[p. 142]
-
-point y, de masse (m + m₂) + m, qui divise y₁M, dans le rapport inverse des masses m₁ + m, et m₃ ; en continuant ainsi jusqu'au
+[p. 142] point y, de masse (m + m₂) + m, qui divise y₁M, dans le rapport inverse des masses m₁ + m, et m₃ ; en continuant ainsi jusqu'au
 
 dernier point M, on a un point g
 
@@ -2772,7 +2590,6 @@ M2 (m2)
 
 72
 
-#### M
 
 ... et qui est le centre (m)
 
@@ -2808,7 +2625,6 @@ mz + mz +...
 
 m₁ + m +...
 
-#### X
 
 1
 
@@ -2820,9 +2636,7 @@ m₁ + m +...
 
 m₁ + m +...[^p142-1]
 
-[p. 143]
-
-pour centres de gravité les points ₁₂,..., l'ensemble de ces groupes a pour centre de gravité le centre de gravité g des points YaYa Ys
+[p. 143] pour centres de gravité les points ₁₂,..., l'ensemble de ces groupes a pour centre de gravité le centre de gravité g des points YaYa Ys
 
 Théorème.
 
@@ -2844,7 +2658,6 @@ Soient xxx..... X les projetantes des éléments eee... et du centre de gravité
 
 + e +
 
-#### X
 
 1
 
@@ -2864,9 +2677,7 @@ Théorème.
 
 Si une figure d'étendue E est la somme de diverses figures d'étendue E₁, E,, etc., le centre de gravité de E est le centre de gravité des divers centres de gravité de E₁, E,...
 
-[p. 144]
-
-En particulier, si les centres de gravité de E₁, E,... sont dans un même plan ou sur une même droite, le centre de gravité de E est aussi dans ce plan ou sur cette droite.
+[p. 144] En particulier, si les centres de gravité de E₁, E,... sont dans un même plan ou sur une même droite, le centre de gravité de E est aussi dans ce plan ou sur cette droite.
 
 Théorème.
 
@@ -2894,9 +2705,7 @@ e figures homogènes sont donc celles où la densité est constante.
 
 La recherche des centres de gravité des figures à densité variable est une simple question de géométrie, nous ne nous étendrons pas davantage sur ce sujet.
 
-[p. 145]
-
-Moments d'inertie.
+[p. 145] Moments d'inertie.
 
 #### § 4
 
@@ -2908,7 +2717,6 @@ i Soient un système de points et M l'un de ces points de masse m, situé à une
 
 r
 
-#### M
 
 Supposons que l'axe OZ contienne le centre de
 
@@ -2924,9 +2732,7 @@ Emr₁ = ∑mr² + Md².
 
 Cette relation est fondamentale.[^p145-1][^p145-2][^p145-3]
 
-[p. 146]
-
-Il y a pour chaque point de l'espace un ellipsoïde d'inertie ; celui qui est relatif au centre de gravité est l'ellipsoïde central.
+[p. 146] Il y a pour chaque point de l'espace un ellipsoïde d'inertie ; celui qui est relatif au centre de gravité est l'ellipsoïde central.
 
 92. Nous citerons les théorèmes suivants relatifs à l'ellipsoïde central.
 
@@ -2968,7 +2774,6 @@ en R, le moment d'inertie
 
 par rapport à GR est, d'après la définition même de
 
-#### X
 
 02
 
@@ -2982,17 +2787,12 @@ Ya
 
 G
 
-#### X
 
 R
 
 1
 
-P'ellipse d'inertie, GR ; meY nons par 0, la parallèle O, R, à GR, R, étant le point où cette parallèle rencontre l'ellipse d'inertie de 0,, le moment d'inertie
-
-[p. 147]
-
-par rapport à OR, est OR ; or, les deux axes OR, et GR étant
+P'ellipse d'inertie, GR ; meY nons par 0, la parallèle O, R, à GR, R, étant le point où cette parallèle rencontre l'ellipse d'inertie de 0,, le moment d'inertie [p. 147] par rapport à OR, est OR ; or, les deux axes OR, et GR étant
 
 11 parallèles et le second passant par le centre de gravité, on a, en
 
@@ -3082,11 +2882,7 @@ F'
 
 F
 
-2 commune est A + M. GO, ; soient Fet F' ces deux points ; cherchons
-
-[p. 148]
-
-l'ellipse d'inertie en un point quelconque E du plan ; les moments d'inertie par rapport à EF et EF' sont, d'après ce qui précède,
+2 commune est A + M. GO, ; soient Fet F' ces deux points ; cherchons [p. 148] l'ellipse d'inertie en un point quelconque E du plan ; les moments d'inertie par rapport à EF et EF' sont, d'après ce qui précède,
 
 2 égaux à A + M. GO, ; dès lors, dans l'ellipse cherchée ces deux directions sont celles de rayons vecteurs égaux ; par suite, les axes de cette ellipse sont les deux bissectrices des droites EF et EF'. Cette construction très simple nous donne les axes de l'ellipse d'inertie d'un point quelconque du plan ; cette propriété peut s'énoncer sous la forme suivante :
 
@@ -3154,9 +2950,7 @@ Ax² + A'y² + A "z² + 2BYZ + 2B'XZ + 2 Β΄XZ
 
 #### D
 
-[p. 149]
-
-les directions λ, μ, v d'un quelconque de ses trois axes sont données par les formules [(S -A) B + Β'Β"] = [(S-A') Β΄ + ΒΒ"] μ = [(S-A") Β " + ΒΒ΄] v
+[p. 149] les directions λ, μ, v d'un quelconque de ses trois axes sont données par les formules [(S -A) B + Β'Β"] = [(S-A') Β΄ + ΒΒ"] μ = [(S-A") Β " + ΒΒ΄] v
 
 ν S étant racine de l'équation :
 
@@ -3180,7 +2974,6 @@ A
 
 S
 
-#### M
 
 μ
 
@@ -3188,7 +2981,6 @@ Y
 
 B- S
 
-#### M
 
 ν
 
@@ -3198,7 +2990,6 @@ Z
 
 C- S
 
-#### M
 
 1
 
@@ -3212,7 +3003,6 @@ C- S
 
 2
 
-#### X
 
 et
 
@@ -3220,7 +3010,6 @@ A
 
 S + r²
 
-#### M
 
 2
 
@@ -3238,7 +3027,6 @@ Y
 
 C- S
 
-#### M
 
 + r
 
@@ -3248,7 +3036,6 @@ C- S
 
 + r²
 
-#### M
 
 Si dans ces équations on considère xyz, comme des coordonnées courantes et r comme une constante, l'équation (4)
 
@@ -3276,13 +3063,9 @@ A
 
 B
 
-#### M
 
-#### M
 
-#### M
 
-#### C
 
 (5)
 
@@ -3298,9 +3081,7 @@ S₁x² + S₂y² + S, 2² = 1
 
 (6)
 
-[p. 150]
-
-On déduit très facilement de la théorie des surfaces homofocales le théorème suivant que nous nous bornons à énoncer :
+[p. 150] On déduit très facilement de la théorie des surfaces homofocales le théorème suivant que nous nous bornons à énoncer :
 
 L'ellipsoïde d'inertie (6) est de révolution pour un point quelconque des coniques focales de l'ellipsoïde (5).
 
@@ -3320,17 +3101,12 @@ est m, la puissance correspondante est un segment dirigé suivant v et égal à 
 
 P
 
-#### M
 
 m
 
 Les puissances peuvent être totales ou partielles comme les vitesses ; elles sont, comme les vitesses, relatives à la variable principale t qu'on a choisie : nous avons dit que la cinématique s'établissait tout entière sans un choix particulier de la variable t ; la notion de la masse étant aussi indépendante de la variable t, nous en concluons que l'étude des puissances n'impose aucun choix particulier de la variable t ; c'est pourquoi cette étude reste en dehors de la dynamique proprement dite.
 
-Remarquons en passant l'analogie qu'il y a entre la première puissance d'un point m × vet ce qu'on appelle la quantité de mouvement, expression qui nous paraît tout à fait impropre et que nous n'emploierons pas ; de même, la seconde puissance, produit de la masse par l'accélération est analogue à la force ; mais remarquons bien que c'est là une simple analogie, car la quantité
-
-[p. 151]
-
-de mouvement et la force sont des notions qui appartiennent à la dynamique et supposent par conséquent un choix particulier de la variable t, tandis qu'ici nous ne supposons rien de semblable :
+Remarquons en passant l'analogie qu'il y a entre la première puissance d'un point m × vet ce qu'on appelle la quantité de mouvement, expression qui nous paraît tout à fait impropre et que nous n'emploierons pas ; de même, la seconde puissance, produit de la masse par l'accélération est analogue à la force ; mais remarquons bien que c'est là une simple analogie, car la quantité [p. 151] de mouvement et la force sont des notions qui appartiennent à la dynamique et supposent par conséquent un choix particulier de la variable t, tandis qu'ici nous ne supposons rien de semblable :
 
 toutefois, nous allons retrouver dans cette étude quelques propriétés connues des quantités de mouvement et des forces ; nous en conclurons que ces propriétés sont indépendantes du choix de la variable.
 
@@ -3372,9 +3148,7 @@ Les notations étant les mêmes, on a en prenant les moments par rapport à un p
 
 De plus, μ (pa + 1) est la vitesse sur l'indicatrice que décrit l'extrémité du segment μ(p.) [43].
 
-[p. 152]
-
-Si dans les équations (1) et (2) on suppose n = 1 et si l'on projette les puissances et leurs moments sur une droite, on a des théorèmes qui ne diffèrent pas, quant à la forme, de ceux connus en dynamique sous le nom de théorème des quantités de mouvement projetées sur un axe et de théorème des moments des quantités de mouvement par rapport à un axe.
+[p. 152] Si dans les équations (1) et (2) on suppose n = 1 et si l'on projette les puissances et leurs moments sur une droite, on a des théorèmes qui ne diffèrent pas, quant à la forme, de ceux connus en dynamique sous le nom de théorème des quantités de mouvement projetées sur un axe et de théorème des moments des quantités de mouvement par rapport à un axe.
 
 97. Le théorème relatif aux vitesses partielles devient le théorème suivant pour les puissances.
 
@@ -3418,11 +3192,7 @@ Théorème. — L'action de la seconde puissance pour un déplacement fini quelc
 
 C'est, sous une forme un peu différente, le théorème du travail et des forces vives ; nous n'emploierons pas cette expression de forces vives que rien ne justifie.
 
-99. Pour généraliser les théorèmes des aires et surtout pour
-
-[p. 153]
-
-les étendre à plusieurs points, nous modifierons un peu notre définition de l'aire.
+99. Pour généraliser les théorèmes des aires et surtout pour [p. 153] les étendre à plusieurs points, nous modifierons un peu notre définition de l'aire.
 
 Remarquons, en effet, que pour remplacer les vitesses par les puissances dans les théorèmes sur les aires, il faut multiplier par la masse m ; dès lors, les aires elles-mêmes sont multipliées par cette masse ; pour cette raison, nous conviendrons d'appeler aire pour un point doué de masse l'aire cinématique multipliée par la masse : de même, la vitesse aréolaire pour un point de masse m sera la vitesse aréolaire telle que nous l'avons définie en cinématique multipliée par m. Ces définitions posées, on en déduit les théorèmes suivants :
 
@@ -3454,9 +3224,7 @@ La réciproque est vraie.
 
 Il n'en est plus de même lorsque l'on considère plusieurs points.
 
-[p. 154]
-
-Nous rappelons que, dans tout ce qui suit, le centre de gravité est toujours supposé avoir pour masse la masse de tout le système de points.
+[p. 154] Nous rappelons que, dans tout ce qui suit, le centre de gravité est toujours supposé avoir pour masse la masse de tout le système de points.
 
 Dans des points en mouvement, il y a un centre de gravité pour l'ensemble des positions de ces points correspondant à une même valeur de la variable t ; le centre de gravité est ainsi lui-même un mobile ayant une masse égale à la somme des masses de tous les points.
 
@@ -3512,9 +3280,7 @@ dt'
 
 Désignons maintenant par q1, q, q... et Q les puissances de second ordre des points et de leur centre de gravité.
 
-[p. 155]
-
-d2X
+[p. 155] d2X
 
 L'équation (2) différentiée une seconde fois donne M
 
@@ -3572,11 +3338,7 @@ Pn+ Pa + 1 dt
 
 (97)
 
-s'étend immédiatement aux résultantes de translation Pn', Pn et Pa + 1 des puissances de tous les points d'un système, puisque ces
-
-[p. 156]
-
-résultantes sont les puissances d'un point unique, le centre de gravité du système. Ainsi l'on a :
+s'étend immédiatement aux résultantes de translation Pn', Pn et Pa + 1 des puissances de tous les points d'un système, puisque ces [p. 156] résultantes sont les puissances d'un point unique, le centre de gravité du système. Ainsi l'on a :
 
 Po'
 
@@ -3608,9 +3370,7 @@ A = a + a + a₂ +...
 
 1
 
-[p. 157]
-
-Projetons ces aires sur un plan quelconque P que nous supposerons passer par O et soit OZ la normale à ce plan.
+[p. 157] Projetons ces aires sur un plan quelconque P que nous supposerons passer par O et soit OZ la normale à ce plan.
 
 Nous avons vu que les projections de ces aires sur P sont respectivement représentées par les projections des axes a₁, a₂, a,...
 
@@ -3656,9 +3416,7 @@ En cinématique, c'est-à-dire pour des points sans masse, la vitesse aérolaire
 
 μ(που), ως
 
-[p. 158]
-
-d'où, en composant membre à membre
+[p. 158] d'où, en composant membre à membre
 
 Ω = 2 μ (mv₁, m₂v,, mv,...) Donc :
 
@@ -3700,9 +3458,7 @@ U1
 
 11 u, étant l'action de la seconde puissance du point mobile de masse m..
 
-[p. 159]
-
-On a pour un système quelconque de mobiles, les actions étant prises pour des déplacements finis simultanés de tous les mobiles :
+[p. 159] On a pour un système quelconque de mobiles, les actions étant prises pour des déplacements finis simultanés de tous les mobiles :
 
 1
 
@@ -3748,21 +3504,15 @@ my
 
 r
 
-#### M
 
 0
 
-#### X
 
 μ. (mv) = mv × r = mør² et par suite :
 
 p (mv₁, mv,...) = w∑mr².
 
-Pour avoir ux et ux, décomposons mu suivant OX et OY ; les
-
-[p. 160]
-
-deux composantes sont mwy et mox et les deux moments suivant OX et ΟΥ, wmyz et w∑mxz.
+Pour avoir ux et ux, décomposons mu suivant OX et OY ; les [p. 160] deux composantes sont mwy et mox et les deux moments suivant OX et ΟΥ, wmyz et w∑mxz.
 
 Si l'on suppose que les axes OX, OY et OZ sont les axes principaux de l'ellipsoïde d'inertie en O, les expressions Emyz et Emxz sont nulles (91) et, par suite, le moment total u (mv, mov₂
 
@@ -3796,9 +3546,7 @@ Nous rappelons à nouveau que tous les théorèmes établis jusqu'ici sont indé
 
 Au contraire, la dynamique, ainsi que nous l'avons montré (81), repose tout entière sur un choix unique des repères et de la variable.
 
-[p. 161]
-
-CHAPITRE
+[p. 161] CHAPITRE
 
 Dynamique.
 
@@ -3818,11 +3566,7 @@ Laissons donc là cette hypothèse de causalité qui appartient à la métaphysi
 
 SOC. DES SCIENCES. — 1884.
 
-11
-
-[p. 162]
-
-114. On admet au commencement de la dynamique, comme empruntés à l'expérience, un certain nombre de principes fondamentaux qui sont de véritables postulata ; ces principes consistent dans l'énoncé de quelques propriétés de la force, lesquelles permettent d'établir par le raisonnement pur toutes les autres propriétés de la force ; dès lors, ils contiennent évidemment une véritable définition de la force : la définition d'une chose, en mathématiques, est en effet l'énoncé d'une ou d'un certain nombre de ses propriétés d'où l'on déduit toutes les autres.
+11 [p. 162] 114. On admet au commencement de la dynamique, comme empruntés à l'expérience, un certain nombre de principes fondamentaux qui sont de véritables postulata ; ces principes consistent dans l'énoncé de quelques propriétés de la force, lesquelles permettent d'établir par le raisonnement pur toutes les autres propriétés de la force ; dès lors, ils contiennent évidemment une véritable définition de la force : la définition d'une chose, en mathématiques, est en effet l'énoncé d'une ou d'un certain nombre de ses propriétés d'où l'on déduit toutes les autres.
 
 Nous ne voyons pas dès lors pourquoi les auteurs prétendent qu'on ne définit pas la force : c'est comme si l'on disait que le cercle est une courbe non susceptible de définition et qu'on nous demandât ensuite d'admettre, comme postulatum, la propriété des rayons égaux.
 
@@ -3838,11 +3582,7 @@ Ce serait là une définition ; nous n'insistons pas davantage sur ce point parc
 
 Cette loi est bien connue sous le nom de la loi de l'action et de la réaction, mais par le fait elle restait encore à découvrir, car aucun auteur ne paraît avoir même soupçonné les conséquences que nous en tirons.
 
-C'est la loi fondamentale de tous les mouvements que nous
-
-[p. 163]
-
-offre l'univers, attractions des corps célestes, répulsions des molécules gazeuses, attractions et répulsions électriques et magnétiques, etc. ; elle est en un mot pour tous les mouvements ce que la loi de Newton est pour les mouvements des corps célestes seulement.
+C'est la loi fondamentale de tous les mouvements que nous [p. 163] offre l'univers, attractions des corps célestes, répulsions des molécules gazeuses, attractions et répulsions électriques et magnétiques, etc. ; elle est en un mot pour tous les mouvements ce que la loi de Newton est pour les mouvements des corps célestes seulement.
 
 Elle sert de base à la dynamique et pour cette raison nous lui donnerons le nom de loi dynamique.
 
@@ -3872,11 +3612,7 @@ Nous passons de là à la définition géométrique de la force ;
 
 nous dirons :
 
-Dans un système de points dynamiques satisfaisant à la loi (a)
-
-[p. 164]
-
-la force d'un point est le produit de sa masse par son accélération, dirigée suivant cette accélération, ou, si l'on veut, la seconde puissance de ce point.
+Dans un système de points dynamiques satisfaisant à la loi (a) [p. 164] la force d'un point est le produit de sa masse par son accélération, dirigée suivant cette accélération, ou, si l'on veut, la seconde puissance de ce point.
 
 Remarquons en effet que, d'après la forme même de la loi dynamique (a), la seconde puissance doit jouer en dynamique un rôle particulier ; il est donc tout naturel de lui donner un nom spécial ; c'est pourquoi nous l'appelons la force.
 
@@ -3892,9 +3628,7 @@ Ces deux catégories de forces se retrouvent, bien entendu, dans la nature ; nou
 
 La force étant ainsi définie géométriquement, nous allons montrer comment toute la dynamique peut être établie d'une façon rigoureusement géométrique.
 
-[p. 165]
-
-Dans tout ce qui suit nous renonçons définitivement à toutes les expressions qui rappellent pour la force l'idée de cause que nous avons rejetée ; ainsi nous ne dirons pas : « la force qui sol« licite un point, la force qui détermine un mouvement ».
+[p. 165] Dans tout ce qui suit nous renonçons définitivement à toutes les expressions qui rappellent pour la force l'idée de cause que nous avons rejetée ; ainsi nous ne dirons pas : « la force qui sol« licite un point, la force qui détermine un mouvement ».
 
 Nous dirons : « la force du point, la force qui correspond au « mouvement ».
 
@@ -3934,9 +3668,7 @@ mv + mjdt ou mu'
 
 mv + fdt en désignant par f la force mj.[^p165-1]
 
-[p. 166]
-
-On a de même :
+[p. 166] On a de même :
 
 (2)
 
@@ -3968,9 +3700,7 @@ Soit dans un ensemble S de points dynamiques, un groupe particulier G pris sépa
 
 Théorème. — La force totale du centre de gravité du groupe
 
-[p. 167]
-
-G est la résultante de translation de toutes les forces extérieures de ce groupe (101).
+[p. 167] G est la résultante de translation de toutes les forces extérieures de ce groupe (101).
 
 Théorème.
 
@@ -4002,11 +3732,7 @@ Nous rappelons encore, en terminant, que tous ces théorèmes supposent le choix
 
 Théorème.
 
-- Dans le groupe de mobiles G, l'accroissement
-
-[p. 168]
-
-de l'énergie totale
+- Dans le groupe de mobiles G, l'accroissement [p. 168] de l'énergie totale
 
 mv² est égal à l'action des forces des mobiles pour des déplacements simultanés de ces mobiles (109).
 
@@ -4032,9 +3758,7 @@ L'équation (2) exprime que le moment connu u(f.f...) est la vitesse sur l'indic
 
 (ffafs...) est connu pour toutes les valeurs de t, il en résulte que la trajectoire du point A et son mouvement sur cette trajectoire sont déterminés (119), en d'autres termes, μ (p₁P.Ps...) est déterminé en grandeur, direction et sens pour toutes les valeurs de t. Or, nous avons vu qu'en appelant I., I, et I, les moments d'inertie du solide par rapport aux trois axes principaux du centre de gravité, on avait (110) :[^p168-1]
 
-[p. 169]
-
-résulte que o est déterminé en grandeur, direction et sens pour chaque valeur de t.
+[p. 169] résulte que o est déterminé en grandeur, direction et sens pour chaque valeur de t.
 
 Donc on connaît à chaque instant l'axe de rotation instantané du solide autour de son centre de gravité et la vitesse de cette rotation ; par conséquent, le mouvement du solide est déterminé ;
 
@@ -4052,9 +3776,7 @@ f. t... et uff...)
 
 ce mouvement reste le même pour un second système de forces extérieures équivalant au premier.[^p169-1]
 
-[p. 170]
-
-mouvement initial est une rotation instantanée autour d'un des axes principaux d'inertie de son centre de gravité, ce mouvement de rotation continue autour du même axe
+[p. 170] mouvement initial est une rotation instantanée autour d'un des axes principaux d'inertie de son centre de gravité, ce mouvement de rotation continue autour du même axe
 
 et avec la même vitesse. c'est-à-dire que l'angle de rotation est proportionnel à la variable t.
 
@@ -4072,13 +3794,10 @@ Il n'y a donc pas lieu de s'étonner que l'on ait adopté cette mesure du temps,
 
 Il y a donc eu là pour la science un hasard exceptionnellement heureux sans lequel la conception mécanique réalisée dans l'univers serait probablement encore à trouver.
 
-[p. 171]
-
-127. Nous allons indiquer succinctement comment doit être traitée la théorie des forces de liaison au point de vue géométrique que nous avons adopté : nous nous bornerons à citer quelques exemples.
+[p. 171] 127. Nous allons indiquer succinctement comment doit être traitée la théorie des forces de liaison au point de vue géométrique que nous avons adopté : nous nous bornerons à citer quelques exemples.
 
 Soit un mobile M décrivant une trajectoire plane S ; décomposons la force totale F en deux autres F, et f, cette dernière étant normale à la courbe. Il est facile de voir que le mouvement du mobile sur sa trajectoire est S
 
-#### M
 
 F.
 
@@ -4108,9 +3827,7 @@ mv² et par suite de F₁. On peut ainsi construire
 
 En résumé, dans cette question, au lieu de se donner la force totale F qui, avec les conditions initiales du mouvement, donnerait la trajectoire et la loi du mouvement, on se donne la trajectoire et la force partielle F₁, la seconde force partielle f étant supposée normale à la trajectoire ; la force f correspond donc à cette condition géométrique imposée au mobile de parcourir la trajectoire déterminée S : cette force f, qui équivaut à une condition géométrique ou, comme on dit, à une liaison, nous l'appellerons force de liaison.
 
-[p. 172]
-
-Le problème que nous venons de traiter peut s'énoncer ainsi :
+[p. 172] Le problème que nous venons de traiter peut s'énoncer ainsi :
 
 Un mobile est astreint à parcourir une courbe donnée ; on se donne à chaque instant la force de ce mobile, abstraction faite de la force de liaison ; trouver la loi du mouvement.
 
@@ -4128,11 +3845,9 @@ Nous citerons encore le cas des solides invariables où deux points quelconques 
 
 soient M, et M. ces deux points ; ils
 
-#### M
 
 échangent deux forces égales et contraires f qui sont deux forces intérieures ; les deux points ont de plus des forces extérieures, et pour chacun d'eux la force totale est la résultante de la force extérieure et de la force intérieure f. м ;
 
-#### M
 
 f
 
@@ -4144,9 +3859,7 @@ Prenons les points M₁, M, dans les positions voisines M₁ ', M', ; il est év
 
 130. Nous nous bornerons aux forces de liaison que nous venons de définir en remarquant que dans chaque cas la force de liaison doit être définie, car la décomposition de la force totale F d'un point entre une composante F₁ et une force de liaison f est évidemment possible de bien des manières.
 
-[p. 173]
-
-La propriété importante des forces de liaison consiste en ce que leur action pour un déplacement quelconque du mobile est toujours nulle. Cela est évident quand le mobile est astreint à rester sur une courbe ou une surface, car la force de liaison est alors normale à la trajectoire.
+[p. 173] La propriété importante des forces de liaison consiste en ce que leur action pour un déplacement quelconque du mobile est toujours nulle. Cela est évident quand le mobile est astreint à rester sur une courbe ou une surface, car la force de liaison est alors normale à la trajectoire.
 
 Il en est de même quand le point est astreint à rester fixe, puisqu'alors le déplacement est nul.
 
@@ -4160,7 +3873,6 @@ Ce déplacement de la droite M, M, peut s'obtenir par une translation qui amène
 
 f
 
-#### M
 
 мі
 
@@ -4170,7 +3882,6 @@ f
 
 M2
 
-#### M
 
 f le déplacement total de M, est f ×
 
@@ -4218,7 +3929,6 @@ du mobile la vitesse est MV, le déplacement
 
 réel se fera suivant MV ; tout autre déplacement MM'dans une autre direction sera un déplacement virtuel ; l'action de la force réelle pour ce déplacement virtuel est dite action virtuelle.
 
-#### M
 
 #### V
 
@@ -4238,15 +3948,9 @@ m
 
 ms
 
-#### M
 
-#### M
 
-De même, tout déplacement virtuel peut toujours être considéré
-
-[p. 175]
-
-comme une composante du déplacement réel : il résulte de là que le mot virtuel ne correspond à aucune idée nouvelle ; nous le remplacerons donc dans ce qui suit par le mot partiel qui lui est équivalent : il est clair que c'est une faute de logique que d'introduire un mot nouveau pour une notion déjà définie.
+De même, tout déplacement virtuel peut toujours être considéré [p. 175] comme une composante du déplacement réel : il résulte de là que le mot virtuel ne correspond à aucune idée nouvelle ; nous le remplacerons donc dans ce qui suit par le mot partiel qui lui est équivalent : il est clair que c'est une faute de logique que d'introduire un mot nouveau pour une notion déjà définie.
 
 On peut
 
@@ -4272,11 +3976,7 @@ Dans le cas où il y a des liaisons, ce théorème se transforme comme il suit :
 
 Théorème.
 
-Pour qu'un système de points où il y a des liaisons soit en équilibre, il faut et il suffit que, pour des déplacements infiniment petits compatibles avec les liaisons, la somme
-
-[p. 176]
-
-des actions de toutes les forces, abstraction faite des forces de liaison, soit toujours nulle.
+Pour qu'un système de points où il y a des liaisons soit en équilibre, il faut et il suffit que, pour des déplacements infiniment petits compatibles avec les liaisons, la somme [p. 176] des actions de toutes les forces, abstraction faite des forces de liaison, soit toujours nulle.
 
 Nous savons en effet qu'alors les forces de liaison donnent des actions nulles.
 
@@ -4296,9 +3996,7 @@ Deux systèmes de forces équivalents, c'est-à-dire représentés par deux syst
 
 Remplaçons donc le système de forces primitif par le systéme équivalent composé de la résultante R et du couple C : il faut, pour l'équilibre, que le moment de Ret de C par rapport à une droite quelconque ou, ce qui revient au même, par rapport à un point quelconque soit nul. Prenons les moments par rapport à un point de R, le moment du système se réduit alors au moment du couple ; donc le moment du couple est nul ; prenons alors le moment par rapport à un point extérieur à R, le moment du système se réduira alors au moment de R, ce moment devant être nul, on aura R = 0.
 
-[p. 177]
-
-Ainsi les conditions d'équilibre sont que le système des forces extérieures équivaille à une résultante et à un couple nuls.
+[p. 177] Ainsi les conditions d'équilibre sont que le système des forces extérieures équivaille à une résultante et à un couple nuls.
 
 135. Si le solide a un point fixe ou deux points fixes, les conditions d'équilibre sont données par les deux théorèmes suivants.
 
@@ -4320,9 +4018,7 @@ La réciproque est vraie quand le système est à liaisons complètes ; si en ef
 
 § 4. — Systèmes dynamiques quelconques. Conclusions.[^p177-1]
 
-[p. 178]
-
-Nous rappelons enfin que les masses sont simplement des coefficients numériques fixes attribués aux points et que la loi dynamique (a) s'énonce comme il suit :
+[p. 178] Nous rappelons enfin que les masses sont simplement des coefficients numériques fixes attribués aux points et que la loi dynamique (a) s'énonce comme il suit :
 
 Les repères et la variable t étant convenablement choisis, deux points quelconques Met M, échangent des accélérations inversement proportionnelles à leurs masses et dirigées suivant la droite
 
@@ -4336,11 +4032,7 @@ Mais, au seul point de vue mathématique, la loi dynamique (a) n'est qu'une loi 
 
 138. Nous disons pour le moment ; c'est là une expression qui demande à être expliquée : nous ne voulons pas dire, en effet, que la loi dynamique (a) avec ses conséquences, la loi de Newton, etc..., réalisée aujourd'hui dans l'univers, cessera de l'être demain ; quelle que soit l'opinion philosophique ou religieuse qu'on ait sur le mode d'organisation de l'univers, tout le monde reconnaît aujourd'hui que cet univers fonctionne scientifiquement et suivant une loi, nous pourrions même dire une sorte de volonté générale et immuable que des volontés particulières, des hasards ne sauraient interrompre.
 
-Mais cette loi générale peut toujours être considérée comme une série à termes indéfiniment décroissants : nous connaissons aujourd'hui le premier terme de la série, c'est la loi dynamique (a) ; mais rien ne dit que des siècles d'observation, s'ils sont donnés à l'homme, ou simplement même l'emploi de procédés et d'instruments plus précis que les nôtres ne nous donneront pas pour
-
-[p. 179]
-
-cette loi (a) un terme de correction infiniment petit ; c'est dans ce sens que nous disons que la loi (a) est, pour le moment, la loi de l'univers et qu'il ne faut pas la considérer comme l'expression absolue et définitive de la réalité.
+Mais cette loi générale peut toujours être considérée comme une série à termes indéfiniment décroissants : nous connaissons aujourd'hui le premier terme de la série, c'est la loi dynamique (a) ; mais rien ne dit que des siècles d'observation, s'ils sont donnés à l'homme, ou simplement même l'emploi de procédés et d'instruments plus précis que les nôtres ne nous donneront pas pour [p. 179] cette loi (a) un terme de correction infiniment petit ; c'est dans ce sens que nous disons que la loi (a) est, pour le moment, la loi de l'univers et qu'il ne faut pas la considérer comme l'expression absolue et définitive de la réalité.
 
 Remarquons, de plus, que nous sommes loin de connaître tous les mouvements de la matière ; nous ne sommes donc pas certains que tous les mouvements satisfont à cette loi (a) ; cette observation concerne surtout les mouvements des points infiniment voisins, comme ceux qui se produisent dans les réactions chimiques, dans la formation des cristaux, dans l'organisation de la cellule ; peut-être ces mouvements ont-ils une dynamique spéciale différente de celle qu'on a étudiée jusqu'ici ; ce sont là, bien entendu, de pures hypothèses spéculatives, mais il est clair que, quand bien même elles se trouveraient réalisées, elles ne seraient qu'une application nouvelle de notre dynamique générale.
 
@@ -4360,11 +4052,7 @@ Pour n = 2, on rentre dans le cas de la loi (a).
 
 Ce système dynamique, que nous désignerons pour la commodité du langage par la lettre (b), a beaucoup d'analogies avec le système (a) ; les puissances d'ordre n y jouent le rôle des forces ;
 
-le système (b) nous donne notamment des puissances d'ordre n intérieures (ce mot s'explique de lui-même) deux à deux égales
-
-[p. 180]
-
-et opposées, et ces puissances intérieures disparaissent lorsque l'on compose toutes les puissances d'ordre n ou lorsque l'on prend leurs moments : de lå, par exemple, ce théorème (121) :
+le système (b) nous donne notamment des puissances d'ordre n intérieures (ce mot s'explique de lui-même) deux à deux égales [p. 180] et opposées, et ces puissances intérieures disparaissent lorsque l'on compose toutes les puissances d'ordre n ou lorsque l'on prend leurs moments : de lå, par exemple, ce théorème (121) :
 
 Théorème.
 

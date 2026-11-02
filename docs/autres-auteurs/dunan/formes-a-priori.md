@@ -4,17 +4,15 @@ title: "Essai sur les formes a priori de la sensibilité"
 
 # Essai sur les formes a priori de la sensibilité
 
-> Charles Dunan, *Essai sur les formes a priori de la sensibilité*, Paris, Librairie Hachette et Cie, 1884.
+> Charles Dunan, *Essai sur les formes *a priori* de la sensibilité*, Paris, Librairie Hachette et Cie, 1884.
 >
 > Source : Gallica / Bibliothèque nationale de France.
 
 ---
 
-[p. 1]
+[p. 1] ESSΑΙ
 
-ESSΑΙ
-
-SUR LES FORMES A PRIORI
+SUR LES FORMES *A PRIORI*
 
 DE LA SENSIBILITÉ
 
@@ -34,15 +32,11 @@ Dès le début du grand ouvrage dans lequel il entreprend de faire la critique d
 
 : d'abord les intuitions particulières qu'il attribue à une faculté qu'il nomme la Sensibilité ; puis l'ordre de ces intuitions qui sont par elles-mêmes isolées et sans lien, et qui peuvent bien fournir une matière à la connaissance, mais qui ne sont
 
-1
-
-[p. 2]
-
-pas la connaissance même ; et il donne le nom d'Entendement à la faculté qui coordonne les données de la sensibilité, introduit l'ordre dans la multiplicité des intuitions éparses et constitue la connaissance.
+1 [p. 2] pas la connaissance même ; et il donne le nom d'Entendement à la faculté qui coordonne les données de la sensibilité, introduit l'ordre dans la multiplicité des intuitions éparses et constitue la connaissance.
 
 La distinction de la sensibilité et de l'entendement a une raison d'être profonde. Du reste, elle est beaucoup plus ancienne que le Kantisme, puisqu'on la trouve déjà nettement accusée chez Aristote,
 
-quoique un peu autrement présentée. Ce qui est certain, c'est qu'elle s'impose à tout esprit non prévenu ; et nous ne pensons pas que l'immense majorité des philosophes hésite à y reconnaître la base nécessaire de toute recherche ultérieure sur les questions qui font l'objet de la Critique de la Raison pure.
+quoique un peu autrement présentée. Ce qui est certain, c'est qu'elle s'impose à tout esprit non prévenu ; et nous ne pensons pas que l'immense majorité des philosophes hésite à y reconnaître la base nécessaire de toute recherche ultérieure sur les questions qui font l'objet de la *Critique de la Raison pure*.
 
 Le but que nous nous proposons dans ce travail, c'est surtout d'étudier à la suite de Kant et d'une manière
 
@@ -52,11 +46,7 @@ le problème de la sensibilité, de faire la critique
 
 des solutions auxquelles s'est arrêté l'illustre auteur de l'Esthétique transcendantale, et, dans le cas où ces solutions ne nous paraîtraient pas entièrement satisfaisantes, de rechercher s'il n'en existerait point d'autres qui pussent leur être substituées avec avantage.
 
-On sait quelle est relativement à la sensibilité la théorie de Kant. Tous les phénomènes
-
-[p. 3]
-
-du sens extérieur nous sont donnés avec le caractère de l'étendue. Tous ceux
+On sait quelle est relativement à la sensibilité la théorie de Kant. Tous les phénomènes [p. 3] du sens extérieur nous sont donnés avec le caractère de l'étendue. Tous ceux
 
 du sens intérieur nous sont donnés avec le caractère de la durée. Kant conclut de là que le temps
 
@@ -76,13 +66,11 @@ Sans discuter pied à pied les quatre arguments par lesquels Kant a pensé démo
 
 Au premier effort de l'analyse, on découvre sans peine que la proposition qui exprime la doctrine de Kant sur les lois de la sensibilité implique et résume deux propositions différentes, que Kant a peut-être eu le tort de ne pas distinguer suffisamment, et de vouloir démontrer du même coup.
 
-[p. 4]
+[p. 4] La première, c'est que le caractère qu'ont les choses d'exister dans l'espace et dans le temps leur vient de l'esprit qui les pense, et non pas d'elles-mêmes, indépendamment de l'esprit. Il y a là évidemment un point important à établir, et c'est du reste à quoi tendent la plupart des arguments dont s'est servi Kant pour démontrer sa théorie. Mais ce premier point établi, tout n'est pas dit, et il n'est pas prouvé encore que le temps et l'espace soient les formes
 
-La première, c'est que le caractère qu'ont les choses d'exister dans l'espace et dans le temps leur vient de l'esprit qui les pense, et non pas d'elles-mêmes, indépendamment de l'esprit. Il y a là évidemment un point important à établir, et c'est du reste à quoi tendent la plupart des arguments dont s'est servi Kant pour démontrer sa théorie. Mais ce premier point établi, tout n'est pas dit, et il n'est pas prouvé encore que le temps et l'espace soient les formes
+*a priori* de la sensibilité.
 
-a priori de la sensibilité.
-
-Il se pourrait, en effet, que l'esprit constituant l'expérience suivant une forme a priori autre que le temps et l'espace, donnât aux phénomènes les
+Il se pourrait, en effet, que l'esprit constituant l'expérience suivant une forme *a priori* autre que le temps et l'espace, donnât aux phénomènes les
 
 caractères de
 
@@ -92,29 +80,23 @@ l'étendue. Dans ce cas, le temps et l'espace seraient, non point sans doute des
 
 ne seraient pas non plus des
 
-intuitions pures et a priori, des formes essentielles de la sensibilité. Ce seraient simplement des choses de l'ordre phénoménal, connues de l'esprit a posteriori, et pourtant universelles
+intuitions pures et *a priori*, des formes essentielles de la sensibilité. Ce seraient simplement des choses de l'ordre phénoménal, connues de l'esprit *a posteriori*, et pourtant universelles
 
 et nécessaires, comme résultant de l'application à la matière des phénomènes d'une forme universelle et nécessaire.
 
-Il y a là évidemment un problème qu'il faut résoudre, et Kant a eu tort, à notre avis, de négliger cette seconde partie de
-
-[p. 5]
-
-la question qu'il envisageait, et de la confondre plus ou moins complètement avec la première, dont elle diffère d'une manière essentielle.
+Il y a là évidemment un problème qu'il faut résoudre, et Kant a eu tort, à notre avis, de négliger cette seconde partie de [p. 5] la question qu'il envisageait, et de la confondre plus ou moins complètement avec la première, dont elle diffère d'une manière essentielle.
 
 La théorie de la sensibilité comportera donc pour nous l'étude des deux questions suivantes :
 
 1º Le temps et l'espace existent-ils ou non absolument et en soi ?
 
-2º Le temps et l'espace, en supposant qu'ils n'aient point d'existence absolue, sont-ils ou ne sont-ils pas des formes que l'esprit impose a priori aux phénomènes, et d'après lesquelles il constitue sa propre connaissance ?
+2º Le temps et l'espace, en supposant qu'ils n'aient point d'existence absolue, sont-ils ou ne sont-ils pas des formes que l'esprit impose *a priori* aux phénomènes, et d'après lesquelles il constitue sa propre connaissance ?
 
 Il est certainement des personnes à qui la discussion du premier point paraîtra inutile et oiseuse, la question pouvant être considérée comme résolue depuis longtemps dans le sens de la non-objectivité du temps et de l'espace.
 
 Cependant, nous ferons observer que cette solution, que du reste nous adoptons pleinement, n'a pas obtenu, tant s'en faut, l'adhésion unanime des philosophes, même depuis Kant ; que par conséquent la question doit être considérée comme toujours ouverte, et que dès lors il y aurait à nous grande imprudence à prendre pour accordé ce que contestent tant de personnes habiles. Aussi nous efforcerons-nous d'établir le plus solidement qu'il nous sera possible ce que nous croyons être la vérité sur ce point.
 
-[p. 6]
-
-CHAPITRE
+[p. 6] CHAPITRE
 
 #### II
 
@@ -138,11 +120,7 @@ c'est que l'espace et le temps étant essentiellement multiples ne peuvent être
 
 l'être, au même
 
-titre que tout ce qui est multiple et
-
-[p. 7]
-
-soumis à la loi du changement. Sans doute, y avait là une solution au problème, mais une solution bien incomplète. Dans la pensée des Eléates, de Platon et de leurs successeurs,
+titre que tout ce qui est multiple et [p. 7] soumis à la loi du changement. Sans doute, y avait là une solution au problème, mais une solution bien incomplète. Dans la pensée des Eléates, de Platon et de leurs successeurs,
 
 le temps et l'espace n'avaient point à la vérité d'existence absolue ; mais pourtant ils devaient posséder autant de réalité que l'homme et que toutes les choses contingentes. Or que pouvaient réclamer de plus leurs partisans les plus convaincus, sauf peut-être Démocrite, Epicure et tous les atomistes qui étaient engagés à les affirmer absolus et nécessaires ? En les niant comme attributs de l'Etre,
 
@@ -154,11 +132,7 @@ vues nouvelles sur la question qui nous occupe, et une discussion vraiment séri
 
 Les scolastiques avaient considéré en général l'étendue comme un attribut universel des substances corporelles. Cette solution qui était celle d'un prétendu sens commun ne
 
-satisfit
-
-[p. 8]
-
-pas Descartes. Qu'étaient en soi les substances en question ? On n'en pouvait rien dire, et ce n'était pas vraiment déterminer leur nature que de leur prêter, à titre de qualités occultes, des pouvoirs spéciaux en vertu desquels elles étaient supposées produire les phénomènes que nous voyons. La substance des choses, c'est ce qu'il y a en elles d'invariable et d'immuable ; or l'étendue est la seule qualité des corps qui ne puisse ni changer ni disparaître : elle est par là-même en quelque sorte le support de toutes les autres qualités, et doit être par conséquent, suivant Descartes, la substance même des corps.
+satisfit [p. 8] pas Descartes. Qu'étaient en soi les substances en question ? On n'en pouvait rien dire, et ce n'était pas vraiment déterminer leur nature que de leur prêter, à titre de qualités occultes, des pouvoirs spéciaux en vertu desquels elles étaient supposées produire les phénomènes que nous voyons. La substance des choses, c'est ce qu'il y a en elles d'invariable et d'immuable ; or l'étendue est la seule qualité des corps qui ne puisse ni changer ni disparaître : elle est par là-même en quelque sorte le support de toutes les autres qualités, et doit être par conséquent, suivant Descartes, la substance même des corps.
 
 La question en était là, lorsque Leibnitz à son tour vint soutenir que l'étendue n'est pas plus la substance des corps qu'elle n'est un attribut de cette substance. Les arguments par lesquels il combattit la doctrine de Descartes sont nombreux et bien connus
 
@@ -168,27 +142,17 @@ La question en était là, lorsque Leibnitz à son tour vint soutenir que l'éte
 
 2º Si la substance des corps se réduisait à la pure étendue, le mouvement serait impossible, et les lois du mouvement seraient inexplicables.
 
-3º Vouloir composer les corps avec l'étendue,
-
-[p. 9]
-
-c'est vouloir faire quelque chose de rien. Un'e étendue quelconque, par le seul fait qu'elle est composée de parties plus petites, n'est qu'un être de raison, à peu près comme un tas de pierres, une armée ou la Compagnie des Indes.
+3º Vouloir composer les corps avec l'étendue, [p. 9] c'est vouloir faire quelque chose de rien. Un'e étendue quelconque, par le seul fait qu'elle est composée de parties plus petites, n'est qu'un être de raison, à peu près comme un tas de pierres, une armée ou la Compagnie des Indes.
 
 Il y a toutefois cette différence considérable, qu'une armée et la Compagnie des Indes sont des agrégats composés d'unités véritables, les soldats et les officiers d'une part, les agents de la Compagnie de l'autre, et par conséquent ont une certaine réalité, au moins dans leurs éléments. Au contraire, l'étendue étant indéfiniment divisible, estun agrégat dont l'élément ultime n'existe pas : c'est un nombre sans unités, un composé sans composants, et par conséquent l'étendue ne saurait être une chose réelle.
 
 Ce dernier argument surtout est frappant, et montre excellemment que l'étendue ne saurait être ni la substance, ni même un simple attribut de la substance des corps. Et pourtant il est certain que la brillante et célèbre discussion que Leibnitz soutint contre les cartésiens, et aussi contre Newton et Clarke, n'eut pas pour résultat de rallier à son opinion l'unanimité des philosophes de son temps ni des temps qui ont suivi.
 
-Il y a là quelque chose qui peut surprendre au premier abord. Il semble, en effet, que la succession des âges, mortelle à l'erreur,
-
-[p. 10]
-
-doive affermir et consolider de plus en plus la vérité dans l'esprit des hommes, et qu'en toutes choses, la raison doive finir par avoir raison. Quelles sont donc les causes pour lesquelles la doctrine de Leibnitz n'a pas obtenu un triomphe définitif ? On en peut assigner deux principales. La première avec laquelle, malheureusement, il faudra compter toujours,
+Il y a là quelque chose qui peut surprendre au premier abord. Il semble, en effet, que la succession des âges, mortelle à l'erreur, [p. 10] doive affermir et consolider de plus en plus la vérité dans l'esprit des hommes, et qu'en toutes choses, la raison doive finir par avoir raison. Quelles sont donc les causes pour lesquelles la doctrine de Leibnitz n'a pas obtenu un triomphe définitif ? On en peut assigner deux principales. La première avec laquelle, malheureusement, il faudra compter toujours,
 
 c'est la tendance naturelle qu'ont tous les hommes à considérer le témoignage immédiat des sens comme supépieur à toute critique ; c'est le prétendu sens commun reproduisant sans se lasser jamais l'argumentum baculinum, et soutenant qu'il faut bien que l'espace soit, puisqu'on le voit et qu'on le touche. La seconde cause est d'ordre moins général : c'est la façon dont Leibnitz luimême entendait la nature de l'espace. Il fallait bien en effet que ce philosophe, après avoir combattu l'erreur vulgaire et détruit la solution du sens commun, présentât la sienne. Or c'est ce que le plus souvent il faisait de telle sorte, que l'erreur chassée et détruite dans la partie critique et réfutative de sa thèse, se trouvait rétablie et réintroduite par lui-même dans la partie dogmatique et affirmative. C'est ainsi que, dans la plupart de ses écrits', il considère les corps [^p10-1]
 
-[p. 11]
-
-comme des agrégats de monades en nombre infini. L'espace est alors défini par lui « l'ordre des situations
+[p. 11] comme des agrégats de monades en nombre infini. L'espace est alors défini par lui « l'ordre des situations
 
 [des différentes monades], ou un ordre suivant lequel les situations sontrangées'; »
 
@@ -202,9 +166,7 @@ Sans doute cette doctrine contradictoire et dont les incohérences sautent aux y
 
 . Bien que [^p11-1]
 
-[p. 12]
-
-Leibnitz ne se soit jamais prononcé nettement sur ce point, on peut croire, sans grande témérité à notre avis, que sa doctrine véritable et définitive
+[p. 12] Leibnitz ne se soit jamais prononcé nettement sur ce point, on peut croire, sans grande témérité à notre avis, que sa doctrine véritable et définitive
 
 était un idéalisme
 
@@ -216,15 +178,9 @@ Telle était, croyons-nous 1, la véritable doctrine de Leibnitz ; et dès lors 
 
 (Hachette, 1881), soutient la même opinion.
 
-[p. 13]
+[p. 13] tif demeurant dans l'ombre, n'ait pas pu obtenir un assentiment qu'il fallait arracher en quelque sorte de vive force, par la puissance de la logique et la rigueur de la déduction.
 
-tif demeurant dans l'ombre, n'ait pas pu obtenir un assentiment qu'il fallait arracher en quelque sorte de vive force, par la puissance de la logique et la rigueur de la déduction.
-
-Quoi qu'il en soit du succès obtenu par Leibnitz dans sa tentative pour prouver que l'espace et aussi le temps ne sont rien d'absolu, il faut reconnaître que sa méthode consistant à montrer qu'une telle hypothèse contient des contradictions, était véritablement la bonne. Berkeley, Hume et Kant pensèrent atteindre au même résultat en nous enfermant dans le domaine de la connaissance subjective, et en montrant que, quoi que nous fassions, nous ne pouvons jamais sortir de nous-mêmes et de notre pensée ; mais il ne semble pas qu'ils y soient arrivés si directement ni d'une manière aussi sûre. C'est que, tant que l'on n'a pas prouvé que la réalité objective du temps et de l'espace implique contradiction, il faut bien admettre que cette réalité est au moins possible. Dès lors, on aura beau faire valoir que le temps et l'espace appartiennent à l'ordre phénoménal et sont donnés dans la représentation, ce que personne du reste, à ce qu'il semble, n'est disposé à contester, on se trouvera toujours en présence de l'hypothèse d'après laquelle le temps et l'espace existeraient tout à la fois en
-
-[p. 14]
-
-soi et dans la pensée. Que cette hypothèse soit antiscientifique et antiphilosophique, nous en conviendrons sans peine : elle existe pourtant, et le réalisme vulgaire si répandu encore dans le public philosophique, et surtout en France, n'entend pas la chose autrement. A coup sûr, la première et la principale chose, c'est d'avoir raison pour soi et absolument ; mais pourtant, avoir raison pour les autres, et réussir à les convaincre, n'est pas un résultat qu'il soit permis de dédaigner non plus ; et il est à tout le moins légitime et méritoire d'y prétendre. Avec tous les efforts de leur dialectique puissante, Berkeley, Hume et Kant n'ont pas réussi à imposer à tout esprit versé dans l'étude des questions philosophiques le principe de la relativité de la connaissance ; et cela, parce que, pour ce qui regarde le temps et l'espace en particulier, ils se heurtaient à des préjugés obstinés d'un prétendu sens commun pour qui le point de vue auquel ils se plaçaient demeurait en quelque sorte inaccessible. Au contraire, en prouvant que l'existence absolue du temps et de l'espace implique contradiction, on détruit
+Quoi qu'il en soit du succès obtenu par Leibnitz dans sa tentative pour prouver que l'espace et aussi le temps ne sont rien d'absolu, il faut reconnaître que sa méthode consistant à montrer qu'une telle hypothèse contient des contradictions, était véritablement la bonne. Berkeley, Hume et Kant pensèrent atteindre au même résultat en nous enfermant dans le domaine de la connaissance subjective, et en montrant que, quoi que nous fassions, nous ne pouvons jamais sortir de nous-mêmes et de notre pensée ; mais il ne semble pas qu'ils y soient arrivés si directement ni d'une manière aussi sûre. C'est que, tant que l'on n'a pas prouvé que la réalité objective du temps et de l'espace implique contradiction, il faut bien admettre que cette réalité est au moins possible. Dès lors, on aura beau faire valoir que le temps et l'espace appartiennent à l'ordre phénoménal et sont donnés dans la représentation, ce que personne du reste, à ce qu'il semble, n'est disposé à contester, on se trouvera toujours en présence de l'hypothèse d'après laquelle le temps et l'espace existeraient tout à la fois en [p. 14] soi et dans la pensée. Que cette hypothèse soit antiscientifique et antiphilosophique, nous en conviendrons sans peine : elle existe pourtant, et le réalisme vulgaire si répandu encore dans le public philosophique, et surtout en France, n'entend pas la chose autrement. A coup sûr, la première et la principale chose, c'est d'avoir raison pour soi et absolument ; mais pourtant, avoir raison pour les autres, et réussir à les convaincre, n'est pas un résultat qu'il soit permis de dédaigner non plus ; et il est à tout le moins légitime et méritoire d'y prétendre. Avec tous les efforts de leur dialectique puissante, Berkeley, Hume et Kant n'ont pas réussi à imposer à tout esprit versé dans l'étude des questions philosophiques le principe de la relativité de la connaissance ; et cela, parce que, pour ce qui regarde le temps et l'espace en particulier, ils se heurtaient à des préjugés obstinés d'un prétendu sens commun pour qui le point de vue auquel ils se plaçaient demeurait en quelque sorte inaccessible. Au contraire, en prouvant que l'existence absolue du temps et de l'espace implique contradiction, on détruit
 
 définitivement l'hypothèse
 
@@ -232,9 +188,7 @@ réaliste
 
 qui les considère comme existant en soi, et l'on établit victorieusement que ce sont de pures données de la représentation.
 
-[p. 15]
-
-Du reste, de nos jours, les philosophes qui tiennent à démontrer la subjectivité pure des notions de temps et d'espace semblent disposés à entrer dans cette voie. Dans l'école néo-criticiste française principalement, le représentant le plus éminent de cette école, M. Renouvier, se souvenant des antiques arguments de Zénon d'Elée contre le mouvement, arguments assez décriés en général et traités de sophistiques par la plupart des philosophes, pensa que la méthode de Zénon était peut-être la meilleure que l'on pût adopter, et entreprit de mettre en lumière les contradictions dans lesquelles on tombe, quand on veut considérer le temps et l'espace comme réels,
+[p. 15] Du reste, de nos jours, les philosophes qui tiennent à démontrer la subjectivité pure des notions de temps et d'espace semblent disposés à entrer dans cette voie. Dans l'école néo-criticiste française principalement, le représentant le plus éminent de cette école, M. Renouvier, se souvenant des antiques arguments de Zénon d'Elée contre le mouvement, arguments assez décriés en général et traités de sophistiques par la plupart des philosophes, pensa que la méthode de Zénon était peut-être la meilleure que l'on pût adopter, et entreprit de mettre en lumière les contradictions dans lesquelles on tombe, quand on veut considérer le temps et l'espace comme réels,
 
 indépendamment de la représentation.
 
@@ -270,11 +224,7 @@ l'objet en soi ne peut avoir aucune grandeur.
 
 Nous venons de dire que nous allons étudier le temps et l'espace au point de vue exclusif de la continuité ; mais, tout d'abord, une question se pose d'elle-même : le temps et l'espace sontils véritablement des continus ?
 
-Ici une confusion est à craindre, et nous devons faire remarquer que le temps et l'espace dont il s'agit pour nous, c'est uniquement le temps et l'espace tels qu'ils sont donnés dans la représentation. Que d'ailleurs des penseurs d'un grand mérite aient cru devoir affirmer
-
-[p. 17]
-
-l'existence d'un espace objectif discontinu, produisant dans la représentation l'illusion de la continuité ; que d'autres aient cru à l'existence d'une représentation en quelque
+Ici une confusion est à craindre, et nous devons faire remarquer que le temps et l'espace dont il s'agit pour nous, c'est uniquement le temps et l'espace tels qu'ils sont donnés dans la représentation. Que d'ailleurs des penseurs d'un grand mérite aient cru devoir affirmer [p. 17] l'existence d'un espace objectif discontinu, produisant dans la représentation l'illusion de la continuité ; que d'autres aient cru à l'existence d'une représentation en quelque
 
 sorte infraconsciente et discontinue dans la durée, se traduisant dans la conscience immédiate par le sentiment de la continuité, nous n'avons pas pour le moment à nous occuper de ces doctrines.
 
@@ -288,15 +238,9 @@ Pour ce qui concerne le temps, on voit aisément qu'il ne peut y avoir d'hiatus 
 
 A la vérité, M. Ribot, dans un important article sur La durée des actes psychiques', conclut d'ex-[^p17-1]
 
-[p. 18]
+[p. 18] périences faites en Allemagne et rapportées par lui, que la conscience est en fait discontinue « Dans ces expériences, dit M. Ribot, les excitations se produisent de telle façon qu'entre elles, il n'y a objectivement aucun intervalle. Et cependant, subjectivement, nous sentons très clairement qu'il y a un petit intervalle, pendant lequel aucune des deux excitations n'est perçue nettement. Ainsi, tandis qu'il y a continuité entre les causes de nos perceptions, il y a discontinuité dans les
 
-périences faites en Allemagne et rapportées par lui, que la conscience est en fait discontinue « Dans ces expériences, dit M. Ribot, les excitations se produisent de telle façon qu'entre elles, il n'y a objectivement aucun intervalle. Et cependant, subjectivement, nous sentons très clairement qu'il y a un petit intervalle, pendant lequel aucune des deux excitations n'est perçue nettement. Ainsi, tandis qu'il y a continuité entre les causes de nos perceptions, il y a discontinuité dans les
-
-effets. Ce caractère de discontinuité que présente le cours de nos états internes vient, comme le fait remarquer M. Wundt, de la nature de l'aperception. Notre attention a besoin d'un certain temps pour passer d'une impression à une autre. Tant que la première dure, tout notre effort tend vers elle ; l'attention n'est pas prédisposée à saisir la seconde au moment où elle apparaît. Il y a donc un certain instant durant lequel l'attention diminue pour la première, et augmente pour la seconde c'est cet instant qui nous paraît vide et indéterminé. Etant données deux impressions qui en réalité sont simultanées ou séparées par un très court intervalle, il n'y a pour nous que trois manières possibles de les percevoir : simultanéité, continuité, discontinuité. Si nous les percevons comme simultanées, alors elles sont
-
-[p. 19]
-
-pour nous des parties intégrantes d'un même tout : elles constituent un objet. Sinon, nous les percevons toujours comme discontinuées sous la forme discrète du temps ; et cette forme, comme on le voit, a sa source dans la nature même de l'acte de l'aperception. Le continu, pour nous, ne peut venir que des variations d'intensité d'une seule et même représentation, jamais de la juxtaposition de deux états. »>
+effets. Ce caractère de discontinuité que présente le cours de nos états internes vient, comme le fait remarquer M. Wundt, de la nature de l'aperception. Notre attention a besoin d'un certain temps pour passer d'une impression à une autre. Tant que la première dure, tout notre effort tend vers elle ; l'attention n'est pas prédisposée à saisir la seconde au moment où elle apparaît. Il y a donc un certain instant durant lequel l'attention diminue pour la première, et augmente pour la seconde c'est cet instant qui nous paraît vide et indéterminé. Etant données deux impressions qui en réalité sont simultanées ou séparées par un très court intervalle, il n'y a pour nous que trois manières possibles de les percevoir : simultanéité, continuité, discontinuité. Si nous les percevons comme simultanées, alors elles sont [p. 19] pour nous des parties intégrantes d'un même tout : elles constituent un objet. Sinon, nous les percevons toujours comme discontinuées sous la forme discrète du temps ; et cette forme, comme on le voit, a sa source dans la nature même de l'acte de l'aperception. Le continu, pour nous, ne peut venir que des variations d'intensité d'une seule et même représentation, jamais de la juxtaposition de deux états. »>
 
 Nous acceptons pleinement ces observations.
 
@@ -304,9 +248,7 @@ Oui, sans doute, lorsque deux impressions se succèdent en nous, « il est un ce
 
 Mais faut-il conclure de là à l'atomisme intellectuel, à la composition d'un état de conscience donné par une série d'états instantanés séparés entre eux par les intervalles ? Il ne le semble pas, ou plutôt, il semble tout le contraire ; car, s'il y a discontinuité entre deux impressions différentes, une même impression est expressément supposée continue. Or nous ne demandons rien de plus : la conscience que nous avons de nous-même est continue, et le seraitelle seulement pendant un laps de temps très court, que cela nous suffirait. Puis, voyez quelle est la nature de cette discontinuité dont parle
 
-[p. 20]
-
-M. Ribot. Entre deux impressions successives et différentes, il est un état moyen qui ne répond plus à la première impression, et ne répond pas encore à la seconde. Cet état qui a une
+[p. 20] M. Ribot. Entre deux impressions successives et différentes, il est un état moyen qui ne répond plus à la première impression, et ne répond pas encore à la seconde. Cet état qui a une
 
 certaine durée, constitue une sorte d'hiatus entre les deux autres qui sont nettement définis. La conscience, dans cet intervalle, subsiste-t-elle ou non ? Si elle ne subsiste pas, il ne faut pas dire que la conscience soit intermittente ; car, pour le sujet conscient, le dernier instant du premier état et le premier instant du second état coïncident ; et, si l'observateur constate un intervalle réel, c'est qu'il constitue lui-même par sa conscience en quelque sorte un temps
 
@@ -314,11 +256,7 @@ objectif, un temps
 
 extérieur par rapport au sujet observé. Pour ce dernier, la continuité de la conscience a été parfaite. Si au contraire on admet que la conscience subsiste pendant l'intervalle, il ne faut plus considérer cet intervalle comme un hiatus véritable. C'est un état vague, mal défini, ce n'est nullement une solution de continuité entre deux instants consécutifs du sentiment que le sujet a de lui-même. -
 
-Donc, en résumé, sans rien préjuger sur la nature ou sur la réalité du temps en soi, sans méconnaître même qu'il puisse exister pour la conscience de l'un, et s'il est permis de parler ainsi, dans le temps subjectif de l'un, des in-
-
-[p. 21]
-
-tervalles en la conscience de l'autre,
+Donc, en résumé, sans rien préjuger sur la nature ou sur la réalité du temps en soi, sans méconnaître même qu'il puisse exister pour la conscience de l'un, et s'il est permis de parler ainsi, dans le temps subjectif de l'un, des in-[p. 21]tervalles en la conscience de l'autre,
 
 il est certain que toute la série de nos états psychiques est présente à chacun de nous comme continue, et par là-même, nous croyons être en droit de traiter comme continu le temps tel qu'il est donné dans la représentation.
 
@@ -332,21 +270,13 @@ c'est-à-dire qu'on y peut déterminer un nombre de parties homogènes au tout p
 
 est toujours un temps ou une longueur réelle, quel que soit n.
 
-Quand nous disons : la suite des nombres est indéfinie, la vitesse d'un mouvement peut augmenter indéfiniment, que signifient ces expressions, sinon que, quelque grand que soit un nombre, il est toujours possible d'en concevoir un plus grand, et que, si rapide que soit un mouvement, on peut toujours en imaginer
-
-[p. 22]
-
-un plus rapide ? Ainsi, le terme indéfini exprime simplement une possibilité inépuisable de concevoir ou d'imaginer. Et qu'y a-t-il là qui ne soit parfaitement naturel et légitime ? Si l'esprit est incapable de concevoir ou d'imaginer un infini quelconque de grandeur ou de vitesse, il est bien certain du moins que la puissance qu'il possède de reculer par l'imagination les bornes du fini n'a point de limites. L'esprit est donc en quelque sorte dans son droit en affirmant qu'aucune représentation donnée ne borne sa puissance de concevoir ou d'imaginer, et il n'est point étonnant qu'il ait eu besoin d'un mot tel que celui
+Quand nous disons : la suite des nombres est indéfinie, la vitesse d'un mouvement peut augmenter indéfiniment, que signifient ces expressions, sinon que, quelque grand que soit un nombre, il est toujours possible d'en concevoir un plus grand, et que, si rapide que soit un mouvement, on peut toujours en imaginer [p. 22] un plus rapide ? Ainsi, le terme indéfini exprime simplement une possibilité inépuisable de concevoir ou d'imaginer. Et qu'y a-t-il là qui ne soit parfaitement naturel et légitime ? Si l'esprit est incapable de concevoir ou d'imaginer un infini quelconque de grandeur ou de vitesse, il est bien certain du moins que la puissance qu'il possède de reculer par l'imagination les bornes du fini n'a point de limites. L'esprit est donc en quelque sorte dans son droit en affirmant qu'aucune représentation donnée ne borne sa puissance de concevoir ou d'imaginer, et il n'est point étonnant qu'il ait eu besoin d'un mot tel que celui
 
 d'indéfini pour exprimer cet illimitation de son pouvoir.
 
 Il est assez clair d'après cela que le terme d'indéfini n'a et ne peut avoir qu'un sens purement subjectif.
 
-Il exprime l'affirmation portée par l'esprit en présence d'un objet donné, d'une puissance de concevoir au delà de cet objet ; et cet objet au delà devenant à son tour un objet présent par la représentation que nous nous en faisons, nous affirmons encore notre pouvoir de concevoir au delà, et ainsi de suite ; sans que jamais aucun des termes ainsi conçus nous apparaisse comme terminant nécessairement la série, et arrêtant le mouvement possible de la pensée. Qu'y a-t-il donc de commun entre
-
-[p. 23]
-
-le premier objet réel et concret, et la série des objets suivants ; ou, pour parler plus exactement, entre ce premier objet et le pouvoir qu'a l'esprit d'en imaginer d'autres ? Il est donc manifeste que le terme d'indéfini n'a de sens que par rapport au sujet, et que vouloir l'appliquer à l'objet extérieur, faire de l'indéfinité un attribut de la chose en soi, c'est ne pas s'entendre avec soi-même. Du reste, il est une chose qui met à nu pleinement la confusion que l'on commet en voulant transporter à l'objet ce qui appartient en propre au sujet ; c'est la contradiction qui s'introduit alors dans le concept. En effet,
+Il exprime l'affirmation portée par l'esprit en présence d'un objet donné, d'une puissance de concevoir au delà de cet objet ; et cet objet au delà devenant à son tour un objet présent par la représentation que nous nous en faisons, nous affirmons encore notre pouvoir de concevoir au delà, et ainsi de suite ; sans que jamais aucun des termes ainsi conçus nous apparaisse comme terminant nécessairement la série, et arrêtant le mouvement possible de la pensée. Qu'y a-t-il donc de commun entre [p. 23] le premier objet réel et concret, et la série des objets suivants ; ou, pour parler plus exactement, entre ce premier objet et le pouvoir qu'a l'esprit d'en imaginer d'autres ? Il est donc manifeste que le terme d'indéfini n'a de sens que par rapport au sujet, et que vouloir l'appliquer à l'objet extérieur, faire de l'indéfinité un attribut de la chose en soi, c'est ne pas s'entendre avec soi-même. Du reste, il est une chose qui met à nu pleinement la confusion que l'on commet en voulant transporter à l'objet ce qui appartient en propre au sujet ; c'est la contradiction qui s'introduit alors dans le concept. En effet,
 
 l'indéfinité — qu'on nous pardonne le néologisme — est, comme nous l'avons dit, une possibilité inépuisable ; et il faut de deux choses l'une, ou bien que l'objet ne réalise qu'en partie cette possibilité inépuisable, et alors on ne peut plus dire que cette possibilité inépuisable
 
@@ -354,21 +284,13 @@ est au nombre des prédicats de l'objet ; ou bien, au contraire, que l'objet ré
 
 Ainsi, il faut bien distinguer. Que nous concevions l'indéfinité hors des êtres, c'est-à-dire comme une série sans fin de possibilités dont chacune
 
-individuellement peut être réalisée,
-
-[p. 24]
-
-quoique la série entière ne puisse l'être, l'esprit d'ailleurs n'étant jamais arrêté dans son pouvoir d'imaginer des termes nouveaux de la série, cela est acceptable et juste ; parce que l'esprit toujours limité en acte est véritablement infini en puissance. Mais, que nous croyions voir dans un objet une possibilité inépuisable actuelle, constituant l'un des prédicats de cet objet, le constituant essentiellement ou accidentellement c'est
+individuellement peut être réalisée, [p. 24] quoique la série entière ne puisse l'être, l'esprit d'ailleurs n'étant jamais arrêté dans son pouvoir d'imaginer des termes nouveaux de la série, cela est acceptable et juste ; parce que l'esprit toujours limité en acte est véritablement infini en puissance. Mais, que nous croyions voir dans un objet une possibilité inépuisable actuelle, constituant l'un des prédicats de cet objet, le constituant essentiellement ou accidentellement c'est
 
 être victime d'une illusion pure. Or un continu quelconque, temps ou espace, s'il était réel, posséderait un pareil prédicat, puisque, par essence, le continu est indéfinient divisible. Que le temps et l'espace soient donnés dans la représentation, et que, comme tels, ils portent dans leur caractère d'indéfinie divisibilité la marque du pouvoir inépuisable de concevoir que possède l'esprit, il n'y a rien là qui doive surprendre. Mais que le temps et l'espace soient objectivement, et qu'à ce titre ils fondent hors de nous une possibilité effective de
 
 diviser sans fin, c'est une chose inconcevable et contradictoire.
 
-Si, comme nous venons de le voir, l'indéfinie divisibilité n'a de sens que par rapport à la représentation, et ne peut être un attribut des choses en soi, il en est de même dela divisibilité en général. La raison en est que la divisi
-
-[p. 25]
-
-bilité ne se conçoit que dans le continu. Sans doute, il nous arrive souvent de diviser des composés discrets, par exemple de partager un tas de pierres en plusieurs tas plus petits. Mais il n'y a pas là, à proprement parler, de division :
+Si, comme nous venons de le voir, l'indéfinie divisibilité n'a de sens que par rapport à la représentation, et ne peut être un attribut des choses en soi, il en est de même dela divisibilité en général. La raison en est que la divisi [p. 25] bilité ne se conçoit que dans le continu. Sans doute, il nous arrive souvent de diviser des composés discrets, par exemple de partager un tas de pierres en plusieurs tas plus petits. Mais il n'y a pas là, à proprement parler, de division :
 
 il y a seulement une manière nouvelle dont l'esprit embrasse son objet. Toutes les pierres étaient pensées par moi dans un acte unique de l'esprit ; maintenant je les pense dans plusieurs actes
 
@@ -380,11 +302,7 @@ Or
 
 il est évident que
 
-quiconque opère sur des quantités discrètes ne peut que modifier leur groupement ; aussi le mot diviser n'a-t-il de sens que par rapport aux grandeurs continues, en tant qu'elles sont continues. Mais alors la propriété qu'ont ces quantités de pouvoir être divisées n'a point de terme ni de limite, comme il a été dit plus haut ; c'est-à-dire que leur divisibilité est indéfinie, et toute divisibilité vraie ne peut être conçue indépendamment de ce caractère de l'indéfinité. Ainsi, la chose en soi ne peut être continue, parce que, si elle
-
-[p. 26]
-
-l'était, il faudrait qu'elle fût indéfiniment divisible, ce qui est contradictoire ; elle ne peut pas même
+quiconque opère sur des quantités discrètes ne peut que modifier leur groupement ; aussi le mot diviser n'a-t-il de sens que par rapport aux grandeurs continues, en tant qu'elles sont continues. Mais alors la propriété qu'ont ces quantités de pouvoir être divisées n'a point de terme ni de limite, comme il a été dit plus haut ; c'est-à-dire que leur divisibilité est indéfinie, et toute divisibilité vraie ne peut être conçue indépendamment de ce caractère de l'indéfinité. Ainsi, la chose en soi ne peut être continue, parce que, si elle [p. 26] l'était, il faudrait qu'elle fût indéfiniment divisible, ce qui est contradictoire ; elle ne peut pas même
 
 être
 
@@ -396,11 +314,7 @@ il faudrait qu'elle fût divisible indéfiniment. La divisibilité est donc une
 
 notion applicable aux données de la représentation, mais qui n'a aucun sens en dehors de là, et qui, par conséquent, ne peut être considérée comme une propriété des choses en soi.
 
-2º Si l'on considère le continu, temps ou espace, uniquement par rapport à la représentation, son concept se suffit à lui-même, et il est inutile de rechercher de quels éléments il est formé. Le concept d'un tas de pierres n'est pas formé de la réunion de cent concepts correspondant chacun à l'une des pierres du tas. Le concept d'une grandeur continue, un mètre par exemple, n'est pas formé par l'ensemble d'un nombre plus ou moins grand de concepts élémentaires. Donc, dans la représentation, nous n'avons pas à nous préoccuper de la composition de la quantité continue. Si nous voulons objectiver la représentation et considérer la quantité continue comme existant en soi, c'est autre chose. La quantité continue supposée objectivement réelle est divisible ; par conséquent elle est composée, et alors nous
-
-[p. 27]
-
-avons à nous demander quels sont ses éléments composants. Or, comme la divisibilité du continu est indéfinie, il faut nécessairement que les éléments composants constituent un nombre infini réel, ce qui est contradictoire. Nous ne nous attacherons pas à démontrer la contradiction que renferme le concept d'un nombre infini réel ; c'est un point qui a été mis bien des fois en lumière, et particulièrement en ces derniers temps, par M. Renouvier, avec une autorité et une précision
+2º Si l'on considère le continu, temps ou espace, uniquement par rapport à la représentation, son concept se suffit à lui-même, et il est inutile de rechercher de quels éléments il est formé. Le concept d'un tas de pierres n'est pas formé de la réunion de cent concepts correspondant chacun à l'une des pierres du tas. Le concept d'une grandeur continue, un mètre par exemple, n'est pas formé par l'ensemble d'un nombre plus ou moins grand de concepts élémentaires. Donc, dans la représentation, nous n'avons pas à nous préoccuper de la composition de la quantité continue. Si nous voulons objectiver la représentation et considérer la quantité continue comme existant en soi, c'est autre chose. La quantité continue supposée objectivement réelle est divisible ; par conséquent elle est composée, et alors nous [p. 27] avons à nous demander quels sont ses éléments composants. Or, comme la divisibilité du continu est indéfinie, il faut nécessairement que les éléments composants constituent un nombre infini réel, ce qui est contradictoire. Nous ne nous attacherons pas à démontrer la contradiction que renferme le concept d'un nombre infini réel ; c'est un point qui a été mis bien des fois en lumière, et particulièrement en ces derniers temps, par M. Renouvier, avec une autorité et une précision
 
 telles qu'il semble inutile d'y revenir. Cependant il s'est produit à ce sujet une objection dont nous avons à tenir compte.
 
@@ -410,11 +324,7 @@ On admet bien que le nombre infini réalisé soit contradictoire, mais ce que l'
 
 Soit un continu limité d'une grandeur déterminée, une ligne droite d'un mètre de longueur par exemple. Pour pouvoir dire que dans ce mètre
 
-il y a un nombre infini réel de parties composantes, il faudrait commencer par déterminer une unité qui y fût comprise un nombre infini réel de fois. Or, si vous déterminez ainsi l'unité dont la répétition forme la ligne totale, il est certain que cette unité est comprise dans
-
-[p. 28]
-
-la ligne totale un nombre de fois limité, et pas du tout un nombre infini. Si au contraire vous ne déterminez pas cette unité, il n'y a plus de nombre fini ou infini, parce qu'une unité indéterminée n'est pas une unité véritable, et par conséquent ne peut servir à constituer un nombre. Cette thèse a quelque rapport avec се que dit Leibnitz dans sa Monadologie, que les Monades, pour être en nombre plus grand que tout nombre assignable dans une parcelle de matière, n'y sont pas pour cela en nombre infini, attendu que l'on ne peut nombrer que ce qui est numérable, que
+il y a un nombre infini réel de parties composantes, il faudrait commencer par déterminer une unité qui y fût comprise un nombre infini réel de fois. Or, si vous déterminez ainsi l'unité dont la répétition forme la ligne totale, il est certain que cette unité est comprise dans [p. 28] la ligne totale un nombre de fois limité, et pas du tout un nombre infini. Si au contraire vous ne déterminez pas cette unité, il n'y a plus de nombre fini ou infini, parce qu'une unité indéterminée n'est pas une unité véritable, et par conséquent ne peut servir à constituer un nombre. Cette thèse a quelque rapport avec се que dit Leibnitz dans sa Monadologie, que les Monades, pour être en nombre plus grand que tout nombre assignable dans une parcelle de matière, n'y sont pas pour cela en nombre infini, attendu que l'on ne peut nombrer que ce qui est numérable, que
 
 les monades ne le sont point, et que dès lors on ne peut dire qu'elles soient en nombre
 
@@ -422,11 +332,7 @@ fini ou en nombre
 
 infini. Nous répondrons à cette objection après avoir donné notre troisième argument contre l'objectivité des continus.
 
-3º La réalité objective des continus impliquerait, comme nous venons de le voir, un nombre infini réel d'éléments composants mais nous sommes encore en droit de considérer ces éléments en eux-mêmes indépendamment de leur nombre, et de nous demander ce qu'ils sont et ce qu'ils valent en tant qu'éléments composants. Le caractère essentiel que doit posséder un élément pour être véritablement com-
-
-[p. 29]
-
-posant, c'est d'être indécomposable et par conséquent indivisible. D'autre part, l'analyse réelle ou mentale doit conduire à la détermination de cet élément ; et aussi la synthèse opérée au moyen de ce même élément doit permettre de reconstituer le tout complexe. Que le continu considéré comme objectivement réel soit composé, c'est chose évidente, puisqu'il est divisible
+3º La réalité objective des continus impliquerait, comme nous venons de le voir, un nombre infini réel d'éléments composants mais nous sommes encore en droit de considérer ces éléments en eux-mêmes indépendamment de leur nombre, et de nous demander ce qu'ils sont et ce qu'ils valent en tant qu'éléments composants. Le caractère essentiel que doit posséder un élément pour être véritablement com-[p. 29]posant, c'est d'être indécomposable et par conséquent indivisible. D'autre part, l'analyse réelle ou mentale doit conduire à la détermination de cet élément ; et aussi la synthèse opérée au moyen de ce même élément doit permettre de reconstituer le tout complexe. Que le continu considéré comme objectivement réel soit composé, c'est chose évidente, puisqu'il est divisible
 
 : l'analyse du continu doit done nous conduire
 
@@ -450,11 +356,7 @@ ce
 
 qui
 
-revient absolument au même : l'élément composant du continu est tel, qu'il ne peut être donné par l'analyse ; de sorte que l'analyse du continu doit être considérée comme impossible, bien que le continu soit multiple et composé. Tant que la continuité est supposée n'être qu'une donnée de la repré
-
-[p. 30]
-
-sentation, cette difficulté ne se présente même pas. Au contraire, elle surgit immédiatement lorsque nous considérons la continuité comme pouvant être un attribut des choses en soi, et par là même elle condamne une pareille hypothèse.
+revient absolument au même : l'élément composant du continu est tel, qu'il ne peut être donné par l'analyse ; de sorte que l'analyse du continu doit être considérée comme impossible, bien que le continu soit multiple et composé. Tant que la continuité est supposée n'être qu'une donnée de la repré [p. 30] sentation, cette difficulté ne se présente même pas. Au contraire, elle surgit immédiatement lorsque nous considérons la continuité comme pouvant être un attribut des choses en soi, et par là même elle condamne une pareille hypothèse.
 
 Si l'analyse du continu est impossible, la synthèse ne l'est pas moins ; car il est manifeste que l'on ne peut composer un continu quelconque, sinon avec des parties qui soient elles-mêmes continues, et qui par conséquent ne ne puissent être prises pour des éléments véritables. Par exemple, on ne reconstituerait pas une étendue donnée avec des éléments inétendus, en quelque nombre qu'on les prît. De même que la décomposition d'un continu ne peut donner que des continus, de même la recomposition d'un continu ne peut se faire qu'au moyen de continus. Ce sont là des vérités palpables, pour ainsi dire, et d'où il résulte nettement qu'un continu ne peut avoir d'existence objective, parce qu'il faudrait alors qu'il fût effectivement composé, et que la composition effective en est impossible et contradictoire.
 
@@ -464,9 +366,7 @@ maintenant de répondre à
 
 l'objection indiquée plus haut, et relative au nombre infini réel des parties que devra comprendre un continu limité.
 
-[p. 31]
-
-On disait : pour trouver dans le continu un nombre infini de parties, comment déterminezvous l'unité dont la répétition forme ce nombre infini ? On partait donc d'un continu qu'on supposait constitué d'avance, et, raisonnant au point de vue de l'analyse, on montrait qu'il n'y a pas lieu d'y considérer soit un nombre fini, soit un nombre
+[p. 31] On disait : pour trouver dans le continu un nombre infini de parties, comment déterminezvous l'unité dont la répétition forme ce nombre infini ? On partait donc d'un continu qu'on supposait constitué d'avance, et, raisonnant au point de vue de l'analyse, on montrait qu'il n'y a pas lieu d'y considérer soit un nombre fini, soit un nombre
 
 infini d'éléments ;
 
@@ -476,19 +376,13 @@ supérieur au nombre des éléments indivisibles en question, ce qui est absurde
 
 En résumé, l'objection que nous signalons serait juste si la question se posait ainsi : combien y a-t-il d'éléments dans un continu donné ?
 
-[p. 32]
-
-Elle ne l'est pas, parce que le vrai sens de la question est celui-ci : combien faut-il d'éléments pour constituer ce continu ?
+[p. 32] Elle ne l'est pas, parce que le vrai sens de la question est celui-ci : combien faut-il d'éléments pour constituer ce continu ?
 
 Le principe fondamental de l'erreur que nous combattons, c'est que l'on confond sans s'en douter le continu représentatif avec le continu objectif.
 
 Il est certain que, dans le continu représentatif, il n'y a pas lieu de considérer soit un nombre fini, soit un nombre infini d'éléments, pas plus qu'il n'y a lieu de se demander si l'analyse conduira à l'élément véritable, et si la synthèse pourra s'opérer au moyen de ce même élément. La raison en est simple : c'est que le continu représentatif est à lui-même son élément : il est donné dans l'esprit immédiatement et indépendamment de toute analyse et de toute synthèse. Mais la question change de face si l'on considère le continu comme objectif. Dans ce cas, la composion a dû être affective, la décomposition par analyse doit apparaître comme possible, et c'est alors que surgissent les contradictions que nous avons signalées.
 
-De toute cette discussion il résulte que, si l'espace existait absolument et en soi, il serait imparcourable, ce qui constitue une nouvelle absurdité à la charge de cette hypothèse. En d'autres termes, le mouvement est impossible
-
-[p. 33]
-
-autrement que comme donnée de la représentation
+De toute cette discussion il résulte que, si l'espace existait absolument et en soi, il serait imparcourable, ce qui constitue une nouvelle absurdité à la charge de cette hypothèse. En d'autres termes, le mouvement est impossible [p. 33] autrement que comme donnée de la représentation
 
 : comme réalité absolue il est contradictoire. C'est la fameuse thèse de Zénon d'Elée, ou du moins c'en est une partie. On peut rattacher à volonté cette thèse comme corollaire à l'un quelconque des trois arguments que nous venons d'exposer,
 
@@ -508,11 +402,7 @@ c Il est imparcourable enfin, parce que, pour aller d'un point à un autre de l'
 
 d'atteindre le point milieu avant le point extrême ne saurait être
 
-3
-
-[p. 34]
-
-invoquée, parce que le temps lui-même
+3 [p. 34] invoquée, parce que le temps lui-même
 
 est indéfiniment divisible, et qu'aux portions de plus en plus petites de l'espace que l'on considère à partir du point initial, correspondent des divisions de plus en plus petites du temps, pendant lesquelles les divisions de l'espace pourront être parcourues ; nous serions en droit de répondre que le raisonnement est tout à fait indépendant de
 
@@ -524,11 +414,7 @@ la question relative à l'espace pourrait être reproduite par rapport au temps,
 
 et,
 
-si l'objet ne dépasse pas certaines proportions, cette grandeur paraît absolue. Tel est le cas d'un livre par exemple. Si, au contraire, les dimensions sont trop grandes pour que l'objet puisse être embrassé d'un coup d'œil unique, nous le divisons par la pensée en portions plus petites, qui soient données dans la représentation comme
-
-[p. 35]
-
-des grandeurs absolues, et qui puissent servir d'unités pour l'évaluation de la grandeur de l'objet tout entier.
+si l'objet ne dépasse pas certaines proportions, cette grandeur paraît absolue. Tel est le cas d'un livre par exemple. Si, au contraire, les dimensions sont trop grandes pour que l'objet puisse être embrassé d'un coup d'œil unique, nous le divisons par la pensée en portions plus petites, qui soient données dans la représentation comme [p. 35] des grandeurs absolues, et qui puissent servir d'unités pour l'évaluation de la grandeur de l'objet tout entier.
 
 Ainsi
 
@@ -548,11 +434,7 @@ Soit un objet quelconque ne dépassant pas certaines dimensions qui pour nous so
 
 il m'apparaîtra très grand ; avec telle autre lunette, il m'apparaîtra très petit.
 
-Quelle est donc sa grandeur véritable ? C'est, dira-t-on, celle sous laquelle il apparaît quand on le regarde à l'œil nu. Mais cette grandeur est différente suivant que l'objet est vu de près ou de loin ; et si, de loin, on lui attribue la
-
-[p. 36]
-
-mème grandeur que de près, c'est un phénomène d'association d'idées ; mais,
+Quelle est donc sa grandeur véritable ? C'est, dira-t-on, celle sous laquelle il apparaît quand on le regarde à l'œil nu. Mais cette grandeur est différente suivant que l'objet est vu de près ou de loin ; et si, de loin, on lui attribue la [p. 36] mème grandeur que de près, c'est un phénomène d'association d'idées ; mais,
 
 si l'on fait abstraction de cette cause perturbatrice de la perception primitive et naturelle, il est certain que l'objet est vu d'autant plus petit qu'on en est plus éloigné.
 
@@ -564,11 +446,7 @@ dans
 
 la vision.
 
-Mais d'abord, de quel droit soutiendrait-on que la vraie grandeur de l'objet est précisément celle sous laquelle nous le percevons quand la netteté de la perception est la plus grande possible ? Puis, cette distance à laquelle correspond le maximum de netteté est variable, autre pour un myope, autre pour un presbyte. Comme, d'autre part, la grandeur sous laquelle nous apparaît l'objet en perception naturelle dépend uniquement de l'angle formé par les rayons visuels passant par ses extrémités, lequel angle à son tour ne dépend que de la distance ; il est certain qu'un myope considérant un objet à la distance où la netteté de la vision est pour lui maximun, voit cet objet plus gros, tandis qu'un presbyte, dans les mêmes conditions, le voit moins gros. Ainsi, en supposant qu'un objet
-
-[p. 37]
-
-extérieur donné ait une grandeur réelle et absolue, la perception visuelle de cette grandeur est nécessairement fonction, comme disent les géomètres, à la fois de cette grandeur et de la distance qui nous sépare de l'objet, distance qui jamais ne peut être nulle.
+Mais d'abord, de quel droit soutiendrait-on que la vraie grandeur de l'objet est précisément celle sous laquelle nous le percevons quand la netteté de la perception est la plus grande possible ? Puis, cette distance à laquelle correspond le maximum de netteté est variable, autre pour un myope, autre pour un presbyte. Comme, d'autre part, la grandeur sous laquelle nous apparaît l'objet en perception naturelle dépend uniquement de l'angle formé par les rayons visuels passant par ses extrémités, lequel angle à son tour ne dépend que de la distance ; il est certain qu'un myope considérant un objet à la distance où la netteté de la vision est pour lui maximun, voit cet objet plus gros, tandis qu'un presbyte, dans les mêmes conditions, le voit moins gros. Ainsi, en supposant qu'un objet [p. 37] extérieur donné ait une grandeur réelle et absolue, la perception visuelle de cette grandeur est nécessairement fonction, comme disent les géomètres, à la fois de cette grandeur et de la distance qui nous sépare de l'objet, distance qui jamais ne peut être nulle.
 
 Sans doute on objectera que,
 
@@ -576,11 +454,7 @@ si nous ne pouvons pas percevoir par le sens de la vue la grandeur réelle et ab
 
 Il résulte de là qu'attribuer à un corps telle grandeur, d'après les données de sa représentation, et vouloir que cette grandeur soit précisément sa grandeur absolue, c'est être victime d'une illusion pure.
 
-On peut confirmer encore et très simplement ce résultat, en considérant la perception que nous avons des objets très grands ou des objets très petits. Est-ce que la grandeur vraie du soleil est quelque chose, soit pour nos sens,
-
-[p. 38]
-
-soit pour notre imagination ? De même pour la grandeur vraie d'un microsima ou d'une bactérie. L'expérience prouve donc bien qu'il est des
+On peut confirmer encore et très simplement ce résultat, en considérant la perception que nous avons des objets très grands ou des objets très petits. Est-ce que la grandeur vraie du soleil est quelque chose, soit pour nos sens, [p. 38] soit pour notre imagination ? De même pour la grandeur vraie d'un microsima ou d'une bactérie. L'expérience prouve donc bien qu'il est des
 
 grandeurs totalement inappréciables au sens de la vue ; et cela s'explique aisément, si la grandeur attribuée par nous à un objet a sa raison dernière dans les conditions de la représentation. On conçoit très bien que l'esprit, pour pouvoir se représenter les choses, se donne à lui-même une certaine unité de grandeur qui lui servira d'étalon,
 
@@ -588,11 +462,7 @@ et à laquelle il ramènera toutes ses représentations. La mémoire joue ici un
 
 si le
 
-soleil et la bactérie ne
-
-[p. 39]
-
-peuvent être ni l'un ni l'autre perçus ou imaginés en vraie grandeur, c'est qu'ils épuisent et dépassent tous deux le pouvoir qu'a l'esprit de suivre par la mémoire la multiplication ou la division prolongée de l'unité. On voit que les faits signalés s'expliquent aisément, si la représentation de l'objet sous telle grandeur a sa raison d'être dans les lois de l'esprit. Au contraire, si la représentation des grandeurs continues a sa condition déterminante dans l'objet lui-même, on ne comprend plus pourquoi certains objets sont représentables en vraie grandeur, et d'autres ne le sont pas. Si les choses hors de nous sont
+soleil et la bactérie ne [p. 39] peuvent être ni l'un ni l'autre perçus ou imaginés en vraie grandeur, c'est qu'ils épuisent et dépassent tous deux le pouvoir qu'a l'esprit de suivre par la mémoire la multiplication ou la division prolongée de l'unité. On voit que les faits signalés s'expliquent aisément, si la représentation de l'objet sous telle grandeur a sa raison d'être dans les lois de l'esprit. Au contraire, si la représentation des grandeurs continues a sa condition déterminante dans l'objet lui-même, on ne comprend plus pourquoi certains objets sont représentables en vraie grandeur, et d'autres ne le sont pas. Si les choses hors de nous sont
 
 effectivement étendues,
 
@@ -602,9 +472,7 @@ Si la grandeur sous laquelle nous apparaissent les corps ne peut en aucun cas ê
 
 si, comme nous croyons l'avoir démontré, la grandeur attribuée par nous à un objet représenté tient essentiellement aux conditions subjectives dans lesquelles la représentation a lieu ; et si, d'autre part, il nous est impossible de concevoir une représentation qui soit dégagée de ces conditions, n'est-il pas évident que l'objet en soi n'a aucune grandeur ?
 
-[p. 40]
-
-Mais on peut établir cette vérité par une voie plus directe encore.
+[p. 40] Mais on peut établir cette vérité par une voie plus directe encore.
 
 Considérons
 
@@ -622,9 +490,7 @@ et
 
 relative comme elles.
 
-[p. 41]
-
-Ce que l'on ne veut jamais comprendre, et ce qui cause tant d'erreurs, c'est que ce qui est, est ; et que ce qui est se suffit à soi-même,
+[p. 41] Ce que l'on ne veut jamais comprendre, et ce qui cause tant d'erreurs, c'est que ce qui est, est ; et que ce qui est se suffit à soi-même,
 
 et n'a pas besoin pour être pensé d'être comparé à autre chose. Nous parlons ici, cela est bien entendu, au point de vue d'une philosophie des choses en soi ; mais une philosophie qui croit à la réalité
 
@@ -648,11 +514,7 @@ mais non pas à l'ordre objectif et absolu. Ils ne peuvent être considérés co
 
 0
 
-1 ° Tout continu implique une possibilité inépuisable de diviser. Or, dans la chose en soi,
-
-[p. 42]
-
-une possibilité de cette nature ne saurait se trouver, parce que tout attribut réel d'un objet est nécessairement déterminé, et que, par définition, une telle possibilité ne l'est point. De plus, le réel exclut la divisibilité à un titre quelconque, parce que, si la chose en soi était divisible,
+1 ° Tout continu implique une possibilité inépuisable de diviser. Or, dans la chose en soi, [p. 42] une possibilité de cette nature ne saurait se trouver, parce que tout attribut réel d'un objet est nécessairement déterminé, et que, par définition, une telle possibilité ne l'est point. De plus, le réel exclut la divisibilité à un titre quelconque, parce que, si la chose en soi était divisible,
 
 il faudrait qu'elle le fût indéfiniment, ce qui est impossible.
 
@@ -680,17 +542,13 @@ l'étendue par exemple, est perçu par nous, dépend nécessairement de conditio
 
 assigner aucnne grandeur comme étant la grandeur vraie et absolue de l'objet considéré. Il est certain par là que l'objet en question n'a absolument parlant aucune grandeur.
 
-Du reste, on pouvait arriver au même résultat
-
-[p. 43]
-
-plus simplement et plus directement encore, en considérant que toute grandeur est relative, et que par conséquent, jamais telle grandeur donnée
+Du reste, on pouvait arriver au même résultat [p. 43] plus simplement et plus directement encore, en considérant que toute grandeur est relative, et que par conséquent, jamais telle grandeur donnée
 
 ne saurait être l'attribut
 
 réel d'une chose en soi.
 
-Ainsi, sur le premier point, la thèse de Kant nous paraît établie, et nous croyons avec lui, mais pour des raisons autres que les siennes, que le temps et l'espace sont de pures données de la représentation, et nepossèdent pointl'existence au sens absolu du mot, soit comme attributs, soit comme sujets. Il nous reste à examiner si, sur le second point, la théorie de Kant est également solide, et à rechercher l'origine des notions de temps et d'espace, pour pouvoir résoudre la question de savoir s'ils sont les conditions essentielles et les formes a priori de la représentation ; ou si au contraire ils en sont des caractères dérivés, quoique universels et nécessaires, cette universalité et cette nécessité leur venant d'une condition antérieure et plus fondamentale de la représentation.
+Ainsi, sur le premier point, la thèse de Kant nous paraît établie, et nous croyons avec lui, mais pour des raisons autres que les siennes, que le temps et l'espace sont de pures données de la représentation, et nepossèdent pointl'existence au sens absolu du mot, soit comme attributs, soit comme sujets. Il nous reste à examiner si, sur le second point, la théorie de Kant est également solide, et à rechercher l'origine des notions de temps et d'espace, pour pouvoir résoudre la question de savoir s'ils sont les conditions essentielles et les formes *a priori* de la représentation ; ou si au contraire ils en sont des caractères dérivés, quoique universels et nécessaires, cette universalité et cette nécessité leur venant d'une condition antérieure et plus fondamentale de la représentation.
 
 [p. 44]
 
@@ -700,27 +558,23 @@ Passage à la seconde question. -- Raisons qui doivent nous
 
 faire douter de prime abord que le temps et l'espace soient
 
-des formes a priori de la sensibilité.
+des formes *a priori* de la sensibilité.
 
 On essaiera une solution expérimentale du problème.
 
 La doctrine d'après
 
-laquelle le temps et l'espace seraient des formes a priori de la sensibilité, présente au premier aspect des caractères qui doivent nous
+laquelle le temps et l'espace seraient des formes *a priori* de la sensibilité, présente au premier aspect des caractères qui doivent nous
 
 la rendre
 
-suspecte. Comment en effet entend-on la présence de cesnotions dans l'esprit humain à titre de déterminations fondamentales de la pensée ? A cette question, il ne peut y avoir qu'une seule réponse, et cette réponse du reste est nettement formulée dans la Critique de la Raison pure, à savoir que le temps et l'espace sont des représentations logiquement au moins antérieures à toute expérience. Là-dessus, nous pourrions bien être tentés de demander
+suspecte. Comment en effet entend-on la présence de cesnotions dans l'esprit humain à titre de déterminations fondamentales de la pensée ? A cette question, il ne peut y avoir qu'une seule réponse, et cette réponse du reste est nettement formulée dans la *Critique de la Raison pure*, à savoir que le temps et l'espace sont des représentations logiquement au moins antérieures à toute expérience. Là-dessus, nous pourrions bien être tentés de demander
 
 pourquoi
 
 ces représentations,
 
-et quelle est leur raison d'être dans l'esprit. Mais la question serait peut être indiscrète. On nous
-
-[p. 45]
-
-répondrait sans doute que ce sont des faits primitifs, et par conséquent inexplicables ; et, à la vérité, on ne pourrait pas même tenter de les expliquer, sans renoncer par là à toute la théorie. Il nous faudrait done nous contenter de cette fin de non-recevoir, et reconnaître
+et quelle est leur raison d'être dans l'esprit. Mais la question serait peut être indiscrète. On nous [p. 45] répondrait sans doute que ce sont des faits primitifs, et par conséquent inexplicables ; et, à la vérité, on ne pourrait pas même tenter de les expliquer, sans renoncer par là à toute la théorie. Il nous faudrait done nous contenter de cette fin de non-recevoir, et reconnaître
 
 que nous n'avons rien à dire, quelque peu satisfaits que nous fussions.
 
@@ -730,11 +584,7 @@ doctrine que Descartes dut abandonner lui-même presque aussitôt après l'avoir
 
 qu'ici, comme dans le cas d'Oronte, « le temps ne fait rien à l'affaire. »
 
-Si les intuitions du temps et de l'espace ne préexistent pas en fait aux intuitions particulières d'ordre expérimental, elles leur préexistent
-
-[p. 46]
-
-en droit ; et cette préexistence de droit n'est pas plus explicable ni plus admissible que la préexistence de fait elle-même.
+Si les intuitions du temps et de l'espace ne préexistent pas en fait aux intuitions particulières d'ordre expérimental, elles leur préexistent [p. 46] en droit ; et cette préexistence de droit n'est pas plus explicable ni plus admissible que la préexistence de fait elle-même.
 
 Ira-t-on, après avoir reconnu ce qu'il y a d'inacceptable dans la doctrine qui admet des concepts positifs antécédents à l'expérience, se réfugier dans l'explication que donne Descartes de sa pensée, lorsqu'il dit que ce qui est inné en nous, ce ne sont pas les idées toutes faites, mais seulement la faculté de les produire ? Dans ce cas, on met dans l'âme une faculté spéciale qui n'agira point d'elle-même, et qui n'entrera point en exercice pour produire l'intuition du temps ou celle de
 
@@ -748,11 +598,7 @@ l'horreur du vide
 
 le temps et l'espace seront-ils seuls à réclamer
 
-1
-
-[p. 47]
-
-l'existence de ces facultés de concevoir a priori ;
+1 [p. 47] l'existence de ces facultés de concevoir *a priori* ;
 
 n'en faudra-t-il pas admettre d'autres pour expliquer plusieurs idées auxquelles il répugne de donner une
 
@@ -778,21 +624,17 @@ Herbert Spencer,
 
 et après lui
 
-[p. 48]
-
-M. Evellin 1, de comprendre que
+[p. 48] M. Evellin 1, de comprendre que
 
 « l'espace puisse être à la fois condition et objet de conscience. S'il n'est qu'une forme intérieure, un instrument de la pensée, il ne saurait être pensé lui-même ; s'il est au contraire véritablement représenté, il doit, comme tout objet de représentation, se dédoubler en matière et en forme. »
 
 Ajoutons enfin que cette théorie de la sensibilité constitue chez Kant une anomalie singulière. Les notions du temps et de l'espace ne sont pas les seules dont Kant reconnaisse l'universalité
 
-et la nécessité. Beaucoup d'autres possèdent ces mêmes caractères, par exemple les notions de l'unité, de la pluralité, de la cause, de la substance, etc. Pourquoi donc supposer les premières innées, et les secondes données dans l'expérience ? Pourquoi faire des unes des représentations apriori, et des autres de simples concepts ? Pourquoi des formes de la sensibilité, et des catégories de l'entendement ? Si l'esprit, ordonnant a priori ses représentations en tire par abstraction les notions de la substance et de la cause, pourquoi, ayant constitué d'une manière analogue ces mêmes représentations, n'en tirerait-il pas, par le même procédé, les notions du temps et de l'espace ?
+et la nécessité. Beaucoup d'autres possèdent ces mêmes caractères, par exemple les notions de l'unité, de la pluralité, de la cause, de la substance, etc. Pourquoi donc supposer les premières innées, et les secondes données dans l'expérience ? Pourquoi faire des unes des représentations apriori, et des autres de simples concepts ? Pourquoi des formes de la sensibilité, et des catégories de l'entendement ? Si l'esprit, ordonnant *a priori* ses représentations en tire par abstraction les notions de la substance et de la cause, pourquoi, ayant constitué d'une manière analogue ces mêmes représentations, n'en tirerait-il pas, par le même procédé, les notions du temps et de l'espace ?
 
 Infini et Quantité, p. 112.
 
-[p. 49]
-
-Toutes ces raisons, on en conviendra, paraissent plus que suffisantes pour nous mettre en défiance contre la théorie Kantienne qui fait du temps et de l'espace des formes a priori de la sensibilité. Pour résoudre, s'il se peut, la question d'une façon plus définitive encore, nous allons aborder directement le problème de l'origine de ces notions, et essayer de déterminer si elles sont données dans l'esprit antérieurement à l'expérience, ou si, au contraire, elles procèdent pour lui de l'expérience même, et en dérivent par abstraction.
+[p. 49] Toutes ces raisons, on en conviendra, paraissent plus que suffisantes pour nous mettre en défiance contre la théorie Kantienne qui fait du temps et de l'espace des formes *a priori* de la sensibilité. Pour résoudre, s'il se peut, la question d'une façon plus définitive encore, nous allons aborder directement le problème de l'origine de ces notions, et essayer de déterminer si elles sont données dans l'esprit antérieurement à l'expérience, ou si, au contraire, elles procèdent pour lui de l'expérience même, et en dérivent par abstraction.
 
 Notre examen portera d'abord sur la notion de l'espace.
 
@@ -832,11 +674,7 @@ Si l'on demande comment se constitue pour nous la représentation tactile ou vis
 
 les uns ont pensé que la représentation de l'étendue nous est donnée immédiatement dans la sensation, quoique du reste d'une façon plus ou moins nette et précise ; de
 
-sorte
-
-[p. 51]
-
-que l'expérience et l'habitude auraient à intervenir seulement pour rectifier et assurer les sensations
+sorte [p. 51] que l'expérience et l'habitude auraient à intervenir seulement pour rectifier et assurer les sensations
 
 primitives trop inexactes ou trop incomplètes. Quant à l'intuition même de l'étendue, elle serait donnée par l'exercice naturel et spontané de l'organe, et ne résulterait nullement d'un travail opéré par l'esprit sur des données primitives et plus simples fournies par la sensation. Parmi les représentants les plus accrédités de cette doctrine, on peut citer M. Panum, et surtout M. Hering, qui du reste se sont attachés spécialement à la question de l'espace visuel. Ceux-ci ont été désignés par M. Helmholtz sous le nom de nativistes.
 
@@ -852,11 +690,7 @@ totalité
 
 le résultat d'un travail spécial de
 
-l'esprit. Les premiers germes de cette doctrine se trouvent dans Locke. Chez Berkeley, elle est exposée d'une façon régulière et suivie. De nos jours, elle a eu pour principaux interprètes, en An
-
-[p. 52]
-
-gleterre, MM. Stuart Mill, Bain et Spencer ; en Allemagne, MM. Wundt et Helmholtz.
+l'esprit. Les premiers germes de cette doctrine se trouvent dans Locke. Chez Berkeley, elle est exposée d'une façon régulière et suivie. De nos jours, elle a eu pour principaux interprètes, en An [p. 52] gleterre, MM. Stuart Mill, Bain et Spencer ; en Allemagne, MM. Wundt et Helmholtz.
 
 Elle a reçu le nom de théorie empirique.
 
@@ -878,9 +712,7 @@ ses impressions au dehors,
 
 et d'extérioriser la sensation du point lumineux dans une direction donnée. Enfin, M. P. Janet, dans un important opuscule', discute les raisons exposées par chacune des deux écoles rivales, et conclut énergiquement à l'impossibilité d'accepter sans res [^p52-1]
 
-[p. 53]
-
-triction l'une ou l'autre théorie, et par là-même à la nécessité d'une doctrine qui, évitant les exagé-rations où l'on tombe de part et d'autre, tienne compte de la part de la vérité que renferme chacune des opinions extrêmes. Le point de vue spécial auquel s'est placé M. Janet, et qui le conduit à cette conclusion, c'est la théorie de Berkeley sur la perception visuelle dela distance.
+[p. 53] triction l'une ou l'autre théorie, et par là-même à la nécessité d'une doctrine qui, évitant les exagé-rations où l'on tombe de part et d'autre, tienne compte de la part de la vérité que renferme chacune des opinions extrêmes. Le point de vue spécial auquel s'est placé M. Janet, et qui le conduit à cette conclusion, c'est la théorie de Berkeley sur la perception visuelle dela distance.
 
 Le savant auteur repousse cette théorie, et croit à la nécessité de reconnaître à l'organe de la vue la faculté innée de projeter au dehors l'image visuelle.
 
@@ -888,19 +720,14 @@ Voici donc deux, ou plutôt trois doctrines entre lesquelles nous allons avoir �
 
 d'abord.
 
-#### M
 
 Ribot qui, dans son ouvrage la Psychologie allemande contempоraine, fait l'historique du débat entre nativistes et empiristes, termine ainsi le chapitre
 
 qu'il consacre à cette question : « On a pu voir que la doctrine de Kant sur l'espace et les doctrines discutées ici sont des problèmes d'un ordre tout à fait différent. Que l'on considère l'espace comme une
 
-forme a priori de l'esprit, ou comme une réalité objective, ou comme une abstraction,
+forme *a priori* de l'esprit, ou comme une réalité objective, ou comme une abstraction,
 
-il reste toujours à expliquer sa genèse empirique dans l'esprit humain. Les nativistes abusent donc d'une équivoque de lan
-
-[p. 54]
-
-gage,
+il reste toujours à expliquer sa genèse empirique dans l'esprit humain. Les nativistes abusent donc d'une équivoque de lan [p. 54] gage,
 
 lorsqu'ils se réclament de Kant. Pour parler le langage de ce philosophe, ils confondent une question d'ordre phénoménal, celle qu'ils traitent, avec un problème d'ordre transcendant, l'origine dernière de la notion d'espace. Les discussions exposées ici ne doivent pas
 
@@ -918,41 +745,25 @@ Ecartons
 
 d'abord la question, toute métaphysique en effet, mais qui n'est nullement en cause pour le moment, de la réalité ou de la non-réalité objective de l'espace.
 
-Cela fait, nous demanderons à quel point de vue on voudrait distinguer les deux problèmes de l'origine métaphysique de l'idée d'espace, et de ce que M. Ribot appelle « sa genèse empirique dans l'esprit humain. » Métaphysiquement ou empiriquement, quel est l'espace dont il s'agit
-
-[p. 55]
-
-d'expliquer l'idée en nous ? C'est apparemment l'espace dont nous avons la représentation. Que la question de l'origine de l'idée de cet espace, c'est-à-dire la question de la genèse empirique de l'idée d'espace dans l'esprit humain se pose, rien de mieux. Mais, quand cette question est résolue,
+Cela fait, nous demanderons à quel point de vue on voudrait distinguer les deux problèmes de l'origine métaphysique de l'idée d'espace, et de ce que M. Ribot appelle « sa genèse empirique dans l'esprit humain. » Métaphysiquement ou empiriquement, quel est l'espace dont il s'agit [p. 55] d'expliquer l'idée en nous ? C'est apparemment l'espace dont nous avons la représentation. Que la question de l'origine de l'idée de cet espace, c'est-à-dire la question de la genèse empirique de l'idée d'espace dans l'esprit humain se pose, rien de mieux. Mais, quand cette question est résolue,
 
 que vient faire l'autre ? Empiriquement, la sensation élémentaire de la couleur comporte une certaine intuition plus ou moins précise de l'espace, ou
 
 elle n'en comporte aucune. Dans le premier cas, l'intuition de l'espace, ou tout au moins l'intuition de l'un des éléments de l'espace est primitive, irréductible, et par conséquent innée, au même titre et de la même manière par exemple que la pure et simple intuition de la couleur. Dans le second cas, l'idée d'espace est uniquement due à l'expérience. Que la sensation ait été reconnue par les physiologistes comporter, dans ce qu'elle a de plus élémentaire et de plus irréductible, une intuition parfaite de l'étendue avec ses trois dimensions, le philosophe n'hésitera pas à considérer cette
 
-solution comme préjudiciellement favorable à la thèse de Kant, sans pourtant en être une démonstration définitive ; parce que le problème est plus complexe et suppose encore résolues d'autres questions métaphysiques, telles que celle-ci : ce qui est
-
-[p. 56]
-
-inné dans l'esprit, est-ce la représentation même de l'espace, ou seulement la faculté de se représenter les corps avec trois dimensions ? etc. Que les physiologistes, au contraire, aient pu établir solidement que la sensation n'est pas déterminée du tout quant à l'espace, ou du moins ne l'est pas quant à l'espace tout entier, le philosophe sera parfaitement fondé à en conclure que la représentation de l'espace est une construction de l'esprit, et la notion d'espace, une notion abstraite ou un concept, comme dit Kant. Les psychologues anglais, MM.
+solution comme préjudiciellement favorable à la thèse de Kant, sans pourtant en être une démonstration définitive ; parce que le problème est plus complexe et suppose encore résolues d'autres questions métaphysiques, telles que celle-ci : ce qui est [p. 56] inné dans l'esprit, est-ce la représentation même de l'espace, ou seulement la faculté de se représenter les corps avec trois dimensions ? etc. Que les physiologistes, au contraire, aient pu établir solidement que la sensation n'est pas déterminée du tout quant à l'espace, ou du moins ne l'est pas quant à l'espace tout entier, le philosophe sera parfaitement fondé à en conclure que la représentation de l'espace est une construction de l'esprit, et la notion d'espace, une notion abstraite ou un concept, comme dit Kant. Les psychologues anglais, MM.
 
 Stuart Mill et Bain l'ont bien vu ;
 
-et ces deux auteurs ont cru, avec raison, faire assez contre l'a priori métaphysique, s'ils parvenaient à rendre compte par la sensation seule de la représentation que nous nous faisons de l'espace.
+et ces deux auteurs ont cru, avec raison, faire assez contre l'*a priori* métaphysique, s'ils parvenaient à rendre compte par la sensation seule de la représentation que nous nous faisons de l'espace.
 
-Ce que M. Ribot avait le droit d'affirmer, c'est la différence essentielle qui existe entre la méthode des métaphysiciens et celle des physiologistes, différence qui va jusqu'à l'irréductibilité ; de sorte que, le physiologiste doit se tenir dans la sphère de l'expérience, et nejamais substituer aux faits et à leur interprétation scientifique des considérations d'ordre métaphysique. Mais prétendre qu'un même problème ne peut pas se présenter sous deux aspects différents, et solliciter l'examen par deux mé
-
-[p. 57]
-
-thodes différentes, c'est évidemment aller trop loin. Pour le cas qui nous occupe, nous croyons avoir montré avec une netteté suffisante, que le débat entre les nativistes et les empiristes est absolument le même que le débat entre les Kantiens et les
+Ce que M. Ribot avait le droit d'affirmer, c'est la différence essentielle qui existe entre la méthode des métaphysiciens et celle des physiologistes, différence qui va jusqu'à l'irréductibilité ; de sorte que, le physiologiste doit se tenir dans la sphère de l'expérience, et nejamais substituer aux faits et à leur interprétation scientifique des considérations d'ordre métaphysique. Mais prétendre qu'un même problème ne peut pas se présenter sous deux aspects différents, et solliciter l'examen par deux mé [p. 57] thodes différentes, c'est évidemment aller trop loin. Pour le cas qui nous occupe, nous croyons avoir montré avec une netteté suffisante, que le débat entre les nativistes et les empiristes est absolument le même que le débat entre les Kantiens et les
 
 partisans de la doctrine que nous défendons.
 
 Mais, comment entrer dans une pareille question, sans avoir en physiologie des connaissances tout à fait spéciales ; comment oser s'ériger en arbitre entre MM. Hering et Helmholtz, à moins de posséder soi-même une compétence indiscutable sur la matière ?
 
-Nous venons de dire que le problème général de l'origine de l'idée d'espace est un problème à deux faces, et qui peut être envisagé soit au point de vue métaphysique, soit au point de vue expérimental. Nous-même, sans traiter à fond la question métaphysique, nous avons indiqué quelques-unes des objections qu'on pourrait élever, au point de vue métaphysique, contre la thèse Kantienne de l'irréductibilité de l'idée d'espace, et par là-même, contre l'innéité absolue de cette idée. Or, de même que le problème général a deux faces, et peut être traité métaphysiquement ou expérimentalement, le problème expérimental a deux faces à son tour, et peut être traité physiologiquement ou psycho
-
-[p. 58]
-
-logiquement. C'est donc en psychologue que nous entrerons dans le débat.
+Nous venons de dire que le problème général de l'origine de l'idée d'espace est un problème à deux faces, et qui peut être envisagé soit au point de vue métaphysique, soit au point de vue expérimental. Nous-même, sans traiter à fond la question métaphysique, nous avons indiqué quelques-unes des objections qu'on pourrait élever, au point de vue métaphysique, contre la thèse Kantienne de l'irréductibilité de l'idée d'espace, et par là-même, contre l'innéité absolue de cette idée. Or, de même que le problème général a deux faces, et peut être traité métaphysiquement ou expérimentalement, le problème expérimental a deux faces à son tour, et peut être traité physiologiquement ou psycho [p. 58] logiquement. C'est donc en psychologue que nous entrerons dans le débat.
 
 Ces réserves faites, examinons d'abord la théorie nativiste pure ; et, pour plus de simplicité, bornons-nous à la partie de cette théorie qui concerne l'espace visuel. Nous croyons devoir la repousser pour plusieurs raisons.
 
@@ -970,11 +781,7 @@ les illusions
 
 des jeunes enfants, celles que nous font éprouver les panoramas,
 
-etc. Tous ces faits et d'autres semblables paraissent bien prouver, non pas sans doute que nous n'avons par l'exercice du sens de la vue aucune notion immédiate de la troi-sième dimension de l'étendue, mais bien que nous ne percevons pas tout d'abord, même d'une
-
-[p. 59]
-
-façon très peu exacte, la distance à laquelle les différents objets sont de nous ; ce qui va directement contre le nativisme pur.
+etc. Tous ces faits et d'autres semblables paraissent bien prouver, non pas sans doute que nous n'avons par l'exercice du sens de la vue aucune notion immédiate de la troi-sième dimension de l'étendue, mais bien que nous ne percevons pas tout d'abord, même d'une [p. 59] façon très peu exacte, la distance à laquelle les différents objets sont de nous ; ce qui va directement contre le nativisme pur.
 
 A cette question de la localisation de nos sensations dans l'espace, s'en rattache une autre tout à fait connexe à la première, celle de la localisation dans notre propre corps de ce que certains psychologues s'obstinent à nommer très improprement « les sensations internes. »
 
@@ -984,17 +791,9 @@ Or on est généralement d'accord pour reconnaître que cette hypothèse présen
 
 Le fait capital qu'on oppose en général aux partisans de la localisation immédiate, ce sont les illusions des amputés. De l'avis de plusieurs personnes, ces
 
-illusions prouvent de prime abord que la localisation de nos sensations n'est pas quelque chose de primitif. Mais nous pensons que ces personnes se trompent, parce que ces illusions peuvent s'expliquer, à ce qu'il
+illusions prouvent de prime abord que la localisation de nos sensations n'est pas quelque chose de primitif. Mais nous pensons que ces personnes se trompent, parce que ces illusions peuvent s'expliquer, à ce qu'il [p. 60] semble, tout aussi bien avec la théorie nativiste qu'avec la théorie contraire. Admettons en effet qu'une excitation venant à se produire dans le centre nerveux, le sujet rapporte spontanément et immédiatement la sensation éprouvée à l'extrémité périphérique du filet nerveux, ce qui est proprenent l'hypothèse nativiste. On comprend que, dans ce cas, le membre où aboutit ce filet nerveux ayant disparu, rien ne sera changé pour cela dans le centre nerveux et dans la partie du nerf sensitif qui l'avoisine : de sorte que, si le sujet, en vertu d'une disposition naturelle et innée, devait éprouver à la suite d'une impression transmise au centre nerveux
 
-[p. 60]
-
-semble, tout aussi bien avec la théorie nativiste qu'avec la théorie contraire. Admettons en effet qu'une excitation venant à se produire dans le centre nerveux, le sujet rapporte spontanément et immédiatement la sensation éprouvée à l'extrémité périphérique du filet nerveux, ce qui est proprenent l'hypothèse nativiste. On comprend que, dans ce cas, le membre où aboutit ce filet nerveux ayant disparu, rien ne sera changé pour cela dans le centre nerveux et dans la partie du nerf sensitif qui l'avoisine : de sorte que, si le sujet, en vertu d'une disposition naturelle et innée, devait éprouver à la suite d'une impression transmise au centre nerveux
-
-le sentiment d'un piedou d'une main, ce sentiment persistera même après l'amputation du pied ou de la main, après la section du nerf à une certaine distance du centre nerveux. Ce que l'on peut dire seulement, c'est que, si cette hypothèse est la vraie, il ne peut exister absolument aucune raison pour que ces illusions ne persistent pas toute la vie. Donc ce ne sont pas, comme on se le figure, les illusions des amputés qu'il faut objecter à la théorie nativiste ; c'est, au contraire, leur disparition après un certain temps. C'est ce que Müllersemble avoir bien vu. Aussi le grand physiologiste soutient-il « < que ces illusions persistent toujours, et qu'elles con
-
-[p. 61]
-
-servent la même intensité pendant toute la vie. »
+le sentiment d'un piedou d'une main, ce sentiment persistera même après l'amputation du pied ou de la main, après la section du nerf à une certaine distance du centre nerveux. Ce que l'on peut dire seulement, c'est que, si cette hypothèse est la vraie, il ne peut exister absolument aucune raison pour que ces illusions ne persistent pas toute la vie. Donc ce ne sont pas, comme on se le figure, les illusions des amputés qu'il faut objecter à la théorie nativiste ; c'est, au contraire, leur disparition après un certain temps. C'est ce que Müllersemble avoir bien vu. Aussi le grand physiologiste soutient-il « < que ces illusions persistent toujours, et qu'elles con [p. 61] servent la même intensité pendant toute la vie. »
 
 A l'appui de son affirmation, Müller cite même plusieurs exemples.
 
@@ -1004,11 +803,7 @@ et il semble bien que ce soit à ces derniers qu'il faille donner raison. Mülle
 
 il avait connu un homme amputé à l'épaule, qui sentait sa main à l'extrémité du moignon ; et qu'enfin, au bout d'un certain temps, quinze ou vingt ans par exemple, l'illusion souvent disparaissait tout à fait. Ces faits sont-ils décisifs ? M. Vulpian y voit « la preuve que les notions de position des divers points de la peau sont des résultats de l'expérience,
 
-et non des faits d'innervation
-
-[p. 62]
-
-préétablie. Tant que des impressions venant du moignon peuvent remplacer bien ou mal celles qui existaient auparavant dans la peau des membres enlevés, ces notions persistent plus ou moins nettes. Mais, ces extrémités cessant d'envoyer des impressions à la moelle épinière, les notions de position s'effacent peu à peu *. » On ne peut nier la force de ces raisons ; et, si les nativistes soutenaient qu'il n'est pas impossible qu'une disposition innée se modifie sous l'influence des circonstances, nous répondrions que, si l'on se reconnaît obligé à accorder quelque chose à l'expérience dans le phénomène de la localisa1
+et non des faits d'innervation [p. 62] préétablie. Tant que des impressions venant du moignon peuvent remplacer bien ou mal celles qui existaient auparavant dans la peau des membres enlevés, ces notions persistent plus ou moins nettes. Mais, ces extrémités cessant d'envoyer des impressions à la moelle épinière, les notions de position s'effacent peu à peu *. » On ne peut nier la force de ces raisons ; et, si les nativistes soutenaient qu'il n'est pas impossible qu'une disposition innée se modifie sous l'influence des circonstances, nous répondrions que, si l'on se reconnaît obligé à accorder quelque chose à l'expérience dans le phénomène de la localisa1
 
 tion, il faut ne pas s'arrêter à mi-chemin, et lui accorder tout ce qu'il est possible de lui accorder raisonnablement.
 
@@ -1024,9 +819,7 @@ sensitifs
 
 demeuraient [^p62-1]
 
-[p. 63]
-
-intacts. On sait que, chez ce malade, le pouvoir de localiser dans son propre corps les sensations qu'il éprouvait, était totalement aboli ; et que, la paralysie des nerfs moteurs s'atténuant progressivement, la faculté de la localisation lui revint également peu à peu. Cette expérience, si elle a été bien faite, est, comme le dit Stuart Mill, un véritable experimentum crucis, et prouve avec une clarté parfaite que la condition première dela localisation est dans la faculté motrice, et que par conséquent la localisation n'estpas unfait d'innervation préétablie.
+[p. 63] intacts. On sait que, chez ce malade, le pouvoir de localiser dans son propre corps les sensations qu'il éprouvait, était totalement aboli ; et que, la paralysie des nerfs moteurs s'atténuant progressivement, la faculté de la localisation lui revint également peu à peu. Cette expérience, si elle a été bien faite, est, comme le dit Stuart Mill, un véritable experimentum crucis, et prouve avec une clarté parfaite que la condition première dela localisation est dans la faculté motrice, et que par conséquent la localisation n'estpas unfait d'innervation préétablie.
 
 On peut citer encore contre la théorie des localisations spontanées
 
@@ -1040,11 +833,7 @@ la sensibilité a beaucoup augmenté, sans
 
 que pourtant le rat puisse encore reconnaître l'endroit où on le pince ; après une année,
 
-il reconnaît l'endroit, et se retourne pour mordre
-
-[p. 64]
-
-l'instrument. Cette expérience permet de constater directement, et de prendre en quelque sorte sur le fait l'influence du temps et de l'habitude sur les phénomènes de localisation.
+il reconnaît l'endroit, et se retourne pour mordre [p. 64] l'instrument. Cette expérience permet de constater directement, et de prendre en quelque sorte sur le fait l'influence du temps et de l'habitude sur les phénomènes de localisation.
 
 2º Il est encore une autre raison qui, aux yeux du psychologue, condamne irrémissiblement le nativisme pur : le nativisme pur est en contradiction avec cette vérité indiscutable quele temps est nécessairement un élément de la représentation de l'espace ; ou, si l'on peut ici se servir d'un terme d'algèbre, que l'intuition de l'espace est nécessairement fonction de celle du temps.
 
@@ -1068,9 +857,7 @@ alors très nettement conscience que la perception de l'étendue placée sous
 
 nos yeux est successive.
 
-[p. 65]
-
-Or, si nous percevons successivement de grandes étendues, il faut bien que nous percevions de la même manière les plus petites ; car
+[p. 65] Or, si nous percevons successivement de grandes étendues, il faut bien que nous percevions de la même manière les plus petites ; car
 
 il est évident qu'entre une grande étendue et une.
 
@@ -1080,11 +867,7 @@ Sur ce point du reste on se trompe fréquemment, et la cause en est que l'on con
 
 qu'on la suppose, a toujours une certaine durée, implique une réelle multiplicité d'impressions,
 
-et par conséquent doit comprendre une réelle multiplicité de points colorés contigus entre eux comme les moments de la durée, c'est-à-dire constituant une surface. Ce qui est évident, ce que personne ne peut rai5
-
-[p. 66]
-
-sonnablement refuser d'accorder, croyons-nous, c'est qu'un minimum d'espace est perçu dans un minimum de temps. Nous sommes en droit d'en conclure que, dans l'instant indivisible de la durée, nous ne pouvons percevoir que
+et par conséquent doit comprendre une réelle multiplicité de points colorés contigus entre eux comme les moments de la durée, c'est-à-dire constituant une surface. Ce qui est évident, ce que personne ne peut rai5 [p. 66] sonnablement refuser d'accorder, croyons-nous, c'est qu'un minimum d'espace est perçu dans un minimum de temps. Nous sommes en droit d'en conclure que, dans l'instant indivisible de la durée, nous ne pouvons percevoir que
 
 le point indivisible de l'espace, le point mathématique. Que du reste, ni l'instant indivisible, ni
 
@@ -1104,11 +887,7 @@ simple
 
 point
 
-mathématique, rien n'est plus vrai ; mais ce n'est pas de quoi il s'agit. On soutient que, dans une portion donnée du temps, nous percevons une portion donnée de l'étendue : nous l'accordons, mais la question n'est pas là. Les nativistes prétendent que nous avons de l'étendue une intuition rigoureusement simultanée ; c'est-à-dire que, au point de vue théorique, nous pouvons dans le zéro absolu de temps, ou dans l'instant indivisible, percevoir une surface réelle. Mais il ya là une erreur manifeste. Si nous percevons une surface d'une grandeur donnée petite ou grande, il faut nécessairement que nous en puissions percevoir éga
-
-[p. 67]
-
-lement la moitié. Or, s'il est des surfaces qui puissent êre perçues dans l'instant indivisible, nous demanderons comment on pourrait percevoir la moitié de ces surfaces. Donc, théoriquement parlant, cela est bien
+mathématique, rien n'est plus vrai ; mais ce n'est pas de quoi il s'agit. On soutient que, dans une portion donnée du temps, nous percevons une portion donnée de l'étendue : nous l'accordons, mais la question n'est pas là. Les nativistes prétendent que nous avons de l'étendue une intuition rigoureusement simultanée ; c'est-à-dire que, au point de vue théorique, nous pouvons dans le zéro absolu de temps, ou dans l'instant indivisible, percevoir une surface réelle. Mais il ya là une erreur manifeste. Si nous percevons une surface d'une grandeur donnée petite ou grande, il faut nécessairement que nous en puissions percevoir éga [p. 67] lement la moitié. Or, s'il est des surfaces qui puissent êre perçues dans l'instant indivisible, nous demanderons comment on pourrait percevoir la moitié de ces surfaces. Donc, théoriquement parlant, cela est bien
 
 entendu, dans l'instant indivisible nous ne pouvons percevoir que le point mathématique.
 
@@ -1120,17 +899,11 @@ c'est, il faut bien l'avouer, la faiblesse de la thèse adverse, et les expérie
 
 Or il y avait là quelque chose d'illégitime ; parce que rien ne prouvait qu'on fût obligé de choisir entre l'empirisme absolu et le nativisme absolu,
 
-et que quiconque excluait l'un prît par là-même parti pour l'autre. Il existe au contraire, comme nous l'avons dit déjà, entre les deux théories extrêmes, une théorie moyenne faisant sa part à chacune des deux autres, sans avoir la pré
-
-[p. 68]
-
-tention de les concilier, mais se frayant sa voie à égale distance de l'une et de l'autre. Pour que l'empirisme pût triompher de la faiblesse de la thèse opposée, il aurait fallu que ses arguments, que les faits d'expérience invoqués par lui atteignissent en même temps que le nativisme la théorie intermédiaire dont nous parlons : alors, mais alors seulement, il fût demeuré seul maître du terrain. Ce résultat n'a pas
+et que quiconque excluait l'un prît par là-même parti pour l'autre. Il existe au contraire, comme nous l'avons dit déjà, entre les deux théories extrêmes, une théorie moyenne faisant sa part à chacune des deux autres, sans avoir la pré [p. 68] tention de les concilier, mais se frayant sa voie à égale distance de l'une et de l'autre. Pour que l'empirisme pût triompher de la faiblesse de la thèse opposée, il aurait fallu que ses arguments, que les faits d'expérience invoqués par lui atteignissent en même temps que le nativisme la théorie intermédiaire dont nous parlons : alors, mais alors seulement, il fût demeuré seul maître du terrain. Ce résultat n'a pas
 
 été obtenu, et même il a été établi avec la plus extrême rigueur, dans un ouvrage que nous avons eu déjà occasion de citer ', que toutes les expériences alléguées, et en particulier celle de Cheselden et d'autres expériences similaires, si elles sont probantes contre les partisans d'une perception immédiate de la distance vraie, ne prouvent rien contre ceux qui se contentent de considérer la sensation de couleur comme primitivement et nécessairement projetée dans l'espace. Nous n'insisterons pas sur ce point qui a été traité d'une manière définitive, mais nous retiendrons la conclusion à laquelle a abouti cette importante discussion ; à savoir, que les arguments de l'empirisme contre le nativsme peuvent être d'une grande force contre cette [^p68-1]
 
-[p. 69]
-
-doctrine, mais ne prouvent rien en faveur de l'empirisme lui-même.
+[p. 69] doctrine, mais ne prouvent rien en faveur de l'empirisme lui-même.
 
 Mais nous devons aborder de front l'empirisme à son tour. Cette
 
@@ -1146,9 +919,7 @@ empiristes peuvent opposer aux nativistes des faits et des expériences qui semb
 
 Comme preuve à cet égard, nous rappellerons d'abord l'expérience faite au Muséum par Fr. Cuvier, et rapportée par M. Chevreul, que M. Janet cite à son tour dans l'opuscule dont nous avons parlé : « Une poule couveuse fut mise avec des œufs dans un panier couvert d'un [^p69-1]
 
-[p. 70]
-
-drap noir, au centre d'une enceinte circulaire d'un mètre environ de diamètre, limitée par une triple rangée de pieux disposés en quinconces, de manière que les petits poulets éclos ne pouvaient sortir de l'enceinte limitée directement dans la rangée du milieu. Qu'arriva-t-il ? C'est que chacun d'eux évita le pieu en faisant un léger détour ; une fois hors du cercle, il allait becqueter directement des grains qu'on avait répandus à quelques mètres du panier ; de manière qu'à la sortie de l'œuf, le petit poulet savait éviter les obstacles opposés à sa marche directe, et, sans hésitation, se précipitait directement pour se nourrir du grain que ses yeux voyaient pour la première fois. » Voilà un fait qui paraît assez décisif : il en est bien d'autres, et qui sont connus. Le petit veau sait trouver immédiatement le pis de la vache. Le crocodile, éclos sans avoir été couvé par ses parents, court immédiatement à l'eau, mord un bâton qu'on lui présente, etc. Ces faits, dit M. Ribot, sont tout en faveur de la théorie nativiste, puisqu'ils montrent que ces animaux, « dès qu'ils voient la lumière du monde, en voient aussi la profondeur. »
+[p. 70] drap noir, au centre d'une enceinte circulaire d'un mètre environ de diamètre, limitée par une triple rangée de pieux disposés en quinconces, de manière que les petits poulets éclos ne pouvaient sortir de l'enceinte limitée directement dans la rangée du milieu. Qu'arriva-t-il ? C'est que chacun d'eux évita le pieu en faisant un léger détour ; une fois hors du cercle, il allait becqueter directement des grains qu'on avait répandus à quelques mètres du panier ; de manière qu'à la sortie de l'œuf, le petit poulet savait éviter les obstacles opposés à sa marche directe, et, sans hésitation, se précipitait directement pour se nourrir du grain que ses yeux voyaient pour la première fois. » Voilà un fait qui paraît assez décisif : il en est bien d'autres, et qui sont connus. Le petit veau sait trouver immédiatement le pis de la vache. Le crocodile, éclos sans avoir été couvé par ses parents, court immédiatement à l'eau, mord un bâton qu'on lui présente, etc. Ces faits, dit M. Ribot, sont tout en faveur de la théorie nativiste, puisqu'ils montrent que ces animaux, « dès qu'ils voient la lumière du monde, en voient aussi la profondeur. »
 
 Mais à quoi bon aller chercher des témoignages
 
@@ -1158,11 +929,7 @@ lorsque
 
 les
 
-faits mêmes que les empiristes invoquent en faveur
-
-[p. 71]
-
-de leur thèse et qui sont relatifs à l'espèce humaine, prouvent que la sensation visuelle à son origine n'est pas absolument indéterminée quant à l'espace. Par exemple, on se fonde sur le rapport de Cheselden, d'après lequel le jeune homme opéré, « loin d'être en état d'apprécier les distances, s'imaginait que tous les objets qu'il voyait touchaient ses yeux, de même que les objets sentis sont au contact de la peau. »
+faits mêmes que les empiristes invoquent en faveur [p. 71] de leur thèse et qui sont relatifs à l'espèce humaine, prouvent que la sensation visuelle à son origine n'est pas absolument indéterminée quant à l'espace. Par exemple, on se fonde sur le rapport de Cheselden, d'après lequel le jeune homme opéré, « loin d'être en état d'apprécier les distances, s'imaginait que tous les objets qu'il voyait touchaient ses yeux, de même que les objets sentis sont au contact de la peau. »
 
 M. Janet a fort bien montré qu'il ne faut pas prendre à la lettre cette expression du nouveau voyant que « les objets lui touchaient les yeux » ;
 
@@ -1186,9 +953,7 @@ théorie de M.
 
 Helm_
 
-[p. 72]
-
-holtz,
+[p. 72] holtz,
 
 d'après
 
@@ -1210,17 +975,13 @@ empiristes. Ceux-ci doivent,
 
 pour [^p72-1]
 
-[p. 73]
-
-demeurer fidèles à leurs principes, soutenir que la sensation, dans ce qu'elle a de fondamental et de constitutif, ne comporte aucune détermination d'ordre spatial, ce qui les met hors d'état d'expliquer d'une manière satisfaisante les phénomènes de localisation. Nous n'avons pas l'intention d'entreprendre ici la critique des tentatives qu'on a faites pour y réussir, ni d'examiner les théories qui ont été proposées. Il nous suffira de rappeler que les psychologues et les physiologistes empiristes d'Allemagne ont eu pour la plupart
+[p. 73] demeurer fidèles à leurs principes, soutenir que la sensation, dans ce qu'elle a de fondamental et de constitutif, ne comporte aucune détermination d'ordre spatial, ce qui les met hors d'état d'expliquer d'une manière satisfaisante les phénomènes de localisation. Nous n'avons pas l'intention d'entreprendre ici la critique des tentatives qu'on a faites pour y réussir, ni d'examiner les théories qui ont été proposées. Il nous suffira de rappeler que les psychologues et les physiologistes empiristes d'Allemagne ont eu pour la plupart
 
 recours pour l'explication des
 
 1 localisations à l'hypothèse des signes locaux de Lotze, ce qui était sortir complètement du système ; et que ceux d'Angleterre qui ontcru pouvoir se passer de cette hypothèse, ont encouru le reproche très justifié à notre avis, d'avoir commis une pétition de principe en introduisant, tout au moins d'une manière indirecte, dans le nombre des éléments dont ils composaient la notion de l'espace, cette notion même qu'il s'a gissait pour eux d'expliquer, et de réduire à des éléments qui lui fussent hétérogènes 2.[^p73-1][^p73-2]
 
-[p. 74]
-
-Du
+[p. 74] Du
 
 reste,
 
@@ -1248,11 +1009,7 @@ la
 
 sensation ne comporte originairement aucune détermination quant à l'espace, qu'elle est un fait de conscience purement subjectif, et que par l à même elle nous est donnée tout d'abord dansla conscience uniquement comme un état du moi ?
 
-Au reste, il faut avouer qu'on éprouve un réel sentiment d'étonnement, quand on considère l'obstination que mettent en général les empi
-
-[p. 75]
-
-ristes à refuser à la sensation toute détermination quant à l'espace. Il s'agit ici, cela est bien entendu, des psychologues de l'école associationiste, et pas du tout des physiologistes allemands qui traitent la question au point de vue pur de la physiologie et de l'expérience, sans aucune espèce de préoccupation relativement à une thèse quelconque de psychologie générale. Assurément MM. Stuart Mill, Bain et Spencer reconnaissent que la sensation est déterminée primitivement quant à ce qu'Aristote appelait le sensible propre. Si donc la sensation visuelle est irréductiblement la sensation d'un point lumineux coloré, on se demande pourquoi ces philosophes ne veulent pas admettre que се point lumineux soit, d'une façon également irréductible, donné comme extérieur. Qu'est-ce que la théorie empirique de l'Ecole
+Au reste, il faut avouer qu'on éprouve un réel sentiment d'étonnement, quand on considère l'obstination que mettent en général les empi [p. 75] ristes à refuser à la sensation toute détermination quant à l'espace. Il s'agit ici, cela est bien entendu, des psychologues de l'école associationiste, et pas du tout des physiologistes allemands qui traitent la question au point de vue pur de la physiologie et de l'expérience, sans aucune espèce de préoccupation relativement à une thèse quelconque de psychologie générale. Assurément MM. Stuart Mill, Bain et Spencer reconnaissent que la sensation est déterminée primitivement quant à ce qu'Aristote appelait le sensible propre. Si donc la sensation visuelle est irréductiblement la sensation d'un point lumineux coloré, on se demande pourquoi ces philosophes ne veulent pas admettre que се point lumineux soit, d'une façon également irréductible, donné comme extérieur. Qu'est-ce que la théorie empirique de l'Ecole
 
 anglaise aurait à y perdre, puisque, ceci accepté, la notion de l'espace conserve son origine expérimentale, et que toute hypothèse innéiste relativement à cette notion demeure écartée ?
 
@@ -1260,9 +1017,7 @@ anglaise aurait à y perdre, puisque, ceci accepté, la notion de l'espace conse
 
 semble même que les Associationistes auraient beaucoup à y gagner au contraire, étant par là délivrés de la tâche ardue de constituer de toutes pièces la représentation de l'espace, sans s'être pourvus préalablement d'aucun élément d'ordre spatial.
 
-[p. 76]
-
-Ainsi, ni le nativisme pur, ni le pur empirisme ne présentent, à ce qu'il semble, une solution satisfaisante du problème de la perception visuelle de l'espace. Nous devons donc recourir à la théorie intermédiaire dont il a été parlé, laquelle faisant sa part à chacune des deux théories extrêmes, considère la sensation, non pas comme absolument
+[p. 76] Ainsi, ni le nativisme pur, ni le pur empirisme ne présentent, à ce qu'il semble, une solution satisfaisante du problème de la perception visuelle de l'espace. Nous devons donc recourir à la théorie intermédiaire dont il a été parlé, laquelle faisant sa part à chacune des deux théories extrêmes, considère la sensation, non pas comme absolument
 
 indéterminée quant à l'espace, ni comme déterminée quant à l'espace tout entier avec ses trois dimensions, mais
 
@@ -1296,11 +1051,7 @@ serait au
 
 contraire objet de construction et d'expérience ? Notre hésitation là-dessus ne saurait être longue. Au point de vue physiologique, la doctrine
 
-de
-
-[p. 77]
-
-((Müller, d'après le témoignage de M. Ribot, a été abandonnée de bonne heure
+de [p. 77] ((Müller, d'après le témoignage de M. Ribot, a été abandonnée de bonne heure
 
 parce qu'elle soulevait trop de difficultés, parce qu'elle était en contradiction avec des faits bien établis :
 
@@ -1322,9 +1073,7 @@ d'ailleurs), « destinées à la mettre d'accord avec les faits 2.
 
 »[^p77-1][^p77-2]
 
-[p. 78]
-
-Au point de vue psychologique qui est beaucoup plutôt le nôtre, la conclusion est identique. Ce que nous reprochions surtout au nativisme pur, c'était de ne pas faire au temps sa part dans la représentation que nous avons de l'espace. Or ce reproche tombe tout aussi bien sur la théorie de Müller. C'est donc à l'hypothèse de la projection que nous devons nous en tenir.
+[p. 78] Au point de vue psychologique qui est beaucoup plutôt le nôtre, la conclusion est identique. Ce que nous reprochions surtout au nativisme pur, c'était de ne pas faire au temps sa part dans la représentation que nous avons de l'espace. Or ce reproche tombe tout aussi bien sur la théorie de Müller. C'est donc à l'hypothèse de la projection que nous devons nous en tenir.
 
 Ainsi, pour conclure, nous croyons avoir démontré, et nous considérons désormais comme un point acquis, que la
 
@@ -1340,11 +1089,9 @@ d'individu
 
 1[^p78-1]
 
-[p. 79]
+[p. 79] lors, la représentation que nous avons des corps comme étendus est proprement une construction de l'esprit, et c'est cette représentation qui est pour nous la véritable origine de la notion d'espace.
 
-lors, la représentation que nous avons des corps comme étendus est proprement une construction de l'esprit, et c'est cette représentation qui est pour nous la véritable origine de la notion d'espace.
-
-Il nous reste à démontrer que la notion du temps n'est pas plus innée que celle de l'espace, et que l'intuition nous en est donnée, non pas a priori, comme le veut Kant, mais dans l'expérience même.
+Il nous reste à démontrer que la notion du temps n'est pas plus innée que celle de l'espace, et que l'intuition nous en est donnée, non pas *a priori*, comme le veut Kant, mais dans l'expérience même.
 
 Une simple observation nous
 
@@ -1358,15 +1105,9 @@ effet pour nous qu'une certaine étendue visuelle,
 
 et pour plus de simplicité nous considérerons uniquement l'étendue linéaire, — sinon la totalité des perceptions que nous donne notre œil se mouvant pendant un temps
 
-donné avec une vitesse
+donné avec une vitesse [p. 80] donnée ? De mème, qu'est-ce pour nous qu'une certaine durée, sinon l'ensemble des perceptions que nons donne notre œil parcourant d'une extrémité à l'autre une ligne donnée avec une vitesse donnée ? Si le temps combiné avec la vitesse mesure l'espace, est-ce que l'espace combiné avec la vitesse ne mesure pas également le temps ? Et, si nous laissons de côté le temps et l'espace objectifs, qui, pour les raisons que nous avons exposées, ne peuvent être réels, n'est-il pas évident que le temps subjectif, le seul et véritable temps, est relatif à l'espace, tout comme l'espace subjectif est relatif au temps ? ¹[^p80-1]
 
-[p. 80]
-
-donnée ? De mème, qu'est-ce pour nous qu'une certaine durée, sinon l'ensemble des perceptions que nons donne notre œil parcourant d'une extrémité à l'autre une ligne donnée avec une vitesse donnée ? Si le temps combiné avec la vitesse mesure l'espace, est-ce que l'espace combiné avec la vitesse ne mesure pas également le temps ? Et, si nous laissons de côté le temps et l'espace objectifs, qui, pour les raisons que nous avons exposées, ne peuvent être réels, n'est-il pas évident que le temps subjectif, le seul et véritable temps, est relatif à l'espace, tout comme l'espace subjectif est relatif au temps ? ¹[^p80-1]
-
-[p. 81]
-
-De là, nous pouvons conclure immédiatement que ni l'une ni l'autre de ces deux intuitions n'est primitive et irréductible, ce qui suppose qu'elles ont toutes deux leur origine et leur raison d'être dans quelque processus de l'esprit logiquement antérieur et plus fondamental.
+[p. 81] De là, nous pouvons conclure immédiatement que ni l'une ni l'autre de ces deux intuitions n'est primitive et irréductible, ce qui suppose qu'elles ont toutes deux leur origine et leur raison d'être dans quelque processus de l'esprit logiquement antérieur et plus fondamental.
 
 C'est ce processus que nous devons étudier.
 
@@ -1378,11 +1119,7 @@ puisque, s'ils pouvaient être décomposés ou
 
 tité fixe et absolue, dont la notion nous sert de base lorsque nous avons à déterminer la grandeur de l'espace parcouru dans notre mouvement ; et par là-même on fait du temps quelque chose qui existe indépendamment de la sensation, et qui peut servir à la mesurer. Or cette conception du temps est inacceрtable. La durée d'une série psychologique est relative, et, loin de pouvoir servir à déterminer la grandeur d'un espace parcouru, elle a besoin tout autant que cette dernière d'être déterminée elle-même.
 
-6
-
-[p. 82]
-
-composés idéalement, leur composition, et par là-même leur réalité, n'aurait plus rien d'impossible ni de contradictoire.
+6 [p. 82] composés idéalement, leur composition, et par là-même leur réalité, n'aurait plus rien d'impossible ni de contradictoire.
 
 Nous devons donc partir du temps et de l'espace comme donnés, et tâcher de découvrir le processus
 
@@ -1414,21 +1151,13 @@ D'abord, il faut faire remarquer que le tas de pierres n'existe point et n'est r
 
 ce qui est réel, ce sont uniquement les pierres ;
 
-quant au tas lui-même, il ne possède qu'une existence idéale. Ce qui constitue en fait le tas de pierres, c'est seulement l'acte de mon esprit qui considère toutes ces pierres comme une seule et même chose. A qui pourrait hésiter, ne fût-ce qu'un instant, sur ce point, il suffirait de
-
-[p. 84]
-
-rappeler qu'il dépend de moi de faire ou de défaire le tas. Si donc le tas était quelque chose en soi, et possédait l'existence à un titre quelconque, il en faudrait conclure que je possède également le pouvoir de créer des êtres et celui de les anéantir. Donc toute la réalité du tas de pierres, et aussi toute la représentation que j'en ai, consiste dans l'acte
+quant au tas lui-même, il ne possède qu'une existence idéale. Ce qui constitue en fait le tas de pierres, c'est seulement l'acte de mon esprit qui considère toutes ces pierres comme une seule et même chose. A qui pourrait hésiter, ne fût-ce qu'un instant, sur ce point, il suffirait de [p. 84] rappeler qu'il dépend de moi de faire ou de défaire le tas. Si donc le tas était quelque chose en soi, et possédait l'existence à un titre quelconque, il en faudrait conclure que je possède également le pouvoir de créer des êtres et celui de les anéantir. Donc toute la réalité du tas de pierres, et aussi toute la représentation que j'en ai, consiste dans l'acte
 
 intellectuel par lequel je considère comme une la multiplicité des pierres. Mais ce n'est pas tout. Cette multiplicité à laquelle j'attribue fictivement l'unité, c'est une multiplicité de pierres ; donc, pour penser le tas de pierres, il faut encore que je puisse penser les pierres. Or de quelles pierres s'agit-il ? Evidemment des pierres du tas ; c'est-à-dire que cette unité du tas doit m'apparaît re comme une unité multiple,
 
 de même
 
-que tout à l'heure la multiplicité des pierres m'apparaissait comme une multiplicité une. Constituer en unité la multiplicité des pierres, c'était bien, comme nous l'avons dit, l'œuvre propre de l'esprit ; mais l'opération inverse, celle de constituer en múltiplicité l'unité du tas de pierres, n'est pas l'œuvre propre de l'esprit à un degré qui soit moindre ; attendu que le tas de pierres n'est pas plus multiple en lui-même qu'il n'est un. Cela seul est multiple qui est composé d'unités ; c'est-à-dire que la multiplicité du tas
-
-[p. 85]
-
-suppose l'unité de chacune des pierres qui le composent. Or il est évident que chaque pierre à son tour est un agrégat, un tas, au même titre que le tas de pierres lui-même, le plus ou moins de rapprochement des parties étant ici sans importance ; de sorte que l'unité de chaque pierre lui vient de l'esprit, comme celle du tas de pierres, et pour les mêmes raisons : et,
+que tout à l'heure la multiplicité des pierres m'apparaissait comme une multiplicité une. Constituer en unité la multiplicité des pierres, c'était bien, comme nous l'avons dit, l'œuvre propre de l'esprit ; mais l'opération inverse, celle de constituer en múltiplicité l'unité du tas de pierres, n'est pas l'œuvre propre de l'esprit à un degré qui soit moindre ; attendu que le tas de pierres n'est pas plus multiple en lui-même qu'il n'est un. Cela seul est multiple qui est composé d'unités ; c'est-à-dire que la multiplicité du tas [p. 85] suppose l'unité de chacune des pierres qui le composent. Or il est évident que chaque pierre à son tour est un agrégat, un tas, au même titre que le tas de pierres lui-même, le plus ou moins de rapprochement des parties étant ici sans importance ; de sorte que l'unité de chaque pierre lui vient de l'esprit, comme celle du tas de pierres, et pour les mêmes raisons : et,
 
 si c'est l'esprit seul qui par sa pensée donne l'unité à chaque pierre, c'est encore lui apparemment qui donne au tas de pierres la multiplicité de ses éléments. Ainsi nous sommes
 
@@ -1436,11 +1165,7 @@ en mesure de dire dès maintenant comment se
 
 constitue en nous la représentation du tas de pierres cette représentation se constitue par un double processus de l'esprit érigeant un quelque chose, un datum indéterminé, en unité multiple et en multiplicité une.
 
-Si maintenant l'on veut bien prendre garde que l'exemple du tas de pierres est d'une portée absolument universelle, que tout corps, que toute portion de l'espace petite ou grande est un agrégat de parties plus petites de la même manière que le tas de pierres ; et que par conséquent cette portion est constituée telle, absolument comme était constitué le tas de pierres lui-même, nous en pourrons conclure d'une manière générale, que la représentation des choses
-
-[p. 86]
-
-sous forme d'étendue résulte d'un double processus de l'esprit, ordonnant l'objet représenté sous les formes de la multiplicité une et de l'unité multiple ; les deux termes de l'opération étant du reste absolument simultanés, aussi nécessaires l'un que l'autre pour que la représentation se constitue, et par là-même tout à fait inséparables, sauf pour l'esprit qui les conçoit individuellement par abstraction.
+Si maintenant l'on veut bien prendre garde que l'exemple du tas de pierres est d'une portée absolument universelle, que tout corps, que toute portion de l'espace petite ou grande est un agrégat de parties plus petites de la même manière que le tas de pierres ; et que par conséquent cette portion est constituée telle, absolument comme était constitué le tas de pierres lui-même, nous en pourrons conclure d'une manière générale, que la représentation des choses [p. 86] sous forme d'étendue résulte d'un double processus de l'esprit, ordonnant l'objet représenté sous les formes de la multiplicité une et de l'unité multiple ; les deux termes de l'opération étant du reste absolument simultanés, aussi nécessaires l'un que l'autre pour que la représentation se constitue, et par là-même tout à fait inséparables, sauf pour l'esprit qui les conçoit individuellement par abstraction.
 
 Ceci posé, il semble bien que nous ayons découvert cette forme fondamentale de la sensensibilité que Kant croyait être l'espace luimême. C'est par ce double processus, ainsi que nous l'avons montré, que nous nous donnons la représentation du tas de pierres, puis celle de la pierre, puis celle du fragment, puis celle de la molécule, et ainsi de suite indéfiniment. On voit bien que ce processus explique tout,
 
@@ -1448,19 +1173,13 @@ et qu'il suffit à tout. Sans doute, comme nous l'avons dit encore, il faut reco
 
 est irréprésentable : il n'est donc qu'une matière au sens qu'Aristote et Kant donnent à ce mot, c'est-à-dire un quelque chose qui n'est rien par soi ; — de même que la forme n'est rien par elle-même, et se réduit, si on l'isole, à une pure abstraction
 
-mais c'est un quelque
-
-[p. 87]
-
-chose qui, soumis au double processus de l'esprit, se constituera en représentation : et par conséquent il faut reconnaître que le double processus en question est vraiment une forme, comme le datum auquel il s'applique est une matière.
+mais c'est un quelque [p. 87] chose qui, soumis au double processus de l'esprit, se constituera en représentation : et par conséquent il faut reconnaître que le double processus en question est vraiment une forme, comme le datum auquel il s'applique est une matière.
 
 Quant à la question du mode suivant lequel s'opère cette schématisation', nous pouvons la considérer déjà comme résolue. La sensation, dans son élément ultime, et par conséquent dans ce qui peut être considéré le plus proprement comme étant sa matière, comporte, nous l'avons vu, une projection dans l'espace à une distance déterminée par des conditions d'ordre anatomique. C'est sur cette matière ainsi extériorisée d'avance que s'exerce l'action schématique de l'esprit, pour constituer des représentations de surfaces planes colorées, et aussi des représentations d'objets à trois dimensions. Ceci du reste se comprendra mieux encore, si l'on veut bien recourir à la fiction des points lumineux
 
 1 Ne trouvant point de terme qui soit consacré par l'usage pour exprimer cette action de l'esprit constituant ses représentations avec une matière donnée, nous nous sommes servi de celui -ci et des autres dérivés du mot « scheme. » Sans doute chez Kant, qui le premier s'est servi de ce mot et l'a introduit dans la langue philosophique, il a un sens différent, pas assez différent toutefois pour que la liberté que nous avons prise nou ait paru indigne de pardon.
 
-[p. 88]
-
-colorés irréductiblement projetés dans l'espace à une distance donnée, et servant par leur accumulation à constituer d'abord des surfaces, puis des volumes. L'action schématique de l'esprit sur la matière de la représentation devient alors extrêmement facile à concevoir.
+[p. 88] colorés irréductiblement projetés dans l'espace à une distance donnée, et servant par leur accumulation à constituer d'abord des surfaces, puis des volumes. L'action schématique de l'esprit sur la matière de la représentation devient alors extrêmement facile à concevoir.
 
 Ce processus de l'esprit ordonnant la matière de ses
 
@@ -1474,11 +1193,7 @@ nos
 
 représentations visuelles. Sans doute, cette continuité n'est pas absolue, parce qu'alors tous les objets n'auraient pournous en quelque sorte qu'une seule teinte ; mais, si les différents termes d'une série de couleurs présentent à l'œil l'aspect de la discontinuité, chacun de ces termes individuellement, est continu au contraire ; de sorte que l'on peut dire qu'il n'y a discontinuité que des continus.
 
-Cette discontinuité des continus offre peut-être plus d'avantages que la continuité même, pour qui veut mettre en relief le double processus par lequel l'esprit constitue ses représentations ; et c'est pour cela que nous avons choisi, pour y appuyer notre raisonnement, l'exemple d'un tas de pierres, comme nous aurions pu choisir celui d'un échiquier ou de
-
-[p. 89]
-
-tout autre objet composé d'éléments multiples et discontinus. Mais il faut reconnaître que la surface colorée à teinte plate ou progressivement dégradée est le véritable type, pour les représentations visuelles, de l'action de l'esprit ordonnant la matière de ses sensations par le double processus dont il a été parlé.
+Cette discontinuité des continus offre peut-être plus d'avantages que la continuité même, pour qui veut mettre en relief le double processus par lequel l'esprit constitue ses représentations ; et c'est pour cela que nous avons choisi, pour y appuyer notre raisonnement, l'exemple d'un tas de pierres, comme nous aurions pu choisir celui d'un échiquier ou de [p. 89] tout autre objet composé d'éléments multiples et discontinus. Mais il faut reconnaître que la surface colorée à teinte plate ou progressivement dégradée est le véritable type, pour les représentations visuelles, de l'action de l'esprit ordonnant la matière de ses sensations par le double processus dont il a été parlé.
 
 Nous venons de voir comment se
 
@@ -1494,11 +1209,7 @@ enlevant à
 
 la représentation ce qu'elle contient d'objectif, nous n'en ferons pas disparaître la continuité, puisque la continuité, c'est la forme même que l'esprit lui donne. Rien n'empêche d'isoler par abstraction de la pensée concrète
 
-tous les caractères que l'on voudra, mais on ne peut pas lui enlever le caractère de la continuité, parce qu'en le lui enlevant, on l'anéantirait. La pensée
-
-[p. 90]
-
-est donc essentiellement continue,
+tous les caractères que l'on voudra, mais on ne peut pas lui enlever le caractère de la continuité, parce qu'en le lui enlevant, on l'anéantirait. La pensée [p. 90] est donc essentiellement continue,
 
 et
 
@@ -1512,11 +1223,7 @@ sont done données
 
 simultanément dans une représentation quelconque, et la plus complexe des deux enveloppe l'autre : or il n'est pas douteux que la plus complexe des deux soit celle de l'espace,
 
-puisqu'elle
-
-[p. 91]
-
-est à elle seule la représentation tout entière.
+puisqu'elle [p. 91] est à elle seule la représentation tout entière.
 
 Ici une question se pose tout naturellement, et l'on est en droit de se demander pourquoi, s'il en est ainsi, l'intuition du temps est unilinéaire, tandis que celle de l'espace est trilinéaire.
 
@@ -1526,11 +1233,7 @@ complexe, serait peut-être insuffisant, parce que la raison pour laquelle l'int
 
 doit être aussi peu complexe que possible, c'est-àdire doit être unilinéaire.
 
-Ainsi, par le fait même qu'il ordonne la matière confuse de la sensation en unité multiple et en multiplicité une, l'esprit constitue sa représentation sous la forme de l'étendue pour ce qu'elle a d'objectif, et sous la forme de la durée pour ce qu'elle a de purement subjectif. L'étendue et la durée sont donc des constructions de la
-
-[p. 92]
-
-pensée, et les notions que nous en avons, de simples données de l'expérience ; c'est dire que, contrairement à l'opinion de Kant, les idées de temps et d'espace sont bien des concepts, et pas du tout des formes a priori de la sensibilité.
+Ainsi, par le fait même qu'il ordonne la matière confuse de la sensation en unité multiple et en multiplicité une, l'esprit constitue sa représentation sous la forme de l'étendue pour ce qu'elle a d'objectif, et sous la forme de la durée pour ce qu'elle a de purement subjectif. L'étendue et la durée sont donc des constructions de la [p. 92] pensée, et les notions que nous en avons, de simples données de l'expérience ; c'est dire que, contrairement à l'opinion de Kant, les idées de temps et d'espace sont bien des concepts, et pas du tout des formes *a priori* de la sensibilité.
 
 Cette théorie, outre qu'elle rend compte de ces deux caractères de nos représentations qu'on appelle l'étendue et la durée, a encore l'avantage de ramener à un principe commun deux facultés, — du moins on est convenu généralement de les considérer comme telles,
 
@@ -1538,33 +1241,23 @@ la mémoire et la perception extérieure, et par l à même elle nous délivre d
 
 On sait que la mémoire est définie la faculté du souvenir. Or le souvenir comporte plusieurs éléments ou conditions, qui sont : la reproduction d'un état de conscience antérieur, la reconnaissance de l'état de conscience ainsi renouvelé, et enfin une localisation plus ou moins précise dans le passé de l'état de conscience primitif. De ces trois conditions, la première et la troisième dépendent uniquement de l'association des idées ; seule la reconnaissance n'y est pas réductible
 
-; aussi, pour certains psychologues, ceux de l'école écossaise en particulier, exiget-elle l'intervention d'un pouvoir spécial et fondamental de l'esprit, qui serait alors la faculté
-
-[p. 93]
-
-même de la mémoire. Pour la plupart des philosophes au contraire, la reconnaissance s'explique bien,
+; aussi, pour certains psychologues, ceux de l'école écossaise en particulier, exiget-elle l'intervention d'un pouvoir spécial et fondamental de l'esprit, qui serait alors la faculté [p. 93] même de la mémoire. Pour la plupart des philosophes au contraire, la reconnaissance s'explique bien,
 
 pourvu seulement que nous ayons la notion indéterminée du temps passé, c'est-àdire en réalité la notion du temps. Mais, cette notion, où la prendre ? Plusieurs reviendront à accepter, pour en rendre compte, une faculté fondamentale, et les Kantiens ne font pas autre chose. Au contraire, en faisant dépendre cette notion de l'expérience, et en expliquant par un principe extrêmement général et extrêmement simple le fait d'expérience qui nous la donne, on ramène à des éléments connus le souvenir dans toutes ses parties, ce qui dispense d'inventer une faculté tout exprès pour l'expliquer, et permet de prendre la mémoire pour ce qu'elle est, c'est-à-dire pour un mot commode qui nous sert à désigner rapidement et clairement toute une catégorie de faits de conscience.
 
 De même pour la perception extérieure. Les perceptions que nous avons du monde sensible ne
 
-doivent pas être considérées comme les actes d'une prétendue faculté imaginée ad hoc, mais
+doivent pas être considérées comme les actes d'une prétendue faculté imaginée *ad hoc*, mais
 
-elles résultent, ainsi que nous l'avons exposé, d'un acte de l'esprit ordonnant suivant une forme a priori et constante la matière indéterminée et variable de ses représentations.
+elles résultent, ainsi que nous l'avons exposé, d'un acte de l'esprit ordonnant suivant une forme *a priori* et constante la matière indéterminée et variable de ses représentations.
 
-[p. 94]
-
-Ce double processus de l'esprit qui paraît occuper dans l'histoire de notre constitution mentale une place si considérable, se présente quelquefois sous un aspect un peu différent : par exemple, on donne souvent à l'un des deux moments du mouvement rythmique qui le composent le nom d'analyse, et à l'autre le nom de synthèse.
+[p. 94] Ce double processus de l'esprit qui paraît occuper dans l'histoire de notre constitution mentale une place si considérable, se présente quelquefois sous un aspect un peu différent : par exemple, on donne souvent à l'un des deux moments du mouvement rythmique qui le composent le nom d'analyse, et à l'autre le nom de synthèse.
 
 Pour ce qui concerne l'exactitude du rapprochement que nous indiquons, il ne semble pas qu'on puisse la contester. Qu'est-ce en effet qu'embrasser dans une intuition unique de l'esprit, et considérer comme un seulobjet une multitude d'objets divers, sinon
 
 synthétiser ? Et considérer un groupe comme une unité multiple dont les parties composantes sont telles et telles, est-ce autre chose qu'analyser ? On pourrait même se demander s'il y a lieu de
 
-maintenir l'opposition entre les termes analyse et synthèse, et ceux qui désignent les deux moments de l'opération que nous avons décrite. Mais nous croyons que cette opposition, ou du moins une certaine distinction doit être maintenue, parce que les mots analyse et synthèse expriment l'action de l'esprit étudiant un objet dont la représentation est donnée, tandis que notre processus a pour objet et pour terme la constitution de la représentation elle-même. Du reste
-
-[p. 95]
-
-cette opposition même, lorsqu'on la considère, révèle une identité fondamentale. Ce qui peut donner lieu à une étude, et par conséquent à une application des deux procédés de la méthode générale, l'analyse et la synthèse, c'est évidemment une représentation ; quoique l'on puisse subir l'illusion de croire qu'on a affaire à un quelque chose en soi ; et, d'autre part, ce que le double processus de l'esprit sert à constituer, c'est encore la représentation. Lors donc que nous considérons un objet donné dans la représentation,
+maintenir l'opposition entre les termes analyse et synthèse, et ceux qui désignent les deux moments de l'opération que nous avons décrite. Mais nous croyons que cette opposition, ou du moins une certaine distinction doit être maintenue, parce que les mots analyse et synthèse expriment l'action de l'esprit étudiant un objet dont la représentation est donnée, tandis que notre processus a pour objet et pour terme la constitution de la représentation elle-même. Du reste [p. 95] cette opposition même, lorsqu'on la considère, révèle une identité fondamentale. Ce qui peut donner lieu à une étude, et par conséquent à une application des deux procédés de la méthode générale, l'analyse et la synthèse, c'est évidemment une représentation ; quoique l'on puisse subir l'illusion de croire qu'on a affaire à un quelque chose en soi ; et, d'autre part, ce que le double processus de l'esprit sert à constituer, c'est encore la représentation. Lors donc que nous considérons un objet donné dans la représentation,
 
 ce que nous
 
@@ -1576,11 +1269,7 @@ il a constitué spontanément sa représentation ; c'est repasser par le même c
 
 On voit par là que nous serions mal fondé à prétendre à l'honneur d'avoir
 
-fait une découverte. En disant que l'esprit constitue ses représentations sous la double forme de l'unité multiple et de la multiplicité une, nous ne faisons que
-
-[p. 96]
-
-répéter dans des termes un peu différents ce que l'esprit humain sait et proclame depuis tant de siècles, à savoir que les procédés fondamentaux de la science sont l'analyse et la synthèse. Il était en effet bien certain d'avance que les mêmes procédés qui nous servent à acquérir la connaissance distincte et réfléchie d'un objet représenté ont dû nous
+fait une découverte. En disant que l'esprit constitue ses représentations sous la double forme de l'unité multiple et de la multiplicité une, nous ne faisons que [p. 96] répéter dans des termes un peu différents ce que l'esprit humain sait et proclame depuis tant de siècles, à savoir que les procédés fondamentaux de la science sont l'analyse et la synthèse. Il était en effet bien certain d'avance que les mêmes procédés qui nous servent à acquérir la connaissance distincte et réfléchie d'un objet représenté ont dû nous
 
 servir à constituer la représentation de cet objet ; la science et la réalité étant, non pas deux choses, mais deux aspects différents d'une même chose.
 
@@ -1594,11 +1283,7 @@ et
 
 se pénètrent
 
-en quelque sorte. Sans revenir en rien sur nos assertions antérieures pour en atténuer ou en modifier la portée, nous devons faire remarquer maintenant que l'unité du multiple dans la représentation exprime plus complètement et plus parfaitement l'esprit que la multiplicité de l'un : et nous l'avons bien vu nous-même, lorsque nous avons montré comment se constitue
-
-[p. 97]
-
-la représentation du tas de pierres. Considérer l'ensemble des pierres comme un tas, c'est le point de vue de l'unité du multiple ; considérer le tas comme composé de pierres, c'est le point de vue de la multiplicité de l'un ; mais ce second moment du processus qui est contemporain du premier en un sens,
+en quelque sorte. Sans revenir en rien sur nos assertions antérieures pour en atténuer ou en modifier la portée, nous devons faire remarquer maintenant que l'unité du multiple dans la représentation exprime plus complètement et plus parfaitement l'esprit que la multiplicité de l'un : et nous l'avons bien vu nous-même, lorsque nous avons montré comment se constitue [p. 97] la représentation du tas de pierres. Considérer l'ensemble des pierres comme un tas, c'est le point de vue de l'unité du multiple ; considérer le tas comme composé de pierres, c'est le point de vue de la multiplicité de l'un ; mais ce second moment du processus qui est contemporain du premier en un sens,
 
 le tas de pierres est une unité multiple au même titre qu'il est une multiplicité une,
 
@@ -1648,11 +1333,7 @@ saurait y avoir lieu de remonter au delà.
 
 Arrivé au terme de cette discussion,
 
-nous croyons être en droit d'affirmer que ce que Kant appelait la Sensibilité, c'est-à-dire la faculté de la simple représentation, suppose deux formes logiquement préexistantes à la représentation même, et qui en sont les conditions essentielles. Mais ces formes ne sont pas le temps et l'espace, comme le croyait Kant, puisque le temps et l'espace ne sont que des concepts dérivés de l'expérience. Ces formes absolument fondamentales et irréductibles, nous avons cru les trouver dans le double processus par lequel l'esprit constitue la représentation en unité multiple et en multiplicité une. Dès lors une question se présente d'elle-même, qui est celle-ci : d'où
-
-[p. 99]
-
-vient ce double processus ? quelle est son origine et sa raison d'être dans l'esprit ?
+nous croyons être en droit d'affirmer que ce que Kant appelait la Sensibilité, c'est-à-dire la faculté de la simple représentation, suppose deux formes logiquement préexistantes à la représentation même, et qui en sont les conditions essentielles. Mais ces formes ne sont pas le temps et l'espace, comme le croyait Kant, puisque le temps et l'espace ne sont que des concepts dérivés de l'expérience. Ces formes absolument fondamentales et irréductibles, nous avons cru les trouver dans le double processus par lequel l'esprit constitue la représentation en unité multiple et en multiplicité une. Dès lors une question se présente d'elle-même, qui est celle-ci : d'où [p. 99] vient ce double processus ? quelle est son origine et sa raison d'être dans l'esprit ?
 
 Les questions de ce genre donnent lieu à des solutions qui sont au fond toujours les mêmes, et que l'on peut ranger de prime abord en deux grandes catégories, les solutions
 
@@ -1674,9 +1355,7 @@ LYON
 
 * 1003 *
 
-[p. 100]
-
-même, quand nous avons dit que nos pensées se constituent sous une forme invariable.
+[p. 100] même, quand nous avons dit que nos pensées se constituent sous une forme invariable.
 
 Mais il reste à s'entendre sur la nature de cette loi. Dans l'esprit de la philosophie kantienne, une loi qui gouverne la pensée, la loi des catégories par exemple, la gouverne en quelque sorte du dehors ; elle est extérieure à la pensée même, et ce n'est rien exagérer que d'aller jusqu'à dire qu'elle lui est hétérogène et irréductible.
 
@@ -1696,11 +1375,7 @@ elle ne peut être objet de pensée. Sans doute,
 
 sous l'empire de cette loi, nos conceptions prennent une forme intelligible, celle de l'unité multiple et de la multiplicité une ; et cette forme, nous la dégageons
 
-ensuite par abstraction de nos conceptions une fois constituées ; mais la loi
-
-[p. 101]
-
-elle-même demeure inaccessible à la pensée.
+ensuite par abstraction de nos conceptions une fois constituées ; mais la loi [p. 101] elle-même demeure inaccessible à la pensée.
 
 On la définit, on la détermine par ses résultats, non par elle-même : pour l'esprit, elle n'existe absolument pas. Que
 
@@ -1720,15 +1395,11 @@ l'affirmer
 
 ? Fera-t-on
 
-intervenir une seconde loi de l'esprit pour justifier l'affirmation a priori de la première ? Et, si l'on se fonde sur ce qu'en fait toutes nos pensées ont le caractère de l'unité multiple et de la multiplicité une, ne voit-on pas que l'apriorisme ainsi entendu revient absolument à l'empirisme vulgaire ?
+intervenir une seconde loi de l'esprit pour justifier l'affirmation *a priori* de la première ? Et, si l'on se fonde sur ce qu'en fait toutes nos pensées ont le caractère de l'unité multiple et de la multiplicité une, ne voit-on pas que l'apriorisme ainsi entendu revient absolument à l'empirisme vulgaire ?
 
 Du reste, hâtons-nous d'ajouter qu'une pareille manière de voir est totalement opposée à l'esprit du véritable Kantisme. Non, la loi de
 
-la pensée, pour Kant, est tout autre chose qu'un
-
-[p. 102]
-
-caractère commun à tous les faits constatés. Elle est au-dessus et en dehors des faits qu'elle gouverne
+la pensée, pour Kant, est tout autre chose qu'un [p. 102] caractère commun à tous les faits constatés. Elle est au-dessus et en dehors des faits qu'elle gouverne
 
 ; et, quoique Kant ne le dise pas expressément, elle doit avoir sa racine dans le noumène. Ce qui est certain à tout le moins, c'est qu'elle est une entité véritable, et, comme nous l'avons dit plus haut, une entité inintelligible. Mais alors, pourquoi en parler ; pourquoi affirmer l'existence de ce dont on n'a absolument aucune manifestation directe, ni même aucune idée ? Il semble donc bien qu'il y ait lieu de considérer la loi de la pensée comme purement phénoménale, ce qui nous ramène au point de vue du néo-criticisme, lequel à son tour nous ramène à l'empirisme.
 
@@ -1742,11 +1413,7 @@ et n'être rien indépendamment des phénomènes qu'elle gouverne
 
 et exprime d'une façon absolue ' la 1 Le mot absolu a malheureusement
 
-en philosophie une
-
-[p. 103]
-
-nature absolue de la pensée. Mais, s'il en est ainsi, la pensée est donc quelque chose de plus qu'un simple phénomène, en donnant à ce mot le sens qu'on y attache ordinairement ; c'est-àdire, elle est donc plus qu'une manifestation passagère d'un quelque chose permanent qui serait l'esprit, plus qu'une ombre mobile de la réalité immuable ? Oui, dirons-nous, elle est plus que cela, car elle est la réalité même, la réalité tout entière.
+en philosophie une [p. 103] nature absolue de la pensée. Mais, s'il en est ainsi, la pensée est donc quelque chose de plus qu'un simple phénomène, en donnant à ce mot le sens qu'on y attache ordinairement ; c'est-àdire, elle est donc plus qu'une manifestation passagère d'un quelque chose permanent qui serait l'esprit, plus qu'une ombre mobile de la réalité immuable ? Oui, dirons-nous, elle est plus que cela, car elle est la réalité même, la réalité tout entière.
 
 Que la pensée soit la réalité même,
 
@@ -1764,15 +1431,9 @@ il est réel en tant qu'objet de pensée, mais non pas en tant qu'objet étrange
 
 multitude d'acceptions diverses. A plusieurs reprises, dans le cours de ce travail, nous avons eu occasion de le prendre dans le sens opposé à celui de relatif : ici et désormais nous l'emploierons dans le sens opposé à celui de phénoménal.
 
-[p. 104]
+[p. 104] façon qui d'ailleurs nous est totalement inintelligible. Nous-même l'avons bien vu, lorsque, au début de ce travail, nous avons constaté qu'à vouloir attribuer au temps et à l'espace, et par conséquent aux choses qui durent et aux choses qui sont étendues, c'est-à-dire en réalité à toutes les choses, une existence distincte de celle qu'elles ont dans la pensée, on tombe dans d'inextricables contradictions. Que, sous l'empire d'une illusion peut-être inévitable, nous tendions à prêter aux choses une telle existence, et, comme on dit, à les objectiver, soit : mais ce ne peut être là, disons-nous, que le résultat d'une illusion. Ce papier sur lequel j'écris, ces lettres que je trace sont vus par moi, et ce que j'objective par ma pensée, c'est la vision que j'en ai, c'est-à-dire, ma pensée même. Ce que nous pensons, c'est donc bien notre pensée même, et, malgré l'apparence contraire, nous ne pouvons pas penser autre chose.
 
-façon qui d'ailleurs nous est totalement inintelligible. Nous-même l'avons bien vu, lorsque, au début de ce travail, nous avons constaté qu'à vouloir attribuer au temps et à l'espace, et par conséquent aux choses qui durent et aux choses qui sont étendues, c'est-à-dire en réalité à toutes les choses, une existence distincte de celle qu'elles ont dans la pensée, on tombe dans d'inextricables contradictions. Que, sous l'empire d'une illusion peut-être inévitable, nous tendions à prêter aux choses une telle existence, et, comme on dit, à les objectiver, soit : mais ce ne peut être là, disons-nous, que le résultat d'une illusion. Ce papier sur lequel j'écris, ces lettres que je trace sont vus par moi, et ce que j'objective par ma pensée, c'est la vision que j'en ai, c'est-à-dire, ma pensée même. Ce que nous pensons, c'est donc bien notre pensée même, et, malgré l'apparence contraire, nous ne pouvons pas penser autre chose.
-
-L'illusion que nous venons de signaler a une raison d'être profonde, et que nous essaierons un peu plus loin de faire connaître ; aussi est-elle commune à tous les hommes, sauf un très petit nombre qui peuvent s'en défendre, et cela uniquement au point de vue spéculatif, car ils la subissent pleinement dans la pratique. Mais cette illusion en engendre bientôt une autre, qui est
-
-[p. 105]
-
-particulière à un certain nombre de philosophes.
+L'illusion que nous venons de signaler a une raison d'être profonde, et que nous essaierons un peu plus loin de faire connaître ; aussi est-elle commune à tous les hommes, sauf un très petit nombre qui peuvent s'en défendre, et cela uniquement au point de vue spéculatif, car ils la subissent pleinement dans la pratique. Mais cette illusion en engendre bientôt une autre, qui est [p. 105] particulière à un certain nombre de philosophes.
 
 Ceux-ci se rendent bien compte que nos représentations sont des actes de l'esprit,
 
@@ -1796,11 +1457,7 @@ parce qu'elle ne peut être pensée sans être représentée dans un esprit, et 
 
 elle-même
 
-par hypothèse autre chose qu'une représentation :
-
-[p. 106]
-
-d'où il résulte que, dans sa nature intime et absolue, elle demeure irréprésentable et inintelligible.
+par hypothèse autre chose qu'une représentation : [p. 106] d'où il résulte que, dans sa nature intime et absolue, elle demeure irréprésentable et inintelligible.
 
 La pensée est donc la première et la plus fondamentale des réalités. Elle est même en un sens la réalité unique, puisque tout ce qui est n'est que pour elle et que parelle. Mais, si la pensée est plus que tout le reste, c'est qu'elle EST ellemême, au sens le plus complet et le plus positif du mot. Si elle a les caractères de tout ce
 
@@ -1822,11 +1479,7 @@ Le caractère phénoménal de la pensée ne peut être mis en question, et nous 
 
 s'excluent au contraire ;
 
-et cela, parce que ces philosophes partent de
-
-[p. 107]
-
-la conception traditionnelle, d'après laquelle la substance serait absolue, et les modes de la substance seraient phénoménaux.
+et cela, parce que ces philosophes partent de [p. 107] la conception traditionnelle, d'après laquelle la substance serait absolue, et les modes de la substance seraient phénoménaux.
 
 Il nous semble donc utile de prouver que la pensée reconnue par tout le monde comme phénoménale doit être en même temps reconnue comme absolue.
 
@@ -1836,11 +1489,7 @@ du reste, c'est précisément cette considération de la nécessité d'une loi g
 
 la pensée doit être absolue en même temps que phénoménale. Cette loi, nous l'avons vu, n'est pas une abstraction ; elle ne réside pas non plus dans une entité différente de la pensée même : dès lors il faut qu'elle soit une pensée, et une pensée qui soit nôtre, et une pensée absolue, puisque, pour être une pensée, la loi ne perd pas son caractère de loi, c'est-à-dire qu'elle demeure immuable, éternelle, absolue.
 
-Mais cette pensée absolue qui est nôtre, où estelle ? Nous n'en avons point conscience en tant que pensée absolue, et il serait contradictoire quenous en eussions conscience. Puis, comment concevoir une pensée qui soit la loi de toutes les autres ? Nous avons reproché à Kant de faire des deux formes de la sensibilité, le temps
-
-[p. 108]
-
-et l'espace, une pensée avant la pensée ; ne tombons-nous pas nous-même dans une erreur toute semblable ?
+Mais cette pensée absolue qui est nôtre, où estelle ? Nous n'en avons point conscience en tant que pensée absolue, et il serait contradictoire quenous en eussions conscience. Puis, comment concevoir une pensée qui soit la loi de toutes les autres ? Nous avons reproché à Kant de faire des deux formes de la sensibilité, le temps [p. 108] et l'espace, une pensée avant la pensée ; ne tombons-nous pas nous-même dans une erreur toute semblable ?
 
 Une simple observation lèvera ces difficultés. La loi que nous considérons gouverne, disonsnous, la pensée phénoménale. La pensée phénoménale, en même temps qu'elle est elle-même, contient donc pleinement et parfaitement la loi qui est aussi une pensée. D'autre part, il n'y a rien dans la pensée phénoménale qui échappe à cette loi ; ce qui revient à dire que cette pensée absolue qui est la loi universelle de nos pensées, et une pensée phénoménale quelconque sont absolument coextensives ; et, comme la pensée réelle est simple et non pas double, nous en devons conclure que la pensée phénoménale et cette pensée absolue qui est la loi de la pensée phénoménale sont une seule et même chose à des points de vue différents. Donc une pensée quelconque est en même temps et indivisiblement phénoménale et absolue.
 
@@ -1848,11 +1497,7 @@ La même conclusion s'impose à l'esprit, si l'on considère quelle
 
 est cette loi à laquelle obéit la pensée.
 
-L'objet extérieur, avons-nous dit, est essentiellement un et multiple ; mais l'objet extérieur n'est pas autre chose que la pensée elle-même objectivée ; par conséquent, si nous reconnaissons l'objet extérieur comme
-
-[p. 109]
-
-un et multiple,
+L'objet extérieur, avons-nous dit, est essentiellement un et multiple ; mais l'objet extérieur n'est pas autre chose que la pensée elle-même objectivée ; par conséquent, si nous reconnaissons l'objet extérieur comme [p. 109] un et multiple,
 
 nous devons reconnaître la pensée comme une et multiple de la même manière, c'est-à-dire comme à la fois phénoménale et absolue ; l'un et le multiple étant simplement d'autres noms de l'absolu et du phénoménal.
 
@@ -1882,11 +1527,7 @@ Pour
 
 nous,
 
-il nous semble que la vérité est beaucoup plutôt avec Platon, lorsqu'il enseigne que Dieu forma l'âme humaine et l'univers
-
-[p. 110]
-
-tout entier au moyen des deux principes contraires, le même et l'autre. Et, remarquons-le bien, l'âme fut constituée, suivant Platon, non point par une simple juxtaposition, mais par un mélange des deux éléments, mélange le plus intime qui se puisse concevoir ; de sorte que l'on n'y trouverait aucune parcelle qui étant la même ne fût également autre, aucune qui étant autre ne fût aussi la même. Nous ne séparons donc point l'esprit et la pensée. L'esprit est un sans doute, mais aussi il est divers. Il n'est point le substratum de la pensée, immobile pendant qu'elle varie ;
+il nous semble que la vérité est beaucoup plutôt avec Platon, lorsqu'il enseigne que Dieu forma l'âme humaine et l'univers [p. 110] tout entier au moyen des deux principes contraires, le même et l'autre. Et, remarquons-le bien, l'âme fut constituée, suivant Platon, non point par une simple juxtaposition, mais par un mélange des deux éléments, mélange le plus intime qui se puisse concevoir ; de sorte que l'on n'y trouverait aucune parcelle qui étant la même ne fût également autre, aucune qui étant autre ne fût aussi la même. Nous ne séparons donc point l'esprit et la pensée. L'esprit est un sans doute, mais aussi il est divers. Il n'est point le substratum de la pensée, immobile pendant qu'elle varie ;
 
 il est la pensée même. Ces deux termes pensée et esprit expriment une seule et même chose, sauf une certaine différence des
 
@@ -1896,11 +1537,7 @@ points de vue
 
 Sans doute, et nous ne devons pas nous le dissimuler, à tous ceux qui s'obstinent à attribuer à l'être l'unité et l'immutabilité comme caractères essentiels
 
-et à l'exclusion de leurs contraires, nous paraîtrons nier l'existence réelle de l'esprit. Pourtant, ce que nous nions, c'est simplement une chimère, la conception étrange d'un esprit dont la pensée ne serait pas tout
-
-[p. 111]
-
-l'être,
+et à l'exclusion de leurs contraires, nous paraîtrons nier l'existence réelle de l'esprit. Pourtant, ce que nous nions, c'est simplement une chimère, la conception étrange d'un esprit dont la pensée ne serait pas tout [p. 111] l'être,
 
 et qui pensant sans interruption,
 
@@ -1944,11 +1581,7 @@ il
 
 est, absolument parlant,
 
-sa pen-
-
-[p. 112]
-
-sée dans laquelle
+sa pen-[p. 112]sée dans laquelle
 
 il se pense, et rien autre chose.
 
@@ -1968,11 +1601,7 @@ conception enferme une
 
 autre contradiction encore,
 
-et celle-ci tout à fait évidente. La substance et le phénomène sont tous deux supposés durer, et l'on ne songe pas que durer, c'est tout à la fois être le même et être divers ; de sorte que la prétendue substance ne dure point, puisqu'elle est immuable, et que le phénomène ne dure pas davantage, parce que le phénomène, par définition, n'est pas le même deux instants consécutifs de la durée. Ainsi la conséquence de
-
-[p. 113]
-
-cette doctrine, c'est que rien ne dure, ni la substance ni le phénomène, et que le mot durée ne répond à rien de réel. Nous devons donc conclure d'une façon générale à l'identité de nature de la substance et du phénomène, et, pour le cas particulier qui nous occupe, reconnaître la pensée phénoménale comme étant l'esprit lui-même et l'esprit tout entier.
+et celle-ci tout à fait évidente. La substance et le phénomène sont tous deux supposés durer, et l'on ne songe pas que durer, c'est tout à la fois être le même et être divers ; de sorte que la prétendue substance ne dure point, puisqu'elle est immuable, et que le phénomène ne dure pas davantage, parce que le phénomène, par définition, n'est pas le même deux instants consécutifs de la durée. Ainsi la conséquence de [p. 113] cette doctrine, c'est que rien ne dure, ni la substance ni le phénomène, et que le mot durée ne répond à rien de réel. Nous devons donc conclure d'une façon générale à l'identité de nature de la substance et du phénomène, et, pour le cas particulier qui nous occupe, reconnaître la pensée phénoménale comme étant l'esprit lui-même et l'esprit tout entier.
 
 Dès lors
 
@@ -1988,11 +1617,7 @@ Toute
 
 intuition sensible, toute pensée en général est essentiellement constituée, tant au point de vue du sens externe qu'au point de vue du sens interne, sous la double forme de l'unité multiple et de la multiplicité une ; et cela par la raison que l'esprit est identique à la pensée même, c'est-àdire qu'il est à la fois phénoménal et absolú, et par conséquent essentiellement un et multiple. Tant que, conformément à une opinion qui compte de nombreux partisans, nous pouvions considérer la pensée comme l'acte propre d'un sujet différent d'elle-même et logiquement antérieur, la question de l'origine de la loi suivant laquelle elle se constitue se posait nécessairement. Du moment au contraire où il a été reconnu que la pensée est elle-même le fait
 
-8
-
-[p. 114]
-
-primitif et fondamental,
+8 [p. 114] primitif et fondamental,
 
 il n'y a plus lieu à demander pourquoi elle est telle : elle est telle, évidemment, parce qu'elle est imparfaite ; mais, sans entrer dans cet ordre de considérations, il doit nous suffire de dire
 
@@ -2028,11 +1653,7 @@ de
 
 l'unité multiple et de la multiplicité une, parce que l'esprit qui n'est rien autre chose que la pensée même, est dans son fond, dans son essence intime et absolue, à la fois un et multiple, identique et divers. Or il est certain que cette solution, bonne peut-être, vu l'aspect sous lequel le problème nous est apparu jusqu'ici, nous laisse en présence d'une difficulté redoutable.
 
-Si la pensée c'est l'esprit lui-même, on peut bien concevoir à la rigueur que la pensée une et multiple se présente sous la forme du temps, ou encore sous celle de l'espace ; — en tenant compte, bien entendu, de cette vérité que le
-
-[p. 116]
-
-temps et l'espace ne sont rien en dehors de la pensée
+Si la pensée c'est l'esprit lui-même, on peut bien concevoir à la rigueur que la pensée une et multiple se présente sous la forme du temps, ou encore sous celle de l'espace ; — en tenant compte, bien entendu, de cette vérité que le [p. 116] temps et l'espace ne sont rien en dehors de la pensée
 
 mais ce que l'on a peine à concevoir, c'est que la pensée se présente sous
 
@@ -2040,11 +1661,7 @@ ces deux formes à la fois. Pourquoi deux faces au phénomène de conscience ? P
 
 La question qui se pose devant nous dans ces termes, c'est, tout le monde l'aura reconnu, la question des rapports du moi et du non-moi, de l'esprit et de l'univers. Qu'est-ce en effet que la durée, sinon le caractère essentiel et fondamental des phénomènes du moi ? Qu'est-ce que l'étendue, sinon le caractère essentiel et fondamental de tout ce qui m'apparaît comme extérieur à moi ? Or nous avons dit que les intuitions de l'étendue et de la durée sont engendrées simultanément par un seul et même processus de l'esprit. La question de
 
-l'opposition du temps et de l'espace qui sollicite en ce moment notre examen, est donc précisément la même
-
-[p. 117]
-
-que celle de la dualité du moi et de l'univers extérieur. Nos principes doivent fournir
+l'opposition du temps et de l'espace qui sollicite en ce moment notre examen, est donc précisément la même [p. 117] que celle de la dualité du moi et de l'univers extérieur. Nos principes doivent fournir
 
 et fournissent en effet, nous le croyons du moins, un moyen de la résoudre.
 
@@ -2052,11 +1669,7 @@ La pensée, nous l'avons vu, est tout à la fois une et multiple. Considérons d
 
 quelle façon il est possible d'entendre l'union dans la pensée de deux caractères qui semblent s'exclure d'une façon aussi absolue, et voyons ce que cette union implique.
 
-Devons-nous admettre que, dans la pensée, ces deux caractères de l'unité et de la multiplicité demeurent entièrement confondus ? Mais, d'une part, si l'unité est ainsi pénétrée de multiplicité, il est manifeste qu'elle devient elle-même multiplicité pure, et s'évanouit en tant qu'unité ; et d'autre part, si la multiplicité a le caractère de l'unité véritable, comme ce caractère n'admet pas de degrés, il est certain qu'elle devient unité pure, et disparaît en tant que multiplicité. Ainsi, quelle que soit celle des deux faces de la question quel'on envisage, dans l'hypothèse d'un mélange intime de l'unité avec la multiplicité, et d'une pénétration absolue de l'une par l'autre, la pensée cesse d'être. Et pourtant l'unité de la pensée estessentiellement une unité multiple, demême que sa multiplicité est essentiellement une multiplicité une ; de sorte que les deux
-
-[p. 118]
-
-caractères de l'unité et de la multiplicité y sont inséparables. Comment concilier des conditions aussi contraires, des nécessités aussi opposées ? La difficulté paraît grande. Cependant la sensibilité nous fournit constamment des intuitions où elle est résolue. Le premier objet sensible venu réalise pour nous d'une manière parfaite l'unité multiple qui demeure unité, et la multiplicité une
+Devons-nous admettre que, dans la pensée, ces deux caractères de l'unité et de la multiplicité demeurent entièrement confondus ? Mais, d'une part, si l'unité est ainsi pénétrée de multiplicité, il est manifeste qu'elle devient elle-même multiplicité pure, et s'évanouit en tant qu'unité ; et d'autre part, si la multiplicité a le caractère de l'unité véritable, comme ce caractère n'admet pas de degrés, il est certain qu'elle devient unité pure, et disparaît en tant que multiplicité. Ainsi, quelle que soit celle des deux faces de la question quel'on envisage, dans l'hypothèse d'un mélange intime de l'unité avec la multiplicité, et d'une pénétration absolue de l'une par l'autre, la pensée cesse d'être. Et pourtant l'unité de la pensée estessentiellement une unité multiple, demême que sa multiplicité est essentiellement une multiplicité une ; de sorte que les deux [p. 118] caractères de l'unité et de la multiplicité y sont inséparables. Comment concilier des conditions aussi contraires, des nécessités aussi opposées ? La difficulté paraît grande. Cependant la sensibilité nous fournit constamment des intuitions où elle est résolue. Le premier objet sensible venu réalise pour nous d'une manière parfaite l'unité multiple qui demeure unité, et la multiplicité une
 
 qui demeure
 
@@ -2066,11 +1679,7 @@ Une maison est un amas de pierres, sans cesser d'être une maison ; un amas de p
 
 qu'il est un, ce qui n'empêche pas la maison d'être un amas de pierres : l'amas de pierres, c'est cet objet encore, surtout en tant qu'il est multiple, ce qui n'empêche pas l'amas de pierres d'être une maison. Entre ces deux points de vue de l'objet, il n'y a pas de milieu : c'est à moi à choisir, et, suivant le choix que je ferai, l'objet, quoique essentiellement un et multiple à la fois, m'apparaîtra comme surtout un, ou comme surtout multiple.
 
-Dès lors nous pouvons comprendre ce que doit être la pensée pour réaliser les deux con
-
-[p. 119]
-
-ditions qui viennent d'être énoncées, c'est-àdire d'être une sans cesser d'être multiple, et d'être multiple sans cesser d'être une. Il faut, ainsi que nous le disions plus haut, qu'il s'y produise comme une sorte de scission entre deux termes, dont l'un exprimera cette pensée même surtout en tant qu'elle est une,
+Dès lors nous pouvons comprendre ce que doit être la pensée pour réaliser les deux con [p. 119] ditions qui viennent d'être énoncées, c'est-àdire d'être une sans cesser d'être multiple, et d'être multiple sans cesser d'être une. Il faut, ainsi que nous le disions plus haut, qu'il s'y produise comme une sorte de scission entre deux termes, dont l'un exprimera cette pensée même surtout en tant qu'elle est une,
 
 et l'autre,
 
@@ -2086,21 +1695,13 @@ d'ailleurs n'allant jamais sans quelque multiplicité, ni cette multiplicité sa
 
 ces deux termes seront nécessairement inséparables l'un de l'autre, puisque la pensée n'est constituée que par leur opposition, etqu'elle n'est pas
 
-autre chose que ces deux termes en couple. Du reste ils devront donner lieu à deux représentations distinctes quoique indissolublement unies ; autrement ils ne s'opposeraient pas réellement l'un à l'autre. Mais cette scission est-elle possible ? Nous répondrons elle se fait d'elle-même, puisque la réalité effective de la pensée la suppose, comme nous venons de le dire ; et il nous suffira de montrer comment elle se fait. Pour cela, nous aurons à considérer simplement que la pensée en tant qu'une est immuable et toujours elle-même ; et qu'en tant que multiple, elle est mobile et toujours autre qu'elle-même. Il y a donc bien là
-
-[p. 120]
-
-deux termes qui s'opposent l'un à l'autre, et qui doivent tendre à
+autre chose que ces deux termes en couple. Du reste ils devront donner lieu à deux représentations distinctes quoique indissolublement unies ; autrement ils ne s'opposeraient pas réellement l'un à l'autre. Mais cette scission est-elle possible ? Nous répondrons elle se fait d'elle-même, puisque la réalité effective de la pensée la suppose, comme nous venons de le dire ; et il nous suffira de montrer comment elle se fait. Pour cela, nous aurons à considérer simplement que la pensée en tant qu'une est immuable et toujours elle-même ; et qu'en tant que multiple, elle est mobile et toujours autre qu'elle-même. Il y a donc bien là [p. 120] deux termes qui s'opposent l'un à l'autre, et qui doivent tendre à
 
 se
 
 constituer en deux représentations distinctes, puisqu'enfin, dans la pensée, il n'y a rien autre chose que la pensée même, et qu'un élément d'une pensée est toujours une pensée. Mais l'unité du premier terme ne va pas sans quelque multiplicité, et c'est à la condition expresse d'être multiple qu'elle peut devenir représentable ; de même la multiplicité du second ne va pas sans quelque unité, et par conséquent elle doit prendre dans la représentation le caractère d'une multiplicité une. Nous trouvons donc parfaitement remplie dans la pensée la condition essentielle pour qu'elle puisse être à la fois une et multiple ; c'est-à-dire que l'on y peut considérer deux points de vue opposés, dont le premier l'exprime surtout en tant qu'elle est une, et le second l'exprime surtout en tant qu'elle est multiple ; ces deux points de vue d'ailleurs demeurant inséparables.
 
-Mais qu'est-ce que la pensée en tant qu'elle est une ? Nous l'avons dit, c'est l'esprit luimême en tant qu'il est un, absolu, identique ; et la pensée en tant qu'elle est multiple, c'est l'esprit encore, en tant qu'il est multiple, phénoménal et divers. Ceci posé, on comprend bien que ces deux termes ne peuvent pas avoir même valeur en tant qu'ils expriment l'esprit l'un et
-
-[p. 121]
-
-l'autre. Quoique le premier suppose le second comme le second suppose le premier, celui-ci pourtant exprimant l'esprit surtout
+Mais qu'est-ce que la pensée en tant qu'elle est une ? Nous l'avons dit, c'est l'esprit luimême en tant qu'il est un, absolu, identique ; et la pensée en tant qu'elle est multiple, c'est l'esprit encore, en tant qu'il est multiple, phénoménal et divers. Ceci posé, on comprend bien que ces deux termes ne peuvent pas avoir même valeur en tant qu'ils expriment l'esprit l'un et [p. 121] l'autre. Quoique le premier suppose le second comme le second suppose le premier, celui-ci pourtant exprimant l'esprit surtout
 
 en tant qu'il est un,
 
@@ -2130,11 +1731,7 @@ la continuité abstraite de
 
 cette
 
-évolution envisagée du côté du moi ; l'espace, la continuité abstraite de la même évolution envisagée
-
-[p. 122]
-
-du côté du non-moi. L'unité de l'un et de l'autre est donc pour nous absolue,
+évolution envisagée du côté du moi ; l'espace, la continuité abstraite de la même évolution envisagée [p. 122] du côté du non-moi. L'unité de l'un et de l'autre est donc pour nous absolue,
 
 et même leur multiplicité nous serait incompréhensible.
 
@@ -2150,11 +1747,7 @@ c'est-à-dire qu'il s'y développera en quelque sorte deux pôles, vers chacun d
 
 Il suffirait pour cela, par exemple, que la nature intime et absolue de l'esprit
 
-s'accusant dans sa pensée avec une puissance très grande, la représentation cons
-
-[p. 123]
-
-tituée au pôle de l'unité éclipsât plus ou moins complètement l'autre ; et c'est là vraisemblablement ce qui doit se produire chez des esprits très supérieurs à celui de l'homme
+s'accusant dans sa pensée avec une puissance très grande, la représentation cons [p. 123] tituée au pôle de l'unité éclipsât plus ou moins complètement l'autre ; et c'est là vraisemblablement ce qui doit se produire chez des esprits très supérieurs à celui de l'homme
 
 : mais ce n'est pas le cas de l'homme lui-même, ni celui d'aucun des esprits dont l'homme peut concevoir le mode de représentation par analogie avec le sien propre. Il y aura donc nécessairement et toujours chez l'homme et aussi chez l'animal,
 
@@ -2162,11 +1755,7 @@ constitution de la représentation au pôle de la multiplicité, et par conséqu
 
 Au pôle opposé de la pensée, il pourra n'en être pas de même. Pour que la conception d'un moi s'y constitue, il faudra qu'il s'y trouve quelques éléments exprimant la pensée en tant qu'une, et sans doute il s'en trouvera toujours ;
 
-mais, si ces éléments sont trop peu consistants, la représentation à laquelle ils donneront lieu pâlira devant celle du pôle adverse, et s'y absorbera loin de s'opposer à elle. Il est donc nécessaire, disons-nous, pour que les deux termes corrélatifs le moi et le non-moi se manifestent dans la pensée, que celle-ci ait une unité, une cohésion suffisante. Mais, pour que la pensée ait cette unité et cette cohésion, il faut que
-
-[p. 124]
-
-l'esprit ait la puissance de la lui donner ; car rien ne nous empêche de considérer ici l'esprit comme l'agent de la pensée ;
+mais, si ces éléments sont trop peu consistants, la représentation à laquelle ils donneront lieu pâlira devant celle du pôle adverse, et s'y absorbera loin de s'opposer à elle. Il est donc nécessaire, disons-nous, pour que les deux termes corrélatifs le moi et le non-moi se manifestent dans la pensée, que celle-ci ait une unité, une cohésion suffisante. Mais, pour que la pensée ait cette unité et cette cohésion, il faut que [p. 124] l'esprit ait la puissance de la lui donner ; car rien ne nous empêche de considérer ici l'esprit comme l'agent de la pensée ;
 
 de sorte que l'on comprend bien que l'esprit prenne conscience de soi dans sa pensée,
 
@@ -2178,11 +1767,7 @@ Cet état est celui de l'animal.
 
 L'animal ne dit jamais je ni moi, parce qu'il n'a pas la puissance intellectuelle nécessaire pour constituer une pensée dans laquelle il lui soit donné de prendre conscience de lui-même. Aussi sa vie est-elle comme un rêve sans fin, son esprit, comme un miroir devant lequel passeraient des objets sans nombre
 
-donnant lieu à une série d'images sans suite ni lien entre elles. Impossible de fixer, ne fut-ce qu'un instant, ces représentations fugitives ; impossible d'en évoquer une qui puisse servir à rendre compte d'une autre. Un tel esprit est le théâtre de ses pensées, beaucoup plus qu'il n'en est l'agent véritable. L'homme, du moins à l'état normal, est capable au contraire de constituer une pensée dans laquelle il entre en possession de soi ; et lorsqu'il se possède ainsi, il se gouverne. Alors l'es-
-
-[p. 125]
-
-prit s'affirme lui-même dans sa réalité absolue ;
+donnant lieu à une série d'images sans suite ni lien entre elles. Impossible de fixer, ne fut-ce qu'un instant, ces représentations fugitives ; impossible d'en évoquer une qui puisse servir à rendre compte d'une autre. Un tel esprit est le théâtre de ses pensées, beaucoup plus qu'il n'en est l'agent véritable. L'homme, du moins à l'état normal, est capable au contraire de constituer une pensée dans laquelle il entre en possession de soi ; et lorsqu'il se possède ainsi, il se gouverne. Alors l'es-[p. 125]prit s'affirme lui-même dans sa réalité absolue ;
 
 il dit moi, et se pose comme sujet en face de l'univers dont il fait un non-moi et un objet.
 
@@ -2192,11 +1777,7 @@ d'elles,
 
 non pas pour la concentrer, comme on le dit quelquefois, mais pour la forcer à évoluer autour d'un point fixe, jusqu'à ce que, grâce à cet effort prolongé, ce point apparaisse avec la plus grande clarté et la plus grande netteté possibles. C'est là le phénomène de l'attention. Cette action exercée par la pensée à un haut degré de tension et de concentration sur la pensée faiblement constituée et simplement représentative, c'est l'acte volontaire ; et ce gouvernement de la pensée représentative est, à notre avis, l'œuvre propre de la volonté, beaucoup plutôt que le choix entre deux partis contraires, et surtout que l'effort pour réaliser l'un d'eux. Chez l'animal, rien de semblable ;
 
-le pouvoir volontaire fait absolument défaut, du moment qu'aucune pensée ne peut se constituer avec une intensité suffisante pour que l'intuition du moi puisse s'y opposer à la repré
-
-[p. 126]
-
-sentation et diriger cette dernière : dès lors plus d'attention au sens véritable du mot ; la représentation domine l'esprit au lieu d'être dominée par lui ; tout est soumis au joug de puissances qu'on peut appeler véritablement extérieures.
+le pouvoir volontaire fait absolument défaut, du moment qu'aucune pensée ne peut se constituer avec une intensité suffisante pour que l'intuition du moi puisse s'y opposer à la repré [p. 126] sentation et diriger cette dernière : dès lors plus d'attention au sens véritable du mot ; la représentation domine l'esprit au lieu d'être dominée par lui ; tout est soumis au joug de puissances qu'on peut appeler véritablement extérieures.
 
 Ainsi la condition unique, nécessaire
 
@@ -2206,19 +1787,11 @@ suffisante pour atteindre à la notion du moi, c'est une certaine puissance de c
 
 Les différences intellectuelles entre les hommes n'ont pas une autre origine. Le génie en effet n'est pas autre chose qu'une éminente supériorité d'esprit, et cette supériorité paraît tenir principalement à la puissance de concen-. tration de la pensée. On comprend bien que, lorsque cette puissance est considérable, l'esprit puisse
 
-se reployer sur lui-même et prendre conscience de soi à un degré que n'atteint pas le commun des hommes. Car, si nous avons pu dire plus haut que l'esprit est en un sens tout entier dans chacune de ses pensées, il est pour-
-
-[p. 127]
-
-tant vrai de dire qu'il y est en un autre sens à des degrés différents ; puisque évidemment il ne peut y être qu'autant que cette pensée est elle-même, c'est-à-dire en raison de l'intensité avec laquelle elle a été constituée. Et cette plus parfaite conscience de soi, est-ce autre chose qu'une plus lumineuse aperception de l'être luimême dans sa nature véritable et dans son essence ? On comprend donc, disons-nous, que de cette pénétration plus intime de l'esprit par lui-même, de ce contact plus immédiat de la pensée avec le vrai foyer de la vie et de l'être, résulte cette puissance de conception qui est le caractère distinctif du génie, et qui, diversement exercée en raison d'aptitudes diverses et étrangères à l'ordre proprement intellectuel, produit chez le savant, les identifications profondes aboutissant à de brillantes découvertes ;
+se reployer sur lui-même et prendre conscience de soi à un degré que n'atteint pas le commun des hommes. Car, si nous avons pu dire plus haut que l'esprit est en un sens tout entier dans chacune de ses pensées, il est pour-[p. 127]tant vrai de dire qu'il y est en un autre sens à des degrés différents ; puisque évidemment il ne peut y être qu'autant que cette pensée est elle-même, c'est-à-dire en raison de l'intensité avec laquelle elle a été constituée. Et cette plus parfaite conscience de soi, est-ce autre chose qu'une plus lumineuse aperception de l'être luimême dans sa nature véritable et dans son essence ? On comprend donc, disons-nous, que de cette pénétration plus intime de l'esprit par lui-même, de ce contact plus immédiat de la pensée avec le vrai foyer de la vie et de l'être, résulte cette puissance de conception qui est le caractère distinctif du génie, et qui, diversement exercée en raison d'aptitudes diverses et étrangères à l'ordre proprement intellectuel, produit chez le savant, les identifications profondes aboutissant à de brillantes découvertes ;
 
 chez l'artiste, ces grandes créations poétiques ou autres qui sont de tous les temps, parce que, procédant d'une plus haute intuition de l'esprit absolu, elles expriment en perfection l'homme universel.
 
-De l'homme de génie à l'homme vulgaire, la différence capitale paraît donc être dans la puissance de concentration et de synthèse avec laquelle se constitue la pensée. De l'homme vulgaire à l'animal, la différence est encore de
-
-[p. 128]
-
-même nature, mais cette fois beaucoup plus considérable, puisque, chez l'animal, le moi disparaît avec la personnalité et la responsabilité, tandis qu'il s'affirme encore, même chez les représentants les plus dégénérés de l'espèce humaine.
+De l'homme de génie à l'homme vulgaire, la différence capitale paraît donc être dans la puissance de concentration et de synthèse avec laquelle se constitue la pensée. De l'homme vulgaire à l'animal, la différence est encore de [p. 128] même nature, mais cette fois beaucoup plus considérable, puisque, chez l'animal, le moi disparaît avec la personnalité et la responsabilité, tandis qu'il s'affirme encore, même chez les représentants les plus dégénérés de l'espèce humaine.
 
 A l'extrémité opposée des choses, dans un esprit parfait et infini, le moi avec le non-moi doit également disparaître, et toute distinction de sujet et d'objet, de la personne et de l'univers s'évanouir. Il est certain que nous pouvons concevoir un esprit possédant une puissance illimitée de concentration sur lui-même. Dans un tel esprit, cette sorte de mouvement par lequel toute pensée imparfaite se replie sans cesse sur soi, se cherchant toujours dans sa nature intime et absolue sans réussir à se trouver jamais, et se développant par le fait même de ce travail en une multiplicité sans fin de représentations qui pour elle constituent l'univers, dans un tel esprit, disons-nous, cette sorte de mouvement a disparu. Il reste une pensée immuable, et cette pensée, en raison de son immutabilité, est pure
 
@@ -2232,9 +1805,7 @@ objet qu'elle-même : c'est LA PENSÉE DE LA PENSÉE 1.
 
 Il suit de là que Dieu n'est point une per [^p128-1]
 
-[p. 129]
-
-sonne.
+[p. 129] sonne.
 
 Non pas sans doute qu'il
 
@@ -2260,19 +1831,11 @@ il n'existe ni moi, ni univers, ni nature, ni rien autre chose que la connaissan
 
 Qu'avec une telle conception de l'essence et de la pensée divines, l'existence d'êtres finis
 
-9
-
-[p. 130]
-
-demeure inexplicable, nous ne le nions pas. Mais peut-il en être autrement ? Les philosophes qui prétendent résoudre rationnellement et par voie de déduction régulière le problème des rapports de Dieu et du monde, peuvent se ranger en deux catégories. Les premiers, qui sont les plus conséquents, considèrent le monde comme une émanation directe et un produit nécessaire de l'activité divine, ce qui leur permet effectivement d'affirmer un rapport purement rationnel entre Dieu et le monde, et de passer à volonté par une série de déductions logiques, de Dieu au monde ou du monde à Dieu
+9 [p. 130] demeure inexplicable, nous ne le nions pas. Mais peut-il en être autrement ? Les philosophes qui prétendent résoudre rationnellement et par voie de déduction régulière le problème des rapports de Dieu et du monde, peuvent se ranger en deux catégories. Les premiers, qui sont les plus conséquents, considèrent le monde comme une émanation directe et un produit nécessaire de l'activité divine, ce qui leur permet effectivement d'affirmer un rapport purement rationnel entre Dieu et le monde, et de passer à volonté par une série de déductions logiques, de Dieu au monde ou du monde à Dieu
 
 : ce sont les Panthéistes.
 
-Les autres sont bien éloignés de considérer le monde comme une émanation de la nature divine ; ils ont même en horreur une telle doctrine. Aussi n'admettent-ils point que l'existence du monde puisse se déduire logiquement de l'existence de Dieu. Cependant, par une inconséquence singulière, la même série déductive qu'ils se refusent à descendre, ils se croient parfaitement en droit de la remonter, et pensent que l'on peut démontrer l'existence de Dieu en partant de l'existence du monde. Mais cette contradiction n'est pas la seule où ils s'engagent. Le Dieu dont ils prétendent démontrer ainsi l'existence, c'est un Dieu créateur et auteur du monde, pensant le
-
-[p. 131]
-
-monde par conséquent d'une façon qui lui est en quelque sorte naturelle, et sans déroger en quoi que ce soit à la perfection et à l'infinité de son essence ; c'est-à-dire, en réalité, un Dieu infini qui produit des œuvres finies et des pensées finies, un Dieu qui n'est Dieu qu'à moitié.
+Les autres sont bien éloignés de considérer le monde comme une émanation de la nature divine ; ils ont même en horreur une telle doctrine. Aussi n'admettent-ils point que l'existence du monde puisse se déduire logiquement de l'existence de Dieu. Cependant, par une inconséquence singulière, la même série déductive qu'ils se refusent à descendre, ils se croient parfaitement en droit de la remonter, et pensent que l'on peut démontrer l'existence de Dieu en partant de l'existence du monde. Mais cette contradiction n'est pas la seule où ils s'engagent. Le Dieu dont ils prétendent démontrer ainsi l'existence, c'est un Dieu créateur et auteur du monde, pensant le [p. 131] monde par conséquent d'une façon qui lui est en quelque sorte naturelle, et sans déroger en quoi que ce soit à la perfection et à l'infinité de son essence ; c'est-à-dire, en réalité, un Dieu infini qui produit des œuvres finies et des pensées finies, un Dieu qui n'est Dieu qu'à moitié.
 
 Cette grande contradiction du Panthéisme qui consiste à admettre une coexistence naturelle du fini et de l'infini en Dieu, les philosophes dont nous parlons y tombent donc pleinement.
 
@@ -2286,17 +1849,9 @@ il s'est abaissé jusqu'à porter dans
 
 sa pensée des créatures auxquelles il a bien voulu ensuite donner l'existence, afin qu'elles devinssent par sa possession, et dans la mesure de leurs forces, heureuses et parfaites comme lui.
 
-Cette solution du reste est bien celle des philosophes dont nous parlions tout à l'heure, c'est bien celle qu'ils acceptent, et qu'ils opposent
+Cette solution du reste est bien celle des philosophes dont nous parlions tout à l'heure, c'est bien celle qu'ils acceptent, et qu'ils opposent [p. 132] au Panthéisme, lorsqu'il s'agit d'expliquer les existences finies et contingentes. Mais alors, pourquoi vouloir prouver par des raisons logiques l'existence de Dieu, en partant de l'existence du monde ? Si véritablement l'acte par lequel Dieu a donnél'être au monde est un acte de liberté et d'amour, de même aussi l'affirmation par laquelle nous remontons de ce monde à son Auteur ne peut être qu'un acte de liberté et d'amour. Un acte de liberté ne peut pas, par sa nature même, être rattaché à un antécédent logique quelconque ; et ce qui, dans son origine, n'est pas d'ordre rationnel, ne saurait être établi rationnellement.. C'est par amour que Dieu a créé le monde ; c'est par amour encore que le Fils de Dieu s'est incarné dans l'humanité ; et sans nul doute ces deux vérités n'en font qu'une
 
-[p. 132]
-
-au Panthéisme, lorsqu'il s'agit d'expliquer les existences finies et contingentes. Mais alors, pourquoi vouloir prouver par des raisons logiques l'existence de Dieu, en partant de l'existence du monde ? Si véritablement l'acte par lequel Dieu a donnél'être au monde est un acte de liberté et d'amour, de même aussi l'affirmation par laquelle nous remontons de ce monde à son Auteur ne peut être qu'un acte de liberté et d'amour. Un acte de liberté ne peut pas, par sa nature même, être rattaché à un antécédent logique quelconque ; et ce qui, dans son origine, n'est pas d'ordre rationnel, ne saurait être établi rationnellement.. C'est par amour que Dieu a créé le monde ; c'est par amour encore que le Fils de Dieu s'est incarné dans l'humanité ; et sans nul doute ces deux vérités n'en font qu'une
-
-: aussi est-ce une erreur grave de considérer l'une comme plus susceptible de démonstration que l'autre. Celui qui affirme la première, comme celui qui s'incline devant la seconde, fait acte de croyant : il fait même, en un sens, acte de philosophe, car c'est l'objet propre de la philosophie de chercher et d'offrir à l'esprit humain des solutions qui puissent le satisfaire pour toutes les questions où l'expérience et le raisonnement n'en fournissent point de positives : il fait donc,
-
-[p. 133]
-
-disons-nous, acte de philosophe, mais, à coup sûr, il ne fait pas acte de savant ni de logicien.
+: aussi est-ce une erreur grave de considérer l'une comme plus susceptible de démonstration que l'autre. Celui qui affirme la première, comme celui qui s'incline devant la seconde, fait acte de croyant : il fait même, en un sens, acte de philosophe, car c'est l'objet propre de la philosophie de chercher et d'offrir à l'esprit humain des solutions qui puissent le satisfaire pour toutes les questions où l'expérience et le raisonnement n'en fournissent point de positives : il fait donc, [p. 133] disons-nous, acte de philosophe, mais, à coup sûr, il ne fait pas acte de savant ni de logicien.
 
 C'est pour cette raison que le Dieu de la Métaphysique nous paraît si supérieur à celui du Timée. Le Dieu du Timée est une conception que la raison réprouve, parce que les contraires y coexistent et s'y confondent,
 
@@ -2322,15 +1877,10 @@ entrevu par elle, ce n'est pas une existence dont la réalité lui soit démontr
 
 et alors
 
-notre acte de foi devient en même temps un acte de haute raison, puisqu'il constitue
-
-[p. 134]
-
-une adhésion à la seule solution qui soit acceрtable du problème de l'existence des choses. Comment dans cette Pensée divine qui est par essence la Pensée d'elle-même, la pensée du monde créé peut-elle entrer ? Voilà à la vérité ce qui demeure incompréhensible. Mais, s'il y a là un mystère dont notre raison ne peut légitimement espérer qu'elle soulèvera jamais le voile, au moins n'y a-t-il pas de contradiction.. Comment Dieu connaît et pense le monde, c'est le secret de son amour. Ce secret, la raison humaine se sent impuissante à le pénétrer, mais du moins n'y voit-elle rien qui lui paraisse contraire à ses lois fondamentales.
+notre acte de foi devient en même temps un acte de haute raison, puisqu'il constitue [p. 134] une adhésion à la seule solution qui soit acceрtable du problème de l'existence des choses. Comment dans cette Pensée divine qui est par essence la Pensée d'elle-même, la pensée du monde créé peut-elle entrer ? Voilà à la vérité ce qui demeure incompréhensible. Mais, s'il y a là un mystère dont notre raison ne peut légitimement espérer qu'elle soulèvera jamais le voile, au moins n'y a-t-il pas de contradiction.. Comment Dieu connaît et pense le monde, c'est le secret de son amour. Ce secret, la raison humaine se sent impuissante à le pénétrer, mais du moins n'y voit-elle rien qui lui paraisse contraire à ses lois fondamentales.
 
 00 G
 
-#### D
 
 sulil
 
@@ -2360,11 +1910,7 @@ Le spontané, dans l'intuition et dans la conception, dans la constitution de la
 
 par l'entendement, contient tout à la fois le secret de l'esprit et celui de l'univers.
 
-Maintenant que le moment semble venu de clore toute cette discussion et de conclure, il nous sera permis de jeter un regard en arrière, et de revoir un instant par la pensée les étapes principales du chemin parcouru. Après avoir reconnu avec Kant que le temps et l'espace sont de pures données de la représentation, nous avons soutenu contre lui qu'ils n'en sont pas des formes a priori, mais de simples concepts dérivés de l'expérience, et que la représentation
-
-[p. 136]
-
-qui les contient a dû être constituée elle-même a priori, suivant une forme tout autre. Nous avons recherché ensuite quelle était cette forme, et nous avons montré qu'un seul et même processus fondamental suffisait à expliquer comment les intuitions du sens interne nous apparaissent comme répandues dans le temps, et celles du sens externe comme répandues dans l'espace : puis nous avons vu que ce processus permettait encore de rendre compte de l'opposition même de ces deux
+Maintenant que le moment semble venu de clore toute cette discussion et de conclure, il nous sera permis de jeter un regard en arrière, et de revoir un instant par la pensée les étapes principales du chemin parcouru. Après avoir reconnu avec Kant que le temps et l'espace sont de pures données de la représentation, nous avons soutenu contre lui qu'ils n'en sont pas des formes *a priori*, mais de simples concepts dérivés de l'expérience, et que la représentation [p. 136] qui les contient a dû être constituée elle-même *a priori*, suivant une forme tout autre. Nous avons recherché ensuite quelle était cette forme, et nous avons montré qu'un seul et même processus fondamental suffisait à expliquer comment les intuitions du sens interne nous apparaissent comme répandues dans le temps, et celles du sens externe comme répandues dans l'espace : puis nous avons vu que ce processus permettait encore de rendre compte de l'opposition même de ces deux
 
 séries
 
@@ -2382,11 +1928,7 @@ précision suffisante de quelle façon nous
 
 comprenons le problème, que l'on serait en droit, si nous ne l'essayions pas, de nous reprocher un manque de courage.
 
-On sait comment et dans quelles conditions
-
-[p. 137]
-
-se présente le problème des Catégories. L'intuition sensible étant supposée toute constituée d'avance, nous avons à coordonner les représentations multiples que nous fournit la sensibilité, et à faire de leurs rapports de véritables objets de connaissance ; c'est-à-dire, en réalité, à constituer un univers qui soit autre chose qu'une mauvaise tragédie composée d'épisodes mal reliés entre eux, et dans lequel au contraire la pensée puisse toujours se retrouver elle-même. Le problème des Catégories, une fois admis ce principe capital de Kant que les choses
+On sait comment et dans quelles conditions [p. 137] se présente le problème des Catégories. L'intuition sensible étant supposée toute constituée d'avance, nous avons à coordonner les représentations multiples que nous fournit la sensibilité, et à faire de leurs rapports de véritables objets de connaissance ; c'est-à-dire, en réalité, à constituer un univers qui soit autre chose qu'une mauvaise tragédie composée d'épisodes mal reliés entre eux, et dans lequel au contraire la pensée puisse toujours se retrouver elle-même. Le problème des Catégories, une fois admis ce principe capital de Kant que les choses
 
 en tant que représentées dépendent de l'esprit,
 
@@ -2400,7 +1942,7 @@ de
 
 l'univers,
 
-et d'où viennent ces lois ? Or on se rappelle pour quelles raisons, lorsqu'il s'agissait des formes de la sensibilité, nous avons cru devoir ne point admettre pour la pensée de lois a priori qui lui soient extérieures. Ces mêmes raisons demeurent ici parfaitement
+et d'où viennent ces lois ? Or on se rappelle pour quelles raisons, lorsqu'il s'agissait des formes de la sensibilité, nous avons cru devoir ne point admettre pour la pensée de lois *a priori* qui lui soient extérieures. Ces mêmes raisons demeurent ici parfaitement
 
 applicables.
 
@@ -2408,11 +1950,7 @@ Dès lors la seule réponse que nous puissions faire à la question,
 
 c'est que l'esprit ne peut concevoir l'univers qu'en lui prêtant ses propres attributs, et que les lois suivant lesquelles
 
-il opère
-
-[p. 138]
-
-dans cette conception doivent avoir leur principe dans l'expérience qu'il a de lui-même. Nous aurons donc à nous demander d'abord comment cette expérience peut avoir lieu ; puis, comment elle sert de base aux véritables Catégories de l'entendement.
+il opère [p. 138] dans cette conception doivent avoir leur principe dans l'expérience qu'il a de lui-même. Nous aurons donc à nous demander d'abord comment cette expérience peut avoir lieu ; puis, comment elle sert de base aux véritables Catégories de l'entendement.
 
 Considérons une représentation quelconque, perception actuelle ou souvenir, peu importe. Cette représentation est d'abord une certaine connaissance de son objet, en supposant pour un moment son objet en dehors d'elle ; mais elle est en même temps la connaissance d'ellemême
 
@@ -2420,11 +1958,7 @@ Considérons une représentation quelconque, perception actuelle ou souvenir, pe
 
 ici d'une notion exacte et distincte de
 
-la vision et de l'audition, telle que celle que l'on peut se faire en réfléchissant à ce que c'est que voir ou entendre, abstraction faite de tout objet vu ou entendu. Quand nous disons que la pensée est la connaissance d'elle-même en même temps que de son objet, nous voulons dire simplement que la pensée n'a pas le caractère des choses extérieures qui ne peuvent être connues à moins que l'esprit n'en fasse l'objet d'une intuition spéciale. La pensée est comme la lumière qui éclaire toutes choses, et qui n'a point besoin qu'on l'éclaire elle-même, parce qu'elle brille
-
-[p. 139]
-
-de son propre éclat. Cette connaissance de soi ainsi attachée à la pensée, c'est la conscience, et cette conscience est dite spontanée, par opposition à une autre forme de la connaissance de la pensée dont nous allons avoir à nous occuper bientôt, et que l'on appelle la conscience réfléchie.
+la vision et de l'audition, telle que celle que l'on peut se faire en réfléchissant à ce que c'est que voir ou entendre, abstraction faite de tout objet vu ou entendu. Quand nous disons que la pensée est la connaissance d'elle-même en même temps que de son objet, nous voulons dire simplement que la pensée n'a pas le caractère des choses extérieures qui ne peuvent être connues à moins que l'esprit n'en fasse l'objet d'une intuition spéciale. La pensée est comme la lumière qui éclaire toutes choses, et qui n'a point besoin qu'on l'éclaire elle-même, parce qu'elle brille [p. 139] de son propre éclat. Cette connaissance de soi ainsi attachée à la pensée, c'est la conscience, et cette conscience est dite spontanée, par opposition à une autre forme de la connaissance de la pensée dont nous allons avoir à nous occuper bientôt, et que l'on appelle la conscience réfléchie.
 
 Dire, comme nous le faisons, que la conscience est attachée à la pensée, c'est se servir d'une expression bien impropre, bien inexacte, et que, pour notre part, nous souhaiterions fort de n'avoir jamais à employer. Mais qu'y faire ?
 
@@ -2434,11 +1968,7 @@ si peu même que ce soit, différente de la pensée, c'est que malheureusement o
 
 objet qui est connu. Cette dualité du
 
-sujet et de l'objet apparaît aux hommes comme ce qu'il y a au monde de plus réel, et l'on finit par la vouloir trouver partout, et par concevoir toute connaissance, quelle qu'elle puisse être,
-
-[p. 140]
-
-sur le modèle de celle-là. Il résulte de là que l'objet extérieur étant donné, on commence par dire que l'esprit le pense ; mais comment s'arrêter en si beau chemin ? Une autre question se présente d'elle-même : comme l'esprit sait-il qu'il le pense ? Question absurde, et qui pose, sans qu'on y prenne garde, à la fois deux contradictions
+sujet et de l'objet apparaît aux hommes comme ce qu'il y a au monde de plus réel, et l'on finit par la vouloir trouver partout, et par concevoir toute connaissance, quelle qu'elle puisse être, [p. 140] sur le modèle de celle-là. Il résulte de là que l'objet extérieur étant donné, on commence par dire que l'esprit le pense ; mais comment s'arrêter en si beau chemin ? Une autre question se présente d'elle-même : comme l'esprit sait-il qu'il le pense ? Question absurde, et qui pose, sans qu'on y prenne garde, à la fois deux contradictions
 
 : une pensée qui n'est point pensée, et une pensée avant la pensée.
 
@@ -2452,11 +1982,7 @@ de considérer à un moment donné la pensée comme une chose, et la conscience 
 
 ; ne serait-ce que pour dire
 
-qu'elles sont identiques. Quelques psychologues ont pensé légitimer l'usage de deux sens différents attachés à ces deux mots, en disant que la conscience et la pensée sont inséparables et vraiment coextensives l'une à l'autre, et qu'elles sont comme deux faces de
-
-[p. 141]
-
-la représentation, tournées l'une vers l'objet, et l'autre vers le sujet. Comme si cette dualité d'aspects dans un phénomène de l'esprit était plus intelligible que la dualité de la conscience et de la pensée constituant deux phénomènes distincts ! Comme si cette comparaison de la conscience et de la pensée aux deux faces d'un même objet ne nous laissait pas aux prises avec cette double absurdité d'une pensée sans conscience et d'une conscience sans pensée !
+qu'elles sont identiques. Quelques psychologues ont pensé légitimer l'usage de deux sens différents attachés à ces deux mots, en disant que la conscience et la pensée sont inséparables et vraiment coextensives l'une à l'autre, et qu'elles sont comme deux faces de [p. 141] la représentation, tournées l'une vers l'objet, et l'autre vers le sujet. Comme si cette dualité d'aspects dans un phénomène de l'esprit était plus intelligible que la dualité de la conscience et de la pensée constituant deux phénomènes distincts ! Comme si cette comparaison de la conscience et de la pensée aux deux faces d'un même objet ne nous laissait pas aux prises avec cette double absurdité d'une pensée sans conscience et d'une conscience sans pensée !
 
 Rappelons donc une fois pour toutes que la conscience c'est la pensée même ; et, si nous sommes obligés, pour les besoins de la théorie, de les distinguer par abstraction,
 
@@ -2474,9 +2000,7 @@ elle n'est même que cela ; et le célèbre aphorisme d'Aristote n'est pas vrai 
 
 étroit. C'est ce caractère de la pensée qu'exprime le terme de conscience spontanée.
 
-[p. 142]
-
-Il résulte de là que la conscience spontanée n'a pas de degrés. Comment en effet demander si une pensée est plus ou moins consciente, lorsque la conscience, c'est-à-dire la connaissance de la pensée par elle-même, est la pensée tout entière ? Autant vaudrait demander si une pensée peut être plus ou moins elle-même.
+[p. 142] Il résulte de là que la conscience spontanée n'a pas de degrés. Comment en effet demander si une pensée est plus ou moins consciente, lorsque la conscience, c'est-à-dire la connaissance de la pensée par elle-même, est la pensée tout entière ? Autant vaudrait demander si une pensée peut être plus ou moins elle-même.
 
 Donc, d'une part, une même pensée ne peut être consciente à des degrés différents ; et d'autre part, plusieurs pensées sont toutes également conscientes, puisqu'elles le sont toutes pleinement et absolument.
 
@@ -2488,11 +2012,7 @@ de son activité comme dans les plus hautes,
 
 il prend de lui-même une conscience parfaite et totale.
 
-Cependant il faut reconnaître qu'il n'y aurait pas lieu de s'étonner si quelqu'un prétendait ne point avoir une telle conscience de soi, et son
-
-[p. 143]
-
-objection devrait paraître absolument fondée.
+Cependant il faut reconnaître qu'il n'y aurait pas lieu de s'étonner si quelqu'un prétendait ne point avoir une telle conscience de soi, et son [p. 143] objection devrait paraître absolument fondée.
 
 S'il est quelque chose que nous connaissions peu, et sur quoi les opinions des hommes soient diverses, c'est assurément la nature de l'esprit.
 
@@ -2508,11 +2028,7 @@ Lorsque, pour les raisons que nous avons exposées, la pensée actuelle
 
 s'est dédoublée en deux représentations, celle du moi et celle du non-moi, cette dernière, nous l'avons vu, devient objet pour la pensée dans laquelle elle a pris naissance ; et la même chose est vraie en réalité de la première, bien que le moi y apparaisse surtout comme sujet. C'est que le moi n'est effectivement sujet que dans son rapport et dans son opposition au non-moi ;
 
-mais, lorsque l'esprit se repliant sur soi cherche à prendre possession de lui-même dans l'intui
-
-[p. 144]
-
-tion du moi, le moi à son tour devient inévitablement objet pour la pensée actuelle, de la même manière que pouvait l'être tout à l'heure le non-moi. C'est alors, mais alors seulement, c'est, disons-nous, lorsqu'ils sont devenus objets pour la pensée actuelle, que le moi et le non-moi sont véritablement pensés ; et l'on peut dire d'une façon générale que rien n'est pensé à moins de subir la même condition, à moins de devenir objet pour la pensée actuelle.
+mais, lorsque l'esprit se repliant sur soi cherche à prendre possession de lui-même dans l'intui [p. 144] tion du moi, le moi à son tour devient inévitablement objet pour la pensée actuelle, de la même manière que pouvait l'être tout à l'heure le non-moi. C'est alors, mais alors seulement, c'est, disons-nous, lorsqu'ils sont devenus objets pour la pensée actuelle, que le moi et le non-moi sont véritablement pensés ; et l'on peut dire d'une façon générale que rien n'est pensé à moins de subir la même condition, à moins de devenir objet pour la pensée actuelle.
 
 Si maintenant l'on considère la pensée ellemême, on comprendra aisément qu'une pensée quelconque
 
@@ -2520,11 +2036,7 @@ n'est pensée, et par conséquent n'est connue distinctement, ou, comme l'on dit
 
 consciente, qu'à la condition de devenir objet pour une pensée ultérieure, pour la pensée actuelle. Quant à la conscience spoutanée, elle est la pensée même, en tant que cette pensée est lumineuse pour soi, mais elle n'est pas, à proprement parler, la pensée de cette pensée. A ce point de vue, l'aphorisme d'Aristote que nous rappelions tout à l'heure « Ἔστιν ἡ νόησις νοήσεως νόησις » pourrait donner lieu à une interprétation inexacte.
 
-Il est très vrai que la pensée se suffit à elle-même, et qu'elle ne ressemble nullement aux choses extérieures, qui ne sont rien pour l'esprit à moins de devenir
-
-[p. 145]
-
-objets de pensée ; et Aristote ne veut pas dire autre chose
+Il est très vrai que la pensée se suffit à elle-même, et qu'elle ne ressemble nullement aux choses extérieures, qui ne sont rien pour l'esprit à moins de devenir [p. 145] objets de pensée ; et Aristote ne veut pas dire autre chose
 
 : mais il serait très faux de dire que la pensée se pense
 
@@ -2542,11 +2054,7 @@ qui n'a aucun sens, parce que l'action d'éclairer suppose une dualité de sujet
 
 il est vrai que la pensée pense les objets ; il est vrai aussi qu'elle n'est pas un objet qui ait besoin d'être pensé ; mais il n'est pas vrai qu'elle se pense, en prenant
 
-10
-
-[p. 146]
-
-ce mot en son sens usuel. Or c'est quand
+10 [p. 146] ce mot en son sens usuel. Or c'est quand
 
 elle a été pensée, au sens usuel du mot, qu'une chose quelconque devient objet de connaissance et c'est seulement quand elle est devenue objet de connaissance, qu'une pensée est dite par nous consciente.
 
@@ -2560,19 +2068,13 @@ ce que nous considérons comme notre pensée vraie, ce n'est pas la pensée actu
 
 On le voit, entre la conscience spontanée et la conscience réfléchie, c'est-à-dire, en réalité, si nous nous plaçons au point de vue de la connaissance effective et réelle, entre l'inconscience et la conscience, l'abîme est profond.
 
-[p. 147]
-
-La différence ici n'est pas de degré, ce n'est pas une question de plus ou de moins ; l'inconscience n'est pas la conscience réduite à un minimum, ou même réduite à zéro : la différence est de nature, elle est radicale et ne peut être supprimée.
+[p. 147] La différence ici n'est pas de degré, ce n'est pas une question de plus ou de moins ; l'inconscience n'est pas la conscience réduite à un minimum, ou même réduite à zéro : la différence est de nature, elle est radicale et ne peut être supprimée.
 
 Et pourtant, tout en reconnaissant
 
 qu'il ne peut y avoir de passage direct de la conscience spontanée à la conscience réfléchie, devons-nous désespérer à tout jamais de voir l'intuition infaillible de la première éclairer la seconde, et la véritable nature de l'esprit se révéler à nos yeux ? Se peut-il que nous soyons condamnés à divaguer éternellement sur ce qui nous est le plus intime, sur ce qui, en un sens, nous est connu d'une manière parfaite ? Non, cela n'est pas, cela ne peut pas être. Si l'esprit a ainsi de lui-même une conscience absolue, cette conscience doit avoir son écho, son reflet, sa manifestation quelque part ; attendu que l'inconscience, si elle pouvait être aussi entière qu'on veut bien le dire, ne serait rien, ni pour nous, ni pour elle-même, ni pour personne, et le mot quil'exprime serait vide de sens. Est-ce que d'ailleurs cet inconscient-là n'est pas en quelque sorte l'étoffe dont sont faites nos pensées dites conscientes ?
 
-Donc il doit exister quelque moyen de sur
-
-[p. 148]
-
-prendre ce secret de la conscience spontanée si intéressant pour nous, puisque c'est le secret de notre nature même.
+Donc il doit exister quelque moyen de sur [p. 148] prendre ce secret de la conscience spontanée si intéressant pour nous, puisque c'est le secret de notre nature même.
 
 Il est en effet un moyen qui se présente à l'esprit tout naturellement. Puisque la pensée actuelle contient cet admirable
 
@@ -2584,11 +2086,7 @@ satisfaisants. La raison en est que d'abord la reconstitution d'une pensée, né
 
 causes d'erreur que
 
-rencontre nécessairement quiconque observe, à savoir les passions, les préjugés, l'esprit de système : sans compter que ces causes d'erreur seraient ici beaucoup plus à redouter que partout ailleurs, en raison du caractère particulier de l'objet à observer. Enfin, et ceci est un obstacle tout à fait insurmontable, il paraît bien que l'objet proposé à notre étude,
-
-[p. 149]
-
-la nature intime et absolue de l'esprit, n'est pas susceptible de devenir jamais un objet d'observation immédiate, puisque tout objet, par le seul fait qu'il entre dans la pensée, y prend les caractères de la relativité et de la phénoménalité.
+rencontre nécessairement quiconque observe, à savoir les passions, les préjugés, l'esprit de système : sans compter que ces causes d'erreur seraient ici beaucoup plus à redouter que partout ailleurs, en raison du caractère particulier de l'objet à observer. Enfin, et ceci est un obstacle tout à fait insurmontable, il paraît bien que l'objet proposé à notre étude, [p. 149] la nature intime et absolue de l'esprit, n'est pas susceptible de devenir jamais un objet d'observation immédiate, puisque tout objet, par le seul fait qu'il entre dans la pensée, y prend les caractères de la relativité et de la phénoménalité.
 
 Prenons un exemple pour fixer les idées
 
@@ -2596,11 +2094,7 @@ Prenons un exemple pour fixer les idées
 
 Ce serait là une très mauvaise manière de poser le problème. En procédant de cette façon, nous aurions par exemple à considérer une détermination prise antérieurement, à la soumettre à l'analyse, et à rechercher si cette détermination avait ou n'avait pas un antécédent qui la rendît nécessaire. Mais tout d'abord, dans la conscience réfléchie comme dans l'expérience sensible, ce qui est constaté, ce sont les faits, non leur nécessité ou leur contingence. Le rapport qui unit un fait de conscience ou un phénomène extérieur à son antécédent n'est pas d'ordre phénoménal, il est donc absurde d'en vouloir faire l'objet d'une constatation directe.
 
-Puis, en supposant même cette constatation possible, il est évident qu'aucun de ceux qui
-
-[p. 150]
-
-voudraient la tenter ne pourrait se défaire d'une multitude
+Puis, en supposant même cette constatation possible, il est évident qu'aucun de ceux qui [p. 150] voudraient la tenter ne pourrait se défaire d'une multitude
 
 d'idées préconçues particulières à chacun, et qui rendraient pour chacun nécessaire d'avance et inévitable le résultat de l'observation. Aussi que voyez-vous ? C'est que, si vous interrogez cent hommes pris au hasard dans toutes les régions du globe, et que vous leur demandiez s'ils se sentent libres, cinquante peut-être répondront oui, et cinquante, non. L'observation directe et la réflexion sont donc des procédés de méthode qu'il faut rejeter
 
@@ -2614,11 +2108,7 @@ nature
 
 absolue. Par exemple, pour le cas qui nous occupe, les sentiments de l'estime et du mépris, ceux du remords et de la satisfaction morale, celui de la justice des peines infligées au coupable et de la nécessité d'une expiation
 
-; en un mot, le sentiment de la responsabilité sous toutes ses
-
-[p. 151]
-
-formes implique clairement que l'esprit a la conscience intime
+; en un mot, le sentiment de la responsabilité sous toutes ses [p. 151] formes implique clairement que l'esprit a la conscience intime
 
 et absolue d'être libre de ses résolutions, et par conséquent peut servir à prouver la liberté. En fait, les hommes, quand ils affirment leur liberté, ne le font pas pour d'autres raisons. S'ils se disent libres, ce n'est pas qu'ils croient en général avoir directement conscience de l'être ; mais c'est qu'ils se sentent obligés par la loi du devoir et responsables, et qu'ils comprennent très bien que cette obligation et cette responsabilité impliquent pour eux la liberté.
 
@@ -2626,11 +2116,7 @@ Ainsi cette conscience parfaite, absolue, adéquate, que, tout au fond de son ê
 
 elle est cette pensée même qui la contient tout entière ; et nous venons de voir comment, grâce aux échos que cette conscience éveille autour d'elle, il nous estpermis de prendre quelquefois de la vraie et absolue nature de l'esprit une connaissance distincte, au même titre que nous prenons connaissance de tout ce qui est objet pour la pensée.
 
-Mais les attributs que l'esprit manifeste ainsi, ce sont ses attributs moraux ; et ceux dont il
-
-[p. 152]
-
-est nécessaire qu'il prenne conscience pour constituer ses jugements de Catégories, ce sont ses attributs métaphysiques. Nous allons montrer de quelle façon non pas identique, mais tout à fait analogue, se manifeste cette seconde série d'attributs donnant lieu à une seconde série de jugements
+Mais les attributs que l'esprit manifeste ainsi, ce sont ses attributs moraux ; et ceux dont il [p. 152] est nécessaire qu'il prenne conscience pour constituer ses jugements de Catégories, ce sont ses attributs métaphysiques. Nous allons montrer de quelle façon non pas identique, mais tout à fait analogue, se manifeste cette seconde série d'attributs donnant lieu à une seconde série de jugements
 
 universels et nécessaires comme les premiers.
 
@@ -2646,9 +2132,7 @@ attributs. Cela étant, on peut se demander dans laquelle des deux représentati
 
 s'affirme cette conscience que l'esprit a de lui-même en tant qu'être. Nous disons : c'est dans toutes les deux, à cause de leur parfaite corrélation.
 
-[p. 153]
-
-C'est que, si, comme tout le monde doit l'admettre, « le moi se pose en s'opposant le nonmoi ; » il est indispensable, pour qu'il se pose comme un moi concret et réel, qu'il s'oppose un non-moi également concret et réel. Donc, ou bien
+[p. 153] C'est que, si, comme tout le monde doit l'admettre, « le moi se pose en s'opposant le nonmoi ; » il est indispensable, pour qu'il se pose comme un moi concret et réel, qu'il s'oppose un non-moi également concret et réel. Donc, ou bien
 
 l'esprit ne peut pas prendre conscience de lui-même en tant qu'être, ce qui est absurde, ou bien il faut que le moi
 
@@ -2662,9 +2146,7 @@ l'intuition du moi aura à cet égard sur l'autre une sorte de privilège, et co
 
 d'où elle revient ensuite comme par réflexion sur le moi lui-même. C'est alors seulement, c'est quand les deux termes opposés, le moi et l'univers, s'éclairent ainsi mutuellement par leur opposition même, qu'ils peuvent apparaître l'un et l'autre avec le caractère de l'existence réelle, qui est le caractère fondamental de l'esprit.
 
-[p. 154]
-
-Mais l'existence réelle comporte des conditions
+[p. 154] Mais l'existence réelle comporte des conditions
 
 et des déterminations.
 
@@ -2680,9 +2162,7 @@ attributs, ou il n'est point. Si donc le moi et l'univers sont donnés dans la p
 
 Ainsi entendue, la théorie des Catégories de l'Entendement présente avec la théorie simi Il est inutile sans doute d'ajouter que les notions relatives aux différentes Catégories, et les jugements auxquels elles donnent lieu, n'apparaissant dans l'intelligence humaine qu'au moment où la notion distincte du moi se dégage en s'opposant le non-moi, ne peuvent se retrouver dans l'intelligence des animaux.
 
-[p. 155]
-
-laire de Kant des différences qui sautent aux yeux,
+[p. 155] laire de Kant des différences qui sautent aux yeux,
 
 et qui ne semblent pas en général être au profit de cette dernière. La raison d'être des Catégories, c'est, nous l'avons
 
@@ -2696,7 +2176,7 @@ il y a donc quelque chose de tout à fait artificiel, et que l'on ne peut mécon
 
 Oui sans doute l'univers doit être intelligible, mais une seule chose est intelligible, c'est l'être.
 
-Vouloir que l'esprit soumette a priori l'univers à des lois qui seraient quelconques, au lieu d'être les lois mêmes de l'existence, et supposer que l'univers ainsi constitué pourrait encore être objet pour la pensée, c'est être dans l'erreur. La condition nécessaire et suffisante pour qu'il ne
+Vouloir que l'esprit soumette *a priori* l'univers à des lois qui seraient quelconques, au lieu d'être les lois mêmes de l'existence, et supposer que l'univers ainsi constitué pourrait encore être objet pour la pensée, c'est être dans l'erreur. La condition nécessaire et suffisante pour qu'il ne
 
 soit pas anharmonique à la pensée, pour que l'esprit puisse s'y retrouver toujours,
 
@@ -2704,11 +2184,7 @@ c'est
 
 qu'il se présente à
 
-l'esprit comme réel au même titre que l'esprit lui
-
-[p. 156]
-
-même ; ét dès lors les seules lois que
+l'esprit comme réel au même titre que l'esprit lui [p. 156] même ; ét dès lors les seules lois que
 
 l'esprit puisse y reconnaitre, ce sont celles de son existence propre dont il a le sentiment immédiat et absolu.
 
@@ -2720,11 +2196,7 @@ Au nombre des Catégories,
 
 il en est deux que tout le monde reconnaît, et que même, pour notre part, nous inclinons à considérer comme les seules Catégories véritables, la substantialité
 
-et la causalité. On sait que la manière dont sont entendues et définies la substance et la cause varie beaucoup avec les différentes écoles philosophiques. Les empiristes qui, à l'inverse de ce que nous croyons être le vrai, font constituer l'esprit par les sensa-
-
-[p. 157]
-
-tions, au lieu de faire constituer les sensations par l'esprit, sont absolument dans la logique de leur système en réduisant l'idée de cause à l'idée de succession constante. Mais il ne semble pas que les spiritualistes aient de la causalité une conception qui soit aussi aisément justifiable, et aussi directement en rapport avec l'ensemble de
+et la causalité. On sait que la manière dont sont entendues et définies la substance et la cause varie beaucoup avec les différentes écoles philosophiques. Les empiristes qui, à l'inverse de ce que nous croyons être le vrai, font constituer l'esprit par les sensa-[p. 157]tions, au lieu de faire constituer les sensations par l'esprit, sont absolument dans la logique de leur système en réduisant l'idée de cause à l'idée de succession constante. Mais il ne semble pas que les spiritualistes aient de la causalité une conception qui soit aussi aisément justifiable, et aussi directement en rapport avec l'ensemble de
 
 leurs doctrines ;
 
@@ -2742,11 +2214,7 @@ substantialité.
 
 Pour cela,
 
-il faudrait commencer par s'assurer que ces idées sont absolument simples et incomplexes, parće que, si elles ne l'étaient pas, elles ne seraient que des tissus d'idées, et ne sauraient être rattachées directement à la conscience. Or ces
-
-[p. 158]
-
-idées certainement paraissent simples : est-ce une raison suffisante pour affirmer qu'elles le sont ; et ne savons-nous pas combien l'erreur est aisée sur ce point ? On en peut proposer un bel exemple, la notion d'espace qu'un si grand nombre de
+il faudrait commencer par s'assurer que ces idées sont absolument simples et incomplexes, parće que, si elles ne l'étaient pas, elles ne seraient que des tissus d'idées, et ne sauraient être rattachées directement à la conscience. Or ces [p. 158] idées certainement paraissent simples : est-ce une raison suffisante pour affirmer qu'elles le sont ; et ne savons-nous pas combien l'erreur est aisée sur ce point ? On en peut proposer un bel exemple, la notion d'espace qu'un si grand nombre de
 
 philosophes considèrent comme irréductible. Mais passons.
 
@@ -2760,11 +2228,7 @@ substance
 
 et comme cause. Il faut donc que l'on fasse appel à la réflexion. Or il est clair que le procédé ne peut donner de résultats, parce que, si l'esprit a vraiment conscience de lui-même comme substance et comme cause, c'est dans la conscience spontanée, qui, pour la réflexion, est identique, nous l'avons vu, à l'inconscience pure. Ajoutons, et c'est un point que nous avons eu occasion de signaler aussi, que la réflexion est, comme toute autre forme de l'observation des phénomènes,
 
-soumise à l'influence de mille causes d'erreurs, les passions, les préjugés, etc. ; de sorte que, dans le cas même où la réflexion pourrait atteindre la substantialité et la causalité de l'esprit, les notions qu'elle nous
-
-[p. 159]
-
-en fournirait demeureraient légitimement suspectes.
+soumise à l'influence de mille causes d'erreurs, les passions, les préjugés, etc. ; de sorte que, dans le cas même où la réflexion pourrait atteindre la substantialité et la causalité de l'esprit, les notions qu'elle nous [p. 159] en fournirait demeureraient légitimement suspectes.
 
 A la vérité, Maine de Biran ne méconnaissait nullement l'insuffisance de
 
@@ -2780,11 +2244,7 @@ se trompait,
 
 parce que la conscience spontanée d'un effort musculaire n'est pas autre chose que cet effort même. Cette conscience n'est donc pas une notion ; et, si nous en tirons une notion, c'est à la condition d'y appliquer la réflexion, et d'en faire l'objet d'une pensée nouvelle. Puis, comment oser parler de conscience immédiate, de sentiment intime, lorsque l'on est obligé de soutenir contre Hume que cette conscience de la causalité est possible, et ensuite qu'elle
 
-est réelle ? Comment nier que l'idée de cause a été obtenue par l'analyse et la réflexion, lorsque l'on s'efforce de démontrer que cette idée est donnée dans le sentiment de l'effort musculaire ? N'est-il pas évident que si la notion de la causalité telle qu'elle est dans sa nature intime et absolue était donnée véritablement, comme on le dit,
-
-[p. 160]
-
-dans le sentiment de l'effort, on ne pourrait pas plus discuter sur la réalité de cette notion que sur la réalité de l'effort lui-même
+est réelle ? Comment nier que l'idée de cause a été obtenue par l'analyse et la réflexion, lorsque l'on s'efforce de démontrer que cette idée est donnée dans le sentiment de l'effort musculaire ? N'est-il pas évident que si la notion de la causalité telle qu'elle est dans sa nature intime et absolue était donnée véritablement, comme on le dit, [p. 160] dans le sentiment de l'effort, on ne pourrait pas plus discuter sur la réalité de cette notion que sur la réalité de l'effort lui-même
 
 ; et que ceux qui prétendent n'avoir pas conscience d'être causes mériteraient d'être envoyés aux petites-maisons, au même titre que ceux qui, ayant mis la main sur un fer rouge, prétendraient n'avoir point senti de douleur ?
 
@@ -2808,11 +2268,7 @@ il serait un être au sens absolu du mot, et non plus un phénomène ; il aurait
 
 la puissance créatrice.
 
-Enfin, en admettant d'une part que la conception que se fait M. de Biran de la causalité
-
-[p. 161]
-
-soit légitime, et d'autre part, qu'il soit possible de
+Enfin, en admettant d'une part que la conception que se fait M. de Biran de la causalité [p. 161] soit légitime, et d'autre part, qu'il soit possible de
 
 découvrir par l'analyse directe d'un
 
@@ -2824,29 +2280,17 @@ La causalité est donc, d'après lui-même, essentiellement une relation. Mais t
 
 Quelle serait donc la méthode à suivre pour arriver à une détermination exacte de la causalité, de la substantialité, et, d'une façon gé
 
-11
-
-[p. 162]
-
-nérale, de toutes les Catégories de l'entendement, s'il en existe d'autres que la cause et la substance ?
+11 [p. 162] nérale, de toutes les Catégories de l'entendement, s'il en existe d'autres que la cause et la substance ?
 
 La solution de cette question se rattache étroitement pour nous à celle de l'origine première que nous avons assignée aux Catégories. L'univers étant constitué dans la représentation, l'esprit, disions-nous, l'objective par rapport à soi ; et, pour cela, il est nécessaire qu'il lui attribue l'existence, non l'existence abstraite et idéale, mais l'existence concrète et véritable qui est la sienne propre, et dont il a à prendre une conscience distincte ; et par conséquent il faut qu'il lui attribue aussi tous les caractères de l'existence concrète. Ce sont ces caractères, donnant lieu chacun à un jugement universel et nécessaire, qui constituent les Catégories de l'entendement.
 
 Mais comment se fait ce transport,
 
-cette projection, comme nous le disions plus haut, des attributs de l'esprit à l'univers ? Evidemment, c'est par des jugements spontanés. Donc il suffit de rechercher ces jugements spontanés, et d'en dégager les notions absolues qu'ils contiennent, pour obtenir du même coup le secret de l'esprit et celui de l'univers. Sans doute l'entreprise est difficile à mener à bien, parce qu'il est toujours difficile de s'assurer qu'un
-
-[p. 163]
-
-jugement est un produit de la spontanéité pure, et parce qu'ensuite c'est une tâche infiniment délicate et périlleuse, que celle qui consiste à dégager ainsi ces notions absolues que contiennent nos jugements spontanés. De ces deux difficultés, la première du reste est de beaucoup la moins considérable, attendu qu'il existe un criterium infaillible de la
+cette projection, comme nous le disions plus haut, des attributs de l'esprit à l'univers ? Evidemment, c'est par des jugements spontanés. Donc il suffit de rechercher ces jugements spontanés, et d'en dégager les notions absolues qu'ils contiennent, pour obtenir du même coup le secret de l'esprit et celui de l'univers. Sans doute l'entreprise est difficile à mener à bien, parce qu'il est toujours difficile de s'assurer qu'un [p. 163] jugement est un produit de la spontanéité pure, et parce qu'ensuite c'est une tâche infiniment délicate et périlleuse, que celle qui consiste à dégager ainsi ces notions absolues que contiennent nos jugements spontanés. De ces deux difficultés, la première du reste est de beaucoup la moins considérable, attendu qu'il existe un criterium infaillible de la
 
 spontanéité pure, c'est l'universalité. Si nous craignons qu'un de ces jugements qui ont la prétention d'être des applications directes de la loi des Catégories à la matière de l'expérience n'ait subi en nous quelque influence corruptrice, et ne soit entaché de relativité personnelle, il nous suffira de nous assurer si nous sommes, par rapport à ce jugement, d'accord avec tous les autres hommes. Quant à la première difficulté, elle est réelle, mais non pas insoluble, et nous pensons qu'on en viendrait à bout, à la condition d'y apporter suffisamment de finesse
 
-et beaucoup de droiture d'esprit. La méthode, on le voit, est absolument la même que nous avons préconisée déjà relativement à la question de la liberté, la même qui conviendrait pour résoudre toutes les questions du même genre, celle-ci par exemple : Est-il vrai ou non que l'homme soit incapable, comme le prétend La Rochefoucauld, d'un sentiment absolument dé
-
-[p. 164]
-
-sintéressé ;
+et beaucoup de droiture d'esprit. La méthode, on le voit, est absolument la même que nous avons préconisée déjà relativement à la question de la liberté, la même qui conviendrait pour résoudre toutes les questions du même genre, celle-ci par exemple : Est-il vrai ou non que l'homme soit incapable, comme le prétend La Rochefoucauld, d'un sentiment absolument dé [p. 164] sintéressé ;
 
 et l'amour de nous-mêmes est-il la racine cachée de tous nos sentiments, sans en excepter nos sentiments sympathiques ? Ces questions et toutes celles qui ont pour objet, soit l'esprit en général dans ses attributs fondamentaux et essentiels,
 
@@ -2858,11 +2302,7 @@ Lorsque la science est achevée ou supposée l'être ; lorsque, après avoir exp
 
 inévitable,
 
-se présente à l'esprit de l'homme : Quel est le principe des choses, et
-
-[p. 165]
-
-quelle est leur fin ? D'où vient cet univers, et où tend-il ? Cette question n'est pas, quoi qu'on en ait dit, et nous pensons l'avoir prouvé suffisamment, de même nature que celles que la science doit résoudre. Les solutions qu'on en peut donner n'ont pas le même caractère de rigueur démonstrative, mais aussi de relativité que présentent les solutions des questions scientifiques. Nous sommes alors hors la science, hors la logique,
+se présente à l'esprit de l'homme : Quel est le principe des choses, et [p. 165] quelle est leur fin ? D'où vient cet univers, et où tend-il ? Cette question n'est pas, quoi qu'on en ait dit, et nous pensons l'avoir prouvé suffisamment, de même nature que celles que la science doit résoudre. Les solutions qu'on en peut donner n'ont pas le même caractère de rigueur démonstrative, mais aussi de relativité que présentent les solutions des questions scientifiques. Nous sommes alors hors la science, hors la logique,
 
 et réduits aux conjectures. Mais
 
@@ -2878,17 +2318,13 @@ et l'acte de foi par lequel nous y adhérons est infiniment plus précieux, et, 
 
 et absolue, de la seule vérité qui nous intéresse à proprement parler. Si l'on appelle métaphysique la discussion de cette hypothèse et des hypothèses qui se présentent concurremment avec elle,
 
-il est bien certain que la métaphysique ainsi entendue n'a pas besoin de recourir à l'expérience. Mais si, par le mot méta
-
-[p. 166]
-
-physique, on entend, comme nous le faisons ici, l'étude de notre nature, ou plutôt de la nature en général dans ce qu'elle a d'immuable et d'universel par opposition aux sciences qui l'étudient dans ce qu'elle a de mobile et de particulier,
+il est bien certain que la métaphysique ainsi entendue n'a pas besoin de recourir à l'expérience. Mais si, par le mot méta [p. 166] physique, on entend, comme nous le faisons ici, l'étude de notre nature, ou plutôt de la nature en général dans ce qu'elle a d'immuable et d'universel par opposition aux sciences qui l'étudient dans ce qu'elle a de mobile et de particulier,
 
 nous persistons à penser que la métaphysique
 
 ainsi entendue, c'est-à-dire en réalité l'ontologie,
 
-ne peut se construire a priori.
+ne peut se construire *a priori*.
 
 Quoi qu'on fasse, les sciences du concret n'admettent qu'un point de départ, l'expérience. Comment donc la métaphysique, qui est la science du concret par excellence, échapperait-elle à cette loi ? Si cette base solide
 
@@ -2900,11 +2336,7 @@ Est-ce à dire qu'à notre avis il faille lui rogner les ailes, lui interdire «
 
 science les
 
-constructions et les systèmes ? Les sciences physiques et naturelles qui, plus que toutes les autres, devraient craindre de quitter le solide terrain des faits, ne se font pas faute d'anticipations sur l'expérience actuelle et de vastes synthèses. Les mathématiques elles-mêmes ont parfois des
-
-[p. 167]
-
-audaces
+constructions et les systèmes ? Les sciences physiques et naturelles qui, plus que toutes les autres, devraient craindre de quitter le solide terrain des faits, ne se font pas faute d'anticipations sur l'expérience actuelle et de vastes synthèses. Les mathématiques elles-mêmes ont parfois des [p. 167] audaces
 
 toutes
 
@@ -2930,11 +2362,7 @@ Du reste, la source que nous avons indiquée comme étant celle où le métaphys
 
 et s'affirme comme objet en face du moi qui par là même devient sujet. La conception contient le secret de l'esprit en tant qu'être ;
 
-elle l'exprime dans ce que sa nature a d'ab
-
-[p. 168]
-
-solu, et dans ses attributs essentiels. C'est dans l'étude du spontané, nous venons de le voir, qu'il faut chercher le mot de cette partie de l'énigme.
+elle l'exprime dans ce que sa nature a d'ab [p. 168] solu, et dans ses attributs essentiels. C'est dans l'étude du spontané, nous venons de le voir, qu'il faut chercher le mot de cette partie de l'énigme.
 
 Mais l'intuition contient aussi à sa manière le secret de l'esprit : elle contient le secret de l'esprit en tant qu'il est mobile et phénoménal, puisque l'esprit, en tant qu'il est mobile et phénoménal, c'est l'univers lui-même tel qu'il est donné dans l'intuition pure, avant l'intervention des jugements spontanés qui constituent la conception. Les
 
@@ -2944,11 +2372,7 @@ qui étudient l'univers au point de vue purement phénoménal travaillent donc, 
 
 se ramènent au mouvement,
 
-les
-
-[p. 169]
-
-sciences nous fournissent un témoignage d'une valeur incontestable en faveur de ce grand principe que l'esprit, dans sa constitution de la représentation sensible, opère suivant un seul et unique processus fondamental. La métaphysique, en retour, montrant que ce processus consiste à constituer la représentation sous la forme de l'unité multiple et de la multiplicité une,
+les [p. 169] sciences nous fournissent un témoignage d'une valeur incontestable en faveur de ce grand principe que l'esprit, dans sa constitution de la représentation sensible, opère suivant un seul et unique processus fondamental. La métaphysique, en retour, montrant que ce processus consiste à constituer la représentation sous la forme de l'unité multiple et de la multiplicité une,
 
 d'où résulte pour la représentation le caractère de la continuité ; puis, concluant de 1 ce principe que l'esprit réalise la plus parfaite unité et la plus complète identité qu'il soit possible de concevoir dans une
 
@@ -2956,9 +2380,7 @@ diversité
 
 absolue telle qu'est la sienne, et que par conséquent son développement, en même temps qu'il doit être continu, doit être aussi régulier et aussi uniforme que possible ; la métaphysique, disonsnous, rendant aux sciences service pour service, démontre ce qu'elles ne pouvaient pas démontrer, à savoir que l'univers, ou, ce qui revient au même, la totalité des phénomènes, « n'est qu'un mouvement unique qui se poursuit autant que possible dans la même direction et avec la même vitesse, quelles que soient du reste les lois suivant lesquelles il se transforme ¹. »>[^p169-1]
 
-[p. 170]
-
-Ainsi
+[p. 170] Ainsi
 
 c'est l'esprit, et nous ajouterons, c'est l'esprit tout seul et l'esprit tout entier que l'univers exprime dans la multiplicité infinie de ses phénomènes. Non pas sans doute qu'il ne puisse et qu'il ne doive exister une science de l'esprit reposant sur d'autres bases, et que ce l'on appelle la Psychologie perde à notre avis sa raison d'être. Mais la PSYCHOLOGIE doit être essentiellement une science de phénomènes. Son objet,
 
@@ -2966,11 +2388,7 @@ c'est d'expliquer les uns par les autres
 
 les faits de conscience, et de les ramener au plus petit nombre possible de lois fondamentales ; sans renoncer du reste à expliquer ces lois elles-mêmes par la nature métaphysique de l'esprit. Quant à vouloir faire de l'étude de cette nature métaphysique comme un prolongement et un complément de l'étude directe des phénomènes par le moyen de la réflexion, nous pensons que c'est une entreprise vaine, et qui ne peut aboutir. Ce n'est pas dans son foyer même, dans son essence absolue, qu'il convient d'étudier l'esprit : ce n'est pas par l'observation directe, excellente pour quiconque ne s'occupe que des phénomènes, qu'il faut essayer de pénétrer jusqu'à l'être. Non, il n'y a qu'un moyen à employer pour y atteindre, c'est d'user de ruse en quelque
 
-sorte, et de chercher indirectement la solution du problème
-
-[p. 171]
-
-dans l'étude
+sorte, et de chercher indirectement la solution du problème [p. 171] dans l'étude
 
 des manifestations de
 
@@ -2998,11 +2416,7 @@ en soi en dehors de toute pensée et de toute représentation.
 
 Le caractère le plus saillant peut-être de la doctrine que nous venons d'exposer, c'est le caractère d'idéalisme. Or il faut convenir que le mot idéalisme sonne assez mal en général en philosophie, surtout aux oreilles françaises, et qu'il est pris le plus souvent comme un équivalent poli du mot chimères. Et pourtant, à y bien penser, on se demande comment il serait possible de n'être pas idéaliste quand on admet la subjectivité du temps et de l'espace ; et d'autre part, on se demande encore comment il serait possible de se refuser à admettre la subjectivité du temps et de l'espace
 
-: de sorte que l'on ne voit pas bien comment, même avec la répulsion la plus décidée pour l'idéalisme, on pourrait y échapper sans renoncer à
-
-[p. 173]
-
-sa raison, et sans renier les conquêtes les plus incontestables de la science philosophique.
+: de sorte que l'on ne voit pas bien comment, même avec la répulsion la plus décidée pour l'idéalisme, on pourrait y échapper sans renoncer à [p. 173] sa raison, et sans renier les conquêtes les plus incontestables de la science philosophique.
 
 La principale et même l'unique cause pour laquelle l'idéalisme excite tant de répugnances, c'est que cette doctrine paraît constituer une négation absolue de la réalité du monde extérieur. Eh bien, nous l'avouerons sans peine, si le reproche est fondé, il est extrêmement sérieux, et l'idéalisme, quels que puissent être ses mérites d'ailleurs, est dans ce cas, à notre avis, une doctrine à rejeter. Comment admettre en
 
@@ -3018,9 +2432,7 @@ font croire au monde extérieur, ainsi que le pense Berkeley, nous tromperait po
 
 ; et, nous pouvons même le dire, nous tromperait méchamment, puisqu'il nous tromperait sans aucune nécessité qui soit assignable. La conscience humaine proteste avec énergie contre de telles doctrines, et ici, comme toujours, la conscience humaine a raison.
 
-[p. 174]
-
-S'imaginera-t-on rendre l'idéalisme plus acceptable en soutenant, avec Kant, qu'à la vérité nous ne percevons rien de réel et vivons dans un monde d'apparences, mais que du moins ces apparences sont bien fondées, puisqu'elles expriment la constitution intellectuelle de l'esprit humain, — laquelle d'ailleurs pourrait fort bien être toute différente, auquel cas ces apparences seraient absolument autres ;
+[p. 174] S'imaginera-t-on rendre l'idéalisme plus acceptable en soutenant, avec Kant, qu'à la vérité nous ne percevons rien de réel et vivons dans un monde d'apparences, mais que du moins ces apparences sont bien fondées, puisqu'elles expriment la constitution intellectuelle de l'esprit humain, — laquelle d'ailleurs pourrait fort bien être toute différente, auquel cas ces apparences seraient absolument autres ;
 
 et que, d'autre part, ces apparences ne sont pas tout à fait mensongères, puisqu'elles nous
 
@@ -3034,11 +2446,7 @@ tout
 
 autrement qu'elles ne sont, que si nous croyons voir ce qui n'existe pas en réalité ? Aussi convient-il, du moins à notre humble avis, de tenir pour absolument suspecte d'une manière généralela doctrine aujourd'hui si répandue que l'on a appelée le grand dogme de la relativité de la connaissance. Sans doute,
 
-si, par ces mots relativité de la connaissance, on'entend dire que la pensée étant l'acte propre de l'esprit doit exprimer la nature de l'esprit beaucoup plutôt que celle
-
-[p. 175]
-
-de tout autre objet, rien n'est plus vrai ; mais rien non plus n'est plus naïf, et la contestation sur ce point doit sembler impossible à quiconque n'est pas resté totalement étranger aux grands progrès qu'a réalisés la pensée philosophique dans les temps modernes. Si au contraire on veut dire par là que les choses sont ce qu'elles sont, et que nous les connaissons comme nous les connaissons, mais que nous les connaissons autrement qu'elles ne sont, il faut protester avec force ; parce que, dans ce cas-là, quoi qu'on en dise, la connaissance est purement illusoire, et la vie humaine est une simple fantasmagorie.
+si, par ces mots relativité de la connaissance, on'entend dire que la pensée étant l'acte propre de l'esprit doit exprimer la nature de l'esprit beaucoup plutôt que celle [p. 175] de tout autre objet, rien n'est plus vrai ; mais rien non plus n'est plus naïf, et la contestation sur ce point doit sembler impossible à quiconque n'est pas resté totalement étranger aux grands progrès qu'a réalisés la pensée philosophique dans les temps modernes. Si au contraire on veut dire par là que les choses sont ce qu'elles sont, et que nous les connaissons comme nous les connaissons, mais que nous les connaissons autrement qu'elles ne sont, il faut protester avec force ; parce que, dans ce cas-là, quoi qu'on en dise, la connaissance est purement illusoire, et la vie humaine est une simple fantasmagorie.
 
 Nous admettons donc absolument l'existence réelle du monde extérieur ; et il ne peut l à dessus s'élever aucun doute, puisque, comme nous l'avons expliqué, le monde extérieur est un monde de substances et de causes, et que la substantialité et la causalité sont les caractères constitutifs, non pas de l'existence apparente et phénoménale,
 
@@ -3046,11 +2454,7 @@ mais de l'existence
 
 réelle et absolue.
 
-Et non seulement le monde extérieur existe réellement, mais il est absolument tel que nous le connaissons. L'identité de la pensée et de son objet, à notre avis, est parfaite : et il faut bien qu'il en soit ainsi. Comment en effet la pensée pourrait-elle différer des choses, puis
-
-[p. 176]
-
-qu'elle
+Et non seulement le monde extérieur existe réellement, mais il est absolument tel que nous le connaissons. L'identité de la pensée et de son objet, à notre avis, est parfaite : et il faut bien qu'il en soit ainsi. Comment en effet la pensée pourrait-elle différer des choses, puis [p. 176] qu'elle
 
 est tout l'être des choses ;
 
@@ -3062,11 +2466,7 @@ contradiction dans les termes. Nous persisterons cependant à penser que ces deu
 
 est moins immédiate que celle de la pensée, puisqu'elle en dépend. Mais où a-t-on vu qu'une chose cesse d'être réellement existante, parce qu'elle dépend d'une autre chose qui est sa condition essentielle ? L'effet suppose la cause ; est-il pour cela moins réel que la cause elle-même ?
 
-Quant à l'apparence d'une contradiction entre nos deux propositions, la cause, à ce qu'il semble, en pourrait bien être dans une illusion produite par des habitudes d'esprit invétérées, que l'on prend sans s'en douter pour des rai-
-
-[p. 177]
-
-sons claires
+Quant à l'apparence d'une contradiction entre nos deux propositions, la cause, à ce qu'il semble, en pourrait bien être dans une illusion produite par des habitudes d'esprit invétérées, que l'on prend sans s'en douter pour des rai-[p. 177]sons claires
 
 et démonstratives.
 
@@ -3082,11 +2482,7 @@ postérieure et dérivée. Mais, ce qui
 
 est plus important encore, tandis que celle-ci a un caractère purement individuel, et procède du
 
-12
-
-[p. 178]
-
-libre caprice de son auteur, de sorte qu'on peut la modifier à volonté, la conception du monde extérieur s'opère d'une manière nécessaire, et d'après des lois que nous subissons sans les connaître
+12 [p. 178] libre caprice de son auteur, de sorte qu'on peut la modifier à volonté, la conception du monde extérieur s'opère d'une manière nécessaire, et d'après des lois que nous subissons sans les connaître
 
 : par là même elle a le caractère de l'universalité absolue. Enfin, ce n'est pas seulement quant à la manière dont elle se constitue dans l'esprit que la conception du monde extérieur a un caractère frappant d'unité et de nécessité,
 
@@ -3098,9 +2494,7 @@ variable, consciente ;
 
 de l'autre côté, conception primaire, nécessaire, universelle, inconsciente. En vérité, le passage de l'une à l'autre par inférence n'est-il pas bien hardi ; et parce que c'est exister trop peu que d'exister seulement sous la première forme, est-il permis de conclure sans autre raison que ce n'est pas exister vraiment que d'exister sous la seconde ?
 
-[p. 179]
-
-Du reste, pour réfuter ce préjugé qu'exister seulement dans la pensée c'est la même chose que n'exister pas, nous ferons appel à ceux-là mêmes qui le partagent. Dira-t-on que le moi existe ailleurs que dans la pensée ? Admettons pour un moment tout ce que l'on voudra sur l'existence d'un esprit en soi, substratum de la pensée, dont la pensée ne serait qu'une manifestation partielle. Il est bien certain au moins que le moi, le moi de la conscience, est tout entier dans la pensée. Or le moi est-il, ou n'est-il pas ? Quelqu'un osera-t-il dire que son existence n'est pas réelle ? que le je ou le moi qui est lui-même
+[p. 179] Du reste, pour réfuter ce préjugé qu'exister seulement dans la pensée c'est la même chose que n'exister pas, nous ferons appel à ceux-là mêmes qui le partagent. Dira-t-on que le moi existe ailleurs que dans la pensée ? Admettons pour un moment tout ce que l'on voudra sur l'existence d'un esprit en soi, substratum de la pensée, dont la pensée ne serait qu'une manifestation partielle. Il est bien certain au moins que le moi, le moi de la conscience, est tout entier dans la pensée. Or le moi est-il, ou n'est-il pas ? Quelqu'un osera-t-il dire que son existence n'est pas réelle ? que le je ou le moi qui est lui-même
 
 possède à ses yeux une existence qui, étant tout entière dans la pensée, ne lui paraît pas avoir le degré de consistance voulue ? Et si le moi qui n'a point d'existence hors de la pensée n'en est pas moins très réel, pourquoi n'en serait-il pas de même du monde extérieur ? L'univers, c'est la pensée en tant qu'elle est multiple et phénoménale ;
 
@@ -3108,15 +2502,11 @@ le moi, c'est la pensée en tant qu'elle est une et absolue.
 
 Est- ce que le premier de ces caractères n'est pas tout aussi essentiel à la pensée que le second ? Pourquoi donc lui attribuer une réalité moindre ? Le monde extérieur, encore une fois, existe au même titre et au même degré que le moi lui-même ; n'est-ce pas assez, et que faut-il de plus ?
 
-[p. 180]
-
-Mais sans doute on voudra retourner contre nous le reproche que nous-même tout à l'heure adressions à Berkeley, celui d'être en opposition avec la conscience humaine. Il faut ici distinguer. Si l'on nous accuse d'être en opposition avec ce que les Écossais appelaient le sens commun ou le bon sens, nous acceptons pleinement le reproche. Il est en effet certain que le genre humain pris en masse croit à l'existence d'un monde extérieur existant en soi et duquel la pensée dépend, bien loin que ce soit lui qui dépende de la pensée. C'est que le genre humain est un matérialiste, et surtout un sensualiste obstiné. Mais la question est de savoir si cette manière de voir très universelle, nous le reconnaissons, et même très difficile à déraciner des esprits, est l'expression fidèle des lois les plus fondamentales de la pensée, ou bien si au contraire ce ne serait pas un simple préjugé, très général parce qu'il tient à des causes très générales, très tenace parce qu'il est très difficile de-détruire les influences qui lui ont donné naissance, mais enfin un préjugé dont les origines sont assignables, et qui ne tient en rien à la nature intime de l'esprit. Or il nous paraît incontestable que là précisément est la vérité.
+[p. 180] Mais sans doute on voudra retourner contre nous le reproche que nous-même tout à l'heure adressions à Berkeley, celui d'être en opposition avec la conscience humaine. Il faut ici distinguer. Si l'on nous accuse d'être en opposition avec ce que les Écossais appelaient le sens commun ou le bon sens, nous acceptons pleinement le reproche. Il est en effet certain que le genre humain pris en masse croit à l'existence d'un monde extérieur existant en soi et duquel la pensée dépend, bien loin que ce soit lui qui dépende de la pensée. C'est que le genre humain est un matérialiste, et surtout un sensualiste obstiné. Mais la question est de savoir si cette manière de voir très universelle, nous le reconnaissons, et même très difficile à déraciner des esprits, est l'expression fidèle des lois les plus fondamentales de la pensée, ou bien si au contraire ce ne serait pas un simple préjugé, très général parce qu'il tient à des causes très générales, très tenace parce qu'il est très difficile de-détruire les influences qui lui ont donné naissance, mais enfin un préjugé dont les origines sont assignables, et qui ne tient en rien à la nature intime de l'esprit. Or il nous paraît incontestable que là précisément est la vérité.
 
 L'erreur du sens commun peut s'expliquer sans peine, disons-nous. Elle a en effet son origine dans la loi des Catégories elles-mêmes.
 
-[p. 181]
-
-Ainsi que nous l'avons montré, l'esprit prend conscience de lui-même sous la forme du moi en tant qu'être réel et concret, à la condition de s'opposer un non-moi également réel et concret. Il n'est pas étonnant dès lors que l'esprit tendant à s'attribuer à lui-même une existence absolue, attribue également à l'univers une 'existence absolue ; en quoi du reste il ne fait rien que de très légitime.
+[p. 181] Ainsi que nous l'avons montré, l'esprit prend conscience de lui-même sous la forme du moi en tant qu'être réel et concret, à la condition de s'opposer un non-moi également réel et concret. Il n'est pas étonnant dès lors que l'esprit tendant à s'attribuer à lui-même une existence absolue, attribue également à l'univers une 'existence absolue ; en quoi du reste il ne fait rien que de très légitime.
 
 Si de plus, le sens commun considère le monde
 
@@ -3130,11 +2520,7 @@ tandis que ce qui se présente à nous comme n'ayant de réalité que dans la pe
 
 nous apparaît nécessairement comme un souvenir ou comme une conception de pure fantaisie.
 
-Quant à prétendre que cette croyance du sens commun tient à quelque élément constitutif de notre nature, à quelque loi primordiale de notre esprit, c'est ce que l'on n'a pas le droit de faire. L'affirmation de l'existence de l'univers comme tout à fait indépendante de la pensée est si peu même une loi de l'esprit, que cette prétendue existence indépendante ne peut pas entrer dans l'esprit, et que ceux qui
-
-[p. 182]
-
-la soutiennent le plus vivement parlent d'une chose dont ils n'ont pas la moindre idée.
+Quant à prétendre que cette croyance du sens commun tient à quelque élément constitutif de notre nature, à quelque loi primordiale de notre esprit, c'est ce que l'on n'a pas le droit de faire. L'affirmation de l'existence de l'univers comme tout à fait indépendante de la pensée est si peu même une loi de l'esprit, que cette prétendue existence indépendante ne peut pas entrer dans l'esprit, et que ceux qui [p. 182] la soutiennent le plus vivement parlent d'une chose dont ils n'ont pas la moindre idée.
 
 Lorsque je dis d'un objet qu'il a telle couleur, telle forme, tel poids, je pense énoncer des données diverses de la représentation. Si l'on me dit que cet objet a d'autres propriétés encore que j'ignore, j'en conviendrai volontiers, car je ne pense point que ma représentation actuelle soit « la mesure de toutes choses, » et que mon esprit crée, pour les donner à cet objet,
 
@@ -3154,11 +2540,7 @@ comment
 
 pourra-t-il
 
-existe
-
-[p. 183]
-
-ainsi ? Est- ce avec des qualités irréprésentables ?
+existe [p. 183] ainsi ? Est- ce avec des qualités irréprésentables ?
 
 Celles-là pour nous n'étant absolument rien, nous n'avons pas le droit d'en parler, ni surtout de dire que nous concevons qu'il puisse en exister de telles. C'est donc avec des qualités représentables, et qui, par hypothèse, sont censées exister d'une manière absolue et indépendamment de toute représentation.
 
@@ -3170,17 +2552,9 @@ Pour que je puisse croire à l'existence de quelque chose qui subsiste en soi et
 
 il est nécessaire que je pense l'objet lui-même, sous peine de concevoir l'existence de rien du tout. Cela étant, je puis
 
-très légitimement attribuer à d'autres esprits infé
+très légitimement attribuer à d'autres esprits infé [p. 184] rieurs, égaux ou supérieurs au mien, une existence absolue telle qu'est la mienne ; attendu que je comprends très bien que ce que je trouve réalisé en moi-même puisse être réalisé encore à des degrés divers en dehors de moi. Je puis même prêter une existence absolue aux objets de ma représentation : en le faisant, j'ai tort sans doute, puisque le représenté ne peut jamais être quelque chose d'absolu ; mais enfin je le puis, du moment que, ces objets de ma représentation, je les pense. Quant à la prétendue chose en soi, il m'est tout à fait impossible de la concevoir, puisque, par définition, elle n'est ni représentée ni représentable. Qu'estelle donc pour moi ? Un mot, et un mot absolument vide de sens. En parler, et affirmer son existence, c'est donc un pur psittacisme ; c'est poser un jugement tel que celui-ci : x est possible, sans pouvoir déterminer x en aucune manière, ce qui réduit la proposition à n'avoir pas de sujet effectif, et à demeurer purement verbale.
 
-[p. 184]
-
-rieurs, égaux ou supérieurs au mien, une existence absolue telle qu'est la mienne ; attendu que je comprends très bien que ce que je trouve réalisé en moi-même puisse être réalisé encore à des degrés divers en dehors de moi. Je puis même prêter une existence absolue aux objets de ma représentation : en le faisant, j'ai tort sans doute, puisque le représenté ne peut jamais être quelque chose d'absolu ; mais enfin je le puis, du moment que, ces objets de ma représentation, je les pense. Quant à la prétendue chose en soi, il m'est tout à fait impossible de la concevoir, puisque, par définition, elle n'est ni représentée ni représentable. Qu'estelle donc pour moi ? Un mot, et un mot absolument vide de sens. En parler, et affirmer son existence, c'est donc un pur psittacisme ; c'est poser un jugement tel que celui-ci : x est possible, sans pouvoir déterminer x en aucune manière, ce qui réduit la proposition à n'avoir pas de sujet effectif, et à demeurer purement verbale.
-
-Quelles que soient à cet égard les répugnances du sens commun, il est incontestable pour quiconque a tant soit peu réfléchi sur ces matières, que l'esprit ne connaît rien directement et immédiatement, sinon lui-même et sa pensée ; et que, pour avoir pris un caractère extérieur et
-
-[p. 185]
-
-objectif par rapport à l'esprit, le monde dans lequel nous vivons n'en est pas moins une représentation ou un groupe de représentations.
+Quelles que soient à cet égard les répugnances du sens commun, il est incontestable pour quiconque a tant soit peu réfléchi sur ces matières, que l'esprit ne connaît rien directement et immédiatement, sinon lui-même et sa pensée ; et que, pour avoir pris un caractère extérieur et [p. 185] objectif par rapport à l'esprit, le monde dans lequel nous vivons n'en est pas moins une représentation ou un groupe de représentations.
 
 Il est sans doute inutile d'ajouter que ces représentations par lesquelles est constitué l'univers sont l'œuvre de chacun de nous, et par conséquent sont purement individuelles. Mais, pour être à cet égard individuel et subjectif, l'univers n'en est pas moins à un autre point de vue réellement universel et objectif. Nos représentations en effet ne sont pas quelconques ; elles expriment tout d'abord l'esprit lui-même : mais la nature de l'esprit ne diffère pas d'homme à homme et nous avons même eu occasion de dire qu'entre l'homme et l'animal, et aussi sans doute entre l'homme et Dieu,
 
@@ -3188,11 +2562,7 @@ les différences
 
 essentielles sont des différences de degré. De là il résulte que l'univers donné dans chaque esprit en particulier est pourtant universel. Puis la représentation obéit à des lois qui sont celles de l'esprit, mais que l'esprit n'a pas faites, et qu'il ne peut modifier ; d'où le caractère d'objectivité avec lequel nous apparaissent les choses extérieures. C'est précisément cet ordre absolu, cet enchaînement rigoureux de nos représentations qui constitue ce que la science appelle les lois des phénomènes, et ce qu'elle a pour objet de découvrir.
 
-C'est en vertu de ces lois que, par exemple,
-
-[p. 186]
-
-l'analyse de deux volumes d'eau résout cette eau en deux volumes d'hydrogène et un d'oxygène, que les orbites des planètes
+C'est en vertu de ces lois que, par exemple, [p. 186] l'analyse de deux volumes d'eau résout cette eau en deux volumes d'hydrogène et un d'oxygène, que les orbites des planètes
 
 sont des ellipses dont le soleil occupe l'un des foyers, et le reste. En constituant la représentation actuelle, la représentation de fait, l'esprit pose donc en même temps une multitude sans
 
@@ -3204,11 +2574,7 @@ lorsqu'il
 
 constitue l'une quelconque de ses représentations. Aussi, quand il découvre quelque vérité scientifique, ne fait-il que se répéter, et son existence passe à se répéter sans cesse sous mille formes, l'erreur consistant pour lui à s'écarter du thème qu'il a posé une première fois et pour toujours.
 
-Ainsi, et pour nous résumer sur ce point, la doctrine idéaliste telle que nous l'entendons ne nie pas la réalité du monde extérieur : seule au contraire elle permet d'y reconnaître les caractères de l'existence véritable, la substantialité et la causalité. Si elle paraît nier cette existence, c'est seulement en un sens où cette
-
-[p. 187]
-
-existence est impossible etinintelligible ; de plus elle rend compte de l'illusion en vertu de laquelle les hommes tendent à attribuer à l'univers l'existence ainsi comprise. En même temps qu'elle reconnaît l'existence réelle de cet univers, la doctrine idéaliste explique encore le caractère
+Ainsi, et pour nous résumer sur ce point, la doctrine idéaliste telle que nous l'entendons ne nie pas la réalité du monde extérieur : seule au contraire elle permet d'y reconnaître les caractères de l'existence véritable, la substantialité et la causalité. Si elle paraît nier cette existence, c'est seulement en un sens où cette [p. 187] existence est impossible etinintelligible ; de plus elle rend compte de l'illusion en vertu de laquelle les hommes tendent à attribuer à l'univers l'existence ainsi comprise. En même temps qu'elle reconnaît l'existence réelle de cet univers, la doctrine idéaliste explique encore le caractère
 
 d'objectivité qu'il possède, et l'universalité de la notion que s'en font les hommes et même les animaux.
 
@@ -3230,19 +2596,13 @@ satisfaction
 
 aux besoins légitimes de la conscience humaine, en même temps qu'aux exigences impérieuses du véritable esprit et de la véritable méthode de la science ; et nous nous estimerions trop heureux d'avoir pu contribuer, si peu que ce soit, à son succès et à sa diffusion dans le monde.
 
-[p. 188]
-
-[p. 189]
+[p. 188] [p. 189]
 
 ## Conclusion
 
 Jusqu'à D. Hume, tous les philosophes, sauf Aristote et Leibnitz, se sont fait de la nature de l'esprit une idée telle qu'ils devaient,
 
-s'ils voulaient rester d'accord avec eux-mêmes, se représenter l'esprit comme naturellement indéterminé, comme quelque chose qui de soi-même et par son essence n'était rien. Ceux de ces philosophes qui n'admettaient pas la doctrine sensualiste paraissent ne s'être pas bien rendu compte de cette conséquence où aboutissait nécessairement pourtant leur théorie sur l'origine de nosidées. Les sensualistes au contraire l'aperçurent nettement de très bonne heure, et l'acceptèrent pleinement. Ils crurent même devoir employer une métaphore pour exprimer aussi clairement que possible leur manière de comprendre la nature de l'esprit, et pour cela ils empruntèrent à Aristote un terme dont celui-ci
-
-[p. 190]
-
-s'était servi dans un sens un peu différent, celui de table rase. La doctrine de la table rase était au fond une doctrine grossière ; aussi était-elle condamnée à disparaître devant les progrès de la pensée philosophique. Mais, comme c'était surtout dans l'école sensualiste qu'elle s'était produite sous sa forme la plus naïve et la plus contraire à la raison, c'est aussi de cette même école que vint la première protestation vraiment efficace
+s'ils voulaient rester d'accord avec eux-mêmes, se représenter l'esprit comme naturellement indéterminé, comme quelque chose qui de soi-même et par son essence n'était rien. Ceux de ces philosophes qui n'admettaient pas la doctrine sensualiste paraissent ne s'être pas bien rendu compte de cette conséquence où aboutissait nécessairement pourtant leur théorie sur l'origine de nosidées. Les sensualistes au contraire l'aperçurent nettement de très bonne heure, et l'acceptèrent pleinement. Ils crurent même devoir employer une métaphore pour exprimer aussi clairement que possible leur manière de comprendre la nature de l'esprit, et pour cela ils empruntèrent à Aristote un terme dont celui-ci [p. 190] s'était servi dans un sens un peu différent, celui de table rase. La doctrine de la table rase était au fond une doctrine grossière ; aussi était-elle condamnée à disparaître devant les progrès de la pensée philosophique. Mais, comme c'était surtout dans l'école sensualiste qu'elle s'était produite sous sa forme la plus naïve et la plus contraire à la raison, c'est aussi de cette même école que vint la première protestation vraiment efficace
 
 contre une erreur vieille de tant de siècles. Hume
 
@@ -3254,11 +2614,7 @@ aucune révélation de cet esprit que leurs prédécesseurs avaient supposé pr�
 
 Il y avait donc, dans cette transformation de la philosophie des sens, un grand progrès au point de vue théorique ; mais la table rase ne disparut pas pour cela.
 
-Dans l'école opposée à l'école empirique, on considérait comme inadmissible que la sensation fût le principe unique et la source de toutes nos idées. Aussi crut-on devoir doter l'esprit d'idées
-
-[p. 191]
-
-toutes faites, ou du moins de facultés, de dispositions innées à produire les idées. Nous ne nous attacherons pas à examiner quelle pouvait être la valeur théorique d'une pareille conception, et nous nous contenterons d'une simple observation. Les idées innées, par hypothèse, sont absolument primitives et irréductibles leurs objets ne peuvent donc être définis. De plus, par hypothèse encore, elles sont absolument étrangères à l'ordre expérimental ; leurs objets ne sont donc pas représentables, puisque très certainement rien ne peut entrer dans la représentation qui ne
+Dans l'école opposée à l'école empirique, on considérait comme inadmissible que la sensation fût le principe unique et la source de toutes nos idées. Aussi crut-on devoir doter l'esprit d'idées [p. 191] toutes faites, ou du moins de facultés, de dispositions innées à produire les idées. Nous ne nous attacherons pas à examiner quelle pouvait être la valeur théorique d'une pareille conception, et nous nous contenterons d'une simple observation. Les idées innées, par hypothèse, sont absolument primitives et irréductibles leurs objets ne peuvent donc être définis. De plus, par hypothèse encore, elles sont absolument étrangères à l'ordre expérimental ; leurs objets ne sont donc pas représentables, puisque très certainement rien ne peut entrer dans la représentation qui ne
 
 soit ou n'ait été donné dans l'expérience. Il semble bien, d'après cela, qu'une idée innée, ce soit l'idée d'une chose que nous ne connaissons point. Mais le point sur lequel nous voulons appeler l'attention, c'est que, par leur théorie de l'innéité, les idéalistes
 
@@ -3270,11 +2626,7 @@ effectivement
 
 sans
 
-posséder aucune forme ni aucune nature propre : si ces
-
-[p. 192]
-
-déterminations sont, par rapport au temps, contemporaines de l'esprit lui-même, sans pour cela tenir à son essence, on admet que l'esprit était en soi indifférent à toutes les formes qu'il pourrait recevoir ; sorte de pâte molle qu'une main divine sans doute, mais enfin une main opérant du dehors a pétrie et façonnée. Dans les deux cas le résultat est le même, et nous sommes toujours en présence de cette absurdité d'une matière purement passive et absolument indéterminée, d'un esprit qu'on prétend être, sans accepter qu'il soit quelque chose. Or que sont les idées et les facultés innées de Descartes, que sont les Formes a priori de la Sensibilité et les Catégories de l'Entendement chez Kant, sinon des
+posséder aucune forme ni aucune nature propre : si ces [p. 192] déterminations sont, par rapport au temps, contemporaines de l'esprit lui-même, sans pour cela tenir à son essence, on admet que l'esprit était en soi indifférent à toutes les formes qu'il pourrait recevoir ; sorte de pâte molle qu'une main divine sans doute, mais enfin une main opérant du dehors a pétrie et façonnée. Dans les deux cas le résultat est le même, et nous sommes toujours en présence de cette absurdité d'une matière purement passive et absolument indéterminée, d'un esprit qu'on prétend être, sans accepter qu'il soit quelque chose. Or que sont les idées et les facultés innées de Descartes, que sont les Formes *a priori* de la Sensibilité et les Catégories de l'Entendement chez Kant, sinon des
 
 déterminations
 
@@ -3284,11 +2636,7 @@ Essaiera-t-on de soutenir qu'admettre avec Descartes et avec Kant des facultés 
 
 et par conséquent à la réalité de ce même esprit ? Mais, dirons-nous,
 
-si l'esprit est réellement, s'il a son mode d'action propre, quel besoin a-t-il de déterminations nouvelles qui très certainement seront en opposition avec ses déter-
-
-[p. 193]
-
-minations naturelles, et introduiront en lui le désordre et la confusion ? Ne pouvait-il pas être, en vertu de sa constitution même, tout ce qu'il fallait qu'il fût ; et était-il bien nécessaire que Dieu, en le créant, se donnât à lui-même une sorte de démenti, en défaisant son propre ouvrage au moment même qu'il le faisait ? Puis, ces déterminations dont on parle, l'esprit ne pouvait pas les recevoir ; il est ce qu'il est,
+si l'esprit est réellement, s'il a son mode d'action propre, quel besoin a-t-il de déterminations nouvelles qui très certainement seront en opposition avec ses déter-[p. 193]minations naturelles, et introduiront en lui le désordre et la confusion ? Ne pouvait-il pas être, en vertu de sa constitution même, tout ce qu'il fallait qu'il fût ; et était-il bien nécessaire que Dieu, en le créant, se donnât à lui-même une sorte de démenti, en défaisant son propre ouvrage au moment même qu'il le faisait ? Puis, ces déterminations dont on parle, l'esprit ne pouvait pas les recevoir ; il est ce qu'il est,
 
 et ne peut être autrement ; et s'il pouvait les recevoir, comme on le prétend, c'est qu'en tant qu'il les recevait il était passif, il était indéterminé,
 
@@ -3306,11 +2654,7 @@ qu'elles tiennent au contraire à sa constitution intime, qu'elles expriment l'e
 
 il devient une sorte de substratum indéterminé, une véritable « pierre pensante » ; et dans ce cas, pour les
 
-13
-
-[p. 194]
-
-raisons que nous avons indiquées, on est pleinement dans la théorie de la table rase. Si l'on dit que l'esprit est une pensée, il faut alors lui reconnaître les caractères de la pensée. Or la pensée
+13 [p. 194] raisons que nous avons indiquées, on est pleinement dans la théorie de la table rase. Si l'on dit que l'esprit est une pensée, il faut alors lui reconnaître les caractères de la pensée. Or la pensée
 
 est éminemment et sur toutes choses la pensée d'elle-même ; c'est-à-dire qu'elle est conscience. Si donc l'esprit est une pensée, il a de lui-même une conscience pleine, absolue, adéquate ;
 
@@ -3324,11 +2668,7 @@ son activité,
 
 les lois suivant lesquelles il pense, viennent encore de cette conscience même, et ne peuvent exprimer autre chose que lui.
 
-S'il en est ainsi, Descartes qui réduit l'esprit à n'être qu'une pensée pure, puisqu'il réduit à la pensée toute la substance spirituelle, semble bien être à l'abri de tout reproche, et ne devoir pas être compté parmi les partisans inavoués de la table rase. Mais ce n'est pas là, tant s'en faut, le véritable fond de la doctrine de Des-
-
-[p. 195]
-
-cartes ; et l'esprit pensée pure excluant toute détermination du dehors
+S'il en est ainsi, Descartes qui réduit l'esprit à n'être qu'une pensée pure, puisqu'il réduit à la pensée toute la substance spirituelle, semble bien être à l'abri de tout reproche, et ne devoir pas être compté parmi les partisans inavoués de la table rase. Mais ce n'est pas là, tant s'en faut, le véritable fond de la doctrine de Des-[p. 195]cartes ; et l'esprit pensée pure excluant toute détermination du dehors
 
 résumerait fort mal sa métaphysique. S'il dit quelque part qu'il y a seulement deux substances, l'étendue
 
@@ -3344,15 +2684,9 @@ Il faut donc renoncer à dire que Descartes n'admet point dans l'esprit de déte
 
 essentielles, et ne soient véritablement constitutives de sa nature.[^p195-1]
 
-[p. 196]
+[p. 196] Il en est de même pour Kant. Sans doute la doctrine de Kant constitue, au point de vue où nous sommes placés en ce moment, un progrès considérable sur celles qui l'ont précédée, et une première réaction de l'école rationaliste et aprioriste contre la théorie de l'esprit passif et indéterminé ; puisque, suivant Kant, ce n'est plus dans les choses qu'il faut chercher à découvrir ce qui peut expliquer l'esprit, mais dans lesprit qu'il faut chercher ce qui peut expliquer les choses. L'esprit dès lors, au lieu de recevoir la loi de l'univers, impose à l'univers sa loi. Mais, s'il est affranchi à ce point de vue, il n'en demeure pas moins pareil à « l'argile entre les mains du potier ». Pour les prédécesseurs de Kant, le potier c'était la nature extérieure, s'ils étaient sensualistes, ou Dieu lui-même,
 
-Il en est de même pour Kant. Sans doute la doctrine de Kant constitue, au point de vue où nous sommes placés en ce moment, un progrès considérable sur celles qui l'ont précédée, et une première réaction de l'école rationaliste et aprioriste contre la théorie de l'esprit passif et indéterminé ; puisque, suivant Kant, ce n'est plus dans les choses qu'il faut chercher à découvrir ce qui peut expliquer l'esprit, mais dans lesprit qu'il faut chercher ce qui peut expliquer les choses. L'esprit dès lors, au lieu de recevoir la loi de l'univers, impose à l'univers sa loi. Mais, s'il est affranchi à ce point de vue, il n'en demeure pas moins pareil à « l'argile entre les mains du potier ». Pour les prédécesseurs de Kant, le potier c'était la nature extérieure, s'ils étaient sensualistes, ou Dieu lui-même,
-
-s'ils étaient rationalistes, mais Dieu obligé à pétrir et à façonner l'esprit de telle sorte que sa raison fût en harmonie avec les lois de la nature extérieure. Pour Kant, le potier c'est Dieu encore apparemment, mais Dieu affranchi cette fois de toute nécessité extrinsèque, et travaillant en toute liberté ; et cependant c'est Dieu imposant à l'esprit des déterminations que sa nature et son essence ne comportaient pas par ellesmêmes. Nulle part, que nous sachions, il n'est dit dans les ouvrages de Kant que l'esprit hu-
-
-[p. 197]
-
-main aurait pu recevoir d'autres déterminations que les Formes de la Sensibilité et les Catégories de l'Entendement ; mais c'est une conséquence manifeste de la doctrine,
+s'ils étaient rationalistes, mais Dieu obligé à pétrir et à façonner l'esprit de telle sorte que sa raison fût en harmonie avec les lois de la nature extérieure. Pour Kant, le potier c'est Dieu encore apparemment, mais Dieu affranchi cette fois de toute nécessité extrinsèque, et travaillant en toute liberté ; et cependant c'est Dieu imposant à l'esprit des déterminations que sa nature et son essence ne comportaient pas par ellesmêmes. Nulle part, que nous sachions, il n'est dit dans les ouvrages de Kant que l'esprit hu-[p. 197]main aurait pu recevoir d'autres déterminations que les Formes de la Sensibilité et les Catégories de l'Entendement ; mais c'est une conséquence manifeste de la doctrine,
 
 et si des Kantiens voulaient le nier, il n'en resterait pas moins incontestable que ces déterminations de l'esprit faussent sa nature et son essence, puisque, comme nous l'avons dit plus haut, une détermination quelconque de
 
@@ -3366,11 +2700,7 @@ Au commencement de ce siècle, un philosophe
 
 français, Maine de Biran, fit pour la doctrine rationaliste ce que Hume avait fait pour la doctrine empirique :
 
-il la débarrassa de la
-
-[p. 198]
-
-table rase. Mais, moins heureux que son devancier de l'école adverse, il n'eut pas l'honneur de rendre complète la défaite de l'ennemi, et de voir passer dans son camp tous ceux qui comme lui croyaient à la nécessité de reconnaître dans l'esprit autre chose que le pur et simple
+il la débarrassa de la [p. 198] table rase. Mais, moins heureux que son devancier de l'école adverse, il n'eut pas l'honneur de rendre complète la défaite de l'ennemi, et de voir passer dans son camp tous ceux qui comme lui croyaient à la nécessité de reconnaître dans l'esprit autre chose que le pur et simple
 
 phénomène
 
@@ -3384,11 +2714,7 @@ tout autres que celles que nous avons exposées, par aversion surtout pour les i
 
 il crut pouvoir rattacher à la conscience ces notions et ces principes était peutêtre défectueuse, il faut reconnaître pourtant que l'idée mère du système était d'une justesse et d'une profondeur admirables. Comme il fondait sur l'expérience
 
-interne la raison tout entière, il a pu passer quelquefois pour un demi-empiriste ; mais ce demi-empiriste, si l'on veut s'obstiner à le nommer ainsi, a été le seul avec Leibnitz, qui du reste lui avait préparé les voies, ou du moins a été le premier qui ait eu de la nature de l'esprit une idée vraiment exacte et profonde, et qui l'ait conçu comme il
-
-[p. 199]
-
-fautle concevoir pour que sa réalité ne devienne pas impossible.
+interne la raison tout entière, il a pu passer quelquefois pour un demi-empiriste ; mais ce demi-empiriste, si l'on veut s'obstiner à le nommer ainsi, a été le seul avec Leibnitz, qui du reste lui avait préparé les voies, ou du moins a été le premier qui ait eu de la nature de l'esprit une idée vraiment exacte et profonde, et qui l'ait conçu comme il [p. 199] fautle concevoir pour que sa réalité ne devienne pas impossible.
 
 Le reproche d'empirisme, si c'en est un, car en vérité ce n'est pas juger une doctrine que de lui appliquer une épithète, — est du reste aussi peu applicable que possible à Maine de Biran. Le trait caractéristique de la philosophie empirique, c'est de subordonner l'esprit aux choses, de faire constituer en quelque sorte l'esprit par les idées qui lui viennent des choses. Comment d'après cela traiter d'empiriste un philosophe qui subordonne tout à l'esprit ; aux yeux duquel l'univers n'est intelligible ni même réel qu'à la condition d'obéir à des lois qui soient en harmonie et en correspondance exacte avec celles de l'esprit, ces dernières étant par leur nature antérieures et supérieures à toutes les autres ? Nous aurions cru, pour notre part, que le nom d'empiristes convenait beaucoup mieux à des philosophes qui, donnant à l'univers une existence indépendante et une sorte d'autonomie par rapport à l'esprit, font de nos représentations des copies des choses extérieures, et assujettissent l'esprit aux lois d'un monde dont il dépend nécessairement, puisque ce n'est pas ce monde qui dépend de lui.
 
@@ -3400,11 +2726,7 @@ le
 
 reproche
 
-d'empirisme
-
-[p. 200]
-
-adressé à Maine de Biran a-t-il une cause spéciale. Maine de Biran n'admet pas qu'il puisse exister dans l'esprit aucune idée qui ne procède directement ou indirectement de l'expérience, et surtout de l'expérience interne, de la conscience. Le grief, à notre avis, serait peu sérieux. Discuter à fond la question à ce point de vue serait ici hors de saison. Les arguments qu'on pourrait invoquer contre cette théorie cartésienne d'après laquelle nous aurions des conceptions spontanées,
+d'empirisme [p. 200] adressé à Maine de Biran a-t-il une cause spéciale. Maine de Biran n'admet pas qu'il puisse exister dans l'esprit aucune idée qui ne procède directement ou indirectement de l'expérience, et surtout de l'expérience interne, de la conscience. Le grief, à notre avis, serait peu sérieux. Discuter à fond la question à ce point de vue serait ici hors de saison. Les arguments qu'on pourrait invoquer contre cette théorie cartésienne d'après laquelle nous aurions des conceptions spontanées,
 
 ou plutôt des intuitions, des révélations de ce dont nous n'avons nulle expérience par les sens ou par la conscience,
 
@@ -3422,11 +2744,7 @@ L'esprit est roi ou il n'est rien. S'il n'a pas en lui-même la raison dernière
 
 lui et sans lui, peu importe qu'on admette une intervention directe des choses dans la production de la pensée, ou seulement une
 
-concordance entre les lois de la pensée et celles des choses ;
-
-[p. 201]
-
-l'esprit, dans un cas comme dans l'autre, est subordonné ; sa nature,
+concordance entre les lois de la pensée et celles des choses ; [p. 201] l'esprit, dans un cas comme dans l'autre, est subordonné ; sa nature,
 
 sa constitution sont l'œuvre de puissances étrangères ; il subit leur action, il est passif, il est table rase. L'esprit n'est donc réellement qu'à la condition d'être absolument autonome, et par conséquent de ne recevoir de lois que de lui-même ; ce qui revient à dire qu'il puise dans la conscience de soi les éléments de toute pensée relative à ce qui n'est pas lui. L'idéalisme de Maine de Biran n'est donc pas seulement une doctrine pure de tout
 
@@ -3436,11 +2754,7 @@ Ainsi, point de facultés dans l'esprit ; point de déterminations à penser qui
 
 L'esprit est essentiellement une pensée pure sans autre objet qu'elle-même, et à cet égard, sa filiation par rapport à l'esprit divin est immédiate. Quant aux déterminations à penser que nous y devons reconnaître, elles tiennent, non pas à ce qu'il est, mais plutôt à ce qu'il n'est pas, c'est-à-dire à ce qui lui manque
 
-ce sont tout à la fois les conséquences et les indices certains de son imperfection. Nous avons essayé de montrer comment elles s'y produisent, et
-
-[p. 202]
-
-comment elles deviennent les causes génératrices de cet univers. Ainsi c'est dans l'esprit, et dans l'esprit tout seul qu'il faut chercher la raison dernière de toutes choses, et de ce qui passe et de ce qui demeure, et de l'apparence et de la réalité, et du moi et de l'univers : dans l'esprit, disons-nous, défini une pensée qui se pense elle-même
+ce sont tout à la fois les conséquences et les indices certains de son imperfection. Nous avons essayé de montrer comment elles s'y produisent, et [p. 202] comment elles deviennent les causes génératrices de cet univers. Ainsi c'est dans l'esprit, et dans l'esprit tout seul qu'il faut chercher la raison dernière de toutes choses, et de ce qui passe et de ce qui demeure, et de l'apparence et de la réalité, et du moi et de l'univers : dans l'esprit, disons-nous, défini une pensée qui se pense elle-même
 
 ; et, comme cette dernière proposition est tautologique,
 
@@ -3448,11 +2762,7 @@ il nous sera permis de nous résumer sous cette formule plus brève : le princip
 
 La conclusion nécessaire de la théorie dont nous venons d'esquisser les principaux traits c'est l'idéalisme, et c'est le terme auquel nous devons nous arrêter. Du reste nous ne nous dissimulons nullement que ce point auquel aboutit logiquementla présente étude est précisément celui à partir duquel commencent les difficultés les plus grandes. Une théorie de la connaissance ne peut jamais être qu'une introduction à l'étude de la philosophie elle-même. Quand elle a été constituée, toute la métaphysique de la nature
 
-et celle de l'esprit restent à faire. Or c'est là la grande œuvre, une œuvre qui, à vrai dire, passe infiniment les forces d'un seul homme, et celles
-
-[p. 203]
-
-même de toute une génération. Ajoutons que cette œuvre, dans les conditions où nous sommes placés,
+et celle de l'esprit restent à faire. Or c'est là la grande œuvre, une œuvre qui, à vrai dire, passe infiniment les forces d'un seul homme, et celles [p. 203] même de toute une génération. Ajoutons que cette œuvre, dans les conditions où nous sommes placés,
 
 étant donnée notre théorie de la connaissance, présente des difficultés particulièrement redoutables. Il existe du problème métaphysique général des solutions assez simples, celle qui consiste par exemple à supposer qu'il y a entre les différentes substances dont l'univers des choses en soi est composé, une certaine communication et une action réciproque ayant pour résultat la multiplicité des phénomènes d'où résulte pour nous l'univers sensible. Cette solution et d'autres encore qui s'en rapprochent plus ou moins une fois écartées comme insuffisantes, nous voilà contraints de chercher des solutions plus complexes. Ajoutons que la nature même des prémisses que nous avons posées n'est pas telle qu'on puisse se flatter d'en tirer aisément la conclusion. Ainsi nous avons parlé d'une pensée plus intime et plus profonde, hétérogène à la représentation proprement dite, et qui n'est autre chose en réalité que l'action de l'esprit dirigeant la pensée actuelle et représentative.
 
@@ -3460,19 +2770,11 @@ Si l'on admettait nos principes,
 
 il faudrait nécessairement étudier cette pensée plus intime dont nous n'avons pu que dire un mot en passant et de la manière la plus vague.
 
-Ce serait toute une théorie de la sensibilité et
-
-[p. 204]
-
-de la volonté à constituer. Mais la difficulté capitale serait encore d'expliquer les relations des esprits entre eux et avec l'univers de leur création ; surtout si la réalité du devoir et de la responsabilité morale était déclarée définitivement incompatible avec le déterminisme, et s'il fallait faire une part à la contingence dans les phénomènes, ce qui forcerait à expliquer comment cet univers, sans être dans sa totalité le produit de lois inflexibles de notre constitution mentale,
+Ce serait toute une théorie de la sensibilité et [p. 204] de la volonté à constituer. Mais la difficulté capitale serait encore d'expliquer les relations des esprits entre eux et avec l'univers de leur création ; surtout si la réalité du devoir et de la responsabilité morale était déclarée définitivement incompatible avec le déterminisme, et s'il fallait faire une part à la contingence dans les phénomènes, ce qui forcerait à expliquer comment cet univers, sans être dans sa totalité le produit de lois inflexibles de notre constitution mentale,
 
 est pourtant le même pour tous les esprits ; et comment les modifications contingentes que chacun y peut apporter ont un écho dans la conscience des autres. Puis, combien de problèmes se rattachant à ceux-là, qui se présentent d'eux-mêmes à l'esprit, et dont la complexité est effrayante !
 
-Heureusement, celui qui voudrait aborder une pareille étude ne serait pas condamné à y entrer au hasard. Le résultat capital auquel nous aboutissons si nous ne nous sommes pas absolument trompé, ce n'est pas seulement de poser la question métaphysique un peu autrement qu'on ne la pose pour l'ordinaire, c'est aussi de fournir une méthode qui puisse servir à la résoudre. Cette méthode est celle qui consiste à étudier les manifestations spontanées de l'activité de l'esprit, à en dégager les notions qu'elles contiennent,
-
-[p. 205]
-
-lesquelles ont une valeur absolue au point de vue métaphysique, et à prendre ces notions comme point de départ et comme base de la théorie.
+Heureusement, celui qui voudrait aborder une pareille étude ne serait pas condamné à y entrer au hasard. Le résultat capital auquel nous aboutissons si nous ne nous sommes pas absolument trompé, ce n'est pas seulement de poser la question métaphysique un peu autrement qu'on ne la pose pour l'ordinaire, c'est aussi de fournir une méthode qui puisse servir à la résoudre. Cette méthode est celle qui consiste à étudier les manifestations spontanées de l'activité de l'esprit, à en dégager les notions qu'elles contiennent, [p. 205] lesquelles ont une valeur absolue au point de vue métaphysique, et à prendre ces notions comme point de départ et comme base de la théorie.
 
 Si la difficulté de l'entreprise est grande,
 
@@ -3484,17 +2786,11 @@ Par exemple, quelle lumière une connaissance précise de la nature de la causal
 
 C'est que,
 
-dans ce cas, nous reviendrions à cette hypothèse par le véritable chemin ; et qu'il n'est nullement impossible qu'une théorie rejetée à bon droit quand on était placé à un certain
-
-[p. 206]
-
-point de vue, doive être pleinement acceptée quand on s'est placé à un point de vue différent. Ajoutons que si l'emploi régulier de la méthode nous conduisait à reconnaître l'existence d'une telle action, ce ne serait plus sans en déterminer la nature en quelque manière, ce qui est évidemment le point capital de la question.
+dans ce cas, nous reviendrions à cette hypothèse par le véritable chemin ; et qu'il n'est nullement impossible qu'une théorie rejetée à bon droit quand on était placé à un certain [p. 206] point de vue, doive être pleinement acceptée quand on s'est placé à un point de vue différent. Ajoutons que si l'emploi régulier de la méthode nous conduisait à reconnaître l'existence d'une telle action, ce ne serait plus sans en déterminer la nature en quelque manière, ce qui est évidemment le point capital de la question.
 
 Quoi qu'il en soit, il nous serait impossible de prévoir dès maintenant à quel point doit aboutir la voie que nous nous sommes efforcé d'indiquer. Cette voie est un tunneldont nous ne pouvons que montrer l'orifice, laissant à de plus braves et à de plus forts l'honneur de s'y engager ; si toutefois il en est parmi ceux qui sont braves et forts, qui veuillent bien se résoudre à tenter l'entreprise. Nous avons cru entrevoir une nouvelle manière de poser le problème métaphysique, et une nouvelle méthode pour le résoudre : qu'on nous pardonne cette témérité ; mais nous n'avons jamais prétendu rechercher ni fournir la solution du problème lui-même.
 
-[p. 207]
-
-NOTE
+[p. 207] NOTE
 
 #### I
 
@@ -3510,17 +2806,9 @@ antinomie
 
 absolue, ce qui revenait à la déclarer insoluble. Cette question est celle de la limitation ou de l'illimitation du monde quant à l'espace et quant au temps.
 
-On reconnaît de suite qu'il s'agit ici d'une question de fait : le monde est-il actuellement étendu sans fin ou non ? le monde a-t-il au moment présent duré un nombre infini de jours, d'années, de siècles, ou non ? Du reste, pour être une question de fait, l'infinité ou la noninfinité du monde n'en présente pas moins ce caractère particulier de relever, non de l'astronomie ou de toute autre science de la nature, mais de la métaphysique. C'est évidemment le
+On reconnaît de suite qu'il s'agit ici d'une question de fait : le monde est-il actuellement étendu sans fin ou non ? le monde a-t-il au moment présent duré un nombre infini de jours, d'années, de siècles, ou non ? Du reste, pour être une question de fait, l'infinité ou la noninfinité du monde n'en présente pas moins ce caractère particulier de relever, non de l'astronomie ou de toute autre science de la nature, mais de la métaphysique. C'est évidemment le [p. 208] métaphysicien seul qui peut la résoudre, si toutefois elle n'est pas insoluble par nature.
 
-[p. 208]
-
-métaphysicien seul qui peut la résoudre, si toutefois elle n'est pas insoluble par nature.
-
-Quant à l'espace, M. Renouvier et plusieurs autres philosophes croient devoir nier l'infinité du monde, parce que, disent-ils, cette infinité est contradictoire, impliquant le nombre infini réalisé. Pour nous, nous pensons que, dans la raison qu'on allègue, il y a une confusion. On conçoit, à ce qu'il semble, que la contradiction puisse s'introduire dans nos représentations à deux points de vue différents : ou bien la représentation est telle que l'on s'engage dans des contradictions inévitables si l'on veut la considérer comme autre chose qu'une représentation, et lui attribuer les caractères d'une chose en soi ; ou bien la représentation considérée comme telle, et indépendamment de toute hypothèse sur la réalité absolue de son objet, contient des éléments qui s'excluent les uns les autres, et dans l'opposition desquels la pensée entre en lutte avec elle-même. La représentation admet bien la contradiction au premier point de vue, et nous l'avons montré amplement, d'accord avec M. Renouvier lui-même ; au second point de vue, elle ne l'admet pas. La raison en est que la pensée opère suivant ses lois, lesquelles expriment sa nature, et que ces lois, expression de sa nature, ne peuvent la
-
-[p. 209]
-
-jeter dans des contradictions où elle s'anéantirait. Si donc tous les arguments que l'on peut opposer à l'infinité du monde quant à l'espace peuvent se réduire à celui de la contradiction, comme le pense d'ailleurs M. Renouvier¹, toute la question se réduit à déterminer si l'infinité du monde en extension est contradictoire au premier point de vue ou au second.
+Quant à l'espace, M. Renouvier et plusieurs autres philosophes croient devoir nier l'infinité du monde, parce que, disent-ils, cette infinité est contradictoire, impliquant le nombre infini réalisé. Pour nous, nous pensons que, dans la raison qu'on allègue, il y a une confusion. On conçoit, à ce qu'il semble, que la contradiction puisse s'introduire dans nos représentations à deux points de vue différents : ou bien la représentation est telle que l'on s'engage dans des contradictions inévitables si l'on veut la considérer comme autre chose qu'une représentation, et lui attribuer les caractères d'une chose en soi ; ou bien la représentation considérée comme telle, et indépendamment de toute hypothèse sur la réalité absolue de son objet, contient des éléments qui s'excluent les uns les autres, et dans l'opposition desquels la pensée entre en lutte avec elle-même. La représentation admet bien la contradiction au premier point de vue, et nous l'avons montré amplement, d'accord avec M. Renouvier lui-même ; au second point de vue, elle ne l'admet pas. La raison en est que la pensée opère suivant ses lois, lesquelles expriment sa nature, et que ces lois, expression de sa nature, ne peuvent la [p. 209] jeter dans des contradictions où elle s'anéantirait. Si donc tous les arguments que l'on peut opposer à l'infinité du monde quant à l'espace peuvent se réduire à celui de la contradiction, comme le pense d'ailleurs M. Renouvier¹, toute la question se réduit à déterminer si l'infinité du monde en extension est contradictoire au premier point de vue ou au second.
 
 Que l'infinité en extension d'un monde existant en soi et indépendamment de la représentation soit contradictoire, nous l'accordons sans peine. Elle est contradictoire au même titre que l'indéfinie divisibilité d'une partie limitée quelconque de ce monde, que le mouvement dans ce monde, etc. Dans tous ces différents cas, c'est toujours le nombre infini actuel et réalisé que l'on pose, et c'est là qu'est la contradiction. Donc l'infinité du monde quant à l'espace est contradictoire au premier point de vue,
 
@@ -3530,29 +2818,19 @@ Au second point de vue, cette infinité est-elle également contradictoire ? Oui
 
 effectivement dans une représentation [^p209-1]
 
-[p. 210]
-
-concrète donnée. Toute représentation, disonsnous, est nécessairement limitée ; parce que, si elle ne l'était pas, le nombre infini y entrerait à l'état d'acte et de réalité positive ; de sorte que la représentation considérée en elle_ même et pour elle-même enfermerait des éléments
+[p. 210] concrète donnée. Toute représentation, disonsnous, est nécessairement limitée ; parce que, si elle ne l'était pas, le nombre infini y entrerait à l'état d'acte et de réalité positive ; de sorte que la représentation considérée en elle_ même et pour elle-même enfermerait des éléments
 
 contradictoires, ce qui est impossible. C'est pour cela que, lorsque nous poursuivons par la pensée la division d'un élément matériel, nous nous arrêtons nécessairement à un terme fini. Mais, s'il n'entre pas dans la représentation à l'état d'acte, le nombre infini peut y entrer à l'état de puissance ; et nous
 
 le voyons bien, puisque, de l'aveu de tout le monde, une étendue limitée quelconque nous apparaît rationnellement comme indéfiniment divisible, quoique nous ne puissions en aucune façon nous représenter son infinie division. Rien n'empêche donc, semble-t-il, que le monde soit indéfiniment étendu, comme il est indéfiniment divisible, et par conséquent qu'il offre un champ illimité à la représentation dans le sens de la multiplication de ses éléments, comme dans le sens de leur division.
 
-Si l'illimitation du monde quant à l'espace ne présente rien qui introduise dans la représentation des éléments contradictoires, la limitation du monde au contraire présenterait ce caractère
-
-[p. 211]
-
-au plus haut degré. On peut le prouver de plusieurs manières.
+Si l'illimitation du monde quant à l'espace ne présente rien qui introduise dans la représentation des éléments contradictoires, la limitation du monde au contraire présenterait ce caractère [p. 211] au plus haut degré. On peut le prouver de plusieurs manières.
 
 1 ° Supposer que la course d'un mobile puisse se prolonger en dehors des limites du monde, c'est une absurdité pure et un non-sens. D'autre part, en vertu des lois du mouvement, lois qui sont données dans la représentation,
 
 et en constituent des conditions très essentielles parce qu'elles sont très générales, un mobile soustrait à l'action de quelque force que ce soit, devrait marcher indéfiniment dans l'espace suivant la même direction et avec la même vitesse. Et qui peut fonder cette possibilité indéfinie du mouvement qu'impliquent les lois fondamentales de la représentation, sinon l'infinité du monde ? N'est-il pas évident en effet que si le monde avait des limites, si reculées qu'elles pussent être, le mobile que nous supposions tout à l'heure y atteindrait nécessairement à un moment donné ; de sorte qu'il faudrait, ou bien qu'il sortît des limites de l'univers et de l'espace, chose inintelligible, ou bien qu'il cessât de se mouvoir, chose contradictoire avec les lois formelles de la représentation ?
 
-2º Si le monde est limité, il peut entrer tout entier, quelque grand qu'il soit, dans une représentation concrète donnée. Il importe peu du reste que cette représentation passe la puis
-
-[p. 212]
-
-sance de l'esprit humain. Je puis supposer de plus que cette représentation de l'univers en totalité n'épuise pas la puissance de l'esprit dans lequel elle se produit. Cet esprit pourra donc se représenter davantage, imaginer ou percevoir au delà. Or, en quoi ce qu'il ajoutera ainsi à la représentation du monde diffèrera-t-il du monde lui-même ; puisque, comme nous nous sommes
+2º Si le monde est limité, il peut entrer tout entier, quelque grand qu'il soit, dans une représentation concrète donnée. Il importe peu du reste que cette représentation passe la puis [p. 212] sance de l'esprit humain. Je puis supposer de plus que cette représentation de l'univers en totalité n'épuise pas la puissance de l'esprit dans lequel elle se produit. Cet esprit pourra donc se représenter davantage, imaginer ou percevoir au delà. Or, en quoi ce qu'il ajoutera ainsi à la représentation du monde diffèrera-t-il du monde lui-même ; puisque, comme nous nous sommes
 
 eftorcé de le démontrer plus haut, toute la réalité du monde est dans la représentation actuelle ou possible ? Le droit que nous possédons de concevoir une puissance de plus en plus grande de l'esprit et une portée de plus en plus étendue de la représentation, implique donc l'extension illimitée de l'univers des corps.
 
@@ -3564,11 +2842,7 @@ la négation de cette infinité est en contradiction avec des données positives
 
 au delà de ces astres qui
 
-gravitent à des milliards de lieues de nous, il doit en exister d'autres aussi distants des premiers que ceux-ci le sont de notre terre, puis au delà de ces autres
-
-[p. 213]
-
-d'autres encore, et ainsi de suite sans fin. Nos astronomes peuvent donc perfectionner leurs télescopes et les instruments qui leur servent à la mesure des angles ; la nature tiendra toujours en réserve des secrets qu'elle ne veut pas leur livrer.
+gravitent à des milliards de lieues de nous, il doit en exister d'autres aussi distants des premiers que ceux-ci le sont de notre terre, puis au delà de ces autres [p. 213] d'autres encore, et ainsi de suite sans fin. Nos astronomes peuvent donc perfectionner leurs télescopes et les instruments qui leur servent à la mesure des angles ; la nature tiendra toujours en réserve des secrets qu'elle ne veut pas leur livrer.
 
 Cependant une difficulté reste à éclaircir. Ces mondes qui sont hors de la portée de notre expérience,
 
@@ -3576,19 +2850,11 @@ qui par conséquent n'appartiennent point à la représentation, et qui pourtant
 
 Ces
 
-astres, pour n'être point en soi et n'être point perçus, n'en sont pas moins réels pour cela, absolument comme est réel le feu de bois que je laisse chez moi en fermant la porte, et qui continue à brûler en mon absence. Ils sont des objets permanents de sensations possibles. Nous avons dit plus haut que l'esprit constituant l'une quelconque de ses représentations en pose par là même un nombre illimité d'autres, qui toutes sont nécessaires vu leurs rapports avec la première, et qui toutes peuvent devenir actuelles à un moment donné. Dire que l'univers est infini en extension, c'est donc dire que l'esprit l'a cons
-
-[p. 214]
-
-titué tel dans la représentation, que le champ de notre expérience possible y est sans limites.
+astres, pour n'être point en soi et n'être point perçus, n'en sont pas moins réels pour cela, absolument comme est réel le feu de bois que je laisse chez moi en fermant la porte, et qui continue à brûler en mon absence. Ils sont des objets permanents de sensations possibles. Nous avons dit plus haut que l'esprit constituant l'une quelconque de ses représentations en pose par là même un nombre illimité d'autres, qui toutes sont nécessaires vu leurs rapports avec la première, et qui toutes peuvent devenir actuelles à un moment donné. Dire que l'univers est infini en extension, c'est donc dire que l'esprit l'a cons [p. 214] titué tel dans la représentation, que le champ de notre expérience possible y est sans limites.
 
 On résoudrait d'une façon tout à fait analogue la question de l'infinité du monde par rapport au temps.
 
-Cette infinité considérée comme absolue, c'est-à-dire comme réelle en soi et indépendamment de la représentation, est une contradiction pure et une absurdité. Cependant on conçoit qu'elle puisse entrer dans la représentation, non pas en fait sans doute, mais en droit, de la même manière que l'infinité du monde quant à l'espace. Or l'infinité du monde quant au temps, — évidemment quant au temps passé, — entre effectivement en droit dans la représentation ; et le nier serait se mettre en opposition formelle avec les données les plus positives et les plus fondainentales de la représentation elle-même. En effet, l'état présent des choses et du monde a sa raison d'être dans l'état antérieur, l'état antérieur dans l'état qui l'a précédé, et ainsi de suite ; sans que la pensée, si loin qu'elle remonte dans la série du passé, puisse jamais rencontrer un état initial et sans antécédent. Donc, à s'en tenir au point de vue de la représentation, le monde nous est donné comme
-
-[p. 215]
-
-n'ayant point eu de commencement dans le temps. Du reste, c'est là une nécessité toute conditionnelle ; et si, pour une raison ou pour une autre, nous croyions devoir affirmer l'existence passée d'un état du monde et des choses qui n'avait point sa raison d'être dans un état antérieur, mais dans l'intervention d'une puissance supérieure au temps, alors rien ne nous obligerait à remonter au delà, et l'état en question devrait être regardé par nous comme véritablement premier dans la série. La représentation ne contredit donc pas le dogme de la création ; mais elle ne l'implique pas non plus, et c'est à tort, à notre avis, que M. Renouvier considère « l'éternité du temps passé comme impliquant contradiction,
+Cette infinité considérée comme absolue, c'est-à-dire comme réelle en soi et indépendamment de la représentation, est une contradiction pure et une absurdité. Cependant on conçoit qu'elle puisse entrer dans la représentation, non pas en fait sans doute, mais en droit, de la même manière que l'infinité du monde quant à l'espace. Or l'infinité du monde quant au temps, — évidemment quant au temps passé, — entre effectivement en droit dans la représentation ; et le nier serait se mettre en opposition formelle avec les données les plus positives et les plus fondainentales de la représentation elle-même. En effet, l'état présent des choses et du monde a sa raison d'être dans l'état antérieur, l'état antérieur dans l'état qui l'a précédé, et ainsi de suite ; sans que la pensée, si loin qu'elle remonte dans la série du passé, puisse jamais rencontrer un état initial et sans antécédent. Donc, à s'en tenir au point de vue de la représentation, le monde nous est donné comme [p. 215] n'ayant point eu de commencement dans le temps. Du reste, c'est là une nécessité toute conditionnelle ; et si, pour une raison ou pour une autre, nous croyions devoir affirmer l'existence passée d'un état du monde et des choses qui n'avait point sa raison d'être dans un état antérieur, mais dans l'intervention d'une puissance supérieure au temps, alors rien ne nous obligerait à remonter au delà, et l'état en question devrait être regardé par nous comme véritablement premier dans la série. La représentation ne contredit donc pas le dogme de la création ; mais elle ne l'implique pas non plus, et c'est à tort, à notre avis, que M. Renouvier considère « l'éternité du temps passé comme impliquant contradiction,
 
 et conduisant à la démonstration de la nécessité d'un premier commencement
 
@@ -3600,15 +2866,9 @@ serait vrai si le temps pouvait être un absolu, mais nous savons qu'il est pure
 
 Aussi ne semble-t-il pas que l'on soit bien fondé à faire, comme il arrive souvent, reproche aux savants de méconnaître le dogme dela création. Comment en effet veut-on qu'ils puissent le [^p215-1]
 
-[p. 216]
+[p. 216] reconnaître ? — en tant que savants, bien entendu. N'est-il pasévident que l'état initial du monde, celui dans lequel il a été créé, et qui n'a point eu d'antécédent réel avait néanmoins un antécédent scientifique, puisqu'il aurait pu tout aussi bien provenir d'un état antérieur, lequel eût été le premier, tandis qu'il n'eût lui-même été que le second ? Comment donc le savant qui ne voit que les faits pourrait-il déterminer lequel de ces deux états a été l'état initial du monde ? Et il est clair que la difficulté reste la même, si loin que l'on remonte dans la série des états successifs qui ont constitué dans le passé la vie de l'univers. Donc, au point de vue de la science, il est incontestable que le monde n'a point eu de commencement, c'est-à-dire qu'il est infini dans le passé ; et aussi que le savant est absolument dans son droit quand il fait profession d'ignorer les origines des choses. Allons plus loin, et disons que les préventions de la plupart des spiritualistes
 
-reconnaître ? — en tant que savants, bien entendu. N'est-il pasévident que l'état initial du monde, celui dans lequel il a été créé, et qui n'a point eu d'antécédent réel avait néanmoins un antécédent scientifique, puisqu'il aurait pu tout aussi bien provenir d'un état antérieur, lequel eût été le premier, tandis qu'il n'eût lui-même été que le second ? Comment donc le savant qui ne voit que les faits pourrait-il déterminer lequel de ces deux états a été l'état initial du monde ? Et il est clair que la difficulté reste la même, si loin que l'on remonte dans la série des états successifs qui ont constitué dans le passé la vie de l'univers. Donc, au point de vue de la science, il est incontestable que le monde n'a point eu de commencement, c'est-à-dire qu'il est infini dans le passé ; et aussi que le savant est absolument dans son droit quand il fait profession d'ignorer les origines des choses. Allons plus loin, et disons que les préventions de la plupart des spiritualistes
-
-et des philosophes chrétiens contre la théorie de l'évolution nous paraissent mal justifiées. Le bien fondé de cette théorie est au contraire l'évidence même, non pas, nous le voulons bien, sous la forme que lui a donnée Darwin ou sous celle de M. Herbert Spencer, mais dans ses grandes lignes et dans son esprit général ; et cela, par la simple raison que cha
-
-[p. 217]
-
-cun des états du monde dans le temps contient en germe l'état qui le suivra et qui diffèrera de lui ; de sorte que l'état actuel a sa raison d'être dans toute la série des états antérieurs, et que la succession des choses est une évolution perpétuelle.
+et des philosophes chrétiens contre la théorie de l'évolution nous paraissent mal justifiées. Le bien fondé de cette théorie est au contraire l'évidence même, non pas, nous le voulons bien, sous la forme que lui a donnée Darwin ou sous celle de M. Herbert Spencer, mais dans ses grandes lignes et dans son esprit général ; et cela, par la simple raison que cha [p. 217] cun des états du monde dans le temps contient en germe l'état qui le suivra et qui diffèrera de lui ; de sorte que l'état actuel a sa raison d'être dans toute la série des états antérieurs, et que la succession des choses est une évolution perpétuelle.
 
 Nous aurions pu nous poser à propos de la première des quatre antinomies de Kant relative à l'indéfinie divisibilité des corps,
 
@@ -3618,11 +2878,7 @@ Nous avons préféré nous borner à celle-ci, comme présentant plus d'intérê
 
 Si l'on considère le temps et l'espace comme des absolus, il est très vrai que les deux solutions contradictoires présentées respectivement pour chacune des deux premières antinomies se valent, et qu'il est impossible de choisir entre elles ; mais
 
-il n'en est plus de même si l'on prend le temps et l'espace pour ce qu'ils sont, c'est-à-dire pour de simples données de la représentation. Alors, et c'est un point que Kant a eu le tort de méconnaître, l'une des deux so
-
-[p. 218]
-
-lutions pour chaque antinomie vaut seule et à l'exclusion de l'autre. Dans l'univers de notre représentation, il faut admettre que les corps sont indéfiniment divisibles, et que le temps et l'espace sont infinis.
+il n'en est plus de même si l'on prend le temps et l'espace pour ce qu'ils sont, c'est-à-dire pour de simples données de la représentation. Alors, et c'est un point que Kant a eu le tort de méconnaître, l'une des deux so [p. 218] lutions pour chaque antinomie vaut seule et à l'exclusion de l'autre. Dans l'univers de notre représentation, il faut admettre que les corps sont indéfiniment divisibles, et que le temps et l'espace sont infinis.
 
 SUR LA QUESTION DU VIDE
 
@@ -3634,19 +2890,11 @@ Sur le terrain de la discussion
 
 rationnelle, les adversaires du vide triomphaient donc pleinement.
 
-Les adversaires du plein se plaçaient à un
-
-[p. 219]
-
-autre point de vue, celui de l'expérience, invoquant les faits bien connus de la compressibilité et de l'élasticité des corps, et surtout l'impossibilité du mouvement dans l'hypothèse du plein. Les partisans de cette hypothèse crurent cependant pouvoir leur répondre, et c'est dans cette intention que Descartes imagina sa fameuse théorie des tourbillons ; mais il est certain que cette solution était loin d'être satisfaisante. Il y a longtemps que la théorie des tourbillons est jugée et condamnée, ce qui à la rigueur nous dispenserait fort bien d'en faire la critique. Rappelons toutefois et très brièvement quelques-unes des objections qu'on y peut opposer.
+Les adversaires du plein se plaçaient à un [p. 219] autre point de vue, celui de l'expérience, invoquant les faits bien connus de la compressibilité et de l'élasticité des corps, et surtout l'impossibilité du mouvement dans l'hypothèse du plein. Les partisans de cette hypothèse crurent cependant pouvoir leur répondre, et c'est dans cette intention que Descartes imagina sa fameuse théorie des tourbillons ; mais il est certain que cette solution était loin d'être satisfaisante. Il y a longtemps que la théorie des tourbillons est jugée et condamnée, ce qui à la rigueur nous dispenserait fort bien d'en faire la critique. Rappelons toutefois et très brièvement quelques-unes des objections qu'on y peut opposer.
 
 Elle introduit dans le monde la nécessité universelle sous le nom de solidarité, parce qu'en raison du plein absolu, il serait impossible qu'une parcelle quelconque de matière se déplaçât dans l'espace, sans que toute la masse se déplaçât en même temps, et de la manière qu'il convient pour permettre le déplacement de cette parcelle.
 
-De plus, cette nécessité serait une nécessité purement géométrique, excluant toute intervention des penchants et de la sensibilité dans la production de nos actes, et faisant de ces penchants des épiphénomènes, comme on dit
-
-[p. 220]
-
-aujourd'hui,
+De plus, cette nécessité serait une nécessité purement géométrique, excluant toute intervention des penchants et de la sensibilité dans la production de nos actes, et faisant de ces penchants des épiphénomènes, comme on dit [p. 220] aujourd'hui,
 
 sans aucune action ni influence sur la conduite de notre vie.
 
@@ -3656,11 +2904,7 @@ parcelle de matière est supposée absolument autonome. Nous demanderons qui la 
 
 questions, sans doute Descartes n'eût pas été embarrassé pour répondre : il tenait une solution toute prête, sa théorie de la création continuée ; mais c'est une solution qu'il est bien permis de récuser, et il ne semble pas qu'il en puisse exister une autre.
 
-Ce n'est pas tout. Dans le mouvement de cette parcelle que nous considérons, et qui est supposée autonome, les parcelles plus petites qui la composent se désagrégeront et prendront nécessairement des directions différentes. Donc il ne faut pas, d'une part, parler de l'autonomie de cette parcelle qui ne demeure pas entière deux instants consécutifs seulement ; et d'autre part, nous sommes conduits logiquement à reconnaître à la matière, non pas la divisibilité à
-
-[p. 221]
-
-l'infini, mais une division sans fin de ses parties actuelle et réellement effectuée.
+Ce n'est pas tout. Dans le mouvement de cette parcelle que nous considérons, et qui est supposée autonome, les parcelles plus petites qui la composent se désagrégeront et prendront nécessairement des directions différentes. Donc il ne faut pas, d'une part, parler de l'autonomie de cette parcelle qui ne demeure pas entière deux instants consécutifs seulement ; et d'autre part, nous sommes conduits logiquement à reconnaître à la matière, non pas la divisibilité à [p. 221] l'infini, mais une division sans fin de ses parties actuelle et réellement effectuée.
 
 La conséquence de tout ceci, c'est que l'hypothèse des tourbillons doit, malgré le grand nom de son auteur, être considérée comme une absurdité pure ; et, comme il ne semble point que les partisans du plein aient jamais pu en produire une meilleure à l'appui de leur théorie, nous sommes en droit de conclure que leurs adversaires raisonnaient juste et étaient pleinement dans la vérité.
 
@@ -3672,11 +2916,7 @@ incontestable que les corps étendus,
 
 objet du litige, n'ont de réalité que dans la représentation ; et cette simple observation faite, la difficulté s'évanouit d'elle-même.
 
-Quel est en effet, dans la question, le point de vue vrai et utile à considérer ? Evidemment c'est celui de l'expérience. Du moment que les corps étendus ne sont que dans et pour la re-
-
-[p. 222]
-
-présentation, c'est la représentation qu'il faut mettre d'accord avec elle-même, c'est l'expérience qu'il faut rendre possible. Donc, dans les corps,
+Quel est en effet, dans la question, le point de vue vrai et utile à considérer ? Evidemment c'est celui de l'expérience. Du moment que les corps étendus ne sont que dans et pour la re-[p. 222]présentation, c'est la représentation qu'il faut mettre d'accord avec elle-même, c'est l'expérience qu'il faut rendre possible. Donc, dans les corps,
 
 il y a duvide. Quant à ceux qui tiennent pour le plein, et qui voient des absurdités dans l'hypothèse du vide, nous leur ferons observer que leurs objections fort justes si les corps étaient des choses en soi, perdent toute leur valeur dès que l'on considère les corps comme de simples données de la représentation. Si l'existence du vide absolu est une contradiction, il n'en est pas de même pour le vide représentatif. On prétend que le néant n'est pas quelque chose, et ne peut occuper une place dans un corps. Fort bien, mais le vide simple donnée de la représentation n'est pas plus le néant qu'il n'est son contraire : il est tout justement aussi réel que le plein des atomes qui le suppose, et qu'il suppose à son tour.
 
@@ -3684,37 +2924,27 @@ Mais, dira-t-on, si vous admettez que le vide est une donnée de la représentat
 
 puisque nous ne percevons point les atomes ni leurs intervalles, du moins en droit. Or comment le vide pourrait-il être représentable ?
 
-Il faut ici distinguer. Qu'entend-on lorsque l'on demande si je puis me représenter ou percevoir le vide ? Peut-on dire que je ne
-
-[p. 223]
-
-puis avoir la perception du rien ? Sous cette forme l'objection serait spécieuse : il est certain que le rien ne peut pas faire l'objet d'une perception. Il n'en est pas moins vrai que constamment je perçois des corps distants les uns des autres, et entre lesquels je ne perçois rien.
+Il faut ici distinguer. Qu'entend-on lorsque l'on demande si je puis me représenter ou percevoir le vide ? Peut-on dire que je ne [p. 223] puis avoir la perception du rien ? Sous cette forme l'objection serait spécieuse : il est certain que le rien ne peut pas faire l'objet d'une perception. Il n'en est pas moins vrai que constamment je perçois des corps distants les uns des autres, et entre lesquels je ne perçois rien.
 
 Opposera-t-on que l'espace ainsi perçu par moi n'est pas vide, puisqu'il est plein d'air, et sans doute, d'un corps plus subtil que l'air ? Et qu'importent ici cet air et ce corps subtil que je ne perçois pas ? Ce que je perçois, c'est un espace vide ; donc le vide peut bien, quoi qu'on en dise, entrer dans ma représentation.
 
 Si maintenant l'on venait soutenir qu'il faut distinguer, comme nous l'avons fait nous-même plus haut, entre la représentation de fait et la représentation de droit ; que nos sens peuvent bien nous donner l'illusion du vide, mais qu'en réalité, lorsque nous constituons la représentation, nous la constituons avec les caractères du plein, de même que nous constituons celle de l'eau telle que l'analyse y doive découvrir deux volumes d'hydrogène pour un d'oxygène, nous répondrions
 
-: c'est la question même. Vous la résolvez à votre point de vue, mais vous la résolvez mal. La représentation se constitue réellement avec les caractères du plein et du vide, puisqu'elle se constitue telle que les corps sont
-
-[p. 224]
-
-compressibles et mobiles. Si au contraire elle se constituait comme vous le dites, elle se détruirait elle-même, puisque le mouvement y serait impossible.
+: c'est la question même. Vous la résolvez à votre point de vue, mais vous la résolvez mal. La représentation se constitue réellement avec les caractères du plein et du vide, puisqu'elle se constitue telle que les corps sont [p. 224] compressibles et mobiles. Si au contraire elle se constituait comme vous le dites, elle se détruirait elle-même, puisque le mouvement y serait impossible.
 
 Il n'y a donc pas lieu, à ce qu'il semble, de s'arrêter aux objections que l'on pourrait formuler contre la doctrine du vide. Au point de vue purement philosophique, cette doctrine appuyée des considérations que nous avons présentées paraît établie avec une parfaite évidence ; et c'est du reste la seule, comme on le sait, que puissent accepter les sciences de la nature.
 
-[p. 225]
-
-TABLE DES MATIÈRES
+[p. 225] TABLE DES MATIÈRES
 
 ### Chapitre Ier.
 
 Deux questions distinctes que Kant a négligé de traiter séparément : 1º Le temps et l'espace sont-ils de pures données de la représentation sans réalité objective ?
 
-2º Le temps et l'espace sont-ils des formes a priori de la sensibilité, ou seulement des caractères universels de nos représentations dont le principe serait dans une forme antérieure et plus fondamentale de l'activité de l'esprit constituant l'expérience......
+2º Le temps et l'espace sont-ils des formes *a priori* de la sensibilité, ou seulement des caractères universels de nos représentations dont le principe serait dans une forme antérieure et plus fondamentale de l'activité de l'esprit constituant l'expérience......
 
 1
 
-### Chapitre Ii.
+### Chapitre II.
 
 La doctrine de la relativité du temps et de l'espace dans l'histoire.
 
@@ -3726,7 +2956,7 @@ La véritable méthode à suivre pour établir cette doctrine c'est de prouver q
 
 6
 
-### Chapitre Iii.
+### Chapitre III.
 
 Nous établirons par quatre arguments différents qu'un continu quelconque, temps ou espace, ne peut exister en dehors de la représentation.
 
@@ -3746,7 +2976,7 @@ Nous établirons par quatre arguments différents qu'un continu quelconque, temp
 
 ### Chapitre Iv. — Passage À La Seconde Question. — Raisons
 
-qui doivent nous faire douter de prime abord que le temps et l'espace soient des formes a priori de la sensibilité.
+qui doivent nous faire douter de prime abord que le temps et l'espace soient des formes *a priori* de la sensibilité.
 
 On
 
@@ -3762,7 +2992,7 @@ L'intuition du temps est donnée simultanément avec celle de l'espace ; elles o
 
 51
 
-### Chapitre Vi.
+### Chapitre VI.
 
 Le processus fondamental suivant lequel l'esprit constitue ses représentations avec le double caractère de l'étendue et de la durée, est celui de l'unité multiple et de la multiplicité une. — Les deux moments de ce processus ne sont autre chose que l'analyse et la synthèse..........
 
@@ -3770,7 +3000,7 @@ Le processus fondamental suivant lequel l'esprit constitue ses représentations 
 
 Ce
 
-### Chapitre Vii.
+### Chapitre VII.
 
 Origine de ce double processus. n'est pas une loi gouvernant du dehors les phénomènes de l'esprit, c'est une loi inhérente à la pensée même.
 
@@ -3780,7 +3010,7 @@ La pensée est une et multiple, parce que l'esprit est un et multiple, c'est-à-
 
 98
 
-### Chapitre Viii.
+### Chapitre VIII.
 
 La théorie précédente soulève une question grave : comment expliquer qu'une même pensée puisse donner lieu tout à la fois à l'intuition du temps et à celle de l'espace ? ou en d'autres termes : d'où vient l'intuition simultanée du moi et de l'univers ?
 
@@ -3788,13 +3018,11 @@ Ce que devient cette double intuition chez des esprits inférieurs et chez des e
 
 115
 
-### Chapitre Ix.
+### Chapitre IX.
 
 - Le problème des Catégories.- Les jugements de Catégories ne peuvent être que l'extension à la totalité des choses extérieures des attributs de l'esprit luimême. — Comment l'esprit prend conscience de ses attributs, et comment il en applique les notions aux choses extérieures.
 
-[p. 227]
-
-Comment il nous est possible de dégager ces notions des jugements qui les contiennent pour les faire entrer dans la science. — De cette façon on donne à l'ontologie l'expérience pour base, mais la chose est nécessaire.
+[p. 227] Comment il nous est possible de dégager ces notions des jugements qui les contiennent pour les faire entrer dans la science. — De cette façon on donne à l'ontologie l'expérience pour base, mais la chose est nécessaire.
 
 Le spontané dans l'intuition et dans la conception, dans la constitution de la représentation par la sensibilité, et dans celle de la connaissance par l'entendement, contient tout à la fois le secret de l'esprit et celui de l'univers
 
