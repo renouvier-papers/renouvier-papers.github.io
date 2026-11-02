@@ -42,20 +42,29 @@ markdown_extensions:
 plugins:
 - search:
     lang: fr
+
 nav:
 - Accueil:
   - index.md
   - Contribuer: a-propos/contribuer.md
   - Licence: a-propos/licence.md
+
 - Œuvres:
   - oeuvres/index.md
-  - Premiers Manuels:
-    - Manuel de philosophie moderne: oeuvres/manuels/philosophie-moderne.md
-    - Manuel de philosophie ancienne:
-      - Tome I: oeuvres/manuels/philosophie-ancienne/tome-1.md
-      - Tome II: oeuvres/manuels/philosophie-ancienne/tome-2.md
-    - Manuel républicain: oeuvres/manuels/republicain.md
-  - Essais de critique générale:
+  - Premiers Manuels et écrits politiques:
+    - Manuel de philosophie moderne (1842): oeuvres/manuels/philosophie-moderne.md
+    - Manuel de philosophie ancienne (1844):
+      - Tome I: oeuvres/manuels/philosophie-ancienne/tome-1.md # [VIDE]
+      - Tome II: oeuvres/manuels/philosophie-ancienne/tome-2.md # [VIDE]
+    - Manuel républicain (1848): oeuvres/manuels/republicain.md
+    - Gouvernement direct (1851): oeuvres/manuels/gouvernement-direct.md # [NOUVEAU]
+    - Petit traité de morale (1882): oeuvres/manuels/petit-traite-morale.md # [NOUVEAU]
+  - Essais de critique générale (1re édition, 1854-1864): # [NOUVEAU]
+    - Premier Essai (1854): oeuvres/essais-1re-edition/premier.md # [NOUVEAU]
+    - Deuxième Essai (1859): oeuvres/essais-1re-edition/deuxieme.md # [NOUVEAU]
+    - Troisième Essai (1864): oeuvres/essais-1re-edition/troisieme.md # [NOUVEAU]
+    - Quatrième Essai (1864): oeuvres/essais-1re-edition/quatrieme.md # [NOUVEAU]
+  - Essais de critique générale (2e édition, 1875-1896):
     - Premier Essai:
       - Tome I: oeuvres/essais/premier/tome-1.md
       - Tome II: oeuvres/essais/premier/tome-2.md
@@ -75,123 +84,278 @@ nav:
     - Tome III: oeuvres/philosophie-analytique/tome-3.md
     - Tome IV: oeuvres/philosophie-analytique/tome-4.md
   - Autres ouvrages:
-    - Science de la morale:
-      - Tome I: oeuvres/autres/science-morale/tome-1.md
-      - Tome II: oeuvres/autres/science-morale/tome-2.md
-    - Uchronie: oeuvres/autres/uchronie.md
-    - Esquisse d'une classification des doctrines:
+    - Science de la morale (1869):
+      - Tome I: oeuvres/autres/science-morale/tome-1.md # [VIDE]
+      - Tome II: oeuvres/autres/science-morale/tome-2.md # [VIDE]
+    - Uchronie (1876): oeuvres/autres/uchronie.md # [VIDE]
+    - Esquisse d'une classification des doctrines (1885-1886):
       - Tome I: oeuvres/autres/esquisse/tome-1.md
       - Tome II: oeuvres/autres/esquisse/tome-2.md
-    - La Nouvelle monadologie: oeuvres/autres/nouvelle-monadologie.md
-    - Victor Hugo, le philosophe: oeuvres/autres/victor-hugo.md
-    - Les Dilemmes de la métaphysique pure: oeuvres/autres/dilemmes.md
-    - Histoire et solution des problèmes métaphysiques: oeuvres/autres/histoire-solution.md
-    - Le Personnalisme: oeuvres/autres/personnalisme.md
-    - Les derniers entretiens: oeuvres/autres/derniers-entretiens.md
-    - Critique de la doctrine de Kant: oeuvres/autres/critique-kant.md
+    - Victor Hugo, le poète (1893): oeuvres/autres/victor-hugo-poete.md # [NOUVEAU]
+    - Victor Hugo, le philosophe (1900): oeuvres/autres/victor-hugo.md # [VIDE]
+    - La Nouvelle monadologie (1899): oeuvres/autres/nouvelle-monadologie.md # [VIDE]
+    - Les Dilemmes de la métaphysique pure (1901): oeuvres/autres/dilemmes.md # [NOUVEAU]
+    - Histoire et solution des problèmes métaphysiques (1901): oeuvres/autres/histoire-solution.md
+    - Le Personnalisme (1903): oeuvres/autres/personnalisme.md
+    - Les derniers entretiens (1904): oeuvres/autres/derniers-entretiens.md # [VIDE]
+    - Critique de la doctrine de Kant (1906): oeuvres/autres/critique-kant.md
+  - Traductions annotées: # [NOUVEAU]
+    - Psychologie de Hume (1878): oeuvres/traductions/psychologie-hume.md # [NOUVEAU]
+    - Les Principes de la connaissance humaine de Berkeley (1895): oeuvres/traductions/principes-berkeley.md # [NOUVEAU]
+
 - Revues:
   - revues/index.md
+  - L'Année philosophique — 1re série: # [NOUVEAU]
+    - 1re année (1867): revues/annee-philosophique-serie-1/1867.md # [NOUVEAU]
+    - 2e année (1868): revues/annee-philosophique-serie-1/1868.md # [NOUVEAU]
   - La Critique philosophique — 1re série:
     - 1re année (1872):
-      - Tome I: revues/critique-philosophique/serie-1/1872/tome-1.md
-      - Tome II: revues/critique-philosophique/serie-1/1872/tome-2.md
+      - Tome I: revues/critique-philosophique/serie-1/1872/tome-1.md # [VIDE]
+      - Tome II: revues/critique-philosophique/serie-1/1872/tome-2.md # [VIDE]
     - 2e année (1873):
-      - Tome I: revues/critique-philosophique/serie-1/1873/tome-1.md
-      - Tome II: revues/critique-philosophique/serie-1/1873/tome-2.md
+      - Tome I: revues/critique-philosophique/serie-1/1873/tome-1.md # [VIDE]
+      - Tome II: revues/critique-philosophique/serie-1/1873/tome-2.md # [VIDE]
     - 3e année (1874):
-      - Tome I: revues/critique-philosophique/serie-1/1874/tome-1.md
-      - Tome II: revues/critique-philosophique/serie-1/1874/tome-2.md
+      - Tome I: revues/critique-philosophique/serie-1/1874/tome-1.md # [VIDE]
+      - Tome II: revues/critique-philosophique/serie-1/1874/tome-2.md # [VIDE]
     - 4e année (1875):
-      - Tome I: revues/critique-philosophique/serie-1/1875/tome-1.md
-      - Tome II: revues/critique-philosophique/serie-1/1875/tome-2.md
+      - Tome I: revues/critique-philosophique/serie-1/1875/tome-1.md # [VIDE]
+      - Tome II: revues/critique-philosophique/serie-1/1875/tome-2.md # [VIDE]
     - 5e année (1876):
-      - Tome I: revues/critique-philosophique/serie-1/1876/tome-1.md
-      - Tome II: revues/critique-philosophique/serie-1/1876/tome-2.md
+      - Tome I: revues/critique-philosophique/serie-1/1876/tome-1.md # [VIDE]
+      - Tome II: revues/critique-philosophique/serie-1/1876/tome-2.md # [VIDE]
     - 6e année (1877):
-      - Tome I: revues/critique-philosophique/serie-1/1877/tome-1.md
-      - Tome II: revues/critique-philosophique/serie-1/1877/tome-2.md
+      - Tome I: revues/critique-philosophique/serie-1/1877/tome-1.md # [VIDE]
+      - Tome II: revues/critique-philosophique/serie-1/1877/tome-2.md # [VIDE]
     - 7e année (1878):
-      - Tome I: revues/critique-philosophique/serie-1/1878/tome-1.md
-      - Tome II: revues/critique-philosophique/serie-1/1878/tome-2.md
+      - Tome I: revues/critique-philosophique/serie-1/1878/tome-1.md # [VIDE]
+      - Tome II: revues/critique-philosophique/serie-1/1878/tome-2.md # [VIDE]
     - 8e année (1879):
-      - Tome I: revues/critique-philosophique/serie-1/1879/tome-1.md
-      - Tome II: revues/critique-philosophique/serie-1/1879/tome-2.md
+      - Tome I: revues/critique-philosophique/serie-1/1879/tome-1.md # [VIDE]
+      - Tome II: revues/critique-philosophique/serie-1/1879/tome-2.md # [VIDE]
     - 9e année (1880):
-      - Tome I: revues/critique-philosophique/serie-1/1880/tome-1.md
-      - Tome II: revues/critique-philosophique/serie-1/1880/tome-2.md
+      - Tome I: revues/critique-philosophique/serie-1/1880/tome-1.md # [VIDE]
+      - Tome II: revues/critique-philosophique/serie-1/1880/tome-2.md # [VIDE]
     - 10e année (1881):
-      - Tome I: revues/critique-philosophique/serie-1/1881/tome-1.md
-      - Tome II: revues/critique-philosophique/serie-1/1881/tome-2.md
+      - Tome I: revues/critique-philosophique/serie-1/1881/tome-1.md # [VIDE]
+      - Tome II: revues/critique-philosophique/serie-1/1881/tome-2.md # [VIDE]
     - 11e année (1882):
-      - Tome I: revues/critique-philosophique/serie-1/1882/tome-1.md
-      - Tome II: revues/critique-philosophique/serie-1/1882/tome-2.md
+      - Tome I: revues/critique-philosophique/serie-1/1882/tome-1.md # [VIDE]
+      - Tome II: revues/critique-philosophique/serie-1/1882/tome-2.md # [VIDE]
     - 12e année (1883):
-      - Tome I: revues/critique-philosophique/serie-1/1883/tome-1.md
-      - Tome II: revues/critique-philosophique/serie-1/1883/tome-2.md
+      - Tome I: revues/critique-philosophique/serie-1/1883/tome-1.md # [VIDE]
+      - Tome II: revues/critique-philosophique/serie-1/1883/tome-2.md # [VIDE]
     - 13e année (1884):
-      - Tome I: revues/critique-philosophique/serie-1/1884/tome-1.md
-      - Tome II: revues/critique-philosophique/serie-1/1884/tome-2.md
+      - Tome I: revues/critique-philosophique/serie-1/1884/tome-1.md # [VIDE]
+      - Tome II: revues/critique-philosophique/serie-1/1884/tome-2.md # [VIDE]
+  - La Critique religieuse (supplément, 1878-1884): # [NOUVEAU]
+    - 1re année (1878): revues/critique-religieuse/1878.md # [NOUVEAU]
+    - 2e année (1879): revues/critique-religieuse/1879.md # [NOUVEAU]
+    - 3e année (1880): revues/critique-religieuse/1880.md # [NOUVEAU]
+    - 4e année (1881): revues/critique-religieuse/1881.md # [NOUVEAU]
+    - 5e année (1882): revues/critique-religieuse/1882.md # [NOUVEAU]
+    - 6e année (1883): revues/critique-religieuse/1883.md # [NOUVEAU]
+    - 7e année (1884): revues/critique-religieuse/1884.md # [NOUVEAU]
   - La Critique philosophique — nouvelle série:
     - 1re année (1885):
-      - Tome I: revues/critique-philosophique/serie-2/1885/tome-1.md
-      - Tome II: revues/critique-philosophique/serie-2/1885/tome-2.md
+      - Tome I: revues/critique-philosophique/serie-2/1885/tome-1.md # [VIDE]
+      - Tome II: revues/critique-philosophique/serie-2/1885/tome-2.md # [VIDE]
     - 2e année (1886):
-      - Tome I: revues/critique-philosophique/serie-2/1886/tome-1.md
-      - Tome II: revues/critique-philosophique/serie-2/1886/tome-2.md
+      - Tome I: revues/critique-philosophique/serie-2/1886/tome-1.md # [VIDE]
+      - Tome II: revues/critique-philosophique/serie-2/1886/tome-2.md # [VIDE]
     - 3e année (1887):
-      - Tome I: revues/critique-philosophique/serie-2/1887/tome-1.md
-      - Tome II: revues/critique-philosophique/serie-2/1887/tome-2.md
+      - Tome I: revues/critique-philosophique/serie-2/1887/tome-1.md # [VIDE]
+      - Tome II: revues/critique-philosophique/serie-2/1887/tome-2.md # [VIDE]
     - 4e année (1888):
-      - Tome I: revues/critique-philosophique/serie-2/1888/tome-1.md
-      - Tome II: revues/critique-philosophique/serie-2/1888/tome-2.md
+      - Tome I: revues/critique-philosophique/serie-2/1888/tome-1.md # [VIDE]
+      - Tome II: revues/critique-philosophique/serie-2/1888/tome-2.md # [VIDE]
     - 5e année (1889):
-      - Tome I: revues/critique-philosophique/serie-2/1889/tome-1.md
-      - Tome II: revues/critique-philosophique/serie-2/1889/tome-2.md
-  - L'Année philosophique:
-    - 1re année (1890): revues/annee-philosophique/1890.md
-    - 2e année (1891): revues/annee-philosophique/1891.md
-    - 3e année (1892): revues/annee-philosophique/1892.md
-    - 4e année (1893): revues/annee-philosophique/1893.md
-    - 5e année (1894): revues/annee-philosophique/1894.md
-    - 6e année (1895): revues/annee-philosophique/1895.md
-    - 7e année (1896): revues/annee-philosophique/1896.md
-    - 8e année (1897): revues/annee-philosophique/1897.md
-    - 9e année (1898): revues/annee-philosophique/1898.md
-    - 10e année (1899): revues/annee-philosophique/1899.md
-    - 11e année (1900): revues/annee-philosophique/1900.md
-    - 12e année (1901): revues/annee-philosophique/1901.md
-    - 13e année (1902): revues/annee-philosophique/1902.md
-    - 14e année (1903): revues/annee-philosophique/1903.md
-    - 15e année (1904): revues/annee-philosophique/1904.md
-    - 16e année (1905): revues/annee-philosophique/1905.md
-    - 17e année (1906): revues/annee-philosophique/1906.md
-    - 18e année (1907): revues/annee-philosophique/1907.md
-    - 19e année (1908): revues/annee-philosophique/1908.md
-    - 20e année (1909): revues/annee-philosophique/1909.md
+      - Tome I: revues/critique-philosophique/serie-2/1889/tome-1.md # [VIDE]
+      - Tome II: revues/critique-philosophique/serie-2/1889/tome-2.md # [VIDE]
+  - L'Année philosophique — 2e série:
+    - 1re année (1890): revues/annee-philosophique/1890.md # [VIDE]
+    - 2e année (1891): revues/annee-philosophique/1891.md # [VIDE]
+    - 3e année (1892): revues/annee-philosophique/1892.md # [VIDE]
+    - 4e année (1893): revues/annee-philosophique/1893.md # [VIDE]
+    - 5e année (1894): revues/annee-philosophique/1894.md # [VIDE]
+    - 6e année (1895): revues/annee-philosophique/1895.md # [VIDE]
+    - 7e année (1896): revues/annee-philosophique/1896.md # [VIDE]
+    - 8e année (1897): revues/annee-philosophique/1897.md # [VIDE]
+    - 9e année (1898): revues/annee-philosophique/1898.md # [VIDE]
+    - 10e année (1899): revues/annee-philosophique/1899.md # [VIDE]
+    - 11e année (1900): revues/annee-philosophique/1900.md # [VIDE]
+    - 12e année (1901): revues/annee-philosophique/1901.md # [VIDE]
+    - 13e année (1902): revues/annee-philosophique/1902.md # [VIDE]
+    - 14e année (1903): revues/annee-philosophique/1903.md # [VIDE]
+    - 15e année (1904): revues/annee-philosophique/1904.md # [VIDE]
+    - 16e année (1905): revues/annee-philosophique/1905.md # [VIDE]
+    - 17e année (1906): revues/annee-philosophique/1906.md # [VIDE]
+    - 18e année (1907): revues/annee-philosophique/1907.md # [VIDE]
+    - 19e année (1908): revues/annee-philosophique/1908.md # [VIDE]
+    - 20e année (1909): revues/annee-philosophique/1909.md # [VIDE]
+    - 21e année (1910): revues/annee-philosophique/1910.md # [NOUVEAU]
+    - 22e année (1911): revues/annee-philosophique/1911.md # [NOUVEAU]
+    - 23e année (1912): revues/annee-philosophique/1912.md # [NOUVEAU]
+    - 24e année (1913): revues/annee-philosophique/1913.md # [NOUVEAU]
+
 - Archives:
   - archives/index.md
-  - Correspondance: archives/correspondance.md
-  - Manuscrits: archives/manuscrits.md
+  - Correspondance:
+    - Correspondance générale: archives/correspondance.md # [VIDE]
+    - Correspondance Renouvier-Secrétan (1910): archives/correspondance-secretan.md # [NOUVEAU]
+  - Manuscrits: archives/manuscrits.md # [VIDE]
+
 - Autres auteurs:
   - autres-auteurs/index.md
   - Georges Lechalas:
+    - La Connaissance du monde extérieur (1890): autres-auteurs/lechalas/connaissance-monde-exterieur.md # [NOUVEAU]
     - Étude sur l'espace et le temps:
-      - 1re édition: autres-auteurs/lechalas/etude-espace-temps/1re-edition.md
-      - 2e édition: autres-auteurs/lechalas/etude-espace-temps/2e-edition.md
-    - Introduction à la géométrie générale: autres-auteurs/lechalas/geometrie-generale.md
+      - 1re édition (1896): autres-auteurs/lechalas/etude-espace-temps/1re-edition.md
+      - 2e édition (1909): autres-auteurs/lechalas/etude-espace-temps/2e-edition.md
+    - Études esthétiques (1902): autres-auteurs/lechalas/etudes-esthetiques.md # [NOUVEAU]
+    - Introduction à la géométrie générale (1904): autres-auteurs/lechalas/geometrie-generale.md
   - Gaston Milhaud:
+    - Leçons sur les origines de la science grecque (1893): autres-auteurs/milhaud/origines-science-grecque.md # [NOUVEAU]
     - Essai sur la certitude logique:
-      - 1re édition: autres-auteurs/milhaud/certitude-logique/1re-edition.md
-      - 2e édition: autres-auteurs/milhaud/certitude-logique/2e-edition.md
-    - Le rationnel: autres-auteurs/milhaud/le-rationnel.md
+      - 1re édition (1894): autres-auteurs/milhaud/certitude-logique/1re-edition.md
+      - 2e édition (1898): autres-auteurs/milhaud/certitude-logique/2e-edition.md
+      - 3e édition (1912): autres-auteurs/milhaud/certitude-logique/3e-edition.md # [NOUVEAU]
+    - Num Cartesii methodus tantum valeat in suo opere illustrando quantum ipse senserit (1894): autres-auteurs/milhaud/num-cartesii-methodus.md # [NOUVEAU]
+    - Le rationnel (1898): autres-auteurs/milhaud/le-rationnel.md
+    - Les philosophes-géomètres de la Grèce (1900): autres-auteurs/milhaud/philosophes-geometres.md # [NOUVEAU]
+    - Le positivisme et le progrès de l'esprit (1902): autres-auteurs/milhaud/positivisme-progres.md # [NOUVEAU]
+    - Études sur la pensée scientifique (1906): autres-auteurs/milhaud/etudes-pensee-scientifique.md # [NOUVEAU]
+    - Nouvelles études sur l'histoire de la pensée scientifique (1911): autres-auteurs/milhaud/nouvelles-etudes.md # [NOUVEAU]
+    - Descartes savant (1921): autres-auteurs/milhaud/descartes-savant.md # [NOUVEAU]
+    - La philosophie de Charles Renouvier (1927): autres-auteurs/milhaud/philosophie-de-renouvier.md # [NOUVEAU]
+    - Études sur Cournot (1927): autres-auteurs/milhaud/etudes-sur-cournot.md # [NOUVEAU]
   - François Évellin:
-    - Infini et quantité: autres-auteurs/evellin/infini-et-quantite.md
-    - La raison pure et les antinomies: autres-auteurs/evellin/raison-pure-antinomies.md
+    - Infini et quantité (1880): autres-auteurs/evellin/infini-et-quantite.md
+    - Quid de rebus vel corporeis vel incorporeis senserit Boscovich (1880): autres-auteurs/evellin/quid-de-rebus-boscovich.md # [NOUVEAU]
+    - La raison pure et les antinomies (1907): autres-auteurs/evellin/raison-pure-antinomies.md
   - Louis Couturat:
-    - De l'infini mathématique: autres-auteurs/couturat/infini-mathematique.md
-    - La Logique de Leibniz: autres-auteurs/couturat/logique-de-leibniz.md
-    - Les principes des mathématiques: autres-auteurs/couturat/principes-des-mathematiques.md
-    - Pour la langue internationale: autres-auteurs/couturat/langue-internationale.md
+    - De l'infini mathématique (1896): autres-auteurs/couturat/infini-mathematique.md
+    - De Platonicis mythis (1896): autres-auteurs/couturat/de-platonicis-mythis.md # [NOUVEAU]
+    - La Logique de Leibniz (1901): autres-auteurs/couturat/logique-de-leibniz.md # [VIDE]
+    - Opuscules et fragments inédits de Leibniz (1903): autres-auteurs/couturat/opuscules-leibniz.md # [NOUVEAU]
+    - Les principes des mathématiques (1905): autres-auteurs/couturat/principes-des-mathematiques.md # [VIDE]
+    - L'Algèbre de la logique (1905): autres-auteurs/couturat/algebre-de-la-logique.md # [NOUVEAU]
+    - Pour la langue internationale (1906): autres-auteurs/couturat/langue-internationale.md # [VIDE]
+  - Auguste Calinon: # [NOUVEAU]
+    - Étude critique sur la mécanique (1885): autres-auteurs/calinon/etude-critique-mecanique.md # [NOUVEAU]
+    - Introduction à la géométrie des espaces à trois dimensions (1891): autres-auteurs/calinon/geometrie-espaces-trois-dimensions.md # [NOUVEAU]
+  - Charles Dunan: # [NOUVEAU]
+    - Les Arguments de Zénon d'Élée contre le mouvement (1884): autres-auteurs/dunan/arguments-zenon.md # [NOUVEAU]
+    - Essai sur les formes a priori de la sensibilité (1884): autres-auteurs/dunan/formes-a-priori.md # [NOUVEAU]
+    - Théorie psychologique de l'espace (1895): autres-auteurs/dunan/theorie-psychologique-espace.md # [NOUVEAU]
+  - Jean-Marie Guyau: # [NOUVEAU]
+    - La Genèse de l'idée de temps (1890): autres-auteurs/guyau/genese-idee-temps.md # [NOUVEAU]
+  - Lionel Dauriac: # [NOUVEAU]
+    - Des notions de matière et de force dans les sciences de la nature (1878): autres-auteurs/dauriac/notions-matiere-force.md # [NOUVEAU]
+    - Croyance et réalité (1889): autres-auteurs/dauriac/croyance-et-realite.md # [NOUVEAU]
+    - Contingence et rationalisme (1924): autres-auteurs/dauriac/contingence-et-rationalisme.md # [NOUVEAU]
+  - Octave Hamelin: # [NOUVEAU]
+    - Essai sur les éléments principaux de la représentation (1907): autres-auteurs/hamelin/elements-principaux-representation.md # [NOUVEAU]
+    - Le Système de Renouvier (1927): autres-auteurs/hamelin/systeme-de-renouvier.md # [NOUVEAU]
+  - Arthur Hannequin: # [NOUVEAU]
+    - Essai critique sur l'hypothèse des atomes (1895): autres-auteurs/hannequin/hypothese-des-atomes.md # [NOUVEAU]
+  - Gabriel Séailles: # [NOUVEAU]
+    - La Philosophie de Charles Renouvier (1905): autres-auteurs/seailles/philosophie-de-renouvier.md # [NOUVEAU]
+  - Paul Tannery: # [NOUVEAU]
+    - Pour l'histoire de la science hellène (1887): autres-auteurs/tannery/histoire-science-hellene.md # [NOUVEAU]
+  - Victor Brochard: # [NOUVEAU]
+    - Études de philosophie ancienne et de philosophie moderne (1912): autres-auteurs/brochard/etudes-philosophie.md # [NOUVEAU]
+  - Jules Andrade: # [NOUVEAU]
+    - Leçons de mécanique physique (1898): autres-auteurs/andrade/lecons-mecanique-physique.md # [NOUVEAU]
+    - Chronométrie (1908): autres-auteurs/andrade/chronometrie.md # [NOUVEAU]
+    - "Le Mouvement : mesures de l'étendue et mesures du temps (1911)": autres-auteurs/andrade/le-mouvement.md # [NOUVEAU]
+    - Horlogerie et chronométrie (1924): autres-auteurs/andrade/horlogerie-et-chronometrie.md # [NOUVEAU]
+  - Ernest Naville: # [NOUVEAU]
+    - Le Libre arbitre (1890): autres-auteurs/naville/libre-arbitre.md # [NOUVEAU]
+  - Paul du Bois-Reymond: # [NOUVEAU]
+    - Théorie générale des fonctions (1887): autres-auteurs/bois-reymond/theorie-generale-fonctions.md # [NOUVEAU]
+  - Alfred Fouillée: # [NOUVEAU]
+    - La Liberté et le déterminisme:
+      - 1re édition (1872): autres-auteurs/fouillee/liberte-et-determinisme/1re-edition.md # [NOUVEAU]
+      - 2e édition (1884): autres-auteurs/fouillee/liberte-et-determinisme/2e-edition.md # [NOUVEAU]
+    - Critique des systèmes de morale contemporains (1883): autres-auteurs/fouillee/critique-systemes-morale.md # [NOUVEAU]
+    - L'Avenir de la métaphysique fondée sur l'expérience (1889): autres-auteurs/fouillee/avenir-de-la-metaphysique.md # [NOUVEAU]
+    - L'Évolutionnisme des idées-forces (1890): autres-auteurs/fouillee/evolutionnisme-idees-forces.md # [NOUVEAU]
+    - La Psychologie des idées-forces (1893):
+      - Tome I: autres-auteurs/fouillee/psychologie-idees-forces/tome-1.md # [NOUVEAU]
+      - Tome II: autres-auteurs/fouillee/psychologie-idees-forces/tome-2.md # [NOUVEAU]
+    - Le Mouvement idéaliste et la réaction contre la science positive (1896): autres-auteurs/fouillee/mouvement-idealiste.md # [NOUVEAU]
+    - Le Mouvement positiviste et la conception sociologique du monde (1896): autres-auteurs/fouillee/mouvement-positiviste.md # [NOUVEAU]
+    - La Pensée et les nouvelles écoles anti-intellectualistes (1911): autres-auteurs/fouillee/pensee-ecoles-anti-intellectualistes.md # [NOUVEAU]
+    - Esquisse d'une interprétation du monde (1913): autres-auteurs/fouillee/esquisse-interpretation-monde.md # [NOUVEAU]
+  - Émile Boutroux: # [NOUVEAU]
+    - De la contingence des lois de la nature:
+      - 1re édition (1874): autres-auteurs/boutroux/contingence/1re-edition.md # [NOUVEAU]
+      - 2e édition (1895): autres-auteurs/boutroux/contingence/2e-edition.md # [NOUVEAU]
+      - 3e édition (1898): autres-auteurs/boutroux/contingence/3e-edition.md # [NOUVEAU]
+    - De l'idée de loi naturelle (1895): autres-auteurs/boutroux/idee-loi-naturelle.md # [NOUVEAU]
+    - La Monadologie de Leibniz (1881): autres-auteurs/boutroux/monadologie-leibniz.md # [NOUVEAU]
+    - Études d'histoire de la philosophie (1897): autres-auteurs/boutroux/etudes-histoire-philosophie.md # [NOUVEAU]
+    - Science et religion dans la philosophie contemporaine (1908): autres-auteurs/boutroux/science-et-religion.md # [NOUVEAU]
+    - William James (1911): autres-auteurs/boutroux/william-james.md # [NOUVEAU]
+    - La Nature et l'esprit (1925): autres-auteurs/boutroux/nature-et-esprit.md # [NOUVEAU]
+    - Nouvelles études d'histoire de la philosophie (1927): autres-auteurs/boutroux/nouvelles-etudes-histoire-philosophie.md # [NOUVEAU]
+  - Joseph Boussinesq: # [NOUVEAU]
+    - Conciliation du véritable déterminisme mécanique avec l'existence de la vie et de la liberté morale:
+      - Édition originale (1878): autres-auteurs/boussinesq/conciliation-determinisme/1878.md # [NOUVEAU]
+      - Édition augmentée (1922): autres-auteurs/boussinesq/conciliation-determinisme/1922.md # [NOUVEAU]
+    - Étude sur divers points de la philosophie des sciences (1879): autres-auteurs/boussinesq/philosophie-des-sciences.md # [NOUVEAU]
+    - Leçons synthétiques de mécanique générale (1889): autres-auteurs/boussinesq/lecons-mecanique-generale.md # [NOUVEAU]
+    - Théorie analytique de la chaleur:
+      - Tome I (1901): autres-auteurs/boussinesq/theorie-chaleur/tome-1.md # [NOUVEAU]
+      - Tome II (1903): autres-auteurs/boussinesq/theorie-chaleur/tome-2.md # [NOUVEAU]
+  - Joseph Delbœuf: # [NOUVEAU]
+    - Prolégomènes philosophiques de la géométrie (1860): autres-auteurs/delboeuf/prolegomenes-geometrie.md # [NOUVEAU]
+    - Essai de logique scientifique (1865): autres-auteurs/delboeuf/logique-scientifique.md # [NOUVEAU]
+    - Théorie générale de la sensibilité (1876): autres-auteurs/delboeuf/theorie-sensibilite.md # [NOUVEAU]
+    - Éléments de psychophysique générale et spéciale (1883): autres-auteurs/delboeuf/psychophysique.md # [NOUVEAU]
+    - Le Sommeil et les rêves (1885): autres-auteurs/delboeuf/sommeil-et-reves.md # [NOUVEAU]
+    - La Matière brute et la matière vivante (1887): autres-auteurs/delboeuf/matiere-brute-et-vivante.md # [NOUVEAU]
+  - Paul Mansion: # [NOUVEAU]
+    - Sur les principes fondamentaux de la géométrie, de la mécanique et de l'astronomie (1893): autres-auteurs/mansion/principes-fondamentaux-geometrie-mecanique-astronomie.md # [NOUVEAU]
+    - Principes fondamentaux de la géométrie non euclidienne de Riemann (1895): autres-auteurs/mansion/geometrie-riemann.md # [NOUVEAU]
+    - "Calcul des probabilités : sa portée objective et ses principes (1904)": autres-auteurs/mansion/calcul-des-probabilites.md # [NOUVEAU]
+  - Théodule Ribot: # [NOUVEAU]
+    - La Psychologie anglaise contemporaine:
+      - 1re édition (1870): autres-auteurs/ribot/psychologie-anglaise/1re-edition.md # [NOUVEAU]
+      - 2e édition (1875): autres-auteurs/ribot/psychologie-anglaise/2e-edition.md # [NOUVEAU]
+    - La Psychologie allemande contemporaine:
+      - 1re édition (1879): autres-auteurs/ribot/psychologie-allemande/1re-edition.md # [NOUVEAU]
+      - 2e édition (1885): autres-auteurs/ribot/psychologie-allemande/2e-edition.md # [NOUVEAU]
+    - Les Maladies de la mémoire (1881): autres-auteurs/ribot/maladies-de-la-memoire.md # [NOUVEAU]
+    - L'Évolution des idées générales (1897): autres-auteurs/ribot/evolution-idees-generales.md # [NOUVEAU]
+    - Essai sur l'imagination créatrice (1900): autres-auteurs/ribot/imagination-creatrice.md # [NOUVEAU]
+    - "Herbert Spencer — Principes de psychologie (trad. Th. Ribot et A. Espinas)":
+      - Tome I (1874): autres-auteurs/ribot/principes-de-psychologie/tome-1.md # [NOUVEAU]
+      - Tome II (1875): autres-auteurs/ribot/principes-de-psychologie/tome-2.md # [NOUVEAU]
+  - Élie de Cyon: # [NOUVEAU]
+    - Recherches expérimentales sur les fonctions des canaux semi-circulaires (1878): autres-auteurs/cyon/fonctions-canaux-semi-circulaires.md # [NOUVEAU]
+    - "Les Nerfs du cœur : Anatomie et physiologie (1905)": autres-auteurs/cyon/nerfs-du-coeur.md # [NOUVEAU]
+    - "Dieu et science : Essais de psychologie des sciences (1910)": autres-auteurs/cyon/dieu-et-science.md # [NOUVEAU]
+    - "L'Oreille, organe d'orientation dans le temps et dans l'espace (1911)": autres-auteurs/cyon/oreille-organe-orientation.md # [NOUVEAU]
+  - Édouard Le Roy: # [NOUVEAU]
+    - Dogme et critique (1907): autres-auteurs/le-roy/dogme-et-critique.md # [NOUVEAU]
+    - "La Pensée intuitive":
+      - "Tome I : Au-delà du discours (1929)": autres-auteurs/le-roy/pensee-intuitive/tome-1.md # [NOUVEAU]
+      - "Tome II : Invention et vérification (1930)": autres-auteurs/le-roy/pensee-intuitive/tome-2.md # [NOUVEAU]
+    - "Les Origines humaines et l'évolution de l'intelligence (1928)": autres-auteurs/le-roy/origines-humaines.md # [NOUVEAU]
+  - Abel Rey: # [NOUVEAU]
+    - "La Théorie de la physique chez les physiciens contemporains":
+      - 1re édition (1907): autres-auteurs/rey/theorie-de-la-physique/1re-edition.md # [NOUVEAU]
+      - 2e édition (1923): autres-auteurs/rey/theorie-de-la-physique/2e-edition.md # [NOUVEAU]
+    - "L'Énergétique et le mécanisme au point de vue des conditions de la connaissance (1908)": autres-auteurs/rey/energetique-et-mecanisme.md # [NOUVEAU]
+    - Le Retour éternel et la philosophie de la physique (1927): autres-auteurs/rey/retour-eternel.md # [NOUVEAU]
+    - "Leçons élémentaires de psychologie et de philosophie (2e éd. 1908)": autres-auteurs/rey/lecons-elementaires.md # [NOUVEAU]
+    - "Psychologie (1908)": autres-auteurs/rey/lecons/psychologie.md # [NOUVEAU]
+    - "Esthétique, logique, morale et philosophie générale (1908)": autres-auteurs/rey/esthetique-logique-morale.md # [NOUVEAU]
+    - "Leçons de psychologie et de philosophie (3e éd. 1911)": autres-auteurs/rey/lecons-de-psychologie-et-de-philosophie.md # [NOUVEAU]
+    - "Logique et morale suivies de notions sommaires de philosophie générale (3e éd. 1911)": autres-auteurs/rey/lecons/logique-et-morale.md # [NOUVEAU]
+
 - Recherche:
   - recherche/index.md
   - Bibliographies:
