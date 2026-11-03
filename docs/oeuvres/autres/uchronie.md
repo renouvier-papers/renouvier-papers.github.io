@@ -2,6 +2,9 @@
 
 > **Source** : Charles Renouvier, *Uchronie (l'utopie dans l'histoire) : esquisse historique apocryphe du développement de la civilisation européenne tel qu'il n'a pas été, tel qu'il aurait pu être*, Paris, Sandoz et Fischbacher, 1876.
 
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
 ---
 
 [p. 1] UCHRONIE

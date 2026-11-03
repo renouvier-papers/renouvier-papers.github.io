@@ -2,6 +2,9 @@
 
 > **Source** : Joseph Delbœuf, *Essai de logique scientifique : Prolégomènes suivis d'une étude sur la question du mouvement*, Liège, Desoer, 1865.
 
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
 ---
 
 [p. I] AVANT- PROPOS .

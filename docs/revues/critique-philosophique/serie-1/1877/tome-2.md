@@ -6,6 +6,9 @@ title: "Tome II"
 
 > Charles Renouvier et François Pillon (dir.), *La Critique philosophique, politique, scientifique, littéraire*, 1re série, 6e année, tome II (août 1877 – janvier 1878), Paris, Au bureau de la Critique philosophique, 1878.
 
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
 ---
 
 ## N° 27 — 2 août 1877

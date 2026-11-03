@@ -2,6 +2,9 @@
 
 > **Source** : Émile Boutroux, *De l'idée de loi naturelle dans la science et la philosophie contemporaines*, Paris, Société d'éditions d'enseignement supérieur, 1895.
 
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
 ---
 
 [p. 5] Extrait de la *Revue des Cours et Conférences*[^p5-1].

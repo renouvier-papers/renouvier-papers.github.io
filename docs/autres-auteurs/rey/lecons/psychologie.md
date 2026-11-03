@@ -5,6 +5,12 @@ title: "Psychologie (1908)"
 # Psychologie (1908)
 
 > Abel Rey, *Leçons élémentaires de psychologie et de philosophie : Psychologie*, Paris, Édouard Cornély et C^{ie}, 1908.
+
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
+---
+
 >
 > Source : National Library of Israel.
 

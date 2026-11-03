@@ -5,6 +5,12 @@ title: "La Pensée intuitive. Tome I : Au-delà du discours (1929)"
 # La Pensée intuitive. Tome I : Au-delà du discours (1929)
 
 > Édouard Le Roy, *La Pensée intuitive. Tome I : Au-delà du discours*, Paris, Boivin et C^{ie}, 1929.
+
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
+---
+
 >
 > Source : Internet Archive / University of California.
 

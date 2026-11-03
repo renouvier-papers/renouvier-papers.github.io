@@ -2,6 +2,9 @@
 
 > **Source** : Paul du Bois-Reymond, *Théorie générale des fonctions*, traduit de l'allemand par Gaston Milhaud et A. Girot, Paris, Librairie de l'Académie de Médecine, 1887.
 
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
 ---
 
 [p. 5] Quand MM . Milhaud et Girot m'ont fait part de leur intention de traduire ma Théorie Générale des Fonctions qui , publiée en 1882, avait même été rédigée environ cinq ans auparavant, j'ai voulu profiter d'une aussi belle occasion pour remanier quelques passages , pour insister sur plusieurs points qui ont acquis aujourd'hui plus d'actualité, enfin, pour faire quelques additions. Ces changements ne touchent d'ailleurs nullement au fond des matières exposées dans mon livre . Au contraire , les critiques assez nombreuses qui en ont paru , plus souvent encore contradictoires entre elles qu'en opposition avec mes vues , m'ont convaincu plus que jamais que j'ai réussi à mettre au jour la vraie nature de la connaissance exacte et des concepts métaphysiques sur lesquels elle se fonde .

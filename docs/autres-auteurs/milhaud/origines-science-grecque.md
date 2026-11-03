@@ -2,8 +2,10 @@
 
 > **Source** : Gaston Milhaud, *Leçons sur les origines de la science grecque*, Paris, Félix Alcan, 1893.
 
----
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
 
+---
 
 ## LIVRE PREMIER
 

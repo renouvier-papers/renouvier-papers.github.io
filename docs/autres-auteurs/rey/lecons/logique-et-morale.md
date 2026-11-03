@@ -5,6 +5,12 @@ title: "Logique et morale suivies de notions sommaires de philosophie générale
 # Logique et morale suivies de notions sommaires de philosophie générale (3e éd. 1911)
 
 > Abel Rey, *Logique et morale suivies de notions sommaires de philosophie générale*, 3e édition revue et augmentée, Paris, Édouard Cornély et C^{ie}, 1911.
+
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
+---
+
 >
 > Source : Internet Archive / University of Texas at Austin.
 

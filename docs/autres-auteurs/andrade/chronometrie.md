@@ -5,6 +5,12 @@ title: "Chronométrie (1908)"
 # Chronométrie (1908)
 
 > Jules Andrade, *Chronométrie*, Paris, Octave Doin, 1908 (Encyclopédie scientifique).
+
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
+---
+
 >
 > Source : Gallica / Bibliothèque nationale de France.
 

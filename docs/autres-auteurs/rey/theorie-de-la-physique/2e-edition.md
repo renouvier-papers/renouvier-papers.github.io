@@ -5,6 +5,12 @@ title: "La Théorie de la physique chez les physiciens contemporains (2e éd. 19
 # La Théorie de la physique chez les physiciens contemporains (2e éd. 1923)
 
 > Abel Rey, *La Théorie de la physique chez les physiciens contemporains*, 2e édition revue et augmentée d'un aperçu sur l'état actuel de la question, Paris, Félix Alcan, 1923.
+
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
+---
+
 >
 > Source : Internet Archive / University of Michigan.
 

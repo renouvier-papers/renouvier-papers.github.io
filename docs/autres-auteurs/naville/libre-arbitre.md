@@ -2,6 +2,9 @@
 
 > **Source** : Ernest Naville, *Le Libre arbitre : étude philosophique*, Paris, Félix Alcan, 1890.
 
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
 ---
 
 ## Préface

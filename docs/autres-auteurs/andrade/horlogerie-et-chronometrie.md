@@ -5,6 +5,12 @@ title: "Horlogerie et chronométrie (1924)"
 # Horlogerie et chronométrie (1924)
 
 > Jules Andrade, *Horlogerie et chronométrie*, Paris, J.-B. Baillière et fils, 1924 (Grandes encyclopédies industrielles).
+
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
+---
+
 >
 > Source : Gallica / Bibliothèque nationale de France.
 

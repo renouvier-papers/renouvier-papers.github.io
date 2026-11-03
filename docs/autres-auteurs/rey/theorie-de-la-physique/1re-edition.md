@@ -5,6 +5,12 @@ title: "La Théorie de la physique chez les physiciens contemporains (1re éd. 1
 # La Théorie de la physique chez les physiciens contemporains (1re éd. 1907)
 
 > Abel Rey, *La Théorie de la physique chez les physiciens contemporains*, Paris, Félix Alcan, 1907.
+
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
+---
+
 >
 > Source : Internet Archive / University of Wisconsin - Madison.
 

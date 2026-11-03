@@ -2,8 +2,10 @@
 
 > **Source** : David Hume, *Psychologie de Hume : Traité de la nature humaine*, traduit par Charles Renouvier et François Pillon, avec une introduction de Ch. Renouvier, Paris, Ernest Leroux, 1878.
 
----
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
 
+---
 
 ## INTRODUCTION
 

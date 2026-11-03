@@ -2,6 +2,9 @@
 
 > **Source** : Gaston Milhaud, *Num Cartesii methodus tantum valeat in suo opere illustrando quantum ipse senserit*, Montpellier, Imprimerie Ricard Frères, 1894.
 
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
 ---
 
 [p. 7] Cartesii scripta attente evolventi non erit dubium quin suorum operum seriem sub legentium oculos ita subjicere voluerit, ut illa ex uno primo invento, scilicet ad omnium rerum investigandam cogni- tionem quadam nova methodo, orta esse videantur. Cujus sola sed continua observatione se clarissimis verbis Cartesius affirmat, cum in illis quæstionibus quæ ad Metaphysicam spectent, tum in Physicæ et Matheseos difficultatibus, per securam ac faci- lem viam ad veritatem pervenisse. Et quidem non desunt, et inter maxime egregios, qui ad illius æstimandum explicandumque ingenium hanc sen- tentiam proferre soleant, Cartesium primum ela- borata methodo quasi illuminatum perpetuitatem operis continuo et naturali progressu perlustra- visse . Quæ vestigia sequi nobis non in animo est : Immo et Cartesii errorem et omnium qui in ejus de se ipso sententiam ingrediantur , in lumen velim afferre . Non a novo ac peculiari veritatem quærendi modo nobis illius opera genus ducere videntur. Præcipue Mathematicus apparet ille, qui mathematico lumine quasi collustratus, illud in

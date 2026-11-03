@@ -5,6 +5,12 @@ title: "Esquisse d'une interprétation du monde (1913)"
 # Esquisse d'une interprétation du monde (1913)
 
 > Alfred Fouillée, *Esquisse d'une interprétation du monde*, d'après les manuscrits de l'auteur, avec une préface par Émile Boirac, Paris, Félix Alcan, 1913.
+
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
+---
+
 >
 > Source : Gallica / Bibliothèque nationale de France.
 

@@ -5,6 +5,12 @@ title: "Les Arguments de Zénon d'Élée contre le mouvement"
 # Les Arguments de Zénon d'Élée contre le mouvement
 
 > Charles Dunan, *Les Arguments de Zénon d'Élée contre le mouvement*, Paris, Félix Alcan, 1884.
+
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
+---
+
 >
 > Source : Gallica / Bibliothèque nationale de France.
 

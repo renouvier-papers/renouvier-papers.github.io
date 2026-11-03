@@ -2,6 +2,9 @@
 
 > **Source** : Émile Boutroux, *La Nature et l'esprit*, Paris, Vrin, 1925.
 
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
 ---
 
 [p. 7] - Le présent recueil n'a pas été prépar l'auteur . S'il avait lui-même réuni ces confér certaines répétitions d'idées et d'expression résulteront de leur rapprochement eussent dispa Les seules suppressions que les éditeurs devoir se permettre portent sur quelques citatio se retrouvaient dans plusieurs études. En vo liste. 1º p . 53, après « nous connaissons », 1. 32 : There are more things in heaven and earth, F Than are dreamt of in your philosophy. 2º p. 114, après « sur son passage. » , 1. 27 : Ubi solitudinem faciunt, pacem appellant . 3º p . 116, après « mise en pratique, » , 1. 9 : works satisfactorily, 4° p . 120 , après « son âme » , 1. 33 : αρμονίη ἀφανὴς φανερῆς κρείττων (Héraclite). 5º p . 122, après « du sentiment. », 1. 28 : Μηδενὶ μηδεμίαν είναι παίδευσιν παρὰ τοῦ μὴ αρεστ On ne saurait rien apprendre d'un homme p on a de l'antipathie, disait Xénophon.

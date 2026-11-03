@@ -6,6 +6,9 @@ title: "Tome I"
 
 > Charles Renouvier et François Pillon (dir.), *La Critique philosophique, politique, scientifique, littéraire*, 1re série, 3e année, tome I (février – juillet 1874), Paris, Au bureau de la Critique philosophique, 1874.
 
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
 ---
 
 ## N° 1 — 5 février 1874

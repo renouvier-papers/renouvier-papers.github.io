@@ -2,8 +2,10 @@
 
 > **Source** : Joseph Delbœuf, *Éléments de psychophysique générale et spéciale : Mesure des sensations de lumière et de fatigue. Théorie générale de la sensibilité*, Paris, Germer Baillière, 1883.
 
----
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
 
+---
 
 ## PRÉFACE
 

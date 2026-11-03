@@ -5,6 +5,12 @@ title: "Les Philosophes-géomètres de la Grèce"
 # Les Philosophes-géomètres de la Grèce
 
 > Gaston Milhaud, *Les Philosophes-géomètres de la Grèce. Platon et ses prédécesseurs*, Paris, Félix Alcan, 1900.
+
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
+
+---
+
 >
 > Source : Gallica / Bibliothèque nationale de France.
 

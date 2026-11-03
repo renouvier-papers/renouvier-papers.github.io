@@ -2,8 +2,10 @@
 
 > **Source** : Georges Lechalas, *La Connaissance du monde extérieur*, Paris, Félix Alcan, 1890.
 
----
+!!! danger "Avertissement sur l’état du texte (texte brut non corrigé)"
+    Ce document est issu d'une reconnaissance optique de caractères (OCR) automatique en attente de relecture éditoriale. Il comporte encore des coquilles, des artefacts typographiques et des balises manquantes (italiques, notes, coupures de mots). Merci de vous reporter à l'édition imprimée originale avant toute citation.
 
+---
 
 [p. 1] L'école sensualiste du XVIIe siècle, en rompant avec la philosophie spiritualiste que Descartes et ses disciples avaient fait briller d'un si vif éclat au siècle précédent, renonça en même temps à l'alliance intime que ceux-ci avaient toujours maintenue entre la science et la philosophie [^p1-1]. Lorsque, plus tard, un retour se produisit vers les doctrines du XVIe siècle, ce mouvement fut dirigé principalement par Victor Cousin, qui ne songea. nullement à restaurer les traditions scientifiques de ce siècle. De là est résulté que, dans les travaux, si précieux d'ailleurs, de l'école éclectique, la pensée cartésienne s'est bien souvent trouvée mutilée par l'élimination de tout élément scientifique. Mais, heureusement, des philosophes qui combattaient la métaphysique spiritualiste ont développé, au contraire, le côté scientifique de la philosophie cartésienne, en sorte qu'il est aisé de reprendre aujourd'hui l'examen des questions débattues au XVIIe° siècle, à un point de vue plus large que celui de l'école éclectique [^p1-2]. Parmi toutes ces questions, nous choisirons celle de la connaissance du monde extérieur qui, comme l'a dit Stuart Mill, est le grand champ de bataille de la métaphysique, non pas tant pour sa propre importance que parce qu'elle touche au plus familier de nos actes mentaux et qu'elle jette une vive
 
