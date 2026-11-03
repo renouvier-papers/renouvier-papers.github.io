@@ -472,7 +472,7 @@ Trigonométrie sphérique.
 
 § 1er.
 
-Lignes trigonométriques.[^p15-1][^p15-2][^p15-3]
+Lignes trigonométriques.[^p15-3][^p15-2][^p15-1]
 
 [p. 16] π l'angle droit est alors
 
@@ -785,7 +785,7 @@ x) = f(x)
 
 (2)
 
-[p. 20] Différentions l'équation (1) en tenant compte de l'équation (2), on a :
+[p. 20] Différentions l'équation [^p20-1] en tenant compte de l'équation (2), on a :
 
 f ' (x) = — f (-x) = — f (x)
 
@@ -817,7 +817,7 @@ Z
 
 a sin x.
 
-Cette formule fondamentale contient, comme nous allons le voir, toute la trigonométrie.[^p20-1]
+Cette formule fondamentale contient, comme nous allons le voir, toute la trigonométrie.
 
 [p. 21] pour = 2 π, on a la circonférence totale s = 2
 
@@ -1305,12 +1305,12 @@ homologues m et m'sont situés sur une
 
 géodésique passant par un point fixe P
 
-et où le rapport anharmonique des quatre points Pmm'M est constant, le point M étant sur une géodésique fixe L.
+et où le rapport anharmonique des quatre points Pmm'M est constant, le point M étant sur une géodésique fixe L.[^p26-2][^p26-1]
 
 
 P
 
-/L[^p26-1][^p26-2]
+/L
 
 [p. 27] c'est-à-dire cos MM'= xx ' + sin XM sin XM'(cos a cos a ' + sin a sin a').
 
@@ -1453,11 +1453,11 @@ tg
 
 ? tg
 
-?" = tg
+?[^p28-1]" = tg
 
 2 1
 
-d [^p28-1]
+d
 
 [p. 29] Considérons, en un point M d'une courbe quelconque, un cercle tangent ; prenons sur la tangente commune MP infiniment petit et élevons en P une perpendiculaire qui coupe la courbe en N et le cercle en N₁ ; on a dans le M
 
@@ -1705,7 +1705,7 @@ Passage de la sphère au plan.[^p36-1]
 0
 
 
-tence sur la sphère de géodésiques se coupant en deux points M et M'est ainsi établie ; donc la sphère, d'après notre nouvelle définition, est bien une surface identique à elle-même dans toutes ses parties et sur laquelle des géodésiques peuvent se couper en deux points : nous retombons ainsi sur notre première définition (6) et les deux définitions sont par conséquent équivalentes.[^p37-1][^p37-2]
+tence sur la sphère de géodésiques se coupant en deux points M et M'est ainsi établie ; donc la sphère, d'après notre nouvelle définition, est bien une surface identique à elle-même dans toutes ses parties et sur laquelle des géodésiques peuvent se couper en deux points : nous retombons ainsi sur notre première définition (6) et les deux définitions sont par conséquent équivalentes.[^p37-2][^p37-1]
 
 [p. 38] Considérons sur P la géodésique de cette surface qui passe par les deux points met m': par ces deux points menons dans l'espace la droite I qui jouit de la propriété a ;
 
@@ -1759,7 +1759,7 @@ Mais dans le triangle rectangle HAM, l'angle A est le complément de l'angle en 
 
 On retrouve ainsi la propriété c.
 
-En résumé, si l'on admet que la sphère de rayon infini est une surface retournable, cette surface est le plan euclidien et sa géodésique est la droite euclidienne.[^p39-1][^p39-2]
+En résumé, si l'on admet que la sphère de rayon infini est une surface retournable, cette surface est le plan euclidien et sa géodésique est la droite euclidienne.[^p39-2][^p39-1]
 
 [p. 40] sin a
 
@@ -1885,7 +1885,7 @@ m
 
 9 la notation GM représentant, comme on sait, l'angle GOM, c'està-dire l'arc G'M'.
 
-Si, admettant la théorie des parallèles, on considérait OG comme la diagonale du parallélogramme construit sur OM et OM₁, on aurait les mêmes formules que ci-dessus et OG serait la résultante de OM et OM, dans le sens ordinaire de ce mot. Mais, malgré cette identité apparente, il importe de remarquer que la composition, telle que nous l'avons définie à l'aide de la sphère et de la droite réduite à la propriété a, est absolument indépendante de la théorie des parallèles.[^p42-1][^p42-2]
+Si, admettant la théorie des parallèles, on considérait OG comme la diagonale du parallélogramme construit sur OM et OM₁, on aurait les mêmes formules que ci-dessus et OG serait la résultante de OM et OM, dans le sens ordinaire de ce mot. Mais, malgré cette identité apparente, il importe de remarquer que la composition, telle que nous l'avons définie à l'aide de la sphère et de la droite réduite à la propriété a, est absolument indépendante de la théorie des parallèles.[^p42-2][^p42-1]
 
 [p. 43] et on aura un résultant final en composant (F₂μα) et (M'm₂). Soit maintenant
 
@@ -1907,7 +1907,7 @@ Fs
 
 sin M', M',
 
-(2) M
+[^p43-2] M
 
 
 μα
@@ -1936,7 +1936,7 @@ sin FM et sinM'M
 
 2
 
-1 est égal en valeur absolue à l'unité. Or, d'après les relations (1) et (2) le second et le troisième de ces rapports sont respectivement égaux
+1 est égal en valeur absolue à l'unité. Or, d'après les relations [^p43-1] et (2) le second et le troisième de ces rapports sont respectivement égaux
 
 m
 
@@ -1984,7 +1984,7 @@ sin F.M'
 
 2
 
-μ[^p43-1][^p43-2]
+μ
 
 [p. 44] μ vement pour valeur
 
@@ -3015,13 +3015,13 @@ R
 
 R N décrit un cercle quand & est constant.
 
-Si μ. (0, Β) est constant, quel que soit R, il en est de même de ses dérivées μ' et μ" quand B se déplace infiniment peu sur
+Si μ.[^p24-1] (0, Β) est constant, quel que soit R, il en est de même de ses dérivées μ' et μ" quand B se déplace infiniment peu sur
 
 1 OB ; par suite, la courbure
 
 de Ren BestK
 
-μ[^p24-1]
+μ
 
 [p. 25] = que la constante soit nulle ; on a ainsi μ, μ ' — μμ,' = 0. D'où en intégrant une seconde fois l. μ
 
@@ -3375,7 +3375,7 @@ xy
 
 Faisons tourner le triangle Spq de deux angles droits et amenons-le ainsi en Sp'q ' ; ce triangle, égal au précédent, a évidemment même excès AE. Mais pour avoir l'excès de ce triangle Sp'q' il faut, dans la formule (1), changer dx et dy en — dx et — dy ; [p. 12] elle doit alors conserver sa même valeur, ce qui exige que dæ et dy n'y figurent qu'aux puissances paires.
 
-Donc, en résumé, la formule (1) prendra la forme :
+Donc, en résumé, la formule [^p12-1] prendra la forme :
 
 ΔΕ = dx.dy [fx (0) + v₂ + v + ۰۰۰]
 
@@ -3441,7 +3441,7 @@ D'après cela, soit ABC un triangle infiniment petit quelconque de côtés a, b 
 
 1
 
-e= bc [o (A) +++ …][^p12-1]
+e= bc [o (A) +++ …]
 
 [p. 13] On a donc, en négligeant dans ces formules les infiniment petits du quatrième ordre, le théorème suivant :
 
@@ -3585,7 +3585,7 @@ Ainsi l'excès est proportionnel au produit AH.BC.
 
 Théorème.
 
-Dans un triangle infiniment petit l'excès est proportionnel au produit de la base par la hauteur.[^p15-1][^p15-2]
+Dans un triangle infiniment petit l'excès est proportionnel au produit de la base par la hauteur.[^p15-2][^p15-1]
 
 [p. 16] Ainsi, dans notre quadrilatère, deux angles adjacents A et B sont supplémentaires à un infiniment près du second ordre.
 
@@ -4307,7 +4307,7 @@ Si l'on dédouble ce cercle par la pensée et qu'on déplace sur
 
 Théorème.
 
-la surface l'un des cercles ainsi obtenus, on voit que le théorème est encore vrai pour des cercles égaux.[^p30-1][^p30-2]
+la surface l'un des cercles ainsi obtenus, on voit que le théorème est encore vrai pour des cercles égaux.[^p30-2][^p30-1]
 
 [p. 31] s'annuleavecret l'on peut poser, pour r infiniment petit, o (r) =
 
@@ -4549,13 +4549,13 @@ d (mm') = φ ' [^p34-4] dp.dw
 
 (2)
 
-La comparaison des formules (1) et (2) donne :
+La comparaison des formules [^p34-1] et (2) donne :
 
 ε
 
 (p) dw
 
-(3)
+[^p34-3]
 
 Les excès angulaires du contour mm'n'n et du rectangle m'pqh ne diffèrent que d'un infiniment petit du troisième ordre (21).
 
@@ -4581,7 +4581,7 @@ Mais la formule (3) donne de = φ" (p) dp.dw ; on en déduit :
 
 φ (ρ) = — Κ φ " (?)
 
-(4 et cette équation différentielle définit la fonction φ.[^p34-1][^p34-3][^p34-5]
+(4 et cette équation différentielle définit la fonction φ.[^p34-5]
 
 [p. 35] Du reste, ces deux formules peuvent se réunir dans la suivante :
 
@@ -4775,7 +4775,7 @@ Dans le cas particulier où l'on a d = π√K, les deux centres sont deux points
 
 46. Revenons à la figure précédente (42) ; traçons l'arc géodé [p. 38] sique infiniment petit mn'; on a, dans le triangle rectangle mm'n'(35), mn'
 
-ds² = m'n'² + mm², c'est-à-dire :
+ds[^p38-2] = m'n'² + mm², c'est-à-dire :
 
 2
 
@@ -4789,7 +4789,7 @@ l'angle de mn'avec mn et par 0 + de l'angle de mn'avec m'n'. Nous allons évalue
 
 ο ου αθ =
 
-ɛ. Mais on a (42), d'après l'équation (3), s = φ ' (p) dwet par suite de = — φ ' (ρ) dw. D'autre
+ɛ. Mais on a (42), d'après l'équation [^p38-3], s = φ ' (p) dwet par suite de = — φ ' (ρ) dw. D'autre
 
 mm'
 
@@ -4842,7 +4842,7 @@ sin B
 
 φ (b)
 
-sin C[^p38-2][^p38-3]
+sin C
 
 [p. 39] π sons, pour simplifier notre formule, que e soit égal à
 

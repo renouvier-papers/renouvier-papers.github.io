@@ -1288,9 +1288,9 @@ III. — L'éminent philosophe auquel nous avons emprunté les éléments princi
 
 S'il faut en croire M. Spencer, nous serions en présence de trois formules distinctes applicables à un seul et même objet ; la matière et le mouvement ne seraient susceptibles d'être connus qu'en fonction de la force. Donc, affirmer que la matière demeure indestructible ou que la force persiste, serait tout un. « Si pour nous servir d'un exemple » emprunté aux signes algébriques nous repré » sentons la matière, le mouvement et la force » par les symboles x, y, z, nous pouvons exprimer » les valeurs de x et d'y en fonction de z ; mais » la valeur de z ne peut jamais être trouvée. z est » la quantité inconnue qui doit pour toujours » rester inconnue, par la raison évidente qu'il n'y » a rien en fonction de quoi sa valeur puisse être » exprimée [^p130-1]. »
 
-Le principe de la persistance de la force est une « vérité donnée dans notre constitution mentale » (1) ; donc elle ne recevra point de démonstration.
+Le principe de la persistance de la force est une « vérité donnée dans notre constitution mentale » (1) ; donc elle ne recevra point de démonstration.[^p130-2]
 
-Soit, on ne cherchera nullement à démontrer [^p130-2]
+Soit, on ne cherchera nullement à démontrer
 
 [p. 131] la formule, mais devra-t-on renoncer à en éclaircir le contenu ? Par exemple, affirmera-t-on la persistance de la force, sans essayer à définir la force, ou tout au moins à entrevoir ce qu'elle est ou ce qu'elle peut être ?
 
@@ -1494,9 +1494,9 @@ Malebranche, le premier, ou des premiers, [p. 147] soupçonna que les ondulation
 
 C'est à Young et à Fresnel que revient la gloire d'avoir constitué d'une manière définitive la théorie de l'éther, et, par cela même, d'avoir donné à cette hypothèse, je ne dis pas une certitude, mais une autorité difficilement ébranlable.
 
-Qu'est-ce que l'éther, ou plutôt, étant admis que ce fluide existe, comment nous est-il donné de le concevoir ?
+Qu'est-ce que l'éther, ou plutôt, étant admis que ce fluide existe, comment nous est-il donné de le concevoir ?[^p147-2]
 
-1º Il est impondérable, ce qui veut dire qu'on ne peut pas le peser ; toute comparaison d'un espace plein d'éther avec un espace vide d'éther est [^p147-2]
+1º Il est impondérable, ce qui veut dire qu'on ne peut pas le peser ; toute comparaison d'un espace plein d'éther avec un espace vide d'éther est
 
 [p. 148] manifestement impossible. On ne peut ni condenser l'éther, ni le raréfier [^p148-1].
 
@@ -1796,7 +1796,7 @@ Nous n'insisterons pas sur le magnétisme ; tout le monde sait aujourd'hui que l
 
 On ne connaît point encore l'équivalent mécanique du son, mais, de ce côté, les difficultés sont moindres que tout à l'heure ;
 
-il suffirait, pour atteindre le but, de fixer l'unité de son (2).[^p176-2]
+il suffirait, pour atteindre le but, de fixer l'unité de son [^p176-2].
 
 [p. 177] Reste la lumière
 

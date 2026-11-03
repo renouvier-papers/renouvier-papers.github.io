@@ -18,7 +18,7 @@ Notre ouvrage sur La Logique de Leibniz était presque terminé (nous le croyion
 
 disons mieux, il les a rendues possibles. C'est, selon une métaphore chère à Leibniz, l'indispensable fil d'Ariane sans lequel nous n'aurions jamais pu nous aventurer dans le labyrinthe de ses manuscrits. M. Bodemann
 
-I. A présent conseiller municipal de la ville de Gênes.[^pI-1][^pI-2]
+I. A présent conseiller municipal de la ville de Gênes.[^pI-2][^pI-1]
 
 [p. II]
 
@@ -30,7 +30,7 @@ nous a libéralement ouvert le trésor dont il a la garde, et il nous a aidé da
 
 Nous avons dit ailleurs combien notre livre sur La Logique de Leibniz a profité des nouveaux documents que nous avons rapportés de Hanovre ;
 
-et si nous le rappelons ici, c'est pour bien marquer le caractère de cette publication. Le présent volume n'est, en principe, que la collection des textes inédits qui nous ont servi à compléter notre travail historique. Le choix que nous en avons fait a donc été avant tout déterminé par le sujet qui nous occupait : c'est en général dans la mesure où ils se rapportaient à la Logique que nous en avons pris, soit une copie intégrale, soit des extraits seulement. Mais, comme la Logique de Leibniz est le centre de son système, nous avons été naturellement conduit à « rayonner » dans diverses provinces de son œuvre : c'est ainsi que nous avons trouvé certains opuscules métaphysiques du plus haut intérêt, comme le « Primæ veritates », qui résume toute la philosophie leibnizienne dans son ordre génétique et dans sa vraie perspective 1 ; et certaines œuvres mathématiques qui nous ont paru intéressantes, ne fût-ce que pour l'histoire de la pensée de Leibniz, comme La Méthode de l'Universalité et le Pacidius Philalethi °, dont GERHARDT n'a daigné donner au public que quelques extraits, sous prétexte que c'était une « Vorstudie »". De même, nous avons copié en passant quelques notes ou quelques coupons qui peuvent être précieux par la date qu'ils portent ", comme ce fragment du 2 décembre 1676, qui suffit à ruiner l'hypothèse du spinozisme, même passager, de Leibniz ®. En un mot, nous nous sommes efforcé, toutes les fois que nous en avons eu l'occasion, de combler les lacunes des éditions[^pII-1][^pII-2][^pII-3][^pII-4][^pII-5][^pII-6]
+et si nous le rappelons ici, c'est pour bien marquer le caractère de cette publication. Le présent volume n'est, en principe, que la collection des textes inédits qui nous ont servi à compléter notre travail historique. Le choix que nous en avons fait a donc été avant tout déterminé par le sujet qui nous occupait : c'est en général dans la mesure où ils se rapportaient à la Logique que nous en avons pris, soit une copie intégrale, soit des extraits seulement. Mais, comme la Logique de Leibniz est le centre de son système, nous avons été naturellement conduit à « rayonner » dans diverses provinces de son œuvre : c'est ainsi que nous avons trouvé certains opuscules métaphysiques du plus haut intérêt, comme le « Primæ veritates », qui résume toute la philosophie leibnizienne dans son ordre génétique et dans sa vraie perspective 1 ; et certaines œuvres mathématiques qui nous ont paru intéressantes, ne fût-ce que pour l'histoire de la pensée de Leibniz, comme La Méthode de l'Universalité et le Pacidius Philalethi °, dont GERHARDT n'a daigné donner au public que quelques extraits, sous prétexte que c'était une « Vorstudie »". De même, nous avons copié en passant quelques notes ou quelques coupons qui peuvent être précieux par la date qu'ils portent ", comme ce fragment du 2 décembre 1676, qui suffit à ruiner l'hypothèse du spinozisme, même passager, de Leibniz ®.[^pII-6][^pII-5][^pII-4][^pII-3][^pII-2][^pII-1] En un mot, nous nous sommes efforcé, toutes les fois que nous en avons eu l'occasion, de combler les lacunes des éditions
 
 [p. III]
 
@@ -42,7 +42,7 @@ existantes. Par exemple, nous publions la fin du Specimen Calculi universalis', 
 
 Mais, si incomplètes que soient les éditions existantes, nous n'avons pas eu la prétention d'en combler toutes les lacunes, même en ce qui concerne spécialement la logique. Nous n'avons pu copier que les prinpeuvent être au moins aussi intéressants à d'autres égards. Notre ouvrage n'est donc nullement une édition, même partielle ou complémentaire :
 
-c'est un recueil de morceaux choisis, qui parfois se réduit presque à un catalogue, destiné à compléter sur quelques points le catalogue Bodemann®. Il a avant tout pour but de mettre à la disposition du public les documents que nous avons employés dans l'élaboration de La Logique[^pIII-1][^pIII-2][^pIII-3]
+c'est un recueil de morceaux choisis, qui parfois se réduit presque à un catalogue, destiné à compléter sur quelques points le catalogue Bodemann®.[^pIII-3][^pIII-2][^pIII-1] Il a avant tout pour but de mettre à la disposition du public les documents que nous avons employés dans l'élaboration de La Logique
 
 [p. IV]
 
@@ -60,7 +60,7 @@ Le commentaire doctrinal de la plupart de ces fragments se trouve naturellement 
 
 ment possible le texte avec sa physionomie : non seulement nous avons respecté l'orthographe dans toutes ses bizarreries 1, mais nous avons noté la pagination, et marqué par des signes spéciaux les passages ajoutés et les passages effacés ? . Cette dernière précaution nous paraît très importante : elle a été constamment négligée par les éditeurs antérieurs, aussi nous permettons-nous de la recommander aux éditeurs futurs. Pour en comprendre l'utilité, il faut savoir comment travaillait Leibniz. Il écrivait le plus souvent sur des pages *in-folio* (à peu près du format « ministre ») pliées en deux dans la largeur. Le brouillon occupait une
 
-pour en agire bon, opte a a le d router du di, en so procures.[^pIV-1][^pIV-2]
+pour en agire bon, opte a a le d router du di, en so procures.[^pIV-2][^pIV-1]
 
 [p. V]
 
@@ -72,9 +72,9 @@ Comme presque tous ces manuscrits ne
 
 sont que des brouillons, on assiste à l'éclosion de cette pensée, on suit pas à pas ses recherches, ses tentatives, ses insuccès, ses retours, et ce spectacle passionnant, parfois presque dramatique, est autrement intéressant que la lecture d'un texte définitif et fixé 3. On pénètre ainsi dans l'intimité de ce grand esprit ; on s'initie non seulement à sa méthode de travail, mais à ses plus secrètes pensées, à ses habitudes inconscientes et à ses tendances fondamentales.
 
-C'est de cet avantage que nous avons tâché de faire profiter autant que possible le lecteur.
+C'est de cet avantage que nous avons tâché de faire profiter autant que possible le lecteur.[^pV-1]
 
-Nous n'avons pas cru pouvoir classer ces textes inédits dans un ordre systématique qui en fit ressortir les relations : d'abord, parce que, comme nous l'avons dit, nous ne prétendons pas en donner une édition défini-[^pV-1]
+Nous n'avons pas cru pouvoir classer ces textes inédits dans un ordre systématique qui en fit ressortir les relations : d'abord, parce que, comme nous l'avons dit, nous ne prétendons pas en donner une édition défini-
 
 [p. VI]
 
@@ -110,7 +110,7 @@ C'est justement pour cela que l'on a fait appel à l'Association internationale 
 
 Aussi ne peut-on s'élever trop énergiquement contre un avis qui aurait été émis au sein de l'Association, et qui tendrait à « faire un choix » entre les manuscrits. Faire un choix ! Mais c'est ce qu'ont fait déjà tous les éditeurs précédents ; et le résultat en est que nous n'avons de documentation complète sur aucune des parties de l'œuvre de Leibniz, sur aucune des faces de son génie encyclopédique et de son activité universelle. Si l'édition projetée ne doit pas être absolument complète, ce n'est pas la peine de l'entreprendre, et de mettre en branle trois Académies pour faire un recueil qui soit à l'édition Gerhardt ce que celle-ci est à l'édition
 
-importance à celui-là. Et puis, qui peut prétendre juger si tel fragment offre ou n'offre pas d'intérêt ? Faut-il donc rappeler à des érudits que rien de ce qui émane d'un grand esprit comme Leibniz n'est insignifiant et indifférent, surtout lorsque cet esprit n'a presque rien publié de[^pVII-1]
+importance à celui-là. Et puis, qui peut prétendre juger si tel fragment offre ou n'offre pas d'intérêt ?[^pVII-1] Faut-il donc rappeler à des érudits que rien de ce qui émane d'un grand esprit comme Leibniz n'est insignifiant et indifférent, surtout lorsque cet esprit n'a presque rien publié de
 
 [p. VIII]
 
@@ -142,7 +142,7 @@ Proposera-t-on enfin, pour faire l'économie de quelques volumes, de sacrifier l
 
 Mais de quel droit dédaignerait-on une pensée que Leibniz n'a pas dédaigné, lui, de noter par écrit ? D'abord, un certain nombre de ces fragments sont datés, et cela suffit pour leur donner du prix : car, quand ils ne feraient que répéter une idée exprimée ailleurs, ils nous apprennent que tel jour, telle année, elle était présente à l'esprit de l'auteur ; et cela peut permettre de conjecturer la date de telle œuvre beaucoup plus importante 3. Quant aux autres, ils ne sont pas moins intéressants par leur contenu : on peut en juger par ceux que M. BoDEMANN
 
-a publiés dans son catalogue, et par ceux que nous publions nous-même. La pensée de Leibniz procédait par « fulgurations », et son expression est en général d'autant plus nette et plus vive qu'elle est plus courte : certains résumés de quatre pages sont plus riches et plus instructifs que les grands ouvrages où cette pensée se dilue et se noie. Il n'est donc pas étonnant que quelques idées de Leibniz aient trouvé parfois leur expression adéquate dans certaines formules lapidaires, qu'il a pour cela même jetées sur le premier bout de papier venu '. Ailleurs, ce sont des remarques fines ou profondes qu'il note à propos d'une lecture : tout cela contribue à la connaissance de sa pensée, ou sert tout au moins à compléter sa physionomie intellectuelle et morale. Encore une fois, qui donc aurait l'audace de « faire un choix » entre tous ces morceaux, de déclarer celui-ci intéressant et celui-là inutile ? Sait-on jamais si tel chiffon de papier, en apparence insignifiant, n'apportera pas à une étude future un complément[^pIX-1][^pIX-2][^pIX-3]
+a publiés dans son catalogue, et par ceux que nous publions nous-même. La pensée de Leibniz procédait par « fulgurations », et son expression est en général d'autant plus nette et plus vive qu'elle est plus courte : certains résumés de quatre pages sont plus riches et plus instructifs que les grands ouvrages où cette pensée se dilue et se noie. Il n'est donc pas étonnant que quelques idées de Leibniz aient trouvé parfois leur expression adéquate dans certaines formules lapidaires, qu'il a pour cela même jetées sur le premier bout de papier venu '. Ailleurs, ce sont des remarques fines ou profondes qu'il note à propos d'une lecture : tout cela contribue à la connaissance de sa pensée, ou sert tout au moins à compléter sa physionomie intellectuelle et morale. Encore une fois, qui donc aurait l'audace de « faire un choix » entre tous ces morceaux, de déclarer celui-ci intéressant et celui-là inutile ?[^pIX-3][^pIX-2][^pIX-1] Sait-on jamais si tel chiffon de papier, en apparence insignifiant, n'apportera pas à une étude future un complément
 
 [p. X]
 
@@ -158,7 +158,7 @@ serait encore retomber dans les erreurs des éditeurs précédents. Faut-il donc
 
 Dans les Philosophische Schriften se trouvent des écrits d'un contenu mathématique, et dans les Mathematische Schriften des lettres d'un grand intérêt philosophique ? . Bien plus : des documents très précieux pour la philosophie se trouvent égarés dans les œuvres « historico-politiques » publiées par KLopp. Un tel classement n'est donc qu'un trompel'œil, qui entretient chez le lecteur l'illusion dangereuse de posséder et de connaître tous les écrits philosophiques ou tous les écrits mathématiques, et ainsi de suite. Et cela ne tient pas tant à la maladresse des édilection complète des œuvres
 
-philosophiques : il sera impossible d'en séparer, d'une part, les œuvres mathématiques, car toutes les théories logiques de Leibniz sont inspirées par ses études et ses découvertes mathématiques ; et, d'autre part, les œuvres théologiques, car sa métaphysique est inséparable de ses travaux théologiques : la Théodicée est une œuvre de théologie au moins autant que de philosophie ? . Aux œuvres mathématiques on devra naturellement joindre les écrits relatifs à la mécanique, à la physique, à la chimie, à la minéralogie, à la géo-[^pX-1][^pX-2][^pX-3]
+philosophiques : il sera impossible d'en séparer, d'une part, les œuvres mathématiques, car toutes les théories logiques de Leibniz sont inspirées par ses études et ses découvertes mathématiques ; et, d'autre part, les œuvres théologiques, car sa métaphysique est inséparable de ses travaux théologiques : la Théodicée est une œuvre de théologie au moins autant que de philosophie ? .[^pX-3][^pX-2][^pX-1] Aux œuvres mathématiques on devra naturellement joindre les écrits relatifs à la mécanique, à la physique, à la chimie, à la minéralogie, à la géo-
 
 [p. XI]
 
@@ -176,9 +176,9 @@ au même degré que Leibniz.
 
 philosophe ne réalisa cet idéal Démembrer son œuvre, c'est dénaturer sa pensée.
 
-Il y a en tout cas une partie de cette œuvre qu'on ne peut raisonnablement songer à classer ainsi : c'est sa volumineuse correspondance 3. En effet, il arrive souvent que dans une même lettre il traite dix ou douze sujets différents et même hétérogènes. Aussi est-il ridicule de classer telle lettre dans les œuvres philosophiques et telle autre dans les œuvres mathématiques, en général, uniquement en raison de la profession du correspondant'. Pour la correspondance tout au moins, il n'y a qu'un classement admissible : c'est l'ordre chronologique ".
+Il y a en tout cas une partie de cette œuvre qu'on ne peut raisonnablement songer à classer ainsi : c'est sa volumineuse correspondance 3. En effet, il arrive souvent que dans une même lettre il traite dix ou douze sujets différents et même hétérogènes. Aussi est-il ridicule de classer telle lettre dans les œuvres philosophiques et telle autre dans les œuvres mathématiques, en général, uniquement en raison de la profession du correspondant'. Pour la correspondance tout au moins, il n'y a qu'un classement admissible : c'est l'ordre chronologique ".[^pXI-4][^pXI-3][^pXI-2][^pXI-1]
 
-Dira-t-on que, du moins, on pourrait séparer ses œuvres de sa corres-[^pXI-1][^pXI-2][^pXI-3][^pXI-4]
+Dira-t-on que, du moins, on pourrait séparer ses œuvres de sa corres-
 
 [p. XII]
 
@@ -192,7 +192,7 @@ Quel mode de classement devra-t-on donc adopter ? Il n'y en a qu'un qui soit vra
 
 mêmes idées, sous une forme plus ou moins différente, à plusieurs correspondants ;
 
-et rien n'est plus instructif, pour l'histoire de sa pensée, que le rapprochement chro hologique de ces lettres adressées à divers destinataires I. Comme MM. ADam et TaNnerY le font pour Descartes.[^pXII-1][^pXII-2][^pXII-3]
+et rien n'est plus instructif, pour l'histoire de sa pensée, que le rapprochement chro hologique de ces lettres adressées à divers destinataires I. Comme MM. ADam et TaNnerY le font pour Descartes.[^pXII-3][^pXII-2][^pXII-1]
 
 [p. XIII]
 
@@ -272,7 +272,7 @@ Phil. = Die philosophischen Schriften von G. W. Leibniz, éd. Gerhardt, 7 vol. i
 
 GUHRAVER = G. W. Freiherr von Leibnitz, eine Biographie, par GuHRaUer, 2 vol. *in-12* (Breslau, 1846).
 
-TRENDELENBUrG = Historische Beiträge zur Philosophie, par TRENDELENBURG, 3 vol. in-8 (Berlin, 1867) 2.[^pXV-1][^pXV-2]
+TRENDELENBUrG = Historische Beiträge zur Philosophie, par TRENDELENBURG, 3 vol. in-8 (Berlin, 1867) 2.[^pXV-2][^pXV-1]
 
 [p. XVI] EXPLICATION DES SIGNES
 
@@ -432,7 +432,7 @@ Formabunt Linguam illam admirabilem apram Missionariis ad populo : onvertendos, 
 
 Hortos colent, Animalia alent, pharmaca component.
 
-Activi inter homines exercendæ Caritatis causa versabuntur ; et professio corum erit succurrere miseris quâ licet. Itaque si quis inopia laboret, si animi agritudine, si morbo, illi societas hæc perfugio erit, illi non auxilium tantüm, sed et silentium præstabit. Ante omnia agris succurrent : nam plerique pereunt neglectu aut ignoratione, plerumque enim unusquisque æger accurata diligentia indigeret, et totum hominem r. Cf. PHIL., IV, 3, c, 15 : Scientia media . Cf. PHIL., VIII, 8o : « Contingentiæ radix est infinitum. » (Bodemann, p. 121.)[^p3-1]
+Activi inter homines exercendæ Caritatis causa versabuntur ; et professio corum erit succurrere miseris quâ licet. Itaque si quis inopia laboret, si animi agritudine, si morbo, illi societas hæc perfugio erit, illi non auxilium tantüm, sed et silentium præstabit. Ante omnia agris succurrent : nam plerique pereunt neglectu aut ignoratione, plerumque enim unusquisque æger accurata diligentia indigeret, et totum hominem r. Cf. PHIL., IV, 3, c, 15 : Scientia media . Cf. PHIL., VIII, 8o : « Contingentiæ radix est infinitum. » (Bodemann, p. 121.[^p3-1])
 
 [p. 4] ORDO CARITATIS PACIDIANORUM 4
 
@@ -570,9 +570,9 @@ PHIL., I, 15. (4 p. *in-folio*) : .
 
 PHIL. I, I5.
 
-(1) Principium ratiocinandi fundamentale est, nihil esse sine ratione, vel P. 1.
+[^p11-1] Principium ratiocinandi fundamentale est, nihil esse sine ratione, vel P. 1.
 
-ut rem distinctius explicemus, nullam esse veritatem, cui ratio non subsit. Ratio autem veritatis consistit in nexu prædicati cum subjecto, seu ut prædicatum subjecto insit, vel manifeste, ut in identicis, veluti si dicerem : homo est homo, homo albus est albus : vel tecte, sed ita tamen ut per resolutionem notionum ostendi nexus possit, ut si dicam lovenarius est quadratus, nam novenarius est ter ternarius, seu [ternarius st numerus ternarius in ternarium multiplicatus, ternarius in ternariur est numerus in eundem numerum, is autem est quadratus.[^p11-1][^p11-2]
+ut rem distinctius explicemus, nullam esse veritatem, cui ratio non subsit. Ratio autem veritatis consistit in nexu prædicati cum subjecto, seu ut prædicatum subjecto insit, vel manifeste, ut in identicis, veluti si dicerem : homo est homo, homo albus est albus : vel tecte, sed ita tamen ut per resolutionem notionum ostendi nexus possit, ut si dicam lovenarius est quadratus, nam novenarius est ter ternarius, seu [ternarius st numerus ternarius in ternarium multiplicatus, ternarius in ternariur est numerus in eundem numerum, is autem est quadratus.[^p11-2]
 
 [p. 12] CONSÉQUENCES MÉTAPHYSIQUES 12
 
@@ -586,7 +586,7 @@ nullum cum phænomeno nexum explicabilem esse agnoscere coguntur.
 
 animæ et ex cognitis animæ pathematis corpori mederi posse ; sæpe enim facilius est nosse qua in anima, quam qua in corpore flunt ; sæpe etiam res contra habet. Et quoties animæ indicationibus utimur ad corporis auxilium, medicina vitalis appellari potest, quæ latius porrigitur quam vulgo putant, quia corpus non tantum animæ respondet in motibus quos voluntarios vocant, sed etiam in aliis omnibus < etsi nos ob assuetudinem non animadvertamus animam motibus corporis affici aut consentire, vel hos perceptionibus anima appetitibusque respondere >.
 
-Nempe horum perceptiones sunt confusæ, ita ut consensus non ita facilè appareat. Anima quidem corpori imperat quatenus perceptiones distinctas habet, servit quatenus confusas, < sed interim quisquis aliquam perceptionem in anima obtinet, certus esse potest, sese ejus effectum aliquem in corpore obtinuisse, et *vice versa* >. Quicquid ergo in archæistis vel similibus autoribus boni est, huc reducitur : etsi enim <illæ quas statuunt ira > turbationes et placationes archæi in[^p12-1]
+Nempe horum perceptiones sunt confusæ, ita ut consensus non ita facilè appareat. Anima quidem corpori imperat quatenus perceptiones distinctas habet, servit quatenus confusas, < sed interim quisquis aliquam perceptionem in anima obtinet, certus esse potest, sese ejus effectum aliquem in corpore obtinuisse, et *vice versa* >.[^p12-1] Quicquid ergo in archæistis vel similibus autoribus boni est, huc reducitur : etsi enim <illæ quas statuunt ira > turbationes et placationes archæi in
 
 [p. 13] 13
 
@@ -644,11 +644,11 @@ FINIS
 
 PHIL., IV, 3, a, 1-4.
 
-PHIL., IV, 3, a, 1-4. (7 p. *in-4°*.)
+PHIL., IV, 3, a, 1-4. (7 p. *in-4°*.[^p16-1])
 
 1, recto ERUM est affirmatum, cujus prædicatum inest subjecto, itaque in
 
-omni Propositione vera affirmativa, necessaria vel contingente, universali vel singulari, Notio prædicati aliquo modo continetur in notione subjecti ; ita ut qui perfecte intelligeret notionem utramque quemad-[^p16-1]
+omni Propositione vera affirmativa, necessaria vel contingente, universali vel singulari, Notio prædicati aliquo modo continetur in notione subjecti ; ita ut qui perfecte intelligeret notionem utramque quemad-
 
 [p. 17] VÉRITÉS NÉCESSAIRES ET CONTINGENTES
 
@@ -814,7 +814,7 @@ Il y a moyen d'inventer une langue ou ecriture au moins, dont les caracteres et 
 
 choses qui tombent en l'Esprit des hommes ; si cela estoit exécuté " ie ne doute point que cette langue n'eust bien tost cours parmy le monde, car il y a force gens qui employeroient volontiers cinq ou six jours de tems pour se pouvoir faire entendre par tous les hommes*. L'invention de cette
 
-« Au reste, je trouve qu'on pourroit adjouter à cecy une invention, tant pour composer les mots primitifs de cette langue, que pour leurs caracteres »[^p27-1][^p27-2][^p27-3]
+« Au reste, je trouve qu'on pourroit adjouter à cecy une invention, tant pour composer les mots primitifs de cette langue, que pour leurs caracteres »[^p27-3][^p27-2][^p27-1]
 
 [p. 28] 28
 
@@ -902,7 +902,7 @@ La plagula i porte la date : [25] 15 jun. 1679 ; la plagula 2 porte la date : 25
 
 SEPE mecum cogitari, homines multo quam sunt feliciores esse posse, i, recto.
 
-si quæ in potestate habent, etiam in numerato haberent, ut cum opus est uti possent. Nunc vero nescimus ipsi opes nostras, similes Mercatori qui libros rationum nullos confecit, aut Bibliothecæ qua indice caret. Sed et, uti nunc agimus, seris nepotibus fortasse proderimus, ipsi laborum nostrorum fructum non capiemus ; sine fine disputamus, sine fine congerimus, raro aliquid demonstrando terminamus, aut in repertorium referimus ; vix unquam utimur studiis nostris. Et verendum est, si sic pergimus, ut ne aliquando immedicabile reddatur malum, < et studiorum[^p30-2]
+si quæ in potestate habent, etiam in numerato haberent, ut cum opus est uti possent. Nunc vero nescimus ipsi opes nostras, similes Mercatori qui libros rationum nullos confecit, aut Bibliothecæ qua indice caret. Sed et, uti nunc agimus, seris nepotibus fortasse proderimus, ipsi laborum nostrorum fructum non capiemus ; sine fine disputamus, sine fine congerimus, raro aliquid demonstrando terminamus, aut in repertorium referimus ; vix unquam utimur studiis nostris.[^p30-2] Et verendum est, si sic pergimus, ut ne aliquando immedicabile reddatur malum, < et studiorum
 
 [p. 31] 31
 
@@ -930,7 +930,7 @@ Summa Consilii est Notitiarum humanarum potissimarum dudum cognitarum vitæ util
 
 . Cf. les Préceptes pour avancer les sciences (Phil., VII, 160).
 
-Calcul infinitésimal, inventé en 1675, publié en 1684. Cf. une[^p31-1][^p31-2]
+Calcul infinitésimal, inventé en 1675, publié en 1684. Cf.[^p31-2][^p31-1] une
 
 [p. 32] 32
 
@@ -1022,7 +1022,7 @@ Conscribendæ ergo sunt Methodo supra dicta potissimum Scientix sequentes.
 
 Encyclopædiæ corpore significabuntur. Itaque > Primum Grammatic [universalis] < Rationalis ≥ tradenda est, ad latinam ubique applicata, et subinde aliarum linguarum exemplo illustrata " : in qua tradetur regularis significatio omnium particularum et flexionum et collocationum. Ita ut significatio semper possit substitui in locum significati, nam, ut exemplo utar, nominum casus semper eliminari possunt substitutis in eorum
 
-Adverbia sunt ad verba ut adjectiva sunt ad nomina substantiva '. Subjiciendæ denique sunt significationes particularum donec perveniatur ad eas quæ nulla explicatione eliminari possunt, qualia sunt est, et, non, harumque certus est constituendus numerus et ex his solis cum nomi-[^p35-1][^p35-2][^p35-3]
+Adverbia sunt ad verba ut adjectiva sunt ad nomina substantiva '.[^p35-3][^p35-2][^p35-1] Subjiciendæ denique sunt significationes particularum donec perveniatur ad eas quæ nulla explicatione eliminari possunt, qualia sunt est, et, non, harumque certus est constituendus numerus et ex his solis cum nomi-
 
 [p. 36] 36
 
@@ -1088,7 +1088,7 @@ non nisi cum illis corporibus maxime communibus, aere, terra, aqua, igne, aliisq
 
 ; Duodecima est Cosmographica seu scientia majorum Mundi corporum.
 
-Hic tradenda est Astronomia physica, qua non tantum phænomena explicet per Hypotheses, sed et conetur ostendere qua Hypothesis sit verior aut certe probabilior. Huc pertinet cognitio Fluidorum generalium visibilium atque invisibilium nos ambientium ac penetrantium, in quibus magna illa corpora natant, quærendumque est an horum fluidorum species ac motus aliqua ratione ex corporum mundanorum phænomenis definiri possint. Huc pertinent etiam contemplationes de globi nostri mutationibus majoribus earumque causis, itemque Meteorologia. } Tertia decima est scientia corporum organicorum, quas vocare solent, species, hanc possis appellare Idographiam. Species autem accurate distinguendæ, non communi more per Dichotomias, sed per qualitatum[^p39-1]
+Hic tradenda est Astronomia physica, qua non tantum phænomena explicet per Hypotheses, sed et conetur ostendere qua Hypothesis sit verior aut certe probabilior. Huc pertinet cognitio Fluidorum generalium visibilium atque invisibilium nos ambientium ac penetrantium, in quibus magna illa corpora natant, quærendumque est an horum fluidorum species ac motus aliqua ratione ex corporum mundanorum phænomenis definiri possint. Huc pertinent etiam contemplationes de globi nostri mutationibus majoribus earumque causis, itemque Meteorologia. } Tertia decima est scientia corporum organicorum, quas vocare solent, species, hanc possis appellare Idographiam.[^p39-1] Species autem accurate distinguendæ, non communi more per Dichotomias, sed per qualitatum
 
 [p. 40] 40
 
@@ -1114,7 +1114,7 @@ I. V. La Logique de Leibniz, p. 326, n. I.
 
 . Ici Leibniz a omis le n° 15
 
-. Ici Leibniz a omis le n° 1-[^p40-1]
+.[^p40-1] Ici Leibniz a omis le n° 1-
 
 [p. 41] CONSCRIBENDA METHODO INVENTORIA
 
@@ -1144,7 +1144,7 @@ Si propositio Universalis Affirmativa est vera, necesse est ut numerus subjecti 
 
 {U. A. p succedit, id est numerus S dividi exactè potest per numerum
 
-P. Sive si f exprimacur per fractionen (cajus numerator v. g. 6 sit 5[^p42-1][^p42-2]
+P. Sive si f exprimacur per fractionen (cajus numerator v. g.[^p42-2][^p42-1] 6 sit 5
 
 [p. 43] ELEMENTA CHARACTERISTICA UNIVERSALIS
 
@@ -1182,7 +1182,7 @@ cunque propositione categorica, tam subjecti quam prædicati numerum exprimemus 
 
 < Notandum autem obiter simplicissimos numeros rationem numerorum subjecti et prædicati exprimentes esse < numeros > eorum terminorum qui in subjecto et prædicato restant abjectis terminis utrique communibus [ut si ab auro et Hydrargyro communia abjicias, restabit in illo] > Ex his sequitur, si divisio numeri H (subjecti) per numerum A (prædicati) procedit exacté, seu si fractio ad simplicissimos numeros redacia,
 
-id est " (ex. gr. 3) est numerus integer, necessario nominatorem ejus u esse r. seu unitatem. Contra si divisio non procedit exactè seu si fractio < in simplicissimis numeris constituta > " (ex. gr. ½) non est numerus integer, necesse est nominatorem ejus v (hoc loco 2.) non esse unitatem, sed numerum unitate majorem. Idem est in divisione prædicati per subjectum, tantum enim invertenda fractio est, nam si dividi exacte potest numerus A (pradicati) per numerum H (subjecti), tunc fractio f in sim-[^p44-1][^p44-2]
+id est " (ex. gr. 3) est numerus integer, necessario nominatorem ejus u esse r. seu unitatem. Contra si divisio non procedit exactè seu si fractio < in simplicissimis numeris constituta > " (ex. gr. ½) non est numerus integer, necesse est nominatorem ejus v (hoc loco 2.) non esse unitatem, sed numerum unitate majorem.[^p44-2][^p44-1] Idem est in divisione prædicati per subjectum, tantum enim invertenda fractio est, nam si dividi exacte potest numerus A (pradicati) per numerum H (subjecti), tunc fractio f in sim-
 
 [p. 45] ELEMENTA CHARACTERISTICA UNIVERSALIS
 
@@ -1216,9 +1216,9 @@ rA zequ. oF debet numemutipi subessi IV. P. N. Qu. A non est H.
 
 maior unitate.
 
-| Ex hac jam tabula per simplicem animi intuitum statim patet propo- 5, recto.
+| Ex hac jam tabula per simplicem animi intuitum statim patet propo- 5, recto.[^p45-1]
 
-sitionem universalem negativam et particularem affirmativam sibi contradictoriè opponi, quia omnis numerus (semper de integris loquor) in conditionibus harum propositionum designatus est aut unitas aut major[^p45-1]
+sitionem universalem negativam et particularem affirmativam sibi contradictoriè opponi, quia omnis numerus (semper de integris loquor) in conditionibus harum propositionum designatus est aut unitas aut major
 
 [p. 46] 46
 
@@ -1254,7 +1254,7 @@ vel numerus unitate major, cum scilicet prædicatum est subjecto angusius. Utrum
 
 numerus hominis prodit multiplicando numerum animalis per numerum animalis'. Et hoc casu r est numerus major unitate, sed in aliis casibus potest esse ei aqualis. Exempli gratia. Omne Test O. seu I aqu. ve.
 
-Omne Triangulum est Trilaterum ; sed quia Trianguli notio Trilateri notioni aquè latè patet seu coextenditur, itaque et numeri ipsas repræsentantes erunt aquales. Quare v. per quem multiplicandus est 0 ut xquetur ipsi I cui jam tum æquatur, est unitas. Ergo vi formæ generalis quam propositio universalis affirmativa habet, nihil refert numerus r vel v prædicati numerum multiplicans unitasne sit an unitate major. Idem est[^p47-1]
+Omne Triangulum est Trilaterum ; sed quia Trianguli notio Trilateri notioni aquè latè patet seu coextenditur, itaque et numeri ipsas repræsentantes erunt aquales. Quare v. per quem multiplicandus est 0 ut xquetur ipsi I cui jam tum æquatur, est unitas. Ergo vi formæ generalis quam propositio universalis affirmativa habet, nihil refert numerus r vel v prædicati numerum multiplicans unitasne sit an unitate major.[^p47-1] Idem est
 
 [p. 48] ELEMENTA CHARACTERISTICE UNIVERSALIS
 
@@ -1288,7 +1288,7 @@ Elementa Calculi.
 
 (I) Terminus est subjectum vel prædicatum propositionis categorica. 9, recto.
 
-«Itaque sub termino nec signum nec copulam comprehendo. Itaque cum dicitur sapiens credit, terminus erit non credit, sed credens, idem est ac si dixissem sapiens est credens. > (2) Propositiones hic intelligo categoricas, < cum aliud speciatim non exprimo, est autem categorica cæterarum fundamentum et modales, hypothetica, disjunctiva, aliæque omnes categoricam supponunt. Categoricam autem voco A est B, vel A non est B. seu falsum est A esse B. Signi varietate accedente, ut vel universalis sit propositio et de omni subjecto intelligatur, vel particularis de quodam >.[^p49-1][^p49-2]
+«Itaque sub termino nec signum nec copulam comprehendo. Itaque cum dicitur sapiens credit, terminus erit non credit, sed credens, idem est ac si dixissem sapiens est credens. > [^p49-2] Propositiones hic intelligo categoricas, < cum aliud speciatim non exprimo, est autem categorica cæterarum fundamentum et modales, hypothetica, disjunctiva, aliæque omnes categoricam supponunt. Categoricam autem voco A est B, vel A non est B. seu falsum est A esse B. Signi varietate accedente, ut vel universalis sit propositio et de omni subjecto intelligatur, vel particularis de quodam >.[^p49-1]
 
 [p. 50] ELEMENTA CALCULI 50
 
@@ -1308,7 +1308,7 @@ et certa methodo eaque verè analytica demus, ac proinde quæ vix multi Puir., V
 
 tionibus, considerandum est : Omnem propositionem veram categoricam < affirmativam < universalem >>, nihil aliud significare quam connexionem quandam inter Prædicatum et subjectum < in casu recto de quo hic semper loquar >, ita scilicet ut prædicatum dicatur inesse subjecto < vel in subjecto contineri, coque vel absolute et in se spectato, vel certe lin aliquo casu] seu in aliquo exemplo >, seu ut subjectum dicto modo dicatur continere prædicatum : hoc est ut notio subjecti < vel in se, vel cum addito > involvat notionem prædicati, < ac proinde ut subjectum et prædicatum sese habeant invicem, vel ut totum et pars, vel ut totum et totum coincidens, vel ut pars ad totum'>. Primis duobus casibus propositio est universalis affirmativa ; ita cum dico : Omne aurum est metallum, hoc volo tantum in notione auri contineri notionem metalli < in casu recto : aurum enim est metallum ponderosissimum >. Et cum dico : Omnis pius est felix, nihil aliud volo quam hoc :
 
-ejusmodi esse connexionem inter notionem pii et notionem felicis, ut is qui perfecte naturam pii intelligeret, deprehensurus sit naturam felicis in ea involvi in casu recto. At in omnibus casibus sive subjectum sive prædicatum sit pars aut totum, semper locum habet propositio particularis affirmativa. Exempli causa quoddam metallum est aurum, licet enim metallum *per se* non contineat aurum tamen quoddam metallum < cum addito seu speciale > (exempli causa id quod majorem ducati < Hungarici > partem facit) ejus naturæ est, ut naturam auri involvat. < Discrimen autem est in continendi modo inter subjectum propositionis universalis et particularis. Nam subjectum propositionis universalis in se spectatum et absolutè sumtum debet continere prædicatum, ita auri notio *per se* spectata et absoluté sumta metalli notionem involvit. Nam notio auri est metallum ponderosissimum. < sed in Propositione affirmativa particulari, sufficit addito aliquo rem succedere >. Sed notio metalli absolutè spectata et in se sumta non involvit auri notionem ; et ut involvat addendum est aliquid. Nempe signum particulare : est enim[^p51-1]
+ejusmodi esse connexionem inter notionem pii et notionem felicis, ut is qui perfecte naturam pii intelligeret, deprehensurus sit naturam felicis in ea involvi in casu recto. At in omnibus casibus sive subjectum sive prædicatum sit pars aut totum, semper locum habet propositio particularis affirmativa. Exempli causa quoddam metallum est aurum, licet enim metallum *per se* non contineat aurum tamen quoddam metallum < cum addito seu speciale > (exempli causa id quod majorem ducati < Hungarici > partem facit) ejus naturæ est, ut naturam auri involvat. < Discrimen autem est in continendi modo inter subjectum propositionis universalis et particularis. Nam subjectum propositionis universalis in se spectatum et absolutè sumtum debet continere prædicatum, ita auri notio *per se* spectata et absoluté sumta metalli notionem involvit. Nam notio auri est metallum ponderosissimum. < sed in Propositione affirmativa particulari, sufficit addito aliquo rem succedere >. Sed notio metalli absolutè spectata et in se sumta non involvit auri notionem ; et ut involvat addendum est aliquid.[^p51-1] Nempe signum particulare : est enim
 
 [p. 52] 52
 
@@ -1340,7 +1340,7 @@ ine quadam ratione atque utilitate innovari, patebit consideranti
 
 etiam erit in quo symbolizent species. Et si genus erit remotissimum, exempli gratia [substantia] aliquas res dicemus esse Heterogeneas seu toto genere differre, ut Corpus et Spiritum : non quod nihil illis commune sit, saltem enim ambo sunt substantiæ, sed quod hoc genus | commune 1o verso.
 
-sit valde remotum. Unde patet quid Heterogeneum dicendum sit vel non, à comparatione pendere. Nobis verò in calculo sufficit duas res nullas ex[^p53-1]
+sit valde remotum. Unde patet quid Heterogeneum dicendum sit vel non, à comparatione pendere.[^p53-1] Nobis verò in calculo sufficit duas res nullas ex
 
 [p. 54] 54
 
@@ -1428,7 +1428,7 @@ Terminum, ut animal, homo, rationale, sic exprimam numeris : a. b. c « Hoc uno 
 
 exprimitur homo, divisibilem esse per numerum quo exprimitur animal, tametsi id quod dividendo prodit nempe y hic non consideretur, < quamvis aliunde sciamus y hic fore c. > Ubi nota si y sit unitas tuno æquipollere b et a. vel si æquipolleant, y esse unitatem. Cæterum poterimus et sic exprimere : Omn. b est a.
 
-Propositio Universalis negativa, verbi gratia Nullus homo est lapis, reducatur ad hanc affirmativam, Omnis homo est non lapis. Non lapis autem erit terminus quicunque præter lapidem, itaque hic terminus non-lapis[^p57-1]
+Propositio Universalis negativa, verbi gratia Nullus homo est lapis, reducatur ad hanc affirmativam, Omnis homo est non lapis.[^p57-1] Non lapis autem erit terminus quicunque præter lapidem, itaque hic terminus non-lapis
 
 [p. 58] 58
 
@@ -1454,7 +1454,7 @@ Propositio particularis affirmativa, ut quidam homo est [bonus] laudabilis, sign
 
 ductum dividi posse per l.
 
-Sed ut hæc distinctius intelligantur, primum terminos ipsos explicabimus. a. B. y. etc. seu litera græca significat numerum primum, qui in nulla propositione universali affirmativa subjectum esse potest, nisi sit identica, id est nisi in qua ipse etiam sit prædicatum.[^p58-1][^p58-2]
+Sed ut hæc distinctius intelligantur, primum terminos ipsos explicabimus. a. B. y. etc. seu litera græca significat numerum primum, qui in nulla propositione universali affirmativa subjectum esse potest, nisi sit identica, id est nisi in qua ipse etiam sit prædicatum.[^p58-2][^p58-1]
 
 [p. 59] 59
 
@@ -1476,7 +1476,7 @@ Hino propositio universalis affirmativa est hæc b est ya seu b est c ?
 
 prior non convertibilis, posterior convertibilis, vel ut generalius loquar, b est ya vel b est ze sed tune numerus 2 est idem quod unitas qua non multiplicat. Propositio particularis affirmativa est ya est b vel ya est zc.
 
-§, b est a. Hinc demonstrem xb est a. Nam b est a. Ergo b æqu. ya. Ergo sb æqu. xya. ponatur ¿ æqu. xy. Ergo xb æqu. za seu ab est a}. Hine demonstratur propositionem particularem affirmativam esse convertibilem in particularem affirmativam, nam ya est b convertatur in aquationem, hoc semper fieri potest, nam ya < subjectum > dividi potest per b prædicatum, et fiet — æqu. x posito x esse productum divisionis[^p59-1][^p59-2]
+§, b est a. Hinc demonstrem xb est a. Nam b est a. Ergo b æqu. ya. Ergo sb æqu. xya. ponatur ¿ æqu. xy. Ergo xb æqu. za seu ab est a}. Hine demonstratur propositionem particularem affirmativam esse convertibilem in particularem affirmativam, nam ya est b convertatur in aquationem, hoc semper fieri potest, nam ya < subjectum > dividi potest per b prædicatum, et fiet — æqu.[^p59-2][^p59-1] x posito x esse productum divisionis
 
 [p. 60] 60
 
@@ -1486,7 +1486,7 @@ incertum. Ergo fiet : ya aqu. xb. Ergo xb aqu. ya. Ergo xb est ya' seu propositi
 
 Cuncta hæc nunc brevius et distinctius sic exhibebo :
 
-1 (1) Regula generalis characteristica nostræ est ut Terminus quilibet, verbi gratia
+1 [^p60-1] Regula generalis characteristica nostræ est ut Terminus quilibet, verbi gratia
 
 Animal
 
@@ -1506,7 +1506,7 @@ per prædicatum prodit, oritur numerus aqualis numero subjecti. Nam si quotiens 
 
 (3) Quando non constat quis sit quotiens, quod fit quando unum quidem datur prædicatum, sed non reliqua qua conceptum complent, tuno numerus indefinitus ut x. y. z. poni potest pro illo incognito ; ut sit nix [nivis] subjectum [frigiditas] meteori. seu dicatur n est m, utique dividi potest n per m, seu dici potest " equale cuidam. Sed quia ipsum quale sit non constat, neque enim fortè scimus aggregatum reliquorum requisitorum necessariorum *ad hoc* ut meteorum aliquod sit nix, exempli causa si sit frigidum spumeum, sensibiliter cadens, vocabimus hoc incognitum aggregatum s. et dicemus - aqu. s. et fiet n æqu. sm, seu nix idem est
 
-quod certum quoddam meteorum.[^p60-1]
+quod certum quoddam meteorum.
 
 [p. 61] 6I
 
@@ -1538,7 +1538,7 @@ nata, ut n æqu. sm : Hinc fiet n est sm. < Omnis > nix est certum illud meteoru
 
 Nam particularis negativa tantüm falsitatem dicit universalis affirmativa.
 
-Hine illæ propositiones, ex quibus concluderetur universalis affirmativa si vera esset, sunt etiam falsæ.[^p61-1][^p61-2]
+Hine illæ propositiones, ex quibus concluderetur universalis affirmativa si vera esset, sunt etiam falsæ.[^p61-2][^p61-1]
 
 [p. 62] 62
 
@@ -1610,7 +1610,7 @@ lutè positum est terminus indefinitus, si subjectum sit sm propositio est parti
 
 Vel sic potius : si ex æquationis cujusdam termino fiat subjectum
 
-I. Suppléer : per.[^p64-1][^p64-2]
+I. Suppléer : per.[^p64-2][^p64-1]
 
 [p. 65] 65
 
@@ -1726,11 +1726,11 @@ HÆC
 
 1(0) VERA
 
-EST FALSA.
+EST FALSA.[^p68-1]
 
 EST VERA
 
-sive ut vulgarius loquar, si verum est aliquam propositionem esse veram, falsum est eam esse fal-[^p68-1]
+sive ut vulgarius loquar, si verum est aliquam propositionem esse veram, falsum est eam esse fal-
 
 [p. 69] CALCULI UNIVERSALIS INVESTIGATIONES
 
@@ -1838,9 +1838,9 @@ sæqu. mp
 
 nota m et u. item s et o, < et pet " > sunt primi inter se. In prædicato sit pæqu. I. et tæqu..
 
-i er in partic. neg, erit vel ls aqu. mp, ponendo I et m primos inter se,
+i er in partic. neg, erit vel ls aqu.[^p71-1] mp, ponendo I et m primos inter se,
 
-vel[^p71-1]
+vel
 
 [p. 72] 72
 
@@ -1918,9 +1918,9 @@ Quidam pius non est fortunatus
 
 Ergo quidam fortunatus non est beatus.
 
-| Conclusio < nes > (vera est] veræ sunt, et excogitari possunt innu- 20 recto.
+| Conclusio < nes > (vera est] veræ sunt, et excogitari possunt innu- 20 recto.[^p73-3][^p73-2][^p73-1]
 
-mera alia ubi etiam est vera, sed tamen < in posteriore argumentatione > *non sequitur* ex præmissis neque consequentia sive forma est[^p73-1][^p73-2][^p73-3]
+mera alia ubi etiam est vera, sed tamen < in posteriore argumentatione > *non sequitur* ex præmissis neque consequentia sive forma est
 
 [p. 74] MODUS EXAMINANDI CONSEQUENTIAS PER NUMEROS 74
 
@@ -1978,9 +1978,9 @@ a.b
 
 c.d
 
-e.f} Et cum in tam brevi argumentatione < et simplici et naturali habitu atque situ exhibita > facilè aliquis falli potuerit, quanto facilius falletur in composita, implicata et perturbata. Itaque res magna profecto est numeros ita excogitare, ut simplicissimis quibusdam' observationibus adhibitis, statim inde judicari possit, utrum argumentatio aliqua sit legitima forma an secus.
+e.f} Et cum in tam brevi argumentatione < et simplici et naturali habitu atque situ exhibita > facilè aliquis falli potuerit, quanto facilius falletur in composita, implicata et perturbata. Itaque res magna profecto est numeros ita excogitare, ut simplicissimis quibusdam' observationibus adhibitis, statim inde judicari possit, utrum argumentatio aliqua sit legitima forma an secus.[^p74-1]
 
-„i gul aritm áre obiere au pe argumis, mioibes propaiocibus[^p74-1]
+„i gul aritm áre obiere au pe argumis, mioibes propaiocibus
 
 [p. 75] MODUS EXAMINANDI CONSEQUENTIAS PER NUMEROS
 
@@ -2008,7 +2008,7 @@ quoddam animal non est homo, quia 2 non potest dividi per 6 >.
 
 (III) In propositione universali negativa vel pro prædicato vel pro subjecto < vel pro utroque > duo scribantur numeri, unus cum signo †, seu plus ;
 
-alter cum signo — seu minus. hoc uno observato ut numerus aliquis in uno termino per signum † affectus cum numero aliquo in altero termino per signum minus affecto communem habeat divisorem. Exempli gratia : Nullus homo est lapis < vel Nullus lapis est homo >. Numerus pro homine sit[^p75-1]
+alter cum signo — seu minus. hoc uno observato ut numerus aliquis in uno termino per signum † affectus cum numero aliquo in altero termino per signum minus affecto communem habeat divisorem. Exempli gratia : Nullus homo est lapis < vel Nullus lapis est homo >.[^p75-1] Numerus pro homine sit
 
 [p. 76] 76
 
@@ -2022,7 +2022,7 @@ divisorem seu per eundem numerum dividi possunt, nempe 2.
 
 | Ex his paucissimis regulis per numeros demonstrari possunt et exa20 verso.
 
-minari omnes consequentix, omnes figuræ, omnes modi syllogismorum hactenus recepti, et innumeri alii magis compositi in vita communi frequentati, sed in schola ignorati. Sed nunc quidem satis habebo per has regulas demonstrare in numeris omnes consequentias omnes figuras omnesque modos syllogismorum categoricorum simplicium in schola jam receptos. Observando tantùm, ut numeris Terminorum secundum universalitatem aut particularitatem, Afirmationem aut negationem præmissarum in quibus reperiuntur < modo præscripto > adornatis, examinetur postea an sua sponte idem quod in regulis nostris præscripsimus, etiam in conclusione locum habere deprehendatur. Hoc enim deprehenso dicemus argumentum in forma legitimum esse ; secùs, nullius[^p76-1][^p76-2]
+minari omnes consequentix, omnes figuræ, omnes modi syllogismorum hactenus recepti, et innumeri alii magis compositi in vita communi frequentati, sed in schola ignorati. Sed nunc quidem satis habebo per has regulas demonstrare in numeris omnes consequentias omnes figuras omnesque modos syllogismorum categoricorum simplicium in schola jam receptos. Observando tantùm, ut numeris Terminorum secundum universalitatem aut particularitatem, Afirmationem aut negationem præmissarum in quibus reperiuntur < modo præscripto > adornatis, examinetur postea an sua sponte idem quod in regulis nostris præscripsimus, etiam in conclusione locum habere deprehendatur.[^p76-2][^p76-1] Hoc enim deprehenso dicemus argumentum in forma legitimum esse ; secùs, nullius
 
 [p. 77] REGULA DE BONITATE CONSEQUENTIARUM
 
@@ -2230,7 +2230,7 @@ April. 1679. N° 6. plag. 2.
 
 Theor. 7. Particularis affirmativa et particularis negativa sibi opponuntur subcontrariè, < seu possunt esse simul vera, non tamen simul falsæ. Verbi gratia quidam sapiens est fortunatus, et quidam sapiens non
 
-Ici Leibniz oppose la considération de l'extension et celle de la compréhensio déclare fonder sur celle-ci son calcul logique. V. La Logique de Leioniz, p. 33[^p82-1]
+Ici Leibniz oppose la considération de l'extension et celle de la compréhensio déclare fonder sur celle-ci son calcul logique. V. La Logique de Leioniz, p.[^p82-1] 33
 
 [p. 83] 83
 
@@ -2256,7 +2256,7 @@ quidam pius est sapiens ? .
 
 | A consequentiis simplicibus in quibus duo tantúm sunt termini 23 verso.
 
-transeo ad consequentias Triterminas seu syllogismos categoricos. Sed tunc paulo majore cura opus est ad numeros terminorum aptè assumendos : quia idem terminus nempe medius utrique præmissæ inest, et ideò numeri ejus characteristici utriusque præmissæ regulis accom modari[^p83-1][^p83-2]
+transeo ad consequentias Triterminas seu syllogismos categoricos.[^p83-2][^p83-1] Sed tunc paulo majore cura opus est ad numeros terminorum aptè assumendos : quia idem terminus nempe medius utrique præmissæ inest, et ideò numeri ejus characteristici utriusque præmissæ regulis accom modari
 
 [p. 84] 84
 
@@ -2424,13 +2424,13 @@ rationale
 
 aliquo aucta, seu prædicatum inesse speciei subjecti, id est characteris.
 
-ticos numeros subjecti multiplicatos per alios numeros reddi posse dividictis ' incompatibilitas seu pugna oriatur. | Exempli causa :
+ticos numeros subjecti multiplicatos per alios numeros reddi posse dividictis ' incompatibilitas seu pugna oriatur.[^p88-2][^p88-1] | Exempli causa :
 
 Quidam fortunatus est miser
 
 +II-9
 
-+5-14[^p88-1][^p88-2]
++5-14
 
 [p. 89] 89
 
@@ -2456,7 +2456,7 @@ Riudicaribus o serais de boniate consequeniarum per numeros 28 recro.
 
 (I) Si qua offeratur propositio, tunc pro quolibet ejus Termino (subjecto scilicet pariter ac prædicato), scribantur numeri duo, unus affectus Nota + seu plus ; alter Nota — seu minus. << Exempli gratia sit propositio Omnis sapiens est pius. Numerus respondens sapienti sit + 20 — 21. numerus respondens pio sit + 10 — 3. cavendum tantum ut, duo numeri ejusdem Termini > lita tamen ut hi duo numeri] nullum habeant communem divisorem, nam si verbi gratia numeri pro sapiente essent + 6 - 9. < qui ambo dividi possunt per 3. > nullo modo essent apti. [Notandum est autem si quis terminus negetur, notas esse tantùm mutandas. ut si pii nota sit † 10 — 3. erit nota non-pii, + 3- 10.] > (II) Si unus aliquis terminus reperiatur in una tantum præmissâ (præmissam autem voco propositionem ex qua alia concluditur), tunc ipsius quidem numeri assumi possunt pro arbitrio observata tantum reg. I. præcedente) ; alter vero assumi debet non pro arbitrio, sed secundum regulas jam præscribendas in quibus exponitur Relatio quam Numeri unius termini habere debent ad numeros alterius termini ejusdem propositionis.
 
-(III) Si præmissa sit UNIVERSALIS NEGATIVA (v. g. Nullus pius est miser)[^p89-1]
+(III) Si præmissa sit UNIVERSALIS NEGATIVA (v. g.[^p89-1] Nullus pius est miser)
 
 [p. 90] 90
 
@@ -2634,7 +2634,7 @@ et pour le nombre des énonciations :
 
 (243650.000.0001 — 24) : 23 dont il donne cette limite supérieure :
 
-IO73000.000.00000[^p96-1]
+IO73000.000.[^p96-1]00000
 
 [p. 97] DE LA MÉTHODE DE L'UNIVERSALITÉ
 
@@ -2726,9 +2726,9 @@ par le moyen d'un theoreme demonstré ailleurs. Au lieu qu'il n'y a rien
 
 qui puisse échapper à nostre methode, qui a cela de commun avec les
 
-autres parties de l'Analyse qu'elle espargne l'esprit et l'imagination, dont IV. L'Algebre il faut sur tout menager l'usage.
+autres parties de l'Analyse qu'elle espargne l'esprit et l'imagination, dont IV. L'Algebre il faut sur tout menager l'usage.[^p98-1]
 
-n'est qu'une[^p98-1]
+n'est qu'une
 
 [p. 99] DE LA MÉTHODE DE L'UNIVERSALITÉ
 
@@ -2750,7 +2750,7 @@ a = y∞b, < vous ne sçauriez mettre les connues a. b. d'un costé, ny separer 
 
 6. Cavalieri, M' Fermat, M" Wallis, et autres supposent des certaines VI. Conjonction Lettres, ou lignes intinement petites ou egales a rien. J'ay mis la mesme ristique avec la chose en usage, et j'ay adjousté des lettres qui representent une grandeur
 
-methode des infinie, ou des lignes egales à des rectangles, comme sont les asymptotes de l'Hyperbole.[^p99-1][^p99-2]
+methode des infinie, ou des lignes egales à des rectangles, comme sont les asymptotes de l'Hyperbole.[^p99-2][^p99-1]
 
 [p. 100] DE LA MÉTHODE DE L'UNIVERSALITÉ 100
 
@@ -3014,7 +3014,7 @@ XXVII. Ou même Il sera bon de faire une regle generale, qui comprendra aussy le
 
 et
 
-Car je me sers ordinairement de ~ pour marquer la multiplication d'une grandeur par l'autre, et de u pour marquer la division de la precedente par la suivante. Et quoyque la regle ne parle que de la multiplication, il est aisé de l'appliquer à la division ; car par exemple c'est le mesme de diviser y par d, ou de le multiplier par -.[^p108-1][^p108-2]
+Car je me sers ordinairement de ~ pour marquer la multiplication d'une grandeur par l'autre, et de u pour marquer la division de la precedente par la suivante. Et quoyque la regle ne parle que de la multiplication, il est aisé de l'appliquer à la division ; car par exemple c'est le mesme de diviser y par d, ou de le multiplier par -.[^p108-2][^p108-1]
 
 [p. 109] DE LA MÉTHODE DE L'UNIVERSALITÉ
 
@@ -3090,7 +3090,7 @@ qui en arriveroit par exemple, s'il y a, t a so "' ‡ zca
 
 que cela fait b'‡ ca
 
-- ∞ 0.[^p110-1][^p110-2]
+- ∞ 0.[^p110-2][^p110-1]
 
 [p. 111] DE LA MÉTHODE DE L'UNIVERSALITÉ
 
@@ -3144,9 +3144,9 @@ soubstraire = b de 1 c' en escrire le produit devant d, auprez de t a, pour fair
 
 mais par la regle de multiplication que nous venons d'expliquer
 
-donc adjoustar les termes suis fait . * "
+donc adjoustar les termes suis fait .[^p111-1] * "
 
-+ 710[^p111-1]
++ 710
 
 [p. 112] DE LA MÉTHODE DE L'UNIVERSALITÉ
 
@@ -3266,7 +3266,7 @@ comme nous l'avions supposé au commencement. La consideration de cette operatio
 
 4I. Et voila les cinq operations simples du calcul, les composées sont composées qui la FORMATION, la PREPARATION, et la construction d'une EQUATION, mais nous adjousterons la quatriesme qui est particuliere à nostre sujet sçavoir l'Equation.
 
-l'INTERPRETATION d'une Equation ou formule ambigue trouvée.[^p114-1][^p114-2]
+l'INTERPRETATION d'une Equation ou formule ambigue trouvée.[^p114-2][^p114-1]
 
 [p. 115] DE LA MÉTHODE DE L'UNIVERSALITÉ
 
@@ -3289,7 +3289,7 @@ quement qu'il n'y a point de section conique dont l'equation ne soit aux t9s-y s
 
 Car, a et q, estant posées egales, et ‡ estant expliqué par — nous avons cette equation zax-x'xy° | or il est constant que cette equa- 2o verso.
 
-tion convient au cercle a estant le rayon, DA ∞ DE soa so q. De mesme # estant expliqué par — , mais sans determiner si a, et q sont egales ou inegales, l'equation produite sera zax — " x* zoy sçavoir celle de l'ELIPSE, a estant son latus rectum, q le transversum. Mais le signe ‡ estant[^p115-1]
+tion convient au cercle a estant le rayon, DA ∞ DE soa so q. De mesme # estant expliqué par — , mais sans determiner si a, et q sont egales ou inegales, l'equation produite sera zax — " x* zoy sçavoir celle de l'ELIPSE, a estant son latus rectum, q le transversum.[^p115-1] Mais le signe ‡ estant
 
 [p. 116] 116
 
@@ -3347,7 +3347,7 @@ tantost egal à 6, tantost à I4. 6 ∞ 4 sera tousjours la difference entre a, 
 
 • mais si nous posons que y est inconnue, et que nous +I4∞...)
 
-cherchons sa valeur, nous aurons, y ∞ # 4 † I0, et par consequent egale à 14 ou 6, c'est-à-dire ou - 4 + 10, ∞ 6, 0u + 4 + 10∞ 14.[^p117-1][^p117-2]
+cherchons sa valeur, nous aurons, y ∞ # 4 † I0, et par consequent egale à 14 ou 6, c'est-à-dire ou - 4 + 10, ∞ 6, 0u + 4 + 10∞ 14.[^p117-2][^p117-1]
 
 [p. 118] 118
 
@@ -3363,7 +3363,7 @@ enfin + =b
 
 - est egal à #†, ou à # i donc donc ‡ i #} ¿ou ‡ = ~ ¿ ne sont que la mesme chose, dont la premiere expression fait E, ", la seconde 2b, la troisieme + % Les Xes Mec de oberion es le grand et dente le catal de la XLIX. Necessité - ne sçauroit en extraire la racine, | car ce seroit une erreur d'en faire ‡ * ∞ Va # }, parce que ‡ × ^ ‡ x, fait + x', et point, ‡ x' afin 22 recto. donc qu'on en puisse extraire la racine, il faut changer # *'∞0 a + 6, en r'so → a + b, et alors nous aurons x so VF a + 6*.
 
-S0. L'INTERPRETATION DES FORMULES AMBIGUES Se fait à l'egard des Li l'Ambiguité". lettres, ou signes. A l'egard des lettres nous pouvons rejetter les graneurs qui sont infiniment petites au prix des autres ? ; mais il y a de randes precautions à prendre la dessus ; car par exemple la valeu generale de x ou de l'Abscisse de l'Axe depuis le sommet, par l'ordonnée de la section conique, est ‡ Vg + {y # q or ]y, est infiniment petit à l'egard de q' donc le negligeant, nous aurons x ∞o ‡ Va ‡ q[^p118-1]
+S0. L'INTERPRETATION DES FORMULES AMBIGUES Se fait à l'egard des Li l'Ambiguité". lettres, ou signes. A l'egard des lettres nous pouvons rejetter les graneurs qui sont infiniment petites au prix des autres ?[^p118-1] ; mais il y a de randes precautions à prendre la dessus ; car par exemple la valeu generale de x ou de l'Abscisse de l'Axe depuis le sommet, par l'ordonnée de la section conique, est ‡ Vg + {y # q or ]y, est infiniment petit à l'egard de q' donc le negligeant, nous aurons x ∞o ‡ Va ‡ q
 
 [p. 119] DE LA MÉTHODE DE L'UNIVERSALITÉ
 
@@ -3385,7 +3385,7 @@ n'a que des lettres ambigues, donne un theoreme veritablement general, mais quan
 
 ny difficulté, mais l'autre est aussy subtile qu'importante, car elle nous donne le moyen de faire des theoremes, et des constructions absolument universelles, et de trouver des proprietez generales, et mesme des definitions ou genres subalternes communs à toute sorte de choses, I qui semblent bien éloignées l'une de l'autre : il est vray que la con- 22 verso.
 
-struction ou enunciation d'un probleme ou theoreme devient plus composée par ce moyen, au lieu que l'autre interpretation qui particularise les cas la laisse telle qu'elle est. Mais en recompense, celle-cy donne des lumieres considerables pour l'harmonie des choses.[^p119-1][^p119-2]
+struction ou enunciation d'un probleme ou theoreme devient plus composée par ce moyen, au lieu que l'autre interpretation qui particularise les cas la laisse telle qu'elle est. Mais en recompense, celle-cy donne des lumieres considerables pour l'harmonie des choses.[^p119-2][^p119-1]
 
 [p. 120] DE LA MÉTHODE DE L'UNIVERSALITÉ I20
 
@@ -3435,7 +3435,7 @@ a ÷
 
 a + a or il est manifeste que le lieu de toutes les, a + Es est une ligne droite,
 
-ce qu'il falloit demonstrer.[^p121-1][^p121-2][^p121-3]
+ce qu'il falloit demonstrer.[^p121-3][^p121-2][^p121-1]
 
 [p. 122] DE LA MÉTHODE DE L'UNIVERSALITÉ 122
 
@@ -3465,9 +3465,9 @@ D, il est manifeste, que ce lieu peut tomber
 
 ou en iD au dessus du poinct A, ou en 2D vis a vis du dit sommet, ou en 3D, entre le sommet et le poinct B, ou la perpendiculaire doit rencontrer la courbe ; ou en 4D, dans la courbe même, de sorte que les points D et B alors reviennent a un seul, ou en sD, entre la courbe < ABC > et l'Axe AF, ou en 6D dans l'axe même, ou enfin en 7D de l'autre costé de l'axe.
 
-| Toutes ces lignes et tous les endroits du point D de chaque ligne, 25 verso.
+| Toutes ces lignes et tous les endroits du point D de chaque ligne, 25 verso.[^p122-1]
 
-ont besoin d'un calcul a part, car par exemple la ligne estant droite ou[^p122-1]
+ont besoin d'un calcul a part, car par exemple la ligne estant droite ou
 
 [p. 123] DE LA MÉTHODE DE L'UNIVERSALITÉ
 
@@ -3796,7 +3796,7 @@ Il y a encor d'autres signes ambigus du second degré, ou composez de trois ambi
 
 ou ta +b.....
 
-je dis qu'il y a en effect trois ambiguitez cachées la dedans, car en substituant à la place de # sa valeur + ou — nous aurons à la verité 4 expressions, mais dont la I. et 3m ne sont qu'une même[^p135-1][^p135-2][^p135-3][^p135-4]
+je dis qu'il y a en effect trois ambiguitez cachées la dedans, car en substituant à la place de # sa valeur + ou — nous aurons à la verité 4 expressions, mais dont la I.[^p135-4][^p135-3][^p135-2][^p135-1] et 3m ne sont qu'une même
 
 [p. 136] 136
 
@@ -4001,7 +4001,7 @@ dans l'autre signe #, ou (ryo) le I. ou 3m' cas sera y ou q, donc # signifiant +
 
 Les signes correspondants sont d'une même ambiguité immediatement, ou mediatement ; immediatement, comme dans la 3m ambiguité # et # dont je viens de parler, ou comme ( + ) et (#) dans la 4me ;
 
-mediatement, comme #* dans la quatrieme, et † dans la premiere, par ce que la 4m° est une soubsdistinction de la premiere ; et se sert de la premiere en y adjoutant encor une nouvelle ambiguité. Il est aisé de les reconnoistre par le moyen des lettres, car ceux qui tirent leur origine d'une même ambiguité immediatement. n'ont que les memes lettres diversement rangez ; comme (*+) s'exprime par (YeY), et (*#) par[^p142-1]
+mediatement, comme #* dans la quatrieme, et † dans la premiere, par ce que la 4m° est une soubsdistinction de la premiere ; et se sert de la premiere en y adjoutant encor une nouvelle ambiguité. Il est aisé de les reconnoistre par le moyen des lettres, car ceux qui tirent leur origine d'une même ambiguité immediatement.[^p142-1] n'ont que les memes lettres diversement rangez ; comme (*+) s'exprime par (YeY), et (*#) par
 
 [p. 143] 143
 
@@ -4155,9 +4155,9 @@ PHIL., V, 10, f. 54 (un coupon).
 
 PHIL., V, 10, f. 54.
 
-Additio natura prior substractione. Natura priora. Demonstratio axiomatum. Additio est natura prior substractione, seu ta + 6 est natura prius quam ta-b, quia natura prius est ut duo a, b codem modo tractentur quam ut tractentur modo diverso, et cum modo diverso tractantur, nondum ratio apparet, cur potius dicamus † a — b, quam — a + b.
+Additio natura prior substractione. Natura priora. Demonstratio axiomatum. Additio est natura prior substractione, seu ta + 6 est natura prius quam ta-b, quia natura prius est ut duo a, b codem modo tractentur quam ut tractentur modo diverso, et cum modo diverso tractantur, nondum ratio apparet, cur potius dicamus † a — b, quam — a + b.[^p146-1]
 
-Ea igitur causa forinsecus petenda est, quod [nihil] < non > esse necesse[^p146-1]
+Ea igitur causa forinsecus petenda est, quod [nihil] < non > esse necesse
 
 [p. 147] INFINITUM
 
@@ -4326,7 +4326,7 @@ Ut aliquod linguæ philosophicæ specimen edam, ac ne videar increlibilia promit
 
 Sed ipsa vocabula nova effingam, sumta ex natura ejus quod fit dum lineæ ducuntur. Hac ratione ubi primum Elementa explicuero, gradus ad cætera omnia non difficilis erit. Nihil autem calculi hic miscebo, imo nec de magnitudinibus, summis, differentiis, rationibus rationumque compositionibus, aut potentiis aut summis ? , cæterisque quæ communia sunt Arithmeticæ et Geometriæ, sed solis punctis, rectis, angulis, intersectionibus, contactibus, motibus sum locuturus, ostendamque quomodo expressiones calculares vel mixtæ ad lineares revocentur. Fructus autem erit maximus, quoniam hac ratione licebit Geometricas ratiocinationes maxime subtiles sine charta, sine pulvere, sine calculo, sola imaginationis et memoriæ vi peragere ? .
 
-Acqualitatem ad congruentiam revocabimus, rationem ad similitudinem. Aequalia quorum unum in alterum transformari potest.[^p152-1][^p152-2][^p152-3]
+Acqualitatem ad congruentiam revocabimus, rationem ad similitudinem. Aequalia quorum unum in alterum transformari potest.[^p152-3][^p152-2][^p152-1]
 
 [p. 153] 153
 
@@ -4348,7 +4348,7 @@ Cependant si la Methode des Mathematiciens n'a pas esté suffisante pour decouvr
 
 Si ceux qui ont cultivé les autres sciences [les] avoient imitez < les mathematiciens > au moins en ce point nous serions fort heureux : et ily a long temps que nous aurions une Metaphysique asseurée, aussi bien que la morale qui en depend ; puisque la Metaphysique renferme la connoissance de Dieu et de l'ame, qui doit regler nostre vie.
 
-Outre que nous aurions la science des mouvemens, qui est la clef de la physique et par consequent de la medecine. Il est vray que je croy que[^p153-1]
+Outre que nous aurions la science des mouvemens, qui est la clef de la physique et par consequent de la medecine.[^p153-1] Il est vray que je croy que
 
 [p. 154] 154
 
@@ -4426,7 +4426,7 @@ conatus, et notavi evagationem illam non posse deprehendi nisi in radio solido <
 
 I. Cf. Lettre à Oldenburg (Phil., VII, iI ; Briefwechsel, I, 100) ; Lettre à Galloys.
 
-décembre 1678 (Phil., VII, 23 ; Math., I, 187) et Phil., VII, 201, 205[^p157-1][^p157-2]
+décembre 1678 (Phil., VII, 23 ; Math., I, 187) et Phil.[^p157-2][^p157-1], VII, 201, 205
 
 [p. 158] 158
 
@@ -4598,7 +4598,7 @@ De Photiano opere.
 
 De regula artis [synthetica] < combinatoriæ >, ut incipiamus a simplicioribus et generalioribus. Ut procedamus semper per facilia, nec unquam progrediamur per saltum, imò ut revera nunquam quæramus aliquid, sed potius patiamur nos à rei natura duci. Vel si quærimus aliquid, ut sciamus id esse præ foribus.
 
-De progressione serierum, quandocunque progressionem invenimus ope Tabula à posteriori, utile quidem aliquid et præclarum egimus, non tamen processimus perfectè, poteramus enim eandem progressionis legem reperire à priori, quando eam demonstrare possumus, independenter à Tabula. { Rarò inventio libera est ab omni casu. } Invenire progressionis Legem utile est etiam pro consideratione omnium specierum, simul enim omnes connexuimus.[^p163-1][^p163-2]
+De progressione serierum, quandocunque progressionem invenimus ope Tabula à posteriori, utile quidem aliquid et præclarum egimus, non tamen processimus perfectè, poteramus enim eandem progressionis legem reperire à priori, quando eam demonstrare possumus, independenter à Tabula. { Rarò inventio libera est ab omni casu. } Invenire progressionis Legem utile est etiam pro consideratione omnium specierum, simul enim omnes connexuimus.[^p163-2][^p163-1]
 
 [p. 164] 164
 
@@ -4678,7 +4678,7 @@ Hæc tamen rursus distingui possunt curatius. Nimirum accuratè loquendo Analyti
 
 injectis aliis liquoribus aut pulveribus fermentationem < aliam > excitantibus combinatorium. Dices etiam ignem in distillando, cultrum in dissecando extrinsecus adhibita. Ita est : fateor, et < qui > primus artem docuit secandi cultro, aut igne liquores in vaporem evehendi, haud dubiè combinatoriæ opus peregit ; sed nunc vulgato horum instrumentorum usu, perinde habendum est, ac si ignis liquori, culter cadaveri perpetuo annectus appictusve esser, cum idea unius ideam alterius semper offerat ex quo eas duas res ex humano arbitrio tam
 
-Ce brouillon contient, outre un plan de l'Art d'inventer (divisé en Analytiq en Combinatoire). un proiet d'Encvclopédie théorique et pratiaue. fondée sur angue ou le « caractère » philosophique . Cf. MaTH., I, 26, c, d ; 27 b[^p167-1]
+Ce brouillon contient, outre un plan de l'Art d'inventer (divisé en Analytiq en Combinatoire). un proiet d'Encvclopédie théorique et pratiaue. fondée sur angue ou le « caractère » philosophique . Cf. MaTH.[^p167-1], I, 26, c, d ; 27 b
 
 [p. 168] 168
 
@@ -4692,7 +4692,7 @@ si tanta in illis sit velut inquirendi pertinacia, et penetrandi improbus labor,
 
 nam spretis illis qua nunc ab ipsis inveniuntur, longius quam alii tunc quoque non minus quàm hodie penetrarent ; nec dubitarem Archimedem si nunc in vivis esset, admiranda daturum ; cùm Quadratura parabolæ dimensionesque coni, et superficierum sphæricarum aut conicarum eo tempore non minus difficiles fuerint, quam nunc abstrusissimæ analytica sunt indivisibilium indagationes. Neque ergo ideò pauciores erunt magni viri imposterum, quod tam multa jam ab aliis occupata sunt.
 
-Contra enim aliorum inventis via illis ad longè majora sternetur ; et ipsa in scientiis aut scientiarum partibus jam pene tritis, novorum sterilitas, ad difficiliora coget ; magno generis humani bono, cum infinita semper restent, nec nisi agrè ad vestibula usque per media senticeta perrepserimus. Portas autem tum demum apertas fore putandum est, cùm ipsa[^p168-1]
+Contra enim aliorum inventis via illis ad longè majora sternetur ; et ipsa in scientiis aut scientiarum partibus jam pene tritis, novorum sterilitas, ad difficiliora coget ; magno generis humani bono, cum infinita semper restent, nec nisi agrè ad vestibula usque per media senticeta perrepserimus.[^p168-1] Portas autem tum demum apertas fore putandum est, cùm ipsa
 
 [p. 169] 16g
 
@@ -4764,7 +4764,7 @@ Hoc non demonstrationem sane dat satis validam, sed inquirendi occasionem præbe
 
 8 recto.
 
-Aeq. I.[^p171-1][^p171-2]
+Aeq. I.[^p171-2][^p171-1]
 
 [p. 172] 172
 
@@ -4930,7 +4930,7 @@ Or jay trouvé que par ce moyen on n'arriveroit pas seulement à une connoissanc
 
 J'ay même trouvé une chose estonnante, c'est qu'on peut representer par les Nombres, toutes sortes de verités et consequences ? . Il y a plus de 20 ans que je [me fis un projet admirable] trouva la demonstration de cette importante connoissance, et que je m'avisa d'une methode qui nous mene infalliblement à l'analyse generale des connoissances humaines. ['ay esté souvent surpris que les hommes ont negligé] comme on peut juger par un petit traité que | je fis imprimer à lors ? , où il y a quel - 9 verso.
 
-ques choses qui sentent le jeune homme et l'apprentif, mais le fonds est bon, et j'y * basti depuis la dessus autant que d'autres affaires et distractions me pouvoient permettre ".[^p175-1][^p175-2][^p175-3][^p175-4]
+ques choses qui sentent le jeune homme et l'apprentif, mais le fonds est bon, et j'y * basti depuis la dessus autant que d'autres affaires et distractions me pouvoient permettre ".[^p175-4][^p175-3][^p175-2][^p175-1]
 
 [p. 176] 176
 
@@ -4966,7 +4966,7 @@ Ingrediturque solo et caput inter nu bila condit, il se servit d'une proposition
 
 Je ne me souviens pas maintenant d'avoir veu un philosophe demonstrateur du siecle passé, si ce n'est que Tartaglia a fait quelque chose sur le mouvement, et Cardan parlant des proportions et Franciscus Patritius, qui estoient un homme de belles veues, mais qui manquoit de
 
-I. Cf. PHIL., VI, 12, f, 27.[^p177-1][^p177-2]
+I. Cf. PHIL., VI, 12, f, 27.[^p177-2][^p177-1]
 
 [p. 178] 178
 
@@ -5002,7 +5002,7 @@ Enfin Spinosa entreprit de donner des demonstrations, celles qu'il publia sur un
 
 Il faut avouer que cet auteur a eu quelques pensées belles et profondes mais il y en a d'autres si brouillées et si eloignées de la clarté des Mathénaticiens qu'on ne sçait que dire, et cependant il les | veut faire passer 12 recto bour des demonstrations incontestables. Les demonstrations qu'il donn quelques fois sont < extrêmement > embarassées, et souvent la proposition dont il se sert pour demonstrer une autre proposition est bien plus difficile que la conclusion.
 
-Parmy les. Aristoteliciens on trouve encor de fort habiles gens qui ont entrepris de faire des demonstrations dont il y en a deux qui ne sont pas à mepriser, sçavoir Abdias Trew mathematicien d'Altorf qui a reduit en < forme de > demonstration les 8 livres d'Aristote de vysico audito, et l'autre c'est Jean Felden, celuy qui est connu par un livre de remarques qu'il fit sur l'ouvrage de Grotius *de Jure* belli et pacis et que M. Grassvinckel refuta, il a donné quelques Elemens de jurisprudence ou il y a asseurement quelques pensées solides. Il y a un très habile professeur à Iena nommé Mons. Weigelius ; qui a publié un bel ouvrage appellé Analysis uclidea, ou il y a beaucoup de belles pensees pour perfectionner 1 ogique et pour donner des demonstrations en philosophie ; entre autre il a communiqué [donné] a quelques amis un Essai pour demonstrer l'Existence de Dieu, fondée sur ce que tous les autres estres doivent estre continuellement creés ? . il a aussi donné une sphere morale 3 fort[^p179-1][^p179-2][^p179-3]
+Parmy les. Aristoteliciens on trouve encor de fort habiles gens qui ont entrepris de faire des demonstrations dont il y en a deux qui ne sont pas à mepriser, sçavoir Abdias Trew mathematicien d'Altorf qui a reduit en < forme de > demonstration les 8 livres d'Aristote de vysico audito, et l'autre c'est Jean Felden, celuy qui est connu par un livre de remarques qu'il fit sur l'ouvrage de Grotius *de Jure* belli et pacis et que M. Grassvinckel refuta, il a donné quelques Elemens de jurisprudence ou il y a asseurement quelques pensées solides. Il y a un très habile professeur à Iena nommé Mons. Weigelius ; qui a publié un bel ouvrage appellé Analysis uclidea, ou il y a beaucoup de belles pensees pour perfectionner 1 ogique et pour donner des demonstrations en philosophie ; entre autre il a communiqué [donné] a quelques amis un Essai pour demonstrer l'Existence de Dieu, fondée sur ce que tous les autres estres doivent estre continuellement creés ? .[^p179-3][^p179-2][^p179-1] il a aussi donné une sphere morale 3 fort
 
 [p. 180] PROJET D'UN ART D'INVENTER 180
 
@@ -5016,7 +5016,7 @@ trations, il a abandonné la Methode qui paroist plus propre à éclairer l'Espr
 
 Je remarque aussi un defaut dans ceux qui tachent d'écrire demonstrativement, c'est qu'il coupent la matiere en tant de petites propositions, que l'esprit se trouve dissipé par là ? . C'est pourquoy il est a propos de distinguer les propositions les plus importantes des moindres.
 
-Il y a encor ce defaut que les Auteurs qui entreprennent [de donner des demonstrations] d'ecrire par propositions ne sçavent pas quand il est temps de finir, car les propositions vont à l'infini. Je trouve deux limites que la raison nous prescrit, les voicy, I) il est necessaire de continuer la synthese jusqu'à ce qu'on la puisse changer en Analyse, 2) il est utile de continuer la synthese jusqu'à ce qu'on voye des progressions à l'infini,[^p180-1][^p180-2]
+Il y a encor ce defaut que les Auteurs qui entreprennent [de donner des demonstrations] d'ecrire par propositions ne sçavent pas quand il est temps de finir, car les propositions vont à l'infini.[^p180-2][^p180-1] Je trouve deux limites que la raison nous prescrit, les voicy, I) il est necessaire de continuer la synthese jusqu'à ce qu'on la puisse changer en Analyse, 2) il est utile de continuer la synthese jusqu'à ce qu'on voye des progressions à l'infini,
 
 [p. 181] PROJET D'UN ART D'INVENTER
 
@@ -5112,9 +5112,9 @@ PHIL., VI, 12, 1, PHIl.., VI, 12, f, 20 (1 f. *in-8°*).
 
 20.
 
-Miror Wilkinsium * magnam suarum præpositionum partem formare adhibita litera r, cum tamen creberrimæ sint præpositiones in sermone, litera vero r pronuntiatu difficillima, ita ut ea plane careant Sinenses.
+Miror Wilkinsium * magnam suarum præpositionum partem formare adhibita litera r, cum tamen creberrimæ sint præpositiones in sermone, litera vero r pronuntiatu difficillima, ita ut ea plane careant Sinenses.[^p184-3][^p184-2][^p184-1]
 
-Verus character universis " aut Lingua rationalis nulla indiget memoria[^p184-1][^p184-2][^p184-3]
+Verus character universis " aut Lingua rationalis nulla indiget memoria
 
 [p. 185] 185
 
@@ -5150,7 +5150,7 @@ i. Ces 3 mots sont répétés par erreur dans le ms.
 
 .L., VII, B, tela nassim no recore dans le consitium de Encape dia nel.
 
-HIL., VII, B, Il, *passim*) ou encore dans 1 (PHIL., V, 7, f. 3 verso).[^p185-1][^p185-2]
+HIL., VII, B, Il, *passim*) ou encore dans 1 (PHIL., V, 7, f. 3 verso).[^p185-2][^p185-1]
 
 [p. 186] 186
 
@@ -5166,7 +5166,7 @@ PHIL., VI, 12, f, 23.
 
 Il est tres important de concevoir que le nombre des premieres propositions est infini, car elles sont ou definitions ou Axiomes '. Le Nombre des definitions aussi bien que des termes est infini. Le nombre des Axiomes l'est aussi. J'appelle Axiome proposition necessaire indemonstrable.
 
-Necessaire c'est à dire dont le contraire implique contradiction. Orla seule proposition dont le contraire implique contradiction, sans qu'on la puisse demonstrer, est l'identique formelle. Cela se dit expressement la dedans, donc cela ne s'y peut pas demonstrer ; demonstrer ; c'est à dire faire voir par la raison et par conséquences. Cela s'y peut montrer a l'œil, donc cela ne s'y peut pas demonstrer. Les sens font voir que A est A. est une proposition dont l'opposée A n'est pas A. implique contradiction formellement. Or ce que les sens font voir est indemonstrable '. Donc les Axiomes veritables et indemonstrables sont les propositions identiques. Or leur nombre est infini. Car le nombre des termes estant infini, le nombre de telles propositions est aussi, car il en peut avoir autant que des termes. Cependant cela est merveilleux, et il paroistroit etrange à un homme, à qui on ne l'expliqueroit pas ; de dire que le nombre des propositions premieres incontestables, est infini. Si les principes sont infi-[^p186-1]
+Necessaire c'est à dire dont le contraire implique contradiction. Orla seule proposition dont le contraire implique contradiction, sans qu'on la puisse demonstrer, est l'identique formelle. Cela se dit expressement la dedans, donc cela ne s'y peut pas demonstrer ; demonstrer ; c'est à dire faire voir par la raison et par conséquences. Cela s'y peut montrer a l'œil, donc cela ne s'y peut pas demonstrer. Les sens font voir que A est A. est une proposition dont l'opposée A n'est pas A. implique contradiction formellement. Or ce que les sens font voir est indemonstrable '. Donc les Axiomes veritables et indemonstrables sont les propositions identiques. Or leur nombre est infini. Car le nombre des termes estant infini, le nombre de telles propositions est aussi, car il en peut avoir autant que des termes. Cependant cela est merveilleux, et il paroistroit etrange à un homme, à qui on ne l'expliqueroit pas ; de dire que le nombre des propositions premieres incontestables, est infini.[^p186-1] Si les principes sont infi-
 
 [p. 187] 187
 
@@ -5186,7 +5186,7 @@ PHIL., VI, 12, f,
 
 Sæpe recentiores nodum in scirpo quærunt ac de vocabulis litigant, cum negant calorem esse in igne non magis quam dolorem in acu ; imo
 
-I. Cf. PHIL., VIII, 6 recto.[^p187-1][^p187-2]
+I. Cf. PHIL., VIII, 6 recto.[^p187-2][^p187-1]
 
 [p. 188] 188
 
@@ -5204,7 +5204,7 @@ PHIL., VI, 12, f, 25.
 
 De Analysi veritatis et judiciorum humanorum.
 
-Apud Theologos libri habentur de Analysi Fidei, qualis extat Gregorii de Valentia Societatis Jesu et Henrici Holdeni Angli Theologi Parisini. Mirandum est itaque apud philosophos nihil haberi de Analysi[^p188-1]
+Apud Theologos libri habentur de Analysi Fidei, qualis extat Gregorii de Valentia Societatis Jesu et Henrici Holdeni Angli Theologi Parisini.[^p188-1] Mirandum est itaque apud philosophos nihil haberi de Analysi
 
 [p. 189] DE ANALYSI VERITATIS
 
@@ -5260,7 +5260,7 @@ Dicam nunc de illis qui Methodum demonstrativam ad Metaphysica et Moralia transt
 
 lasticos quidam Joh. Suisset, vulgo dictus calculator", inprimis Mathe.
 
-maticum aliquid affectavit, et de intensione ac remissione qualitatum solito subtilius ratiocinatus est. Demonstrare Existentiam DEi complures aggressi sunt ex absurditatibus quæ ipsis consequi videntur progressun in infinitum, ita autor Tentaminis pilosovici, qui fuit ni fallor Sethu Wardus, et Joh. Basil. Morinus, ut judico ex Epistola quadam Cartesii ad Mersennum. Verum præsupponunt illi infinitum numerum posse concipi ut unum congregatum, quod est falsum ; et ideo multi tecte[^p191-1][^p191-2]
+maticum aliquid affectavit, et de intensione ac remissione qualitatum solito subtilius ratiocinatus est. Demonstrare Existentiam DEi complures aggressi sunt ex absurditatibus quæ ipsis consequi videntur progressun in infinitum, ita autor Tentaminis pilosovici, qui fuit ni fallor Sethu Wardus, et Joh. Basil. Morinus, ut judico ex Epistola quadam Cartesii ad Mersennum.[^p191-2][^p191-1] Verum præsupponunt illi infinitum numerum posse concipi ut unum congregatum, quod est falsum ; et ideo multi tecte
 
 [p. 192] ELEMENTA VERITATIS ETERNÆ 192
 
@@ -5334,7 +5334,7 @@ Quidam homo est felix
 
 Omnis doctus est homo nihil inde inferri potest. Nam idem est ac si diceret, Quidam homo idem est cum quodam felice. Sed omnis doctus idem est cum quodam homine.
 
-Hic cum bis occurrat quidam homo, potest alius planè homo intelligi in una præmissa, ab eo qui in altera præmissa, unde nullum argumentum ad conferendum doctum et felicem duci potest, ut inde de aliquo vel omni docto colligatur, an diversus sit vel idem alicui vel omni felici.[^p195-1][^p195-2]
+Hic cum bis occurrat quidam homo, potest alius planè homo intelligi in una præmissa, ab eo qui in altera præmissa, unde nullum argumentum ad conferendum doctum et felicem duci potest, ut inde de aliquo vel omni docto colligatur, an diversus sit vel idem alicui vel omni felici.[^p195-2][^p195-1]
 
 [p. 196] 196
 
@@ -5424,7 +5424,7 @@ I { Coroll. 1. Ergo si major est particularis, minor est affirmativa a recto, ma
 
 per conversionem propositionis.
 
-Coroll. 2. Non datur syllogismus, ubi major propositio sit particularis affirmativa, et minor universalis negativa, seu non datur modus IEO. }[^p197-1]
+Coroll. 2. Non datur syllogismus, ubi major propositio sit particularis affirmativa, et minor universalis negativa, seu non datur modus IEO.[^p197-1] }
 
 [p. 198] 198
 
@@ -5446,7 +5446,7 @@ laris, seu si conclusio est universalis, utraque præmissa est universalis.
 
 < Nam > si conclusio est universalis, minor terminus est universalis ubique (coroll. art. 27) ergo et in minore propositione. Sed quia conclusio etiam est affirmativa, ibi est subjectum (art. 3I) ergo (art. II)
 
-minor propositio est universalis, et medius terminus *ibidem* est prædicatum, ergo medius terminus ibi est particularis (art. 9). Ergo medius terminus terminus est universalis in prop. majore (art. 19) sed ibi est subjectum (art. 3') ergo (per art. II) etiam major prop. est univer-[^p198-1]
+minor propositio est universalis, et medius terminus *ibidem* est prædicatum, ergo medius terminus ibi est particularis (art. 9). Ergo medius terminus terminus est universalis in prop. majore (art. 19) sed ibi est subjectum (art. 3') ergo (per art. II) etiam major prop.[^p198-1] est univer-
 
 [p. 199] MATHESIS RATIONIS
 
@@ -5468,7 +5468,7 @@ negativa, major < propositio > est universalis. Nam quia conclusio est negativa,
 
 Est autem in ea subjectum (ex hypoth.). Ergo (art. II) ipsa propositio major est universalis. Q. E. D.
 
-{ Coroll. Hinc ubi major terminus est subjectum in præmissa, majore propositione existente particulari, conclusio est affirmativa.[^p199-1][^p199-2][^p199-3]
+{ Coroll. Hinc ubi major terminus est subjectum in præmissa, majore propositione existente particulari, conclusio est affirmativa.[^p199-3][^p199-2][^p199-1]
 
 [p. 200] MATHESIS RATIONIS 200
 
@@ -5510,7 +5510,7 @@ Coroll. Hinc in quarta figura si minor sit particularis, major erit negativa.
 
 Schol. Utraque propositio conjungi potest, cum una sit tantum alterius conversa. Nempe non simul præmissa in qua medius est prædicatum potest esse affirmativa, et in qua est subjectum, universalis. { (4[^p201-4] In prima et tertia figura, Minor propositio est affirmativa. Nam si minor propositio esset negativa, utique et conclusio foret negativa (art. 21). Jam ubi conclusio est negativa et major terminus est prædicatum < in præmissa >, (ut in prima et tertia fig. art. 22) etiam major propositio est negativa (art. 35). Ergo tam major quam minor præmissa foret negativa, contra art. I5.
 
-(4[^p201-5] In prima figura major propositio est universalis. Nam in ea minor prop. est affirmativa (art. 40ª). Ergo et in ea medius terminus est prædicatum minoris prop. (art. 22) ergo in ea medius terminus est particularis (art. II). Ergo medius terminus est universalis in majore propositione. Sed medius terminus in majore propositione est subjectum (artic. 22). Ergo (art. II) major propositio est universalis. < Sequitur etiam ex prop. 40 et 42. >[^p201-1][^p201-2]
+(4[^p201-5] In prima figura major propositio est universalis. Nam in ea minor prop. est affirmativa (art. 40ª). Ergo et in ea medius terminus est prædicatum minoris prop. (art. 22) ergo in ea medius terminus est particularis (art. II). Ergo medius terminus est universalis in majore propositione. Sed medius terminus in majore propositione est subjectum (artic. 22). Ergo (art. II) major propositio est universalis. < Sequitur etiam ex prop. 40 et 42.[^p201-2][^p201-1] >
 
 [p. 202] MATHESIS RATIONIS 202
 
@@ -5526,7 +5526,7 @@ figura ? . Nam excluditur figura ada et 3tia (art. 37 et 38 4). Porro minor term
 
 (art. 20). sed ea est affirmativa (art. 2I) ergo prædicatum ejus est particulare (art. 9) ergo minor universalis non est ejus prædicatum sed subjectum, quod non habet locum in quarta figura (art. 20). Ergo sola superest prima.
 
-Veniendum jam foret ad modorum enumerationem, demonstranda prima figura et in quatuor modis prima erit ; hinc demonstrabitur subalternatio, assumta identica. Et sic habentur reliqui modi duo primæ. Ex sex modis primæ per regressum demonstrantur sex modi secundæ et sex modi tertix, et simul demonstratur tot esse modos secundæ vel 3tiæ quot prima. Quarta modi demonstrantur ex prima per conversionem, et demonstrati dant reliquos per regressum. Contendendum erit, non dari plures, et quidem non per enumerationem illegitimorum, sed ex legibus legitimorum ". V. g. in prima præmissa SCVD, VBPD dant :
+Veniendum jam foret ad modorum enumerationem, demonstranda prima figura et in quatuor modis prima erit ; hinc demonstrabitur subalternatio, assumta identica. Et sic habentur reliqui modi duo primæ. Ex sex modis primæ per regressum demonstrantur sex modi secundæ et sex modi tertix, et simul demonstratur tot esse modos secundæ vel 3tiæ quot prima. Quarta modi demonstrantur ex prima per conversionem, et demonstrati dant reliquos per regressum. Contendendum erit, non dari plures, et quidem non per enumerationem illegitimorum, sed ex legibus legitimorum ". V. g.[^p202-4][^p202-3][^p202-2][^p202-1] in prima præmissa SCVD, VBPD dant :
 
 { A Barbara I
 
@@ -5544,7 +5544,7 @@ PBPD
 
 Y PBPD
 
-EI O Ferio[^p202-1][^p202-2][^p202-3][^p202-4]
+EI O Ferio
 
 [p. 203] 203
 
@@ -5656,9 +5656,9 @@ Barmasi Calmerens (rop) Fesiso (sapo) Dimaris.
 
 ....} .........
 
-Vocabula afficta sic interpretantur, à vocalibus per versus Asserit A negat E verúm generaliter ambo Asserit I negat O sed particulariter ambo.
+Vocabula afficta sic interpretantur, à vocalibus per versus Asserit A negat E verúm generaliter ambo Asserit I negat O sed particulariter ambo.[^p203-1]
 
-qui parait se rattacher[^p203-1]
+qui parait se rattacher
 
 [p. 204] MATHESIS RATIONIS 204
 
@@ -5752,7 +5752,7 @@ tem contenti in Termino Minore, cum contento in termino Majore. . .
 
 {Quantitas subjecti notat quantitatem propositionis. Quantitas prædicati notat qualitatem propositionis, ergo sufficit omnia reduci ad quantitatem. / (I) Medius Terminus debet esse universalis in alterutra præmis......
 
-(2) Alterutra præmissa debet esse affirmativa. . . . . . . .
+[^p205-2] Alterutra præmissa debet esse affirmativa. . . . . . . .
 
 (3) Terminus particularis in præmissa est particularis in conclu....
 
@@ -5768,9 +5768,9 @@ demonstrari possunt '.
 
 [61 (7) Si conclusio sit universalis, minor propositio vel est universalis vel negativa. . . . . .
 
-G) Si conclusio sit negativa, major propositio vel est universalis vel negativa. • . • • • •
+G) Si conclusio sit negativa, major propositio vel est universalis vel negativa. • .[^p205-1] • • • •
 
-: : : : [^p205-1][^p205-2]
+: : : :
 
 [p. 206] 206
 
@@ -5814,7 +5814,7 @@ Barbari, Calentes, Dibatis, Fespamo, Fresisom ».
 
 • ....
 
-| Nomina autem quinque modorum veterum < Figura > quartæ I verso.[^p206-1][^p206-2][^p206-3][^p206-4][^p206-5]
+| Nomina autem quinque modorum veterum < Figura > quartæ I verso.[^p206-5][^p206-4][^p206-3][^p206-2][^p206-1]
 
 [p. 207] DE NOVIS FORMIS SYLLOGISTICIS
 
@@ -5852,7 +5852,7 @@ Calmentes, Baralimp, Digamis, Fesapo, Fresiso.
 
 Sed placet exhibere modos omnes, uti ex prima figura demonstrantur, per conversionem quoties fieri potest, sin minus per regressum seu
 
-binis distichis expressas >. Ubi notabile est quartam figuram prævalere secundæ et tertiæ, quod omnes ejus modi sola conversione possint reduci ad primam. Cum in secunda Baroco et Gaceno, in tertia Bocardo non nisi per impossibile seu regressum ad primam reducantur. Sed sciendum est errasse Logicos, cum putarent reductionem per conversionem esse meliorem quam reductionem per regressum seu impossibile. Nam contra reperi omnes modos secunda et tertiæ figura ad primam figuram reduci[^p207-1]
+binis distichis expressas >. Ubi notabile est quartam figuram prævalere secundæ et tertiæ, quod omnes ejus modi sola conversione possint reduci ad primam. Cum in secunda Baroco et Gaceno, in tertia Bocardo non nisi per impossibile seu regressum ad primam reducantur. Sed sciendum est errasse Logicos, cum putarent reductionem per conversionem esse meliorem quam reductionem per regressum seu impossibile.[^p207-1] Nam contra reperi omnes modos secunda et tertiæ figura ad primam figuram reduci
 
 [p. 208] 208
 
@@ -6056,7 +6056,7 @@ Darii
 
 Q. A est C vel Barbari
 
-Q. A est B}[^p209-1]
+Q.[^p209-1] A est B}
 
 [p. 210] 210
 
@@ -6146,7 +6146,7 @@ metalla et gemmæ, sed quod illis pretiosius est rationum momenta stomami, posin
 
 [Hoc libræ genus < summæ > in omni humana vita [profuturum]
 
-< utilitatis >, [ex Jurisconsultorum thesauris expromo] < ex Jurisprudentia adytis promo. >| Itaque fatentur omnes, extare in rerum natura hoc Libræ < Logometra > genus, ubi reperiatur non ostendunt. } Aristoteles Logica parens non attigit ; < interpretes multo minus >. Qui nostro tempore pra cæteris egregie in logicis versati sunt, Joachimus Jungius et Antonius Arnaldus 1, hanc partem non minus quam cæteri prætermisere. { Rem ergo summa in omni vita utilitatis nunc tandem ex Jurisprudentiæ adytis promimus, ubi ita latebat, ut vix agnosceretur. Nimirum pro comperto < habendum > est, ut Mathematicos in necessariis, sic Jurisconsultos in contingenlibus Logicam, boc est rationis artem, pra cateris mortalibus optime exercuisse. Hine illorum multa præcepta de probationibus plenis aut semiplenis, de præsumtionibus, de conjectandis sensibus < legum >, contractuum atque ultimarum voluntatum, de indiciis criminum < atque argumentis > ad inquisitionem, ad captionem, < ad territionem >, ad quastionem per tormenta < imi, medii, summi gradus > ; accedunt loca legalia argumentorum, quæ Topicam juris axiomatibus vel ut vulgo loquuntur maximis instruunt [quas alii xupías ôóças vocant] ? . Postremo quid aliud est processus judiciarius quam forma disputandi a scholis translata ad vitam, purgata ab inaniis, et autoritate publica ita circumscripta, ut ne divagari impune liceat, aut tergiversari, neve omittatur quodcunque ad veritatis indagationem facere videri possit. Qua sane diligentia atque industria, si mortales cæteris in rebus uterentur, et quantum < in re pecuniaria, sæpe non magna >, fatigantur judices aut commissarii conferendo argumenta argumentis < examinando scripturas >, interrogando testes, descenr. Que Leibniz considérait comme l'unique auteur de la Logique de Port-Roral[^p211-1]
+< utilitatis >, [ex Jurisconsultorum thesauris expromo] < ex Jurisprudentia adytis promo. >| Itaque fatentur omnes, extare in rerum natura hoc Libræ < Logometra > genus, ubi reperiatur non ostendunt. } Aristoteles Logica parens non attigit ; < interpretes multo minus >. Qui nostro tempore pra cæteris egregie in logicis versati sunt, Joachimus Jungius et Antonius Arnaldus 1, hanc partem non minus quam cæteri prætermisere. { Rem ergo summa in omni vita utilitatis nunc tandem ex Jurisprudentiæ adytis promimus, ubi ita latebat, ut vix agnosceretur. Nimirum pro comperto < habendum > est, ut Mathematicos in necessariis, sic Jurisconsultos in contingenlibus Logicam, boc est rationis artem, pra cateris mortalibus optime exercuisse. Hine illorum multa præcepta de probationibus plenis aut semiplenis, de præsumtionibus, de conjectandis sensibus < legum >, contractuum atque ultimarum voluntatum, de indiciis criminum < atque argumentis > ad inquisitionem, ad captionem, < ad territionem >, ad quastionem per tormenta < imi, medii, summi gradus > ; accedunt loca legalia argumentorum, quæ Topicam juris axiomatibus vel ut vulgo loquuntur maximis instruunt [quas alii xupías ôóças vocant] ? . Postremo quid aliud est processus judiciarius quam forma disputandi a scholis translata ad vitam, purgata ab inaniis, et autoritate publica ita circumscripta, ut ne divagari impune liceat, aut tergiversari, neve omittatur quodcunque ad veritatis indagationem facere videri possit. Qua sane diligentia atque industria, si mortales cæteris in rebus uterentur, et quantum < in re pecuniaria, sæpe non magna >, fatigantur judices aut commissarii conferendo argumenta argumentis < examinando scripturas >, interrogando testes, descenr.[^p211-1] Que Leibniz considérait comme l'unique auteur de la Logique de Port-Roral
 
 [p. 212] AD STATERAM JURIS 212
 
@@ -6170,7 +6170,7 @@ pacisque negotiis, de conscientiæ moderamine, de aternitatis cura, delitractari
 
 | Hæc autem non eo accipi velim quasi Jurisconsultos esse sine nævis P. 3.
 
-putem, aut quasi omnia apud ipsos ita sint constituta, ut rectius non possint. Quid enim tale est in rebus humanis ? Fateor lubens *passim* incerto[^p213-1]
+putem, aut quasi omnia apud ipsos ita sint constituta, ut rectius non possint. Quid enim tale est in rebus humanis ?[^p213-1] Fateor lubens *passim* incerto
 
 [p. 214]
 
@@ -6194,7 +6194,7 @@ Note de RAsPE : « L-ii elegans meditatio de confusa hominum cognitione, quibusq
 
 Mihi si dicendum quod res est statum humana cognitionis consideranti in mentem venit imago exercitus, in fugam conjecti, vel præda causa per agros palantis, à quo nulla signa nulli ordines servantur ; vel, ut aptiori similitudine utar ; eruditionis hodiernæ apparatus, videtur comparari posse taberna amplissima, omnigena mercium varietate instructz, sed planè eversæ et perturbata, omnibus inter se confusis, nullis accedentibus numeris literisve indicibus, nullo inventario, nullis rationum libris, unde lux aliqua hauriri possit. Ubi quanto majorem massam conficient res collecta, tanto minus usui erunt. Itaque non tantum novis mercibus undique convectandis, sed et his qua habentur rite ordinandis opera danda est, talisque eligendus ordo, ut nova supplementa semper imposterum locum suum certum inveniant, nec pristina semper ob accessiones quotidianas
 
-. Le mot esse est répété à la ligne par erreur dans le ms[^p214-1]
+.[^p214-1] Le mot esse est répété à la ligne par erreur dans le ms
 
 [p. 215]
 
@@ -6254,9 +6254,9 @@ PHIL., VII, A, 24-25 (2 f. in-fol.) ? .
 
 PHIL., VII, A, 24-
 
-25.
+25.[^p217-1]
 
-Initia Scientie Generalis, ubi de instauratione et augmentis scientiarum, seu de palpabilibus notis veritatum et filo certo artis inveniendi < omnia[^p217-1]
+Initia Scientie Generalis, ubi de instauratione et augmentis scientiarum, seu de palpabilibus notis veritatum et filo certo artis inveniendi < omnia
 
 [p. 218] 218
 
@@ -6292,9 +6292,9 @@ De ortu et progressu scientiarum seu de Historia literaria.
 
 De Statu præsenti Reipublica literaria. { Historia Inventorum } °.
 
-Varia consilia de Instauratione et Augmentis Scientiarum.
+Varia consilia de Instauratione et Augmentis Scientiarum.[^p218-3][^p218-2][^p218-1]
 
-Consilium Autoris in duobus consistit, primo in Scientia generali tra-[^p218-1][^p218-2][^p218-3]
+Consilium Autoris in duobus consistit, primo in Scientia generali tra-
 
 [p. 219] PLAN DE LA SCIENCE GÉNÉRALE
 
@@ -6322,7 +6322,7 @@ et Claubergii discernere potest : conceptus clarus at confusus est, cum quis not
 
 logicas Arnaldi habet aliis tradere non potest, sed cogitur eandem rem < vel similem >
 
-Hon. Fabry.[^p219-1][^p219-2]
+Hon. Fabry.[^p219-2][^p219-1]
 
 [p. 220] PLAN DE LA SCIENCE GÉNÉRALE 220
 
@@ -6372,7 +6372,7 @@ De legibus veritatis, necessitatis et } De Gradibus probabilitatis, seu Libra ra
 
 De Sophismatum detectione, ubi sumenda in manus Colloquia. adde Stahlii diss. Ms.
 
-De judice controversiarum < humanarum > seu Methodo infallibilitatis, et quomodo effici possit, ut omnes nostri errores sint tantum errores calculi, et per examina quædam facile possint justificari.[^p221-1][^p221-2][^p221-3][^p221-4]
+De judice controversiarum < humanarum > seu Methodo infallibilitatis, et quomodo effici possit, ut omnes nostri errores sint tantum errores calculi, et per examina quædam facile possint justificari.[^p221-4][^p221-3][^p221-2][^p221-1]
 
 [p. 222] 222
 
@@ -6410,7 +6410,7 @@ Figura utiles ex opere magno planisphærii Octavii Pisani.
 
 Topographia terræ, seu pleræque urbes celebres una, duabus vel pluribus tabulis exhibita. Item alia tabula pro munimentis.
 
-Tabula] Heraldica compendiosa. Variæ Tabulæ Heraldicæ illustriorum per varias Europæ regiones familiarum.[^p222-1][^p222-2]
+Tabula] Heraldica compendiosa. Variæ Tabulæ Heraldicæ illustriorum per varias Europæ regiones familiarum.[^p222-2][^p222-1]
 
 [p. 223] ATLAS UNIVERSALIS
 
@@ -6518,13 +6518,13 @@ NOUVELLES OUVERTURES
 
 temps aux hommes, sur tout s'il se trouve par malheur ou par leur peu PHi.., VII, B, 1, 1.
 
-le methode qu'ils n'en soyent pas fort soulagés, ce qui les feroit retombe in jour « de la curiosité > dans l'indifference et enfin dans l'igno rance. Cependant il est constant que > les Mathematiques, < qui sont le chef-d'œuvre du raisonnement humain >, ne sont jamais allé si loin et si la Medecine n'avance pas encor à proportion des belles observations de physique, il ne tient peut estre qu'à un bon ordre, que les souverains y pourroient mettre < àfin de faire un peu mieux valoir les avantages que le genre humain a dejà eus sur la nature >. L'Histoire civile et tout ce qu'on appelle les belles lettres, se trouve mis dans un grand jour. Et quoyque ce qu'on peut tirer des Grecs et des Latins ne soit pas encor entierement epuisé, et qu'il y ait de quoy faire des beaux spicileges, on peut neantmoins asseurer que le principal est éclairci. Depuis quelque temps on travaille à l'Histoire du moyen-aage, on tire des layettes des Archifs et de la poussiere des vieux papiers, quantité de croniques, de diplomes, et de mémoires servans à éclaircir les origines, les changemens et les demelés des souverains. Dans peu il faudra aller fouiller chez les Chinois et Arabes, pour achever l'Histoire du genre humain, autant qu'on la peut tirer des monumens qui nous restent, soit par écrit, soit sur des pierres ou metaux, soit même dans la memoire des hommes, car il ne faut pas négliger entierement la tradition ; et je tiens que de tout ce qui est non-écrit les langues mêmes sont les meilleurs < et les plus grands restes significatifs > de l'ancien monde, dont on pourroit tirer des lumieres pour les origines des peuples et souvent < pour celles > des choses 1. Jesçay que plusieurs philosophes et Mathematiciens se moquent de ces recherches des faits mais on voit de l'autre costé que les gens du monde < n'aiment ordinairement que l'étude de l'Histoire et > meprisent ou laissent aux gens du mestier tout ce qui à l'air d'un raisonnement scientifique ; « et je croy qu'il y a de l'excés dans ces jugements de part et d'autre >. L'Histoire seroit d'un grand usage, quand elle ne serviroit qu'à entretenir les hommes dans le desir de la gloire, qui est le motif de la pluspart des belles actions ; et il est seur que le respect que les souverains mêmes ont pour le jugement de la postérité, fait souvent un bon effect. Je veux que [souvent] l'Histoire tienne < quelques fois >[^p225-1]
+le methode qu'ils n'en soyent pas fort soulagés, ce qui les feroit retombe in jour « de la curiosité > dans l'indifference et enfin dans l'igno rance. Cependant il est constant que > les Mathematiques, < qui sont le chef-d'œuvre du raisonnement humain >, ne sont jamais allé si loin et si la Medecine n'avance pas encor à proportion des belles observations de physique, il ne tient peut estre qu'à un bon ordre, que les souverains y pourroient mettre < àfin de faire un peu mieux valoir les avantages que le genre humain a dejà eus sur la nature >. L'Histoire civile et tout ce qu'on appelle les belles lettres, se trouve mis dans un grand jour. Et quoyque ce qu'on peut tirer des Grecs et des Latins ne soit pas encor entierement epuisé, et qu'il y ait de quoy faire des beaux spicileges, on peut neantmoins asseurer que le principal est éclairci. Depuis quelque temps on travaille à l'Histoire du moyen-aage, on tire des layettes des Archifs et de la poussiere des vieux papiers, quantité de croniques, de diplomes, et de mémoires servans à éclaircir les origines, les changemens et les demelés des souverains. Dans peu il faudra aller fouiller chez les Chinois et Arabes, pour achever l'Histoire du genre humain, autant qu'on la peut tirer des monumens qui nous restent, soit par écrit, soit sur des pierres ou metaux, soit même dans la memoire des hommes, car il ne faut pas négliger entierement la tradition ; et je tiens que de tout ce qui est non-écrit les langues mêmes sont les meilleurs < et les plus grands restes significatifs > de l'ancien monde, dont on pourroit tirer des lumieres pour les origines des peuples et souvent < pour celles > des choses 1. Jesçay que plusieurs philosophes et Mathematiciens se moquent de ces recherches des faits mais on voit de l'autre costé que les gens du monde < n'aiment ordinairement que l'étude de l'Histoire et > meprisent ou laissent aux gens du mestier tout ce qui à l'air d'un raisonnement scientifique ; « et je croy qu'il y a de l'excés dans ces jugements de part et d'autre >. L'Histoire seroit d'un grand usage, quand elle ne serviroit qu'à entretenir les hommes dans le desir de la gloire, qui est le motif de la pluspart des belles actions ; et il est seur que le respect que les souverains mêmes ont pour le jugement de la postérité, fait souvent un bon effect.[^p225-1] Je veux que [souvent] l'Histoire tienne < quelques fois >
 
 [p. 226] 226
 
 NOUVELLES OUVERTURES
 
-Puı., VII, B, 1, 1. un peu du Roman, sur tout quand il s'agit des motifs qu'on prend soin de cacher, mais elle en dit tousjours assez pour nous faire faire nostre profit des evenemens ; on y trouve par tout des leçons excellentes, - données par les plus grands hommes qui ont eu ‹ des bons et de nauvais > succès > et rien n'est plus commode que d'apprendre a depens d'autruy. L'Histoire de l'Antiquité est d'une necessité absolue pour la preuve de la verité de la religion, et mettant à part l'excellence de la doctrine, c'est par son origine toute divine, que la nostre se distingue de toutes les autres, < qui n'en approchent en aucune façon >. C'est là peut estre le meilleur usage de la plus fine et de la plus profonde critique que de rendre un temoignage sincere à ces grandes verités par des anciens auteurs exactement verifiés et si les Mahometans et payens et même les 1 verso. libertins | ne se rendent point < à la raison >, on peut dire que c'est principalement faute de ne pas sçavoir l'histoire < ancienne, aussi ceux qui l'ignorent entierement sont tousjours enfans, comme cet Egyptien qui parla à Solon jugea fort bien des Grecs'>. Mais si je fais grand cas de ces belles connoissances Historiques qui nous font entrer en quelque façon dans le secret de la providence, je n'estime pas moins la voye des sciences pour connoistre les grandeurs de la Sagesse Divine, dont les marques se trouvent dans les idées que Dieu a mis dans nostre ame, et dans la structure des corps, qu'il a fournis à nostre usage. En un mot j'estime toute sorte de découvertes en quelque matiere que ce soit et je vois qu'ordinairement c'est faute d'ignorer les rapports et les consequences des choses, qu'on meprise les travaux ou les soins d'autruy < qui est la marque la plus seure de la petitesse d'esprit >. Les gens de meditation ordinairement ne sçauroient gouter cette multitude de veues legeres et peu seures dont il se faut servir dans le train des affaires et dans les sciences practiques comme sont la politique et la medecine ; mais ils ont grand tort. C'est de ces emplois comme du jeu, ou il faut se resoudre et prendre party lors même qu'il n'y a nulle asseurance ; il y a une science qui nous gouverne dans des incertitudes mêmes pour découvrir de quel costé la plus grande apparence se trouve. Mais il est étonnant qu'elle est presque inconnue et que les Logiciens n'ont pas encor examiné les degrés de probabilité ou de vraisemblance < qu'il y a > dans les conjectures[^p226-1]
+Puı., VII, B, 1, 1. un peu du Roman, sur tout quand il s'agit des motifs qu'on prend soin de cacher, mais elle en dit tousjours assez pour nous faire faire nostre profit des evenemens ; on y trouve par tout des leçons excellentes, - données par les plus grands hommes qui ont eu ‹ des bons et de nauvais > succès > et rien n'est plus commode que d'apprendre a depens d'autruy. L'Histoire de l'Antiquité est d'une necessité absolue pour la preuve de la verité de la religion, et mettant à part l'excellence de la doctrine, c'est par son origine toute divine, que la nostre se distingue de toutes les autres, < qui n'en approchent en aucune façon >. C'est là peut estre le meilleur usage de la plus fine et de la plus profonde critique que de rendre un temoignage sincere à ces grandes verités par des anciens auteurs exactement verifiés et si les Mahometans et payens et même les 1 verso. libertins | ne se rendent point < à la raison >, on peut dire que c'est principalement faute de ne pas sçavoir l'histoire < ancienne, aussi ceux qui l'ignorent entierement sont tousjours enfans, comme cet Egyptien qui parla à Solon jugea fort bien des Grecs'>. Mais si je fais grand cas de ces belles connoissances Historiques qui nous font entrer en quelque façon dans le secret de la providence, je n'estime pas moins la voye des sciences pour connoistre les grandeurs de la Sagesse Divine, dont les marques se trouvent dans les idées que Dieu a mis dans nostre ame, et dans la structure des corps, qu'il a fournis à nostre usage. En un mot j'estime toute sorte de découvertes en quelque matiere que ce soit et je vois qu'ordinairement c'est faute d'ignorer les rapports et les consequences des choses, qu'on meprise les travaux ou les soins d'autruy < qui est la marque la plus seure de la petitesse d'esprit >. Les gens de meditation ordinairement ne sçauroient gouter cette multitude de veues legeres et peu seures dont il se faut servir dans le train des affaires et dans les sciences practiques comme sont la politique et la medecine ; mais ils ont grand tort. C'est de ces emplois comme du jeu, ou il faut se resoudre et prendre party lors même qu'il n'y a nulle asseurance ; il y a une science qui nous gouverne dans des incertitudes mêmes pour découvrir de quel costé la plus grande apparence se trouve.[^p226-1] Mais il est étonnant qu'elle est presque inconnue et que les Logiciens n'ont pas encor examiné les degrés de probabilité ou de vraisemblance < qu'il y a > dans les conjectures
 
 [p. 227] NOUVELLES OUVERTURES
 
@@ -6534,7 +6534,7 @@ Puı., VII, B, 1, 1. un peu du Roman, sur tout quand il s'agit des motifs qu'on 
 
 que les nombres ; cette estimation nous peut et doit servir non pas pour venir à une [asseurance] < certitude >, ce qui est impossible mais pour agir le plus raisonnablement qu'il se peut sur les faits ou connoissances qui nous sont données. Après quoy on n'aura rien à nous reprocher, et au moins nous reussirons le plus souvent, pourveu que nous imitions les sages joueurs et les bons marchands qui se partagent en plusieurs petits hazards plustost que de se commettre trop à la fois avec la fortune, < et ne s'exposent pas à estre debanqués tout d'un coup >. Il y a donc une science sur les matieres les plus incertaines, qui fait connoistre demonstrativement les degrés de l'apparence et de l'incertitude ; l'habileté des personnes experimentées consiste souvent à connoistre par routine le choix qu'ils doivent faire ; cependant, comme ils ne laissent pas de juger legerement le plus souvent, les philosophes et les mathematiciens leur pourroient estre d'un grand secours, s'ils examinoient doresnavant ces matieres de practique et ne s'arrestoient pas à leur speculations abstraites toutes seules ; mais comme leur défaut est de vouloir creuser là ou il ne faut que sonder le fonds ; On voit de l'autre costé que souvent les gens d'affaires donnent trop au hazard et ne veuillent pas memes. . .'la sonde. < Choisissant temerairement le parti le plus conforme à leur genie ?
 
-ou à leur preventions, soit qu'ils se determinent à agir, soit qu'ils demeurent dans l'irresolution. > Car les politiques vulgaires n'aiment que les pensées aisées et superficielles, telles qu'un homme d'esprit trouve souvent au bout de la langue ; et quand il s'agit de mediter, ils se rebutent. D'ou riennent que les sciences profondes qu'ils considerent comme un mestie einible ne sont pas à leur gout ; mais ils se trouvent punis de cett paresse < dans leur propre juridiction, et dans le maniement des affaires > car pendant qu'ils courent apres des negotiations < de paroles > et après des veues peu solides, ils negligent < souvent ce qu'il y a de plus sec 3 dans leur mestier, sçavoir > les finances, et la milice, qui sont toutes deux presque toutes mathematiques, comme le commerce, les manufactures, la marine, l'artillerie, et autres matieres le peuvent faire juger. La jurisprudence même est une science d'un tres grand raisonne-[^p227-1][^p227-2]
+ou à leur preventions, soit qu'ils se determinent à agir, soit qu'ils demeurent dans l'irresolution. > Car les politiques vulgaires n'aiment que les pensées aisées et superficielles, telles qu'un homme d'esprit trouve souvent au bout de la langue ; et quand il s'agit de mediter, ils se rebutent. D'ou riennent que les sciences profondes qu'ils considerent comme un mestie einible ne sont pas à leur gout ; mais ils se trouvent punis de cett paresse < dans leur propre juridiction, et dans le maniement des affaires > car pendant qu'ils courent apres des negotiations < de paroles > et après des veues peu solides, ils negligent < souvent ce qu'il y a de plus sec 3 dans leur mestier, sçavoir > les finances, et la milice, qui sont toutes deux presque toutes mathematiques, comme le commerce, les manufactures, la marine, l'artillerie, et autres matieres le peuvent faire juger.[^p227-2][^p227-1] La jurisprudence même est une science d'un tres grand raisonne-
 
 [p. 228] 228
 
@@ -6628,7 +6628,7 @@ Axiom. 6. Si vera est : B est C, falsa est : QB est non C.
 
 { Demonstr. B o BC. Ergo QB non ∞ QB non C. Nam si QB ∞ QB non C, pro B substituatur BC, fiet QB ∞ QBC non C, qu. est abs. i Coroll. Si vera est QB est non C, falsa est B est C.
 
-Nam ex ax. 6, si B est C sit vera, tunc QB est non C, est falsa. Ergo per Ax. S, si falsum sit : QB est non C esse falsam, utique præmissa hoc[^p230-1]
+Nam ex ax. 6, si B est C sit vera, tunc QB est non C, est falsa. Ergo per Ax.[^p230-1] S, si falsum sit : QB est non C esse falsam, utique præmissa hoc
 
 [p. 231] 231
 
@@ -6656,7 +6656,7 @@ Coroll. Si vera est B est C, falsa est B est non C. Nam si vera esset B est non 
 
 Coroll. complexionum. B est C et B est non C non possunt simul esse veræ. Ita demonstrata sunt omnia principia pro modis figurarum sequentium.
 
-{ Quando consequentiæ non procedunt, habemus Materiam problematum, v. g. invenire B et C tales, ut simul falsæ sint B est C, et B est non C. Dico id contingere quoties resoluto B in primitivos itemque C < quatenus opus est, seu ** aliquid *** >, non omnes primitivi ipsius C insunt in B, verbi gr. B sit LMN et C sit NPQ, falsum est B esse C, seu LMN continere NPO, et falsum quoque LMN continere Non NPQ.}[^p231-1][^p231-2]
+{ Quando consequentiæ non procedunt, habemus Materiam problematum, v. g. invenire B et C tales, ut simul falsæ sint B est C, et B est non C. Dico id contingere quoties resoluto B in primitivos itemque C < quatenus opus est, seu ** aliquid *** >, non omnes primitivi ipsius C insunt in B, verbi gr. B sit LMN et C sit NPQ, falsum est B esse C, seu LMN continere NPO, et falsum quoque LMN continere Non NPQ.[^p231-2][^p231-1]}
 
 [p. 232] 232
 
@@ -6690,7 +6690,7 @@ Nullus homo est lapis dat : Homo lapis est non Ens.
 
 Quidam homo non est doctus dat : Homo non doctus est Ens.
 
-Hinc statim apparent primo aspectu conversiones et oppositiones ? .[^p232-1][^p232-2]
+Hinc statim apparent primo aspectu conversiones et oppositiones ? .[^p232-2][^p232-1]
 
 [p. 233] 233
 
@@ -6756,7 +6756,7 @@ omo et quidam non quidam non homo coincidunt. Nempe quælibe es præter hominem 
 
 Hæc ergo assumo : A co B, ergo non A co non B, vel contra.
 
-I. Lire : ZA.[^p234-1][^p234-2][^p234-3]
+I. Lire : ZA.[^p234-3][^p234-2][^p234-1]
 
 [p. 235] 235
 
@@ -6776,7 +6776,7 @@ Primaria Calculi Logici fundamenta.
 
 (I) A co B idem est quod A co B est vera ! .
 
-(2) A non co B idem est quod A co B est falsa.
+[^p235-2] A non co B idem est quod A co B est falsa.
 
 (3) A ∞ A.
 
@@ -6786,7 +6786,7 @@ Primaria Calculi Logici fundamenta.
 
 (6) AA ∞ A.
 
-(7) AB ∞ BA.[^p235-1][^p235-2]
+(7) AB ∞ BA.[^p235-1]
 
 [p. 236] 236
 
@@ -6926,7 +6926,7 @@ l est m.
 
 aut unus est Deus aut nullus. Id est si DEUS non est nullus est unus ;
 
-et si DEUS non est unus est nullus. Seu unus DEUS et nonnullus DEUS est idem. Item notandum hypotheticas negativas exprimi per etsi et tamen, ut : Si DEUS est justus *non sequitur* quod pius est fortunatus, hoc ita enuntiari solet : etsi Deus sit justus, non tamen continuo pius est fortunatus.[^p238-1][^p238-2]
+et si DEUS non est unus est nullus. Seu unus DEUS et nonnullus DEUS est idem. Item notandum hypotheticas negativas exprimi per etsi et tamen, ut : Si DEUS est justus *non sequitur* quod pius est fortunatus, hoc ita enuntiari solet : etsi Deus sit justus, non tamen continuo pius est fortunatus.[^p238-2][^p238-1]
 
 [p. 239] 239
 
@@ -7098,7 +7098,7 @@ Abstracta sunt substantiva ex aliis vel substantivis vel adectivis facta ;
 
 ut humanitas, pulcritudo. Et homo est habens humanitatem, pulcher habens pulchritudinem. Sed in lingua rationali videndum an non abstractis abstineri possit, aut saltem quousque possit ? .
 
-Masculus est adjectivum, vir est substantivum, quia pro Vir substitui potest homo masculus ; seu resolvi potest in substantivum cuin Epitheto.[^p243-1][^p243-2]
+Masculus est adjectivum, vir est substantivum, quia pro Vir substitui potest homo masculus ; seu resolvi potest in substantivum cuin Epitheto.[^p243-2][^p243-1]
 
 [p. 244] ANALYSE GRAMMATICALE 244
 
@@ -7196,7 +7196,7 @@ s æqu. mp
 
 o aqu. 4,
 
-p aqu. Is[^p245-1]
+p aqu.[^p245-1] Is
 
 [p. 246] 246
 
@@ -7439,7 +7439,7 @@ Utile est oblata consequentia non semper succedente
 
 statim posse reperire instantiam : et proposita regula reperire exempla qua ex aliis regulis non sequuntur, sed huic
 
-demum propria sunt ? .[^p249-1][^p249-2]
+demum propria sunt ? .[^p249-2][^p249-1]
 
 [p. 250] 250
 
@@ -7611,7 +7611,7 @@ In schemate patet antecedens, quia homo est species animalis, id est quoddam ani
 
 2 : CE. Patin du peine calcul ice 3 s (Poi, VI, 8,
 
-3, II, 10 nunc 12).[^p253-1][^p253-2]
+3, II, 10 nunc 12).[^p253-2][^p253-1]
 
 [p. 254] 254
 
@@ -7653,7 +7653,7 @@ id est non, quoddam A est B. seu falsa propositio ista. Similiter Nullum A est D
 
 Ergo omn. D est A. cuncta demonstrantur.
 
-Negatio particularis negativæe est affirmatio univeralitatis. Hine ex[^p254-1]
+Negatio particularis negativæe est affirmatio univeralitatis.[^p254-1] Hine ex
 
 [p. 255] 255
 
@@ -7759,7 +7759,7 @@ PHIL., VII, B, II, 53 (un coupon).
 
 PHIL., VII, B, II, 53.
 
-Omnia Theoremata non nisi Tachygraphias seu cogitandi compendia esse ? , ut animus a rebus ipsis distincte cogitandis dispensetur,[^p256-1][^p256-2]
+Omnia Theoremata non nisi Tachygraphias seu cogitandi compendia esse ?[^p256-2][^p256-1] , ut animus a rebus ipsis distincte cogitandis dispensetur,
 
 [p. 257] 257
 
@@ -7847,7 +7847,7 @@ Pнir., VII, B, II, 62 (2 p. in-fol.).
 
 PoL., VII, B, II, (I) Si A explicando prodit B non B, A est impossibile. Vel ecthetice 62 recto.
 
-magis, si A co L.... B non B, A est impossibile ' (2) Ens vel possibile est quod non est impossibile ; ut si A non ∞o L...
+magis, si A co L.... B non B, A est impossibile ' [^p259-2] Ens vel possibile est quod non est impossibile ; ut si A non ∞o L...
 
 B non B.
 
@@ -7863,7 +7863,7 @@ B non B.
 
 (8) A est B, sic exponitur literaliter A co LB, ubi L idem quod indefinitum quoddam. potest etiam sic exponi A co AB, ut non sit opus assumi tertium. < *ad hoc* requiritur 14 ? . > { Si A sit B non B, A est non Ens.
 
-propositio falsa est, ex qua sequitur A est non A. }[^p259-1][^p259-2][^p259-3]
+propositio falsa est, ex qua sequitur A est non A.[^p259-3][^p259-1] }
 
 [p. 260] ESSAIS DE CALCUL LOGIQUE 260
 
@@ -7885,7 +7885,7 @@ Si A est B dicatur C, erit C idem, quod A esse B. Itaque cum dicimus Ex A est B 
 
 | (17) In Numero I5 assumsimus si posito A, sequitur B, ex non B sequi non A. Vel generalius secundum nostrum Hypotheticas sub Categoricis compreendendi modum, assumsimus hanc consequentiam :
 
-A est B, [Ergo non B est non A. Hoc jam demonstremus : A est B,[^p260-1][^p260-2][^p260-3]
+A est B, [Ergo non B est non A.[^p260-3][^p260-2][^p260-1] Hoc jam demonstremus : A est B,
 
 [p. 261] 26г
 
@@ -7907,11 +7907,11 @@ PнıL., VII, B, II, 63 (2 p. in-fol.).
 
 permissas ex illis oriri potest.
 
-(2) A co B significat A et B esse idem, seu ubique sibi posse substitui.
+[^p261-2] A co B significat A et B esse idem, seu ubique sibi posse substitui.
 
 (Nisi prohibeatur, quod fit in iis, ubi terminus aliquis certo respecti considerari declaratur ver. g. licet trilaterum et triangulum sint idem tamen si dicas triangulum, quatenus tale, habet 18o gradus ; non potest substitui trilaterum. Est in eo aliquid materiale.)
 
-{ Si ex Enuntiatione A sequitur enunt. B, et vicissim, coincidunt A et B. 3[^p261-1][^p261-2]
+{ Si ex Enuntiatione A sequitur enunt. B, et vicissim, coincidunt A et B.[^p261-1] 3
 
 [p. 262] 262
 
@@ -7955,13 +7955,13 @@ II) A oo B ergo AC o BC. Sequitur ex num. 2.
 
 63 verso.
 
-(12) Si A co BC, sequitur AB oo BC. Dem. Nam (1) (ex hyp.)
+(12) Si A co BC, sequitur AB oo BC. Dem. Nam [^p263-1] (ex hyp.)
 
 A co BC. Ergo (2) (per II) AC oo BCC, id est (3) (per 7) AC co BC.
 
 Quod erat dem.
 
-(13) *Non sequitur* AC o BC Ergo A c B. hoc demonstrabitur exhibendo casum ubi illo vero, tamen hoc non est verum, quem casum exhibere est problema solvere. Sit AC oo BC et A non ∞ B. Nempe si A ∞ BC nec A ∞ C°, erit < tamen > (per 12) AC c BC. Quod erat Fac.[^p263-1]
+(13) *Non sequitur* AC o BC Ergo A c B. hoc demonstrabitur exhibendo casum ubi illo vero, tamen hoc non est verum, quem casum exhibere est problema solvere. Sit AC oo BC et A non ∞ B. Nempe si A ∞ BC nec A ∞ C°, erit < tamen > (per 12) AC c BC. Quod erat Fac.
 
 [p. 264] 264
 
@@ -8005,11 +8005,11 @@ PHIL., VII, B, II, 54-65.
 
 ESSAIS DE CALCUL LOGIQUE
 
-riantur in aliqua propositione, posse loca corum permutari, quanquam Pu.., VII, B, II, et possit unum eorum per alterum vel omnino, vel quantum lubet, tolli. } (2) A os B significat A et B esse eadem.
+riantur in aliqua propositione, posse loca corum permutari, quanquam Pu.., VII, B, II, et possit unum eorum per alterum vel omnino, vel quantum lubet, tolli. } [^p265-2] A os B significat A et B esse eadem.
 
-(3) A non o B significat A et B esse diversa.
+[^p265-3] A non o B significat A et B esse diversa.
 
-(4) Si A non o B, etiam B non ∞ A.
+[^p265-4] Si A non o B, etiam B non ∞ A.
 
 (5) Si Aco B et Boo C, etiam A os C. < per I. facta substitutione. > (6) Si A o B et B non co C, etiam A non co C. < per s. Hine per 6 et 4 si A o B et B non ∞ C, erit C non co B'. > (7, 8) A significat determinatum, Y < vel Z vel alia litera posterior > significat indeterminatum, < etiam Nihil si conditiones appositæ non obstent. > (9,10) A + Y o C significat A inesse C, seu C continere A.
 
@@ -8019,7 +8019,7 @@ Nec numerus cum quali Numero idem est, solent tamen sæpe pro ipsis rebus vel sa
 
 (12, 13) Hinc si A significat determinatum et Y indeterminatum,
 
-A + A ∞ A et Y + Y non o Y.[^p265-1][^p265-2][^p265-3][^p265-4]
+A + A ∞ A et Y + Y non o Y.[^p265-1]
 
 [p. 266] 266
 
@@ -8065,7 +8065,7 @@ A — A co Nihilo, ergo fieret A co Nihilo contra Hyp. > { (30) C- Cos Nihilo.
 
 Nam C co C + Nih. per 28.
 
-Ergo C — C ∞ Nih. per 30 ' 3[^p267-1][^p267-2][^p267-3]
+Ergo C — C ∞ Nih.[^p267-3][^p267-2][^p267-1] per 30 ' 3
 
 [p. 268] 268
 
@@ -8083,7 +8083,7 @@ I (34) Si A + B o D + C, < et A co D > ', erit B o C. Seu 65 recto.
 
 quibus apponendo coincidentia fiunt coincidentia, ea ipsa sunt coincidentia. { Imò *non sequitur* nisi in incommunicantibus. } Nam scribatur A + B — A (per 33) erit B ∞ A + B- D (per 30)
 
-ergo (pro A + B substituendo coincidens D + C) fiet B co A^ + C-D id est C (per 30) Ergo B oo C. Quod Erat Dem.[^p268-1][^p268-2][^p268-3]
+ergo (pro A + B substituendo coincidens D + C) fiet B co A^ + C-D id est C (per 30) Ergo B oo C. Quod Erat Dem.[^p268-3][^p268-2][^p268-1]
 
 [p. 269] 26g
 
@@ -8111,7 +8111,7 @@ Coincidentia assignare talia Efficere ut ab ipsis detrahendo cadem residua non c
 
 G+ M+ M+ H∞ G+M + H
 
-(4I) Si M est in C et Nest in C, erit M + N in C, seu cui singula insunt etiam ex ipsis constitutum inest. Nam quia M est in C, ergo M + Ro C. Similiter N + S c C. Ergo M + R + N + S ∞ C+C ∞ C. Ergo (per II) M + R + N + S c C. Ergo M + N in C. Quod erat dem.[^p269-1][^p269-2][^p269-3]
+(4I) Si M est in C et Nest in C, erit M + N in C, seu cui singula insunt etiam ex ipsis constitutum inest. Nam quia M est in C, ergo M + Ro C. Similiter N + S c C. Ergo M + R + N + S ∞ C+C ∞ C. Ergo (per II) M + R + N + S c C. Ergo M + N in C. Quod erat dem.[^p269-3][^p269-2][^p269-1]
 
 [p. 270] ESSAIS DE CALCUL LOGIQUE
 
@@ -8169,7 +8169,7 @@ Id est postremo Homo existens peccans est Ens necessarium. Sed intel.
 
 lige necessitate consequentis, scilicet posita semel hac rerum serie, et hoc semper notat rò existens adjectum, facit enim | propositionem exis- 7i recto.
 
-tentialem, qua involvit rerum statum. Hac igitur formula ego designo necessitatem consequentis. et ita universalem servo in enuntiationibus tractandis. nam et contingentes ex hypothesi existentiæ rerum sunt necessarix. Quemadmodum impossibile est adimi Codro pecuniam, posito Codrum nullam habere. Itaque [apud me] propositionem necessariam et[^p271-1]
+tentialem, qua involvit rerum statum. Hac igitur formula ego designo necessitatem consequentis. et ita universalem servo in enuntiationibus tractandis. nam et contingentes ex hypothesi existentiæ rerum sunt necessarix. Quemadmodum impossibile est adimi Codro pecuniam, posito Codrum nullam habere.[^p271-1] Itaque [apud me] propositionem necessariam et
 
 [p. 272] 272
 
@@ -8323,7 +8323,7 @@ seu mubodilefa
 
 Nam hoc modo patet syllabis utcunque transpositis eandem manere vocem ? . Unde ingens variationum campus et allusionum ac poematum elegantissimorum salvo sensu præsertim cum et duplicare liceat alicui literas, et adhibere diphthongos. Adde syllabas quæ per consonas terminantur, poterit fieri ut consona ex fine sit signum finis vocis. Nam ic quoque exprimendum.
 
-Nota : bodifalemu erit tam intelligibilis quam mubodilefa assueto huic linguz, ut in numeris non minus facile intelligimus dicentes I tausend 300, vier siebenzig achzig tausend ? , quam dicentes achzig tausend I tausend 3 hundert siebenzig vier *. Hinc meræ variationes. Item aliquando majoris compendii causa cum vox aliqua sæpe recurrit, pro ea substituemus minorem ejusdem novenarii. Nam proba novenarii pulcherrimi hic usus erit ad ratiocinationes comprobandas. Adhiberi possunt signa varia affec-[^p278-1][^p278-2][^p278-3][^p278-4]
+Nota : bodifalemu erit tam intelligibilis quam mubodilefa assueto huic linguz, ut in numeris non minus facile intelligimus dicentes I tausend 300, vier siebenzig achzig tausend ? , quam dicentes achzig tausend I tausend 3 hundert siebenzig vier *. Hinc meræ variationes. Item aliquando majoris compendii causa cum vox aliqua sæpe recurrit, pro ea substituemus minorem ejusdem novenarii. Nam proba novenarii pulcherrimi hic usus erit ad ratiocinationes comprobandas.[^p278-4][^p278-3][^p278-2][^p278-1] Adhiberi possunt signa varia affec-
 
 [p. 279] LINGUA UNIVERSALIS
 
@@ -8349,7 +8349,7 @@ Danda etiam opera est ut sit grata hominibus ; itaque talis esse potest, ut in M
 
 8000
 
-ubi patet idem esse humida et mihuda. Adde adhuc majorem varietatem si utamur progressione dyadica, ubi non nisi Unitates et o exprimunt numerum, reliqua sunt situs diversitas, fere ut in Musica ; ubi toni et intervalla. Ob tantas varietates posset lingua sic efformari, ut facile cui-[^p279-1]
+ubi patet idem esse humida et mihuda. Adde adhuc majorem varietatem si utamur progressione dyadica, ubi non nisi Unitates et o exprimunt numerum, reliqua sunt situs diversitas, fere ut in Musica ; ubi toni et intervalla.[^p279-1] Ob tantas varietates posset lingua sic efformari, ut facile cui-
 
 [p. 280] 280
 
@@ -8383,7 +8383,7 @@ PHIL., VII, B, ш, 7 (1 p. *in-4°*).
 
 Aprilis 1678.
 
-Ea habebitur si partes orationis < earumque flexiones et rectiones > accurate resolvi possint. Quod ita intelligo : [^p280-1]
+Ea habebitur si partes orationis < earumque flexiones et rectiones > accurate resolvi possint.[^p280-1] Quod ita intelligo :
 
 [p. 281] 281
 
@@ -8483,9 +8483,9 @@ PHIL., VII, B, m, IO.
 
 Wilkinsius recte notat < part. 3, cap. I. pag. 303 > verbum in naturali grammatica omitti posse, esse enim nihil aliud quam adjectivum cum copula ; caleo, id est sum calens. Sed codem jure et adverbia tollere poterat nominibus solis retentis, nam adverbium se habet ad verbum ut adjectivum ad nomen substantivum ? . Ita < hæc duo : > valde potito, et sum magnus potator, idem significant.
 
-Ömisisse se ait in charactere universali qua certis locis et temporibus propria sunt, ut titulos honorum et officiorum, gradus Academicos, vocabula ICtorum, Heraldica ut Chearon *, vestituum formas, genera pannorum, ludorum, potuum, cibariorum, < compositionum pharmaceuticarum, > Musicorum modorum atque instrumentorum, instrumentorum mechanicorum, sectarum philosophicarum, politicarum, theologicarum*.
+Ömisisse se ait in charactere universali qua certis locis et temporibus propria sunt, ut titulos honorum et officiorum, gradus Academicos, vocabula ICtorum, Heraldica ut Chearon *, vestituum formas, genera pannorum, ludorum, potuum, cibariorum, < compositionum pharmaceuticarum, > Musicorum modorum atque instrumentorum, instrumentorum mechanicorum, sectarum philosophicarum, politicarum, theologicarum*.[^p282-4][^p282-3][^p282-2][^p282-1]
 
-Sed quæcunque certas constantesque definitiones habent, ea etiam exprimi possunt universali charactere, et licet res non sint perpetuæ sed temporibus certis locisve propria, notio tamen sive idea earum perpetua est,[^p282-1][^p282-2][^p282-3][^p282-4]
+Sed quæcunque certas constantesque definitiones habent, ea etiam exprimi possunt universali charactere, et licet res non sint perpetuæ sed temporibus certis locisve propria, notio tamen sive idea earum perpetua est,
 
 [p. 283] 283
 
@@ -8545,7 +8545,7 @@ Essais d'analyse grammaticale.
 
 24 recto. . . . . . Scopus nostra Characteristica est tales adhibere voces, ut omnes consequentia qua institui possunt < statim > ex ipsis verbis vel characteribus emantur, verbi gratia David est pater Johannis', Ergo Salomon est filius Davidis. Hæc consequentia ex his vocabulis < latinis > nisi resolvantur in alia æquipollentia demonstrari non potest ; in lingua generali debet ex vocabulorum analysi in suas literas demonstrari posse. . . . .
 
-Et sciendum est tanto perfectiores esse characteres, quanto magis sunt autapxcis, ita ut omnes consequentia inde duci possint. Exempli gratia perfectior est characteristica numerorum bimalis quam decimalis vel alia quæcunque, quia in bimali < ex characteribus > omnia demonstrari ossunt quæ de numeris asseruntur, in decimali vero non item. Nequ nim ex charactere ternaril et novenarii demonstrari potest ter tria ess[^p284-1]
+Et sciendum est tanto perfectiores esse characteres, quanto magis sunt autapxcis, ita ut omnes consequentia inde duci possint. Exempli gratia perfectior est characteristica numerorum bimalis quam decimalis vel alia quæcunque, quia in bimali < ex characteribus > omnia demonstrari ossunt quæ de numeris asseruntur, in decimali vero non item.[^p284-1] Nequ nim ex charactere ternaril et novenarii demonstrari potest ter tria ess
 
 [p. 285] 285
 
@@ -8579,7 +8579,7 @@ tinet obliquitatis respectum, posse retineri. Nam accusativus quem regit verbum 
 
 Leibniz désire une particule pour exprimer ordinariè, regulariter ;
 
-une autre pour exprimer quasi 3.[^p285-1][^p285-2]
+une autre pour exprimer quasi 3.[^p285-2][^p285-1]
 
 [p. 286] 286
 
@@ -8753,7 +8753,7 @@ ita esset amavitio vel amaturitio ejus qui amavit, vel amaturus est. Ut infiniti
 
 | Radix Hebrais est verbum, sed malim eam esse nomen, ut vita.
 
-Leibniz forme successivement vivus, vivo, vivens, vivificatio, vivificare, vivificari, vivificamentum, vivificativum, vivificatorius, vitosus, vitalis.[^p289-1][^p289-2][^p289-3][^p289-4]
+Leibniz forme successivement vivus, vivo, vivens, vivificatio, vivificare, vivificari, vivificamentum, vivificativum, vivificatorius, vitosus, vitalis.[^p289-4][^p289-3][^p289-2][^p289-1]
 
 [p. 290] 290
 
@@ -8787,7 +8787,7 @@ PHIL., VII, B, III, 50-58 (15 p. in-fol.) °.
 
 PHIL.., VII, B, I11, 50-58.
 
-Définitions de particules, rangées par ordre alphabétique.[^p290-1][^p290-2]
+Définitions de particules, rangées par ordre alphabétique.[^p290-2][^p290-1]
 
 [p. 291] 291
 
@@ -8903,7 +8903,7 @@ Non produximus < dextrorsum > rectam B° ne inde inferatur conversio, et conclud
 
 propositio enim particularis negativa nullam habet conversionem.
 
-Notatu dignum hic apparet, in propositione affirmativa, sive universali sive particulari, vi formæ prædicatum non totum affici, sed parti tantum prædicati inesse subjectum sive totum in universali, sive pro sua parte in particulari propositione. Sed in negativa propositione totum[^p293-1][^p293-2]
+Notatu dignum hic apparet, in propositione affirmativa, sive universali sive particulari, vi formæ prædicatum non totum affici, sed parti tantum prædicati inesse subjectum sive totum in universali, sive pro sua parte in particulari propositione.[^p293-2][^p293-1] Sed in negativa propositione totum
 
 [p. 294] DE FORMÆ LOGICA COMPROBATIONE 294
 
@@ -8941,9 +8941,9 @@ D est C I E. Quoddam D est B
 
 Celarent
 
-Nullum C est B B A Omne DesC e E E. Nullum D est B | D
+Nullum C est B B A Omne DesC e E E.[^p294-2][^p294-1] Nullum D est B | D
 
-< nempe omne D quod est C >[^p294-1][^p294-2]
+< nempe omne D quod est C >
 
 [p. 295] 295
 
@@ -9205,9 +9205,9 @@ Quidam homo non est sapiens
 B
 
 
-Qu.
+Qu.[^p300-2][^p300-1]
 
-est[^p300-1][^p300-2]
+est
 
 [p. 301] 301
 
@@ -9463,7 +9463,7 @@ lapide humano corporeo. quod quidem rectè concluditur, sed inde *non sequitur* 
 
 Itaque rursus emendandum esse calculum video. Et particularis affirmabetur CB = BC. Sed pro universali negativa fiet CB non = BC. Quanquam nec referat si transponas dicasque CB non = CB id est rejicienda aquatio quam ingreditur terminus falsus etsi alioqui ut identica non possit non videri vera.
 
-Quoniam autem hoc loco' incertarum notionum suppletoriarum velut X et Y assumsimus definitas ; oportet et in universali affirmativa et in opposita confugere ad notiones determinatas, v. g. Homo est animal exprimemus Homo idem est quod animal Homo seu animal[^p305-1]
+Quoniam autem hoc loco' incertarum notionum suppletoriarum velut X et Y assumsimus definitas ; oportet et in universali affirmativa et in opposita confugere ad notiones determinatas, v. g.[^p305-1] Homo est animal exprimemus Homo idem est quod animal Homo seu animal
 
 [p. 306] 306
 
@@ -9709,9 +9709,9 @@ Nam si esset D = BD ex 2 fieret BDC = CBD et CB = BC contra I.
 
 In 2 pro C ponatur valor ex I fit D = BCD Ergo (per 2) D = BD.
 
-Unde DB = BD. > Celaro. CB non = BC. D = CD. ostendendum D non = BD.
+Unde DB = BD. > Celaro. CB non = BC. D = CD. ostendendum D non = BD.[^p310-1]
 
-Nam si esset D = BD, tunc inde per 2 fieret D = CDB, unde ex D = BD in sinistro pro D ponendo CDB et in dextro pro D ponendo[^p310-1]
+Nam si esset D = BD, tunc inde per 2 fieret D = CDB, unde ex D = BD in sinistro pro D ponendo CDB et in dextro pro D ponendo
 
 [p. 311] 311
 
@@ -9743,7 +9743,7 @@ vicisiod damo daesc Coind dis ujdam Bm.
 
 est quoddam B coincidit cuidam C. Unde
 
-U. N.[^p311-1][^p311-2][^p311-3]
+U. N.[^p311-3][^p311-2][^p311-1]
 
 [p. 312] 312
 
@@ -10017,7 +10017,7 @@ Et omne B est C. Ergo Qu. D est B. Hinc Baralip et Barbara idem schema habent, t
 
 conclusione quàm in præmissa ; sed generaliter dici potest terminum non posse " ampliorem in conclusione quam in præmissa, alioqui id quod non venisset in ratiocinationem, ea nempe pars termini, quæ in præmissa non afficitur, veniret in conclusionem. Nempe id solum de termino extremo quod præmissa applicat medio, id ope medii applicari potest ad alterum extremum. Atque hoc est quod vulgò dicitur Terminum non distributum (universalem, totalem) in pramissa neo posse esse distributum in conclusione.
 
-Hinc quia subjectum propositionis Universalis distributum, et prædicatum propositionis negativa itidem est distributum, si conclusio est universalis, Minorem propositionem esse universalem in figuris ubi terminus minor est < pramissæ sua > subjectum, scilicet prima et secunda, et negativam, nempe in figuris ubi minor terminus est promisse sue pradicalum, scilicet 3tia et quarta. Item sequitur, Si conclusio est negativa, majorem propositionem esse negativam, nempe in figuris ubi major terminus est sua promisse pradicatum, scilicet prima et tertia ; et universalem, nempe in figuris ubi major terminus est suæ præmisse subjectum, scilicet secunda et quarta.[^p316-1][^p316-2][^p316-3]
+Hinc quia subjectum propositionis Universalis distributum, et prædicatum propositionis negativa itidem est distributum, si conclusio est universalis, Minorem propositionem esse universalem in figuris ubi terminus minor est < pramissæ sua > subjectum, scilicet prima et secunda, et negativam, nempe in figuris ubi minor terminus est promisse sue pradicalum, scilicet 3tia et quarta. Item sequitur, Si conclusio est negativa, majorem propositionem esse negativam, nempe in figuris ubi major terminus est sua promisse pradicatum, scilicet prima et tertia ; et universalem, nempe in figuris ubi major terminus est suæ præmisse subjectum, scilicet secunda et quarta.[^p316-3][^p316-2][^p316-1]
 
 [p. 317] PER LINEARUM DUCTUS
 
@@ -10095,7 +10095,7 @@ Celaro < dabit in Barbari > Omne B est C. Omne C est non D. Ergo quodd. B est no
 
 D est C. Ergo et null. C est D.) Ergo Omne B est non D. Cesaro. Ex omn.
 
-3 est non D sequitur Qu. B est non D. Camestres < in Barbara > mne B est non C et (quia Omne D est C fit) Omne non C est non D Ergo omne B est non D. Camestros < in iisdem > ex Omne B est non D infert Ergo quoddam B est non D. Festino < ex Darii > Qu. B est C.[^p319-1][^p319-2][^p319-3]
+3 est non D sequitur Qu. B est non D. Camestres < in Barbara > mne B est non C et (quia Omne D est C fit) Omne non C est non D Ergo omne B est non D. Camestros < in iisdem > ex Omne B est non D infert Ergo quoddam B est non D. Festino < ex Darii > Qu. B est C.[^p319-3][^p319-2][^p319-1]
 
 [p. 320] 320
 
@@ -10113,7 +10113,7 @@ Null. D est C (unde Omne C est non D) Ergo Qu. B est non D. Rem ergo habemus in 
 
 Ex hoc principio etiam ostendemus ex puris negativis sequi aliquid, sed conclusionem habere quartum terminum. In syllogismis igitur nostris manet regula quod ex puris negativis nil sequatur. Aliter autem aliquid inde sequi sic ostendemus : Nullus homo est lapis. Nullus homo est angelus. Ergo quidam non-angelus non est lapis. Res ostenditur reductione negativarum ad meras affirmativas hoc modo : Omnis homo est non-lapis. Omnis homo est non-angelus. Ergo quidam non-angelus est non lapis, vel quidam non-lapis non est ? Angelus, ubi sunt non nisi tres termini ? Vel sic : Quidam non lapis est homo. Omnis homo est non angelus. Ergo quidam non lapis est angelus* vel contra. Videamus an aliquid etiam ex universali et particulari negativis simul sequatur. Et
 
-• C'est là une erreur : Nul D n'est C (ou Nul C n'est D) donne : Tout D es on-C (ou Tout C est non-D), mais non : Tout non-D est C, ce qui est une conver sion simple (illégitime) de l'U. A.[^p320-1][^p320-2][^p320-3]
+• C'est là une erreur : Nul D n'est C (ou Nul C n'est D) donne : Tout D es on-C (ou Tout C est non-D), mais non : Tout non-D est C, ce qui est une conver sion simple (illégitime) de l'U. A.[^p320-3][^p320-2][^p320-1]
 
 [p. 321] ÉLÉMENTS DE CALCUL LOGIQUE
 
@@ -10171,7 +10171,7 @@ Hic autem rursus apparet prædicatum esse universale : < unde manifestum est pr�
 
 Axiomata ? .
 
-I. Quicquid inest inexistenti id ipsum inest, veluti si AB insit ipsi AC et AC insit ipsi AD, ipsum AB erit in AD.[^p323-1][^p323-2]
+I. Quicquid inest inexistenti id ipsum inest, veluti si AB insit ipsi AC et AC insit ipsi AD, ipsum AB erit in AD.[^p323-2][^p323-1]
 
 [p. 324] 324
 
@@ -10257,9 +10257,9 @@ f. lapis. g. Petrus.
 
 [^p325-5] Nota P ' aut vox est < (ex. grat. e / d vel 30 / 6. homo est animal) > significat in locum e vel 30 vel hominis substitui posse d vel 6 vel animal.
 
-(3) Et perinde est sive scribamus e d sive d 7 e.
+[^p325-3] Et perinde est sive scribamus e d sive d 7 e.
 
-(4) Si e r det d ra, tunce F a. Si homo est animal, et animal est corpus, tunc homo est corpus.
+[^p325-4] Si e r det d ra, tunce F a. Si homo est animal, et animal est corpus, tunc homo est corpus.
 
 Nam quia d ° a ex hypothesi, ergo pro d substitui potest a per artic. 2.
 
@@ -10273,7 +10273,7 @@ Nam e r d et d Fa ex hypothesi, ergo e ra per artic. 4. quod est primum. Porro f
 
 17 verso.
 
-(8) Non ita significat : si verum est e r d, falsum est e non [d. et si verum est e non r d, falsum est e r d.[^p325-1][^p325-2][^p325-3][^p325-4]
+(8) Non ita significat : si verum est e r d, falsum est e non [d. et si verum est e non r d, falsum est e r d.[^p325-2][^p325-1]
 
 [p. 326] 326
 
@@ -10317,7 +10317,7 @@ PHIL., VII, B, Iv, PHIL., VII, B, Iv, 21 (un coupon) 5.
 
 Characteristica omnis consistit in formatione Expressionis et transitu ab Expressione ad Expressionem. Expressio < simplex est vel composita, qua > formatur vel per appositionem, vel per coalitionem.
 
-Appositione fit formula. Coalitione fit character novus. Sed pro calculo non opus est coalitione, sed sufficit simplex appositio seu formula, et compendii causa assumtione arbitrarii characteris cujus significatio tan um nota est. < licet ad perfectionem characteristica necessaria sit coa litio, ut ingredientia indicentur. > In appositione rursus interveniunt[^p326-1]
+Appositione fit formula. Coalitione fit character novus. Sed pro calculo non opus est coalitione, sed sufficit simplex appositio seu formula, et compendii causa assumtione arbitrarii characteris cujus significatio tan um nota est. < licet ad perfectionem characteristica necessaria sit coa litio, ut ingredientia indicentur.[^p326-1] > In appositione rursus interveniunt
 
 [p. 327] SUR LE SYLLOGISME
 
@@ -10387,9 +10387,9 @@ Omnis homo est doctus
 
 Quidam ignarus est homo
 
-Ergo Quidam ignarus est doctus.
+Ergo Quidam ignarus est doctus.[^p328-1]
 
-Examinandum esset generalius quibusnam modis ex falso verum con-[^p328-1]
+Examinandum esset generalius quibusnam modis ex falso verum con-
 
 [p. 329] SUR LES DÉFINITIONS EMPIRIQUES
 
@@ -10473,7 +10473,7 @@ Habens absoluta quatenus est habens est habens qua semel existentia supposita no
 
 ..........
 
-Justes Cette chaîne de définitions est illustrée, d'une part par la figure ci-contre (f. II), formée de cerles ? , et d'autre part par un arbre généalogique (f. 14) commençant par justus, puis charitativus, quasi{ Justus est charitativus sapientiformis. }[^p331-1][^p331-2]
+Justes Cette chaîne de définitions est illustrée, d'une part par la figure ci-contre (f. II), formée de cerles ? , et d'autre part par un arbre généalogique (f. 14) commençant par justus, puis charitativus, quasi{ Justus est charitativus sapientiformis.[^p331-2][^p331-1] }
 
 [p. 332] 332
 
@@ -10557,9 +10557,9 @@ Fuit ea felicitas hujus seculi, ut instrumentum inveniretur mirificè juvandi us
 
 Equidem non in obscuro causa est, cur hactenus solæ Mathematica disciplina ad miraculum et invidiam usque excultæ sint non tantum certitudine sed et copia egregiarum veritatum ; neque enim id ingeniis Mathematicorum tribui potest, quos nihilo aliis hominibus præstare, res ipsa (ostendit] < loquitur >, cum extra orbitas suas vagantur ; sec naturæ objecti, in quo veritas sine labore, sine sumtuosis experimentis, ita ob oculos poni potest, ut nulla dubitatio relinquatur, detegitque sese series quædam, et ut ita dicam filum cogitandi, quod et securos nos reddit circa inventa, et viam indubitabilem ostendit ad futura.
 
-Hinc Physica scientiæ perfectio < (præter experimenta) > sine controversia in eo consistit, ut reducatur ad Geometriam ; detectis, quoad ejus fieri potest naturæ mechanismis, qui à partium figuris motibusque pendent ; ipsa autem < rursus > Geometria cum nonnihil adhuc perplexa sit, neque enim omnes figurarum habitudines lineis in charta ductis commodè exprimi possunt, reducta est ad calculum quendam sive numerorum æstimationem, qua efficitur, ut characteribus numericis | ac literis 3 verso.
+Hinc Physica scientiæ perfectio < (præter experimenta) > sine controversia in eo consistit, ut reducatur ad Geometriam ; detectis, quoad ejus fieri potest naturæ mechanismis, qui à partium figuris motibusque pendent ; ipsa autem < rursus > Geometria cum nonnihil adhuc perplexa sit, neque enim omnes figurarum habitudines lineis in charta ductis commodè exprimi possunt, reducta est ad calculum quendam sive numerorum æstimationem, qua efficitur, ut characteribus numericis | ac literis 3 verso.[^p335-1]
 
-alphabeti, numeros indeterminatos designantibus, variè combinatis ipsæ[^p335-1]
+alphabeti, numeros indeterminatos designantibus, variè combinatis ipsæ
 
 [p. 336] 336
 
@@ -10585,7 +10585,7 @@ lux opus est >, donec ipsi aliquando malis oppressi sera ponitenti rustrà auxil
 
 Sed huic quidem < hominum vitio > non nisi magni principis excellens atque efficax sapientia mederi potest. < qui unus sua autoritate ad scientiarum perfectionem intra paucos annos efficere posset, quod alioqui si eo quo nunc itur pergimus gradu, vix à multis seculis erit expectandum ; satis enim manifestum est nisi acrius in seria incumbamus, tuturum esse ut labores nostri non tam nobis, quam posteritati prosint, quibus tamen jam tum frui possemus ipsi, si satis animi consiliique esset". > Nos autem missis istis, vel potius Divina providentix et publica potestati commendatis, ad ea < nunc quidem > redeamus, quæ non tantùm optare possumus, sed et præstare speramus.
 
-Asseverari igitur potest præter defectum < seriæ > voluntatis ? , qui non nisi ab altiore manu emendationem expectat, ab intellectus maxime remoris proficisci quod non satis utimur fruimur * divina in nos benignitate. Intellectus autem noster nisi superna luce illustretur, aut filo quodam Ariadnæo ducatur, quali solæ hactenus usæ sunt Mathematica, < fluxa fidei est, et ubi primum ab experimentis recessit, < statim rerum tenebris et varietate perturbatur >, et conjecturis fallacibus, opinioneque vana regitur > vixque sine offensa progredi potest. Cogitandum igitur unicè est, quanam ratione Organon aliquod paretur menti, quale est dioptra et funiculus mensori, libra docimastæ, numerus Mathematico,[^p337-1][^p337-2]
+Asseverari igitur potest præter defectum < seriæ > voluntatis ? , qui non nisi ab altiore manu emendationem expectat, ab intellectus maxime remoris proficisci quod non satis utimur fruimur * divina in nos benignitate. Intellectus autem noster nisi superna luce illustretur, aut filo quodam Ariadnæo ducatur, quali solæ hactenus usæ sunt Mathematica, < fluxa fidei est, et ubi primum ab experimentis recessit, < statim rerum tenebris et varietate perturbatur >, et conjecturis fallacibus, opinioneque vana regitur > vixque sine offensa progredi potest.[^p337-2][^p337-1] Cogitandum igitur unicè est, quanam ratione Organon aliquod paretur menti, quale est dioptra et funiculus mensori, libra docimastæ, numerus Mathematico,
 
 [p. 338] 338
 
@@ -10597,7 +10597,7 @@ PHIL., VII,B, vi, 4. vel quale est Telescopium oculo, quo scilicet non tantum di
 
 Porro etiam hoc negari non potest, si homines in ratiocinando pariter ac disputando < semper > inexorabili quadam atque indefessa severitate formis logicorum uterentur, nihil pro vero assumendo, quod non vel experientia vel ordinatis ritè argumentis esset comprobatum ; posse eos Isi non invenire veritatem] saltem evitare errorem < in ratiocinatione, et ubi vera deprehendere non valent, cavere ne falsa dicant >, multa etiam demonstraturos esse, qua nunc dubia habentur ; sed ille argumentandi rigor « plus difficultais habet quam quis putet, præsertim ob < fallacissimas > ambiguitates verborum quibus homines utuntur > atque insuperabile < prope > tædium prolixitatis et coccysmorum', si quis eo more qui in scholis receptus est, uti velit in longa rationum catena. < Videmus plerisque hominibus vix satis ad meditandum patientiæ esse in obviis facilibusque, quanto minus, ubi prolixitas et difficultas conjungerentur. >
 
-Auxitque malum falsa persuasio, quod creditum est nullam argumentationis formam, si severiùs agas, probari posse, quæ non pueriles de schola formulas sequatur Barbaraque et Baroco sapiat. Mihi verò omnis ratiocinatio qua vi formæ concludit, hoc est qua semper successura est,[^p338-1]
+Auxitque malum falsa persuasio, quod creditum est nullam argumentationis formam, si severiùs agas, probari posse, quæ non pueriles de schola formulas sequatur Barbaraque et Baroco sapiat.[^p338-1] Mihi verò omnis ratiocinatio qua vi formæ concludit, hoc est qua semper successura est,
 
 [p. 339] ELEMENTA RATIONIS
 
@@ -10665,7 +10665,7 @@ I. V. La Logique de Leibniz, ch. viI, §§ 4, 6, 11, et ch. Ix, § rI.
 
 ELEMENTA RATIONIS
 
-PHI.., VII, B, vI, 6. metum < aliaque non meliora >, ut taceam miros et vix in tali viro credendos circa Geometrica errores. Multos alios demonstratores prætereo, sed qui plerumque sibi indulgent plurimum et Geometrarum formam simulant potiùs quam habent, Unum novissimum autorem non contemnendi quidem sed tamen infelicis ingenii præterire non possum, cujus opus posthumum ' multa habet de DEO et mente paradoxa, nihil minùs quam vera et demonstrata. Exempli causa solum DEUM esse substantiam, cætera omnia esse modos, et ut ita dicam accidentia sive affectiones DEI, quemadmodum rotunditas uniformitas < magnitudo > aliaque ejusmodi sunt affectiones sphæræ ; < aut quemadmodum affirmatio, dubitatio, etc. sunt modi cogitantis >. Mentem nihil aliud esse quàm ideam vel si mavis figuram abstractam < seu formam mechanicam > hujus < sui > corporis, ut cubus Geometricus est forma cubi corporei ; et [ita] < proinde > mentem immortalem esse quatenus nemo nescit ipsas abstractas figuras Geometricas esse interitus expertes, licet corpora dissolvantur. Et tamen ille de beatitudine nostræ mentis et emendatione multis disserere audet, quasi figuræ illæ et idea abstractæ meliores reddi, et agere pative possent, aut quasi ipsius idex Geometricæ intersit, utrum nuper < hoc > corpus in ipsam inciderit, vel corporis dissoluti nec jam amplius existentis referat quænam ejus fuerit figura novissima. Ita nihil est tam absurdum, quod non asseratnr, imò demonstrari hodie [jactetur] < soleat > ab aliquo philosophorum, < si quidem id vocamus demonstrare, et has profanationes tanti nominis ferimus ; nam olim quidem parcè et severè demonstrandi appellatione philosophi utebantur, nunc vereor ne prostituatur promiscua hac audacia titulus unis irrefragabilibus rationibus præscribendus >. Et tamen hi ipsi autores habent subinde multa præclara *passim* interspersa, quibus apud incautum lectorem et paradoxorum amantem pretium conciliant mercibus malis [periculosis]. Eoque magis tempus est Criterium aliquod proferri Empiricum et palpabile < quo irrefragabiliter exhiberi queat omnis vera demonstratio > discernique verum à falso et certum aliquid etiam in scientiis ab imaginatione separatis constitui possit, coercendæ licentiæ luxuriantium ingeniorum. Indigna enim res < est > ab aliquot annorum millibus quibus floret philosophia adhuc in principiis hæreri, nihil-[^p344-1]
+PHI.., VII, B, vI, 6. metum < aliaque non meliora >, ut taceam miros et vix in tali viro credendos circa Geometrica errores. Multos alios demonstratores prætereo, sed qui plerumque sibi indulgent plurimum et Geometrarum formam simulant potiùs quam habent, Unum novissimum autorem non contemnendi quidem sed tamen infelicis ingenii præterire non possum, cujus opus posthumum ' multa habet de DEO et mente paradoxa, nihil minùs quam vera et demonstrata. Exempli causa solum DEUM esse substantiam, cætera omnia esse modos, et ut ita dicam accidentia sive affectiones DEI, quemadmodum rotunditas uniformitas < magnitudo > aliaque ejusmodi sunt affectiones sphæræ ; < aut quemadmodum affirmatio, dubitatio, etc. sunt modi cogitantis >. Mentem nihil aliud esse quàm ideam vel si mavis figuram abstractam < seu formam mechanicam > hujus < sui > corporis, ut cubus Geometricus est forma cubi corporei ; et [ita] < proinde > mentem immortalem esse quatenus nemo nescit ipsas abstractas figuras Geometricas esse interitus expertes, licet corpora dissolvantur. Et tamen ille de beatitudine nostræ mentis et emendatione multis disserere audet, quasi figuræ illæ et idea abstractæ meliores reddi, et agere pative possent, aut quasi ipsius idex Geometricæ intersit, utrum nuper < hoc > corpus in ipsam inciderit, vel corporis dissoluti nec jam amplius existentis referat quænam ejus fuerit figura novissima. Ita nihil est tam absurdum, quod non asseratnr, imò demonstrari hodie [jactetur] < soleat > ab aliquo philosophorum, < si quidem id vocamus demonstrare, et has profanationes tanti nominis ferimus ; nam olim quidem parcè et severè demonstrandi appellatione philosophi utebantur, nunc vereor ne prostituatur promiscua hac audacia titulus unis irrefragabilibus rationibus præscribendus >. Et tamen hi ipsi autores habent subinde multa præclara *passim* interspersa, quibus apud incautum lectorem et paradoxorum amantem pretium conciliant mercibus malis [periculosis]. Eoque magis tempus est Criterium aliquod proferri Empiricum et palpabile < quo irrefragabiliter exhiberi queat omnis vera demonstratio > discernique verum à falso et certum aliquid etiam in scientiis ab imaginatione separatis constitui possit, coercendæ licentiæ luxuriantium ingeniorum.[^p344-1] Indigna enim res < est > ab aliquot annorum millibus quibus floret philosophia adhuc in principiis hæreri, nihil-
 
 [p. 345] 345
 
@@ -10677,7 +10677,7 @@ in pretio sunt, < qua priorum placita delent, > brevioris longiorisve regni, pro
 
 | Inter omnes qui veram Apodicticam restituere sunt aggressi hactenus, 7 recto.
 
-nullum novi, qui totam rem inspexerit profundius Joachimo Jungio Lubecensi, quem eò minus preterire debeo, quod non pro merito nosci animadverto'. < Et tamen hunc ferè unum post Keplerum habuit tunc Germania, quem Galilæo et Cartesio opponere posset >. Hic certè si cogitata perfecisset, daturus nobis erat multa maximi usus ad condendam philosophiam demonstratricem. Mirabili enim industria et studio in notionum varietates inquisierat, et argumentationum analysin longè a vulgari diversam instituerat, et erat præterea instructus < non ab omnigena tantum literatura, sed et > ab interiore Mathesi, prope ultra illorum temporum, [aut potius] < atque > locorum captum, in quæ inciderat sorte nascendi vivendique. < Et supersunt hodieque ejus inventa in Mechanicis et Geometria, compluraque observata circa naturam edi dignissima. > Verim illi nimis diu luctandum cum larvis fuit, hoc est cum tricis quibusdam inanibus philosophorum de vulgo, quas *passim* egregiè profligabat. Quodsi in ea tempora incidisset, quibus jam dissipabantur tenebra, licuissetque illi totam in res ipsas industriam convertere, plurimum haud dubiè scientiarum pomæria protulisset. Jam enim senex erat et viribus fractus, quando Galilai et Cartesii scripta in Germania increbrescebant. < Præterea sequebatur adhuc receptum argumentandi filum, in quo rigorem demonstrandi sine tædioso labore tenere vix licet. > Mihi adhuc puero necdum nisi vulgaris Logica placita noscenti < expertique Matheseos > nescio quo instinctu subnata cogitatio est,[^p345-1]
+nullum novi, qui totam rem inspexerit profundius Joachimo Jungio Lubecensi, quem eò minus preterire debeo, quod non pro merito nosci animadverto'. < Et tamen hunc ferè unum post Keplerum habuit tunc Germania, quem Galilæo et Cartesio opponere posset >. Hic certè si cogitata perfecisset, daturus nobis erat multa maximi usus ad condendam philosophiam demonstratricem. Mirabili enim industria et studio in notionum varietates inquisierat, et argumentationum analysin longè a vulgari diversam instituerat, et erat præterea instructus < non ab omnigena tantum literatura, sed et > ab interiore Mathesi, prope ultra illorum temporum, [aut potius] < atque > locorum captum, in quæ inciderat sorte nascendi vivendique. < Et supersunt hodieque ejus inventa in Mechanicis et Geometria, compluraque observata circa naturam edi dignissima. > Verim illi nimis diu luctandum cum larvis fuit, hoc est cum tricis quibusdam inanibus philosophorum de vulgo, quas *passim* egregiè profligabat. Quodsi in ea tempora incidisset, quibus jam dissipabantur tenebra, licuissetque illi totam in res ipsas industriam convertere, plurimum haud dubiè scientiarum pomæria protulisset. Jam enim senex erat et viribus fractus, quando Galilai et Cartesii scripta in Germania increbrescebant. < Præterea sequebatur adhuc receptum argumentandi filum, in quo rigorem demonstrandi sine tædioso labore tenere vix licet.[^p345-1] > Mihi adhuc puero necdum nisi vulgaris Logica placita noscenti < expertique Matheseos > nescio quo instinctu subnata cogitatio est,
 
 [p. 346] 346
 
@@ -10699,7 +10699,7 @@ per 3. Quo principio semel reperto rationem postea excogitavi, qua omnes logicor
 
 Tandem brevitatem vita < variosque casus mecum reputans >, indinum imo inexcusabile judicavi, si talis rei omnis mentio atque suspici nea procrastinatione periret, < præsertim quod videbam < non facile > capi ab allis quæ in hanc rem subinde disserebam, unde serò fortasse alius eadem agitaturus expectari debere videbatur. > Est enim et in cogitando felicitas quædam, primaque semina bonarum meditationum tere casui, hoc est divina cuidam suggestioni debentur. Hæc igitur con iderans, sustuli < denique > moras, impedimenta negotiorum abrupi collegi memet intra me ipsum manumque operi sum admolitus. Nihil autem me deterruerat magis, quam ipsa principia, quæ habere videntur aliquid aridum et sterile et pene dixerim puerile, solent enim maximarum quoque rerum initia humilia ac pene deformia esse. Logica mihi atque Grammatica etiam elementa erant retractanda, et homini longè aliis assueto pene repuerascendum. Neque ignorabam judicia hominum varia.
 
-et plerumque novis cogitatis, optimæque voluntati reprehensionem potiu‹ quàm gloriam paratam esse. Sed vicit amor veritatis, plusque conscientix[^p347-1]
+et plerumque novis cogitatis, optimæque voluntati reprehensionem potiu‹ quàm gloriam paratam esse.[^p347-1] Sed vicit amor veritatis, plusque conscientix
 
 [p. 348] 348
 
@@ -10725,7 +10725,7 @@ Mathesis universalis tradere debet Methodum aliquid exacte determinandi per ea q
 
 Imaginatio generaliter circa duo versatur, Qualitatem et Quantitatem, sive magnitudinem et formam ; secundum qua res dicuntur similes aut dissimiles, aquales aut inæquales*. Et vero similitudinis considerationem pertinere ad Mathesin generalem non minus quam æqualitatis, ex eo patet quod Mathesis specialis, qualis est Geometria, sæpe investigat figurarum similitudines.
 
-Similia sunt quæ *per se* singulatim discerni non possunt". . . . •[^p348-1][^p348-2][^p348-3]
+Similia sunt quæ *per se* singulatim discerni non possunt". . . .[^p348-3][^p348-2][^p348-1] •
 
 [p. 349] 349
 
@@ -10751,7 +10751,7 @@ problemata. Operationes constant additione, subtractione, Multiplicatione et div
 
 Cf. Maтн., 1, 9, f ; 1, 20, a ; Ill, B, 18,
 
-Ici une addition en marge sur la regula justitic. Cf. Mathesis universa Math., VII, 66). V. La Logique de Leibniz, p. 228, et note I[^p349-1]
+Ici une addition en marge sur la regula justitic. Cf. Mathesis universa Math., VII, 66). V. La Logique de Leibniz, p.[^p349-1] 228, et note I
 
 [p. 350] 350
 
@@ -10801,7 +10801,7 @@ Analysis linguarum ? .
 
 D inventionem ac demonstrationem veritatum opus est analysi cogi- 9 recto.
 
-A cationum, quz quia respondet analysi characterum, quibus ad significandas cogitationes utimur < cuilibet enim characteri certa respondet cogitatio, > hinc analysin cogitationum possumus sensibilem reddere, et velut quodam filo mechanico dirigere ; quia analysis characterum quiddam sensibile est. Analysis autem characterum fit, cum characteribus quibusdam substituimus alios characteres, qui prioribus usu aquipollent ; hoc uno tantum observato, ut pro uno multos, pro paucioribus plures (qui tamen inter se non coincidant) substituamus. Utique enim constabit etiam cogitationes quæ characteribus substitutis respondent, prioris characteris qui resolvendus proponebatur significationi æquipollere. Hoc autem ope characterum facilius fit, quam si nullo ad characteres respectu cogitationes ipsas aggrediamur ; nam intellectus noster filo quodam mechanico regendus est, ob suam imbecillitatem ; quod in[^p351-1]
+A cationum, quz quia respondet analysi characterum, quibus ad significandas cogitationes utimur < cuilibet enim characteri certa respondet cogitatio, > hinc analysin cogitationum possumus sensibilem reddere, et velut quodam filo mechanico dirigere ; quia analysis characterum quiddam sensibile est. Analysis autem characterum fit, cum characteribus quibusdam substituimus alios characteres, qui prioribus usu aquipollent ; hoc uno tantum observato, ut pro uno multos, pro paucioribus plures (qui tamen inter se non coincidant) substituamus. Utique enim constabit etiam cogitationes quæ characteribus substitutis respondent, prioris characteris qui resolvendus proponebatur significationi æquipollere.[^p351-1] Hoc autem ope characterum facilius fit, quam si nullo ad characteres respectu cogitationes ipsas aggrediamur ; nam intellectus noster filo quodam mechanico regendus est, ob suam imbecillitatem ; quod in
 
 [p. 352] 352
 
@@ -10813,7 +10813,7 @@ Porro cum scientix omnes, quæ demonstrationibus constant, nihil aliud tradant, 
 
 Quoniam autem variæ sunt hominum linguæ, et nulla fere est qua non jam satis exculta sit, ut quælibet in ea scientiæ tradi possint ; ideo sufficit unam linguam assumi ; unusquisque enim populus scientias domi invenire et ducere potest ; quoniam tamen sunt linguæ in quibus scientiæ jam magis sunt excultæ, qualis latina est, hinc ejusmodi linguam præferri utilius fuerit, præsertim cum illa hodie nota sit plerisque scientias intelligentibus.
 
-Sunt autem in lingua characteres varii nempe voces, vocumque immutationes. Et ex vocibus aliæ sunt crebro utiles aliisque servientes, aliæ rarius occurrentes ac *per se* stantes ? . Sunt et phrases integra, imò propositiones et quod plus est formule, recurrentes codem modo, qua instar vocum explicari debent. Ita vox Bonus explicanda est, item vir bonus, habetur enim pro una voce. Et phrasis boni viri arbitrio, et oratio : multa cadunt inter calicem supremaque labra, qua proverbialis est, adeoque *per se* explicanda instar vocis, neque enim sensum omnino a vocibus capit ex quibus constat, quemadmodum nec vox sensum omnino capit ab etymologia seu literis ex quibus constat ; tametsi < enim > ut hic voces ex quibus constat proverbium vel phrasis, ita in voce litera ad originem intelligendam hujus significationis sint utiles, res tamen earum analysi non absolvitur. Eodem modo et formulæ integra sunt qua non tam pro vi orationum ex quibus componuntur, quam usus quem populus formulæ[^p352-1][^p352-2]
+Sunt autem in lingua characteres varii nempe voces, vocumque immutationes. Et ex vocibus aliæ sunt crebro utiles aliisque servientes, aliæ rarius occurrentes ac *per se* stantes ? . Sunt et phrases integra, imò propositiones et quod plus est formule, recurrentes codem modo, qua instar vocum explicari debent. Ita vox Bonus explicanda est, item vir bonus, habetur enim pro una voce. Et phrasis boni viri arbitrio, et oratio : multa cadunt inter calicem supremaque labra, qua proverbialis est, adeoque *per se* explicanda instar vocis, neque enim sensum omnino a vocibus capit ex quibus constat, quemadmodum nec vox sensum omnino capit ab etymologia seu literis ex quibus constat ; tametsi < enim > ut hic voces ex quibus constat proverbium vel phrasis, ita in voce litera ad originem intelligendam hujus significationis sint utiles, res tamen earum analysi non absolvitur.[^p352-2][^p352-1] Eodem modo et formulæ integra sunt qua non tam pro vi orationum ex quibus componuntur, quam usus quem populus formulæ
 
 [p. 353] 353
 
@@ -10867,7 +10867,7 @@ I5 recto.
 
 . Cf. le De affectibus du 10 avril 1679 (PuIL., VII, B, v, 1-1o)
 
-. C'est là l'esquisse d'un plan d'Encyclopédie, comme le montre le paragraphi[^p354-1][^p354-2][^p354-3]
+.[^p354-3][^p354-2][^p354-1] C'est là l'esquisse d'un plan d'Encyclopédie, comme le montre le paragraphi
 
 [p. 355] 355
 
@@ -10927,7 +10927,7 @@ Positivum est A, si scilicet non sit non-Y quodcunque, posito Y similiter non es
 
 Non Ens est < quod est > merè privativum, seu omnium privativum, sive non-Y. hoc est non-A, non-B, non-C, etc. idque est quod vulgò dicunt nihili nullas esse proprietates ? .
 
-Omnem quoque Terminum hic accipiemus pro completo, seu substantivo, ita ut magnus idem sit quod Ens magnum, sive ut ita dicam magnio. Quemadmodum qui nasutus est dicitur Naso, < itaque in his adjectivi et substantivi discrimine non indigemus, nisi forte ad empasin significandi . > Ens est vel *per se* vel per accidens, seu terminus est necessarius vel mutabilis. Ita Homo est Ens *per se* ; < at > Homo doctus, Rex, sunt[^p356-1][^p356-2][^p356-3][^p356-4]
+Omnem quoque Terminum hic accipiemus pro completo, seu substantivo, ita ut magnus idem sit quod Ens magnum, sive ut ita dicam magnio. Quemadmodum qui nasutus est dicitur Naso, < itaque in his adjectivi et substantivi discrimine non indigemus, nisi forte ad empasin significandi . > Ens est vel *per se* vel per accidens, seu terminus est necessarius vel mutabilis.[^p356-4][^p356-3][^p356-2][^p356-1] Ita Homo est Ens *per se* ; < at > Homo doctus, Rex, sunt
 
 [p. 357] 357
 
@@ -10967,7 +10967,7 @@ potest de illis derivativis qui constant ex primitivis simplicibus, et particuli
 
 compositis, utrum sint potius simplices quàm compositi. Sanè in alios categorematicos resolvi non possunt nisi primitivi unius duplicatione quatenus componendo eum nuno cum una nune cum alia particul
 
-compositus. Octavò quemadmodum habemus Terminos categorematicos primitivos et derivativos, ita et haberi possunt particula derivativa, exqu‹ ursus simplices quidem ex particula simplice et termino primitivo ; A compositas (Nono) ex particula composita et termino primitivo, qua resolvi possunt in plures particulas derivativas simplices. Et decimò hic similiter ambigitur quid diendum de particula derivativa ex termino primitivo composito et particula simplice. } Fortasse tamen præstat efficere ut omnes particulæ restent, quemadmodum et omnes obliqui, quemadmodum pagina præcedente dictum est. Nisi tamen obstet, quod ita non facilè apparebit qua quibus sint arreferenda. { Illud tamen adhuc in considerationem venire debet quod particulæ etiam primitivæ simplices non uniuntur ita similariter, ut termini primitivi simplices. Itaque multæ in compositione particularum occurrere possunt varietates. Exempli causa, si dicam Johannes-Pauli-Petri, id est Johannes [filius] Petri qui fuit [filius] Pauli, est quædam compositio similaris ; at si dicam Socrates Sophronisci ex Athenis, dissimilaris est particularum vel flexionum compositio. Et hinc orientur haud dubiè varii respectus, variæque obliquitates obliquitatumque mixturæ, quarum accurata constitutione potissima characteristica artis pars continetur '. Sed de his non satis potest judicari antequam primitiva simplicia tam in Terminis quàm in particulis prorsus accuratè constituantur ; vel saltem pro illis interim derivativa quidem et composita, sed primitivis simplicibus propiora assu-[^p359-1]
+compositus. Octavò quemadmodum habemus Terminos categorematicos primitivos et derivativos, ita et haberi possunt particula derivativa, exqu‹ ursus simplices quidem ex particula simplice et termino primitivo ; A compositas (Nono) ex particula composita et termino primitivo, qua resolvi possunt in plures particulas derivativas simplices. Et decimò hic similiter ambigitur quid diendum de particula derivativa ex termino primitivo composito et particula simplice. } Fortasse tamen præstat efficere ut omnes particulæ restent, quemadmodum et omnes obliqui, quemadmodum pagina præcedente dictum est. Nisi tamen obstet, quod ita non facilè apparebit qua quibus sint arreferenda. { Illud tamen adhuc in considerationem venire debet quod particulæ etiam primitivæ simplices non uniuntur ita similariter, ut termini primitivi simplices. Itaque multæ in compositione particularum occurrere possunt varietates. Exempli causa, si dicam Johannes-Pauli-Petri, id est Johannes [filius] Petri qui fuit [filius] Pauli, est quædam compositio similaris ; at si dicam Socrates Sophronisci ex Athenis, dissimilaris est particularum vel flexionum compositio. Et hinc orientur haud dubiè varii respectus, variæque obliquitates obliquitatumque mixturæ, quarum accurata constitutione potissima characteristica artis pars continetur '.[^p359-1] Sed de his non satis potest judicari antequam primitiva simplicia tam in Terminis quàm in particulis prorsus accuratè constituantur ; vel saltem pro illis interim derivativa quidem et composita, sed primitivis simplicibus propiora assu-
 
 [p. 360] 360
 
@@ -11019,9 +11019,9 @@ Coincidit A ipsi B, si alterum in alterius locum substitui potest salva veritate
 
 Habemus igitur Notas : Coincidens ipsi B. Subjectum et prædicatum. Est. Omne. Quoddam.
 
-Si dicatur Quoddam A est B, sensus est : quoddam A et quoddam B coincidunt. Unde et sequitur Quoddam B est A.
+Si dicatur Quoddam A est B, sensus est : quoddam A et quoddam B coincidunt. Unde et sequitur Quoddam B est A.[^p362-2][^p362-1]
 
-Si Omne A et quoddam B coincidunt, etiam quoddam A et quoddam[^p362-1][^p362-2]
+Si Omne A et quoddam B coincidunt, etiam quoddam A et quoddam
 
 [p. 363] 363
 
@@ -11055,7 +11055,7 @@ Inde enim Origo plerorumque Terminorum partialium et particularum sumenda est.
 
 • Coincidunt : L est vera, et : L esse falsam est falsa.
 
-Coincidunt quod L esse falsam sit vera, et quod L est falsa. Hoc theo-[^p363-1]
+Coincidunt quod L esse falsam sit vera, et quod L est falsa.[^p363-1] Hoc theo-
 
 [p. 364] GENERALES INQUISITIONES 364
 
@@ -11095,9 +11095,9 @@ Propositiones autem I, 2, 3, 4. faciunt officium definitionum, unde sine probati
 
 Propositio [categorica] est A coincidit ipsi B, A non coincidit ipsi B.
 
-« A autem et B significare possunt terminos, vel propositiones alias. > (5) < A non coincidit ipsi B idem est ac A coincidere ipsi B est falsum. > (6) Si A coincidit ipsi B, B coincidit ipsi A.
+« A autem et B significare possunt terminos, vel propositiones alias. > [^p365-5] < A non coincidit ipsi B idem est ac A coincidere ipsi B est falsum. > (6) Si A coincidit ipsi B, B coincidit ipsi A.
 
-(7) Si A non coincidit ipsi B, B non coincidit ipsi A.[^p365-1][^p365-2][^p365-3][^p365-4][^p365-5]
+(7) Si A non coincidit ipsi B, B non coincidit ipsi A.[^p365-4][^p365-3][^p365-2][^p365-1]
 
 [p. 366] GENERALES INQUISITIONES 366
 
@@ -11115,7 +11115,7 @@ Coincidit cum I.
 
 { Notabile est pro A = BY posse etiam dici A = AB, et ita non opus est assumtione nova literæ ? . Præsupponit autem hæc notatio quod AA idem est quod A, oritur enim redundantia. } (17) Hinc coincidunt : A esse B, et quoddam B coincidere ipsi A, seu BY = A (18) Coincidunt A et AA, et AAA, etc. ex natura hujus characterisicx, seu Homo, et Homo Homo, et Homo homo homo. Itaque si qui licatur esse Homo pariter et animal, resolvendo Hominem in anima rationale pariter dicetur Animal rationale et Animal, id est animal rationale.
 
-{ Hinc patet etiam ex AC=ABD non licere inferri C= BD. patet enim et in A= AB non posse utrinque omitti A. Si ob AC = ABD inferri posset C = BD, præsupponendum esset, nihil quod continetur in A contineri et in C quin contineatur et in BD, et contra. } 3[^p366-1]
+{ Hinc patet etiam ex AC=ABD non licere inferri C= BD. patet enim et in A= AB non posse utrinque omitti A. Si ob AC = ABD inferri posset C = BD, præsupponendum esset, nihil quod continetur in A contineri et in C quin contineatur et in BD, et contra.[^p366-1] } 3
 
 [p. 367] 367
 
@@ -11143,7 +11143,7 @@ Ergo A = AY.
 
 Nam A esse B= BY = A (per 17) = BY = AY (per 24) = Quoddam B esse A (per 17).
 
-(26) Admonenda adhuc quadam circa hunc calculum quæ præmittere debueramus. Nempe quod de quibuslibet literis nondum usurpatis asseritur generaliter vel concluditur, non tanquam Hypothesis, id de quotlibet aliis literis intelligi. Itaque si A = AA, etiam dici poterit B = BB.[^p367-1][^p367-2][^p367-3]
+(26) Admonenda adhuc quadam circa hunc calculum quæ præmittere debueramus. Nempe quod de quibuslibet literis nondum usurpatis asseritur generaliter vel concluditur, non tanquam Hypothesis, id de quotlibet aliis literis intelligi. Itaque si A = AA, etiam dici poterit B = BB.[^p367-3][^p367-2][^p367-1]
 
 [p. 368] 368
 
@@ -11157,7 +11157,7 @@ coincidere ipsi B quod coincidit ipsi A. Nam A= BY et B= AZ. Ergo < (per 3[^p368
 
 (34) Quod continet B non B, idem est quod impossibile. seu EB non B idem est quod impossibile.
 
-(35) Propositio falsa est, qua continet AB continere non B, (posito B et A esse possibiles). < Intelligo autem B et Y tam de Terminis, quàm de Propositionibus. > { A continere Bet A continere C idem est quod A continere BC3. Hinc si A continet B, etiam continet AB. Hinc si AB continet non B, etiam AB continebit AB non B.,[^p368-1][^p368-2]
+(35) Propositio falsa est, qua continet AB continere non B, (posito B et A esse possibiles). < Intelligo autem B et Y tam de Terminis, quàm de Propositionibus. > { A continere Bet A continere C idem est quod A continere BC3. Hinc si A continet B, etiam continet AB. Hinc si AB continet non B, etiam AB continebit AB non B.[^p368-2][^p368-1],
 
 [p. 369] DE ANALYSI NOTIONUM ET VERITATUM
 
@@ -11185,7 +11185,7 @@ Ergo non continet non B. alioqui foret impossibilis (per 32). > (44) Non B conti
 
 (45) B et non B coincidere est falsa. Patet ex 43 et 44.
 
-Supponunt autem hæc terminum B esse possibilem.[^p369-1][^p369-2][^p369-3][^p369-4][^p369-5]
+Supponunt autem hæc terminum B esse possibilem.[^p369-5][^p369-4][^p369-3][^p369-2][^p369-1]
 
 [p. 370] 370
 
@@ -11209,7 +11209,7 @@ Ergo (per 16) BY non est A. Quod erat dem.
 
 Item de conversione per contrapositionem ipsius Universalis affirmativæ. pro Nullum A est B licebitne dicere Omne A non est B ? { (s5) Si A continet B et [B est falsa, etiam A est falsal < A est vera, etiam B est vera. > Per < veram vel > falsam literam intelligo vel terminum falsum (seu impossibilem, seu qui est non-Ens) vel propositionem falsam. Et per verum eodem modo intelligi possit terminus possibilis vel propositio vera. Et ut postea explicatur, totus syllogismus mihi etiam propositio est. Caterum quod hic assero etiam sic enuntiari potest, qualibet pars veri est vera, seu quod continetur in vero est verum.
 
-< Demonstrari potest ex sequenti. >[^p370-1][^p370-2]
+< Demonstrari potest ex sequenti.[^p370-2][^p370-1] >
 
 [p. 371] 371
 
@@ -11233,7 +11233,7 @@ Et impossibiles, qua ad contradictorias reduci possint, aut quarum opposita redu
 
 (6I) Possibiles sunt de quibus demonstrari potest nunquam in resolutione < occursuram contradictionem >. Vera contingentes sunt quæ continuata in infinitum resolutione indigent. Falsæ autem contingentes quarum falsitas non aliter demonstrari potest, quam quod demonstrari (Hæe male postea
 
-correcta nequeat esse veras. Videtur esse dubium, utrum sufficiat ad demonstrandam veritatem, quod continuata resolutione [nulla occurrat] < certum sit[^p371-1][^p371-2]
+correcta nequeat esse veras.[^p371-2][^p371-1] Videtur esse dubium, utrum sufficiat ad demonstrandam veritatem, quod continuata resolutione [nulla occurrat] < certum sit
 
 [p. 372] 372
 
@@ -11241,7 +11241,7 @@ GENERALES INQUISITIONES
 
 PrIL., VII, C, 24 Mullam occursuram esse > contradictio. Inde enim sequetur omne possitermini complexi intelligo in alios terminos complexos. Scilicet sit A esse B = L, et sit B= CD, et À esse C= M, et À esse D= N, utique fiet : L= MN. Licet autem subjectum A resolvatur, non potest pro A substitui pars valoris, sed substituendus est valor integer, quod obiter moneo. Et si C = EG et D=FG, et A = EFG, poterit M resolvi in has duas A = EFG = P et EFG=EG = Q, seu erit M=PQ ; et similiter N in has duas resolvi poterit : A=EFG=P, et EFG=FG=R. ergo L= PQR. qua sunt primo veræ, nam P' est Hypothesis, Definitio scilicel vel experimentum, R et Q sunt axiomata prima. Verum si porro pergamus, requiritur ad definitionem, ut constet eam esse possibilem, seu necesse est ut demonstretur A esse possibilem, seu ut demonstretur, EFG non involvere contradictionem, id est non involvi X non X. Quod cognosci non potest nisi experimento, si constet A existere, vel extitisse, adeoque esse possibile (aut saltem extitisse aliquid ipsi A simile, quanquam revera hic casus fortasse non possit dari, nam duo completa nunquam sunt similia, et de incompletis sufficit unum ex duobus similibus existere, ut incompletum, id est denominatio communis possibilis dicatur (imo < tamen > videtur esse utile, seu si sphæra una extitit, dici poterit rectè quamlibet sphæram esse possibilem))
 
-{ Cujus simile possibile est, id ipsum et possibile est ! Unde patet rem eodem modo procedere in Terminis complexis et in incomplexis. Nam probare verum esse terminum complexum est eum reducere in alios terminos complexos veros, et hos tandem in terminos complexos primò veros, hoc est in axiomata (seu propositiones *per se* notas), definitiones terminorum incomplexorum quos probatum est esse veros ; et experimenta. Similiter Terminos incomplexos esse veros probatur reducendo cos in alios terminos incomplexos veros, et hos tandem in alios terminos incomplexos primò veros, hoc est in terminos *per se* conceptos, vel in terminos, aut terminos' quos sumus experti (aut quorum similes sumus experti. < Quanquam id adjici opus non sit, nam[^p372-1]
+{ Cujus simile possibile est, id ipsum et possibile est ! Unde patet rem eodem modo procedere in Terminis complexis et in incomplexis. Nam probare verum esse terminum complexum est eum reducere in alios terminos complexos veros, et hos tandem in terminos complexos primò veros, hoc est in axiomata (seu propositiones *per se* notas), definitiones terminorum incomplexorum quos probatum est esse veros ; et experimenta. Similiter Terminos incomplexos esse veros probatur reducendo cos in alios terminos incomplexos veros, et hos tandem in alios terminos incomplexos primò veros, hoc est in terminos *per se* conceptos, vel in terminos, aut terminos' quos sumus experti (aut quorum similes sumus experti.[^p372-1] < Quanquam id adjici opus non sit, nam
 
 [p. 373] DE ANALYSI NOTIONUM ET VERITATUM
 
@@ -11265,7 +11265,7 @@ Puu., VII, C, 24. quos incomplexi in infinitum resolubiles ingrediuntur, probati
 
 Omnis notio impossibilis est falsa, sed non possibilis est vera ; itaque falsa erit qua nec est nec erit, ut falsa est talis propositio ; etc. Nisi forte malimus nullam existentia in his habere rationem, et notio vera hic idem quod possibilis ; falsa idem quod impossibilis, nisi quando dicitur, v. g.
 
-Pegasus existens. } (67) Necessaria autem propositio est, cujus opposita non est possibilis, seu cujus oppositam assumendo per resolutionem devenitur in contradictionem. Itaque necessaria est qua per identicas demonstrari potest et definitiones, nullo alio usu experimentorum accedente, quam ut inde constet terminum esse possibilem.[^p374-1][^p374-2][^p374-3]
+Pegasus existens. } (67) Necessaria autem propositio est, cujus opposita non est possibilis, seu cujus oppositam assumendo per resolutionem devenitur in contradictionem. Itaque necessaria est qua per identicas demonstrari potest et definitiones, nullo alio usu experimentorum accedente, quam ut inde constet terminum esse possibilem.[^p374-3][^p374-2][^p374-1]
 
 [p. 375] 375
 
@@ -11281,7 +11281,7 @@ me concipere EFG, quod voco A, respondeo posse me, cum dico concipere E, vel con
 
 (7[^p375-3] Quid dicendum de propositionibus, A est existens, seu A existit.
 
-Ut si dicam de re existente A est B, idem est ac si dicam AB est existens, v. g. Petrus est abnegans, id est Petrus abnegans est existens. Hic quaritur quomodo in resolvendo procedendum sit, seu an terminus Petrus abnegans involvat existentiam ; an verò Petrus existens involvat abnegationem. an omnino Petrus involvat et existentiam et abnegationem, quasi dicas : Petrus est abnegans actu, seu abnegans existens ; < quod utique verum est. > Et ita omnino dicendum est, et hoc discrimen est inter terminum individuum seu completum, et alium ; nam si dicam aliquis homo est abnegans, homo non continet abnegationem, est enim terminus incompletus. nec homo continet omnia qua de eo dici possunt de quo ipse.[^p375-1][^p375-2]
+Ut si dicam de re existente A est B, idem est ac si dicam AB est existens, v. g. Petrus est abnegans, id est Petrus abnegans est existens. Hic quaritur quomodo in resolvendo procedendum sit, seu an terminus Petrus abnegans involvat existentiam ; an verò Petrus existens involvat abnegationem. an omnino Petrus involvat et existentiam et abnegationem, quasi dicas : Petrus est abnegans actu, seu abnegans existens ; < quod utique verum est. > Et ita omnino dicendum est, et hoc discrimen est inter terminum individuum seu completum, et alium ; nam si dicam aliquis homo est abnegans, homo non continet abnegationem, est enim terminus incompletus. nec homo continet omnia qua de eo dici possunt de quo ipse.[^p375-2][^p375-1]
 
 [p. 376] 376
 
@@ -11297,7 +11297,7 @@ telligenti et potenti placet ; sed ita præsupponitur ipsum Existere. Verù :
 
 oterit saltem definiri, quod Existens est quod Menti alicui placeret, ‹
 
-displiceret, si poneretur mens potentissima existere. Sed ut hæc definitic applicari possit experimentis, sic potius definiendum est : Existit, quor Menti alicui < (existenti) > placet, (existenti non debet adjici, si definitionem, non simplicem propositionem quærimus) nec Menti potentissimæ (absolutè) displicet. Placet autem menti potius id fieri quod habet rationem, quàm quod non habet rationem, ita si plura sint A, B, C, D, et unum ex ipsis sit eligendum, et sint B, C, D per omnia similia, at solum A ab aliis sese aliqua re distinguat, Menti cuilibet < hoc intelligenti > placebit A. Idem est si saltem discrimen non appareat inter B, C et D, appareat autem inter A et ipsa, et mens decreverit eligere, eliget A Liberè tamen eligit, quia potest adhuc inquirere, an non sit discrime[^p376-1]
+displiceret, si poneretur mens potentissima existere. Sed ut hæc definitic applicari possit experimentis, sic potius definiendum est : Existit, quor Menti alicui < (existenti) > placet, (existenti non debet adjici, si definitionem, non simplicem propositionem quærimus) nec Menti potentissimæ (absolutè) displicet. Placet autem menti potius id fieri quod habet rationem, quàm quod non habet rationem, ita si plura sint A, B, C, D, et unum ex ipsis sit eligendum, et sint B, C, D per omnia similia, at solum A ab aliis sese aliqua re distinguat, Menti cuilibet < hoc intelligenti > placebit A.[^p376-1] Idem est si saltem discrimen non appareat inter B, C et D, appareat autem inter A et ipsa, et mens decreverit eligere, eliget A Liberè tamen eligit, quia potest adhuc inquirere, an non sit discrime
 
 [p. 377] DE ANALYSI NOTIONUM ET VERITATUM
 
@@ -11325,7 +11325,7 @@ Numerus oritur si consideretur tantum plura esse Entia, uon qualia. } I (76) Non
 
 est non : homo rationalis. < sequitur ex 77. > (77) Generaliter A est B idem est quod non B est non A. Unde demonstratio præcedens, nam AB est A. Ergo non A est non B*.
 
-< Hoc videndum an possit demonstrari. < Demonstratum est infra 95 et 99.>>[^p377-1][^p377-2][^p377-3][^p377-4][^p377-5][^p377-6]
+< Hoc videndum an possit demonstrari. < Demonstratum est infra 95 et 99.[^p377-6][^p377-5][^p377-4][^p377-3][^p377-2][^p377-1]>>
 
 [p. 378] 378
 
@@ -11343,7 +11343,7 @@ quod is qui non est A, seu subjectum propositionis negativa cujus prædicatum es
 
 < Si dicas A = A non B, est falsa, < seu A non = ' non B > significat quoddam A est B. > (86) Rursus non B idem est quod is qui non est B, seu genus cujus species sunt A, C, D, etc. posito A non esse B, C non esse B, D non esse B.
 
-(87) Itaque Nullum A esse B idem est quod A esse non B, seu quodlibet A esse unum ex iis quæ non sunt B. Seu AY non == ABY, idem est quod A = A non-B. Habemus igitur transitum inter infinitas affirmativas et negativas.[^p378-1][^p378-2]
+(87) Itaque Nullum A esse B idem est quod A esse non B, seu quodlibet A esse unum ex iis quæ non sunt B. Seu AY non == ABY, idem est quod A = A non-B. Habemus igitur transitum inter infinitas affirmativas et negativas.[^p378-2][^p378-1]
 
 [p. 379] 379
 
@@ -11365,7 +11365,7 @@ seu Omne animal esse non hominem falsum est, quidem, sed tamen hinc *non sequitu
 
 Ergo A erit non B. Ergo quoddam non B erit A (per conversionem).
 
-Ergo falsum est quoddam non B esse non A (per 31) '. Ergo multo magis falsum est omne non B esse non A, contra hypothesin.[^p379-1][^p379-2][^p379-3][^p379-6]
+Ergo falsum est quoddam non B esse non A (per 31) '. Ergo multo magis falsum est omne non B esse non A, contra hypothesin.[^p379-6][^p379-3][^p379-2][^p379-1]
 
 [p. 380] GENERALES INQUISITIONES 380
 
@@ -11387,7 +11387,7 @@ A non esse non B. patet ex 97 vel 87, tantum pro B ponendo non B et pro non B po
 
 (104) Non B est non BC. demonstratum est 76. sed non semper non BC est non B. Excogitandus esset modus propositionis formalis, seu generalis, quasi dicerem : falsum est omne negativum compositum esse negativum simplex, seu non YX non = non Y, ita ut Y et X significent quaslibet similiter se habentes.
 
-(10S) Si A est non BC non ideò sequitur < vel > A esse non B, vel A esse non C < potest enim fieri ut B sit = LM et C=NP, et ut A sit non IN, quo facto A erit non LMNP seu Non BC. > Interim hinc sequitur falsum esse simul A esse B et A esse C, seu A esse BC. Patet ex 91 vel 991.[^p380-1][^p380-2][^p380-3]
+(10S) Si A est non BC non ideò sequitur < vel > A esse non B, vel A esse non C < potest enim fieri ut B sit = LM et C=NP, et ut A sit non IN, quo facto A erit non LMNP seu Non BC. > Interim hinc sequitur falsum esse simul A esse B et A esse C, seu A esse BC. Patet ex 91 vel 991.[^p380-3][^p380-2][^p380-1]
 
 [p. 381] DE ANALYSI NOTIONUM ET VERITATUM
 
@@ -11401,7 +11401,7 @@ qua respicit B. Et si sit A B C locus I designabit quantitatem vel qualitatem, e
 
 A B CD
 
-EF Unde intelligi potest quàm miris modis terminorum relationes et denominationes variari possint tam ab ordine si respicias solam dispositionem numerorum, quàm a valore cujusque numeri, si vel solius quantitatis et qualitatis habeatur locus.[^p381-1][^p381-2]
+EF Unde intelligi potest quàm miris modis terminorum relationes et denominationes variari possint tam ab ordine si respicias solam dispositionem numerorum, quàm a valore cujusque numeri, si vel solius quantitatis et qualitatis habeatur locus.[^p381-2][^p381-1]
 
 [p. 382] 382
 
@@ -11432,7 +11432,7 @@ opositionis, ut explicuimus, ita et qualibet propositio concipi potes instar Ter
 
 (I1O) Possunt etiam novi Termini reflexivi condi, qui similiter tracnativæ, cujus subjectum est prædicatum prioris, subjectum dicitur ess idem cum prædicato ejusdem propositionis. Si quis autem velit rigorosi
 
-si A est B et Best A, A est idem cum B. Cujus etiam demonstratio facilè dari potest, quemadmodum super à nobis data est, adhibitis scilicet literis. At verbis haud dubiè foret satis perplexa et opus foret peculiarem adhibere curam in illis rectè disponendis. Nam si rectè constituta essent, credo idem præstarent ; licet nesciam an pari claritate, similiter et consequentiæ ex literis facilè ducuntur, ut statim hic patet ut A diximus esse[^p382-1]
+si A est B et Best A, A est idem cum B. Cujus etiam demonstratio facilè dari potest, quemadmodum super à nobis data est, adhibitis scilicet literis. At verbis haud dubiè foret satis perplexa et opus foret peculiarem adhibere curam in illis rectè disponendis.[^p382-1] Nam si rectè constituta essent, credo idem præstarent ; licet nesciam an pari claritate, similiter et consequentiæ ex literis facilè ducuntur, ut statim hic patet ut A diximus esse
 
 [p. 383] 383
 
@@ -11452,7 +11452,7 @@ dicatur AY est B hoc est quoddam A est B, quam cum [dicitur] negatur ullum A ess
 
 Pro prioribus tamen stat, quod negatio Universalis affirmativæ utique est particularis negativa. Itaque negatio particularis affirmativæ non potest etiam esse particularis negativa (neque enim negatio particularis affirmativa et universalis affirmativa potest esse idem) superest ergo ut sit universalis negativa ; neque enim aliud esse potest.
 
-{ Univ. Aff. A xquatur B cum aliquo addito. Univ. Neg, negatur }[^p383-1][^p383-2]
+{ Univ. Aff. A xquatur B cum aliquo addito. Univ.[^p383-2][^p383-1] Neg, negatur }
 
 [p. 384] 384
 
@@ -11486,7 +11486,7 @@ Ut lineola perpendicularis significat maximum, ita duplex linea hori zontalis si
 
 sed tantum in prædicato ; subjectum enim sumo pro
 
-linearum adhuc inferius ductarum. }[^p384-1]
+linearum adhuc inferius ductarum.[^p384-1] }
 
 [p. 385] 385
 
@@ -11506,7 +11506,7 @@ pro terminis ponendo numeros, Universalis affirmativa A est B significat : A < (
 
 (126) Particularis negativa est, falsum esse dividi A posse per B, licet forte AB dividi possit per B.
 
-(127) Universalis negativa est falsum esse AB dividi posse per B, cujus nulla alia causa est quàm quod A continet [non Bl E• Itaque propriè universalis negativa est si A continet non B, unde per consequentiam colligitur Universalem negativam esse oppositam particulari affirmativæ < nempe si A dividitur per B, non potest fieri, ut A per B multiplicetur. > { Omnia per numeros demonstrari possunt, si modo notetur ? }[^p385-1][^p385-2]
+(127) Universalis negativa est falsum esse AB dividi posse per B, cujus nulla alia causa est quàm quod A continet [non Bl E• Itaque propriè universalis negativa est si A continet non B, unde per consequentiam colligitur Universalem negativam esse oppositam particulari affirmativæ < nempe si A dividitur per B, non potest fieri, ut A per B multiplicetur. > { Omnia per numeros demonstrari possunt, si modo notetur ?[^p385-2][^p385-1] }
 
 [p. 386] 386
 
@@ -11546,9 +11546,9 @@ vel A non=A : B
 
 AB = AB Part. Aff.
 
-A : B=A : B Part. Neg.
+A : B=A : B Part. Neg.[^p386-2][^p386-1]
 
-vel A non = AB[^p386-1][^p386-2]
+vel A non = AB
 
 [p. 387] 387
 
@@ -11574,7 +11574,7 @@ bilis qua non est impossibilis. An igitur omnis universalis negativ impossibilis
 
 tione seu resolutione perfecta, vel non nisi resolutione in infinitum continuabili seu semper imperfecta. Itaque certum est quidem, non verò necessarium, quia nunquam reduci potest ad identicam vel oppositam ad contradictoriam.
 
-| (130) " Verum igitur est quod probari potest, seu cujus ratio reddi 2g recto potest resolutione. Falsum quod contra. Necessarium est quod resolution‹ reducitur ad identicum. Impossibile est quod resolutione reducitur ad contradictorium. Falsus est terminus vel propositio qui continet opposita < utcunque probata >. Impossibilis qui continet opposita per reductionem ad finitos probata. Ita ut A = AB, si probatio facta est per resolutionem finitam, distingui debeat ab A = AB, si probatio facta est per I. Cf. PHIL., VII, B, II, 4I.[^p387-1][^p387-2]
+| (130) " Verum igitur est quod probari potest, seu cujus ratio reddi 2g recto potest resolutione. Falsum quod contra. Necessarium est quod resolution‹ reducitur ad identicum. Impossibile est quod resolutione reducitur ad contradictorium. Falsus est terminus vel propositio qui continet opposita < utcunque probata >. Impossibilis qui continet opposita per reductionem ad finitos probata. Ita ut A = AB, si probatio facta est per resolutionem finitam, distingui debeat ab A = AB, si probatio facta est per I. Cf. PHIL., VII, B, II, 4I.[^p387-2][^p387-1]
 
 [p. 388] 388
 
@@ -11606,7 +11606,7 @@ omnium nostrarum cogitationum, inventionemque et demonstrationem veritatum. Nemp
 
 quomodo veritates contingentes oriantur, et quod naturam quodammodo habeant numerorum incommensurabilium. Quomodo veritates absolutæ et hypotheticæ unas easdemque habeant leges, iisdemque generalibus theorematibus contineantur, ita ut omnes syllogismi fiant categorici Denique quæ sit origo Abstractorum, quod postremum nune paulo distinctius explicare opera pretium erit.
 
-(138) Nempe si propositio A est B. consideretur ut terminus, quemadmodum fieri posse explicuimus, [ita] oritur abstractum, nempe r A esse B, et si ex propositione A est B sequatur propositio C est D, tunc inde fit nova propositio talis : tò A esse B est < vel continet > tò Cesse D°, seu Beitas ipsius A continet Ceitatem ipsius D, seu Beitas ipsius A est Ceitas ipsius D°.[^p389-1][^p389-2][^p389-3][^p389-4]
+(138) Nempe si propositio A est B. consideretur ut terminus, quemadmodum fieri posse explicuimus, [ita] oritur abstractum, nempe r A esse B, et si ex propositione A est B sequatur propositio C est D, tunc inde fit nova propositio talis : tò A esse B est < vel continet > tò Cesse D°, seu Beitas ipsius A continet Ceitatem ipsius D, seu Beitas ipsius A est Ceitas ipsius D°.[^p389-4][^p389-3][^p389-2][^p389-1]
 
 [p. 390] GENERALES INQUISITIONES 390
 
@@ -11616,7 +11616,7 @@ guad dorid eam est homo : dicere licebit i doctina hominis est huma{ (14[^p390-3
 
 calidum possit esse ad tò B esse calidum ut numerus ad numerum.
 
-Hoc ergo contingit quod causa quæ A esse calidum uniformi actione efficit, tali actione < adhuc semel > continuata efficiat B esse calidum, vel signum ex quo cognoscimus aliquid esse calidum sit continuum, et in uno alterius duplum. Sed in his multa opus est circumspec tione, unde thermometra etsi signa sint graduum caloris, non tamel[^p390-1][^p390-2]
+Hoc ergo contingit quod causa quæ A esse calidum uniformi actione efficit, tali actione < adhuc semel > continuata efficiat B esse calidum, vel signum ex quo cognoscimus aliquid esse calidum sit continuum, et in uno alterius duplum.[^p390-2][^p390-1] Sed in his multa opus est circumspec tione, unde thermometra etsi signa sint graduum caloris, non tamel
 
 [p. 391] 391
 
@@ -11654,7 +11654,7 @@ Quomodo autem alia ratione propositio universalis affirmativa ad secundi adjecti
 
 ISo. Universalis affirmativa transformatur in propositionem secundi < adjecti > per negationem particularis negativa, ita ut Omne A est B, idem sit quod : A non B non est seu non est res. vel etiam (ut dixi n. I47) A continens B est res. Quod tamen posterius ut jam dixi minus aptum est, etsi verum sit, quia est superfluum, jam enim B in A continetur, sed si non omne A sit B, ex AB fit nova res.
 
-Cf. PHIL.. VII. B. Iv. 3 vers[^p392-1]
+Cf. PHIL.. VII. B. Iv.[^p392-1] 3 vers
 
 [p. 393] 393
 
@@ -11690,7 +11690,7 @@ sit B= Y et R= Z. fiet YA = ZB. Et contra YA = ZB < Ergo YAB = ZB > jam A = R et
 
 Ergo AB = ((R)).
 
-IS6. A=A. A non = non-A. AA=A.[^p393-1][^p393-2]
+IS6. A=A. A non = non-A. AA=A.[^p393-2][^p393-1]
 
 [p. 394] GENERALES INQUISITIONES 394
 
@@ -11722,7 +11722,7 @@ A non B est res quivalet Qu. A non est B vel Qu. A est non B.
 
 A non B est non res zquivalet Universali Affirmativa : Omne A est B.
 
-AB est non res aquivalet Universali Negativa : nullum A est B, vel nullum B est A.[^p394-1][^p394-2][^p394-3][^p394-4]
+AB est non res aquivalet Universali Negativa : nullum A est B, vel nullum B est A.[^p394-4][^p394-3][^p394-2][^p394-1]
 
 [p. 395] 395
 
@@ -11770,7 +11770,7 @@ Nam A = YC ex hyp. Ergo ZA =ZYC, sit ZY = V fiet ZA = VC.
 
 demonstranda.
 
-I82. Si Y non C=Z non A, erit = non AC.[^p395-1][^p395-2][^p395-3][^p395-4]
+I82. Si Y non C=Z non A, erit = non AC.[^p395-4][^p395-3][^p395-2][^p395-1]
 
 [p. 396] 396
 
@@ -11796,7 +11796,7 @@ tertio non idem terminus continet a et non a < seu si unum est verum, alterum es
 
 < Sexto. Quacunque dicuntur de Termino continente terminum, criam di pos di grip cibis ex qui citer alit propon potes, il
 
-*non sequitur* vi formæ.[^p396-1][^p396-2][^p396-3]
+*non sequitur* vi formæ.[^p396-3][^p396-2][^p396-1]
 
 [p. 397] 397
 
@@ -11822,7 +11822,7 @@ particularis negativa non possunt esse simul veræ. sit enim A = XL et VA=Z non 
 
 Terminus verus est non-falsus.
 
-195. Propositio est quæ pronuntiat quis terminus in alio contineatur aut non contineatur. Unde etiam propositio affirmare potest terminum aliquem esse falsum, si dicat in eo contineri Y non-Y ; et verum si neget. < Propositio etiam est qua dicit utrum aliquid alteri coincidat aut non coincidat, nam quæ coincidunt in se invicem continentur. >[^p397-1][^p397-2][^p397-3]
+195. Propositio est quæ pronuntiat quis terminus in alio contineatur aut non contineatur. Unde etiam propositio affirmare potest terminum aliquem esse falsum, si dicat in eo contineri Y non-Y ; et verum si neget. < Propositio etiam est qua dicit utrum aliquid alteri coincidat aut non coincidat, nam quæ coincidunt in se invicem continentur.[^p397-3][^p397-2][^p397-1] >
 
 [p. 398] 398
 
@@ -11844,7 +11844,7 @@ O. A est C.
 
 A non C non est.
 
-Sed hæc consequentia ex meris negativis etsi proba sit non tamen apparet, nisi re reducta ad affirmativas. Unde apparet hanc reductionem universalium ad negativas non esse adeò naturalem. Quemadmodum A continet B et B continet C etiam A continet C, ita si A excludit non B, ergo includit B, et B excludit non C ergo B includit C, itaque denique A includit C. Si adhibeamus AB est, A non B est pro particularibus, et A continet B vel A continet non B pro universalibus, poterimus carere propositionibus negativis. Sané negativus non afficit copulam nisi quando dicitur propositio esse falsa, alioqui afficit prædicatum ! }[^p398-1]
+Sed hæc consequentia ex meris negativis etsi proba sit non tamen apparet, nisi re reducta ad affirmativas. Unde apparet hanc reductionem universalium ad negativas non esse adeò naturalem. Quemadmodum A continet B et B continet C etiam A continet C, ita si A excludit non B, ergo includit B, et B excludit non C ergo B includit C, itaque denique A includit C. Si adhibeamus AB est, A non B est pro particularibus, et A continet B vel A continet non B pro universalibus, poterimus carere propositionibus negativis. Sané negativus non afficit copulam nisi quando dicitur propositio esse falsa, alioqui afficit prædicatum ![^p398-1] }
 
 [p. 399] 399
 
@@ -12000,9 +12000,9 @@ hujus axiomatis < nostri », am eddi poresniret diversitas, utique aliqua reddi 
 
 cum omnia sese utrinque eodem modo habere ponantur ; itaque nec diversa inde consequi possunt.
 
-| Postquam igitur intelleximus omnem propositionem aut veram aut 63 recto.
+| Postquam igitur intelleximus omnem propositionem aut veram aut 63 recto.[^p402-1]
 
-falsam esse, et omnem propositionem veram, quæ non *per se* vera, sive immediata est, posse probari à priori, sequitur ut modum probandi tradamus ; is verò continetur hoc < potissimum > axiomate : Prædicatum in locum subjecti propositionis universalis affirmativa, vel consequens in locum antecedentis propositionis affirmativæ, < salva veritate > substitui potest[^p402-1]
+falsam esse, et omnem propositionem veram, quæ non *per se* vera, sive immediata est, posse probari à priori, sequitur ut modum probandi tradamus ; is verò continetur hoc < potissimum > axiomate : Prædicatum in locum subjecti propositionis universalis affirmativa, vel consequens in locum antecedentis propositionis affirmativæ, < salva veritate > substitui potest
 
 [p. 403] 403
 
@@ -12028,11 +12028,11 @@ Tabuld. Divisiones. Methodus.
 
 Genera et species subalterna.
 
-Utile est plurium eandem rem tractantium methodos in tabulas redactas inter se conferri, ita enim pro variis dispositionibus variæ rerum inter se cognationes, ac varia genera subalterna animo a speciebus imis abstracta, comparebunt.
+Utile est plurium eandem rem tractantium methodos in tabulas redactas inter se conferri, ita enim pro variis dispositionibus variæ rerum inter se cognationes, ac varia genera subalterna animo a speciebus imis abstracta, comparebunt.[^p403-2][^p403-1]
 
 Cuncta inveniri possunt per divisiones,
 
-imo quia quotcunque spe-[^p403-1][^p403-2]
+imo quia quotcunque spe-
 
 [p. 404] GENERA ET SPECIES SUBALTERNE 404
 
@@ -12063,7 +12063,7 @@ PHIL., VII, C, 65 (2 p. *in-8°*).
 
 PHIL., VII, C, 65.
 
-Distinctio mentis et corporis.[^p404-1][^p404-2]
+Distinctio mentis et corporis.[^p404-2][^p404-1]
 
 [p. 405] 405
 
@@ -12125,7 +12125,7 @@ Ut characteristica Logica probè constituatur, ita concipi debet, ut ex calculo 
 
 | Videtur negatio exprimi posse per ?
 
-Verso.[^p406-1][^p406-2]
+Verso.[^p406-2][^p406-1]
 
 [p. 407] TABLES DE DÉFINITIONS
 
@@ -12213,7 +12213,7 @@ Axioma 2. Duo quælibet extensa sunt in [communi] < codem >
 
 Axioma 3. Si A sit in B, et B in C, erit A in C.
 
-Axioma 4. Si omne quod est in A sit in B, ipsum A est in B. et[^p408-1]
+Axioma 4. Si omne quod est in A sit in B, ipsum A est in B.[^p408-1] et
 
 [p. 409] DÉFINITIONS GÉOMÉTRIQUES
 
@@ -12261,7 +12261,7 @@ pars quæ de figuris et modis syllogismorum agit, ad geometricum rigorem revocar
 
 usus ad agnoscendum è vestigio solis tribus lineis rectis ductis, utrum propositus aliquis modus sit concludens, sine ullo figurarum et regularum logicarum respectu ? > Fundamentum Syllogisticum hoc est : Si totum aliquod C cadat intra aliquod D vel si totum C cadat extra aliquod D, tunc etiam id quod
 
-I. Cf. PHIL., VI, 14, 15. Une longue note marginale est consacrée à la Logique du P. FABRY.[^p410-1][^p410-2]
+I. Cf. PHIL., VI, 14, 15. Une longue note marginale est consacrée à la Logique du P. FABRY.[^p410-2][^p410-1]
 
 [p. 411] 411
 
@@ -12281,7 +12281,7 @@ Nullum C est D. Omne B est C. Ergo nullum B est D. Item Nullum C est D. Quoddam 
 
 1 < Ex his jam paucis cateros modos omnes demonstrabimus, usi 83 verso.
 
-tum subalternatione, tum regressu, tum conversione ; et quidem per ubalternationem < seu argumentum ab universali ad particulare > stendemus modos < duos > prima figura derivativos vulgo non us tatos ; per regressum ostendemus < ex primis > omnes modos figura secunda et tertia ac per hos ipsam conversionem ; denique accedente prioribus mediis (subalternationi et regressui) conversione, ostendemus modos figura Quarta seu indirectæ ? . > Brevitatis autem causa morem[^p411-1][^p411-2]
+tum subalternatione, tum regressu, tum conversione ; et quidem per ubalternationem < seu argumentum ab universali ad particulare > stendemus modos < duos > prima figura derivativos vulgo non us tatos ; per regressum ostendemus < ex primis > omnes modos figura secunda et tertia ac per hos ipsam conversionem ; denique accedente prioribus mediis (subalternationi et regressui) conversione, ostendemus modos figura Quarta seu indirectæ ? .[^p411-2][^p411-1] > Brevitatis autem causa morem
 
 [p. 412] 412
 
@@ -12409,7 +12409,7 @@ ABD
 
 IBC Regr.
 
-Regr.
+Regr.[^p413-1]
 
 ECD
 
@@ -12425,7 +12425,7 @@ EBC
 
 EBC | Hinc Datisi tertiæ Hinc Cesare secundæ ECD ABD
 
-ABD IBC ICD[^p413-1]
+ABD IBC ICD
 
 [p. 414] DE FORMIS SYLLOGISMORUM 414
 
@@ -12579,9 +12579,9 @@ PHIL., VII, C, 87PHIL., VII, C, 87-88 (4 p. *in-folio*) 3.
 
 88.
 
-ONSTAT non tantum omnes Veritates in rerum natura et ment 87 recto.
+ONSTAT non tantum omnes Veritates in rerum natura et ment 87 recto.[^p416-1]
 
-, Autoris DEI omnium conscii esse determinatas, sed etiam determinatum esse quid < à nobis > ex notitiis quas jam habemus colligi possit, sive[^p416-1]
+, Autoris DEI omnium conscii esse determinatas, sed etiam determinatum esse quid < à nobis > ex notitiis quas jam habemus colligi possit, sive
 
 [p. 417]
 
@@ -12617,7 +12617,7 @@ Pri.., VII, C, 87. nova Data acquirenda institutis methodicè experimentis. In h
 
 quominus consilia tam salutaria exitum sortirentur. Videntur tamen ad duo redigi posse. Prius ergo < et majus > obstaculum mihi esse videtur, defectus seria voluntatis in hominibus. quem quidem mirari non debemus, videmus enim non tantum quàm negligenter tractent negotium salutis xternæ sed etiam quomodò in rebus ante oculos et pedes positis se temere gerant. Quid enim ut exemplo quotidiano utar, præstantius in hac vita est sanitate, et nihilominus multi eam scientes videntesque pessundant, plurimi non curant, pauci de ea seriò et cum effectu aliquo cogitant. Quotusquisque autem faceret quod rusticus ille apud Benivenium in rarioribus observationibus, is cum inveterata Hydrope laborans auxilium peteret, Benivenius autem desperatum judicans, nihil se posse dixisset, consilium saltem flagitabat, cui subridens Benivenius, nihil aliud habeo amice quod tibi consulam, quam ut quam minimum possis, bibas.
 
-Tum rusticus integro anno potu abstinuit, eaque mentis firmitate insuperabilem Medicis morbum vicit '. Quis non exploderet Medicum, qua rusticus ille potuit, ægris præcipientem ? Plerique certam mortem quam tam durum auxilium mallent. Ita nos profecto malumus mentis nostræ intemperantiam < per omne errorum malorumque genus > sequi quàm aliquandiu sobriam cogitandi severitatem servare certa licet salutis spe. Magna enim opus esset patientia firmoque animi proposito ad rigorem accuratæ inquisitionis observandum, si nihil in ea indulgendum esset animo ad ludendi licentiam, saltusque faciendos prono. Cui accedit quod pauci veritatis cura tanguntur, nam qui otio et fortunis abundant torpent plerumque arbitrantes sibi suppetere quicquid ad commodè vivendum opus est, et quæ desunt invenire desperantes. Qui verò bona[^p418-1]
+Tum rusticus integro anno potu abstinuit, eaque mentis firmitate insuperabilem Medicis morbum vicit '. Quis non exploderet Medicum, qua rusticus ille potuit, ægris præcipientem ? Plerique certam mortem quam tam durum auxilium mallent. Ita nos profecto malumus mentis nostræ intemperantiam < per omne errorum malorumque genus > sequi quàm aliquandiu sobriam cogitandi severitatem servare certa licet salutis spe. Magna enim opus esset patientia firmoque animi proposito ad rigorem accuratæ inquisitionis observandum, si nihil in ea indulgendum esset animo ad ludendi licentiam, saltusque faciendos prono. Cui accedit quod pauci veritatis cura tanguntur, nam qui otio et fortunis abundant torpent plerumque arbitrantes sibi suppetere quicquid ad commodè vivendum opus est, et quæ desunt invenire desperantes.[^p418-1] Qui verò bona
 
 [p. 419]
 
@@ -12635,7 +12635,7 @@ turam, nisi certum iter, et biviis in itinere oblatis, certum « futurum > viæ 
 
 Et sanè si quis acta colloquiorum < cum curâ > inspiciat, qualia fuêre, Ratisbonense ; Montisbeligardense, aliaque hujusmodi, deprehendet nullum exitum potuisse obtineri, quia circa Modum disputandi non conveniebatur. Et in congressibus politicis deliberationibusque de
 
-quam specialis quædam Logica sit, manifestissimum est quantum Logica imperfectione laboretur, nam < sæpe, ut alia infinita taceam >, non constat , cuinam incumbat probatio, sæpe etiam indiciis utrinque pugnantibus, deest statera quædam, ad quam argumenta quoque expendantur, ut appareat à qua parte stet major probabilitas . Ut jam de[^p419-1]
+quam specialis quædam Logica sit, manifestissimum est quantum Logica imperfectione laboretur, nam < sæpe, ut alia infinita taceam >, non constat , cuinam incumbat probatio, sæpe etiam indiciis utrinque pugnantibus, deest statera quædam, ad quam argumenta quoque expendantur, ut appareat à qua parte stet major probabilitas .[^p419-1] Ut jam de
 
 [p. 420]
 
@@ -12697,7 +12697,7 @@ A co B, etiam non A et non B substitui possunt mutuo seu fieri PHIL., VII, C, 97
 
 non A co non B. Eodem modo jam ut ex A co B demonstravimus non A co non B, etiam ex non A co non B demonstrabitur non non A co non non B seu A co B. Ergo demonstrantur hæ veritates ex se mutuo seu æquivalent.
 
-[(12)] < (13) > B non co non B, imo generalius AB non co C non EB < et eodem modo (omissis > Demonstratio. Esto enim (I) AB os C non EB, jam (2) AB co ABAB (per artic. 3.) et ABAB ∞ ABC non EB (per num. I. articuli hujus).
+[(12)] < (13) > B non co non B, imo generalius AB non co C non EB < et eodem modo (omissis > Demonstratio. Esto enim (I) AB os C non EB, jam [^p422-2] AB co ABAB (per artic. 3.) et ABAB ∞ ABC non EB (per num. I. articuli hujus).
 
 Ergo a primis ad postrema AB co ABC non EB quod est absurdum per artic. 9. nam AB foret terminus falsus seu implicans '.
 
@@ -12717,7 +12717,7 @@ Nam A non co AB non B < per 9. > Ergo < (pro A substituendo A non B ex Hyp. hic)
 
 (17) Non B co non B non AB. Seu Non B continet non AB, seu Non B est non AB.
 
-Hoc superest calculo nostro demonstrandum.[^p422-1][^p422-2]
+Hoc superest calculo nostro demonstrandum.[^p422-1]
 
 [p. 423] 423
 
@@ -12757,7 +12757,7 @@ PHIL., VII, C, 103-104 (4 p. in-fol.)
 
 IL VII, C, 103-
 
-NOTATIONES GENERALES Une proposition catégorique est vraie quand le prédicat est contenu dans le sujet ; une proposition hypothétique est vraie quand le conséquent est contenu dans l'antécédent.[^p423-1][^p423-2][^p423-3]
+NOTATIONES GENERALES Une proposition catégorique est vraie quand le prédicat est contenu dans le sujet ; une proposition hypothétique est vraie quand le conséquent est contenu dans l'antécédent.[^p423-3][^p423-2][^p423-1]
 
 [p. 424] 424
 
@@ -12799,7 +12799,7 @@ Triangulum Rectangulum T° R'. Triangulum et Rectangulum T°+ R° seu T°+ Ret, 
 
 Triangulum Aequilaterum regulare T° : R° (°) quod significat R esse
 
-I. Cf. fol. 144.[^p424-1][^p424-2]
+I. Cf. fol. 144.[^p424-2][^p424-1]
 
 [p. 425] 425
 
@@ -12827,7 +12827,7 @@ non neque A neque B' Illæ litera eligantur ad respectus inversionem (qua in pri
 
 Observa itidem Triangulum minus quadrato A>C-oB, triangulum quo majus est quadratum AO-J-<B, quadratum majus triangulo B>-D-OA.
 
-Hic < > signum duarum rectarum quasi concretarum significat concretivam conceptuum compositionem, ita ut subjectum concretivum, seu in quo fit concretio, sit ubi est bifidatio. At vero -o o- sit signum rectæ per circulum terminativæ seu absolutiva compositionis estque terminus ibi ubi est circulus († scilicet in anterioribus O- ipse notabat concretionem -O terminativam, sed nunc mavult ob inversiones utrumque horum significare terminativam, et > vel < concretivam. Ego videbo quid prodeat prioribus meis insistendo. Triangulum minus Quadrato T'C"Q. At Triangulum quo Majus est Quadratum T(T'J*Q") quod significat primarium subjectum notionis esse Triangulum, idque ex eo declarari quod Triangulo hoc majus quadratum. Quadratum majus triangulo Q'°T.[^p425-1][^p425-2]
+Hic < > signum duarum rectarum quasi concretarum significat concretivam conceptuum compositionem, ita ut subjectum concretivum, seu in quo fit concretio, sit ubi est bifidatio. At vero -o o- sit signum rectæ per circulum terminativæ seu absolutiva compositionis estque terminus ibi ubi est circulus († scilicet in anterioribus O- ipse notabat concretionem -O terminativam, sed nunc mavult ob inversiones utrumque horum significare terminativam, et > vel < concretivam. Ego videbo quid prodeat prioribus meis insistendo. Triangulum minus Quadrato T'C"Q. At Triangulum quo Majus est Quadratum T(T'J*Q") quod significat primarium subjectum notionis esse Triangulum, idque ex eo declarari quod Triangulo hoc majus quadratum. Quadratum majus triangulo Q'°T.[^p425-2][^p425-1]
 
 [p. 426] 426
 
@@ -13047,7 +13047,7 @@ Imò id non tantum possibile sed et credibile seu probabile est, nam natura sole
 
 137 recto.
 
-dicam, ita ut cum ad decem pervenimus, rursus ab unitate incipiamus, quàm commodé id factum sit nunc non disputo ; illud interea ostendam, potuisse < ejus loco > adhiberi progressionem dyadicam ut statim ubi ad binarium pervenimus rursus ab unitate incipiamus ; hoc modo.[^p430-1][^p430-2]
+dicam, ita ut cum ad decem pervenimus, rursus ab unitate incipiamus, quàm commodé id factum sit nunc non disputo ; illud interea ostendam, potuisse < ejus loco > adhiberi progressionem dyadicam ut statim ubi ad binarium pervenimus rursus ab unitate incipiamus ; hoc modo.[^p430-2][^p430-1]
 
 [p. 431] 431
 
@@ -13133,7 +13133,7 @@ Characteristica verbalis.
 
 concipiendi, ut cateræ partes orationis ? .
 
-Conceptus spectantur vel *per se*, vel per accidens. *Per se* < secundum ipsas formalitates, ut humanitatem, pulcritudinem, tripedalitatem >, abstrahendo animum à materia metaphysica sive subjecto, adeoque et à tempore, loco et casu. Per accidens verò quatenus consideratur plurium[^p432-1]
+Conceptus spectantur vel *per se*, vel per accidens. *Per se* < secundum ipsas formalitates, ut humanitatem, pulcritudinem, tripedalitatem >, abstrahendo animum à materia metaphysica sive subjecto, adeoque et à tempore, loco et casu.[^p432-1] Per accidens verò quatenus consideratur plurium
 
 [p. 433] 433
 
@@ -13145,7 +13145,7 @@ poeticam et jurisprudentiam contingit esse in codem subjecto. Quare et nomina in
 
 careri potest '. Nam inter corpus et extensum, nihil aliud interest, quam quod corpus videtur significare : subjectum extensum ; quod tamen satis jam in voce extensi continetur. Ita homo nihil aliud est quàm subjectum humanum seu subjectum humanitatis. Soliti autem sunt homines excogitare hujusmodi nomina substantiva < subjectum includentia > pro illis rebus, quas magis considerant, nam rerum extensarum multitudo constituit quendam cotum, seu aggregatum cujus partes habent non tantum convenientiam sed et connexionem ; rerum verò calidarum multitudo dispersa est. Similiter omne aurum in toto mundo consideratur velut totum quoddam (unde nec dicimus in plurali aura sed auri copiam, de l'or, gold) ita et omnes homines unum cœtum facere intelliguntur præsertim cùm accedat hominum ex se invicem propagatio. Hinc oritur illa quæstio an res specie differant ; concipiunt enim homines quasi semina quædam etiam in rebus inanimis, ut metallis : et chymici inprimis hue inclinant, qui etiam qualitatibus omnibus quasi quædan subjecta radicalia ascribunt. Ita credunt « formas substantiales later in seminibus > colores in quibusdam tincturis, odores in sulphuribus, sapores in salibus ; ita ut formæ (cum suis scilicet vehiculis) ex subjectis quibusdam extrahi et aliis infundi possint. Sed cum hæc minus certa sint, nec satis liquido sit explicatum quid intelligant homines cum de differentia specifica quærunt, ideò ista nunc quidem in characteristica negligemus, donec distinctius constituantur.
 
-| Discrimen inter Propria et Appellativa etiam negligi potest, nam non tantum nomina individuorum origine fuere appellativa sumta à discrimine quodam ; sed et nihil ad rem pertinet, an hunc de quo loquimur solum in rerum natura esse dicamus, an alibi alium extare ei similem. Aliud potius discrimen inter nomina substituendum erit, huic simile, quod scilicet res vel per notas ? ex eorum qualitatibus sumtam nominabimus, vel per aliquid signum arbitratum ipsis ascriptum, et hoc sensu quadrilaterum erit appellativum et rhombus proprium nomen rei cui tribuitur.[^p433-1][^p433-2]
+| Discrimen inter Propria et Appellativa etiam negligi potest, nam non tantum nomina individuorum origine fuere appellativa sumta à discrimine quodam ; sed et nihil ad rem pertinet, an hunc de quo loquimur solum in rerum natura esse dicamus, an alibi alium extare ei similem. Aliud potius discrimen inter nomina substituendum erit, huic simile, quod scilicet res vel per notas ? ex eorum qualitatibus sumtam nominabimus, vel per aliquid signum arbitratum ipsis ascriptum, et hoc sensu quadrilaterum erit appellativum et rhombus proprium nomen rei cui tribuitur.[^p433-2][^p433-1]
 
 [p. 434] 434
 
@@ -13197,7 +13197,7 @@ Sur la Caractéristique.
 
 • .. Alphabetum cogitationum bumanarum est catalogus notionun primitivarum, seu earum quas nullis definitionibus clariores reddere posPHIL., VII, D, 1, 1. (Un placard imprimé.)
 
-PHIL., VII, D, 1, 1 LEXICON GRAMMATICO-PHILOSOPHICUM, seu Tabula Rerum et Notionum omnium Simpliciorum et Generaliorum, tam Artefactarum quam I. On lit plutôt : extrat.[^p435-1][^p435-2]
+PHIL., VII, D, 1, 1 LEXICON GRAMMATICO-PHILOSOPHICUM, seu Tabula Rerum et Notionum omnium Simpliciorum et Generaliorum, tam Artefactarum quam I. On lit plutôt : extrat.[^p435-2][^p435-1]
 
 [p. 436] 436
 
@@ -13255,7 +13255,7 @@ Existens quod distinctè percipi potest.
 
 Abstracta sunt Entia, qua discriminant diversa prædicata ejusdem Entis. Ex. gr. Etsi contingat, ut idem homo sit doctus et pius, aliud tamen est doctrina quam pietas, qua dicuntur entia abstracta et inhærere homini tanquam subjecto.
 
-Concretum est cui Entia inhærent, et quod non rursus inhæret. Nam interdum fit, ut abstracta inhæreant aliis abstractis, v. gr. magnitudo calori, cum calor est magnus. Et abstracta abstractorum indicantur adverr. V. PHIL., VII, D, I, I ,. Les feuilles sont écrites au recto seulement. La dernière est blanche[^p437-1][^p437-2]
+Concretum est cui Entia inhærent, et quod non rursus inhæret. Nam interdum fit, ut abstracta inhæreant aliis abstractis, v. gr. magnitudo calori, cum calor est magnus. Et abstracta abstractorum indicantur adverr. V. PHIL., VII, D, I, I ,. Les feuilles sont écrites au recto seulement.[^p437-2][^p437-1] La dernière est blanche
 
 [p. 438] 438
 
@@ -13451,9 +13451,9 @@ Terra est Elementum siccum seu palpabile firmum. Nam siccum < verò > idem est, 
 
 Terrena sunt vel ex inanimis, qua dicuntur Regni Mineralis : vel ex Animatis, et hæc sunt Regni Vegetabilis vel Animalis.
 
-Sed aliæ quoque divisiones ex qualitatibus sensibilibus institui possunt : Aliæque item ex Analysi cum mechanica tum physica per ignem, aërem et aquam.
+Sed aliæ quoque divisiones ex qualitatibus sensibilibus institui possunt : Aliæque item ex Analysi cum mechanica tum physica per ignem, aërem et aquam.[^p443-1]
 
-{ Terra pars superficiei telluris, qua aquis madefacta in glebas coït,[^p443-1]
+{ Terra pars superficiei telluris, qua aquis madefacta in glebas coït,
 
 [p. 444] TABLE DE DÉFINITIONS
 
@@ -13989,7 +13989,7 @@ Testes semini maris elaborando serviunt, numero bini extra abdomen positi, in qu
 
 | Hodie putant, ovarium esse in omni fœmina, ubi ovulum a semine 23.
 
-virili focundetur, aique inde in uterum per tubam Fallopianam delatum fotum constituat, qui ibi nutritur. In mediis intestinis jacet mesenterium,[^p465-1]
+virili focundetur, aique inde in uterum per tubam Fallopianam delatum fotum constituat, qui ibi nutritur.[^p465-1] In mediis intestinis jacet mesenterium,
 
 [p. 466] 466
 
@@ -15413,7 +15413,7 @@ ACCIDENS ŒCONOMICUN
 
 RELATIO MORUM.
 
-Ceremonia est consuetudo in agendo non necessaria ad rem, conferens tamen ad attentionem spectatorum. An potius conferens ad ornatum ? [^p499-1]
+Ceremonia est consuetudo in agendo non necessaria ad rem, conferens tamen ad attentionem spectatorum. An potius conferens ad ornatum ?[^p499-1]
 
 [p. 500] TABLE DE DÉFINITIONS 500
 
@@ -15453,9 +15453,9 @@ Nobilitas est honor generis. Itaque etiam nobilis habetur, qui incipit generis h
 
 Plebejus in quo non est honor generis.
 
-Divitia est potentia ex rebus extraneis, qua in nostra sunt potestate.
+Divitia est potentia ex rebus extraneis, qua in nostra sunt potestate.[^p500-1]
 
-Iraque pecunia multa, et qua pecunia multa astimantur,[^p500-1]
+Iraque pecunia multa, et qua pecunia multa astimantur,
 
 [p. 501] TABLE DE DÉFINITIONS
 
@@ -15829,7 +15829,7 @@ Ex indice explicatus.
 
 En tête, note de la main de Hodann :
 
-N. B. Per literam P. intelligitur Ausonius Popma de differentiis verborum per B. vel T. L. Thesaurus Linguæ Romanæ vulgo Forum Romanum, per M. Martinii Lexicon Philologicum. per L. P. Lexicon Philosophicum Micraelii. per D. Dalgarnonis Lexicon Latino-PhilosoI. Publié par TreNDeLenBurg ap. Monatsöerichte der königl. preuss. Akademie der Wissenschaften zu Berlin (1861), p. 170-219-[^p509-1]
+N. B. Per literam P. intelligitur Ausonius Popma de differentiis verborum per B. vel T. L. Thesaurus Linguæ Romanæ vulgo Forum Romanum, per M. Martinii Lexicon Philologicum. per L. P. Lexicon Philosophicum Micraelii. per D. Dalgarnonis Lexicon Latino-PhilosoI. Publié par TreNDeLenBurg ap. Monatsöerichte der königl. preuss. Akademie der Wissenschaften zu Berlin (1861), p.[^p509-1] 170-219-
 
 [p. 510] 510
 
@@ -15949,7 +15949,7 @@ Ens. Substantia. Accidens seu adjunctum. Substantia absoluta. Substantia limitat
 
 : Possibile. Ens. Existens. Potens. Agens . Cognoscens. [Agens 'olens [percipiens, patiens, quod m] Durans [Material Quod mutatur Patiens. Percipiens. Locatum. Extensum. Terminatum. Figuratum.
 
-[Motum. Quiescens]. Tangens. Vicinum. Distans. } Omnis anima est immortalis. Mens autem non tantùm est immortalis,[^p514-1][^p514-2][^p514-3]
+[Motum. Quiescens]. Tangens. Vicinum. Distans. } Omnis anima est immortalis.[^p514-3][^p514-2][^p514-1] Mens autem non tantùm est immortalis,
 
 [p. 515] 515
 
@@ -16033,7 +16033,7 @@ Justilia est charitas sapientis seu charitas quæ prudentiæ congruit.
 
 < Benevolentia est habitus amoris. > [Benevolentia seu] Amor est affectus quo efficitur ut bonum malumve alienum censeatur pars nostri. Sed quoniam amor ita definiendus esse videtur ut cadat et in DEUM, sufficiet dicere :
 
-Amare est alterius felicitate delectari. . . . . . • • • • • Sapientia est scientia felicitatis. . . . .[^p516-1][^p516-2]
+Amare est alterius felicitate delectari. . . . . . • • • • • Sapientia est scientia felicitatis. . . . .[^p516-2][^p516-1]
 
 [p. 517] 517
 
@@ -16109,7 +16109,7 @@ Nihil est majus < aut minus > se ipso, aliaque id genus, quæ licet suos ipsa gr
 
 Omnes autem reliqua veritates reducuntur ad primas ope definitionum, seu per resolutionem notionum, in qua consistit probatio *a priori*, independens ab experimento. Exemplum dabo, hæc præpositio inter Axiomata a Mathematicis pariter et aliis omnibus recepta : Totum est majus sua parte, vel pars est minor toto, demonstratur facillime ex definitione minoris vel majoris, accedente axiomate primitivo seu identico. Nam Minus est quod alterius (majoris) parti aquale est. qua quidem definitio facillima est intellectu, et consentanea praxi generis humani, quando res inter se comparant < homines >, et æquale minori a majore auferendo excessum reperiunt. Hinc talis fit ratiocinatio : Pars qualis est parti totius (nempe sibi ipsi, per axioma identicum, quod unumquodque sibi aquale est) quod autem parti totius squale est, id toto minus est (per definitionem minoris) Ergo pars toto minor est ? .
 
-Semper igitur prædicatum seu consequens inest subjecto seu antecedenti. et in hoc ipso consistit natura veritatis in universum seu connexio[^p518-1]
+Semper igitur prædicatum seu consequens inest subjecto seu antecedenti.[^p518-1] et in hoc ipso consistit natura veritatis in universum seu connexio
 
 [p. 519] PRIME VERITATES
 
@@ -16129,7 +16129,7 @@ Alioqui veritas daretur, quæ non posset probari *a priori*, seu quæ non resolv
 
 < Hinc etiam æternorum datur ratio, si fingeretur mundum ab æterno tuisse, et solos in eo fuisse globulos, reddenda esset ratio cur globuli potius quam cubi. > Sequitur etiam hino non dari posse < in natura > duas res singulares solo numero differentes : utique enim oportet rationem reddi posse cur dicantur] < sint > diversa, qua ex aliqua in ipsis differentia petend :
 
-est. Itaque quod D. Thomas agnovit de intelligentiis separatis quas nunquam solo numero differre asseruit, id de aliis quoque rebus dicendum est ; neque unquam duo ova, aut duo folia vel gramina in horto perfecte sibi similia reperientur *. Et perfecta < igitur > similitudo locum habet[^p519-1]
+est. Itaque quod D. Thomas agnovit de intelligentiis separatis quas nunquam solo numero differre asseruit, id de aliis quoque rebus dicendum est ; neque unquam duo ova, aut duo folia vel gramina in horto perfecte sibi similia reperientur *.[^p519-1] Et perfecta < igitur > similitudo locum habet
 
 [p. 520] PRIME VERITATES 520
 
@@ -16143,7 +16143,7 @@ dicata praterita, prasentia ac futura ? . Utique enim prædicatum futurum esse f
 
 Et proinde in < perfecta > notione < individuali > Petri vel Judæ considerati sub ratione possibilitatis abstrahendo animum a divino creandi ipsum decreto, insunt et a DEO videntur omnia ipsis eventura tam necessaria quam libera. Atque hinc manifestum est DEUM ex infinitis individuis possibilibus eligere ea quæ supremis arcanisque sux sapientiæ < finibus > magis consentanea putat, nec si exacte loquendum est, decernere ut Petrus peccet, aut Judas damnetur, sed decernere tantum ut præ aliis possibilibus Petrus (certo quidem, non necessario tamen sed libere) peccaturus, et Judas damnationem passurus ' ad existentiam perveniant. Seu ut notio possibilis fiat actualis. Et licet salus quoque futura Petri in notione ejus æterna possibili contineatur, id tamen non est sine gratiæ concursu, nam in < eadem > notione < perfecta > Petri < hujus > possibilis, etiam divinæ gratiæ auxilia ipsi ferenda sub notione possibilitatis continentur *.
 
-princesse Sophie le principe des indiscernables dans les jardins du château de Herrenhausen, M. d'Alvensleben voulut le réfuter par le fait, et chercha dans le jardin[^p520-1][^p520-2]
+princesse Sophie le principe des indiscernables dans les jardins du château de Herrenhausen, M.[^p520-2][^p520-1] d'Alvensleben voulut le réfuter par le fait, et chercha dans le jardin
 
 [p. 521] 52 I
 
@@ -16339,7 +16339,7 @@ Regnum minerale, quorsum terra, lapides et qui in his succi et salus, res metall
 
 Regnum vegelabile, quorsum plantæ, ‹< cujus usus in > agricultura ;
 
-Regnum Animale, huc Anatomia, < cujus usus in > medicina.[^p526-1][^p526-2][^p526-3]
+Regnum Animale, huc Anatomia, < cujus usus in > medicina.[^p526-3][^p526-2][^p526-1]
 
 [p. 527] 527
 
@@ -16367,9 +16367,9 @@ Instrumenta sunt bina existimatio et opes, << nempe > per instrumenta rationalia
 
 Opum est doctrina œconomica, < qua agit de instrumentis irrationalibus, qua sunt vera et fictitia per opinionem rationalium, quale pecunia, cujus proinde tractatio videtur ad politicam partem pertinere. > Instrumenta irrationalia < vero > sunt sentientia, < nempe animalia, equi, boves, etc. > sunt viva ut plantæ ; sunt agentia ut ignes [et]
 
-aqua, < venti >, machina ; sunt Quiescentia : huc confecta et materialia. Confecta sunt structuræ, amictus, supellex. Structuræ sunt < tum > immobiles, ut aggeres, moles, [domus], tum mobiles, ut currus, naves, supellex. Quadam sunt materialia ad victum amictum et structuram. Hinc granaria et magazina.
+aqua, < venti >, machina ; sunt Quiescentia : huc confecta et materialia. Confecta sunt structuræ, amictus, supellex. Structuræ sunt < tum > immobiles, ut aggeres, moles, [domus], tum mobiles, ut currus, naves, supellex. Quadam sunt materialia ad victum amictum et structuram. Hinc granaria et magazina.[^p527-3][^p527-2][^p527-1]
 
-Omnia hæe quæ de hominis bono et felicitate tractavimus, possunt et[^p527-1][^p527-2][^p527-3]
+Omnia hæe quæ de hominis bono et felicitate tractavimus, possunt et
 
 [p. 528] 528
 
@@ -16441,11 +16441,11 @@ PHIL., VIII, 71
 
 imo in qualibet ejus parte.
 
-Introducere aliud genus rerum existentium, aliumque velut mundum etiam infinitum, Est abuti existentiæ nomine, neque enim dici potest an nunc existant illæ res an non. Existentia autem ut a nobis concipitur involvit aliquod tempus determinatum, sive hoc demum existere dicimus, le quo certo aliquo temporis momento dici potest, ista res nunc existit
+Introducere aliud genus rerum existentium, aliumque velut mundum etiam infinitum, Est abuti existentiæ nomine, neque enim dici potest an nunc existant illæ res an non.[^p529-1] Existentia autem ut a nobis concipitur involvit aliquod tempus determinatum, sive hoc demum existere dicimus, le quo certo aliquo temporis momento dici potest, ista res nunc existit
 
 Vultitudo est major rerum in toto quam in parte ; etiam in [numero
 
-mundo, non tantum monstra, sed et mentes malæ et miserabiles, item[^p529-1]
+mundo, non tantum monstra, sed et mentes malæ et miserabiles, item
 
 [p. 530] 530
 
@@ -16487,7 +16487,7 @@ faire tort au raisonnement, en quoy les lettres d'Alphabet sont fort propres ; e
 
 Car si ces lettres signifioient | des points (comme cela se practique 94 verso.
 
-effectivement chez les Geometres) on y pourroit former un certain calcul ou sorte d'operation, qui seroit entierement different de l'Algebre, et ne laisseroit pas d'avoir les mêmes avantages qu'elle a < c'est de quoy je parleray une autre fois. > Lorsque ces lettres signifient des termes ou notions, < comme chez Aristote >, cela donne cette partie de la logique qui traite des figures et des modes. Et j'avois raisonné làdessus dans les commencemens de mes etudes, m'estant hazardé de publier un petit traité de l'Art des combinaisons qui a esté < assez bien reçeu et > reimprimé malgré moy ? , car ayant eu bien d'autres veues[^p531-1][^p531-2]
+effectivement chez les Geometres) on y pourroit former un certain calcul ou sorte d'operation, qui seroit entierement different de l'Algebre, et ne laisseroit pas d'avoir les mêmes avantages qu'elle a < c'est de quoy je parleray une autre fois. > Lorsque ces lettres signifient des termes ou notions, < comme chez Aristote >, cela donne cette partie de la logique qui traite des figures et des modes. Et j'avois raisonné làdessus dans les commencemens de mes etudes, m'estant hazardé de publier un petit traité de l'Art des combinaisons qui a esté < assez bien reçeu et > reimprimé malgré moy ?[^p531-2][^p531-1] , car ayant eu bien d'autres veues
 
 [p. 532] 53₴
 
@@ -16511,7 +16511,7 @@ IOI.
 
 (I) Ratio est in Natura, cur aliquid potius existat quàm nihil. Id con- 1oo recto.
 
-sequens est magni illius principii, quod nihil fit sine ratione < quemadmodum etiam cur hoc potius existat quam aliud rationem esse oportet. >[^p533-1]
+sequens est magni illius principii, quod nihil fit sine ratione < quemadmodum etiam cur hoc potius existat quam aliud rationem esse oportet.[^p533-1] >
 
 [p. 534] RÉSUMÉ DE MÉTAPHYSIQUE 534
 
@@ -16559,7 +16559,7 @@ defectu intellectionis. Neque enim possibile est, ut omnis Mens omnia distinctè
 
 (2I) Et Mentium maxima habetur ratio, quia per ipsas quam maxima varietas in quam minimo spatio obtinetur.
 
-(22) Et dici potest Mentes esse primarias Mundi unitates, proximaque simulacra Entis primi, quia distinctè percipiunt necessarias veritates, id est rationes qua movere Ens primum, et universum formare debuerunt.[^p535-1][^p535-2]
+(22) Et dici potest Mentes esse primarias Mundi unitates, proximaque simulacra Entis primi, quia distinctè percipiunt necessarias veritates, id est rationes qua movere Ens primum, et universum formare debuerunt.[^p535-2][^p535-1]
 
 [p. 536] 536
 
@@ -16651,7 +16651,7 @@ Maтн., I, 1, b.
 
 Матн., I, 1, b (un coupon).
 
-Veritates præliminares < seu Principia > quibus Euclides sua Elementa superstruit, si examinaverimus, et ad calculum nostrum Speciosa Situs revocaverimus, facilius erit idem postea præstare in Theorematibus quæ inde deducuntur. Sub Veritatum præliminarium nomine hic tantum Axiomata et postulata intelligo, exclusis definitionibus, quæ non sunt veritates sed explicationes Terminorum, nisi quatenus de possibilitate agitur, nam eatenus ad Axiomata vel postulata referri debent ? . . .[^p538-1][^p538-2][^p538-3]
+Veritates præliminares < seu Principia > quibus Euclides sua Elementa superstruit, si examinaverimus, et ad calculum nostrum Speciosa Situs revocaverimus, facilius erit idem postea præstare in Theorematibus quæ inde deducuntur. Sub Veritatum præliminarium nomine hic tantum Axiomata et postulata intelligo, exclusis definitionibus, quæ non sunt veritates sed explicationes Terminorum, nisi quatenus de possibilitate agitur, nam eatenus ad Axiomata vel postulata referri debent ? . . .[^p538-3][^p538-2][^p538-1]
 
 [p. 539] 539
 
@@ -16721,7 +16721,7 @@ Mea Methodo " a diametro secari circulum bifariam non eget demonstratione. Cum n
 
 Матн., I, 3, c (un coupon).
 
-An dicere licebit ? [Situs] Positio est modus discernendi < etiam > ea qua *per se* discerni non possunt, ut duo puncta *per se* nil habent quo 79 : CA. A , sis sis Geometrica propria (1698), 89 (Math., V, 173) ; et Pun., VII, C,[^p540-1]
+An dicere licebit ? [Situs] Positio est modus discernendi < etiam > ea qua *per se* discerni non possunt, ut duo puncta *per se* nil habent quo 79 : CA. A , sis sis Geometrica propria (1698), 89 (Math., V, 173) ; et Pun.[^p540-1], VII, C,
 
 [p. 541] PRIMA GEOMETRIE PRINCIPIA
 
@@ -16759,9 +16759,9 @@ Prima Geometric principia.
 
 •. Ea est natura situs, ut omnia qua habent situm, habeant etiam situm inter se ; ita ut posito A habere situm (verbi gratia ad L) et B habere situm (verbi gratia ad M) sequatur A et B habere situm inter se.
 
-. .
+. .[^p541-1]
 
-(Machine de congruence emploré dans l'Aralysis Geometrica propria de 16ç8, 8 1[^p541-1]
+(Machine de congruence emploré dans l'Aralysis Geometrica propria de 16ç8, 8 1
 
 [p. 542] 542
 
@@ -16821,7 +16821,7 @@ Unicum tantum punctum est, quod datas distantias a quatuor datis punctis solidum
 
 Млтн., I, 9, а.
 
-Mathesis generalis.[^p543-1][^p543-2][^p543-3]
+Mathesis generalis.[^p543-3][^p543-2][^p543-1]
 
 [p. 544] 544
 
@@ -16861,9 +16861,9 @@ MATH., I, 9, d (un coupon) *.
 
 Млтн., I, 9, d.
 
-Non omnes ipsius o (Nihil) potentiz sunt aquales. omnes potentia affirmativæ ipsius o sunt quantitates nihilo æquales seu infinitè parvæ ;
+Non omnes ipsius o (Nihil) potentiz sunt aquales.[^p544-4][^p544-3][^p544-2][^p544-1] omnes potentia affirmativæ ipsius o sunt quantitates nihilo æquales seu infinitè parvæ ;
 
-sed potentia negativa ipsius o sunt quantitates infinita : sic 0 -'= -[^p544-1][^p544-2][^p544-3][^p544-4]
+sed potentia negativa ipsius o sunt quantitates infinita : sic 0 -'= -
 
 [p. 545] 545
 
@@ -16927,7 +16927,7 @@ Demonstratio omnimoda qua nullam propositionem, nisi identicam, sine demonstrati
 
 Itaque ut Analysin situs constituerem, *inter alia* cogitavi scopum obtinere posse si perficerentur Demonstrationes Elementorum Euclidis, in quo jam olim Apollonius, Proclus, nuper Clavius laboraverunt '. . .
 
-(МатH., XV, v, 61-70).[^p546-1][^p546-2]
+(МатH., XV, v, 61-70).[^p546-2][^p546-1]
 
 [p. 547] 547
 
@@ -17175,7 +17175,7 @@ Circuli per A.B.C. Sed nos supra definivimus Circumferentiam Circuli, locum
 
 punctorum eodem modo se habentium ad duo puncta Fixa. Hinc Circulus erit Locus punctorum codem modo se habentium ad quodvis punctum X. Rectæ per AB, determinata substituendo pro Determinantibus.
 
-S I6. Sumantur tria puncta in Circumferentia hujus Circuli et Planum per ea transiens, cui occurrat Recta per AB. in Puncto quod sit C. Ergo Circumferentia est locus punctorum codem modo se habentium ad C. ostendendumque erit omnia puncta Peripheriæ cadere in hoc Planum per tria puncta Peripheriæ ipsius ductum. Quod fiet si ostendatur Planum esse locum omnium punctorum ad duo quædam puncta codem P. 8. modo se habentium. Rectam vero esse lo-|cum omnium punctorum[^p554-1]
+S I6. Sumantur tria puncta in Circumferentia hujus Circuli et Planum per ea transiens, cui occurrat Recta per AB. in Puncto quod sit C. Ergo Circumferentia est locus punctorum codem modo se habentium ad C. ostendendumque erit omnia puncta Peripheriæ cadere in hoc Planum per tria puncta Peripheriæ ipsius ductum. Quod fiet si ostendatur Planum esse locum omnium punctorum ad duo quædam puncta codem P. 8. modo se habentium.[^p554-1] Rectam vero esse lo-|cum omnium punctorum
 
 [p. 555] 555
 
@@ -17239,7 +17239,7 @@ multiplicatione alias < et > secundum | leges communis calculi posito x [esse] v
 
 Si enim constet hoc modo x esse unum ex his quatuor a.b.c.d. et unum
 
-Geometra, nam cum sciunt quod quærunt debere esse in aliquo circulo dato, idemque esse debere in alio circulo etiam dato, concludunt id cadere in horum circulorum intersectionem ? . Idem fieri potest in seriebus numerorum, Et alioqui calculus alternativus immensum habet usum in[^p556-1][^p556-2][^p556-3]
+Geometra, nam cum sciunt quod quærunt debere esse in aliquo circulo dato, idemque esse debere in alio circulo etiam dato, concludunt id cadere in horum circulorum intersectionem ? .[^p556-3][^p556-2][^p556-1] Idem fieri potest in seriebus numerorum, Et alioqui calculus alternativus immensum habet usum in
 
 [p. 557] SYNTHÈSE ET ANALYSE
 
@@ -17275,7 +17275,7 @@ Maтн., 1, 26, d (un coupon).
 
 Матн., I, 26, d.
 
-Methodus synthetica est, cum problema difficile soluturi incipimus a facilioribus. In synthesi *per se* facile observandum, ut tentemus obtinere[^p557-1][^p557-2]
+Methodus synthetica est, cum problema difficile soluturi incipimus a facilioribus.[^p557-2][^p557-1] In synthesi *per se* facile observandum, ut tentemus obtinere
 
 [p. 558] MODUS REDUCENDI PROBLEMATA 558
 
@@ -17359,7 +17359,7 @@ moriendi verisimilitudine, et de catalogis mortuariorum. Addatur Caramuelis Math
 
 Similes Tabulæ condenda de declinationibus magneticis ", unde homo aliquis ingenio præditus aliquam struat hypothesin.
 
-Quornodo a simili ratiocinandum. Veterum methodus pro demonstranda qualitate angulorum refractionis et incidentiæ ; hanc Fermatius egregie transtulit a catoptrica ad dioptricam. Ita ex eo quod ostensum est in omni machina semper centrum gravitatis descendere, ingeniosus aliquis[^p561-1][^p561-2]
+Quornodo a simili ratiocinandum. Veterum methodus pro demonstranda qualitate angulorum refractionis et incidentiæ ; hanc Fermatius egregie transtulit a catoptrica ad dioptricam.[^p561-2][^p561-1] Ita ex eo quod ostensum est in omni machina semper centrum gravitatis descendere, ingeniosus aliquis
 
 [p. 562] 562
 
@@ -17369,7 +17369,7 @@ MiTH., I, 27, d. inferet, ergo centrum gravitatis semper eadem celeritate ferri,
 
 venientiam et disconvenientiam invenire magis est analyticum. Sed data te aliam invenire valde similem aut valde dissimilem magis Combinatorium. Caput præmittendum de differentia Methodi Analytica et Combinatoriæ, et de differentia ingenii Analytici et ingenii combinatorii '. In analysi magis opus attentione ad pauca, sed valde acri, in combinatoria opus respectu ad multa simul, itaque simile est discrimen atque inter pictores rerum minutissimarum et statuarios. Analytici magis Myopes. Combinatorii magis similes presbitis. Analysis ubi semel reperta est, solam requirit attentionem < seu firmitatem mentis cui respondet in exercitiis corporeis firmitas manuum > ; et tali ingenio sunt, qui non vagi sunt, sed possunt etiam sine calamo, sola imaginatione calculare. At Combinatoria magis requirit subitam per multa discursationem, < cui in corporeis exercitiis agilitas respondet. > Et ut his qui imaginatione firma non valent ad res attente considerandas succurritur figuris et characteribus, ita his qui memoria non valent nec multa simul sibi exhibere possunt, succurritur ope Tabularum. Characteristica vero et tabulis et analysi auxiliatur. De Tabulis ita condendis ex cognitis, ut ex interpretatione vel continuatione seriei divinentur incognita ? . Ex multis modis unam eandemque rem quærendi < et inveniendi > semper est aliquis, qui longius ducit et ad altiora servire potest. Ex inquisitione rei ejusdem per diversas vias efflorescit quædam ut ita dicam aquatio seu comparatio, non inter duas quantitates, sed inter duas methodos, unde semper Verso. nova et præclara theoremata condi | possunt. Est ars quædam condendi theoremata ? . Combinatoria non semper demonstrativa est, sed sæpe agit variis divinationibus et tentamentis. Methodus exclusiva Freniclii.
 
-I. Cf. De Synthesi et Analysi universali (Phil., VII, 297) ; et MatH., I, 26, c, d ; 27 b.[^p562-1][^p562-2]
+I. Cf. De Synthesi et Analysi universali (Phil., VII, 297) ; et MatH., I, 26, c, d ; 27 b.[^p562-2][^p562-1]
 
 [p. 563] 563
 
@@ -17399,7 +17399,7 @@ Congrua sunt qua *per se* discerni non possunt.
 
 Congrua *per se* spectata sibi substitui possunt quasi essent coincidentia.
 
-Quorum determinantia congruunt ea inter se congruunt (ut quia datis tribus lateribus datur Triangulum, ideò si congruunt AB. BC. CD = ipsis FG. GH. FH congruet triangulum ABC triangulo FGH). } Aequalia sunt qua resolvi possunt in partes < suas > diversas singulas singulis diversis alterius congruentes.[^p563-1][^p563-2]
+Quorum determinantia congruunt ea inter se congruunt (ut quia datis tribus lateribus datur Triangulum, ideò si congruunt AB. BC. CD = ipsis FG. GH. FH congruet triangulum ABC triangulo FGH). } Aequalia sunt qua resolvi possunt in partes < suas > diversas singulas singulis diversis alterius congruentes.[^p563-2][^p563-1]
 
 [p. 564] 564
 
@@ -17579,7 +17579,7 @@ Du jeu de la Bassette.
 
 Loix de la Bassette.
 
-Il s'agit d'un jeu de cartes qui fut importé en France et mis à la mode par un ambassadeur italien en 1678. Le mathématicien français Joseph Sauveur (1653-1716) en fit la théorie, à la demande du fameux courtisan Dangeau ? , et la publia dans le Journal des Savants du 13 février 16793.[^p568-1][^p568-2][^p568-3]
+Il s'agit d'un jeu de cartes qui fut importé en France et mis à la mode par un ambassadeur italien en 1678. Le mathématicien français Joseph Sauveur (1653-1716) en fit la théorie, à la demande du fameux courtisan Dangeau ? , et la publia dans le Journal des Savants du 13 février 16793.[^p568-3][^p568-2][^p568-1]
 
 [p. 569] 569
 
@@ -17621,11 +17621,11 @@ Metus est probabilitas amittendi
 
 ....
 
-Demonstrato ergo tantum nos in boris labore videri, quanta est habendi P. 4e probabilitas, et tantum nobis de re abesse videri, quanta est amittendi probabilitas (nam hoc erat illud de quo memini Robervallium dubitasse)
+Demonstrato ergo tantum nos in boris labore videri, quanta est habendi P.[^p569-1] 4e probabilitas, et tantum nobis de re abesse videri, quanta est amittendi probabilitas (nam hoc erat illud de quo memini Robervallium dubitasse)
 
 cætera ita facile absolvemus :
 
-< THEOREMATA : > (I) Si plures sint eventus æque faciles et uno eventu rem habebo, aliis[^p569-1]
+< THEOREMATA : > (I) Si plures sint eventus æque faciles et uno eventu rem habebo, aliis
 
 [p. 570] 570
 
@@ -17745,7 +17745,7 @@ Est autem methodus analytica, cum quæstio aliqua proposita tamdiu resolvitur < 
 
 leraque hominum inventa sunt potius syntherica quam analytica exempli gratia si Monachus, qui Bombardam invenit, quæsivisset Machinam solito fortiorem, atque conclusisset cam se habiturum si materiam parare posset fulminis imitatricem, seu qua subito incensa se dilataret ;
 
-atque ita pulverem fulminantem vel jam ab aliis inventum adhibere se debere conclusisset, vel ipse invenisset analysi continuata, inquirendo scilicet quæ inflammationi et dilatationi apta essent ; is inquam processisset methodo analytica. Sed cum Monachus ut ferunt cum ? in pulverem pyrium incidisset, ejus vim cogitando conjunxit cum instrumentis ubi maxima vis desideratur, qualia sunt bellica : statim enim secum ratiocinatus de usu inventi a se pulveris, cogitavit maximum fore, si canali includi posset, et dirigi ictus in locum destinatum. Combinationem igitur inventi a se pulveris cum aliis rebus instituit, nempe cum re bellica. Ita inventum pyxidis nautica combinatorium potius quam analyticum esse credibile est ? . Crediderim enim potius, hominem aliquem ingeniosum,[^p572-1][^p572-2]
+atque ita pulverem fulminantem vel jam ab aliis inventum adhibere se debere conclusisset, vel ipse invenisset analysi continuata, inquirendo scilicet quæ inflammationi et dilatationi apta essent ; is inquam processisset methodo analytica. Sed cum Monachus ut ferunt cum ? in pulverem pyrium incidisset, ejus vim cogitando conjunxit cum instrumentis ubi maxima vis desideratur, qualia sunt bellica : statim enim secum ratiocinatus de usu inventi a se pulveris, cogitavit maximum fore, si canali includi posset, et dirigi ictus in locum destinatum. Combinationem igitur inventi a se pulveris cum aliis rebus instituit, nempe cum re bellica. Ita inventum pyxidis nautica combinatorium potius quam analyticum esse credibile est ? .[^p572-2][^p572-1] Crediderim enim potius, hominem aliquem ingeniosum,
 
 [p. 573] 573
 
@@ -17765,9 +17765,9 @@ Inveni Canonem pro tollendis incognitis quotcunque aquationes non nisi simplici 
 
 Règle dite de Cramer pour la résolution d'un système d'équations simultanées du rer degré, et pour l'élimination des inconnues (au moyen de ce qu'on appelle à présent les déterminants). Cf. Specimen Analyseos novæ.... (MaтH., IV, 8) *.
 
-. V. La Logique de Leibniz, p. 295, note 4 . Cf. Lettre à l'auteur du Journal des Savants touchant le principe de justesse des po aboli ae de mo ruel puce menantes demontaie posa ole.
+. V. La Logique de Leibniz, p. 295, note 4 . Cf. Lettre à l'auteur du Journal des Savants touchant le principe de justesse des po aboli ae de mo ruel puce menantes demontaie posa ole.[^p573-2][^p573-1]
 
-horloges portatives de son invention, 1°r[^p573-1][^p573-2]
+horloges portatives de son invention, 1°r
 
 [p. 574] 574
 
@@ -17863,7 +17863,7 @@ Januar. 1676.
 
 Матн., III, B, 14, b (7 p. in-fol.).
 
-Матн., III,B, 14, b Mémoire, en français, daté du 7 janv. 1676, sur le calcul des partis (Leibniz cite au début le chevalier de « Meslé » *, Pascal et « Huguens »).[^p575-1][^p575-2]
+Матн., III,B, 14, b Mémoire, en français, daté du 7 janv. 1676, sur le calcul des partis (Leibniz cite au début le chevalier de « Meslé » *, Pascal et « Huguens »).[^p575-2][^p575-1]
 
 [p. 576] 576
 
@@ -17916,9 +17916,9 @@ quorum ratio esse dicitur, sint homogenea.
 
 Sed adhuc nova occurrit difficultas : est AB
 
-ad BC ut AE ad BF ? ; nec tamen recta ABC
+ad BC ut AE ad BF ?[^p576-1] ; nec tamen recta ABC
 
-est spatio AEC 3[^p576-1]
+est spatio AEC 3
 
 [p. 577] 577
 
@@ -18107,7 +18107,7 @@ MATH., IV, 13, b.
 
 De Examine per Abjectiones Novenarii pro Algebra ita perficiendo, ut vix unquam error contingere possit. . . . . . . . . . . . . .
 
-r. Cf. Maтн., I, 9, d[^p581-1][^p581-2]
+r. Cf. Maтн.[^p581-2][^p581-1], I, 9, d
 
 [p. 582] 582
 
@@ -18141,7 +18141,7 @@ Maтн., IV, 13, e (un coupon).
 
 Матн., IV, 13, е.
 
-Situs < Puncti > est modus determinandi distantiam ejus ab aliis quibuslibet, quorum distantia inter se invicem jam determinata est 3.[^p582-1][^p582-2][^p582-3]
+Situs < Puncti > est modus determinandi distantiam ejus ab aliis quibuslibet, quorum distantia inter se invicem jam determinata est 3.[^p582-3][^p582-2][^p582-1]
 
 [p. 583] 583
 
@@ -18169,7 +18169,7 @@ Video multos corum qui Geometriam quam vulgo Analyticam vocant, P. r.
 
 partem circa problemata rectilinea versantem satis intelligere sibi videntur, et de veterum recentiorumque inventis tenuius et de suis methodis magnificentius sentire quam par sit ; deceptos partim justo audacioribus magnorum autorum promissis ? , partim successu quem in minutis quibusdam problematibus experti sunt spe sua majorem : difficiliora autem rarò attingunt, soliti aliorum inventis frui, et interea blandiri sibi, quasi inventuri ipsi, si Diis placet, in quibus nemo alius praivisset. Credunt scilicet problema omne revocari à se posse eo ut unius tantum magnitudinis incognitæ sit opus, cujus relatio ad alias cognitas exprimi à se queat aquatione in qua incognita ad certum quendam ascendat gradum 3. Quo facto radicem aquationis quæsitam sive | per numeros appropinquantes P. z.
 
-sive per linearum, quas ipsi geometricas vocant, veteres autem locos appellabant, intersectiones exhiberi posse.[^p583-1][^p583-2][^p583-3]
+sive per linearum, quas ipsi geometricas vocant, veteres autem locos appellabant, intersectiones exhiberi posse.[^p583-3][^p583-2][^p583-1]
 
 [p. 584] 584
 
@@ -18375,9 +18375,9 @@ YUM Geometricis demonstrationibus jam evicerimus æquipollentia
 
 • omnium Hypothesium, in motibus quorumcunque < et quo cunque > corporum, quæ solis impressionibus corporeis moventur ;
 
-consequens est ne Angelum quidem discernere posse, in rigore Mathematico, quodnam ex pluribus < hujusmodi > corporibus quiescat, ac centrum sit motus cæterorum. Et sive corpora Liberè moveantur, sive concurrant inter se, ea est admiranda natura les, ut nullus oculus, in quocunque puncto materiæ ponatur, certis indiciis discernere possit ex phænomenis, ubinam et quantus qualisve sit motus ; circa ipsum Deus omnia an ipsummet agat : Et ut in summa dicam < (cum spatium sine materia res imaginaria sit >) Motus in rigore Mathematico nihil aliud est, quam mutatio situs corporum inter se, neque adeò absolutum quiddam est, sed in relatione consistit. Idque ex ipsa definitione loci Aristotelica jam consequitur, motus enim loci mutatio est, et locus est superficies ambientis ; qua mutata motus contigit, sive ambiens sive locatum quiescente altero discessisse ponatur.
+consequens est ne Angelum quidem discernere posse, in rigore Mathematico, quodnam ex pluribus < hujusmodi > corporibus quiescat, ac centrum sit motus cæterorum. Et sive corpora Liberè moveantur, sive concurrant inter se, ea est admiranda natura les, ut nullus oculus, in quocunque puncto materiæ ponatur, certis indiciis discernere possit ex phænomenis, ubinam et quantus qualisve sit motus ; circa ipsum Deus omnia an ipsummet agat : Et ut in summa dicam < (cum spatium sine materia res imaginaria sit >) Motus in rigore Mathematico nihil aliud est, quam mutatio situs corporum inter se, neque adeò absolutum quiddam est, sed in relatione consistit. Idque ex ipsa definitione loci Aristotelica jam consequitur, motus enim loci mutatio est, et locus est superficies ambientis ; qua mutata motus contigit, sive ambiens sive locatum quiescente altero discessisse ponatur.[^p590-3][^p590-2][^p590-1]
 
-Cum verò nihilominus homines motum et quietem assignent corporibus < etiam illis, quæ neque ab intelligentia, neque ab interno instinctu[^p590-1][^p590-2][^p590-3]
+Cum verò nihilominus homines motum et quietem assignent corporibus < etiam illis, quæ neque ab intelligentia, neque ab interno instinctu
 
 [p. 591] 591
 
@@ -18391,11 +18391,11 @@ respectu, una erit vera, altera falsa. < Ut proinde veram esse Hypothesin nil al
 
 dixisset Josua, sta terra.
 
-Itaque non est opus cum Marino Mersenno et Honorato Fabrio, viris licet doctis et religiosis, eo confugere, ut < tantum > provisionalis (si ita loqui licet) censura in eos stricta dicatur, qui Scripturam sacram populariter locutam contendunt, quasi aliquando demonstrato motu terræ contingere posset, ut declararet Ecclesia non aliter intelligi debere verba Scripturæ sacræ, quam illud poëta : provehimur portu, terræque urbesque recedunt '. Sed merito dicetur Scripturam sacram hoc loco servata et veritate et verborum proprietate locutam esse, nec tam sese | accommodare opinionibus hominum, quam potius reconditos P. 3.
+Itaque non est opus cum Marino Mersenno et Honorato Fabrio, viris licet doctis et religiosis, eo confugere, ut < tantum > provisionalis (si ita loqui licet) censura in eos stricta dicatur, qui Scripturam sacram populariter locutam contendunt, quasi aliquando demonstrato motu terræ contingere posset, ut declararet Ecclesia non aliter intelligi debere verba Scripturæ sacræ, quam illud poëta : provehimur portu, terræque urbesque recedunt '. Sed merito dicetur Scripturam sacram hoc loco servata et veritate et verborum proprietate locutam esse, nec tam sese | accommodare opinionibus hominum, quam potius reconditos P. 3.[^p591-1]
 
 ferre maximos omnigenæ sapientiæ thesauros, id enim dignius est
 
-Sed cum in theoria planetarum explicanda Hypothesis Copernicana mirificè illustret animum, et Harmoniam rerum pariter ac sapientiam creatoris pulcherrimè ostendat ; cæteræ autem innumeris tricis laborent, et omnia turbent miris modis, dicendum est, ut Sphæricam Ptolemaicam, ita vicissim Theoriam Copernicanam esse verissimam, id est maximè[^p591-1]
+Sed cum in theoria planetarum explicanda Hypothesis Copernicana mirificè illustret animum, et Harmoniam rerum pariter ac sapientiam creatoris pulcherrimè ostendat ; cæteræ autem innumeris tricis laborent, et omnia turbent miris modis, dicendum est, ut Sphæricam Ptolemaicam, ita vicissim Theoriam Copernicanam esse verissimam, id est maximè
 
 [p. 592] 592
 
@@ -18439,7 +18439,7 @@ duobus situm inter se mutantibus ascribendus sit motus : tum vero motus causa se
 
 NUM nuper apud illustres viros asseruissem Socraticam disseren
 
-• methodum, qualis in Platonicis dialogis expressa est, mihi præ tantem videri' : nam et veritatem animis familiari sermone instillari, et ipsum meditandi ordinem, qui à cognitis ad incognita procedit apparere, dum quisque *per se* nemine suggerente vera respondet, modò aptè interrogetur, rogatus sum ab illis, ut specimine edito rem tantæ utilitatis resuscitare conarer, qua ipso experimento ostendit indita mentibus scieniarum omnium semina esse. Excusavi me diu, fassus difficultatem re najorem quam credi possit ; facile enim esse dialogos scribere, quemad[^p594-1][^p594-2][^p594-3]
+• methodum, qualis in Platonicis dialogis expressa est, mihi præ tantem videri' : nam et veritatem animis familiari sermone instillari, et ipsum meditandi ordinem, qui à cognitis ad incognita procedit apparere, dum quisque *per se* nemine suggerente vera respondet, modò aptè interrogetur, rogatus sum ab illis, ut specimine edito rem tantæ utilitatis resuscitare conarer, qua ipso experimento ostendit indita mentibus scieniarum omnium semina esse.[^p594-3][^p594-2][^p594-1] Excusavi me diu, fassus difficultatem re najorem quam credi possit ; facile enim esse dialogos scribere, quemad
 
 [p. 595] 595
 
@@ -18491,7 +18491,7 @@ Scilicet contenti erimus solutione per partes ; fac tantum ne Charinum studio ar
 
 te docebis, hæc enim Socratica methodus est. — Ch. : Qui possim discere ab ignaro ? — Pacid. : Disces à te nec ab ignaro, plura enim scis, quam quorum meministi. Ego tantum reminiscendi eorum quæ scis, et inde ducendi quæ nescis occasionem dabo, et ut Socrates ajebat, gravido tibi atque parturienti obstetricio munere adero. — Ch. : Grave est, quod à me postulas, ut ignorantiam meam utcunque silendo tectam, prodam sermone. — Gall. : Si Pacidio credimus, scientiam tuam ipse mirabere.
 
-— Ch. : Quanquam magnus mihi sit autor Pacidius, præsentior tamen est conscientia mei. — Pacid. : Nondum expertus es, Charine, quid per te possis ; tentanda aliquando fortuna est, ut scias ipse quanti tibi esse debeas. — Theoph. : Age, Charine, permitte te nobis, neque intercede diutius utilitati tua ac voluptati nostra. — Ch. : Pareo vobis, quanquam periculo opinionis quam de me habere potuistis : quantulacunque[^p598-1]
+— Ch. : Quanquam magnus mihi sit autor Pacidius, præsentior tamen est conscientia mei. — Pacid. : Nondum expertus es, Charine, quid per te possis ; tentanda aliquando fortuna est, ut scias ipse quanti tibi esse debeas. — Theoph. : Age, Charine, permitte te nobis, neque intercede diutius utilitati tua ac voluptati nostra. — Ch.[^p598-1] : Pareo vobis, quanquam periculo opinionis quam de me habere potuistis : quantulacunque
 
 [p. 599] PACIDIUS PHILALETHI
 
@@ -18531,7 +18531,7 @@ quare tempus est ut sententiam < tuam > nobis edisseras. — Pac. : Si vobis obs
 
 - The. : Id nolim | equidem. - Pa. : Quare sententiam meam desiderare non debes. Charini est hortante me invenire veritatem, non a me quærere inventam. Neque enim illi fructum methodi, aut successus voluptatem invidere debemus. - Gall. : Fac obsecro ut gustare incipiamus quos narras fructus. — Pa. : Tentabo atque ita porro quæram : dic mihi, Charine, putasne aliquos esse mortuos, qui vixerant.
 
-- Ch. : Certum hoc est, quicquid argutemur. — Pa. : Desiitne aliquando vita ? — Ch. : Desiit. — Pa. : Ergone aliquod ultimum vitæ[^p600-1]
+- Ch. : Certum hoc est, quicquid argutemur. — Pa. : Desiitne aliquando vita ? — Ch. : Desiit. — Pa.[^p600-1] : Ergone aliquod ultimum vitæ
 
 [p. 601] PACIDIUS PHILALETHI
 
@@ -18623,9 +18623,9 @@ Quid si hoc tibi negem ? - Pac. : Poteris non sine exemplo nam et ex veteribus E
 
 alia opus autoritate, Charine, quam tua : sed hoc mihi responde : interspersa quies nonne est existentia corporis in codem loco per aliquem temporis tractum ? — Ch. : Certe. — Pacidius : Sunto ergo quietes interspersa, quaro an inter duas quietes < motui interspersas > aliquis intercedat motus. — Ch. : Utique nisi pro quietibus interspersis, continuam quietem velimus. — Pacid. : Motus intercedens aut < momentaneus est, aut aliquo temporis tractu durans. — Cha. : Non utique > momentaneus, alioqui corpus momento uno iret per spatium quoddam quod perinde est ac si ad saltus, supra vitatos, reverteremur. Esto enim tempus N.P. quo corpus GH transit ex loco AB in locum EF. sit tempus quietis MN, quo durante corpus hæret in loco AB et sic OP tempus quo hæret in loco CD erit utique NO tempus motus quo < corpus > transibit ex AB in CD et PQ tempus motus quo transibit ex CD in EG.
 
-Pono autem AC.CF intervalla esse non minima sed alia quæcunque, exempli gratia, centesimam pollicis partem | aliamve minorem aut majo- 14 recto.
+Pono autem AC.CF intervalla esse non minima sed alia quæcunque, exempli gratia, centesimam pollicis partem | aliamve minorem aut majo- 14 recto.[^p605-1]
 
-rem : utique tempora motuum quoque non momentanea sive minima, sed designabilia esse deberent ; alioqui vel nullus foret progressus, vel tempore aliquo minimo sive momento inter duas quietes posito, fieret saltus corporis < GH ex loco AB in locum CD > distantem, adeoque[^p605-1]
+rem : utique tempora motuum quoque non momentanea sive minima, sed designabilia esse deberent ; alioqui vel nullus foret progressus, vel tempore aliquo minimo sive momento inter duas quietes posito, fieret saltus corporis < GH ex loco AB in locum CD > distantem, adeoque
 
 [p. 606] 606
 
@@ -18818,7 +18818,7 @@ Constat tamen locum a mobili transmitti, sive aliquem esse motum. — Charin. : 
 
 Et > inter duas quietes ne ulla quidem motus continui portio quantu locunque tempore intercedit < alioqui de eo redirent priores difficultates. Ergo vel nil nisi quies erit, vel nec corpus omnino progredietur, sublatusque erit motus e natura ; vel inter quietes interponetur motus instantaneus per saltum, ita ut corpus quod aliquandiu quievit in hoc loco usque *ad hoc* momentum, proximo momento existere et quiescere incipiat in loco aliquo dissito, ita ut non transierit per loca intermedia >.
 
-— Ch. : Jam agnosco quo me adigas et vix tandem præcipitio vicinus periculum video. Effecisti præstigiis tuis, unum ut reliquum sit, corpus scilicet à loco in locum per saltum transire, quemadmodum si ego uno statim momento Romam transferrer : quoniam enim multum est tempus 26 recto. quo < motus continuus > duret, sequitur punctum mobile E | ubi lerit in loco A per tempus MN. transterri in locum B momento A ique permanere tempore NP. quo finito rursus momento P. transsili in C. unde sequi videtur uno momento N. punctum mobile esse simul in toto loco AB quemadmodum idem punctum E vicissim toto tempore M sive N. est in uno puncto A. Sed vide an non absurdum sit idem corpus simul in pluribus locis esse. — Pa. : < Qui saltum hunc admittent, non illud volent momento utriusque temporis communi N corpus esse in pluribus locis ; reciderent enim in difficultates superiores, si ali-[^p616-1]
+— Ch. : Jam agnosco quo me adigas et vix tandem præcipitio vicinus periculum video. Effecisti præstigiis tuis, unum ut reliquum sit, corpus scilicet à loco in locum per saltum transire, quemadmodum si ego uno statim momento Romam transferrer : quoniam enim multum est tempus 26 recto. quo < motus continuus > duret, sequitur punctum mobile E | ubi lerit in loco A per tempus MN. transterri in locum B momento A ique permanere tempore NP. quo finito rursus momento P. transsili in C. unde sequi videtur uno momento N. punctum mobile esse simul in toto loco AB quemadmodum idem punctum E vicissim toto tempore M sive N. est in uno puncto A. Sed vide an non absurdum sit idem corpus simul in pluribus locis esse. — Pa.[^p616-1] : < Qui saltum hunc admittent, non illud volent momento utriusque temporis communi N corpus esse in pluribus locis ; reciderent enim in difficultates superiores, si ali-
 
 [p. 617] 617
 
@@ -18928,7 +18928,7 @@ finis veteris aut initium novi statûs in corpore quovis ; non ideo tamen Mari.,
 
 admittetur aut corpus vel spatium in puncta dividi, aut tempus in momenta, quia indivisibilia non partes, sed partium extrema sunt ; quare etsi omnia subdividantur, non tamen in minima usque resolvuntur ! . — Gall. : Admirandam nobis exhibes ideam rerum, tantüm enim aberit, ut sint atomi, ut contrà potius in quolibet corpusculo quidam mundus sit rerum infinitarum quod hactenus nescio an satis sit consideratum. Itaque neque | in loco, neque in tempore quicquam vacuum admittis, neque in 29 verso.
 
-materia torpidum atque ut ita dicam expers vita. — Pa. : Ita est, Galluci, eamque ego sententiam solam dignam puto maximo rerum autore qui nihil sterile, nihil incultum, nihil inornatum reliquit. — Th. : Proecto facis ut obstupescam. Magnam rem dixisse visi sunt, qui infinito n spatio hoc Mundano stellarum globos, et in unoquoque glob < esse > mundum asseruêre ; tu in qualibet arenula non mundum tantum, sed et infinitos ostendis mundos. quo nescio an dici possit aliquid splendidius, ac magnitudini divinæ convenientius. — Pa. : Sed aliud velim à vobis animadverti, quod hic demonstratur corpora cum in motu sunt non agere. — Th. : Cur ita ? — Pa. : Quia nullum est momentum mutationis commune utrique statui, itaque nec ullus status est [passionis] < mutationis > ; sed aggregatum tantum duorum statuum, veteris et novi, itaque nec status actionis est in corpore, seu nullum potest assignari momentum quo agat, nam corpus < movendo ageret et > agendo < mutaretur seu > pateretur, at nullum est momentum passionis seu mutationis vel motus. in corpore. Itaque actio in corpore non nisi per aversionem quandam intelligi potest. Si < verò > ad vivum reseces < seu > si momentum unumquodque inspicias, nulla est. Hinc sequitur Actiones proprias et momentaneas, earum esse rerum qua agendo non mutantur. Ac proinde illa actio qua mobile ex una sphæra in aliam contiguam transfertur, seu qua efficitur, ut mobile quod uno momento fuit in una sphæra, proxime sequenti | sit in alia contigua, non ipsius est corporis transferendi E. id enim quo momento est in puncto B non est in motu, per supra ostensa, ergo nec agit motu ; similiter non agit cum jam est in momento D. Id ergo à quo movetur corpus et trans-[^p623-1]
+materia torpidum atque ut ita dicam expers vita. — Pa. : Ita est, Galluci, eamque ego sententiam solam dignam puto maximo rerum autore qui nihil sterile, nihil incultum, nihil inornatum reliquit. — Th. : Proecto facis ut obstupescam. Magnam rem dixisse visi sunt, qui infinito n spatio hoc Mundano stellarum globos, et in unoquoque glob < esse > mundum asseruêre ; tu in qualibet arenula non mundum tantum, sed et infinitos ostendis mundos. quo nescio an dici possit aliquid splendidius, ac magnitudini divinæ convenientius. — Pa. : Sed aliud velim à vobis animadverti, quod hic demonstratur corpora cum in motu sunt non agere. — Th. : Cur ita ? — Pa. : Quia nullum est momentum mutationis commune utrique statui, itaque nec ullus status est [passionis] < mutationis > ; sed aggregatum tantum duorum statuum, veteris et novi, itaque nec status actionis est in corpore, seu nullum potest assignari momentum quo agat, nam corpus < movendo ageret et > agendo < mutaretur seu > pateretur, at nullum est momentum passionis seu mutationis vel motus. in corpore. Itaque actio in corpore non nisi per aversionem quandam intelligi potest. Si < verò > ad vivum reseces < seu > si momentum unumquodque inspicias, nulla est. Hinc sequitur Actiones proprias et momentaneas, earum esse rerum qua agendo non mutantur. Ac proinde illa actio qua mobile ex una sphæra in aliam contiguam transfertur, seu qua efficitur, ut mobile quod uno momento fuit in una sphæra, proxime sequenti | sit in alia contigua, non ipsius est corporis transferendi E. id enim quo momento est in puncto B non est in motu, per supra ostensa, ergo nec agit motu ; similiter non agit cum jam est in momento D.[^p623-1] Id ergo à quo movetur corpus et trans-
 
 [p. 624] 624
 
@@ -18942,7 +18942,7 @@ tur corpus ex puncto B in corpus D, postquam momentum transitionis seu status me
 
 F. 31-32 (4 p. *in-4°*) : Copie du commencement du Pacidius Philalethi, de la main de Leibniz (reproduite dans les 5 premiers feuillets de la copie du secrétaire).
 
-F. 33-44 (23 p. *in-4°*) : Brouillon du Pacidius Philalethi. (Dial. Mot.)[^p624-1]
+F. 33-44 (23 p. *in-4°*) : Brouillon du Pacidius Philalethi. (Dial. Mot.[^p624-1])
 
 [p. 625] 625
 
@@ -18986,7 +18986,7 @@ Hæc cum pietate insignis et studio ardens dixisset senes, omnes, Alethophile, i
 
 onsensus apparuit sapientum, et multa ex Theologorum mysterii "heophilus, multa ex Hermeticorum atque Pythagoræorum arcanis Ga !
 
-nsissemus, data acceptaque arcani fide (quædam enim dicta erar tro citroque, quæ huc transferri non possunt, quod non omnes i digni aut certè pauci maturi atque præparati videantur), colloquium sanè diutissimum finivimus. Ego postero mane sumto calamo dum caleret animus recente memoria hoc tibi pariter ac mihi, Alethophile, exaravi, ametsi animam illis infundere non potuerim qua loquentium vultu a notu habent collationes, alioquin argumenti siccitate languentes [His s placet fruere ac Vale.[^p627-1][^p627-2]
+nsissemus, data acceptaque arcani fide (quædam enim dicta erar tro citroque, quæ huc transferri non possunt, quod non omnes i digni aut certè pauci maturi atque præparati videantur), colloquium sanè diutissimum finivimus. Ego postero mane sumto calamo dum caleret animus recente memoria hoc tibi pariter ac mihi, Alethophile, exaravi, ametsi animam illis infundere non potuerim qua loquentium vultu a notu habent collationes, alioquin argumenti siccitate languentes [His s placet fruere ac Vale.[^p627-2][^p627-1]
 
 [p. 628] 628
 
@@ -19122,11 +19122,11 @@ Adjectivum : 185, 243, 244, 282, 287, 490, 495, 499, 503, 509, 5I2.
 
 289, 290,356, 423, 433.
 
-Accommodare : 502.
+Accommodare : 502.[^p629-1]
 
 Adjectum (secundi, tertii adjecti) : 301,
 
-391-393-[^p629-1]
+391-393-
 
 [p. 630] 630
 
@@ -25390,7 +25390,7 @@ menta veritatis æternæ » ; 21 ; VII, C, 5ı ; 80 ; 99-100 ; 10 : .
 
 f. 54 ; VII, B, II, 44 ; 57-58 ; VI, 10, c, 13.
 
-PE V, 3, 8, 2 De sur avent (02 8. Vre la redi Theoremata[^p670-1]
+PE V, 3, 8, 2 De sur avent (02 8.[^p670-1] Vre la redi Theoremata
 
 [p. 671] CLASSIFICATION SYSTÉMATIQUE DES FRAGMENTS INÉDITS
 

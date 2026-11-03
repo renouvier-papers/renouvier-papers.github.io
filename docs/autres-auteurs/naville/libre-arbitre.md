@@ -4,7 +4,9 @@
 
 ---
 
-[p. V] PREFACE THÈQUE DE YON 99 : 1899 LA
+## Préface
+
+[p. V]
 
 La question du libre arbitre a toujours figuré dans le programme de la philosophie ( [^pV-1]) ; mais jamais peut- être les discussions qu'elle suscite n'ont été établies aussi bien qu'à notre époque sur une base sérieusement scientifique . Il importe de bien entendre la nature et la portée du problème . Tout ce que l'homme fait, en dehors des mouvements purement instinctifs, est le produit de sa volonté . Mais concevoir la volonté comme un pouvoir libre, créateur unique de ses actes , admettre ce qu'on appelle la li- berté d'indifférence , est une erreur qu'une étude un peu attentive de la psychologie fait promptement rejeter . Une volition dont un acte résulte est un fait qui a des facteurs nombreux, et qui donne lieu à de délicates analyses . Le pouvoir d'agir se trouve toujours en pré- sence des mobiles de la sensibilité et des motifs de l'intelligence , et les motifs ne deviennent des mobiles que dans la mesure où ils créent des désirs . L'idée
 

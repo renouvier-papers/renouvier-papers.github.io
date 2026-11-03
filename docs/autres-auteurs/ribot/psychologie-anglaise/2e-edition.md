@@ -352,9 +352,9 @@ Hartley, James Mill, et à beaucoup d'égards Stuart Mill représentent , comme 
 
 d'éclat. Depuis Locke, et même avant lui, l'étude empirique des faits de conscience a toujours été en faveur chez les Anglais : aucun peuple n'a fait autant pour la psychologie considérée indépendamment de toute métaphysique. Si l'on veut bien, en effet, jeter les yeux sur les trois ou quatre peuples de l'Europe moderne, qui seuls ont eu un développement philosophique, à part l'Allemagne qui est apte à tout [^p55-2] , quoiqu'elle aime surtout la métaphysique, on [p. 56] verra qu'en Italie la psychologie expérimentale est pauvre, presque nulle, parce que cette race imaginative, légère, tout en dehors, y répugne d'instinct ; qu'en France elle tourne vite à la logique, parce que nous aimons trop peu l'observation patiente, les exceptions, les faits accumulés, et que nous aimons trop les compartiments, les divisions et subdivisions, l'ordre, la symétrie, les formules brèves et tranchantes . En Angleterre, elle est naturelle ; elle est le résultat tout simple de cette disposition à la vie intérieure, au reploiement sur soi-même d'où sont sortis la poésie et le roman intimes . L'école anglaise contemporaine continue donc une tradition non interrompue qui, par Brown, se soude à l'école écossaise, et par James Mill, rejoint Hartley et Hume : elle tient surtout de ces derniers .
 
-Comme notre étude a pour objet les contemporains, nous ne remonterons pas au commencement du xixe siècle. Comme elle n'a pour objet que l'école expérimentale, nous laisserons en dehors des noms illustres, Hamilton , Mansel, Ferrier, etc. , plus métaphysiciens d'ailleurs ou logiciens que psychologues .
+Comme notre étude a pour objet les contemporains, nous ne remonterons pas au commencement du xixe siècle. Comme elle n'a pour objet que l'école expérimentale, nous laisserons en dehors des noms illustres, Hamilton , Mansel, Ferrier, etc. , plus métaphysiciens d'ailleurs ou logiciens que psychologues .[^p56-3][^p56-2][^p56-1]
 
-James Mill semblerait exclu par la date de sa mort[^p56-1][^p56-2][^p56-3]
+James Mill semblerait exclu par la date de sa mort
 
 [p. 57] Ce livre sur lequel, à notre connaissance, il n'existe en France aucune étude, est curieux par sa date. Il est de ceux qui sont à la fois trop neufs et trop peu neufs pour obtenir un grand succès. C'est une œuvre de transition qui n'est bien comprise qu'après . Net, lucide, méthodique, bien composé, l'ouvrage pèche peut-être par défaut d'ampleur, par insuffisance de développement. Or, l'opinion ne comprend une doctrine et surtout ne l'accepte qu'à force de l'entendre répéter. Les travaux contemporains, dirigés dans le même sens, mais moins concis et plus au courant des sciences, semblent lui avoir donné une valeur rétrospective .
 
@@ -488,7 +488,7 @@ Nous passons maintenant aux opérations qui nous donnent Jes notions abstraites 
 
 La classification est le procédé de l'esprit par lequel nous réunissons les objets de nos sens et de nos idées en certains agrégats appelés classes [^p70-1]. Mais en quoi consiste ce procédé par lequel formant les individus en classes, séparant tels et tels des autres , « nous les considérons sous une certaine idée d'unité comme étant quelque chose en ellesmêmes . » Il a été considéré comme une chose « mystérieuse, » il a été « expliqué mystérieusement, » exposé dans un « jargon mystique, » et a causé des siècles de combats entre les réalistes et les nominalistes . M. James Mill l'explique uniquement par le moyen du mot et de l'association des idées ; voici comment :
 
-« Le mot homme est d'abord appliqué à un individu ; il est d'abord associé à l'idée de cet individu et acquiert la faculté d'en éveiller l'idée. Il est ensuite appliqué à un autre individu et acquiert la faculté d'en éveiller l'idée ; et ainsi de suite jusqu'à ce qu'il ait acquis la faculté d'éveiller un nombre infini de ces idées, indifféremment. Qu'arrive-t-il ? C'est que toutes les fois qu'il se présente, il éveille un nombre infini d'idées de ces individus ; et comme il les éveille en[^p70-2]
+« Le mot homme est d'abord appliqué à un individu ; il est d'abord associé à l'idée de cet individu et acquiert la faculté d'en éveiller l'idée. Il est ensuite appliqué à un autre individu et acquiert la faculté d'en éveiller l'idée ; et ainsi de suite jusqu'à ce qu'il ait acquis la faculté d'éveiller un nombre infini de ces idées, indifféremment. Qu'arrive-t-il ?[^p70-2] C'est que toutes les fois qu'il se présente, il éveille un nombre infini d'idées de ces individus ; et comme il les éveille en
 
 [p. 71] combinaison étroite, il en forme une espèce d'idées complexe. » « De là résulte que le mot homme n'est ni un mot répondant à une simple idée, ce qui était l'opinion des réalistes ; ni un mot ne répondant à aucune idée, ce qui était l'opinion des nominalistes ; mais un mot éveillant un nombre infini d'idées, par les lois irrésistibles de la sensation et en formant une idée très-complexe et indistincte, mais non pas intelligible pour cela. »
 
@@ -952,7 +952,7 @@ Parmi nos sensations, nous avons coutume de considérer les unes surtout subject
 
 « La différence entre ces deux classes de nos sensations répond à la distinction faite, par la majorité des philosophes, entre les qualités secondes et les qualités premières de la matière . »
 
-Les qualités premières sont pour M. Mill la résistance , l'étendue et la figure. Ce sont les trois éléments principaux de tous les groupes ; partout où ils sont, il y a groupe ; tout autre élément du groupe se présente à notre pensée, moins pour ce qu'il est, que comme marque de ces trois éléments . Dans ce groupe de possibilités permanentes de sensation que nous appelons objet, la possibilité permanente de sensations tactiles et musculaires forme un groupe dans le groupe, une sorte de noyau intérieur, conçu comme plus fondamental que le reste, et dont toutes les autres possibilités de sensation renfermées dans le groupe semblent dé[^p122-2]
+Les qualités premières sont pour M. Mill la résistance , l'étendue et la figure. Ce sont les trois éléments principaux de tous les groupes ; partout où ils sont, il y a groupe ; tout autre élément du groupe se présente à notre pensée, moins pour ce qu'il est, que comme marque de ces trois éléments .[^p122-2] Dans ce groupe de possibilités permanentes de sensation que nous appelons objet, la possibilité permanente de sensations tactiles et musculaires forme un groupe dans le groupe, une sorte de noyau intérieur, conçu comme plus fondamental que le reste, et dont toutes les autres possibilités de sensation renfermées dans le groupe semblent dé
 
 [p. 123] J. STUART MILL pendre. Ce noyau, considéré quelquefois comme cause ou substance, est notre conception finale de la matière, laquelle se réduit ainsi à la résistance, l'étendue et la figure .
 
@@ -986,7 +986,7 @@ La psychologie doit, maintenant ou plus tard, pouvoir expliquer au moyen des loi
 
 Les lois des phénomènes de l'esprit sont analogues tantôt aux lois mécaniques , tantôt aux lois chimiques . Comme exemple de combinaison mentale, on peut citer la couleur blanche résultant de la succession rapide des sept couleurs du prisme devant notre œil. Au contraire l'idée d'une orange résulte réellement des idées simples de couleur, forme,
 
-goût, etc., parce qu'en interrogeant notre conscience , nous pouvons discerner tous ces sentiments dans notre idée . Il se présente donc des cas de chimie mentale où il est plus exact de dire que les idées simples produisent les idées complexes, que de dire qu'elles les composent (2). Aussi la connaissance des éléments constitutifs d'un fait complexe, en chimie psychologique, ne dispense pas plus[^p126-2]
+goût, etc., parce qu'en interrogeant notre conscience , nous pouvons discerner tous ces sentiments dans notre idée . Il se présente donc des cas de chimie mentale où il est plus exact de dire que les idées simples produisent les idées complexes, que de dire qu'elles les composent [^p126-2]. Aussi la connaissance des éléments constitutifs d'un fait complexe, en chimie psychologique, ne dispense pas plus
 
 [p. 127] d'étudier le fait lui-même, que la connaissance des propriétés de l'oxygène et du soufre ne nous dispense d'étudier celles de l'acide sulfurique.
 
@@ -1726,9 +1726,9 @@ Si nous passons maintenant de l'étude synthétique à l'étude analytique des p
 
 L'idée fondamentale qui domine la psychologie analytique de M. Herbert Spencer, c'est qu'il existe entre tous les phénomènes de l'intelligence une unité de composition . Il y a identité de nature entre le procédé que suit le savant dans ses raisonnements les plus longs, les plus compliqués, et celui par lequel une conscience naissante s'essaie à la pensée . Tous deux consistent à saisir des ressemblances et des différences , seulement le savant en aperçoit des centaines, des milliers, là où l'enfant et l'animal n'en voient qu'un petit nombre. Il n'y a donc qu'une différence de degré . Toute l'œuvre de la psychologie analytique , c'est de prouver cette vérité ou, pour mieux parler, de la découvrir ; car c'est un voyage de découverte .
 
-Son résultat dernier, c'est que la vie intellectuelle consiste en deux procédés fondamentaux : l'un qui unifie, l'autre qui différencie ; l'un qui saisit les analogies, égalités, identités , l'autre qui s'attache aux oppositions et aux contrastes ; l'un qui assimile les impressions, l'autre qui les désassimile ; l'un qui consiste en une intégration, l'autre en une désintégration .
+Son résultat dernier, c'est que la vie intellectuelle consiste en deux procédés fondamentaux : l'un qui unifie, l'autre qui différencie ; l'un qui saisit les analogies, égalités, identités , l'autre qui s'attache aux oppositions et aux contrastes ; l'un qui assimile les impressions, l'autre qui les désassimile ; l'un qui consiste en une intégration, l'autre en une désintégration .[^p221-1]
 
-Voyons comment l'auteur arrive à ce résultat ; comment il établit cette unité de composition des phénomènes intellectuels ; et comment ce double processus , par son jeu[^p221-1]
+Voyons comment l'auteur arrive à ce résultat ; comment il établit cette unité de composition des phénomènes intellectuels ; et comment ce double processus , par son jeu
 
 [p. 222] incessant et ses complications innombrables, constitue notre vie mentale.
 
@@ -1870,7 +1870,7 @@ La justification positive du réalisme suppose d'abord la détermination d'un cr
 
 Il reprend donc sur cette base la discussion contre l'idéalisme. La justification positive du réalisme consiste à montrer que l'antithèse du sujet et de l'objet « est un produit d'actes réguliers de la pensée comme ceux qui établissent les vérités que nous tenons pour certaines au plus haut point .
 
-» Cette antithèse du sujet et de l'objet est établie par une longue analyse, qui aboutit à ce résultat que nous avons deux séries d'états de conscience à peu près parallèles , que M. Herbert Spencer appelle l'agrégat vif (le monde extérieur) et l'agrégat faible (notre conscience purement subjective) . Ces deux séries sont relativement cohérentes en elles-mêmes , et relativement incohérentes l'une par rapport à l'autre . Il a résumé d'ailleurs , dans le tableau suivant, cette opposition du sujet et de l'objet ramenés à des états de conscience [^p240-1]
+» Cette antithèse du sujet et de l'objet est établie par une longue analyse, qui aboutit à ce résultat que nous avons deux séries d'états de conscience à peu près parallèles , que M. Herbert Spencer appelle l'agrégat vif (le monde extérieur) et l'agrégat faible (notre conscience purement subjective) . Ces deux séries sont relativement cohérentes en elles-mêmes , et relativement incohérentes l'une par rapport à l'autre .[^p240-1] Il a résumé d'ailleurs , dans le tableau suivant, cette opposition du sujet et de l'objet ramenés à des états de conscience
 
 [p. 241] ÉTATS DE LA SECONDE CLASSE.
 
@@ -1938,7 +1938,7 @@ Or, c'est là ce qui se passe dans l'acte de perception. Le groupe des effets su
 
 Telle est, sous une forme très-sommaire et réduite à ce qu'elle a de plus essentiel, la psychologie de M. Herbert Spencer . Essayons de la résumer, en nous bornant à ce qui est essentiellement psychologique .
 
-On pourrait donner ce titre à la partie synthétique tout entière : Genèse de la vie psychologique. Par sa rigueur d'enchaînement et la nouveauté de sa méthode, elle nous paraît une des parties les plus originales du livre. C'est le premier essai vraiment scientifique d'une histoire des phases diverses que parcourt l'évolution de la vie mentale . Si on la rapproche par la pensée des tentatives de Locke et de Condillac sur ce sujet, la genèse sensualiste paraîtra d'une simplicité enfantine. L'auteur, prenant la vie psychologique à son plus bas degré , l'amène par additions succes[^p242-1]
+On pourrait donner ce titre à la partie synthétique tout entière : Genèse de la vie psychologique. Par sa rigueur d'enchaînement et la nouveauté de sa méthode, elle nous paraît une des parties les plus originales du livre. C'est le premier essai vraiment scientifique d'une histoire des phases diverses que parcourt l'évolution de la vie mentale . Si on la rapproche par la pensée des tentatives de Locke et de Condillac sur ce sujet, la genèse sensualiste paraîtra d'une simplicité enfantine.[^p242-1] L'auteur, prenant la vie psychologique à son plus bas degré , l'amène par additions succes
 
 [p. 243] sives à sa plénitude ; son caractère fondamental , c'est d'être une correspondance, qui, à mesure qu'elle se complète, reproduit subjectivement la réalité objective du monde. Elle est successivement directe et homogène , directe et hétérogène ; elle s'étend à l'espace, au temps ; elle croît en spécialité, en généralité, en complexité ; elle coordonne enfin ses divers éléments et produit ainsi une intégration , c'est-à-dire une fusion d'éléments originairement séparés .
 
@@ -2292,7 +2292,7 @@ Les attributs primitifs et fondamentaux de l'intelligence sont
 
 [p. 275] M. BAIN sens de la différence ou discrimination ; il consiste à voir que deux sensations sont différentes en nature ou en intensité. Pour bien comprendre la pensée de l'auteur, remarquons que la conscience ne se produit que par le changement . Tant que l'être vivant n'a pas de conscience, il vit de la vie purement physiologique. Si nous imaginons en lui une seule et invariable sensation, il n'y a pas encore conscience . S'il y a deux sensations successives et entre elles une différence de nature, moins encore, un simple hiatus entre deux moments d'une même sensation, moins encore, une différence d'intensité, alors il se produit une conscience plus ou moins claire : la vie psychologique est née . Il nous est impossible d'être conscients, sans éprouver des transitions ou des changements . Il y a en nous des changements qui sont faibles ou même nuls, sous le rapport du plaisir ou de la peine, mais qui sont importants comme transitions , c'est-à-dire comme différences .
 
-La discrimination est le fondement de l'association par contraste.[^p275-1][^p275-2]
+La discrimination est le fondement de l'association par contraste.[^p275-2][^p275-1]
 
 [p. 276] M. BAIN la conscience de la ressemblance (agreement) . Une impression qui dure constamment, sans variations, cesse de nous affecter ; mais s'il s'en produit une autre et que cette première impression revienne ensuite, alors nous le reconnaissons , nous avons conscience d'une ressemblance . C'est grâce à ce pouvoir de reconnaître le semblable dans le dissemblable , que se produit ce que nous appelons idées générales , principes .
 
@@ -2328,7 +2328,7 @@ successives .
 
 2. Par ressemblance .
 
-II . Associations composées .[^p278-1][^p278-2][^p278-3]
+II . Associations composées .[^p278-3][^p278-2][^p278-1]
 
 [p. 279] M. BAIN avec distance , etc.) . Donnons un exemple de l'un et de l'autre cas [^p279-1] .
 
@@ -2508,7 +2508,7 @@ intellectuels se ramènent à un mode particulier d'association ? Spinoza, on le
 
 Cette loi de diffusion fait que l'émotion se transmet par ondulations au cœur , à l'estomac , aux viscères , et se manifeste par les traits de la physionomie, par la contenance, etc. , etc. « Elle constitue un appui considérable à la doctrine de l'unité de la conscience . Plusieurs excitations nerveuses peuvent bien coexister ; mais elles ne peuvent affecter la conscience que successivement, chacune à son tour . »
 
-C'est sur ces manifestations extérieures des émotions , sur leurs résultats et leurs caractères subjectifs qu'est fondée, comme nous venons de le voir, leur classification . L'auteur reconnaît les onze classes suivantes [^p293-3] : [^p293-2]
+C'est sur ces manifestations extérieures des émotions , sur leurs résultats et leurs caractères subjectifs qu'est fondée, comme nous venons de le voir, leur classification .[^p293-2] L'auteur reconnaît les onze classes suivantes [^p293-3] :
 
 [p. 294] M. BAIN de conflit . Nous sommes exposés à une pluralité de sensations ; quand elles s'accordent il y a plaisir ; quand elles se contrarient il y a peine. Les courants nerveux conspirent au même but, dans le premier cas, et l'énergie est économisée ; dans le second cas, elle est dépensée, parce que les courants se combattent .
 
@@ -2518,7 +2518,7 @@ C'est sur ces manifestations extérieures des émotions , sur leurs résultats e
 
 3. La terreur et tout ce qui s'y rapporte : timidité , superstition, crainte panique, effroi religieux. Ces émotions relâchent les muscles, affaiblissent les fonctions digestives , agissent sur la peau, les yeux, les cheveux .
 
-4. Les émotions tendres : affections bienveillantes , reconnaissance, amour, pitié , vénération. Physiquement, elles agissent surtout sur la glande lacrymale. Mentalement, elles sont capables de continuité, surtout lorsqu'elles sont peu intenses .[^p294-1][^p294-2][^p294-3]
+4. Les émotions tendres : affections bienveillantes , reconnaissance, amour, pitié , vénération. Physiquement, elles agissent surtout sur la glande lacrymale. Mentalement, elles sont capables de continuité, surtout lorsqu'elles sont peu intenses .[^p294-3][^p294-2][^p294-1]
 
 [p. 295] M. BAIN gendrant un plaisir comme dans le cas des émotions tendres, nous avons ici une souffrance qui aboutit à une souffrance . >
 
@@ -2588,9 +2588,9 @@ l'a moins préoccupé que M. Bain ; peut- être n'en a-t-il que mieux réussi ; 
 
 il l'a considéré comme le moment d'un tout, dont on ne peut le séparer.
 
-Quand on demaude d'où résulte le rire, on répond ordinairement , d'une disconvenance. En admettant que cette réponse ne souffre aucune objection, il faut admettre pourtant qu'elle entame à peine le problème, puisque la vraie difficulté est celle-ci : Pourquoi quand nous éprouvons un vif plaisir , quand nous sommes frappés d'un contraste inattendu entre des idées, se produit-il une contraction particulière des muscles de la face et de certains muscles de la poitrine et de l'abdomen ? La physiologie seule peut nous répondre .
+Quand on demaude d'où résulte le rire, on répond ordinairement , d'une disconvenance. En admettant que cette réponse ne souffre aucune objection, il faut admettre pourtant qu'elle entame à peine le problème, puisque la vraie difficulté est celle-ci : Pourquoi quand nous éprouvons un vif plaisir , quand nous sommes frappés d'un contraste inattendu entre des idées, se produit-il une contraction particulière des muscles de la face et de certains muscles de la poitrine et de l'abdomen ? La physiologie seule peut nous répondre .[^p301-2][^p301-1]
 
-Elle nous apprend qu'il est de la nature de la force nerveuse de se dépenser, de se décharger de l'une des manières suivantes[^p301-1][^p301-2]
+Elle nous apprend qu'il est de la nature de la force nerveuse de se dépenser, de se décharger de l'une des manières suivantes
 
 [p. 302] M. BAIN De là l'influence des émotions sur le cœur et les organes digestifs .
 
@@ -2664,7 +2664,7 @@ Il est remarquable qu'en France la marche suivie dans l'étude de la volonté a 
 
 [p. 310] M. BAIN conditions et de ses résultats , de ce qui le précède et de ce qui le suit, qu'on l'a réduit à un point mathématique, à un moment presque insaisissable , qui n'a plus de réalité. Les théories courantes, en effet, ramenées à ce qu'elles ont de commun et d'essentiel , distinguent trois moments dans l'acte volontaire : la production des motifs et leur conflit, la résolution , l'action qui la traduit. On ne s'occupe ni du premier ni du troisième, parce qu'ils appartiennent, dit-on , soit à l'intelligence, soit à la physiologie ; et l'on se retranche dans le second exclusivement, pour en faire toute la volonté . De là des questions factices et des assertions étranges ; par exemple, que la volonté « est égale chez tous les hommes , » ce qui est en désaccord complet avec les faits, mais en accord parfait avec cette abstraction qu'on a substituée à la réalité . Ici , comme partout , l'important était de bien poser la question ; mais la méthode des facultés n'a pas peu contribué à séparer ce qu'il ne fallait pas désunir, et à produire ainsi une fausse interprétation des faits . Les suivre dans leur développement, ce n'est donc pas seulement être plus complet, mais aussi plus exact ; c'est rectifier une erreur ; car n'est- ce pas erreur qu'une portion de vérité ?
 
-Le tableau de la genèse de nos volitions retracée par M. Bain, peut se réduire aux points suivants : [^p310-1][^p310-2][^p310-3][^p310-4]
+Le tableau de la genèse de nos volitions retracée par M.[^p310-4][^p310-3][^p310-2][^p310-1] Bain, peut se réduire aux points suivants :
 
 [p. 311] spontanée, et le lien qui existe entre nos sentiments et les actions qui les traduisent .
 
@@ -2998,7 +2998,7 @@ L'école de la sensation a grandement obscurci la ques
 
 Ce n'est pas tout : il faut tenir compte aussi de l'hérédité. La biologie nous apprend que l'organisme sensible hérite de certaines aptitudes de ses parents, tout comme de leur structure, de sorte qu'on peut dire que l'individu résume l'expérience de la race. Les facultés s'accroissent dans le développement de la race. Les formes de la pensée qui sont des parties essentielles du mécanisme de l'expérience , se développent tout comme les formes des autres fonctions vitales. En fait, comme la fonction n'est que la forme d'activité d'un organe, il est clair que si l'organe se développe, la fonction se développe et avec elle les lois de son action .
 
-Pour l'esprit, comme pour le corps, il n'y a point préformation ou préexistence, mais évolution et épigénèse . L'erreur de Kant et de ceux qui ont procédé comme lui , c'est de confondre l'anatomie avec la morphologie et la logique avec la psychologie. Prenant l'esprit humain adulte, ils ont considéré ses formes constitutives comme des conditions initiales . Ils disent : ces formes sont impliquées dans les expériences particulières . Accordé ; car si elles n'étaient pas impliquées, on n'aurait pu les en tirer. Ce procédé est parfait pour la logique, qui a à montrer les formes de la pensée, non leur origne. Mais la question d'expérience est une question d'origine, et la psychologie nous révèle que l'expérience est le tissu spontanément tissé de la pensée,[^p343-1]
+Pour l'esprit, comme pour le corps, il n'y a point préformation ou préexistence, mais évolution et épigénèse . L'erreur de Kant et de ceux qui ont procédé comme lui , c'est de confondre l'anatomie avec la morphologie et la logique avec la psychologie. Prenant l'esprit humain adulte, ils ont considéré ses formes constitutives comme des conditions initiales . Ils disent : ces formes sont impliquées dans les expériences particulières . Accordé ; car si elles n'étaient pas impliquées, on n'aurait pu les en tirer. Ce procédé est parfait pour la logique, qui a à montrer les formes de la pensée, non leur origne.[^p343-1] Mais la question d'expérience est une question d'origine, et la psychologie nous révèle que l'expérience est le tissu spontanément tissé de la pensée,
 
 [p. 344] M. GEORGES LEWES dont chaque fil est une expérience. Des gens qui raisonnent à priori considèrent le type vertébré comme la forme nécessaire qui rend le vertébré possible. Anatomiquement cela est acceptable. Mais que dit la morphologie ? Elle montre que la forme typique sort des phases successives du développement de l'animal. Evidemment l'idée de préexistence est une fiction, c'est simplement un ὕστερον προτέρον .
 
@@ -3648,7 +3648,7 @@ Il est bien remarquable, en effet, que tandis qu'en France nos plus volumineuses
 
 ## Conclusion
 
-lement à réimprimer sur ces questions quelques phrases de Condillac , les physiologistes anglais sont au courant des plus récents travaux psychologiques et y contribuent pour leur part . Si j'ouvre Carpenter [^p416-2] je vois qu'il parle à beaucoup d'égards, comme Herbert Spencer ou Bain : « L'objet de la psychologie , c'est de rassembler sous une forme systématique les phénomènes qui se produisent naturellement dans les esprits pensants, de les classer et de les comparer, de façon à en déduire les lois générales suivant lesquels ils se produisent et leurs causes assignables. » Il compare la querelle des spiritualistes et des matérialistes aux deux chevaliers qui se battaient pour la couleur d'un écu qu'aucun deux n'avait jamais pu voir ; et il ajoute : « L'esprit a été étudié par les métaphysiciens, sans s'occuper en rien de ses instruments matériels ; tandis que le cerveau a été disséqué par les anatomistes et analysé par les chimistes, comme s'ils espéraient dessiner le cours de la pensée, peser ou mesurer l'intensité des émotions » . Sa récente Physiologie mentale[^p416-1]
+lement à réimprimer sur ces questions quelques phrases de Condillac , les physiologistes anglais sont au courant des plus récents travaux psychologiques et y contribuent pour leur part . Si j'ouvre Carpenter [^p416-2] je vois qu'il parle à beaucoup d'égards, comme Herbert Spencer ou Bain : « L'objet de la psychologie , c'est de rassembler sous une forme systématique les phénomènes qui se produisent naturellement dans les esprits pensants, de les classer et de les comparer, de façon à en déduire les lois générales suivant lesquels ils se produisent et leurs causes assignables. » Il compare la querelle des spiritualistes et des matérialistes aux deux chevaliers qui se battaient pour la couleur d'un écu qu'aucun deux n'avait jamais pu voir ; et il ajoute : « L'esprit a été étudié par les métaphysiciens, sans s'occuper en rien de ses instruments matériels ; tandis que le cerveau a été disséqué par les anatomistes et analysé par les chimistes, comme s'ils espéraient dessiner le cours de la pensée, peser ou mesurer l'intensité des émotions » .[^p416-1] Sa récente Physiologie mentale
 
 [p. 417] réflexe du cerveau ( 1844) . Cette théorie qui a donné lieu de sa part à une revendication de priorité [^p417-1] joue, comme nous l'avons vu, un rôle important dans les plus récents travaux .
 

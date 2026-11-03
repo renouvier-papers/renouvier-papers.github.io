@@ -74,7 +74,7 @@ et la représentation . Plusieurs auteurs récents l'ont bien montré (1.) .
 
 La perception est par excellence la faculté de connaître le concret . Elle vise à embrasser la totalité des caractères de son objet, sans y parvenir complètement, parce qu'elle est tenue en échec par un ennemi intérieur : la tendance naturelle de l'esprit à simplifier, à éliminer. Le même cheval, au même moment,
 
-n'est pas perçu de la même manière par un maquignon, un vétérinaire, un peintre , un profane. Pour chacun d'eux, telles qualités , qui varient de[^p8-1]
+n'est pas perçu de la même manière par un maquignon, un vétérinaire, un peintre , un profane.[^p8-1] Pour chacun d'eux, telles qualités , qui varient de
 
 [p. 9] l'un à l'autre , sont en relief, et telles autres sont dans l'ombre . Sauf les cas d'investigation prolongée , méthodique (et alors c'est observer et non plus percevoir) , il se produit toujours une sélection inconsciente de quelques caractères principaux qui , groupés , deviennent un substitut de la totalité . Il ne faut pas oublier que la perception est avant tout une opération pratique , qu'elle a pour premier moteur l'intérêt ou l'utilité ; que , par suite , nous négligeons c'est-à-dire que nous laissons dans le champ de la conscience obscure
 
@@ -774,9 +774,9 @@ Ainsi, on nous dit : la parole est un produit nécessaire auquel n'ont part ni l
 
 : << le langage n'est ni une invention ni un produit inné ; l'homme le crée lui-même, mais ce n'est pas l'esprit réfléchi qui en est l'auteur. » A travers toutes ces formules et d'autres, quelque peu empreintes de mysticisme, on ne peut guère découvrir qu'une position de fait, analogue à celle qui constate qu'il est dans la nature de l'abeille de fabriquer des rayons et dans celle de l'araignée de tisser des toiles . Le dernier mot de l'énigme est dans une activité inconsciente et, directement ou par des détours, il faut bien en revenir à l'innéité .
 
-Une théorie assez récente , celle de L. Noiré [^p71-1], se distingue des précédentes . Pour celles-ci, la parole est l'expression immédiate (inconsciente, il est vrai) de l'intelligence ; pour Noiré , au contraire, la parole est fille de la volonté : « Le langage est le résultat de l'association , de la communauté de sentiment, d'une activité sympathique qui, à l'origine , était accompagnée de sons ... ; il est l'enfant de la volonté et non pas dela sensation . » La parole est sortie de la communauté d'action, de la collaboration des hommes primitifs , de la mise en commun de leurs activités . Quand nos muscles sont en action, nous sentons un soulagement à émettre des sons. Les hommes qui travaillent ensemble , les paysans qui bêchent ou battent le blé, les marins qui rament , les soldats qui marchent, émettent des articulations plus ou moins vibrantes , des bruits , exclamations , bourdonnements, chants, etc. Or ces sons offrent les caractères requis pour constituer le langage articulé ;
+Une théorie assez récente , celle de L. Noiré [^p71-1], se distingue des précédentes . Pour celles-ci, la parole est l'expression immédiate (inconsciente, il est vrai) de l'intelligence ; pour Noiré , au contraire, la parole est fille de la volonté : « Le langage est le résultat de l'association , de la communauté de sentiment, d'une activité sympathique qui, à l'origine , était accompagnée de sons ... ; il est l'enfant de la volonté et non pas dela sensation . » La parole est sortie de la communauté d'action, de la collaboration des hommes primitifs , de la mise en commun de leurs activités . Quand nos muscles sont en action, nous sentons un soulagement à émettre des sons. Les hommes qui travaillent ensemble , les paysans qui bêchent ou battent le blé, les marins qui rament , les soldats qui marchent, émettent des articulations plus ou moins vibrantes , des bruits , exclamations , bourdonnements, chants, etc.[^p71-2] Or ces sons offrent les caractères requis pour constituer le langage articulé ;
 
-ils sont communs à tous ; ils sont intelligibles , étant associés[^p71-2]
+ils sont communs à tous ; ils sont intelligibles , étant associés
 
 [p. 72] par tous aux mêmes actes . Les éléments primitifs de toute langue , d'après Noiré, sont des actes . Le travail humain , tel est le contenu des racines primitives : couper, frapper, creuser, bêcher, tisser, ramer , etc.
 
@@ -812,11 +812,11 @@ Quoi qu'il en soit de ces raisons, probantes pour les uns, douteuses pour les au
 
 [p. 75] LA
 
-PAROLE de plus qu'en une interruption significative des sons vocaux , analogue au babil , au caquetage des singes, qui est le langage naturel pour l'expression de leurs états mentaux . » (Ouv . cité, 372) . Toutefois, il importe de remarquer que la question, sous cette forme , n'a qu'un intérêt physiologique . La voix est aussi naturelle à l'homme que les mouvements des membres ; il y a seulement entre la voix simple et la voix articulée la même distance qu'entre les mouvements irréguliers des membres chez le nouveauné et les mouvements bien coordonnés comme ceux de la marche . L'articulation n'est qu'une des formes de l'expression ; elle est si peu un fait humain qu'elle se rencontre , comme on le sait, chez beaucoup d'animaux. Le véritable problème psychologique est ailleurs : dans l'emploi des sons articulés comme signes objectifs , dans leur imposition à des objets auxquels nul rapport ou lien naturel ne les rattache .
+PAROLE de plus qu'en une interruption significative des sons vocaux , analogue au babil , au caquetage des singes, qui est le langage naturel pour l'expression de leurs états mentaux . » (Ouv . cité, 372) . Toutefois, il importe de remarquer que la question, sous cette forme , n'a qu'un intérêt physiologique . La voix est aussi naturelle à l'homme que les mouvements des membres ; il y a seulement entre la voix simple et la voix articulée la même distance qu'entre les mouvements irréguliers des membres chez le nouveauné et les mouvements bien coordonnés comme ceux de la marche . L'articulation n'est qu'une des formes de l'expression ; elle est si peu un fait humain qu'elle se rencontre , comme on le sait, chez beaucoup d'animaux. Le véritable problème psychologique est ailleurs : dans l'emploi des sons articulés comme signes objectifs , dans leur imposition à des objets auxquels nul rapport ou lien naturel ne les rattache .[^p75-1]
 
 Geiger, dans son livre ,
 
-der Ursprung der Sprache[^p75-1]
+der Ursprung der Sprache
 
 [p. 76] de leur importance acquise. A l'appui de cette hypothèse , on a fait valoir ce qui se passe chez les sourds-muets non éduqués . Ils inventent des sons articulés (qu'ils n'entendent pas naturellement) et s'en servent pour désigner certaines choses .
 
@@ -960,7 +960,7 @@ En somme , sur la valeur psychologique de la phrase, indépendamment de ses form
 
 [p. 87] LA PAROLE lieu de vir bonus ,
 
-est un des derniers triomphes de la parole (1) .>>>
+est un des derniers triomphes de la parole [^p87-1] .>>>
 
 #### III
 
@@ -968,7 +968,7 @@ Cette évolution de la parole , partant de l'état protoplasmique sans organes n
 
 Revenons aux racines ou termes primitifs , quelle qu'en soit la nature . On admet généralement deux catégories distinctes : les racines pronominales ou démonstratives, les racines verbales ou prédicatives .
 
-Les premières forment un petit groupe qui a pour marque propre d'indiquer plutôt la position relative de celui qui parle qu'une qualité concrète . Elles équivalent à : ici , là, ceci , cela, etc. Elles sont peu nombreuses et très simples sous le rapport phonétique : une voyelle ou une voyelle suivie d'une consonne . Beaucoup de linguistes[^p87-1]
+Les premières forment un petit groupe qui a pour marque propre d'indiquer plutôt la position relative de celui qui parle qu'une qualité concrète . Elles équivalent à : ici , là, ceci , cela, etc. Elles sont peu nombreuses et très simples sous le rapport phonétique : une voyelle ou une voyelle suivie d'une consonne . Beaucoup de linguistes
 
 [p. 88] refusent de les admettre comme racines et pensent qu'elles sont sorties de la seconde classe par atténuation de sens [^p88-1] . Peut-être sont-elles un reste du langage de gestes, « sans signification conceptuelle » (Max Müller) , n'exprimant que des déterminations dans le temps ou l'espace .
 
@@ -5810,7 +5810,7 @@ Cette collection paraît à la fois en français, en anglais, en allemand et en 
 
 à Paris , chez Félix Alcan ; à Londres, chez C. Kegan, Paul et Cie ; à New-York , chez Appleton ; à Leipzig, chez Brockhaus ; à Milan, chez Dumolard frères .
 
-LISTE DES OUVRAGES PAR ORDRE D'APPARITION 83 VOLUMES IN-8 , CARTONNÉS A L'ANGLAISE . CHAQUE VOLUME : 6 FRANCS .[^p279-1][^p279-2][^p279-3][^p279-4][^p279-5][^p279-6][^p279-7][^p279-8][^p279-9][^p279-10][^p279-11][^p279-12][^p279-13]
+LISTE DES OUVRAGES PAR ORDRE D'APPARITION 83 VOLUMES IN-8 , CARTONNÉS A L'ANGLAISE . CHAQUE VOLUME : 6 FRANCS .[^p279-13][^p279-12][^p279-11][^p279-10][^p279-9][^p279-8][^p279-7][^p279-6][^p279-5][^p279-4][^p279-3][^p279-2][^p279-1]
 
 [p. 280] 15. COOKE et BERKELEY. * Les Champignons. 1 vol. in-8, avec figures.
 
@@ -6008,7 +6008,7 @@ eet les monuments . 1 vol. in-8, avec 162 figures. 2e éd .
 
 principalement chez les insectes. 1 vol. in-8, avec 150 figures.
 
-6 fr.[^p281-1][^p281-2][^p281-3][^p281-4][^p281-5][^p281-6][^p281-7][^p281-8][^p281-9][^p281-10][^p281-11]
+6 fr.[^p281-11][^p281-10][^p281-9][^p281-8][^p281-7][^p281-6][^p281-5][^p281-4][^p281-3][^p281-2][^p281-1]
 
 [p. 282] DE LA
 

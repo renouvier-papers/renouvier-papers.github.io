@@ -1058,7 +1058,7 @@ Considérons deux triangles sphériques Tet T'unis par l'une ou l'autre des quat
 
 2. Les deux triangles ont un côté égal adjacent à deux angles égaux chacun à chacun ;
 
-3. Les deux triangles ont les trois côtés égaux chacun à chacun ;[^p37-1]
+3.[^p37-1] Les deux triangles ont les trois côtés égaux chacun à chacun ;
 
 [p. 38] nous a fourni une démonstration directe de ce fait que la somme des angles d'un triangle sphérique doit toujours excéder deux angles droits. L'étude du trièdre nous l'a déjà appris.
 
@@ -1713,7 +1713,7 @@ x cos a — y sin a,
 
 y' = x sin a + y cos a.
 
-(1)
+[^p57-1]
 
 En revenant maintenant aux coordonnées polaires de chaque système d'axes et en comparant chaque fois aux coordonnées cartésiennes correspondantes, on a :
 
@@ -1743,7 +1743,7 @@ sin (u + a) =
 
 a2 Ajoutons enfin que la relation
 
-r donne l'identité cos² (u) + sin² (u) = 1.[^p57-1]
+r donne l'identité cos² (u) + sin² (u) = 1.
 
 [p. 58] Les notions de limite, de continuité, de vitesse allaient, en fondant le calcul infinitésimal, en provoquer les applications les plus utiles.
 
@@ -2432,7 +2432,7 @@ dx
 
 F (u, v, x)
 
-(1)
+[^p69-1]
 
 dv
 
@@ -2446,7 +2446,7 @@ du = f(x))
 
 du
 
-dx= g (x)[^p69-1]
+dx= g (x)
 
 [p. 70] désignez par S(x) ; l'aire balayée, sur la 1re courbe, par cette projetante perpendiculaire à OX ; nommez T(x) l'aire balayée, sur la 2º courbe, par l'autre projetante, ces balayages étant exécutés à partir de la projetante correspondante à x = x｡ ; on prendra comme solutions du système (2) les solutions :
 
@@ -6778,13 +6778,13 @@ Ce mouvement plan dépend des équations différentielles LINÉAIRES
 
 +
 
-d²x
+d[^p184-2]x
 
 1
 
 ১৩
 
-1.
+1.[^p184-1]
 
 α
 
@@ -6808,7 +6808,7 @@ x= gert,
 
 y = hert ;
 
-get h désignant ici des constantes calculables au moyen de la constante r ; or celle-ci est, tous calculs faits, définie par l'équation bicarrée :[^p184-1][^p184-2]
+get h désignant ici des constantes calculables au moyen de la constante r ; or celle-ci est, tous calculs faits, définie par l'équation bicarrée :
 
 [p. 185] b
 
@@ -7452,7 +7452,7 @@ N²x
 
 p (px + qy + rz) -N
 
-+ xzi- py ?][^p196-1]
++ xzi- py ?[^p196-1]]
 
 [p. 197] nous aurons trois nouvelles équations de condition renfermant les dérivées troisièmes par rapport à t des coordonnées observables.
 
@@ -7470,7 +7470,7 @@ dt
 
 do c'est-à-dire di par une quadrature ; les p, q, r étant connus,
 
-l'espace absolu a une orientation définie, à l'égard des repères, par l'intégration d'un système différentiel, comme on l'a déjà indiqué ¹.
+l'espace absolu a une orientation définie, à l'égard des repères, par l'intégration d'un système différentiel, comme on l'a déjà indiqué [^p197-1].[^p197-2]
 
 Enfin le système 1 étant repris après la détermination des quantités :
 
@@ -7480,7 +7480,7 @@ u'
 
 u
 
-= P,[^p197-1][^p197-2]
+= P,
 
 [p. 198] sur les forces absolues qui gouvernent le système solaire supposé isolé disparaissaient, sauf le fait de la mutualité des forces, nous ne posséderions aucun moyen ni de vérifier l'hypothèse précédente, ni de connaître à la fois l'horloge absolue et l'orientation absolue par l'observation de mouvements relatifs continus.
 
@@ -9020,7 +9020,7 @@ on posera par convention :
 
 Les crochets successifs d'un même groupe de quantités a jouissent de la propriété remarquable suivante (αα'a"
 
-α "... α) (α ' α "... ai+ 1) — (a, a'a "... a²+ 1) (α ' α "... a²) = (-1) +1. Rapprochons ce résultat des valeurs de g, h, k, I fournies par les relations 3 bis, savoir [^p233-1]
+α "... α) (α ' α "... ai+ 1) — (a, a'a "... a²+ 1) (α ' α "... a²) = (-1) +1.[^p233-1] Rapprochons ce résultat des valeurs de g, h, k, I fournies par les relations 3 bis, savoir
 
 [p. 234] 3. — Image d'un point.
 
@@ -9052,11 +9052,11 @@ nol — k (po — N °)
 
 Si alors nous posons
 
-n °h — g (p. — N °)
+n °h — g (p.[^p234-1] — N °)
 
 n°l-k(po-No) n,
 
-p = N[^p234-1]
+p = N
 
 [p. 235] LES MESURES DES ÉTENDUES
 
@@ -9729,9 +9729,9 @@ Les coordonnées astronomiques de départ, d'où découlent par le calcul toutes
 
 l'azimut fondamental qui a servi à orienter la carte, celui du côté Panthéon-Belle-Assise sur l'horizon du Panthéon.
 
-Les intervalles compris dans l'intérieur des quadrilatères ont été ensuite comblés par une triangulation dite de premier ordre complémentaire dans les mêmes conditions de précision que la triangulation fondamentale et dont les côtés de triangles avaient comme les précédents de 30 à 40 kilomètres.
+Les intervalles compris dans l'intérieur des quadrilatères ont été ensuite comblés par une triangulation dite de premier ordre complémentaire dans les mêmes conditions de précision que la triangulation fondamentale et dont les côtés de triangles avaient comme les précédents de 30 à 40 kilomètres.[^p247-1]
 
-Les mailles de ce réseau ont été remplies par une triangulation du second ordre, à côté moitié moindres, s'appuyant [^p247-1]
+Les mailles de ce réseau ont été remplies par une triangulation du second ordre, à côté moitié moindres, s'appuyant
 
 [p. 248] sur les sommets des triangles déjà établis et dont les opérations se vérifient régulièrement par fermeture sur les précédentes.
 
@@ -10074,7 +10074,7 @@ NOUVELLES MÉTHODES.
 
 Le meilleur instrument serait un instrument monométallique dont on connaîtrait la température très exactement.
 
-L'invar, alliage d'acier et de 36 p. 100 de nickel, découvert par M. Ch.-Éd. Guillaume, a un coefficient de dilatation extrêmement petit, représenté en moyenne entre 0 et 6 par¹
+L'invar, alliage d'acier et de 36 p. 100 de nickel, découvert par M. Ch.-Éd. Guillaume, a un coefficient de dilatation extrêmement petit, représenté en moyenne entre 0 et 6 par[^p258-1]
 
 (0,877 +0,001270)10-6, et il suffit d'apprécier la température par des thermomètres noyés dans le métal de la règle, car pour une longueur de 4 mètres une erreur de 1 degré dans la température produit une erreur de longueur égale au plus à 3 μ 5.
 
@@ -10082,7 +10082,7 @@ Si même cette erreur était systématique, elle ne produirait pour une base de 
 
 1
 
-1 200 000 0 m. 010, soit :[^p258-1]
+1 200 000 0 m. 010, soit :
 
 [p. 259] En même temps on cherchait à rendre les appareils plus légers et plus maniables et l'idée d'employer des fils métalliques de 24 mètres, tendus sous un effort constant de 10 kg., fut réalisée par M. Jäderin, géodésíen suédois.
 
@@ -10202,13 +10202,13 @@ Nous avons laissé de côté l'étude géométrique de l'utilisation de la trian
 
 La manière de diriger les calculs de la triangulation pour la résolution de ce problème délicat est tout à fait en dehors du cadre de cet ouvrage, elle est traitée d'ailleurs dans des ouvrages classiques.
 
-Par contre nous dirons quelques mots des déterminations relatives aux unités du système métrique.
+Par contre nous dirons quelques mots des déterminations relatives aux unités du système métrique.[^p263-1]
 
 On sait que
 
 l'idée des
 
-créateurs français du système métrique a été de définir une unité de longueur rattachée [^p263-1]
+créateurs français du système métrique a été de définir une unité de longueur rattachée
 
 [p. 264] aux dimensions du globe ; en d'autres pays, la longueur du pendule battant la seconde fut adoptée pour le contrôle de 'unité arbitrairement choisie.
 
@@ -11210,9 +11210,9 @@ Ce refus de mouvement peut se produire dans les deux cas suivants
 
 1° Quand une dent de la roue d'échappement se trouve arrêtée contre le plan d'impulsion ou incliné d'un des leviers de l'ancre ; c'est le cas de l'arrêt du doigt ;
 
-2º Quand une dent de la roue d'échappement appuie sur la face de repos d'un levier de l'ancre ; c'est le cas d'arrêt sur le repos.
+2º Quand une dent de la roue d'échappement appuie sur la face de repos d'un levier de l'ancre ; c'est le cas d'arrêt sur le repos.[^p297-1]
 
-Dans chacun de ces deux cas, le démarrage statique ne se produit pas, nous n'avons donc pas à tenir compte des chocs [^p297-1]
+Dans chacun de ces deux cas, le démarrage statique ne se produit pas, nous n'avons donc pas à tenir compte des chocs
 
 [p. 298] du balancier et nous avons affaire à un pur problème d'équilibre. Nous négligerons d'ailleurs les frottements entre bouton et fourchette.
 

@@ -198,11 +198,11 @@ et suprasensible ?
 
 Une intuition pure est chose impossible dans le système même de Kant. En effet, c'est un principe pour Kant qu'« une intuition ne peut avoir lieu qu'autant qu'un objet nous est donné, » et cela n'est possible, ajoute-t-il, qu'autant que l'objet
 
-« affecte l'esprit d'une certaine manière. » Or, « la capacité de recevoir des objets par la manière dont ils nous affectent s'appelle Sensibilité. » C'est donc« < au moyen de la sensibilité que des objets nous sont donnés, et elle seule nous fournit des intuitions¹. »
+« affecte l'esprit d'une certaine manière. » Or, « la capacité de recevoir des objets par la manière dont ils nous affectent s'appelle Sensibilité. » C'est donc« < au moyen de la sensibilité que des objets nous sont donnés, et elle seule nous fournit des intuitions[^pXXII-1]. »
 
 Comment alors pourrions-nous avoir une intuition d'un objet appelé temps, qui n'est pas un objet réel, qui ne peut pas, en tant que tel, affecter notre sensibilité, ni nous donner à lui seul une sensation ? Kant se réfute ainsi lui-même.
 
-Toutes les objections faites par les Kantiens à l'expérience de la durée se retournent, avec beaucoup plus de force, contre la prétendue intuition pure du temps. Le temps étant un passé- présent-futur, comment peut-il, dans [^pXXII-1]
+Toutes les objections faites par les Kantiens à l'expérience de la durée se retournent, avec beaucoup plus de force, contre la prétendue intuition pure du temps. Le temps étant un passé- présent-futur, comment peut-il, dans
 
 [p. XXIII] le passé et le futur, être un objet d'intuition ?
 
@@ -278,7 +278,7 @@ disciples contemporains de Kant, renonçant à l'intuition pure, se contentent, 
 
 modestie, de poser le temps comme simple « loi de la représentation ». Ils n'en appellent pas moins l'espace etle temps, « les forteresses imprenables de l'apriorisme », etils prétendent que les partisans de la genèse expérimentale veulent « tout ramener à l'expérience sans aucunes lois pour la régir, et dès lors sans possibilité pour la constituer
 
-Mais elle-même et pour la comprendre ¹. »
+Mais elle-même et pour la comprendre [^pXXIX-1]. »
 
 où voit-on que les partisans de l'expérience, par exemple Guyau, considèrent l'expérience comme n'étant soumise à aucune loi ? Et en quoi l'existence d'une loi expérimentale prouve-t-elle
 
@@ -300,7 +300,7 @@ font
 
 telle
 
-sensation [^pXXIX-1]
+sensation
 
 [p. XXX]
 
@@ -338,13 +338,13 @@ présente.
 
 En outre,
 
-l'objection vient, comme nous l'avons montré ailleurs¹, de
+l'objection vient, comme nous l'avons montré ailleurs[^pXXXI-1], de
 
 ce qu'on suppose
 
 idéalement
 
-1º un présent indivisible, 2º une immobilité de la conscience en ce point présent. Or, 1º le présent de notre conscience a une durée, 2º l'immobilité est une conception statique fausse, qui ne répond pas à la réalité dynamique. Un être qui change en passant du plaisir à la douleur peut se sentir en train de changer, alors même qu'il ne conçoit pas encore le temps, ni le rapport des deux termes du changement. Le changer est saisi au moment même où il s'accomplit, dans la transition, sous forme dynamique. Notre mot abstrait changer exprime aujourd'hui une comparaison, et nous porte à croire que l'être a besoin d'une comparaison d'images pour s'apercevoir du changement même. Il en a besoin pour juger qu'il a changé, oui, mais pour avoir le sentiment particulier qui est corrélatif du changement, non.[^pXXXI-1]
+1º un présent indivisible, 2º une immobilité de la conscience en ce point présent. Or, 1º le présent de notre conscience a une durée, 2º l'immobilité est une conception statique fausse, qui ne répond pas à la réalité dynamique. Un être qui change en passant du plaisir à la douleur peut se sentir en train de changer, alors même qu'il ne conçoit pas encore le temps, ni le rapport des deux termes du changement. Le changer est saisi au moment même où il s'accomplit, dans la transition, sous forme dynamique. Notre mot abstrait changer exprime aujourd'hui une comparaison, et nous porte à croire que l'être a besoin d'une comparaison d'images pour s'apercevoir du changement même. Il en a besoin pour juger qu'il a changé, oui, mais pour avoir le sentiment particulier qui est corrélatif du changement, non.
 
 [p. XXXII]
 
@@ -380,7 +380,7 @@ apparaît comme
 
 durée.
 
-On verra de quelle manière ingénieuse et profonde Guyau s'est efforcé de reconstruire la représentation du temps. Ce qui reste d'irréductible dans son analyse du sentiment de la durée n'est nullement la preuve d'une intuition transcendante : irréductibilité n'est point, comme on le prétend, apriorité¹. Ceux qui le croient commettent l'ignoratio elenchi. Nos sensations, comme telles, sont irréductibles ; le plaisir et la douleur sont irréductibles ; dans tous les états de conscience il y a un caractère
+On verra de quelle manière ingénieuse et profonde Guyau s'est efforcé de reconstruire la représentation du temps. Ce qui reste d'irréductible dans son analyse du sentiment de la durée n'est nullement la preuve d'une intuition transcendante : irréductibilité n'est point, comme on le prétend, apriorité[^pXXXIV-1]. Ceux qui le croient commettent l'ignoratio elenchi. Nos sensations, comme telles, sont irréductibles ; le plaisir et la douleur sont irréductibles ; dans tous les états de conscience il y a un caractère
 
 d'intensité qui
 
@@ -400,7 +400,7 @@ avoir
 
 les connaître. De même pour le temps : l'être qui n'aurait ni sensations successives, ni appétitions successives, ni reflexion sur ces sensations et sur leur mode d'arrangement sériel, cet être-là n'aurait aucune expérience de la durée et il n'est point d'intuition pure qui pût y suppléer.
 
-L'irréductibilité est précisément le caractère de tout ce qui est objet d'expérience immédiate et radicale.[^pXXXIV-1]
+L'irréductibilité est précisément le caractère de tout ce qui est objet d'expérience immédiate et radicale.
 
 [p. XXXV] Le plus étrange, c'est que ceux mêmes qui objectent que l'expérience interne fournit seulement des représentations statiques et immobiles, en divers instants dont chacun est toujours présent, sont aussi ceux qui, pour expliquer la conscience du temps, invoquent la chose statique et immuable par excellence : le cadre *a priori* du temps, ou même, comme M. Ravaisson, l'idée de l'éternité. Mais c'est alors que nous serions à jamais fixés, figés, glacés dans un présent sans passé et sans avenir. Nous aurions, du côté empirique, une ou plusieurs représentations toujours présentes et en repos, du côté rationnel, une idée pure, immobile, éternelle, un punctum stans. Comment
 
@@ -556,9 +556,9 @@ indéterminé, indiscernable de toute autre
 
 qui fait cette observation, s'imagine pourtant encore, avec presque toute l'école associationniste et évolutionniste de l'Angleterre, que nous acquérons l'idée d'espace par le moyen de l'idée du temps. Nous croyons, pour notre part, avec plusieurs psychologues allemands, tels que Hering et Stumpf, avec MM. William James et Ward, avec M. Alfred Fouillée, que c'est là une illusion de l'analyse psychologique, qui confond ses procédés de décomposition d'idées avec les procédés spontanés et synthétiques de l'enfant ou de l'animal'.
 
-Spencer suppose que les aveugles-nés n'ont conscience de l'espace « que sous la forme de termes successivement présentés qui accompagnent le mouvement. » A part « quelques menues perceptions de coexistences », dues à des impressions simultanées, c'est « dans le nom [^p13-1]
+Spencer suppose que les aveugles-nés n'ont conscience de l'espace « que sous la forme de termes successivement présentés qui accompagnent le mouvement. » A part « quelques menues perceptions de coexistences »[^p13-1], dues à des impressions simultanées, c'est « dans le nom
 
-[p. 14] bre, l'ordre et le temps » que l'aveugle pense se mouvoir, et non, comme nous, dans l'étendue¹. Riehl admet aussi que l'espace est un caractère appartenant exclusivement aux sensations visuelles. Cette doctrine nous paraît tout à fait imaginaire, et nous ne croyons pas à cette antériorité de l'ordre du temps sur celui de l'espace. D'abord, comment se représenter l'ordre, sinon d'une manière figurative qui est toujours plus ou moins spatiale ? L'aveugle-né se représente la sensation de sa main prenant le morceau de pain et en ayant le contact, puis le contact du morceau de pain avec sa bouche, puis le contact de la bouchée traversant l'œsophage. Ce sont là des représentations d'espace tactile, et non pas seulement de temps tactile, car il y a là des contacts localisés en divers points de l'organisme. L'aveugle connaît aussi bien que nous la place de sa main droite, celle de sa main gauche, celle de sa bouche, celle de son gosier, etc. Il n'a pas besoin de les voir ; il fait mieux que voir, il sent et touche. Nous pensons donc, avec les psychologues cités plus haut, que toutes nos sensations, internes et externes, ont une forme d'extension plus ou moins [^p14-1]
+[p. 14] bre, l'ordre et le temps » que l'aveugle pense se mouvoir, et non, comme nous, dans l'étendue[^p14-1]. Riehl admet aussi que l'espace est un caractère appartenant exclusivement aux sensations visuelles. Cette doctrine nous paraît tout à fait imaginaire, et nous ne croyons pas à cette antériorité de l'ordre du temps sur celui de l'espace. D'abord, comment se représenter l'ordre, sinon d'une manière figurative qui est toujours plus ou moins spatiale ? L'aveugle-né se représente la sensation de sa main prenant le morceau de pain et en ayant le contact, puis le contact du morceau de pain avec sa bouche, puis le contact de la bouchée traversant l'œsophage. Ce sont là des représentations d'espace tactile, et non pas seulement de temps tactile, car il y a là des contacts localisés en divers points de l'organisme. L'aveugle connaît aussi bien que nous la place de sa main droite, celle de sa main gauche, celle de sa bouche, celle de son gosier, etc. Il n'a pas besoin de les voir ; il fait mieux que voir, il sent et touche. Nous pensons donc, avec les psychologues cités plus haut, que toutes nos sensations, internes et externes, ont une forme d'extension plus ou moins
 
 [p. 15] vague, que plonger sa main dans l'eau froide, par exemple, donne une sensation de froid moins étendue que le bain du bras entier. Il n'y a pas besoin de voir, ni même de toucher son corps pour sentir qu'on est tout entier dans l'eau ou qu'on y a seulement le petit doigt. « L'espace, comme dit M. Fouillée, est le mode naturel de représentation des sensations simultanées venues des divers points de l'organisme. » Nous ne pensons donc pas qu'il y ait besoin de mesurer des temps et des distances entre nos divers organes pour penser les choses dans l'espace. Spencer fait appel à l'idée la plus obscure, l'idée du temps, pour éclaircir celle qui l'est le moins et qui est le plus directement intuitive ou imaginative, l'idée d'espace.
 
@@ -734,9 +734,9 @@ Aussi toute image fournie par le souvenir ne peut-elle être bien localisée, pl
 
 feuillée chante, » expression pittoresque que je trouve en ce moment dans ma mémoire ? A cette interrogation, une foule de souvenirs surgissent : des mots latins s'associent aux mots français ; à ces mots s'associe un nom, celui de Lucrèce. Enfin,
 
-si j'ai bonne mémoire, j'irai jusqu'à revoir le vieux petit volume déchiré sur lequel j'ai lu autrefois l'expression de Lucrèce : frons canit.
+si j'ai bonne mémoire, j'irai jusqu'à revoir le vieux petit volume déchiré sur lequel j'ai lu autrefois l'expression de Lucrèce : frons canit.[^p40-1]
 
-En somme, c'est le jeu des sentiments, des plaisirs et des douleurs qui a organisé la mémoire en représentation présente du passé, et [^p40-1]
+En somme, c'est le jeu des sentiments, des plaisirs et des douleurs qui a organisé la mémoire en représentation présente du passé, et
 
 [p. 41] divisé ainsi le temps en parties distinctes. J'ai soif, je bois à un ruisseau. Un quart d'heure après, je revois le ruisseau qui, par association, me rappelle ma soif, mais, en réalité, je n'ai pas soif et l'eau fraîche ne me tente plus du tout. Et pourtant ma représentation est distincte, elle a un témoin : le ruisseau qui m'a désaltéré. Ainsi s'affirme le souvenir en face de la réalité actuelle, le passé en face du présent. L'animal même qui a bu au ruisseau commence à avoir dans la tête des cases distinctes pour le passé et pour la sensation présente.
 
@@ -904,7 +904,7 @@ nous l'entendons ; en fait, ses vibrations se traduisent en nous par des
 
 sensations et des pensées.
 
-Il faut donc admettre une transformation toujours possible du réel du mouvement en pensée, ¹ transformation bien plus vraisemblable quand il s'agit d'un mouve [^p56-1]
+Il faut donc admettre une transformation toujours possible du réel du mouvement en pensée, [^p56-1] transformation bien plus vraisemblable quand il s'agit d'un mouve
 
 [p. 57] ment intérieur au cerveau, même que d'un mouvement venu de dehors. A ce point de vue, il ne serait ni trop inexact ni trop étrange de définir le cerveau un phonographe infiniment perfectionné, un phonographe conscient.
 
@@ -1098,9 +1098,9 @@ La mémoire formée, le moi est formé. Le temps et le mouvement sont dérivés 
 
 ni nous connaître nous-mêmes en notre fond, ni connaître ce quelque chose qui existe au dehors de nous et dont notre moi lui-même est en grande partie dérivé. Quelles sont les [p. 80] puissances que nous renfermons en nousmêmes, et jusqu'où peut aller en son développement cette activité qui s'agite en nous ; et d'autre part, quel est le secret de cette nature muette qui nous enveloppe ? Voilà les deux inconnaissables auxquels se ramènent, croyons-nous, tous les autres, y compris le temps.
 
-Nous avons vu que la mémoire est le sentiment du même opposé à l'idée du différent et du contraire, or, selon les physiologistes, ce qui produit la sympathie, c'est de découvrir une ressemblance, une harmonie entre nous et autrui ; nous nous retrouvons dans autrui par la sympathie ; de même nous nous retrouvons dans le passé par la mémoire¹. La mémoire et la sympathie ont donc au fond la même origine.
+Nous avons vu que la mémoire est le sentiment du même opposé à l'idée du différent et du contraire, or, selon les physiologistes, ce qui produit la sympathie, c'est de découvrir une ressemblance, une harmonie entre nous et autrui ; nous nous retrouvons dans autrui par la sympathie ; de même nous nous retrouvons dans le passé par la mémoire[^p80-1]. La mémoire et la sympathie ont donc au fond la même origine.
 
-Ajoutons que la mémoire produit, elle aussi, l'attachement aux objets qui provoquent le mieux ce sentiment du même et nous font mieux revivre à nos propres yeux. Des liens secrets nous rattachent par le plus profond de notre être à une foule de choses qui nous entourent, qui semblent insignifiantes à tout [^p80-1]
+Ajoutons que la mémoire produit, elle aussi, l'attachement aux objets qui provoquent le mieux ce sentiment du même et nous font mieux revivre à nos propres yeux. Des liens secrets nous rattachent par le plus profond de notre être à une foule de choses qui nous entourent, qui semblent insignifiantes à tout
 
 [p. 81] autre et qui n'ont une voix et un langage que pour nous. Mais cet amour confus que produisent la mémoire et l'habitude n'est jamais exempt de tristesse ; il est même une des plus vives sources de nos peines, car son objet varie toujours à la longue et s'associe inévitablement au souvenir de choses qui ne sont plus, de choses perdues. La conscience est une représentation d'objets changeants ; mais elle ne change pas aussi vite qu'eux ; pendant qu'un milieu nouveau se fait auquel il faut que nous nous accommodions, nous gardons encore dans les profondeurs de notre pensée le pli et la forme de l'ancien milieu ; de là une opposition au sein même de la conscience, deux tendances qui nous portent, l'une vers le passé auquel nous tenons encore par tant d'attaches, l'autre vers l'avenir qui s'ouvre et auquel déjà nous nous accommodons. Le sentiment de ce déchirement intérieur est une des causes qui produisent la tristesse du souvenir réfléchi, tristesse qui succède, chez l'homme, au charme de la mémoire spontanée.
 
@@ -1195,11 +1195,11 @@ les
 
 mentale amenés
 
-par quelque grande secousse, nous voyons cette tendance à ressusciter le passé enseveli se développer librement : « les événements éloignés, les circonstances lointaines viendront se confondre avec les faits présents » ¹.
+par quelque grande secousse, nous voyons cette tendance à ressusciter le passé enseveli se développer librement : « les événements éloignés, les circonstances lointaines viendront se confondre avec les faits présents » [^p90-1].
 
 Une autre cause d'erreur dans notre appréciation de la durée, c'est que nous sommes portés à combiner le temps exigé par la représentation d'un événement avec le temps réel qu'a duré l'événement. Dans les expériences psychophysiques, si on me demande la durée de battements courts du métromone, je la fais trop grande. C'est que j'ajoute inconsciemment le temps qu'il me faut pour me représenter et apprécier le battement à la durée objective du battement même, qui ainsi me paraît accrue. Au contraire, si les battements sont très lents, je tends à les faire plus courts qu'ils ne sont : la représentation est alors plus rapide que le battement même, et je tends à confondre la vitesse subjective avec la vitesse objective,
 
-E[^p90-1]
+E
 
 [p. 91] comme je tendais, tout à l'heure, à confondre la lenteur subjective avec une lenteur objective. Le danseur à qui on veut faire suivre un rythme trop rapide est haletant et reste en arrière ; celui qu'on veut faire aller trop lentement demeure le pied en l'air, porté à presser le mouvement. L'effort, plus ou moins bref et rapide, joue donc un rôle considérable dans notre idée du temps. C'est par l'effort et le désir que nous avons fait connaissance avec le temps ; nous gardons l'habitude d'estimer le temps selon nos désirs, nos efforts, notre volonté propre. Nous altérons sa longueur par notre impatience et notre précipitation, comme nous altérons sa rapidité par notre lent effort pour nous la représenter.
 
@@ -1217,27 +1217,27 @@ l'intervalle de temps apprécié
 
 est,
 
-en moyenne, égal à l'intervalle de temps réel et le reproduit fidèlement, est autour de 0,72 de seconde ; or, c'est aussi la valeur moyenne de la durée nécessaire en général pour la reproduction par la mémoire ou représentation. Une vitesse de 3/4 de seconde environ est donc celle où les processus de reproduction et d'association s'accomplissent le plus facilement. De là Wundt conclut que, quand nous avons à nous représenter des temps objectifs plus long's ou plus courts, nous essayons invo-[p. 93]lontairement de les rendre égaux à cette vitesse normale de notre représentation, tout au moins à les en rapprocher. C'est une des raisons qui expliquent que nous raccourcissons les battements plus lents que trois quarts de seconde, et que nous rallongeons les battements plus courts. Là encore, c'est une raison de désir et de bien-être qui domine notre représentation du temps. Mais il y a un fait plus curieux encore, que Wundt remarque. C'est que ce même chiffre de 3/4 de seconde est aussi celui qu'emploie la jambe pour faire un pas dans une marche rapide. C'est donc, au fond, ajouterons- nous, à la durée du pas dans l'espace que nous mesurons le temps. Il est probable que c'est le pas qui a été notre première mesure pour l'espace et, par cela même, pour le temps. A l'origine, la forme la plus générale du temps était la série d'images que l'on a quand on fait une série de mouvements de locomotion, une série de pas. On voit alors les objets se déplacer à droite et à gauche, et si on revient en arrière, on les retrouve. Les trois dimensions de l'espace et la dimension unique du temps s'organisent ainsi d'ellesmêmes dans l'imagination. Aujourd'hui encore nous rythmons sur notre pas la vitesse de notre représentation, et, par une tendance naturelle, [p. 94] nous voulons adapter le pas du temps au pas de notre pensée et au pas de nos jambes¹.
+en moyenne, égal à l'intervalle de temps réel et le reproduit fidèlement, est autour de 0,72 de seconde ; or, c'est aussi la valeur moyenne de la durée nécessaire en général pour la reproduction par la mémoire ou représentation. Une vitesse de 3/4 de seconde environ est donc celle où les processus de reproduction et d'association s'accomplissent le plus facilement. De là Wundt conclut que, quand nous avons à nous représenter des temps objectifs plus long's ou plus courts, nous essayons invo-[p. 93]lontairement de les rendre égaux à cette vitesse normale de notre représentation, tout au moins à les en rapprocher. C'est une des raisons qui expliquent que nous raccourcissons les battements plus lents que trois quarts de seconde, et que nous rallongeons les battements plus courts. Là encore, c'est une raison de désir et de bien-être qui domine notre représentation du temps. Mais il y a un fait plus curieux encore, que Wundt remarque. C'est que ce même chiffre de 3/4 de seconde est aussi celui qu'emploie la jambe pour faire un pas dans une marche rapide. C'est donc, au fond, ajouterons- nous, à la durée du pas dans l'espace que nous mesurons le temps. Il est probable que c'est le pas qui a été notre première mesure pour l'espace et, par cela même, pour le temps. A l'origine, la forme la plus générale du temps était la série d'images que l'on a quand on fait une série de mouvements de locomotion, une série de pas. On voit alors les objets se déplacer à droite et à gauche, et si on revient en arrière, on les retrouve. Les trois dimensions de l'espace et la dimension unique du temps s'organisent ainsi d'ellesmêmes dans l'imagination. Aujourd'hui encore nous rythmons sur notre pas la vitesse de notre représentation, et, par une tendance naturelle, [p. 94] nous voulons adapter le pas du temps au pas de notre pensée et au pas de nos jambes[^p94-1].
 
-Stevens a trouvé des résultats opposés à ceux de Vierord², de Mach³, de Kollert
+Stevens a trouvé des résultats opposés à ceux de Vierord[^p94-2], de Mach[^p94-3], de Kollert
 
 , d'Estels, de Mehner
 
-. Selon Stevens, nous raccourcissons encore les temps courts et nous rallongeons encore les temps longs. Dans les expériences de Stevens le « point d'exactitude », c'est-à-dire de reproduction fidèle, est d'ailleurs le même que pour les autres expérimentateurs. Mais il faut remarquer que les conditions de l'expérimentation ne sont pas les mêmes. Vierord et ses successeurs faisaient une comparaison de deux intervalles de temps, et le processus était purement mental. Stevens s'attache à un intervalle de temps et fait reproduire le même intervalle. Il en résulte l'intervention
+. Selon Stevens, nous raccourcissons encore les temps courts et nous rallongeons encore les temps longs. Dans les expériences de Stevens le « point d'exactitude », c'est-à-dire de reproduction fidèle, est d'ailleurs le même que pour les autres expérimentateurs. Mais il faut remarquer que les conditions de l'expérimentation ne sont pas les mêmes. Vierord et ses successeurs faisaient une comparaison de deux intervalles de temps, et le processus était purement mental. Stevens s'attache à un intervalle de temps et fait reproduire le même intervalle.[^p94-6][^p94-5][^p94-4] Il en résulte l'intervention
 
 d'éléments
 
 tout nouveaux
 
-et de causes perturbatrices, comme Stevens luimême le reconnaît : exercice de la volonté, impulsion motrice, transmission le long des nerfs efférents, enfin période latente de la contrac [^p94-1][^p94-2][^p94-3][^p94-4][^p94-5][^p94-6]
+et de causes perturbatrices, comme Stevens luimême le reconnaît : exercice de la volonté, impulsion motrice, transmission le long des nerfs efférents, enfin période latente de la contrac
 
 [p. 95] tion musculaire. Stevens ne propose lui-même aucune explication des résultats qu'il a consignés. Peut-être, la volonté de reproduire et le mouvement reproducteur étant les choses les plus importantes dans ses expériences, arrivera-t-on à ce résultat : quand l'intervalle à reproduire est au-dessous du point d'indifférence, on a beau se le représenter d'abord plus long qu'il n'est, on s'aperçoit qu'il est rapide et on s'imprime à soi-même, dans la reproduction motrice, une vitesse ayant pour but de ne pas rester au-dessous du type. Cette vitesse aboutit à raccourcir encore les intervalles déjà courts. Au contraire, quand l'intervalle de temps est au-dessus du point d'indifférence, il paraît long malgré le raccourcissement que l'imagination en fait malgré elle, et la volonté imprime un mouvement lent, un mouvement contenu, par peur de trop précipiter. Il en résulte un ralentissement final des intervalles déjà lents. Le musicien auquel le métronome indique un mouvement rapide tend à le presser encore par peur de rester au-dessous ; si le métronome lui indique un mouvement lent, il le ralentit encore par crainte d'aller trop vite. Telle est l'explication que nous proposerions des divergences signalées entre les expérimentateurs.
 
 [p. 96] Selon Estel, nos représentations de temps, comme les autres sensations et représentations, sont influencées par les impressions passées appartenant au domaine d'un même sens. Un temps qui a été court, par exemple, dans le domaine de l'ouïe, fait paraître le suivant plus court'.
 
-L'influence de l'attente sur la durée apparente est bien connue. Si l'attente paraît longue, c'est qu'elle est une série de déceptions, de pas encore. Notre désir, en se joignant à la représentation de l'objet attendu, — l'arrivée de celle qu'on aime, par exemple, — tend à nous figurer le futur comme présent, et comme nous voudrions qu'il se réalisât tout de suite, nous sautons à pieds joints sur les intermédiaires, nous nous figurons la distance franchie ; conséquemment, nous la voulons et nous la concevons plus courte qu'elle ne peut l'être ou ne doit l'être. De là les interminables quand ? Par comparaison avec le temps idéal et idéalement précipité, le temps réel nous paraît se traîner d'une façon désespérante.
+L'influence de l'attente sur la durée apparente est bien connue. Si l'attente paraît longue, c'est qu'elle est une série de déceptions, de pas encore. Notre désir, en se joignant à la représentation de l'objet attendu, — l'arrivée de celle qu'on aime, par exemple, — tend à nous figurer le futur comme présent, et comme nous voudrions qu'il se réalisât tout de suite, nous sautons à pieds joints sur les intermédiaires, nous nous figurons la distance franchie ; conséquemment, nous la voulons et nous la concevons plus courte qu'elle ne peut l'être ou ne doit l'être. De là les interminables quand ? Par comparaison avec le temps idéal et idéalement précipité, le temps réel nous paraît se traîner d'une façon désespérante.[^p96-1]
 
-Quand l'attente a pris fin, les uns disent (avec Wundt) que le temps qui leur avait paru si long se raccourcit tout d'un coup par [^p96-1]
+Quand l'attente a pris fin, les uns disent (avec Wundt) que le temps qui leur avait paru si long se raccourcit tout d'un coup par
 
 [p. 97] l'oubli de leur ennui ; les autres disent (avec James Sully) qu'ils n'oublient nullement leur ennui et que le temps de l'attente reste marqué dans leur mémoire d'un caractère de lenteur. Tout dépend, ici encore, du point de comparaison et de la présence ou de l'absence du souvenir d'ennui.
 
@@ -1273,7 +1273,7 @@ les
 
 théâtres, une
 
-file de décors est au-dessous de la scène, prête à monter devant le spectateur. Ces décors, ce sont les tableaux de notre passé qui reparaissent ; il y en a de plus effacés, de plus estompés [^p100-1]
+file de décors est au-dessous de la scène, prête à monter devant le spectateur.[^p100-1] Ces décors, ce sont les tableaux de notre passé qui reparaissent ; il y en a de plus effacés, de plus estompés
 
 [p. 101] LES ILLUSIONS DU TEMPS et brumeux, qui font un effet de lointain, d'autres qui font un effet de coulisses. Nous les classons selon leur degré d'intensité et selon leur ordre d'apparition. Le machiniste, c'est la mémoire. C'est ainsi que, pour l'enfant. le premier janvier passé recule indéfiniment derrière tous les événements qui l'ont suivi, et le premier janvier futur paraît aussi fort loin, tant l'enfant a hâte de grandir ; au contraire, la vieillesse, c'est le décor du théâtre classique toujours le même, un endroit banal ; tantôt une véritable unité de temps, de lieu et d'action, qui concentre tout autour d'une occupation dominante en effaçant le reste ; tantôt une nullité d'action, de lieu et de temps. Les semaines se ressemblent, les mois se ressemblent ; c'est le train monotone de la vie. Toutes ces images se superposent et n'en font plus qu'une. L'imagination voit le temps en raccourci. Le désir aussi le voit de même ; à mesure qu'on approche du terme de la vie, après chaque année, on dit : encore une de moins ! qu'ai-je eu le temps de faire ? qu'ai-je senti, vu, accompli de nouveau ? Comment peut-il s'être écoulé trois cent soixante-cinq jours qui font l'effet de quelques mois ?
 
@@ -1283,7 +1283,7 @@ Voulez-vous rallonger la perspective du temps, remplissez-le, si vous pouvez, de
 
 [p. 102] choses nouvelles. Faites un voyage qui vous passionne, qui vous fasse redevenir jeune en rajeunissant le monde autour de vous. Les événements accumulés, les espaces parcourus s'ajouteront, bout à bout, dans votre imagination rétrospective : vous aurez des fragments du monde visible en grand nombre et disposés en série, et ce sera, comme on dit avec tant de justesse, un long espace de temps.
 
-Selon M. Janet, la durée apparente d'une certaine portion de temps, dans la vie de chaque homme, serait « proportionnelle à la durée totale de cette vie¹ ». Une année, dit-il, pour un enfant de dix ans, représente le dixièmẹ de son existence ; pour un homme de cinquante ans, cette même année ne sera plus qu'un cinquantième ; elle paraîtra ainsi cinq fois plus courte. D'autre part, pour l'enfant, l'âge de cinquante ans paraît prodigieusement avancé, mais non pour le cinquantenaire. Cette loi ne s'appliquerait d'ailleurs qu'aux périodes assez longues, comme les années, non aux jours ou aux mois, que nous ne songeons point à comparer avec toute une vie. La loi de M. Janet nous semble exprimer une tendance réelle de l'imagination, qui consiste à juger les gran-[^p102-1]
+Selon M. Janet, la durée apparente d'une certaine portion de temps, dans la vie de chaque homme, serait « proportionnelle à la durée totale de cette vie[^p102-1] ». Une année, dit-il, pour un enfant de dix ans, représente le dixièmẹ de son existence ; pour un homme de cinquante ans, cette même année ne sera plus qu'un cinquantième ; elle paraîtra ainsi cinq fois plus courte. D'autre part, pour l'enfant, l'âge de cinquante ans paraît prodigieusement avancé, mais non pour le cinquantenaire. Cette loi ne s'appliquerait d'ailleurs qu'aux périodes assez longues, comme les années, non aux jours ou aux mois, que nous ne songeons point à comparer avec toute une vie. La loi de M. Janet nous semble exprimer une tendance réelle de l'imagination, qui consiste à juger les gran-
 
 [p. 103] LES ILLUSIONS DU TEMPS deurs relativement à ce qu'elle peut se représenter de plus grand ou de plus petit : pour celui qui n'a point parcouru beaucoup de pays,
 
@@ -1359,13 +1359,13 @@ quoiqu'il se produise réellement pour la première fois ; il paraît
 
 « Dualité de l'esprit », rapporte que,
 
-« pendant qu'il assistait au service funèbre de la princesse Charlotte, dans la chapelle de Windsor, il eut tout d'un coup le sentiment d'avoir été autrefois témoin du même spectacle » ? Lewes rapproche ce phénomène de quelques autres plus fréquents. En pays étranger, le détour brusque d'un sentier ou d'une rivière peut nous mettre en face de quelque paysage qu'il nous semble avoir autrefois contemplé. « Introduit pour la première fois auprès d'une personne, on sent qu'on l'a déjà vue. En lisant dans un livre des pensées nouvelles, on sent qu'elles ont été présentes à l'esprit antérieurement¹. »
+« pendant qu'il assistait au service funèbre de la princesse Charlotte, dans la chapelle de Windsor, il eut tout d'un coup le sentiment d'avoir été autrefois témoin du même spectacle » ? Lewes rapproche ce phénomène de quelques autres plus fréquents. En pays étranger, le détour brusque d'un sentier ou d'une rivière peut nous mettre en face de quelque paysage qu'il nous semble avoir autrefois contemplé. « Introduit pour la première fois auprès d'une personne, on sent qu'on l'a déjà vue. En lisant dans un livre des pensées nouvelles, on sent qu'elles ont été présentes à l'esprit antérieurement[^p110-1]. »
 
 Selon M. Ribot, cette illusion s'explique assez
 
 facilement.
 
-L'impression reçue évoque dans notre passé des impressions analogues, vagues, confuses, à peine entrevues, mais qui suffisent à faire croire que l'état nouveau en est la répétition. Il y a un fond de ressemblance rapidement senti entre deux états de conscience, qui pousse à les identifier. C'est une erreur ; mais elle n'est que partielle, parce qu'il y a en effet dans notre passé quel-[^p110-1]
+L'impression reçue évoque dans notre passé des impressions analogues, vagues, confuses, à peine entrevues, mais qui suffisent à faire croire que l'état nouveau en est la répétition. Il y a un fond de ressemblance rapidement senti entre deux états de conscience, qui pousse à les identifier. C'est une erreur ; mais elle n'est que partielle, parce qu'il y a en effet dans notre passé quel-
 
 [p. 111] LES ILLUSIONS DU TEMPS que chose qui ressemble à une première expérience.
 
@@ -1389,13 +1389,13 @@ En d'autres termes, selon M. Ribot, le mécanisme de la mémoire « fonctionne �
 
 : on prend l'image vive du souvenir pour la sensation réelle, et la sensation réelle, déjà affaiblie, pour un souvenir. Nous croyons plutôt, avec M. Fouillée ', qu'il y a là « un phénomène maladif d'écho et de répétition intérieure », analogue à celui qui a lieu dans le souvenir véritable : « Toutes les sensations nouvelles se trouvent avoir un retentissement et sont ainsi associées à des images consécutives qui les répètent ; par une sorte de mirage, ces représentations consécutives sont projetées dans le passé. C'est une diplopie dans
 
-le temps. Quand on voit double dans l'espace, c'est que les deux images ne se superposent pas ; de même, quand on voit double dans le temps, c'est qu'il y a dans les centres cérébraux un manque de synergie et de simultanéité, grâce auquel les ondulations similaires ne se fondent pas entièrement ; il en résulte dans la conscience une image double ; l'une [^p113-1]
+le temps.[^p113-1] Quand on voit double dans l'espace, c'est que les deux images ne se superposent pas ; de même, quand on voit double dans le temps, c'est qu'il y a dans les centres cérébraux un manque de synergie et de simultanéité, grâce auquel les ondulations similaires ne se fondent pas entièrement ; il en résulte dans la conscience une image double ; l'une
 
 [p. 114] vive, l'autre ayant l'affaiblissement du souvenir ; le stéréoscope intérieur se trouvant dérangé, les deux images ne se confondent plus, de manière à ne former qu'un objet. Au reste, toute explication complète est impossible dans l'état actuel de la science, mais ces cas maladifs nous font comprendre que l'apparence du familier et du connu tient à un certain sentiment aussi indéfinissable que l'impression du bleu ou du rouge, et qu'on peut considérer comme un sentiment de répétition ou de duplication. »> M. James Sully dit qu'il possède lui-même le pouvoir, quand il considère un objet nouveau, de se le représenter comme familier. C'est sans doute qu'il y a dans son esprit répétition, résurrection vague d'objets semblables à celui qui est actuellement perçu. Ce mécanisme même explique, selon M. Fouillée, pourquoi on peut se souvenir sans reconnaître qu'on se souvient et en éprouvant le sentiment de la nouveauté ;
 
 « c'est qu'alors la duplicité normale des images est abolie et on n'en voit qu'une quand il en faudrait voir deux. C'est l'inverse
 
-des cas de fausse mémoire, où l'unité normale des images est abolie au profit d'une duplicité anormale. Parfois enfin le sentiment de familiarité et de reconnaissance produit par une impres-[p. 115]sion nouvelle vient de ce que nous avons rêvé des choses analogues ¹. »
+des cas de fausse mémoire, où l'unité normale des images est abolie au profit d'une duplicité anormale. Parfois enfin le sentiment de familiarité et de reconnaissance produit par une impres-[p. 115]sion nouvelle vient de ce que nous avons rêvé des choses analogues [^p115-1]. »
 
 ))
 
@@ -1403,7 +1403,7 @@ Dernier problème. Notre représentation du temps demeure-t-elle discrète, ou d
 
 Kant nous gratifie du premier coup de la notion du temps continu et même infini, qu'il appelle une « quantité infinie donnée ». C'est trop de générosité. L'esprit, dans sa représentation du temps comme dans toutes les autres et notamment dans celle de l'espace, va d'abord par bonds, sautant à cloche-pied sur les intermédiaires, qu'il n'aperçoit pas. Ce sont des fragments de temps comme des fragments d'espace, avec des
 
-interruptions apparentes, des lacunes. C'est seulement à la fin, par la répétition des expériences, que ces lacunes vont diminuant et parviennent à un point d'évanouissement, conséquemment de fusion entre les divers morceaux de durée perçue. On a comparé ce phénomène à ce qui se passe dans la roue de Savart, lorsque les battements d'abord séparés finissent par se rejoindre avec la vitesse croissante de la roue et donnent ainsi [^p115-1]
+interruptions apparentes, des lacunes. C'est seulement à la fin, par la répétition des expériences, que ces lacunes vont diminuant et parviennent à un point d'évanouissement, conséquemment de fusion entre les divers morceaux de durée perçue. On a comparé ce phénomène à ce qui se passe dans la roue de Savart, lorsque les battements d'abord séparés finissent par se rejoindre avec la vitesse croissante de la roue et donnent ainsi
 
 [p. 116] l'impression d'un son continu. De même encore que, dans l'espace, nous finissons par prolonger la vision idéale sur ce que nous ne voyons pas, en vertu d'une sorte de conservation de vitesse acquise, de même nous comblons idéalement les lacunes du temps et nous finissons par le concevoir avec sa continuité mathématique.
 
@@ -1449,7 +1449,7 @@ LA POÉSIE DU TEMPS 1
 
 En ce qui concerne l'effet poétique produit par l'éloignement dans le temps, une question préalable se présente, celle qui concerne l'effet esthétique du souvenir même, — du souvenir qui est en somme une forme de la sympathie, la sympathie avec soi-même, la sympathie du moi présent pour le moi passé. L'art doit imiter le souvenir ; son but doit être d'exercer comme lui l'imagination et la sensibilité, en économisant le plus possible leurs forces. De même que le souvenir est un prolongement de la sensation, l'imagination en est un commencement, une ébauche. Au fond, la poésie de l'art se ramène en partie à ce qu'on appelle la « poésie du souvenir » ; l'imagination artistique ne
 
-fait que travailler sur le fonds d'images fourni à chacun de nous par la mémoire. Il doit donc y avoir, jusque dans le souvenir, quelque élément d'art. Au fond, le souvenir offre par lui seul les caractères qui distinguent, selon Spencer, toute émotion esthétique. C'est un jeu de l'imagination, et un jeu désintéressé, précisément parce qu'il a pour objet le [^p123-1]
+fait que travailler sur le fonds d'images fourni à chacun de nous par la mémoire. Il doit donc y avoir, jusque dans le souvenir, quelque élément d'art. Au fond, le souvenir offre par lui seul les caractères qui distinguent, selon Spencer, toute émotion esthétique.[^p123-1] C'est un jeu de l'imagination, et un jeu désintéressé, précisément parce qu'il a pour objet le
 
 [p. 124] passé, c'est-à-dire ce qui ne peut plus être. En outre, le souvenir est de toutes les représentations la plus facile, celle qui économise le plus de force ; le grand art du poète ou du romancier, c'est de réveiller en nous des souvenirs : nous ne sentons guère le beau que quand il nous rappelle quelque chose ; et le beau même des œuvres d'art ne consiste-t-il pas en partie dans la vivacité plus ou moins grande de ce rappel ? Ajoutons que les émotions passées se présentent à nous dans une sorte de lointain, un peu indistinctes, fondues les unes avec les autres ; elles sont ainsi plus faibles et plus fortes tout ensemble, parce qu'elles entrent l'une dans l'autre sans qu'on puisse les séparer ; nous jouissons donc à leur égard d'une plus grande liberté, parce que, indistinctes comme elles sont, nous pouvons plus facilement les modifier, les retoucher, jouer avec elles. Enfin, et c'est là le point important, le souvenir par lui- même altère les objets, les transforme, et cette transformation s'accomplit généralement dans un sens esthétique. Le temps agit le plus souvent sur les choses à la manière d'un artiste qui embellit tout en paraissant rester fidèle, par une sorte de magie propre. Voici comment on peut expliquer scientifiquement ce travail du souvenir. Il se produit dans notre pensée une sorte de lutte pour la vie entre toutes nos impressions ; celles qui ne nous ont pas frappés assez fortement s'effacent, et il ne subsiste à la longue que les impressions fortes. Dans un paysage, par exemple un petit bois au bord d'une rivière, nous oublierons tout ce qui était accessoire, tout ce que nous avons vu sans le remarquer, tout ce qui n'était pas distinctif et caractéristique, significatif ou suggestif. Nous oublierons même la fa-[p. 125]tigue que nous pouvions éprouver, si elle était légère, les petites préoccupations de toute sorte, les mille riens qui distrayaient notre attention ; tout cela sera emporté, effacé. Il ne restera que ce qui était profond, ce qui avait laissé en nous une trace vive et vivace : la fraîcheur de l'air, la mollesse de l'herbe, les
 
@@ -1473,7 +1473,7 @@ c'est-à-dire tout simplement la persistance d'une même sensation ou d'un même
 
 Nous pouvons conclure de tout ce qui précède que le fond le plus solide sur lequel travaille l'artiste, c'est le souvenir : le souvenir de ce qu'il a ressenti ou vu comme homme, avant d'être artiste de profession. La sensation et le sentiment peuvent un jour être altérés par le métier, mais le souvenir des émotions de jeunesse ne l'est pas, garde toute sa fraîcheur, et c'est avec ces matériaux non corruptibles que l'artiste construit ses meilleures œuvres, ses œuvres vécues. Eugénie de Guérin écrit, en feuilletant des papiers « pleins de son frère » :
 
-« Ces choses mortes me font, je crois, plus d'impression que de leur vivant, et le ressentir est plus fort que le sentir. »> Diderot a écrit quelque part : « Pour que l'artiste me fasse pleurer, il faut qu'il ne pleure pas ! » mais, a-t-on répondu avec raison, il faut qu'il ait pleuré : il faut que son accent garde l'écho des sentiments éprouvés et disparus. Et il en est de même pour l'écrivain¹.[^p129-1]
+« Ces choses mortes me font, je crois, plus d'impression que de leur vivant, et le ressentir est plus fort que le sentir. »> Diderot a écrit quelque part : « Pour que l'artiste me fasse pleurer, il faut qu'il ne pleure pas ! » mais, a-t-on répondu avec raison, il faut qu'il ait pleuré : il faut que son accent garde l'écho des sentiments éprouvés et disparus. Et il en est de même pour l'écrivain[^p129-1].
 
 [p. 130] L'école classique a bien connu l'effet esthétique de l'éloignement dans le temps ; mais son procédé ne consiste encore qu'à reporter les événements dans un passé abstrait. Les Grecs de Racine ne sont guère Grecs que par la date à laquelle on les place, et qui reste trop souvent une simple étiquette, un simple chiffre, sans nous faire voir la Grèce d'alors. L'école historique, au contraire, reporte les événements sur le passé concret.
 
@@ -1493,7 +1493,7 @@ L'antique est une sorte de réalité purifiée par le temps. « Tout âge, dit E
 
 le mont Athos ait été sculpté, selon le plan d'Alexandre, en une colossale statue humaine. Les paysans qui eussent ramassé les
 
-broussailles dans son oreille [p. 132] n'eussent pas plus songé que les boucs qui y broutaient à chercher là une forme aux traits humains ; et je mets en fait qu'il leur eût fallu aller à cinq milles de là pour que l'image géante éclatât à leurs regards en plein profil humain, nez et menton distincts, bouche murmurant des rythmes silencieux vers le ciel et nourrie au soir du sang des soleils ; grand torse, main qui eût épanché perpétuellement la largesse d'un fleuve sur les pâturages de la contrée. Il en est de même pour les temps où nous vivons ; ils sont trop grands pour qu'on puisse les voir de près. Mais les poètes doivent déployer une double vision ; avoir des yeux pour voir les choses rapprochées avec autant de largeur que s'ils prenaient leur point de vue de loin, et les choses distantes d'une façon aussi intime et profonde que s'ils les touchaient. C'est ce à quoi nous devons tendre. Je me défie d'un poète qui ne voit ni caractère, ni gloire dans son époque, et fait rouler son âme cinq cents ans en arrière derrière fossés et pont-levis, dans la cour d'un vieux château, pour y chanter quelque noir chef¹ ».[^p132-1]
+broussailles dans son oreille [p. 132] n'eussent pas plus songé que les boucs qui y broutaient à chercher là une forme aux traits humains ; et je mets en fait qu'il leur eût fallu aller à cinq milles de là pour que l'image géante éclatât à leurs regards en plein profil humain, nez et menton distincts, bouche murmurant des rythmes silencieux vers le ciel et nourrie au soir du sang des soleils ; grand torse, main qui eût épanché perpétuellement la largesse d'un fleuve sur les pâturages de la contrée. Il en est de même pour les temps où nous vivons ; ils sont trop grands pour qu'on puisse les voir de près. Mais les poètes doivent déployer une double vision ; avoir des yeux pour voir les choses rapprochées avec autant de largeur que s'ils prenaient leur point de vue de loin, et les choses distantes d'une façon aussi intime et profonde que s'ils les touchaient. C'est ce à quoi nous devons tendre. Je me défie d'un poète qui ne voit ni caractère, ni gloire dans son époque, et fait rouler son âme cinq cents ans en arrière derrière fossés et pont-levis, dans la cour d'un vieux château, pour y chanter quelque noir chef[^p132-1] ».
 
 [p. 133] DEUXIÈME APPENDICE
 

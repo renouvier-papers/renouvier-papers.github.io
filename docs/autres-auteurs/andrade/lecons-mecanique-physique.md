@@ -70,7 +70,7 @@ Le sens de cette rotation, par rapport à la gauche ou à la droite de la poupé
 
 Dans le cas de la figure, la poupée voit la rotation considérée s'effectuer de sa droite vers sa gauche.
 
-Dans le cas de la nouvelle figure ', où ZOX étant le plan du papier, l'axe OY vient en avant de la feuille, la rotation est contraire et dirigée de gauche à droite. On dit que la [^p3-1]
+Dans le cas de la nouvelle figure ', où ZOX étant le plan du papier, l'axe OY vient en avant de la feuille, la rotation est contraire et dirigée de gauche à droite.[^p3-1] On dit que la
 
 [p. 4] REPÈRES DU MOUVEMENT.
 
@@ -3879,7 +3879,7 @@ Yi
 
 = Σ, Γ
 
-(1)
+[^p100-1]
 
 =
 
@@ -3914,7 +3914,7 @@ ou si on appelle xo, yo, zo, les coordonnées du centre de gravité G du systèm
 d'xo
 
 
-di [^p100-1]
+di
 
 [p. 101] si on veut les mouvements par rapport au centre de gravité, c'est-à-dire par rapport à un espace E. ayant pour origine le point C et pour axes des axes parallèles aux axes de E, on fera :
 
@@ -4062,7 +4062,7 @@ v = Py
 
 qx
 
-En s'appuyant sur ce théorème d'Euler, qui montre que tout déplacement d'une figure qui a un point fixe peut être obtenu par une rotation effectuée autour d'un axe passant par ce point, il serait aisé d'établir que pdt, qdt, rdt, sont aux infiniment petits du second ordre près, les projections sur les axes de coordonnées de la rotation odt qui d'après Euler produirait le déplacement infiniment du corps rigide considéré pendant le temps dt. Les formules [^p103-1]
+En s'appuyant sur ce théorème d'Euler, qui montre que tout déplacement d'une figure qui a un point fixe peut être obtenu par une rotation effectuée autour d'un axe passant par ce point, il serait aisé d'établir que pdt, qdt, rdt, sont aux infiniment petits du second ordre près, les projections sur les axes de coordonnées de la rotation odt qui d'après Euler produirait le déplacement infiniment du corps rigide considéré pendant le temps dt.[^p103-1] Les formules
 
 [p. 104] FORMULES POUR
 
@@ -4548,7 +4548,7 @@ dt
 
 nSi donc n≥ 2, ces inconnues pourront être déterminées sous le bénéfice de 3n
 
-6 équations de condition.
+6 équations de condition.[^p112-1]
 
 Observons d'ailleurs que les trois premières équations du système 10, pour pouvoir être résolues par rapport aux p, q, r, exigent que le déterminant :
 
@@ -4566,7 +4566,7 @@ B
 E
 
 
-C[^p112-1]
+C
 
 [p. 113] LES
 
@@ -7075,7 +7075,7 @@ Sa
 
 3
 
-Appliquons ceci à la quadrique (1) on aura
+Appliquons ceci à la quadrique [^p160-1] on aura
 
 2
 
@@ -7097,7 +7097,7 @@ d₂, d₃, sont les vitesses de dilatations principales on aura
 
 S₁ = (1+, dt)
 
-1-28 dt [^p160-1]
+1-28 dt
 
 [p. 161] CORPS DÉFORMABLES.
 
@@ -7129,7 +7129,7 @@ cette équation devient, en divisant par dt³, (28
 
 Cette équation aura pour racines les vitesses des dilatations principales
 
-81, 82, 8, comme le montrent les formules (3).
+81, 82, 8, comme le montrent les formules (3).[^p161-1]
 
 Si l'on pose
 
@@ -7137,7 +7137,7 @@ A₁ = 2 (x + 22+ 23)
 
 A₂ = 4 22 23
 
-βι²+ 423 21
+βι[^p161-2]+ 423 21
 
 2
 
@@ -7163,7 +7163,7 @@ A3=
 
 2 23
 
-l'équation (4) s'écrira [^p161-1][^p161-2]
+l'équation (4) s'écrira
 
 [p. 162] DÉFORMATION
 
@@ -7183,9 +7183,9 @@ Déplacement d'un élément de surface physique.
 
 Considérons un élément de surface physique dont les particules restent assemblées en vertu de la continuité.
 
-Soient a, b, c, les cosinus directeurs de la normale à l'élément, cherchons comment ces éléments varient avec le temps dt.
+Soient a, b, c, les cosinus directeurs de la normale à l'élément, cherchons comment ces éléments varient avec le temps dt.[^p162-1]
 
-Considérons dans l'élément une droite physique dont les cosinus directeurs sont α, β, γ, on aura la relation [^p162-1]
+Considérons dans l'élément une droite physique dont les cosinus directeurs sont α, β, γ, on aura la relation
 
 [p. 163] CORPS DÉFORMABLES.
 
@@ -10138,7 +10138,7 @@ Pr² sera donc une forme quadratique des
 
 et ẞ dont 21 des coefficients seront unis par 21-3 = 18 relations.
 
-Celles de ces relations qui sont linéaires et homogènes persisteront dans la forme quadratique (par rapport aux a et β).
+Celles de ces relations qui sont linéaires et homogènes persisteront dans la forme quadratique (par rapport aux a et β).[^p200-1]
 
 Σ d-F
 
@@ -10154,7 +10154,7 @@ coefficient de 2 a₁₂ = coefficient de Ba²
 
 = coefficient de 2 23 33
 
-coefficient de 2 βεβα[^p200-1]
+coefficient de 2 βεβα
 
 [p. 201] CORPS DÉFORMABLES.
 
@@ -10849,7 +10849,7 @@ P
 
 7
 
-Pir + Par, etc. ;
+Pir + Par, etc.[^p212-2][^p212-1] ;
 
 L'équilibre
 
@@ -10865,7 +10865,7 @@ les
 
 variations virtuelles
 
-et SWde désignant toujours la fonction des forces moléculaires on aura [^p212-1][^p212-2]
+et SWde désignant toujours la fonction des forces moléculaires on aura
 
 [p. 213] CORPS DÉFORMABLES.
 
@@ -11258,7 +11258,7 @@ le sous- minimum atteint porte le nom de minimum. La variation de la fonction U,
 
 dx² + dy² +
 
-dr.
+dr.[^p218-1]
 
 On voit que si l'on n'avait pas
 
@@ -11274,7 +11274,7 @@ d²U 。
 
 dz
 
-dx² + dy² + do = 0[^p218-1]
+dx² + dy² + do = 0
 
 [p. 219] CORPS DÉFORMABLES.
 
@@ -11298,7 +11298,7 @@ Sur la distribution des pressions actuelles.
 
 Je désignerai par I' la pression exercée sur l'élément actuel intérieur do, provenant des actions transmises à cet élément par la partie du corps qui est située par rapport à l'élément du côté de la normale orientée v ; rien n'empêche de supposer que les deux états d'équilibre naturel et contraints coïncident.
 
-Les équations (10) ¹ donnent dans ce cas particulier :
+Les équations (10) [^p220-1] donnent dans ce cas particulier :
 
 n =
 
@@ -11369,7 +11369,7 @@ II =
 
 II + BII +
 
-II[^p220-1]
+II
 
 [p. 221] CORPS DÉFORMABLES.
 
@@ -12587,7 +12587,7 @@ Considérons les forces parallèles à l'axe des x et qui sont :
 
 dx parallèle à la face antérieure.
 
-[p. 237] CORPS DÉFORMABLES.
+[p. 237] CORPS DÉFORMABLES.[^p237-2][^p237-1]
 
 On aura donc
 
@@ -12629,7 +12629,7 @@ j = X
 
 1 dp
 
-p dx [^p237-1][^p237-2]
+p dx
 
 [p. 238] LES FLUIDES.
 
@@ -15544,7 +15544,7 @@ Cette limite Pest relative à la répétition d'efforts élastiques de même sen
 
 2 Piet p2 sont les modules d'élasticité.
 
-Voici quelques nombres obtenus par Wöhler et que j'emprunte au bel ouvrage de M. Maurice Lévy ' et qui sont relatifs à un essieu en fer :[^p269-1]
+Voici quelques nombres obtenus par Wöhler et que j'emprunte au bel ouvrage de M.[^p269-1] Maurice Lévy ' et qui sont relatifs à un essieu en fer :
 
 [p. 270] EXPÉRIENCES DE WÖHLER.
 
@@ -15642,7 +15642,7 @@ cette formule coïncide avec la définition de pet p lorsque /max = fmin et lors
 
 Loide
 
-Weyrauch.
+Weyrauch.[^p271-1]
 
 Pour le cas où il se produit des forces élastiques de sens variable, Weyrauch a proposé la formule empirique :
 
@@ -15652,7 +15652,7 @@ Luu
 
 R2
 
-ρι[^p271-1]
+ρι
 
 [p. 272] LES TROIS MODULES D'ÉLASTICITÉ.
 
@@ -15788,7 +15788,7 @@ M =
 
 πυ.λω
 
-(1)
+[^p276-1]
 
 N =
 
@@ -15796,7 +15796,7 @@ ndo
 
 ces intégrales de surface étant prises dans toute l'étendue S de la section A.
 
-Pour calculer ces intégrales, il nous faut évaluer ads qui est une fonction linéaire de u ; en effet la section A ' tourne par rapport à la section A et si on appelle o la quantité dont elle tourne dans le sens positif des moments, on aura pour le raccourcissement ads [^p276-1]
+Pour calculer ces intégrales, il nous faut évaluer ads qui est une fonction linéaire de u ; en effet la section A ' tourne par rapport à la section A et si on appelle o la quantité dont elle tourne dans le sens positif des moments, on aura pour le raccourcissement ads
 
 [p. 277] RÉSISTANCE DES SOLIDES.
 
@@ -15950,7 +15950,7 @@ Considérons deux sections infiniment voisines A et A ' normales en Get G ' à l
 
 Le déplacement de la section A' par rapport à la section A, peut se résoudre en une translation G'y ' = ôds, et en une rotation & autour de y' par lesquelles A' vient en A" puis en -A"".
 
-Soient C', C'et y les points où les traces sur le plan de L des sections A ', A", A" coupent la trace de la section A.
+Soient C', C'et y les points où les traces sur le plan de L des sections A ', A", A" coupent la trace de la section A.[^p280-2][^p280-1]
 
 En considérant les quatre angles γ, γ΄, C ", C', dont les deux derniers sont égaux, on a
 
@@ -15981,7 +15981,7 @@ N
 
 ES
 
-1[^p280-1][^p280-2]
+1
 
 [p. 281] RÉSISTANCE DES SOLIDES.
 
@@ -17611,7 +17611,7 @@ et sur leur
 
 composition
 
-graphique.
+graphique.[^p313-1]
 
 
 p si pest la distance
@@ -17621,7 +17621,7 @@ polaire, cette ordonnée est, le produit
 dx représente donc l'aire infiniment petite aa ' bb ' ; or, si on arrête les ordonnées à la corde A ' B ' du
 
 
-P[^p313-1]
+P
 
 [p. 314] EMPLOI DE FORCES FICTIVES.
 
@@ -18611,7 +18611,7 @@ Mdx
 
 ΕΙ le système des charges fictives
 
-réparties sur cette travée, donc d'après une propriété des courbes funiculaires le segment A1 Ti + 1 est la représentation du moment par rapport à A1 + 1 des charges fictives considérées.
+réparties sur cette travée, donc d'après une propriété des courbes funiculaires le segment A1 Ti + 1 est la représentation du moment par rapport à A1 + 1 des charges fictives considérées.[^p332-2][^p332-1]
 
 or on a :
 
@@ -18621,7 +18621,7 @@ Ti+ 1 Ait1
 
 -G + 1
 
-et par suite [^p332-1][^p332-2]
+et par suite
 
 [p. 333] RÉSISTANCE DES SOLIDES.
 
@@ -19030,7 +19030,7 @@ li+1
 
 0
 
-Toutes ces intégrales définies sont calculables quand on connaît les charges, les points Fi, Fi+1 et la nature des travées ; de plus les coefficients de M₁, M₁- Pis Mit 1 — Pi + 1 ne dépendent pas des charges, celles-ci ne figurent que dans H.
+Toutes ces intégrales définies sont calculables quand on connaît les charges, les points Fi, Fi+1 et la nature des travées ; de plus les coefficients de M₁, M₁- Pis Mit 1 — Pi + 1 ne dépendent pas des charges, celles-ci ne figurent que dans H.[^p338-1]
 
 - Pour une poutre homogène et de section constante en faisant H = 6 EI H ; et après avoir remplacé u, par l — vi, l'équation générale deviendra :
 
@@ -19040,7 +19040,7 @@ Toutes ces intégrales définies sont calculables quand on connaît les charges,
 
 (Mi + 1-1 + i)
 
-+1[^p338-1]
++1
 
 [p. 339] RÉSISTANCE DES SOLIDES.
 
@@ -19285,7 +19285,7 @@ et
 
 Vi
 
-Ui+1 Deux points ainsi associés se nomment points correspondants.
+Ui+1 Deux points ainsi associés se nomment points correspondants.[^p341-1]
 
 c'est une équation du premier degré en
 
@@ -19307,7 +19307,7 @@ x (l ; — x) dx
 
 + Mi +1-4 + 1
 
-Ni+1 li+1[^p341-1]
+Ni+1 li+1
 
 [p. 342] POINTS CORRESPONDANTS.
 
@@ -19425,7 +19425,7 @@ Dimension
 
 Si elles sont de même signe, désignons -les par Fmax et Fmin ;
 
-si elles sont de signes variables soit Fmax la plus grande en valeur absolue, Фmax la plus grande des forces de signe contraire. Dans le premier cas, la section S doit être calculée par la formule
+si elles sont de signes variables soit Fmax la plus grande en valeur absolue, Фmax la plus grande des forces de signe contraire.[^p344-1] Dans le premier cas, la section S doit être calculée par la formule
 
 Fmax < R
 
@@ -19463,7 +19463,7 @@ famia
 
 fmax et l'on aura
 
-Fmax [^p344-1]
+Fmax
 
 [p. 345] RÉSISTANCE DES SOLIDES.
 
@@ -19522,14 +19522,14 @@ n
 
 ρι
 
-d'après la formule de Launhardt.
+d'après la formule de Launhardt.[^p345-1]
 
 c'est-à-dire enfin :
 
 
 Mmax
 
-Momaxx [^p345-1]
+Momaxx
 
 [p. 346] DIMENSION DES PIÈCES.
 
@@ -19683,7 +19683,7 @@ Mou
 
 f
 
-++ (- 1) (mix ] tre hypothèse.
+++ (- 1) (mix ] tre hypothèse.[^p347-1]
 
 Mu
 
@@ -19691,7 +19691,7 @@ No
 
 =
 
-오[^p347-1]
+오
 
 [p. 348] DIMENSION DES PIÈCES.
 
@@ -19849,11 +19849,11 @@ et
 
 20
 
-conduisent au même résultat.
+conduisent au même résultat.[^p358-3][^p358-2]
 
 Nous aurons immédiatement l'équation :
 
-(1)
+[^p358-1]
 
 φ (x)
 
@@ -19861,7 +19861,7 @@ Nous aurons immédiatement l'équation :
 
 les variables x, y, z sont d'ailleurs les trois côtés d'un triangle sphérique rectangle dont
 
-est l'hypoténuse, on a donc :[^p358-1][^p358-2][^p358-3]
+est l'hypoténuse, on a donc :
 
 [p. 359] NOTES.
 
@@ -20359,7 +20359,7 @@ Pour achever la détermination des fonctions get h, nous aurons recours à la co
 
 Considérons une force 1 ayant pour composantes sur deux axes rectangulaires g (x) et h (2).
 
-Puis considérons une force 1, symétrique de la première par rapport à la bissectrice de l'angle des deux axes.
+Puis considérons une force 1, symétrique de la première par rapport à la bissectrice de l'angle des deux axes.[^p371-1]
 
 Puis considérons les systèmes des deux forces d'intensité 1 qui viennent d'être définis séparément ; si la résultante de deux forces égales F faisant entre elles l'angle 2x est désigné par 2 F
 
@@ -20389,13 +20389,13 @@ d'où cette nouvelle relation
 
 α
 
-α[^p371-1]
+α
 
 [p. 372] NOTES.
 
 Nous en tirerons les fonctions yet h quand nous connaîtrons la fonction
 
-qui coïncide avec g.
+qui coïncide avec g.[^p372-1]
 
 Or, en composant dans deux ordres différents le système
 
@@ -20425,7 +20425,7 @@ que l'on ramène par un changement de variable à la forme
 
 On a d'ailleurs
 
-φ (0) = 1[^p372-1]
+φ (0) = 1
 
 [p. 373] NOTES.
 
@@ -20567,7 +20567,7 @@ On aura donc
 
 2PY (p) = 2R cos ẞ= 2 P cos B
 
-sin z en faisant varier a on peut faire reculer le point I à l'infini sur XY'. Or en considérant deux paires de forces perpendiculaires à MM'dont chacune est formée de deux forces symétriques par rapport à XY on trouve aisément que la fonction
+sin z en faisant varier a on peut faire reculer le point I à l'infini sur XY'.[^p376-1] Or en considérant deux paires de forces perpendiculaires à MM'dont chacune est formée de deux forces symétriques par rapport à XY on trouve aisément que la fonction
 
 satisfait à l'équation déjà rencontrée
 
@@ -20593,7 +20593,7 @@ On pourrait aussi envisager l'hypothèse
 
 Ψ (x) < 1 on en déduirait
 
-F (x) = cos [^p376-1]
+F (x) = cos
 
 [p. 377] NOTES.
 
@@ -20736,7 +20736,7 @@ Soient A'B ' la nouvelle position de AB,
 
 IJ la plus courte distance de AB et de
 
-A' A'B'¹.
+A' A'B'[^p380-1].
 
 
 F
@@ -20767,7 +20767,7 @@ J
 
 Les forces Fa et Fr ne travailleront chacune que dans le glissement axial de la droite JY, mais la somme de leurs travaux ici sera nulle ; la remarque faite plus haut achève la démonstration.
 
-La condition nécessaire et suffisante pour que plusieurs forces se fassent équilibre sur un corps rigide est que Théorème.[^p380-1]
+La condition nécessaire et suffisante pour que plusieurs forces se fassent équilibre sur un corps rigide est que Théorème.
 
 [p. 381] NOTES.
 
@@ -20779,7 +20779,7 @@ pour tout déplacement infiniment petit du solide, la somme des travaux virtuels
 
 Je prendrai pour point de départ la composition et la décomposition des forces perpendiculaires à une même droite.
 
-Toute force F perpendiculaire à AB peut être décomposée en deux F ' et F ' de même espèce appliqués en des points donnés, et si x et y sont les distances de ces points au point c, on a comme on l'a vu, en désignant toujours par k le mètre de Lobatchewsky¹
+Toute force F perpendiculaire à AB peut être décomposée en deux F ' et F ' de même espèce appliqués en des points donnés, et si x et y sont les distances de ces points au point c, on a comme on l'a vu, en désignant toujours par k le mètre de Lobatchewsky[^p381-1]
 
 FF
 
@@ -20818,7 +20818,7 @@ B
 
 R
 
-P à AB.[^p381-1]
+P à AB.
 
 [p. 382] NOTES.
 
@@ -21366,11 +21366,11 @@ ch
 
 = ch k
 
-résultat absurde, car on est évidemment maître de la petitesse de q¹.
+résultat absurde, car on est évidemment maître de la petitesse de q[^p391-1].
 
 Donc enfin les propriétés mécaniques attribuées aux fils flexibles rectilignes entraînent le postulatum d'Euclide.
 
-- Toute la géométrie de Lobatchewsky comme celle de Riemann pourrait être développée au point de vue statique d'où je me suis placé, mais je crois avoir insisté suffisamment pour que les développements auxquels je fais allusion n'offrent plus de difficulté.[^p391-1]
+- Toute la géométrie de Lobatchewsky comme celle de Riemann pourrait être développée au point de vue statique d'où je me suis placé, mais je crois avoir insisté suffisamment pour que les développements auxquels je fais allusion n'offrent plus de difficulté.
 
 [p. 392] NOTE
 
@@ -21810,7 +21810,7 @@ dx
 
 م
 
-L'équation (1) doit alors être remplacée par celle-ci :
+L'équation [^p400-1] doit alors être remplacée par celle-ci :
 
 #### I
 
@@ -21830,7 +21830,7 @@ Emxz
 
 I — Io
 
-d [^p400-1]
+d
 
 [p. 401] NOTES.
 

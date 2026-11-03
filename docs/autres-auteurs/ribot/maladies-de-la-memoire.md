@@ -42,7 +42,7 @@ il paraît et disparaît ; ce qu'il repré'sente, c'est l'apport de la conscienc
 
 Si l'on étudie la mémoire, ainsi qu'on l'a fait jusqu'à nos jours , comme « une faculté de l'âme » , à l'aide du [p. 4] sens intime seul, il est inévitable de voir, dans cette forme parfaite et consciente , la mémoire tout entière ; mais c'est, par l'effet d'une mauvaise méthode, prendre la partie pour le tout ou plutôt l'espèce pour le genre . Des auteurs contemporains (Huxley, Clifford , Maudsley, etc.), en soutenant que la conscience n'est que l'accompagnement de certains processus nerveux et qu'elle est « aussi incapable de réagir sur eux que l'ombre sur les pas du voyageur qu'elle accompagne », ont ouvert la voie à la nouvelle théorie que nous essayons ici. Ecartons pour le moment l'élément psychique , sauf à l'étudier plus loin ; réduisons le problème à ses données les plus simples, et voyons comment, en dehors de toute conscience, un état nouveau s'implante dans l'organisme , se conserve et se reproduit : en d'autres termes , comment, en dehors de toute conscience, se forme une mémoire.
 
-Avant d'en venir à la véritable mémoire organique , nous devons mentionner quelques faits qui en ont été parfois rapprochés . On a cherché des analogues de la mémoire dans l'ordre des phénomènes inorganiques , en particulier << dans la propriété qu'ont les vibrations lumineuses de pouvoir être emmagasinées sur une feuille de papier et de persister, à l'état de vibrations silencieuses , pendant un temps plus ou moins long, prêtes à paraître à l'appel d'une substance révélatrice. Des gravures exposées aux rayons solaires et conservées dans l'obscurité peuvent, plusieurs mois après, à l'aide de réactifs spéciaux, révéler les traces persistantes de l'action photographique du soleil sur leur surface ¹ .>> Posez une clef sur une feuille de papier blanc, exposez-les en[^p4-1]
+Avant d'en venir à la véritable mémoire organique , nous devons mentionner quelques faits qui en ont été parfois rapprochés . On a cherché des analogues de la mémoire dans l'ordre des phénomènes inorganiques , en particulier << dans la propriété qu'ont les vibrations lumineuses de pouvoir être emmagasinées sur une feuille de papier et de persister, à l'état de vibrations silencieuses , pendant un temps plus ou moins long, prêtes à paraître à l'appel d'une substance révélatrice. Des gravures exposées aux rayons solaires et conservées dans l'obscurité peuvent, plusieurs mois après, à l'aide de réactifs spéciaux, révéler les traces persistantes de l'action photographique du soleil sur leur surface [^p4-1] .>> Posez une clef sur une feuille de papier blanc, exposez-les en
 
 [p. 5] plein soleil, conservez ce papier dans un tiroir obscur, et, même au bout de quelque années , l'image spectrale de la clef y sera encore visible 1. A notre avis , ces faits et autres semblables ont une analogie trop lointaine avec la mémoire pour qu'on doive insister. On y trouve la première condition de tout rappel : la conservation , mais c'est la seule, car ici la reproduction est tellement passive, tellement dépendante de l'intervention d'un agent étranger, qu'elle ne ressemble pas à la reproduction naturelle de la mémoire. Aussi bien, dans notre sujet, il ne faut jamais perdre de vue que que nous avons affaire à des lois vitales, non à des lois physiques, et que les bases de la mémoire doivent être cherchées dans les propriétés de la matière organisée, non ailleurs . Nous verrons plus tard que ceux qui l'oublient font fausse route .
 
@@ -56,9 +56,9 @@ L'expérience
 
 journalière ,
 
-dit Hering, nous apprend qu'un muscle devient d'autant plus fort qu'il travaille plus souvent. La fibre musculaire, qui d'abord répond faiblement à l'excitation transmise par le nerf moteur, le fait d'autant plus énergiquement qu'il est plus fréquemment excité, en admettant naturellement des pauses et des repos . Après chaque action, il est plus apte à l'action, plus disposé à la répétition d'un même travail , plus apte à la reG[^p5-1]
+dit Hering, nous apprend qu'un muscle devient d'autant plus fort qu'il travaille plus souvent. La fibre musculaire, qui d'abord répond faiblement à l'excitation transmise par le nerf moteur, le fait d'autant plus énergiquement qu'il est plus fréquemment excité, en admettant naturellement des pauses et des repos .[^p5-1] Après chaque action, il est plus apte à l'action, plus disposé à la répétition d'un même travail , plus apte à la reG
 
-[p. 6] production du processus organique. Il gagne plus à l'activité qu'à un long repos . Nous avons ici, sous sa forme la plus simple, la plus rapprochée des conditions physiques , cette faculté de reproduction qui se rencontre sous une forme si complexe dans la substance nerveuse . Et ce qui est bien connu de la substance musculaire se laisse voir plus ou moins dans la substance des autres organes . Partout se montre avec un accroissement d'activité , coupée de repos suffisants , un accroissement de puissance dans la fonction des organes ¹ . >>
+[p. 6] production du processus organique. Il gagne plus à l'activité qu'à un long repos . Nous avons ici, sous sa forme la plus simple, la plus rapprochée des conditions physiques , cette faculté de reproduction qui se rencontre sous une forme si complexe dans la substance nerveuse . Et ce qui est bien connu de la substance musculaire se laisse voir plus ou moins dans la substance des autres organes . Partout se montre avec un accroissement d'activité , coupée de repos suffisants , un accroissement de puissance dans la fonction des organes [^p6-1] . >>
 
 Le tissu le plus élevé de l'organisme, le tissu nerveux , présente au plus haut degré cette double propriété de conservation et de reproduction. Nous ne chercherons pas cependant dans la forme la plus simple de son activité, dans le réflexe , le type de la mémoire organique . Le réflexe , en effet, qu'il consiste en une excitation suivie d'une contraction ou de plusieurs contractions , est le résultat d'une disposition anatomique . On pourrait bien soutenir à la vérité, et non sans vraisemblance , que cette disposition anatomique, innée aujourd'hui chez l'animal, est le produit de l'hérédité , c'est-à-dire d'une mémoire spécifique ; qu'elle a été autrefois acquise, puis fixée et rendue organique par des répétitions sans nombre . Nous renonçons à faire valoir cet argument en faveur de notre thèse , qui en a d'autres bien moins discutables .
 
@@ -66,7 +66,7 @@ Le vrai type de la mémoire organique
 
 et ici nous entrons dans le cœur même de notre sujet
 
-doit être cherché dans ce groupe de faits que Hartley avait si[^p6-1]
+doit être cherché dans ce groupe de faits que Hartley avait si
 
 [p. 7] heureusement nommés actions automatiques secondaires (secondarily automatic) , par opposition aux actes automatiques primitifs ou innés. Ces actions automatiques secondaires, ou mouvements acquis, sont le fond même de notre vie journalière . Ainsi, la locomotion , qui chez beaucoup d'espèces inférieures est un pouvoir inné , doit être acquise chez l'homme, en particulier ce pouvoir de coordination qui maintient l'équilibre du corps à chaque pas, par la combinaison des impressions tactiles et visuelles. D'une manière générale, on peut dire que les membres de l'adulte et ses organes sensoriels ne fonctionnent si facilement que grâce à cette somme de mouvements acquis et coordonnés qui constituent pour chaque partie du corps sa mémoire spéciale, le capital accumulé sur lequel il vit et par lequel il agit, tout comme l'esprit vit et agit au moyen de ses expériences passées . Au même ordre appartiennent ces groupes de mouvements d'un caractère plus artificiel, qui constituent l'apprentissage d'un métier manuel, les jeux d'adresse, les divers exercice du corps , etc. , etc.
 
@@ -80,29 +80,29 @@ Si le lecteur veut bien observer un peu ces actions automatiques secondaires, si
 
 Acquisition tantôt immédiate, tantôt lente . Répétition de l'acte , nécessaire dans certains cas , inutile dans d'autres . Inégalité des mémoires organiques suivant les personnes
 
-: elle est rapide chez les uns, lente ou totalement réfractaire chez d'autres (la maladresse est le résultat d'une mauvaise mémoire organique). Chez les[^p8-1]
+: elle est rapide chez les uns, lente ou totalement réfractaire chez d'autres (la maladresse est le résultat d'une mauvaise mémoire organique).[^p8-1] Chez les
 
 [p. 9] uns , permanence des associations une fois formées ; chez les autres, facilité à les perdre, à les oublier. Disposition de ces actes en séries simultanées ou successives , comme pour les souvenirs conscients. Ici même, un fait bien digne d'être remarqué, c'est que chaque membre de la série suggère le suivant : c'est ce qui arrive quand nous marchons sans y penser. Tout en dormant, des soldats à pied et même des cavaliers en selle ont pu continuer leur route, quoique ces derniers aient à se tenir constamment en équilibre . Cette suggestion organique est encore plus frappante dans le cas cité par Carpenter 1 d'un pianiste accompli qui exécuta un morceau de musique en dormant, fait qu'il faut attribuer moins au sens de l'ouïe qu'au sens musculaire qui suggérait la succession des mouvements . Sans chercher des cas extraordinaires, nous trouvons dans nos actes journaliers des séries organiques complexes et bien déterminées , c'est-à-dire dont le commencement et la fin sont fixes et dont les termes, différents les uns des autres, se succèdent dans un ordre constant : par exemple , monter ou descendre un escalier dont nous avons un long usage. Notre mémoire psychologique ignore le nombre des marches ; notre mémoire organique le connaît à sa manière , ainsi que la division en étages, la distribution des paliers et d'autres détails
 
-: elle ne se trompe pas . Ne doit-on pas dire que, pour la mémoire organique , ces séries bien définies sont rigoureusement les analogues d'une phrase, d'un couplet de vers, d'un air musical pour la mémoire psychologique ?
+: elle ne se trompe pas . Ne doit-on pas dire que, pour la mémoire organique , ces séries bien définies sont rigoureusement les analogues d'une phrase, d'un couplet de vers, d'un air musical pour la mémoire psychologique ?[^p9-1]
 
-Dans son mode d'acquisition , de conservation et de[^p9-1]
+Dans son mode d'acquisition , de conservation et de
 
 [p. 10] reproduction , nous trouvons donc la mémoire organique identique à celle de l'esprit. Seule la conscience manque . A l'origine , elle accompagnait l'activité motrice ; puis elle s'est effacée graduellement. Parfois et ces cas sont plus instructifs
 
 sa disparition est brusque . Un homme sujet à des suspensions temporaires de la conscience continuait pendant sa crise le mouvement commencé
 
-: un jour, en marchant toujours devant lui, il tomba dans l'eau . Souvent (il était cordonnier) il se blessait les doigts avec son alène et continuait ses mouvements pour piquer le cuir ¹ . Dans le vertige épileptique , appelé « petit mal », des faits analogues sont d'observation vulgaire . Un musicien, faisant sa partie de violon dans un orchestre , était fréquemment pris de vertige épileptique (perte de conscience momentanée) pendant l'exécution d'un morceau . <<<Cependant il continuait de jouer, et quoique restant absolument étranger à ce qui l'entourait, quoiqu'il ne vît et n'entendît plus ceux qu'il accompagnait, il suivait la mesure 2. »
+: un jour, en marchant toujours devant lui, il tomba dans l'eau . Souvent (il était cordonnier) il se blessait les doigts avec son alène et continuait ses mouvements pour piquer le cuir [^p10-1] . Dans le vertige épileptique , appelé « petit mal », des faits analogues sont d'observation vulgaire . Un musicien, faisant sa partie de violon dans un orchestre , était fréquemment pris de vertige épileptique (perte de conscience momentanée) pendant l'exécution d'un morceau . <<<Cependant il continuait de jouer, et quoique restant absolument étranger à ce qui l'entourait, quoiqu'il ne vît et n'entendît plus ceux qu'il accompagnait, il suivait la mesure 2. »
 
-Il semble ici que la conscience se charge elle-même de nous montrer son rôle, de le réduire à sa valeur et, par ses brusques absences , de bien faire voir qu'elle est dans le mécanisme de la mémoire un élément surajouté .
+Il semble ici que la conscience se charge elle-même de nous montrer son rôle, de le réduire à sa valeur et, par ses brusques absences , de bien faire voir qu'elle est dans le mécanisme de la mémoire un élément surajouté .[^p10-2]
 
-Nous sommes maintenant conduits par la logique à pousser plus avant et à nous demander quelles modifications de l'organisme sont nécessaires pour l'établisse-[^p10-1][^p10-2]
+Nous sommes maintenant conduits par la logique à pousser plus avant et à nous demander quelles modifications de l'organisme sont nécessaires pour l'établisse-
 
 [p. 11] ment de la mémoire , quels changements a subis le sys. tème nerveux , quand un groupe de mouvements est définitivement organisé ? Nous arrivons ici à la dernière question qu'on puisse , sans sortir des faits , se poser à propos des bases organiques de la mémoire ; et si la mémoire organique est une propriété de la vie animale , dont la mémoire psychologique n'est qu'un cas particulier , tout ce que nous pourrons découvrir ou conjecturer sur ses conditions ultimes sera applicable à la mémoire tout entière .
 
 Il nous est impossible, dans cette recherche, de ne pas faire une part à l'hypothèse . Mais, en évitant toute conception à priori, en nous tenant près des faits , en nous appuyant sur ce qu'on sait de l'action nerveuse , nous évitons toute grosse chance d'erreur. Notre hypothèse est d'ailleurs apte à d'incessantes modifications . Enfin, à la place d'une phrase vague sur la conservation et la reproduction de la mémoire , elle substituera dans notre esprit une certaine représentation du processus extrêmement complexe qui la produit et la soutient.
 
-Le premier point à établir est relatif au siège de la mémoire. Cette question ne peut donner lieu actuellement à aucune controverse sérieuse . « On doit regarder comme presque démontré, dit Bain, que l'impression renouvelée occupe exactement les mêmes parties que l'impression primitive et de la même manière . » Pour en donner un exemple frappant, l'expérience montre que l'idée persistante d'une couleur brillante fatigue le nerf optique . On sait que la perception d'un objet coloré est souvent suivi d'une sensation consécutive qui nous montre l'objet avec les mêmes contours , mais avec la couleur complémentaire de la couleur réelle . Il peut en être de même pour l'image (le souvenir) . Elle laisse, [p. 12] quoique avec une intensité moindre, une image consécutive . Si , les yeux fermés , nous tenons une image d'une couleur très vive longtemps fixée devant l'imagination, et qu'après cela , ouvrant brusquement les yeux, nous les portions sur une surface blanche, nous y verrons durant un instant très court l'image contemplée en imagination, mais avec la couleur complémentaire . Ce fait, remarque Wundt à qui nous l'empruntons , prouve que l'opération nerveuse est la même dans les deux cas, dans la perception et dans le souvenir¹ .
+Le premier point à établir est relatif au siège de la mémoire. Cette question ne peut donner lieu actuellement à aucune controverse sérieuse . « On doit regarder comme presque démontré, dit Bain, que l'impression renouvelée occupe exactement les mêmes parties que l'impression primitive et de la même manière . » Pour en donner un exemple frappant, l'expérience montre que l'idée persistante d'une couleur brillante fatigue le nerf optique . On sait que la perception d'un objet coloré est souvent suivi d'une sensation consécutive qui nous montre l'objet avec les mêmes contours , mais avec la couleur complémentaire de la couleur réelle . Il peut en être de même pour l'image (le souvenir) . Elle laisse, [p. 12] quoique avec une intensité moindre, une image consécutive . Si , les yeux fermés , nous tenons une image d'une couleur très vive longtemps fixée devant l'imagination, et qu'après cela , ouvrant brusquement les yeux, nous les portions sur une surface blanche, nous y verrons durant un instant très court l'image contemplée en imagination, mais avec la couleur complémentaire . Ce fait, remarque Wundt à qui nous l'empruntons , prouve que l'opération nerveuse est la même dans les deux cas, dans la perception et dans le souvenir[^p12-1] .
 
 Le nombre des faits et des inductions en faveur de cette thèse est si grand qu'elle équivaut presque à une certitude et qu'il faudrait des raisons bien puissantes pour l'ébranler. En fait , il n'y a pas une mémoire, mais des mémoires ; il n'y a pas un siège de la mémoire , mais des sièges particuliers pour chaque mémoire particulière . Le souvenir n'est pas , suivant l'expression vague de la langue courante , « dans l'âme » : il est fixé à son lieu de naissance, dans une partie du système nerveux .
 
@@ -112,7 +112,7 @@ Ceci posé , nous commençons à voir plus clair dans le problème des condition
 
 2º Une association, une connexion particulière établie entre un certain nombre de ces éléments .
 
-On n'a pas donné à cette seconde condition l'importance qu'elle mérite, comme nous essayerons de le montrer .[^p12-1]
+On n'a pas donné à cette seconde condition l'importance qu'elle mérite, comme nous essayerons de le montrer .
 
 [p. 13] Pour nous en tenir, en ce moment, à la mémoire organique , prenons l'un de ces mouvements automatiques secondaires qui nous ont servi de type , et considérons ce qui se passe pendant la période d'organisation : soit, par exemple, les mouvements des membres inférieurs pendant la locomotion .
 
@@ -122,7 +122,7 @@ Chaque mouvement exige la mise en jeu d'un certain nombre de muscles superficiel
 
 et qu'elle nous permet de le régler.
 
-Que suppose ce fait ? Il implique des modifications reçues et conservées par un groupe déterminé d'éléments nerveux . « Il est évident, dit Maudsley (qui a si bien étudié le rôle des mouvements chez l'homme) , qu'il y a dans les centres nerveux des résidus provenant des réactions motrices . Les mouvements déterminés ou effectués par un centre nerveux particulier, laissent, comme les idées , leurs résidus respectifs , qui, répétés plusieurs fois , s'organisent ou s'incarnent si bien dans sa structure que les mouvements correspondants peuvent avoir lieu automatiquement..... Quand nous disons : une trace , un vestige ou un résidu, tout ce que nous voulons dire c'est qu'il reste dans l'élément organisme un certain effet, un quelque chose qu'il retient et qui le prédispose à fonctionner de nouveau de la même manière 1. » C'est cette organisation des « ré"[^p13-1]
+Que suppose ce fait ? Il implique des modifications reçues et conservées par un groupe déterminé d'éléments nerveux . « Il est évident, dit Maudsley (qui a si bien étudié le rôle des mouvements chez l'homme) , qu'il y a dans les centres nerveux des résidus provenant des réactions motrices . Les mouvements déterminés ou effectués par un centre nerveux particulier, laissent, comme les idées , leurs résidus respectifs , qui, répétés plusieurs fois , s'organisent ou s'incarnent si bien dans sa structure que les mouvements correspondants peuvent avoir lieu automatiquement..... Quand nous disons : une trace , un vestige ou un résidu, tout ce que nous voulons dire c'est qu'il reste dans l'élément organisme un certain effet, un quelque chose qu'il retient et qui le prédispose à fonctionner de nouveau de la même manière 1. »[^p13-1] C'est cette organisation des « ré"
 
 [p. 14] sidus » qui, après la période de tâtonnement dont nous avons parlé , nous rend aptes à accomplir nos mouvements avec une facilité et une précision croissantes , jusqu'à ce qu'enfin ils deviennent automatiques .
 
@@ -130,13 +130,13 @@ En soumettant à l'analyse ce cas très vulgaire de mémoire organique, nous voy
 
 La première est une modification particulière imprimée aux éléments nerveux. Comme elle a été souvent signalée, nous nous y arrêterons peu . D'abord le filet nerveux , vierge par hypothèse, recevant une impression toute nouvelle , garde-t-il une modification permanente ? Ce point est discuté . Les uns voient dans les nerfs un simple conducteur dont la matière constituante, un moment troublée, revient à son état d'équilibre primitif. Que l'on explique la transmission par des vibrations propagées le long du cylindre-axe ou par une décomposition chimique de son protoplasma , il est cependant difficile d'admettre qu'il n'en reste rien . Sans insister, nous trouvons au moins dans la cellule nerveuse l'élément qui, d'un commun accord , reçoit , emmagasine et réagit .
 
-Or l'impression , une fois reçue , la marque d'une empreinte. Par là , « il se produit une aptitude et avec elle une différenciation de l'élément , quoique nous n'ayons aucune raison de croire qu'à l'origine cet élément différât des cellules nerveuses homologues . » (Maudsley, *loc. cit.* , p. 252.) << Toute impression laisse une certaine trace ineffaçable , c'est-à- dire que les molécules, une fois arrangées autrement et forcées de vibrer d'une autre façon, ne se remettront plus exactement dans l'état primitif. Si j'effleure la surface d'une eau tranquille avec une plume, le liquide ne reprendra plus la forme qu'il avait aupa [p. 15] ravant ; il pourra de nouveau présenter une surface tranquille , mais des molécules auront changé de place, et un œil suffisamment pénétrant y découvrirait certainement l'événement du passage de la plume . Des molécules animales dérangées ont donc acquis par là un degré plus ou moins faible d'aptitude à subir ce dérangement . Sans doute, si cette même activité extérieure ne vient plus agir de nouveau sur ces mêmes molécules, elles tendront à reprendre leur mouvement naturel ; mais les choses se passeront tout autrement si elles subissent à plusieurs reprises cette même action Dans ce cas , elles perdront peu à peu la faculté de revenir à leur mouvement naturel et s'identifieront de plus en plus avec celui qui leur est imprimé, au point qu'il leur deviendra naturel à son tour et que plus tard elles obéiront à la moindre cause qui les mettra en branle ¹ .>>>
+Or l'impression , une fois reçue , la marque d'une empreinte. Par là , « il se produit une aptitude et avec elle une différenciation de l'élément , quoique nous n'ayons aucune raison de croire qu'à l'origine cet élément différât des cellules nerveuses homologues . » (Maudsley, *loc. cit.* , p. 252.) << Toute impression laisse une certaine trace ineffaçable , c'est-à- dire que les molécules, une fois arrangées autrement et forcées de vibrer d'une autre façon, ne se remettront plus exactement dans l'état primitif. Si j'effleure la surface d'une eau tranquille avec une plume, le liquide ne reprendra plus la forme qu'il avait aupa [p. 15] ravant ; il pourra de nouveau présenter une surface tranquille , mais des molécules auront changé de place, et un œil suffisamment pénétrant y découvrirait certainement l'événement du passage de la plume . Des molécules animales dérangées ont donc acquis par là un degré plus ou moins faible d'aptitude à subir ce dérangement . Sans doute, si cette même activité extérieure ne vient plus agir de nouveau sur ces mêmes molécules, elles tendront à reprendre leur mouvement naturel ; mais les choses se passeront tout autrement si elles subissent à plusieurs reprises cette même action Dans ce cas , elles perdront peu à peu la faculté de revenir à leur mouvement naturel et s'identifieront de plus en plus avec celui qui leur est imprimé, au point qu'il leur deviendra naturel à son tour et que plus tard elles obéiront à la moindre cause qui les mettra en branle [^p15-1] .>>>
 
 Il est impossible de dire en quoi consiste cette modification . Nile microscope ni les réactifs, ni l'histologie ni l'histochimie ne peuvent nous l'apprendre ; mais les faits et le raisonnement nous démontrent qu'elle a lieu.
 
 La deuxième condition , qui consiste dans l'établissement d'associations stables entre divers groupes d'éléments nerveux, n'a pas jusqu'ici attiré l'attention . Je ne vois pas que les auteurs même contemporains en aient signalé l'importance . C'est cependant une conséquence nécessaire de leur thèse sur le siège de la mémoire .
 
-Quelques-uns semblent admettre, au moins implicitement, qu'un souvenir , organique ou conscient, est[^p15-1]
+Quelques-uns semblent admettre, au moins implicitement, qu'un souvenir , organique ou conscient, est
 
 [p. 16] imprimé dans une cellule unique , qui, avec ses filets nerveux , aurait en quelque sorte le monopole de sa conservation et de sa reproduction. Je crois que ce qui a contribué à cette illusion , c'est l'artifice de langage qui nous fait considérer un mouvement , une perception, une idée, une image, un sentiment, comme une chose, comme une unité. La réflexion montre pourtant bien vite que chacune de ces prétendues unités est composée d'éléments nombreux et hétérogènes ; qu'elle est une association, un groupe, une fusion , un complexus , une multiplicité. Revenons à l'exemple déjà pris : un mouvement de locomotion. Il peut être considéré comme un réflexe d'un ordre très compliqué, dont le contact du pied avec le sol est, à chaque moment, l'impression initiale .
 
@@ -218,11 +218,11 @@ mais rien n'autorise à dire que cette décroissance n'a pas de limite, bien qu'
 
 1. Pflüger's Archiv , VIII (1874) , p. 526. La durée des réflexes varie suivant la force de l'excitation, suivant le sens longitudinal ou transversal de la transmission dans la moelle . Cette question est d'ailleurs loin d'être élucidée .
 
-[p. 25] par seconde¹ et que chaque coup implique une action nerveuse séparée, nous y trouvons l'exemple d'un état nerveux dont la rapidité confond et en comparaison duquel l'état nerveux qui est accompagné de conscience occupe un temps énorme . Il résulte de ce qui précède que tout état de conscience occupant nécessairement une certaine durée, une condition essentielle de la conscience manque, dès que la durée du processus nerveux tombe au-dessous de ce minimum² .
+[p. 25] par seconde[^p25-1] et que chaque coup implique une action nerveuse séparée, nous y trouvons l'exemple d'un état nerveux dont la rapidité confond et en comparaison duquel l'état nerveux qui est accompagné de conscience occupe un temps énorme . Il résulte de ce qui précède que tout état de conscience occupant nécessairement une certaine durée, une condition essentielle de la conscience manque, dès que la durée du processus nerveux tombe au-dessous de ce minimum[^p25-2] .
 
 Bornons - nous à ces remarques et concluons. La question de l'inconscient n'est si vague, si embarrassée d'opinions contradictoires que parce qu'elle est mal posée . Si l'on considère la conscience comme une essence, comme une propriété fondamentale de l'âme , tout devient obscur ;
 
-si on la considère comme un phénomène qui a ses conditions d'existence propres , tout devient clair et l'inconscient ne présente plus rien de mystérieux. Il ne faut jamais oublier que l'état de conscience est un événement complexe qui suppose un état particulier du système nerveux ; que cette action nerveuse n'est pas un accessoire, mais une partie intégrante de l'événement ; qu'il en est la base, la condition[^p25-1][^p25-2][^p25-3]
+si on la considère comme un phénomène qui a ses conditions d'existence propres , tout devient clair et l'inconscient ne présente plus rien de mystérieux.[^p25-3] Il ne faut jamais oublier que l'état de conscience est un événement complexe qui suppose un état particulier du système nerveux ; que cette action nerveuse n'est pas un accessoire, mais une partie intégrante de l'événement ; qu'il en est la base, la condition
 
 [p. 26] fondamentale ; que, dès qu'il se produit, l'événement existe en lui-même ; que dès que la conscience s'y ajoute, l'événement existe pour lui mème ; que la conscience le complète , l'achève , mais ne le constitue pas . Si l'une des conditions du phénomène-conscience manque, soit F'intensité , soit la durée, soit d'autres que nous ignorons ; une partie de ce tout complexe - la conscience disparaît ; une autre partie
 
@@ -244,7 +244,7 @@ Mémoire .
 
 En résumé , nous pouvons nous représenter le système nerveux comme traversé par de perpétuelles décharges . Parmi ces actions nerveuses , les unes répondent au rhythme incessant des actions vitales ; d'autres , en bien petit nombre, à la succession des états de conscience ; d'autres en bien plus grand nombre constituent la cérébration inconsciente . Les 600 millions (ou 1 200 millions) de cellules et les 4 ou 5 milliards de fibres, même en déduisant celles qui sont au repos ou qui restent inoccupées toute la vie , offrent un assez beau contingent d'éléments
 
-actifs . L'encéphale est comme un laboratoire plein de mouvement où mille travaux se font à la fois . La cérébration inconsciente , n'étant pas soumise à la condition du temps, ne se faisant pour ainsi dire que dans l'espace , peut agir dans plusieurs endroits à la fois . La conscience est l'étroit[^p27-1]
+actifs . L'encéphale est comme un laboratoire plein de mouvement où mille travaux se font à la fois . La cérébration inconsciente , n'étant pas soumise à la condition du temps, ne se faisant pour ainsi dire que dans l'espace , peut agir dans plusieurs endroits à la fois .[^p27-1] La conscience est l'étroit
 
 [p. 28] guichet par où une toute petite partie de ce travail nous apparaît.
 
@@ -270,7 +270,7 @@ II . Ces considérations nous conduisent au point sur lequel nous voulons insist
 
 Chacun de nous trouve dans sa conscience un certain nombre de souvenirs : des images d'hommes , d'animaux, de villes, de campagnes, des connaissances scientifiques , historiques, des langues, etc. Ces souvenirs nous reviennent sous la forme de séries plus ou moins longues. La formation de ces séries a été très bien expliquée par les lois d'association entre les états de conscience : nous n'avons rien à en dire. Ce qui nous intéresse , ce ne sont pas les séries, mais leurs termes . Nous cherchons l'état de conscience simple, afin de montrer quelle complexité il suppose .
 
-Prenons donc un de ces termes : la mémoire d'une pomme. A en croire le verdict de la conscience, c'est un fait simple . La physiologie nous montre que ce verdict est une illusion. La mémoire d'une pomme est nécessairement la forme affaiblie de la perception d'une pomme. Que suppose cette perception ? Une modification de la rétine, terminaison nerveuse d'une structure si compliquée, une transmission par le nerf[^p30-1]
+Prenons donc un de ces termes : la mémoire d'une pomme. A en croire le verdict de la conscience, c'est un fait simple . La physiologie nous montre que ce verdict est une illusion. La mémoire d'une pomme est nécessairement la forme affaiblie de la perception d'une pomme. Que suppose cette perception ?[^p30-1] Une modification de la rétine, terminaison nerveuse d'une structure si compliquée, une transmission par le nerf
 
 [p. 31] optique, les corps genouillés jusqu'aux tubercules quadrijumeaux , de là aux ganglions cérébraux
 
@@ -278,17 +278,17 @@ Prenons donc un de ces termes : la mémoire d'une pomme. A en croire le verdict 
 
 que la double illusion de la conscience et du langage nous fait considérer comme simple .
 
-Dira- t- on qu'une perception visuelle est très complexe et prouve trop en faveur de notre thèse ? Prenons la mémoire d'un mot. S'il s'agit du mot écrit, c'est une mémoire visuelle, qui se rapproche du cas précédent. S'il s'agit du mot parlé, nous trouvons une complexité tout aussi grande. Le langage articulé suppose l'intervention du larynx, du pharynx, de la bouche , des fosses nasales et par conséquent de plusieurs nerfs [p. 32] qui ont leurs centres dans diverses parties du bulbe : le spinal , le facial, l'hypoglosse. Si l'on attribue un rôle aux impressions auditives dans la mémoire des mots, c'est une complication encore plus grande. Enfin le centre bulbaire doit être lui-même relié à la circonvolution de Broca et à la région de l'insula, considérées universellement comme le centre psychique de la parole. On voit que ce cas ne diffère du précédent ni en nature ni en complexité, et que la mémoire de chaque mot doit avoir pour base une association déterminée d'éléments nerveux ¹.
+Dira- t- on qu'une perception visuelle est très complexe et prouve trop en faveur de notre thèse ? Prenons la mémoire d'un mot. S'il s'agit du mot écrit, c'est une mémoire visuelle, qui se rapproche du cas précédent. S'il s'agit du mot parlé, nous trouvons une complexité tout aussi grande. Le langage articulé suppose l'intervention du larynx, du pharynx, de la bouche , des fosses nasales et par conséquent de plusieurs nerfs [p. 32] qui ont leurs centres dans diverses parties du bulbe : le spinal , le facial, l'hypoglosse. Si l'on attribue un rôle aux impressions auditives dans la mémoire des mots, c'est une complication encore plus grande. Enfin le centre bulbaire doit être lui-même relié à la circonvolution de Broca et à la région de l'insula, considérées universellement comme le centre psychique de la parole. On voit que ce cas ne diffère du précédent ni en nature ni en complexité, et que la mémoire de chaque mot doit avoir pour base une association déterminée d'éléments nerveux [^p32-1].
 
-Inutile d'insister : de ce qui précède ressort assez l'importance de ces associations, que j'appellerai les bases dynamiques de la mémoire , les modifications imprimées aux éléments étant les bases statiques. On fera peut-être remarquer que nos exemples supposent des cas encore plus simples. Cela est vrai, mais nous n'avons pas à nous en occuper. Ce que la mémoire conserve et reproduit, ce sont des états de conscience concrets , réels ; nous avions donc à les considérer comme tels et à choisir nos exemples dans cet ordre de faits . Que l'analyse physiologique et l'analyse idéologique, chacune de leur côté, descendent jusqu'aux éléments ultimes , c'est une œuvre utile pour expliquer la genèse des états de conscience : ici, nous les considérons tout formés. Quand nous commençons à parler, nous employons quelques mots simples, plus tard des[^p32-1]
+Inutile d'insister : de ce qui précède ressort assez l'importance de ces associations, que j'appellerai les bases dynamiques de la mémoire , les modifications imprimées aux éléments étant les bases statiques. On fera peut-être remarquer que nos exemples supposent des cas encore plus simples. Cela est vrai, mais nous n'avons pas à nous en occuper. Ce que la mémoire conserve et reproduit, ce sont des états de conscience concrets , réels ; nous avions donc à les considérer comme tels et à choisir nos exemples dans cet ordre de faits . Que l'analyse physiologique et l'analyse idéologique, chacune de leur côté, descendent jusqu'aux éléments ultimes , c'est une œuvre utile pour expliquer la genèse des états de conscience : ici, nous les considérons tout formés. Quand nous commençons à parler, nous employons quelques mots simples, plus tard des
 
 [p. 33] lambeaux de phrase. Nous ignorons longtemps que ces mots supposent des éléments plus simples ; beaucoup l'ignorent toujours . La conscience qui est une parole intérieure , procède de même . Ce qui est simple pour elle est composé pour l'analyse . Mais il n'est pas douteux que ces états simples, qui sont l'alphabet de la conscience , supposent eux-mêmes pour leur conservation et leur reproduction certains complexus nerveux. Les faits que nous avons cités plus haut (p. 19) relativement à des lettres et à des syllabes en donnent la preuve . En voici un autre plus curieux. <<< Un homme très instruit, dit Forbes Winslow, après une attaque de fièvre aiguë , perdit absolument la connaissance de la lettre F 1. »
 
-Si donc nous essayons de nous représenter une bonne mémoire et de traduire cette expression en termes physiologiques, nous devons nous figurer un grand nombre d'éléments nerveux , chacun modifié d'une manière particulière , chacun faisant partie d'une association et probablement apte à entrer dans plusieurs , chacune de ces associations renfermant les conditions d'existence des états de conscience . La mémoire a donc des bases statiques et des bases dynamiques . Sa puissance est en raison de leur nombre et de leur stabilité .
+Si donc nous essayons de nous représenter une bonne mémoire et de traduire cette expression en termes physiologiques, nous devons nous figurer un grand nombre d'éléments nerveux , chacun modifié d'une manière particulière , chacun faisant partie d'une association et probablement apte à entrer dans plusieurs , chacune de ces associations renfermant les conditions d'existence des états de conscience . La mémoire a donc des bases statiques et des bases dynamiques . Sa puissance est en raison de leur nombre et de leur stabilité .[^p33-1]
 
 #### III
 
-Nous allons étudier maintenant le caractère propre de la mémoire psychique, celui qui n'appartient qu'à[^p33-1]
+Nous allons étudier maintenant le caractère propre de la mémoire psychique, celui qui n'appartient qu'à
 
 [p. 34] elle, qui, sans rien changer à sa nature ni à ses conditions organiques, en fait la forme la plus complexe , la plus haute et la plus instable de la mémoire . Ce caractère dans la langue de l'école s'appelle la « reconnaissance » . Je l'appellerai la localisation dans le temps , parce que ce terme n'implique aucune hypothèse et qu'il n'est que la simple expression des faits .
 
@@ -306,7 +306,7 @@ Cette opération que , pour des raisons de clarté, nous venons d'indiquer en gr
 
 L'explication théorique de la localisation dans le temps a pour point de départ la loi énoncée par Dugald Stewart et si bien mise en lumière par Taine : << Les actes d'imagination sont toujours accompagnés d'une croyance (au moins momentanée) à l'existence réelle de l'objet qui les occupe 1. » Cette croyance, qui existe à son plus haut degré dans l'hallucination , dans le vertige, dans le rêve (faute de perceptions réelles qui la corrigent) , existe, bien qu'à un degré moindre , pour tous les états de conscience. Je ne parlerai pas du mécanisme par lequel l'état de conscience est dépouillé de sa réalité objective et réduit à une pure conception de l'esprit. Je renvoie aux explications que M. Taine en a données 2.
 
-Toutefois ce n'est pas là un souvenir. Tant qu'une image, quel qu'en soit le contenu (qu'elle représente une maison, ou une invention mécanique, ou un sentiment) , reste isolée et comme suspendue dans la conscience , sans rapport avec d'autres états qui ont pour nous une place fixe, sans pouvoir être logée par nous[^p35-1][^p35-2]
+Toutefois ce n'est pas là un souvenir.[^p35-2][^p35-1] Tant qu'une image, quel qu'en soit le contenu (qu'elle représente une maison, ou une invention mécanique, ou un sentiment) , reste isolée et comme suspendue dans la conscience , sans rapport avec d'autres états qui ont pour nous une place fixe, sans pouvoir être logée par nous
 
 [p. 36] quelque part, nous n'y voyons qu'un état actuel. Mais parmi ces images quelques-unes ont la propriété , dès qu'elles entrent dans la conscience, de pousser des ramifications dans divers sens, de susciter des états qui les rattachent au présent et grâce auxquels elles nous apparaissent comme faisant partie d'une série plus ou moins longue qui aboutit au présent ; en d'autres termes , elles sont localisées dans le temps .
 
@@ -330,7 +330,7 @@ est d'abord rejeté dans le passé d'une manière indéterminée. Il éveille de
 
 : comparé à eux, il se place tantôt avant, tantôt après . « L'image voyage avec divers glissements en avant, en arrière sur la ligne du passé ; chacune des phrases prononcées mentalement a été un coup de bascule 1. » A la suite d'oscillations plus ou moins longues , il trouve enfin sa place ; il est fixé, il est reconnu . Dans cet exemple , le souvenir du voyage est ce que j'appelle un point de repère .
 
-J'entends par point de repère un événement, un état de conscience dont nous connaissons bien la position dans le temps , c'est-à-dire l'éloignement par rapport au moment actuel et qui nous sert à mesurer les autres éloignements . Ces points de repère sont des états de conscience qui par leur intensité luttent mieux que d'autres contre l'oubli, ou par leur complexité sont de nature à susciter beaucoup de rapports , à augmenter les chances de réviviscence . Ils ne sont pas choisis arbitrairement, ils s'imposent à nous . Ils ont une valeur toute relative. Ils sont tels pour une heure, tels pour un jour, pour une semaine, pour un mois ; puis, mis hors d'usage, ils tombent dans l'oubli . Ils ont en général un caractère purement individuel ; quelques-uns cependant sont communs à une famille,[^p38-1]
+J'entends par point de repère un événement, un état de conscience dont nous connaissons bien la position dans le temps , c'est-à-dire l'éloignement par rapport au moment actuel et qui nous sert à mesurer les autres éloignements . Ces points de repère sont des états de conscience qui par leur intensité luttent mieux que d'autres contre l'oubli, ou par leur complexité sont de nature à susciter beaucoup de rapports , à augmenter les chances de réviviscence . Ils ne sont pas choisis arbitrairement, ils s'imposent à nous . Ils ont une valeur toute relative. Ils sont tels pour une heure, tels pour un jour, pour une semaine, pour un mois ; puis, mis hors d'usage, ils tombent dans l'oubli .[^p38-1] Ils ont en général un caractère purement individuel ; quelques-uns cependant sont communs à une famille,
 
 [p. 39] à une petite société, à une nation. Si je ne me trompe , ces points de repère forment, pour chacun de nous , diverses séries répondant à peu près aux divers événements dont notre vie se compose : occupations journalières , événements de famille, occupations professionnelles , recherches scientifiques, etc. , ces séries étant d'autant plus nombreuses que la vie de l'individu est plus variée. Ces points sont comme des bornes kilométriques ou des poteaux indicateurs placés sur des routes, qui, partant d'un même point, divergent dans différentes directions . Il y a toutefois cette particularité que ces séries peuvent en quelque sorte se juxtaposer pour se comparer entre elles .
 
@@ -362,7 +362,7 @@ achevé et imprimé avant que l'auteur pût quitter le lit. Il n'en avait gardé
 
 Dans un cas cité par Forbes Winslow, l'image semble tout près d'être reconnue, localisée ; elle est sur la limite, un appoint très minime aurait suffi , mais il a manqué : « Le poète Rogers, âgé de quatre-vingt-dix ans, se promenait en voiture avec une dame . Celle-ci l'interrogeait sur une autre dame dont il ne pouvait se souvenir . Il fit arrêter et appela le domestique Est- ce que je connais Mme M.... ?
 
-La réponse fut affirmative . Ce fut un moment pénible pour nous deux . Alors il me prit par la main et me dit : N'ayez souci, ma chère, je n'en suis pas encore réduit à faire arrêter la voiture pour demander si je vous connais 1. >>[^p42-1]
+La réponse fut affirmative . Ce fut un moment pénible pour nous deux . Alors il me prit par la main et me dit : N'ayez souci, ma chère, je n'en suis pas encore réduit à faire arrêter la voiture pour demander si je vous connais 1.[^p42-1] >>
 
 [p. 43] Un fait beaucoup plus instructif pour nous est rapporté par Macaulay dans l'un de ses Essays consacré à Wycherley. Sa mémoire, dit-il, était à la fois extrêmement puissante et extrêmement faible, au déclin de sa vie . Si on lui lisait quelque chose dans la soirée , il se réveillait le lendemain matin l'esprit plein des pensées et des expressions entendues la veille ; et il les écrivait de la meilleure foi du monde, sans se douter qu'elles ne lui appartenaient pas. Ici le mécanisme de la mémoire est nettement scindé en deux : la pathologie nous en fait l'analyse . Interprétant ce cas d'après ce qui a été exposé plus haut, nous dirons : La modification imprimée aux cellules cérébrales a persisté ; les associations dynamiques des éléments nerveux sont restées stables ; l'état de conscience attaché à chacune d'elles a surgi ; ces états de conscience se sont réassociés et reconstitués en séries (phrases ou vers) . Puis l'opération mentale s'arrête brusquement. Ces séries n'éveillent aucun état secondaire ; elles demeurent isolées , sans rapports qui les rattachent au présent et les en éloignent, sans rien qui les situe dans
 
@@ -376,21 +376,21 @@ Ballantyne , Life of Walter Scott, ch . XLIV ; Spring, Symptomatologie, t. II, p
 
 Nous n'avons trouvé , en définitive, dans la plus haute forme de la mémoire, qu'une opération nouvelle, la localisation dans le temps . Pour en finir, il nous reste à montrer le caractère relativement illusoire de cette opération .
 
-Je me rappelle en ce moment sous une forme très vive une visite que j'ai faite il y a un an dans un vieux château de la Bohême . Cette visite avait duré deux heures . Aujourd'hui , je la refais facilement en imagination : j'entre par l'immense porte , je traverse dans leur ordre les cours, les galeries, les salles, les chapelles superposées ; je revois leurs fresques et leurs décorations originales ; je m'oriente assez bien dans le dédale de ce vieux château, jusqu'à ma sortie ; mais il m'est impossible de me représenter la durée de cette visite comme égale aux deux heures qui viennent de s'écouler . Elle m'apparaît comme beaucoup plus courte et la différence sera bien plus grande encore si les deux heures qui finissent ont été dépensées dans quel[^p44-1]
+Je me rappelle en ce moment sous une forme très vive une visite que j'ai faite il y a un an dans un vieux château de la Bohême . Cette visite avait duré deux heures . Aujourd'hui , je la refais facilement en imagination : j'entre par l'immense porte , je traverse dans leur ordre les cours, les galeries, les salles, les chapelles superposées ; je revois leurs fresques et leurs décorations originales ; je m'oriente assez bien dans le dédale de ce vieux château, jusqu'à ma sortie ; mais il m'est impossible de me représenter la durée de cette visite comme égale aux deux heures qui viennent de s'écouler .[^p44-1] Elle m'apparaît comme beaucoup plus courte et la différence sera bien plus grande encore si les deux heures qui finissent ont été dépensées dans quel
 
 [p. 45] que visite analogue ou dans quelque société agréable . Si nous déclarons les deux périodes égales, c'est sur la foi des horloges et malgré le témoignage de la conscience .
 
 Tout souvenir, si net qu'il soit, subit un énorme raccourcissement. Ce fait est indiscutable et il se produit toujours . Des expériences scientifiques appliquées à des cas très simples, où les chances d'erreur sont très petites, confirment cette loi. Vierordt a montré que , si nous cherchons à nous représenter des fractions de seconde , notre représentation de cette fraction de la durée est toujours trop grande ; le contraire se produit lorsqu'il s'agit de plusieurs minutes ou de plusieurs heures . Pour étudier la durée de ces petits intervalles , il faisait observer pendant quelque temps les battements d'un métronome ; puis l'observateur devait à lui tout seul reproduire des battements aussi rapides que ceux qu'il avait entendus . Or l'intervalle des battements imités devenait trop long quand l'intervalle réel était court, trop court quand l'intervalle réel était long 1 .
 
-Avec la complexité des états de conscience, l'erreur augmente encore . Ce qu'il y a de plus embarrassant , c'est que ce raccourcissement ne se fait suivant aucune loi appréciable. On ne peut pas dire qu'il est proportionnel à l'éloignement. On doit même dire qu'il ne l'est pas . Si je me représente mes dix dernières années par une ligne longue d'un mètre, la dernière année s'étend sur trois ou quatre décimètres ; la cinquième ,[^p45-1]
+Avec la complexité des états de conscience, l'erreur augmente encore . Ce qu'il y a de plus embarrassant , c'est que ce raccourcissement ne se fait suivant aucune loi appréciable. On ne peut pas dire qu'il est proportionnel à l'éloignement. On doit même dire qu'il ne l'est pas .[^p45-1] Si je me représente mes dix dernières années par une ligne longue d'un mètre, la dernière année s'étend sur trois ou quatre décimètres ; la cinquième ,
 
 [p. 46] riche en événements , s'étend sur deux décimètres ; les huit autres se resserrent sur ce qui reste .
 
 En histoire, la même illusion a lieu . Certains siècles paraissent plus longs , et, si je ne me trompe, la période qui va de nos jours à la prise de Constantinople paraît plus longue que celle qui va de cet événement à la première croisade , quoique les deux soient à peu près égales chronologiquement. Cela vient probablement de ce que la première période nous est mieux connue et que nous y mêlons nos souvenirs personnels .
 
-A mesure que le présent rentre dans le passé, les états de conscience disparaissent et s'effacent. Revus à quelques jours de distance, il n'en reste rien ou peu de chose : la plupart ont sombré dans un néant d'où ils ne sortiront plus et ils ont emporté avec eux la quantité de durée qui leur était inhérente ; par suite un déchet d'états de conscience est un déchet de temps . Or les procédés abréviatifs dont nous avons parlé supposent ce déchet. Si, pour atteindre un souvenir lointain , il nous fallait suivre la série entière des termes qui nous en séparent, la mémoire serait impossible , à cause de la longueur de l'opération 1 .
+A mesure que le présent rentre dans le passé, les états de conscience disparaissent et s'effacent. Revus à quelques jours de distance, il n'en reste rien ou peu de chose : la plupart ont sombré dans un néant d'où ils ne sortiront plus et ils ont emporté avec eux la quantité de durée qui leur était inhérente ; par suite un déchet d'états de conscience est un déchet de temps . Or les procédés abréviatifs dont nous avons parlé supposent ce déchet. Si, pour atteindre un souvenir lointain , il nous fallait suivre la série entière des termes qui nous en séparent, la mémoire serait impossible , à cause de la longueur de l'opération 1 .[^p46-1]
 
-Nous arrivons donc à ce résultat paradoxal qu'une[^p46-1]
+Nous arrivons donc à ce résultat paradoxal qu'une
 
 [p. 47] condition de la mémoire, c'est l'oubli . Sans l'oubli total d'un nombre prodigieux d'états de conscience et l'oubli nomentané d'un grand nombre, nous ne pourrions nous souvenir. L'oubli, sauf dans certains cas, n'est donc pas une maladie de la mémoire , mais une condition de sa santé et de sa vie . Nous trouvons ici une analogie frappante avec les deux processus vitaux essentiels . Vivre, c'est acquérir et perdre ; la vie est constituée par le travail qui désassimile autant que par celui qui fixe . L'oubli, c'est la désassimilation .
 
@@ -414,7 +414,7 @@ Au-dessous , nous tombons dans la mémoire complètement organisée et à peu pr
 
 On peut descendre plus bas encore . L'exercice de chacun de nos sens (voir, palper, marcher, etc.) suppose une mémoire complètement organisée . Elle fait si bien corps avec nous que la plupart des hommes n'ont jamais soupçonné en quelle mesure tout cela est acquis. Il en est de même d'une foule dejugements de la vie commune. « Personne ne dit qu'il se rappelle que l'objet qu'il regarde a un côté opposé ou qu'une certaine modification de l'impression visuelle implique une certaine distance, ni qu'un mouvement des jambes le fera avancer, ni que l'objet qu'il voit se mouvoir est un animal vivant . On
 
-considérerait comme un abus de langage de demander à un autre s'il se rappelle que le soleil brille, que le feu brûle, que le fer est dur, que la glace est froide 1. » Et pourtant, nous[^p49-1]
+considérerait comme un abus de langage de demander à un autre s'il se rappelle que le soleil brille, que le feu brûle, que le fer est dur, que la glace est froide 1. »[^p49-1] Et pourtant, nous
 
 [p. 50] le répétons , dans une intelligence naissante, tout cela a été de la mémoire au sens strict .
 
@@ -478,9 +478,9 @@ quelques traces de mémoire
 
 extrêmement faible .
 
-Un malade, en consultation chez son médecin , est pris d'un vertige épileptique. Il se remet aussitôt ; mais il a oublié qu'il vient de payer un moment avant l'attaque 1.
+Un malade, en consultation chez son médecin , est pris d'un vertige épileptique. Il se remet aussitôt ; mais il a oublié qu'il vient de payer un moment avant l'attaque 1.[^p55-1]
 
-Un employé de bureau se retrouve à[^p55-1]
+Un employé de bureau se retrouve à
 
 [p. 56] son pupitre , les idées un peu confuses, sans autre malaise . Il se souvient d'avoir commandé son dîner au restaurant ; à partir de ce moment, tout souvenir lui fait défaut . Il revient au restaurant ;
 
@@ -508,7 +508,7 @@ D'abord , à s'en tenir au raisonnement seul , il est difficile d'admettre que d
 
 Mais le raisonnement ne peut donner que des possibilités
 
-: l'expérience seule décide. Or il y a des faits qui prouvent l'existence d'une certaine conscience , même dans ces cas extrêmement nombreux , où le malade ne garde aucun souvenir de son accès . « Quelques[^p57-1]
+: l'expérience seule décide. Or il y a des faits qui prouvent l'existence d'une certaine conscience , même dans ces cas extrêmement nombreux , où le malade ne garde aucun souvenir de son accès .[^p57-1] « Quelques
 
 [p. 58] épileptiques, interpellés pendant leur crise d'une manière brusque avec le ton du commandement, répondent aux questions d'une voix brève et en criant. L'accès fini , ils ne se souviennent ni de ce qui leur a été dit, ni de ce qu'ils ont répondu .
 
@@ -516,11 +516,11 @@ Un enfant à qui l'on faisait respirer pendant ses accès de l'éther ou de l'am
 
 <<< Quelquefois , les épileptiques parviennent, avec beaucoup d'efforts , à retrouver dans leur mémoire plusieurs faits qui se sont produits pendant leur accès, surtout ceux qui ont eu lieu dans les derniers moments ..... Ils sont alors dans un état comparable à celui où l'on sort d'un rêve pénible . Les principales circonstances de l'accès leur ont d'abord échappé ; ils commencent par nier les faits qu'on leur impute ; peu à peu, ils se rappellent un certain nombre de détails qu'ils semblaient d'abord avoir oubliés
 
-¹ . »
+[^p58-1] . »
 
 Si, dans ces cas, les circonstances permettent d'affirmer qu'il y a eu conscience, nous pouvons croire sans témérité qu'il en est de même dans beaucoup d'autres . Je ne veux d'ailleurs pas soutenir que cela ait lieu toujours . Le magistrat dont il a été question plus haut se dirigeait assez bien pour éviter les obstacles, les voitures et les passants : ce qui dénote une certaine conscience ; mais dans un cas analogue, rapporté par Hughlings Jackson , le malade est renversé par un omnibus et manque une autre fois de faire une chute dans la Tamise .
 
-Comment donc expliquer l'amnésie dans les cas où[^p58-1]
+Comment donc expliquer l'amnésie dans les cas où
 
 [p. 59] il y a eu des états de conscience ? Par la faiblesse extrême de ces états . L'état de conscience ne se fixe , en définitive , que par deux moyens : l'intensité, la répétition ; ce dernier moyen se ramène à l'autre , puisque la répétition est une somme de petites intensités . Ici, il n'y a ni intensité ni répétition. Le désordre mental qui suit l'accès me paraît très bien défini par Jackson lorsqu'il l'appelle « un rêve épileptique » . Un de ses malades, âgé de dix-neuf ans et peu suspect de dogmatiser sur la question , a trouvé spontanément la même expression. « A la suite de son accès, il se coucha. Une fois couché, il dit (parlant à un ami imaginaire )
 
@@ -538,7 +538,7 @@ il est pris pendant la nuit de délire alcoolique caractérisé, comme on le sai
 
 Il y a encore une autre difficulté . Si l'amnésie vient de la faiblesse des états de conscience primitifs , comment se fait-il que ces états, si faibles par hypothèse , déterminent des actes ?
 
-Suivant Hughlings Jackson , << l'automatisme mental provient d'un excès d'action des centres nerveux inférieurs qui se substituent aux centres supérieurs ou centres dirigeants . >> Nous n'aurions ici qu'un cas particulier d'une loi physiologique bien connue : Le pouvoir excito-moteur des centres[^p60-1]
+Suivant Hughlings Jackson , << l'automatisme mental provient d'un excès d'action des centres nerveux inférieurs qui se substituent aux centres supérieurs ou centres dirigeants .[^p60-1] >> Nous n'aurions ici qu'un cas particulier d'une loi physiologique bien connue : Le pouvoir excito-moteur des centres
 
 [p. 61] réflexes augmente, quand leur connexion avec les centres supérieurs est rompue 1 .
 
@@ -550,7 +550,7 @@ Restreignons-nous au problème psychologique
 
 Remarquons pour terminer que la conséquence fatale des accès épileptiques répétés , surtout sous la forme de vertige, est l'affaiblissement progressif de la mémoire dans sa totalité . Cette forme d'amnésie sera étudiée plus loin .
 
-Nous passons maitenant à des cas d'amnésie temporaire d'un caractère destructeur. Dans les exemples précités , le capital accumulé jusqu'au moment de la maladie n'est pas entamé : il arrive seulement que[^p61-1]
+Nous passons maitenant à des cas d'amnésie temporaire d'un caractère destructeur.[^p61-1] Dans les exemples précités , le capital accumulé jusqu'au moment de la maladie n'est pas entamé : il arrive seulement que
 
 [p. 62] quelque chose qui a été dans la conscience ne reste pas dans la mémoire . Dans les cas qui vont suivre, une
 
@@ -572,15 +572,15 @@ Mémoire .
 
 4 [p. 63] les croire tous des imposteurs. Mais sa conviction, sa conscience intime n'y est pour rien . Elle voit là son mari et son enfant sans pouvoir s'imaginer par quelle magie elle a acquis l'un et donné le jour à l'autre 1. »
 
-Nous avons là un exemple d'amnésie irréparable, s'étendant en arrière seulement. Quant à sa raison psychologique , on peut la trouver également dans une destruction des résidus et dans une impossibilité de la reproduction . Dans le cas suivant, rapporté par Laycock, l'amnésie ne s'étend qu'en avant et ne peut être attribuée par conséquent qu'à une impossibilité pour les états de conscience d'être enregistrés et conservés . Le mécanicien d'un navire à vapeur tombe sur le dos ; le derrière de sa tête heurte contre un objet dur ; il reste quelque temps inconscient. Revenu à lui , il recouvre assez vite une parfaite santé physique ; il conserve le souvenir de toutes les années écoulées jusqu'à son accident ; mais , à partir de ce moment, la mémoire n'existe plus, même pour les faits strictement personnels . « En arrivant à l'hôpital, il ne peut dire s'il est venu à pied, en voiture ou par le chemin de fer. En sortant de déjeuner, il oublie qu'il vient de le faire : il n'a aucune idée de l'heure, ni du jour, ni de la semaine . Il essaye par la réflexion de répondre aux questions qui lui sont posées ; il n'y parvient pas . Saparole est lente, mais précise. Il dit ce qu'il veut dire et lit correctement . >> Cette infirmité disparut grâce à une médication appropriée 2.[^p63-1][^p63-2]
+Nous avons là un exemple d'amnésie irréparable, s'étendant en arrière seulement. Quant à sa raison psychologique , on peut la trouver également dans une destruction des résidus et dans une impossibilité de la reproduction . Dans le cas suivant, rapporté par Laycock, l'amnésie ne s'étend qu'en avant et ne peut être attribuée par conséquent qu'à une impossibilité pour les états de conscience d'être enregistrés et conservés . Le mécanicien d'un navire à vapeur tombe sur le dos ; le derrière de sa tête heurte contre un objet dur ; il reste quelque temps inconscient. Revenu à lui , il recouvre assez vite une parfaite santé physique ; il conserve le souvenir de toutes les années écoulées jusqu'à son accident ; mais , à partir de ce moment, la mémoire n'existe plus, même pour les faits strictement personnels . « En arrivant à l'hôpital, il ne peut dire s'il est venu à pied, en voiture ou par le chemin de fer. En sortant de déjeuner, il oublie qu'il vient de le faire : il n'a aucune idée de l'heure, ni du jour, ni de la semaine . Il essaye par la réflexion de répondre aux questions qui lui sont posées ; il n'y parvient pas . Saparole est lente, mais précise. Il dit ce qu'il veut dire et lit correctement . >> Cette infirmité disparut grâce à une médication appropriée 2.[^p63-2][^p63-1]
 
-[p. 64] En général, dans les cas d'amnésie temporaire due à une commotion cérébrale, il se produit un effet rétroactif. Le malade , en reprenant conscience , n'a pas seulement perdu le souvenir de l'accident et de la période qui l'a suivi ; il a aussi perdu le souvenir d'une période plus ou moins longue , antérieure à l'accident .. On en pourrait donner de nombreux exemples ; je n'en cite qu'un , rapporté par Carpenter (ouv. cité. , p. 450). << Un homme conduisait en cabriolet sa femme et son enfant . Le cheval, pris de frayeur, s'emporta. Après de vains efforts pour en devenir maître , le conducteur fut jeté violemment à terre et reçut une forte secousse du cerveau . En revenant à lui, il avait oublié les antécédents immédiats de l'accident. La dernière chose qu'il se rappelât , c'était la rencontre d'un ami sur sa route, à environ deux milles de l'endroit où il avait été renversé . Mais il n'a recouvré, jusqu'à ce jour, aucun sou-venir de ses efforts pour maîtriser le cheval, ni de la terreur de sa femme et de son enfant ¹ .
+[p. 64] En général, dans les cas d'amnésie temporaire due à une commotion cérébrale, il se produit un effet rétroactif. Le malade , en reprenant conscience , n'a pas seulement perdu le souvenir de l'accident et de la période qui l'a suivi ; il a aussi perdu le souvenir d'une période plus ou moins longue , antérieure à l'accident .. On en pourrait donner de nombreux exemples ; je n'en cite qu'un , rapporté par Carpenter (ouv. cité. , p. 450). << Un homme conduisait en cabriolet sa femme et son enfant . Le cheval, pris de frayeur, s'emporta. Après de vains efforts pour en devenir maître , le conducteur fut jeté violemment à terre et reçut une forte secousse du cerveau . En revenant à lui, il avait oublié les antécédents immédiats de l'accident. La dernière chose qu'il se rappelât , c'était la rencontre d'un ami sur sa route, à environ deux milles de l'endroit où il avait été renversé . Mais il n'a recouvré, jusqu'à ce jour, aucun sou-venir de ses efforts pour maîtriser le cheval, ni de la terreur de sa femme et de son enfant [^p64-1] .
 
 >>
 
 Voici maintenant des cas d'amnésie d'un caractère beaucoup plus grave, dont quelques- uns ont nécessité une rééducation complète. Je les emprunte à la revue anglaise Brain .
 
-La première observation, rapportée par le Dr Mor-[^p64-1]
+La première observation, rapportée par le Dr Mor-
 
 [p. 65] timer Granville, est celle d'une femme de vingt-six ans, hystérique, qui , à la suite d'un travail excessif, fut prise d'une crise violente avec perte complète de conscience . « Quand la conscience commença à revenir, les dernières idées saines formées avant la maladie se mêlaient d'une manière
 
@@ -600,7 +600,7 @@ elle refusa
 
 obstinément certains mets . Elle eut quelques courts moments de réveil à de rares intervalles . Elle ne répondait à aucune question, ne reconnaissait personne, sauf une fois, « une ancienne connaissance qu'elle n'avait pas vue depuis douze mois . Elle la considéra longtemps, cherchant probablement son nom . L'ayant trouvé, elle le répéta plusieurs fois en lui serrant la main ; puis elle retomba dans son sommeil . >> Vers la fin d'août, elle revint peu à peu à son état normal .
 
-Ici commence le travail de sa rééducation . << En revenant de sa torpeur, elle paraissait avoir oublié presque tout ce qu'elle avait appris. Tout lui semblait nouveau ; elle ne reconnaissait pas une seule personne, même ses plus proches parents. Gaie, remuante, inat[^p66-1]
+Ici commence le travail de sa rééducation . << En revenant de sa torpeur, elle paraissait avoir oublié presque tout ce qu'elle avait appris. Tout lui semblait nouveau ; elle ne reconnaissait pas une seule personne, même ses plus proches parents.[^p66-1] Gaie, remuante, inat
 
 [p. 67] tentive , charmée de tout ce qu'elle voyait ou entendait , elle ressemblait à un enfant .
 
@@ -624,7 +624,7 @@ Ici commence le travail de sa rééducation . << En revenant de sa torpeur, elle
 
 Autant qu'on en peut juger d'après le rapport de Sharpey , cette rééducation ne dura pas plus de trois mois . Il ne faudrait pas croire d'ailleurs que ce fait soit unique. « Un clergyman , à la suite d'une commotion causée par une chute, reste plusieurs jours totalement inconscient . Revenu à lui, il était dans l'état d'un enfant intelligent . Quoique d'un âge mûr , il recommença sous des maîtres ses études anglaises et classiques . Au bout de quelques mois , sa mémoire revint graduellement ; si bien qu'en quelques semaines son esprit recouvra sa vigueur et sa culture ancienne 2. »
 
-Un autre homme, âgé de trente ans , fort instruit, à la suite d'une grave maladie , avait tout oublié , jusqu'au nom des objets les plus communs . Sa santé rétablie , il recommença à tout apprendre comme un enfant , d'abord le nom des choses, puis à lire ; puis il commença à apprendre le latin. Ses progrès furent rapides . Un jour, étudiant avec son frère qui lui servait de maître , il s'arrêta subitement et porta sa main à son front. « J'éprouve , dit-il, dans la tête une sensation particulière, et il me semble maintenant que j'ai su tout[^p69-1][^p69-2]
+Un autre homme, âgé de trente ans , fort instruit, à la suite d'une grave maladie , avait tout oublié , jusqu'au nom des objets les plus communs . Sa santé rétablie , il recommença à tout apprendre comme un enfant , d'abord le nom des choses, puis à lire ; puis il commença à apprendre le latin. Ses progrès furent rapides . Un jour, étudiant avec son frère qui lui servait de maître , il s'arrêta subitement et porta sa main à son front.[^p69-2][^p69-1] « J'éprouve , dit-il, dans la tête une sensation particulière, et il me semble maintenant que j'ai su tout
 
 [p. 70] cela autrefois. >> A partir de ce moment, il recouvra rapidement ses facultés.
 
@@ -648,15 +648,15 @@ Nous verrons plus tard , après avoir parcouru tout l'ensemble des faits, quelle
 
 Il faut d'abord observer que, quoiqu'ils soient confondus par les médecins sous le titre commun d'amnésies totales , ils appartiennent en réalité, au point de vue psychologique, à deux types morbides différents .
 
-Le premier type (représenté par les cas de Villiers , Laycock, Mortimer Grenville, etc. , etc.) est de beaucoup le plus fréquent. Si nous n'en avons donné qu'un petit nombre d'exemples, c'est pour ne pas fatiguer le[^p73-1]
+Le premier type (représenté par les cas de Villiers , Laycock, Mortimer Grenville, etc. , etc.) est de beaucoup le plus fréquent.[^p73-1] Si nous n'en avons donné qu'un petit nombre d'exemples, c'est pour ne pas fatiguer le
 
 [p. 74] lecteur par une répétition monotone et sans profit . Ce qui le caractérise psychologiquement, c'est que l'amnésie ne porte que sur les formes les moins automatiques et les moins organisées de la mémoire. Dans les cas qui appartiennent à ce groupe morbide , on ne voit disparaître ni les habitudes, ni l'aptitude à un métier manuel , à coudre, à broder, ni la faculté de lire , d'écrire , de parler sa langue ou d'autres langues : en un mot, la mémoire sous sa forme organisée ou semi-organisée reste indemne . La destruction pathologique est limitée aux formes les plus élevées et les plus instables de la mémoire, à celles qui ont un caractère personnel et qui , accompagnées de conscience et de localisation dans le temps, constituent ce que nous avons appelé , dans le précédent chapitre, la mémoire psychique proprement dite .
 
 De plus, on doit remarquer aussi que l'amnésie porte sur les faits les plus récents ; que, partant du présent, elle s'étend en arrière sur une période de durée variable 1. Au premier abord, ce fait peut surprendre , parce que rien ne paraît plus vif et plus fort que nos souvenirs récents . En réalité , ce résultat est logique, la stabilité d'un souvenir étant en raison directe de son degré d'organisation. Je n'insiste pas sur ce point, qui sera longuement examiné ailleurs .
 
-La raison physiologique des amnésies de ce groupe ne peut donner lieu qu'à des hypothèses , et il est probable qu'elle varie suivant les cas. D'abord (observation de Laycock en particulier), la faculté d'enregistrer
+La raison physiologique des amnésies de ce groupe ne peut donner lieu qu'à des hypothèses , et il est probable qu'elle varie suivant les cas.[^p74-1] D'abord (observation de Laycock en particulier), la faculté d'enregistrer
 
-4[^p74-1]
+4
 
 [p. 75] les expériences nouvelles est suspendue temporairement
 
@@ -700,7 +700,7 @@ Il importe de remarquer que, dans cette forme de l'amnésie périodique, il y a 
 
 III . Pour terminer notre exposé des divers modes d'amnésie
 
-périodique , mentionnons certains cas qui n'en donnent que l'ébauche : ils se rencontrent dans le somnambulisme naturel ou provoqué . Généralement, les somnambules, leur accès passé, n'ont aucun souvenir de ce qu'ils ont dit ou fait ; mais chaque crise[^p81-1]
+périodique , mentionnons certains cas qui n'en donnent que l'ébauche : ils se rencontrent dans le somnambulisme naturel ou provoqué .[^p81-1] Généralement, les somnambules, leur accès passé, n'ont aucun souvenir de ce qu'ils ont dit ou fait ; mais chaque crise
 
 [p. 82] ramène le souvenir des crises précédentes . Il y a des exceptions à cette loi ; mais elles sont rares . On a souvent cité , d'après Macario, l'histoire de cette fille qui fut violée pendant un accès et n'en avait aucune connaissance au réveil , mais qui , dans l'accès suivant, révéla le fait à sa mère . Le Dr Mesnet a été témoin d'une tentative de suicide poursuivie avec beaucoup de lucidité par une malade pendant deux accès consécutifs 1. Une jeune
 
@@ -762,7 +762,7 @@ Pour aller plus loin , d'autres questions se posent auxquelles on ne peut malheu
 
 1 ° Quelle est la cause physiologique de ces variations rapides et régulières de la cénesthésie ? On n'a émis sur ce point que des hypothèses (état du système vasculaire , action inhibitoire, etc. ) .
 
-2º Quelle est la raison qui rattache à chaque forme de la cénesthésie certaines formes d'association à l'exclusion des autres ? On n'en sait rien . On peut affirmer seulement que, dans les amnésies périodiques , la conservation reste intacte, c'est-à-dire que les modifications cellulaires et les associations dynamiques subsis[^p88-1]
+2º Quelle est la raison qui rattache à chaque forme de la cénesthésie certaines formes d'association à l'exclusion des autres ? On n'en sait rien .[^p88-1] On peut affirmer seulement que, dans les amnésies périodiques , la conservation reste intacte, c'est-à-dire que les modifications cellulaires et les associations dynamiques subsis
 
 [p. 89] tent : la faculté de réviviscence seule est atteinte . Les associations ont deux points de départ : un état A éveille quelques groupes, mais est incapable d'éveiller les autres ; un état B fait le contraire ; certains groupes entrent également dans les deux complexus (cas de scission incomplète) .
 
@@ -772,9 +772,9 @@ Pour compléter nos remarques, il est bon d'ajouter quelques mots sur cette liai
 
 Dans l'état de santé et de veille , en effet, les phénomènes de conscience sont trop variés, trop nombreux, pour que la même combinaison ait des chances de se reproduire plusieurs fois . Cela arrive cependant dans certains cas bizarres, par suite de causes inconnues . « Un clergyman , dit le Dr Reynolds, en apparence très bien portant , célébrait le service un dimanche ;
 
-il choisit les hymnes, les leçons, prononça une prière extemporanée . Le dimanche suivant, il procéda exactement de la même manière, choisit les mêmes hymnes , les mêmes leçons, récita la même prière, prit le même texte et prononça le même sermon . En descendant de la chaire, il n'avait aucun souvenir d'avoir fait, le dimanche précédent, ce qu'il venait de répéter entièrement. Il en fut fort effrayé et redouta longtemps une maladie cérébrale qui ne survint pas 1. » On a vu l'ivresse produire le même retour du souvenir, comme dans le cas très connu de ce commissionnaire irlandais qui , ayant perdu un paquet pendant qu'il était ivre, s'enivra de nouveau et se rappela où il l'avait laissé .
+il choisit les hymnes, les leçons, prononça une prière extemporanée . Le dimanche suivant, il procéda exactement de la même manière, choisit les mêmes hymnes , les mêmes leçons, récita la même prière, prit le même texte et prononça le même sermon . En descendant de la chaire, il n'avait aucun souvenir d'avoir fait, le dimanche précédent, ce qu'il venait de répéter entièrement. Il en fut fort effrayé et redouta longtemps une maladie cérébrale qui ne survint pas 1. » On a vu l'ivresse produire le même retour du souvenir, comme dans le cas très connu de ce commissionnaire irlandais qui , ayant perdu un paquet pendant qu'il était ivre, s'enivra de nouveau et se rappela où il l'avait laissé .[^p90-1]
 
-Comme nous l'avons dit en commençant, les amnésies périodiques, si curieuses qu'elles soient, en apprennent plus long sur la nature du moi que sur celle[^p90-1]
+Comme nous l'avons dit en commençant, les amnésies périodiques, si curieuses qu'elles soient, en apprennent plus long sur la nature du moi que sur celle
 
 [p. 91] de la mémoire. Elles renferment cependant une part d'enseignement : nous y reviendrons dans le paragraphe qui va suivre .
 
@@ -789,13 +789,13 @@ La première cause de la maladie est une lésion du cerveau à marche envahissan
 
 Là se bornent, ou à peu près, les données de la psychologie courante . Elle semble admettre, au moins implicitement, que la dissolution de la mémoire ne suit aucune loi . Nous allons donner la preuve du contraire .
 
-Pour découvrir cette loi, il faut étudier psychologiquement la marche de la démence¹ . Dès que la période de prodromes, dont on vient de parler, est dépassée , il se produit un affaiblissement général et graduel de toutes les facultés, qui finit par réduire l'individu à une vie toute végétative . Les médecins ont distingué, suivant leurs causes , diverses espèces de démence (sénile , paralytique , épileptique , etc.) . Ces distinctions sont pour nous sans intérêt. Le travail de dissolution mentale reste au fond le même, quelles qu'en soient les causes, et c'est la seule chose qui nous importe . Or la question qui se pose est celle-ci
+Pour découvrir cette loi, il faut étudier psychologiquement la marche de la démence[^p92-1] . Dès que la période de prodromes, dont on vient de parler, est dépassée , il se produit un affaiblissement général et graduel de toutes les facultés, qui finit par réduire l'individu à une vie toute végétative . Les médecins ont distingué, suivant leurs causes , diverses espèces de démence (sénile , paralytique , épileptique , etc.) . Ces distinctions sont pour nous sans intérêt. Le travail de dissolution mentale reste au fond le même, quelles qu'en soient les causes, et c'est la seule chose qui nous importe . Or la question qui se pose est celle-ci
 
 : Dans cette dissolution, la perte de la mémoire suit-elle un ordre ?
 
 Les nombreux aliénistes qui ont laissé des descriptions de la démence ne se sont pas arrêtés à cette question , sans portée pour eux . Leur témoignage n'en aura que plus de valeur, si nous pouvons découvrir chez eux une réponse
 
-: et elle s'y trouve . Quand on[^p92-1]
+: et elle s'y trouve . Quand on
 
 [p. 93] interroge les meilleures autorités (Griesinger , Baillarger, Falret, Foville, etc. , etc.), on découvre que l'amnésie , après avoir été limitée d'abord aux faits récents , s'étend aux idées, puis aux sentiments et aux affections et finalement aux actes . Nous avons là toutes les données d'une loi. Pour la dégager, il suffit d'examiner successivement ces divers groupes .
 
@@ -803,7 +803,7 @@ Les nombreux aliénistes qui ont laissé des descriptions de la démence ne se s
 
 les impressions
 
-nouvelles. En termes plus précis, ni une modification nouvelle dans les cellules, ni la formation de nouvelles associations dynamiques n'est possible ou au moins durable. Les conditions anatomiques de la stabilité et de la réviviscence manquent. Si le fait est totalement neuf, il ne s'inscrit pas dans les centres nerveux ou est aussitôt effacé 1. S'il n'est qu'une répétition d'expériences antérieures et encore vivaces, le malade rejette le fait dans le passé ; les circonstances concomitantes du fait actuel s'effacent bien vite et ne permettent plus de le localiser à sa place. Mais les modifications fixées dans les éléments[^p93-1]
+nouvelles. En termes plus précis, ni une modification nouvelle dans les cellules, ni la formation de nouvelles associations dynamiques n'est possible ou au moins durable. Les conditions anatomiques de la stabilité et de la réviviscence manquent. Si le fait est totalement neuf, il ne s'inscrit pas dans les centres nerveux ou est aussitôt effacé 1. S'il n'est qu'une répétition d'expériences antérieures et encore vivaces, le malade rejette le fait dans le passé ; les circonstances concomitantes du fait actuel s'effacent bien vite et ne permettent plus de le localiser à sa place.[^p93-1] Mais les modifications fixées dans les éléments
 
 [p. 94] nerveux depuis de longues années et devenues organiques , les associations dynamiques et les groupes d'associations cent fois et mille fois répétées persistent encore ; elles ont une plus grande force de résistance contre la destruction. Ainsi s'explique ce paradoxe de la mémoire : Le nouveau meurt avant l'ancien .
 
@@ -827,13 +827,13 @@ Il est bien difficile de trouver des cas probants. D'abord il faut que la mémoi
 
 Dans son Essai cité plus haut , Louyer-Villermay observe « que , quand la mémoire se rétablit, elle suit dans sa réhabilitation un ordre inverse de celui qu'on observe dans son abolition : les faits, les adjectifs , les substantifs , les noms propres. » Il y a peu à tirer de cette remarque assez confuse . Voici qui est plus clair.
 
-[p. 97] <<< Dernièrement, on a vu en Russie un célèbre astronome oublier tour à tour les événements de la veille, puis ceux de l'année, puis ceux des dernières années et ainsi de suitela lacune gagnant toujours, tant qu'enfin il ne lui restait plus que le souvenir des événements de son enfance. On le croyait perdu . Mais, par un arrêt soudain et un retour imprévu , la lacune se combla en sens inverse , les événements de la jeunesse redevenant visibles , puis ceux de l'âge mûr, puis les plus récents, puis ceux de la veille . La mémoire était restaurée tout entière quand il mourut ¹ . >>>
+[p. 97] <<< Dernièrement, on a vu en Russie un célèbre astronome oublier tour à tour les événements de la veille, puis ceux de l'année, puis ceux des dernières années et ainsi de suitela lacune gagnant toujours, tant qu'enfin il ne lui restait plus que le souvenir des événements de son enfance. On le croyait perdu . Mais, par un arrêt soudain et un retour imprévu , la lacune se combla en sens inverse , les événements de la jeunesse redevenant visibles , puis ceux de l'âge mûr, puis les plus récents, puis ceux de la veille . La mémoire était restaurée tout entière quand il mourut [^p97-1] . >>>
 
 L'observation qui suit est encore plus précise . Elle a été notée heure par heure. J'en transcris la plus grande partie 2 .
 
 << Je dois faire mention d'abord de quelques détails bien insignifiants en eux-mêmes , mais qu'il est nécessaire de connaître, parce qu'ils se lient à un phénomène remarquable . Dans les derniers jours de novembre, un officier de mon régiment fut blessé au pied gauche par le frottement d'une botte. Le 30 novembre, il alla à Versailles pour y avoir un entretien avec son frère . Il dîna dans cette ville, revint le même soir à Paris, et , en rentrant dans son logement, il trouva une lettre de son père sur la cheminée .
 
-<< Maintenant voici le fait lui-même . Le 1er décembre, cet officier était au manège et son cheval s'étant abattu , il tomba sur la partie droite du corps, surtout sur le pariétal droit . Cette commotion fut suivie d'une légère[^p97-1]
+<< Maintenant voici le fait lui-même . Le 1er décembre, cet officier était au manège et son cheval s'étant abattu , il tomba sur la partie droite du corps, surtout sur le pariétal droit . Cette commotion fut suivie d'une légère
 
 [p. 98] syncope . Revenu à lui, il remonta à cheval <<< pour dissiper un reste d'étourdissement » et il continua sa leçon d'équitation pendant trois quarts d'heure avec une grande régularité. Cependant de temps en temps , il disait à l'écuyer : « Je sors d'un rêve . Que m'est-il << donc arrivé ? » On le reconduisit à son domicile .
 
@@ -907,9 +907,9 @@ L'existence
 
 de ces mémoires partielles est un fait si commun qu'on en a tiré parti pour l'éducation des idiots et des imbéciles 2 .
 
-Il faut noter encore que certains idiots atteints de manie ou de quelque autre maladie aiguë recouvrent une mémoire temporaire. Ainsi < un idiot atteint de la rage raconta un fait assez compliqué dont il avait été témoin longtemps auparavant et qui semblait n'avoir fait aucune impression sur lui ³ » .
+Il faut noter encore que certains idiots atteints de manie ou de quelque autre maladie aiguë recouvrent une mémoire temporaire. Ainsi < un idiot atteint de la rage raconta un fait assez compliqué dont il avait été témoin longtemps auparavant et qui semblait n'avoir fait aucune impression sur lui [^p105-3] » .[^p105-2][^p105-1]
 
-3[^p105-1][^p105-2][^p105-3]
+3
 
 [p. 106] Dans les amnésies congénitales, ce sont les exceptions qui instruisent. La loi ne fait que confirmer cette vérité banale : la mémoire dépend de la constitution du cerveau, qui, chez les idiots et les imbéciles, est anormale . Mais la formation de ces mémoires limitées, partielles , aide à comprendre certains désordres dont nous n'avons pas encore parlé. J'incline à croire que l'étude méthodique de ce qui se produit chez les idiots permettrait de déterminer les conditions anatomiques et physiologiques de la mémoire . Nous reviendrons sur ce point dans le chapitre suivant .
 
@@ -932,7 +932,7 @@ L'emploi du mot mémoire comme terme général est [p. 108] d'une justesse irré
 
 >>
 
-Tandis que l'expérience vulgaire a noté depuis longtemps l'inégalité naturelle des diverses formes de la mémoire chez le même homme, les psychologues ne s'en sont pas préoccupés ou l'ont niée de parti pris. Dugald Stewart affirme sérieusement « que ces différences qui nous frappent doivent être imputées en grande partie à des différences d'habitude dans l'emploi de l'attention ou au choix que fait l'esprit entre les événements ou les objets offerts à la curiosité 2. » Gall le premier réagissant contre cette tendance assigna à chaque faculté sa mémoire propre et nia l'exis-[^p108-1][^p108-2]
+Tandis que l'expérience vulgaire a noté depuis longtemps l'inégalité naturelle des diverses formes de la mémoire chez le même homme, les psychologues ne s'en sont pas préoccupés ou l'ont niée de parti pris. Dugald Stewart affirme sérieusement « que ces différences qui nous frappent doivent être imputées en grande partie à des différences d'habitude dans l'emploi de l'attention ou au choix que fait l'esprit entre les événements ou les objets offerts à la curiosité 2. »[^p108-2][^p108-1] Gall le premier réagissant contre cette tendance assigna à chaque faculté sa mémoire propre et nia l'exis-
 
 [p. 109] tence de la mémoire comme faculté indépendante 1.
 
@@ -944,9 +944,9 @@ n'ayant pas à traiter ici cette question. Il me suffit que le lecteur tienne ce
 
 Que supposent ces mémoires partielles ?
 
-Le développement particulier d'un certain sens avec les structures anatomiques qui en dépendent .
+Le développement particulier d'un certain sens avec les structures anatomiques qui en dépendent .[^p109-3][^p109-2][^p109-1]
 
-Pour être plus clair, prenons un cas particulier : [^p109-1][^p109-2][^p109-3]
+Pour être plus clair, prenons un cas particulier :
 
 [p. 110] une bonne mémoire visuelle. Elle a pour condition une bonne structure de l'œil , du nerf optique et des parties de l'encéphale qui concourent à l'acte de la vision , c'est- à- dire (d'après les notions anatomiques généralement admises) de certaines portions de la protubérance , des pédoncules , de la couche optique , des hémisphères cérébraux. Ces structures , supérieures par hypothèse à la moyenne, sont parfaitement adaptées à recevoir et à transmettre les impressions . Par suite , les modifications que subissent les éléments nerveux ainsi que les associations dynamiques qui se forment entre eux (ce sont là, nous l'avons répété plusieurs fois , les bases de la mémoire) doivent être plus stables , plus nettes, plus faciles à raviver que dans un autre cerveau . En somme, dire qu'un organe visuel a une bonne constitution anatomique et physiologique , c'est dire qu'il présente les conditions d'une bonne mémoire visuelle .
 
@@ -978,7 +978,7 @@ Enfin , qu'on n'objecte pas l'influence de l'éducation . Il est clair qu'il fau
 
 En psychologie, comme dans toute science de faits, c'est l'expérience qui décide en dernier ressort. Remarquons cependant que l'indépendance relative des diverses formes de la mémoire aurait pu s'établir par le seul raisonnement. C'est, en effet, un corollaire des deux propositions générales qui suivent : 1º Tout souvenir a son siège dans certaines parties déterminées de l'encéphale . 2º L'encéphale et les hémisphères dù cerveau eux-mêmes « consistent en un certain nombre d'organes totalement différenciés, dont chacun possède une fonction propre , tout en restant dans la connexion la plus intime avec les autres. » Cette dernière proposition est maintenant admise par la plupart des auteurs qui étudient le système nerveux .
 
-Je crains d'insister trop longuement. Dans la physiologie, en effet, la distinction des mémoires partielles est une vérité courante 2 ; mais, dans la psychologie, la[^p112-1][^p112-2]
+Je crains d'insister trop longuement.[^p112-2][^p112-1] Dans la physiologie, en effet, la distinction des mémoires partielles est une vérité courante 2 ; mais, dans la psychologie, la
 
 [p. 113] méthode des « facultés » a si bien réussi à faire considérer la mémoire comme une unité que l'existence des mémoires partielles a été complètement oubliée ou prise pour une anomalie . Il fallait ramener le lecteur à la réalité, lui rappeler qu'il n'y a, en dernière analyse, que des mémoires spéciales, ou, comme disent certains auteurs , locales . Nous acceptons volontiers cette dernière dénomination, à condition qu'on n'oublie pas qu'il s'agit ici d'une localisation disséminée, suivant cette hypothèse des associations dynamiques dont nous avons si souvent parlé. On a souvent comparé la mémoire à un magasin où toutes nos connaissances seraient conservées dans des
 
@@ -996,7 +996,7 @@ Une étude complète des amnésies partielles consisterait à prendre l'une apr�
 
 A proprement parler , il n'existe qu'une forme d'amnésie partielle qu'on puisse étudier à fond : celle des signes (signes parlés et écrits, interjections, gestes) . Elle est riche en faits de tout genre, explicable par la loi formulée plus haut. La réservant pour une étude à part, nous allons résumer se qu'on sait des autres amnésies partielles .
 
-<< Quelques personnes, dit Calmeil 1, ont perdu la faculté de reproduire certains tons ou certaines couleurs et ont été obligées de renoncer à la musique ou à la peinture . » D'autres perdent la seule mémoire des nombres , des figures, d'un langue étrangère, des noms[^p114-1]
+<< Quelques personnes, dit Calmeil 1, ont perdu la faculté de reproduire certains tons ou certaines couleurs et ont été obligées de renoncer à la musique ou à la peinture . »[^p114-1] D'autres perdent la seule mémoire des nombres , des figures, d'un langue étrangère, des noms
 
 [p. 115] propres , de l'existence de leurs plus proches parents . Nous allons en donner quelques exemples .
 
@@ -1006,9 +1006,9 @@ On a souvent cité le cas de Holland qu'il a rapporte lui-même dans sa Mental P
 
 Ce cas, quoique le plus connu, est loin d'être unique. Le Dr Beattie rapporte qu'un de ses amis, ayant reçu un coup sur la tête, avait perdu tout ce qu'il savait de grec , mais que par ailleurs sa mémoire ne paraissait avoir souffert en aucune façon. Cette perte de langues acquises par l'étude a été souvent notée comme le résultat de diverses fièvres .
 
-<< De même pour la musique . Un enfant, après s'être violemment heurté le tête, reste trois jours inconscient . En revenant à lui, il avait oublié tout ce qu'il savait de musique . Rien autre n'avait été perdu 1. » — Ilya des cas plus compliqués . Un malade qui avait complètement oublié la valeur des notes musicales pouvait jouer un air après l'avoir entendu. Un autre pouvait écrire des notes, même composer, reconnaître une mélodie à l'audition ; mais il était incapable de jouer en regardant les notes 2.
+<< De même pour la musique . Un enfant, après s'être violemment heurté le tête, reste trois jours inconscient . En revenant à lui, il avait oublié tout ce qu'il savait de musique . Rien autre n'avait été perdu 1. » — Ilya des cas plus compliqués . Un malade qui avait complètement oublié la valeur des notes musicales pouvait jouer un air après l'avoir entendu. Un autre pouvait écrire des notes, même composer, reconnaître une mélodie à l'audition ; mais il était incapable de jouer en regardant les notes 2.[^p115-2][^p115-1]
 
-Ces faits, qui nous mon-[^p115-1][^p115-2]
+Ces faits, qui nous mon-
 
 [p. 116] trent la complexité de nos opérations mentales , en apparence les plus simples, seront étudiés plus loin 1 .
 
@@ -1020,7 +1020,7 @@ Certains malades perdent complètement la mémoire des noms propres, même du le
 
 ce qu'on peut remarquer d'ailleurs chez les vieillards , -- que les noms propres sont toujours ceux qui s'oublient le plus vite. Dans les cas suivants , cet oubli était le symptôme d'un ramollissement cérébral .
 
-Un homme ne pouvant retrouver le nom d'un ami en est réduit à conduire son interloculeur devant la porte où ce nom est inscrit sur une plaque de cuivre. Un autre, après une attaque d'apoplexie, ne peut se rappeler le nom d'aucun de ses amis , mais les désigne correctement par leur âge . - M. von B .... , ambassadeur à Madrid, puis à Saint-Pétersbourg, se trouve, au début d'une visite , obligé de décliner son[^p116-1][^p116-2]
+Un homme ne pouvant retrouver le nom d'un ami en est réduit à conduire son interloculeur devant la porte où ce nom est inscrit sur une plaque de cuivre. Un autre, après une attaque d'apoplexie, ne peut se rappeler le nom d'aucun de ses amis , mais les désigne correctement par leur âge . - M. von B ....[^p116-2][^p116-1] , ambassadeur à Madrid, puis à Saint-Pétersbourg, se trouve, au début d'une visite , obligé de décliner son
 
 [p. 117] nom aux domestiques , le cherche vainement, s'adresse à son compagnon : « Pour l'amour de Dieu , dites-moi qui je suis. » Cette question excite le rire . Il insiste et la visite finit là 1 .
 
@@ -1034,7 +1034,7 @@ l'état normal beaucoup de gens ont cette forme de mémoire très peu développ�
 
 « J'ai connu intimement dès mon enfance, dit Carpenter , un savant remarquable. Agé de plus de soixante-dix ans, il était encore vigoureux ; mais sa mémoire se mit à décliner. Il oubliait surtout les faits récents et les mots peu usités . Quoiqu'il continuât de fréquenter le Musée britannique , la Société royale et la Société géologique, il ne pouvait plus les appeler par leurs noms ;
 
-il les désignait par le terme « ce lieu public » . Il continuait à visiter ses amis, les reconnais-[^p117-1][^p117-2]
+il les désignait par le terme « ce lieu public » .[^p117-2][^p117-1] Il continuait à visiter ses amis, les reconnais-
 
 [p. 118] sait chez eux et dans les autres endroits où il avait l'habitude de les rencontrer (comme dans les sociétés scientifiques) ; non ailleurs. Je le rencontrai un jour chez l'un de nos plus anciens amis qui réside ordinairement à Londres, mais qui était alors à Brighton . Il ne me reconnut pas, et il ne le fit pas davantage quand nous fûmes hors de la maison ..... Sa mémoire
 
@@ -1076,15 +1076,15 @@ Je crois inutile de donner ici des exemples que le lecteur peut trouver partout 
 
 Il tâche de se faire comprendre par gestes . Il n'y a d'ailleurs aucune parałysie des muscles servant à articuler les mots ; la langue se meut librement. Tels sont les traits les plus généraux, ceux du moins qui nous intéressent .
 
-Que s'est- il passé dans l'état psychique du malade, et, en ce qui concerne sa mémoire, qu'a-t-il perdu ? Il suffit d'un peu de réflexion pour voir que l'amnésie[^p122-1][^p122-2]
+Que s'est- il passé dans l'état psychique du malade, et, en ce qui concerne sa mémoire, qu'a-t-il perdu ?[^p122-2][^p122-1] Il suffit d'un peu de réflexion pour voir que l'amnésie
 
 [p. 123] des signes est d'une nature toute particulière . Elle n'est pas comparable à l'oubli des couleurs , des sons, d'une langue étrangère, d'une période de la vie. Elle s'étend à toute l'activité de l'esprit ; en ce sens , elle est générale ; et cependant elle est partielle, puisque le malade a conservé ses idées, ses souvenirs et juge luimême sa situation .
 
 Selon nous , l'amnésie des signes est surtout une maladie de la mémoire motrice ; c'est là ce qui lui donne son caractère propre, ce qui fait qu'elle s'offre sous un aspect nouveau . Mais que faut-il donc entendre par « mémoire motrice » , expression qui au premier abord peut surprendre ? C'est une question si peu étudiée par les psychologues qu'il est difficile d'en parler clairement en passant et qu'il est impossible de la traiter ici tout au long .
 
-J'ai essayé ailleurs ¹, quoique d'une manière sommaire et insuffisante, de faire ressortir l'importance psychologique des mouvements et de montrer que tout état de conscience implique à un certain degré des éléments moteurs . Pour m'en tenir à ce qui nous concerne actuellement , je ferai remarquer que per-sonne ne fait de difficulté pour admettre que les perceptions , les idées, les actes intellectuels en général ne sont fixés en nous , ne font partie de la mémoire qu'à la condition qu'il y ait dans l'encéphale certains résidus , qui consisteraient selon nousen modifications des éléments nerveux et en associations dynamiques entre ces éléments . C'est à cette condition seule qu'ils sont conservés et ravivés . Mais il est nécessaire qu'il en soit
+J'ai essayé ailleurs [^p123-1], quoique d'une manière sommaire et insuffisante, de faire ressortir l'importance psychologique des mouvements et de montrer que tout état de conscience implique à un certain degré des éléments moteurs . Pour m'en tenir à ce qui nous concerne actuellement , je ferai remarquer que per-sonne ne fait de difficulté pour admettre que les perceptions , les idées, les actes intellectuels en général ne sont fixés en nous , ne font partie de la mémoire qu'à la condition qu'il y ait dans l'encéphale certains résidus , qui consisteraient selon nousen modifications des éléments nerveux et en associations dynamiques entre ces éléments . C'est à cette condition seule qu'ils sont conservés et ravivés . Mais il est nécessaire qu'il en soit
 
-t[^p123-1]
+t
 
 [p. 124] de même pour les mouvements . Ceux qui nous occupent, qui se produisent dans la parole articulée , l'écriture, le dessin, la musique, les gestes, ne peuvent être conservés et reproduits qu'à condition qu'il y ait des résidus moteurs, c'est- à-dire suivant l'hypothèse, tant de fois exposée, des modifications dans les éléments nerveux et des associations dynamiques entre ces éléments . Au reste, quelque opinion qu'on professe ,
 
@@ -1114,11 +1114,11 @@ Certains malades privés seulement d'une partie de leur vocabulaire, mais incapa
 
 Dans des cas plus graves, nous voyons des malades jouer aux cartes avec beaucoup de calcul et de réflexion ; d'autres surveillent la gestion de leurs affaires . Tel ce grand propriétaire dont parle Trousseau <<qui se faisait présenter les baux, traités, etc. , et , par des gestes intelligibles pour ses proches, indiquait des modifications à faire , qui le plus ordinairement étaient utiles et raisonnables. » Un homme , complètement privé de la parole, remit à son médecin une histoire détaillée de sa maladie écrite par lui en très bons termes et d'une main fort assurée .
 
-Nous avons d'ailleurs le témoignage des malades euxmêmes après leur guérison. « J'avais oublié tous les mots, dit l'un d'eux, mais j'avais toute ma connaissance, toute ma volonté. Je savais très bien ce que je voulais dire et ne pouvais le dire . Quand vous (le médecin) m'interrogiez, je vous comprenais parfaitement ; je faisais tous mes efforts pour répondre ; impossible de me souvenir des mots 2. » Rostan, frappé subitement et incapable de prononcer ou d'écrire un seul mot , << analysait les symptômes de sa maladie et cherchait à les rapporter à quelque lésion particulière du cer-[^p126-1][^p126-2]
+Nous avons d'ailleurs le témoignage des malades euxmêmes après leur guérison. « J'avais oublié tous les mots, dit l'un d'eux, mais j'avais toute ma connaissance, toute ma volonté. Je savais très bien ce que je voulais dire et ne pouvais le dire . Quand vous (le médecin) m'interrogiez, je vous comprenais parfaitement ; je faisais tous mes efforts pour répondre ; impossible de me souvenir des mots 2. »[^p126-2][^p126-1] Rostan, frappé subitement et incapable de prononcer ou d'écrire un seul mot , << analysait les symptômes de sa maladie et cherchait à les rapporter à quelque lésion particulière du cer-
 
 [p. 127] veau, comme il eût fait dans une conférence clinique . >>> Le cas de Lordat est très connu
 
-: « Il était capable de coordonner une leçon , d'en changer dans son esprit la distribution ; mais lorsque la pensée devait se manifester par la parole ou l'écriture, c'était chose impossible, bien qu'il n'y eût pas de paralysie ¹ . >>>
+: « Il était capable de coordonner une leçon , d'en changer dans son esprit la distribution ; mais lorsque la pensée devait se manifester par la parole ou l'écriture, c'était chose impossible, bien qu'il n'y eût pas de paralysie [^p127-1] . >>>
 
 Nous pouvons donc considérer comme établi que , les moyens d'expression ayant disparu, l'intelligence reste à peu près intacte, et que par conséquent l'amnésie est restreinte aux signes .
 
@@ -1128,7 +1128,7 @@ Lorsqu'on nous apprend à parler notre langue maternelle ou une langue étrangè
 
 s'enregistrer dans notre cerveau . Mais ce n'est qu'une moitié de notre tâche . Il nous faut les répéter, passer de l'état réceptif à l'état actif, traduire ces signes acoustiques en mouvements vocaux. Cette opération est fort difficile à l'origine, parce qu'elle consiste à coordonner des mouvements fort compliqués. Nous ne savons parler que lorsque ces mouvements sont facilement reproduits , c'est-à-dire que les résidus moteurs sont organisés .
 
-Quand nous apprenons à écrire, nous fixons les yeux sur un modèle : des signes optiques viennent s'enregis-[^p127-1]
+Quand nous apprenons à écrire, nous fixons les yeux sur un modèle : des signes optiques viennent s'enregis-
 
 [p. 128] trer dans notre cerveau ; puis, avec beaucoup d'efforts, nous essayons de les reproduire par les mouvements de notre main. Ici encore, il y a une coordination de mouvements très délicats. Nous ne savons écrire que lorsque les signes optiques sont traduits immédiatement en mouvements, c'est-à-dire quand les résidus moteurs sont organisés .
 
@@ -1148,9 +1148,9 @@ suscité par aucune
 
 association , lorsqu'il ne peut entrer dans aucune série . Chez l'aphasique, l'idée ne suscite plus son signe, du moins son [p. 130] expression motrice . Seulement ici, la dissociation est d'une nature plus intime. Elle a lieu non entre des termes que l'expérience antérieure a réunis ; mais entre des éléments si bien fondus ensemble qu'ils constituent une unité pour la conscience et que soutenir leur indépendance relative semblerait une subtilité d'analyse, si la maladie ne se chargeait de la démontrer 1 .
 
-C'est cette fusion intime entre l'idée, le signe (vocal ou écrit) et l'élément moteur, qui rend si difficile à établir d'une manière nette, indiscutable , que l'amnésie des signes est surtout une amnésie motrice . Comme tout état de conscience tend à se traduire en mouvement, comme, suivant l'heureuse expression de Bain, « penser c'est se retenir de parler ou d'agir » , il n'est pas possible à l'analyse seule d'établir des séparations tranchées entre ces trois éléments . Il me semble cependant que cette mémoire des signes vocaux et écrits qui survit chez l'aphasique intelligent représente bien ce qu'on a appelé la parole intérieure, ce minimum de détermination sans lequel l'esprit serait en voie de démence, et que par conséquent ce sont les éléments moteurs qui sont seuls éteints dans l'oubli .
+C'est cette fusion intime entre l'idée, le signe (vocal ou écrit) et l'élément moteur, qui rend si difficile à établir d'une manière nette, indiscutable , que l'amnésie des signes est surtout une amnésie motrice . Comme tout état de conscience tend à se traduire en mouvement, comme, suivant l'heureuse expression de Bain, « penser c'est se retenir de parler ou d'agir » , il n'est pas possible à l'analyse seule d'établir des séparations tranchées entre ces trois éléments . Il me semble cependant que cette mémoire des signes vocaux et écrits qui survit chez l'aphasique intelligent représente bien ce qu'on a appelé la parole intérieure, ce minimum de détermination sans lequel l'esprit serait en voie de démence, et que par conséquent ce sont les éléments moteurs qui sont seuls éteints dans l'oubli .[^p130-1]
 
-En interrogeant les médecins bien peu nombreux qui ont étudié la psychologie de l'aphasie, je trouve[^p130-1]
+En interrogeant les médecins bien peu nombreux qui ont étudié la psychologie de l'aphasie, je trouve
 
 [p. 131] que leur thèse ne diffère pas sensiblement de la nôtre, sauf dans les termes . « Je me suis demandé, dit Trousseau , si
 
@@ -1174,7 +1174,7 @@ Examinons en détail ces trois périodes de dissolution ; nous aurons ainsi embr
 
 1. La première période est de beaucoup la plus importante , puisqu'elle comprend les formes supérieures du langage, celui qui traduit la pensée réfléchie, qui est proprement humain. Ici encore, la dissolution suit un ordre déterminé . Certains médecins, même avant les travaux contemporains sur l'aphasie, avaient remarqué qu'en pareil cas , la mémoire des noms propres se perd avant celle des substantifs , qui elle-même précède celle des adjectifs . Cette remarque a été confirmée depuis par de nombreuses observations . <<< Les substantifs , dit Kussmaul dans son récent ouvrage , et en particulier les noms propres et les noms de choses (Sachnamen), sont plus facilement oubliés que les verbes , les adjectifs, les conjonctions et les autres parties du discours 1. » Ce fait n'a été noté par les médecins qu'en passant . Bien peu en ont recherché les causes. Il ne présente pas , en effet, pour eux, d'intérêt clinique , tandis qu'il est d'une grande importance pour la psychologie .
 
-On voit en effet du premier coup d'œil que la marche de l'amnésie va du particulier au général. Elle atteint d'abord les noms propres qui sont purement individuels , puis les noms de choses qui sont les plus concrets , puis tous les substantifs qui ne sont que des[^p133-1]
+On voit en effet du premier coup d'œil que la marche de l'amnésie va du particulier au général.[^p133-1] Elle atteint d'abord les noms propres qui sont purement individuels , puis les noms de choses qui sont les plus concrets , puis tous les substantifs qui ne sont que des
 
 [p. 134] adjectifs pris dans un sens particulier 1 ; enfin viennent les adjectifs et les verbes qui expriment des qualités, des manières d'être , des actes . Les signes qui traduisent immédiatement des qualités périssent donc les derniers . Le savant dont parle Gratiolet qui, oubliant tous les noms propres, disait : « Mon confrère qui a fait telle invention,
 
@@ -1182,21 +1182,21 @@ On voit en effet du premier coup d'œil que la marche de l'amnésie va du partic
 
 Comme le particulier est nécessairement ce qui a le moins d'extension et le général ce qui en a le plus, on peut dire que la rapidité avec laquelle la mémoire des signes disparaît est en raison inverse de leur extension, et comme , toutes choses égales d'ailleurs , un terme a d'autant plus de chances d'être répété et fixé dans la mémoire qu'il désigne un grand nombre d'objets , et d'autant moins de chances d'être répété et fixé dans la mémoire qu'il en désigne un petit nombre , on voit que cette loi de dissolution repose en définitive sur des conditions expérimentales .
 
-Je compléterai ces remarques par le passage suivant de Kussmaul : « Quand la mémoire diminue, plus un concept est concret, plus le terme qui l'exprime manque vite. Ce qui en est la cause, c'est que notre représentation des personnes et des choses est plus faiblement[^p134-1]
+Je compléterai ces remarques par le passage suivant de Kussmaul : « Quand la mémoire diminue, plus un concept est concret, plus le terme qui l'exprime manque vite.[^p134-1] Ce qui en est la cause, c'est que notre représentation des personnes et des choses est plus faiblement
 
 [p. 135] liée à leur nom que les abstractions, telles que leur état , leurs rapports , leurs qualités. Nous nous représentons facilement les personnes et les choses sans leurs noms , parce qu'ici l'image sensorielle est plus importante que cette autre image qui est le signe, c'est-à-dire leur nom. Au contraire , nous n'acquérons les concepts abstraits qu'avec l'aide des mots qui seuls leur donnent une forme stable. Voilà pourquoi les verbes, les adjectifs , les pronoms et encore plus les adverbes, les prépositions et les conjonctions sont plus intimement liés à la pensée que les substantifs . On peut se figurer que, dans le réseau de cellules des couches corticales , il doit se passer des phénomènes d'excitation et de combinaison beaucoup plus nombreux pour un concept abstrait que pour un concept concret ; et que par conséquent les connexions organiques qui lient une idée abstraite à son signe sont beaucoup plus nombreuses que pour le cas d'une idée concrète 1 » . Traduite en langage psychologique, cette dernière phrase équivaut à ce que nous avons dit plus haut
 
 : que la stabilité du signe est en raison de son organisation , c'est-à-dire du nombre des expériences répétées et enregistrées .
 
-La science du langage nous fournit aussi des indications précieuses pour notre sujet. Au risque de fatiguer le lecteur par un excès de preuves , je me garde de les négliger . L'évolution du langage s'est faite, comme on devait s'y attendre, dans un ordre inverse à celui de la dissolution chez les aphasiques .
+La science du langage nous fournit aussi des indications précieuses pour notre sujet. Au risque de fatiguer le lecteur par un excès de preuves , je me garde de les négliger . L'évolution du langage s'est faite, comme on devait s'y attendre, dans un ordre inverse à celui de la dissolution chez les aphasiques .[^p135-1]
 
-Avant d'invoquer en faveur de notre loi le dévelop[^p135-1]
+Avant d'invoquer en faveur de notre loi le dévelop
 
 [p. 136] pement historique des langues, il semblerait naturel d'interroger le développement individuel . Mais cela est impossible . Quand nous apprenons à parler, notre langue nous est imposée . Bien que l'enfant, comme l'a très bien dit M. Taine, « apprenne la langue déjà faite , comme un vrai musicien apprend le contre-point et un vrai poète la prosodie , c'est-à-dire comme un génie original, » en réalité, il ne la crée pas . Il faut donc nous en tenir à l'évolution historique .
 
-C'est un point bien établi que les langues indo-européennes sont issues d'un certain nombre de racines et que ces racines étaient de deux sortes : verbales ou prédicatives , pronominales ou démonstratives . Les premières , qui contenaient les verbes , les adjectifs et les substantifs , « sont, dit Whitney, des signes indicatifs d'actes ou de qualités. » Les secondes, d'où sont issus le pronom et l'adverbe (la préposition et la conjonction sont de formation secondaire) , sont peu nombreuses et indiquaient des rapports de position. La forme primitive du signe est donc l'affirmation des qualités . Puis le verbe et l'adjectif se séparent. <<< Les noms sont tirés des verbes par l'intermédiaire des participes, qui ne sont que des adjectifs dont la dérivation verbale n'est pas encore effacée 1. » Quant à la transformation des noms communs en noms propres , elle n'est pas douteuse .
+C'est un point bien établi que les langues indo-européennes sont issues d'un certain nombre de racines et que ces racines étaient de deux sortes : verbales ou prédicatives , pronominales ou démonstratives . Les premières , qui contenaient les verbes , les adjectifs et les substantifs , « sont, dit Whitney, des signes indicatifs d'actes ou de qualités. » Les secondes, d'où sont issus le pronom et l'adverbe (la préposition et la conjonction sont de formation secondaire) , sont peu nombreuses et indiquaient des rapports de position. La forme primitive du signe est donc l'affirmation des qualités . Puis le verbe et l'adjectif se séparent. <<< Les noms sont tirés des verbes par l'intermédiaire des participes, qui ne sont que des adjectifs dont la dérivation verbale n'est pas encore effacée 1. » Quant à la transformation des noms communs en noms propres , elle n'est pas douteuse .[^p136-1]
 
-L'évolution naturelle du langage n'explique-telle pas les stades de sa dissolution chez l'aphasique , dans la mesure où une création spontanée et la dissolution[^p136-1]
+L'évolution naturelle du langage n'explique-telle pas les stades de sa dissolution chez l'aphasique , dans la mesure où une création spontanée et la dissolution
 
 [p. 137] d'une langue
 
@@ -1238,7 +1238,7 @@ En résumé, nous voyons que l'amnésie des signes descend des noms propres aux 
 
 [p. 139] du pas au hasard, elle suit un ordre rigoureux , moins organisé au mieux organisé, du plus complexe au plus simple, du moins automatique au plus automatique 1. Ce qui a été dit plus haut en établissant la loi générale de réversion de la mémoire pourrait être répété ici, et ce n'est pas l'une des moindres preuves de son exactitude que de la voir se vérifier pour le cas d'amnésie partielle le plus important, le plus systématique, le mieux connu .
 
-Il y aurait encore lieu de procéder ici à une contreépreuve . Lorsque l'amnésie des signes a été complète et que leur retour se fait progressivement, a-t-il lieu dans un ordre inverse à celui de leur disparition ? Ge cas est rare . Je trouve cependant une observation du Dr Grasset où un homme est atteint << d'une impossibilité complète de traduire sa pensée soit par la parole, soit par l'écriture, soit par les gestes . Dans les jours suivants, on vit reparaître successivement et peu à peu la faculté de se faire comprendre par gestes, puis par la parole et l'écriture 2. » Il est très probable que l'on trouverait d'autres exemples de ce genre, si l'attention des observateurs était fixée sur ce point .[^p139-1][^p139-2]
+Il y aurait encore lieu de procéder ici à une contreépreuve . Lorsque l'amnésie des signes a été complète et que leur retour se fait progressivement, a-t-il lieu dans un ordre inverse à celui de leur disparition ? Ge cas est rare . Je trouve cependant une observation du Dr Grasset où un homme est atteint << d'une impossibilité complète de traduire sa pensée soit par la parole, soit par l'écriture, soit par les gestes . Dans les jours suivants, on vit reparaître successivement et peu à peu la faculté de se faire comprendre par gestes, puis par la parole et l'écriture 2. » Il est très probable que l'on trouverait d'autres exemples de ce genre, si l'attention des observateurs était fixée sur ce point .[^p139-2][^p139-1]
 
 [p. 140]
 
@@ -1288,7 +1288,7 @@ révèlent une
 
 suractivité de la mémoire dont nous ne pouvons nous faire aucune idée à l'état normal .
 
-Je citerai un dernier exemple dû à l'intoxication par l'opium, et je prierai le lecteur de remarquer combien il confirme l'explication qui a été donnée plus haut du mécanisme de la « reconnaissance » . « Il me semble, dit Th . de Quincey dans ses Confessions d'un mangeur d'opium , avoir vécu soixante-dix ans ou un siècle[^p142-1]
+Je citerai un dernier exemple dû à l'intoxication par l'opium, et je prierai le lecteur de remarquer combien il confirme l'explication qui a été donnée plus haut du mécanisme de la « reconnaissance » . « Il me semble, dit Th .[^p142-1] de Quincey dans ses Confessions d'un mangeur d'opium , avoir vécu soixante-dix ans ou un siècle
 
 [p. 143] en une nuit..... Les plus petits événements de ma jeunesse , des scènes oubliées de mes premières années étaient souvent ravivées . On ne peut dire que je me les rappelais, car, si on me les avait racontées à l'état de veille , je n'aurais pas été capable de les reconnaître comme faisant partie de mon expérience passée . Mais , placées devant moi comme elles l'étaient en rêve, comme des intuitions , revêtues de leurs circonstances les plus vagues et des sentiments qui les accompagnaient, je les reconnaissais instantanément >> (page 142).
 
@@ -1318,9 +1318,9 @@ Cette conviction singulière s'imposant à lui, il s'adressa à sa mère, pour a
 
 panier sur le dos d'un âne ; qu'il avait été laissé en bas avec les ânes et les domestiques, tandis que les plus âgés de la bande s'étaient installés pour manger au -dessus de la porte du château 2. »
 
-Le mécanisme du ressouvenir dans ces deux cas ne peut donner lieu à aucune équivoque . C'est une réviviscence par contiguïté dans l'espace . Ils présentent, seulement sous une forme plus frappante et plus rare , ce qui se rencontre à chaque instant dans la vie. A qui n'est-il pas arrivé , pour recouvrer un souvenir momentanément perdu , de retourner à l'endroit où l'idée a surgi , de se remettre autant que possible dans la même situation matérielle et de le voir renaître tout d'un coup ?
+Le mécanisme du ressouvenir dans ces deux cas ne peut donner lieu à aucune équivoque . C'est une réviviscence par contiguïté dans l'espace . Ils présentent, seulement sous une forme plus frappante et plus rare , ce qui se rencontre à chaque instant dans la vie. A qui n'est-il pas arrivé , pour recouvrer un souvenir momentanément perdu , de retourner à l'endroit où l'idée a surgi , de se remettre autant que possible dans la même situation matérielle et de le voir renaître tout d'un coup ?[^p145-2][^p145-1]
 
-Quant à l'hypermnésie de cause morbide, je n'en donnerai qu'un exemple pour servir à ce type[^p145-1][^p145-2]
+Quant à l'hypermnésie de cause morbide, je n'en donnerai qu'un exemple pour servir à ce type
 
 [p. 146] « A l'âge de quatre ans, un enfant, par suite d'une fracture du crâne , subit l'opération du trépan . Revenu à la santé , il n'avait gardé aucun souvenir ni de l'accident ni de l'opération . Mais à l'âge de quinze ans, pris d'un délire fébrile, il décrivit à sa mère l'opération, les gens qui y assistaient, leur toilette et autres petits détails, avec une grande exactitude . Jusque-là, il n'en avait jamais parlé et il n'avait jamais entendu personne donner tous ces détails 1 .
 
@@ -1332,9 +1332,9 @@ les mêmes effets que l'excitation fébrile .
 
 que des districts allemands . Ses enfants assurèrent que, depuis trente ou quarante ans , il n'avait entendu ni prononcé un seul mot de polonais . Pendant une anesthésie qui dura près de deux heures , cet homme parla, pria , chanta , rien qu'en polonais. »
 
-Ce qui est plus curieux que le retour d'une langue, c'est le retour régressif de plusieurs langues . Malheureusement, les auteurs qui en ont parlé rapportent ce fait à
+Ce qui est plus curieux que le retour d'une langue, c'est le retour régressif de plusieurs langues .[^p146-2][^p146-1] Malheureusement, les auteurs qui en ont parlé rapportent ce fait à
 
-titre de simple curiosité, sans donner tous[^p146-1][^p146-2]
+titre de simple curiosité, sans donner tous
 
 [p. 147] les renseignements nécessaires pour leur interprétation.
 
@@ -1354,15 +1354,15 @@ d'origine allemande , vivant en Amérique et qui avait dans sa congrégation un 
 
 Winslow note aussi que des catholiques convertis au protestantisme ont, pendant le délire qui précédait leur mort, prié uniquement d'après le formulaire de l'Eglise romaine 1 .
 
-Ce retour de langues et de formules perdues ne me paraît , bien interprété, qu'un cas particulier de la loi de régression . Par suite d'un travail morbide qui le plus souvent aboutit à la mort, les couches les plus récentes de la mémoire se sont détruites, et ce travail de destruction descendant de proche en proche jusqu'aux acquisitions les plus anciennes, c'est-à-dire les plus solides , leur rend une activité temporaire, les ramène quelque temps à la conscience, avant de les effacer pour toujours . L'hypermnésie ne serait donc que le résultat de conditions toutes négatives ; la régression résulterait non d'un retour normal à la conscience , mais de la suppression d'états plus vifs et plus intenses : ce serait comme une voix faible qui ne peut se faire entendre que quand les gens au verbe haut ont disparu . Ces acquisitions , ces habitudes de l'enfance ou de la jeunesse reviennent au premier plan, non parce qu'une cause quelconque les pousse en avant, mais parce qu'il n'y a plus rien qui les recouvre . Les réviviscences de ce genre ne sont, au sens strict, qu'un retour en arrière, à des conditions d'existence qui semblaient à jamais disparues , mais que le travail à rebours de la dissolution a ramenées . Je m'abstiendrai d'ailleurs des réflexions que ces faits suggèrent si naturellement : j'en laisse le soin aux moralistes. Ils pourront montrer notamment[^p148-1]
+Ce retour de langues et de formules perdues ne me paraît , bien interprété, qu'un cas particulier de la loi de régression . Par suite d'un travail morbide qui le plus souvent aboutit à la mort, les couches les plus récentes de la mémoire se sont détruites, et ce travail de destruction descendant de proche en proche jusqu'aux acquisitions les plus anciennes, c'est-à-dire les plus solides , leur rend une activité temporaire, les ramène quelque temps à la conscience, avant de les effacer pour toujours . L'hypermnésie ne serait donc que le résultat de conditions toutes négatives ; la régression résulterait non d'un retour normal à la conscience , mais de la suppression d'états plus vifs et plus intenses : ce serait comme une voix faible qui ne peut se faire entendre que quand les gens au verbe haut ont disparu . Ces acquisitions , ces habitudes de l'enfance ou de la jeunesse reviennent au premier plan, non parce qu'une cause quelconque les pousse en avant, mais parce qu'il n'y a plus rien qui les recouvre . Les réviviscences de ce genre ne sont, au sens strict, qu'un retour en arrière, à des conditions d'existence qui semblaient à jamais disparues , mais que le travail à rebours de la dissolution a ramenées . Je m'abstiendrai d'ailleurs des réflexions que ces faits suggèrent si naturellement : j'en laisse le soin aux moralistes.[^p148-1] Ils pourront montrer notamment
 
 [p. 149] comment certains retours religieux de la dernière heure dont on fait grand bruit ne sont pour une psychologie clairvoyante que l'effet nécessaire d'une dissolution sans remède .
 
 Indépendamment de cette confirmation inattendue de notre loi de régression, ce qui ressort de l'étude des hypermnésies , c'est la surprenante persistance de ces conditions latentes du souvenir qu'on a appelées les résidus . Sans ces désordres de la mémoire, nous ne pourrions la. soupçonner ; car la conscience réduite à elle seule , ne peut affirmer que la conservation des états qui constituent la vie courante et de quelques autres que la volonté tient sous sa dépendance, parce que l'habitude les a fixés .
 
-Faut-il conclure de ces réviviscences que rien, absolument rien ne se perd dans la mémoire ? que ce qui y est une fois entré reste indestructible ? que l'impression même la plus fugitive peut toujours à un moment donné être ravivée ? Plusieurs auteurs, surtout Maury , ont donné à l'appui de cette thèse des exemples frappants . Cependant à qui soutiendrait que, même sans causes morbides, il y a des résidus qui disparaissent , on n'aurait pas de raison péremptoire à opposer 1. Il est possible que certaines modifications cellulaires et certaines associations dynamiques soient trop instables pour durer. En somme, on peut dire que la persistance est, sinon la règle absolue , au moins la règle ; qu'elle embrasse l'immense majorité des cas .
+Faut-il conclure de ces réviviscences que rien, absolument rien ne se perd dans la mémoire ? que ce qui y est une fois entré reste indestructible ? que l'impression même la plus fugitive peut toujours à un moment donné être ravivée ? Plusieurs auteurs, surtout Maury , ont donné à l'appui de cette thèse des exemples frappants . Cependant à qui soutiendrait que, même sans causes morbides, il y a des résidus qui disparaissent , on n'aurait pas de raison péremptoire à opposer 1. Il est possible que certaines modifications cellulaires et certaines associations dynamiques soient trop instables pour durer. En somme, on peut dire que la persistance est, sinon la règle absolue , au moins la règle ; qu'elle embrasse l'immense majorité des cas .[^p149-1]
 
-Quant au mode suivant lequel ces souvenirs lointains sont conservés et reproduits, nous n'en savons[^p149-1]
+Quant au mode suivant lequel ces souvenirs lointains sont conservés et reproduits, nous n'en savons
 
 [p. 150] rien. Je ferai seulement remarquer comment cela peut se concevoir dans l'hypothèse qui a été adoptée tout le long dans ce travail .
 
@@ -1374,15 +1374,15 @@ Wigan , dans son livre bien connu sur la « dualité de l'esprit » , rapporte q
 
 Selon nous, cette illusion s'explique assez facilement . L'impression reçue évoque dans notre passé des impressions analogues, vagues, confuses, à peine entrevues, mais qui suffisent à faire croire que l'état nouveau en est la répétition. Il y a un fond de ressemblance rapidement senti entre deux états de conscience , qui pousse à les identifier. C'est une erreur ; mais elle n'est que partielle, parce qu'il y a en effet dans notre passé quelque chose qui ressemble à une première expérience .
 
-Si cette explication peut suffire pour des cas très simples, en voici d'autres où elle n'est guère admissible .
+Si cette explication peut suffire pour des cas très simples, en voici d'autres où elle n'est guère admissible .[^p151-1]
 
-Un malade, dit Sander, en apprenant la mort d'une[^p151-1]
+Un malade, dit Sander, en apprenant la mort d'une
 
-[p. 152] LES EXALTATIONS DE LA MÉMOIRE personne qu'il connaissait, fut saisi d'une terreur indéfinissable , parce qu'il lui sembla qu'il avait déjà ressenti cette impression. « Je sentais que déjà auparavant, étant couché ici, dans ce même lit, X... était venu et m'avait dit : « Müller est mort. >> Je répondis : « Müller est mort il y a quelque temps, il n'a pu mourir deux fois ¹ . »
+[p. 152] LES EXALTATIONS DE LA MÉMOIRE personne qu'il connaissait, fut saisi d'une terreur indéfinissable , parce qu'il lui sembla qu'il avait déjà ressenti cette impression. « Je sentais que déjà auparavant, étant couché ici, dans ce même lit, X... était venu et m'avait dit : « Müller est mort. >> Je répondis : « Müller est mort il y a quelque temps, il n'a pu mourir deux fois [^p152-1] . »
 
 Le Dr Arnold Pick a rapporté le cas de fausse mémoire le plus complet que je connaisse : ce désordre se présente sous une forme presque chronique . Un homme instruit, raisonnant assez bien sur sa maladie et qui en a donné une description écrite, fut pris vers l'âge de trente-deux ans d'un état mental particulier . S'il assistait à une fête, s'il visitait quelque endroit, s'il faisait quelque rencontre, cet événement, avec toutes ses circonstances, lui paraissait si familier qu'il se sentait sûr d'avoir déjà éprouvé les mêmes impressions, étant entouré précisément des mêmes personnes ou des mêmes objets , avec le même ciel, le même temps, etc. Faisait- il quelque nouveau travail , il lui semblait l'avoir déjà fait et dans les mêmes conditions . Ce sentiment se produisait parfois le jour même, au bout de quelques minutes ou de quelques heures, parfois le jour suivant seulement , mais avec une parfaite clarté 2 .
 
-Il y a dans ce phénomène de fausse mémoire une anomalie du mécanisme mental qui nous échappe , qu'il est difficile de comprendre à l'état sain. Le malade, même s'il était bon observateur, ne pourrait l'analyser qu'en cessant d'être dupe . Il me paraît cependant ressortir de ces exemples, d'abord que l'im-[^p152-1][^p152-2]
+Il y a dans ce phénomène de fausse mémoire une anomalie du mécanisme mental qui nous échappe , qu'il est difficile de comprendre à l'état sain. Le malade, même s'il était bon observateur, ne pourrait l'analyser qu'en cessant d'être dupe .[^p152-2] Il me paraît cependant ressortir de ces exemples, d'abord que l'im-
 
 [p. 153] pression reçue se reproduit sous forme d'image (en terme physiologique , il y a une répétition du processus cérébral primitif) . Ce phénomène n'a rien que d'ordinaire ; c'est ce qui a lieu pour tout souvenir qui n'est pas causé par la présence actuelle de son objet. Toute la difficulté est de savoir pourquoi cette image qui naît une minute, une heure, un jour après l'état réel , donne à celui-ci le caractère d'une répétition. On peut admettre que le mécanisme de la « reconnaissance », de la localisation dans le temps, fonctionne à rebours . Je propose pour ma part l'explication qui suit.
 
@@ -1424,9 +1424,9 @@ Il est d'observation vulgaire que les enfants apprennent avec une merveilleuse f
 
 [p. 158] Tout ce qui est appris trop vite ne dure pas . L'expression « s'assimiler une chose » n'est pas une métaphore . Je n'insisterai pas sur une vérité que tout le monde répète, mais sans se douter que ce fait psychique a une raison organique . Pour fixer les souvenirs , il faut du temps , parce que la nutrition ne fait pas son œuvre en un instant ; parce que ce mouvement moléculaire incessant qui la constitue doit suivre une direction constante que la même impression périodiquement renouvelée est propre à maintenir 1 .
 
-La fatigue, sous toutes ses formes, est fatale à la mémoire . Les impressions reçues ne sont pas fixées ; la reproduction est très pénible, souvent impossible. Or la fatigue est considérée comme un état où, par suite de la suractivité d'un organe, la nutrition souffre et languit. Avec le retour aux conditions normales, la mémoire revient . La relation de Holland citée plus haut est assez explicite sur ce point.
+La fatigue, sous toutes ses formes, est fatale à la mémoire . Les impressions reçues ne sont pas fixées ; la reproduction est très pénible, souvent impossible. Or la fatigue est considérée comme un état où, par suite de la suractivité d'un organe, la nutrition souffre et languit. Avec le retour aux conditions normales, la mémoire revient . La relation de Holland citée plus haut est assez explicite sur ce point.[^p158-1]
 
-Nous avons vu aussi que, dans les cas d'amnésie temporaire dus à une commotion cérébrale, l'oubli a toujours un caractère rétroactif ; il s'étend sur une période plus ou moins longue, antérieure à l'accident[^p158-1]
+Nous avons vu aussi que, dans les cas d'amnésie temporaire dus à une commotion cérébrale, l'oubli a toujours un caractère rétroactif ; il s'étend sur une période plus ou moins longue, antérieure à l'accident
 
 [p. 159] c'est une règle qui n'a guère d'exceptions . La plupart des physiologistes qui se sont occupés de ce fait l'expliquent par un défaut de nutrition. L'enregistrement organique qui consiste en une modification nutritive de la substance cérébrale n'a pas eu le temps de se produire .
 
@@ -1434,11 +1434,11 @@ Enfin, rappelons que la forme la plus grave des maladies de la mémoire , l'amn�
 
 L'ensemble de ces faits, physiologiques et pathologiques , montre entre la nutrition et la conservation un rapport de cause à effet. Il y a une exacte coïncidence entre leurs périodes d'apogée et de déclin. Les variations à courte ou longue durée de l'une se retrouvent dans l'autre . Que l'une soit ou active, ou modérée , ou languissante , il en est de même de l'autre. La conservation du souvenir doit donc être comprise non au sens métaphysique « d'états de l'âme » qui subsisteraient on ne sait où , mais comme un état acquis de l'organe cérébral qui implique la possibilité d'états de conscience , quand leurs conditions d'existence se rencontrent..
 
-La rapidité extrême des échanges nutritifs dans le cerveau , qui semble au premier abord une cause d'instabilité , explique au contraire la fixation des souvenirs . « La réparation, s'effectuant sur le trajet modifié , sert à enregistrer l'expérience . Ce n'est pas une simple intégration qui a lieu, mais une réintégration : la substance est restaurée d'une façon spéciale après une modification spéciale : ce qui fait que la modalité qui [p. 160] s'est produite est pour ainsi dire incorporée ou incarnée dans la structure de l'encéphale ¹ . >>
+La rapidité extrême des échanges nutritifs dans le cerveau , qui semble au premier abord une cause d'instabilité , explique au contraire la fixation des souvenirs . « La réparation, s'effectuant sur le trajet modifié , sert à enregistrer l'expérience . Ce n'est pas une simple intégration qui a lieu, mais une réintégration : la substance est restaurée d'une façon spéciale après une modification spéciale : ce qui fait que la modalité qui [p. 160] s'est produite est pour ainsi dire incorporée ou incarnée dans la structure de l'encéphale [^p160-1] . >>
 
 Nous touchons ici à la raison dernière de la mémoire dans l'ordre biologique : elle est une imprégnation . Aussi n'est-il pas étonnant qu'un éminent chirurgien anglais, traitant de cette modification indélébile que les maladies infectieuses impriment aux tissus vivants , ait écrit le passage suivant, qui semble composé pour nous : « Comment peut-on supposer que le cerveau soit l'organe de la mémoire s'il change toujours ? Comment ce changement nutritif de toutes les molécules du cerveau ne détruit-il pas toute mémoire ? Parce que , dans le processus nutritif, l'assimilation se fait d'une manière parfaitement exacte . L'effet produit par une impression sur le cerveau (qué ce soit une perception ou un acte intellectuel) y est fixé et retenu , parce que la partie quelle qu'elle soit, qui a été changée par cette impression, est exactement représentée par la partie qui lui succède dans le cours de la nutrition 2. » Si paradoxal que puisse paraître un rapprochement entre une maladie infectieuse et la mémoire , il est donc rigoureusement exact, au point de vue biologique .
 
-II . D'une manière générale, la reproduction des souvenirs paraît dépendre de l'état de la circulation. C'est une question bien plus obscure que la précédente et sur laquelle on n'a que des données très incomplètes. Une première difficulté vient de la rapidité des phénomènes[^p160-1][^p160-2]
+II . D'une manière générale, la reproduction des souvenirs paraît dépendre de l'état de la circulation. C'est une question bien plus obscure que la précédente et sur laquelle on n'a que des données très incomplètes.[^p160-2] Une première difficulté vient de la rapidité des phénomènes
 
 [p. 161] et de leurs perpétuels changements . Une seconde vient de leur complexité : la reproduction, en effet, ne dépend pas seulement de la circulation générale ; elle dépend aussi de la circulation particulière du cerveau , et il est vraisemblable qu'il y a, même dans celle-ci, des variations locales qui ont une grande influence . Ce n'est pas tout : il y a à tenir compte de la qualité du sang tout aussi bien que de sa quantité .
 
@@ -1452,9 +1452,9 @@ Remarquons encore combien la reproduction est facile et rapide dans cette pério
 
 Chez les personnes épuisées par une longue maladie, la mémoire s'affaiblit avec la circulation. « Les sujets très nerveux, chez qui l'action du cœur a grandement baissé se plaignent habituellement de perte de la mémoire .... symptôme qui diminue à mesure que le degré normal de la circulation revient 2. »
 
-Il y a exaltation de la mémoire , quand la circulation a été modifiée par des stimulants, tels que le hachich , l'opium , etc. , qui excitent le système nerveux avant d'amener un état final de dépression. D'autres agents thérapeutiques produisent un effet contraire , par exemple le bromure de potassium, dont l'action est sédative , hypnotique , et qui , pris à forte dose , produit un ralentissement de la circulation. Un prédicateur fut obligé d'en interrompre l'usage : il avait presque perdu la mémoire ; elle revint dès qu'il cessa le traitement .
+Il y a exaltation de la mémoire , quand la circulation a été modifiée par des stimulants, tels que le hachich , l'opium , etc. , qui excitent le système nerveux avant d'amener un état final de dépression. D'autres agents thérapeutiques produisent un effet contraire , par exemple le bromure de potassium, dont l'action est sédative , hypnotique , et qui , pris à forte dose , produit un ralentissement de la circulation. Un prédicateur fut obligé d'en interrompre l'usage : il avait presque perdu la mémoire ; elle revint dès qu'il cessa le traitement .[^p162-2][^p162-1]
 
-De tous ces faits ressort une conclusion générale : l'exercice normal de la mémoire suppose une circula-[^p162-1][^p162-2]
+De tous ces faits ressort une conclusion générale : l'exercice normal de la mémoire suppose une circula-
 
 [p. 163] tion active et un sang riche en matériaux nécessaires pour l'intégration et la désintégration . Dès que cette activité s'exagère, il y a tendance vers l'excitation morbide ; dès qu'elle s'abaisse,
 
@@ -1476,7 +1476,7 @@ conscience ,
 
 localisation exacte des souvenirs dans le passé
 
-n'est qu'un perfectionnement. La mémoire psychique n'est que la forme la plus haute et la plus complexe de la mémoire . S'y[^p164-1]
+n'est qu'un perfectionnement. La mémoire psychique n'est que la forme la plus haute et la plus complexe de la mémoire .[^p164-1] S'y
 
 [p. 165] confiner, comme la plupart des psychologues , c'est se condamner d'avance à ne tourmenter que des abstractions .
 

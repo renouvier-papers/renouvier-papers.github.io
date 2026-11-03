@@ -74,9 +74,9 @@ On rapporte beaucoup d'exemples de fourmillements ou de douleurs qui apparaissen
 
 rappelons l'histoire retentissante des stigmatisés qui, du xu siècle jusqu'à nos jours , ont été assez nombreux et présentent des variétés intéressantes
 
-: les uns n'ayant que la marque du crucifiement, d'autres de la flagellation, d'autres de la couronne d'épines ¹. Ajoutons les modifications profondes de l'organisme , résultats de la thérapeutique suggestive des contemporains ; les
+: les uns n'ayant que la marque du crucifiement, d'autres de la flagellation, d'autres de la couronne d'épines [^p3-1]. Ajoutons les modifications profondes de l'organisme , résultats de la thérapeutique suggestive des contemporains ; les
 
-effets merveilleux de « la foi qui guérit » , c'est-à-dire les miracles de toutes les religions, dans tous les temps et dans[^p3-1]
+effets merveilleux de « la foi qui guérit » , c'est-à-dire les miracles de toutes les religions, dans tous les temps et dans
 
 [p. 4] tous les lieux ; et cette brève énumération suffira à rappeler certaines créations de l'imagination humaine qu'on a une tendance à oublier .
 
@@ -116,7 +116,7 @@ Puisque le but principal de cette étude est d'établir que le fondement de l'in
 
 1º Identité de développement dans les deux cas . L'établissement du pouvoir volontaire est progressif, lent, traversé par des échecs . L'individu doit devenir maître de ses muscles et étendre par eux sa maîtrise sur les autres choses . Les réflexes , les mouvements instinctifs et expressifs des émotions sont la matière première des mouvements voulus. La volonté n'a pas de mouvements propres, en patrimoine : il faut qu'elle coordonne et associe, puisqu'elle dissocie pour former des associations nouvelles. Elle règne par droit de conquête , non par droit de naissance .
 
-De même , l'imagination créatrice ne surgit pas tout armée . Ses matériaux[^p6-1]
+De même , l'imagination créatrice ne surgit pas tout armée .[^p6-1] Ses matériaux
 
 [p. 7] sont les images qui sont ici les équivalents des mouvements musculaires ; elle traverse une période d'essai ; elle est toujours, au début (pour des raisons que nous indiquerons plus tard), une imitation ; elle n'atteint que progressivement ses formes complexes .
 
@@ -212,7 +212,7 @@ surtout à des pertes . Mais chacune des trois classes précitées a son utilit�
 
 Jusqu'ici nous n'avons vu qu'une partie du travail de la dissociation et, à tout prendre, la moindre . Nous avons semblé considérer les images comme des faits isolés, des atomes psychiques ; mais c'est là une position purement théorique . Les représentations ne sont pas solitaires ; dans la réalité , elles font partie d'une chaîne ou plutôt d'une trame, d'un réseau, puisqu'en raison de leurs multiples rapports , elles peuvent rayonner en tous sens . Or, la dissociation agit aussi sur les séries , les tronque, les mutile , les démolit , les réduit à l'état de ruine .
 
-La loi idéale de la réviviscence des images est celle [p. 17] connue depuis Hamilton sous le nom de « loi de réintégration » ¹ qui consiste dans le passage de la partie au tout, chaque élément tendant à reproduire l'état complet, chaque membre d'une série la totalité de la série . Si cette loi existait seule , l'invention nous serait à jamais interdite ; nous ne pourrions sortir de la répétition, nous serions emprisonnés dans la routine ; mais il y a une puissance antagoniste qui nous affranchit : c'est la dissociation .
+La loi idéale de la réviviscence des images est celle [p. 17] connue depuis Hamilton sous le nom de « loi de réintégration » [^p17-1] qui consiste dans le passage de la partie au tout, chaque élément tendant à reproduire l'état complet, chaque membre d'une série la totalité de la série . Si cette loi existait seule , l'invention nous serait à jamais interdite ; nous ne pourrions sortir de la répétition, nous serions emprisonnés dans la routine ; mais il y a une puissance antagoniste qui nous affranchit : c'est la dissociation .
 
 Il est assez étrange que tandis que les psychologues étudient depuis si longtemps les lois de l'association, nul n'ait recherché si l'opération inverse, la dissociation, n'a pas aussi ses lois . On ne peut tenter ici un pareil travail qui serait en dehors de notre sujet ; il suffira d'indiquer en passant deux conditions générales qui déterminent la dissociation des séries .
 
@@ -220,7 +220,7 @@ Il est assez étrange que tandis que les psychologues étudient depuis si longte
 
 Ensuite des raisons affectives qui gouvernent l'attention et l'orientent dans une direction exclusive ; elles
 
-seront étudiées[^p17-1]
+seront étudiées
 
 [p. 18] dans la suite de cet ouvrage.
 
@@ -228,9 +228,9 @@ Enfin des raisons logiques ou intellectuelles, en désignant sous ce nom la loi 
 
 2º Il y a les causes externes ou objectives qui sont les variations dans l'expérience . Lorsque deux ou plusieurs qualités ou événements sont donnés comme constamment associés , on ne les dissocie pas . L'uniformité des lois de la nature est le grand antagoniste de la dissociation . Bien des vérités (par exemple, l'existence des antipodes), se sont imposées difficilement, parce qu'il fallait briser des associations indissolubles . Le roi oriental dont parle J. Sully, qui n'avait jamais vu de glace, refusait d'admettre une eau solide . « Une impression totale dont les éléments ne nous auraient jamais été donnés à part dans l'expérience , serait réfractaire à l'analyse. Si tous les objets froids étaient humides et tous les objets humides froids ;
 
-si tous les liquides étaient transparents et si aucun objet non liquide n'était transparent, nous aurions beaucoup de peine à distinguer le froid de l'humide et la liquidité de la transparence » . Tout au contraire, ajoute W. James, « ce qui a été associé tantôt à une chose , tantôt à une autre, tend à se dissocier des deux.... ; c'est ce qu'on pourrait appeler une loi de dissociation par variations concomitantes¹ » .
+si tous les liquides étaient transparents et si aucun objet non liquide n'était transparent, nous aurions beaucoup de peine à distinguer le froid de l'humide et la liquidité de la transparence » . Tout au contraire, ajoute W. James, « ce qui a été associé tantôt à une chose , tantôt à une autre, tend à se dissocier des deux.... ; c'est ce qu'on pourrait appeler une loi de dissociation par variations concomitantes[^p18-1] » .
 
-Pour bien comprendre la nécessité absolue de la dissociation, remarquons que la réintégration totale est, par nature, un obstacle à la création. On cite des gens qui peuvent facilement retenir vingt ou trente pages d'un livre ; mais s'ils ont besoin d'un passage, ils ne peuvent l'extraire ; ils doivent reprendre dès le commencement et poursuivre jusqu'à l'endroit requis, en sorte que cette extrême facilité[^p18-1]
+Pour bien comprendre la nécessité absolue de la dissociation, remarquons que la réintégration totale est, par nature, un obstacle à la création. On cite des gens qui peuvent facilement retenir vingt ou trente pages d'un livre ; mais s'ils ont besoin d'un passage, ils ne peuvent l'extraire ; ils doivent reprendre dès le commencement et poursuivre jusqu'à l'endroit requis, en sorte que cette extrême facilité
 
 [p. 19] à retenir devient un sérieux inconvénient. Sans parler de ces cas rares, on sait que les gens ignorants et bornés font de chaque événement un récit invariable, toujours le même , où tout est sur le même plan, l'important et l'accessoire, l'utile et l'inutile : ils ne font grâce d'aucun détail ; ils sont incapables de trier . Les esprits de cette trempe sont impropres à l'invention .
 
@@ -254,13 +254,13 @@ L'association par contiguïté (ou continuité) que Wundt nomme externe, est sim
 
 par ressemblance que Wundt nomme interne , est-elle au sens strict une loi élémentaire ? Beaucoup en doutent. Sans entrer dans les débats longs et souvent confus auquel ce sujet a donné lieu, on peut en résumer les résultats comme il suit . Dans l'association dite par ressemblance,
 
-il faut distinguer trois moments 1º celui de la présentation ; un état A est donné par la perception ou l'association par contiguïté ; c'est le point de départ . 2º celui du travail d'assimilation ; A est reconnu comme plus ou moins semblable à un état a antérieurement éprouvé . 3º par suite de la coexistence de A et de a dans la conscience , ils peuvent plus tard s'évoquer réciproquement ; quoique, en fait, les deux événements primitifs A et a n'aient jamais coexisté antérieurement et même quelquefois n'aient pas pu coexister. Il est clair que le moment capital est le second ; et qu'il consiste en un acte d'assimilation active , non d'association . Aussi W. James soutientil « que la ressemblance n'est pas une loi élémentaire, mais un rapport que l'esprit perçoit après le fait, comme il perçoit des rapports de supériorité, de distance, de causalité, etc... , entre deux objets évoqués par le mécanisme de l'association » ¹ .
+il faut distinguer trois moments 1º celui de la présentation ; un état A est donné par la perception ou l'association par contiguïté ; c'est le point de départ . 2º celui du travail d'assimilation ; A est reconnu comme plus ou moins semblable à un état a antérieurement éprouvé . 3º par suite de la coexistence de A et de a dans la conscience , ils peuvent plus tard s'évoquer réciproquement ; quoique, en fait, les deux événements primitifs A et a n'aient jamais coexisté antérieurement et même quelquefois n'aient pas pu coexister. Il est clair que le moment capital est le second ; et qu'il consiste en un acte d'assimilation active , non d'association . Aussi W. James soutientil « que la ressemblance n'est pas une loi élémentaire, mais un rapport que l'esprit perçoit après le fait, comme il perçoit des rapports de supériorité, de distance, de causalité, etc... , entre deux objets évoqués par le mécanisme de l'association » [^p21-1] .
 
 L'association par ressemblance suppose un travail mixte d'association et de dissociation
 
 c'est une forme active . Aussi est-elle la source principale des matériaux de l'imagination créatrice, comme la suite de ce travail le montrera à satiété.
 
-Après ce préambule un peu long, mais indispensable , arrivons au facteur intellectuel proprement dit, dont nous[^p21-1]
+Après ce préambule un peu long, mais indispensable , arrivons au facteur intellectuel proprement dit, dont nous
 
 [p. 22] nous sommes rapprochés peu à peu . L'élément essentiel ,
 
@@ -340,9 +340,9 @@ Ici encore je rencontre des contradicteurs , notamment Olzelt-Newin dans sa cour
 
 : les faits lui donnent un démenti complet, et il est facile de démontrer que toutes les formes d'émotion, sans exception aucune, sont des ferments d'invention .
 
-Personne ne niera que la peur est le type des manifestations asthéniques . Pourtant n'est-elle pas la mère des fantômes , de superstitions sans nombre, de pratiques religieuses tout à fait déraisonnables et chimériques ?
+Personne ne niera que la peur est le type des manifestations asthéniques . Pourtant n'est-elle pas la mère des fantômes , de superstitions sans nombre, de pratiques religieuses tout à fait déraisonnables et chimériques ?[^p28-1]
 
-La colère, sous sa forme exaltée, violente, est plutôt un[^p28-1]
+La colère, sous sa forme exaltée, violente, est plutôt un
 
 [p. 29] agent de destruction, ce qui semble contredire ma thèse ; mais laissons passer l'ouragan, qui est toujours de courte durée, et nous trouvons à sa place les formes mitigées , intellectualisées, qui sont des modifications diverses de la fureur primitive , passant de l'état aigu à l'état chronique : l'envie , la jalousie , l'hostilité, la vengeance préméditée, etc. Ces dispositions de l'âme ne sont-elles pas fécondes en ruses, stratagèmes , inventions de toute sorte ? Même à s'en tenir à la création esthétique, faut-il rappeler le facit indignatio versum ?
 
@@ -352,13 +352,13 @@ La tristesse appartient de droit au groupe des émotions dépressives et pourtan
 
 : oserait- on soutenir que l'hypocondriaque et que l'aliéné atteint du délire des persécutions sont dénués d'imagination ? Leur disposition morbide est au contraire la source d'où leurs étranges inventions surgissent incessamment .
 
-Enfin , cette émotion complexe qu'on nomme le Self-feeling, qui se réduit finalement au plaisir d'affirmer notre force et d'en ressentir l'épanouissement ou au sentiment pénible de notre puissance entravée , affaiblie , nous ramène directement aux éléments moteurs qui sont les conditions fondamentales de l'invention . Avant tout, dans ce sentiment [p. 30] personnel , il y a le plaisir d'être cause, c'est-à-dire créateur ; et tout créateur a conscience de sa supériorité sur les noncréateurs . Si mince que soit son invention, elle lui confère une supériorité sur ceux qui n'ont rien trouvé . Quoiqu'on ait répété à satiété que la marque propre de la création esthétique est d'être désintéressée, il faut reconnaître, comme Groos l'a si justement remarqué¹, que l'artiste ne crée pas pour le seul plaisir de créer, mais qu'il vise aussi la maîtrise sur d'autres esprits . La création est l'extension naturelle du « self-feeling » , et le plaisir qui l'accompagne est le plaisir de la victoire .
+Enfin , cette émotion complexe qu'on nomme le Self-feeling, qui se réduit finalement au plaisir d'affirmer notre force et d'en ressentir l'épanouissement ou au sentiment pénible de notre puissance entravée , affaiblie , nous ramène directement aux éléments moteurs qui sont les conditions fondamentales de l'invention . Avant tout, dans ce sentiment [p. 30] personnel , il y a le plaisir d'être cause, c'est-à-dire créateur ; et tout créateur a conscience de sa supériorité sur les noncréateurs . Si mince que soit son invention, elle lui confère une supériorité sur ceux qui n'ont rien trouvé . Quoiqu'on ait répété à satiété que la marque propre de la création esthétique est d'être désintéressée, il faut reconnaître, comme Groos l'a si justement remarqué[^p30-1], que l'artiste ne crée pas pour le seul plaisir de créer, mais qu'il vise aussi la maîtrise sur d'autres esprits . La création est l'extension naturelle du « self-feeling » , et le plaisir qui l'accompagne est le plaisir de la victoire .
 
 Donc, à la condition d'entendre l'imagination au sens complet, sans la restreindre indûment à l'esthétique, il n'est pas , entre les formes multiples de la vie affective, une seule qui ne puisse provoquer l'invention . Reste à voir ce facteur émotionnel à l'œuvre , comment il peut susciter des combinaisons nouvelles, et ceci nous ramène à l'association des idées .
 
 #### II
 
-On a dit plus haut que la loi idéale et théorique de la réviviscence des images est celle de réintégration complète : par exemple , se rappeler tous les incidents d'un long voyage dans leur ordre chronologique, sans additions ni omissions . Mais cette formule exprime ce qui doit être, non ce qui est. Elle suppose l'homme réduit à l'état d'intelligence pure et à l'abri de tout élément perturbateur ; elle convient aux formes de la mémoire complètement systématisées , figées en routine et en habitude ; mais en dehors de ces cas , elle reste une conception abstraite .[^p30-1]
+On a dit plus haut que la loi idéale et théorique de la réviviscence des images est celle de réintégration complète : par exemple , se rappeler tous les incidents d'un long voyage dans leur ordre chronologique, sans additions ni omissions . Mais cette formule exprime ce qui doit être, non ce qui est. Elle suppose l'homme réduit à l'état d'intelligence pure et à l'abri de tout élément perturbateur ; elle convient aux formes de la mémoire complètement systématisées , figées en routine et en habitude ; mais en dehors de ces cas , elle reste une conception abstraite .
 
 [p. 31] A cette loi d'une valeur platonique s'oppose la loi réelle et pratique qui régit en fait la réviviscence des images. On l'a appelée avec raison la « loi d'intérêt » ou loi affective et on peut la formuler ainsi : Dans tout événement passé, les parties intéressantes se ravivent seules ou avec plus d'intensité que les autres . Intéressante signifie ce qui nous touche en quelque manière , sous une forme agréable ou . pénible. Remarquons que l'importance de ce fait a été signalée non par les associationistes (on devait s'y attendre) , mais par des écrivains moins systématiques , étrangers à cette école
 
@@ -372,7 +372,7 @@ la loi pratique nous rapproche plus des causes .
 
 Quoi qu'il en soit sur ce point, le facteur émotionnel crée des combinaisons nouvelles par plusieurs procédés .
 
-Il y a les cas ordinaires , simples, à base affective naturelle , dépendant des dispositions momentanées . Ils consistent en ce que des représentations qui ont été accompagnées d'un même état affectif, tendent à s'associer ultérieurement : la ressemblance affective réunit et enchaîne des représentations disparates . Ceci diffère de l'association par contiguïté qui est une répétition de l'expérience et de l'association par ressemblance au sens intellectuel. Les états de conscience se combinent non parce qu'ils ont été donnés ensemble antérieurement, non parce que nous percevons[^p31-1]
+Il y a les cas ordinaires , simples, à base affective naturelle , dépendant des dispositions momentanées . Ils consistent en ce que des représentations qui ont été accompagnées d'un même état affectif, tendent à s'associer ultérieurement : la ressemblance affective réunit et enchaîne des représentations disparates . Ceci diffère de l'association par contiguïté qui est une répétition de l'expérience et de l'association par ressemblance au sens intellectuel.[^p31-1] Les états de conscience se combinent non parce qu'ils ont été donnés ensemble antérieurement, non parce que nous percevons
 
 [p. 32] entre eux des rapports de ressemblance, mais parce qu'ils ont un ton affectif commun. La joie, la tristesse , l'amour, la haine, l'admiration, l'ennui, l'orgueil , la fatigue, etc. , peuvent devenir un centre d'attraction qui groupe des représentations ou événements sans rapports rationnels entre eux, mais qui ont la même marque émotionnelle joyeuse , mélancolique, érotique, etc. Cette forme d'association est très fréquente dans les rêves et la rêverie, c'està-dire dans un état d'esprit où l'imagination jouit de sa pleine liberté et travaille au hasard.
 
@@ -414,7 +414,7 @@ non
 
 qui évoque et rapproche les éléments conscients .
 
-Que cette interprétation soit exacte ou non, remarquons que l'association par contraste ne pouvait être omise , parce que son mécanisme plein d'imprévu se prète facilement aux rapprochements nouveaux. D'ailleurs , je ne prétends pas qu'elle est tout entière sous la dépendance du facteur émotionnel ; mais comme le fait observer Höffding , « le [p. 35] propre de la vie affective est de se mouvoir entre les contraires ; elle est déterminée tout entière par la grande opposition entre le plaisir et la douleur ; aussi les effets de contraste sont-ils bien plus forts que dans le domaine des sensations¹ » . Cette forme d'association prédomine dans les créations esthétiques et mythiques, c'est-à-dire de la libre fantaisie ; elle s'efface dans les formes précises de l'invention pratique, mécanique, scientifique .
+Que cette interprétation soit exacte ou non, remarquons que l'association par contraste ne pouvait être omise , parce que son mécanisme plein d'imprévu se prète facilement aux rapprochements nouveaux. D'ailleurs , je ne prétends pas qu'elle est tout entière sous la dépendance du facteur émotionnel ; mais comme le fait observer Höffding , « le [p. 35] propre de la vie affective est de se mouvoir entre les contraires ; elle est déterminée tout entière par la grande opposition entre le plaisir et la douleur ; aussi les effets de contraste sont-ils bien plus forts que dans le domaine des sensations[^p35-1] » . Cette forme d'association prédomine dans les créations esthétiques et mythiques, c'est-à-dire de la libre fantaisie ; elle s'efface dans les formes précises de l'invention pratique, mécanique, scientifique .
 
 #### III
 
@@ -428,7 +428,7 @@ que nous devons négliger d'autant moins que c'est dans les mouvements que nous 
 
 Si je ne me trompe, cela signifie que « l'instinct de la création » existe chez tous les hommes à quelque degré faible chez les uns , saisissable chez d'autres , éclatant chez les grands inventeurs .
 
-Or, je n'hésite pas à soutenir que l'instinct créateur, pris[^p35-1]
+Or, je n'hésite pas à soutenir que l'instinct créateur, pris
 
 [p. 36] en ce sens strict, assimilé aux instincts des animaux, est une pure métaphore , une entité réalisée, une abstraction . Il y des besoins , appétits , tendances, désirs communs à tous les hommes qui, chez un individu donné, à un moment donné , peuvent aboutir à une création ; mais il n'y a pas une manifestation psychique spéciale qui soit l'instinct créateur. En effet, que serait-il ? Chaque instinct a son but propre : la faim, la soif, le sexe, les instincts spécifiques de l'abeille , de la fourmi, du castor, de l'araignée consistent en un groupe de mouvements adoptés à une fin déterminée , toujours la même . Or, que serait un instinct créateur en général qui, par hypothèse, produirait tour à tour un opéra , une machine, une théorie métaphysique, un système financier, un plan de campagne militaire et ainsi de suite ? C'est une pure chimère . L'invention n'a pas une source, mais des sources .
 
@@ -492,7 +492,7 @@ atteignent un deuxième moment où leur origine se dissimule . La plupart de nos
 
 Considérons maintenant la classe des créations esthétiques . D'après la théorie généralement admise et qui est trop connue pour que je m'attarde à l'exposer, l'art a sa source dans une activité superflue, de luxe, inutile à la conservation de l'individu, qui se manifeste d'abord sous la forme du jeu . Puis le jeu, par transformation et complication devient l'art primitif, à la fois danse, musique et poésie étroitement unis en un tout d'apparence indissoluble . Quoique la théorie de l'inutilité absolue de l'art ait encouru de fortes critiques , acceptons-la momentanément . Sauf le caractère vrai ou faux d'inutilité, le mécanisme psychologique reste le même ici que dans les cas précédents ; nous dirons seulement qu'au lieu d'un besoin vital , c'est un besoin de luxe qui agit ; mais il n'agit que parce qu'il est dans l'homme .
 
-Toutefois , l'inutilité biologique du jeu est loin d'être démontrée . Groos , dans ses deux excellents ouvrages sur ce sujet¹ , a soutenu avec beaucoup de force l'opinion contraire . D'après lui, la théorie de Schiller et Spencer sur la dépense d'une activité superflue et la théorie opposée de Lazarus qui ramène le jeu à un délassement, c'est à-dire à une restitution de force, ne sont que des explications par[^p39-1]
+Toutefois , l'inutilité biologique du jeu est loin d'être démontrée . Groos , dans ses deux excellents ouvrages sur ce sujet[^p39-1] , a soutenu avec beaucoup de force l'opinion contraire . D'après lui, la théorie de Schiller et Spencer sur la dépense d'une activité superflue et la théorie opposée de Lazarus qui ramène le jeu à un délassement, c'est à-dire à une restitution de force, ne sont que des explications par
 
 [p. 40] tielles . Le jeu a une utilité positive. Chez l'homme , un grand nombre d'instincts existent qui , à la naissance, ne sont pas encore développés ;
 
@@ -546,15 +546,15 @@ Elle fait dans la conscience une irruption brusque , mais qui suppose un travail
 
 L'impersonnalité est un caractère plus profond que le précédent . Elle révèle une puissance supérieure à l'individu conscient, étrangère à lui quoique agissant par lui : état que tant d'inventeurs ont exprimé en ces termes
 
-: Je n'y suis pour rien . Le meilleur moyen de la connaître serait de transcrire quelques observations empruntées aux inspirés eux-mêmes . Elles ne manquent pas et quelques-unes ont la valeur d'une bonne observation ' ; mais cela nous entraînerait trop loin. Notons seulement que cette poussée de l'inconscient agit différemment suivant les individus . Les uns la subissent douloureusement, luttant contre elle à la manière de la pythonisse antique au moment de rendre son oracle . Les autres (surtout dans l'inspiration religieuse) s'abandonnent tout entiers, avec plaisir, ou subissent passivement. D'autres, plus analystes , ont observé[^p44-1]
+: Je n'y suis pour rien . Le meilleur moyen de la connaître serait de transcrire quelques observations empruntées aux inspirés eux-mêmes . Elles ne manquent pas et quelques-unes ont la valeur d'une bonne observation ' ; mais cela nous entraînerait trop loin. Notons seulement que cette poussée de l'inconscient agit différemment suivant les individus . Les uns la subissent douloureusement, luttant contre elle à la manière de la pythonisse antique au moment de rendre son oracle . Les autres (surtout dans l'inspiration religieuse) s'abandonnent tout entiers, avec plaisir, ou subissent passivement.[^p44-1] D'autres, plus analystes , ont observé
 
 [p. 45] la concentration de toutes leurs facultés et aptitudes sur un seul point . Mais , quelques caractères qu'elle revête, l'inspiration restant impersonnelle , dans son fond, ne pouvant venir de l'individu conscient, il faut (à moins de lui assigner une origine surnaturelle) admettre qu'elle dérive de l'activité inconsciente de l'esprit. Pour être fixé sur sa nature , il serait donc nécessaire d'être fixé d'abord sur la nature de l'inconscient, c'est-à-dire sur une des énigmes de la psychologie .
 
-J'écarte comme oiseuses et inutiles à notre dessein toutes les discussions sur ce sujet. En définitive, elles se réduisent à deux thèses principales. Pour les uns, l'inconscient est une activité purement physiologique, une « cérébration » . Pour les autres , c'est une diminution graduelle de la conscience qui existe sans être reliée au moi, c'est-à-dire à la conscience principale. Les deux thèses sont pleines de difficultés et passibles d'objections presque insurmontables¹ .
+J'écarte comme oiseuses et inutiles à notre dessein toutes les discussions sur ce sujet. En définitive, elles se réduisent à deux thèses principales. Pour les uns, l'inconscient est une activité purement physiologique, une « cérébration » . Pour les autres , c'est une diminution graduelle de la conscience qui existe sans être reliée au moi, c'est-à-dire à la conscience principale. Les deux thèses sont pleines de difficultés et passibles d'objections presque insurmontables[^p45-1] .
 
 Prenons donc l'inconscient comme fait et bornons-nous , à titre d'éclaircissement, à rapprocher l'inspiration de quelques états mentaux qu'on a jugés propres à l'expliquer .
 
-1º L'hypermnésie ou exaltation de la mémoire ne nous apprend rien , quoi qu'on en ait dit, sur la nature de l'inspiration ni de l'invention en général. Elle se produit dans l'hypnotisme , la manie, la période d'excitation de la folie circulaire, au début de la paralysie générale et surtout dans les épidémies religieuses sous la forme appelée « le don des langues » . On trouve , à la vérité, quelques observations (une de Régis entre autres où un marchand de journaux illettré compose des pièces de vers de son cru) qui montrent que l'exaltation de la mémoire s'accom[^p45-1]
+1º L'hypermnésie ou exaltation de la mémoire ne nous apprend rien , quoi qu'on en ait dit, sur la nature de l'inspiration ni de l'invention en général. Elle se produit dans l'hypnotisme , la manie, la période d'excitation de la folie circulaire, au début de la paralysie générale et surtout dans les épidémies religieuses sous la forme appelée « le don des langues » . On trouve , à la vérité, quelques observations (une de Régis entre autres où un marchand de journaux illettré compose des pièces de vers de son cru) qui montrent que l'exaltation de la mémoire s'accom
 
 [p. 46] pagne quelquefois d'une certaine tendance à l'invention ; mais l'hypermnésie pure consiste en un afflux extraordinaire de souvenirs totalement dénué de la marque essentielle de la création : les combinaisons nouvelles . Il semble même que , entre les deux cas, il y a plutôt antagonisme ; l'exaltation de la mémoire se rapprochant de la loi idéale de réintégration complète qui est, nous le savons , un obstacle à l'invention. Ils ne se ressemblent que par la grande masse de matériaux disponibles ; mais là où le principe d'unité manque, il n'y a pas de création .
 
@@ -566,7 +566,7 @@ En définitive, ces faits ne représentent qu'une inspiration provoquée, factic
 
 : le principe directeur qui organise et impose l'unité . Sous l'influence des boissons alcooliques et des toxiques enivrants , l'attention et la volonté tombent toujours en défaillance .
 
-3º Avec plus de raison, on a cherché à expliquer l'inspiration par analogie avec certaines formes de somnambulisme et l'on a dit « qu'elle n'est que le moindre degré d'un état second , le somnambulisme à l'état de veille . Dans l'inspiration , c'est comme un étranger qui dicte à l'auteur ; dans le somnambulisme, c'est cet étranger lui-même qui prend la parole ou la plume, parle, écrit, en un mot fait l'œuvre¹
+3º Avec plus de raison, on a cherché à expliquer l'inspiration par analogie avec certaines formes de somnambulisme et l'on a dit « qu'elle n'est que le moindre degré d'un état second , le somnambulisme à l'état de veille . Dans l'inspiration , c'est comme un étranger qui dicte à l'auteur ; dans le somnambulisme, c'est cet étranger lui-même qui prend la parole ou la plume, parle, écrit, en un mot fait l'œuvre[^p47-1]
 
 » . Elle serait ainsi la forme mitigée d'un état qui est le triomphe de l'activité subconsciente et un cas de dédoublement de la personnalité. Comme l'on abuse singulièrement de ce dernier mode d'explication et qu'on l'invoque à tout propos, il est indispensable de préciser .
 
@@ -580,23 +580,23 @@ D'abord, la conscience monopolisée par le nombre et l'intensité des représent
 
 : la vie intérieure annihile la vie extérieure , ce qui est l'opposé de l'ordinaire .
 
-De plus , l'activité inconsciente (ou subconsciente) passe au premier plan, joue le premier rôle, en conservant son caractère d'impersonnalité .[^p47-1]
+De plus , l'activité inconsciente (ou subconsciente) passe au premier plan, joue le premier rôle, en conservant son caractère d'impersonnalité .
 
 [p. 48] Ceci admis , si l'on veut aller plus loin, on se heurte à des difficultés croissantes . L'existence d'un travail inconscient est hors de doute : on pourrait donner des preuves de fait à profusion de cette élaboration obscure qui n'entre dans la conscience que quand tout est fini. Mais quelle est la nature de ce travail ? Est-il purement physiologique ? Est-il psychologique ? Nous revenons aux deux thèses adverses . Théoriquement, on peut dire que tout se passe dans l'inconscience comme dans la conscience, seulement sans message au moi , que dans la conscience claire le travail peut être suivi pas à pas , avec ses progrès et ses reculs ; que dans l'inconscient il procède de même, mais à notre insu . Il est clair que tout cela est une pure hypothèse .
 
 L'inspiration ressemble à une dépêche chiffrée que l'activité inconsciente transmet à l'activité consciente, qui la traduit . Faut-il admettre que, dans les couches profondes de l'inconscient, il ne se forme que des combinaisons fragmentaires et qu'elles atteignent la systémation complète dans la conscience claire seulement ? ou bien le travail créateur est-il identique dans les deux cas ? Il est difficile de décider. Ce qui semble acquis, c'est que la génialité ou du moins la richesse dans l'invention dépend de l'imagination subliminale ' , non de l'autre, superficielle par nature et promptement épuisée . L'une est spontanée, vraie, l'autre factice, simulée. « Inspiration » signifie imagination inconsciente et n'en est même qu'un cas particulier . L'imagination consciente est un appareil de perfectionnement.
 
-En somme , l'inspiration est le résultat d'un travail souterrain qui existe chez tous les hommes, à un très haut. degré chez quelques-uns. La nature de ce travail étant[^p48-1]
+En somme , l'inspiration est le résultat d'un travail souterrain qui existe chez tous les hommes, à un très haut. degré chez quelques-uns.[^p48-1] La nature de ce travail étant
 
 [p. 49] inconnue , on ne peut rien conclure sur la nature dernière de l'inspiration. Par contre, on peut d'une manière positive fixer la valeur de ce phénomène dans l'invention ; d'autant plus qu'on est porté à la surfaire. Il faut bien remarquer en effet que l'inspiration n'est pas une cause, mais plutôt un effet
 
-plus exactement un moment, une crise, un état aigu : c'est un indice. Elle marque ou bien la fin d'une élaboration inconsciente qui a pu être très courte ou très longue, ou bien le commencement d'une élaboration consciente qui sera très longue, ou très courte (ceci se rencontre surtout dans les cas de création suggérés par le hasard) . D'une part , elle n'est jamais un commencement absolu ; d'autre part, elle ne livre jamais une œuvre achevée : l'histoire des inventions le prouve abondamment. Bien plus , on peut se passer d'elle : beaucoup de créations à incubation très longue paraissent exemptes de crise proprement dite telles l'attraction de Newton, La Cène et La Joconde , de L. de Vinçi . Enfin beaucoup se sont sentis réellement inspirés sans produire rien qui vaille¹ .
+plus exactement un moment, une crise, un état aigu : c'est un indice. Elle marque ou bien la fin d'une élaboration inconsciente qui a pu être très courte ou très longue, ou bien le commencement d'une élaboration consciente qui sera très longue, ou très courte (ceci se rencontre surtout dans les cas de création suggérés par le hasard) . D'une part , elle n'est jamais un commencement absolu ; d'autre part, elle ne livre jamais une œuvre achevée : l'histoire des inventions le prouve abondamment. Bien plus , on peut se passer d'elle : beaucoup de créations à incubation très longue paraissent exemptes de crise proprement dite telles l'attraction de Newton, La Cène et La Joconde , de L. de Vinçi . Enfin beaucoup se sont sentis réellement inspirés sans produire rien qui vaille[^p49-1] .
 
 #### II
 
 Ce qui précède n'épuise pas l'étude du facteur inconscient, comme source de combinaisons nouvelles . Son rôle peut être étudié sous une forme plus simple et plus restreinte ; pour cela il faut revenir une dernière fois à l'association des idées . La raison ultime de l'association
 
-(la contiguïté exclue, en partie du moins) doit être cherchée dans le tempérament, le caractère , l'individualité , souvent même dans le moment, c'est-à-dire dans une influence pas-[^p49-1]
+(la contiguïté exclue, en partie du moins) doit être cherchée dans le tempérament, le caractère , l'individualité , souvent même dans le moment, c'est-à-dire dans une influence pas-
 
 [p. 50] sagère , à peine saisissable parce qu'elle est inconsciente ou subconsciente . Ces dispositions momentanées à forme latente peuvent susciter des rapprochements nouveaux par deux procédés
 
@@ -606,13 +606,13 @@ Ce qui précède n'épuise pas l'étude du facteur inconscient, comme source de 
 
 : (Le lac Ben Lomond lui rappelant le système prussien d'éducation , parce que, en visitant ce lac, il rencontra un officier prussien qui l'entretint de ce sujet.) Sa formule générale est celle-ci
 
-: A évoque C quoiqu'il n'y ait entre eux ni contiguïté ni ressemblance, mais parce qu'un moyen terme B , qui n'entre pas dans la conscience, sert de transition de A à C. Ce mode d'association paraissait universellement accepté, lorsque, dans ces derniers temps, il a été contesté par Münsterberg et quelques autres . On a recouru à l'expérimentation qui n'a donné que des résultats assez peu concordants¹ . Pour ma part, je me rallie aux contemporains qui l'admettent et c'est le plus grand nombre. Scripture, qui a fait de ce sujet une étude spéciale et qui a pu noter tous les intermédiaires depuis la conscience presque claire jusqu'à l'inconscient, «
+: A évoque C quoiqu'il n'y ait entre eux ni contiguïté ni ressemblance, mais parce qu'un moyen terme B , qui n'entre pas dans la conscience, sert de transition de A à C. Ce mode d'association paraissait universellement accepté, lorsque, dans ces derniers temps, il a été contesté par Münsterberg et quelques autres . On a recouru à l'expérimentation qui n'a donné que des résultats assez peu concordants[^p50-1] . Pour ma part, je me rallie aux contemporains qui l'admettent et c'est le plus grand nombre. Scripture, qui a fait de ce sujet une étude spéciale et qui a pu noter tous les intermédiaires depuis la conscience presque claire jusqu'à l'inconscient, «
 
 considère
 
 l'existence de l'association médiate comme prouvée
 
-» . Pour déclarer illusoire un fait qui se rencontre si fréquemment dans l'ex[^p50-1]
+» . Pour déclarer illusoire un fait qui se rencontre si fréquemment dans l'ex
 
 [p. 51] périence journalière et qui a été étudié par tant d'excellents observateurs , il faudrait mieux que des recherches expérimentales , dont les conditions sont souvent factices et artificielles et dont quelques-unes d'ailleurs concluent pour l'affirmative .
 
@@ -628,9 +628,9 @@ intermédiaires latents : il se peut que A suscite D par l'entremise de bet de e
 
 Une idée peut être le point de départ d'une foule d'associations . Le mot Rome peut en susciter des centaines . Pourquoi l'une est-elle évoquée plutôt qu'une autre et à tel moment plutôt qu'à tel autre ? Il y a des associations fon [p. 52] dées sur la contiguïté et la ressemblance que l'on peut prévoir, mais le reste ? Voici une idée A ; elle est le centre d'un réseau ; elle peut rayonner en tout sens B , C , D , E, F, etc ; pourquoi évoque-t-elle maintenant B , plus tard F ?
 
-C'est que chaque image est assimilable à une force de tension qui peut passer à l'état de force vive et, dans cette tendance , elle peut être renforcée ou entravée par d'autres images . Il y a des tendances stimulatrices et des tendances inhibitoires . B est à l'état de tension et C ne l'est pas, ou bien D exerce sur Cune influence d'arrêt : par suite C ne peut prévaloir ; mais une heure plus tard les conditions sont changées et la victoire reste à C. Ce phénomène repose sur une base physiologique : l'existence de plusieurs courants à l'état de diffusion dans le cerveau et la possibilité de recevoir des excitations simultanées¹ .
+C'est que chaque image est assimilable à une force de tension qui peut passer à l'état de force vive et, dans cette tendance , elle peut être renforcée ou entravée par d'autres images . Il y a des tendances stimulatrices et des tendances inhibitoires . B est à l'état de tension et C ne l'est pas, ou bien D exerce sur Cune influence d'arrêt : par suite C ne peut prévaloir ; mais une heure plus tard les conditions sont changées et la victoire reste à C. Ce phénomène repose sur une base physiologique : l'existence de plusieurs courants à l'état de diffusion dans le cerveau et la possibilité de recevoir des excitations simultanées[^p52-1] .
 
-Quelques exemples feront mieux comprendre ce phénomène de renforcement, en suite duquel une association prévaut. Wahle rapporte que l'Hôtel de Ville gothique situé près de sa maison ne lui avait jamais suggéré l'idée du Palais des Doges à Venise, malgré certaines ressemblances architecturales, jusqu'à un certain jour où cette idée surgit avec beaucoup de clarté : alors, il se rappela que deux heures auparavant il avait remarqué une dame portant une belle broche en forme de gondole . J. Sully fait justement remarquer qu'il est bien plus facile de se rappeler les mots d'une langue étrangère quand nous revenons du pays où on la parle, que quand nous séjournons depuis longtemps dans le nôtre ; parce que la tendance au rappel est renforcée par l'expérience récente des mots entendus, parlés, lus et par tout un ensemble de dispositions latentes qui agissent dans le même sens.[^p52-1][^p52-2]
+Quelques exemples feront mieux comprendre ce phénomène de renforcement, en suite duquel une association prévaut. Wahle rapporte que l'Hôtel de Ville gothique situé près de sa maison ne lui avait jamais suggéré l'idée du Palais des Doges à Venise, malgré certaines ressemblances architecturales, jusqu'à un certain jour où cette idée surgit avec beaucoup de clarté : alors, il se rappela que deux heures auparavant il avait remarqué une dame portant une belle broche en forme de gondole . J. Sully fait justement remarquer qu'il est bien plus facile de se rappeler les mots d'une langue étrangère quand nous revenons du pays où on la parle, que quand nous séjournons depuis longtemps dans le nôtre ; parce que la tendance au rappel est renforcée par l'expérience récente des mots entendus, parlés, lus et par tout un ensemble de dispositions latentes qui agissent dans le même sens.[^p52-2]
 
 [p. 53] A mon avis , on trouverait les plus beaux exemples de << constellation » considérée comme élément créateur, en étudiant la formation et le développement des mythes . Partout et toujours, l'homme n'a guère eu comme matière que les phénomènes de la nature (le ciel, la terre, l'eau , les astres , l'orage, le vent, les saisons, la vie et la mort, etc.). Sur chacun de ces thèmes, il fabrique des milliers d'histoires explicatives qui oscillent du grandiose à la plus ridicule puérilité . C'est que chaque mythe est l'œuvre d'un groupe humain qui a travaillé selon les tendances de son génie propre, sous l'influence des divers moments de sa culture intellectuelle. Nul procédé n'est plus riche en ressources , de plus libre allure ni plus apte à donner ce que tout inventeur promet : le nouveau et l'imprévu .
 
@@ -694,9 +694,9 @@ se développent à mesure que l'on s'élève
 
 Ceci admis , revenons à notre question particulière que Flechsig pose en ces termes : « Sur quoi repose le génie ? Tient-il à une structure particulière du cerveau ou bien à une irritabilité particulière, c'est-à-dire, d'après nos idées actuelles , à des facteurs chimiques ? Nous pouvons soutenir la première opinion avec toute l'énergie possible . Le génie est toujours uni à une structure particulière, à une organisation particulière du cerveau . » Toutes les parties de cet organe n'ont pas la même valeur. On a longtemps admis que la portion frontale peut servir de mesure pour la capacité intellectuelle ; mais il faut en outre admettre d'autres régions ; « principalement un centre placé sous la protubérance du sommet de la tête, qui est très développée chez tous les hommes de génie dont le cerveau a été étudié jusqu'à nos jours . Chez Beethoven et probablement aussi chez Bach , l'énorme développement de cette portion du cerveau est frappante. Chez de grands savants , comme Gauss, les centres de la partie postérieure du cerveau et ceux de la région frontale sont fortement développés . Le génie scientifique montre ainsi d'autres proportions dans la structure du cerveau que le génie artistique
 
-» . Donc il
+» .[^p57-1] Donc il
 
-1[^p57-1]
+1
 
 [p. 58] y aurait, d'après notre auteur, prépondérance des régions frontales et pariétales ; celles-ci dominent surtout chez les artistes et les deux autres chez les savants. Déjà, vingt ans avant Flechsig, Rüdinger avait remarqué le développement extraordinaire des circonvolutions pariétales chez les hommes supérieurs, d'après l'étude de dix-huit cerveaux : toutes les circonvolutions et scissures étaient, ditil , si développées que la région pariéto- occipitale présentait un caractère tout particulier .
 
@@ -716,7 +716,7 @@ Le fait général et dominateur consiste en changements dans la circulation sang
 
 : agitation des pieds, des mains , des doigts ; tailler une table ou un bras de fauteuil comme Napoléon , quand il élaborait un projet, etc. C'est une dérivation pour le trop plein d'influx nerveux , et l'on admet que ce mode de dépense n'est pas inutile pour conserver à l'intelligence toute sa lucidité . En somme, augmentation de la circulation cérébrale aux dépens de la circulation locale : telle est la formule qui résume le plus grand nombre des observations sur ce point.
 
-L'expérimentation proprement dite nous apprend-elle quelque chose sur ce point ? Des recherches physiologiques[^p59-1]
+L'expérimentation proprement dite nous apprend-elle quelque chose sur ce point ?[^p59-1] Des recherches physiologiques
 
 [p. 60] nombreuses et très connues (celles de Mosso principalement) nous apprennent que tout travail intellectuel et surtout émotionnel cause une congestion cérébrale ; que le volume du cerveau augmente et que celui des organes périphériques diminue ; mais cela ne nous révèle rien de spécial sur l'imagination, qui n'est qu'un cas particulier de la règle . A la vérité, dans ces derniers temps , on s'est proposé d'étudier les inventeurs par une méthode objective : (examen des divers appareils, circulatoire, respiratoire , digestif ; de la sensibilité générale et spéciale ; des modalités de la mémoire et des formes d'association, des procédés de travail intellectuel, etc.) ; mais, jusqu'ici , de ces descriptions individuelles aucune conclusion n'a été tirée qui comporte quelque généralité. Au reste, une expérience , dans le sens strict du mot, a-t-elle jamais été faite au moment psychologique ? Je n'en connais aucune ; et seraitelle possible ? Admettons que par un hasard heureux, l'expérimentateur disposant de tous ses moyens d'investigation, puisse tenir son sujet sous sa main à l'instant précis de l'inspiration, de la poussée brusque et féconde, bref de la création ; l'expérience ne serait-elle pas par
 
@@ -746,11 +746,11 @@ A l'opposé sont ceux qui ont besoin du recueillement, du silence , de la claust
 
 Mais la plupart des procédés sont trop artificiels ou trop énergiques pour ne pas devenir rapidement nuisibles . Tout le monde les connaît : abus du vin, des alcooliques , des narcotiques , du tabac, du café, etc. , - veilles prolongées , moins pour augmenter le temps du travail que pour provoquer un état d'hyperesthésie et de susceptibilité morbide (Goncourt) .
 
-En somme, les bases organiques de l'imagination créatrice, s'il en est qui lui soient propres , restent à déterminer ; car dans tout ce qui précède, il ne s'agit que des conditions du travail de l'esprit en général — assimilation aussi bien qu'invention. Les excentricités des inventeurs étudiées dans le détail et avec soin seraient peut-être finalement la matière la plus instructive ; parce qu'elle nous font pénétrer dans leur individualité intime. Ainsi la physiologie de l'imagination devient rapidement une pathologie . Je n'insiste pas, ayant volontairement éliminé l'étude morbide de notre sujet ; il sera pourtant nécessaire d'y revenir pour l'effleurer dans une autre partie de cet Essai¹ .
+En somme, les bases organiques de l'imagination créatrice, s'il en est qui lui soient propres , restent à déterminer ; car dans tout ce qui précède, il ne s'agit que des conditions du travail de l'esprit en général — assimilation aussi bien qu'invention. Les excentricités des inventeurs étudiées dans le détail et avec soin seraient peut-être finalement la matière la plus instructive ; parce qu'elle nous font pénétrer dans leur individualité intime. Ainsi la physiologie de l'imagination devient rapidement une pathologie . Je n'insiste pas, ayant volontairement éliminé l'étude morbide de notre sujet ; il sera pourtant nécessaire d'y revenir pour l'effleurer dans une autre partie de cet Essai[^p62-1] .
 
 #### III
 
-Reste un problème tellement obscur et énigmatique que j'ose à peine l'aborder. L'analogie que la plupart des langues - expression spontanée d'une pensée commune établissent entre la création physiologique et la création[^p62-1]
+Reste un problème tellement obscur et énigmatique que j'ose à peine l'aborder. L'analogie que la plupart des langues - expression spontanée d'une pensée commune établissent entre la création physiologique et la création
 
 [p. 63] psychique, n'est-elle qu'un rapprochement superficiel, un préjugé, une métaphore ou repose-t-elle sur quelque base positive ? Généralement, les diverses manifestations de l'activité mentale ont pour précurseur une forme inconsciente dont elles émergent. La sensibilité propre à la matière vivante connue sous les noms d'héliotropisme , chimiotropisme, etc., est comme une ébauche de la sensation et des réactions qui la suivent ; la mémoire organique est la base et la forme fruste de la mémoire consciente ; les réflexes préludent à l'activité volontaire ; les appétitions et tendances obscures sont les avant-courrières de la psychogie affective ; l'instinct, par quelques côtés, ressemble à un essai inconscient et spécifique de la raison : la puissance créatrice de l'esprit humain a-t-elle aussi des antécédents analogues, un équivalent physiologique ?
 
@@ -758,9 +758,9 @@ Un métaphysicien, Froschammer, qui a élevé l'imagination créatrice à la dig
 
 Le même principe fait apparaître les formes vivantes, sortes d'images objectives et les images subjec(
 
-tives , sorte de formes vivantes¹ » . Si ingénieuse et séduisante que soit cette théorie philosophique, évidemment, elle est sans aucune valeur positive pour la psychologie .
+tives , sorte de formes vivantes[^p63-1] » . Si ingénieuse et séduisante que soit cette théorie philosophique, évidemment, elle est sans aucune valeur positive pour la psychologie .
 
-Restons dans l'expérience. La physiologie nous apprend que la génération est une « nutrition prolongée » , un surplus , comme on le voit si clairement dans les formes inférieures de la génération agame (le bourgeonnement,[^p63-1]
+Restons dans l'expérience. La physiologie nous apprend que la génération est une « nutrition prolongée » , un surplus , comme on le voit si clairement dans les formes inférieures de la génération agame (le bourgeonnement,
 
 [p. 64] la scissiparité) . Elle aussi, la création imaginative, suppose une surabondance de vie psychique qui pourrait d'ailleurs se dépenser d'une autre manière . La génération dans l'ordre physique est une tendance spontanée, naturelle, bien qu'elle puisse recourir, avec succès ou non, à des procédés artificiels : on en peut dire autant de l'autre . Cette liste de ressemblances serait facile à étendre . Mais tout cela est insuffisant pour établir l'identité foncière des deux cas et trancher la question .
 
@@ -772,7 +772,7 @@ Il est possible de la limiter, de la poser en termes plus précis
 
 : l'ingéniosité d'invention que l'amour donne aux moins doués . Rappelons aussi les troubles mentaux , les psychoses désignées sous le nom d'hébéphrénie . Avec l'adolescence coïncide la première floraison de la fantaisie qui, sortie des langes de l'enfance, ne s'est pas encore assagie et rationalisée .
 
-Il n'est pas indifférent pour la thèse générale de cet ouvrage de noter que ce développement imaginatif dépend tout entier de l'effervescence première de la vie affective. Cette << influence des passions sur l'imagination » et « de[^p64-1]
+Il n'est pas indifférent pour la thèse générale de cet ouvrage de noter que ce développement imaginatif dépend tout entier de l'effervescence première de la vie affective. Cette << influence des passions sur l'imagination »[^p64-1] et « de
 
 [p. 65] l'imagination sur les passions » dont les moralistes et les anciens psychologues parlent si souvent, est une formule vague pour exprimer ce fait : que l'élément moteur inclus dans les images est renforcé .
 
@@ -782,9 +782,9 @@ Toutefois , ce qui précède constate simplement, entre les deux fonctions compa
 
 la marche générale de leur évolution et dans leurs périodes de crise : c'est insuffisant pour conclure . Il faudrait des observations nettes, authentiques et assez nombreuses , prouvant que des individus dépourvus d'imagination créatrice l'ont acquise brusquement par le
 
-seul fait des influences sexuelles ; inversement, que des imaginations brillantes se sont flétries dans des conditions contraires . On en trouve dans Cabanis¹ , Moreau de Tours et divers aliénistes
+seul fait des influences sexuelles ; inversement, que des imaginations brillantes se sont flétries dans des conditions contraires . On en trouve dans Cabanis[^p65-1] , Moreau de Tours et divers aliénistes
 
-: elles seraient en faveur de l'affirmative ; mais quelques-unes me paraissent peu sûres, d'autres peu explicites. Malgré mes recherches sur ce point et une enquête auprès de gens compétents , je n'ose pas tirer une conclusion ferme . Je laisse donc la question ouverte ; elle tentera peut-être un autre qui sera plus heureux .[^p65-1]
+: elles seraient en faveur de l'affirmative ; mais quelques-unes me paraissent peu sûres, d'autres peu explicites. Malgré mes recherches sur ce point et une enquête auprès de gens compétents , je n'ose pas tirer une conclusion ferme . Je laisse donc la question ouverte ; elle tentera peut-être un autre qui sera plus heureux .
 
 [p. 66]
 
@@ -824,7 +824,7 @@ L'idéal , c'est le principe d'unité en mouvement , dans son évolution histori
 
 Psychologiquement, c'est une construction en images appartenant au type simplement ébauché 1. Elle résulte d'un double travail, négatif et positif, de dissociation et d'association, dont l'origine, la cause première est dans un désir que cela soit ainsi : c'est la tendance motrice des images à l'état naissant qui engendre l'idéal. - L'inventeur retranche, supprime, sépare, suivant son tempérament, son caractère , son goût, ses préjugés, ses sympathies et antipathies , son intérêt .
 
-Il associe et combine. Dans cette opération dejà étudiée, notons une particularité importante. « Nous ne connaissons pas de production psychique complexe qui soit simplement la somme des éléments composants et en qui ils resteraient avec leurs caractères propres , sans aucune modification . La nature des composants disparait pour donner naissance à un phénomène nouveau qui a sa physionomie propre et distincte. La construction de l'idéal n'est pas simplement un groupement des expériences passées : dans sa totalité, il a sa figure à lui dans laquelle on n'aperçoit pas plus les lignes composantes que, dans l'eau , l'oxygène et l'hydrogène. Dans aucune création scientifique ou artistique, dit Wundt, l'ensemble n'apparait composé de ses parties, à la manière d'une mosaïque 2. » En d'autres termes, c'est un cas de chimie mentale. L'exactitude de cette expression , due, je crois, à Stuart Mill, a été contestée. Cependant elle répond à des faits positifs . Ainsi dans l'ordre des perceptions , les phénomènes de contraste et leurs analogues : la juxtaposition ou la succession rapide de deux couleurs différentes , de deux sons difléreuts , d'impressions tactiles , olfactives, gustatives de qualités diverses , produit un état de conscience particulier, assimilable à une combinaison . Un accord ou une dissonance n'existent pas, en effet, dans chaque son séparément, mais par leur rapprochement et en sus ; c'est un tertium quid. - Plus haut, dans l'association des idées , on se représente trop souvent les états de conscience comme des éléments fixes qui se rapprochent, s'agglutinent, se séparent, se rap-[^p68-1][^p68-2]
+Il associe et combine. Dans cette opération dejà étudiée, notons une particularité importante. « Nous ne connaissons pas de production psychique complexe qui soit simplement la somme des éléments composants et en qui ils resteraient avec leurs caractères propres , sans aucune modification . La nature des composants disparait pour donner naissance à un phénomène nouveau qui a sa physionomie propre et distincte. La construction de l'idéal n'est pas simplement un groupement des expériences passées : dans sa totalité, il a sa figure à lui dans laquelle on n'aperçoit pas plus les lignes composantes que, dans l'eau , l'oxygène et l'hydrogène. Dans aucune création scientifique ou artistique, dit Wundt, l'ensemble n'apparait composé de ses parties, à la manière d'une mosaïque 2. » En d'autres termes, c'est un cas de chimie mentale. L'exactitude de cette expression , due, je crois, à Stuart Mill, a été contestée. Cependant elle répond à des faits positifs . Ainsi dans l'ordre des perceptions , les phénomènes de contraste et leurs analogues : la juxtaposition ou la succession rapide de deux couleurs différentes , de deux sons difléreuts , d'impressions tactiles , olfactives, gustatives de qualités diverses , produit un état de conscience particulier, assimilable à une combinaison . Un accord ou une dissonance n'existent pas, en effet, dans chaque son séparément, mais par leur rapprochement et en sus ; c'est un tertium quid.[^p68-2][^p68-1] - Plus haut, dans l'association des idées , on se représente trop souvent les états de conscience comme des éléments fixes qui se rapprochent, s'agglutinent, se séparent, se rap-
 
 [p. 69] prochent de nouveau, inaltérables comme des atomes. Il n'en est rien. La conscience, remarque Titchener, ressemble
 
@@ -836,15 +836,15 @@ Au fond, l'idéal est une conception individuelle . Si l'on objecte qu'un idéal
 
 La conception idéale est le premier moment de l'acte créateur qui n'est pas encore aux prises avec les nécessités de l'existence . Elle n'est que la vision interne d'un esprit individuel qui ne s'est pas encore projetée au dehors avec une forme et un corps . On sait si ce passage de la vie intérieure à la vie extérieure a suscité, chez les inventeurs , des déceptions et des plaintes. Telle était la construction imaginative qu'elle n'a pu, sans changements , entrer dans son moule et devenir une réalité .
 
-Examinons maintenant les diverses formes de ce principe de coagulation¹ en allant du plus bas au plus haut, de l'unité vaguement entrevue à l'unité maîtresse absolue et tyrannique . Suivant une méthode qui me paraît mieux adaptée à ces questions mal débrouillées, je ne signalerai que les formes principales que je réduis à trois
+Examinons maintenant les diverses formes de ce principe de coagulation[^p69-1] en allant du plus bas au plus haut, de l'unité vaguement entrevue à l'unité maîtresse absolue et tyrannique . Suivant une méthode qui me paraît mieux adaptée à ces questions mal débrouillées, je ne signalerai que les formes principales que je réduis à trois
 
-: l'unité[^p69-1]
+: l'unité
 
 [p. 70] instable , l'unité organique ou moyenne, l'unité extrême ou demi -morbide .
 
 1 ° La forme instable prend son point de départ direct et immédiat dans l'imagination reproductrice, sans création . Elle assemble un peu au hasard et coud des lambeaux de notre vie ; elle n'aboutit qu'à des essais, des tentatives . Le principe d'unité est dans une disposition momentanée qui vacille et change sans cesse , au gré des impressions extérieures ou des modifications de notre manière d'être et de notre humeur. Citons comme exemple l'état du rêveur qui bâtit des châteaux en l'air, les constructions délirantes de l'aliéné, les inventions de l'enfant qui suivent toutes les fluctuations du hasard ou de ses caprices, les songes à demi cohérents qui semblent au dormeur contenir un germe de création. Par suite de l'extrême fragilité du principe synthétique, l'imagination créatrice ne parvient pas à accomplir son œuvre et reste dans un stade intermédiaire entre l'association des idées simple et la création proprement dite .
 
-2 ° La forme organique ou moyenne peut être présentée comme le type du pouvoir unifiant. Finalement , elle se réduit à l'attention et ne suppose rien de plus ; parce que grâce à ce procédé de « localisation » qui est la marque essentielle de l'attention, il se produit un centre d'attraction stable qui groupe autour de l'idée-maîtresse les images , associations , jugements , tendances , efforts volontaires . << L'inspiration, disait le poète Grillparzer, est une concentration de toutes les forces et aptitudes sur un seul point qui , pendant ce moment , doit moins envelopper tout le reste du monde que le représenter. Le renforcement de l'état de l'âme vient de ce que ses divers pouvoirs, au lieu de se disséminer sur le monde entier, se trouvent contenus dans les limites d'un seul objet, se touchent, se soutiennent, [p. 71] se renforcent réciproquement¹ . » Ce que ce poète soutient pour la seule esthétique est applicable à toutes les formes organiques de la création, c'est-à-dire à celles qui sont régies par une logique immanente et ressemblent comme telles aux productions de la nature .
+2 ° La forme organique ou moyenne peut être présentée comme le type du pouvoir unifiant. Finalement , elle se réduit à l'attention et ne suppose rien de plus ; parce que grâce à ce procédé de « localisation » qui est la marque essentielle de l'attention, il se produit un centre d'attraction stable qui groupe autour de l'idée-maîtresse les images , associations , jugements , tendances , efforts volontaires . << L'inspiration, disait le poète Grillparzer, est une concentration de toutes les forces et aptitudes sur un seul point qui , pendant ce moment , doit moins envelopper tout le reste du monde que le représenter. Le renforcement de l'état de l'âme vient de ce que ses divers pouvoirs, au lieu de se disséminer sur le monde entier, se trouvent contenus dans les limites d'un seul objet, se touchent, se soutiennent, [p. 71] se renforcent réciproquement[^p71-1] . » Ce que ce poète soutient pour la seule esthétique est applicable à toutes les formes organiques de la création, c'est-à-dire à celles qui sont régies par une logique immanente et ressemblent comme telles aux productions de la nature .
 
 Pour ne laisser aucun doute sur l'identité de l'attention avec la synthèse imaginative et montrer qu'elle est, dans les cas normaux, le vrai principe d'unité, on peut remarquer ce qui suit.
 
@@ -854,7 +854,7 @@ tantôt volontaire, artificielle, imitée de l'autre , précaire et intermittent
 
 Notons ensuite que les psychologues produisent toujours les mêmes exemples lorsqu'ils veulent éclaircir d'une part les procédés de l'attention persistante, tenace ; d'autre part le travail d'incubation sans lequel la création n'aboutit pas : « Le génie n'est qu'une longue patience
 
-» , le mot de Newton : « En y pensant toujours » , d'autres analogues de d'Alembert , Helmholtz, etc : parce que dans l'un et l'autre cas, la condition fondamentale est l'existence d'une idée fixe , toujours vivace, malgré ses rémittences et ses incessantes disparitions dans l'inconscient avec retour à la conscience.[^p71-1]
+» , le mot de Newton : « En y pensant toujours » , d'autres analogues de d'Alembert , Helmholtz, etc : parce que dans l'un et l'autre cas, la condition fondamentale est l'existence d'une idée fixe , toujours vivace, malgré ses rémittences et ses incessantes disparitions dans l'inconscient avec retour à la conscience.
 
 [p. 72] 3º La forme extrême qui, de sa nature , est à moitié morbide, devient, à son plus haut degré, franchement pathologique ; le principe d'unité passe à l'état d'obsession .
 
@@ -862,7 +862,7 @@ L'état normal de notre esprit, c'est la pluralité des états de conscience (le
 
 A ce degré, le principe d'unité , bien qu'il puisse agir comme ferment de création, cesse d'être normal. Par suite , une question se pose naturellement. Entre l'obsession de l'inventeur et l'obsession du malade qui le plus souvent. détruit au lieu de créer, où est la différence ?
 
-La nature des idées fixes a beaucoup préoccupé les aliénistes contemporains . Pour d'autres raisons et à leur manière , ils ont été conduits, eux aussi, à diviser les obsessions en deux classes : intellectuelles , émotionnelles , suivant que l'idée ou l'état affectif prédomine ; puis à se demander lequel de ces deux éléments est primitif. Pour les uns c'est l'idée . Pour les autres (il semble qu'ils sont les plus nombreux) l'état affectif est, en général, le fait pri [p. 73] maire ; l'obsession repose toujours sur un fonds d'émotion morbide et en garde l'empreinte ¹ .
+La nature des idées fixes a beaucoup préoccupé les aliénistes contemporains . Pour d'autres raisons et à leur manière , ils ont été conduits, eux aussi, à diviser les obsessions en deux classes : intellectuelles , émotionnelles , suivant que l'idée ou l'état affectif prédomine ; puis à se demander lequel de ces deux éléments est primitif. Pour les uns c'est l'idée . Pour les autres (il semble qu'ils sont les plus nombreux) l'état affectif est, en général, le fait pri [p. 73] maire ; l'obsession repose toujours sur un fonds d'émotion morbide et en garde l'empreinte [^p73-1] .
 
 Mais quelque opinion que l'on adopte sur ce point, la difficulté d'établir une démarcation entre les deux formes d'obsession ci-dessus mentionnées reste entière . Y a-t-il des caractères propres à chacune d'elles ?
 
@@ -872,7 +872,7 @@ On a dit
 
 L'idée fixe pathologique est « parasite, automatique, discordante , irrésistible . L'obsession n'est qu'un état particulier de la désagrégation psychique, une sorte de dédoublement de la conscience » . L'obsédé est un possédé dont le 、 moi est confisqué au profit de l'idée fixe et qui subit avec douleur sa situation .
 
-Malgré ce parallèle, le critérium de distinction entre les deux est bien vague, parce que de l'idée saine à l'idée délirante les transitions sont nombreuses . On est obligé de reconnaître « que chez certains travailleurs qui sont plutôt possédés par l'élaboration de leur œuvre , que maîtres de la diriger, de la quitter et de la reprendre à leur gré, une conception artistique , scientifique ou mécanique parvient à poursuivre l'esprit, à s'imposer à lui, en provoquant même de la souffrance » . En réalité, la psychologie pure est incapable de découvrir une différence positive entre l'obsession créatrice et les autres formes ; parce que, dans les deux cas , le mécanisme mental est, au fond , le même .[^p73-1]
+Malgré ce parallèle, le critérium de distinction entre les deux est bien vague, parce que de l'idée saine à l'idée délirante les transitions sont nombreuses . On est obligé de reconnaître « que chez certains travailleurs qui sont plutôt possédés par l'élaboration de leur œuvre , que maîtres de la diriger, de la quitter et de la reprendre à leur gré, une conception artistique , scientifique ou mécanique parvient à poursuivre l'esprit, à s'imposer à lui, en provoquant même de la souffrance » . En réalité, la psychologie pure est incapable de découvrir une différence positive entre l'obsession créatrice et les autres formes ; parce que, dans les deux cas , le mécanisme mental est, au fond , le même .
 
 [p. 74] Le critérium doit être cherché ailleurs. Pour cela, il faut sortir du monde intérieur et procéder objectivement ; il faut juger l'idée fixe non en elle-même, mais par ses effets . Que produit-elle dans l'ordre pratique, esthétique, scientifique, moral , social, religieux ? Elle vaut ce que valent ses fruits . Si l'on se refuse à ce changement de position, pour s'en tenir au point de vue strictement psychologique, il est certain que, dès qu'elle dépasse une limite moyenne, difficilement déterminable, l'idée fixe trouble profondément le mécanisme de l'esprit. Chez les imaginatifs, cela n'est pas rare : ce qui explique que la théorie pathologique du génie (dont nous parlerons plus tard) ait pu rallier tant de partisans et alléguer tant de faits en sa faveur.
 
@@ -918,21 +918,21 @@ Nous arrivons ici à l'un de ces moments aigus, si fréquents dans la psychologi
 
 ou
 
-est-il en germe au-dessous de l'homme ? Aussi a-t-on pu soutenir une thèse contraire à celle de Romanes . Certains animaux , dit Elzelt-Newin, remplissent toutes les conditions nécessaires à l'imagination créatrice : des sens subtils , une bonne mémoire et des états affectifs appropriés¹ . Cette assertion est peut-être vraie, mais purement dialectique . Elle équivaut à dire que la chose est possible ; elle ne l'établit pas en fait. D'ailleurs, est-il bien sûr que toutes les conditions de l'imagination créatrice se rencontrent, puisque l'on vient de constater plus haut le déficit de l'abstraction ? L'auteur qui restreint volontairement son étude aux oiseaux et à la construction de leurs nids , soutient, à l'encontre de Wallace et autres, que la nidification exige « la synthèse mystérieuse des représentations » .
+est-il en germe au-dessous de l'homme ? Aussi a-t-on pu soutenir une thèse contraire à celle de Romanes . Certains animaux , dit Elzelt-Newin, remplissent toutes les conditions nécessaires à l'imagination créatrice : des sens subtils , une bonne mémoire et des états affectifs appropriés[^p79-1] . Cette assertion est peut-être vraie, mais purement dialectique . Elle équivaut à dire que la chose est possible ; elle ne l'établit pas en fait. D'ailleurs, est-il bien sûr que toutes les conditions de l'imagination créatrice se rencontrent, puisque l'on vient de constater plus haut le déficit de l'abstraction ? L'auteur qui restreint volontairement son étude aux oiseaux et à la construction de leurs nids , soutient, à l'encontre de Wallace et autres, que la nidification exige « la synthèse mystérieuse des représentations » .
 
-On pourrait également invoquer le cas des animaux[^p79-1]
+On pourrait également invoquer le cas des animaux
 
 [p. 80] constructeurs (abeilles , guêpes , termites , fourmis ,
 
 castors , etc. ) . Il n'est pas déraisonnable de leur attribuer une représentation anticipée de leur architecture. Dira- t-on que c'est « instinctif » , par conséquent inconscient ? Au moins ne peut-on pas ranger sous ce titre les changements et adaptations à des conditions nouvelles que ces animaux savent faire subir au plan-type de leurs constructions . Des observations et même des expériences méthodiques (comme celles de Huber, Forel, etc.) montrent que placés dans cette alternative , - impossibilité de bâtir ou modification de leurs habitudes ,
 
-certains animaux les modifient. Dès lors , comment leur refuser totalement l'invention ? Ceci ne contredit en rien la réserve si juste de Romanes . Il suffit de remarquer que l'abstraction (ou dissociation) a des degrés , que les plus simples sont accessibles à l'intelligence animale. Si, faute de mots, la logique des concepts lui est interdite, il lui reste la logique des images¹ , qui suffit à de petites innovations. En un mot, les animaux peuvent inventer dans la mesure où ils peuvent dissocier.
+certains animaux les modifient. Dès lors , comment leur refuser totalement l'invention ? Ceci ne contredit en rien la réserve si juste de Romanes . Il suffit de remarquer que l'abstraction (ou dissociation) a des degrés , que les plus simples sont accessibles à l'intelligence animale. Si, faute de mots, la logique des concepts lui est interdite, il lui reste la logique des images[^p80-1] , qui suffit à de petites innovations. En un mot, les animaux peuvent inventer dans la mesure où ils peuvent dissocier.
 
 #### II
 
 A notre avis, si l'on peut attribuer avec quelque vraisemblance un pouvoir créateur aux animaux, c'est ailleurs qu'il faut le chercher. Généralement, on n'accorde qu'une médiocre importance à une manifestation qui pourrait bien ètre la forme propre de la fantaisie animale. Elle est purement motrice et se traduit par les diverses espèces de jeu .
 
-Quoique le jeu soit aussi vieux que l'homme, sa psycho[^p80-1]
+Quoique le jeu soit aussi vieux que l'homme, sa psycho
 
 [p. 81] logie ne date que de ce siècle. Nous avons vu précédemment qu'il y a sur sa nature trois théories : c'est la dépense d'une activité superflue ; c'est une réparation, une restitution de force , un délassement ; c'est un apprentissage, un exercice préliminaire aux fonctions actives de la vie et au développement de nos dispositions naturelles . La dernière thèse , due à Groos , ne proscrit pas les deux autres ; elle tient la première valable pour les jeunes, la seconde pour les adultes ; mais elle les enveloppe l'une et l'autre dans une explication plus générale .
 
@@ -962,13 +962,13 @@ Pour corroborer ce qui précède, comparons les animaux supérieurs aux jeunes e
 
 Un argument sérieux en faveur de la prévalence de l'imagination motrice chez l'enfant nous est fourni par le rôle majeur des mouvements dans la folie infantile remarque faite par beaucoup d'aliénistes. Le premier degré de cette folie, a-t on dit, se trouve dans les convulsions qui ne sont pas une simple maladie physique, mais « un délire des muscles » . « Le trouble des fonctions automatiques et instinctives chez l'enfant est si souvent associé avec des troubles musculaires que c'est une supposition très logique que, à cet âge, les désordres mentaux sont en rapport avec les centres ganglionnaires moteurs situés au-dessous de ces parties qui plus tard assumeront le travail de l'analyse et de l'imagination. Les troubles sont dans les centres d'organisation primaire et par suite les symptômes sont dépourvus de ces qualités analytiques ou constructives , de ces formes idéales qui se rencontrent dans la folie des adultes . Si nous descendons au plus bas degré de la vie humaine
 
-au baby nous voyons que la folie est presque tout entière dans l'activité d'un groupe musculaire agissant sur les choses extérieures . Le baby fou mord, frappe du pied, et ces symptômes sont la mesure extérieure de sa folie¹ . » La chorée, elle aussi, n'a-t-elle pas été appelée une folie musculaire ?
+au baby nous voyons que la folie est presque tout entière dans l'activité d'un groupe musculaire agissant sur les choses extérieures . Le baby fou mord, frappe du pied, et ces symptômes sont la mesure extérieure de sa folie[^p84-1] . » La chorée, elle aussi, n'a-t-elle pas été appelée une folie musculaire ?
 
 Sans doute, il existe également chez l'enfant une folie sensorielle (illusions, hallucinations) ; mais, en raison du faible développement
 
 intellectuel, le délire cause un désordre moins des images que des mouvements : son imagination vésanique est surtout une vésanie motrice .
 
-Soutenir que l'imagination créatrice propre aux ani-[^p84-1]
+Soutenir que l'imagination créatrice propre aux ani-
 
 [p. 85] maux consiste en combinaisons nouvelles de mouvements , est assurément une hypothèse. Cependant, je ne crois pas qu'elle soit une simple vue de l'esprit, sans fondement, si l'on tient compte des faits qui précédent. Je la considère en outre comme un appoint en faveur de la théorie motrice de l'invention. C'est un cas unique où la forme originelle de la création se montre à nu. Si nous voulions la découvrir, il fallait la chercher là où elle est réduite à la plus grande simplicité : dans le monde animal .
 
@@ -1062,13 +1062,13 @@ Cette démarche de l'esprit nous est déjà connue, bien qu'elle n'ait été men
 
 : comme l'état d'esprit de l'enfant est, à ce moment, semblable à celui qui crée les mythes chez l'homme primitif, nous y reviendrons dans le chapitre suivant. Les ouvrages de psychologie abondent en faits qui démontrent que cette tendance primitive à attribuer à tout la vie et même la personnalité, est une phase nécessaire que l'esprit doit traverser ,
 
-longue ou courte, riche ou pauvre en inventions, suivant le degré d'imagination de l'enfant. Son attitude envers ses poupées en est l'exemple le plus banal et aussi le meilleur, parce qu'il est universel, sans exception, qu'il a été constaté dans tous les pays, dans toutes les races humaines. Il est inutile d'entasser des faits sur un point incontesté¹ . Deux suffiront : je les choisis en raison de leur extravagance qui montre que, à ce moment et chez certains, l'animisme peut tout oser. « Un enfant s'était pris de tendresse pour la lettre W qu'il interpellait ainsi
+longue ou courte, riche ou pauvre en inventions, suivant le degré d'imagination de l'enfant. Son attitude envers ses poupées en est l'exemple le plus banal et aussi le meilleur, parce qu'il est universel, sans exception, qu'il a été constaté dans tous les pays, dans toutes les races humaines. Il est inutile d'entasser des faits sur un point incontesté[^p90-1] . Deux suffiront : je les choisis en raison de leur extravagance qui montre que, à ce moment et chez certains, l'animisme peut tout oser. « Un enfant s'était pris de tendresse pour la lettre W qu'il interpellait ainsi
 
 : Dear old boy W. » Un autre , à trois ans, en traçant la lettre L, y ajoute un petit crochet et saisissant immédiatement la ressemblance avec une forme humaine assise, s'écrie
 
-: Oh, il s'assied . Ayant fait un jour une F du mauvais côté, il s'en aperçoit, en place une autre à gauche correctement et s'exclame aussitôt : ils causent ensemble (FJ) . « Je me souviens , dit un correspondant de J. Sully, que j'attribuais de l'intelligence non seulement aux êtres vivants , mais aux pierres et aux objets fabriqués . Je trouvais très malheureux les cailloux étendus sur les routes , condamnés à rester toujours immobiles et à voir toujours la même chose . Par[^p90-1]
+: Oh, il s'assied . Ayant fait un jour une F du mauvais côté, il s'en aperçoit, en place une autre à gauche correctement et s'exclame aussitôt : ils causent ensemble (FJ) . « Je me souviens , dit un correspondant de J. Sully, que j'attribuais de l'intelligence non seulement aux êtres vivants , mais aux pierres et aux objets fabriqués . Je trouvais très malheureux les cailloux étendus sur les routes , condamnés à rester toujours immobiles et à voir toujours la même chose . Par
 
-[p. 91] pitié, je les transportais à un autre bout du chemin, pour qu'ils eussent l'agrément de voir du nouveau¹ » .
+[p. 91] pitié, je les transportais à un autre bout du chemin, pour qu'ils eussent l'agrément de voir du nouveau[^p91-1] » .
 
 Arrêtons-nous un instant pour essayer de déterminer la nature de cet état mental étrange, d'autant plus que nous le retrouverons chez l'homme primitif et qu'il nous présente l'imagination créatrice à son début .
 
@@ -1080,7 +1080,7 @@ Arrêtons-nous un instant pour essayer de déterminer la nature de cet état men
 
 3º Finalement, cette puissance de création qui investit l'image de tous les attributs de la réalité, dérive d'un fait fondamental
 
-: l'état de croyance , c'est-à-dire l'adhésion de l'esprit fondée sur des conditions purement subjectives. Il n'entre pas dans mon sujet de traiter incidemment une si[^p91-1]
+: l'état de croyance , c'est-à-dire l'adhésion de l'esprit fondée sur des conditions purement subjectives. Il n'entre pas dans mon sujet de traiter incidemment une si
 
 [p. 92] grosse question . Oubliée par l'ancienne psychologie, que sa méthode des facultés disposait à cette omission, la croyance a été récemment l'objet de nombreuses études. Je me borne au nécessaire, en faisant remarquer que, sans cet état psychique, la nature de l'imagination est totalement incompréhensible. Le propre de l'imagination est de produire une réalité d'origine humaine à côté de la réalité d'origine naturelle et elle n'y réussit que par la croyance qui accompagne l'image .
 
@@ -1102,7 +1102,7 @@ que l'imagination est toujours accompagnée d'un acte de croyance ; sans quoi pl
 
 «
 
-la persuasion comme la sensation elle-même » . Enfin Taine traite méthodiquement ce sujet en étudiant la nature de l'image et son caractère primitivement hallucinatoire ¹ . Actuellement, je pense qu'il n'y a aucun psychologue qui ne considère comme établi que l'image, quand elle entre dans la conscience, traverse deux moments . Durant le premier , elle apparaît comme une réalité pleine et entière ; elle est objective . Durant le second (qui est définitif)
+la persuasion comme la sensation elle-même » . Enfin Taine traite méthodiquement ce sujet en étudiant la nature de l'image et son caractère primitivement hallucinatoire [^p93-1] . Actuellement, je pense qu'il n'y a aucun psychologue qui ne considère comme établi que l'image, quand elle entre dans la conscience, traverse deux moments . Durant le premier , elle apparaît comme une réalité pleine et entière ; elle est objective . Durant le second (qui est définitif)
 
 elle est dépouillée de son objectivité, réduite à l'état d'événement tout intérieur, par l'effet d'autres états de conscience qui contredisent et finalement annihilent son caractère objectif. Il y a affirmation, puis négation ; impulsion, puis arrêt .
 
@@ -1110,7 +1110,7 @@ La croyance n'étant qu'une manière d'être, une attitude de notre esprit, doit
 
 il y a les tendances et autres éléments affectifs (désir, peur, amour, etc.) qui donnent à l'image son intensité et lui assurent la victoire dans sa lutte contre les autres états de conscience.
 
-Il y a les facultés actives qu'on désigne quelquefois sous le nom de volonté, « en entendant, comme le dit W. James , non seulement la volition délibérée, mais tous les facteurs de la[^p93-1]
+Il y a les facultés actives qu'on désigne quelquefois sous le nom de volonté, « en entendant, comme le dit W. James , non seulement la volition délibérée, mais tous les facteurs de la
 
 [p. 94] croyance
 
@@ -1124,7 +1124,7 @@ Après cela, est-il nécessaire de faire remarquer que la croyance dépend uniqu
 
 En ce qui concerne le cas particulier de l'enfant, des deux moments que l'image traverse dans la conscience, le premier (celui de l'affirmation) est tout pour lui, le second (celui de la rectification) n'est rien : hypertrophie de l'un , atrophie de l'autre . Pour l'adulte , c'est le contraire : même, dans beaucoup de cas , par suite de l'expérience et de l'habitude, le premier moment où l'image devrait être affirmée comme réalité n'est que virtuel, littéralement atrophié . Cependant, il faut remarquer que ceci ne s'applique que partiellement à l'ignorant et encore moins au sauvage .
 
-Toutefois , on peut encore se demander si la croyance de l'enfant à ses chimères est pleine, entière, absolue, sans réserves . Le bâton qu'il chevauche est-il identifié totalement à un cheval ? L'enfant de J. Sally qui montrait à sa[^p94-1]
+Toutefois , on peut encore se demander si la croyance de l'enfant à ses chimères est pleine, entière, absolue, sans réserves . Le bâton qu'il chevauche est-il identifié totalement à un cheval ? L'enfant de J.[^p94-1] Sally qui montrait à sa
 
 [p. 95] poupée une série de gravures pour qu'elle pût choisir, était-il complètement dupe ? Il semble qu'il faut admettre plutôt une intermittence, une alternance entre l'affirmation et la négation . D'une part, l'attitude sceptique de ceux qui le raillent, est déplaisante à l'enfant ; il est comme un croyant sincère dont on démolit la foi. D'autre part, il faut bien que le doute naisse en lui de temps en temps , sans quoi la rectification n'aurait jamais lieu : une croyance chasse l'autre ou la contredit. Ce second travail se fait peu à peu ; mais alors , sous cette forme, l'imagination rétrograde .
 
@@ -1138,9 +1138,9 @@ Le jeu sert à deux fins
 
 L'enfant, comme les animaux, se dépense en mouvements , forme des associations nouvelles pour lui, il simule la défense , la fuite, l'attaque ; mais il dépasse rapidement ce niveau inférieur pour la construction en images. Il commence par imiter : C'est une nécessité psychologique dont nous donnerons plus tard les raisons (v. ch. iv ci-après). Il construit des maisons , des bateaux, se livre à des dessins grossiers ; mais il imite surtout dans sa personne et par ses actes , se faisant tour à tour soldat, marin, brigand , marchand , cocher, etc.
 
-A la période d'imitation succèdent des tentatives plus [p. 96] hardies ; il agit en maître, il est possédé par son idée qu'il tend à réaliser. Le caractère personnel de la création se révèle en ceci, qu'il ne s'intéresse réellement qu'à un travail qui émane de lui et dont il se sent cause . B. Perez raconte qu'il voulait donner une leçon à son neveu (trois ans et demi) dont les inventions lui paraissaient bien pauvres . Il trace sur le sable une rigole simulant une rivière , plante de petites branches sur les deux rives, y fait couler de l'eau , pose un pont, lance des navires. A chaque invention , l'enfant restait froid, son admiration se faisait toujours attendre . Bref, impatienté, il déclare « que ce n'est pas du tout amusant » . L'auteur ajoute : « Je crus inutile d'insister et je piétinai, en riant de moi-même, mon essai maladroit de construction enfantine . J'avais déjà lu dans maint livre , mais cette fois j'avais appris par expérience que la libre initiative des enfants est toujours supérieure aux imitations que nous prétendons en faire . En outre, cette expérience et d'autres pareilles m'ont appris que leur force créatrice est beaucoup plus faible qu'on ne le dit¹ » .
+A la période d'imitation succèdent des tentatives plus [p. 96] hardies ; il agit en maître, il est possédé par son idée qu'il tend à réaliser. Le caractère personnel de la création se révèle en ceci, qu'il ne s'intéresse réellement qu'à un travail qui émane de lui et dont il se sent cause . B. Perez raconte qu'il voulait donner une leçon à son neveu (trois ans et demi) dont les inventions lui paraissaient bien pauvres . Il trace sur le sable une rigole simulant une rivière , plante de petites branches sur les deux rives, y fait couler de l'eau , pose un pont, lance des navires. A chaque invention , l'enfant restait froid, son admiration se faisait toujours attendre . Bref, impatienté, il déclare « que ce n'est pas du tout amusant » . L'auteur ajoute : « Je crus inutile d'insister et je piétinai, en riant de moi-même, mon essai maladroit de construction enfantine . J'avais déjà lu dans maint livre , mais cette fois j'avais appris par expérience que la libre initiative des enfants est toujours supérieure aux imitations que nous prétendons en faire . En outre, cette expérience et d'autres pareilles m'ont appris que leur force créatrice est beaucoup plus faible qu'on ne le dit[^p96-1] » .
 
-IV . Au quatrième stade apparaît l'invention romanesque qui exige une culture plus raffinée, étant une création purement intérieure et toute en images. Elle s'éveille vers l'àge de trois ou quatre ans . On sait le goût des enfants imaginatifs pour les histoires et légendes qu'ils se font répéter à satiété : en cela ils ressemblent aux peuples demi-civilisés qui écoutent avidement leurs rapsodes pendant des heures , éprouvant toutes les émotions appropriées aux incidents du récit . C'est le prélude à la création, un état semi-passif, semi-actif, une période d'apprentissage qui leur perınettra de créer à leur tour. Aussi, les premiers essais sont faits de réminiscences et plutôt imités que créés .[^p96-1]
+IV . Au quatrième stade apparaît l'invention romanesque qui exige une culture plus raffinée, étant une création purement intérieure et toute en images. Elle s'éveille vers l'àge de trois ou quatre ans . On sait le goût des enfants imaginatifs pour les histoires et légendes qu'ils se font répéter à satiété : en cela ils ressemblent aux peuples demi-civilisés qui écoutent avidement leurs rapsodes pendant des heures , éprouvant toutes les émotions appropriées aux incidents du récit . C'est le prélude à la création, un état semi-passif, semi-actif, une période d'apprentissage qui leur perınettra de créer à leur tour. Aussi, les premiers essais sont faits de réminiscences et plutôt imités que créés .
 
 [p. 97] On en trouvera de nombreux exemples dans les ouvrages spéciaux . Un enfant de trois ans et demi voit un boiteux cheminant le long d'une route . Il s'écrie : « Maman, vois ce pauvre homme avec sa mauvaise jambe .
 
@@ -1148,19 +1148,19 @@ IV . Au quatrième stade apparaît l'invention romanesque qui exige une culture 
 
 : Il était sur un grand cheval , il est tombé sur une grosse pierre , il a heurté sa pauvre jambe , il faudrait trouver quelque poudre pour la guérir, etc. Quelquefois l'invention est moins réaliste . Une enfant de trois ans souhaitait souvent de vivre comme poisson dans l'eau ou comme étoile dans le ciel .
 
-Une autre (cinq ans neuf mois) ayant trouvé une pierre percée inventa un conte de fées ; le trou était une belle salle habitée par des personnages brillants et mystérieux¹ , etc.
+Une autre (cinq ans neuf mois) ayant trouvé une pierre percée inventa un conte de fées ; le trou était une belle salle habitée par des personnages brillants et mystérieux[^p97-1] , etc.
 
 Cette forme d'imagination n'est pas aussi commune que les autres ; elle est propre à ceux que la nature a bien doués . Elle présage un développement de l'esprit supérieur à la moyenne ; elle peut même étre la marque d'une vocation naissante et indiquer dans quel sens la création s'orientera .
 
 Rappelons sans insister le rôle créateur de l'imagination dans le langage, par l'intervention d'un facteur déjà étudié : la pensée par analogie, source abondante de métaphores qui sont quelquefois pittoresques. Un enfant appelait « porte >>> un bouchon de bouteille ; une menuemonnaie était désignée par un petit Américain sous le nom de « baby dollar » ; un autre, en voyant la rosée sur l'herbe, disait : « Le gazon pleure » .
 
-L'extension du sens des mots a été étudiée par Taine , Darwin , Preyer et autres . Ils ont montré que son mécanisme psychologique dépend tantôt de la perception de la ressemblance , tantôt de l'association par contiguïté, qui[^p97-1]
+L'extension du sens des mots a été étudiée par Taine , Darwin , Preyer et autres . Ils ont montré que son mécanisme psychologique dépend tantôt de la perception de la ressemblance , tantôt de l'association par contiguïté, qui
 
-[p. 98] apparaissent et s'entre-mêlent d'une manière imprévue . Ainsi un enfant applique le mot « Mamro » d'abord à sa nourrice, puis à une machine à coudre dont elle se sert , puis par analogie à un orgue qu'il voit dans la rue, orné d'un singe, puis à ses jouets figurant des animaux¹ . Nous avons rapporté ailleurs plusieurs cas semblables où l'on saisit la différence fondamentale entre la pensée par image et la pensée rationnelle .
+[p. 98] apparaissent et s'entre-mêlent d'une manière imprévue . Ainsi un enfant applique le mot « Mamro » d'abord à sa nourrice, puis à une machine à coudre dont elle se sert , puis par analogie à un orgue qu'il voit dans la rue, orné d'un singe, puis à ses jouets figurant des animaux[^p98-1] . Nous avons rapporté ailleurs plusieurs cas semblables où l'on saisit la différence fondamentale entre la pensée par image et la pensée rationnelle .
 
 Pour conclure , à ce moment, l'imagination est la faculté maîtresse et la plus haute forme du développement intellectuel . Elle travaille dans deux directions , l'une principale : elle crée des jeux, invente des romans et étend le langage ; l'autre secondaire
 
-: elle contient un germe de pensée et hasarde une explication chimérique du monde qui ne peut pas encore être conçu d'après des notions abstraites et des lois .[^p98-1]
+: elle contient un germe de pensée et hasarde une explication chimérique du monde qui ne peut pas encore être conçu d'après des notions abstraites et des lois .
 
 [p. 99] CHAPITRE
 
@@ -1170,11 +1170,11 @@ L'homme primitif et la création des mythes .
 
 Nous arrivons à un moment unique dans l'histoire du développement de l'imagination, à son âge d'or. Chez l'homme primitif, encore enfermé dans la vie sauvage ou n'ayant fait que les premiers pas vers la civilisation, elle atteint sa pleine efflorescence dans la création des mythes ; et on est en droit de s'étonner que les psychologues, obstinément attachés à l'esthétique, aient négligé une forme d'activité si importante, si riche en renseignements sur la nature de l'imagination créatrice. Où trouver, en effet, des conditions plus favorables pour la connaître ?
 
-L'homme avant la civilisation est un pur imaginatif, c'est-à-dire que l'imagination marque l'apogée de son développement intellectuel ; il ne la dépasse pas¹ , mais
+L'homme avant la civilisation est un pur imaginatif, c'est-à-dire que l'imagination marque l'apogée de son développement intellectuel ; il ne la dépasse pas[^p99-1] , mais
 
 elle n'est plus une énigme comme chez les animaux, ni une phase transitoire comme chez l'enfant civilisé qui s'achemine rapidement vers l'âge de raison ; elle est un état fixe, permanent, qui dure toute la vie .
 
-Elle se révèle à nous dans sa pleine spontanéité ; elle a[^p99-1]
+Elle se révèle à nous dans sa pleine spontanéité ; elle a
 
 [p. 100] son libre essor ; elle peut créer sans imitation ni traditions, elle n'est emprisonnée dans aucune forme convenue ; elle est souveraine maîtresse . Comme l'homme primitif n'a nulle connaissance de la nature ni de ses lois , il n'hésite pas à donner un corps aux plus folles imaginations qui jaillissent dans son cerveau . Le monde n'étant pas pour lui un ensemble de phénomènes soumis à des règles , rien ne le limite ni ne l'entrave .
 
@@ -1186,17 +1186,17 @@ Les mythes n'ont pas seulement l'avantage d'être l'incarnation de l'imagination
 
 Mais avant d'aborder l'étude psychologique de la genèse et de la formation des mythes, considérés comme une manifestation objective de l'imagination créatrice, il faut rappeller sommairement les hypothèses admises actuellement sur leur origine. On en trouve deux principales
 
-: l'une, étymologique , généalogique ou linguistique ; l'autre, ethnopsychologique ou anthropologique ¹ .[^p100-1]
+: l'une, étymologique , généalogique ou linguistique ; l'autre, ethnopsychologique ou anthropologique [^p100-1] .
 
 [p. 101] La première dont le principal champion (non le seul) est Max Müller, soutient que les mythes sont issus d'une <<maladie du langage > ; les mots deviennent des choses , <<< nomina numina » . Cette transformation est l'effet de deux causes linguistiques principales . La polyonymie : plusieurs mots pour une seule chose ; ainsi le soleil est désigné par plus de vingt termes dans les Védas ; Apollon, Phaéton , Héraclès sont trois personnifications du so'eil ; Varouna (la nuit) et Yama (la mort) expriment à l'origine la même conception et sont devenus deux divinités distinctes . Bref, chaque mot tend à devenir une entité ayant ses attributs et sa légende propres .
 
 L'homonymie : un seul mot pour plusieurs choses ; le même terme « brillant » désignant l'aurore , une source , le printemps , etc. ; autre source de confusion. Ajoutons les métaphores prises au sens littéral , les jeux de mots , les contre- sens , etc.
 
-Les adversaires de cette doctrine soutiennent que, dans la formation des mythes, les mots représentent à peine cinq pour cent. Quoi qu'il en soit de cette assertion, l'explication purement philologique reste sans valeur pour la psychologie ; elle n'est ni vraie ni fausse ; elle ne résout pas le problème, elle passe à côté. Le mot n'est qu'une occasion, qu'un véhicule : sans le travail de l'esprit qu'il suscite, rien ne changera. C'est d'ailleurs ce que Max Müller lui-même a reconnu récemment ¹ .
+Les adversaires de cette doctrine soutiennent que, dans la formation des mythes, les mots représentent à peine cinq pour cent. Quoi qu'il en soit de cette assertion, l'explication purement philologique reste sans valeur pour la psychologie ; elle n'est ni vraie ni fausse ; elle ne résout pas le problème, elle passe à côté. Le mot n'est qu'une occasion, qu'un véhicule : sans le travail de l'esprit qu'il suscite, rien ne changera. C'est d'ailleurs ce que Max Müller lui-même a reconnu récemment [^p101-1] .
 
 La théorie anthropologique, bien plus générale que la précédente , pénètre davantage jusqu'aux origines psycho
 
-rapporte toutes les conceptions religieuses et mythiques à une origine unique : le culte des morts .[^p101-1]
+rapporte toutes les conceptions religieuses et mythiques à une origine unique : le culte des morts .
 
 [p. 102] logiques
 
@@ -1206,13 +1206,13 @@ sont des
 
 survivances d'une époque lointaine, conservées et consacrées par la tradition , les habitudes, le respect de l'antiquité. D'après la définition qui me paraît la mieux adaptée à la psychologie ,
 
-« le mythe est l'objectivation psychophysique de l'homme dans tous les phénomènes qu'il peut percevoir » ¹ ; c'est une humanisation de la nature selon les procédés propres à l'imagination .
+« le mythe est l'objectivation psychophysique de l'homme dans tous les phénomènes qu'il peut percevoir » [^p102-1] ; c'est une humanisation de la nature selon les procédés propres à l'imagination .
 
 Ces deux doctrines sont-elles inconciliables ? Il ne semble pas, à la condition de n'accepter la première que comme une explication partielle. En tout cas, les deux écoles s'accordent sur un point important pour nous : La matière des mythes est fournie par le spectacle des phénomènes naturels, en y comprenant les grands événements humains (naissance, maladies, mort, etc.) : c'est le facteur objectif. La création des mythes a sa raison d'être dans la nature de l'imagination humaine
 
-: c'est le facteur subjectif. On ne peut nier que la plupart des mythographes ont une inclination très marquée à accorder le plus d'importance au premier facteur : en quoi, ils manquent un peu de psychologie. Les retours périodiques de l'aurore, du soleil, de la lune et des étoiles, les vents et les orages agissent aussi, pensons-nous , sur les singes, les éléphants et autres animaux réputés les plus intelligents. Ont-ils inspiré des mythes ? Tout au contraire, « la surprenante monotonie[^p102-1]
+: c'est le facteur subjectif. On ne peut nier que la plupart des mythographes ont une inclination très marquée à accorder le plus d'importance au premier facteur : en quoi, ils manquent un peu de psychologie. Les retours périodiques de l'aurore, du soleil, de la lune et des étoiles, les vents et les orages agissent aussi, pensons-nous , sur les singes, les éléphants et autres animaux réputés les plus intelligents. Ont-ils inspiré des mythes ? Tout au contraire, « la surprenante monotonie
 
-[p. 103] des idées que les diverses races se sont faites des causes dernières des phénomènes , de l'origine et de la destinée de l'homme, d'où il résulte que les innombrables mythes se réduisent à un très petit nombre de types » ¹ , montre que c'est l'imagination humaine qui tient le principal rôle et qu'en somme, elle n'est peut-être pas aussi riche qu'on se plaît à le dire , qu'elle est même bien pauvre, comparée à la fécondité de la nature .
+[p. 103] des idées que les diverses races se sont faites des causes dernières des phénomènes , de l'origine et de la destinée de l'homme, d'où il résulte que les innombrables mythes se réduisent à un très petit nombre de types » [^p103-1] , montre que c'est l'imagination humaine qui tient le principal rôle et qu'en somme, elle n'est peut-être pas aussi riche qu'on se plaît à le dire , qu'elle est même bien pauvre, comparée à la fécondité de la nature .
 
 Étudions maintenant la psychologie de cette activité créatrice, en la réduisant à ces deux questions : Comment se forment les mythes ? Quelle marche suit leur évolution ?
 
@@ -1226,17 +1226,17 @@ I. Le moment de la création suppose deux opérations inséparables , mais qu'il
 
 Tout animer, c'est-à-dire à attribuer à toutes choses la vie et l'action , à se représenter tout comme vivant et agissant, même les montagnes, les pierres et autres objets incapables de mouvement. De cette tendance innée et irrésistible, il y a tant de preuves de fait qu'une énumération quelconque est inutile
 
-: c'est la règle . Les témoignages recueillis par les ethnologistes, les mythographes, les voyageurs remplissent de gros volumes. Cet état d'esprit[^p103-1]
+: c'est la règle . Les témoignages recueillis par les ethnologistes, les mythographes, les voyageurs remplissent de gros volumes. Cet état d'esprit
 
 [p. 104] n'appartient pas en propre aux âges lointains ; il existe encore , il est contemporain, et pour le voir de ses yeux , il n'est pas nécessaire de s'enfoncer dans les pays vierges , car il s'en trouve de fréquentes survivances , même dans les pays civilisés
 
 « En somme, dit Tylor, il faut tenir comme accordé que , pour les races inférieures de l'humanité, le soleil et les étoiles , les arbres et les rivières , les vents et les nuages deviennent des créatures animées qui vivent comme les hommes et les bêtes, remplissant leurs fonctions spéciales dans la création
 
-ou bien encore que ce que l'œil humain peut atteindre n'est que l'instrument ou la matière dont dispose quelque être prodigieux, analogue à l'homme, qui se cache derrière les choses visibles . Les bases sur lesquelles reposent de telles idées ne peuvent être amoindries aux proportions d'une fantaisie poétique ou d'une métaphore mal comprise ; elles s'appuient sur une vaste philosophie de la nature, certainement rude et primitive, mais conséquente et sérieuse » ¹ .
+ou bien encore que ce que l'œil humain peut atteindre n'est que l'instrument ou la matière dont dispose quelque être prodigieux, analogue à l'homme, qui se cache derrière les choses visibles . Les bases sur lesquelles reposent de telles idées ne peuvent être amoindries aux proportions d'une fantaisie poétique ou d'une métaphore mal comprise ; elles s'appuient sur une vaste philosophie de la nature, certainement rude et primitive, mais conséquente et sérieuse » [^p104-1] .
 
 La seconde opération de l'esprit, inséparable, comme nous l'avons dit, de la première, attribue à ces êtres imaginaires des qualités diverses, mais toutes importantes pour l'homme . Ils sont bons ou mauvais, utiles ou nuisibles, faibles ou puissants, cléments ou inexorables . On reste stupéfait devant la pullulation de ces génies sans nombre auxquels pas un phénomène naturel , pas un acte de la vie, pas une forme de maladie n'échappe, et ces croyances demeurent inébranlables même chez des tribus en contact avec de vieilles civilisations
 
-. L'homme primitif vit et se meut dans les chimères incessantes de son imagination³ .[^p104-1][^p104-2][^p104-3]
+. L'homme primitif vit et se meut dans les chimères incessantes de son imagination[^p104-3] .[^p104-2]
 
 [p. 105] Finalement, le mécanisme psychologique du moment de la création est très simple . Il dépend d'un unique facteur précédemment étudié : la pensée par analogie . Il s'agit d'abord
 
@@ -1252,7 +1252,7 @@ légions d'êtres lui font cortège . La nature entière à laquelle il prête u
 
 Ces légendes et récits d'aventures qui constituent la matière de la mythologie, qui les a créés ? Probablement des inspirés , prêtres ou prophètes ; peut-être sont-ils sortis des songes , de l'hallucination, des troubles de la folie ; ils dérivent de plusieurs sources . Quelle qu'en soit l'origine , ils sont l'œuvre de ces esprits imaginatifs par excellence (que nous étudierons plus tard) qui, en face d'un événement quelconque , doivent en raison de leur nature bâtir un roman .
 
-Outre l'analogie, cette création imaginative a pour principal ressort la forme d'association précédemment décrite sous le nom de « constellation » . On sait qu'elle consiste en ce que l'évocation d'un groupe d'images est, dans certains cas , le résultat d'une tendance qui prévaut entre plusieurs possibles, à un moment donné. Cette opération a été exposée théoriquement avec quelques exemples individuels à l'appui ' ; mais pour en mesurer la valeur, il faut la voir agissant par grandes masses . Les mythes nous le permettent. Ordinairement, on les étudie dans leur développement historique , d'après leur distribution géographique ou leur caractère ethnique. Si on procède autrement, si on ne considère que leur matière , c'est-à-dire les thèmes assez peu nombreux sur lesquels l'imagination humaine a travaillé : phénomènes célestes, terrestres , déluges, origine de l'univers , de l'homme , etc. , on est surpris de l'extrême richesse des variations . Quelle diversité dans les mythes solaires ou de la création , de l'eau, du feu ! Ces variations sont[^p106-1]
+Outre l'analogie, cette création imaginative a pour principal ressort la forme d'association précédemment décrite sous le nom de « constellation » . On sait qu'elle consiste en ce que l'évocation d'un groupe d'images est, dans certains cas , le résultat d'une tendance qui prévaut entre plusieurs possibles, à un moment donné. Cette opération a été exposée théoriquement avec quelques exemples individuels à l'appui ' ; mais pour en mesurer la valeur, il faut la voir agissant par grandes masses . Les mythes nous le permettent. Ordinairement, on les étudie dans leur développement historique , d'après leur distribution géographique ou leur caractère ethnique. Si on procède autrement, si on ne considère que leur matière , c'est-à-dire les thèmes assez peu nombreux sur lesquels l'imagination humaine a travaillé : phénomènes célestes, terrestres , déluges, origine de l'univers , de l'homme , etc. , on est surpris de l'extrême richesse des variations . Quelle diversité dans les mythes solaires ou de la création , de l'eau, du feu ![^p106-1] Ces variations sont
 
 [p. 107] dues à des causes multiples qui ont orienté l'imagination tantôt dans un sens, tantôt dans l'autre . Signalons les principales
 
@@ -1274,15 +1274,15 @@ En tout cas, la création mythique apparut tôt. On peut l'inférer de l'insigne
 
 : le dragon qui veille sur les eaux célestes dont il s'est emparé , est blessé par Indra après une lutte héroïque et les restitue à la terre .
 
-Les cosmogonies, remarque Lang, fournissent un bon exemple du développement des mythes ; il est possible de marquer des étages et échelons suivant le degré d'intelligence et de culture . Les naturels de l'Océanie croient que le monde a été créé et organisé par des araignées , des sauterelles , des oiseaux divers . Des peuples plus avancés voient dans ces animaux puissants des dieux déguisés (telles sont certaines divinités mexicaines) . Plus tard enfin , toute trace d'animalité disparaît et le caractère du mythe est l'anthropomorphisme pur¹ . Kühn, dans
+Les cosmogonies, remarque Lang, fournissent un bon exemple du développement des mythes ; il est possible de marquer des étages et échelons suivant le degré d'intelligence et de culture . Les naturels de l'Océanie croient que le monde a été créé et organisé par des araignées , des sauterelles , des oiseaux divers . Des peuples plus avancés voient dans ces animaux puissants des dieux déguisés (telles sont certaines divinités mexicaines) . Plus tard enfin , toute trace d'animalité disparaît et le caractère du mythe est l'anthropomorphisme pur[^p108-1] . Kühn, dans
 
 un ouvrage spécial, a montré comment les stades successifs de l'évolution sociale s'expriment dans les stades successifs de la mythologie
 
-: mythes de cannibales, de chasseurs, de pasteurs , d'agriculteurs, de marins. En parlant de la sauvagerie pure, Max Müller admet au moins deux périodes (l'une panaryenne et l'autre indo-iranienne) antérieures à la période védique 2. Au cours de cette évolution lente , le travail de l'imagination sort peu à peu de l'enfantillage, devient de plus en plus complexe, subtil et raffiné.
+: mythes de cannibales, de chasseurs, de pasteurs , d'agriculteurs, de marins. En parlant de la sauvagerie pure, Max Müller admet au moins deux périodes (l'une panaryenne et l'autre indo-iranienne) antérieures à la période védique 2. Au cours de cette évolution lente , le travail de l'imagination sort peu à peu de l'enfantillage, devient de plus en plus complexe, subtil et raffiné.[^p108-2]
 
-Dans la race aryenne, l'époque védique, malgré son ritualisme sacerdotal, est considérée comme le moment par[^p108-1][^p108-2]
+Dans la race aryenne, l'époque védique, malgré son ritualisme sacerdotal, est considérée comme le moment par
 
-[p. 109] excellence de la floraison mythique . « Le mythe, dit Taine , n'est point ici [dans les Védas] un déguisement, mais une expression ; point de langage plus juste et plus souple ; il laisse entrevoir ou plutôt il fait apercevoir les formes des nuages , les mouvements de l'air, les changements des saisons , tous les accidents du ciel, du feu, de l'orage ; jamais la nature extérieure n'a rencontré une pensée aussi molle et aussi pliante pour s'y figurer avec l'inépuisable variété de ses apparences . Si ondoyante que soit la nature, cette imagination l'est autant¹ .>> Elle anime tout : non seulement le feu en général (Agni), mais les sept formes de la flamme , le bois qui l'allume, les dix doigts du sacrificateur, la prière elle-même et jusqu'à la balustrade qui enferme l'autel . C'est un exemple entre bien d'autres .
+[p. 109] excellence de la floraison mythique . « Le mythe, dit Taine , n'est point ici [dans les Védas] un déguisement, mais une expression ; point de langage plus juste et plus souple ; il laisse entrevoir ou plutôt il fait apercevoir les formes des nuages , les mouvements de l'air, les changements des saisons , tous les accidents du ciel, du feu, de l'orage ; jamais la nature extérieure n'a rencontré une pensée aussi molle et aussi pliante pour s'y figurer avec l'inépuisable variété de ses apparences . Si ondoyante que soit la nature, cette imagination l'est autant[^p109-1] .>> Elle anime tout : non seulement le feu en général (Agni), mais les sept formes de la flamme , le bois qui l'allume, les dix doigts du sacrificateur, la prière elle-même et jusqu'à la balustrade qui enferme l'autel . C'est un exemple entre bien d'autres .
 
 Les partisans de la théorie linguistique ont pu soutenir qu'à ce moment, chaque mot est un mythe, parce que chaque mot est un appellatif qui désigne une qualité ou un acte , transformés par l'imagination en substance . Max Müller a traduit une page d'Hésiode en substituant aux noms qui font images le langage analytique, abstrait, rationnel de nos jours : aussitôt toute la matière mythique s'évanouit. « Ainsi Séléné tient sous ses baisers Endymion endormi » devient cette formule sèche : Il fait nuit. Les plus habiles linguistes se déclarent souvent incapables de transposer la langue fluide de l'àge imaginatif en nos idiomes à notation algébrique
 
@@ -1290,7 +1290,7 @@ Les partisans de la théorie linguistique ont pu soutenir qu'à ce moment, chaqu
 
 Cet état mental qui, dans le développement libre de l'imagination,
 
-marque l'apogée , ne se rencontre plus actuellement que chez les mystiques et quelques poètes.[^p109-1][^p109-2]
+marque l'apogée , ne se rencontre plus actuellement que chez les mystiques et quelques poètes.[^p109-2]
 
 [p. 110] Le langage en a aussi conservé de nombreux vestiges dans des locutions courantes, mais dont la signification mythique est perdue : Le soleil se lève, la mer est perfide, le vent est furieux, la terre a soif, etc.
 
@@ -1366,7 +1366,7 @@ est le même dans les deux cas . L'illusion et la légende sont des imaginations
 
 La genèse psychologique des légendes étant ainsi établie en général, quels sont, d'après les faits, les procédés inconscients que l'imagination emploie pour les créer ? On peut en distinguer deux principaux.
 
-Le premier procédé est une fusion ou combinaison . Le mythe précède le fait ; le personnage ou l'événement historiques entrent dans le cadre d'un mythe préexistant. « Il faut que le moule mythique soit façonné avant qu'on y verse à l'état plus ou moins fluide le métal historique . >>> L'imagination avait créé une mythologie solaire, bien avant qu'elle s'incarnât chez les Grecs en Héraclès et ses exploits . « Il y a eu historiquement un Roland, peut-être un Arthur, mais la plupart des hauts faits que leur attribue la poésie du moyen âge avaient été accomplis longtemps auparavant par des héros mythiques dont on avait oublié jusqu'aux noms ¹ . >> Tantot, l'homme est totalement noyé dans le mythe et devient absolument légendaire ; tantôt il n'emprunte qu'une auréole qui le transfigure. C'est exactement ce qui se passe dans le phénomène plus simple de l'illusion[^p115-1]
+Le premier procédé est une fusion ou combinaison . Le mythe précède le fait ; le personnage ou l'événement historiques entrent dans le cadre d'un mythe préexistant. « Il faut que le moule mythique soit façonné avant qu'on y verse à l'état plus ou moins fluide le métal historique . >>> L'imagination avait créé une mythologie solaire, bien avant qu'elle s'incarnât chez les Grecs en Héraclès et ses exploits . « Il y a eu historiquement un Roland, peut-être un Arthur, mais la plupart des hauts faits que leur attribue la poésie du moyen âge avaient été accomplis longtemps auparavant par des héros mythiques dont on avait oublié jusqu'aux noms [^p115-1] . >> Tantot, l'homme est totalement noyé dans le mythe et devient absolument légendaire ; tantôt il n'emprunte qu'une auréole qui le transfigure. C'est exactement ce qui se passe dans le phénomène plus simple de l'illusion
 
 [p. 116] sensorielle ; tantôt le réel (la perception) est noyé dans les images , transformé, et l'élément objectif réduit à presque rien ; tantôt l'élément objectif reste le maître , mais avec des déformations nombreuses .
 
@@ -1420,7 +1420,7 @@ On a vu précédemment (chap. n), que le passage de Timagination reproductive à
 
 ascendante reprend son cours. Mais la faculté créatrice, selon sa nature et sa matière, se développe dans un ordre chronologique très net. Musique, arts plastiques, poésie, invention mécanique, imagination scientifique : tel est l'ordre ordinaire d'apparition.
 
-Dans la musique, sauf quelques enfants prodiges, on ne trouve guère de création personnelle avant douze ou treize ans . Comme exemple de précocité on peut citer Mozart trois ans, Mendelssohn cinq ans, Haydn quatre ans, Hændel douze ans, Weber douze ans, Schubert onze ans , Cherubini treize ans, et beaucoup d'autres . Les tardifs (Beethoven, Wagner, etc.) sont bien moins nombreux¹ .
+Dans la musique, sauf quelques enfants prodiges, on ne trouve guère de création personnelle avant douze ou treize ans . Comme exemple de précocité on peut citer Mozart trois ans, Mendelssohn cinq ans, Haydn quatre ans, Hændel douze ans, Weber douze ans, Schubert onze ans , Cherubini treize ans, et beaucoup d'autres . Les tardifs (Beethoven, Wagner, etc.) sont bien moins nombreux[^p120-1] .
 
 Dans les arts plastiques, la vocation et l'aptitude à créer se manifestent sensiblement plus tard ; en moyenne vers la quatorzième année : Giotto dix ans, Van Dyck dix ans , Raphaël huit ans, Guerchin huit ans, Greuze huit ans, Michel-Ange treize ans, A. Dürer quinze ans, Bernini douze ans ; Rubens et Jordaens furent aussi des précoces .
 
@@ -1428,7 +1428,7 @@ Dans la poésie ; on ne trouve pas d'œuvre ayant quelque valeur personnelle ava
 
 quelque réputation .
 
-Schiller et Byron débutent aussi à seize ans. On sait d'ailleurs que[^p120-1]
+Schiller et Byron débutent aussi à seize ans. On sait d'ailleurs que
 
 [p. 121] le talent des vers , au moins comme imitation, est fort précoce.
 
@@ -1490,13 +1490,13 @@ Laissons cette discussion que l'on ne peut guère trancher par des raisons pére
 
 ce qui est impossible - dépend de l'ambiance intellectuelle et sociale .
 
-Si , avec les psychologues américains¹ , nous appelons la disposition à innover « une variation spontanée »
+Si , avec les psychologues américains[^p126-1] , nous appelons la disposition à innover « une variation spontanée »
 
 (terme darwinien qui n'explique rien, mais qui est commode), on peut énoncer la loi suivante
 
 La tendance à la variation spontanée (invention) est toujours en raison inverse de la simplicité du milieu .
 
-Le milieu sauvage est par nature très simple et consé-[^p126-1]
+Le milieu sauvage est par nature très simple et consé-
 
 [p. 127] quemment homogène. Les races inférieures présentent un degré de différenciation bien moindre que les races supérieures ; chez elles , comme le remarque Jastrow (loc . cit. ) , la maturité physique et psychique est plus précoce et comme la période antérieure à l'âge adulte est l'époque plastique par excellence, cela diminue les chances d'écart du type commun . Aussi la comparaison entre les noirs et les blancs , entre les primitifs et les civilisés montre que, pour une population égale, la disproportion est énorme quant au nombre des novateurs .
 
@@ -1582,7 +1582,7 @@ et prend un caractère de fixité . La période d'incubation commence . Pour New
 
 << En ce moment, j'avais le résultat de quinze années de travail .
 
-» Darwin amasse des matériaux durant ses voyages , observe longtemps les plantes et les animaux ; puis, la lecture du livre de Malthus, faite par hasard , le frappe et fixe sa doctrine . Dans la création littéraire et artistique , de pareils exemples abondent¹ .
+» Darwin amasse des matériaux durant ses voyages , observe longtemps les plantes et les animaux ; puis, la lecture du livre de Malthus, faite par hasard , le frappe et fixe sa doctrine . Dans la création littéraire et artistique , de pareils exemples abondent[^p131-1] .
 
 La deuxième phase n'est qu'un moment, mais capital, celui de la trouvaille, où le créateur prononce son εὐρήκα. Avec elle , le travail est terminé en fait ou virtuellement .
 
@@ -1614,19 +1614,19 @@ etc. Sans essayer une énumération d'exemples qui serait longue , on peut dire 
 
 Entre les deux procédés, la différence est plutôt superfi- . cielle que foncière. Comparons-les sommairement.
 
-La première phase est chez les uns longue et pleinement consciente ; chez les autres elle paraît nulle , égale à zéro ; il n'en est rien, parce qu'il existe une disposition naturelle ou acquise qui rétablit l'équivalence. « J'eus longtemps , disait Schumann, l'habitude de me torturer le cerveau, et[^p131-1]
+La première phase est chez les uns longue et pleinement consciente ; chez les autres elle paraît nulle , égale à zéro ; il n'en est rien, parce qu'il existe une disposition naturelle ou acquise qui rétablit l'équivalence. « J'eus longtemps , disait Schumann, l'habitude de me torturer le cerveau, et
 
-[p. 132] maintenant j'ai à peine besoin de me gratter le front. Tout vient naturellement¹ . »
+[p. 132] maintenant j'ai à peine besoin de me gratter le front. Tout vient naturellement[^p132-1] . »
 
 La seconde phase est à peu près semblable dans les deux cas ; elle n'est qu'un moment, mais essentiel : celui de la synthèse imaginative .
 
 Enfin la troisième phase est très courte pour les uns, parce que le travail utile est fait et qu'il ne reste plus qu'à parachever ou vérifier ; elle est longue pour les autres, parce qu'il faut passer de l'idée entrevue à la réalisation complète , et que le travail préparatoire fait défaut : en sorte que le second procédé de création n'est abrégé qu'en apparence .
 
-Telles me paraissent les deux formes principales du mécanisme de la création . Ce sont des genres ; ils comportent des espèces et des variétés qu'une étude patiente et minutieuse des procédés propres aux divers inventeurs nous révélerait. Je rappelle que ceci n'a pas la prétention d'être une monographie de l'invention, mais un essai² .
+Telles me paraissent les deux formes principales du mécanisme de la création . Ce sont des genres ; ils comportent des espèces et des variétés qu'une étude patiente et minutieuse des procédés propres aux divers inventeurs nous révélerait. Je rappelle que ceci n'a pas la prétention d'être une monographie de l'invention, mais un essai[^p132-2] .
 
 Les deux procédés ci-dessus décrits me paraissent correspondre en gros à la distinction souvent établie entre l'imagination intuitive, spontanée, et l'imagination combinatrice , réfléchie .
 
-La forme intuitive, essentiellement synthétique, se rencontre surtout chez les imaginatifs purs, les enfants, les sauvages . L'esprit marche de l'unité aux détails . L'idée génératrice ressemble à ces concepts qui, dans les sciences , sont à grande portée, parce qu'ils condensent une généralisation riche en conséquences . Le sujet est d'abord embrassé[^p132-1][^p132-2]
+La forme intuitive, essentiellement synthétique, se rencontre surtout chez les imaginatifs purs, les enfants, les sauvages . L'esprit marche de l'unité aux détails . L'idée génératrice ressemble à ces concepts qui, dans les sciences , sont à grande portée, parce qu'ils condensent une généralisation riche en conséquences . Le sujet est d'abord embrassé
 
 [p. 133] d'un bloc ; le développement est organique et on peut le comparer au processus embryologique qui fait sortir de l'ovule fécondé un être vivant, suivant une évolution rigoureuse, analogue à une logique immanente. On a souvent cité comme type de cette forme de création une lettre où Mozart expose son mode de composition. Récemment (et c'est pourquoi je ne la transcris pas), on l'a soupçonnée d'être apocryphe
 
@@ -1929,7 +1929,7 @@ qu'elle résulte de dispositions naturelles ou acquises , dépend de conditions 
 
 et de conditions psychologiques
 
-: l'acquisition et l'organisation des images appropriées. <<< On apprend à peindre et à sculpter, écrit un peintre contemporain, comme à coudre , à broder, à scier, à limer ou à[^p156-2]
+: l'acquisition et l'organisation des images appropriées.[^p156-2] <<< On apprend à peindre et à sculpter, écrit un peintre contemporain, comme à coudre , à broder, à scier, à limer ou à
 
 [p. 157] tourner »
 
@@ -1937,9 +1937,9 @@ et de conditions psychologiques
 
 2º Une autre forme d'imagination plastique emploie les mots comme évocateurs d'impressions vives et nettes de vision, de contact, de mouvements
 
-: c'est la forme poétique , littéraire. On en trouve un type achevé dans Victor Hugo . Au su de tous, il suffit d'ouvrir ses œuvres au hasard pour assister à un défilé d'images étincelantes ; mais quelle est leur nature ? Ses récents biographes, guidés par la psychologie contemporaine, ont bien montré qu'elles peignent toujours des visions ou des mouvements . Il est inutile d'en produire des preuves . Quelques faits ont une portée plus générale et éclairent sa psychologie. Ainsi on nous apprend << qu'il [ V. Hugo] ne dictait jamais, ne rimait jamais de mémoire et ne composait qu'en écrivant ; car il estime que l'écriture a sa physionomie et veut voir les mots . Th . Gautier, qui le connaît et le comprend si bien, dit : « Moi aussi , je crois qu'il faut surtout dans la phrase un rythme oculaire . Un livre est fait pour être lu, non parlé à haute voix » . On ajoute que « Victor Hugo ne parlait pas ses vers , mais les écrivait et souvent il les illustrait en marge , comme s'il avait besoin de fixer l'image pour trouver le mot correspondant » ¹ .
+: c'est la forme poétique , littéraire. On en trouve un type achevé dans Victor Hugo . Au su de tous, il suffit d'ouvrir ses œuvres au hasard pour assister à un défilé d'images étincelantes ; mais quelle est leur nature ? Ses récents biographes, guidés par la psychologie contemporaine, ont bien montré qu'elles peignent toujours des visions ou des mouvements . Il est inutile d'en produire des preuves . Quelques faits ont une portée plus générale et éclairent sa psychologie. Ainsi on nous apprend << qu'il [ V. Hugo] ne dictait jamais, ne rimait jamais de mémoire et ne composait qu'en écrivant ; car il estime que l'écriture a sa physionomie et veut voir les mots . Th . Gautier, qui le connaît et le comprend si bien, dit : « Moi aussi , je crois qu'il faut surtout dans la phrase un rythme oculaire . Un livre est fait pour être lu, non parlé à haute voix » . On ajoute que « Victor Hugo ne parlait pas ses vers , mais les écrivait et souvent il les illustrait en marge , comme s'il avait besoin de fixer l'image pour trouver le mot correspondant » [^p157-1] .
 
-Après les représentations visuelles, celles de mouvement : le clocher troue l'horizon, le mont crève la nue , le mont se soulève et regarde, « les antres froids ouvrent la bouche avec stupeur, » le vent fouette avec la cascade le rocher tout en pleurs , l'épine est la plante exaspérée ; et ainsi sans fin .[^p157-1]
+Après les représentations visuelles, celles de mouvement : le clocher troue l'horizon, le mont crève la nue , le mont se soulève et regarde, « les antres froids ouvrent la bouche avec stupeur, » le vent fouette avec la cascade le rocher tout en pleurs , l'épine est la plante exaspérée ; et ainsi sans fin .
 
 [p. 158] Un fait plus curieux (nous aurons à noter l'opération inverse dans le chapitre suivant) c'est la transposition des sensations ou images sonores , et comme telles sans forme ni figure , en images visuelles et motrices : « Les dentelles du son que le fifre découpe ; la flûte monte sur l'alto comme sur la colonne un frêle chapiteau » . Cette imagination foncièrement plastique reste constante avec elle-même en . ramenant tout, spontanément, inconsciemment, à des déțerminations de l'espace .
 
@@ -2007,7 +2007,7 @@ Sa constitution psychologique est réductible à deux éléments
 
 : des images peu concrètes , des schémas se rapprochant des idées générales ; pour les associer, des rapports surtout rationnels, produits de la logique de l'intelligence plus que de la logique des sentiments . Il lui manque la poussée violente et brusque des émotions qui donne l'éclat aux images, les fait surgir et les groupe en combinaisons imprévues . C'est une forme d'invention et de construction qui est l'œuvre du raisonnement plus que de l'imagination proprement dite .
 
-Par suite, n'est-il pas paradoxal de la rapprocher de l'imagination plastique, comme l'espèce du genre ? N'essayant ici aucune classification, il serait oiseux d'entamer une discussion sur ce sujet : notons seulement les ressem-[^p161-1]
+Par suite, n'est-il pas paradoxal de la rapprocher de l'imagination plastique, comme l'espèce du genre ?[^p161-1] N'essayant ici aucune classification, il serait oiseux d'entamer une discussion sur ce sujet : notons seulement les ressem-
 
 [p. 162] blances et les différences . Les deux sont surtout objectives ; l'une parce qu'elle est sensorielle , l'autre parce qu'elle est rationnelle . Les deux emploient des modes d'association analogues , dépendant plus de la nature des choses que de l'impression personnelle du sujet. L'opposition n'existe que sur un point : l'une est faite d'images vives qui se rapprochent de la perception ; l'autre est faite d'images ternes qui confinent au concept. L'imagination rationnelle est une imagination plastique desséchée et simplifiée .
 
@@ -2049,11 +2049,11 @@ Passons rapidement sur quelques manifestations très fréquentes , très connues
 
 1º La rêverie et les états qui s'en rapprochent. C'est peut- être l'échantillon le plus pur du genre ; mais il reste embryonnaire .
 
-2º L'esprit romanesque : ceux qui, en présence d'un événement quelconque ou d'une personne inconnue, spontanément, involontairement, malgré eux, construisent un roman de toute pièces. J'en donnerai plus loin des exemples d'après [p. 166] les confidences écrites de plusieurs personnes¹ . Ils créent, en ce qui concerne eux-mêmes ou les autres, un monde imaginaire qu'ils substituent au monde réel.
+2º L'esprit romanesque : ceux qui, en présence d'un événement quelconque ou d'une personne inconnue, spontanément, involontairement, malgré eux, construisent un roman de toute pièces. J'en donnerai plus loin des exemples d'après [p. 166] les confidences écrites de plusieurs personnes[^p166-1] . Ils créent, en ce qui concerne eux-mêmes ou les autres, un monde imaginaire qu'ils substituent au monde réel.
 
 3º L'esprit chimérique . Ici nous sortons des formes frustes ; l'imagination diffluente prend corps et s'affirme par sa permanence . Au fond, l'esprit chimérique, c'est l'esprit romanesque tendant à s'objectiver. L'invention qui n'était d'abord qu'une construction tout intérieure
 
-et reconnue pour telle, aspire à devenir extérieure, à se réaliser ; et comme elle se hasarde dans un monde qui n'est pas le sien, qui exige les conditions rigoureuses de l'imagination pratique, elle échoue ou ne réussit que par chance et très rarement. A cette catégorie appartiennent ces inventeurs connus de tous, qui sont féconds en procédés pour enrichir eux ou leur pays par des entreprises agricoles , minières , industrielles , commerciales ; les faiseurs d'utopies financières, politiques, sociales , etc. C'est une forme d'imagination orientée contre nature vers la pratique² .
+et reconnue pour telle, aspire à devenir extérieure, à se réaliser ; et comme elle se hasarde dans un monde qui n'est pas le sien, qui exige les conditions rigoureuses de l'imagination pratique, elle échoue ou ne réussit que par chance et très rarement. A cette catégorie appartiennent ces inventeurs connus de tous, qui sont féconds en procédés pour enrichir eux ou leur pays par des entreprises agricoles , minières , industrielles , commerciales ; les faiseurs d'utopies financières, politiques, sociales , etc. C'est une forme d'imagination orientée contre nature vers la pratique[^p166-2] .
 
 4º Le cadre s'élargit avec les mythes et conceptions religieuses
 
@@ -2061,7 +2061,7 @@ et reconnue pour telle, aspire à devenir extérieure, à se réaliser ; et comm
 
 En s'appuyant sur la linguistique, on a soutenu récemment que, chez les Aryens au moins , l'imagination n'a créé à l'origine que des dieux d'un instant (Augenblicksgötter)
 
-. Chaque fois que l'homme primitif éprouvait, en[^p166-1][^p166-2][^p166-3]
+.[^p166-3] Chaque fois que l'homme primitif éprouvait, en
 
 [p. 167] présence d'un phénomène, une émotion saisissante, il la traduisait par un nom ; la manifestation de ce qui était imaginé comme divin dans l'émotion ressentie. « Chaque émotion religieuse fait naître un nom nouveau c'est-à-dire une divinité nouvelle. Or, jamais l'imagination religieuse n'est identique à elle -même
 
@@ -2079,7 +2079,7 @@ et d'autres encore . Mais c'est dans la religion primitive des Hindous que l'on 
 
 les
 
-autres ... chacun d'eux est à son tour le dieu suprême ; aucun d'eux n'est une personne distincte ; chacun d'eux n'est qu'un moment de la nature, capable, suivant le moment de l'aperception, de contenir son voisin ou d'être contenu par son voisin. A ce titre, ils pullulent et fourmillent . Chaque moment de la nature et chaque moment de l'aperception peut en fournir un¹ . » Remarquons, en effet, que pour l'adorateur, le dieu à qui il s'adresse, et pendant qu'il le prie, est toujours le plus puissant et le plus grand
+autres ... chacun d'eux est à son tour le dieu suprême ; aucun d'eux n'est une personne distincte ; chacun d'eux n'est qu'un moment de la nature, capable, suivant le moment de l'aperception, de contenir son voisin ou d'être contenu par son voisin. A ce titre, ils pullulent et fourmillent . Chaque moment de la nature et chaque moment de l'aperception peut en fournir un[^p168-1] . » Remarquons, en effet, que pour l'adorateur, le dieu à qui il s'adresse, et pendant qu'il le prie, est toujours le plus puissant et le plus grand
 
 : cette qualification passe brusquement de l'un à l'autre , sans souci de la contradiction . Sous cette versatilité , quelques auteurs ont cru découvrir une vague conception panthéistique. Rien de plus douteux que cette interprétation en profondeur . Il est plus conforme à la psychologie de ces
 
@@ -2087,7 +2087,7 @@ esprits naïfs d'admettre tout simplement un état extrême d' << impressionnism
 
 explicable d'après la logique des sentiments .
 
-Ainsi, l'antithèse est complète entre l'imagination qui a créé le polythéisme net et arrêté des Grecs et celle d'où sont issues ces divinités flottantes qui laissent pressentir la[^p168-1]
+Ainsi, l'antithèse est complète entre l'imagination qui a créé le polythéisme net et arrêté des Grecs et celle d'où sont issues ces divinités flottantes qui laissent pressentir la
 
 [p. 169] doctrine future de la Maya , de l'illusion universelle autre forme plus raffinée de l'imagination diffluente . Notons enfin que l'imagination hellénique a réalisé ses dieux par anthropomorphisme : ils sont la forme idéale d'un attribut humain : majesté, beauté, force , sagesse , etc. L'imagination hindoue procède par symbolisme : ses divinités ont plusieurs têtes , plusieurs bras , plusieurs jambes pour signifier l'intelligence et la puissance sans limites ; ou bien des formes animales , comme Ganésa , dieu de la sagesse , avec sa tête d'éléphant, réputé le plus intelligent des animaux .
 
@@ -2171,13 +2171,13 @@ Dans les livres sacrés du bouddhisme , ordinairement secs, pauvres , décoloré
 
 2º L'imagination numérique, dans les sciences, ne revêt pas ces formes délirantes ; elle a l'avantage de reposer sur une base objective ; elle est le substitut d'une réalité non représentable . La culture scientifique que l'on accuse quelquefois d'éteindre l'imagination , lui ouvre au contraire un champ bien plus vaste que l'esthétique . L'astronomie se complaît dans l'infini du temps et de l'espace : elle voit les mondes naître , briller d'abord de la lueur faible d'une nébuleuse, resplendir comme des soleils, se refroidir, se couvrir de taches , se condenser. La géologie suit le développement de notre terre à travers les bouleversements et les cataclysmes ; elle entrevoit un lointain avenir où notre globe, dépourvu de la vapeur d'eau atmosphérique qui la protège, périra par le froid .
 
-Les hypothèses de la physique et de la chimie sur les atomes et les molécules ne sont pas inférieures en hardiesse aux spéculations de l'imagination hindoue. « Les physiciens ont déterminé le volume de la molécule et en s'en rapportant aux nombres qu'ils donnent, on trouve qu'un cube d'un millimètre de côté (à peu près le volume d'un œuf de ver à soie) contiendrait un nombre de molécules au moins égal au cube de dix millions , c'està-dire de l'unité suivie de 21 zéros . L'un d'eux a calculé que si l'on devait les compter et qu'on en détachât par la pensée un million à chaque seconde, on en aurait pour plus de 250 millions d'années : l'être qui aurait commencé cette tâche à l'époque où notre système solaire ne devait être qu'une informe nébuleuse , ne serait pas encore au bout ¹ . »
+Les hypothèses de la physique et de la chimie sur les atomes et les molécules ne sont pas inférieures en hardiesse aux spéculations de l'imagination hindoue. « Les physiciens ont déterminé le volume de la molécule et en s'en rapportant aux nombres qu'ils donnent, on trouve qu'un cube d'un millimètre de côté (à peu près le volume d'un œuf de ver à soie) contiendrait un nombre de molécules au moins égal au cube de dix millions , c'està-dire de l'unité suivie de 21 zéros . L'un d'eux a calculé que si l'on devait les compter et qu'on en détachât par la pensée un million à chaque seconde, on en aurait pour plus de 250 millions d'années : l'être qui aurait commencé cette tâche à l'époque où notre système solaire ne devait être qu'une informe nébuleuse , ne serait pas encore au bout [^p175-1] . »
 
-La biologie avec ses éléments protoplasmatiques, ses plastides, ses gemmules, ses hypothèses sur la transmission[^p175-1]
+La biologie avec ses éléments protoplasmatiques, ses plastides, ses gemmules, ses hypothèses sur la transmission
 
 [p. 176] héréditaire par subdivisions infinitésimales ; la théorie de l'évolution qui parle couramment de périodes de 100 000 ans ; bien d'autres thèses scientifiques que j'omets, offrent une belle matière à l'imagination numérique .
 
-Plus d'un savant s'est même servi de cette forme d'imagination pour se donner le plaisir d'une construction de pure fantaisie . Ainsi Von Baer supposant que nous puissions percevoir autrement les portions de la durée, imagine les changements qui en résulteraient pour nous dans l'aspect de la nature. « Si nous étions capables de noter distinctement 10000 événements en une seconde, au lieu de 10, comme nous le faisons actuellement en moyenne, et si notre vie devait contenir le même nombre d'impressions , elle pourrait être 1 000 fois plus courte . Nous pourrions vivre moins d'un mois et personnellement ne rien connaître du changement des saisons . Si nous étions nés en hiver, nous croirions à l'été comme nous croyons maintenant aux chaleurs de l'époque carbonifère. Les mouvements des êtres organisés seraient si lents pour nos sens qu'ils seraient inférés , non perçus. Le soleil se tiendrait immobile dans le ciel, la lune presque sans changements et ainsi de suite . Mais renversons l'hypothèse et supposons un être qui ne puisse avoir que la 1000° partie des sensations que nous éprouvons dans un temps donné et par conséquent 1000 fois aussi longtemps. Les étés et les hivers seraient pour lui comme des quarts d'heure . Les champignons et plantes à croissance rapide viendraient si vite à l'existence qu'ils lui paraîtraient des créations instantanées ; les mouvements des animaux seraient aussi invisibles que le sont pour nous ceux des boulets de canons . Le soleil traverserait le ciel comme un rapide météore, laissant derrière lui une brillante trace de feu, et ainsi de suite ¹ . »[^p176-1]
+Plus d'un savant s'est même servi de cette forme d'imagination pour se donner le plaisir d'une construction de pure fantaisie . Ainsi Von Baer supposant que nous puissions percevoir autrement les portions de la durée, imagine les changements qui en résulteraient pour nous dans l'aspect de la nature. « Si nous étions capables de noter distinctement 10000 événements en une seconde, au lieu de 10, comme nous le faisons actuellement en moyenne, et si notre vie devait contenir le même nombre d'impressions , elle pourrait être 1 000 fois plus courte . Nous pourrions vivre moins d'un mois et personnellement ne rien connaître du changement des saisons . Si nous étions nés en hiver, nous croirions à l'été comme nous croyons maintenant aux chaleurs de l'époque carbonifère. Les mouvements des êtres organisés seraient si lents pour nos sens qu'ils seraient inférés , non perçus. Le soleil se tiendrait immobile dans le ciel, la lune presque sans changements et ainsi de suite . Mais renversons l'hypothèse et supposons un être qui ne puisse avoir que la 1000° partie des sensations que nous éprouvons dans un temps donné et par conséquent 1000 fois aussi longtemps. Les étés et les hivers seraient pour lui comme des quarts d'heure . Les champignons et plantes à croissance rapide viendraient si vite à l'existence qu'ils lui paraîtraient des créations instantanées ; les mouvements des animaux seraient aussi invisibles que le sont pour nous ceux des boulets de canons . Le soleil traverserait le ciel comme un rapide météore, laissant derrière lui une brillante trace de feu, et ainsi de suite [^p176-1] . »
 
 [p. 177] Les conditions psychologiques de cette variété de l'imagination créatrice sont donc : l'absence de limitation dans le temps et l'espace, d'où la possibilité d'un mouvement sans fin dans tous les sens, puis la possibilité de remplir l'un et l'autre d'une myriade d'événements vaguement entrevus . Ces événements n'étant pas susceptibles de représentations nettes quant à leur nature et à leur quantité, échappant même à une représentation schématique, l'imagination construit avec des substituts de substituts, qui sont ici des nombres .
 
@@ -2187,7 +2187,7 @@ L'imagination musicale mériterait une monographie . Ce travail exigeant, outre 
 
 : montrer qu'elle a sa marque propre, particulière ; qu'elle est le type de l'imagination affective.
 
-J'ai essayé d'établir ailleurs¹ que contrairement à l'opinion commune
+J'ai essayé d'établir ailleurs[^p177-1] que contrairement à l'opinion commune
 
 des
 
@@ -2195,15 +2195,15 @@ psychologues,
 
 il existe au moins chez beaucoup d'hommes une mémoire affective , c'est- àdire un souvenir des émotions proprement dites, et non des seules conditions intellectuelles qui les ont causées et accompagnées . Je soutiens qu'il existe aussi une forme de l'imagination créatrice qui est purement affective, dont la matière est faite exclusivement d'états d'âme , dispositions , désirs , aspirations, sentiments et émotions de toute sorte et que c'est celle du compositeur génial, du musicien-né.
 
-Le musicien vit dans un monde qui lui est propre . « Il[^p177-1]
+Le musicien vit dans un monde qui lui est propre . « Il
 
-[p. 178] porte dans sa tête un système cohérent d'images tonales où chaque élément a sa place et sa valeur ; il perçoit les différences délicates des sons, des timbres ; il arrive par l'exercice à en pénétrer les combinaisons les plus variées et la connaissance des relations harmoniques est pour lui ce que le dessin et la connaissance des couleurs sont pour le peintre : intervalles et accords , rythmes et tonalités sont comme des types auxquels il rapporte ses perceptions actuelles et qu'il fait entrer dans les constructions merveilleuses de sa fantaisie¹ .
+[p. 178] porte dans sa tête un système cohérent d'images tonales où chaque élément a sa place et sa valeur ; il perçoit les différences délicates des sons, des timbres ; il arrive par l'exercice à en pénétrer les combinaisons les plus variées et la connaissance des relations harmoniques est pour lui ce que le dessin et la connaissance des couleurs sont pour le peintre : intervalles et accords , rythmes et tonalités sont comme des types auxquels il rapporte ses perceptions actuelles et qu'il fait entrer dans les constructions merveilleuses de sa fantaisie[^p178-1] .
 
 »
 
-Ces éléments sonores et leurs combinaisons sont les mots d'une langue spéciale, très claire pour quelques-uns, impétrable à d'autres . On a parlé à satiété du vague de l'expression musicale ; on s'est complu à soutenir que chacun peut l'interpréter à sa guise . Assurément, il faut reconnaitre que le langage émotionnel n'a pas la précision du langage intellectuel ; mais il en est de la musique comme tout autre idiome : il y a ceux qui ne comprennent pas , ceux qui comprennent à moitié et par suite commettent des contre-sens perpétuels , ceux qui comprennent bien ; et dans cette dernière catégorie, il y a des degrés , d'après l'aptitude à saisir les nuances , finesses et subtilités de la langue² .
+Ces éléments sonores et leurs combinaisons sont les mots d'une langue spéciale, très claire pour quelques-uns, impétrable à d'autres . On a parlé à satiété du vague de l'expression musicale ; on s'est complu à soutenir que chacun peut l'interpréter à sa guise . Assurément, il faut reconnaitre que le langage émotionnel n'a pas la précision du langage intellectuel ; mais il en est de la musique comme tout autre idiome : il y a ceux qui ne comprennent pas , ceux qui comprennent à moitié et par suite commettent des contre-sens perpétuels , ceux qui comprennent bien ; et dans cette dernière catégorie, il y a des degrés , d'après l'aptitude à saisir les nuances , finesses et subtilités de la langue[^p178-2] .
 
-Les matériaux nécessaires à cette forme de la création imaginative se sont amassés lentement. Bien des siècles ont passé depuis les premiers âges où la voix humaine et[^p178-1][^p178-2]
+Les matériaux nécessaires à cette forme de la création imaginative se sont amassés lentement. Bien des siècles ont passé depuis les premiers âges où la voix humaine et
 
 [p. 179] quelques instruments simples qui l'imitaient, ont traduit des émotions simples, jusqu'à l'époque où les efforts de l'antiquité et du moyen âge ont enfin fourni à l'imagination musicale les moyens de s'exprimer tout entière, ont permis les architectures de sons, complexes et hardies. Peut-être le développement de la musique, lent et tardif comparé à celui des autres arts, est-il dû, au moins en partie, à ce que l'imagination affective qui en est le principal ressort (la musique imitative, descriptive, pittoresque, n'étant qu'un épisode et un accessoire) , faite , à l'encontre de l'imagination sensorielle, d'états
 
@@ -2235,13 +2235,13 @@ Rappelons il faut que je l'exprime musicalement.
 
 encore que Weber a transformé en l'une des meilleures scènes de son Freyschütz (celle de la Fonte des balles) << un paysage qu'il avait contemplé près de la cascade de
 
-[p. 181] Geroldsau , à l'heure où la lune argente de ses rayons le bassin dans lequel l'eau s'engouffre et bouillonne » ¹ . - En résumé, les événements traversent le cerveau du compositeur , l'ébranlent et sortent transformés en une construction musicale .
+[p. 181] Geroldsau , à l'heure où la lune argente de ses rayons le bassin dans lequel l'eau s'engouffre et bouillonne » [^p181-1] . - En résumé, les événements traversent le cerveau du compositeur , l'ébranlent et sortent transformés en une construction musicale .
 
 L'imagination plastique nous fournit une contre-épreuve ; elle transpose en sens inverse. L'impression musicale traverse le cerveau, l'ébranle, mais en sort transformée en représentations visuelles. Nous en avons déjà relevé des exemples dans V. Hugo (chapitre précédent). Gæthe , on le sait, était peu doué pour la musique. Après s'être fait exécuter par le jeune Mendelssohn une ouverture de Bach, il s'écria : « Comme cela est pompeux et grandiose. Il me semble voir une procession de hauts personnages, en habits de gala , descendant les marches d'un escalier gigantesque » .
 
 On peut généraliser la question et se demander si , entre l'imagination musicale vraie et l'imagination plastique, il existe un antagonisme naturel. La solution dans le sens affirmatif ne paraît guère récusable. J'avais entrepris une enquête qui, à l'origine, visait un autre but. Il s'est trouvé qu'elle répondait assez nettement à la question ci-dessus : la conclusion a surgi d'elle-même , sans la chercher ; ce qui me mettait à l'abri de toute opinion préconçue .
 
-La demande adressée oralement à un grand nombre de personnes était celle-ci : L'audition ou même le souvenir d'un morceau de musique symphonique suscite-t-elle en vous des images visuelles , et de quelle nature ? Pour des raisons faciles à comprendre, la musique dramatique était expressément exclue : l'appareil du théâtre, des décors, de la[^p181-1]
+La demande adressée oralement à un grand nombre de personnes était celle-ci : L'audition ou même le souvenir d'un morceau de musique symphonique suscite-t-elle en vous des images visuelles , et de quelle nature ? Pour des raisons faciles à comprendre, la musique dramatique était expressément exclue : l'appareil du théâtre, des décors, de la
 
 [p. 182] mise en scène imposant dans le présent des perceptions visuelles qui tendent à se répéter plus tard sous la forme de souvenirs .
 
@@ -2275,13 +2275,13 @@ dit << assiégé d'images visuelles
 
 Ici l'audition musicale
 
-agit évidemment comme excitant ¹ .
+agit évidemment comme excitant [^p183-1] .
 
 1
 
 En somme, autant qu'il est permis, en psychologie, d'employer des formules générales - et avec cette réserve qu'elles conviennent à la majorité non à la totalité des cas
 
-on peut dire : Que, durant le travail de l'imagination musicale, l'apparition d'images visuelles est l'exception ; que lorsque cette forme d'imagination est faible, elle est la règle .[^p183-1]
+on peut dire : Que, durant le travail de l'imagination musicale, l'apparition d'images visuelles est l'exception ; que lorsque cette forme d'imagination est faible, elle est la règle .
 
 [p. 184] Au reste , ce résultat de l'observation est tout à fait d'accord avec la logique. Entre l'imagination affective dont le type pur est l'intériorité, et l'imagination visuelle, foncièrement objective, l'antithèse est irréductible . Le langage intellectuel, la parole, est un agencement des mots qui sont les signes d'objets, de qualités , de rapports, d'extraits des choses ; pour être compris, ils doivent évoquer dans la conscience les représentations correspondantes . Le langage émotionnel , la musique, est un agencement de sons successifs ou simultanés , de mélodies et d'harmonies qui sont les signes d'états affectifs : pour être compris, ils doivent évoquer dans la conscience les dispositions affectives correspondantes . Or, chez les non-musiciens, ce pouvoir d'évocation est faible ; les combinaisons sonores ne suscitent que des états intérieurs superficiels et instables . L'excitation extérieure , celle des sons, suit la ligne de moindre résistance et, agissant suivant la nature psychique de l'individu , tend à susciter des images objectives, des tableaux, des scènes visuelles bien ou mal adaptées .
 
@@ -2373,7 +2373,7 @@ d'autres se
 
 extérieur
 
-: la manière d'écrire et de [p. 188] parler, la mode d'expression quel qu'il soit. « Le style qui domine chez les mystiques , dit Hartmann, est métaphorique à l'excès, tantôt plat et commun, plus souvent boursoufflé et emphatique. L'excès de l'imagination s'y accuse d'ordinaire dans la pensée et dans la forme qui la traduit... Un signe du mysticisme qu'on a cru pouvoir prendre souvent comme un signe essentiel, c'est l'obscurité, l'inintelligibilité du langage : on le trouve chez presque tous ceux qui ont écrit ¹ .
+: la manière d'écrire et de [p. 188] parler, la mode d'expression quel qu'il soit. « Le style qui domine chez les mystiques , dit Hartmann, est métaphorique à l'excès, tantôt plat et commun, plus souvent boursoufflé et emphatique. L'excès de l'imagination s'y accuse d'ordinaire dans la pensée et dans la forme qui la traduit... Un signe du mysticisme qu'on a cru pouvoir prendre souvent comme un signe essentiel, c'est l'obscurité, l'inintelligibilité du langage : on le trouve chez presque tous ceux qui ont écrit [^p188-1] .
 
 » On peut ajouter que, même dans les arts plastiques , les symbolistes et décadents ont essayé dans la mesure possible des procédés qui indiquent, suggèrent , laissent transparaître au lieu de réaliser et de fixer
 
@@ -2381,9 +2381,9 @@ extérieur
 
 Ce caractère d'obscurité tient à deux causes . D'abord, l'imagination mystique est guidée par la logique du sentiment qui est purement subjective, pleine de soubresauts , de secousses et de lacunes. Ensuite elle emploie la langue des images , surtout visuelles : langue dont l'idéal est le vague comme l'idéal de la langue verbale est la précision. Tout cela peut se résumer d'un mot : le caractère de subjectivité inhérent au symbole. En paraissant parler comme tout le monde, le mystique se sert d'un idiome personnel : les choses devenant des symboles au gré de sa fantaisie, il n'use pas de signes à valeur fixe et universellement admise . Rien d'étonnant si nous ne le comprenons pas .
 
-2º Un extraordinaire abus de l'analogie et de la comparaison sous ses diverses formes (allégorie, parabole, etc. ) conséquence naturelle d'un mode de pensée qui procède par symboles , non par concepts . On a dit avec raison « que la force unique qui féconde le vaste champ du mys[^p188-1]
+2º Un extraordinaire abus de l'analogie et de la comparaison sous ses diverses formes (allégorie, parabole, etc. ) conséquence naturelle d'un mode de pensée qui procède par symboles , non par concepts . On a dit avec raison « que la force unique qui féconde le vaste champ du mys
 
-[p. 189] ticisme , c'est l'analogie¹ » . Un grand ennemi des mystiques , Bossuet, l'avait déjà remarqué
+[p. 189] ticisme , c'est l'analogie[^p189-1] » . Un grand ennemi des mystiques , Bossuet, l'avait déjà remarqué
 
 : « L'un des caractères de ces auteurs , c'est de pousser à bout les allégories . » Imaginations ardentes, ayant à leur service des sens surexcités , ils prodiguent les métamorphoses et les figures , avec l'espoir d'expliquer les mystères du monde. On sait à quel travail d'invention les Védas, la Bible , le Coran et autres livres sacrés ont donné lieu . La distinction entre le sens littéral et le sens figuré qui est l'arbitraire sans limites , a conféré aux commentateurs une liberté d'imaginer égale à celle des créateurs de mythes .
 
@@ -2391,13 +2391,13 @@ Tout cela est encore assez raisonnable ; mais l'imagination livrée à elle-mêm
 
 Rappelons aussi la mystique des nombres , différente de l'imagination numérique précédemment étudiée .
 
-Ici, le nombre n'est plus le moyen que la pensée emploie pour se mouvoir dans le temps et l'espace ; il devient un symbole et une matière à constructions chimériques. De là ces « nombres sacrés » qui pullulent dans les anciennes religions de l'Orient : 3, symbole de la triade ; 4, symbole[^p189-1]
+Ici, le nombre n'est plus le moyen que la pensée emploie pour se mouvoir dans le temps et l'espace ; il devient un symbole et une matière à constructions chimériques. De là ces « nombres sacrés » qui pullulent dans les anciennes religions de l'Orient : 3, symbole de la triade ; 4, symbole
 
 [p. 190] des éléments cosmiques ; 7, représentant la lune et les planètes , etc. Outre ces significations fantaisistes, il y a des inventions plus compliquées : calculer d'après les lettres d'un nom , transformées en nombre , les années de vie d'un malade, les auspices d'un mariage, etc. La philosophie pythagoricienne, comme l'a indiqué Zeller, est la forme systématique de ce mysticisme mathématique pour qui les nombres sont, non les symboles de rapports quantitatifs, mais l'essence même des choses .
 
 Ce symbolisme à outrance qui rend si fragiles les créations du mysticisme et qui ne donne en pâture à l'esprit que de l'entrevu, a pourtant une source indéniable d'énergie dans sa prestigieuse aptitude à suggérer. Sans doute, la suggestion existe aussi dans l'art, mais bien moindre, pour des raisons que nous allons indiquer .
 
-3º Un autre caractère de l'imagination mystique est la nature et le degré de la croyance qui l'accompagne. Nous savons¹ que lorsqu'une représentation entre dans la conscience, même sous la forme d'un souvenir, d'une reproduction purement passive, elle apparaît d'abord et momentanément comme aussi réelle qu'une perception . Bien plus encore les constructions imaginatives . Mais cette illusion a des degrés et chez les mystiques elle atteint le maximum .
+3º Un autre caractère de l'imagination mystique est la nature et le degré de la croyance qui l'accompagne. Nous savons[^p190-1] que lorsqu'une représentation entre dans la conscience, même sous la forme d'un souvenir, d'une reproduction purement passive, elle apparaît d'abord et momentanément comme aussi réelle qu'une perception . Bien plus encore les constructions imaginatives . Mais cette illusion a des degrés et chez les mystiques elle atteint le maximum .
 
 Dans
 
@@ -2415,15 +2415,15 @@ que
 
 d'une croyance conditionnelle et provisoire. Il faut que la construction en images justifie son droit à l'existence, pour le savant en expliquant, pour le praticien en prenant corps dans une invention qui sert, qui est adaptée à son but.
 
-Dans l'ordre esthétique, la création s'accompagne d'une[^p190-1]
+Dans l'ordre esthétique, la création s'accompagne d'une
 
 [p. 191] croyance momentanée. La fantaisie, remarque Gross, est nécessairement liée à l'apparence. Son caractère spécial ne consiste pas dans la seule liberté des images
 
 : ce qui la distingue de l'association et de la mémoire, c'est que ce qui est simplement représenté est tenu pour vrai. Il y a chez le créateur une illusion consciente
 
-(bewusste Selbsttaüschung) ; le plaisir esthétique est un état d'oscillation entre l'apparence et la réalité¹ .
+(bewusste Selbsttaüschung) ; le plaisir esthétique est un état d'oscillation entre l'apparence et la réalité[^p191-1] .
 
-L'imagination mystique suppose une croyance inconditionnelle et permanente. Les mystiques sont des croyants au sens complet ; ils ont la foi. Ce caractère leur est propre et il a son origine dans l'intensité de l'état affectif qui suscite et soutient cette forme de l'invention . L'intuition ne devient objet de connaissance qu'en se revêtant d'images . On a beaucoup discuté sur la valeur objective des ces formes symboliques qui sont les matériaux de l'imagination mystique. Ce débat n'importe pas ici : mais nous pouvons faire cette remarque positive , que l'imagination constructive n'a jamais atteint la forme hallucinatoire aussi souvent que chez les mystiques. Les visions, les contacts , les voix extérieures, les voix du dedans et « sans paroles » que l'on considère actuellement comme des hallucinations, psycho-motrices : tout cela se rencontre à chaque instant dans leurs œuvres, jusqu'à en devenir banal. Or, sur la nature de ces états psychiques, il n'y a que deux solutions : l'une naturelle que nous venons d'indiquer ; l'autre surnaturelle (celle de la plupart des théologiens) qui tient ces phénomènes pour réels et révélateurs . Dans l'un et l'autre cas, l'imagination mystique nous apparaît comme tendant naturellement vers l'objectivité ; elle s'extériorise par un mouvement spontané qui la pose sur le même plan que la[^p191-1]
+L'imagination mystique suppose une croyance inconditionnelle et permanente. Les mystiques sont des croyants au sens complet ; ils ont la foi. Ce caractère leur est propre et il a son origine dans l'intensité de l'état affectif qui suscite et soutient cette forme de l'invention . L'intuition ne devient objet de connaissance qu'en se revêtant d'images . On a beaucoup discuté sur la valeur objective des ces formes symboliques qui sont les matériaux de l'imagination mystique. Ce débat n'importe pas ici : mais nous pouvons faire cette remarque positive , que l'imagination constructive n'a jamais atteint la forme hallucinatoire aussi souvent que chez les mystiques. Les visions, les contacts , les voix extérieures, les voix du dedans et « sans paroles » que l'on considère actuellement comme des hallucinations, psycho-motrices : tout cela se rencontre à chaque instant dans leurs œuvres, jusqu'à en devenir banal. Or, sur la nature de ces états psychiques, il n'y a que deux solutions : l'une naturelle que nous venons d'indiquer ; l'autre surnaturelle (celle de la plupart des théologiens) qui tient ces phénomènes pour réels et révélateurs . Dans l'un et l'autre cas, l'imagination mystique nous apparaît comme tendant naturellement vers l'objectivité ; elle s'extériorise par un mouvement spontané qui la pose sur le même plan que la
 
 [p. 192] réalité . Quelque conclusion qu'on adopte, nul type d'imagination n'a au même degré ce don d'énergie et de permanence dans la croyance .
 
@@ -2435,11 +2435,11 @@ I. La forme totale - cosmologique
 
 est la conception du monde par un pur imaginatif. Elle est rare , anormale, et ne se rencontre guère de nos jours que chez quelques artistes , rêveurs ou esthètes , à titre de survivance et en passant. Ainsi V. Hugo voit dans chaque lettre de l'alphabet l'imitation figurée d'un des objets essentiels du savoir humain
 
-« A, c'est le toit, le pignon avec sa traverse, l'arche , arx ; D , c'est le dos ; E, c'est le soubassement, la console, etc. , en sorte que la maison de l'homme et son architecture , le corps de l'homme et sa structure, puis la justice, la musique, l'église, la guerre, la moisson, la géométrie, la montagne, etc., tout cela est contenu dans l'alphabet par la mystique vertu de la forme¹ . radical encore est Gérard de Nerval (qui d'ailleurs était souvent halluciné)
+« A, c'est le toit, le pignon avec sa traverse, l'arche , arx ; D , c'est le dos ; E, c'est le soubassement, la console, etc. , en sorte que la maison de l'homme et son architecture , le corps de l'homme et sa structure, puis la justice, la musique, l'église, la guerre, la moisson, la géométrie, la montagne, etc., tout cela est contenu dans l'alphabet par la mystique vertu de la forme[^p192-1] . radical encore est Gérard de Nerval (qui d'ailleurs était souvent halluciné)
 
 : « A certains moments, tout prenait pour moi des aspects nouveaux : des voix secrètes sortaient de la plante, de l'arbre, des animaux, des plus humbles insectes , pour m'avertir et m'encourager. Les objets sans forme et sans vie avaient des tours mystérieux dont je comprenais le sens » . Pour d'autres, contemporains, « le monde réel prend des airs de féerie » .
 
-» Plus[^p192-1]
+» Plus
 
 [p. 193] Le moyen âge, époque d'imagination vive et de faible culture rationnelle, a abondé dans ce sens. « Beaucoup pensaient que , sur cette terre, tout est signe, tout est figure et que le visible ne vaut que par l'invisible qu'il recouvre . >>> Plantes , animaux, il n'est rien qui ne devienne matière à interprétation ;
 
@@ -2457,21 +2457,21 @@ RIBOT.
 
 Imagination créatrice .
 
-13 [p. 194] mysticisme latent, parce qu'elle suppose un inconnu qui dépasse les sens, il se rencontre des religions très peu mystiques en fait : celles des sauvages, strictement utilitaires ; chez les Barbares, les cultes guerriers des Germains, des Aztèques ; chez les civilisés, Rome et la Grèce ¹ . Cependant, si l'imagination mystique n'est pas confinée dans les limites de la pensée religieuse, l'histoire nous montre qu'elle y a atteint son plus complet épanouissement.
+13 [p. 194] mysticisme latent, parce qu'elle suppose un inconnu qui dépasse les sens, il se rencontre des religions très peu mystiques en fait : celles des sauvages, strictement utilitaires ; chez les Barbares, les cultes guerriers des Germains, des Aztèques ; chez les civilisés, Rome et la Grèce [^p194-1] . Cependant, si l'imagination mystique n'est pas confinée dans les limites de la pensée religieuse, l'histoire nous montre qu'elle y a atteint son plus complet épanouissement.
 
 Pour être bref et rester strictement dans notre sujet, remarquons que, dans toutes les grandes religions à évolution complète, il s'est produit un antagonisme entre les raisonneurs et les imaginatifs , entre les dogmatistes et les mystiques . Les premiers , architectes rationalistes, édifient à l'aide d'idées abstraites, de rapports et d'opérations logiques , déduisent et induisent ; les seconds , architectes imaginatifs , sont assez peu soucieux de ce savant appareil . Ceux-ci - nous n'avons rien à dire des autres
 
-excellent dans les créations vivantes, parce que le ressort qui les meut est dans leurs sentiments, « dans leur cœur » , parce qu'ils parlent une langue faite d'images concrètes et que, par suite, leur langue tout en symboles est en même temps une construction . L'imagination mystique est une transformation de l'imagination mythique, qui consiste en ce que le mythe se change en symboles. Il lui est impossible d'échapper à cette nécessité. D'une part, les états affectifs ne peuvent rester vagues, diffus, purement intérieurs ; il faut qu'ils se déterminent dans le temps et dans l'espace, se condensent en images constituant un personnage , une légende, un événement, un rite (ainsi Bouddha figurant les dispositions à la pitié, à la résignation, résumant les[^p194-1]
+excellent dans les créations vivantes, parce que le ressort qui les meut est dans leurs sentiments, « dans leur cœur » , parce qu'ils parlent une langue faite d'images concrètes et que, par suite, leur langue tout en symboles est en même temps une construction . L'imagination mystique est une transformation de l'imagination mythique, qui consiste en ce que le mythe se change en symboles. Il lui est impossible d'échapper à cette nécessité. D'une part, les états affectifs ne peuvent rester vagues, diffus, purement intérieurs ; il faut qu'ils se déterminent dans le temps et dans l'espace, se condensent en images constituant un personnage , une légende, un événement, un rite (ainsi Bouddha figurant les dispositions à la pitié, à la résignation, résumant les
 
 [p. 195] aspirations vers le repos final). D'autre part, les idées abstraites , les concepts purs répugnant à la nature du mystique , il faut aussi qu'ils se revêtent d'images qui les laissent entrevoir (ainsi les rapports entre la divinité et l'homme dans les diverses formes de la communion ; l'idée de la protection divine dans les incarnations , les médiateurs , etc) . Mais les images employées ne sont pas sèches et décolorées à la manière des mots qui, par un long usage , ont perdu toute valeur représentative directe et ne sont plus que des marques ou étiquettes. Symboliques , c'està-dire concrètes (nous l'avons vu) , elles sont des substituts directs de la réalité et elles diffèrent autant des mots que le dessin et la peinture diffèrent de nos signes alphabétiques qui en sont, pourtant, des dérivés et des abrégés .
 
-Toutefois , il faut remarquer que si « le fait mystique est un effort naïf pour appréhender l'absolu, un mode de penser symbolique et non dialectique, qui vit de symboles et trouve en eux la seule expression qui lui convienne¹ » , il semble que cette phase imaginative n'a été qu'une forme inférieure pour certains esprits qui ont essayé de la dépasser par l'extase, aspirant à saisir le principe dernier comme unité pure, sans image et sans forme
+Toutefois , il faut remarquer que si « le fait mystique est un effort naïf pour appréhender l'absolu, un mode de penser symbolique et non dialectique, qui vit de symboles et trouve en eux la seule expression qui lui convienne[^p195-1] » , il semble que cette phase imaginative n'a été qu'une forme inférieure pour certains esprits qui ont essayé de la dépasser par l'extase, aspirant à saisir le principe dernier comme unité pure, sans image et sans forme
 
 : ce que le rationalisme métaphysique espère atteindre par d'autres procédés et par une autre voie. Si intéressantes que soient, pour la psychologie, ces tentatives d'entraînement progressif, par leur élimination illusoire ou réelle de tout élément symbolique, elles deviennent étrangères à notre sujet et nous ne pouvons pas nous y arrêter .
 
-III. « L'histoire montre que la philosophie n'a fait que transformer des idées de provenance mystique et substi[^p195-1]
+III. « L'histoire montre que la philosophie n'a fait que transformer des idées de provenance mystique et substi
 
-[p. 196] tuer à la forme des images et aux affirmations non démontrées la forme et les affirmations d'un système rationnel ¹ . » Cette déclaration d'un métaphysicien nous dispense d'insister .
+[p. 196] tuer à la forme des images et aux affirmations non démontrées la forme et les affirmations d'un système rationnel [^p196-1] . » Cette déclaration d'un métaphysicien nous dispense d'insister .
 
 Quand on cherche la différence entre le symbolisme religieux et le symbolisme métaphysique (ou philosophique) , elle se trouve dans la nature des éléments constitutifs . Orienté dans le sens religieux, le symbolisme mystique suppose deux éléments principaux : l'imagination et le sentiment. Orienté dans le sens métaphysique, il suppose l'imagination et un élément rationnel assez faible. Cette substitution entraîne quelques déviations appréciables du type primitif. La construction est d'une plus grande régularité logique. En outre,
 
@@ -2483,7 +2483,7 @@ les matériaux, quoiqu'ils ressemblent encore à des images symboliques, tendent
 
 Dans
 
-cette reconstruction imaginaire du monde, on pourrait établir des étages d'après la fragilité croissante des systèmes , qui dépend elle-même de la quantité et de la qualité des hypothèses . De Plotin, par exemples, aux créations délirantes des Gnostiques et des Kabbalistes, la progression est manifeste . Avec ceux-ci , on entre dans le monde de la fantaisie débridée qui, au lieu de romans humains , invente des romans cosmiques . Ici apparaissent les êtres allégoriques mentionnés plus haut, moitié concepts, moitié sym-[^p196-1]
+cette reconstruction imaginaire du monde, on pourrait établir des étages d'après la fragilité croissante des systèmes , qui dépend elle-même de la quantité et de la qualité des hypothèses . De Plotin, par exemples, aux créations délirantes des Gnostiques et des Kabbalistes, la progression est manifeste . Avec ceux-ci , on entre dans le monde de la fantaisie débridée qui, au lieu de romans humains , invente des romans cosmiques . Ici apparaissent les êtres allégoriques mentionnés plus haut, moitié concepts, moitié sym-
 
 [p. 197] boles
 
@@ -2635,7 +2635,7 @@ Dans les sciences expérimentales à inventer des procédés de recherche ou de 
 
 d'où son analogie , signalée ci-dessus, avec l'imagination pratique . Au reste , l'influence réciproque de ces deux formes d'imagination est [p. 209] d'une observation banale : la découverte scientifique permet l'invention de nouveaux instruments ; l'invention de nouveaux instruments permet des expériences de plus en plus difficiles et délicates .
 
-L'unique remarque à ajouter est celle-ci : cette imagination constructive du troisième moment est la seule qui se rencontre chez beaucoup de savants. Il leur manque l'invention géniale, mais ils trouvent les détails, additions , corrections , perfectionnements . Un auteur récent distingue : ceux qui ont créé l'hypothèse, préparé l'expérience et imaginé les appareils appropriés ; ceux qui ont imaginé l'hypothèse et l'expérience, mais se sont servis d'appareils déjà inventés ; ceux qui ayant trouvé l'hypothèse faite et démontrée , ont conçu un nouveau procédé de vérification¹ . L'imagination scientifique s'appauvrit suivant cette marche décroissante qui, d'ailleurs, est sans rapport avec la rigueur du raisonnement et la solidité de la méthode .
+L'unique remarque à ajouter est celle-ci : cette imagination constructive du troisième moment est la seule qui se rencontre chez beaucoup de savants. Il leur manque l'invention géniale, mais ils trouvent les détails, additions , corrections , perfectionnements . Un auteur récent distingue : ceux qui ont créé l'hypothèse, préparé l'expérience et imaginé les appareils appropriés ; ceux qui ont imaginé l'hypothèse et l'expérience, mais se sont servis d'appareils déjà inventés ; ceux qui ayant trouvé l'hypothèse faite et démontrée , ont conçu un nouveau procédé de vérification[^p209-1] . L'imagination scientifique s'appauvrit suivant cette marche décroissante qui, d'ailleurs, est sans rapport avec la rigueur du raisonnement et la solidité de la méthode .
 
 En négligeant les espèces et variétés, on peut réduire les caractères fondamentaux de l'imagination scientifique à ce qui suit :
 
@@ -2645,7 +2645,7 @@ Elle a pour matériaux des concepts , dont le degré d'abstraction varie suivant
 
 Elle n'emploie que les formes d'association à base objective et à rapports logiques rigoureux, quoique sa mission soit de former des combinaisons nouvelles , « les découvertes consistant dans le rapprochement d'idées susceptibles de se joindre et qui étaient isolées jusqu'alors
 
-» 2[^p209-1][^p209-2]
+»[^p209-2] 2
 
 [p. 210] (Laplace) . Toute association à base affective est absolument exclue .
 
@@ -2695,7 +2695,7 @@ Sans nous inquiéter des catégories, d'ailleurs peu nombreuses , dans lesquelle
 
 3º 11 faut, en effet, que le principe fondamental sorte de l'état d'involution et justifie sa validité universelle en expliquant tout. C'est le troisième moment où le procédé scientifique de la vérification est remplacé par un procédé de construction .
 
-Les métaphysiques imaginatives ont toutes un fond dynamique : les idées platoniciennes , la monadologie, la [p. 213] philosophie de la nature de Schelling, la volonté de Schopenhauer et l'inconscient de Hartmann, les mystiques , les systèmes qui supposent une âme du monde, etc. Constructions demi abstraites, demi poétiques, elles sont pénétrées d'imagination non seulement dans la conception générale , mais dans les innombrables détails de son application ainsi les « fulgurations » de Leibniz, les variations si riches de Schopenhauer sur son thème principal, etc. Elles ont l'allure d'une œuvre d'art autant que de science (ceci n'est plus contesté par les métaphysiciens eux-mêmes¹ ) ; elles sont vivantes .
+Les métaphysiques imaginatives ont toutes un fond dynamique : les idées platoniciennes , la monadologie, la [p. 213] philosophie de la nature de Schelling, la volonté de Schopenhauer et l'inconscient de Hartmann, les mystiques , les systèmes qui supposent une âme du monde, etc. Constructions demi abstraites, demi poétiques, elles sont pénétrées d'imagination non seulement dans la conception générale , mais dans les innombrables détails de son application ainsi les « fulgurations » de Leibniz, les variations si riches de Schopenhauer sur son thème principal, etc. Elles ont l'allure d'une œuvre d'art autant que de science (ceci n'est plus contesté par les métaphysiciens eux-mêmes[^p213-1] ) ; elles sont vivantes .
 
 Les métaphysiques rationalistes, au contraire, ont un aspect froid , qui les assimile aux sciences abstraites
 
@@ -2707,7 +2707,7 @@ Les métaphysiques rationalistes, au contraire, ont un aspect froid , qui les as
 
 Au reste , quelque opinion que l'on adopte sur sa valeur finale , il faut reconnaître que l'imagination des grands métaphysiciens , par l'originalité et la hardiesse de ses conceptions , par son adresse à parfaire toutes les parties de son œuvre , n'est inférieure à aucune autre forme
 
-: elle égale les plus hautes, si mème elle ne les dépasse .[^p213-1]
+: elle égale les plus hautes, si mème elle ne les dépasse .
 
 [p. 214]
 
@@ -2761,11 +2761,11 @@ exacte et un critérium sùr sont impossibles à trouver. C'est une notion flott
 
 : destinée, hasard, fatalité .
 
-Sans nous inquiéter de poser des limites arbitraires , prenons les faits pour ce qu'ils sont, sans contestation possible , c'est-à-dire des créations imaginaires, des fantaisies subjectives, n'ayant de réalité que pour ceux qui les admettent. Un recueil même sommaire des superstitions passées et présentes remplirait une bibliothèque. Outre celles qui ont une marque franchement religieuse , d'autres presque aussi nombreuses enveloppent la vie civile , naissance , mariage , mort, apparition et guérison des maladies, jours fastes et néfastes , mots propices ou fatidiques , augures tirés de la rencontre ou des actes de certains animaux . Cette liste serait sans fin¹ .
+Sans nous inquiéter de poser des limites arbitraires , prenons les faits pour ce qu'ils sont, sans contestation possible , c'est-à-dire des créations imaginaires, des fantaisies subjectives, n'ayant de réalité que pour ceux qui les admettent. Un recueil même sommaire des superstitions passées et présentes remplirait une bibliothèque. Outre celles qui ont une marque franchement religieuse , d'autres presque aussi nombreuses enveloppent la vie civile , naissance , mariage , mort, apparition et guérison des maladies, jours fastes et néfastes , mots propices ou fatidiques , augures tirés de la rencontre ou des actes de certains animaux . Cette liste serait sans fin[^p217-1] .
 
 Tout ce qu'on peut essayer ici, c'est de déterminer les conditions principales de cet état d'esprit, dont la psychologie est finalement
 
-assez simpliste. Nous répondrons[^p217-1]
+assez simpliste. Nous répondrons
 
 [p. 218] ainsi d'une manière indirecte et incomplète à la question du critérium .
 
@@ -2777,9 +2777,9 @@ Quant au mécanisme mental qui, mu par ce désir, produit les vaines imagination
 
 2º L'abus du raisonnement par analogie . Ce grand artisan de la création imaginative se contente de similitudes si vagues et de rapprochements si bizarres qu'il peut tout oser. La ressemblance n'est plus une qualité des choses qui s'impose à l'esprit, mais une hypothèse de l'esprit qui l'impose aux choses . L'astrologue groupe en << constellations » des étoiles distantes de milliards de lieues , croit y découvrir une forme animale , humaine ou tout autre et en déduit de prétendues influences . Cet astre est [p. 219] rougeâtre (Mars), signe de sang. Cet autre d'un éclat pur, argenté (Vénus) ou plombé (Saturne) agit d'une manière très différente . On sait quels savants édifices de conjectures et de pronostics ont été construits sur ces bases . Faut-il rappeler la pratique de l'envoûtement au moyen âge qui, même de nos jours , a encore des croyants parmi les esprits cultivés ! Les médecins du temps de Charles II, dit Lang , donnaient à leurs malades de la « poudre de momie
 
->> (momie pulvérisée), parce que « les momies ayant duré très longtemps , devaient prolonger la vie » . L'or potable a été un médicament très estimé ; l'or étant une substance parfaite devait produire une santé parfaite. Pour se débarrasser d'une maladie, rien de plus fréquent chez les primitifs que de figurer le malade par une image en bois ou en terre et d'agir sur la partie lésée à coups de flèche ou de couteau, pour anéantir le principe morbide¹ .
+>> (momie pulvérisée), parce que « les momies ayant duré très longtemps , devaient prolonger la vie » . L'or potable a été un médicament très estimé ; l'or étant une substance parfaite devait produire une santé parfaite. Pour se débarrasser d'une maladie, rien de plus fréquent chez les primitifs que de figurer le malade par une image en bois ou en terre et d'agir sur la partie lésée à coups de flèche ou de couteau, pour anéantir le principe morbide[^p219-1] .
 
-3º Enfin , il y a l'influence magique attribuée à certains mots . C'est le triomphe de la théorie des nomina numina ; nous n'avons pas à y revenir . Mais le travail de l'esprit sur les mots , qui les érige en entités, qui leur confère la vie et la puissance , - bref, l'activité qui crée les mythes et est le fond dernier de toute imagination constructive , nous apparaît encore ici .[^p219-1][^p219-2]
+3º Enfin , il y a l'influence magique attribuée à certains mots . C'est le triomphe de la théorie des nomina numina ; nous n'avons pas à y revenir . Mais le travail de l'esprit sur les mots , qui les érige en entités, qui leur confère la vie et la puissance , - bref, l'activité qui crée les mythes et est le fond dernier de toute imagination constructive , nous apparaît encore ici .[^p219-2]
 
 [p. 220] Jusqu'ici nous n'avons considéré l'imagination pratique que sous l'aspect un peu mesquin des petites inventions , ou demi-morbide des chimères superstitieuses ; nous arrivons à sa forme supérieure, l'invention mécanique.
 
@@ -2853,7 +2853,7 @@ Elle suppose aussi une dissociation de l'expérience . L'inventeur défait, déc
 
 Elle n'est pas plus étrangère à l'inspiration que la création esthétique . L'histoire des inventions utiles est pleine d'hommes qui ont affronté les privations , les persécutions , la ruine, qui ont lutté à outrance contre parents et amis , entraînés par le besoin de créer, fascinés non par l'espoir d'un profit futur, mais par l'idée d'une mission imposée, d'une destinée à remplir. Qu'ont fait de plus les poètes et les artistes ? Cette idée fixe et irrésistible a conduit plus d'un à une mort prévue (découverte des explosifs, premiers essais de paratonnerre, les aéronautes et bien d'autres). Aussi, par une intuition juste, les civilisations primitives ont mis de pair les grands poètes et les grands inventeurs , érigés en dieux ou demi-dieux, personnages historiques ou légendaires en qui s'incarne le génie de la découverte : chez les Hindous , Viçvakarma ;
 
-chez les Grecs, Héphaïstos , Prométhée , Triptolème, Dédale et Icare. Les Chinois , malgré leur imagination sèche, ont fait de même et ainsi en Égypte, en Assyrie et partout. Bien plus, les arts pra-[p. 225]tiques et mécaniques ont traversé une première période d'immutabilité, durant laquelle l'artisan, soumis à des règles fixes et à une tradition indiscutée , se considère comme l'instrument d'une révélation divine¹ . Peu à peu , il est sorti de cet âge théologique pour entrer dans l'âge humain, où ayant pleine conscience d'être l'auteur de son œuvre , il travaille librement, change et modifie suivant son inspiration propre .
+chez les Grecs, Héphaïstos , Prométhée , Triptolème, Dédale et Icare. Les Chinois , malgré leur imagination sèche, ont fait de même et ainsi en Égypte, en Assyrie et partout. Bien plus, les arts pra-[p. 225]tiques et mécaniques ont traversé une première période d'immutabilité, durant laquelle l'artisan, soumis à des règles fixes et à une tradition indiscutée , se considère comme l'instrument d'une révélation divine[^p225-1] . Peu à peu , il est sorti de cet âge théologique pour entrer dans l'âge humain, où ayant pleine conscience d'être l'auteur de son œuvre , il travaille librement, change et modifie suivant son inspiration propre .
 
 L'invention mécanique et industrielle a, comme l'invention esthétique, sa période de préparation, d'apogée, de stagnation ; celles des précurseurs, des grands inventeurs , des simples perfectionnements . D'abord on essaie, on se dépense en efforts peu fructueux , on est venu trop tôt ou l'on manque de vision nette ; puis un grand imaginatif apparaît, éclate ; après lui le travail passe aux mains des dii minores , élèves ou imitateurs qui ajoutent, retranchent, modifient
 
@@ -2863,7 +2863,7 @@ L'invention mécanique et industrielle a, comme l'invention esthétique, sa pér
 
 (pour l'heure et les minutes)
 
-: alors survient un grand moment ; par l'usage des poids , la clepsydre devient une horloge d'abord massive et encombrante, plus tard allégée, devenant apte à marquer les secondes avec Tycho-Brahé : autre grand moment ; Huyghens invente le ressort à spirale qui remplace le poids, et l'horloge, simplifiée et rapetissée, peut devenir une montre .[^p225-1]
+: alors survient un grand moment ; par l'usage des poids , la clepsydre devient une horloge d'abord massive et encombrante, plus tard allégée, devenant apte à marquer les secondes avec Tycho-Brahé : autre grand moment ; Huyghens invente le ressort à spirale qui remplace le poids, et l'horloge, simplifiée et rapetissée, peut devenir une montre .
 
 [p. 226] II . Les CARACTÈRES SPÉCIAUX de l'imagination mécanique étant les marques propres à ce type, nous les étudierons plus longuement.
 
@@ -2879,7 +2879,7 @@ du besoin de créer de petits engins , imitant les instruments et les machines, 
 
 fois,
 
-il n'existe pas d'instinct créateur en général . Un homme connu par diverses inventions d'ordre pratique , m'écrit : « Autant que ma mémoire me le permet, je puis affirmer que chez moi la conception résulte toujours d'un besoin matériel ou moral¹ . Elle jaillit brusque[^p226-1]
+il n'existe pas d'instinct créateur en général . Un homme connu par diverses inventions d'ordre pratique , m'écrit : « Autant que ma mémoire me le permet, je puis affirmer que chez moi la conception résulte toujours d'un besoin matériel ou moral[^p226-1] . Elle jaillit brusque
 
 [p. 227] ment . Ainsi en 1887, un discours de Bismarck me causa une telle colère que je songeai immédiatement à armer ma patrie d'un fusil à répétition. J'avais déjà fait diverses démarches au ministère de la Guerre, quand j'appris que le système Lebel venait d'être adopté . Mon patriotisme fut entièrement satisfait, mais je possède encore le dessin du fusil que j'ai inventé. » Ce document mentionne deux ou trois autres inventions, nées dans des circonstances analogues , mais qui ont eu la chance d'être adoptées .
 
@@ -2901,7 +2901,7 @@ suivantes
 
 1º L'exploitation des forces de la nature s'est faite suivant leur degré comparatif de puissance .
 
-2º L'extension des instruments de travail a suivi une évolution logique dans le sens d'une complexité et d'une perfection croissantes¹ .
+2º L'extension des instruments de travail a suivi une évolution logique dans le sens d'une complexité et d'une perfection croissantes[^p228-1] .
 
 L'homme ,
 
@@ -2928,7 +2928,7 @@ fait cognée , etc. Ainsi s'est formé peu à peu un arsenal d'instruments . « 
 
 mais
 
-la tarière, la vrille, le villebrequin exécutent le même travail mieux et plus vite . Le couteau est préférable aux dents des carnassiers pour lacérer les chairs ; la houe à la patte de la taupe pour fouir la terre, la truelle à la queue du castor[^p228-1]
+la tarière, la vrille, le villebrequin exécutent le même travail mieux et plus vite . Le couteau est préférable aux dents des carnassiers pour lacérer les chairs ; la houe à la patte de la taupe pour fouir la terre, la truelle à la queue du castor
 
 [p. 229] pour battre et appliquer le mortier. La rame nous fait riva liser avec la nageoire des poissons, la voile avec l'aile de l'oiseau ; la quenouille et le fuseau nous permettent d'imiter l'industrie des insectes fileurs, etc. L'homme reproduit donc et résume dans ses artifices techniques les perfections éparses du monde animal. Il arrive même à les dépasser, parce qu'il applique, sous forme d'outils, des substances et des combinaisons d'effets qui ne peuvent figurer dans les organismes . » (Ouv . cité, p . 45-46 . ) Il n'est guère probable que la plupart de ces inventions soient issues d'une imitation volontaire des animaux ; mais, même dans cette hypothèse, il resterait encore une belle place pour le travail personnel et créateur. L'homme a produit par des procédés conscients ce que la vie réalise par des moyens qui nous échappent : aussi quelques métaphysiciens ont-ils pu soutenir que l'imagination créatrice est, en l'homme, un succédané des puissances génératrices de la nature .
 
@@ -2968,7 +2968,7 @@ imaginaire
 
 au
 
-moyen duquel on pourrait, dit-il, s'entre-parler de loin à l'aide d'aimants qui, par la correspondance de leurs mouvements, feraient marcher des aiguilles sur un cadran où seraient inscrits les vingt-quatre lettres de l'alphabet, et le dessin, qui accompagne le texte , figure à peu près le télégraphe Bréguet. » Mais l'auteur jugeait cela impossible « faute d'aimants qui aient une telle vertu » ¹ .[^p231-1]
+moyen duquel on pourrait, dit-il, s'entre-parler de loin à l'aide d'aimants qui, par la correspondance de leurs mouvements, feraient marcher des aiguilles sur un cadran où seraient inscrits les vingt-quatre lettres de l'alphabet, et le dessin, qui accompagne le texte , figure à peu près le télégraphe Bréguet. » Mais l'auteur jugeait cela impossible « faute d'aimants qui aient une telle vertu » [^p231-1] .
 
 [p. 232] Les inventions mécaniques qui échouent sont l'équivalent des hypothèses scientifiques erronées ou non vérifiées . Elles ne dépassent pas le stade de l'imagination pure ; mais elles sont instructives pour le psychologue, parce qu'elles mettent à nu le travail initiateur de la construction imaginaire dans l'ordre technique.
 
@@ -2986,7 +2986,7 @@ en 1780 , Lhomond, en France (1787) , Battencourt (Espagne) en 1787, un Allemand
 
 Ainsi donc, au fond, identité de nature entre l'imagination constructive du mécanicien et celle de l'artiste ; la différence n'est que dans le but, les moyens, les conditions . La formule
 
-: Ars homo additus naturae, a été trop souvent restreinte au sens esthétique ; elle doit comprendre tout ce qui est artifice . Sans doute, les esthètes soutiendront que leur imagination, à eux, est d'une qualité plus noble, plus relevée . Question litigieuse que la psychologie n'a pas à discuter ; car, pour elle, le mécanisme essentiel est le même dans les deux cas : un grand mécanicien est un poète à sa manière, parce qu'il crée des instruments qui simulent la vie. « Ces appareils qui, autrefois , faisaient s'émerveiller l'ignorance de la foule, méritent l'admiration réfléchie .... Quelque chose de la puissance qui a organisé la matière semble avoir passé dans ces combinaisons où la nature est imitée et dépassée . Nos machines, si variées de forme et d'emploi, représentent l'équivalent d'un règne nouveau , intermédiaire entre les corps bruts et les corps vivants , qui a la passivité des uns, l'activité des autres et les exploite tous à notre profit. Ce sont des contrefaçons d'êtres animés , capables d'imposer à des substances inertes un fonctionnement régulier. Leur ossature de fer, leurs organes d'acier, leurs muscles de cuir, leur âme de feu , leur souffle haletant ou de fumée, le rythme de leurs mouvements , parfois même leurs cris stridents ou plaintifs qui expriment l'effort et simulent la douleur : tout contribue à leur donner une animation fantastique, fantôme et rêve d'une vie inorganique * . »[^p233-1][^p233-2]
+: Ars homo additus naturae, a été trop souvent restreinte au sens esthétique ; elle doit comprendre tout ce qui est artifice . Sans doute, les esthètes soutiendront que leur imagination, à eux, est d'une qualité plus noble, plus relevée . Question litigieuse que la psychologie n'a pas à discuter ; car, pour elle, le mécanisme essentiel est le même dans les deux cas : un grand mécanicien est un poète à sa manière, parce qu'il crée des instruments qui simulent la vie. « Ces appareils qui, autrefois , faisaient s'émerveiller l'ignorance de la foule, méritent l'admiration réfléchie .... Quelque chose de la puissance qui a organisé la matière semble avoir passé dans ces combinaisons où la nature est imitée et dépassée . Nos machines, si variées de forme et d'emploi, représentent l'équivalent d'un règne nouveau , intermédiaire entre les corps bruts et les corps vivants , qui a la passivité des uns, l'activité des autres et les exploite tous à notre profit. Ce sont des contrefaçons d'êtres animés , capables d'imposer à des substances inertes un fonctionnement régulier. Leur ossature de fer, leurs organes d'acier, leurs muscles de cuir, leur âme de feu , leur souffle haletant ou de fumée, le rythme de leurs mouvements , parfois même leurs cris stridents ou plaintifs qui expriment l'effort et simulent la douleur : tout contribue à leur donner une animation fantastique, fantôme et rêve d'une vie inorganique * . »[^p233-2][^p233-1]
 
 [p. 234] CHAPITRE
 
@@ -3042,7 +3042,7 @@ raisonnement inductif ou
 
 déductif
 
-(par exemple le chimiste qui prévoit une réaction) ; l'imagination, c'est- à-dire une construction représentative . Quel est ici le procédé prépondérant ? Évidemment le premier, puisqu'il s'agit non d'une hypothèse de fantaisie, mais de l'adaptation d'expériences anciennes à un cas nouveau. L'intuition ressemble bien plus aux opérations logiques [p. 237] qu'aux combinaisons imaginatives. On peut l'assimiler à un raisonnement inconscient, si l'on ne craint pas l'espèce de contradiction inhérente à ce terme qui suppose une opération logique sans conscience des moyens termes . Bien que répréhensible, il est peut-être préférable à d'autres explications proposées, telles que automatisme, habitude , instinct, connexions nerveuses . Carpenter qui, comme promoteur de la cérébration inconsciente, mérite d'être consulté , assimile cet état à une action réflexe . Il transcrit¹ en terminant une lettre que Stuart Mill lui écrivit à ce sujet et où il dit en substance que cette aptitude se rencontre chez les personnes qui ont de l'expérience , mais qui tendent vers la pratique et n'attachent pas beaucoup d'importance à la théorie .
+(par exemple le chimiste qui prévoit une réaction) ; l'imagination, c'est- à-dire une construction représentative . Quel est ici le procédé prépondérant ? Évidemment le premier, puisqu'il s'agit non d'une hypothèse de fantaisie, mais de l'adaptation d'expériences anciennes à un cas nouveau. L'intuition ressemble bien plus aux opérations logiques [p. 237] qu'aux combinaisons imaginatives. On peut l'assimiler à un raisonnement inconscient, si l'on ne craint pas l'espèce de contradiction inhérente à ce terme qui suppose une opération logique sans conscience des moyens termes . Bien que répréhensible, il est peut-être préférable à d'autres explications proposées, telles que automatisme, habitude , instinct, connexions nerveuses . Carpenter qui, comme promoteur de la cérébration inconsciente, mérite d'être consulté , assimile cet état à une action réflexe . Il transcrit[^p237-1] en terminant une lettre que Stuart Mill lui écrivit à ce sujet et où il dit en substance que cette aptitude se rencontre chez les personnes qui ont de l'expérience , mais qui tendent vers la pratique et n'attachent pas beaucoup d'importance à la théorie .
 
 Toute intuition se concrète donc en un jugement équivalant à
 
@@ -3058,7 +3058,7 @@ qualité innée, dévolue aux
 
 uns ,
 
-refusée aux[^p237-1]
+refusée aux
 
 [p. 238] autres ; on nait avec elle , comme on nait adroit ou maladroit
 
@@ -3096,11 +3096,11 @@ période s'est réduit à créer des procédés de plus en plus simples et rapid
 
 L'apparition du grand commerce a dépendu de l'état de l'agriculture , de l'industrie, des voies de communications , des conditions économiques , sociales , de l'extension politique .
 
-Elle s'est produite vers la fin de la République romaine . Après
+Elle s'est produite vers la fin de la République romaine .[^p239-1] Après
 
 l'interruption du moyen âge,
 
-l'essor reprend avec les cités italiennes, la ligne hanséatique ; au xve siècle avec les grandes découvertes maritimes ; au xvı siècle avec les Conquistadores , avides à la fois d'aventures et d'enrichissement ; plus tard, avec des expéditions[^p239-1]
+l'essor reprend avec les cités italiennes, la ligne hanséatique ; au xve siècle avec les grandes découvertes maritimes ; au xvı siècle avec les Conquistadores , avides à la fois d'aventures et d'enrichissement ; plus tard, avec des expéditions
 
 [p. 240] mixtes où des négociants équipent à frais communs et quelquefois accompagnent des bandes armées qui combattent pour leur compte ; enfin, vient la constitution des grandes Compagnies commerciales qu'on a ingénieusement appelées « des Conquistadores en chambre » .
 
@@ -3134,7 +3134,7 @@ L'élément rationnel fléchit , s'efface et le spéculateur est lancé dans l'a
 
 2º Un second caractère propre à l'imagination commerciale, c'est l'emploi exclusif de représentations schématiques . Bien que ce procédé se rencontre aussi dans les sciences et surtout dans les inventions sociales, le type imaginatif que nous étudions a le privilège d'en user sans exceptions . C'est donc le moment convenable pour les caractériser.
 
-J'entends par images schématiques celles qui, de leur nature, sont intermédiaires entre l'image concrète et le concept pur ; mais plus rapprochées du concept. Nous. avons déjà signalé des modes assez divers de représenta-[^p242-1]
+J'entends par images schématiques celles qui, de leur nature, sont intermédiaires entre l'image concrète et le concept pur ; mais plus rapprochées du concept. Nous.[^p242-1] avons déjà signalé des modes assez divers de représenta-
 
 [p. 243] tions : les images concrètes , matériaux propres à la création plastique et mécanique ; les abstraits émotionnels de l'imagination diffluente ; les images affectives dont le type se trouve chez les musiciens ; les images symboliques familières aux mystiques. Il peut sembler abusif d'ajouter une autre catégorie à cette liste. Ce n'est pourtant pas une vaine subtilité . En fait, il n'existe pas d'images en général qui, suivant la conception vulgaire, resteraient des « copies >>> de la réalité . Même leur répartition en visuelles, auditives , motrices , etc. , ne suffit pas, parce qu'elle ne les distingue que d'après leur origine. Il y a d'autres différences . Nous avons vu que l'image, comme tout ce qui participe à la vie, subit des corrosions , pertes , déformations et transformations
 
@@ -3162,9 +3162,9 @@ dans le cas actuel
 
 à la notion unique de <<< valeur » : elle ne diffère plus du pur concept.
 
-La construction commerciale et financière ne peut se faire autrement. Tandis que l'artiste, le mécanicien batissent avec des images concrètes , représentations directes des choses , l'imagination commerciale ne peut agir directement ni sur les choses, ni sur leurs représentations immédiates , parce que, dès qu'elle a dépassé l'àge primitif ; elle exige une substitution à généralisation croissante
+La construction commerciale et financière ne peut se faire autrement.[^p244-1] Tandis que l'artiste, le mécanicien batissent avec des images concrètes , représentations directes des choses , l'imagination commerciale ne peut agir directement ni sur les choses, ni sur leurs représentations immédiates , parce que, dès qu'elle a dépassé l'àge primitif ; elle exige une substitution à généralisation croissante
 
-: les[^p244-1]
+: les
 
 [p. 245] matières deviennent des valeurs qui sont elles-mêmes réductibles à des signes . Par suite, elle procède comme dans la position et solution des problèmes abstraits où , après avoir substitué aux choses et à leurs rapports des chiffres ou des lettres, le calcul agit sur les signes et par contre-coup sur les choses .
 
@@ -3188,7 +3188,7 @@ numéraire, en imprimant au papier d'échange le cachet de l'autorité publique 
 
 #### III
 
-Nous avons dit plus haut que le commerce, dans ses manifestations supérieures, est une forme de la guerre ¹.[^p246-1]
+Nous avons dit plus haut que le commerce, dans ses manifestations supérieures, est une forme de la guerre [^p246-1].
 
 [p. 247] Ici donc serait le lieu d'étudier l'imagination militaire . Ce sujet ne peut être traité que par un homme du métier ; aussi je me bornerai à quelques brèves remarques , appuyées sur des renseignements personnels ou puisées aux sources .
 
@@ -3228,7 +3228,7 @@ En lui [Napoléon] , dit le mème auteur, il y avait du poète et l'on pourrait 
 
 #### VII
 
-L'Imagination utopique¹ .
+L'Imagination utopique[^p250-1] .
 
 L'esprit humain, lorsqu'il crée, ne peut employer que deux catégories de matériaux pour incarner son idée :
 
@@ -3238,7 +3238,7 @@ L'esprit humain, lorsqu'il crée, ne peut employer que deux catégories de maté
 
 (instincts, passions, sentiments , idées et actes). La création esthétique est la forme désintéressée ; l'invention sociale est la forme utilitaire .
 
-Par suite , on peut dire que l'invention dans les sciences ressemble à celle des beaux-arts , étant l'une et l'autre spéculatives et que l'invention mécanique et industrielle se rapproche de l'invention sociale par une commune tendance vers la pratique . Je n'insisterai pas sur cette répartition qui,[^p250-1]
+Par suite , on peut dire que l'invention dans les sciences ressemble à celle des beaux-arts , étant l'une et l'autre spéculatives et que l'invention mécanique et industrielle se rapproche de l'invention sociale par une commune tendance vers la pratique . Je n'insisterai pas sur cette répartition qui,
 
 [p. 251] en définitive, ne repose que sur des caractères partiels ; j'ai seulement voulu rappeler que l'invention dont le rôle est grand dans l'évolution sociale, politique et morale, doit pour réussir adopter certains procédés , en répudier d'autres : ce que les utopistes ne font pas .
 
@@ -3250,11 +3250,11 @@ A l'origine des civilisations, on rencontre des personnages demi historiques , d
 
 comme l'observation l'impose
 
-non une morale toute faite, mais une morale qui se fait, il faut bien qu'elle soit la création d'un individu ou d'un groupe . Tout le monde admet des inventeurs en géométrie, en musique, dans les arts plastiques ou mécaniques ; mais il y a eu aussi des hommes qui, par leurs dispositions morales , étaient très supérieurs à leurs contemporains et [p. 252] ont été des promoteurs , des initiateurs¹ . Par des causes que nous ignorons , analogues à celles qui produisent un grand poète ou un grand peintre, il surgit des génies moraux qui ressentent ce que d'autres ne sentent pas , tout comme fait un grand poète par rapport à la foule. Mais il ne suffit pas qu'ils sentent, il faut qu'ils créent, qu'ils réalisent leur idéal en une croyance et des règles de conduite acceptées par d'autres hommes. Tous les fondateurs des grandes religions ont été des inventeurs de ce genre. Que l'invention vienne d'eux seuls ou d'une collectivité dont ils sont le résumé et l'incarnation, peu importe . En eux, l'invention morale a trouvé sa forme complète ; comme toute création véritable, elle est organique. La légende raconte que Bouddha obsédé du désir de trouver la voie parfaite du salut pour lui et le reste des hommes , se livre d'abord à un ascétisme extravagant ; il en voit l'inutilité et y renonce ; pendant sept années, il médite , l'illumination se fait ; il possède la science des moyens qui délivre du Karma (enchaînement des causes et des effets) et de la nécessité des renaissances
+non une morale toute faite, mais une morale qui se fait, il faut bien qu'elle soit la création d'un individu ou d'un groupe . Tout le monde admet des inventeurs en géométrie, en musique, dans les arts plastiques ou mécaniques ; mais il y a eu aussi des hommes qui, par leurs dispositions morales , étaient très supérieurs à leurs contemporains et [p. 252] ont été des promoteurs , des initiateurs[^p252-1] . Par des causes que nous ignorons , analogues à celles qui produisent un grand poète ou un grand peintre, il surgit des génies moraux qui ressentent ce que d'autres ne sentent pas , tout comme fait un grand poète par rapport à la foule. Mais il ne suffit pas qu'ils sentent, il faut qu'ils créent, qu'ils réalisent leur idéal en une croyance et des règles de conduite acceptées par d'autres hommes. Tous les fondateurs des grandes religions ont été des inventeurs de ce genre. Que l'invention vienne d'eux seuls ou d'une collectivité dont ils sont le résumé et l'incarnation, peu importe . En eux, l'invention morale a trouvé sa forme complète ; comme toute création véritable, elle est organique. La légende raconte que Bouddha obsédé du désir de trouver la voie parfaite du salut pour lui et le reste des hommes , se livre d'abord à un ascétisme extravagant ; il en voit l'inutilité et y renonce ; pendant sept années, il médite , l'illumination se fait ; il possède la science des moyens qui délivre du Karma (enchaînement des causes et des effets) et de la nécessité des renaissances
 
 : aussitôt il renonce à la vie contemplative et pendant cinquante ans de pérégrinations incessantes, prêche , convertit, organise ses fidèles. Vrai ou faux historiquement, ce récit est d'une psychologie exacte : idée fixe et obsédante , essais suivis d'échecs , moment décisif de Γεὔρήκα, puis la révélation intérieure qui se manifeste au dehors et , par l'œuvre du Maître et de ses disciples , se développe, s'achève , s'impose à des millions d'hommes . En quoi ce mode de création diffère-t-il des autres, du moins dans l'ordre pratique ?
 
-Aussi, du point de vue de notre étude actuelle, peut-on diviser les morales en vivantes et en mortes . Les morales[^p252-1]
+Aussi, du point de vue de notre étude actuelle, peut-on diviser les morales en vivantes et en mortes . Les morales
 
 [p. 253] vivantes sont nées des besoins et des désirs, suscitant une construction imaginative qui se fixe dans des actes , des habitudes et des lois ; elles proposent aux hommes un idéal concret, positif, qui, sous des apparences diverses et quelquefois contraires, est toujours le bonheur. Les morales mortes
 
@@ -3320,7 +3320,7 @@ quelques remarques , par son mélange d'exactitude apparente dans l'utopie
 
 et d'extravagance naturelle , inconsciente ; car , sous ces pullulantes inventions de petits détails précis , le fond n'en reste pas moins une pure construction spéculative de l'esprit. Ajoutons un incroyable abus de l'analogie, ce principal instrument intellectuel de l'invention,
 
-dont [p. 256] la lecture de ses œuvres peut seule donner une idée ¹ . Henri Heine disait de Michelet : « Il a une imagination hindoue » : le mot s'appliquerait bien mieux à Ch. Fourier en qui coexistent la profusion sans frein des images et le goût des accumulations numériques . On a essayé d'expliquer ce luxe de chiffres et de calculs par une habitude professionnelle : il fut longtemps teneur de livres ou caissier, toujours excellent comptable ; mais c'est prendre l'effet pour la cause . Ce dualisme était dans la nature même de son esprit et il en profita pour son métier . L'étude sur l'imagination numérique (ch.
+dont [p. 256] la lecture de ses œuvres peut seule donner une idée [^p256-1] . Henri Heine disait de Michelet : « Il a une imagination hindoue » : le mot s'appliquerait bien mieux à Ch. Fourier en qui coexistent la profusion sans frein des images et le goût des accumulations numériques . On a essayé d'expliquer ce luxe de chiffres et de calculs par une habitude professionnelle : il fut longtemps teneur de livres ou caissier, toujours excellent comptable ; mais c'est prendre l'effet pour la cause . Ce dualisme était dans la nature même de son esprit et il en profita pour son métier . L'étude sur l'imagination numérique (ch.
 
 11,) a montré combien elle se rencontre fréquemment chez les Orientaux dont le développement imaginatif est incontesté et nous avons vu pourquoi l'imagination idéaliste s'accommode si bien de la série indéfinie des nombres et s'en sert comme d'un véhicule .
 
@@ -3328,7 +3328,7 @@ dont [p. 256] la lecture de ses œuvres peut seule donner une idée ¹ . Henri H
 
 Avec les inventeurs et réformateurs pratiques , c'est la chute de l'idéal ; non qu'ils le sacrifient à leur intérêt personnel, mais parce qu'ils ont la compréhension du possible. La construction imaginative doit être rectifiée , rétrécie, mutilée , pour entrer dans le cadre étroit des conditions d'existence jusqu'à ce qu'elle s'adapte et se détermine . Ce procédé a été plusieurs fois décrit et il est inutile de le reprendre en d'autres termes . Toutefois ici l'idéal, donnant ce nom au principe d'unité qui suscite la création et la soutient dans son développement,
 
-subit une métaen[^p256-1]
+subit une métaen
 
 [p. 257] morphose et doit être non plus seulement individuel, mais collectif ; la création ne se réalise que par une « communion des esprits
 
@@ -3386,13 +3386,13 @@ Les besoins de l'homme en contact avec ses semblables ont engendré, par une act
 
 Le besoin de connaître et d'expliquer bien ou mal a créé les mythes, les religions , les systèmes philosophiques, les hypothèses scientifiques .
 
-Chaque besoin, tendance, désir, peut donc devenir créateur, soit isolément soit associé à d'autres et c'est en ces éléments derniers que l'analyse doit résoudre la « spontanéité créatrice » . Ce terme vague correspond à une somme, [p. 263] non à une propriété spéciale¹ . Toute invention a donc une origine motrice ; le fond dernier de l'imagination construc tive est donc moteur.
+Chaque besoin, tendance, désir, peut donc devenir créateur, soit isolément soit associé à d'autres et c'est en ces éléments derniers que l'analyse doit résoudre la « spontanéité créatrice » . Ce terme vague correspond à une somme, [p. 263] non à une propriété spéciale[^p263-1] . Toute invention a donc une origine motrice ; le fond dernier de l'imagination construc tive est donc moteur.
 
 II . Mais les besoins et les désirs seuls ne peuvent créer ; ils ne sont qu'un stimulant et un ressort ; d'où la nécessité d'une seconde condition : la réviviscence spontanée des images .
 
 Chez beaucoup d'animaux qui ne sont doués que de mémoire , le retour des images est toujours provoqué. Lés sensations externes ou internes les ramènent dans la conscience sous la forme pure et simple des expériences antérieures
 
-: d'où reproduction , répétition sans association nouvelle. Les gens peu imaginatifs et routiniers se rapprochent de cet état mental . Mais en fait, l'homme (dès sa seconde année) et quelques animaux supérieurs dépassent ce stade ; ils sont capables de réviviscence spontanée. Je désigne sous ce nom celle qui se produit brusquement, sans antécédents apparents ; on sait qu'ils agissent sous une forme latente et consistent en pensée par analogie, dispositions affectives , élaboration inconsciente. Cette apparition brusque suscite d'autres états qui, groupés en associations nouvelles, contiennent les premiers éléments de la création .[^p263-1]
+: d'où reproduction , répétition sans association nouvelle. Les gens peu imaginatifs et routiniers se rapprochent de cet état mental . Mais en fait, l'homme (dès sa seconde année) et quelques animaux supérieurs dépassent ce stade ; ils sont capables de réviviscence spontanée. Je désigne sous ce nom celle qui se produit brusquement, sans antécédents apparents ; on sait qu'ils agissent sous une forme latente et consistent en pensée par analogie, dispositions affectives , élaboration inconsciente. Cette apparition brusque suscite d'autres états qui, groupés en associations nouvelles, contiennent les premiers éléments de la création .
 
 [p. 264] Prise dans son ensemble et quelque innombrables que soient ses manifestations, l'imagination constructive me paraît réductible à trois formes que j'appelle ébauchée, fixée , objectivée ; suivant qu'elle reste un fantôme intérieur, ou qu'elle revêt une forme matérielle mais contingente et sans rigidité, ou qu'elle est soumise aux conditions d'un rigoureux déterminisme intérieur ou extérieur . ... 1 ° La forme ébauchée est primordiale, originelle, la plus simple de toutes : c'est un moment de naissance ou d'essai. Elle apparaît tout d'abord dans le rêve , manifestation embryonnaire, instable et incoordonnée de l'imagination créatrice ; état de transition, entre la reproduction passive et la construction organisée .
 
@@ -3434,7 +3434,7 @@ en
 
 maîtresse absolue . Objectivée, elle règne encore, mais en partageant le pouvoir avec des compétiteurs : elle ne peut rien sans eux ;
 
-ils ne peuvent rien sans elle. Ce qui trompe , c'est qu'on ne la voit plus à découvert. Ici, la poussée imaginative ressemble à ces puissants jets d'eau qui doivent s'emprisonner dans un réseau compliqué de canaux et de ramifications , variant en figure et en calibre , avant de jaillir en fusées multiples et en architectures liquides ¹ .
+ils ne peuvent rien sans elle. Ce qui trompe , c'est qu'on ne la voit plus à découvert. Ici, la poussée imaginative ressemble à ces puissants jets d'eau qui doivent s'emprisonner dans un réseau compliqué de canaux et de ramifications , variant en figure et en calibre , avant de jaillir en fusées multiples et en architectures liquides [^p267-1] .
 
 #### II
 
@@ -3446,7 +3446,7 @@ Si l'on considère l'esprit humain surtout sous son aspect intellectuel , c'est-
 
 D'abord les esprits positifs ou réalistes qui vivent principalement du monde extérieur, de ce qu'ils perçoivent et de ce qui s'en déduit immédiatement, étrangers ou hostiles aux chimères
 
-: les uns, plats, bornés, terre à terre ; d'autres ,[^p267-1]
+: les uns, plats, bornés, terre à terre ; d'autres ,
 
 [p. 268] hommes d'action, énergiques, mais enfermés dans la réalité.
 
@@ -3470,7 +3470,7 @@ ils nous intéressent et nous
 
 allons essayer de suivre ce type imaginatif dans son développement, depuis l'état normal ou moyen jusqu'au moment où son exubérance toujours grandissante l'introduit dans la pathologie .
 
-L'explication des diverses phases de ce développement est réductible à une loi psychologique bien connue : l'antagonisme naturel entre la sensation et l'image, entre les phénomènes d'origine périphériques et les phénomènes d'origine centrale ; ou, sous une forme plus générale , entre la vie extérieure et la vie intérieure. Je n'insisterai pas sur ce point que Taine a supérieurement traité ¹ . Il a montré en détail comment l'image est une sensation spontanément renaissante , mais qui avorte par le choc antagoniste de la sensation réelle qui est son « réducteur » , qui produit sur elle une action d'arrêt et la maintient à l'état de fait intérieur et subjectif. Ainsi, pendant la veille, la fréquence et[^p268-1]
+L'explication des diverses phases de ce développement est réductible à une loi psychologique bien connue : l'antagonisme naturel entre la sensation et l'image, entre les phénomènes d'origine périphériques et les phénomènes d'origine centrale ; ou, sous une forme plus générale , entre la vie extérieure et la vie intérieure. Je n'insisterai pas sur ce point que Taine a supérieurement traité [^p268-1] . Il a montré en détail comment l'image est une sensation spontanément renaissante , mais qui avorte par le choc antagoniste de la sensation réelle qui est son « réducteur » , qui produit sur elle une action d'arrêt et la maintient à l'état de fait intérieur et subjectif. Ainsi, pendant la veille, la fréquence et
 
 [p. 269] l'intensité des impressions du dehors refoulent les images au second plan ; mais, pendant le sommeil où le monde extérieur est comme supprimé, leur tendance hallucinatoire n'est plus tenue en échec et le monde des rêves est momentanément la réalité .
 
@@ -3488,7 +3488,7 @@ combinent avec
 
 facilité
 
-et de diverses manières . Tous les imaginatifs qui m'ont fait leur confession , oralement ou par écrit, s'accordent sur l'extrême aisance des associations à se former, non pour répéter les expériences passées , mais pour ébaucher de petits romans¹ . Entre beaucoup d'exemples, j'en donne un seul. L'un de mes correspondants m'écrit que si , à l'église, au théâtre , sur une place , dans une gare, son attention s'arrête sur une personne, homme ou femme , aussitôt d'après son aspect, sa mise, son allure, il construit son présent et son passé, son genre de vie, ses occupations , il se représente le quartier de la ville qu'elle doit habiter, son logement, son mobilier, etc. : construction le plus souvent erronée ; j'en ai maintes preuves . Assurément, cette disposition est normale ; elle ne s'écarte de la moyenne que par un exès[^p269-1]
+et de diverses manières . Tous les imaginatifs qui m'ont fait leur confession , oralement ou par écrit, s'accordent sur l'extrême aisance des associations à se former, non pour répéter les expériences passées , mais pour ébaucher de petits romans[^p269-1] . Entre beaucoup d'exemples, j'en donne un seul. L'un de mes correspondants m'écrit que si , à l'église, au théâtre , sur une place , dans une gare, son attention s'arrête sur une personne, homme ou femme , aussitôt d'après son aspect, sa mise, son allure, il construit son présent et son passé, son genre de vie, ses occupations , il se représente le quartier de la ville qu'elle doit habiter, son logement, son mobilier, etc. : construction le plus souvent erronée ; j'en ai maintes preuves . Assurément, cette disposition est normale ; elle ne s'écarte de la moyenne que par un exès
 
 [p. 270] d'imagination qui est remplacé chez d'autres par une tendance excessive à observer, analyser, ou à critiquer, raisonner, ergoter. Pour franchir le pas décisif et entrer dans l'anormal , il faut une condition de plus
 
@@ -3500,7 +3500,7 @@ les
 
 états forts (perceptions) deviennent les états faibles . Les impressions du dehors sont impuissantes à remplir leur office régulier d'inhibition. Nous en trouvons l'exemple le plus simple dans la persistance exceptionnelle de certains rêves . A l'ordinaire, nos imaginations nocturnes s'évanouissent comme une fantasmagorie vaine devant l'afflux des perceptions et les habitudes de la vie diurne , elles apparaissent comme des fantômes lointains , sans objectivité. Mais, dans la lutte qui se produit au réveil entre les images et les perceptions, celles-ci ne sont pas toujours victorieuses. Il y a des rèves, c'est-à-dire des créations imaginaires, qui tiennent ferme devant la réalité et, pendant quelque temps , marchent de pair avec elle. Taine , le premier peut-être, a vu l'importance de ce fait : il rapporte que son parent, le Dr Baillarger, ayant rêvé qu'un de ses amis
 
-était nommé directeur d'un grand journal , annonça sérieusement la nouvelle à plusieurs personnes et que le doute ne s'éveilla en lui que vers la fin de l'après-midi. Depuis, les psychologues contemporains ont recueilli diverses observations de ce genre ¹ . La persistance émotionnelle de certains songes est connue : tel de nos proches joue dans un rêve un rôle odieux ; on peut[^p270-1]
+était nommé directeur d'un grand journal , annonça sérieusement la nouvelle à plusieurs personnes et que le doute ne s'éveilla en lui que vers la fin de l'après-midi. Depuis, les psychologues contemporains ont recueilli diverses observations de ce genre [^p270-1] . La persistance émotionnelle de certains songes est connue : tel de nos proches joue dans un rêve un rôle odieux ; on peut
 
 [p. 271] ressentir contre lui un sentiment de répulsion ou d'aigreur qui persiste toute la journée. Mais ce triomphe de l'image , accidentel et éphémère chez l'homme normal, est fréquent et stable chez les imaginatifs du second degré . Beaucoup d'entre eux ont soutenu que ce monde intérieur est la seule réalité. Gérard de Nerval « avait eu de très bonne heure la conviction que la foule se trompe, que l'univers matériel auquel elle a foi parce que ses yeux le voient et que ses mains le touchent, n'est que fantômes et apparences . Pour lui, le monde invisible était , au contraire , le seul qui ne fût pas chimérique » . De même Edgar Poë « Les réalités du monde m'affectaient comme des visions et seulement ainsi ; tandis que les idées folles du pays des songes devenaient en revanche non seulement la pâture de mon existence quotidienne, mais positivement cette unique et entière existence elle-même
 
@@ -3514,7 +3514,7 @@ III . Si la transformation des images en états forts, prépondérants dans la c
 
 le tempérament et l'habitude
 
-la vie imaginaire et intérieure tend à se systématiser et à empiéter de plus en plus sur la vie réelle et extérieure . Dans une observation de Féré¹ on peut suivre pas à pas ce travail de systématisation que nous réduisons à ses traits principaux .
+la vie imaginaire et intérieure tend à se systématiser et à empiéter de plus en plus sur la vie réelle et extérieure . Dans une observation de Féré[^p272-1] on peut suivre pas à pas ce travail de systématisation que nous réduisons à ses traits principaux .
 
 Le sujet , M ... , homme de trente-sept ans , eut dès l'enfance un goût décidé pour la solitude. Assis dans un coin reculé de la maison ou dehors ,
 
@@ -3526,7 +3526,7 @@ Elles commencèrent par être, comme autrefois, peu durables et peu absorbantes 
 
 « En résumé, voici en quoi consistait cette vie idéale qui durait depuis bicutôt quatre ans : M... avait fait construire à Chaville, à la lisière du bois, un pavillon (imaginaire) entouré d'un jardin. Par des agrandissements successifs , le pavillon était devenu château ;
 
-le jardin , parc ; les écuries, les chevaux, les pièces d'eau étaient venues orner le domaine. L'ameublement intérieur s'était modifié parallèlement ... Une femme était venue animer ce tableau ; deux enfants étaient nés, il ne manquait à ce ménage idéal que d'être légitime... Un jour, il était dans son salon imaginaire (de Chaville) occupé à[^p272-1]
+le jardin , parc ; les écuries, les chevaux, les pièces d'eau étaient venues orner le domaine. L'ameublement intérieur s'était modifié parallèlement ... Une femme était venue animer ce tableau ; deux enfants étaient nés, il ne manquait à ce ménage idéal que d'être légitime... Un jour, il était dans son salon imaginaire (de Chaville) occupé à
 
 [p. 273] surveiller un tapissier qui modifiait l'arrangement d'une tenture ; il était tellement absorbé par cette surveillance qu'il ne vit pas un homme se diriger vers lui : et à cette demande : « M. M ... , s'il vous plait
 
@@ -3540,7 +3540,7 @@ IV . Au quatrième degré, aggravation du précédent, la vie imaginaire complè
 
 : c'est la forme extrême, l'entrée dans la folie . Ceci est hors de notre sujet d'où la pathologie a été exclue .
 
-L'imagination chez les fous mériterait une étude spéciale : elle serait longue, car il n'y a pas un mode d'invention qui n'ait revêtu la forme vésanique. En aucun temps, les créations folles n'ont fait défaut dans la vie pratique , religieuse, mystique ; dans la poésie, dans les beaux arts et les sciences ; dans les projets industriels , commerciaux, mécaniques, militaires , dans les plans de réforme sociale ou politique. On serait donc abondamment pourvu de faits ¹ .[^p273-1]
+L'imagination chez les fous mériterait une étude spéciale : elle serait longue, car il n'y a pas un mode d'invention qui n'ait revêtu la forme vésanique. En aucun temps, les créations folles n'ont fait défaut dans la vie pratique , religieuse, mystique ; dans la poésie, dans les beaux arts et les sciences ; dans les projets industriels , commerciaux, mécaniques, militaires , dans les plans de réforme sociale ou politique. On serait donc abondamment pourvu de faits [^p273-1] .
 
 [p. 274] Elle serait difficile ; car si, dans la vie ordinaire , on est souvent perplexe pour décider si un homme est sain ou aliéné, combien plus encore quand il s'agit d'un inventeur, d'un acte de la faculté créatrice, c'est-à-dire d'une tentative sur l'inconnu ! Que de novateurs ont été considérés comme aliénés , tout au moins déséquilibrés, visionnaires ! On ne peut pas même invoquer comme critérium la réussite. Nombre d'inventions non viables ou avortées ont eu pour pères des esprits très sains et des gens qualifiés d'insensés ont justifié leurs constructions imaginatives par le succès.
 
@@ -3568,9 +3568,9 @@ Ceci rappelé comparons les deux derniers degrés du développement de la vie im
 
 Pour l'imaginatif du troisième degré, les deux formes d'existence ne se confondent pas. Il distingue deux mondes , l'un qu'il préfère, l'autre qu'il subit, mais il croit à l'un et l'autre ; il a conscience de passer de l'un à l'autre . Il y a alternance . L'observation de Féré, quoique à l'extrême limite, en est une preuve .
 
-Au quatrième degré chez l'aliéné, le travail imaginatif (le seul qui nous concerne) est tellement systématisé que la distinction entre les deux modes d'existence a disparu . Toutes les rêveries de son cerveau sont investies d'une réalité objective . Les événements extérieurs, même les plus extraordinaires , ne l'atteignent pas ou sont interprétés dans le sens de son délire¹ . Il n'y a plus d'alternance .
+Au quatrième degré chez l'aliéné, le travail imaginatif (le seul qui nous concerne) est tellement systématisé que la distinction entre les deux modes d'existence a disparu . Toutes les rêveries de son cerveau sont investies d'une réalité objective . Les événements extérieurs, même les plus extraordinaires , ne l'atteignent pas ou sont interprétés dans le sens de son délire[^p275-1] . Il n'y a plus d'alternance .
 
-En résumé, l'imagination créatrice consiste dans la propriété qu'ont les images de s'assembler en combinaisons nouvelles, par l'effet d'une spontanéité dont on a essayé de déterminer la nature. Elle tend toujours à se réaliser à des degrés qui varient de la simple croyance momentanée à l'objectivité pleine et entière. A travers ses[^p275-1]
+En résumé, l'imagination créatrice consiste dans la propriété qu'ont les images de s'assembler en combinaisons nouvelles, par l'effet d'une spontanéité dont on a essayé de déterminer la nature. Elle tend toujours à se réaliser à des degrés qui varient de la simple croyance momentanée à l'objectivité pleine et entière. A travers ses
 
 [p. 276] multiples manifestations , elle reste identique à elle-même , dans sa nature foncière , dans ses éléments constitutifs . La diversité de ses œuvres dépend du but posé, des conditions requises pour l'atteindre, des matériaux employés qui (nous l'avons vu) sous le nom collectif de représentations , sont, en fait, très dissemblables non- seulement quant à leur origine sensorielle (images visuelles, auditives , tactiles , etc.) mais quant à leur nature psychologique ; - images concrètes ,
 
@@ -3670,7 +3670,7 @@ Il est établi par de nombreuses expériences (Féré , Binet, Mosso , Janet, Ne
 
 etc.), que des sensations inconscientes
 
-(non perçues) agissent, puisqu'elles produisent les mêmes réactions que les sensations conscientes, et Mosso a pu soutenir <<< que le témoignage de la conscience est moins sûr que celui du sphygmographe » . Mais le cas particulier de l'invention est tout différent ; car il ne suppose pas seulement l'adaptation à une fin que le facteur physiologique suffirait à expliquer ; il implique une série d'adaptations, de corrections , [p. 285] d'opérations rationnelles, dont l'action nerveuse, toute seule , ne nous fournit aucun exemple¹ .
+(non perçues) agissent, puisqu'elles produisent les mêmes réactions que les sensations conscientes, et Mosso a pu soutenir <<< que le témoignage de la conscience est moins sûr que celui du sphygmographe » . Mais le cas particulier de l'invention est tout différent ; car il ne suppose pas seulement l'adaptation à une fin que le facteur physiologique suffirait à expliquer ; il implique une série d'adaptations, de corrections , [p. 285] d'opérations rationnelles, dont l'action nerveuse, toute seule , ne nous fournit aucun exemple[^p285-1] .
 
 II . La théorie psychologique est fondée sur un emploi équivoque du mot conscience . La conscience a une marque rigoureuse
 
@@ -3680,7 +3680,7 @@ II . La théorie psychologique est fondée sur un emploi équivoque du mot consc
 
 Aucune difficulté ne surgit lorsqu'on s'en tient à la distinction légitime entre la conscience de soi et la conscience en général, l'une toute subjective, l'autre en quelque sorte objective (celle d'un homme captivé par un spectacle attrayant ; mieux encore la forme fluide de la rêverie ou du retour d'une syncope) . On peut admet que cette conscience évanescente, de nature affective, plutôt sentie que connue, est due à une absence de synthèse , de rapports entre les états intérieurs qui restent isolés , incapables de s'agréger en un tout.
 
-La difficulté commence quand on descend dans la région du subconscient qui admet des degrés dont l'obscurité augmente à mesure qu'on s'éloigne de la conscience claire, « comme un lac où l'action de la lumière va toujours en s'éteignant » (dans les doubles personnalités coexistentes, dans l'écriture automatique, chez les médiums, etc. ). Ici les uns admettent deux courants de conscience existant à la fois dans la même personne, sans connexion réciproque. D'autres admettent un champ de conscience avec un centre brillant et s'étendant indéfiniment vers le crépuscule. D'autres assimilent le phénomène au mouvement des vagues dont le sommet seul est illuminé . A la vérité ,[^p285-1]
+La difficulté commence quand on descend dans la région du subconscient qui admet des degrés dont l'obscurité augmente à mesure qu'on s'éloigne de la conscience claire, « comme un lac où l'action de la lumière va toujours en s'éteignant » (dans les doubles personnalités coexistentes, dans l'écriture automatique, chez les médiums, etc. ). Ici les uns admettent deux courants de conscience existant à la fois dans la même personne, sans connexion réciproque. D'autres admettent un champ de conscience avec un centre brillant et s'étendant indéfiniment vers le crépuscule. D'autres assimilent le phénomène au mouvement des vagues dont le sommet seul est illuminé . A la vérité ,
 
 [p. 286] les auteurs déclarent qu'avec ces comparaisons et métaphores ils n'ont pas la prétention d'expliquer ; mais, en définitive, tous réduisent l'inconscient à la conscience, comme un cas particulier à un cas général ; or qu'est cela sinon expliquer ?
 
@@ -3821,9 +3821,9 @@ B... quarante-six ans, connaît une bonne partie de l'Europe, l'Amérique du Nor
 
 « Mais que je rencontre une construction soit ancienne soit en cours d'édification, peu importe : « Il faudrait arranger cela » est une formule qui, en pareil cas, me revient machinalement à l'esprit ; parfois il m'arrive de penser tout haut et de le dire de même, quoique seul . Et partant du thème architectural que j'ai sous les yeux 1 , j'exécute de suite d'infinies variations sur lui. Quelquefois les choses débutent par un réflexe... »
 
-Après avoir noté sa préférence pour l'architecture du moyen âge , B... ajoute
+Après avoir noté sa préférence pour l'architecture du moyen âge , B...[^p294-1] ajoute
 
-et il touche ici au facteur inconscient[^p294-1]
+et il touche ici au facteur inconscient
 
 [p. 295] « Si j'avais à expliquer, ou tenter d'expliquer, comment le moyen age exerce un tel attrait sur mon esprit, j'y verrais une accumulation atavique de la religiosité fixée dans la famille, par les femmes sans doute, et de la religiosité à l'archéologie ecclésiastique, il y a contact.
 

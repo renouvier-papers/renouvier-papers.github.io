@@ -38,7 +38,7 @@ commentateurs anciens qui les ont reproduits et discutés
 
 est considérable
 
-. Dans les [^p1-1]
+.[^p1-1] Dans les
 
 [p. 2] temps modernes, leur renommée n'a pas été moins grande : Bayle les expose et les défend avec une ampleur extrême et une complaisance visible
 
@@ -58,11 +58,11 @@ avis ;
 
 il reprend, pour son compte,
 
-les arguments de Zénon et les discute, à son point de vue, avec beaucoup de force et de subtilité *.
+les arguments de Zénon et les discute, à son point de vue, avec beaucoup de force et de subtilité *.[^p2-5][^p2-4][^p2-3][^p2-2][^p2-1]
 
 Si les admirateurs de la dialectique de Zénon sont nombreux et
 
-autorisés, les contradicteurs ne lui ont pas manqué non plus, à commencer [^p2-1][^p2-2][^p2-3][^p2-4][^p2-5]
+autorisés, les contradicteurs ne lui ont pas manqué non plus, à commencer
 
 [p. 3] par
 
@@ -96,7 +96,7 @@ par Zénon, c'est que l'importance en est grande. M. Zeller,
 
 sans vouloir se prononcer sur la valeur absolue de ces arguments, estime que « < l'importance historique en est à coup sûr considérable '. » Selon M. Renouvier, leur importance dogmatique serait plus grande encore peut-être. « Le
 
-fait est, dit M. Renouvier, que ces sophismes occupent, dans l'histoire de la philosophie ancienne, une place analogue à celle que les antinomies de Kant ont prise de nos jours ; et, dans l'ordre de la vérité philoso-[^p3-1][^p3-2][^p3-3][^p3-4][^p3-5][^p3-6][^p3-7]
+fait est, dit M.[^p3-7][^p3-6][^p3-5][^p3-4][^p3-3][^p3-2][^p3-1] Renouvier, que ces sophismes occupent, dans l'histoire de la philosophie ancienne, une place analogue à celle que les antinomies de Kant ont prise de nos jours ; et, dans l'ordre de la vérité philoso-
 
 [p. 4] phique,
 
@@ -144,9 +144,9 @@ monde
 
 La seule
 
-difficulté à laquelle puisse donner lieu cet argument, c'est celle d'une exposition qui soit à la fois exacte et claire. Voyons d'abord le texte d'Aristote :
+difficulté à laquelle puisse donner lieu cet argument, c'est celle d'une exposition qui soit à la fois exacte et claire.[^p5-2][^p5-1] Voyons d'abord le texte d'Aristote :
 
-« Le quatrième argument de Zénon est tiré [^p5-1][^p5-2]
+« Le quatrième argument de Zénon est tiré
 
 [p. 6] de masses égales entre elles qui, dans une enceinte donnée, ou dans un stade, marcheraient avec des
 
@@ -184,13 +184,13 @@ excellent
 
 de
 
-Simplicius qui dissipe tous les nuages, et qu'il nous suffira de suivre ². Voici donc comment Simplicius entend l'argument de Zénon.
+Simplicius qui dissipe tous les nuages, et qu'il nous suffira de suivre [^p6-2]. Voici donc comment Simplicius entend l'argument de Zénon.[^p6-1]
 
 Soient deux corps B
 
 et C de même dimension marchant avec des vitesses égales, en sens inverse l'un de
 
-l'autre, et passant au moment même de leur rencontre devant un troisième corps A, de même dimension qu'eux, mais im-[^p6-1][^p6-2]
+l'autre, et passant au moment même de leur rencontre devant un troisième corps A, de même dimension qu'eux, mais im-
 
 [p. 7] mobile. Il est évident que les deux corps B et C mettront à
 
@@ -208,7 +208,7 @@ est nécessaire pour passer devant B, tout en lui étant égal
 
 '.
 
-Il n'est pas difficile de découvrir où est le vice de l'argument. Zénon prend pour accordé que le temps nécessaire pour passer devant un corps [^p7-1]
+Il n'est pas difficile de découvrir où est le vice de l'argument.[^p7-1] Zénon prend pour accordé que le temps nécessaire pour passer devant un corps
 
 [p. 8] de dimension donnée avec une
 
@@ -268,7 +268,7 @@ supprimer les deux mots
 
 XIVETT
 
-qu'il suppose avoir été in-[p. 10]troduits dans le texte par un copiste inintelligent, et il traduit ¹ :
+qu'il suppose avoir été in-[p. 10]troduits dans le texte par un copiste inintelligent, et il traduit [^p10-1] :
 
 « Si toujours une chose est en repos quand elle est dans un espace égal à elle-même,
 
@@ -306,7 +306,7 @@ flèche qui vole est à tout instant dans un espace
 
 tout
 
-doit être [^p10-1]
+doit être
 
 [p. 11] en repos ou en mouvement. La flèche qui vole est donc en repos pendant tout le temps de sa course 4. »
 
@@ -659,7 +659,7 @@ de sorte que le plus lent aura nécessairement toujours quelque avance
 
 Si l'on veut bien se donner la peine de passer en revue toutes les critiques qui ont
 
-été faites de cet argument par Aristote, par Descartes, par Leibnitz, par Stuart Mill, par M. Tannery, on verra qu'elles ne sont toutes que des développements
+été faites de cet argument par Aristote, par Descartes, par Leibnitz, par Stuart Mill, par M.[^p18-1] Tannery, on verra qu'elles ne sont toutes que des développements
 
 de
 
@@ -669,7 +669,7 @@ objection
 
 capitale,
 
-que [^p18-1]
+que
 
 [p. 19] Zénon
 
@@ -900,7 +900,7 @@ passer,
 
 c'est-à-dire
 
-qu'il se nombre un autre nombre qui ne se peut nombrer 2. » Plus loin encore, M. Renouvier ajoute comme réfutation de Stuart Mill
+qu'il se nombre un autre nombre qui ne se peut nombrer 2. » Plus loin encore, M.[^p24-2][^p24-1] Renouvier ajoute comme réfutation de Stuart Mill
 
 : « Le temps et l'espace n'ont d'autre emploi dans l'argument (de
 
@@ -912,7 +912,7 @@ prendre une
 
 quantité
 
-continue quelconque ; et tout ce [^p24-1][^p24-2]
+continue quelconque ; et tout ce
 
 [p. 25] que la
 
@@ -950,7 +950,7 @@ dit M. Évellin,
 
 contraire que la vraie question, c'est la question du quand et non celle du comment ;
 
-celle du comment ne se pose même pas. Les deux [^p25-1][^p25-2][^p25-3][^p25-4]
+celle du comment ne se pose même pas.[^p25-4][^p25-3][^p25-2][^p25-1] Les deux
 
 [p. 26] coureurs se rencontreront en courant, cela est assez clair.
 
@@ -994,7 +994,7 @@ qu'Achille n'atteindra pas
 
 la tortue, c'est bien dire qu'il se meut, ou les mots n'ont plus de
 
-signification. Une chose
+signification.[^p26-2][^p26-1] Une chose
 
 d'après
 
@@ -1022,7 +1022,7 @@ troisième
 
 argument,
 
-et [^p26-1][^p26-2]
+et
 
 [p. 27] voyons
 
@@ -1088,7 +1088,7 @@ fin en raison de la
 
 divisibilié de l'espace à
 
-l'infini. Sans doute le texte d'Aristote est bien un peu court, mais
+l'infini.[^p29-3][^p29-2][^p29-1] Sans doute le texte d'Aristote est bien un peu court, mais
 
 cette façon de
 
@@ -1106,7 +1106,7 @@ entamé que lorsque la première moitié aura été parcourue
 
 difficulté
 
-se produirait [^p29-1][^p29-2][^p29-3]
+se produirait
 
 [p. 30] encore,
 
@@ -1172,7 +1172,7 @@ et sans
 
 doute
 
-aussi celui de la tortue. Entre vingt passages de l'ouvrage cité plus haut, où il est affirmé nettement que dans l'Achille le mouvement est supposé, il nous suffira de citer le texte de l'argument tel que l'éminent auteur le traduit lui-même d'Aristote : « < Le plus lent, dans sa course, ne peut à aucun moment être a.teint par le plus rapide, car il faut [^p31-1]
+aussi celui de la tortue. Entre vingt passages de l'ouvrage cité plus haut, où il est affirmé nettement que dans l'Achille le mouvement est supposé, il nous suffira de citer le texte de l'argument tel que l'éminent auteur le traduit lui-même d'Aristote : « < Le plus lent, dans sa course, ne peut à aucun moment être a.[^p31-1]teint par le plus rapide, car il faut
 
 [p. 32] auparavant que celui qui poursuit soit arrivé là d'où celui qui fuit
 
@@ -1208,7 +1208,7 @@ puisqu'il
 
 reconnaît que « Zénon ne suppose le mouvement que pour en montrer
 
-l'absurdité. » Il l'admet même tellement que, à son avis, la course s'effectue d'une manière réelle, mais dans un espace différent de l'espace continu que nous nous représentons,[^p32-1][^p32-2]
+l'absurdité. »[^p32-2][^p32-1] Il l'admet même tellement que, à son avis, la course s'effectue d'une manière réelle, mais dans un espace différent de l'espace continu que nous nous représentons,
 
 [p. 33] puisque, « < si l'espace franchi par les deux coureurs
 
@@ -1252,9 +1252,9 @@ nous devons reconnaître que cette façon d'interpréter l'Achille
 
 et la Dichotomie n'est pas particulière à MM. Renouvier et Evellin. La plupart des auteurs qui se sont occupés des arguments de Zénon n'y voient qu'un même argument sous différentes formes.
 
-C'est l'opinion expresse de Stuart Mill 2. Mais en particulier, pour l'identité fondamentale de l'Achille et de la Dichotomie, on peut
+C'est l'opinion expresse de Stuart Mill 2.[^p33-2][^p33-1] Mais en particulier, pour l'identité fondamentale de l'Achille et de la Dichotomie, on peut
 
-dire qu'il y a entre [^p33-1][^p33-2]
+dire qu'il y a entre
 
 [p. 34] ces auteurs unanimité. Aristote est sur ce point parfaitement explicite : « L'argument de l'Achille, dit-il, est le même que celui de la division en deux parties,
 
@@ -1282,13 +1282,13 @@ qu'il
 
 avait
 
-émise.
+émise.[^p34-2][^p34-1]
 
 « Les partisans de Zénon, dit-il, allèguent que les points intermédiaires
 
 entre deux extrêmes sont en nombre infini ;
 
-or il est impossible, de l'aveu de tout le monde, de parcourir des points [^p34-1][^p34-2]
+or il est impossible, de l'aveu de tout le monde, de parcourir des points
 
 [p. 35] en nombre infini. Dans nos premiers écrits sur le mouvement, nous
 
@@ -1300,7 +1300,7 @@ divisions du temps. Mais cette solution est bonne pour la discussion : on discut
 
 M. Renouvier qui cite comme nous ce passage n'a pas remarqué une chose, c'est qu'Aristote y maintient formellement son
 
-argumentation par rapport à l'Achille, et la retire non moins formellement par rapport à la Dichotomie. Dans un temps donné et fini
+argumentation par rapport à l'Achille, et la retire non moins formellement par rapport à la Dichotomie.[^p35-1] Dans un temps donné et fini
 
 la tortue aura franchi un certain espace :
 
@@ -1310,7 +1310,7 @@ le même temps, ait pu
 
 franchir
 
-cet espace, et de plus celui qui le séparait de la tortue au moment du [^p35-1]
+cet espace, et de plus celui qui le séparait de la tortue au moment du
 
 [p. 36] départ, c'est ce que l'on a tort de contester suivant Aristote,
 
@@ -1432,11 +1432,11 @@ est tout autre que celle de la Dichotomie, et
 
 que cette thèse
 
-est fausse.
+est fausse.[^p38-1]
 
 Dans la
 
-Dichotomie il est démontré, comme nous venons de le dire,[^p38-1]
+Dichotomie il est démontré, comme nous venons de le dire,
 
 [p. 39] que le mouvement ne peut exister d'une façon absolue, ce qui laisse intacte la question de savoir s'il ne peut pas être donné dans la représentation,
 
@@ -1554,7 +1554,7 @@ par
 
 cela même qu'ils ne peuvent être composés, ni par conséquent supposés réels, à quelque titre que ce soit
 
-. Ainsi la Flèche et l'Achille vont direc-[^p41-1]
+.[^p41-1] Ainsi la Flèche et l'Achille vont direc-
 
 [p. 42] tement à l'encontre de la Dichotomie, puisqu'ils supposent possible ce que la Dichotomie avait démontré absurde, ce qui ne laisse pas
 
@@ -1616,7 +1616,7 @@ apparente de résoudre ces problèmes a pu, tout d'abord, fournir un point d'app
 
 la négation sophistique de la science. Mais, dans la suite, la spéculation platonicienne et aristotéticienne a trouvé là un stimulant pour entreprendre des recherches plus profondes. Enfin les métaphy1 siciens postérieurs eux-mêmes se sont toujours vus forcés de revenir aux problèmes que Zénon avait le premier soulevés. Et ainsi, quelle que soit la valeur que nous accordions aux résultats immédiats de la dialectique
 
-de Zénon, nous devons reconnaître qu'elle tient une place considérable dans l'histoire de la science ¹. »[^p44-1]
+de Zénon, nous devons reconnaître qu'elle tient une place considérable dans l'histoire de la science [^p44-1]. »
 
 [p. 45] TABLE
 

@@ -36,7 +36,7 @@ analyses , d'observations de sens commun déguisées sous une exposition éléga
 
 Bien qu'elle fasse encore assez bonne figure , l'ancienne psychologie est condamnée. Dans le milieu nouveau qui s'est fait autour d'elle, ses
 
-conditions d'existence ont disparu. Aux difficultés croissantes de la tâche, aux exigences toujours plus grandes de l'esprit scientifique, ses procédés ne suffisent plus. Elle en est réduite à vivre sur son passé. Vainement ses représentants les plus sages essaient des compromis et répètent bien haut qu'il faut étudier les faits, faire une large part à l'expérience 1. Leurs concessions ne sauvent rien. Si sincères qu'elles soient d'intention ; en fait, elles ne sont pas exécutées. Dès qu'ils mettent la main à[^pIV-1]
+conditions d'existence ont disparu. Aux difficultés croissantes de la tâche, aux exigences toujours plus grandes de l'esprit scientifique, ses procédés ne suffisent plus. Elle en est réduite à vivre sur son passé. Vainement ses représentants les plus sages essaient des compromis et répètent bien haut qu'il faut étudier les faits, faire une large part à l'expérience 1. Leurs concessions ne sauvent rien. Si sincères qu'elles soient d'intention ; en fait, elles ne sont pas exécutées.[^pIV-1] Dès qu'ils mettent la main à
 
 [p. V] l'œuvre , le goût de la spéculation pure les reprend.
 
@@ -140,7 +140,7 @@ C'est ce qui explique comment, malgré la communauté de but, la psychologie ang
 
 Antérieurement à toute science, l'esprit humain, comme le fait remarquer Wundt 1 , ne peut rassembler des expériences sans y mêler quelques spéculations. Le premier résultat de cette réflexion naturelle est un système d'idées générales qui se traduisent dans le langage. Lorsqu'elle commence son œuvre, la science trouve ces idées toutes faites. Ainsi, dans le domaine de l'expérience externe, la chaleur et la lumière sont des con cepts immédiatement dérivés de la sensation. La physique actuelle ramène ces deux idées à un concept plus général
 
-: le mouvement. Mais elle n'a pu atteindre ce résultat qu'en acceptant tout d'abord, à titre provisoire, les inductions du sens commun. Il en est de même dans le domaine de l'expérience interne. Ame, esprit, raison ,[^pXVIII-1]
+: le mouvement. Mais elle n'a pu atteindre ce résultat qu'en acceptant tout d'abord, à titre provisoire, les inductions du sens commun. Il en est de même dans le domaine de l'expérience interne.[^pXVIII-1] Ame, esprit, raison ,
 
 [p. XIX] entendement, sont des idées qui préexistaient à toute étude scientifique et qui seules l'ont rendue possible. Le tort de l'ancienne psychologie a été de prendre ces créations de la conscience naturelle pour des vérités définitives . L'âme, par exemple, au lieu d'être considérée simplement comme le sujet logique, auquel nous attribuons à titre de prédicats tous les faits d'expérience intérieure, est devenue un être réel, une substance, manifestée par des « facultés » .
 
@@ -160,7 +160,7 @@ et lois secondaires
 
 ne sont données que comme l'expression de rapports constants et généraux.
 
-Tels sont les traits essentiels de la psychologie anglaise contemporaine 1. Elle est, au sens le plus large et le meilleur, une étude descriptive. En Allemagne , au contraire , ceux qui travaillent à la constitution d'une psychologie empirique accordent peu de place aux descriptions. Pour caractériser leur œuvre, il faut employer[^pXX-1]
+Tels sont les traits essentiels de la psychologie anglaise contemporaine 1. Elle est, au sens le plus large et le meilleur, une étude descriptive. En Allemagne , au contraire , ceux qui travaillent à la constitution d'une psychologie empirique accordent peu de place aux descriptions.[^pXX-1] Pour caractériser leur œuvre, il faut employer
 
 [p. XXI] un terme dont on a beaucoup abusé de nos jours , mais qui est ici à sa place : c'est une psychologie physiologique . Presque tous sont des physiologistes , qui , avec leurs habitudes d'esprit et les procédés propres à leur science, ont abordé quelques points de la psychologie .
 
@@ -212,9 +212,9 @@ Ce prétendu axiome rejeté , on voit s'approcher le temps où la psychologie de
 
 produit nécessairement. Chaque question importante devient un domaine à part. La seule étude approfondie des perceptions, par exemple, ne pourraitelle pas suffire à l'esprit le plus actif ? La psychologie empirique , unie aux autres sciences naturelles par un lien d'étroite solidarité, élargit son champ ; le travail incessant de l'analyse accroît la masse des détails. Là où le dernier siècle avait vingt faits à connaître , nous avons vingt lois ; puis viendront des lois de lois, c'est-à-dire une condensation de faits de plus en plus nombreux. Le cerveau humain ayant ses limites , la nécessité de se [p. XXIX] consacrer à cette seule étude s'imposera nécessairement 1 .
 
-Actuellement, le nombre de ceux qui sont préparés à cette œuvre est bien petit. La plupart des physiologistes sont trop peu psychologues , et la plupart des psychologues connaissent trop mal la physiologie. Nous vivons à une époque de transition dont les difficultés sont propres à lasser les meilleurs courages. Il n'est aucun de ceux qui ont à cœur les progrès de la nouvelle psychologie qui ne sente à chaque instant les lacunes d'une préparation insuffisante. Il faudrait, pour entreprendre avec fruit ces recherches, connaître les mathématiques, la physique, la physiologie, la pathologie, avoir une matière à manier, des instruments sous la main, et surtout l'habitude des sciences expérimentales. Tout cela manque. En France surtout, grâce aux idées courantes dont notre éducation première nous a imbus et aux mauvaises habitudes d'esprit qu'elle nous a fait contracter, la seconde moitié de notre vie se passe à désapprendre ce que nous avons appris dans l'autre .
+Actuellement, le nombre de ceux qui sont préparés à cette œuvre est bien petit. La plupart des physiologistes sont trop peu psychologues , et la plupart des psychologues connaissent trop mal la physiologie. Nous vivons à une époque de transition dont les difficultés sont propres à lasser les meilleurs courages. Il n'est aucun de ceux qui ont à cœur les progrès de la nouvelle psychologie qui ne sente à chaque instant les lacunes d'une préparation insuffisante. Il faudrait, pour entreprendre avec fruit ces recherches, connaître les mathématiques, la physique, la physiologie, la pathologie, avoir une matière à manier, des instruments sous la main, et surtout l'habitude des sciences expérimentales. Tout cela manque. En France surtout, grâce aux idées courantes dont notre éducation première nous a imbus et aux mauvaises habitudes d'esprit qu'elle nous a fait contracter, la seconde moitié de notre vie se passe à désapprendre ce que nous avons appris dans l'autre .[^pXXIX-1]
 
-La psychologie, en effet, a eu le malheur d'être jus-[^pXXIX-1]
+La psychologie, en effet, a eu le malheur d'être jus-
 
 [p. XXX] qu'ici aux mains des métaphysiciens. Il s'est formé ainsi une tradition difficile à rompre . Par suite de préjugés invétérés, on a peine à admettre que le psychologue ne doit être qu'un naturaliste d'une certaine espèce. On s'obstine à le considérer comme un « philosophe » : dénomination aussi inexacte dans ce cas que s'il s'agissait d'un biologiste ou d'un chimiste.
 
@@ -240,9 +240,9 @@ Nous avons éliminé de même les « théories de la connaissance
 
 › , nombreuses en Allemagne , intéressantes, dues le plus souvent à des esprits vigoureux ou subtils qui tous portent la marque de Kant. Elles constituent un domaine à part, celui de la critique générale.
 
-Leur exposition serait une grosse tâche et deman crait un volume distinct.
+Leur exposition serait une grosse tâche et deman crait un volume distinct.[^pXXXI-1]
 
-0[^pXXXI-1]
+0
 
 [p. XXXII] Ces exclusions faites, il reste un champ bien délimité : c'est l'étude des questions accessibles à la fois à l'observation de la conscience et à l'investigation scientifique , telle qu'on la pratique dans les laboratoires ; c'est la psychologie considérée comme science naturelle , débarrassée de toute métaphysique et s'appuyant sur les sciences de la vie . Nous restons confinés dans les régions inférieures de la vie psychique ; mais notre position n'est pas si humble qu'il peut sembler, car ces phénomènes servent de base et de point d'appui à tout le reste . La psychologie physiologique, nous le verrons, pénètre par des trouées imprévues jusqu'aux questions les plus hautes de la connaissance humaine : telle expérience modeste en apprend plus qu'un volume de spéculations .
 
@@ -264,11 +264,11 @@ Après lui, chaque ordre de sensations devient l'objet de recherches approfondie
 
 et physiologique , on put mieux déterminer ce qui, dans la sensation , est simple, immédiatement donné et ce qui est ajouté par un travail de l'esprit (induction , déduction , association d'images). Là où la conscience , à elle seule , ne voyait qu'un fait irréductible , l'expérience montrait qu'il y avait plusieurs éléments combinés en un tout.
 
-Allant encore plus loin, Heimholtz fit voir , en particulier pour les sons , comment une sensation réputée absolument simple, dégagée même de ces additions psychologiques dont nous venons de parler , se décompose en sensations élémentaires qui cessent d'être démêlées par la conscience. Ses expériences ont servi de base aux interprétations ingénieuses de Taine et de Herbert Spencer ¹
+Allant encore plus loin, Heimholtz fit voir , en particulier pour les sons , comment une sensation réputée absolument simple, dégagée même de ces additions psychologiques dont nous venons de parler , se décompose en sensations élémentaires qui cessent d'être démêlées par la conscience. Ses expériences ont servi de base aux interprétations ingénieuses de Taine et de Herbert Spencer [^pXXXIV-1]
 
 1
 
-Le même savant, précédé dans cette voie par DuboisReymond , suivi plus tard par Donders , Exner, Wundt et beaucoup d'autres, essaya de déterminer la durée des actes psychiques. Les sensations furent étudiées d'abord ; [^pXXXIV-1]
+Le même savant, précédé dans cette voie par DuboisReymond , suivi plus tard par Donders , Exner, Wundt et beaucoup d'autres, essaya de déterminer la durée des actes psychiques. Les sensations furent étudiées d'abord ;
 
 [p. XXXV] plus tard, on étudia des actes d'une nature plus abstraite. Cette investigation , qui se continue, a jeté un jour nouveau sur le mécanisme et les conditions de la conscience, et l'on peut présumer qu'il en sortira des résultats inattendus .
 
@@ -300,11 +300,11 @@ HERBART
 
 Les premiers essais de psychologie scientifique, en Allemagne, sont dus à Herbart. Ils forment une transition entre la spéculation pure de Fichte et de Hegel et la psychologie sans métaphysique. C'est ce qui explique comment ils peuvent être
 
-cités par des hommes tels que Helmholtz et Wundt , comment ils ont exercé sur eux une influence avouée et comment à tant d'autres égards ils n'ont plus guère qu'un intérêt historique .
+cités par des hommes tels que Helmholtz et Wundt , comment ils ont exercé sur eux une influence avouée et comment à tant d'autres égards ils n'ont plus guère qu'un intérêt historique .[^p1-1]
 
 Herbart
 
-a exposé sa psychologie dans deux ouvrages principaux qui ont pour titre : De la psychologie comme[^p1-1]
+a exposé sa psychologie dans deux ouvrages principaux qui ont pour titre : De la psychologie comme
 
 [p. 2] ດ science , appuyée pour la première fois sur l'expérience, la métaphysique et les mathématiques, et Manuel de psychologie 1. Ce dernier, beaucoup plus court que le précédent, est d'une lecture plus difficile : il ne consiste guère qu'en un résumé de définitions et de formules .
 
@@ -312,7 +312,7 @@ Un point qu'il importe de noter tout d'abord, c'est que Herbart entend fonder la
 
 L'être, pour Herbart, « est absolument simple, sans pluralité, sans quantité ; il n'est qu'un quale. » Il dit ailleurs : « L'être est une position absolue ; son concept exclut toute négation et toute relation . » Et pour passer de ces considérations sur l'être en général à un être particulier : « L'âme, dit-il, est une substance simple, non-seulement sans parties , mais sans pluralité quelconque dans sa qualité 2. » Sa qualité nous est inconnue ; mais son activité, comme celle de tout ce qui est réel , consiste à se conserver (Selbsterhaltung) .
 
-Si tout ce qui existe est absolument simple par nature et par définition, d'où vient donc la pluralité ? Elle ne vient que des rapports déterminés qui s'établissent entre un être et les autres êtres . Par suite de ces rapports réciproques, les êtres se trouvent en lutte ; et par suite de cette lutte, l'effort pour la conservation, la Selbsterhaltung, qui constitue essentiel[^p2-1][^p2-2]
+Si tout ce qui existe est absolument simple par nature et par définition, d'où vient donc la pluralité ? Elle ne vient que des rapports déterminés qui s'établissent entre un être et les autres êtres .[^p2-2][^p2-1] Par suite de ces rapports réciproques, les êtres se trouvent en lutte ; et par suite de cette lutte, l'effort pour la conservation, la Selbsterhaltung, qui constitue essentiel
 
 [p. 3] lement chacun d'eux, devient une représentation (Vorstellung) . Telle est l'hypothèse de Herbart . Les représentations (ou , comme s'exprime la psychologie contemporaine, les états de conscience) ne sont donc « que les efforts que l'âme fait pour se conserver » . En d'autres termes , nos sensations , nos idées, nos souvenirs, tout ce qui constitue notre vie psychologique, n'existe pour nous que comme un effet de notre tendance à la conservation, qui, par son rapport avec les autres êtres, se détermine et se spécifie .
 
@@ -324,23 +324,23 @@ Quoi qu'il en soit, admettons cette hypothèse et tenons la genèse des états d
 
 : voyons comment Herbart va s'y prendre . Il est certain que , malgré ce goût marqué pour l'abstraction qui se traduit chez lui par l'abus de la métaphysique et des mathématiques, il montre parfois un sentiment vrai du fait réel , de son évolution et de ses variétés spécifiques . On peut en douter d'autant moins que cette tendance qui n'est chez lui qu'à l'état de germe s'est développée chez ses disciples
 
-: c'est de l'école de Herbart que nous verrons sortir plus tard la psychologie ethnique .
+: c'est de l'école de Herbart que nous verrons sortir plus tard la psychologie ethnique .[^p3-1]
 
-« La matière de la psychologie, dit-il, c'est la perception interne, le commerce avec les autres hommes de tous les[^p3-1]
+« La matière de la psychologie, dit-il, c'est la perception interne, le commerce avec les autres hommes de tous les
 
 [p. 4] degrés de culture, les observations de l'éducateur et de l'homme d'État, les récits des voyageurs, des historiens , des poètes et des moralistes, les expériences fournies par les fous , par les malades et les animaux 1. » Ailleurs, il fait remarquer que « l'homme des psychologues, c'est l'homme sociable et cultivé (gebildete) qui représente l'histoire de son espèce parvenue à une grande hauteur » ; mais que les faits actuels ne peuvent pas nous dire ce qui est primitif, qu'il faut recourir pour cela à l'examen du sauvage et de l'enfant 2 .
 
 Aujourd'hui , ces vues peuvent paraître communes ; il n'en était pas de même en Allemagne, il y a soixante ans : alors que la métaphysique régnait sans contestation, elles ont dû paraître une originalité voisine du paradoxe. J'incline à croire pourtant qu'elles avaient été suggérées à Herbart moins par ses propres réflexions que par la lecture de Locke .
 
-Le goût du fait réel en psychologie a fait de Herbart l'ennemi le plus acharné de l'hypothèse des facultés de l'âme . Il y revient sans cesse pour la combattre. La psychologie a reculé depuis Leibniz et Locke, grâce à Wolf_et à Kant, qui sont des abstracteurs (Absonderer) de facultés de l'âme . Les deux premiers suivaient une meilleure voie en s'abstenant de ces hypothèses ; car, « dès qu'à la conception naturelle de ce qui se passe en nous on ajoute l'hypothèse de facultés que nous avons, la psychologie se change en[^p4-1][^p4-2]
+Le goût du fait réel en psychologie a fait de Herbart l'ennemi le plus acharné de l'hypothèse des facultés de l'âme . Il y revient sans cesse pour la combattre. La psychologie a reculé depuis Leibniz et Locke, grâce à Wolf_et à Kant, qui sont des abstracteurs (Absonderer) de facultés de l'âme .[^p4-2][^p4-1] Les deux premiers suivaient une meilleure voie en s'abstenant de ces hypothèses ; car, « dès qu'à la conception naturelle de ce qui se passe en nous on ajoute l'hypothèse de facultés que nous avons, la psychologie se change en
 
 [p. 5] mythologie . » La psychologie empirique, dit-il ailleurs, nous parle de trois facultés : penser, sentir, désirer ; à ces trois faculte ; elle subordonne , comme à des genres , d'autres facultés (mémoire , imagination, raison, etc.) ; puis, à chaque espèce, elle subordonne des variétés (mémoire des lieux, des mots, etc. ; raison théorique et raison pratique, etc.) .
 
-Mais le réel, le fait, est individuel ; ce n'est pas un genre ni une espèce . Le général ne peut sortir de l'individuel que par une abstraction en règle ; et comment tenter cette abstraction quand l'individuel est mal connu, insuffisamment établi ¹ ?
+Mais le réel, le fait, est individuel ; ce n'est pas un genre ni une espèce . Le général ne peut sortir de l'individuel que par une abstraction en règle ; et comment tenter cette abstraction quand l'individuel est mal connu, insuffisamment établi [^p5-1] ?
 
 A ce sentiment de la réalité qui se trouve chez Herbart, quoiqu'il cite bien rarement des faits individuels , il faut ajouter une intuition très-nette de la méthode scientifique .
 
-Il ne croit pas, comme c'était alors la mode en Allemagne , que l'on puisse construire la psychologie à l'aide de pures déductions et d'arguties logiques . Il se propose d'appliquer à la psychologie « quelque chose qui ressemble aux recherches des sciences de la nature » (welche der Naturforschung gleiche) . Parfois même il semble dire que la psychologie ne peut se constituer comme science qu'à la condition de faire une part très-large à l'inconnu et en se bornant aux phénomènes. « La physique expérimentale ignore les forces de la nature, et cependant elle a deux moyens de découverte, l'expérimentation et le calcul. La psychologie ne peut pas expérimenter sur l'homme, et elle n'a pas d'instruments pour cela ; elle doit d'autant plus s'attacher à employer le calcul . >>>[^p5-1]
+Il ne croit pas, comme c'était alors la mode en Allemagne , que l'on puisse construire la psychologie à l'aide de pures déductions et d'arguties logiques . Il se propose d'appliquer à la psychologie « quelque chose qui ressemble aux recherches des sciences de la nature » (welche der Naturforschung gleiche) . Parfois même il semble dire que la psychologie ne peut se constituer comme science qu'à la condition de faire une part très-large à l'inconnu et en se bornant aux phénomènes. « La physique expérimentale ignore les forces de la nature, et cependant elle a deux moyens de découverte, l'expérimentation et le calcul. La psychologie ne peut pas expérimenter sur l'homme, et elle n'a pas d'instruments pour cela ; elle doit d'autant plus s'attacher à employer le calcul . >>>
 
 [p. 6] Il n'est pas sûr que Herbart soutînt encore de nos jours que l'expérimentation est impossible en psychologie . Les recherches de Fechner et de ses successeurs ont montré le contraire : tout un ordre de faits psychologiques est devenu accessible à l'expérience. Ce qui est sûr, c'est qu'il a une idée exacte des conditions de la science ; il sait qu'elle n'existe que là où il y a calcul, c'est-à-dire détermination quantitative , ou bien expérimentation, c'est-à-dire vérification objective, et qu'en dehors de ces conditions l'emploi du mot science est une usurpation et un abus .
 
@@ -350,7 +350,7 @@ La psychologie a quelque analogie avec la physiologie. << De même que l'une con
 
 construit l'esprit avec des séries de représentations.
 
-» Les représentations ou faits de conscience dont les lois peuvent être connues , telle est la matière de la psychologie . « Mais ce que nous cherchons, ce n'est pas un simple registre de faits, c'est un savoir spéculatif, c'est une réduction à des lois. » Par exemple, « la psychologie répète que les états de conscience s'associent dans le temps et l'espace, et elle n'en est jamais venue à penser que le temps et l'espace ne sont que les déterminations prochaines de cette association, qui en réalité n'est pas vague, comme la description courante qu'on en donne pourrait le faire[^p6-1]
+» Les représentations ou faits de conscience dont les lois peuvent être connues , telle est la matière de la psychologie . « Mais ce que nous cherchons, ce n'est pas un simple registre de faits, c'est un savoir spéculatif, c'est une réduction à des lois. »[^p6-1] Par exemple, « la psychologie répète que les états de conscience s'associent dans le temps et l'espace, et elle n'en est jamais venue à penser que le temps et l'espace ne sont que les déterminations prochaines de cette association, qui en réalité n'est pas vague, comme la description courante qu'on en donne pourrait le faire
 
 [p. 7] croire, mais qui se produit d'après une régularité strictement mathématique . » Il faut donc renoncer à rien comprendre à la psychologie , si l'on ne fait usage du calcul .
 
@@ -358,9 +358,9 @@ Le sens intime, ce prétendu instrument scientifique de la plupart des psycholog
 
 Jusqu'ici, nous ne savons qu'une chose
 
-: Les états de conscience, d'après l'hypothèse métaphysique de Herbart, seraient dus à l'effort que chaque être fait pour se conserver, dès qu'il entre en relation avec les autres êtres . Mais y a-t-il rien là qui ressemble à une propriété mathématique ? Oui ; car tout ce qui est perçu intérieurement a une propriété générale : c'est de se montrer « comme allant et venant, oscillant et flottant, en un mot comme quelque chose qui devient plus fort ou plus faible ¹ . » Chaque terme employé pour exprimer nos représentations renferme un concept de grandeur. Il faut donc admettre que dans les faits de conscience il n'y a aucun ordre, ou bien qu'il y a quelque chose qui présente un caractère mathématique et qu'on doit essayer d'analyser mathématiquement.
+: Les états de conscience, d'après l'hypothèse métaphysique de Herbart, seraient dus à l'effort que chaque être fait pour se conserver, dès qu'il entre en relation avec les autres êtres . Mais y a-t-il rien là qui ressemble à une propriété mathématique ? Oui ; car tout ce qui est perçu intérieurement a une propriété générale : c'est de se montrer « comme allant et venant, oscillant et flottant, en un mot comme quelque chose qui devient plus fort ou plus faible [^p7-1] . » Chaque terme employé pour exprimer nos représentations renferme un concept de grandeur. Il faut donc admettre que dans les faits de conscience il n'y a aucun ordre, ou bien qu'il y a quelque chose qui présente un caractère mathématique et qu'on doit essayer d'analyser mathématiquement.
 
-Pourquoi n'a-t-on pas essayé depuis longtemps cette analyse ? Herbart en donne plusieurs raisons. La principale est la difficulté de la mesure . Les grandeurs psychologiques sont des quantités variables qui ne peuvent être évaluées que d'une manière incomplète. « Mais on peut soumettre[^p7-1]
+Pourquoi n'a-t-on pas essayé depuis longtemps cette analyse ? Herbart en donne plusieurs raisons. La principale est la difficulté de la mesure . Les grandeurs psychologiques sont des quantités variables qui ne peuvent être évaluées que d'une manière incomplète. « Mais on peut soumettre
 
 [p. 8] au calcul les variations de certaines quantités, et ces quantités elles-mêmes, en tant qu'elles sont variables, sans les déterminer complètement : c'est sur cela que repose toute l'analyse infinitésimale . Tant que le calcul de l'infini n'était pas inventé , les mathématiques étaient trop imparfaites pour cet objet. » Il est maintenant possible de s'en servir pour constituer la psychologie comme science .
 
@@ -384,7 +384,7 @@ Nous entrons ici dans le cœur même de . la psychologie de Herbart . Il nous fa
 
 Toute représentation simple a une qualité déterminée , qui est invariable : la perception du rouge, par exemple, ne peut en aucune façon devenir celle du bleu. Mais toute représentation a aussi une valeur quantitative qui est variable , à savoir son degré d'intensité, de force, ou plus simplement de clarté 2. Un fait vulgaire montrera que nos représentations sont en réalité des forces qui luttent entre elles. Supposez, dit Herbart
 
-, qu'un homme vous parle une langue inconnue ; vous remarquerez que chaque mot, s'il n'est prononcé très-lentement, sort aussitôt de votre mémoire. Les perceptions produites en vous par ces divers sons ont donc la prcpriété de se chasser les unes les autres . Au temps où nous[^p9-1][^p9-2][^p9-3]
+, qu'un homme vous parle une langue inconnue ; vous remarquerez que chaque mot, s'il n'est prononcé très-lentement, sort aussitôt de votre mémoire. Les perceptions produites en vous par ces divers sons ont donc la prcpriété de se chasser les unes les autres .[^p9-3][^p9-2][^p9-1] Au temps où nous
 
 [p. 10] ne connaissions aucune langue, chaque mot produisait sur nous le même effet. Par un résultat de l'habitude , la liaison des mots nous est devenue facile ; nous ne sentons plus que chacun d'eux fait obstacle à l'autre ; mais cet antagonisme n'en continue pas moins à exister : c'est un fait général .
 
@@ -414,11 +414,11 @@ intensives
 
 poser le rapport A : B = m : n, quoiqu'il n'y ait aucune unité ou commune mesure à laquelle on puisse rapporter A et B pour déterminer la quantité intensive absolue de ces représentations .
 
-Les représentations étant contraires, il est évident que la plus forte résistera le plus fortement . La résistance sera dans le rapport -. Plus elle résiste, moins elle subit de
+Les représentations étant contraires, il est évident que la plus forte résistera le plus fortement . La résistance sera dans le rapport -.[^p11-1] Plus elle résiste, moins elle subit de
 
 m
 
-n[^p11-1]
+n
 
 [p. 12] changement ; par conséquent, les changements résultant de
 
@@ -444,13 +444,13 @@ et la plus faible
 
 1
 
-Tels sont les principes généraux sur lesquels repose la psychologie mathématique. On peut les résumer dans les propositions suivantes :
+Tels sont les principes généraux sur lesquels repose la psychologie mathématique.[^p12-1] On peut les résumer dans les propositions suivantes :
 
 4/56/5
 
 2-3
 
-= 2 : [^p12-1]
+= 2 :
 
 [p. 13] Les représentations deviennent des forces quand elles sont en état d'opposition réciproque.
 
@@ -506,15 +506,15 @@ Herbart examine ensuite deux autres cas :
 
 2º Les intensités sont inégales et les oppositions inégales . La solution n'est obtenue ici que par des calculs fort compliqués 1 .
 
-Chaque représentation, par suite de l'arrêt qu'elle subit, peut être chassée de la conscience . Mais cette exclusion[^p16-1]
+Chaque représentation, par suite de l'arrêt qu'elle subit, peut être chassée de la conscience .[^p16-1] Mais cette exclusion
 
 [p. 17] a ses degrés , et, dans ce passage de l'état de représenta ion réelle à l'état de simple tendance, il y a un point statique important que Herbart appelle le seuil de la conscience : « Je nomme seuil de la conscience (Schwelle des Bewusstseins) ces limites qu'une représentation semble franchir, lorsqu'elle passe de l'état d'arrêt complet à un état de représentation réelle . » Le calcul doit déterminer les conditions dans lesquelles une représentation peut atteindre un degré infiniment petit, en tant que représentation ; dans lesquelles par conséquent elle se tient à cette limite 1. Elle est « au-dessous du seuil » , lorsqu'elle n'a pas la force nécessaire pour remplir ces conditions ; et << au-dessus du seuil », quand elle a atteint un degré de représentation réelle . En d'autres termes, le seuil de la conscience est la limite où l'intensité d'une représentation peut être considérée comme = 0. La « valeur du seuil » (Schwellenwerth) est la valeur qu'une représentation doit avoir pour être refoulée juste au seuil de la conscience.
 
 Par exemple , si a = 1 et si b = 1 ; c, au moment précis où il sera sur le seuil de la conscience, aura une valeur = √ 1/2 ou 0,707.
 
-Au-dessous du seuil de la conscience , toute perception rentre dans la catégorie des « perceptions insensibles » de Leibniz . Pour Herbart, les représentations simples ne sont pas ces infiniment petits, mais les complexus qui, résultant de leur fusion, dépassent le seuil de la conscience. « Ce ne sont pas, dit Drobisch, des différentielles, mais l'intégrale des différentielles. La psychologie mathématique ne peut[^p17-1]
+Au-dessous du seuil de la conscience , toute perception rentre dans la catégorie des « perceptions insensibles » de Leibniz . Pour Herbart, les représentations simples ne sont pas ces infiniment petits, mais les complexus qui, résultant de leur fusion, dépassent le seuil de la conscience. « Ce ne sont pas, dit Drobisch, des différentielles, mais l'intégrale des différentielles.[^p17-1] La psychologie mathématique ne peut
 
-[p. 18] pas plus commencer par l'étude de ces perceptions insensibles dont résultent les perceptions simples, que la mécanique physique ne peut commencer par une théorie de l'attraction moléculaire . Le concept de représentation simple est donc aussi bon que celui de point matériel ou de molécule : c'est une abstraction scientifique, mais qui n'en a pas moins sa validité ¹ . >>>
+[p. 18] pas plus commencer par l'étude de ces perceptions insensibles dont résultent les perceptions simples, que la mécanique physique ne peut commencer par une théorie de l'attraction moléculaire . Le concept de représentation simple est donc aussi bon que celui de point matériel ou de molécule : c'est une abstraction scientifique, mais qui n'en a pas moins sa validité [^p18-1] . >>>
 
 Mécanique de l'esprit.
 
@@ -522,7 +522,7 @@ Cette partie de la psychologie étudie les représentations à l'état de mouvem
 
 <<< Les analogies entre la mécanique de l'esprit et celle des corps ne doivent d'ailleurs pas nous faire oublier leurs différences . Ici , il n'y a pas d'angles, de sinus, de cosinus, etc. , etc. ; point d'espace infini ; mais tout mouvement de représentations est renfermé entre deux points fixes : leur état d'arrêt complet, leur état de liberté complète. Au lieu de la pesanteur qui attire les corps en bas, nous avons ici l'effort naturel et constant de toutes les représentations pour revenir à leur état de liberté complète (absence d'arrêt) . »
 
-Si nous partons de l'état d'équilibre , ou , ce qui est plus[^p18-1]
+Si nous partons de l'état d'équilibre , ou , ce qui est plus
 
 [p. 19] réel au point de vue de l'expérience psychologique, de cet état d'arrêt où sont les représentations, nous voyons que, si de nouvelles forces interviennent, l'équilibre est rompu ; la somme d'arrêt diminue, et il y a un mouvement des représentations . La mécanique se propose d'appliquer le calcul aux questions suivantes : La diminution de la somme d'arrêt .
 
@@ -534,19 +534,19 @@ Nous ne pouvons entrer ici dans cette exposition. Nous essayerons seulement de m
 
 Par suite de cette lutte pour l'existence qui existe entre elles , chaque représentation n'occupe la conscience que pendant un temps restreint et se trouve changée en une . simple tendance . Herbart ne nous donne pas une idée bien nette de la nature de ces tendances : on peut cependant se les représenter comme un état d'équilibre ; les forces égales et contraires s'entravent réciproquement . Mais, dès qu'une circonstance quelconque amène une diminution d'arrêt, la tendance redevient une représentation réelle ; elle atteint d'abord le « seuil de la conscience » , qui forme l'horizon visible , puis monte au-dessus de l'horizon (Steigen) . Ce mouvement ascendant d'une représentation entraîne celui des états analogues, et ainsi se produit dans la conscience l'idée générale : elle est donc due non pas à un pouvoir spé-[p. 20]cial que l'âme exerce sur les perceptions simples, mais à une réaction mutuelle des perceptions analogues ; les différences s'obscurcissent dans la masse des perceptions, et il ne reste que ce que celles-ci ont de commun.
 
-Si nous prenons la notion d'espace, nous verrons qu'elle sort d'une succession de sensations . Nos états de conscience peuvent se juxtaposer de diverses manières , soit pour produire des combinaisons, soit pour former de simples successions . Les successions elles-mêmes sont de différentes sortes ; il n'y en a qu'une seule qui nous suggère la notion d'espace : c'est la succession qui peut être renversée, c'est-àdire dont les différents termes peuvent être parcourus indifféremment de A à Zet de Zà A. Le mouvement (d'un bras, d'un membre), considéré comme fait réel, ne joue pour Herbart qu'un rôle secondaire dans l'acquisition de notre notion d'espace : il n'est l'occasion de cette idée qu'autant qu'il produit dans la conscience une série d'états qui peut être renversée . « Durant le mouvement progressif, dit Herbart, les premières représentations s'abaissent (au-dessous du seuil) successivement et se fusionnent graduellement avec les suivantes . Mais, au moindre retour en arrière, ces représentations antérieures reviennent en masse, s'élèvent (audessus du seuil) à la faveur de celles qui y sont ajoutées et qui leur ressemblent. Il arrive ainsi que chaque représentation assigne sa place à toutes les autres, puisqu'elle doit se poser à côté d'elles et entre elles¹ .
+Si nous prenons la notion d'espace, nous verrons qu'elle sort d'une succession de sensations . Nos états de conscience peuvent se juxtaposer de diverses manières , soit pour produire des combinaisons, soit pour former de simples successions . Les successions elles-mêmes sont de différentes sortes ; il n'y en a qu'une seule qui nous suggère la notion d'espace : c'est la succession qui peut être renversée, c'est-àdire dont les différents termes peuvent être parcourus indifféremment de A à Zet de Zà A. Le mouvement (d'un bras, d'un membre), considéré comme fait réel, ne joue pour Herbart qu'un rôle secondaire dans l'acquisition de notre notion d'espace : il n'est l'occasion de cette idée qu'autant qu'il produit dans la conscience une série d'états qui peut être renversée . « Durant le mouvement progressif, dit Herbart, les premières représentations s'abaissent (au-dessous du seuil) successivement et se fusionnent graduellement avec les suivantes . Mais, au moindre retour en arrière, ces représentations antérieures reviennent en masse, s'élèvent (audessus du seuil) à la faveur de celles qui y sont ajoutées et qui leur ressemblent. Il arrive ainsi que chaque représentation assigne sa place à toutes les autres, puisqu'elle doit se poser à côté d'elles et entre elles[^p20-1] .
 
 >>>
 
-La notion d'espace résulte donc pour Herbart d'une asso[^p20-1]
+La notion d'espace résulte donc pour Herbart d'une asso
 
-[p. 21] ciation entre des états de conscience. Toute autre donnée (sentiment d'activité musculaire, résistance) est par lui négligée : il ne tient compte que des représentations et de leurs rapports. C'est ce qui a permis à Lotze d'objecter à cette théorie que certaines séries (par exemple la gamme) peuvent être parcourues indifféremment de haut en bas ou de bas en haut, sans donner la moindre idée d'espace, et d'autres critiques¹ ont pu soutenir que cette explication de l'espace implique elle-même préalablement l'idée de l'espace.
+[p. 21] ciation entre des états de conscience. Toute autre donnée (sentiment d'activité musculaire, résistance) est par lui négligée : il ne tient compte que des représentations et de leurs rapports. C'est ce qui a permis à Lotze d'objecter à cette théorie que certaines séries (par exemple la gamme) peuvent être parcourues indifféremment de haut en bas ou de bas en haut, sans donner la moindre idée d'espace, et d'autres critiques[^p21-1] ont pu soutenir que cette explication de l'espace implique elle-même préalablement l'idée de l'espace.
 
 #### III
 
 Il ne s'agit pas pour nous d'étudier la psychologie de Herbart dans tous ses détails ; ce qui précède contient l'essentiel ; il ne reste que deux points qui doivent nous arrêter : ses théories sur la sensibilité et sur le moi .
 
-Pour Herbart, tous les faits psychologiques, sans exception, sont des représentations . Les phénomènes nommés sentiments , affections , émotions , désirs , passions , etc., ne constituent pas une espèce à part qui s'oppose aux idées . Les phénomènes sensibles, selon lui, ne sont pas de nature irréductible ; ils ne présentent pas de caractères essentiellement distincts ; ils ne méritent pas de former un groupe particulier ; ils ne constituent pas un deuxième mode de la vie psychique . D'un autre côté, les sentiments ne sont pas[^p21-1]
+Pour Herbart, tous les faits psychologiques, sans exception, sont des représentations . Les phénomènes nommés sentiments , affections , émotions , désirs , passions , etc., ne constituent pas une espèce à part qui s'oppose aux idées . Les phénomènes sensibles, selon lui, ne sont pas de nature irréductible ; ils ne présentent pas de caractères essentiellement distincts ; ils ne méritent pas de former un groupe particulier ; ils ne constituent pas un deuxième mode de la vie psychique . D'un autre côté, les sentiments ne sont pas
 
 [p. 22] des représentations. Que sont-ils donc ? Ce sont simplement des rapports . Les états particuliers de l'âme que tout le monde désigne sous le nom de sentiments (avec leurs variétés) sont des rapports entre les représentations . Cette doctrine est déjà en germe dans Aristote . On a remarqué de bonne heure qu'un groupe de sentiments
 
@@ -556,19 +556,19 @@ dépendent des intervalles, c'est-à-dire des rapports entre nos perceptions . H
 
 « Le sentiment ( Gefühl) se produit lorsqu'une représentation reste dans la conscience par suite d'un équilibre entre les forces qui l'arrêtent et celles qui tendent à l'élever . » Cette définition a besoin d'être expliquée. Lorsqu'une représentation franchit le seuil de la conscience et s'élève, il se produit un état qui , dans la langue commune des psychologues, s'appelle un acte intellectuel . Si, au contraire , la somme d'arrêt s'accroît , la représentation est refoulée audessous du seuil ; l'acte intellectuel cesse . Mais il peut se présenter un autre cas
 
-: supposons qu'une représentation existe dans la conscience ; si deux autres représentations de force égale et contraires tendent , l'une à la refouler , l'autre à l'élever, il se produit un état d'équilibre . Cet état, qui résulte , on le voit , d'un rapport entre les représentations , produit un sentiment . Ainsi, dit Lindner, l'un des plus récents disciples de Herbart¹ , si nous prenons un sentiment tel que l'affliction causée par la perte d'un ami, l'idée de[^p22-1]
+: supposons qu'une représentation existe dans la conscience ; si deux autres représentations de force égale et contraires tendent , l'une à la refouler , l'autre à l'élever, il se produit un état d'équilibre . Cet état, qui résulte , on le voit , d'un rapport entre les représentations , produit un sentiment . Ainsi, dit Lindner, l'un des plus récents disciples de Herbart[^p22-1] , si nous prenons un sentiment tel que l'affliction causée par la perte d'un ami, l'idée de
 
 [p. 23] cet ami est prise « comme dans un étau » entre deux idées : celle de sa mort qui tend à produire un arrêt, celle de ses bienfaits qui tend à un effet contraire .
 
 Herbart loue beaucoup la division (due à Kant) des émotions en deux classes : 1º les émotions excitantes (rüstige) , telles que la joie et la colère ; 2º les émotions déprimantes (schmelzende) , comme la frayeur et la tristesse . Il définit les premières << des émotions qui font entrer dans la conscience un quantum de représentation réelle plus grand qu'elle n'en peut contenir ; » et les secondes « des émotions qui chassent de la conscience un quantum de représentation supérieur à celui qui devrait y être , en vertu de la nature même de ces représentations. »
 
-Quant aux désirs (Begehren), dont Herbart forme un groupe qui contient les penchants, les passions et la volonté (celle-ci est le désir tendant à une fin morale), ils sont définis de la manière suivante : « Le désir est la prédominance d'une représentation qui lutte contre les obstacles et par là détermine en ce sens les autres représentations ¹ .
+Quant aux désirs (Begehren), dont Herbart forme un groupe qui contient les penchants, les passions et la volonté (celle-ci est le désir tendant à une fin morale), ils sont définis de la manière suivante : « Le désir est la prédominance d'une représentation qui lutte contre les obstacles et par là détermine en ce sens les autres représentations [^p23-1] .
 
 >>
 
 Toute passion a pour base une représentation dominante : là où la représentation de l'objet désiré n'est pas maîtresse, il n'y a pas passion . La force de la passion , cette tendance irrésistible qui la caractérise, consiste dans cet effort con tinuel de la représentation dominante
 
-ou plutôt du groupe des représentations qui se rapportent à l'objet de la passion[^p23-1]
+ou plutôt du groupe des représentations qui se rapportent à l'objet de la passion
 
 [p. 24] -- contre cet arrêt continuel qu'elle subit dans la conscience. La passion naît d'une masse de représentations démesurément intenses, mal liées, qui se mettent en opposition avec les combinaisons régulières de représentations. En langage métaphorique , cela s'appelle l'antagonisme de la passion et de la raison ; mais, comme on le voit, il n'y a pas là deux facultés , deux entités qui s'opposent l'une à l'autre. « Les passions sont des tendances au désir, qui ont leur base dans l'entrelacement des représentations. Ce sont des tendances et non pas des actes : et c'est ce qui explique pourquoi il y a non-seulement des passions, mais des natures passionnées. L'absence de civilisation et d'éducation favorise le développement de ces natures, parce que plus les idées restent isolées, plus leur union est dépourvue de règle et d'ordre , plus chacune agira puissamment pour elle seule et n'éveillera que les idées qui peuvent entrer en combinaison avec elle sans lui faire obstacle . »
 
@@ -584,11 +584,11 @@ Même à première vue, son originalité est frappante. La méthode de Herbart n
 
 2º Les phénomènes internes ne sont pas accessibles à l'expérimentation, c'est-à-dire à une observation faite dans des circonstances déterminées, variables à volonté et contrôlées par l'emploi de la mesure .
 
-Aux observations de Kant, on a répondu ce qui suit ¹ :
+Aux observations de Kant, on a répondu ce qui suit [^p26-1] :
 
 En ce qui touche le premier point, il est certain que , pour présenter les faits internes sous une forme mathématique, il faut qu'ils contiennent au moins deux variables , qui représentent en quelque sorte deux dimensions. Mais c'est ce qui a lieu en effet, et les conditions exigées par Kant sont réalisées . Nos sensations , perceptions , sentiments , sont soumis non-seulement à la condition du temps , mais à des variations d'intensité. Ce sont des grandeurs intensives qui forment une série dans le temps .
 
-En ce qui touche le second point, quoique Herbart ne paraisse nulle part avoir entrevu la possibilité d'une expérimentation , il suffit de rappeler les travaux sur la psycho-[^p26-1]
+En ce qui touche le second point, quoique Herbart ne paraisse nulle part avoir entrevu la possibilité d'une expérimentation , il suffit de rappeler les travaux sur la psycho-
 
 [p. 27] physique, faits postérieurement à lui par Fechner, Volkmann, Helmholtz, Wundt, Delbœuf, etc., et qui seront longuement exposés dans cet ouvrage. Sans doute , nos états de conscience sont des grandeurs indéterminées . Mais est-il impossible de les déterminer, c'est-à-dire de les soumettre à la mesure ? La condition essentielle d'une mesure, c'est un rapport fixe entre ce qui mesure et ce qui est mesuré. Tel est le rapport qui existe entre un effet et sa cause . Dans les sciences physiques, c'est par la variation des effets que nous mesurons la variation des causes. Dans la psycho-physique, c'est le contraire ; la variation de la cause mesure la variation des effets . La mesure du temps nous offre un exemple très-ancien de ce procédé. Nous mesurons le cours de nos états internes à l'aide de leur cause externe,
 
@@ -622,7 +622,7 @@ qu'il avait imaginés. En admettant , ce qui est possible sans que rien le prouv
 
 Le jugement de l'un des derniers disciples de Herbart , Volkmann von Volkmar, nous servira de conclusion . Trèsfavorable, ce qui est naturel, à la psychologie mathématique, il a par contre l'avantage d'en fixer le vrai sens et de déterminer la portée exacte qu'on lui donne dans l'Ecole .
 
-<< La psychologie mathématique, dit-il ¹ , n'est pas, comme l'a prétendu Fortlage, « un divertissement ingénieux sur des <<< grandeurs imaginaires . » Elle consiste à soumettre à une exposition systématique toutes les déterminations quantitatives qui se rencontrent nécessairement dans l'ordre psychologique . Les idées d'action et de réaction, d'intensité des représentations , de mouvement des divers états de conscience, se rencontrent, sous un nom ou sous l'autre, dans tous les systèmes de psychologie et même dans la langue commune . Il est certain que ces faits ont, en partie au moins, un caractère quantitatif. L'exposition mathématique ne se distingue dong de l'exposition commune qu'en ce qu'elle cherche à poser[^p31-1]
+<< La psychologie mathématique, dit-il [^p31-1] , n'est pas, comme l'a prétendu Fortlage, « un divertissement ingénieux sur des <<< grandeurs imaginaires . » Elle consiste à soumettre à une exposition systématique toutes les déterminations quantitatives qui se rencontrent nécessairement dans l'ordre psychologique . Les idées d'action et de réaction, d'intensité des représentations , de mouvement des divers états de conscience, se rencontrent, sous un nom ou sous l'autre, dans tous les systèmes de psychologie et même dans la langue commune . Il est certain que ces faits ont, en partie au moins, un caractère quantitatif. L'exposition mathématique ne se distingue dong de l'exposition commune qu'en ce qu'elle cherche à poser
 
 [p. 32] avec exactitude et précision ce que l'usage commun laisse indéterminé . Il est injuste de confondre les essais de l'école de Herbart avec cette prétendue philosophie mathématique qui ne consiste qu'en un jeu vide de formules, en déductions et en calculs arbitraires. La psychologie mathématique ne se propose nullement d'être toute la psychologie. Elle s'interdit toute recherche sur la nature de l'âme, sur ses rapports avec le corps, sur l'origine des représentations ; elle n'applique point le calcul aux états simples. Sa seule prétention,
 
@@ -648,11 +648,11 @@ ET LA PSYCHOLOGIE ETHNOGRAPHIQUE
 
 #### I
 
-La tentative de Herbart était-elle sans précédent ? Suivant Rosenkranz, la première application systématique des mathématiques à la psychologie fut faite par un médecin de Vienne, Niesley, qui est resté complètement oublié 1. Quoi que l'érudition puisse découvrir sur ce point, la tentative de Herbart lui appartient bien en propre, et seul il a suscité une école. Ce livre n'étant pas une histoire de la psychologie al[^p35-1]
+La tentative de Herbart était-elle sans précédent ? Suivant Rosenkranz, la première application systématique des mathématiques à la psychologie fut faite par un médecin de Vienne, Niesley, qui est resté complètement oublié 1. Quoi que l'érudition puisse découvrir sur ce point, la tentative de Herbart lui appartient bien en propre, et seul il a suscité une école.[^p35-1] Ce livre n'étant pas une histoire de la psychologie al
 
 [p. 36] lemande, nous n'avons point à énumérer ses disciples. Il suffira de montrer en quelques mots qu'il a imprimé un grand mouvement .
 
-Drobisch (Moritz-Wilhelm), qui professe encore actuellement à l'Université de Leipzig, peut être considéré comme le plus ancien et le principal représentant de l'école. Sa psychologie, exposée dans plusieurs ouvrages, particulièrement dans ses Erste Grundlehren der mathematischen Psychologie (1850), offre un caractère remarquable de netteté . Il semble beaucoup plus détaché que son maître de la métaphysique . « La psychologie mathématique, dit-il (ouvrage cité, p . 7), s'en tient aux seuls phénomènes de la conscience et cherche à établir entre eux des rapports mathématiques. Pour cela, elle a besoin de s'appuyer sur des concepts hypothétiques qui ne sont pas donnés à titre de faits ; mais elle ne procède pas autrement que la mécanique, qui suppose des points matériels impénétrables , des forces en mouvement et une loi d'inertie . Lorsqu'elle est parvenue à établir des rapports mathématiques entre les phénomènes psychiques, elle laisse à la spéculation métaphysique le soin d'interpréter ces faits mathématiques en un sens matérialiste, ou idéaliste, ou intermédiaire, quel qu'il soit. » Au reste, Drobisch est considéré comme ayant opéré, dans l'École de Herbart, le retour vers la philosophie de Kant, retour que toutes les écoles allemandes ont opéré dans ces derniers temps ¹ . Indépendamment de lui, nous nommerons encore[^p36-1]
+Drobisch (Moritz-Wilhelm), qui professe encore actuellement à l'Université de Leipzig, peut être considéré comme le plus ancien et le principal représentant de l'école. Sa psychologie, exposée dans plusieurs ouvrages, particulièrement dans ses Erste Grundlehren der mathematischen Psychologie (1850), offre un caractère remarquable de netteté . Il semble beaucoup plus détaché que son maître de la métaphysique . « La psychologie mathématique, dit-il (ouvrage cité, p . 7), s'en tient aux seuls phénomènes de la conscience et cherche à établir entre eux des rapports mathématiques. Pour cela, elle a besoin de s'appuyer sur des concepts hypothétiques qui ne sont pas donnés à titre de faits ; mais elle ne procède pas autrement que la mécanique, qui suppose des points matériels impénétrables , des forces en mouvement et une loi d'inertie . Lorsqu'elle est parvenue à établir des rapports mathématiques entre les phénomènes psychiques, elle laisse à la spéculation métaphysique le soin d'interpréter ces faits mathématiques en un sens matérialiste, ou idéaliste, ou intermédiaire, quel qu'il soit. » Au reste, Drobisch est considéré comme ayant opéré, dans l'École de Herbart, le retour vers la philosophie de Kant, retour que toutes les écoles allemandes ont opéré dans ces derniers temps [^p36-1] . Indépendamment de lui, nous nommerons encore
 
 [p. 37] Cornelius, versé surtout dans les sciences physiques, mais qui , outre des études sur l'électricité et la physique moléculaire, a publié une Theorie des Sehens und raumlichen Vorstellens
 
@@ -674,11 +674,11 @@ anglais contemporains, Drobisch a expliqué nettement le caractère trèsgénér
 
 [p. 38] simple et exact de la psychologie mathématique, offre un caractère singulièrement vague et complexe : c'est la psychologie ethnographique , représentée surtout par trois disciples de Herbart : Waitz , Lazarus, Steinthal .
 
-Au premier abord, il semble assez étrange qu'une forme aussi concrète de la psychologie se rattache à l'école de Herbart ; mais, en fait, les disciples n'ont fait que développer quelques vues de leur maître . Ce point mérite d'être signalé, car on ne supposerait guère que le fondateur de la psychologie mathématique ait attaché une grande importance à ces recherches . Il soutient pourtant « que la psychologie reste toujours incomplète, tant qu'elle ne considère l'homme que comme un individu isolé ¹ . » Il était convaincu qu'une société est un tout animé et organique, régi par des lois psychologiques qui lui sont propres. Il a écrit une statique et une mécanique des États, comme il a fait une statique et une mécanique des idées. Quelques disciples se sont attachés à ce qu'il n'avait fait qu'indiquer : de là est sorti un ordre de travaux que jusqu'alors la psychologie ne connaissait guère et dont nous allons nous occuper maintenant.
+Au premier abord, il semble assez étrange qu'une forme aussi concrète de la psychologie se rattache à l'école de Herbart ; mais, en fait, les disciples n'ont fait que développer quelques vues de leur maître . Ce point mérite d'être signalé, car on ne supposerait guère que le fondateur de la psychologie mathématique ait attaché une grande importance à ces recherches . Il soutient pourtant « que la psychologie reste toujours incomplète, tant qu'elle ne considère l'homme que comme un individu isolé [^p38-1] . » Il était convaincu qu'une société est un tout animé et organique, régi par des lois psychologiques qui lui sont propres. Il a écrit une statique et une mécanique des États, comme il a fait une statique et une mécanique des idées. Quelques disciples se sont attachés à ce qu'il n'avait fait qu'indiquer : de là est sorti un ordre de travaux que jusqu'alors la psychologie ne connaissait guère et dont nous allons nous occuper maintenant.
 
 #### II
 
-<<<Voulez-vous connaître les Grecs et les Romains, disait un philosophe du xvIIIe siècle, étudiez les Anglais et les[^p38-1]
+<<<Voulez-vous connaître les Grecs et les Romains, disait un philosophe du xvIIIe siècle, étudiez les Anglais et les
 
 [p. 39] Français d'aujourd'hui. Les hommes décrits par Tacite et Polybe ressemblent aux habitants du monde qui nous entoure 1.
 
@@ -688,7 +688,7 @@ Tant que les naturalistes se sont bornés à une pure description des genres et 
 
 ou peu s'en faut - comme permanents ; tant que les historiens, insoucieux des variations de l'âme humaine à travers les siècles, ont étendu sur tous leurs récits un même vernis uniforme et monotone ; une psychologie abstraite, comme celle de Spinoza ou de Condillac, a dû paraître la seule possible . On n'en imaginait pas d'autre, et lorsqu'un esprit très-raffiné, très-subtil , s'était minutieusement analysé, on disait de lui : Il a fait connaître l'homme .
 
-Mais , du jour où l'idée d'évolution s'est introduite dans les sciences de la vie et dans les études historiques , remuant et renouvelant tout, la psychologie en a ressenti le contre-coup . On s'est demandé si cette étude abstraite de l'homme était suffisante ; si elle donnait autre chose que les grands traits et les conditions générales ; si , pour être sim-plement exacte, elle n'avait pas besoin d'être complétée . Les formes inférieures de l'humanité ont révélé des manières[^p39-1]
+Mais , du jour où l'idée d'évolution s'est introduite dans les sciences de la vie et dans les études historiques , remuant et renouvelant tout, la psychologie en a ressenti le contre-coup . On s'est demandé si cette étude abstraite de l'homme était suffisante ; si elle donnait autre chose que les grands traits et les conditions générales ; si , pour être sim-plement exacte, elle n'avait pas besoin d'être complétée .[^p39-1] Les formes inférieures de l'humanité ont révélé des manières
 
 [p. 40] particulières de sentir et d'agir, et l'histoire des peuples civilisés nous a montré des variations dans les sentiments, dans les idées sociales, dans les conceptions morales ou religieuses, et dans la langue qui les exprime .
 
@@ -710,21 +710,21 @@ Les anthropologistes forment un second groupe qui s'est surtout adonné à l'ét
 
 Quelques autres , au contraire, se sont attachés à cet ordre de manifestations. Les uns , comme Lubbock, Tylor, Mac Lennan, Bachoffen, Herbert Spencer (dans sa Sociologie descriptive) , se sont enfoncés dans l'histoire naturelle des mœurs ; d'autres ont étudié les langues et les croyances religieuses ; d'autres enfin, comme M. Taine, ont appliqué la critique psychologique à l'explication des littératures et des œuvres d'art .
 
-C'est à ce troisième groupe qu'appartiennent les deux hommes dont nous voulons parler ici : Théodore Waitz et Lazarus . Tandis que Hæckel , Fechner, Gerland, Peschel développent, discutent ou transforment les idées de Darwin 1 ; tandis que Vogt, Virchow, Schaffhausen représen-[^p42-1]
+C'est à ce troisième groupe qu'appartiennent les deux hommes dont nous voulons parler ici : Théodore Waitz et Lazarus .[^p42-1] Tandis que Hæckel , Fechner, Gerland, Peschel développent, discutent ou transforment les idées de Darwin 1 ; tandis que Vogt, Virchow, Schaffhausen représen-
 
 [p. 43] L'ÉCOLE DE DERBART tent la pure anthropologie ; d'autres se sont essayés à l'étude psychologique des races humaines, et, bien que leur œuvre ait été modeste, elle vaut la peine d'être signalée .
 
-Quoique inconnu chez nous, Théodore Waitz a sa place marquée dans l'histoire de la psychologie allemande contemporaine et est souvent cité dans son pays. Né à Gotha, le 17 mars 1821 , il eut Drobisch pour maître , à l'Université de Leipzig . A l'âge de vingt ans, il voyagea en France et en Italie pour collationner des manuscrits et préparer une édition critique de l'Organon d'Aristote, qui parut en 1844. Il s'établit, à son retour, comme privat-docent à l'Université de Marburg, qu'il ne quitta plus. C'est là qu'il se lia d'une amitié intime avec Ludwig, maintenant professeur à l'Université de Vienne, et l'un des plus grands physiologistes de l'Allemagne. Les deux amis travaillèrent activement à leur instruction réciproque : Waitz enseigna à Ludwig les mathématiques, et Ludwig apprit à Waitz la physiologie et l'anatomie . Waitz publia à cette époque son Manuel de psychologie comme science naturelle ¹, livre dont le style et le mode d'exposition ont un caractère remarquable de clarté et de précision. Ce qui n'est pas moins digne d'être noté, c'est une certaine couleur physiologique l'action contraire de deux principes : stabilité, différenciation corrélative.
+Quoique inconnu chez nous, Théodore Waitz a sa place marquée dans l'histoire de la psychologie allemande contemporaine et est souvent cité dans son pays. Né à Gotha, le 17 mars 1821 , il eut Drobisch pour maître , à l'Université de Leipzig . A l'âge de vingt ans, il voyagea en France et en Italie pour collationner des manuscrits et préparer une édition critique de l'Organon d'Aristote, qui parut en 1844. Il s'établit, à son retour, comme privat-docent à l'Université de Marburg, qu'il ne quitta plus. C'est là qu'il se lia d'une amitié intime avec Ludwig, maintenant professeur à l'Université de Vienne, et l'un des plus grands physiologistes de l'Allemagne. Les deux amis travaillèrent activement à leur instruction réciproque : Waitz enseigna à Ludwig les mathématiques, et Ludwig apprit à Waitz la physiologie et l'anatomie . Waitz publia à cette époque son Manuel de psychologie comme science naturelle [^p43-1], livre dont le style et le mode d'exposition ont un caractère remarquable de clarté et de précision. Ce qui n'est pas moins digne d'être noté, c'est une certaine couleur physiologique l'action contraire de deux principes : stabilité, différenciation corrélative.
 
 Gerland (Anthropologische Beiträge, Berlin, 1875) soutient que l'évolution peut s'expliquer par un pur processus atomico-mécanique, tout en accordant une singulière importance à un « principe psychique » qui rappelle les monades de Leibniz et de Herbart.
 
-Peschel a publié une Völkerkunde (Leipzig, 1874) . Quant à Hæckel, ses écrits sont trèsconnus en France .[^p43-1]
+Peschel a publié une Völkerkunde (Leipzig, 1874) . Quant à Hæckel, ses écrits sont trèsconnus en France .
 
 [p. 44] bien rare dans l'école de Herbart, surtout à cette époque. Waitz rapporte des expériences, discute et interprète de petits faits d'optique et d'acoustique : le tout nous paraîtrait un peu maigre aujourd'hui ; mais il faut, pour être impartial, se reporter de quarante ans en arrière . D'ailleurs, il ne faudrait pas croire que, infidèle à la doctrine de son maître, il se propose d'exclure de la psychologie toute métaphysique ' : il se proposait, au contraire, de réconcilier, par l'intermédiaire de Herbart, les deux partis alors en présence : l'un qui ne voit, dans les phénomènes physiques, que des formes du corps (le matérialisme de Feuerbach), l'autre qui ramène tout à l'esprit (l'idéalisme de Hegel) .
 
 Dix ans après la publication de ce traité de psychologie, Waitz fit paraître (1859) le premier volume de son grand ouvrage : Anthropologie des peuples à l'état de nature 2 , qu'il a laissé inachevé et qui, quoique dépassé aujourd'hui, n'en reste pas moins un monument.
 
-Comment Waitz passa-t-il de la psychologie abstraite à la psychologie ethnographique ? Déjà, dans son Manuel, il s'inquiète à plusieurs reprises du Naturmensch , et en particulier de la façon dont il se représente le monde, extérieur ; il semble entrevoir l'importance de ces recherches concrètes ; mais nous savons , par le témoignage de George Gerland ,[^p44-1][^p44-2][^p44-3]
+Comment Waitz passa-t-il de la psychologie abstraite à la psychologie ethnographique ?[^p44-3][^p44-2][^p44-1] Déjà, dans son Manuel, il s'inquiète à plusieurs reprises du Naturmensch , et en particulier de la façon dont il se représente le monde, extérieur ; il semble entrevoir l'importance de ces recherches concrètes ; mais nous savons , par le témoignage de George Gerland ,
 
 [p. 45] son disciple, qu'il y fut amené directement par l'étude des religions . Waitz « désirait vivement unir ces deux pôles de la vie spirituelle : les sciences naturelles et la foi religieuse. » Il se proposait d'écrire une philosophie des religions . En vue de cet ouvrage, et pour lui donner une base solide de faits, il étudia l'anthropologie, tout comme il avait étudié l'anatomie avant d'écrire sa Psychologie. Il s'est trouvé que cette Anthropologie der Naturvölker , conçue d'abord comme travail préparatoire, a servi à une autre fin :
 
@@ -738,21 +738,21 @@ Son ouvrage, on ne peut le nier, est dépassé, surtout le premier volume, qui, 
 
 ## introduction (p. 296 et sq.), quoique très-étendue, a égale
 
-ment vieilli . Pour Waitz, deux problèmes principaux se posent : Y a-t-il un caractère spécifique de l'homme ? Y a-til des différences spécifiques entre les races humaines ¹ ?
+ment vieilli . Pour Waitz, deux problèmes principaux se posent : Y a-t-il un caractère spécifique de l'homme ? Y a-til des différences spécifiques entre les races humaines [^p46-1] ?
 
 A la première question, Waitz répond que les caractères psychologiques propres à l'homme ne se laissent pas exprimer par une seule formule, telle que la perfectibilité comme certains auteurs l'ont pensé. Il les ramène à quatre groupes de faits
 
 : l'homme se soumet la nature par son travail ; il se sert du langage articulé ; il a des notions qui servent de base à la vie sociale ; il a des conceptions religieuses .
 
-Sur le second point, Waitz étudie longuement les variations psychologiques des races humaines par rapport aux variations du crâne ; il trouve qu'il n'y a rien à induire de là et conclut que, pour la psychologie, il n'y a pas de différence spécifique entre les races humaines (dass es keine spe-[^p46-1]
+Sur le second point, Waitz étudie longuement les variations psychologiques des races humaines par rapport aux variations du crâne ; il trouve qu'il n'y a rien à induire de là et conclut que, pour la psychologie, il n'y a pas de différence spécifique entre les races humaines (dass es keine spe-
 
 [p. 47] cifischen Unterscheide der Menschenracen in Rücksicht des geistigen Lebens gibt, t . I, p. 393) . D'où vient donc qu'il y a entre elles de si grandes différences, en ce qui touche la culture générale et la civilisation ? Car, si l'on rejette l'innéité des différences, il faut bien dire comment elles sont acquises .
 
 Pour Waitz , tout s'explique par le climat, les migrations , les idées religieuses , mais , avant tout , le climat, seule cause première : différence primitive d'où découlent logiquement toutes les autres différences, de nourriture, d'habitation, d'occupations, de régime politique, etc.
 
-Sans insister, on voit que plusieurs de ces assertions ne sont plus soutenables aujourd'hui, ou du moins se soutiendraient autrement. Au contraire, les cinq volumes consacrés à l'anthropologie descriptive restent encore le plus beau répertoire de faits qui existe pour l'étude des races à l'état de nature , si l'on excepte les monographies. Les publications spéciales ont complété ou rectifié, sur plusieurs points, l'œuvre de Waitz ; mais aucun travail d'ensemble ne l'a remplacée . Son deuxième volume est consacré aux nègres et aux races analogues (Nubiens, Abyssiniens, Gallas, Malgaches, Cafres , Somalis) , à leur culture matérielle , leur vie de famille, leur organisation politique, leurs coutumes , leur religion, leurs qualités intellectuelles, leur tempérament et leur caractère 1.
+Sans insister, on voit que plusieurs de ces assertions ne sont plus soutenables aujourd'hui, ou du moins se soutiendraient autrement. Au contraire, les cinq volumes consacrés à l'anthropologie descriptive restent encore le plus beau répertoire de faits qui existe pour l'étude des races à l'état de nature , si l'on excepte les monographies. Les publications spéciales ont complété ou rectifié, sur plusieurs points, l'œuvre de Waitz ; mais aucun travail d'ensemble ne l'a remplacée . Son deuxième volume est consacré aux nègres et aux races analogues (Nubiens, Abyssiniens, Gallas, Malgaches, Cafres , Somalis) , à leur culture matérielle , leur vie de famille, leur organisation politique, leurs coutumes , leur religion, leurs qualités intellectuelles, leur tempérament et leur caractère 1.[^p47-1]
 
-Une étude pareille (tomes III, X-IV) est consacrée aux races aborigènes de l'Amérique depuis les Esquimaux jusqu'aux Araucans et aux peuples semi-civi-[^p47-1]
+Une étude pareille (tomes III, X-IV) est consacrée aux races aborigènes de l'Amérique depuis les Esquimaux jusqu'aux Araucans et aux peuples semi-civi-
 
 [p. 48] lisés du Mexique, du Pérou et de l'Amérique centrale. Les deux
 
@@ -774,7 +774,7 @@ Il a étudié surtout les formes inférieures du développement humain, étude q
 
 Steinthal est connu par des travaux sur les langues auxquels on reproche des tendances métaphysiques : il a écrit sur leur origine, leur développement, leur classification, sur les rapports de la grammaire avec la psychologie et la logique .
 
-Il se montre partout pénétré de l'existence d'un Allgeist, d'un esprit collectif, condition et lien de toute société, base de toute vie morale , dont la loi ne doit être cherchée ni dans l'individu seul, ni en dehors ni au-dessus de l'humanité . -- Lazarus, jugé d'après son principal ouvrage , la Vie de l'âme 1 , a moins la manière d'un psychologue que[^p49-1][^p49-2]
+Il se montre partout pénétré de l'existence d'un Allgeist, d'un esprit collectif, condition et lien de toute société, base de toute vie morale , dont la loi ne doit être cherchée ni dans l'individu seul, ni en dehors ni au-dessus de l'humanité .[^p49-2][^p49-1] -- Lazarus, jugé d'après son principal ouvrage , la Vie de l'âme 1 , a moins la manière d'un psychologue que
 
 [p. 50] celle d'un moraliste, en prenant ce mot au sens que la critique littéraire lui donne chez nous. Ce livre est une série d'Essais élégants contenant des remarques fines sur l'humour comme phénomène psychologique, sur le tact, sur l'honneur et la gloire, sur les rapports des arts entre eux , sur l'éducation et la science, sur le langage dans ses rapports avec la pensée, etc. On y trouve une érudition bien nourrie , des traits agréables empruntés aux romanciers et aux poètes , mais rien qui ressemble à une méthode rigoureusement scientifique, classant des faits et cherchant des lois.
 
@@ -870,7 +870,7 @@ Les principaux collaborateurs, outre Lazarus et Steinthal, sont Delf brück, Tob
 
 Les anthropologistes anglais, dont nous n'avons d'ailleurs pas à nous occuper ici, paraissent avoir mieux compris les conditions d'une psychologie des races, en esquissant des monographies . Soucieux, avant tout, de recueillir des faits, ils en ont cependant tiré quelques conclusions intéressantes . C'est ainsi que Lubbock et Mac Lennan ont étudié la famille primitive ; que Tylor s'est efforcé de prouver que les premières étapes de la civilisation sont toujours uniformes , quels que soient les races , les temps et les pays. Nous souhaitons à quelque collaborateur de la Zeitschrift für Võlkerpsychologie d'employer de même les matériaux de la Revue .
 
-Stuart Mill, dans le livre qu'il consacre à la logique des i sciences morales ¹ , a exposé la méthode de l'éthologie, c'està-dire de la science du caractère, « en y comprenant la formation des caractères nationaux ou collectifs, aussi bien que[^p56-1]
+Stuart Mill, dans le livre qu'il consacre à la logique des i sciences morales [^p56-1] , a exposé la méthode de l'éthologie, c'està-dire de la science du caractère, « en y comprenant la formation des caractères nationaux ou collectifs, aussi bien que
 
 [p. 57] des caractères individuels, et il en a fait une science entièrement déductive. D'après lui, la psychologie, fondée sur l'observation et l'expérience, trouve les lois fondamentales de l'esprit ; l'éthologie détermine le genre de caractère produit, conformément à ces lois générales, par un ensemble de circonstances morales et physiques. Il eût été intéressant de savoir ce que les représentants de la Völkerpsychologie peni sent de cette méthode ; car, s'ils se sont amplement expliqués sur l'objet, le but et les éléments de leur science, ils n'ont pas été suffisamment explicites sur la méthode à employer. Ils semblent avoir surtout visé à rassembler des documents, et, à ce titre, ils se sont montrés plus empiriques que Stuart Mill lui-même . On ne saurait les en blâmer : ces études de détail trouveront leur emploi ; elles méritent d'être continuées, et leurs promoteurs ont une place assurée dans l'histoire de la psychologie allemande contemporaine 1 .[^p57-1]
 
@@ -890,11 +890,11 @@ d'importants articles encore aujourd'hui cités ; il publie un Traité de pathol
 
 La plus grande partie de son œuvre est donc complètement en dehors de notre sujet, et nous n'avons rien à en dire ici . Sa Psychologie elle-même ne rentre qu'à demi dans notre cadre . Lotze, en effet, tout en faisant une large part à l'expérience, n'a jamais séparé les recherches psychologiques des hypothèses métaphysiques, et l'on peut affirmer sans hésitation que cette « psychologie sans âme » qui a gagné bon nombre d'adhérents en Allemagne, dans ces derniers temps , ne sera jamais celle qu'il préfère. C'est cependant, en réalité, une psychologie physiologique qu'il a essayée sous le titre un peu bizarre de Psychologie médicale, et telle qu'elle est, à vingt-six ans de date, elle reste encore l'œuvre qui fait le mieux connaître Lotze comme psychologue et qui lui assigne une place dans le mouvement contemporain dont nous essayons de donner ici une idée.
 
-[p. 61] Dans cet ouvrage, qui comprend trois livres, le premier est consacré à la pure métaphysique¹ . Pour les deux autres, bon nombre de parties ont vieilli ; l'auteur, croyons-nous, ne ferait aucune difficulté de l'avouer. Sans parler de la physiologie nerveuse, fort différente aujourd'hui de ce qu'elle était
+[p. 61] Dans cet ouvrage, qui comprend trois livres, le premier est consacré à la pure métaphysique[^p61-1] . Pour les deux autres, bon nombre de parties ont vieilli ; l'auteur, croyons-nous, ne ferait aucune difficulté de l'avouer. Sans parler de la physiologie nerveuse, fort différente aujourd'hui de ce qu'elle était
 
 il y a trente ans , la manière de comprendre ou de poser divers problèmes est tout autre, depuis que Fechner, Wundt, Helmholtz y ont touché . Une analyse de la Psychologie médicale serait donc hors de propos . Nous n'exposerons que la partie de cette œuvre qui actuellement encore reste originale . Laissons de côté la Métaphysique de l'auteur . Laissons également ces études sur les sensations, les sentiments , la volonté, qui se rencontrent nécessairement dans toute psychologie et qui ont été présentées depuis sous une forme plus ample en Allemagne et ailleurs. Ces questions écartées, nous ne nous attacherons qu'à un seul point, pour l'examiner en détail
 
-: la théorie des signes locaux et la perception de l'espace. C'est là en effet la partie vraiment originale de la Psychologie de Lotze, celle qui est encore vivante, acceptée ou au moins discutée par les meilleurs juges, celle dont l'influence se retrouve dans tous les écrits contemporains , que Wundt a admise en la modifiant , que Helmholtz 2 considère comme le premier pas décisif qui ait été fait pour ramener les physiologistes à cette opinion que la perception de l'étendue est un effet non de l'innéité, mais de l'expérience .[^p61-1][^p61-2]
+: la théorie des signes locaux et la perception de l'espace. C'est là en effet la partie vraiment originale de la Psychologie de Lotze, celle qui est encore vivante, acceptée ou au moins discutée par les meilleurs juges, celle dont l'influence se retrouve dans tous les écrits contemporains , que Wundt a admise en la modifiant , que Helmholtz 2 considère comme le premier pas décisif qui ait été fait pour ramener les physiologistes à cette opinion que la perception de l'étendue est un effet non de l'innéité, mais de l'expérience .[^p61-2]
 
 [p. 62] C'est donc l'exposé de cette unique question qui va nous occuper. Toutefois, comme il est difficile de séparer complètement dans la Psychologie de Lotze l'étude expérimentale de l'hypothèse métaphysique, comme sa phraséologie, qu'on ne pourrait changer sans dénaturer le sens de sa doctrine, offre un caractère ontologique, il nous faut en quelques mots initier le lecteur à cette méthode, qui n'est ni purement spéculative, ni purement empirique.
 
@@ -918,13 +918,13 @@ Ouvrage cité, trad . Penjon, p . 52 .
 
 2. La physique est, pour Lotze, le type de la cognitio circa rem.
 
-[p. 65] particulières auxquelles donne lieu la vie spirituelle en se développant dans le domaine des rapports de temps et d'espace . Mais, si nous voulons réellement contribuer au progrès de la science, nous devons nous contenter, comme l'exigent trop souvent les lacunes de la connaissance humaine, d'une part de posséder ce principe, d'autre part de soumettre la grande diversité des phénomènes empiriques, d'abord aux lois les plus rapprochées que peut donner l'abstraction, pour préparer peu à peu le moment où l'on pourra déduire ces phénomènes du vrai principe, du principe le plus élevé de leur existence ¹ .
+[p. 65] particulières auxquelles donne lieu la vie spirituelle en se développant dans le domaine des rapports de temps et d'espace . Mais, si nous voulons réellement contribuer au progrès de la science, nous devons nous contenter, comme l'exigent trop souvent les lacunes de la connaissance humaine, d'une part de posséder ce principe, d'autre part de soumettre la grande diversité des phénomènes empiriques, d'abord aux lois les plus rapprochées que peut donner l'abstraction, pour préparer peu à peu le moment où l'on pourra déduire ces phénomènes du vrai principe, du principe le plus élevé de leur existence [^p65-1] .
 
 >>
 
 Ce passage, si étrange pour un psychologue, signifie, si nous le comprenons bien, que l'idéal de la psychologie consisterait à devenir l'ontologie pure, mais qu'en attendant il faut se contenter d'expliquer le connaissable par l'inconnaissable , le positif par le supposé, le fait par l'imaginaire ; bref, que les laborieux résultats de la psychologie empirique ne sont qu'obscurité et illusion, s'ils ne tirent leur lumière de cette « réalité saisie immédiatement » , qui pour Lotze et ses adhérents est une source de révélations inaccessibles à nous autres .
 
-Sans insister davantage, on voit quel embarras résulte, pour la construction et l'exposition d'une doctrine psychologique , de l'emploi de cette méthode mixte, comme nous l'avons appelée plus haut, qu'on définirait mieux encore en l'appelant : un procédé qui consiste tantôt à employer la méthode scientifique , tantôt à s'en passer totalement, sous prétexte[^p65-1]
+Sans insister davantage, on voit quel embarras résulte, pour la construction et l'exposition d'une doctrine psychologique , de l'emploi de cette méthode mixte, comme nous l'avons appelée plus haut, qu'on définirait mieux encore en l'appelant : un procédé qui consiste tantôt à employer la méthode scientifique , tantôt à s'en passer totalement, sous prétexte
 
 [p. 66] de la dépasser. Lotze nous offre le spectacle d'un homme pris continuellement entre sa science et ses tendances, entre ses connaissances positives et ses habitudes d'esprit. Il met très-haut la métaphysique, sans vouloir renoncer aux faits ; il tient grand compte des faits, mais il les subordonne à sa métaphysique : et il ne réussit nulle part à marier ces deux éléments dissemblables , qui , de quelque façon qu'il les mêle , ne demandent qu'à se séparer .
 
@@ -958,13 +958,13 @@ La Psychologie de Lotze, en laissant de côté la première partie, consacrée t
 
 Il faut d'abord bien comprendre le but que Lotze s'est proposé dans son chapitre sur les räumlichen Anschauungen . Il ne s'agit pas pour lui d'expliquer la notion de l'espace, considérée forme dernière et irréductible de l'esprit.[^p68-1]
 
-[p. 69] Ses déclarations sont très-nettes à cet égard ; on peut seulement lui reprocher de n'avoir pas placé, en tête de son exposition, cette réserve capitale qui la domine tout entière et qu'on ne trouve énoncée que sous forme de remarques, dans le cours des discussions. C'est un défaut de composition assez choquant , car il en résulte pour le lecteur non averti quelque incertitude sur le but que se propose l'auteur. On croit d'abord qu'il s'agit d'une « déduction » de l'espace, d'une analyse élémentaire ayant pour fin la réduction de l'espace à une notion plus simple, - réduction que quelques écoles empiriques ont essayée. Il n'en est rien. « Nous n'avons nullement, dit Lotze 1, le projet de déduire de ces signes locaux la faculté pour l'âme de voir l'espace en général, ni la nécessité pour elle de comprendre le senti sous cette notion. Nous supposons, au contraire, qu'il y a dans la nature de l'âme des motifs pour lesquels non-seulement elle est capable d'une notion d'espace, mais encore forcée d'appliquer cette notion au contenu des sensations, et nous n'avons cherché à expliquer par des rapports physiologiques hypothétiques entre des signes locaux ni cette faculté ni cette obligation. Accordons cependant et prenons pour un fait à reconnaître tout d'abord que l'âme puisse former ces idées d'espace et y consente ; il reste à se demander encore d'après quels principes elle guiderait son choix dans cette idée générale d'espace , pour attribuer à telle sensation telle place et à telle autre telle autre place, et comment elle se conduirait pour regarder les sensations a et b[^p69-1]
+[p. 69] Ses déclarations sont très-nettes à cet égard ; on peut seulement lui reprocher de n'avoir pas placé, en tête de son exposition, cette réserve capitale qui la domine tout entière et qu'on ne trouve énoncée que sous forme de remarques, dans le cours des discussions. C'est un défaut de composition assez choquant , car il en résulte pour le lecteur non averti quelque incertitude sur le but que se propose l'auteur. On croit d'abord qu'il s'agit d'une « déduction » de l'espace, d'une analyse élémentaire ayant pour fin la réduction de l'espace à une notion plus simple, - réduction que quelques écoles empiriques ont essayée. Il n'en est rien. « Nous n'avons nullement, dit Lotze 1, le projet de déduire de ces signes locaux la faculté pour l'âme de voir l'espace en général, ni la nécessité pour elle de comprendre le senti sous cette notion. Nous supposons, au contraire, qu'il y a dans la nature de l'âme des motifs pour lesquels non-seulement elle est capable d'une notion d'espace, mais encore forcée d'appliquer cette notion au contenu des sensations, et nous n'avons cherché à expliquer par des rapports physiologiques hypothétiques entre des signes locaux ni cette faculté ni cette obligation.[^p69-1] Accordons cependant et prenons pour un fait à reconnaître tout d'abord que l'âme puisse former ces idées d'espace et y consente ; il reste à se demander encore d'après quels principes elle guiderait son choix dans cette idée générale d'espace , pour attribuer à telle sensation telle place et à telle autre telle autre place, et comment elle se conduirait pour regarder les sensations a et b
 
 [p. 70] comme voisines, les sensations a et c comme éloignées l'une par rapport à l'autre.
 
 >>>
 
-L'intuition générale de l'espace est donc posée à titre de donnée primitive et placée au-dessus de toute explication . Toutefois, ce n'est pas pour Lotze une sorte d'entité antérieure à l'expérience . « On ne saurait imaginer que , avant d'avoir reçu des impressions extérieures , l'âme déploie , comme un filet prêt à prendre tout ce qui y tombera, l'intuition d'un espace infini à trois dimensions toute formée et déjà achevée. Il se présenterait de nouveau la question de savoir comment on peut faire entrer les impressions dans cette sorte de piège, tendu dans un monde où elles ne sont pas encore. La faculté de répondre à l'impulsion des ondes lumineuses par la sensaion de vert ou de rouge ne se comprend que comme une manière de réagir propre et innée à la nature de l'âme et ne donnant lieu à aucune déduction quelconque. Après avoir éprouvé ces sensations , nous en tirons l'idée générale de couleur..... Il en est de même de l'espace. Nous n'en avons pas d'abord l'intuition vide , pour y disposer ensuite les images de ce qui peut faire impression sur nous ; mais, réagissant selon les lois de notre nature contre les excitations déjà subies, nous commençons par ocaliser une impression p près d'une autre q, en imaginant une ligne mn qu'on peut appeler élément de l'espace futur, mais non pas une ligne dans l'espace , car cet espace entier dans lequel elle pourrait être tracée n'existe pas encore . C'est plus tard, en observant ce que nous avons fait ou ce qui s'est fait en nous, que nous [p. 71] nous apercevons de la possibilité de réunir deux de ces lignes pq, rs par deux autres pr, qs , et que, continuant les observations , nous acquérons la conviction que cette possibilité de lier des points donnés n'a pas de borne. Alors est formée l'intuition de l'espace infini ; c'est le résultat de la combinaison des réactions élémentaires innées dans l'âme et lui appartenant, comme on dit, *a priori* ¹ . »
+L'intuition générale de l'espace est donc posée à titre de donnée primitive et placée au-dessus de toute explication . Toutefois, ce n'est pas pour Lotze une sorte d'entité antérieure à l'expérience . « On ne saurait imaginer que , avant d'avoir reçu des impressions extérieures , l'âme déploie , comme un filet prêt à prendre tout ce qui y tombera, l'intuition d'un espace infini à trois dimensions toute formée et déjà achevée. Il se présenterait de nouveau la question de savoir comment on peut faire entrer les impressions dans cette sorte de piège, tendu dans un monde où elles ne sont pas encore. La faculté de répondre à l'impulsion des ondes lumineuses par la sensaion de vert ou de rouge ne se comprend que comme une manière de réagir propre et innée à la nature de l'âme et ne donnant lieu à aucune déduction quelconque. Après avoir éprouvé ces sensations , nous en tirons l'idée générale de couleur..... Il en est de même de l'espace. Nous n'en avons pas d'abord l'intuition vide , pour y disposer ensuite les images de ce qui peut faire impression sur nous ; mais, réagissant selon les lois de notre nature contre les excitations déjà subies, nous commençons par ocaliser une impression p près d'une autre q, en imaginant une ligne mn qu'on peut appeler élément de l'espace futur, mais non pas une ligne dans l'espace , car cet espace entier dans lequel elle pourrait être tracée n'existe pas encore . C'est plus tard, en observant ce que nous avons fait ou ce qui s'est fait en nous, que nous [p. 71] nous apercevons de la possibilité de réunir deux de ces lignes pq, rs par deux autres pr, qs , et que, continuant les observations , nous acquérons la conviction que cette possibilité de lier des points donnés n'a pas de borne. Alors est formée l'intuition de l'espace infini ; c'est le résultat de la combinaison des réactions élémentaires innées dans l'âme et lui appartenant, comme on dit, *a priori* [^p71-1] . »
 
 Il est donc bien entendu qu'il ne s'agit pour Lotze que d'expliquer la genèse empirique des intuitions d'espace . Pour que nos sensations visuelles et tactiles nous apparaissent comme étendues, il faut et il suffit qu'il y ait en nous une possibilité ou une nécessité de les coordonner d'une certaine manière . Cela admis, quelles sont les dispositions expérimentales qui permettent cette coordination ?
 
@@ -978,7 +978,7 @@ explications
 
 erronées
 
-est l'hypothèse antique des idées- images . Elle ne mérite pas de nous arrêter, et personne ne voudrait discuter sérieusement s'il entre[^p71-1]
+est l'hypothèse antique des idées- images . Elle ne mérite pas de nous arrêter, et personne ne voudrait discuter sérieusement s'il entre
 
 [p. 72] dans « l'âme » de petites copies des objets extérieurs . Cependant cette doctrine se rencontre encore partout , quoique beaucoup plus raffinée et plus subtile. Toutes les théories de l'espace admettent en effet plus ou moins « que la forme sous laquelle une quantité d'excitations simultanées du système nerveux se suivent l'une l'autre dans l'espace contient immédiatement la raison d'une disposition semblable des sensations dans l'espaсе . »
 
@@ -1000,9 +1000,9 @@ la même erreur est toujours commise : pour expliquer l'esi pace, on commence pa
 
 [p. 74] des objets extérieurs, ce ne peut être par voie de compréhension , mais par voie de reproduction nouvelle d'espace. Généralement, l'extensif est transformé en intensif. C'est avec celui-ci que l'âme doit d'abord reconstruire intérieurement un nouveau monde de l'espace, dans lequel les images des objets extérieurs trouvent une fonction correspondante . De même qu'une valeur variable peut décroître jusqu'à zéro et, à partir de là, prendre un nouvel accroissement ; de même il faut absolument que les impressions géométriques ordonnées disparaissent en un point où
 
-il n'y a plus d'espace, pour se reproduire ensuite au delà. De même, ensuite, qu'une grandeur variable se développe de nouveau, non parce qu'elle enfouit ses valeurs réelles antérieures pour les coucher, pour ainsi dire, sous la valeur zéro , mais parce que la loi de sa variation s'applique par l'anéantissement momentané de sa valeur réelle ; de même aussi les impressions arrivées à l'âme se développent de nouveau dans un monde d'espace, non en obscurcissant dans la conscience la qualité cachée de l'espace, mais en se montrant capables d'entretenir, dans les excitations extensives de l'âme qu'elles ont produites, des relations d'où résulte de nouveau, dans la faculté reconstitutive de la nature, l'image des objets en question ¹ . >>>
+il n'y a plus d'espace, pour se reproduire ensuite au delà. De même, ensuite, qu'une grandeur variable se développe de nouveau, non parce qu'elle enfouit ses valeurs réelles antérieures pour les coucher, pour ainsi dire, sous la valeur zéro , mais parce que la loi de sa variation s'applique par l'anéantissement momentané de sa valeur réelle ; de même aussi les impressions arrivées à l'âme se développent de nouveau dans un monde d'espace, non en obscurcissant dans la conscience la qualité cachée de l'espace, mais en se montrant capables d'entretenir, dans les excitations extensives de l'âme qu'elles ont produites, des relations d'où résulte de nouveau, dans la faculté reconstitutive de la nature, l'image des objets en question [^p74-1] . >>>
 
-S'il est admis que , dès que l'impression périphérique[^p74-1]
+S'il est admis que , dès que l'impression périphérique
 
 [p. 75] transmise par les nerfs devient un état de conscience, elle cesse d'offrir un caractère extensif , il reste à expliquer comment chacun des éléments qui constituent cette impression conserve sa marque propre et ses relations avec les autres éléments ; comment il se différencie d'eux et se rapporte à eux : car, sans ces conditions, aucune reconstruction de l'espace n'est possible. C'est à quoi répond l'hypothèse des signes locaux .
 
@@ -1030,11 +1030,11 @@ Pour achever ces considérations générales sur les signes locaux, il nous rest
 
 : aussi ne s'étonne-ton point que Hartmann ait considéré cette théorie des signes locaux
 
-comme un témoignage en faveur de sa thèse . Quand nous déterminons trigonométriquement la position de points éloignés, à l'aide de l'angle qu'enferment nos rayons visuels dirigés sur les objets, nous faisons un usage parfaitement conscient de nos signes locaux. Dans la vie ordinaire , quand nous rapportons une excitation cutanée à un point déterminé de la peau, en vertu d'une association fondée sur l'expérience , nous avons encore une conscience assez nette du signe local. Mais, dans la plupart des cas, il n'en est pas ainsi. « Quand nous localisons dans le domaine de la vue des points colorés perçus simultanément, la raison de cette localisation échappe totalement à la conscience, et les signes locaux que nous supposons encore ici agissent toujours à son insu . » C'est un cas analogue à celui des mouvements réflexes qui ne parviennent à la conscience[^p79-1][^p79-2]
+comme un témoignage en faveur de sa thèse . Quand nous déterminons trigonométriquement la position de points éloignés, à l'aide de l'angle qu'enferment nos rayons visuels dirigés sur les objets, nous faisons un usage parfaitement conscient de nos signes locaux. Dans la vie ordinaire , quand nous rapportons une excitation cutanée à un point déterminé de la peau, en vertu d'une association fondée sur l'expérience , nous avons encore une conscience assez nette du signe local. Mais, dans la plupart des cas, il n'en est pas ainsi. « Quand nous localisons dans le domaine de la vue des points colorés perçus simultanément, la raison de cette localisation échappe totalement à la conscience, et les signes locaux que nous supposons encore ici agissent toujours à son insu . »[^p79-2][^p79-1] C'est un cas analogue à celui des mouvements réflexes qui ne parviennent à la conscience
 
-[p. 80] qu'à titre de faits accomplis. « La localisation dans l'espaсе appartient donc à ce que l'âme exécute d'une manière inconsciente par le fait de la mécanique de ses états intérieurs ¹ . >>
+[p. 80] qu'à titre de faits accomplis. « La localisation dans l'espaсе appartient donc à ce que l'âme exécute d'une manière inconsciente par le fait de la mécanique de ses états intérieurs [^p80-1] . >>
 
-Lotze a récemment déclaré qu'il ne pouvait souscrire à l'opinion de ceux qui, ayant adopté sa théorie, ont soutenu que l'on peut par la réflexion, par l'observation intérieure, vérifier l'hypothèse des signes locaux . « Nous ne méconnaissons pas, dit-il, l'incertitude et l'arbitraire de toute hypothèse par laquelle on suppose des phénomènes qui, existant dans l'âme , y existent à son insu . On n'a certainement pas le droit d'admettre de tels états inconscients, à moins de les assimiler aux idées oubliées et reparues, seuls exemples qui prouvent la persistance dans l'âme de ce qui ne persiste plus dans la conscience . Or, je crois que dans le cas dont il s'agit nous en avons le droit 2. » Le musicien exercé exécute sans conscience des actes qui ont été conscients à l'origine . << Nous sommes persuadés qu'il en est de même pour la localisation de nos sensations . Elle semble à présent se faire subitement, à l'instant même où nous ouvrons les yeux : au début de la vie, cette aptitude ne s'est développée qu'à l'aide d'une série d'expériences qui, si nous pouvions les reproduire, nous feraient voir, comme autant d'états de conscience chez l'enfant , tous ces états intermédiaires devenus imperceptibles pour la conscience de l'adulto. >>[^p80-1][^p80-2]
+Lotze a récemment déclaré qu'il ne pouvait souscrire à l'opinion de ceux qui, ayant adopté sa théorie, ont soutenu que l'on peut par la réflexion, par l'observation intérieure, vérifier l'hypothèse des signes locaux . « Nous ne méconnaissons pas, dit-il, l'incertitude et l'arbitraire de toute hypothèse par laquelle on suppose des phénomènes qui, existant dans l'âme , y existent à son insu . On n'a certainement pas le droit d'admettre de tels états inconscients, à moins de les assimiler aux idées oubliées et reparues, seuls exemples qui prouvent la persistance dans l'âme de ce qui ne persiste plus dans la conscience . Or, je crois que dans le cas dont il s'agit nous en avons le droit 2. » Le musicien exercé exécute sans conscience des actes qui ont été conscients à l'origine . << Nous sommes persuadés qu'il en est de même pour la localisation de nos sensations . Elle semble à présent se faire subitement, à l'instant même où nous ouvrons les yeux : au début de la vie, cette aptitude ne s'est développée qu'à l'aide d'une série d'expériences qui, si nous pouvions les reproduire, nous feraient voir, comme autant d'états de conscience chez l'enfant , tous ces états intermédiaires devenus imperceptibles pour la conscience de l'adulto.[^p80-2] >>
 
 [p. 81]
 
@@ -1056,7 +1056,7 @@ Le signe local, ce concomitant de la sensation colorée qui l'empêche de perdre
 
 mouvement de l'œil par lequel l'endroit de la plus claire vision vient s'appliquer sous cette image. On sait, en effet, qu'il existe dans la rétine une petite partie nommée la tache jaune, qui est douée d'une sensibilité visuelle très-supérieure à toute autre partie. On sait aussi qu'en vertu d'un mécanisme physiologique, dont il n'y a pas à rechercher ici les causes ni l'origine, l'excitation d'un point quelconque de la rétine amène une déviation de l'axe de l'œil, telle que le point de la plus claire vision est dirigé vers l'objet excitant.
 
-Ceci compris, appelons v ce point de la plus claire vision, et supposons que trois autres points de la rétine a, b, c soient excités . L'image qui tombe en a produira un certain mouvement , nécessaire pour amener l'image en v. L'image qui tombe en b produira un mouvement différent de av . L'image qui tombe en e produira un mouvement différent av et vb. Quelque position qu'on assigne à a, b, c, il est facile de voir que, dans aucun cas, les mouvements produits ne seront identiques , que chacun aura un caractère qui lui sera propre . En effet, si nous supposons que a, b , c sont situés sur la même ligne ou plutôt sur le même arc de cercle, les[^p82-1]
+Ceci compris, appelons v ce point de la plus claire vision, et supposons que trois autres points de la rétine a, b, c soient excités . L'image qui tombe en a produira un certain mouvement , nécessaire pour amener l'image en v. L'image qui tombe en b produira un mouvement différent de av . L'image qui tombe en e produira un mouvement différent av et vb. Quelque position qu'on assigne à a, b, c, il est facile de voir que, dans aucun cas, les mouvements produits ne seront identiques , que chacun aura un caractère qui lui sera propre .[^p82-1] En effet, si nous supposons que a, b , c sont situés sur la même ligne ou plutôt sur le même arc de cercle, les
 
 [p. 83] segments va, vb, vc de cet arc doivent être d'une grandeur différente, et, comme l'œil doit les parcourir pour amener à leur tour les images a, b, c dans la direction du point de la plus claire vision, il y aura nécessairement des mouvements musculaires de grandeur différente, bien qu'analogues pour tout le reste .
 
@@ -1066,7 +1066,7 @@ Enfin , si nous supposons que a, b, c ne sont situés ni sur la même ligne part
 
 Dans le cas qui vient d'être examiné, on a supposé une impression vive produite par un point de la rétine et suivie d'un mouvement réel de l'œil. Mais, dans les cas où il n'y a pas une seule impression prépondérante, chaque excitation de la rétine n'en continue pas moins à déterminer une semblable tendance au mouvement en rapport avec le point affecté . « Nous pouvons de plus admettre que cette tendance n'a d'abord pour but que de produire les mouvements automatiques de l'œil, mais qu'ensuite elle produit un changement dans l'état de l'âme, - une impression ; -et, à mon avis , c'est à l'aide de ces impressions, d'après leur détermi-[p. 84]nation graduelle exacte et leur degré de parenté, que l'âme développe dans l'espace les points colorés sentis, de telle façon que leur éloignement dans le champ de vision et toutes leurs positions relatives correspondent à l'éloignement et aux positions des points nerveux excités. Il n'est pas nécessaire de demander à ces impressions de se transformer en représentations conscientes ... Quoique ce fait se produise dans certains cas ... nous devons considérer la localisation initiale des points colorés comme une opération absolument inconsciente de l'âme. » Plus tard, par suite de l'habitude, les points colorés semblent se placer d'eux-mêmes dans des endroits déterminés, et leur localisation n'est pas le résultat d'une sensation préalable de mouvement conscient, encore moins d'un mouvement réel 1. « Ainsi, dit Lotze, ce n'est ni aux mouvements réels ni à leurs sensations conscientes que nous rapportons la coordination des points dans le champ visuel..... La première localisation, totalement inconsciente, repose sur la connexion entre les nerfs sensitifs et les nerfs moteurs , et c'est l'excitation de ces derniers à leur extrémité centrale qui donne à chaque impression de couleur son signe local propre 2. »
 
-Résumons en quelques mots l'exposé qui précède. La formation du champ de vision n'est possible que par un ensemble de signes locaux. Ces signes locaux ne peuvent venir ni des mouvements dus aux muscles moteurs de l'œil,[^p84-1][^p84-2]
+Résumons en quelques mots l'exposé qui précède. La formation du champ de vision n'est possible que par un ensemble de signes locaux.[^p84-2][^p84-1] Ces signes locaux ne peuvent venir ni des mouvements dus aux muscles moteurs de l'œil,
 
 [p. 85] ni de la seule constitution histologique de la rétine, même en supposant que chaque point sentant présente une structure légèrement différente de ceile des points voisins. La raison qui distingue entre elles les excitations des points particuliers de la rétine ne peut se trouver que dans leurs rapports avec les appareils moteurs. Chaque impression pour chaque point particulier amène un mouvement particulier (ou une tendance au mouvement) qui produit un certain état psychique : cet état est ce qui constitue proprement le signe local . Lotze attribue à ces actes un caractère en général inconscient, sans se dissimuler d'ailleurs les difficultés inhérentes à une pareille hypothèse . Enfin , l'excitation, le mouvement et l'impression psychique consécutive s'étant répétés un grand nombre de fois, il en résulte pour nous une connaissance complète de la topographie de notre rétine, de la position de tous ces points ; ce qui rend possible une localisation immédiate, même pour l'œil au repos. Ce processus se rapproche beaucoup des réflexes par son origine (excitation), sa fin (réaction motrice), son automatisme et son caractère inconscient. Pour conclure par une phrase même de Lotze
 
@@ -1074,7 +1074,7 @@ Résumons en quelques mots l'exposé qui précède. La formation du champ de vis
 
 impressions inconscientes que
 
-leur associent dans l'âme les tendances au mouvement , qu'il faut déduire la coordination des points dans notre champ visuel 2. >>[^p85-1]
+leur associent dans l'âme les tendances au mouvement , qu'il faut déduire la coordination des points dans notre champ visuel 2.[^p85-1] >>
 
 [p. 86] Signes locaux tactiles .
 
@@ -1084,7 +1084,7 @@ Les corpuscules du tact jouent un rôle analogue à celui des cônes et des bât
 
 Ces diversités anatomiques ne sont donc que les premières conditions d'une localisation dans l'espace. Un second fait auquel Lotze attache une grande importance, c'est le phénomène qu'il appelle « l'onde des sensations accessoires ». La peau formant un continu, aucune excitation, si petite qu'elle soit, ne peut être circonscrite au point où elle se produit. Il en résulte toujours pour les parties voisines des tensions, des pressions, des déplacements tantôt grands, tantôt petits . Mais la structure de la peau n'est pas partout identique ; elle varie en épaisseur, en souplesse, en rigidité . Le contact n'est plus le même, selon que la partie à laquelle [p. 87] il s'applique adhère à une surface osseuse, ou bien recouvre une cavité, ou bien repose sur la masse molle des muscles . << C'est ainsi que la sensation résultant de l'excitation d'un point A s'entoure d'une onde de sensations accessoires, caractérisée par sa forme, son étendue, la composition de ses éléments, et différente en cela de l'onde qui accompagne l'excitation d'un autre point B. » Il suffit de se rappeler les célèbres expériences de Weber pour comprendre combien la sensibilité tactile varie selon les régions de la peau . Au bout de la langue et au bout des doigts, deux points se distinguent , et par conséquent présentent des différences locales, à une distance de 1 et 2 millimètres seulement ; sur le dos, il faut une distance de 2 à 4 centimètres . - Mais, il ne faut pas s'y tromper, les ondes d'effets accessoires, malgré le rôle important qu'elles jouent dans les perceptions tactiles, ne remplissent pas les conditions imposées aux véritables signes locaux . Elles permettent bien de distinguer les deux sensations A et B ; elles ne suffisent pas à les distinguer dans l'espace, c'est- à-dire à supposer une ligne dont A et B seraient les extrémités .
 
-Reste un troisième élément : ce sont les mouvements et les sensations musculaires qui les accompagnent. Tout en reconnaissant le rôle important, capital, que joue ce dernier élément dans la localisation des perceptions tactiles, Lotze y insiste moins qu'on ne l'a fait depuis ¹ , et il pense qu'on ne[^p87-1]
+Reste un troisième élément : ce sont les mouvements et les sensations musculaires qui les accompagnent. Tout en reconnaissant le rôle important, capital, que joue ce dernier élément dans la localisation des perceptions tactiles, Lotze y insiste moins qu'on ne l'a fait depuis [^p87-1] , et il pense qu'on ne
 
 [p. 88] peut pas trouver en lui une explication suffisante du problème à résoudre .
 
@@ -1094,7 +1094,7 @@ En résumé , la peau forme un continu, variable dans toute sa surface, grâce a
 
 que, si l'extrémité de nos doigts était fixée au bout d'une tige rigide, toute finesse de localisation disparaîtrait ; chaque excitation, au lieu d'affecter un point précis, paraîtrait diffuse dans un milieu homogène .
 
-Il ne faut cependant pas oublier que pour Lotze ni les différences de structure, ni les ondes accessoires, ni les mouvements , ni les sensations musculaires n'expliquent la localisation des impressions tactiles . Pour localiser, le concours de la vue est nécessaire ; « il faut posséder déjà l'image géométrique des contours du corps et avoir appris par expé-[^p88-1]
+Il ne faut cependant pas oublier que pour Lotze ni les différences de structure, ni les ondes accessoires, ni les mouvements , ni les sensations musculaires n'expliquent la localisation des impressions tactiles .[^p88-1] Pour localiser, le concours de la vue est nécessaire ; « il faut posséder déjà l'image géométrique des contours du corps et avoir appris par expé-
 
 [p. 89] rience à quel point A et B les sensations doivent être rapportées, suivant qu'elles sont affectées des signes locaux a et β . »
 
@@ -1118,9 +1118,9 @@ l'esprit , deviennent des
 
 rapports d'étendue .
 
-Son hypothèse a le caractère d'une hypothèse naturelle, scientifique, quoiqu'il l'ait exposée dans un langage métaphysique, que, pour des raisons d'exactitude, nous avons respecté scrupuleusement. Elle s'appuie sur les faits et s'offre comme leur seule explication probable . Lotze s'attache à montrer que la disposition anatomique des organes visuels et tactiles est un solide appui en faveur de son hypothèse .
+Son hypothèse a le caractère d'une hypothèse naturelle, scientifique, quoiqu'il l'ait exposée dans un langage métaphysique, que, pour des raisons d'exactitude, nous avons respecté scrupuleusement. Elle s'appuie sur les faits et s'offre comme leur seule explication probable . Lotze s'attache à montrer que la disposition anatomique des organes visuels et tactiles est un solide appui en faveur de son hypothèse .[^p91-1]
 
-<<< Si nous trouvons, dit-il 1, des dispositions pour assurer l'action des excitants extérieurs sur le système nerveux , selon des rapports géométriques ordonnés, nous trouverons dans ces dispositions un fort encouragement à croire que la nature a voulu tirer de ces relations d'espace quelque chose[^p91-1]
+<<< Si nous trouvons, dit-il 1, des dispositions pour assurer l'action des excitants extérieurs sur le système nerveux , selon des rapports géométriques ordonnés, nous trouverons dans ces dispositions un fort encouragement à croire que la nature a voulu tirer de ces relations d'espace quelque chose
 
 [p. 92] LA
 
@@ -1192,7 +1192,7 @@ considéra d'abord comme unité d'espace chacun de ces cercles, c'està-dire cha
 
 il expliquait ainsi la perception de l'intervalle senti entre les deux points . Il faisait de plus jouer un rôle considérable à l'expérience et à l'habitude, en admettant qu'elles diminuaient le nombre des cercles nécessaires pour que l'intervalle fût perçu entre deux points du corps . Par là , il se rapprochait de la théorie empirique.
 
-D'autres auteurs, entre autres Czermak et Meissner, ajoutèrent diverses modifications. Mais celui qui, dans ces derniers temps , a été le champion le plus intrépide de la théorie nativiste , tout en prétendant la concilier avec la théorie rivale , est Stumpf. Dans son Origine psychologique de la notion d'espace ' ,1, il soutient que nous avons une connaissance[^p98-1]
+D'autres auteurs, entre autres Czermak et Meissner, ajoutèrent diverses modifications. Mais celui qui, dans ces derniers temps , a été le champion le plus intrépide de la théorie nativiste , tout en prétendant la concilier avec la théorie rivale , est Stumpf.[^p98-1] Dans son Origine psychologique de la notion d'espace ' ,1, il soutient que nous avons une connaissance
 
 [p. 99] L'ORIGINE DE LA NOTION D'ESPACE innée des trois dimensions. D'abord, dans tout contact, nous sentons
 
@@ -1226,7 +1226,7 @@ les signes locaux, les mouvements avec les sensations concomitantes suffisent po
 
 Quelque dissemblables que soient les théories dont nous venons de présenter le résumé, elles ont pour résultat commun, en montrant le problème sous tous ses aspects, de permettre de le mieux poser. Au lieu de procéder par des considérations générales , comme les métaphysiciens , la plupart des auteurs ci-dessus mentionnés ont procédé par l'examen des détails : à une discussion abstraite, ils ont substitué des discussions concrètes ; au lieu de se demander quelle est l'origine de l'espace, ils ont cherché à montrer par l'observation et le raisonnement comment nous acquérons les idées de longueur, largeur, distance, forme, position, direction ; en un mot, toutes les déterminations de l'étendue . La méthode suivie est donc le contraire de celle des métaphysiciens
 
-1. C'est là un premier résultat auquel , à notre[^p102-1]
+1.[^p102-1] C'est là un premier résultat auquel , à notre
 
 [p. 103] L'ORIGINE DE LA NOTION D'ESPACE avis, on n'a pas assez fait attention, et plusieurs physiologistes ne paraissent même pas s'en être rendu compte clairement, quoique leurs habitudes d'esprit les aient bien guidés à leur insu .
 
@@ -1238,7 +1238,7 @@ est l'ensemble des successions ; par conséquent, postuler la direction, c'est p
 
 Lorsqu'on essaye de résoudre la question qui nous occupe « La notion de l'espace tactile résulte-t-elle d'un mécanisme, ou est-elle innée ? » la première difficulté consiste d'abord à mettre à part ce qui est dû aux sensations visuelles . La vue et le toucher sont deux langues que nous employons simultanément dès notre naissance et qui se mêlent si bien qu'elles semblent n'en faire qu'une. De plus, les données de la vue, par leur supériorité et leur richesse d'information, ont une tendance à effacer les autres . Reste la ressource des aveugles-nés . S'il s'en était trouvé quelques-uns doués du talent de l'analyse psychologique, leurs déclarations nous en apprendraient beaucoup . Encore prêteraient-elles à des contre-sens de notre part, les termes ne pouvant avoir pour eux la même signification que pour nous. C'est ce qui rend si vague parfois l'observation de l'aveugle de Platner, dont nous parlerons plus loin . Mais plusieurs bonnes observations permettraient un examen critique .
 
-L'étude des aveugles-nés opérés a été plus instructive. Depuis Cheselden[^p104-1]
+L'étude des aveugles-nés opérés a été plus instructive.[^p104-1] Depuis Cheselden
 
 [p. 105] L'ORIGINE DE LA NOTION D'ESPACE qui n'était qu'une vue de l'esprit, une conjecture probable, est devenu , grâce à l'observation objective, une affirmation vérifiée .
 
@@ -1254,7 +1254,7 @@ Mais , dans la fonction tactile, les mouvements jouent un double rôle . Ils ne 
 
 (flexion, extension, rotation, etc.), suivant sa durée, son intensité, suivant le degré d'effort et la résistance . L'expérience nous apprend que toutes ces nuances sont transmises - ou peuvent l'être - à la conscience .
 
-Les physiologistes ont beaucoup discuté sur le siége et les conditions de cette sensibilité musculaire. Ces controverses théoriques importent peu ; ce qui est certain, c'est que nous avons le sentiment de l'état de nos muscles. Ici encore, la pathologie a permis de comprendre l'importance de cette faculté , en étudiant les cas où elle est abolie . Certains malades n'ont plus conscience de la position de leurs mem-[p. 107]L'ORIGINE DE LA NOTION D'ESPACE bres , ni même de leur existence, dès qu'ils cessent de les voir ; ils ignorent s'ils sont étendus ou fléchis ; ils les croient privés de pesanteur. - Dans d'autres cas plus instructifs, la sensibilité musculaire subsiste seule. « Chez un ouvrier, dit Landry¹, dont les doigts et les mains étaient insensibles à toute_impression de contact, de douleur et de température, le sens de l'activité musculaire était partout intact. Si, en lui faisant fermer les yeux, je lui plaçais un objet assez volumineux dans la main, il s'étonnait de ne pouvoir la fermer, mais sans autre idée que celle d'un obstacle au mouvement des doigts . Je lui attachai , à l'aide d'un lacet et sans le prévenir, un poids d'un kilogramme au poignet ; il supposa qu'on lui tirait le bras . » Le seul état de conscience subsistant était donc celui d'un effort, sous forme de résistance et de traction .
+Les physiologistes ont beaucoup discuté sur le siége et les conditions de cette sensibilité musculaire. Ces controverses théoriques importent peu ; ce qui est certain, c'est que nous avons le sentiment de l'état de nos muscles. Ici encore, la pathologie a permis de comprendre l'importance de cette faculté , en étudiant les cas où elle est abolie . Certains malades n'ont plus conscience de la position de leurs mem-[p. 107]L'ORIGINE DE LA NOTION D'ESPACE bres , ni même de leur existence, dès qu'ils cessent de les voir ; ils ignorent s'ils sont étendus ou fléchis ; ils les croient privés de pesanteur. - Dans d'autres cas plus instructifs, la sensibilité musculaire subsiste seule. « Chez un ouvrier, dit Landry[^p107-1], dont les doigts et les mains étaient insensibles à toute_impression de contact, de douleur et de température, le sens de l'activité musculaire était partout intact. Si, en lui faisant fermer les yeux, je lui plaçais un objet assez volumineux dans la main, il s'étonnait de ne pouvoir la fermer, mais sans autre idée que celle d'un obstacle au mouvement des doigts . Je lui attachai , à l'aide d'un lacet et sans le prévenir, un poids d'un kilogramme au poignet ; il supposa qu'on lui tirait le bras . » Le seul état de conscience subsistant était donc celui d'un effort, sous forme de résistance et de traction .
 
 Il
 
@@ -1262,7 +1262,7 @@ est plus rare de rencontrer une abolition du sens musculaire, la sensibilité au
 
 Nous venons d'énumérer brièvement les éléments qui concourent à former notre connaissance de l'étendue tactile .
 
-A l'aide de quelques exemples , choisis entre beaucoup d'autres , nous avons montré le rôle que joue chacun de ces éléments et ce qui s'ensuit lorsqu'il est entravé . Ce procédé analytique avait pour but de faire voir la complexité[^p107-1]
+A l'aide de quelques exemples , choisis entre beaucoup d'autres , nous avons montré le rôle que joue chacun de ces éléments et ce qui s'ensuit lorsqu'il est entravé . Ce procédé analytique avait pour but de faire voir la complexité
 
 [p. 108] du problème : reste à étudier la notion d'étendue dans sa genèse elle-même .
 
@@ -1284,7 +1284,7 @@ tion se fait-elle immédiatement ? C'est là ce qui serait une preuve de la thé
 
 Le vice capital de cette théorie, c'est son extrême simplicité. En réduisant tout à un contact immédiatement localisé, elle ne fait jouer qu'un rôle très-effacé aux sensations musclaires dans l'acquisition des notions tactiles ; souvent même, elle les néglige totalement. En supposant que chaque point de notre corps sent immédiatement sa position dans l'espace, parce que toute sensation est rapportée en vertu d'une loi de notre organisation à l'extrémité périphérique du nerf affecté, elle postule, en réalité, le problème discuté ; car l'ébranlement d'une extrémité nerveuse n'implique par elle-même aucune donnée extensive . Au contraire, la théorie empirique soutient que l'idée de la position d'un certain point du corps (à droite, à gauche, en haut, en bas) ne peut résulter que du jeu de certains muscles, différent suivant chaque cas, et éveillant dans la conscience des sensations musculaires déterminées : en sorte que toutes les directions qui réclament le jeu des mêmes muscles sont, pour le corps, similaires ; et que le jeu de muscles différents signifie des directions différentes .
 
-La théorie empirique est donc caractérisée par le rôle prépondérant, presque exclusif, qu'elle attribue aux mouvements et à la sensibilité musculaire 1. Si elle ne résout[^p110-1]
+La théorie empirique est donc caractérisée par le rôle prépondérant, presque exclusif, qu'elle attribue aux mouvements et à la sensibilité musculaire 1.[^p110-1] Si elle ne résout
 
 [p. 111] L'ORIGINE DE LA NOTION D'ESPACE
 
@@ -1328,13 +1328,13 @@ T. RIBOT.
 
 PSYCHOLOGIE ALLEMANDE grand de sensations qui lui sont nécessaires pour passer d'une sensation à une autre . En réalité , l'aveugle - né ne sait pas que les choses existent les unes en dehors des autres : si des objets ou parties de son corps touchées par lui ne produisaient sur ses nerfs sensitifs différentes espèces d'impressions , il prendrait toutes les choses extérieures pour une seule et même chose . « Dans son propre corps, il ne distinguait pas la tête et le pied par leur distance, mais par la différence des sensations causées par l'un et l'autre,
 
-différence qu'il percevait avec une finesse incroyable, et surtout au moyen du temps ¹ . >>
+différence qu'il percevait avec une finesse incroyable, et surtout au moyen du temps [^p114-1] . >>
 
 Ces remarques sont bien antérieures aux théories contemporaines : elles datent de 1785. Il serait à désirer qu'on en trouvât d'autres et surtout qu'on en fit quelques-unes avec méthode, en vue d'éclaircir la question qui nous occupe . Toute observation présente un ensemble de détails confus ; pour voir clair, il faut être fixé sur ce qu'on cherche. Le débat des nativistes et des empiriques a mieux délimité le problème à éclaircir : on peut espérer que de nouvelles recherches permettront de le résoudre .
 
 Les considérations que nous venons de faire valoir en faveur de la thèse empirique reposent sur l'analyse physiologique et psychologique des perceptions tactiles. Il y en a d'autres qu'on peut tirer de la pathologie, et il nous paraît surprenant qu'on en ait fait si peu usage jusqu'ici. Tout le monde connaît les illusions des amputés
 
-: on sait qu'ils[^p114-1]
+: on sait qu'ils
 
 [p. 115] L'ORIGINE DE LA NOTION D'ESPACE éprouvent longtemps les mêmes sensations que s'ils avaient encore le bras ou la jambe qu'ils ont perdus, et que ces sensations sont nettement localisées dans tel doigt, dans tel orteil .
 
@@ -1356,7 +1356,7 @@ Mais, en admettant la question sous cette forme, qui est faire la part trop bell
 
 il faudrait du moins que cette illusion durât toute la vie ; qu'aucune nouvelle habitude acquise ne vînt remplacer l'ancien état supposé inné . C'est ce que Müller semble avoir vu, quand il s'efforce d'établir que l'illusion dure toujours . Malheureusement pour lui, la plupart des faits contredisent sa thèse ; et, comme cette disparition finale de l'illusion ne peut s'expliquer que parce que les représentations psychiques s'effacent, il est difficile de considérer comme inné ce qui disparaît simplement parce que les conditions sont changées . Aussi, dans ce fait, M. Vulpian voit « la preuve que les notions de position des divers points de la peau sont des résultats de l'expérience et non des faits d'innervation préétablie . Tant que des impressions venant du moignon peuvent remplacer bien ou mal celles qui existaient auparavant dans la peau des membres enlevés, ces notions persistent plus ou moins nettes . Mais, ces extrémités cessant d'envoyer des impressions à la moelle épinière, les notions de position s'effacent peu à peu 1. »
 
-On peut citer comme un cas analogue ce qui se passe dans les opérations autoplastiques. Lorsqu'un lambeau de peau est rapporté du front sur le moignon du nez, tout contact sur ce nouveau nez est rapporté par le malade au front, tant que subsiste à la racine du nez la communication des fibres nerveuses entre le front et le nez nouveau . Quand cette communication a été coupée, des connexions nouvelles[^p117-1]
+On peut citer comme un cas analogue ce qui se passe dans les opérations autoplastiques. Lorsqu'un lambeau de peau est rapporté du front sur le moignon du nez, tout contact sur ce nouveau nez est rapporté par le malade au front, tant que subsiste à la racine du nez la communication des fibres nerveuses entre le front et le nez nouveau .[^p117-1] Quand cette communication a été coupée, des connexions nouvelles
 
 [p. 118] s'établissent, et l'erreur de localisation n'a plus lieu . L'illusion du premier moment s'explique dans l'une et l'autre hypothèse : pour les empiriques, elle vient de ce qu'une expérience de longue date n'a pu encore être modifiée par des expériences nouvelles ; pour les nativistes , elle vient de ce que toute impression est rapportée par le sensorium à l'extrémité périphérique du nerf, quelle que soit
 
@@ -1380,13 +1380,13 @@ ESPACE VISUEL
 
 Pour les perceptions visuelles, le même problème se poso sous les mêmes formes : ici seulement, le débat entre les deux théories est plus vif, et les essais de solution sont plus nombreux . Il n'est pas inutile d'en parler avec quelque détail : cette exposition offre d'ailleurs un intérêt plutôt dogmatique qu'historique, puisqu'elle nous permet de voir la question sous tous ses aspects, d'en mieux pénétrer les difficultés .
 
-Müller le premier, pour la vision comme pour le toucher, a soutenu scientifiquement la thèse nativiste. « La rétine, dit-il, sent sa propre étendue et son emplacement, sans avoir [p. 120] besoin d'être le moins du monde affectée du dehors ; elle les sent comme obscurité devant les yeux » . ¹ Cette connaissance immédiate qu'elle a de ses propres dimensions lui sert à mesurer les objets visibles ; elle trouve en elle-même son unité de mesure. Toutefois, Müller ne lui attribue qu'une seule propriété innée : la perception de la surface ou de l'étendue à deux dimensions. Tout ce qui, chez l'adulte, s'est ajouté à cette perception primitive est pour Müller un résultat de l'expérience : « La faculté de saisir des formes simples n'est pas le résultat de l'éducation ; mais celle de juger des différentes dimensions du corps d'après les images exige de l'exercice , parce que toutes les intuitions visuelles ne sont originairement que des surfaces et que, pour procurer la représentation d'un corps, le jugement doit ajouter les différentes faces qu'on aperçoit à ce corps, quand on lui donne une autre situation. Il en résulte pour nous la représentation de la profondeur du champ visuel, qui n'est qu'une idée et non une sensation. » Müller n'admet pas qu'il y ait contradiction entre son hypothèse d'une perception intuitive des surfaces et le fait que les objets se peignent renversés sur la rétine. La vision droite n'a pas besoin d'explication, parce que nous voyons tout renversé et non un seul objet parmi d'autres : rien ne peut être renversé, quand rien n'est droit ; les deux idées n'existent que par opposition . - Enfin, pour expliquer comment les deux yeux , qui ont chacun leur impression distincte, ne perçoivent cependant qu'un seul objet dans une[^p120-1]
+Müller le premier, pour la vision comme pour le toucher, a soutenu scientifiquement la thèse nativiste. « La rétine, dit-il, sent sa propre étendue et son emplacement, sans avoir [p. 120] besoin d'être le moins du monde affectée du dehors ; elle les sent comme obscurité devant les yeux » . [^p120-1] Cette connaissance immédiate qu'elle a de ses propres dimensions lui sert à mesurer les objets visibles ; elle trouve en elle-même son unité de mesure. Toutefois, Müller ne lui attribue qu'une seule propriété innée : la perception de la surface ou de l'étendue à deux dimensions. Tout ce qui, chez l'adulte, s'est ajouté à cette perception primitive est pour Müller un résultat de l'expérience : « La faculté de saisir des formes simples n'est pas le résultat de l'éducation ; mais celle de juger des différentes dimensions du corps d'après les images exige de l'exercice , parce que toutes les intuitions visuelles ne sont originairement que des surfaces et que, pour procurer la représentation d'un corps, le jugement doit ajouter les différentes faces qu'on aperçoit à ce corps, quand on lui donne une autre situation. Il en résulte pour nous la représentation de la profondeur du champ visuel, qui n'est qu'une idée et non une sensation. » Müller n'admet pas qu'il y ait contradiction entre son hypothèse d'une perception intuitive des surfaces et le fait que les objets se peignent renversés sur la rétine. La vision droite n'a pas besoin d'explication, parce que nous voyons tout renversé et non un seul objet parmi d'autres : rien ne peut être renversé, quand rien n'est droit ; les deux idées n'existent que par opposition . - Enfin, pour expliquer comment les deux yeux , qui ont chacun leur impression distincte, ne perçoivent cependant qu'un seul objet dans une
 
 [p. 121] L'ORIGINE DE LA NOTION D'ESPACE seule et même position, Müller admet que les points identiques des deux rétines ont une perception identique de l'espace, parce que, dans le chiasma, chaque fibre nerveuse venant du cerveau se bifurque en deux pour aboutir aux points identiques : d'où résulte une coalescence des deux impressions en une perception unique ' .
 
 La doctrine de Müller a été désignée sous le nom d'hypothèse de l'identité subjective . Elle a été abandonnée de bonne heure , parce qu'elle soulevait trop de difficultés, parce qu'elle était en contradiction avec des faits bien établis : par exemple , nous voyons simples des objets qui se peignent sur des points non identiques, ce qui est la négation même de la doctrine et ce que les hypothèses subsidiaires de Brücke et autres ne pouvaient parvenir à expliquer .
 
-Une deuxième forme de la théorie nativiste a reçu le nom d'hypothèse de la projection 2. Elle a été soutenue par Tourtual (1827), Volkmann (1836) , admise en une certaine mesure par Donders et Nagel (186[^p121-1] . Elle consiste à admettre que la rétine a la faculté innée de transporter ses impressions au dehors , dans une direction déterminée qui est celle des lignes de direction ou des lignes de visée 3. Ces auteurs[^p121-2][^p121-3]
+Une deuxième forme de la théorie nativiste a reçu le nom d'hypothèse de la projection 2. Elle a été soutenue par Tourtual (1827), Volkmann (1836) , admise en une certaine mesure par Donders et Nagel (186[^p121-1] . Elle consiste à admettre que la rétine a la faculté innée de transporter ses impressions au dehors , dans une direction déterminée qui est celle des lignes de direction ou des lignes de visée 3.[^p121-3][^p121-2] Ces auteurs
 
 [p. 122] admettent donc une projection immédiate ; tandis que, d'après Müller, nous ne projetons rien au dehors, nous avons l'étendue en nous , et nous lui reportons comme à une mesure notre perception des objets. Ainsi qu'on l'a fait remarquer, cette hypothèse est implicitement admise dans la plupart des recherches physiologiques
 
@@ -1414,7 +1414,7 @@ en modifiant l'une et l'autre . L'hypothèse de l'identité ne pouvant, sans se 
 
 des surfaces sphériques différentes qui ont comme centres le point d'intersection des lignes visuelles. L'acte de la projection est appelé par lui « une opération constructive » , et dans cet acte il fait jouer un rôle considérable aux sensations musculaires . Volkmann attribuait de même à ces sensations une grande influence. Ils se rapprochent par là de l'école empirique. Aussi Wundt leur attribue , ainsi qu'à Classen, une position intermédiaire entre les nativistes et les empiriques .
 
-[p. 124] second cas, elles peuvent se fusionner en une seule. Pour que cette fusion ait lieu, il faut que, en un point quelconque de A, il se produise un contour analogue à celui dessiné en a . L'hypothèse de la projection a été singulièrement compliquée par Panum d'hypothèses secondaires. Il attribue à l'organe visuel trois énergies spécifiques : 1 ° une « synergie de la parallaxe binoculaire ¹ », qui permet la perception de la profondeur (troisième dimension) ; 2° une « énergie binoculaire de combinaison des couleurs » , par laquelle les couleurs vues binoculairement peuvent se combiner en une couleur résultante ; 3° une « synergie binoculaire d'alternance » , à l'aide de laquelle les couleurs vues binoculairement peuvent rester isolées . Comme l'a fait remarquer un critique
+[p. 124] second cas, elles peuvent se fusionner en une seule. Pour que cette fusion ait lieu, il faut que, en un point quelconque de A, il se produise un contour analogue à celui dessiné en a . L'hypothèse de la projection a été singulièrement compliquée par Panum d'hypothèses secondaires. Il attribue à l'organe visuel trois énergies spécifiques : 1 ° une « synergie de la parallaxe binoculaire [^p124-1] », qui permet la perception de la profondeur (troisième dimension) ; 2° une « énergie binoculaire de combinaison des couleurs » , par laquelle les couleurs vues binoculairement peuvent se combiner en une couleur résultante ; 3° une « synergie binoculaire d'alternance » , à l'aide de laquelle les couleurs vues binoculairement peuvent rester isolées . Comme l'a fait remarquer un critique
 
 , Panum enrichit la rétine de tant de facultés innées , qu'il peut être regardé comme le représentant le plus logique et le plus courageux de l'hypothèse nativiste.
 
@@ -1422,7 +1422,7 @@ Sa théorie a servi de base à celle de Hering, qui , de l'avis de tous, a donn�
 
 Hering attribue aux différents points de la rétine des sentiments d'étendue (Raumgefühle) de trois sortes
 
-: hauteur , largeur, profondeur . Chaque point a sa valeur propre en largeur et en hauteur : cette valeur croît[^p124-1][^p124-2]
+: hauteur , largeur, profondeur .[^p124-2] Chaque point a sa valeur propre en largeur et en hauteur : cette valeur croît
 
 [p. 125] L'ORIGINE DE LA NOTION D'ESPACE à mesure qu'on s'éloigne de la tache jaune, et elle est de nature contraire pour les points situés à droite ou à gauche, en haut ou en bas du centre de la tache jaune. Les points identiques ont même valeur. A l'aide de ces deux sentiments , la rétine peut ordonner ses impressions dans deux directions .
 
@@ -1460,13 +1460,13 @@ psychologique des diverses solutions, d'en montrer le fort et le faible. Son liv
 
 Telles sont les principales formes de la théorie nativiste elles sont, on le voit, bien autrement complexes et savantes que celles que nous avons exposées au sujet du toucher. Mais , comme le dit justement Helmholtz, elles ont toutes en commun un caractère fondamental :
 
-« c'est qu'elles attribuent la localisation des impressions dans le champ visuel à une disposition innée , soit que l'âme ait une connaissance directe des dimensions de la rétine, soit que l'excitation de fibres nerveuses déterminées donne lieu à certaines représentations d'espace par un mécanisme préétabli et impossible à entendre avec plus de précision. » II nous reste à entendre à leur tour les empiriques .
+« c'est qu'elles attribuent la localisation des impressions dans le champ visuel à une disposition innée , soit que l'âme ait une connaissance directe des dimensions de la rétine, soit que l'excitation de fibres nerveuses déterminées donne lieu à certaines représentations d'espace par un mécanisme préétabli et impossible à entendre avec plus de précision. » II nous reste à entendre à leur tour les empiriques .[^p127-1]
 
-Quoique ce travail soit consacré à l'Allemagne , nous devons cependant mentionner Berkeley comme le premier[^p127-1]
+Quoique ce travail soit consacré à l'Allemagne , nous devons cependant mentionner Berkeley comme le premier
 
 [p. 128] représentant systématique de l'empirisme. Le débat n'était pas encore ouvert à son époque , mais sa thèse n'en est pas moins nette . Dans son premier ouvrage , publié en 1709 (An Essay towards a new Theory of Vision), il établit que l'objet propre, exclusif de la vue, c'est la couleur ; que les sensations visuelles sont des signes arbitraires qui suggèrent à notre imagination l'idée de l'extériorité. Il a poursuivi cette thèse dans ses autres ouvrages . « Nous percevons la distance, non pas immédiatement , mais au moyen d'un signe qui n'a aucune ressemblance avec elle, aucun rapport nécessaire avec elle et qui nous en suggère l'idée après des expériences répétées, absolument comme les mots 1. » Enfin il considère les sensations tactiles comme l'auxiliaire indispensable des sensations visuelles , trait qui se rencontre dans la plupart des théories empiriques .
 
-Toutefois la thèse de Berkeley était liée à une doctrine plus générale, celle de « l'immatérialisme » . C'est un auteur déjà mentionné à propos du toucher, Steinbuch, qui posa la question sur une forme expérimentale. Le mouvement seul , disait-il , peut nous fournir la notion d'espace . La rétine ne perçoit pas le rapport de contiguïté ou de position entre ses parties : cette perception nous vient par les mouvements des muscles de l'œil. Un point éclairé de la rétine devient une ligne lumineuse par la contraction d'un muscle dont nous avons conscience, et, pour que d'autres parties de la rétine soient éclairées, il faut d'autres degrés de contraction des muscles . Ainsi, ce qui est différence d'espace sur[^p128-1]
+Toutefois la thèse de Berkeley était liée à une doctrine plus générale, celle de « l'immatérialisme » . C'est un auteur déjà mentionné à propos du toucher, Steinbuch, qui posa la question sur une forme expérimentale. Le mouvement seul , disait-il , peut nous fournir la notion d'espace . La rétine ne perçoit pas le rapport de contiguïté ou de position entre ses parties : cette perception nous vient par les mouvements des muscles de l'œil. Un point éclairé de la rétine devient une ligne lumineuse par la contraction d'un muscle dont nous avons conscience, et, pour que d'autres parties de la rétine soient éclairées, il faut d'autres degrés de contraction des muscles .[^p128-1] Ainsi, ce qui est différence d'espace sur
 
 [p. 129] L'ORIGINE DE LA NOTION D'ESPACE la rétine devient une différence de temps, eu égard aux contractions nécessaires pour exposer différentes parties de la rétine l'une après l'autre à une même lumière. Tous les points de la rétine sont en rapport avec certains degrés de contraction des muscles de l'œil ; de là résulte que, par l'effet de l'éducation, la sensation lumineuse de points particuliers de la rétine est liée tacitement à la conscience des degrés de contraction correspondants à ces points. -
 
@@ -1480,13 +1480,13 @@ Wundt, dans des Mémoires publiés de 1858 à 1862 dans la Zeitschrift für rati
 
 Le représentant le plus considérable de la doctrine empirique est Helmholtz . Sans parler de l'importance de ses travaux comme savant, il a présenté dans son Optique physiologique et dans ses Conférences scientifiques populaires une théorie psychologique très-élaborée pour faire voir comment l'expérience , sans propriétés innées, peut expliquer la genèse de l'espace visuel. Les éléments physiologiques qui servent de base à son explication sont : 1º Les signes fournis par la vision . Ils présentent trois caractères qui permettent de les distinguer les uns des autres
 
-: l'intensité, la qualité (couleur), le signe local, dépendant de la partie de la rétine qui est excitée . 2º Le degré d'innervation que nous transmettons aux nerfs des muscles oculaires et qui est senti par nous . Ces éléments servent de base au travail ultérieur de[^p130-1]
+: l'intensité, la qualité (couleur), le signe local, dépendant de la partie de la rétine qui est excitée . 2º Le degré d'innervation que nous transmettons aux nerfs des muscles oculaires et qui est senti par nous .[^p130-1] Ces éléments servent de base au travail ultérieur de
 
 [p. 131] L'ORIGINE DE LA NOTION D'ESPACE l'esprit d'où doit sortir la notion d'espace à trois dimensions.
 
 Le principe fondamental de Helmholtz est, comme nous l'avons dit plus haut, que les sensations sont des signes que nous avons à interpréter. Nos représentations ne peuvent être que des symboles des objets : nous apprenons à nous en servir pour régler nos mouvements et nos actions. <<<Lorsque nous avons appris à déchiffrer correctement ces symboles, nous sommes en état, avec leur aide, de diriger nos actions de façon à produire le résultat désiré, c'est-àdire à faire naître les sensations nouvelles que nous attendons. » La vérité de nos représentations est donc d'un ordre tout pratique , et se demander si elles sont conformes à leur objet est une question dénuée de sens ; et « c'est un malentendu de vouloir (comme les nativistes) chercher une harmonie préexistante entre les lois de la pensée et celles de la nature » . Toutefois ces signes, que nous avons à interpréter, nous apparaissent comme des effets dont les objets sont les causes. Nous le croyons, parce qu'à la suite d'expérimentations multiples répétées sur les objets nous avons constaté qu'une partie des modifications de nos sensations dépend de notre volonté ; qu'une autre partie s'impose à nous avec une nécessité que nous ne pouvons pas modifier à notre gré . << C'est ainsi que nous en venons à reconnaître à nos sensations une cause indépendante de notre volonté et de notre imagination , par conséquent extérieure ; » et c'est ainsi que l'idée de cause vient s'introduire comme principe régulateur dans l'ordre de nos perceptions.
 
-[p. 132] Ceci admis, le mécanisme psychologique en vertu duquel nous nous formons une représentation de l'espace, ou, pour parler un langage plus correct, en vertu duquel nous considérons un objet comme étendu , c'est-à-dire ayant telle forme, telle position, telle direction dans le champ visuel, etc., ne peut résulter que d'un « raisonnement inconscient » . Si cette expression, dit Helmholtz, a choqué quelques esprits, c'est qu'on s'est habitué à considérer le raisonnement comme la forme la plus haute de l'activité intellectuelle. Mais les raisonnements dont il s'agit ici, quoiqu'ils ne puissent jamais s'exprimer sous la forme logique, sont identiques, comme opération mentale et comme résultat, aux raisonnements ordinaires . « La différence entre les raisonnements des logiciens et les raisonnements inconscients sur lesquels repose notre connaissance du monde extérieur, me paraît purement apparente et me semble consister en ce que les premiers peuvent s'énoncer et que les seconds ne le peuvent, parce que, au lieu de mots, ils ne sont constitués que par des sensations et des souvenirs de sensations 1. » Ces raisonnements , s'ils étaient traduits dans la langue analytique de la logique consciente, nous paraîtraient des inductions . Ils auraient en effet pour base des propositions établies par l'expérience, c'est-à-dire, comme le dit Stuart Mill, un registre de faits, résumés en une formule simple, qui, bien qu'elle n'ajoute rien à notre connaissance, cst d'une grande utilité pratique , puisqu'elle permet de conclure pour tout cas qui présente les mêmes données. Un[^p132-1]
+[p. 132] Ceci admis, le mécanisme psychologique en vertu duquel nous nous formons une représentation de l'espace, ou, pour parler un langage plus correct, en vertu duquel nous considérons un objet comme étendu , c'est-à-dire ayant telle forme, telle position, telle direction dans le champ visuel, etc., ne peut résulter que d'un « raisonnement inconscient » . Si cette expression, dit Helmholtz, a choqué quelques esprits, c'est qu'on s'est habitué à considérer le raisonnement comme la forme la plus haute de l'activité intellectuelle. Mais les raisonnements dont il s'agit ici, quoiqu'ils ne puissent jamais s'exprimer sous la forme logique, sont identiques, comme opération mentale et comme résultat, aux raisonnements ordinaires . « La différence entre les raisonnements des logiciens et les raisonnements inconscients sur lesquels repose notre connaissance du monde extérieur, me paraît purement apparente et me semble consister en ce que les premiers peuvent s'énoncer et que les seconds ne le peuvent, parce que, au lieu de mots, ils ne sont constitués que par des sensations et des souvenirs de sensations 1. » Ces raisonnements , s'ils étaient traduits dans la langue analytique de la logique consciente, nous paraîtraient des inductions . Ils auraient en effet pour base des propositions établies par l'expérience, c'est-à-dire, comme le dit Stuart Mill, un registre de faits, résumés en une formule simple, qui, bien qu'elle n'ajoute rien à notre connaissance, cst d'une grande utilité pratique , puisqu'elle permet de conclure pour tout cas qui présente les mêmes données.[^p132-1] Un
 
 [p. 133] L'ORIGINE DE LA NOTION D'ESPACE exemple le fera mieux comprendre. Lorsque nous avons senti une impression du côté droit des deux rétines, nous avons appris par une expérience répétée à tous les instants qu'il y avait à notre gauche un corps lumineux . Nous avons constaté qu'il fallait porter la main à gauche pour cacher cette lumière ou saisir
 
@@ -1494,13 +1494,13 @@ l'objet lumineux et qu'il
 
 fallait nous transporter vers notre gauche pour nous en rapprocher. Si donc, dans les cas de ce genre, nous ne faisons pas de raisonnements conscients, nous n'en avons pas moins exécuté le travail essentiel d'un raisonnement, et nous en avons obtenu la conclusion, bien que ce travail n'ait été fait que par les procédés inconscients de l'association des idées qui résident dans les parties inexplorées de notre mémoire 1 .
 
-En résumé donc, l'opération telle que Helmholtz la conçoit est celle-ci : toute impression sur une partie déterminée de la rétine produit, à l'aide des signes locaux et des mouvements musculaires, une modification déterminée du sensorium (premier groupe de faits). A l'aide du toucher, des mouvements du corps , de divers artifices expérimentaux, nous déterminons la cause de cette modification (deuxième groupe de faits). Ces deux groupes de faits suffisamment répétés finissent par s'associer si bien, que, lorsque je presse mon œil à droite, je vois infailliblement une lueur à gauche, et que la vérification objective seule m'apprend que c'est une illusion et que le deuxième groupe de faits est inféré à tort. Notre connaissance du champ visuel, qui consiste en une somme de représentations, n'est donc acquise que lors-[^p133-1]
+En résumé donc, l'opération telle que Helmholtz la conçoit est celle-ci : toute impression sur une partie déterminée de la rétine produit, à l'aide des signes locaux et des mouvements musculaires, une modification déterminée du sensorium (premier groupe de faits). A l'aide du toucher, des mouvements du corps , de divers artifices expérimentaux, nous déterminons la cause de cette modification (deuxième groupe de faits). Ces deux groupes de faits suffisamment répétés finissent par s'associer si bien, que, lorsque je presse mon œil à droite, je vois infailliblement une lueur à gauche, et que la vérification objective seule m'apprend que c'est une illusion et que le deuxième groupe de faits est inféré à tort.[^p133-1] Notre connaissance du champ visuel, qui consiste en une somme de représentations, n'est donc acquise que lors-
 
-[p. 134] que chaque point excité de la rétine est devenu capable de s'associer au groupe de faits correspondant. On voit que Helmholtz désigne sous le nom de raisonnement inconscient ce que l'Ecole anglaise appelle « association inséparable ». Et lui-même s'exprime exactement comme Mill ou Bain, quand il dit : « Le seul acte psychique qui soit nécessaire à cet effet, c'est la répétition régulière de l'association de deux représentations qui se sont associées ensemble, et cette association s'impose avec d'autant plus de force et de nécessité qu'elle s'est offerte à nous plus souvent ¹. >>>>
+[p. 134] que chaque point excité de la rétine est devenu capable de s'associer au groupe de faits correspondant. On voit que Helmholtz désigne sous le nom de raisonnement inconscient ce que l'Ecole anglaise appelle « association inséparable ». Et lui-même s'exprime exactement comme Mill ou Bain, quand il dit : « Le seul acte psychique qui soit nécessaire à cet effet, c'est la répétition régulière de l'association de deux représentations qui se sont associées ensemble, et cette association s'impose avec d'autant plus de force et de nécessité qu'elle s'est offerte à nous plus souvent [^p134-1]. >>>>
 
 Il y a cependant un point sur lequel il est en désaccord avec l'associationisme. Il n'admet pas que la loi de causalité puisse être dérivée de l'expérience. Avec Kant , il croit qu'elle doit être indépendante des données expérimentales, puisqu'elle les explique. Il pose donc un principe *a priori* comme condition de la théorie empirique ; car, nous l'avons vu, la loi de causalité sert de soutien à ces conclusions sans cesse répétées qui constituent nos déterminations des objets quant à l'étendue.
 
-Tels sont les principes généraux de la théorie de Helmholtz. En terminant, indiquons quelques détails. Notre connaissance monoculaire de l'étendue à deux dimensions est due à l'intervention du mouvement. L'auteur ne fait aucune hypothèse ni sur la nature ni sur la disposition anatomique des signes locaux. Il admet que ces signes pourraient être disséminés au hasard sur la rétine : cela ne changerait rien à sa théorie ; mais l'accoutumance serait bien[^p134-1]
+Tels sont les principes généraux de la théorie de Helmholtz. En terminant, indiquons quelques détails. Notre connaissance monoculaire de l'étendue à deux dimensions est due à l'intervention du mouvement. L'auteur ne fait aucune hypothèse ni sur la nature ni sur la disposition anatomique des signes locaux. Il admet que ces signes pourraient être disséminés au hasard sur la rétine : cela ne changerait rien à sa théorie ; mais l'accoutumance serait bien
 
 [p. 135] L'ORIGINE DE LA NOTION D'ESPACE plus difficile . C'est à l'aide du mouvement que l'œil apprend quel est l'ordre des points dans le champ de vision, c'est-àdire quels signes locaux appartiennent aux points qui sont dans un rapport de voisinage immédiat. La localisation des impressions est ainsi rapportée à certaines impressions liées d'une certaine manière aux excitations de certaines fibres . - En ce qui concerne la troisième dimension, nous avons vu comment Helmholtz explique la notion de distance et d'extériorité. La perception binoculaire du relief repose uniquement sur ce qu'on a simultanément conscience de deux images différentes. Les sensations des deux rétines sont parfaitement distinctes l'une de l'autre ; elles arrivent à la conscience sans être fusionnées . Elles se combinent en une repré sentation simple, lorsque, par suite d'associations répétées, elles sont devenues pour nous les signes d'un seul et même objet. <<< Leur fusion en une notion unique de l'objet extérieur ne se fait donc pas par un mécanisme préétabli (comme le veulent les nativistes), mais par un acte psychique. >>>
 
@@ -1524,7 +1524,7 @@ On remarquera que l'hypothèse des signes locaux, quoiqu'elle ait été exposée
 
 La théorie empirique les considère comme des signes quelconques : elle veut que leur signification relativement à la perception du monde extérieur soit un résultat de l'expérience . Dès lors, il devient inutile de présupposer un accord quelconque entre les signes locaux et les différences locales qui leur correspondent 2 .
 
-La théorie nativiste, au contraire, les considère comme donnant une notion immédiate des différences locales, de leur nature, de leur grandeur et de leur position relative : comme étant à la fois des organes sensitifs et des éléments d'espace. Au point de vue philosophique, ainsi que le fait remarquer Helmholtz, cette théorie admet une har-[^p137-1][^p137-2]
+La théorie nativiste, au contraire, les considère comme donnant une notion immédiate des différences locales, de leur nature, de leur grandeur et de leur position relative : comme étant à la fois des organes sensitifs et des éléments d'espace.[^p137-2][^p137-1] Au point de vue philosophique, ainsi que le fait remarquer Helmholtz, cette théorie admet une har-
 
 [p. 138] monie préétablie entre la pensée et les lois de la nature.
 
@@ -1534,7 +1534,7 @@ En poursuivant notre comparaison, nous rencontrons la question de l'espace visue
 
 1º La position renversée de l'image rétinienne ne présente aucune difficulté pour l'hypothèse empirique : cette image est une simple matière à élaborer par l'esprit, une donnée que l'expérience doit interpréter ; sa position n'a donc qu'une importance secondaire . Il n'en est pas de même pour les nativistes. Ce fait a embarrassé Müller et d'autres , qui ne s'en sont tirés que par des explications embarrassées ou inadmissibles 1 .
 
-2º Malgré l'intervention des deux images rétiniennes, nous voyons simple dans la plupart des cas. A la vérité , les nativistes admettent que les impressions reçues sur les points correspondants ou identiques donnent lieu à la vision simple ; les impressions reçues sur des points disparates, à la vision double. Mais Helmholtz a montré que les images de points correspondants peuvent quelquefois être vues[^p138-1]
+2º Malgré l'intervention des deux images rétiniennes, nous voyons simple dans la plupart des cas. A la vérité , les nativistes admettent que les impressions reçues sur les points correspondants ou identiques donnent lieu à la vision simple ; les impressions reçues sur des points disparates, à la vision double.[^p138-1] Mais Helmholtz a montré que les images de points correspondants peuvent quelquefois être vues
 
 [p. 139] L'ORIGINE DE LA NOTION D'ESPACE doubles, et que, par contre, les images de points disparates peuvent quelquefois se fusionner.
 
@@ -1542,7 +1542,7 @@ Lorsqu'on passe de la notion d'un champ superficiel, ou à deux dimensions, aux 
 
 i
 
-[p. 140] : préformé . On pourrait alléguer encore des faits pathologiques contre l'hypothèse d'une préformation : par exemple, dans les cas de paralysie du muscle abducteur de la pupille, le malade voit les objets situés plus en dehors qu'ils ne le sont réellement. Le chemin parcouru paraît alors plus long, parce que la contraction musculaire doit être plus forte pour exécuter le même mouvement. Le malade , en croyant prendre les objets, ne saisit que l'espace extérieur. Un casseur de pierres atteint de ce mal, au lieu de frapper les pierres, commença par frapper sa main avec son marteau ( Wundt) . Mais peu à peu le malade s'accoutume à rectifier ses mouvements , qui lui coûtent seulement un plus grand effort dans la partie lésée . Cette accommodation successive à un état pathologique jette quelque jour sur la manière dont les choses ont dû se passer à l'origine. Si, quand les conditions sont changées , nous pouvons de nouveau reconnaître la position d'un objet , grâce aux mouvements de l'organe sentant vers cet objet, il est naturel d'admettre qu'à l'origine l'idée de direction a dû naître d'un rapport entre la sensation musculaire et l'endroit de la rétine où l'excitation extérieure agit sur nous. — On pourrait trouver encore des arguments dans certains cas de strabisme 1 ; mais, sans insister davantage, on voit comment l'enchaînement des faits nous pousse nécessairement vers la théorie empirique, et nous emprunterons à Helmholtz le résumé des raisons qui font conclure en sa faveur : [^p140-1]
+[p. 140] : préformé . On pourrait alléguer encore des faits pathologiques contre l'hypothèse d'une préformation : par exemple, dans les cas de paralysie du muscle abducteur de la pupille, le malade voit les objets situés plus en dehors qu'ils ne le sont réellement. Le chemin parcouru paraît alors plus long, parce que la contraction musculaire doit être plus forte pour exécuter le même mouvement. Le malade , en croyant prendre les objets, ne saisit que l'espace extérieur. Un casseur de pierres atteint de ce mal, au lieu de frapper les pierres, commença par frapper sa main avec son marteau ( Wundt) . Mais peu à peu le malade s'accoutume à rectifier ses mouvements , qui lui coûtent seulement un plus grand effort dans la partie lésée . Cette accommodation successive à un état pathologique jette quelque jour sur la manière dont les choses ont dû se passer à l'origine. Si, quand les conditions sont changées , nous pouvons de nouveau reconnaître la position d'un objet , grâce aux mouvements de l'organe sentant vers cet objet, il est naturel d'admettre qu'à l'origine l'idée de direction a dû naître d'un rapport entre la sensation musculaire et l'endroit de la rétine où l'excitation extérieure agit sur nous.[^p140-1] — On pourrait trouver encore des arguments dans certains cas de strabisme 1 ; mais, sans insister davantage, on voit comment l'enchaînement des faits nous pousse nécessairement vers la théorie empirique, et nous emprunterons à Helmholtz le résumé des raisons qui font conclure en sa faveur :
 
 [p. 141] L'ORIGINE DE LA NOTION D'ESPACE
 
@@ -1554,7 +1554,7 @@ i
 
 On a cependant fait valoir contre la théorie empirique des raisons qui ne peuvent pas être passées sous silence .
 
-La première s'appuie sur un fait bien connu . Bailey, en Angleterre , s'en est servi pour attaquer la doctrine de la vision de Berkeley, et l'objection a été renouvelée depuis par d'autres nativistes 2. Le petit poulet, à peine né et traînant encore à sa queue les débris de sa coquille , happe une mouche au vol . Le petit veau fait des mouvements appro-[^p141-1][^p141-2]
+La première s'appuie sur un fait bien connu . Bailey, en Angleterre , s'en est servi pour attaquer la doctrine de la vision de Berkeley, et l'objection a été renouvelée depuis par d'autres nativistes 2. Le petit poulet, à peine né et traînant encore à sa queue les débris de sa coquille , happe une mouche au vol .[^p141-2][^p141-1] Le petit veau fait des mouvements appro-
 
 [p. 142] 3 priés, va teter sa mère. Le crocodile, éclos sans avoir été couvé par ses parents, court immédiatement à l'eau, mord un bâton qu'on lui présente, etc. On ne peut nier que ces faits , même en les qualifiant du nom vague d'instincts, — се qui n'explique rien, - sont bien plutôt en faveur de la théorie nativiste , puisqu'ils montrent que ces animaux, << dès qu'ils voient la lumière du monde, en voient aussi la profondeur. >>
 
@@ -1562,9 +1562,9 @@ Helmholtz , qui a discuté cette objection (dans ses Pop. wissench . Vorträge, 
 
 La seconde objection s'appuie sur des considérations théoriques . Elle a été formulée par Wundt, qui cependant
 
-[p. 143] L'ORIGINE DE LA NOTION D'ESPACE rejette l'hypothèse intuitive. La genèse de nos idées d'espace est ramenée par Helmholtz à des raisonnements par analogie . Ainsi, d'après lui, nous rapportons à droite, dans l'espace, les impressions que notre rétine reçoit à gauche ; parce que, dans un grand nombre de cas antérieurs, l'expérience nous a montré que les objets sont réellement situés dans cette direction. Mais, objecte Wundt ¹ , ce raisonnement par analogie n'est pas applicable aux expériences primordiales, à celles qui n'ont été précédées par aucune autre et qui doivent servir de base à toutes les autres. A la vérité, Helmholtz échappe à cette difficulté, en admettant que les représentations primitives de l'espace sont formées à l'aide du toucher ; en quoi il s'accorde avec les fondateurs de la théorie empirique, Berkeley et Condillac. Cependant il ne fait que reculer la difficulté, puisque la même objection se posera à propos du toucher. En faisant intervenir la loi de causalité, Helmholtz lui-même admet un élément qui n'est pas donné par l'expérience pure, mais qui n'explique pas mieux les notions primordiales . Aussi Wundt a-t-il recours à la théorie synthétique, dont nous avons parlé plus haut .
+[p. 143] L'ORIGINE DE LA NOTION D'ESPACE rejette l'hypothèse intuitive. La genèse de nos idées d'espace est ramenée par Helmholtz à des raisonnements par analogie . Ainsi, d'après lui, nous rapportons à droite, dans l'espace, les impressions que notre rétine reçoit à gauche ; parce que, dans un grand nombre de cas antérieurs, l'expérience nous a montré que les objets sont réellement situés dans cette direction. Mais, objecte Wundt [^p143-1] , ce raisonnement par analogie n'est pas applicable aux expériences primordiales, à celles qui n'ont été précédées par aucune autre et qui doivent servir de base à toutes les autres. A la vérité, Helmholtz échappe à cette difficulté, en admettant que les représentations primitives de l'espace sont formées à l'aide du toucher ; en quoi il s'accorde avec les fondateurs de la théorie empirique, Berkeley et Condillac. Cependant il ne fait que reculer la difficulté, puisque la même objection se posera à propos du toucher. En faisant intervenir la loi de causalité, Helmholtz lui-même admet un élément qui n'est pas donné par l'expérience pure, mais qui n'explique pas mieux les notions primordiales . Aussi Wundt a-t-il recours à la théorie synthétique, dont nous avons parlé plus haut .
 
-Tel est le résumé impartial de la question. On peut remarquer que les objections ci-dessus ne sont pas sans valeur : c'est qu'en effet, sans elles, la victoire de la théorie empirique serait complète, et que la thèse rivale n'appartiendrait plus qu'à l'histoire . Quelque opinion qu'on adopte, ce débat nous offre un bel exemple d'application de l'analyse à une notion réputée dernière et indécomposable, et cette analyse[^p143-1]
+Tel est le résumé impartial de la question. On peut remarquer que les objections ci-dessus ne sont pas sans valeur : c'est qu'en effet, sans elles, la victoire de la théorie empirique serait complète, et que la thèse rivale n'appartiendrait plus qu'à l'histoire . Quelque opinion qu'on adopte, ce débat nous offre un bel exemple d'application de l'analyse à une notion réputée dernière et indécomposable, et cette analyse
 
 [p. 144] n'est pas seulement verbale et idéologique à la manière du XVIIIe siècle ; mais, dans la mesure possible, elle s'est aidée de l'observation objective et de l'expérimentation . Sans parler des difficultés expérimentales qui arrêtent à chaque instant les physiologistes, il y a une difficulté psychologique qui plane sur tout ce débat. A première vue, rien ne paraît plus simple que de dire : Ceci est primitif, ceci est acquis , ceci est un fait, ceci est une induction . Le lecteur a dû voir pourtant combien la réponse est difficile dans certains cas , La perception de couleurs très-nettes, du rouge, du vert , paraît un acte de connaissance immédiat , comme tel sans erreur possible pour un organe sain. Cependant les faits de contraste simultané (c'est-à-dire la modification que subissent pour nous les différentes couleurs par l'effet de leur juxtaposition) semblent montrer qu'il y a là un processus cérébral plus complexe que la perception brute, qu'il y a un commencement d'interprétation 1. Combien donc ne devientil pas plus difficile de délimiter la sensation et l'inférence dans les cas plus complexes !
 
@@ -1594,7 +1594,7 @@ que
 
 Théodore-Gustave
 
-Fechner , actuellement professeur honoraire à l'Université de Leipzig . Depuis l'année 1836, date de la publication de son premier ouvrage : La vie après la mort, jusqu'aux derniers mois de 1877 , date de son dernier livre , In Sachen der Psychophysik, Fechner a touché à tous les problèmes philosophiques et s'est mêlé à toutes les grandes discussions qu'ils ont soulevées en Allemagne . La liste de ses ouvrages en fait foi : ils comprennent la métaphysique, la morale, les questions religieuses , la doctrine de l'évolution, l'esthétique 1. On y trouve un grand nombre d'aperçus neufs et d'hypothèses séduisantes . Dans l'esthétique surtout, - ou du moins dans[^p147-1]
+Fechner , actuellement professeur honoraire à l'Université de Leipzig . Depuis l'année 1836, date de la publication de son premier ouvrage : La vie après la mort, jusqu'aux derniers mois de 1877 , date de son dernier livre , In Sachen der Psychophysik, Fechner a touché à tous les problèmes philosophiques et s'est mêlé à toutes les grandes discussions qu'ils ont soulevées en Allemagne . La liste de ses ouvrages en fait foi : ils comprennent la métaphysique, la morale, les questions religieuses , la doctrine de l'évolution, l'esthétique 1. On y trouve un grand nombre d'aperçus neufs et d'hypothèses séduisantes .[^p147-1] Dans l'esthétique surtout, - ou du moins dans
 
 [p. 148] l'étude de ses conditions physiques et physiologiques , Fechner a montré une rigueur de méthode bien rare chez les esthéticiens allemands . Mais l'examen de ces diverses publications ne rentre pas dans notre sujet : aussi bien le vrai titre de gloire de Fechner est ailleurs ; il est dans ses travaux sur la psychophysique. En 1860 parurent les Elemente der Psychophysik ¹ , gros livre plein d'expériences, de tableaux, de chiffres, de calculs et de généralisations philosophiques . C'est lui qui sert encore de base à tous les débats qui se sont élevés depuis vingt ans . A ses contradicteurs, Fechner n'avait répondu qu'incidemment par quelques mémoires ou articles 2. En 1877 , reprenant l'offensive dans son In Sachen der Psychophysik, il a fait tête à tous ses critiques et maintenu contre eux ses premières conclusions . Il a recommencé le même travail dans son dernier livre , Revision der Hauptpunkte der Psychophysik (1882), sans faire plus de concessions .
 
@@ -1618,9 +1618,9 @@ En principe, il place la nouvelle science en dehors de toute hypothèse métaphy
 
 Dans les préliminaires de son livre, la seule idée générale que Fechner ait émise sur les rapports du physique et du moral, c'est que l'opposition entre le corps et l'esprit ne vient que d'une différence de point de vue ; ce qui, en fait, est un, paraît double. « Ce qui, du point de vue intérieur, te paraît ton esprit, l'esprit que tu es , du point de vue extérieur te paraît le substratum corporel de cet esprit. C'est qu'il est tout différent de penser avec son cerveau ou de considérer le cerveau de l'être pensant. » Dans la nature , rien n'est plus fréquent que ces oppositions qui semblent [p. 151] réelles au premier coup d'œil et qui disparaissent, si on les considère sous un autre aspect. Nous nous tenons au milieu d'un cercle, le côté convexe nous est caché par le côté concave ; nous nous plaçons au dehors, le côté concave nous est caché par le côté convexe . Ces deux côtés du cercle sont aussi inséparables que le sont les deux côtés de l'homme (spirituel et corporel), et il est également impossible, dans les deux cas, de saisir à la fois les deux aspects, tant qu'on reste dans la même position . De même encore, notre système planétaire, vu du soleil, puis vu de la terre, présente un aspect tout différent. Là, c'est le système de Kopernik ; ici, c'est le système de Ptolémée . Il est impossible à tout observateur de voir à la fois ces deux aspects, quoiqu'ils soient nécessairement liés l'un à l'autre . Il y a , dans la nature, bien d'autres cas de cette sorte, et pour Fechner la différence du physique et du psychique en est un 1 .
 
-Il est à peine besoin de faire remarquer que cette thèse n'a rien de paradoxal ; qu'elle a été soutenue par des savants éminents , et qu'elle ne peut avoir aucune influence directe sur les recherches psychophysiques. D'ailleurs, ajoute Fechner, le but de mon ouvrage n'est pas de traiter cette question fondamentale ; que chacun résolve l'énigme comme il lui plaira ; cela n'a pas de conséquence pour le travail qui va suivre.
+Il est à peine besoin de faire remarquer que cette thèse n'a rien de paradoxal ; qu'elle a été soutenue par des savants éminents , et qu'elle ne peut avoir aucune influence directe sur les recherches psychophysiques. D'ailleurs, ajoute Fechner, le but de mon ouvrage n'est pas de traiter cette question fondamentale ; que chacun résolve l'énigme comme il lui plaira ; cela n'a pas de conséquence pour le travail qui va suivre.[^p151-1]
 
-Sur un seul point, dont nous apprécierons plus loin l'importance, la métaphysique de Fechner fait irruption dans ses recherches, par son hypothèse des mouvements psychophy-[^p151-1]
+Sur un seul point, dont nous apprécierons plus loin l'importance, la métaphysique de Fechner fait irruption dans ses recherches, par son hypothèse des mouvements psychophy-
 
 [p. 152] siques . Il serait inutile d'insister ici sur une théorie que la suite de notre exposition seule peut rendre intelligible. Bornons-nous à dire que, tandis que si l'on s'en tient aux simples données de l'expérience, on ne constate, entre l'excitation produite par un objet extérieur et la sensation qui en résulte, qu'un fait de transmission par les nerfs et les centres nerveux, Fechner intercale entre ces deux termes un << mouvement psychophysique » destiné à expliquer la disproportion entre la cause (l'excitation) et l'effet (la sensation) ; et que cette hypothèse a donné lieu aux critiques les plus sérieuses .
 
@@ -1640,7 +1640,7 @@ Mais c'est surtout E. H. Weber qui lui a ouvert la voie . Ce dernier (dans ses P
 
 si l'on compare deux lignes presque égales , la plus petite différence que l'on puisse saisir entre elles équivaut toujours à 1/50 environ de la plus courte, quelle que soit la longueur des lignes comparées ; qu'elles aient un centimètre, un décimètre ou un mètre . De même, pour qu'un poids soit jugé supérieur à un autre, il faut qu'il le surpasse d'une fraction qui varie de 1/30 à 1/50, suivant les individus, quel que soit d'ailleurs le poids initial (gramme, once, livre ou kilogramme) . Weber rapprocha ces résultats d'un fait acoustique très-analogue : entre deux tons de hau [p. 154] teur différente, la plus petite différence perceptible est toujours la même, quelle que soit la hauteur de ces tons, et cette plus petite différence est toujours une même fraction du ton le plus bas. Ces expériences, reposant sur trois ordres distincts de sensations, conduisirent Weber à formuler cette loi : Les sensations croissent de quantités égales, quand les excitations croissent de quantités relativement égales 1. Cette 101 a été exprimée par M. Delbœuf sous cette autre forme : « La plus petite différence perceptible entre deux excitations de même nature est toujours due à une différence réelle qui croît proportionnellement avec ces excitations mêmes . >>>
 
-Tel était l'état de la question avant Fechner. Pour bien comprendre l'ordre de recherches dans lequel nous allons entrer, il est bon de remarquer que la physiologie distingue dans nos sensations, prises en général, deux choses : leur qualité et leur intensité ou quantité. Quoiqu'il soit bien possible qu'en dernière analyse ces deux choses n'en fassent qu'une , en fait, du moins, elles nous sont données comme distinctes . Ainsi, dans la catégorie des sensations visuelles, le rouge, le bleu, le vert nous sont donnés comme des qualités . Mais ces sensations , tout en restant les mêmes quant à leur qualité , peuvent varier en intensité ; elles augmentent ou diminuent. Toute sensation a donc une valeur quantitative. D'ailleurs, la plus simple réflexion nous[^p154-1]
+Tel était l'état de la question avant Fechner. Pour bien comprendre l'ordre de recherches dans lequel nous allons entrer, il est bon de remarquer que la physiologie distingue dans nos sensations, prises en général, deux choses : leur qualité et leur intensité ou quantité. Quoiqu'il soit bien possible qu'en dernière analyse ces deux choses n'en fassent qu'une , en fait, du moins, elles nous sont données comme distinctes . Ainsi, dans la catégorie des sensations visuelles, le rouge, le bleu, le vert nous sont donnés comme des qualités . Mais ces sensations , tout en restant les mêmes quant à leur qualité , peuvent varier en intensité ; elles augmentent ou diminuent. Toute sensation a donc une valeur quantitative.[^p154-1] D'ailleurs, la plus simple réflexion nous
 
 [p. 155] RECHERCHES PSYCHOPHYSIQUES l'apprend : il n'est personne qui n'ait comparé deux sensations et constaté qu'elles sont égales ou inégales , que l'une est plus grande ou plus petite que l'autre . Nous déclarons sans hésiter qu'il fait plus clair en plein midi qu'au clair de lune, qu'un coup de canon fait plus de bruit qu'un coup de pistolet. Il existe donc une comparaison quantitative des sensations ; mais elle se borne à constater des égalités ou des inégalités ; elle ne peut en aucune façon nous dire combien de fois une sensation est plus forte ou plus faible qu'une autre . Le soleil a-t-il cent ou mille fois plus d'éclat que la lune ? Le canon fait-il cent ou mille fois plus de bruit qu'un pistolet ? Il nous est impossible de répondre à cette question. La mesure naturelle de la sensation, que possède chaque homme, lui fait connaître le plus, le moins, l'égalité , jamais le quantum . Nous ne pouvons point sortir ainsi des affirmations vagues et approximatives .
 
@@ -1658,9 +1658,9 @@ La propriété qu'ont les sensations d'augmenter et de diminuer nous fournit un 
 
 » . Cependant cette supposition est fausse . Certains faits que l'observation seule nous montre , sans le secours d'aucune expérimentation , vont nous le prouver et éclairer au moins d'une manière générale la loi suivant laquelle les sensations varient avec les excitations .
 
-Tout le monde, dit M. Delbœuf², sait que, dans le silence de la nuit, on entend des bruits qui, pendant le jour, passent inaperçus : le tic-tac de la pendule, le léger vent coulis qui passe par la cheminée , et bien d'autres bruits de cette espèce. Dans une rue pleine de tapage ou dans un train en marche, nous n'entendons pas notre voisin ni quelquefois notre propre voix. Les étoiles, si brillantes pendant la nuit , n'apparaissent plus pendant le jour, et la lune pâlit devant le soleil . A un poids de 10 grammes que vous tenez dans la main , ajoutez un autre poids de 10 grammes, vous sentirez clairement une différence ; mais, si vous ajoutez ce poids de 10 grammes à un quintal, la différence n'est plus sentie.
+Tout le monde, dit M. Delbœuf[^p158-2], sait que, dans le silence de la nuit, on entend des bruits qui, pendant le jour, passent inaperçus : le tic-tac de la pendule, le léger vent coulis qui passe par la cheminée , et bien d'autres bruits de cette espèce. Dans une rue pleine de tapage ou dans un train en marche, nous n'entendons pas notre voisin ni quelquefois notre propre voix. Les étoiles, si brillantes pendant la nuit , n'apparaissent plus pendant le jour, et la lune pâlit devant le soleil . A un poids de 10 grammes que vous tenez dans la main , ajoutez un autre poids de 10 grammes, vous sentirez clairement une différence ; mais, si vous ajoutez ce poids de 10 grammes à un quintal, la différence n'est plus sentie.
 
-Ce sont là des faits journaliers : on croit qu'ils se comprennent d'eux-mêmes , et pourtant il n'en est rien . Car il est indubitable que la pendule continue son tic-tac pendant le jour ; que nous parlons haut dans le chemin de fer ; que la lune et les étoiles rayonnent pendant le jour comme pendant la nuit, et que 10 grammes pèsent toujours 10 grammes .[^p158-1][^p158-2]
+Ce sont là des faits journaliers : on croit qu'ils se comprennent d'eux-mêmes , et pourtant il n'en est rien . Car il est indubitable que la pendule continue son tic-tac pendant le jour ; que nous parlons haut dans le chemin de fer ; que la lune et les étoiles rayonnent pendant le jour comme pendant la nuit, et que 10 grammes pèsent toujours 10 grammes .[^p158-1]
 
 [p. 159] RECHERCHES PSYCHOPHYSIQUES
 
@@ -1682,7 +1682,7 @@ L'expérience journalière n'est pas en état d'y répondre : c'est ici que la m
 
 Il nous est impossible de mesurer directement la force d'une sensation ; nous ne pouvons jamais mesurer que des différences de sensation . Pour y arriver, on n'a employé jusqu'ici que trois méthodes d'expérimentation, que Fechner, qui les a mises en usage, a désignées sous les noms de Méthode des plus petites différences perceptibles ; Méthode des cas vrais et faux ; Méthode des erreurs moyennes 1 .
 
-La première méthode (der eben merklichen Unterschiede) consiste en ceci. On a deux poids A et B à comparer. Si la différence de ces deux poids est très-faible, il peut arriver qu'on ne la perçoive pas et qu'on les juge égaux. Au contraire , si la différence est considérable , elle n'échappera pas à l'observation. Si donc on fait croître la différence d[^p160-1]
+La première méthode (der eben merklichen Unterschiede) consiste en ceci. On a deux poids A et B à comparer. Si la différence de ces deux poids est très-faible, il peut arriver qu'on ne la perçoive pas et qu'on les juge égaux. Au contraire , si la différence est considérable , elle n'échappera pas à l'observation.[^p160-1] Si donc on fait croître la différence d
 
 [p. 161] RECHERCHES PSYCHOPHYSIQUES des poids A et B, il arrivera un moment où, d'imperceptible qu'elle était, elle deviendra appréciable. En général, quand on use de cette méthode, on procède de deux façons opposées : on fait d'abord croître la différence d jusqu'à co qu'elle devienne perceptible ; puis on la fait décroître jusqu'à ce qu'elle cesse de l'être. Naturellement, la sensibilité du sujet, pour juger des différences, est d'autant plus grande que la quantité d est plus petite.
 
@@ -1724,7 +1724,7 @@ Ces chiffres nous révèlent la loi précise suivant laquelle les sensations de 
 
 Sensations d'effort musculaire. - On a fait des recherches analogues et en grand nombre sur la sensation de l'effort (pour soulever un poids). Mais ici les conditions ne sont pas aussi simples. Lorsqu'on soulève un poids, on n'a plus simplement une sensation de pression dans la main ; on a aussi une sensation dans les muscles du bras qui soulèvent la main avec le poids. Dans ce cas-ci, la sensibilité est beaucoup plus délicate que dans le cas de la pression simple . Par suite , dans l'effort fait pour soulever des poids, on saisira des différences beaucoup plus petites. Et, en fait, des recherches précisés montrent que, dans le cas de l'effort musculaire, on sent un poids additionnel qui n'est que le 6/100 du poids primitif. La sensibilité dans ce cas-ci est donc quelque chose comme cinq fois plus grande que dans le cas précédent.
 
-Le nombre 6/100 est donc celui qui exprime la loi suivant laquelle la sensation d'effort musculaire dépend de l'excitation . Ce nombre s'applique à tous les poids, grands ou petits, qu'il s'agisse de grammes, de livres ou de kilogrammes c'est-à-dire qu'il faut ajouter à 100 grammes 6 grammes ,[^p164-1]
+Le nombre 6/100 est donc celui qui exprime la loi suivant laquelle la sensation d'effort musculaire dépend de l'excitation .[^p164-1] Ce nombre s'applique à tous les poids, grands ou petits, qu'il s'agisse de grammes, de livres ou de kilogrammes c'est-à-dire qu'il faut ajouter à 100 grammes 6 grammes ,
 
 [p. 165] RECHERCHES PSYCHOPHYSIQUES à 1000 grammes 60 grammes ; bref, à tout poids les 6/100 de ce poids , pour qu'une différence soit sentie 1 .
 
@@ -1738,7 +1738,7 @@ Sensations
 
 de lumière .
 
-Nous déterminons objectivement un poids à l'aide d'une balance ; nous déterminons objectivement la lumière à l'aide d'un photomètre. Dans une chambre obscure, on place un tableau blanc qui est éclairé par deux bougies A et B. Devant le tableau est placée une[^p165-1][^p165-2]
+Nous déterminons objectivement un poids à l'aide d'une balance ; nous déterminons objectivement la lumière à l'aide d'un photomètre. Dans une chambre obscure, on place un tableau blanc qui est éclairé par deux bougies A et B.[^p165-2][^p165-1] Devant le tableau est placée une
 
 [p. 166] règle qui projette deux ombres, l'une A', qui est due à A, l'autre B ' , due à B. En éloignant la bougie B, l'ombre A' devient plus opaque. Il est alors facile de calculer quelle est la distance des points A et B à partir de laquelle l'augmen tation de l'opacité devient perceptible. D'après les lois de l'optique , les intensités lumineuses étant en raison inverse du carré des distances qui séparent les bougies de l'écran , on peut en déduire directement la différence entre les intensités lumineuses appréciables pour nous.
 
@@ -1772,7 +1772,7 @@ Les sons étant directement proportionnels à la hauteur de la chute, si les deu
 
 Les expériences dont nous venons de présenter le résumé montrent que toutes les fois que les sensations de poids, de lumière, de température, de son et même d'effort musculaire, croissent d'une manière continue par l'addition des plus petites différences perceptibles à la conscience, il ya dans l'excitation correspondante un accroissement qui est une quantité aliquote, toujours la même, de l'excitation totale.
 
-Restent les sensations de l'odorat et du goût. Ces dernières ont été étudiées par Keppler en 1869, d'après la méthode des cas vrais et faux ; mais ces expériences ne s'accordent pas avec les théories de Fechner 2. Nous pouvons donc[^p170-1][^p170-2]
+Restent les sensations de l'odorat et du goût. Ces dernières ont été étudiées par Keppler en 1869, d'après la méthode des cas vrais et faux ; mais ces expériences ne s'accordent pas avec les théories de Fechner 2.[^p170-2][^p170-1] Nous pouvons donc
 
 [p. 171] RECHERCHES PSYCHOPHYSIQUES résumer ce qui précède dans le tableau ci-dessous et dire : Pour que la sensation s'accroisse de la plus petite différence perceptible, l'excitation doit croître :
 
@@ -1802,7 +1802,7 @@ de
 
 Ces nombres ont permis à Fechner, comme on le verra plus loin, de trouver une loi très-générale qui exprime le rapport de toute excitation à toute sensation 1. Mais, avant d'arriver à cette loi, il y a une recherche préalable à faire : c'est celle qui a pour but de déterminer la plus petite sensation perceptible.
 
-Pour construire en effet une échelle graduée qui nous serve à mesurer le rapport entre l'excitation et la sensation, il ne suffit pas d'avoir trouvé une unité qui permette de diviser l'échelle en parties égales ; il faut savoir aussi d'où partira notre graduation . Où placerons-nous le zéro ? Evidemment , pour ce qui concerne la sensation , le zéro de l'échelle graduée doit être placé là où se produit la plus petite sensation perceptible , la plus petite sensation dont nous ayons conscience 2. Ce point est appelé par[^p171-1][^p171-2]
+Pour construire en effet une échelle graduée qui nous serve à mesurer le rapport entre l'excitation et la sensation, il ne suffit pas d'avoir trouvé une unité qui permette de diviser l'échelle en parties égales ; il faut savoir aussi d'où partira notre graduation . Où placerons-nous le zéro ? Evidemment , pour ce qui concerne la sensation , le zéro de l'échelle graduée doit être placé là où se produit la plus petite sensation perceptible , la plus petite sensation dont nous ayons conscience 2.[^p171-2][^p171-1] Ce point est appelé par
 
 [p. 172] Fechner d'un mot emprunté à Herbart, le seuil de l'excitation (Reizschwelle) , terme qu'il applique « aussi bien à la sensation qu'à l'excitation qui la place à ce point ¹ » .
 
@@ -1850,19 +1850,19 @@ Elemente der Psychophysik, tome Ier, p. 263 et suiv . , en particulier p . 264 .
 
 Cette détermination faite, il faut que le son ainsi produit puisse devenir une unité, à laquelle les autres intensités sonores soient comparables. Pour cela, on procède de la manière suivante . Prenons un son quelconque dont on veut mesurer l'intensité ; éloignons-nous jusqu'au point où ce son devient simplement perceptible. Là, il est précisément égal au minimum perceptible , tel que nous l'avons déterminé plus haut ; et, par la mesure de la distance, nous pouvons savoir combien de fois ce son, à l'endroit où il est produit, est plus intense que le son de la petite boule de liége. Soit par exemple le bruit d'un fusil chargé à balle qu'on entend à 7,000 mètres . Cette distance est quelque chose comme 700,000 fois plus grande que celle de 91 millimètres . Il en résulte donc que l'intensité du son produit par notre fusil sera environ 4,900 millions de fois plus grande que l'unité choisie .
 
-On peut procéder d'une manière analogue avec toutes les autres intensités sonores . Mais ces mesures doivent se faire dans le silence de la nuit, l'oreille alors n'étant pas troublée par d'autres sons, et en même temps, par suite d'absence de chaleur solaire, l'état de l'air étant plus uniforme 1 .
+On peut procéder d'une manière analogue avec toutes les autres intensités sonores . Mais ces mesures doivent se faire dans le silence de la nuit, l'oreille alors n'étant pas troublée par d'autres sons, et en même temps, par suite d'absence de chaleur solaire, l'état de l'air étant plus uniforme 1 .[^p174-1]
 
 Lumière,
 
-Quand il s'agit de déterminer le minimum perceptible dans l'ordre des sensations lumineuses, on ren-[^p174-1]
+Quand il s'agit de déterminer le minimum perceptible dans l'ordre des sensations lumineuses, on ren-
 
 [p. 175] RECHERCHES PSYCHOPHYSIQUES contre de grandes difficultés. Il semble, au premier abord, qu'ici les conditions extérieures des phénomènes soient précisément les mêmes qu'ailleurs ; mais bientôt on voit que les conditions intérieures sont si différentes que la recherche se complique singulièrement .
 
 La détermination du minimum perceptible ne peut avoir lieu naturellement que quand l'organe sensoriel est à l'état de repos et ne perçoit rien. Tel est le cas pour l'oreille : le silence se distingue pour nous du bruit, par le manque absolu de sensation. Il semble que, pour l'œil, l'obscurité se distingue de même de la lumière . Mais il n'en est rien : l'obscurité ne diffère de la lumière qu'en degré . Nous fermons les yeux ; il en résulte une obscurité brusque, nullement une absence complète de sensation. La lumière extérieure y pénètre toujours un peu. En outre, la pression exercée sur le globe de l'œil excite la rétine ; si bien que, lorsqu'on augmente la pression, cette lumière intérieure augmente aussi.
 
-Mais admettons que cette excitation mécanique manque et que nous soyons dans la nuit la plus obscure, il n'y en a pas moins encore de la lumière dans notre œil. C'est ce qu'on appelle sa lumière propre . « Le champ visuel de l'homme sain, dit Helmholtz ¹, n'est jamais complètement débarrassé de ces apparitions qu'on a nommées le chaos lumineux, la poussière lumineuse du champ visuel obscur. » Ce phénomène fut d'abord étudié par Gæthe, J. Müller et Purkinje .
+Mais admettons que cette excitation mécanique manque et que nous soyons dans la nuit la plus obscure, il n'y en a pas moins encore de la lumière dans notre œil. C'est ce qu'on appelle sa lumière propre . « Le champ visuel de l'homme sain, dit Helmholtz [^p175-1], n'est jamais complètement débarrassé de ces apparitions qu'on a nommées le chaos lumineux, la poussière lumineuse du champ visuel obscur. » Ce phénomène fut d'abord étudié par Gæthe, J. Müller et Purkinje .
 
-Celui-ci raconte qu'après un effort corporel « il a vu ondoyer et flamboyer, dans le champ visuel obscur, une lumière[^p175-1]
+Celui-ci raconte qu'après un effort corporel « il a vu ondoyer et flamboyer, dans le champ visuel obscur, une lumière
 
 [p. 176] peu intense, comparable aux dernières lueurs d'un peu d'esprit-de-vin qui brûle . » Ce chaos lumineux est bien positivement indépendant de la lumière extérieure, puisqu'il se produit là où elle manque complètement , puisqu'il nous suit dans nos mouvements et ne répond à aucun objet externe . Enfin , l'obscurité la plus profonde elle-même est une sensation de lumière. « Le noir le plus obscur est non le manque absolu de sensation , mais la plus faible sensation lumineuse . L'obscur a des degrés d'obscurité ; dans le noir, il y a des différences
 
@@ -1872,11 +1872,11 @@ Cette excitation intérieure de l'œil, ayant sa cause permanente soit dans les 
 
 [p. 177] RECHERCHES PSYCHOPHYSIQUES d'intensités lumineuses très-grandes et que, par suite , le résultat final ne s'en ressent pas dans la recherche de notre unité ; nous ne pouvons pas non plus procéder ici comme dans les cas précédents : là, nous avions à déterminer l'excitation qui produit la plus petite sensation possible. Ici, la sensation un peu supérieure au minimum, mais acceptée comme telle , nous est donnée ; c'est l'excitation correspondante qui est inconnue . Il nous faut la mesurer.
 
-La méthode à suivre pour déterminer l'intensité lumineuse de l'œil obscur est celle que nous avons employée pour mesurer l'intensité d'une lumière extérieure quelconque . On se rappelle que le procédé consistait dans la projection de deux ombres, sur un tableau, à l'aide de deux lumières placées derrière une règle verticale. Dans le cas actuel, c'est notre œil lui-même qui est la source lumineuse dont nous voulons mesurer l'intensité. Dans l'expérience imaginée par Wolkmann et dont nous ne donnerons que le résumé ¹ , la lumière propre de l'œil est comparée à une lumière quelconque dont l'intensité nous est connue. Nous plaçons donc dans l'enfoncement d'un lieu obscur notre règle verticale, puis à quelque distance la lumière qui nous sert de mesure et la lumière qui doit être mesurée, c'est-à-dire notre œil . Nous considérons l'ombre projetée par la règle sur le tableau : en même temps, on éloigne de plus en plus la lumière. Par suite, l'ombre diminue de plus en plus et finalement atteint un point où elle cesse d'être visible. En ce point, la partie[^p177-1]
+La méthode à suivre pour déterminer l'intensité lumineuse de l'œil obscur est celle que nous avons employée pour mesurer l'intensité d'une lumière extérieure quelconque . On se rappelle que le procédé consistait dans la projection de deux ombres, sur un tableau, à l'aide de deux lumières placées derrière une règle verticale. Dans le cas actuel, c'est notre œil lui-même qui est la source lumineuse dont nous voulons mesurer l'intensité. Dans l'expérience imaginée par Wolkmann et dont nous ne donnerons que le résumé [^p177-1] , la lumière propre de l'œil est comparée à une lumière quelconque dont l'intensité nous est connue. Nous plaçons donc dans l'enfoncement d'un lieu obscur notre règle verticale, puis à quelque distance la lumière qui nous sert de mesure et la lumière qui doit être mesurée, c'est-à-dire notre œil . Nous considérons l'ombre projetée par la règle sur le tableau : en même temps, on éloigne de plus en plus la lumière. Par suite, l'ombre diminue de plus en plus et finalement atteint un point où elle cesse d'être visible. En ce point, la partie
 
-[p. 178] du tableau qui n'est éclairée que per la lumière propre de l'œil ne se distingue plus de l'autre partie, - de celle qui, outre la lumière de l'œil, reçoit la lumière extérieure . C'est donc là le point précis où la lumière extérieure est si faible qu'elle ne produit plus d'accroissement perceptible à la lumière de l'œil . Comme nous savons par les recherches antérieures que la constante proportionnelle est 1/100 pour la lumière , comme nous pouvons déterminer les distances, nous avons des données qui nous permettent de calculer cette lumière propre de l'œil ¹ . Volkmann se servait pour ses expériences d'un tableau de velours noir et d'une bougie ordinaire, et il constata que cette bougie à une distance de neuf pieds environ (huit pieds sept) produirait une lumière égale à celle de la lumière propre de l'œil . Reste à faire de la quantité de lumière ainsi déterminée une unité qu'on puisse employer dans la pratique. Pour cela, il faut comparer cette unité aux diverses autres intensités lumineuses employées comme excitants. Cette opération ne présente pas de difficulté, puisqu'on a réussi à ramener la lumière subjective de l'œil à une intensité lumineuse objective, et par conséquent mesurable.
+[p. 178] du tableau qui n'est éclairée que per la lumière propre de l'œil ne se distingue plus de l'autre partie, - de celle qui, outre la lumière de l'œil, reçoit la lumière extérieure . C'est donc là le point précis où la lumière extérieure est si faible qu'elle ne produit plus d'accroissement perceptible à la lumière de l'œil . Comme nous savons par les recherches antérieures que la constante proportionnelle est 1/100 pour la lumière , comme nous pouvons déterminer les distances, nous avons des données qui nous permettent de calculer cette lumière propre de l'œil [^p178-1] . Volkmann se servait pour ses expériences d'un tableau de velours noir et d'une bougie ordinaire, et il constata que cette bougie à une distance de neuf pieds environ (huit pieds sept) produirait une lumière égale à celle de la lumière propre de l'œil . Reste à faire de la quantité de lumière ainsi déterminée une unité qu'on puisse employer dans la pratique. Pour cela, il faut comparer cette unité aux diverses autres intensités lumineuses employées comme excitants. Cette opération ne présente pas de difficulté, puisqu'on a réussi à ramener la lumière subjective de l'œil à une intensité lumineuse objective, et par conséquent mesurable.
 
-Température . - Il se présente ici des difficultés d'une toute autre nature que pour la vision. Notre épiderme , on[^p178-1]
+Température . - Il se présente ici des difficultés d'une toute autre nature que pour la vision. Notre épiderme , on
 
 [p. 179] RECHERCHES PSYCHOPHYSIQUES n'en peut pas douter, n'éprouve pas constamment des sensations de chaleur. Il faut donc déterminer de combien cette température de la peau, où l'on ne sent ni chaud ni froid, doit être élevée ou abaissée pour produire le minimum perceptible de chaud ou de froid. Or, là se présentent deux difficultés qui, jusqu'ici, n'ont pas été vaincues complètement : 1º Les nerfs de notre peau, à cette température où il n'y a aucune sensation de chaleur, sont si sensibles que nous sentons toute élévation ou tout abaissement de température avant même que les instruments thermométriques aient pu les constater d'une manière exacte. 2º Cette température , qui est telle qu'il n'y a aucune sensation sentie et qui répond par conséquent à l'excitation zéro, n'est pas la même pour les différentes parties du corps et varie probablement pour la même partie. Cela se voit facilement si l'on met en contact mutuel diverses parties . On n'éprouvait d'abord aucune sensation de température ; puis, au contact, on sent qu'une partie est plus chaude et l'autre plus froide .
 
@@ -1969,7 +1969,7 @@ Ceci nous prépare à mieux comprendre la loi formulée par Fechner. Il a racont
 
 Pour être mieux compris, nous indiquerons d'abord d'une manière générale et sans détails mathématiques la marche suivie par Fechner.
 
-Nous avons deux séries en présence : celle des excitations, celle des sensations . Il s'agit de mesurer la seconde au moyen de la première. La valeur quantitative de l'excitation et de ses accroissements peut être déterminée. Qu'il s'agisse de poids, de lumière ou de son, nous pouvons, par des procédés expérimentaux plus ou moins compliqués, établir que l'excitation initiale a augmenté d'un tiers, d'un quart, du double, du triple, etc. Pour la sensation, il n'en est pas de même. La conscience est incapable de nous dire si la sensation initiale a augmenté d'un tiers, d'un quart, du double, du triple. On a donc recours à un procédé indirect, qui consiste à déterminer les plus petites différences perceptibles de sensation,[^p184-1]
+Nous avons deux séries en présence : celle des excitations, celle des sensations . Il s'agit de mesurer la seconde au moyen de la première. La valeur quantitative de l'excitation et de ses accroissements peut être déterminée. Qu'il s'agisse de poids, de lumière ou de son, nous pouvons, par des procédés expérimentaux plus ou moins compliqués, établir que l'excitation initiale a augmenté d'un tiers, d'un quart, du double, du triple, etc. Pour la sensation, il n'en est pas de même. La conscience est incapable de nous dire si la sensation initiale a augmenté d'un tiers, d'un quart, du double, du triple.[^p184-1] On a donc recours à un procédé indirect, qui consiste à déterminer les plus petites différences perceptibles de sensation,
 
 [p. 185] LA LOI PSYCHOPHYSIQUE puis à déterminer le rapport existant entre les différences d'excitation qui croissent progressivement et les différences de sensation qui croissent uniformément, et à exprimer ainsi la sensation en fonction de l'excitation .
 
@@ -2031,7 +2031,7 @@ D'après cette loi , l'emploi d'une table de logarithmes permettrait de savoir d
 
 LES CRITIQUES DE FECHNER
 
-Nous venons d'exposer à grands traits la loi psychophysique et les expériences sur lesquelles elle s'appuie. Autant que possible, nous avons suivi Fechner lui-même, n'em-[^p188-1]
+Nous venons d'exposer à grands traits la loi psychophysique et les expériences sur lesquelles elle s'appuie.[^p188-1] Autant que possible, nous avons suivi Fechner lui-même, n'em-
 
 [p. 189] pruntant ailleurs que quelques détails propres à éclaircir et à compléter sa pensée. Il nous reste maintenant à parler des critiques , dont nous avons semblé jusqu'ici ignorer l'existence . Pourtant ,
 
@@ -2051,11 +2051,11 @@ Bernstein ' , tout en admettant la loi de Fechner et sa forme logarithmique, lui
 
 Brentano , dans un passage de sa Psychologie aus empirischen Standpunkte, 1874 (p. 87 et suiv.), et dans une correspondance avec Fechner dont ce dernier nous a révélé l'existence
 
-, critiquant la loi psychophysique, soutient que les accroissements relatifs de la sensation doivent être égaux, quand les accroissements relatifs de l'excitation le sont aussi . Fechner a rapproché cette critique de celles que Plateau et Ueberhorst lui ont adressées .
+, critiquant la loi psychophysique, soutient que les accroissements relatifs de la sensation doivent être égaux, quand les accroissements relatifs de l'excitation le sont aussi . Fechner a rapproché cette critique de celles que Plateau et Ueberhorst lui ont adressées .[^p190-2][^p190-1]
 
 En 1876, Langer, dans son livre sur les Fondements de la
 
-こ[^p190-1][^p190-2]
+こ
 
 [p. 191] Psychophysique 1 , s'est attaché surtout au côté mathématique de la loi de Fechner et a proposé une autre formule pour exprimer le rapport entre la sensation et l'excitation .
 
@@ -2065,11 +2065,11 @@ C M. Hering , professeur à l'Université de Prague, que le
 
 ### chapitre précédent nous a déjà fait connaître, dans une
 
-série d'articles ou de mémoires publiés de 1872 à 1875 (Comptes rendus de l'Académie de Vienne²), a attaqué sur tous les points ou à peu près la psychophysique, niant ou contestant presque toutes les assertions de Fechner. Il rejette ses expériences ou n'admet leurs résultats qu'avec beaucoup de réserves ; il nie que la loi logarithmique soit une déduction légitime de la loi de Weber ; il ôte à cette loi toute généralité et soutient qu'elle ne se vérifie jusqu'à présent que pour la lumière et la tonalité, et encore en une certaine mesure . Aux objections physiques et mathématiques , il en ajoute d'autres qu'il qualifie de téléologiques
+série d'articles ou de mémoires publiés de 1872 à 1875 (Comptes rendus de l'Académie de Vienne[^p191-2]), a attaqué sur tous les points ou à peu près la psychophysique, niant ou contestant presque toutes les assertions de Fechner. Il rejette ses expériences ou n'admet leurs résultats qu'avec beaucoup de réserves ; il nie que la loi logarithmique soit une déduction légitime de la loi de Weber ; il ôte à cette loi toute généralité et soutient qu'elle ne se vérifie jusqu'à présent que pour la lumière et la tonalité, et encore en une certaine mesure . Aux objections physiques et mathématiques , il en ajoute d'autres qu'il qualifie de téléologiques
 
 : bref, c'est le plus rude assaut que la doctrine de Fechner ait eu à soutenir.
 
-La position de M. Delbœuf est plus complexe. Plutôt partisan qu'adversaire de la psychophysique, connu lui-même par des expériences et des travaux importants sur ce sujet,[^p191-1][^p191-2]
+La position de M. Delbœuf est plus complexe.[^p191-1] Plutôt partisan qu'adversaire de la psychophysique, connu lui-même par des expériences et des travaux importants sur ce sujet,
 
 [p. 192] il n'admet cependant pas les formules mathématiques de Fechner ; et, quant à l'ensemble de la doctrine, il en rejette une partie et il modifie ce qu'il ne rejette pas. A ses yeux, les Elemente der Psychophysik sont une œuvre digne d'admiration , mais qui, dans les temps à venir, vaudra plutôt par ce qu'elle aura suscité que par ce qu'elle contient de définitif. Il a exposé ses vues dans son Étude psychophysique ' , dans sa Théorie générale de la sensibilité et dans trois articles importants de la *Revue philosophique* , où il a défendu Fechner contre Hering et discuté le nouveau livre dans lequel Fechner a répondu à ses critiques .
 
@@ -2077,9 +2077,9 @@ On voit que, dans ce court espace de quinze ans, la psychophysique n'est pas res
 
 Fechner a cru pouvoir résumer toutes les objections qui lui ont été faites sous les cinq titres suivants
 
-1º Les lois et formules de la psychophysique ne s'accordent pas avec les faits : elles en sont déduites à tort ; les recherches expérimentales montrent des exceptions à ces lois plutôt qu'elles ne les confirment .
+1º Les lois et formules de la psychophysique ne s'accordent pas avec les faits : elles en sont déduites à tort ; les recherches expérimentales montrent des exceptions à ces lois plutôt qu'elles ne les confirment .[^p192-3][^p192-2][^p192-1]
 
-2' En admettant que ces lois et formules aient une valeur pour la psychophysique externe, elles ne peuvent être trans-[^p192-1][^p192-2][^p192-3]
+2' En admettant que ces lois et formules aient une valeur pour la psychophysique externe, elles ne peuvent être trans-
 
 [p. 193] portées à la psychophysique interne . En d'autres termes , ces lois n'ont qu'une valeur physiologique .
 
@@ -2095,9 +2095,9 @@ Nous insisterons surtout sur les objections qui ont rapport à la valeur des exp
 
 I. Hering , avons-nous dit, conteste presque toutes les expériences de Fechner. Pour les sensations de poids, il s'est livré avec deux élèves à des essais répétés pendant plusieurs mois . Il part de 250 grammes et par des additions successives arrive jusqu'à 2750 grammes . D'après la loi de Weber, le poids additionnel amenant la plus petite différence perceptible de sensation devrait être une fraction toujours constante du poids antérieur ; or l'expérience montre que cette fraction est de plus en plus petite , jusqu'à un moment où elle se met à croître . C'est ce que prouvent les chiffres suivants :
 
-1/21 , 1/38, 1/58, 1/67, 1/78, 1/88, 1/92, 1/100, 1/114, 1/98. A la vérité , Hering reconnaît que, si l'on fait entrer en compte le poids du bras, les chiffres précédents se modifient
+1/21 , 1/38, 1/58, 1/67, 1/78, 1/88, 1/92, 1/100, 1/114, 1/98.[^p193-1] A la vérité , Hering reconnaît que, si l'on fait entrer en compte le poids du bras, les chiffres précédents se modifient
 
-dans[^p193-1]
+dans
 
 [p. 194] un sens assez favorable à la loi psychophysique. Mais, en opérant sur des poids beaucoup plus petits (de 10 grammes à 500 grammes) et en modifiant l'expérience de façon qu'il n'y ait plus lieu de tenir compte du poids du bras, il trouve des
 
@@ -2109,17 +2109,17 @@ en désaccord avec la
 
 loi
 
-de Fechner¹ .
+de Fechner[^p194-1] .
 
 En ce qui concerne les sensations lumineuses, Hering paraît disposé à admettre la loi . M. Delbœuf fait de même ; mais il insiste sur les réserves d'Aubert et de Helmholtz , en s'appuyant sur des expériences qui lui sont propres . « Qu'on imagine , dit-il, trois anneaux concentriques contigus dont les teintes soient choisies de telle façon que, pour un éclairage donné , par exemple celui d'une bougie placée à 25 centimètres de distance, la teinte moyenne et intermédiaire paraisse pour l'éclat également éloignée de la plus claire et de la plus sombre . Si l'on éloigne la bougie, cette teinte cesse d'être intermédiaire entre les deux autres et se rapproche de la plus sombre ; si l'on a augmenté l'éclairage , cette teinte se rapprochera de la plus claire . La loi n'est donc pas applicable aux limites extrêmes . » Par contre, il demande à Hering comment son principe de la proportionnalité entre l'excitation et la sensation peut s'accorder avec ce fait
 
-: qu'un gris moyen , entre un blanc dont l'éclat égale 32 et un noir dont l'éclat égale 2, est d'un éclat égal, non pas à 17, mais à 8, nombre précisément réclamé par la loi de Fechner.[^p194-1]
+: qu'un gris moyen , entre un blanc dont l'éclat égale 32 et un noir dont l'éclat égale 2, est d'un éclat égal, non pas à 17, mais à 8, nombre précisément réclamé par la loi de Fechner.
 
 [p. 195] En ce qui concerne les sensations auditives, Hering distingue l'intensité et la tonalité, et il soutient que la loi psychophysique ne s'applique ni à l'une ni à l'autre . Si les intensités des sons perçues , dit-il , suivaient une loi logarithmique ; si , lorsqu'elles augmentent, les sensations correspondantes croissaient de moins en moins vite, le timbre d'un instrument varierait pour nous d'après l'éloignement ou le voisinage, dans les forte et les piano ; le timbre, en effet, comme l'a montré Helmholtz , est dû à la combinaison avec la note fondamentale de notes consonnantes, vibrant avec certaines intensités relatives . Pour la tonalité, Hering oppose une objection peu concluante . Il reconnaît, ce qui a été découvert de toute antiquité, que deux intervalles musicaux nous paraissent égaux quand les rapports des nombres de vibrations des deux sons constituants sont les mêmes pour ces deux intervalles ; mais, les sons n'étant pas perçus comme un nombre déterminé de vibrations, il importe peu, selon lui, que les rapports numériques des intervalles restent les mêmes .
 
-M. Delbœuf a répondu à ces critiques¹ , et a bien montré notamment pour la dernière que la sensation est un phénomène subjectif ayant sa nature propre , qui perçoit à sa manière ces rapports numériques, sans les percevoir comme nombres .
+M. Delbœuf a répondu à ces critiques[^p195-1] , et a bien montré notamment pour la dernière que la sensation est un phénomène subjectif ayant sa nature propre , qui perçoit à sa manière ces rapports numériques, sans les percevoir comme nombres .
 
-Outre l'odorat, qui n'a donné lieu à aucune expérience , et le goût , qui , nous l'avons vu, semble rebelle à la loi , reste la température . Or, Fechner, dans son plus récent ouvrage,[^p195-1]
+Outre l'odorat, qui n'a donné lieu à aucune expérience , et le goût , qui , nous l'avons vu, semble rebelle à la loi , reste la température . Or, Fechner, dans son plus récent ouvrage,
 
 [p. 196] reconnaît que, pour les sensations de cette sorte, la question n'est pas encore vidée 1.
 
@@ -2129,15 +2129,15 @@ II. La valeur mathématique de la loi a donné lieu à des difficultés d'un aut
 
 La plus grave est celle-ci : Peut-on admettre, comme le veut Fechner, que, lorsqu'une sensation s'accroît des plus petites différences perceptibles, ces différences ds, ds ' , ds " ... restent toujours égales ? C'est sur cette hypothèse, comme nous l'avons vu, que s'appuient toutes ses déductions mathématiques .
 
-Wundt, qui a défendu sur ce point la thèse de Fechner, soutient que « nous avons conscience , dans certains cas déterminés, qu'une sensation a diminué ou augmenté autant qu'une autre , notamment dans le cas où l'augmentation (ou la diminution) atteint un minimum appréciable de grandeur. Ces changements d'un minimum appréciable dans[^p196-1]
+Wundt, qui a défendu sur ce point la thèse de Fechner, soutient que « nous avons conscience , dans certains cas déterminés, qu'une sensation a diminué ou augmenté autant qu'une autre , notamment dans le cas où l'augmentation (ou la diminution) atteint un minimum appréciable de grandeur.[^p196-1] Ces changements d'un minimum appréciable dans
 
 [p. 197] les sensations sont nécessairement égaux les uns aux autres en grandeur. Si le changement de l'une ou de l'autre des deux sensations comparées était plus grand ou plus petit que celui de l'autre, il serait par là plus grand ou plus petit que le minimum appréciable , ce qui est contraire à l'hypothèse . La sensation a donc complètement le caractère d'une grandeur mesurable,
 
 mesurable toutefois dans des conditions déterminées, à savoir dans de très-petits changements de valeur. »
 
-M. Delbœuf, qui à plusieurs reprises a déclaré la loi insoutenable au point de vue mathématique, n'accepte ni l'hypothèse de Fechner ni la justification de Wundt et il souscrit à la critique du mathématicien anonyme, dont il a été question plus haut. Celui-ci faisait remarquer que, pour que la loi psychophysique eût un sens, il faudrait que les sensations y fussent représentées par des nombres ; qu'il serait bon de dire de quelle mesure ils sont l'expression, au moyen de quelle unité on les obtient ; que c'est ainsi que l'on procède en physique, où l'on définit les unités avec un soin minutieux et où l'on décrit les procédés de mesure, tandis qu'ici rien de pareil n'a lieu . En effet, Fechner mesure la sensation par l'excitation. Tout ce qui précède nous a montré surabondamment que son procédé de mesure repose sur le rapport de dépendance qui existe entre l'intensité de l'excitation et celle de la sensation qui en résulte, et qu'ainsi, selon son expression, « la sensation intérieure est mesurée par un mètre extérieur. » Or c'est là , dit M. Delbœuf, une pure illusion. La sensation doit être mesurée par son unité natu [p. 198] relle , qui ne peut être qu'une sensation. L'excitation à son tour doit l'être par une unité d'excitation. De cette manière, la sensation et l'excitation sont réduites en nombres qu'on peut comparer, pour voir s'ils sont soumis à une loi. C'est seulement quand la loi est découverte qu'on peut se contenter de prendre la mesure de la sensation et de déduire par le calcul celle de l'excitation ¹ .
+M. Delbœuf, qui à plusieurs reprises a déclaré la loi insoutenable au point de vue mathématique, n'accepte ni l'hypothèse de Fechner ni la justification de Wundt et il souscrit à la critique du mathématicien anonyme, dont il a été question plus haut. Celui-ci faisait remarquer que, pour que la loi psychophysique eût un sens, il faudrait que les sensations y fussent représentées par des nombres ; qu'il serait bon de dire de quelle mesure ils sont l'expression, au moyen de quelle unité on les obtient ; que c'est ainsi que l'on procède en physique, où l'on définit les unités avec un soin minutieux et où l'on décrit les procédés de mesure, tandis qu'ici rien de pareil n'a lieu . En effet, Fechner mesure la sensation par l'excitation. Tout ce qui précède nous a montré surabondamment que son procédé de mesure repose sur le rapport de dépendance qui existe entre l'intensité de l'excitation et celle de la sensation qui en résulte, et qu'ainsi, selon son expression, « la sensation intérieure est mesurée par un mètre extérieur. » Or c'est là , dit M. Delbœuf, une pure illusion. La sensation doit être mesurée par son unité natu [p. 198] relle , qui ne peut être qu'une sensation. L'excitation à son tour doit l'être par une unité d'excitation. De cette manière, la sensation et l'excitation sont réduites en nombres qu'on peut comparer, pour voir s'ils sont soumis à une loi. C'est seulement quand la loi est découverte qu'on peut se contenter de prendre la mesure de la sensation et de déduire par le calcul celle de l'excitation [^p198-1] .
 
-A cette critique générale s'en ajoute une autre sur la méthode suivie par Fechner pour établir son échelle comparative entre la sensation et l'excitation . Dans la construction de toute échelle de mesure, il importe de fixer la position du zéro, du point d'où part la graduation . Pour la sensation, il semble naturel de placer ce zéro au moment où la sensation est nulle : c'est ainsi que procède Fechner. Mais, objecte M. Delbœuf, il résulte de là une grave difficulté . L'excitation extérieure, pour être sentie, pour devenir un état de conscience , doit avoir acquis une certaine intensité , avoir dépassé son point nul , son zéro. Au moment précis où l'excitation atteint son « seuil », c'est-à-dire un degré d'intensité juste suffisant pour être senti, Fechner prend ce « seuil » pour unité d'excitation. En face du seuil, il place le zéro de sensation . Aux excitations qui sont en dessous du seuil, qui par conséquent ne sont pas senties, correspondent les sensations négatives 2. Il en résulte donc qu'en face de l'excita-[^p198-1][^p198-2]
+A cette critique générale s'en ajoute une autre sur la méthode suivie par Fechner pour établir son échelle comparative entre la sensation et l'excitation . Dans la construction de toute échelle de mesure, il importe de fixer la position du zéro, du point d'où part la graduation . Pour la sensation, il semble naturel de placer ce zéro au moment où la sensation est nulle : c'est ainsi que procède Fechner. Mais, objecte M. Delbœuf, il résulte de là une grave difficulté . L'excitation extérieure, pour être sentie, pour devenir un état de conscience , doit avoir acquis une certaine intensité , avoir dépassé son point nul , son zéro. Au moment précis où l'excitation atteint son « seuil », c'est-à-dire un degré d'intensité juste suffisant pour être senti, Fechner prend ce « seuil » pour unité d'excitation. En face du seuil, il place le zéro de sensation . Aux excitations qui sont en dessous du seuil, qui par conséquent ne sont pas senties, correspondent les sensations négatives 2.[^p198-2] Il en résulte donc qu'en face de l'excita-
 
 [p. 199] tion 0 est inscrite la sensation = l'infini négatif ; en face de la sensation 0 est inscrite l'excitation = 1. Ce n'est pas ainsi que l'on procède dans les expériences à mesure exacte. Si , par exemple, dit M. Delbœuf, nous voulons mesurer l'espace parcouru par un corps qui tombe, au moyen du temps écoulé depuis le commencement de la chute, et comparer par conséquent des fractions d'espace à des fractions de temps, nous ferons en sorte qu'il y ait une concordance parfaite entre le commencement des deux séries , qu'en face de l'espace 0 se trouve le temps 01.
 
@@ -2157,7 +2157,7 @@ Il y a, dans Fechner, une tendance bien marquée à tenir
 
 [p. 201] LES CRITIQUES DE FECHNER peu de compte des conditions biologiques de l'excitation et de la sensation. Il raisonne surtout en physicien. L'organe sensoriel en activité est pourtant très-différent d'un instrument qui fonctionne. Lorsqu'il reçoit une série d'excitations toujours croissantes, il n'est rigoureusement pas le même à la seconde qu'à la première , à la troisième qu'à la seconde . Parmi les critiques de Fechner , nul n'a mieux mis ce fait en lumière que Delbœuf. L'intensité de la sensation, dit-il, ne dépend pas uniquement de l'intensité de la cause excitante, mais encore de la masse de sensibilité ou de force que les organes excités possèdent à ce moment. Cette masse est continuellement entamée par l'excitation qui épuise cette provision de sensibilité . Par suite , lors d'une excitation subséquente, égale ou inégale, l'être sensible est dans des conditions nouvelles . L'excitation frappe pour ainsi dire un autre individu . La formule de Fechner fait croître la sensation indéfiniment, pendant que l'excitation croît aussi de son côté indéfiniment ; elle ne tient nul compte de l'altération que l'organe subit par suite de l'excitation même 1 .
 
-« En résumé, toute excitation produit un double effet : elle est cause de sensation et cause d'épuisement, et l'épuisement diminue la sensation . La sensation est à son maximum de pureté, quand elle l'emporte le plus sur la fatigue (l'au-[^p201-1]
+« En résumé, toute excitation produit un double effet : elle est cause de sensation et cause d'épuisement, et l'épuisement diminue la sensation .[^p201-1] La sensation est à son maximum de pureté, quand elle l'emporte le plus sur la fatigue (l'au-
 
 [p. 202] teur a déterminé la valeur de à qui donne ce maximum). En deçà ou au delà de cette valeur, le jugement commence à s'altérer . »
 
@@ -2231,15 +2231,15 @@ Les considérations précédentes répondent à cette question
 
 Nous n'avons donné qu'un aperçu très-sommaire des critiques adressées à Fechner, négligeant les objections de détail et ne donnant des autres que l'essentiel . Une exposition complète demanderait un gros volume 2. Dans sa réponse, le fondateur de la psychophysique ne cède que sur des points de détail , et, plein de confiance dans la durée de son œuvre, il termine par ce Nachwort qui ne manque pas de grandeur :
 
-« La tour de Babel ne s'acheva pas, parce que les ouvriers ne purent s'entendre sur la manière de la bâtir ; mon monument psychophysique restera, parce que les ouvriers ne peuvent s'entendre sur la manière de le démolir ³ . »
+« La tour de Babel ne s'acheva pas, parce que les ouvriers ne purent s'entendre sur la manière de la bâtir ; mon monument psychophysique restera, parce que les ouvriers ne peuvent s'entendre sur la manière de le démolir [^p207-3] . »
 
 Cependant cette confiance, Fechner ne peut la trouver qu'en lui-même, car, suivant la remarque de M. Delbœuf, <<< s'il a beaucoup d'admirateurs, il n'a pas d'adeptes... et il a contre lui à la fois des adversaires déclarés et des disciples plus ou moins fidèles . >>>
 
-Si de toutes ces critiques générales ou partielles , on essaye de dégager quelques conclusions, la première qui se présente, c'est que la loi de Fechner paraît plutôt une loi physique . D'après une hypothèse dont nous n'avons rien dit jusqu'ici , mais à laquelle notre auteur attache la plus haute importance, entre l'excitation, fait tout extérieur, et la sen[^p207-1][^p207-2][^p207-3]
+Si de toutes ces critiques générales ou partielles , on essaye de dégager quelques conclusions, la première qui se présente, c'est que la loi de Fechner paraît plutôt une loi physique .[^p207-2][^p207-1] D'après une hypothèse dont nous n'avons rien dit jusqu'ici , mais à laquelle notre auteur attache la plus haute importance, entre l'excitation, fait tout extérieur, et la sen
 
 [p. 208] sation, fait tout intérieur , il faut intercaler « une activité physique interne » , à laquelle il donne le nom de mouvement psychophysique . Fechner avoue très-nettement (Elemente der Psychophysik, tome II, p. 377 et suiv.) qu'on ne peut rien savoir de la nature de ce mouvement psychophysique . Mais cela importe peu ; en physique, on ne connaît pas davantage la nature de l'électricité, ce qui n'empêche pas la science des phénomènes électriques d'avancer. - En réalité, cette hypothèse de Fechner n'a qu'un but : expliquer pourquoi la sensation n'est pas proportionnelle à l'excitation . Dans ses rapports avec l'extérieur, la force psychophysique se conformerait au principe universel de la proportionnalité des effets aux causes . Dans ses rapports avec l'intérieur, elle serait subordonnée à une certaine loi de progression. Comme toutes les solutions métaphysiques de nature mixte , celle-ci ne supprime aucune difficulté ; aussi a-t-elle été universellement condamnée .
 
-Cet intermédiaire psychophysique retranché , l'effet se retrouve en face de sa cause, la sensation en face de l'excitation, et comme, dans la plupart des cas, il y a une disproportion manifeste entre l'intensité croissante de l'une et celle de l'autre, il faut bien l'attribuer à ces déperditions de cause physique dont nous avons parlé plus haut. La loi prend ainsi un caractère physique. Les expériences de Dewar et de Mackendrick, publiées dans les Transactions of the Royal Socicty of Edinburgh (1873) ¹ , relatives à l'action physiologi-[^p208-1]
+Cet intermédiaire psychophysique retranché , l'effet se retrouve en face de sa cause, la sensation en face de l'excitation, et comme, dans la plupart des cas, il y a une disproportion manifeste entre l'intensité croissante de l'une et celle de l'autre, il faut bien l'attribuer à ces déperditions de cause physique dont nous avons parlé plus haut. La loi prend ainsi un caractère physique. Les expériences de Dewar et de Mackendrick, publiées dans les Transactions of the Royal Socicty of Edinburgh (1873) [^p208-1] , relatives à l'action physiologi-
 
 [p. 209] que de la lumière, fournissent d'ailleurs des présomptions considérables
 
@@ -2337,15 +2337,15 @@ L'unité de son œuvre est dans sa méthode . Elle consiste à s'appuyer sur les
 
 : directement, s'il s'agit des sensations qui sont, en définitive, la base de toute psychologie et l'aliment de toute vie mentale, s'il s'agit encore des mouvements involontaires, du langage, des formes inférieures du sentiment et de leur expression naturelle ; indirectement, s'il s'agit de la volonté, de l'attention, des notions complexes d'espace et de temps, des sentiments esthétiques . Là où la physiologie est insuffisante, l'anthropologie, l'ethnographie, l'histoire, la statistique lui servent d'appui. En somme, rien ici ne ressemble à la méthode spéculative ou à cette méthode de pure observation intérieure, qui n'en diffère pas beaucoup .
 
-La psychologie doit donc être traitée comme une science naturelle ; mais ceci même demande à être précisé. « Plus d'une fois, dans ces derniers temps, dit M. Wundt, on a traité la psychologie au point de vue propre des sciences naturelles , sans qu'on puisse en conclure que ces essais[^p218-1][^p218-2]
+La psychologie doit donc être traitée comme une science naturelle ; mais ceci même demande à être précisé. « Plus d'une fois, dans ces derniers temps, dit M.[^p218-2][^p218-1] Wundt, on a traité la psychologie au point de vue propre des sciences naturelles , sans qu'on puisse en conclure que ces essais
 
-[p. 219] LA PSYCHOLOGIE PHYSIOLOGIQUE constituent un progrès fondamental sur les systèmes spéculatifs antérieurs . Car la psychologie, tout en visant à devenir une science naturelle, reconnaissait comme sa source unique l'observation intérieure. Or, aux faits de conscience que chacun peut trouver en soi-même par l'observation, rien n'a été ajouté depuis que l'homme pense et réfléchit ; à peine la science peut-elle ajouter quelque chose qui ne soit pas familier à l'expérience de tout le monde. La psychologie a donc dû, grâce à cette méthode, rester la même au fond pendant des siècles ; ce qui est scientifique étant, en elle, à peine séparé de ce qui est d'expérience vulgaire ¹ . »
+[p. 219] LA PSYCHOLOGIE PHYSIOLOGIQUE constituent un progrès fondamental sur les systèmes spéculatifs antérieurs . Car la psychologie, tout en visant à devenir une science naturelle, reconnaissait comme sa source unique l'observation intérieure. Or, aux faits de conscience que chacun peut trouver en soi-même par l'observation, rien n'a été ajouté depuis que l'homme pense et réfléchit ; à peine la science peut-elle ajouter quelque chose qui ne soit pas familier à l'expérience de tout le monde. La psychologie a donc dû, grâce à cette méthode, rester la même au fond pendant des siècles ; ce qui est scientifique étant, en elle, à peine séparé de ce qui est d'expérience vulgaire [^p219-1] . »
 
 Le but à atteindre, c'est de transformer la psychologie en une science explicative. Si l'on examine l'état antérieur ou même actuel des sciences qui ont pour objet l'étude des phénomènes naturels, on verra que les unes se bornent à décrire, que d'autres visent à expliquer . Moins une science est avancée, plus elle décrit : tout au moins elle mêle constamment les descriptions et les explications.
 
 « C'est ainsi que la plupart des travaux de psychologie empirique appartiennent à l'histoire naturelle de l'âme . Les études approfondies faites dans ces derniers temps pour l'interprétation psychologique de l'histoire et de l'ethnographie appartiennent au même domaine, quoique dans un sens plus large .
 
-Car la psychologie des peuples s'occupe de phénomènes si complexes , qu'ils ne peuvent être éclairés que par les faits et les lois de la conscience individuelle : or c'est là, avant[^p219-1]
+Car la psychologie des peuples s'occupe de phénomènes si complexes , qu'ils ne peuvent être éclairés que par les faits et les lois de la conscience individuelle : or c'est là, avant
 
 [p. 220] tout, un travail de classification appartenant au genre des cript f 1. >>
 
@@ -2393,7 +2393,7 @@ suivant lesquelles les forces agissent. De même, nous mesurons les fonctions ps
 
 L'auteur a longuement exposé l'anatomie et la physiologie du système nerveux et rassemblé en quelques chapitres 2 les opinions les plus récentes sur ce point. S'appuyant surtout sur les travaux de Meynert, il a montré comment l'anatomie de la moelle épinière, du, bulbe, de la protubérance, des pédoncules, du cervelet et du cerveau, permet de concevoir le fonctionnement de ces divers organes et combien d'obscurités se rencontrent à chaque instant dans ce domaine.
 
-Avec l'étude des sensations, il entre dans son sujet proprement dit : « Quand on commence par les plus simples, l'étude des phénomènes psychologiques, on est forcé d'avouer que ces éléments simples se dérobent toujours à notre observation ou ne se présentent qu'intimement liés à d'autres phénomènes. Cependant, ceux qui offrent le caractère de la plus grande simplicité sont sans contredit les pures sensations . Nous entendons par là ces états primitifs que l'homme trouve en lui-même, isolés de tous les rapports et connexions que la conscience adulte y ajoute. » La sensation se trouve ainsi distinguée de la perception , phénomène beaucoup plus complexe qui doit être étudié à part .[^p225-1][^p225-2]
+Avec l'étude des sensations, il entre dans son sujet proprement dit : « Quand on commence par les plus simples, l'étude des phénomènes psychologiques, on est forcé d'avouer que ces éléments simples se dérobent toujours à notre observation ou ne se présentent qu'intimement liés à d'autres phénomènes. Cependant, ceux qui offrent le caractère de la plus grande simplicité sont sans contredit les pures sensations . Nous entendons par là ces états primitifs que l'homme trouve en lui-même, isolés de tous les rapports et connexions que la conscience adulte y ajoute. » La sensation se trouve ainsi distinguée de la perception , phénomène beaucoup plus complexe qui doit être étudié à part .[^p225-2][^p225-1]
 
 [p. 226] Prise à ce degré d'abstraction, la sensation ne présente que deux déterminations immédiates :
 
@@ -2471,7 +2471,7 @@ Les sensations sont la matière des représentations . Comparée à la sensation
 
 Il nous serait impossible de suivre M. Wundt dans sa longue étude des perceptions tactiles , auditives et visuelles 2, étude toute pénétrée de la méthode et des résultats de la physiologie . Nous ne nous attacherons à mettre en lumière qu'un seul point, qu'il a traité avec beaucoup d'originalité ; c'est la réponse à cette question
 
-: Comment nos perceptions tactiles et visuelles sont-elles localisées dans l'espace ? [^p233-1][^p233-2]
+: Comment nos perceptions tactiles et visuelles sont-elles localisées dans l'espace ?[^p233-2][^p233-1]
 
 [p. 234] Nous avons vu qu'il y a sur ce point, en Allemagne, deux théories
 
@@ -2509,7 +2509,7 @@ Reste à examiner le deuxième élément de la perception, c'est-à-dire les mou
 
 principe suivant, auquel il donne le nom de loi : Pour toute région du corps se mouvant en totalité, la finesse du sens du lieu est toujours proportionnelle à la distance entre une région de la peau et l'axe du mouvement 1 .
 
-Enfin , l'habitude a encore une influence sur l'exactitude des localisations, comme cela se voit chez les aveugles-nės . La fatigue, les abaissements de température diminuent sa finesse (Goltz) . Les maladies du cerveau et de la moelle la[^p237-1]
+Enfin , l'habitude a encore une influence sur l'exactitude des localisations, comme cela se voit chez les aveugles-nės . La fatigue, les abaissements de température diminuent sa finesse (Goltz) .[^p237-1] Les maladies du cerveau et de la moelle la
 
 [p. 238] modifient ou l'abolissent . Un malade souffrant d'une anesthésie des extrémités inférieures transportait à la partie supérieure de la cuisse des impressions faites à la partie inférieure ou au pied.
 
@@ -2527,7 +2527,7 @@ Ici, en effet, les sensations tactiles et les sentiments d'innervation se fonden
 
 Ce qui se passe dans ce cas , c'est donc une synthèse psychique. « On peut désigner par ce nom la combinaison particulière des sensations périphériques avec les sentiments d'innervation centrale, d'où résulte un certain ordre des premières dans l'espace. L'idée ordinaire d'une synthèse , en effet, implique un produit nouveau qui n'existait pas encore dans les éléments constitutifs . De même que dans le jugement synthétique un nouveau prédicat est attribué au sujet, de même que dans la synthèse chimique il se produit une combinaison qui a des propriétés nouvelles, de même la synthèse psychique nous donne, comme nouveau produit, un ordre des sensations dans l'espace . » Mais l'analyse psychologique ne peut nous faire connaître que les éléments de [p. 240] cette combinaison : l'ordre dans l'espace étant une synthèse ne peut être donné par l'analyse, pas plus que les propriétés de l'eau ne peuvent être données par l'analyse de l'oxygène et de l'hydrogène .
 
-« Les caractéristiques locales du tact forment un continu à deux dimensions d'où peut naître la notion d'un plan . Mais ce continu er. lui-même ne contient pas la notion d'espace. Nous admettons que celle-ci ne se produit que par un rapport rétrospectif au continu simple que forment les sentiments d'innervation. Ceux-ci, grâce à leurs variations purement intensives, constituent une mesure uniforme pour les deux dimensions des caractéristiques locales . La forme du plan dans lequel ces caractéristiques sont rangées est d'abord complètement indéterminée : elle varie avec la forme des superficies touchées. Mais les lois du mouvement des membres sont telles que, dans la plupart des changements de position , l'organe tactile se meut en ligne droite vers les objets (ou s'en éloigne) . La ligne droite devenant ainsi un élément déterminant de l'espace tactile, celui-ci reçoit la forme d'un espace plan , dans lequel les surfaces par nous perçues et qui changent, quant à leur courbure, doivent être rapportées à trois dimensions 1. >>>[^p240-1]
+« Les caractéristiques locales du tact forment un continu à deux dimensions d'où peut naître la notion d'un plan . Mais ce continu er. lui-même ne contient pas la notion d'espace. Nous admettons que celle-ci ne se produit que par un rapport rétrospectif au continu simple que forment les sentiments d'innervation. Ceux-ci, grâce à leurs variations purement intensives, constituent une mesure uniforme pour les deux dimensions des caractéristiques locales . La forme du plan dans lequel ces caractéristiques sont rangées est d'abord complètement indéterminée : elle varie avec la forme des superficies touchées. Mais les lois du mouvement des membres sont telles que, dans la plupart des changements de position , l'organe tactile se meut en ligne droite vers les objets (ou s'en éloigne) . La ligne droite devenant ainsi un élément déterminant de l'espace tactile, celui-ci reçoit la forme d'un espace plan , dans lequel les surfaces par nous perçues et qui changent, quant à leur courbure, doivent être rapportées à trois dimensions 1.[^p240-1] >>>
 
 [p. 241] LES PERCEPTIONS
 
@@ -2547,7 +2547,7 @@ TH. RIBOT .
 
 En ce qui concerne les mouvements et leur rôle, M. Wundt le premier a cherché à expliquer la formation du champ optique en se fondant sur les deux éléments dont il a été si souvent question .
 
-Voici les preuves qu'il a données¹ à ce sujet :
+Voici les preuves qu'il a données[^p242-1] à ce sujet :
 
 1º Les distances verticales nous paraissent plus grandes que les mêmes distances horizontales ; leur rapport est d'environ 4,8 à 4. Ces chiffres correspondent au rapport entre les
 
@@ -2563,7 +2563,7 @@ et verticalement ; rapport déterminé par la disposition des muscles .
 
 2º Nous pouvons encore différencier à l'œil les longueurs des deux lignes horizontales, quand elles varient entre elles de 1/50. La différence entre les quantités de mouvement que l'œil doit exécuter en ce cas est aussi 1/50 du mouvement total .
 
-3º La plus petite distance absolue et le plus faible mouvement de l'œil, pour nous appréciables, concordent entièrement ; ils répondent à un angle d'une minute.[^p242-1]
+3º La plus petite distance absolue et le plus faible mouvement de l'œil, pour nous appréciables, concordent entièrement ; ils répondent à un angle d'une minute.
 
 [p. 243] LES PERCEPTIONS
 
@@ -2571,7 +2571,7 @@ et verticalement ; rapport déterminé par la disposition des muscles .
 
 Pour conclure, nous avons bien réellement, dans la sensation qui accompagne le mouvement, une mesure de l'intensité et de l'étendue de ce mouvement .
 
-Au fond, le processus est ici le même que celui qui produit l'ordre dans l'espace des sensations tactiles. Les signes locaux des sensations rétiniennes forment une combinaison inséparable avec les sentiments d'innervation, dont l'intensité a des degrés variables. Ce qui distingue les perceptions visuelles , c'est que cette combinaison se rapporte à un point unique, le centre de la rétine (la tache jaune) . Ce rapport, qui facilite la mesure exacte du champ visuel et rend possible l'union fonctionnelle des deux yeux, pour la vision binoculaire, a sa racine dans les lois du mouvement. En tant que ceux-ci ont pour base un mécanisme central inné, on peut dire que l'individu naît avec une disposition complètement développée à donner immédiatement à ses sensations visuelles un ordre dans l'espace. Quelque petit que soit le[^p243-1]
+Au fond, le processus est ici le même que celui qui produit l'ordre dans l'espace des sensations tactiles. Les signes locaux des sensations rétiniennes forment une combinaison inséparable avec les sentiments d'innervation, dont l'intensité a des degrés variables. Ce qui distingue les perceptions visuelles , c'est que cette combinaison se rapporte à un point unique, le centre de la rétine (la tache jaune) . Ce rapport, qui facilite la mesure exacte du champ visuel et rend possible l'union fonctionnelle des deux yeux, pour la vision binoculaire, a sa racine dans les lois du mouvement. En tant que ceux-ci ont pour base un mécanisme central inné, on peut dire que l'individu naît avec une disposition complètement développée à donner immédiatement à ses sensations visuelles un ordre dans l'espace.[^p243-1] Quelque petit que soit le
 
 [p. 244] temps écoulé entre la première action des
 
@@ -2609,7 +2609,7 @@ Les notions générales sont formées d'un certain nombre de perceptions simples
 
 L'auteur distingue la notion générale, du concept
 
-(Begriff) 1. Le concept n'existe pas, comme la sensation ou la perception, à titre de forme psychologique déterminée. Il n'a dans notre conscience qu'un seul substitut : le mot, parlé ou écrit. C'est ce qui explique pourquoi le concept abstrait ne peut exister chez l'animal ni chez l'homme pendant la première enfance, tandis que l'existence des notions générales est possible. La notion générale n'est , à proprement parler, qu'un schéma des notions particulières qu'elle résume. Le concept est quelque chose de plus : il constitue une connaissance scientifique ; il nous donne la loi des phénomènes. Il est, dit M. Wundt, un postulat. « Lorsqu'on résout complètement une notion générale en ses éléments particuliers , on voit que plus cette notion est étendue,[^p247-1]
+(Begriff) 1. Le concept n'existe pas, comme la sensation ou la perception, à titre de forme psychologique déterminée. Il n'a dans notre conscience qu'un seul substitut : le mot, parlé ou écrit. C'est ce qui explique pourquoi le concept abstrait ne peut exister chez l'animal ni chez l'homme pendant la première enfance, tandis que l'existence des notions générales est possible. La notion générale n'est , à proprement parler, qu'un schéma des notions particulières qu'elle résume. Le concept est quelque chose de plus : il constitue une connaissance scientifique ; il nous donne la loi des phénomènes. Il est, dit M. Wundt, un postulat.[^p247-1] « Lorsqu'on résout complètement une notion générale en ses éléments particuliers , on voit que plus cette notion est étendue,
 
 [p. 248] plus sa compréhension de tous les objets rentrant dans le schéma est insuffisante . On remarque en même temps que, si indéterminée que soit, dans ses contours, la notion générale avant qu'on la résolve en faits particuliers, cependant chacun des éléments qu'elle contient peut changer, sans que la notion générale cesse d'exister. Ainsi se produit le postulat d'une notion générale qui
 
@@ -2701,7 +2701,7 @@ Ces jugements d'expérience, - qui sont en même temps des jugements particulier
 
 En fait, il n'y a pas de jugement, si simple qu'il soit, qui ne suppose avant lui quelque acte de pensée . Si je résous un jugement en jugements plus simples, ceux-ci en d'autres plus simples, et ainsi de suite, à quoi dois-je finalement arriver ? Aux sensations primitives . Tout objet m'est donné comme ayant telle couleur, telle forme, subissant tels changements, etc., etc. Bref, les marques dernières, celles auxquelles nous devons nous arrêter, sont partout et toujours des perceptions de nos sens .
 
-<<< Mais toute perception sensorielle est elle-même un jugement d'expérience, le plus simple de tous les jugements d'expérience . Ce que je vois est blanc, rouge, brillant, corporel ; ce sont là des jugements d'expérience, à nous donnés dans l'intuition sensible . Ces jugements sont-ils les actes de pensée primitifs ou en supposent-ils d'autres ? [^p258-1]
+<<< Mais toute perception sensorielle est elle-même un jugement d'expérience, le plus simple de tous les jugements d'expérience . Ce que je vois est blanc, rouge, brillant, corporel ; ce sont là des jugements d'expérience, à nous donnés dans l'intuition sensible . Ces jugements sont-ils les actes de pensée primitifs ou en supposent-ils d'autres ?[^p258-1]
 
 [p. 259] L'UNITÉ DE COMPOSITION
 
@@ -2763,11 +2763,11 @@ l'exécution des mouvements volontaires . Très souvent, ces deux actes ont lieu
 
 sensorielle centrifuge et motrice centrifuge liées aussi bien directement avec les centres sensoriels et les centres moteurs, qu'unies indirectement par des centres intermédiaires, qui représentent 1, pour certaines fonctions complexes, des points nodaux de transmission (articulation du langage, écriture, etc) .
 
-Il nous resterait à parler du rôle de l'aperception dans l'association des états de conscience, simples ou composés . Ce point sera traité dans le chapitre suivant, à propos de la durée des actes psychiques .
+Il nous resterait à parler du rôle de l'aperception dans l'association des états de conscience, simples ou composés . Ce point sera traité dans le chapitre suivant, à propos de la durée des actes psychiques .[^p264-1]
 
 #### VI
 
-En abordant les sentiments, il nous faut revenir pour un moment aux sensations et examiner ce troisième caractère[^p264-1]
+En abordant les sentiments, il nous faut revenir pour un moment aux sensations et examiner ce troisième caractère
 
 [p. 265] LES
 
@@ -2775,7 +2775,7 @@ SENTIMENTS dont nous avons parlé plus haut et que nous avons négligé jusqu'ic
 
 Ce sentiment ou ton de la sensation est agréable ou désagréable, est un plaisir ou une douleur. Le plaisir et la douleur sont des états contraires dont l'un peut se transformer dans l'autre , en traversant un point d'indifférence : ce qui équivaut à dire qu'il y a des sensations qui n'ont pas de ton, qui ne sont accompagnées d'aucun sentiment. Le rapport des sensations à la conscience étant soumis à des oscillations continuelles, ce point d'indifférence doit répondre en général à un état passager qui se transforme facilement en plaisir ou en douleur . Il y a cependant beaucoup de sensations dont le sentiment concomitant est si faible, qu'elles se meuvent toujours autour de leur point d'indifférence . Chez d'autres, le sentiment est si fort qu'il recouvre la sensation. Les premières sont les sensations proprement dites .
 
-Le sentiment consistant en un rapport à la conscience, c'est-à-dire en un changement d'état continuel, permet, beaucoup moins que les deux autres éléments de la sensation, une analyse exacte . Dans un bon exposé historique des hypothèses faites sur la nature du sentiment, M. Wundt les réduit à trois : [^p265-1]
+Le sentiment consistant en un rapport à la conscience, c'est-à-dire en un changement d'état continuel, permet, beaucoup moins que les deux autres éléments de la sensation, une analyse exacte . Dans un bon exposé historique des hypothèses faites sur la nature du sentiment, M.[^p265-1] Wundt les réduit à trois :
 
 [p. 266] La première, qui d'Aristote à Kant compte les observateurs les plus remarquables, considère le sentiment comme une affection immédiate de « l'âme » causée par la sensation . Toutes les opinions de ce groupe voient plus ou moins dans le sentiment un fait de connaissance . - Mais notre expérience ne nous dit rien du plaisir et de la douleur de « l'âme » ; elle ne nous fait connaître que des états de notre conscience ; c'est comme une affection immédiate de notre conscience que nous percevons nos sentiments, et il n'y a aucune raison de substituer le concept métaphysique d'âme au concept empirique de conscience.
 
@@ -2825,9 +2825,9 @@ Après avoir parlé des sentiments dont la base est purement physique, - ceux qu
 
 (sinnlicher Gefühl)
 
-l'auteur étudie trois groupes importants, les sentiments esthétiques, moraux, religieux.
+l'auteur étudie trois groupes importants, les sentiments esthétiques, moraux, religieux.[^p270-2][^p270-1]
 
-Nous avons vu que, dans l'ordre intellectuel, tout le travail de l'esprit consiste à passer des perceptions aux idées[^p270-1][^p270-2]
+Nous avons vu que, dans l'ordre intellectuel, tout le travail de l'esprit consiste à passer des perceptions aux idées
 
 [p. 271] LES SENTIMENTS ou notions abstraites, qui sont le terme de la connaissance.
 
@@ -2839,7 +2839,7 @@ fondée sur les sciences positives ; la possibilité [p. 272] d'une esthétique 
 
 On a suivi généralement en esthétique deux méthodes : l'une , spéculative, qui, partant de l'idée du beau, en déduit des lois ; l'autre, empirique, qui, partant de l'analyse des objets beaux et des œuvres d'art, en induit les lois esthétiques . Hegel représente la première, Lessing la seconde. Les avantages de l'une et de l'autre se trouvent réunis dans la méthode expérimentale, qui cherche, dit M. Wundt, à déterminer les facteurs qui produisent l'effet esthétique et à descendre ainsi jusqu'aux éléments simples .
 
-Prenons les impressions de la vue. Ici, les deux facteurs sont les formes et les couleurs des objets. Les analyses des physiciens, celles de Helmholtz en particulier, ont suffisamment montré que l'optique fournit des bases solides à l'esthétique des couleurs . Arrêtons-nous donc plutôt aux formes . Voici deux figures très-simples, un carré et un trapèze ; l'une est régulière , l'autre irrégulière ; la première nous plaît mieux que la seconde. Pourquoi ? Parce que la première offre plus de symétrie. Si l'on compare un grand nombre de formes, dans les œuvres d'architecture, dans la sculpture , la peinture et même dans les organismes vivants, on verra que la loi de symétrie est le fait esthétique par excellence . Non que la symétrie nous plaise, toute nue et sans rien qui lui donne un corps ; mais elle nous agrée parce qu'elle est la[^p272-1]
+Prenons les impressions de la vue. Ici, les deux facteurs sont les formes et les couleurs des objets. Les analyses des physiciens, celles de Helmholtz en particulier, ont suffisamment montré que l'optique fournit des bases solides à l'esthétique des couleurs . Arrêtons-nous donc plutôt aux formes . Voici deux figures très-simples, un carré et un trapèze ; l'une est régulière , l'autre irrégulière ; la première nous plaît mieux que la seconde. Pourquoi ? Parce que la première offre plus de symétrie. Si l'on compare un grand nombre de formes, dans les œuvres d'architecture, dans la sculpture , la peinture et même dans les organismes vivants, on verra que la loi de symétrie est le fait esthétique par excellence .[^p272-1] Non que la symétrie nous plaise, toute nue et sans rien qui lui donne un corps ; mais elle nous agrée parce qu'elle est la
 
 [p. 273] LES
 
@@ -2847,7 +2847,7 @@ SENTIMENTS façon la plus simple de mettre de l'ordre dans une pluralité d'él�
 
 Les géomètres ont découvert depuis longtemps une certaine manière de diviser les lignes qui importe beaucoup en esthétique . Pour prendre la question sous la forme la plus simple, supposons deux lignes droites qui se coupent à angle droit. Il y aura un rapport entre la section verticale et la section horizontale. Si ce rapport est 1
 
-: 1 , c'est la symétrie parfaite . Mais il y a d'autres proportions qui nous sont agréables : ainsi le rapport 1 : 1,6. Pourquoi cette proportion nous plaît-elle ? Quelle est la loi mystérieuse qu'expriment ces nombres ? L'examen de la figure nous la laisse découvrir immédiatement. En effet, nos deux lignes forment une croix dont la section verticale = 1 , la section horizontale = 1,6 . Ajoutons ces deux nombres 1 + 1,6 = 2,6 nombre qui représente la ligne totale. Nous trouvons alors la proportion suivante 1 : 1,6 : : 1,6 : 2,6 (ou , pour être absolument exact, 2,56) . En d'autres termes, nous avons cette loi : Que la proportion verticale des formes produit l'effet esthétique le plus complet, quand la partie la plus petite est à la plus grande comme la plus grande est au tout 1. C'est A. Zeising qui, dans sa Théorie nouvelle des proportions du corps humain , a le premier vérifié l'application de cette loi dans les chefs-d'œuvre de l'architecture antique, le Par-[^p273-1]
+: 1 , c'est la symétrie parfaite . Mais il y a d'autres proportions qui nous sont agréables : ainsi le rapport 1 : 1,6. Pourquoi cette proportion nous plaît-elle ? Quelle est la loi mystérieuse qu'expriment ces nombres ? L'examen de la figure nous la laisse découvrir immédiatement. En effet, nos deux lignes forment une croix dont la section verticale = 1 , la section horizontale = 1,6 . Ajoutons ces deux nombres 1 + 1,6 = 2,6 nombre qui représente la ligne totale. Nous trouvons alors la proportion suivante 1 : 1,6 : : 1,6 : 2,6 (ou , pour être absolument exact, 2,56) . En d'autres termes, nous avons cette loi : Que la proportion verticale des formes produit l'effet esthétique le plus complet, quand la partie la plus petite est à la plus grande comme la plus grande est au tout 1. C'est A.[^p273-1] Zeising qui, dans sa Théorie nouvelle des proportions du corps humain , a le premier vérifié l'application de cette loi dans les chefs-d'œuvre de l'architecture antique, le Par-
 
 [p. 274] thénon , l'Erecthéum, les Propylées, le temple de Thésée et même, en une certaine mesure, dans l'art gothique ; dans les plus beaux modèles de la plastique grecque ; enfin dans le corps humain tel qu'il existe ; bien plus, dans tout le règne animal et végétal.UD SÅ
 
@@ -2889,7 +2889,7 @@ C'est donc l'anthropologie, l'ethnologie, l'histoire avant l'histoire , qui doiv
 
 M. Wundt consacre plusieurs chapitres d'un grand intérêt à noter et à interpréter des faits ethnologiques de toute espèce 1. Nous ne pouvons indiquer que les points principaux.
 
-La vie morale des peuples s'exprime dans les mœurs ; de l'état des mœurs nous inférons l'état moral. Or, comme la société la plus infime a sa manière de vivre, c'est-à-dire ses mœurs ; les étudier, c'est étudier indirectement les senti[^p277-1]
+La vie morale des peuples s'exprime dans les mœurs ; de l'état des mœurs nous inférons l'état moral.[^p277-1] Or, comme la société la plus infime a sa manière de vivre, c'est-à-dire ses mœurs ; les étudier, c'est étudier indirectement les senti
 
 [p. 278] ments qui les produisent. Remarquons encore qu'à l'époque la plus primitive un peuple n'a que des mœurs . C'est seulement quand sa vie historique commence, qu'il a des lois, lois qui d'ordinaire embrassent tout, règlent tout, prévoient tout . Puis, le cercle de la loi se rétrécit , la législation tend vers un état où la morale imposée par écrit devient un minimum et où une grande partie des actes est abandonnée à l'influence des mœurs . L'Angleterre nous offre de ce cas un exemple frappant.
 
@@ -2967,7 +2967,7 @@ Mais qu'arrive-t-il ? Quand les dieux ont ainsi pris une forme animée, ils se d
 
 L'une des formes les plus grossières de cette conception religieuse est le fétichisme. Il est caractérisé par deux choses : 1 ° l'idole est le dieu même : c'est une pierre, un arbre, ou même une cruche cassée, un débris de poterie, comme chez les Bambarras, d'après Mungo-Park ; 2° chaque individu a son dieu, qu'il adore, maltraite ou brûle suivant les circonstances . Le fétiche est essentiellement individuel à l'origine, quoiqu'il puisse s'étendre à une famille, à une peuplade . Ainsi , chez les tribus africaines, lorsque survient quelque désastre, la tribu part en guerre pour conquérir en quelque lieu que ce soit le fétiche ennemi, qui est ramené en triomphe et adoré par la tribu . Le fétiche est un dieu-destin ; de là le caractère profondément égoïste de cette forme de culte.
 
-On sait assez généralement qu'elle est le propre des races inférieures . Mais des faits incontestables montrent qu'elle a sa racine psychologique , même chez les nations cultivées . Sans parler de la croyance aux talismans et aux amulettes, [p. 286] << on voit que, chez les Grecs, le Zeus d'Olympie n'était pas celui de Crète, etc. Chez les Chrétiens, les saints ont dans diverses chapelles une puissance miraculeuse spéciale . La Vierge Marie porte quelques centaines de noms tirés des lieux de pèlerinage . Bien mieux, chaque croix, chaque image religieuse, sur les routes, a son culte particulier ¹ . »
+On sait assez généralement qu'elle est le propre des races inférieures . Mais des faits incontestables montrent qu'elle a sa racine psychologique , même chez les nations cultivées . Sans parler de la croyance aux talismans et aux amulettes, [p. 286] << on voit que, chez les Grecs, le Zeus d'Olympie n'était pas celui de Crète, etc. Chez les Chrétiens, les saints ont dans diverses chapelles une puissance miraculeuse spéciale . La Vierge Marie porte quelques centaines de noms tirés des lieux de pèlerinage . Bien mieux, chaque croix, chaque image religieuse, sur les routes, a son culte particulier [^p286-1] . »
 
 Rapprochons du fétichisme le culte des animaux, tel qu'il a existé dans l'ancienne Égypte et tel qu'il se trouve encore chez les nègres d'Afrique, qui adorent le serpent, l'hyène, le crocodile, le tigre, l'éléphant, et demandons-nous d'où vient cette forme religieuse.
 
@@ -2975,7 +2975,7 @@ Voici le mot de l'énigme. Pour l'homme à l'état de nature, tout ce qui est é
 
 le nègre en particulier - à attribuer aux animaux une intelligence supérieure à celle de l'homme. Les nègres de Bornou parlent du temps « où l'homme comprenait le langage des bêtes » . Puis l'instinct des animaux , encore si mystérieux pour nous, l'est bien plus pour le sauvage, qui ne peut y voir que des révélations d'une nature divine qui habite en eux.
 
-Ainsi donc, pour l'homme à l'état de nature , tout est animé, divin ; tout parle. Le vent qui mugit, l'animal qui crie, sont des voix qui le préviennent. Il prend par hasard avec lui un caillou, il réussit dans une entreprise : la pierre deviendra son bon génie.[^p286-1]
+Ainsi donc, pour l'homme à l'état de nature , tout est animé, divin ; tout parle. Le vent qui mugit, l'animal qui crie, sont des voix qui le préviennent. Il prend par hasard avec lui un caillou, il réussit dans une entreprise : la pierre deviendra son bon génie.
 
 [p. 287] LES SENTIMENTS
 
@@ -2989,9 +2989,9 @@ Dans le fétichisme, la puissance surnaturelle qui est l'objet du culte, n'est p
 
 Ce besoin d'entrer en commerce, par l'hallucination et l'extase , avec un monde réputé surnaturel, a existé partout : il explique, dans l'histoire des religions, un grand nombre de faits souvent mal compris . En Grèce , les mystères de Samothrace et d'Eleusis, les Dionysiaques avec leurs danses orgiastiques , leurs flots de vin, leurs cris furieux , n'étaient à l'origine qu'un moyen violent de produire l'extase . Le vin y jouait le même rôle que l'opium dans le sud de l'Asie, le haschich dans le nord de l'Afrique, le tabou dans les îles océaniennes . Dans l'Inde et plus tard chez les chrétiens, on essayait par le jeûne et l'ascétisme d'atteindre le même but, et de produire cette excitation morbide du système nerveux qui passait pour la révélation d'un autre monde . Le chrétien ne comprenait rien à l'extase de la Ménade ivre ; mais les macérations de l'anachorète n'étaient qu'une orgie de solitaire ; car, à leur suite, moines et nonnes serraient ardemment dans leurs bras les images fantastiques de la Vierge et du Sauveur ' .
 
-A quelles conclusions mène cette revue rapide des faits dans le domaine religieux ?
+A quelles conclusions mène cette revue rapide des faits dans le domaine religieux ?[^p288-1]
 
-Elle nous montre d'abord que[^p288-1]
+Elle nous montre d'abord que
 
 [p. 289] LES SENTIMENTS le sentiment religieux, qui doit avoir nécessairement pour base quelque connaissance , s'appuie tantôt sur l'imagination, tantôt sur la raison . De là vient, dit M. Wundt, que tout polythéisme est monothéisme et que tout monothéisme est polythéiste . Les religions les plus naïves nous parlent, celle des indigènes de l'Amérique « d'un grand Esprit » ; celles des nègres , du « grand Ami>>> ; celles de la Polynésie, d'un Créateur du monde, etc. Par contre , l'Inde a sa Trinité , le christianisme ses saints, qui sont des demi-dieux : chez les Juifs , Jéhovah est le dieu national, mais dont l'existence n'exclut pas celle des dieux étrangers ; plus tard d'ailleurs, la fantaisie des rabbins créa des anges avec des attributions diverses .
 
@@ -3034,7 +3034,7 @@ C'est le sujet d'un débat interminable 1. Mais les partisans et les adversaires
 
 : Tout est régi par des lois, donc la liberté est une illusion .
 
-Notre conscience, dit M. Wundt, ne nous dit qu'une chose : c'est que nous sommes capables d'agir sans contrainte, intérieure ou extérieure ; elle ne nous dit pas que nous agissons sans cause . Les fatalistes ont tort de dire : La volonté est sou-[^p292-1]
+Notre conscience, dit M. Wundt, ne nous dit qu'une chose : c'est que nous sommes capables d'agir sans contrainte, intérieure ou extérieure ; elle ne nous dit pas que nous agissons sans cause .[^p292-1] Les fatalistes ont tort de dire : La volonté est sou-
 
 [p. 293] LA VOLONTÉ mise à une cause, donc à une contrainte. Leurs adversaires ont tort de dire : La volonté n'est pas contrainte, donc elle est sans cause . Cause et contrainte sont deux idées différentes . La contrainte n'existe que là où une résistance a lieu . On ne peut pas dire que la terre est contrainte de se mouvoir, mais on peut dire que l'homme est contraint de mourir Pourtant tous deux subissent une loi naturelle . Où est la différence ? C'est que l'homme, être conscient, craint la mort et se raidit contre elle .
 
@@ -3062,13 +3062,13 @@ Le problème de l'origine du caractère se trouverait ainsi ramené à la questi
 
 #### XI
 
-Tous les états dont nous venons de parler, perceptions, images, idées, sentiments, volitions, forment cette trame continue qu'on nomme la conscience, dont on ne peut formuler que des définitions tautologiques. Son caractère fondamental, donné par l'expérience, c'est l'unité. Sa condition,[^p296-1]
+Tous les états dont nous venons de parler, perceptions, images, idées, sentiments, volitions, forment cette trame continue qu'on nomme la conscience, dont on ne peut formuler que des définitions tautologiques. Son caractère fondamental, donné par l'expérience, c'est l'unité.[^p296-1] Sa condition,
 
 [p. 297] LA CONSCIENCE c'est que les faits mentaux soient unis et coordonnés suivant des lois .
 
-La base physiologique de l'unité de conscience, c'est la continuité du système nerveux, qui exclut la possibilité de plusieurs espèces de conscience. On ne peut pas admettre un organe déterminé de la conscience , au sens ordinaire de ce mot, car chaque région du système nerveux a son influence sur nos représentations et nos sentiments. Cependant les recherches sur le système nerveux des animaux supérieurs montrent que la couche grise du cerveau est en rapport plus intime que les autres parties avec la conscience . Car là, non-seulement les diverses provinces sensorielles et motrices de la périphérie, mais les connexions d'ordre secondaire qui ont lieu dans les ganglions cérébraux , le cervelet, etc., sont représentées par des filets nerveux spéciaux. Les couches corticales sont donc très-propres à lier, immédiatement ou médiatement, tous ces états du corps, qui peuvent éveiller des représentations conscientes. En ce sens seulement, on peut dire que, chez l'homme et vraisemblablement chez tous les vertébrés, les couches corticales du cerveau sont l'organe de la conscience, sans oublier toutefois que la fonction de cet organe présuppose ces parties centrales subordonnées (tubercules quadrijumeaux, couches optiques, etc.), qui font préalablement la synthèse des sensations¹ .
+La base physiologique de l'unité de conscience, c'est la continuité du système nerveux, qui exclut la possibilité de plusieurs espèces de conscience. On ne peut pas admettre un organe déterminé de la conscience , au sens ordinaire de ce mot, car chaque région du système nerveux a son influence sur nos représentations et nos sentiments. Cependant les recherches sur le système nerveux des animaux supérieurs montrent que la couche grise du cerveau est en rapport plus intime que les autres parties avec la conscience . Car là, non-seulement les diverses provinces sensorielles et motrices de la périphérie, mais les connexions d'ordre secondaire qui ont lieu dans les ganglions cérébraux , le cervelet, etc., sont représentées par des filets nerveux spéciaux. Les couches corticales sont donc très-propres à lier, immédiatement ou médiatement, tous ces états du corps, qui peuvent éveiller des représentations conscientes. En ce sens seulement, on peut dire que, chez l'homme et vraisemblablement chez tous les vertébrés, les couches corticales du cerveau sont l'organe de la conscience, sans oublier toutefois que la fonction de cet organe présuppose ces parties centrales subordonnées (tubercules quadrijumeaux, couches optiques, etc.), qui font préalablement la synthèse des sensations[^p297-1] .
 
-Considérée sous son aspect psychologique, la conscience est une unification, une activité dont l'essence est de lier,[^p297-1]
+Considérée sous son aspect psychologique, la conscience est une unification, une activité dont l'essence est de lier,
 
 [p. 298] de combiner. Deux principaux phénomènes la manifestent : formation des représentations au moyen des impressions ; succession des représentations .
 
@@ -3108,7 +3108,7 @@ Le problème de la durée des actes psychiques nous a paru l'un des plus propres
 
 7
 
-La réflexion va plus loin. On peut, lorsqu'on est habitué à l'analyse , soumettre à un examen délicat ces états désordonnés ou leurs contraires , l'ennui, le tædium vitæ, tous ceux qui dénotent un alanguissement de la vie mentale . On peut surtout étudier et interpréter des faits d'un caractère moins subjectif et plus saisissable à l'analyse . C'est ainsi qu'on a pu constater que la vitesse de la pensée est prodigieuse dans certains rêves¹, dans le délire, dans quelques formes de la folie, comme la manie aiguë. Au contraire, on remarque une lenteur frappante chez l'idiot, le crétin et même chez certains paralytiques : les idées sont tellement disjointes, que l'intervalle qui les sépare est appréciable à tout le monde. Ces faits et leurs analogues offrent un grand intérêt scientifique, jettent du jour sur bien des questions. Ils nous montrent, par exemple, comment notre appréciation subjective du temps dépend tout entière de la rapidité ou de la lenteur de notre pensée. Il suffisait au célèbre mangeur d'opium Th . de Quincey d'augmenter sa dose habituelle, pour croire << qu'en une nuit, il avait vécu mille ans ou plutôt un laps de[^p302-1]
+La réflexion va plus loin. On peut, lorsqu'on est habitué à l'analyse , soumettre à un examen délicat ces états désordonnés ou leurs contraires , l'ennui, le tædium vitæ, tous ceux qui dénotent un alanguissement de la vie mentale . On peut surtout étudier et interpréter des faits d'un caractère moins subjectif et plus saisissable à l'analyse . C'est ainsi qu'on a pu constater que la vitesse de la pensée est prodigieuse dans certains rêves[^p302-1], dans le délire, dans quelques formes de la folie, comme la manie aiguë. Au contraire, on remarque une lenteur frappante chez l'idiot, le crétin et même chez certains paralytiques : les idées sont tellement disjointes, que l'intervalle qui les sépare est appréciable à tout le monde. Ces faits et leurs analogues offrent un grand intérêt scientifique, jettent du jour sur bien des questions. Ils nous montrent, par exemple, comment notre appréciation subjective du temps dépend tout entière de la rapidité ou de la lenteur de notre pensée. Il suffisait au célèbre mangeur d'opium Th . de Quincey d'augmenter sa dose habituelle, pour croire << qu'en une nuit, il avait vécu mille ans ou plutôt un laps de
 
 [p. 303] DE LA DURÉE DES ACTES PSYCHIQUES temps qui excède la limite de toute expérience humaine » .
 
@@ -3129,7 +3129,7 @@ e'
 
 Supposons que le fil soit en M ; le premier coup du pendule se fait entendre, lorsque l'étoile est en e ; au second coup l'étoile est déjà en e ', c'est-à-dire qu'elle a traversé le méridien . Pour donner l'instant précis de son passage, il faut donc que l'astronome apprécie la distance eM , qu'il évaluera, par exemple, aux deux tiers de ee ' ou de l'espace parcouru en une seconde . C'est dans cette évaluation que les observateurs diffèrent .
 
-Les différences d'équation personnelle s'élèvent parfois à plus de 1 seconde, mais le plus souvent elles restent audessous de 0 ", 31. Elles varient avec les heures de la journée, les dispositions momentanées de l'observateur (circulation du sang, fatigue nerveuse, etc.), et peuvent, d'après M. Wolf,[^p304-1]
+Les différences d'équation personnelle s'élèvent parfois à plus de 1 seconde, mais le plus souvent elles restent audessous de 0 ", 31. Elles varient avec les heures de la journée, les dispositions momentanées de l'observateur (circulation du sang, fatigue nerveuse, etc.), et peuvent, d'après M.[^p304-1] Wolf,
 
 [p. 305] DE LA DURÉE DES ACTES PSYCHIQUES se réduire , avec beaucoup d'attention et d'habitude, à 0 ' , 1 . Bessel expliquait ces différences en faisant remarquer qu'une impression visuelle et une impression auditive ne peuvent être comparées simultanément, et que deux observateurs emploient des temps différents pour superposer ces deux impressions . Il ajoutait avec raison que la différence est plus grande encore, si un observateur passe de la vue à l'audition et l'autre de l'audition à la vue. Toutefois, il ne semble pas faire une assez grande part au rôle que la mémoire joue ici . La comparaison a lieu en effet non-seulement entre des sensations d'ordre différent, mais entre des faits actuels et des faits passés (par exemple la position de e). « Il est bien certain, dit M. Wolf, qu'au moment du passage l'observateur n'écoute pas le battement du pendule, mais un battement intérieur que sa pensée y substitue, exactement comme le musici
 
@@ -3145,11 +3145,11 @@ TH. RIBOT,
 
 [p. 306] LA PSYCHOLOGIE ALLEMANDE quelques années auparavant, mesura d'une manière précise le temps que l'action nerveuse met à parcourir une longueur de nerf déterminée . Il excitait le nerf dans le voisinage du muscle qu'il fait contracter et notait le temps écoulé entre l'excitation et la contraction. Puis, recommençant l'expérience sur un point du nerf plus éloigné du muscle, il constatait un retard : le temps écoulé entre l'excitation et la contraction était plus long . Ce retard permettait de calculer la vitesse de l'agent nerveux .
 
-Les expériences de Helmholtz ont été reprises par divers savants , Dubois-Reymond, Marey, Hirsch, Schelske, Jaager, Baxt, etc. , etc. , qui, simplifiant les premiers appareils employés , ont étudié le fait de la vitesse nerveuse dans les conditions les plus diverses et ont appliqué leurs recherches aux nerfs sensoriels aussi bien qu'aux nerfs moteurs ¹ .
+Les expériences de Helmholtz ont été reprises par divers savants , Dubois-Reymond, Marey, Hirsch, Schelske, Jaager, Baxt, etc. , etc. , qui, simplifiant les premiers appareils employés , ont étudié le fait de la vitesse nerveuse dans les conditions les plus diverses et ont appliqué leurs recherches aux nerfs sensoriels aussi bien qu'aux nerfs moteurs [^p306-1] .
 
 Ces, expériences n'étaient qu'un acheminement vers le problème qui nous occupe
 
-: mesurer la durée des actes psychiques . Elles faisaient plus, cependant, qu'indiquer la route : elles fournissaient au calcul des éléments essentiels. Qu'on remarque bien, en effet, les conditions de l'expérience. Un homme perçoit une sensation et l'indique par une réaction , c'est-à-dire par un mouvement. La sensation , moment initial, et le mouvement, moment final, sont seuls accessibles[^p306-1]
+: mesurer la durée des actes psychiques . Elles faisaient plus, cependant, qu'indiquer la route : elles fournissaient au calcul des éléments essentiels. Qu'on remarque bien, en effet, les conditions de l'expérience. Un homme perçoit une sensation et l'indique par une réaction , c'est-à-dire par un mouvement. La sensation , moment initial, et le mouvement, moment final, sont seuls accessibles
 
 [p. 307] DE LA DURÉE DES ACTES PSYCHIQUES à nes moyens de mesure. Il s'écoule entre les deux un certain temps dont une partie est consacrée à la transmission nerveuse centripète, une autre à la transmission nerveuse centrifuge . Ces deux durées étant connues, la durée de l'acte psychique proprement dit , de la perception, devient plus facilement accessible à la mesure .
 
@@ -3163,9 +3163,9 @@ Nous avons ici un acte psychique extrêmement simple, puisqu'il se réduit à co
 
 Ces recherches curieuses furent continuées par Helmholtz, Mach , Vierordt, Baxt et plus récemment par Exner (de Vienne) dans un mémoire important qui a pour titre : Recherches expérimentales sur les processus psychiques les plus simples 1. Ce physiologiste fait usage des impressions brusques causées par l'électricité sur la peau, la rétine, etc. Sur un cylindre entouré
 
-un papier enfumé s'inscrivent d'abord l'excitation, puis la réaction du sujet, qui consiste en l'abaissement brusque d'un levier. Un intervalle sépare les deux signaux sur le papier enfumé, et, comme la vitesse du cylindre est connue d'avance, la durée de la réaction peut être calculée à un dix millième de seconde près .
+un papier enfumé s'inscrivent d'abord l'excitation, puis la réaction du sujet, qui consiste en l'abaissement brusque d'un levier. Un intervalle sépare les deux signaux sur le papier enfumé, et, comme la vitesse du cylindre est connue d'avance, la durée de la réaction peut être calculée à un dix millième de seconde près .[^p308-1]
 
-Exner, dont nous donnons plus loin les résultats, a étudié[^p308-1]
+Exner, dont nous donnons plus loin les résultats, a étudié
 
 [p. 309] DE LA DURÉE DES ACTES PSYCHIQUES avec beaucoup de soin les conditions accidentelles qui influent sur la durée du temps physiologique .
 
@@ -3207,7 +3207,7 @@ M. Wundt, qui a fait également une analyse du temps physiologique, montre que, 
 
 On peut considérer le premier et le dernier de ces éléments comme purement physiologiques. Quant aux trois autres, ils sont d'une nature psychophysique. Nous avons beaucoup de raisons , dit Wundt, de croire que l'impression qui agit avec une force suffisante sur les parties centrales, entre par là même dans le champ visuel de la conscience. Il faut un effort particulier, que nous sentons intérieurement, pour nous rendre attentifs à cette impression, et c'est par là que nous distinguons l'aperception, de la perception pure et simple. La durée de la perception se trouve ainsi comprise dans la durée de la transmission sensorielle : elle est à la fois le dernier acte du fait physiologique et le premier acte du fait psychologique. Par durée de la perception , il faut donc entendre à la fois le temps nécessaire pour exciter les centres nerveux sensoriels et le temps nécessaire pour faire entrer l'impression dans le champ de la conscience.
 
-D'un autre côté, le temps consacré à la volition se confond de même avec le temps de l'excitation motrice ou centrifuge. Il est contraire aux faits d'admettre un acte de voli[^p311-1]
+D'un autre côté, le temps consacré à la volition se confond de même avec le temps de l'excitation motrice ou centrifuge.[^p311-1] Il est contraire aux faits d'admettre un acte de voli
 
 [p. 312] tion qui serait complètement achevé, avant que l'excitation motrice des centres nerveux puisse commencer . Du moins, le sens intime nous donne ces deux faits comme
 
@@ -3313,11 +3313,11 @@ Tact.....
 
 0,0501
 
-(variation moyenne).
+(variation moyenne).[^p314-1]
 
 0,0577
 
-0,0324[^p314-1]
+0,0324
 
 [p. 315] DE LA DURÉE DES ACTES PSYCHIQUES
 
@@ -3465,7 +3465,7 @@ Tact.....
 
 0,180
 
-Il faut bien remarquer cependant que, dans ces trois séries d'expériences , les conditions de la réaction ne sont pas les mêmes . Il y a en effet, entre une impression sur le pied et une réaction de la main du même côté , une association étroite , favorisée par la conformation anatomique , l'exer-[^p320-1]
+Il faut bien remarquer cependant que, dans ces trois séries d'expériences , les conditions de la réaction ne sont pas les mêmes .[^p320-1] Il y a en effet, entre une impression sur le pied et une réaction de la main du même côté , une association étroite , favorisée par la conformation anatomique , l'exer-
 
 [p. 321] DE LA DURÉE DES ACTES PSYCHIQUES cice, l'usage. Il en est de même entre une sensation auditive et une réaction vocale . Mais
 
@@ -3521,7 +3521,7 @@ Une autre façon de conduire l'expérience amène à un résultat curieux. Avec 
 
 1 . L'observation montre que la succession interne de nos perceptions peut ne pas correspondre à la succession externe des excitations : en d'autres termes, une excitation qui, en réalité, est postérieure à une autre, peut être perçue comme antérieure . L'observation intérieure ne laisse aucun doute sur la cause de cette illusion : elle est due à l'état variable d'effort de l'attention. Quand l'effort est faible, cela n'a jamais lieu ; mais, quand il est intense, il pout se produire une véritable anticipation de l'esprit .
 
-Nous ferons remarquer aussi qu'avec ce mode d'expérience l'impression concomitante, quand elle est postérieure, n'a aucune influence sur l'impression principale : tout se passe comme dans les conditions simples. Il en est de même pour le cas de simultanéité. Mais, si l'impression per-[^p322-1]
+Nous ferons remarquer aussi qu'avec ce mode d'expérience l'impression concomitante, quand elle est postérieure, n'a aucune influence sur l'impression principale : tout se passe comme dans les conditions simples. Il en est de même pour le cas de simultanéité.[^p322-1] Mais, si l'impression per-
 
 [p. 323] DE LA DURÉE DES ACTES PSYCHIQUES turbatrice est antérieure, le temps physiologique est toujours augmenté, comme le montrent les expériences suivantes :
 
@@ -3549,7 +3549,7 @@ Nous ne saurions trop appeler l'attention sur le nouveau procédé mis en usage 
 
 Toutefois ce mode d'expérience offre des dificultés . Chaque impression laisse après elle, dans l'organe, un certain retentissement, une persistance d'action purement physiologique, qui dure encore quand la seconde impression est reçue : en un mot, ce retentissement dure autant que l'intervalle qui sépare les deux impressions simples 2.
 
-Suivant Baxt, la difficulté disparaît lorsque l'impression principale est composée, au lieu d'être simple. Aussi emploie-il pour ses expériences des lettres ou des figures géomé-[^p324-1][^p324-2]
+Suivant Baxt, la difficulté disparaît lorsque l'impression principale est composée, au lieu d'être simple.[^p324-2][^p324-1] Aussi emploie-il pour ses expériences des lettres ou des figures géomé-
 
 [p. 325] DE LA DURÉE DES ACTES PSYCHIQUES triques . En faisant varier plusieurs fois l'intervalle de temps, qui sépare l'impression principale de la seconde qui l'efface,
 
@@ -3649,7 +3649,7 @@ la durée de la production et cell e dela reproduction peuvent se ramener aux de
 
 Nous avons vu que Donders s'était proposé de mesurer le temps nécessaire à une opération intellectuelle très-simple, qu'il appelle la solution d'un dilemme. C'est le même problème que Kries et Auerbach viennent de reprendre 1 .
 
-Pour faire comprendre leur méthode, imaginons deux foyers lumineux, l'un bleu, l'autre rouge. On fait apparaître tantôt l'un, tantôt l'autre. Le sujet ne doit réagir qu'à la vue de l'une des deux lumières, désignée d'avance. Dans ces conditions, la réaction est retardée. Ce retard ne peut être attribué qu'à une opération intellectuelle , à un acte de discernement entre deux perceptions simples, aboutissant à une conclusion. C'est la durée de cet acte de discernement qu'il s'agit d'évaluer. Pour cela, ces expérimentateurs ont dû : 1º déterminer d'abord l'équation personnelle, c'est-à-dire la durée totale de la réaction, l'excitation restant toujours la même ; 2º déterminer la durée de la réaction dans les cas où l'excitation change. La différence entre ces deux quantités exprime la durée de l'acte du discernement. Leurs expériences, appliquées à divers ordres de perceptions, ont donné les résultats suivants : [^p334-1][^p334-2]
+Pour faire comprendre leur méthode, imaginons deux foyers lumineux, l'un bleu, l'autre rouge. On fait apparaître tantôt l'un, tantôt l'autre. Le sujet ne doit réagir qu'à la vue de l'une des deux lumières, désignée d'avance. Dans ces conditions, la réaction est retardée. Ce retard ne peut être attribué qu'à une opération intellectuelle , à un acte de discernement entre deux perceptions simples, aboutissant à une conclusion. C'est la durée de cet acte de discernement qu'il s'agit d'évaluer. Pour cela, ces expérimentateurs ont dû : 1º déterminer d'abord l'équation personnelle, c'est-à-dire la durée totale de la réaction, l'excitation restant toujours la même ; 2º déterminer la durée de la réaction dans les cas où l'excitation change. La différence entre ces deux quantités exprime la durée de l'acte du discernement.[^p334-2][^p334-1] Leurs expériences, appliquées à divers ordres de perceptions, ont donné les résultats suivants :
 
 [p. 335] DE LA DURÉE DES ACTES PSYCIHIQUES
 
@@ -3725,17 +3725,17 @@ entre un son et un bruit
 
 de la distance d'objets vus .
 
-Il résulte de ce tableau que la durée moyenne de l'acte de discernement serait pour Auerbach 0,026, pour Kries 0,049 , c'est-à-dire plus grande de près du double, et que par conséquent la durée des opérations psychiques peut être trèsvariable selon les personnes ¹.
+Il résulte de ce tableau que la durée moyenne de l'acte de discernement serait pour Auerbach 0,026, pour Kries 0,049 , c'est-à-dire plus grande de près du double, et que par conséquent la durée des opérations psychiques peut être trèsvariable selon les personnes [^p335-1].
 
 #### III
 
-Ce qui précède reproduit, sans modifications importantes , l'exposé de la première édition. A dessein, nous y avons peu changé, parce que, durant ces six dernières années, les études psychométriques ont été fort actives et qu'il était bon de montrer le chemin parcouru. Wundt a fondé à Leipzig un laboratoire psychophysique où , aidé de ses élèves il a institué de nouvelles expériences que nous allons résumer . Elles sont consignées dans divers mémoires publiés[^p335-1]
+Ce qui précède reproduit, sans modifications importantes , l'exposé de la première édition. A dessein, nous y avons peu changé, parce que, durant ces six dernières années, les études psychométriques ont été fort actives et qu'il était bon de montrer le chemin parcouru. Wundt a fondé à Leipzig un laboratoire psychophysique où , aidé de ses élèves il a institué de nouvelles expériences que nous allons résumer . Elles sont consignées dans divers mémoires publiés
 
 [p. 336] dans un recueil spécial, les Philosophische Studien . Jusqu'à ce jour, six fascicules ont paru . Aux travaux allemands , il faut joindre ceux de quelques expérimentateurs italiens, avant tout Buccola
 
 dont nous parlerons incidemment .
 
-La première période des études psychométriques que nous venons de résumer ne s'est guère occupée que des états de conscience les plus simples ¹ (durée des sensations , de la réaction, du discernement) . Actuellement les recherches s'appliquent à des formes plus complexes de l'activité mentale : durée des associations de diverses espèces, du jugement, de la volition ou du choix , variations pathologiques .
+La première période des études psychométriques que nous venons de résumer ne s'est guère occupée que des états de conscience les plus simples [^p336-1] (durée des sensations , de la réaction, du discernement) . Actuellement les recherches s'appliquent à des formes plus complexes de l'activité mentale : durée des associations de diverses espèces, du jugement, de la volition ou du choix , variations pathologiques .
 
 Commençons par la détermination du temps nécessaire pour percevoir des représentations composées, mais dont les éléments sont assez homogènes pour qu'elles restent encore relativement simples. Pour mieux voir comment la durée de l'aperception augmente avec la complexité d'une représentation, il faut en prendre une dont l'accroissement soit régulier . M. Wundt choisit des représentations visuelles, des nombres imprimés dont le total varie de 1 à 6 chiffres. Parmi les résultats dus à plusieurs observateurs , je transcris les plus saillants : L'unité est toujours la seconde :
 
@@ -3773,7 +3773,7 @@ Commençons par la détermination du temps nécessaire pour percevoir des repré
 
 1,082
 
-1,079 Ces nombres sont fournis par 120 expériences faites à des[^p336-1]
+1,079 Ces nombres sont fournis par 120 expériences faites à des
 
 [p. 337] DE LA DURÉE DES ACTES PSYCHIQUES époques distinctes : la première série pendant un mois, la seconde pendant le mois suivant. Chez la plupart des observateurs ,
 
@@ -3818,7 +3818,7 @@ Association de représentations successives .
 
 Association externe .
 
-1º Association par surordination ¹ et subordination, (association avec une représentation plus générale ou moins générale) .
+1º Association par surordination [^p339-1] et subordination, (association avec une représentation plus générale ou moins générale) .
 
 2º Association par rapport de coordination (par ressemblance, par contraste) .
 
@@ -3908,7 +3908,7 @@ indépendante ...
 
 69
 
-27 II . Association interne....[^p339-1][^p339-2]
+27 II . Association interne....[^p339-2]
 
 [p. 340] l'on prend la colonne W. (expérimentations de Wundt), on voit que sur 100 cas il y a 48 associations externes, 52 internes . Les 48 associations externes se décomposent en 20 simultanées , 28 successives. Les 20 simultanées se décomposant sous les titres indiqués en 9 , 11 , et ainsi de suite 7.
 
@@ -4148,9 +4148,9 @@ B.
 
 0,917
 
-T.
+T.[^p343-1]
 
-0,039 et comme moyenne générale 0,874 " , nombre supérieur à la[^p343-1]
+0,039 et comme moyenne générale 0,874 " , nombre supérieur à la
 
 [p. 344] moyenne ci-dessus
 
@@ -4168,9 +4168,9 @@ Quelques mots, pour finir, sur les maladies mentales . Obersteiner
 
 [p. 345] DE LA DURÉE DES ACTES PSYCHIQUES même 0,755. Enfin , nous devons aussi mentionner les longues recherches faites par Buccola à l'asile des aliénés de Reggio et à l'Institut psychiatrique de Turin. Il a soumis à ses expériences les imbéciles, les idiots, les déments, les exaltés , les mélancoliques, les monomaniaques, les épileptiques . Sauf dans quelques cas d'excitation maniaque, il a toujours trouvé un retard plus ou moins considérable dans la durée des perceptions. Chez les imbéciles et les idiots, elle atteint même un degré très élevé .
 
-Il ne peut être question de résumer ici tous les travaux de psychométrie¹ . Il s'agissait simplement d'en faire connaître la méthode et les principaux résultats. Il en ressort que le fait de conscience a, comme tout autre phénomène , une durée précise, variable et mesurable . Sans doute, il était universellement admis, surtout depuis Kant, que les phénomènes internes ont pour caractère distinctif de se passer dans le temps ; mais cette formule vague permettait encore de laisser la pensée dans une sorte de région mystique où elle paraissait inaccessible à la mesure, quant à sa durée .
+Il ne peut être question de résumer ici tous les travaux de psychométrie[^p345-1] . Il s'agissait simplement d'en faire connaître la méthode et les principaux résultats. Il en ressort que le fait de conscience a, comme tout autre phénomène , une durée précise, variable et mesurable . Sans doute, il était universellement admis, surtout depuis Kant, que les phénomènes internes ont pour caractère distinctif de se passer dans le temps ; mais cette formule vague permettait encore de laisser la pensée dans une sorte de région mystique où elle paraissait inaccessible à la mesure, quant à sa durée .
 
-Encore au commencement de ce siècle, l'illustre physiologiste J. Müller ne soutenait-il pas que le temps nécessaire pour qu'une sensation produise un mouvement est infiniment petit et non mesurable ( unendlich klein und unmessbar) ? [^p345-1]
+Encore au commencement de ce siècle, l'illustre physiologiste J. Müller ne soutenait-il pas que le temps nécessaire pour qu'une sensation produise un mouvement est infiniment petit et non mesurable ( unendlich klein und unmessbar) ?
 
 [p. 346] Au terme de ce travail ennuyeux, minutieux, dénué de tout agrément littéraire, on se demandera peut-être si ces recherches valent la peine qu'elles coûtent, où elles conduisent, si elles nous font mieux connaître la pensée et sa nature ?
 
@@ -4236,11 +4236,11 @@ Les données de la conscience, dit Horwicz, ne peuvent servir que de préliminai
 
 ## Conclusion
 
-suffit pas à notre but de constater que nous avons des sensations que nous rapportons à des objets hors de nous (sens). et d'autres sensations que nous rapportons à l'organisme et à ses états (sens organique) ; mais il nous faut connaître , si c'est possible, les conditions, organiques ou autres, qui produisent ces deux ordres de sensations ¹ . >>>
+suffit pas à notre but de constater que nous avons des sensations que nous rapportons à des objets hors de nous (sens). et d'autres sensations que nous rapportons à l'organisme et à ses états (sens organique) ; mais il nous faut connaître , si c'est possible, les conditions, organiques ou autres, qui produisent ces deux ordres de sensations [^p353-1] . >>>
 
-Les questions psychologiques se posent pour lui au point de vue strict des phénomènes observables, et il ne trouve dans la psychologie métaphysique que néant et vide complets (völlige Eitelkeit und Hohlheit) . « Il ne faut pas attendre de notre méthode qu'elle réponde aux questions dernières . Ce qu'est l'âme, substance ou accident, ce qu'elle devient à la mort, quel rapport il y a entre elle et le corps : ce sont là des problèmes qui, s'ils ne sont pour toujours soustraits à nos recherches, ne peuvent au moins en aucun cas être posés au début. Notre polémique contre le matérialisme n'a d'autre but que de tenir la voie ouverte à la recherche vraiment scientifique et, dans le cas où celle-ci serait sans issue, de la bien distinguer des croyances ou opinions subjectives, religieuses et morales . Nous employons donc le mot « âme » non dans le sens d'une substance immatérielle dont l'existence serait prouvée, mais simplement comme la dénomination collective de ces phénomènes et processus qu'on nomme psychiques² . >>
+Les questions psychologiques se posent pour lui au point de vue strict des phénomènes observables, et il ne trouve dans la psychologie métaphysique que néant et vide complets (völlige Eitelkeit und Hohlheit) . « Il ne faut pas attendre de notre méthode qu'elle réponde aux questions dernières . Ce qu'est l'âme, substance ou accident, ce qu'elle devient à la mort, quel rapport il y a entre elle et le corps : ce sont là des problèmes qui, s'ils ne sont pour toujours soustraits à nos recherches, ne peuvent au moins en aucun cas être posés au début. Notre polémique contre le matérialisme n'a d'autre but que de tenir la voie ouverte à la recherche vraiment scientifique et, dans le cas où celle-ci serait sans issue, de la bien distinguer des croyances ou opinions subjectives, religieuses et morales . Nous employons donc le mot « âme » non dans le sens d'une substance immatérielle dont l'existence serait prouvée, mais simplement comme la dénomination collective de ces phénomènes et processus qu'on nomme psychiques[^p353-2] . >>
 
-Nous venons de montrer quel est l'esprit général de la méthode de Horwicz. Voyons l'application de cette méthode[^p353-1][^p353-2]
+Nous venons de montrer quel est l'esprit général de la méthode de Horwicz. Voyons l'application de cette méthode
 
 [p. 354] à un cas particulier : l'étude des sentiments . Pour lui, « e sentiment est l'activité sous sa forme psychique la plus simple, la plus élémentaire, la plus générale, et cette activité est le point de départ de tous les autres processus psychiques . » Il joue donc dans sa psychologie un rôle dominateur.
 
@@ -4254,19 +4254,19 @@ Quatre opinions différentes ont été émises par les psychologues sur la natur
 
 -4º Les sentiments résultent de l'équilibre moléculaire physiologique de la substance nerveuse.
 
-Aucune de ces quatre thèses n'est exclusive : chacune implique les autres au moins partiellement. L'auteur montre par une critique détaillée qu'aucune ne suffit à expliquer la nature des sentiments. C'est de la dernière cependant qu'il se rapproche le plus, puisqu'il donne la conclusion suivante comme l'un des principaux résultats de sa critique : II y a pour tout organe sentant, et pour l'organisme en général, un état d'équilibre autour duquel gravitent nos sentiments ; de telle sorte que l'éloignement est senti comme désagréable, le retour vers l'équibre comme agréable (p. 43).
+Aucune de ces quatre thèses n'est exclusive : chacune implique les autres au moins partiellement. L'auteur montre par une critique détaillée qu'aucune ne suffit à expliquer la nature des sentiments. C'est de la dernière cependant qu'il se rapproche le plus, puisqu'il donne la conclusion suivante comme l'un des principaux résultats de sa critique : II y a pour tout organe sentant, et pour l'organisme en général, un état d'équilibre autour duquel gravitent nos sentiments ; de telle sorte que l'éloignement est senti comme désagréable, le retour vers l'équibre comme agréable (p. 43).[^p354-1]
 
-Mais il n'existe pas d'équilibre stable de la substance ner-[^p354-1]
+Mais il n'existe pas d'équilibre stable de la substance ner-
 
 [p. 355]
 
 ## Conclusion
 
-veuse : cet équilibre est labile, tout relatif. Il ne peut donc être considéré comme un état normal, et nous sommes ainsi conduits à admettre que ce que nous sentons n'est pas un état, mais un changement de notre substance nerveuse ; en d'autres termes, que l'essence du sentiment consiste en un changement, un devenir ¹.
+veuse : cet équilibre est labile, tout relatif. Il ne peut donc être considéré comme un état normal, et nous sommes ainsi conduits à admettre que ce que nous sentons n'est pas un état, mais un changement de notre substance nerveuse ; en d'autres termes, que l'essence du sentiment consiste en un changement, un devenir [^p355-1].
 
-Si, conformément à la méthode physiologique, nous entrons plus avant dans la nature du phénomène nerveux pour comprendre la nature du phénomène psychique, nous constatons que cet état d'équilibre instable, avec ces changements perpétuels qui en éloignent ou en rapprochent -lauteur les désigne sous le nom de contraste - répondent à une loi plus générale de tout organisme : « L'équilibre moléculaire objectif a pour corrélatif subjectif, psychique, l'habitude : au contraste correspond le nouveau, l'inaccoutumé. » (P. 50.) En allant plus loin encore, nous trouvons dans l'organisme deux processus moléculaires : l'un qui emmagasine du travail disponible par la formation de combinaisons complexes ; l'autre qui dégage de la force vive par la réduction de ces combinaisons complexes : - acquisition et dépense ; travail moléculaire négatif et positif. Ils correspondent aux processus subjectifs de conservation de soimême (Selbsterhaltung) et de changement ; d'accoutumance et de contraste. Ce parallélisme, contestable peut-être au sens rigoureux, est exact d'une manière générale : à l'habi-[^p355-1]
+Si, conformément à la méthode physiologique, nous entrons plus avant dans la nature du phénomène nerveux pour comprendre la nature du phénomène psychique, nous constatons que cet état d'équilibre instable, avec ces changements perpétuels qui en éloignent ou en rapprochent -lauteur les désigne sous le nom de contraste - répondent à une loi plus générale de tout organisme : « L'équilibre moléculaire objectif a pour corrélatif subjectif, psychique, l'habitude : au contraste correspond le nouveau, l'inaccoutumé. » (P. 50.) En allant plus loin encore, nous trouvons dans l'organisme deux processus moléculaires : l'un qui emmagasine du travail disponible par la formation de combinaisons complexes ; l'autre qui dégage de la force vive par la réduction de ces combinaisons complexes : - acquisition et dépense ; travail moléculaire négatif et positif. Ils correspondent aux processus subjectifs de conservation de soimême (Selbsterhaltung) et de changement ; d'accoutumance et de contraste. Ce parallélisme, contestable peut-être au sens rigoureux, est exact d'une manière générale : à l'habi-
 
-[p. 356] tude répond la prédominance du processus négatif ; au contraste , la prédominance du processus positif ¹ .
+[p. 356] tude répond la prédominance du processus négatif ; au contraste , la prédominance du processus positif [^p356-1] .
 
 De toutes ces considérations , l'auteur conclut que « l'essence du sentiment consiste dans la conservation de soimême , c'est-à-dire dans le mode de réaction à l'égard des changements, réaction qui se distingue de la réaction purement physique par une autonomie ou spontanéité. » (P. 51.) Le plaisir découle de la force de notre être psychique ; la peine, de sa faiblesse, de son impuissance (p. 55) .
 
@@ -4274,23 +4274,23 @@ La sensibilité serait ainsi rattachée par un lien étroit aux actions vitales 
 
 << Mes analyses, dit M. Horwicz, poursuivent un but bien déterminé
 
-: ramener à un seul élément fondamental psychophysique la totalité des processus psychiques . » Nous venons d'en donner un exemple ; et si l'on objecte que les sentiments d'ordre inférieur, les sinnliche Gefühle, sont seuls dans cette connexion intime avec les lois de la vie, l'auteur répond que les sentiments d'ordre supérieur se ramènent aux inférieurs dont ils ne sont que la complication, et par conséquent à des processus nerveux (p . 66) .
+: ramener à un seul élément fondamental psychophysique la totalité des processus psychiques . » Nous venons d'en donner un exemple ; et si l'on objecte que les sentiments d'ordre inférieur, les sinnliche Gefühle, sont seuls dans cette connexion intime avec les lois de la vie, l'auteur répond que les sentiments d'ordre supérieur se ramènent aux inférieurs dont ils ne sont que la complication, et par conséquent à des processus nerveux (p . 66) .[^p356-2]
 
 Au lieu de suivre l'auteur dans sa classification des sentiments , qui n'a rien de neuf
 
-et qui a soulevé bon nombre de critiques, il est préférable, suivant la méthode que nous avons choisie, de montrer par un exemple le rôle prépon-[^p356-1][^p356-2]
+et qui a soulevé bon nombre de critiques, il est préférable, suivant la méthode que nous avons choisie, de montrer par un exemple le rôle prépon-
 
 [p. 357]
 
 ## Conclusion
 
-dérant qu'il attribue au sentiment dans la vie intellectuelle . Prenons le fait de la reproduction ou de la mémoire ¹ .
+dérant qu'il attribue au sentiment dans la vie intellectuelle . Prenons le fait de la reproduction ou de la mémoire [^p357-1] .
 
 La reproduction suppose comme condition une trace, un résidu , laissé dans les éléments nerveux dévolus au souvenir . Ce résidu peut-il s'expliquer par la loi de persistance (conservation de la force), comme l'a pensé Volkmann ?
 
 Horwicz ne croit pas que la persistance des représentations puisse consister en une simple action mécanique , parce que la sensation, qui est une réaction de l'âme, n'est pas de la même nature que la réaction des corps : elle implique spontanéité . Une sensation conservée ne peut être qu'une tendance qui persiste ,
 
-Le sentiment (Gefühl) est, pour Horwicz , la cause de l'action suspensive qui tient les représentations à l'état inconscient, et il est de même « le véhicule des associations d'idées, c'est-à-dire la cause de leur retour à la conscience . » Le fondement du fait de la conservation des résidus, c'est une tendance persistante au mouvement, une tendance à répondre à une excitation déterminée par un mouvement déterminé. Cette nature essentielle du souvenir (la persistance d'une tendance au mouvement), bien qu'elle soit souvent voilée, se révèle à nous dans certains cas d'une manière frappante . Beaucoup de souvenirs sont accompagnés mouvements . Dans les cas où il n'y a pas de mouvement proprement dit, il se produit quelque phénomène analogue : ' par exemple , si je me représente un citron, il se produira à l'idée de mordre dans ce fruit une sécrétion salivaire qui[^p357-1]
+Le sentiment (Gefühl) est, pour Horwicz , la cause de l'action suspensive qui tient les représentations à l'état inconscient, et il est de même « le véhicule des associations d'idées, c'est-à-dire la cause de leur retour à la conscience . » Le fondement du fait de la conservation des résidus, c'est une tendance persistante au mouvement, une tendance à répondre à une excitation déterminée par un mouvement déterminé. Cette nature essentielle du souvenir (la persistance d'une tendance au mouvement), bien qu'elle soit souvent voilée, se révèle à nous dans certains cas d'une manière frappante . Beaucoup de souvenirs sont accompagnés mouvements . Dans les cas où il n'y a pas de mouvement proprement dit, il se produit quelque phénomène analogue : ' par exemple , si je me représente un citron, il se produira à l'idée de mordre dans ce fruit une sécrétion salivaire qui
 
 [p. 358] peut être considérée comme
 
@@ -4332,7 +4332,7 @@ Par là, il se distingue de Horwicz, quoiqu'il soit aussi nettement empirique qu
 
 La première partie de l'ouvrage de Brentano est consacrée à étudier en détail la question de la nature de la psychologie et de sa méthode .
 
-La psychologie peut être conçue de deux manières : ou bien comme science de l'âme : c'est la conception ancienne ; ou bien comme science des phénomènes psychiques : c'est la conception nouvelle. La première a conduit à la seconde : et voici comment. On a souvent fait remarquer que les alchimistes , en cherchant la pierre philosophale, c'est-à-dire l'introuvable, ont rencontré ce qu'ils ne cherchaient pas : des faits positifs qui ont permis à la chimie de naître et de se constituer. Les métaphysiciens ont fait de même . Pour eux, le grand problème a été celui de l'immortalité de l'âme Tout en cherchant la solution sans trêve et sans succès , ils[^p361-1]
+La psychologie peut être conçue de deux manières : ou bien comme science de l'âme : c'est la conception ancienne ; ou bien comme science des phénomènes psychiques : c'est la conception nouvelle. La première a conduit à la seconde : et voici comment. On a souvent fait remarquer que les alchimistes , en cherchant la pierre philosophale, c'est-à-dire l'introuvable, ont rencontré ce qu'ils ne cherchaient pas : des faits positifs qui ont permis à la chimie de naître et de se constituer. Les métaphysiciens ont fait de même .[^p361-1] Pour eux, le grand problème a été celui de l'immortalité de l'âme Tout en cherchant la solution sans trêve et sans succès , ils
 
 [p. 362] LA
 
@@ -4406,7 +4406,7 @@ L'anatomiste viennois Stricker, dans de courts traités sur la conscience, le la
 
 On en peut dire autant de Kussmaul qui, dans son livre Die Störungen der Sprache (récemment traduit en français), a donné une monographie très intéressante des maladies du langage.
 
-Un naturaliste, G. H. Schneider, très attaché à la théorie de l'évolution et pénétré des doctrines de Darwin et de Hæckel , a offert au public un chapitre de psychologie comparée en retraçant le développement de la volonté depuis les formes inférieures de l'humanité jusqu'à l'homme 2. Le sentiment au sens le plus général, c'est-à-dire le sentir, est la base de toute vie psychique. La sensibilité a sa cause dans l'organisation, c'est-à-dire dans les processus vitaux de l'animal et les diverses manières de sentir ont pour conditions des organisations corporelles différentes. Le problème de l'origine de la sensibilité se confond donc avec celui de la vie animale. De même que parmi les combinaisons[^p367-1][^p367-2]
+Un naturaliste, G. H. Schneider, très attaché à la théorie de l'évolution et pénétré des doctrines de Darwin et de Hæckel , a offert au public un chapitre de psychologie comparée en retraçant le développement de la volonté depuis les formes inférieures de l'humanité jusqu'à l'homme 2. Le sentiment au sens le plus général, c'est-à-dire le sentir, est la base de toute vie psychique. La sensibilité a sa cause dans l'organisation, c'est-à-dire dans les processus vitaux de l'animal et les diverses manières de sentir ont pour conditions des organisations corporelles différentes. Le problème de l'origine de la sensibilité se confond donc avec celui de la vie animale.[^p367-2][^p367-1] De même que parmi les combinaisons
 
 [p. 368] chimiques infiniment diverses qui se sont produites sur la surface de la terre ,
 
@@ -4418,7 +4418,7 @@ renfermaient les conditions d'existence d'une substance vivante capable de repro
 
 d'autres
 
-substances vivantes ; de même, en un mot, que la vie n'est qu'un cas spécial parmi une infinité de cas ; de même la propriété de sentir n'est qu'un cas parmi des combinaisons innombrables ; et il n'est pas plus difficile de concevoir des combinaisons sentantes, issues de combinaisons non sentantes, que des êtres vivants issus d'êtres non vivants . - Tout récemment, M. Schneider a étudié du même point de vue de l'évolution le plaisir et la douleur ¹ et en a tiré des conséquences pratiques - morales et sociales
+substances vivantes ; de même, en un mot, que la vie n'est qu'un cas spécial parmi une infinité de cas ; de même la propriété de sentir n'est qu'un cas parmi des combinaisons innombrables ; et il n'est pas plus difficile de concevoir des combinaisons sentantes, issues de combinaisons non sentantes, que des êtres vivants issus d'êtres non vivants . - Tout récemment, M. Schneider a étudié du même point de vue de l'évolution le plaisir et la douleur [^p368-1] et en a tiré des conséquences pratiques - morales et sociales
 
 fort optimistes. Pour lui, le plaisir et la douleur ont l'un et l'autre une valeur positive . Toute la question est de savoir lequel des deux l'emporte en somme ; et cette question est résolue par la loi ultime de l'évolution biologique qui serait impossible sans la prédominance des processus qui assurent le progrès .
 
@@ -4426,7 +4426,7 @@ Rappelons aussi les recherches expérimentales sur les localisations cérébrale
 
 : d'ailleurs ce travail est loin d'avoir été l'œuvre exclusive des Allemands .
 
-En dehors des Naturforscher et parmi les écoles purement philosophiques, celle des néo-kantiens, actuellement très[^p368-1]
+En dehors des Naturforscher et parmi les écoles purement philosophiques, celle des néo-kantiens, actuellement très
 
 [p. 369]
 
@@ -4448,7 +4448,7 @@ TH . RIBOт .
 
 24
 
-[p. 370] Le premier point à signaler est l'étude des éléments de la sensation simple. Les éléments du simple : ceci semble une contradiction . Mais c'est l'un des mérites de la psychologie physiologique d'avoir montré que ce qui est simple pour la conscience est en réalité un composé, une synthèse. Il est vrai que les expériences des physiciens avaient depuis longtemps préparé la voie à cette conclusion ; et elle eût même été tirée plus tôt, si la psychologie renfermée dans le moi , exclusivement attachée à l'observation intérieure, n'avait considéré ces recherches comme choses étrangères, indifférentes à son œuvre, comme des causes de distraction qu'il lui était utile d'ignorer. Les physiciens étant très-loin des phénomènes de conscience et les psychologues tenant à ignorer la matière , quelques physiologistes ont été conduits par leurs expériences au point précis où l'évènement physique et l'évènement mental se touchent : ils ont ainsi fait, quelquefois à leur insu, l'étude des sensations élémentaires. Il est donc juste de rapporter à la psychologie physiologique - qui a ses principaux représentants en Allemagne - le mérite d'avoir inauguré un ordre de recherches dont quelques psychologues contemporains ont tiré bon parti 1. Helmholtz, avant tout, mérite d'être signalé. Ses études sur l'acoustique physiologique, en particulier les expériences par lesquelles il a prouvé que le timbre, cette qualité d'apparence indéfinissable, est dû à[^p370-1]
+[p. 370] Le premier point à signaler est l'étude des éléments de la sensation simple. Les éléments du simple : ceci semble une contradiction . Mais c'est l'un des mérites de la psychologie physiologique d'avoir montré que ce qui est simple pour la conscience est en réalité un composé, une synthèse. Il est vrai que les expériences des physiciens avaient depuis longtemps préparé la voie à cette conclusion ; et elle eût même été tirée plus tôt, si la psychologie renfermée dans le moi , exclusivement attachée à l'observation intérieure, n'avait considéré ces recherches comme choses étrangères, indifférentes à son œuvre, comme des causes de distraction qu'il lui était utile d'ignorer. Les physiciens étant très-loin des phénomènes de conscience et les psychologues tenant à ignorer la matière , quelques physiologistes ont été conduits par leurs expériences au point précis où l'évènement physique et l'évènement mental se touchent : ils ont ainsi fait, quelquefois à leur insu, l'étude des sensations élémentaires. Il est donc juste de rapporter à la psychologie physiologique - qui a ses principaux représentants en Allemagne - le mérite d'avoir inauguré un ordre de recherches dont quelques psychologues contemporains ont tiré bon parti 1. Helmholtz, avant tout, mérite d'être signalé.[^p370-1] Ses études sur l'acoustique physiologique, en particulier les expériences par lesquelles il a prouvé que le timbre, cette qualité d'apparence indéfinissable, est dû à
 
 [p. 371]
 
@@ -4456,7 +4456,7 @@ TH . RIBOт .
 
 des sons complémentaires qui se groupent autour du son fondamental, suivant des rapports déterminés ', montraient dans l'évènement physique, cause immédiate de la sensation, un groupement complexe d'éléments dont chaque variation amène une variation correspondante dans la sensation.
 
-L'état de conscience le plus pauvre , la perception d'un son, d'une couleur ; la sensation la plus simple, c'est-à-dire dépouillée de toute association, de toute localisation, est déjà composée. Un son a sa hauteur, son intensité, son timbre, qui répondent au nombre, à l'amplitude, à la forme des vibrations. Une sensation de couleur répond de même à la vitesse des vibrations de l'éther et à la longueur des ondes. Laissant de côté toute hypothèse sur la transformation du phénomène nerveux en phénomène psychique, pour s'en tenir à une question de fait ; il n'est guère possible de considérer comme simple un état de conscience qui varie au gré de ses conditions immédiates. Si l'impression devient autre , les processus nerveux (probablement les mouvements moléculaires dans les nerfs et les cellules) deviennent autres, et la sensation devient autre . L'expérimentation physiologique, aidée par l'analyse subjective, tend donc à faire entrevoir dans le monde mental quelque chose d'analogue aux atomes dans le monde physique. Sans doute on peut dire que la psychologie n'a pas plus à s'occuper de ces éléments d'éléments que la physique et la chimie n'ont à étudier les atomes ; que c'est une question dernière qui la[^p371-1]
+L'état de conscience le plus pauvre , la perception d'un son, d'une couleur ; la sensation la plus simple, c'est-à-dire dépouillée de toute association, de toute localisation, est déjà composée. Un son a sa hauteur, son intensité, son timbre, qui répondent au nombre, à l'amplitude, à la forme des vibrations. Une sensation de couleur répond de même à la vitesse des vibrations de l'éther et à la longueur des ondes. Laissant de côté toute hypothèse sur la transformation du phénomène nerveux en phénomène psychique, pour s'en tenir à une question de fait ; il n'est guère possible de considérer comme simple un état de conscience qui varie au gré de ses conditions immédiates. Si l'impression devient autre , les processus nerveux (probablement les mouvements moléculaires dans les nerfs et les cellules) deviennent autres, et la sensation devient autre . L'expérimentation physiologique, aidée par l'analyse subjective, tend donc à faire entrevoir dans le monde mental quelque chose d'analogue aux atomes dans le monde physique.[^p371-1] Sans doute on peut dire que la psychologie n'a pas plus à s'occuper de ces éléments d'éléments que la physique et la chimie n'ont à étudier les atomes ; que c'est une question dernière qui la
 
 [p. 372] ramènerait par un détour à la métaphysique ; qu'elle n'a qu'à partir des sensations qui pour elles sont simples, comme les sciences physico-chimiques partent des corps dits simples et de leurs propriétés élémentaires . Les recherches de la psychologie physiologique n'en jettent pas moins quelque jour sur ce laboratoire obscur d'où sort la conscience ; car il n'y a ici que deux hypothèses possibles : ou bien il faut admettre avec Leibniz que, « puisque cent mille riens ne sauraient faire quelque chose » , la sensation dite simple résulte d'une somme d'états élémentaires que leur trop faible intensité ou leur trop faible durée excluent dela conscience ; ou bien il faut admettre que la sensation dite simple résulte d'une synthèse d'éléments hétérogènes et est par rapport à eux comme
 
@@ -4478,7 +4478,7 @@ Pour le toucher et la vue, la partie originale de ses recherches a eu pour objet
 
 : les signes locaux et les mouvements .
 
-L'hypothèse des signes locaux est propre aux psychologues allemands. Nous avons vu que, invariable quant au fond, elle a pris plusieurs formes. Avec Lotze, un peu vague et embarrassée de métaphysique , elle prend un caractère plus précis dans les dernières publications de Wundt, tout en renfermant encore beaucoup d'obscurités. Essentiellement, elle consiste à admettre que chaque élément sensible de la rétine ou de la peau donne à la sensation « une couleur propre » qui permet à un travail ultérieur de l'esprit de[^p373-1]
+L'hypothèse des signes locaux est propre aux psychologues allemands. Nous avons vu que, invariable quant au fond, elle a pris plusieurs formes. Avec Lotze, un peu vague et embarrassée de métaphysique , elle prend un caractère plus précis dans les dernières publications de Wundt, tout en renfermant encore beaucoup d'obscurités. Essentiellement, elle consiste à admettre que chaque élément sensible de la rétine ou de la peau donne à la sensation « une couleur propre »[^p373-1] qui permet à un travail ultérieur de l'esprit de
 
 [p. 374] transformer cette modification qualitative en un rapport de position , par le moyen des mouvements .
 
@@ -4486,7 +4486,7 @@ L'hypothèse des signes locaux est propre aux psychologues allemands. Nous avons
 
 Ces recherches sur la localisation des perceptions tactiles et visuelles ont conduit les psychologues allemands à une question plus haute
 
-quelle est l'origine de la notion d'espace¹ ? Ce problème, qui appartient proprement à la théorie de la connaissance, a été cependant traité par la méthode de la psychologie physiologique, par une confrontation constante de la théorie avec les expériences .
+quelle est l'origine de la notion d'espace[^p374-1] ? Ce problème, qui appartient proprement à la théorie de la connaissance, a été cependant traité par la méthode de la psychologie physiologique, par une confrontation constante de la théorie avec les expériences .
 
 Il y a deux solutions entre lesquelles le débat n'est pas clos .
 
@@ -4494,7 +4494,7 @@ Les nativistes admettent que l'ordre des sensations tactiles et visuelles a sa b
 
 Les empiriques , s'appuyant surtout sur l'influence de l'association et de l'habitude, attribuent le fait de la localisation tactile ou visuelle à l'expérience, en ce qui concerne nonseulement son perfectionnement, mais son origine.
 
-Jusqu'ici , cette dernière hypothèse a toujours gagné du terrain sur l'hypothèse rivale , mais sans pouvoir résoudre toutes les difficultés . - Sous une autre forme, la même en-[^p374-1]
+Jusqu'ici , cette dernière hypothèse a toujours gagné du terrain sur l'hypothèse rivale , mais sans pouvoir résoudre toutes les difficultés . - Sous une autre forme, la même en-
 
 [p. 375]
 
@@ -4572,9 +4572,9 @@ But de l'ouvrage.....
 
 CHAP. I.
 
-LES ORIGINES : HERBART .
+LES ORIGINES : HERBART .[^p379-1]
 
-V[^p379-1]
+V
 
 [p. 380] de Wundt , etc.
 

@@ -3118,7 +3118,7 @@ M. Proudhon me reproche de trahir la liberté, parce que j'admets encore, à l'e
 
 La contradiction pourrait être imputée à M. Proudhon. Il semble l'avouer, sous le nom spécieux d'antinomie, quand il admet l'existence simultanée de la nécessité et de la liberté. A moins cependant qu'il ne fasse à chacune sa part, en les séparant, ce que je crois comprendre. Mais alors la nécessité universelle est niée ; il n'y a plus lieu d'antinomie. Rayons ce mot ; la contradiction qu'il couvre s'évanouira.
 
-La contradiction, je l'avouais aussi, mais en déclarant la question insoluble, à l'époque où je commençais à spéculer sur ces matières (1). Je croyais alors aux antinomies. J'en suis bien rerenu. Car il faut se garder de donner ce nom à de simples oppositions qui ne portanl pas sur un même sujet, au même instant, sous le[^p360-1]
+La contradiction, je l'avouais aussi, mais en déclarant la question insoluble, à l'époque où je commençais à spéculer sur ces matières [^p360-1]. Je croyais alors aux antinomies. J'en suis bien rerenu. Car il faut se garder de donner ce nom à de simples oppositions qui ne portanl pas sur un même sujet, au même instant, sous le
 
 [p. 361] REPONSE A M. PROUDHON.
 
@@ -4794,7 +4794,7 @@ Qu'on ajoute l'adaptation réciproque des fonctions, fins ou moyens les unes des
 
 ce qu'on appelle sa destinée (ou celles des phases de celte destinée qui sont actuellement sensibles).
 
-Des écoles de philosophie ont cru et croient encore pouvoir expliquer, par la simple considération des conditions d'existence, l'harmonie des phénomènes distribués dans le temps et disposés les uns pour les autres. « Si chaque chose qui est n'avait un milieu et des pré« cédents concordants avec sa nature, elle ne serait « point, disent les adversaires des causes finales. Il « n'était donc pas possible qu'on eût à s'étonner jamais « de trouver les choses désharmoniques. Désharmoni• ques partiellement, elles le sont souvent à notre sens. « Totalement, elles ne le sauraient être, à moins de ne « pas être. Pourquoi s'étonner davantage de ce qu'elles « réalisent l'harmonie partielle qui est leur existence • même ? Quelles qu'aient pu être les lois de l'organi« sation, el quelques fonctions qui aient d'abord été « produites, concordantes ou non, et dues à des causes • quelconques, ceux-là seulement des effets de ces[^p568-1]
+Des écoles de philosophie ont cru et croient encore pouvoir expliquer, par la simple considération des conditions d'existence, l'harmonie des phénomènes distribués dans le temps et disposés les uns pour les autres. « Si chaque chose qui est n'avait un milieu et des pré« cédents concordants avec sa nature, elle ne serait « point, disent les adversaires des causes finales. Il « n'était donc pas possible qu'on eût à s'étonner jamais « de trouver les choses désharmoniques. Désharmoni• ques partiellement, elles le sont souvent à notre sens. « Totalement, elles ne le sauraient être, à moins de ne « pas être. Pourquoi s'étonner davantage de ce qu'elles « réalisent l'harmonie partielle qui est leur existence • même ?[^p568-1] Quelles qu'aient pu être les lois de l'organi« sation, el quelques fonctions qui aient d'abord été « produites, concordantes ou non, et dues à des causes • quelconques, ceux-là seulement des effets de ces
 
 [p. 569] DE LA FINALITE COMME DONNEE GENERALE. 574 sité aveugle, ou si le hasard, comme on dit, ont engendré des groupes et des suiles de phénomènes concordants et non concordants, possibles, impossibles, éphémères, persistants, desquels il ne resterait devant nous observateurs que ceux que des influences conservatrices protégèrent suffisamment contre des actions destructives. Il ne s'agit pas davantage de rechercher quelle notion claire on peut se former d'une cause efficiente naturelle plutôt que d'une cause finale. Laissons ces spéculations ténébreuses et adressons-nous aux philosophes qui ont su s'en affranchir. Pour eux, qui ne croient point saisir les causes premières, ni rendre raison du grand fait de l'univers, pour eux comme pour nous, l'ordre doit être avant tout une donnée, l'harmonie doit être le fail capital, essentiel de ce grand fait ;
 
@@ -4810,13 +4810,13 @@ Si le fait de finalité est décidément une donnée positive des choses et un m
 
 Descendons de ces hautes généralités à d'autres plus accessibles. La finalité s'impose inévitablement à l'observateur, et la théorie des conditions d'existence s'é vanouit à ses yeux quand il porte son attention sur l'ordre des instincts el des passions de l'animalité. Cet ordre est la finalité même. Il ne s'agit point, pour qui le considère, de l'arrangement matériel, mécanique, physique ou même organique qui enchaine harmoniquement les phénomènes. Il s'agil des sentiments internes qui représentent, produisent, assurent dans chacun des êtres ce même arrangement dont tout le reste des harmonies naturelles n'est que la forme extérieure. Un grand physiologiste a trouvé plus vraisemblable de placer la cause de l'organisation elle-même, que dis-je ?
 
-celle de l'attraction et des affinités, dans la sensibilité d son degré le plus faible, que de ranger la sensibilité sous les lois physiques. En signalant ces forces motrices dont il aperçoit le siége dans la sensibilité, ces forces « qui non-seulement tiennent toules les parties de la « matière dans une activité continuelle, mais par l'effel[^p571-1]
+celle de l'attraction et des affinités, dans la sensibilité d son degré le plus faible, que de ranger la sensibilité sous les lois physiques.[^p571-1] En signalant ces forces motrices dont il aperçoit le siége dans la sensibilité, ces forces « qui non-seulement tiennent toules les parties de la « matière dans une activité continuelle, mais par l'effel
 
 [p. 572] 574 DE LA FINALITE DANS LE REGNE ANIMAL.
 
 tendances (I). Ne parlons pas maintenant de celle vie presque latente et de ces passions ubscures, mais progressivement manifeslées dans la marche cosmique des règnes organiques, ainsi que par l'échelle des êtres soumis à notre invesligation ; mais prenons les animaux parvenus à un complet développement d'organes, et voyons la finalité travailler dans leurs consciences.
 
-Elle agit d'abord sans réflexion, sans discernement, et d'une manière d'autant plus indubitable pour nous qui jugeons par des effets constants de l'invariable ins tinct auquel ils sont dûs. Ce monde si vaste des instincts, où nous-mêmes nous plongeons par une grande et indispensable parlie des mobiles de nos actes, se compose d'une harmonie de moyens et de fins ordinairement successives et enchainées, et dont chaque élat de conscience témoigne, quelque peu réfléchi que cet élat puisse être, dès-lors qu'il se détermine pour les poursuivre. Je ne m'obligerai pas ici, non plus que je ne l'ai fait ci-dessus en signalant l'ordre le plus général des fins de la nature, à tracer un tableau familier à toutes les intelligences, quoique trop peu complé par les philosophes : celui des affections ou passions instinctives qui président à la conservation, à la vie active el à la propagation des a rimaux de tous les genres. Les arts de la constructica et de la chasse, les habitudes singulièrement constantes des individus de chaque espèce, nous offrent un nombre indéfini d'appli-[^p572-1]
+Elle agit d'abord sans réflexion, sans discernement, et d'une manière d'autant plus indubitable pour nous qui jugeons par des effets constants de l'invariable ins tinct auquel ils sont dûs. Ce monde si vaste des instincts, où nous-mêmes nous plongeons par une grande et indispensable parlie des mobiles de nos actes, se compose d'une harmonie de moyens et de fins ordinairement successives et enchainées, et dont chaque élat de conscience témoigne, quelque peu réfléchi que cet élat puisse être, dès-lors qu'il se détermine pour les poursuivre. Je ne m'obligerai pas ici, non plus que je ne l'ai fait ci-dessus en signalant l'ordre le plus général des fins de la nature, à tracer un tableau familier à toutes les intelligences, quoique trop peu complé par les philosophes : celui des affections ou passions instinctives qui président à la conservation, à la vie active el à la propagation des a rimaux de tous les genres.[^p572-1] Les arts de la constructica et de la chasse, les habitudes singulièrement constantes des individus de chaque espèce, nous offrent un nombre indéfini d'appli-
 
 [p. 573] DE LA PINALITÉ DANS LE REGNE ANIMAL.
 
@@ -4942,7 +4942,7 @@ Mais comment l'union du bonheur et de la vertu estelle possible ? se demande le 
 
 Mais cette dernière proposition n'étant connue pour [p. 592] 594 L'IMMORTALITE SELON LA RAISON PRATIQUE DE KANT. vraie qu'actuellement, immédiatement, l'antinomie peut etre résolue, dit Kant, par la supposition que le bonheur serait la conséquence de la vertu, postérieurement el médiatement, et cela dans l'hypothèse de l'existence d'un auteur intelligible de la nature. Le souverain bien serait alors la vertu, cause du souverain bien dans un ordre de choses différent du monde sensible et phéC'est ici que reparaissent les êtres en soi, les hypothèses dont la science a rejeté l'objet comme inconnaissable, hypothèses plus qu'inutiles à la science par conséquent, el inutiles encore au but de la raison pratique, ainsi qu'on va le voir.
 
-La conscience qui reconnait, sans sortir de l'expérience possible, mais par une simple généralisation des phénomènes, l'existence d'un ordre, d'une loi constante qui dispose dans le temps les fins et les moyens des êtres, ne peut elle, sous les mêmes conditions, se porter à l'hypothèse d'une loi naturelle qui garantisse aussi les fins propres des êtres raisonnables ? Ajouter à la supposition d'un lien médiat entre la vertu el le bonheur, l'hypothèse d'un auteur intelligible de la nature. n'est-ce pas dépasser le but qu'on se propose, quand il n'y a rien d'impossible (nous le prouverons) à envisager ce lien médiat comme naturel aussi et comme vérifiable dans un ordre d'expériences futures. N'est-ce pas compromettre la vérité qu'on veut atteindre (le fait même l'a prouvé), que de la transporter dans ce règne[^p592-1]
+La conscience qui reconnait, sans sortir de l'expérience possible, mais par une simple généralisation des phénomènes, l'existence d'un ordre, d'une loi constante qui dispose dans le temps les fins et les moyens des êtres, ne peut elle, sous les mêmes conditions, se porter à l'hypothèse d'une loi naturelle qui garantisse aussi les fins propres des êtres raisonnables ? Ajouter à la supposition d'un lien médiat entre la vertu el le bonheur, l'hypothèse d'un auteur intelligible de la nature. n'est-ce pas dépasser le but qu'on se propose, quand il n'y a rien d'impossible (nous le prouverons) à envisager ce lien médiat comme naturel aussi et comme vérifiable dans un ordre d'expériences futures.[^p592-1] N'est-ce pas compromettre la vérité qu'on veut atteindre (le fait même l'a prouvé), que de la transporter dans ce règne
 
 [p. 593] L'IMMORTALITE SRLON LA BAISON PRATIQUE DE KANT. 595 intelligible où la spéculation n'a jamais placé que choses incompréhensibles, lois dont tous les éléments échappent à l'entendement ? Enfin, s'il n'est pas démontré, et il ne l'est pas, et la possibilité contraire peut l'être, que le lien du bonheur et de la vertu, garant du sourerain bien, n'est nullement concevable dans le monde sensible et phénoménal, étendu autant qu'il le faut dans l'ordre latent et dans l'ordre futur de l'expérience possible, le moraliste qui nous leurre d'un ordre de choses différent ne va-t-il pas perdre la morale dans les chimères d'une métaphysique dont lui-même nous apprit jadis à sonder la vacuité profonde ?
 
@@ -5630,7 +5630,7 @@ lème de l'unité causale, — Doctrines dualistes. — Animisme. —
 
 Monadologie. — Physiologie du monadisme. — Vilalisme. — De
 
-la cause finale en physiologie. — Métbode d'Aristote.[^p689-1][^p689-2]
+la cause finale en physiologie. — Métbode d'Aristote.[^p689-2][^p689-1]
 
 [p. 690] TABLE
 
@@ -5650,7 +5650,7 @@ i. Sulte. — La raison, les signes, le langage .
 
 8. Suite. — La passion, l'instinet, P'habitude.. . . • 189 L'activité et la passivité dans la passion. — L'instinct. - L'babilude.
 
-- Nature, instinct, babitude. — Lois de l'habitude.[^p690-1][^p690-2]
+- Nature, instinct, babitude. — Lois de l'habitude.[^p690-2][^p690-1]
 
 [p. 691] DES MATIÈRES.
 
@@ -5674,7 +5674,7 @@ DEUXIEME PARTIE. LA CERTITUDE.
 
 § 14. Définitlon générale de la certitade dans une con belence donnée . . . . . .
 
-• • 371 Certitado, incertitude, croyance. — Caracières du doule ; éléments de la certitude. — Indissolubilité des trois éléments. — Élément volontaire. — Élément passionnel. — Doute, croyance, certitude morale.[^p691-1][^p691-2]
+• • 371 Certitado, incertitude, croyance. — Caracières du doule ; éléments de la certitude. — Indissolubilité des trois éléments. — Élément volontaire. — Élément passionnel. — Doute, croyance, certitude morale.[^p691-2][^p691-1]
 
 [p. 692] TABLE
 

@@ -32,7 +32,7 @@ Pour le médecin une telle publication eut été non moins importante . En effet
 
 Aussi l'idée d'écrire une monographie des nerfs du cœur me séduisait- elle déjà en 1870. Mais d'autres travaux d'ensemble , la publication en russe d'un traité de physiologie qui manquait aux étudiants de nos facultés, et surtout la tâche entreprise de codifier les méthodes exactes de l'expérimentation physiologique ' m'ont obligé, malgré les encouragements de mes collègues et les sollicitations des éditeurs, à remettre cet ouvrage à une époque indéterminée .
 
-En paraissant trente-cinq ans plus tard, le livre répond-il à des besoins aussi pressants ? Pour les physiologistes la question ne saurait être douteuse. La physiologie de la circulation s'est enrichie depuis d'innombrables recherches , dont plusieurs ont notablement élargi nos connaissances des fonctions du système nerveux cardiaque et vaso-moteur. D'autre part, certaines recherches , exécutées avec des méthodes moins rigoureuses , et dans un esprit d'innovation assez aventureux, ont abouti à créer dans ce domaine une confusion regrettable, qui , aux yeux des non-initiés , ont paru ébranler les bases mêmes sur[^pVI-1]
+En paraissant trente-cinq ans plus tard, le livre répond-il à des besoins aussi pressants ? Pour les physiologistes la question ne saurait être douteuse. La physiologie de la circulation s'est enrichie depuis d'innombrables recherches , dont plusieurs ont notablement élargi nos connaissances des fonctions du système nerveux cardiaque et vaso-moteur.[^pVI-1] D'autre part, certaines recherches , exécutées avec des méthodes moins rigoureuses , et dans un esprit d'innovation assez aventureux, ont abouti à créer dans ce domaine une confusion regrettable, qui , aux yeux des non-initiés , ont paru ébranler les bases mêmes sur
 
 [p. VII] lesquelles les maîtres de notre science avaient établi cette branche de la physiologie .
 
@@ -98,7 +98,7 @@ Tout autre est la situation partout ailleurs, en Europe et aux États-Unis ; les
 
 L'Université de Kolòszwar (Hongrie) vient de s'enrichir d'un nouveau laboratoire parfaitement installé et richement pourvu ; à Vienne on doit inaugurer un nouvel Institut de physiologie qui dépasse en grandeur et en outillage tous les autres . Grâce à Mosso l'Italie vient de créer sur le Monte-Rosa, à 4000 mètres d'altitude , un laboratoire de recherches physiologiques dont profiteront les savants de tous les pays. Et pendant ce temps les physiologistes français n'osent mème pas inviter le congrès de physiologistes en France , faute d'un laboratoire digne de les recevoir, d'un outillage indispensable pour permettre à leurs collègues de faire des démonstrations de leurs nouvelles découvertes !
 
-L'enseignement de la physiologie dans l'Institut de la faculté de médecine à Berlin est dirigé par le titulaire de la chaire et par quatre professeurs extraordinaires, dont chacun dispose d'un laboratoire spécialement destiné , l'un aux organes de sens , les autres à la chimie physiologique, à l'histologie et au système nerveux et chacune dispose d'un personnel d'aides -assistants . La Faculté de Paris pour un nombre d'étudiants bien plus considérable 2 ne possède qu'un titulaire de chaire, un agrégé et un[^pXIII-2]
+L'enseignement de la physiologie dans l'Institut de la faculté de médecine à Berlin est dirigé par le titulaire de la chaire et par quatre professeurs extraordinaires, dont chacun dispose d'un laboratoire spécialement destiné , l'un aux organes de sens , les autres à la chimie physiologique, à l'histologie et au système nerveux et chacune dispose d'un personnel d'aides -assistants .[^pXIII-2] La Faculté de Paris pour un nombre d'étudiants bien plus considérable 2 ne possède qu'un titulaire de chaire, un agrégé et un
 
 [p. XIV] chef de travaux pratiques, mais pas de laboratoire vraiment digne de ce nom, qui soit adapté à l'enseignement et aux exercices des élèves .
 
@@ -140,9 +140,9 @@ Il commence par énumérer les innombrables désharmonies 2 de l'appareil digest
 
 Après avoir exposé les défectuosités de la peau humaine, qui « est exposée au contact des microbes » , des poils,
 
-« premier exemple d'un organisme désharmonique » (79), incapables de protéger la peau contre le refroidissement,
+« premier exemple d'un organisme désharmonique »[^pXVI-2][^pXVI-1] (79), incapables de protéger la peau contre le refroidissement,
 
-l'auteur trouve « qu'à la rigueur l'homme pourrait se passer de dents >>> qui , sans être aussi nuisibles que la peau et les poils , se trou[^pXVI-1][^pXVI-2]
+l'auteur trouve « qu'à la rigueur l'homme pourrait se passer de dents >>> qui , sans être aussi nuisibles que la peau et les poils , se trou
 
 [p. XVII] vent pourtant en désharmonie avec les « besoins fondamentaux de notre espèce >> (80). Mais ce sont surtout les organes de notre appareil digestif qui le désolent... « L'appendice cæcal avec le cacum, mais même tout le gros intestin de l'homme est un organe superflu de notre organisme, dont la suppression pourrait amener des résultats très heureux » (89) .
 
@@ -194,7 +194,7 @@ Si , en général , l'organisme humain est d'une désharmonie déplorable , l'ho
 
 « le dernier mot de la création » . Ce sont les globules blancs ou leucocytes .
 
-« Ces éléments guidés par leur sensibilité font la chasse aux innombrables » microbes qui pénètrent dans notre organisme, mais « cette sensibilité leuco[^pXX-3]
+« Ces éléments guidés par leur sensibilité font la chasse aux innombrables »[^pXX-3] microbes qui pénètrent dans notre organisme, mais « cette sensibilité leuco
 
 [p. XXI] cytaire ne se révèle à nous par aucun acte de conscience » . Car telle est l'obtusité de cette conscience humaine, qu'elle est incapable de percevoir même « les sensations particulières des spermies et des ovules » (209) !
 
@@ -903,7 +903,7 @@ cette manière de voir . Instituées dans le but général d'étudier le mécani
 
 LUCIANI lui-même , dans son premier travail, inclinait déjà à considérer la présence de l'oxygène comme indispensable
 
-à l'étude de l'excitation normale des ganglions du cœur. En 1879[^p29-1]
+à l'étude de l'excitation normale des ganglions du cœur.[^p29-1] En 1879
 
 [p. 30] Tout récemment, W. T. PORTER , dans une communication faite au Congrès physiologique de Cambridge en août 1898, affirmait que le cœur des mammifères et même que certaines parties de ce cœur peuvent continuer leurs contractions si on leur fournit du sérum sous une pression basse, à condition qu'ils restent entourés d'oxygène à haute tension (Voir plus haut une expérience analogue de Crox). Les conclusions des expériences de Crox sur le cœur des vertébrés à sang froid sont done valables également pour le cour des mammifères . Aussi bien OEHRWALL que PORTER diffèrent de Cron en ce qu'ils considèrent à tort l'oxygène également nécessaire pour l'accomplissement du travail du muscle cardiaque . Nous revenons plus loin sur cette question importante .
 
@@ -1632,7 +1632,7 @@ BATTEMENTS
 
 DU CŒUR .
 
-Les deux pneumogastriques exercent-ils une action de force égale sur les contractions du cœur ? Il est très rare que chez le même animal l'excitation des pneumogastriques des deux côtés produise des ralentissements tout à fait égaux . D'ordinaire un pneumogastrique est moins excitable que l'autre . A. B. MEYER[^p64-1]
+Les deux pneumogastriques exercent-ils une action de force égale sur les contractions du cœur ? Il est très rare que chez le même animal l'excitation des pneumogastriques des deux côtés produise des ralentissements tout à fait égaux . D'ordinaire un pneumogastrique est moins excitable que l'autre . A. B.[^p64-1] MEYER
 
 [p. 65] SYSTÈME NERVEUX EXTRACARDIAQUE . NERFS CENTRIFUGES notables entre l'action des deux nerfs pneumogastriques dont l'un est souvent plus puissant que l'autre. Il est donc probable que la distribution des fibres modératrices n'est pas toujours la même dans les pneumogastriques , les variations anatomiques dans la disposition des nerfs cardiaques sont, d'ailleurs , très nombreuses. Mais c'est à tort qu'on cherche à attribuer une prépondérance constante au pneumogastrique d'un certain côté . La preuve en est dans les opinions divergentes des observateurs , dont les uns accordent cette prépondérance au nerf situé à droite,
 
@@ -1672,7 +1672,7 @@ Ici la quantité de sang que le ventricule peut projeter dans l'aorte dépend , 
 
 Les lois de l'uniformité du travail et du rythme du cœur (MAREY) , de la conservation de la période de l'excitation physiologique (ENGELMANN) et de la conservation du travail du cœur (LANGENDORFF) , ne sont en réalité que des expressions particulières de la loi plus générale déjà formulée antérieurement par CYON (24) . (Voir plus haut, p. 22.) Appliquée aux nerfs extracardiaques, la loi de Cron est une nouvelle preuve éclatante que les phénomènes qui ont amené plus tard MAREY, ENGELMANN et LANGENDORFF à formuler leurs lois, sont en réalité des phénomènes nerveux , comme l'avaient soutenu DASTRE, GLEY . KAISER et LANGENDORFF lui-même dans ses premières recherches 1.
 
-Malgré une si éclatante confirmation de cette loi , malgré sa parfaite concordance avec les conditions mécaniques du travail du cœur, il s'en faut de beaucoup que les physiologistes soient d'accord sur l'influence que l'excitation des pneumogastriques exerce sur la force des contractions . La raison principale de ce[^p67-1]
+Malgré une si éclatante confirmation de cette loi , malgré sa parfaite concordance avec les conditions mécaniques du travail du cœur, il s'en faut de beaucoup que les physiologistes soient d'accord sur l'influence que l'excitation des pneumogastriques exerce sur la force des contractions .[^p67-1] La raison principale de ce
 
 [p. 68] désaccord doit
 
@@ -1730,9 +1730,9 @@ rendent au cœur. Il cite , en outre , les observations où l'excitation des pne
 
 FIG . 15.
 
-Pulsations ralenties et renforcées par suite de l'excitation du pneumogastrique avec baisse à peine perceptible de la pression sanguine chez un chien (*Ibidem*).
+Pulsations ralenties et renforcées par suite de l'excitation du pneumogastrique avec baisse à peine perceptible de la pression sanguine chez un chien (*Ibidem*).[^p70-1]
 
-excursions , quoique la pression sanguine reste sans changement ou même soit considérablement augmentée, comme , par[^p70-1]
+excursions , quoique la pression sanguine reste sans changement ou même soit considérablement augmentée, comme , par
 
 [p. 71] exemple , après l'ablation des thyroïdes , on après l'injection de substances qui augmentent la pression sanguine, ou même simplement lorsque la compression de l'aorte augmente d'ellemême la pression sanguine et excite les pneumogastriques (fig. 15).
 
@@ -1918,11 +1918,11 @@ Dans ses expériences sur les accélérateurs de la grenouille , SCHMIEDEBERG
 
 (128) est arrivé à une conclusion identique . BOEHM (81), qui a donné la disposition des nerfs accélérateurs chez le chat , observa, lui aussi, que la force des contractions
 
-[p. 85] SYSTÈME NERVEUX EXTRACARDIAQUE . NERFS CENTRIFUGES cardiaques diminué avec l'augmentation de leur fréquence . De même BOWDITCH (129), dans son travail sur les interférences entre les accélérateurs et les pneumogastriques . Il a pu observer plusieurs fois une élévation de la pression sanguine en même temps que l'accélération sanguine des battements ducœur. Mais lui-même a soin de faire remarquer qu'il n'existe aucune concordance entre ces deux phénomènes et qu'ils tiennent évidemment, comme l'affirmait déjà SCHMIEDEBERG, à la présence de deux sortes de fibres nerveuses dans les nerfs soumis à l'excitation : l'une de ces fibres agit sur la pression sans influencer la fréquence , tandis que l'autre, au contraire, modifie le nombre des pulsations et reste sans effet sur la pression. Les graphiques que BOWDITCH reproduit à l'appui de cette conjecture la rendent éminemment vraisemblable . Rappelons que déjà, dans son premier travail sur les accélérateurs en 1866 , CYON avait constaté dans l'anse de VIEUSSENS la présence de purs vaso-constricteurs , sans effet aucun sur la fréquence des battements du cœur. Or le nerf que SCHMIEDEBERG reproduit dans son tableau des nerfs cardiaques, comme étant celui qu'il avait soumis à l'excitation , est justement une branche de cette anse . Ajoutons que , chez son chien, cette branche , par une disposition très exceptionnelle , se détache directement de l'anse . Le plus souvent elle provient directement du pneumogastrique , après son passage par le ganglion cervical inférieur.
+[p. 85] SYSTÈME NERVEUX EXTRACARDIAQUE . NERFS CENTRIFUGES cardiaques diminué avec l'augmentation de leur fréquence . De même BOWDITCH (129), dans son travail sur les interférences entre les accélérateurs et les pneumogastriques . Il a pu observer plusieurs fois une élévation de la pression sanguine en même temps que l'accélération sanguine des battements ducœur. Mais lui-même a soin de faire remarquer qu'il n'existe aucune concordance entre ces deux phénomènes et qu'ils tiennent évidemment, comme l'affirmait déjà SCHMIEDEBERG, à la présence de deux sortes de fibres nerveuses dans les nerfs soumis à l'excitation : l'une de ces fibres agit sur la pression sans influencer la fréquence , tandis que l'autre, au contraire, modifie le nombre des pulsations et reste sans effet sur la pression. Les graphiques que BOWDITCH reproduit à l'appui de cette conjecture la rendent éminemment vraisemblable . Rappelons que déjà, dans son premier travail sur les accélérateurs en 1866 , CYON avait constaté dans l'anse de VIEUSSENS la présence de purs vaso-constricteurs , sans effet aucun sur la fréquence des battements du cœur. Or le nerf que SCHMIEDEBERG reproduit dans son tableau des nerfs cardiaques, comme étant celui qu'il avait soumis à l'excitation , est justement une branche de cette anse . Ajoutons que , chez son chien, cette branche , par une disposition très exceptionnelle , se détache directement de l'anse . Le plus souvent elle provient directement du pneumogastrique , après son passage par le ganglion cervical inférieur.[^p85-1]
 
 Un autre élève de LUDWIG, BAXT (130), a poursuivi les études commencées par BOWDITCH ; il est d'accord avec ses prédécesseurs
 
-Il est vrai que d'autres observateurs, HEIDENHAIN ( 117) , GASKELL[^p85-1]
+Il est vrai que d'autres observateurs, HEIDENHAIN ( 117) , GASKELL
 
 [p. 86] n'existait aucun rapport entre cette augmentation et les variations dans la fréquence des battements du cœur. Souvent même la première se produisait sans aucune accélération . Mêmes observations chez BAYLISS
 
@@ -1954,7 +1954,7 @@ Il résulte encore d'une autre observation de ROY et ADAMI que souvent , dans le
 
 [p. 87] SYSTÈME NERVEUX EXTRACARDIAQUE . NERFS CENTRIFUGES les pneumogastriques avaient été coupés dès le début . BezZOLD , LUDWIG et THIRY agissaient, d'ailleurs, de même dans leurs recherches antérieures relativement à l'influence de la moelle épinière sur le cœur.
 
-Tout ce qui précède se rapporte uniquement aux nerfs accélérateurs des mammifères . Cheż les vertébrés à sang froid l'existence de ces nerfs fut pour la première fois affirmée par SCHMIEDEBERG (128) . Après avoir, à l'aide de l'atropine, paralysé chez les grenouilles les nerfs inhibitoires du pneumogastrique , il constata que l'excitation de ce dernier ne provoquait plus qu'une accélération des battements du cœur. Déjà précédemment WUNDT (136) avait fait une observation analogue : quand de fortes doses de curare ont supprimé l'action modératrice des pneumogastriques , on obtient en les excitant une accélération des battements . Bientôt SCHELSKE (91 ) publia une autre observation paraissant se rapporter au même phénomène : quand le cœur s'est arrêté par suite d'une élévation de la température à 35 ° et au delà , l'irritation du pneumogastrique à l'aide de l'électricité produit des contractions cardiaques . Ce fait, révoqué en doute par plusieurs autres observateurs, fut pleinement confirmé par CYON[^p87-1]
+Tout ce qui précède se rapporte uniquement aux nerfs accélérateurs des mammifères . Cheż les vertébrés à sang froid l'existence de ces nerfs fut pour la première fois affirmée par SCHMIEDEBERG (128) . Après avoir, à l'aide de l'atropine, paralysé chez les grenouilles les nerfs inhibitoires du pneumogastrique , il constata que l'excitation de ce dernier ne provoquait plus qu'une accélération des battements du cœur. Déjà précédemment WUNDT (136) avait fait une observation analogue : quand de fortes doses de curare ont supprimé l'action modératrice des pneumogastriques , on obtient en les excitant une accélération des battements . Bientôt SCHELSKE (91 ) publia une autre observation paraissant se rapporter au même phénomène : quand le cœur s'est arrêté par suite d'une élévation de la température à 35 ° et au delà , l'irritation du pneumogastrique à l'aide de l'électricité produit des contractions cardiaques .[^p87-1] Ce fait, révoqué en doute par plusieurs autres observateurs, fut pleinement confirmé par CYON
 
 [p. 88] a été prouvé, toutefois , par des expériences ultérieures que l'explication de SCHMIEDEBERG était exacte et que les nerfs pneumogastriques chez les vertébrés à sang froid contiennent réellement des nerfs accélérateurs . HEIDENHAIN (117), et après lui GASKELL (13[^p88-1] , ont montré que les fibres accélératrices du pneumogastrique des grenouilles dérivent du sympathique et le rejoignent à leur sortie du cerveau . Peu après, GASKELL et GADOW (138) étudièrent les nerfs accélérateurs chez les tortues , les crocodiles , les alligators et autres vertébrés à sang froid . « Ces nerfs cardiaques, qui visiblement accélèrent le rythme des battements et augmentent la force des contractions, ont le même parcours chez tous les vertébrés à sang froid examinés jusqu'à présent » , disent ces auteurs
 
@@ -2444,7 +2444,7 @@ il faudrait déterminer nettement l'origine et la position exacte du nerf. A une
 
 ils détruisent aussi très probablement le nerf dépresseur, c'est-à- dire qu'ils privent le cœur de son principal appareil préservateur et le reste de l'organisme d'un important régulateur de la circulation .
 
-Parmi les vertébrés à sang froid, c'est surtout chez les tortues qu'a été observée la présence du dépresseur . Gaskell et GADOW[^p105-1]
+Parmi les vertébrés à sang froid, c'est surtout chez les tortues qu'a été observée la présence du dépresseur .[^p105-1] Gaskell et GADOW
 
 [p. 106]
 
@@ -2686,13 +2686,13 @@ Ainsi donc les tentatives d'expliquer l'action du dépresseur [p. 124] par une e
 
 elle se
 
-manifeste aussitôt après l'excitation. » La même observation a été faite par tous les physiologistes qui ont eu l'occasion d'étudier l'action de ces nerfs . Or celle du dépresseur est très longue et persistante . BAYLISS[^p124-1]
+manifeste aussitôt après l'excitation. » La même observation a été faite par tous les physiologistes qui ont eu l'occasion d'étudier l'action de ces nerfs . Or celle du dépresseur est très longue et persistante .[^p124-1] BAYLISS
 
 [p. 125] exemple , GLEY et CHARRIN (186), au cours de leurs intéressantes recherches , sur l'action des produits sécrétés par le bacille pyogénique sur le système nerveux vaso-moteur , ont observé que l'injection de 10 à 20 c. c. de la solution d'une culture filtrée détermine une grande diminution de l'excitabilité du dépresseur. Ayant en même temps constaté que les réflexes vaso- constricteurs n'étaient point affaiblis , ces auteurs ont conclu de leur observation sur le dépresseur que ce nerf agissait sur les vasodilatateurs . Cette conclusion n'est nullement forcée : presque toujours , en effet, quand l'action des centres vaso-constricteurs est très accentuée, comme , par exemple, dans l'asphyxie, celle des dépresseurs est diminuée, et cela par la simple raison que ces nerfs ont à vaincre des résistances plus considérables .
 
 GLEY et CHARRIN ont d'ailleurs fait une autre observation qui indique clairement qu'il s'agissait bien d'une action inhibitrice du dépresseur. En effet, en même temps qu'ils voyaient diminuer l'excitabilité de ce nerf, ils ont pu constater que l'irritation du bout central du nerf auriculaire-cervical perdait aussi beaucoup de son efficacité sous l'influence des produits sécrétés par le bacille pyogénique . Or, comme cette vaso- dilatation est provoquée par un acte inhibitoire, nous avons donc là le même effet que sur le dépresseur .
 
-Bien plus , MORAT et DOYON (187), qui ont pu confirmer l'observation faite par GLEY et CHARRIN sur le dépresseur, ont constaté que l'excitabilité des pneumogastriques diminue , elle aussi , sous la même influence. Nous nous trouvons donc ici en face du même phénomène que nous avons exposé longuement dans le chapitre relatif aux poisons physiologiques du carur[^p125-1]
+Bien plus , MORAT et DOYON (187), qui ont pu confirmer l'observation faite par GLEY et CHARRIN sur le dépresseur, ont constaté que l'excitabilité des pneumogastriques diminue , elle aussi , sous la même influence.[^p125-1] Nous nous trouvons donc ici en face du même phénomène que nous avons exposé longuement dans le chapitre relatif aux poisons physiologiques du carur
 
 [p. 126] (188) ou la suprarenine (FURTH) agit sur les mêmes nerfs dans un sens diamétralement opposé. La thyroïdectomie en privant l'organisme de l'iodothyrine et peut-être aussi en accumulant de l'iode dans le sang (BARBÈRA, 121) , exerce sur les nerfs dépresseurs et pneumogastriques une dimiution de l'excitabilité .
 
@@ -4006,7 +4006,7 @@ aussi 52 .
 
 26. LUCIANI , Eine periodische Function des isolirten Froschherzens . A. L. L. , 1872.
 
-27. ROSSBACH , Ueber die Umwandlung der periodisch aussetzenden Schlagfolge, etc. A. L. L. , 1874 .[^p244-1][^p244-2][^p244-3][^p244-4][^p244-5][^p244-6][^p244-7][^p244-8][^p244-9][^p244-10][^p244-11][^p244-12]
+27. ROSSBACH , Ueber die Umwandlung der periodisch aussetzenden Schlagfolge, etc. A. L. L. , 1874 .[^p244-12][^p244-11][^p244-10][^p244-9][^p244-8][^p244-7][^p244-6][^p244-5][^p244-4][^p244-3][^p244-2][^p244-1]
 
 [p. 245] Suppl . , 1883. - 49. TIGERSTEDT . A. f. P. , Suppl . , 1884.
 
@@ -4128,7 +4128,7 @@ R. , 1898 .
 
 123. CYON (E. ) , Les glandes thyroïdes, l'hypophyse et le cœur. A. P. , 1898.
 
-124. CYON (E.) et ALADOFF, Bull. de l'Ac . des Sc . de Saint -Pétersbourg, 1871 ; 52. Berlin, 1888 . LXVIII .[^p246-1][^p246-2][^p246-3][^p246-4][^p246-5][^p246-6]
+124. CYON (E.) et ALADOFF, Bull. de l'Ac . des Sc . de Saint -Pétersbourg, 1871 ; 52. Berlin, 1888 . LXVIII .[^p246-6][^p246-5][^p246-4][^p246-3][^p246-2][^p246-1]
 
 [p. 247] 132. CYON ( E. ) , Die physiologischen Herzgifte, 4 Theil. A. g . P. , LXXVII , 1899.
 
@@ -4320,7 +4320,7 @@ B. B. Paris, 1859.
 
 223. BERNSTEIN . A. f. P. , 1864, 650-666 . -
 
-224. HERING ( H.E.), Ueber die Beziehung der extracardialen Herznerven zur Steigerung der Herzschlagzahl bei Muskeltätigkeit. A. g . P., LX, 1895 .[^p249-1][^p249-2][^p249-3][^p249-4][^p249-5][^p249-6]
+224. HERING ( H.E.), Ueber die Beziehung der extracardialen Herznerven zur Steigerung der Herzschlagzahl bei Muskeltätigkeit. A. g . P., LX, 1895 .[^p249-6][^p249-5][^p249-4][^p249-3][^p249-2][^p249-1]
 
 [p. 250] vol . 183. - 231. CYON, Ueber die Phys . Bestimmung der wirksamen Substanz der Nebennieren . A. g . P. , vol . LXXII, 1898.
 
@@ -4366,7 +4366,7 @@ P., 1877, 525 .
 
 Wiener med.
 
-Wochenschrift, 1896 , nºs 6 et 7. — 247. VELICH , Ueber die Wirkung des Nebennierensaftes auf d. Blutkreislauf ( Wien . med . Blätter, 1896 , nºs 16 et 21 ) .[^p250-1][^p250-2][^p250-3][^p250-4][^p250-5][^p250-6][^p250-7][^p250-8][^p250-9][^p250-10][^p250-11][^p250-12][^p250-13]
+Wochenschrift, 1896 , nºs 6 et 7. — 247. VELICH , Ueber die Wirkung des Nebennierensaftes auf d. Blutkreislauf ( Wien . med . Blätter, 1896 , nºs 16 et 21 ) .[^p250-13][^p250-12][^p250-11][^p250-10][^p250-9][^p250-8][^p250-7][^p250-6][^p250-5][^p250-4][^p250-3][^p250-2][^p250-1]
 
 [p. 251] Leçons sur les phénomènes de la vie, 1878, I, 151.
 
@@ -4392,7 +4392,7 @@ eb . d . Ver . und Bedeutung des Herznerven ( Zeitschrift f. Biologie, vol . XXX
 
 277. REMAK , Ueber die Zusammenziehung der Muskelprimitivbündel (Arch . J. Müller, 1843, 182).
 
-278. SCHIFF , Der Modus der Herzbewegung (Arch . f. phys . Heilkunde, X Jahrg . , 1850) .[^p251-1][^p251-2][^p251-3][^p251-4][^p251-5][^p251-6][^p251-7][^p251-8][^p251-9][^p251-10]
+278. SCHIFF , Der Modus der Herzbewegung (Arch . f. phys . Heilkunde, X Jahrg . , 1850) .[^p251-10][^p251-9][^p251-8][^p251-7][^p251-6][^p251-5][^p251-4][^p251-3][^p251-2][^p251-1]
 
 [p. 252] LXXX, 1900. — 293. SCHÜKING , Ueber die erholende Wirkung von Alkalisaccharat-und Alkalifruktosatlösungen auf isolirte Herzen , A. f. P. Suppl . mentband, 1901.
 
@@ -4422,7 +4422,7 @@ SYSTÈME NERVEUX INTRACARDIAQUE
 
 10
 
-ganglions intra cardiaques .[^p253-1][^p253-2][^p253-3][^p253-4][^p253-5][^p253-6][^p253-7][^p253-8][^p253-9][^p253-10][^p253-11]
+ganglions intra cardiaques .[^p253-11][^p253-10][^p253-9][^p253-8][^p253-7][^p253-6][^p253-5][^p253-4][^p253-3][^p253-2][^p253-1]
 
 [p. 254] 6. Action des nerfs pneumogastriques sur la force des battements
 
@@ -4460,9 +4460,9 @@ centres terminaux de ces nerfs .
 
 120 5. Les oscillations périodiques de Traube et les nerfs dépresseurs .
 
-129 6. Les nerfs dépresseurs comme nerfs sensibles du cœur.
+129 6. Les nerfs dépresseurs comme nerfs sensibles du cœur.[^p254-11][^p254-10][^p254-9][^p254-8][^p254-7][^p254-6][^p254-5][^p254-4][^p254-3][^p254-2][^p254-1]
 
-136[^p254-1][^p254-2][^p254-3][^p254-4][^p254-5][^p254-6][^p254-7][^p254-8][^p254-9][^p254-10][^p254-11]
+136
 
 [p. 255] 5. Tentative d'Engelmann de sauver l'hypothèse myogène en la
 

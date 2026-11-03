@@ -260,9 +260,11 @@ EUGEN MÜLLER, Aus der Algebra der Logik, Art. II.
 
 [p. 38] duit de tous les coefficients est évidemment nul. De même, dans le cas où un coeffcient a la valeur i, la somme de tous les coefficients est égale à i On démontrera plus tard (n° 38) que la fonction peut atteindre ses deux bornes, et par suite qu'elles sont ses va- leurs extrêmes. Pour le moment, nous savons seulement qu'elle est toujours comprise entre elles. 
 
+## 
+
 ## 29. Formule de Poretsky
 
--On a l'équivalence (.r = ax -+- bx') = (b <^x < a). Démonstration. Multiplions d'abord les deux membres de l'égalité proposée par x, il vient x = ax., ce qui, comme on sait, équivaut à l'inclusion x < a. Multiplions ensuite les deux membres par x' ; il vient o = bx1, ce qui, comme on sait, équivaut à l'inclusion b<x. On a donc en résumé (x = ax +- bx')<(6<a ? <a). Réciproquement, on a {b < x < a) < (a ? = ax +- bx'). En effet, {x<a)={x = ax),f (b<x) = (bx'=p). Ajoutons membre à membre ces deux égalités (x = ax) (o = bx') < (x = ax -+ bx').
+r = ax -+- bx') = (b <^x < a). Démonstration. Multiplions d'abord les deux membres de l'égalité proposée par x, il vient x = ax., ce qui, comme on sait, équivaut à l'inclusion x < a. Multiplions ensuite les deux membres par x' ; il vient o = bx1, ce qui, comme on sait, équivaut à l'inclusion b<x. On a donc en résumé (x = ax +- bx')<(6<a ? <a). Réciproquement, on a {b < x < a) < (a ? = ax +- bx'). En effet, {x<a)={x = ax),f (b<x) = (bx'=p). Ajoutons membre à membre ces deux égalités (x = ax) (o = bx') < (x = ax -+ bx').
 
 (') PonETSKY, Sur les méthodespour résoudre les égalités logiques (Bulletin de la Société physico-mathématique de Kazan, t. II,
 
@@ -644,9 +646,11 @@ I. C. Interprétation conceptuelle (voir n° 2). I. P. Interprétation propositi
 
 [p. 97] Pages .Introduction 3 2. Les deux interprétations du Calcul logique. 3 3. Relation d'inclusion. 4. 6 5. Principe d'identité. 8 6. Principe du syllogisme. 8 7. Définition de la multiplication et de l'addition g 8. Principes de simplification et de composition. il 9. Lois de tautologie et d'absorption 12 10. Théorèmes de multiplication et d'addition 11. Première formule de transformation des inclusions en égalités. 12. Loi distributive. 13. Définition de o et de 14. Loi de dualité. 15. Définition de la négation. 16. Principes de contradiction et du milieu exclu. 17. Loi de double négation. 18. Seconde formule de transformation des inclusions en égalités.. 26 19. Loi de contraposition 20. 28 21. Développements de o et de 28 22. Propriétés des constituants. 3o 23. Fonctions logiques. 3o 24. Loi du développement. 25. Form ules de De 33 26. Somm es disjointes. 35 27. Propriétés des fonctions développées 36 28. Bornes d'une fonction. 38 
 
+## 
+
 ## 29. Formule de Poretsky
 
- 30. Théorème de 31. Résultante de l'élimination 32. Cas d'indétermination. 33. Sommes et produits de.fonctions 34. Expression d'une inclusion au moyen d'une indéterminée. 35. Expression d'une double inclusion au moyen d'une indéter- minée. 49
+ Théorème de 31. Résultante de l'élimination 32. Cas d'indétermination. 33. Sommes et produits de.fonctions 34. Expression d'une inclusion au moyen d'une indéterminée. 35. Expression d'une double inclusion au moyen d'une indéter- minée. 49
 
 [p. 98] Pages. 36. Solution de l'équation à une inconnue au moyen d'une indé- terminée. 52 Élimination dans les équations à plusieurs inconnues. 56 38. Théorème sur les valeurs d'une fonction. 58 39. Conditions d'impossibilité et d'indétermination. 40. Résolution des équations à plusieurs inconnues. 60 4t. Problème de Sa 42. 64 43. Loi des formes. 44. Loi des conséquences. 45. Loi des causes 46. Application de la loi des formes aux conséquences et aux causes 72 Exemple : Problème de Venn 73 48. Schèmes géométriques de 76 49. Machine 50. Tableau des conséquences. 51. Tableau des causes. 79 52. Nombre des assertions possibles touchantn termes. 53. Propositions particulières. 54. Solution de l'inëquation à'une inconnue. 55. Système d'une équation et d'une inéquation. 85 56. Formules spéciales au Calcul des propositions. 57. Lquivalence d'une implication et d'une alternative. 88 Loi d'importation et d'exportation. go 59. Réduction des inégalités à des égalités. g3 60. Conclusion 94
 

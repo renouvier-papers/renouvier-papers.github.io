@@ -24,7 +24,7 @@ Notion et mesure du temps.
 
 § 1er.
 
-Mouvement.[^p87-1][^p87-2]
+Mouvement.[^p87-2][^p87-1]
 
 [p. 88] de cette figure varient : la figure en question forme les repères et comme sa forme n'a pas d'importance, nous supposerons que cette figure consiste en trois axes de coordonnées ox, oy, oz. Le lieu géométrique des diverses positions du point m par rapport aux axes est la trajectoire T de ce point.
 
@@ -32,7 +32,7 @@ Mouvement.[^p87-1][^p87-2]
 
 #### § 2
 
-Notion du Temps.[^p88-1][^p88-2]
+Notion du Temps.[^p88-2][^p88-1]
 
 [p. 89] constitue pour nous la notion même du temps ; insistons un peu sur ce point.
 
@@ -50,11 +50,11 @@ Mais, par suite du fait de la simultanéité, nous pouvons déterminer, au moyen
 
 De même si nous considérons n mobiles, on peut déterminer de la même façon, pour chaque position de l'un d'eux, les positions correspondantes de tous les autres ;
 
-de là n- 1 équations entre les arcs décrits simultanément par ces n mobiles.
+de là n- 1 équations entre les arcs décrits simultanément par ces n mobiles.[^p89-1]
 
 
 
-T[^p89-1]
+T
 
 [p. 90] teur OM prend une valeur déterminée pour chaque position du mobile ; de même, l'aire décrite par ce rayon vecteur, l'angle M.OM, le rayon de courbure de la trajectoire en M sont autant de grandeurs variables qui, comme l'arc MM, prennent des valeurs déterminées pour chaque position M.
 
@@ -255,7 +255,7 @@ Y₁ + Y + Y + … = Y¸' + Y, ' + Y' +
 
 Z₁ + Z + Z3 +
 
-= Z, ' + Z,' + Z,' +...[^p95-1][^p95-3]
+= Z, ' + Z,' + Z,' +...[^p95-3][^p95-1]
 
 [p. 96] La relation M
 
@@ -1207,7 +1207,7 @@ différentielles :
 
 duz
 
-dox = φ₁ (1)
+dox = φ₁ [^p113-1]
 
 dtn
 
@@ -1247,7 +1247,7 @@ di
 
 Théorème. — La trajectoire d'un mobile et son mouvement sur cette trajectoire sont bien déterminés lorsqu'on se donne la loi de variation de sa vitesse d'ordre n (c'est-à-dire les 3 équations [1 ])
 
-et, pour une valeur particulière de t, sa position ainsi que ses (n — 1) premières vitesses.[^p113-1]
+et, pour une valeur particulière de t, sa position ainsi que ses (n — 1) premières vitesses.
 
 [p. 114] Portons NN'en MN, sur vn + 1 ; on voit alors que vn'est la résultante de va et de MN, ou v₂ + 1 dt, Un + 1 dt ayant, bien entendu, la direction de vn + 1.
 
@@ -1982,9 +1982,9 @@ Va + Va + 1dt μ (να)
 
 μ.(Vn) + dtu (Vn + 1),
 
-n on peut toujours remplacer chaque vitesse comme V. par l'expression un + Un + Un" +..., Un, Un', Un"... étant les vitesses partielles qui composées donnent la vitesse totale Va ; de même pour les moments.
+n on peut toujours remplacer chaque vitesse comme V. par l'expression un + Un + Un" +..., Un, Un', Un"... étant les vitesses partielles qui composées donnent la vitesse totale Va ; de même pour les moments.[^p125-1]
 
-n [^p125-1]
+n
 
 [p. 126] OX, OY, OZ se transportent parallèlement à eux-mêmes en O'X', O'Y', O'Z' ; tel est le mouvement de OXYZ par rapport à O, X, Y, Z,. Prenons maintenant 0,0, ' égal et parallèle à 00 ′ et de sens contraire, et soit O, 'X, Y, Z, ' le système O, X, Y, Z, transporté parallėlement en O,', la simple inspection de la figure montre que les deux systèmes d'axes 0, et O ' forment une figure égale à celle formée par les deux systèmes d'axes 0, ' et 0 ; donc 00 ' et 0,0,' sont les déplacements simultanés de O par rapport à O, X, Y, Z, et de 0, par rapport à OXYZ.
 
@@ -2215,7 +2215,7 @@ Nous citerons encore le théorème suivant :
 
 Théorème.
 
-Dans le mouvement d'une figure plane, la courbe lien des centres instantanés dans la figure mobile roule sans glisser sur la courbe lien des centres instantanés dans le plan ; en un mot, le mouvement d'une figure plane est toujours un mouvement épicycloïdal.[^p131-1][^p131-2]
+Dans le mouvement d'une figure plane, la courbe lien des centres instantanés dans la figure mobile roule sans glisser sur la courbe lien des centres instantanés dans le plan ; en un mot, le mouvement d'une figure plane est toujours un mouvement épicycloïdal.[^p131-2][^p131-1]
 
 [p. 132] B jectoire du point M situé sur la droite A passe par sa conjuguée B (68) ; dès lors ƒ M appartient à ce
 
@@ -2352,7 +2352,7 @@ formule dans laquelle odt v' sin
 
 représente également une vitesse perpendiculaire à la trajectoire et à w.
 
-[p. 134] On peut, d'ailleurs, remplacer v' par v qui n'en diffère que d'un infiniment petit : il vient alors en composant (1) et (2) :
+[p. 134] On peut, d'ailleurs, remplacer v' par v qui n'en diffère que d'un infiniment petit : il vient alors en composant [^p134-1] et (2) :
 
 1 u + v = V = u' + v + 2 wdt v sino
 
@@ -2372,7 +2372,7 @@ qu'il faut composer avec J'pour avoir l'accélération totale J₁ ; nous rappel
 
 #### § 5
 
-Action des segments. Conclusions.[^p134-1]
+Action des segments. Conclusions.
 
 [p. 135] variation infiniment petite dt de la variable t, son point initial M décrit un arc infiniment petit MM'= ds ; l'action élémentaire de ce segment pour ce déplacement
 
@@ -2403,7 +2403,7 @@ Théorème.
 
 Si le déplacement total MM'est la résultante des déplacements partiels ds,, ds,, ds.... l'action de l pour le déplacement total est la somme algébrique des actions de I pour les divers déplacements partiels.[^p135-1]
 
-[p. 136] nulle ; donc l'action de I ne diffère pas de l'action de sa projection l'; on a ainsi pour cette action l'× MM'× cos l'MM'= l'rdo cos l'. MM'= l'. OH. do, OII étant la perpendiculaire à MN'; or l'. OH est la valeur u. du moment de I par rapport à l'axe OZ ; ainsi on a pour l'action cherchée do. μ₂ (1). De là ce théorème :
+[p. 136] nulle ; donc l'action de I ne diffère pas de l'action de sa projection l'; on a ainsi pour cette action l'× MM'× cos l'MM'= l'rdo cos l'. MM'= l'. OH. do, OII étant la perpendiculaire à MN'; or l'. OH est la valeur u. du moment de I par rapport à l'axe OZ ; ainsi on a pour l'action cherchée do. μ₂ [^p136-1]. De là ce théorème :
 
 Théorème.
 
@@ -2411,7 +2411,7 @@ Pour une rotation d'angle do du point M autour de l'axe OZ l'action d'un segment
 
 Il faut bien remarquer qu'il s'agit seulement de la valeur algébrique du moment, car l'action n'a pas de direction comme le moment.
 
-76. Soit M.M le déplacement fini d'un mobile, cherchons pour ce déplacement l'action de l'accélération j.
+76. Soit M.M le déplacement fini d'un mobile, cherchons pour ce déplacement l'action de l'accélération j.[^p136-2]
 
 Cette accélération est la résul-
 
@@ -2429,7 +2429,7 @@ et de l'accélération nordt
 
 male
 
-d [^p136-1][^p136-2]
+d
 
 [p. 137] les théorèmes de la cinématique matérielle basée sur la notion du temps.
 
@@ -2574,7 +2574,7 @@ C'est cette étude que nous allons faire succinctement et d'une façon exclusive
 
 #### § 3
 
-- Centres de gravité.[^p141-1][^p141-2]
+- Centres de gravité.[^p141-2][^p141-1]
 
 [p. 142] point y, de masse (m + m₂) + m, qui divise y₁M, dans le rapport inverse des masses m₁ + m, et m₃ ; en continuant ainsi jusqu'au
 
@@ -2713,7 +2713,7 @@ La recherche des centres de gravité des figures à densité variable est une si
 
 Cette théorie étant très connue, nous nous bornerons à rappeler la définition et les propriétés les plus importantes 2 des moments d'inertie par rapport à un axe OZ.
 
-i Soient un système de points et M l'un de ces points de masse m, situé à une distance MI égale àr de OZ, le moment d'inertie du système est Emr².
+i Soient un système de points et M l'un de ces points de masse m, situé à une distance MI égale àr de OZ, le moment d'inertie du système est Emr[^p145-2].
 
 r
 
@@ -2730,7 +2730,7 @@ mr,² le moment d'inertie par rapport à O, X, et par M la masse totale du syst�
 
 Emr₁ = ∑mr² + Md².
 
-Cette relation est fondamentale.[^p145-1][^p145-2][^p145-3]
+Cette relation est fondamentale.[^p145-3][^p145-1]
 
 [p. 146] Il y a pour chaque point de l'espace un ellipsoïde d'inertie ; celui qui est relatif au centre de gravité est l'ellipsoïde central.
 
@@ -3738,7 +3738,7 @@ mv² est égal à l'action des forces des mobiles pour des déplacements simulta
 
 Mais ici il faut, bien entendu, prendre toutes les forces.
 
-123. Reprenons les formules démontrées plus haut : Pi +P₂ +P. +... = P₂ + P₂ + P₂ +...+ dl(f₂ + fa +fs +...) (1)
+123. Reprenons les formules démontrées plus haut : Pi +P₂ +P. +... = P₂ + P₂ + P₂ +...+ dl(f₂ + fa +fs +...) [^p168-1]
 
 μ (ΡίΡεΡο΄...) = u (p₁P₂P₃...) + dt
 
@@ -3756,7 +3756,7 @@ Voyons maintenant quel est le mouvement du solide autour de son centre de gravit
 
 L'équation (2) exprime que le moment connu u(f.f...) est la vitesse sur l'indicatrice que décrit l'extrémité A du segment μ (ppp...) ; si l'on se donne les conditions initiales du mouvement du solide, μ (p.papa...) est déterminé pour la position initiale ; comme d'ailleurs
 
-(ffafs...) est connu pour toutes les valeurs de t, il en résulte que la trajectoire du point A et son mouvement sur cette trajectoire sont déterminés (119), en d'autres termes, μ (p₁P.Ps...) est déterminé en grandeur, direction et sens pour toutes les valeurs de t. Or, nous avons vu qu'en appelant I., I, et I, les moments d'inertie du solide par rapport aux trois axes principaux du centre de gravité, on avait (110) :[^p168-1]
+(ffafs...) est connu pour toutes les valeurs de t, il en résulte que la trajectoire du point A et son mouvement sur cette trajectoire sont déterminés (119), en d'autres termes, μ (p₁P.Ps...) est déterminé en grandeur, direction et sens pour toutes les valeurs de t. Or, nous avons vu qu'en appelant I., I, et I, les moments d'inertie du solide par rapport aux trois axes principaux du centre de gravité, on avait (110) :
 
 [p. 169] résulte que o est déterminé en grandeur, direction et sens pour chaque valeur de t.
 

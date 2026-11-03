@@ -150,7 +150,7 @@ Ce dernier argument surtout est frappant, et montre excellemment que l'étendue 
 
 Il y a là quelque chose qui peut surprendre au premier abord. Il semble, en effet, que la succession des âges, mortelle à l'erreur, [p. 10] doive affermir et consolider de plus en plus la vérité dans l'esprit des hommes, et qu'en toutes choses, la raison doive finir par avoir raison. Quelles sont donc les causes pour lesquelles la doctrine de Leibnitz n'a pas obtenu un triomphe définitif ? On en peut assigner deux principales. La première avec laquelle, malheureusement, il faudra compter toujours,
 
-c'est la tendance naturelle qu'ont tous les hommes à considérer le témoignage immédiat des sens comme supépieur à toute critique ; c'est le prétendu sens commun reproduisant sans se lasser jamais l'argumentum baculinum, et soutenant qu'il faut bien que l'espace soit, puisqu'on le voit et qu'on le touche. La seconde cause est d'ordre moins général : c'est la façon dont Leibnitz luimême entendait la nature de l'espace. Il fallait bien en effet que ce philosophe, après avoir combattu l'erreur vulgaire et détruit la solution du sens commun, présentât la sienne. Or c'est ce que le plus souvent il faisait de telle sorte, que l'erreur chassée et détruite dans la partie critique et réfutative de sa thèse, se trouvait rétablie et réintroduite par lui-même dans la partie dogmatique et affirmative. C'est ainsi que, dans la plupart de ses écrits', il considère les corps [^p10-1]
+c'est la tendance naturelle qu'ont tous les hommes à considérer le témoignage immédiat des sens comme supépieur à toute critique ; c'est le prétendu sens commun reproduisant sans se lasser jamais l'argumentum baculinum, et soutenant qu'il faut bien que l'espace soit, puisqu'on le voit et qu'on le touche. La seconde cause est d'ordre moins général : c'est la façon dont Leibnitz luimême entendait la nature de l'espace. Il fallait bien en effet que ce philosophe, après avoir combattu l'erreur vulgaire et détruit la solution du sens commun, présentât la sienne. Or c'est ce que le plus souvent il faisait de telle sorte, que l'erreur chassée et détruite dans la partie critique et réfutative de sa thèse, se trouvait rétablie et réintroduite par lui-même dans la partie dogmatique et affirmative.[^p10-1] C'est ainsi que, dans la plupart de ses écrits', il considère les corps
 
 [p. 11] comme des agrégats de monades en nombre infini. L'espace est alors défini par lui « l'ordre des situations
 
@@ -164,7 +164,7 @@ est impossible de comprendre la situation, sinon comme une relation ou plutôt c
 
 Sans doute cette doctrine contradictoire et dont les incohérences sautent aux yeux ne doit pas être considérée comme le dernier mot de Leibnitz sur la nature de l'espace. C'était simplement, dans sa pensée, un premier point de vue pouvant servir pour une explication provisoire et superficielle des choses. En réalité, les monades ne se touchent point, ne s'agglomèrent point pour former les corps
 
-. Bien que [^p11-1]
+.[^p11-1] Bien que
 
 [p. 12] Leibnitz ne se soit jamais prononcé nettement sur ce point, on peut croire, sans grande témérité à notre avis, que sa doctrine véritable et définitive
 
@@ -236,7 +236,7 @@ c'est que le calcul différentiel implique expressément cette continuité, comm
 
 Pour ce qui concerne le temps, on voit aisément qu'il ne peut y avoir d'hiatus dans la conscience, et par conséquent de discontinuité dans la durée, par la simple raison que de tels hiatus, s'ils existaient, seraient nécessairement vides de pensée, et par là-même n'existeraient point pour nous, puisque ce qui est totalement étranger à la pensée n'a pour nous absolument aucune existence.
 
-A la vérité, M. Ribot, dans un important article sur La durée des actes psychiques', conclut d'ex-[^p17-1]
+A la vérité, M.[^p17-1] Ribot, dans un important article sur La durée des actes psychiques', conclut d'ex-
 
 [p. 18] périences faites en Allemagne et rapportées par lui, que la conscience est en fait discontinue « Dans ces expériences, dit M. Ribot, les excitations se produisent de telle façon qu'entre elles, il n'y a objectivement aucun intervalle. Et cependant, subjectivement, nous sentons très clairement qu'il y a un petit intervalle, pendant lequel aucune des deux excitations n'est perçue nettement. Ainsi, tandis qu'il y a continuité entre les causes de nos perceptions, il y a discontinuité dans les
 
@@ -710,7 +710,7 @@ et Nagel qui soutiennent ce que l'on appelle l'hypothèse de la projection, d'ap
 
 ses impressions au dehors,
 
-et d'extérioriser la sensation du point lumineux dans une direction donnée. Enfin, M. P. Janet, dans un important opuscule', discute les raisons exposées par chacune des deux écoles rivales, et conclut énergiquement à l'impossibilité d'accepter sans res [^p52-1]
+et d'extérioriser la sensation du point lumineux dans une direction donnée. Enfin, M. P.[^p52-1] Janet, dans un important opuscule', discute les raisons exposées par chacune des deux écoles rivales, et conclut énergiquement à l'impossibilité d'accepter sans res
 
 [p. 53] triction l'une ou l'autre théorie, et par là-même à la nécessité d'une doctrine qui, évitant les exagé-rations où l'on tombe de part et d'autre, tienne compte de la part de la vérité que renferme chacune des opinions extrêmes. Le point de vue spécial auquel s'est placé M. Janet, et qui le conduit à cette conclusion, c'est la théorie de Berkeley sur la perception visuelle dela distance.
 
@@ -807,7 +807,7 @@ et non des faits d'innervation [p. 62] préétablie. Tant que des impressions ve
 
 tion, il faut ne pas s'arrêter à mi-chemin, et lui accorder tout ce qu'il est possible de lui accorder raisonnablement.
 
-Du reste, outre les raisons que nous venons d'exposer, il en est d'autres encore qui peuvent servir à prouver que la localisation n'est pas immédiate. Citons seulement pour mémoire la fameuse expérience faite à Montpellier et rapportée par Maine de Biran, puis par Hamilton et Stuart Mill, sur un malade atteint d'hémiplégie, et dont les nerfs moteurs étaient seuls paralysés, tandis
+Du reste, outre les raisons que nous venons d'exposer, il en est d'autres encore qui peuvent servir à prouver que la localisation n'est pas immédiate.[^p62-1] Citons seulement pour mémoire la fameuse expérience faite à Montpellier et rapportée par Maine de Biran, puis par Hamilton et Stuart Mill, sur un malade atteint d'hémiplégie, et dont les nerfs moteurs étaient seuls paralysés, tandis
 
 que
 
@@ -817,7 +817,7 @@ nerfs
 
 sensitifs
 
-demeuraient [^p62-1]
+demeuraient
 
 [p. 63] intacts. On sait que, chez ce malade, le pouvoir de localiser dans son propre corps les sensations qu'il éprouvait, était totalement aboli ; et que, la paralysie des nerfs moteurs s'atténuant progressivement, la faculté de la localisation lui revint également peu à peu. Cette expérience, si elle a été bien faite, est, comme le dit Stuart Mill, un véritable experimentum crucis, et prouve avec une clarté parfaite que la condition première dela localisation est dans la faculté motrice, et que par conséquent la localisation n'estpas unfait d'innervation préétablie.
 
@@ -901,7 +901,7 @@ Or il y avait là quelque chose d'illégitime ; parce que rien ne prouvait qu'on
 
 et que quiconque excluait l'un prît par là-même parti pour l'autre. Il existe au contraire, comme nous l'avons dit déjà, entre les deux théories extrêmes, une théorie moyenne faisant sa part à chacune des deux autres, sans avoir la pré [p. 68] tention de les concilier, mais se frayant sa voie à égale distance de l'une et de l'autre. Pour que l'empirisme pût triompher de la faiblesse de la thèse opposée, il aurait fallu que ses arguments, que les faits d'expérience invoqués par lui atteignissent en même temps que le nativisme la théorie intermédiaire dont nous parlons : alors, mais alors seulement, il fût demeuré seul maître du terrain. Ce résultat n'a pas
 
-été obtenu, et même il a été établi avec la plus extrême rigueur, dans un ouvrage que nous avons eu déjà occasion de citer ', que toutes les expériences alléguées, et en particulier celle de Cheselden et d'autres expériences similaires, si elles sont probantes contre les partisans d'une perception immédiate de la distance vraie, ne prouvent rien contre ceux qui se contentent de considérer la sensation de couleur comme primitivement et nécessairement projetée dans l'espace. Nous n'insisterons pas sur ce point qui a été traité d'une manière définitive, mais nous retiendrons la conclusion à laquelle a abouti cette importante discussion ; à savoir, que les arguments de l'empirisme contre le nativsme peuvent être d'une grande force contre cette [^p68-1]
+été obtenu, et même il a été établi avec la plus extrême rigueur, dans un ouvrage que nous avons eu déjà occasion de citer ', que toutes les expériences alléguées, et en particulier celle de Cheselden et d'autres expériences similaires, si elles sont probantes contre les partisans d'une perception immédiate de la distance vraie, ne prouvent rien contre ceux qui se contentent de considérer la sensation de couleur comme primitivement et nécessairement projetée dans l'espace.[^p68-1] Nous n'insisterons pas sur ce point qui a été traité d'une manière définitive, mais nous retiendrons la conclusion à laquelle a abouti cette importante discussion ; à savoir, que les arguments de l'empirisme contre le nativsme peuvent être d'une grande force contre cette
 
 [p. 69] doctrine, mais ne prouvent rien en faveur de l'empirisme lui-même.
 
@@ -915,9 +915,9 @@ les plus graves.
 
 1 ° Si les
 
-empiristes peuvent opposer aux nativistes des faits et des expériences qui semblent décisives, la réciproque n'est pas moins vraie, et il est un certain nombre de faits bien constatés qui, de l'aveu des empiristes euxmêmes, ne paraissent pas explicables avec leur théorie¹. Par exemple, il est tout à fait incontestable que la sensation élémentaire de la couleur nous est donnée originairement déterminée, non pas sans doute quant à l'espace tout entier, mais bien quant à l'un des éléments de l'espace, la profondeur.
+empiristes peuvent opposer aux nativistes des faits et des expériences qui semblent décisives, la réciproque n'est pas moins vraie, et il est un certain nombre de faits bien constatés qui, de l'aveu des empiristes euxmêmes, ne paraissent pas explicables avec leur théorie[^p69-1]. Par exemple, il est tout à fait incontestable que la sensation élémentaire de la couleur nous est donnée originairement déterminée, non pas sans doute quant à l'espace tout entier, mais bien quant à l'un des éléments de l'espace, la profondeur.
 
-Comme preuve à cet égard, nous rappellerons d'abord l'expérience faite au Muséum par Fr. Cuvier, et rapportée par M. Chevreul, que M. Janet cite à son tour dans l'opuscule dont nous avons parlé : « Une poule couveuse fut mise avec des œufs dans un panier couvert d'un [^p69-1]
+Comme preuve à cet égard, nous rappellerons d'abord l'expérience faite au Muséum par Fr. Cuvier, et rapportée par M. Chevreul, que M. Janet cite à son tour dans l'opuscule dont nous avons parlé : « Une poule couveuse fut mise avec des œufs dans un panier couvert d'un
 
 [p. 70] drap noir, au centre d'une enceinte circulaire d'un mètre environ de diamètre, limitée par une triple rangée de pieux disposés en quinconces, de manière que les petits poulets éclos ne pouvaient sortir de l'enceinte limitée directement dans la rangée du milieu. Qu'arriva-t-il ? C'est que chacun d'eux évita le pieu en faisant un léger détour ; une fois hors du cercle, il allait becqueter directement des grains qu'on avait répandus à quelques mètres du panier ; de manière qu'à la sortie de l'œuf, le petit poulet savait éviter les obstacles opposés à sa marche directe, et, sans hésitation, se précipitait directement pour se nourrir du grain que ses yeux voyaient pour la première fois. » Voilà un fait qui paraît assez décisif : il en est bien d'autres, et qui sont connus. Le petit veau sait trouver immédiatement le pis de la vache. Le crocodile, éclos sans avoir été couvé par ses parents, court immédiatement à l'eau, mord un bâton qu'on lui présente, etc. Ces faits, dit M. Ribot, sont tout en faveur de la théorie nativiste, puisqu'ils montrent que ces animaux, « dès qu'ils voient la lumière du monde, en voient aussi la profondeur. »
 
@@ -959,7 +959,7 @@ d'après
 
 lequel
 
-« nous rapportons à droite dans l'espace les impressions que notre rétine reçoit à gauche ; et cela parceque, dans un grand nombre de cas antérieurs, l'expérience nous a montré que les objets sont réellement situés dans cette direction¹ ». En même temps se trouve réfutée cette assertion de M. Bain, que la fusion des sensations du tact (ou de la vue) avec le sentiment d'un emploi des forces motrices, explique tout ce qui appartient à la notion de grandeur étendue ou d'espace.
+« nous rapportons à droite dans l'espace les impressions que notre rétine reçoit à gauche ; et cela parceque, dans un grand nombre de cas antérieurs, l'expérience nous a montré que les objets sont réellement situés dans cette direction[^p72-1] ». En même temps se trouve réfutée cette assertion de M. Bain, que la fusion des sensations du tact (ou de la vue) avec le sentiment d'un emploi des forces motrices, explique tout ce qui appartient à la notion de grandeur étendue ou d'espace.
 
 » Non, disonsnous, cela ne peut pas être, à moins qu'on admette que la sensation du tact ou de la vue comporte irréductiblement un élément d'ordre spatial, ce que M. Bain n'admet pas.
 
@@ -973,13 +973,13 @@ les
 
 empiristes. Ceux-ci doivent,
 
-pour [^p72-1]
+pour
 
 [p. 73] demeurer fidèles à leurs principes, soutenir que la sensation, dans ce qu'elle a de fondamental et de constitutif, ne comporte aucune détermination d'ordre spatial, ce qui les met hors d'état d'expliquer d'une manière satisfaisante les phénomènes de localisation. Nous n'avons pas l'intention d'entreprendre ici la critique des tentatives qu'on a faites pour y réussir, ni d'examiner les théories qui ont été proposées. Il nous suffira de rappeler que les psychologues et les physiologistes empiristes d'Allemagne ont eu pour la plupart
 
 recours pour l'explication des
 
-1 localisations à l'hypothèse des signes locaux de Lotze, ce qui était sortir complètement du système ; et que ceux d'Angleterre qui ontcru pouvoir se passer de cette hypothèse, ont encouru le reproche très justifié à notre avis, d'avoir commis une pétition de principe en introduisant, tout au moins d'une manière indirecte, dans le nombre des éléments dont ils composaient la notion de l'espace, cette notion même qu'il s'a gissait pour eux d'expliquer, et de réduire à des éléments qui lui fussent hétérogènes 2.[^p73-1][^p73-2]
+1 localisations à l'hypothèse des signes locaux de Lotze, ce qui était sortir complètement du système ; et que ceux d'Angleterre qui ontcru pouvoir se passer de cette hypothèse, ont encouru le reproche très justifié à notre avis, d'avoir commis une pétition de principe en introduisant, tout au moins d'une manière indirecte, dans le nombre des éléments dont ils composaient la notion de l'espace, cette notion même qu'il s'a gissait pour eux d'expliquer, et de réduire à des éléments qui lui fussent hétérogènes 2.[^p73-2][^p73-1]
 
 [p. 74] Du
 
@@ -1071,7 +1071,7 @@ et cette hypothèse n'est pas embarrassée pour expliquer comment des impression
 
 d'ailleurs), « destinées à la mettre d'accord avec les faits 2.
 
-»[^p77-1][^p77-2]
+»[^p77-2][^p77-1]
 
 [p. 78] Au point de vue psychologique qui est beaucoup plutôt le nôtre, la conclusion est identique. Ce que nous reprochions surtout au nativisme pur, c'était de ne pas faire au temps sa part dans la représentation que nous avons de l'espace. Or ce reproche tombe tout aussi bien sur la théorie de Müller. C'est donc à l'hypothèse de la projection que nous devons nous en tenir.
 
@@ -1085,9 +1085,9 @@ d'ailleurs varie
 
 d'individu
 
-à individu. Elle est autre pour un myope, autre pour un presbyte ; mais elle n'est pas, en général, la distance véritable ; et c'est précisément grâce à l'expérience et à l'habitude que nous parvenons à la modifier et à la rectifier, pour la perception des objets situés en deç à ou au delà du plan sur lequel sont projetés tous les points lumineux dans la sensation primitive ¹. Dès
+à individu. Elle est autre pour un myope, autre pour un presbyte ; mais elle n'est pas, en général, la distance véritable ; et c'est précisément grâce à l'expérience et à l'habitude que nous parvenons à la modifier et à la rectifier, pour la perception des objets situés en deç à ou au delà du plan sur lequel sont projetés tous les points lumineux dans la sensation primitive [^p78-1]. Dès
 
-1[^p78-1]
+1
 
 [p. 79] lors, la représentation que nous avons des corps comme étendus est proprement une construction de l'esprit, et c'est cette représentation qui est pour nous la véritable origine de la notion d'espace.
 
@@ -1105,7 +1105,7 @@ effet pour nous qu'une certaine étendue visuelle,
 
 et pour plus de simplicité nous considérerons uniquement l'étendue linéaire, — sinon la totalité des perceptions que nous donne notre œil se mouvant pendant un temps
 
-donné avec une vitesse [p. 80] donnée ? De mème, qu'est-ce pour nous qu'une certaine durée, sinon l'ensemble des perceptions que nons donne notre œil parcourant d'une extrémité à l'autre une ligne donnée avec une vitesse donnée ? Si le temps combiné avec la vitesse mesure l'espace, est-ce que l'espace combiné avec la vitesse ne mesure pas également le temps ? Et, si nous laissons de côté le temps et l'espace objectifs, qui, pour les raisons que nous avons exposées, ne peuvent être réels, n'est-il pas évident que le temps subjectif, le seul et véritable temps, est relatif à l'espace, tout comme l'espace subjectif est relatif au temps ? ¹[^p80-1]
+donné avec une vitesse [p. 80] donnée ? De mème, qu'est-ce pour nous qu'une certaine durée, sinon l'ensemble des perceptions que nons donne notre œil parcourant d'une extrémité à l'autre une ligne donnée avec une vitesse donnée ? Si le temps combiné avec la vitesse mesure l'espace, est-ce que l'espace combiné avec la vitesse ne mesure pas également le temps ? Et, si nous laissons de côté le temps et l'espace objectifs, qui, pour les raisons que nous avons exposées, ne peuvent être réels, n'est-il pas évident que le temps subjectif, le seul et véritable temps, est relatif à l'espace, tout comme l'espace subjectif est relatif au temps ? [^p80-1]
 
 [p. 81] De là, nous pouvons conclure immédiatement que ni l'une ni l'autre de ces deux intuitions n'est primitive et irréductible, ce qui suppose qu'elles ont toutes deux leur origine et leur raison d'être dans quelque processus de l'esprit logiquement antérieur et plus fondamental.
 
@@ -1801,9 +1801,9 @@ sans
 
 autre
 
-objet qu'elle-même : c'est LA PENSÉE DE LA PENSÉE 1.
+objet qu'elle-même : c'est LA PENSÉE DE LA PENSÉE 1.[^p128-1]
 
-Il suit de là que Dieu n'est point une per [^p128-1]
+Il suit de là que Dieu n'est point une per
 
 [p. 129] sonne.
 
@@ -2378,7 +2378,7 @@ d'où résulte pour la représentation le caractère de la continuité ; puis, c
 
 diversité
 
-absolue telle qu'est la sienne, et que par conséquent son développement, en même temps qu'il doit être continu, doit être aussi régulier et aussi uniforme que possible ; la métaphysique, disonsnous, rendant aux sciences service pour service, démontre ce qu'elles ne pouvaient pas démontrer, à savoir que l'univers, ou, ce qui revient au même, la totalité des phénomènes, « n'est qu'un mouvement unique qui se poursuit autant que possible dans la même direction et avec la même vitesse, quelles que soient du reste les lois suivant lesquelles il se transforme ¹. »>[^p169-1]
+absolue telle qu'est la sienne, et que par conséquent son développement, en même temps qu'il doit être continu, doit être aussi régulier et aussi uniforme que possible ; la métaphysique, disonsnous, rendant aux sciences service pour service, démontre ce qu'elles ne pouvaient pas démontrer, à savoir que l'univers, ou, ce qui revient au même, la totalité des phénomènes, « n'est qu'un mouvement unique qui se poursuit autant que possible dans la même direction et avec la même vitesse, quelles que soient du reste les lois suivant lesquelles il se transforme [^p169-1]. »>
 
 [p. 170] Ainsi
 
@@ -2678,11 +2678,11 @@ et la pensée, il définit ailleurs l'esprit
 
 Je connus évidemment, dit-il, que je ne la pouvais tenir de moi-même ; de façon qu'il restait qu'elle eût été mise en moi par une nature qui fût véritablement plus par »
 
-faite que je n'étais¹. » Cette notion, à son avis, a été mise dans son esprit par Dieu, « comme le sceau de l'ouvrier sur son ouvrage ».
+faite que je n'étais[^p195-1]. » Cette notion, à son avis, a été mise dans son esprit par Dieu, « comme le sceau de l'ouvrier sur son ouvrage ».
 
 Il faut donc renoncer à dire que Descartes n'admet point dans l'esprit de déterminations quine lui soient
 
-essentielles, et ne soient véritablement constitutives de sa nature.[^p195-1]
+essentielles, et ne soient véritablement constitutives de sa nature.
 
 [p. 196] Il en est de même pour Kant. Sans doute la doctrine de Kant constitue, au point de vue où nous sommes placés en ce moment, un progrès considérable sur celles qui l'ont précédée, et une première réaction de l'école rationaliste et aprioriste contre la théorie de l'esprit passif et indéterminé ; puisque, suivant Kant, ce n'est plus dans les choses qu'il faut chercher à découvrir ce qui peut expliquer l'esprit, mais dans lesprit qu'il faut chercher ce qui peut expliquer les choses. L'esprit dès lors, au lieu de recevoir la loi de l'univers, impose à l'univers sa loi. Mais, s'il est affranchi à ce point de vue, il n'en demeure pas moins pareil à « l'argile entre les mains du potier ». Pour les prédécesseurs de Kant, le potier c'était la nature extérieure, s'ils étaient sensualistes, ou Dieu lui-même,
 
@@ -2808,7 +2808,7 @@ absolue, ce qui revenait à la déclarer insoluble. Cette question est celle de 
 
 On reconnaît de suite qu'il s'agit ici d'une question de fait : le monde est-il actuellement étendu sans fin ou non ? le monde a-t-il au moment présent duré un nombre infini de jours, d'années, de siècles, ou non ? Du reste, pour être une question de fait, l'infinité ou la noninfinité du monde n'en présente pas moins ce caractère particulier de relever, non de l'astronomie ou de toute autre science de la nature, mais de la métaphysique. C'est évidemment le [p. 208] métaphysicien seul qui peut la résoudre, si toutefois elle n'est pas insoluble par nature.
 
-Quant à l'espace, M. Renouvier et plusieurs autres philosophes croient devoir nier l'infinité du monde, parce que, disent-ils, cette infinité est contradictoire, impliquant le nombre infini réalisé. Pour nous, nous pensons que, dans la raison qu'on allègue, il y a une confusion. On conçoit, à ce qu'il semble, que la contradiction puisse s'introduire dans nos représentations à deux points de vue différents : ou bien la représentation est telle que l'on s'engage dans des contradictions inévitables si l'on veut la considérer comme autre chose qu'une représentation, et lui attribuer les caractères d'une chose en soi ; ou bien la représentation considérée comme telle, et indépendamment de toute hypothèse sur la réalité absolue de son objet, contient des éléments qui s'excluent les uns les autres, et dans l'opposition desquels la pensée entre en lutte avec elle-même. La représentation admet bien la contradiction au premier point de vue, et nous l'avons montré amplement, d'accord avec M. Renouvier lui-même ; au second point de vue, elle ne l'admet pas. La raison en est que la pensée opère suivant ses lois, lesquelles expriment sa nature, et que ces lois, expression de sa nature, ne peuvent la [p. 209] jeter dans des contradictions où elle s'anéantirait. Si donc tous les arguments que l'on peut opposer à l'infinité du monde quant à l'espace peuvent se réduire à celui de la contradiction, comme le pense d'ailleurs M. Renouvier¹, toute la question se réduit à déterminer si l'infinité du monde en extension est contradictoire au premier point de vue ou au second.
+Quant à l'espace, M. Renouvier et plusieurs autres philosophes croient devoir nier l'infinité du monde, parce que, disent-ils, cette infinité est contradictoire, impliquant le nombre infini réalisé. Pour nous, nous pensons que, dans la raison qu'on allègue, il y a une confusion. On conçoit, à ce qu'il semble, que la contradiction puisse s'introduire dans nos représentations à deux points de vue différents : ou bien la représentation est telle que l'on s'engage dans des contradictions inévitables si l'on veut la considérer comme autre chose qu'une représentation, et lui attribuer les caractères d'une chose en soi ; ou bien la représentation considérée comme telle, et indépendamment de toute hypothèse sur la réalité absolue de son objet, contient des éléments qui s'excluent les uns les autres, et dans l'opposition desquels la pensée entre en lutte avec elle-même. La représentation admet bien la contradiction au premier point de vue, et nous l'avons montré amplement, d'accord avec M. Renouvier lui-même ; au second point de vue, elle ne l'admet pas. La raison en est que la pensée opère suivant ses lois, lesquelles expriment sa nature, et que ces lois, expression de sa nature, ne peuvent la [p. 209] jeter dans des contradictions où elle s'anéantirait. Si donc tous les arguments que l'on peut opposer à l'infinité du monde quant à l'espace peuvent se réduire à celui de la contradiction, comme le pense d'ailleurs M. Renouvier[^p209-1], toute la question se réduit à déterminer si l'infinité du monde en extension est contradictoire au premier point de vue ou au second.
 
 Que l'infinité en extension d'un monde existant en soi et indépendamment de la représentation soit contradictoire, nous l'accordons sans peine. Elle est contradictoire au même titre que l'indéfinie divisibilité d'une partie limitée quelconque de ce monde, que le mouvement dans ce monde, etc. Dans tous ces différents cas, c'est toujours le nombre infini actuel et réalisé que l'on pose, et c'est là qu'est la contradiction. Donc l'infinité du monde quant à l'espace est contradictoire au premier point de vue,
 
@@ -2816,7 +2816,7 @@ cela est bien certain, mais cela n'est pas une raison suffisante pour la nier, p
 
 Au second point de vue, cette infinité est-elle également contradictoire ? Oui, s'il faut qu'elle entre
 
-effectivement dans une représentation [^p209-1]
+effectivement dans une représentation
 
 [p. 210] concrète donnée. Toute représentation, disonsnous, est nécessairement limitée ; parce que, si elle ne l'était pas, le nombre infini y entrerait à l'état d'acte et de réalité positive ; de sorte que la représentation considérée en elle_ même et pour elle-même enfermerait des éléments
 
@@ -2860,11 +2860,11 @@ et conduisant à la démonstration de la nécessité d'un premier commencement
 
 des
 
-choses ¹. »> Cela
+choses [^p215-1]. »> Cela
 
 serait vrai si le temps pouvait être un absolu, mais nous savons qu'il est purement relatif, et à ce titre, il nous est donné dans la représentation comme n'ayant pas eu de commencement.
 
-Aussi ne semble-t-il pas que l'on soit bien fondé à faire, comme il arrive souvent, reproche aux savants de méconnaître le dogme dela création. Comment en effet veut-on qu'ils puissent le [^p215-1]
+Aussi ne semble-t-il pas que l'on soit bien fondé à faire, comme il arrive souvent, reproche aux savants de méconnaître le dogme dela création. Comment en effet veut-on qu'ils puissent le
 
 [p. 216] reconnaître ? — en tant que savants, bien entendu. N'est-il pasévident que l'état initial du monde, celui dans lequel il a été créé, et qui n'a point eu d'antécédent réel avait néanmoins un antécédent scientifique, puisqu'il aurait pu tout aussi bien provenir d'un état antérieur, lequel eût été le premier, tandis qu'il n'eût lui-même été que le second ? Comment donc le savant qui ne voit que les faits pourrait-il déterminer lequel de ces deux états a été l'état initial du monde ? Et il est clair que la difficulté reste la même, si loin que l'on remonte dans la série des états successifs qui ont constitué dans le passé la vie de l'univers. Donc, au point de vue de la science, il est incontestable que le monde n'a point eu de commencement, c'est-à-dire qu'il est infini dans le passé ; et aussi que le savant est absolument dans son droit quand il fait profession d'ignorer les origines des choses. Allons plus loin, et disons que les préventions de la plupart des spiritualistes
 

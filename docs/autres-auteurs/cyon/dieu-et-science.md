@@ -42,7 +42,7 @@ Un exemple célèbre expliquera aisément la psychologie de ce phénomène. L'at
 
 » « Une fausse science fait des athées ; une vraie science prosterne l'homme devant la divinité 2 » , proclamait Voltaire en paraphrasant la célèbre thèse de Bacon .
 
-Il n'y a donc rien de surprenant à ce que les grands savants de l'époque soient restés fidèles aux nobles traditions de leurs illustres prédécesseurs des xvie et xvIIe siècles. Les liens entre la science et la religion s'étaient même fortifiés, et cela en dehors de la philosophie et en opposition avec elle. Aussi, quand la prédiction de Leibniz se réalisa et que la révolution éclata au nom de la philosophie athée, la science et la[^pIX-2]
+Il n'y a donc rien de surprenant à ce que les grands savants de l'époque soient restés fidèles aux nobles traditions de leurs illustres prédécesseurs des xvie et xvIIe siècles. Les liens entre la science et la religion s'étaient même fortifiés, et cela en dehors de la philosophie et en opposition avec elle.[^pIX-2] Aussi, quand la prédiction de Leibniz se réalisa et que la révolution éclata au nom de la philosophie athée, la science et la
 
 [p. X] religion se trouvèrent-elles être l'objet des mêmes persécutions haineuses . Le plus illustre parmi ces savants, le créateur de la chimie moderne, Lavoisier, fut victime de cette haine ; Monge et bien d'autres n'échappèrent qu'avec peine à la guillotine ; « la République n'a pas besoin de savants » , proclamait le médicastre raté Marat. Un décret de la Convention supprimait l'Académie et en dispersait les membres .
 
@@ -72,7 +72,7 @@ trop
 
 de
 
-légèreté comme l'expression du progrès de la science, devaient conduire le monde civilisé. La lutte pour l'existence , ce faux principe économique, présenté comme l'unique moteur des actions de l'homme, comme l'ultima ratio[^pXI-1]
+légèreté comme l'expression du progrès de la science, devaient conduire le monde civilisé.[^pXI-1] La lutte pour l'existence , ce faux principe économique, présenté comme l'unique moteur des actions de l'homme, comme l'ultima ratio
 
 [p. XII] de ses sentiments et de ses aspirations, devait fatalement aboutir à la dégradation et à l'affolement des masses inconscientes. L'idée générale de la lutte pour l'existence , entrée dans des cervelles vides et bornées , se transformait forcément en une lutte contre l'existence d'autrui . L'invention nihiliste de l'action directe par la dynamite comme moyen efficace du progrès humain, les horreurs des sauvages destructions pendant la révolution russe en 1905-1906, ainsi que l'explosion récente de la folie destructrice à Barcelone, toutes ces manifestations de l'anarchie intellectuelle , qui a envahi l'esprit de la société moderne, eurent comme point de départ les doctrines de l'évolution transformiste par la lutte pour l'existence . Seule la vie des anarchistes, auteurs ou instigateurs responsables d'attentats destructeurs , reste encore sacrée et intangible aux yeux de la génération actuelle, complèteinent désemparée par l'abandon de la morale religieuse et de la foi en Dieu .
 
@@ -228,7 +228,7 @@ il ne s'est pas contenté d'affirmer la possibilité des jugements synthétiques
 
 Ces quelques citations ont suffisamment montré combien peu sincère était Kant en défendant sa proposition de l'impossibilité des jugements *a posteriori*. Il connaissait trop bien la grande évolution, provoquée dans les sciences exactes par Copernic, Galilée et Newton, pour douter sérieusement de la réalité complète des phénomènes de la nature et de la portée décisive de l'observation et de l'expérience, aussi bien en astronomie qu'en physique et dans les sciences naturelles. Le remplacement de la réalité des objets existants par la chose en elle-même (das *Ding an sich*) n'était qu'un artifice de dialectique, destiné à rendre plus plausible une argumentation très serrée et très précise en apparence, mais où les sophismes éblouissants simulaient les syllogismes. Ses célèbres antinomies sont, en effet , de vrais chefs-d'œuvre dans ce genre de dialectique.
 
-En fait de sophismes, Kant arrive presque à la hauteur de Zénon. Tout en citant sur ce subtil dialecticien le jugement sévère de Platon, « sophiste téméraire qui, pour prouver son art, démontre par des arguments factices une proposition qu'il cherche ensuite à réfuter par des arguments aussi décisifs », Kant n'a pas hésité à l'imiter par ses antinomies 1. Mais cet art de défendre avec autant de virtuosité la thèse et l'antithèse, Kant était loin de le manier avec la même maestria que Zénon. La souplesse, la précision et la finesse du langage, en général l'art d'écrire lui faisaient complètement défaut. Ses phrases entortillées, embrouillées sou-[^p10-1]
+En fait de sophismes, Kant arrive presque à la hauteur de Zénon. Tout en citant sur ce subtil dialecticien le jugement sévère de Platon, « sophiste téméraire qui, pour prouver son art, démontre par des arguments factices une proposition qu'il cherche ensuite à réfuter par des arguments aussi décisifs », Kant n'a pas hésité à l'imiter par ses antinomies 1. Mais cet art de défendre avec autant de virtuosité la thèse et l'antithèse, Kant était loin de le manier avec la même maestria que Zénon. La souplesse, la précision et la finesse du langage, en général l'art d'écrire lui faisaient complètement défaut.[^p10-1] Ses phrases entortillées, embrouillées sou-
 
 [p. 11]
 
@@ -278,7 +278,7 @@ C'est la philosophie, et non la science, qui traverse actuellement une crise pé
 
 En Allemagne, les plus éminents représentants de la philosophie moderne commencent à se rendre compte de la nécessité de déblayer entièrement le terrain des derniers vestiges du Kantisme. Seuls, quelques Néo-Kantiens impénitents et quelques dilettantes en métaphysique résistent encore. Ils prétendent même aux hautes fonctions de juges suprêmes de toute science, qui leur appartiendraient de droit , comme théoriciens de la connaissance par la grâce de Kant ! Aussi se targuent-ils à tort de leur prétendue victoire sur le physiologiste Helmholtz dans la polémique relative à l'origine de la géométrie euclidienne. J'ai déjà fait observer ailleurs
 
-que, dans cette polémique, ce n'est pas le physiologiste, mais le mathématicien Helmholtz qui cherchait à acquérir pour la géométrie non euclidienne les mêmes droits d'origine que ceux qu'on attribue à la géométrie d'Euclide. Il se trouvait ainsi dans la fausse position d'avoir refusé la certitude apodictique aux axiomes d'Euclide, tout en étant dans l'impossibilité de prouver l'origine empirique de nos représentations d'un espace à trois dimensions. Dans cette lutte entre la métaphysique de Kant et la géométrie imaginaire non euclidienne, les deux partis se trouvaient être dans[^p14-1]
+que, dans cette polémique, ce n'est pas le physiologiste, mais le mathématicien Helmholtz qui cherchait à acquérir pour la géométrie non euclidienne les mêmes droits d'origine que ceux qu'on attribue à la géométrie d'Euclide. Il se trouvait ainsi dans la fausse position d'avoir refusé la certitude apodictique aux axiomes d'Euclide, tout en étant dans l'impossibilité de prouver l'origine empirique de nos représentations d'un espace à trois dimensions.[^p14-1] Dans cette lutte entre la métaphysique de Kant et la géométrie imaginaire non euclidienne, les deux partis se trouvaient être dans
 
 [p. 15]
 
@@ -290,7 +290,7 @@ Ce n'étaient pas d'ailleurs les mathématiciens et les naturalistes seuls qui, 
 
 c'étaient encore nombre de philosophes, comme Herbart, Schopenhauer, Benecke et Ueberweg, dont nous exposons plus loin (§ 5. ch . [^p15-1] l'essai général d'une construction synthétique de la géométrie euclidienne à l'aide des lois du mouvement des corps solides. Il y a quelques années à peine, le Nestor de la philosophie allemande, le professeur Julius Baumann, à Göttingue, a reproduit presque intégralement, dans son AntiKant, la réfutation complète des principales doctrines de Kant, donnée à la fin du XVIIIe siècle par le célèbre Tiedemann, dans son traité de psychologie. Cette réfutation, Baumann la renforce considérablement par ses propres objections et la met ainsi en accord avec les données nouvelles des sciences naturelles et mathématiques. Tout l'édifice vermoulu de Kant se trouve ainsi démoli presque pierre par pierre (1). Récemment, Baumann a complété pour ainsi dire son « Anti-Kant » par une analyse détaillée et très exacte de ma théorie des sens de l'espace et du temps 2, et il est en train de poursuivre son œuvre par une critique très aiguë des nouvelles géométries non euclidiennes et autres. Le cri de Riehl, « Retour à Kant », qui retentit encore de temps en temps en Allemagne, ne trouve plus que peu d'écho .
 
-Ce n'est pas seulement avec la science moderne que le Kantisme est inconciliable. En proclamant la raison comme l'infaillible critérium de la connaissance humaine, en attribuant aux jugements synthétiques *a priori* une valeur déci[^p15-2]
+Ce n'est pas seulement avec la science moderne que le Kantisme est inconciliable.[^p15-2] En proclamant la raison comme l'infaillible critérium de la connaissance humaine, en attribuant aux jugements synthétiques *a priori* une valeur déci
 
 [p. 16] sive dans la solution des problèmes les plus ardus de la pensée humaine, Kant porta en même temps un coup fatal à la religion . << Dans l'intérêt de la morale (der Gesittung) et de la religion, je sacrifierais, par exception, ma passion pour la vérité » , déclarait Kant [^p16-1] . Par ces paroles mêmes il créa une opposition entre
 
@@ -302,7 +302,7 @@ C'est en vain que Kant essaya ensuite de préserver de son œuvre destructrice l
 
 . Le jargon abstrus , prolixe et stérile, dans lequel il emmaillotait son argumentation, ne pouvait remplacer la haute autorité des commandements de Dieu, qu'il cherchait à détruire au nom d'une prétendue raison.
 
-En France, le mouvement philosophique étranger arrive toujours avec un retard d'une quarantaine d'années. Aussi le Kantisme a-t-il commencé à envahir la pensée française au moment où, en Allemagne, se dessinait déjà sa décadence définitive. Le terrain était d'ailleurs admirablement préparé[^p16-2]
+En France, le mouvement philosophique étranger arrive toujours avec un retard d'une quarantaine d'années. Aussi le Kantisme a-t-il commencé à envahir la pensée française au moment où, en Allemagne, se dessinait déjà sa décadence définitive.[^p16-2] Le terrain était d'ailleurs admirablement préparé
 
 [p. 17]
 
@@ -340,7 +340,7 @@ l'athée
 
 professionnel,
 
-était engoué de l'apriorisme de Kant. Je m'en étais aperçu au moment de lui remettre ma dernière note sur le sens de l'espace, parue dans les Comptes Rendus, en 1899. Mais je pouvais à peine croire à la justesse d'une impression qui jurait avec les convictions que Berthelot affichait avec tant d'ostentation. Ce n'est qu'en parcourant le quatrième volume de la Vie et Correspondance de Taine, que j'ai trouvé une lettre de 1876 confirmant cette impression. Taine, s'adressant à Renan , lui écrivait en termes pressants : « Tâchez que Berthelot' , lorsqu'il se sentira trop las de souffler ses fourneaux, nous donne son De natura rerum, sa science idéale, comme il l'appelle, l'ensemble de ses conjectures sur le[^p18-1]
+était engoué de l'apriorisme de Kant. Je m'en étais aperçu au moment de lui remettre ma dernière note sur le sens de l'espace, parue dans les Comptes Rendus, en 1899. Mais je pouvais à peine croire à la justesse d'une impression qui jurait avec les convictions que Berthelot affichait avec tant d'ostentation. Ce n'est qu'en parcourant le quatrième volume de la Vie et Correspondance de Taine, que j'ai trouvé une lettre de 1876 confirmant cette impression.[^p18-1] Taine, s'adressant à Renan , lui écrivait en termes pressants : « Tâchez que Berthelot' , lorsqu'il se sentira trop las de souffler ses fourneaux, nous donne son De natura rerum, sa science idéale, comme il l'appelle, l'ensemble de ses conjectures sur le
 
 [p. 19]
 
@@ -394,9 +394,9 @@ Dans la marche vers la création d'une philosophie naturelle, la prééminence d
 
 étaient les moyens de les calmer. Ainsi, la première question que l'homme se posa, le premier problème qu'il résolut, avaient un caractère nettement physiologique. C'est à ces mêmes questions que les physiologistes modernes cherchent à répondre aujourd'hui. »
 
-Cette citation est empruntée à un discours académique [^p23-1] que j'ai prononcé en 1873 , et où j'indiquais la marche et le développement des sciences. J'en ai trouvé récemment la pleine confirmation dans les admirables recherches du regretté Paul Tannery. Voici en quels termes l'éminent professeur Zeuthen résume les résultats de ces recherches : << Jusqu'à Platon, les penseurs hellènes ont été non pas des philosophes, dans le sens actuel de ce mot, mais des physiologues, comme on disait, c'est- à-dire des savants ; malgré toutes les erreurs et les hypothèses inconsistantes par où commence le chemin de l'ignorance à la vérité, le noyau des systèmes des anciens physiologues n'a jamais été une idée métaphysique ; c'est de leurs conceptions concrètes qu'ils ont pu s'élever à des abstractions encore insolites. Alors seulement ces conceptions ont pris un caractère métaphysique. » On voit jusqu'à quel point l'histoire des sciences justifie la prééminence de la physiologie dans le travail parallèle avec la philosophie. La fin à atteindre ne vise pas les conceptions de la métaphysique, mais les conceptions d'une philosophie naturelle.
+Cette citation est empruntée à un discours académique [^p23-1] que j'ai prononcé en 1873 , et où j'indiquais la marche et le développement des sciences. J'en ai trouvé récemment la pleine confirmation dans les admirables recherches du regretté Paul Tannery. Voici en quels termes l'éminent professeur Zeuthen résume les résultats de ces recherches : << Jusqu'à Platon, les penseurs hellènes ont été non pas des philosophes, dans le sens actuel de ce mot, mais des physiologues, comme on disait, c'est- à-dire des savants ; malgré toutes les erreurs et les hypothèses inconsistantes par où commence le chemin de l'ignorance à la vérité, le noyau des systèmes des anciens physiologues n'a jamais été une idée métaphysique ; c'est de leurs conceptions concrètes qu'ils ont pu s'élever à des abstractions encore insolites. Alors seulement ces conceptions ont pris un caractère métaphysique. » On voit jusqu'à quel point l'histoire des sciences justifie la prééminence de la physiologie dans le travail parallèle avec la philosophie. La fin à atteindre ne vise pas les conceptions de la métaphysique, mais les conceptions d'une philosophie naturelle.[^p23-2]
 
-Si la philosophie naturelle de Schelling, Ocken et Oerstedt a subi un échec si lamentable, c'est justement parce que, dès le début, les naturalistes et les philosophes qui se trouvaient à la tête du mouvement n'étaient au fond que des métaphy[^p23-2]
+Si la philosophie naturelle de Schelling, Ocken et Oerstedt a subi un échec si lamentable, c'est justement parce que, dès le début, les naturalistes et les philosophes qui se trouvaient à la tête du mouvement n'étaient au fond que des métaphy
 
 [p. 24] siciens. Au lieu de délimiter tout d'abord les domaines de recherches et les méthodes qui conviennent le mieux à un travail productif, naturalistes et philosophes se sont laissé entraîner vers la spéculation métaphysique sans base et sans frein . L'œuvre commencée devait fatalement aboutir à la faillite et au discrédit de la philosophie naturelle.
 
@@ -520,7 +520,7 @@ et nullement de notions innées d'un espace à deux ou à trois dimensions.
 
 De là, cette illusion singulière que, selon moi, les souris japonaises seraient forcées de s'orienter dans deux directions, parce qu'elles ne possédaient que la notion de deux dimensions !
 
-L'exposé de ma théorie, donné dans le paragraphe suivant , mettra les choses au point. Je n'ai jamais attribué de notions ou de concepts d'un espace à trois ou à deux dimensions aux animaux, même possédant un labyrinthe aussi parfait que celui de l'homme. Les animaux ne reçoivent que les sensations d'une, deux ou trois directions du son, qui les[^p33-1]
+L'exposé de ma théorie, donné dans le paragraphe suivant , mettra les choses au point. Je n'ai jamais attribué de notions ou de concepts d'un espace à trois ou à deux dimensions aux animaux, même possédant un labyrinthe aussi parfait que celui de l'homme.[^p33-1] Les animaux ne reçoivent que les sensations d'une, deux ou trois directions du son, qui les
 
 [p. 34] TEMPS ET ESPACE .
 
@@ -632,9 +632,9 @@ Lotze, dans son dernier ouvrage
 
 dont nous avons cité ailleurs de nombreux passages (voir Ohrlabyrinth), avait déjà , d'une façon beaucoup plus nette et à peu près irréfutable, formulé la même critique sur les théories empiriques, et Wundt reconnaît lui-même l'importance décisive de l'ouvrage de Lotze. Le seul reproche qu'il adresse à cet écrit publié en français, celui d'être rempli de fautes d'impression, ne peut être pris au sérieux et n'est d'ailleurs pas justifié.
 
-Seule la perception des trois directions à l'aide des sensations spécifiques fournies par les nerfs ampullaires , perception dont l'existence a été prouvée par de longues recherches expérimentales, peut fournir aux théories empiriques de la vision binoculaire la source du concept de trois étendues, qui leur manque. Si , à l'époque où il écrivait l'étude dont nous venons de parler , Wundt avait été plus au courant de mes recherches, il lui aurait suffi, pour pouvoir développer sa théorie sur une base inébranlable, d'y introduire la perception des trois directions à l'aide d'un organe sensoriel spécial, le labyrinthe de l'oreille.
+Seule la perception des trois directions à l'aide des sensations spécifiques fournies par les nerfs ampullaires , perception dont l'existence a été prouvée par de longues recherches expérimentales, peut fournir aux théories empiriques de la vision binoculaire la source du concept de trois étendues, qui leur manque. Si , à l'époque où il écrivait l'étude dont nous venons de parler , Wundt avait été plus au courant de mes recherches, il lui aurait suffi, pour pouvoir développer sa théorie sur une base inébranlable, d'y introduire la perception des trois directions à l'aide d'un organe sensoriel spécial, le labyrinthe de l'oreille.[^p43-1]
 
-Nil'hypothèse de Hering, ni celles de Helmholtz et de Wundt ne peuvent rien contre ce fait bien établi que les aveugles-nés[^p43-1]
+Nil'hypothèse de Hering, ni celles de Helmholtz et de Wundt ne peuvent rien contre ce fait bien établi que les aveugles-nés
 
 [p. 44] TEMPS ET ESPACE .
 
@@ -670,7 +670,7 @@ Cette nécessité où se trouve
 
 le labyrinthe de
 
-l'oreille de mettre en activité les muscles de ces organes fournit la raison génétique du fait que les centres nerveux de ces appareils moteurs sont dominés par les nerfs ampullaires .[^p46-1][^p46-2]
+l'oreille de mettre en activité les muscles de ces organes fournit la raison génétique du fait que les centres nerveux de ces appareils moteurs sont dominés par les nerfs ampullaires .[^p46-2][^p46-1]
 
 [p. 47] LE SENS GÉOMÉTRIQUE ET LA GÉOMÉTRIE D'EUCLIDE.
 
@@ -694,7 +694,7 @@ Pour les animaux, comme pour l'homme primitif, il est d'une nécessité impérie
 
 (voir Ohrlabyrinth, chap. IV, § 10), par l'élimination de résistances, à peu près comme dans la distribution des forces électriques entre de nombreux conducteurs. Répondant au but de la conservation personnelle, ce mécanisme finit par fonctionner automatiquement : l'excitation des nerfs ampullaires peut éventuellement produire les mouvements nécessaires par voie purement réflexe, sans intervention de la conscience.
 
-L'ordre de succession de tous ces processus dans le temps montre à quel point on se trompait en voulant voir dans le labyrinthe de l'oreille un organe de sens présidant aux positions de la tête, ou assurant l'équilibre du corps. Ce serait là une fonction tout à fait singulière. Les excitations des nerfs sensitifs des muscles, de la peau, des articulations, des tendons,[^p48-1]
+L'ordre de succession de tous ces processus dans le temps montre à quel point on se trompait en voulant voir dans le labyrinthe de l'oreille un organe de sens présidant aux positions de la tête, ou assurant l'équilibre du corps. Ce serait là une fonction tout à fait singulière.[^p48-1] Les excitations des nerfs sensitifs des muscles, de la peau, des articulations, des tendons,
 
 [p. 49] LE SENS GÉOMÉTRIQUE ET LA GÉOMÉTRIE D'EUCLIDE.
 
@@ -862,11 +862,11 @@ Le célèbre mathématicien Legendre essaya de prouver l'axiome des parallèles 
 
 d'une proposition équivalente : la somme des anglés d'un triangle est égale à deux angles droits. Il réussit en effet à prouver que cette somme ne peut être plus grande que deux angles droits. Par contre, ses efforts pour prouver qu'elle ne peut être plus petite échouèrent. Vers 1840, le grand mathématicien russe Lobatchewsky [^p59-1] tenta une autre méthode de démonstration. Développant un postulat opposé à cet axiome , il chercha s'il ne se heurterait pas à des contradictions insurmontables et s'il ne pourrait pas, par cette voie, démontrer la validité de l'axiome. Mais ses déductions synthétiques le conduisirent à ce résultat inattendu, qu'il n'existait pas de telles contradictions. En effet, on pouvait imaginer une forme d'espace où la somme des angles d'un triangle était plus petite que deux angles droits, où par conséquent l'axiome d'Euclide et les théorèmes auxquels il sert de base ne seraient plus valables . Presque à la même époque que Lobatchewsky, un capitaine d'artillerie hongrois, Johann Bolyai, guidé par son père, ami et ancien condisciple de Gauss, arrivait au même résultat. Ainsi fut créée la nouvelle géométrie imaginaire.
 
-Dans la seconde moitié du siècle dernier, la géométrie non euclidienne prit un nouvel essor quand, en 1854, Riemann eut démontré la possibilité d'une troisième forme d'espace, une forme sphérique, où l'axiome des parallèles d'Euclide est également inapplicable et où la somme des angles d'un triangle peut être plus grande que deux angles droits. Dans une variante de cette forme d'espace, le douzième axiome d'Euclide serait également inexact : deux droites y peuvent renfermer un espace, c'est-à-dire s'y croiser plusieurs fois.
+Dans la seconde moitié du siècle dernier, la géométrie non euclidienne prit un nouvel essor quand, en 1854, Riemann eut démontré la possibilité d'une troisième forme d'espace, une forme sphérique, où l'axiome des parallèles d'Euclide est également inapplicable et où la somme des angles d'un triangle peut être plus grande que deux angles droits. Dans une variante de cette forme d'espace, le douzième axiome d'Euclide serait également inexact : deux droites y peuvent renfermer un espace, c'est-à-dire s'y croiser plusieurs fois.[^p59-2]
 
 Riemann
 
-prit pour base de ses déductions une expression algébrique, la mesure de courbure (Krümmungsmaass) , qui serait le fondement essentiel de toute géométrie ; c'est une[^p59-2]
+prit pour base de ses déductions une expression algébrique, la mesure de courbure (Krümmungsmaass) , qui serait le fondement essentiel de toute géométrie ; c'est une
 
 [p. 60] TEMPS ET ESPACE .
 
@@ -1076,9 +1076,9 @@ définitifs les détails de notre démonstration . Si nous réussissons à faire
 
 La ligne droite est définie ainsi par Euclide : « La ligne droite est celle qui est également située entre ses extrémités.>>> « Recta linea est, quæcunque ex æquo punctis in ea sitis iacet » (traduction König) . La traduction allemande que donne Lorenz , aussi d'après le texte grec, a le même sens : « Eine gerade Linie ist diejenige welche zwischen allen in ihr befindlichen Punkten auf einerlei Art liegt 1. »
 
-La notion de la ligne droite qu'Euclide a voulu définir apparaît clairement : une ligne située d'une seule façon , ou également , par rapport à tous ses points ; cela signifie une ligne qui ne dévie ni ne se courbe d'aucun côté, c'est-à-dire qui conserve la même direction .
+La notion de la ligne droite qu'Euclide a voulu définir apparaît clairement : une ligne située d'une seule façon , ou également , par rapport à tous ses points ; cela signifie une ligne qui ne dévie ni ne se courbe d'aucun côté, c'est-à-dire qui conserve la même direction .[^p76-1]
 
-La ligne droite est la ligne de direction constante, comme[^p76-1]
+La ligne droite est la ligne de direction constante, comme
 
 [p. 77] LE SENS GÉOMÉTRIQUE ET LA GÉOMÉTRIE D'EUCLIDE .
 
@@ -1138,9 +1138,9 @@ Qu'on observe, par exemple, les pigeons voyageurs quand ils retournent au colomb
 
 Dans la classe des animaux vertébrés, des défauts innés ou accidentels des canaux semi- circulaires peuvent entraîner l'absence ou la perte de cette connaissance de la direction en ligne droite. Ce fait s'observe chez certaines souris dansantes japonaises et chez les lamproies [^p80-1] , comme chez les pigeons, les lapins, les grenouilles et autres animaux qui ont subi certaines mutilations du labyrinthe, et cela, même quand leur vue est restée intacte .
 
-L'homme peut perdre la connaissance de la ligne droite , momentanément ou pour un temps plus ou moins long, par suite de maladies du labyrinthe, d'intoxication, de mouvements inaccoutumés, tels que le balancement et la rotation prolongée autour d'un axe longitudinal, ou de toute autre cause accidentelle qui, conséquemment, parvient à troubler l'harmonie des rapports normaux entre le sens de l'espace et celui de la vue2 .
+L'homme peut perdre la connaissance de la ligne droite , momentanément ou pour un temps plus ou moins long, par suite de maladies du labyrinthe, d'intoxication, de mouvements inaccoutumés, tels que le balancement et la rotation prolongée autour d'un axe longitudinal, ou de toute autre cause accidentelle qui, conséquemment, parvient à troubler l'harmonie des rapports normaux entre le sens de l'espace et celui de la vue2 .[^p80-2]
 
-Les expériences et observations innombrables qui ont établi ces faits d'une façon indiscutable n'admettent qu'une seule interprétation : nos notions de la ligne droite, cette[^p80-2]
+Les expériences et observations innombrables qui ont établi ces faits d'une façon indiscutable n'admettent qu'une seule interprétation : nos notions de la ligne droite, cette
 
 [p. 81] LE SENS GÉOMÉTRIQUE ET LA GÉOMÉTRIE D'EUCLIDE.
 
@@ -1312,7 +1312,7 @@ Après avoir établi d'une façon plus précise la destination des canaux semi-c
 
 fait entrer dans le domaine de mes études, qui s'étendent sur un intervalle de trente ans, le problème de l'espace proprement dit .
 
-L'effort naturel de chercher simultanément l'origine de nos représentations de temps se heurtait à un grand obstacle. La plupart de mes expériences sur le labyrinthe ont été exécutées sur des animaux. Ce n'est que trente années après le début de mes recherches expérimentales sur les animaux que j'ai pu en confirmer les principaux résultats par une série d'expériences sur l'homme ' . Or, les animaux se prêtent très peu à des recherches sur les perceptions ou même seulement sur les sensations de temps ; car, d'une façon générale, nous ne pouvons obtenir aucune donnée directe sur leurs sensations quelconques. Aussi, lorsqu'il y a plusieurs années MM. Aubert et Yves Delage me mirent en demeure, « puisque j'assigne au sens de l'espace un organe spécial, d'en indiquer un également pour le sens du temps, dont la représentation est, au point de vue métaphysique, parfaitement identique à celle de l'espaсе » ,[^p94-1]
+L'effort naturel de chercher simultanément l'origine de nos représentations de temps se heurtait à un grand obstacle. La plupart de mes expériences sur le labyrinthe ont été exécutées sur des animaux. Ce n'est que trente années après le début de mes recherches expérimentales sur les animaux que j'ai pu en confirmer les principaux résultats par une série d'expériences sur l'homme ' . Or, les animaux se prêtent très peu à des recherches sur les perceptions ou même seulement sur les sensations de temps ; car, d'une façon générale, nous ne pouvons obtenir aucune donnée directe sur leurs sensations quelconques. Aussi, lorsqu'il y a plusieurs années MM. Aubert et Yves Delage me mirent en demeure, « puisque j'assigne au sens de l'espace un organe spécial, d'en indiquer un également pour le sens du temps, dont la représentation est, au point de vue métaphysique, parfaitement identique à celle de l'espaсе »[^p94-1] ,
 
 [p. 95] LE SENS ARITHMÉTIQUE
 
@@ -1460,7 +1460,7 @@ Ainsi qu'on l'a dit plus haut, la plupart des psychologues sont d'accord avec le
 
 n'existe plus et que le futur n'est pas encore, le temps serait quelque chose de réel, composé de deux moitiés dont aucune n'est réelle. » Une pareille conclusion repose sur des prémisses qui ne sont plausibles qu'en apparence, mais sont en réalité de purs sophismes. La mobilité du point est une supposition superflue, qui devient caduque par le fait de la conception du point O de la coordonnée du temps. Notre conscience du moi est immuable et indivisible ; seuls les contenus de la conscience générale changent. Il n'y a de mobile que ce qui s'est produit avant nous et ce qui doit venir après nous ; mais cette mobilité n'entame en rien la réalité de l'un et de l'autre. Rien ne peut prétendre à la réalité avec plus de droit que les événements du passé. En se produisant progressivement , les événements futurs deviennent réels et en plongeant dans le passé ils subissent, sur la coordonnée du temps, un déplacement et changent de signe [^p105-1] .
 
-La seconde objection portera sur ce point de ma thèse que notre moi conscient correspond au point O de la coordonnée du temps. Schumann qui, dans ces dernières années, a fait de très belles recherches sur les perceptions de temps, et avec lui d'autres investigateurs qui se sont occupés de la même question considèrent le présent ou « l'à présent » comme une étendue de temps qui a une durée juste aussi longue qu'il en faut pour prononcer ou penser le mot. Cette idée paraît d'autant moins admissible qu'en pareil cas l'importance du moment présent dépendrait uniquement de la longueur de ce mot dans les différentes langues (3). Il faut toujours avoir en l'esprit ce fait capital que les trois coordonnées des directions[^p105-2]
+La seconde objection portera sur ce point de ma thèse que notre moi conscient correspond au point O de la coordonnée du temps. Schumann qui, dans ces dernières années, a fait de très belles recherches sur les perceptions de temps, et avec lui d'autres investigateurs qui se sont occupés de la même question considèrent le présent ou « l'à présent » comme une étendue de temps qui a une durée juste aussi longue qu'il en faut pour prononcer ou penser le mot. Cette idée paraît d'autant moins admissible qu'en pareil cas l'importance du moment présent dépendrait uniquement de la longueur de ce mot dans les différentes langues (3).[^p105-2] Il faut toujours avoir en l'esprit ce fait capital que les trois coordonnées des directions
 
 [p. 106] TEMPS ET ESPACE .
 
@@ -1592,9 +1592,9 @@ Si nous nous sommes étendu un peu longuement ici sur les deux valeurs de temps 
 
 Comme nous l'avons déjà dit,
 
-il a eu l'intuition que l'oreille joue le rôle prédominant dans la formation de nos représentations de temps . « Nous commençons par le sens dont la sensibilité pour les quantités de temps et pour les différences entre quantités de temps se manifestele plus chez chacun d'entre nous, par le sens de l'ouïe » : c'est ainsi que Vierordt justifie son choix. En même temps, il traçait aux chercheurs à venir la voie à suivre. Un petit nombre seulement de ses successeurs essayèrent de fournir les raisons précises qui les avaient déterminés à choisir l'organe auditif pour leurs mesures 1. La façon dont Wundt motive le choix de l'organe de l'ouïe pour l'explication des représentations de temps est particulièrement intéressante : « Tandis que les représentations tactiles de temps restent constamment liées aux conditions mécaniques des organes moteurs et aux organes centraux correspondants, ayant pour fonction de régler les innervations,
+il a eu l'intuition que l'oreille joue le rôle prédominant dans la formation de nos représentations de temps . « Nous commençons par le sens dont la sensibilité pour les quantités de temps et pour les différences entre quantités de temps se manifestele plus chez chacun d'entre nous, par le sens de l'ouïe » : c'est ainsi que Vierordt justifie son choix. En même temps, il traçait aux chercheurs à venir la voie à suivre. Un petit nombre seulement de ses successeurs essayèrent de fournir les raisons précises qui les avaient déterminés à choisir l'organe auditif pour leurs mesures 1.[^p116-1] La façon dont Wundt motive le choix de l'organe de l'ouïe pour l'explication des représentations de temps est particulièrement intéressante : « Tandis que les représentations tactiles de temps restent constamment liées aux conditions mécaniques des organes moteurs et aux organes centraux correspondants, ayant pour fonction de régler les innervations,
 
-les représentations auditives de[^p116-1]
+les représentations auditives de
 
 [p. 117] LE SENS ARITHMÉTIQUE
 
@@ -1710,7 +1710,7 @@ seulement par les actions que produisent les contractions aes muscles
 
 Dans l'apprentissage de formes de mouvements compliquées et nouvelles, comme ce fut le cas lors de la formation originelle du langage humain, le labyrinthe a nécessairement joué un rôle décisif. Privé des moyens de mesurer avec une précision mathématique la durée des innervations des groupes musculaires intéressés dans le langage, l'homme, à l'exemple des animaux, n'aurait jamais dépassé la phase des sons inarticulés
 
-. Dans l'enseignement du langage aux sourds-muets, le maître cherche à remplacer par des impressions visuelles le fonctionnement du sens auditif qui fait défaut. Les pigeons dont on a détruit les deux appareils de canaux semi-circulaires agissent d'une façon analogue : ils cherchent à réapprendre la marche en s'aidant des sensations visuelles et des sensations tactiles, afin de récupérer le pouvoir sur les innervations de leurs muscles dans les mouvements volontaires. Mais ils n'y réussissent que dans une mesure très restreinte : la suppléance des fonctions du labyrinthe de l'oreille par les[^p126-1]
+. Dans l'enseignement du langage aux sourds-muets, le maître cherche à remplacer par des impressions visuelles le fonctionnement du sens auditif qui fait défaut. Les pigeons dont on a détruit les deux appareils de canaux semi-circulaires agissent d'une façon analogue : ils cherchent à réapprendre la marche en s'aidant des sensations visuelles et des sensations tactiles, afin de récupérer le pouvoir sur les innervations de leurs muscles dans les mouvements volontaires.[^p126-1] Mais ils n'y réussissent que dans une mesure très restreinte : la suppléance des fonctions du labyrinthe de l'oreille par les
 
 [p. 127] LE SENS ARITHMÉTIQUE
 
@@ -1720,7 +1720,7 @@ impressions visuelles et tactiles est très imparfaite, aussi bien chez les vert
 
 Il ne faut pas voir, dans l'influence des mouvements visibles du bâton du chef d'orchestre sur la mesure avec laquelle l'orchestre exécute un morceau (surtout lorsqu'il s'agit d'instruments à cordes) , une contradiction avec ce que nous avons dit de l'importance secondaire du sens de la vue relativement à la régulation de la succession des innervations. Cette influence repose en partie sur l'imitation purement réflexe de mouvements visibles, mais principalement sur la reproduction d'impressions auditives qui, pendant l'étude, se sont accumulées dans la mémoire.
 
-La perception des sensations auditives est loin de constituer une condition indispensable pour que le labyrinthe de l'oreille intervienne d'une façon décisive dans la distribution des innervations musculaires. Dans les mouvements de déglutition, la mesure exacte de la durée et de la succession n'est pas[^p127-1][^p127-2]
+La perception des sensations auditives est loin de constituer une condition indispensable pour que le labyrinthe de l'oreille intervienne d'une façon décisive dans la distribution des innervations musculaires.[^p127-2][^p127-1] Dans les mouvements de déglutition, la mesure exacte de la durée et de la succession n'est pas
 
 [p. 128] TEMPS ET ESPACE .
 
@@ -1750,7 +1750,7 @@ pneumatique, à proximité de mon habitation d'alors (rue Copernic) , une nouvel
 
 cardiaques,
 
-qu'elles suivaient presque la cadence du moteur. De 80 à la minute, mes pulsations tombaient au-dessous de 60, tandis que leur intensité augmentait d'une façon douloureuse. Mon affection cardiaque ayant subi une aggravation notable, j'ai dû changer de logis. Depuis lors, j'ai eu l'occasion de faire une couple de fois des observations du même genre dans des hôtels qui[^p129-1]
+qu'elles suivaient presque la cadence du moteur. De 80 à la minute, mes pulsations tombaient au-dessous de 60, tandis que leur intensité augmentait d'une façon douloureuse. Mon affection cardiaque ayant subi une aggravation notable, j'ai dû changer de logis.[^p129-1] Depuis lors, j'ai eu l'occasion de faire une couple de fois des observations du même genre dans des hôtels qui
 
 [p. 130] TEMPS ET ESPACE .
 
@@ -2138,7 +2138,7 @@ Comme je l'ai déjà rappelé ailleurs , le célèbre Chevreul, dans son Rapport
 
 Il a été établi par plusieurs expérimentateurs, et tout particulièrement par Hermann Munk, que les excitations parties de certaines régions du corps sont destinées, avant tout, à pourvoir de forces d'excitation les centres cérébraux sous la dépendance desquels se trouvent les muscles de ces régions. L'analyse plus précise de l'influence de la perte de sensibilité sur la motricité, faite par Hermann Munk, fournit des preuves éclatantes que, dans les cas de suppression de ces sources d'excitation, les centres cérébraux intéressés sont susceptibles d'emprunter leurs forces d'excitation aux centres corticaux voisins. Il existe également de nombreuses données psycho-pathologiques tendant à prouver que des processus analogues s'accomplissent dans les centres cérébraux des fonctions psychiques
 
-. C'est ainsi que les excitations fournies par les organes des sens sont destinées en premier lieu à alimenter les sphères sensorielles correspondantes, situées dans la substance corticale. Mais ces centres sensoriels peuvent également utiliser, surtout dans les cas de surmenage psychique, les forces d'excitation emmagasinées dans les centres moteurs avoisinants, et cela souvent à un degré tel qu'il en résulte un préjudice pour le maintien de la tension musculaire dans certaines régions. La lutte pour les sources d'énergie déjà accumulées dans le cerveau et pour celles qui continuent d'y arriver se poursuit donc également entre les divers[^p158-1][^p158-2]
+. C'est ainsi que les excitations fournies par les organes des sens sont destinées en premier lieu à alimenter les sphères sensorielles correspondantes, situées dans la substance corticale. Mais ces centres sensoriels peuvent également utiliser, surtout dans les cas de surmenage psychique, les forces d'excitation emmagasinées dans les centres moteurs avoisinants, et cela souvent à un degré tel qu'il en résulte un préjudice pour le maintien de la tension musculaire dans certaines régions.[^p158-2][^p158-1] La lutte pour les sources d'énergie déjà accumulées dans le cerveau et pour celles qui continuent d'y arriver se poursuit donc également entre les divers
 
 [p. 159] DIFFÉRENCIATION DES FONCTIONS PSYCHIQUES .
 
@@ -2206,7 +2206,7 @@ c'est le cœur. Il exerce cette fonction grâce à son admirable système nerveu
 
 l'activité fonctionnelle du cœur, ces deux propriétés des nerfs cardiaques, disions-nous dans le discours en question, créent les conditions nécessaires grâce auxquelles le cœur a pu devenir un organe où se reflètent tous les états variables, tous les mouvements de notre vie affective : joie et douleur, amour et haine, colère et satisfaction 1. » Mes recherches ultérieures n'ont fait que confirmer la justesse de cette théorie et ont permis d'en élargir considérablement les bases .
 
-Dans l'édition récemment parue de mes Nerfs du Cœur (ch. III, § 6) , le mécanisme du fonctionnement émotionnel du cœur est exposé en détail. On y verra de nombreux exemples faisant ressortir la véritable nature des rapports qui existent entre les sensations psychiques primaires, d'origine centrale , et les sentiments secondaires, qui reposent sur les réactions du système nerveux du cœur. Les réactions réciproques du cœur et du cerveau ne sont d'ailleurs pas limitées à des[^p163-1]
+Dans l'édition récemment parue de mes Nerfs du Cœur (ch. III, § 6) , le mécanisme du fonctionnement émotionnel du cœur est exposé en détail. On y verra de nombreux exemples faisant ressortir la véritable nature des rapports qui existent entre les sensations psychiques primaires, d'origine centrale , et les sentiments secondaires, qui reposent sur les réactions du système nerveux du cœur.[^p163-1] Les réactions réciproques du cœur et du cerveau ne sont d'ailleurs pas limitées à des
 
 [p. 164] CORPS , AME , ET ESPRIT.
 
@@ -2246,7 +2246,7 @@ internes du cœur, provoqueraient à leur tour dans notre conscience des sentime
 
 citation d'ordre chimique et physique ou d'origine interne ', capables de modifier les pulsations cardiaques avec ou sans l'intermédiaire des centres ganglionnaires du cerveau ou du grand sympathique. Beaucoup de ces facteurs, tels que, par exemple, les variations de la température ou de la composition des gaz du sang qui arrose le cœur, excitent les terminaisons nerveuses du cœur de la même façon que le font les mouvements psychiques d'origine centrale. Ainsi, les sentiments de joie ou de plaisir exercent, sur les terminaisons nerveuses accélératrices, la même action que les accroissements de la température ou de la quantité d'oxygène ; les sentiments de déplaisir ou de douleur agissent, au contraire, sur les terminaisons nerveuses inhibitrices, dans le même sens que les abaissements de la température du sang ou l'augmentation de la quantité d'acide carbonique [^p167-2] .
 
-Conformément à mes lois (deuxième et troisième) de l'excitation ganglionnaire, les excitations psychiques devraient exercer sur les ganglions et sur les terminaisons périphériques du cœur la même action que sur leurs centres cérébraux. Il semblerait donc qu'à la question que nous venons de poser on pourrait répondre d'une façon affirmative. En réalité, la réponse est loin d'être aussi aisée qu'on serait tenté de le croire. La réponse affirmative ferait forcément surgir cette question nouvelle : Pourquoi les excitations internes, normales ou morbides , ne provoquent-elles pas, occasionnellement et de temps à autre, des émotions aussi compliquée que l'amour ou la jalousie, de même qu'elles provoquent la crainte de la mort ou les sensations pénibles de l'angine de poitrine ? A cette question, le physiologiste pourrait répondre : pour les mêmes raisons que les modifications[^p167-1]
+Conformément à mes lois (deuxième et troisième) de l'excitation ganglionnaire, les excitations psychiques devraient exercer sur les ganglions et sur les terminaisons périphériques du cœur la même action que sur leurs centres cérébraux. Il semblerait donc qu'à la question que nous venons de poser on pourrait répondre d'une façon affirmative. En réalité, la réponse est loin d'être aussi aisée qu'on serait tenté de le croire. La réponse affirmative ferait forcément surgir cette question nouvelle : Pourquoi les excitations internes, normales ou morbides , ne provoquent-elles pas, occasionnellement et de temps à autre, des émotions aussi compliquée que l'amour ou la jalousie, de même qu'elles provoquent la crainte de la mort ou les sensations pénibles de l'angine de poitrine ?[^p167-1] A cette question, le physiologiste pourrait répondre : pour les mêmes raisons que les modifications
 
 [p. 168] CORPS, AME, ET ESPRIT.
 
@@ -2342,9 +2342,9 @@ avaient autorisé cette nouvelle induction : le redressement de
 
 nos images rétiniennes , grâce auquel nous sommes à même de percevoir les objets extérieurs dans leur situation droite, devait également être attribué au fonctionnement des canaux semi-circulaires . Peu à peu s'imposa enfin la théorie que c'est sur le système des coordonnées rectangulaires, dont la représentation nous est fournie par les sensations des trois ampoules des canaux, que sont projetées toutes nos sensations, et plus particulièrement les sensations tactiles et visuelles . Cette projection permet et la localisation des objets extérieurs , nécessaire pour l'orientation dans
 
-l'espace , et le redressement simultané des images rétiniennes, qui s'opère avant leur arrivée à notre conscience .
+l'espace , et le redressement simultané des images rétiniennes, qui s'opère avant leur arrivée à notre conscience .[^p172-1]
 
-Nous avons déjà dit que le fonctionnement du labyrinthe de l'oreille se prête particulièrement bien à l'établissement d'une ligne de démarcation entre les fonctions psycho-cérébrales et les purs processus de l'esprit, c'est-à-dire entre les[^p172-1]
+Nous avons déjà dit que le fonctionnement du labyrinthe de l'oreille se prête particulièrement bien à l'établissement d'une ligne de démarcation entre les fonctions psycho-cérébrales et les purs processus de l'esprit, c'est-à-dire entre les
 
 [p. 173] DIFFÉRENCIATION DES FONCTIONS PSYCHIQUES .
 
@@ -2368,7 +2368,7 @@ L'HOMME . LE DÉDOUBLEMENT DE LA PERSONNALITÉ .
 
 La formation d'un système de coordonnées idéal, à l'aide des trois sensations de direction fournies par le labyrinthe, comporte une autre conséquence dont l'explication précise se heurte à des difficultés beaucoup plus grandes. Il s'agit de la proposition d'après laquelle le point O de ce système correspondrait à notre conscience du moi. Le naturaliste avait toujours considéré la formation de la conscience du moi comme le résultat ou le produit de l'ensemble de nos sensations individuelles. Or, la projection de toutes nos sensations sur le système de coordonnées du labyrinthe de l'oreille a justement pour but la localisation de ces sensations dans l'espace extérieur. L'idée de vouloir identifier le point O de ce système de coordonnées
 
-avec le centre de convergence des perceptions de toutes nos sensations s'imposait donc tout naturellement. Le premier exposé détaillé de mes[^p174-2]
+avec le centre de convergence des perceptions de toutes nos sensations s'imposait donc tout naturellement.[^p174-2] Le premier exposé détaillé de mes
 
 [p. 175] DIFFÉRENCIATION DES FONCTIONS PSYCHIQUES .
 
@@ -2400,7 +2400,7 @@ doivent par conséquent être prises en considération quand on cherche à expli
 
 Un grand nombre d'animaux, capables de s'orienter dans l'espace extérieur à l'aide des canaux semi-circulaires ou des otocystes , peuvent, eux aussi, dans une certaine mesure, distinguer leur être individuel du monde extérieur ; ils possèdent donc une certaine conscience ou plutôt une sensation de soi. L'orgueil visible d'un pur sang arabe et le mépris qu'un chiende race , bien soigné, éprouve pour les chiens moins favorisés et abandonnés à la rue témoignent même en faveur de l'existence, chez certains vertébrés, d'une sensation de soi assez développée, sans qu'on puisse pour cela admettre des processus intellectuels lorsqu'il s'agit d'animaux.
 
-L'animal sent qu'il existe par lui-même en dehors des objets extérieurs qui l'entourent. Il peut exprimer ses sensations et sentiments par des mouvements réflexes, par des sons et par des bruits caractéristiques. Mais, sans la parole, toute formation d'idées est impossible. Le concept d'une existence[^p177-1]
+L'animal sent qu'il existe par lui-même en dehors des objets extérieurs qui l'entourent. Il peut exprimer ses sensations et sentiments par des mouvements réflexes, par des sons et par des bruits caractéristiques. Mais, sans la parole, toute formation d'idées est impossible.[^p177-1] Le concept d'une existence
 
 [p. 178] CORPS , AME , ET ESPRIT .
 
@@ -2500,9 +2500,9 @@ Les philosophes, s'ils veulent aboutir à des résultats
 
 [p. 185] DIFFÉRENCIATION DES FONCTIONS PSYCHIQUES .
 
-féconds et durables, doivent commencer par se familiariser complètement avec les données établies par la physiologie expérimentale et relatives au fonctionnement de ces organes de sensgénéraux. Mais, pour que le travail parallèle, accompli dans des domaines contigus par la physiologie et la philosophie, soit efficace, un accord entre ces deux sciences est indispensable, quant à la désignation des éléments et des facteurs qu'il s'agit d'étudier. La terminologie en usage jusqu'ici ne peut être maintenue sans d'importantes modifications . Une fois les processus de l'esprit éliminés de l'ensemble des fonctions psychiques, il devient évident que le mot psychologie ne devrait plus servir qu'à désigner strictement ces dernières . Ainsi entendu, ce mot pourrait désormais être appliqué sans inconvénient aux études sur les animaux, tandis qu'actuellement, lorsqu'on a fait des observations psychologiques sur des animaux, même invertébrés, on n'est que trop porté à en tirer des conclusions relatives aux facultés intellectuelles de l'homme, ce qui doit forcément donner lieu aux plus bizarres erreurs [^p185-1] . Des profanes, des dilettantes et malheureusement aussi des naturalistes ont grandement abusé, ces temps derniers, des mots, « études psychiques », « psychisme », ou encore « instituts psychologiques (3) » . Aussi la dignité même de la recherche scientifique conseillerait-elle de choisir un autre terme pour désigner les études portant sur l'esprit humain. Ce choix appartient naturellement aux philosophes. Le terme de mentologie aurait paru convenir, s'il n'était déjà en usage, autant que je sache , dans un autre domaine. Peut-être pourrait-on, provisoirement au moins , employer les expressions de « psychologie créatrice » , ou de « psychologie humaine » .
+féconds et durables, doivent commencer par se familiariser complètement avec les données établies par la physiologie expérimentale et relatives au fonctionnement de ces organes de sensgénéraux. Mais, pour que le travail parallèle, accompli dans des domaines contigus par la physiologie et la philosophie, soit efficace, un accord entre ces deux sciences est indispensable, quant à la désignation des éléments et des facteurs qu'il s'agit d'étudier. La terminologie en usage jusqu'ici ne peut être maintenue sans d'importantes modifications . Une fois les processus de l'esprit éliminés de l'ensemble des fonctions psychiques, il devient évident que le mot psychologie ne devrait plus servir qu'à désigner strictement ces dernières . Ainsi entendu, ce mot pourrait désormais être appliqué sans inconvénient aux études sur les animaux, tandis qu'actuellement, lorsqu'on a fait des observations psychologiques sur des animaux, même invertébrés, on n'est que trop porté à en tirer des conclusions relatives aux facultés intellectuelles de l'homme, ce qui doit forcément donner lieu aux plus bizarres erreurs [^p185-1] . Des profanes, des dilettantes et malheureusement aussi des naturalistes ont grandement abusé, ces temps derniers, des mots, « études psychiques », « psychisme », ou encore « instituts psychologiques (3) » . Aussi la dignité même de la recherche scientifique conseillerait-elle de choisir un autre terme pour désigner les études portant sur l'esprit humain. Ce choix appartient naturellement aux philosophes. Le terme de mentologie aurait paru convenir, s'il n'était déjà en usage, autant que je sache , dans un autre domaine. Peut-être pourrait-on, provisoirement au moins , employer les expressions de « psychologie créatrice » , ou de « psychologie humaine » .[^p185-2]
 
-Je me suis servi souvent du mot processus pour désigner les manifestations de l'activité spirituelle, parce que ce mot[^p185-2]
+Je me suis servi souvent du mot processus pour désigner les manifestations de l'activité spirituelle, parce que ce mot
 
 [p. 186] CORPS , AME , ET ESPRIT.
 
@@ -2510,7 +2510,7 @@ ne préjuge rien, quant à la nature de cette activité. Les termes associations
 
 Carl Stumpf, l'éminent philosophe, a introduit, ces temps derniers, l'expression, « fonctions psychiques », destinée à remplacer le terme phénomènes . Voici comment il définit la façon dont il entend cette expression et sa portée :
 
-« Contrairement aux définitions de D. S. Miller, Dewey, etc. , le mot fonction n'est pas conçu ici dans le sens d'un résultat produit par un processus, comme lorsqu'on dit que la circulation du sang est une fonction des contractions cardiaques ; mais ce mot est conçu dans le sens de l'activité, du processus, ou de l'événement lui-même , ainsi que la contraction même du cœur est considérée comme une fonction organique. » Même[^p186-1]
+« Contrairement aux définitions de D. S. Miller, Dewey, etc. , le mot fonction n'est pas conçu ici dans le sens d'un résultat produit par un processus, comme lorsqu'on dit que la circulation du sang est une fonction des contractions cardiaques ; mais ce mot est conçu dans le sens de l'activité, du processus, ou de l'événement lui-même , ainsi que la contraction même du cœur est considérée comme une fonction organique. »[^p186-1] Même
 
 [p. 187] DIFFÉRENCIATION DES FONCTIONS PSYCHIQUES .
 
@@ -2640,9 +2640,9 @@ Vers la même époque, il paraissait tout à fait impossible de maintenir pendan
 
 et vasomoteurs , ainsi que ceux des nerfs de la respiration et de certains nerfs oculo-moteurs .
 
-Après que Ludwig et Thiry, dans leurs célèbres travaux parus en 1864, eurent démontré les erreurs des méthodes et des conclusions de Bezold, le problème de l'existence des nerfs cardiaques, en dehors des pneumogastriques, sembla pour longtemps résolu dans le sens négatif. En juin 1866, j'entrepris de nouvelles recherches sur les nerfs du cœur ; grâce à des intuitions heureuses et à l'emploi de méthodes appropriées , les nerfs sensibles du cœur (nerfs dépresseurs) et les nerfs moteurs (nerfs accélérateurs) furent découverts, et leur merveilleux mécanisme se trouva élucidé avant la fin de la même année 1 .
+Après que Ludwig et Thiry, dans leurs célèbres travaux parus en 1864, eurent démontré les erreurs des méthodes et des conclusions de Bezold, le problème de l'existence des nerfs cardiaques, en dehors des pneumogastriques, sembla pour longtemps résolu dans le sens négatif. En juin 1866, j'entrepris de nouvelles recherches sur les nerfs du cœur ; grâce à des intuitions heureuses et à l'emploi de méthodes appropriées , les nerfs sensibles du cœur (nerfs dépresseurs) et les nerfs moteurs (nerfs accélérateurs) furent découverts, et leur merveilleux mécanisme se trouva élucidé avant la fin de la même année 1 .[^p196-1]
 
-J'ai raconté ailleurs l'histoire de la découverte des fonc-[^p196-1]
+J'ai raconté ailleurs l'histoire de la découverte des fonc-
 
 [p. 197] DIFFÉRENCIATION DES FONCTIONS PSYCHIQUES .
 
@@ -2686,7 +2686,7 @@ Le nombre des savants et des philosophes qui pensent juste est très limité dan
 
 ## partie d'un groupement heureux des images perçues, accu
 
-mulées dans notre mémoire. On reconnaît aisément combien est faible la proportion des personnes qui voient et sentent juste en soumettant simultanément un certain nombre d'individus de même âge et d'instruction à peu près[^p200-2]
+mulées dans notre mémoire.[^p200-2] On reconnaît aisément combien est faible la proportion des personnes qui voient et sentent juste en soumettant simultanément un certain nombre d'individus de même âge et d'instruction à peu près
 
 [p. 201] DIFFÉRENCIATION DES FONCTIONS PSYCHIQUES.
 
@@ -2870,7 +2870,7 @@ Depuis de nombreuses années, et principalement pendant les périodes de grande 
 
 D'après ma longue expérience , l'heure du réveil et la durée du sommeil n'exercent aucune influence appréciable
 
-ni sur l'aptitude productrice de l'esprit aussitôt après le réveil, ni sur l'apparition des intuitions heureuses au moment du réveil . Seule la profondeur du sommeil présente sous ce rapport une certaine importance, parce que seul le sommeil profond constitue un repos pour notre cerveau 2. Or, à l'état normal, le sommeil le plus profond a lieu pendant les premières heures qui suivent l'assoupissement. Tous les observateurs et expérimentateurs qui, comme Kohlschütter, Michelsohn et autres, ont étudié spécialement les phénomènes du sommeil, sont d'accord là-dessus. Aussi, deux ou trois heures de bon sommeil suffisent-elles, même chez les personnes qui se livrent à de grands efforts intellectuels, pour que le cerveau reposé puisse reprendre le travail ; ceci toutefois à la condition que le réveil se produise spontanément, sans que des circonstances extérieures, telles que bruits ou attouchements, aient contribué à le provoquer.[^p217-1][^p217-2]
+ni sur l'aptitude productrice de l'esprit aussitôt après le réveil, ni sur l'apparition des intuitions heureuses au moment du réveil . Seule la profondeur du sommeil présente sous ce rapport une certaine importance, parce que seul le sommeil profond constitue un repos pour notre cerveau 2. Or, à l'état normal, le sommeil le plus profond a lieu pendant les premières heures qui suivent l'assoupissement. Tous les observateurs et expérimentateurs qui, comme Kohlschütter, Michelsohn et autres, ont étudié spécialement les phénomènes du sommeil, sont d'accord là-dessus. Aussi, deux ou trois heures de bon sommeil suffisent-elles, même chez les personnes qui se livrent à de grands efforts intellectuels, pour que le cerveau reposé puisse reprendre le travail ; ceci toutefois à la condition que le réveil se produise spontanément, sans que des circonstances extérieures, telles que bruits ou attouchements, aient contribué à le provoquer.[^p217-2][^p217-1]
 
 [p. 218] CORPS , AME , ET ESPRIT .
 
@@ -3036,9 +3036,9 @@ Helmholtz, tout en combattant certaines exagérations des idées de Kant , a né
 
 << Nos sensations sont les effets produits sur nos organes par des causes extérieures ; la manière dont ces effets se manifestent dépend essentiellement de la nature des appareils sur lesquels l'action s'est exercée. En tant que la qualité de nos sensations dépend des particularités de l'action extérieure qui la provoque, elle doit être considérée comme un signe de l'action et non comme son image. D'une image, on exige la concordance avec l'objet qu'elle reproduit : d'une statue , l'identité des formes ; d'un dessin, la conformité de la projection en perspective dans le champ visuel ; d'un tableau , l'identité des couleurs. Un signe n'exige aucune sorte de ressemblance avec l'objet qu'il signale. Lerapport entre les deux ne consiste qu'en ceci que le même objet, dans les mêmes circonstances, se manifeste par le même signe, et que des signes différents correspondent à des objets différents [^p231-1]. »
 
-Comme argument en faveur de cette conception de la nature des sensations, Helmholtz note le fait que les signes et les symboles suffisent pour nous faire connaître les lois des mouvements des objets extérieurs : « Les objets similaires , dans le monde accessible à nos sens, nous étant toujours indiqués par des signes identiques, il s'ensuit que la succession régulière dans le domaine de nos sensations doit correspondre à la succession naturelle des mêmes effets aux mêmes causes. » Après avoir adopté la conception de Kant, que les qualités des sensations sont la forme de notre intuition (Anschauung) , Helmholtz s'est trouvé forcé d'admettre également l'origine *a priori* du principe de causalité 2 .
+Comme argument en faveur de cette conception de la nature des sensations, Helmholtz note le fait que les signes et les symboles suffisent pour nous faire connaître les lois des mouvements des objets extérieurs : « Les objets similaires , dans le monde accessible à nos sens, nous étant toujours indiqués par des signes identiques, il s'ensuit que la succession régulière dans le domaine de nos sensations doit correspondre à la succession naturelle des mêmes effets aux mêmes causes. » Après avoir adopté la conception de Kant, que les qualités des sensations sont la forme de notre intuition (Anschauung) , Helmholtz s'est trouvé forcé d'admettre également l'origine *a priori* du principe de causalité 2 .[^p231-2]
 
-Malgré la haute autorité dont jouissait à juste titre Helm-[^p231-2]
+Malgré la haute autorité dont jouissait à juste titre Helm-
 
 [p. 232] CORPS , AME , ET ESPRIT.
 
@@ -3066,7 +3066,7 @@ Cela est aussi vrai pour les illusions du sens de la vue que pour celles des aut
 
 Dans un précédent ouvrage , nous avons pu, à l'aide de la méthode graphique, remplir tout un chapitre d'expériences les plus variées qui démontrent cette impuissance de notre entendement sur nos sens 2. Plus haut (§ 6) , à propos de la délimitation entre les fonctions de l'âme et les manifestations de l'esprit, cette impuissance même nous a servi de critérium sûr pour distinguer lesillusions des sens et les erreurs du jugement .
 
-Nous voyons la lune sous la forme d'un disque plat, tout en la pensant sphérique. Il en est de même du soleil, que nous continuons à percevoir comme un disque jaunâtre, tout en ayant dans notre pensée sa vraie forme (E. Hering). Malgré Copernic, Galilée et Newton, nous voyons toujours le lever et le coucher du soleil , et nous suivons sa marche sur l'horizon. Notre entendement est également incapable de corriger les innombrables illusions optiques que nous provoquons à volonté au cours des expériences physiologiques dans nos laboratoires.[^p233-1][^p233-2]
+Nous voyons la lune sous la forme d'un disque plat, tout en la pensant sphérique. Il en est de même du soleil, que nous continuons à percevoir comme un disque jaunâtre, tout en ayant dans notre pensée sa vraie forme (E. Hering). Malgré Copernic, Galilée et Newton, nous voyons toujours le lever et le coucher du soleil , et nous suivons sa marche sur l'horizon. Notre entendement est également incapable de corriger les innombrables illusions optiques que nous provoquons à volonté au cours des expériences physiologiques dans nos laboratoires.[^p233-2][^p233-1]
 
 [p. 234] CORPS , AME , ET ESPRIT .
 
@@ -3138,7 +3138,7 @@ Le déroulement de tous ces processus psychiques rappellera à l'observateur les
 
 Le redressement de l'image renversée lui rappellera la manière dont ce phénomène s'accomplit à l'aide d'un simple prisme dans la chambre noire du photographe. Il admirera la marche parfaite des diverses parties de la machine, il reconnaîtra la supériorité infinie des merveilleux mécanismes cérébraux, la finesse et la complexité incomparables de leur fonctionnement. Les créations les plus achevées de la mécanique moderne lui paraîtront, par comparaison, n'être que des jouets d'enfants. Mais, dans cette admirable machinerie, il ne rencontrera rien qui dépasse son entendement .
 
-Ce n'est qu'au moment où l'esprit humain commence à utiliser, pour la formation des concepts, des idées générales et des jugements, les perceptions et représentations accumulées, que le physiologiste, après avoir approfondi le fonctionnement de la machinerie du cerveau, vient se heurter aux limites de sa connaissance sensorielle. La puissance de ses facultés de discernement purement psychique s'arrête quand il[^p239-1]
+Ce n'est qu'au moment où l'esprit humain commence à utiliser, pour la formation des concepts, des idées générales et des jugements, les perceptions et représentations accumulées, que le physiologiste, après avoir approfondi le fonctionnement de la machinerie du cerveau, vient se heurter aux limites de sa connaissance sensorielle.[^p239-1] La puissance de ses facultés de discernement purement psychique s'arrête quand il
 
 [p. 240] CORPS , AME , ET ESPRIT .
 
@@ -3210,7 +3210,7 @@ La déclaration de Faraday souleva une vive indignation dans la presse. De viole
 
 Dans l'hiver de 1871 , Home, après une très longue absence, reparut à Saint-Pétersbourg. Il y retrouva ses anciennes relations et, grâce au souvenir encore vivace de ses exploits passés, il ne tarda pas à redevenir l'oracle du grand monde. Ses mystérieuses séances au Palais d'hiver, en tête à tête avec Alexandre II , faisaient l'objet de toutes les conversations et préoccupaient sérieusement les rares patriotes russes initiés aux secrets de la haute politique.
 
-Le 24 février 1871 , Douglas Home, au cours d'une conférence privée, renouvela, devant un public nombreux, le défi lancé vingt ans auparavant en Angleterre. Un professeur de[^p244-1]
+Le 24 février 1871 , Douglas Home, au cours d'une conférence privée, renouvela, devant un public nombreux, le défi lancé vingt ans auparavant en Angleterre.[^p244-1] Un professeur de
 
 [p. 245] DIFFÉRENCIATION DES FONCTIONS PSYCHIQUES .
 
@@ -3308,7 +3308,7 @@ Il ne faut pas oublier non plus que les gens animés des meilleures intentions, 
 
 La publication du protocole et de mon étude, Le spiritisme devant la science, dans les journaux de Saint-Pétersbourg 1 , produisit une certaine sensation en Russie et une véritable émotion en Angleterre, où le spiritisme, sous toutes les formes, a conservé le plus de fidèles.
 
-La presse anglaise m'attaqua vivement. Quelques organes qui, comme le Standard, avaient compris la vraie portée de l'échec subi par Home, déclarèrent que, pour sauver sa réputation, celui-ci devait se soumettre à l'examen d'une commission de savants anglais, afin de se disculper des accusations portées par Cyon, devenu « a thorn in the side of the spirits » . Harcelé de tous côtés, Home y consentit. Une commission se réunit, dont faisaient partie, entre autres, l'astronome Higgins, le chimiste Crookes, et, je crois, Alfred Wallace, le célèbre zoologiste. Autant que je sache, aucun protocole ne parut alors ; j'ignore donc les détails de la séance. Mais, dans[^p253-1]
+La presse anglaise m'attaqua vivement. Quelques organes qui, comme le Standard, avaient compris la vraie portée de l'échec subi par Home, déclarèrent que, pour sauver sa réputation, celui-ci devait se soumettre à l'examen d'une commission de savants anglais, afin de se disculper des accusations portées par Cyon, devenu « a thorn in the side of the spirits » . Harcelé de tous côtés, Home y consentit. Une commission se réunit, dont faisaient partie, entre autres, l'astronome Higgins, le chimiste Crookes, et, je crois, Alfred Wallace, le célèbre zoologiste. Autant que je sache, aucun protocole ne parut alors ; j'ignore donc les détails de la séance.[^p253-1] Mais, dans
 
 [p. 254] CORPS , AME , ET ESPRIT .
 
@@ -3534,7 +3534,7 @@ Après avoir résisté pendant une vingtaine d'années aux attaques
 
 justifiées de ses adversaires, la doctrine darwinienne eut l'étrange destinée de succomber sous les coups de ses plus zélés partisans. Deux hypothèses, la sélection naturelle des plus aptes et la transmission héréditaire des propriétés acquises pendant la lutte pour l'existence, formaient les principales assises sur lesquelles était édifiée la théorie de l'évolution transformiste. Herbert Spencer, le grand métaphysicien anglais, l'apôtre le plus enthousiaste de la nouvelle conception mondiale de Darwin, s'est chargé de détruire le premier de ces fondements et de démontrer la complète impossibilité d'une évolution des organismes supérieurs à l'aide de la sélection naturelle 1. Un autre darwiniste non moins passionné, l'embryologiste Weismann, soumit à une analyse critique détaillée les faits essentiels sur lesquels on s'appuyait pour soutenir la possibilité d'une transmission héréditaire des propriétés et des particularités acquises pendant la vie des organismes. Il parvint ainsi à démontrer que ces prétendus faits ne reposaient que sur des récits inventés de toutes pièces, ayant à peu près la valeur scientifique des contes de nourrices.
 
-L'écroulement d'une seule de ces bases du darwinisme était suffisant pour renverser l'hypothèse de la descendance des formes organiques. En effet, sans transmission héréditaire[^p271-1]
+L'écroulement d'une seule de ces bases du darwinisme était suffisant pour renverser l'hypothèse de la descendance des formes organiques.[^p271-1] En effet, sans transmission héréditaire
 
 [p. 272] ÉVOLUTION ET TRANSFORMISME .
 
@@ -3676,7 +3676,7 @@ Nous ne saurions mieux conclure cette introduction à la psychologie des
 
 rappelant
 
-quelle accablante et décisive réfutation de leurs doctrines fut donnée par K. E. von Baer. L'illustre savant avait longtemps résisté aux sollicitations des naturalistes qui le pressaient d'émettre son opinion autorisée sur le darwinisme. C'est seulement en 1876, au déclin de sa vie mais encore en pleine[^p279-1]
+quelle accablante et décisive réfutation de leurs doctrines fut donnée par K. E. von Baer. L'illustre savant avait longtemps résisté aux sollicitations des naturalistes qui le pressaient d'émettre son opinion autorisée sur le darwinisme.[^p279-1] C'est seulement en 1876, au déclin de sa vie mais encore en pleine
 
 [p. 280] ÉVOLUTION ET TRANSFORMISME .
 
@@ -4132,7 +4132,7 @@ Voici d'ailleurs comment il apprécie la valeur de son œuvre dans une lettre ad
 
 (to lay down some of the broad outlines of the Origin of Species) 2. »
 
-Au point de vue de la pensée philosophique, quel contraste avec Lamarck ! Toute la tragédie de sa vie celui-ci l'a résumée dans ces quelques lignes : « Les hommes qui s'efforcent, par leurs travaux, de reculer les limites des connaissances humaines savent assez qu'il ne suffit pas de découvrir et de démontrer une vérité, mais qu'il faut encore la répandre et la[^p315-2]
+Au point de vue de la pensée philosophique, quel contraste avec Lamarck ![^p315-2] Toute la tragédie de sa vie celui-ci l'a résumée dans ces quelques lignes : « Les hommes qui s'efforcent, par leurs travaux, de reculer les limites des connaissances humaines savent assez qu'il ne suffit pas de découvrir et de démontrer une vérité, mais qu'il faut encore la répandre et la
 
 [p. 316] ÉVOLUTION ET TRANSFORMISME .
 
@@ -4198,9 +4198,9 @@ N'était le nom justement estimé de Darwin, la naïveté de cette hypothèse e�
 
 Les ingénieux efforts de Broocks pour la défendre sont également basés sur des hypothèses inadmissibles. Il y a plus ; M. Galton, parent et admirateur ardent de Darwin, a prouvé, par des expériences irréfutables, que les « petits germes » darwiniens n'existent pas dans la réalité.
 
-M. Weismann fut le premier à donner de la transmission héréditaire une explication qui, dans ses traits généraux peut encore être considérée comme très vraisemblable. Malgré son audace apparente, cette théorie des plus simples ne repose que sur des observations et des données incontestables ; aussi a-t-elle facilement triomphe de la plupart des objections qu'elle avait d'abord soulevées. Pour l'adopter, nul besoin de recourir à de nouvelles hypothèses ; enfin, elle éclaire d'un jour nouveau plusieurs problèmes fondamentaux des sciences naturelles. C'est la théorie de M. Weismann qui porta le couple plus sensible aux doctrines évolutionnistes, alors en pleine vogue.
+M. Weismann fut le premier à donner de la transmission héréditaire une explication qui, dans ses traits généraux peut encore être considérée comme très vraisemblable. Malgré son audace apparente, cette théorie des plus simples ne repose que sur des observations et des données incontestables ; aussi a-t-elle facilement triomphe de la plupart des objections qu'elle avait d'abord soulevées. Pour l'adopter, nul besoin de recourir à de nouvelles hypothèses ; enfin, elle éclaire d'un jour nouveau plusieurs problèmes fondamentaux des sciences naturelles. C'est la théorie de M. Weismann qui porta le couple plus sensible aux doctrines évolutionnistes, alors en pleine vogue.[^p320-1]
 
-Voici le fond de cette théorie, que son auteur appelle « la théorie de la perpétuité du plasme germinatif (Continuität[^p320-1]
+Voici le fond de cette théorie, que son auteur appelle « la théorie de la perpétuité du plasme germinatif (Continuität
 
 [p. 321] GRANDEUR ET DÉCADENCE DU DARWINISME .
 
@@ -4270,7 +4270,7 @@ toutes ses transformations successives en formes organiques supérieures, équiv
 
 L'éminent biologiste Oscar Hertwig qui, dans ses recherches d'embryologie et d'anatomie, se rattache aux belles concéptions de la nature de K. E. von Baer, caractérise justement l'ultradarwinisme de M. Weismann en ces termes : « La variabilité des cellules germinatives qui s'accomplit au hasard et sans direction, grâce à des causes inconnues et qui échappent à l'investigation directe, devient pour Weismann la seule source qu'offre la sélection naturelle pour la formation des espèces 1. » En effet, M. Weismann fait lui-même cet aveu :
 
-«La survivance des plus aptes est certaine, mais nous ignorons dans chaque cas spécial ce qui est plus apte, et combien de fois dans chaque génération cela survit ou doit survivre pour aboutir à la victoire. Nous ne pouvons donc pas fournir la preuve qu'une adaptation donnée soit provoquée par la sélection naturelle . >>>[^p325-1]
+«La survivance des plus aptes est certaine, mais nous ignorons dans chaque cas spécial ce qui est plus apte, et combien de fois dans chaque génération cela survit ou doit survivre pour aboutir à la victoire. Nous ne pouvons donc pas fournir la preuve qu'une adaptation donnée soit provoquée par la sélection naturelle .[^p325-1] >>>
 
 [p. 326] ÉVOLUTION ET TRANSFORMISME .
 
@@ -4388,7 +4388,7 @@ La forme de la circulaire parut bien quelque peu ridicule, [p. 334] ÉVOLUTION E
 
 même aux journaux amis : ils jugeaient la proposition prématurée et essayèrent de modérer le zèle intempestif des monistes de Berlin. Néanmoins, le 30 juillet 1908, en pleine fête jubilaire de l'Université, le professeur Haeckel inaugurait à Iéna le premier édifice élevé en l'honneur de la divinité protozoaire. S'il évitait d'en prononcer le nom, voici en quels termes il expliquait la destination de son église : « Au service de la conception rationnelle du monde sera consacré le nouveau musée de la doctrine évolutionniste. Espérons que ce musée phylétique, dont le monument s'élève à la porte du Paradis [^p334-1] , sera un temple pour la religion de la Raison pure, par le culte du Vrai, du Bien, et du Beau. En posant, à l'aide de l'Histoire de la Descendance, ses solides fondements , nous résolvons en même temps le grand problème de l'Homme. »
 
-L'émotion produite par cette inauguration solennelle fut si vive en Allemagne que le Dr Brass, embryologiste expérimenté, eut l'idée d'examiner de plus près le MenschenProblem, appelé à devenir l'évangile définitif de la nouvelle religion. L'examen ne fut pas heureux pour son apôtre. Le Dr Brass 2 constata que plusieurs planches qui ornent le livre et qui, selon l'affirmation de l'auteur, sont « des reproductions très fidèles » d'après les ouvrages de naturalistes connus, avaient subi de véritables maquillages , destinés à démontrer que, dans certaines phases de leur développement, les embryons de l'homme sont identiques à ceux des chauvessouris, des poissons, et des singes anthropoïdes. Ainsi l'on y voit l'embryon d'un macaque à queue (cercocebus cynomolgus) , présenté comme étant celui d'un gibbon (hylobates) , l'anthropoïde sans queue. Dans le dessin de l'embryon emprunté au professeur Selenka, Haeckel supprime une partie du ventre et modifie les contours de la tête. A l'embryon d'une chauve-souris de van Beneden, il enlève une partie[^p334-2]
+L'émotion produite par cette inauguration solennelle fut si vive en Allemagne que le Dr Brass, embryologiste expérimenté, eut l'idée d'examiner de plus près le MenschenProblem, appelé à devenir l'évangile définitif de la nouvelle religion. L'examen ne fut pas heureux pour son apôtre. Le Dr Brass 2 constata que plusieurs planches qui ornent le livre et qui, selon l'affirmation de l'auteur, sont « des reproductions très fidèles » d'après les ouvrages de naturalistes connus, avaient subi de véritables maquillages , destinés à démontrer que, dans certaines phases de leur développement, les embryons de l'homme sont identiques à ceux des chauvessouris, des poissons, et des singes anthropoïdes. Ainsi l'on y voit l'embryon d'un macaque à queue (cercocebus cynomolgus) , présenté comme étant celui d'un gibbon (hylobates) , l'anthropoïde sans queue. Dans le dessin de l'embryon emprunté au professeur Selenka, Haeckel supprime une partie du ventre et modifie les contours de la tête.[^p334-2] A l'embryon d'une chauve-souris de van Beneden, il enlève une partie
 
 [p. 335] LA SCIENCE ET LES DOCTRINES DE HAECKEL .
 
@@ -4514,7 +4514,7 @@ Haeckel s'efforce donc de construire sa thèse sur les données de l'embryologie
 
 les principaux traits des changements que l'espèce même aurait subis dans son développement, à partir de sa forme la plus simple jusqu'à sa forme actuelle . Cette loi biogénétique, comme il l'appelle, constitue tout le fondement de son anthropogénie :
 
-l'ontogénie, ou développement de l'individu, ne serait que la répétition abrégée de la phylogénie, c'est-à-dire du développement de l'espèce. En conséquence, durant les neuf mois de la vie utérine nous passerions rapidement par les vingt et une[^p341-2]
+l'ontogénie, ou développement de l'individu, ne serait que la répétition abrégée de la phylogénie, c'est-à-dire du développement de l'espèce.[^p341-2] En conséquence, durant les neuf mois de la vie utérine nous passerions rapidement par les vingt et une
 
 [p. 342] ÉVOLUTION ET TRANSFORMISME .
 
@@ -5102,7 +5102,7 @@ Dans le conflit artificiel entre la religion et la science, les fantaisies haeck
 
 confusion profondément ancrée dans l'esprit du public profane et même, hélas ! dans celui de bien des philosophes. En raison de cette confusion, le devoir s'impose aux naturalistes d'intervenir avec énergie dans la discussion pendante sur les rapports entre la religion et la science.
 
-Les grands philosophes chrétiens affirmaient que les problèmes de la religion ne peuvent être discutés avec autorité que par des hommes ayant la foi. Ce qu'on possède déjà avec la certitude de la foi doit être éclairé à la lumière de la raison, disait saint Augustin, l'un des plus profonds psychologues de la chrétienté. Dans le même ordre d'idées, saint Thomas d'Aquin, qui, mieux que les autres scolastiques , avait appris chez Aristote le langage précis de la pensée[^p385-1]
+Les grands philosophes chrétiens affirmaient que les problèmes de la religion ne peuvent être discutés avec autorité que par des hommes ayant la foi. Ce qu'on possède déjà avec la certitude de la foi doit être éclairé à la lumière de la raison, disait saint Augustin, l'un des plus profonds psychologues de la chrétienté.[^p385-1] Dans le même ordre d'idées, saint Thomas d'Aquin, qui, mieux que les autres scolastiques , avait appris chez Aristote le langage précis de la pensée
 
 [p. 386] et les méthodes de la discussion logique, conseillait , dans la controverse avec les adversaires de la révélation, de ne pas chercher à leur démontrer l'exactitude des propositions de la foi, qui n'admettent pas de preuves directes, mais de se borner à réfuter les arguments qu'on opposait à la foi. « Comme la foi repose sur la vérité infaillible et comme il est impossible de démontrer le contraire de la vérité, il s'ensuit que les arguments contre la foi ne sont pas des preuves et peuvent être réfutés par des arguments opposés 1. »
 
@@ -5226,7 +5226,7 @@ Commençons par le plus illustre des naturalistes , par Lavoisier , ce génie sa
 
 Les écrits théologiques du grand physicien et chimiste Priestley, le premier des savants nommés plus haut, sont aussi nombreux que ses ouvrages scientifiques. Ils nous éclairent d'une manière précise sur ses sentiments religieux. Priestley n'hésita pas à entrer en lutte, sur des questions de pure théologie chrétienne, contre les doctrines dominantes. C'est au cours de ces controverses qu'il manqua d'être écharpé par une foule fanatisée qui détruisit sa maison et son laboratoire avec tous ses instruments de travail, accumulés durant sa vie laborieuse. Forcé de s'expatrier en Amérique, il y finit paisiblement ses jours au milieu des siens. Voici en quels termes émouvants Cuvier décrit sa mort :
 
-« Ses derniers moments furent remplis par les épanchements de cette piété qui avait animé toute sa vie. Il se faisait lire les évangiles et remerciait Dieu de lui avoir donné une vie utile et une mort paisible. Je vais m'endormir comme vous, disait-il à ses petits-enfants qu'on emmenait, mais nous nous réveillerons tous ensemble pour un bonheur éternel, témoignant[^p393-1]
+« Ses derniers moments furent remplis par les épanchements de cette piété qui avait animé toute sa vie. Il se faisait lire les évangiles et remerciait Dieu de lui avoir donné une vie utile et une mort paisible.[^p393-1] Je vais m'endormir comme vous, disait-il à ses petits-enfants qu'on emmenait, mais nous nous réveillerons tous ensemble pour un bonheur éternel, témoignant
 
 [p. 394] DIEU ET L'HOMME .
 
@@ -5276,7 +5276,7 @@ Claude Bernard était déiste, très respectueux de la religion quoique ne prati
 
 << En admettant que les phénomènes vitaux se rattachent à des manifestations physico-chimiques, ce qui est vrai, la question, dans son essence, n'est pas résolue pour cela ; car ce n'est pas une rencontre fortuite de phénomènes physicochimiques qui construit chaque être sur un plan et suivant un dessein fixe et prévu d'avance et suscite l'admirable subordination et l'harmonieux concert des actes de la vie. Il y a, dans le corps, un arrangement, une sorte d'ordonnance que l'on ne saurait laisser dans l'ombre, parce qu'elle est véritablement le trait le plus saillant des êtres vivants. Les phénomènes vitaux ont bien leurs conditions physico-chimiques, rigoureusement déterminées, mais en même temps ils se subordonnent et se succèdent dans un enchaînement et suivant une loi fixée d'avance : ils se répètent éternellement, avec ordre , régularité, constance, et s'harmonisent en vue d'un résultat qui estl'organisation et l'accroissement de l'individu animal et végétal.>>>
 
-<<Ily a comme un dessein préétabli de chaque être et de chaque organe, en sorte que si, considéré isolément , chaque phénomène de l'économie est tributaire des forces générales de la nature, pris dans ses rapports avec les autres, il révèle un lien spécial, il semble dirigé par quelque guide invisible dans la route qu'il suit et amené dans la place qu'il occupe. La plus simple méditation nous fait apercevoir un caractère de premier ordre, un quid proprium de l'être vivant dans cetteordonnance vitale préétablie . Toutefois, l'observation ne nous apprend que cela ; elle nous montre un plan organique, mais non une intervention[^p398-1]
+<<Ily a comme un dessein préétabli de chaque être et de chaque organe, en sorte que si, considéré isolément , chaque phénomène de l'économie est tributaire des forces générales de la nature, pris dans ses rapports avec les autres, il révèle un lien spécial, il semble dirigé par quelque guide invisible dans la route qu'il suit et amené dans la place qu'il occupe. La plus simple méditation nous fait apercevoir un caractère de premier ordre, un quid proprium de l'être vivant dans cetteordonnance vitale préétablie .[^p398-1] Toutefois, l'observation ne nous apprend que cela ; elle nous montre un plan organique, mais non une intervention
 
 [p. 399] SCIENCE , RELIGION , ET MORALE .
 
@@ -5362,7 +5362,7 @@ rissable . Sa classification systématique de toutes les branches du savoir huma
 
 Les convictions religieuses d'Ampère avaient été très vives dès sa jeunesse. Après une courte période d'hésitations où il vécut les tourments du doute, comme Pascal, Haller et bien d'autres maîtres de la pensée, il revint entièrement à ses premières croyances. Raffermi pour le reste de sa vie dans la foi chrétienne, il composa à cette occasion une belle prière, dont quelques lignes montreront l'élévation : « Mon Dieu, je vous remercie de m'avoir créé, racheté, et éclairé de votre divine lumière en me faisant naître dans le sein de l'église catholique. Je vous remercie de m'avoir rappelé à vous après mes égarements, je sens que vous voulez que je ne vive que pour vous et que tous mes moments vous soient consacrés. » La prière finit par ces paroles : « Ο Seigneur , Dieu de miséricorde, daignez me réunir dans le ciel à ce que vous m'avez permis d'aimer sur la terre 1. A la fin du présent ouvrage, je reviendrai sur les conceptions religieuses de son âge mûr.
 
-Particulièrement intéressantes sont les conceptions religieuses de Faraday. Comme son illustre maître HumphreyDavy, Faraday était profondément religieux ; mais leurs conceptions de l'esprit humain et de la religion différaient nota-[^p405-1]
+Particulièrement intéressantes sont les conceptions religieuses de Faraday.[^p405-1] Comme son illustre maître HumphreyDavy, Faraday était profondément religieux ; mais leurs conceptions de l'esprit humain et de la religion différaient nota-
 
 [p. 406] DIEU ET L'HOMME .
 
@@ -5436,9 +5436,9 @@ Nunc dimittis servum tuum, Domine », furent ses dernières paroles après avoir
 
 Ses plus illustres collègues de l'Académie des sciences de Paris, qui, depuis le commencement du XIXe siècle, était le phare lumineux guidant le mouvement scientifique du monde entier, étaient presque tous
 
-spiritualistes et, en grande majorité, religieux. Rappelons seulement J.-B. Dumas, Élie de Beaumont, Milne- Edwards, de Quatrefages. Je consacrerai quelques lignes spéciales à l'illustre Pasteur, qui, lui, n'hésita pas à proclamer hautement, à plusieurs reprises, ses concep
+spiritualistes et, en grande majorité, religieux. Rappelons seulement J.-B. Dumas, Élie de Beaumont, Milne- Edwards, de Quatrefages.[^p411-2][^p411-1] Je consacrerai quelques lignes spéciales à l'illustre Pasteur, qui, lui, n'hésita pas à proclamer hautement, à plusieurs reprises, ses concep
 
-([^p411-1][^p411-2]
+(
 
 [p. 412] DIEU ET L'HOMME .
 
@@ -5482,7 +5482,7 @@ de la religion est le fanatisme ; la caricature de la pensée libre est l'athéi
 
 Les vraies preuves de la vérité des révélations religieuses ne peuvent reposer que sur la connaissance sensorielle, c'est-àdire qu'elles ne peuvent être fournies que par l'expérience et l'observation . Dans les sciences exactes, la décision sur la valeur d'une théorie, d'une hypothèse, ou d'une simple proposition, s'obtient à l'aide de l'expérimentation à laquelle elles sont soumises. Ceci est aussi vrai en physique qu'en psychologie expérimentale. En parlant, dans le chapitre III, des « véritables laboratoires de psychologie », nous avons invoqué les brillants résultats obtenus par les expériences psychologiques des grands prophètes et apôtres. Depuis plusieurs milliers d'années, ces résultats conservent, disions-nous, leur pleine valeur. Quelle expérience des laboratoires de psychologie peut être comparée, comme durée et comme résultat, à celle que Moïse poursuivit pendant les quarante années passées dans le désert ? Depuis plus de deux mille ans, tous les effets prévus et prédits par lui se sont réalisés, même les prévisions sinistres qu'avant sa mort il signifia au peuple juif pour le cas où celui-ci oublierait les commandements de Dieu 2 .
 
-La mission de Moïse était limitée à quelques tribus d'Hébreux, auxquelles il enseigna les principes du gouvernement et les lois de la justice. Jésus-Christ reçut de Dieu la révélation pleine et entière de la vérité qui était destinée au genre humain tout entier. « A Jésus-Christ furent révélés immédiatement, sans paroles et sans visions , ces secrets de Dieu qui mènent l'homme au salut. Dieu se manifeste donc aux apôtres par l'âme de Jésus-Christ... C'est d'âme à âme que Jésus-Christ communiquait avec Dieu.>> Ainsi s'exprime Spinosa 3, que des commentateurs comme Schelling et Hegel[^p416-2][^p416-3]
+La mission de Moïse était limitée à quelques tribus d'Hébreux, auxquelles il enseigna les principes du gouvernement et les lois de la justice. Jésus-Christ reçut de Dieu la révélation pleine et entière de la vérité qui était destinée au genre humain tout entier. « A Jésus-Christ furent révélés immédiatement, sans paroles et sans visions , ces secrets de Dieu qui mènent l'homme au salut. Dieu se manifeste donc aux apôtres par l'âme de Jésus-Christ... C'est d'âme à âme que Jésus-Christ communiquait avec Dieu.[^p416-3][^p416-2]>> Ainsi s'exprime Spinosa 3, que des commentateurs comme Schelling et Hegel
 
 [p. 417] SCIENCE ,
 

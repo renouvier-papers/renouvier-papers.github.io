@@ -158,7 +158,7 @@ Ce qui caractérise pour nous la quantité, c'est la possibilité de parler avec
 
 Il en est de même pour l'aire, le volume, le poids... La qualité, c'est toute propriété des choses qui se présente à nous dans une sensation, dans une image, dans une intuition. Il arrive pour certaines qualités de ne pouvoir admettre dans aucun sens le plus ou le moins :
 
-ainsi la droite, le plan, le cercle ne sauraient avoir à des degrés divers¹ la forme rectiligne, plane ou circulaire ; une figure ne saurait être de même plus ou moins un décagone, etc. Mais en général il n'en est pas ainsi, et c'est au contraire une des propriétés naturelles de la qualité de varier en intensité. Ce qui distingue la quantité de la qualité, ce n'est donc pas seulement la possibilité de comparaison dans le sens du plus ou du moins, c'est la précision rigoureuse qu'apportent dans [^p19-1]
+ainsi la droite, le plan, le cercle ne sauraient avoir à des degrés divers[^p19-1] la forme rectiligne, plane ou circulaire ; une figure ne saurait être de même plus ou moins un décagone, etc. Mais en général il n'en est pas ainsi, et c'est au contraire une des propriétés naturelles de la qualité de varier en intensité. Ce qui distingue la quantité de la qualité, ce n'est donc pas seulement la possibilité de comparaison dans le sens du plus ou du moins, c'est la précision rigoureuse qu'apportent dans
 
 [p. 20] ces comparaisons la notion de l'égal et celle de la somme. La douleur que nous fait éprouver une piqûre est plus ou moins forte, la chaleur qui nous vient d'un objet est plus ou moins élevée, un bruit est plus ou moins considérable, une couleur est plus ou moins vive ; mais d'une part il nous serait impossible de nous entendre sur ce que seraient, par exemple, deux douleurs également fortes, deux impressions de chaleur identiques, etc., et d'autre part quel sens aurait pour nous la somme de deux douleurs, le double ou le triple d'une sensation de chaleur ?
 
@@ -525,7 +525,7 @@ Le sens du des études de géométrie démonstrative ?
 
 mot Harpedonaptes (ceux qui attachent le cordeau), quelques indications fournies par un vieux document de la collection de Berlin
 
-, et aussi certaines peintures égyptiennes, où l'on voit le roi lui-même, une corde et des piquets à la main, procéder à l'orientation d'un temple, laissent peu de doute sur la nature des fonctions de ces personnages que vise Démocrite. L'orientation d'un monument exigeait d'abord la détermination de la méridienne, de la ligne Nord-Sud, ce qui se faisait très simplement, puis celle de la ligne Est Ouest, perpendiculaire à la précédente. C'est ici sans [^p61-1][^p61-2]
+, et aussi certaines peintures égyptiennes, où l'on voit le roi lui-même, une corde et des piquets à la main, procéder à l'orientation d'un temple, laissent peu de doute sur la nature des fonctions de ces personnages que vise Démocrite. L'orientation d'un monument exigeait d'abord la détermination de la méridienne, de la ligne Nord-Sud, ce qui se faisait très simplement, puis celle de la ligne Est Ouest, perpendiculaire à la précédente.[^p61-2][^p61-1] C'est ici sans
 
 [p. 62] LES
 
@@ -555,7 +555,7 @@ Sans nous attarder aux détails et aux petits problèmes, dont on a pu longtemps
 
 dire les éclipses ?
 
-Nous ne doutons plus aujourd'hui que, bien avant Thalès, Égyptiens et surtout Chaldéens ne s'essayassent couramment à des prédictions d'éclipses. Mais que faut-il en conclure ? Nous sommes bien sûrs que notre explication théorique du phénomène ne fut pas connue des Orientaux, et que leur méthode de prédiction ne reposait pas sur elle ; car Thalès, Pythagore, Démo [^p64-1]
+Nous ne doutons plus aujourd'hui que, bien avant Thalès, Égyptiens et surtout Chaldéens ne s'essayassent couramment à des prédictions d'éclipses. Mais que faut-il en conclure ?[^p64-1] Nous sommes bien sûrs que notre explication théorique du phénomène ne fut pas connue des Orientaux, et que leur méthode de prédiction ne reposait pas sur elle ; car Thalès, Pythagore, Démo
 
 [p. 65] LA GÉOMÉTRIE RATIONNELLE EST L'OEUVRE DES GRECS 57 crite, et tous ceux qui voyagèrent en Égypte ou en Orient l'auraient transmise en Grèce, et nous n'assisterions pas pendant plusieurs siècles, de Pythagore à Aristarque de Samos, aux tâtonnements progressifs des Grecs dans la recherche de l'explication des éclipses.
 
@@ -563,9 +563,9 @@ D'autre part, il est facile de comprendre qu'il ait été possible de les prédi
 
 Ainsi nous ne trouvons aucune trace réelle d'une géométrie théorique qui eût été transmise aux Grecs.
 
-Cette consultation est-elle bien décisive ? Tant d'œuvres ont pu disparaître depuis des temps si reculés ! tant de témoignages, sans être anéantis, peuvent encore être cachés à nos yeux ! Sans doute, mais qu'on y songe ; les inscriptions qui recouvrent les monuments, et les innombrables papyrus soigneusement enfouis dans les to mbeaux nous ont fait pénétrer depuis le commencement de ce siècle dans les secrets les plus cachés de [p. 66] gnages positifs en faveur de notre opinion ? cité le mot de Démocrite ; il prouve au m le ve siècle les Grecs se sentaient supérieur tiens en géométrie. Un mot bien connt est aussi fort instructif à cet égard. Suiv Égytiens ne s'attachent qu'à la vie prati leurs découvertes ou inventions ont un bu ils sont indignes d'être appelés Amis de Et enfin, pour qui a pénétré la pensée he t-il pas lieu d'être frappé de l'adaptation de la mathématique rationnelle aux tend rales des Grecs, telles qu'elles apparaissent les manifestations de leur activité intellectue
+Cette consultation est-elle bien décisive ? Tant d'œuvres ont pu disparaître depuis des temps si reculés ! tant de témoignages, sans être anéantis, peuvent encore être cachés à nos yeux ! Sans doute, mais qu'on y songe ; les inscriptions qui recouvrent les monuments, et les innombrables papyrus soigneusement enfouis dans les to mbeaux nous ont fait pénétrer depuis le commencement de ce siècle dans les secrets les plus cachés de [p. 66] gnages positifs en faveur de notre opinion ? cité le mot de Démocrite ; il prouve au m le ve siècle les Grecs se sentaient supérieur tiens en géométrie. Un mot bien connt est aussi fort instructif à cet égard.[^p66-1] Suiv Égytiens ne s'attachent qu'à la vie prati leurs découvertes ou inventions ont un bu ils sont indignes d'être appelés Amis de Et enfin, pour qui a pénétré la pensée he t-il pas lieu d'être frappé de l'adaptation de la mathématique rationnelle aux tend rales des Grecs, telles qu'elles apparaissent les manifestations de leur activité intellectue
 
-L'histoire des mathématiques que compo disciple d'Aristote, achèverait probablemen [^p66-1]
+L'histoire des mathématiques que compo disciple d'Aristote, achèverait probablemen
 
 [p. 67] LA GÉOMÉTRIE RATIONNELLE EST L'OEUVRE DES GRECS 59 été conservée, d'ôter les derniers doutes, en nous faisant assister au développement progressif des connaissances géométriques chez les Grecs à partir du viº siècle.
 
@@ -609,9 +609,9 @@ IONIENS
 
 « Ce théorème, quand deux droites se coupent,
 
-les angles opposés par le sommet sont égaux, a été découvert en premier lieu par Thalès, comme le dit Eudème : Euclide en a donné la démonstration scientifique³. »>
+les angles opposés par le sommet sont égaux, a été découvert en premier lieu par Thalès, comme le dit Eudème : Euclide en a donné la démonstration scientifique[^p68-3]. »[^p68-2][^p68-1]>
 
-« Eudème fait remonter à Thalès ce théorème que deux triangles sont égaux quand ils ont un côté égal [^p68-1][^p68-2][^p68-3]
+« Eudème fait remonter à Thalès ce théorème que deux triangles sont égaux quand ils ont un côté égal
 
 [p. 69] LES
 
@@ -619,11 +619,11 @@ PREMIERS
 
 IONIENS adjacent à deux angles égaux, car il dit que Thalès devait nécessairement s'en servir d'après la manière dont on rapporte qu'il déterminait la distance des vaisseaux
 
-1 en mer.¹
+1 en mer.[^p69-1]
 
 ... »
 
-Ces quelques renseignements, fort précieux, en ce qu'ils viennent plus ou moins directement d'Eudème, montrent quelle est la nature des préoccupations géométriques que la tradition reconnaît à Thalès. C'est à l'occasion de problèmes pratiques qu'on lui attribue la connaissance de certains théorèmes, Le procédé auquel il est fait allusion pour déterminer la distance d'un point inaccessible est très vraisemblablement celui que décrit M. Tannery, et qu'il emprunte d'ailleurs à l'agrimenseur romain Marcus Junius Nipsus. 2 « Soit à mesurer la distance du point A au point B inaccessible ; on élève, sur le terrain, à AB une perpendiculaire
+Ces quelques renseignements, fort précieux, en ce qu'ils viennent plus ou moins directement d'Eudème, montrent quelle est la nature des préoccupations géométriques que la tradition reconnaît à Thalès. C'est à l'occasion de problèmes pratiques qu'on lui attribue la connaissance de certains théorèmes, Le procédé auquel il est fait allusion pour déterminer la distance d'un point inaccessible est très vraisemblablement celui que décrit M. Tannery, et qu'il emprunte d'ailleurs à l'agrimenseur romain Marcus Junius Nipsus.[^p69-2] 2 « Soit à mesurer la distance du point A au point B inaccessible ; on élève, sur le terrain, à AB une perpendiculaire
 
 
 E
@@ -631,7 +631,7 @@ E
 
 B
 
-A A C de longueur quelconque, que l'on divise en deux [^p69-1][^p69-2]
+A A C de longueur quelconque, que l'on divise en deux
 
 [p. 70] adjacent à deux angles égaux ; mais il y cédé repose en outre sur ce que les angl le sommet sont égaux. Or c'est là une des attribuées à Thalès par les fragments la façon même dont s'exprime celui-ci tance significative : « Thalès a découvert dit-il, mais c'est Euclide qui l'a démont pas non plus par ce théorème une théorique qu'on veut attribuer à Thal précédent, il est mentionné parce qu'il un problème pratique. Tout, jusqu'au employées, confirme d'ailleurs ce caractè latif, semi-pratique des recherches de semblable, était employé pour ἴσος, égal n'apparaissait pas encore de désigner par rents ces deux concepts si nettement di géomètre, l'égalité et la similitude.
 
@@ -651,7 +651,7 @@ Les historiens des mathématiques, M. Cantor, par exemple, ont généralement co
 
 établi, la connaissance de la somme des angles d'un triangle.
 
-Enfin Plutarque prétend que Thalès aurait mesuré la hauteur des pyramides d'après leur ombre comparée à celle d'un bâton. En réalité, le problème attribué à Thalès par une tradition plus ancienne est plus simple. Diogène Laerce [^p71-1]
+Enfin Plutarque prétend que Thalès aurait mesuré la hauteur des pyramides d'après leur ombre comparée à celle d'un bâton. En réalité, le problème attribué à Thalès par une tradition plus ancienne est plus simple.[^p71-1] Diogène Laerce
 
 [p. 72] que l'ombre d'un objet lui est égale, il en au même instant pour tous les objets : ce q
 
@@ -691,7 +691,7 @@ S'il faut en croire Aristote, Théophraste, et la pluG. MILHAUD. — Philsophes 
 
 5
 
-[p. 74] LES part des doxographes grecs, Thalès fondait sa première affirmation sur une observation courante. « Il tira probablement son hypothèse, dit Aristote (Mct., I, 3,), de ce fait d'observation que la nourriture de tous les êtres est toujours humide, que la chaleur même vient de l'humidité, et que c'est l'humidité qui fait vivre tout ce qui vit... Il ajouta cette observation que les germes de tous les êtres sont de nature humide, et que l'eau est le principe naturel de tous les corps humides. » « Les apparences sensibles le conduisaient à cette conclusion, dit Théophraste, (Simplicius, in Phys., 6 a), car et ce qui est chaud a besoin d'humidité pour vivre, et ce qui est mort se dessèche, et tous les germes sont humides, et tout aliment est plein de suc¹... » Et ainsi de suite.
+[p. 74] LES part des doxographes grecs, Thalès fondait sa première affirmation sur une observation courante. « Il tira probablement son hypothèse, dit Aristote (Mct., I, 3,), de ce fait d'observation que la nourriture de tous les êtres est toujours humide, que la chaleur même vient de l'humidité, et que c'est l'humidité qui fait vivre tout ce qui vit... Il ajouta cette observation que les germes de tous les êtres sont de nature humide, et que l'eau est le principe naturel de tous les corps humides. » « Les apparences sensibles le conduisaient à cette conclusion, dit Théophraste, (Simplicius, in Phys., 6 a), car et ce qui est chaud a besoin d'humidité pour vivre, et ce qui est mort se dessèche, et tous les germes sont humides, et tout aliment est plein de suc[^p74-1]... » Et ainsi de suite.
 
 C'est déjà de l'audace de parler au nom de l'évidence, de quelque ordre qu'elle soit, et non point au nom d'une autorité qui s'impose du dehors à l'intelligence humaine : cela suffit pour que Thalès mérite la place qui lui est laissée dans l'histoire de la science et de la philosophie. Est-ce tout cependant ? la thèse du penseur
 
@@ -699,7 +699,7 @@ ionien
 
 ne présente-elle en
 
-elle même aucun intérêt ? A la regarder de près, n'y trouvons-nous pas déjà un mélange de préoccupations concrètes et de quelques tendances d'ordre plus abstrait, qui rappellent précisément les caractères de la mathématique [^p74-1]
+elle même aucun intérêt ? A la regarder de près, n'y trouvons-nous pas déjà un mélange de préoccupations concrètes et de quelques tendances d'ordre plus abstrait, qui rappellent précisément les caractères de la mathématique
 
 [p. 75] LES
 
@@ -749,7 +749,7 @@ Quelques autres témoignages pourraie présenter ces premières recherches sous 
 
 Proclus dit, par exemple démontra l'égalité des deux portions en [p. 79] historiens des mathématiques, M. Can fragments de Proclus : el
 
-ont généralement conclu de ce tém phila à la connaissance chez Thalès d somme des angles d'un triangle. Eud il est vrai la démonstration aux Pyth un passage de Geminus, suivant lequ général a été précédée de celle de qu culiers, a laissé croire que les cas pra le fait de Thalès. C'est là une opinio moins que fondée, et, quant au théc droit, inscrit dans un demi-cercle, il г riquement, pour être établi, la cor somme des angles d'un triangle. prétend que Thalès aurait mesuré la ramides d'après leur ombre comparée ton. En réalité, le problème attribué à tradition plus ancienne est plus simple [^p79-1]
+ont généralement conclu de ce tém phila à la connaissance chez Thalès d somme des angles d'un triangle. Eud il est vrai la démonstration aux Pyth un passage de Geminus, suivant lequ général a été précédée de celle de qu culiers, a laissé croire que les cas pra le fait de Thalès. C'est là une opinio moins que fondée, et, quant au théc droit, inscrit dans un demi-cercle, il г riquement, pour être établi, la cor somme des angles d'un triangle. prétend que Thalès aurait mesuré la ramides d'après leur ombre comparée ton.[^p79-1] En réalité, le problème attribué à tradition plus ancienne est plus simple
 
 [p. 80] que l'ombre d'un objet lui est égale, il er au même instant pour tous les objets : ce q
 
@@ -789,7 +789,7 @@ MILHAUD.
 
 Philsophes -Géomètres.
 
-[p. 82] tous les êtres sont de nature humide, et o principe naturel de tous les corps hum apparences sensibles le conduisaient à cett dit Théophraste, (Simplicius, in Phys., C qui est chaud a besoin d'humidité pour v est mort se dessèche, et tous les germes et tout aliment est plein de suc¹... » Et
+[p. 82] tous les êtres sont de nature humide, et o principe naturel de tous les corps hum apparences sensibles le conduisaient à cett dit Théophraste, (Simplicius, in Phys., C qui est chaud a besoin d'humidité pour v est mort se dessèche, et tous les germes et tout aliment est plein de suc[^p82-1]... » Et
 
 C'est déjà de l'audace de parler au nom de quelque ordre qu'elle soit, et non 1 d'une autorité qui s'impose du dehors à humaine : cela suffit pour que Thalès n qui lui est laissée dans l'histoire de la se philosophie. Est-ce tout cependant ? la seur
 
@@ -797,7 +797,7 @@ ionien ne présente-elle
 
 en
 
-elle intérêt ? A la regarder de près, n'y trouv déjà un mélange de préoccupations con quelques tendances d'ordre plus abstrait_ lent précisément les caractères de la 1[^p82-1]
+elle intérêt ? A la regarder de près, n'y trouv déjà un mélange de préoccupations con quelques tendances d'ordre plus abstrait_ lent précisément les caractères de la 1
 
 [p. 83] dans une transformation générale qu
 
@@ -901,7 +901,7 @@ et nous ne voyons pas en quoi le témoignage d'Aristote serait ici suspect, que 
 
 [p. 90] nécessaire d'y voir un infini d'étendue. Arist cette idée qu'il faut une matière infinie, afin la génération ne fasse défaut. Et pour n nécessairement l'infini spatial, l'idée d'Anax nous intéresse pas moins comme manifestat de la maturité de l'esprit grec. L'ἄπειρον d'Ar contient de quoi produire indéfiniment ; il pas toutes réalisées l'infinité des créations fu sa masse est inépuisable, et indéfiniment il f corps nouveaux ; c'est à la fois un infini en infini en puissance. Une masse est réalise d'engendrer à l'infini.
 
-Ces remarques se trouvent éclaircies demande comment se produit la génération Certaines expressions d'Aristote, mélange, division, employées à propos de l'ἄπειρον et dont les substances y sont contenues et s'en pourraient à première vue faire illusion. C être tenté de voir dans la matière primitivo [^p90-1]
+Ces remarques se trouvent éclaircies demande comment se produit la génération Certaines expressions d'Aristote, mélange, division, employées à propos de l'ἄπειρον et dont les substances y sont contenues et s'en pourraient à première vue faire illusion.[^p90-1] C être tenté de voir dans la matière primitivo
 
 [p. 91] LES
 
@@ -917,9 +917,9 @@ Enfin, si l'infini spatial n'a pas été affirmé, Anaximandre
 
 nous y avons fait allusion en passant réclame, pour son principe premier et pour le monde, l'éternité dans le passé comme dans l'avenir. Et déjà se faitjour, avec la naïveté d'une pensée trop jeune encore, mais aussi avec l'avidité d'un esprit qui veut une explication intégrale des choses, et n'admet pas de limite à l'application de la causalité, un système évolutioniste qui, plus de deux mille ans d'avance, fait vaguement songer à la cosmogonie de Kant et de Laplace, comme au transformisme de Lamark et de Darwinn. Sous l'action du mouvement éternel le monde s'organise tel que nous le voyons aujourd'hui ; mais il est destiné à se désagréger, et de l'ἄπειρον sortiront successivement et indéfiniment des mondes nouveaux. Pas de commencements [p. 92] marquerait plutôt un recul sur la pensée de cesseur, qui ne laissait à sa matière prem
 
-et c'est surtout ce qui fait l'originalité d'on voit bien plus clairement que pour A que l'élément primitif n'est à aucun degré ni une combinaison des qualités et des su en naîtront. L'air est une essence unique e qui, suivant son degré de raréfaction ou d tion, devient toute chose. Il n'y a dans l'u le monde inorganique comme aussi dan vivant, sous l'infinie diversité des apparer seule substance, qu'un substratum unique états différents. Anaximène offre ainsi les m monisme curieux,
+et c'est surtout ce qui fait l'originalité d'on voit bien plus clairement que pour A que l'élément primitif n'est à aucun degré ni une combinaison des qualités et des su en naîtront. L'air est une essence unique e qui, suivant son degré de raréfaction ou d tion, devient toute chose. Il n'y a dans l'u le monde inorganique comme aussi dan vivant, sous l'infinie diversité des apparer seule substance, qu'un substratum unique états différents.[^p92-1] Anaximène offre ainsi les m monisme curieux,
 
-effort précoce d'une d'instinct va droit aux conceptions les plus sives, en ce sens que par l'unité de su totalité des choses est posée dans une rela mentale : la causalité s'exprime d'un co [^p92-1]
+effort précoce d'une d'instinct va droit aux conceptions les plus sives, en ce sens que par l'unité de su totalité des choses est posée dans une rela mentale : la causalité s'exprime d'un co
 
 [p. 93] LES
 
@@ -959,7 +959,7 @@ PYTHAGORICIENS
 
 1º L'Œuvre scientifique.
 
-Proclus déclare, d'après Eudème, que « Pythagore transforma l'étude de la géométrie et en fit un enseignement libéral, car il remonta aux principes supérieurs et rechercha les problèmes abstraitement et par l'intelligence pure¹ ». Tout nous fait penser que ce mot caractérise ce qu'il y eut d'essentiel dans l'œuvre mathématique des premiers Pythagoriciens. Constituer une géométrie rationnelle et démonstrative, une arithmétique théorique ayant pour objet les propriétés générales des nombres, une astronomie différant fort peu elle-même d'une géométrie spéculative, une musique enfin traitant d'une façon abstraite et mathématique des intervalles et des accords, telle semble avoir été l'une des préoccupations fondamentales de Pythagore et de ses disciples. C'est à eux qu'il faut faire remonter laséparation de deux branches désormais distinctes, l'une théorique et abstraite, l'autre concrète et appliquée, dans chacun des domaines scientifiques. En particulier la géométrie se trouvait ainsi dédoublée en géo [^p95-1]
+Proclus déclare, d'après Eudème, que « Pythagore transforma l'étude de la géométrie et en fit un enseignement libéral, car il remonta aux principes supérieurs et rechercha les problèmes abstraitement et par l'intelligence pure[^p95-1] ». Tout nous fait penser que ce mot caractérise ce qu'il y eut d'essentiel dans l'œuvre mathématique des premiers Pythagoriciens. Constituer une géométrie rationnelle et démonstrative, une arithmétique théorique ayant pour objet les propriétés générales des nombres, une astronomie différant fort peu elle-même d'une géométrie spéculative, une musique enfin traitant d'une façon abstraite et mathématique des intervalles et des accords, telle semble avoir été l'une des préoccupations fondamentales de Pythagore et de ses disciples. C'est à eux qu'il faut faire remonter laséparation de deux branches désormais distinctes, l'une théorique et abstraite, l'autre concrète et appliquée, dans chacun des domaines scientifiques. En particulier la géométrie se trouvait ainsi dédoublée en géo
 
 [p. 96] LES métrie proprement dite et en géodésie : et de même l'arithmétique se partageaiten arithmétique et en logistique. Les Grecs ont pu montrer quelque ingéniosité dans le perfectionnement des procédés pratiques de calcul et de mesures, mais nous savons très-mal quelles modifications ils ont pu apporter à un ensemble de règles que leur léguaient les civilisations d'Orient et d'Égypte. Ce qui nous intéresse davantage, ce en quoi leur originalité se montre sans réserve, c'est la mathématique pure et désintéressée.
 
@@ -967,25 +967,25 @@ Géométrie.
 
 « Eudème fait remonter aux Pythagoriciens, dit Proclus, l'invention de ce théorème que dans un triangle la somme des angles vaut deux droits, et il dit qu'ils le démontraient comme il suit : Par le sommet A du triangle ABC menons DE parallèle à BC. Puisque BC, DE sont parallèles, et que les angles alternes internes sont égaux, on a DAB = ABC,
 
-et EAC = ACB. Ajoutez de part et d'autre BAC. On aura donc DAB + BAC + CAE, c'est-à-dire DAB + BAE, c'est-à-dire deux droits, = la somme des angles du triangle ABC. La somme des angles d'un triangle est égale à deux droits. Telle est la démonstration des Pythagoriciens¹. »
+et EAC = ACB. Ajoutez de part et d'autre BAC. On aura donc DAB + BAC + CAE, c'est-à-dire DAB + BAE, c'est-à-dire deux droits, = la somme des angles du triangle ABC. La somme des angles d'un triangle est égale à deux droits. Telle est la démonstration des Pythagoriciens[^p96-1]. »
 
-La démonstration est déjà exactement sur le type de celles d'Euclide, et, en l'espèce, elle suppose ici connue la théorie des parallèles.[^p96-1]
+La démonstration est déjà exactement sur le type de celles d'Euclide, et, en l'espèce, elle suppose ici connue la théorie des parallèles.
 
 [p. 97] LES
 
 PYTHAGORICIENS
 
-« Si six triangles équilatéraux ou trois hexagones ou quatre carrés assemblés par le sommet remplissent exactement quatre droits, et ce sont les seuls, c'est là un théorème pythagoricien¹. »>
+« Si six triangles équilatéraux ou trois hexagones ou quatre carrés assemblés par le sommet remplissent exactement quatre droits, et ce sont les seuls, c'est là un théorème pythagoricien[^p97-1]. »>
 
 Les Pythagoriciens étudièrent donc les polygones réguliers.
 
-« Si l'on écoute ceux qui veulent raconter l'histoire des anciens temps, à propos du théorème du carré de l'hypoténuse, on peut en trouver qui attribuent ce théorème à Pythagore et lui font sacrifier un bœuf après sa découverte².
+« Si l'on écoute ceux qui veulent raconter l'histoire des anciens temps, à propos du théorème du carré de l'hypoténuse, on peut en trouver qui attribuent ce théorème à Pythagore et lui font sacrifier un bœuf après sa découverte[^p97-2].
 
 »
 
 Le théorème était vraisemblablement connu depuis longtemps, dans le cas particulier du triangle de côtés 3, 4, 5, en Égypte, en Chine et dans l'Inde. Pythagore eut sans doute à le généraliser et à en donner une démonstration, sur laquelle nous ne savons d'ailleurs absolument rien.
 
-« Ce sont, nous dit-on d'après Eudème, d'anciennes découvertes dues à la muse des Pythagoriciens, que la parabole des aires, leur hyperbole ou leur ellipse. C'est de là que plus tard on prit ces noms pour les transporter aux sections coniques ; tandis que pour ces hommes anciens et divins, c'était dans la construction plane des aires sur une droite déterminée qu'apparaissait la signification des termes. Si vous prenez la droite tout entière et que vous [^p97-1][^p97-2]
+« Ce sont, nous dit-on d'après Eudème, d'anciennes découvertes dues à la muse des Pythagoriciens, que la parabole des aires, leur hyperbole ou leur ellipse. C'est de là que plus tard on prit ces noms pour les transporter aux sections coniques ; tandis que pour ces hommes anciens et divins, c'était dans la construction plane des aires sur une droite déterminée qu'apparaissait la signification des termes. Si vous prenez la droite tout entière et que vous
 
 [p. 98] blèmes dont il est ici question, et dont E de nous donner le sens précis, reviennen la construction de longueurs dont on part le produit (l'aire du rectangle con longueurs), et d'autre part la somme ou En langage moderne, S désignant l'aire droite donnée, la question revient à d longueur x satisfaisant à l'une des trois é
 
@@ -1058,9 +1058,9 @@ FIG. 3.
 
 Plus généralement Euclide dans le livre W (28 et 29)
 
-substitue au rectangle à construire un parallélogramme tel que le parallélogramme qu'il faut ajouter ou retrancher (à la place du carré du cas précédent) soit semblable à un parallélogramme donné. Le problème revient alors à celui que définit l'équation S = px = Kx². La suite de la citation de Proclus, dont nous donnions ci-dessus les premières lignes seulement, fait allusion aux pro [p. 100] dehors de Proclus, Plutarque attribue cette à Pythagore : il ajoute même que le sacrifi la tradition doit avoir eu pour occasion c construire une figure équivalente à une figu semblable à une figure donnée, bien plutôt rème du carré de l'hypoténuse. D'un autr crate de Chios, dans son fameux travail su prouvera, vers le milieu du vº siècle, qu rapport des aires de deux figures semblable à des segments de cercle ¹.
+substitue au rectangle à construire un parallélogramme tel que le parallélogramme qu'il faut ajouter ou retrancher (à la place du carré du cas précédent) soit semblable à un parallélogramme donné. Le problème revient alors à celui que définit l'équation S = px = Kx². La suite de la citation de Proclus, dont nous donnions ci-dessus les premières lignes seulement, fait allusion aux pro [p. 100] dehors de Proclus, Plutarque attribue cette à Pythagore : il ajoute même que le sacrifi la tradition doit avoir eu pour occasion c construire une figure équivalente à une figu semblable à une figure donnée, bien plutôt rème du carré de l'hypoténuse. D'un autr crate de Chios, dans son fameux travail su prouvera, vers le milieu du vº siècle, qu rapport des aires de deux figures semblable à des segments de cercle [^p100-1].
 
-On peut enfin faire remonter aux Pyth construction des polyèdres réguliers. Le dernier point apporte une confirmation séri l'exposé que Platon met dans la bouch pythagoricien, le feu, l'air, l'eau et la formes du tétraèdre, de l'octaèdre, de l'ic [^p100-1]
+On peut enfin faire remonter aux Pyth construction des polyèdres réguliers. Le dernier point apporte une confirmation séri l'exposé que Platon met dans la bouch pythagoricien, le feu, l'air, l'eau et la formes du tétraèdre, de l'octaèdre, de l'ic
 
 [p. 101] LES
 
@@ -1080,7 +1080,7 @@ Supprimons le livre V sur la proportionnalité, le livre X sur les incommensurab
 
 Ces remarques trouveront d'ailleurs leur confirmation dans la suite, [p. 102] car nous verrons précisément avec Eudoxe et Théétète se complèter les théories de la proportionnalité, des incommensurables et de la mesure des volumes.
 
-Quant à la forme, elle était déjà semblable à celle d'Euclide. La méthode démonstrative est suffisamment caractérisée par Eudème, quand il déclare que Pythagore remontait aux principes supérieurs et s'adressait à l'intelligence pure. Nous en avons eu un exemple dans la démonstration du théorème relatif à la somme des angles d'un triangle ; nous en avons d'autres. Ainsi un mot d'Aristote nous permettra d'attribuer aux Pythagoriciens une autre démonstration d'Euclide, celle par laquelle se trouve établie l'incommensurabilité du côté d'un carré et de sa diagonale. Sans doute il y eut une longue période, de Pythagore à Euclide, pendant laquelle les définitions se simplifièrent et se perfectionnèrent, tandis que le nombre des postulats et des axiomes devait aller sans cesse en diminuant. Nous savons que la forme parfaite du livre d'Euclide n'a pas été atteinte du premier coup. Dans son commentaire, Proclus cite plusieurs géomètres antérieurs qui avaient déjà publié des Éléments. Il nomme ainsi Hermotine de Colophon ; avant lui, Theudios de Magnésie ; en remontant encore, Léon, le disciple de Néoclide ; et enfin, au milieu du v° siècle, Hippocrate de Chios¹. Les Éléments sont [^p102-1]
+Quant à la forme, elle était déjà semblable à celle d'Euclide. La méthode démonstrative est suffisamment caractérisée par Eudème, quand il déclare que Pythagore remontait aux principes supérieurs et s'adressait à l'intelligence pure. Nous en avons eu un exemple dans la démonstration du théorème relatif à la somme des angles d'un triangle ; nous en avons d'autres. Ainsi un mot d'Aristote nous permettra d'attribuer aux Pythagoriciens une autre démonstration d'Euclide, celle par laquelle se trouve établie l'incommensurabilité du côté d'un carré et de sa diagonale. Sans doute il y eut une longue période, de Pythagore à Euclide, pendant laquelle les définitions se simplifièrent et se perfectionnèrent, tandis que le nombre des postulats et des axiomes devait aller sans cesse en diminuant. Nous savons que la forme parfaite du livre d'Euclide n'a pas été atteinte du premier coup. Dans son commentaire, Proclus cite plusieurs géomètres antérieurs qui avaient déjà publié des Éléments. Il nomme ainsi Hermotine de Colophon ; avant lui, Theudios de Magnésie ; en remontant encore, Léon, le disciple de Néoclide ; et enfin, au milieu du v° siècle, Hippocrate de Chios[^p102-1]. Les Éléments sont
 
 [p. 103] LES
 
@@ -1090,17 +1090,17 @@ Enfin M. Tannery, se fondant sur un mot de Jamblique jusqu'ici mal interprété,
 
 Arithmétique.
 
-Quelques allusions d'Aristote, certains passages du Timée de Platon, le petit traité de Nicomaque (l'Introduction arithmétique), l'ouvrage de Théon de Smyrne (ce qui en mathématiques est utile pour la lecture de Platon'), enfin un fragment de Speusippe, neveu de Platon, telles sont les sources qui peuvent servir à donner une idée, bien sommaire d'ailleurs, de l'arithmétique pythagoricienne, dans son contenu et dans ses méthodes.
+Quelques allusions d'Aristote, certains passages du Timée de Platon, le petit traité de Nicomaque (l'Introduction arithmétique), l'ouvrage de Théon de Smyrne (ce qui en mathématiques est utile pour la lecture de Platon'), enfin un fragment de Speusippe, neveu de Platon, telles sont les sources qui peuvent servir à donner une idée, bien sommaire d'ailleurs, de l'arithmétique pythagoricienne, dans son contenu et dans ses méthodes.[^p103-1]
 
 Les Pythagoriciens ont étudié les séries formées :
 
-1º par les nombres entiers consécutifs ; 2º par les nombres impairs ; 3 ° par les nombres pairs, et ils ont établi que l'on a [^p103-1]
+1º par les nombres entiers consécutifs ; 2º par les nombres impairs ; 3 ° par les nombres pairs, et ils ont établi que l'on a
 
 [p. 104] triangulaires ; les sommes des nombres im tout naturellement appelées carrés ; les nombres pairs (n (n + [^p104-1]) formaient les n romèques.
 
-En dehors des témoignages que fournisse Speusippe et Théon de Smyrne, quelqu d'Aristote sont assez significatifs. D'une liste des oppositions (dont il sera question il fait correspondre à l'impair et au pair le ca romèque. D'autre part il fait clairement génération des carrés par l'addition de nom successifs sous forme de gnomons. Le gno goricien est la figure coudée à angle droit te qui reste d'un carré quand on supprime u petit². (Fig. 4).
+En dehors des témoignages que fournisse Speusippe et Théon de Smyrne, quelqu d'Aristote sont assez significatifs. D'une liste des oppositions (dont il sera question il fait correspondre à l'impair et au pair le ca romèque. D'autre part il fait clairement génération des carrés par l'addition de nom successifs sous forme de gnomons. Le gno goricien est la figure coudée à angle droit te qui reste d'un carré quand on supprime u petit[^p104-2]. (Fig. 4).
 
-Rien n'est plus simple que de comprend [^p104-2]
+Rien n'est plus simple que de comprend
 
 [p. 105] LES
 
@@ -1147,7 +1147,7 @@ Que ces distinctions remontent aux Pythagoriciens, c'est ce qui semble résulter
 
 A.
 
-Les arithméticiens grecs dont il nous reste quelques écrits s'occupent tous de ce qu'ils appellent analogies ou médiétés. Ce sont des groupes de trois [^p107-1]
+Les arithméticiens grecs dont il nous reste quelques écrits s'occupent tous de ce qu'ils appellent analogies ou médiétés.[^p107-1] Ce sont des groupes de trois
 
 [p. 108] LES PHILOSOPHES-GÉOMÈTRES
 
@@ -1237,7 +1237,7 @@ a
 
 = + = ; m est moyen har La troisième donne monique.
 
-Le nom d'harmonique donné à cette dernière médiété est à lui seul une marque de son origine pythagoricienne. Un passage de Philolaüs lui-même nous éclaire sur ce [^p108-1]
+Le nom d'harmonique donné à cette dernière médiété est à lui seul une marque de son origine pythagoricienne.[^p108-1] Un passage de Philolaüs lui-même nous éclaire sur ce
 
 [p. 109] LES
 
@@ -1257,13 +1257,13 @@ Et en même temps nous retrouvons là l'origine de la dénomination d'harmonique
 
 3, et 12 à l'octave, au lieu de 21.
 
-Il importe de remarquer que l'étude des proportions chez les Pythagoriciens se fait à l'aide des nombres entiers. Bien que les résultats fournis par de telles proportions puissent s'appliquer, nous le savons bien, à n'importe quelle espèce de quantités proportionnelles, il n'en est pas moins vrai que théoriquement il y a une distance énorme entre une théorie des proportions faite uniquement à l'aide des nombres arithmétiques et la vraie théorie des proportions, celle qui se trouve dans Euclide exposée sur des longueurs, et telle que tout
+Il importe de remarquer que l'étude des proportions chez les Pythagoriciens se fait à l'aide des nombres entiers.[^p109-1] Bien que les résultats fournis par de telles proportions puissent s'appliquer, nous le savons bien, à n'importe quelle espèce de quantités proportionnelles, il n'en est pas moins vrai que théoriquement il y a une distance énorme entre une théorie des proportions faite uniquement à l'aide des nombres arithmétiques et la vraie théorie des proportions, celle qui se trouve dans Euclide exposée sur des longueurs, et telle que tout
 
 
 gardera sa
 
 
-ce qui sera établi sur une proportion B[^p109-1]
+ce qui sera établi sur une proportion B
 
 [p. 110] irrationnelles. » Comment y fut-il amené comme le pense M. Cantor, en s'excerçant à calculer l'hypoténuse d'un triangle rectan côtés de l'angle droit étaient égaux à l'unité après avoir essayé des nombres compris soupçonner qu'il n'en existe aucun qui pui l'hypoténuse. En tous cas, c'est ce qu'il d cela n'est plus seulement une hypothèse. A dit que la démonstration pythagoricienne es ce qu'un même nombre ne saurait être à la impair. Or justement l'une des démonstratio repose sur le même fait ; c'est donc évider qui nous intéresse. La voici en substance :
 
@@ -1315,7 +1315,7 @@ raconte que
 
 Musique.
 
-entendant des forgerons frapper un morcea une enclume, et reconnaissant dans les so valles de quarte, de quinte et d'octave, e peser les marteaux dont ils se servaient. Il a alors que celui qui rend l'octave en haut ét du plus pesant ; que celui qui faisait la quin deux tiers et celui qui donnait la quarte, les Rentré chez lui, il aurait fixé une extrémité et suspendu à l'autre des poids proportio nombres, la corde aurait alors rendu des s les mêmes intervalles. Ce récit est certaine dans ses détails. Nous savons en effet que [^p114-1]
+entendant des forgerons frapper un morcea une enclume, et reconnaissant dans les so valles de quarte, de quinte et d'octave, e peser les marteaux dont ils se servaient. Il a alors que celui qui rend l'octave en haut ét du plus pesant ; que celui qui faisait la quin deux tiers et celui qui donnait la quarte, les Rentré chez lui, il aurait fixé une extrémité et suspendu à l'autre des poids proportio nombres, la corde aurait alors rendu des s les mêmes intervalles. Ce récit est certaine dans ses détails.[^p114-1] Nous savons en effet que
 
 [p. 115] LES
 
@@ -1437,11 +1437,11 @@ nombres
 
 de
 
-la gamme¹
+la gamme[^p116-1]
 
 : il n'y a pas à douter que la théorie musicale ainsi exposée par Timée ne doive remonter aux Pythagoriciens.
 
-Quant à leur méthode, si, comme le veulent Macrobe [^p116-1]
+Quant à leur méthode, si, comme le veulent Macrobe
 
 [p. 117] LES
 
@@ -1611,7 +1611,7 @@ G. MILHAUD. — Philosophes -Géomètres.
 
 8 [p. 130] étrange explication, dit lui-même : « Ils (les Pythagoriciens) identifiaient l'impair avec le limité, le pair avec l'illimité, parce que l'impair met un terme à la division par deux, ce que ne fait pas le pair. » On imaginerait difficilement une affirmation plus incompréhensible. Le nombre pair se prête à une division par deux, mais nullement à une suite illimitée de pareilles divisions.
 
-Théon de Smyrne qui se rattache, comme on sait, à la tradition pythagoricienne, observe que la première idée de l'impair est dans l'unité, comme celle du pair est dans la dyade indéfinie, et que d'ailleurs on rattache l'impair, dans le monde, à ce qui est défini et ordonné (τῷ ὡρισμένῳ καὶ τεταγμένῳ), tandis qu'on rattache le pair à ce qui est indéfini, inconnu et désordonné (τῷ ἀορίστῳ καὶ ἀγνώστῳ καὶ ἀτάκτῳ) ¹. Mais pourquoi ce rapprochement ? pourquoi le nombre deux est-il appelé dyade indéfinie et est-il principe de multiplicité et de désordre ? Si Théon ne sent pas le besoin de l'expliquer, c'est qu'il se souvient de Platon, et, sans aller jusqu'à Platon, les oppositions qui suivent les deux premières sur la liste d'Aristote feront correspondre à l'impair l'un, et aussi le bien, tandis qu'elles mettront le multiple et le mal du côté du pair. Mais n'oublions pas que les deux premières oppositions sont les plus anciennes et qu'elles [^p130-1]
+Théon de Smyrne qui se rattache, comme on sait, à la tradition pythagoricienne, observe que la première idée de l'impair est dans l'unité, comme celle du pair est dans la dyade indéfinie, et que d'ailleurs on rattache l'impair, dans le monde, à ce qui est défini et ordonné (τῷ ὡρισμένῳ καὶ τεταγμένῳ), tandis qu'on rattache le pair à ce qui est indéfini, inconnu et désordonné (τῷ ἀορίστῳ καὶ ἀγνώστῳ καὶ ἀτάκτῳ) [^p130-1]. Mais pourquoi ce rapprochement ? pourquoi le nombre deux est-il appelé dyade indéfinie et est-il principe de multiplicité et de désordre ? Si Théon ne sent pas le besoin de l'expliquer, c'est qu'il se souvient de Platon, et, sans aller jusqu'à Platon, les oppositions qui suivent les deux premières sur la liste d'Aristote feront correspondre à l'impair l'un, et aussi le bien, tandis qu'elles mettront le multiple et le mal du côté du pair. Mais n'oublions pas que les deux premières oppositions sont les plus anciennes et qu'elles
 
 [p. 131] LES
 
@@ -1701,7 +1701,7 @@ LES ÉLÉATES
 
 Il est impossible de désigner aucune connaissance mathématique qui doive être attribuée avec certitude aux Éléates. C'est tout au plus si, en astronomie,
 
-il convient de mentionner l'opinion de Théophraste ¹ suivant laquelle Parménide le premier aurait affirmé la forme sphérique de la terre. Mais si la tradition n'a conservé aucune trace d'une œuvre scientifique propre aux Éléates, nous savons bien dans quel milieu ils ont vécu. Et si à cette époque déjà les communications étaient assez fréquentes pour que nous trouvions parfois jusque dans l'Ionie un écho certain de la pensée italique, comment douter que, côte à côte dans la grande Grèce, les Éléates et les Pythagoriciens n'aient échangé leurs réflexions et leurs découvertes ? La légende des mystères de l'école n'est pas pour nous gêner. A l'examiner de près, on reconnaît à quel point l'exagération s'y est glissée 2. Il en reste que, sans doute,[^p139-1][^p139-2]
+il convient de mentionner l'opinion de Théophraste [^p139-1] suivant laquelle Parménide le premier aurait affirmé la forme sphérique de la terre. Mais si la tradition n'a conservé aucune trace d'une œuvre scientifique propre aux Éléates, nous savons bien dans quel milieu ils ont vécu. Et si à cette époque déjà les communications étaient assez fréquentes pour que nous trouvions parfois jusque dans l'Ionie un écho certain de la pensée italique, comment douter que, côte à côte dans la grande Grèce, les Éléates et les Pythagoriciens n'aient échangé leurs réflexions et leurs découvertes ? La légende des mystères de l'école n'est pas pour nous gêner. A l'examiner de près, on reconnaît à quel point l'exagération s'y est glissée 2.[^p139-2] Il en reste que, sans doute,
 
 [p. 140] LES
 
@@ -1717,13 +1717,13 @@ Xénophane proclama l'unité de l'être total. Mais cette affirmation semble n'a
 
 qu'après lui à Élée un sens plus clair et plus profond qui intéresse vraiment l'histoire de la pensée réfléchie. C'est pourquoi laissant Xénophane, qui fut d'ailleurs un poète plus qu'un savant, nous aborderons sans tarder Parménide Zénon et Mélissus.
 
-Avant tout, ce qu'il faut noter chez Parménide c'est cette distinction, que nous avons mentionnée, entre le domaine de la Vérité et celui de l'Opinion. Les fragments qui nous restent de son poème l'indiquent assez clairement : « Il faut que tu apprennes toutes choses, [p. 141] LES ÉLÉATES et le cœur fidèle de la vérité qui s'impose, et les opinions humaines qui sont en dehors de la vraie certitude... » D'où deux séries de réflexions, l'une se rapportant à la vérité, l'autre à l'opinion. La première se termine par ces mots : « J'arrête ici le discours certain, ce qui se pense selon la vérité ; apprends maintenant les opinions humaines ; écoute le décevant arrangement de mes vers. » Et, plus loin, après avoir nommé les deux principes, feu éthéré, nuit obscure, il dit « Je vais t'en exposer l'arrangement suivant le vraisemblable¹ ».
+Avant tout, ce qu'il faut noter chez Parménide c'est cette distinction, que nous avons mentionnée, entre le domaine de la Vérité et celui de l'Opinion. Les fragments qui nous restent de son poème l'indiquent assez clairement : « Il faut que tu apprennes toutes choses, [p. 141] LES ÉLÉATES et le cœur fidèle de la vérité qui s'impose, et les opinions humaines qui sont en dehors de la vraie certitude... » D'où deux séries de réflexions, l'une se rapportant à la vérité, l'autre à l'opinion. La première se termine par ces mots : « J'arrête ici le discours certain, ce qui se pense selon la vérité ; apprends maintenant les opinions humaines ; écoute le décevant arrangement de mes vers. » Et, plus loin, après avoir nommé les deux principes, feu éthéré, nuit obscure, il dit « Je vais t'en exposer l'arrangement suivant le vraisemblable[^p141-1] ».
 
 Ainsi, aux yeux de Parménide,
 
 il est deux modes de connaissance, l'un par lequel nous atteignons à la vérité absolue, l'autre, incomplet, insuffisant, trompeur, ne donnant que la vraisemblance. Quel est l'objet propre à chacune de ces connaissances ?
 
-D'une part le domaine de l'opinion est formé par l'ensemble des phénomènes physiques et par toutes les questions relatives à la production, à la génération, à la transformation des choses. Au contraire, appartient au domaine de la vérité tout ce que l'intelligence sait penser en dehors des apparences sensibles. Ces premiers linéaments d'une théorie de la connaissance affirment en somme la distinction désormais définitive entre deux ordres de connaissances humaines, celles qui tombent sous l'observation, puis [^p141-1]
+D'une part le domaine de l'opinion est formé par l'ensemble des phénomènes physiques et par toutes les questions relatives à la production, à la génération, à la transformation des choses. Au contraire, appartient au domaine de la vérité tout ce que l'intelligence sait penser en dehors des apparences sensibles. Ces premiers linéaments d'une théorie de la connaissance affirment en somme la distinction désormais définitive entre deux ordres de connaissances humaines, celles qui tombent sous l'observation, puis
 
 [p. 142] celles qui reposent sur des concepts intelligibles et dont la mathématique pythagoricienne vient de donner un exemple saisissant. Laissant de côté les considérations générales de Parménide sur la physique, allons droit à ce qui forme sa doctrine propre, à ce qu'il présente au nom de la Vérité.
 
@@ -1745,7 +1745,7 @@ Ces fragments, s'ils ne suffisent peut-être pas à nous faire pénétrer compl�
 
 La séparation des deux domaines de connaissance, de la vérité et de l'opinion, fondée sur la distinction de leurs objets, empêche tout naturellement de confondre cet être avec les phénomènes infiniment variés qui tombent sous les sens.
 
-Il semble bien que d'après Parménide l'être véritable soit saisi par la raison et non point par les yeux (ce qui n'est point devant tes yeux, etc.). Faut-il donc y voir [^p143-1]
+Il semble bien que d'après Parménide l'être véritable soit saisi par la raison et non point par les yeux (ce qui n'est point devant tes yeux, etc.).[^p143-1] Faut-il donc y voir
 
 [p. 144] d'un ensemble d'éléments ne saurait se dis calement des éléments eux-mêmes au p un mode spécial de connaissance, et qu tion des deux domaines ne paraîtrait pas samment justifiée, la qualité primordia à savoir son unité, s'oppose à une pareille tion. Il reste alors que l'être soit le substrat qui remplit l'espace, la substance étendue test. Ainsi se trouve affirmée, sous la m la mobilité fuyante des choses sensibles, l'ex être un, fixe, stable, continu, de nature in Les qualités de cet être sont de deux so part il est continu et remplit tout l'espace, le non être que serait l'espace pur,
 
@@ -1753,7 +1753,7 @@ l'espa toute matière.
 
 D'autre part,
 
-il ne prése changement, de diversité, ni dans l'espace temps, de façon qu'il est partout et toujour à lui-même. Les exigences logiques de la [^p144-1]
+il ne prése changement, de diversité, ni dans l'espace temps, de façon qu'il est partout et toujour à lui-même.[^p144-1] Les exigences logiques de la
 
 [p. 145] LES ÉLÉATES ainsi chez Parménide jusqu'à exclure tout devenir, tout passage d'un état à un autre, et postulent en somme comme nécessaire, pour l'être que veut atteindre la connaissance
 
@@ -1789,7 +1789,7 @@ Philosophes-Géomètres.
 
 [p. 146] LES PHILOSOPHES-GÉOMÈTRES DE
 
-LA GRÈCE qui n'est rien ne peut être. Et l'être ne se meut pas, car il n'a pas de place pour aller nulle part, puisqu'il est plein¹.., »
+LA GRÈCE qui n'est rien ne peut être. Et l'être ne se meut pas, car il n'a pas de place pour aller nulle part, puisqu'il est plein[^p146-1].., »
 
 Ne croirait- on pas par instant entendre les réflexions d'un savant moderne sur l'impossibilité que rien ne se perde ni ne se gagne, ou
 
@@ -1799,7 +1799,7 @@ Entre Parménide et Melissus se place Zénon, dont l'allure est tout autre et do
 
 Au-dessus de toutes les opinions et de toutes les interprétations tant anciennes que modernes,
 
-c'est Platon qui doit nous guider. Une page du Parménide explique avec la plus grande clarté quel fut le but principal de la dialectique de Zénon. « Socrate invita Zénon à relire la première proposition du premier livre. Cela fait, il reprit : Comment entends-tu ceci,[^p146-1]
+c'est Platon qui doit nous guider. Une page du Parménide explique avec la plus grande clarté quel fut le but principal de la dialectique de Zénon. « Socrate invita Zénon à relire la première proposition du premier livre. Cela fait, il reprit : Comment entends-tu ceci,
 
 [p. 147] LES ÉLÉATES Zénon : Si les êtres sont multiples, il faut qu'ils soient à la fois semblables et dissemblables entre eux ? Or, cela est impossible ; car ce qui est dissemblable ne peut être semblable, ni ce qui est semblable être dissemblable.
 
@@ -1823,17 +1823,17 @@ Je vois bien, Parménide, dit alors Socrate, que Zénon t'est attaché non seule
 
 Tu as raison, Socrate, répondit Zénon... La vérité est que cet écrit est fait pour venir à l'appui du système de Parménide contre ceux qui voudraient le tourner en ridicule en montrant que si tout était un, il s'ensuivrait une foule de conséquences absurdes
 
-et contradictoires. Mon ouvrage répond donc aux partisans de la pluralité et leur renvoie leurs objections et même au delà, en essayant de démontrer qu'à tout bien considérer, la supposition qu'il y a de la pluralité conduit à des conséquences encore plus ridicules que la supposition que tout est un¹...
+et contradictoires. Mon ouvrage répond donc aux partisans de la pluralité et leur renvoie leurs objections et même au delà, en essayant de démontrer qu'à tout bien considérer, la supposition qu'il y a de la pluralité conduit à des conséquences encore plus ridicules que la supposition que tout est un[^p148-1]...
 
 »
 
 Ainsi,
 
-il apparaît clairement que la dialectique de Zénon est dirigée contre les partisans de la pluralité. Il veut défendre la thèse de Parménide relative à l'unité contre ceux qui l'ont attaquée. Sa méthode consiste à montrer les contradictions qui résultent de la supposition de la pluralité : elle conduit à trouver le semblable dissemblable. Jusqu'ici, point de doute. La difficulté commence quand il s'agit de désigner avec précision ceux qui ont accablé Parménide de leurs objections, et que Zénon poursuit à son tour de sa dialectique.[^p148-1]
+il apparaît clairement que la dialectique de Zénon est dirigée contre les partisans de la pluralité. Il veut défendre la thèse de Parménide relative à l'unité contre ceux qui l'ont attaquée. Sa méthode consiste à montrer les contradictions qui résultent de la supposition de la pluralité : elle conduit à trouver le semblable dissemblable. Jusqu'ici, point de doute. La difficulté commence quand il s'agit de désigner avec précision ceux qui ont accablé Parménide de leurs objections, et que Zénon poursuit à son tour de sa dialectique.
 
 [p. 149] LES ÉLÉATES Peut-il être question de Leucippe ou d'Anaxagore ?
 
-Ont-ils seulement donné signe de vie quand Zénon, tout jeune¹, discute déjà ? Et, en tous cas, pense-t-on vraiment qu'à la distance où ils sont du foyer éléate une controverse eût pu se prolonger avec persistance ?
+Ont-ils seulement donné signe de vie quand Zénon, tout jeune[^p149-1], discute déjà ? Et, en tous cas, pense-t-on vraiment qu'à la distance où ils sont du foyer éléate une controverse eût pu se prolonger avec persistance ?
 
 Comment ne pas songer, avec M. P. Tannery, à ceux près de qui,
 
@@ -1847,11 +1847,11 @@ il le considérait comme ne faisant pas
 
 ## Partie De Ce Qui Est²... » Simplicius Reproduit Mal
 
-l'argument en semblant indiquer que Zénon a nié [^p149-1]
+l'argument en semblant indiquer que Zénon a nié
 
 [p. 150] forme de semblables unités n'est rien non
 
-Simplicius présente d'ailleurs lui-mêr plus clairement. « Zénon, dit-il, mont choses sont pluralité, elles sont en même t et petites, tellement grandes que leur gra finie, tellement petites qu'elles n'ont pas de Et l'argumentation qui suit est aisée à D'une part, l'élément de la pluralité n'es n'a ni grandeur, ni épaisseur, ni volume de toutes dimensions qu'on essaierait de en est toujours de plus petites, à raison de de la division à l'infini. Et si les élémen des riens, la pluralité est elle-même au-des grandeur. D'autre part, la division d'une conque donnant toujours et indéfiniment d'une certaine grandeur, un nombre i fragments fera donc une grandeur infinie [^p150-1][^p150-2]
+Simplicius présente d'ailleurs lui-mêr plus clairement. « Zénon, dit-il, mont choses sont pluralité, elles sont en même t et petites, tellement grandes que leur gra finie, tellement petites qu'elles n'ont pas de Et l'argumentation qui suit est aisée à D'une part, l'élément de la pluralité n'es n'a ni grandeur, ni épaisseur, ni volume de toutes dimensions qu'on essaierait de en est toujours de plus petites, à raison de de la division à l'infini. Et si les élémen des riens, la pluralité est elle-même au-des grandeur.[^p150-2][^p150-1] D'autre part, la division d'une conque donnant toujours et indéfiniment d'une certaine grandeur, un nombre i fragments fera donc une grandeur infinie
 
 [p. 151] LES ÉLÉATES
 
@@ -1869,9 +1869,9 @@ qu'il faut demander ensuite l'énoncé des fameux arguments où le mouvement int
 
 D'abord un mobile ne se meut pas, car il doit toujours parvenir à la moitié avant d'arriver au but. Ensuite (l'Achille) le plus lent ne sera jamais atteint par le plus rapide, parce que celui-ci devra arriver d'abord au point d'où l'autre est parti, en sorte que le plus lent gardera indéfiniment quelque avance.
 
-Au fond, l'idée qui apparaît avec clarté est la même dans ces deux arguments : les difficultés résultent de ce qu'on suppose l'espace à parcourir réellement décomposé en cette série d'éléments que fait apparaître la division, en sorte que le chemin à franchir serait réellement une pluralité illimitée de chemins à parcourir successivement. Et l'impossibilité d'un semblable postulat est mise en évidence par une contradiction
+Au fond, l'idée qui apparaît avec clarté est la même dans ces deux arguments : les difficultés résultent de ce qu'on suppose l'espace à parcourir réellement décomposé en cette série d'éléments que fait apparaître la division, en sorte que le chemin à franchir serait réellement une pluralité illimitée de chemins à parcourir successivement.[^p151-2][^p151-1] Et l'impossibilité d'un semblable postulat est mise en évidence par une contradiction
 
-: dans [^p151-1][^p151-2]
+: dans
 
 [p. 152] le premier cas, le mobile en marche ne se meut pas ; dans le second, le plus rapide n'atteint pas le plus lent.
 
@@ -1937,13 +1937,13 @@ Si c'est là tout ce que nous pouvons dire du savant, nous allons du moins trouv
 
 Anaxagore sépare nettement le mouvement de la matière. Par elle-même, la matière est au repos ; elle se met en branle sous l'action du Nous. Qu'entendait-il par là ? Les fragments qui nous restent de lui permettent d'affirmer qu'il y voyait avant tout un principe intelligent, semblable à lui-même, pur de tout mélange.
 
-[p. 158] isolé¹. » Du moins, c'est un principe assez propriétés ordinaires de la matière pour immatériel et faire vaguement songer à c tard, se nommera esprit. Mais, en tous cas l'action de ce Nous organise-t-elle le mon d'abord en un point de la masse univers ainsi une petite portion en mouvement. I l'action se propage dans tous les sens, de que la masse en mouvement, au milieu c n'a pas encore subi l'action du Nous, augr gressivement et indéfiniment.
+[p. 158] isolé[^p158-1]. » Du moins, c'est un principe assez propriétés ordinaires de la matière pour immatériel et faire vaguement songer à c tard, se nommera esprit. Mais, en tous cas l'action de ce Nous organise-t-elle le mon d'abord en un point de la masse univers ainsi une petite portion en mouvement. I l'action se propage dans tous les sens, de que la masse en mouvement, au milieu c n'a pas encore subi l'action du Nous, augr gressivement et indéfiniment.
 
 « Tous les Anaxagore, sont actionnés par le Nous. C'es produit dès le commencement la révolutio et a donné le branle.
 
-Tout d'abord cette n'a porté que sur peu de chose, puis elle s'e davantage et elle s'étendra toujours de plu Le Nous a tout ordonné comme il devait êtr cette révolution qui entraîne les astres, le lune, l'air et l'éther, depuis qu'ils sont distin [^p158-1]
+Tout d'abord cette n'a porté que sur peu de chose, puis elle s'e davantage et elle s'étendra toujours de plu Le Nous a tout ordonné comme il devait êtr cette révolution qui entraîne les astres, le lune, l'air et l'éther, depuis qu'ils sont distin
 
-[p. 159] ANAXAGORE ET DÉMOCRITE cette révolution qui a amené leur distinction. Quand le Nous a commencé à se mouvoir, dans tout ce qui a été mu, il y a eu distinction ; jusqu'où s'étendait le mouvement dû au Nous, jusque-là s'est étendue la séparation ¹. »
+[p. 159] ANAXAGORE ET DÉMOCRITE cette révolution qui a amené leur distinction. Quand le Nous a commencé à se mouvoir, dans tout ce qui a été mu, il y a eu distinction ; jusqu'où s'étendait le mouvement dû au Nous, jusque-là s'est étendue la séparation [^p159-1]. »
 
 Remarquons que le commencement dont parle Anaxagore n'est pas le commencement du monde ; la matière existait de toute éternité avant que s'exerçât l'action du Nous.
 
@@ -1951,7 +1951,7 @@ Une fois cette action commencée, le mouvement se propage indéfiniment. L'unive
 
 Si loin que s'étende le mouvement, il restera toujours encore de la matière à ébranler et à séparer en corps distincts, à organiser en un mot. C'est absolument là le concept de l'infini mathématique dans le sens de l'accroissement. Le concept non moins précis de l'infiniment petit va se montrer dans la composition même de la matière première.
 
-La matière est un mélange d'éléments en nombre indéterminé et dont tous les corps participent plus ou moins. Mais ces éléments ne sont pas des corpuscules, ce qui, en somme, ferait ressembler la théorie d'Anaxagore à l'atomisme. Ce sont des choses dont la définition n'est pas présentée avec grande précision par Anaxagore, mais qu'on peut assez bien rapprocher de ce que [^p159-1]
+La matière est un mélange d'éléments en nombre indéterminé et dont tous les corps participent plus ou moins. Mais ces éléments ne sont pas des corpuscules, ce qui, en somme, ferait ressembler la théorie d'Anaxagore à l'atomisme. Ce sont des choses dont la définition n'est pas présentée avec grande précision par Anaxagore, mais qu'on peut assez bien rapprocher de ce que
 
 [p. 160] LES PHILOSOPHES -GÉOMÈTRES DE LA GRÈCE nous appelons qualités, en leur ôtant évidemment le degré d'abstraction que ce mot comporte pour nous. Tels sont le chaud,
 
@@ -1963,11 +1963,11 @@ l'humide, le dense, le léger, etc... La matière est divisible à l'infini, ell
 
 chacune est pour l'apparence ce dont elle contient le plus. Les choses quí sont dans le monde unique ne sont pas isolées ; il n'y a pas eu un coup de hache pour retrancher le chaud du froid ou le froid du chaud... Par rapport
 
-[p. 161] ANAXAGORE EU DÉMOCRITE au petit, il n'y a pas de minimum, mais il y a toujours un plus petit, car il n'est pas possible que l'être soit anéanti par la division. De même, par rapport au grand, il y a toujours un plus grand, et il est égal au petit en pluralité... Comme il y a eu pluralité, égalité de sort entre le grand et le petit, il peut de la sorte y avoir de tout en tout, et rien ne peut être isolé ; mais tout participe de tout. Puisqu'il n'y a pas de minimum, il ne peut être isolé et exister à part soi, mais encore maintenant, comme au commencement, toutes choses sont confondues. En tout il y a pluralité, et dans le plus grand et dans le moindre, toujours égalité de pluralité des choses distinctes¹. » Ainsi dans cette conception, qui laisse subsister la multiplicité indéfinie des qualités, il n'existera pas un élément de matière, si petit qu'il soit, qui n'enferme toutes les qualités mélangées. Enfin les proportions du mélange varient, les coefficients d'intensité spécifique,
+[p. 161] ANAXAGORE EU DÉMOCRITE au petit, il n'y a pas de minimum, mais il y a toujours un plus petit, car il n'est pas possible que l'être soit anéanti par la division. De même, par rapport au grand, il y a toujours un plus grand, et il est égal au petit en pluralité... Comme il y a eu pluralité, égalité de sort entre le grand et le petit, il peut de la sorte y avoir de tout en tout, et rien ne peut être isolé ; mais tout participe de tout. Puisqu'il n'y a pas de minimum, il ne peut être isolé et exister à part soi, mais encore maintenant, comme au commencement, toutes choses sont confondues. En tout il y a pluralité, et dans le plus grand et dans le moindre, toujours égalité de pluralité des choses distinctes[^p161-1]. » Ainsi dans cette conception, qui laisse subsister la multiplicité indéfinie des qualités, il n'existera pas un élément de matière, si petit qu'il soit, qui n'enferme toutes les qualités mélangées. Enfin les proportions du mélange varient, les coefficients d'intensité spécifique,
 
 dirions-nous en langage moderne, dont est fonction chaque parcelle de matière, ont des valeurs diverses, de façon à fixer les caractères différents des corps.
 
-Ce qui est véritablement curieux, dans ces vues d'Anaxagore, c'est que les concepts le plus proprement mathématiques s'allient à un système qui conserve comme réalités specifiquement distinctes la mul-[^p161-1]
+Ce qui est véritablement curieux, dans ces vues d'Anaxagore, c'est que les concepts le plus proprement mathématiques s'allient à un système qui conserve comme réalités specifiquement distinctes la mul-
 
 [p. 162] Démocrite fut certainement un géor avons eu l'occasion de citer le mot que nou de lui Clément d'Alexandrie, et par leque rait supérieur aux Harpédonaptes égyptie nient des figures avec démonstration. Dic dit d'autre part, dans le chapitre qu'il lu « Ses écrits montrent assez quel il était affirme qu'il avait pris pour modèle les Pyt et, en effet, il a cité lui-même Pythagore dans le traité qui porte le nom de ce phil pourrait même croire, n'était la différence qu'il lui a dû toutes ses doctrines et qu disciple. » Plus enfin que ces réflexions Laerce, la liste des écrits de Démocrite, qu'il d'après Thrasillus, est éloquente. En outre de travaux touchant à l'astronomie, à la probablement à la perspective des théâtres sydre, nous trouvons mentionnés ces qu Sur une divergence d'opinion sur le
 
@@ -2001,15 +2001,15 @@ S'ils
 
 ont affirmé
 
-l'existen c'est, selon Aristote, à la suite d'un cen de remarques ¹.
+l'existen c'est, selon Aristote, à la suite d'un cen de remarques [^p164-1].
 
 D'abord un tonneau qui contient du vin de même si celui-ci est enfermé dans une se condense donc alors de l'épaisseur d pour cela, il est nécessaire qu'il contienne
 
 En second lieu, le fait de la nutrition ex dans les tissus qui forment le corps.
 
-Enfin un vase plein de cendres reçoit de s'il ne contenait point de cendres 2.
+Enfin un vase plein de cendres reçoit de s'il ne contenait point de cendres 2.[^p164-2]
 
-Peut- on dire d'après cela que Démocr l'expérience son affirmation de l'existen [^p164-1][^p164-2]
+Peut- on dire d'après cela que Démocr l'expérience son affirmation de l'existen
 
 [p. 165] ANAXAGORE
 
@@ -2037,9 +2037,9 @@ Quant à l'existence des atomes, elle résultait pour Démocrite de ce qu'il fau
 
 (le supposer divisible à l'infini) c'réduire le tout à n'être qu'une apparer importe ici la valeur du raisonnement ! conclut aux atomes, comme il conclut a les ressources logiques de sa pensée.
 
-On ne s'y est pas trompé d'ailleurs dans quand on a reconnu aux affirmations de sur le vide et sur les atomes un caractère c absolue qui dépasse d'ordinaire les constata riques. « La différence qui nous sépare de quant au scepticisme, observe Sextus Emp [^p166-1][^p166-2]
+On ne s'y est pas trompé d'ailleurs dans quand on a reconnu aux affirmations de sur le vide et sur les atomes un caractère c absolue qui dépasse d'ordinaire les constata riques.[^p166-2][^p166-1] « La différence qui nous sépare de quant au scepticisme, observe Sextus Emp
 
-[p. 167] ANAXAGORE ET DÉMOCRITE vient éclatante quand il dit : les atomes et le vide existent véritablement, ἐτεῇ. » Et en même temps Sextus reconnaît le scepticisme de l'atomiste à ce qu'il doute de la sensation. Nous reviendrons sur ce doute. Notons dès maintenant que, rapproché des affirmations dogmatiques sur les atomes et le vide, ce doute sur la sensation, loin de faire prendre Démocrite pour un sceptique, ne peut que confirmer à nos yeux le caractère rationaliste de ses tendances. Nous y voyons, en effet, une preuve de plus que les atomes et le vide étaient pour lui objets de raison, λόγῳ θεωρητά, selon l'expression même d'Epicure¹. Et le mot est à rapprocher de cette remarque de Sextus
+[p. 167] ANAXAGORE ET DÉMOCRITE vient éclatante quand il dit : les atomes et le vide existent véritablement, ἐτεῇ. » Et en même temps Sextus reconnaît le scepticisme de l'atomiste à ce qu'il doute de la sensation. Nous reviendrons sur ce doute. Notons dès maintenant que, rapproché des affirmations dogmatiques sur les atomes et le vide, ce doute sur la sensation, loin de faire prendre Démocrite pour un sceptique, ne peut que confirmer à nos yeux le caractère rationaliste de ses tendances. Nous y voyons, en effet, une preuve de plus que les atomes et le vide étaient pour lui objets de raison, λόγῳ θεωρητά, selon l'expression même d'Epicure[^p167-1]. Et le mot est à rapprocher de cette remarque de Sextus
 
 : « Ils (Platon et Démocrite) n'ont, l'un et l'autre, tenu pour vrais que les intelligibles, τὰ νοητά 2. »
 
@@ -2049,7 +2049,7 @@ Ces réflexions, enfin, ne sont-elles pas amplement confirmées par la nature m�
 
 , assure qu'il n'y a rien de sensible au fond de la réalité, et soutient que l'essence des atomes qui composent les êtres exclut toute qualité sensible
 
-(πάσης αἰσθητῆς ποιότητος ἔρημον φύσιν). ».Et de fait, l'atome est éternel, imperméable,
+(πάσης αἰσθητῆς ποιότητος ἔρημον φύσιν). ».[^p167-3][^p167-2]Et de fait, l'atome est éternel, imperméable,
 
 insécable,
 
@@ -2057,7 +2057,7 @@ indestructible
 
 le nombre
 
-des atomes est infini ; le vide est également infini ; le [^p167-1][^p167-2][^p167-3]
+des atomes est infini ; le vide est également infini ; le
 
 [p. 168] Ce n'est pas d'ailleurs la seule remarqu suggère son atomisme au point de vue de l'concepts. Il y avait dans les idées de Démocr chose qui dépassait en importance le fait mê et des atomes, au point qu'on peut voir en curseur de la physique cartésienne, dont souci est de les nier. La physique de l'atom effet, idéalement mécanique et géométrique. la figure,
 
@@ -2083,7 +2083,7 @@ surpris qu'Aristote s'en trouve choqué, que la finalité est rigoureusement exc
 
 : tout a sa raison et sa nécessité.
 
-Stobée ¹[^p169-1]
+Stobée [^p169-1]
 
 [p. 170] cial, la marque de l'esprit géométrique qu tente pas d'une raison de fait, d'une causali à qui il ne suffit pas d'expliquer un phén son antécédent, mais qui veut trouver choses une loi générale qui les régisse, en raison à la fois intelligible et nécessaire (πο τε καὶ ὑπ᾿ἀνάγκης).
 
@@ -2133,13 +2133,13 @@ LES INCOMMENSURABLES.
 
 LA MÉTHODE INFINITÉSIMALE
 
-Proclus, dans son résumé historique, signale particulièrement Eudoxe et Théétète comme ayant fait progresser la Géométrie. On peut se rendre compte, en prenant pour guide M. P. Tannery¹, de l'importance de leurs travaux,
+Proclus, dans son résumé historique, signale particulièrement Eudoxe et Théétète comme ayant fait progresser la Géométrie. On peut se rendre compte, en prenant pour guide M. P. Tannery[^p175-1], de l'importance de leurs travaux,
 
 D'une part, un passage de Suidas attribue à Théétète la rédaction d'une étude sur les cinq solides, c'est-àdire sur les polyèdres réguliers, qui font l'objet du
 
 ## Livre XIII Des Eléments. Ce Qui Intéresse D'Ailleurs
 
-dans l'étude de ces polyèdres, telle que la présente Euclide, c'est la construction du côté de chacun d'eux, étant connu le rayon de la sphère circonscrite, et l'auteur des Éléments fait intervenir pour cela des lignes irrationnelles de genres spéciaux. Or d'autre part il est [^p175-1]
+dans l'étude de ces polyèdres, telle que la présente Euclide, c'est la construction du côté de chacun d'eux, étant connu le rayon de la sphère circonscrite, et l'auteur des Éléments fait intervenir pour cela des lignes irrationnelles de genres spéciaux. Or d'autre part il est
 
 [p. 176] se confirment donc et montrent qu'on peu sidérer comme due à Théétète toute la partie pour objet la classification des divers genres de irrationnelles,
 
@@ -2183,11 +2183,11 @@ mC > pD
 
 mC < pD
 
-mC = pD¹.
+mC = pD[^p178-1].
 
 Ces définitions une fois posées, le Ve livre d'Euclide expose toutes les propriétés des proportions.
 
-On s'étonnera peut-être que quatre livres tout entiers où se trouvent déjà les principaux théorèmes de la Géométrie plane aient pu se dérouler sans que le géomètre fit jamais appel à la notion de similitude. Et il est curieux en effet de constater que, dans toutes les occasions où cette idée paraît être d'une application [^p178-1]
+On s'étonnera peut-être que quatre livres tout entiers où se trouvent déjà les principaux théorèmes de la Géométrie plane aient pu se dérouler sans que le géomètre fit jamais appel à la notion de similitude. Et il est curieux en effet de constater que, dans toutes les occasions où cette idée paraît être d'une application
 
 [p. 179] LA GÉOMÉTRIE AU TEMPS DE PLALON naturelle, Euclide fait un détour pour s'en passer. Si nous observons que les quatre premiers livres des Éléments sont assurément les plus anciens, et remontent à peu près complètement aux Pythagoriciens eux-mêmes nous trouverons là un indice significatif du trouble secret que leur causait la pensée des incommensurables et nous apprécierons à sa valeur l'initiative d'Eudoxe.
 
@@ -2213,7 +2213,7 @@ DE PLATON la différence entre O' et 2, ce qui conduit très vite à une absurdi
 
 Telle est dans ses traits fondamentaux la méthode d'exhaustion que constitua Eudoxe, et à laquelle Archimède n'ajoutera rien d'essentiel.
 
-L'œuvre d'Eudoxe marque un point culminant dans le développement de la géométrie. Il est vraisemblable qu'elle arrivait d'ailleurs à son heure, préparée par les recherches de ses prédécesseurs immédiats. La preuve en est dans le travail d'Hippocrate de Chios sur la quadrature de certaines lunules¹, qui date du milieu du ve siècle. La reconstitution assez récente d'un texte d'Eudème cité par Simplicius
+L'œuvre d'Eudoxe marque un point culminant dans le développement de la géométrie. Il est vraisemblable qu'elle arrivait d'ailleurs à son heure, préparée par les recherches de ses prédécesseurs immédiats. La preuve en est dans le travail d'Hippocrate de Chios sur la quadrature de certaines lunules[^p181-1], qui date du milieu du ve siècle. La reconstitution assez récente d'un texte d'Eudème cité par Simplicius
 
 a jeté quelque lumière sur ce travail, qu'il ne faut décidément confondre avec aucune tentative de quadrature du cercle, en dépit d'un mot d'Aristote, peut-être
 
@@ -2221,9 +2221,9 @@ interpolé,
 
 et
 
-qui donne au contraire une assez haute idée du géomètre Hippocrate. Ses raisonnements s'appuient déjà sur la proportionnalité des aires de deux cercles aux carrés des diamètres, et des aires de deux segments semblables aux carrés des cordes. Sans attendre la méthode infinitésimale qu'Eudoxe devait fonder, avait-il donné de ces théorèmes une démonstration spéciale ? ou
+qui donne au contraire une assez haute idée du géomètre Hippocrate. Ses raisonnements s'appuient déjà sur la proportionnalité des aires de deux cercles aux carrés des diamètres, et des aires de deux segments semblables aux carrés des cordes. Sans attendre la méthode infinitésimale qu'Eudoxe devait fonder, avait-il donné de ces théorèmes une démonstration spéciale ?[^p181-2] ou
 
-avait-il admis comme évident que les relations connues pour [^p181-1][^p181-2]
+avait-il admis comme évident que les relations connues pour
 
 [p. 182] C'est à peu près au temps de Platon qu'on fait mencer l'étude des sections du cône, ellipse, hype parabole. Mais ces mots eux-mêmes rappellent co travaux que nous avons mentionnés déjà à prop Pythagoriciens ; ils correspondaient, on se le ra aux trois cas distincts d'une construction, où u tangle d'aire donnée est en défaut (ellipse), ou en (hyperbole), sur un autre, d'un certain carré, ou n'est ni en excès, ni en défaut (parabole). La t géométrique des sections du cône commença le jo l'on s'aperçut que, suivant la position du plan s selon qu'il coupe une seule nappe du cône, ou coupe les deux nappes, ou qu'il est parallèle à une ratrice de façon à couper une seule nappe suivan courbe ouverte à l'infini, l'abscisse et l'ordonnée point de la courbe se prêtent respectivement aux relations du problème de la parabole des aires. C comme exemple le cas de la section parabolique
 
@@ -2300,9 +2300,9 @@ et de mener par D la parallèle DQ à OA. Cette parallèle coupera la quadratric
 
 Pourquoi ce nom de quadratrice (τετραγωνίζουσα) ?
 
-[p. 186] C'est que cette courbe peut encore servir (et c'était peut-être là son principal usage aux yeux de l'inventeur) à la quadrature du cercle. Ce problème (construire un carré équivalent à un cercle donné) exige seulement que l'on puisse construire deux lignes dont le rapport soit celui de la circonférence ou d'une fraction de la circonférence au rayon. Or, si C est le point limite de la courbe situé sur OA, on voit sans difficulté que les longueurs OA et OC sont dans le rapport du quadrant AB au rayon OA¹.
+[p. 186] C'est que cette courbe peut encore servir (et c'était peut-être là son principal usage aux yeux de l'inventeur) à la quadrature du cercle. Ce problème (construire un carré équivalent à un cercle donné) exige seulement que l'on puisse construire deux lignes dont le rapport soit celui de la circonférence ou d'une fraction de la circonférence au rayon. Or, si C est le point limite de la courbe situé sur OA, on voit sans difficulté que les longueurs OA et OC sont dans le rapport du quadrant AB au rayon OA[^p186-1].
 
-Le problème de la duplication du cube, appelé encore problème de Délos (parce que la légende attribue à Apollon lui-même l'initiative de cette recherche par le désir qu'il aurait exprimé de voir doubler son temple de Délos), peut s'énoncer ainsi : Étant donné un cube dont le côté est A, construire le côté d'un cube double du précédent. Cette question avait pu paraître aux géomètres du vº siècle analogue à celle qui se trouvait résolue dans le plan : construire un carré double d'un [^p186-1]
+Le problème de la duplication du cube, appelé encore problème de Délos (parce que la légende attribue à Apollon lui-même l'initiative de cette recherche par le désir qu'il aurait exprimé de voir doubler son temple de Délos), peut s'énoncer ainsi : Étant donné un cube dont le côté est A, construire le côté d'un cube double du précédent. Cette question avait pu paraître aux géomètres du vº siècle analogue à celle qui se trouvait résolue dans le plan : construire un carré double d'un
 
 [p. 187] LA GÉOMÉTRIE AU TEMPS DE PLATON carré donné. Le côté du carré double est la diagonale du premier. Dans l'espace, quand on substitue le cube au carré, le problème est beaucoup plus compliqué ; on pourrait même dire qu'il est insoluble si l'on exigeait que la construction du côté du cube double se fît à l'aide de la règle et du compas.
 
@@ -2437,9 +2437,9 @@ OF
 
 OA et OC sont les longueurs cherchées.
 
-[p. 190] Longtemps encore après Platon la construction des deux moyennes suscitera les recherches des géomètres, et la liste des courbes définies et étudiées par eux s'augmentera sans cesse. Ces courbes seront toutes, comme les premières, des lieux géométriques, c'est-à-dire des ensembles de points ayant une propriété particulière, une propriété caractéristique, un σύμπτωμα, comme dit Proclus, qui contient en lui-même l'essence de la courbe, et donne, avec la définition, toutes les propriétés. C'est en somme ce qui équivaut pour nous à l'équation. Les lieux géométriques deviennent assez nombreux pour que des tentatives de classification soient faites dès l'antiquité. S'il faut en croire Proclus (d'après Geminus) en un passage que confirment d'ailleurs à peu près les Definitiones du Pseudo-Heron¹, une distinction aurait été faite en courbes circulaires, hélicoïdes et campyles,
+[p. 190] Longtemps encore après Platon la construction des deux moyennes suscitera les recherches des géomètres, et la liste des courbes définies et étudiées par eux s'augmentera sans cesse. Ces courbes seront toutes, comme les premières, des lieux géométriques, c'est-à-dire des ensembles de points ayant une propriété particulière, une propriété caractéristique, un σύμπτωμα, comme dit Proclus, qui contient en lui-même l'essence de la courbe, et donne, avec la définition, toutes les propriétés. C'est en somme ce qui équivaut pour nous à l'équation. Les lieux géométriques deviennent assez nombreux pour que des tentatives de classification soient faites dès l'antiquité. S'il faut en croire Proclus (d'après Geminus) en un passage que confirment d'ailleurs à peu près les Definitiones du Pseudo-Heron[^p190-1], une distinction aurait été faite en courbes circulaires, hélicoïdes et campyles,
 
-c'est-à-dire cercles, courbes qui s'engendrent autour des solides comme les hélices, et sections des solides. Mais cette classification serait postérieure à Platon qui, après avoir distingué les lignes simples, droites et cercles, réunissait en un seul genre de courbes mixtes, toutes celles qui ont été appelées depuis hélicoïdes et campyles.[^p190-1]
+c'est-à-dire cercles, courbes qui s'engendrent autour des solides comme les hélices, et sections des solides. Mais cette classification serait postérieure à Platon qui, après avoir distingué les lignes simples, droites et cercles, réunissait en un seul genre de courbes mixtes, toutes celles qui ont été appelées depuis hélicoïdes et campyles.
 
 [p. 191] LA GÉOMÉTRIE AU TEMPS DE PLATON
 
@@ -2587,7 +2587,7 @@ etc... » Suit la description bien connue de la caverne.
 
 Dans de tels exemples et dans une foule d'autres, le caractère du mythe platonicien est assez bien défini par ce mot d'Olympiodore 3
 
-: « Μύθος ἐστὶ λόγος ψευδὴς εἰκονίζων ἀλήθειαν. » S'il est plus ou moins facile en pareil cas de saisir exactement l'intention du philosophe, du moins [^p205-1][^p205-2][^p205-3]
+: « Μύθος ἐστὶ λόγος ψευδὴς εἰκονίζων ἀλήθειαν. »[^p205-3][^p205-2][^p205-1] S'il est plus ou moins facile en pareil cas de saisir exactement l'intention du philosophe, du moins
 
 [p. 206] adéquate de sa pensée. La tendance au myt symbole est si forte chez lui qu'elle risque de fester à chaque instant dans le langage et dans le idées, alors que rien ne nous en avertit, au i apparence. Personne n'osera le contester. Ceu qui à propos du Dieu de Platon, par exemple prendre à la lettre son rôle de démiurge tel décrit dans le Timée, se récrient dès qu'il est des dieux, déclarant, lorsque le pluriel est sub singulier, qu'il faut distinguer avec soin la pe philosophe et la forme dont elle se revêt. Pers voudra soutenir qu'en dehors des fables et des ries présentées comme telles, Platon s'abstient langage symbolique. Mais alors notre emba grand. Quand faut-il dire, en présence d'u quelconque :
 
@@ -2601,7 +2601,7 @@ Voilà, par exemplo
 
 qu'en paroles seulement. et non en réalité, il la suppose née et résultant d'un mélange ; et de même. d'après eux, Platon savait fort bien que le corps du monde est éternel et n'a jamais été engendré ; mais sachant par la pensée l'économie du monde et l'ordre qui y règne. si l'on ne supposait d'abord sa génération et le concours primitif des éléments générateurs,
 
-il comprit qu'il fallait suivre cette voie¹ ». Des exemples analogues abondent et en particulier les études de Teichmuller et la thèse latine de M. Couturat montreront aisément à qui voudra s'en rendre compte jusqu'où peut aller.
+il comprit qu'il fallait suivre cette voie[^p207-1] ». Des exemples analogues abondent et en particulier les études de Teichmuller et la thèse latine de M. Couturat montreront aisément à qui voudra s'en rendre compte jusqu'où peut aller.
 
 chez des critiques intelligents et consciencieux, le droit qu'ils s'arrogent de chercher la pensée de Platon sous le symbole.
 
@@ -2611,7 +2611,7 @@ s'effrayer outre mesure de la difficulté ?
 
 Peut- être, s'il s'agissait d'une investigation trop complète et trop minutieuse,
 
-si l'on se proposait de [^p207-1]
+si l'on se proposait de
 
 [p. 208] sions métaphysiques auxquelles elle aboutit nous nous trouvons en présence de problème impossible d'éviter, la Connaissance, les Idées, nous prendrons pour guide l'impression di nous produira la lecture des dialogues.
 
@@ -2621,7 +2621,7 @@ Platon a enseigné à l'Académie ; person conteste. Mais qu'a-t-il enseigné ? 
 
 o côté d'écrits destinés au grand public, était-il questions plus savantes ? On peut présenter à de cette dernière thèse quelques arguments Faut-il citer d'abord le passage du Phèdre où par la bouche de Socrate, fait des réflexions e sur le rôle des écrits du philosophe ? « Celui c naît ce qui est juste, beau et bon aura-t-il selo moins de sagesse dans l'emploi de ses semences laboureur n'en montre dans l'emploi des sier n'ira donc pas sérieusement les déposer dar
 
-[p. 209] L'ENSEIGNEMENT ORAL noire, les semant à l'aide d'une plume, avec des mots incapables de s'expliquer et de se défendre eux-mêmes, incapables d'enseigner suffisamment la vérité ?... Non, mais s'il sème jamais dans les jardins de l'écriture, il ne le fera que pour s'amuser, et se faisant un trésor de souvenirs, et pour lui-même quand la vieillesse amènera l'oubli, et pour tous ceux qui suivent les mêmes traces ¹... » Ce passage si fréquemment cité oppose-t-il vraiment l'enseignement oral à l'enseignement écrit, ou bien, comme quelques-uns l'ont pensé, oppose-t-il surtout le discours continu au dialogue, le premier présentant ce caractère que les affirmations ne sont pas suffisamment défendues,
+[p. 209] L'ENSEIGNEMENT ORAL noire, les semant à l'aide d'une plume, avec des mots incapables de s'expliquer et de se défendre eux-mêmes, incapables d'enseigner suffisamment la vérité ?... Non, mais s'il sème jamais dans les jardins de l'écriture, il ne le fera que pour s'amuser, et se faisant un trésor de souvenirs, et pour lui-même quand la vieillesse amènera l'oubli, et pour tous ceux qui suivent les mêmes traces [^p209-1]... » Ce passage si fréquemment cité oppose-t-il vraiment l'enseignement oral à l'enseignement écrit, ou bien, comme quelques-uns l'ont pensé, oppose-t-il surtout le discours continu au dialogue, le premier présentant ce caractère que les affirmations ne sont pas suffisamment défendues,
 
 puisqu'elles
 
@@ -2641,7 +2641,7 @@ Platon
 
 sur
 
-l'espace, Aristote invoque les « Doctrines non écrites », ἄγραφα δόγματα ². Puis surtout, quand il discute les théories de son maître, et en [^p209-1][^p209-2]
+l'espace, Aristote invoque les « Doctrines non écrites », ἄγραφα δόγματα [^p209-2]. Puis surtout, quand il discute les théories de son maître, et en
 
 [p. 210] particulier dans les deux derniers livres de la Métaphysique, il lui arrive fréquemment de mentionner certaines notions platoniciennes, comme celle de la dyade indéterminée,
 
@@ -2653,11 +2653,11 @@ certaines
 
 conceptions, comme celle des Idées-Nombres, dont il n'est pas question dans les dialogues. En outre les commentateurs anciens nous parlent d'un ouvrage d'Aristote qui avait pour titre περὶ τἀγαθοῦ ', et qui contenait, disent-ils, l'exposé des hautes théories platoniciennes développées dans les leçons orales. Simplicius nomme, d'après Alexandre d'Aphrodisias, les disciples qui avaient rédigé ces leçons et avaient ainsi fourni la matière du traité du Bien
 
-: Speusippe, Xénocrate, Héraclide, Hestiée et Aristote². Un disciple immédiat d'Aristote, Aristoxène, nous a laissé sur l'enseignement oral de Platon ce curieux renseignement : « On était venu croyant entendre parler de ce qui s'appelle biens parmi les hommes, de richesse, de santé, de force, en un mot de quelque merveilleuse félicité ; et lorsque arrivaient les discours sur les nombres et les mathématiques, et la géométrie, et l'astronomie, et la limite, identique avec le bien, tout cela semblait fort étrange ; les uns ne comprenaient pas, les autres mêmes s'en allaient. C'est là qu'Aristote conçut de son propre aveu la nécessité d'amener [^p210-1][^p210-2]
+: Speusippe, Xénocrate, Héraclide, Hestiée et Aristote[^p210-2]. Un disciple immédiat d'Aristote, Aristoxène, nous a laissé sur l'enseignement oral de Platon ce curieux renseignement : « On était venu croyant entendre parler de ce qui s'appelle biens parmi les hommes, de richesse, de santé, de force, en un mot de quelque merveilleuse félicité ; et lorsque arrivaient les discours sur les nombres et les mathématiques, et la géométrie, et l'astronomie, et la limite, identique avec le bien, tout cela semblait fort étrange ; les uns ne comprenaient pas, les autres mêmes s'en allaient.[^p210-1] C'est là qu'Aristote conçut de son propre aveu la nécessité d'amener
 
 [p. 211] LA
 
-TRADITION PLATONICIENNE par des introductions aux difficultés de la Science¹. »
+TRADITION PLATONICIENNE par des introductions aux difficultés de la Science[^p211-1]. »
 
 Ces témoignages nous paraissent décisifs. Il est impossible de faire abstraction de l'enseignement oral, de se borner au contenu des écrits, et de rejeter les informations d'Aristote quand on n'a pas d'autre raison que le silence des dialogues sur les points mentionnés.
 
@@ -2681,7 +2681,7 @@ sans compter les philosophes de la Nouvelle Académie,
 
 nous apportent tous à leur manière un écho de la pensée de Platon. Sans insister sur chacun d'eux, on peut dire que dans leur ensemble ils présentent le platonisme sous deux aspects tout à fait différents, l'un qu'offre la tradition la plus ancienne, aspect logique et mathématique, l'autre qui date de Philon, aspect mystique et religieux.
 
-Speusippe et Xénocrate sont connus surtout pour avoir imprégné leur philosophie de mathématisme.[^p211-1]
+Speusippe et Xénocrate sont connus surtout pour avoir imprégné leur philosophie de mathématisme.
 
 [p. 212] ments n'entend pas confondre les disciples a maître. S'il sait nous dire lui-même ce qu'il tro personnel aux théories de Platon, et s'il montr en apprécie au moins l'extension et la comple faisant porter la discussion de ces théories sur to problèmes auxquels il touche lui-même, l'impr qui se dégage de ses nombreuses critiques est qu yeux la philosophie platonicienne est essentiell logique. Quand il résume, dans leurs traits fond taux, les systèmes philosophiques de ses prédéces arrivé à Platon, il s'exprime ainsi : « Étudiant c Socrate les universaux, Platon continua son m mais il admit que les définitions s'appliquent lement à des êtres fort différents des choses sens par cette raison qu'une commune définition ne jamais convenir aux objets des sens, attendu sont dans un
 
@@ -2713,13 +2713,13 @@ les
 
 mathématiques... » et plus loin : « c'est par le Grand et le Petit que
 
-les idées qui participent de l'Unité sont aussi les nombres¹..... »
+les idées qui participent de l'Unité sont aussi les nombres[^p213-1]..... »
 
 D'une part donc c'est la théorie des Idées qu'Aristote voit surtout chez son maître, c'est elle qu'il place au cœur de la doctrine, c'est en elle que réside à ses yeux l'essentiel du platonisme ; et d'autre part l'Idée de Platon, sauf qu'elle reçoit une existence séparée, n'est guère autre chose que la définition de Socrate et que le nombre de Pythagore ; l'historique de la philosophie ancienne peut aller, sous la plume d'Aristote, presque sans discontinuité, de Thalès à Platon.
 
 Ainsi, à consulter les disciples immédiats, ceux qui continuent l'enseignement du maître, comme celui qui le combat, la pensée de Platon apparaît comme plus compréhensive sans doute que celle de ses prédécesseurs, mais ne s'en écartant que pour accentuer son attachement au nombre, à la notion définie, à l'essence logique et intelligible des choses.
 
-Tout autre est le Platon judéo-chrétien, dont les [^p213-1]
+Tout autre est le Platon judéo-chrétien, dont les
 
 [p. 214] traits essentiels se fixent avec Philon. La tradition ancienne n'est pas complètement oubliée chez Philon et les réflexions abondent où domine le souci du nombre et de la mesure. Le nombre et les proportions géométriques jouent un grand rôle comme raison des lois des choses sensibles. Le quaternaire est le nombre par excellence ; la décade exprime la plénitude et l'universalité de la création divine, etc... Mais ce n'est pas là le plus important. L'essentiel de la doctrine est ce qui concerne Dieu, son rapport au monde, la création, l'extase. Ce qui s'appelait chez Platon l'Idée du Bien, et était donné comme supérieur à l'Intelligence, devient avec Philon le Dieu supérieur à tout, au Vrai et au Bien. Il est celui qui est ; et il se cache dans les profondeurs impénétrables de son essence. Entre lui et le monde, il faut un médiateur, c'est le Verbe, le λόγος, tout à la fois lieu des Idées, comme semblait être le νοῦς de Platon, et principe de vie. En lui l'essence intelligible et la puissance sont unies. Il a d'ailleurs un double aspect : intérieur, ἐνδιάθετος, il est tourné vers Dieu ;
 
@@ -2731,7 +2731,7 @@ PLATONICIENNE δημιουργός, mais aussi fondateur, κτίστης. Philon
 
 Ces doctrines du penseur hébreu, transportées par Nemenius, pénètrent dans l'école grecque d'Alexandrie. Les Pères de l'Église, qui, au dire de Porphyre, vont écouter les leçons d'Ammonius Saccas, s'imprègnent également de la philosophie judéo-platonicienne, et en apportent l'écho dans leurs discussions théologiques qui aboutissent à la fixation du dogme de la Trinité. Plotin veut revenir à la tradition païenne ; c'est au fond pour développer et compléter avec l'extase, avec sa théorie de l'émanation, avec sa procession double de l'un aux choses et des choses à l'un, les éléments essentiels de la philosophie de Philon.
 
-Entre ces deux aspects si différents du platonisme, lequel est le vrai ? On peut se demander si Aristote a toujours compris les théories qu'il discute et jusqu'à quel point Speusippe et Xénocrate sont fidèles à la doctrine de leur maître. Mais quand il s'agit de l'interprétation postérieure, aucun doute n'est permis : un élément étrangèr s'introduit tout à coup. C'est d'une façon générale l'esprit mystique et religieux de l'Orient, [p. 216] breux, et où se trouve déjà l'idée du Verbe cre telle encore la doctrine du Verbe divin dans les religieux de la Perse¹. Par conséquent, s'il nous d'interroger la tradition platonicienne, nous au retenir qu'elle s'est compliquée de très bonne d'un caractère religieux qui ne lui appartenait Sous cette réserve, il est trop clair que nous ne d exclure aucune source d'information, et tous ceu dans l'antiquité se sont réclamés de Platon pe nous aider dans l'étude de sa pensée. D'une part saurait nous être indifférent de voir cette pens transformer si aisément en une sorte de mathémat dès qu'elle est interprétée par celui de tous les disc que le maître a désigné lui-même pour lui succ par Speusippe, à qui il a confié la garde de sa doc et de ses écrits. Et d'autre part nous n'oublierons que c'est la philosophie de Platon qui par sa na propre a pu revêtir dans l'esprit de quelques homm caractère mystique des croyances religieuses de l'Ori [^p216-1]
+Entre ces deux aspects si différents du platonisme, lequel est le vrai ? On peut se demander si Aristote a toujours compris les théories qu'il discute et jusqu'à quel point Speusippe et Xénocrate sont fidèles à la doctrine de leur maître. Mais quand il s'agit de l'interprétation postérieure, aucun doute n'est permis : un élément étrangèr s'introduit tout à coup. C'est d'une façon générale l'esprit mystique et religieux de l'Orient, [p. 216] breux, et où se trouve déjà l'idée du Verbe cre telle encore la doctrine du Verbe divin dans les religieux de la Perse[^p216-1]. Par conséquent, s'il nous d'interroger la tradition platonicienne, nous au retenir qu'elle s'est compliquée de très bonne d'un caractère religieux qui ne lui appartenait Sous cette réserve, il est trop clair que nous ne d exclure aucune source d'information, et tous ceu dans l'antiquité se sont réclamés de Platon pe nous aider dans l'étude de sa pensée. D'une part saurait nous être indifférent de voir cette pens transformer si aisément en une sorte de mathémat dès qu'elle est interprétée par celui de tous les disc que le maître a désigné lui-même pour lui succ par Speusippe, à qui il a confié la garde de sa doc et de ses écrits. Et d'autre part nous n'oublierons que c'est la philosophie de Platon qui par sa na propre a pu revêtir dans l'esprit de quelques homm caractère mystique des croyances religieuses de l'Ori
 
 [p. 217]
 
@@ -2755,9 +2755,9 @@ Il connaît quelque chose.
 
 Qui est ou qui n'est pas ? — Qui est, car comment connaîtrait-on ce qui n'est pas ?
 
-Ainsi nous savons, à n'en pas douter, que ce qui est en toute manière peut être connu de même, et que ce qui n'est nullement ne peut être connu¹... »
+Ainsi nous savons, à n'en pas douter, que ce qui est en toute manière peut être connu de même, et que ce qui n'est nullement ne peut être connu[^p219-1]... »
 
-Quand il parle des sciences théoriques, surtout des mathématiques, c'est avec une admiration marquée. « La science du calcul est belle en soi ;... elle donne à l'âme un puissant élan vers la région supérieure ;... elle oblige l'âme à se servir de la pure intelligence pour connaître la vérité... La Géométrie n'a, tout entière, d'autre objet que la con [^p219-1]
+Quand il parle des sciences théoriques, surtout des mathématiques, c'est avec une admiration marquée. « La science du calcul est belle en soi ;... elle donne à l'âme un puissant élan vers la région supérieure ;... elle oblige l'âme à se servir de la pure intelligence pour connaître la vérité... La Géométrie n'a, tout entière, d'autre objet que la con
 
 [p. 220] élevé dans l'ordre de la vérité, et ce mot enfi indistinctement sous la plume de Platon pour si réalité. La classification des sciences qui se trou fin du Philèbe est à cet égard particulièrement i sante. Platon s'y laisse guider par le degré d'exac de pureté, de précision, qu'il reconnaît à l'ob chaque science, et il est tout naturellement amen à les ranger selon le degré de vérité.
 
@@ -2781,7 +2781,7 @@ Peut-on songer à ses croyances religieuses ? Une foi religieuse ardente et prof
 
 [p. 223] DOGMATISME il a été élevé ? Quand il parle des dieux de la Grèce, tout le monde est d'accord pour reconnaître la forme extérieure dont il juge convenable de revêtir ses idées philosophiques. Il lui arrive même alors de donner à son langage une ironie significative. Dans le Tímée, par exemple, après qu'il a été question de la création des astres qui brillent au ciel, on lit : « Quant à l'origine des autres divinités, il est au-dessus de nous de la dire et de la connaître ; mais il faut en croire ceux qui en ont parlé autrefois, qui étaient, disaient-ils, des descendants des dieux, et qui sans doute connaissaient bien leurs ancêtres : on ne peut donc refuser d'ajouter foi aux enfants des dieux, quoique leur récit ne s'appuie pas sur des preuves vraisemblables et convaincantes ;
 
-mais puisqu'ils disent que c'est l'histoire de leur famille, nous devons les en croire suivant l'usage. Voici la généalogie de ces dieux, d'après leur témoignage, auquel nous nous conformons. La terre et le ciel engendrèrent l'Océan et Thétys, etc¹... » Platon n'est certainement pas un croyant, au sens propre du mot. Sans doute on peut parler du sentiment religieux dont sa philosophie est souvent pénétrée, mais à la condition d'entendre par là ce sens du divin, de l'au delà, cette soif d'idéal, cette aspiration vers une perfection inaccessible de beauté, de vérité et de justice, qui n'exigent l'adhé [^p223-1]
+mais puisqu'ils disent que c'est l'histoire de leur famille, nous devons les en croire suivant l'usage. Voici la généalogie de ces dieux, d'après leur témoignage, auquel nous nous conformons. La terre et le ciel engendrèrent l'Océan et Thétys, etc[^p223-1]... » Platon n'est certainement pas un croyant, au sens propre du mot. Sans doute on peut parler du sentiment religieux dont sa philosophie est souvent pénétrée, mais à la condition d'entendre par là ce sens du divin, de l'au delà, cette soif d'idéal, cette aspiration vers une perfection inaccessible de beauté, de vérité et de justice, qui n'exigent l'adhé
 
 [p. 224] sion formelle à aucun dogme déterminé. Il ne s'agit plus alors à proprement parler de foi religieuse. C'est la pensée philosophique libre, indépendante de toute attache, qui l'entraîne ; la question se pose de nouveau de savoir sur quoi se fonde son allure si naturellement dogmatique, et à cette question il faut chercher ailleurs une réponse.
 
@@ -2801,29 +2801,29 @@ avide d'édifier la connaissance sur des fondements nouveaux ;
 
 ce n'est pas l'adversaire des sophistes désireux d'élever l'idée de la science assez haut pour qu'elle
 
-reste désormais à l'abri de leurs attaques ; c'est d'abord un homme pénétré des difficultés de la science de l'univers, de l'audace impie des physiciens et des mathématiciens qui s'appliquent à des mystères insondables, des contradictions des systèmes philosophiques antérieurs, et qui conseille modestement à ses concitoyens de rentrer en eux-mêmes et de ne se préoccuper que des problèmes moraux de la vie courante. « Il ne discourait point, dit Xenophon, comme la plupart des autres philosophes, sur la nature de l'univers, recherchant l'o-[^p225-1]
+reste désormais à l'abri de leurs attaques ; c'est d'abord un homme pénétré des difficultés de la science de l'univers, de l'audace impie des physiciens et des mathématiciens qui s'appliquent à des mystères insondables, des contradictions des systèmes philosophiques antérieurs, et qui conseille modestement à ses concitoyens de rentrer en eux-mêmes et de ne se préoccuper que des problèmes moraux de la vie courante.[^p225-1] « Il ne discourait point, dit Xenophon, comme la plupart des autres philosophes, sur la nature de l'univers, recherchant l'o-
 
 [p. 226] rigine, ou à quelles lois fatales obéissent les phénomènes célestes ; il prouvait même la folie de ceux qui se livrent à de pareilles spéculations. Et d'abord il examinait s'ils croyaient avoir assez approfondi les choses humaines, pour aller s'occuper de semblables matières, ou bien si, négligeant ce qui est du domaine de l'homme pour aborder ce qui appartient aux dieux, ils s'imaginaient agir d'une façon convenable. Il s'étonnait qu'ils ne vissent pas clairement que ces secrets sont impénétrables à l'homme, puisque ceux mêmes qui se piquent d'en parler le mieux sont loin d'être d'accord les uns avec les autres, mais se regardent mutuellement comme des fous... Parmi ceux qui se préoccupent de la nature de l'univers, ceux-ci affirment l'unité de l'être, ceux-là sa multiplicité infinie.
 
 Les uns croient au mouvement perpétuel des corps, les autres à leur inertie absolue. Ici l'on prétend que tout naît et meurt, là que rien n'a été engendré et que rien ne doit périr. Il se demandait encore si, de même qu'en étudiant ce qui concerne l'homme, on se propose de faire tourner cette étude à son profit et à celui des autres, ceux qui étudient ce qui concerne les dieux s'imaginent, une fois instruits des lois fatales du monde, pouvoir faire à leur gré les vents, la pluie, les saisons et tout ce dont ils auront besoin en ce genre, ou bien si, sans espérer rien de tel, il leur suffit de savoir comment se produit chacun de ces phénomènes. Voilà ce qu'il disait de ceux qui
 
-[p. 227] DOGMATISME s'ingèrent dans ces sortes de recherches ; mais lui, il discourait sans cesse de ce qui est de l'homme, examinant ce qui est pieux ou impie, ce qui est beau ou honteux, ce qui est juste ou injuste ; ce que c'est que la sagesse ou la folie, la valeur ou la lâcheté ¹... »
+[p. 227] DOGMATISME s'ingèrent dans ces sortes de recherches ; mais lui, il discourait sans cesse de ce qui est de l'homme, examinant ce qui est pieux ou impie, ce qui est beau ou honteux, ce qui est juste ou injuste ; ce que c'est que la sagesse ou la folie, la valeur ou la lâcheté [^p227-1]... »
 
-1 Ailleurs Xénophon dit encore : « En général il empêchait de se préoccuper outre mesure des corps célestes et des lois suivant lesquelles la divinité les dirige. Il pensait que ces secrets sont impénétrables aux hommes, et qu'on déplairait aux dieux en voulant sonder les mystères qu'ils n'ont pas voulu nous révéler : il disait qu'on courait le risque de perdre la raison en s'enfonçant dans ces spéculations, comme l'avait perdue Anaxagore avec ses grands raisonnements pour expliquer les mécanismes des dieux²... » Ainsi donc la connaissance de l'univers
+1 Ailleurs Xénophon dit encore : « En général il empêchait de se préoccuper outre mesure des corps célestes et des lois suivant lesquelles la divinité les dirige. Il pensait que ces secrets sont impénétrables aux hommes, et qu'on déplairait aux dieux en voulant sonder les mystères qu'ils n'ont pas voulu nous révéler : il disait qu'on courait le risque de perdre la raison en s'enfonçant dans ces spéculations, comme l'avait perdue Anaxagore avec ses grands raisonnements pour expliquer les mécanismes des dieux[^p227-2]... » Ainsi donc la connaissance de l'univers
 
-est interdite à l'homme. Quand Socrate le détourne de la nature et lui demande de s'étudier lui-même, ce n'est pas là seulement un conseil provisoire, comme on l'a dit si souvent ; cela ne signifie pas : connais-toi toi-même d'abord, puis tu t'attaqueras à l'univers, mais bien : prends seulement les choses humaines comme objet de ta science, et renonce irrévocablement aux mystères insondables du monde physique. Poursuivre les recherches des philo [^p227-1][^p227-2]
+est interdite à l'homme. Quand Socrate le détourne de la nature et lui demande de s'étudier lui-même, ce n'est pas là seulement un conseil provisoire, comme on l'a dit si souvent ; cela ne signifie pas : connais-toi toi-même d'abord, puis tu t'attaqueras à l'univers, mais bien : prends seulement les choses humaines comme objet de ta science, et renonce irrévocablement aux mystères insondables du monde physique. Poursuivre les recherches des philo
 
 [p. 228] LES PHILOSOPHES -GÉOMÈTRES DE LA GRÈCE sophes antérieurs est à la fois une folie et une offense aux dieux. Le scepticisme de Socrate prend une forme religieuse que nous connaissons bien pour l'avoir vu se manifester toutes les fois que l'esprit théocratique a essayé d'étouffer la pensée, et qui se résume en un mot : la science est un sacrilège. Que nous sommes loin de Platon pour qui le savant, au contraire, est le plus près de la divinité, et pour qui la culture des sciences est l'acheminement le plus direct vers la contemplation de l'unité suprême.
 
 Au reste cette idée même de la contemplation d'une beauté et d'une vérité éternelles n'eût pas été comprise de Socrate. Ses préoccupations ont toujours un caractère essentiellement pratique. « Il montrait, dit Xénophon, jusqu'à quel point un homme bien élevé doit se rendre utile dans chaque science : ainsi il disait qu'il fallait apprendre la géométrie jusqu'à ce qu'on fût capable de mesurer exactement, au besoin, une terre que l'on veut acheter, vendre, diviser ou labourer ; et, selon lui, c'est une chose si facile à apprendre, que, peur peu qu'on s'applique à l'arpentage, on connaît bien vite et la grandeur de la terre et la manière de la mesurer. Mais qu'on poussât l'étude de la géométrie jusqu'aux problèmes les plus difficiles, c'est ce qu'il désapprouvait : il disait qu'il n'en voyait point l'utilité. Ce n'est pas qu'il les ignorât lui-même ; mais il prétendait que la recherche de ces problèmes est faite pour
 
-[p. 229] DOGMATISME consumer la vie de l'homme, et le détourner d'une foule d'autres études utiles. Il recommandait d'apprendre assez d'astrologie pour reconnaître les divisions de la nuit, du mois et de l'année, en cas de voyage, de navigation ou de garde, et afin d'avoir des points de repère pour tout ce qui se fait dans la nuit, dans le mois ou dans l'année, grâce à la connaissance du temps affecté à ces divisions ; il ajoutait qu'il était facile d'apprendre ces points auprès des chasseurs de nuit, des pilotes, de tous les gens enfin qui ont intérêt à les savoir. Quant à l'astronomie et aux recherches qui concernent les globes placés en dehors de la rotation de notre ciel, à savoir les astres errants et sans règle, leur distance de la terre, leurs révolutions et les causes de leur formation, il en dissuadait fortement, disant qu'il n'y voyait aucune utilité¹. » Socrate ne sépare pas l'idée d'une connaissance quelconque de celle de son utilité. Quelle fiction est celle de Platon quand, dans la République, il met dans la bouche mêine de Socrate ces paroles d'une ironie si mordante à l'égard de toute conception utilitaire des sciences : « Il conviendrait de faire une loi et de persuader en même temps ceux qui sont destinés à remplir les premières charges de l'état de se livrer à la science du calcul, non pas pour en faire une étude superficielle, mais pour s'élever, par le moyen de la [^p229-1]
+[p. 229] DOGMATISME consumer la vie de l'homme, et le détourner d'une foule d'autres études utiles. Il recommandait d'apprendre assez d'astrologie pour reconnaître les divisions de la nuit, du mois et de l'année, en cas de voyage, de navigation ou de garde, et afin d'avoir des points de repère pour tout ce qui se fait dans la nuit, dans le mois ou dans l'année, grâce à la connaissance du temps affecté à ces divisions ; il ajoutait qu'il était facile d'apprendre ces points auprès des chasseurs de nuit, des pilotes, de tous les gens enfin qui ont intérêt à les savoir. Quant à l'astronomie et aux recherches qui concernent les globes placés en dehors de la rotation de notre ciel, à savoir les astres errants et sans règle, leur distance de la terre, leurs révolutions et les causes de leur formation, il en dissuadait fortement, disant qu'il n'y voyait aucune utilité[^p229-1]. » Socrate ne sépare pas l'idée d'une connaissance quelconque de celle de son utilité. Quelle fiction est celle de Platon quand, dans la République, il met dans la bouche mêine de Socrate ces paroles d'une ironie si mordante à l'égard de toute conception utilitaire des sciences : « Il conviendrait de faire une loi et de persuader en même temps ceux qui sont destinés à remplir les premières charges de l'état de se livrer à la science du calcul, non pas pour en faire une étude superficielle, mais pour s'élever, par le moyen de la
 
 [p. 230] l'esprit la contemplation de l'idée du Bien... C moindre teinture de géométrie ne permet pas de tester que cette science n'a absolument aucun raj avec le langage de ceux qui en font leur occupati Leur langage est plaisant vraiment... Ils parler quarrer, de prolonger, d'ajouter, et emploient d'a expressions semblables, comme s'ils opéraient re ment et que toutes leurs démonstrations tendisse la pratique... Voilà donc la seconde science que prescrirons à nos jeunes gens... L'astronomie se elle la troisième ?
 
 C'est mon avis, répond Glau car selon moi une connaissance exacte des saisons. mois, des années, n'est pas moins nécessaire au guer qu'au laboureur et au pilote.
 
-Vraiment, c'est b pure de ta part ! Tu as l'air d'avoir peur que le vulg ne te reproche de prescrire l'étude des sciences in les. » Et enfin à propos de la musique : « Ne sai pas que la musique aujourd'hui n'est pas mieux tra que sa sœur (l'astronomie) ? On borne cette scien [^p230-1]
+Vraiment, c'est b pure de ta part ! Tu as l'air d'avoir peur que le vulg ne te reproche de prescrire l'étude des sciences in les. » Et enfin à propos de la musique : « Ne sai pas que la musique aujourd'hui n'est pas mieux tra que sa sœur (l'astronomie) ?[^p230-1] On borne cette scien
 
 [p. 231] DOGMATISME
 
@@ -2857,9 +2857,9 @@ Au surplus il y a là plus qu'une supposition. La thèse sceptique, dans ce qu'e
 
 Il n'est pas possible à l'homme de chercher ni ce qu'il sait ni ce qu'il ne sait pas ; car il ne cherchera point ce qu'il sait, parce qu'il
 
-[p. 236] LES PHILOSOPHES -GÉOMÈTRES DE LA GRÈCE le sait et que cela n'a point besoin de recherche, ni ce qu'il ne sait point par la raison qu'il ne sait pas ce qu'il doit chercher¹. » Le problème est donc nettement posé, il ne met rien moins en question que le progrès dans la connaissance, que l'addition des vérités dans la pensée de l'homme. Au fond c'est presque la même préoccupation qui plus tard guidera Kant, quand il s'inquiètera de la possibilité des jugements synthétiques à priori, car celle-ci équivaudra pour lui à la possibilité d'édifier un ensemble de vérités apodictiques. Or on sait ce qui le tirera de son incertitude :
+[p. 236] LES PHILOSOPHES -GÉOMÈTRES DE LA GRÈCE le sait et que cela n'a point besoin de recherche, ni ce qu'il ne sait point par la raison qu'il ne sait pas ce qu'il doit chercher[^p236-1]. » Le problème est donc nettement posé, il ne met rien moins en question que le progrès dans la connaissance, que l'addition des vérités dans la pensée de l'homme. Au fond c'est presque la même préoccupation qui plus tard guidera Kant, quand il s'inquiètera de la possibilité des jugements synthétiques à priori, car celle-ci équivaudra pour lui à la possibilité d'édifier un ensemble de vérités apodictiques. Or on sait ce qui le tirera de son incertitude :
 
-il lui suffira d'observer l'existence des sciences mathématiques. Les jugements synthétiques à priori sont possibles, dira-t-il, puisque les propositions mathématiques qui sont universelles et nécessaires et par conséquent à priori sont synthétiques. C'est la constatation d'une vérité de fait. La possibilité des jugements synthétiques à priori s'expliquera par la matière que fournissent les intuitions à priori de la sensibilité, mais ce qui, avant toute explication, nous assure de cette possibilité, c'est l'existence même des propositions mathématiques. Il y a quelque chose d'analogue dans la réponse de Platon à la difficulté fondamentale soulevée par Menon. La théorie métaphysique de la réminiscence joue le rôle des intuitions à priori de Kant dans l'explication de ce [^p236-1]
+il lui suffira d'observer l'existence des sciences mathématiques. Les jugements synthétiques à priori sont possibles, dira-t-il, puisque les propositions mathématiques qui sont universelles et nécessaires et par conséquent à priori sont synthétiques. C'est la constatation d'une vérité de fait. La possibilité des jugements synthétiques à priori s'expliquera par la matière que fournissent les intuitions à priori de la sensibilité, mais ce qui, avant toute explication, nous assure de cette possibilité, c'est l'existence même des propositions mathématiques. Il y a quelque chose d'analogue dans la réponse de Platon à la difficulté fondamentale soulevée par Menon. La théorie métaphysique de la réminiscence joue le rôle des intuitions à priori de Kant dans l'explication de ce
 
 [p. 237] procédé de Platon, comme celui de Kant, co
 
@@ -2897,7 +2897,7 @@ D'abord
 
 si tout coule, la sensation elle-mên aucune fixité, on peut dire d'elle aussi bien qu'el et qu'elle n'est pas : d'un homme, qu'il entend et n'entend pas, qu'il voit et qu'il ne voit pas... Si la sensation est la science, on peut dire de la se à la fois qu'elle est et qu'elle n'est pas ; elle est même une chose qui coule, qui se transforme inces ment, qui n'est pas saisissable.
 
-Qu'est-ce qui d à cette considération une valeur que n'avaient pa autres ? C'est peut-être qu'on est remonté au [^p240-1]
+Qu'est-ce qui d à cette considération une valeur que n'avaient pa autres ?[^p240-1] C'est peut-être qu'on est remonté au
 
 [p. 241] vérité, c'est d'être à ce point variable qu'elle pas, qu'elle s'écoule, comme la sensation e Protagoras serait ici tout à fait d'accord avec trouverait naturel de conclure que la scien effet une chose insaisissable ; ce ne serait pas pour lui de chercher la science ailleurs qu sensation. La nécessité de le faire résulte don a vues. Et c'est l'argument lui-même, si patiemment expos sentiment où est Platon qu'il existe une scic un caractère de fixité immuable, qu'il y a des ressemblant en rien à la série infinie de véri sives que font connaître directement les sens se prêteraient même pas à la moindre affirma a assurément autre chose, sous-entend Plat reste il ne tarde pas à prouver que la connai la sensation n'est pas la seule dont l'âme so :
 
@@ -2975,7 +2975,7 @@ soit qu'il s'agisse d'un vol d'argent ou de quelque autre violence ? -Nullement,
 
 persuader.
 
-N'est-il pas vrai que quand des juges ont une persuasion bien fondée sur des faits qu'on ne peut savoir, à moins de les avoir vus, alors, estimant ces faits sur le rapport d'autrui, ils en portent un jugement vrai sans science, ayant eu bien raison de s'être laissé persuader, puisque leur sentence a été ce qu'elle devait être ?... Si le jugement vrai et la science étaient la même chose, le meilleur tribunal pourrait-il jamais porter un jugement juste, étant dépourvu de science ? Il semble donc qu'il y a une différence entre la science et le jugement vrai¹ ». Ces lignes sont assez claires par elles-mêmes. Ce n'est pas du tout l'impossibilité d'expliquer l'erreur qui fait rejeter la dernière définition proposée pour la science, ce n'est pas le caractère trop absolu de la δόξα, c'est au contraire son manque de rigueur. Elle a beau être vraie (car il ne s'agit que de celle-là), elle ne se présente pas à nous avec une suffi [^p248-1]
+N'est-il pas vrai que quand des juges ont une persuasion bien fondée sur des faits qu'on ne peut savoir, à moins de les avoir vus, alors, estimant ces faits sur le rapport d'autrui, ils en portent un jugement vrai sans science, ayant eu bien raison de s'être laissé persuader, puisque leur sentence a été ce qu'elle devait être ?... Si le jugement vrai et la science étaient la même chose, le meilleur tribunal pourrait-il jamais porter un jugement juste, étant dépourvu de science ? Il semble donc qu'il y a une différence entre la science et le jugement vrai[^p248-1] ». Ces lignes sont assez claires par elles-mêmes. Ce n'est pas du tout l'impossibilité d'expliquer l'erreur qui fait rejeter la dernière définition proposée pour la science, ce n'est pas le caractère trop absolu de la δόξα, c'est au contraire son manque de rigueur. Elle a beau être vraie (car il ne s'agit que de celle-là), elle ne se présente pas à nous avec une suffi
 
 [p. 249] IDÉALISME sante nécessité ;
 
@@ -2983,23 +2983,23 @@ elle reste trop contingente, dirionsnous aujourd'hui. Elle est vraie, soit, mais
 
 exemple ne montre-t-il pas avec une clarté toute parti Cet
 
-culière ce qui manque à la δόξα αληθής ? C'est un jugement que nous formulons sans pouvoir en donner ni les raisons ni la preuve irréfutable. Les autres dialogues confirment entièrement cette manière de voir. Dans le Timée la δόξα est appelée un jugement sans raison, ἄλογος ; celui qui la suit croit mais ne pense pas véritablement, (οἰόμενος, φρονῶν δὲ μὴ) ; elle ne vient pas par démonstration, mais par persuasion¹. Dans le [^p249-1]
+culière ce qui manque à la δόξα αληθής ? C'est un jugement que nous formulons sans pouvoir en donner ni les raisons ni la preuve irréfutable. Les autres dialogues confirment entièrement cette manière de voir. Dans le Timée la δόξα est appelée un jugement sans raison, ἄλογος ; celui qui la suit croit mais ne pense pas véritablement, (οἰόμενος, φρονῶν δὲ μὴ) ; elle ne vient pas par démonstration, mais par persuasion[^p249-1]. Dans le
 
-[p. 250] produisent toutes sortes d'avantages, mais elles ne veu lent guère demeurer longtemps, et elles s'échappent c l'âme humaine, en sorte qu'elles ne sont pas d'un gran prix¹ ».
+[p. 250] produisent toutes sortes d'avantages, mais elles ne veu lent guère demeurer longtemps, et elles s'échappent c l'âme humaine, en sorte qu'elles ne sont pas d'un gran prix[^p250-1] ».
 
 Et maintenant qu'ayant dissipé tout malentendu nous avons mis en évidence les véritables raisons pou lesquelles Platon rejette la δόξα, voyons de plus prè en quoi elle consistait à ses yeux. Il a défini le plus complètement possible les opérations dont elle est le résultat, quand il a voulu montrer que l'âme est capable d'autres actes de connaissance que de la sensation. Il a distingué alors avec soin deux catégories de choses, l'une qui comprend toutes les manières de sentir, l'autre toutes les manières de réfléchir sur les données des sens. Et si cette distinction avait pour premier objet de montrer un domaine de connaissance supérieur à celui qu'on voulait rejeter, elle devait aussi, dans la pensée de Platon, servir à la définition de la δόξα.
 
 « C'est à présent surtout,
 
-avait dit Socrate à [^p250-1]
+avait dit Socrate à
 
 [p. 251] IDÉALISME Théétète, que nous voyons avec la dernière évidence que la science est autre chose que la sensation. Mais nous n'avons pas commencé cet entretien en vue de découvrir ce que la science n'est pas ; nous voulions savoir ce qu'elle est. Cependant nous sommes assez avancés pour ne plus chercher la science dans la sensation, mais dans cette opération de l'âme, quel que soit le nom qu'on lui donne, par laquelle elle considère elle-même les objets. — Il me semble, Socrate, que cela s'appelle juger (δοξάζειν). — Tu as raison, mon cher ami... Dis-moi donc encore une fois ce que c'est que la science.
 
 Il n'est pas possible de dire que c'est toute espèce de jugement, puisqu'il y a des jugements faux, mais apparemment le jugement vrai est la science ;
 
-et c'est là ma réponse¹. » Ainsi Platon nous fait clairement entendre que la δόξα, qui peut-être va constituer la science, est le jugement auquel aboutissent les opérations qu'il a décrites dans les pages précédentes, et par lesquelles l'âme considérait elle-même les objets. Il est aisé de les énumérer. C'est d'abord tout naturellement l'examen simultané d'une pluralité d'objets, c'est leur comparaison, conduisant à la découverte de ce qu'ils ont de commun, et de ce par quoi ils diffèrent ;
+et c'est là ma réponse[^p251-1]. » Ainsi Platon nous fait clairement entendre que la δόξα, qui peut-être va constituer la science, est le jugement auquel aboutissent les opérations qu'il a décrites dans les pages précédentes, et par lesquelles l'âme considérait elle-même les objets. Il est aisé de les énumérer. C'est d'abord tout naturellement l'examen simultané d'une pluralité d'objets, c'est leur comparaison, conduisant à la découverte de ce qu'ils ont de commun, et de ce par quoi ils diffèrent ;
 
-c'est l'abstraction, par laquelle la pensée retient telle ou telle qualité d'un ensemble infini qui incessamment [^p251-1]
+c'est l'abstraction, par laquelle la pensée retient telle ou telle qualité d'un ensemble infini qui incessamment
 
 [p. 252] (αναλογιζομένη εν εαυτή τα γεγονότα και τα παροντα προς μέλλοντα) sinon que le rapprochement, suivant les a logies, des choses présentes et passées conduit à c jugements sur les choses de l'avenir ? L'exemple si fra pant des juges qui prononcent sur un fait qu'ils n'o pas vu confirme nos remarques, bien que le jugeme ne porte pas ici sur l'avenir. Tous les cas ordinaires d'i duction auront avec celui-là une circonstance commu caractéristique, c'est qu'on n'aura pas vu, on n'aura p constaté directement ce que l'on affirme.
 
@@ -3043,19 +3043,19 @@ Philosophes -Géomètres.
 
 G. MILHAUD.
 
-16 [p. 258] sa démonstration commence, procède et se termine. » Et enfin, pour mieux préciser encore, Platon fait dire à Glaucon : « Tu veux, ce semble, prouver que la connaissance de l'être et du monde intelligible que l'on acquiert par la dialectique est plus claire que celle qu'on acquiert par le moyen des arts qui ont pour principes des hypothèses, qui sont obligés de se servir du raisonnement et non des sens, mais qui, fondés sur des hypothèses, ne remontant pas au principe, ne te paraissent pas appartenir à l'intelligence, bien qu'ils devinssent intelligibles avec un principe ; et tu appelles, ce me semble, διάνοια, la connaissance des choses géométriques et des arts semblables, et non pas νοῦς ; de sorte que la διάνοια est intermédiaire entre la δόξα et le νοῦς¹ ».
+16 [p. 258] sa démonstration commence, procède et se termine. » Et enfin, pour mieux préciser encore, Platon fait dire à Glaucon : « Tu veux, ce semble, prouver que la connaissance de l'être et du monde intelligible que l'on acquiert par la dialectique est plus claire que celle qu'on acquiert par le moyen des arts qui ont pour principes des hypothèses, qui sont obligés de se servir du raisonnement et non des sens, mais qui, fondés sur des hypothèses, ne remontant pas au principe, ne te paraissent pas appartenir à l'intelligence, bien qu'ils devinssent intelligibles avec un principe ; et tu appelles, ce me semble, διάνοια, la connaissance des choses géométriques et des arts semblables, et non pas νοῦς ; de sorte que la διάνοια est intermédiaire entre la δόξα et le νοῦς[^p258-1] ».
 
-On a l'habitude de résumer cette page de Platon en disant qu'il y a pour lui au-dessus de la δόξα la connaissance mathématique, puis au-dessus de celle- ci, la connaissance des idées. Nous rejetons cette distinction comme trop radicale, et nous essaierons, dans le chapitre suivant, de montrer que pour. Platon l'idée mathématique ne diffère pas essentiellement de l'idée pure. Pour le moment, bornons-nous à insister sur l'unité de cette science de l'intelligible qui présente bien plutôt deux aspects, deux attitudes, que deux domaines distincts.[^p258-1]
+On a l'habitude de résumer cette page de Platon en disant qu'il y a pour lui au-dessus de la δόξα la connaissance mathématique, puis au-dessus de celle- ci, la connaissance des idées. Nous rejetons cette distinction comme trop radicale, et nous essaierons, dans le chapitre suivant, de montrer que pour. Platon l'idée mathématique ne diffère pas essentiellement de l'idée pure. Pour le moment, bornons-nous à insister sur l'unité de cette science de l'intelligible qui présente bien plutôt deux aspects, deux attitudes, que deux domaines distincts.
 
 [p. 259] IDÉALISME
 
 C'est d'abord Platon lui-même qui nous fait sentir cette unité par la façon dont il oppose le monde de l'intelligible à celui de la δόξα, dans un parallèle bien connu. « Lorsque les yeux se tournent vers des objets qui ne sont pas éclairés par le soleil, mais par les astres de la nuit, ils ont peine à les discerner ; ils semblent jusqu'à un certain point atteints de cécité, comme s'ils perdaient la netteté de leur vue... Mais quand ils regardent des objets éclairés par le soleil, ils les voient distinctement et montrent la faculté de voir dont ils sont doués... Comprends que la même chose se passe à l'égard de l'âme. Quand elle fixe ses regards sur ce qui est éclairé par la vérité et par l'être, elle comprend et connaît ; elle montre qu'elle est douée d'intelligence. Mais lorsqu'elle tourne son regard vers ce qui est mêlé d'obscurité, sur ce qui naît et périt, sa vue se trouble et s'obscurcit, elle n'a plus que des opinions, et passe sans cesse de l'une à l'autre ; on dirait qu'elle est sans intelligence... Tiens donc pour certain que ce qui répand sur les objets de la connaissance la lumière de la vérité, ce qui donne à l'âme qui connaît la faculté de connaître, c'est l'idée du bien. Considère cette idée comme le principe de la science et de la vérité en tant qu'elles tombent sous la connaissance... Conçois donc qu'ils sont deux, le bien et le soleil ; l'un est roi du monde intelligible, l'autre du monde visible... Voilà donc deux espèces d'êtres, les uns visibles, les autres
 
-[p. 260] LES PHILOSOPHES -GÉOMÈTRES DE LA GRÈCE intelligibles¹.
+[p. 260] LES PHILOSOPHES -GÉOMÈTRES DE LA GRÈCE intelligibles[^p260-1].
 
-» L'allégorie de la caverne oppose de même le monde intelligible au monde sensible, comme à l'ombre et à la nuit s'oppose la lumière éclatante du jour. Dans ces pages célèbres la séparation est nettement marquée entre deux domaines seulement, celui de la δόξα et celui du νοῦς. Au reste les termes de διάνοια et de νόγησις ne sont presque jamais employés par Platon dans des sens spéciaux. Le premier désigne le plus ordinairement la pensée, dans sa signification générale, et parfois dans son rôle le plus élevé².
+» L'allégorie de la caverne oppose de même le monde intelligible au monde sensible, comme à l'ombre et à la nuit s'oppose la lumière éclatante du jour. Dans ces pages célèbres la séparation est nettement marquée entre deux domaines seulement, celui de la δόξα et celui du νοῦς. Au reste les termes de διάνοια et de νόγησις ne sont presque jamais employés par Platon dans des sens spéciaux. Le premier désigne le plus ordinairement la pensée, dans sa signification générale, et parfois dans son rôle le plus élevé[^p260-2].
 
-Mais il suffit de se reporter au passage même où la distinction est marquée pour juger qu'elle n'est pas aussi profonde qu'on pourrait croire. De part et d'autre l'âme fait des hypothèses. Par la διάνοια elle n'en discute pas la valeur, tandis que par la νόησις elle les rattache à un principe qui leur sert de fondement. De part et d'autre l'âme s'attache à saisir des idées pures dégagées autant que possible de tout élément matériel. Par la διάνοια, la pensée se sert, comme auxiliaires, de signes, de symboles visibles ; mais si elle semble raisonner sur eux, ce n'est qu'une apparence ; la solidité, la clarté, la rigueur du raisonnement viennent non point de ces symboles visibles, mais de ce que l'âme contemple avec les yeux de l'esprit.[^p260-1][^p260-2]
+Mais il suffit de se reporter au passage même où la distinction est marquée pour juger qu'elle n'est pas aussi profonde qu'on pourrait croire. De part et d'autre l'âme fait des hypothèses. Par la διάνοια elle n'en discute pas la valeur, tandis que par la νόησις elle les rattache à un principe qui leur sert de fondement. De part et d'autre l'âme s'attache à saisir des idées pures dégagées autant que possible de tout élément matériel. Par la διάνοια, la pensée se sert, comme auxiliaires, de signes, de symboles visibles ; mais si elle semble raisonner sur eux, ce n'est qu'une apparence ; la solidité, la clarté, la rigueur du raisonnement viennent non point de ces symboles visibles, mais de ce que l'âme contemple avec les yeux de l'esprit.
 
 [p. 261] IDÉALISME La νόησις correspond à l'état idéal où les signes visibles ne sont pas nécessaires. Enfin de part et d'autre on raisonne, on forme des suites de propositions se rattachant étroitement les unes aux autres. Par la διάνοια on descend tout de suite des hypothèses établies par une chaîne de déductions jusqu'aux conclusions à démontrer ; par la νόησις on suit d'abord une marche inverse en remontant de l'hypothèse au principe, avant de redescendre de ce principe lui-même à la dernière conclusion, mais, même dans la première partie de ce mouvement, ce qui caractérise la méthode c'est qu'on relie les unes aux autres une série d'idées de façon à former une chaîne ininterrompue, à laquelle ne manque aucun chaînon intermédiaire.
 
@@ -3097,7 +3097,7 @@ ne
 
 feraient jamais s'ils ne possédaient déjà une certaine science et de véritables lumières ; on n'a qu'à les mettre dans les figures de géométrie et dans d'autres choses de
 
-[p. 265] IDÉALISME cette nature ; on ne peut alors s'empêcher de reconnaître qu'il en est ainsi¹... » Le Menon réalise cette expérience : un esclave, le premier venu d'ailleurs énonce peu à peu une série de vérités géométriques sous la simple suggestion des questions de Socrate. L'âme, dans une vie antérieure, a pu voir les essences éternelles, les vérités immuables, les idées pures, la beauté parfaite.
+[p. 265] IDÉALISME cette nature ; on ne peut alors s'empêcher de reconnaître qu'il en est ainsi[^p265-1]... » Le Menon réalise cette expérience : un esclave, le premier venu d'ailleurs énonce peu à peu une série de vérités géométriques sous la simple suggestion des questions de Socrate. L'âme, dans une vie antérieure, a pu voir les essences éternelles, les vérités immuables, les idées pures, la beauté parfaite.
 
 Un récit du Phèdre nous montre les âmes des mortels suivant les dieux célestes et parvenant à contempler avec plus ou moins d'aisance, dans le lieu qui est audessus du ciel, l'essence véritable, et, autour d'elle, la vraie science, la justice, la sagesse.
 
@@ -3105,21 +3105,21 @@ Un récit du Phèdre nous montre les âmes des mortels suivant les dieux célest
 
 L'âme qui n'aurait jamais contemplé la vérité ne pourrait en aucun temps revêtir la forme humaine. En effet,
 
-le propre de l'homme est de comprendre le général, c'est-à-dire ce qui, dans la diversité des sensations, peut être compris sous une unité rationnelle. Or c'est là le ressouvenir de ce que notre âme a vu, dans son voyage à la suite de Dieu, lorsque, dédaignant ce que nous appelons improprement des êtres, elle élevait ses regards vers [^p265-1]
+le propre de l'homme est de comprendre le général, c'est-à-dire ce qui, dans la diversité des sensations, peut être compris sous une unité rationnelle. Or c'est là le ressouvenir de ce que notre âme a vu, dans son voyage à la suite de Dieu, lorsque, dédaignant ce que nous appelons improprement des êtres, elle élevait ses regards vers
 
-[p. 266] sur la terre, se ressouvient de la beauté véritable, pr des ailes et brûle de s'envoler vers elle... De tous genres de délire, celui-là est, selon moi, le meille soit dans ses causes, soit dans ses effets, pour celui le possède et pour celui à qui il se communique ; celui qui ressent ce délire et se passionne pour le bea celui-là est désigné sous le nom d'amant. En eff nous avons dit que toute âme humaine doit avoir co templé les essences, puisque, sans cette conditio aucune âme ne peut passer dans le corps d'un homme. Mais quelques-unes seulement conservent des souv nirs assez distincts ; celles-ci, lorsqu'elles aperçoiven quelque image des choses d'en haut, sont transportée hors d'elles-mêmes et ne peuvent plus se contenir mais elles ignorent la cause de leur émotion, parc qu'elles ne remarquent pas assez bien ce qui se pass en elles... Celui qui est tout plein des nombreuse merveilles qu'il a vues, en présence d'un visage presqu céleste ou d'un corps dont les formes lui rappellent le :[^p266-1]
+[p. 266] sur la terre, se ressouvient de la beauté véritable, pr des ailes et brûle de s'envoler vers elle... De tous genres de délire, celui-là est, selon moi, le meille soit dans ses causes, soit dans ses effets, pour celui le possède et pour celui à qui il se communique ; celui qui ressent ce délire et se passionne pour le bea celui-là est désigné sous le nom d'amant. En eff nous avons dit que toute âme humaine doit avoir co templé les essences, puisque, sans cette conditio aucune âme ne peut passer dans le corps d'un homme. Mais quelques-unes seulement conservent des souv nirs assez distincts ; celles-ci, lorsqu'elles aperçoiven quelque image des choses d'en haut, sont transportée hors d'elles-mêmes et ne peuvent plus se contenir mais elles ignorent la cause de leur émotion, parc qu'elles ne remarquent pas assez bien ce qui se pass en elles...[^p266-1] Celui qui est tout plein des nombreuse merveilles qu'il a vues, en présence d'un visage presqu céleste ou d'un corps dont les formes lui rappellent le :
 
 [p. 267] IDÉALISME formes de la beauté, frémit d'abord ; quelque chose de ses anciennes émotions lui revient ; puis il contemple cet objet aimable et le révère à l'égal d'un dieu ; et s'il ne craignait de voir traiter son enthousiasme de folie, il sacrifierait à son bien-aimé comme à l'image d'un dieu, comme à un dieu même. » C'est là l'amour, ou plutôt les premiers effets de l'amour. Dès que le ressouvenir de la beauté contemplée jadis est entré dans l'âme, celle-ci ne s'arrête pas aux premières émotions ;
 
 elle s'élance, portée par les ailes du dieu ἔρως, à la poursuite d'une beauté de plus en plus parfaite. De la beauté des corps, elle passe à celle des actions humaines, et de là à celle de l'intelligence, « où elle contemplera la beauté des sciences ; ainsi arrivée à une vue plus étendue de la beauté..., tout entière à ce spectacle, elle enfante avec une inépuisable fécondité les pensées et les discours les plus magnifiques et les plus sublimes de la philosophie '... »
 
-Ces théories sont évidemment dans un rapport direct avec la conception que Platon se fait de la science. La réminiscence explique la reconnaissance intuitive par le νοῦς des vérités qu'il proclame, et l'amour est cette mystérieuse puissance qui pousse l'âme toujours plus haut dans l'enfantement de la science. Mais on peut se demander ce qui est premier dans l'esprit de Platon.[^p267-1][^p267-2]
+Ces théories sont évidemment dans un rapport direct avec la conception que Platon se fait de la science. La réminiscence explique la reconnaissance intuitive par le νοῦς des vérités qu'il proclame, et l'amour est cette mystérieuse puissance qui pousse l'âme toujours plus haut dans l'enfantement de la science. Mais on peut se demander ce qui est premier dans l'esprit de Platon.[^p267-2][^p267-1]
 
 [p. 268] Ses conceptions ont-elles tout naturellement produit l'idée qu'il se fait de la science, ou, au contraire, sontelles construites après coup pour expliquer, ou tout au moins pour consolider, pour rendre plus saisissable la théorie de la science ?
 
 Il ne nous semble pas que le doute soit possible.
 
-D'abord Platon lui-même, quand il veut prouver la réminiscence, va demander un témoignage à la géométrie. Nous avons pu le constater deux fois, dans le Phédon et dans le Menon. De sorte que, même s'il fallait prendre à la lettre ces conceptions métaphysiques comme traduisant exactement la pensée de notre philosophe, il y aurait lieu d'y retrouver non pas l'origine première, mais, au contraire, l'aboutissant naturel de sa théorie de la connaissance. Mais peut-on se faire illusion sur le caractère de ces doctrines ? Quand on lit et relit les pages si belles du Phèdre et du Banquet, comment ne pas avoir le sentiment qu'on se trouve en présence de la plus admirable des poésies ? Sans doute, ce n'est pas seulement pour le jeu de son imagination que Platon les a écrites'; mais ne suffit-il pas, pour les interpréter et leur donner toute la signification qui rend aux mythes platoniciens leur caractère didactique, ne suffit-il pas de noter le lien qu'elles offrent avec sa conception de la science ? Elles en sont [^p268-1]
+D'abord Platon lui-même, quand il veut prouver la réminiscence, va demander un témoignage à la géométrie. Nous avons pu le constater deux fois, dans le Phédon et dans le Menon. De sorte que, même s'il fallait prendre à la lettre ces conceptions métaphysiques comme traduisant exactement la pensée de notre philosophe, il y aurait lieu d'y retrouver non pas l'origine première, mais, au contraire, l'aboutissant naturel de sa théorie de la connaissance. Mais peut-on se faire illusion sur le caractère de ces doctrines ? Quand on lit et relit les pages si belles du Phèdre et du Banquet, comment ne pas avoir le sentiment qu'on se trouve en présence de la plus admirable des poésies ? Sans doute, ce n'est pas seulement pour le jeu de son imagination que Platon les a écrites'; mais ne suffit-il pas, pour les interpréter et leur donner toute la signification qui rend aux mythes platoniciens leur caractère didactique, ne suffit-il pas de noter le lien qu'elles offrent avec sa conception de la science ?[^p268-1] Elles en sont
 
 [p. 269] IDÉALISME l'illustration, elles l'éclairent, la rendent compréhensible pour tous. Il y a quelque analogie entre ces hypothèses métaphysiques et celle des physiciens ou des chimistes qui, avec les atomes, l'éther, l'attraction, l'affinité, l'énergie..., nous donnent en des constructions synthétiques la représentation et l'explication de toute une infinité de phénomènes. Platon eût sans doute consenti à dire : Tout se passe dans la formation de la connaissance, dans l'édification de la science, comme si l'âme trouvait en elle-même le ressouvenir des vérités jadis entrevues, et comme s'il lui restait de son ancien contact avec les essences éternelles une ardeur qui soutient et féconde l'activité de sa pensée.
 
@@ -3181,15 +3181,15 @@ On peut remarquer toutefois que si le plus souvent Platon s'exprime de façon as
 
 individuels
 
-et communs¹.
+et communs[^p274-1].
 
-» Et pu quoi bon les grandes théories métaphysiques de la ré niscence et de l'amour, même en ne leur laissant qu'valeur didactique et symbolique, si l'idée se trou tout naturellement dans les choses sensibles et s dégageait d'elle-même, et s'il suffisait de quelque att tion pour la découvrir directement donnée dans monde qui est sous nos yeux ? A quoi bon aussi efforts de Platon dans le Théétète, et la patiente ferm avec laquelle il s'est refusé à reconnaître la science da les opérations logiques les plus variées tant qu'on pas perdu le contact des choses sensibles, s'il fall [^p274-1]
+» Et pu quoi bon les grandes théories métaphysiques de la ré niscence et de l'amour, même en ne leur laissant qu'valeur didactique et symbolique, si l'idée se trou tout naturellement dans les choses sensibles et s dégageait d'elle-même, et s'il suffisait de quelque att tion pour la découvrir directement donnée dans monde qui est sous nos yeux ? A quoi bon aussi efforts de Platon dans le Théétète, et la patiente ferm avec laquelle il s'est refusé à reconnaître la science da les opérations logiques les plus variées tant qu'on pas perdu le contact des choses sensibles, s'il fall
 
 [p. 275] IDÉALISME ensuite voir dans l'idée, l'objet de cette science si longtemps poursuivie, un simple résidu de la sensation ?
 
 Il est vrai que celle-ci n'est pas étrangère à l'opération par laquelle l'âme pose l'idée ; mais elle ne joue alors qu'un rôle très restreint. Les caractères sensibles qui nous frappent ne sont pour nous que l'occasion de nous élever à l'idée, ils nous en suggèrent la recherche ;
 
-et, tandis que l'idée générale résulte toujours de la constatation des caractères communs à une multitude de choses, nous sommes conduits à poser l'idée platonicienne bien plus par la contradiction des impressions extérieures que par leurs ressemblances. Dans la République, Platon distingue justement parmi les perceptions celles qui excitent l'activité de l'entendement, et celles qui le laissent indifférent. « J'entends, dit Socrate, comme n'invitant point l'entendement à la réflexion tout ce qui n'excite point en même temps deux sensations contraires ; et je tiens comme invitant à la réflexion tout ce qui fait naître deux sensations opposées, lorsque le rapport des sens ne dit pas plutôt que c'est telle chose que telle autre chose tout opposée¹. » D'autre part l'idée générale ordinaire est formée d'un certain nombre de caractères communs à une multitude, et que l'on a simplement isolés par abstraction de ceux auxquels ils étaient joints dans la réalité. L'idée de Platon en est [^p275-1]
+et, tandis que l'idée générale résulte toujours de la constatation des caractères communs à une multitude de choses, nous sommes conduits à poser l'idée platonicienne bien plus par la contradiction des impressions extérieures que par leurs ressemblances. Dans la République, Platon distingue justement parmi les perceptions celles qui excitent l'activité de l'entendement, et celles qui le laissent indifférent. « J'entends, dit Socrate, comme n'invitant point l'entendement à la réflexion tout ce qui n'excite point en même temps deux sensations contraires ; et je tiens comme invitant à la réflexion tout ce qui fait naître deux sensations opposées, lorsque le rapport des sens ne dit pas plutôt que c'est telle chose que telle autre chose tout opposée[^p275-1]. » D'autre part l'idée générale ordinaire est formée d'un certain nombre de caractères communs à une multitude, et que l'on a simplement isolés par abstraction de ceux auxquels ils étaient joints dans la réalité. L'idée de Platon en est
 
 [p. 276] LES PHILOSOPHEŠ-GÉOMÈTRES DE LA GRÈCE toute différente. Tandis que tout ce qui nous frappe dans les objets de la perception est relatif, inachevé, susceptible de croître ou de diminuer, mélangé d'impuretés, l'idée se présente à nous comme le type de l'absolu, de l'achevé, du pur, du parfait. Si bien que, loin d'être un extrait des sensations et de n'en donner que comme une image affaiblie, comme un souvenir qui resterait de perceptions diverses, l'idée platonicienne apparaît comme un modèle de pureté et d'achèvement absolu, dont les images sensibles n'étaient que des imitations lointaines et grossières.
 
@@ -3199,13 +3199,13 @@ Est-ce imitation seulement qu'il faut dire ? Ce mot éveille l'idée de deux cho
 
 De ces remarques, où nous avons voulu rappeler les caractères bien connus de l'idée platonicienne, résulte assez clairement la distance très grande où elle est de l'idée générale. Peut-être cependant serait-on en droit de dire que Platon a plutôt indiqué ses propriétés qu'il n'a justifié son existence, en tant que radicalement distincte de l'élément logique obtenu par simple réflexion sur les données des sens ;
 
-et Aristote serait fondé à déclarer qu'en effet l'idée platonicienne a toutes sortes de propriétés que ne possède point l'idée générale ordinaire, mais que c'est précisément en cela qu'elle est incompréhensible ; et peut-être, à s'en tenir au texte même des dialogues, aurait-on plus de peine qu'il ne semble à réfuter les objections d'Aristote. Après tout, nous trouvons chez Platon l'affirmation de sa foi aux idées telles qu'il les conçoit, bien plutôt qu'une démonstration de leur existence. « Je ne vois rien de si évident que l'existence au plus haut degré possible du beau, du bon et de toutes les autres choses de ce genre ; elle m'est suffisamment démontrée (κἄμοι γε δοκεῖ ἱκανῶς ἀποδεδεῖχθαι) ¹. » Eh bien, nous en sommes convaincu, l'argu [^p277-1]
+et Aristote serait fondé à déclarer qu'en effet l'idée platonicienne a toutes sortes de propriétés que ne possède point l'idée générale ordinaire, mais que c'est précisément en cela qu'elle est incompréhensible ; et peut-être, à s'en tenir au texte même des dialogues, aurait-on plus de peine qu'il ne semble à réfuter les objections d'Aristote. Après tout, nous trouvons chez Platon l'affirmation de sa foi aux idées telles qu'il les conçoit, bien plutôt qu'une démonstration de leur existence. « Je ne vois rien de si évident que l'existence au plus haut degré possible du beau, du bon et de toutes les autres choses de ce genre ; elle m'est suffisamment démontrée (κἄμοι γε δοκεῖ ἱκανῶς ἀποδεδεῖχθαι) [^p277-1]. » Eh bien, nous en sommes convaincu, l'argu
 
 [p. 278] ment le plus solide, le plus décisif, qu'eût trouvé Platon, s'il eût dégagé de sa propre pensée les origines plus ou moins conscientes de sa croyance aux idées, c'eût été de donner en exemple l'existence indiscutable des idées mathématiques.
 
 D'où proviennent les notions dont le géomètre fait l'objet de ses recherches ? Peut-on sérieusement songer à y voir de simples résidus de la perception ? Déjà, nous l'avons dit',
 
-quand il s'agit de ces sortes d'images élémentaires, la droite, le point, le plan, la ligne courbe, qui ne semblent définies que par des propriétés intuitives irréductibles, n'apparaît-il pas clairement qu'elles sont fort éloignées de tout ce que nous offre le monde matériel ? Où trouvera-t-on une ligne sans épaisseur, une droite sans irrégularités, une surface sans rugosités ? Sans doute nous verrons autour de nous des lignes de plus en plus minces, des surfaces de moins en moins rugueuses, des droites de plus en en plus régulières ; mais précisément si nous nous en tenions aux données des sens, ce que nous en dégagerions par abstraction se réduirait à des éléments variables dont aucun n'aurait jamais atteint le terme extrême de sa variation ; l'idée même d'un pareil terme est tout à fait étrangère au monde de l'expérience. On alléguera que celui-ci nous fournit couramment un [^p278-1]
+quand il s'agit de ces sortes d'images élémentaires, la droite, le point, le plan, la ligne courbe, qui ne semblent définies que par des propriétés intuitives irréductibles, n'apparaît-il pas clairement qu'elles sont fort éloignées de tout ce que nous offre le monde matériel ? Où trouvera-t-on une ligne sans épaisseur, une droite sans irrégularités, une surface sans rugosités ? Sans doute nous verrons autour de nous des lignes de plus en plus minces, des surfaces de moins en moins rugueuses, des droites de plus en en plus régulières ; mais précisément si nous nous en tenions aux données des sens, ce que nous en dégagerions par abstraction se réduirait à des éléments variables dont aucun n'aurait jamais atteint le terme extrême de sa variation ; l'idée même d'un pareil terme est tout à fait étrangère au monde de l'expérience.[^p278-1] On alléguera que celui-ci nous fournit couramment un
 
 [p. 279] minimum d'épaisseur, par exemple, ou un maximum de régularité rectiligne, en ce sens que dans certaines circonstances nous déclarons ne pas pouvoir réaliser mieux ; mais nous savons fort bien que cela n'est jamais que relatif et provisoire, que des conditions meilleures nous permettraient d'obtenir plus encore dans le sens que nous souhaitons, et qu'il n'y a aucun état des choses où nous puissions reconnaître la réalisation d'un maximum absolu, d'une perfection achevée. Par là,
 
@@ -3229,7 +3229,7 @@ celle du moins qui devait se manifester du jour où la pensée judéochrétienne
 
 et quelques -uns des interprètes les plus illustres du platonisme l'ont reprise de nos jours : les idées seraient des pensées de Dieu.
 
-Cette conception a pu être raisonnablement défendue. On y voit d'abord une interprétation commode du Timée ; d'autre part, — notamment dans le Philèbe (p. 26), — Platon parle du νοῦς, roi du ciel et de la terre, βασιλεῦς οὐρανοῦ καὶ γῆς, comme si par conséquent le νοῦς, lieu des idées, n'était autre que l'intelligence divine ; la République fait allusion à une idée, l'idée du lit, créée par Dieu ¹... Mais si l'on n'invoquait ainsi que quelques lignes isolées de Platon, la réponse, ainsi que l'a montré M. Brochard dans ses études récentes, serait vraiment trop facile. Une telle compréhension s'est dégagée de bonne heure d'un effort fait pour pénétrer l'œuvre entière, et si nous en atténuons la précision métaphysique, en écartant la conception de la personne divine ; si, au lieu de vouloir placer au centre de la philosophie platonicienne un [^p282-1]
+Cette conception a pu être raisonnablement défendue. On y voit d'abord une interprétation commode du Timée ; d'autre part, — notamment dans le Philèbe (p. 26), — Platon parle du νοῦς, roi du ciel et de la terre, βασιλεῦς οὐρανοῦ καὶ γῆς, comme si par conséquent le νοῦς, lieu des idées, n'était autre que l'intelligence divine ; la République fait allusion à une idée, l'idée du lit, créée par Dieu [^p282-1]... Mais si l'on n'invoquait ainsi que quelques lignes isolées de Platon, la réponse, ainsi que l'a montré M. Brochard dans ses études récentes, serait vraiment trop facile. Une telle compréhension s'est dégagée de bonne heure d'un effort fait pour pénétrer l'œuvre entière, et si nous en atténuons la précision métaphysique, en écartant la conception de la personne divine ; si, au lieu de vouloir placer au centre de la philosophie platonicienne un
 
 [p. 283] IDÉALISME dieu qui rappelle beaucoup trop celui des Juifs et des Chrétiens,
 
@@ -3241,7 +3241,7 @@ Et d'abord quand nous disons que l'idée est comme sont les vérités que conço
 
 après avoir essayé plusieurs explications, Socrate demande à Parménide si chaque idée ne serait pas simplement une pensée qui existerait dans l'âme ;
 
-et cette hypothèse est bien vite exclue comme entraînant [p. 284] sée, de ce νόημα dont il est ici question, et montre le mot est pris dans un sens actif : c'est la pensée sante. Ce n'est pas la pensée vue du côté de l'ol c'est-à-dire du côté de ce qui s'y trouve représe mais la pensée envisagée du côté du sujet qui pe S'il n'en était pas ainsi, comment comprendrait-on les choses dussent penser, du seul fait qu'elles part peraient d'une représentation de l'âme ? Sans doute q ques lignes plus haut, après ce rapprochement de m τὸ νόημα... νοεῖ, se trouve une question où l'idée sem être plutôt confondue avec ce qui est pensé (οὐκ ε ἔσται τοῦτο τὸ νοούμενον ἓν εἶναι...), et peut-être la distin tion que nous présentons ici n'est-elle pas dans l'esp de Platon aussi consciente que nous l'indiquons, m du moins elle se manifeste dans ce qui est le nerf l'argumentation ; et d'autre part il ne nous est nécessaire que le νόημα soit pris dans ce passage sens exclusivement actif ; il suffit pour notre objet q ce qu'il désigne, et ce dont Platon a vainement essa [^p284-1]
+et cette hypothèse est bien vite exclue comme entraînant [p. 284] sée, de ce νόημα dont il est ici question, et montre le mot est pris dans un sens actif : c'est la pensée sante. Ce n'est pas la pensée vue du côté de l'ol c'est-à-dire du côté de ce qui s'y trouve représe mais la pensée envisagée du côté du sujet qui pe S'il n'en était pas ainsi, comment comprendrait-on les choses dussent penser, du seul fait qu'elles part peraient d'une représentation de l'âme ? Sans doute q ques lignes plus haut, après ce rapprochement de m τὸ νόημα... νοεῖ, se trouve une question où l'idée sem être plutôt confondue avec ce qui est pensé (οὐκ ε ἔσται τοῦτο τὸ νοούμενον ἓν εἶναι...[^p284-1]), et peut-être la distin tion que nous présentons ici n'est-elle pas dans l'esp de Platon aussi consciente que nous l'indiquons, m du moins elle se manifeste dans ce qui est le nerf l'argumentation ; et d'autre part il ne nous est nécessaire que le νόημα soit pris dans ce passage sens exclusivement actif ; il suffit pour notre objet q ce qu'il désigne, et ce dont Platon a vainement essa
 
 [p. 285] IDÉALISME de rapprocher l'idée,
 
@@ -3319,7 +3319,7 @@ Mais voici qu'après cette énumération Platon semble atténuer la valeur de l'
 
 Uor M [p. 294] l'accompagnent, nous avons dit qu'ils ont quelque relation avec l'être, mais la connaissance qu'ils en ont ressemble à un songe, et il leur sera impossible de le voir de cette vue nette et sûre qui distingue la veille, tant qu'ils resteront dans le cercle des données matérielles sur lesquelles ils travaillent, faute de pouvoir en rendre raison. En effet quand les principes sont pris on ne sait d'où, et quand les conclusions et les propositions intermédiaires ne portent que sur de pareils principes, le moyen qu'un tel tissu d'hypothèses fasse jamais une science ?
 
-Il n'y a donc que la méthode dialectique qui, écartant les hypothèses, va droit au principe pour l'établir solidement : qui tire peu à peu l'œil de l'âme du bourbier où il est honteusement plongé, et l'élève en haut avec le secours et par le ministère des arts dont nous avons parlé. Nous les avons plusieurs fois appelés du nom de sciences pour nous conformer à l'usage : mais il faudrait leur donner un autre nom qui tienne le milieu entre l'obscurité de l'opinion et l'évidence de la science : nous nous sommes servis quelque part plus haut du nom de connaissance raisonnée¹. » Il nous semble que ces lignes, ordinairement citées pour montrer chez Platon l'infériorité de la connaissance mathématique, loin d'affaiblir nos précédentes réflexions, les confirment pleinement. Platon a eu [^p294-1]
+Il n'y a donc que la méthode dialectique qui, écartant les hypothèses, va droit au principe pour l'établir solidement : qui tire peu à peu l'œil de l'âme du bourbier où il est honteusement plongé, et l'élève en haut avec le secours et par le ministère des arts dont nous avons parlé. Nous les avons plusieurs fois appelés du nom de sciences pour nous conformer à l'usage : mais il faudrait leur donner un autre nom qui tienne le milieu entre l'obscurité de l'opinion et l'évidence de la science : nous nous sommes servis quelque part plus haut du nom de connaissance raisonnée[^p294-1]. » Il nous semble que ces lignes, ordinairement citées pour montrer chez Platon l'infériorité de la connaissance mathématique, loin d'affaiblir nos précédentes réflexions, les confirment pleinement. Platon a eu
 
 [p. 295] IDÉALISME beaucoup de peine à séparer dans chacune des sciences dont il a parlé la partie pratique et la partie purement théorique. Il a le sentiment de la difficulté qui s'offre à qui veut dégager l'une de l'autre, et il présente cette séparation et cette épuration comme souhaitables, mais non point comme étant tout à fait réalisées dans les sciences de son temps. Au moment où il résume son énumération, il a si peu laissé de côté l'élément pratique et matériel de ces sciences, il en est si manifestement gêné, que son langage le trahit et qu'il nomme arts, τέχναι, la géométrie et les sciences qui l'accompagnent, tandis qu'il les avait nommées μαθήματα, quand il avait eu clairement en vue leur seule partie théorique. Il serait évidemment moins sévère pour elles,
 
@@ -3339,17 +3339,17 @@ il disparaît dès que le géomètre rompt décidément avec les données matér
 
 Reste enfin à répondre à un dernier reproche, grave entre tous : n'oublions-nous pas dans notre assimilation des idées aux êtres mathématiques, que les idées sont des οὐσίαι ? L'οὐσία n'est-ce pas la substance, [p. 297] I DÉ ALISME et peut-on raisonnablement appliquer le mot à des notions ou à des vérités scientifiques ? — M. Brochard, discutant la doctrine qui fait des idées des pensées de Dieu, insiste particulièrement sur l'importance de ce terme, οὐσία.
 
-« Il faut choisir, dit-il entre ces deux interprétations : les idées sont des substances, et les idées sont des pensées de Dieu. Si elles sont des pensées de Dieu, ce ne sont pas des substances ; et si elles sont des substances, ce ne sont pas des pensées de Dieu. La substance et le mode sont des choses incompatibles et inconciliables¹. » Est-ce que vraiment dans la langue de Platon et d'Aristote ce mot d'οὐσία nous oblige ainsi à ne songer qu'à la substance, au substratum,
+« Il faut choisir, dit-il entre ces deux interprétations : les idées sont des substances, et les idées sont des pensées de Dieu. Si elles sont des pensées de Dieu, ce ne sont pas des substances ; et si elles sont des substances, ce ne sont pas des pensées de Dieu. La substance et le mode sont des choses incompatibles et inconciliables[^p297-1]. » Est-ce que vraiment dans la langue de Platon et d'Aristote ce mot d'οὐσία nous oblige ainsi à ne songer qu'à la substance, au substratum,
 
-par opposition au mode, à la qualité formelle ? Mais chez Aristote d'abord, chez celui qui risque de nous conduire le plus loin dans l'interprétation des idées-substances, si ce terme désigne en effet assez souvent ce qui est à proprement parler le substratum, τὸ ὑποκείμενον, il désigne aussi la forme que reçoit le sujet. Aristote nous en avertit lui-même très clairement dans ce livre de sa métaphysique où il veut fixer avec précision son langage philosophique² ;
+par opposition au mode, à la qualité formelle ? Mais chez Aristote d'abord, chez celui qui risque de nous conduire le plus loin dans l'interprétation des idées-substances, si ce terme désigne en effet assez souvent ce qui est à proprement parler le substratum, τὸ ὑποκείμενον, il désigne aussi la forme que reçoit le sujet. Aristote nous en avertit lui-même très clairement dans ce livre de sa métaphysique où il veut fixer avec précision son langage philosophique[^p297-2] ;
 
-et il reste ordinairement fidèle à la double signification qu'il a déterminée : c'est [^p297-1][^p297-2]
+et il reste ordinairement fidèle à la double signification qu'il a déterminée : c'est
 
-[p. 298] ainsi par exemple, qu'au début du second livre du de anima, quand il se propose de définir l'âme, il parle des différents aspects de l'οὐσία, comme matière et comme forme¹. Aussi sa critique contre Platon ne porte-t-elle pas précisément sur ce que les idées seraient des οὐσίαι, puisque à ses yeux la μορφὴ et l'εῖδος en sont également, mais sur la séparation de l'idée et de la chose pour laquelle elle est principe d'essence et de détermination. [μὴ καθ ' ὑποκειμένου, – τῶν εἰδῶν οὐσία τις ἕκαστόν ἐστι καὶ οὐθὲν κατὰ συμβεβηκός...].
+[p. 298] ainsi par exemple, qu'au début du second livre du de anima, quand il se propose de définir l'âme, il parle des différents aspects de l'οὐσία, comme matière et comme forme[^p298-1]. Aussi sa critique contre Platon ne porte-t-elle pas précisément sur ce que les idées seraient des οὐσίαι, puisque à ses yeux la μορφὴ et l'εῖδος en sont également, mais sur la séparation de l'idée et de la chose pour laquelle elle est principe d'essence et de détermination. [μὴ καθ ' ὑποκειμένου, – τῶν εἰδῶν οὐσία τις ἕκαστόν ἐστι καὶ οὐθὲν κατὰ συμβεβηκός...].
 
 Quant à Platon, la lecture des dialogues nous fait aisément constater que l'οὐσία exprime toutes les nuances de l'être depuis celle d'une essence absolue jusqu'à la notion la plus vague et la plus générale de l'existence. Qu'on mesure par exemple la distance qui sépare la substance indivisible et toujours la même dont est faite l'âme du monde –(τῆς ἀμερίστου καὶ αεὶ κατὰ ταῦτα ἐχούσης οὐσίας),
 
-de l'οὐσία dont il est question dans le Théétète comme d'une qualité quelconque que l'âme affirmera des choses en les examinant par elle-même². C'est ici l'être dans le sens le plus général, par lequel seulement il s'oppose au non- être (οὐσίαν λέγεις καὶ τὸ μὴ εἶναι... ποτέρων οὖν τίθης τὴν οὐσίαν ; τοῦτο γὰρ μάλιστα ἐπὶ πάντων[^p298-1][^p298-2]
+de l'οὐσία dont il est question dans le Théétète comme d'une qualité quelconque que l'âme affirmera des choses en les examinant par elle-même[^p298-2]. C'est ici l'être dans le sens le plus général, par lequel seulement il s'oppose au non- être (οὐσίαν λέγεις καὶ τὸ μὴ εἶναι... ποτέρων οὖν τίθης τὴν οὐσίαν ; τοῦτο γὰρ μάλιστα ἐπὶ πάντων
 
 [p. 299] IDÉALISME παρέπεται...) Il ne semble donc vraiment pas que le langage de Platon nous oblige à placer dans l'οὐσία quelque mystérieuse qualité métaphysique qui soit incompatible avec les essences que contemple le mathématicien.
 
@@ -3391,17 +3391,17 @@ Nous ne serons pas surpris de voir Platon donner à la physique le caractère d'
 
 #### I
 
-Les choses sensibles naissent et se transforment dans une génération incessante. « Ce que nous appelons eau, nous croyons voir qu'en se condensant, cela devient des pierres et de la terre ; en se fondant et se divisant, du vent et de l'air ; que l'air enflammé devient du feu, et que réciproquement le feu condensé et éteint reprend la forme d'air ; que l'air rapproché et épaissi se change en nuages et en brouillards, qui, encore plus comprimés, se changent en eau ; que de l'eau se reforment la terre et les pierres¹..... » Nous sommes amenés dès lors par une sorte de raison bâtarde (λογισμῷ τινὶ νόθῳ) à entrevoir comme dans un songe (car il ne saurait être ici question des clartés du monde intelligible) un fond commun, un réceptacle, un lieu, qui reçoit toutes ces apparences, eau, terre, air, feu, etc. « Le chaud, le blanc, ou les qualités contraires, ou toutes celles qui en dérivent, il ne faut jamais en appliquer le nom à cette chose dont nous venons de parler..... Si quelqu'un, formant en or toutes les figures imaginables, ne cessait de changer chacune d'elles en toutes les autres, et qu'en montrant une de ces formes on demandât ce que ce serait, la réponse la plus sûrement vraie serait que c'est [^p305-1]
+Les choses sensibles naissent et se transforment dans une génération incessante. « Ce que nous appelons eau, nous croyons voir qu'en se condensant, cela devient des pierres et de la terre ; en se fondant et se divisant, du vent et de l'air ; que l'air enflammé devient du feu, et que réciproquement le feu condensé et éteint reprend la forme d'air ; que l'air rapproché et épaissi se change en nuages et en brouillards, qui, encore plus comprimés, se changent en eau ; que de l'eau se reforment la terre et les pierres[^p305-1]..... » Nous sommes amenés dès lors par une sorte de raison bâtarde (λογισμῷ τινὶ νόθῳ) à entrevoir comme dans un songe (car il ne saurait être ici question des clartés du monde intelligible) un fond commun, un réceptacle, un lieu, qui reçoit toutes ces apparences, eau, terre, air, feu, etc. « Le chaud, le blanc, ou les qualités contraires, ou toutes celles qui en dérivent, il ne faut jamais en appliquer le nom à cette chose dont nous venons de parler..... Si quelqu'un, formant en or toutes les figures imaginables, ne cessait de changer chacune d'elles en toutes les autres, et qu'en montrant une de ces formes on demandât ce que ce serait, la réponse la plus sûrement vraie serait que c'est
 
-[p. 306] LES PHILOSOPHES -GÉOMÈTRES DE LA GRÈCE de l'or ; quant à toutes les formes que recevrait cet or, il ne faudrait pas en parler comme si c'étaient des êtres, puisqu'elles changent à mesure qu'on les produit..... Il en est de même de la chose qui reçoit tous les corps : il faut toujours lui donner le même nom, car elle ne sort jamais de sa propre nature. Elle reçoit toujours tous les objets sans prendre jamais aucune des formes de ce qui entre en elle, car elle est le fond commun de toutes les natures différentes¹..... » Par rapport à ce qui est produit (τὸ γιγνόμενον), cette chose est « ce dans quoi cela est produit », τὸ ἐν ᾧ γίγνεται. Par rapport à l'être éternel, aux essences idéales, elle joue le rôle passif de la mère, qui reçoit ce qui vient du père pour former l'enfant (καὶ δὴ προσεικάσαι πρέπει τὸ μὲν δεχόμενον μητρί, τὸ δ᾽ ὅθεν πατρί, τὴν δὲ μεταξὺ τούτων φύσιν ἐκγόνῳ...). Cette mère, ce réceptacle ne possède aucune forme. « C'est une espèce de nature invisible et sans forme qui reçoit tout et qui tient en quelque manière à l'être intelligible, mais d'une façon bien douteuse et bien insaisissable. Autant qu'on peut approcher de la connaissance de sa nature, ce qu'on peut en dire de plus juste, c'est que le feu paraît toujours en être une partie enflammée, l'eau une partie mouillée, etc.²....
+[p. 306] LES PHILOSOPHES -GÉOMÈTRES DE LA GRÈCE de l'or ; quant à toutes les formes que recevrait cet or, il ne faudrait pas en parler comme si c'étaient des êtres, puisqu'elles changent à mesure qu'on les produit..... Il en est de même de la chose qui reçoit tous les corps : il faut toujours lui donner le même nom, car elle ne sort jamais de sa propre nature. Elle reçoit toujours tous les objets sans prendre jamais aucune des formes de ce qui entre en elle, car elle est le fond commun de toutes les natures différentes[^p306-1]..... » Par rapport à ce qui est produit (τὸ γιγνόμενον), cette chose est « ce dans quoi cela est produit », τὸ ἐν ᾧ γίγνεται. Par rapport à l'être éternel, aux essences idéales, elle joue le rôle passif de la mère, qui reçoit ce qui vient du père pour former l'enfant (καὶ δὴ προσεικάσαι πρέπει τὸ μὲν δεχόμενον μητρί, τὸ δ᾽ ὅθεν πατρί, τὴν δὲ μεταξὺ τούτων φύσιν ἐκγόνῳ...). Cette mère, ce réceptacle ne possède aucune forme. « C'est une espèce de nature invisible et sans forme qui reçoit tout et qui tient en quelque manière à l'être intelligible, mais d'une façon bien douteuse et bien insaisissable. Autant qu'on peut approcher de la connaissance de sa nature, ce qu'on peut en dire de plus juste, c'est que le feu paraît toujours en être une partie enflammée, l'eau une partie mouillée, etc.[^p306-2]....
 
 »
 
-Nous est-il permis de dire avec plus de précision que Platon ce qu'est pour lui cette matière première, récep [^p306-1][^p306-2]
+Nous est-il permis de dire avec plus de précision que Platon ce qu'est pour lui cette matière première, récep
 
-[p. 307] MÉCANISME tacle de toute génération ? — Les uns déclarent que c'est l'espace ; les autres refusent de prendre à la lettre l'identification de la matière au lieu, à la χώρα, que semblent nous présenter ces pages du Timée, et veulent y voir une sorte de définition symbolique du principe d'indétermination, ou de la « dyade du grand et du petit ». L'autorité d'Aristote peut d'ailleurs être également invoquée par les uns et par les autres ; car s'il déclare¹ que le Timée ne fait qu'une seule et même chose du lieu et de la matière, il observe aussi que ce dialogue n'est pas d'accord sur ce point avec les ἄγραφα δόγματα, c'est-à-dire avec les doctrines non écrites du maître ; et, quelques lignes plus loin, parlant du μεθεκτικὸν de Platon (de ce qui peut participer, par opposition aux idées et aux nombres, dont les choses participent), il dit : « qu'il s'agisse du grand et du petit, ou de la matière telle que la décrit le Timée... » Toute la question est donc de savoir si le passage du Timée qui nous intéresse exprime directement la pensée de Platon, et si alors nous trouvons chez lui deux notions différentes de la matière ; ou bien si ce passage ne vise qu'à exposer sous un jour spécial ce qu'enseignent les doctrines non écrites, de sorte que le πανδεχές et le μεθεκτικὸν ne soient jamais qu'un seul principe, la dyade du grand et du petit.
+[p. 307] MÉCANISME tacle de toute génération ? — Les uns déclarent que c'est l'espace ; les autres refusent de prendre à la lettre l'identification de la matière au lieu, à la χώρα, que semblent nous présenter ces pages du Timée, et veulent y voir une sorte de définition symbolique du principe d'indétermination, ou de la « dyade du grand et du petit ». L'autorité d'Aristote peut d'ailleurs être également invoquée par les uns et par les autres ; car s'il déclare[^p307-1] que le Timée ne fait qu'une seule et même chose du lieu et de la matière, il observe aussi que ce dialogue n'est pas d'accord sur ce point avec les ἄγραφα δόγματα, c'est-à-dire avec les doctrines non écrites du maître ; et, quelques lignes plus loin, parlant du μεθεκτικὸν de Platon (de ce qui peut participer, par opposition aux idées et aux nombres, dont les choses participent), il dit : « qu'il s'agisse du grand et du petit, ou de la matière telle que la décrit le Timée... » Toute la question est donc de savoir si le passage du Timée qui nous intéresse exprime directement la pensée de Platon, et si alors nous trouvons chez lui deux notions différentes de la matière ; ou bien si ce passage ne vise qu'à exposer sous un jour spécial ce qu'enseignent les doctrines non écrites, de sorte que le πανδεχές et le μεθεκτικὸν ne soient jamais qu'un seul principe, la dyade du grand et du petit.
 
-Nous n'hésitons pas à nous ranger à la première opinion.[^p307-1]
+Nous n'hésitons pas à nous ranger à la première opinion.
 
 [p. 308] un
 
@@ -3423,29 +3423,29 @@ Est-il besoin d'ajouter que la physique platonicienne rejettera le vide avec la 
 
 [p. 310] Et d'abord cette forme même des mouvements nature est à remarquer : c'est celle qui convient circulation dans le plein. S'il s'agit en premier lie l'agitation universelle du monde, pris dans son semble, Platon nous dira que l'univers comprenant c son contour tous les genres de corps et étant orbicula « veut toujours se concentrer en lui-même ;
 
-il resserre tous et ne permet pas qu'il reste une place vid Le mouvement de condensation pousse les choses plus petites dans les intervalles des plus grandes. petites étant placées auprès des grandes, les moind écartent les plus grandes les unes des autres, tandis les plus grandes compriment les moindres, et toutes so ainsi transportées en tous sens dans les lieux qui lo conviennent'. » On sent déjà dans la totalité des mo vements des corps cette solidarité que Descartes mett si fortement en évidence par ses tourbillons.
+il resserre tous et ne permet pas qu'il reste une place vid Le mouvement de condensation pousse les choses plus petites dans les intervalles des plus grandes. petites étant placées auprès des grandes, les moind écartent les plus grandes les unes des autres, tandis les plus grandes compriment les moindres, et toutes so ainsi transportées en tous sens dans les lieux qui lo conviennent'. » On sent déjà dans la totalité des mo vements des corps cette solidarité que Descartes mett si fortement en évidence par ses tourbillons.[^p310-1]
 
-Mais c'est en outre dans une foule de phénomèn [^p310-1]
+Mais c'est en outre dans une foule de phénomèn
 
 [p. 311] MÉCANISME particuliers que Platon va appliquer son grand principe de l'impossibilité du vide.
 
 La théorie de la respiration, telle que l'expose le Timée, est assez difficile à saisir dans tous ses détails :
 
-une seule chose est évidente, c'est le rôle qu'y joue la poussée circulaire, la περίωσις, par laquelle se manifeste nécessairement le mouvement dans le plein¹. « Examinons de nouveau la respiration, et voyons par quelles causes elle s'est établie telle qu'elle est aujourd'hui. Les voici. Comme il n'y a aucun vide dans lequel puisse entrer un corps en mouvement, et que le souffle est émis hors de nous, il est évident pour tout le monde qu'il n'entre pas dans le vide, mais qu'il pousse et déplace l'air voisin. Cet air poussé chasse d'autre air, et toujours ainsi de proche en proche, et d'après cet effet nécessaire, tout l'air poussé circulairement vers la place d'où le souffle est sorti, s'y introduit et la remplit en suivant toujours le souffle qui sort ; tout ce mouvement semblable à celui d'une roue que l'on tourne a lieu parce que rien n'est vide. C'est pourquoi la cavité de la poitrine et du poumon, chassant le souffle au dehors, est remplie à son tour par l'air qui entoure le corps, et qui, poussé circulairement, pénètre à travers le tissu peu serré des chairs : ensuite cet air, retournant sur ses pas et ressortant à travers le corps, force la res [^p311-1]
+une seule chose est évidente, c'est le rôle qu'y joue la poussée circulaire, la περίωσις, par laquelle se manifeste nécessairement le mouvement dans le plein[^p311-1]. « Examinons de nouveau la respiration, et voyons par quelles causes elle s'est établie telle qu'elle est aujourd'hui. Les voici. Comme il n'y a aucun vide dans lequel puisse entrer un corps en mouvement, et que le souffle est émis hors de nous, il est évident pour tout le monde qu'il n'entre pas dans le vide, mais qu'il pousse et déplace l'air voisin. Cet air poussé chasse d'autre air, et toujours ainsi de proche en proche, et d'après cet effet nécessaire, tout l'air poussé circulairement vers la place d'où le souffle est sorti, s'y introduit et la remplit en suivant toujours le souffle qui sort ; tout ce mouvement semblable à celui d'une roue que l'on tourne a lieu parce que rien n'est vide. C'est pourquoi la cavité de la poitrine et du poumon, chassant le souffle au dehors, est remplie à son tour par l'air qui entoure le corps, et qui, poussé circulairement, pénètre à travers le tissu peu serré des chairs : ensuite cet air, retournant sur ses pas et ressortant à travers le corps, force la res
 
-[p. 312] des sons les plus rapides, qui arrivent les prem diminuent et sont déjà semblables à ceux des son plus lents, lorsque ceux-ci arrivant plus tard, les agi en les rattrapant, mais sans les troubler par l'addi d'une impulsion différente : le commencement d mouvement plus lent s'adapte ainsi à la fin sembla d'un mouvement d'abord plus rapide, et ce méla de l'impression d'un son aigu et de celle d'un grave produit une impression unique, d'où résulte plaisir pour les insensés, et la santé de l'âme pour hommes sages².....
+[p. 312] des sons les plus rapides, qui arrivent les prem diminuent et sont déjà semblables à ceux des son plus lents, lorsque ceux-ci arrivant plus tard, les agi en les rattrapant, mais sans les troubler par l'addi d'une impulsion différente : le commencement d mouvement plus lent s'adapte ainsi à la fin sembla d'un mouvement d'abord plus rapide, et ce méla de l'impression d'un son aigu et de celle d'un grave produit une impression unique, d'où résulte plaisir pour les insensés, et la santé de l'âme pour hommes sages[^p312-2].....
 
 »
 
-Le principe de l'impossibilité du vide et de la περί explique de même le mouvement d'un corps lan Bien que Platon n'insiste pas, le commentaire Plutarque, et mieux encore la théorie d'Aristote I même, qui sur ce point, ne se sépare pas de son maît nous permettent de comprendre ce que veut dire le Timée. Lorsqu'un corps est lancé, quelle est la for qui le pousse et prolonge son mouvement ? La répon [^p312-1][^p312-2]
+Le principe de l'impossibilité du vide et de la περί explique de même le mouvement d'un corps lan Bien que Platon n'insiste pas, le commentaire Plutarque, et mieux encore la théorie d'Aristote I même, qui sur ce point, ne se sépare pas de son maît nous permettent de comprendre ce que veut dire le Timée. Lorsqu'un corps est lancé, quelle est la for qui le pousse et prolonge son mouvement ?[^p312-1] La répon
 
-[p. 313] MÉCANISME est simple et naïve : l'air se précipite à la suite du corps pour remplir le vide que ferait son déplacement, et c'est cette poussée de l'air, cette impulsion, ce choc incessamment répété qui assure la continuité du mouvement. « Il en est de même de tous les mouvements des eaux, de la chute de la foudre, et des effets si admirés du succin et de la pierre héracléenne pour attirer : il n'y a réellement de force d'attraction dans aucun de ces corps ; mais c'est que d'une part rien n'est vide et ces objets se poussent circulairement les uns vers les autres, de l'autre, se dilatant et se resserrant tous, après avoir changé leurs places, ils reviennent chacun à la leur¹... » Ainsi partout où la présence d'une force peut sembler nécessaire, Platon donne une explication qui fait intervenir, au lieu de quelque action mystérieuse, la simple poussée qu'exercent les uns sur les autres les éléments de matière.
+[p. 313] MÉCANISME est simple et naïve : l'air se précipite à la suite du corps pour remplir le vide que ferait son déplacement, et c'est cette poussée de l'air, cette impulsion, ce choc incessamment répété qui assure la continuité du mouvement. « Il en est de même de tous les mouvements des eaux, de la chute de la foudre, et des effets si admirés du succin et de la pierre héracléenne pour attirer : il n'y a réellement de force d'attraction dans aucun de ces corps ; mais c'est que d'une part rien n'est vide et ces objets se poussent circulairement les uns vers les autres, de l'autre, se dilatant et se resserrant tous, après avoir changé leurs places, ils reviennent chacun à la leur[^p313-1]... » Ainsi partout où la présence d'une force peut sembler nécessaire, Platon donne une explication qui fait intervenir, au lieu de quelque action mystérieuse, la simple poussée qu'exercent les uns sur les autres les éléments de matière.
 
 Du moins (les dernières lignes que nous venons de citer y font allusion) une seule exception est à signaler :
 
 en dehors de l'impulsion qui résulte de l'impossibilité du vide, Platon utilise dans sa physique un autre principe d'après lequel les particules semblables de matière ont une tendance à se rassembler dans un même lieu.
 
-Les éléments de terre tendent à se réunir en bas ; les éléments de feu tendent au contraire à se réunir en [^p313-1]
+Les éléments de terre tendent à se réunir en bas ; les éléments de feu tendent au contraire à se réunir en
 
 [p. 314] LES PHILOSOPHES -GÉOMÈTRES DE LA GRÈCE haut, etc... Faut-il voir dans ce principe une dérogation aux conceptions mécanistes qui nous empêche d'y rattacher décidément la physique du Timée ? Nous ne le pensons pas. Il s'agit là pour Platon d'une propriété inhérente aux corps, d'un état de nature qui, loin de se produire et d'exercer son action dans tel ou tel cas déterminé, fait partie intégrante de la matière elle-même. C'est une tendance qu'il est permis de rapprocher de l'inertie de Descartes, laquelle est la tendance de la matière à persévérer dans son état de repos ou de mouvement. Descartes se fera peut-être illusion au point de croire qu'il lui est permis de parler d'inertie sans supposer aucune force, aucune énergie interne : la vérité, c'est qu'il y fera correspondre un effet toujours identique à lui-même, et cette continuité de l'effet toujours le même, du repos qui se prolonge, ou du mouvement qui ne change pas de vitesse, cette unité de manifestation équivaudra pour lui, comme d'ailleurs pour les savants qui auront plus tard à constituer la science du mouvement, à l'absence de toute force. Si bien qu'aucun critique n'a jamais songé à atténuer le caractère mécaniste de la physique de Descartes, sous prétexte qu'elle mentionne une tendance spéciale des corps à conserver leur état de repos ou de mouvement. Pourquoi en serait-il autrement du principe platonicien ? Le penchant à se mouvoir toujours suivant la ligne droite qui continuerait le dernier déplacement, s'il n'y avait
 
@@ -3483,7 +3483,7 @@ Voici alors, comme dit Platon, ce qui paraît le plus vraisemblable. La terre pe
 
 « Quant à l'air, les fragments produits par la dissolution d'une seule de ses parties peuvent former deux corps de feu. » En effet 48 est le double de 24. « Et réciproquement, lorsque du feu est renfermé dans de l'air, de l'eau ou de la terre, mais en petite quantité relativement à la masse qui le contient, si, entraîné par le mouvement de ces corps et vaincu malgré sa résistance, il se trouve rompu en morceaux, deux corps de feu peuvent se réunir en un seul corps d'air
 
-[p. 319] MÉCANISME (24+ 24 = 48) ; et si l'air est vaincu et brisé en petits fragments, de deux corps et demi d'air, un corps entier d'eau peut être formé (48 +48 + 24 = 120) ¹ ».
+[p. 319] MÉCANISME (24+ 24 = 48) ; et si l'air est vaincu et brisé en petits fragments, de deux corps et demi d'air, un corps entier d'eau peut être formé (48 +48 + 24 = 120) [^p319-1] ».
 
 Aristote, dans les reproches qu'il adresse à l'atomisme, confond Démocrite et Platon : est-ce bien juste ?
 
@@ -3491,7 +3491,7 @@ Faut-il dire que Platon affirme sa croyance aux atomes et pose une limite à la 
 
 ## Livre Pour Expliquer Tous Les Phénomènes Naturels À
 
-l'aide de certains mouvements de particules de matière, et l'on constatera que par instants, qu'il s'agisse des tourbillons cosmiques, ou seulement des propriétés de l'aimant, on oublie la différence essentielle qui sépare Descartes de Lucrèce : Ne sont-ce pas pour tous deux des éléments de matière qu'il faut se représenter comme se suivant les uns les autres et ayant chacun une exis [^p319-1]
+l'aide de certains mouvements de particules de matière, et l'on constatera que par instants, qu'il s'agisse des tourbillons cosmiques, ou seulement des propriétés de l'aimant, on oublie la différence essentielle qui sépare Descartes de Lucrèce : Ne sont-ce pas pour tous deux des éléments de matière qu'il faut se représenter comme se suivant les uns les autres et ayant chacun une exis
 
 [p. 320] En tous cas, sans prétendre expliquer tous les de de la physique de Platon, puisque aussi bien il n donne lui-même qu'au nom de la vraisemblance e dissimule pas la difficulté des problèmes qu'elle soul il est permis de dire qu'un caractère essentiel dégage avec la plus grande évidence : Platon se re à rendre compte des apparences sensibles par des c tions spéciales, par des forces ou par des substan propres, spécifiquement définies. D'une part, en del d'une tendance naturelle suivant laquelle les particu de matière se réunissent dans des lieux propres, cherche la raison de tous les phénomènes de l'univ dans l'impulsion qu'exercent les uns sur les autres éléments de matière en contact ;
 
@@ -3505,7 +3505,7 @@ il voudra donner l'exemple d'un déterminisme inflexible ? La lecture du Timée 
 
 G. MILHAUD.
 
-20 [p. 322] des triangles fondamentaux, on lit encore nous efforcer de constituer harmoniquement ces genres de corps excellents en beauté et de vous voir que nous en avons suffisamment compris la na Des deux triangles dont nous parlions, l'isocèl qu'une seule nature ; le triangle allongé en peut rec une infinité. Il faut donc, parmi ces derniers trian qui varient à l'infini, choisir le plus beau, si nous lons procéder avec ordre. Si quelqu'un en a trouv autre plus beau, plus propre à la formation de ces co que celui que nous avons choisi, son avis, reçu con celui d'un ami et non d'un ennemi, aura la préfére Mais nous jugeons que parmi cette multitude de trian il y en a une espèce plus belle que toutes les autres pour laquelle nous les laissons toutes de côté, sa celle dont deux forment un troisième triangle qui équilatéral. Pourquoi, c'est ce qu'il serait trop lo de dire ; mais si quelqu'un découvre et démontre cette espèce n'a pas la supériorité, il peut compter [^p322-1]
+20 [p. 322] des triangles fondamentaux, on lit encore nous efforcer de constituer harmoniquement ces genres de corps excellents en beauté et de vous voir que nous en avons suffisamment compris la na Des deux triangles dont nous parlions, l'isocèl qu'une seule nature ; le triangle allongé en peut rec une infinité. Il faut donc, parmi ces derniers trian qui varient à l'infini, choisir le plus beau, si nous lons procéder avec ordre. Si quelqu'un en a trouv autre plus beau, plus propre à la formation de ces co que celui que nous avons choisi, son avis, reçu con celui d'un ami et non d'un ennemi, aura la préfére Mais nous jugeons que parmi cette multitude de trian il y en a une espèce plus belle que toutes les autres pour laquelle nous les laissons toutes de côté, sa celle dont deux forment un troisième triangle qui équilatéral.[^p322-1] Pourquoi, c'est ce qu'il serait trop lo de dire ; mais si quelqu'un découvre et démontre cette espèce n'a pas la supériorité, il peut compter
 
 [p. 323] MÉCANISME une récompense amicale¹. » Et de même on retrouvera incessamment dans le Timée le souci de se conformer au choix le meilleur et le plus beau.
 
@@ -3522,9 +3522,9 @@ Et ici encore, pour dissiper tout malentendu et mieux sentir que cet aspect semi
 Comment Descartes se dit-il conduit aux lois d nature ? De même que le Timée pose en principe Dieu a ordonné tout d'une manière aussi excellent aussi parfaite que possible, Descartes nous dit :
 
 
-fis voir quelles étaient ces lois de la nature, et s appuyer mes raisons sur aucun autre principe que les perfections infinies de Dieu, je tâchai de démont toutes celles dont on eût pu avoir quelque doute¹ Dans la deuxième partie des Principes il explique co ment les lois du monde dérivent de Dieu : la quant de mouvement est constante parce que Dieu est in muable ; les corps se meuvent d'eux-mêmes en lig [^p324-1]
+fis voir quelles étaient ces lois de la nature, et s appuyer mes raisons sur aucun autre principe que les perfections infinies de Dieu, je tâchai de démont toutes celles dont on eût pu avoir quelque doute[^p324-1] Dans la deuxième partie des Principes il explique co ment les lois du monde dérivent de Dieu : la quant de mouvement est constante parce que Dieu est in muable ; les corps se meuvent d'eux-mêmes en lig
 
-[p. 325] PYTHAGORISME droite, parce que ce mouvement est plus simple que tout autre, et que Dieu agit toujours de la façon la plus simple ; etc... M. Liard a clairement montré¹ ce qu'il faut penser de cette intervention de Dieu dans les lois de la physique cartésienne, et a mis en évidence les origines logiques de ces lois dans la pensée de Descartes.
+[p. 325] PYTHAGORISME droite, parce que ce mouvement est plus simple que tout autre, et que Dieu agit toujours de la façon la plus simple ; etc... M. Liard a clairement montré[^p325-1] ce qu'il faut penser de cette intervention de Dieu dans les lois de la physique cartésienne, et a mis en évidence les origines logiques de ces lois dans la pensée de Descartes.
 
 Il en est exactement de même à nos yeux pour Platon.
 
@@ -3536,7 +3536,7 @@ En tant qu'il cherche l'ordre et l'harmonie dans le nombre discontinu et dans le
 
 suit l'exemple des Pythagoriciens, soit qu'il se contente de voir dans le nombre et dans la proportion une condition du bien et du beau,
 
-soit surtout qu'il lui donne une valeur intrinsèque et semble [^p325-1]
+soit surtout qu'il lui donne une valeur intrinsèque et semble
 
 [p. 326] y attacher quelque mystérieuse signification. Les dialogues, et le Timée particulièrement, nous permettent de relever des traces multiples de cette double attitude.
 
@@ -3558,7 +3558,7 @@ A merveille.
 
 Par la raison contraire, le mouvement qui ne se fait jamais de la même manière, suivant les mêmes règles, dans la même place...
 
-qui est sans règle, sans ordre, sans uniformité, ressemble très bien au mouvement de l'extravagance¹ ».[^p327-1]
+qui est sans règle, sans ordre, sans uniformité, ressemble très bien au mouvement de l'extravagance[^p327-1] ».
 
 [p. 328] dans un mouvement de rotation uniforme et sans
 
@@ -3578,15 +3578,15 @@ DE LA GRÈCE et la grande année parfaite est révolue, lorsque les huit révolu
 
 Mais Platon va plus loin, et ce n'est pas seulement pour les révolutions des astres, c'est pour l'ensemble des choses terrestres et humaines, autant que des choses célestes, qu'il sent le besoin d'un nombre marquant une période totale, c'est-à-dire un intervalle de temps après lequel tout absolument soit revenu au même point, de telle sorte que l'univers reprenne, jusqu'en ses moindres détails, un aspect identique à celui qu'il a présenté une fois déjà dans le passé. Dans le Phèdre, Platon parle d'un intervalle de dix mille ans au bout duquel toutes les âmes qui ont successivement passé par des conditions différentes reviennent à l'état primitif. Et la République met en question un nombre qui évidemment dans la pensée de Platon englobe les
 
-Į. Timée, 39, D, trad. Martin, [p. 331] PYTHAGORISME diverses périodes séparémentmentionnées, dans le Timée et dans le Phèdre. Peu importe la valeur qui doit être assignée à ce nombre, et qui est indiquée par la République en un langage fort énigmatique¹. Ce qui nous intéresse ici c'est la signification que Platon y attache.
+Į. Timée, 39, D, trad. Martin, [p. 331] PYTHAGORISME diverses périodes séparémentmentionnées, dans le Timée et dans le Phèdre. Peu importe la valeur qui doit être assignée à ce nombre, et qui est indiquée par la République en un langage fort énigmatique[^p331-1]. Ce qui nous intéresse ici c'est la signification que Platon y attache.
 
 « Il y a, dit-il, des retours de fécondité et de stérilité pour les plantes qui naissent dans le sein de la terre comme pour l'âme et le corps des animaux qui vivent sur sa surface ; et ces retours ont lieu quand l'ordre éternel ramène sur elle-même, pour chaque espèce, sa révolution circulaire, laquelle s'achève dans un espace ou plus court ou plus long, suivant que la vie de ces espèces est plus courte ou plus longue... Les générations divines ont une période qui comprend un nombre parfait ; mais pour la race humaine il y a un nombre géométrique dont le pouvoir préside aux bonnes et aux mauvaises générations... »
 
 Ainsi les phénomènes célestes et humains, dans leur universelle totalité, sont soumis à la loi d'un nombre.
 
-Cela ne surprend pas si l'on songe que les deux cercles primitifs qu'a formés l'âme du monde, aussi bien le cercle de l'autre, que le cercle du même, ont été construits dans des conditions qui préparent l'harmonie de l'univers. Platon en effet ne s'est pas contenté de [^p331-1]
+Cela ne surprend pas si l'on songe que les deux cercles primitifs qu'a formés l'âme du monde, aussi bien le cercle de l'autre, que le cercle du même, ont été construits dans des conditions qui préparent l'harmonie de l'univers. Platon en effet ne s'est pas contenté de
 
-[p. 332] nous dire quelles essences composent l'âme du monde, qui donneront aux mouvements plus ou moins de régularité et d'uniformité ; pour que son action soit harmonieuse, il nous montre le démiurge y découpant, pour ainsi dire, des parties dont le calcul se fait suivant certaines règles numériques déterminées, et qui finalement sont entre elles comme les nombres de la gamme musicale¹.
+[p. 332] nous dire quelles essences composent l'âme du monde, qui donneront aux mouvements plus ou moins de régularité et d'uniformité ; pour que son action soit harmonieuse, il nous montre le démiurge y découpant, pour ainsi dire, des parties dont le calcul se fait suivant certaines règles numériques déterminées, et qui finalement sont entre elles comme les nombres de la gamme musicale[^p332-1].
 
 Ce passage exprime le sentiment très net qu'a Platon de l'intime connexité de l'harmonie musicale et de l'ordre intelligible des choses.
 
@@ -3594,17 +3594,17 @@ Il se trouve confirmé par tous ceux où le rôle de la musique dans l'éducatio
 
 ## Livre Des
 
-Lois, par laquelle Platon, après avoir rappelé qu'il y a dans les astres « une intelligence qui préside à tous les êtres », déclare qu'on doit être versé « dans les sciences qui préparent à ces connaissances et qu'après avoir saisi le rapport intime qu'elles ont avec la musique, on doit s'en servir pour mettre de l'harmonie dans les mœurs et dans les lois ». La possibilité de comparer les rapports des nombres qui interviennent dans une circonstance quelconque à ceux que découvre l'harmonie musicale semble être pour Platon le gage le plus assuré de l'ordre et de l'équilibre. Qu'est-ce, par exemple, qui réalisera dans l'État l'équilibre idéal des [^p332-1]
+Lois, par laquelle Platon, après avoir rappelé qu'il y a dans les astres « une intelligence qui préside à tous les êtres », déclare qu'on doit être versé « dans les sciences qui préparent à ces connaissances et qu'après avoir saisi le rapport intime qu'elles ont avec la musique, on doit s'en servir pour mettre de l'harmonie dans les mœurs et dans les lois ». La possibilité de comparer les rapports des nombres qui interviennent dans une circonstance quelconque à ceux que découvre l'harmonie musicale semble être pour Platon le gage le plus assuré de l'ordre et de l'équilibre. Qu'est-ce, par exemple, qui réalisera dans l'État l'équilibre idéal des
 
 [p. 333] PYTHAGORISME trois classes qui représentent l'une la prudence, l'autre le courage, la troisième la tempérance ? Ou qu'est-ce qui unira dans l'individu, de la façon la plus solide et la plus stable les trois parties de l'âme qui répondent à ces vertus ? C'est la justice, or la justice est une sorte d'harmonie de ces parties. « Elle veut, dit Platon (quand
 
 il la considère chez l'homme) que d'abord l'homme pose bien à chacune des parties de l'âme les fonctions qui lui sont propres, qu'il prenne le commandement de lui-même, et qu'il établisse en soi l'ordre et la concorde ; qu'il mette entre les trois parties de son âme un accord parfait, comme entre les trois tons extrêmes de l'harmonie, l'octave, la basse et la quinte, et les autres tons intermédiaires, s'il en existe ; qu'il lie ensemble tons les éléments qui le composent,
 
-et, malgré leur diversité, qu'il soit un, mesuré, plein d'harmonie... ¹
+et, malgré leur diversité, qu'il soit un, mesuré, plein d'harmonie... [^p333-1]
 
 ).
 
-Cette sorte d'équilibre idéal que Platon trouve ainsi réalisé d'une façon toute spéciale dans l'accord parfait de l'harmonie musicale, résulte plus généralement à ses yeux d'une proportion convenable des parties. Il faut que chacune d'elles intervienne en quantité suffisante, mais qui ne dépasse pas la juste mesure. La juste mesure, le milieu entre le trop et le trop peu, c'est là une notion qui pour Platon joue partout un très grand rôle.[^p333-1]
+Cette sorte d'équilibre idéal que Platon trouve ainsi réalisé d'une façon toute spéciale dans l'accord parfait de l'harmonie musicale, résulte plus généralement à ses yeux d'une proportion convenable des parties. Il faut que chacune d'elles intervienne en quantité suffisante, mais qui ne dépasse pas la juste mesure. La juste mesure, le milieu entre le trop et le trop peu, c'est là une notion qui pour Platon joue partout un très grand rôle.
 
 [p. 334] dont la clarté ne laisse rien à désirer. Le nombre pour lui, comme pour les Pythagoriciens, une 1 monie ; et l'harmonie est à ses yeux tout à la fois c dition de beauté et condition de stabilité et d'équilib Instinctivement il reconnaîtra l'ordre et le vrai, là les éléments sont proportionnels les uns aux autres. proportionnalité est pour lui « le plus beau des liens Cela se comprend aisément : elle est la permanence, constance du rapport, c'est-à-dire la permanence, constance de la forme. La variation qui est soumise la proportionnalité est par là même régularisée ; on pe dire jusqu'à un certain point que le même y subsist que l'égalité en est la loi.
 
@@ -3614,9 +3614,9 @@ c'est le mouvement circulaire uniforme. L rôle qu'y joue l'égalité est suffis
 
 Comn je te prie ? — On ne nous accusera jamais c savoir faire dans nos discours de belles com propres à représenter les objets si nous diso mouvement de l'intelligence, et celui qui se une même place, semblables au mouveme sphère sur le tour, s'exécutent selon les mêm de la même manière, dans le même lieu, gar jours les mêmes rapports tant à l'égard du c des parties environnantes, selon la même pro le même ordre.
 
-A merveille.
+A merveille.[^p335-1]
 
-Par la ra traire, le mouvement qui ne se fait jamais de manière, suivant les mêmes règles, dans la mêm qui est sans règle, sans ordre, sans uniforr semble très bien au mouvement de l'extrava [^p335-1]
+Par la ra traire, le mouvement qui ne se fait jamais de manière, suivant les mêmes règles, dans la mêm qui est sans règle, sans ordre, sans uniforr semble très bien au mouvement de l'extrava
 
 [p. 336] dans un mouvement de rotation uniforme et sans do
 
@@ -3640,15 +3640,15 @@ Mais Platon va plus loin, et ce n'est pas seuleme pour les révolutions des astr
 
 tions divines ont une période qui comprend u parfait ; mais pour la race humaine il y a un géométrique dont le pouvoir préside aux bon mauvaises générations... »
 
-Ainsi les phénomènes célestes et humains, universelle totalité, sont soumis à la loi d'un Cela ne surprend pas si l'on songe que les de primitifs qu'a formés l'âme du monde, a le cercle de l'autre, que le cercle du même, on struits dans des conditions qui préparent 1 de l'univers. Platon en effet ne s'est pas co [^p339-1]
+Ainsi les phénomènes célestes et humains, universelle totalité, sont soumis à la loi d'un Cela ne surprend pas si l'on songe que les de primitifs qu'a formés l'âme du monde, a le cercle de l'autre, que le cercle du même, on struits dans des conditions qui préparent 1 de l'univers.[^p339-1] Platon en effet ne s'est pas co
 
 [p. 340] ment sont entre elles comme les nombres de la gan
 
-qu'a Platon de l'intime connexité de l'harmonie mu cale et de l'ordre intelligible des choses. Il se tro confirmé par tous ceux où le rôle de la musique da l'éducation de l'esprit est présenté avec tant d'insistan Citons en particulier cette phrase du XII livre c Lois, par laquelle Platon, après avoir rappelé qu'il y dans les astres « une intelligence qui préside à tous êtres », déclare qu'on doit être versé « dans les scienc qui préparent à ces connaissances et qu'après avo saisi le rapport intime qu'elles ont avec la musique, o doit s'en servir pour mettre de l'harmonie dans lo mœurs et dans les lois ». La possibilité de compare les rapports des nombres qui interviennent dans un circonstance quelconque à ceux que découvre l'har monie musicale semble être pour Platon le gage le plus assuré de l'ordre et de l'équilibre. Qu'est-ce, par exemple, qui réalisera dans l'État l'équilibre idéal des [^p340-1]
+qu'a Platon de l'intime connexité de l'harmonie mu cale et de l'ordre intelligible des choses. Il se tro confirmé par tous ceux où le rôle de la musique da l'éducation de l'esprit est présenté avec tant d'insistan Citons en particulier cette phrase du XII livre c Lois, par laquelle Platon, après avoir rappelé qu'il y dans les astres « une intelligence qui préside à tous êtres », déclare qu'on doit être versé « dans les scienc qui préparent à ces connaissances et qu'après avo saisi le rapport intime qu'elles ont avec la musique, o doit s'en servir pour mettre de l'harmonie dans lo mœurs et dans les lois ». La possibilité de compare les rapports des nombres qui interviennent dans un circonstance quelconque à ceux que découvre l'har monie musicale semble être pour Platon le gage le plus assuré de l'ordre et de l'équilibre.[^p340-1] Qu'est-ce, par exemple, qui réalisera dans l'État l'équilibre idéal des
 
-[p. 341] l'homme pose bien à chacune des parties de fonctions qui lui sont propres, qu'il prenne le dement de lui-même, et qu'il établisse en soi la concorde ; qu'il mette entre les trois parti âme un accord parfait, comme entre les t extrêmes de l'harmonie, l'octave, la basse et I et les autres tons intermédiaires, s'il en existe ensemble tons les éléments qui le compo malgré leur diversité, qu'il soit un, mesuré, pl monie... ¹ ».
+[p. 341] l'homme pose bien à chacune des parties de fonctions qui lui sont propres, qu'il prenne le dement de lui-même, et qu'il établisse en soi la concorde ; qu'il mette entre les trois parti âme un accord parfait, comme entre les t extrêmes de l'harmonie, l'octave, la basse et I et les autres tons intermédiaires, s'il en existe ensemble tons les éléments qui le compo malgré leur diversité, qu'il soit un, mesuré, pl monie... [^p341-1] ».
 
-Cette sorte d'équilibre idéal que Platon tro réalisé d'une façon toute spéciale dans l'acco de l'harmonie musicale, résulte plus généra ses yeux d'une proportion convenable des 1 faut que chacune d'elles intervienne en quar sante, mais qui ne dépasse pas la juste mesure mesure, le milieu entre le trop et le trop peu, c notion qui pour Platon joue partout un très gr [^p341-1]
+Cette sorte d'équilibre idéal que Platon tro réalisé d'une façon toute spéciale dans l'acco de l'harmonie musicale, résulte plus généra ses yeux d'une proportion convenable des 1 faut que chacune d'elles intervienne en quar sante, mais qui ne dépasse pas la juste mesure mesure, le milieu entre le trop et le trop peu, c notion qui pour Platon joue partout un très gr
 
 [p. 342] LES PHILOSOPHES -GÉOMÈTRES DE LA GRÈCE Il y attribue une si grande importance qu'il en arrive à lui ôter sa signification relative et à lui donner un sens absolu. « Il faut diviser l'art de mesurer, dit-il dans le Politique, en deux parties : l'une des deux considérera la grandeur et la petitesse dans leurs rapports, l'autre absolument et en elles-mêmes ». Et un peu plus loin : « Il faut reconnaître deux sortes de mesures du grand et du petit, selon qu'on les compare entre eux ou au milieu... Si on ne permettait de comparer la nature du plus grand à rien autre chose qu'au plus petit, on n'aurait jamais recours au milieu, n'est-ce pas ?... Mais avec une pareille méthode ne détruirions-nous pas les arts eux-mêmes et leurs ouvrages, et n'anéantirions-nous pas aussi et la politique qui est maintenant l'objet de nos recherches, et cet art du tisserand dont nous avons parlé ? Car tous les arts de cette sorte ne supposent pas que l'excès et le défaut n'ont pas d'existence ; ils les admettent si bien qu'ils s'en défendent comme d'un danger dans leurs opérations ; et c'est par ce moyen, en conservant la mesure,
 
@@ -3656,21 +3656,21 @@ qu'ils produisent tous leurs chefs-d'œuvre ». Plus loin enfin : « Nous aurons
 
 la longueur, la profondeur, la largeur et l'épaisseur se mesurent par leurs contraires, et l'autre tous ceux qui prennent pour mesure le milieu, le convenable, l'à propos, le nécessaire, et tout ce qui se trouve également
 
-[p. 343] PYTHAGORISME éloigné des deux extrêmes¹ ». — Ainsi il existe d'un côté certains ordres de connaissance, où l'on énonce des jugements purement relatifs en comparant un plus à un moins, une plus grande longueur à une plus petite, un son plus aigu à un son moins aigu, etc., sans qu'aucune différence apparaisse jamais au point de vue des convenances, de l'adaptation à telle ou telle réalité, du beau ou du laid, du bien ou du mal, de la stabilité et de l'ordre ou du désordre. Mais en outre, pour peu qu'on pénètre dans les réalités de la vie, on est vite amené à ôter au nombre cette indifférente relativité.
+[p. 343] PYTHAGORISME éloigné des deux extrêmes[^p343-1] ». — Ainsi il existe d'un côté certains ordres de connaissance, où l'on énonce des jugements purement relatifs en comparant un plus à un moins, une plus grande longueur à une plus petite, un son plus aigu à un son moins aigu, etc., sans qu'aucune différence apparaisse jamais au point de vue des convenances, de l'adaptation à telle ou telle réalité, du beau ou du laid, du bien ou du mal, de la stabilité et de l'ordre ou du désordre. Mais en outre, pour peu qu'on pénètre dans les réalités de la vie, on est vite amené à ôter au nombre cette indifférente relativité.
 
-Il y a pour les choses une valeur normale, telle que ce qui la dépasse est excessif, et ce qui reste en deça insuffisant ; telle que, parvenues à ce terme, les choses sont bonnes ou belles, ordonnées, harmonieuses, durables, tandis qu'en deça ou au delà elles sont laides ou mauvaises, ou manquent de stabilité. La fonction du nombre n'est pas seulement de comparer abstraitement les états mesurables des grandeurs ; elle consiste aussi, dans le monde de l'art et de l'action, dans le domaine des réalités concrètes, à fixer par une valeur absolue les conditions de validité, de bonté, d'équilibre, d'ordre, de vitalité. Et ainsi Platon est amené à concevoir la correspondance étroite d'une chose à un nombre absolu, à une mesure qui vaut par elle-même.[^p343-1]
+Il y a pour les choses une valeur normale, telle que ce qui la dépasse est excessif, et ce qui reste en deça insuffisant ; telle que, parvenues à ce terme, les choses sont bonnes ou belles, ordonnées, harmonieuses, durables, tandis qu'en deça ou au delà elles sont laides ou mauvaises, ou manquent de stabilité. La fonction du nombre n'est pas seulement de comparer abstraitement les états mesurables des grandeurs ; elle consiste aussi, dans le monde de l'art et de l'action, dans le domaine des réalités concrètes, à fixer par une valeur absolue les conditions de validité, de bonté, d'équilibre, d'ordre, de vitalité. Et ainsi Platon est amené à concevoir la correspondance étroite d'une chose à un nombre absolu, à une mesure qui vaut par elle-même.
 
 [p. 344] LES
 
 PHILOSOPHES -GÉOMÈTRES DE LA GRÈCE
 
-Le Philèbe offre des indices manifestes de cet état d'esprit. A la fin du dialogue quand arrive la fameuse classification des biens qui terminent le dialogue, « tu publieras partout, Protarque, dit Socrate, aux absents par des envoyés, aux présents par toi-même, que le plaisir n'est ni le premier, ni le second bien ; mais que le premier bien est la mesure, le juste milieu, l'à propos, et toutes les autres qualités semblables, qu'on doit regarder comme ayant en partage une nature immuable¹ ».
+Le Philèbe offre des indices manifestes de cet état d'esprit. A la fin du dialogue quand arrive la fameuse classification des biens qui terminent le dialogue, « tu publieras partout, Protarque, dit Socrate, aux absents par des envoyés, aux présents par toi-même, que le plaisir n'est ni le premier, ni le second bien ; mais que le premier bien est la mesure, le juste milieu, l'à propos, et toutes les autres qualités semblables, qu'on doit regarder comme ayant en partage une nature immuable[^p344-1] ».
 
 Cette mesure, qui a par elle-même une signification esthétique et morale, ne nous éloigne pas beaucoup du nombre, condition d'ordre et d'harmonie. Déjà cependant nous retrouvons dans la valeur absolue qui lui est conférée quelque chose de cette propriété mystique qui, aux yeux de Pythagore, semblait servir de lien profond entre les nombres et les choses. Si l'on veut enfin un exemple saisissant où le symbolisme du nombre ne connaisse aucune limite, il suffit de se reporter au passage du Timée où il est question des éléments des corps (terre, cau, air, feu) et auquel nous avons déjà fait allusion.
 
 la
 
-D'abord, on l'a vu, les corpuscules élémentaires revêtent la forme de quatre polyèdres réguliers, forme du cinquième solide parfait, du dodécaèdre, est attribuée à l'ensemble de l'univers. Il n'existe, on le [^p344-1]
+D'abord, on l'a vu, les corpuscules élémentaires revêtent la forme de quatre polyèdres réguliers, forme du cinquième solide parfait, du dodécaèdre, est attribuée à l'ensemble de l'univers. Il n'existe, on le
 
 [p. 345] PYTHAGORISME sait, que cinq solides réguliers. Les Pythagoriciens les avaient déjà étudiés avec admiration ; Platon veut que chacun d'eux soit utilisé et réponde à quelque réalité concrète dans la constitution de l'univers physique.
 
@@ -3684,13 +3684,13 @@ Philosophes-Géomètres.
 
 G. MILHAUD.
 
-21 [p. 346] jours par deux, Dieu a placé l'eau et l'air entre et la terre, et c'est ainsi qu'il a construit par cette u ce ciel visible et tangible. C'est donc de cette ma et de telles espèces de corps au nombre de quatre été formé le corps du monde, plein de proporti d'harmonie, et qui tient de sa composition cet ar par lequel il s'unit de manière à ne faire qu'un lui-même, et de telle sorte que son union ne peut rompue par rien, si ce n'est par celui qui l'a établic Il n'y a pas lieu de s'arrêter sur les lignes où se tro rappelée la propriété des termes d'une proportion pouvoir s'échanger entre eux de certaine façon. Qu aux théorèmes arithmétiques auxquels il est ens fait allusion, bien que nous les ayons mention déjà, il ne sera pas inutile d'y revenir, pour don l'explication complète de ce passage.
+21 [p. 346] jours par deux, Dieu a placé l'eau et l'air entre et la terre, et c'est ainsi qu'il a construit par cette u ce ciel visible et tangible. C'est donc de cette ma et de telles espèces de corps au nombre de quatre été formé le corps du monde, plein de proporti d'harmonie, et qui tient de sa composition cet ar par lequel il s'unit de manière à ne faire qu'un lui-même, et de telle sorte que son union ne peut rompue par rien, si ce n'est par celui qui l'a établic Il n'y a pas lieu de s'arrêter sur les lignes où se tro rappelée la propriété des termes d'une proportion pouvoir s'échanger entre eux de certaine façon. Qu aux théorèmes arithmétiques auxquels il est ens fait allusion, bien que nous les ayons mention déjà, il ne sera pas inutile d'y revenir, pour don l'explication complète de ce passage.[^p346-2][^p346-1]
 
 Deux termes A, D peuvent être liés par une p
 
 A
 
-B portion à l'aide d'un seul moyen B, si l'on a [^p346-1][^p346-2]
+B portion à l'aide d'un seul moyen B, si l'on a
 
 [p. 347] PYTHAGORISME Ou bien ils sont liés à l'aide de deux moyens B, C, et
 
@@ -3727,11 +3727,11 @@ Soient deux nombres plans a Xa et b × 6 ; on peut en faire les termes extrêmes
 
 il n'existe aucun nombre solide qui soit moyen proportionnel entre eux : cela résulte très simplement de ce que leur produit a³ × b³ n'est pas le carré d'un nombre entier (si, bien entendu, on suppose a et b distincts, ce qui est assez naturel puisque l'une de ces dimensions appartiendra à la terre et l'autre au feu). Il faut donc deux moyens termes pour former la proportion,
 
-et l'on voit sans difficulté que a × a × bet a × b × b répondent à la question¹.
+et l'on voit sans difficulté que a × a × bet a × b × b répondent à la question[^p349-1].
 
 Ainsi le lien le meilleur, la proportion, ne peut unir les solides extrêmes feu et terre, pour la beauté, l'unité, la stabilité, de l'univers, que si l'on admet l'existence de deux autres solides formant les moyens termes. Et voilà pourquoi il y a dans le monde de l'air et de l'eau.
 
-Cette page est certainement une de celles où se mar [^p349-1]
+Cette page est certainement une de celles où se mar
 
 [p. 350] LES quent le plus fortement les tendances pythagoriciennes de l'esprit de Platon. Les nombres et les corps sont si peu distingués les uns des autres qu'on a quelque peine à saisir exactement, dans la suite des idées qui constitue le raisonnement du Timée, les instants précis où l'on passe des choses concrètes aux propriétés abstraites des nombres, ou inversement de celles-ci à celles-là. La démonstration ne vaut que s'il y a plus qu'une correspondance des unes aux autres, et si l'on consent à supprimer entre
 
@@ -3827,11 +3827,11 @@ Il faut accepter comme nécessaire à toute pensée une certaine communication d
 
 [p. 361] SYNTHÉTISME est
 
-essentiellement inalliable et ne peut participer d'aucune autre » est une tentative irréalisable et incompréhensible ; car, pour se justifier, on serait obligé d'admettre en son langage cette participation que l'on conteste. « Il faut bien à toute force qu'ils se servent des mots etre, séparément, le même, autre, et de mille autres du même genre, incapables qu'ils sont de les mêler dans leur discours ; de sorte qu'ils n'ont besoin de personne qui les réfute, mais qu'ils logent comme on dit l'ennemi avec eux, et vont portant partout en eux-mêmes leur contradicteur, comme ce pauvre fou d'Euryclès¹. »>
+essentiellement inalliable et ne peut participer d'aucune autre » est une tentative irréalisable et incompréhensible ; car, pour se justifier, on serait obligé d'admettre en son langage cette participation que l'on conteste. « Il faut bien à toute force qu'ils se servent des mots etre, séparément, le même, autre, et de mille autres du même genre, incapables qu'ils sont de les mêler dans leur discours ; de sorte qu'ils n'ont besoin de personne qui les réfute, mais qu'ils logent comme on dit l'ennemi avec eux, et vont portant partout en eux-mêmes leur contradicteur, comme ce pauvre fou d'Euryclès[^p361-1]. »>
 
 Laissera-t-on d'ailleurs à toutes les idées le pouvoir de communiquer entre elles ?
 
-Non assurément ; les contradictoires devront s'exclure. Mais il reste que certains genres pourront et devront se mêler « à peu près de même que pour les lettres de l'alphabet, dont les unes s'accordent et les autres ne s'accordent pas ensemble... les voyelles ont sur les autres lettres ce privilège de s'interposer entre toutes et de leur servir de lien, tellement que, sans le secours de quelques voyelles, il est impossible de faire accorder les autres lettres entre elles. » De la même façon il faut qu'il y ait des genres que leur universalité met particulièrement en évidence, des catégories en quelque sorte dont la parti-[^p361-1]
+Non assurément ; les contradictoires devront s'exclure. Mais il reste que certains genres pourront et devront se mêler « à peu près de même que pour les lettres de l'alphabet, dont les unes s'accordent et les autres ne s'accordent pas ensemble... les voyelles ont sur les autres lettres ce privilège de s'interposer entre toutes et de leur servir de lien, tellement que, sans le secours de quelques voyelles, il est impossible de faire accorder les autres lettres entre elles. » De la même façon il faut qu'il y ait des genres que leur universalité met particulièrement en évidence, des catégories en quelque sorte dont la parti-
 
 [p. 362] cipation réciproque et la participation à l'égard des autres genres permettent de réaliser la synthèse nécessaire à toute pensée, à tout jugement, à tout discours. Le premier, c'est évidemment l'être ; le repos et le mouvement peuvent se mêler avec lui, car tous deux ils sont : cela fait déjà trois. Mais par cela même qu'ils sont trois et que chacun est autre que les deux autres et le même que soi, il nous faut ajouter deux nouveaux genres à leur liste, le même et l'autre. Et, en dépit de l'ordre où Platon a fait son énumération, il n'est pas difficile de voir que l'être, le même et l'autre seront les catégories les plus universelles, les éléments primitifs essentiels qui présideront au mélange des idées, comme les voyelles au groupement des lettres.
 
@@ -3841,19 +3841,19 @@ Si toute idée participe de l'être en ce sens qu'elle est, et du même en ce se
 
 Le non-être n'est pas le contraire de l'être mais seulement quelque chose d'autre. « Qu'on ne vienne pas nous reprocher qu'après avoir présenté le non être comme le contraire de l'être, nous osons affirmer son existence ; car, quant
 
-[p. 363] SYNTHÉTISME à un contraire de l'être, il y a longtemps que nous avons renoncé à discuter s'il y en a ou s'il n'y en a pas, si l'on peut ou non l'expliquer. Mais pour la définition que nous venons de donner du non-être, qu'on nous prouve en nous réfutant qu'elle est fausse ; ou, tant qu'on ne pourra le faire, il faut qu'on dise ce que nous avons dit, que les genres se mêlent les uns avec les autres, que l'être et l'autre pénètrent dans tous, et aussi l'un dans l'autre ; que l'autre, participant à l'être, est par cette participation, et n'est pourtant pas ce à quoi il participe, mais quelque chose d'autre ; qu'étant autre que l'être, il ne peut évidemment être que le non être ; que l'être à son tour participant à l'autre est autre que tous les autres genres : qu'étant autre qu'eux tous il n'est pas chacun d'eux, ni eux tous à la fois, et n'est que lui-même : en sorte qu'incontestablement il y a mille choses que l'être n'est pas, par rapport à mille choses, et on peut dire de même de chacun des autres genres et de tous à la fois qu'ils sont de plusieurs manières, et que de plusieurs manières ils ne sont pas¹. »>
+[p. 363] SYNTHÉTISME à un contraire de l'être, il y a longtemps que nous avons renoncé à discuter s'il y en a ou s'il n'y en a pas, si l'on peut ou non l'expliquer. Mais pour la définition que nous venons de donner du non-être, qu'on nous prouve en nous réfutant qu'elle est fausse ; ou, tant qu'on ne pourra le faire, il faut qu'on dise ce que nous avons dit, que les genres se mêlent les uns avec les autres, que l'être et l'autre pénètrent dans tous, et aussi l'un dans l'autre ; que l'autre, participant à l'être, est par cette participation, et n'est pourtant pas ce à quoi il participe, mais quelque chose d'autre ; qu'étant autre que l'être, il ne peut évidemment être que le non être ; que l'être à son tour participant à l'autre est autre que tous les autres genres : qu'étant autre qu'eux tous il n'est pas chacun d'eux, ni eux tous à la fois, et n'est que lui-même : en sorte qu'incontestablement il y a mille choses que l'être n'est pas, par rapport à mille choses, et on peut dire de même de chacun des autres genres et de tous à la fois qu'ils sont de plusieurs manières, et que de plusieurs manières ils ne sont pas[^p363-1]. »>
 
-Désormais le passage du même à l'autre n'est plus en question ; l'attitude purement logique est abandonnée : et nous en arrivons à poser la question que nous avons déjà fait prévoir, et que le rapprochement avec Kant a [^p363-1]
+Désormais le passage du même à l'autre n'est plus en question ; l'attitude purement logique est abandonnée : et nous en arrivons à poser la question que nous avons déjà fait prévoir, et que le rapprochement avec Kant a
 
-[p. 364] LES PHILOSOPHES -GÉOMÈTRES DE LA GRÈCE rendue d'avance plus naturelle : ce synthétisme, vers lequel il y a lieu d'admettre que Platon a évolué, si l'on songe que le Parménide et le Sophiste font très probablement partie des dernières œuvres¹, n'a-t-il pas été fortement encouragé par le contact de la géométrie nouvelle, que notre philosophe semble avoir passionnément cultivée ?
+[p. 364] LES PHILOSOPHES -GÉOMÈTRES DE LA GRÈCE rendue d'avance plus naturelle : ce synthétisme, vers lequel il y a lieu d'admettre que Platon a évolué, si l'on songe que le Parménide et le Sophiste font très probablement partie des dernières œuvres[^p364-1], n'a-t-il pas été fortement encouragé par le contact de la géométrie nouvelle, que notre philosophe semble avoir passionnément cultivée ?
 
-Tout d'abord les géomètres du vº siècle avaient certainement rompu avec la vieille conception pythagoricienne selon laquelle la ligne n'est qu'une somme de points juxtaposés, la surface une somme de lignes, le solide une somme de surfaces. Etaient-ce les redoutables attaques des Eléates qui avaient mis fin à cet atomisme spatial, était-ce le progrès naturel de la science, il n'est pas douteux en tous cas que Platon le rejette. Le témoignage d'Aristote à cet égard est très précis : « D'où viennent les points qui seront dans les corps (ένυπάρξουσι) ? Platon combattait lui aussi ce genre de point, comme répondant seulement à une façon de parler géométrique ; pour lui, il appelait le point principe de la ligne (ἀρχὴν γραμμῆς). C'est ce qu'il disait souvent quand il posait les lignes indivisibles. Il est nécessaire que celles-ci aient une limite : de sorte que les raisons d'exister de la ligne sont aussi celles du point². » Si la traduction de ce passage est difficile, l'idée exprimée se [^p364-1][^p364-2]
+Tout d'abord les géomètres du vº siècle avaient certainement rompu avec la vieille conception pythagoricienne selon laquelle la ligne n'est qu'une somme de points juxtaposés, la surface une somme de lignes, le solide une somme de surfaces. Etaient-ce les redoutables attaques des Eléates qui avaient mis fin à cet atomisme spatial, était-ce le progrès naturel de la science, il n'est pas douteux en tous cas que Platon le rejette. Le témoignage d'Aristote à cet égard est très précis : « D'où viennent les points qui seront dans les corps (ένυπάρξουσι) ? Platon combattait lui aussi ce genre de point, comme répondant seulement à une façon de parler géométrique ; pour lui, il appelait le point principe de la ligne (ἀρχὴν γραμμῆς). C'est ce qu'il disait souvent quand il posait les lignes indivisibles. Il est nécessaire que celles-ci aient une limite : de sorte que les raisons d'exister de la ligne sont aussi celles du point[^p364-2]. » Si la traduction de ce passage est difficile, l'idée exprimée se
 
 [p. 365] SYNTHÉTISME dégage pourtant avec clarté. Le point n'est plus aux yeux de Platon un élément de la ligne, ce n'est plus un στοιχεῖον, c'est une ἀρχή. Le mot στοιχεῖον ne figure pas ici, il est vrai, mais l'expression même d'ἐνυπάρξουσι ', et l'opposition de l'ἀρχὴ à ce genre (τούτῳ τῷ γένει) le désignent suffisamment. Or si nous nous reportons aux caractères essentiels du στοιχεῖον, et de l'ἀρχὴ tels qu'Aristote les expose dans le IV. livre de la Métaphysique, nous remarquons que le premier est en somme une partie de la chose dont il est élément constitutif, indivisible ou divisible en éléments homogènes (ἀλλὰ κἄν διαιρεῖται, τὰ μόρια ὁμοειδή, οἷον
 
-ὕδατος τὸ μόριον ὕδωρ...), tandis que l'ἀρχὴ est quelque chose d'hétérogène par rapport à ce dont elle est le principe, soit qu'on y voie la limite, commencement ou fin, soit qu'on y voie un principe générateur et dynamique. La conception du point contre laquelle s'élève Platon, c'est donc cette vue naïve du point comme fragment de ligne, ou de la ligne comme somme de morceaux juxtaposés. S'il pouvait y voir comme un écho du langage des géomètres, c'est qu'à chaque instant ceux-ci parlent des points comme de choses composant la ligne ; ils disent couramment : prenons un point sur cette ligne, prenonsen un second, un troisième,
+ὕδατος τὸ μόριον ὕδωρ...), tandis que l'ἀρχὴ est quelque chose d'hétérogène par rapport à ce dont elle est le principe, soit qu'on y voie la limite, commencement ou fin, soit qu'on y voie un principe générateur et dynamique. La conception du point contre laquelle s'élève Platon, c'est donc cette vue naïve du point comme fragment de ligne, ou de la ligne comme somme de morceaux juxtaposés.[^p365-1] S'il pouvait y voir comme un écho du langage des géomètres, c'est qu'à chaque instant ceux-ci parlent des points comme de choses composant la ligne ; ils disent couramment : prenons un point sur cette ligne, prenonsen un second, un troisième,
 
-tous les points de cette [^p365-1]
+tous les points de cette
 
 [p. 366] LES PHILOSOPHES- GÉOMÈTRES DE LA GRÈCE ligne ont telle propriété, etc... Mais il se refusait à y voir autre chose qu'une façon de voir, une façon de parler, un δόγμα ; à ses yeux ce n'était point une vérité. La ligne n'est pas ainsi divisée en éléments homogènes, et, dans ce sens, elle est ἄτομος. On fait apparaître un point en la bornant, en la limitant, en lui donnant un commencement ou une fin (ce qui est le premier sens de l'ἀρχὴ d'Aristote, Met., 1, 1). Sans doute aussi Platon aurait reconnu le caractère générateur de ce principe, dont la ligne pourra être posée comme la trajectoire, ou sa nature potentielle, en ce sens qu'il est possible de faire naître sur une ligne autant de points qu'on veut, par des déterminations successives, qui donneront à la ligne une série de limites différentes. De toutes façons, le point n'est plus un élément homogène à la ligne. — Il en serait évidemment de même de la ligne par rapport à la surface, et de la surface par rapport au solide. Aristote adresse souvent aux partisans des idées le reproche de méconnaître dans leur application des idées aux choses mathématiques l'hétérogénéité évidente que présentent les volumes, les surfaces, les lignes, les points : « Comment la surface peut-elle contenir la ligne, dit-il dans cette même page de la Métaphysique à laquelle nous avons emprunté la citation précédente : comment le solide contient-il la ligne et la surface, puisque le large et l'étroit sont des genres différents, comme le sont également l'épais et le mince ? » —
 
@@ -3947,23 +3947,23 @@ Philosophes -Géomètres.
 
 23
 
-[p. 378] Avec le Parménide et le Sophiste le problème c l'un et du multiple a été définitivement écarté de tou conception extensive et additive, et le dernier mot été cette conclusion de Platon que chaque idée part cipe à la fois de l'être et du non-être, du même et d l'autre. Le Philèbe nous fait faire un pas de plus, le idées « sont composées d'un et de plusieurs et réunis sent en elles, par leur nature, le fini et l'infini ». A la participation nécessaire au tissu, que forment inévitablement les idées, s'ajoute la détermination rigoureuse et quantitative. Entre l'un et l'infini du non-être, de l'autre, du variable, il faut pouvoir fixer une limite précise qui arrête la variation, l'écoulement, et montre dans l'idée telle fonction de telles autres. Platon, pour éclaircir sa pensée, emprunte des comparaisons à la grammaire et à la musique. « La voix qui nous sort de la bouche est une et en même temps infinie en nombre pour tous et pour chacun... Nous ne sommes point encore savants par l'un ni par l'autre de ces points, ni [^p378-1]
+[p. 378] Avec le Parménide et le Sophiste le problème c l'un et du multiple a été définitivement écarté de tou conception extensive et additive, et le dernier mot été cette conclusion de Platon que chaque idée part cipe à la fois de l'être et du non-être, du même et d l'autre. Le Philèbe nous fait faire un pas de plus, le idées « sont composées d'un et de plusieurs et réunis sent en elles, par leur nature, le fini et l'infini ». A la participation nécessaire au tissu, que forment inévitablement les idées, s'ajoute la détermination rigoureuse et quantitative. Entre l'un et l'infini du non-être, de l'autre, du variable, il faut pouvoir fixer une limite précise qui arrête la variation, l'écoulement, et montre dans l'idée telle fonction de telles autres. Platon, pour éclaircir sa pensée, emprunte des comparaisons à la grammaire et à la musique. « La voix qui nous sort de la bouche est une et en même temps infinie en nombre pour tous et pour chacun...[^p378-1] Nous ne sommes point encore savants par l'un ni par l'autre de ces points, ni
 
 [p. 379] SYNTHÉTISME parce que nous savons que la voix est infinie ni parce nous savons qu'elle est une ; mais de savoir combien elle a d'éléments distincts, et quels ils sont, c'est là ce qui nous rend grammairiens... c'est aussi la même chose qui fait le musicien ;... la voix considérée par rapport à cet art est une ;... mettons-en de deux sortes, l'une grave, l'autre aiguë, et une troisième... Si tu ne sais que cela, tu n'es point encore habile dans la musique ; et si tu l'ignores, tu n'es, pour ainsi dire, capable de rien en ce genre.
 
-Mais, mon cher ami, quand tu connais le nombre des intervalles de la voix, tant pour le son aigu que pour le son grave, la qualité et les bornés de ces intervalles, et les systèmes qui en résultent ; systèmes que les anciens ont découverts, et qu'ils nous ont laissés, à nous qui marchons sur leurs traces, sous le nom d'harmonies, comme aussi ils nous ont appris que des propriétés semblables se trouvent dans les mouvements du corps, et qu'étant mesurées par les nombres, elles doivent s'appeler rhythmes et mesures, et en même temps que nous devons procéder de cette manière dans l'examen de tout ce qui est un et plusieurs ; oui, lorsque tu as compris tout cela, c'est alors que tu es savant ; et quand, en suivant la même méthode, tu es parvenu à comprendre quelque autre chose que ce soit, tu as acquis l'intelligence de cette chose. Mais, perdu dans l'infini, tout échappe à ta connaissance ; et, pour n'avoir fait le compte [p. 380] précis d'aucune chose, tu n'es toi-même compté pour rien¹. »
+Mais, mon cher ami, quand tu connais le nombre des intervalles de la voix, tant pour le son aigu que pour le son grave, la qualité et les bornés de ces intervalles, et les systèmes qui en résultent ; systèmes que les anciens ont découverts, et qu'ils nous ont laissés, à nous qui marchons sur leurs traces, sous le nom d'harmonies, comme aussi ils nous ont appris que des propriétés semblables se trouvent dans les mouvements du corps, et qu'étant mesurées par les nombres, elles doivent s'appeler rhythmes et mesures, et en même temps que nous devons procéder de cette manière dans l'examen de tout ce qui est un et plusieurs ; oui, lorsque tu as compris tout cela, c'est alors que tu es savant ; et quand, en suivant la même méthode, tu es parvenu à comprendre quelque autre chose que ce soit, tu as acquis l'intelligence de cette chose. Mais, perdu dans l'infini, tout échappe à ta connaissance ; et, pour n'avoir fait le compte [p. 380] précis d'aucune chose, tu n'es toi-même compté pour rien[^p380-1]. »
 
 Quelques pages plus loin, le Philèbe est encore plus précis. Cet infini, dont les idées sont formées conjointement avec le fini, est caractérisé en somme par le plus et le moins. Il représente bien vraiment le principe de variation indéfinie et vague de multiplicité indéterminée qui doit se combiner avec le principe de fixité, d'égalité et de détermination pour que ce mélange transforme les idées en nombres, et explique leur rigoureuse perfection. Les exemples abondent encore :
 
-« N'est-il pas vrai que, dans les maladies, le juste mélange du fini et de l'infini produit la santé ?... Que le même mélange, lorsqu'il se fait en ce qui est aigu et grave, vite et lent, phénomènes qui appartiennent à l'infini, imprime le caractère du fini, et donne la forme la plus parfaite à toute la musique... Pareillement, lorsqu'il a lieu à l'égard du froid et du chaud, il en ôte le trop et l'infini, et y substitue la mesure et la proportion... Les saisons, et tout ce qu'il y a de beau dans la nature ne naît-il pas de ce mélange de l'infini et du fini... je passe sous silence une infinité d'autres choses, telles que la beauté et la force avec la santé, et dans l'âme d'autres qualités très belles et en grand nombre².
+« N'est-il pas vrai que, dans les maladies, le juste mélange du fini et de l'infini produit la santé ?... Que le même mélange, lorsqu'il se fait en ce qui est aigu et grave, vite et lent, phénomènes qui appartiennent à l'infini, imprime le caractère du fini, et donne la forme la plus parfaite à toute la musique... Pareillement, lorsqu'il a lieu à l'égard du froid et du chaud, il en ôte le trop et l'infini, et y substitue la mesure et la proportion... Les saisons, et tout ce qu'il y a de beau dans la nature ne naît-il pas de ce mélange de l'infini et du fini... je passe sous silence une infinité d'autres choses, telles que la beauté et la force avec la santé, et dans l'âme d'autres qualités très belles et en grand nombre[^p380-2].
 
-»[^p380-1][^p380-2]
+»
 
 [p. 381] SYNTHÉTISME
 
-Que nous tenons bien dans ce fini et cet infini de Platon les éléments essentiels du nombre généralisé, de la fonction rigoureusement déterminée, c'est ce qui résultera avec plus de clarté encore de la lecture d'Aristote. Celui-ci insiste dans la Métaphysique sur ce que Platon, qui se rapproche beaucoup des Pythagoriciens, s'en éloigne cependant sur plusieurs points et en particulier par la substitution d'un principe double, la dyade du grand et du petit, à leur infini ; il ajoute d'ailleurs que cette dyade est l'élément matériel de l'idée, et s'ajoute à l'un pour former l'idée elle-même¹. Ce témoignage d'Aristote est des plus instructifs. Le Philèbe définissait déjà l'ἄπειρον par ses caractères propres, le plus et le moins. Dans son enseignement oral, Platon allait plus loin et substituait décidément à l'ἄπειρον la dyade indéterminée du grand et du petit. Et Aristote a soin de faire remarquer qu'en y joignant l'unité, Platon formait en somme les idées comme les nombres. Si bien que dans sa réfutation des théories platoniciennes, s'adressant à ceux qui voient dans l'idée le résultat d'une sorte de mélange de l'unité et de la dyade, il en arrive à dire : « Si les idées ne sont pas des nombres, elles ne sont plus rien. »
+Que nous tenons bien dans ce fini et cet infini de Platon les éléments essentiels du nombre généralisé, de la fonction rigoureusement déterminée, c'est ce qui résultera avec plus de clarté encore de la lecture d'Aristote. Celui-ci insiste dans la Métaphysique sur ce que Platon, qui se rapproche beaucoup des Pythagoriciens, s'en éloigne cependant sur plusieurs points et en particulier par la substitution d'un principe double, la dyade du grand et du petit, à leur infini ; il ajoute d'ailleurs que cette dyade est l'élément matériel de l'idée, et s'ajoute à l'un pour former l'idée elle-même[^p381-1]. Ce témoignage d'Aristote est des plus instructifs. Le Philèbe définissait déjà l'ἄπειρον par ses caractères propres, le plus et le moins. Dans son enseignement oral, Platon allait plus loin et substituait décidément à l'ἄπειρον la dyade indéterminée du grand et du petit. Et Aristote a soin de faire remarquer qu'en y joignant l'unité, Platon formait en somme les idées comme les nombres. Si bien que dans sa réfutation des théories platoniciennes, s'adressant à ceux qui voient dans l'idée le résultat d'une sorte de mélange de l'unité et de la dyade, il en arrive à dire : « Si les idées ne sont pas des nombres, elles ne sont plus rien. »
 
-Cette fois le doute ne semble pas permis sur le terme où aboutissait la pensée de Platon. L'idée s'identifiait [^p381-1][^p381-2]
+Cette fois le doute ne semble pas permis sur le terme où aboutissait la pensée de Platon.[^p381-2] L'idée s'identifiait
 
 [p. 382] au nombre par les deux principes fondamentaux dont elle se formait, le fini et l'infini, l'un et la dyade du grand et du petit, c'est-à-dire par le principe de variation et le principe de fixité, éléments qui restent seuls à constituer la notion du nombre, quand à sa première définition naïvement extensive s'est substitué peu à peu le mode général de dépendance rigoureusement déterminé. Du premier degré au dernier la distance peut sembler grande : le chemin qui a conduit Platon de l'un à l'autre a du moins quelque uniformité. La qualité a pu s'introduire de plus en plus ; l'autre, l'hétérogène, le non-être, en s'imposant et en détournant l'esprit d'une vue simplement additive, pour l'amener à une synthèse, à une participation d'un nouveau genre, ont laissé pénétrer la diversité qualitative, et, loin de détruire le nombre, en ont élargi la signification. Les idées spécifiquement distinctes continueront d'ailleurs à puiser leur être qualitatif à la source de l'idée du bien, pendant que celle-ci sera le principe d'unité qui, selon les expressions de l'Epinomis, rendra semblables les choses dissemblables par nature, expliquera leur rapport et sera le fondement de leur détermination réciproque, c'est-à-dire leur nombre.
 
@@ -3977,19 +3977,19 @@ La critique des Idées-Nombres que présente déjà le premier livre de la Méta
 
 « Que les unités ne présentent aucune différence entre elles, ou qu'elles diffèrent chacune de chacune, il n'est pas moins nécessaire que le nombre se forme et se compte toujours par addition.
 
-Par exemple, deux se compose après un, par l'addition d'une unité nouvelle ; trois se forme par l'addition de un à deux¹, etc... » A cette notion naïve du nombre qu'Aristote ne dépasse pas une seule fois dans la longue discussion à laquelle il soumet la théorie de son maître, on peut ajouter cette sorte de postulat que le nombre mathématique ne porte que sur des unités identiques qui peuvent se combiner entre elles, tandis que les unités des idées-nombres doivent impliquer des différences qualitatives, correspondre à des ordres différents d'antériorité logique, se prêter à une certaine hiérarchie : on aura ainsi le fond de ce qui fait l'argu [^p383-1]
+Par exemple, deux se compose après un, par l'addition d'une unité nouvelle ; trois se forme par l'addition de un à deux[^p383-1], etc... » A cette notion naïve du nombre qu'Aristote ne dépasse pas une seule fois dans la longue discussion à laquelle il soumet la théorie de son maître, on peut ajouter cette sorte de postulat que le nombre mathématique ne porte que sur des unités identiques qui peuvent se combiner entre elles, tandis que les unités des idées-nombres doivent impliquer des différences qualitatives, correspondre à des ordres différents d'antériorité logique, se prêter à une certaine hiérarchie : on aura ainsi le fond de ce qui fait l'argu
 
 [p. 384] mentation d'Aristote et on comprendra sans peine la quantité d'absurdités qu'il mettra en évidence toutes les fois qu'il essaiera de rapprocher l'idée-nombre du nombre mathématique.
 
-« Si l'on admet que toutes les unités peuvent se combiner ensemble et qu'elles ne présentent aucune différence, on a alors le nombre mathématique ; il n'y a que ce nombre tout seul, et il est impossible que les idées soient des nombres. En effet, quelle sorte de nombre pourrait bien être l'homme en soi, l'animal en soi, ou toute autre idée¹ ?... »
+« Si l'on admet que toutes les unités peuvent se combiner ensemble et qu'elles ne présentent aucune différence, on a alors le nombre mathématique ; il n'y a que ce nombre tout seul, et il est impossible que les idées soient des nombres. En effet, quelle sorte de nombre pourrait bien être l'homme en soi, l'animal en soi, ou toute autre idée[^p384-1] ?... »
 
 Comment ne pas songer en lisant ces lignes aux efforts faits par Platon pour expliquer que la justice ou la vertu ou le beau ou le bien sera un nombre, sansque les parties qu'on trouvera pour le composer soient identiques entre elles ? Comment oublier que cette préoccupation le poursuit jusqu'à la fin de sa vie, puisque nous en retrouvons la trace dans le XIIº livre des lois ; et comment ne pas accuser Aristote de n'avoir pu comprendre le synthétisme de Platon, quand, avec les dialogues seuls, sans les informations autrement précieuses qui nous viendraient des leçons orales, nous pouvons lui opposer la pensée méconnue de son maître ?
 
-« D'autre part si les unités sont incompatibles entre [^p384-1]
+« D'autre part si les unités sont incompatibles entre
 
 [p. 385] SYNTHÉTISME elles, et incompatibles au point que chacune ne peut se combiner avec aucune autre, il n'est plus possible que ce nombre soit le nombre mathématique.
 
-ne sera pas non plus le nombre idéal, car la première dyade ne pourrait plus se composer de l'unité et de la dyade indéfinie, non plus que les nombres venant à la suite les uns des autres¹, etc... »
+ne sera pas non plus le nombre idéal, car la première dyade ne pourrait plus se composer de l'unité et de la dyade indéfinie, non plus que les nombres venant à la suite les uns des autres[^p385-1], etc... »
 
 Ce
 
@@ -3997,7 +3997,7 @@ Aristote entend de la façon la plus naïve la composition du nombre par l'unit�
 
 Nous savons bien, et le témoignage d'Aristote luimême relatif au grand et au petit nous a servi à l'établir, que l'un et la dyade sont pour Platon les principes généraux de fixité, d'égalité, de détermination, d'une part,
 
-et d'autre part de variabilité indéfinie, puisqu'ils sont les noms nouveaux du πέρας et de Ι'ἄπειρον. Au reste il suffirait pour répondre à ces premières objections d'Aristote, sans s'éloigner du domaine [^p385-1]
+et d'autre part de variabilité indéfinie, puisqu'ils sont les noms nouveaux du πέρας et de Ι'ἄπειρον. Au reste il suffirait pour répondre à ces premières objections d'Aristote, sans s'éloigner du domaine
 
 [p. 386] LES PHILOSOPHES GÉOMÈTRES DE LA GRÈCE proprement mathématique, de lui demander par quelle addition d'unités ou par quelle intervention de l'unité et de la dyade, telles qu'il les emploie dans le nombre arithmétique, il réussirait à former quelqu'une de ces irrationnelles plus ou moins compliquées dont Théétète s'était déjà exercé à dresser une classification. Les plus simples √2, √3, n'échappent-elles pas à toute combinaison additive d'un nombre fini d'éléments ? et, s'il faut y voir des états de la quantité numérique, l'un et la dyade ne les forment-ils pas autrement que par simple répétition de l'unité ?
 
@@ -4027,7 +4027,7 @@ et alors comment songer à les relier les uns aux autres par les éléments du n
 
 Comment faire comprendre la pénétration par le nombre des figures de plus en plus complexes, l'adaptation au nombre de l'intuition spatiale sous toutes ses formes, à qui n'a pas senti profondément tout ce qu'il y a de merveilleux dans cette union de la quantité et de la qualité spécifique : union d'où celle-ci reçoit le principe de son essence, tandis que la première y trouve les conditions mêmes de son complet développement ?
 
-Quelques pages plus loin¹, Aristote marque mieux [^p387-1]
+Quelques pages plus loin[^p387-1], Aristote marque mieux
 
 [p. 388] LES PHILOSOPHES GÉOMÈTRES DE LA GRÈCE encore peut-être la distance où il est de Platon dans sa conception des genres mathématiques, en déclarant qu'on ne saurait constituer le nombre avec des éléments tels que l'égal et l'inégal ou le grand et le petit, qui expriment des relations. Rien ne saurait aussi bien prouver qu'il n'a pas serré de près la pensée de son maître, et qu'il n'a pas saisi cette attitude synthétique par laquelle, s'éloignant des vues extensives et additives où le nombre apparaissait comme une combinaison de choses juxtaposées, Platon a été amené à voir l'essence de la quantité dans un mode spécial de participation, de dépendance réciproque, dans une relation.
 

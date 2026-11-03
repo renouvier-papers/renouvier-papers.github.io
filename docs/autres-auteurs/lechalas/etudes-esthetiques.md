@@ -98,7 +98,7 @@ Nous aurons à revenir sur cette page si caractéristique ; pour l'instant, nous
 
 ne pas reconnaître un caractère tout subjectif à cette proscription de la simple campagne, sous prétexte qu'elle est changeante, alors que, sous ce changement essentiellement périodique, se manifeste, avec un tel éclat, le retour constant des mêmes effets sous l'influence des saisons, si bien qu'un champ couvert d'épis mûrs représente à lui seul un spectacle mille fois répété à travers l'espace et le temps ? Par là l'esthéticien scientifique, qui s'annonçait comme ayant d'égales sympathies pour toutes les écoles, nous apparaît en réalité comme réunissant, à un rare degré, le double caractère du critique dogmatique et du critique livré au jeu de ses impressions. Il confirme donc, d'une façon imprévue et quasi paradoxale, le classement en deux grands groupes que nous avons fait des critiques.
 
-Si de ceux-ci on passe aux esthéticiens proprement dits, le même classement se manifestera, avec des essais de conciliation. Déjà l'on a dressé bien des listes de définitions du beau, et nous avons songé à reprendre ce travail, car il arrive bien souvent qu'un philosophe, ne procédant en rien more geometrico, ne pose pas une définition fondamentale à laquelle tout se ramène, mais hasarde des aperçus successifs où chacun peut choisir la formule qui lui parait résumer le plus exactement la pensée de l'auteur. Il en résulte que ce répertoire est toujours à refaire au gré de chacun. Nous n'avons pas cependant tardé à renoncer à cette entreprise, car il nous a semblé qu'à lire une série de définitions, souvent assez vagues et voisines les unes des autres, l'esprit s'engourdirait plus qu'il ne s'éclairerait. Un ennemi du beau, Tolstoï, va nous donner les deux doubles définitions autour desquelles toute discussion tourne plus ou moins explicitement : « Il n'y a, dit-il, que deux définitions possibles de la beauté : l'une objective, mystique, noyant la notion de la beauté dans celle du parfait ou de Dieu, définition fantaisiste et sans fondement réel, ajoute-t-il ; l'autre, au contraire, très simple et très [p. 11] intelligible, mais toute subjective, et qui considère la beauté comme étant tout ce qui plaît » ¹.
+Si de ceux-ci on passe aux esthéticiens proprement dits, le même classement se manifestera, avec des essais de conciliation. Déjà l'on a dressé bien des listes de définitions du beau, et nous avons songé à reprendre ce travail, car il arrive bien souvent qu'un philosophe, ne procédant en rien more geometrico, ne pose pas une définition fondamentale à laquelle tout se ramène, mais hasarde des aperçus successifs où chacun peut choisir la formule qui lui parait résumer le plus exactement la pensée de l'auteur. Il en résulte que ce répertoire est toujours à refaire au gré de chacun. Nous n'avons pas cependant tardé à renoncer à cette entreprise, car il nous a semblé qu'à lire une série de définitions, souvent assez vagues et voisines les unes des autres, l'esprit s'engourdirait plus qu'il ne s'éclairerait. Un ennemi du beau, Tolstoï, va nous donner les deux doubles définitions autour desquelles toute discussion tourne plus ou moins explicitement : « Il n'y a, dit-il, que deux définitions possibles de la beauté : l'une objective, mystique, noyant la notion de la beauté dans celle du parfait ou de Dieu, définition fantaisiste et sans fondement réel, ajoute-t-il ; l'autre, au contraire, très simple et très [p. 11] intelligible, mais toute subjective, et qui considère la beauté comme étant tout ce qui plaît » [^p11-1].
 
 Beaucoup de définitions du beau se rattachent nettement à l'une des deux qui précèdent ou les combinent. Toutefois on peut en citer pour lesquelles le lien d'affinité est moins apparent. Telle est, par exemple, la fameuse formule d'après laquelle la condition nécessaire et suffisante de la beauté est l'unité dans la variété ; mais, comme le dit Jouffroy, condition n'est pas principe * ; d'ailleurs, sans discuter ici la valeur de cette formule, ne peut-on pas dire que l'unité est nécessaire pour rendre l'objet réellement intelligible, c'est-à-dire parfait en un certain sens, et que la variété ne l'est pas moins pour nous le rendre agréable ? Ainsi la formule de l'unité dans la variété constituerait une sorte d'application synthétique des deux définitions de Tolstoï.
 
@@ -108,7 +108,7 @@ D'autre part, Kant a su faire ressortir, en des formules malheureusement un peu 
 
 . La beauté est la forme de la finalité d'un objet, en tant qu'elle y est perçue sans représentation de la fin 5. Le beau est ce qui est reconnu sans concept comme l'objet d'une satisfaction nécessaire
 
-». Ces citations affirment d'une façon très nette la satisfaction ou le plaisir causés par le beau, puis elles manifestent une bien curieuse antinomie, à laquelle elles donnent peut-être la forme d'une véritable contradiction. D'une part est affirmé le caractère universel du beau, la nécessité de la satisfaction qu'il cause, et en [^p11-1][^p11-2][^p11-3][^p11-4][^p11-5][^p11-6]
+». Ces citations affirment d'une façon très nette la satisfaction ou le plaisir causés par le beau, puis elles manifestent une bien curieuse antinomie, à laquelle elles donnent peut-être la forme d'une véritable contradiction.[^p11-6][^p11-5][^p11-4][^p11-3][^p11-2] D'une part est affirmé le caractère universel du beau, la nécessité de la satisfaction qu'il cause, et en
 
 [p. 12]
 
@@ -116,17 +116,17 @@ D'autre part, Kant a su faire ressortir, en des formules malheureusement un peu 
 
 même temps on nie qu'un concept soit à la base de ces jugements'; de même, on affirme la nécessité de la finalité de l'objet, et l'on défend que la fin soit représentée à l'esprit. Ces exigences antinomiques ne posent-elles pas, en même temps, la négation, trop absolue, d'une intervention de la raison dans le jugement du beau, mais aussi l'affirmation du caractère essentiellement rationnel de la beauté et, par suite, de la perfection de l'objet méritant d'être jugé beau ?
 
-Le double caractère de la beauté avait, du reste, été bien aperçu par le premier esthéticien de langue française, de Crousaz : « Tous ceux, dit-il, qui, se piquant de ne pas parler simplement par coutume, voudront descendre dans eux-mêmes et faire attention à ce qui se passe chez eux, à ce qu'ils sentent et à la manière dont ils pensent, lorsqu'ils disent, cela est beau, s'apercevront qu'ils expriment par ce terme un certain rapport d'un objet avec des sentiments agréables, ou avec des idées d'approbation, et tomberont d'accord que dire, cela est beau, c'est dire, j'aperçois quelque chose que j'approuve, ou quelque chose qui me fait plaisir » 2. Continuant, Crousaz fait remarquer qu'on reconnaît parfois comme beau un objet qui ne nous touche pas, ne nous fait pas plaisir, et que de même, certains objets dont l'idée n'offre rien de louable, ne laissent pas d'exciter des sentiments agréables, « ce qui fait dire que ces objets plaisent sans être beaux » ².[^p12-1][^p12-2]
+Le double caractère de la beauté avait, du reste, été bien aperçu par le premier esthéticien de langue française, de Crousaz : « Tous ceux, dit-il, qui, se piquant de ne pas parler simplement par coutume, voudront descendre dans eux-mêmes et faire attention à ce qui se passe chez eux, à ce qu'ils sentent et à la manière dont ils pensent, lorsqu'ils disent, cela est beau, s'apercevront qu'ils expriment par ce terme un certain rapport d'un objet avec des sentiments agréables, ou avec des idées d'approbation, et tomberont d'accord que dire, cela est beau, c'est dire, j'aperçois quelque chose que j'approuve, ou quelque chose qui me fait plaisir » 2. Continuant, Crousaz fait remarquer qu'on reconnaît parfois comme beau un objet qui ne nous touche pas, ne nous fait pas plaisir, et que de même, certains objets dont l'idée n'offre rien de louable, ne laissent pas d'exciter des sentiments agréables, « ce qui fait dire que ces objets plaisent sans être beaux » [^p12-2].[^p12-1]
 
 [p. 13] Enfin qu'on nous permette de reproduire deux formules se rapprochant de plus en plus de celle que nous préférons :
 
-« Puisque le beau, dit Lamennais, n'est, dans son essence, que la manifestation du vrai, et que rien ne saurait être manifesté que par la forme qui détermine et spécifie l'être, il s'ensuit que le beau est l'être même en temps que doué de forme » ¹.
+« Puisque le beau, dit Lamennais, n'est, dans son essence, que la manifestation du vrai, et que rien ne saurait être manifesté que par la forme qui détermine et spécifie l'être, il s'ensuit que le beau est l'être même en temps que doué de forme » [^p13-1].
 
 Plus simplement dira Henri Marion : « Le beau c'est l'intelligible, mais revêtant des formes sensibles, parlant aux sens ou à l'imagination, touchant le cœur » *.
 
 Plus brièvement encore, nous dirons : le beau, c'est l'être affectant agréablement la sensibilité.
 
-Cette formule, qui a besoin, naturellement, d'être développée, présente l'avantage de rentrer dans une vue d'ensemble de la psychologie. Si l'âme humaine présente trois facultés fondamentales, l'intelligence, la volonté et la sensibilité, l'être doit se présenter sous trois formes différentes, suivant la faculté avec laquelle il entre en relation. Or nous trouvons précisément, dans le langage vulgaire, trois mots que n'ont point inventés les philosophes et qui paraissent répondre à ces trois relations de l'être avec notre âme, le vrai, le bien et le beau. Qu'est en effet le vrai, sinon l'être connu par l'intelligence ? le bien, sinon l'être, loi des volontés libres ? le beau, sinon l'être affectant agréablement notre sensibilité ? Hâtons-nous d'ajouter que, nos diverses facultés n'étant point des entités existant séparément, tout phénomène de conscience comprend un élément intellectuel, un élément volontaire et un élément sensible. En particulier, l'intelligence n'est étrangère ni au bien ni au beau, car, pour s'imposer aux volontés libres, l'être a besoin d'être connu, et, d'autre part, le beau suppose deux éléments, l'un objectif, qui doit être connu, et l'autre subjectif, qui n'est que l'état émotionnel de notre âme. Si l'on ne conservait que ce dernier élément, on [^p13-1][^p13-2]
+Cette formule, qui a besoin, naturellement, d'être développée, présente l'avantage de rentrer dans une vue d'ensemble de la psychologie. Si l'âme humaine présente trois facultés fondamentales, l'intelligence, la volonté et la sensibilité, l'être doit se présenter sous trois formes différentes, suivant la faculté avec laquelle il entre en relation. Or nous trouvons précisément, dans le langage vulgaire, trois mots que n'ont point inventés les philosophes et qui paraissent répondre à ces trois relations de l'être avec notre âme, le vrai, le bien et le beau. Qu'est en effet le vrai, sinon l'être connu par l'intelligence ? le bien, sinon l'être, loi des volontés libres ? le beau, sinon l'être affectant agréablement notre sensibilité ? Hâtons-nous d'ajouter que, nos diverses facultés n'étant point des entités existant séparément, tout phénomène de conscience comprend un élément intellectuel, un élément volontaire et un élément sensible. En particulier, l'intelligence n'est étrangère ni au bien ni au beau, car, pour s'imposer aux volontés libres, l'être a besoin d'être connu, et, d'autre part, le beau suppose deux éléments, l'un objectif, qui doit être connu, et l'autre subjectif, qui n'est que l'état émotionnel de notre âme.[^p13-2] Si l'on ne conservait que ce dernier élément, on
 
 [p. 14]
 
@@ -136,7 +136,7 @@ aurait l'agréable et non le beau, l'être n'apparaîtrait que par son résultat
 
 : « J'aime certes Platon, mais ce n'en est pas moins là un bel exemple de ces âneries immortelles que nous nous transmettons pieusement de génération en génération » 1.
 
-Prononcée sur ce ton et tombant de la bouche de M. Brunetière, cette condamnation sommaire eût pu se passer de tout motif à l'appui ; mais il a développé sa pensée, et ce nous est un devoir de la recueillir tout entière. « Si nous prenons, en effet, continue-t-il, la peine de vouloir bien nous entendre nous-mêmes, il n'y a aucune « beauté » dans un théorème de géométrie, non plus que dans une loi chimique, ou du moins la vérité n'y brille que d'un éclat doux, modeste et timide. Il n'y a de beauté, au sens humain du mot, que dans ces lois très générales qui sont à proprement parler des hypothèses plutôt que des lois, et dont je n'ai garde de médire, parce qu'il se pourrait que la recherche en fût l'objet même, l'objet le plus élevé de la science. On montrerait en revanche qu'il y a eu de fort belles erreurs... Mais, je le répète, et sans vouloir examiner la question, toujours est-il que, tout comme la beauté, la laideur est dans la nature ; et vous connaissez, nous [^p14-1]
+Prononcée sur ce ton et tombant de la bouche de M. Brunetière, cette condamnation sommaire eût pu se passer de tout motif à l'appui ; mais il a développé sa pensée, et ce nous est un devoir de la recueillir tout entière. « Si nous prenons, en effet, continue-t-il, la peine de vouloir bien nous entendre nous-mêmes, il n'y a aucune « beauté » dans un théorème de géométrie, non plus que dans une loi chimique, ou du moins la vérité n'y brille que d'un éclat doux, modeste et timide. Il n'y a de beauté, au sens humain du mot, que dans ces lois très générales qui sont à proprement parler des hypothèses plutôt que des lois, et dont je n'ai garde de médire, parce qu'il se pourrait que la recherche en fût l'objet même, l'objet le plus élevé de la science. On montrerait en revanche qu'il y a eu de fort belles erreurs...[^p14-1] Mais, je le répète, et sans vouloir examiner la question, toujours est-il que, tout comme la beauté, la laideur est dans la nature ; et vous connaissez, nous
 
 [p. 15] connaissons tous des artistes qui n'y ont vu qu'elle. Les romanciers ont même fait de la représentation de la laideur un article essentiel de leur esthétique ; — et ce n'est pas sans doute en ce point que le naturalisme contemporain les a désavoués ».
 
@@ -156,15 +156,15 @@ trois lignes droites et ayant trois angles égaux à deux droits, ni plus ni moi
 
 ## Introduction
 
-triangles, indépendamment de tout triangle existant est certain et indubitable. En quelque temps donné ou en quelque point de l'éternité, pour ainsi parler, qu'on mette un entendement, il verra ces vérités comme manifestes ; elles sont donc éternelles ¹.
+triangles, indépendamment de tout triangle existant est certain et indubitable. En quelque temps donné ou en quelque point de l'éternité, pour ainsi parler, qu'on mette un entendement, il verra ces vérités comme manifestes ; elles sont donc éternelles [^p16-1].
 
 « Sije cherche maintenant où et en quel sujet elles subsistent éternelles et immuables comme elles sont, je suis obligé d'avouer un être où la vérité estéternellement subsistante et où elle est toujours entendue ; et cet être doit être la vérité même, et doit être toute vérité, et c'est de lui que la vérité dérive dans tout ce qui est et ce qui entend hors de lui. C'est donc en lui d'une certaine manière qui m'est incompréhensible, c'est en lui, dis-je, que je vois ces vérités éternelles ; et les voir, c'est me tourner à celui qui est immuablement toute vérité et recevoir ses lumières » 2.
 
-Ne sent- on pas, en lisant ces paroles de Bossuet, non seulement ces dernières, mais aussi celles où il ne fait qu'énoncer les plus humbles propositions de la géométrie élémentaire, à quel point ces vérités le pénètrent d'une émotion philosophique et religieuse ? Assurément, pour lui, ces vérités sont belles, au sens le plus complet du mot, et il est de ces esprits qui savent s'élever, selon le mot de Malebranche, dans le monde des beautés intelligibles, ce pays de la vérité, où ils trouvent des mets délicieux et qui seuls peuvent nourrir des intelligences³.
+Ne sent- on pas, en lisant ces paroles de Bossuet, non seulement ces dernières, mais aussi celles où il ne fait qu'énoncer les plus humbles propositions de la géométrie élémentaire, à quel point ces vérités le pénètrent d'une émotion philosophique et religieuse ? Assurément, pour lui, ces vérités sont belles, au sens le plus complet du mot, et il est de ces esprits qui savent s'élever, selon le mot de Malebranche, dans le monde des beautés intelligibles, ce pays de la vérité, où ils trouvent des mets délicieux et qui seuls peuvent nourrir des intelligences³.[^p16-2]
 
-A côté du reste de cette beauté d'ordre philosophique, les mathématiques en présentent une autre, qui n'est [^p16-1][^p16-2]
+A côté du reste de cette beauté d'ordre philosophique, les mathématiques en présentent une autre, qui n'est
 
-[p. 17] guère appréciable que pour les mathématiciens véritables, de même que certaines beautés musicales restent lettre close pour la masse. Sans parler en effet des propositions qui, par la fécondité de leurs conséquences, émeuvent ceux qui savent s'en rendre compte, l'ingéniosité, l'élégance et la généralité des développements sont de nature à provoquer une véritable jouissance esthétique. « Le savant digne de ce nom, le géomètre surtout, a dit M. Poincaré, éprouve en face de son œuvre la même impression que l'artiste ; sa jouissance est aussi grande et de même nature. Si je n'écrivais pas pour un public amoureux de la science, je n'oserais pas m'exprimer ainsi ; je redouterais l'incrédulité des profanes. Mais ici je puis dire toute ma pensée. Si nous travaillons, c'est moins pour obtenir ces résultats positifs auxquels le vulgaire nous croit uniquement attachés, que pour ressentir cette émotion esthétique et la communiquer à ceux qui sont capables de l'éprouver »¹.
+[p. 17] guère appréciable que pour les mathématiciens véritables, de même que certaines beautés musicales restent lettre close pour la masse. Sans parler en effet des propositions qui, par la fécondité de leurs conséquences, émeuvent ceux qui savent s'en rendre compte, l'ingéniosité, l'élégance et la généralité des développements sont de nature à provoquer une véritable jouissance esthétique. « Le savant digne de ce nom, le géomètre surtout, a dit M. Poincaré, éprouve en face de son œuvre la même impression que l'artiste ; sa jouissance est aussi grande et de même nature. Si je n'écrivais pas pour un public amoureux de la science, je n'oserais pas m'exprimer ainsi ; je redouterais l'incrédulité des profanes. Mais ici je puis dire toute ma pensée. Si nous travaillons, c'est moins pour obtenir ces résultats positifs auxquels le vulgaire nous croit uniquement attachés, que pour ressentir cette émotion esthétique et la communiquer à ceux qui sont capables de l'éprouver »[^p17-1].
 
 Qu'on nous permette de citer encore M. Poincaré.
 
@@ -174,7 +174,7 @@ l'analyse et de la physique mathématique
 
 , il s'exprime ainsi :
 
-« Les mathématiques ont un triple but. Elles doivent fournir un instrument pour l'étude de la nature. Mais ce n'est pas tout ; elles ont un but philosophique et, j'ose le dire, un but esthétique. Elles doivent inciter le philosophe à approfondir les notions de nombre, d'espace, de temps ; et surtout leurs adeptes y trouvent des jouissances analogues à celles que donnent la peinture et la musique. Ils admirent la délicate harmonie des nombres et des formes ; ils s'émerveillent quand une découverte nouvelle leur ouvre une perspective inattendue ; et la joie qu'ils éprouvent ainsi n'a-t-elle pas le caractère esthétique, bien que les sens n'y prennent aucune [^p17-1][^p17-2]
+« Les mathématiques ont un triple but. Elles doivent fournir un instrument pour l'étude de la nature. Mais ce n'est pas tout ; elles ont un but philosophique et, j'ose le dire, un but esthétique. Elles doivent inciter le philosophe à approfondir les notions de nombre, d'espace, de temps ; et surtout leurs adeptes y trouvent des jouissances analogues à celles que donnent la peinture et la musique.[^p17-2] Ils admirent la délicate harmonie des nombres et des formes ; ils s'émerveillent quand une découverte nouvelle leur ouvre une perspective inattendue ; et la joie qu'ils éprouvent ainsi n'a-t-elle pas le caractère esthétique, bien que les sens n'y prennent aucune
 
 [p. 18]
 
@@ -184,17 +184,17 @@ part ? Peu de privilégiés sont appelés à la goûter pleinement, cela est vra
 
 1
 
-Mentionnons enfin l'enthousiasme sacré qui s'emparait d'Hermite : « J'en appelle, disait en 1894 M. l'abbé Pautonnier, à ceux qui ont suivi les cours de M. Hermite. Lorsque, les yeux brillants, la voie émue, comme un poète, un voyant, il parlait des fonctions, on sentait qu'elles existaient pour lui, qu'il les admirait vraiment. A sa suite, on pénétrait un peu plus avant dans la pensée de Celui qui a tout disposé suivant des nombres et des mesures ; l'enthousiasme de ce maître incomparable se communiquait à ses auditeurs, à qui il arrivait de s'oublier et d'applaudir » *. Au lendemain de la mort du grand mathématicien, M. Painlevé s'exprimait à peu près de même : « Les sévères régions de la pensée dont il avait fait son domaine, leurs harmonieuses et rigides beautés, les lois rigoureuses et éternelles qui les régissent, lui avaient donné des joies trop hautes pour qu'il pùt condescendre encore aux soucis dont s'agitent la plupart des hommes. A ce puissant génie visionnaire, le mystérieux univers du Nombre n'apparaissait pointcomme dépourvu d'existence objective, mais bien comme une sorte d'armature immatérielle et inflexible de l'univers réel dont elle contient les dérèglements. Ceux qui ont eu l'heureuse fortune d'être les élèves du grand géomètre ne sauraient oublier l'accent presque religieux de son enseignement, le frisson de beauté ou de mystère qu'il faisait passer à travers son auditoire devant quelque admirable découverte ou devant l'inconnu » 3.
+Mentionnons enfin l'enthousiasme sacré qui s'emparait d'Hermite : « J'en appelle, disait en 1894 M. l'abbé Pautonnier, à ceux qui ont suivi les cours de M. Hermite. Lorsque, les yeux brillants, la voie émue, comme un poète, un voyant, il parlait des fonctions, on sentait qu'elles existaient pour lui, qu'il les admirait vraiment. A sa suite, on pénétrait un peu plus avant dans la pensée de Celui qui a tout disposé suivant des nombres et des mesures ; l'enthousiasme de ce maître incomparable se communiquait à ses auditeurs, à qui il arrivait de s'oublier et d'applaudir » *. Au lendemain de la mort du grand mathématicien, M. Painlevé s'exprimait à peu près de même : « Les sévères régions de la pensée dont il avait fait son domaine, leurs harmonieuses et rigides beautés, les lois rigoureuses et éternelles qui les régissent, lui avaient donné des joies trop hautes pour qu'il pùt condescendre encore aux soucis dont s'agitent la plupart des hommes. A ce puissant génie visionnaire, le mystérieux univers du Nombre n'apparaissait pointcomme dépourvu d'existence objective, mais bien comme une sorte d'armature immatérielle et inflexible de l'univers réel dont elle contient les dérèglements. Ceux qui ont eu l'heureuse fortune d'être les élèves du grand géomètre ne sauraient oublier l'accent presque religieux de son enseignement, le frisson de beauté ou de mystère qu'il faisait passer à travers son auditoire devant quelque admirable découverte ou devant l'inconnu » 3.[^p18-3][^p18-2][^p18-1]
 
-Le bonheur d'être l'élève d'Hermite, je l'ai goûté [^p18-1][^p18-2][^p18-3]
+Le bonheur d'être l'élève d'Hermite, je l'ai goûté
 
 [p. 19] moi-même, mais pendant un mois seulement, en janvier 1871, lorsque l'Ecole Polytechnique fut réunie à Bordeaux. La guerre finie, chaque promotion reprit son professeur ordinaire, et j'eus alors l'amer regret de ne plus sentir le frisson dont parle M. Painlevé.
 
 Les sarcasmes de M. Brunetière ne sont donc pas faits pour nous émouvoir, car ils montrent seulement qu'il n'envisage les mathématiques ni en philosophe, comme Bossuet, ni en mathématicien, comme Poincaré, encore moins en philosophe et en mathématicien à la fois comme Hermite. Nous pouvons du reste nous adresser, au sujet de la science en général, à un esthéticien que n'effarouche point l'austérité de celle-ci. « L'exercice scientifique, même le plus positif, dit M. Maurice Griveau, ne va point sans un certain degré d'imagination : il est une vocation scientifique, c'est-à-dire une vue idéale des objets d'étude, qui efface l'odieux, le pénible, accentue les côtés agréables et salutaires, opère une sélection tout esthétique. L'optique de la science est en somme bien voisine de celle de la poésie.
 
-« Nous avons montré, avec M. Paulhan¹, combien changent les perspectives, suivant le point de vue initial ;
+« Nous avons montré, avec M. Paulhan[^p19-1], combien changent les perspectives, suivant le point de vue initial ;
 
-le chercheur ne voit plus, littéralement, l'objet matériel qui touche ses yeux ; il voit le but de sa recherche : harmonie d'une loi, curiosité satisfaite, beauté du progrès..., la gloire aussi. C'est à peine si l'anatomiste fait effort pour vaincre un dégoût, le chirurgien une défaillance, le médecin une appréhension. Ce qui domine tout ce monde à son insu, c'est le sentiment esthétique ; et ce sentiment de la réalité, se transporte au domaine idéal : dans cette noble toile de Rembrandt, la Leçon [^p19-1]
+le chercheur ne voit plus, littéralement, l'objet matériel qui touche ses yeux ; il voit le but de sa recherche : harmonie d'une loi, curiosité satisfaite, beauté du progrès..., la gloire aussi. C'est à peine si l'anatomiste fait effort pour vaincre un dégoût, le chirurgien une défaillance, le médecin une appréhension. Ce qui domine tout ce monde à son insu, c'est le sentiment esthétique ; et ce sentiment de la réalité, se transporte au domaine idéal : dans cette noble toile de Rembrandt, la Leçon
 
 [p. 20]
 
@@ -202,7 +202,7 @@ le chercheur ne voit plus, littéralement, l'objet matériel qui touche ses yeux
 
 d'anatomie, remarquez l'expression des têtes : que le professeur et ses élèves sont à cent lieues du cadavre, exsangue et décharné, que touchent leurs manteaux et qui corrompt l'air autour d'eux ! C'est la beauté de la chose en soi qui les absorbe,
 
-et vous aussi » ¹.
+et vous aussi » [^p20-1].
 
 Ainsi donc la vérité scientifique est parfaitement susceptible de produire l'émotion esthétique, bien que tel ne soit point son objet direct. Quant aux belles erreurs qu'oppose M. Brunetière à la célèbre ânerie que l'on sait, nous regrettons vivement qu'il n'en ait pas cité quelqu'une, car il eût été sans doute aisé de montrer, par exemple s'il s'était agi d'une théorie philosophique, que cette beauté était due précisément à un élément de vérité, morale ou autre.
 
@@ -210,27 +210,27 @@ Arrive enfin l'argument tiré de la laideur. Il est certain qu'il y a là une ob
 
 particulièrement notre théorie du beau
 
-: si le beau se confond, en soi, avec l'être, tout est plus ou moins beau, et le laid n'existe qu'à titre purement subjectif. C'est ce que M. Basch oppose très fortement à Leibniz, pour qui le beau réside dans la connaissance obscure de la perfection, et la perfection dans l'unité au sein de la variété. « Si le beau réside dans la perfection, dans l'unité de la variété, si de plus toutes les œuvres de la nature sont multiples et unes en même temps, si, en un mot, l'univers tout entier est construit sur le modèle même de la connaissance, on s'explique très bien qu'il y aitdes objets beaux, mais on ne s'explique pas qu'il y en ait qui ne le soient pas, on ne s'explique pas la présence, dans la nature, d'objets laids ou d'objets indifférents » ².
+: si le beau se confond, en soi, avec l'être, tout est plus ou moins beau, et le laid n'existe qu'à titre purement subjectif. C'est ce que M. Basch oppose très fortement à Leibniz, pour qui le beau réside dans la connaissance obscure de la perfection, et la perfection dans l'unité au sein de la variété. « Si le beau réside dans la perfection, dans l'unité de la variété, si de plus toutes les œuvres de la nature sont multiples et unes en même temps, si, en un mot, l'univers tout entier est construit sur le modèle même de la connaissance, on s'explique très bien qu'il y aitdes objets beaux, mais on ne s'explique pas qu'il y en ait qui ne le soient pas, on ne s'explique pas la présence, dans la nature, d'objets laids ou d'objets indifférents » [^p20-2].
 
-Cette objection, nous l'avions prévue bien avant de la voir formulée, car, dans une petite étude sur le rôle de l'intelligence et de la sensibilité dans l'appréciation du beau, qui date de 1882, nous nous exprimions ainsi :[^p20-1][^p20-2]
+Cette objection, nous l'avions prévue bien avant de la voir formulée, car, dans une petite étude sur le rôle de l'intelligence et de la sensibilité dans l'appréciation du beau, qui date de 1882, nous nous exprimions ainsi :
 
-[p. 21] « Le laid n'a aucune réalité objective et n'existe que dans la sensibilité. Tout objet fini participe de l'être jusqu'à un certain point, et comme tel il a un certain degré de perfection qui le rend capable d'affecter agréablement une sensibilité et de mériter d'être appelé beau ; mais, par contre, il lui manque forcément bien des perfections, et ce défaut d'être l'expose à affecter péniblement une sensibilité et à se faire accuser de laideur. Il n'y a donc point d'objet laid en soi, et le Hottentot est dans son droit quand il admire sa Vénus. J'admets fort bien qu'elle est moins parfaite que la Vénus grecque ; tant au point de vue des fonctions animales qu'à celui du développement apparent des facultés intellectuelles et morales ; j'admets encore que l'Européen, n'y trouvant pas ce qu'il se croit en droit d'exiger de l'être humain, éprouve à sa vue une impression pénible. Mais le Hottentot peut de son côté être choqué, par exemple, de la pâleur de la Vénus grecque, qui ne lui semble pas compatible avec une bonne santé¹ ; tout en elle l'étonnera, il ne la comprendra pas, et peutêtre l'impression dominante qu'elle produira en lui sera-t-elle désagréable. Voulez-vous un autre exemple ? Connaissez-vous beaucoup
+[p. 21] « Le laid n'a aucune réalité objective et n'existe que dans la sensibilité. Tout objet fini participe de l'être jusqu'à un certain point, et comme tel il a un certain degré de perfection qui le rend capable d'affecter agréablement une sensibilité et de mériter d'être appelé beau ; mais, par contre, il lui manque forcément bien des perfections, et ce défaut d'être l'expose à affecter péniblement une sensibilité et à se faire accuser de laideur. Il n'y a donc point d'objet laid en soi, et le Hottentot est dans son droit quand il admire sa Vénus. J'admets fort bien qu'elle est moins parfaite que la Vénus grecque ; tant au point de vue des fonctions animales qu'à celui du développement apparent des facultés intellectuelles et morales ; j'admets encore que l'Européen, n'y trouvant pas ce qu'il se croit en droit d'exiger de l'être humain, éprouve à sa vue une impression pénible. Mais le Hottentot peut de son côté être choqué, par exemple, de la pâleur de la Vénus grecque, qui ne lui semble pas compatible avec une bonne santé[^p21-1] ; tout en elle l'étonnera, il ne la comprendra pas, et peutêtre l'impression dominante qu'elle produira en lui sera-t-elle désagréable. Voulez-vous un autre exemple ? Connaissez-vous beaucoup
 
 d'animaux
 
 aussi
 
-agiles, adroits et intelligents que les singes ? et pourtant que de gens les trouvent laids ! C'est que le singe, si vous me permettez ce jeu de mot, singe l'homme : alors nous exigeons de lui ce que nous exigeons de l'homme luimême, et, comme nous ne l'y trouvons pas, notre sensibilité se plaint » ².
+agiles, adroits et intelligents que les singes ? et pourtant que de gens les trouvent laids ! C'est que le singe, si vous me permettez ce jeu de mot, singe l'homme : alors nous exigeons de lui ce que nous exigeons de l'homme luimême, et, comme nous ne l'y trouvons pas, notre sensibilité se plaint » [^p21-2].
 
-C'est avec bonheur que nous avons retrouvé cette pensée, assurément mieux exprimée, sous la plume de notre grand poète philosophe, Sully Prudhomme : « En général, dit-il, une bête ne nous paraît laide que par notre invincible propension à y chercher quelque [^p21-1][^p21-2]
+C'est avec bonheur que nous avons retrouvé cette pensée, assurément mieux exprimée, sous la plume de notre grand poète philosophe, Sully Prudhomme : « En général, dit-il, une bête ne nous paraît laide que par notre invincible propension à y chercher quelque
 
 [p. 22]
 
 ## Introduction
 
-chose de la figure humaine. Pour savoir s'il y a vraiment des singes laids, il faudrait pouvoir consulter un singe, car la beauté que nous demandons inconsciemment à la forme du singe et qu'assurément nous n'y trouvons pas, c'est une beauté humaine ; aussi, quand nous disons qu'un singe est laid, c'est comme si nous disions qu'il le serait s'il était homme, ce qui est incontestable. Nous devrions admettre que la représentation esthétique qui nous déplait chez certains animaux n'est pas leur représentation réelle, mais une expression illusoire du type humain, expression naturellement monstrueuse et choquante. Mais quand un animal est si éloigné du type humain qu'il ne peut soutenir aucune comparaison avec ce type, nous ne songeons plus à le dire laid, ou si nous le jugeons tel, c'est par des sensations désagréables étrangères à sa physionomie, c'est parce qu'il blesse nos sens et non pas qu'il blesse notre goût esthétique » ¹.
+chose de la figure humaine. Pour savoir s'il y a vraiment des singes laids, il faudrait pouvoir consulter un singe, car la beauté que nous demandons inconsciemment à la forme du singe et qu'assurément nous n'y trouvons pas, c'est une beauté humaine ; aussi, quand nous disons qu'un singe est laid, c'est comme si nous disions qu'il le serait s'il était homme, ce qui est incontestable. Nous devrions admettre que la représentation esthétique qui nous déplait chez certains animaux n'est pas leur représentation réelle, mais une expression illusoire du type humain, expression naturellement monstrueuse et choquante. Mais quand un animal est si éloigné du type humain qu'il ne peut soutenir aucune comparaison avec ce type, nous ne songeons plus à le dire laid, ou si nous le jugeons tel, c'est par des sensations désagréables étrangères à sa physionomie, c'est parce qu'il blesse nos sens et non pas qu'il blesse notre goût esthétique » [^p22-1].
 
-Cette dernière assertion est peut- être exagérée, car, dans la laideur du porc, entre certainement, surtout lorsqu'il est gras, la disproportion entre la force apparente et réelle de ses pattes et la masse de son corps : cette disproportion entraîne une incapacité fonctionnelle qui constitue un défaut réel au point de vue des exigences de la vie normale, mais défaut, il est vrai, qui pourra constituer une beauté aux yeux de l'éleveur. M. Sully Prudhomme est d'ailleurs bien, au fond, de notre avis, car il déclare que la beauté du cheval et de l'oiseau résulte d'un rapport entre leur activité interne et leur forme d'où résulte un caractère de souplesse et d'élégance répondant à une représentation réelle. Cela ne l'empêche pas, du reste, de faire ressortir ironiquement l'influence de la taille sur nos impressions : ce n'est souvent que pour une question d'échelle que nous écrasons sans pitié un animal ou que nous fondons une société protectrice en sa faveur ![^p22-1]
+Cette dernière assertion est peut- être exagérée, car, dans la laideur du porc, entre certainement, surtout lorsqu'il est gras, la disproportion entre la force apparente et réelle de ses pattes et la masse de son corps : cette disproportion entraîne une incapacité fonctionnelle qui constitue un défaut réel au point de vue des exigences de la vie normale, mais défaut, il est vrai, qui pourra constituer une beauté aux yeux de l'éleveur. M. Sully Prudhomme est d'ailleurs bien, au fond, de notre avis, car il déclare que la beauté du cheval et de l'oiseau résulte d'un rapport entre leur activité interne et leur forme d'où résulte un caractère de souplesse et d'élégance répondant à une représentation réelle. Cela ne l'empêche pas, du reste, de faire ressortir ironiquement l'influence de la taille sur nos impressions : ce n'est souvent que pour une question d'échelle que nous écrasons sans pitié un animal ou que nous fondons une société protectrice en sa faveur !
 
 [p. 23] L'objection tirée de ce que la laideur ne saurait s'expliquer dans la théorie où le beau se confondrait en soi avec l'être ne nous paraît donc pas bien grave, si l'on s'en tient à la laideur physique. Plus embarrassante est-elle quand intervient la laideur morale. C'est un point sur lequel nous devrons revenir quand nous parlerons de l'art et de la morale ; mais nous pouvons dès maintenant faire remarquer que des théories de la volonté telles que celle de Malebranche semblent faire évanouir la difficulté : « Dieu, dit-il, n'imprime qu'un amour en nous, qui est l'amour du bien en général, et nous ne pouvons rien aimer que par cet amour, puisque nous ne pouvons rien aimer qui ne soit ou qui ne paraisse un bien... Etant libres, nous pouvons déterminer, et nous déterminons en effet, à des biens particuliers, et par conséquent à de faux biens, le bon amour que Dieu ne cesse point d'imprimer en nous » 1.
 
@@ -240,17 +240,17 @@ subsiste quelque lueur permettant de retrouver cette origine.
 
 Au moment où nous arrivons au terme de ces brefs aperçus sur la nature du beau, nous éprouvons le besoin d'insister sur le caractère désintéressé de la satisfaction qu'il procure. Ce caractère, si nettement énoncé par Kant, Schopenhauer, en le rattachant à sa philosophie générale,
 
-l'a quelque peu altéré en supposant qu'il entraîne un détachement absolu de la volonté. Il y a là, selon nous, une certaine exagération, car chez l'artiste la contemplation esthétique engendre le besoin de la production de l'œuvre d'art, et d'autre part le beau moral excite à l'action morale ; mais, en tant qu'il fait ressortir l'abîme qui sépare le désir du sentiment du [^p23-1]
+l'a quelque peu altéré en supposant qu'il entraîne un détachement absolu de la volonté.[^p23-1] Il y a là, selon nous, une certaine exagération, car chez l'artiste la contemplation esthétique engendre le besoin de la production de l'œuvre d'art, et d'autre part le beau moral excite à l'action morale ; mais, en tant qu'il fait ressortir l'abîme qui sépare le désir du sentiment du
 
 [p. 24]
 
 ## Introduction
 
-beau et la sérénité que celui-ci répand dans l'âme, Schopenhauer s'élève à une hauteur incomparable. On sent véritablement, dans les pages qu'il consacre à ce sujet ce credo d'une âme émue qu'Eugène Fromentin cherchait si ardemment dans les œuvres d'art et qui seul peut sauver l'esthéticien et le critique de ce rôle de stercoraire auquel prétend le condamner M. Max Nordau¹. La citation est quelque peu démesurée par rap. port à cette introduction, mais, en la tronquant, nous mutilerions d'une manière sacrilège la pensée du grand ennemi de la volonté :
+beau et la sérénité que celui-ci répand dans l'âme, Schopenhauer s'élève à une hauteur incomparable. On sent véritablement, dans les pages qu'il consacre à ce sujet ce credo d'une âme émue qu'Eugène Fromentin cherchait si ardemment dans les œuvres d'art et qui seul peut sauver l'esthéticien et le critique de ce rôle de stercoraire auquel prétend le condamner M. Max Nordau[^p24-1]. La citation est quelque peu démesurée par rap. port à cette introduction, mais, en la tronquant, nous mutilerions d'une manière sacrilège la pensée du grand ennemi de la volonté :
 
 ((Tout vouloir procède d'un
 
-besoin, c'est-à-dire d'une privation, c'est-à-dire d'une souffrance. La satisfaction y met fin, mais pour un désir qui est satisfait, dix au moins sont contrariés ; de plus, le désir est long, et ses exigences tendent à l'infini ; la satisfaction est courte, et elle est parcimonieusement mesurée. Mais ce contentement suprême lui-même n'est qu'apparent : le désir satisfait fait place aussitôt à un nouveau désir ; le premier est une déception reconnue, le second est une déception non encore reconnue. La satisfaction d'aucun souhait ne peut procurer de contentement durable et inaltérable. C'est comme l'aumône qu'on jette à un mendiant : elle lui sauve aujourd'hui la vie pour prolonger sa misère jusqu'à demain. Tant que notre conscience est remplie par notre volonté, tant que nous sommes asservis à l'impulsion du désir, aux espérances et aux craintes continuelles qu'il fait naître, tant que nous sommes sujets du vouloir, il n'y a pour nous ni bonheur durable ni repos. Poursuivre ou fuir, craindre le malheur ou chercher la jouissance, c'est en réalité tout un : l'inquiétude d'une volonté toujours exigeante, sous quelle forme qu'elle se manifeste, emplit et trouble sans cesse la conscience ; orsans repos le véritable bonheur est impossible. Ainsi le sujet du vouloir ressemble [^p24-1]
+besoin, c'est-à-dire d'une privation, c'est-à-dire d'une souffrance. La satisfaction y met fin, mais pour un désir qui est satisfait, dix au moins sont contrariés ; de plus, le désir est long, et ses exigences tendent à l'infini ; la satisfaction est courte, et elle est parcimonieusement mesurée. Mais ce contentement suprême lui-même n'est qu'apparent : le désir satisfait fait place aussitôt à un nouveau désir ; le premier est une déception reconnue, le second est une déception non encore reconnue. La satisfaction d'aucun souhait ne peut procurer de contentement durable et inaltérable. C'est comme l'aumône qu'on jette à un mendiant : elle lui sauve aujourd'hui la vie pour prolonger sa misère jusqu'à demain. Tant que notre conscience est remplie par notre volonté, tant que nous sommes asservis à l'impulsion du désir, aux espérances et aux craintes continuelles qu'il fait naître, tant que nous sommes sujets du vouloir, il n'y a pour nous ni bonheur durable ni repos. Poursuivre ou fuir, craindre le malheur ou chercher la jouissance, c'est en réalité tout un : l'inquiétude d'une volonté toujours exigeante, sous quelle forme qu'elle se manifeste, emplit et trouble sans cesse la conscience ; orsans repos le véritable bonheur est impossible. Ainsi le sujet du vouloir ressemble
 
 [p. 25] à Ixion attaché sur une roue qui ne cesse de tourner, aux Danaïdes qui puisent toujours pour emplir leur tonneau, à Tantale éternellement altéré.
 
@@ -276,9 +276,9 @@ si
 
 parfaitement qu'il devient
 
-indifférent de savoir si l'œil contemplateur appartient à un roi puissant ou bien à un misérable mendiant. Car ni bonheur ni misère ne nous accompagnent à ces hauteurs... » 1.
+indifférent de savoir si l'œil contemplateur appartient à un roi puissant ou bien à un misérable mendiant. Car ni bonheur ni misère ne nous accompagnent à ces hauteurs... » 1.[^p27-1]
 
-rence [^p27-1]
+rence
 
 [p. 28] [p. 29]
 
@@ -292,11 +292,11 @@ A la question : « Qu'est-ce que l'art ? » on peut répondre aisément qu'il co
 
 « beau ».
 
-Une première complication résulte du fait que cette définition n'est pas acceptée par tous. C'est ainsi que, dans son ouvrage portant précisément le titre inscrit en tête de ce chapitre, le comte Léon Tolstoi soutient que les définitions de la beauté sont « bien loin de s'étendre à tout ce que tout le monde a toujours considéré, et considère encore, comme étant du domaine de l'art » ¹ ; puis il définit ainsi ce dernier : « L'art est une forme de l'activité humaine consistant, pour un homme, à transmettre à autrui ses sentiments par le moyen de certains signes extérieurs » (p. 58).
+Une première complication résulte du fait que cette définition n'est pas acceptée par tous. C'est ainsi que, dans son ouvrage portant précisément le titre inscrit en tête de ce chapitre, le comte Léon Tolstoi soutient que les définitions de la beauté sont « bien loin de s'étendre à tout ce que tout le monde a toujours considéré, et considère encore, comme étant du domaine de l'art » [^p29-1] ; puis il définit ainsi ce dernier : « L'art est une forme de l'activité humaine consistant, pour un homme, à transmettre à autrui ses sentiments par le moyen de certains signes extérieurs » (p. 58).
 
 1
 
-A certains égards, cette définition est très large, et c'est ce que montre Tolstoï par le commentaire suivant : « On nous a habitués à ne comprendre, sous le nom d'art, que ce que nous entendons et voyons dans les théâtres, les concerts et les expositions, ou ce que nous lisons dans des poèmes ou des romans. Mais tout cela n'est qu'une partie infime de l'art véritable, par le moyen duquel nous transmettons à autrui notre vie inté [^p29-1]
+A certains égards, cette définition est très large, et c'est ce que montre Tolstoï par le commentaire suivant : « On nous a habitués à ne comprendre, sous le nom d'art, que ce que nous entendons et voyons dans les théâtres, les concerts et les expositions, ou ce que nous lisons dans des poèmes ou des romans. Mais tout cela n'est qu'une partie infime de l'art véritable, par le moyen duquel nous transmettons à autrui notre vie inté
 
 [p. 30]
 
@@ -306,7 +306,7 @@ rieure, ou nous recueillons la vie intérieure d'autrui. Toute l'existence humai
 
 A cette thèse que l'art consiste essentiellement dans la transmission des émotions s'en oppose une autre rigoureusement contraire : pour elle, cette transmission a un caractère purement pathologique et est la négation même de l'art. De tous ceux qui l'ont soutenue, nul ne l'a fait avec plus de talent et une conviction plus communicative que le professeur viennois Hanslick ; il n'a traité sans doute d'une façon directe que Du beau dans la musique, mais sa thèse a une portée plus générale, et son livre peut servir de point de départ à une discussion sur la nature de l'art.
 
-Hanslick est bien loin de refuser à la musique le pouvoir d'exciter, sinon d'exprimer les émotions, et même il s'est laissé aller à écrire les paroles suivantes qui surprennent singulièrement sous sa plume : « Loin de nous l'idée de dédaigner ces sentiments puissants que la musique tire de leur sommeil, ces émotions douces ou tristes, ces rêveries charmantes dans lesquelles elle nous berce. C'est un des plus beaux et des plus admirables mystères que ce privilège de l'art de provoquer de tels états de l'âme, sans aucun mobile terrestre et comme par la grâce de Dieu ¹ ».
+Hanslick est bien loin de refuser à la musique le pouvoir d'exciter, sinon d'exprimer les émotions, et même il s'est laissé aller à écrire les paroles suivantes qui surprennent singulièrement sous sa plume : « Loin de nous l'idée de dédaigner ces sentiments puissants que la musique tire de leur sommeil, ces émotions douces ou tristes, ces rêveries charmantes dans lesquelles elle nous berce. C'est un des plus beaux et des plus admirables mystères que ce privilège de l'art de provoquer de tels états de l'âme, sans aucun mobile terrestre et comme par la grâce de Dieu [^p30-1] ».
 
 Contradiction ou aveu, ce passage détonne dans un
 
@@ -316,7 +316,7 @@ déré comme une déviation pathologique opposée à l'esthétique dans la mani�
 
 ### Chapitre Consacré À L'Esthétique, Par Opposition À La
 
-pathologie, dans la manière de sentir la musique, est caractéristique. Voici comment Hanslick parle des musiciens de sentiment :[^p30-1]
+pathologie, dans la manière de sentir la musique, est caractéristique. Voici comment Hanslick parle des musiciens de sentiment :
 
 [p. 31] « Subissant passivement l'action de la partie élémentaire de l'art, ils entrent dans une excitation vague, platoniquement sensuelle, qui ne reçoit de détermination que du caractère de l'œuvre. Leur état n'est pas contemplatif, mais pathologique : c'est une longue rêverie, un crépuscule persistant, une sorte de sensation neutre dans le vide sonore. Faisons entendre au musicien de sentiment plusieurs morceaux de même caractère, d'une gaieté bruyante par exemple : il restera dans le même cycle d'impressions. Son sentiment ne s'assimile que ce qui fait l'analogie de ces morceaux, c'est-à-dire le mouvement composé de joie et de bruit ; la partie originale et artistiquement personnelle de chacun échappe tout à fait à son intelligence. Il en est tout autrement chez l'auditeur que nous appellerons musical ; la forme artistique spéciale d'une composition, ce qui donne à l'œuvre un cachet d'individualité au milieu d'une douzaine de morceaux d'effet semblable, occupe si puissamment son attention qu'il remarque à peine la similitude ou la différence de l'expression sentimentale... »>
 
@@ -344,9 +344,9 @@ plénitude et sa délicatesse ce que Schiller appelle si S sa
 
 Schellins
 
-1 du beau¹ ». Cette jouissance intérieure, avec l'active collaboration de l'esprit, est la récompense de la manière d'écouter la plus digne, la plus salutaire, mais non la plus facile ».
+1 du beau[^p33-1] ». Cette jouissance intérieure, avec l'active collaboration de l'esprit, est la récompense de la manière d'écouter la plus digne, la plus salutaire, mais non la plus facile ».
 
-La beauté musicale nous apparaît ainsi comme étant essentiellement de même ordre que celle d'une arabesque, et Hanslick n'a pas manqué de marquer d'une manière saisissante cette parenté : « La manière dont la musique peut nous offrir de belles formes, dit-il, sans avoir pour sujet un sentiment déterminé trouve une analogie et une démonstration frappante dans une branche de la sculpture d'ornement : l'arabesque. Là, on voit des lignes qui paraissent vibrer, tantôt se rapprochant insensiblement, tantôt s'éloignant et se relevant d'un bond hardi, se quittant, se retrouvant, se correspondant dans de grands et de petits arcs, infinies à ce qu'il semble, mais toujours coordonnées, saluant partout un contraste ou un pendant, réunion de petites individualités et cependant formant un tout. Figuronsnous maintenant une arabesque, non pas sans vie et sans mouvement, mais s'animant devant nos yeux dans une sorte d'autogénésie continuelle. Voici les lignes de toute grosseur qui se poursuivent, qui prennent leur élan par une courbe gracieuse et montent d'un bond à des hauteurs orgueilleuses, puis retombent, quittent brusquement leurs voisines et les rejoignent enfin pour former avec elles un faisceau réjouissant la vue par de [^p33-1]
+La beauté musicale nous apparaît ainsi comme étant essentiellement de même ordre que celle d'une arabesque, et Hanslick n'a pas manqué de marquer d'une manière saisissante cette parenté : « La manière dont la musique peut nous offrir de belles formes, dit-il, sans avoir pour sujet un sentiment déterminé trouve une analogie et une démonstration frappante dans une branche de la sculpture d'ornement : l'arabesque. Là, on voit des lignes qui paraissent vibrer, tantôt se rapprochant insensiblement, tantôt s'éloignant et se relevant d'un bond hardi, se quittant, se retrouvant, se correspondant dans de grands et de petits arcs, infinies à ce qu'il semble, mais toujours coordonnées, saluant partout un contraste ou un pendant, réunion de petites individualités et cependant formant un tout. Figuronsnous maintenant une arabesque, non pas sans vie et sans mouvement, mais s'animant devant nos yeux dans une sorte d'autogénésie continuelle. Voici les lignes de toute grosseur qui se poursuivent, qui prennent leur élan par une courbe gracieuse et montent d'un bond à des hauteurs orgueilleuses, puis retombent, quittent brusquement leurs voisines et les rejoignent enfin pour former avec elles un faisceau réjouissant la vue par de
 
 [p. 34]
 
@@ -414,9 +414,9 @@ S'il en est ainsi, on peut affirmer dès maintenant qu'Hanslick est en grande pa
 
 1º Posséder un sens excellent sur la foi duquel il puisse apprécier et contrôler les rapports mathématiques des vibrations qui ébranlent le nerf spécial affecté à ce sens, pour jouir de l'harmonie des sensations correspondantes ;
 
-2º Etre apte à choisir, composer et réaliser (ou noter) les combinaisons harmonieuses les plus conformes à son idéal prescrit par son tempérament.
+2º Etre apte à choisir, composer et réaliser (ou noter) les combinaisons harmonieuses les plus conformes à son idéal prescrit par son tempérament.[^p40-1]
 
-Puis il s'exprime ainsi : « Ces qualités sont si essentielles que, malgré leur insuffisance, celui qui les possède est bien plus voisin d'être un artiste que l'homme qui, manquant de celles-là, en a d'autres d'un ordre beaucoup plus élevé ; cet homme pourra être plein [^p40-1]
+Puis il s'exprime ainsi : « Ces qualités sont si essentielles que, malgré leur insuffisance, celui qui les possède est bien plus voisin d'être un artiste que l'homme qui, manquant de celles-là, en a d'autres d'un ordre beaucoup plus élevé ; cet homme pourra être plein
 
 [p. 41] d'imagination et d'intelligence, mais tout ce qu'il introduira dans son œuvre d'inspiration poétique et d'invention n'y suppléera pas ce qui fait proprement la pensée picturale, sculpturale, musicale, etc., telle que nous l'avons définie, il est un poète fourvoyé dans les arts »> (pp. 29 à 31).
 
@@ -436,11 +436,11 @@ par ce genre de critique où se fondent, sans qu'on distingue le point de passag
 
 recueilli lorsqu'il la peignit. Arrêtez- vous, regardez de loin, de près, examinez longtemps. Nul contour apparent, pas un accent donné de routine, une extrême timidité qui n'est pas de l'ignorance et qui vient, dirait-on, de la crainte d'être banal, ou du prix que le penseur attache à l'expression immédiate et directe de la vie ; une structure des choses qui semble exister en soi, presque sans le secours des formules connues, et rend sans nul moyen saisissable les incertitudes et les précisions de la nature. Des jambes nues et des pieds de construction irréprochable, de style aussi ; on ne les oublie pas plus en leur petite dimension qu'on n'oublie les jambes et les pieds du Christ dans l'Ensevelissement de Titien. Dans ce pâle, maigre et gémissant visage, rien qui ne soit une expression, une chose venant de l'âme, du dedans au dehors : l'atonie, la souffrance et comme la triste joie de se voir recueilli quand on se sent mourir. Pas une contorsion, pas un trait qui dépasse la mesure, pas une touche, dans cette manière de rendre l'inexprimable, qui ne soit pathétique et contenue ; tout cela dicté par une émotion profonde et traduit par des moyens tout à fait extraordinaires » 1.
 
-Si nous ne nous trompons, une telle description d'un tableau vaut mieux qu'une longue dissertation de principe pour faire comprendre ce que l'expression morale donne de dignité à l'art et ajoute à sa valeur technique. Comme contraste, on peut se reporter à l'appréciation, si juste également, que Taine a formulée au sujet de la Vierge à la chaise
+Si nous ne nous trompons, une telle description d'un tableau vaut mieux qu'une longue dissertation de principe pour faire comprendre ce que l'expression morale donne de dignité à l'art et ajoute à sa valeur technique.[^p43-1] Comme contraste, on peut se reporter à l'appréciation, si juste également, que Taine a formulée au sujet de la Vierge à la chaise
 
 : « C'est une belle sultane, dit -il, circassienne ou grecque ; sur sa tête est une sorte de turban, et des étoffes orientales rayées de vives couleurs, bordées de franges d'or, tombent autour d'elle ;
 
-elle se courbe sur son enfant avec un beau [^p43-1]
+elle se courbe sur son enfant avec un beau
 
 [p. 44] CHAPITRE
 
@@ -460,7 +460,7 @@ ressentent
 
 pas
 
-celles- ci comme telles, et dès lors ils n'y réagissent que faiblement ou même pas du tout 2 ». Ceci montre que la mesure a été dépassée : pour devenir expressive, la musique doit s'altérer pour ainsi dire, car ce qui émeut [^p44-1][^p44-2]
+celles- ci comme telles, et dès lors ils n'y réagissent que faiblement ou même pas du tout 2 ».[^p44-2][^p44-1] Ceci montre que la mesure a été dépassée : pour devenir expressive, la musique doit s'altérer pour ainsi dire, car ce qui émeut
 
 [p. 45] le sentiment, ce sont les notes susceptibles « de déplacer la tonique, de changer le mode
 
@@ -480,9 +480,9 @@ admirateurs
 
 des
 
-vocalises de Mme Viardot : on sait ce qui en résulta.
+vocalises de Mme Viardot : on sait ce qui en résulta.[^p45-1]
 
-C'est entre les deux extrêmes de l'art pur et de l'art tout émotionnel que nous plaçons la forme de l'art qui répond le mieux à sa vraie nature, et nous nous associons à cette conclusion d'une des études esthétiques de [^p45-1]
+C'est entre les deux extrêmes de l'art pur et de l'art tout émotionnel que nous plaçons la forme de l'art qui répond le mieux à sa vraie nature, et nous nous associons à cette conclusion d'une des études esthétiques de
 
 [p. 46]
 
@@ -494,9 +494,9 @@ Schiller : « La foule, dit-il, subit pour ainsi dire en aveugle l'impression qu
 
 Le danger que signale si bien Schiller est grand, et c'est lui qui explique, sans les justifier, les exagérations de Tolstoï dans le sens que nous avons vu. Contre lui, nous soutenons que l'art a pour objet de produire la beauté ; mais nous refusons de rétrécir à ce point la nature de celle-ci qu'elle corresponde exclusivement à des rapports d'ordre purement formel : les sentiments et les pensées de l'âme humaine sont une réalité très haute, et l'on ne saurait en interdire l'expression à l'art sans le priver d'une des sources les plus riches de beauté.
 
-Et maintenant, pour clore ce chapitre, nous transcrirons deux très beaux sonnets qu'on peut prendre comme spécimens de la poésie impassible et de la poésie qu'inspirent la pensée et l'émotion.
+Et maintenant, pour clore ce chapitre, nous transcrirons deux très beaux sonnets qu'on peut prendre comme spécimens de la poésie impassible et de la poésie qu'inspirent la pensée et l'émotion.[^p46-1]
 
-X[^p46-1]
+X
 
 [p. 47] Le quadrige, au galop de ses étalons blancs, Monte au faîte du ciel, et les chaudes haleines Ont fait onduler l'or bariolé des plaines.
 
@@ -524,7 +524,7 @@ Mais, pendule éternel que sa puissance attire, Je passe et je repasse et tate l
 
 Ne pourrai-je allonger cette corde flottante, Ni remonter au jour dont la gaîté me tente ?
 
-Et dois -je dans l'horreur me balancer sans fin2 ?[^p47-1][^p47-2]
+Et dois -je dans l'horreur me balancer sans fin2 ?[^p47-2][^p47-1]
 
 [p. 48]
 
@@ -560,29 +560,29 @@ la conservation des rapports entre les intensités lumineuses. Ce qu'il s'agit e
 
 absolue de l'excitant.
 
-Dès lors, le peintre, qui réduit forcément les intensités lumineuses, doit, pour conserver les rapports entre les sensations, réduire considérablement les rapports entre ces intensités ¹.
+Dès lors, le peintre, qui réduit forcément les intensités lumineuses, doit, pour conserver les rapports entre les sensations, réduire considérablement les rapports entre ces intensités [^p50-1].
 
 Cette loi psycho-physique a été, il est vrai, fort contestée et cela à deux points de vue. On a dit souvent que l'observation ne la confirme pas, et d'autre part on a critiqué son principe même. En ce qui concerne le premier point, nous citerons, parmi les contradicteurs, le Dr Charpentier qui, dans son livre si intéressant sur la Lumière et les Couleurs, déclare formellement que la loi psycho-physique est fausse, à l'égard de la vue ; mais, si l'on se reporte à la figure de la page 328 de ce livre, on voit que, après avoir crû d'abord trop lentement, la courbe des sensations ne tarde pas à suivre très approximativement la loi de Fechner, en sorte que, pour une discussion ne visant pas à une précision mathématique, nous pouvons accepter celle-ci.
 
-Mais il est contre elle une objection autrement profonde : quelle que puisse être la précision des vérifications, celles-ci reposent sur une définition de l'intensité [^p50-1]
+Mais il est contre elle une objection autrement profonde : quelle que puisse être la précision des vérifications, celles-ci reposent sur une définition de l'intensité
 
 [p. 51] d'une sensation et cette définition est entachée d'arbitraire. Partant en effet du seuil de la sensation, c'està-dire de la sensation produite par le plus petit excitant qui soit perçu, on admet l'égalité des accroissements successifs de la sensation résultant des augmentations les plus petites de l'excitant qui occasionnent une différence perceptible de la sensation, en sorte que le ne échelon de la sensation est mesuré par le nombre n. Au point de vue de la psycho-physique, on est libre de définir ainsi l'intensité d'une sensation ; mais, à titre d'appréciation de l'effet esthétique des diverses excitations, il reste douteux que cette mesure soit satisfaisante.
 
 Les discussions de cet ordre ne sauraient être closes d'une façon péremptoire ; mais il y a des faits qui montrent la portée sérieuse de ce mode de mesure et qui prouvent qu'on ne saurait s'en tenir à la solution simpliste de Jamin. Pour s'en convaincre, il suffit de comparer les oppositions plus accentuées qui se manifestent pendant le crépuscule et au clair de lune : alors, comme le fait remarquer M. Charpentier, les objets clairs font une impression frappante, parce que, les comparant aux objets plus sombres, nous trouvons réellement entre les sensations que nous procurent les uns et les autres une différence bien plus accusée que pendant le jour, Il n'est dès lors pas surprenant que, dans son zèle à reproduire aussi fidèlement que possible les rapports entre les intensités lumineuses, Decamps
 
-soit peu nature, selon l'expression d'Eugène Fromentin¹.
+soit peu nature, selon l'expression d'Eugène Fromentin[^p51-1].
 
-Les photographies, surtout instantanées et obtenues sans recours à des procédés trop habiles, semblent bien témoigner dans le même sens, car, d'une part, l'action chimique doit être proportionnelle à l'intensité lumineuse, et, d'autre part, les oppositions entre les ombres et les lumières y paraissent généralement exagérées ;[^p51-1]
+Les photographies, surtout instantanées et obtenues sans recours à des procédés trop habiles, semblent bien témoigner dans le même sens, car, d'une part, l'action chimique doit être proportionnelle à l'intensité lumineuse, et, d'autre part, les oppositions entre les ombres et les lumières y paraissent généralement exagérées ;
 
 [p. 52] CHAPITRE
 
-sans doute l'échelle proportionnelle des valeurs ne saurait s'y trouver entière, et il en résulte la confusion des ombres dans un noir uniforme et parfois celle des clairs dans un blanc également dépourvu de nuances, mais les valeurs intermédiaires qui sont distinguées les unes des autres le sont avec outrance. Un esthéticien de haute valeur, Alfred Tonnellé, qui, mort en 1858, n'a pu connaître la loi de Fechner et était imbu du dogme de la réduction proportionnelle des valeurs, s'est ingénié à montrer comment la photographie est impuissante à réaliser cette réduction : s'il a noté à juste titre la confusion des ombres et des pleines lumières, ce qu'il dit des valeurs moyennes paraît singulièrement erroné et montre la puissance des formules mathématiques sur ceux qui semblent devoir y être le moins sensibles ¹. La réduction proportionnelle constitue précisément une traduction simple, la plus accessible aux procédés physico- chimiques ; la loi de Fechner, plus complexe, s'adapte mieux aux réalités psychologiques, sans parvenir encore à en rendre toute la complexité.
+sans doute l'échelle proportionnelle des valeurs ne saurait s'y trouver entière, et il en résulte la confusion des ombres dans un noir uniforme et parfois celle des clairs dans un blanc également dépourvu de nuances, mais les valeurs intermédiaires qui sont distinguées les unes des autres le sont avec outrance. Un esthéticien de haute valeur, Alfred Tonnellé, qui, mort en 1858, n'a pu connaître la loi de Fechner et était imbu du dogme de la réduction proportionnelle des valeurs, s'est ingénié à montrer comment la photographie est impuissante à réaliser cette réduction : s'il a noté à juste titre la confusion des ombres et des pleines lumières, ce qu'il dit des valeurs moyennes paraît singulièrement erroné et montre la puissance des formules mathématiques sur ceux qui semblent devoir y être le moins sensibles [^p52-1]. La réduction proportionnelle constitue précisément une traduction simple, la plus accessible aux procédés physico- chimiques ; la loi de Fechner, plus complexe, s'adapte mieux aux réalités psychologiques, sans parvenir encore à en rendre toute la complexité.
 
 Les observations de Jamin sont donc incomplètes, car il ne suffisait pas de comparer séparément les rapports entre les intensités lumineuses des objets représentés et les intensités de la représentation, mais il aurait fallu nous donner les rapports entre les intensités des parties correspondantes dans la nature et sur le tableau, celui-ci étant, bien entendu, soumis à un bon éclairage normal ; et même, pour rendre les calculs possibles, il eût été nécessaire de rapporter les intensités lumineuses à une unité déterminée.
 
 De ces considérations
 
-il résulte d'ailleurs qu'un tableau ne saurait reproduire, pour la sensation, les valeurs relatives des objets que sous un éclairage déterminé, si bien que l'école du plein air ne devrait exposer ses œuvres que sous une lumière aussi vive que celle [^p52-1]
+il résulte d'ailleurs qu'un tableau ne saurait reproduire, pour la sensation, les valeurs relatives des objets que sous un éclairage déterminé, si bien que l'école du plein air ne devrait exposer ses œuvres que sous une lumière aussi vive que celle
 
 [p. 53] dont jouissait l'artiste. Si l'on tient compte des variations inévitables de l'éclairement d'une peinture, on reconnaîtra forcément que la conservation des rapports entre les valeurs subjectives, si elle n'est pas essentiellement contradictoire, du moins
 
@@ -590,7 +590,7 @@ est bien souvent, comme le croyait Jamin, un cas d'équilibre instable au premie
 
 Il suffit d'ailleurs de considérer à quel point des peintres qui semblent aussi vrais les uns que les autres rendent les mêmes contrastes par des rapports absolument différents, pour comprendre qu'en présence d'un problème insoluble nous en acceptons franchement des solutions fausses et nous laissons suggérer des effets objectifs que nous ne voyons réellement pas. Il y aurait une étude bien intéressante à faire pour déterminer les lois auxquelles doivent être soumises ces altérations de la réalité pour rester esthétiquement vraies. La recherche de la vérité directe, c'est-à-dire de la conservation, non des rapports objectifs, mais des rapports entre les sensations, n'aurait de raison d'être que pour l'établissement de trompe -l'œil ; mais alors il faudrait régler rigoureusement les détails de l'éclairage : de cette façon seulement on pourrait atteindre une reproduction réaliste, mais on sortirait du domaine de l'art.
 
-Nous n'avons parlé jusqu'ici que de la lumière, abstraction faite de la couleur. Si nous introduisons celle-ci dans le problème, que de difficultés nouvelles, également impossibles à résoudre toutes à la fois, n'allons-nous pas voir apparaître ? Tout le monde connaît le phénomène du contraste des couleurs ; mais ce phénomène ne se produit que d'une façon insignifiante sur un tableau, en raison de la faible intensité lumineuse. Il faut donc, comme l'a justement fait remarquer Helmholtz¹, reproduire objectivement les phénomènes sub [^p53-1]
+Nous n'avons parlé jusqu'ici que de la lumière, abstraction faite de la couleur. Si nous introduisons celle-ci dans le problème, que de difficultés nouvelles, également impossibles à résoudre toutes à la fois, n'allons-nous pas voir apparaître ? Tout le monde connaît le phénomène du contraste des couleurs ; mais ce phénomène ne se produit que d'une façon insignifiante sur un tableau, en raison de la faible intensité lumineuse. Il faut donc, comme l'a justement fait remarquer Helmholtz[^p53-1], reproduire objectivement les phénomènes sub
 
 [p. 54] CHAPITRE
 
@@ -605,13 +605,13 @@ Paul Signac, dans sa brochure ayant pour titre : D'Eugène Delacroix au néo —
 
 Cette remarque fort juste montre que, sous la subjectivité de l'art impressionniste, subsiste une subordination rigoureuse aux lois de la vision : à cet égard, on pourrait dire qu'il est le plus objectif de tous les arts. Mais, par une pente inévitable, celui qui s'est attaché à la reproduction de ces sensations fugaces arrive à leur accorder une place beaucoup plus grande qu'elles n'en occupent dans la vision normale, et ainsi la peinture impressionniste deviendra aussi artificielle qu'une peinture franchement objective qui, dans la nécessité d'être systématique, puisque la reproduction pure et simple de ce qu'on voit est impossible, s'attache à reproduire aussi fidèlement que possible la nuance propre des objets : ce sont les deux pôles entre lesquels s'échelonnent forcément toutes les cotes mal taillées par lesquelles les divers artistes cherchent à résoudre le problème insoluble de la représentation adéquate de la nature.
 
-Le problème est d'ailleurs encore plus complexe que nous ne l'avons indiqué, et cette reproduction de la nuance propre des objets dont nous venons de parler se heurte à une autre difficulté que celle des contrastes et des couleurs subjectives. Fromentin, qui a traité *ex professo* de la couleur dans ses Maîtres d'autrefois ¹, nous paraît l'avoir fait à un point de vue trop exclusif, et il nous semble intéressant de partir de cette doctrine un peu étroite pour arriver à une conception plus compréhensive de la question.
+Le problème est d'ailleurs encore plus complexe que nous ne l'avons indiqué, et cette reproduction de la nuance propre des objets dont nous venons de parler se heurte à une autre difficulté que celle des contrastes et des couleurs subjectives. Fromentin, qui a traité *ex professo* de la couleur dans ses Maîtres d'autrefois [^p55-1], nous paraît l'avoir fait à un point de vue trop exclusif, et il nous semble intéressant de partir de cette doctrine un peu étroite pour arriver à une conception plus compréhensive de la question.
 
 Cherchant à définir ce qu'est un coloriste, Fromentin conclut par la page suivante : « Enfin
 
 et c'est là le trait à bien retenir dans cette définition plus que sommaire
 
-un coloriste proprement dit est un peintre qui sait conserver aux couleurs de sa gamme, quelle [^p55-1]
+un coloriste proprement dit est un peintre qui sait conserver aux couleurs de sa gamme, quelle
 
 [p. 56] CHAPITRE qu'elle soit, riche ou non, rompue ou non, compliquée ou réduite, leur principe, leur propriété, leur résonance et leur justesse, et cela partout et toujours, dans l'ombre, dans la demi-teinte et jusque dans la lumière la plus vive. C'est par là surtout que les écoles et les hommes se distinguent. Prenez une peinture anonyme, examinez quelle est la qualité du ton local, ce qu'il devient dans la lumière, s'il persiste dans la demiteinte, s'il persiste dans l'ombre la plus intense, et vous pourrez dire avec certitude si cette peinture est ou n'est pas l'œuvre d'un coloriste, à quelle époque, à quel pays, à quelle école elle appartient.
 
@@ -629,7 +629,7 @@ Eh ! bien, l'observation scientifique montre combien il y a de vrai dans la faç
 
 [p. 58] CHAPITRE
 
-« 3º Cet accroissement de sensibilité fait défaut dans la fovea 1. La fovea ne participe donc pas à l'adaptation rétinienne. La sensation de couleur n'étant pas altérée dans la fovea, les lumières simples y sont toujours perçues comme couleurs² ? »
+« 3º Cet accroissement de sensibilité fait défaut dans la fovea 1. La fovea ne participe donc pas à l'adaptation rétinienne. La sensation de couleur n'étant pas altérée dans la fovea, les lumières simples y sont toujours perçues comme couleurs[^p58-2] ? »
 
 Charpentier n'est pas rigoureusement d'accord avec Parinaud ;
 
@@ -639,7 +639,7 @@ soutient par exemple que le rouge n'échappe pas à la loi générale d'après l
 
 . De même, Charpentier déclare avoir constaté, même dans la fovea, que les couleurs provoquent, pour une très faible intensité lumineuse, une sensation incolore. Mais il faut bien remarquer que ces contradictions sont de minime importance pratique, car elles ne portent que sur des cas extrêmes, et l'accord est complet sur ce que le sens chromatique est beaucoup plus développé au centre de la rétine, et M. Parinaud reconnaît que certaines parties de la rétine ne peuvent percevoir le rouge.
 
-Lorsque l'œil a été soumis à l'influence de l'obscurité pendant vingt minutes au moins, les rapports entre les intensités de lumière susceptibles de provoquer la sensation colorée et la sensation lumineuse incolore atteignent des chiffres considérables, comme le montre le tableau suivant, emprunté à M. Charpentier
+Lorsque l'œil a été soumis à l'influence de l'obscurité pendant vingt minutes au moins, les rapports entre les intensités de lumière susceptibles de provoquer la sensation colorée et la sensation lumineuse incolore atteignent des chiffres considérables, comme le montre le tableau suivant, emprunté à M.[^p58-4][^p58-3][^p58-1] Charpentier
 
 Région du spectre
 
@@ -651,7 +651,7 @@ Rouge extrême,
 
 5,5
 
-Orangé,[^p58-1][^p58-2][^p58-3][^p58-4]
+Orangé,
 
 [p. 59] Jaune,
 
@@ -665,7 +665,7 @@ Bleu franc,
 
 Pour un œil non reposé dans l'obscurité, la sensibilité lumineuse serait notablement moindre, ce qui réduirait les rapports précédents, mais la quantité de lumière nécessaire à la distinction de la couleur resterait à peu près constante.
 
-Il semble résulter des chiffres précédents que le rouge se conserverait assez bien dans les parties sombres, tandis que le bleu y tournerait franchement au gris ; en réalité, si cette dernière conséquence est exacte pour un œil adapté à l'obscurité, elle l'est beaucoup moins pour un œil éclairé, et quant au rouge, il passe franchement au noir ; Purkinje avait bien observé que c'est le bleu qu'on peut voir à la lumière la plus faible et le rouge qui exige la lumière la plus forte. C'est qu'en effet les diverses radiations simples occasionnent des sensations dont les intensités ne varient aucunement suivant les mêmes courbes avec l'intensité objective de ces radiations : le bleu croit, en apparence, incomparablement plus lentement que le rouge¹, de sorte que, si deux objets présentant ces couleurs paraissent également clairs sous un
+Il semble résulter des chiffres précédents que le rouge se conserverait assez bien dans les parties sombres, tandis que le bleu y tournerait franchement au gris ; en réalité, si cette dernière conséquence est exacte pour un œil adapté à l'obscurité, elle l'est beaucoup moins pour un œil éclairé, et quant au rouge, il passe franchement au noir ; Purkinje avait bien observé que c'est le bleu qu'on peut voir à la lumière la plus faible et le rouge qui exige la lumière la plus forte. C'est qu'en effet les diverses radiations simples occasionnent des sensations dont les intensités ne varient aucunement suivant les mêmes courbes avec l'intensité objective de ces radiations : le bleu croit, en apparence, incomparablement plus lentement que le rouge[^p59-1], de sorte que, si deux objets présentant ces couleurs paraissent également clairs sous un
 
 éclairement moyen, l'objet rouge sera de beaucoup plus sombre que le bleu dans une demi-obscurité.
 
@@ -675,17 +675,17 @@ l'ombre de la nuit, dont la noire pâleur
 
 Peint les champs et les prés d'une même couleur.
 
-Entrez, d'autre part, dans une église, avant le lever du jour ; au fur et à mesure que celui-ci paraît, les [^p59-1]
+Entrez, d'autre part, dans une église, avant le lever du jour ; au fur et à mesure que celui-ci paraît, les
 
 [p. 60] CHAPITRE
 
 vitraux s'éclairent, mais le bleu semble y dominer, et les rouges tardent beaucoup à s'allumer.
 
-Si à ces faits vous ajoutez que toutes les couleurs tendent vers le blanc lorsqu'elles deviennent suffisamment vives, vous vous convaincrez facilement que le ton local de Fromentin n'est qu'une réalité physique, qu'il s'évanouit sans cesse pour un œil vraiment sensible aux jeux de la lumière. Dans l'ombre, le rouge devient noir, et le bleu, qui s'éclaire, tourne au gris ; quant au violet, s'il provient du mélange des deux tons, il s'altère profondément¹. Tous ces effets, d'ailleurs, devront, comme ceux de contraste, être réalisés artificiellement par le peintre, puisque son tableau ne se trouve aucunement dans les conditions voulues pour qu'ils se produisent spontanément.
+Si à ces faits vous ajoutez que toutes les couleurs tendent vers le blanc lorsqu'elles deviennent suffisamment vives, vous vous convaincrez facilement que le ton local de Fromentin n'est qu'une réalité physique, qu'il s'évanouit sans cesse pour un œil vraiment sensible aux jeux de la lumière. Dans l'ombre, le rouge devient noir, et le bleu, qui s'éclaire, tourne au gris ; quant au violet, s'il provient du mélange des deux tons, il s'altère profondément[^p60-1]. Tous ces effets, d'ailleurs, devront, comme ceux de contraste, être réalisés artificiellement par le peintre, puisque son tableau ne se trouve aucunement dans les conditions voulues pour qu'ils se produisent spontanément.
 
 La doctrine de Fromentin sur
 
-les coloristes et les peintres qui ne le sont pas nous paraît donc inexacte, mais plus encore étroite qu'inexacte, car la conservation du ton local constitue un parti pris pouvant produire des effets puissants. Par l'affirmation énergique du coloris propre des objets, il satisfait le bon sens instinctif du spectateur, toujours prêt à se choquer quand il voit ce coloris se transformer et s'évanouir. Or ces effarements du sens commun sont loin d'être sans excuse et même, dans une certaine mesure, sans justification. Non seulement, en effet, ces apparences subjectives qui font varier une même nuance doivent être rendues objectivement sur le tableau, ainsi que nous l'avons remarqué, ce qui se voit presque fatalement puisque, heureusement, on ne peint pas en trompe-l'œil ; mais en outre l'effet n'est vraiment juste que sous un éclairage déterminé du tableau, ce qui rend presque toujours celui-ci un peu inquiétant, alors même que les lois des sensations lumi-[^p60-1]
+les coloristes et les peintres qui ne le sont pas nous paraît donc inexacte, mais plus encore étroite qu'inexacte, car la conservation du ton local constitue un parti pris pouvant produire des effets puissants. Par l'affirmation énergique du coloris propre des objets, il satisfait le bon sens instinctif du spectateur, toujours prêt à se choquer quand il voit ce coloris se transformer et s'évanouir. Or ces effarements du sens commun sont loin d'être sans excuse et même, dans une certaine mesure, sans justification. Non seulement, en effet, ces apparences subjectives qui font varier une même nuance doivent être rendues objectivement sur le tableau, ainsi que nous l'avons remarqué, ce qui se voit presque fatalement puisque, heureusement, on ne peint pas en trompe-l'œil ; mais en outre l'effet n'est vraiment juste que sous un éclairage déterminé du tableau, ce qui rend presque toujours celui-ci un peu inquiétant, alors même que les lois des sensations lumi-
 
 [p. 61] neuses ont été observées de la façon la plus rigoureuse. Au contraire, quand le ton local se conserve partout, la peinture souffre peu des variations d'éclairage, et, d'un effet peut- être un peu hourgeois, elle donne un grand sentiment de sécurité et d'objectivité.
 
@@ -701,9 +701,9 @@ Si l'on songe d'ailleurs que le peintre a, en tout cas, à lutter contre le déf
 
 Une propriété de notre vision permet d'éluder cet obstacle : deux touches colorées de faible étendue étant juxtaposées, il se produit, pour un observateur placé à une distance suffisante, un mélange optique de ces deux couleurs, mélange provoquant la sensation de la couleur résultante, sans que rien atténue la clarté.
 
-M. Paul Signac a consacré une brochure fort intéressante, que nous avons déjà citée¹, à l'étude de ce procédé de la touche divisée. C'est à Turner que paraît appartenir l'honneur d'avoir le premier appliqué systématiquement ce procédé¹. Delacroix et les impressionnistes y ont eu recours après lui, et ces derniers en ont tiré parfois de merveilleux effets. Certaines toiles de Claude Monet nous ont particulièrement frappé à ce point de vue. On a notamment de lui une vue des rochers de Port- Damon, à Belle-Isle,
+M. Paul Signac a consacré une brochure fort intéressante, que nous avons déjà citée[^p62-1], à l'étude de ce procédé de la touche divisée. C'est à Turner que paraît appartenir l'honneur d'avoir le premier appliqué systématiquement ce procédé¹. Delacroix et les impressionnistes y ont eu recours après lui, et ces derniers en ont tiré parfois de merveilleux effets. Certaines toiles de Claude Monet nous ont particulièrement frappé à ce point de vue. On a notamment de lui une vue des rochers de Port- Damon, à Belle-Isle,
 
-d'un admirable effet à la distance voulue. Ces rochers, d'un gris mordoré, sont peints au moyen de larges touches jaunes et roses, avec un peu de vert dans la lumière, les ombres étant d'un bleu franc. Avec moins d'outrance on retrouve le même procédé dans une exquise vue de l'église de Varengeville et dans des peupliers sur le bord de l'Epte, pour ne citer que quelques toiles dont nous avons un souvenir particulièrement précis. Renoir, bien qu'affichant moins cette division de la touche, y a cependant recours, et, dans sa Femme au chat, la couleur grise de ce dernier est obtenue par la juxtaposition de beaucoup de bleu et de jaune et d'un peu de rouge.[^p62-1][^p62-2]
+d'un admirable effet à la distance voulue. Ces rochers, d'un gris mordoré, sont peints au moyen de larges touches jaunes et roses, avec un peu de vert dans la lumière, les ombres étant d'un bleu franc. Avec moins d'outrance on retrouve le même procédé dans une exquise vue de l'église de Varengeville et dans des peupliers sur le bord de l'Epte, pour ne citer que quelques toiles dont nous avons un souvenir particulièrement précis. Renoir, bien qu'affichant moins cette division de la touche, y a cependant recours, et, dans sa Femme au chat, la couleur grise de ce dernier est obtenue par la juxtaposition de beaucoup de bleu et de jaune et d'un peu de rouge.[^p62-2]
 
 [p. 63] Ruskin n'ignorait pas les avantages de la touche divisée et l'a maintes fois recommandée, et l'américain Rood, dans sa Théorie scientifique des couleurs, en a célébré les vertus. Mais il est inévitable qu'un principe soit poussé, souvent par des hommes de grand talent, au delà des limites légitimes de son application et aboutisse ainsi à sa propre négation : c'est bien ce que nous paraît avoir fait M. Signac lui-même. Nous avons vu de lui un paysage charmant, peint par toutes petites touches, « comme de la paille hachée finement », selon l'expression de Ruskin ; l'œuvre est d'une
 
@@ -721,7 +721,7 @@ De toute cette discussion, d'ordre purement technique, il nous paraît ressortir
 
 Si de la simple question de la reproduction des éléments des sensations nous passons à la constitution d'un tableau, le problème, en se compliquant, ne peut manquer de faire apparaître de nouvelles raisons empêchant une reproduction pure et simple. Fromentin en a donné la démonstration d'une façon si charmante et si péremptoire qui nous lui laisserons simplement la parole :
 
-« Nous étions en ce moment sur la place du Marché (de Blidah). Une troupe d'enfants indigènes s'y livraient à un exercice d'adresse et d'agilité dont nos collégiens ont l'habitude, et qui, je crois, est cosmopolite, car on le trouve en Irlande aussi bien qu'en Orient. Le jeu consiste à lancer une boule, ou un bâton, ou n'importe quoi de léger qui puisse être enlevé rapidement et [^p64-1]
+« Nous étions en ce moment sur la place du Marché (de Blidah). Une troupe d'enfants indigènes s'y livraient à un exercice d'adresse et d'agilité dont nos collégiens ont l'habitude, et qui, je crois, est cosmopolite, car on le trouve en Irlande aussi bien qu'en Orient.[^p64-1] Le jeu consiste à lancer une boule, ou un bâton, ou n'importe quoi de léger qui puisse être enlevé rapidement et
 
 [p. 65] rejeté loin. Chaque joueur est armé d'un bâton, et c'est à qui arrivera le premier pour relever la boule et la lancer de nouveau. Les joueurs étaient de jeunes enfants de huit à douze ans, agréables de visage et déliés de tournure, comme la plupart des petits Maures, avec la physionomie fine, les yeux grands et beaux, le teint aussi pur que celui des femmes. Ils avaient les brasnus, leur cou délicat
 
@@ -747,13 +747,13 @@ soleil et l'excessive lumière, double obstacle dont personne au monde ne s'éta
 
 [p. 68] CHAPITRE
 
-plutôt qu'à les montrer ; le soin d'expliquer ce qui doit ètre expliqué et de sous-entendre les accessoires ; l'art d'indiquer les choses par des ellipses et de faire imaginer même ce que le spectateur ne voit pas, ce grand art de se servir de la nature sans la stéréotyper, tantôt de la copier jusqu'à la servilité, tantôt de la négliger jusqu'à l'oubli ; ce difficile équilibre des vraisemblances qui oblige à demeurer vrai sans être exact, à peindre et non pas à décrire, à donner non pas les illusions, mais les impressions de la vie : tout cela se traduit par un mot ordinaire, et qui fait le sujet de bien des équivoques, peut-être parce qu'il n'a jamais été bien défini, je veux dire l'interprétation » ¹.
+plutôt qu'à les montrer ; le soin d'expliquer ce qui doit ètre expliqué et de sous-entendre les accessoires ; l'art d'indiquer les choses par des ellipses et de faire imaginer même ce que le spectateur ne voit pas, ce grand art de se servir de la nature sans la stéréotyper, tantôt de la copier jusqu'à la servilité, tantôt de la négliger jusqu'à l'oubli ; ce difficile équilibre des vraisemblances qui oblige à demeurer vrai sans être exact, à peindre et non pas à décrire, à donner non pas les illusions, mais les impressions de la vie : tout cela se traduit par un mot ordinaire, et qui fait le sujet de bien des équivoques, peut-être parce qu'il n'a jamais été bien défini, je veux dire l'interprétation » [^p68-1].
 
 Il y a bien des choses dans ce morceau, et il convient d'y faire quelque distinction. Nous y voyons d'abord le choix du tableau à peindre, tableau de paysage ou tableau de figures, au sens large du mot. Sans doute, l'aptitude spéciale et le tempérament du peintre ne sont pas sans influer sur ce choix, mais celui-ci conserve un caractère de liberté bien marqué, à tel point que rien n'empêche un même peintre de faire successivement les deux tableaux. Comme l'indique Fromentin, le peintre, selon son choix, se placera plus ou moins près des petits Blidiens ; mais, alors même que sa position lui serait imposée, il pourrait, tout en enfermant exactement les mêmes objets dans son cadre, faire un paysage ou un tableau de figures. On serait tenté de dire, et non sans quelque raison, que cette dualité est la conséquence nécessaire de ce que nous ne voyons nettement que le point vers lequel convergent nos deux axes optiques, ce qui
 
 entraîne le caractère vague ou des premiers plans ou des lointains.
 
-Il est vrai que l'œil doit parcourir le tableau, comme il parcourt le spectacle extérieur et réel ; mais il s'agit de savoir si un tableau doit et peut être le substitut inté [^p68-1]
+Il est vrai que l'œil doit parcourir le tableau, comme il parcourt le spectacle extérieur et réel ; mais il s'agit de savoir si un tableau doit et peut être le substitut inté
 
 [p. 69] gral de
 
@@ -783,7 +783,7 @@ C'est là, peut-on dire, le côté extérieur, scientifique de la question ; au-
 
 « Un paysage est un état d'âme
 
-», qu'on n'est plus bien sûr de ne pas se tromper en l'attribuant à Amiel ; mais, pour banal qu'il soit devenu, le mot n'en traduit pas moins heureusement une grande vérité. Millet écrivait à son ami Sensier, au retour d'une promenade dans la forêt, près de Barbizon : « Je ne sais pas ce que ces gueux d'arbres se disent entre eux, mais [^p70-1]
+», qu'on n'est plus bien sûr de ne pas se tromper en l'attribuant à Amiel ; mais, pour banal qu'il soit devenu, le mot n'en traduit pas moins heureusement une grande vérité.[^p70-1] Millet écrivait à son ami Sensier, au retour d'une promenade dans la forêt, près de Barbizon : « Je ne sais pas ce que ces gueux d'arbres se disent entre eux, mais
 
 [p. 71] ils se disent quelque chose que nous n'entendons pas, parce que nous ne parlons pas la même langue : voilà tout ! » Eh bien, lorsque le peintre a son peinceau en main,
 
@@ -805,9 +805,9 @@ L'inépuisable lumière jaillissait, jaillissait, pendant qu'à l'opposé la nui
 
 Heureux l'artiste auquel la nature parle un langage qu'il entend ; mais combien de fois, pressé de suggestions diverses, il ne sait à laquelle s'abandonner et regrette sans cesse celles qu'il lui faut sacrifier, toujours prêt à les regarder comme les plus précieuses et les plus vraies. Alors ce sont des tourments que Cherbuliez a rendus assez plaisamment en faisant parler un peintre en veine de bouder contre son « chien de métier »
 
-« Quel est donc ce fatal penchant qui nous pousse malgré nous à donner une figure à ce que nous avons dans la tête, à montrer aux autres ce que nous avons vu, à leur faire sentir ce que nous avons senti ? Eh ! parbleu, j'ai tout senti, mais je n'en puis exprimer que la centième partie, tant nos moyens sont misérables ! Regardez-moi dans les yeux, vous y verrez le monde ; regardez mes œuvres, vous n'y trouverez que ce que j'ai pu dire, et je vous jure que ce que je n'ai pas dit était le plus beau de l'affaire. Mon sentiment est un fleuve, je suis condamné à n'y puiser qu'avec un tout petit arrosoir, et j'ai beau lui ôter sa pomme pour arroser au goulot, l'eau qui en sortn'est qu'une goutte au prix de celle qui court là-bas... Vous m'avez affirmé tout à l'heure que mon tableau venait à merveille. Allez, ne vous gênez pas, traitez-le de chef-d'œuvre. Je [^p72-1]
+« Quel est donc ce fatal penchant qui nous pousse malgré nous à donner une figure à ce que nous avons dans la tête, à montrer aux autres ce que nous avons vu, à leur faire sentir ce que nous avons senti ? Eh ! parbleu, j'ai tout senti, mais je n'en puis exprimer que la centième partie, tant nos moyens sont misérables ! Regardez-moi dans les yeux, vous y verrez le monde ; regardez mes œuvres, vous n'y trouverez que ce que j'ai pu dire, et je vous jure que ce que je n'ai pas dit était le plus beau de l'affaire. Mon sentiment est un fleuve, je suis condamné à n'y puiser qu'avec un tout petit arrosoir, et j'ai beau lui ôter sa pomme pour arroser au goulot, l'eau qui en sortn'est qu'une goutte au prix de celle qui court là-bas... Vous m'avez affirmé tout à l'heure que mon tableau venait à merveille. Allez, ne vous gênez pas, traitez-le de chef-d'œuvre.[^p72-1] Je
 
-[p. 73] ne le finirai pas. Quand je le compare à l'autre, à celui qui est dans mon âme, dans mes nerfs et dans mes yeux, je ne sais que trop tout ce qui lui manque, et la nature le sait encore mieux que moi » ¹.
+[p. 73] ne le finirai pas. Quand je le compare à l'autre, à celui qui est dans mon âme, dans mes nerfs et dans mes yeux, je ne sais que trop tout ce qui lui manque, et la nature le sait encore mieux que moi » [^p73-1].
 
 Il ne dit pas tout dans sa mauvaise humeur : non seulement il est impuissant à rendre tout ce qu'il y a dans la nature, chose que nous savons assez
 
@@ -815,7 +815,7 @@ Il ne dit pas tout dans sa mauvaise humeur : non seulement il est impuissant à 
 
 Incapable de reproduire vraiment la nature, nous l'avons assez vu, l'artiste doit faire autre chose qu'elle, s'il ne veut pas se condamner à lui rester déplorablement inférieur. Pour certains, le rôle de l'artiste est de dégager une moyenne. « Dans les objets réels, dit Herckenrath, il y a toujours du trop ou du trop peu ; mais ces impressions contraires se balancent, s'effacent mutuellement dans notre esprit et ne laissent subsister que la moyenne » * ; puis il continue : « Pour la beauté humaine, cette théorie paraît assez plausible. Le type d'une race, ce sont les traits vers lesquels gravitent sans cesse les écarts individuels. Le type de la beauté masculine, c'est un homme dont la taille ne soit ni trop grande ni trop petite, les muscles développés normalement (l'Hercule Farnèse, beau comme type d'un hercule, est difforme en tant que type d'homme), les membres ni trop longs ni trop courts, ni trop gras ni trop maigres,
 
-etc. ». Herckenrath reconnaît bien certaines [^p73-1][^p73-2]
+etc. ».[^p73-2] Herckenrath reconnaît bien certaines
 
 [p. 74] CHAPITRE
 
@@ -859,7 +859,7 @@ vie de
 
 tendre dévouement, résumée par ce serrement de main et ce regard qui a tant de peine à se redresser assez. C'est d'une sobriété incomparable, mais à contempler cette pauvre vieille on est peu à peu pénétré de l'émotion la plus profonde.
 
-Nous nous sommes laissé aller à parler de cette petite toile qui nous a si fort impressionné, mais mieux vaut considérer un même sujet traité par deux écoles différentes.. Taine a rapproché ainsi les repas du Christ dans Rembrandt et dans Véronèse ' ; à vrai dire, on pourrait, dans une certaine mesure, écarter d'une telle com [^p76-1]
+Nous nous sommes laissé aller à parler de cette petite toile qui nous a si fort impressionné, mais mieux vaut considérer un même sujet traité par deux écoles différentes..[^p76-1] Taine a rapproché ainsi les repas du Christ dans Rembrandt et dans Véronèse ' ; à vrai dire, on pourrait, dans une certaine mesure, écarter d'une telle com
 
 [p. 77] paraison les Noces de Cana et même le Repas chez Simon le pharisien, car il y a une grande différence de sujet avec les
 
@@ -883,7 +883,7 @@ Voilà, dans toute leur opposition, les idéals que poursuivent les divers artis
 
 encore plus belle. L'Apollon lui-même admet plus d'une critique. L'idéal recule sans cesse à mesure qu'on en approche davantage. Son dernier terme est dans l'infini, c'est-à-dire en Dieu ; ou pour mieux parler, le vrai et absolu idéal n'est autre que Dieu même » 1.
 
-Osons dire qu'il y a là beaucoup de vrai, mais hâtonsnous d'ajouter que le point le plus délicat du problème est simplement escamoté. Voilà un idéal qui fuit toujours et se soustrait aux poursuites de l'artiste : c'est un fait d'expérience que confirmeront surtout les plus grands maîtres. Cet idéal est en Dieu, nous le voulons bien encore, vieux disciple de Malebranche que nous sommes ; mais l'idée du triangle y est aussi, l'idée de [^p78-1]
+Osons dire qu'il y a là beaucoup de vrai, mais hâtonsnous d'ajouter que le point le plus délicat du problème est simplement escamoté. Voilà un idéal qui fuit toujours et se soustrait aux poursuites de l'artiste : c'est un fait d'expérience que confirmeront surtout les plus grands maîtres.[^p78-1] Cet idéal est en Dieu, nous le voulons bien encore, vieux disciple de Malebranche que nous sommes ; mais l'idée du triangle y est aussi, l'idée de
 
 [p. 79] toutes les formes possibles y est également. La question est de savoir s'il y a un idéal déterminé, nous ne dirons pas de l'homme par excellence, car il est dans les diverses sortes d'hommes des qualités contradictoires, mais de tel genre d'homme particulier. Eh bien, nous ne le pensons pas. Tout être fini est imparfait et perfectible par nature, et il en est ainsi de son idée aussi bien que de son être phénoménal. Mais il n'en résulte point que l'artiste fasse œuvre vaine, en poursuivant l'idéal. M. Ricardou, dans la thèse qu'il lui a consacrée, le définit : la conception progressive, sous une forme déterminée, du mieux possible 1. Nous supprimerions ce dernier mot qui semble attribuer une signification superlative à ce mieux qui, pour nous, est essentiellement comparatif. Dans la voie où il s'est engagé, l'artiste cherche le mieux, c'est-à-dire qu'il cherche à améliorer sans cesse les images qu'il s'efforce à reproduire ou à exprimer par les procédés dont il dispose ; mais qu'il le sache bien, l'idéal qu'il poursuit et doit poursuivre n'existe pas plus que l'archétype du plus parfait des mondes possibles.
 
@@ -931,7 +931,7 @@ Mais nous ne nous arrêterons pas sur les mouvements généraux du corps, et nou
 
 Tout le monde sait que la musique repose sur l'emploi de sons émis à des intervalles de temps réglés par le rythme et la mesure et séparés eux-mêmes, sur l'échelle acoustique, par des intervalles strictement déterminés. Mais ce qu'on sait moins, c'est que la parole, au fur et à mesure qu'elle passe de la conversation courante à une forme plus esthétique, celle du discours, tend de plus en plus à revêtir les caractères objectifs de la musique.
 
-M. l'abbé Thiéry, directeur du laboratoire de psychologie expérimentale de Louvain, a fait sur ce sujet des observations fort curieuses¹. Ayant remarqué que la principale difficulté s'opposant à ce qu'on puisse identifier une émission de son parlé avec une note de la gamme paraissait tenir à la trop courte durée de cette émission, cet expérimentateur a eu l'idée de compléter les procédés phonographiques déjà employés en prolongeant à volonté la durée de la syllabe ou des syllabes à observer. On sait que le rouleau de cire impressionné présente une hélice plus ou moins profonde aux divers points selon les sons émis, et que l'on reproduit ces [^p81-1]
+M. l'abbé Thiéry, directeur du laboratoire de psychologie expérimentale de Louvain, a fait sur ce sujet des observations fort curieuses[^p81-1]. Ayant remarqué que la principale difficulté s'opposant à ce qu'on puisse identifier une émission de son parlé avec une note de la gamme paraissait tenir à la trop courte durée de cette émission, cet expérimentateur a eu l'idée de compléter les procédés phonographiques déjà employés en prolongeant à volonté la durée de la syllabe ou des syllabes à observer. On sait que le rouleau de cire impressionné présente une hélice plus ou moins profonde aux divers points selon les sons émis, et que l'on reproduit ces
 
 [p. 82]
 
@@ -959,13 +959,13 @@ Nous devons d'ailleurs faire une remarque : des deux éléments musicaux de la p
 
 On doit bien distinguer celui-ci de la mesure qui, constituée par une succession de temps forts et de temps faibles, est la loi régulatrice de la musique classique, mais n'a aucun caractère de nécessité. Le rythme est plus général et consiste simplement dans une division méthodique du temps que remplit un discours ou une composition musicale. Cette ressemblance, ou cette identité, à ce point de vue, du langage et de la musique, ressort bien dans cette énonciation de M. Combarieu : « L'œuvre musicale où le rythme est réalisé d'une façon complète ressemble au discours littéraire, en ce sens que la suite des sons y est comme jalonnée par certains arrêts qui sont, pour le chanteur ou l'instrumentiste, ce que les virgules et les points sont pour l'orateur. Elle ressemble plus exactement au poème en vers et, en particulier, au poème lyrique, c'est-à-dire au poème à formes fixes, parce qu'elle se compose de parties généralement soumises à des retours réguliers >1.
 
-Pour cet auteur, il n'est possible d'approfondir la question du rythme musical que par l'analyse de toutes les poésies lyriques, venant compléter celle des compositions musicales de l'antiquité et des temps modernes. Mais il borne le champ de ses investigations à la musique classique, où le rythme s'affirme plus que [^p83-1]
+Pour cet auteur, il n'est possible d'approfondir la question du rythme musical que par l'analyse de toutes les poésies lyriques, venant compléter celle des compositions musicales de l'antiquité et des temps modernes.[^p83-1] Mais il borne le champ de ses investigations à la musique classique, où le rythme s'affirme plus que
 
 [p. 84] CHAPITRE
 
 dans les œuvres inspirées par Wagner, et il la rapproche particulièrement du lyrisme antique, conformément à une vue de Westphal qu'il suit librement. Cet auteur allemand
 
-s'était consacré spécialement à l'étude des classiques, surtout de Bach, dont les fugues lui avaient seules donné la pleine intelligence de la Rythmique d'Aristoxène ¹. M. Gevaert, l'éminent directeur du Conservatoire de Bruxelles, dit de même et inversement « qu'une intelligence complète de nos grands musiciens classiques n'est pas possible sans une étude soigneuse de la rythmique d'Aristoxène ».
+s'était consacré spécialement à l'étude des classiques, surtout de Bach, dont les fugues lui avaient seules donné la pleine intelligence de la Rythmique d'Aristoxène [^p84-1]. M. Gevaert, l'éminent directeur du Conservatoire de Bruxelles, dit de même et inversement « qu'une intelligence complète de nos grands musiciens classiques n'est pas possible sans une étude soigneuse de la rythmique d'Aristoxène ».
 
 Ainsi, musique et poésie tirant du rythme tout ce qu'il peut donner aboutissent aux mêmes résultats, et c'est là un point capital qu'il convenait de constater, avant de résumer les bases de la théorie du rythme, telles que les dégage M. Combarieu.
 
@@ -981,7 +981,7 @@ l'iambe
 
 suivie d'une longue), le trochée (une longue suivie d'une brève) et le tribrachys (trois brèves).
 
-Le membre de phrase ou kolon équivaut au vers en poésie. Les kôla se distinguent : par le genre rythmique, c'est-à-dire par le type de pieds à trois ou à quatre [^p84-1][^p84-2]
+Le membre de phrase ou kolon équivaut au vers en poésie.[^p84-2] Les kôla se distinguent : par le genre rythmique, c'est-à-dire par le type de pieds à trois ou à quatre
 
 [p. 85] temps qui les composent ; par leur étendue, celle-ci variant non seulement par le nombre des pieds composants, mais par la longueur du pied final qui peut être incomplet ou katalectique ; par leur terminaison, qui est féminine ou masculine, selon que la césure coïncide avec un temps faible ou un temps fort ; par leur forme initiale, qui a ou n'a pas d'anacruse, c'est-à-dire un groupe de notes faibles placées au début d'un kolon, avant le premier temps fort ; enfin par la place de l'accent principal (que le goût, en général, peut seul déterminer).
 
@@ -1005,13 +1005,13 @@ Pour donner une idée un peu complète de la multiplicité des combinaisons math
 
 Si du vers antique nous passons au vers français, la différence apparaît grande, car nous n'avons plus cette rigoureuse distinction de longues et de brèves, avec leur rapport mathématique de 2 à 1. Dans ses Problèmes de l'esthétique contemporaine, Guyau a critiqué d'une façon assez pénétrante ce qu'il y avait de trop inflexible dans la règle antique : « Les vraies syllabes brèves, [p. 87] dans une langue, dit-il, doivent être celles qui n'ont pas grande importance au point de vue de la pensée ; les syllabes longues doivent être celles sur lesquelles on veut insister en lisant ou en parlant ; mais il est un peu artificiel et conventionnel de fixer d'avance et pour toujours à chaque syllabe, indépendamment du sens, une longueur déterminée et mathématique » (p. 183). Remarquons d'ailleurs que la quantité prosodique devait se perdre d'autant plus rapidement, chez le peuple, que l'accent tonique tombait tantôt sur les longues et tantôt sur les brèves, ce qui donnait sans doute lieu à d'inimitables effets de rythme, mais n'en avait pas moins quelque chose d'anomal.
 
-Un premier résultat de la perte de toute rigueur dans la durée des syllabes a été de rendre le rythme moins facilement perceptible, et telle est la raison d'être de la rime, pour laquelle les exigences se sont légitimement accrues en même temps que le vers moderne prenait plus de liberté. Cela ne signifie aucunement qu'elle puisse devenir l'élément prépondérant du vers, dont elle serait « l'unique harmonie », si l'on voulait en croire Théodore de Banville, qui emprunte cette formule à une poésie de Sainte-Beuve consacrée à la rime et dans laquelle celui-ci pouvait se permettre quelque exagération ¹. Si le rythme s'est assoupli, ce n'est point pour disparaître, mais pour produire des effets plus variés et mieux se prêter à toutes les formes de la pensée
+Un premier résultat de la perte de toute rigueur dans la durée des syllabes a été de rendre le rythme moins facilement perceptible, et telle est la raison d'être de la rime, pour laquelle les exigences se sont légitimement accrues en même temps que le vers moderne prenait plus de liberté. Cela ne signifie aucunement qu'elle puisse devenir l'élément prépondérant du vers, dont elle serait « l'unique harmonie », si l'on voulait en croire Théodore de Banville, qui emprunte cette formule à une poésie de Sainte-Beuve consacrée à la rime et dans laquelle celui-ci pouvait se permettre quelque exagération [^p87-1]. Si le rythme s'est assoupli, ce n'est point pour disparaître, mais pour produire des effets plus variés et mieux se prêter à toutes les formes de la pensée
 
 : plus il a acquis de liberté et plus il est tenu de ne pas se trahir lui-même, en sorte que,
 
 si on lui donne un plus riche encadrement, il doit s'en montrer digne. Or la recherche exagérée de la rime riche conduit fatalement à un résultat diamétralement opposé.
 
-Poussé par la logique de cette recherche, de Banville en arrive à affectionner la rime calembour et à dédaigner, nous l'avons vu, complètement le rythme. « Qu'est-[^p87-1]
+Poussé par la logique de cette recherche, de Banville en arrive à affectionner la rime calembour et à dédaigner, nous l'avons vu, complètement le rythme. « Qu'est-
 
 [p. 88] CHAPITRE
 
@@ -1023,9 +1023,9 @@ Mais c'est assez parler de la rime, qui ne nous intéresse que très accessoirem
 
 : examinons sans plus tarder le rythme de nos vers, spécialement de l'alexandrin.
 
-Guyau, dans l'ouvrage que nous avons déjà cité, et M. Sully Prudhomme, dans ses Réflexions sur l'art des vers, en ont donné un exposé simple que nous résumerons d'abord. Si les longues et les brèves ont disparu avec leur rapport inathématique et absolu, elles n'en subsistent pas moins dans une assez large mesure ; aussi le procédé qui se borne à compter les syllabes apparaît- il comme assez grossier, bien que la proportion fixe d'émissions de voix soit une condition naturelle de la jouissance auditive. Du reste, il est incontestable que ce procédé conduit à des résultats parfaitement acceptables. Cela tient à ce que, par une sorte de tempérament, selon l'expression de Guyau, plus la voix passe vite sur certaines syllabes, plus elle insistera, par compensation, sur les syllabes fortes, comme le dit Sully Prudhomme. Cette compensation doit se faire, non seulement dans chaque vers, mais encore dans chaque unité de mesure rythmique, c'est-à-dire dans chaque hémistiche pour l'alexandrin classique.
+Guyau, dans l'ouvrage que nous avons déjà cité, et M. Sully Prudhomme, dans ses Réflexions sur l'art des vers, en ont donné un exposé simple que nous résumerons d'abord. Si les longues et les brèves ont disparu avec leur rapport inathématique et absolu, elles n'en subsistent pas moins dans une assez large mesure ; aussi le procédé qui se borne à compter les syllabes apparaît- il comme assez grossier, bien que la proportion fixe d'émissions de voix soit une condition naturelle de la jouissance auditive. Du reste, il est incontestable que ce procédé conduit à des résultats parfaitement acceptables. Cela tient à ce que, par une sorte de tempérament, selon l'expression de Guyau, plus la voix passe vite sur certaines syllabes, plus elle insistera, par compensation, sur les syllabes fortes, comme le dit Sully Prudhomme. Cette compensation doit se faire, non seulement dans chaque vers, mais encore dans chaque unité de mesure rythmique, c'est-à-dire dans chaque hémistiche pour l'alexandrin classique.[^p88-1]
 
-Un rythme régulier suppose un commun diviseur entre les durées des périodes rythmiques composant un vers, et c'est pour cela que le nombre 12 est si favorable, étant divisible par 2, 3, 4 et 6 et se prêtant ainsi [^p88-1]
+Un rythme régulier suppose un commun diviseur entre les durées des périodes rythmiques composant un vers, et c'est pour cela que le nombre 12 est si favorable, étant divisible par 2, 3, 4 et 6 et se prêtant ainsi
 
 [p. 89] à des divisions très variées en nombres de syllabes ayant un commun diviseur : c'est le plus grand commun diviseur qui fournit, dans chaque cas, leur unité de mesure aux périodes rythmiques, qui toutes doivent présenter des durées égales, bien que les syllabes composant chacune d'elles en aient d'inégales.
 
@@ -1047,7 +1047,7 @@ S'éteint comme un oiseau se po- se : tout se tait.
 
 D'autres fois, Racine adopte la coupe ternaire, que méconnaissent d'une façon qui nous surprend et Sully
 
-[p. 90] CHAPITRE Prudhomme et Guyau¹, tandis que M. Renouvier est porté à la voir là où elle n'a que faire, par exemple dans le vers précédent qu'il mutile en le scandant ainsi :
+[p. 90] CHAPITRE Prudhomme et Guyau[^p90-1], tandis que M. Renouvier est porté à la voir là où elle n'a que faire, par exemple dans le vers précédent qu'il mutile en le scandant ainsi :
 
 S'éteint — comme un oiseau se po- se : tout se tait.
 
@@ -1073,7 +1073,7 @@ Nous nous sentimes prendre...
 
 Très sage, la théorie que nous venons de résumer nous paraît un peu étroite ; aussi, tout en y trouvant quelques difficultés, serions-nous porté à lui préférer celle qu'a développée M. l'abbé Theys, de l'Institut de la Louvière (Belgique), dans un volume consacré à la Métrique de Victor Hugo
 
-. Pour lui, l'alexandrin classique dérive directement de l'hexamètre latin et corres [^p90-1][^p90-2]
+.[^p90-2] Pour lui, l'alexandrin classique dérive directement de l'hexamètre latin et corres
 
 [p. 91] pond dès lors à vingt-quatre brèves, qui sont toujours représentées par douze syllabes : comme celles-ci ne sont pas toutes des longues, il y en a forcément qui correspondent à plus de deux brèves.
 
@@ -1089,7 +1089,7 @@ suivant
 
 lesquelles on peut répartir douze syllabes
 
-en quatre groupes formant deux hémistiches de six syllables¹. Puis il remarque que, si la césure médiane s'atténue, il y a tendance à reporter l'accent rythmique principal sur un autre accent, ordinairement le précédent, la césure médiane n'ayant plus qu'un accent tonique, ce qui permet aux deux éléments rythmiques médians de se [^p91-1]
+en quatre groupes formant deux hémistiches de six syllables[^p91-1]. Puis il remarque que, si la césure médiane s'atténue, il y a tendance à reporter l'accent rythmique principal sur un autre accent, ordinairement le précédent, la césure médiane n'ayant plus qu'un accent tonique, ce qui permet aux deux éléments rythmiques médians de se
 
 [p. 92] CHAPITRE contracter de telle sorte que le vers ne comprenne que trois divisions. On a, dans ce cas, une forme dérivée instable, parce qu'il peut y avoir hésitation sur le caractère de l'accent du milieu.
 
@@ -1171,7 +1171,7 @@ On voit donc que les sensations auditives sont remarquablement bien douées au p
 
 Comme l'auteur d'une récente étude fort bien faite sur la Génération de la gamme diatonique
 
-, M. Léon Boutroux, nous croyons que le seul phénomène objectif, actuellement connu, qui puisse fournir une base aux gammes, est celui de la production des harmoniques ³. Adopté par Helmholtz comme principe d'explication des phénomènes de consonance et de dissonance, il est, il est vrai, plus ou moins abandonné par Stumpf qui s'attache surtout à la fusion des sons simultanés, c'est-à-dire à l'impression qu'ils nous donnent d'un son unique ; mais cette [^p96-1][^p96-2][^p96-3]
+, M. Léon Boutroux, nous croyons que le seul phénomène objectif, actuellement connu, qui puisse fournir une base aux gammes, est celui de la production des harmoniques [^p96-3].[^p96-2][^p96-1] Adopté par Helmholtz comme principe d'explication des phénomènes de consonance et de dissonance, il est, il est vrai, plus ou moins abandonné par Stumpf qui s'attache surtout à la fusion des sons simultanés, c'est-à-dire à l'impression qu'ils nous donnent d'un son unique ; mais cette
 
 [p. 97] fusion même paraît en singulière affinité avec la théorie des harmoniques, puisque ceux-ci sont précisément les sons qui s'ajoutent au son fondamental et fusionnent avec lui pour lui donner son timbre, par suite de la division du corps sonore en parties aliquotes vibrant séparément tout en participant à la vibration d'ensemble. Nous prendrons donc le phénomène des harmoniques comme principe de la gamme, et nous l'appliquerons dans toute sa rigueur pour obtenir ce qu'on pourrait appeler la gamme naturelle ou la gamme juste, puis nous indiquerons pour quel motif on est pratiquement contraint de l'altérer. Nous ignorons quelle raison a amené M. Boutroux à ne pas suivre cette marche, qui paraît la seule rationnelle lorsque, comme lui, on s'appuie essentiellement sur les harmoniques. Nous n'aurons, du reste, aucun mérite à établir la théorie de la gamme naturelle, car nous la trouvons dans diverses publications de M. l'abbé de Lescluze sur les Secrets du coloris, publications sur lesquelles nous reviendrons bientôt.
 
@@ -1283,7 +1283,7 @@ Il faudrait donc changer les notes en passant d'une gamme à l'autre, ce qui com
 
 , car il est imposé comme renversement de la [p. 99] quinte de la gamme de fa, intervalle essentiel qui ne saurait être altéré, tandis que, dans la gamme de do, le fa est une note de passage. De même, le la devra être celui de la gamme de Ptolémée, à titre de quinte du mi qui forme la tierce majeure du do, deux intervalles fondamentaux.
 
-Il semble donc que la gamme de Ptolémée aurait dû s'imposer universellement ¹, et cependant on sait, spécialement depuis les beaux travaux de MM. Cornu et Mercadier
+Il semble donc que la gamme de Ptolémée aurait dû s'imposer universellement [^p99-1], et cependant on sait, spécialement depuis les beaux travaux de MM. Cornu et Mercadier
 
 , que la musique mélodique préfère la gamme de Pythagore, obtenue au moyen de quintes successives ; ce fait nous paraît du reste fort naturel car, les consonances devenant beaucoup moins appréciables, le musicien doit céder instinctivement à l'attraction qu'exerce sur lui la génération par l'intervalle dont la justesse est la plus sensible 3. Nous ne comprenons pas d'ailleurs l'opposition faite par Hirn à cette conception de deux gammes convenant plus particulièrement l'une à la mélodie et l'autre à l'harmonie. Sans doute, si, dans son adieu au cygne, Lohengrin abandonne la gamme de l'orchestre, il en sera cruellement puni par le rappel que lui adressera l'orchestre lui-même de cinq en cinq mesures ; mais qui a jamais prétendu qu'on dût faire usage simultanément de deux gammes distinctes ? M. Boutroux, assez audacieux dans cet ordre
 
@@ -1293,7 +1293,7 @@ Dans notre hâte de montrer comment de la gamme naturelle on est amené à passe
 
 81
 
-1. Malheureusement, la quinte ré-la est fausse de un comma 80[^p99-1][^p99-2]
+1.[^p99-2] Malheureusement, la quinte ré-la est fausse de un comma 80
 
 [p. 100] CHAPITRE
 
@@ -1309,21 +1309,21 @@ Quelque intérêt qui nous paraisse s'attacher aux théories acoustiques de ce p
 
 Deux faits expérimentaux, à vérifier, inspirent toute l'œuvre de M. de Lescluze : 1º Chaque peintre n'emploie qu'un nombre très restreint de couleurs distinctes ; 2º le coloris joue un rôle considérable dans la perspective d'un tableau.
 
-Il s'agit de reconnaître les lois précises qui gouver nent ces deux ordres de faits. Or ce choix instinctif que les grands peintres font d'un nombre restreint de cou-[p. 101]leurs ¹, choix variable d'ailleurs d'un peintre à l'autre, rappelle naturellement le choix fait par les musiciens dans la série continue des sons, et l'on arrive naturellement à la notion de gammes de couleurs. M. l'abbé de Lescluze n'est pas le premier à supposer que les rapports entre les nombres de vibrations ou d'ondulations gouvernent les rapports chromatiques, comme ils font des rapports acoustiques ; mais son originalité consiste dans les développements qu'il a su donner à cette idée, tombée depuis longtemps dans le domaine public sans avoir, semble-t-il, abouti précédemment à aucun résultat bien satisfaisant.
+Il s'agit de reconnaître les lois précises qui gouver nent ces deux ordres de faits. Or ce choix instinctif que les grands peintres font d'un nombre restreint de cou-[p. 101]leurs [^p101-1], choix variable d'ailleurs d'un peintre à l'autre, rappelle naturellement le choix fait par les musiciens dans la série continue des sons, et l'on arrive naturellement à la notion de gammes de couleurs. M. l'abbé de Lescluze n'est pas le premier à supposer que les rapports entre les nombres de vibrations ou d'ondulations gouvernent les rapports chromatiques, comme ils font des rapports acoustiques ; mais son originalité consiste dans les développements qu'il a su donner à cette idée, tombée depuis longtemps dans le domaine public sans avoir, semble-t-il, abouti précédemment à aucun résultat bien satisfaisant.
 
 Revenant à la théorie des gammes fondée sur la série des harmoniques, nous voyons qu'on a, entre deux puissances consécutives de 2, une gamme composée ellemême d'un nombre de notes formant une puissance de 2 à condition de ne pas compter l'octave de la tonique. Il est indispensable, quand on lit les écrits de M. de Lescluze, de se bien pénétrer de ces principes mathématiques, si l'on ne veut se heurter à mainte proposition apparaissant autrement comme inexplicable.
 
-Les couleurs spectrales forment à peine une octave, c'est-à-dire que, de la moins réfrangible à la plus réfrangible, le nombre des ondulations varie à peine du simple au double. Il est bien vrai que, pour un œil adapté à l'obscurité, ce rapport peut être quelque peu dépassé ; mais on sait qu'alors la sensibilité des bâtonnets, incapable d'apprécier la couleur, intervient seule. Il est donc bien vrai de dire, comme on le fait généralement, que l'octave spectrale est incomplète et ne s'achève que par l'addition du pourpre ou, comme l'appelle M. de Lescluze, du nacarat ou rouge de nacre. Comme on l'a remarqué d'ailleurs, le spectre paraît bien tendre à reproduire à l'octave la couleur de base, puisque le [^p101-1]
+Les couleurs spectrales forment à peine une octave, c'est-à-dire que, de la moins réfrangible à la plus réfrangible, le nombre des ondulations varie à peine du simple au double. Il est bien vrai que, pour un œil adapté à l'obscurité, ce rapport peut être quelque peu dépassé ; mais on sait qu'alors la sensibilité des bâtonnets, incapable d'apprécier la couleur, intervient seule. Il est donc bien vrai de dire, comme on le fait généralement, que l'octave spectrale est incomplète et ne s'achève que par l'addition du pourpre ou, comme l'appelle M. de Lescluze, du nacarat ou rouge de nacre. Comme on l'a remarqué d'ailleurs, le spectre paraît bien tendre à reproduire à l'octave la couleur de base, puisque le
 
 [p. 102] CHAPITRE violet est un intermédiaire entre le bleu et le rouge.
 
-Du moment que le spectre ainsi complété correspond à une octave, on y choisit naturellement un nombre de nuances qui soit une puissance de 2 : M. de Lescluze en prend 128¹, mais il reconnaît le caractère théorique de ce choix, car il déclare que, dans le haut de l'échelle, il est fort difficile de distinguer tous les tons, tandis que, vers le milieu, il est relativement aisé d'en multiplier davantage le nombre, si bien qu'à l'occasion il fait des emprunts à la gamme de 256ª couleurs.
+Du moment que le spectre ainsi complété correspond à une octave, on y choisit naturellement un nombre de nuances qui soit une puissance de 2 : M. de Lescluze en prend 128[^p102-1], mais il reconnaît le caractère théorique de ce choix, car il déclare que, dans le haut de l'échelle, il est fort difficile de distinguer tous les tons, tandis que, vers le milieu, il est relativement aisé d'en multiplier davantage le nombre, si bien qu'à l'occasion il fait des emprunts à la gamme de 256ª couleurs.
 
 En fait, M. de Lescluze déclare avoir constaté, chez tous les maîtres de la peinture, que chacun d'eux n'a recours qu'à une gamme de 32 couleurs
 
-; pour achever de vérifier sa conception théorique, il faudrait s'assurer que ces couleurs répondent à des nombres d'ondulations proportionnels aux entiers consécutifs de 32 à 64. Mais ici on se heurte à une très grave difficulté comment déterminer le nombre correspondant à une couleur-pigment donnée ? On ne peut mesurer sa longueur d'onde, car elle ne réfléchit pas une radiation simple, mais bien un ensemble de radiations différentes ; va-t-on la comparer aux couleurs spectrales et déterminer ainsi celle qui lui est équivalente ? Ici apparaît une invincible difficulté : le spectre ne se voit bien que dans l'obscurité ; en plein jour, c'est-à-dire dans les conditions où l'on peut bien voir les couleurs-pigments, on ne l'aperçoit que dilué ou dessaturé dans une forte mesure, ce qui altère profondément les nuances, ainsi qu'il ressort des expériences de Rood au moyen de disques tournants. Il reste bien une ressource, l'analyse quantitative au moyen du spectroscope, complété par un dispositif photométrique, et le calcul de la radiation équivalant à la synthèse
+; pour achever de vérifier sa conception théorique, il faudrait s'assurer que ces couleurs répondent à des nombres d'ondulations proportionnels aux entiers consécutifs de 32 à 64. Mais ici on se heurte à une très grave difficulté comment déterminer le nombre correspondant à une couleur-pigment donnée ? On ne peut mesurer sa longueur d'onde, car elle ne réfléchit pas une radiation simple, mais bien un ensemble de radiations différentes ; va-t-on la comparer aux couleurs spectrales et déterminer ainsi celle qui lui est équivalente ? Ici apparaît une invincible difficulté : le spectre ne se voit bien que dans l'obscurité ; en plein jour, c'est-à-dire dans les conditions où l'on peut bien voir les couleurs-pigments, on ne l'aperçoit que dilué ou dessaturé dans une forte mesure, ce qui altère profondément les nuances, ainsi qu'il ressort des expériences de Rood au moyen de disques tournants.[^p102-3][^p102-2] Il reste bien une ressource, l'analyse quantitative au moyen du spectroscope, complété par un dispositif photométrique, et le calcul de la radiation équivalant à la synthèse
 
-: les difficultés de l'opération sont sans doute grandes, quand on a besoin d'un résultat précis, mais le [^p102-1][^p102-2][^p102-3]
+: les difficultés de l'opération sont sans doute grandes, quand on a besoin d'un résultat précis, mais le
 
 [p. 103] problème en jeu vaut bien qu'on se donne de la peine pour le résoudre. Malheureusement, M. de Lescluze n'a pas tenté cette voie et n'a attribué des nombres aux couleurs-pigments qu'en vertu de conceptions théoriques : ces conceptions sont de plusieurs sortes, et il en est que nous ne saurions encore faire comprendre, mais en voici une que nous pouvons donner dès maintenant. M. de Lescluze admet l'applicabilité aux couleurs de la loi qui lie la consonance des sons à la simplicité du rapport entre leurs nombres de vibrations. Partant de là, si le nombre 128 a été attribué au rouge nacarat, on choisira parmi les verts une couleur harmonique avec lui pour répondre au nombre 192, formant quinte avec la tonique.
 
@@ -1349,13 +1349,13 @@ La gamme de Jordaens, fournie par les multiples de 9 et ayant pour tonique le ro
 
 La gamme de Rembrandt, fournie par les multiples de 13 et ayant pour tonique le bleu 208 ;
 
-Enfin la gamme italienne, fournie par les multiples de 21 et ayant pour tonique le jaune jonquille 168 1.
+Enfin la gamme italienne, fournie par les multiples de 21 et ayant pour tonique le jaune jonquille 168 1.[^p104-1]
 
-Disons de suite, pour prévenir des étonnements non [^p104-1]
+Disons de suite, pour prévenir des étonnements non
 
 [p. 105] justifiés, que la tonique d'une gamme de couleurs ne joue pas forcément le rôle prépondérant qui est dévolu aux toniques des gammes musicales : c'est ainsi que le bleu n'apparaît que très discrètement dans les œuvres de Rembrandt.
 
-Cette remarque faite, si nous revenons aux gammes dont nous venons de donner la liste, nous verrons que la gamme italienne a pour nombre caractéristique un multiple de celui de la gamme de Rubens (21, multiple de 7). Il en résulte que la première de ces gammes est une dérivée de la seconde, un relatif selon la terminologie précise que nous exposerons tout à l'heure ; sa tonique en est la dominante, et les deux gammes ont le tiers de leurs notes en commun. Il y a donc affinité intime entre elles, et certains peintres, comme Véronèse, dans les Disciples d'Emmaüs du Louvre ¹,
+Cette remarque faite, si nous revenons aux gammes dont nous venons de donner la liste, nous verrons que la gamme italienne a pour nombre caractéristique un multiple de celui de la gamme de Rubens (21, multiple de 7). Il en résulte que la première de ces gammes est une dérivée de la seconde, un relatif selon la terminologie précise que nous exposerons tout à l'heure ; sa tonique en est la dominante, et les deux gammes ont le tiers de leurs notes en commun. Il y a donc affinité intime entre elles, et certains peintres, comme Véronèse, dans les Disciples d'Emmaüs du Louvre [^p105-1],
 
 et David
 
@@ -1363,7 +1363,7 @@ Seghers, dans son Adoration des Mages de l'église Notre-Dame de Bruges, ont su 
 
 Avant d'entrer dans l'analyse des lois qui régissent l'emploi des couleurs de ces tonalités ou gammes, dans les œuvres d'art, nous devons noter enfin que, d'après M. de Lescluze, les couleurs des fleurs appartenant à une même famille botanique rentrent toutes dans une même gamme de 32 ou de 64 tons, et que cette loi s'étend aussi aux animaux. Citons seulement quelques exemples : à la gamme espagnole appartiennent les couleurs des perroquets, des camélias, azalées et rhododendrons ; à la tonalité de Rubens se rattachent
 
-les gallinacés et passereaux, les tulipes, jacinthes et orchidées. Il va de soi que la nature, moins exclusive que les peintres, ne s'enferme pas dans leurs cinq tonalités. Il nous semble qu'on peut signaler, comme une vérification de ces assertions de M. de Lescluze, l'effet si [^p105-1]
+les gallinacés et passereaux, les tulipes, jacinthes et orchidées. Il va de soi que la nature, moins exclusive que les peintres, ne s'enferme pas dans leurs cinq tonalités. Il nous semble qu'on peut signaler, comme une vérification de ces assertions de M. de Lescluze, l'effet si
 
 [p. 106] CHAPITRE
 
@@ -1459,7 +1459,7 @@ La première particularité digne de remarque consiste dans la présence d'une m
 
 : c'est le phénomène de conjonction ; il apparaît, dans le tableau précédent, pour les nombres 35 et 105. Par le fait que ces couleurs n'appartiennent en propre à aucun des deux relatifs, elles se trouvent émancipées, et, si on les emploie (ce que ne font guère les coloristes de premier ordre), il convient de les placer en dehors des plans affectés à chacun des relatifs.
 
-Voici maintenant un fait beaucoup plus important : si nous employons simultanément 15 et 21 ou 45 et 63, nous aurons deux couleurs engendrant les relatifs de 3º (12) ou de 9º¹, en sorte que la perspective sera complètement troublée, deux couleurs sortant de leurs plans respectifs pour en former un troisième. C'est là ce que M. de Lescluze appelle une faute absolument grossière, une tache honteuse, et comme il l'a particulièrement observée dans les peintures de Van Orley, il la désigne par le mot de Van Orleyisme.
+Voici maintenant un fait beaucoup plus important : si nous employons simultanément 15 et 21 ou 45 et 63, nous aurons deux couleurs engendrant les relatifs de 3º (12) ou de 9º[^p108-1], en sorte que la perspective sera complètement troublée, deux couleurs sortant de leurs plans respectifs pour en former un troisième. C'est là ce que M. de Lescluze appelle une faute absolument grossière, une tache honteuse, et comme il l'a particulièrement observée dans les peintures de Van Orley, il la désigne par le mot de Van Orleyisme.
 
 A première vue, on pourrait croire que tous
 
@@ -1477,19 +1477,19 @@ constituent
 
 le
 
-Van [^p108-1]
+Van
 
 [p. 109] Orleyisme ; mais il y a exception pour les nombres formant conjonction. Si nous prenons, par exemple, 5 × 7 ou 35, formant conjonction avec 7 × 5, nous voyons qu'il donnerait naissance à un Van Orleyisme avec 7 × 7 ; mais il n'en est rien, car alors il n'engendre pas un nouveau relatif ; il rentre dans le second, par le fait même qu'il s'agit d'un nombre pouvant former conjonction. Du même coup, nous voyons que les carrés et les cubes ne peuvent pas former Van Orleyisme. Comme, en même temps, ils ne peuvent former conjonction, leur emploi présente une sécurité particulière.
 
-Les plus grands peintres ont commis parfois des van orleyismes, et M. de Lescluze, analysant la Purification de Memling, qui est à l'hôpital Saint-Jean de Bruges, est amené à reconnaître que cet admirable maître y a commis une faute contre la grande loi du coloris, et il ajoute : « Ce n'est que par l'élévation de sa perspective que Memling échappe aux conséquences du prolongement¹
+Les plus grands peintres ont commis parfois des van orleyismes, et M. de Lescluze, analysant la Purification de Memling, qui est à l'hôpital Saint-Jean de Bruges, est amené à reconnaître que cet admirable maître y a commis une faute contre la grande loi du coloris, et il ajoute : « Ce n'est que par l'élévation de sa perspective que Memling échappe aux conséquences du prolongement[^p109-1]
 
 » (ce dernier mot désignait primitivement, sous la plume de M. de Lescluze, ce à quoi Van Orley a depuis donné son nom). A titre de vérification du désordre que jette dans la perspective le défaut caractéristique de ce peintre, nous citerons sa toile célèbre du musée de Bruxelles, les Epreuves de Job, qui, selon Fromentin, le révèle comme un peintre hors ligne ; nous ne contesterons point cette assertion de l'auteur des Maîtres d'autrefois, mais nous constaterons que la perspective de ce tableau est à peu près indéchiffrable
 
-: M. de Lescluze devrait bien donner, dans sa prochaine publication, une analyse détaillée [^p109-1]
+: M. de Lescluze devrait bien donner, dans sa prochaine publication, une analyse détaillée
 
 [p. 110] CHAPITRE
 
-d'un tableau où les fautes sont d'autant plus instructives que l'œuvre est de plus haute valeur ¹.
+d'un tableau où les fautes sont d'autant plus instructives que l'œuvre est de plus haute valeur [^p110-1].
 
 Nous nous bornerons à cet exposé succinct de la théorie de M. l'abbé de Lescluze, renvoyant pour quelques détails techniques à un article que nous avons publié dans la Revue des questions scientifiques de janvier 1901, mais
 
@@ -1499,17 +1499,17 @@ si suggestives de M. de Lescluze
 
 . Toutefois, nous voudrions compléter ce que nous avons déjà dit de la façon dont il a établi la gamme de 128 nuances. Cinq données ont concouru à cette opération délicate. La première est l'observation du spectre, qui permet d'établir. l'ordre des couleurs, mais sans fournir aucune position précise, par suite des modifications que paraissent subir les couleurs par l'effet d'un éclairage plus ou moins vif : par exemple, l'orange et le vert de Fresnel, qui observait le spectre sous un éclairage fort, se placent respectivement entre le jaune verdâtre et le vert-jaune et entre le bleu cyané et l'outremer de Rood, qui opérait sous un éclairage faible.
 
-La deuxième donnée est empruntée à la loi des rapports simples, comme nous l'avons vu précédemment. La troisième est fournie par la règle du levier de Newton, qui détermine la nuance résultant du mélange de deux couleurs-pigments : elle ne peut donc être utilisée que lorsqu'on a déjà attribué leurs positions aux deux couleurs mélangées.[^p110-1][^p110-2]
+La deuxième donnée est empruntée à la loi des rapports simples, comme nous l'avons vu précédemment. La troisième est fournie par la règle du levier de Newton, qui détermine la nuance résultant du mélange de deux couleurs-pigments : elle ne peut donc être utilisée que lorsqu'on a déjà attribué leurs positions aux deux couleurs mélangées.[^p110-2]
 
 [p. 111] La quatrième donnée résulte de ce que les couleurs sont assorties par tonalités dans les grandes écoles de peinture et dans les familles botaniques. Dès lors, si l'on a, par exemple, attribué le nombre 160 à l'orange de la gamme espagnole, son vert, son violet et son vermillon, accordés avec lui, devront recevoir les nombres 200, 240 et 140.
 
 Enfin la cinquième donnée est due aux conjonctions : du moment qu'une même couleur se trouve dans les œuvres de plusieurs écoles, le nombre correspondant doit être un multiple commun de ceux des nombres 5, 7, 9, 13 et 21 qui sont à la base des gammes de ces écoles.
 
-La théorie de M. l'abbé de Lescluze apparaît singulièrement modeste quand on la rapproche de celle de M. Charles Henry¹
+La théorie de M. l'abbé de Lescluze apparaît singulièrement modeste quand on la rapproche de celle de M. Charles Henry[^p111-1]
 
 : celui-ci, en effet, ne s'est proposé rien moins que de découvrir un principe universel régissant le caractère esthétique des excitants de toute nature. Il semble bien qu'il a fait à ce sujet une remarque pouvant être qualifiée de géniale : c'est que tous les excitants, à quelque sens qu'ils s'adressent, provoquent des réactions motrices, en sorte que celles-ci peuvent servir à la réduction de toutes les lois spéciales à l'unité.
 
-D'autre part, l'expérience établit que les excitations agréables sont dynamogéniques, tandis que les excitations désagréables sont inhibitoires 2. Donc toute exci [^p111-1][^p111-2]
+D'autre part, l'expérience établit que les excitations agréables sont dynamogéniques, tandis que les excitations désagréables sont inhibitoires 2.[^p111-2] Donc toute exci
 
 [p. 112] CHAPITRE
 
@@ -1651,17 +1651,17 @@ Seconde mineure
 
 Sixte augmentée.
 
-Tierce augmentée...... + 11
+Tierce augmentée......[^p114-1] + 11
 
-Reproduisons maintenant les principes d'après lesquels doit se faire l'analyse rythmique des phrases musicales, puis nous donnerons une application mettant en relief quelques détails intéressants [^p114-1]
+Reproduisons maintenant les principes d'après lesquels doit se faire l'analyse rythmique des phrases musicales, puis nous donnerons une application mettant en relief quelques détails intéressants
 
-[p. 115] « La quinte, dit M. Ch. Henry, étant établie comme unité, toute succession mélodique et harmonique peut se représenter par une série de nombres dont on cherche la différence finale, et il faut comparer cette différence aux nombres rythmiques 1, 2, 3, 5 et 17, les seuls nombres premiers rythmiques qui soient compris dans les limites de notre système musical actuel... Si cette différence est exactement divisible par un nombre formé au moyen d'un ou de plusieurs de ces facteurs premiers rythmiques ¹, l'enchaînement mélodique ou harmonique est bon ; dans le cas contraire, l'enchaînement est mauvais ».
+[p. 115] « La quinte, dit M. Ch. Henry, étant établie comme unité, toute succession mélodique et harmonique peut se représenter par une série de nombres dont on cherche la différence finale, et il faut comparer cette différence aux nombres rythmiques 1, 2, 3, 5 et 17, les seuls nombres premiers rythmiques qui soient compris dans les limites de notre système musical actuel... Si cette différence est exactement divisible par un nombre formé au moyen d'un ou de plusieurs de ces facteurs premiers rythmiques [^p115-1], l'enchaînement mélodique ou harmonique est bon ; dans le cas contraire, l'enchaînement est mauvais ».
 
 Ces assertions absolues appellent des restrictions : « Quelquefois la différence finale présente un nombre non rythmique, et il n'en faut pas conclure que la série mélodique ou harmonique soit fautive : on recourt alors au nombre 12 qui exprime l'identité enharmonique, et on examine si la différence finale en question et l'un des nombres premiers rythmiques, 1, 2, 3, 5, 17, divisés l'un et l'autre par 12, ne présentent pas les mêmes restes : si oui, autrement dit, si la différence finale est congruente, par rapport au module 12, avec les nombres premiers rythmiques 1, 2, 3, 5, 17, on peut admettre l'enchaînement, mais avec restrictions. Il faut aussi prendre garde que la différence finale parfaitement rythmique ne provienne d'une compensation d'erreurs, c'est-à-dire de fautes en sens inverses dans la contexture mélodique ; il est donc nécessaire de consulter aussi les autres différences...
 
 « Il est clair, poursuit M. Ch. Henry, que l'on peut, par la même méthode, apprécier la mesure : en représentant par 1 la durée de l'unité de mesure et par les nombres proportionnels les différentes valeurs, il suffira de prendre les différences successives jusqu'à la différence finale
 
-: on trouvera si le nombre final est rythmi [^p115-1]
+: on trouvera si le nombre final est rythmi
 
 [p. 116] CHAPITRE que : en comparant cette différence finale avec celle du même ordre prise sur les sons eux-mêmes, considérés indépendamment de leur durée, on aura la différence finale définitive, c'est-à-dire la formule de la phrase rythmique, confondue jusqu'ici avec l'unité de rythme ».
 
@@ -2043,7 +2043,7 @@ l'ouvrage du comte Durutte, Résumé élémentaire de la technie harmonique (p. 
 
 Après avoir noté que l'analyse d'une harmonie se ferait comme celle d'une mélodie, à condition d'avoir effectué préalablement le produit des expressions de la forme x +- n, qui représentent les notes simultanées, passons à l'application de la théorie aux formes.
 
-Il paraît incontestable que leur esthétique obéit à des lois mathématiques, bien que celles- ci soient moins faciles à mettre en évidence que lorsqu'il s'agit des perceptions sonores. C'est ainsi que l'antiquité nous a légué la section dorée comme un type de proportion harmonieuse ; d'après les expériences de Fechner, c'est elle qui serait généralement préférée comme rapport des deux côtés d'un rectangle, et c'est elle qui est adoptée, ou à peu près, pour la collection dont fait partie le présent volume ¹.
+Il paraît incontestable que leur esthétique obéit à des lois mathématiques, bien que celles- ci soient moins faciles à mettre en évidence que lorsqu'il s'agit des perceptions sonores. C'est ainsi que l'antiquité nous a légué la section dorée comme un type de proportion harmonieuse ; d'après les expériences de Fechner, c'est elle qui serait généralement préférée comme rapport des deux côtés d'un rectangle, et c'est elle qui est adoptée, ou à peu près, pour la collection dont fait partie le présent volume [^p118-1].
 
 Voyons comment M. Ch. Henry applique sa théorie à l'analyse des formes. Il tient compte des longueurs et des angles, comme tout à l'heure des sons et des temps. Pour la mesure des angles, il emploie un rapporteur qu'il qualifie d'esthétique et dans lequel les angles sont caractérisés par l'inverse de la fraction qui les mesure en prenant la
 
@@ -2051,7 +2051,7 @@ circonférence
 
 entière comme
 
-unité. Tout angle qui est à la droite du dernier trait prolongé s'ajoute ; tout angle qui est à gauche se retranche. Il en sera de même des droites. On retranche d'ailleurs de la somme des angles celle des droites, et la différence doit être rythmique. On trouvera dans sa brochure : Quelques aperçus sur l'esthétique des formes, les règles d'application pratique aux divers types de forme. Mais nous devons donner quelques explications sur l'échelle de mesure des longueurs.[^p118-1]
+unité. Tout angle qui est à la droite du dernier trait prolongé s'ajoute ; tout angle qui est à gauche se retranche. Il en sera de même des droites. On retranche d'ailleurs de la somme des angles celle des droites, et la différence doit être rythmique. On trouvera dans sa brochure : Quelques aperçus sur l'esthétique des formes, les règles d'application pratique aux divers types de forme. Mais nous devons donner quelques explications sur l'échelle de mesure des longueurs.
 
 [p. 119] Il est clair que le caractère rythmique des nombres dépend de cette échelle, dont il est indispensable d'éliminer l'influence. Les longueurs étant mesurées par exemple en millimètres et les nombres obtenus n'étant pas rythmiques, il s'agit de savoir si une autre unité permettrait de les rendre tels. A cet effet, on devra préalablement tracer un abaque représentant, en ordonnées équidistantes, les premiers nombres rythmiques (une centaine serait à peu près suffisante dans la pratique) et l'on promènera deux des longueurs données, a et b, parallèlement aux ordonnées. Si l'on trouve deux de celles-ci dont a et b représentent une fraction ou un
 
@@ -2119,7 +2119,7 @@ L'application de la théorie aux couleurs est du plus haut intérêt, mais elle 
 
 entre elles certaines différences amplement expliquées par des considérations purement objectives : tel est le fait que le mélange des pigments tourne au noir, pour des raisons déjà vues, tandis que le mélange des lumières engendre une lumière qui tend vers le blanc. D'autre part, quand on opère sur des lumières, on a généralement des ondes se rapprochant beaucoup plus du monochromatisme qu'avec les pigments, mais la distinction n'a rien de nécessaire, et il ne s'agit naturellement que d'appliquer à la lumière diffusée par un pigment les lois que suit une couleurlumière de même composition, puisqu'il semble qu'elle en est une.
 
-Quoi qu'il en soit, M. Ch. Henry, expérimentant sur un lavis lumineux exécuté sur un fond enduit de sulfure de zinc phosphorescent ¹, aurait vérifié d'une façon extrêmement nette l'applicabilité de ses nombres rythmiques aux nombres de vibrations des diverses couleurs, c'est-à-dire que les lois de l'harmonie des lumières seraient les mêmes que celles des sons. Pour les pigments, c'est-à-dire dans le cas le plus intéressant pour la pratique, M. Ch. Henry ne pose ses lois que par l'intermédiaire de la projection des diverses couleurs sur un cercle, et cela d'après des considérations dont nous n'avons pu saisir la valeur avec une suffisante précision.[^p120-1]
+Quoi qu'il en soit, M. Ch. Henry, expérimentant sur un lavis lumineux exécuté sur un fond enduit de sulfure de zinc phosphorescent [^p120-1], aurait vérifié d'une façon extrêmement nette l'applicabilité de ses nombres rythmiques aux nombres de vibrations des diverses couleurs, c'est-à-dire que les lois de l'harmonie des lumières seraient les mêmes que celles des sons. Pour les pigments, c'est-à-dire dans le cas le plus intéressant pour la pratique, M. Ch. Henry ne pose ses lois que par l'intermédiaire de la projection des diverses couleurs sur un cercle, et cela d'après des considérations dont nous n'avons pu saisir la valeur avec une suffisante précision.
 
 [p. 121] Comme nous l'avons déjà dit, du reste, nous ne prétendons pas à autre chose qu'à donner une idée des travaux de M. Ch. Henry et à faciliter l'intelligence de ses conceptions fondamentales. Il serait bien à désirer qu'il s'efforcât de se mettre au niveau d'un plus grand nombre de lecteurs. On a pu voir avec quelle fréquence il nous a imposé l'humiliation de ne pas le comprendre.
 
@@ -2155,9 +2155,9 @@ surgissent en nous sous forme d'images. Si vous regardez une orange, vous éprou
 
 à laquelle s'ajoute quelque sensation des muscles de l'œil. De là vous concluez logiquement à la texture de l'écorce et à la forme de l'hémisphère visible ; mais une foule d'images viennent s'ajouter à cette perception. Il semble en particulier qu'on a conscience et de la forme totale de l'orange et de sa consistance et de son poids. Sans doute nous savons qu'il n'en est rien, et cette connaissance exerce un pouvoir d'arrêt sur nos images, mais l'hallucination est si proche que, si l'expérience vient à contredire soudain les images évoquées, nous en recevons comme un choc : on éprouve l'effet de deux sensations contradictoires. Ainsi en serat-il si vous saisissez un de ces fruits en carton tels qu'on en voit dans les vitrines des sociétés pomologiques, et dont la perfection engendre une erreur brusquement démasquée quand on saisit cette vaine effigie.
 
-Si telle est la puissance des images quand notre raison nous avertit de leur nature, on prévoit sans peine ce qu'elles peuvent produire quand elles ne sont pas contredites. « Regarder un dessin, dit M. Souriau, c'est voir des chimères dans les nuages. Devant la figure schématique la plus simple, notre imagination tend à reconstituer intégralement l'objet représenté ; et c'est grâce à cette bonne volonté du spectateur que l'artiste peut simplifier à ce point son œuvre »¹.
+Si telle est la puissance des images quand notre raison nous avertit de leur nature, on prévoit sans peine ce qu'elles peuvent produire quand elles ne sont pas contredites. « Regarder un dessin, dit M. Souriau, c'est voir des chimères dans les nuages. Devant la figure schématique la plus simple, notre imagination tend à reconstituer intégralement l'objet représenté ; et c'est grâce à cette bonne volonté du spectateur que l'artiste peut simplifier à ce point son œuvre »[^p123-1].
 
-Il en est ainsi non seulement dans les simples dessins au trait, mais dans les œuvres les plus finies ellesmêmes : quel peintre cherchera à détailler tous les cheveux ? C'est d'ailleurs avec raison que M. Souriau fait [^p123-1]
+Il en est ainsi non seulement dans les simples dessins au trait, mais dans les œuvres les plus finies ellesmêmes : quel peintre cherchera à détailler tous les cheveux ? C'est d'ailleurs avec raison que M. Souriau fait
 
 [p. 124] CHAPITRE
 
@@ -2165,11 +2165,11 @@ remarquer que cette interprétation des figures les plus simplifiées, et partan
 
 Un exemple cité par le même écrivain fait bien ressortir combien notre imagination peut ajouter à la représentation réelle du relief. « Voici le dessin au trait d'un bras de femme : comment indiquer que ce bras n'est pas une découpure plate mais qu'il est rond, qu'il a un relief ? Si seulement il y avait un bracelet au poignet ! Je dessine ce bracelet : immédiatement, comme tout le bras s'arrondit ! C'est que la forme du bracelet, indiquée clairement par la perspective, me donne en quelque sorte la coupe du bras au poignet ; et la suggestion, qui s'est opérée en un point de la figure, se propage à la figure entière ». Cette observation est excellente, car il est certain qu'on croit réellement voir le relief du bras, lequel est cependant uniformément blanc.
 
-Du reste, le classique escalier de Schræder, que l'on peut voir de deux façons différentes, et bien d'autres figures susceptibles d'une double interprétation prouvent surabondamment que, sous l'influence d'une suggestion quelconque, volontaire ou non, nous voyons plus qu'il n'y a, nous ajoutons au dessin. Qu'on se souvienne par exemple de cette tête du Christ dont les yeux sont tour à tour ouverts et fermés ¹.
+Du reste, le classique escalier de Schræder, que l'on peut voir de deux façons différentes, et bien d'autres figures susceptibles d'une double interprétation prouvent surabondamment que, sous l'influence d'une suggestion quelconque, volontaire ou non, nous voyons plus qu'il n'y a, nous ajoutons au dessin. Qu'on se souvienne par exemple de cette tête du Christ dont les yeux sont tour à tour ouverts et fermés [^p124-1].
 
-Nous avons été personnellement victime d'une illusion assez curieuse. On sait qu'un peintre de talent, M. Schöneyder Möller, s'applique à reproduire les ima-[^p124-1]
+Nous avons été personnellement victime d'une illusion assez curieuse. On sait qu'un peintre de talent, M. Schöneyder Möller, s'applique à reproduire les ima-
 
-[p. 125] ges consécutives provoquées par la contemplation d'objets trop lumineux. Dans la toile exposée par lui au salon de la Société nationale des Beaux-Arts, en 1899, il avait représenté le soleil se couchant au milieu d'une puissante illumination jaune et son tableau était parsemé d'images négatives violacées¹. Au bout de quelques instants de contemplation, l'illusion devenait très vive, les taches violacées ne se distinguant que dans la vision directe ; quand l'œil se promenait sur le tableau, il se trouvait successivement arrêté par les taches au fur et à mesure qu'elles se projetaient sur la fovea, et ainsi l'on avait l'impression d'une image consécutive se précisant seulement quand l'œil s'arrêtait, et cela exactement dans la direction de la ligne de visée. Mais voici où l'illusion véritable apparaît : certaines taches se trouvaient coupés par le cadre ; or on sait que,
+[p. 125] ges consécutives provoquées par la contemplation d'objets trop lumineux. Dans la toile exposée par lui au salon de la Société nationale des Beaux-Arts, en 1899, il avait représenté le soleil se couchant au milieu d'une puissante illumination jaune et son tableau était parsemé d'images négatives violacées[^p125-1]. Au bout de quelques instants de contemplation, l'illusion devenait très vive, les taches violacées ne se distinguant que dans la vision directe ; quand l'œil se promenait sur le tableau, il se trouvait successivement arrêté par les taches au fur et à mesure qu'elles se projetaient sur la fovea, et ainsi l'on avait l'impression d'une image consécutive se précisant seulement quand l'œil s'arrêtait, et cela exactement dans la direction de la ligne de visée. Mais voici où l'illusion véritable apparaît : certaines taches se trouvaient coupés par le cadre ; or on sait que,
 
 par leur nature même, les images cousécutives ne peuvent être ainsi arrêtées par les objets, mais se transforment seulement suivant la couleur et l'éclat des fonds sur lesquels elles se projettent. En l'espèce, le cadre était doré
 
@@ -2177,7 +2177,7 @@ et tranchait peu avec l'ensemble du tableau : l'image devait donc se prolonger s
 
 Parfois le peintre est amené à fausser une représentation pour paraître plus vrai. Pour obéir aux lois de la perspective,
 
-il devrait presque toujours donner une ellipse comme contour apparent à une sphère, et cependant il donne toujours à ce contour une forme circulaire. Cette altération paraît exigée par le fait que l'on ne voit [^p125-1]
+il devrait presque toujours donner une ellipse comme contour apparent à une sphère, et cependant il donne toujours à ce contour une forme circulaire. Cette altération paraît exigée par le fait que l'on ne voit
 
 [p. 126] CHAPITRE presque jamais un tableau exactement de son point de vue et que même on se déplace pour en regarder certains détails. Or une sphère elliptique choquerait absolument celui qui se placerait en face. Vu obliquement, le cercle paraît elliptique, et le spectateur l'accepte tel quel sans contrôler l'exactitude de son excentricité ; pourvu qu'il sache, d'après la nature de l'objet, qu'il s'agit d'une sphère, il le voit tel. Un exemple bien connu de cette altération de la perspective est donné par les Noces de Cana de Paul Véronèse
 
@@ -2185,7 +2185,7 @@ il devrait presque toujours donner une ellipse comme contour apparent à une sph
 
 Cette facilité qu'ont les artistes à nous faire voir ce qui n'est pas explique la possibilité des trompe-l'œil. Pour les réaliser, on place volontiers le spectateur dans l'obscurité, de façon que l'apparition lumineuse produise sur lui une sorte de fascination et provoque un commencement d'état hypnotique ; aussi lui fait-on suivre de longs corridors sombres pour que la lumière agisse plus énergiquement. Ces procédés, parfaitement légitimes dans le cas des dioramas et panoramas, sont-ils à leur place dans l'art véritable ? M. Souriau paraît l'admettre, mais nous sommes d'un avis contraire.
 
-L'auteur de la Suggestion dans l'art nous semble d'abord porté à confondre le phénomène de l'attention avec le commencement de l'hypnose. Il est vrai que la première consiste dans un état de monoïdéisme, comme l'a bien fait ressortir M. Ribot, et que l'hypnotisme plonge le sujet qui lui est soumis dans un état de monoïdéisme à peu près absolu ; de là une ressem-[^p126-1]
+L'auteur de la Suggestion dans l'art nous semble d'abord porté à confondre le phénomène de l'attention avec le commencement de l'hypnose. Il est vrai que la première consiste dans un état de monoïdéisme, comme l'a bien fait ressortir M.[^p126-1] Ribot, et que l'hypnotisme plonge le sujet qui lui est soumis dans un état de monoïdéisme à peu près absolu ; de là une ressem-
 
 [p. 127] blance considérable entre les deux ordres de phénomènes, à tel point que l'absence d'attention est un des plus grands obstacles à la réalisation de l'état hypnotique. On comprend donc fort bien une théorie de l'hypnose rattachant celle-ci à l'attention et en faisant une exagération anomale de cette dernière ; mais nous ne saurions admettre qu'on s'appuie là-dessus pour traiter de phénomène hypnotique un phénomène d'attention quelconque.
 
@@ -2201,13 +2201,13 @@ Est-il bien vrai, d'autre part, qu'une statue ou un tableau doive être présent
 
 Appliquées au théâtre, les tendances que nous étudions
 
-doivent aboutir à la prétention de produire l'illusion scénique. « Quand nous assistons à une représentation dramatique, dit M. Souriau, nous croyons entendre, non pas l'acteur qui est en scène, mais le personnage imaginaire qu'il représente. A coup sûr, au moment où l'illusion se produit dans toute sa force, quand, oubliant que je suis au théâtre, je crois assister réellement à la scène représentée, c'est le personnage qui reste, et l'acteur qui a disparu ». Si tel est le but à atteindre, on peut en déduire précisément les principes de la mise en scène wagnérienne : salle et orchestre [p. 129] doivent également disparaître ; pour la première, on éteindra toutes les lumières et quant au second, qu'on ne saurait plonger dans l'obscurité et qui, malgré tous les abat-jour du monde ¹, laisserait apparaître des points lumineux et des pages blanches éclairées, on le cachera aux yeux des spectateurs. En même temps, toute manifestation sera interdite au public, et d'autre part la mise en scène fera l'objet de soins minutieux.
+doivent aboutir à la prétention de produire l'illusion scénique. « Quand nous assistons à une représentation dramatique, dit M. Souriau, nous croyons entendre, non pas l'acteur qui est en scène, mais le personnage imaginaire qu'il représente. A coup sûr, au moment où l'illusion se produit dans toute sa force, quand, oubliant que je suis au théâtre, je crois assister réellement à la scène représentée, c'est le personnage qui reste, et l'acteur qui a disparu ». Si tel est le but à atteindre, on peut en déduire précisément les principes de la mise en scène wagnérienne : salle et orchestre [p. 129] doivent également disparaître ; pour la première, on éteindra toutes les lumières et quant au second, qu'on ne saurait plonger dans l'obscurité et qui, malgré tous les abat-jour du monde [^p129-1], laisserait apparaître des points lumineux et des pages blanches éclairées, on le cachera aux yeux des spectateurs. En même temps, toute manifestation sera interdite au public, et d'autre part la mise en scène fera l'objet de soins minutieux.
 
 Ce sont là les principes scrupuleusement appliqués au théâtre de Bayreuth, et un homme qui est à la fois un musicien éminent et un esprit essentiellement élevé, M. Bourgault- Ducoudray, a rendu témoignage dans la *Revue des Deux Mondes*
 
 , de l'effet profond que tous ces détails avaient produit sur lui. « Wagner, dit-il, a voulu que toutes les facultés du spectateur fussent tendues vers la scène ; pour atteindre ce but, il emploie un moyen radical, mais efficace
 
-: au commencement de chaque acte, on supprime la lumière, la presque obscurité se fait dans la salle, la scène seule reste éclairée ». Les avantages de cette innovation seraient considérables, tant par son action sur les spectateurs que par son influence sur les acteurs. « L'obscurité dans la salle supprime la résistance qu'opposent les impressions extérieures à l'illusion scénique... L'âme du spectateur, qui se trouve ainsi arrachée au monde réel, se précipite avec ardeur vers la fiction, se plonge avec amour dans l'irréel... La concentration de la lumière sur le point unique où le drame se déroule donne à l'illusion scénique une puissance irrésistible ». Ajoutée à la suppression des galeries élégantes et des loges, l'absence de lumière dans la salle prémunit d'ailleurs les spectateurs qui veulent écouter contre ceux qui causent trop facilement.[^p129-1][^p129-2]
+: au commencement de chaque acte, on supprime la lumière, la presque obscurité se fait dans la salle, la scène seule reste éclairée ». Les avantages de cette innovation seraient considérables, tant par son action sur les spectateurs que par son influence sur les acteurs. « L'obscurité dans la salle supprime la résistance qu'opposent les impressions extérieures à l'illusion scénique... L'âme du spectateur, qui se trouve ainsi arrachée au monde réel, se précipite avec ardeur vers la fiction, se plonge avec amour dans l'irréel... La concentration de la lumière sur le point unique où le drame se déroule donne à l'illusion scénique une puissance irrésistible ». Ajoutée à la suppression des galeries élégantes et des loges, l'absence de lumière dans la salle prémunit d'ailleurs les spectateurs qui veulent écouter contre ceux qui causent trop facilement.[^p129-2]
 
 [p. 130]
 
@@ -2281,7 +2281,7 @@ Racine avait bien senti l'importance de la duplication de l'effet que produit un
 
 la tragédie de
 
-[p. 136] CHAPITRE Racine : « De toutes ses grandes narrations, il n'en est pas une qui ne nous donne à regarder aussi bien qu'à entendre. Elles sont faites pour des spectateurs, non pour de purs auditeurs ; le véritable auditeur des récits du poète n'est pas dans la salle, il est sur la scène, exposé à nos yeux ; la narration va droit à lui, elle ne nous arrive en quelque sorte que chargée du spectacle de son visage ému, de sa démarche agitée, de toute son expressive mimique. Gardons-nous de fermer les yeux : écoutons et contemplons, tout est en scène, tout fait image ; le décor est le plus beau, le plus dramatiquement optique qui se puisse voir » *¹. Rien de plus vrai que ces paroles dont M. Le Bidois donne la justification par de nombreux exemples des plus convaincants.
+[p. 136] CHAPITRE Racine : « De toutes ses grandes narrations, il n'en est pas une qui ne nous donne à regarder aussi bien qu'à entendre. Elles sont faites pour des spectateurs, non pour de purs auditeurs ; le véritable auditeur des récits du poète n'est pas dans la salle, il est sur la scène, exposé à nos yeux ; la narration va droit à lui, elle ne nous arrive en quelque sorte que chargée du spectacle de son visage ému, de sa démarche agitée, de toute son expressive mimique. Gardons-nous de fermer les yeux : écoutons et contemplons, tout est en scène, tout fait image ; le décor est le plus beau, le plus dramatiquement optique qui se puisse voir » *[^p136-1]. Rien de plus vrai que ces paroles dont M. Le Bidois donne la justification par de nombreux exemples des plus convaincants.
 
 L'art oratoire repose en grande partie sur l'influence suggestive de la personne humaine. Ce qu'on appelle l'autorité de l'orateur est pour beaucoup due à son extérieur, la valeur des raisons qu'il invoque n'ayant souvent qu'une influence accessoire, et M. Souriau reproduit avec raison ce passage de Malebranche : « Si celui qui parle s'énonce avec facilité, s'il garde une mesure agréable dans ses périodes,
 
@@ -2289,17 +2289,17 @@ s'il a l'air d'un honnête homme et d'un homme d'esprit, si c'est une personne d
 
 estimé, il aura raison dans tout ce qu'il avancera et il n'y aura pas jusqu'à son collet et à ses manchettes qui ne prouvent quelque chose 2
 
-))..
+))..[^p136-2]
 
-Dans ce phénomène de l'autorité, il y a des éléments [^p136-1][^p136-2]
+Dans ce phénomène de l'autorité, il y a des éléments
 
 [p. 137] assez complexes, au nombre desquels figure la contagion des émotions qui nous occupe particulièrement en ce moment. Nous trouvons aussi dans Malebranche la constatation de la facilité avec laquelle nous interprétons les signes des émotions sans en avoir fait d'étude spéciale et par conséquent sans avoir, à proprement parler, la connaissance de ces signes. « Les peintres qui veulent exprimer les passions, dit-il, se trouvent bien embarrassés ; ils prennent souvent un air ou une grimace pour un autre. Mais lorsqu'un homme est animé de quelque passion, tous ceux qui le regardent le remarquent bien, quoiqu'ils ne remarquent peut-être point si ses lèvres se haussent ou se baissent, si son nez s'allonge ou se retire, si ses yeux s'ouvrent ou se ferment » 1.
 
-La façon, dont s'opère ce phénomène peut, sans doute, être entrevue : « Quand je veux savoir, dit Edgar Poë, cité par M. Souriau, jusqu'à quel point quelqu'un est circonspect ou stupide, jusqu'à quel point il est bon ou méchant ou quelles sont actuellement ses pensées, je compose mon visage d'après le sien aussi exactement que possible, et j'attends alors pour savoir quelles pensées ou quels sentiments naîtront dans mon esprit ou dans mon cœur comme pour s'appareiller et correspondre avec ma physionomie 2 ». Cette imitation systématique n'est point assurément le fait de celui qui contemple une œuvre d'art, mais ici intervient un instinct d'imitation bien mis en lumière par M. Couturat, dans un article de la *Revue philosophique* 3. « Involontairement, dit-il, souvent inconsciemment, notre attitude et notre physionomie copient l'extérieur des personnes qui nous entourent ; nous parlons tout bas avec l'orateur ou l'acteur et nous sentons dans nos membres de sourdes impulsions qui nous portent à répéter ses gestes... Nous [^p137-1][^p137-2][^p137-3]
+La façon, dont s'opère ce phénomène peut, sans doute, être entrevue : « Quand je veux savoir, dit Edgar Poë, cité par M. Souriau, jusqu'à quel point quelqu'un est circonspect ou stupide, jusqu'à quel point il est bon ou méchant ou quelles sont actuellement ses pensées, je compose mon visage d'après le sien aussi exactement que possible, et j'attends alors pour savoir quelles pensées ou quels sentiments naîtront dans mon esprit ou dans mon cœur comme pour s'appareiller et correspondre avec ma physionomie 2 ». Cette imitation systématique n'est point assurément le fait de celui qui contemple une œuvre d'art, mais ici intervient un instinct d'imitation bien mis en lumière par M. Couturat, dans un article de la *Revue philosophique* 3. « Involontairement, dit-il, souvent inconsciemment, notre attitude et notre physionomie copient l'extérieur des personnes qui nous entourent ; nous parlons tout bas avec l'orateur ou l'acteur et nous sentons dans nos membres de sourdes impulsions qui nous portent à répéter ses gestes...[^p137-3][^p137-2][^p137-1] Nous
 
 [p. 138] CHAPITRE imitons aussi la conformation permanente des corps que nous voyons ». Comme d'ailleurs « toute modification physiologique éveille dans la conscience l'état psychologique dont elle est la conséquence normale et le signe naturel », la contagion des émotions se trouve expliquée.
 
-Nous arrivons ici à une des questions de psychologie qui ont été le plus débattues depuis un certain nombre d'années. Cette question ne présente sans doute pas, au fond, autant d'importance qu'on pourrait le croire pour l'objet spécial de notre étude, mais elle en est assez voisine pour qu'il soit indispensable de s'en faire une idée nette. Autrefois, sans méconnaître absolument l'influence du corps sur l'âme, des phénomènes physiologiques sur les phénomènes psychiques, on s'attachait beaucoup plus, en matière d'émotions, à étudier leur expression, selon le titre même d'un ouvrage classique de Darwin, que les états corporels pouvant les engendrer. Il y a un certain nombre d'années, tout a paru renversé. A peu près simultanément et en tout cas indépendamment l'un de l'autre, William James en Amérique ¹ et le docteur Lange en Europe
+Nous arrivons ici à une des questions de psychologie qui ont été le plus débattues depuis un certain nombre d'années. Cette question ne présente sans doute pas, au fond, autant d'importance qu'on pourrait le croire pour l'objet spécial de notre étude, mais elle en est assez voisine pour qu'il soit indispensable de s'en faire une idée nette. Autrefois, sans méconnaître absolument l'influence du corps sur l'âme, des phénomènes physiologiques sur les phénomènes psychiques, on s'attachait beaucoup plus, en matière d'émotions, à étudier leur expression, selon le titre même d'un ouvrage classique de Darwin, que les états corporels pouvant les engendrer. Il y a un certain nombre d'années, tout a paru renversé. A peu près simultanément et en tout cas indépendamment l'un de l'autre, William James en Amérique [^p138-1] et le docteur Lange en Europe
 
 soutinrent avec éclat qu'il convient de renverser les termes. « Voici, dit le docteur Dumas dans sa préface à la traduction de l'ouvrage du docteur Lange, une mère qui pleure son fils ; l'opinion courante admet trois moments dans la production du phénomène :
 
@@ -2311,7 +2311,7 @@ soutinrent avec éclat qu'il convient de renverser les termes. « Voici, dit le 
 
 « Cette succession est fausse ; il faut renverser les deux derniers termes et raisonner ainsi : 1º cette femme vient d'apprendre la mort de son fils ; 2º elle est abattue ; 3º elle est triste.
 
-« Qu'est-ce donc que sa tristesse ? Simplement la [^p138-1][^p138-2]
+« Qu'est-ce donc que sa tristesse ?[^p138-2] Simplement la
 
 [p. 139] conscience plus ou moins sourde des phénomènes vasculaires qui s'accomplissent dans le corps ».
 
@@ -2319,9 +2319,9 @@ Il convient de bien remarquer cette manière de poser la question, car elle suff
 
 Voyons maintenant, très rapidement, comment on prétend en établir la vérité. Il est d'expérience courante, fait remarquer Lange, qu'une émotion peut être produite par une cause non psychique et peut être domptée de même par des moyens physiques : l'action des douches froides et du bromure de potassium, s'exerçant par l'intermédiaire de leur influence sur les fonctions vaso-motrices, est connue de tous. Le langage fait ressortir, d'ailleurs, l'analogie des émotions d'origine mentale et d'origine physique : la douleur est morale ou physique, et le terme frisson désigne également l'action soudaine du froid sur la peau et les phénomènes caractéristiques de l'effroi. Enfin, les maladies du système vaso-moteur, sont accompagnées d'états émotionnels très accentués, passant de l'angoisse à la joie la plus éclatante.
 
-Le Dr Dumas, traducteur de Lange, a consacré des études personnelles du plus vif intérêt à ce côté pathologique de la question 1. Son effort s'est concentré sur les deux émotions contraires de la joie et de la tristesse, et ses conclusions ne font qu'élargir celles de Lange, qu'il résume d'ailleurs avec une grande précision dans les termes suivants
+Le Dr Dumas, traducteur de Lange, a consacré des études personnelles du plus vif intérêt à ce côté pathologique de la question 1.[^p139-1] Son effort s'est concentré sur les deux émotions contraires de la joie et de la tristesse, et ses conclusions ne font qu'élargir celles de Lange, qu'il résume d'ailleurs avec une grande précision dans les termes suivants
 
-« Dans la tristesse, nous avons une vaso- constriction [^p139-1]
+« Dans la tristesse, nous avons une vaso- constriction
 
 [p. 140]
 
@@ -2331,15 +2331,15 @@ générale des tissus périphériques et cérébraux, qui entraîne la pâleur d
 
 « Dans la joie de même, c'est un phénomène vasomoteur, la dilatation des artérioles périphériques et cérébrales, qui sera la cause de l'hyperactivité générale ; si l'homme joyeux se sent léger,
 
-s'il gesticule, si les enfants sautentet frappent des mains, c'est que la circulation s'opère plus facilement dans les centres nerveux et dans les muscles. Ce que nous appelons joie, c'est la conscience de tous ces phénomènes et, si nous les supprimons, nous supprimons la joie » ¹.
+s'il gesticule, si les enfants sautentet frappent des mains, c'est que la circulation s'opère plus facilement dans les centres nerveux et dans les muscles. Ce que nous appelons joie, c'est la conscience de tous ces phénomènes et, si nous les supprimons, nous supprimons la joie » [^p140-1].
 
-Le Dr Dumas a montré que cette théorie est trop simpliste, et que la joie, comme la tristesse, peut être accompagnée de deux formes différentes de la circulation : ces deux émotions peuvent également correspondre à une hypotension ou à une hypertension artérielle. Nous ne saurions d'ailleurs, sans sortir du cadre de cet ouvrage, entrer dans une analyse détaillée de ses travaux² ; mais nous devons insister sur la question d'antériorité du phénomène physiologique par rapport au phénomène émotionnel. Dans le cas des paralytiques généraux, incapables d'associer deux idées, il apparaît comme évident [^p140-1][^p140-2]
+Le Dr Dumas a montré que cette théorie est trop simpliste, et que la joie, comme la tristesse, peut être accompagnée de deux formes différentes de la circulation : ces deux émotions peuvent également correspondre à une hypotension ou à une hypertension artérielle. Nous ne saurions d'ailleurs, sans sortir du cadre de cet ouvrage, entrer dans une analyse détaillée de ses travaux[^p140-2] ; mais nous devons insister sur la question d'antériorité du phénomène physiologique par rapport au phénomène émotionnel. Dans le cas des paralytiques généraux, incapables d'associer deux idées, il apparaît comme évident
 
 [p. 141] que leur joie ne peut être la cause de la paralysie vasomotrice et de la vaso-dilatation qui en résulte, mais ne peut en être que l'effet. L'observation vérifie d'ailleurs pleinement cette conjecture si vraisemblable, car chez les malades circulaires, présentant des alternatives de joie et de tristesse, on peut prévoir le passage d'un état à l'autre par l'observation des phénomènes vaso-moteurs, avant que les malades aient aucun soupçon de l'approche du changement. Il est d'ailleurs d'observation courante que des faits d'ordre physique, comme la privation de nourriture ou la satisfaction de la faim, influent grandement sur notre état émotionnel.
 
-Avant de discuter les conséquences tirées de ses observations par le Dr Dumas, nous devons dire que celles-ci ont été assez vivement critiquées par MM. Binet et Courtier dans la troisième Année psychologique (1897) 1. Ils constatent que, dans toutes leurs expériences sur le plaisir, la douleur et les émotions, ils ont enregistré des phénomènes d'excitation, agissant sur le système nerveux, provoquant des vaso-constrictions et accélérant la respiration et les battements du cœur, la qualité de l'émotion apparaissant dès lors comme de minime importance.
+Avant de discuter les conséquences tirées de ses observations par le Dr Dumas, nous devons dire que celles-ci ont été assez vivement critiquées par MM. Binet et Courtier dans la troisième Année psychologique (1897) 1. Ils constatent que, dans toutes leurs expériences sur le plaisir, la douleur et les émotions, ils ont enregistré des phénomènes d'excitation, agissant sur le système nerveux, provoquant des vaso-constrictions et accélérant la respiration et les battements du cœur, la qualité de l'émotion apparaissant dès lors comme de minime importance.[^p141-2][^p141-1]
 
-Cette critique semble avoir amené le Dr Dumas à préciser dans sa thèse sur La tristesse et la joie une distinction existant déjà, mais de façon peu précise dans ses premiers [^p141-1][^p141-2]
+Cette critique semble avoir amené le Dr Dumas à préciser dans sa thèse sur La tristesse et la joie une distinction existant déjà, mais de façon peu précise dans ses premiers
 
 [p. 142]
 
@@ -2349,7 +2349,7 @@ travaux : la distinction entre l'émotion-choc et l'émotionsentiment, faute de 
 
 MM. Binet et Courtier ont bien précisé qu'ils n'étudiaient pas un état stable, mais une réaction courte à une excitation brusque ; toutefois nous nous demandons s'ils n'ont pas ensuite été portés à étendre aux émotionssentiments les conclusions d'observations ne portant que sur des émotions-chocs.
 
-Indépendamment d'ailleurs de cette distinction, il en est une autre d'une grande importance, celle qu'on doit faire entre les émotions normales et les émotions pathologiques, les premières apparaissant à la suite de phénomènes mentaux, tandis que les secondes sont incontestablement la suite de troubles physiologiques 1. Or les preuves de cette origine que donne le Dr Dumas sont toutes relatives à ces dernières ; pour en étendre les conclusions aux premières, il se borne à faire observer que, pour refuser cette extension, « il faudrait accorder [^p142-1]
+Indépendamment d'ailleurs de cette distinction, il en est une autre d'une grande importance, celle qu'on doit faire entre les émotions normales et les émotions pathologiques, les premières apparaissant à la suite de phénomènes mentaux, tandis que les secondes sont incontestablement la suite de troubles physiologiques 1.[^p142-1] Or les preuves de cette origine que donne le Dr Dumas sont toutes relatives à ces dernières ; pour en étendre les conclusions aux premières, il se borne à faire observer que, pour refuser cette extension, « il faudrait accorder
 
 [p. 143] cette absurdité qu'un état affectif donné peut être... tantôt le
 
@@ -2375,15 +2375,15 @@ En résumé, la question nous paraît toujours ouverte ; mais il ne nous semble 
 
 M. Ribot, dans son livre si intéressant sur la Psychologie des sentiments,
 
-déclare que cette théorie est « l'essai d'explication le plus vraisemblable pour ceux qui ne se représentent pas les émotions comme des entités psychologiques » ; mais il ajoute aussitôt : « Le seul point par où je diffère de ces auteurs est relatif à la position de la thèse, non à son fonds » (р. 112). Се qu'il leur reproche, c'est de se placer, inconsciemment [^p144-1]
+déclare que cette théorie est « l'essai d'explication le plus vraisemblable pour ceux qui ne se représentent pas les émotions comme des entités psychologiques » ; mais il ajoute aussitôt : « Le seul point par où je diffère de ces auteurs est relatif à la position de la thèse, non à son fonds » (р. 112).[^p144-1] Се qu'il leur reproche, c'est de se placer, inconsciemment
 
 [p. 145] ou non, au point de vue dualiste, tout comme l'opinion courante qu'ils combattent. Pour l'éminent professeur du Collège de France, il y aurait un grand avantage à éliminer de la question toute notion de cause et d'effet, tout rapport de causalité, et à substituer à la position dualiste une conception unitaire et monistique. « La formule aristotélicienne de la matière et de la forme, dit-il, me paraîtrait mieux convenir, en entendant par matière les faits somatiques, par forme l'état psychique correspondant, les deux termes n'existant d'ailleurs que l'un par l'autre et n'étant séparables que par abstraction ». Bref, phénomène physiologique et phénomène psychique « sont un seul et même
 
 événement traduit dans deux langues »
 
-: c'est, on le voit, la doctrine du phénomène à double face, qui fut si chère à Taine. D'accord avec M. Binet¹, nous croyons que cette interprétation de la théorie de James-Lange en constitue une véritable négation : au fond, la doctrine de M. Ribot est celle de l'épiphénoménisme, car s'il paraît parfois tenir la balance égale entre les deux traductions, il en est une à laquelle il ne peut s'empêcher d'attacher plus d'importance, la traduction physique, parce que c'est elle qui ne fait jamais défaut, tandis que l'autre paraît et disparaît de façon à ne point donner un ensemble complet.
+: c'est, on le voit, la doctrine du phénomène à double face, qui fut si chère à Taine. D'accord avec M. Binet[^p145-1], nous croyons que cette interprétation de la théorie de James-Lange en constitue une véritable négation : au fond, la doctrine de M. Ribot est celle de l'épiphénoménisme, car s'il paraît parfois tenir la balance égale entre les deux traductions, il en est une à laquelle il ne peut s'empêcher d'attacher plus d'importance, la traduction physique, parce que c'est elle qui ne fait jamais défaut, tandis que l'autre paraît et disparaît de façon à ne point donner un ensemble complet.
 
-Mais il nous semble que, toute discussion sur le phénomène à double face et sur l'épiphénomène mise à part, M. Ribot commet une erreur : « les mouvements de la face et du corps, les troubles vaso-moteurs, respiratoires, sécrétoires », pour employer ses expressions mêmes, ne sauraient être considérés comme la traduction physique du même événement dont l'émotion est la traduction psychique, attendu que c'est à un phénomène cérébral qu'est lié directement le fait de conscience : c'est donc celui-ci seul qui peut constituer avec l'émo [^p145-1]
+Mais il nous semble que, toute discussion sur le phénomène à double face et sur l'épiphénomène mise à part, M. Ribot commet une erreur : « les mouvements de la face et du corps, les troubles vaso-moteurs, respiratoires, sécrétoires », pour employer ses expressions mêmes, ne sauraient être considérés comme la traduction physique du même événement dont l'émotion est la traduction psychique, attendu que c'est à un phénomène cérébral qu'est lié directement le fait de conscience : c'est donc celui-ci seul qui peut constituer avec l'émo
 
 [p. 146]
 
@@ -2431,11 +2431,11 @@ Nous ne saurions suivre le philosophe anglais dans les vérifications de cette h
 
 : car avoir conscience de l'émotion qu'un autre éprouve, c'est trouver en soi, sous la lumière de la conscience, cette émotion éveillée, ce qui est proprement l'éprouver. Ainsi ces diverses inflexions de la voix, outre qu'elles sont un langage qui
 
-[p. 150] CHAPITRE nous fait comprendre les sentiments des autres, ont aussi le pouvoir de faire naître en nous, par sympathie, des sentiments pareils. Eh bien ! n'avons-nous pas là tous les éléments d'une théorie de la musique ? Ces particularités de la voix, qui sont l'indice d'une exaltation des sentiments, sont celles qui distinguent spécialement le chant du parlé ordinaire. Chacune des inflexions de la voix qui nous ont paru être l'effet physiologique de la peine ou du plaisir est simplement dans la musique vocale portée à son plus haut degré » ¹.
+[p. 150] CHAPITRE nous fait comprendre les sentiments des autres, ont aussi le pouvoir de faire naître en nous, par sympathie, des sentiments pareils. Eh bien ! n'avons-nous pas là tous les éléments d'une théorie de la musique ? Ces particularités de la voix, qui sont l'indice d'une exaltation des sentiments, sont celles qui distinguent spécialement le chant du parlé ordinaire. Chacune des inflexions de la voix qui nous ont paru être l'effet physiologique de la peine ou du plaisir est simplement dans la musique vocale portée à son plus haut degré » [^p150-1].
 
 Cette théorie du mode d'action de la musique est incontestablement juste, mais est-elle suffisante ? Elle explique la puissance d'expression de cet art, la voix étant l'un des plus énergiques modes d'expression de nos sentiments. Mais il ne semble pas que l'indétermination de l'action musicale rentre aussi bien dans la théorie de l'imitation : lorsque nous entendons une voix traduisant spontanément l'émotion d'un homme, l'interprétation de cette voix ne laisse généralement place à aucun doute sur la nature de cette émotion ; or, d'après Spencer, la musique porte seulement à son plus haut degré chacune des inflexions de la voix, d'où il semble résulter que l'expression musicale doit s'imposer avec une netteté encore plus grande. On est d'autant mieux fondé à tirer cette conséquence des principes de Spencer que le peintre et le sculpteur arrivent à des effets de la plus parfaite détermination en reproduisant et exagérant au besoin les diverses contractions musculaires qui accompagnent une émotion déterminée.
 
-D'autre part, on ne voit pas bien comment la théorie de l'imitation pourrait faire une large part à la musique harmonique, car elle semble devoir restreindre celle-ci[^p150-1]
+D'autre part, on ne voit pas bien comment la théorie de l'imitation pourrait faire une large part à la musique harmonique, car elle semble devoir restreindre celle-ci
 
 [p. 151] à peu près à la seule imitation des bruits de la nature et des foules. Aussi Spencer ne parle-t-il pas de cette musique, et, dans son intéressante Esthétique, Eugène Véron, qui adopte l'opinion du philosophe anglais, ne nous montre-t-il pas comment la musique harmonique, dont il reconnaît l'importance, peut agir si puissamment sur nous, alors qu'elle s'éloigne beaucoup plus que la mélodie de nos cris et de nos paroles.
 
@@ -2447,9 +2447,9 @@ sions véritables... Mais la musique n'emprunte presque aucun élément à l'exp
 
 Peut- être M. Couturat réduit-il trop la part de l'imitation dans la musique. Aussi sommes-nous loin de considérer la thèse de Spencer sur le mode d'action de la musique comme fausse ; mais son insuffisance apparaît clairement : comment la compléter ? Nous nous sommes posé cette question dans un article publié par la *Revue philosophique* du mois de mars 1884. A ce moment, ni William James, ni Lange n'avait encore publié l'exposé de sa théorie des émotions ; aussi dûmes-nous insister sur les considérations qui nous paraissaient établir la réversibilité des phénomènes psychiques et cérébraux, de l'émotion et des phénomènes périphériques correspondants. Aujourd'hui,
 
-si l'on nie bien encore cette réversibilité, c'est pour soutenir, nous l'avons vu, que ces derniers phénomènes sont toujours antécédents ; aussi n'avons-nous pas à revenir sur les considérations qui nous semblent établir que ces phénomènes peuvent venir les premiers, et nous n'avons à insister que sur le point essentiel : dans le cas de l'émotion musicale, n'est-on pas conduit à admettre l'existence des modifications périphériques d'ordre émotionnel avant celle des modifications cérébrales de même ordre ?
+si l'on nie bien encore cette réversibilité, c'est pour soutenir, nous l'avons vu, que ces derniers phénomènes sont toujours antécédents ; aussi n'avons-nous pas à revenir sur les considérations qui nous semblent établir que ces phénomènes peuvent venir les premiers, et nous n'avons à insister que sur le point essentiel : dans le cas de l'émotion musicale, n'est-on pas conduit à admettre l'existence des modifications périphériques d'ordre émotionnel avant celle des modifications cérébrales de même ordre ?[^p152-1]
 
-Remarquons d'abord que l'explication de la puissance émotionnelle de la musique qu'Herbert Spencer tire de la ressemblance du chant avec les sons émis spontanément sous l'influence des diverses émotions prend une tout autre valeur quand, au lieu de n'y voir comme lui que l'occasion d'une reconnaissance, on voit là un cas particulier d'un instinct profond, reposant sur une accommodation de notre organisme conforme à celle des [^p152-1]
+Remarquons d'abord que l'explication de la puissance émotionnelle de la musique qu'Herbert Spencer tire de la ressemblance du chant avec les sons émis spontanément sous l'influence des diverses émotions prend une tout autre valeur quand, au lieu de n'y voir comme lui que l'occasion d'une reconnaissance, on voit là un cas particulier d'un instinct profond, reposant sur une accommodation de notre organisme conforme à celle des
 
 [p. 153] organismes des personnes émues. En même temps, la base un peu étroite de la reconnaissance s'élargit, la musique harmonique ne présente plus aucun caractère paradoxal, et l'on conçoit comment le compositeur peut provoquer, chez celui qui écoute son œuvre, un état de sensibilité nouveau.
 
@@ -2461,7 +2461,7 @@ Il suit de tout cela que l'indétermination relative de l'expression musicale do
 
 [p. 154] CHAPITRE
 
-éprouvées par divers individus¹. Or il nous semble que les faits confirment bien cette conséquence de notre hypothèse ; mais il nous reste à examiner si une étude physiologique un peu détaillée la confirme aussi, ou au contraire oblige à l'abandonner.
+éprouvées par divers individus[^p154-1]. Or il nous semble que les faits confirment bien cette conséquence de notre hypothèse ; mais il nous reste à examiner si une étude physiologique un peu détaillée la confirme aussi, ou au contraire oblige à l'abandonner.
 
 Les nerfs optiques et les nerfs acoustiques, qui constituent les deux grandes catégories de nerfs esthétiques, apparaissent dès l'abord comme étant dans des conditions fort différentes pour exercer des actions réflexes sur l'ensemble de l'organisme, les premiers aboutissant dans les pédoncules cérébraux, tandis que les seconds pénètrent dans la moelle allongée. Or celle-ci réunit en son sein un grand nombre d'origines nerveuses du plus haut intérêt ; citons d'abord simplement :
 
@@ -2481,7 +2481,7 @@ la onzième paire (nerf spinal), qui agit sur la respiration et préside à la p
 
 la douzième paire (grand hypoglosse), qui fournit des filets aux muscles de la langue.
 
-Parlant des associations nerveuses existant à travers [^p154-1]
+Parlant des associations nerveuses existant à travers
 
 [p. 155] la moelle allongée, Wundt fait ressortir qu'une même voie sensorielle peut
 
@@ -2501,21 +2501,21 @@ portion supérieure de l'écorce cérébrale d'où émane l'innervation motrice,
 
 mouvements
 
-aux impressions auditives rythmiques 2. Il n'est pas besoin d'insister sur l'importance de ces mouvements.
+aux impressions auditives rythmiques 2. Il n'est pas besoin d'insister sur l'importance de ces mouvements.[^p155-2][^p155-1]
 
-Il a suffi d'appeler l'attention sur la portée des connexions entre le nerf acoustique et le pneumo-gastrique ; mais il convient d'insister sur celle des connexions avec le nerf spinal, en tant que commandant les mouvements [^p155-1][^p155-2]
+Il a suffi d'appeler l'attention sur la portée des connexions entre le nerf acoustique et le pneumo-gastrique ; mais il convient d'insister sur celle des connexions avec le nerf spinal, en tant que commandant les mouvements
 
 [p. 156] CHAPITRE
 
 du larynx. Pour s'en rendre compte, rien n'est plus utile que l'étude du livre de Stricker sur le Langage et la musique. Assurément, le professeur viennois ne saurait être donné comme répondant à une moyenne, étant au contraire un exemple caractéristique du type moteur, qui ramène toutes les représentations à des phénomènes d'innervation motrice ; mais, comme le type purement auditif n'existe pas, on peut dire que ce livre met en évidence des phénomènes très généraux, en les grossissant seulement. On sait que Stricker ne pouvait se souvenir des sons qu'au moyen des sentiments d'innervation du larynx, et il donne des citations de Stumpf, qui figure au nombre de ses contradicteurs, où l'importance de ces sentiments
 
-est formellement reconnue ¹. Chacun peut du reste faire à ce sujet des observations curieuses.
+est formellement reconnue [^p156-1]. Chacun peut du reste faire à ce sujet des observations curieuses.
 
 Stricker ne traite pas explicitement la question de savoir si l'audition d'un morceau de musique est accompagnée de phénomènes d'innervation du larynx ; mais il traite avec développement la question analogue concernant l'audition d'un discours (p. 72-77). A l'égard de la musique, nous sommes fort porté à croire à des phé nomènes d'innervation motrice assez généraux. A la vérité, l'observation ne laisse pas d'être fort délicate, car, dès que l'attention se fixe sur la question, elle a pour effet de modifier le phénomène dans un sens ou dans l'autre.
 
-Il faut donc s'abandonner tout entier à l'audition, et il faut aussi que l'attention s'éveille tout à coup pour surprendre le phénomène en quelque sorte à la dérobée. Nous croyons avoir ainsi surpris des phénomènes d'innervation spontanés, et il semble que, même au point de vue de l'audition pure de la musique, ce soit une condition favorable si, comme l'a remarqué Stumpf, on fixe la hauteur d'un son incertain en recourant au chant intérieur.[^p156-1]
+Il faut donc s'abandonner tout entier à l'audition, et il faut aussi que l'attention s'éveille tout à coup pour surprendre le phénomène en quelque sorte à la dérobée. Nous croyons avoir ainsi surpris des phénomènes d'innervation spontanés, et il semble que, même au point de vue de l'audition pure de la musique, ce soit une condition favorable si, comme l'a remarqué Stumpf, on fixe la hauteur d'un son incertain en recourant au chant intérieur.
 
-[p. 157] Au point de vue émotionnel, ces phénomènes ont une portée évidente ; mais tout ce que nous avons dit jusqu'ici ne constitue que des vraisemblances et non des vérifications proprement dites. M. Lionel Dauriac, dans un article de la Revue philosophique¹, où il nous a d'ailleurs reproché peut-être un peu injustement d'exclure tout élément intellectuel du problème musical
+[p. 157] Au point de vue émotionnel, ces phénomènes ont une portée évidente ; mais tout ce que nous avons dit jusqu'ici ne constitue que des vraisemblances et non des vérifications proprement dites. M. Lionel Dauriac, dans un article de la Revue philosophique[^p157-1], où il nous a d'ailleurs reproché peut-être un peu injustement d'exclure tout élément intellectuel du problème musical
 
 , a bien voulu donner une adhésion sous réserve à notre théorie et a apporté comme argument l'action de la musique sur les animaux. Peut-être faudrait-il remonter jusqu'aux plantes, si l'on prenait pour bonne l'anecdote américaine rapportée par le Ménestrel du 25 novembre 1900, d'après laquelle une sensitive ouvre ses feuilles sous l'action de sons harmonieux, mais les referme quand
 
@@ -2525,9 +2525,9 @@ une
 
 dissonance. Quoi qu'il
 
-en soit, M. Dauriac a renouvelé la liste courante des animaux mélomanes en empruntant au volume de la Bibliothèque des Merveilles, consacré à la Musique, un récit exhumé de la Décade philosophique, où l'on voit les éléphants du Jardin des Plantes en l'an IX montrer une remarquable sensibilité à des airs très variés. Il est vrai que M. Dauriac fait la critique des observations, et cela ne nous surprend pas, car il est bien difficile d'étudier la psychologie des animaux ³.
+en soit, M. Dauriac a renouvelé la liste courante des animaux mélomanes en empruntant au volume de la Bibliothèque des Merveilles, consacré à la Musique, un récit exhumé de la Décade philosophique, où l'on voit les éléphants du Jardin des Plantes en l'an IX montrer une remarquable sensibilité à des airs très variés. Il est vrai que M. Dauriac fait la critique des observations, et cela ne nous surprend pas, car il est bien difficile d'étudier la psychologie des animaux [^p157-3].
 
-Dans un travail étendu sur l'Influence de la vie émotionnelle sur le cœur, la respiration et la circulation capillaire, travail inséré dans la troisième Année psy chologique, publiée en 1897, MM. Binet et Courtier ont consacré un paragraphe spécial à la musique et résumé de très intéressantes observations, faites sur un sujet unique. Il est malheureusement fort difficile de distin [^p157-1][^p157-2][^p157-3]
+Dans un travail étendu sur l'Influence de la vie émotionnelle sur le cœur, la respiration et la circulation capillaire, travail inséré dans la troisième Année psy chologique, publiée en 1897, MM. Binet et Courtier ont consacré un paragraphe spécial à la musique et résumé de très intéressantes observations, faites sur un sujet unique.[^p157-2] Il est malheureusement fort difficile de distin
 
 [p. 158]
 
@@ -2547,11 +2547,11 @@ tandis que les mélodies gaies et excitantes font atteindre à celui-ci son maxi
 
 Mais il convient d'ajouter que rapetissement de la pulsation et accentuation du dicrotisme sont plus grands au début, surtout dans le cas d'émotions profondes, et c'est alors que se produit le frisson.
 
-M. Guibaud a étendu à un certain nombre de sujets les expériences que MM. Binet et Courtier n'avaient fait porter que sur un seul ¹.
+M. Guibaud a étendu à un certain nombre de sujets les expériences que MM. Binet et Courtier n'avaient fait porter que sur un seul [^p159-1].
 
 La distinction des sons consonants et des sons dissonants paraît avoir une portée générale, seules les personnes très familières avec la musique moderne échappant à l'action de certaines dissonances. Les sons graves impressionnent un plus grand nombre de sujets que les sons aigus, et, contrairement au sujet de M. Binet, la plupart sont plus influencés par les accords mineurs que par les majeurs. Pour chaque individu d'ailleurs, la respiration est constamment accélérée ou ralentie par toutes les excitations qui agissent sur lui. Toutes les fois que le pouls capillaire est assez net pour donner des résultats appréciables, il accuse un rapetissement, signe de vaso- constriction, et le phénomène est très accentué dans le cas d'émotion profonde.
 
-Cette réaction vaso-motrice ne se manifeste d'ailleurs que trois à quatre secondes après la réaction respiratoire.[^p159-1]
+Cette réaction vaso-motrice ne se manifeste d'ailleurs que trois à quatre secondes après la réaction respiratoire.
 
 [p. 160]
 
@@ -2565,11 +2565,11 @@ Nous devons maintenant signaler des
 
 expériences faites par M. le colonel de Rochas et qui ont eu un assez grand retentissement. On sait qu'il a soumis un sujet hypnotisé à l'influence de divers morceaux musicaux, et que ce sujet a très remarquablement manifesté [p. 161] par une mimique expressive, allant jusqu'à la danse, l'effet produit sur lui. Notons d'abord que les représentations données
 
-dans la salle de la Bodinière ne paraissent pas avoir présenté d'intérêt sérieux, car il était impossible de savoir dans quelle mesure on n'était pas simplement en présence d'un sujet bien dressé. Nous devons dire à peu près la même chose des photogravures insérées dans le bel ouvrage consacré par le colonel de Rochas à l'exposé de ses expériences ¹, car il faudrait avoir des épreuves prises lors d'une première
+dans la salle de la Bodinière ne paraissent pas avoir présenté d'intérêt sérieux, car il était impossible de savoir dans quelle mesure on n'était pas simplement en présence d'un sujet bien dressé. Nous devons dire à peu près la même chose des photogravures insérées dans le bel ouvrage consacré par le colonel de Rochas à l'exposé de ses expériences [^p161-1], car il faudrait avoir des épreuves prises lors d'une première
 
 audition, et celles du début des expériences seraient les plus intéressantes. Dans le même esprit critique, nous ferons remarquer que le sujet, Lina, est modèle de son métier, et qu'elle est habituée par conséquent à prendre des attitudes expressives ; d'autre part, sous l'influence de suggestions verbales, elle a très souvent réalisé d'une façon fort heureuse l'expression voulue. Tout cela ne prouve pas que la musique n'a pas provoqué directement les mouvements mimiques évocateurs des émotions, mais nous n'oserions donner ces expériences comme concluantes.
 
-Quoi qu'il en soit, il nous semble qu'il reste à explorer, dans l'ordre d'idées qui a inspiré la théorie physiologique du mode d'action de la musique, un vaste champ d'expériences ; mais nous ne nous dissimulons pas qu'elles sont fort délicates à réaliser. On pourrait d'ailleurs les étendre à d'autres émotions esthétiques, car nous ne prétendons pas plus que ce mode d'action appartient exclusivement à la musique que nous ne soutenons qu'il produit pour celle-ci la totalité des phénomènes émotionnels. Nous croyons seulement qu'il y joue un rôle important et plus grand que dans les autres arts. Des expériences comparatives pourraient peut-être, par les contrastes mêmes qu'elles feraient ressortir, rendre plus faciles à interpréter des phénomènes qui, isolés, laissent place au doute.[^p161-1]
+Quoi qu'il en soit, il nous semble qu'il reste à explorer, dans l'ordre d'idées qui a inspiré la théorie physiologique du mode d'action de la musique, un vaste champ d'expériences ; mais nous ne nous dissimulons pas qu'elles sont fort délicates à réaliser. On pourrait d'ailleurs les étendre à d'autres émotions esthétiques, car nous ne prétendons pas plus que ce mode d'action appartient exclusivement à la musique que nous ne soutenons qu'il produit pour celle-ci la totalité des phénomènes émotionnels. Nous croyons seulement qu'il y joue un rôle important et plus grand que dans les autres arts. Des expériences comparatives pourraient peut-être, par les contrastes mêmes qu'elles feraient ressortir, rendre plus faciles à interpréter des phénomènes qui, isolés, laissent place au doute.
 
 [p. 162]
 
@@ -2595,11 +2595,11 @@ Pour le résoudre, nous rappellerons les conditions de la perception de l'étend
 
 S'il est un résultat que l'on puisse, en dehors de toute théorie, considérer comme acquis grâce aux travaux de la psychologie expérimentale, c'est la nécessité du concours, pour la perception précise de l'étendue, des sensations musculaires avec les sensations tactiles ou visuelles. Wundt a pu soulever des protestations quand il a traduit la nécessité de ce concours en nommant synthèse psychique la liaison des deux ordres de sensations
 
-; mais cette nécessité n'en demeure pas moins indéniable. Les nativistes attribuent, il est vrai, un caractère spatial
+; mais cette nécessité n'en demeure pas moins indéniable.[^p163-2][^p163-1] Les nativistes attribuent, il est vrai, un caractère spatial
 
 essentiel aux sensations visuelles et aux sensations
 
-cutanées ; mais ils ne peuvent contester sérieusement que, lorsqu'on les isole le plus complètement qu'il se peut, la perception de l'étendue se trouble [^p163-1][^p163-2]
+cutanées ; mais ils ne peuvent contester sérieusement que, lorsqu'on les isole le plus complètement qu'il se peut, la perception de l'étendue se trouble
 
 [p. 164]
 
@@ -2619,11 +2619,11 @@ localiser nos représentations auditives. Nous n'avons pas à entreprendre ici l
 
 [p. 165] AFFINITÉS ET ASSOCIATIONS DES DIVERS ARTS
 
-qu'a dit Wundt de la distance de la source du son et de la direction de celui- ci¹, ainsi que les curieuses recherches de Münsterberg, qui nous paraît exagérer quand il parle d'espace auditif et non simplement de localisation des sources du son². Mais il nous semble que celui-ci eût pu compléter utilement son étude au moyen de l'exemple de certains animaux mieux doués que nous à ce point de vue, grâce à la forme et surtout à la mobilité du pavillon de l'oreille : tels sont le lapin et le cheval. Il suffit de regarder un cheval effrayé par quelque objet insolite pour remarquer la convergence de ses deux oreilles vers cet objet et se convaincre qu'il localise avec une grande précision la position d'un objet sonore, bien qu'il ne puisse évidemment distinguer les divers points vibrants, ce qui constituerait la perception véritable d'une étendue sonore.
+qu'a dit Wundt de la distance de la source du son et de la direction de celui- ci[^p165-1], ainsi que les curieuses recherches de Münsterberg, qui nous paraît exagérer quand il parle d'espace auditif et non simplement de localisation des sources du son[^p165-2]. Mais il nous semble que celui-ci eût pu compléter utilement son étude au moyen de l'exemple de certains animaux mieux doués que nous à ce point de vue, grâce à la forme et surtout à la mobilité du pavillon de l'oreille : tels sont le lapin et le cheval. Il suffit de regarder un cheval effrayé par quelque objet insolite pour remarquer la convergence de ses deux oreilles vers cet objet et se convaincre qu'il localise avec une grande précision la position d'un objet sonore, bien qu'il ne puisse évidemment distinguer les divers points vibrants, ce qui constituerait la perception véritable d'une étendue sonore.
 
 Il semble qu'on pourrait rapprocher ce genre de perception de celui dont jouit, en l'absence de verres convergents, un opéré de la cataracte. Il est vrai que les sensations de cet opéré, pour être peu précises, n'en revêtent pas moins le caractère de l'extension, tandis que, si précise que soit la localisation du son pour le cheval ou le lapin, elle a lieu dans l'espace visuel ou dans l'espace tactile. Cette différence capitale nous paraît tenir d'abord à ce que nous considérons un homme chez qui l'espace visuel est préexistant, puis à ce que, les corps n'étant pas habituellement animés de vibrations capables de donner des sensations sonores, ils ne peuvent être qu'accidentellement perçus au moyen de l'organe auditif
 
-: une représentation sonore de l'univers serait donc aussi incomplète qu'incohérente³.[^p165-1][^p165-2][^p165-3]
+: une représentation sonore de l'univers serait donc aussi incomplète qu'incohérente[^p165-3].
 
 [p. 166]
 
@@ -2641,21 +2641,21 @@ C'est bien cela.
 
 Donc, si je vous dis que pour moi les couleurs ont un contour, cela n'aura pour vous aucune espèce de sens ?
 
-Aucun sens¹ ».
+Aucun sens[^p167-1] ».
 
 Cette discussion sur les raisons de l'absence d'un espace sonore constitue peut-être une digression ; mais on a si souvent mêlé cette question à celle des affinités entre la peinture et la musique qu'il ne nous a pas paru inutile de la traiter, pour éviter les malentendus. Abordons maintenant directement la question des éléments musicaux correspondant au dessin. Le rythme et la mesure, qui divisent le temps, répondent exactement, au point de vue objectif, au dessin qui divise l'espace. M. Sully Prudhomme n'admet pas, il est vrai, cette correspondance : « Une suite de sons, dans la durée, dit-il, est comparable à une ligne dont les points seraient variables d'éclairage et de vivacité, mais cette ligne serait constamment droite, car on ne peut concevoir aucune variation d'orientation d'un son par rapport à un son précédent. Or la constance de direction exclut toute idée de dessin ».
 
-Cette argumentation, si rigoureuse qu'elle paraisse, ne nous convainc pas. Il est certain que, dans une forme d'extériorité à une dimension comme le temps, il ne peut y avoir, au propre, des directions ; mais nous verrons comment l'expression peut être employée cependant. Du reste M. Sully Prudhomme reconnaît que le mot dessin est usité dans la critique musicale et se demande comment ce mot peut être appliqué ainsi à la musique. A cet effet il a recours aux représentations graphiques : « On peut dire d'une manière générale que toutes les variations susceptibles de mesure à quelque degré, dans une catégorie quelconque de sensations, peuvent être conçues et exprimées sous la forme d'un dessin, parce qu'on peut toujours les représenter par des longueurs [^p167-1]
+Cette argumentation, si rigoureuse qu'elle paraisse, ne nous convainc pas. Il est certain que, dans une forme d'extériorité à une dimension comme le temps, il ne peut y avoir, au propre, des directions ; mais nous verrons comment l'expression peut être employée cependant. Du reste M. Sully Prudhomme reconnaît que le mot dessin est usité dans la critique musicale et se demande comment ce mot peut être appliqué ainsi à la musique. A cet effet il a recours aux représentations graphiques : « On peut dire d'une manière générale que toutes les variations susceptibles de mesure à quelque degré, dans une catégorie quelconque de sensations, peuvent être conçues et exprimées sous la forme d'un dessin, parce qu'on peut toujours les représenter par des longueurs
 
 [p. 168]
 
 ### Chapitre V
 
-différentes de verticales partant d'une base horizontale et imaginer toutes les extrémités supérieures de ces verticales jointes par une ligne sinueuse. Le langage, poursuit- il, a fait spontanément l'application de ce procédé à la musique. On dit, en effet, des sons, suivant leurs degrés d'acuité, qu'ils sont plus ou moins hauts, plus ou moins bas... Les extrémités supérieures des verticales, qui représentent les diverses hauteurs des sons consécutifs d'une phrase musicale, sont situées diversement les unes par rapport aux autres et déterminent une ligne qui n'est pas droite et peut figurer un dessin ». M. Sully Prudhomme étend le mode de représentation aux intensités des sons et même à leurs différents timbres¹ et conclut que le mot dessin peut s'appliquer légitimement à la mélodie.
+différentes de verticales partant d'une base horizontale et imaginer toutes les extrémités supérieures de ces verticales jointes par une ligne sinueuse. Le langage, poursuit- il, a fait spontanément l'application de ce procédé à la musique. On dit, en effet, des sons, suivant leurs degrés d'acuité, qu'ils sont plus ou moins hauts, plus ou moins bas... Les extrémités supérieures des verticales, qui représentent les diverses hauteurs des sons consécutifs d'une phrase musicale, sont situées diversement les unes par rapport aux autres et déterminent une ligne qui n'est pas droite et peut figurer un dessin ». M. Sully Prudhomme étend le mode de représentation aux intensités des sons et même à leurs différents timbres[^p168-1] et conclut que le mot dessin peut s'appliquer légitimement à la mélodie.
 
 Nous arriverons également à cette conclusion ; mais nous avouons trouver l'explication qui en est donnée artificielle, en même temps qu'elle ne conduit qu'à un graphique informe, n'ayant aucun rapport esthétique avec le dessin dans l'art de la peinture : si telle était l'origine du mot dessin en critique musicale, on ne saurait le proscrire trop formellement.
 
-Mais nous croyons qu'on peut lui en reconnaître une, à la fois moins littérale et plus profonde. Si nous évoquons le souvenir d'un air musical, que se passe-t-il en nous ? dès que les sons successifs se présentent à notre mémoire, notre organe vocal tend à entrer en mouvement et à reproduire les adaptations musculaires nécessaires à l'émission des sons évoqués. Lorsque nous écoutons de la musique, le phénomène s'impose bien moins, mais tend cependant à se produire. Au contraire, pour [^p168-1]
+Mais nous croyons qu'on peut lui en reconnaître une, à la fois moins littérale et plus profonde. Si nous évoquons le souvenir d'un air musical, que se passe-t-il en nous ? dès que les sons successifs se présentent à notre mémoire, notre organe vocal tend à entrer en mouvement et à reproduire les adaptations musculaires nécessaires à l'émission des sons évoqués. Lorsque nous écoutons de la musique, le phénomène s'impose bien moins, mais tend cependant à se produire. Au contraire, pour
 
 [p. 169] AFFINITÉS ET ASSOCIATIONS DES DIVERS ARTS
 
@@ -2663,7 +2663,7 @@ la peinture, c'est surtout pendant la contemplation que le système musculaire i
 
 Dans ces deux séries de phénomènes musculaires se trouve l'origine d'une affinité profonde, que nous avons vu se manifester d'une manière bien remarquable dans la comparaison de la musique avec des arabesques, telle que l'établit Hanslick (voir ci-dessus p. 33). Nous ne croyons pas, somme toute, que sur cette affinité entre le dessin et la mélodie il puisse y avoir de contestation sérieuse.
 
-La question des affinités esthétiques entre la couleur et quelque élément musical paraît beaucoup plus sujette à discussion. Objectivement on est porté à rapprocher la couleur de la hauteur des sons, puisqu'elle est due au plus ou moins grand nombre de vibrations ou ondulations dans l'unité de temps ¹. Tel est bien le rapprochement que semble annoncer Eugène Véron dans son Esthétique, lorsqu'il dit : « C'est par l'analogie des vibrations sonores et des vibrations lumineuses que nous expliquons la ressemblance des sensations résultant des sons et des couleurs. » Mais on est fort surpris lorsque, continuant, on lit, unepage plus loin : « Si l'on emploie des instruments qui ne donnent qu'un son fondamental, on ne produit que de la musique terne, de la musique grise ; elle se colore, au contraire, avec des cordes dont rien ne gêne la vibration et qui, par conséquent, émettent un son fondamental accompagné d'un grand nom [^p169-1]
+La question des affinités esthétiques entre la couleur et quelque élément musical paraît beaucoup plus sujette à discussion. Objectivement on est porté à rapprocher la couleur de la hauteur des sons, puisqu'elle est due au plus ou moins grand nombre de vibrations ou ondulations dans l'unité de temps [^p169-1]. Tel est bien le rapprochement que semble annoncer Eugène Véron dans son Esthétique, lorsqu'il dit : « C'est par l'analogie des vibrations sonores et des vibrations lumineuses que nous expliquons la ressemblance des sensations résultant des sons et des couleurs. » Mais on est fort surpris lorsque, continuant, on lit, unepage plus loin : « Si l'on emploie des instruments qui ne donnent qu'un son fondamental, on ne produit que de la musique terne, de la musique grise ; elle se colore, au contraire, avec des cordes dont rien ne gêne la vibration et qui, par conséquent, émettent un son fondamental accompagné d'un grand nom
 
 [p. 170]
 
@@ -2693,7 +2693,7 @@ les diverses
 
 sensations visuelles unė qualité qui est propre à chacune et persiste quand varient la quantité de la lumière reçue par le corps et la vivacité de sa coloration : c'est ce qu'on appelle précisément sa couleur, qualité qui spécifie sa relation essentielle et la plus constante avec le nerf optique. Ainsi un corps rouge, par exemple, reste coloré du même rouge, bien qu'il soit plus ou moins éclairé et que ce rouge soit plus ou moins vif, comme lorsqu'un aquarelliste délaie dans plus ou moins d'eau la couleur donnée par un même pain de vermillon. Cette couleur spécifique est pour l'œil la qualité qui correspond au timbre pour l'oreille ».
 
-Sans insister sur ce qu'il y a de hasardé à dire qu'une couleur ne change pas avec le degré d'éclairement et celui de dilution¹, nous objecterons que si l'on reconnaît une corde de violon à son timbre, quelque note qu'elle rende, une étoffe de soie se reconnaît aussi quelle que [^p171-1]
+Sans insister sur ce qu'il y a de hasardé à dire qu'une couleur ne change pas avec le degré d'éclairement et celui de dilution[^p171-1], nous objecterons que si l'on reconnaît une corde de violon à son timbre, quelque note qu'elle rende, une étoffe de soie se reconnaît aussi quelle que
 
 [p. 172]
 
@@ -2713,7 +2713,7 @@ Ainsi des colorations faibles, étendues pour ainsi dire dans beaucoup de lumiè
 
 : c'est la confirmation de la comparaison du timbre et de la couleur en ce qu'elle a de négatif.
 
-En ce quelle a de positif, elle paraît encore fondée comme signifiant réciproquement que la présence de l'une répond à la présence de l'autre. Mais il faudrait plus : à un timbre déterminé, répond-il une couleur déterminée ? La question est fort délicate ; toutefois, on ne saurait méconnaître des phénomènes assez curieux. Que de fois n'a-t-on pas cité, pour montrer l'impossibilité de donner l'idée d'une sensation à qui ne jouit pas du sens capable de la faire éprouver, l'exemple de l'aveugle à qui l'on décrivait la couleur rouge et qui déclara qu'elle de [^p173-1][^p173-2]
+En ce quelle a de positif, elle paraît encore fondée comme signifiant réciproquement que la présence de l'une répond à la présence de l'autre. Mais il faudrait plus : à un timbre déterminé, répond-il une couleur déterminée ? La question est fort délicate ; toutefois, on ne saurait méconnaître des phénomènes assez curieux.[^p173-2][^p173-1] Que de fois n'a-t-on pas cité, pour montrer l'impossibilité de donner l'idée d'une sensation à qui ne jouit pas du sens capable de la faire éprouver, l'exemple de l'aveugle à qui l'on décrivait la couleur rouge et qui déclara qu'elle de
 
 [p. 174]
 
@@ -2767,7 +2767,7 @@ D'autre part, si l'on regarde de petits trous percés dans un écran noir, leur 
 
 Le Dr Parinaud a conclu de ces faits que les éléments de la vision nette sont les mêmes que ceux de la perception des couleurs
 
-; mais le Dr Charpentier soulève quelques objections. Il fait remarquer que la distribution de la sensibilité visuelle sur la rétine n'est pas la même que celle de la perception des couleurs, celle-ci décroissant régulièrement du centre à la périphérie, tandis que la sensibilité visuelle décroît beaucoup plus [^p177-1][^p177-2]
+; mais le Dr Charpentier soulève quelques objections.[^p177-2][^p177-1] Il fait remarquer que la distribution de la sensibilité visuelle sur la rétine n'est pas la même que celle de la perception des couleurs, celle-ci décroissant régulièrement du centre à la périphérie, tandis que la sensibilité visuelle décroît beaucoup plus
 
 [p. 178] CHAPITRE
 
@@ -2775,9 +2775,9 @@ vite. D'autre part, dans la fovea, petite fosse existant au milieu de la tache j
 
 On est ainsi amené à admettre que la sensation de couleur est due au concours des éléments photesthésiques et des éléments visuels, et cette conclusion sert de point de départ à la théorie du Dr Charpentier.
 
-Si l'on cherche quelle peut être la nature des deux actions fondamentales, on est amené à considérer celle qui s'exerce la première, l'action photesthésique, comme étant chimique et s'exerçant sur l'érythropsine ou pourpre rétinien¹. La seconde action, ou action visuelle, est approximativement proportionnelle à l'énergie absolue de la lumière, énergie qui a été déterminée par Langley dans les différentes régions du spectre ; de cette proportionnalité on peut conclure que, dans la fonction visuelle, la lumière agit par elle-même, étant sans doute absorbée intégralement par une substance qui pourrait être le pigment de la membrane de Jacob, pigment qui entoure les cônes et les bâtonnets et les sépare les uns des autres. Cette absorption de la lumière échaufferait le pigment et par suite les éléments visuels, en même temps qu'il peut se produire des courants thermo- électriques.
+Si l'on cherche quelle peut être la nature des deux actions fondamentales, on est amené à considérer celle qui s'exerce la première, l'action photesthésique, comme étant chimique et s'exerçant sur l'érythropsine ou pourpre rétinien[^p178-1]. La seconde action, ou action visuelle, est approximativement proportionnelle à l'énergie absolue de la lumière, énergie qui a été déterminée par Langley dans les différentes régions du spectre ; de cette proportionnalité on peut conclure que, dans la fonction visuelle, la lumière agit par elle-même, étant sans doute absorbée intégralement par une substance qui pourrait être le pigment de la membrane de Jacob, pigment qui entoure les cônes et les bâtonnets et les sépare les uns des autres. Cette absorption de la lumière échaufferait le pigment et par suite les éléments visuels, en même temps qu'il peut se produire des courants thermo- électriques.
 
-Quoi qu'il en soit, des vibrations d'une nature indéterminée doivent se produire dans les éléments nerveux, et ces vibrations doivent être semblables comme forme [^p178-1]
+Quoi qu'il en soit, des vibrations d'une nature indéterminée doivent se produire dans les éléments nerveux, et ces vibrations doivent être semblables comme forme
 
 [p. 179] AFFINITÉS ET ASSOCIATIONS DES DIVERS ARTS
 
@@ -2801,9 +2801,9 @@ S'appuyant sur cette double différence de phase et d'amplitude relative, et fai
 
 Cet exposé est un peu long, mais il nous a paru intéressant, pour ceux de nos lecteurs qui ignorent les travaux du Dr Charpentier, de voir comment on peut être amené à attribuer aux couleurs une cause physiologique en rapport avec leur assimilation esthétique aux timbres musicaux. Nous ajouterons que M. Maurice Griveau a développé de la façon la plus intéressante cette assimilation, en l'appuyant constamment sur les conceptions théoriques du professeur de l'Université de Nancy 2. La discussion de ses développements, toujours ingénieux, nous entraînerait trop loin.
 
-« La couleur, dit Topffer, a, dans les objets, une valeur indépendante de sa teinte comme couleur ; c'est cette valeur qui, bien reproduite dans le lavis à l'encre de Chine, fait dire aux peintres : il y a là de la couleur » ³. En d'autres termes, l'œil établit entre deux tons de colorations quelconques une comparaison portant sur leur intensité lumineuse relative. Cette comparaison
+« La couleur, dit Topffer, a, dans les objets, une valeur indépendante de sa teinte comme couleur ; c'est cette valeur qui, bien reproduite dans le lavis à l'encre de Chine, fait dire aux peintres : il y a là de la couleur » [^p180-3]. En d'autres termes, l'œil établit entre deux tons de colorations quelconques une comparaison portant sur leur intensité lumineuse relative.[^p180-2][^p180-1] Cette comparaison
 
-3[^p180-1][^p180-2][^p180-3]
+3
 
 [p. 181] AFFINITÉS ET ASSOCIATIONS DES DIVERS ARTS
 
@@ -2843,7 +2843,7 @@ Topffer, dans un passage curieux de ses Réflexions et menus propos, ét à it a
 
 ### Chapitre V
 
-et l'échelle des sons qui constitue la gamme en musique. Aussi je ne saurais faire mieux comprendre ce que je viens de dire sur deux copies différentes, et cependant égales en ressemblance et en mérite, que par l'exemple d'un chant musical qui, exécuté plus haut ou plus bas dans la gamme, constitue le même chant, quoique chaque son dont il se compose ne soit semblable dans les deux cas que par l'identité de relation avec les sons auxquels on l'associe, et non par le son qui lui correspond dans une autre octave ¹ ».
+et l'échelle des sons qui constitue la gamme en musique. Aussi je ne saurais faire mieux comprendre ce que je viens de dire sur deux copies différentes, et cependant égales en ressemblance et en mérite, que par l'exemple d'un chant musical qui, exécuté plus haut ou plus bas dans la gamme, constitue le même chant, quoique chaque son dont il se compose ne soit semblable dans les deux cas que par l'identité de relation avec les sons auxquels on l'associe, et non par le son qui lui correspond dans une autre octave [^p184-1] ».
 
 Dans son livre sur la Musique des couleurs, M. Favre a tiré parti de cette affinité entre les valeurs et les hauteurs des sons, mais d'une façon quelque peu incohérente, selon nous. Voulant en effet faire une gamme de la série des couleurs spectrales et remarquant que cette gamme ne sort pas d'une octave, il a prétendu superposer une série de gammes ascendantes en reprenant la même série de couleurs, mais en leur donnant plus de clarté dans la gamme supérieure et en les faisant plus sombres dans la gamme inférieure (p. 36). Nous ne saurions accepter cette confusion de deux ordres de caractères hétérogènes dans la construction des gammes ; mais on retrouve ici encore le sentiment de l'affinité signalée.
 
@@ -2851,7 +2851,7 @@ M. Sully Prudhomme a formulé une comparaison cohérente et qui, à bien des ég
 
 d'un même pain d'aquarelle, mais de moins en moins
 
-étendu d'eau.[^p184-1]
+étendu d'eau.
 
 [p. 185] AFFINITÉS ET ASSOCIATIONS DES DIVERS ARTS
 
@@ -2873,13 +2873,13 @@ La question fondamentale du correspondant optique de la hauteur des sons étant 
 
 [p. 187] AFFINITÉS ET ASSOCIATIONS DES DIVERS ARTS
 
-ne fusionnent pas en une sensation unique, comme cela a lieu dans les phénomènes optiques, cela tient à la discontinuité des sons, attendu que rien ne s'opposerait à ce que cette fusion produisît un son unique, intermédiaire entre deux notes consécutives de la gamme ¹. Si les sons ne se combinent pas, c'est bien plutôt parce que les fibres de Corti analysent les vibrations complexes.
+ne fusionnent pas en une sensation unique, comme cela a lieu dans les phénomènes optiques, cela tient à la discontinuité des sons, attendu que rien ne s'opposerait à ce que cette fusion produisît un son unique, intermédiaire entre deux notes consécutives de la gamme [^p187-1]. Si les sons ne se combinent pas, c'est bien plutôt parce que les fibres de Corti analysent les vibrations complexes.
 
 De même, la constitution de l'oreille explique que les relations entre les valeurs ne soient pas astreintes à des lois strictes comme la hauteur des sons, car elle a pour résultat, dans le cas du rapprochement ou de la superposition de deux sons, la production de sensations très différentes quand l'un des deux sons varie fort peu, tandis que les valeurs, en peinture, sont sensiblement équivalentes aux valeurs voisines. On remarquera que la musique offre un autre exemple de relations à peu près mathématiques : le rythme divise en effet le temps dans des rapports assez rigoureux, ce qui s'explique par l'aptitude de nos organes à produire des mouvements cadencés. Au contraire, nous n'apprécions qu'avec une grossière approximation les rapports entre les intensités sonores, aussi bien qu'entre les intensités lumineuses. De là vient que les compositeurs se contentent d'indications assez vagues sur ces intensités, tandis qu'ils déterminent exactement la hauteur et la durée des sons. Il résulte de ces faits une différence capitale entre les rapports de valeurs et les intervalles musicaux, malgré l'affinité que nous avons cru reconnaître entre elles et les sons de différentes hauteurs.
 
 Poursuivant l'étude des rapports entre la gamme et les phénomènes visuels, M.
 
-Sully Prudhomme condamne l'expression gamme des rouges, par exemple ; « mais, poursuit-il, de même que tous les timbres des instruments à archet ont quelque chose de commun qui [^p187-1]
+Sully Prudhomme condamne l'expression gamme des rouges, par exemple ; « mais, poursuit-il, de même que tous les timbres des instruments à archet ont quelque chose de commun qui
 
 [p. 188]
 
@@ -2915,9 +2915,9 @@ Enfin nous conclurons, comme conséquence de la complexité des correspondances 
 
 éclaircir. Comme toujours, la science doit borner son ambition à rendre compte des phénomènes esthétiques, sans prétendre se substituer aux facultés qui évoquent en nous l'idée et le sentiment du beau.
 
-Quoi qu'il en soit des détails précédents, nous croyons qu'on ne saurait se dispenser de reconnaitre à la fois et les affinités expressives des divers arts et leur prédestination, pour ainsi dire, à exprimer chacun plus particulièrement tel ou tel côté de l'âme humaine. De cette unité fondamentale, jointe à une profonde diversité est née la tendance des arts à s'associer entre eux, pour se compléter l'un par l'autre. La peinture et surtout la sculpture ont bien souvent été les collaboratrices de l'architecture ; la musique et la poésie ont longtemps été inséparables.
+Quoi qu'il en soit des détails précédents, nous croyons qu'on ne saurait se dispenser de reconnaitre à la fois et les affinités expressives des divers arts et leur prédestination, pour ainsi dire, à exprimer chacun plus particulièrement tel ou tel côté de l'âme humaine. De cette unité fondamentale, jointe à une profonde diversité est née la tendance des arts à s'associer entre eux, pour se compléter l'un par l'autre. La peinture et surtout la sculpture ont bien souvent été les collaboratrices de l'architecture ; la musique et la poésie ont longtemps été inséparables.[^p190-1]
 
-De telles alliances ne vont pas sans de pénibles sacrifices ; aussi est-il inévitable que chaque art arrive à s'isoler pour développer librement ses virtualités pro-[^p190-1]
+De telles alliances ne vont pas sans de pénibles sacrifices ; aussi est-il inévitable que chaque art arrive à s'isoler pour développer librement ses virtualités pro-
 
 [p. 191] AFFINITÉS ET ASSOCIATIONS DES DIVERS ARTS
 
@@ -3025,7 +3025,7 @@ M. Combarieu, que nous nous plaisons à citer tout en le contredisant souvent, f
 
 [p. 195] AFFINITÉS ET ASSOCIATIONS DES DIVERS ARTS
 
-ont une base commune, est la raison principale de leur union. De l'œuvre poétique, qui donne une traduction précise et logique de la pensée, il ne restera que les idées et une partie du rythme, dont les effets de détail, les curiosités de facture se perdent dans le rythme définitif comme des gouttes d'eau éparses dans un large courant. Quant au musicien, il donne une seconde formule de la pensée exprimée par le poète, formule plus vague, mais qui, éclairée et soutenue par la formule verbale, dégage les vers de toutes les conventions du langage et leur donne l'universelle intelligibilité. Pourquoi faut-il que M. Combarieu vienne tout obscurcir en confondant ce qu'il désigne si bien comme une seconde formule de la même pensée avec ce qu'il appelle la pensée musicale¹ ? « Cette pensée d'un ordre spécial, dit- il, ne gêne en rien la pensée verbale, puisqu'elle a un sens à part, étranger à celui des mots et inaccessible aux interprétations de la langue usuelle ». Comment une telle pensée pourrait-elle être une seconde formule d'une pensée exprimée dans cette langue ? Cette incohérence est le résultat de l'incorrection par laquelle on donne le nom de pensée à ce qui n'a aucun rapport avec la signification propre de ce mot ; les sons ajoutent à la double formule de la pensée ce que nous avons appelé le beau musical proprement dit, mais ne pas distinguer ce beau musical de la pensée, n'est-ce pas tout confondre ?
+ont une base commune, est la raison principale de leur union. De l'œuvre poétique, qui donne une traduction précise et logique de la pensée, il ne restera que les idées et une partie du rythme, dont les effets de détail, les curiosités de facture se perdent dans le rythme définitif comme des gouttes d'eau éparses dans un large courant. Quant au musicien, il donne une seconde formule de la pensée exprimée par le poète, formule plus vague, mais qui, éclairée et soutenue par la formule verbale, dégage les vers de toutes les conventions du langage et leur donne l'universelle intelligibilité. Pourquoi faut-il que M. Combarieu vienne tout obscurcir en confondant ce qu'il désigne si bien comme une seconde formule de la même pensée avec ce qu'il appelle la pensée musicale[^p195-1] ? « Cette pensée d'un ordre spécial, dit- il, ne gêne en rien la pensée verbale, puisqu'elle a un sens à part, étranger à celui des mots et inaccessible aux interprétations de la langue usuelle ». Comment une telle pensée pourrait-elle être une seconde formule d'une pensée exprimée dans cette langue ? Cette incohérence est le résultat de l'incorrection par laquelle on donne le nom de pensée à ce qui n'a aucun rapport avec la signification propre de ce mot ; les sons ajoutent à la double formule de la pensée ce que nous avons appelé le beau musical proprement dit, mais ne pas distinguer ce beau musical de la pensée, n'est-ce pas tout confondre ?
 
 A cette fonction essentielle de donner une nouvelle formule de la pensée, la musique ajoute, dit M. Combarieu, la mission de centupler la valeur naturelle d'expression et d'imitation du langage. Puis il développe cette double pensée parune analyse détaillée du chant du Faust de Berlioz, seul dans les champs au lever du soleil :
 
@@ -3035,7 +3035,7 @@ analyse dont
 
 nous ne saurions
 
-trop recommander l'étude.[^p195-1]
+trop recommander l'étude.
 
 [p. 196]
 
@@ -3047,9 +3047,9 @@ Au sujet de la forme que doit revêtir la composition musicale associée à un p
 
 Il en va de même dans le drame lyrique, où c'est au récitatif, mélodie où se distinguent mal les groupes rythmiques, qu'il appartiendra de suivre tout le développement de la passion, sauf à céder de temps en temps la place à la forme carrée de l'air, dans les endroits épisodiques qui permettent à l'esprit de se reposer : ainsi fait Berlioz, dit M. Combarieu, dans la chanson du rat et de la puce ; ainsi fait Wagner dans l'appel caressant que les Filles-Fleurs adressent à Parsifal.
 
-L'opéra- comique, tel que le définit M. Dauriac, apparaît comme une œuvre hybride, où sont juxtaposés une comédie et des airs ayant bien quelque rapport, mais pouvant subsister à peu près isolément. On a, d'une part, une œuvre poétique, avec son beau propre, et, de l'autre, une composition d'ordre à peu près exclusivement musical.
+L'opéra- comique, tel que le définit M. Dauriac, apparaît comme une œuvre hybride, où sont juxtaposés une comédie et des airs ayant bien quelque rapport, mais pouvant subsister à peu près isolément. On a, d'une part, une œuvre poétique, avec son beau propre, et, de l'autre, une composition d'ordre à peu près exclusivement musical.[^p196-1]
 
-Dans le drame lyrique, on voit bien le danger d'une [^p196-1]
+Dans le drame lyrique, on voit bien le danger d'une
 
 [p. 197] AFFINITÉS ET ASSOCIATIONS DES DIVERS ARTS
 
@@ -3089,7 +3089,7 @@ Ce genre de discussion peut paraître puéril ; il a pourtant sa raison d'être,
 
 Sans doute, la charpente première en est fournie par le poète, et, d'autre part, nous croyons que sur un mauvais livret ne s'édifiera jamais qu'une œuvre manquée ; mais, si grand que soit son rôle, le poète s'efface devant le compositeur. Pour bien s'en rendre compte, il suffit de voir le résultat des défaillances ou des trouvailles de génie de l'un ou de l'autre.
 
-Dans la Walküre, par exemple, prenons la situation de Brünnhilde devant Wotan, qui l'a condamnée à être livrée au premier homme la trouvant sur son chemin. Elle supplie son père de faire en sorte qu'un héros seul puisse la conquérir et, sur son refus, poursuit ainsi¹ :
+Dans la Walküre, par exemple, prenons la situation de Brünnhilde devant Wotan, qui l'a condamnée à être livrée au premier homme la trouvant sur son chemin. Elle supplie son père de faire en sorte qu'un héros seul puisse la conquérir et, sur son refus, poursuit ainsi[^p199-1] :
 
 Entends
 
@@ -3127,7 +3127,7 @@ le lâche qui ose, infâme,
 
 du roc redoutable approcher !
 
-Les deux parties de ce passage du livret ne présentent aucun contraste marqué et semblent le prolongement l'une de l'autre : à l'audition, il en va tout autrement. Depuis longtemps on assistait aux supplications d'une fille implorant son père ; le chant, montant et descendant sans cesse et présentant de nombreuses altérations de notes, rendait bien le trouble qui la jetait éperdue aux pieds de Wotan. Mais après les mots : « Epargne -lui le suprême affront ! »>le chant s'arrête un [^p199-1]
+Les deux parties de ce passage du livret ne présentent aucun contraste marqué et semblent le prolongement l'une de l'autre : à l'audition, il en va tout autrement. Depuis longtemps on assistait aux supplications d'une fille implorant son père ; le chant, montant et descendant sans cesse et présentant de nombreuses altérations de notes, rendait bien le trouble qui la jetait éperdue aux pieds de Wotan. Mais après les mots : « Epargne -lui le suprême affront ! »>le chant s'arrête un
 
 [p. 200]
 
@@ -3167,7 +3167,7 @@ L'esprit de curiosité appliqué à l'art trouve à se satisfaire sous deux form
 
 Cette condamnation sommaire prononcée par le peintre orientaliste n'est pas sans soulever une foule de difficultés, car, si porté que l'on soit à y donner son acquiescement, on s'aperçoit, dès que l'on entre dans le détail, que les contradictions surgissent à chaque pas.
 
-Et, tout d'abord, l'œuvre d'art exige impérieusement un sujet, c'est-à-dire un principe d'unité. Un tableau qui représenterait, dans une moitié, un fragment de [^p203-1]
+Et, tout d'abord, l'œuvre d'art exige impérieusement un sujet, c'est-à-dire un principe d'unité.[^p203-1] Un tableau qui représenterait, dans une moitié, un fragment de
 
 [p. 204] CHAPITRE
 
@@ -3199,13 +3199,13 @@ Grand est donc le rôle du sujet dans l'art ; mais il ne doit, pour nous servir 
 
 « L'histoire religieuse, l'Ancien et le Nouveau Testament, par l'élévation de l'idée, qui touchait à la foi, par le contact avec le fond des croyances, par leur éloignement légendaire, par le mystérieux des faits, s'élevaient au-dessus de l'anecdote et entraient dans l'épopée ; mais à quelle condition ? A la condition d'être le credo d'une âme émue, comme chez le moine de Fiésole, ou d'être coulés dans le moule d'une forme sublime, comme dans Léonard, Raphaël, André del Sarte, ces païens. Le sujet n'a jamais été pour eux qu'une occasion de représenter l'apothéose de l'homme dans tous ses attributs. Du moment que la mise en scène se fait plus explicative, de deux choses l'une : ou le sujet se transfigure comme entre les mains des coloristes-décorateurs vénitiens, et, par l'absence de [p. 209] toute couleur vraie, par le mépris de l'histoire et de la chronologie, il sert de prétexte à une fantaisie épique, au fond de laquelle il passe inaperçu ; ou bien l'intention de rester vrai prend le dessus, et subitement l'art est rapetissé. A la façon dont les metteurs en scène vénitiens ont compris le sujet, il est aisé de voir le cas médiocre qu'ils en faisaient. Quand Titien peint l'Ensevelissement du Christ, qu'y voit-il ? Un contraste idée plastique
 
-un corps blanc, livide et mort, porté par des hommes sanguins, et pleuré, dans un deuil qui les rend plus belles, par de grandes Lombardes aux cheveux roux : voilà comment on entendait le sujet ¹)
+un corps blanc, livide et mort, porté par des hommes sanguins, et pleuré, dans un deuil qui les rend plus belles, par de grandes Lombardes aux cheveux roux : voilà comment on entendait le sujet [^p209-1])
 
 Ce mépris du sujet, on le retrouve jusque dans une école qui a donné le modèle de la peinture de genre. « Même dans la peinture proprement pittoresque et anecdotique (des maîtres hollandais), dit encore Fromentin, on n'aperçoit pas la moindre anecdote. Aucun sujet bien déterminé, pas une action qui exige une composition réfléchie, expressive, particulièrement significative ; nulle invention, aucune scène qui tranche sur l'uniformité de cette existence des champs ou de la ville, plate, vulgaire, dénuée de recherches, de passions, on pourrait dire de sentiments. Boire, fumer, danser et caresser des servantes, ce n'est pas ce qu'on peut appeler un incident bien rare ou bien attachant. Traire des vaches, les mener boire, charger un chariot de foin, ce n'est pas non plus un accident notable dans la vie agricole
 
 ».
 
-A l'opposé de cette esthétique des maîtres hollandais viennent se placer les peintres littérateurs, tels que Greuze, sur les tableaux duquel, telle la Fiancée du Village, son ami Diderot se plaisait, en ses Salons, à composer de jolis petits romans. Qui ne sent combien [^p209-1][^p209-2]
+A l'opposé de cette esthétique des maîtres hollandais viennent se placer les peintres littérateurs, tels que Greuze, sur les tableaux duquel, telle la Fiancée du Village, son ami Diderot se plaisait, en ses Salons, à composer de jolis petits romans.[^p209-2] Qui ne sent combien
 
 [p. 210] CHAPITRE
 
@@ -3221,7 +3221,7 @@ se
 
 font aucun
 
-scrupule de l'annoncer d'avance. Euripide résume par provision sa pièce dans un prologue. Grand débat à ce sujet. Schlegel s'étonne d'un tel mépris du pathétique attaché à la curiosité. « Je ne vois pas pourquoi l'intérêt excité par l'incertitude de l'événement ne serait pas au nombre des impressions que doit produire une fiction dramatique ¹ ». Lessing, toujours fanatique d'antiquité et paradoxal dans ses moyens de défense, assure « que l'intérêt dramatique est d'autant plus fort et vif que nous aurons [^p210-1]
+scrupule de l'annoncer d'avance. Euripide résume par provision sa pièce dans un prologue. Grand débat à ce sujet. Schlegel s'étonne d'un tel mépris du pathétique attaché à la curiosité. « Je ne vois pas pourquoi l'intérêt excité par l'incertitude de l'événement ne serait pas au nombre des impressions que doit produire une fiction dramatique [^p210-1] ». Lessing, toujours fanatique d'antiquité et paradoxal dans ses moyens de défense, assure « que l'intérêt dramatique est d'autant plus fort et vif que nous aurons
 
 [p. 211] tout prévu depuis longtemps et avec plus de certitude », ct il ajoute : « Je suis si loin de penser qu'il faille dérober au spectateur le dénouement que je ne croirais pas me proposer une tâche au-dessus de mes forces si j'entreprenais un drame où le dénouement serait annoncé d'avance, dès la première scène », Saint-Marc Girardin croit que le prologue était une nécessité pour que le public pût suivre la pièce dans ces grands théâtres où bien des paroles devaient se perdre. On se demande alors pourquoi toutes les pièces grecques n'ont pas de prologue. Enfin la plupart considèrent l'invention du prologue comme une marque d'impuissance de la part d'Euripide.
 
@@ -3229,15 +3229,15 @@ scrupule de l'annoncer d'avance. Euripide résume par provision sa pièce dans u
 
 « Une telle manière de procéder supprime presque sûrement les péripéties et les combinaisons dramatiques. Et, en effet, péripéties et combinaisons sont rares dans les pièces grecques. Nos modernes s'en étonnent et se demandent par exemple comment Euripide avec ses procédés
 
-si commodes de prologue et de *deus ex machina* a pu être, dans l'estime des Athéniens, le rival de Sophocle, plus soucieux, il faut le dire, d'ordonnance logique. Ne doit-on pas raisonner tout autrement et dire : Les Athéniens ont admiré autant Sophocle qui, dans quelques pièces, a donné l'idée d'une trame dramatique assez serrée, qu'Eschyle qui ignore ce que c'est que combinaisons dramatiques et qu'Euripide qui s'en passe. Donc les combinaisons dramatiques leur étaient indifférentes ¹ ».[^p211-1]
+si commodes de prologue et de *deus ex machina* a pu être, dans l'estime des Athéniens, le rival de Sophocle, plus soucieux, il faut le dire, d'ordonnance logique. Ne doit-on pas raisonner tout autrement et dire : Les Athéniens ont admiré autant Sophocle qui, dans quelques pièces, a donné l'idée d'une trame dramatique assez serrée, qu'Eschyle qui ignore ce que c'est que combinaisons dramatiques et qu'Euripide qui s'en passe. Donc les combinaisons dramatiques leur étaient indifférentes [^p211-1] ».
 
 [p. 212] CHAPITRE
 
 Pour ne pas affaiblir l'antithèse, donnons de suite le tableau de la tragédie française :
 
-« L'intérêt de curiosité remplaçant les autres ressorts dramatiques, voilà le fond de l'art dramatique français et l'âme de notre tragédie. Ce point de vue a tout changé, renouvelé tout. Nous avons vu que l'art de l'intrigue en était la suite immédiate. Notre goût pour les unités, expliqué plus haut par d'autres causes, s'y rattache encore étroitement. Le ressort curiosité nous en fait une loi. Quand l'intérêt est de curiosité, il ne faut pas qu'il se disperse : donc un seul lieu, un temps très court, surtout un seul fait. La curiosité consiste à suivre une action en sa marche, à essayer d'en prévoir la fin, à calculer les probabilités, enfin à voir où l'action aboutit. Dès qu'elle a abouti, la curiosité cesse. Elle peut renaître le moment d'après. Sans doute : mais c'est un autre mouvement de curiosité qui commence ; ce n'est pas celui de tout à l'heure qui continue. Le sentiment n'est donc plus un. Or, nous ne trouvons d'unité dans l'art, que quand nous trouvons l'unité dans le sentiment que l'œuvre d'art inspire. Une succession d'actions ne nous inspirant qu'une succession de mouvements de curiosité, une œuvre d'art composée d'une succession d'actions ne nous paraîtra pas une au point de vue de la curiosité ¹ ».
+« L'intérêt de curiosité remplaçant les autres ressorts dramatiques, voilà le fond de l'art dramatique français et l'âme de notre tragédie. Ce point de vue a tout changé, renouvelé tout. Nous avons vu que l'art de l'intrigue en était la suite immédiate. Notre goût pour les unités, expliqué plus haut par d'autres causes, s'y rattache encore étroitement. Le ressort curiosité nous en fait une loi. Quand l'intérêt est de curiosité, il ne faut pas qu'il se disperse : donc un seul lieu, un temps très court, surtout un seul fait. La curiosité consiste à suivre une action en sa marche, à essayer d'en prévoir la fin, à calculer les probabilités, enfin à voir où l'action aboutit. Dès qu'elle a abouti, la curiosité cesse. Elle peut renaître le moment d'après. Sans doute : mais c'est un autre mouvement de curiosité qui commence ; ce n'est pas celui de tout à l'heure qui continue. Le sentiment n'est donc plus un. Or, nous ne trouvons d'unité dans l'art, que quand nous trouvons l'unité dans le sentiment que l'œuvre d'art inspire. Une succession d'actions ne nous inspirant qu'une succession de mouvements de curiosité, une œuvre d'art composée d'une succession d'actions ne nous paraîtra pas une au point de vue de la curiosité [^p212-1] ».
 
-Qu'il y ait du vrai dans cette antithèse, nous ne le contesterons pas ; mais combien exagérée est-elle ! Nous pourrions prendre une à une les tragédies grecques que le temps ne nous a pas ravies, et nous verrions combien de réserves exigerait le tableau schématique qu'en a tracé M. Faguet ; mais l'étude serait longue, et nous aimons mieux rapprocher de la conception qu'il s'est faite de cette tragédie celle d'un homme assez bien placé pour la connaître et pour donner à ses lecteurs une idée suffisamment exacte des goûts des Grecs : nous voulons parler d'Aristote. Dans sa Poétique, il s'appli [^p212-1]
+Qu'il y ait du vrai dans cette antithèse, nous ne le contesterons pas ; mais combien exagérée est-elle ! Nous pourrions prendre une à une les tragédies grecques que le temps ne nous a pas ravies, et nous verrions combien de réserves exigerait le tableau schématique qu'en a tracé M. Faguet ; mais l'étude serait longue, et nous aimons mieux rapprocher de la conception qu'il s'est faite de cette tragédie celle d'un homme assez bien placé pour la connaître et pour donner à ses lecteurs une idée suffisamment exacte des goûts des Grecs : nous voulons parler d'Aristote. Dans sa Poétique, il s'appli
 
 [p. 213] que à donner la plus haute idée de l'importance du sujet : « Le plus difficile, dit-il, est le plan de la pièce ; car la tragédie ne représente pas les hommes, mais leurs actions, leur vie, leurs succès bons ou mauvais : ce qui consiste tout dans l'action, puisque la fin de l'homme est une action, et non pas une qualité. Nous sommes bons ou mauvais selon nos inclinations ; mais nous sommes heureux ou malheureux selon nos actions. L'action et la fable sont à proprement parler la fin de la tragédie, et par conséquent en sont la partie la plus considérable. Quand on remplirait une pièce de belles sentences, de riches expressions et de beaux sentiments, on n'aurait pas réussi au point principal de la tragédie, qui se peut passer de ces ornements sans rien perdre de sa qualité, pourvu qu'elle ait un beau sujet et des événements bien rangés. Enfin les incidents et le dénouement, qui sont des parties de la fable, sont pleins d'attraits et d'agréments,
 
@@ -3341,29 +3341,29 @@ Il convient d'abord de distinguer la représentation du temps et du pays de l'ar
 
 Cet idéal, dont nous discuterons l'application aux temps et aux lieux éloignés, peut être
 
-réalisé sans effort, sans parti pris, quand l'artiste peint ce qu'il a devant lui, le variable en même temps que le permanent. Quand le temps aura passé sur son œuvre, elle conservera sa date ; mais, si l'élément général y occupe une assez grande place, elle continuera à agir sur le public grâce à sa sincérité¹. Sans poser nettement la distinction entre les deux genres de couleur locale, Fromentin paraît bien l'avoir sentie, dans les reproches qu'il adresse à l'école française : « La peinture de genre a-t-elle fait
+réalisé sans effort, sans parti pris, quand l'artiste peint ce qu'il a devant lui, le variable en même temps que le permanent. Quand le temps aura passé sur son œuvre, elle conservera sa date ; mais, si l'élément général y occupe une assez grande place, elle continuera à agir sur le public grâce à sa sincérité[^p220-1]. Sans poser nettement la distinction entre les deux genres de couleur locale, Fromentin paraît bien l'avoir sentie, dans les reproches qu'il adresse à l'école française : « La peinture de genre a-t-elle fait
 
-autre chose en France qu'inventer des scènes, compulser l'histoire, illustrer les littératures,[^p220-1]
+autre chose en France qu'inventer des scènes, compulser l'histoire, illustrer les littératures,
 
-[p. 221] peindre le passé, un peu le présent, fort peu la France contemporaine, beaucoup les curiosités des mœurs ou des climats étrangers¹ ». Ces reproches, opposés aux réflexions déjà reproduites sur les sujets affectionnés des peintres hollandais, ne laissent aucun doute sur la pensée intime de Fromentin.
+[p. 221] peindre le passé, un peu le présent, fort peu la France contemporaine, beaucoup les curiosités des mœurs ou des climats étrangers[^p221-1] ». Ces reproches, opposés aux réflexions déjà reproduites sur les sujets affectionnés des peintres hollandais, ne laissent aucun doute sur la pensée intime de Fromentin.
 
 Un temps éloigné, mais qui nous est suffisamment familier, supportera dans sa représentation et pourra même exiger une certaine dose de couleur locale. Il y a sur ce sujet, au point de vue de la psychologie du lecteur ou du spectateur, une page admirablement judicieuse de M. Faguet :
 
 « Il faut, dit-il à l'occasion de Salammbo, que l'époque nous soit assez connue d'avance, parce que si elle ne l'est pas, le roman historique nous instruit trop pour nous émouvoir. Comme il nous révèle un monde ignoré, nous le prenons immédiatement pour un livre d'histoire, et, comme un livre d'histoire, nous l'interrogerons sur les pays, les climats, la topographie, les monuments, les usages, les mœurs et les costumes, et nous le lirons avec l'intérêt que nous apportons à un dictionnaire d'archéologie. C'en est un certes, mais exclusif de « l'intérêt » proprement dit et contraire à celui-ci, et qui l'empêche de naître. L'enseignement nous divertit de l'émotion, et plus le livre nous instruit, moins il nous passionne. Quand l'émotion veut naître, nous l'écartons comme élément étranger à la curiosité qui nous occupe. Les personnages peuvent être intéressants, mais les détails inconnus complètement de nous et qu'on nous fait connaître relèguent et repoussent les personnages. Il y a deux manières de nous intéresser ; on en a pris une, soit, mais il ne faut pas compter sur l'autre en même temps. Elles sont contraires. Le plaisir d'être instruit est fort, mais froid.
 
-Cette froideur studieuse ne s'accommodera pas de l'émotion romanesque et ne lui permettra pas de se produire. Quand nous [^p221-1]
+Cette froideur studieuse ne s'accommodera pas de l'émotion romanesque et ne lui permettra pas de se produire. Quand nous
 
 [p. 222] CHAPITRE
 
-connaissons déjà l'essentiel de ce que le roman met sous nos yeux, les détails nouveaux qu'il nous apporte nous amusent et nous occupent sans nous distraire, et ils se mêlent à notre émotion comme un léger surcroît d'intérêt et comme un ornement de l'ouvrage ; mais ils ne nous empêchent pas de nous livrer au roman lui- même ou au poème. C'est le cas d'Homère pour les Grecs, les Romains et nous ; c'est le cas des Martyrs pour nous ¹. Ce n'est pas le cas de Salammbó, qui nous révèle un monde sur lequel nous n'avons aucune notion. Dès que nous l'avons ouvert, nous ne songeons qu'à apprendre Carthage ; et Salammbo, Matho et Narr Havas, en tant que personnages de roman ou de drame, nous sont indifférents...
+connaissons déjà l'essentiel de ce que le roman met sous nos yeux, les détails nouveaux qu'il nous apporte nous amusent et nous occupent sans nous distraire, et ils se mêlent à notre émotion comme un léger surcroît d'intérêt et comme un ornement de l'ouvrage ; mais ils ne nous empêchent pas de nous livrer au roman lui- même ou au poème. C'est le cas d'Homère pour les Grecs, les Romains et nous ; c'est le cas des Martyrs pour nous [^p222-1]. Ce n'est pas le cas de Salammbó, qui nous révèle un monde sur lequel nous n'avons aucune notion. Dès que nous l'avons ouvert, nous ne songeons qu'à apprendre Carthage ; et Salammbo, Matho et Narr Havas, en tant que personnages de roman ou de drame, nous sont indifférents...
 
 »
 
-Il nous faut abréger la citation et en arriver de suite à ce que M. Faguet dit du roman historique où « l'historique » n'est plus que le cadre et le fond du tableau : « Autant vaudrait tout simplement analyser les âmes du monde contemporain. Mieux vaudrait, parce que, comme pour les âmes contemporaines de la nôtre nous avons le contrôle en nos mains, l'auteur peut nous les peindre dans un détail diligent, pénétrant et curieux, dont nous sommes juges, tandis que pour les âmes des temps anciens, ce contrôle nous manquant, ce sont les sentiments les plus généraux seulement et dans leur généralité seulement que l'auteur peut nous présenter et nous peindre. Mais enfin c'est une manière encore de traiter le roman historique, et je n'ai pas besoin de faire remarquer que c'est, à peu de chose près, la manière dont nos tragiques et Shakespeare lui-même ont traité la tragédie... » ².
+Il nous faut abréger la citation et en arriver de suite à ce que M. Faguet dit du roman historique où « l'historique » n'est plus que le cadre et le fond du tableau : « Autant vaudrait tout simplement analyser les âmes du monde contemporain. Mieux vaudrait, parce que, comme pour les âmes contemporaines de la nôtre nous avons le contrôle en nos mains, l'auteur peut nous les peindre dans un détail diligent, pénétrant et curieux, dont nous sommes juges, tandis que pour les âmes des temps anciens, ce contrôle nous manquant, ce sont les sentiments les plus généraux seulement et dans leur généralité seulement que l'auteur peut nous présenter et nous peindre. Mais enfin c'est une manière encore de traiter le roman historique, et je n'ai pas besoin de faire remarquer que c'est, à peu de chose près, la manière dont nos tragiques et Shakespeare lui-même ont traité la tragédie... » [^p222-2].
 
 2
 
-Si telle est la manière de nos tragiques et de Shakespeare, elle n'est sans doute pas à dédaigner, et elle vaut bien qu'on l'examine avec quelque soin. A pre [^p222-1][^p222-2]
+Si telle est la manière de nos tragiques et de Shakespeare, elle n'est sans doute pas à dédaigner, et elle vaut bien qu'on l'examine avec quelque soin. A pre
 
 [p. 223] mière vue, on est singulièrement porté à condamner la mise en scène de toute civilisation
 
@@ -3383,25 +3383,25 @@ l'avantage d'éveiller une foule d'images familières qui se font les complices 
 
 [p. 224] CHAPITRE
 
-de nos philosophes contemporains les plus pénétrants, M. Bergson, a affirmé que le comique seul vise au général et que le dramatique vise toujours l'individuel ¹. Au fond, nous ne nous croyons pas très loin d'être d'accord avec lui ; mais la question vaut bien qu'on s'y arrête quelques instants. Nous pensons que toute difficulté disparaîtrait si l'on disait que la comédie vise l'abstrait et que la tragédie vise le vivant. N'est-ce pas là en effet la pensée véritable de l'auteur du Rire, lorsqu'il dit qu'un procédé du poète comique « consiste à isoler, au milieu de l'âme du personnage, le sentiment qu'on lui prête et à en faire pour ainsi dire un état parasite doué d'une existence indépendante » ? Au contraire,
+de nos philosophes contemporains les plus pénétrants, M. Bergson, a affirmé que le comique seul vise au général et que le dramatique vise toujours l'individuel [^p224-1]. Au fond, nous ne nous croyons pas très loin d'être d'accord avec lui ; mais la question vaut bien qu'on s'y arrête quelques instants. Nous pensons que toute difficulté disparaîtrait si l'on disait que la comédie vise l'abstrait et que la tragédie vise le vivant. N'est-ce pas là en effet la pensée véritable de l'auteur du Rire, lorsqu'il dit qu'un procédé du poète comique « consiste à isoler, au milieu de l'âme du personnage, le sentiment qu'on lui prête et à en faire pour ainsi dire un état parasite doué d'une existence indépendante » ? Au contraire,
 
 « en général, continue-t-il, un sentiment intense gagne de proche en proche tous les autres états d'âme et les teint de la coloration qui lui est propre : si l'on nous fait assister alors à cette imprégnation graduelle, nous finissons, peu à peu, par nous imprégner nous-mêmes d'une émotion
 
 correspondante. On pourrait dire, pour recourir à une autre image, qu'une émotion est dramatique, communicative, quand toutes les harmoniques y sont données avec la note fondamentale ».
 
-L'opposition signalée ainsi n'est-elle pas celle de l'abstrait et du vivant ? quant au général, comment n'en pas reconnaitre l'influence dominante dans la tragédie, si, comme le dit M. Bergson, l'observation des autres hommes n'est pas nécessaire aupoète tragique, etsi, à l'audition d'un beau drame, ce qui nous intéresse le plus, c'est moins ce qu'on nous raconte d'autrui que ce qu'on nous fait entrevoir de nous-même ? Ces faits ne viennentils pas de ce que la tragédie remue des sentiments si généraux que tout homme les trouve en lui-même ? Cela est si vrai qu'on a maintes fois remarqué que la tragédie supporte la traduction et peut être goûtée des peuples étrangers, tandis que la comédie ne peut que bien rare [^p224-1]
+L'opposition signalée ainsi n'est-elle pas celle de l'abstrait et du vivant ? quant au général, comment n'en pas reconnaitre l'influence dominante dans la tragédie, si, comme le dit M. Bergson, l'observation des autres hommes n'est pas nécessaire aupoète tragique, etsi, à l'audition d'un beau drame, ce qui nous intéresse le plus, c'est moins ce qu'on nous raconte d'autrui que ce qu'on nous fait entrevoir de nous-même ? Ces faits ne viennentils pas de ce que la tragédie remue des sentiments si généraux que tout homme les trouve en lui-même ? Cela est si vrai qu'on a maintes fois remarqué que la tragédie supporte la traduction et peut être goûtée des peuples étrangers, tandis que la comédie ne peut que bien rare
 
-[p. 225] ment triompher de cette épreuve. Une autre preuve se trouve dans la facilité qu'a eue Sarcey à transposer au temps présent et souvent dans des situations moyennes les personnages de la tragédie classique ¹.
+[p. 225] ment triompher de cette épreuve. Une autre preuve se trouve dans la facilité qu'a eue Sarcey à transposer au temps présent et souvent dans des situations moyennes les personnages de la tragédie classique [^p225-1].
 
 Entre la généralité de la tragédie et celle de la comédie, nous verrions volontiers la différence que pose M. Faguet entre les personnages de Madame Bovary et les types de la comédie :
 
-« < Parce que, dit-il, tel personnage, ou de la comédie classique, ou de La Bruyère, ou de Balzac, résume et condense fortement un penchant ou travers très répandu dans l'humanité, on dit : « Je l'ai vu. Je le connais. J'ai vu Harpagon, j'ai vu Gnathon, j'ai vu Grandet, je viens de rencontrer Rastignac. » C'est un peu vrai ; ce n'est qu'un peu vrai. Le type, très soigneusement tracé, nous a rappelé un homme qui s'y rapporte, dont la principale passion entre dans le type tracé par l'auteur. Et voilà qui est bien, et c'est l'effet d'un très grand art. Mais il est plus difficile encore de créer des êtres qui, sans être des types, sans être des résumés, vous donnent l'impression que vous les connaissez et qu'ils existent et que vous les avez rencontrés quelque part. Car voici la différence : tout à l'heure, à propos d'Harpagon, vous vous rappeliez quelqu'un qui ressemble à Harpagon. Maintenant ce n'est pas quelqu'un qui ressemble à Bovary, que Bovary vous rappelle, c'est Bovary lui-même, qui est si vivant que vous le connaissez lui-même, et qu'il est, dès que vous avez lu le livre, au nombre de vos relations coutumières. Les personnages de Madame Bovary ne sont pas des types, ce sont des hommes qui suggèrent l'idée d'un type et d'un autre et d'un troisième ; ce sont des hommes dont on sent que l'on ferait des types en les déformant, en les prolongeant et élargissant dans un certain sens et en laissant tomber des parties très importantes de leur personnalité ; mais ce ne sont pas des types proprement [^p225-1]
+« < Parce que, dit-il, tel personnage, ou de la comédie classique, ou de La Bruyère, ou de Balzac, résume et condense fortement un penchant ou travers très répandu dans l'humanité, on dit : « Je l'ai vu. Je le connais. J'ai vu Harpagon, j'ai vu Gnathon, j'ai vu Grandet, je viens de rencontrer Rastignac. » C'est un peu vrai ; ce n'est qu'un peu vrai. Le type, très soigneusement tracé, nous a rappelé un homme qui s'y rapporte, dont la principale passion entre dans le type tracé par l'auteur. Et voilà qui est bien, et c'est l'effet d'un très grand art. Mais il est plus difficile encore de créer des êtres qui, sans être des types, sans être des résumés, vous donnent l'impression que vous les connaissez et qu'ils existent et que vous les avez rencontrés quelque part. Car voici la différence : tout à l'heure, à propos d'Harpagon, vous vous rappeliez quelqu'un qui ressemble à Harpagon. Maintenant ce n'est pas quelqu'un qui ressemble à Bovary, que Bovary vous rappelle, c'est Bovary lui-même, qui est si vivant que vous le connaissez lui-même, et qu'il est, dès que vous avez lu le livre, au nombre de vos relations coutumières. Les personnages de Madame Bovary ne sont pas des types, ce sont des hommes qui suggèrent l'idée d'un type et d'un autre et d'un troisième ; ce sont des hommes dont on sent que l'on ferait des types en les déformant, en les prolongeant et élargissant dans un certain sens et en laissant tomber des parties très importantes de leur personnalité ; mais ce ne sont pas des types proprement
 
 [p. 226]
 
 ### Chapitre Vi
 
-dits ; ce sont des personnes réelles assez puissamment vivantes pour que vous les reconnaissiez, non pas à cause de votre connaissance générale de l'humanité, mais abstraction faite de cette connaissance, presque malgré elle, et seulement parce que vous avez cette faculté, en présence d'un être vivant, de sentir qu'il vit ¹ ».
+dits ; ce sont des personnes réelles assez puissamment vivantes pour que vous les reconnaissiez, non pas à cause de votre connaissance générale de l'humanité, mais abstraction faite de cette connaissance, presque malgré elle, et seulement parce que vous avez cette faculté, en présence d'un être vivant, de sentir qu'il vit [^p226-1] ».
 
 N'est-ce pas là l'effet que produisent les grands personnages tragiques, et si Edipe se particularise un peu trop par la
 
@@ -3413,13 +3413,13 @@ les
 
 poètes chercheront instinctivement à cacher aux autres et à eux-mêmes l'influence du milieu contemporain et seront très portés à se vanter d'avoir fait une exacte peinture des temps anciens ; de même, les critiques contemporains, qui leur sont favorables ne doivent pas trop s'apercevoir de cette adaptation du sujet à leur époque, car elle n'est bonne qu'à condition de passer à peu près inaperçue.
 
-Lorsque l'art est à sa naissance, tous les sujets revêtent une intense couleur locale toute contemporaine, et l'on n'aurait que l'embarras du choix pour en emprunter des exemples aux mystères du moyen âge. Il ne faudrait pas croire cependant que nos aïeux fussent sans prétention à la vraie couleur locale, spécialement dans les costumes, détail matériel où cette prétention exige une moindre réflexion. C'est ainsi que, lors de la représentation des Actes des apôtres à Bourges, en 1536, les persécuteurs « estoient honnestement vestus et ha [^p226-1]
+Lorsque l'art est à sa naissance, tous les sujets revêtent une intense couleur locale toute contemporaine, et l'on n'aurait que l'embarras du choix pour en emprunter des exemples aux mystères du moyen âge. Il ne faudrait pas croire cependant que nos aïeux fussent sans prétention à la vraie couleur locale, spécialement dans les costumes, détail matériel où cette prétention exige une moindre réflexion. C'est ainsi que, lors de la représentation des Actes des apôtres à Bourges, en 1536, les persécuteurs « estoient honnestement vestus et ha
 
 [p. 227] billés selon la mode antique, Gondoforus, roy de Indela-Majeure, estoit vestu d'une robe de satin cramoisy, faite à la Turquesse », et Néron était accompagné de son favori Sporus, habillé en femme « à la mode grecque ». Certes, ces prétentions à la couleur locale étaient des plus mal justifiées, ainsi qu'on peut s'en convaincre en lisant la relation de la monstre qui précéda la représentation'; mais elles n'en manifestent pas moins l'inévitable penchant à restituer les choses conformément à leur réalité supposée.
 
 Au xv IIe siècle, l'art tragique s'élève brusquement, avec Corneille, à un haut degré de perfection, et il est curieux de comparer le grand poète, au point de vue spécial qui nous occupe, avec le premier de ses contemporains, Rotrou. Tous deux en effet ont mis en scène un martyr chrétien ; Rotrou ne l'a fait qu'après Corneille, et cependant sa tragédie de Saint Genest rappelle l'enfance de l'art, tandis que Polyeucte est peutêtre l'œuvre qui, à notre gré, approche le plus de la perfection au point de vue de la couleur locale. La recherche de cette couleur en est absente ; l'esprit ne se sent distrait, ni à la lecture, ni à l'audition, par ces particularités de mœurs qui l'occupent et l'empêchent de se laisser pénétrer du sentiment du beau.
 
-Plus de deux siècles et demi ont passé sur cette œuvre, et cependant aucun détail ne nous choque, rien ne vient nous rappeler brusquement l'époque où elle a été écrite. Comme le veut Fromentin, Corneille a simplifié la forme autant qu'il se peut ; il n'a, pour ainsi dire, conservé dans ses personnages que ce qui fait le fond même de la nature humaine, en sorte qu'ils seront compris de tous les siècles et de tous les pays. Est- ce à dire qu'on aurait pu créer Pauline dans un siècle quelconque ? nullement, et l'on pourrait même taxer son rôle d'invraisemblance, eu égard au milieu dans lequel elle [^p227-1]
+Plus de deux siècles et demi ont passé sur cette œuvre, et cependant aucun détail ne nous choque, rien ne vient nous rappeler brusquement l'époque où elle a été écrite. Comme le veut Fromentin, Corneille a simplifié la forme autant qu'il se peut ; il n'a, pour ainsi dire, conservé dans ses personnages que ce qui fait le fond même de la nature humaine, en sorte qu'ils seront compris de tous les siècles et de tous les pays. Est- ce à dire qu'on aurait pu créer Pauline dans un siècle quelconque ?[^p227-1] nullement, et l'on pourrait même taxer son rôle d'invraisemblance, eu égard au milieu dans lequel elle
 
 [p. 228]
 
@@ -3427,7 +3427,7 @@ Plus de deux siècles et demi ont passé sur cette œuvre, et cependant aucun d�
 
 a été élevée. Dès le début, Pauline à des vertus qui semblentnourries de l'esprit de l'Evangile ; mais, comme elles ont toutes leurs racines dans le cœur de l'homme, leur développement spontané n'a rien de contradictoire, et l'auditeur l'accepte sans en être choqué. A cela se borne à peu près l'influence du tempsoù l'œuvre a été écrite, et d'autre part l'absence de recherche de couleur locale empêche qu'elle ne présente de ces erreurs que le temps ne peut manquer de rendre choquantes.
 
-Quelle différence ne frappe pas tous les yeux quand de là on passe au Martyre de saint Genest ? Bien que postérieure de six ans à Polyeucte et due à la plume d'un homme qui savait rendre hommage au génie de Corneille ¹, cette tragédie est tout imprégée d'une couleur essentiellement contemporaine et fait songer aux œuvres du moyen âge par l'inconscience avec laquelle l'auteur fait la peinture de son temps en traitant un sujet antique. La fille de l'empereur Dioclétien parle le pur jargon des précieuses :
+Quelle différence ne frappe pas tous les yeux quand de là on passe au Martyre de saint Genest ? Bien que postérieure de six ans à Polyeucte et due à la plume d'un homme qui savait rendre hommage au génie de Corneille [^p228-1], cette tragédie est tout imprégée d'une couleur essentiellement contemporaine et fait songer aux œuvres du moyen âge par l'inconscience avec laquelle l'auteur fait la peinture de son temps en traitant un sujet antique. La fille de l'empereur Dioclétien parle le pur jargon des précieuses :
 
 O ciel ! qu'un doux travail m'entre au cœur par les yeux !
 
@@ -3445,7 +3445,7 @@ Ma voix rendrait les bois et les rochers sensibles ;
 
 Mes plus simples regards sont des meurtres visibles ;
 
-Je foule autant de cœurs que je marche de pas ;[^p228-1]
+Je foule autant de cœurs que je marche de pas ;
 
 [p. 229] La troupe en me perdant perdrait tous ses appâts ;
 
@@ -3481,7 +3481,7 @@ Si Racine n'a cédé à ses contemporains qu'à contrecœur et tout en leur rés
 
 Pyrrhus, c'est aux exigences de son propre génie qu'il a obéi en composant le personnage d'Andromaque. « Andromaque dans Euripide, dit- il, craint pour la vie de Molossus, qui est un fils qu'elle a eu de Pyrrhus, et qu'Hermione veut faire mourir avec sa mère. Mais ici il ne s'agit point de Molossus. Andromaque ne connaît point d'autre mari qu'Hector, ni d'autre fils qu'Astyanax. J'ai cru en cela me conformer à l'idée que nous avons maintenant de cette princesse. La plupart de ceux qui ont entendu parler d'Andromaque ne la connaissent guère que pour la veuve d'Hector et la mère d'Astyanax. On ne croit point qu'elle doive aimer ni un autre mari ni un autre fils ; et je doute que les larmes d'Andromaque eussent fait sur l'esprit de mes spectateurs l'impression qu'elles y ont faite, si elles avaient coulé pour un autre que le fils qu'elle avait d'Hector ».
 
-Qui ne voit pourquoi Racine, si peu disposé à satisfaire ses contemporains en ce qui concerne Pyrrhus, va au-devant de leurs désirs quand il s'agit d'Andromaque ? Faire du premier un Céladon était commettre, non seulement un contre sens historique, mais un nonsens philosophique, tandis que montrer Andromaque « donnée à l'insulaire Pyrrhus comme prix de la guerre et comme sa part des dépouilles de Troie » eût été nous jeter en pleine barbarie. Fidèle dans son cœur à son époux Hector, et même honorant ouvertement sa mémoire de même que celle d'Astyanax¹, l'Androma [^p230-1]
+Qui ne voit pourquoi Racine, si peu disposé à satisfaire ses contemporains en ce qui concerne Pyrrhus, va au-devant de leurs désirs quand il s'agit d'Andromaque ? Faire du premier un Céladon était commettre, non seulement un contre sens historique, mais un nonsens philosophique, tandis que montrer Andromaque « donnée à l'insulaire Pyrrhus comme prix de la guerre et comme sa part des dépouilles de Troie » eût été nous jeter en pleine barbarie. Fidèle dans son cœur à son époux Hector, et même honorant ouvertement sa mémoire de même que celle d'Astyanax[^p230-1], l'Androma
 
 [p. 231] que antique cédait par ailleurs à la violence des mœurs de son temps ; mais, avec les mœurs modernes, cette situation eût été trop choquante. Modifier sur ce point la tradition antique n'était pas altérer le type idéal de l'épouse et de la mère que représente Andromaque, mais purifier cet idéal de tout alliage étranger : l'héroïne de Racine ne devenait pas française, mais elle cessait d'être barbare.
 
@@ -3537,9 +3537,9 @@ Et pour qui, tant de fois prodiguant vos caresses,
 
 Vous n'avez point du sang dédaigné les faiblesses.
 
-Si donc elle n'implore pas la pitié de son père pour éviter la mort, elle montre une sensibilité vraie, bien différente de l'héroïque Iphigénie de Rotrou qui ne daigne témoigner que son dédain pour les procédés de son père et disserte sur « la première et dernière des lois », qui « est la nécessité de mourir une fois », et sur l'outrage fait à sa mère dont il semble désavouer le fruit.
+Si donc elle n'implore pas la pitié de son père pour éviter la mort, elle montre une sensibilité vraie, bien différente de l'héroïque Iphigénie de Rotrou qui ne daigne témoigner que son dédain pour les procédés de son père et disserte sur « la première et dernière des lois », qui « est la nécessité de mourir une fois », et sur l'outrage fait à sa mère dont il semble désavouer le fruit.[^p233-1]
 
-On voit avec quelle discrétion Racine touche à la tragédie antique pour l'adapter aux idées de ses contemporains ; mais on le sentira encore mieux en comparant à son œuvre, non plus celle d'un poète de [^p233-1]
+On voit avec quelle discrétion Racine touche à la tragédie antique pour l'adapter aux idées de ses contemporains ; mais on le sentira encore mieux en comparant à son œuvre, non plus celle d'un poète de
 
 [p. 234] CHAPITRE
 
@@ -3573,7 +3573,7 @@ Obéir à un époux farouche, c'est son devoir et sa consolation ». « Jamais f
 
 L'opposition n'est pas moindre entre les deux Oreste. Quand le héros d'Euripide fait ses adieux à Pylade, qui rougit d'abandonner son ami et de retourner seul vers Argos, il lui dit que la mort n'est pas un mal pour luimême, persécuté par les dieux ;
 
-il lui recommande sa sœur Electre qu'il lui a donnée pour épouse : « Aie des enfants de ma sœur... ne l'abandonne jamais en voyant la solitude de son alliance et de la maisonde mon père... Elève-moi un tombeau qui conserve mon souvenir, et que ma sœur l'arrose de ses larmes et y dépose sa chevelure... Adieu, compagnon de mes chasses, le plus fidèle de mes amis, élevé avec moi dès l'enfance, toi qui as porté si constamment le fardeau de nos douleurs * ». De ce souvenir si simple de leurs peines et de leurs plaisirs communs rapprochons les rêveries du soir, au bord de la mer, que l'Oreste allemand rappelle à son ami : « Lorsque les vagues venaient se jouer à nos pieds, et que le monde si grand, si vaste, se déployait à nos re-[^p235-2]
+il lui recommande sa sœur Electre qu'il lui a donnée pour épouse : « Aie des enfants de ma sœur... ne l'abandonne jamais en voyant la solitude de son alliance et de la maisonde mon père... Elève-moi un tombeau qui conserve mon souvenir, et que ma sœur l'arrose de ses larmes et y dépose sa chevelure... Adieu, compagnon de mes chasses, le plus fidèle de mes amis, élevé avec moi dès l'enfance, toi qui as porté si constamment le fardeau de nos douleurs * ».[^p235-2] De ce souvenir si simple de leurs peines et de leurs plaisirs communs rapprochons les rêveries du soir, au bord de la mer, que l'Oreste allemand rappelle à son ami : « Lorsque les vagues venaient se jouer à nos pieds, et que le monde si grand, si vaste, se déployait à nos re-
 
 [p. 236] CHAPITRE gards, souvent alors un de nous tirait son épée avec feu, et les belles actions à venir sortaient autour de nous du sein de la nuit, innombrables comme les étoiles ».
 
@@ -3649,9 +3649,9 @@ ce serait horrible ! nul air ne pénètre dans ce redoutable caveau, et j'y sera
 
 [p. 242] CHAPITRE hélas ! si je me réveille avant l'heure au milieu d'exhalaisons infectes, de gémissements comme ceux de la mandragore qu'on déracine, voix étranges qu'un mortel ne peut entendre sans être frappé de démence. O mon Dieu ! entouréé de ces épouvantables terreurs, j'en deviendrai folle ; mes mains insensées joueront avec les squelettes de mes ancêtres ! j'arracherai de son linceul le cadavre sanglant de Tybalt et dans mon aveugle frénésie, transformant en massue l'un des ossements de mes pères, je m'en servirai pour me briser le crâne. Oh ! il me semble voir l'ombre de Tybalt ; il cherche Roméo dont la fatale épée a percé sa poitrine. Arrête, Tybalt, arrête ! Je viens, Roméo ! je bois à toi » 1,
 
-Ecoutons maintenant la Juliette italienne. Quand le frère Laurent lui propose, en termes obscurs, la poudre qui doit l'endormir, elle croit qu'il s'agit de la soustraire par la mort à l'hymen qu'on veut lui imposer : « Mon père, donnez-moi en toute sûreté le poison, dit-elle, et jamais personne autre que moi ne le saura » ; à quoi le vieux prêtre répond : « Ce n'est pas du poison que je te donnerai ma fille, car ce serait péché de te laisser mourir si jeune et si belle ». Puis il lui expose son projet et ajoute : « Mais, dis — moi, n'auras-tu point peur du cadavre de Tebaldo, ton cousin, qui fut enseveli naguère ? »> — La jeune fille toute joyeuse déjà s'écria : « Père, si par telle voie je devais parvenir jusqu'à Roméo, sans crainte j'oserais traverser l'enfer ! 2 »
+Ecoutons maintenant la Juliette italienne. Quand le frère Laurent lui propose, en termes obscurs, la poudre qui doit l'endormir, elle croit qu'il s'agit de la soustraire par la mort à l'hymen qu'on veut lui imposer : « Mon père, donnez-moi en toute sûreté le poison, dit-elle, et jamais personne autre que moi ne le saura » ; à quoi le vieux prêtre répond : « Ce n'est pas du poison que je te donnerai ma fille, car ce serait péché de te laisser mourir si jeune et si belle ». Puis il lui expose son projet et ajoute : « Mais, dis — moi, n'auras-tu point peur du cadavre de Tebaldo, ton cousin, qui fut enseveli naguère ? »> — La jeune fille toute joyeuse déjà s'écria : « Père, si par telle voie je devais parvenir jusqu'à Roméo, sans crainte j'oserais traverser l'enfer ! 2 »[^p242-2][^p242-1]
 
-Du rapprochement des deux textes ressort l'opposi-[^p242-1][^p242-2]
+Du rapprochement des deux textes ressort l'opposi-
 
 [p. 243] tion radicale des deux génies avec une intensité qu'affaiblirait tout commentaire.
 
@@ -3763,7 +3763,7 @@ Nous voudrions maintenant rechercher, par l'étude de la peinture, comment se po
 
 [p. 250] CHAPITRE
 
-costume, c'est-à-dire en quelque sorte en cessant d'être Arabe pour devenir humain. Devant la demi-nudité d'un gardeur de troupeaux, je rêve assez volontiers de Jacob. J'affirme au contraire qu'avec le burnouss saharien ou le mach'la de Syrie, on ne représentera jamais que des Bédouins ¹ ».
+costume, c'est-à-dire en quelque sorte en cessant d'être Arabe pour devenir humain. Devant la demi-nudité d'un gardeur de troupeaux, je rêve assez volontiers de Jacob. J'affirme au contraire qu'avec le burnouss saharien ou le mach'la de Syrie, on ne représentera jamais que des Bédouins [^p250-1] ».
 
 Ajoutons à ce passage le suivant, qui l'atténue dans une certaine mesure : « L'Arabe à pied, drapé, chaussé de sandales, est l'homme de tous les temps et de tous les pays ; de la Bible si tu veux, de Rome, des Gaules, avec un trait de la race orientale et la physionomie propre aux gens du désert. Il peut figurer dans quelque scène que ce soit, grande ou petite, et c'est une figure que Poussin ne désavouerait pas. Le cavalier, au contraire, debout sur son cheval efflanqué, lui serrant les côtes, lui rendant la bride, poussant un cri de gosier et partant au galop, penché sur le cou de sa bête, une main à l'arçon de la selle, l'autre au fusil, voilà l'homme du Sahara ; tout au plus pourrait-on le confondre avec le cavalier de Syrie * ».
 
@@ -3771,13 +3771,13 @@ Quoi qu'il en soit de cette atténuation à une thèse absolue, il est certain q
 
 ## Préface À Sa Vie De Jésus, Il N'A Pas Craint De Dire Que
 
-« le monde chrétien a eu depuis longtemps l'imagination faussée par les fantaisies des peintres » ; lui-même a voulu être émotionné directement par la vie de Notre Seigneur, en passant dans les mêmes lieux, en contemplant les mêmes paysages, en cherchant les traces de la même civilisation. On sait qu'il partit en conséquence pour la Terre Sainte au mois d'octobre 1886 et qu'il en revint en 1894 avec cette admirable série de quatre cents gouaches qui souleva une émotion si vive, au salon de la Société Nationale des Beaux-Arts. En présence d'une pareille œuvre, on se sent saisi de respect [^p250-1][^p250-2]
+« le monde chrétien a eu depuis longtemps l'imagination faussée par les fantaisies des peintres » ; lui-même a voulu être émotionné directement par la vie de Notre Seigneur, en passant dans les mêmes lieux, en contemplant les mêmes paysages, en cherchant les traces de la même civilisation. On sait qu'il partit en conséquence pour la Terre Sainte au mois d'octobre 1886 et qu'il en revint en 1894 avec cette admirable série de quatre cents gouaches qui souleva une émotion si vive, au salon de la Société Nationale des Beaux-Arts.[^p250-2] En présence d'une pareille œuvre, on se sent saisi de respect
 
 [p. 251] et on éprouve quelque pudeur à la discuter en pédant ; mais il faut pourtant bien se résigner à le faire.
 
 On remarquera tout d'abord que les Livres Saints sont le patrimoine commun de tout le monde chrétien et les inspirateurs universels de son art ; astreindre celui-ci à observer toutes les règles de la couleur locale, c'est donc obliger les peintres, soit à se rendre en Terre Sainte et à y faire, comme M. Tissot, un long séjour, soit à s'inspirer de cet artiste et de quelques autres, c'est à- dire à ne faire que des imitations et à tomber à bref délai dans le poncif le plus mort et le plus anti-artistique.
 
-De quel droit d'ailleurs supposer que pays et population ont fidèlement conservé leur ancien aspect ? Une fois posée la règle de la vérité historique et locale, il n'y a point de motif pour que chaque œuvre ne donne lieu à une critique étrangère à l'art, et le peintre devra bientôt s'appliquer à ne point reproduire ce qu'il voit, mais à transformer le monde oriental actuel, pour le rapprocher de la conception que la science du jour donne de son état à la date de l'événement représenté. Comment ne pas se rappeler à ce sujet la mésaventure arrivée à Ernest Renan, faisant rêver Jésus sous des orangers, alors que ceux-ci ne sont venus que bien des siècles après lui de l'Inde en Galilée ? M. Gaston Paris, en rappelant ce fait, en signale d'autres qui, pour ne pas viser tous la Terre Sainte, n'en montrent pas moins ce qu'aurait de purement conventionnel mainte peinture prise sur les lieux, mais à plusieurs siècles de distance : le cactus-raquette et l'aloès qui caractérisent les paysages de Sicile et d'Afrique n'ont été importés du Mexique qu'au seizième siècle ; il n'y avait pas de roses en Judée au temps du Cantique des cantiques, et, quant à la Lombardie, on peut dire qu'on n'y rencontre presque aucune plante qu'ait pu y voir Virgile¹. Renan, qui se [^p251-1]
+De quel droit d'ailleurs supposer que pays et population ont fidèlement conservé leur ancien aspect ? Une fois posée la règle de la vérité historique et locale, il n'y a point de motif pour que chaque œuvre ne donne lieu à une critique étrangère à l'art, et le peintre devra bientôt s'appliquer à ne point reproduire ce qu'il voit, mais à transformer le monde oriental actuel, pour le rapprocher de la conception que la science du jour donne de son état à la date de l'événement représenté. Comment ne pas se rappeler à ce sujet la mésaventure arrivée à Ernest Renan, faisant rêver Jésus sous des orangers, alors que ceux-ci ne sont venus que bien des siècles après lui de l'Inde en Galilée ? M. Gaston Paris, en rappelant ce fait, en signale d'autres qui, pour ne pas viser tous la Terre Sainte, n'en montrent pas moins ce qu'aurait de purement conventionnel mainte peinture prise sur les lieux, mais à plusieurs siècles de distance : le cactus-raquette et l'aloès qui caractérisent les paysages de Sicile et d'Afrique n'ont été importés du Mexique qu'au seizième siècle ; il n'y avait pas de roses en Judée au temps du Cantique des cantiques, et, quant à la Lombardie, on peut dire qu'on n'y rencontre presque aucune plante qu'ait pu y voir Virgile[^p251-1]. Renan, qui se
 
 [p. 252] CHAPITRE
 
@@ -3811,7 +3811,7 @@ M. de Wyzewa est ainsi amené à s'expliquer sur les modernismes des vieux peint
 
 rendre plus concrets les
 
-récits des évangélistes. C'était l'histoire et non pas le symbole qui les occupait, tandis que c'est du symbole que s'oc-[^p254-1]
+récits des évangélistes.[^p254-1] C'était l'histoire et non pas le symbole qui les occupait, tandis que c'est du symbole que s'oc-
 
 [p. 255] cupaient uniquement nos néo-chrétiens. En nous présentant Jésus dans notre milieu d'à présent, en le dépouillant des attributs traditionnels que lui avaient laissés encore les Flandrin et les Signol, ces messieurs nous donnaient à entendre que Jésus n'était pas pour eux une personne véritable, ayant vécu dans des conditions déterminées de temps et de lieu, mais simplement l'incarnation d'une doctrine morale, quelque chose comme un type abstrait de parfaite bonté ».
 
@@ -3823,11 +3823,11 @@ De tous côtés on ne voit que motifs de condamnation des systèmes adoptés. A 
 
 Quant au système moderniste, nous n'oserions le condamner, tout en le trouvant bien scabreux ; mais nous devons dire qu'il nous choque malgré nous quand il met en scène des bourgeois en redingote ou en habit, et ne nous plaît que lorsqu'il s'applique à la représentation de costumes populaires, moins datés.
 
-En ce qui concerne le paysage dans la peinture religieuse, nous avons dit, à propos de James Tissot, combien la couleur locale nous y parait dangereuse, et de prime abord nous serions disposé à adhérer pleinement à ces paroles de M. André Michel : « Qu'un peintre veuille tirer parti du décor familier où s'écoule sa vie et du coin de nature qu'il connaît bien et qu'il aime pour y situer des scènes historiques ou légendaires, il n'aura pas de peine à nous faire entrer dans ses partis pris et à nous faire accepter ses anachronismes, dès que nous aurons reconnu dans son œuvre moins la vraisemblance historique et formelle que la nature aimée et cette intime vérité supérieure à l'exactitude littérale » 1. Mais il nous vient des scrupules quand nous nous souvenons du tableau qui a provoqué cette réflexion ; c'est l'Enfant prodigue d'Eugène Burnand, dont l'uniforme de gardeur de pourceaux famélique n'a rien de bien local et qui nous apparaît couché au pied d'un arbre dans une pinède ensoleillée de la garrigue languedocienne. Pour nos yeux septentrionaux, ce cadre n'a rien qui rappelle notre propre milieu et, pourvu que nous soyons peu enclins à la recherche de la couleur locale, cette garrigue peut passer pour suffisamment orientale. Une masure normande nous produirait-elle le même effet ? On remarquera du reste que l'enfant prodigue n'a rien d'essentiellement oriental, qu'il l'est si peu, à vrai dire, qu'il a pu prendre sur la scène le blanc visage de Pierrot et conquérir, sous cette nouvelle forme, tous les suffrages.
+En ce qui concerne le paysage dans la peinture religieuse, nous avons dit, à propos de James Tissot, combien la couleur locale nous y parait dangereuse, et de prime abord nous serions disposé à adhérer pleinement à ces paroles de M. André Michel : « Qu'un peintre veuille tirer parti du décor familier où s'écoule sa vie et du coin de nature qu'il connaît bien et qu'il aime pour y situer des scènes historiques ou légendaires, il n'aura pas de peine à nous faire entrer dans ses partis pris et à nous faire accepter ses anachronismes, dès que nous aurons reconnu dans son œuvre moins la vraisemblance historique et formelle que la nature aimée et cette intime vérité supérieure à l'exactitude littérale » 1. Mais il nous vient des scrupules quand nous nous souvenons du tableau qui a provoqué cette réflexion ; c'est l'Enfant prodigue d'Eugène Burnand, dont l'uniforme de gardeur de pourceaux famélique n'a rien de bien local et qui nous apparaît couché au pied d'un arbre dans une pinède ensoleillée de la garrigue languedocienne. Pour nos yeux septentrionaux, ce cadre n'a rien qui rappelle notre propre milieu et, pourvu que nous soyons peu enclins à la recherche de la couleur locale, cette garrigue peut passer pour suffisamment orientale. Une masure normande nous produirait-elle le même effet ? On remarquera du reste que l'enfant prodigue n'a rien d'essentiellement oriental, qu'il l'est si peu, à vrai dire, qu'il a pu prendre sur la scène le blanc visage de Pierrot et conquérir, sous cette nouvelle forme, tous les suffrages.[^p256-1]
 
 Nous sommes donc impuissant à formuler une conclusion précise
 
-: la couleur locale est bien une impasse,[^p256-1]
+: la couleur locale est bien une impasse,
 
 [p. 257] comme le dit Fromentin, mais c'est une impasse où tous s'engagent plus ou moins, d'une façon ou d'une autre. On n'en sort que par quelque inconséquence : heureux ceux qui n'y ont fait que quelques pas.
 
@@ -3857,17 +3857,17 @@ De cette affirmation, M. Brunetière donne une première raison qui n'est pas sa
 
 [p. 260] CHAPITRE
 
-lui aucun sens n'est particulièrement délicat, celui-ci ajoute : « en un mot, s'il n'est sensuel à quelque degré ». Et il reprend : « Nous usons du mot sensuel à dessein pour bien marquer qu'un véritable artiste veut jouir des couleurs, des lignes, des notes pour elles-mêmes, en tant que délectables aux sens ; et alors même, qu'il les emploie à exprimer les sentiments les plus sublimes, nous verrons qu'il ne les rend expressives qu'en exploitant la volupté physique qu'elles éveillent ¹ ».
+lui aucun sens n'est particulièrement délicat, celui-ci ajoute : « en un mot, s'il n'est sensuel à quelque degré ». Et il reprend : « Nous usons du mot sensuel à dessein pour bien marquer qu'un véritable artiste veut jouir des couleurs, des lignes, des notes pour elles-mêmes, en tant que délectables aux sens ; et alors même, qu'il les emploie à exprimer les sentiments les plus sublimes, nous verrons qu'il ne les rend expressives qu'en exploitant la volupté physique qu'elles éveillent [^p260-1] ».
 
 De tout cela nous ne nierons rien ; mais nous ajouterons que tout, ici-bas, est pour nous une embûche : quand nous ouvrons nos yeux à la lumière d'un beau jour, quand, altérés, nous buvons une eau fraîche, là aussi il y a plaisir des sens, là aussi il y a marche à l'immoralité. Quand nous nous livrons aux travaux de la pensée, ne marchons-nous pas à l'orgueil ? Et ainsi de suite nous pouvons suivre toutes les branches de l'activité humaine, et toujours nous trouverons un danger. Que le moraliste le signale, en cela il ne fait que son devoir ; mais il ne faut pas proscrire ce dont on ne doit que marquer les écueils et ne sent-on pas déjà l'exagération dans ces paroles de M. Brunetière : « Le grand acteur du paysage, c'est la lumière ou la couleur, c'est le plaisir purement sensuel, ou d'abord sensuel, qu'il nous procure ; et les mots eux-mêmes dont nous nous servons pour admirer, par exemple, une toile de Corot ne l'indiquent-ils pas, quand nous parlons de l'apaisement, de la fraîcheur, de la mélancolie qu'on y respire ? Tout cela n'est pas seulement sensible, mais sensuel ».
 
-Cette phrase que nous avions notée dès notre première lecture, nous la retrouvons relevée par un critique qui ne professe point une morale relâchée, le P. Sertillanges : « Assurément, dit- il, la pensée de l'auteur est au fond très juste ; mais nous ne pouvons nous empêcher de dire que la forme en est abusive. Appeler sensuel [^p260-1]
+Cette phrase que nous avions notée dès notre première lecture, nous la retrouvons relevée par un critique qui ne professe point une morale relâchée, le P. Sertillanges : « Assurément, dit- il, la pensée de l'auteur est au fond très juste ; mais nous ne pouvons nous empêcher de dire que la forme en est abusive. Appeler sensuel
 
-[p. 261] le sentiment d'apaisement que procure une toile de Corot et parler d'un principe d'immoralité qui se cacherait dans toute forme d'art, c'est forcer le sens des mots jusqu'à manquer complètement de justesse. On prouverait à ce compte qu'il y a un principe d'immoralité dans les mathématiques, car une solution élégante procure au connaisseur une jouissance d'esprit qui a son retentissement dans l'être sensible. Non, si l'on ne veut pas verser dans le paradoxe et si l'on veut parler juste, il faut dire que l'art, comme toute chose humaine privée de contrôle, risque de courir à l'abus par une pente naturelle, et que de plus, en raison de la nature spéciale de ses moyens, empruntés tous à l'ordre sensible, l'art renferme, non pas un principe, mais un danger spécial d'immoralité, danger auquel succombera presque fatalement l'homme qui ne voit dans l'art que l'art lui-même, ou n'a de règle que de satisfaire le spectateur ¹ ».
+[p. 261] le sentiment d'apaisement que procure une toile de Corot et parler d'un principe d'immoralité qui se cacherait dans toute forme d'art, c'est forcer le sens des mots jusqu'à manquer complètement de justesse. On prouverait à ce compte qu'il y a un principe d'immoralité dans les mathématiques, car une solution élégante procure au connaisseur une jouissance d'esprit qui a son retentissement dans l'être sensible. Non, si l'on ne veut pas verser dans le paradoxe et si l'on veut parler juste, il faut dire que l'art, comme toute chose humaine privée de contrôle, risque de courir à l'abus par une pente naturelle, et que de plus, en raison de la nature spéciale de ses moyens, empruntés tous à l'ordre sensible, l'art renferme, non pas un principe, mais un danger spécial d'immoralité, danger auquel succombera presque fatalement l'homme qui ne voit dans l'art que l'art lui-même, ou n'a de règle que de satisfaire le spectateur [^p261-1] ».
 
 Avec pleine raison, M. Brunetière flétrit le dilettantisme qui sépare la forme du fond et transporte dans l'exécution tout le mérite de l'art ; mais comment ne pas retrouver cette exagération contre laquelle protestait le P. Sertillanges, quand il découvre une nouvelle ((cause de cette immoralité que l'on peut regarder comme inhérente au principe même de l'art » dans la tendance qu'ont certains artistes à s'isoler du reste des hommes, à se transformer en surhommes de Nietzsche. Il est vrai que Nietzsche était un philosophe bien plutôt qu'un artiste, et que ses adeptes ne se recrutent pas exclusivement, que nous sachions, parmi les peintres et les sculpteurs.
 
-Avec son haut talent et sa forte pensée, M. Brunetière s'abandonne trop à son humeur essentiellement combattive, en sorte que l'on voit un discours aux sages conclusions se transformer en un pamphlet propre à ali-[^p261-1]
+Avec son haut talent et sa forte pensée, M. Brunetière s'abandonne trop à son humeur essentiellement combattive, en sorte que l'on voit un discours aux sages conclusions se transformer en un pamphlet propre à ali-
 
 [p. 262] CHAPITRE
 
@@ -3895,7 +3895,7 @@ rangement de certaines scènes ? Quand ces regards et ces sourires, ces yeux et 
 
 révèlent une délicatesse
 
-si souffrante et si passionnée, aucune biographie, fût-elle autrement documentée que les informes esquisses de Vasari, ne ferait douter de l'âme qui s'est ainsi manifestée ¹ ».
+si souffrante et si passionnée, aucune biographie, fût-elle autrement documentée que les informes esquisses de Vasari, ne ferait douter de l'âme qui s'est ainsi manifestée [^p264-1] ».
 
 Tournez la page et lisez celle qui est consacrée à l'Eve, vraiment inoubliable, que Jésus vient tirer des Limbes : « .... Le Sauveur en la ressuscitant lui a rendu sa beauté première, mais non pas son âme d'alors, car ses yeux ne contempleraient pas ainsi le réveil de son fils Abel, si elle ne se souvenait pas de l'avoir tant pleuré, si elle ne songeait pas à l'autre, au coupable vers qui ce Sauveur ne se penchera jamais. Le ravissement d'une âme rachetée, la mélancolie de l'irréparable regret, l'étonnement du bonheur après tant de larmes, le sérieux du repentir après tant de responsabilités semblent flotter avec l'ombre des cheveux dénoués sur ce visage délicat et triste...
 
@@ -3903,13 +3903,13 @@ Tournez la page et lisez celle qui est consacrée à l'Eve, vraiment inoubliable
 
 Au contraire, Paul Bourget croit à la déchéance morale du Pérugin, à la fin de sa vie, lorsqu'il se trouve en présence de ses dernières fresques, en sa petite ville natale, Citt à della Pieve. Il y aperçoit cette « lassitude, la pire, non pas celle de la main, qui demeure habile, mais l'autre, celle de l'esprit, celle du cœur qui ne peuvent plus, qui ne veulent plus créer et sentir » (p. 104).
 
-Dans un autre ouvrage, il raconte la lamentable histoire des poèmes de Rossetti. L'illustre peintre n'avait point publié de vers lorsqu'il perdit sa jeune femme ; mais il en avait composés que, dans sa douleur, il voulut faire disparaître pour toujours, et, exigeant que le manuscrit en fût enseveli avec elle, il le plaça entre la chevelure et la joue de la morte déjà couchée dans son cercueil. Cependant Rossetti en arriva peu à peu, non pas à se consoler, mais à regretter sa résolution roma [^p264-1]
+Dans un autre ouvrage, il raconte la lamentable histoire des poèmes de Rossetti. L'illustre peintre n'avait point publié de vers lorsqu'il perdit sa jeune femme ; mais il en avait composés que, dans sa douleur, il voulut faire disparaître pour toujours, et, exigeant que le manuscrit en fût enseveli avec elle, il le plaça entre la chevelure et la joue de la morte déjà couchée dans son cercueil. Cependant Rossetti en arriva peu à peu, non pas à se consoler, mais à regretter sa résolution roma
 
 [p. 265] nesque. Cet ensevelissement de tous ses poèmes, dont il n'avait pas d'autre copie et qu'il se sentait incapable d'écrire à nouveau, lui apparut comme l'ensevelissement du meilleur de sa gloire. Sept années et demie après la cérémonie funèbre, le cercueil de la femme de Rossetti fut déterré, et la main d'un ami retira le volume demeuré entre la joue amincie et les beaux cheveux : quelques mois plus tard, les Poèmes et les Ballades et sonnets obtenaient un succès éclatant. Mais Rossetti ne se consola jamais d'avoir commis ce qu'il appelait luimême son sacrilège. « Ne sourions pas trop de cette histoire, conclut Paul Bourget, car il y a de quoi pleurer. N'en pleurons pas, car il y a de quoi sourire. Il se rencontrera toujours dans l'artiste un enfant vaniteux qui fait des bulles de savon avec ses larmes pour montrer aux passants assemblés autour de lui toutes les couleurs du prisme ;
 
-et cependant ce sont là de vraies larmes, versées par de vrais yeux sur de vraies souffrances¹ ». Tout cela ne prouve pas grand chose. Mais, en pareille matière, comment prouver ?
+et cependant ce sont là de vraies larmes, versées par de vrais yeux sur de vraies souffrances[^p265-1] ». Tout cela ne prouve pas grand chose. Mais, en pareille matière, comment prouver ?
 
-Les perpétuelles contradictions de l'homme fournissent matière à amplifications contradictoires ; mais il nous semble que Paul Bourget a bien vu, quand il nous montre le grand artiste grand par sa valeur morale tout en restant soumis aux infirmités de notre nature et en étant exposé à certaines tentations que nous épargne notre médiocrité. Quoi qu'il en soit, cette impossibilité de rien démontrer fait apparaître comme creuses et dépourvues de tout intérêt les discussions sur la moralité de l'art. Nous croyons cependant que tout n'est pas vain dans cette branche de l'esthétique, et nous allons essayer de serrer la question d'un peu plus près que nous ne l'avons fait jusqu'ici, en envisageant plus particulièrement une forme spéciale de l'art, qui est en même temps la plus décriée, la forme dramatique.[^p265-1]
+Les perpétuelles contradictions de l'homme fournissent matière à amplifications contradictoires ; mais il nous semble que Paul Bourget a bien vu, quand il nous montre le grand artiste grand par sa valeur morale tout en restant soumis aux infirmités de notre nature et en étant exposé à certaines tentations que nous épargne notre médiocrité. Quoi qu'il en soit, cette impossibilité de rien démontrer fait apparaître comme creuses et dépourvues de tout intérêt les discussions sur la moralité de l'art. Nous croyons cependant que tout n'est pas vain dans cette branche de l'esthétique, et nous allons essayer de serrer la question d'un peu plus près que nous ne l'avons fait jusqu'ici, en envisageant plus particulièrement une forme spéciale de l'art, qui est en même temps la plus décriée, la forme dramatique.
 
 [p. 266] CHAPITRE
 
@@ -3919,13 +3919,13 @@ M. Faguet reproduit l'énoncé du problème du plaisir tragique tel qu'il est po
 
 Ici on nous affirme que nous prenons plaisir à la souffrance d'autrui,
 
-et tout naturellement on trouve [p. 267] l'origine de ce plaisir dans la survivance d'instincts féroces¹
+et tout naturellement on trouve [p. 267] l'origine de ce plaisir dans la survivance d'instincts féroces[^p267-1]
 
 : și telle est la source du plaisir tragique, nous accordons bien volontiers quelle est profondément impure ; mais nous croyons qu'il y a là une vraie méconnaissance du caractère de l'émotion esthétique. Nous ajouterons toutefois qu'émotion féroce et émotion esthétique peuvent s'associer en proportions variables, et que c'est ainsi que l'on peut confondre deux émotions, deux plaisirs réellement opposés l'un à l'autre.
 
 Qu'un instinct cruel fasse souvent prendre plaisir au simple spectacle de la souffrance, c'est ce que l'expérience ne montre que trop ; d'autre part, ce plaisir abominable peut s'associer à un autre, qui déjà revêt un caractère esthétique : tel est le cas des combats de taureaux pour les véritables amateurs, car le courage et l'habileté y jouent un rôle supérieur. Les exercices actuels du cirque, où il y a danger, sans douleur nécessaire pour aucun être, élèvent d'un échelon la valeur de l'émotion. Puis arrivent le mélodrame et la tragédie. Ici on entre dans la pure sphère dujeu : le danger a disparu à son tour, et les émotions ne sont que figurées. En principe donc, doit disparaître tout plaisir cruel ; toutefois celui-ci peut subsister de deux façons. Si l'illusion scénique, si chère à certains théoriciens, se produit,
 
-il est certain que le plaisir causé par la plus noble tragédie devient vraiment barbare. D'autre part, un spectateur peut aussi fort bien, sans illusion aucune, jouir de l'image de la souffrance comme telle : l'habitué des [^p267-1]
+il est certain que le plaisir causé par la plus noble tragédie devient vraiment barbare. D'autre part, un spectateur peut aussi fort bien, sans illusion aucune, jouir de l'image de la souffrance comme telle : l'habitué des
 
 [p. 268] CHAPITRE exécutions capitales se contentera, faute de mieux, de quelque noir mélodrame.
 
@@ -3937,19 +3937,19 @@ M. Faguet refuse de distinguer entre la vue de la douleur ressentie et la vue de
 
 il faut entendre tout ce qui n'est pas force morale, tout ce qui n'est pas soumis à la législation suprême de la raison ; c'est-à-dire sentiments, instincts, affections, passions, tout aussi bien que la nécessité physique et le sort. Plus l'adversaire [p. 269] est redoutable, plus la victoire est glorieuse : la résistance seule donne la mesure de la force et la rend visible. Il s'ensuit que le plus haut degré de conscience de notre
 
-nature morale ne peut s'éprouver que dans un état violent, dans la lutte ; et que le plus haut degré de plaisir moral sera toujours accompagné de douleur » ¹.
+nature morale ne peut s'éprouver que dans un état violent, dans la lutte ; et que le plus haut degré de plaisir moral sera toujours accompagné de douleur » [^p269-1].
 
 Lorsqu'Edipe, ce résumé des douleurs humaines, apparaît les yeux crevés, partant pour son exil sans terme, ce n'est point pour lui-même que nous aimons ce spectacle sanglant ; mais nous avons vu cet homme chercher le coupable pour en purger son royaume, et, quand il l'a découvert en lui-même, il maintient inébranlablement sa sentence et l'applique sans faiblesse. Antigone nous touche jusqu'au fond du cœur, parce qu'elle sacrifie à son devoir fraternel et sa vie et son amour.
 
 Pas n'est besoin de parler du Cid et de Polyeucte. Chez les héros de Racine, la grandeur morale éclate moins ; mais Andromaqne n'est-elle pas un admirable modèle de mère et de veuve ? et si Iphigénie ne nous satisfait pas absolument, ce n'est pas faute de noblesse, mais faute plutôt de faiblesse : chez elle, la lutte entre la nature et le devoir n'apparaît pas assez. Si nous considérons enfin l'un des plus éclatants succès de la seconde moitié du XIXe siècle, nous voyons, dans la Fille de Roland, une lutte du devoir contre l'amour aussi fortement accusée que chez les héros de Corneille.
 
-M. Faguet aurait bien dû répondre à Schiller, car le noble poète allemand a nettement marqué l'origine la plus haute de l'émotion tragique. Cette émotion peut venir d'en bas ou d'en haut, et les deux sources peuvent parfois mêler leurs ondes : les distinguer peut être alors œuvre fort délicate et où les plus subtils pourront se trouver en défaut ; mais celui qui ne reconnaît que l'origine inférieure sera essentiellement inapte à faire le départ entre deux éléments dont il nie l'un, pour ainsi dire *a priori*.[^p269-1]
+M. Faguet aurait bien dû répondre à Schiller, car le noble poète allemand a nettement marqué l'origine la plus haute de l'émotion tragique. Cette émotion peut venir d'en bas ou d'en haut, et les deux sources peuvent parfois mêler leurs ondes : les distinguer peut être alors œuvre fort délicate et où les plus subtils pourront se trouver en défaut ; mais celui qui ne reconnaît que l'origine inférieure sera essentiellement inapte à faire le départ entre deux éléments dont il nie l'un, pour ainsi dire *a priori*.
 
 [p. 270]
 
 ### Chapitre Vii
 
-Il faut reconnaître que l'impression de beauté tragique n'est pas proportionnelle à l'élévation morale des personnages. Peu de pièces nous ont donné à un plus haut degré cette impression que Britannicus ; or, si ce jeune prince et Junie, surtout cette dernière, sont touchants et ne pourraient disparaître sans grand dommage, on doit cependant constater que Néron et Agrippine sont les deux vrais héros. En vain, dirait-on que, si ces personnages ne sont pas moraux, la moralité est dans l'âme du poète, qui manifestement les réprouve. Cette réprobation est incontestable, il est vrai, et son absence serait parfaitement choquante ; mais elle reste tout à fait au second plan, et si nous réprouvons, nous aussi, Agrippine et son fils, nous ne nous laissons aucunement envahir par l'horreur que nous inspirerait leur conduite si nous en étions réellement témoins. Ne tenons-nous pas là l'essentielle immoralité du théâtre ? Non, parce que, précisément, nous savons que nous ne sommes pas en présence de faits réels : la vérité de la peinture, l'enchaînement et la progression des sentiments, l'admirable facture du vers, tout cela s'unit pour nous donner cette impression de perfection qui, dans toutes les formes de l'art, constitue l'élément le plus irréductible du sentiment du beau. C'est là, en somme, ce que Schiller oppose à la convenance morale sous le nom de convenance naturelle. Il paraît admettre qu'elle peut être séparée de la première, tandis que celle-ci ne saurait suffire à elle seule. La foule subit en aveugle l'impression que le poète a voulu produire sur son cœur ; quant aux connaisseurs, ils devraient apprécier et la convenance morale et la convenance naturelle, mais parfois une culture raffinée, que n'accompagne pas un progrès moral en rapport avec le progrès intellectuel, a pour résultat de rendre le connaisseur indifférent à la convenance morale 1. Ce que nous dit Schil-[^p270-1]
+Il faut reconnaître que l'impression de beauté tragique n'est pas proportionnelle à l'élévation morale des personnages. Peu de pièces nous ont donné à un plus haut degré cette impression que Britannicus ; or, si ce jeune prince et Junie, surtout cette dernière, sont touchants et ne pourraient disparaître sans grand dommage, on doit cependant constater que Néron et Agrippine sont les deux vrais héros. En vain, dirait-on que, si ces personnages ne sont pas moraux, la moralité est dans l'âme du poète, qui manifestement les réprouve. Cette réprobation est incontestable, il est vrai, et son absence serait parfaitement choquante ; mais elle reste tout à fait au second plan, et si nous réprouvons, nous aussi, Agrippine et son fils, nous ne nous laissons aucunement envahir par l'horreur que nous inspirerait leur conduite si nous en étions réellement témoins. Ne tenons-nous pas là l'essentielle immoralité du théâtre ? Non, parce que, précisément, nous savons que nous ne sommes pas en présence de faits réels : la vérité de la peinture, l'enchaînement et la progression des sentiments, l'admirable facture du vers, tout cela s'unit pour nous donner cette impression de perfection qui, dans toutes les formes de l'art, constitue l'élément le plus irréductible du sentiment du beau. C'est là, en somme, ce que Schiller oppose à la convenance morale sous le nom de convenance naturelle. Il paraît admettre qu'elle peut être séparée de la première, tandis que celle-ci ne saurait suffire à elle seule. La foule subit en aveugle l'impression que le poète a voulu produire sur son cœur ; quant aux connaisseurs, ils devraient apprécier et la convenance morale et la convenance naturelle, mais parfois une culture raffinée, que n'accompagne pas un progrès moral en rapport avec le progrès intellectuel, a pour résultat de rendre le connaisseur indifférent à la convenance morale 1.[^p270-1] Ce que nous dit Schil-
 
 [p. 271] ler, nous l'avions reconnu dès le début de notre étude : il y a là un danger réel, mais tout offre ses dangers, et tout devrait être condamné et proscrit si l'on ne conservait que ce dont on ne pourrait mésuser.
 
@@ -3971,11 +3971,11 @@ Cette incompatibilité du rire avec l'émotion est une loi fondamentale sur laqu
 
 ne faut pas que le poète laisse s'émouvoir le spectateur, et ceci nous explique que le rire éclate surtout en face du comique de mots et du comique de situation, qui sont, pour ainsi dire, indépendants des personnes. C'est, du reste, une loi du genre que, dans les pièces fondées sur ces ordres du comique, surtout le dernier, les personnages ne soient guère que des fantoches. Il en résulte à la fois que leurs infortunes ne nous touchent aucunement et que leur immoralité ne nous choque pas, parce que nous ne les prenons pas au sérieux. Il n'est plus du tout question de convenance morale, et il se produit alors dans sa plénitude un phénomène que Schiller constatait comme possible dans la tragédie. « Il y a, dit-il, un assez grand nombre de circonstances où la convenance naturelle semble charmer notre esprit même aux dépens de la convenance morale. Ainsi l'esprit de suite que déploie dans ses machinations l'homme pervers flatte évidemment notre imagination, bien que ses moyens et son but répugnent à notre sens moral. Un homme de cette trempe est capable d'exciter en nous l'intérêt le plus vif : nous tremblons de voir manquer ses combinaisons, dont nous devrions souhaiter l'insuccès avec la plus vive ardeur, s'il était vrai de dire que nous rapportons toutes choses à la convenance morale... Ce plaisir (que nous goûtons à ce genre de spectacle), nous le goûtons sans mélange, tant qu'il ne nous vient à la pensée aucun but moral auquel l'action où nous trouvons une convenance soit contraire... La convenance de toute action humaine nous est par elle-même une cause de plaisir du moment que nous n'y considérons rien de plus que le rapport des moyens avec le but. Mais, s'il nous vient à l'esprit de rapporter et ce but et ces moyens à un principe moral, et que nous y découvrions une disconvenance par rapport à ce principe, en un mot si nous nous rappelons que cette action est celle d'un être moral, à ce premier mouvement de plaisir succède une profonde indignation » 1.[^p272-1]
 
-[p. 273] Quoi de plus aisé que d'appliquer ces principes à nos vaudevilles contemporains et à certaines farces de Molière ? Est-il spectacle plus triste, si on le prend au sérieux, que celui des jeunes gens de Molière recourant aux bons offices des Scapin et des Mascarille pour berner leurs pères, et cependant que de fils respectueux ont ri aux tours de ces valets, que de pères ont conduit leurs fils à ce spectacle sans croire compromettre leur autorité¹ ? Est-ce à dire que des natures perverties ne puissent tirer de là de fâcheuses leçons ? A peu près comme un criminel en découvre dans un livre de chimie. Hatons-nous d'ajouter que ces œuvres n'offrent qu'une beauté d'ordre assez inférieur, et n'ont le plus souvent que la valeur d'un délassement. Si d'ailleurs l'auteur cherche à surexciter l'attrait de la sensualité, rien d'élevé ne vient en former la contre-partie. Mais laissons ce dernier point pour nous en tenir présentement au comique.
+[p. 273] Quoi de plus aisé que d'appliquer ces principes à nos vaudevilles contemporains et à certaines farces de Molière ? Est-il spectacle plus triste, si on le prend au sérieux, que celui des jeunes gens de Molière recourant aux bons offices des Scapin et des Mascarille pour berner leurs pères, et cependant que de fils respectueux ont ri aux tours de ces valets, que de pères ont conduit leurs fils à ce spectacle sans croire compromettre leur autorité[^p273-1] ? Est-ce à dire que des natures perverties ne puissent tirer de là de fâcheuses leçons ? A peu près comme un criminel en découvre dans un livre de chimie. Hatons-nous d'ajouter que ces œuvres n'offrent qu'une beauté d'ordre assez inférieur, et n'ont le plus souvent que la valeur d'un délassement. Si d'ailleurs l'auteur cherche à surexciter l'attrait de la sensualité, rien d'élevé ne vient en former la contre-partie. Mais laissons ce dernier point pour nous en tenir présentement au comique.
 
 Celui-ci apparaît, somme toute, comme fort innocent dans les œuvres dont nous venons de parler. La question est plus délicate quand il s'agit de la comédie de caractère. Ici le ton s'élève, et il semble qu'au lieu de fantoches nous avons devant nous des personnages véritables. Voyons comment le poète s'y prendra pour nous empêcher de nous émouvoir.
 
-« Il y a, dit M. Bergson, un art de décourager notre sympathie au moment précis où elle pourrait s'offrir, de telle manière que la situation, même sérieuse, ne soit pas prise au sérieux. Deux procédés me paraissent dominer ce dernier art, que le poète comique applique plus ou moins inconsciemment. Le premier consiste à isoler, au milieu de l'âme du personnage, le sentiment qu'on lui prête et à en faire pour ainsi dire un état parasite [^p273-1]
+« Il y a, dit M. Bergson, un art de décourager notre sympathie au moment précis où elle pourrait s'offrir, de telle manière que la situation, même sérieuse, ne soit pas prise au sérieux. Deux procédés me paraissent dominer ce dernier art, que le poète comique applique plus ou moins inconsciemment. Le premier consiste à isoler, au milieu de l'âme du personnage, le sentiment qu'on lui prête et à en faire pour ainsi dire un état parasite
 
 [p. 274]
 
@@ -3983,7 +3983,7 @@ Celui-ci apparaît, somme toute, comme fort innocent dans les œuvres dont nous 
 
 doué d'une existence indépendante. En général, un sentiment intense gagne de proche en proche tous les autres états d'âme et les teint de la coloration qui lui est propre : si l'on nous fait assister alors à cette imprégnation graduelle, nous finissons, peu à peu, par nous imprégner nous-mêmes d'une émotion correspondante. On pourrait dire
 
-pour recourir à une autre image qu'une émotion est dramatique, communicative, quand toutes les harmoniques y sont données avec la note fondamentale. C'est parce que l'acteur vibre ainsi tout entier que le public pourra vibrer à son tour. Au contraire, dans l'émotion qui nous laisse indifférents et qui deviendra comique, il y a toujours une raideur qui l'empêche d'entrer en relations avec le reste de l'âme où elle siège. Cette raideur pourra s'accuser, à un moment donné, par des mouvements de pantin et provoquer alors le rire, mais déjà auparavant elle contrariait notre sympathie : comment se mettre à l'unisson d'une âme qui n'est pas à l'unisson d'elle -même ? Il y a dans l'Avare une scène qui côtoie le drame. C'est celle où l'emprunteur et l'usurier, qui ne s'étaient pas encore vus, se rencontrent face à face et se trouvent être le fils et le père. Nous serions véritablement ici dans le drame si l'avarice et le sentiment paternel, s'entre-choquant dans l'à me d'Harpagon, y amenaient une combinaison plus ou moins originale. Mais point du tout. L'entrevue n'a pas plutôt pris fin que le père a tout oublié. Rencontrant de nouveau son fils, il fait à peine allusion à cette scène si grave : « Et vous, mon fils, à qui j'ai la bonté de pardonner l'histoire de tantôt, etc. » L'avarice a donc passé à côté du reste sans y toucher, sans être touchée, distraitement. Elle a eu beau s'installer dans l'âme, elle a beau être devenue maîtresse de la maison ; elle n'en reste pas moins une étrangère 1. Tout autre serait une avarice de [^p274-1]
+pour recourir à une autre image qu'une émotion est dramatique, communicative, quand toutes les harmoniques y sont données avec la note fondamentale. C'est parce que l'acteur vibre ainsi tout entier que le public pourra vibrer à son tour. Au contraire, dans l'émotion qui nous laisse indifférents et qui deviendra comique, il y a toujours une raideur qui l'empêche d'entrer en relations avec le reste de l'âme où elle siège. Cette raideur pourra s'accuser, à un moment donné, par des mouvements de pantin et provoquer alors le rire, mais déjà auparavant elle contrariait notre sympathie : comment se mettre à l'unisson d'une âme qui n'est pas à l'unisson d'elle -même ? Il y a dans l'Avare une scène qui côtoie le drame. C'est celle où l'emprunteur et l'usurier, qui ne s'étaient pas encore vus, se rencontrent face à face et se trouvent être le fils et le père. Nous serions véritablement ici dans le drame si l'avarice et le sentiment paternel, s'entre-choquant dans l'à me d'Harpagon, y amenaient une combinaison plus ou moins originale. Mais point du tout. L'entrevue n'a pas plutôt pris fin que le père a tout oublié. Rencontrant de nouveau son fils, il fait à peine allusion à cette scène si grave : « Et vous, mon fils, à qui j'ai la bonté de pardonner l'histoire de tantôt, etc. » L'avarice a donc passé à côté du reste sans y toucher, sans être touchée, distraitement. Elle a eu beau s'installer dans l'âme, elle a beau être devenue maîtresse de la maison ; elle n'en reste pas moins une étrangère 1.[^p274-1] Tout autre serait une avarice de
 
 [p. 275] nature tragique. On la verrait attirer à elle, absorber, s'assimiler, en les transformant, les diverses puissances de l'être
 
@@ -4019,11 +4019,11 @@ Laissant donc d'abord de côté ce qui concerne spécialement le théâtre, nous
 
 [p. 278] CHAPITRE
 
-la même phrase, il le qualifie de remède ¹, ce qui semble en faire un grand sacrement au même titre que l'est celui de la pénitence. Le mariage est un remède parce qu'il « suppose le mal de la concupiscence ». Aussi Bossuet parle-t-il constamment de ce sacrement sur un ton qui ne rappelle en rien celui qui règne d'un bout à l'autre de la messe de mariage.
+la même phrase, il le qualifie de remède [^p278-1], ce qui semble en faire un grand sacrement au même titre que l'est celui de la pénitence. Le mariage est un remède parce qu'il « suppose le mal de la concupiscence ». Aussi Bossuet parle-t-il constamment de ce sacrement sur un ton qui ne rappelle en rien celui qui règne d'un bout à l'autre de la messe de mariage.
 
 Ecoutez-le maintenant condamner sans restriction ni réserves les réunions mondaines et le luxe : « Les hommes étalent leurs filles, pour être un spectacle de vanité et l'objet de la cupidité publique, et les parent comme on fait un temple 2. Ils transportent les ornements, que votre temple devrait avoir seul, à ces cadavres ornés, à ces sépulcres blanchis ; et il semble qu'ils aient entrepris de les faire adorer en votre place. Ils nourrissent leur vanité et celle des autres. Ils remplissent les autres filles de jalousie, les hommes de convoitise ; tous par conséquent d'erreur et de corruption. O fidèles, o enfants de Dieu, désabusez-vous de ces fausses concupiscences. Pourquoi tournez-vous vos nécessités en vanité ? Vous avez besoin d'une maison, comme d'une défense nécessaire contre les injures de l'air : c'est une faiblesse. Vous avez besoin de nourriture, pour réparer vos forces qui se perdent et se dissipent à chaque moment : autre faiblesse. Vous avez besoin d'un lit pour vous reposer dans votre accablement et vous y livrer au sommeil qui lie et ensevelit votre raison : autre faiblesse déplorable. Vous faites de tous ces témoins et de tous ces monuments de votre faiblesse un spectacle à votre vanité » 3.
 
-D'autre part, Bossuet condamne absolument la plaisanterie, c'est-à-dire ce qui tend à faire rire, comme une action légère et indécente, et le rire lui apparaît comme un mouvement indécent des lèvres 4.[^p278-1][^p278-2][^p278-3][^p278-4]
+D'autre part, Bossuet condamne absolument la plaisanterie, c'est-à-dire ce qui tend à faire rire, comme une action légère et indécente, et le rire lui apparaît comme un mouvement indécent des lèvres 4.[^p278-4][^p278-3][^p278-2]
 
 [p. 279] Ces quelques détails pris isolément ne suffisent pas à faire sentir dans son caractère absolu la sévérité de Bossuet à l'époque que nous considérons ; pour bien s'en rendre compte, il faut lire intégralement les deux œuvres que nous avons mentionnées, parce qu'on y voit que rien ne vient adoucir le rigorisme ressortant de nos citations.
 
@@ -4031,17 +4031,17 @@ Si maintenant nous nous demandons ce qu'un homme profondément pénétré d'une 
 
 secours. Non seulement en effet cette excuse est souvent sans portée sérieuse, le mariage n'étant mentionné que pour la forme ; mais alors même que l'amour exprimé est le plus réservé et se montre tout pénétré du sentiment du devoir, il n'en repose pas moins aux yeux de Bossuet sur une concupiscence condamnable
 
-: le fait qu'on aspire à un remède prouve surabondamment qu'on est un malade. « Il y a encore, dit en effet Bossuet, une autre raison plus grave et plus chrétienne qui ne permet pas d'étaler la passion de l'amour, même par rapport au licite ; c'est comme l'a remarqué, en traitant de la question de la comédie, un habile homme de nos jours, c'est, dis-je, que le mariage présuppose la concupiscence, qui, selon les règles de la foi, est un mal auquel il faut résister » 1.
+: le fait qu'on aspire à un remède prouve surabondamment qu'on est un malade. « Il y a encore, dit en effet Bossuet, une autre raison plus grave et plus chrétienne qui ne permet pas d'étaler la passion de l'amour, même par rapport au licite ; c'est comme l'a remarqué, en traitant de la question de la comédie, un habile homme de nos jours, c'est, dis-je, que le mariage présuppose la concupiscence, qui, selon les règles de la foi, est un mal auquel il faut résister » 1.[^p279-1]
 
-Quand on se place à ce point de vue, en écartant toute [^p279-1]
+Quand on se place à ce point de vue, en écartant toute
 
 [p. 280] CHAPITRE atténuation, on arrive à comprendre ces jugements absolus portés, non seulement contre Molière, mais contre Corneille lui-même. « Il faudra donc que nous passions pour honnêtes les impiétés et les infamies dont sont pleines les comédies de Molière... auteur qui remplit tous les théâtres des équivoques les plus grossières dont on ait jamais infecté les oreilles des chrétiens » 1. « Dites-moi, que veut un Corneille dans son Cid, sinon qu'on aime Chimène, qu'on l'adore avec Rodrigue, qu'on tremble avec lui, lorsqu'il est dans la crainte de la perdre, et qu'avec lui on s'estime heureux lorsqu'il espère de la posséder ?... Ainsi tout le dessein d'un poète, toute la fin de son travail, c'est qu'on soit, comme son héros, épris des belles personnes, qu'on les serve comme des divinités ; en un mot qu'on leur sacrifie tout, si ce n'est peut- être la gloire, dont l'amour est plus dangereux que celui de la beauté même » 2.
 
 Le jugement de Bossuet sur le théâtre apparaît, nous l'avons vu, comme le résultat de toute une doctrine, non ainsi que chez bien des gens, comme la répétition irraisonnée d'une sentence étrangère. Il en résulte que ce jugement doit être entouré d'une foule d'autres appréciations dérivant de la même source et dont on ne saurait le séparer.
 
-On doit bien remarquer tout d'abord que, si l'auteur des Maximes considère les représentations dramatiques comme beaucoup plus dangereuses que la simple lecture des pièces, il est bien loin de professer qu'une pièce mauvaise à la scène est bonne dans le livre : en lui donnant toute sa puissance d'action, la représentation ne change point cette action, et toutes les condamnations prononcées ont leur raison d'être contre la simple lecture.
+On doit bien remarquer tout d'abord que, si l'auteur des Maximes considère les représentations dramatiques comme beaucoup plus dangereuses que la simple lecture des pièces, il est bien loin de professer qu'une pièce mauvaise à la scène est bonne dans le livre : en lui donnant toute sa puissance d'action, la représentation ne change point cette action, et toutes les condamnations prononcées ont leur raison d'être contre la simple lecture.[^p280-2][^p280-1]
 
-Aussi peut-on prévoir que Bossuet avait bien changé [^p280-1][^p280-2]
+Aussi peut-on prévoir que Bossuet avait bien changé
 
 [p. 281] depuis que, excellent humaniste, il patronnait la collection des Classiques du Dauphin, car la condamnation portée contre les œuvres dramatiques doit s'étendre beaucoup plus. Qu'on relise sa lettre à Innocent XI sur l'Instruction de Monseigneur le Dauphin et qu'on la compare au Traité de la concupiscence et aux Maximes : le contraste est frappant. « Entre les poètes, dit Bossuet, ceux qui ont plu davantage à Monseigneur le Dauphin sont Virgile et Térence... On ne peut dire combien il s'est diverti agréablement et utilement dans Térence, et combien de vives images de la vie humaine lui ont passé devant les yeux en le lisant. Il a vu les trompeuses amorces de la volupté et des femmes ; les aveugles emportements d'une jeunesse que la flatterie et les intrigues d'un valet ont engagée dans un pas difficile et glissant ; qui ne sait que devenir, que l'amour tourmente, qui ne sort de peine que par une espèce de miracle, et qui ne trouve le repos qu'en retournant à son devoir. Là le Prince remarquait les mœurs et le caractère de chaque âge et de chaque passion exprimé par cet admirable ouvrier, avec tous les traits convenables à chaque personnage, des sentiments naturels, et enfin avec cette grâce et cette bienséance que demandent ces
 
@@ -4075,25 +4075,25 @@ En parlant ainsi, nous ne croyons point manquer au respect dû à ce grand évê
 
 que nous avons
 
-citées nous parait devoir faire écarter absolument le détour au moyen duquel, dans une intéressante conférence sur les Lectures de femmes, M. l'abbé Vacandard, aumônier du lycée de Rouen, a cru pouvoir recommander la lecture des œuvres de Corneille et de Racine : « Leurs tragédies, dit-il, contenaient sans doute, au temps où elles paru-[^p283-1]
+citées nous parait devoir faire écarter absolument le détour au moyen duquel, dans une intéressante conférence sur les Lectures de femmes, M.[^p283-1] l'abbé Vacandard, aumônier du lycée de Rouen, a cru pouvoir recommander la lecture des œuvres de Corneille et de Racine : « Leurs tragédies, dit-il, contenaient sans doute, au temps où elles paru-
 
-[p. 284] CHAPITRE rent, un poison dangereux ; avec les années, ce virus s'est atténué ». C'est là, selon nous, méconnaître la forte pensée de l'évêque de Meaux, dont les principes atteignent tout autre chose que nous ne savons quel poison passager ; aussi croyons-nous M. Vacandard en profonde contradiction avec cette pensée quand il se hasarde à recommander des œuvres telles que la Fille de Roland et même le Monde où l'on s'ennuie. Certes l'amour peint dans la tragédie d'Henri de Bornier est chaste entre tous ; mais par là n'est-il pas particulièrement dangereux, et selon le Pascal des Pensées et selon le Bossuet des Maximes¹ ? Quant à la comédie de Pailleron, nous connaissons peu d'œuvres que frappent plus directement les anathèmes de Bossuet : outre que le rire en jaillit inépuisablement, l'amour y paraît plein de séduction, et la vieille marquise, à laquelle vont toutes les sympathies, en parle avec une indulgence pour ses faiblesses dont nous ne voudrions point endosser toute la responsabilité.
+[p. 284] CHAPITRE rent, un poison dangereux ; avec les années, ce virus s'est atténué ». C'est là, selon nous, méconnaître la forte pensée de l'évêque de Meaux, dont les principes atteignent tout autre chose que nous ne savons quel poison passager ; aussi croyons-nous M. Vacandard en profonde contradiction avec cette pensée quand il se hasarde à recommander des œuvres telles que la Fille de Roland et même le Monde où l'on s'ennuie. Certes l'amour peint dans la tragédie d'Henri de Bornier est chaste entre tous ; mais par là n'est-il pas particulièrement dangereux, et selon le Pascal des Pensées et selon le Bossuet des Maximes[^p284-1] ? Quant à la comédie de Pailleron, nous connaissons peu d'œuvres que frappent plus directement les anathèmes de Bossuet : outre que le rire en jaillit inépuisablement, l'amour y paraît plein de séduction, et la vieille marquise, à laquelle vont toutes les sympathies, en parle avec une indulgence pour ses faiblesses dont nous ne voudrions point endosser toute la responsabilité.
 
 Nous savons bien que Sarcey a soutenu, lui aussi, que « le venin d'une comédie (si venin il y a, ajoutait-il) perd singulièrement de sa force en vieillissant » 2. Mais
 
-l'application qu'il en fait est fort compromettante pour cette thèse : M. Vacandard est-il d'avis que le Chandelier de Musset est devenu une œuvre saine avec le temps ? Nous comprenons fort bien que, en un moment d'épidémie morale, une œuvre puisse exercer une influence délétère plus énergique, et c'est ainsi que le Cid a pu apparaître d'abord comme un encouragement au duel et encourir justement l'hostilité de Richelieu. Mais le culte des belles personnes, comme dit Bossuet, est de tous les temps ; aussi la virulence de son anathème contre la peinture des amours de Rodrigue et
+l'application qu'il en fait est fort compromettante pour cette thèse : M. Vacandard est-il d'avis que le Chandelier de Musset est devenu une œuvre saine avec le temps ? Nous comprenons fort bien que, en un moment d'épidémie morale, une œuvre puisse exercer une influence délétère plus énergique, et c'est ainsi que le Cid a pu apparaître d'abord comme un encouragement au duel et encourir justement l'hostilité de Richelieu.[^p284-2] Mais le culte des belles personnes, comme dit Bossuet, est de tous les temps ; aussi la virulence de son anathème contre la peinture des amours de Rodrigue et
 
-१[^p284-1][^p284-2]
+१
 
 [p. 285] de Chimène ne se ressent-elle point du long demi-siècle passé sur elle. Cet anathème repose d'ailleurs sur une forte doctrine ; il n'est point inspiré par les circonstances d'un jour et c'est méconnaître la profondeur de la pensée de Bossuet que de prétendre y rester fidèle tout en honorant l'œuvre de Corneille et de Racine.
 
 Grande sans doute est la puissance du temps. S'il ne lui est point donné de changer le poison des âmes en une nourriture salutaire, il permet d'envisager chaque chose. avec plus de justice, et il donne des leçons de sagesse et de modération. Telle est bien la puissance que célébrait M. l'abbé Vignot dans son Eloge de Racine, prononcé le 23 avril 1899 en l'église Notre- Dame de la Ferté-Milon :
 
-« Singulière puissance du temps, s'écriait-il. Un poète dramatique est né ici que l'on a qualifié de malfaiteur¹ ;
+« Singulière puissance du temps, s'écriait-il. Un poète dramatique est né ici que l'on a qualifié de malfaiteur[^p285-1] ;
 
 lui-même a déféré à cette censure ;
 
-il s'est, en plein élan, arrêté au milieu d'une carrière soudain apparue à ses yeux comme le chemin de l'abîme ; il a imaginé la pénitence la plus rude à un artiste, pis que l'abandon, pis que le mépris, l'oubli de son art. Et voici qu'avec les représentants de l'Etat, de la ville et de la province, l'Eglise s'empresse autour de cet enfant perdu ; des religieuses ont disposé ces guirlandes à l'honneur de celui que la mère Agnès de Sainte-Thècle traitait en excommunié ; vous-même, Monseigneur, vous souvenant de l'exquis lettré, du guide ès sciences profanes que vous fûtes, êtes accouru pour donner la dernière absoute à ce mort suspect d'hérésie et de paganisme, et pour rehausser l'hommage rendu dans ce sanctuaire à ce maître du théâtre. Car, tout prêts que nous soyons à [^p285-1][^p285-2]
+il s'est, en plein élan, arrêté au milieu d'une carrière soudain apparue à ses yeux comme le chemin de l'abîme ; il a imaginé la pénitence la plus rude à un artiste, pis que l'abandon, pis que le mépris, l'oubli de son art. Et voici qu'avec les représentants de l'Etat, de la ville et de la province, l'Eglise s'empresse autour de cet enfant perdu ; des religieuses ont disposé ces guirlandes à l'honneur de celui que la mère Agnès de Sainte-Thècle traitait en excommunié ; vous-même, Monseigneur, vous souvenant de l'exquis lettré, du guide ès sciences profanes que vous fûtes, êtes accouru pour donner la dernière absoute à ce mort suspect d'hérésie et de paganisme, et pour rehausser l'hommage rendu dans ce sanctuaire à ce maître du théâtre.[^p285-2] Car, tout prêts que nous soyons à
 
 [p. 286]
 
@@ -4101,7 +4101,7 @@ il s'est, en plein élan, arrêté au milieu d'une carrière soudain apparue à 
 
 Il faut reconnaître que l'impression de beauté tragique n'est pas proportionnelle à l'élévation morale des personnages. Peu de pièces nous ont donné à un plus haut degré cette impression que Britannicus ; or, si ce jeune prince et Junie, surtout cette dernière, sont touchants et ne pourraient disparaître sans grand dommage, on doit cependant constater que Néron et Agrippine sont les deux vrais héros. En vain, dirait-on que, si ces personnages ne sont pas moraux, la moralité est dans l'âme du poète, qui manifestement les réprouve. Cette réprobation est incontestable, il est vrai, et son absence serait parfaitement choquante ; mais elle reste tout à fait au second plan,
 
-et si nous réprouvons, nous aussi, Agrippine et son fils, nous ne nous laissons aucunement envahir par l'horreur que nous inspirerait leur conduite si nous en étions réellement témoins. Ne tenons-nous pas là l'essentielle immoralité du théâtre ? Non, parce que, précisément, nous savons que nous ne sommes pas en présence de faits réels : la vérité de la peinture, l'enchaînement et la progression des sentiments, l'admirable facture du vers, tout cela s'unit pour nous donner cette impression de perfection qui, dans toutes les formes de l'art, constitue l'élément le plus irréductible du sentiment du beau. C'est là, en somme, ce que Schiller oppose à la convenance morale sous le nom de convenance naturelle. Il paraît admettre qu'elle peut être séparée de la première, tandis que celle-ci ne saurait suffire à elle seule. La foule subit en aveugle l'impression que le poète a voulu produire sur son cœur ; quant aux connaisseurs, ils devraient apprécier et la convenance morale et la convenance naturelle, mais parfois une culture raffinée, que n'accompagne pas un progrès moral en rapport avec le progrès intellectuel, a pour résultat de rendre le connaisseur indifférent à la convenance morale 1. Ce que nous dit Schil-[^p286-1]
+et si nous réprouvons, nous aussi, Agrippine et son fils, nous ne nous laissons aucunement envahir par l'horreur que nous inspirerait leur conduite si nous en étions réellement témoins. Ne tenons-nous pas là l'essentielle immoralité du théâtre ? Non, parce que, précisément, nous savons que nous ne sommes pas en présence de faits réels : la vérité de la peinture, l'enchaînement et la progression des sentiments, l'admirable facture du vers, tout cela s'unit pour nous donner cette impression de perfection qui, dans toutes les formes de l'art, constitue l'élément le plus irréductible du sentiment du beau. C'est là, en somme, ce que Schiller oppose à la convenance morale sous le nom de convenance naturelle. Il paraît admettre qu'elle peut être séparée de la première, tandis que celle-ci ne saurait suffire à elle seule. La foule subit en aveugle l'impression que le poète a voulu produire sur son cœur ; quant aux connaisseurs, ils devraient apprécier et la convenance morale et la convenance naturelle, mais parfois une culture raffinée, que n'accompagne pas un progrès moral en rapport avec le progrès intellectuel, a pour résultat de rendre le connaisseur indifférent à la convenance morale 1.[^p286-1] Ce que nous dit Schil-
 
 [p. 287] ler, nous l'avions reconnu dès le début de notre étude : il y a là un danger réel, mais tout offre ses dangers, et tout devrait être condamné et proscrit si l'on ne conservait que ce dont on ne pourrait mésuser.
 
@@ -4123,13 +4123,13 @@ Cette incompatibilité du rire avec l'émotion est une loi fondamentale sur laqu
 
 ne faut pas que le poète laisse s'émouvoir le spectateur, et ceci nous explique que le rire éclate surtout en face du comique de mots et du comique de situation, qui sont, pour ainsi dire, indépendants des personnes. C'est, du reste, une loi du genre que, dans les pièces fondées sur ces ordres du comique, surtout le dernier, les personnages ne soient guère que des fantoches. Il en résulte à la fois que leurs infortunes ne nous touchent aucunement et que leur immoralité ne nous choque pas, parce que nous ne les prenons pas au sérieux. Il n'est plus du tout question de convenance morale, et il se produit alors dans sa plénitude un phénomène que Schiller constatait comme possible dans la tragédie. « Il y a, dit-il, un assez grand nombre de circonstances où la convenance naturelle semble charmer notre esprit même aux dépens de la convenance morale. Ainsi l'esprit de suite que déploie dans ses machinations l'homme pervers flatte évidemment notre imagination, bien que ses moyens et son but répugnent à notre sens moral. Un homme de cette trempe est capable d'exciter en nous l'intérêt le plus vif : nous tremblons de voir manquer ses combinaisons, dont nous devrions souhaiter l'insuccès avec la plus vive ardeur, s'il était vrai de dire que nous rapportons toutes choses à la convenance morale... Ce plaisir (que nous goûtons à ce genre de spectacle), nous le goûtons sans mélange, tant qu'il ne nous vient à la pensée aucun but moral auquel l'action où nous trouvons une convenance soit contraire... La convenance de toute action humaine nous est par elle-même une cause de plaisir du moment que nous n'y considérons rien de plus que le rapport des moyens avec le but. Mais, s'il nous vient à l'esprit de rapporter et ce but et ces moyens à un principe moral, et que nous y découvrions une disconvenance par rapport à ce principe, en un mot si nous nous rappelons que cette action est celle d'un être moral, à ce premier mouvement de plaisir succède une profonde indignation » 1.[^p288-1]
 
-[p. 289] Quoi de plus aisé que d'appliquer ces principes à nos vaudevilles contemporains et à certaines farces de Molière ? Est-il spectacle plus triste, si on le prend au sérieux, que celui des jeunes gens de Molière recourant aux bons offices des Scapin et des Mascarille pour berner leurs pères, et cependant que de fils respectueux ont ri aux tours de ces valets, que de pères ont conduit leurs fils à ce spectacle sans croire compromettre leur autorité¹ ? Est-ce à dire que des natures perverties ne puissent tirer de là de fâcheuses leçons ? A peu près comme un criminel en découvre dans un livre de chimie. Hâtons-nous d'ajouter que ces œuvres n'offrent qu'une beauté d'ordre assez inférieur, et n'ont le plus souvent que la valeur d'un délassement. Si d'ailleurs l'auteur cherche à surexciter l'attrait de la sensualité, rien d'élevé ne vient en former la contre-partie.
+[p. 289] Quoi de plus aisé que d'appliquer ces principes à nos vaudevilles contemporains et à certaines farces de Molière ? Est-il spectacle plus triste, si on le prend au sérieux, que celui des jeunes gens de Molière recourant aux bons offices des Scapin et des Mascarille pour berner leurs pères, et cependant que de fils respectueux ont ri aux tours de ces valets, que de pères ont conduit leurs fils à ce spectacle sans croire compromettre leur autorité[^p289-1] ? Est-ce à dire que des natures perverties ne puissent tirer de là de fâcheuses leçons ? A peu près comme un criminel en découvre dans un livre de chimie. Hâtons-nous d'ajouter que ces œuvres n'offrent qu'une beauté d'ordre assez inférieur, et n'ont le plus souvent que la valeur d'un délassement. Si d'ailleurs l'auteur cherche à surexciter l'attrait de la sensualité, rien d'élevé ne vient en former la contre-partie.
 
 Mais laissons ce dernier point pour nous en tenir présentement au comique.
 
 Celui-ci apparaît, somme toute, comme fort innocent dans les œuvres dont nous venons de parler. La question est plus délicate quand il s'agit de la comédie de caractère. Ici le ton s'élève, et il semble qu'au lieu de fantoches nous avons devant nous des personnages véritables. Voyons comment le poète s'y prendra pour nous empêcher de nous émouvoir.
 
-« Il y a, dit M. Bergson, un art de décourager notre sympathie au moment précis où elle pourrait s'offrir, de telle manière que la situation, même sérieuse, ne soit pas prise au sérieux. Deux procédés me paraissent dominer ce dernier art, que le poète comique applique plus ou moins inconsciemment. Le premier consiste à isoler, au milieu de l'âme du personnage, le sentiment qu'on lui prête et à en faire pour ainsi dire un état parasite [^p289-1]
+« Il y a, dit M. Bergson, un art de décourager notre sympathie au moment précis où elle pourrait s'offrir, de telle manière que la situation, même sérieuse, ne soit pas prise au sérieux. Deux procédés me paraissent dominer ce dernier art, que le poète comique applique plus ou moins inconsciemment. Le premier consiste à isoler, au milieu de l'âme du personnage, le sentiment qu'on lui prête et à en faire pour ainsi dire un état parasite
 
 [p. 290]
 
@@ -4137,7 +4137,7 @@ Celui-ci apparaît, somme toute, comme fort innocent dans les œuvres dont nous 
 
 doué d'une existence indépendante. En général, un sentiment intense gagne de proche en proche tous les autres états d'âme et les teint de la coloration qui lui est propre : si l'on nous fait assister alors à cette imprégnation graduelle, nous finissons, peu à peu, par nous imprégner nous-mêmes d'une émotion correspondante. On pourrait dire
 
-pour recourir à une autre image qu'une émotion est dramatique, communicative, quand toutes les harmoniques y sont données avec la note fondamentale. C'est parce que l'acteur vibre ainsi tout entier que le public pourra vibrer à son tour. Au contraire, dans l'émotion qui nous laisse indifférents et qui deviendra comique, il y a toujours une raideur qui l'empêche d'entrer en relations avec le reste de l'âme où elle siège. Cette raideur pourra s'accuser, à un moment donné, par des mouvements de pantin et provoquer alors le rire, mais déjà auparavant elle contrariait notre sympathie : comment se mettre à l'unisson d'une âme qui n'est pas à l'unisson d'elle-même ? Il y a dans l'Avare une scène qui côtoie le drame. C'est celle où l'emprunteur et l'usu rier, qui ne s'étaient pas encore vus, se rencontrent face à face et se trouvent être le fils et le père. Nous serions véritablement ici dans le drame si l'avarice et le sentiment paternel, s'entre-choquant dans l'à me d'Harpagon, y amenaient une combinaison plus ou moins originale. Mais point du tout. L'entrevue n'a pas plutôt pris fin que le père a tout oublié. Rencontrant de nouveau son fils, il fait à peine allusion à cette scène si grave : « Et vous, mon fils, à qui j'ai la bonté de pardonner l'histoire de tantôt, etc. » L'avarice a donc passé à côté du reste sans y toucher, sans être touchée, distraitement. Elle a eu beau s'installer dans l'âme, elle a beau être devenue maîtresse de la maison ; elle n'en reste pas moins une étrangère 1. Tout autre serait une avarice de [^p290-1]
+pour recourir à une autre image qu'une émotion est dramatique, communicative, quand toutes les harmoniques y sont données avec la note fondamentale. C'est parce que l'acteur vibre ainsi tout entier que le public pourra vibrer à son tour. Au contraire, dans l'émotion qui nous laisse indifférents et qui deviendra comique, il y a toujours une raideur qui l'empêche d'entrer en relations avec le reste de l'âme où elle siège. Cette raideur pourra s'accuser, à un moment donné, par des mouvements de pantin et provoquer alors le rire, mais déjà auparavant elle contrariait notre sympathie : comment se mettre à l'unisson d'une âme qui n'est pas à l'unisson d'elle-même ? Il y a dans l'Avare une scène qui côtoie le drame. C'est celle où l'emprunteur et l'usu rier, qui ne s'étaient pas encore vus, se rencontrent face à face et se trouvent être le fils et le père. Nous serions véritablement ici dans le drame si l'avarice et le sentiment paternel, s'entre-choquant dans l'à me d'Harpagon, y amenaient une combinaison plus ou moins originale. Mais point du tout. L'entrevue n'a pas plutôt pris fin que le père a tout oublié. Rencontrant de nouveau son fils, il fait à peine allusion à cette scène si grave : « Et vous, mon fils, à qui j'ai la bonté de pardonner l'histoire de tantôt, etc. » L'avarice a donc passé à côté du reste sans y toucher, sans être touchée, distraitement. Elle a eu beau s'installer dans l'âme, elle a beau être devenue maîtresse de la maison ; elle n'en reste pas moins une étrangère 1.[^p290-1] Tout autre serait une avarice de
 
 [p. 291] nature tragique. On la verrait attirer à elle, absorber, s'assimiler, en les transformant, les diverses puissances de l'être
 
@@ -4171,13 +4171,13 @@ Laissant donc d'abord de côté ce qui concerne spécialement le théâtre, nous
 
 [p. 294] CHAPITRE
 
-la même phrase, il le qualifie de remède ¹, ce qui semble en faire un grand sacrement au même titre que l'est celui de la pénitence. Le mariage est un remède parce qu'il « suppose le mal de la concupiscence
+la même phrase, il le qualifie de remède [^p294-1], ce qui semble en faire un grand sacrement au même titre que l'est celui de la pénitence. Le mariage est un remède parce qu'il « suppose le mal de la concupiscence
 
 ». Aussi Bossuet parle-t-il constamment de ce sacrement sur un ton qui ne rappelle en rien celui qui règne d'un bout à l'autre de la messe de mariage.
 
 Ecoutez-le maintenant condamner sans restriction ni réserves les réunions mondaines et le luxe : « Les hommes étalent leurs filles, pour être un spectacle de vanité et l'objet de la cupidité publique, et les parent comme on fait un temple *. Ils transportent les ornements, que votre temple devrait avoir seul, à ces cadavres ornés, à ces sépulcres blanchis ; et il semble qu'ils aient entrepris de les faire adorer en votre place. Ils nourrissent leur vanité et celle des autres. Ils remplissent les autres filles de jalousie, les hommes de convoitise ; tous par conséquent d'erreur et de corruption. O fidèles, o enfants de Dieu, désabusez-vous de ces fausses concupiscences. Pourquoi tournez-vous vos nécessités en vanité ? Vous avez besoin d'une maison, comme d'une défense nécessaire contre les injures de l'air : c'est une faiblesse. Vous avez besoin de nourriture, pour réparer vos forces qui se perdent et se dissipent à chaque moment : autre faiblesse. Vous avez besoin d'un lit pour vous reposer dans votre accablement et vous y livrer au sommeil qui lie et ensevelit votre raison : autre faiblesse déplorable. Vous faites de tous ces témoins et de tous ces monuments de votre faiblesse un spectacle à votre vanité » 3.
 
-D'autre part, Bossuet condamne absolument la plaisanterie, c'est-à-dire ce qui tend à faire rire, comme une action légère et indécente, et le rire lui apparaît comme un mouvement indécent des lèvres 4.[^p294-1][^p294-2][^p294-3][^p294-4]
+D'autre part, Bossuet condamne absolument la plaisanterie, c'est-à-dire ce qui tend à faire rire, comme une action légère et indécente, et le rire lui apparaît comme un mouvement indécent des lèvres 4.[^p294-4][^p294-3][^p294-2]
 
 [p. 295] Ces quelques détails pris isolément ne suffisent pas à faire sentir dans son caractère absolu la sévérité de Bossuet à l'époque que nous considérons ; pour bien s'en rendre compte, il faut lire intégralement les deux œuvres que nous avons mentionnées, parce qu'on y voit que rien ne vient adoucir le rigorisme ressortant de nos citations.
 
@@ -4185,9 +4185,9 @@ Si maintenant nous nous demandons ce qu'un homme profondément pénétré d'une 
 
 secours. Non seulement en effet cette excuse est souvent sans portée sérieuse, le mariage n'étant mentionné que pour la forme ; mais alors même que l'amour exprimé est le plus réservé et se montre tout pénétré du sentiment du devoir, il n'en repose pas moins aux yeux de Bossuet sur une concupiscence condamnable
 
-: le fait qu'on aspire à un remède prouve surabondamment qu'on est un malade. « Il y a encore, dit en effet Bossuet, une autre raison plus grave et plus chrétienne qui ne permet pas d'étaler la passion de l'amour, même par rapport au licite ; c'est comme l'a remarqué, en traitant de la question de la comédie, un habile homme de nos jours, c'est, dis-je, que le mariage présuppose la concupiscence, qui, selon les règles de la foi, est un mal auquel il faut résister » 1.
+: le fait qu'on aspire à un remède prouve surabondamment qu'on est un malade. « Il y a encore, dit en effet Bossuet, une autre raison plus grave et plus chrétienne qui ne permet pas d'étaler la passion de l'amour, même par rapport au licite ; c'est comme l'a remarqué, en traitant de la question de la comédie, un habile homme de nos jours, c'est, dis-je, que le mariage présuppose la concupiscence, qui, selon les règles de la foi, est un mal auquel il faut résister » 1.[^p295-1]
 
-Quand on se place à ce point de vue, en écartant toute [^p295-1]
+Quand on se place à ce point de vue, en écartant toute
 
 [p. 296] CHAPITRE
 
@@ -4195,9 +4195,9 @@ atténuation, on arrive à comprendre ces jugements absolus portés, non seuleme
 
 Le jugement de Bossuet sur le théâtre apparaît, nous l'avons vu, comme le résultat de toute une doctrine, non ainsi que chez bien des gens, comme la répétition irraisonnée d'une sentence étrangère. Il en résulte que ce jugement doit être entouré d'une foule d'autres appréciations dérivant de la même source et dont on ne saurait le séparer.
 
-On doit bien remarquer tout d'abord que, si l'auteur des Maximes considère les représentations dramatiques comme beaucoup plus dangereuses que la simple lecture des pièces, il est bien loin de professer qu'une pièce mauvaise à la scène est bonne dans le livre : en lui donnant toute sa puissance d'action, la représentation ne change point cette action, et toutes les condamnations prononcées ont leur raison d'être contre la simple lecture.
+On doit bien remarquer tout d'abord que, si l'auteur des Maximes considère les représentations dramatiques comme beaucoup plus dangereuses que la simple lecture des pièces, il est bien loin de professer qu'une pièce mauvaise à la scène est bonne dans le livre : en lui donnant toute sa puissance d'action, la représentation ne change point cette action, et toutes les condamnations prononcées ont leur raison d'être contre la simple lecture.[^p296-2][^p296-1]
 
-Aussi peut-on prévoir que Bossuet avait bien changé [^p296-1][^p296-2]
+Aussi peut-on prévoir que Bossuet avait bien changé
 
 [p. 297] depuis que, excellent humaniste, il patronnait la collection des Classiques du Dauphin, car la condamnation portée contre les œuvres dramatiques doit s'étendre beaucoup plus. Qu'on relise sa lettre à Innocent XI sur l'Instruction de Monseigneur le Dauphin et qu'on la compare au Traité de la concupiscence et aux Maximes : le contraste est frappant. « Entre les poètes, dit Bossuet, ceux qui ont plu davantage à Monseigneur le Dauphin sont Virgile et Térence... On ne peut dire combien il s'est diverti agréablement et utilement dans Térence, et combien de vives images de la vie humaine lui ont passé devant les yeux en le lisant. Il a vu les trompeuses amorces de la volupté et des femmes ; les aveugles emportements d'une jeunesse que la flatterie et les intrigues d'un valet ont engagée dans un pas difficile et glissant ; qui ne sait que devenir, que l'amour tourmente, qui ne sort de peine que par une espèce de miracle, et qui ne trouve le repos qu'en retournant à son devoir. Là le Prince remarquait les mœurs et le caractère de chaque âge et de chaque passion exprimé par cet admirable ouvrier, avec tous les traits convenables à chaque personnage, des sentiments naturels, et enfin avec cette grâce et cette bienséance que demandent
 
@@ -4229,21 +4229,21 @@ De là, passons à la condamnation de la curiosité, comme forme de la concupisc
 
 Certes, il ne nous vient pas à la pensée de critiquer en soi l'idéal d'ascétisme de Bossuet, et nous n'entendons aucunement rabaisser ceux qui renoncent aux arts et aux sciences en même temps qu'à toutes les douceurs de la vie : un Vincent de Paul n'a pas besoin de culture humaine, et cependant il n'en fut pas dépourvu, celui dont Gondi, le général des galères, fit l'instituteur de ses enfants. Mais là n'est pas la question : il s'agit de la masse des chrétiens et de la direction à leur donner. Assurément il est fort bon de leur apprendre à refréner la concupiscence ; mais, puisque vous admettez la nécessité, pour la plupart, du remède du mariage, il est sans doute à désirer que les formes élevées de l'amour viennent se superposer à l'instinct animal. Or à interdire la peinture de ces formes élevées, ne courez-vous pas le risque d'en laisser s'atrophier les germes, au plus grand bénéfice des formes inférieures ? Nous pensons donc qu'il convient, tout en rendant hommage à la pensée si forte et souvent si profonde de Bossuet, de reconnaître que, vers la fin de sa vie, sa doctrine morale s'était trop rapprochée de celle des jansénistes, et qu'il en arriva ainsi à méconnaître les véritables conditions du développement du monde chrétien.
 
-En parlant ainsi, nous ne croyons point manquer au respect dû à ce grand évêque, et l'étude de ses deux œuvres que nous avons citées nous paraît devoir faire écarter absolument le détour au moyen duquel, dans une intéressante conférence sur les Lectures de femmes, M. l'abbé Vacandard, aumônier du lycée de Rouen, a cru pouvoir recommander la lecture des œuvres de Corneille et de Racine : « Leurs tragédies, dit-il, contenaient sans doute, au temps où elles paru-[^p299-1]
+En parlant ainsi, nous ne croyons point manquer au respect dû à ce grand évêque, et l'étude de ses deux œuvres que nous avons citées nous paraît devoir faire écarter absolument le détour au moyen duquel, dans une intéressante conférence sur les Lectures de femmes, M.[^p299-1] l'abbé Vacandard, aumônier du lycée de Rouen, a cru pouvoir recommander la lecture des œuvres de Corneille et de Racine : « Leurs tragédies, dit-il, contenaient sans doute, au temps où elles paru-
 
-[p. 300] CHAPITRE rent, un poison dangereux ; avec les années, ce virus s'est atténué ». C'est là, selon nous, méconnaître la forte pensée de l'évêque de Meaux, dont les principes atteignent tout autre chose que nous ne savons quel poison passager ; aussi croyons-nous M. Vacandard en profonde contradiction avec cette pensée quand il se hasarde à recommander des œuvres telles que la Fille de Roland et même le Monde où l'on s'ennuie. Certes l'amour peint dans la tragédie d'Henri de Bornier est chaste entre tous ; mais par là n'est-il pas particulièrement dangereux, et selon le Pascal des Pensées et selon le Bossuet des Maximes¹ ? Quant à la comédie de Pailleron, nous connaissons peu d'œuvres que frappent plus directement les anathèmes de Bossuet : outre que le rire en jaillit inépuisablement, l'amour y paraît plein de séduction, et la vieille marquise, à laquelle vont toutes les sympathies, en parle avec une indulgence pour ses faiblesses dont nous ne voudrions point endosser toute la responsabilité.
+[p. 300] CHAPITRE rent, un poison dangereux ; avec les années, ce virus s'est atténué ». C'est là, selon nous, méconnaître la forte pensée de l'évêque de Meaux, dont les principes atteignent tout autre chose que nous ne savons quel poison passager ; aussi croyons-nous M. Vacandard en profonde contradiction avec cette pensée quand il se hasarde à recommander des œuvres telles que la Fille de Roland et même le Monde où l'on s'ennuie. Certes l'amour peint dans la tragédie d'Henri de Bornier est chaste entre tous ; mais par là n'est-il pas particulièrement dangereux, et selon le Pascal des Pensées et selon le Bossuet des Maximes[^p300-1] ? Quant à la comédie de Pailleron, nous connaissons peu d'œuvres que frappent plus directement les anathèmes de Bossuet : outre que le rire en jaillit inépuisablement, l'amour y paraît plein de séduction, et la vieille marquise, à laquelle vont toutes les sympathies, en parle avec une indulgence pour ses faiblesses dont nous ne voudrions point endosser toute la responsabilité.
 
 Nous savons bien que Sarcey a soutenu, lui aussi, que « le venin d'une comédie (si venin il y a, ajoutait-il) perd singulièrement de sa force en vieillissant » 2. Mais l'application qu'il en fait est fort compromettante pour cette thèse
 
-: M. Vacandard est-il d'avis que le Chandelier de Musset est devenu une œuvre saine avec le temps ? Nous comprenons fort bien que, en un moment d'épidémie morale, une œuvre puisse exercer une influence délétère plus énergique, et c'est ainsi que le Cid a pu apparaître d'abord comme un encouragement au duel et encourir justement l'hostilité de Richelieu. Mais le culte des belles personnes, comme dit Bossuet, est de tous les temps ; aussi la virulence de son anathème contre la peinture des amours de Rodrigue et [^p300-1][^p300-2]
+: M. Vacandard est-il d'avis que le Chandelier de Musset est devenu une œuvre saine avec le temps ? Nous comprenons fort bien que, en un moment d'épidémie morale, une œuvre puisse exercer une influence délétère plus énergique, et c'est ainsi que le Cid a pu apparaître d'abord comme un encouragement au duel et encourir justement l'hostilité de Richelieu.[^p300-2] Mais le culte des belles personnes, comme dit Bossuet, est de tous les temps ; aussi la virulence de son anathème contre la peinture des amours de Rodrigue et
 
 [p. 301] de Chimène ne se ressent-elle point du long demi-siècle passé sur elle. Cet anathème repose d'ailleurs sur une forte doctrine ; il n'est point inspiré par les circonstances d'un jour et c'est méconnaître la profondeur de la pensée de Bossuet que de prétendre y rester fidèle tout en honorant l'œuvre de Corneille et de Racine.
 
 Grande sans doute est la puissance du temps. S'il ne lui est point donné de changer le poison des âmes en une nourriture salutaire, il permet d'envisager chaque chose. avec plus de justice, et il donne des leçons de sagesse et de modération. Telle est bien la puissance que célébrait M. l'abbé Vignot dans son Eloge de Racine, prononcé le 23 avril 1899 en l'église Notre- Dame de la Ferté-Milon :
 
-« Singulière puissance du temps, s'écriait-il. Un poète dramatique est né ici que l'on a qualifié de malfaiteur¹ ;
+« Singulière puissance du temps, s'écriait-il. Un poète dramatique est né ici que l'on a qualifié de malfaiteur[^p301-1] ;
 
-lui-même a déféré à cette censure ; il s'est, en plein élan, arrêté au milieu d'une carrière soudain apparue à ses yeux comme le chemin de l'abîme ; il a imaginé la pénitence la plus rude à un artiste, pis que l'abandon, pis que le mépris, l'oubli de son art. Et voici qu'avec les représentants de l'Etat, de la ville et de la province, l'Eglise s'empresse autour de cet enfant perdu ; des religieuses ont disposé ces guirlandes à l'honneur de celui que la mère Agnès de Sainte-Thècle traitait en excommunié ; vous-même, Monseigneur, vous souvenant de l'exquis lettré, du guide ès sciences profanes que vous fûtes, êtes accouru pour donner la dernière absoute à ce mort suspect d'hérésie et de paganisme, et pour rehausser l'hommage rendu dans ce sanctuaire à ce maître du théâtre. Car, tout prêts que nous soyons à [^p301-1][^p301-2]
+lui-même a déféré à cette censure ; il s'est, en plein élan, arrêté au milieu d'une carrière soudain apparue à ses yeux comme le chemin de l'abîme ; il a imaginé la pénitence la plus rude à un artiste, pis que l'abandon, pis que le mépris, l'oubli de son art. Et voici qu'avec les représentants de l'Etat, de la ville et de la province, l'Eglise s'empresse autour de cet enfant perdu ; des religieuses ont disposé ces guirlandes à l'honneur de celui que la mère Agnès de Sainte-Thècle traitait en excommunié ; vous-même, Monseigneur, vous souvenant de l'exquis lettré, du guide ès sciences profanes que vous fûtes, êtes accouru pour donner la dernière absoute à ce mort suspect d'hérésie et de paganisme, et pour rehausser l'hommage rendu dans ce sanctuaire à ce maître du théâtre.[^p301-2] Car, tout prêts que nous soyons à
 
 [p. 302]
 
@@ -4253,13 +4253,13 @@ vénérer les vertus domestiques de Racine, avouons-le, elles n'eussent point à
 
 enfin détendue, y prit plaisir. Pas plus en chaire que sur la scène, il ne faut jurer de rien, excepté de ce qui est éternel. Tout arrive : on ne joue en aucun endroit tant Molière, non pas même dans sa maison, que dans des collèges congréganistes ; et Racine aujourd'hui ne sera par personne fêté avec plus d'amour que par ce clergé et ces fidèles réunis à l'heure de vêpres ».
 
-Voilà ce qui s'appelle remettre les choses au point. Mais nous n'avons pas parlé encore de l'objection la plus troublante contre le théâtre, objection formulée par Bossuet sous la forme la plus énergique : « Quelle mère, je ne dis pas chrétienne, mais tant soit peu honnête, n'aimerait pas mieux voir sa fille dans le tombeau que sur le théâtre ? Quoi, l'a-t-elle élevée si tendrement et avec tant de précautions pour cet opprobre ? L'a-telle tenue nuit et jour, pour ainsi parler, sous ses ailes avec tant de soin pour la livrer au public et en faire un écueil à la jeunesse ? Qui ne regarde pas ces malheu-[^p302-1]
+Voilà ce qui s'appelle remettre les choses au point. Mais nous n'avons pas parlé encore de l'objection la plus troublante contre le théâtre, objection formulée par Bossuet sous la forme la plus énergique : « Quelle mère, je ne dis pas chrétienne, mais tant soit peu honnête, n'aimerait pas mieux voir sa fille dans le tombeau que sur le théâtre ? Quoi, l'a-t-elle élevée si tendrement et avec tant de précautions pour cet opprobre ? L'a-telle tenue nuit et jour, pour ainsi parler, sous ses ailes avec tant de soin pour la livrer au public et en faire un écueil à la jeunesse ?[^p302-1] Qui ne regarde pas ces malheu-
 
 [p. 303] reuses chrétiennes, si elles le sont encore, dans une profession si contraire aux vœux de leur baptême ; qui, dis-je, ne les regarde pas comme des esclaves exposées, en qui la pudeur est éteinte, quand ce ne serait que par tant de regards qu'elles attirent, elles, que leur sexe avait consacrées à la modestie, dont l'infirmité naturelle demandait la sûre retraite d'une maison bien réglée ? Et voilà qu'elles s'étalent elles-mêmes en plein théâtre avec tout l'attirail de la vanité, comme ces sirènes, dont parle Isaïe, qui font leur demeure dans les temples de la volupté, dont les regards sont mortels et qui reçoivent de tous côtés, par les applaudissements qu'on leur renvoie, le poison qu'elles répandent par leur chant » 1.
 
-Assurément l'argument pourrait être mis sous une forme moins mélodramatique ; mais il n'en reste pas moins vrai que la profession de comédienne est éminemment dangereuse, et que chaque spectateur a la responsabilité d'une profession qu'il encourage. Il ne servirait de rien de répondre que chaque spectateur n'a qu'une fraction infime de responsabilité ; c'est bien ici le cas d'appliquer la maxime de Kant : Interrogez-vous vousmême, et voyez si, en généralisant le motif de l'action que vous allez faire, vous pouvez le considérer comme un principe de législation universelle. Que notre action ait par elle-même les conséquences réprouvées ou que ces conséquences ne soient que le résultat de la répétition du même acte par une foule d'autres hommes, il importe peu : par le seul fait de notre acte, nous adhérons à celui des autres et en assumons la responsabilité. Aussi y a-t-il là un sujet d'anxiété morale profonde, et si la question était isolée, nous n'oserions dire qu'il faudrait passer outre. Mais c'est là une de ces questions qu'on résout par l'absurde, comme on dit en mathématique.
+Assurément l'argument pourrait être mis sous une forme moins mélodramatique ; mais il n'en reste pas moins vrai que la profession de comédienne est éminemment dangereuse, et que chaque spectateur a la responsabilité d'une profession qu'il encourage. Il ne servirait de rien de répondre que chaque spectateur n'a qu'une fraction infime de responsabilité ; c'est bien ici le cas d'appliquer la maxime de Kant : Interrogez-vous vousmême, et voyez si, en généralisant le motif de l'action que vous allez faire, vous pouvez le considérer comme un principe de législation universelle. Que notre action ait par elle-même les conséquences réprouvées ou que ces conséquences ne soient que le résultat de la répétition du même acte par une foule d'autres hommes, il importe peu : par le seul fait de notre acte, nous adhérons à celui des autres et en assumons la responsabilité. Aussi y a-t-il là un sujet d'anxiété morale profonde, et si la question était isolée, nous n'oserions dire qu'il faudrait passer outre. Mais c'est là une de ces questions qu'on résout par l'absurde, comme on dit en mathématique.[^p303-1]
 
-Supposons en effet que nous ayons, pour les raisons [^p303-1]
+Supposons en effet que nous ayons, pour les raisons
 
 [p. 304] CHAPITRE
 
@@ -4269,7 +4269,7 @@ qui viennent d'être dites, condamné l'art dramatique : la logique va nous pres
 
 En fait, on ne saurait limiter la portée de cet argument, car l'étude du nu est indispensable pour l'exécution de peintures ou de sculptures drapées ou habillées. Ecoutons sur ce sujet le P. Sertillanges, l'éminent professeur de philosophie morale à l'Institut catholique de Paris
 
-« Une première chose dont il faut convenir, dit-il, en se basant surle témoignage des maîtres, c'est que le nu est la grande école de l'art. Là en effet se trouvent les vraies difficultés au point de vue technique. Celui qui n'est pas initié de bonne heure aux mystères de structure de la machine humaine, à l'emmanchement des membres, au jeu compliqué des articulations et des muscles, au balancement des lignes et aux délicatesses changeantes des carnations, celui-là ne peut pas prétendre être peintre, du moins dans la complète acception du mot. Fût-il même formé, il lui sera bon, presque né-[^p304-1]
+« Une première chose dont il faut convenir, dit-il, en se basant surle témoignage des maîtres, c'est que le nu est la grande école de l'art. Là en effet se trouvent les vraies difficultés au point de vue technique. Celui qui n'est pas initié de bonne heure aux mystères de structure de la machine humaine, à l'emmanchement des membres, au jeu compliqué des articulations et des muscles, au balancement des lignes et aux délicatesses changeantes des carnations, celui-là ne peut pas prétendre être peintre, du moins dans la complète acception du mot.[^p304-1] Fût-il même formé, il lui sera bon, presque né-
 
 [p. 305] cessaire, de s'entretenir la main en peignant sur nature, de temps à autre, quelque bon morceau, comme le musicien arrivé ne laisse pas d'exécuter des gammes comme Liszt transposait, dit-on, une fugue de Bach chaque matin avant déjeuner.
 
@@ -4281,9 +4281,9 @@ Cette conclusion est précédée d'ailleurs des considérations générales suiv
 
 preuve évidente qu'à ses yeux tout n'est pas dit contre les choses d'art quand on en a constaté le péril ».
 
-Que si l'on n'accepte pas cette doctrine sur l'attitude à observer envers ce qui est dangereux, nous comprenons fort bien qu'avec Bossuet on proscrive le théâtre, mais la logique exige qu'on proscrive également l'art de la peinture, qui entraîne comme condition nécessaire l'existence d'une profession que l'on peut bien considérer comme aussi dangereuse que celle de comédienne.
+Que si l'on n'accepte pas cette doctrine sur l'attitude à observer envers ce qui est dangereux, nous comprenons fort bien qu'avec Bossuet on proscrive le théâtre, mais la logique exige qu'on proscrive également l'art de la peinture, qui entraîne comme condition nécessaire l'existence d'une profession que l'on peut bien considérer comme aussi dangereuse que celle de comédienne.[^p305-1]
 
-Certes, nous ne nous plaindrons pas de ce que celui qui aura réédité avec conviction la chaleureuse apostrophe [^p305-1]
+Certes, nous ne nous plaindrons pas de ce que celui qui aura réédité avec conviction la chaleureuse apostrophe
 
 [p. 306] CHAPITRE
 
@@ -4299,7 +4299,7 @@ est-ce à dire que nous les considérions comme toujours bienfaisants ? nous ne 
 
 Au contraire, tout ce qui tend à abaisser est mauvais, et à ce sujet nous croyons que mainte personne, extrêmement sévère sur tout ce qui concerne les arts plastiques, la littérature et le théâtre, se montre déplorablement aveugle à l'égard de la musique. Cela nous paraît la conséquence d'une double impuissance, d'une part à goûter les beautés supérieures, d'autre part à reconnaître les suggestions sourdes mais puissantes de la musique. Autant celles- ci peuvent être nobles, autant elles peuvent être avilissantes. « Les mélodies canailles ou voluptueuses, a dit un musicien, ont une action déplorable sur l'organisme ; elles éteignent une à une les lueurs intellectuelles pour livrer l'homme aux sens, autrement dit aux bêtes » 2.
 
-Que dirons- nous, d'autre part, de ces images en relief, pour ne pas dire ces statues, dont on décore aujourd'hui nos églises ? La mièvrerie et la fadeur du dessin ne sont dépassées que par le mauvais goût du coloris. Tels sont du moins trop souvent les moulages qu'on substitue à des ouvrages anciens qui, sans doute, étaient généralement loin d'être des chefs-d'œuvre, mais qu'ani [^p307-1][^p307-2]
+Que dirons- nous, d'autre part, de ces images en relief, pour ne pas dire ces statues, dont on décore aujourd'hui nos églises ? La mièvrerie et la fadeur du dessin ne sont dépassées que par le mauvais goût du coloris.[^p307-2][^p307-1] Tels sont du moins trop souvent les moulages qu'on substitue à des ouvrages anciens qui, sans doute, étaient généralement loin d'être des chefs-d'œuvre, mais qu'ani
 
 [p. 308]
 
@@ -4385,7 +4385,7 @@ les devoirs de la conscience
 
 Si nous désirons une application et comme une illustration de cet exposé abstrait, il nous suffit d'ouvrir le volume Histoire et Poésie de M. Melchior de Vogüé. Parlant de Catherine Sforza, il s'exprime ainsi : « On admirait ses stratagèmes subtils, alors qu'ils impliquaient quelques meurtres et quelques traîtrises. C'était la morale du temps. M. Pasolini la résume fort bien dans les lignes où il excuse Catherine :
 
-« Quant à la forme ingénieuse et pour ainsi dire élégante de la trahison, n'oublions pas que la règle et la fin des actions humaines était la jouissance par le moyen de la beauté. Le sentiment de la beauté était devenu l'unique mobile, l'unique critérium de la conscience italienne partout où [^p315-1]
+« Quant à la forme ingénieuse et pour ainsi dire élégante de la trahison, n'oublions pas que la règle et la fin des actions humaines était la jouissance par le moyen de la beauté.[^p315-1] Le sentiment de la beauté était devenu l'unique mobile, l'unique critérium de la conscience italienne partout où
 
 [p. 316] CHAPITRE
 

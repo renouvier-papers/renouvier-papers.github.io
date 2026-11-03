@@ -42,7 +42,7 @@ l'auteur à l'Académie médico-chirurgicale de Saint-Pétersbourg, 1874 .
 
 B.
 
-Mémoires scientifiques .[^p5-1][^p5-2][^p5-3][^p5-4][^p5-5][^p5-6][^p5-7][^p5-8][^p5-9][^p5-10][^p5-11][^p5-12][^p5-13][^p5-14]
+Mémoires scientifiques .[^p5-14][^p5-13][^p5-12][^p5-11][^p5-10][^p5-9][^p5-8][^p5-7][^p5-6][^p5-5][^p5-4][^p5-3][^p5-2][^p5-1]
 
 [p. 6] 21. La formation de l'urée dans le foie . (Centralblatt,för med. Wiss . 1870.)
 
@@ -588,7 +588,7 @@ D'après la loi des énergies spécifiques donnée par J. Müller, << les nerfs 
 
 » .... Les phénomènes de Flourens seront compris encore >> plus facilement si, avec M. Lœwenberg, nous admettons que >> la section des canaux semi-circulaires produit de l'excita>> tion et non de la paralysie ! >>
 
-Nous arrêtons là nos citations . Tachons de résumer les opinions de M. Mach .[^p33-1][^p33-2][^p33-3]
+Nous arrêtons là nos citations . Tachons de résumer les opinions de M. Mach .[^p33-3][^p33-2][^p33-1]
 
 [p. 34] 34 au principe de la conservation des aires , ce liquide devrait exécuter un mouvement dans un sens opposé au mouvement du canal osseux. Ce mouvement du liquide, ou plutôt cette tendance de mouvement pendant chaque accélération angulaire des canaux, produit, d'après M. Mach, les sensations du mouvement qui provoquent le vertige (de Purkinje) et les phénomènes de Flourens .
 
@@ -1790,7 +1790,7 @@ Sitzungsb . d . Wiener Akad., 1874.
 
 M. HELMHOLTZ .
 
-Traité d'optique physiologique, traduit par M. Javal. Paris.[^p103-1][^p103-2][^p103-3]
+Traité d'optique physiologique, traduit par M. Javal. Paris.[^p103-3][^p103-2][^p103-1]
 
 [p. 104] [p. 105]
 
