@@ -40,9 +40,9 @@ Charles Renouvier et Charles Fauvety, *Gouvernement direct. Organisation communa
 
 Charles Renouvier, *Essais de critique générale*, Paris, Ladrange, 1854-1864, 4 vol. in-8. — [Notice BnF (ensemble)](https://catalogue.bnf.fr/ark:/12148/cb31199414h) · [Gallica (un volume, 1854)](https://gallica.bnf.fr/ark:/12148/bd6t5934449p) · [Internet Archive (un volume, 723 p., 1854)](https://archive.org/details/essaisdecritiqu01renogoog) · [Internet Archive (un volume, 808 p., 1864)](https://archive.org/details/bub_gb_jKd1aj5EFSIC). Les trois numérisations ne précisent pas quel essai elles reproduisent.
 
-- *Premier essai. Analyse générale de la connaissance. Bornes de la connaissance. Plus un appendice sur les principes généraux de la logique et des mathématiques*, 1854.
-- *Deuxième essai. L'homme : la raison, la passion, la liberté. La certitude, la probabilité morale*, 1859.
-- *Troisième essai. Les principes de la nature*, 1864.
+- *Premier essai. Analyse générale de la connaissance. Bornes de la connaissance. Plus un appendice sur les principes généraux de la logique et des mathématiques*, 1854. — [Texte sur ce site](../../oeuvres/essais-1re-edition/premier.md).
+- *Deuxième essai. L'homme : la raison, la passion, la liberté. La certitude, la probabilité morale*, 1859. — [Texte sur ce site](../../oeuvres/essais-1re-edition/deuxieme.md).
+- *Troisième essai. Les principes de la nature*, 1864. — [Texte sur ce site](../../oeuvres/essais-1re-edition/troisieme.md).
 - *Quatrième essai. Introduction à la philosophie analytique de l'histoire*, 1864. — [Texte sur ce site](../../oeuvres/essais/quatrieme.md).
 
 ### 1865 — Lequier, La Recherche d'une première vérité

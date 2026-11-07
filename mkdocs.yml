@@ -30,6 +30,8 @@ extra_css:
 - assets/stylesheets/rp.css
 extra_javascript:
 - assets/javascripts/rp.js
+- assets/javascripts/mathjax.js
+- https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js
 markdown_extensions:
 - toc:
     permalink: false
@@ -39,6 +41,12 @@ markdown_extensions:
 - md_in_html
 - tables
 - admonition
+- pymdownx.arithmatex:
+    generic: true
+    inline_syntax:
+    - round
+    block_syntax:
+    - square
 plugins:
 - search:
     lang: fr
@@ -62,7 +70,7 @@ nav:
     - Premier Essai (1854): oeuvres/essais-1re-edition/premier.md # [NOUVEAU]
     - Deuxième Essai (1859): oeuvres/essais-1re-edition/deuxieme.md # [NOUVEAU]
     - Troisième Essai (1864): oeuvres/essais-1re-edition/troisieme.md # [NOUVEAU]
-    - Quatrième Essai (1864): oeuvres/essais-1re-edition/quatrieme.md # [NOUVEAU]
+    - Quatrième Essai (1864): oeuvres/essais/quatrieme.md # [NOUVEAU]
   - Essais de critique générale (2e édition, 1875-1896):
     - Premier Essai:
       - Tome I: oeuvres/essais/premier/tome-1.md
@@ -75,7 +83,6 @@ nav:
     - Troisième Essai:
       - Tome I: oeuvres/essais/troisieme/tome-1.md
       - Tome II: oeuvres/essais/troisieme/tome-2.md
-    - Quatrième Essai: oeuvres/essais/quatrieme.md
   - Philosophie analytique de l'histoire:
     - Introduction: oeuvres/philosophie-analytique/introduction.md
     - Tome I: oeuvres/philosophie-analytique/tome-1.md
