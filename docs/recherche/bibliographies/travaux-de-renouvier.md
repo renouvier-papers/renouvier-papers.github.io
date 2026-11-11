@@ -20,7 +20,7 @@ Charles Renouvier, *Manuel de philosophie moderne*, Paris, Paulin, 1842, XXXII-4
 
 ### 1844 — Manuel de philosophie ancienne
 
-Charles Renouvier, *Manuel de philosophie ancienne*, Paris, Paulin, 1844, 2 vol. in-12. — [Internet Archive, t. I](https://archive.org/details/manueldephilosop01reno) · [Internet Archive, t. II](https://archive.org/details/manueldephilosop02reno) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31199421s).
+Charles Renouvier, *Manuel de philosophie ancienne*, Paris, Paulin, 1844, 2 vol. in-12. — [Texte sur ce site : tome I](../../oeuvres/manuels/philosophie-ancienne/tome-1.md), [tome II](../../oeuvres/manuels/philosophie-ancienne/tome-2.md) · [Internet Archive, t. I](https://archive.org/details/manueldephilosop01reno) · [Internet Archive, t. II](https://archive.org/details/manueldephilosop02reno) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31199421s).
 
 ### 1848 — Manuel républicain de l'homme et du citoyen
 
@@ -32,7 +32,7 @@ Charles Renouvier, *Manuel républicain de l'homme et du citoyen*, Paris, Pagner
 
 ### 1851 — Gouvernement direct et organisation communale
 
-Charles Renouvier et Charles Fauvety, *Gouvernement direct. Organisation communale et centrale de la République*, Paris, Gabriel, 1851, 48 p., in-8. — [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb41677472r) (autre notice de la même brochure, au nom de Fauvety : [cb416453177](https://catalogue.bnf.fr/ark:/12148/cb416453177)).
+Charles Renouvier et Charles Fauvety, *Gouvernement direct. Organisation communale et centrale de la République*, Paris, Gabriel, 1851, 48 p., in-8. — [Texte sur ce site](../../oeuvres/manuels/gouvernement-direct.md) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb41677472r) (autre notice de la même brochure, au nom de Fauvety : [cb416453177](https://catalogue.bnf.fr/ark:/12148/cb416453177)).
 
 *Organisation communale et centrale de la République. Projet présenté à la nation pour l'organisation de la commune, de l'enseignement, de la force publique, de la justice, des finances, de l'État*, par les citoyens Bellouard, Benoit (du Rhône), Charassin, Chouippe, Erdan, Fauvety, Gilardeau, Renouvier, Serget, etc. ; Renouvier et Gilardeau rédacteurs, Paris, Librairie républicaine de la Liberté de penser, 1851, III-421 p., in-8. — [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k57785833) · [Internet Archive](https://archive.org/details/organisationcomm00reno) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb32165190b). Reproduction en fac-similé : Nîmes, C. Lacour, préf. Raymond Huard, Louis Charles Prat et Jean-Claude Richard, 24-421 p. — [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb37109619r).
 
@@ -51,7 +51,7 @@ Jules Lequier, *La Recherche d'une première vérité. Fragments posthumes*, rec
 
 ### 1869 — Science de la morale
 
-Charles Renouvier, *Science de la morale*, Paris, Ladrange, 1869, 2 vol. in-8 (608 et 591 p.). — [Gallica, t. I](https://gallica.bnf.fr/ark:/12148/bpt6k1522801q) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31199430r).
+Charles Renouvier, *Science de la morale*, Paris, Ladrange, 1869, 2 vol. in-8 (608 et 591 p.). — [Texte sur ce site : tome I](../../oeuvres/autres/science-morale/tome-1.md), [tome II](../../oeuvres/autres/science-morale/tome-2.md) · [Gallica, t. I](https://gallica.bnf.fr/ark:/12148/bpt6k1522801q) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31199430r).
 
 - Nouvelle édition, préface de Louis Prat, Paris, F. Alcan, 1908, 2 vol. (X-428 et 395 p.). — [Gallica, t. I](https://gallica.bnf.fr/ark:/12148/bpt6k75219k) · [Gallica, t. II](https://gallica.bnf.fr/ark:/12148/bpt6k75220s) · [Internet Archive, t. I](https://archive.org/details/sciencedelamora00pratgoog) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb311994313).
 - *Science de la morale*, texte revu par Laurent Fedi, Paris, Fayard, « Corpus des œuvres de philosophie en langue française », 2002, 2 t. (494 et 451 p.). — [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb388401855).
@@ -66,14 +66,14 @@ Charles Renouvier, *Essais de critique générale. Deuxième essai. Traité de p
 
 ### 1876 — Uchronie
 
-Charles Renouvier, *Uchronie (l'utopie dans l'histoire). Esquisse historique apocryphe du développement de la civilisation européenne tel qu'il n'a pas été, tel qu'il aurait pu être*, Paris, au bureau de la *Critique philosophique*, 1876, XVI-413 p., in-8. — [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k833574) · [Internet Archive](https://archive.org/details/uchronielutopie01renogoog) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31199432f). Des extraits avaient paru dans la *Critique philosophique* en 1876 (voir § 2.2).
+Charles Renouvier, *Uchronie (l'utopie dans l'histoire). Esquisse historique apocryphe du développement de la civilisation européenne tel qu'il n'a pas été, tel qu'il aurait pu être*, Paris, au bureau de la *Critique philosophique*, 1876, XVI-413 p., in-8. — [Texte sur ce site](../../oeuvres/autres/uchronie.md) · [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k833574) · [Internet Archive](https://archive.org/details/uchronielutopie01renogoog) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31199432f). Des extraits avaient paru dans la *Critique philosophique* en 1876 (voir § 2.2).
 
 - 2e édition, Paris, F. Alcan, 1901, XVI-412 p. — [Internet Archive](https://archive.org/details/uchronielutopied00reno) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31199433s).
 - *Uchronie*, texte revu par Hubert Grenier, Paris, Fayard, « Corpus », 1988. — [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb349622749). Rééditions : Monein, PyréMonde, 2007 ([notice BnF](https://catalogue.bnf.fr/ark:/12148/cb41322351r)) ; Cressé, PRNG, 2013 ([notice BnF](https://catalogue.bnf.fr/ark:/12148/cb43758664z)).
 
 ### 1878 — Hume, Psychologie de Hume (traduction)
 
-David Hume, *Psychologie de Hume. Traité de la nature humaine, livre I : De l'entendement*, traduit pour la première fois par Ch. Renouvier et F. Pillon, avec la traduction revue de Mérian des *Essais philosophiques sur l'entendement*, introduction de F. Pillon, Paris, au bureau de la *Critique philosophique*, 1878, LXXII-585 p., in-16. — [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k14251403) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb306284225).
+David Hume, *Psychologie de Hume. Traité de la nature humaine, livre I : De l'entendement*, traduit pour la première fois par Ch. Renouvier et F. Pillon, avec la traduction revue de Mérian des *Essais philosophiques sur l'entendement*, introduction de F. Pillon, Paris, au bureau de la *Critique philosophique*, 1878, LXXII-585 p., in-16. — [Texte sur ce site](../../oeuvres/traductions/psychologie-hume.md) · [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k14251403) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb306284225).
 
 ### 1879 — Petit traité de morale
 
@@ -89,7 +89,7 @@ Charles Renouvier, *Essais de critique générale. Troisième essai. Les Princip
 
 ### 1893 — Victor Hugo, le poète
 
-Charles Renouvier, *Victor Hugo, le poète*, Paris, A. Colin, 1893, VIII-376 p., in-12. — [Gallica (3e éd., 1900)](https://gallica.bnf.fr/ark:/12148/bpt6k206517k) · [Internet Archive (éd. 1902)](https://archive.org/details/victorhugolepo00reno) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31199435g). Rééditions : 3e éd., 1900 ([notice BnF](https://catalogue.bnf.fr/ark:/12148/cb389749258)) ; 9e éd., 1932 ([notice BnF](https://catalogue.bnf.fr/ark:/12148/cb416774733)). Les chapitres ont d'abord paru dans la *Critique philosophique* en 1889 (voir § 2.2).
+Charles Renouvier, *Victor Hugo, le poète*, Paris, A. Colin, 1893, VIII-376 p., in-12. — [Texte sur ce site](../../oeuvres/autres/victor-hugo-poete.md) · [Gallica (3e éd., 1900)](https://gallica.bnf.fr/ark:/12148/bpt6k206517k) · [Internet Archive (éd. 1902)](https://archive.org/details/victorhugolepo00reno) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31199435g). Rééditions : 3e éd., 1900 ([notice BnF](https://catalogue.bnf.fr/ark:/12148/cb389749258)) ; 9e éd., 1932 ([notice BnF](https://catalogue.bnf.fr/ark:/12148/cb416774733)). Les chapitres ont d'abord paru dans la *Critique philosophique* en 1889 (voir § 2.2).
 
 ### 1896-1897 — Philosophie analytique de l'histoire
 
@@ -99,17 +99,17 @@ Charles Renouvier, *Philosophie analytique de l'histoire. Les idées, les religi
 
 ### 1899 — La Nouvelle Monadologie
 
-Charles Renouvier et Louis Prat, *La Nouvelle Monadologie*, Paris, A. Colin, 1899, 546 p., in-8. — [Internet Archive](https://archive.org/details/lanouvellemonad01pratgoog) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31199426h).
+Charles Renouvier et Louis Prat, *La Nouvelle Monadologie*, Paris, A. Colin, 1899, 546 p., in-8. — [Texte sur ce site](../../oeuvres/autres/nouvelle-monadologie.md) · [Internet Archive](https://archive.org/details/lanouvellemonad01pratgoog) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31199426h).
 
 - *La Nouvelle Monadologie*, texte revu par Laurent Fedi et Guillaume Sibertin-Blanc, Paris, Fayard, « Corpus », 2004, 598 p. — [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb392121347).
 
 ### 1900 — Victor Hugo, le philosophe
 
-Charles Renouvier, *Victor Hugo, le philosophe*, Paris, A. Colin, 1900, 378 p., in-16. — [Gallica (images seules)](https://gallica.bnf.fr/ark:/12148/bpt6k75196r) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb34165362x). Réédition : présentation de Claude Millet, Paris, Maisonneuve et Larose, 2002, XXVIII-378 p. ([notice BnF](https://catalogue.bnf.fr/ark:/12148/cb388130134)).
+Charles Renouvier, *Victor Hugo, le philosophe*, Paris, A. Colin, 1900, 378 p., in-16. — [Texte sur ce site](../../oeuvres/autres/victor-hugo.md) · [Gallica (images seules)](https://gallica.bnf.fr/ark:/12148/bpt6k75196r) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb34165362x). Réédition : présentation de Claude Millet, Paris, Maisonneuve et Larose, 2002, XXVIII-378 p. ([notice BnF](https://catalogue.bnf.fr/ark:/12148/cb388130134)).
 
 ### 1901 — Les Dilemmes de la métaphysique pure
 
-Charles Renouvier, *Les Dilemmes de la métaphysique pure*, Paris, F. Alcan, 1901, 288-30 p. — [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k5525376g) · [Internet Archive](https://archive.org/details/lesdilemmesdela00renogoog) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31199411g). Nouvelle édition, Paris, F. Alcan, 1927 ([Gallica, images seules](https://gallica.bnf.fr/ark:/12148/bpt6k215318) · [notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31199412t)) ; reproduction en fac-similé, Presses universitaires de France ([notice BnF](https://catalogue.bnf.fr/ark:/12148/cb354450808)).
+Charles Renouvier, *Les Dilemmes de la métaphysique pure*, Paris, F. Alcan, 1901, 288-30 p. — [Texte sur ce site](../../oeuvres/autres/dilemmes.md) · [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k5525376g) · [Internet Archive](https://archive.org/details/lesdilemmesdela00renogoog) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31199411g). Nouvelle édition, Paris, F. Alcan, 1927 ([Gallica, images seules](https://gallica.bnf.fr/ark:/12148/bpt6k215318) · [notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31199412t)) ; reproduction en fac-similé, Presses universitaires de France ([notice BnF](https://catalogue.bnf.fr/ark:/12148/cb354450808)).
 
 ### 1901 — Histoire et solution des problèmes métaphysiques
 
@@ -125,7 +125,7 @@ Charles Renouvier, *Le Personnalisme, suivi d'une étude sur la perception exter
 
 ### 1904 — Les Derniers Entretiens
 
-Charles Renouvier, *Les Derniers Entretiens*, recueillis par Louis Prat, Paris, A. Colin, 1904, 107 p., in-18, portrait. — [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31199409x). Première publication en revue : Louis Prat, « La fin du sage. Les derniers entretiens de Charles Renouvier », *Revue de métaphysique et de morale*, t. XII, n° 2, 1904, p. 149-185 ([JSTOR](https://www.jstor.org/stable/40892895)). Réédition : Paris, J. Vrin, 1930 ([Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k86306978) · [notice BnF](https://catalogue.bnf.fr/ark:/12148/cb374048633)).
+Charles Renouvier, *Les Derniers Entretiens*, recueillis par Louis Prat, Paris, A. Colin, 1904, 107 p., in-18, portrait. — [Texte sur ce site](../../oeuvres/autres/derniers-entretiens.md) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31199409x). Première publication en revue : Louis Prat, « La fin du sage. Les derniers entretiens de Charles Renouvier », *Revue de métaphysique et de morale*, t. XII, n° 2, 1904, p. 149-185 ([JSTOR](https://www.jstor.org/stable/40892895)). Réédition : Paris, J. Vrin, 1930 ([Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k86306978) · [notice BnF](https://catalogue.bnf.fr/ark:/12148/cb374048633)).
 
 ### 1906 — Critique de la doctrine de Kant
 
@@ -133,7 +133,7 @@ Charles Renouvier, *Critique de la doctrine de Kant*, ouvrage posthume publié p
 
 ### 1920 — Berkeley, Les Principes de la connaissance humaine (traduction)
 
-George Berkeley, *Les Principes de la connaissance humaine*, traduction de Charles Renouvier, notices par Georges Beaulavon, Paris, A. Colin, « Les Classiques de la philosophie », 1920, XII-111 p. — [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k5493372w) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31799715q). La traduction avait commencé à paraître dans la *Critique philosophique* en 1889 (voir § 2.2).
+George Berkeley, *Les Principes de la connaissance humaine*, traduction de Charles Renouvier, notices par Georges Beaulavon, Paris, A. Colin, « Les Classiques de la philosophie », 1920, XII-111 p. — [Texte sur ce site](../../oeuvres/traductions/principes-berkeley.md) · [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k5493372w) · [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31799715q). La traduction avait commencé à paraître dans la *Critique philosophique* en 1889 (voir § 2.2).
 
 ---
 

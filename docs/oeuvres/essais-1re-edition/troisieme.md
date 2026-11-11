@@ -40,7 +40,7 @@ L'expérience et les sensations ne sont pas sans l'entendement, puisque ce derni
 
 Les fonctions de l'entendement offrent autant de grandes divisions qu'il y a de catégories (sauf que les trois dernières catégories dépassent la sphère de la représentation intellectuelle pure) :
 
-1. Relation : *Comparaison*, *Attention*, *Réflexion*. — La conscience qui compare les phénomènes est un acte représentatif de la relation donnée entre eux. Ainsi, la Comparaison est une fonction aussi générale que la catégorie à laquelle elle correspond, et qui est une forme universelle de toutes les autres.
+1\. Relation : *Comparaison*, *Attention*, *Réflexion*. — La conscience qui compare les phénomènes est un acte représentatif de la relation donnée entre eux. Ainsi, la Comparaison est une fonction aussi générale que la catégorie à laquelle elle correspond, et qui est une forme universelle de toutes les autres.
 
 La *Comparaison* se retrouve dans les fonctions plus particulières, et suit ainsi la *Relation* dans les modes plus définis de distinguer, d'identifier et de déterminer les phénomènes.
 
@@ -50,7 +50,7 @@ La *Comparaison* élémentaire appartient à l'animal. L'homme seul, en comparan
 
 Cette fonction est engagée dans toutes les autres. Ses objets, quand la Réflexion et la Raison les séparent, deviennent la matière d'une science. Il en est de même des deux fonctions suivantes.
 
-3. Position : *Imagination*. — La conscience des phénomènes comme limités, écartés d'espace et déterminés d'étendue, est l'*Imagination*.
+3\. Position : *Imagination*. — La conscience des phénomènes comme limités, écartés d'espace et déterminés d'étendue, est l'*Imagination*.
 
 Cette fonction s'étend beaucoup par l'union de ses représentés avec les données de la sensibilité et de l'expérience. Elle soumet à la conscience, sans la sensation, ce qui lui est soumis aussi dans la sensation, les images, dont la loi de position est le premier caractère, puis toutes sortes d'autres qualités.
 
@@ -58,7 +58,7 @@ L'Imagination ainsi généralisée, donnant l'objet sensible non senti, est la *
 
 La Production est par elle-même identique avec la sensation, quand aucune réflexion ne corrige le premier jugement qui accompagne les produits quelconques soumis à la conscience.
 
-4. Succession : *Mémoire*. — La conscience des phénomènes comme limités, écartés de temps et déterminés de durée, est une fonction dont les noms particularisent [p. XI] toujours l'idée : *Mémoire* ou *Prévision*, selon qu'un objet se pose, par ses rapports de succession, dans le *passé* ou dans l'*avenir*.
+4\. Succession : *Mémoire*. — La conscience des phénomènes comme limités, écartés de temps et déterminés de durée, est une fonction dont les noms particularisent [p. XI] toujours l'idée : *Mémoire* ou *Prévision*, selon qu'un objet se pose, par ses rapports de succession, dans le *passé* ou dans l'*avenir*.
 
 La fonction générale de détermination, sous la loi de succession, est en quelque sorte plus immédiate et plus interne à la conscience que les autres, aucun phénomène ne pouvant y entrer comme lui étant propre et ne pas y prendre, relativement aux phénomènes semblables, une *position dans le temps*.
 
@@ -68,7 +68,7 @@ La conscience de la mémoire comme telle et de l'imagination comme telle résult
 
 La mémoire a ses illusions, ainsi que l'imagination, en ce qu'il y a doute pour la réflexion sur la nature d'un phénomène représenté et de ses rapports avec d'autres dans le temps ou dans l'espace.
 
-5. Devenir : *Pensée*, *Séries de la pensée*. — La fonction de conscience liée à la catégorie du changement s'applique, non pas à la succession simplement, mais à la re[p. XII]présentation expresse d'un phénomène comme même et autre à différents moments.
+5\. Devenir : *Pensée*, *Séries de la pensée*. — La fonction de conscience liée à la catégorie du changement s'applique, non pas à la succession simplement, mais à la re[p. XII]présentation expresse d'un phénomène comme même et autre à différents moments.
 
 La *Pensée* ou fonction du devenir de conscience, à l'égard des représentés externes, gouverne la perception des changements de lieu et des variations des qualités sensibles. A l'égard des phénomènes proprement représentatifs, elle les distribue comme différents et toutefois liés les uns aux autres dans le temps.
 
@@ -78,7 +78,7 @@ On peut se demander seulement comment telle série est donnée de fait à la con
 
 Les illusions de la *Pensée* sont celles des fonctions précédentes, mais mises en série, et tout autant que la réflexion ne s'applique pas assez aux premiers jugements qui les accompagnent.
 
-6. Qualité : *Raison*, *Signification*, *Jugement*, *Raisonnement*. — La fonction qui distribue les phénomènes selon la qualité, et les différencie, généralise et spécifie, est la *Raison*.
+6\. Qualité : *Raison*, *Signification*, *Jugement*, *Raisonnement*. — La fonction qui distribue les phénomènes selon la qualité, et les différencie, généralise et spécifie, est la *Raison*.
 
 [p. XIII] La *Raison*, étudiée comme toute autre fonction, ne dépasse pas les concepts de l'entendement, non plus que ne les dépassent la *Numération*, l'*Imagination* ou la *Mémoire*, lesquelles se prêtent aussi à l'illusion de l'infini. L'inconditionné et l'absolu, de même que l'infini du nombre, de l'espace et du temps, ne semblent se poser en soi pour la *Raison* que parce qu'on viole la loi fondamentale de la catégorie, qui ne permet de détermination ou de synthèse qu'avec apposition de limites. Or, nulle représentation n'est possible que selon cette loi. Cette loi elle-même donne le seul sens possible, intelligible, aux éléments les plus universels et les plus abstraits de la représentation soumise à sa propre analyse.
 
@@ -130,7 +130,7 @@ On remarque en effet chez l'homme un élément représentatif proprement dit, à
 
 [p. XX] Ces grandes fonctions sont indissolubles chez l'homme, non qu'un phénomène humain quelconque les implique toujours toutes et au même degré, mais en ce sens que l'homme normal est leur synthèse, et que, prises dans un certain ordre, chacune d'elles suppose données toutes les précédentes.
 
-7. Finalité : *Passion*, *Instinct*, *Habitude*. — La *Passion* est la fonction donnée dans la synthèse d'un *État* et d'une *Tendance* de la conscience (la tendance étant simultanément relative à un état initial et à un état final, et par suite séparément négative de chacun d'eux).
+7\. Finalité : *Passion*, *Instinct*, *Habitude*. — La *Passion* est la fonction donnée dans la synthèse d'un *État* et d'une *Tendance* de la conscience (la tendance étant simultanément relative à un état initial et à un état final, et par suite séparément négative de chacun d'eux).
 
 Cette fonction est liée à des impressions ou sentiments internes divers, indéfinissables par eux-mêmes, quoiqu'on puisse en fixer les rapports, ainsi qu'on le fait pour les sensations, et par suite les distinguer et les nommer.
 
@@ -168,7 +168,7 @@ L'habitude affermit l'établissement des phénomènes dans l'être qui en a cons
 
 [p. XXIV] Si la volonté intervient, la conscience peut se maintenir et même se fortifier.
 
-8. Causalité : *Volonté* ; *Questions complexes sur la passion*, *la volonté et l'organisme*.
+8\. Causalité : *Volonté* ; *Questions complexes sur la passion*, *la volonté et l'organisme*.
 
 La *Volonté* est la *Force*, en tant que synthèse de l'*Acte* et de la *Puissance* dans la conscience humaine : synthèse de la *Puissance*, c'est-à-dire des phénomènes possibles en vertu de la constitution fonctionnelle et des conditions données ; et de l'*Acte*, c'est-à-dire des phénomènes actuels, qui ne se comprendraient point sans cette puissance.
 
@@ -230,7 +230,7 @@ Et en effet, cette action, bien examinée, n'offre à l'analyse rien au delà de
 
 La volonté n'est pas moins pour cela la cause éminente, dès qu'elle se montre. C'est elle qui, propre à l'homme et automotive, décide des autres représentations actuelles, qui, à leur tour, sont suivies des mouvements, comme ils le sont chez les animaux, où cette représentation supérieure n'existe pas.
 
-9. Personnalité : *Liberté*. — La *Personnalité* réunit toutes les catégories, du point de vue de l'homme, et se caractérise définitivement quand la *Causalité* et la *Finalité* ayant été bien étudiées dans leurs rapports entre elles et avec les autres, le *Soi* et le *Non-soi* sont posés avec la plus grande distinction possible dans la synthèse de la *Conscience*.
+9\. Personnalité : *Liberté*. — La *Personnalité* réunit toutes les catégories, du point de vue de l'homme, et se caractérise définitivement quand la *Causalité* et la *Finalité* ayant été bien étudiées dans leurs rapports entre elles et avec les autres, le *Soi* et le *Non-soi* sont posés avec la plus grande distinction possible dans la synthèse de la *Conscience*.
 
 Mais la conscience humaine n'aurait pas cette suprême individualité qui semble résulter de l'analyse, si les passions et les volitions, auxquelles se subordonne l'organisme dans certaines séries de phénomènes, suivaient elles-[p. XXXI]mêmes une loi générale et nécessaire de développement, en sorte que l'automotivité des représentations ne fût qu'apparente. La question de la liberté est donc celle de la personnalité même.
 

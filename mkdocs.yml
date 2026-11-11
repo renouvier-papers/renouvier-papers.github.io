@@ -62,8 +62,8 @@ nav:
   - Premiers Manuels et écrits politiques:
     - Manuel de philosophie moderne (1842): oeuvres/manuels/philosophie-moderne.md
     - Manuel de philosophie ancienne (1844):
-      - Tome I: oeuvres/manuels/philosophie-ancienne/tome-1.md # [VIDE]
-      - Tome II: oeuvres/manuels/philosophie-ancienne/tome-2.md # [VIDE]
+      - Tome I: oeuvres/manuels/philosophie-ancienne/tome-1.md
+      - Tome II: oeuvres/manuels/philosophie-ancienne/tome-2.md
     - Manuel républicain (1848): oeuvres/manuels/republicain.md
     - Gouvernement direct (1851): oeuvres/manuels/gouvernement-direct.md # [NOUVEAU]
   - Essais de critique générale (1re édition, 1854-1864): # [NOUVEAU]
@@ -91,19 +91,19 @@ nav:
     - Tome IV: oeuvres/philosophie-analytique/tome-4.md
   - Autres ouvrages:
     - Science de la morale (1869):
-      - Tome I: oeuvres/autres/science-morale/tome-1.md # [VIDE]
-      - Tome II: oeuvres/autres/science-morale/tome-2.md # [VIDE]
-    - Uchronie (1876): oeuvres/autres/uchronie.md # [VIDE]
+      - Tome I: oeuvres/autres/science-morale/tome-1.md
+      - Tome II: oeuvres/autres/science-morale/tome-2.md
+    - Uchronie (1876): oeuvres/autres/uchronie.md
     - Esquisse d'une classification des doctrines (1885-1886):
       - Tome I: oeuvres/autres/esquisse/tome-1.md
       - Tome II: oeuvres/autres/esquisse/tome-2.md
     - Victor Hugo, le poète (1893): oeuvres/autres/victor-hugo-poete.md # [NOUVEAU]
-    - Victor Hugo, le philosophe (1900): oeuvres/autres/victor-hugo.md # [VIDE]
-    - La Nouvelle monadologie (1899): oeuvres/autres/nouvelle-monadologie.md # [VIDE]
+    - Victor Hugo, le philosophe (1900): oeuvres/autres/victor-hugo.md
+    - La Nouvelle monadologie (1899): oeuvres/autres/nouvelle-monadologie.md
     - Les Dilemmes de la métaphysique pure (1901): oeuvres/autres/dilemmes.md # [NOUVEAU]
     - Histoire et solution des problèmes métaphysiques (1901): oeuvres/autres/histoire-solution.md
     - Le Personnalisme (1903): oeuvres/autres/personnalisme.md
-    - Les derniers entretiens (1904): oeuvres/autres/derniers-entretiens.md # [VIDE]
+    - Les derniers entretiens (1904): oeuvres/autres/derniers-entretiens.md
     - Critique de la doctrine de Kant (1906): oeuvres/autres/critique-kant.md
   - Traductions annotées: # [NOUVEAU]
     - Psychologie de Hume (1878): oeuvres/traductions/psychologie-hume.md # [NOUVEAU]
