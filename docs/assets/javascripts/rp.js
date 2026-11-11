@@ -1,137 +1,204 @@
 /* =========================================================================
-   RENOUVIER PAPERS — comportements portés depuis le site Just the Docs :
-   marqueurs de page [p. N], panneau Réglages (4 thèmes + 3 polices),
-   sections pliables, titre pixel-art colorisé.
+   RENOUVIER PAPERS : comportements du site
+   - marqueurs de page [p. N] ;
+   - sections pliables (clic sur un titre) et bouton « tout replier » de l'en-tête ;
+   - réglages d'affichage (4 thèmes, 4 polices de lecture), mémorisés sur l'appareil ;
+   - tiroir mobile ouvert sur les grandes rubriques depuis l'accueil.
+   Le thème et la police mémorisés sont appliqués avant le premier affichage par
+   overrides/main.html (classes sur <html>) ; ce fichier-ci gère les changements.
    ========================================================================= */
 (function () {
-  var COLORS = ['var(--accent)', 'var(--accent2)', 'var(--accent3)', 'var(--accent4)'];
+  var racine = document.documentElement;
 
-  /* ---- application thème / police (persistées, mêmes clés qu'avant) ---- */
-  function applyTheme(t) {
-    document.body.classList.remove('theme-dark', 'theme-cb-light', 'theme-cb-dark');
-    if (t && t !== 'light') document.body.classList.add('theme-' + t);
-  }
-  function applyFont(f) {
-    document.body.classList.remove('font-hyperlegible', 'font-opendyslexic');
-    if (f === 'hyperlegible') document.body.classList.add('font-hyperlegible');
-    if (f === 'opendyslexic') document.body.classList.add('font-opendyslexic');
-  }
-  // appliquer tôt (évite le flash)
-  applyTheme(localStorage.getItem('themeChoice') || 'light');
-  applyFont(localStorage.getItem('fontChoice') || 'default');
+  var THEMES = [
+    { v: 'light',    nom: 'Clair',          c: ['#f1edf8', '#e63946', '#0096a8', '#e87800', '#06a870'] },
+    { v: 'dark',     nom: 'Sombre',         c: ['#0a0e17', '#ff6b9d', '#00e5a0', '#ffa63d', '#50b0ff'] },
+    { v: 'cb-light', nom: 'Daltonien jour', c: ['#f1edf8', '#0072B2', '#E69F00', '#CC79A7', '#009E73'] },
+    { v: 'cb-dark',  nom: 'Daltonien nuit', c: ['#0a0e17', '#56B4E9', '#E69F00', '#CC79A7', '#009E73'] }
+  ];
+  var POLICES = [
+    { v: 'default',      nom: 'Libertinus Serif',      note: 'par défaut',  f: "'Libertinus Serif', serif" },
+    { v: 'solway',       nom: 'Solway',                note: '',            f: "'Solway', serif" },
+    { v: 'hyperlegible', nom: 'Atkinson Hyperlegible', note: 'malvoyance',  f: "'Atkinson Hyperlegible', sans-serif" },
+    { v: 'opendyslexic', nom: 'OpenDyslexic',          note: 'dyslexie',    f: "'OpenDyslexic', sans-serif" }
+  ];
 
-  function makeTitleHome() {
-    var el = document.querySelector('.md-header__title');
-    if (!el || el.dataset.rpHome) return;
-    el.dataset.rpHome = '1';
-    el.style.cursor = 'pointer';
-    el.setAttribute('title', "Retour à l'accueil");
-    el.addEventListener('click', function () { window.location.href = window.location.origin + '/'; });
+  function lire(cle, defaut) {
+    try { return localStorage.getItem(cle) || defaut; } catch (e) { return defaut; }
+  }
+  function ecrire(cle, valeur) {
+    try { localStorage.setItem(cle, valeur); } catch (e) { /* stockage indisponible : réglage valable pour la page */ }
   }
 
-  function pageMarkers(root) {
-    if (!root) return;
-    var walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, null, false);
-    var nodes = []; while (walker.nextNode()) nodes.push(walker.currentNode);
-    nodes.forEach(function (node) {
-      if (node.parentNode && node.parentNode.classList && node.parentNode.classList.contains('page-marker')) return;
-      if (!/\[p\.\s[^\]]+\]/.test(node.textContent)) return;
-      var frag = document.createDocumentFragment();
-      node.textContent.split(/(\[p\.\s[^\]]+\])/g).forEach(function (part) {
+  /* ---- thème et police (mêmes clés de mémorisation qu'avant) ---- */
+  function appliquerTheme(t) {
+    racine.classList.remove('theme-dark', 'theme-cb-light', 'theme-cb-dark');
+    if (t && t !== 'light') racine.classList.add('theme-' + t);
+    var meta = document.querySelector('meta[name="theme-color"]');      // cadre du navigateur mobile
+    if (meta) meta.setAttribute('content', (t === 'dark' || t === 'cb-dark') ? '#0f1520' : '#f1edf8');
+  }
+  function appliquerPolice(f) {
+    racine.classList.remove('font-solway', 'font-hyperlegible', 'font-opendyslexic');
+    if (f && f !== 'default') racine.classList.add('font-' + f);
+  }
+  appliquerTheme(lire('themeChoice', 'light'));
+  appliquerPolice(lire('fontChoice', 'default'));
+
+  /* ---- marqueurs de page [p. N] ---- */
+  function marqueursDePage(zone) {
+    if (!zone) return;
+    var marcheur = document.createTreeWalker(zone, NodeFilter.SHOW_TEXT, null, false);
+    var noeuds = []; while (marcheur.nextNode()) noeuds.push(marcheur.currentNode);
+    noeuds.forEach(function (noeud) {
+      var parent = noeud.parentNode;
+      if (!parent || (parent.classList && parent.classList.contains('page-marker'))) return;
+      if (parent.closest && parent.closest('pre, code, script, style')) return;
+      if (!/\[p\.\s[^\]]+\]/.test(noeud.textContent)) return;
+      var fragment = document.createDocumentFragment();
+      noeud.textContent.split(/(\[p\.\s[^\]]+\])/g).forEach(function (part) {
         if (/^\[p\.\s[^\]]+\]$/.test(part)) {
-          var s = document.createElement('span'); s.className = 'page-marker'; s.textContent = part; frag.appendChild(s);
-        } else { frag.appendChild(document.createTextNode(part)); }
+          var s = document.createElement('span'); s.className = 'page-marker'; s.textContent = part; fragment.appendChild(s);
+        } else { fragment.appendChild(document.createTextNode(part)); }
       });
-      node.parentNode.replaceChild(frag, node);
+      parent.replaceChild(fragment, noeud);
     });
   }
 
-  function collapsibleSections(root) {
-    if (!root) return;
-    var hs = root.querySelectorAll('h2, h3, h4');
-    if (hs.length < 4) return;
-    hs.forEach(function (h) {
-      if (h.dataset.rpCollap) return; h.dataset.rpCollap = '1';
+  /* ---- sections pliables ---- */
+  function sectionsPliables(zone) {
+    if (!zone) return 0;
+    var titres = zone.querySelectorAll('h2, h3, h4');
+    if (titres.length < 4) return 0;
+    titres.forEach(function (h) {
+      if (h.dataset.rpPli) return; h.dataset.rpPli = '1';
       h.classList.add('collapsible-heading', 'open');
-      var lvl = parseInt(h.tagName.charAt(1), 10);
-      var wrap = document.createElement('div'); wrap.className = 'collapsible-content';
-      var sib = h.nextElementSibling;
-      while (sib) {
-        if (/^H[1-6]$/.test(sib.tagName) && parseInt(sib.tagName.charAt(1), 10) <= lvl) break;
-        var nxt = sib.nextElementSibling; wrap.appendChild(sib); sib = nxt;
+      var niveau = parseInt(h.tagName.charAt(1), 10);
+      var enveloppe = document.createElement('div'); enveloppe.className = 'collapsible-content';
+      var frere = h.nextElementSibling;
+      while (frere) {
+        if (/^H[1-6]$/.test(frere.tagName) && parseInt(frere.tagName.charAt(1), 10) <= niveau) break;
+        if (frere.classList.contains('footnote')) break;          // les notes restent visibles
+        var suivant = frere.nextElementSibling; enveloppe.appendChild(frere); frere = suivant;
       }
-      if (wrap.children.length) h.parentNode.insertBefore(wrap, h.nextSibling);
-      h.addEventListener('click', function () {
+      if (enveloppe.children.length) h.parentNode.insertBefore(enveloppe, h.nextSibling);
+      h.addEventListener('click', function (e) {
+        if (e.target.closest && e.target.closest('a')) return;    // un lien dans le titre reste un lien
         this.classList.toggle('open');
         var c = this.nextElementSibling;
         if (c && c.classList.contains('collapsible-content')) c.classList.toggle('collapsed');
       });
     });
+    return titres.length;
   }
 
-  function buildToolbar() {
-    if (document.getElementById('rp-toolbar')) return;
-    var bar = document.createElement('div'); bar.id = 'rp-toolbar';
-    bar.innerHTML =
-      '<button class="btn-fold" id="rp-fold">± Sections</button>' +
-      '<button class="btn-settings" id="rp-settings-btn">Réglages</button>';
-    document.body.appendChild(bar);
+  /* une ancre visée dans une section repliée : on déplie ce qui la contient */
+  function deplierVers(cible) {
+    var n = cible, ouvert = false;
+    while (n && n !== document.body) {
+      if (n.classList && n.classList.contains('collapsible-content') && n.classList.contains('collapsed')) {
+        n.classList.remove('collapsed');
+        var t = n.previousElementSibling;
+        if (t && t.classList.contains('collapsible-heading')) t.classList.add('open');
+        ouvert = true;
+      }
+      n = n.parentNode;
+    }
+    return ouvert;
+  }
+  function suivreAncre() {
+    var id = decodeURIComponent((location.hash || '').slice(1));
+    if (!id) return;
+    var cible = document.getElementById(id);
+    if (cible && deplierVers(cible)) cible.scrollIntoView();
+  }
 
-    var ov = document.createElement('div'); ov.id = 'rp-settings-overlay'; document.body.appendChild(ov);
-    var panel = document.createElement('div'); panel.id = 'rp-settings';
-    panel.innerHTML =
-      '<label>Affichage</label>' +
-      '<select id="rp-theme">' +
-        '<option value="light">Clair</option><option value="dark">Sombre</option>' +
-        '<option value="cb-light">Daltonien jour</option><option value="cb-dark">Daltonien nuit</option>' +
-      '</select>' +
-      '<label>Police</label>' +
-      '<select id="rp-font">' +
-        '<option value="default">Par défaut (Solway)</option>' +
-        '<option value="hyperlegible">Malvoyance (Atkinson Hyperlegible)</option>' +
-        '<option value="opendyslexic">Dyslexie (OpenDyslexic)</option>' +
-      '</select>';
-    document.body.appendChild(panel);
-
-    document.getElementById('rp-settings-btn').addEventListener('click', function (e) {
-      e.stopPropagation(); panel.classList.toggle('open'); ov.classList.toggle('open');
+  /* ---- bouton « replier / déplier toutes les sections » de l'en-tête ---- */
+  function boutonPlier(nombre) {
+    var b = document.getElementById('rp-plier');
+    if (!b) return;
+    b.hidden = !nombre;
+    etatPlier(b, false);
+    if (b.dataset.rpPret) return; b.dataset.rpPret = '1';
+    b.addEventListener('click', function () {
+      var zone = document.querySelector('.md-content');
+      if (!zone) return;
+      var replier = b.getAttribute('aria-pressed') !== 'true';
+      zone.querySelectorAll('.collapsible-content').forEach(function (s) { s.classList.toggle('collapsed', replier); });
+      zone.querySelectorAll('.collapsible-heading').forEach(function (h) { h.classList.toggle('open', !replier); });
+      etatPlier(b, replier);
+      if (replier) window.scrollTo(0, 0);
     });
-    ov.addEventListener('click', function () { panel.classList.remove('open'); ov.classList.remove('open'); });
+  }
+  function etatPlier(b, replie) {
+    var texte = replie ? 'Déplier toutes les sections' : 'Replier toutes les sections';
+    b.setAttribute('aria-pressed', replie ? 'true' : 'false');
+    b.setAttribute('title', texte); b.setAttribute('aria-label', texte);
+  }
 
-    var ts = document.getElementById('rp-theme');
-    ts.value = localStorage.getItem('themeChoice') || 'light';
-    ts.addEventListener('change', function () { localStorage.setItem('themeChoice', this.value); applyTheme(this.value); });
-    var fs = document.getElementById('rp-font');
-    fs.value = localStorage.getItem('fontChoice') || 'default';
-    fs.addEventListener('change', function () { localStorage.setItem('fontChoice', this.value); applyFont(this.value); });
+  /* ---- réglages ---- */
+  function reglages() {
+    var bouton = document.getElementById('rp-reglages-bouton');
+    if (!bouton || document.getElementById('rp-reglages')) return;
+    var fond = document.createElement('div'); fond.id = 'rp-reglages-fond';
+    var panneau = document.createElement('div'); panneau.id = 'rp-reglages';
+    panneau.setAttribute('role', 'dialog'); panneau.setAttribute('aria-label', "Réglages d'affichage");
 
-    var allOpen = true;
-    document.getElementById('rp-fold').addEventListener('click', function () {
-      var root = document.querySelector('.md-content');
-      if (!root) return;
-      var secs = root.querySelectorAll('.collapsible-content');
-      var hds = root.querySelectorAll('.collapsible-heading');
-      allOpen = !allOpen;
-      secs.forEach(function (s) { s.classList.toggle('collapsed', !allOpen); });
-      hds.forEach(function (h) { h.classList.toggle('open', allOpen); });
+    var html = '<fieldset><legend>Apparence</legend><div class="rp-themes">';
+    THEMES.forEach(function (t) {
+      html += '<label class="rp-choix"><input type="radio" name="rp-theme" value="' + t.v + '">' +
+        '<span class="rp-apercu" style="background:' + t.c[0] + '">' +
+        '<i style="background:' + t.c[1] + '"></i><i style="background:' + t.c[2] + '"></i>' +
+        '<i style="background:' + t.c[3] + '"></i><i style="background:' + t.c[4] + '"></i></span>' +
+        '<span>' + t.nom + '</span></label>';
+    });
+    html += '</div></fieldset><fieldset><legend>Police de lecture</legend><div class="rp-polices">';
+    POLICES.forEach(function (p) {
+      html += '<label class="rp-choix"><input type="radio" name="rp-police" value="' + p.v + '">' +
+        '<span style="font-family:' + p.f + '">' + p.nom + '</span>' +
+        (p.note ? '<small>' + p.note + '</small>' : '') + '</label>';
+    });
+    html += '</div></fieldset>';
+    panneau.innerHTML = html;
+    document.body.appendChild(fond); document.body.appendChild(panneau);
+
+    function cocher(nom, valeur) {
+      var champ = panneau.querySelector('input[name="' + nom + '"][value="' + valeur + '"]') ||
+                  panneau.querySelector('input[name="' + nom + '"]');
+      if (champ) champ.checked = true;
+    }
+    cocher('rp-theme', lire('themeChoice', 'light'));
+    cocher('rp-police', lire('fontChoice', 'default'));
+
+    function ouvrir(oui) {
+      panneau.classList.toggle('ouvert', oui); fond.classList.toggle('ouvert', oui);
+      bouton.setAttribute('aria-expanded', oui ? 'true' : 'false');
+      if (oui) { var c = panneau.querySelector('input:checked'); if (c) c.focus(); }
+    }
+    bouton.addEventListener('click', function (e) { e.stopPropagation(); ouvrir(!panneau.classList.contains('ouvert')); });
+    fond.addEventListener('click', function () { ouvrir(false); });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && panneau.classList.contains('ouvert')) { ouvrir(false); bouton.focus(); }
+    });
+    panneau.addEventListener('change', function (e) {
+      var c = e.target;
+      if (c.name === 'rp-theme') { ecrire('themeChoice', c.value); appliquerTheme(c.value); }
+      if (c.name === 'rp-police') { ecrire('fontChoice', c.value); appliquerPolice(c.value); }
     });
   }
 
   /* ---- tiroir mobile : sur l'accueil, ouvrir sur les grandes rubriques ----
      Material « zoome » le tiroir sur la rubrique de la page courante. Sur
      l'accueil (qui vit dans la rubrique « Accueil »), on n'y voyait donc que
-     Contribuer et Licence, et il fallait la flèche de retour pour atteindre
-     Œuvres, Revues, etc. On remonte d'un cran, mais UNIQUEMENT à l'ouverture
-     du tiroir et sur l'accueil : ailleurs, le tiroir garde son rôle utile
-     (afficher le menu latéral de la rubrique où l'on se trouve), et la barre
-     latérale du bureau n'est pas concernée. */
-  function drawerRootOnHome() {
-    var drawer = document.getElementById('__drawer');
-    if (!drawer || drawer.dataset.rpHomeNav) return;
-    drawer.dataset.rpHomeNav = '1';
-    drawer.addEventListener('change', function () {
-      if (!this.checked) return;                                  // seulement à l'ouverture
-      if (location.pathname.replace(/\/+$/, '') !== '') return;    // seulement sur l'accueil
+     Contribuer et Licence. On remonte d'un cran, mais UNIQUEMENT à l'ouverture
+     du tiroir et sur l'accueil : ailleurs, le tiroir garde son rôle (le menu
+     de la rubrique où l'on se trouve). */
+  function tiroirAccueil() {
+    var tiroir = document.getElementById('__drawer');
+    if (!tiroir || tiroir.dataset.rpAccueil) return;
+    tiroir.dataset.rpAccueil = '1';
+    tiroir.addEventListener('change', function () {
+      if (!this.checked) return;
+      if (!document.querySelector('.rp-portail')) return;           // seulement sur l'accueil
       var nav = document.querySelector('.md-nav--primary');
       if (!nav) return;
       nav.querySelectorAll('.md-nav__toggle').forEach(function (t) { t.checked = false; });
@@ -139,15 +206,16 @@
   }
 
   function init() {
-    var content = document.querySelector('.md-content');
-    makeTitleHome();
-    buildToolbar();
-    pageMarkers(content);
-    collapsibleSections(content);
-    drawerRootOnHome();
+    var contenu = document.querySelector('.md-content');
+    reglages();
+    marqueursDePage(contenu);
+    boutonPlier(sectionsPliables(contenu));
+    tiroirAccueil();
+    suivreAncre();
   }
+  window.addEventListener('hashchange', suivreAncre);
 
-  // instant-nav de Material si présent, sinon chargement classique
+  // navigation instantanée de Material si elle est là, sinon chargement classique
   if (window.document$ && typeof window.document$.subscribe === 'function') {
     window.document$.subscribe(function () { init(); });
   } else if (document.readyState !== 'loading') {

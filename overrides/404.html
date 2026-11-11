@@ -1,0 +1,11 @@
+{#- Page d'erreur : en français, avec de quoi repartir. -#}
+{% extends "main.html" %}
+
+{% block content %}
+  <h1>Page introuvable</h1>
+  <p>
+    Aucune page du site ne répond à cette adresse ; le texte cherché a peut-être changé de place.
+    Les rubriques et la recherche, en haut de page, permettent de le retrouver.
+  </p>
+  <p><a href="{{ '.' | url }}">Revenir à l'accueil</a></p>
+{% endblock %}

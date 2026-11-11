@@ -1,5 +1,12 @@
-<div class="md-copyright">
-  {% if config.copyright %}
-    <div class="md-copyright__highlight">{{ config.copyright }}</div>
-  {% endif %}
+{#- Pied de page : ce qu'est le site, puis les pages pratiques. -#}
+<div class="md-copyright rp-pied">
+  <p class="rp-pied__texte">
+    <strong>{{ config.site_name }}</strong>, édition numérique libre des œuvres de Charles Renouvier.
+    Projet créé et maintenu par Arthur Saunier. Transcriptions sous licence CC BY 4.0.
+  </p>
+  <nav class="rp-pied__liens" aria-label="Pages pratiques">
+    <a href="{{ 'a-propos/contribuer/' | url }}">Contribuer</a>
+    <a href="{{ 'a-propos/licence/' | url }}">Droits et licences</a>
+    <a href="https://github.com/renouvier-papers/renouvier-papers.github.io" rel="noopener">Code source</a>
+  </nav>
 </div>

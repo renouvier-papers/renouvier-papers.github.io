@@ -6,6 +6,8 @@ copyright: Renouvier Papers · Arthur Saunier · CC BY 4.0
 extra:
   generator: false
 docs_dir: docs
+hooks:
+- hooks/renouvier.py
 theme:
   name: material
   language: fr
@@ -26,6 +28,8 @@ theme:
   - search.suggest
   - search.highlight
   - content.code.copy
+  - navigation.path
+  - navigation.footer
 extra_css:
 - assets/stylesheets/rp.css
 extra_javascript:

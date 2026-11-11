@@ -1,0 +1,37 @@
+{#-
+  Fil d'Ariane. Une rubrique sans page propre (« Autres ouvrages », un auteur, un ouvrage en
+  plusieurs tomes) renvoie à son entrée dans le sommaire de la rubrique : l'adresse « rp_url »
+  est posée par hooks/renouvier.py. Sans elle, comportement d'origine de Material.
+-#}
+{% macro render_content(nav_item) %}
+  <span class="md-ellipsis">
+    {{ nav_item.title }}
+  </span>
+{% endmacro %}
+{% macro render(nav_item, ref) %}
+  {% set ref = ref or nav_item %}
+  {% if ref.rp_url %}
+    <li class="md-path__item">
+      <a href="{{ ref.rp_url | url }}" class="md-path__link">
+        {{ render_content(ref) }}
+      </a>
+    </li>
+  {% elif nav_item.children %}
+    {% set first = nav_item.children | first %}
+    {% if first.children %}
+      {{ render(first, ref) }}
+    {% else %}
+      <li class="md-path__item">
+        <a href="{{ first.url | url }}" class="md-path__link">
+          {{ render_content(ref) }}
+        </a>
+      </li>
+    {% endif %}
+  {% else %}
+    <li class="md-path__item">
+      <a href="{{ nav_item.url | url }}" class="md-path__link">
+        {{ render_content(ref) }}
+      </a>
+    </li>
+  {% endif %}
+{% endmacro %}

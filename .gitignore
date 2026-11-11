@@ -1,3 +1,6 @@
 # Sortie de build MkDocs
 site/
 .DS_Store
+
+# Python (crochets de construction)
+__pycache__/

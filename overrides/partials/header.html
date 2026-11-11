@@ -1,0 +1,37 @@
+{#-
+  En-tête du site, sur une seule ligne : marque, rubriques, recherche, sections, réglages.
+  Remplace l'en-tête de Material (thème figé dans requirements.txt). Les rubriques sont rendues
+  ici, dans la ligne, au lieu d'occuper une seconde barre sous l'en-tête.
+-#}
+<header class="md-header rp-header" data-md-component="header">
+  <div class="md-header__inner md-grid">
+    <label class="md-header__button md-icon" for="__drawer" title="Menu" aria-label="Ouvrir le menu">
+      {% include ".icons/material/menu.svg" %}
+    </label>
+    <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" class="rp-marque" title="{{ config.site_name | e }} : accueil" aria-label="{{ config.site_name | e }} : accueil" data-md-component="logo">
+      {% include "partials/logo.html" %}
+      <span class="rp-marque__nom">{{ config.site_name }}</span>
+    </a>
+    {% if "navigation.tabs" in features %}
+      {% include "partials/tabs.html" %}
+    {% endif %}
+    <div class="rp-header__outils">
+      {% if "material/search" in config.plugins %}
+        {% set search = config.plugins["material/search"] | attr("config") %}
+        {% if search.enabled %}
+          <label class="md-header__button md-icon" for="__search" title="Rechercher" aria-label="Rechercher">
+            {% include ".icons/material/magnify.svg" %}
+          </label>
+          {% include "partials/search.html" %}
+        {% endif %}
+      {% endif %}
+      <button type="button" class="md-header__button md-icon rp-bouton" id="rp-plier" title="Replier toutes les sections" aria-label="Replier toutes les sections" aria-pressed="false" hidden>
+        <span class="rp-bouton__replier">{% include ".icons/material/unfold-less-horizontal.svg" %}</span>
+        <span class="rp-bouton__deplier">{% include ".icons/material/unfold-more-horizontal.svg" %}</span>
+      </button>
+      <button type="button" class="md-header__button md-icon rp-bouton" id="rp-reglages-bouton" title="Réglages d'affichage" aria-label="Réglages d'affichage" aria-haspopup="dialog" aria-expanded="false" aria-controls="rp-reglages">
+        {% include ".icons/material/tune-variant.svg" %}
+      </button>
+    </div>
+  </div>
+</header>
