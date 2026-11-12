@@ -304,6 +304,8 @@ button.rp-bouton { background:none; border:0; font:inherit; color:inherit; line-
 .md-typeset a.rp-cat__ligne:hover .rp-cat__titre { color:var(--link-hover); }
 .rp-cat__corps { flex:1 1 auto; min-width:0; display:flex; flex-wrap:wrap; align-items:baseline; gap:.3rem .7rem; }
 .rp-cat__titre { font-weight:600; }
+.md-typeset a.rp-cat__lien { color:var(--text); text-decoration:none; transition:color .15s; }
+.md-typeset a.rp-cat__lien:hover, .md-typeset a.rp-cat__lien:focus-visible { color:var(--link-hover); }
 .rp-cat__desc { flex:1 0 100%; font-family:var(--police-interface); font-size:.72rem; line-height:1.45; color:var(--text-muted); }
 .rp-cat__date { flex:0 0 auto; font-family:var(--police-titres); font-size:.66rem; letter-spacing:-.02em; color:var(--text-muted); white-space:nowrap; }
 .rp-cat__tomes { display:inline-flex; flex-wrap:wrap; gap:.3rem; }

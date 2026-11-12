@@ -132,6 +132,20 @@ def _pages(item):
         yield item
 
 
+def _volumes(rubrique):
+    """Les pages d'une rubrique, à ceci près qu'un groupe qui a sa propre page d'accueil (une année de revue
+    découpée en livraisons) compte pour une seule unité, représentée par cette page."""
+    for enfant in rubrique.children:
+        if isinstance(enfant, Section):
+            index = _page_index(enfant)
+            if index is not None:
+                yield index
+            else:
+                yield from _volumes(enfant)
+        else:
+            yield enfant
+
+
 # =====================================================================================
 #  1. Sommaires
 # =====================================================================================
@@ -161,7 +175,8 @@ def _ancrer(groupe, index, vues):
     for item in groupe.children:
         if isinstance(item, Section):
             item.rp_ancre = _unique(groupe.rp_ancre + '--' + ancre(_titre_et_date(item.title)[0]), vues)
-            item.rp_url = index.url + '#' + item.rp_ancre
+            if _page_index(item) is None:      # une année de revue qui a sa page garde son adresse
+                item.rp_url = index.url + '#' + item.rp_ancre
             _ancrer(item, index, vues)
 
 
@@ -209,14 +224,25 @@ def _ligne(item, page):
     return f'<li class="rp-cat__item"><a class="rp-cat__ligne" href="{_lien(item, page)}">{corps}</a></li>'
 
 
+def _nom_de_puce(titre):
+    """« 2e livraison (juillet 1878) » -> « Juillet 1878 » ; les autres titres sont gardés."""
+    m = re.match(r'^\d+(?:re|e) livraison \((.+)\)$', titre or '')
+    if m:
+        return m.group(1)[:1].upper() + m.group(1)[1:]
+    return _titre_et_date(titre)[0] or titre or ''
+
+
 def _ligne_multiple(section, page):
-    """Une ligne du sommaire : un ouvrage en plusieurs tomes ou éditions."""
+    """Une ligne du sommaire : un ouvrage en plusieurs tomes ou éditions, une année de revue (avec sa page
+    d'accueil, à laquelle renvoie le titre, et ses livraisons ou rubriques en puces)."""
     titre, date = _titre_et_date(section.title)
+    index = _page_index(section)
+    enfants = [e for e in section.children if e is not index]
     puces = []
-    etats = [etat(p) for p in section.children]
+    etats = [etat(p) for p in enfants]
     tous_bruts = bool(etats) and all(e == 'brut' for e in etats)
-    for enfant, e in zip(section.children, etats):
-        nom = html.escape(enfant.title or '')
+    for enfant, e in zip(enfants, etats):
+        nom = html.escape(_nom_de_puce(enfant.title) if index is not None else (enfant.title or ''))
         if e in ('vide', 'absent'):
             puces.append(f'<span class="rp-puce is-avenir" title="Texte à venir">{nom}</span>')
         else:
@@ -224,8 +250,11 @@ def _ligne_multiple(section, page):
             bulle = ' title="Texte brut : pas encore relu"' if brut else ''
             puces.append(f'<a class="rp-puce{brut}" href="{_lien(enfant, page)}"{bulle}>{nom}</a>')
     ident = f' id="{section.rp_ancre}"' if getattr(section, 'rp_ancre', None) else ''
+    nom_titre = html.escape(titre)
+    if index is not None and etat(index) not in ('vide', 'absent'):
+        nom_titre = f'<a class="rp-cat__lien" href="{_lien(index, page)}">{nom_titre}</a>'
     return (f'<li class="rp-cat__item rp-cat__item--multiple"{ident}><div class="rp-cat__ligne">'
-            f'<span class="rp-cat__corps"><span class="rp-cat__titre">{html.escape(titre)}</span>'
+            f'<span class="rp-cat__corps"><span class="rp-cat__titre">{nom_titre}</span>'
             f'<span class="rp-cat__tomes">{"".join(puces)}</span></span>'
             f'{_marque("brut") if tous_bruts else ""}'
             + (f'<span class="rp-cat__date">{html.escape(date)}</span>' if date else '')
@@ -331,7 +360,7 @@ def sommaire_portail(page):
         r = reglages.get(rubrique.title) or {}
         if isinstance(r, str):
             r = {'texte': r}
-        pages = [p for p in _pages(rubrique) if p is not index]
+        pages = [p for p in _volumes(rubrique) if p is not index]
         n = sum(1 for p in pages if etat(p) in ('ok', 'brut'))
         if n:
             compte = _nombre(n, _paire(r.get('unite'), ('texte', 'textes')))
@@ -443,6 +472,9 @@ def etiquette_capitales(texte):
     if not mots:
         return 0
     if _DIVISIONS.match(mots[0]) or (len(mots) >= 2 and sum(len(x) for x in mots) >= 8):
+        return m.end()
+    # un seul mot en capitales suivi d'un tiret (« CORRESPONDANCE — À M. J. Milsand », titres des revues)
+    if len(mots) == 1 and len(mots[0]) >= 4 and re.match(r'\s*[—–]\s', suite):
         return m.end()
     return 0
 
