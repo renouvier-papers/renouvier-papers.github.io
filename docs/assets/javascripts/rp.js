@@ -3,7 +3,9 @@
    - marqueurs de page [p. N] ;
    - sections pliables (clic sur un titre) et bouton « tout replier » de l'en-tête ;
    - réglages d'affichage (4 thèmes, 4 polices de lecture), mémorisés sur l'appareil ;
-   - tiroir mobile ouvert sur les grandes rubriques depuis l'accueil.
+   - tiroir mobile ouvert sur les grandes rubriques depuis l'accueil ;
+   - entrées du menu « à venir » (page pas encore créée) : sans lien ;
+   - titre visé par un lien : maintenu à sa place pendant la mise en forme de la page.
    Le thème et la police mémorisés sont appliqués avant le premier affichage par
    overrides/main.html (classes sur <html>) ; ce fichier-ci gère les changements.
    ========================================================================= */
@@ -205,11 +207,49 @@
     });
   }
 
+  /* ---- entrées du menu dont la page n'existe pas encore ----
+     mkdocs.yml annonce quelques textes dont le fichier manque : MkDocs en fait un lien vers
+     « x.md », qui ne mène nulle part. Le menu les montre (mention « à venir », posée par
+     hooks/renouvier.py) ; on leur retire ici leur lien. */
+  function entreesAVenir() {
+    document.querySelectorAll('a.md-nav__link[href$=".md"]').forEach(function (a) {
+      if (a.origin && a.origin !== location.origin) return;       // lien vers un autre site : on n'y touche pas
+      a.removeAttribute('href');
+      a.setAttribute('aria-disabled', 'true');
+      a.classList.add('rp-a-venir');
+    });
+  }
+
+  /* ---- page calée sur un titre (lien vers une ancre) ----
+     La mise en forme des marqueurs de page et des sections pliables change un peu la hauteur du
+     texte : sur un long volume, le titre visé descendait de plusieurs centaines de pixels juste
+     après l'arrivée, et la table des matières marquait une autre section. On note où est ce titre
+     avant la mise en forme et on l'y remet après. On ne touche à rien quand la page n'est pas
+     calée sur lui (retour en arrière : le lecteur retrouve l'endroit exact où il était). */
+  function repereAncre() {
+    var el = null, id = '';
+    try { id = decodeURIComponent((location.hash || '').slice(1)); } catch (e) { return null; }
+    if (id) el = document.getElementById(id);
+    if (!el) return null;
+    var marge = parseFloat(getComputedStyle(el).scrollMarginTop) || 0;
+    var haut = el.getBoundingClientRect().top;
+    return (marge > 0 && Math.abs(haut - marge) <= 4) ? { el: el, haut: haut } : null;
+  }
+  function recaler(repere) {
+    if (!repere || !document.documentElement.contains(repere.el)) return;
+    var ecart = repere.el.getBoundingClientRect().top - repere.haut;
+    if (Math.abs(ecart) <= 1) return;
+    try { window.scrollBy({ top: ecart, behavior: 'instant' }); } catch (e) { window.scrollBy(0, ecart); }
+  }
+
   function init() {
     var contenu = document.querySelector('.md-content');
     reglages();
+    entreesAVenir();
+    var repere = repereAncre();
     marqueursDePage(contenu);
     boutonPlier(sectionsPliables(contenu));
+    recaler(repere);
     tiroirAccueil();
     suivreAncre();
   }

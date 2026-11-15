@@ -31,7 +31,7 @@ html { scrollbar-gutter: stable; }
   --fn-color:#b030a0; --strong-color:#3f2a63; --hover-bg:#e6dff2;
   --bar-bg:#f6f3fb; --bar-text:#231d33; --bar-border:#e1d9ee; --panel-bg:#ffffff;
   --ombre:0 .6rem 2rem rgba(35,29,51,.14), 0 0 0 1px rgba(35,29,51,.06);
-  --logo-fond:#ffffff; --logo-a:#e63946; --logo-b:#e87800; --logo-c:#06a870; --logo-d:#0096a8;
+  --logo-fond:#7a2e55; --logo-lettre:#fdf4f9;   /* le « R » : aubergine, identique dans les quatre modes */
 }
 /* SOMBRE */
 html.theme-dark {
@@ -45,7 +45,6 @@ html.theme-dark {
   --fn-color:#ff6b9d; --strong-color:#50b0ff; --hover-bg:#182028;
   --bar-bg:#101828; --bar-text:#dce0e8; --bar-border:#253040; --panel-bg:#0f1520;
   --ombre:0 .6rem 2rem rgba(0,0,0,.5), 0 0 0 1px #253040;
-  --logo-fond:#0a0e17; --logo-a:#ff6b9d; --logo-b:#ffa63d; --logo-c:#00e5a0; --logo-d:#50b0ff;
 }
 /* DALTONIEN JOUR */
 html.theme-cb-light {
@@ -56,7 +55,6 @@ html.theme-cb-light {
   --quote-border:#0072B2; --em-color:#D55E00;
   --page-marker-color:#0072B2; --page-marker-bg:#e3eef7;
   --fn-color:#CC79A7; --strong-color:#0072B2;
-  --logo-a:#0072B2; --logo-b:#E69F00; --logo-c:#CC79A7; --logo-d:#009E73;
 }
 /* DALTONIEN NUIT */
 html.theme-cb-dark {
@@ -70,7 +68,6 @@ html.theme-cb-dark {
   --fn-color:#CC79A7; --strong-color:#56B4E9; --hover-bg:#152030;
   --bar-bg:#101828; --bar-text:#dce0e8; --bar-border:#253040; --panel-bg:#0f1520;
   --ombre:0 .6rem 2rem rgba(0,0,0,.5), 0 0 0 1px #253040;
-  --logo-fond:#0a0e17; --logo-a:#56B4E9; --logo-b:#E69F00; --logo-c:#CC79A7; --logo-d:#009E73;
 }
 html.theme-dark, html.theme-cb-dark { color-scheme: dark; }
 
@@ -79,8 +76,13 @@ html.theme-dark, html.theme-cb-dark { color-scheme: dark; }
   --note-bg: color-mix(in srgb, var(--accent4) 9%, var(--bg));     /* notice de source */
   --alerte-bg: color-mix(in srgb, var(--accent3) 11%, var(--bg));  /* avertissement */
   --ligne-survol: color-mix(in srgb, var(--frame) 70%, var(--bg));
+  --rail: color-mix(in srgb, var(--text-muted) 32%, transparent);    /* rails des menus */
+  --menu-doux: color-mix(in srgb, var(--text) 82%, var(--frame));    /* troisième niveau du menu */
   --rayon: .6rem;          /* encarts, champs, lignes */
   --rayon-feuille: 1rem;   /* la feuille de lecture */
+  --rp-entete: 2.6rem;     /* hauteur de l'en-tête */
+  --rp-jeu: 0rem;          /* espace entre l'en-tête et la feuille */
+  --rp-bord: 0rem;         /* marge intérieure latérale de la feuille */
   --police-titres: 'Google Sans Code', ui-monospace, 'SFMono-Regular', Menlo, monospace;
   --police-texte: 'Libertinus Serif', 'Linux Libertine', 'Iowan Old Style', Palatino, Georgia, serif;
   --police-interface: 'Google Sans', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
@@ -106,7 +108,8 @@ body[data-md-color-scheme] {
 body { font-family:var(--police-interface); }
 .md-typeset { font-family:var(--police-texte); font-size:.975rem; line-height:1.58; }
 .md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4 { font-family:var(--police-titres); font-weight:700; }
-.md-tabs__link, .md-nav__item, .md-path, .md-footer__title { font-family:var(--police-titres); }
+.md-tabs__link, .md-path, .md-footer__title { font-family:var(--police-titres); }
+.md-nav__item { font-family:var(--police-interface); }
 .md-nav { font-size:.7rem; }
 /* polices de lecture au choix (Réglages) */
 html.font-solway .md-content .md-typeset { font-family:'Solway', serif; font-size:.82rem; line-height:1.7; }
@@ -120,15 +123,40 @@ html.font-hyperlegible .md-content .md-typeset, html.font-opendyslexic .md-conte
 .md-content { background:var(--bg); border-radius:var(--rayon-feuille) var(--rayon-feuille) 0 0; }
 .md-content__inner { padding-top:.4rem; padding-bottom:1.6rem; margin-bottom:0; }
 @media screen and (min-width:76.25em) {
-  .md-main__inner { margin-top:.3rem; margin-bottom:1.2rem; }
-  .md-content { border-radius:var(--rayon-feuille); padding:0 .9rem; }
+  :root { --rp-jeu:.3rem; --rp-bord:.9rem; }
+  .md-main__inner { margin-top:var(--rp-jeu); margin-bottom:1.2rem; }
+  .md-content { border-radius:var(--rayon-feuille); padding:0 var(--rp-bord); }
   .md-sidebar { width:12.6rem; }
 }
-@media screen and (min-width:60em) { .md-sidebar { top:2.6rem; } }
+@media screen and (min-width:60em) { .md-sidebar { top:var(--rp-entete); } }
 @media screen and (min-width:60em) and (max-width:76.234375em) {
-  .md-main__inner { margin:.3rem .6rem 1.2rem; }
+  :root { --rp-jeu:.3rem; }
+  .md-main__inner { margin:var(--rp-jeu) .6rem 1.2rem; }
   .md-content { border-radius:var(--rayon-feuille); }
 }
+
+/* La feuille garde ses coins arrondis quand elle défile sous l'en-tête. Un cache collé sous
+   l'en-tête redessine en permanence les deux coins (dans la couleur du cadre) ; entre eux, le
+   texte s'efface dans la couleur de la feuille avant d'atteindre le bord. L'en-tête ne change
+   pas. Au repos, le cache coïncide avec les vrais coins de la feuille : on ne le voit pas. */
+.md-content::before {
+  content:""; display:block; position:sticky; z-index:2; pointer-events:none;
+  top:var(--rp-entete);
+  height:calc(var(--rp-jeu) + var(--rayon-feuille) + .3rem);
+  margin:calc(-1 * var(--rp-jeu)) calc(-1 * var(--rp-bord)) calc(-1 * (var(--rayon-feuille) + .3rem));
+  background:
+    radial-gradient(circle at 100% 100%, transparent calc(var(--rayon-feuille) - .5px), var(--frame) calc(var(--rayon-feuille) + .5px)) 0 var(--rp-jeu) / var(--rayon-feuille) var(--rayon-feuille) no-repeat,
+    radial-gradient(circle at 0 100%, transparent calc(var(--rayon-feuille) - .5px), var(--frame) calc(var(--rayon-feuille) + .5px)) 100% var(--rp-jeu) / var(--rayon-feuille) var(--rayon-feuille) no-repeat,
+    linear-gradient(var(--frame), var(--frame)) 0 0 / 100% var(--rp-jeu) no-repeat,
+    linear-gradient(to bottom, var(--bg) 35%, transparent) 0 var(--rp-jeu) / 100% calc(var(--rayon-feuille) + .3rem) no-repeat;
+}
+/* Un titre visé par un lien s'arrête sous ce fondu, pas dedans. Et pour que la table des
+   matières marque bien ce titre-là : Material tient une section pour entamée quand son titre
+   est à moins de [hauteur de l'en-tête + 0,8 × distance entre le haut de .md-main et celui de
+   sa grille] du haut de l'écran. On agrandit cette distance sans rien déplacer (marge négative
+   compensée), de sorte que le seuil tombe juste sous l'endroit où le titre s'arrête. */
+.md-typeset :target { --md-scroll-margin:4.6rem; }
+.md-main { margin-top:-2.5rem; padding-top:2.5rem; }
 
 /* =====================  EN-TÊTE (une seule ligne)  ===================== */
 .md-header, .md-header--shadow { background:var(--frame); color:var(--text); box-shadow:none; }
@@ -147,8 +175,7 @@ button.rp-bouton { background:none; border:0; font:inherit; color:inherit; line-
 .rp-marque__nom { font-family:var(--police-titres); font-weight:700; font-size:.8rem; letter-spacing:-.03em; white-space:nowrap; }
 .rp-logo { width:32px; height:32px; flex:0 0 auto; }
 .rp-logo__carreau { fill:var(--logo-fond); }
-.rp-logo__a { fill:var(--logo-a); } .rp-logo__b { fill:var(--logo-b); }
-.rp-logo__c { fill:var(--logo-c); } .rp-logo__d { fill:var(--logo-d); }
+.rp-logo__lettre { fill:var(--logo-lettre); }
 .rp-header__outils { display:flex; align-items:center; margin-left:auto; flex:0 0 auto; }
 
 /* rubriques, dans la ligne d'en-tête */
@@ -190,13 +217,47 @@ button.rp-bouton { background:none; border:0; font:inherit; color:inherit; line-
   [data-md-toggle=search]:checked ~ .md-header .md-search__inner { width:34.4rem; }
 }
 
-/* =====================  MENU LATÉRAL  =====================
-   Couleurs d'état inchangées : survol orange, page courante aubergine. */
+/* =====================  MENU LATÉRAL ET TABLE DES MATIÈRES  =====================
+   Couleurs d'état inchangées : survol orange, page courante aubergine.
+   Trois niveaux, trois registres :
+     1. l'ouvrage, la série, l'auteur : Google Sans Code demi-gras (c'est un titre) ;
+     2. la partie, l'édition, l'année : Google Sans, plein ;
+     3. le tome, la livraison, l'article : Google Sans, un ton en dessous.
+   Les niveaux 2 et 3 pendent à un rail ; la page courante y est marquée d'un carré, le
+   « pixel » du logo. La table des matières de droite obéit à la même règle. Le balisage des
+   intitulés (auteur en surtitre, précision, série) est posé par hooks/renouvier.py. */
 .md-nav__link:hover { color:var(--nav-hover) !important; }
-.md-nav__link--active, a.md-nav__link--active { color:var(--nav-active) !important; font-weight:700; }
-/* les parents du fil actif : discrets (pas tous en gras) */
-.md-nav__item--active > .md-nav__link:not(.md-nav__link--active) { color:var(--text) !important; font-weight:400; }
+.md-nav__link--active, a.md-nav__link--active { color:var(--nav-active) !important; font-weight:700 !important; }
+/* les parents de la page courante : le fil se lit d'un coup d'œil */
+.md-nav__item--active > .md-nav__link:not(.md-nav__link--active),
+.md-nav__item--active > .md-nav__container > a:not(.md-nav__link--active) { color:var(--text) !important; font-weight:700 !important; }
 .md-nav--secondary .md-nav__link--active, .md-nav--secondary .md-nav__link:hover { color:var(--nav-hover) !important; }
+
+/* niveau 1 : un titre */
+.md-nav--primary nav[data-md-level="1"] > .md-nav__list > .md-nav__item > .md-nav__link,
+.md-nav--primary nav[data-md-level="1"] > .md-nav__list > .md-nav__item > .md-nav__container > a { font-family:var(--police-titres); font-weight:600; letter-spacing:-.02em; }
+
+/* intitulés balisés */
+.md-nav__link .md-typeset { font:inherit; color:inherit; letter-spacing:inherit; }
+.rp-nav__sur { display:block; font-family:var(--police-titres); font-size:.58rem; font-weight:500; letter-spacing:-.01em; line-height:1.5; color:var(--text-muted); }
+.rp-nav__titre { display:block; }
+.rp-nav__serie { display:block; font-family:var(--police-interface); font-size:.62rem; font-weight:400; letter-spacing:0; color:var(--text-muted); }
+.rp-nav__precision { font-weight:400; color:var(--text-muted); }
+.rp-nav__insecable { white-space:nowrap; }                 /* « (1876) » reste d'un bloc, à la suite du titre */
+.rp-nav__precision:not(.rp-nav__insecable) { display:block; font-family:var(--police-interface); font-size:.62rem; letter-spacing:0; }   /* une précision longue a sa ligne */
+/* entrée dont la page n'existe pas encore : annoncée, mais ce n'est pas un lien */
+.rp-nav__avenir { display:inline-block; margin-top:.2rem; font-family:var(--police-titres); font-size:.56rem; font-weight:500; letter-spacing:-.01em; line-height:1.5; padding:0 .4rem; border-radius:.4rem; color:var(--text-muted); outline:1px dashed var(--rail); outline-offset:-1px; }
+.md-nav__link[href$=".md"], .md-nav__link.rp-a-venir { pointer-events:none; cursor:default; }
+.md-nav__link[href$=".md"] .rp-nav__titre, .md-nav__link.rp-a-venir .rp-nav__titre { color:var(--text-muted); }
+.rp-nav__sep { position:absolute; width:1px; height:1px; overflow:hidden; clip-path:inset(50%); white-space:nowrap; }
+.md-nav__link:hover .rp-nav__sur, .md-nav__link:hover .rp-nav__serie, .md-nav__link:hover .rp-nav__precision,
+.md-nav__link--active .rp-nav__sur, .md-nav__link--active .rp-nav__serie, .md-nav__link--active .rp-nav__precision { color:inherit; }
+/* un titre très long tient en trois lignes, sauf celui de la page courante (la bulle donne le reste) */
+.md-nav--primary .rp-nav__titre[title] { display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:3; line-clamp:3; overflow:hidden; }
+.md-nav--primary .md-nav__link--active .rp-nav__titre[title] { display:block; overflow:visible; }
+/* en tête d'un volet du tiroir mobile, l'intitulé reste sur une ligne */
+.md-nav__title .rp-nav__sur, .md-nav__title .rp-nav__titre, .md-nav__title .rp-nav__serie, .md-nav__title .rp-nav__precision:not(.rp-nav__insecable) { display:inline; font:inherit; letter-spacing:inherit; color:inherit; }
+.md-nav__title .rp-nav__sep { position:static; width:auto; height:auto; clip-path:none; }
 
 @media screen and (min-width:76.25em) {
   .md-sidebar--primary { background:transparent; }
@@ -204,19 +265,49 @@ button.rp-bouton { background:none; border:0; font:inherit; color:inherit; line-
   .md-nav--primary > .md-nav__title { display:none; }
   .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link,
   .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__container { display:none; }
+
   /* chaque entrée est une pastille : fond au survol, feuille blanche pour la page courante */
-  .md-nav--primary .md-nav__item { padding:0 .1rem; }
-  .md-nav--primary .md-nav__item .md-nav__item { padding-right:0; }
-  .md-nav--primary .md-nav__link { margin-top:.1rem; padding:.24rem .5rem; border-radius:.5rem; transition:background-color .15s, color .125s; }
-  .md-nav--primary .md-nav__container > .md-nav__link { margin-top:0; }
+  .md-nav--primary .md-nav__item { padding:0; }
+  .md-nav--primary > .md-nav__list > .md-nav__item { padding:0 .1rem; }
+  .md-nav--primary .md-nav__link { position:relative; margin-top:.1rem; padding:.25rem .45rem; gap:.3rem; border-radius:.5rem; line-height:1.32; color:var(--text); transition:background-color .15s, color .125s; }
   .md-nav--primary .md-nav__link:hover { background:var(--hover-bg); }
-  .md-nav--primary .md-nav__container:hover { background:var(--hover-bg); border-radius:.5rem; }
-  .md-nav--primary .md-nav__container > .md-nav__link:hover { background:none; }
   .md-nav--primary .md-nav__link--active, .md-nav--primary .md-nav__link--active:hover { background:var(--bg); }
+  /* entrée qui a sa propre page (lien) et se déplie (chevron) : une seule pastille pour les deux */
+  .md-nav--primary .md-nav__container { padding:0; gap:0; }
+  .md-nav--primary .md-nav__container > .md-nav__link { margin-top:0; }
+  .md-nav--primary .md-nav__container > label.md-nav__link { align-self:stretch; padding-left:.15rem; }
+  .md-nav--primary .md-nav__container:hover { background:var(--hover-bg); }
+  .md-nav--primary .md-nav__container > .md-nav__link:hover { background:none; }
+  .md-nav--primary .md-nav__container > a.md-nav__link--active { border-radius:.5rem 0 0 .5rem; }
+  .md-nav--primary .md-nav__container > label.md-nav__link--active { border-radius:0 .5rem .5rem 0; }
+  .md-nav--primary .md-nav__container > .md-nav__link--active:only-child { border-radius:.5rem; }
+  .md-nav--primary .md-nav__icon { width:.8rem; height:.8rem; margin-top:.05rem; color:var(--text-muted); }
+  .md-nav--primary .md-nav__link:hover .md-nav__icon { color:inherit; }
+
+  /* niveau 1 : les ouvrages et les séries se détachent les uns des autres */
+  .md-nav--primary nav[data-md-level="1"] > .md-nav__list > .md-nav__item + .md-nav__item { margin-top:.3rem; }
+  .md-nav--primary nav[data-md-level="1"] > .md-nav__list > .md-nav__item > .md-nav__link,
+  .md-nav--primary nav[data-md-level="1"] > .md-nav__list > .md-nav__item > .md-nav__container > a { font-size:.66rem; line-height:1.4; }
+  /* niveaux 2 et 3 : un rail par liste */
+  .md-nav--primary nav[data-md-level="1"] .md-nav > .md-nav__list { margin:.05rem 0 .3rem .45rem; padding:0 0 0 .3rem; background:linear-gradient(var(--rail), var(--rail)) 2px 0 / 1px 100% no-repeat; }
+  .md-nav--primary nav[data-md-level="2"] > .md-nav__list > .md-nav__item > .md-nav__link,
+  .md-nav--primary nav[data-md-level="2"] > .md-nav__list > .md-nav__item > .md-nav__container > a { font-weight:500; }
+  .md-nav--primary nav[data-md-level="2"] .md-nav .md-nav__link { font-size:.68rem; color:var(--menu-doux); }
+  /* la page courante : un carré sur le rail */
+  .md-nav--primary nav[data-md-level="1"] .md-nav a.md-nav__link--active::before { content:""; position:absolute; left:-.3rem; top:calc(.25rem + .66em - 2.5px); width:5px; height:5px; background:currentColor; }
+
+  /* le haut et le bas du menu s'effacent au lieu d'être coupés net */
+  .md-sidebar--primary .md-sidebar__scrollwrap { -webkit-mask-image:linear-gradient(to bottom, transparent, #000 .5rem, #000 calc(100% - 1.6rem), transparent); mask-image:linear-gradient(to bottom, transparent, #000 .5rem, #000 calc(100% - 1.6rem), transparent); }
 }
 @media screen and (min-width:60em) {
-  .md-sidebar--secondary .md-nav__title { font-family:var(--police-interface); font-weight:500; font-size:.66rem; color:var(--text-muted); background:var(--frame); box-shadow:0 0 .4rem .4rem var(--frame); padding-bottom:.4rem; }
-  .md-sidebar--secondary .md-nav__link { margin-top:.5em; line-height:1.35; }
+  .md-sidebar--secondary .md-nav__title { font-family:var(--police-titres); font-weight:500; font-size:.6rem; letter-spacing:-.01em; color:var(--text-muted); background:var(--frame); box-shadow:0 0 .4rem .4rem var(--frame); padding-bottom:.4rem; }
+  .md-nav--secondary > .md-nav__list { margin-left:.5rem; padding:0 0 .1rem .3rem; background:linear-gradient(var(--rail), var(--rail)) 2px 0 / 1px 100% no-repeat; }
+  .md-nav--secondary .md-nav__item { padding:0; }
+  .md-nav--secondary .md-nav__link { position:relative; margin-top:0; padding:.2rem .3rem .2rem .3rem; line-height:1.32; color:var(--text); }
+  .md-nav--secondary .md-nav .md-nav__link { padding-left:.9rem; font-size:.66rem; color:var(--menu-doux); }
+  .md-nav--secondary .md-nav .md-nav .md-nav__link { padding-left:1.5rem; }
+  .md-nav--secondary .md-nav__link--active::before { content:""; position:absolute; left:-.3rem; top:calc(.2rem + .66em - 2.5px); width:5px; height:5px; background:currentColor; }
+  .md-sidebar--secondary .md-sidebar__scrollwrap { -webkit-mask-image:linear-gradient(to bottom, #000 calc(100% - 1.6rem), transparent); mask-image:linear-gradient(to bottom, #000 calc(100% - 1.6rem), transparent); }
 }
 
 /* =====================  FIL D'ARIANE  ===================== */
@@ -232,6 +323,9 @@ button.rp-bouton { background:none; border:0; font:inherit; color:inherit; line-
 .md-typeset h2 { color:var(--h2-color); font-size:1.2rem; line-height:1.3; letter-spacing:-.03em; margin:2.4rem 0 .9rem; }
 .md-typeset h3 { color:var(--h3-color); font-size:1rem; line-height:1.35; letter-spacing:-.02em; margin:2rem 0 .7rem; }
 .md-typeset h4 { color:var(--h4-color); font-size:.86rem; line-height:1.4; letter-spacing:-.015em; margin:1.6rem 0 .6rem; }
+/* Un h3 placé juste sous un h2 garde le même espacement que les sections soient enveloppées ou non
+   par rp.js (sections pliables) : sinon la page bouge après son chargement et les ancres tombent à côté. */
+.md-typeset h2 + h3 { margin-top:2rem; }
 .md-typeset a { color:var(--link); text-decoration:underline; text-decoration-thickness:.055em; text-underline-offset:.17em; text-decoration-color:color-mix(in srgb, currentColor 38%, transparent); }
 .md-typeset a:hover { color:var(--link-hover); text-decoration-color:currentColor; }
 .md-typeset a:focus-visible { outline:2px solid var(--link); outline-offset:2px; border-radius:.2em; }
@@ -330,19 +424,21 @@ button.rp-bouton { background:none; border:0; font:inherit; color:inherit; line-
 .rp-carte:hover .rp-carte__titre { color:var(--link-hover); }
 .rp-carte__texte { font-size:.92rem; line-height:1.45; }
 .rp-carte__compte { font-family:var(--police-titres); font-size:.66rem; letter-spacing:-.02em; color:var(--text-muted); white-space:nowrap; }
+/* le corpus en pixels : un carré par volume, plus clair quand le texte est encore brut */
+.rp-carte__mesure { display:grid; justify-items:end; align-content:start; gap:.5rem; }
+.rp-carte__pixels { display:grid; grid-template-columns:repeat(20, 6px); gap:3px; }
+.rp-carte__pixels i { width:6px; height:6px; background:var(--nav-active); }
+.rp-carte__pixels i.b { background:color-mix(in srgb, var(--nav-active) 28%, var(--bg)); }
+.md-typeset .rp-portail__legende { margin:.5rem .9rem 0; text-align:right; font-family:var(--police-interface); font-size:.66rem; line-height:1.5; color:var(--text-muted); }
 @media screen and (max-width:44.9375em) {
   .md-typeset a.rp-carte { grid-template-columns:1fr auto; }
   .rp-carte__texte { grid-column:1 / -1; grid-row:2; }
+  .rp-carte__mesure { display:contents; }
+  .rp-carte__pixels { grid-column:1 / -1; grid-row:3; justify-self:start; margin-top:.35rem; }
+  .md-typeset .rp-portail__legende { text-align:left; margin:.5rem .5rem 0; }
 }
-.md-typeset .rp-rayon + h1 { font-size:1.9rem; margin-top:.9rem; }
-/* rayonnage en pixels de l'accueil */
-.rp-rayon { display:block; width:14rem; height:auto; max-width:60%; margin:1.6rem 0 1.2rem; }
-.rp-rayon__a { fill:var(--logo-a); } .rp-rayon__b { fill:var(--logo-d); } .rp-rayon__c { fill:var(--logo-b); }
-.rp-rayon__d { fill:var(--logo-c); } .rp-rayon__e { fill:var(--link); } .rp-rayon__f { fill:var(--nav-active); }
-.rp-rayon__g { fill:var(--em-color); } .rp-rayon__papier { fill:var(--bg); opacity:.82; } .rp-rayon__sol { fill:var(--frame); }
-@media screen and (min-width:60em) {
-  .rp-rayon { float:right; width:15rem; margin:.5rem 0 1.5rem 2.5rem; }
-}
+/* accueil : un titre un peu plus grand qu'ailleurs */
+.md-content__inner:has(> .rp-portail) > h1 { font-size:1.9rem; margin-top:.9rem; }
 /* accueil : la feuille n'occupe pas toute la largeur de l'écran */
 @media screen and (min-width:76.25em) {
   .md-sidebar--primary[hidden] ~ .md-content { max-width:46rem; margin:0 auto; }
@@ -401,6 +497,7 @@ html .md-footer-meta.md-typeset .rp-pied a:hover { color:var(--nav-hover); }
   .md-nav--primary .md-nav__title .md-nav__button.md-logo { display:none; }
   .md-nav--primary .md-nav__item { border-top:0; }
   .md-nav--primary .md-nav__link { padding-top:.65rem; padding-bottom:.65rem; }
+  .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link { font-family:var(--police-titres); font-weight:600; letter-spacing:-.02em; }
   .md-nav__source { display:none; }
 }
 @media screen and (max-width:59.9375em) {
@@ -427,8 +524,7 @@ html .md-footer-meta.md-typeset .rp-pied a:hover { color:var(--nav-hover); }
 
 /* 1. La barre d'outils se cale SOUS l'en-tête au lieu de passer dessus.
       (les pages posent « top:0; z-index:5 » ; l'en-tête Material est à 4) */
-:root { --rp-header-h: 2.6rem; }
-body #dp .dp-outils { top: var(--rp-header-h); z-index: 3; }
+body #dp .dp-outils { top: calc(var(--rp-entete) + var(--rp-jeu)); z-index: 3; }   /* au ras du haut de la feuille, entre ses deux coins */
 
 body #dp .dp-bouton { border-radius: .5em; }
 
@@ -456,6 +552,8 @@ body #dp .dp-pli[data-rang="titre"] > .dp-titre:hover .dp-texte {
 @media print {
   body[data-md-color-scheme] { background:#fff; }
   .md-content { border-radius:0; padding:0; }
+  .md-content::before { display:none; }
+  .md-main { margin-top:0; padding-top:0; }
   .rp-header__outils, #rp-reglages, .md-path { display:none !important; }
   .collapsible-content.collapsed { display:block; }
 }

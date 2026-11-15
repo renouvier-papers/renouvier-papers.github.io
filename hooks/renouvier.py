@@ -1,6 +1,6 @@
 """Renouvier Papers : crochets de construction du site (MkDocs, clé « hooks » de mkdocs.yml).
 
-Ce fichier fait quatre choses, toutes au moment où le site est construit. Aucun fichier de
+Ce fichier fait cinq choses, toutes au moment où le site est construit. Aucun fichier de
 docs/ n'est modifié.
 
 1. SOMMAIRES. Une page dont l'en-tête YAML contient « sommaire: rubrique » reçoit la liste
@@ -12,6 +12,8 @@ docs/ n'est modifié.
                 notices fixe l'ordre des groupes, les groupes sans notice suivent dans l'ordre du menu
      cartes:    (portail) intitulé d'une rubrique -> « texte », « unite » (« volume, volumes ») et
                 « groupes » (« auteur, auteurs ») de sa carte
+     pixels:    (portail) « non » pour retirer, à côté de chaque décompte, la rangée de carrés
+                (un carré par texte compté, plus pâle quand le texte est encore brut)
    Chaque ligne indique l'état du texte, lu dans le fichier : « brut » si la page porte le
    bandeau « texte brut non corrigé », « à venir » (sans lien) si la page est vide ou absente.
 
@@ -34,6 +36,13 @@ docs/ n'est modifié.
    garde donc que les titres (ouvrages, chapitres, paragraphes) et les premières lignes de chaque
    section ; les autres pages restent indexées en entier.
 
+5. MENU LATÉRAL. Les intitulés longs du menu sont hiérarchisés : l'auteur d'un article passe en
+   surtitre au-dessus du titre (« F. Pillon — L'évolution historique de l'atomisme »), une série
+   (« — 1re série ») ou une précision finale entre parenthèses (« (1876) ») passent au second
+   plan, un titre très long est limité à trois lignes. Une entrée dont le fichier n'existe pas
+   encore porte la mention « à venir » (et rp.js lui retire son lien, qui ne mènerait nulle part).
+   Les intitulés de mkdocs.yml ne sont pas modifiés : seul leur affichage dans le menu l'est.
+
 En cas d'imprévu, chaque fonction laisse la page telle quelle et écrit un avertissement dans
 le journal de construction : le site est construit quand même.
 """
@@ -43,7 +52,9 @@ import re
 import unicodedata
 from collections import Counter
 
-from mkdocs.structure.nav import Section
+from markupsafe import Markup
+
+from mkdocs.structure.nav import Link, Section
 from mkdocs.structure.pages import Page
 from mkdocs.utils import get_relative_url
 from mkdocs.utils import meta as mk_meta
@@ -147,6 +158,81 @@ def _volumes(rubrique):
 
 
 # =====================================================================================
+#  Intitulés du menu latéral
+# =====================================================================================
+# Le menu latéral est étroit, les intitulés des revues sont longs. Un article (« F. Pillon —
+# L'évolution historique de l'atomisme ») y est rendu sur deux registres : l'auteur en surtitre,
+# le titre dessous. Une série (« — 1re série ») ou une précision finale entre parenthèses
+# (« (1876) ») passent au second plan. L'intitulé lui-même n'est pas modifié : seul son balisage
+# dans le menu l'est, par l'attribut « typeset » que lit le gabarit du menu de Material. Onglets,
+# fil d'Ariane, titres de page et recherche gardent l'intitulé tel quel.
+_SERIE = re.compile(r'^(?:\d+(?:re|er|e)|première|deuxième|seconde|nouvelle) série$', re.I)
+_ORDINAL = re.compile(r'^\d+(?:re|er|e)\b')
+_PRECISION = re.compile(r'^(.*\S)\s*(\([^()]{2,60}\))$')
+_LONG = 64       # au-delà, un titre est limité à trois lignes dans le menu (sauf page courante)
+
+
+def decouper_intitule(intitule):
+    """Renvoie (surtitre, titre, série, précision) ; chaîne vide pour une partie absente.
+
+    « F. Pillon — La critique de l'infini »   -> ('F. Pillon', "La critique de l'infini", '', '')
+    « La Critique philosophique — 1re série » -> ('', 'La Critique philosophique', '1re série', '')
+    « Uchronie (1876) »                       -> ('', 'Uchronie', '', '(1876)')
+    « 1re année (1872) »                      -> ('', '1re année (1872)', '', '') : rien à hiérarchiser
+    """
+    surtitre = serie = precision = ''
+    titre = (intitule or '').strip()
+    avant, tiret, apres = titre.partition(' — ')
+    if tiret:
+        avant, apres = avant.strip(), apres.strip()
+        if _SERIE.match(apres):
+            titre, serie = avant, apres
+        elif avant and apres and len(avant) <= 30 and len(avant.split()) <= 3:
+            surtitre, titre = avant, apres
+    m = _PRECISION.match(titre)
+    if m and not _ORDINAL.match(titre):
+        titre, precision = m.group(1), m.group(2)
+    return surtitre, titre, serie, precision
+
+
+def _balises_intitule(intitule, a_venir=False):
+    """Le balisage de l'intitulé pour le menu, ou None quand le texte nu suffit."""
+    surtitre, titre, serie, precision = decouper_intitule(intitule)
+    if not (surtitre or serie or precision or a_venir) and len(titre) < _LONG:
+        return None
+    e = html.escape
+    bulle = f' title="{e(intitule, quote=True)}"' if len(titre) >= _LONG else ''
+    sortie = ''
+    if surtitre:
+        sortie += f'<span class="rp-nav__sur">{e(surtitre)}</span><span class="rp-nav__sep"> — </span>'
+    sortie += f'<span class="rp-nav__titre"{bulle}>{e(titre)}'
+    if precision:
+        insecable = ' rp-nav__insecable' if len(precision) <= 14 else ''
+        sortie += f' <span class="rp-nav__precision{insecable}">{e(precision)}</span>'
+    sortie += '</span>'
+    if serie:
+        sortie += f'<span class="rp-nav__sep"> — </span><span class="rp-nav__serie">{e(serie)}</span>'
+    if a_venir:
+        sortie += '<span class="rp-nav__avenir">à venir</span>'
+    return Markup(sortie)
+
+
+def _page_manquante(item):
+    """Une entrée de mkdocs.yml dont le fichier n'existe pas encore : MkDocs en fait un lien brut vers « x.md »."""
+    url = getattr(item, 'url', '') or ''
+    return isinstance(item, Link) and url.endswith('.md') and not re.match(r'^(?:[a-z][a-z0-9+.-]*:|//)', url, re.I)
+
+
+def _intitules(items):
+    for item in items:
+        balises = _balises_intitule(getattr(item, 'title', None), _page_manquante(item))
+        if balises is not None:
+            item.typeset = {'title': balises}
+        if isinstance(item, Section):
+            _intitules(item.children)
+
+
+# =====================================================================================
 #  1. Sommaires
 # =====================================================================================
 def on_nav(nav, config, files):
@@ -168,6 +254,10 @@ def on_nav(nav, config, files):
                 _ancrer(groupe, index, vues)
     except Exception as e:  # ne jamais empêcher la construction
         log.warning('Renouvier Papers : ancres du fil d\'Ariane non posées (%s)', e)
+    try:
+        _intitules(nav.items)
+    except Exception as e:
+        log.warning('Renouvier Papers : intitulés du menu non balisés (%s)', e)
     return nav
 
 
@@ -350,7 +440,10 @@ def sommaire_portail(page):
     if nav is None:
         return ''
     reglages = page.meta.get('cartes') or {}
-    cartes = []
+    # Le corpus en pixels : un carré par texte compté, plus pâle quand le texte est encore brut.
+    # Se coupe depuis l'en-tête de la page d'accueil : « pixels: non ».
+    avec_pixels = str(page.meta.get('pixels', 'oui')).strip().lower() not in ('non', 'no', 'false', '0')
+    cartes, bruts, carres = [], 0, 0
     for rubrique in nav.items:
         if not isinstance(rubrique, Section):
             continue
@@ -361,7 +454,14 @@ def sommaire_portail(page):
         if isinstance(r, str):
             r = {'texte': r}
         pages = [p for p in _volumes(rubrique) if p is not index]
-        n = sum(1 for p in pages if etat(p) in ('ok', 'brut'))
+        etats = [e for e in (etat(p) for p in pages) if e in ('ok', 'brut')]
+        n = len(etats)
+        pixels = ''
+        if n and avec_pixels:
+            bruts += etats.count('brut')
+            carres += n
+            pixels = ('<span class="rp-carte__pixels" aria-hidden="true">'
+                      + ''.join('<i class="b"></i>' if e == 'brut' else '<i></i>' for e in etats) + '</span>')
         if n:
             compte = _nombre(n, _paire(r.get('unite'), ('texte', 'textes')))
             groupes = _paire(r.get('groupes'), None)
@@ -374,9 +474,13 @@ def sommaire_portail(page):
             f'<a class="rp-carte" href="{_lien(index, page)}">'
             f'<span class="rp-carte__titre">{html.escape(rubrique.title)}</span>'
             f'<span class="rp-carte__texte">{html.escape(str(r.get("texte") or ""))}</span>'
-            f'<span class="rp-carte__compte">{html.escape(compte)}</span>'
+            f'<span class="rp-carte__mesure"><span class="rp-carte__compte">{html.escape(compte)}</span>{pixels}</span>'
             '</a>')
-    return '<div class="rp-portail" data-search-exclude>\n' + '\n'.join(cartes) + '\n</div>'
+    legende = ''
+    if carres:
+        texte = 'Un carré par texte' + (' ; les carrés pâles sont des textes bruts, pas encore relus.' if bruts else '.')
+        legende = f'\n<p class="rp-portail__legende">{texte}</p>'
+    return '<div class="rp-portail" data-search-exclude>\n' + '\n'.join(cartes) + legende + '\n</div>'
 
 
 def inserer_sommaire(markdown, page):
