@@ -12,8 +12,9 @@ docs/ n'est modifié.
                 notices fixe l'ordre des groupes, les groupes sans notice suivent dans l'ordre du menu
      cartes:    (portail) intitulé d'une rubrique -> « texte », « unite » (« volume, volumes ») et
                 « groupes » (« auteur, auteurs ») de sa carte
-     pixels:    (portail) « non » pour retirer, à côté de chaque décompte, la rangée de carrés
-                (un carré par texte compté, plus pâle quand le texte est encore brut)
+     pixels:    (portail) « non » pour retirer, sous chaque décompte, les carrés et le relevé de la
+                relecture (un carré par volume, plein quand la relecture est faite, vide quand le
+                texte est encore brut ; calculé à chaque construction, rien à tenir à jour)
    Chaque ligne indique l'état du texte, lu dans le fichier : « brut » si la page porte le
    bandeau « texte brut non corrigé », « à venir » (sans lien) si la page est vide ou absente.
 
@@ -297,6 +298,14 @@ def _marque(e):
     return f'<span class="rp-etat rp-etat--{"brut" if e == "brut" else "avenir"}" title="{bulle}">{mot}</span>'
 
 
+def _carre(item, e):
+    """Le carré d'état d'un volume transcrit, même signe que sur l'accueil : plein, la relecture est
+    faite ; vide, le texte est encore brut. Rien pour les pages qui ne sont pas des transcriptions."""
+    if e not in ('ok', 'brut') or not isinstance(item, Page) or not item.file.src_uri.startswith(TRANSCRIPTIONS):
+        return ''
+    return '<i class="rp-carre%s" aria-hidden="true"></i>' % (' rp-carre--vide' if e == 'brut' else '')
+
+
 def _ligne(item, page):
     """Une ligne du sommaire : un texte d'un seul tenant."""
     titre, date = _titre_et_date(item.title)
@@ -306,7 +315,7 @@ def _ligne(item, page):
         d = entete(item).get('description')
         if d:
             desc = f'<span class="rp-cat__desc">{html.escape(str(d))}</span>'
-    corps = (f'<span class="rp-cat__corps"><span class="rp-cat__titre">{html.escape(titre)}</span>{desc}</span>'
+    corps = (f'<span class="rp-cat__corps"><span class="rp-cat__titre">{_carre(item, e)}{html.escape(titre)}</span>{desc}</span>'
              f'{_marque(e)}'
              + (f'<span class="rp-cat__date">{html.escape(date)}</span>' if date else ''))
     if e in ('vide', 'absent'):
@@ -338,11 +347,14 @@ def _ligne_multiple(section, page):
         else:
             brut = '' if tous_bruts or e != 'brut' else ' is-brut'
             bulle = ' title="Texte brut : pas encore relu"' if brut else ''
-            puces.append(f'<a class="rp-puce{brut}" href="{_lien(enfant, page)}"{bulle}>{nom}</a>')
+            puces.append(f'<a class="rp-puce{brut}" href="{_lien(enfant, page)}"{bulle}>{_carre(enfant, e)}{nom}</a>')
     ident = f' id="{section.rp_ancre}"' if getattr(section, 'rp_ancre', None) else ''
     nom_titre = html.escape(titre)
     if index is not None and etat(index) not in ('vide', 'absent'):
         nom_titre = f'<a class="rp-cat__lien" href="{_lien(index, page)}">{nom_titre}</a>'
+    if any(_carre(p, e) for p, e in zip(enfants, etats)):
+        # les carrés sont dans les puces : un carré invisible garde le titre aligné sur ceux des autres lignes
+        nom_titre = '<i class="rp-carre rp-carre--rien" aria-hidden="true"></i>' + nom_titre
     return (f'<li class="rp-cat__item rp-cat__item--multiple"{ident}><div class="rp-cat__ligne">'
             f'<span class="rp-cat__corps"><span class="rp-cat__titre">{nom_titre}</span>'
             f'<span class="rp-cat__tomes">{"".join(puces)}</span></span>'
@@ -388,8 +400,10 @@ def _nombre(n, paire):
     return f'{n}\u00a0{paire[0] if n == 1 else paire[1]}'
 
 
-LEGENDE = ('La mention « brut » signale un texte issu de la reconnaissance optique de caractères, '
-           'qui n\'a pas encore été relu.')
+LEGENDE = ('<i class="rp-carre" aria-hidden="true"></i>Carré plein : la relecture est faite. '
+           '<i class="rp-carre rp-carre--vide" aria-hidden="true"></i>Carré vide, mention « brut » : texte issu '
+           'de la reconnaissance optique de caractères, qui n\'a pas encore été relu.')
+LEGENDE_FAITE = '<i class="rp-carre" aria-hidden="true"></i>Carré plein : la relecture du texte est faite.'
 
 
 def sommaire_rubrique(page):
@@ -430,8 +444,11 @@ def sommaire_rubrique(page):
         liens = ''.join(f'<a class="rp-puce" href="#{getattr(g, "rp_ancre", None) or ancre(g.title)}">'
                         f'{html.escape(g.title)}</a>' for g in groupes)
         blocs.insert(0, f'<nav class="rp-index" aria-label="Accès direct" data-search-exclude>{liens}</nav>')
-    if any(etat(p) == 'brut' for p in _pages(rubrique)):
+    etats = {etat(p) for p in _pages(rubrique)}
+    if 'brut' in etats:
         blocs.insert(0, f'{LEGENDE}\n{{ .rp-legende }}')
+    elif 'ok' in etats and page.file.src_uri.startswith(TRANSCRIPTIONS):
+        blocs.insert(0, f'{LEGENDE_FAITE}\n{{ .rp-legende }}')
     return '\n\n'.join(b for b in blocs if b)
 
 
@@ -440,8 +457,10 @@ def sommaire_portail(page):
     if nav is None:
         return ''
     reglages = page.meta.get('cartes') or {}
-    # Le corpus en pixels : un carré par texte compté, plus pâle quand le texte est encore brut.
-    # Se coupe depuis l'en-tête de la page d'accueil : « pixels: non ».
+    # Le fonds en pixels, pour les rubriques de transcriptions : un carré par volume, plein quand la
+    # relecture est faite, vide quand le texte est encore brut, et le décompte en toutes lettres.
+    # Rien à tenir à jour : l'état est lu dans chaque fichier (bandeau « texte brut ») à chaque
+    # construction du site. Se coupe depuis l'en-tête de la page d'accueil : « pixels: non ».
     avec_pixels = str(page.meta.get('pixels', 'oui')).strip().lower() not in ('non', 'no', 'false', '0')
     cartes, bruts, carres = [], 0, 0
     for rubrique in nav.items:
@@ -457,11 +476,14 @@ def sommaire_portail(page):
         etats = [e for e in (etat(p) for p in pages) if e in ('ok', 'brut')]
         n = len(etats)
         pixels = ''
-        if n and avec_pixels:
-            bruts += etats.count('brut')
+        if n and avec_pixels and index.file.src_uri.startswith(TRANSCRIPTIONS):
+            b = etats.count('brut')
+            bruts += b
             carres += n
+            releve = 'relecture complète' if not b else f'relecture : {n - b} sur {n}'
             pixels = ('<span class="rp-carte__pixels" aria-hidden="true">'
-                      + ''.join('<i class="b"></i>' if e == 'brut' else '<i></i>' for e in etats) + '</span>')
+                      + ''.join('<i class="b"></i>' if e == 'brut' else '<i></i>' for e in etats) + '</span>'
+                      + f'<span class="rp-carte__etat">{releve}</span>')
         if n:
             compte = _nombre(n, _paire(r.get('unite'), ('texte', 'textes')))
             groupes = _paire(r.get('groupes'), None)
@@ -478,7 +500,9 @@ def sommaire_portail(page):
             '</a>')
     legende = ''
     if carres:
-        texte = 'Un carré par texte' + (' ; les carrés pâles sont des textes bruts, pas encore relus.' if bruts else '.')
+        texte = ('Un carré par volume : plein, la relecture est faite ; vide, le texte est encore brut '
+                 '(reconnaissance de caractères en attente de relecture).' if bruts else
+                 'Un carré par volume : la relecture de tous les textes est faite.')
         legende = f'\n<p class="rp-portail__legende">{texte}</p>'
     return '<div class="rp-portail" data-search-exclude>\n' + '\n'.join(cartes) + legende + '\n</div>'
 

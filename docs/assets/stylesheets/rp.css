@@ -77,6 +77,10 @@ html.theme-dark, html.theme-cb-dark { color-scheme: dark; }
   --alerte-bg: color-mix(in srgb, var(--accent3) 11%, var(--bg));  /* avertissement */
   --ligne-survol: color-mix(in srgb, var(--frame) 70%, var(--bg));
   --rail: color-mix(in srgb, var(--text-muted) 32%, transparent);    /* rails des menus */
+  /* La couleur dit le rang, partout : premier niveau rouge, deuxième bleu canard, troisième orange,
+     quatrième vert (dans chaque mode, les couleurs des titres h1 à h4). Titres du texte, rails du
+     menu, carrés de la table des matières et du fil d'Ariane suivent la même règle. */
+  --rang1:var(--h1-color); --rang2:var(--h2-color); --rang3:var(--h3-color); --rang4:var(--h4-color);
   --menu-doux: color-mix(in srgb, var(--text) 82%, var(--frame));    /* troisième niveau du menu */
   --rayon: .6rem;          /* encarts, champs, lignes */
   --rayon-feuille: 1rem;   /* la feuille de lecture */
@@ -186,6 +190,9 @@ button.rp-bouton { background:none; border:0; font:inherit; color:inherit; line-
 .md-tabs__link { margin:0; padding:.34rem .62rem; border-radius:.5rem; font-size:.7rem; font-weight:500; letter-spacing:-.01em; opacity:1; color:var(--text-muted); text-transform:none; transition:background-color .15s, color .15s; }
 .md-tabs__link:hover { color:var(--text); background:var(--hover-bg); }
 .md-tabs__item--active .md-tabs__link, .md-tabs__link--active { color:var(--text) !important; font-weight:700; background:var(--bg); }
+/* le carré aubergine dit « vous êtes ici » : rubrique dans l'en-tête, page dans le menu */
+.md-tabs__item--active .md-tabs__link { display:inline-flex; align-items:center; gap:.4rem; }
+.md-tabs__item--active .md-tabs__link::before { content:""; flex:0 0 5px; width:5px; height:5px; background:var(--nav-active); }
 
 /* recherche */
 .md-search__form { background:var(--bg); box-shadow:none; border:0; overflow:hidden; }
@@ -289,24 +296,39 @@ button.rp-bouton { background:none; border:0; font:inherit; color:inherit; line-
   .md-nav--primary nav[data-md-level="1"] > .md-nav__list > .md-nav__item > .md-nav__link,
   .md-nav--primary nav[data-md-level="1"] > .md-nav__list > .md-nav__item > .md-nav__container > a { font-size:.66rem; line-height:1.4; }
   /* niveaux 2 et 3 : un rail par liste */
-  .md-nav--primary nav[data-md-level="1"] .md-nav > .md-nav__list { margin:.05rem 0 .3rem .45rem; padding:0 0 0 .3rem; background:linear-gradient(var(--rail), var(--rail)) 2px 0 / 1px 100% no-repeat; }
+  .md-nav--primary nav[data-md-level="1"] .md-nav > .md-nav__list { margin:.05rem 0 .3rem .45rem; padding:0 0 0 .3rem; background:linear-gradient(var(--rail-rang, var(--rail)), var(--rail-rang, var(--rail))) 2px 0 / 1px 100% no-repeat; }
+  /* … et chaque rail prend la couleur de son rang, comme les guides d'indentation d'un éditeur de code */
+  .md-nav--primary nav[data-md-level="2"] > .md-nav__list { --rail-rang:color-mix(in srgb, var(--rang2) 78%, transparent); }
+  .md-nav--primary nav[data-md-level="3"] > .md-nav__list { --rail-rang:color-mix(in srgb, var(--rang3) 78%, transparent); }
+  .md-nav--primary nav[data-md-level="4"] > .md-nav__list { --rail-rang:color-mix(in srgb, var(--rang4) 78%, transparent); }
+  /* premier rang : un carré rouge devant chaque ouvrage, série ou auteur */
+  .md-nav--primary nav[data-md-level="1"] > .md-nav__list > .md-nav__item > .md-nav__link::before,
+  .md-nav--primary nav[data-md-level="1"] > .md-nav__list > .md-nav__item > .md-nav__container > a::before { content:""; flex:0 0 5px; width:5px; height:5px; margin-top:calc(.7em - 2.5px); background:var(--rang1); }
   .md-nav--primary nav[data-md-level="2"] > .md-nav__list > .md-nav__item > .md-nav__link,
   .md-nav--primary nav[data-md-level="2"] > .md-nav__list > .md-nav__item > .md-nav__container > a { font-weight:500; }
   .md-nav--primary nav[data-md-level="2"] .md-nav .md-nav__link { font-size:.68rem; color:var(--menu-doux); }
   /* la page courante : un carré sur le rail */
   .md-nav--primary nav[data-md-level="1"] .md-nav a.md-nav__link--active::before { content:""; position:absolute; left:-.3rem; top:calc(.25rem + .66em - 2.5px); width:5px; height:5px; background:currentColor; }
 
-  /* le haut et le bas du menu s'effacent au lieu d'être coupés net */
-  .md-sidebar--primary .md-sidebar__scrollwrap { -webkit-mask-image:linear-gradient(to bottom, transparent, #000 .5rem, #000 calc(100% - 1.6rem), transparent); mask-image:linear-gradient(to bottom, transparent, #000 .5rem, #000 calc(100% - 1.6rem), transparent); }
+  /* Le menu défile jusque sous l'en-tête, où ses entrées disparaissent sans fondu ni coupe à mi-hauteur
+     (les marges du menu passent à l'intérieur de la zone qui défile). Seul le bas s'efface. */
+  .md-sidebar--primary { padding-top:0; padding-bottom:0; }
+  .md-sidebar--primary .md-sidebar__inner { padding-top:1.2rem; padding-bottom:1.8rem; }
+  .md-sidebar--primary .md-sidebar__scrollwrap { -webkit-mask-image:linear-gradient(to bottom, #000 calc(100% - 1.6rem), transparent); mask-image:linear-gradient(to bottom, #000 calc(100% - 1.6rem), transparent); }
 }
 @media screen and (min-width:60em) {
-  .md-sidebar--secondary .md-nav__title { font-family:var(--police-titres); font-weight:500; font-size:.6rem; letter-spacing:-.01em; color:var(--text-muted); background:var(--frame); box-shadow:0 0 .4rem .4rem var(--frame); padding-bottom:.4rem; }
+  .md-sidebar--secondary .md-nav__title { font-family:var(--police-titres); font-weight:500; font-size:.6rem; letter-spacing:-.01em; color:var(--text-muted); background:var(--frame); box-shadow:none; padding-bottom:.5rem; }
   .md-nav--secondary > .md-nav__list { margin-left:.5rem; padding:0 0 .1rem .3rem; background:linear-gradient(var(--rail), var(--rail)) 2px 0 / 1px 100% no-repeat; }
   .md-nav--secondary .md-nav__item { padding:0; }
   .md-nav--secondary .md-nav__link { position:relative; margin-top:0; padding:.2rem .3rem .2rem .3rem; line-height:1.32; color:var(--text); }
   .md-nav--secondary .md-nav .md-nav__link { padding-left:.9rem; font-size:.66rem; color:var(--menu-doux); }
   .md-nav--secondary .md-nav .md-nav .md-nav__link { padding-left:1.5rem; }
-  .md-nav--secondary .md-nav__link--active::before { content:""; position:absolute; left:-.3rem; top:calc(.2rem + .66em - 2.5px); width:5px; height:5px; background:currentColor; }
+  /* un carré par entrée, à la couleur du titre correspondant dans le texte (h2, h3, h4) ; celui de la section en cours est plein */
+  .md-nav--secondary .md-nav__link::before { content:""; position:absolute; left:-.3rem; top:calc(.2rem + .66em - 2.5px); width:5px; height:5px; background:var(--rang2); opacity:.5; }
+  .md-nav--secondary .md-nav .md-nav__link::before { background:var(--rang3); }
+  .md-nav--secondary .md-nav .md-nav .md-nav__link::before { background:var(--rang4); }
+  .md-nav--secondary .md-nav__link:hover::before { opacity:1; }
+  .md-nav--secondary .md-nav__link--active::before { left:calc(-.3rem - 1px); top:calc(.2rem + .66em - 3.5px); width:7px; height:7px; opacity:1; }
   .md-sidebar--secondary .md-sidebar__scrollwrap { -webkit-mask-image:linear-gradient(to bottom, #000 calc(100% - 1.6rem), transparent); mask-image:linear-gradient(to bottom, #000 calc(100% - 1.6rem), transparent); }
 }
 
@@ -314,7 +336,11 @@ button.rp-bouton { background:none; border:0; font:inherit; color:inherit; line-
 .md-path { font-size:.62rem; letter-spacing:-.01em; padding-top:1.1rem; margin:0 .8rem; }
 .md-path__link { color:var(--text-muted); border-radius:.3rem; }
 .md-path__link:hover, .md-path__link:focus { color:var(--nav-hover); }
-.md-path__item:not(:first-child)::before { background-color:var(--text-muted); opacity:.6; }
+.md-path__item:not(:first-child) { align-items:center; gap:.45rem; }
+.md-path__item:not(:first-child)::before { width:5px; height:5px; margin-left:.25rem; -webkit-mask-image:none; mask-image:none; background-color:var(--rang1); }
+.md-path__item:nth-child(3)::before { background-color:var(--rang2); }
+.md-path__item:nth-child(4)::before { background-color:var(--rang3); }
+.md-path__item:nth-child(n+5)::before { background-color:var(--rang4); }
 @media screen and (min-width:76.25em) { .md-path { margin:0 1.2rem; } }
 
 /* =====================  CONTENU  ===================== */
@@ -405,7 +431,13 @@ button.rp-bouton { background:none; border:0; font:inherit; color:inherit; line-
 .rp-cat__tomes { display:inline-flex; flex-wrap:wrap; gap:.3rem; }
 .md-typeset .rp-puce { font-family:var(--police-titres); font-size:.64rem; font-weight:500; letter-spacing:-.02em; padding:.2rem .55rem; border-radius:.45rem; background:var(--bg-sidebar); color:var(--text); text-decoration:none; white-space:nowrap; transition:background-color .15s, color .15s; }
 .md-typeset a.rp-puce:hover, .md-typeset a.rp-puce:focus-visible { background:var(--hover-bg); color:var(--link-hover); }
-.md-typeset a.rp-puce.is-brut { box-shadow:inset 0 -.12rem 0 var(--accent3); }
+/* l'état d'un volume, même signe que sur l'accueil : carré plein, la relecture est faite ; carré vide, le texte est brut */
+.rp-carre { display:inline-block; width:6px; height:6px; margin-right:.55rem; vertical-align:.12em; background:var(--accent4); }
+.rp-carre--vide { background:none; box-shadow:inset 0 0 0 1px color-mix(in srgb, var(--text-muted) 60%, transparent); }
+.rp-carre--rien { background:none; }
+.rp-puce .rp-carre { width:5px; height:5px; margin-right:.38rem; vertical-align:.08em; }
+.rp-legende .rp-carre { margin-right:.35rem; }
+.rp-legende .rp-carre--vide { margin-left:.9rem; }
 .rp-puce.is-avenir, .rp-cat__item.is-avenir .rp-cat__titre { color:var(--text-muted); font-weight:400; }
 .rp-puce.is-avenir { background:none; outline:1px dashed var(--border); outline-offset:-1px; }
 .rp-etat { flex:0 0 auto; font-family:var(--police-titres); font-size:.6rem; font-weight:500; letter-spacing:-.01em; padding:.1rem .45rem; border-radius:.4rem; white-space:nowrap; }
@@ -427,14 +459,16 @@ button.rp-bouton { background:none; border:0; font:inherit; color:inherit; line-
 /* le corpus en pixels : un carré par volume, plus clair quand le texte est encore brut */
 .rp-carte__mesure { display:grid; justify-items:end; align-content:start; gap:.5rem; }
 .rp-carte__pixels { display:grid; grid-template-columns:repeat(20, 6px); gap:3px; }
-.rp-carte__pixels i { width:6px; height:6px; background:var(--nav-active); }
-.rp-carte__pixels i.b { background:color-mix(in srgb, var(--nav-active) 28%, var(--bg)); }
+.rp-carte__pixels i { width:6px; height:6px; background:var(--accent4); }                                /* relecture faite : plein */
+.rp-carte__pixels i.b { background:none; box-shadow:inset 0 0 0 1px color-mix(in srgb, var(--text-muted) 60%, transparent); }   /* texte brut : vide */
+.rp-carte__etat { font-family:var(--police-titres); font-size:.6rem; letter-spacing:-.02em; color:var(--text-muted); white-space:nowrap; }
 .md-typeset .rp-portail__legende { margin:.5rem .9rem 0; text-align:right; font-family:var(--police-interface); font-size:.66rem; line-height:1.5; color:var(--text-muted); }
 @media screen and (max-width:44.9375em) {
   .md-typeset a.rp-carte { grid-template-columns:1fr auto; }
   .rp-carte__texte { grid-column:1 / -1; grid-row:2; }
   .rp-carte__mesure { display:contents; }
   .rp-carte__pixels { grid-column:1 / -1; grid-row:3; justify-self:start; margin-top:.35rem; }
+  .rp-carte__etat { grid-column:1 / -1; grid-row:4; }
   .md-typeset .rp-portail__legende { text-align:left; margin:.5rem .5rem 0; }
 }
 /* accueil : un titre un peu plus grand qu'ailleurs */
