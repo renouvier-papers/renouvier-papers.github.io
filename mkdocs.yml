@@ -30,6 +30,7 @@ theme:
   - content.code.copy
   - navigation.path
   - navigation.footer
+  - content.footnote.tooltips
 extra_css:
 - assets/stylesheets/rp.css
 extra_javascript:

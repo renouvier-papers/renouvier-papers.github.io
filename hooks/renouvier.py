@@ -1,6 +1,6 @@
 """Renouvier Papers : crochets de construction du site (MkDocs, clé « hooks » de mkdocs.yml).
 
-Ce fichier fait cinq choses, toutes au moment où le site est construit. Aucun fichier de
+Ce fichier fait six choses, toutes au moment où le site est construit. Aucun fichier de
 docs/ n'est modifié.
 
 1. SOMMAIRES. Une page dont l'en-tête YAML contient « sommaire: rubrique » reçoit la liste
@@ -43,6 +43,11 @@ docs/ n'est modifié.
    plan, un titre très long est limité à trois lignes. Une entrée dont le fichier n'existe pas
    encore porte la mention « à venir » (et rp.js lui retire son lien, qui ne mènerait nulle part).
    Les intitulés de mkdocs.yml ne sont pas modifiés : seul leur affichage dans le menu l'est.
+
+6. GRAND TITRE ET ESPACES INSÉCABLES. Un titre de page long est composé dans un corps plus petit
+   et sa précision finale entre parenthèses passe au second plan. Dans les transcriptions, une
+   espace insécable est posée devant ; : ! ? » et après « là où il n'y en avait pas, pour qu'aucune
+   ligne ne commence par un signe de ponctuation. Rien n'est modifié dans les fichiers.
 
 En cas d'imprévu, chaque fonction laisse la page telle quelle et écrit un avertissement dans
 le journal de construction : le site est construit quand même.
@@ -840,6 +845,72 @@ def on_page_context(context, page, config, nav):
     except Exception as e:
         log.warning('Renouvier Papers : index de recherche non allégé pour %s (%s)', page.file.src_path, e)
     return context
+
+
+# =====================================================================================
+#  6. Dernières retouches de la page : grand titre, espaces insécables
+# =====================================================================================
+# Ces deux retouches portent sur la page telle qu'elle est affichée ; les fichiers ne changent pas.
+#
+# a) Le grand titre. Un titre long (un article de revue, avec son sous-titre et son auteur) est
+#    composé dans un corps plus petit, et sa précision finale entre parenthèses, « (Renouvier) »,
+#    « (1864) », passe au second plan, comme dans le menu.
+_H1 = re.compile(r'<h1\b([^>]*)>(.*?)</h1>', re.S)
+_PRECISION_H1 = re.compile(r'^(.*\S)\s*(\([^()<>]{2,60}\))\s*$', re.S)
+TITRE_MOYEN, TITRE_LONG = 60, 110      # au-delà de ces longueurs, le corps du titre diminue
+
+
+def grand_titre(contenu):
+    m = _H1.search(contenu)
+    if not m:
+        return contenu
+    attributs, corps = m.group(1), m.group(2)
+    texte = html.unescape(re.sub(r'<[^>]+>', '', corps)).strip()
+    classe = 'rp-titre--long' if len(texte) > TITRE_LONG else 'rp-titre--moyen' if len(texte) > TITRE_MOYEN else ''
+    precision = _PRECISION_H1.match(corps)
+    if precision and _ORDINAL.match(texte):
+        precision = None                              # « 1re année (1872) » : rien à hiérarchiser
+    if not classe and not precision:
+        return contenu
+    if precision:
+        corps = f'{precision.group(1)} <span class="rp-titre__precision">{precision.group(2)}</span>'
+    if classe:
+        if 'class="' in attributs:
+            attributs = attributs.replace('class="', f'class="{classe} ', 1)
+        else:
+            attributs += f' class="{classe}"'
+    return f'{contenu[:m.start()]}<h1{attributs}>{corps}</h1>{contenu[m.end():]}'
+
+
+# b) Les espaces insécables. Les textes relus portent une espace insécable devant ; : ! ? » et
+#    après « ; les autres (textes bruts, transcriptions plus anciennes) n'ont qu'une espace
+#    ordinaire, si bien qu'une ligne peut commencer par un point-virgule ou finir sur un guillemet
+#    ouvrant. On applique à toutes les transcriptions la convention des textes relus. Les balises,
+#    le code et les formules ne sont jamais touchés.
+_INSECABLE = re.compile(
+    r'<(pre|code|script|style|textarea|svg|math)\b[^>]*>.*?</\1\s*>'      # blocs laissés tels quels
+    r'|<(span|div) class="arithmatex">.*?</\2>'                           # formules
+    r'|<[^>]*>'                                                           # balises
+    r'|(?<=\S) (?=[;:!?»])'                                               # espace devant ; : ! ? »
+    r'|(?<=«) (?=\S)',                                                    # espace après «
+    re.S)
+
+
+def espaces_insecables(contenu):
+    return _INSECABLE.sub(lambda m: ' ' if m.group(0) == ' ' else m.group(0), contenu)
+
+
+def on_page_content(contenu, page, config, files):
+    try:
+        contenu = grand_titre(contenu)
+    except Exception as e:
+        log.warning('Renouvier Papers : grand titre laissé tel quel dans %s (%s)', page.file.src_path, e)
+    try:
+        if page.file.src_uri.startswith(TRANSCRIPTIONS):
+            contenu = espaces_insecables(contenu)
+    except Exception as e:
+        log.warning('Renouvier Papers : espaces insécables non posées dans %s (%s)', page.file.src_path, e)
+    return contenu
 
 
 def on_pre_build(config):

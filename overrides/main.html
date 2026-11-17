@@ -1,6 +1,14 @@
 {% extends "base.html" %}
 
 {% block extrahead %}
+  {#- Aperçu du lien quand une page est partagée (messagerie, réseaux) : titre, description, adresse. -#}
+  <meta property="og:site_name" content="{{ config.site_name }}">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:title" content="{% if page and page.title and page.file.src_uri != 'index.md' %}{{ page.title | striptags | e }}{% else %}{{ config.site_name }}{% endif %}">
+  <meta property="og:description" content="{% if page and page.meta and page.meta.description %}{{ page.meta.description | e }}{% else %}{{ config.site_description | e }}{% endif %}">
+  {% if page and page.canonical_url %}<meta property="og:url" content="{{ page.canonical_url }}">{% endif %}
+  <meta name="twitter:card" content="summary">
   {#- Couleur du cadre, reprise par les navigateurs mobiles autour de la page. -#}
   <meta name="theme-color" content="#f1edf8">
   {#- Thème et police choisis par le lecteur : appliqués avant le premier affichage (pas d'éclair clair en mode sombre). -#}
