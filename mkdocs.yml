@@ -71,23 +71,24 @@ nav:
       - Tome II: oeuvres/manuels/philosophie-ancienne/tome-2.md
     - Manuel républicain (1848): oeuvres/manuels/republicain.md
     - Gouvernement direct (1851): oeuvres/manuels/gouvernement-direct.md # [NOUVEAU]
-  - Essais de critique générale (1re édition, 1854-1864): # [NOUVEAU]
-    - Premier Essai (1854): oeuvres/essais-1re-edition/premier.md # [NOUVEAU]
-    - Deuxième Essai (1859): oeuvres/essais-1re-edition/deuxieme.md # [NOUVEAU]
-    - Troisième Essai (1864): oeuvres/essais-1re-edition/troisieme.md # [NOUVEAU]
-    - Quatrième Essai (1864): oeuvres/essais/quatrieme.md # [NOUVEAU]
-  - Essais de critique générale (2e édition, 1875-1896):
-    - Premier Essai:
-      - Tome I: oeuvres/essais/premier/tome-1.md
-      - Tome II: oeuvres/essais/premier/tome-2.md
-      - Tome III: oeuvres/essais/premier/tome-3.md
-    - Deuxième Essai:
-      - Tome I: oeuvres/essais/deuxieme/tome-1.md
-      - Tome II: oeuvres/essais/deuxieme/tome-2.md
-      - Tome III: oeuvres/essais/deuxieme/tome-3.md
-    - Troisième Essai:
-      - Tome I: oeuvres/essais/troisieme/tome-1.md
-      - Tome II: oeuvres/essais/troisieme/tome-2.md
+  - Essais de critique générale:
+    - 1re édition (1854-1864): # [NOUVEAU]
+      - Premier Essai (1854): oeuvres/essais-1re-edition/premier.md # [NOUVEAU]
+      - Deuxième Essai (1859): oeuvres/essais-1re-edition/deuxieme.md # [NOUVEAU]
+      - Troisième Essai (1864): oeuvres/essais-1re-edition/troisieme.md # [NOUVEAU]
+      - Quatrième Essai (1864): oeuvres/essais/quatrieme.md # [NOUVEAU]
+    - 2e édition (1875-1896):
+      - Premier Essai:
+        - Tome I: oeuvres/essais/premier/tome-1.md
+        - Tome II: oeuvres/essais/premier/tome-2.md
+        - Tome III: oeuvres/essais/premier/tome-3.md
+      - Deuxième Essai:
+        - Tome I: oeuvres/essais/deuxieme/tome-1.md
+        - Tome II: oeuvres/essais/deuxieme/tome-2.md
+        - Tome III: oeuvres/essais/deuxieme/tome-3.md
+      - Troisième Essai:
+        - Tome I: oeuvres/essais/troisieme/tome-1.md
+        - Tome II: oeuvres/essais/troisieme/tome-2.md
   - Philosophie analytique de l'histoire:
     - Introduction: oeuvres/philosophie-analytique/introduction.md
     - Tome I: oeuvres/philosophie-analytique/tome-1.md
