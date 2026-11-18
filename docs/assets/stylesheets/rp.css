@@ -435,14 +435,23 @@ button.rp-bouton { background:none; border:0; font:inherit; color:inherit; line-
 .md-typeset a.rp-cat__ligne { color:var(--text); text-decoration:none; transition:background-color .15s; }
 .md-typeset a.rp-cat__ligne:hover, .md-typeset a.rp-cat__ligne:focus-visible { background:var(--ligne-survol); color:var(--text); }
 .md-typeset a.rp-cat__ligne:hover .rp-cat__titre { color:var(--link-hover); }
-.rp-cat__corps { flex:1 1 auto; min-width:0; display:flex; flex-wrap:wrap; align-items:baseline; gap:.3rem .7rem; }
-.rp-cat__titre { font-weight:600; }
+/* le carré d'état est en retrait à gauche : un titre long, sa description et ses tomes reviennent à la ligne
+   sous le titre, pas sous le carré */
+.rp-cat__corps { flex:1 1 auto; min-width:0; display:flex; flex-wrap:wrap; align-items:baseline; gap:.3rem .7rem; padding-left:calc(6px + .55rem); }
+.rp-cat__titre { font-weight:600; text-indent:calc(-6px - .55rem); }
 .md-typeset a.rp-cat__lien { color:var(--text); text-decoration:none; transition:color .15s; }
 .md-typeset a.rp-cat__lien:hover, .md-typeset a.rp-cat__lien:focus-visible { color:var(--link-hover); }
 .rp-cat__desc { flex:1 0 100%; font-family:var(--police-interface); font-size:.72rem; line-height:1.45; color:var(--text-muted); }
+/* une année de revue : la ligne mène à la page du volume et annonce ses articles, auteur puis titre */
+.rp-cat__desc--annonce { line-height:1.5; }
+.rp-cat__auteur { color:var(--text); font-weight:500; }
+/* la ligne visée par un lien (fil d'Ariane d'un ouvrage en plusieurs tomes) */
+.md-typeset ul.rp-cat > li:target > .rp-cat__ligne { background:var(--ligne-survol); }
 .rp-cat__date { flex:0 0 auto; font-family:var(--police-titres); font-size:.66rem; letter-spacing:-.02em; color:var(--text-muted); white-space:nowrap; }
-.rp-cat__tomes { display:inline-flex; flex-wrap:wrap; gap:.3rem; }
+.rp-cat__tomes { display:inline-flex; flex-wrap:wrap; gap:.3rem; max-width:100%; }
 .md-typeset .rp-puce { font-family:var(--police-titres); font-size:.64rem; font-weight:500; letter-spacing:-.02em; padding:.2rem .55rem; border-radius:.45rem; background:var(--bg-sidebar); color:var(--text); text-decoration:none; white-space:nowrap; transition:background-color .15s, color .15s; }
+/* un intitulé long (« Tome II : Invention et vérification ») passe à la ligne dans sa puce au lieu de sortir de la feuille */
+.rp-cat__tomes .rp-puce { max-width:100%; white-space:normal; }
 .md-typeset a.rp-puce:hover, .md-typeset a.rp-puce:focus-visible { background:var(--hover-bg); color:var(--link-hover); }
 /* l'état d'un volume, même signe que sur l'accueil : carré plein, la relecture est faite ; carré vide, le texte est brut */
 .rp-carre { display:inline-block; width:6px; height:6px; margin-right:.55rem; vertical-align:.12em; background:var(--accent4); }
@@ -460,6 +469,79 @@ button.rp-bouton { background:none; border:0; font:inherit; color:inherit; line-
 /* accès direct aux groupes d'un long sommaire, quand la table des matières n'est pas à l'écran */
 .rp-index { display:flex; flex-wrap:wrap; gap:.3rem; margin:1rem 0 .4rem; }
 @media screen and (min-width:60em) { .rp-index { display:none; } }
+
+/* ---- la carte d'une rubrique ----
+   Chaque groupe (une catégorie d'ouvrages, une revue, un auteur) tient en quelques lignes : son titre, ce
+   qu'il contient, son nombre de volumes et leurs carrés, comme les rubriques sur l'accueil. Un clic le
+   déplie. Quand la rubrique est longue, les groupes sont repliés à l'arrivée (hooks/renouvier.py) : on
+   voit d'abord l'ensemble, le détail ensuite. Sans JavaScript (pas de classe « rp-js »), tout est déplié. */
+.rp-sommaire { margin-top:1.4rem; }
+.rp-sommaire__entete { display:flex; flex-wrap:wrap; align-items:baseline; justify-content:space-between; gap:.5rem 1.2rem; margin-bottom:.8rem; }
+.md-typeset .rp-sommaire__entete > .rp-legende { flex:1 1 14rem; margin:0; }
+.rp-sommaire__tout { flex:0 0 auto; margin-left:auto; border:0; cursor:pointer; font-family:var(--police-titres); font-size:.64rem; font-weight:500; letter-spacing:-.02em; line-height:1.5; padding:.22rem .6rem; border-radius:.45rem; background:var(--bg-sidebar); color:var(--text); transition:background-color .15s, color .15s; }
+.rp-sommaire__tout:hover { background:var(--hover-bg); color:var(--link-hover); }
+.rp-sommaire__tout:focus-visible, .rp-groupe__bouton:focus-visible { outline:2px solid var(--link); outline-offset:3px; border-radius:.3rem; }
+.rp-groupe + .rp-groupe { margin-top:.15rem; }
+.rp-groupe__tete { display:grid; grid-template-columns:minmax(0, 1fr) auto; align-items:start; column-gap:1.4rem; margin:0 -.5rem; padding:.65rem .5rem .7rem; border-radius:.7rem; transition:background-color .15s; }
+.md-typeset h2.rp-groupe__titre { grid-column:1; position:relative; margin:0; font-size:1.05rem; line-height:1.35; }
+.md-typeset .rp-groupe__apercu { grid-column:1; margin:.2rem 0 0; }
+.md-typeset .rp-groupe__apercu--auto { font-family:var(--police-interface); font-size:.72rem; line-height:1.5; color:var(--text-muted); display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:2; line-clamp:2; overflow:hidden; }
+.md-typeset .rp-groupe__mesure { grid-column:2; grid-row:1 / span 2; display:grid; justify-items:end; align-content:start; gap:.45rem; margin:.3rem 0 0; }
+.rp-groupe__mesure .rp-carte__pixels { display:flex; flex-wrap:wrap; justify-content:flex-end; max-width:177px; }   /* vingt carrés par rangée, calés à droite */
+.rp-groupe__compte { font-family:var(--police-titres); font-size:.66rem; line-height:1.4; letter-spacing:-.02em; color:var(--text-muted); white-space:nowrap; }
+.rp-groupe__releve { position:absolute; width:1px; height:1px; overflow:hidden; clip-path:inset(50%); white-space:nowrap; }
+.rp-groupe__bouton { display:inline; margin:0; padding:0; border:0; background:none; font:inherit; letter-spacing:inherit; color:inherit; text-align:inherit; cursor:pointer; }
+.md-typeset .rp-groupe__corps > ul.rp-cat { margin-top:.1rem; margin-bottom:.9rem; }
+.md-typeset .rp-groupe__corps > h3 { margin:.9rem 0 .15rem; font-size:.86rem; }
+.md-typeset .rp-groupe__corps > h3:first-child { margin-top:.5rem; }
+.md-typeset .rp-sommaire > ul.rp-cat { margin-bottom:.4rem; }
+/* avec JavaScript : le titre est un bouton, son chevron dit si le groupe est déplié */
+html.rp-js .rp-groupe__tete { cursor:pointer; -webkit-tap-highlight-color:transparent; }
+html.rp-js .rp-groupe__tete:active { background:var(--ligne-survol); }
+@media (hover:hover) { html.rp-js .rp-groupe__tete:hover { background:var(--ligne-survol); } }   /* pas de survol qui « colle » après un toucher */
+html.rp-js .md-typeset h2.rp-groupe__titre { padding-left:.85rem; user-select:none; -webkit-user-select:none; }
+html.rp-js .rp-groupe__titre::before { content:''; position:absolute; left:.05rem; top:.46em; width:.34em; height:.34em; border-right:.13em solid currentColor; border-bottom:.13em solid currentColor; transform:rotate(-45deg); transition:transform .2s; opacity:.8; }
+html.rp-js .rp-groupe.is-ouvert .rp-groupe__titre::before { transform:rotate(45deg); top:.38em; }
+html.rp-js .md-typeset .rp-groupe__apercu { padding-left:.85rem; }
+/* sur les écrans étroits, le chevron est devant le titre : titres des groupes, intertitres et titres des textes
+   commencent au même endroit, chevrons et carrés dans la même colonne */
+html.rp-js .md-typeset .rp-groupe__corps > h3 { padding-left:.85rem; }
+html.rp-js .rp-groupe:not(.is-ouvert) > .rp-groupe__corps:not([hidden]) { display:none; }
+/* déplié, le groupe montre ses titres : leur annonce n'a plus lieu d'être */
+html.rp-js .rp-groupe.is-ouvert .rp-groupe__apercu--auto { display:none; }
+.rp-groupe__corps.rp-vient { animation:rp-vient .18s ease-out; }
+@keyframes rp-vient { from { opacity:0; transform:translateY(-.25rem); } }
+@media screen and (min-width:76.25em) {
+  /* le chevron passe dans la marge, comme celui des titres pliables : les titres restent alignés sur le texte */
+  .rp-groupe__tete { margin:0 -.9rem 0 -1.5rem; padding:.7rem .9rem .75rem 1.5rem; }
+  html.rp-js .md-typeset h2.rp-groupe__titre { padding-left:0; }
+  html.rp-js .rp-groupe__titre::before { left:-.95em; }
+  html.rp-js .md-typeset .rp-groupe__apercu, html.rp-js .md-typeset .rp-groupe__corps > h3 { padding-left:0; }
+  /* déplié, le groupe pend à un rail à la couleur de son rang, comme les listes du menu */
+  html.rp-js .rp-groupe.is-ouvert > .rp-groupe__corps { position:relative; }
+  html.rp-js .rp-groupe.is-ouvert > .rp-groupe__corps::before { content:''; position:absolute; left:-.86rem; top:0; bottom:.9rem; width:1px; background:color-mix(in srgb, var(--rang2) 78%, transparent); }
+}
+@media screen and (max-width:44.9375em) {
+  /* une légende courte et le bouton « Tout déplier » tiennent sur la même ligne ; sinon le bouton passe dessous */
+  .md-typeset .rp-sommaire__entete > .rp-legende { flex:1 1 auto; }
+  .rp-groupe__tete { grid-template-columns:minmax(0, 1fr); padding-top:.5rem; padding-bottom:.55rem; }
+  .rp-groupe + .rp-groupe { margin-top:.05rem; }
+  .md-typeset h2.rp-groupe__titre { font-size:1rem; line-height:1.3; }
+  .md-typeset .rp-groupe__apercu { margin-top:.15rem; }
+  .md-typeset .rp-groupe__apercu--auto { -webkit-line-clamp:3; line-clamp:3; }
+  .md-typeset .rp-groupe__mesure { grid-column:1; grid-row:auto; display:flex; flex-wrap:wrap; align-items:center; gap:.3rem .7rem; margin-top:.3rem; }
+  .rp-groupe__mesure .rp-carte__pixels { justify-content:flex-start; }
+  /* sur un écran étroit, les tomes et la description d'un texte passent sous son titre et prennent toute la
+     largeur de la ligne, date comprise (ils étaient cantonnés à gauche de la date) */
+  .rp-cat__ligne { flex-wrap:wrap; }
+  .rp-cat__corps { display:contents; }
+  .rp-cat__titre { flex:1 1 0; min-width:0; padding-left:calc(6px + .55rem); }
+  .rp-cat__tomes, .rp-cat__desc { order:1; flex:1 1 100%; min-width:0; margin-left:calc(6px + .55rem); }
+  .rp-cat__tomes { display:flex; }
+  /* l'annonce d'une année de revue tient en trois lignes : la page de l'année donne la suite */
+  .rp-cat__desc--annonce { display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:3; line-clamp:3; overflow:hidden; }
+  html.rp-js .md-typeset .rp-groupe__mesure { padding-left:.85rem; }
+}
 
 /* portail de l'accueil : une ligne par rubrique */
 .rp-portail { display:grid; gap:.3rem; margin:2rem -.9rem 2.2rem; }
@@ -563,6 +645,9 @@ html .md-footer-meta.md-typeset .rp-pied a:hover { color:var(--nav-hover); }
   .md-footer__link--prev .md-footer__title { display:none; }
   .md-copyright.rp-pied { padding:.4rem .4rem; }
 }
+/* entre 385 et 416 px de large (la plupart des téléphones), l'en-tête dépassait de quelques pixels dès que
+   le bouton des sections était affiché : la marque serre un peu sa marge */
+@media screen and (max-width:26em) { .rp-marque { margin-right:.4rem; } }
 @media screen and (max-width:24em) { .rp-marque__nom { display:none; } }
 
 /* =====================  PAGES « DÉPLIANTS »  =====================
@@ -605,4 +690,6 @@ body #dp .dp-pli[data-rang="titre"] > .dp-titre:hover .dp-texte {
   .md-main { margin-top:0; padding-top:0; }
   .rp-header__outils, #rp-reglages, .md-path { display:none !important; }
   .collapsible-content.collapsed { display:block; }
+  html.rp-js .rp-groupe:not(.is-ouvert) > .rp-groupe__corps { display:block !important; content-visibility:visible !important; }
+  .rp-sommaire__tout { display:none; }
 }

@@ -7,9 +7,17 @@ docs/ n'est modifié.
    hiérarchisée de tout ce que la navigation de mkdocs.yml range dans sa rubrique ; avec
    « sommaire: portail », elle reçoit une carte par grande rubrique du site. La liste se place
    à l'endroit du commentaire <!-- sommaire --> (à défaut, à la fin de la page). Elle se met à
-   jour toute seule quand la navigation change. Clés facultatives de l'en-tête :
+   jour toute seule quand la navigation change.
+   Le sommaire d'une rubrique est une carte : chaque groupe (une catégorie d'ouvrages, une revue,
+   un auteur) y tient en quelques lignes, son titre, ce qu'il contient, son nombre de volumes et
+   leurs carrés ; un clic sur le groupe déplie la liste de ses textes. Quand la rubrique est
+   longue, les groupes sont repliés à l'arrivée : on voit d'abord l'ensemble, le détail ensuite.
+   Clés facultatives de l'en-tête :
      notices:   (rubrique) intitulé d'un groupe -> phrase affichée sous son titre ; l'ordre des
-                notices fixe l'ordre des groupes, les groupes sans notice suivent dans l'ordre du menu
+                notices fixe l'ordre des groupes, les groupes sans notice suivent dans l'ordre du menu.
+                Sans notice, le groupe annonce de lui-même les titres qu'il contient
+     repli:     (rubrique) « oui » : groupes repliés à l'arrivée ; « non » : groupes dépliés ; sans
+                cette clé, ils sont repliés dès que la rubrique compte plus de REPLI_AUTO lignes
      cartes:    (portail) intitulé d'une rubrique -> « texte », « unite » (« volume, volumes ») et
                 « groupes » (« auteur, auteurs ») de sa carte
      pixels:    (portail) « non » pour retirer, sous chaque décompte, les carrés et le relevé de la
@@ -73,7 +81,8 @@ EXCEPTIONS = {
 }
 
 MARQUEUR = '<!-- sommaire -->'
-_NAV = {'nav': None}
+REPLI_AUTO = 15        # au-delà de ce nombre de lignes, les groupes d'une rubrique sont repliés à l'arrivée
+_NAV = {'nav': None, 'imbrication': True, 'unites': None}
 _ETATS = {}
 _ENTETES = {}
 
@@ -244,6 +253,9 @@ def _intitules(items):
 def on_nav(nav, config, files):
     """Garde la navigation sous la main et donne une adresse aux rubriques sans page propre."""
     _NAV['nav'] = nav
+    _NAV['unites'] = None
+    # la carte d'une rubrique emboîte du Markdown dans des blocs HTML : il y faut l'extension md_in_html
+    _NAV['imbrication'] = any(str(x) == 'md_in_html' for x in (config.get('markdown_extensions') or []))
     try:
         for rubrique in nav.items:
             if not isinstance(rubrique, Section):
@@ -311,6 +323,14 @@ def _carre(item, e):
     return '<i class="rp-carre%s" aria-hidden="true"></i>' % (' rp-carre--vide' if e == 'brut' else '')
 
 
+RIEN = '<i class="rp-carre rp-carre--rien" aria-hidden="true"></i>'
+
+
+def _carre_ou_place(item, e):
+    """Le carré d'état, ou sa place laissée vide : les titres d'une liste commencent tous au même endroit."""
+    return _carre(item, e) or RIEN
+
+
 def _ligne(item, page):
     """Une ligne du sommaire : un texte d'un seul tenant."""
     titre, date = _titre_et_date(item.title)
@@ -320,7 +340,7 @@ def _ligne(item, page):
         d = entete(item).get('description')
         if d:
             desc = f'<span class="rp-cat__desc">{html.escape(str(d))}</span>'
-    corps = (f'<span class="rp-cat__corps"><span class="rp-cat__titre">{_carre(item, e)}{html.escape(titre)}</span>{desc}</span>'
+    corps = (f'<span class="rp-cat__corps"><span class="rp-cat__titre">{_carre_ou_place(item, e)}{html.escape(titre)}</span>{desc}</span>'
              f'{_marque(e)}'
              + (f'<span class="rp-cat__date">{html.escape(date)}</span>' if date else ''))
     if e in ('vide', 'absent'):
@@ -357,9 +377,8 @@ def _ligne_multiple(section, page):
     nom_titre = html.escape(titre)
     if index is not None and etat(index) not in ('vide', 'absent'):
         nom_titre = f'<a class="rp-cat__lien" href="{_lien(index, page)}">{nom_titre}</a>'
-    if any(_carre(p, e) for p, e in zip(enfants, etats)):
-        # les carrés sont dans les puces : un carré invisible garde le titre aligné sur ceux des autres lignes
-        nom_titre = '<i class="rp-carre rp-carre--rien" aria-hidden="true"></i>' + nom_titre
+    # les carrés sont dans les puces : la place d'un carré garde le titre aligné sur ceux des autres lignes
+    nom_titre = RIEN + nom_titre
     return (f'<li class="rp-cat__item rp-cat__item--multiple"{ident}><div class="rp-cat__ligne">'
             f'<span class="rp-cat__corps"><span class="rp-cat__titre">{nom_titre}</span>'
             f'<span class="rp-cat__tomes">{"".join(puces)}</span></span>'
@@ -368,9 +387,51 @@ def _ligne_multiple(section, page):
             + '</div></li>')
 
 
+def _en_articles(pages):
+    """Les pages d'une année de revue sont-elles des articles (un auteur, un titre souvent long) ? Des
+    tomes, des livraisons ou des rubriques tiennent en puces ; des articles, non."""
+    if not pages:
+        return False
+    signes = sum(1 for p in pages if decouper_intitule(getattr(p, 'title', ''))[0])
+    return signes * 2 >= len(pages) or max(len(getattr(p, 'title', '') or '') for p in pages) > 60
+
+
+def _ligne_annee(section, page):
+    """Une ligne du sommaire : une année de revue qui a sa page d'accueil et dont les textes sont des
+    articles. La ligne mène à cette page (source, plan et tables du volume, chaque article relié) ; elle
+    annonce le contenu de l'année, auteur puis titre. Les articles eux-mêmes ne sont pas donnés en puces :
+    leurs titres sont trop longs pour y tenir."""
+    titre, date = _titre_et_date(section.title)
+    index = _page_index(section)
+    e = etat(index)
+    annonce = []
+    for enfant in section.children:
+        if enfant is index:
+            continue
+        auteur, nom, serie, precision = decouper_intitule(enfant.title)
+        nom = ' '.join(x for x in (nom, precision) if x) + (f' — {serie}' if serie else '')
+        nom = html.escape(nom.rstrip('.'))
+        annonce.append(f'<span class="rp-cat__auteur">{html.escape(auteur)}</span>, {nom}' if auteur else nom)
+    desc = '<span class="rp-cat__desc rp-cat__desc--annonce">' + '\u00a0; '.join(annonce) + '</span>' if annonce else ''
+    ident = f' id="{section.rp_ancre}"' if getattr(section, 'rp_ancre', None) else ''
+    corps = (f'<span class="rp-cat__corps"><span class="rp-cat__titre">{_carre_ou_place(index, e)}{html.escape(titre)}</span>{desc}</span>'
+             f'{_marque(e)}'
+             + (f'<span class="rp-cat__date">{html.escape(date)}</span>' if date else ''))
+    return f'<li class="rp-cat__item rp-cat__item--annee"{ident}><a class="rp-cat__ligne" href="{_lien(index, page)}">{corps}</a></li>'
+
+
+def _sous_groupes(items):
+    """Vrai quand l'un des éléments est lui-même un groupe de groupes (une édition qui réunit plusieurs
+    ouvrages en plusieurs tomes) : ses voisins de même rang sont alors, comme lui, donnés sous un intertitre."""
+    return any(isinstance(i, Section) and any(isinstance(e, Section) for e in i.children) for i in items)
+
+
 def _liste(items, page, niveau):
-    """Lignes d'un groupe ; un sous-groupe qui contient lui-même des groupes devient un intertitre."""
+    """Lignes d'un groupe. Un ouvrage en plusieurs tomes ou éditions tient sur une ligne ; un sous-groupe
+    qui contient lui-même des groupes devient un intertitre, et ses voisins de même rang avec lui (les deux
+    éditions des Essais : la première réunit quatre volumes, la seconde trois ouvrages en plusieurs tomes)."""
     sortie, lignes = [], []
+    intertitres = _sous_groupes(items)
 
     def vider():
         if lignes:
@@ -379,7 +440,15 @@ def _liste(items, page, niveau):
 
     for item in items:
         if isinstance(item, Section):
-            if all(not isinstance(e, Section) for e in item.children):
+            index = _page_index(item)
+            if index is not None and all(not isinstance(e, Section) for e in item.children):
+                # une année de revue qui a sa page d'accueil
+                autres = [e for e in item.children if e is not index]
+                if _en_articles(autres) and etat(index) not in ('vide', 'absent'):
+                    lignes.append(_ligne_annee(item, page))
+                else:
+                    lignes.append(_ligne_multiple(item, page))
+            elif not intertitres and all(not isinstance(e, Section) for e in item.children):
                 lignes.append(_ligne_multiple(item, page))
             else:
                 vider()
@@ -411,6 +480,104 @@ LEGENDE = ('<i class="rp-carre" aria-hidden="true"></i>Carré plein : la relectu
 LEGENDE_FAITE = '<i class="rp-carre" aria-hidden="true"></i>Carré plein : la relecture du texte est faite.'
 
 
+def _unite(rubrique):
+    """Le nom de ce que compte une rubrique (« volume, volumes »), tel que le fixe la page d'accueil
+    (clé « cartes » de son en-tête) : une seule source pour l'accueil et pour les pages des rubriques."""
+    if _NAV['unites'] is None:
+        _NAV['unites'] = {}
+        nav = _NAV['nav']
+        for p in (nav.pages if nav is not None else []):
+            meta = entete(p)
+            if str(meta.get('sommaire', '')).lower() == 'portail':
+                for titre, r in (meta.get('cartes') or {}).items():
+                    if isinstance(r, dict) and r.get('unite'):
+                        _NAV['unites'][titre] = _paire(r.get('unite'), None)
+                break
+    return _NAV['unites'].get(rubrique.title) or ('texte', 'textes')
+
+
+_TOME = re.compile(r'^Tome ([IVXLC]+)$')
+
+
+def _apercu(groupe):
+    """Ce qu'un groupe contient, dit en une phrase par ses titres : « Science de la morale, Uchronie, … ».
+    Sert quand la page de la rubrique ne lui donne pas de notice. Les titres d'ouvrages sont en italique ;
+    les divisions (une édition, une introduction, des tomes) en romain, et une suite de tomes est résumée."""
+    index = _page_index(groupe)
+    enfants = [e for e in groupe.children if e is not index]
+    divisions = _sous_groupes(enfants)
+    noms, tomes = [], []
+
+    def vider_tomes():
+        if len(tomes) >= 3:
+            noms.append(f'tomes {tomes[0]} à {tomes[-1]}')
+        elif tomes:
+            noms.append(('tome ' if len(tomes) == 1 else 'tomes ') + ' et '.join(tomes))
+        tomes.clear()
+
+    for e in enfants:
+        titre, date = _titre_et_date(e.title)
+        m = _TOME.match(titre)
+        if m:
+            tomes.append(m.group(1))
+            continue
+        vider_tomes()
+        if divisions and isinstance(e, Section):
+            noms.append(html.escape(e.title or ''))                 # une édition, avec ses dates
+        elif date or isinstance(e, Section):
+            noms.append(f'<em>{html.escape(titre)}</em>')           # un ouvrage
+        else:
+            noms.append(html.escape(titre))
+    vider_tomes()
+    if noms and not noms[0].startswith('<em>'):
+        noms[0] = noms[0][:1].upper() + noms[0][1:]
+    # « Victor Hugo, le poète » : dès qu'un titre contient une virgule, le point-virgule sépare les titres
+    return ('\u00a0; ' if any(',' in n for n in noms) else ', ').join(noms)
+
+
+def _mesure(groupe, page, unite):
+    """Le décompte d'un groupe et ses carrés (un par volume, comme sur l'accueil)."""
+    etats = [e for e in (etat(p) for p in _volumes(groupe)) if e in ('ok', 'brut')]
+    n = len(etats)
+    if not n:
+        return '<span class="rp-groupe__compte">à venir</span>'
+    sortie = f'<span class="rp-groupe__compte">{html.escape(_nombre(n, unite))}</span>'
+    if page.file.src_uri.startswith(TRANSCRIPTIONS):
+        b = etats.count('brut')
+        # les carrés ne sont pas lus par les lecteurs d'écran : le relevé les dit en mots (il n'est pas affiché)
+        releve = 'relecture faite' if not b else f'relecture : {n - b} sur {n}'
+        sortie += ('<span class="rp-carte__pixels" aria-hidden="true">'
+                   + ''.join('<i class="b"></i>' if e == 'brut' else '<i></i>' for e in etats) + '</span>'
+                   + f'<span class="rp-groupe__releve"> ({releve})</span>')
+    return sortie
+
+
+def _titre_de_groupe(intitule):
+    """Le titre d'un groupe tel qu'il s'écrit sur la carte : sa série (« — 1re série ») ou sa précision
+    finale (« (supplément, 1878-1885) ») passent au second plan, comme dans le menu et les grands titres."""
+    surtitre, titre, serie, precision = decouper_intitule(intitule)
+    if surtitre or not (serie or precision):
+        return intitule or ''
+    if precision:
+        titre += f' <span class="rp-titre__precision">{html.escape(precision)}</span>'
+    if serie:
+        titre += f' <span class="rp-titre__precision">— {html.escape(serie)}</span>'
+    return titre
+
+
+def _nombre_de_lignes(items, groupes=False):
+    """Nombre de lignes qu'affiche une liste : un ouvrage en plusieurs tomes compte pour une, comme une
+    année de revue. Au premier rang (« groupes »), chaque section est un groupe dont on compte les lignes."""
+    n, intertitres = 0, _sous_groupes(items)
+    for item in items:
+        if isinstance(item, Section) and _page_index(item) is None and (
+                groupes or intertitres or any(isinstance(e, Section) for e in item.children)):
+            n += _nombre_de_lignes(item.children)
+        else:
+            n += 1
+    return n
+
+
 def sommaire_rubrique(page):
     rubrique = page.parent
     if not isinstance(rubrique, Section):
@@ -424,6 +591,19 @@ def sommaire_rubrique(page):
         groupes = sorted((e for e in enfants if isinstance(e, Section)),
                          key=lambda g: rang.get(g.title, len(rang)))
         enfants = libres + groupes
+    groupes = [e for e in enfants if isinstance(e, Section)]
+    emboite = bool(_NAV['imbrication'])
+    # Groupes repliés à l'arrivée ? Oui dès que la liste est longue (on voit d'abord l'ensemble), sauf
+    # avis contraire de la page (clé « repli » de son en-tête).
+    voeu = str(page.meta.get('repli', '')).strip().lower()
+    if voeu in ('oui', 'yes', 'true', '1'):
+        replie = True
+    elif voeu in ('non', 'no', 'false', '0'):
+        replie = False
+    else:
+        replie = len(groupes) >= 2 and _nombre_de_lignes(enfants, groupes=True) > REPLI_AUTO
+    replie = replie and emboite
+    unite = _unite(rubrique)
     blocs, libres = [], []
 
     def vider():
@@ -437,24 +617,46 @@ def sommaire_rubrique(page):
             continue
         vider()
         ident = getattr(e, 'rp_ancre', None) or ancre(e.title)
-        blocs.append(f'## {e.title} {{ #{ident} }}')
         notice = notices.get(e.title)
+        if not emboite:
+            # sans l'extension md_in_html : la liste à plat, comme avant
+            blocs.append(f'## {e.title} {{ #{ident} }}')
+            if notice:
+                blocs.append(f'{str(notice).strip()}\n{{ .rp-notice }}')
+            blocs.append(_liste(e.children, page, 2))
+            continue
+        tete = [f'## {_titre_de_groupe(e.title)} {{ #{ident} .rp-groupe__titre }}']
         if notice:
-            blocs.append(f'{str(notice).strip()}\n{{ .rp-notice }}')
-        blocs.append(_liste(e.children, page, 2))
+            tete.append(f'{str(notice).strip()}\n{{ .rp-groupe__apercu .rp-notice }}')
+        else:
+            apercu = _apercu(e)
+            if apercu:
+                tete.append(f'<p class="rp-groupe__apercu rp-groupe__apercu--auto" data-search-exclude>{apercu}</p>')
+        tete.append(f'<p class="rp-groupe__mesure" data-search-exclude>{_mesure(e, page, unite)}</p>')
+        blocs.append('\n\n'.join([
+            f'<div class="rp-groupe{"" if replie else " is-ouvert"}" markdown="1">',
+            '<div class="rp-groupe__tete" markdown="1">', *tete, '</div>',
+            '<div class="rp-groupe__corps" markdown="1">', _liste(e.children, page, 2), '</div>',
+            '</div>']))
     vider()
-    groupes = [e for e in enfants if isinstance(e, Section)]
-    if len(groupes) >= 8:
+    if len(groupes) >= 8 and not replie:
         # accès direct aux groupes, pour les écrans qui n'affichent pas la table des matières
         liens = ''.join(f'<a class="rp-puce" href="#{getattr(g, "rp_ancre", None) or ancre(g.title)}">'
                         f'{html.escape(g.title)}</a>' for g in groupes)
         blocs.insert(0, f'<nav class="rp-index" aria-label="Accès direct" data-search-exclude>{liens}</nav>')
     etats = {etat(p) for p in _pages(rubrique)}
+    legende = ''
     if 'brut' in etats:
-        blocs.insert(0, f'{LEGENDE}\n{{ .rp-legende }}')
+        legende = f'{LEGENDE}\n{{ .rp-legende }}'
     elif 'ok' in etats and page.file.src_uri.startswith(TRANSCRIPTIONS):
-        blocs.insert(0, f'{LEGENDE_FAITE}\n{{ .rp-legende }}')
-    return '\n\n'.join(b for b in blocs if b)
+        legende = f'{LEGENDE_FAITE}\n{{ .rp-legende }}'
+    if not emboite:
+        return '\n\n'.join(b for b in [legende] + blocs if b)
+    if legende:
+        blocs.insert(0, '<div class="rp-sommaire__entete" markdown="1">\n\n' + legende + '\n\n</div>')
+    return '\n\n'.join(
+        [f'<div class="rp-sommaire{" rp-sommaire--replie" if replie else ""}" markdown="1">']
+        + [b for b in blocs if b] + ['</div>'])
 
 
 def sommaire_portail(page):
@@ -885,8 +1087,9 @@ def grand_titre(contenu):
 # b) Les espaces insécables. Les textes relus portent une espace insécable devant ; : ! ? » et
 #    après « ; les autres (textes bruts, transcriptions plus anciennes) n'ont qu'une espace
 #    ordinaire, si bien qu'une ligne peut commencer par un point-virgule ou finir sur un guillemet
-#    ouvrant. On applique à toutes les transcriptions la convention des textes relus. Les balises,
-#    le code et les formules ne sont jamais touchés.
+#    ouvrant. On applique à toutes les transcriptions la convention des textes relus, ainsi qu'à
+#    l'accueil et aux pages « À propos ». Les balises, le code et les formules ne sont jamais touchés.
+INSECABLES = TRANSCRIPTIONS + ('index.md', 'a-propos/')      # là où la convention s'applique (pas la rubrique Recherche)
 _INSECABLE = re.compile(
     r'<(pre|code|script|style|textarea|svg|math)\b[^>]*>.*?</\1\s*>'      # blocs laissés tels quels
     r'|<(span|div) class="arithmatex">.*?</\2>'                           # formules
@@ -906,7 +1109,7 @@ def on_page_content(contenu, page, config, files):
     except Exception as e:
         log.warning('Renouvier Papers : grand titre laissé tel quel dans %s (%s)', page.file.src_path, e)
     try:
-        if page.file.src_uri.startswith(TRANSCRIPTIONS):
+        if page.file.src_uri.startswith(INSECABLES):
             contenu = espaces_insecables(contenu)
     except Exception as e:
         log.warning('Renouvier Papers : espaces insécables non posées dans %s (%s)', page.file.src_path, e)

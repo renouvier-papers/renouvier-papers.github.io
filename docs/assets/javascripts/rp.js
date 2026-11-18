@@ -2,6 +2,7 @@
    RENOUVIER PAPERS : comportements du site
    - marqueurs de page [p. N] ;
    - sections pliables (clic sur un titre) et bouton « tout replier » de l'en-tête ;
+   - carte d'une rubrique : groupes repliés à l'arrivée, dépliés d'un clic, retrouvés tels quels au retour ;
    - réglages d'affichage (4 thèmes, 4 polices de lecture), mémorisés sur l'appareil ;
    - tiroir mobile ouvert sur les grandes rubriques depuis l'accueil ;
    - entrées du menu « à venir » (page pas encore créée) : sans lien ;
@@ -69,7 +70,9 @@
   /* ---- sections pliables ---- */
   function sectionsPliables(zone) {
     if (!zone) return 0;
-    var titres = zone.querySelectorAll('h2, h3, h4');
+    var titres = Array.prototype.filter.call(zone.querySelectorAll('h2, h3, h4'), function (h) {
+      return !(h.closest && h.closest('.rp-sommaire'));             // la carte d'une rubrique a ses propres groupes
+    });
     if (titres.length < 4) return 0;
     titres.forEach(function (h) {
       if (h.dataset.rpPli) return; h.dataset.rpPli = '1';
@@ -96,6 +99,8 @@
   /* une ancre visée dans une section repliée : on déplie ce qui la contient */
   function deplierVers(cible) {
     var n = cible, ouvert = false;
+    var groupe = cible.closest && cible.closest('.rp-groupe');
+    if (groupe && carteCourante && !groupe.classList.contains('is-ouvert')) { carteCourante.ouvrir(groupe); ouvert = true; }
     while (n && n !== document.body) {
       if (n.classList && n.classList.contains('collapsible-content') && n.classList.contains('collapsed')) {
         n.classList.remove('collapsed');
@@ -114,12 +119,132 @@
     if (cible && deplierVers(cible)) cible.scrollIntoView();
   }
 
+  /* ---- la carte d'une rubrique ----
+     La page d'une rubrique (Œuvres, Revues, Autres auteurs…) présente ses groupes repliés quand la
+     liste est longue : on voit d'abord l'ensemble, un clic sur un groupe déplie ses textes.
+     hooks/renouvier.py pose la structure et l'état de départ (classe « is-ouvert ») ; ici : le bouton de
+     chaque titre, le bouton « Tout déplier », l'ouverture du groupe visé par un lien ou par la recherche
+     dans la page, et la mémoire de ce qui était déplié quand on revient par « page précédente ». */
+  var carteCourante = null;
+  var retourVers = null;            // adresse rejointe par « page précédente » ou « page suivante »
+  var premierAffichage = true;
+  window.addEventListener('popstate', function () { retourVers = location.pathname; });
+
+  function session(cle, valeur) {
+    try {
+      if (valeur === undefined) return JSON.parse(sessionStorage.getItem(cle) || 'null');
+      if (valeur === null) sessionStorage.removeItem(cle); else sessionStorage.setItem(cle, JSON.stringify(valeur));
+    } catch (e) { /* mémoire indisponible : l'état de départ fera l'affaire */ }
+    return null;
+  }
+
+  function carte(zone) {
+    var sommaire = zone && zone.querySelector('.rp-sommaire');
+    var groupes = sommaire ? Array.prototype.slice.call(sommaire.querySelectorAll('.rp-groupe')) : [];
+    // de retour sur la page, ou page rechargée : on la retrouve comme on l'a laissée
+    var retour = retourVers === location.pathname;
+    if (premierAffichage) {
+      try {
+        var arrivee = performance.getEntriesByType('navigation')[0];
+        retour = !!arrivee && (arrivee.type === 'back_forward' || arrivee.type === 'reload');
+      } catch (e) { retour = false; }
+    }
+    premierAffichage = false; retourVers = null;
+    if (!groupes.length) return null;
+    var cle = 'rp-carte:' + location.pathname;
+    var memo = retour ? session(cle) : null;
+    if (!Array.isArray(memo)) memo = null;
+    if (!retour) session(cle, null);
+    var tout = null;
+
+    function titreDe(g) { return g.querySelector('.rp-groupe__titre'); }
+    function estOuvert(g) { return g.classList.contains('is-ouvert'); }
+    function poser(g, ouvert) {
+      var b = g.querySelector('.rp-groupe__bouton'), corps = g.querySelector('.rp-groupe__corps');
+      g.classList.toggle('is-ouvert', ouvert);
+      if (b) b.setAttribute('aria-expanded', ouvert ? 'true' : 'false');
+      // « until-found » : replié, le texte reste trouvable par la recherche du navigateur, qui déplie alors le groupe
+      if (corps) { if (ouvert) corps.removeAttribute('hidden'); else corps.setAttribute('hidden', 'until-found'); }
+    }
+    function toutOuvert() { return groupes.every(estOuvert); }
+    function noter() {
+      session(cle, groupes.filter(estOuvert).map(function (g) { var h = titreDe(g); return h ? h.id : ''; }));
+      var ouvert = toutOuvert();
+      if (tout) tout.textContent = ouvert ? 'Tout replier' : 'Tout déplier';
+      var b = document.getElementById('rp-plier');
+      if (b) etatPlier(b, !ouvert);
+    }
+    /* le groupe qu'on vient de déplier en bas de l'écran remonte, pour que sa liste se voie */
+    function montrer(g) {
+      var tete = g.querySelector('.rp-groupe__tete');
+      if (!tete) return;
+      var r = tete.getBoundingClientRect();
+      if (r.bottom < window.innerHeight * 0.6) return;
+      var marge = 3.5 * (parseFloat(getComputedStyle(racine).fontSize) || 20);
+      var doux = !(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
+      try { window.scrollTo({ top: window.scrollY + r.top - marge, behavior: doux ? 'smooth' : 'auto' }); }
+      catch (e) { window.scrollTo(0, window.scrollY + r.top - marge); }
+    }
+    function basculerTout(ouvrir) { groupes.forEach(function (g) { poser(g, ouvrir); }); noter(); }
+
+    groupes.forEach(function (g) {
+      var h = titreDe(g), tete = g.querySelector('.rp-groupe__tete'), corps = g.querySelector('.rp-groupe__corps');
+      if (!h || !tete || !corps) return;
+      if (!g.dataset.rpPret) {
+        g.dataset.rpPret = '1';
+        var b = document.createElement('button');
+        b.type = 'button'; b.className = 'rp-groupe__bouton';
+        while (h.firstChild) b.appendChild(h.firstChild);
+        h.appendChild(b);
+        if (!corps.id) corps.id = h.id + '--textes';
+        b.setAttribute('aria-controls', corps.id);
+        tete.addEventListener('click', function (e) {
+          if (e.target.closest && e.target.closest('a')) return;      // un lien dans la notice reste un lien
+          var ouvrir = !estOuvert(g);
+          poser(g, ouvrir); noter();
+          if (ouvrir) {
+            corps.classList.add('rp-vient');
+            setTimeout(function () { corps.classList.remove('rp-vient'); }, 400);
+            montrer(g);
+          }
+        });
+        // sur iPhone et iPad, le fond « appuyé » (:active) ne s'affiche que si l'élément écoute le toucher
+        try { tete.addEventListener('touchstart', function () {}, { passive: true }); } catch (e) { /* tant pis */ }
+        // la recherche du navigateur (Ctrl+F) a trouvé un mot dans un groupe replié : il se déplie
+        corps.addEventListener('beforematch', function () { poser(g, true); noter(); });
+      }
+      poser(g, memo ? memo.indexOf(h.id) !== -1 : estOuvert(g));
+    });
+
+    if (sommaire.classList.contains('rp-sommaire--replie')) {
+      tout = sommaire.querySelector('.rp-sommaire__tout');
+      if (!tout) {
+        var entete = sommaire.querySelector('.rp-sommaire__entete');
+        if (!entete) {
+          entete = document.createElement('div'); entete.className = 'rp-sommaire__entete';
+          sommaire.insertBefore(entete, sommaire.firstChild);
+        }
+        tout = document.createElement('button');
+        tout.type = 'button'; tout.className = 'rp-sommaire__tout';
+        entete.appendChild(tout);
+        tout.addEventListener('click', function () { basculerTout(!toutOuvert()); });
+      }
+    }
+    return {
+      retrouvee: !!memo,            // la carte vient d'être remise dans l'état où on l'avait laissée
+      toutOuvert: toutOuvert,
+      basculerTout: basculerTout,
+      ouvrir: function (g) { poser(g, true); noter(); },
+      noter: noter
+    };
+  }
+
   /* ---- bouton « replier / déplier toutes les sections » de l'en-tête ---- */
   function boutonPlier(nombre) {
     var b = document.getElementById('rp-plier');
     if (!b) return;
-    b.hidden = !nombre;
-    etatPlier(b, false);
+    b.hidden = !nombre && !carteCourante;
+    etatPlier(b, carteCourante ? !carteCourante.toutOuvert() : false);
     if (b.dataset.rpPret) return; b.dataset.rpPret = '1';
     b.addEventListener('click', function () {
       var zone = document.querySelector('.md-content');
@@ -128,6 +253,7 @@
       zone.querySelectorAll('.collapsible-content').forEach(function (s) { s.classList.toggle('collapsed', replier); });
       zone.querySelectorAll('.collapsible-heading').forEach(function (h) { h.classList.toggle('open', !replier); });
       etatPlier(b, replier);
+      if (carteCourante) carteCourante.basculerTout(!replier);
       if (replier) window.scrollTo(0, 0);
     });
   }
@@ -248,10 +374,16 @@
     entreesAVenir();
     var repere = repereAncre();
     marqueursDePage(contenu);
-    boutonPlier(sectionsPliables(contenu));
+    var pliables = sectionsPliables(contenu);
+    try { carteCourante = carte(contenu); }
+    catch (e) { carteCourante = null; racine.classList.remove('rp-js'); }   // en cas d'imprévu : tout reste déplié
+    boutonPlier(pliables);
+    if (carteCourante) carteCourante.noter();
     recaler(repere);
     tiroirAccueil();
-    suivreAncre();
+    // De retour sur une carte, on la retrouve telle quelle : l'adresse peut porter l'ancre de la section
+    // où l'on s'était arrêté (Material la tient à jour au fil du défilement), ce n'est pas un lien suivi.
+    if (!(carteCourante && carteCourante.retrouvee)) suivreAncre();
   }
   window.addEventListener('hashchange', suivreAncre);
 
@@ -263,4 +395,5 @@
   } else {
     document.addEventListener('DOMContentLoaded', init);
   }
+  window.rpPret = true;      // overrides/main.html s'en assure : sans ce fichier, rien ne reste replié
 })();

@@ -11,11 +11,15 @@
   <meta name="twitter:card" content="summary">
   {#- Couleur du cadre, reprise par les navigateurs mobiles autour de la page. -#}
   <meta name="theme-color" content="#f1edf8">
-  {#- Thème et police choisis par le lecteur : appliqués avant le premier affichage (pas d'éclair clair en mode sombre). -#}
+  {#- Thème et police choisis par le lecteur : appliqués avant le premier affichage (pas d'éclair clair en mode sombre).
+      La classe « rp-js » dit à la feuille de style que les groupes des rubriques peuvent être repliés (carte d'une
+      rubrique) ; elle est retirée si rp.js n'a pas pu se charger, pour que rien ne reste replié sans moyen de l'ouvrir. -#}
   <script>
     (function () {
+      var d = document.documentElement;
+      d.classList.add('rp-js');
+      window.addEventListener('load', function () { if (!window.rpPret) d.classList.remove('rp-js'); });
       try {
-        var d = document.documentElement;
         var t = localStorage.getItem('themeChoice');
         var f = localStorage.getItem('fontChoice');
         if (t && t !== 'light') d.classList.add('theme-' + t);
