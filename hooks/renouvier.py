@@ -5,9 +5,11 @@ docs/ n'est modifié.
 
 1. SOMMAIRES. Une page dont l'en-tête YAML contient « sommaire: rubrique » reçoit la liste
    hiérarchisée de tout ce que la navigation de mkdocs.yml range dans sa rubrique ; avec
-   « sommaire: portail », elle reçoit une carte par grande rubrique du site. La liste se place
-   à l'endroit du commentaire <!-- sommaire --> (à défaut, à la fin de la page). Elle se met à
-   jour toute seule quand la navigation change.
+   « sommaire: portail » (l'accueil), elle reçoit une ligne par grande rubrique du site : son nom
+   et une phrase qui dit ce qu'on y trouve. La liste se place à l'endroit du commentaire
+   <!-- sommaire --> (à défaut, à la fin de la page). Elle se met à jour toute seule quand la
+   navigation change. Sur l'accueil, ce qui suit le commentaire (mode d'emploi, présentation du
+   projet) est composé sur les deux mêmes colonnes que les rubriques : titre à gauche, texte à droite.
    Le sommaire d'une rubrique est une carte : chaque groupe (une catégorie d'ouvrages, une revue,
    un auteur) y tient en quelques lignes, son titre, ce qu'il contient, son nombre de volumes et
    leurs carrés ; un clic sur le groupe déplie la liste de ses textes. Quand la rubrique est
@@ -18,11 +20,9 @@ docs/ n'est modifié.
                 Sans notice, le groupe annonce de lui-même les titres qu'il contient
      repli:     (rubrique) « oui » : groupes repliés à l'arrivée ; « non » : groupes dépliés ; sans
                 cette clé, ils sont repliés dès que la rubrique compte plus de REPLI_AUTO lignes
-     cartes:    (portail) intitulé d'une rubrique -> « texte », « unite » (« volume, volumes ») et
-                « groupes » (« auteur, auteurs ») de sa carte
-     pixels:    (portail) « non » pour retirer, sous chaque décompte, les carrés et le relevé de la
-                relecture (un carré par volume, plein quand la relecture est faite, vide quand le
-                texte est encore brut ; calculé à chaque construction, rien à tenir à jour)
+     cartes:    (portail) intitulé d'une rubrique -> « texte » (la phrase affichée sur l'accueil ;
+                un titre d'ouvrage s'y écrit entre astérisques, *Uchronie*, pour être en italique)
+                et « unite » (« volume, volumes » : ce que comptent les groupes de sa carte)
    Chaque ligne indique l'état du texte, lu dans le fichier : « brut » si la page porte le
    bandeau « texte brut non corrigé », « à venir » (sans lien) si la page est vide ou absente.
 
@@ -316,8 +316,8 @@ def _marque(e):
 
 
 def _carre(item, e):
-    """Le carré d'état d'un volume transcrit, même signe que sur l'accueil : plein, la relecture est
-    faite ; vide, le texte est encore brut. Rien pour les pages qui ne sont pas des transcriptions."""
+    """Le carré d'état d'un volume transcrit : plein, la relecture est faite ; vide, le texte est encore
+    brut. Rien pour les pages qui ne sont pas des transcriptions."""
     if e not in ('ok', 'brut') or not isinstance(item, Page) or not item.file.src_uri.startswith(TRANSCRIPTIONS):
         return ''
     return '<i class="rp-carre%s" aria-hidden="true"></i>' % (' rp-carre--vide' if e == 'brut' else '')
@@ -482,7 +482,7 @@ LEGENDE_FAITE = '<i class="rp-carre" aria-hidden="true"></i>Carré plein : la re
 
 def _unite(rubrique):
     """Le nom de ce que compte une rubrique (« volume, volumes »), tel que le fixe la page d'accueil
-    (clé « cartes » de son en-tête) : une seule source pour l'accueil et pour les pages des rubriques."""
+    (clé « cartes » de son en-tête, où sont réglées les rubriques)."""
     if _NAV['unites'] is None:
         _NAV['unites'] = {}
         nav = _NAV['nav']
@@ -536,7 +536,7 @@ def _apercu(groupe):
 
 
 def _mesure(groupe, page, unite):
-    """Le décompte d'un groupe et ses carrés (un par volume, comme sur l'accueil)."""
+    """Le décompte d'un groupe et ses carrés (un par volume)."""
     etats = [e for e in (etat(p) for p in _volumes(groupe)) if e in ('ok', 'brut')]
     n = len(etats)
     if not n:
@@ -659,17 +659,19 @@ def sommaire_rubrique(page):
         + [b for b in blocs if b] + ['</div>'])
 
 
+def _phrase(texte):
+    """La phrase d'une rubrique sur l'accueil : texte simple, où un titre entre astérisques est en italique."""
+    return re.sub(r'\*([^*\n]+)\*', r'<em>\1</em>', html.escape(str(texte or '').strip()))
+
+
 def sommaire_portail(page):
+    """L'accueil : une ligne par rubrique, son nom et ce qu'on y trouve. Ni décompte ni état des textes
+    (ils sont sur la carte de chaque rubrique) ; une rubrique qui n'a encore aucun texte est dite « à venir »."""
     nav = _NAV['nav']
     if nav is None:
         return ''
     reglages = page.meta.get('cartes') or {}
-    # Le fonds en pixels, pour les rubriques de transcriptions : un carré par volume, plein quand la
-    # relecture est faite, vide quand le texte est encore brut, et le décompte en toutes lettres.
-    # Rien à tenir à jour : l'état est lu dans chaque fichier (bandeau « texte brut ») à chaque
-    # construction du site. Se coupe depuis l'en-tête de la page d'accueil : « pixels: non ».
-    avec_pixels = str(page.meta.get('pixels', 'oui')).strip().lower() not in ('non', 'no', 'false', '0')
-    cartes, bruts, carres = [], 0, 0
+    cartes = []
     for rubrique in nav.items:
         if not isinstance(rubrique, Section):
             continue
@@ -679,39 +681,20 @@ def sommaire_portail(page):
         r = reglages.get(rubrique.title) or {}
         if isinstance(r, str):
             r = {'texte': r}
-        pages = [p for p in _volumes(rubrique) if p is not index]
-        etats = [e for e in (etat(p) for p in pages) if e in ('ok', 'brut')]
-        n = len(etats)
-        pixels = ''
-        if n and avec_pixels and index.file.src_uri.startswith(TRANSCRIPTIONS):
-            b = etats.count('brut')
-            bruts += b
-            carres += n
-            releve = 'relecture complète' if not b else f'relecture : {n - b} sur {n}'
-            pixels = ('<span class="rp-carte__pixels" aria-hidden="true">'
-                      + ''.join('<i class="b"></i>' if e == 'brut' else '<i></i>' for e in etats) + '</span>'
-                      + f'<span class="rp-carte__etat">{releve}</span>')
-        if n:
-            compte = _nombre(n, _paire(r.get('unite'), ('texte', 'textes')))
-            groupes = _paire(r.get('groupes'), None)
-            if groupes:
-                g = sum(1 for e in rubrique.children if isinstance(e, Section))
-                compte += ', ' + _nombre(g, groupes)
-        else:
-            compte = 'À venir'
+        texte = _phrase(r.get('texte'))
+        if not any(etat(p) in ('ok', 'brut') for p in _volumes(rubrique) if p is not index):
+            if texte and texte[-1] not in '.!?…':
+                texte += '.'
+            texte += (' ' if texte else '') + 'À venir.'
         cartes.append(
             f'<a class="rp-carte" href="{_lien(index, page)}">'
             f'<span class="rp-carte__titre">{html.escape(rubrique.title)}</span>'
-            f'<span class="rp-carte__texte">{html.escape(str(r.get("texte") or ""))}</span>'
-            f'<span class="rp-carte__mesure"><span class="rp-carte__compte">{html.escape(compte)}</span>{pixels}</span>'
+            f'<span class="rp-carte__texte">{texte}</span>'
             '</a>')
-    legende = ''
-    if carres:
-        texte = ('Un carré par volume : plein, la relecture est faite ; vide, le texte est encore brut '
-                 '(reconnaissance de caractères en attente de relecture).' if bruts else
-                 'Un carré par volume : la relecture de tous les textes est faite.')
-        legende = f'\n<p class="rp-portail__legende">{texte}</p>'
-    return '<div class="rp-portail" data-search-exclude>\n' + '\n'.join(cartes) + legende + '\n</div>'
+    if not cartes:
+        return ''
+    return ('<nav class="rp-portail" aria-label="Rubriques du site" data-search-exclude>\n'
+            + '\n'.join(cartes) + '\n</nav>')
 
 
 def inserer_sommaire(markdown, page):
@@ -725,6 +708,13 @@ def inserer_sommaire(markdown, page):
     if not bloc:
         return markdown
     if MARQUEUR in markdown:
+        if genre == 'portail' and _NAV['imbrication']:
+            # Ce qui suit les rubriques (mode d'emploi, présentation du projet) est enveloppé : la feuille
+            # de style le compose sur les deux colonnes des rubriques, titre à gauche, texte à droite.
+            avant, suite = markdown.split(MARQUEUR, 1)
+            if suite.strip():
+                return (avant + bloc + '\n\n<div class="rp-suite" markdown="1">\n\n'
+                        + suite.strip('\n') + '\n\n</div>\n')
         return markdown.replace(MARQUEUR, bloc, 1)
     return markdown.rstrip() + '\n\n' + bloc + '\n'
 

@@ -32,3 +32,19 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Google+Sans:ital,wght@0,400..700;1,400..700&family=Google+Sans+Code:ital,wght@0,400..700;1,400..700&family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Solway:wght@400;500;700&display=swap" rel="stylesheet">
 {% endblock %}
+
+{#- Les libellés du panneau de recherche disent sur quoi elle porte : les titres, non le texte intégral
+    des volumes. (Material lit ces libellés dans le bloc « __config », une fois, au chargement.) -#}
+{% block config %}
+  {{ super() }}
+  <script>
+    (function () {
+      try {
+        var c = document.getElementById('__config'), o = JSON.parse(c.textContent);
+        o.translations['search.result.placeholder'] = 'Recherche par titre : ouvrages, articles, chapitres';
+        o.translations['search.result.none'] = 'Aucun résultat. La recherche porte sur les titres, non sur le texte intégral des volumes.';
+        c.textContent = JSON.stringify(o);
+      } catch (e) {}
+    })();
+  </script>
+{% endblock %}

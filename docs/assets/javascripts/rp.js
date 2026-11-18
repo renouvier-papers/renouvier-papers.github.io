@@ -4,7 +4,7 @@
    - sections pliables (clic sur un titre) et bouton « tout replier » de l'en-tête ;
    - carte d'une rubrique : groupes repliés à l'arrivée, dépliés d'un clic, retrouvés tels quels au retour ;
    - réglages d'affichage (4 thèmes, 4 polices de lecture), mémorisés sur l'appareil ;
-   - tiroir mobile ouvert sur les grandes rubriques depuis l'accueil ;
+   - tiroir mobile ouvert sur les grandes rubriques depuis l'accueil ; rubriques de l'accueil qui répondent au toucher ;
    - entrées du menu « à venir » (page pas encore créée) : sans lien ;
    - titre visé par un lien : maintenu à sa place pendant la mise en forme de la page.
    Le thème et la police mémorisés sont appliqués avant le premier affichage par
@@ -69,7 +69,7 @@
 
   /* ---- sections pliables ---- */
   function sectionsPliables(zone) {
-    if (!zone) return 0;
+    if (!zone || zone.querySelector('.rp-portail')) return 0;       // l'accueil se lit d'un seul tenant
     var titres = Array.prototype.filter.call(zone.querySelectorAll('h2, h3, h4'), function (h) {
       return !(h.closest && h.closest('.rp-sommaire'));             // la carte d'une rubrique a ses propres groupes
     });
@@ -333,6 +333,17 @@
     });
   }
 
+  /* ---- accueil : les rubriques ----
+     Sur iPhone et iPad, le fond « appuyé » d'un lien (:active) ne s'affiche que si l'élément écoute le
+     toucher : sans cela, toucher une rubrique ne donnerait aucun retour avant le changement de page. */
+  function rubriquesAccueil(zone) {
+    if (!zone) return;
+    Array.prototype.forEach.call(zone.querySelectorAll('.rp-portail .rp-carte'), function (a) {
+      if (a.dataset.rpPret) return; a.dataset.rpPret = '1';
+      try { a.addEventListener('touchstart', function () {}, { passive: true }); } catch (e) { /* tant pis */ }
+    });
+  }
+
   /* ---- entrées du menu dont la page n'existe pas encore ----
      mkdocs.yml annonce quelques textes dont le fichier manque : MkDocs en fait un lien vers
      « x.md », qui ne mène nulle part. Le menu les montre (mention « à venir », posée par
@@ -381,6 +392,7 @@
     if (carteCourante) carteCourante.noter();
     recaler(repere);
     tiroirAccueil();
+    rubriquesAccueil(contenu);
     // De retour sur une carte, on la retrouve telle quelle : l'adresse peut porter l'ancre de la section
     // où l'on s'était arrêté (Material la tient à jour au fil du défilement), ce n'est pas un lien suivi.
     if (!(carteCourante && carteCourante.retrouvee)) suivreAncre();
