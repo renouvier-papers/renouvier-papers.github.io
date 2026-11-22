@@ -48,3 +48,30 @@
     })();
   </script>
 {% endblock %}
+
+{#- Mesure d'audience : GoatCounter, sans cookie ni identifiant (page « Droits et licences », section « Mesure
+    d'audience »). Le script count.js est servi par le site lui-même ; il compte la page d'arrivée. Les pages
+    suivantes sont chargées sans que le navigateur recharge (navigation instantanée de Material) : chacune est
+    signalée ici, avec la page quittée pour provenance. Pour retirer la mesure : supprimer ce bloc. -#}
+{% block scripts %}
+  {{ super() }}
+  <script data-goatcounter="https://artsau.goatcounter.com/count" async src="{{ 'assets/javascripts/count.js' | url }}"></script>
+  <script>
+    (function () {
+      if (window.rpMesure || !window.document$ || typeof window.document$.subscribe !== 'function') return;
+      window.rpMesure = true;
+      var page = location.pathname, adresse = location.origin + location.pathname;
+      window.document$.subscribe(function () {
+        if (location.pathname === page) return;          // page d'arrivée (comptée par count.js) ou simple ancre
+        var avant = adresse;
+        page = location.pathname; adresse = location.origin + location.pathname;
+        setTimeout(function () {                         // le temps que le titre de la nouvelle page soit en place
+          try {
+            var gc = window.goatcounter;
+            if (gc && typeof gc.count === 'function') gc.count({ path: location.pathname, title: document.title, referrer: avant });
+          } catch (e) {}
+        }, 60);
+      });
+    })();
+  </script>
+{% endblock %}
