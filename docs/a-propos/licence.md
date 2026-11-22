@@ -31,7 +31,7 @@ Sauf mention contraire, les annotations, introductions, commentaires et traducti
 
 Toute demande de réutilisation de ces contenus est à adresser au responsable du projet.
 
-## Mesure d'audience { #mesure-audience }
+## 4. Mesure d'audience { #mesure-audience }
 
 Le site ne dépose aucun cookie et n'affiche aucune publicité. Sa fréquentation est mesurée avec [GoatCounter](https://www.goatcounter.com/help/privacy), un logiciel libre hébergé dans l'Union européenne, à seule fin de savoir quelles pages sont lues et par quels chemins les lecteurs y arrivent.
 
