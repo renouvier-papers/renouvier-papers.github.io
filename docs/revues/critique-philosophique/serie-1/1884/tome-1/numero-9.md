@@ -1,0 +1,104 @@
+---
+title: "N° 9 (29 mars 1884)"
+---
+
+# N° 9 (29 mars 1884)
+
+> **Source** : *La Critique philosophique*, 13e année, tome I, n° 9, 29 mars 1884, p. 129-144. — Exemplaire numérisé par Google.
+
+[p. 129]
+
+## LES MOTS SOCIALISTE ET SOCIALISME. A propos d'un discours récent de M. Spuller (F. P.) {#les-mots-socialiste-et-socialisme-a-propos-d-un-discours-rec}
+
+On sait qu'à la suite de la discussion parlementaire sur la situation économique, une Commission d'enquête de quarante-quatre membres a été nommée par la Chambre des députés. M. Spuller, président de cette Commission, a expliqué, en un discours intéressant, quelle idée il se faisait de l'enquête décrétée, dans quel esprit et suivant quelle méthode elle lui paraissait devoir être conduite. Nous en rappelons les principaux passages :
+
+J'ai suivi avec une attention soutenue la discussion qui s'est déroulée pendant huit jours devant le pays, et je pense très sincèrement que cette discussion a honoré grandement la Chambre. Après avoir écouté les divers discours prononcés de part et d'autre, j'ai été amené à penser que l'enquête proposée n'était nullement et n'est pas en opposition avec le langage et l'attitude du gouvernement. Ce langage et cette attitude ont eu toute mon approbation. M. le Président du conseil, avec l'autorité qui lui appartient, a parlé en homme qui a le sentiment exact et profond de la responsabilité du pouvoir. Il s'est montré aussi net et précis dans l'exposé de ses idées que prudent et réservé dans le domaine des recherches à faire et des investigations à poursuivre, ne voulant pas, avec raison, empiéter sur les attributions essentielles du Parlement. De leur côté, ceux qui demandaient l'enquête étaient dans la vérité quand ils disaient que cette enquête serait suivie avec sympathie par le monde du travail et que la Chambre, en y procédant, ferait une œuvre dont on peut se promettre d'utiles et féconds résultats. C'est ainsi que l'enquête a pu être votée, non pas dans un esprit d'hostilité à l'égard du cabinet, mais avec l'intention avouée et honorable de faciliter sa tâche et celle de la majorité républicaine de la Chambre qui a des engagements envers la démocratie française de qui elle tient son mandat.
+
+C'est pourquoi, messieurs, cette enquête doit être entreprise et poursuivie dans un esprit profondément social ; et, comme je n'ai pas peur des mots ni ici ni ailleurs, je dirais volontiers dans un esprit profondément *socialiste*. Non pas, messieurs, que je veuille rétrograder sur la génération actuelle et me servir de ce mot de *socialisme* avec l'acception décriée et menaçante qu'il avait il y a quarante ou trente ans. A mon sens, les discours prononcés dans [p. 130] la discussion qui vient de finir, ont eu ce mérite particulier de démontrer les changements, les progrès notables qui se sont opérés dans les esprits et dans les idées depuis cette époque. Grâce aux libertés publiques dont nous jouissons, les anciennes théories socialistes obscures et confuses ont fait place, tout le monde a pu le constater, à des opinions plus conformes aux données de la science économique et plus en rapport avec les besoins d'ordre, de travail, d'épargne personnelle qui distinguent si éminemment notre démocratie.
+
+L'enquête que nous allons commencer peut donc donner des résultats certains, utiles et appréciables... Mais pour qu'elle soit vivante et féconde, il faut de toute nécessité qu'elle soit entreprise avec méthode, menée avec précision, et sous l'empire de la nécessité des solutions vraiment pratiques. C'est à ce titre, messieurs, qu'elle devra porter, non sur des théories plus ou moins contestables, mais sur des faits positifs, recueillis et classés avec soin : elle doit surtout servir à constituer un dossier où viendront puiser à pleines mains les Chambres et le gouvernement pour l'étude et, s'il se peut, pour la solution des diverses questions qui touchent et qui passionnent nos classes ouvrières.
+
+A ce point de vue, messieurs, l'esprit qui doit animer vos recherches et vos travaux, me paraît être ce large et généreux esprit de concorde qui a présidé à l'établissement de nos institutions politiques. Il s'agit ici d'une œuvre de fraternité républicaine, et ce n'est pas pour rien, mes chers collègues, que les grands hommes de la Révolution, voulant résumer leurs principes et marquer la voie où devait s'engager notre démocratie, associant aux vues élevées de la philosophie les profonds instincts populaires, ont donné pour devise à la France moderne l'admirable formule : *Liberté, Égalité*, *Fraternité*.
+
+C'est à une œuvre de fraternité civique et sociale que vous êtes appelés, messieurs. Il faut y apporter ce qui fonde les œuvres durables, l'esprit de sagesse et de mesure, la patience, le désintéressement et l'impartialité dans les recherches. L'investigation doit être complète, sans idées préconçues, sans système arrêté, sans parti pris, sans préjugés...
+
+... Si les questions sociales ont changé d'aspect parmi nous, si la France, plus libre, plus éclairée, a vu se dissiper bien des obscurités, des préjugés nombreux s'évanouir et des erreurs se rectifier dont on retrouverait encore la trace et l'influence au dehors, nous ne devons pas nous dissimuler que les législations étrangères ont réalisé certaines réformes qui s'imposent à nos études, afin d'en faire profiter notre pays, s'il y a lieu...
+
+« ... Si cette enquête aboutit, c'est-à-dire si elle parvient à constituer le dossier des questions sociales, la Chambre aura bien mérité de la démocratie républicaine. Les parlements sont faits pour ouvrir de grandes enquêtes, et il n'y a que des avantages à ce qu'elles reviennent à des époques rapprochées : on y entend les doléances, les vœux du pays : on l'appelle à faire connaître ses besoins ; on suit son mouvement ; on voit d'où il vient et où il va.
+
+Voilà un discours d'une sagesse absolument irréprochable. Un mot, cependant, s'y trouve qui a étonné et offensé certaines oreilles. « Comme [p. 131] je n'ai pas peur des mots, ni ici, ni ailleurs, je dirais volontiers que l'enquête doit être poursuivie dans un esprit profondément socialiste. » Le *Temps* a publié un article contre ce mot équivoque et suspect de *socialiste*.
+
+« Nous n'avons, dit ce journal, pas plus que M. Spuller, peur des mots ; mais, nous avouons notre antipathie pour les mots vagues et sonores. Le tort que nous leur reprochons est presque toujours de créer des malentendus. Ils ont l'air de dire quelque chose, et, lorsqu'on les presse, on n'y découvre rien, en sorte que ceux à qui nous les avons lancés comme un symbole ou une promesse, semblent ensuite fondés à se plaindre que nous les ayons trompés. Quelle idée précise représentent, par exemple, ces trois mots : « esprit profondément socialiste ? » Veut-on dire que l'enquête doit porter sur les rapports du travail et du capital, de la production et de la consommation ; qu'elle doit être sincère, cordiale, animée d'une sympathie vraiment humaine et paternelle ? C'est une vérité qui s'entend d'elle-même. Pourquoi, dès lors, la cacher sous un mot qui a le malheur de signifier bien autre chose encore ? Veut-on aller plus loin ? Espère-t-on faire une part aux théories comprises sous le nom de socialisme et qui font de l'État, plus ou moins ouvertement, le dispensateur suprême des devoirs, des biens et des jouissances ? Alors, on méconnaît le seul résultat positif de la discussion de huit jours qui a eu lieu à la Chambre, lequel est certainement qu'il n'y a rien à attendre, pour résoudre les questions économiques, de ce qu'on connaît jusqu'à ce jour sous le nom de socialisme politique[^131-1]. »
+
+Un autre journal républicain, la *Gironde*, a cru devoir suivre le *Temps* en cette critique :
+
+« Ou le mot socialiste, dit-elle, a un sens assez précis que tout le monde connaît, — et M. Spuller s'empresse d'affirmer en termes énergiques qu'il n'accepte point ce sens-là, — ou ce mot a un sens tellement ondoyant et vague qu'il est impossible de connaître la pensée de celui qui l'emploie, à moins qu'il ne soit suivi d'une profession de foi étendue et catégorique. Or, comme M. Spuller n'a fait, à cet égard, aucune profession de foi, nous sommes à nous demander ce qu'il a pu vouloir dire en parlant d'esprit socialiste[^131-2]. »
+
+Faut-il, après la *Gironde*, après le *Temps*, citer la *Revue des Deux-Mondes* ? Elle n'a pas manqué de tenir le même langage dans sa chronique politique, et sur un ton encore plus marqué d'impatience.
+
+« M. Spuller, sous prétexte qu'il n'a pas peur des mots, n'a pas craint de dire que l'enquête devait « être poursuivie dans un esprit profondément socialiste ». D'un autre côté, il est vrai, il s'est empressé de donner toute son approbation aux opinions de M. le Président du conseil qui, justement dans cette dernière discussion, dans ses plus récents discours, [p. 132] s'est prononcé avec une netteté hardie contre les prétendues recettes socialistes, qui s'est déclaré partisan énergique de la liberté, de l'initiative individuelle, dans les affaires d'industrie. Que signifie déjà cette équivoque placée par le président même de la Commission au seuil de l'enquête comme pour en obscurcir ou en altérer d'avance le caractère ? Certes, si les équivoques et les idées fausses sont toujours dangereuses en politique, elles le sont encore plus dans ces délicates et redoutables questions qui ne se résolvent pas avec des chimères, ou avec des mots décevants, parce qu'elles touchent aux plus sévères réalités de la vie, aux conditions du travail, aux salaires, aux relations des ouvriers et des patrons, aussi bien qu'aux relations du commerce entre les peuples ? Qu'entend-on par ce mot socialisme, qu'on répète si souvent et que M. le président Spuller a cru devoir introduire officiellement dans le programme de la nouvelle commission d'enquête parlementaire ? S'il s'agit d'étudier sans parti pris, avec sincérité, les causes de la crise dont souffre aujourd'hui la France industrielle, de rechercher comment on peut améliorer les conditions du travail, protéger l'enfance déshéritée, ou assurer une retraite aux vieillards, — s'il s'agit de tout cela, rien de mieux sans aucun doute. Seulement, ce n'est pas là découvrir une grande nouveauté, c'est-tout simplement se proposer ce que, depuis longtemps, tous les régimes ont fait sans y mettre tant de prétention... S'agit-il d'autre chose ? Veut-on désigner sous le nom de socialisme, imaginé par les sectes, tout ce qui fermente dans les têtes révolutionnaires, l'impôt progressif, la guerre au capital, l'abolition plus ou moins partielle de l'héritage, les dotations de l'État en faveur des ouvriers, — oh ! alors on a raison de le dire, c'est très différent ; c'est une nouveauté, et, si la Commission d'enquête, sous prétexte qu'elle n'a pas peur des mots, qu'elle doit parler et procéder autrement que les régimes qui ont précédé la République, se laissait entraîner dans cette voie, elle se préparerait d'étranges mécomptes, elle préparerait à l'industrie, au travail, aux ouvriers eux-mêmes, de cruelles, de périlleuses épreuves[^132-1] ».
+
+Ce qui malheureusement semble justifier ces observations critiques de la *Revue des Deux-Mondes*, de la *Gironde* et du *Temps*, c'est que le mot *socialiste*, même expliqué comme il l'a été par M. Spuller, a mis en joie tel journaliste qui n'entend pas, comme M. Spuller, en écarter l'ancienne acception « décriée et menaçante ».
+
+« Le vote de l'enquête, lisons-nous dans l'*Hotel-de-Ville, organe de la démocratie socialiste des communes*, a posé implicitement la question sociale. La Commission a eu le bon goût de le reconnaître, et son président, M. Spuller, a souligné avec éclat le caractère particulier et nouveau du mandat des quarante-quatre en déclarant que leurs investigations seraient dirigées dans un esprit profondément socialiste.
+
+« Il est vrai que le personnage politique qui a prononcé cette parole a [p. 133] éprouvé en même temps le besoin de l'expliquer en ajoutant « qu'il n'avait pas peur des mots », mais quelle que soit la glose, le mot reste, et la glose ne l'affaiblit pas, au contraire.
+
+« Ainsi, la question sociale est posée, voilà qui est notoire, officiel, et elle va, elle doit être étudiée dans un esprit absolument socialiste. Voilà qui est non moins notoire, non moins officiel.
+
+« C'est très bien, c'est parfait, et nous voudrions souvent entendre des déclarations de ce genre dans les régions où celle-ci s'est produite. Cela pourrait nous faire espérer et nous faire oublier bien des choses[^133-1]. »
+
+Plus loin, l'*Hotel-de-Ville*, après avoir renvoyé ceux qui demandent ce que c'est que le socialisme, « au principe de l'expropriation, ou à celui de l'impôt, ou tout simplement à la notion de la Justice », conclut que, « puisque l'argent des particuliers est trop bête, trop lâche, trop cupide, trop immoral pour relever l'industrie nationale, c'est la Nation elle-même qui sera obligée d'en prendre soin avec ses deniers » ; que « l'État, les grandes Communes feront l'avance de l'outillage à des syndicats de travailleurs intelligents, éprouvés, expérimentés » ; que « l'on trouvera peut-être alors des banques pour faire le reste à de bonnes conditions » ; que « si l'on n'en trouve pas, on les inventera », etc., etc.
+
+Est-il donc vrai que le mot *socialisme* mérite, aujourd'hui encore, le reproche de créer des malentendus, c'est-à-dire de manquer de clarté et de franchise ? Est-il vrai qu'il n'a pas cessé d'être dangereux par les idées et les sentiments qui s'y associent dans les cerveaux troubles, par les espérances indéfinies, irréalisables, antiéconomiques qu'on y fait entrer ? Est-il vrai qu'il peut, aujourd'hui encore, tout comme en 1848, tromper une démocratie ignorante et passionnée, troubler et corrompre sa conscience, tourner aux chimères son ardeur et son activité ? Est-il vrai qu'il peut, aujourd'hui encore, servir la politique des démagogues et, par cela même, celle des prétendants ? Est-il vrai qu'après avoir tué la seconde République, il pourrait bien faire succomber la troisième sous le poids des fautes qu'il l'entraînerait à commettre ? A quoi donc sert l'expérience ? L'histoire des « quarante ou trente dernières années » n'aurait-elle rien appris à nos classes ouvrières ? Est-ce une raison sereine ou bien un optimisme aveugle qui parle « d'obscurités dissipées, d'erreurs rectifiées, de préjugés évanouis ? » F. Pillon.
+
+[p. 134]
+
+## ESSAI SUR LES ARGUMENTS DU MATÉRIALISME DANS LUCRÈCE — Par J.-B. Royer (Paris, Douville frères) (F. G.) {#essai-sur-les-arguments-du-materialisme-dans-lucrece-par-j-b}
+
+*non reproduit : domaine public non établi pour son auteur*
+
+[p. 135] [p. 136] [p. 137] [p. 138] [p. 139] [p. 140] [p. 141]
+
+### INTRODUCTION A L'ÉTUDE DE LA THÉOLOGIE PROTESTANTE — Par Ernest Martin (Paris, G. Fischbacher). {#introduction-a-l-etude-de-la-theologie-protestante-par-ernes}
+
+*non reproduit : domaine public non établi pour son auteur*
+
+[p. 142] [p. 143]
+
+### UNE NOUVELLE REVUE PROTESTANTE. {#une-nouvelle-revue-protestante}
+
+Une nouvelle Revue protestante doit prochainement paraître, qui s'appellera la *Vie chrétienne*, et qui sera l'organe du protestantisme libéral[^143-1]. Nous en mettons le prospectus sous les yeux de nos lecteurs.
+
+Nos journaux hebdomadaires s'occupent plus spécialement des questions ecclésiastiques. Nos Revues mensuelles et trimestrielles traitent plus spécialement les questions de théologie pure et de haute philosophie. Or, il est plusieurs classes de lecteurs que ces publications n'intéressent pas ou même n'atteignent pas. Ici ce sont des âmes profondément chrétiennes que nos discussions affligent et que les spéculations trop élevées laissent indifférentes. — Là, ce sont des fidèles privés d'aliments spirituels, soit parce que la maladie les retient loin du temple, soit parce que leur Église est privée de pasteur. — Ailleurs, ce sont des hommes du peuple, religieux au fond, mais entraînés par le flot des publications incrédules et auxquels nul ne fournit des arguments solides en faveur de la foi et des espérances chrétiennes. — Ailleurs encore, ce sont des esprits, mais prévenus, qui se font de nos convictions et de nos œuvres les idées les plus erronées et que personne n'éclaire. — Tel est le public auquel nous avons à cœur de nous adresser.
+
+Notre but est donc tout à la fois religieux et apologétique. Voici par quels moyens nous espérons l'atteindre.
+
+I. — Notre Revue sera essentiellement édifiante. Nous nous interdirons d'une manière absolue toute controverse personnelle ou même locale. Nous remplirons une mission de paix dans le domaine des sentiments et des idées. Sur presque tous les points, l'orthodoxie a évolué vers une conception plus logique et plus moderne du christianisme. De son côté, le libéralisme sortant de sa période critique a pris des allures plus positives et est entré dans sa période de reconstruction. Il s'agit pour nous de favoriser ce double acheminement vers le terrain de la conciliation. Il s'agit de dégager dans toutes les manifestations de la pensée chrétienne ce qui est vrai, évangélique, capable de réveiller et de nourrir la vie spirituelle. A cet effet, nous em[p. 144]ploierons : *des méditations courtes et substantielles, des articles de théologie pratique, des études sur la pensée religieuse des poètes et des artistes, des nouvelles, etc*.
+
+II. — Notre Revue ne sera pas pacifique envers tout le monde. Désireux de « combattre le bon combat », nous convierons tous nos frères à une sainte croisade contre le mal et contre l'incrédulité. Il faut dire et répéter bien haut que notre apologétique s'est renouvelée ; que nous nous sommes placés sur un terrain où les sciences ne sauraient faire courir aucun danger à notre foi. Notre devoir est de donner des armes à ceux qui nous sont attachés de cœur. Il est urgent de déterminer dans la masse un courant de convictions capable de lutter contre le positivisme et contre le matérialisme. A cet effet, nous emploierons : *des articles d'apologétique populaire, des études sur nos diverses œuvres de bienfaisance et d'évangélisation, des études historiques et des biographies de grands hommes, etc*.
+
+III. — Enfin notre Revue sera un instrument de propagande. Persuadés que le christianisme, est, avant tout, un principe de vie ; persuadés qu'il doit, par suite, inspirer les diverses manifestations de la vie sociale et politique, nous nous efforcerons de montrer : d'*abord*, que l'Évangile résout la question sociale par le progrès lent et par le perfectionnement des individus ; *ensuite*, que l'Évangile retrouvé et développé par le protestantisme conduit à une politique juste, sage et réformatrice ; *enfin*, que la France aurait tout à gagner à se ranger sous le drapeau de l'Évangile et de la liberté.
+
+Nous ne pouvons qu'applaudir à ces trois buts de la nouvelle revue : travailler à la conciliation des protestants orthodoxes et des protestants libéraux ; déterminer un courant de convictions capables de résister au matérialisme contemporain ; montrer que la France républicaine aurait tout à gagner à se ranger sous le drapeau de l'Evangile, interprété par la conscience autonome. Ce sont ceux que, depuis six ans, nous poursuivons, à notre manière, dans la *Critique religieuse*.
+
+Remarquons à ce sujet que les deux derniers buts sont en grande partie subordonnés au premier. Il ne se comprend guère que le protestantisme, tant que ses forces sont divisées, puisse exercer une action intellectuelle, morale et sociale efficace sur la société française. Nous croyons que le principal obstacle à la conciliation désirée est dans les opinions philosophiques embrassées par les uns et par les autres. Cet obstacle pourrait disparaître, si les protestants orthodoxes s'appliquaient sincèrement à démêler dans leurs dogmes traditionnels ce qui relève d'anciens systèmes métaphysiques et ce qui appartient réellement à la conscience religieuse ; et si les protestants libéraux consentaient à réviser des doctrines spiritualistes ou panthéistes dont ils se satisfont trop facilement et qui les éloignent plus que la raison ne le demande d'une foi religieuse positive.
+
+F. Pillon.
+
+*Le rédacteur-gérant* : F. Pillon.
+
+Saint-Denis. — Imprimerie Ch. Lambert, 17, rue de Paris.
+
+[^131-1]: Le *Temps*, n° du 10 février.
+
+
+[^131-2]: La *Gironde*, n° du 13 février.
+
+
+[^132-1]: La *Revue des Deux-Mondes*, n° du 15 février.
+
+
+[^133-1]: L'*Hôtel-de-Ville, organe de la démocratie socialiste des communes*, n° du 17 février.
+
+[^143-1]: La *Vie chrétienne* paraîtra le 1<sup>er</sup> de chaque mois et formera à la fin de l'année un volume d'environ 400 pages in-8°. Le comité directeur se compose de MM. Viguié, Mouchon, E. Schulz, Jeanjean, Benoît-Germain, E. Roussy, Grotz, Dardier, Bertrand, Trial et Comte. Le prix d'abonnement est fixé à 10 francs. Les personnes qui désirent s'abonner doivent s'adresser à M. le pasteur Comte, à Nimes, rue du Fort, 4.
