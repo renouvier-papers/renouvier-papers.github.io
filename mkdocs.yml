@@ -1165,10 +1165,9 @@ nav:
       - "H. Pillon — Bibliographie philosophique française de l'année 1913": revues/annee-philosophique/1913/bibliographie.md # [NOUVEAU]
 - Archives:
   - archives/index.md
-  - Correspondance:
-    - Correspondance générale: archives/correspondance.md # [VIDE]
-    - Correspondance Renouvier-Secrétan (1910): archives/correspondance-secretan.md # [NOUVEAU]
-  - Manuscrits: archives/manuscrits.md # [VIDE]
+  - Inventaire: archives/inventaire.md
+  - Correspondance: archives/correspondance.md
+  - Manuscrits: archives/manuscrits.md
 
 - Autres auteurs:
   - autres-auteurs/index.md

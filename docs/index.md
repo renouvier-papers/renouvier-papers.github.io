@@ -13,7 +13,7 @@ cartes:
     texte: "*L'Année philosophique*, *La Critique philosophique* et son supplément, *La Critique religieuse*."
     unite: "volume, volumes"
   Archives:
-    texte: "Correspondance et manuscrits conservés à l'Université de Montpellier Paul-Valéry."
+    texte: "Correspondance et manuscrits conservés à l'Université de Montpellier Paul-Valéry. Transcriptions à venir."
   Autres auteurs:
     texte: "Traités scientifiques, essais philosophiques et études critiques de contemporains de Renouvier."
     unite: "volume, volumes"
