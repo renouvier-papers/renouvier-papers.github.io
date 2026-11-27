@@ -1,6 +1,6 @@
 """Renouvier Papers : crochets de construction du site (MkDocs, clé « hooks » de mkdocs.yml).
 
-Ce fichier fait six choses, toutes au moment où le site est construit. Aucun fichier de
+Ce fichier fait sept choses, toutes au moment où le site est construit. Aucun fichier de
 docs/ n'est modifié.
 
 1. SOMMAIRES. Une page dont l'en-tête YAML contient « sommaire: rubrique » reçoit la liste
@@ -11,9 +11,11 @@ docs/ n'est modifié.
    navigation change. Sur l'accueil, ce qui suit le commentaire (mode d'emploi, présentation du
    projet) est composé sur les deux mêmes colonnes que les rubriques : titre à gauche, texte à droite.
    Le sommaire d'une rubrique est une carte : chaque groupe (une catégorie d'ouvrages, une revue,
-   un auteur) y tient en quelques lignes, son titre, ce qu'il contient, son nombre de volumes et
-   leurs carrés ; un clic sur le groupe déplie la liste de ses textes. Quand la rubrique est
-   longue, les groupes sont repliés à l'arrivée : on voit d'abord l'ensemble, le détail ensuite.
+   un auteur) y tient en quelques lignes, son titre, ce qu'il contient et son nombre de volumes ;
+   un clic sur le groupe déplie la liste de ses textes. Quand la rubrique est longue, les groupes
+   sont repliés à l'arrivée : on voit d'abord l'ensemble, le détail ensuite. Un volume de revue
+   (une année, un tome) qui a sa page d'accueil tient en une ligne, qui mène à cette page et
+   annonce son contenu.
    Clés facultatives de l'en-tête :
      notices:   (rubrique) intitulé d'un groupe -> phrase affichée sous son titre ; l'ordre des
                 notices fixe l'ordre des groupes, les groupes sans notice suivent dans l'ordre du menu.
@@ -23,8 +25,11 @@ docs/ n'est modifié.
      cartes:    (portail) intitulé d'une rubrique -> « texte » (la phrase affichée sur l'accueil ;
                 un titre d'ouvrage s'y écrit entre astérisques, *Uchronie*, pour être en italique)
                 et « unite » (« volume, volumes » : ce que comptent les groupes de sa carte)
-   Chaque ligne indique l'état du texte, lu dans le fichier : « brut » si la page porte le
-   bandeau « texte brut non corrigé », « à venir » (sans lien) si la page est vide ou absente.
+   L'état de chaque texte est lu dans son fichier : « brut » si la page porte le bandeau « texte
+   brut non corrigé », « à venir » (sans lien) si la page est vide ou absente. Les carrés d'état
+   (plein : relecture faite ; vide : texte brut) et leur légende ne paraissent que dans une
+   rubrique de transcriptions dont la relecture est en cours ; une rubrique entièrement relue
+   les perd d'elle-même.
 
 2. TITRES EN CAPITALES. Un titre écrit tout en capitales (« ## BORNES DE LA CONNAISSANCE. »)
    est affiché en minuscules avec sa majuscule initiale (« Bornes de la connaissance. »). Les
@@ -43,19 +48,28 @@ docs/ n'est modifié.
    toutes les transcriptions, il dépassait 200 Mo et le navigateur n'arrivait jamais au bout de
    son chargement. Pour les transcriptions (dossiers de TRANSCRIPTIONS ci-dessous), l'index ne
    garde donc que les titres (ouvrages, chapitres, paragraphes) et les premières lignes de chaque
-   section ; les autres pages restent indexées en entier.
+   section ; les autres pages restent indexées en entier, comme celles de ces dossiers qui le
+   demandent (« recherche: entier » dans l'en-tête : l'inventaire du fonds, les correspondants).
 
 5. MENU LATÉRAL. Les intitulés longs du menu sont hiérarchisés : l'auteur d'un article passe en
    surtitre au-dessus du titre (« F. Pillon — L'évolution historique de l'atomisme »), une série
    (« — 1re série ») ou une précision finale entre parenthèses (« (1876) ») passent au second
    plan, un titre très long est limité à trois lignes. Une entrée dont le fichier n'existe pas
    encore porte la mention « à venir » (et rp.js lui retire son lien, qui ne mènerait nulle part).
+   Une livraison numérotée (« N° 10 (11 avril 1872) ») est donnée sans son année, que porte le
+   volume juste au-dessus : toutes tiennent ainsi sur une ligne.
    Les intitulés de mkdocs.yml ne sont pas modifiés : seul leur affichage dans le menu l'est.
 
 6. GRAND TITRE ET ESPACES INSÉCABLES. Un titre de page long est composé dans un corps plus petit
    et sa précision finale entre parenthèses passe au second plan. Dans les transcriptions, une
    espace insécable est posée devant ; : ! ? » et après « là où il n'y en avait pas, pour qu'aucune
    ligne ne commence par un signe de ponctuation. Rien n'est modifié dans les fichiers.
+
+7. PAGES D'ACCUEIL DES VOLUMES DE REVUE. La page d'accueil d'un volume porte la table des
+   matières imprimée, reliée aux textes. Le plan que la mise en pages y ajoute en tête (une ligne
+   par page du volume) n'est pas affiché quand ces pages sont les articles eux-mêmes et que la
+   table les relie tous : il la répéterait. Quand ce sont des livraisons ou des rubriques, il est
+   resserré en une grille. Dans la table, l'intitulé mène au texte comme son numéro de page.
 
 En cas d'imprévu, chaque fonction laisse la page telle quelle et écrit un avertissement dans
 le journal de construction : le site est construit quand même.
@@ -83,6 +97,7 @@ EXCEPTIONS = {
 MARQUEUR = '<!-- sommaire -->'
 REPLI_AUTO = 15        # au-delà de ce nombre de lignes, les groupes d'une rubrique sont repliés à l'arrivée
 _NAV = {'nav': None, 'imbrication': True, 'unites': None}
+_CARTE = {'etats': False}     # la carte en cours de fabrication montre-t-elle l'état de ses textes ?
 _ETATS = {}
 _ENTETES = {}
 
@@ -212,6 +227,17 @@ def decouper_intitule(intitule):
 
 def _balises_intitule(intitule, a_venir=False):
     """Le balisage de l'intitulé pour le menu, ou None quand le texte nu suffit."""
+    livraison = _LIVRAISON.match((intitule or '').strip())
+    if livraison and livraison.group('num') and not a_venir:
+        # Une livraison numérotée (« N° 10 (11 avril 1872) ») : son numéro, puis sa date sans l'année, que
+        # donne le volume juste au-dessus. Toutes tiennent ainsi sur une ligne, au lieu d'une ou deux selon
+        # la longueur du mois.
+        date = livraison.group('date')
+        d = _DATE.match(date)
+        if d:
+            date = date[:d.start('an')].rstrip()
+        return Markup(f'<span class="rp-nav__titre">N°\u00a0{livraison.group("num")} '
+                      f'<span class="rp-nav__precision rp-nav__insecable">({html.escape(date)})</span></span>')
     surtitre, titre, serie, precision = decouper_intitule(intitule)
     if not (surtitre or serie or precision or a_venir) and len(titre) < _LONG:
         return None
@@ -317,7 +343,10 @@ def _marque(e):
 
 def _carre(item, e):
     """Le carré d'état d'un volume transcrit : plein, la relecture est faite ; vide, le texte est encore
-    brut. Rien pour les pages qui ne sont pas des transcriptions."""
+    brut. Rien pour les pages qui ne sont pas des transcriptions, ni dans une rubrique dont la relecture
+    est finie : l'état n'y distingue plus rien."""
+    if not _CARTE['etats']:
+        return ''
     if e not in ('ok', 'brut') or not isinstance(item, Page) or not item.file.src_uri.startswith(TRANSCRIPTIONS):
         return ''
     return '<i class="rp-carre%s" aria-hidden="true"></i>' % (' rp-carre--vide' if e == 'brut' else '')
@@ -327,7 +356,10 @@ RIEN = '<i class="rp-carre rp-carre--rien" aria-hidden="true"></i>'
 
 
 def _carre_ou_place(item, e):
-    """Le carré d'état, ou sa place laissée vide : les titres d'une liste commencent tous au même endroit."""
+    """Le carré d'état, ou sa place laissée vide : les titres d'une liste commencent tous au même endroit.
+    Rien du tout dans une rubrique qui ne montre pas d'état."""
+    if not _CARTE['etats']:
+        return ''
     return _carre(item, e) or RIEN
 
 
@@ -378,7 +410,8 @@ def _ligne_multiple(section, page):
     if index is not None and etat(index) not in ('vide', 'absent'):
         nom_titre = f'<a class="rp-cat__lien" href="{_lien(index, page)}">{nom_titre}</a>'
     # les carrés sont dans les puces : la place d'un carré garde le titre aligné sur ceux des autres lignes
-    nom_titre = RIEN + nom_titre
+    if _CARTE['etats']:
+        nom_titre = RIEN + nom_titre
     return (f'<li class="rp-cat__item rp-cat__item--multiple"{ident}><div class="rp-cat__ligne">'
             f'<span class="rp-cat__corps"><span class="rp-cat__titre">{nom_titre}</span>'
             f'<span class="rp-cat__tomes">{"".join(puces)}</span></span>'
@@ -396,23 +429,67 @@ def _en_articles(pages):
     return signes * 2 >= len(pages) or max(len(getattr(p, 'title', '') or '') for p in pages) > 60
 
 
-def _ligne_annee(section, page):
-    """Une ligne du sommaire : une année de revue qui a sa page d'accueil et dont les textes sont des
-    articles. La ligne mène à cette page (source, plan et tables du volume, chaque article relié) ; elle
-    annonce le contenu de l'année, auteur puis titre. Les articles eux-mêmes ne sont pas donnés en puces :
-    leurs titres sont trop longs pour y tenir."""
+_LIVRAISON = re.compile(r'^(?:N° (?P<num>\d+)|(?P<ord>\d+(?:re|e) livraison)) \((?P<date>[^()]+)\)$')
+_DATE = re.compile(r'^(?:(?P<jour>\d+(?:er)?) )?(?P<mois>[^\W\d]+) (?P<an>\d{4})$')
+
+
+def _du_au(debut, fin):
+    """« 8 février 1872 », « 1er août 1872 » -> « du 8 février au 1er août 1872 » ; « juillet 1889 »,
+    « décembre 1889 » -> « de juillet à décembre 1889 ». L'année n'est dite deux fois que si elle change."""
+    a, b = _DATE.match(debut), _DATE.match(fin)
+    if not (a and b):
+        return f'{debut} – {fin}'
+    if a.group('an') == b.group('an'):
+        debut = debut[:a.start('an')].rstrip()
+    if a.group('jour') and b.group('jour'):
+        return f'du {debut} au {fin}'
+    return ("d'" if debut[:1].lower() in 'aeiouyéèêàâîôûh' else 'de ') + f'{debut} à {fin}'
+
+
+def _annonce_volume(enfants):
+    """Ce que contient un volume de revue dont les pages sont des livraisons ou des rubriques, en une
+    phrase : « N° 1 à 26, du 8 février au 1er août 1872 » ; « Avril 1878, juillet 1878, octobre 1878,
+    janvier 1879 » ; « Introduction, Morale, Esthétique… »."""
+    titres = [getattr(e, 'title', '') or '' for e in enfants]
+    formes = [_LIVRAISON.match(x) for x in titres]
+    if titres and all(m and m.group('num') for m in formes):
+        premier, dernier = formes[0], formes[-1]
+        if len(formes) == 1:
+            return f'N° {premier.group("num")}, {premier.group("date")}'
+        return (f'N° {premier.group("num")} à {dernier.group("num")}, '
+                + _du_au(premier.group('date'), dernier.group('date')))
+    livraisons = any(m and m.group('ord') for m in formes)
+    noms = []
+    for titre, m in zip(titres, formes):
+        nom = m.group('date') if m and m.group('ord') else (_titre_et_date(titre)[0] or titre)
+        # dans une suite de livraisons, seul le premier nom prend la capitale (« …, janvier 1885, fin de l'Esquisse »)
+        noms.append(nom[:1].lower() + nom[1:] if livraisons else nom)
+    if noms:
+        noms[0] = noms[0][:1].upper() + noms[0][1:]
+    return ', '.join(noms)
+
+
+def _ligne_volume(section, page):
+    """Une ligne du sommaire : un volume de revue (une année, un tome) qui a sa page d'accueil. La ligne
+    mène à cette page, où se trouvent la source, les livraisons et la table des matières du volume, chaque
+    article relié ; elle annonce ce que le volume contient : ses articles, auteur puis titre, ou ses
+    livraisons. Les pages du volume ne sont pas données une à une : vingt-six numéros par tome ne se
+    lisent pas, et le chemin est le même pour toutes les revues (la revue, le volume, le texte)."""
     titre, date = _titre_et_date(section.title)
     index = _page_index(section)
     e = etat(index)
-    annonce = []
-    for enfant in section.children:
-        if enfant is index:
-            continue
-        auteur, nom, serie, precision = decouper_intitule(enfant.title)
-        nom = ' '.join(x for x in (nom, precision) if x) + (f' — {serie}' if serie else '')
-        nom = html.escape(nom.rstrip('.'))
-        annonce.append(f'<span class="rp-cat__auteur">{html.escape(auteur)}</span>, {nom}' if auteur else nom)
-    desc = '<span class="rp-cat__desc rp-cat__desc--annonce">' + '\u00a0; '.join(annonce) + '</span>' if annonce else ''
+    enfants = [x for x in section.children if x is not index]
+    if _en_articles(enfants):
+        annonce = []
+        for enfant in enfants:
+            auteur, nom, serie, precision = decouper_intitule(enfant.title)
+            nom = ' '.join(x for x in (nom, precision) if x) + (f' — {serie}' if serie else '')
+            nom = html.escape(nom.rstrip('.'))
+            annonce.append(f'<span class="rp-cat__auteur">{html.escape(auteur)}</span>, {nom}' if auteur else nom)
+        annonce = '\u00a0; '.join(annonce)
+    else:
+        annonce = html.escape(_annonce_volume(enfants))
+    desc = f'<span class="rp-cat__desc rp-cat__desc--annonce">{annonce}</span>' if annonce else ''
     ident = f' id="{section.rp_ancre}"' if getattr(section, 'rp_ancre', None) else ''
     corps = (f'<span class="rp-cat__corps"><span class="rp-cat__titre">{_carre_ou_place(index, e)}{html.escape(titre)}</span>{desc}</span>'
              f'{_marque(e)}'
@@ -442,10 +519,12 @@ def _liste(items, page, niveau):
         if isinstance(item, Section):
             index = _page_index(item)
             if index is not None and all(not isinstance(e, Section) for e in item.children):
-                # une année de revue qui a sa page d'accueil
+                # un volume de revue qui a sa page d'accueil : la ligne y mène (ailleurs que dans les revues,
+                # seulement si les pages du groupe sont des articles, auteur puis titre)
                 autres = [e for e in item.children if e is not index]
-                if _en_articles(autres) and etat(index) not in ('vide', 'absent'):
-                    lignes.append(_ligne_annee(item, page))
+                en_revue = index.file.src_uri.startswith('revues/')
+                if etat(index) not in ('vide', 'absent') and (en_revue or _en_articles(autres)):
+                    lignes.append(_ligne_volume(item, page))
                 else:
                     lignes.append(_ligne_multiple(item, page))
             elif not intertitres and all(not isinstance(e, Section) for e in item.children):
@@ -477,7 +556,6 @@ def _nombre(n, paire):
 LEGENDE = ('<i class="rp-carre" aria-hidden="true"></i>Carré plein : la relecture est faite. '
            '<i class="rp-carre rp-carre--vide" aria-hidden="true"></i>Carré vide, mention « brut » : texte issu '
            'de la reconnaissance optique de caractères, qui n\'a pas encore été relu.')
-LEGENDE_FAITE = '<i class="rp-carre" aria-hidden="true"></i>Carré plein : la relecture du texte est faite.'
 
 
 def _unite(rubrique):
@@ -542,7 +620,7 @@ def _mesure(groupe, page, unite):
     if not n:
         return '<span class="rp-groupe__compte">à venir</span>'
     sortie = f'<span class="rp-groupe__compte">{html.escape(_nombre(n, unite))}</span>'
-    if page.file.src_uri.startswith(TRANSCRIPTIONS):
+    if _CARTE['etats']:
         b = etats.count('brut')
         # les carrés ne sont pas lus par les lecteurs d'écran : le relevé les dit en mots (il n'est pas affiché)
         releve = 'relecture faite' if not b else f'relecture : {n - b} sur {n}'
@@ -604,6 +682,11 @@ def sommaire_rubrique(page):
         replie = len(groupes) >= 2 and _nombre_de_lignes(enfants, groupes=True) > REPLI_AUTO
     replie = replie and emboite
     unite = _unite(rubrique)
+    # L'état des textes (carrés, légende) n'est montré que là où il distingue quelque chose : dans une
+    # rubrique de transcriptions dont la relecture est en cours. Une fois tous ses textes relus, la
+    # rubrique perd ses carrés d'elle-même.
+    etats = {etat(p) for p in _pages(rubrique)}
+    _CARTE['etats'] = 'brut' in etats and page.file.src_uri.startswith(TRANSCRIPTIONS)
     blocs, libres = [], []
 
     def vider():
@@ -644,19 +727,13 @@ def sommaire_rubrique(page):
         liens = ''.join(f'<a class="rp-puce" href="#{getattr(g, "rp_ancre", None) or ancre(g.title)}">'
                         f'{html.escape(g.title)}</a>' for g in groupes)
         blocs.insert(0, f'<nav class="rp-index" aria-label="Accès direct" data-search-exclude>{liens}</nav>')
-    etats = {etat(p) for p in _pages(rubrique)}
-    legende = ''
-    if 'brut' in etats:
-        legende = f'{LEGENDE}\n{{ .rp-legende }}'
-    elif 'ok' in etats and page.file.src_uri.startswith(TRANSCRIPTIONS):
-        legende = f'{LEGENDE_FAITE}\n{{ .rp-legende }}'
+    legende = f'{LEGENDE}\n{{ .rp-legende }}' if _CARTE['etats'] else ''
     if not emboite:
         return '\n\n'.join(b for b in [legende] + blocs if b)
     if legende:
         blocs.insert(0, '<div class="rp-sommaire__entete" markdown="1">\n\n' + legende + '\n\n</div>')
-    return '\n\n'.join(
-        [f'<div class="rp-sommaire{" rp-sommaire--replie" if replie else ""}" markdown="1">']
-        + [b for b in blocs if b] + ['</div>'])
+    classes = 'rp-sommaire' + (' rp-sommaire--replie' if replie else '') + (' rp-sommaire--etats' if _CARTE['etats'] else '')
+    return '\n\n'.join([f'<div class="{classes}" markdown="1">'] + [b for b in blocs if b] + ['</div>'])
 
 
 def _phrase(texte):
@@ -717,6 +794,88 @@ def inserer_sommaire(markdown, page):
                         + suite.strip('\n') + '\n\n</div>\n')
         return markdown.replace(MARQUEUR, bloc, 1)
     return markdown.rstrip() + '\n\n' + bloc + '\n'
+
+
+# =====================================================================================
+#  1 bis. Pages d'accueil des volumes de revue
+# =====================================================================================
+# La page d'accueil d'un volume (une année, un tome) porte la table des matières imprimée, où chaque
+# numéro de page est relié à son texte. La mise en pages y ajoute en tête un plan, une ligne par page du
+# volume. Quand ces pages sont les articles eux-mêmes, le plan répète la table : il n'est pas affiché, la
+# table suffit. Quand ce sont des livraisons ou des rubriques, il est resserré en une grille, et la table
+# vient aussitôt. Dans la table, l'intitulé mène au texte comme son numéro de page. Les fichiers ne sont
+# pas modifiés : tout se fait à la construction.
+_PLAN_LIGNE = re.compile(
+    r'^- (?:\[(?P<titre>[^\]\n]+)\]\((?P<cible>[^)#\s]+\.md)\)|(?P<nu>[^\[\n].*?)), p\. (?P<pages>[^:\n]+?)(?: : (?P<note>.*))?$')
+_PLAN = re.compile(r'(?m)^> \*\*Source\*\*.*\n(?:>.*\n)*\n((?:- .*\n)+)(?=\n)')
+
+
+def _est_volume(page):
+    """La page d'accueil d'un volume de revue : dans le dossier des revues, la page d'index d'une section
+    qui n'est pas la rubrique elle-même."""
+    parent = page.parent
+    return bool(page.is_index and isinstance(parent, Section) and parent.parent is not None
+                and page.file.src_uri.startswith('revues/'))
+
+
+def plan_de_volume(markdown, page):
+    if not _est_volume(page) or not _NAV['imbrication']:
+        return markdown
+    m = _PLAN.search(markdown)
+    if not m:
+        return markdown
+    lignes = [_PLAN_LIGNE.match(ligne) for ligne in m.group(1).rstrip('\n').split('\n')]
+    if not all(lignes) or not any(ligne.group('cible') for ligne in lignes):
+        return markdown
+    suite = markdown[m.end(1):]
+    enfants = [e for e in page.parent.children if e is not page]
+    cibles = [ligne.group('cible') for ligne in lignes if ligne.group('cible')]
+    if _en_articles(enfants) and all(re.search(r'\]\(' + re.escape(c) + r'[#)]', suite) for c in cibles):
+        # les pages du volume sont ses articles, et la table des matières, plus bas, relie chacun d'eux
+        return markdown[:m.start(1)] + suite.lstrip('\n')
+    items = []
+    for ligne in lignes:
+        titre = ligne.group('titre') or ligne.group('nu')
+        pages = ligne.group('pages').strip()
+        forme = _LIVRAISON.match(titre)
+        if forme:
+            nom, second = (f'N°\u00a0{forme.group("num")}' if forme.group('num') else forme.group('ord')), forme.group('date')
+            d = _DATE.match(second)
+            if forme.group('num') and d:
+                second = second[:d.start('an')].rstrip()     # l'année est dans le titre du volume
+        else:
+            nom, second = titre, f'p.\u00a0{pages}'
+        texte = f'{nom} <span class="rp-livraisons__date">{second}</span>'
+        if ligne.group('cible'):
+            bulle = f'{titre}, p. {pages}'.replace('\\', '').replace('"', '”')
+            items.append(f'- [{texte}]({ligne.group("cible")} "{bulle}")')
+        else:
+            items.append(f'- <span class="rp-livraisons__absent">{texte}</span>')
+    formes = [_LIVRAISON.match(ligne.group('titre') or ligne.group('nu')) for ligne in lignes]
+    numeros = all(forme and forme.group('num') for forme in formes)
+    grille = (f'<div class="rp-livraisons{" rp-livraisons--numeros" if numeros else ""}" markdown="1">\n\n'
+              + '\n'.join(items) + '\n\n</div>\n')
+    return markdown[:m.start(1)] + grille + suite
+
+
+_RANGEE = re.compile(r'(?s)<tr>\s*<td(?P<a1>[^>]*)>(?P<c1>.*?)</td>\s*<td(?P<a2>[^>]*)>(?P<c2>.*?)</td>\s*</tr>')
+_MARQUEUR_EN_TETE = re.compile(r'^\s*\[p\.\s[^\]]+\]\s*')
+
+
+def tables_cliquables(contenu):
+    """Dans une table des matières reliée (un intitulé, puis son numéro de page en lien), l'intitulé mène
+    lui aussi au texte : on vise un titre plus aisément qu'un numéro de page. Le lien du numéro reste ;
+    celui de l'intitulé n'ajoute pas d'arrêt au parcours du clavier."""
+    def rangee(m):
+        c1, c2 = m.group('c1'), m.group('c2')
+        cible = re.search(r'<a\b[^>]*\bhref="([^"]+)"', c2)
+        if not cible or '<a' in c1 or not re.sub(r'<[^>]+>', '', c1).strip():
+            return m.group(0)
+        tete = _MARQUEUR_EN_TETE.match(c1)        # un marqueur de page en tête de ligne reste hors du lien
+        avant = tete.group(0) if tete else ''
+        return (f'<tr>\n<td{m.group("a1")}>{avant}<a class="rp-table__titre" href="{cible.group(1)}" tabindex="-1">'
+                f'{c1[len(avant):]}</a></td>\n<td{m.group("a2")}>{c2}</td>\n</tr>')
+    return _RANGEE.sub(rangee, contenu)
 
 
 # =====================================================================================
@@ -1028,7 +1187,10 @@ def on_page_context(context, page, config, nav):
         if entrees is None:
             return context
         chemin = page.file.src_uri
-        if chemin.startswith(TRANSCRIPTIONS) and not page.is_index:
+        # une page d'un dossier de transcriptions qui n'en est pas une (un inventaire, une liste de noms)
+        # demande à rester cherchable en entier : « recherche: entier » dans son en-tête
+        entier = str(page.meta.get('recherche', '')).strip().lower() == 'entier'
+        if chemin.startswith(TRANSCRIPTIONS) and not page.is_index and not entier:
             for e in entrees[_INDEX['n']:]:
                 texte = e.get('text') or ''
                 if len(texte) > EXTRAIT:
@@ -1103,6 +1265,11 @@ def on_page_content(contenu, page, config, files):
             contenu = espaces_insecables(contenu)
     except Exception as e:
         log.warning('Renouvier Papers : espaces insécables non posées dans %s (%s)', page.file.src_path, e)
+    try:
+        if _est_volume(page):
+            contenu = tables_cliquables(contenu)
+    except Exception as e:
+        log.warning('Renouvier Papers : table des matières laissée telle quelle dans %s (%s)', page.file.src_path, e)
     return contenu
 
 
@@ -1122,6 +1289,10 @@ def on_page_markdown(markdown, page, config, files):
             markdown = inserer_sommaire(markdown, page)
     except Exception as e:
         log.warning('Renouvier Papers : sommaire non produit pour %s (%s)', page.file.src_path, e)
+    try:
+        markdown = plan_de_volume(markdown, page)
+    except Exception as e:
+        log.warning('Renouvier Papers : plan du volume laissé tel quel dans %s (%s)', page.file.src_path, e)
     try:
         markdown = titres_en_minuscules(markdown, page, files)
     except Exception as e:

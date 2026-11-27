@@ -449,14 +449,18 @@ button.rp-bouton { background:none; border:0; font:inherit; color:inherit; line-
 .md-typeset a.rp-cat__ligne { color:var(--text); text-decoration:none; transition:background-color .15s; }
 .md-typeset a.rp-cat__ligne:hover, .md-typeset a.rp-cat__ligne:focus-visible { background:var(--ligne-survol); color:var(--text); }
 .md-typeset a.rp-cat__ligne:hover .rp-cat__titre { color:var(--link-hover); }
-/* le carré d'état est en retrait à gauche : un titre long, sa description et ses tomes reviennent à la ligne
-   sous le titre, pas sous le carré */
-.rp-cat__corps { flex:1 1 auto; min-width:0; display:flex; flex-wrap:wrap; align-items:baseline; gap:.3rem .7rem; padding-left:calc(6px + .55rem); }
-.rp-cat__titre { font-weight:600; text-indent:calc(-6px - .55rem); }
+.rp-cat__corps { flex:1 1 auto; min-width:0; display:flex; flex-wrap:wrap; align-items:baseline; gap:.3rem .7rem; }
+.rp-cat__titre { font-weight:600; }
+/* là où l'état des textes est montré (« rp-sommaire--etats » : une rubrique dont la relecture est en cours),
+   le carré est en retrait à gauche : un titre long, sa description et ses tomes reviennent à la ligne sous
+   le titre, pas sous le carré */
+.rp-sommaire--etats .rp-cat__corps { padding-left:calc(6px + .55rem); }
+.rp-sommaire--etats .rp-cat__titre { text-indent:calc(-6px - .55rem); }
 .md-typeset a.rp-cat__lien { color:var(--text); text-decoration:none; transition:color .15s; }
 .md-typeset a.rp-cat__lien:hover, .md-typeset a.rp-cat__lien:focus-visible { color:var(--link-hover); }
 .rp-cat__desc { flex:1 0 100%; font-family:var(--police-interface); font-size:.72rem; line-height:1.45; color:var(--text-muted); }
-/* une année de revue : la ligne mène à la page du volume et annonce ses articles, auteur puis titre */
+/* un volume de revue : la ligne mène à sa page et annonce ce qu'il contient (ses articles, auteur puis titre,
+   ou ses livraisons) */
 .rp-cat__desc--annonce { line-height:1.5; }
 .rp-cat__auteur { color:var(--text); font-weight:500; }
 /* la ligne visée par un lien (fil d'Ariane d'un ouvrage en plusieurs tomes) */
@@ -486,7 +490,7 @@ button.rp-bouton { background:none; border:0; font:inherit; color:inherit; line-
 
 /* ---- la carte d'une rubrique ----
    Chaque groupe (une catégorie d'ouvrages, une revue, un auteur) tient en quelques lignes : son titre, ce
-   qu'il contient, son nombre de volumes et leurs carrés. Un clic le
+   qu'il contient, son nombre de volumes et, tant que la relecture de la rubrique est en cours, leurs carrés. Un clic le
    déplie. Quand la rubrique est longue, les groupes sont repliés à l'arrivée (hooks/renouvier.py) : on
    voit d'abord l'ensemble, le détail ensuite. Sans JavaScript (pas de classe « rp-js »), tout est déplié. */
 .rp-sommaire { margin-top:1.4rem; }
@@ -551,13 +555,33 @@ html.rp-js .rp-groupe.is-ouvert .rp-groupe__apercu--auto { display:none; }
      largeur de la ligne, date comprise (ils étaient cantonnés à gauche de la date) */
   .rp-cat__ligne { flex-wrap:wrap; }
   .rp-cat__corps { display:contents; }
-  .rp-cat__titre { flex:1 1 0; min-width:0; padding-left:calc(6px + .55rem); }
-  .rp-cat__tomes, .rp-cat__desc { order:1; flex:1 1 100%; min-width:0; margin-left:calc(6px + .55rem); }
+  .rp-cat__titre { flex:1 1 0; min-width:0; }
+  .rp-cat__tomes, .rp-cat__desc { order:1; flex:1 1 100%; min-width:0; }
+  .rp-sommaire--etats .rp-cat__titre { padding-left:calc(6px + .55rem); }
+  .rp-sommaire--etats .rp-cat__tomes, .rp-sommaire--etats .rp-cat__desc { margin-left:calc(6px + .55rem); }
   .rp-cat__tomes { display:flex; }
   /* l'annonce d'une année de revue tient en trois lignes : la page de l'année donne la suite */
   .rp-cat__desc--annonce { display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:3; line-clamp:3; overflow:hidden; }
   html.rp-js .md-typeset .rp-groupe__mesure { padding-left:.85rem; }
 }
+
+/* ---- la page d'accueil d'un volume de revue ----
+   Sous la notice de source : les livraisons du volume, resserrées en une grille (le plan que la mise en
+   pages donne en liste ; hooks/renouvier.py), puis la table des matières imprimée, où l'intitulé mène au
+   texte comme son numéro de page. */
+.md-typeset .rp-livraisons ul { list-style:none; display:flex; flex-wrap:wrap; gap:.3rem; margin:1.1rem 0 1.4rem; padding:0; }
+.md-typeset .rp-livraisons ul > li { margin:0; max-width:100%; }
+.md-typeset .rp-livraisons a, .rp-livraisons__absent { display:flex; align-items:baseline; justify-content:space-between; gap:.6rem; font-family:var(--police-titres); font-size:.64rem; font-weight:500; letter-spacing:-.02em; line-height:1.5; padding:.26rem .6rem; border-radius:.45rem; background:var(--bg-sidebar); color:var(--text); text-decoration:none; white-space:nowrap; transition:background-color .15s, color .15s; }
+.rp-livraisons__date { font-family:var(--police-interface); font-size:.66rem; font-weight:400; letter-spacing:0; color:var(--text-muted); }
+.rp-livraisons__absent { background:none; outline:1px dashed var(--border); outline-offset:-1px; color:var(--text-muted); }
+.md-typeset .rp-livraisons a:hover, .md-typeset .rp-livraisons a:focus-visible { background:var(--hover-bg); color:var(--link-hover); }
+.md-typeset .rp-livraisons a:hover .rp-livraisons__date, .md-typeset .rp-livraisons a:focus-visible .rp-livraisons__date { color:inherit; }
+/* des numéros : une grille, les colonnes alignées */
+.md-typeset .rp-livraisons--numeros ul { display:grid; grid-template-columns:repeat(auto-fill, minmax(7.1rem, 1fr)); }
+/* des rubriques : sur un écran étroit, l'indication des pages passe sous le nom plutôt que de déborder */
+.md-typeset .rp-livraisons:not(.rp-livraisons--numeros) a, .rp-livraisons:not(.rp-livraisons--numeros) .rp-livraisons__absent { flex-wrap:wrap; row-gap:0; }
+.md-typeset a.rp-table__titre { color:inherit; text-decoration:none; transition:color .15s; }
+.md-typeset a.rp-table__titre:hover { color:var(--link-hover); }
 
 /* ---- l'accueil ----
    Trois corps et pas un de plus, ceux du reste du site : le grand titre ; les titres, au corps des h2 (les
